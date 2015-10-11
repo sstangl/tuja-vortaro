@@ -1,0 +1,29 @@
+html {
+  height: 100%;
+}
+
+body {
+  border: 1px solid black;
+}
+
+#searchbar {
+  vertical-align: bottom;
+}
+
+#results {
+  height: 100%;
+  vertical-align: top;
+}
+
+.resultrow {
+  margin: 10px 10px;
+}
+
+.eo-result {
+  color: blue;
+}
+
+.en-result {
+  color: green;
+  margin-left: 15px;
+}
