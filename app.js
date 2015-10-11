@@ -89,7 +89,7 @@ function getroot(word) {
 
     // Remove the function indicator.
     var lastchar = word[word.length - 1]
-    if (lastchar === 'a' || lastchar === 'i' || lastchar === 'o') {
+    if (lastchar === 'a' || lastchar === 'i' || lastchar === 'o' || lastchar === 'e') {
         word = word.slice(0, -1);
     }
 
