@@ -9,7 +9,11 @@ searchfield.addEventListener("keypress", function(e) {
     // This breaks for English words with "ux", but... that's OK.
     var term = xreplace(searchfield.value);
 
+    // Normalize "to foo", "to be foo", and "be foo" => "foo".
     if (term.startsWith('to ')) {
+        term = term.substr(3);
+    }
+    if (term.startsWith('be ')) {
         term = term.substr(3);
     }
 
@@ -127,15 +131,14 @@ function search(word) {
         for (var j = 0; j < entry.length; ++j) {
             var lower = entry[j].toLowerCase();
 
-            // Verbs often are entered as "to foo".
+            // Normalize "to foo", "to be foo", and "be foo" => "foo".
             if (lower.startsWith('to ')) {
-                if (lower.substr(3) === lowerWord) {
-                    exactmatches.push(matches[i]);
-                    break;
-                }
+                lower = lower.substr(3);
+            }
+            if (lower.startsWith('be ')) {
+                lower = lower.substr(3);
             }
 
-            // But we also want to match on explicit searches.
             if (lower === lowerWord) {
                 exactmatches.push(matches[i]);
                 break;
