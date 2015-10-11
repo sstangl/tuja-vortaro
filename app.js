@@ -14,6 +14,15 @@ searchfield.addEventListener("keypress", function(e) {
     }
 
     var matchlist = search(term);
+
+    // If no results were found, try fixing input to a standard dictionary form.
+    if (matchlist.length === 0) {
+        var normalized = normalize_suffix(term);
+        if (normalized !== term) {
+            matchlist = search(normalized);
+        }
+    }
+
     results.innerHTML = makehtml(matchlist);
 }, false);
 
@@ -39,6 +48,59 @@ function xreplace(text) {
         text = text.replace(pairs[i][0], pairs[i][1]);
     }
     return text;
+}
+
+// Given an esperanto word, try to get a standard form.
+function normalize_suffix(word) {
+    var suffices = [
+        ['as', 'i'],
+        ['os', 'i'],
+        ['is', 'i'],
+        ['us', 'i'],
+        ['u',  'i'],
+
+        ['oj', 'o'],
+        ['ojn', 'o'],
+        ['on', 'o'],
+
+        ['aj', 'a'],
+        ['ajn', 'a'],
+        ['an', 'a'],
+
+        ['en', 'e']
+    ];
+
+    for (var i = 0; i < suffices.length; ++i) {
+        if (word.endsWith(suffices[i][0])) {
+            return word.slice(0, -1 * suffices[i][0].length) + suffices[i][1];
+        }
+    }
+
+    return word;
+}
+
+// Given an esperanto word subject to normal grammar rules, get the root.
+function getroot(word) {
+    word = normalize_suffix(word);
+
+    // Remove the function indicator.
+    var lastchar = word[word.length - 1]
+    if (lastchar === 'a' || lastchar === 'i' || lastchar === 'o') {
+        word = word.slice(0, -1);
+    }
+
+    // Get out of participle form.
+    var suffices = [
+        'ant', 'ont', 'int', 'unt', 'at', 'ot', 'it', 'ut'
+    ];
+
+    for (var i = 0; i < suffices.length; ++i) {
+        if (word.endsWith(suffices[i])) {
+            return word.slice(0, -1 * suffices[i].length);
+        }
+    }
+
+    return word;
 }
 
 // Returns a list of match indices into espdic.
@@ -94,8 +156,19 @@ function find_etymology(word) {
     // The etymology dictionary is entirely in lowercase.
     var lowerWord = word.toLowerCase();
 
+    // Look for the word directly.
     for (var i = 0; i < etymology.length; ++i) {
         if (etymology[i][0] === lowerWord) {
+            return etymology[i][1];
+        }
+    }
+
+    // If it wasn't found, try to compare roots.
+    // We can't do this in the first place because of exceptions.
+    // For example, "tri" and "tro" have distinct etymologies.
+    var root = getroot(lowerWord);
+    for (var i = 0; i < etymology.length; ++i) {
+        if (etymology[i][0].slice(0, -1) === root) {
             return etymology[i][1];
         }
     }
@@ -120,11 +193,6 @@ function makehtml(matchlist) {
         html += '<div class="resultrow">';
         html += '<span class="eo-result">' + entry[0] + '</span>';
 
-        /*
-        for (var j = 1; j < entry.length; ++j) {
-            html += '<span class="en-result">' + entry[j] + '</span>';
-        }
-        */
         html += '<span class="en-result">' + entry.slice(1).join(', ') + '</span>';
 
         var etym = find_etymology(entry[0]);
