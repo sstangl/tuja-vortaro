@@ -1,13 +1,12 @@
 var searchfield = document.getElementById("searchfield");
 var results = document.getElementById("results");
 
-searchfield.addEventListener("keypress", function(e) {
-    // Only respond to the enter key.
-    if (e.keyCode != 13)
-        return;
-
+searchfield.addEventListener("input", function() {
     // This breaks for English words with "ux", but... that's OK.
     var term = xreplace(searchfield.value);
+    if (term.length === 0) {
+        return;
+    }
 
     // Normalize "to foo", "to be foo", and "be foo" => "foo".
     if (term.startsWith('to ')) {
@@ -117,7 +116,8 @@ function search(word) {
     for (var i = 0; i < espdic.length; ++i) {
         var entry = espdic[i];
         for (var j = 0; j < entry.length; ++j) {
-            if (entry[j].toLowerCase().includes(lowerWord)) {
+            // FirefoxOS 2.2 doesn't support ES6 includes().
+            if (entry[j].toLowerCase().indexOf(lowerWord) !== -1) {
                 matches.push(i);
                 break;
             }
@@ -185,12 +185,11 @@ function makehtml(matchlist) {
         return "Nenio trovita.";
     }
 
-    if (matchlist.length > 20) {
-        return "Tro multe da rezultoj!";
-    }
+    // TODO: We could output a "more results" button.
+    var resultlen = Math.min(matchlist.length, 20);
 
     html = "";
-    for (var i = 0; i < matchlist.length; ++i) {
+    for (var i = 0; i < resultlen; ++i) {
         var entry = espdic[matchlist[i]];
 
         html += '<div class="resultrow">';
