@@ -1,7 +1,23 @@
 var searchfield = document.getElementById("searchfield");
 var results = document.getElementById("results");
 
-searchfield.addEventListener("input", function() {
+// For FirefoxOS, we want the Enter key to dismiss the on-screen keyboard.
+// Desktop doesn't have an on-screen keyboard, so Enter shouldn't lose focus.
+if (navigator.userAgent.search('Mobile') !== -1) {
+    searchfield.addEventListener("keypress", blur_on_enter, false);
+}
+
+searchfield.addEventListener("input", refresh, false);
+
+function blur_on_enter(keyevent) {
+    // keyCode is deprecated, but non-Firefox-desktop doesn't support key.
+    if (keyevent.keyCode === 13 || keyevent.key === "Enter") {
+        searchfield.blur();
+    }
+}
+
+// Use the current value of the searchfield to refresh the results.
+function refresh() {
     // This breaks for English words with "ux", but... that's OK.
     var term = xreplace(searchfield.value);
     if (term.length === 0) {
@@ -27,7 +43,7 @@ searchfield.addEventListener("input", function() {
     }
 
     results.innerHTML = makehtml(matchlist);
-}, false);
+}
 
 // Support the x-system.
 function xreplace(text) {
@@ -201,7 +217,8 @@ function makehtml(matchlist) {
         if (etym.length > 0) {
             html += '<div class="etym-result">' + etym + '</div>';
         }
-        html += '</div>';   
+        html += '</div>';
+        html += '<hr>';
     }
 
     return html;
