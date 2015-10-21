@@ -211,6 +211,9 @@ function makehtml(matchlist) {
         html += '<div class="resultrow">';
         html += '<span class="eo-result">' + entry[0] + '</span>';
 
+        // Add a space between eo-result and en-result for screen readers.
+        html += ' ';
+
         html += '<span class="en-result">' + entry.slice(1).join(', ') + '</span>';
 
         var etym = find_etymology(entry[0]);
@@ -218,7 +221,6 @@ function makehtml(matchlist) {
             html += '<div class="etym-result">' + etym + '</div>';
         }
         html += '</div>';
-        html += '<hr>';
     }
 
     return html;
