@@ -155,6 +155,18 @@ function search(word) {
                 lower = lower.substr(3);
             }
 
+            // Remove a parenthesis pair.
+            // A search for "paragraph" should return "paragraph (text)".
+            var paren = lower.indexOf('(');
+            if (paren !== -1) {
+                if (paren === 0) {
+                    lower = lower.substr(lower.indexOf(')')+1);
+                } else {
+                    lower = lower.substr(0, paren);
+                }
+                lower = lower.trim();
+            }
+
             if (lower === lowerWord) {
                 exactmatches.push(matches[i]);
                 break;
