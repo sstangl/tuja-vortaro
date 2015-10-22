@@ -27,6 +27,11 @@ for line in espdic.readlines():
 
     print >>js, '["%s","%s"],' % (esperanto, '","'.join(engarray))
 
-print >>js, ']'
+print >>js, '];'
+
+# Construct a lowercase version of espdic.
+# Done on load since it's very fast, even on phones.
+print >>js, 'var espdic_lower = espdic.map(function(a) { return a.map(String.toLowerCase); } );'
+
 espdic.close()
 js.close()

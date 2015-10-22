@@ -63478,4 +63478,5 @@ var espdic = [
 ["α-radioj","alpha rays"],
 ["β-radioj","beta rays"],
 ["γ-radioj","gamma rays"],
-]
+];
+var espdic_lower = espdic.map(function(a) { return a.map(String.toLowerCase); } );

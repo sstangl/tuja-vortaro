@@ -130,10 +130,10 @@ function search(word) {
     // Find all potentially matching candidates quickly.
     // Does not care whether the entry was in English or Esperanto.
     for (var i = 0; i < espdic.length; ++i) {
-        var entry = espdic[i];
+        var entry = espdic_lower[i];
         for (var j = 0; j < entry.length; ++j) {
             // FirefoxOS 2.2 doesn't support ES6 includes().
-            if (entry[j].toLowerCase().indexOf(lowerWord) !== -1) {
+            if (entry[j].indexOf(lowerWord) !== -1) {
                 matches.push(i);
                 break;
             }
@@ -143,9 +143,9 @@ function search(word) {
     // Filter out exact matches.
     var exactmatches = [];
     for (var i = 0; i < matches.length; ++i) {
-        var entry = espdic[matches[i]];
+        var entry = espdic_lower[matches[i]];
         for (var j = 0; j < entry.length; ++j) {
-            var lower = entry[j].toLowerCase();
+            var lower = entry[j];
 
             // Normalize "to foo", "to be foo", and "be foo" => "foo".
             if (lower.startsWith('to ')) {
@@ -216,7 +216,7 @@ function makehtml(matchlist) {
     // TODO: We could output a "more results" button.
     var resultlen = Math.min(matchlist.length, 20);
 
-    html = "";
+    var html = "";
     for (var i = 0; i < resultlen; ++i) {
         var entry = espdic[matchlist[i]];
 
