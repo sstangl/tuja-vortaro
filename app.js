@@ -210,7 +210,7 @@ function find_etymology(word) {
 // Given a list of match indices into espdic, display them as HTML.
 function makehtml(matchlist) {
     if (matchlist.length === 0) {
-        return "Nenio trovita.";
+        return '<span lang="eo">Nenio trovita.</span>';
     }
 
     // TODO: We could output a "more results" button.
