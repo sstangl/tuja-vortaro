@@ -43,6 +43,7 @@ var etymology = [
 ["aerostato","Rus. aэpocтат, Lit. aerostatas, Ita. aerostato"],
 ["afero","Lit. afera, Pol. afera, Ger. Affäre, Fre. affaire, Ita. affare, Eng. affair"],
 ["afiŝo","Rus. aфишa, Lit. afiša, Pol. afisz, Fre. affiche"],
+["afranki","Fre. affranchir, Ita. affrancare, Spa. franquear"],
 ["afrikano","Rus. aфpиканeц, Ger. Afrikaner, Fre. africain, Ita. africano, Eng. African"],
 ["afusto","Ita. affusto"],
 ["agaci","Fre. agacer"],
