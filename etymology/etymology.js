@@ -484,7 +484,7 @@ var etymology = [
 ["certeco","Ita. certezza"],
 ["cervo","Fre. cerf, Ita. cervo, Lat. cervus"],
 ["cetere","Lat. cetera"],
-["cifero","Pol. cyfra, Ita. cifra"],
+["cifero","Ger. Ziffer, Rus. цифра, Pol. cyfra, Ita. cifra"],
 ["cin","Pol. cię"],
 ["cigaredo","Lit. cigarete, Fre. cigarette, Eng. cigarette"],
 ["cigaro","Lit. cigaras, Pol. cygaro, Fre. cigare, Eng. cigar"],
