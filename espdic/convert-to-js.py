@@ -31,7 +31,8 @@ print >>js, '];'
 
 # Construct a lowercase version of espdic.
 # Done on load since it's very fast, even on phones.
-print >>js, 'var espdic_lower = espdic.map(function(a) { return a.map(String.toLowerCase); } );'
+# Chrome seems to not like a.map(String.prototype.toLowerCase).
+print >>js, 'var espdic_lower = espdic.map(function(a) { return a.map(function(x) { return x.toLowerCase(); }) });'
 
 espdic.close()
 js.close()
