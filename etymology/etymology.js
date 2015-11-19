@@ -1,3 +1,4 @@
+'use strict';
 var etymology = [
 ["abato","Rus. aббaт, Ger. Abt, Ita. abate, Eng. abbot"],
 ["abdiki","Fre. abdiquer, Ita. abdicare, Eng. abdicate, Lat. abdicare"],

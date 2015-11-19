@@ -1,4 +1,5 @@
 // ESPDIC by Paul Denisowski, CC-BY-3.0.
+'use strict';
 var espdic = [
 ["-a","(adjective ending)"],
 ["-aĉ-","(denotes badness of quality","disparaging)"],

@@ -5,6 +5,7 @@
 etym = open('etymology.txt', 'r')
 js = open('etymology.js', 'w')
 
+print >>js, "'use strict';"
 print >>js, 'var etymology = ['
 
 # Each line contains an Esperanto word, followed by "=" and a list of sources.

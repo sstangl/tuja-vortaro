@@ -1,3 +1,5 @@
+'use strict';
+
 var searchfield = document.getElementById("searchfield");
 var results = document.getElementById("results");
 

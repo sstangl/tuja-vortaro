@@ -8,6 +8,7 @@ espdic = open('espdic.txt', 'r')
 js = open('espdic.js', 'w')
 
 print >>js, '// ESPDIC by Paul Denisowski, CC-BY-3.0.'
+print >>js, "'use strict';"
 print >>js, 'var espdic = ['
 
 # The first line is authorship information.
