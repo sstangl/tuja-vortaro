@@ -5,6 +5,8 @@ var results = document.getElementById("results");
 // Desktop doesn't have an on-screen keyboard, so Enter shouldn't lose focus.
 if (navigator.userAgent.search('Mobile') !== -1) {
     searchfield.addEventListener("keypress", blur_on_enter, false);
+    // The autofocus attribute doesn't bring up the keyboard in FxOS.
+    searchfield.focus();
 }
 
 searchfield.addEventListener("input", refresh, false);
