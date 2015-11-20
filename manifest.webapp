@@ -2,7 +2,7 @@
   "name": "Poŝa Vortaro",
   "description": "Poŝa Esperanta Vortaro",
   "version": "0.1",
-  "launch_path": "/index.html",
+  "launch_path": "/index-fxos.html",
   "icons": {
     "16": "/icons/icon16x16.png",
     "48": "/icons/icon48x48.png",
@@ -10,7 +10,8 @@
     "128": "/icons/icon128x128.png"
   },
   "developer": {
-    "name": "Sean Stangl"
+    "name": "Sean Stangl",
+    "url": "https://github.com/sstangl/vortaro-fxos"
   },
   "permissions": {
   },

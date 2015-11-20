@@ -27,7 +27,7 @@ function on_keystroke() {
 // Given a list of match indices into espdic, display them as HTML.
 function makehtml(matchlist) {
     if (matchlist.length === 0) {
-        return '<span lang="eo">Nenio trovita.</span>';
+        return '<div class="resultrow" lang="eo">Nenio trovita.</span>';
     }
 
     var resultlen = Math.min(matchlist.length, 20);

@@ -9,6 +9,20 @@ html, body {
   position: relative;
 }
 
+/* Uzata de ĝenerala retumilo, ĉar kutime oni rigardas supere. */
+#header {
+  margin: 0;
+  padding: 0 0 0 10px;
+  top: 0;
+
+  background-color: #00B000;
+
+  height: 50px;
+
+  display: flex;
+}
+
+/* Uzata nur de FxOS, ĉar la tajpilo aperos ĉe la subo. */
 #footer {
   margin: 0;
   padding: 0;
@@ -16,7 +30,7 @@ html, body {
   position: fixed;
   bottom: 0;
 
-  background-color: white;
+  background-color: #00B000;
 
   width: 100%;
   height: 50px;
@@ -27,23 +41,29 @@ html, body {
 }
 
 #results {
-  padding-bottom: 50px;
+  padding: 5px;
 }
 
 .resultrow {
-  margin: 8px 8px;
+  margin: 5px 5px;
 }
 
 .eo-result {
-  color: blue;
+  color: #0000FF;
 }
 
 .en-result {
-  color: green;
+  color: #007700;
   margin-left: 10px;
 }
 
-input {
-  padding: 7px 9px;
-  font-size: 1em;
+input[type="text"] {
+  align-self: center;
+  font-size: 18px;
+
+  outline: none;
+  padding: 3px 0 3px 3px;
+  margin: 5px 1px 3px 0;
+  border: 1px solid #006600;
+  box-shadow: 0 0 5px #007700;
 }
