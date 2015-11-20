@@ -38,7 +38,7 @@ function asertuEgalas(x, y) {
 
 // Testas la x-sistemon.
 (function () {
-    // Testas, ke oni povas traduki ĉiu litero.
+    // Testas, ke oni povas traduki ĉiun literon.
     asertuEgalas(xreplace("cxgxhxjxsxux"), "ĉĝĥĵŝŭ");
     asertuEgalas(xreplace("cXgXhXjXsXuX"), "ĉĝĥĵŝŭ");
     asertuEgalas(xreplace("CXGXHXJXSXUX"), "ĈĜĤĴŜŬ");
