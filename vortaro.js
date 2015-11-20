@@ -35,23 +35,16 @@ function normalize_english(string) {
 // Support the x-system.
 function xreplace(text) {
     var pairs = [
-        ['cx', 'ĉ'],
-        ['gx', 'ĝ'],
-        ['hx', 'ĥ'],
-        ['jx', 'ĵ'],
-        ['sx', 'ŝ'],
-        ['ux', 'ŭ'],
-        ['Cx', 'Ĉ'],
-        ['Gx', 'Ĝ'],
-        ['Hx', 'Ĥ'],
-        ['Jx', 'Ĵ'],
-        ['Sx', 'Ŝ'],
-        ['Ux', 'Ŭ']
+        ['cx', 'ĉ'], ['cX', 'ĉ'], ['Cx', 'Ĉ'], ['CX', 'Ĉ'],
+        ['gx', 'ĝ'], ['gX', 'ĝ'], ['Gx', 'Ĝ'], ['GX', 'Ĝ'],
+        ['hx', 'ĥ'], ['hX', 'ĥ'], ['Hx', 'Ĥ'], ['HX', 'Ĥ'],
+        ['jx', 'ĵ'], ['jX', 'ĵ'], ['Jx', 'Ĵ'], ['JX', 'Ĵ'],
+        ['sx', 'ŝ'], ['sX', 'ŝ'], ['Sx', 'Ŝ'], ['SX', 'Ŝ'],
+        ['ux', 'ŭ'], ['uX', 'ŭ'], ['Ux', 'Ŭ'], ['UX', 'Ŭ']
     ];
 
-    text = text.replace('X', 'x');
     for (var i = 0; i < pairs.length; ++i) {
-        text = text.replace(pairs[i][0], pairs[i][1]);
+        text = text.replace(new RegExp(pairs[i][0], 'g'), pairs[i][1]);
     }
     return text;
 }
