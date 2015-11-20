@@ -60,6 +60,76 @@ function asertuEgalas(x, y) {
     asertuEgalas(xreplace("  Spaco-vorto  "), "  Spaco-vorto  ");
 })();
 
+
+// Testas la sistemon, kiu trovas radikojn por la etimologia vortaro.
+(function () {
+    // Substantivoj.
+    asertuEgalas(getroot("viro"), "vir");
+    asertuEgalas(getroot("viron"), "vir");
+    asertuEgalas(getroot("viroj"), "vir");
+    asertuEgalas(getroot("virojn"), "vir");
+
+    // Adjektivoj.
+    asertuEgalas(getroot("laca"), "lac");
+    asertuEgalas(getroot("lacan"), "lac");
+    asertuEgalas(getroot("lacaj"), "lac");
+    asertuEgalas(getroot("lacajn"), "lac");
+
+    // Adverboj (kaj nevortoj).
+    asertuEgalas(getroot("hejme"), "hejm");
+    asertuEgalas(getroot("hejmen"), "hejm");
+    asertuEgalas(getroot("hejmej"), "hejmej");
+    asertuEgalas(getroot("hejmejn"), "hejmejn");
+
+    // Participoj.
+    asertuEgalas(getroot("ludanto"), "lud");
+    asertuEgalas(getroot("ludanton"), "lud");
+    asertuEgalas(getroot("ludantoj"), "lud");
+    asertuEgalas(getroot("ludantojn"), "lud");
+    asertuEgalas(getroot("ludinto"), "lud");
+    asertuEgalas(getroot("ludinton"), "lud");
+    asertuEgalas(getroot("ludintoj"), "lud");
+    asertuEgalas(getroot("ludintojn"), "lud");
+    asertuEgalas(getroot("ludonto"), "lud");
+    asertuEgalas(getroot("ludonton"), "lud");
+    asertuEgalas(getroot("ludontoj"), "lud");
+    asertuEgalas(getroot("ludontojn"), "lud");
+
+    // Neoficialaj participoj.
+    asertuEgalas(getroot("ludunto"), "lud");
+    asertuEgalas(getroot("ludunton"), "lud");
+    asertuEgalas(getroot("luduntoj"), "lud");
+    asertuEgalas(getroot("luduntojn"), "lud");
+
+    // Participoj kvazaŭ adjektivoj.
+    asertuEgalas(getroot("montranta"), "montr");
+    asertuEgalas(getroot("montrinta"), "montr");
+    asertuEgalas(getroot("montronta"), "montr");
+    asertuEgalas(getroot("montrata"), "montr");
+    asertuEgalas(getroot("montrita"), "montr");
+    asertuEgalas(getroot("montrota"), "montr");
+
+    // Participoj kvazaŭ adverboj.
+    asertuEgalas(getroot("naĝante"), "naĝ");
+    asertuEgalas(getroot("naĝinte"), "naĝ");
+    asertuEgalas(getroot("naĝonte"), "naĝ");
+    asertuEgalas(getroot("naĝate"), "naĝ");
+    asertuEgalas(getroot("naĝite"), "naĝ");
+    asertuEgalas(getroot("naĝote"), "naĝ");
+
+    // Verboj.
+    asertuEgalas(getroot("doni"), "don");
+    asertuEgalas(getroot("donas"), "don");
+    asertuEgalas(getroot("donis"), "don");
+    asertuEgalas(getroot("donos"), "don");
+    asertuEgalas(getroot("donus"), "don");
+    asertuEgalas(getroot("donu"), "don");
+
+    // Neĝustaj strangaĵoj.
+    asertuEgalas(getroot("pluvantanto"), "pluvant");
+    asertuEgalas(getroot("domususus"), "domusus");
+})();
+
 asertuKongruas(search("swim"), ["naĝi"]);
 asertuKongruas(search("to swim"), ["naĝi"]);
 asertuKongruas(search("swimming"), ["naĝado"]);
