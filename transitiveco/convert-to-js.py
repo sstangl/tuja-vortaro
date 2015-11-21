@@ -27,5 +27,19 @@ for linio in trans.readlines():
     print >>js, '%s:%s,' % (partoj[0], kurtnomo_al_cifero(partoj[1]))
 
 print >>js, '};'
+
+print >>js, "function trovu_transitivecon(vorto) {"
+print >>js, "    var sercxo = transitiveco[vorto];"
+print >>js, "    if (sercxo === undefined)"
+print >>js, "        return '';"
+print >>js, "    if (sercxo === %s)" % NTR
+print >>js, "        return 'ntr';"
+print >>js, "    if (sercxo === %s)" % TR
+print >>js, "        return 'tr';"
+print >>js, "    if (sercxo === %s)" % TR_NTR
+print >>js, "        return 'tr/ntr';"
+print >>js, "    return '';"
+print >>js, "}"
+
 trans.close()
 js.close()

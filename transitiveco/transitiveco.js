@@ -146,6 +146,7 @@ alŝipi:0,
 alskribi:1,
 alŝovi:1,
 alŝraŭbi:1,
+alŝuti:1,
 alsupri:0,
 alterni:0,
 alti:0,
@@ -1989,7 +1990,7 @@ komandi:1,
 kombini:1,
 kombi:1,
 komedii:2,
-komenci:2,
+komenci:1,
 komentarii:1,
 komenti:1,
 komercaĉi:0,
@@ -4216,3 +4217,15 @@ zoni:1,
 zorgi:2,
 zumi:0,
 };
+function trovu_transitivecon(vorto) {
+    var sercxo = transitiveco[vorto];
+    if (sercxo === undefined)
+        return '';
+    if (sercxo === 0)
+        return 'ntr';
+    if (sercxo === 1)
+        return 'tr';
+    if (sercxo === 2)
+        return 'tr/ntr';
+    return '';
+}

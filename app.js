@@ -39,6 +39,14 @@ function makehtml(matchlist) {
         html += '<div class="resultrow">';
         html += '<span class="eo-result" lang="eo">' + entry[0] + '</span>';
 
+        // Se la vorto estas verbo, montru ankaŭ ĝian transitivecon.
+        if (entry[0][entry[0].length - 1] === 'i') {
+            var transitiveco = trovu_transitivecon(entry[0]);
+            if (transitiveco.length !== 0) {
+                html += ' <span class="eo-informacio" lang="eo">(' + transitiveco + ')</span>';
+            }
+        }
+
         // Add a space between eo-result and en-result for screen readers.
         html += ' ';
 
