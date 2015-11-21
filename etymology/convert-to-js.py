@@ -25,6 +25,6 @@ for line in etym.readlines():
 
     print >>js, '["%s","%s"],' % (esperanto, sources)
 
-print >>js, ']'
+print >>js, '];'
 etym.close()
 js.close()

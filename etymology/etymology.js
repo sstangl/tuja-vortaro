@@ -3987,4 +3987,4 @@ var etymology = [
 ["zorgi","Yid. zorgn, Ger. sorgen"],
 ["zorgo","Yid. zorg, Ger. Sorge"],
 ["zumi","Ger. summen"],
-]
+];
