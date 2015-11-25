@@ -130,8 +130,12 @@ function asertuEgalas(x, y) {
     asertuEgalas(getroot("domususus"), "domusus");
 })();
 
+// Testas anglajn serĉojn pri verboj.
+(function () {
+    asertuKongruas(search("to be happy"), ["feliĉi"]);
+    asertuKongruas(search("be happy"), ["feliĉi"]);
+})();
+
 asertuKongruas(search("swim"), ["naĝi"]);
 asertuKongruas(search("to swim"), ["naĝi"]);
 asertuKongruas(search("swimming"), ["naĝado"]);
-
-print("hi");

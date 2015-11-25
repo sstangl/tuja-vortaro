@@ -2,6 +2,7 @@
 
 // Main search function.
 function search(term) {
+    term = term.trim();
     term = normalize_english(term);
     if (term.length === 0) {
         return [];
@@ -24,9 +25,9 @@ function search(term) {
     return [];
 }
 
-// Normalize "to foo", "to be foo", and "be foo" => "foo".
+// Normalize "to foo" => "foo".
 function normalize_english(string) {
-    if (string.startsWith('to ') || string.startsWith('be ')) {
+    if (string.startsWith('to ')) {
         return string.substr(3);
     }
     return string;
