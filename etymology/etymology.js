@@ -2090,6 +2090,7 @@ var etymology = [
 ["lui","Fre. louer"],
 ["lukano","Lat. lucanus"],
 ["luko","Rus. люк, Ger. Luke"],
+["lukri","Spa. lucro, Ita. lucro, Fre. lucre, Eng. lucre, Lat. lucrum"],
 ["lukso","Pol. luksus, Ger. Luxus, Fre. luxe, Lat. luxus"],
 ["lukti","Lat. luctari"],
 ["luli","Ger. lullen, Eng. lull"],
