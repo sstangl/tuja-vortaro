@@ -96,7 +96,11 @@ function load_and_set_current_dictionary() {
 
 // Load the initial dictionary, and set it to update on language change.
 load_and_set_current_dictionary();
-langfield.addEventListener("change", load_and_set_current_dictionary, false);
+langfield.addEventListener("change",
+    function () {
+        load_and_set_current_dictionary();
+        searchfield.focus();
+    }, false);
 // Keydown needs to wait for the value to change.
 langfield.addEventListener("keydown",
     function () {
