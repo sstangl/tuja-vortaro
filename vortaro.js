@@ -1,7 +1,7 @@
 'use strict';
 
 // Main search function.
-function search(term) {
+function search(term, dict, dict_lower) {
     term = term.trim();
     term = normalize_english(term);
     if (term.length === 0) {
@@ -11,7 +11,7 @@ function search(term) {
     // This breaks for English words with "ux", but... that's OK.
     term = xreplace(term);
 
-    var matchlist = search_exact(term);
+    var matchlist = search_exact(term, dict, dict_lower);
     if (matchlist.length !== 0) {
         return matchlist;
     }
@@ -19,7 +19,7 @@ function search(term) {
     // If no results were found, try fixing input to a standard dictionary form.
     var normalized = normalize_suffix(term);
     if (normalized !== term) {
-        return search_exact(normalized);
+        return search_exact(normalized, dict, dict_lower);
     }
 
     return [];
@@ -122,8 +122,8 @@ function is_exact_match(entry, search) {
     return (v === search);
 }
 
-// Returns a list of match indices into espdic.
-function search_exact(word) {
+// Returns a list of match indices into the dictionary.
+function search_exact(word, dict, dict_lower) {
     var matches = [];
     var exactmatches = [];
     var i, j;
@@ -133,8 +133,8 @@ function search_exact(word) {
 
     // Find all potentially matching candidates quickly.
     // Does not care whether the entry was in English or Esperanto.
-    for (i = 0; i < espdic.length; ++i) {
-        entry = espdic_lower[i];
+    for (i = 0; i < dict.length; ++i) {
+        entry = dict_lower[i];
         for (j = 0; j < entry.length; ++j) {
             // FirefoxOS 2.2 doesn't support ES6 includes().
             if (entry[j].indexOf(lowerWord) !== -1) {

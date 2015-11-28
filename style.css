@@ -66,8 +66,13 @@ input[type="text"] {
   font-size: 18px;
 
   outline: none;
-  padding: 3px 0 3px 3px;
-  margin: 5px 1px 3px 0;
+  padding: 3px;
+  margin: 5px 5px 3px 0;
   border: 1px solid #006600;
   box-shadow: 0 0 5px #007700;
+}
+
+select {
+  align-self: center;
+  margin-left: 3px;
 }

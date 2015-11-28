@@ -134,7 +134,9 @@ def main():
 
             ordered = sorted(entries.items())
             for entry in ordered:
-                print >>js, ('["%s","%s"],' % (entry[0], entry[1])).encode("utf-8")
+                eo = entry[0].replace('"', "'");
+                tra = entry[1].replace('"', "'");
+                print >>js, ('["%s","%s"],' % (eo, tra)).encode("utf-8")
 
             print >>js, '];'
 
