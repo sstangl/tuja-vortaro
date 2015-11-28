@@ -1,0 +1,136 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+  <art mrk="$Id: pupitr.xml,v 1.17 2015/07/04 08:37:42 revo Exp $">
+    <kap>
+      <ofc>1</ofc>
+      <rad>pupitr</rad>/o
+    </kap>
+
+    <drv mrk="pupitr.0o">
+      <kap><tld/>o</kap>
+      <snc>
+	<dif>
+	  Meblo kies supera parto havas deklivon, sur kiu oni metas
+	  libron, kajeron, por pli komforte legi a&ubreve; skribi.
+	</dif>
+	<subsnc mrk="pupitr.0o.sida">
+	  <dif>
+	    Tia, &ccirc;e kiu oni laboras side:
+	    <ekz>
+	      <ind><tld/>o de lernejano</ind>;
+          <trd lng="hu">iskolapad</trd>
+	      <trd lng="ru">&c_p;&c_a;&c_r;&c_t;&c_a;</trd>
+	    </ekz><ekz>
+	      <tld/>o de violonisto.
+	    </ekz>
+	  </dif>
+	  <ref tip="vid" cel="konzol.0o.meblo">konzolo</ref>
+      <trd lng="hu">pulpitus</trd>
+	  <trd lng="ru">&c_p;&c_ju;&c_p;&c_i;&c_t;&c_r;</trd>
+	</subsnc>
+	<subsnc mrk="pupitr.0o.stara">
+	  <dif>
+	    Alta <ref cel="skrib.0tablo">skribotablo</ref>, &ccirc;e kiu
+oni
+	    laboras stare.
+	  </dif>
+      <trd lng="hu">&iacute;r&oacute;pult</trd>	  
+	  <trd lng="ru">&c_k;&c_o;&c_n;&c_t;&c_o;&c_r;&c_k;&c_a;</trd>
+	</subsnc>
+	<subsnc mrk="pupitr.0o.dirigenta">
+	  <dif>
+	    Meblo sur kiun direktanto de orkestro metas la partituron.
+	  </dif>
+      <trd lng="hu">karmesteri <ind>pult</ind></trd>
+	  <trd lng="ru">&c_p;&c_u;&c_l;&c_mol;&c_t;</trd>
+	</subsnc>
+	<subsnc mrk="pupitr.0o.kirka">
+	  <uzo tip="fak">KRI</uzo>
+	  <dif>
+	    Tia meblo en kristana
+	    <ref tip="malprt" cel="pregx.0ejo">pre&gcirc;ejo</ref>,
+	    staranta anta&ubreve; la altarejo, sur kiun dum la diservo
+	    oni metas diservajn librojn a&ubreve; ikonojn.
+	  </dif>
+	  <rim>
+       La PIV-oj nomas tion &leftquot;&hcirc;or<tld/>o&rightquot; &dash;
+       malta&ubreve;ge kaj malkonvene por rusa ortodoksa kirko (fakte, 
+     la afero neniel rilatas al ia ajn &leftquot;&hcirc;oro&rightquot;).
+       Pli konvena estas &leftquot;leg<tld/>o&rightquot; en <fnt>
+       <bib>CEE</bib></fnt>; sed jam simpla
+	    &leftquot;<tld/>o&rightquot; &scirc;ajnas sufi&ccirc;a.
+	    <aut>Sergio Pokrovskij</aut>
+	  </rim>
+	  <trd lng="en">lectern</trd>
+	  <trd lng="fr">lutrin</trd>
+      <trd lng="hu">olvas&oacute;&aacute;llv&aacute;ny</trd>	  
+	  <trd lng="ru">&c_a;&c_n;&c_a;&c_l;&c_o;&c_j;</trd>
+	</subsnc>
+      </snc>
+      <ref tip="vid" cel="tribun.0o">tribuno</ref>
+      <trd lng="ca">pupitre</trd>
+      <trd lng="de">Pult</trd>
+     <trd lng="en">desk</trd>
+     <trd lng="es">pupitre</trd>
+     <trd lng="fr">pupitre</trd>
+     <trd lng="nl">lessenaar</trd>
+     <trd lng="pl">pulpit</trd>
+     <trdgrp lng="pt">
+      <trd>carteira (escolar)</trd>,
+      <trd>estante (de m&uacute;sica)</trd>
+     </trdgrp>
+      <trdgrp lng="sk">
+    <trd>rečnícky pult</trd>,
+    <trd>šikmý stojan</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>pult na noty</trd>,
+    <trd>stojan na noty</trd>
+  </trdgrp>
+</drv>
+  </art>
+  <!--
+  $Log: pupitr.xml,v $
+  Revision 1.17  2015/07/04 08:37:42  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.16  2015/06/29 16:40:19  revo
+  aldono de trd sk per skripto de M. von Laer
+
+  Revision 1.15  2008/05/19 16:30:38  revo
+  Sebastian Cyprych: +trd pl
+
+  Revision 1.14  2006/02/08 17:32:52  revo
+  Tulio Flores: +trd pt
+
+  Revision 1.13  2006/01/09 17:33:11  revo
+  Raul Salinas Monteagudo: +trd ca,en,es,fr
+
+  Revision 1.12  2004/08/17 18:11:15  revo
+  Jozefo Horvath: +trd hu
+
+  Revision 1.11  2003/03/28 17:31:33  revo
+  Sergio Pokrovskij: -tajperaro
+
+  Revision 1.10  2003/03/27 17:31:00  revo
+  Sergio Pokrovskij: interpunkcio
+
+  Revision 1.9  2003/03/26 17:30:53  revo
+  Sergio Pokrovskij: reverkita
+
+  Revision 1.8  2002/12/19 17:32:35  revo
+  Jozefo Horvath: +trd hu
+
+  Revision 1.7  2001/12/25 17:35:18  revo
+  Yury Finkel: +trd ru
+
+  Revision 1.6 2001/06/22 18:12:13 revo
+  Paul Peeraerts: ald trd nl
+
+  Revision 1.5 2001/05/17 18:14:02 revo
+  Dennis Wibrow: +trd germ
+
+  -->
+</vortaro>

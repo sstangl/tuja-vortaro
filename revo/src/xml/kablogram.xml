@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: kablogram.xml,v 1.5 2015/07/04 08:37:36 revo Exp $">
+<kap>
+  <rad>kablogram</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="kablogram.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="kablogram.0o.TEL">
+    <uzo tip="fak">TEL</uzo>
+    <dif>
+      <ref tip="super" cel="telegr1.0o">Telegramo</ref> transsendita 
+      per kablaj elektraj signaloj:
+      <ekz>
+        ver&scirc;ajne mia dua <tld/>o malfrui&gcirc;is
+        <fnt><aut>E. Wharton, trad. E. Grobe</aut>, <vrk>Aliaj 
+        Tempoj</vrk>, <lok>Arizona-Stelo, 1999</lok></fnt>;
+      </ekz>
+      <ekz>
+        Fidel petas skribojn, informojn, <tld/>ojn, nova&jcirc;ojn de la 
+        nacia kaj eksterlanda gazetaro
+        <fnt>
+          <aut>I. Ramonet, trad. P. F.</aut>,
+          <vrk><url ref="http://www.nodo50.org/esperanto/artik63.htm">
+          Cent  Horoj  kun  Fidel</url></vrk>,
+          <lok>2007-05</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="ca">
+    <trd>cablegrama</trd>,
+    <trd>cable</trd>
+  </trdgrp>
+  <trd lng="cs">kabelogram</trd>
+  <trd lng="fr">c&acirc;blogramme</trd>
+  <trdgrp lng="pt">
+    <trd>cabograma</trd>,
+    <trd>cabo <klr>(mensagem)</klr></trd>
+  </trdgrp>
+  <trd lng="sk">kábelogram</trd>
+</drv>
+</art>
+
+<!--
+$Log: kablogram.xml,v $
+Revision 1.5  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.4  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.3  2012/08/30 09:10:19  revo
+Marc Rausell: + trd ca
+
+Revision 1.2  2007/09/09 16:30:23  revo
+Tulio Flores: +tr pt
+
+Revision 1.1  2007/08/27 16:30:18  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

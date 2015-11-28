@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+   <art mrk="$Id: umlauxt.xml,v 1.10 2014/05/06 11:10:23 revo Exp $">
+     <kap>
+       <rad>umla&ubreve;t</rad>/o
+     </kap>
+
+     <drv mrk="umlauxt.0o">
+       <kap><tld/>o</kap>
+       <snc mrk="umlauxt.0o.FON">
+         <uzo tip="fak">FON</uzo>
+	<dif>
+            Vokal&scirc;an&gcirc;o, palatigo de vokaloj (precipe a, o, u):
+            <ekz>
+               en la &gcirc;ermanaj lingvoj <tld/>o i.a. formas multenombron,
+               kiel en <em>man &#8208; men, Gast &#8208; G&auml;ste,
+               Mutter &#8208; M&uuml;tter</em>.
+           </ekz>
+         </dif>
+	<rim>
+            Oni ne konfuzu la fonetikan fenomenon <tld/>o kun la
+            diakritilo <ref cel="trema.0o">tremao</ref>:
+            en la germana <em>Gans &#8208; G&auml;nse</em> ni kaj a&ubreve;das
+            <tld/>on kaj vidas tremaon, dum en la angla
+            <em>goose &#8208; geese</em> estas nur <tld/>o.
+         </rim>
+       <trd lng="be">&c_u;&c_m;&c_l;&c_ja;&c_w;&c_t;</trd>
+       <trd lng="ca">di&egrave;resi</trd>
+       <trdgrp lng="ru">
+          <trd>&c_u;&c_m;&c_l;&c_ja;&c_u;&c_t;</trd>,
+
+<trd>&c_p;&c_je;&c_r;&c_je;&c_g;&c_l;&c_a;&c_s;&c_o;&c_v;&c_k;&c_a;</trd>
+         </trdgrp>
+       </snc>
+       <trd lng="en">umlaut</trd>
+       <trdgrp lng="fi">
+         <trd>umlaut</trd>,
+         <trd>vokaalinmukaus</trd>
+       </trdgrp>
+       <trd lng="fr">umlaut</trd>
+       <trd lng="hu">umlaut</trd>
+       <trd lng="it">umlaut</trd>
+       <trd lng="nl">umlaut<klr tip="ind">
+       (klantverschuiving)</klr></trd>
+       <trdgrp lng="pt">
+         <trd>metafonia</trd>,
+         <trd>umlaut</trd>
+       </trdgrp>
+     </drv>
+   </art>
+
+<!--
+$Log: umlauxt.xml,v $
+Revision 1.10  2014/05/06 11:10:23  revo
+Damien Brucker: +trd fr
+
+Revision 1.9  2012/07/14 10:10:11  revo
+Marc Rausell: + trd ca
+
+Revision 1.8  2009/09/12 16:30:46  revo
+Paul Peeraerts: +nl -xml-eraroj
+
+Revision 1.7  2009/08/18 19:19:11  revo
+Antonio Codazzi: +trd it
+
+Revision 1.6  2007/06/19 16:31:09  revo
+Harri Laine: +trd fi
+
+Revision 1.5  2006/02/09 17:31:08  revo
+Tulio Flores: +trd pt
+
+Revision 1.4  2002/08/22 17:31:55  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.3  2002/07/04 19:11:55  revo
+-->
+</vortaro>

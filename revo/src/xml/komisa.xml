@@ -1,0 +1,140 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: komisa.xml,v 1.15 2015/07/04 08:37:37 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>komisar</rad>/o  <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="komisa.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="komisa.0o.POL">
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      Tiu, kiu estas komisiita de &scirc;tato a&ubreve; privata organizo por
+      plenumi specialan neda&ubreve;ran funkcion:
+      <ekz>
+        <tld/>o de la registaro apud la parlamento
+        <klr>(por klarigi kaj apogi specialan le&gcirc;oprojekton)</klr>;
+      </ekz>
+      <ekz>
+        <tld/>o de balo, de festo
+        <klr>(komisiita por &gcirc;in prepari kaj prizorgi)</klr>;
+      </ekz>
+      <ekz>
+        <tld/>o de ekspozicio<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+    <trd lng="en">commissary</trd>
+    <trdgrp lng="nl">
+      <trd>commissaris</trd>,
+      <trd>ceremoniemeester</trd>
+    </trdgrp>
+  </snc>
+  <snc>
+    <dif>
+      &Scirc;tata oficisto kun administraj a&ubreve; justicaj taskoj:
+      <ekz>
+        en preska&ubreve; &ccirc;iuj <klr>[liaj romanoj]</klr> la protagonisto 
+        estas superkapabla policisto <tld/>o San-Antonio
+        <fnt><aut>B. Kolker</aut>:
+        <vrk><url ref="&Monato;/rec/mpma.html">
+        Parizo slangas en Esperanto</url></vrk>,
+        <bib>Monato</bib>,
+        <lok>1997:05</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="en">commissioner</trd>
+    <trd lng="nl">commissaris</trd>
+  </snc>
+  <trd lng="be">&c_k;&c_a;&c_m;&c_ib;&c_s;&c_a;&c_r;</trd>
+  <trdgrp lng="cs">
+    <trd>komisař</trd>,
+    <trd>pověřenec</trd>,
+    <trd>pořadatel</trd>
+  </trdgrp>
+  <trd lng="de">Kommissar</trd>
+  <trd lng="fr">commissaire</trd>
+  <trdgrp lng="pt">
+    <trd>comiss&aacute;rio</trd>,
+    <trd>encarregado</trd>
+  </trdgrp>
+  <trd lng="ru">&c_k;&c_o;&c_m;&c_i;&c_s;&c_s;&c_a;&c_r;</trd>
+  <trdgrp lng="sk">
+    <trd>komisár</trd>,
+    <trd>poverenec</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="komisa.polic0o">
+  <kap>polic<tld/>o,
+  <var><kap>polica <tld/>o<fnt>Z</fnt></kap></var></kap>
+  <snc mrk="komisa.polic0o.KOMUNE">
+    <ref tip="dif" cel="polic.0estro.POL">policestro</ref>
+      <ekz>
+        la polic<tld/>o vivis fore sur la &ccirc;eftero kaj 
+        neniam estis vokita pro juraj aferoj
+        <fnt>
+          <aut>A. Strindberg, trad. S. Johansson</aut>,
+          <vrk>Insulanoj de Hems&ouml;</vrk>,
+          <lok>2005</lok>
+        </fnt>.
+      </ekz>
+  </snc>
+  <trd lng="fr">commissaire de police</trd>
+</drv>
+
+<drv mrk="komisa.vic0o">
+  <kap>vic<tld/>o</kap>
+  <snc mrk="komisa.vic0o.KOMUNE">
+    <dif>
+      Vica, helpanta <tld/>o:
+      <ekz>
+        La&ubreve; Li&ubreve; estas enoficigita kiel Vic<tld/>o de 
+        Propagando por la loka Revolucia Partio
+        <fnt>
+          <aut>Chun-Chan Yeh, trad. W. Auld</aut>,
+          <vrk>Montara Vila&gcirc;o</vrk>,
+          <lok>1984</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">commissaire adjoint</trd>
+</drv>
+</art>
+<!--
+$Log: komisa.xml,v $
+Revision 1.15  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.13  2014/12/13 19:10:29  revo
+Jeromo Vasxe: + polic/vic~o
+
+Revision 1.12  2009/02/15 14:17:44  revo
+Russ Williams: +trd en
+
+Revision 1.11  2007/07/23 16:30:49  revo
+Wieland Pusch: +trd de
+
+Revision 1.10  2007/01/12 17:30:30  revo
+Tulio Flores: +tr pt
+
+Revision 1.9  2005/01/07 17:31:51  revo
+Marc Bavant: +trd fr, mod ekz
+
+Revision 1.8 2003/10/24 16:30:44 revo
+Zmicier Lapcionak: kor trd be
+
+Revision 1.7 2003/01/05 17:34:30 revo
+Dmitri Gabinski: +trd be
+
+Revision 1.6 2001/11/04 19:15:49 revo
+-->
+</vortaro>

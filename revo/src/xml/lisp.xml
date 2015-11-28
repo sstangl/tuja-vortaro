@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: lisp.xml,v 1.3 2015/07/04 08:37:38 revo Exp $">
+<kap>
+    <rad>lisp</rad>/i <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="lisp.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc>
+    <dif>
+      Elparoli nenormale siblajn konsonantojn kiel s, &scirc;, &jcirc;:
+      <ekz>
+        Aristotelo lispis kaj li estis balbutanto
+        <fnt><bib>Viki</bib>, <lok>artikolo Aristotelo</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>šišlat</trd>,
+    <trd>špatně vyslovovat sykavky</trd>
+  </trdgrp>
+  <trd lng="de">lispeln</trd>
+  <trd lng="ru">&c_sh;&c_je;&c_p;&c_je;&c_l;&c_ja;&#769;&c_v;&c_i;&c_t;&c_mol;</trd>
+  <trd lng="sk">šušlať</trd>
+</drv>
+</art>
+
+<!--
+$Log: lisp.xml,v $
+Revision 1.3  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.2  2015/06/29 16:33:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.1  2015/01/05 18:10:13  revo
+Wolfram Diestel: nova artikolo
+
+-->
+</vortaro>

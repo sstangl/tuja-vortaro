@@ -1,0 +1,164 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: membra.xml,v 1.26 2015/07/04 08:37:39 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>membran</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="membra.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="membra.0o.ANA">
+    <uzo tip="fak">ANA</uzo>
+    <dif>
+      Organika teksa&jcirc;o formanta maldikan flekseblan folion:
+      <ekz>
+        la muka <tld/>o de la stomako.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_m;&c_e;&c_m;&c_b;&c_r;&c_a;&c_n;&c_a;</trd>,
+      <trd>&c_p;&c_l;&c_jo;&c_n;&c_k;&c_a;</trd>,
+      <trd>&c_p;&c_l;&c_je;&c_w;&c_k;&c_a;</trd>,
+      <trd>&c_p;&c_je;&c_r;&c_a;&c_p;&c_o;&c_n;&c_k;&c_a;</trd>
+    </trdgrp>                   
+    <trd lng="br">koc'henn</trd>
+    <trd lng="de">Membran</trd>
+    <trd lng="en">membrane</trd>  
+    <trd lng="pl">b&lstroke;ona</trd>
+    <trdgrp lng="ru">
+      <trd>&c_m;&c_je;&c_m;&c_b;&c_r;&c_a;&c_n;&c_a;</trd>,
+      <trd>&c_p;&c_je;&c_r;&c_je;&c_p;&c_o;&c_n;&c_k;&c_a;</trd>,
+      <trd>&c_p;&c_l;&c_jo;&c_n;&c_k;&c_a;</trd>,
+      <trd>&c_p;&c_l;&c_je;&c_v;&c_a;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="membra.0o.KOMUNE">
+    <dif>
+      Maldika fleksebla folio:
+      <ekz>
+        celuloida <tld/>o por fotografado
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="film.0o">filmo</ref>
+    </refgrp>
+    <trdgrp lng="be">
+      <trd>&c_m;&c_e;&c_m;&c_b;&c_r;&c_a;&c_n;&c_a;</trd>,
+      <trd>&c_p;&c_l;&c_jo;&c_n;&c_k;&c_a;</trd>
+    </trdgrp>      
+    <trd lng="br">diafragm</trd>
+    <trd lng="pl">b&lstroke;ona</trd>
+    <trdgrp lng="ru">
+      <trd>&c_m;&c_je;&c_m;&c_b;&c_r;&c_a;&c_n;&c_a;</trd>,
+      <trd>&c_p;&c_l;&c_jo;&c_n;&c_k;&c_a;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="membra.0o.ELE">
+    <uzo tip="fak">ELE</uzo>
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      Fleksebla <ref tip="super" cel="lamen.0o">lameno</ref>
+      funkcianta per vibrado, precipe por produkti a&ubreve; elektrigi
+      sonon en telefona a&ubreve;skultilo, mikrofono, tamburo ktp:
+      <ekz>
+        la principo de la komuna funkciado de la mikrofono kaj
+        telefono estas la jena: pro la vibradoj de la <tld/>o la
+        karba pulvoro estas alterne pli kaj malpli premata, kaj
+        pro tio varias la elektra rezisto de la pulvoro
+        <fnt>
+          <aut>Ir. J. R. G. Isbr&uuml;cker</aut>:
+          <vrk><url
+ref="http://www.eventoj.hu/steb/ingxenierado/telekomuniko/telefoniado1928/telefoniado1928.htm"
+              >Evoluo de telefonio</url></vrk>.
+          <lok>1928</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">Membran</trd>
+    <trd lng="hu">membr&aacute;n<klr tip="ind"> (telefon)</klr></trd>
+    <trd lng="ru">&c_m;&c_je;&c_m;&c_b;&c_r;&c_a;&c_n;&c_a;</trd>
+  </snc>
+  <trd lng="bg">&c_m;&c_je;&c_m;&c_b;&c_r;&c_a;&c_n;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>blána</trd>,
+    <trd>membrána</trd>,
+    <trd>mázdra</trd>
+  </trdgrp>
+  <trd lng="fr">membrane</trd>
+  <trd lng="it">membrana</trd>
+  <trdgrp lng="nl">
+    <trd>membraan</trd>,
+    <trd>vlies</trd>
+  </trdgrp>
+  <trd lng="pt">membrana</trd>
+  <trdgrp lng="sk">
+    <trd>blana</trd>,
+    <trd>membrána</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="membra.muk0o">
+  <kap>muk<tld/>o</kap>
+  <snc mrk="membra.muk0o.ANA">
+    <uzo tip="fak">ANA</uzo>
+    <ref tip="dif" cel="mukoz.0o">mukozo</ref>
+  </snc>
+  <trd lng="cs">sliznice</trd>
+  <trd lng="en">mucous membrane</trd>
+  <trd lng="fr">muqueuse</trd>
+  <trd lng="sk">sliznica</trd>
+</drv>
+
+<drv mrk="membra.nagx0o">
+  <kap>na&gcirc;<tld/>o</kap>
+  <snc mrk="membra.nagx0o.ZOO">
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      Membrano, kiu kunigas la fingrojn de ekzemple iuj
+      akvobirdoj, igante sinpelon en akvo pli efika:
+      <ekz>
+        ru&gcirc;e brilis tiuj piedoj <klr>...</klr>
+        kiel la na&gcirc;<tld/>oj de anseroj
+        <fnt><aut>A. Kivi, trad. I. Ekstr&ouml;m</aut>, <vrk>Sep 
+        fratoj</vrk>, <lok>1947</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">palmure</trd>
+</drv>
+</art>
+<!--
+$Log: membra.xml,v $
+Revision 1.26  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.25  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.24  2014/12/30 20:10:12  revo
+Alain Gerard: + muk~o
+
+Revision 1.23  2014/07/07 20:10:14  revo
+Jeromo Vasxe: + nagx~o
+
+Revision 1.22  2013/09/23 14:10:10  revo
+Joop Eggen: +trd bg
+
+Revision 1.21  2012/01/13 02:10:08  revo
+Sergio Pokrovskij: +trd=ru, +ekzemplo
+
+Revision 1.20  2012/01/12 18:10:23  revo
+Sergio Pokrovskij: +ELE
+
+Revision 1.19  2011/07/19 13:10:11  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.18  2011/05/25 11:10:08  revo
+Jeromo Vasxe: + mrk
+
+Revision 1.17  2010/12/02 17:30:56  revo
+-->
+</vortaro>

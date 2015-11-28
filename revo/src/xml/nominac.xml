@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: nominac.xml,v 1.5 2015/09/14 08:10:21 revo Exp $">
+<kap>
+    <rad>nominaci</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="nominac.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="nominac.0o.GRA">
+    <uzo tip="fak">LIN</uzo>
+    <dif>
+    Substantiva epiteto, kiu montras la identecon de la afero, normale
+    per &gcirc;ia propra nomo:
+    </dif>
+    <ekz>
+    tio estis en la monato Majo <fnt><bib>Fab3</bib>,
+    <lok>p.18</lok></fnt><klr> (la nomo
+    Majo estas <tld/>o de la vorto
+    monato)</klr>; ni vizitis la urbon Parizo <fnt><bib>PMEG</bib>,
+    <lok>&#167;25.2</lok></fnt>; sinjoro Petro kaj lia
+    edzino tre amas miajn infanojn <fnt><bib>F</bib>, <lok>Ekzercaro
+    &#167;18</lok></fnt>.
+    </ekz>
+    <rim num="1">
+    <tld lit="N"/>o staras &ccirc;iam post sia &ccirc;efvorto, kaj estu en
+    nominativo.
+    </rim>
+    <rim num="2">
+    Ne uzu la prepozicion <ekz>de</ekz> anta&ubreve; <tld/>o: ne <ekz>*la urbo
+    de
+    Nov-Jorko*</ekz>, sed <ekz> la urbo Nov-Jorko</ekz>.
+    </rim>
+    <rim num="3">
+    Oni ofte povas enmeti la frazparton <ekz>kiu nomi&gcirc;as</ekz> anta&ubreve;
+    <tld/>o: <ekz> ... monato, kiu nomi&gcirc;as Majo; ... urbon, kiu nomi&gcirc;as
+    Parizo</ekz>.
+    </rim>
+  </snc>
+  <ref tip="vid" cel="apozic.0o">apozicio</ref>
+  <trdgrp lng="cs">
+    <trd>jmenov&aacute;n&iacute;</trd>,
+    <trd>nominace</trd>
+  </trdgrp>
+  <trd lng="fr">nomination</trd>
+  <trdgrp lng="sk">
+    <trd>menovanie</trd>,
+    <trd>nomin&aacute;cia</trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log: nominac.xml,v $
+Revision 1.5  2015/09/14 08:10:21  revo
+Damien Brucker: +rim 3
+
+Revision 1.4  2015/09/11 08:10:16  revo
+Damien Brucker: +rim 1 kaj 2
+
+Revision 1.3  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.2  2015/06/29 16:33:21  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.1  2014/06/02 10:10:12  revo
+Damien Brucker: nova artikolo
+
+-->
+</vortaro>

@@ -1,0 +1,115 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: okupaci.xml,v 1.11 2015/07/04 08:37:40 revo Exp $">
+<kap>
+<rad>okupaci</rad>/i
+</kap>
+<drv mrk="okupaci.0i">
+  <kap><tld/>i</kap>
+  <snc mrk="okupaci.0i.MIL">
+    <uzo tip="fak">MIL</uzo>
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      Preni kaj regi fremdan lokon:
+      <ekz>
+        ili <tld/>as la sidejon de la urbestro kaj atendas alvenon de
+        reprezentantoj de la registaro
+        <fnt>
+        <aut>Radio Polonia</aut>,
+        <vrk><url
+        ref="http://www.radio.com.pl/polonia/article.asp?tId=2624">
+        Pliakrigita protesto...</url></vrk>,
+        <lok>2003-08-25</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Hitler sendis sian armeon por <tld/>i Jugoslavion
+        <fnt>
+        <aut>Stefan Maul</aut>,
+        <vrk>El verva vivo &jcirc;urnalista</vrk>,
+        <lok>p. 28</lok>
+      </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="milit.0akiri.MIL">militakiri</ref>,
+      <ref cel="uzurp.0i">uzurpi</ref>
+    </refgrp>
+  </snc>
+  <trd lng="ca">ocupar</trd>
+  <trd lng="cs">okupovat</trd>
+  <trd lng="en">occupy</trd>
+  <trd lng="fr">occuper<klr> (par la force)</klr></trd>
+  <trd lng="it">occupare<klr> (con la forza)</klr></trd>
+  <trd lng="nl">bezetten</trd>
+  <trd lng="pl">okupowa&cacute;</trd>
+  <trd lng="pt">ocupar<klr tip="amb"> (mil.)</klr></trd>
+  <trd lng="sk">okupovať</trd>
+</drv>
+
+<drv mrk="okupaci.0o">
+  <kap><tld/>o</kap> <fnt><bib>PIV1</bib></fnt>
+  <snc mrk="okupaci.0o.MIL">
+    <uzo tip="fak">MIL</uzo>
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      Surloka rego de fremda loko a&ubreve; teritorio:
+      <ekz>
+        la epoko de Napoleono signifis <tld/>on kaj elrabadon, sed
+        anka&ubreve; enkondukon de modernaj institucioj
+        <fnt>
+        <bib>Viki</bib>,
+        <lok>artikolo &leftquot;historio de Germanio&rightquot;,
+        2006-03-19</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="ca">ocupaci&oacute;</trd>
+  <trdgrp lng="cs">
+    <trd>obsazení</trd>,
+    <trd>okupace</trd>,
+    <trd>zabrání</trd>
+  </trdgrp>
+  <trd lng="en">occupation</trd>
+  <trd lng="fr">occupation<klr> (militaire etc.)</klr></trd>
+  <trd lng="it">occupazione<klr> (militare o sim.)</klr></trd>
+  <trd lng="nl">bezettting<klr tip="ind"> (mil.)</klr></trd>
+  <trd lng="pl">okupacja</trd>
+  <trd lng="pt">ocupa&ccedil;&atilde;o <klr tip="amb">(mil.)</klr></trd>
+  <trd lng="sk">okupácia</trd>
+</drv>
+</art>
+<!--
+$Log: okupaci.xml,v $
+Revision 1.11  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.10  2015/06/29 16:33:21  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.9  2011/12/10 15:10:26  revo
+Marc Rausell: +trd ca
+
+Revision 1.8  2010/06/21 16:30:22  revo
+Antonio Codazzi: +trd it
+
+Revision 1.7  2009/09/28 16:30:45  revo
+Paul Peeraerts: +nl +ekz
+
+Revision 1.6  2009/08/09 16:30:23  revo
+Russ Williams: +trd en
+
+Revision 1.5  2008/07/18 13:15:09  revo
+Sebastian Cyprych: sen-utf8-igita
+
+Revision 1.4  2006/07/05 18:36:58  revo
+Raul Salinas Monteagudo: sen-utf8-igita
+
+Revision 1.3  2006/04/25 16:31:52  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.2  2006/03/30 16:32:08  revo
+-->
+</vortaro>

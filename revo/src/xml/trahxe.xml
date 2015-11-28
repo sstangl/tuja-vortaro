@@ -1,0 +1,110 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: trahxe.xml,v 1.24 2013/09/01 10:10:25 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>tra&hcirc;e</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="trahxe.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="trahxe.0o.ANA">
+    <uzo tip="fak">ANA</uzo>
+    <dif>
+      Spirtubo &ccirc;e vertebruloj kondukanta la aeron de la laringo
+      al la pulmoj kaj dividi&gcirc;anta &ccirc;e la malsupra
+      parto en du bran&ccirc;ojn nomatajn bronkoj.
+    </dif>
+    <trd lng="be">&c_t;&c_r;&c_a;&c_h;&c_je;&c_ja;</trd>
+    <trd lng="ca">tr&agrave;quea</trd>
+    <trdgrp lng="de">
+      <trd>Luftr&ouml;hre</trd>,
+      <trd>Trachee</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>trachea</trd>,
+      <trd>wind pipe</trd>,
+    </trdgrp>
+    <trd lng="es">tr&aacute;quea</trd>
+    <trd lng="fr">trach&eacute;e</trd>
+    <trd lng="hu">l&eacute;gcs&odblac;</trd>
+    <trd lng="la">trachea</trd>
+    <trd lng="nl">luchtpijp</trd>
+    <trd lng="pl">tchawica</trd>
+    <trd lng="pt">traqu&eacute;ia</trd>
+    <trd lng="ru">&c_t;&c_r;&c_a;&c_h;&c_je;&c_ja;</trd>
+  </snc>
+  <snc mrk="trahxe.0o.ZOO">
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      Spirtubo &ccirc;e surteraj artikuloj.
+    </dif>
+    <trd lng="la">trachea</trd>
+    <trd lng="pl">tchawka</trd>
+  </snc>
+  <snc mrk="trahxe.0o.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      <ref tip="super" cel="vaskul.0o">Vaskulo</ref>,
+      kies &ccirc;elo malhavas transversajn vandojn.
+    </dif>
+    <ref tip="sin" cel="vaskul.0o.perfekta">perfekta vaskulo</ref>
+  </snc>
+  <trd lng="ca">tr&agrave;quea</trd>
+  <trd lng="it">trachea</trd>
+</drv>
+
+<drv mrk="trahxe.0uloj">
+  <kap><tld/>uloj <fnt><bib>PIV2</bib></fnt></kap>
+  <snc mrk="trahxe.0uloj.ZOO">
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      Tradicia <ref tip="lst" cel="grup.0o.BIO"
+      lst="voko:zoologiaj_grupoj">grupo</ref> 
+      ampleksanta multpiedulojn kaj sespiedulojn;
+      <ref tip="malprt"
+      cel="artik.0uloj.ZOO">artikuloj</ref>,
+      spirantaj per <tld/>oj kaj plejparte vivantaj
+      sur tero a&ubreve; en aero: araneuloj, multpieduloj,
+      insektoj, kaj aliaj
+      (<trd lng="la">Tracheata</trd>).
+    </dif>
+  </snc>
+  <trdgrp lng="it">
+    <trd>tracheati<klr> (zool.)</klr></trd>,
+    <trd>antennati<klr> (zool.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>tchawkowce</trd>,
+    <trd>tchawkodyszne</trd>,
+    <trd>tchawkodyszce</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: trahxe.xml,v $
+Revision 1.24  2013/09/01 10:10:25  revo
+Wolfram Diestel: ~uloj: aktualigis dif
+
+Revision 1.23  2013/01/09 14:10:09  revo
+Jeromo Vasxe: kor 1 ref, kor 1 misklavajxon
+
+Revision 1.22  2012/08/14 12:10:38  revo
+Marc Rausell: ++ trd ca
+
+Revision 1.21  2010/12/16 17:30:25  revo
+Antonio Codazzi: +trd it
+
+Revision 1.20  2010/06/23 16:30:40  revo
+Jeromo Vasxe: - 2 sendifinaj kap, - 1 netauxga drv, + 1 trd fr, - kk x
+
+Revision 1.19  2009/05/17 16:31:45  revo
+Jeromo Vasxe: - ref al neekzista art.
+
+Revision 1.18  2008/08/23 16:30:41  revo
+Wieland Pusch: trd la sen krampoj
+
+Revision 1.17  2007/08/23 16:30:43  revo
+-->
+</vortaro>

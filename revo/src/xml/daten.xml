@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: daten.xml,v 1.14 2015/07/04 08:37:32 revo Exp $">
+<kap>
+  <rad>daten</rad>/o <fnt><bib>SPIV</bib></fnt>
+</kap>
+
+<drv mrk="daten.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">KOMP</uzo>
+  <ref tip="dif" cel="datum.0o">datumo</ref>
+  <ekz>
+    la karteto mal&ccirc;ifras tiujn <tld/>ojn
+    <fnt>
+      <aut>F. Arnaud</aut>,
+      <vrk>Preterle&gcirc;a televidado en E&ubreve;ropo</vrk>,
+      <bib>Monato</bib>;
+      <lok>1999:3, p. 22a</lok>
+    </fnt>.
+  </ekz>
+  <trdgrp lng="de">
+    <trd>Datum</trd>,
+    <trd>Daten<klr> (pl)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>datum</trd>,
+    <trd>data<klr> (pl)</klr></trd>
+  </trdgrp>
+  <trd lng="es">dato</trd>
+  <trdgrp lng="fr">
+    <trd>donn&eacute;es<klr> (informatique)</klr></trd>
+  </trdgrp>
+  <trd lng="hu">adat</trd>
+  <trdgrp lng="pl">
+    <trd>dana<klr> {sing.}</klr></trd>,
+    <trd>dane<klr> {pl.}</klr></trd>
+  </trdgrp>
+  <trd lng="pt">dado <klr tip="amb">(inform&aacute;tica)</klr></trd>
+  <trd lng="sv">data</trd>
+  <trd lng="sk">spracovateľná informácia</trd>
+  <trd lng="cs">zpracovatelná informace</trd>
+</drv>
+
+<drv mrk="daten.0opo">
+  <kap><tld/>opo <fnt><bib>PIV3</bib></fnt></kap>
+  <snc mrk="daten.0opo.KOMP">
+    <uzo tip="fak">KOMP</uzo>
+    <dif>
+      Grupo da <tld/>oj ofte diversspecaj, konservita kiel tuto.
+    </dif>
+    <ref tip="dif" cel="rikord.0o.KOMP">rikordo</ref>
+    <refgrp tip="vid">
+      <ref cel="kamp.0o.formulara">kampo<sncref/></ref>,
+      <ref cel="kon.0igilo.KOMP">konigilo</ref>
+    </refgrp>
+  </snc>
+</drv>
+
+</art>
+<!--
+$Log: daten.xml,v $
+Revision 1.14  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.13  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.12  2013/07/25 18:10:09  revo
+Jeromo Vasxe: + fnt
+
+Revision 1.11  2010/12/08 19:04:28  revo
+Sebastian Cyprych: +~opo
+
+Revision 1.10  2009/04/29 16:31:13  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.9  2007/07/15 16:30:48  revo
+Tulio Flores: +tr pt
+
+Revision 1.8  2003/08/02 10:29:22  revo
+Christopher Zervic: + ang
+
+Revision 1.7  2003/03/31 16:31:35  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.6  2002/09/29 17:51:25  revo
+Jeromo Vasxe: + ekz, + trd fr
+
+Revision 1.5 2002/05/21 16:36:40 revo
+-->
+</vortaro>

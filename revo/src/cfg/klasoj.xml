@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="utf-8"?><klasoj xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:voko="http://purl.org/net/voko#">
+<kls nom="http://purl.org/net/voko#biologiaj_grupoj">
+  <kls nom="http://purl.org/net/voko#biologiaj_regnoj">
+  </kls>
+  <kls nom="http://purl.org/net/voko#botanikaj_grupoj">
+    <kls nom="http://purl.org/net/voko#botanikaj_familioj" prezento="integrita">
+    </kls>
+    <kls nom="http://purl.org/net/voko#botanikaj_genroj" prezento="integrita">
+    </kls>
+    <kls nom="http://purl.org/net/voko#botanikaj_klasoj" prezento="integrita">
+    </kls>
+    <kls nom="http://purl.org/net/voko#botanikaj_ordoj" prezento="integrita">
+    </kls>
+    <kls nom="http://purl.org/net/voko#botanikaj_specioj" prezento="integrita">
+    </kls>
+  </kls>
+  <kls nom="http://purl.org/net/voko#zoologiaj_grupoj">
+    <kls nom="http://purl.org/net/voko#zoologiaj_familioj" prezento="integrita">
+    </kls>
+    <kls nom="http://purl.org/net/voko#zoologiaj_genroj" prezento="integrita">
+    </kls>
+    <kls nom="http://purl.org/net/voko#zoologiaj_klasoj" prezento="integrita">
+    </kls>
+    <kls nom="http://purl.org/net/voko#zoologiaj_ordoj" prezento="integrita">
+    </kls>
+    <kls nom="http://purl.org/net/voko#zoologiaj_specioj" prezento="integrita">
+    </kls>
+  </kls>
+</kls>
+<kls nom="http://purl.org/net/voko#kosmaĵoj">
+  <kls nom="http://purl.org/net/voko#ĥemiaj_elementoj" ordigita="jes">
+  </kls>
+  <kls nom="http://purl.org/net/voko#planedoj">
+  </kls>
+  <kls nom="http://purl.org/net/voko#stelfiguroj">
+    <kls nom="http://purl.org/net/voko#zodiakaj_signoj" prezento="integrita">
+    </kls>
+  </kls>
+</kls>
+<kls nom="http://purl.org/net/voko#kulturaĵoj">
+  <kls nom="http://purl.org/net/voko#artoj">
+  </kls>
+  <kls nom="http://purl.org/net/voko#dancoj">
+  </kls>
+  <kls nom="http://purl.org/net/voko#festoj">
+  </kls>
+  <kls nom="http://purl.org/net/voko#iloj">
+    <kls nom="http://purl.org/net/voko#bataliloj">
+    </kls>
+    <kls nom="http://purl.org/net/voko#ludiloj">
+    </kls>
+    <kls nom="http://purl.org/net/voko#mebloj">
+    </kls>
+    <kls nom="http://purl.org/net/voko#muzikiloj">
+      <kls nom="http://purl.org/net/voko#blovinstrumentoj" prezento="integrita">
+      </kls>
+      <kls nom="http://purl.org/net/voko#frapinstrumentoj" prezento="integrita">
+      </kls>
+      <kls nom="http://purl.org/net/voko#kordinstrumentoj" prezento="integrita">
+      </kls>
+    </kls>
+    <kls nom="http://purl.org/net/voko#veturiloj">
+    </kls>
+  </kls>
+  <kls nom="http://purl.org/net/voko#lingvoj">
+  </kls>
+  <kls nom="http://purl.org/net/voko#nombroj" ordigita="jes">
+  </kls>
+  <kls nom="http://purl.org/net/voko#organizaĵoj">
+    <kls nom="http://purl.org/net/voko#asocioj">
+    </kls>
+    <kls nom="http://purl.org/net/voko#entreprenoj">
+    </kls>
+    <kls nom="http://purl.org/net/voko#ŝtatoj">
+    </kls>
+    <kls nom="http://purl.org/net/voko#urboj">
+      <kls nom="http://purl.org/net/voko#ĉefurboj" prezento="integrita">
+      </kls>
+    </kls>
+  </kls>
+  <kls nom="http://purl.org/net/voko#religioj">
+  </kls>
+  <kls nom="http://purl.org/net/voko#sciencoj">
+  </kls>
+  <kls nom="http://purl.org/net/voko#spicoj">
+  </kls>
+</kls>
+<kls nom="http://purl.org/net/voko#naturaĵoj">
+  <kls nom="http://purl.org/net/voko#bestoj">
+    <kls nom="http://purl.org/net/voko#amfibioj">
+    </kls>
+    <kls nom="http://purl.org/net/voko#fiŝoj">
+    </kls>
+    <kls nom="http://purl.org/net/voko#insektoj">
+      <kls nom="http://purl.org/net/voko#muŝoj" prezento="integrita">
+      </kls>
+      <kls nom="http://purl.org/net/voko#papilioj" prezento="integrita">
+      </kls>
+      <kls nom="http://purl.org/net/voko#skaraboj" prezento="integrita">
+      </kls>
+    </kls>
+    <kls nom="http://purl.org/net/voko#krustuloj">
+    </kls>
+    <kls nom="http://purl.org/net/voko#mamuloj">
+      <kls nom="http://purl.org/net/voko#cetacoj" prezento="integrita">
+      </kls>
+      <kls nom="http://purl.org/net/voko#insektomanĝuloj" prezento="integrita">
+      </kls>
+      <kls nom="http://purl.org/net/voko#kromartikuloj" prezento="integrita">
+      </kls>
+      <kls nom="http://purl.org/net/voko#leporuloj" prezento="integrita">
+      </kls>
+      <kls nom="http://purl.org/net/voko#marsupiuloj" prezento="integrita">
+      </kls>
+      <kls nom="http://purl.org/net/voko#neparhufuloj" prezento="integrita">
+      </kls>
+      <kls nom="http://purl.org/net/voko#parhufuloj" prezento="integrita">
+      </kls>
+      <kls nom="http://purl.org/net/voko#pramamuloj" prezento="integrita">
+      </kls>
+      <kls nom="http://purl.org/net/voko#rabobestoj" prezento="integrita">
+      </kls>
+      <kls nom="http://purl.org/net/voko#ronĝuloj" prezento="integrita">
+      </kls>
+      <kls nom="http://purl.org/net/voko#rostruloj" prezento="integrita">
+      </kls>
+      <kls nom="http://purl.org/net/voko#simioj" prezento="integrita">
+      </kls>
+      <kls nom="http://purl.org/net/voko#sirenoj" prezento="integrita">
+      </kls>
+      <kls nom="http://purl.org/net/voko#vespertoj" prezento="integrita">
+      </kls>
+    </kls>
+    <kls nom="http://purl.org/net/voko#moluskoj">
+      <kls nom="http://purl.org/net/voko#cefalopodoj" prezento="integrita">
+      </kls>
+      <kls nom="http://purl.org/net/voko#duvalvuloj" prezento="integrita">
+      </kls>
+      <kls nom="http://purl.org/net/voko#gastropodoj" prezento="integrita">
+      </kls>
+    </kls>
+    <kls nom="http://purl.org/net/voko#reptilioj">
+      <kls nom="http://purl.org/net/voko#birdoj">
+      </kls>
+      <kls nom="http://purl.org/net/voko#dinosaŭroj" prezento="integrita">
+      </kls>
+      <kls nom="http://purl.org/net/voko#krokodiluloj" prezento="integrita">
+      </kls>
+      <kls nom="http://purl.org/net/voko#serpentoj" prezento="integrita">
+      </kls>
+    </kls>
+  </kls>
+  <kls nom="http://purl.org/net/voko#malsanoj">
+  </kls>
+  <kls nom="http://purl.org/net/voko#vegetaĵoj">
+    <kls nom="http://purl.org/net/voko#floroplantoj">
+      <kls nom="http://purl.org/net/voko#akvifolioparencoj" prezento="integrita">
+      </kls>
+      <kls nom="http://purl.org/net/voko#apioparencoj" prezento="integrita">
+      </kls>
+      <kls nom="http://purl.org/net/voko#asparagoparencoj" prezento="integrita">
+      </kls>
+      <kls nom="http://purl.org/net/voko#asteroparencoj" prezento="integrita">
+      </kls>
+      <kls nom="http://purl.org/net/voko#boragoparencoj" prezento="integrita">
+      </kls>
+      <kls nom="http://purl.org/net/voko#brasikoparencoj" prezento="integrita">
+      </kls>
+      <kls nom="http://purl.org/net/voko#dipsakoparencoj" prezento="integrita">
+      </kls>
+      <kls nom="http://purl.org/net/voko#erikoparencoj" prezento="integrita">
+      </kls>
+      <kls nom="http://purl.org/net/voko#faboparencoj" prezento="integrita">
+      </kls>
+      <kls nom="http://purl.org/net/voko#fagoparencoj" prezento="integrita">
+      </kls>
+      <kls nom="http://purl.org/net/voko#gentianoparencoj" prezento="integrita">
+      </kls>
+      <kls nom="http://purl.org/net/voko#geranioparencoj" prezento="integrita">
+      </kls>
+      <kls nom="http://purl.org/net/voko#kaneloparencoj" prezento="integrita">
+      </kls>
+      <kls nom="http://purl.org/net/voko#kariofiloparencoj" prezento="integrita">
+      </kls>
+      <kls nom="http://purl.org/net/voko#kukurboparencoj" prezento="integrita">
+      </kls>
+      <kls nom="http://purl.org/net/voko#lamioparencoj" prezento="integrita">
+      </kls>
+      <kls nom="http://purl.org/net/voko#laŭroparencoj" prezento="integrita">
+      </kls>
+      <kls nom="http://purl.org/net/voko#lilioparencoj" prezento="integrita">
+      </kls>
+      <kls nom="http://purl.org/net/voko#magnolioparencoj" prezento="integrita">
+      </kls>
+      <kls nom="http://purl.org/net/voko#malpigioparencoj" prezento="integrita">
+      </kls>
+      <kls nom="http://purl.org/net/voko#malvoparencoj" prezento="integrita">
+      </kls>
+      <kls nom="http://purl.org/net/voko#mirtoparencoj" prezento="integrita">
+      </kls>
+      <kls nom="http://purl.org/net/voko#oksalidoparencoj" prezento="integrita">
+      </kls>
+      <kls nom="http://purl.org/net/voko#piproparencoj" prezento="integrita">
+      </kls>
+      <kls nom="http://purl.org/net/voko#pooparencoj" prezento="integrita">
+      </kls>
+      <kls nom="http://purl.org/net/voko#ranunkoloparencoj" prezento="integrita">
+      </kls>
+      <kls nom="http://purl.org/net/voko#rozoparencoj" prezento="integrita">
+      </kls>
+      <kls nom="http://purl.org/net/voko#saksifragoparencoj" prezento="integrita">
+      </kls>
+      <kls nom="http://purl.org/net/voko#solanoparencoj" prezento="integrita">
+      </kls>
+      <kls nom="http://purl.org/net/voko#vitoparencoj" prezento="integrita">
+      </kls>
+      <kls nom="http://purl.org/net/voko#zingibroparencoj" prezento="integrita">
+      </kls>
+    </kls>
+    <kls nom="http://purl.org/net/voko#fungoj">
+    </kls>
+    <kls nom="http://purl.org/net/voko#koniferoj">
+    </kls>
+    <kls nom="http://purl.org/net/voko#sporoplantoj">
+    </kls>
+  </kls>
+</kls>
+<kls nom="http://purl.org/net/voko#perceptoj">
+  <kls nom="http://purl.org/net/voko#formoj">
+  </kls>
+  <kls nom="http://purl.org/net/voko#sensaĵoj">
+    <kls nom="http://purl.org/net/voko#gustoj">
+    </kls>
+    <kls nom="http://purl.org/net/voko#koloroj">
+    </kls>
+    <kls nom="http://purl.org/net/voko#sonoj">
+      <kls nom="http://purl.org/net/voko#blekoj" prezento="integrita">
+      </kls>
+    </kls>
+  </kls>
+  <kls nom="http://purl.org/net/voko#sentoj">
+  </kls>
+</kls>
+<kls nom="http://purl.org/net/voko#personoj">
+  <kls nom="http://purl.org/net/voko#historiaj_personoj">
+  </kls>
+  <kls nom="http://purl.org/net/voko#parencoj">
+  </kls>
+  <kls nom="http://purl.org/net/voko#personaj_nomoj">
+  </kls>
+  <kls nom="http://purl.org/net/voko#popolanoj">
+  </kls>
+</kls>
+<kls nom="http://purl.org/net/voko#tempoj">
+  <kls nom="http://purl.org/net/voko#eventoj">
+    <kls nom="http://purl.org/net/voko#festoj">
+    </kls>
+  </kls>
+  <kls nom="http://purl.org/net/voko#geologiaj_tempoj">
+    <kls nom="http://purl.org/net/voko#geologiaj_epokoj" ordigita="jes" prezento="integrita">
+    </kls>
+    <kls nom="http://purl.org/net/voko#geologiaj_eraoj" ordigita="jes" prezento="integrita">
+    </kls>
+    <kls nom="http://purl.org/net/voko#geologiaj_periodoj" ordigita="jes" prezento="integrita">
+    </kls>
+  </kls>
+  <kls nom="http://purl.org/net/voko#historiaj_epokoj">
+  </kls>
+  <kls nom="http://purl.org/net/voko#kalendaraj_tempoj">
+    <kls nom="http://purl.org/net/voko#monatoj" ordigita="jes" prezento="integrita">
+    </kls>
+    <kls nom="http://purl.org/net/voko#semajntagoj" ordigita="jes" prezento="integrita">
+    </kls>
+    <kls nom="http://purl.org/net/voko#sezonoj" ordigita="jes" prezento="integrita">
+    </kls>
+  </kls>
+</kls>
+<kls nom="http://purl.org/net/voko#teritorioj">
+  <kls nom="http://purl.org/net/voko#insuloj">
+  </kls>
+  <kls nom="http://purl.org/net/voko#kontinentoj">
+  </kls>
+  <kls nom="http://purl.org/net/voko#maroj">
+  </kls>
+  <kls nom="http://purl.org/net/voko#mondopartoj">
+  </kls>
+  <kls nom="http://purl.org/net/voko#regionoj">
+    <kls nom="http://purl.org/net/voko#montaroj" prezento="integrita">
+    </kls>
+    <kls nom="http://purl.org/net/voko#montoj" prezento="integrita">
+    </kls>
+    <kls nom="http://purl.org/net/voko#riveroj" prezento="integrita">
+    </kls>
+  </kls>
+  <kls nom="http://purl.org/net/voko#ŝtatoj">
+  </kls>
+  <kls nom="http://purl.org/net/voko#urboj">
+    <kls nom="http://purl.org/net/voko#ĉefurboj" prezento="integrita">
+    </kls>
+  </kls>
+</kls>
+<kls nom="http://purl.org/net/voko#unuoj">
+  <kls nom="http://purl.org/net/voko#mezurunuoj">
+    <kls nom="http://purl.org/net/voko#areoj" prezento="integrita">
+    </kls>
+    <kls nom="http://purl.org/net/voko#daŭroj" prezento="integrita">
+    </kls>
+    <kls nom="http://purl.org/net/voko#kvantoj" prezento="integrita">
+    </kls>
+    <kls nom="http://purl.org/net/voko#longoj" prezento="integrita">
+    </kls>
+  </kls>
+  <kls nom="http://purl.org/net/voko#monunuoj">
+  </kls>
+</kls>
+</klasoj>

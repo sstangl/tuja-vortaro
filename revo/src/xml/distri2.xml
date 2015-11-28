@@ -1,0 +1,173 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: distri2.xml,v 1.20 2015/07/04 08:37:32 revo Exp $">
+<kap>
+  <rad>distribuci</rad>/o
+</kap>
+<drv mrk="distri2.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>EKV</bib><lok>&para;89</lok></fnt>
+  <snc>
+    <dif>
+      <ref cel="kontin3.0a.cxie">Kontinua</ref>
+      <ref cel="linear.0a.homomorfio">lineara</ref>
+      <ref tip="super" cel="form.0o.bildigo">formo</ref> super iu
+      vektora spaco el reelaj funkcioj <klr>(la t.n.
+      <ref cel="funkci.testa0o">testaj funkcioj</ref>)</klr>:
+      <ekz>
+        la bildon de testa funkcio <frm>&phi;</frm> per <tld/>o
+        <frm>T</frm>
+        oni ofte signas per <frm>&lt;T,&phi;&gt;</frm> anstata&ubreve;
+        <frm>T(&phi;)</frm>;
+      </ekz>
+      <ekz>
+        ne &ccirc;iu <tld/>o estas <ref
+        cel="regul.0a.distribucio">regula</ref>;
+      </ekz>
+      <ekz>
+        oni diras, ke <tld/>o estas nula super subaro
+        <frm><g>V</g></frm>
+        de la fonto-aro de &gcirc;iaj testaj funkcioj, se la bildo per
+        &gcirc;i de &ccirc;iu testa funkcio kun subtenanto inkluzivata en
+        <frm><g>V</g></frm> estas nula.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="funkci.gxeneraligita0o">&gcirc;eneraligita
+    funkcio.</ref>
+    <refgrp tip="vid">
+      <ref cel="deriv.0ajxo.distribucio">deriva&jcirc;o</ref>.
+    </refgrp>
+    <rim>
+      El la difino sekvas, ke la vektora spaco de <tld/>oj estas la
+      <ref cel="dual.topologia0o">topologia dualo</ref> de iu spaco de
+      testaj funkcioj. Tiun &ccirc;i spacon eblas elekti diversmaniere kaj ju
+      pli oni postulas drastajn ecojn por la testaj funkcioj, des pli
+      oni
+      ricevas
+      vastan spacon de <tld/>oj. Oni ofte elektas la spacon de reelaj
+      funkcioj
+      kun unu a&ubreve; pluraj reelaj argumentoj, senfine deriveblaj kaj kun
+      barita <ref cel="ten.sub0anto.MAT">subtenanto</ref>.
+    </rim>
+  </snc>
+  <trd lng="ca">distribuci&oacute;</trd>
+  <trd lng="cs">distributivnost</trd>
+  <trdgrp lng="de">
+    <trd>Distribution<klr tip="ind"> (verallgemeinerte
+    Funktion)</klr></trd>,
+    <trd>verallgemeinerte <ind>Funktion</ind></trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>distribution<klr tip="ind"> (generalized function)</klr></trd>,
+    <trd>generalized <ind>function</ind></trd>
+  </trdgrp>
+  <trdgrp lng="fa">
+    <trd>&a_t;&a_w;&a_z;&f_y;&a_ayn;</trd>,
+    <trd>&a_t;&a_A;&a_b;&a_ayn; &a_t;&a_ayn;&a_m;&f_y;&a_m;&zwnj;&f_y;&a_A;&a_f;&a_t;&a_h;</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>distribution<klr tip="ind"> (fonction
+    g&eacute;n&eacute;ralis&eacute;e)</klr></trd>,
+    <trd>fonction g&eacute;n&eacute;ralis&eacute;e</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>distributie</trd>,
+    <trd>veralgemeende <ind>functie</ind></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>dystrybucja</trd>,
+    <trd>funkcja uog&oacute;lniona</trd>
+  </trdgrp>
+  <trd lng="pt">distribui&ccedil;&atilde;o</trd>
+  <trdgrp lng="ru">
+    <trd>&c_r;&c_a;&c_s;&c_p;&c_r;&c_je;&c_d;&c_je;&c_l;&c_je;&c_n;&c_i;&c_je;</trd>,
+    <trd>&c_o;&c_b;&c_o;&c_b;&c_shch;&c_jo;&c_n;&c_n;&c_a;&c_ja;
+    <ind>&c_f;&c_u;&c_n;&c_k;&c_c;&c_i;&c_ja;</ind></trd>
+  </trdgrp>
+  <trd lng="sk">distributívnosť</trd>
+</drv>
+
+<drv mrk="distri2.diraka0o">
+  <kap>diraka <tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <snc>
+    <dif>
+      <klr>(&ccirc;e punkto <frm><k>a</k></frm>)</klr>
+      <ref tip="super" cel="distri2.0o"><tld lit="D"/>o</ref>, kiu
+      &jcirc;etas
+      testan funkcion <frm>&phi;</frm> al <frm>&phi;(<k>a</k>)</frm>:
+      <ekz>
+        la dirakan <tld/>on &ccirc;e punkto a oni kutime signas per
+        <frm>&delta;<sub><k>a</k></sub></frm>;
+      </ekz>
+      <ekz>
+        intuicie oni ofte prezentas al si la dirakan <tld/>on, kiel
+        limeson, kiam <frm><k>n</k></frm> strebas al nefinio, de vico de
+        funkcioj, kiuj estas nulaj ekster intervalo
+        <frm>]<k>a</k>-1/<k>n</k>,<k>a</k>+1/<k>n</k>[</frm> kaj havas
+        integralon egalan al unu.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="dirak.0o">Dirako.</ref>
+    <rim>
+      La &ccirc;i-rilata nacilingva terminologio estas sufi&ccirc;e bunta:
+      diraka funkcio, impulsa funkcio, delta-funkcio, nadlo-funkcio,
+      diraka
+      funkcionalo, ktp. Tia abundo ne aspektas tre utila por tiom simpla
+      nocio, des pli se konsideri, ke tiu &ccirc;i distribucio estas
+      asociebla al neniu vera funkcio.
+    </rim>
+  </snc>
+  <trd lng="ca">distribuci&oacute; de Dirac</trd>
+  <trd lng="de">Diracsche Funktion</trd>
+  <trd lng="en">Dirac['s] distribution</trd>
+  <trdgrp lng="fa">
+    <trd>&a_t;&a_A;&a_b;&a_ayn; &a_d;&a_l;&a_t;&a_A;&f_y; &a_d;&f_y;&a_r;&a_A;&f_k;</trd>,
+    <trd>&a_t;&a_A;&a_b;&a_ayn; &a_d;&f_y;&a_r;&a_A;&f_k;</trd>,
+    <trd>&a_t;&a_w;&a_z;&f_y;&a_ayn; &a_d;&f_y;&a_r;&a_A;&f_k;</trd>
+  </trdgrp>
+  <trd lng="fr">distribution de Dirac</trd>
+  <trd lng="nl">Dirac-distributie</trd>
+  <trdgrp lng="pl">
+    <trd>dystrybucja Diraca</trd>,
+    <trd>funkcja Diraca</trd>,
+    <trd>delta Diraca</trd>
+  </trdgrp>
+  <trd lng="ru">&c_d;&c_je;&c_l;&c_mol;&c_t;&c_a;-&c_f;&c_u;&c_n;&c_k;&c_c;&c_i;&c_ja; (&c_D;&c_i;&c_r;&c_a;&c_k;&c_a;)</trd>
+</drv>
+</art>
+<!--
+$Log: distri2.xml,v $
+Revision 1.20  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2011/12/03 21:10:19  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.17  2009/06/14 16:31:31  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.16  2007/08/08 16:31:17  revo
+Tulio Flores: +tr pt
+
+Revision 1.15  2003/05/09 16:31:17  revo
+Marc Bavant: mod trd ru
+
+Revision 1.14  2003/04/07 16:34:44  revo
+Marc Bavant: ~o: mod ekz
+Revision 1.13  2003/03/23 17:32:35  revo
+Marc Bavant: diraka ~o: +trd pl
+Revision 1.12  2003/03/09 17:33:55  revo
+Marc Bavant: kor inkluzivata
+Revision 1.11  2003/01/02 17:44:55  revo
+Marc Bavant: ~o: koherigis trd kun "gxeneraligita funkcio"
+Revision 1.10 2002/11/18 17:33:57 revo
+Marc Bavant: +frm, +trd pl
+-->
+</vortaro>

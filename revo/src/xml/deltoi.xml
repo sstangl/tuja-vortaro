@@ -1,0 +1,107 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: deltoi.xml,v 1.20 2015/07/04 08:37:32 revo Exp $">
+<kap>
+  <rad>deltoid</rad>/o
+</kap>
+<drv mrk="deltoi.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="deltoi.0o.ANA">
+    <uzo tip="fak">ANA</uzo>
+    <dif>
+      Muskolo levanta la brakon.
+    </dif>
+    <trd lng="de">Deltamuskel</trd>
+    <trd lng="en">deltoid</trd>
+    <trd lng="es">deltoides</trd>
+    <trd lng="fr">delto&iuml;de<klr tip="ind"> (muscle)</klr></trd>
+    <trd lng="hu">deltaizom</trd>
+    <trd lng="it">deltoide<klr> (anat.)</klr></trd>
+    <trd lng="la">Musculus deltoideus</trd>
+    <trd lng="pl">mi&eogonek;sie&nacute; <klr>(naramienny)</klr></trd>
+  <trdgrp lng="pt">
+    <trd>delt&oacute;ide</trd>,
+    <trd>m&uacute;sculo delt&oacute;ide</trd>
+  </trdgrp>
+    <trd lng="ru">&c_d;&c_je;&c_l;&c_mol;&c_t;&c_o;&c_v;&c_i;&c_d;&c_n;&c_a;&c_ja; &c_m;&c_y;&c_sh;&c_c;&c_a;</trd>
+  </snc>
+  <snc mrk="deltoi.0o.figuro">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>PIV1</bib><lok>Plato XVIII</lok></fnt>
+    <dif>
+      <ref tip="super" cel="later.kvar0o">Kvarlatero</ref>, posedanta du
+      parojn de egalaj sinsekvaj lateroj:
+      <ekz>
+        la diagonaloj de <tld/>o estas ortaj kaj la figuro estas
+        simetria rilate al almena&ubreve; unu el la diagonaloj.
+      </ekz>
+    </dif>
+    <rim>
+      Naciaj lingvoj foje konas alian signifon, nome
+      <ref cel="hipoci.0o">hipocikloido</ref>, la radiusoj de kies du
+      difinantaj cirkloj havas rilaton 3.
+    </rim>
+    <trdgrp lng="de">
+      <trd>Deltoid</trd>,
+      <trd>Drachenfigur</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>deltoid</trd>,
+      <trd>kite</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>delto&iuml;de<klr tip="ind"> (math.)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>deltoid</trd>,
+      <trd>s&aacute;rk&aacute;nyidom</trd>,
+    </trdgrp>
+    <trdgrp lng="it">
+      <trd>deltoide<klr> (figura piana)</klr></trd>,
+      <trd>aquilone<klr> (geom.)</klr></trd>
+    </trdgrp>
+    <trd lng="pl">deltoid</trd>
+    <trd lng="pt">delt&oacute;ide</trd>
+    <trdgrp lng="ru">
+      <trd>&c_d;&c_je;&c_l;&c_mol;&c_t;&c_o;&c_i;&c_d;</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="ca">deltoide</trd>
+  <trd lng="cs">deltoid</trd>
+  <trd lng="sk">deltový sval</trd>
+</drv>
+</art>
+<!--
+$Log: deltoi.xml,v $
+Revision 1.20  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2012/07/31 17:10:10  revo
+Marc Rausell: + trd ca
+
+Revision 1.17  2010/11/10 17:30:30  revo
+Antonio Codazzi: +trd it
+
+Revision 1.16  2007/07/19 16:31:39  revo
+Tulio Flores: +tr pt
+
+Revision 1.15  2006/01/09 17:35:05  revo
+Raul Salinas Monteagudo: +trd es
+
+Revision 1.14  2005/03/11 16:52:16  revo
+Vito Redsky: +trd pl
+
+Revision 1.13  2003/04/22 16:30:58  revo
+Marc Bavant: ~o (figuro): -ref al romboido, mod rim, mod trad
+
+Revision 1.12  2003/04/21 16:33:14  revo
+Jozefo Horvath: +trd hu
+Revision 1.11  2003/02/16 17:32:07  revo
+Marc Bavant: mod ref al kvarlatero
+-->
+</vortaro>

@@ -1,0 +1,237 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: defend.xml,v 1.22 2015/07/13 20:10:15 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>defend</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="defend.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="defend.0i.KOMUNE">
+    <dif>
+      Protekti iamaniere kontra&ubreve; atako.
+    </dif>
+    <subsnc mrk="defend.0i.MIL">
+      <uzo tip="fak">MIL</uzo>
+      <dif>
+        &Scirc;irmi kontra&ubreve; korpa a&ubreve; arma atako:
+        <ekz>
+          <tld/>i urbon kontra&ubreve; la sie&gcirc;antoj;
+        </ekz>
+        <ekz>
+          <tld/>i per armoj.
+        </ekz>
+      </dif>
+    </subsnc>
+    <subsnc mrk="defend.0i.JUR">
+      <uzo tip="fak">JUR</uzo>
+      <dif>
+        Dokumente a&ubreve; parole helpi kontra&ubreve; akuzoj:
+        <ekz>
+          li <tld/>is sin mem, sen ia helpo;
+        </ekz>
+        <ekz>
+          la tasko de advokato estas <tld/>i la
+          akuzitojn anta&ubreve; la tribunalo.
+        </ekz>
+      </dif>
+    </subsnc>
+    <subsnc mrk="defend.0i.ordinare">
+      <dif>
+        Argumenti, paroli favore al...:
+        <ekz>
+          la delegito fervore
+          <tld/>is la projekton<fnt>Z</fnt>;
+        </ekz>
+        <ekz>
+          <tld/>i opinion, pretendojn.
+        </ekz>
+      </dif>
+    </subsnc>
+    <refgrp tip="vid">
+      <ref cel="pled.0i">pledi</ref>,
+      <ref cel="protek.0i.sxirmi">protekti<sncref/></ref>,
+      <ref cel="sxirm.0i.protekti">&scirc;irmi<sncref/></ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_b;&c_a;&c_r;&c_a;&c_n;&c_ja;&c_c;&c_mol;</trd>,
+    <trd>&c_a;&c_h;&c_o;&c_w;&c_v;&c_a;&c_c;&c_mol;</trd>
+    <trd>&c_b;&c_a;&c_r;&c_a;&c_n;&c_ib;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>br&aacute;nit</trd>,
+    <trd>chr&aacute;nit</trd>,
+    <trd>h&aacute;jit</trd>,
+    <trd>obhajovat</trd>,
+    <trd>zastat se <klr>(n&ecaron;koho)</klr></trd>
+  </trdgrp>
+  <trd lng="de">verteidigen</trd>
+  <trd lng="en">defend</trd>
+  <trd lng="es">defender</trd>
+  <trd lng="fr">d&eacute;fendre<klr tip="ind"> (contre les
+  attaques)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>v&eacute;d</trd>,
+    <trd>megv&eacute;d</trd>
+  </trdgrp>
+  <trd lng="pl">broni&cacute;</trd>
+  <trdgrp lng="pt">
+    <trd>defender</trd>,
+    <trd>proteger</trd>,
+    <trd>resguardar</trd>,
+    <trd>pugnar por</trd>
+  </trdgrp>
+  <trd lng="ru">&c_z;&c_a;&c_shch;&c_i;&c_shch;&c_a;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>br&aacute;ni&tcaron;</trd>,
+    <trd>chr&aacute;ni&tcaron;</trd>,
+    <trd>h&aacute;ji&tcaron;</trd>
+  </trdgrp>
+  <trd lng="sv">f&ouml;rsvara</trd>
+</drv>
+
+<drv mrk="defend.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="defend.0o.KOMUNE">
+    <dif>
+      Ago de tiu, kiu <tld/>as:
+      <ekz>
+        al li ne mankas <tld/>o kontra&ubreve; ofendo;
+        <fnt><bib>PrV</bib></fnt>
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="apolog1.0o">apologio</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_b;&c_a;&c_r;&c_o;&c_n;&c_a;</trd>,
+    <trd>&c_a;&c_h;&c_o;&c_v;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>obhajoba</trd>,
+    <trd>obrana</trd>,
+    <trd>ochrana</trd>
+  </trdgrp>
+  <trd lng="fr">d&eacute;fense</trd>
+  <trd lng="pl">obrona</trd>
+  <trdgrp lng="sk">
+    <trd>obhajoba</trd>,
+    <trd>obrana</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="defend.0ajxo">
+  <kap><tld/>a&jcirc;o</kap>
+  <snc mrk="defend.0ajxo.MIL">
+    <uzo tip="fak">MIL</uzo>
+    <dif>
+      Objekto uzata por <tld/>i:
+      <ekz>
+        pordego <klr>...</klr> funkcias kiel la lasta <tld/>a&jcirc;o de la 
+        urbo
+        <fnt>
+          <aut>Yi Jun</aut>,
+          <vrk><url
+          ref="http://www.espero.com.cn/old/epch/z05-07k/07-3m/05z-07k-3-2.htm">
+          Urbopordegoj de Pekino</url></vrk>,
+          <lok>Espero.com.cn, [2009?]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">dispositif de <ind>d&eacute;fense</ind></trd>
+</drv>
+
+<drv mrk="defend.cxirkaux0i">
+  <kap>&ccirc;irka&ubreve;<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="defend.cxirkaux0i.KOMUNE">
+    <dif>
+      <tld lit="D"/>i &ccirc;iuflanke:
+      <ekz>
+        kiel per &scirc;ildo Vi &ccirc;irka&ubreve;<tld/>as lin per
+        favoro
+        <fnt><bib>MT</bib><lok>&Psa; 5:12</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">d&eacute;fendre<klr tip="ind"> (de toutes
+  parts)</klr></trd>
+</drv>
+
+<drv mrk="defend.sen0a">
+  <kap>sen<tld/>a</kap>
+  <snc mrk="defend.sen0a.KOMUNE">
+    <dif>
+      Kiu malhavas <tld/>on, protekton, &scirc;irmon,
+      kiu estas
+      <ref tip="vid" cel="help.sen0a.iu">senhelpa</ref>:
+      <ekz>
+        mi estas <ind>sen<tld/>a</ind><fnt>Z</fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_b;&c_je;&c_z;&c_a;&c_b;&c_a;&c_r;&c_o;&c_n;&c_n;&c_y;</trd>
+  <trd lng="cs">bezbrann&yacute;</trd>
+  <trdgrp lng="fr">
+    <trd>vuln&eacute;rable</trd>,
+    <trd>sans <ind>d&eacute;fense</ind></trd>
+  </trdgrp>
+  <trd lng="hu">v&eacute;dtelen</trd>
+  <trd lng="pl">bezbronny</trd>
+  <trd lng="sk">bezbrann&yacute;</trd>
+</drv>
+
+<drv mrk="defend.sin0o">
+  <kap>sin<tld/>o</kap>
+  <snc mrk="defend.sin0o.KOMUNE">
+    <dif>
+      <tld lit="D"/>o de si mem kontra&ubreve; eksteraj atakoj:
+      <ekz>
+        longaj akuzoj kaj egale longaj sin<tld/>oj
+        <fnt>
+          <aut>K. Miner</aut>,
+          <vrk><url
+          ref="http://www.sunflower.com/~miner/TAGLIBRO_package/Auxgusto_2006.html">
+          Taglibro</url></vrk>,
+          <lok>2006-08-02</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">sebeobrana</trd>
+  <trd lng="fr">d&eacute;fense de soi</trd>
+  <trd lng="sk">sebaobrana</trd>
+</drv>
+</art>
+<!--
+$Log: defend.xml,v $
+Revision 1.22  2015/07/13 20:10:15  revo
+Jeromo Vasxe: ~o snc/subsnc, + ~ajxo
+
+Revision 1.21  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.19  2012/06/20 14:10:08  revo
+Jeromo Vasxe: memstar. ~o sen~a, + sin~o
+
+Revision 1.18  2009/04/30 16:30:38  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.17  2007/07/19 16:30:52  revo
+Tulio Flores: +tr pt
+
+Revision 1.16  2004/08/29 16:32:37  revo
+Marc Bavant: cxirkaux~i: kor ekz
+
+Revision 1.15  2004/08/23 16:32:17  revo
+-->
+</vortaro>

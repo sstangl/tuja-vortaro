@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: timpan.xml,v 1.21 2015/07/04 08:37:44 revo Exp $">
+<kap>
+  <rad>timpan</rad>/o <fnt>Z</fnt>
+</kap>
+<drv mrk="timpan.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="timpan.0o.ANA">
+    <uzo tip="fak">ANA</uzo>
+    <dif>
+      Tiu kava&jcirc;o de <ref tip="malprt" cel="orel.0o.ANA">orelo</ref>,
+      sur
+      kiu
+      estas etendita la resona membrano:
+      <ekz>
+        kvaza&ubreve; mil tondroj senpere tamburas la <tld/>ojn
+        <fnt><bib>Mortul&Scirc;ip</bib>, <lok>dua libro, &ccirc;apitro
+        43a</lok></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">Paukenh&ouml;hle</trd>
+    <trdgrp lng="en">
+      <trd>tympanium</trd>,
+      <trd>middle ear</trd>
+    </trdgrp>
+    <trd lng="be">&c_b;&c_a;&c_r;&c_a;&c_b;&c_a;&c_n;&c_n;&c_a;&c_ja; &c_p;&c_je;&c_r;&c_a;&c_p;&c_o;&c_n;&c_k;&c_a;</trd>
+    <trd lng="ca">timp&agrave; (o&iuml;da)</trd>
+    <trd lng="fr">tympan<klr tip="amb"> (ana.)</klr></trd>
+    <trd lng="hu">dob&uuml;reg</trd>
+    <trdgrp lng="id">
+      <trd><ind>gendang</ind> telinga</trd>,
+      <trd><ind>membran</ind> timpani</trd>,
+      <trd>timpanum</trd>
+    </trdgrp>
+    <trd lng="nl">trommelholte</trd>
+    <trd lng="pl">b&lstroke;ona b&eogonek;benkowa</trd>
+  <trdgrp lng="pt">
+    <trd>t&iacute;mpano</trd>
+  </trdgrp>
+    <trd lng="ru">&c_b;&c_a;&c_r;&c_a;&c_b;&c_a;&c_n;&c_n;&c_a;&c_ja; &c_p;&c_je;&c_r;&c_je;&c_p;&c_o;&c_n;&c_k;&c_a;</trd>
+  </snc>
+  <snc mrk="timpan.0o.MUZ">
+    <uzo tip="fak">MUZ</uzo>
+    <dif>
+      <ref tip="lst" cel="instru2.frap0o"
+      lst="voko:frapinstrumentoj">Frapinstrumento</ref> kun
+      kaldronforma sonkesto kaj suretendita felo.
+    </dif>
+    <trd lng="ca">timbal</trd>
+    <trd lng="de">Pauke</trd>
+    <trd lng="en">timpani</trd>
+    <trd lng="hu">&uuml;stdob</trd>
+    <trd lng="id">timpani</trd>
+    <trd lng="nl">pauk</trd>
+    <trd lng="pl">kocio&lstroke; <klr>(instrument)</klr></trd>
+  <trdgrp lng="pt">
+    <trd>t&iacute;mpano</trd>
+  </trdgrp>
+    <trd lng="ru">&c_t;&c_i;&c_m;&c_p;&c_a;&c_n;</trd>
+  </snc>
+  <snc mrk="timpan.0o.ARKI">
+    <uzo tip="fak">ARKI</uzo>
+    <dif>
+      Spaco enkadrigata per la kornicoj de <ref tip="malprt"
+      cel="fronto.0o.ARKI">frontono</ref>.
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_g;&c_u;&c_s;&c_mol;&c_l;&c_ib;</trd>,
+      <trd>&c_t;&c_y;&c_m;&c_p;&c_a;&c_n;</trd>
+    </trdgrp>
+    <trd lng="be">&c_t;&c_y;&c_m;&c_p;&c_a;&c_n;</trd>
+    <trd lng="ca">timp&agrave; (front&oacute;)</trd>
+    <trd lng="en">tympanium</trd>
+    <trd lng="fr">tympan<klr tip="amb"> (archi.)</klr></trd>
+    <trd lng="hu">timpanon</trd>
+    <trd lng="nl">tympaan</trd>
+    <trd lng="pl">tympanon</trd>
+    <trd lng="ru">&c_t;&c_i;&c_m;&c_p;&c_a;&c_n;</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>tympán</trd>,
+    <trd>ušní blána</trd>,
+    <trd>ušní bubínek</trd>
+  </trdgrp>
+  <trd lng="it">timpano</trd>
+  <trd lng="sk">ušný bubienok</trd>
+</drv>
+</art>
+<!--
+$Log: timpan.xml,v $
+Revision 1.21  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.19  2014/10/26 03:10:16  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.18  2013/09/08 18:11:08  revo
+Wolfram Diestel: ref al listo frapinstrumentoj
+
+Revision 1.17  2011/12/03 19:10:17  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.16  2010/12/16 17:30:29  revo
+Antonio Codazzi: +trd it
+
+Revision 1.15  2009/03/01 17:35:16  revo
+Russ Williams: +trd en tympany al timpani
+
+Revision 1.14  2006/02/15 17:34:40  revo
+Tulio Flores: +trd pt
+
+Revision 1.13  2005/08/17 16:31:44  revo
+Jeromo Vasxe: + tez, + 1 ekz, + 2 trd fr
+
+Revision 1.12 2005/04/25 16:32:04 revo
+-->
+</vortaro>

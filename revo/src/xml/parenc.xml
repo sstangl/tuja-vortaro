@@ -1,0 +1,225 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: parenc.xml,v 1.26 2015/07/04 08:37:41 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>parenc</rad>/o
+</kap>
+<drv mrk="parenc.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <tezrad fak="GEN"/>
+  <uzo tip="fak">GEN</uzo>
+  <snc mrk="parenc.0o.individuo">
+    <dif>
+      <klr>(pp individuo)</klr>
+      Iu apartenanta al la sama familio kiel la koncernata individuo, a&ubreve;
+      havanta komunan anta&ubreve;ulon kun &gcirc;i:
+      <ekz>
+        pli bona amiko intima ol <tld/>o malproksima
+        <fnt><bib>PrV</bib></fnt>;
+      </ekz>
+      <ekz>
+        <tld/>o per Adamo
+        <klr>(treege malproksima, nur fantazia)</klr>
+        <fnt><bib>PrV</bib></fnt>;
+      </ekz>
+      <ekz>
+        personoj starantaj en la sama linio de <tld/>eco<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="sub">
+      <ref cel="kuz.0o">kuzo</ref>,
+      <ref cel="patr.ge0oj">gepatroj</ref>.
+    </refgrp>
+  </snc>
+  <snc mrk="parenc.0o.boparenco">
+    <ref tip="dif" cel="parenc.bo0o">bo<tld/>o</ref>
+  </snc>
+  <snc mrk="parenc.0o.samdevena">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      <klr>(pp pri grupo a&ubreve; strukturo de interdependaj aferoj)</klr>
+      Iu a&ubreve; io kun sama deveno, de sama kategorio:
+      <ekz>
+        parencoj de tukanoj <klr>(devenante de sama pratribo kiel
+        tukanoj)</klr>
+        <fnt>
+          <vrk><url
+          ref="http://eo.wikipedia.org/wiki/Buntaj_barbuloj"></url></vrk>,
+          <bib>Wiki</bib>,
+          <lok>Buntaj barbuloj</lok>
+        </fnt>
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_v;&c_a;&c_ja;&c_k;</trd>
+  <trd lng="br">kar<klr tip="ind"> (ak.)</klr></trd>
+  <trdgrp lng="cs">
+    <trd>p&rcaron;&iacute;buzn&yacute;</trd>,
+    <trd>příbuzný <klr>(osoba)</klr></trd>
+  </trdgrp>
+  <trd lng="de">Verwandter</trd>
+  <trdgrp lng="en">
+    <trd>relative</trd>,
+    <trd>relation</trd>,
+    <trd>kinsman</trd>
+  </trdgrp>
+  <trd lng="fr">parent<klr> (subst., personne apparent&eacute;e)</klr></trd>
+  <trd lng="hu">rokon</trd>
+  <trd lng="nl">familielid</trd>
+  <trd lng="pt">parente</trd>
+  <trd lng="ru">&c_r;&c_o;&c_d;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_i;&c_k;</trd>
+  <trdgrp lng="sk">
+    <trd>príbuzný</trd>,
+    <trd>rodina</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="parenc.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="parenc.0a.propre">
+    <dif>
+      <klr>(pp pri individuo)</klr> Apartenanta al la sama familio a&ubreve;
+      <tld/>aro:
+      <ekz>
+        &ccirc;i tie la arboj &scirc;ajnas al ni <tld/>aj
+         <fnt><bib>Fab1</bib>, <lok>Sova&gcirc;aj cignoj</lok></fnt>;
+      </ekz>
+      <ekz>
+        <ind><tld/>aj rilatoj</ind>.
+        <trd lng="hu">rokoni kapcsolatok</trd>
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_s;&c_v;&c_a;&c_ja;&c_c;&c_k;&c_ib;</trd>,
+      <trd>&c_r;&c_o;&c_d;&c_n;&c_y;</trd>
+    </trdgrp>
+    <trd lng="hu">rokoni</trd>
+  </snc>
+  <snc mrk="parenc.0a.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Samdevena a&ubreve; samkategoria:
+      <ekz>
+        <tld/>aj lingvoj, organizoj
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="analog.0a">analoga</ref>,
+      <ref cel="najbar.0a">najbara</ref>,
+      <ref cel="proksi.0a">proksima</ref>.
+    </refgrp>
+    <trdgrp lng="be">
+      <trd>&c_r;&c_o;&c_d;&c_n;&c_a;&c_s;&c_n;&c_y;</trd>,
+      <trd>&c_b;&c_l;&c_ib;&c_z;&c_k;&c_ib;</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="br">kar<klr tip="ind"> (ag.)</klr></trd>
+  <trdgrp lng="cs">
+    <trd>příbuzný</trd>,
+    <trd>spřízněný</trd>
+  </trdgrp>
+  <trd lng="en">related</trd>
+  <trdgrp lng="fr">
+    <trd>apparent&eacute;</trd>,
+    <trd>parent<klr> (adj., apparent&eacute;)</klr></trd>
+  </trdgrp>
+  <trd lng="hu">rokon-</trd>
+  <trd lng="nl">verwant</trd>
+  <trdgrp lng="pt">
+   <trd>parente<klr tip="ind"> (adj.)</klr></trd>,
+   <trd>aparentado<klr tip="ind"> (adj.)</klr></trd>
+  </trdgrp>
+  <trd lng="ru">&c_r;&c_o;&c_d;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>
+  <trd lng="sk">príbuzný</trd>
+</drv>
+
+<drv mrk="parenc.0ino">
+  <kap><ofc>*</ofc><tld/>ino</kap>
+  <uzo tip="fak">GEN</uzo>
+  <snc>
+    <dif>
+      Parenca ino:
+      <ekz>
+        &scirc;i <klr>...</klr> estas e&ccirc; via proksima <tld/>ino...
+        <fnt><bib>Marta</bib></fnt>;
+      </ekz>
+      <ekz>
+        tio estas mia <tld/>ino kaj servistino, Ester &mdash; respondis
+        Sara
+        <fnt><bib>Far1</bib>, <lok>&ccirc;ap. 14</lok></fnt>;
+      </ekz>
+      <ekz>
+        kaj jen via <tld/>ino Elizabeto anka&ubreve; gravedi&gcirc;is je filo
+        en sia maljuneco
+        <fnt><bib>NT</bib>, <lok>&Luk; 1:36</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="de">Verwandte</trd>
+  <trd lng="hu">n&odblac;rokon</trd>
+  <trd lng="nl">familielid<klr tip="ind"> (vr.)</klr></trd>
+  <trd lng="ru">&c_r;&c_o;&c_d;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_i;&c_c;&c_a;</trd>
+</drv>
+
+<drv mrk="parenc.bo0o">
+  <kap><ofc>*</ofc>bo<tld/>o</kap>
+  <uzo tip="fak">GEN</uzo>
+  <snc>
+    <dif>
+      <tld lit="P"/>o de unu el geedzoj rilate al la <tld/>aro
+      de la alia:
+      <ekz>
+        &ccirc;iuj <tld/>oj de mia edzino estas miaj bo<tld/>oj
+        <fnt><bib>F</bib>, <lok>&FE;36.</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">příbuzný získaný sňatkem</trd>
+  <trd lng="en">in-law</trd>
+  <trd lng="hu">rokon <klr tip="amb">(h&aacute;zass&aacute;g
+r&eacute;v&eacute;n)</klr></trd>
+  <trd lng="nl">lid van de <ind>schoonfamilie</ind></trd>
+  <trdgrp lng="pt">
+    <trd>parente afim</trd>,
+    <trd>afim</trd>,
+    <trd>parente por <ind>afinidade</ind></trd>
+  </trdgrp>
+  <trd lng="ru">&c_s;&c_v;&c_o;&c_j;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_i;&c_k;</trd>
+  <trd lng="sk">príbuzný získaný manželstvom</trd>
+</drv>
+</art>
+<!--
+$Log: parenc.xml,v $
+Revision 1.26  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.25  2015/06/29 16:40:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.24  2013/10/25 13:10:10  revo
+Wolfram Diestel: disigis tri snc de ~o, ekz-fnt
+
+Revision 1.23  2012/06/28 18:10:11  revo
+Tulio Flores: korekto de difino eo: boparenco: geegzoj <span style=
+
+Revision 1.22  2009/10/16 16:31:25  revo
+Paul Peeraerts: +nl
+
+Revision 1.21  2006/09/22 12:26:32  revo
+Wolfram Diestel: +tezrad(GEN)
+
+Revision 1.20  2006/09/17 16:31:10  revo
+Russ Williams: +trd en
+
+Revision 1.19  2006/08/17 18:12:30  revo
+Wieland Pusch: +trd de
+
+Revision 1.18  2006/02/25 17:31:48  revo
+Tulio Flores: +trd pt
+
+Revision 1.17  2005/10/15 16:31:28  revo
+-->
+</vortaro>

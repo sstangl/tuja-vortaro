@@ -1,0 +1,284 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: materi.xml,v 1.22 2015/07/04 08:37:39 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>materi</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="materi.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="materi.0o.FIL">
+    <uzo tip="fak">FIL</uzo>
+    <dif>
+      &Ccirc;io, kio ekzistas ekster la spirito:
+      <ekz>
+        la mondo de la <tld/>o kaj tiu de la ideoj.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_m;&c_a;&c_t;&c_e;&c_r;&c_y;&c_ja;</trd>
+    <trd lng="ru">&c_m;&c_a;&c_t;&c_je;&c_r;&c_i;&c_ja;</trd>
+  </snc>
+  <snc mrk="materi.0o.materialo">
+    <dif>
+      Ia, precipe substanca, formo de <tld/>o:
+      <ekz>
+        la viva, malviva <tld/>o;
+      </ekz>
+      <ekz>
+        flueca, solida <tld/>o.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="materi1.0o">materialo</ref>.
+    </refgrp>
+    <trdgrp lng="be">
+      <trd>&c_m;&c_a;&c_t;&c_e;&c_r;&c_y;&c_ja;&c_l;</trd>,
+      <trd>&c_m;&c_a;&c_t;&c_e;&c_r;&c_y;&c_ja;</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_m;&c_a;&c_t;&c_je;&c_r;&c_i;&c_a;&c_l;</trd>,
+      <trd>&c_m;&c_a;&c_t;&c_je;&c_r;&c_i;&c_ja;</trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>hmota</trd>,
+    <trd>hmotná podstata</trd>,
+    <trd>materiál</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Stoff<klr tip="ind"> (Materie)</klr></trd>,
+    <trd>Materie</trd>
+  </trdgrp>
+  <trd lng="en">matter</trd>
+  <trd lng="es">materia</trd>
+  <trd lng="fr">mati&egrave;re</trd>
+  <trd lng="hu">anyag</trd>
+  <trdgrp lng="nl">
+    <trd>stof<klr tip="ind"> (materie)</klr></trd>,
+    <trd>materie</trd>
+  </trdgrp>
+  <trd lng="pt">mat&eacute;ria</trd>
+  <trdgrp lng="sk">
+    <trd>hmota</trd>,
+    <trd>hmotná podstata</trd>,
+    <trd>materiál</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="materi.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="materi.0a.KOMUNE">
+    <dif>
+      Konsistanta el <tld/>o; koncernanta <tld/>on:
+      <ekz>
+        <uzo tip="fak">FIZ</uzo>
+        <ind><tld/>a punkto</ind><fnt>PIV</fnt>
+        <klr>(en kiu la tuta maso estas koncentrita)</klr>;
+        <trdgrp lng="hu">
+          <trd>anyagi pont</trd>,
+          <trd>t&ouml;megpont</trd>
+        </trdgrp>
+        <trd lng="ru">&c_m;&c_a;&c_t;&c_je;&c_r;&c_i;&c_a;&c_l;&c_mol;&c_n;&c_a;&c_ja; &c_t;&c_o;&c_ch;&c_k;&c_a;</trd>
+      </ekz>
+      <ekz>
+        la <tld/>a mondo;
+      </ekz>
+      <ekz>
+        <uzo tip="fak">JUR</uzo>
+        <ind><tld/>a pruvo</ind>.
+        <trd lng="hu">t&aacute;rgyi <ind>bizony&iacute;t&eacute;k</ind></trd>
+        <trd lng="ru">&c_v;&c_je;&c_shch;&c_je;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_o;&c_je;
+        &c_d;&c_o;&c_k;&c_a;&c_z;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_s;&c_t;&c_v;&c_o;</trd>
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_m;&c_a;&c_t;&c_e;&c_r;&c_y;&c_ja;&c_l;&c_mol;&c_n;&c_y;</trd>
+  <trdgrp lng="cs">
+    <trd>hmotný <klr>(týkající se hmoty, jsoucí z hmoty)</klr></trd>,
+    <trd>látkový</trd>,
+    <trd>materiální</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>stofflich</trd>,
+    <trd>materiell</trd>
+  </trdgrp>
+  <trd lng="en">material</trd>
+  <trd lng="es">material<klr tip="ind">
+    (relativo a la materia)</klr></trd>
+  <trd lng="fr">mat&eacute;riel<klr tip="amb">
+    (relatif &agrave; la mati&egrave;re)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>anyagi</trd>,
+    <trd>t&aacute;rgyi</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>materieel</trd>,
+    <trd>stoffelijk</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_v;&c_je;&c_shch;&c_je;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>,
+    <trd>&c_m;&c_a;&c_t;&c_je;&c_r;&c_i;&c_a;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>,
+    <trd>&c_f;&c_i;&c_z;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j;</trd>
+  </trdgrp>
+  <trd lng="sk">hmotn&yacute;</trd>
+</drv>
+
+<drv mrk="materi.0ismo">
+  <kap><tld/>ismo <fnt>PIV</fnt></kap>
+  <snc mrk="materi.0ismo.FIL">
+    <uzo tip="fak">FIL</uzo>
+    <dif>
+      Doktrino, la&ubreve; kiu <tld/>o estas la principo de &ccirc;io en la
+      universo, anka&ubreve; de la ideoj, konscio, pensado.
+    </dif>
+    <ref tip="ant" cel="ide.0ismo">ideismo</ref>
+  </snc>
+  <trd lng="be">&c_m;&c_a;&c_t;&c_e;&c_r;&c_y;&c_ja;&c_l;&c_ib;&c_z;&c_m;</trd>
+  <trd lng="ca">materialisme</trd>
+  <trd lng="de">Materialismus</trd>
+  <trd lng="en">materialism</trd>
+  <trd lng="es">materialismo</trd>
+  <trd lng="fr">mat&eacute;rialisme</trd>
+  <trd lng="hu">materializmus</trd>
+  <trd lng="nl">materialisme</trd>
+  <trd lng="ru">&c_m;&c_a;&c_t;&c_je;&c_r;&c_i;&c_a;&c_l;&c_i;&c_z;&c_m; <klr>(&c_f;&c_i;&c_l;&c_o;&c_s;.)</klr></trd>
+  <trd lng="sk">materializmus</trd>
+</drv>
+
+<drv mrk="materi.0isto">
+  <kap><tld/>isto</kap>
+  <snc mrk="materi.0isto.FIL">
+    <dif>
+      Ano de <tld/>ismo:
+      <ekz>
+        li estas skeptikulo kaj <tld/>isto, kiel preska&ubreve; &ccirc;iuj
+        medicinistoj
+        <fnt><bib>Mary</bib></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">materialista</trd>
+  <trd lng="en">materialist</trd>
+  <trd lng="fr">mat&eacute;rialiste<klr tip="amb"> (phil.)</klr></trd>
+  <trd lng="sk">materialista</trd>
+</drv>
+
+<drv mrk="materi.blanka0o">
+  <kap>blanka <tld/>o</kap>
+  <snc mrk="materi.blanka0o.FIZL">
+    <uzo tip="fak">FIZL</uzo>
+    <ref tip="dif" cel="substa.blanka0o.FIZL">blanka substanco</ref>
+      <ekz>
+        hipokampo <klr>...</klr> konsistas el griza <tld/>o, kovrita en 
+        la entrikla surfaco per blanka <tld/>o 
+        <fnt>
+          <aut>R. Feldman Gonzalez, trad. N. Kalusky k.a.</aut>,
+          <vrk><url
+          ref="http://percepcionunitaria.org/eo/doku/850000_la_nov_para_en_psiko.pdf">
+          La nova paradigmo en psikologio</url></vrk>,
+          <lok>SAT-bro&scirc;urservo, [vidita en 2008]</lok>
+        </fnt>.
+      </ekz>
+  </snc>
+  <trd lng="en">white matter</trd>
+  <trdgrp lng="fr">
+    <trd>mati&egrave;re blanche</trd>,
+    <trd>substance blanche</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="materi.griza0o">
+  <kap>griza <tld/>o</kap>
+  <snc mrk="materi.griza0o.FIZL">
+    <uzo tip="fak">FIZL</uzo>
+    <ref tip="dif" cel="substa.griza0o.FIZL">griza substanco</ref>
+  </snc>
+  <trd lng="en">gray matter</trd>
+  <trdgrp lng="fr">
+    <trd>mati&egrave;re grise</trd>,
+    <trd>substance grise</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="materi.malhela0o">
+  <kap>malhela <tld/>o</kap>
+  <snc mrk="materi.malhela0o.AST">
+    <uzo tip="fak">AST</uzo>
+    <dif>
+      Supozata kvanto de kosma materio,
+      kiu ne estas observata sed la&ubreve; kalkuloj ekzistas:
+      <ekz>
+        per lia teorio ne necesas revi pri malhela <tld/>o
+        <fnt>
+          <aut>H. Broadbent</aut>,
+          <vrk>Subite ne malrapide Tero &scirc;an&gcirc;i&gcirc;as</vrk>,
+          <lok><url
+          ref="http://www.gazetejo.org/system/files/gazetoj/Mirmekobo%202.pdf">
+          Mirmekobo, 2008-06</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="en">dark matter</trd>
+  <trd lng="fr">mati&egrave;re noire</trd>
+</drv>
+
+<drv mrk="materi.historia0ismo">
+  <kap>historia <tld/>ismo</kap>
+  <snc mrk="materi.historia0ismo.FIL">
+    <uzo tip="fak">FIL</uzo>
+    <uzo tip="fak">HIS</uzo>
+    <uzo tip="fak">MAH</uzo>
+    <dif>
+      Doktrino, la&ubreve; kiu ekonomia bazo, plie ol ideoj,
+      determinas la evoluon de la socia vivo.
+    </dif>
+    <ref tip="malprt" cel="marks.m0ismo">markismo</ref>
+  </snc>
+  <trd lng="be">&c_g;&c_ib;&c_s;&c_t;&c_a;&c_r;&c_y;&c_ch;&c_n;&c_y;
+  <ind>&c_m;&c_a;&c_t;&c_e;&c_r;&c_y;&c_ja;&c_l;&c_ib;&c_z;&c_m;</ind></trd>
+  <trd lng="ca">materialisme hist&ograve;ric</trd>
+  <trd lng="de">Historischer <ind>Materialismus</ind></trd>
+  <trd lng="en">historical materialism</trd>
+  <trd lng="es">materialismo hist&oacute;rico</trd>
+  <trd lng="fr">mat&eacute;rialisme historique</trd>
+  <trd lng="hu">t&ouml;rt&eacute;nelmi <ind>materializmus</ind></trd>
+  <trd lng="nl">historisch <ind>materialisme</ind></trd>
+  <trd lng="ru">&c_i;&c_s;&c_t;&c_o;&c_r;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j; &c_m;&c_a;&c_t;&c_je;&c_r;&c_i;&c_a;&c_l;&c_i;&c_z;&c_m;</trd>
+  <trd lng="sk">historick&yacute; <ind>materializmus</ind></trd>
+</drv>
+</art>
+<!--
+$Log: materi.xml,v $
+Revision 1.22  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.21  2015/06/29 16:33:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.20  2010/04/30 12:25:47  revo
+Jeromo Vasxe: kor 1 ref
+
+Revision 1.19  2010/03/26 17:30:46  revo
+Russ Williams: +trd en
+
+Revision 1.18  2010/03/10 17:30:49  revo
+Jeromo Vasxe: + malhela ~o
+
+Revision 1.17  2008/04/21 16:46:24  revo
+Jeromo Vasxe: + blanka griza ~o
+
+Revision 1.16  2006/07/29 16:35:54  revo
+Tulio Flores: +tr pt
+
+Revision 1.15  2006/01/17 17:31:05  revo
+Jeromo Vasxe: + ~isto, + trd fr
+
+Revision 1.14 2005/05/12 16:32:43 revo
+Raul Salinas Monteagudo: +trd es,ca
+
+Revision 1.13 2003/05/19 19:36:41 revo
+-->
+</vortaro>

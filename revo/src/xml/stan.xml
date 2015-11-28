@@ -1,0 +1,151 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: stan.xml,v 1.26 2015/07/04 08:37:44 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>stan</rad>/o
+</kap>
+
+<drv mrk="stan.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <mlg kod="IUPAC">Sn</mlg>
+  <uzo tip="fak">KEM</uzo>
+  <snc>
+    <dif>
+  &Hcirc;emia <ref tip="lst" cel="elemen.0o.KEM"
+  lst="voko:&hcirc;emiaj_elementoj" val="50">elemento</ref> kun
+  atomnumero 50, atompezo 118,69; 
+  griza, facile fandebla posttransira 
+  <ref tip="super" cel="metal.0o">metalo</ref>:
+      <ekz>
+        telero, kru&ccirc;o, kulero el <tld/>o;
+      </ekz>
+      <ekz>
+        <tld/>a soldato
+        <klr>(kiel infana ludilo)</klr> 
+        <fnt><bib>Fab1</bib>, <lok>Persista stana soldato</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_v;&c_o;&c_l;&c_a;&c_v;&c_a;</trd>
+  <trd lng="bg">&c_k;&c_a;&c_l;&c_a;&c_j;</trd>
+  <trd lng="br">staen</trd>
+  <trdgrp lng="ca">
+    <trd>estany</trd>
+    <trd>j&uacute;piter<klr> (metal)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>Sn</trd>,
+    <trd>cín</trd>,
+    <trd>stanum</trd>
+  </trdgrp>
+  <trd lng="de">Zinn</trd>
+  <trd lng="en">tin</trd>
+  <trd lng="es">esta&ntilde;o</trd>
+  <trd lng="fa">&a_q;&a_l;&a_ayn;</trd>
+  <trd lng="fr">&eacute;tain</trd>
+  <trd lng="hu">&oacute;n</trd>
+  <trd lng="id">timah</trd>
+  <trd lng="it">stagno</trd>
+  <trd lng="la">Stannum</trd>
+  <trd lng="nl">tin</trd>
+  <trd lng="pl">cyna</trd>
+  <trd lng="pt">estanho</trd>
+  <trd lng="ru">&c_o;&c_l;&c_o;&c_v;&c_o;</trd>
+  <trdgrp lng="sk">
+    <trd>Sn</trd>,
+    <trd>cín</trd>
+  </trdgrp>
+  <trd lng="sv">tenn</trd>
+</drv>
+
+<drv mrk="stan.0i">
+  <kap><tld/>i<fnt>Z</fnt></kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+  <dif>
+  Tegi per maldika tavolo el <tld/>o:
+  <ekz>
+    <tld/>ita kaserolo.
+  </ekz>
+  </dif>
+  </snc>
+  <trd lng="be">&c_l;&c_u;&c_d;&c_z;&c_ib;&c_c;&c_mol;</trd>
+  <trd lng="bg">&c_k;&c_a;&c_l;&c_a;&c_j;&c_d;&c_i;&c_s;&c_v;&c_a;&c_m;</trd>
+  <trd lng="br">staena&ntilde;</trd>
+  <trd lng="ca">estanyar</trd>
+  <trdgrp lng="cs">
+    <trd>cínovat</trd>,
+    <trd>působit cínem</trd>
+  </trdgrp>
+  <trd lng="de">verzinnen</trd>
+  <trdgrp lng="en">
+    <trd>tin</trd>,
+    <trd>tin-plate</trd>
+  </trdgrp>
+  <trd lng="es">esta&ntilde;ar</trd>
+  <trd lng="fa">&a_q;&a_l;&a_ayn; &f_g;&a_r;&a_f;&a_t;&a_n;</trd>
+  <trd lng="fr">&eacute;tamer</trd>
+  <trd lng="hu">&oacute;noz</trd>
+  <trd lng="pl">cynowa&cacute;</trd>
+  <trd lng="ru">&c_l;&c_u;&c_d;&c_i;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>cínovať</trd>,
+    <trd>pocínovať</trd>
+  </trdgrp>
+  <trd lng="sv">f&ouml;rtenna</trd>
+</drv>
+
+<drv mrk="stan.0isto">
+<kap><tld/>isto</kap>
+  <snc>
+    <dif>
+      Metiisto kiu faras a&jcirc;ojn el <tld/>o.
+        <ekz>
+          Mi reiris al la stanisto, kaj li denove faris por mi kruron el
+          
+          stano.
+          <fnt><bib>DOz</bib><lok>&Ccirc;apitro 5</lok></fnt>
+        </ekz>
+    </dif>
+  </snc>
+  <trd lng="en">tinsmith</trd>
+  <trd lng="fr">&eacute;tameur</trd>
+</drv>
+
+</art>
+
+<!--
+$Log: stan.xml,v $
+Revision 1.26  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.25  2015/06/29 16:33:24  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.24  2014/06/04 03:10:40  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.23  2014/04/12 07:10:50  revo
+Damien Brucker: +trd fr
+
+Revision 1.22  2014/01/30 18:10:14  revo
+Joop Eggen: +trd bg
+
+Revision 1.21  2013/09/15 18:10:28  revo
+Wolfram Diestel: simb. laux IUPAC, val
+
+Revision 1.20  2013/08/25 07:11:02  revo
+Wolfram Diestel: referenco al listo elementoj
+
+Revision 1.19  2010/10/25 16:31:12  revo
+Jerano Zachrisson: +trd sv
+
+Revision 1.18  2009/08/18 19:18:39  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.17  2006/06/05 16:42:28  revo
+-->
+</vortaro>

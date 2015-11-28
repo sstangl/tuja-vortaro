@@ -1,0 +1,564 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: gas.xml,v 1.47 2015/09/21 09:10:17 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>gas</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="gas.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="gas.0o.FIZ">
+    <uzo tip="fak">FIZ</uzo>
+    <dif>
+      Aersimila fluida&jcirc;o, kies molekuloj tre malmulte
+      alteni&gcirc;as
+      inter si kaj &ccirc;iam emas disi&gcirc;i (aero, hidrogeno,
+      brul<tld/>o,
+      ktp):
+      <ekz>
+        jam post tri tagoj la ventro de mortinta besto tre &scirc;velas
+        pro
+        la <tld/>oj de la putrado
+        <fnt>
+        <aut>W. M. A. De Smet</aut>,
+        <vrk>Gigantoj sur strandoj</vrk>,
+        <bib>Monato</bib>, <lok>jaro 1998a, numero 11a, p. 22a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="pt">g&aacute;s</trd>
+  </snc>
+  <snc mrk="gas.0o.KOMUNE">
+    <uzo tip="stl">KOMUNE</uzo>
+    <ref tip="dif" cel="gas.brul0o.ENE">brul<tld/>o</ref>
+    <trd lng="pt">g&aacute;s<klr tip="amb"> (combust&iacute;vel, de
+    cozinha)</klr></trd>
+  </snc>
+  <refgrp tip="vid">
+    <ref cel="vapor.0o">vaporo</ref>
+  </refgrp>
+  <trd lng="be">&c_g;&c_a;&c_z;</trd>
+  <trd lng="bg">&c_g;&c_a;&c_z;</trd>
+  <trd lng="de">Gas</trd>
+  <trd lng="el">&alfa;&epsilon_ton;&rho;&jota;&omikron;</trd>
+  <trd lng="en">gas</trd>
+  <trd lng="es">gas</trd>
+  <trd lng="fr">gaz</trd>
+  <trd lng="hu">g&aacute;z</trd>
+  <trd lng="id">gas</trd>
+  <trd lng="nl">gas</trd>
+  <trd lng="pl">gaz</trd>
+  <trd lng="pt">g&aacute;s</trd>
+  <trd lng="ru">&c_g;&c_a;&c_z;</trd>
+  <trd lng="tp">kon</trd>
+  <trd lng="tr">gaz</trd>
+  <trd lng="sk">plyn</trd>
+  <trdgrp lng="cs">
+    <trd>plyn</trd>,
+    <trd>spaliny</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="gas.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="gas.0a.FIZ">
+    <uzo tip="fak">FIZ</uzo>
+    <dif>
+      El <tld/>o, funkcianta per <tld/>o:
+      <ekz>
+        <tld/>aj lanternoj
+        <fnt><bib>Marta</bib></fnt>;
+      </ekz>
+      <ekz>
+        solidaj, likvaj a&ubreve; <tld/>aj substancoj atingas la
+        tersupra&jcirc;on
+        <fnt>
+        <aut>E. Georgiev</aut>,
+        <vrk>Vulkanoj</vrk>,
+        <bib>Monato</bib>,
+        <lok>jaro 2001a, numero 2a, p. 22a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_g;&c_a;&c_z;&c_a;&c_v;&c_y;</trd>
+  <trdgrp lng="cs">
+    <trd>na plyn <klr>(spot&rcaron;ebi&ccaron;)</klr></trd>,
+    <trd>plynov&yacute;</trd>
+  </trdgrp>
+  <trd lng="de">gasf&ouml;rmig</trd>
+  <trdgrp lng="fr">
+    <trd>&agrave; <ind>gaz</ind></trd>,
+    <trd>gazeux</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>g&aacute;z-</trd>,
+    <trd>g&aacute;z halmaz&aacute;llapot&uacute;</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>gas-</trd>,
+    <trd>gasachtig</trd>,
+    <trd>gasvormig</trd>
+  </trdgrp>
+  <trd lng="pl">gazowy</trd>
+  <trd lng="pt">gasoso</trd>
+  <trd lng="ru">&c_g;&c_a;&c_z;&c_o;&c_v;&c_y;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>na plyn <klr>(spotrebi&ccaron;)</klr></trd>,
+    <trd>plynov&yacute;</trd>
+  </trdgrp>
+  <trd lng="tp">kon</trd>
+  <trd lng="tr">gaz halinde</trd>
+</drv>
+
+<drv mrk="gas.0eca">
+  <kap><tld/>eca</kap>
+  <snc mrk="gas.0eca.FIZ">
+    <dif>
+      Havanta la naturon de <tld/>o.
+    </dif>
+  </snc>
+  <trd
+  lng="be">&c_g;&c_a;&c_z;&c_a;&c_p;&c_a;&c_d;&c_o;&c_b;&c_n;&c_y;</trd>
+  <trd lng="cs">v plynn&eacute;m stavu</trd>
+  <trd lng="de">gasf&ouml;rmig</trd>
+  <trd lng="es">gaseoso</trd>
+  <trd lng="fr">gazeux</trd>
+  <trd lng="hu">g&aacute;zszer&udblac;</trd>
+  <trd lng="nl">gasachtig</trd>
+  <trd lng="pl">lotny</trd>
+  <trd lng="pt">gasoso</trd>
+  <trd
+  lng="ru">&c_g;&c_a;&c_z;&c_o;&c_o;&c_b;&c_r;&c_a;&c_z;&c_n;&c_y;&c_j;</trd>
+  <trd lng="sk">v plynnom stave</trd>
+</drv>
+
+<drv mrk="gas.0igi">
+  <kap><tld/>igi</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="gas.0igi.FIZ">
+    <dif>
+      Igi <tld/>a, meti en <tld/>an staton.
+    </dif>
+  </snc>
+  <trd
+  lng="be">&c_p;&c_je;&c_r;&c_a;&c_t;&c_v;&c_a;&c_r;&c_y;&c_c;&c_mol;
+  &c_u; <ind>&c_g;&c_a;&c_z;</ind></trd>
+  <trdgrp lng="cs">
+    <trd>rozv&aacute;d&ecaron;t plyn</trd>,
+    <trd>vyr&aacute;b&ecaron;t plyn</trd>,
+    <trd>zav&aacute;d&ecaron;t plyn</trd>,
+    <trd>zplynovat</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>in Gas verwandeln</trd>,
+    <trd>vergasen</trd>
+  </trdgrp>
+  <trd lng="es">gasificar</trd>
+  <trd lng="fr">gaz&eacute;ifier <klr tip="ind">(transformer en
+  gaz)</klr></trd>
+  <trd lng="hu">g&aacute;zos&iacute;t</trd>
+  <trdgrp lng="pl">
+    <trd>gazyfikowa&cacute;</trd>,
+    <trd>zmienia&cacute; stan na <ind>gazowy</ind></trd>,
+    <trd>zmienia&cacute; stan na <ind>lotny</ind></trd>,
+    <trd>odparowa&cacute;</trd>
+  </trdgrp>
+  <trd lng="pt">gaseificar</trd>
+  <trdgrp lng="sk">
+    <trd>splynova&tcaron;</trd>,
+    <trd>zav&aacute;dza&tcaron; plyn</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="gas.0ujo">
+  <kap><tld/>ujo</kap>
+  <snc mrk="gas.0ujo.gxenerale">
+    <dif>
+      Ajna ujo, destinita por teni <tld/>on, kaj pli speciale:
+    </dif>
+    <subsnc mrk="gas.0ujo.gasbotelo">
+      <fnt><bib>PIV1</bib></fnt>
+      <dif>
+        metala ujo, destinita por teni de kelkcent &gcirc;is kelkmil
+        gramojn da <ref cel="prem.kun0i.FIZ">kunpremita</ref> <tld/>o,
+        ofte brul<tld/>o;
+      </dif>
+      <ref tip="sin" cel="gas.0botelo"><tld/>botelo</ref>
+      <trd lng="de">Gasflasche</trd>
+      <trd lng="fr">bouteille de gaz</trd>
+      <trdgrp lng="nl">
+        <trd>gasfles</trd>,
+        <trd>gastank</trd>
+      </trdgrp>
+      <trd lng="hu">g&aacute;zpalack</trd>
+      <trd lng="pl">butla <ind>gazowa</ind></trd>
+      <trd lng="pt">butij&atilde;o de g&aacute;s</trd>
+      <trd lng="ru">&c_g;&c_a;&c_z;&c_o;&c_v;&c_y;&c_j;
+      &c_b;&c_a;&c_l;&c_l;&c_o;&c_n;</trd>
+    </subsnc>
+    <subsnc mrk="gas.0ujo.granda_rezervujo">
+      <fnt><bib>PV</bib></fnt>
+      <dif>
+        granda rezervujo por brul<tld/>o &ccirc;e la fabriko.
+      </dif>
+      <refgrp tip="vid">
+        Komparu kun:
+        <ref cel="gasome.0o">gasometro</ref>.
+      </refgrp>
+      <adm>
+        &Ccirc;u la precizigo "&ccirc;e la fabriko" estas esenca kaj
+        sufi&ccirc;e
+        klara?
+        Kia alia diferenco ekzistas inter ~ujo kaj
+        &leftquot;gasometro&rightquot;?
+        <aut>MB</aut>
+      </adm>
+      <trd lng="de">Gasometer</trd>
+      <trd lng="hu">g&aacute;ztart&aacute;ly</trd>
+      <trd lng="nl">gashouder</trd>
+      <trd
+      lng="ru">&c_g;&c_a;&c_z;&c_o;&c_h;&c_r;&c_a;&c_n;&c_i;&c_l;&c_i;&c_shch;&c_je;</trd>
+    </subsnc>
+    <trd lng="fr">r&eacute;servoir de gaz</trd>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_g;&c_a;&c_z;&c_a;&c_v;&c_y;
+    &c_b;&c_a;&c_l;&c_jo;&c_n;</trd>,
+    <trd>&c_g;&c_a;&c_z;&c_g;&c_o;&c_l;&c_mol;&c_d;&c_a;&c_r;</trd>,
+    <trd>&c_g;&c_a;&c_z;&c_a;&c_s;&c_h;&c_o;&c_v;&c_ib;&c_sh;&c_ch;&c_a;</trd>
+  </trdgrp>
+  <trd lng="cs">l&aacute;hev na plyn</trd>
+  <trdgrp lng="de">
+    <trd>Gasbeh&auml;lter</trd>,
+    <trd>Gastank</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>f&lcaron;a&scaron;a na plyn</trd>,
+    <trd>plynojem</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="gas.brul0o">
+  <kap>brul<tld/>o, <var><kap>lum<tld/>o</kap></var></kap>
+  <snc mrk="gas.brul0o.ENE">
+    <dif>
+      <tld lit="G"/>a <ref tip="super"
+      cel="brul.0igajxo">bruliga&jcirc;o</ref>,
+      produktata miksante diversajn naturajn a&ubreve; artefaritajn
+      bruligeblajn <tld/>ojn, kaj uzata por lumigi kaj hejti.
+    </dif>
+  </snc>
+  <trd lng="cs">topn&yacute; plyn</trd>
+  <trdgrp lng="de">
+    <trd>Brenngas</trd>,
+    <trd>Stadtgas</trd>,
+    <trd>Heizgas</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>gaz d'&eacute;clairage</trd>,
+    <trd>gaz de ville</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>f&udblac;t&odblac;g&aacute;z</trd>,
+    <trd>v&aacute;rosi <ind>g&aacute;z</ind></trd>,
+    <trd>vil&aacute;g&iacute;t&oacute;g&aacute;z</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>lichtgas</trd>,
+    <trd>stadsgas</trd>
+  </trdgrp>
+  <trd lng="pt">g&aacute;s combust&iacute;vel</trd>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_v;&c_je;&c_t;&c_i;&c_l;&c_mol;&c_n;&c_y;&c_j;
+    &c_g;&c_a;&c_z;</trd>;
+    <trd>&c_b;&c_y;&c_t;&c_o;&c_v;&c_o;&c_j; &c_g;&c_a;&c_z;</trd>
+  </trdgrp>
+  <trd lng="sk">plyn na p&aacute;lenie</trd>
+  <trd lng="tr">do&gbreve;algaz</trd>
+</drv>
+
+<drv mrk="gas.larmo0o">
+  <kap>larmo<tld/>o, <var><kap>larmiga <tld/>o</kap></var></kap>
+  <snc mrk="gas.larmo0o.KOMUNE">
+    <dif>
+      <tld lit="G"/>o incita al la okuloj, uzata kontra&ubreve; strataj
+      manifestaciantoj:
+      <ekz>
+        oni veturigis min al malsanulejo. Miaj okuloj estis difektitaj
+        per larmiga <tld/>o
+        <fnt>
+        <aut>D. Paisner, R. Picciotto</aut>,
+        <vrk><url ref="http://www.esperanto.pl/page.php?tid=311342">La
+        lastaj el travivintoj</url></vrk>,
+        <lok>[vidita en 2006]</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la demonstraciintoj estis vunditaj pro pafado, batado kaj
+        larmo-<tld/>o hodia&ubreve;
+        <fnt>
+        <aut>R. Manandhar</aut>,
+        <vrk><url ref="http://razeno.blog.com/">Razeno blogas
+        Esperante...</url></vrk>,
+        <lok>2006-04-13</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="de">Tr&auml;nengas</trd>
+  <trd lng="fr">gaz lacrymog&egrave;ne</trd>
+  <trd lng="pl">gaz &lstroke;zawi&aogonek;cy</trd>
+  <trd lng="pt">g&aacute;s lacrimog&ecirc;neo</trd>
+</drv>
+
+<drv mrk="gas.min0o">
+  <kap>min<tld/>o</kap>
+  <snc mrk="gas.min0o.ENE">
+    <dif>
+      Flami&gcirc;ema kaj eksplodema <tld/>o en la karbominejoj,
+      miksa&jcirc;o
+      el aero kaj <ref cel="metan.0o">metano</ref>.
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>b&aacute;&ncaron;sk&yacute; plyn</trd>,
+    <trd>d&uring;ln&iacute; plyn</trd>
+  </trdgrp>
+  <trd lng="de">Grubengas</trd>
+  <trd lng="fr">grisou</trd>
+  <trdgrp lng="hu">
+    <trd>b&aacute;nyal&eacute;g</trd>,
+    <trd>s&uacute;lyt&oacute;l&eacute;g</trd>
+  </trdgrp>
+  <trd lng="nl">mijngas</trd>
+  <trdgrp lng="pl">
+    <trd>gaz kopalniany</trd>,
+    <trd>gaz b&lstroke;otny</trd>
+  </trdgrp>
+  <trd lng="pt">g&aacute;s de minas<klr tip="amb"> (mistura de metano
+  com
+  ar)</klr></trd>
+  <trd lng="ru">&c_r;&c_u;&c_d;&c_n;&c_i;&c_ch;&c_n;&c_y;&c_j;
+  &c_g;&c_a;&c_z;</trd>
+  <trd lng="sk">bansk&yacute; plyn</trd>
+</drv>
+
+<drv mrk="gas.ter0o">
+  <kap>ter<tld/>o</kap>
+  <snc mrk="gas.ter0o.ENE">
+    <dif>
+      <tld lit="G"/>o, konsistanta &ccirc;efe el metano, eli&gcirc;anta
+      el
+      teraj fontoj:
+      <ekz>
+        distribuo de elektro, petrolo kaj ter<tld/>o
+        <fnt>
+          <aut>D. Rogers</aut>,
+          <vrk>Ekonomia miraklo a&ubreve; malsano?</vrk>,
+          <bib>Monato</bib>,
+          <lok>jaro 1997a, numero 2a, p. 14a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_r;&c_y;&c_r;&c_o;&c_d;&c_n;&c_y;
+  &c_g;&c_a;&c_z;</trd>
+  <trd lng="cs">zemn&iacute; plyn</trd>
+  <trdgrp lng="de">
+    <trd>Erdgas</trd>,
+    <trd>Naturgas</trd>
+  </trdgrp>
+  <trd lng="en">natural <ind>gas</ind></trd>
+  <trd lng="fr">gaz naturel</trd>
+  <trd lng="hu">f&ouml;ldg&aacute;z</trd>
+  <trd lng="id"><ind>gas</ind> bumi</trd>
+  <trd lng="nl">aardgas</trd>
+  <trd lng="pl">gaz ziemny</trd>
+  <trd lng="pt">g&aacute;s natural</trd>
+  <trd lng="ru">&c_p;&c_r;&c_i;&c_r;&c_o;&c_d;&c_n;&c_y;&c_j;
+  &c_g;&c_a;&c_z;</trd>
+  <trd lng="sk">zemn&yacute; plyn</trd>
+</drv>
+
+<drv mrk="gas.nobla0o">
+  <kap>nobla <tld/>o</kap>
+  <snc mrk="gas.nobla0o.KEM">
+    <uzo tip="fak">KEM</uzo>
+    <dif>
+      <ref tip="super" cel="gas.0o.FIZ"><tld lit="G"/>o</ref>, kies
+      molekuloj ne povas kombini&gcirc;i kun aliaj molekuloj.
+    </dif>
+    <refgrp tip="sub">
+      <ref cel="argon.0o">argono</ref>,
+      <ref cel="helium.0o">heliumo</ref>,
+      <ref cel="kripto1.0o">kriptono</ref>,
+      <ref cel="ksenon.0o">ksenono</ref>,
+      <ref cel="neon.0o">neono</ref>
+    </refgrp>
+    <ref tip="vid" cel="inert.0a.KEM">inerta</ref>
+  </snc>
+  <trd lng="be">&c_ib;&c_n;&c_e;&c_r;&c_t;&c_n;&c_y;
+  &c_g;&c_a;&c_z;</trd>
+  <trd lng="cs">vz&aacute;cn&yacute; plyn</trd>
+  <trd lng="de">Edelgas</trd>
+  <trdgrp lng="en">
+    <trd>inert <ind>gas</ind></trd>,
+    <trd>noble <ind>gas</ind></trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>gaz rare</trd>,
+    <trd>gaz inerte</trd>,
+    <trd>gaz noble</trd>
+  </trdgrp>
+  <trd lng="hu">nemesg&aacute;z</trd>
+  <trd lng="id"><ind>gas</ind> mulia</trd>
+  <trd lng="nl">edelgas</trd>
+  <trd lng="pl">gaz szlachetny</trd>
+  <trd lng="pt">g&aacute;s nobre</trd>
+  <trd lng="ru">&c_i;&c_n;&c_je;&c_r;&c_t;&c_n;&c_y;&c_j;
+  &c_g;&c_a;&c_z;</trd>
+  <trd lng="sk">vz&aacute;cny plyn</trd>
+</drv>
+
+<drv mrk="gas.0beko">
+  <kap><tld/>beko</kap>
+  <snc mrk="gas.0beko.TEK">
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      Ekstrema&jcirc;o de tubo, &ccirc;e kiu eli&gcirc;as kaj brulas
+      lum<tld/>o.
+    </dif>
+    <refgrp tip="super">
+      <ref cel="brul.0ilo">brulilo</ref>,
+      <ref cel="flam.0ingo">flamingo</ref>.
+    </refgrp>
+  </snc>
+  <trd lng="cs">plynov&yacute; ho&rcaron;&aacute;k</trd>
+  <trdgrp lng="de">
+    <trd>Brenner</trd>,
+    <trd>Brennd&uuml;se</trd>
+  </trdgrp>
+  <trd lng="fr">bec de gaz</trd>
+  <trdgrp lng="hu">
+    <trd>g&aacute;z&eacute;g&odblac;</trd>,
+    <trd>g&aacute;z&eacute;g&odblac;fej</trd>
+  </trdgrp>
+  <trd lng="nl">gasbekken</trd>
+  <trd lng="pl">dysza <klr>palnika</klr></trd>
+  <trd lng="pt">bico de g&aacute;s</trd>
+  <trd lng="ru">&c_g;&c_a;&c_z;&c_o;&c_v;&c_a;&c_ja;
+  &c_g;&c_o;&c_r;&c_je;&c_l;&c_k;&c_a;</trd>
+  <trd lng="sk">plynov&yacute; hor&aacute;k</trd>
+</drv>
+
+<drv mrk="gas.0botelo">
+  <kap><tld/>botelo</kap>
+  <snc>
+    <ref tip="dif" cel="gas.0ujo.gasbotelo"><tld/>ujo<sncref
+    ref="gas.0ujo.gasbotelo"/></ref>
+  </snc>
+  <trd lng="be">&c_g;&c_a;&c_z;&c_a;&c_v;&c_y;
+  &c_b;&c_a;&c_l;&c_jo;&c_n;</trd>
+  <trdgrp lng="cs">
+    <trd>bomba na plyn</trd>,
+    <trd>ocelov&aacute; l&aacute;hev na plyn</trd>
+  </trdgrp>
+  <trd lng="de">Gasflasche</trd>
+  <trd lng="fr">bouteille de gaz</trd>
+  <trd lng="hu">g&aacute;zpalack</trd>
+  <trd lng="pl">butla gazowa</trd>
+  <trd lng="pt">butij&atilde;o de g&aacute;s</trd>
+  <trd lng="ru">&c_g;&c_a;&c_z;&c_o;&c_v;&c_y;&c_j;
+  &c_b;&c_a;&c_l;&c_l;&c_o;&c_n;</trd>
+  <trd lng="sk">oce&lcaron;ov&aacute; f&lcaron;a&scaron;a na plyn</trd>
+</drv>
+
+<drv mrk="gas.0mezurilo">
+  <kap><tld/>mezurilo</kap>
+  <snc mrk="gas.0mezurilo.TEK">
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      Aparato por reguligi la fluon kaj registri la kvanton de la
+      distribuita brul<tld/>o.
+    </dif>
+  </snc>
+  <trd lng="be">&c_g;&c_a;&c_z;&c_a;&c_v;&c_y;
+  &c_l;&c_ib;&c_ch;&c_y;&c_l;&c_mol;&c_n;&c_ib;&c_k;</trd>
+  <trd lng="cs">plynom&ecaron;r</trd>
+  <trd lng="de">Gasz&auml;hler</trd>
+  <trd lng="fr">compteur &agrave; gaz</trd>
+  <trd lng="hu">g&aacute;z&oacute;ra</trd>
+  <trd lng="nl">gasmeter</trd>
+  <trd lng="pl">gazomierz</trd>
+  <trd lng="pt">medidor de g&aacute;s</trd>
+  <trd lng="ru">&c_g;&c_a;&c_z;&c_o;&c_v;&c_y;&c_j;
+  &c_s;&c_ch;&c_jo;&c_t;&c_ch;&c_i;&c_k;</trd>
+  <trd lng="sk">plynomer</trd>
+</drv>
+
+<drv mrk="gas.0mufo">
+  <kap><tld/>mufo</kap>
+  <snc mrk="gas.0mufo.TEK">
+    <uzo tip="fak">HIS</uzo>
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      Speco de &ccirc;apeto, teksita el asbesto, kiun oni metis sur
+      <tld/>bekon por pliintensigi la lumon de la flamo, kiu igis
+      &gcirc;in ardanta.
+    </dif>
+    <ref tip="sin" cel="ard.0ilo">ardilo</ref>
+  </snc>
+  <trd lng="cs">pun&ccaron;o&scaron;ka plynov&eacute; lampy</trd>
+  <trd lng="de">Gl&uuml;hk&ouml;rper</trd>
+  <trd lng="en">mantle</trd>
+  <trd lng="fr">manchon<klr tip="ind">(de flamme)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>izz&odblac;harisnya</trd>,
+    <trd>izz&oacute;h&aacute;l&odblac;</trd>
+  </trdgrp>
+  <trd lng="nl">gasmof</trd>
+  <trdgrp lng="pt">
+    <trd>camisinha incandescente<klr tip="amb"> (de
+    ilumina&ccedil;&atilde;o a
+    g&aacute;s)</klr></trd>,
+    <trd>v&eacute;u incandescente<klr tip="amb"> (de
+    ilumina&ccedil;&atilde;o a
+    g&aacute;s)</klr></trd>
+  </trdgrp>
+  <trd lng="ru">&c_k;&c_a;&c_l;&c_i;&c_l;&c_mol;&c_n;&c_a;&c_ja;
+  &c_s;&c_je;&c_t;&c_k;&c_a;
+  <klr>(&c_g;&c_a;&c_z;&c_o;&c_v;&c_o;&c_g;&c_o;
+  &c_f;&c_o;&c_n;&c_a;&c_r;&c_ja;)</klr></trd>
+  <trd lng="sk">pan&ccaron;u&scaron;ka plynovej lampy</trd>
+</drv>
+</art>
+<!--
+$Log: gas.xml,v $
+Revision 1.47  2015/09/21 09:10:17  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.46  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.45  2015/06/29 16:29:39  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.44  2014/12/31 16:10:26  revo
+Wolfram Diestel: +trd de
+
+Revision 1.43  2014/06/03 10:10:35  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.42  2013/01/15 01:10:08  revo
+Paulo Rodrigo Barros: + trd pt (tergaso k larmogaso k gasbotelo k
+gasujo)
+
+Revision 1.41  2011/03/23 14:10:09  revo
+Jeromo Vasxe: mrk=gaz.0a.TEK en snc de ~a por korekti la ligilon en
+stato, + reord. drv
+-->
+</vortaro>

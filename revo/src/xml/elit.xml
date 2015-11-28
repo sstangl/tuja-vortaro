@@ -1,0 +1,146 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: elit.xml,v 1.16 2015/07/04 08:37:33 revo Exp $">
+<kap>
+  <rad>elit</rad>/o
+  <fnt>C</fnt>
+</kap>
+<drv mrk="elit.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="elit.0o.POL">
+    <dif>
+      Plej bona parto el aro, precipe el homgrupo:
+      <ekz>
+        la <tld/>o de la armeo, de la scienculoj;
+      </ekz>
+      <ekz>
+        &ccirc;iu socio bezonas intelektan <tld/>on;
+      </ekz>
+      <ekz>
+        <ind><tld/>a</ind> karaktero, animo.
+        <trd lng="ca">elitista</trd>
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="distin.0inda">distinginda</ref>,
+      <ref cel="elekt.0ita">elektita</ref>,
+      <ref cel="eminen1.0a">eminenta</ref>,
+      <ref cel="krem.0o.plejbonajxo">kremo <sncref/></ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_e;&c_l;&c_ib;&c_t;&c_a;</trd>
+  <trd lng="ca">elit</trd>
+  <trdgrp lng="cs">
+    <trd>elita</trd>,
+    <trd>noblesa</trd>,
+    <trd>smetánka <klr>(společnosti)</klr></trd>,
+    <trd>výkvět</trd>,
+    <trd>špice</trd>,
+    <trd>špička</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Elite</trd>,
+    <trd>Auserw&auml;hlte</trd>,
+    <trd>Bestenauslese</trd>
+  </trdgrp>
+  <trd lng="en">elite</trd>
+  <trd lng="es">&eacute;lite</trd>
+  <trd lng="fr">&eacute;lite</trd>
+  <trd lng="nl">elite</trd>
+  <trd lng="pl">elita</trd>
+  <trdgrp lng="pt">
+    <trd>elite</trd>,
+    <trd>fina-flor</trd>,
+    <trd>nata</trd>,
+    <trd>escol</trd>
+  </trdgrp>
+  <trd lng="ru">&c_e;&c_l;&c_i;&c_t;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>elita</trd>,
+    <trd>výkvet</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="elit.0ismo">
+  <kap><tld/>ismo</kap>
+  <snc mrk="elit.0ismo.POL">
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      Sinteno, kiu atentas kaj favoras <tld/>on, eventuale neglektante
+      ceterajn homojn:
+      <ekz>
+        tio, kion usonanoj (almena&ubreve; la plejparto) ne &scirc;atas,
+        estas
+        <tld/>ismo
+        <fnt>
+        <aut>T. Sankaro</aut>,
+        <vrk><url
+        ref="http://gxangalo.com/modules/weblog/details.php?blog_id=752">Pli
+        da &Gcirc;angala
+        &leftquot;ne&ubreve;traleco&rightquot;</url></vrk>,
+        <lok>[blogo], 2004-12-05</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Gramsci <klr>...</klr> inspirita de intelektula <tld/>ismo,
+        e&ccirc;
+        opinias ke la subaj popoltavoloj ne tiom bezonas internaciajn
+        kontaktojn
+        <fnt>
+        <aut>A. Montagner</aut>,
+        <vrk>Sinistra e esperanto</vrk>,
+        <lok><url
+        ref="http://groups.google.be/group/soc.culture.esperanto?hl=eo">soc.culture.esperanto</url>,
+        2005-05-01</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="ant">
+      <ref cel="egal.0ismo.POL">egalismo</ref>
+    </refgrp>
+    <refgrp tip="vid">
+      <ref cel="snob.0ismo.KOMUNE">snobismo</ref>
+    </refgrp>
+  </snc>
+  <trd lng="ca">elitisme</trd>
+  <trd lng="cs">elitářství</trd>
+  <trd lng="en">elitism</trd>
+  <trd lng="fr">&eacute;litisme</trd>
+  <trd lng="pt">elitismo</trd>
+  <trd lng="sk">elitárstvo</trd>
+</drv>
+</art>
+<!--
+$Log: elit.xml,v $
+Revision 1.16  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.14  2011/12/05 00:10:15  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.13  2010/04/16 16:30:54  revo
+Russ Williams: +trd en
+
+Revision 1.12  2010/01/27 17:30:26  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.11  2007/06/27 16:31:51  revo
+Tulio Flores: +tr pt
+
+Revision 1.10  2006/03/17 17:32:41  revo
+Jeromo Vasxe: + ~ismo
+
+Revision 1.9 2003/12/17 17:30:41 revo
+Dmitri Gabinski: +trd be
+
+Revision 1.8 2002/06/06 17:31:15 revo
+Alejandro Mejia Greene: ald 1 his trd
+
+Revision 1.7 2002/05/29 05:33:59 revo
+-->
+</vortaro>

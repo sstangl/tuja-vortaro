@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: handikap.xml,v 1.5 2015/07/04 08:37:35 revo Exp $">
+<kap>
+    <rad>handikap</rad>/i 
+</kap>
+<drv mrk="handikap.0i">
+  <kap><tld/>i</kap>
+  <snc mrk="handikap.0i.SNC">
+   <gra><vspec>tr</vspec></gra> 
+    <dif>
+      Doni malavanta&gcirc;on.
+      <ekz>
+        Malfacila nasko povas <tld/>i la naskiton.  
+      </ekz>
+    </dif>
+  <trdgrp lng="es">
+    <trd>tener una desventaja</trd>,
+    <trd>tener un handicap</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+  <trd>handicaper</trd>
+  <trd>d&eacute;savantager</trd>
+  </trdgrp>
+  <trd lng="pl">dawa&cacute; <ind>fory</ind></trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>handicapovat</trd>,
+    <trd>hendikepovat</trd>
+  </trdgrp>
+  <trd lng="sk">handicapovať</trd>
+</drv>
+
+<drv mrk="handikap.0o">
+  <kap><tld/>o</kap>
+  <snc>
+    <dif> Rezulto de la ago.
+      <ekz>
+        La koncepto mem pri lingva <tld/>o estas fremda al la
+        plimulto.
+        La mondajn &ccirc;ampionajn ludojn kompreneble oni ludas sen
+        <tld/>oj.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>invalidita</trd>,
+    <trd>tělesné postižení</trd>
+  </trdgrp>
+  <trd lng="es">handicap</trd>
+  <trd lng="fr">handicap</trd>
+  <trdgrp lng="pl">
+    <trd>handikap</trd>,
+    <trd>fory</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>invalidita</trd>,
+    <trd>telesné postihnutie</trd>
+  </trdgrp>
+</drv>
+
+</art>
+
+<!--
+$Log: handikap.xml,v $
+Revision 1.5  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.4  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.3  2013/04/05 19:10:11  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.2  2011/07/13 19:11:37  revo
+Agustin Garcia Lopez: +trd (es)
+
+Revision 1.1  2011/06/22 18:10:20  revo
+Mireille Corobu: nova artikolo
+
+-->
+</vortaro>

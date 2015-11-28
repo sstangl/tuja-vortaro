@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: parale1.xml,v 1.18 2015/07/04 08:37:41 revo Exp $">
+<kap><rad>paralelepiped</rad>/o</kap>
+<drv mrk="parale1.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>MatTerm</bib><lok>p. 30</lok></fnt>
+  <snc>
+    <dif>
+      <ref tip="super" cel="edr.n0o">Sesedro</ref>, kiun limas ses
+      <ref cel="parale2.0o">paralelogramoj</ref>:
+      <ekz>
+        ortangula, neortangula <tld/>o.
+      </ekz>
+    </dif>
+    <rim>
+      Ortangulan <tld/>on oni foje nomas <ctl>kvadro</ctl> a&ubreve;
+      <ctl>ortepipedo</ctl><fnt><bib>MatVort</bib></fnt>.
+    </rim>
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_r;&c_a;&c_l;&c_je;&c_l;&c_je;&c_p;&c_ib;&c_p;&c_e;&c_d;</trd>
+  <trdgrp lng="cs">
+    <trd>kvádr</trd>,
+    <trd>rovnoběžnostěn</trd>
+  </trdgrp>
+  <trd lng="de">Parallelepiped</trd>
+  <trd lng="en">parallelepiped[on]</trd>
+  <trd lng="fr">parall&eacute;l&eacute;pip&egrave;de</trd>
+  <trd lng="hu">parallelepipedon</trd>
+  <trd lng="nl">parallellepipedum</trd>
+  <trd lng="pl">r&oacute;wnoleg&lstroke;o&sacute;cian</trd>
+  <trd lng="pt">paralelep&iacute;pedo</trd>
+  <trd lng="ru">&c_p;&c_a;&c_r;&c_a;&c_l;&c_l;&c_je;&c_l;&c_je;&c_p;&c_i;&c_p;&c_je;&c_d;</trd>
+  <trd lng="sk">kváder</trd>
+</drv>
+</art>
+<!--
+$Log: parale1.xml,v $
+Revision 1.18  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:40:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.16  2006/02/25 17:33:52  revo
+Tulio Flores: +trd pt
+
+Revision 1.15  2004/07/16 16:31:47  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.14  2003/10/24 16:30:59  revo
+Zmicier Lapcionak: kor trd be
+
+Revision 1.13  2003/07/15 16:31:34  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.12  2003/04/27 16:30:47  revo
+Marc Bavant: +rim
+
+Revision 1.11  2003/04/21 16:34:53  revo
+Marc Bavant: mod trd en
+Revision 1.10  2003/01/02 17:49:29  revo
+Marc Bavant: +trd pl
+Revision 1.9  2002/06/16 17:33:39  revo
+Marc Bavant: kor ekz
+Revision 1.8  2002/03/17 17:31:49  revo
+-->
+</vortaro>
+

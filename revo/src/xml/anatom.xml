@@ -1,0 +1,116 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: anatom.xml,v 1.26 2015/07/04 08:37:30 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>anatomi</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="anatom.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="anatom.0o.SCI">
+    <uzo tip="fak">ANA</uzo>
+    <uzo tip="fak">SCI</uzo>
+    <dif>
+      <ref tip="lst" cel="scienc.0o.fako"
+      lst="voko:sciencoj">Scienco</ref> 
+      pri la
+      konsisto de korpoj de vivuloj, parto de <ref tip="malprt"
+      cel="biolog1.0o.SCI">biologio</ref>.
+    </dif>
+  </snc>
+  <trd lng="be">&c_a;&c_n;&c_a;&c_t;&c_o;&c_m;&c_ib;&c_ja;</trd>
+  <trd lng="cs">anatomie</trd>
+  <trdgrp lng="de">
+    <trd>Lehre vom <ind>K&ouml;rperbau</ind></trd>,
+    <trd>Anatomie</trd>
+  </trdgrp>
+  <trd lng="en">anatomy</trd>
+  <trd lng="es">anatom&iacute;a</trd>
+  <trdgrp lng="fa">
+    <trd>&f_k;&a_A;&a_l;&a_b;&a_d;&a_sh;&a_n;&a_A;&a_s;&f_y;</trd>
+    <trd>&a_A_madda;&a_n;&a_A;&a_t;&a_w;&a_m;&f_y;</trd>
+    <trd>&a_t;&a_sh;&a_r;&f_y;&a_H;</trd>
+  </trdgrp>
+  <trd lng="fr">anatomie</trd>
+  <trdgrp lng="hu">
+  <trd>anat&oacute;mia</trd>,
+  <trd>bonctan</trd>
+</trdgrp>
+  <trd lng="id">anatomi</trd>
+  <trd lng="it">anatomia</trd>
+  <trd lng="nl">anatomie</trd>
+  <trd lng="pl">anatomia</trd>
+  <trd lng="ru">&c_a;&c_n;&c_a;&c_t;&c_o;&c_m;&c_i;&c_ja;</trd>
+  <trdgrp lng="sk">
+    <trd>anat&oacute;mia</trd>,
+    <trd>anatómia</trd>
+  </trdgrp>
+  <trd lng="sv">anatomi</trd>
+</drv>
+
+<drv mrk="anatom.0isto">
+  <kap><tld/>isto</kap>
+  <snc mrk="anatom.0isto.ANA">
+    <uzo tip="fak">ANA</uzo>
+    <dif>
+      Fakulo pri <tld/>o:
+      <ekz>
+        dissekcante la korpon, la <tld/>isto ser&ccirc;as la animon, kaj,
+        &ccirc;ar 
+        li ne trovas &gcirc;in sub sia sekcilo, <klr>...</klr> li tial 
+        konkludas, ke &gcirc;i ne ekzistas
+        <fnt>
+          <aut>A. Kardec, trad. L. C. Porto Carreiro Neto</aut>,
+          <vrk><url ref="http://www.febnet.org.br/file/915.pdf">
+          La Libro de la Spiritoj</url></vrk>,
+          <lok>Brazila Spiritisma Federacio, 1946</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="de">Anatom</trd>
+  <trd lng="en">anatomist</trd>
+  <trd lng="fa">&f_k;&a_A;&a_l;&a_b;&a_d;&a_sh;&a_n;&a_A;&a_s;</trd>
+  <trd lng="fr">anatomiste</trd>
+  <trdgrp lng="hu">
+  <trd>anat&oacute;mus</trd>,
+  <trd>boncnok</trd>
+</trdgrp>
+  <trd lng="it">anatomista</trd>
+</drv>
+</art>
+<!--
+$Log: anatom.xml,v $
+Revision 1.26  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.25  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.24  2014/11/12 08:10:25  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.23  2013/09/22 19:10:35  revo
+Wolfram Diestel: referenco al listo sciencoj
+
+Revision 1.22  2011/08/03 06:10:09  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.21  2010/11/04 17:31:27  revo
+Antonio Codazzi: ++trd it
+
+Revision 1.20  2009/06/20 18:00:57  revo
+Behnam Tabatabai: korr arabaj/persaj koderoj
+
+Revision 1.19  2009/05/17 16:30:57  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.18  2007/04/25 16:30:23  revo
+Wieland Pusch: +trd de, en
+
+Revision 1.17  2007/04/24 16:30:29  revo
+-->
+</vortaro>

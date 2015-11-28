@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: fagopi.xml,v 1.23 2015/07/04 08:37:34 revo Exp $">
+<kap>
+  <rad>fagopir</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="fagopi.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="fagopi.0o.BOT">
+    <uzo tip="fak">AGR</uzo>
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      Kultivata vegeta&jcirc;o
+      kies grenon oni uzas por fari farunon,
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:botanikaj_genroj">genro</ref> el familio <ref
+      tip="malprt"
+      cel="poligo1.0oj">poligonacoj</ref>
+      (<trd lng="la">Fagopyrum</trd>):
+      <ekz>
+        mi kuiros <tld/>ajn nudelojn
+        <fnt>
+          <aut>shiro kurage</aut>,
+          <vrk>Hatena de Esperanto</vrk>,
+          <lok><url
+          ref="http://d.hatena.ne.jp/shiro-kurage/20091231/p1">
+          2009-12-31</url></lok>
+        </fnt>.        
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_g;&c_r;&c_e;&c_ch;&c_k;&c_a;</trd>
+  <trd lng="bg">&c_je;&c_l;&c_d;&c_a;</trd>
+  <trdgrp lng="ca">
+    <trd>fajol</trd>,
+    <trd><ind>blat</ind> negre</trd>
+  </trdgrp>
+  <trd lng="cs">pohanka</trd>
+  <trd lng="de">Buchweizen</trd>
+  <trd lng="en">buckwheat</trd>
+  <trd lng="fr">sarrasin</trd>
+  <trd lng="hu">pon&aacute;nka</trd>
+  <trd lng="nl">boekweit</trd>
+  <trd lng="pl">gryka</trd>
+  <trd lng="pt">fag&oacute;piro</trd>
+  <trd lng="ru">&c_g;&c_r;&c_je;&c_ch;&c_i;&c_h;&c_a;</trd>
+  <trd lng="sk">pohánka</trd>
+  <trd lng="tr">kara bu&gbreve;day</trd>
+</drv>
+</art>
+<!--
+$Log: fagopi.xml,v $
+Revision 1.23  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.22  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.21  2013/08/30 14:10:56  revo
+Wolfram Diestel: kor. lst-ref
+
+Revision 1.20  2013/08/28 17:10:12  revo
+Wolfram Diestel: aldonis drv sablohordeo
+
+Revision 1.19  2012/08/22 00:10:17  revo
+Marc Rausell: + trd ca
+
+Revision 1.18  2012/04/09 11:10:10  revo
+Joop Eggen: +trd bg
+
+Revision 1.17  2010/04/09 16:32:00  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.16  2010/01/02 17:31:02  revo
+Jeromo Vasxe: + fak agr + mrk + ekz
+
+Revision 1.15  2009/09/01 16:30:35  revo
+Emmanuel Debanne: +trd tr
+
+Revision 1.14  2007/05/12 16:30:52  revo
+-->
+</vortaro>

@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: kosmog.xml,v 1.16 2015/07/04 08:37:38 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>kosmogoni</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="kosmog.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="kosmog.0o.AST">
+    <uzo tip="fak">AST</uzo>
+    <uzo tip="fak">MIT</uzo>
+    <ref tip="dif" cel="genez.kosmo0o.AST">kosmogenezo</ref>
+    <ekz>
+      <tld/>oj precize rakontas kiel Ze&ubreve;so fari&gcirc;inta
+      re&gcirc;o de la universo, por &ccirc;iam sigelis la aperturon
+      por ke la subtera mondo <klr>...</klr> ne plu
+      povu emer&gcirc;i al la lumo
+      <fnt>
+        <aut>Patro Marko</aut>,
+        <vrk><url
+        ref="http://esperantocotentin.free.fr/articles.php?pg=78">
+        Geometrio kaj sfera astronomio en la unua greka
+        kosmologio</url></vrk>,
+        <lok>2011-02-26</lok>
+      </fnt>.
+    </ekz>
+  </snc>
+  <trd lng="be">&c_k;&c_a;&c_s;&c_m;&c_a;&c_g;&c_o;&c_n;&c_ib;&c_ja;</trd>
+  <trd lng="ca">cosmogonia</trd>
+  <trd lng="cs">kosmogonie</trd>
+  <trd lng="de">Kosmogonie</trd>
+  <trd lng="en">cosmogony</trd>
+  <trd lng="es">cosmogon&iacute;a</trd>
+  <trd lng="fr">cosmogonie</trd>
+  <trd lng="hu">kozmog&oacute;nia</trd>
+  <trd lng="nl">kosmogonie</trd>
+  <trd lng="pt">cosmogonia</trd>
+  <trd lng="ru">&c_k;&c_o;&c_s;&c_m;&c_o;&c_g;&c_o;&c_n;&c_i;&c_ja;</trd>
+  <trdgrp lng="sk">
+    <trd>kozmogónia</trd>,
+    <trd>náuka o vzniku sveta</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: kosmog.xml,v $
+Revision 1.16  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.14  2011/04/22 15:10:08  revo
+Jeromo Vasxe: + ekz
+
+Revision 1.13  2011/02/03 08:10:10  revo
+Jeromo Vasxe: + mrk + ref dif
+
+Revision 1.12  2009/09/13 16:57:05  revo
+Paul Peeraerts: +nl
+
+Revision 1.11  2006/11/11 17:30:33  revo
+Tulio Flores: +tr pt
+
+Revision 1.10  2005/04/06 16:35:17  revo
+Raul Salinas Monteagudo: +trd ca,es
+
+Revision 1.9  2004/04/23 16:31:39  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.8  2002/12/17 20:10:20  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.7  2002/03/22 17:34:53  revo
+-->
+</vortaro>

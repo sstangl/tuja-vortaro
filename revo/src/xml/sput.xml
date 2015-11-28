@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: sput.xml,v 1.16 2015/07/04 08:37:44 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>sput</rad>/i
+</kap>
+<drv mrk="sput.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="sput.0i.FIZL">
+    <uzo tip="fak">FIZL</uzo>
+    <dif>
+      Amase el&jcirc;eti tra la bu&scirc;o
+      <klr>(sangon, muka&jcirc;on ks, esceptante salivon.
+      <ref tip="vid" cel="kracx.0i">kra&ccirc;i</ref>)</klr>.
+    </dif>
+    <trd lng="be">&c_h;&c_a;&c_r;&c_k;&c_a;&c_c;&c_mol; 
+      <klr>(&c_k;&c_r;&c_y;&c_v;&c_jo;&c_ju;, 
+      &c_s;&c_mol;&c_l;&c_ib;&c_z;&c_mol;&c_z;&c_ju;)</klr>
+    </trd>
+    <trd lng="es">esputar<klr tip="amb"> (excepto saliva)</klr></trd>
+    <trd lng="hu">k&ouml;p</trd>
+    <trd lng="ru">&c_h;&c_a;&c_r;&c_k;&c_a;&c_t;&c_mol;</trd>
+  </snc>
+  <snc mrk="sput.0i.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      El&jcirc;eti amase el ia truo:
+      <ekz>
+        la vulkano el<tld/>is lafon;
+      </ekz>
+      <ekz>
+        la kanonoj el<tld/>is morton;
+      </ekz>
+      <ekz>
+        <tld/>i insultojn.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="erupci.0i">erupcii</ref>,
+      <ref cel="sxpruc.0igi">&scirc;prucigi</ref>,
+      <ref cel="vom.0i">vomi</ref>
+    </refgrp>
+    <trd lng="be">&c_v;&c_y;&c_v;&c_ja;&c_r;&c_g;&c_a;&c_c;&c_mol;</trd> 
+    <trd lng="hu">ok&aacute;d</trd>
+    <trd lng="ru">&c_i;&c_z;&c_v;&c_je;&c_r;&c_g;&c_a;&c_t;&c_mol;</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>chrchlat</trd>,
+    <trd>chrlit</trd>,
+    <trd>odkašlávat</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>spucken</trd>,
+    <trd>speien</trd>
+  </trdgrp>
+  <trd lng="en">spit</trd>
+  <trd lng="fr">cracher</trd>
+  <trdgrp lng="nl">
+    <trd>spugen</trd>,
+    <trd>spuwen</trd>
+  </trdgrp>
+  <trd lng="sk">pľuvať</trd>
+</drv>
+</art>
+<!--
+$Log: sput.xml,v $
+Revision 1.16  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:33:24  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.14  2014/02/07 20:10:14  revo
+Damien Brucker: -eraro cxe ref
+
+Revision 1.13  2010/05/13 16:30:36  revo
+Agustin Garcia Lopez: +trd es
+
+Revision 1.12  2006/07/30 16:33:12  revo
+Jeromo Vasxe: + mrk + trd fr
+
+Revision 1.11  2004/10/27 16:31:41  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.10  2003/01/31 17:31:03  revo
+Zmicier Lapcionak: + trd be
+
+Revision 1.9  2002/02/15 17:34:25  revo
+Yury Finkel: +trd ru
+
+Revision 1.8 2001/10/07 18:18:51 revo
+Dennis Wibrow: +trd germ
+
+Revision 1.7 2000/12/10 18:46:59 revo
+-->
+</vortaro>

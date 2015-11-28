@@ -1,0 +1,179 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: kamer.xml,v 1.21 2015/07/04 08:37:36 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>kamer</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="kamer.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="kamer.0o.cxambro">
+    <dif>
+      Izolita <ref tip="super" cel="cxambr.0o.doma">&ccirc;ambro</ref>
+      specialcela, eble senfenestra kaj nehejtata:
+      <ekz>
+        radio de la subiranta suno enfalas en la nudan <tld/>on
+        <klr>(en malliberejo)</klr>
+        <fnt><bib>Fab2</bib>, <lok>Bildo el kastelremparo</lok></fnt>;
+      </ekz>
+      <ekz>
+        en la angulo apud la forno el simplaj brikoj estis
+        negranda <tld/>o por kuirado
+        <fnt><bib>Marta</bib></fnt>;
+      </ekz>
+      <ekz>
+        trinkinte teon &scirc;i iris en la malluman <tld/>on, kie oni
+        tenis valizojn kaj kie, en du &scirc;rankoj, estis
+        diversaj malnova&jcirc;oj
+        <fnt><bib>MkM</bib>, <lok>&ccirc;apitro 19a</lok></fnt>;
+      </ekz>
+      <ekz>
+        li respondas per absurda&jcirc;oj a&ubreve; rifuzas respondi, kaj nur
+        petas pri tio, ke oni lin ka&scirc;u en blenditan <tld/>on sub
+        armitan gardon
+        <fnt><bib>MkM</bib>, <lok>&ccirc;apitro 27a</lok></fnt>.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="cxel.0o.cxambreto">&ccirc;elo<sncref/></ref>
+    <trdgrp lng="be">
+      <trd>&c_k;&c_a;&c_m;&c_o;&c_r;&c_a;</trd>,
+      <trd>&c_k;&c_a;&c_m;&c_e;&c_r;&c_a;</trd>
+    </trdgrp>
+    <trdgrp lng="ca">
+      <trd>cambra</trd>,
+      <trd>habitacle</trd>,
+      <trd>cofurna</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>dark room</trd>
+    </trdgrp>
+    <trd lng="hu">kamra</trd>
+    <trd lng="nl">kamer <klr tip="ind">(zonder venster)</klr></trd>
+    <trd lng="pl">komora</trd>
+    <trdgrp lng="ru">
+      <trd>&c_k;&c_a;&c_m;&c_je;&c_r;&c_a;</trd>,
+      <trd>&c_k;&c_o;&c_m;&c_o;&c_r;&c_k;&c_a;</trd>,
+      <trd>&c_ch;&c_u;&c_l;&c_a;&c_n;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="kamer.0o.fotila">
+    <uzo tip="fak">FOT</uzo>
+    <ref cel="kamera.0o">kamerao</ref>
+    <ekz>
+      <tld/>o de fotilo;
+    </ekz>
+    <ekz>
+      <ind>senluma <tld/>o</ind>
+      <trd lng="it"><ind>camera</ind> oscura</trd>
+      <fnt><aut>&Z;</aut><lok>citite la&ubreve; PIV2, p. 519</lok></fnt>.
+    </ekz>
+    <trd lng="be">&c_k;&c_a;&c_m;&c_e;&c_r;&c_a;</trd>
+    <trd lng="ca">c&agrave;mera</trd>
+    <trd lng="hu">kamera</trd>
+    <trd lng="nl">kamer <klr tip="ind">(van fototoestel)</klr></trd>
+    <trd lng="ru">&c_k;&c_a;&c_m;&c_je;&c_r;&c_a;</trd>
+  </snc>
+  <snc mrk="kamer.0o.ANA">
+    <uzo tip="fak">ANA</uzo>
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      Parto de aparato, ma&scirc;ino, vivula organo, prezentanta
+      fermitan spacon:
+      <ekz>
+        <tld/>etoj de la koro
+        <klr>(a&ubreve;rikloj kaj ventrikloj)</klr>;
+      </ekz>
+      <ekz>
+        <tld/>o de revolvero, de reakcia motoro.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_k;&c_a;&c_m;&c_e;&c_r;&c_a;</trd>
+    <trdgrp lng="ca">
+      <trd>cambra</trd>,
+      <trd>cavitat</trd>
+    </trdgrp>
+    <trd lng="en">chamber</trd>
+    <trd lng="hu">kamra<klr tip="ind"> (pl.sz&iacute;v&eacute;)</klr></trd>
+    <trd lng="nl">kamer <klr tip="ind">(van hart)</klr></trd>
+    <trd lng="pl">komora</trd>
+    <trd lng="ru">&c_k;&c_a;&c_m;&c_je;&c_r;&c_a;</trd>
+  </snc>
+  <trd lng="cs">komora <klr>(místnost i instituce)</klr></trd>
+  <trd lng="de">Kammer</trd>
+  <trdgrp lng="es">
+    <trd>c&aacute;mara <klr tip="amb">(habitaci&oacute;n, cuarto)</klr></trd>,
+    <trd>rec&aacute;mara</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>pi&egrave;ce<klr tip="ind"> (r&eacute;duit)</klr></trd>,
+    <trd>r&eacute;duit</trd>
+    <trd>chambre<klr tip="ind"> (photo., techn.)</klr></trd>
+  </trdgrp>
+  <trd lng="it">camera<klr> (anat., tec., mil.)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>kamera</trd>,
+    <trd>komora</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kamer.gas0o">
+  <kap>gas<tld/>o</kap>
+  <snc mrk="kamer.gas0o.MIL">
+    <dif>
+      Fermita &ccirc;ambro por mortigo per venena gaso,
+      kiajn uzis nazioj por ekstermado de judoj
+      kaj aliaj grupoj dum la dua mondmilito:
+      <ekz>
+        &scirc;i pereis la 9-an de a&ubreve;gusto, mortigita per la gaso
+        Ziklon-B en gas<tld/>o
+        <fnt>
+          <aut>S. &Sacute;migielski</aut>,
+          <vrk>Edith Stein - fratulino Tereza
+          Benedikta de la Kruco</vrk>,
+          <lok><url ref="http://www.ikue.org/cz/arkivo/a-74-2-09.pdf">
+          Dia Regno, 2009:2 (74)</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="ca"><ind>cambra</ind> de gas</trd>
+  <trd lng="cs">plynová komora</trd>
+  <trd lng="es">c&aacute;mara de gas</trd>
+  <trd lng="fr">chambre &agrave; gaz</trd>
+  <trd lng="sk">plynová komora</trd>
+</drv>
+</art>
+<!--
+$Log: kamer.xml,v $
+Revision 1.21  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.19  2012/09/01 08:10:19  revo
+Marc Rausell: + trd ca
+
+Revision 1.18  2011/12/31 04:10:09  revo
+Eduardo Navas: +trad es
+
+Revision 1.17  2011/10/27 22:10:10  revo
+Jeromo Vasxe: + gas~o
+
+Revision 1.16  2010/11/24 17:30:29  revo
+Antonio Codazzi: +trd it
+
+Revision 1.15  2010/04/30 12:25:12  revo
+Russ Williams: +trd en
+
+Revision 1.14  2005/01/20 17:31:52  revo
+Vito Redsky: +trd pl
+
+Revision 1.13  2004/10/31 17:32:35  revo
+Marc Bavant: +trd fr, +uzo FOT
+
+Revision 1.12 2004/03/29 18:32:29 revo
+-->
+</vortaro>

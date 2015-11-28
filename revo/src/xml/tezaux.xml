@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: tezaux.xml,v 1.13 2014/05/29 17:10:23 revo Exp $">
+<kap>
+  <rad>teza&ubreve;r</rad>/o
+</kap>
+<uzo tip="stl">NEO</uzo>
+
+<drv mrk="tezaux.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="tezaux.0o.SCI">
+    <uzo tip="fak">SCI</uzo>
+    <dif>
+      Sistemo de nocioj de scienco, te&hcirc;nika fako a&ubreve; lingvo.
+    </dif>
+    <refgrp tip="sub">
+      <ref cel="termin.0aro">terminaro</ref>,
+      <ref cel="klasif.0o">klasifiko</ref>
+    </refgrp>
+    <trd lng="pl">tezaurus</trd>
+    <trd lng="ru">&c_t;&c_je;&c_z;&c_a;&c_u;&c_r;&c_u;&c_s;</trd>
+  </snc>
+  <snc mrk="tezaux.0o.LIN">
+    <uzo tip="fak">LIN</uzo>
+    <dif>
+      Vortaro prezentanta sistemon de nocioj de fako a&ubreve; lingvo,
+      precipe la genra-specajn rilatojn, sinonimojn kaj
+      antonimojn, ebliganta trovi vorton la&ubreve; senco.
+    </dif>
+    <ref tip="super" cel="vort.0aro">vortaro</ref>
+    <trd lng="pl">tezaurus</trd>
+    <trdgrp lng="ru">
+      <trd>
+      &c_i;&c_d;&c_je;&c_o;&c_g;&c_r;&c_a;&c_f;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j;
+      &c_s;&c_l;&c_o;&c_v;&c_a;&c_r;&c_mol;
+      </trd>,
+      <trd>&c_t;&c_je;&c_z;&c_a;&c_u;&c_r;&c_u;&c_s;</trd></trdgrp>
+  </snc>
+  <trd lng="be">&c_t;&c_e;&c_z;&c_a;&c_w;&c_r;&c_u;&c_s;</trd>
+  <trd lng="de">Thesaurus</trd>
+  <trdgrp lng="en">
+    <trd>thesaurus</trd>,
+    <trd>semantic dictionary</trd>
+  </trdgrp>
+  <trd lng="fa">&f_g;&a_n;&a_j;&a_w;&a_A;&f_zh;&a_h;</trd>
+  <trd lng="fr">th&eacute;saurus</trd>  
+  <trd lng="hu">tezaurusz</trd>
+  <trdgrp lng="nl">
+    <trd>thesaurus</trd>,
+    <trd>semantisch woordenboek</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>tesauro</trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log: tezaux.xml,v $
+Revision 1.13  2014/05/29 17:10:23  revo
+Damien Brucker: +trd fr
+
+Revision 1.12  2010/08/17 16:30:26  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.11  2008/12/19 17:30:31  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.10  2006/02/15 17:34:00  revo
+Tulio Flores: +trd pt
+
+Revision 1.9  2004/11/30 17:31:40  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.8  2003/09/22 16:30:42  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.7  2001/11/15 19:15:20  revo
+Sergio Pokrovskij: movis trd=ru laux snc
+
+Revision 1.6  2001/06/06 18:12:14  revo
+-->
+</vortaro>

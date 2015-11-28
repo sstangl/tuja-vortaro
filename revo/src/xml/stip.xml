@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: stip.xml,v 1.21 2015/10/07 17:10:18 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>stip</rad>/o
+</kap>
+<drv mrk="stip.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <uzo tip="fak">BOT</uzo>
+  <snc mrk="stip.0o.genro">
+    <dif>
+      <ref tip="lst" cel="genr.0o"
+      lst="voko:botanikaj_genroj">Genro</ref> el familio <ref
+      tip="malprt" cel="poac.0oj">poacoj</ref>
+      (<trd lng="la">Stipa</trd>),
+      unu specio estas <ref tip="sub" cel="alf.0o">alfo</ref>.
+    </dif>
+    <trd lng="be">&c_k;&c_a;&c_v;&c_y;&c_l;&c_mol;</trd>
+    <trd lng="bg">&c_k;&c_o;&c_i;&c_l;&c_o;</trd>
+    <trd lng="de">Federgras</trd>
+    <trd lng="fr">stipe</trd>    
+    <trdgrp lng="hu">
+      <trd>&aacute;rval&aacute;nyhaj</trd>,
+      <trd>hajka</trd>
+    </trdgrp>
+    <trd lng="nl">vedergras</trd>
+    <trd lng="ru">&c_k;&c_o;&c_v;&c_y;&c_l;&c_mol;</trd>
+    <trd lng="sv">fj&auml;dergr&auml;s</trd>
+  </snc>
+  <snc mrk="stip.0o.tigo">
+    <dif>
+      Trunketo, tigo.
+    </dif>
+    <trd lng="be">&c_s;&c_mol;&c_c;&c_ja;&c_b;&c_l;&c_o;</trd>
+    <trdgrp lng="de">
+      <trd>Stiel</trd>,
+      <trd>St&auml;ngel</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>sz&aacute;r</trd>,
+      <trd>ny&eacute;l</trd>
+    </trdgrp>
+    <trd lng="ru">&c_s;&c_t;&c_je;&c_b;&c_je;&c_l;&c_mol;</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>noha houby</trd>,
+    <trd>t&rcaron;e&ncaron; houby</trd>
+  </trdgrp>
+  <trd lng="sk">noha huby</trd>
+</drv>
+</art>
+<!--
+$Log: stip.xml,v $
+Revision 1.21  2015/10/07 17:10:18  revo
+Joop Eggen: +trd bg
+
+Revision 1.20  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:33:24  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2013/08/30 15:10:34  revo
+Wolfram Diestel: kor. lst-ref
+
+Revision 1.17  2013/08/28 16:10:16  revo
+Wolfram Diestel: referencoj al bot genroj, trd la, de
+
+Revision 1.16  2011/07/20 08:10:09  revo
+Axel Rousseau: +trd fr
+
+Revision 1.15  2004/10/20 16:32:21  revo
+Wolfram Diestel: germ ort.
+
+Revision 1.14  2003/03/03 17:31:30  revo
+-->
+</vortaro>

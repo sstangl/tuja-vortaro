@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: patel1.xml,v 1.5 2015/07/04 08:37:41 revo Exp $">
+<kap>
+  <rad>patel</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="patel1.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="patel1.0o.ZOO">
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      Gastropodo kun konusa konko vivanta en tajdareo, sur &scirc;tonoj,
+      genro el familio pateledoj (<trd lng="la">Patella</trd>):
+      <ekz>
+        &leftquot;<klr>...</klr> e&ccirc; se li havus la imagpovon de <tld/>o,&#8221; 
+        respondis s-ro Scobell
+        <fnt>
+          <aut>P. G. Wodehouse, trad. G. Badash</aut>,
+          <vrk><url
+          ref="http://members.tripod.com/~booton/princo/enhavo.htm">
+          La Princo kaj Betty</url></vrk>,
+          <lok>Heronsgate, 1937</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        sur la rokoj de la insulo mi trovis multajn <tld/>ojn
+        <fnt><aut>R. L. Stevenson, trad. A. Goodheir</aut>, 
+        <vrk>Forkaptita</vrk>, <lok>Kardo, 1976</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <rim mrk="patel1.0o.RIM_HOM">
+    <ref tip="hom" cel="patel.0o.ANA">Patelo</ref> estas anka&ubreve; nomo de 
+    genuosto.
+  </rim>
+  <trd lng="en">limpet</trd>
+  <trdgrp lng="fr">
+    <trd>bernacle</trd>,
+    <trd>bernique</trd>,
+    <trd>patelle<klr> (coquillage)</klr></trd>
+  </trdgrp>
+  <trd lng="it">patella</trd>
+  <trd lng="nl">patella<klr tip="ind"> (weekdier)</klr></trd>
+  <trd lng="pt">lapa<klr tip="amb"> (molusco)</klr></trd>
+  <trd lng="sk">jabĺčko <klr>(na kolene)</klr></trd>
+  <trdgrp lng="cs">
+    <trd>jablko</trd>,
+    <trd>patela</trd>,
+    <trd>čéška</trd>,
+    <trd>čéška kolenní</trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log: patel1.xml,v $
+Revision 1.5  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.4  2015/06/29 16:40:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.3  2009/10/18 16:30:44  revo
+Paul Peeraerts: +nl
+
+Revision 1.2  2007/10/01 16:30:15  revo
+Tulio Flores: +tr pt
+
+Revision 1.1  2007/09/30 16:30:18  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

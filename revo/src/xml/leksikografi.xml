@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: leksikografi.xml,v 1.8 2015/07/04 08:37:38 revo Exp $">
+<kap>
+  <rad>leksikografi</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="leksikografi.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="leksikografi.0o.LIN">
+    <uzo tip="fak">LIN</uzo>
+    <dif>
+      Arto fari <ref tip="vid" cel="vort.0aro">vortarojn</ref>:
+      <ekz>
+        por moderna kaj altkvalita priskriba <tld/>o necesas uzi
+        komputilajn tekstarojn
+        <fnt>
+          <aut>E. Grimley-Evans</aut>,
+          <vrk>Re: Esperanto: A Planned Language, naturally
+          evolving...</vrk>,
+          <lok>soc.culture.esperanto, 1994-01-19</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="ca">lexicografia</trd>
+  <trdgrp lng="cs">
+    <trd>lexikografie</trd>,
+    <trd>slovníkářství</trd>
+  </trdgrp>
+  <trd lng="es">lexicograf&iacute;a</trd>
+  <trd lng="fa">&a_f;&a_r;&a_h;&a_n;&f_g;&zwnj;&a_n;&a_w;&f_y;&a_s;&f_y;</trd>
+  <trd lng="fr">lexicographie</trd>
+  <trdgrp lng="hu">
+    <trd>lexikogr&aacute;fia</trd>,
+    <trd>sz&oacute;t&aacute;r&iacute;r&aacute;s</trd>
+  </trdgrp>
+  <trd lng="nl">lexicografie</trd>
+  <trd lng="pt">lexicografia</trd>
+  <trd lng="sk">slovnikárstvo</trd>
+</drv>
+</art>
+
+<!--
+$Log: leksikografi.xml,v $
+Revision 1.8  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.7  2015/06/29 16:33:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.6  2011/10/08 22:10:15  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.5  2009/10/06 16:44:30  revo
+Paul Peeraerts: +nl
+
+Revision 1.4  2006/09/01 18:30:28  revo
+Tulio Flores: +tr pt
+
+Revision 1.3  2006/08/30 15:11:42  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.2  2005/04/04 16:32:54  revo
+Raul Salinas Monteagudo: +trd ca,es
+
+Revision 1.1  2005/03/28 17:16:28  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: muzikologi.xml,v 1.5 2015/07/04 08:37:39 revo Exp $">
+<kap>
+  <rad>muzikologi</rad>/o
+</kap>
+<drv mrk="muzikologi.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="muzikologi.0o.MUZ">
+    <uzo tip="fak">MUZ</uzo>
+    <ref tip="dif" cel="muzik.0oscienco.MUZ">muzikoscienco</ref>
+    <ekz>
+      fakoj <tld/>o kaj muzikhistorio
+      <fnt>
+      <aut>-</aut>,
+      <vrk><url
+      ref="http://www.ais-sanmarino.org/isd/estrscis2000.html">
+      Akademio Internacia de la Sciencoj - Estraro</url></vrk>,
+      <lok>2000-01</lok>
+      </fnt>.
+    </ekz>
+  </snc>
+  <trd lng="ca">musicologia</trd>
+  <trd lng="cs">muzikologie</trd>
+  <trd lng="fr">musicologie</trd>
+  <trd lng="it">musicologia</trd>
+  <trdgrp lng="nl">
+    <trd>musicologie</trd>,
+    <trd>muziekwetenschap</trd>
+  </trdgrp>
+  <trd lng="sk">muzikológia</trd>
+</drv>
+
+<drv mrk="muzikologi.0isto">
+  <kap><tld/>isto</kap>
+  <snc mrk="muzikologi.0isto.MUZ">
+    <ref tip="dif" cel="muzik.0osciencisto.MUZ">muzikosciencisto</ref>
+    <ekz>
+      Otto De Greiff Haeusler estis in&gcirc;eniero, matematikisto,
+      <tld/>isto kaj poeto kolombia
+      <fnt><bib>Viki</bib>, <lok>artikolo &leftquot;Otto de Greiff Haeusler&rightquot;,
+      2006-07</lok></fnt>.
+    </ekz>
+  </snc>
+  <trd lng="ca">music&ograve;leg</trd>
+  <trd lng="nl">musicoloog</trd>
+</drv>
+</art>
+
+<!--
+$Log: muzikologi.xml,v $
+Revision 1.5  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.4  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.3  2012/08/04 08:10:23  revo
+Marc Rausell: + trd ca
+
+Revision 1.2  2009/07/08 16:30:43  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.1  2007/03/24 17:30:28  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

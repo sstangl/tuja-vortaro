@@ -1,0 +1,138 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: protes1.xml,v 1.21 2015/10/27 11:10:17 revo Exp $">
+<kap>
+  <rad>protestant</rad>/o <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="protes1.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="protes1.0o.KRI">
+    <uzo tip="fak">KRI</uzo>
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      Kristano apartenanta al iu <tld/>isma konfesio:
+      <ekz>
+        preska&ubreve; &ccirc;iu finnlandano a&ubreve;tomate estas baptita luterana
+        <tld/>o
+        <fnt><aut>Saliko</aut>, <vrk>Je kio ni kredas?</vrk>,
+        <bib>Monato</bib><lok>jaro 2001a, numero 11a, p.
+        12a</lok></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_p;&c_r;&c_a;&c_t;&c_e;&c_s;&c_t;&c_a;&c_n;&c_t;</trd>
+    <trd lng="ca">protestant <klr>(subst.)</klr></trd>
+    <trdgrp lng="de">
+      <trd>Protestant</trd>,
+      <trd>evangelischer Christ</trd>,
+      <trd>Evangele</trd>
+    </trdgrp>
+    <trd lng="en">Protestant</trd>
+    <trdgrp lng="fr">
+      <trd>&eacute;vang&eacute;lique<klr> (protestant)</klr></trd>,
+      <trd>protestant</trd>
+    </trdgrp>
+    <trd lng="hu">protest&aacute;ns</trd>
+    <trd lng="nl">protestant</trd>
+    <trd lng="pl">protestant</trd>
+    <trd lng="pt">protestante <klr>(rel.)</klr></trd>
+    <trd lng="ru">&c_p;&c_r;&c_o;&c_t;&c_je;&c_s;&c_t;&c_a;&c_n;&c_t;</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>nekatol&iacute;k</trd>,
+    <trd>protestant</trd>
+  </trdgrp>
+  <trd lng="sk">protestant</trd>
+</drv>
+
+<drv mrk="protes1.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="protes1.0a.KRI">
+    <dif>
+      Rilata al <tld/>a konfesio, homo:
+      <ekz>
+        la vesperto de Natterer preferas la pli malfermitajn
+        tegmentejojn en la protestantaj pre&gcirc;ejoj
+        <fnt><aut>Marjorie
+        Boulton</aut>, <vrk>Vesproj por vespertoj</vrk>,
+        <bib>Monato</bib><lok>jaro 1997a, numero 8a, p. 30a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_r;&c_a;&c_t;&c_e;&c_s;&c_t;&c_a;&c_n;&c_c;&c_k;&c_ib;</trd>
+  <trd lng="ca">protestant <klr>(adj.)</klr></trd>
+  <trdgrp lng="cs">
+    <trd>protestantsk&yacute;</trd>,
+    <trd>protestuj&iacute;c&iacute;</trd>
+  </trdgrp>
+  <trd lng="en">Protestant</trd>
+  <trdgrp lng="fr">
+    <trd>&eacute;vang&eacute;lique<klr> (protestant)</klr></trd>,
+    <trd>protestant</trd>
+  </trdgrp>
+  <trd lng="hu">protest&aacute;ns</trd>
+  <trd lng="nl">protestants</trd>
+  <trd lng="pl">protestancki</trd>
+  <trd lng="sk">protestantsk&yacute;</trd>
+</drv>
+
+<drv mrk="protes1.0ismo">
+  <kap><tld/>ismo</kap>
+  <snc mrk="protes1.0ismo.KRI">
+    <uzo tip="fak">KRI</uzo>
+    <uzo tip="fak">HIS</uzo>
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      Suma nomo de diversaj konfesioj esti&gcirc;intaj en la
+      <ref tip="malprt" cel="krist.okcidenta0anismo">okcidenta
+      kristanismo</ref>
+      sekve de <ref tip="vid" cel="reform.0o">Reformacio</ref>.
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_r;&c_a;&c_t;&c_e;&c_s;&c_t;&c_a;&c_n;&c_c;&c_t;&c_v;&c_a;</trd>
+  <trd lng="ca">protestantisme</trd>
+  <trdgrp lng="de">
+    <trd>Protestantismus</trd>,
+    <trd>evangelische Konfession</trd>,
+    <trd>lutherische Konfession</trd>
+  </trdgrp>
+  <trd lng="en">Protestantism</trd>
+  <trd lng="fr">protestantisme</trd>
+  <trd lng="hu">protestantizmus</trd>
+  <trd lng="nl">protestantisme</trd>
+  <trd lng="pl">protestantyzm</trd>
+  <trd lng="ru">&c_p;&c_r;&c_o;&c_t;&c_je;&c_s;&c_t;&c_a;&c_n;&c_t;&c_s;&c_t;&c_v;&c_o;</trd>
+</drv>
+<rim>
+  &Ccirc;i tie la etimologia radiko <em>protest</em> ne signifas
+  <ctl>protesti</ctl>: <ctl>protestari</ctl> en la latina
+  lingvo signifas <ctl>publike atesti</ctl>.
+</rim>
+</art>
+<!--
+$Log: protes1.xml,v $
+Revision 1.21  2015/10/27 11:10:17  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.20  2015/10/04 15:10:17  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.19  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2012/01/02 18:10:18  revo
+Marc Rausell: +trd ca
+
+Revision 1.16  2010/12/08 19:04:38  revo
+Jeromo Vasxe: + mrk
+
+Revision 1.15  2009/11/07 17:31:06  revo
+Paul Peeraerts: +nl
+
+Revision 1.14  2006/04/02 17:03:01  revo
+-->
+</vortaro>

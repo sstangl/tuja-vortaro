@@ -1,0 +1,557 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: miks.xml,v 1.24 2015/07/04 08:37:39 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>miks</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="miks.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="miks.0i.kunmiksi">
+    <dif>
+      Meti kune diversajn objektojn a&ubreve; substancojn tiamaniere, ke oni ne
+      povas plu ilin facile distingi:
+      <ekz>
+        <tld/>i akvon kun vino, farunon kun oleo<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        <tld/>i kartojn por kartludi<fnt>B</fnt>;
+      </ekz>
+      <ekz>
+        tapi&scirc;o el <tld/>itaj <klr>(diversaj)</klr> koloroj;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        <tld/>i rasojn;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        <tld/>devena popolo<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        sin <tld/>i en la bruantan amason, inter la amaso.
+      </ekz>
+    </dif>
+    <rim>
+      En kunmetitaj vortoj Z uzas la radikon <em>miks</em> samsence kiel
+      <em>divers</em>:
+      <ekz>
+        <tld/>kolora<fnt>Z</fnt>
+        <klr>(= diverskolora<sup>Z</sup>)</klr>,
+      </ekz>
+      <ekz>
+        <tld/>forma<fnt>Z</fnt>,
+      </ekz>
+      <ekz>
+        <tld/>ospecaj bildoj<fnt>Z</fnt>.
+      </ekz>
+      Tia konfuziga uzo ne estas imitinda.
+    </rim>
+    <trdgrp lng="be">
+      <trd>&c_m;&c_ja;&c_sh;&c_a;&c_c;&c_mol;</trd>,
+      <trd>&c_z;&c_mol;&c_m;&c_je;&c_sh;&c_v;&c_a;&c_c;&c_mol;</trd>,
+      <trd>&c_p;&c_je;&c_r;&c_a;&c_m;&c_je;&c_sh;&c_v;&c_a;&c_c;&c_mol;</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd>vermischen</trd>,
+      <trd>vermengen</trd>,
+      <trd>mischen</trd>,
+      <trd>mengen</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>kever</trd>,
+      <trd>vegy&iacute;t</trd>
+    </trdgrp>
+    <trdgrp lng="nl">
+      <trd>mengen</trd>,
+      <trd>vermengen</trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+    <trd>miesza&cacute;</trd>,
+    <trd>miksowa&cacute;</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_s;&c_m;&c_je;&c_sh;&c_a;&c_t;&c_mol;</trd>,
+      <trd>&c_p;&c_je;&c_r;&c_je;&c_m;&c_je;&c_sh;&c_a;&c_t;&c_mol;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="miks.0i.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Meti kune en sia spirito diversajn aferojn tiamaniere, ke oni ne
+      povas plu ilin facile diferencigi:
+      <ekz>
+        <tld/>i la signifon de du vortoj<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        ne <tld/>u tiun monton kun alia samnoma monto;
+      </ekz>
+      <ekz>
+        nia &gcirc;ojo estis <tld/>ita kun beda&ubreve;ro
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="miks.inter0i">inter<tld/>i</ref>,
+      <ref cel="konfuz.0i">konfuzi</ref>,
+      <ref cel="distin">maldistingi</ref>
+    </refgrp>
+    <trdgrp lng="be">
+      <trd>&c_z;&c_mol;&c_m;&c_je;&c_sh;&c_v;&c_a;&c_c;&c_mol;</trd>,
+      <trd>&c_b;&c_l;&c_y;&c_t;&c_a;&c_c;&c_mol;</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd>durcheinander bringen</trd>,
+      <trd>verwechseln</trd>,
+      <trd>vertauschen</trd>
+    </trdgrp>
+    <trd lng="hu">&ouml;sszekever</trd>
+    <trd lng="nl">verwarren</trd>
+    <trdgrp lng="pl">
+      <trd>miesza&cacute;</trd>,
+      <trd>myli&cacute;</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_s;&c_m;&c_je;&c_sh;&c_i;&c_v;&c_a;&c_t;&c_mol;</trd>,
+      <trd>&c_p;&c_u;&c_t;&c_a;&c_t;&c_mol;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="miks.0i.enmiksi">
+    <ref tip="dif" cel="miks.en0i">en<tld/>i</ref>
+      <ekz>
+        ne <tld/>u vin en malproprajn aferojn<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        <ind>sin <tld/>i</ind> en konversacion;
+        <trd lng="hu">elegyedik</trd>
+        <trd lng="pl">wtr&aogonek;ci&cacute; si&eogonek;</trd>
+        <trdgrp lng="ru">
+          <trd>&c_v;&c_m;&c_je;&c_sh;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>,
+          <trd>&c_v;&c_m;&c_je;&c_sh;&c_i;&c_v;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>
+        </trdgrp>
+      </ekz>
+      <ekz>
+        kial vi <tld/>is mian nomon en la disputon?
+      </ekz>
+      <ekz>
+        mi tute ne volas min <tld/>i en la kondukado de tiu
+        afero<fnt>B</fnt>.
+      </ekz>
+      <trdgrp lng="be">
+        <trd>&c_u;&c_m;&c_je;&c_sh;&c_v;&c_a;&c_c;&c_mol;</trd>,
+        <trd>&c_u;&c_b;&c_l;&c_y;&c_t;&c_v;&c_a;&c_c;&c_mol;</trd>,
+        <trd>&c_u;&c_c;&c_ja;&c_g;&c_v;&c_a;&c_c;&c_mol;</trd>
+      </trdgrp>
+    <trd lng="de">einmischen</trd>
+    <trd lng="hu">belekever</trd>
+    <trd lng="nl">mengen</trd>
+    <trd lng="pl">miesza&cacute; si&eogonek; <klr>(do czego&sacute;)</klr></trd>
+    <trdgrp lng="pt">
+     <trd>misturar</trd>,
+     <trd>mesclar</trd>,
+     <trd>baralhar</trd>,
+     <trd>mexer <klr>(misturando)</klr></trd>   
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_v;&c_m;&c_je;&c_sh;&c_a;&c_t;&c_mol;</trd>,
+      <trd>&c_v;&c_p;&c_u;&c_t;&c_a;&c_t;&c_mol;</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="br">meska&ntilde;</trd>
+  <trdgrp lng="cs">
+    <trd>míchat</trd>,
+    <trd>mísit</trd>,
+    <trd>smísit</trd>,
+    <trd>směšovat</trd>
+  </trdgrp>
+  <trd lng="en">mix</trd>
+  <trd lng="es">mezclar</trd>
+  <trd lng="fr">m&eacute;langer</trd>
+  <trdgrp lng="sk">
+    <trd>miešať</trd>,
+    <trd>zamiešať</trd>,
+    <trd>zmiešať</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="miks.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="miks.0a.miksita">
+    <dif>
+      <tld lit="M"/>ita.
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_z;&c_mol;&c_m;&c_ja;&c_sh;&c_a;&c_n;&c_y;</trd>,
+    <trd>&c_p;&c_je;&c_r;&c_a;&c_m;&c_ja;&c_sh;&c_a;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trd lng="br">mesket</trd>
+  <trdgrp lng="cs">
+    <trd>halucinace sluchové</trd>,
+    <trd>smíšené</trd>,
+    <trd>tělesné</trd>,
+    <trd>zrakové</trd>,
+    <trd>čichové</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+      <trd>vermischt</trd>,
+      <trd>vermengt</trd>,
+      <trd>gemischt</trd>
+    </trdgrp>
+  <trd lng="es">mezclado<klr tip="amb"> (adjetivo)</klr></trd>
+  <trd lng="fr">m&eacute;lang&eacute;</trd>
+  <trdgrp lng="hu">
+    <trd>kevert</trd>,
+    <trd>vegyes</trd>
+  </trdgrp>
+  <trd lng="nl">gemengd</trd>
+  <trdgrp lng="pl">
+    <trd>zmieszany</trd>,
+    <trd>wymieszany</trd>,
+    <trd>zmiksowany</trd>
+  </trdgrp>
+  <trd lng="ru">&c_s;&c_m;&c_je;&c_sh;&c_a;&c_n;&c_n;&c_y;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>halucinácie sluchová</trd>,
+    <trd>telesná</trd>,
+    <trd>zmiešaná</trd>,
+    <trd>zraková</trd>,
+    <trd>čuchová</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="miks.0ajxo">
+  <kap><tld/>a&jcirc;o</kap>
+  <snc mrk="miks.0ajxo.KOMUNE">
+    <dif>
+      Io konsistanta el <tld/>itaj aferoj:
+      <ekz>
+        <tld/>a&jcirc;o el kuiritaj fruktoj;
+      </ekz>
+      <ekz>
+        <tld/>a&jcirc;o de ruzemo kun naiveco;
+      </ekz>
+      <ekz>
+        stranga <tld/>a&jcirc;o el legendoj, disputaj demandoj, pre&gcirc;oj kaj
+        kantoj<fnt>Z</fnt>
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_u;&c_m;&c_je;&c_s;&c_mol;</trd>
+  <trd lng="br">meskad</trd>
+  <trd lng="de">Gemisch</trd>
+  <trd lng="es">mezcla</trd>
+  <trd lng="fr">m&eacute;lange</trd>
+  <trd lng="hu">kever&eacute;k</trd>
+  <trd lng="nl">mengsel</trd>
+  <trdgrp lng="pl">
+    <trd>mieszanina</trd>,
+    <trd>mieszanka</trd>
+  </trdgrp>
+  <trd lng="ru">&c_s;&c_m;&c_je;&c_s;&c_mol;</trd>
+</drv>
+
+<drv mrk="miks.0igxi">
+  <kap><tld/>i&gcirc;i</kap>
+  <snc mrk="miks.0igxi.KOMUNE">
+    <dif>
+      I&gcirc;i <tld/>ita a&ubreve; sin <tld/>i:
+      <ekz>
+        odoro de fumo <tld/>i&gcirc;is kun parfumo de rozoj;
+      </ekz>
+      <ekz>
+        rido <tld/>i&gcirc;is kun larmoj
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="fand">kunfandi&gcirc;i</ref>,
+      <ref cel="konfuz">konfuzi&gcirc;i</ref>,
+      <ref cel="plekt">interplektigi</ref>.
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_z;&c_mol;&c_m;&c_je;&c_sh;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>,
+    <trd>&c_p;&c_je;&c_r;&c_a;&c_m;&c_je;&c_sh;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>
+  </trdgrp>
+  <trd lng="br">en em veska&ntilde;</trd>
+  <trd lng="de">sich <ind>vermischen</ind></trd>
+  <trd lng="fr">se <ind>m&eacute;langer</ind></trd>
+  <trd lng="hu">keveredik</trd>
+  <trd lng="nl">zich <ind>vermengen</ind></trd>
+  <trd lng="pl">miesza&cacute; si&eogonek; <klr>(do czego&sacute;)</klr></trd>
+  <trd lng="ru">&c_s;&c_m;&c_je;&c_sh;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>
+</drv>
+
+<drv mrk="miks.al0i">
+  <kap>al<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="miks.al0i.KOMUNE">
+    <dif>
+      Aldoni <tld/>ante:
+      <ekz>
+        al<tld/>i farunon al sukero pulvorigita.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_a;&c_d;&c_m;&c_je;&c_sh;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_d;&c_a;&c_m;&c_je;&c_sh;&c_v;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="br">entouezia&ntilde;</trd>
+  <trdgrp lng="cs">
+    <trd>přimíchat</trd>,
+    <trd>vmíchat</trd>,
+    <trd>zamíchat</trd>
+  </trdgrp>
+  <trd lng="de">dazumischen</trd>
+  <trd lng="fr">incorporer</trd>
+  <trdgrp lng="hu">
+    <trd>hozz&aacute;ad <klr tip="amb">(keverve)</klr></trd>,
+    <trd>hozz&aacute;kever</trd>
+  </trdgrp>
+  <trd lng="nl">toevoegen</trd>
+  <trd lng="pl">domiesza&cacute;</trd>
+  <trd lng="ru">&c_p;&c_o;&c_d;&c_m;&c_je;&c_sh;&c_a;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>primiešať</trd>,
+    <trd>zamiešať</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="miks.en0i">
+  <kap>en<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="miks.en0i.KOMUNE">
+    <dif>
+      Enmeti, enkonduki en fremdan aferon:
+      <ekz>
+        sin en<tld/>i en la konversacion;
+      </ekz>
+      <ekz>ili donis al li vinon kun mirho en<tld/>ita
+      <fnt><bib>NT</bib>, <lok>&Mar; 15:23</lok></fnt>;</ekz>
+      <ekz>
+        la afero iras tre bone sen mia
+        <ind>en<tld/>i&gcirc;ado</ind><fnt>Z</fnt>.
+        <trd lng="be">&c_u;&c_m;&c_ja;&c_sh;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
+        <trd lng="ru">&c_v;&c_m;&c_je;&c_sh;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_s;&c_t;&c_v;&c_o;</trd>
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="miks.0i.enmiksi"><tld/>i <sncref/></ref>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_u;&c_m;&c_je;&c_sh;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_u;&c_b;&c_l;&c_y;&c_t;&c_v;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="br">emellout</trd>
+  <trdgrp lng="cs">
+    <trd>přimíchat</trd>,
+    <trd>vmíchat</trd>,
+    <trd>zamíchat</trd>
+  </trdgrp>
+  <trd lng="de">sich <ind>einmischen</ind></trd>
+  <trd lng="fr">se <ind>m&ecirc;ler</ind></trd>
+  <trd lng="hu">belekever</trd>
+  <trd lng="nl">inmengen</trd>
+  <trd lng="pl">wmiesza&cacute; si&eogonek;</trd>
+  <trdgrp lng="ru">
+    <trd>&c_v;&c_m;&c_je;&c_sh;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_v;&c_p;&c_u;&c_t;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>primiešať</trd>,
+    <trd>zamiešať</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="miks.en0igxema">
+  <kap>en<tld/>i&gcirc;ema</kap>
+  <snc mrk="miks.en0igxema.PSI">
+    <dif>
+      Kiu volonte en<tld/>i&gcirc;as,
+      trudas sin en aferojn de aliuloj,
+      ne estas
+      <ref tip="ant" cel="ten.sinde0ema.PSI">deteni&gcirc;ema</ref>:
+      <ekz>
+        la kuba registaro plej akre kritikas la 
+        en<tld/>i&gcirc;eman kaj agresan karakteron de tiu politiko  
+        <fnt>
+          <aut>S. Niese, trad. V. Lutermano</aut>,
+          <vrk><url ref="http://www.mas-eo.org/spip.php?article454">
+          Obama kaj la Kubo-politiko de Usono</url></vrk>,
+          <lok>2011</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">importun</trd>
+</drv>
+
+<drv mrk="miks.inter0i">
+  <kap>inter<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="miks.inter0i.KOMUNE">
+    <dif>
+      Senorde, konfuze <tld/>i:
+      <ekz>
+        oni ne devas inter<tld/>i la amba&ubreve; vortojn<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_b;&c_l;&c_y;&c_t;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="br">kemmeska&ntilde;</trd>
+  <trdgrp lng="cs">
+    <trd>smíchat</trd>,
+    <trd>vmísit</trd>
+  </trdgrp>
+  <trd lng="de">vertauschen</trd>
+  <trd lng="fr">m&eacute;langer<klr> (confondre)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>&ouml;sszekever</trd>,
+    <trd>elkever</trd>,
+    <trd>elcser&eacute;l</trd>
+  </trdgrp>
+  <trd lng="nl">verwarren</trd>
+  <trdgrp lng="pl">
+    <trd>miesza&cacute;</trd>,
+    <trd>m&aogonek;ci&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_m;&c_je;&c_sh;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_p;&c_je;&c_r;&c_je;&c_p;&c_u;&c_t;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_s;&c_p;&c_u;&c_t;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_p;&c_u;&c_t;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>pomiešať</trd>,
+    <trd>zamiešať</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="miks.inter0igxi">
+  <kap>inter<tld/>i&gcirc;i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="miks.inter0igxi.KOMUNE">
+    <dif>
+      Reciproke <tld/>i&gcirc;i, inter diversspecaj aferoj:
+      <ekz>
+        la praavoj de &scirc;ia raso <klr>...</klr> inter<tld/>i&gcirc;is kun la 
+        alia granda raso
+        <fnt>
+          <aut>E. R. Burroughs, trad. K. R. C. Sturmer</aut>,
+          <vrk><url
+          ref="http://edu.i-lo.tarnow.pl/esp/lern/librejo/0029/index.php">
+          Princino de Marso</url></vrk>,
+          <lok>1938</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">se <ind>m&eacute;langer</ind></trd>
+</drv>
+
+<drv mrk="miks.mal0i">
+  <kap>mal<tld/>i<fnt>Z</fnt></kap>
+  <snc mrk="miks.mal0i.KOMUNE">
+    <dif>
+      Malimpliki, malkonfuzi, diferencigi, ordigi.
+    </dif>
+  </snc>
+  <trdgrp lng="br">
+    <trd>diluzia&ntilde;</trd>,
+    <trd>diveska&ntilde;</trd>
+  </trdgrp>
+  <trd lng="cs">separovat</trd>
+  <trdgrp lng="fr">
+    <trd>d&eacute;brouiller</trd>,
+    <trd>d&eacute;m&ecirc;ler</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>sz&eacute;tv&aacute;laszt</trd>,
+    <trd>sz&eacute;tv&aacute;logat</trd>,
+    <trd>sz&eacute;trendez</trd>,
+    <trd>kibogoz</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>uit elkaar <ind>halen</ind></trd>,
+    <trd>ontwarren</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>rozwi&aogonek;za&cacute;</trd>,
+    <trd>rozsup&lstroke;a&cacute;</trd>,
+    <trd>wyprostowa&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_r;&c_a;&c_s;&c_p;&c_u;&c_t;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_r;&c_a;&c_z;&c_o;&c_b;&c_r;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>
+  </trdgrp>
+  <trd lng="sk">separovať</trd>
+</drv>
+
+<drv mrk="miks.sen0a">
+  <kap>sen<tld/>a</kap>
+  <snc mrk="miks.sen0a.KOMUNE">
+    <dif>
+      Ne<tld/>ita, pura:
+      <ekz>
+        sen<tld/>a raso.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_b;&c_je;&c_z; <ind>&c_d;&c_a;&c_m;&c_je;&c_sh;&c_k;&c_a;&c_w;</ind></trd>
+  <trd lng="br">divesk</trd>
+  <trdgrp lng="cs">
+    <trd>nemíchaný</trd>,
+    <trd>nesmísený</trd>
+  </trdgrp>
+  <trd lng="fr">sans <ind>m&eacute;lange</ind></trd>
+  <trdgrp lng="hu">
+    <trd>tiszta</trd>,
+    <trd>nem kevert</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>onvermengd</trd>,
+    <trd>zuiver<klr tip="ind"> (onvermengd)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>bez <ind>domieszek</ind></trd>,
+    <trd>niedomieszkowany</trd>
+  </trdgrp>
+  <trd lng="ru">&c_b;&c_je;&c_z; <ind>&c_p;&c_r;&c_i;&c_m;&c_je;&c_s;&c_je;&c_j;</ind></trd>
+  <trd lng="sk">nezmiešaný</trd>
+</drv>
+</art>
+<!--
+$Log: miks.xml,v $
+Revision 1.24  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.23  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.22  2015/04/09 09:10:16  revo
+Damien Brucker: -eraro cxe ref
+
+Revision 1.21  2014/01/09 20:10:12  revo
+Jeromo Vasxe: + ~igxi
+
+Revision 1.20  2014/01/02 21:10:31  revo
+Jeromo Vasxe: + en~igxema
+
+Revision 1.19  2013/04/16 07:10:09  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.18  2010/08/19 16:30:15  revo
+Agustin Garcia Lopez: +trd es
+
+Revision 1.17  2006/08/02 16:32:51  revo
+Tulio Flores: +tr pt
+
+Revision 1.16  2005/08/29 16:32:36  revo
+Yury Finkel: +trd ru
+
+Revision 1.15  2005/05/23 16:31:32  revo
+-->
+</vortaro>

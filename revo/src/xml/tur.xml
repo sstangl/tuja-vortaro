@@ -1,0 +1,212 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: tur.xml,v 1.27 2015/07/04 08:37:45 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>tur</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="tur.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="tur.0o.ARKI">
+    <uzo tip="fak">ARKI</uzo>
+    <dif>
+      Tre alta, ne tre vasta <ref tip="super"
+      cel="konstr.0ajxo.domo">konstrua&jcirc;o</ref>,
+      plej ofte ronda a&ubreve; kvadrata:
+      <ekz>
+        <tld/>o de pre&gcirc;ejo;
+      </ekz>
+      <ekz>
+        la Pariza Ejfel-<tld/>o
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_v;&c_je;&c_zh;&c_a;</trd>,
+      <trd>&c_v;&c_y;&c_sh;&c_k;&c_a;</trd>
+    </trdgrp>
+    <trd lng="en">tower</trd>
+    <trdgrp lng="fr">
+      <trd>tour<klr> (b&acirc;timent)</klr></trd>
+    </trdgrp>
+    <trd lng="hu">torony</trd>
+    <trd lng="id">menara</trd>
+    <trd lng="it">torre</trd>
+    <trd lng="pl">wie&zdot;a</trd>
+    <trd lng="ru">&c_b;&c_a;&c_sh;&c_n;&c_ja;</trd>
+  </snc>
+  <snc mrk="tur.0o.sxaka">
+    <uzo tip="fak">SPO</uzo>
+    <dif>
+      &Scirc;akpeco kutime figurata per turo, movebla la&ubreve;
+      vertikaloj a&ubreve; horizontaloj de la &scirc;aktabulo.
+    </dif>
+    <trd lng="be">&c_t;&c_u;&c_r;&c_a;</trd>
+    <trd lng="en">rook</trd>
+    <trdgrp lng="fr">
+      <trd>tour<klr> (&eacute;checs)</klr></trd>
+    </trdgrp>
+    <trd lng="hu">b&aacute;stya</trd>
+    <trd lng="id"><ind>benteng</ind> (bidak catur)</trd>
+    <trd lng="it">torre<klr> (scacchi)</klr></trd>
+    <trd lng="ru">&c_l;&c_a;&c_d;&c_mol;&c_ja;</trd>
+  </snc>
+  <trd lng="cs">věž</trd>
+  <trd lng="de">Turm</trd>
+  <trd lng="es">torre</trd>
+  <trd lng="nl">toren</trd>
+  <trdgrp lng="pl">
+    <trd>wie&zdot;a</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>torre</trd>
+  </trdgrp>
+  <trd lng="sk">veža</trd>
+  <trd lng="sv">torn</trd>
+</drv>
+
+<drv mrk="tur.reg0o">
+  <kap>reg<tld/>o, <var><kap>kontrol<tld/>o</kap></var></kap>
+  <snc mrk="tur.reg0o.AVI">
+    <uzo tip="fak">AVI</uzo>
+    <dif>
+      <tld lit="T"/>o &ccirc;e flughaveno, de kiu oni observas kaj regas la 
+      avian trafikon:
+      <ekz>
+        la atmosferaj kondi&ccirc;oj malebligis, ke la reg<tld/>o vidu la 
+        akcidenton
+        <fnt>
+          <bib>Viki</bib>,
+          <lok><url
+          ref="http://eo.wikipedia.org/wiki/Aviadila_kolizio_de_1977_en_Los_Rodeos">
+          Aviadila kolizio...</url>, 2010-02-03</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        infana vo&ccirc;o a&ubreve;di&gcirc;is el la kontrol<tld/>o de novjorka
+        flughaveno JFK
+        <fnt>
+          <aut>D. Karthaus</aut>,
+          <vrk><url
+          ref="http://radioverda.com/programoj/2010/3/14/rv161-20100314.html">
+          Radio Verda</url></vrk>,
+          <lok>RV161, 2010-03-14</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">tour de contr&ocirc;le</trd>
+  <trd lng="id"><ind>menara</ind> kontrol</trd>
+  <trd lng="it"><ind>torre</ind> di controllo</trd>
+</drv>
+
+<drv mrk="tur.lum0o">
+  <kap>lum<tld/>o</kap>
+  <snc mrk="tur.lum0o.ARKI">
+    <uzo tip="fak">ARKI</uzo>
+    <dif>
+      <tld lit="T"/>a <ref tip="super"
+      cel="konstr.0ajxo.domo">konstrua&jcirc;o</ref>
+      kun supra ordinare rotacia lum&jcirc;etilego por
+      montri la vojon al &scirc;ipoj, aviadiloj kaj ceteraj.
+    </dif>
+    <trd lng="es">faro</trd>
+    <trd lng="fr">phare</trd>
+    <trd lng="hu">vil&aacute;g&iacute;t&oacute;torony</trd>
+    <trd lng="id">mercusuar</trd>
+    <trd lng="it">faro</trd>
+    <trd lng="pl">latarnia morska</trd>
+  </snc>
+  <snc mrk="tur.lum0o.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Gvidanto, gvidilo.
+    </dif>
+    <trd lng="hu">f&aacute;rosz</trd>
+    <trd lng="nl">vuurtoren</trd>
+  </snc>
+  <trd lng="be">&c_m;&c_a;&c_ja;&c_k;</trd>
+  <trd lng="cs">maják</trd>
+  <trd lng="en">lighthouse</trd>
+  <trd lng="pt">farol</trd>
+  <trd lng="ru">&c_m;&c_a;&c_ja;&c_k;</trd>
+  <trd lng="sk">maják</trd>
+  <trd lng="sv">fyr<klr>(torn)</klr></trd>
+</drv>
+
+<drv mrk="tur.ebura0o">
+  <kap>ebura <tld/>o</kap>
+  <snc mrk="tur.ebura0o.FRAZ">
+    <uzo tip="stl">FRAZ</uzo>
+    <dif>
+      Klerula izoli&gcirc;o de la ordinara mondo:
+      <ekz>
+        arto nun ne plu estas ponto inter la artisto kaj lia publiko. La
+        artistoj fermi&gcirc;as en eburaj <tld/>oj, produktas, kaj poste
+        &jcirc;etas la rezultojn kvaza&ubreve; spite al la publiko
+        <fnt>
+        <aut>C. C. Guglielminetti</aut>,
+        <vrk><url ref=
+        "http://donh.best.vwh.net/Esperanto/Literaturo/Revuoj/nlr/nlr64/
+        kompreni.html">
+        Kompreni a&ubreve; ne</url></vrk>,
+        <lok>Nica Literatura Revuo, 1961-03 &gcirc;is 04, numero 6/4, p.
+        156-160a</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en tiu periodo filmlaborantoj eliris el la ebura <tld/>o kaj
+        kontemplis, kion bezonas la plejparto de la &ccirc;inoj en la
+        vivo
+        <fnt>
+        <aut>Wa Na</aut>,
+        <vrk><url ref="http://www.chinareport.com.cn/13k/13K-7.htm">
+        &Ccirc;inaj filmaj re&gcirc;isoroj de nova generacio</url>
+        </vrk>,
+        <lok>El popola &Ccirc;inio, vidita je 2006-06-14</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="en">ivory tower</trd>
+  <trd lng="fr">tour d'ivoire</trd>
+  <trd lng="id"><ind>menara</ind> gading</trd>
+  <trd lng="it"><ind>torre</ind> d'avorio</trd>
+  <trd lng="pl"><ind>wie&zdot;a</ind>
+  z ko&sacute;ci s&lstroke;oniowej</trd>
+  <trd lng="pt">torre de marfim</trd>
+</drv>
+</art>
+<!--
+$Log: tur.xml,v $
+Revision 1.27  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.26  2015/06/29 16:40:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.25  2014/06/30 16:10:32  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.24  2010/07/20 16:30:27  revo
+Antonio Codazzi: +trd it
+
+Revision 1.23  2010/03/19 17:30:47  revo
+Jeromo Vasxe: + reg/kontrol~o
+
+Revision 1.22  2008/06/09 17:45:47  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.21  2008/05/25 18:38:33  revo
+Russ Williams: +trd en
+
+Revision 1.20  2007/11/30 17:30:20  revo
+Tulio Flores: +tr pt
+
+Revision 1.19  2006/06/18 16:32:21  revo
+Jeromo Vasxe: + ebura ~o
+
+Revision 1.18 2006/02/16 17:36:57 revo
+-->
+</vortaro>

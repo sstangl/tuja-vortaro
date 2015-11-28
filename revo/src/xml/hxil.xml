@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+    <art mrk="$Id: hxil.xml,v 1.13 2014/04/15 19:10:13 revo Exp $">
+      <kap><rad>&hcirc;il</rad>/o</kap>
+      <drv mrk="hxil.0o">
+        <kap><tld/>o</kap>
+        <snc>
+          <uzo tip="fak">BIO</uzo>
+          <uzo tip="fak">MED</uzo>
+          <uzo tip="fak">FIZL</uzo>
+          <dif>
+            Lakteca likva&jcirc;o konsistanta el 
+            <ref cel="limf.0o">limfo</ref>
+            kaj emulsia graso, formi&gcirc;anta dum digestado de 
+            grasa&jcirc;oj.
+        </dif>
+        <ref tip="sin" cel="cxil.0o">&ccirc;ilo</ref>
+        </snc>
+        <trd lng="be">&c_h;&c_ib;&c_l;&c_u;&c_s;</trd>
+        <trd lng="bg">&c_h;&c_i;&c_l;&c_u;&c_s;</trd>
+        <trd lng="de">Speises&auml;fte</trd>
+        <trd lng="en">chyle</trd>
+        <trdgrp lng="fi">
+          <trd>maitiaisneste <klr tip="amb"> (ruoansulatus)</klr></trd>,
+          <trd>kyylus</trd>
+        </trdgrp>
+        <trd lng="fr">chyle</trd>
+        <trdgrp lng="hu">
+          <trd>nyiroknedv</trd>,
+          <trd>t&aacute;pnyirok</trd>
+        </trdgrp>
+        <trd lng="it">chilo<klr tip="amb"> (fisiologia)</klr></trd>
+        <trd lng="nl">chijl</trd>
+        <trd lng="pl">sok pokarmowy</trd>
+        <trd lng="pt">quilo<klr tip="amb"> (fisiologia)</klr></trd>
+        <trdgrp lng="ru">
+          <trd>&c_h;&c_i;&c_l;&c_u;&c_s;</trd>,
+          <trd>&c_m;&c_l;&c_je;&c_ch;&c_n;&c_y;&c_j;
+          &c_s;&c_o;&c_k;</trd>
+        </trdgrp>
+        <trd lng="uk">&c_h;&c_ib;&c_l;&c_u;&c_s;</trd>
+      </drv>
+    </art>
+
+<!--
+$Log: hxil.xml,v $
+Revision 1.13  2014/04/15 19:10:13  revo
+Joop Eggen: +trd bg nl
+
+Revision 1.12  2009/04/24 16:31:22  revo
+Sebastian Cyprych: +ref cxilo
+
+Revision 1.11  2009/03/12 17:32:26  revo
+Antonio Codazzi: +trd it
+
+Revision 1.10  2007/06/19 16:30:44  revo
+Harri Laine: korekto trd fi
+
+Revision 1.9  2007/06/15 16:30:46  revo
+Harri Laine: +trd fi
+
+Revision 1.8  2006/09/01 18:30:47  revo
+Wieland Pusch: +trd de
+
+Revision 1.7  2005/11/04 17:31:12  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.6  2005/10/22 17:22:59  revo
+-->
+</vortaro>

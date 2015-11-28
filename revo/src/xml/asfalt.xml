@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: asfalt.xml,v 1.24 2015/07/04 08:37:30 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>asfalt</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="asfalt.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="asfalt.0o.KON">
+    <uzo tip="fak">KON</uzo>
+    <uzo tip="fak">TRA</uzo>
+    <dif>
+      Speco de <ref tip="vid" cel="bitum.0o">bitumo</ref>,
+      kiu servas por surkovri stratojn
+      kiel <ref tip="super" cel="pavim.0o.KON">pavimo</ref>:
+      <ekz>
+        dum la rikolta sezono oni sur&scirc;utas grenon sur la varmegan
+        <tld/>on por sekigi &gcirc;in
+        <fnt>
+          <aut>E. Georgiev</aut>,
+          <vrk>Nova ponto sur Danubo</vrk>,
+          <bib>Monato</bib>,
+          <lok>jaro 2001a, numero 1a, p. 11a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_a;&c_s;&c_f;&c_a;&c_l;&c_mol;&c_t;</trd>
+  <trdgrp lng="cs">
+    <trd>asfalt</trd>,
+    <trd>bitumen</trd>
+  </trdgrp>
+  <trd lng="de">Asphalt</trd>
+  <trd lng="en">asphalt</trd>
+  <trd lng="es">asfalto</trd>
+  <trd lng="fr">asphalte</trd>
+  <trd lng="hu">aszfalt</trd>
+  <trd lng="id">aspal</trd>
+  <trd lng="it">asfalto</trd>
+  <trd lng="nl">asfalt</trd>
+  <trd lng="pl">asfalt</trd>
+  <trd lng="ru">&c_a;&c_s;&c_f;&c_a;&c_l;&c_mol;&c_t;</trd>
+  <trd lng="sk">asfalt</trd>
+  <trd lng="sv">asfalt</trd>
+</drv>
+
+<drv mrk="asfalt.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="asfalt.0i.KON">
+    <uzo tip="fak">KON</uzo>
+    <dif>
+      Surkovri per <tld/>o.
+    </dif>
+  </snc>
+  <trd lng="be">
+  &c_a;&c_s;&c_f;&c_a;&c_l;&c_mol;&c_t;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="cs">asfaltovat</trd>
+  <trd lng="de">asphaltieren</trd>
+  <trd lng="en">lay <ind>asphalt</ind></trd>
+  <trd lng="es">asfaltar</trd>
+  <trd lng="fr">asphalter</trd>
+  <trd lng="hu">aszfaltoz</trd>
+  <trd lng="id">[<ind>aspal</ind>] mengaspal</trd>
+  <trd lng="it">asfaltare</trd>
+  <trd lng="nl">asfalteren</trd>
+  <trd lng="pl">asfaltowa&cacute;</trd>
+  <trd
+  lng="ru">&c_a;&c_s;&c_f;&c_a;&c_l;&c_mol;&c_t;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="sk">asfaltova&tcaron;</trd>
+  <trd lng="sv">asfaltera</trd>
+</drv>
+</art>
+<!--
+$Log: asfalt.xml,v $
+Revision 1.24  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.23  2014/10/28 04:10:59  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.22  2012/02/01 01:10:33  revo
+Antonio Codazzi: +trd it
+
+Revision 1.21  2009/09/10 16:32:07  revo
+Jeromo Vasxe: + fak kon, + vid
+
+Revision 1.20  2009/03/12 17:31:58  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.19  2009/02/04 19:20:05  revo
+Sergej Chlutchin: forigis malbezonajn linirompojn en la rusa
+
+Revision 1.18  2008/05/09 19:11:44  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.17  2007/05/24 16:30:39  revo
+Wieland Pusch: +trd de
+
+Revision 1.16  2005/09/01 16:31:32  revo
+-->
+</vortaro>

@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: meduz.xml,v 1.17 2012/08/03 08:10:25 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>meduz</rad>/o
+</kap>
+<drv mrk="meduz.0o">
+  <kap>
+    <tld/>o
+  </kap>
+  <uzo tip="fak">ZOO</uzo>
+  <snc mrk="meduz.0o.ZOO">
+    <dif>
+      Libere na&gcirc;anta formo de
+      <ref tip="malprt" cel="hidroz.0oj">hidrozooj</ref>.
+    </dif>
+    <ref tip="vid" cel="polip.0o">polipo</ref>
+  </snc>                      
+  <trd lng="be">&c_m;&c_e;&c_d;&c_u;&c_z;&c_a;</trd>
+  <trd lng="br">morgaoulenn</trd>
+  <trd lng="ca">medusa</trd>
+  <trd lng="de">Qualle</trd>
+  <trd lng="es">medusa</trd>
+  <trd lng="fr">m&eacute;duse</trd>
+  <trd lng="hu">med&uacute;za</trd>
+  <trd lng="it">medusa</trd>
+  <trd lng="nl">kwal</trd>
+  <trd lng="pl">meduza</trd>
+  <trd lng="pt">medusa</trd>
+  <trd lng="ru">&c_m;&c_je;&c_d;&c_u;&c_z;&c_a;</trd>
+</drv>
+
+<drv mrk="meduz.M0o">
+  <kap>
+    <tld lit="M"/>o
+  </kap>
+  <uzo tip="fak">MIT</uzo>
+  <snc mrk="meduz.0o.MIT">
+    <dif>
+      Ina mortema monstro de greka mitologio, re&gcirc;ino de 
+      <ref tip="sub" cel="gorgon.0o.MIT">Gorgonoj</ref>, kiu havis
+      serpentojn
+      anstata&ubreve; haroj kaj aliigis en &scirc;tonon &ccirc;iujn,
+      kiuj &scirc;in rigardis.
+    </dif>
+    <ref tip="sub" cel="gorgon.0o.MIT">Gorgono</ref>
+  </snc>                      
+  <trd lng="be">&c_M;&c_e;&c_d;&c_u;&c_z;&c_a;</trd>
+  <trd lng="br">Meduza</trd>
+  <trd lng="ca">Medusa</trd>
+  <trd lng="de">Medusa</trd>
+  <trd lng="es">Medusa</trd>  
+  <trd lng="fr">M&eacute;duse</trd>
+  <trd lng="hu">Med&uacute;za</trd>
+  <trd lng="it">Medusa</trd>
+  <trd lng="nl">Medusa</trd>
+  <trd lng="pl">Meduza</trd>
+  <trd lng="pt">Medusa</trd>
+  <trd lng="ru">&c_M;&c_je;&c_d;&c_u;&c_z;&c_a;</trd>
+</drv>
+
+<drv mrk="meduz.grand0oj">
+  <kap>
+    grand<tld/>oj
+  </kap>
+  <uzo tip="fak">ZOO</uzo>
+  <snc>
+    <dif>
+      Ordo el la klaso <ref tip="super" cel="hidroz.0oj">hidrozooj</ref>
+      (<trd lng="la">Siphonophora</trd>).
+    </dif>
+  </snc>
+  <trd lng="ca">sifon&ograve;fors</trd>
+  <trd lng="de">Staatsquallen</trd>
+  <trdgrp lng="hu">
+    <trd>telepes <ind>med&uacute;z&aacute;k</ind></trd>,
+    <trd>h&oacute;lyagos <ind>med&uacute;z&aacute;k</ind></trd></trdgrp>
+  <trd lng="ru">&c_s;&c_i;&c_f;&c_o;&c_n;&c_o;&c_f;&c_o;&c_r;&c_y;
+  <klr tip="amb">(&c_o;&c_t;&c_r;&c_ja;&c_d;)</klr></trd>
+  <trd lng="it">Sifonofori</trd>
+</drv>
+</art>
+<!--
+$Log: meduz.xml,v $
+Revision 1.17  2012/08/03 08:10:25  revo
+Marc Rausell: + trd ca
+
+Revision 1.16  2009/03/23 17:30:45  revo
+Antonio Codazzi: +trd it, Meduzo: modif dif
+
+Revision 1.15  2008/04/18 16:30:21  revo
+Sebastian Cyprych: + ref al Gorgono +trd pl
+
+Revision 1.14  2006/07/30 16:32:25  revo
+Tulio Flores: +tr pt
+
+Revision 1.13  2005/07/09 19:56:20  revo
+Alan ar Gall: +trd br fr
+
+Revision 1.12  2003/05/19 19:37:29  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.11  2002/07/02 17:32:46  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.10  2001/11/25 17:33:01  revo
+-->
+</vortaro>

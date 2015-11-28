@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: biolog.xml,v 1.17 2015/07/04 08:37:31 revo Exp $">
+<kap>
+  <ofc>7</ofc>
+  <rad>biolog</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="biolog.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="biolog.0o.BIO">
+    <ref tip="dif" cel="biolog1.0isto">biologiisto</ref>
+  </snc>
+  <trd lng="be">&c_b;&c_ib;&c_jo;&c_l;&c_ja;&c_g;</trd>
+  <trd lng="bg">&c_b;&c_i;&c_o;&c_l;&c_o;&c_g;</trd>
+  <trd lng="cs">biolog</trd>
+  <trd lng="de">Biologe</trd>
+  <trd lng="en">biologist</trd>
+  <trd lng="es">bi&oacute;logo</trd>
+  <trd lng="fr">biologiste</trd>
+  <trd lng="hu">biol&oacute;gus</trd>
+  <trdgrp lng="id">
+    <trd>biolog</trd>,
+    <trd>ahli biologi</trd>
+  </trdgrp>
+  <trd lng="nl">bioloog</trd>
+  <trd lng="pl">biolog</trd>
+  <trd lng="ru">&c_b;&c_i;&c_o;&c_l;&c_o;&c_g;</trd>
+  <trdgrp lng="sk">
+    <trd>biol&oacute;g</trd>,
+    <trd>biológ</trd>
+  </trdgrp>
+  <trd lng="sv">biolog</trd>
+</drv>
+
+<drv mrk="biolog.astro0o">
+  <kap>astro<tld/>o</kap>
+  <snc mrk="biolog.astro0o.BIO">
+    <dif>
+      <ref tip="dif" cel="biolog1.astro0o.BIO">astrobiologi</ref>isto:
+      <ekz>
+         la ser&ccirc;ado de la astro<tld/>j &scirc;ajnas pli promesplena
+         ol la konjektoj de la teologoj
+         <fnt>
+           <aut>G. Makaj</aut>,
+           <vrk>Astrobiologio kaj religio</vrk>,
+           <bib>Monato</bib>,
+           <lok>2013</lok>
+         </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">astrobiologiste</trd>
+</drv>
+</art>
+<!--
+$Log: biolog.xml,v $
+Revision 1.17  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:29:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.15  2013/08/15 01:10:14  revo
+Jeromo Vasxe: + astro~
+
+Revision 1.14  2009/03/06 17:31:06  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.13  2008/01/25 17:30:15  revo
+Wieland Pusch: +trd bg
+
+Revision 1.12  2007/05/22 16:31:39  revo
+Wieland Pusch: +trd de
+
+Revision 1.11  2006/07/29 16:34:29  revo
+Jeromo Vasxe: ref. rekte sub snc
+
+Revision 1.10  2003/11/28 17:32:15  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.9  2002/10/18 16:41:06  revo
+Christopher Zervic: + ang
+
+Revision 1.8  2002/05/16 16:34:55  revo
+-->
+</vortaro>

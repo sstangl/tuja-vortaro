@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: adenin.xml,v 1.7 2013/12/18 14:10:12 revo Exp $">
+<kap>
+  <rad>adenin</rad>/o <fnt><bib>NePiv</bib></fnt>
+</kap>
+<drv mrk="adenin.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="adenin.0o.BIO">
+    <uzo tip="fak">BIO</uzo>
+    <uzo tip="fak">KEM</uzo>
+    <dif>
+      Iu el la
+      <ref tip="super" cel="nukleotid.0o.GNT">nukleotido</ref>specoj
+      de ADN a&ubreve; ARN;
+      simbole <frm>C<sub>5</sub>H<sub>5</sub>N<sub>5</sub></frm>:
+      <ekz>
+        <tld/>o estas purina nitrogen-bazo, kiu povas aperi en 
+        nukleotidoj de DNA kaj RNA
+        <fnt>
+          <bib>Viki</bib>,
+          <lok><url ref="http://eo.wikipedia.org/wiki/Adenino">
+          adenino</url>, 2010-07-23</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_a;&c_d;&c_e;&c_n;&c_ib;&c_n;</trd>
+  <trd lng="bg">&c_a;&c_d;&c_je;&c_n;&c_i;&c_n;</trd>
+  <trd lng="ca">adenina</trd>
+  <trd lng="da">adenin</trd>
+  <trd lng="en">adenine</trd>
+  <trd lng="es">adenina</trd>
+  <trd lng="fr">ad&eacute;nine</trd>
+  <trd lng="hu">adenin</trd>
+  <trd lng="it">adenina</trd>
+  <trd lng="nl">adenine</trd>
+  <trd lng="pl">adenina</trd>
+  <trd lng="ro">adenin&abreve;</trd>
+  <trd lng="sv">adenin</trd>
+</drv>
+</art>
+
+<!--
+$Log: adenin.xml,v $
+Revision 1.7  2013/12/18 14:10:12  revo
+Joop Eggen: +trd bg da en es hu nl
+
+Revision 1.6  2013/10/30 20:10:16  revo
+Vito Redsky: +trd  pl ro
+
+Revision 1.5  2013/03/01 07:10:15  revo
+Dmitri Gabinski: redakto: +trd be
+
+Revision 1.4  2012/01/05 14:10:22  revo
+Marc Rausell: +trd ca
+
+Revision 1.3  2011/09/29 12:10:25  revo
+Antonio Codazzi: +trd it
+
+Revision 1.2  2010/10/20 16:30:32  revo
+Jerano Zachrisson: +trd sv
+
+Revision 1.1  2010/09/19 16:30:32  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

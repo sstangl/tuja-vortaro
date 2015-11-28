@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: radon.xml,v 1.18 2015/07/04 08:37:42 revo Exp $">
+<kap>
+  <rad>radon</rad>/o
+</kap>
+<drv mrk="radon.0o">
+  <kap><tld/>o</kap>
+  <mlg kod="IUPAC">Rn</mlg>
+  <uzo tip="fak">KEM</uzo>
+  <snc>
+    <dif>
+      &Hcirc;emia <ref tip="lst" cel="elemen.0o.KEM"
+      lst="voko:&hcirc;emiaj_elementoj" val="86">elemento</ref> kun
+      atomnumero 86, atompezo 222,0176;
+      <ref tip="super" cel="gas.nobla0o">nobla gaso</ref>,
+      kies &ccirc;iuj <ref tip="super" cel="izotop.0o">izotopoj</ref> 
+      estas radioaktivaj.
+    </dif>
+    <rim>
+      Eksa nomo estas <ref tip="sin" cel="niton.0o">nitono</ref>.
+    </rim>
+  </snc>
+  <trd lng="be">&c_r;&c_a;&c_d;&c_o;&c_n;</trd>
+  <trd lng="bg">&c_r;&c_a;&c_d;&c_o;&c_n;</trd>
+  <trd lng="br">radon</trd>
+  <trdgrp lng="cs">
+    <trd>Rn</trd>,
+    <trd>radon</trd>
+  </trdgrp>
+  <trd lng="de">Radon</trd>
+  <trd lng="en">radon</trd>
+  <trd lng="es">rad&oacute;n</trd>
+  <trd lng="fr">radon</trd>
+  <trd lng="hu">radon</trd>
+  <trd lng="id">radon</trd>
+  <trd lng="it">radon</trd>
+  <trd lng="la">Radon</trd>
+  <trd lng="nl">radon</trd>
+  <trd lng="pl">radon</trd>
+  <trd lng="pt">rad&ocirc;nio</trd>
+  <trd lng="ru">&c_r;&c_a;&c_d;&c_o;&c_n;</trd>
+  <trdgrp lng="sk">
+    <trd>Rn</trd>,
+    <trd>radón</trd>
+  </trdgrp>
+  <trd lng="sv">radon</trd>
+</drv>
+</art>
+<!--
+$Log: radon.xml,v $
+Revision 1.18  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.16  2014/06/06 04:10:58  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.15  2014/01/30 17:10:21  revo
+Joop Eggen: +trd bg
+
+Revision 1.14  2013/09/15 19:10:27  revo
+Wolfram Diestel: simb. laux IUPAC, val
+
+Revision 1.13  2013/08/25 07:10:51  revo
+Wolfram Diestel: referenco al listo elementoj
+
+Revision 1.12  2010/10/26 16:31:00  revo
+Jerano Zachrisson: +trd sv
+
+Revision 1.11  2006/06/06 16:31:22  revo
+Sebastian Cyprych: +trd pl,la +frm
+
+Revision 1.10  2006/02/18 17:32:18  revo
+Tulio Flores: +trd pt
+
+Revision 1.9  2006/01/04 17:31:34  revo
+-->
+</vortaro>

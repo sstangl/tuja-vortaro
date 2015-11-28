@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: trajek.xml,v 1.16 2015/07/04 08:37:45 revo Exp $">
+<kap>
+  <rad>trajektori</rad>/o
+  <fnt>Z</fnt>
+</kap>
+<drv mrk="trajek.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="trajek.0o.FIZ">
+    <uzo tip="fak">FIZ</uzo>
+    <dif>
+      <ref tip="super" cel="voj.0o.KOMUNE">Vojo</ref>, linio sekvata de
+      la pezocentro de movi&gcirc;a objekto:
+      <ekz>
+        li <klr>...</klr> sidis dum tutaj noktoj en la korto observante
+        la <tld/>on de la astroj
+        <fnt>
+          <aut>G. Garc&iacute;a M&aacute;rquez, trad. F. de Diego</aut>,
+          <vrk>Cent Jaroj da Soleco</vrk>,
+          <lok>Fonto, 1992</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_t;&c_r;&c_a;&c_je;&c_k;&c_t;&c_o;&c_r;&c_y;&c_ja;</trd>
+  <trd lng="bg">&c_t;&c_r;&c_a;&c_je;&c_k;&c_t;&c_o;&c_r;&c_i;&c_ja;</trd>
+  <trd lng="ca">traject&ograve;ria</trd>
+  <trd lng="cs">dráha <klr>(částic)</klr></trd>
+  <trdgrp lng="de">
+    <trd>Flugbahn</trd>,
+    <trd>Wurfbahn</trd>,
+    <trd>Schussbahn</trd>
+  </trdgrp>
+  <trd lng="en">trajectory</trd>
+  <trd lng="fr">trajectoire</trd>
+  <trd lng="hu">r&ouml;pp&aacute;lya</trd>
+  <trd lng="nl">baan<klr> (v.projectiel)</klr></trd>
+  <trd lng="pt">trajet&oacute;ria</trd>
+  <trd lng="ru">&c_t;&c_r;&c_a;&c_je;&c_k;&c_t;&c_o;&c_r;&c_i;&c_ja;</trd>
+  <trd lng="sk">dráha častice</trd>
+</drv>
+</art>
+<!--
+$Log: trajek.xml,v $
+Revision 1.16  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:40:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.14  2015/05/22 16:10:15  revo
+Joop Eggen: +trd bg
+
+Revision 1.13  2012/01/04 00:10:15  revo
+Marc Rausell: +trd ca
+
+Revision 1.12  2008/11/23 19:12:41  revo
+Wieland Pusch: entoj por unikodo
+
+Revision 1.11  2008/11/05 17:31:25  revo
+Russ Williams: +trd en
+
+Revision 1.10  2007/04/10 16:30:18  revo
+Jeromo Vasxe: + ekz, + trd fr
+
+Revision 1.9  2006/02/16 17:33:05  revo
+Tulio Flores: +trd pt
+
+Revision 1.8  2004/12/10 17:31:17  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.7  2003/09/26 19:12:26  revo
+-->
+</vortaro>

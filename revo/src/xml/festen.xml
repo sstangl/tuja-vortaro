@@ -1,0 +1,165 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: festen.xml,v 1.22 2015/07/04 08:37:34 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>festen</rad>/o
+</kap>
+<drv mrk="festen.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc>
+    <uzo tip="fak">KUI</uzo>
+    <dif>
+      Luksa kaj abunda <ref tip="super" cel="mangx.0o">man&gcirc;o</ref>:
+      <ekz>
+        edzi&gcirc;a <tld/>o;
+      </ekz>
+      <ekz>
+        osetoj tradicie pre&gcirc;as dum <ctl>pre&gcirc;aj <tld/>oj</ctl>
+        <fnt>
+        <aut>Vja&ccirc;eslav Slavik Ivanov</aut>,
+        <vrk>La oseta lingvo</vrk>,
+        <bib>Monato</bib>,
+        <lok>jaro 2003a, numero 1a, p. 24a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="banked.0o">bankedo</ref>,
+      <ref cel="regal">regalo</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_b;&c_a;&c_n;&c_k;&c_je;&c_t;</trd>,
+    <trd>&c_b;&c_a;&c_l;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>hody</trd>,
+    <trd>hostina</trd>,
+    <trd>kvas</trd>,
+    <trd>slavnost</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Festessen</trd>,
+    <trd>Festmahl</trd>,
+    <trd>Bankett</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>banquet</trd>,
+    <trd>feast</trd>
+  </trdgrp>
+  <trd lng="es">banquete</trd>
+  <trdgrp lng="fa">
+    <trd>&a_D;&f_y;&a_A;&a_f;&a_t;</trd>,
+    <trd>&a_m;&a_h;&a_m;&a_A;&a_n;&f_y;</trd>
+  </trdgrp>
+  <trd lng="fr">festin</trd>
+  <trdgrp lng="hu">
+    <trd>lakoma</trd>,
+    <trd>d&aacute;rid&oacute;</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>festijn</trd>,
+    <trd>feestmaal</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>banquete</trd>,
+    <trd>&aacute;gape</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_i;&c_r;</trd>,
+    <trd>&c_p;&c_i;&c_r;&c_u;&c_sh;&c_k;&c_a;</trd>,
+    <trd>&c_b;&c_a;&c_n;&c_k;&c_je;&c_t;</trd>
+  </trdgrp>
+  <trd lng="sk">hostina</trd>
+  <trd lng="tr">&scedil;&ouml;len</trd>
+</drv>
+
+<drv mrk="festen.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc>
+    <dif>
+      &Gcirc;ui <tld/>on.
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="frand.0i">frandi</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_b;&c_a;&c_l;&c_ja;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="cs">hodovat</trd>
+  <trdgrp lng="de">
+    <trd>tafeln</trd>,
+    <trd>schmausen</trd>,
+    <trd>an einem Bankett <ind>teilnehmen</ind></trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>banquet</trd>,
+    <trd>feast</trd>
+  </trdgrp>
+  <trd lng="fa">&a_d;&a_r; <ind>&a_D;&f_y;&a_A;&a_f;&a_t;</ind> &a_sh;&a_r;&f_k;&a_t; &f_k;&a_r;&a_d;&a_n;</trd>
+  <trd lng="fr">festoyer</trd>
+  <trdgrp lng="hu">
+    <trd>lakom&aacute;zik</trd>,
+    <trd>d&aacute;rid&oacute;zik</trd>
+  </trdgrp>
+  <trd lng="nl">tafelen</trd>
+  <trd lng="ru">&c_p;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>hodovať</trd>,
+    <trd>hostiť sa</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="festen.0estro">
+  <kap><tld/>estro</kap>
+  <snc>
+    <dif>
+      Gvidanto de la servado en <tld/>o:
+      <ekz>
+        la <tld/>estro gustumis la akvon, nun fari&gcirc;intan vino
+        <fnt><bib>NT</bib>, <lok>&Joh; 2:9</lok></fnt>
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="fr">
+    <trd>amphitryon</trd>,
+    <trd>ma&icirc;tre de banquet</trd>,
+    <trd>ma&icirc;tre d'h&ocirc;tel</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: festen.xml,v $
+Revision 1.22  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.21  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.20  2009/08/28 16:31:49  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.19  2009/08/27 16:31:35  revo
+Emmanuel Debanne: +trd tr
+
+Revision 1.18  2008/11/21 17:57:20  revo
+Wieland Pusch: entoj por unikode
+
+Revision 1.17  2008/10/31 17:30:39  revo
+Russ Williams: +trd en
+
+Revision 1.16  2007/05/20 16:31:43  revo
+Tulio Flores: +tr pt
+
+Revision 1.15  2004/10/08 16:31:23  revo
+Jean Hennebert: kor trd fr
+
+Revision 1.14  2004/04/20 17:24:43  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.13  2004/01/19 17:31:29  revo
+-->
+</vortaro>

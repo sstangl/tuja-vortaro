@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: sazank.xml,v 1.4 2009/09/30 16:30:48 revo Exp $">
+<kap>
+  <rad>sazank</rad>/o <fnt><bib>EncJap</bib></fnt>
+</kap>
+<drv mrk="sazank.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="sazank.0o.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      Malalta arbeto kultivata pro odoraj, blankaj &gcirc;is ru&gcirc;aj 
+      floroj kun unu  petalvico, specio el genro <ref 
+      tip="super" cel="kameli.0o.BOT">kamelio</ref>
+      (<trd lng="la">Camellia sasanqua</trd>):
+      <ekz>
+        la ra&ubreve;poj <klr>...</klr> &scirc;atas man&gcirc;i folion de teo, <tld/>o, 
+        kaj kamelio 
+        <fnt>
+          <aut>bonulo</aut>,
+          <vrk><url ref="http://bonulo.blog97.fc2.com/">
+          bone kaj malbone</url></vrk>,
+          <lok>2006-05-25</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en <klr>...</klr> vintro <tld/>o <klr>...</klr> elstaras kun 
+        belaj ru&gcirc;aj floroj
+        <fnt>
+          <aut>Vastalto</aut>,
+          <vrk><url
+          ref="http://www.vastalto.com/blog">Akvosfero</url></vrk>,
+          <lok>2008-01-07</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">cam&eacute;lia sasanqua</trd>
+  <trd lng="hu">szaszanka <ind>kam&eacute;lia</ind></trd>
+  <trd lng="it"><ind>camelia</ind> sasanqua</trd>
+  <trdgrp lng="nl">
+    <trd>kerstcamellia</trd>,
+    <trd>kleine <ind>camellia</ind></trd>
+  </trdgrp>
+  <trd lng="pl">kamelia ma&lstroke;a</trd>
+</drv>
+</art>
+
+<!--
+$Log: sazank.xml,v $
+Revision 1.4  2009/09/30 16:30:48  revo
+Antonio Codazzi: +trd it
+
+Revision 1.3  2009/08/30 16:30:49  revo
+Paul Peeraerts: +trd nl +trd pl
+
+Revision 1.2  2009/03/19 18:17:01  revo
+Jozefo Horvath: +trd hu, kor. "kuktivata"
+
+Revision 1.1  2008/09/11 16:30:59  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

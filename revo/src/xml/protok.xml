@@ -1,0 +1,215 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: protok.xml,v 1.24 2015/07/04 08:37:42 revo Exp $">
+<kap>
+  <ofc>1</ofc> <rad>protokol</rad>/o
+</kap>
+<drv mrk="protok.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="protok.0o.raporto">
+    <dif>
+      Oficiala <ref tip="super" cel="raport.0o.dokumenta">raporto</ref>,
+      per
+      kiu rajtigita a&ubreve;
+      kompetenta persono konstatas, kion li faris, vidis, a&ubreve;skultis:
+      <ekz>
+        fari <tld/>on pri &scirc;telado, arestado;
+      </ekz>
+      <ekz>
+        legi, akcepti la <tld/>on de la anta&ubreve;a kunsido.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="akt.0o.JUR">akto</ref>
+    </refgrp>
+    <trd lng="de">Mitschrift</trd>
+    <trd lng="en">minutes <klr>(of a meeting)</klr></trd>
+    <trdgrp lng="es">
+      <trd><ind>acta</ind> de sesi&oacute;n</trd>,
+      <trd>bit&aacute;cora</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>protocole</trd>,
+      <trd>proc&egrave;s verbal</trd>
+    </trdgrp>
+    <trd lng="hu">jegyz&odblac;k&ouml;nyv</trd>
+    <trdgrp lng="nl">
+      <trd>protocol</trd>,
+      <trd>proces verbaal</trd>,
+      <trd>notulen</trd>
+    </trdgrp>
+    <trdgrp lng="pt">
+      <trd>protocolo <klr tip="amb">(relat&oacute;rio)</klr></trd>,
+      <trd>ata</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="protok.0o.KOMP.raporto">
+    <uzo tip="fak">KOMP</uzo>
+    <dif>
+      Dosiero pri dialoga <ref tip="malprt"
+      cel="seanc.0o.komp">seanco</ref>, pri tradukado de programo,
+      pri transakcio kun datumbazo ktp &#8208; speco de raporto en
+      kiu programo notas eventojn okazintajn dum &gcirc;ia rulado.
+    </dif>
+    <trd lng="de">Protokolldatei</trd>
+    <trd lng="en">log file</trd>
+    <trdgrp lng="es">
+      <trd>registro</trd>,
+      <trd>registro de eventos<klr> (log)</klr></trd>,
+      <trd>fichero de registro<klr> (log)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>fichier log</trd>,
+      <trd>fichier de trace<klr> (log)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>napl&oacute;&aacute;llom&aacute;ny</trd>,
+      <trd>log file</trd>
+    </trdgrp>
+    <trd lng="nl">logbestand</trd>
+  </snc>
+  <snc mrk="protok.0o.KOMP.regularo">
+    <uzo tip="fak">KOMP</uzo>
+    <dif>
+      Aro da reguloj pri formo kaj maniero de datumtransmeto en
+      <ref tip="malprt" cel="ret.komputila0o">komputila reto</ref>:
+      <ekz>
+        la retumado en <ref cel="ttt.0">TTT</ref> estas bazita sur
+        la <tld/>o <ctl>HTTP</ctl>.
+      </ekz>
+    </dif>
+    <trd lng="en">communications <ind>protocol</ind></trd>
+    <trdgrp lng="es">
+      <trd>protocolo<klr> (de transmisi&oacute;n)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>protocole<klr> (de transmission)</klr></trd>
+    </trdgrp>
+    <trd lng="hu">protocol</trd>
+    <trd lng="nl">protocol</trd>
+  </snc>
+  <trd lng="be">&c_p;&c_r;&c_a;&c_t;&c_a;&c_k;&c_o;&c_l;</trd>
+  <trdgrp lng="cs">
+    <trd>protokol</trd>,
+    <trd>zápis</trd>
+  </trdgrp>
+  <trd lng="de">Protokoll</trd>
+  <trd lng="ru">&c_p;&c_r;&c_o;&c_t;&c_o;&c_k;&c_o;&c_l;</trd>
+  <trdgrp lng="sk">
+    <trd>protokol</trd>,
+    <trd>zápisnica</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="protok.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>x</vspec></gra>
+  <snc>
+    <dif>
+      Fari <tld/>on pri:
+      <ekz>
+        tio ka&ubreve;zis grandan skandalon, pri kiu oni <tld/>is.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_r;&c_a;&c_t;&c_a;&c_k;&c_a;&c_l;&c_ja;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>protokolovat</trd>,
+    <trd>sepsat protokol</trd>,
+    <trd>zapisovat</trd>,
+    <trd>zaprotokolovat</trd>,
+    <trd>zapsat do protokolu</trd>,
+    <trd>zapsat do zápisu</trd>
+  </trdgrp>
+  <trd lng="de">protokollieren</trd>
+  <trdgrp lng="es">
+    <trd>levantar un <ind>acta</ind></trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>dresser un <ind>proc&egrave;s-verbal</ind></trd>,
+    <trd>verbaliser<klr> (dresser un proc&egrave;s-verbal)</klr></trd>
+  </trdgrp>
+  <trd lng="hu">jegyz&odblac;k&ouml;nyvet vesz fel</trd>
+  <trdgrp lng="nl">
+    <trd>in een <ind>protocol</ind> vastleggen</trd>,
+    <trd>notuleren</trd>
+  </trdgrp>
+  <trd lng="ru">&c_p;&c_r;&c_o;&c_t;&c_o;&c_k;&c_o;&c_l;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>protokolovať</trd>,
+    <trd>zapísať</trd>,
+    <trd>zápisnične zachytiť</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="protok.viv0o">
+  <kap>viv<tld/>o</kap>
+  <snc>
+    <dif>
+      Listo de oficoj kaj profesiaj atingoj kiujn dungoto a&ubreve;
+      kandidato prezentas al la koncerna instanco:
+      <ekz>
+        la novaj kandidatoj de la akademiaj elektoj devas
+        prezenti, krom sia konsento kandidati, anka&ubreve; sian
+        viv<tld/>on.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_r;&c_e;&c_z;&c_ju;&c_m;&c_e; <klr>(&c_p;&c_r;&c_a;&c_c;&c_o;&c_w;&c_n;&c_a;&c_je;)</klr></trd>
+  <trd lng="cs">úřední životopis</trd>
+  <trdgrp lng="en">
+    <trd>curriculum vitae</trd>, <trd>resume</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>curriculum vitae</trd>,
+    <trd>curr&iacute;culo</trd>,
+    <trd>CV</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>curriculum vitae</trd>,
+    <trd>CV</trd>
+  </trdgrp>
+  <trd lng="hu">szakmai <ind>&ouml;n&eacute;letrajz</ind></trd>
+  <trd lng="nl">curriculum vitae</trd>
+  <trdgrp lng="pt">
+    <trd>curriculum vitae</trd>,
+    <trd>curr&iacute;culo</trd>
+  </trdgrp>
+  <trd lng="ru">&c_p;&c_o;&c_s;&c_l;&c_u;&c_zh;&c_n;&c_o;&c_j; &c_s;&c_p;&c_i;&c_s;&c_o;&c_k;</trd>
+  <trd lng="sk">úradný životopis</trd>
+</drv>
+</art>
+<!--
+$Log: protok.xml,v $
+Revision 1.24  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.23  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.22  2014/11/01 20:10:26  revo
+Guillermo Molleda Jimena: trd es
+
+Revision 1.21  2014/10/09 11:10:27  revo
+Guillermo Molleda Jimena: vivoprotokolo -> vivprotokolo
+
+Revision 1.20  2014/10/08 12:10:31  revo
+Guillermo Molleda Jimena: trd es
+
+Revision 1.19  2009/11/07 17:31:08  revo
+Paul Peeraerts: +nl
+
+Revision 1.18  2006/04/02 17:03:09  revo
+Tulio Flores: +tr pt
+
+Revision 1.17  2006/02/10 19:17:39  revo
+Jeromo Vasxe: movis 1 misloka trd
+
+Revision 1.16 2006/02/02 17:33:13 revo
+Tulio Flores: +trd pt
+
+Revision 1.15 2004/08/18 16:32:05 revo
+-->
+</vortaro>

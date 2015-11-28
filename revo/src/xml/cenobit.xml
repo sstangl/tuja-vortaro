@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+  <art mrk="$Id: cenobit.xml,v 1.8 2015/07/04 08:37:32 revo Exp $">
+    <kap>
+      <rad>cenobit</rad>/o <fnt><bib>PIV1</bib></fnt>
+    </kap>
+
+    <drv mrk="cenobit.0o">
+      <kap><tld/>o</kap>
+      <uzo tip="fak">REL</uzo>
+      <snc>
+    	<dif>
+    	  <ref tip="super" cel="monahx.0o">Mona&hcirc;o</ref> vivanta en
+          komunumo, en komuna lo&gcirc;ejo:
+    	  <ekz>
+    	    rezidejo de <tld/>inoj, kun abundo da &ccirc;ambroj ekstreme puraj
+    	    <fnt><bib>RugxDom</bib> <lok>&ccirc;apitro 58a, p. 279a</lok></fnt>.
+    	  </ekz>
+    	</dif>
+    	<refgrp tip="vid">
+    	  <ref cel="ermit.0o.REL">ermito <sncref/></ref>
+    	</refgrp>
+      </snc>
+  <trd lng="ca">cenobita</trd>
+  <trdgrp lng="cs">
+    <trd>cenobita</trd>,
+    <trd>poustevník</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+         <trd>Klosterm&ouml;nch</trd>,
+         <trd>Z&ouml;nobit</trd>
+      </trdgrp>
+  <trdgrp lng="fr">
+    	<trd>c&eacute;nobite</trd>
+      </trdgrp>
+  <trdgrp lng="hu">
+         <trd>szerzetes</trd>,
+         <trd>c&ouml;nobita</trd>
+      </trdgrp>
+  <trd lng="it">cenobita</trd>
+  <trd lng="ru">&c_k;&c_i;&c_n;&c_o;&c_v;&c_i;&c_t;</trd>
+  <trdgrp lng="sk">
+    <trd>cenobita</trd>,
+    <trd>pustovník</trd>
+  </trdgrp>
+</drv>
+  </art>
+
+  <!--
+  $Log: cenobit.xml,v $
+  Revision 1.8  2015/07/04 08:37:32  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.7  2015/06/29 16:29:36  revo
+  aldono de trd sk per skripto de M. von Laer
+
+  Revision 1.6  2012/08/26 11:10:24  revo
+  Marc Rausell: ++ trd ca
+
+  Revision 1.5  2009/05/04 16:32:12  revo
+  Antonio Codazzi: +trd it
+
+  Revision 1.4  2003/03/21 17:31:02  revo
+  Jozefo Horvath: +trd hu
+
+  Revision 1.3  2002/11/30 17:34:05  revo
+  Ulrich Fellmann: + 2 trd de
+
+  Revision 1.2  2002/11/29 17:30:55  revo
+  Sergio Pokrovskij: +trd=ru
+
+  Revision 1.1  2002/11/11 17:31:11  revo
+  Jeromo Vasxe: nova artikolo
+
+  -->
+</vortaro>

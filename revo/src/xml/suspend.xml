@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: suspend.xml,v 1.6 2015/07/04 08:37:44 revo Exp $">
+<kap>
+  <rad>suspend</rad>/i <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="suspend.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="suspend.0i.JUR">
+    <uzo tip="fak">JUR</uzo>
+    <dif>
+      Portempe senfunkciigi, tamen ne eksigante a&ubreve; nuligante:
+      <ekz>
+        la estrino <klr>...</klr> <tld/>is la instruiston
+        <fnt>
+          <aut>J. J. Santos</aut>,
+          <vrk>Diantoj ... kaj dornoj</vrk>,
+          <bib>Monato</bib>,
+          <lok>jaro 2007a, numero 8-9a, p. 8-9a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">suspendovat</trd>
+  <trd lng="en">suspend<klr tip="amb"> (legal)</klr></trd>
+  <trdgrp lng="fr">
+    <trd>relever de ses fonctions</trd>,
+    <trd>suspendre<klr> (interdire)</klr></trd>
+  </trdgrp>
+  <trd lng="it">sospendere<klr tip="amb"> (giur.)</klr></trd>
+  <trd lng="pt">suspender</trd>
+  <trd lng="sk">suspendovať</trd>
+</drv>
+
+<drv mrk="suspend.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="suspend.0o.JUR">
+    <dif>
+      Portempa senfunkciigo a&ubreve; &ccirc;esigo:
+      <ekz>
+        Rusio nepre per <tld/>o de la traktato faris la averton, ke 
+        Rusio ne kunlaboros plu kun NATO
+        <fnt>
+          <aut>&Ccirc;ina Radio Internacia</aut>,
+          <vrk><url
+          ref="http://esperanto.cri.cn/161/2007/07/27/1@66432.htm">
+          Rusio montras sin necedema...</url></vrk>,
+          <lok>2007-07-27</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>pozastavení výkonu funkce</trd>,
+    <trd>suspendace</trd>
+  </trdgrp>
+  <trd lng="en">suspension<klr tip="amb"> (legal)</klr></trd>
+  <trdgrp lng="fr">
+    <trd>cessation</trd>,
+    <trd>suspension<klr> (cessation)</klr></trd>
+  </trdgrp>
+  <trd lng="it">sospensione<klr tip="amb"> (giur.)</klr></trd>
+  <trd lng="pt">suspens&atilde;o</trd>
+  <trd lng="sk">pozastavenie výkonu funkcie</trd>
+</drv>
+</art>
+
+<!--
+$Log: suspend.xml,v $
+Revision 1.6  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.5  2015/06/29 16:33:25  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.4  2010/03/26 17:30:33  revo
+Russ Williams: +trd en
+
+Revision 1.3  2009/10/08 16:31:42  revo
+Antonio Codazzi: +trd it
+
+Revision 1.2  2007/09/09 16:30:20  revo
+Tulio Flores: +tr pt
+
+Revision 1.1  2007/09/03 16:30:13  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

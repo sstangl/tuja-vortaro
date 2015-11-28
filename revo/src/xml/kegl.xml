@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: kegl.xml,v 1.19 2015/07/04 08:37:37 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>kegl</rad>/o
+</kap>
+<drv mrk="kegl.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="kegl.0o.SPO">
+    <dif>
+      &Ccirc;iu el la lignaj kolonetoj, per kiuj oni ludas <tld/>oludon:
+      <ekz>
+        &leftquot;mi ludis <tld/>ojn,&rightquot; respondis li, &leftquot;kaj perdis kelkajn helerojn&rightquot;
+        <fnt><bib>ElektFab</bib>, <lok>Fabelo pri iu, kiu migris por
+        ekkoni timon</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_k;&c_je;&c_g;&c_l;&c_ja;</trd>
+  <trd lng="br">kilh</trd>
+  <trd lng="cs">kuželka</trd>
+  <trd lng="de">Kegel</trd>
+  <trdgrp lng="en">
+    <trd>skittle</trd>,
+    <trd>ninepin</trd>,
+    <trd>bowling pin</trd>
+  </trdgrp>
+  <trd lng="es">bolo</trd>
+  <trd lng="fr">quille<klr tip="ind"> (pour jouer)</klr></trd>
+  <trd lng="hu">tekeb&aacute;bu</trd>
+  <trd lng="nl">kegel</trd>
+  <trd lng="ru">&c_k;&c_je;&c_g;&c_l;&c_ja;</trd>
+  <trd lng="sk">kolok <klr>(v hre)</klr></trd>
+  <trd lng="sv">k&auml;gla</trd>
+</drv>
+
+<drv mrk="kegl.0aro">
+  <kap><tld/>aro</kap>
+  <snc mrk="kegl.0aro.SPO">
+    <dif>
+      Tuto de la <tld/>oj kaj globoj, necesaj por ludi.
+    </dif>
+  </snc>
+  <adm>
+    La anta&ubreve;a difino tekstis "ludo per kegloj", kio eble
+    influis kelkajn tradukojn.
+    <aut>MB</aut>
+  </adm>
+  <trd lng="be">&c_k;&c_je;&c_g;&c_l;&c_ib; <klr>(&c_g;&c_u;&c_l;&c_mol;&c_n;&c_ja;)</klr></trd>
+  <trd lng="br">c'hoari gilho&ugrave;</trd>
+  <trdgrp lng="en">
+    <trd>skittles</trd>,
+    <trd>ninepins</trd>,
+    <trd>bowling pin</trd>,
+  </trdgrp>
+  <trd lng="fr">jeu de quilles<klr tip="amb"> (ensemble de
+  quilles)</klr></trd>
+  <trd lng="hu">tekej&aacute;t&eacute;k</trd>
+  <trd lng="nl">kegelspel</trd>
+  <trd lng="ru">&c_k;&c_je;&c_g;&c_l;&c_i; <klr>(&c_i;&c_g;&c_r;&c_a;)</klr></trd>
+  <trd lng="sk">kolkárske náradie</trd>
+  <trd lng="cs">kuželkářské nářadadí</trd>
+</drv>
+
+<drv mrk="kegl.0oludo">
+  <kap><tld/>oludo</kap>
+  <snc mrk="kegl.0oludo.SPO">
+    <uzo tip="fak">SPO</uzo>
+    <dif>
+      Ludo, en kiu oni penas vete renversi <tld/>ojn &jcirc;etante inter ilin
+      globon:
+      <ekz>
+        pli ol 20 esperantistoj <klr>...</klr> partoprenis grandan turniron
+        en <tld/>oludo
+        <fnt>
+        <aut>-</aut>,
+        <vrk>Adonido Rat&iacute;&scaron;kovice</vrk>,
+        <lok><url ref="http://www.volny.cz/malovec/start201.htm">Starto
+        2001-02, (199)</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">kuželky</trd>
+  <trd lng="de">Kegelspiel</trd>
+  <trd lng="fr">jeu de quilles</trd>
+  <trd lng="sk">kolky <klr>(hra)</klr></trd>
+</drv>
+</art>
+<!--
+$Log: kegl.xml,v $
+Revision 1.19  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2006/01/24 17:31:13  revo
+Jeromo Vasxe: + ~oludo, ~o + 1 ekz
+
+Revision 1.16 2005/04/29 16:33:27 revo
+Alan ar Gall: +trd br
+
+Revision 1.15 2005/04/14 16:34:40 revo
+Raul Salinas Monteagudo: +trd es
+
+Revision 1.14 2004/12/13 17:31:35 revo
+Marc Bavant: mod trd fr, +uzo SPO; ~aro: mod dif
+
+Revision 1.13 2004/03/18 17:31:40 revo
+Jozefo Horvath: +trd hu
+
+Revision 1.12 2004/01/08 17:30:51 revo
+Emmanuel Debanne: +trd fr
+
+Revision 1.11 2002/10/27 17:12:25 revo
+Dmitri Gabinski: +trd be
+
+Revision 1.10 2001/11/11 19:14:59 revo
+-->
+</vortaro>

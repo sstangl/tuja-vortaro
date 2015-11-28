@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: blefarit.xml,v 1.3 2014/11/17 10:10:13 revo Exp $">
+<kap>
+  <rad>blefarit</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="blefarit.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="blefarit.0o.MED">
+    <dif>
+      Palpebr-<ref tip="lst" cel="inflam.0o"
+      lst="voko:malsanoj">inflamo</ref>:
+      <ekz>
+        al la plej oftaj komplika&jcirc;oj apartenas la brulumo de la palpebra
+        rando &ndash; <tld/>o
+        <fnt><bib>FK</bib>, <lok>5, kronika katara
+        konjunktivito</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="en">blepharitis</trd>
+  <trd lng="fr">bl&eacute;pharite</trd>
+  <trdgrp lng="id">
+    <trd>blefaritis</trd>,
+    <trd><ind>radang</ind> kelopak mata</trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log: blefarit.xml,v $
+Revision 1.3  2014/11/17 10:10:13  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.2  2013/11/16 20:10:23  revo
+Jeromo Vasxe: + ref lst
+
+Revision 1.1  2013/11/13 02:10:38  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

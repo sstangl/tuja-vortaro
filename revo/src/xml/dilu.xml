@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: dilu.xml,v 1.20 2015/07/04 08:37:32 revo Exp $">
+<kap>
+  <rad>dilu</rad>/i
+</kap>
+
+<drv mrk="dilu.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <uzo tip="fak">FIZ</uzo>
+  <uzo tip="fak">KEM</uzo>
+  <snc>
+    <dif>
+      <ref tip="super" cel="koncen.mal0i">Malkoncentri</ref>
+      solva&jcirc;on per solvilo:
+      <ekz>
+        la analizenda materialo <klr>(urino)</klr> estis malnova kaj
+        tre <tld/>ita
+        <fnt><bib>UrdHadda</bib>, <lok>p. 27</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_r;&c_a;&c_z;&c_b;&c_a;&c_w;&c_l;&c_ja;&c_c;&c_mol;
+  </trd>
+  <trdgrp lng="cs">
+    <trd>rozředit</trd>,
+    <trd>ředit</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>verd&uuml;nnen</trd>,
+    <trd>verw&auml;ssern</trd>
+  </trdgrp>
+  <trd lng="en">dilute</trd>
+  <trd lng="es">diluir</trd>
+  <trdgrp lng="fr">
+    <trd>diluer</trd>,
+    <trd>allonger<klr tip="ind"> (diluer)</klr></trd>,
+    <trd>couper<klr tip="ind"> (diluer)</klr></trd>,
+    <trd>d&eacute;layer</trd>,
+    <trd>&eacute;tendre<klr tip="ind"> (diluer)</klr></trd>
+  </trdgrp>
+  <trd lng="nl">verdunnen</trd>
+  <trdgrp lng="pl">
+    <trd>rozcie&nacute;cza&cacute;</trd>,
+    <trd>rozrzedza&cacute;</trd>,
+    <trd>rozwadnia&cacute;</trd>,
+    <trd>rozpuszcza&cacute;</trd>,
+    <trd>rozrabia&cacute;<klr tip="amb">
+    (rozpuszcza&cacute;)</klr></trd>
+  </trdgrp>
+  <trd lng="pt">diluir</trd>
+  <trdgrp lng="ru">
+    <trd>&c_r;&c_a;&c_z;&c_b;&c_a;&c_v;&c_l;&c_ja;&c_t;&c_mol;</trd>,
+    <trd>&c_r;&c_a;&c_z;&c_zh;&c_i;&c_zh;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>riediť</trd>,
+    <trd>rozriediť</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="dilu.mal0i">
+  <kap>mal<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <ref tip="ant" cel="dilu.0i"><tld/>i</ref>
+    <ref tip="dif" cel="koncen.0i.KEM">koncentri <sncref/></ref>
+  </snc>
+  <trdgrp lng="de">
+    <trd>eindicken</trd>,
+    <trd>konzentieren</trd>,
+    <trd>reduzieren</trd>
+  </trdgrp>
+  <trd lng="en">concentrate</trd>
+  <trdgrp lng="fr">
+    <trd>concentrer<klr tip="ind"> (chim.)</klr></trd>,
+    <trd>r&eacute;duire<klr tip="ind"> (tr., cuis.)</klr></trd>
+  </trdgrp>
+  <trd lng="nl">indikken</trd>
+  <trdgrp lng="pl">
+    <trd>zag&eogonek;szcza&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_k;&c_o;&c_n;&c_c;&c_je;&c_n;&c_t;&c_r;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_s;&c_g;&c_u;&c_shch;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: dilu.xml,v $
+Revision 1.20  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2010/01/18 17:31:45  revo
+Russ Williams: +trd en
+
+Revision 1.17  2009/10/29 17:30:43  revo
+Paul Peeraerts: +nl
+
+Revision 1.16  2009/06/16 16:31:25  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.15  2009/02/11 19:42:46  revo
+Sebastian Cyprych: -fusxaj linirompoj en trd
+
+Revision 1.14  2008/05/28 20:07:53  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.13  2007/08/05 16:30:48  revo
+Tulio Flores: +tr pt
+
+Revision 1.12  2007/06/20 16:30:44  revo
+Wieland Pusch: +trd de
+
+Revision 1.11  2005/04/24 16:32:38  revo
+-->
+</vortaro>

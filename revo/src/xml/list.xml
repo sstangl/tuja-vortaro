@@ -1,0 +1,250 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: list.xml,v 1.22 2015/07/04 08:37:38 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>list</rad>/o
+</kap>
+
+<drv mrk="list.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="list.0o.KOMUNE">
+    <dif>
+      Serio da nomoj de personoj a&ubreve; aferoj, diritaj a&ubreve; skribitaj unu
+      post
+      alia:
+      <ekz>
+        <tld/>o da kandidatoj, da varoj;
+      </ekz>
+      <ekz>
+        prez<tld/>o;
+      </ekz>
+      <ekz>
+        mi aran&gcirc;as <tld/>on en alfabeta ordo
+        <fnt><bib>Kiso</bib>, <lok>poetoj kaj homoj</lok></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="regist.0o.dokumento">registro <sncref/></ref>,
+      <ref cel="tabel.0o">tabelo</ref>
+    </refgrp>
+    <trd lng="de">Auflistung</trd>
+  </snc>
+  <snc mrk="list.0o.KOMP">
+    <uzo tip="fak">KOMP</uzo>
+    <dif>
+      Tre elasta datumstrukturo prezentebla kiel sinsekvo da
+      objektoj, &ccirc;iu el kiuj povas esti simpla datumo
+      (<ctl>atoma</ctl> listano) a&ubreve; listo. Malkiel en ordinara
+      <ref cel="tabel.0o.KOMP">tabelo</ref> oni povas
+      alpendigi novajn listanojn a&ubreve; forpreni iujn enestantajn:
+      <ekz>
+        prezenti arbon per <tld/>o.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_mol;&c_p;&c_ib;&c_s;</trd>
+  <trdgrp lng="cs">
+    <trd>index</trd>,
+    <trd>lista</trd>,
+    <trd>rejstřík</trd>,
+    <trd>seznam</trd>,
+    <trd>soupis</trd>,
+    <trd>výkaz</trd>
+  </trdgrp>
+  <trd lng="de">Liste</trd>
+  <trd lng="el">&lambda;&jota_ton;&sigma;&tau;&alfa;</trd>
+  <trd lng="en">list</trd>
+  <trd lng="es">lista</trd>
+  <trd lng="fr">liste</trd>
+  <trd lng="he">&resh;&shin;&yod;&mem;&he;</trd>
+  <trdgrp lng="hu">
+    <trd>jegyz&eacute;k</trd>,
+    <trd>lista</trd>,
+    <trd>lajstrom</trd>
+  </trdgrp>
+  <trd lng="ku">l&icirc;ste</trd>
+  <trd lng="nl">lijst</trd>
+  <trd lng="pt">lista</trd>
+  <trd lng="ru">&c_s;&c_p;&c_i;&c_s;&c_o;&c_k;</trd>
+  <trdgrp lng="sk">
+    <trd>index</trd>,
+    <trd>register</trd>,
+    <trd>súpis</trd>,
+    <trd>výkaz</trd>,
+    <trd>zoznam</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="list.0ero">
+  <kap><tld/>ero</kap>
+  <snc mrk="list.0ero.KOMUNE">
+    <dif>
+      Unuopa elemento en <tld/>o.
+    </dif>
+  </snc>
+  <trd lng="cs">bradáček</trd>
+  <trd lng="de">Listenelement</trd>
+  <trd lng="es">elemento de una lista</trd>
+  <trd lng="fr">&eacute;l&eacute;ment de liste</trd>
+  <trd lng="sk">listerióza</trd>
+</drv>
+
+<drv mrk="list.0igi">
+  <kap><tld/>igi</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="list.0igi.KOMUNE">
+    <dif>
+      Starigi <tld/>on de iuj aferoj, objektoj:
+      <ekz>
+        estas bone <tld/>igi tie &ccirc;i <klr>...</klr> tradukitajn verkojn
+        <fnt><bib>Plumamikoj</bib>, <lok>tradukoj</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>uspořádat do seznamu</trd>,
+    <trd>vyjmenovat</trd>
+  </trdgrp>
+  <trd lng="de">auflisten</trd>
+  <trdgrp lng="es">
+    <trd>enumerar</trd>,
+    <trd>listar</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>&eacute;num&eacute;rer</trd>,
+    <trd>lister</trd>
+  </trdgrp>
+  <trd lng="sk">usporiadať do zoznamu</trd>
+</drv>
+
+<drv mrk="list.dissendo0o">
+  <kap>dissendo<tld/>o</kap>
+  <snc mrk="list.dissendo0o.KOMP">
+    <uzo tip="fak">KOMP</uzo>
+    <dif>
+      <ref cel="forum.0o.komp">Forumo</ref> en
+      <ref tip="malprt" cel="ret.komputila0o">komputila reto</ref>
+      funkcianta tiel, ke la mesa&gcirc;ojn senditajn al speciala retadreso
+      tiea servilo a&ubreve;tomate plusendas al la <ctl>listanoj</ctl>,
+      a&ubreve; <ctl>abonantoj</ctl> (kies retadresojn &gcirc;i prenas en la
+      koncerna <ctl>dissenda listo</ctl>):
+      <ekz>
+        informoj pri la dissendo<tld/>o de ReVo troveblas &ccirc;e
+        <fnt><url>http://www.uni-leipzig.de/esperanto/voko/revo/dok/revolist.html</url></fnt>
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_mol;&c_p;&c_ib;&c_s; &c_r;&c_a;&c_s;&c_s;&c_y;&c_l;&c_k;&c_ib;</trd>
+  <trd lng="cs">seznam adres k rozeslání</trd>
+  <trdgrp lng="de">
+    <trd>Mailliste</trd>,
+    <trd>Versandliste</trd>
+  </trdgrp>
+  <trd lng="el">&lambda;&jota_ton;&sigma;&tau;&alfa; &tau;&alfa;&chi;&ypsilon;&delta;&rho;&omikron;&my;&epsilon;&jota;&omikron;&ypsilon_ton;</trd>
+  <trd lng="en">mailing list</trd>
+  <trd lng="es">lista de distribuci&oacute;n</trd>
+  <trd lng="fr">liste de diffusion</trd>
+  <trd lng="he">&resh;&shin;&yod;&mem;&tav; &tav;&pe;&vav;&tsadi;&he;</trd>
+  <trd lng="hu">levelez&eacute;si lista</trd>
+  <trd lng="nl">verzendlijst</trd>
+  <trd lng="ru">&c_s;&c_p;&c_i;&c_s;&c_o;&c_k; &c_r;&c_a;&c_s;&c_s;&c_y;&c_l;&c_k;&c_i;</trd>
+  <trdgrp lng="sk">
+    <trd>mailov&aacute; <ind>konferencia</ind></trd>,
+    <trd>zoznam adries na rozoslanie</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="list.en0igi">
+  <kap>en<tld/>igi</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="list.en0igi.KOMUNE">
+    <dif>
+      Enmeti en <tld/>on:
+      <ekz>
+        li iris por en<tld/>igi sin inter laborser&ccirc;antoj
+        <fnt><bib>InfanTorent2</bib>, <lok>unua parto, &ccirc;apitro
+        2a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>zapsat do seznamu</trd>,
+    <trd>zařadit do seznamu</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>agregar a la <ind>lista</ind></trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>ajouter &agrave; la <ind>liste</ind></trd>
+  </trdgrp>
+  <trd lng="sk">zapísať do zoznamu</trd>
+</drv>
+
+<drv mrk="list.ligil0o">
+  <kap>ligil<tld/>o</kap>
+  <snc mrk="list.ligil0o.KOMP">
+    <uzo tip="fak">KOMP</uzo>
+    <dif>
+      <tld lit="L"/>o realigita tiel, ke &ccirc;iu &gcirc;ia ano entenas
+      ligilon (referencon) al la tujsekva ano (unudirekta
+      ligil<tld/>o), a&ubreve; du ligilojn al la tujsekva ano kaj al la
+      &jcirc;usanta&ubreve;a (amba&ubreve;direkta ligil<tld/>o). La lasta listano
+      povas havi nulan (vakuan) referencon, a&ubreve; referenci la
+      komencon (ringa ligil<tld/>o).
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>seznam dat</trd>,
+    <trd>soubor dat</trd>
+  </trdgrp>
+  <trd lng="de">verkettete <ind>Liste</ind></trd>
+  <trd lng="en">linked list</trd>
+  <trd lng="es">lista enlazada</trd>
+  <trd lng="he">&resh;&shin;&yod;&mem;&he; &mem;&qof;&vav;&shin;&resh;&tav;</trd>
+  <trdgrp lng="hu">
+    <trd>kapcsolt lista</trd>,
+    <trd>l&aacute;ncolt lista</trd>
+  </trdgrp>
+  <trd lng="pt">lista encadeada</trd>
+  <trd lng="ru">&c_c;&c_je;&c_p;&c_n;&c_o;&c_j; &c_s;&c_p;&c_i;&c_s;&c_o;&c_k;</trd>
+  <trdgrp lng="sk">
+    <trd>sp&aacute;jan&yacute; <ind>zoznam</ind></trd>,
+    <trd>zoznam dát</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: list.xml,v $
+Revision 1.22  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.21  2015/06/29 16:33:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.20  2014/11/01 09:10:17  revo
+Guillermo Molleda Jimena: trd es
+
+Revision 1.19  2009/09/01 04:54:06  revo
+Emmanuel Debanne: +trd ku
+
+Revision 1.18  2007/05/05 16:30:37  revo
+Wieland Pusch: +trd de
+
+Revision 1.17  2005/10/31 17:31:16  revo
+Jeromo Vasxe: + ~ero ~igi en~igi, ~o + 1 ekz, + mrk, + 1 trd fr
+
+Revision 1.16 2004/05/26 16:32:41 revo
+Jozefo Horvath: +trd hu
+
+Revision 1.15 2003/05/09 16:31:49 revo
+Allon Rothfarb: +trd he
+
+Revision 1.14 2003/05/08 16:30:56 revo
+Dmitri Gabinski: +trd be
+
+Revision 1.13 2003/02/04 17:31:31 revo
+-->
+</vortaro>

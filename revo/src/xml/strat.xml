@@ -1,0 +1,222 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: strat.xml,v 1.29 2015/11/02 06:10:14 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>strat</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="strat.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="strat.0o.TRA">
+    <uzo tip="fak">TRA</uzo>
+    <dif>
+      <ref tip="super" cel="voj.0o.TRA">Vojo</ref> inter konstrua&jcirc;oj en
+      urbo a&ubreve; vila&gcirc;o:
+      <ekz>
+        oni promenas en, sur la <tld/>o<fnt>Z</fnt>,
+      </ekz>
+      <ekz>
+        tra la <tld/>oj;
+      </ekz>
+      <ekz>
+        oni lo&gcirc;as &ccirc;e <tld/>o, havas domon, lo&gcirc;ejon &ccirc;e a&ubreve; sur
+        <tld/>o;
+      </ekz>
+      <ekz>
+        mi skribas tiun leteron en la <tld/>o;
+      </ekz>
+      <ekz>
+        li elkondukis &scirc;in sur la <tld/>on<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_v;&c_u;&c_l;&c_ib;&c_c;&c_a;</trd>
+  <trd lng="bg">&c_u;&c_l;&c_i;&c_c;&c_a;</trd>
+  <trd lng="ca">carrer</trd>
+  <trd lng="cs">ulice</trd>
+  <trd lng="de">Stra&szlig;e</trd>
+  <trd lng="en">street</trd>
+  <trd lng="es">calle</trd>
+  <trd lng="fr">rue</trd>
+  <trd lng="he">&resh;&het;&vav;&bet;</trd>
+  <trd lng="hu">utca</trd>
+  <trd lng="id">jalan</trd>
+  <trd lng="kk">&c_k;&#1257;&c_sh;&c_je;</trd>
+  <trd lng="nl">straat</trd>
+  <trd lng="oc">carri&egrave;ra</trd>
+  <trd lng="pl">ulica</trd>
+  <trd lng="pt">rua</trd>
+  <trd lng="ru">&c_u;&c_l;&c_i;&c_c;&c_a;</trd>
+  <trd lng="sk">ulica</trd>
+  <trd lng="tr">sokak</trd>
+  <trd lng="vo">s&uuml;t</trd>
+</drv>
+
+<drv mrk="strat.0ulino">
+  <kap><tld/>ulino</kap>
+  <uzo tip="stl">KOMUNE</uzo>
+  <snc mrk="strat.0ulino.AMOR">
+    <ref tip="dif" cel="prosti.0itino.AMOR">prostituitino</ref>
+      <ekz>
+        mia bona amikino en nia elementlerneja tempo
+        nun fari&gcirc;is <tld/>ulino
+        <fnt>
+          <aut>Ba Jin, trad. Li Shijun</aut>,
+          <vrk>A&ubreve;tuno en la Printempo</vrk>,
+          <lok>1980</lok>
+        </fnt>.
+      </ekz>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>nev&ecaron;stka</trd>,
+    <trd>pouli&ccaron;n&iacute; d&ecaron;vka</trd>,
+    <trd>&scaron;lapka</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>prostituta</trd>
+  </trdgrp>
+  <trd lng="fr">fille publique</trd>
+  <trd lng="id">[<ind>lacur</ind>] pelacur</trd>
+  <trdgrp lng="sk">
+    <trd>prostit&uacute;tka</trd>,
+    <trd>&lcaron;ahk&aacute; &zcaron;ena</trd>,
+    <trd>&scaron;&lcaron;apka</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="strat.cxef0o">
+  <kap>&ccirc;ef<tld/>o</kap>
+  <snc mrk="strat.cxef0o.TRA">
+    <uzo tip="fak">TRA</uzo>
+    <dif>
+      Pli granda a&ubreve; pli grava <ref tip="super" 
+      cel="strat.0o.TRA"><tld/>o</ref> en vila&gcirc;o, kvartalo, 
+      urbo:
+      <ekz>
+        ili iris silente, &gcirc;is ili atingis unu el la &ccirc;ef<tld/>oj
+        <fnt><bib>InfanTorent2</bib>, <lok>&ccirc;apitro 3a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="es">
+    <trd>avenida</trd>,
+    <trd>calle principal</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>art&egrave;re<klr> (rue)</klr></trd>,
+    <trd>grand-rue</trd>,
+    <trd>rue principale</trd>
+  </trdgrp>
+  <trd lng="hu">f&odblac;utca</trd>
+  <trdgrp lng="id">
+    <trd><ind>jalan</ind> protokol</trd>,
+    <trd><ind>jalan</ind> utama</trd>
+  </trdgrp>
+  <trd lng="nl">hoofdstraat</trd>
+</drv>
+
+<drv mrk="strat.flanko0o">
+  <kap>flanko<tld/>o, <var><kap>flanka <tld/>o</kap></var></kap>
+  <snc mrk="strat.flanko0o.TRA">
+    <uzo tip="fak">TRA</uzo>
+    <dif>
+      <ref tip="super" cel="strat.0o.TRA"><tld lit="S"/>o</ref>
+      flanke deiranta de alia, ordinare pli granda <tld/>o:
+      <ekz>
+        grupetoj da homoj kolekti&gcirc;is en kvietaj flanko<tld/>oj kaj 
+        kortoj, por priparoli, duonvo&ccirc;e, la strangajn,
+        maltrankviligajn nova&jcirc;ojn
+        <fnt><bib>I&scirc;tar</bib>, <lok>&ccirc;apitro 19a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="es">calle lateral</trd>
+  <trd lng="fr">rue lat&eacute;rale</trd>
+  <trdgrp lng="hu">
+  <trd>mell&eacute;kutca</trd>,
+  <trd>k&ouml;z</trd>
+</trdgrp>
+  <trd lng="nl">zijstraat</trd>
+</drv>
+
+<drv mrk="strat.sak0o">
+  <kap>sak<tld/>o</kap>
+  <snc mrk="strat.sak0o.TRA">
+    <uzo tip="fak">TRA</uzo>
+    <dif>
+      <ref tip="super" cel="strat.0o.TRA"><tld lit="S"/>o</ref>
+      kun fermita fino, enirebla kaj elirebla nur tra unu ekstremo:
+      <ekz>
+        &scirc;ajnas, ke mia a&ubreve;teto eniris sak<tld/>on
+        <fnt>
+          <aut>P. Gubbins</aut>,
+          <vrk>Dombestoj kaj sakstratoj</vrk>,
+          <bib>Monato</bib>,
+          <lok>1998:6, p. 28a</lok></fnt>
+      </ekz>
+    </dif>
+     <trdgrp lng="nl">
+    <trd>doodlopende <ind>straat</ind></trd>,
+    <trd>blinde <ind>straat</ind></trd>
+  </trdgrp>
+  </snc>
+  <snc mrk="strat.sak0o.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Senrezulta agado, sensolva problemo a&ubreve; situacio:
+      <ekz>
+        tradicia politiko estas sak<tld/>o
+        <fnt>
+          <aut>K. Berga</aut>,
+          <vrk><url ref="http://www.ipernity.com/blog/berga/87150">
+          De iam &gcirc;is nun...</url></vrk>,
+          <lok>2008-08-26</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="nl">
+      <trd>slop</trd>,
+      <trd>impasse</trd>
+    </trdgrp>
+  </snc>
+  <refgrp tip="vid">
+    <ref cel="ir.senel0ejo">senelirejo</ref>
+  </refgrp>
+  <trd lng="es">calle sin salida</trd>
+  <trd lng="fr">impasse</trd>
+  <trd lng="hu">zs&aacute;kutca</trd>
+  <trd lng="id"><ind>jalan</ind> buntu</trd>
+ 
+  <trd lng="sk">slep&aacute; uli&ccaron;ka</trd>
+  <trd lng="cs">slep&aacute; ulice</trd>
+</drv>
+</art>
+<!--
+$Log: strat.xml,v $
+Revision 1.29  2015/11/02 06:10:14  revo
+Guillermo Molleda Jimena: trd es
+
+Revision 1.28  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.27  2015/06/29 16:33:24  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.26  2014/10/28 04:11:04  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.25  2014/10/04 19:10:22  revo
+Jeromo Vasxe: + ~ulino
+
+Revision 1.24  2013/10/23 20:10:18  revo
+Benito Subejrano: + trd ca oc
+
+Revision 1.23  2009/10/29 17:31:14  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.22  2009/08/20 16:30:39  revo
+-->
+</vortaro>

@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: antigv.xml,v 1.5 2014/06/10 04:10:34 revo Exp $">
+<kap>
+  <rad>antigv</rad>/o
+</kap>
+
+<drv mrk="antigv.0o">
+  <kap>
+    <tld lit="A"/>o
+    <fnt>
+      <vrk>Oficiala Informo de AdE</vrk>,
+      <lok>numero 11</lok>
+    </fnt>
+  </kap>
+  <snc mrk="antigv.0o.GEOG">
+    <uzo tip="fak">GEOG</uzo>
+    <dif>
+      Insulo en la Centra Ameriko en Kariba Maro, en insularo Deventaj
+      Insuloj,
+      apartenanta al <ref tip="vid" cel="antigv.0o.sxtato.GEOG">Antigvo
+      kaj Barbudo</ref>.
+    </dif>
+    </snc>
+    <trd lng="bg">&c_A;&c_n;&c_t;&c_i;&c_g;&c_u;&c_a;</trd>
+    <trd lng="de">Antigua</trd>
+    <trd lng="fr">Antigua</trd>
+    <trd lng="id">Antigua</trd>
+    <trdgrp lng="pl">
+      <trd>Antigua</trd>
+    </trdgrp>
+</drv>
+
+<drv mrk="antigv.0o.sxtato">
+  <kap>
+    <tld lit="A"/>o kaj Barbudo
+    <fnt>
+      <vrk>Oficiala Informo de AdE</vrk>,
+      <lok>numero 11</lok>
+    </fnt>
+  </kap>
+  <snc mrk="antigv.0o.sxtato.GEOG">
+    <uzo tip="fak">GEOG</uzo>
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      Insula &scirc;tato en la Centra Ameriko en Kariba Maro kun 
+      &ccirc;efurbo Saint John's.
+      ISO-3166 kodo: AG.
+    </dif>
+    </snc>
+    <trd lng="bg">&c_A;&c_n;&c_t;&c_i;&c_g;&c_u;&c_a; &c_i; &c_B;&c_a;&c_r;&c_b;&c_u;&c_d;&c_a;</trd>
+    <trd lng="de">Antigua und Barbuda</trd>
+    <trd lng="fr">Antigua-et-Barbuda</trd>
+    <trd lng="id">Antigua dan Barbuda</trd>
+    <trdgrp lng="pl">
+      <trd>Antigua i Barbuda</trd>
+    </trdgrp>
+    <trd lng="pt">Antiga e Barbuda</trd>
+</drv>
+
+</art>
+
+<!--
+$Log: antigv.xml,v $
+Revision 1.5  2014/06/10 04:10:34  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.4  2014/05/08 18:10:48  revo
+Damien Brucker: +trd fr
+
+Revision 1.3  2013/02/10 14:10:12  revo
+Evandro Avellar: Traduko al Pt
+
+Revision 1.2  2009/05/07 16:30:45  revo
+Wieland Pusch: +trd bg,de
+
+Revision 1.1  2009/05/04 16:32:42  revo
+Sebastian Cyprych: nova artikolo
+
+-->
+</vortaro>

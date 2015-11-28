@@ -1,0 +1,135 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: romb.xml,v 1.21 2015/07/04 08:37:42 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>romb</rad>/o
+</kap>
+<drv mrk="romb.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="romb.0o.figuro">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>MatTerm</bib><lok>p. 17</lok></fnt>
+    <dif>
+      <ref cel="later.egal0a">Egallatera</ref> 
+      <ref tip="super" cel="later.kvar0o">kvarlatero</ref>:
+      <ekz>
+        <tld/>o estas &ccirc;iu kvarlatero, kies diagonaloj estas ortaj kaj 
+        kruci&gcirc;as &ccirc;e siaj mezoj.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="lozang.0o.figuro">lozan&gcirc;o;</ref>
+    <ref tip="super" cel="romboi.0o">romboido;</ref>
+    <ref tip="vid" cel="romboe.0o">romboedro.</ref>
+    <trd lng="be">&c_r;&c_o;&c_m;&c_b;</trd>
+    <trd lng="ca">rombe</trd>
+    <trdgrp lng="de">
+      <trd>Rhombus</trd>,
+      <trd>Raute</trd>
+    </trdgrp>
+    <trd lng="en">rhombus</trd>
+    <trd lng="es">rombo</trd>
+    <trd lng="fa">&a_l;&a_w;&a_z;&f_y;</trd>
+    <trdgrp lng="fr">
+      <trd>losange</trd>,
+      <trd>rhombe<klr tip="ind"> (losange)</klr></trd></trdgrp> 
+    <trd lng="es">rombo</trd>
+    <trd lng="hu">rombusz</trd>
+    <trd lng="nl">ruit</trd>
+    <trd lng="pl">romb</trd>
+    <trdgrp lng="pt">
+      <trd>losango</trd>,
+      <trd>rombo</trd>
+    </trdgrp>
+    <trd lng="ru">&c_r;&c_o;&c_m;&c_b;</trd>
+  </snc>
+  <snc mrk="romb.0o.ZOO">
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      Delikatgusta plata <tld/>oforma marfi&scirc;o samfamilia kiel 
+      ple&ubreve;ronekto (<trd lng="la">rhombus maximus</trd>):
+      <ekz>
+        ili tuj obeis, kaj nun alportis <klr>...</klr> <tld/>on sur
+        ar&gcirc;enta telero, kun sa&ubreve;co sur &gcirc;i
+        <fnt><bib>DOz</bib>, <lok>&leftquot;Ja&ccirc;jo la
+        Kale&scirc;o-&Ccirc;evalo&rightquot;</lok></fnt>.
+      </ekz>
+    </dif>
+    <adm>
+    Temas pri la PV-a difino. PIV modifis &gcirc;in, interalie
+    koncerne la latinan nomon (mi trovis nek unu, nek la 
+    alian nomon en enciklopedio).
+    Inter la ple&ubreve;ronektoformaj fi&scirc;oj mi tovis: "solea 
+    vulgaris" (ple&ubreve;ronekto), "psetta maxima" (fr. turbot)
+    kaj "scotophthalmus rhombus" (fr. barbue). Mi suspektas,
+    ke temas pri &ccirc;i-lasta, &ccirc;ar PIV1 diras "sen verukoj
+    en la ha&ubreve;to", dum "psetta maxima" ja havas verukojn.
+    </adm>
+    <trdgrp lng="ca">
+      <trd>r&egrave;mol</trd>,
+      <trd>tarbot</trd>
+    </trdgrp>
+    <trd lng="de">Glattbutt</trd>
+    <trd lng="hu">nagy <ind>rombuszhal</ind></trd>
+    <trd lng="nl">tarbot</trd>
+    <trd lng="ru">&c_t;&c_ju;&c_r;&c_b;&c_o;</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>kosočtverec</trd>,
+    <trd>rombus</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>kosoštvorec</trd>,
+    <trd>rombus</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="romb.0ofisxo">
+  <kap><tld/>ofi&scirc;o</kap>
+  <snc mrk="romb.0ofisxo.ZOO">
+    <uzo tip="fak">ZOO</uzo>
+    <ref cel="romb.0o.ZOO">rombo <sncref ref="romb.0o.ZOO"/></ref>
+  </snc>
+  <trdgrp lng="ca">
+    <trd>r&egrave;mol</trd>,
+    <trd>tarbot</trd>
+  </trdgrp>
+  <trd lng="de">Glattbutt</trd>
+  <trd lng="nl">tarbot</trd>
+  <trd lng="ru">&c_t;&c_ju;&c_r;&c_b;&c_o;</trd>
+</drv>
+</art>
+<!--
+$Log: romb.xml,v $
+Revision 1.21  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.19  2012/01/02 11:10:12  revo
+Marc Rausell: +trd ca
+
+Revision 1.18  2009/07/13 16:30:40  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.17  2006/02/24 17:32:19  revo
+Tulio Flores: +trd pt
+
+Revision 1.16  2005/12/22 17:31:32  revo
+Jeromo Vasxe: + 1 ekz
+
+Revision 1.15  2003/08/17 17:33:46  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.14  2003/02/16 17:32:55  revo
+Marc Bavant: mod ref al kvarlatero
+
+Revision 1.13  2003/01/22 17:34:15  revo
+Ulrich Fellmann: + 2 pliaj trd = de
+Revision 1.12  2003/01/02 17:50:48  revo
+Marc Bavant: +trd pl
+-->
+</vortaro>

@@ -1,0 +1,114 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: daktil.xml,v 1.27 2015/07/04 08:37:32 revo Exp $">
+<kap>
+  <ofc>*</ofc><rad>daktil</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="daktil.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="daktil.0o.KUI">
+    <uzo tip="fak">KUI</uzo>
+    <dif>
+      Longeca, dol&ccirc;a frukto de
+      <ref tip="malprt" cel="daktil.0arbo"><tld/>arbo</ref>.
+    </dif>
+    <rim mrk="daktil.0o.RIM_HOM">
+      <ref tip="hom" cel="daktil1.0o">Daktilo</ref> anka&ubreve;
+      estas nomo de versa ritmo.      
+    </rim>
+    <trd lng="be">&c_f;&c_ib;&c_n;&c_ib;&c_k;</trd>
+    <trd lng="br">datezenn<klr tip="ind"> (frouezhenn)</klr></trd>
+    <trd lng="ca">d&agrave;til</trd>
+    <trd lng="cs">datle</trd>
+    <trd lng="de">Dattel</trd>
+    <trd lng="en">date</trd>
+    <trd lng="es">d&aacute;ctil</trd>
+    <trd lng="fr">datte</trd>
+    <trd lng="he">&tav;&mem;&resh;</trd>
+    <trd lng="hu">datolya</trd>
+    <trd lng="id">kurma</trd>
+    <trd lng="nl">dadel<klr tip="ind"> (vrucht)</klr></trd>
+    <trd lng="pl">daktyl</trd>
+    <trd lng="pt">t&acirc;mara</trd>
+    <trd lng="ru">&c_f;&c_i;&c_n;&c_i;&c_k;</trd>
+  </snc>
+  <trd lng="cs">datle <klr>(plod)</klr></trd>
+  <trd lng="sk">datľa</trd>
+</drv>
+
+<drv mrk="daktil.0arbo">
+  <kap><tld/>arbo, <var><kap><tld/>ujo</kap></var></kap>
+  <snc mrk="daktil.0arbo.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      Genro el familio <ref tip="super" cel="palm.0oj">palmoj</ref>,
+      kies unu specio estas multe
+      kulturata pro la fruktoj
+      (<trd lng="la">Phoenix</trd>).
+    </dif>
+  </snc>
+  <trd lng="be">&c_f;&c_ib;&c_n;&c_ib;&c_k;&c_a;&c_v;&c_a;&c_ja; &c_p;&c_a;&c_l;&c_mol;&c_m;&c_a;</trd>
+  <trd lng="br">datezenn<klr tip="ind"> (gwezenn)</klr></trd>
+  <trd lng="ca">palmera datilera</trd>
+  <trdgrp lng="cs">
+    <trd>datlovn&iacute;k</trd>,
+    <trd>datlovník pravý</trd>,
+    <trd>datlová palma</trd>
+  </trdgrp>
+  <trd lng="de">Dattelpalme</trd>
+  <trdgrp lng="en">
+    <trd>date</trd>,
+    <trd>date palm</trd>
+  </trdgrp>
+  <trd lng="fr">dattier</trd>
+  <trdgrp lng="he">
+    <trd>&dalet;&qof;&lamed;</trd>,
+    <trd>&ayin;&ftsadi; &tav;&mem;&resh;</trd>
+  </trdgrp>
+  <trd lng="hu">datolyap&aacute;lma</trd>
+  <trdgrp lng="nl">
+    <trd>dadelpalm</trd>,
+    <trd>dadel<klr tip="ind"> (dadelpalm)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>daktylowiec</trd>,
+    <trd>palma <ind>daktylowa</ind></trd>
+  </trdgrp>
+  <trd lng="ru">&c_f;&c_i;&c_n;&c_i;&c_k;&c_o;&c_v;&c_a;&c_ja; &c_p;&c_a;&c_l;&c_mol;&c_m;&c_a;</trd>
+  <trd lng="sk">datľová palma</trd>
+</drv>
+</art>
+<!--
+$Log: daktil.xml,v $
+Revision 1.27  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.26  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.25  2014/06/08 11:10:16  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.24  2012/08/27 14:10:25  revo
+Marc Rausell: + trd ca
+
+Revision 1.23  2010/03/04 17:30:25  revo
+Jeromo Vasxe: - verspiedo portita al daktil1.xml, + ref hom
+
+Revision 1.22  2009/04/27 16:30:57  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.21  2007/07/13 16:30:30  revo
+Tulio Flores: +tr pt
+
+Revision 1.20  2007/06/06 16:30:28  revo
+Wieland Pusch: +trd de
+
+Revision 1.19  2005/04/06 16:33:58  revo
+Alan ar Gall: +trd br
+
+Revision 1.18  2004/10/15 16:31:23  revo
+-->
+</vortaro>

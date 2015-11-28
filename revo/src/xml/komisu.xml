@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: komisu.xml,v 1.15 2015/07/04 08:37:37 revo Exp $">
+<kap>
+  <rad>komisur</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="komisu.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="komisu.0o.ANA">
+    <uzo tip="fak">ANA</uzo>
+    <dif>
+      Punkto, kie du similaj partoj kuni&gcirc;as:
+      <ekz>
+      <ind>lipa <tld/>o</ind>,
+      <trd lng="fa">&f_g;&a_w;&a_sh;&a_h;&a_hamza_sure; &a_l;&a_b;</trd>
+      <trd lng="nl">mondhoek</trd>
+      </ekz>
+      <ekz>
+      <ind>palpebra <tld/>o</ind>.
+      <trd lng="fa">&f_g;&a_w;&a_sh;&a_h;&a_hamza_sure; &f_ch;&a_sh;&a_m;</trd>
+      <trd lng="fr">canthus</trd>
+      <trd lng="it"><ind>canto</ind> oculare</trd>
+      <trd lng="nl">ooghoek</trd>
+      </ekz>
+    </dif>
+    <trd lng="fr">commissure<klr tip="ind"> (anat.)</klr></trd>
+    <trdgrp lng="hu">
+      <trd>testzug</trd>,
+      <trd>testsz&ouml;glet</trd>
+    </trdgrp>
+    <trd lng="pl">spoid&lstroke;o</trd>
+  </snc>
+  <snc mrk="komisu.0o.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      Kuni&gcirc;a punkto de du karpeloj.  
+    </dif>
+    <trd lng="hu">term&odblac;lev&eacute;lzug</trd>
+  </snc>
+  <trd lng="cs">komisura</trd>
+  <trd lng="fa">&f_p;&f_y;&a_w;&a_n;&a_d;&f_g;&a_A;&a_h;</trd>
+  <trd lng="it">commessura</trd>
+  <trdgrp lng="nl">
+    <trd>naad<klr tip="ind"> (commissuur)</klr></trd>,
+    <trd>commissuur</trd>
+  </trdgrp>
+  <trd lng="pt">comissura</trd>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_o;&c_je;&c_d;&c_i;&c_n;&c_je;&c_n;&c_i;&c_je;</trd>,
+    <trd>&c_s;&c_p;&c_a;&c_j;&c_k;&c_a;</trd>,
+    <trd>&c_k;&c_o;&c_m;&c_i;&c_s;&c_s;&c_u;&c_r;&c_a;</trd>
+  </trdgrp>
+  <trd lng="sk">komisúra</trd>
+</drv>
+</art>
+<!--
+$Log: komisu.xml,v $
+Revision 1.15  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.13  2011/09/28 22:10:10  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.12  2011/06/07 07:10:16  revo
+Jeromo Vasxe: - num + mrk
+
+Revision 1.11  2010/11/25 17:30:35  revo
+Antonio Codazzi: +trd it
+
+Revision 1.10  2009/09/03 16:30:45  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.9  2007/01/10 17:30:23  revo
+Tulio Flores: +tr pt
+
+Revision 1.8  2005/02/07 17:31:26  revo
+Vito Redsky: +trd pl
+
+Revision 1.7  2005/01/09 17:32:14  revo
+Marc Bavant: +trd fr
+
+Revision 1.6  2002/05/06 16:33:13  revo
+-->
+</vortaro>

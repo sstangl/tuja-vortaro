@@ -1,0 +1,129 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: fibul.xml,v 1.17 2015/07/04 08:37:34 revo Exp $">
+<kap>
+  <rad>fibul</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="fibul.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="fibul.0o.HIS">
+    <uzo tip="fak">HIS</uzo>
+    <dif>
+      Prahistoria a&ubreve; antikva <ref tip="super"
+      cel="brocx.0o.JUV">bro&ccirc;o</ref>, iom granda,
+      per kiu oni kuntenadis vestojn:
+      <ekz>
+        kun sia brakringo el vera oro kaj sia juvela <tld/>o
+        en la formo de eta Kupido, &ccirc;u &scirc;i ne estis tre
+        speciala persono?
+        <fnt><aut>A. L&ouml;wenstein</aut>, <vrk>La &scirc;tona urbo</vrk>, 
+        <lok>1999</lok></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">Fibel</trd>
+    <trd lng="en">fibula</trd>
+    <trd lng="fr">fibule<klr tip="ind"> (broche)</klr></trd>
+    <trd lng="hu">fibula</trd>
+    <trd lng="it">fibula</trd>
+    <trd lng="nl">fibula</trd>
+    <trd lng="pl">fibula</trd>
+    <trd lng="pt">f&iacute;bula</trd>
+    <trd lng="ru">&c_f;&c_i;&c_b;&c_u;&c_l;&c_a;</trd>
+  </snc>
+  <snc mrk="fibul.0o.pinglo">
+    <uzo tip="stl">RAR</uzo>
+    <ref tip="dif" cel="pingl.sendangxera0o.HEJM">sendan&gcirc;era
+    pinglo</ref>
+    <trdgrp lng="de">
+     <trd>Spange</trd>,
+     <trd>Heftel</trd>,
+     <trd>Sicherheitsnadel</trd></trdgrp>
+    <trd lng="en">safety pin</trd>
+    <trdgrp lng="fr">
+      <trd>&eacute;pingle &agrave; nourrice</trd>,
+      <trd>&eacute;pingle de s&ucirc;ret&eacute;</trd></trdgrp> 
+    <trd lng="hu">biztost&udblac;</trd>
+    <trdgrp lng="it">
+      <trd><ind>spilla</ind> da balia</trd>,
+      <trd><ind>spilla</ind> di sicurezza</trd>
+    </trdgrp>
+    <trd lng="nl">veiligheidsspeld</trd>
+    <trd lng="pl">agrafka</trd>
+    <trdgrp lng="pt">
+      <trd>alfinete de seguran&ccedil;a</trd>,
+      <trd>alfinete de fralda</trd>
+    </trdgrp>
+    <trd lng="ru">&c_a;&c_n;&c_g;&c_l;&c_i;&c_j;&c_s;&c_k;&c_a;&c_ja;
+    &c_b;&c_u;&c_l;&c_a;&c_v;&c_k;&c_a;</trd>
+  </snc>
+  <snc mrk="fibul.0o.ANA">
+    <uzo tip="fak">ANA</uzo>
+    <dif>
+      <ref tip="super" cel="ost.0o">Osto</ref> trovi&gcirc;anta
+      kontra&ubreve; la <ref cel="tibi.0o">tibio</ref>, &ccirc;e la
+      malanta&ubreve;a parto de la <ref cel="krur.0o.gambo">kruro</ref>.     
+    </dif>
+    <trd lng="de">Wadenbein</trd>
+    <trdgrp lng="fr">
+      <trd>fibula</trd>,
+      <trd>p&eacute;ron&eacute;</trd></trdgrp> 
+    <trd lng="hu">sz&aacute;rkapocs</trd>
+    <trdgrp lng="it">
+      <trd>fibula</trd>,
+      <trd>perone</trd>
+    </trdgrp>
+    <trd lng="nl">kuitbeen</trd>
+    <trd lng="pl">ko&sacute;&cacute; strza&lstroke;kowa</trd>
+    <trdgrp lng="pt">
+      <trd>f&iacute;bula</trd>,
+      <trd>per&ocirc;nio</trd>
+    </trdgrp>
+    <trd lng="ru">&c_m;&c_a;&c_l;&c_a;&c_ja; &c_b;&c_je;&c_r;&c_c;&c_o;&c_v;&c_a;&c_ja; &c_k;&c_o;&c_s;&c_t;&c_mol;</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>prehistorická spona</trd>,
+    <trd>přezka</trd>,
+    <trd>spínací špendlík</trd>,
+    <trd>zavírací špendlík</trd>
+  </trdgrp>
+  <trd lng="en">fibula</trd>
+  <trdgrp lng="sk">
+    <trd>spona</trd>,
+    <trd>uzatvárací špendlík</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: fibul.xml,v $
+Revision 1.17  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.15  2011/12/31 13:10:09  revo
+Jeromo Vasxe: kor. 1 ref
+
+Revision 1.14  2011/06/26 22:10:09  revo
+Jeromo Vasxe: - num + 1 ekz
+
+Revision 1.13  2010/11/19 17:30:39  revo
+Antonio Codazzi: +trd it
+
+Revision 1.12  2009/03/28 17:30:48  revo
+Sebastian Cyprych: +trd pl ++mrk
+
+Revision 1.11  2007/05/28 16:31:07  revo
+Tulio Flores: +tr pt
+
+Revision 1.10  2005/01/17 17:32:10  revo
+Vito Redsky: +trd pl
+
+Revision 1.9  2002/08/07 17:31:55  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.8  2001/10/07 18:20:30  revo
+-->
+</vortaro>

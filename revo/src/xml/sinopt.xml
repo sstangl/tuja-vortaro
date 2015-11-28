@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: sinopt.xml,v 1.16 2015/09/21 09:10:22 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>sinoptik</rad>/a <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="sinopt.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="sinopt.0o.KLA">
+    <dif>
+      Unurigarda prezento de plurparta a&ubreve; pluraspekta afero:
+      <ekz>
+        mi elpo&scirc;igis la filmo-<tld/>on kaj &gcirc;in dis&scirc;iris
+        <fnt>
+          <aut>Ba Jin, trad. Li Shijun</aut>,
+          <vrk>A&ubreve;tuno en la Printempo</vrk>,
+          <lok>1980</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="en">synopsis</trd>
+  <trd lng="cs">kniha uspo&rcaron;&aacute;dan&aacute; synopticky</trd>
+  <trd lng="fr">synoptique<klr> (subst.)</klr></trd>
+  <trdgrp lng="pl">
+    <trd>synopsis</trd>,
+    <trd>synopsa</trd>
+  </trdgrp>
+  <trd lng="sk">kniha usporiadan&aacute; synopticky</trd>
+</drv>
+
+<drv mrk="sinopt.0a">
+  <kap><tld/>a</kap>
+  <snc>
+    <dif>
+      Ebliganta ampleksi per unusola rigardo la diversajn partojn de iu
+      tuto:
+      <ekz>
+        <tld/>a tabelo;
+      </ekz>
+      <ekz>
+        <ind><tld/>aj evangelioj</ind>
+        <klr>(de Mateo, Marko kaj Luko)</klr>.
+        <trd lng="hu">szinoptikus evang&eacute;liumok</trd>
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="skem.0a">skema</ref>.
+    </refgrp>
+  </snc>
+  <trd lng="en">synoptic</trd>
+  <trdgrp lng="be">
+    <trd>&c_z;&c_v;&c_o;&c_d;&c_n;&c_y;</trd>,
+    <trd>&c_a;&c_g;&c_l;&c_ja;&c_d;&c_n;&c_y;</trd>,
+    <trd>&c_p;&c_a;&c_r;&c_a;&c_w;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>,
+    <trd>&c_s;&c_ib;&c_n;&c_a;&c_p;&c_t;&c_y;&c_ch;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trd lng="ca">sin&ograve;ptic</trd>
+  <trdgrp lng="cs">
+    <trd>p&rcaron;ehledn&yacute;</trd>,
+    <trd>synoptick&yacute;</trd>
+  </trdgrp>
+  <trd lng="de">synoptisch</trd>
+  <trd lng="fr">synoptique<klr> (adj.)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>szinoptikus</trd>,
+    <trd>egyszerre &aacute;ttekinthet&odblac;</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>synoptisch</trd>,
+    <trd>beknopt</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>synoptyczny</trd>,
+    <trd>pogl&aogonek;dowy</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_v;&c_o;&c_d;&c_n;&c_y;&c_j;</trd>,
+    <trd>&c_o;&c_b;&c_z;&c_o;&c_r;&c_n;&c_y;&c_j;</trd>,
+    <trd>&c_s;&c_r;&c_a;&c_v;&c_n;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>,
+    <trd>&c_s;&c_i;&c_n;&c_o;&c_p;&c_t;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j; <klr tip="amb">(&c_o;&c_t;&c_n;&c_o;&c_s;&c_ja;&c_shch;&c_i;&c_j;&c_s;&c_ja; &c_k;
+    &c_s;&c_i;&c_n;&c_o;&c_p;&c_s;&c_i;&c_s;&c_u;)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>preh&lcaron;adn&yacute;</trd>,
+    <trd>synoptick&yacute;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: sinopt.xml,v $
+Revision 1.16  2015/09/21 09:10:22  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.15  2015/09/13 14:10:17  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.14  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.13  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.12  2014/08/21 01:10:14  revo
+Jeromo Vasxe: + ~o
+
+Revision 1.11  2014/04/11 15:10:15  revo
+Damien Brucker: +trd fr
+
+Revision 1.10  2012/07/15 10:10:18  revo
+Marc Rausell: + trd ca
+
+Revision 1.9  2004/10/13 16:32:34  revo
+-->
+</vortaro>

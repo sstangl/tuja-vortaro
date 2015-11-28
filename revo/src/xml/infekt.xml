@@ -1,0 +1,351 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+  <art mrk="$Id: infekt.xml,v 1.28 2015/07/04 08:37:36 revo Exp $">
+    <kap>
+      <ofc>*</ofc>
+      <rad>infekt</rad>/i
+    </kap>
+
+    <drv mrk="infekt.0i">
+      <kap><ofc>*</ofc><tld/>i</kap>
+      <gra><vspec>tr</vspec></gra>
+      <snc mrk="infekt.0i.MED">
+        <uzo tip="fak">MED</uzo>
+        <dif>
+          Komuniki al iu &gcirc;ermojn de malsano:
+          <ekz>
+            infanoj <tld/>itaj de siaj kamaradoj en la lernejo;
+          </ekz><ekz>
+            <tld/>i vundon per kontakto;
+          </ekz><ekz>
+            <tld/>i iun per ftizo;
+          </ekz><ekz>
+            unu fava &scirc;afo tutan &scirc;afaron <tld/>as
+            <fnt><bib>PrV</bib></fnt>.
+          </ekz>
+        </dif>
+        <trdgrp lng="pt">
+         <trd>infeccionar<klr tip="amb"> (medicina)</klr></trd>, 
+         <trd>contaminar<klr tip="amb"> (medicina)</klr></trd>,
+         <trd>contagiar<klr tip="amb"> (medicina)</klr></trd>
+        </trdgrp>
+        <trdgrp lng="ru">
+          <trd>&c_z;&c_a;&c_r;&c_a;&c_z;&c_i;&c_t;&c_mol;</trd>,
+          <trd>&c_i;&c_n;&c_f;&c_i;&c_c;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+        </trdgrp>
+      </snc>
+      <snc>
+        <uzo tip="stl">FIG</uzo>
+        <dif>
+          Komuniki malvirton a&ubreve; malbona&jcirc;on:
+          <ekz>
+            <tld/>i la morojn de la popolo;
+          </ekz><ekz>
+            tiu doktrino <tld/>is la tutan landon;
+          </ekz><ekz>
+            la hodia&ubreve;a mondo estas <tld/>ita de envio kaj egoismo;
+          </ekz><ekz>
+            &gcirc;i <tld/>is vin per la manio fari&gcirc;i granda
+            homo<fnt>Z</fnt>;
+          </ekz><ekz>
+            li ju&gcirc;is la grandan mal&ccirc;astistinon, kiu <tld/>is
+            la teron per sia mal&ccirc;asteco
+            <fnt><bib>NT</bib>, <lok>&Apo; 19:2</lok></fnt>.
+          </ekz>
+        </dif>
+        <refgrp tip="vid">
+          <ref cel="venen.0i">veneni</ref>.
+        </refgrp>
+        <trd lng="pt">contaminar<klr tip="amb"> (figurado)</klr></trd>
+      </snc>
+      <snc mrk="infekt.0i.rido">
+        <uzo tip="stl">FIG</uzo>
+        <dif>
+          Komuniki kaj plivastigi iun ajn kutimon, senton a&ubreve;
+          pensmanieron:
+          <ekz>
+            ni devas <tld/>adi la mondon per nia kara ideo<fnt>Z</fnt>;
+          </ekz><ekz>
+            la rido <tld/>is min;
+          </ekz><ekz>
+            <tld/>i iun per sia gaja humoro<fnt>Z</fnt>;
+          </ekz><ekz>
+            la saluta frenezo balda&ubreve; <tld/>is anka&ubreve; la &scirc;ipon de l'
+            kronprinco: la oficiroj, soldatoj kaj remistoj,
+            kunpremitaj en unu amason, vete kriis <klr>(...)</klr>
+            <fnt><bib>Far1</bib>, <lok>&ccirc;ap. 17a.</lok></fnt>;
+          </ekz><ekz>
+            ne mirinde, ke lia stato teruris &#8208; ke &gcirc;i <tld/>is min
+            <fnt>
+              <aut>E.A. Poe, tr. Edmund Grimley Evans</aut>:
+              <vrk>La falo de la domo Usher</vrk>.
+              <lok>Sezonoj, 2002</lok>
+            </fnt>.
+          </ekz>
+        </dif>
+        <refgrp tip="vid">
+          <ref cel="inokul.0i">inokuli</ref>,
+          <ref cel="inspir.0i">inspiri</ref>.
+        </refgrp>
+        <trd lng="pt">contagiar<klr tip="amb"> (figurado)</klr></trd>
+      </snc>
+  <trdgrp lng="cs">
+    <trd>infikovat</trd>,
+    <trd>nakazit něčím</trd>,
+    <trd>zanést choroboplodné zárodky</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+        <trd>anstecken</trd>,
+        <trd>infizieren</trd>
+      </trdgrp>
+  <trd lng="en">infect</trd>
+  <trd lng="es">infectar</trd>
+  <trdgrp lng="fr">
+        <trd>infecter</trd>,
+        <trd>contaminer<klr tip="ind"> (infecter)</klr></trd>
+      </trdgrp>
+  <trdgrp lng="hu">
+        <trd>fert&odblac;z</trd>,
+        <trd>megfert&odblac;z</trd>
+      </trdgrp>
+  <trd lng="id">[<ind>infeksi</ind>] menginfeksi</trd>
+  <trdgrp lng="nl">
+        <trd>aansteken</trd>,
+        <trd>infecteren</trd>
+      </trdgrp>
+  <trd lng="ru">&c_z;&c_a;&c_r;&c_a;&c_z;&c_i;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>infikovať</trd>,
+    <trd>nakaziť</trd>
+  </trdgrp>
+</drv>
+
+    <drv mrk="infekt.0o0ado">
+      <kap><tld/>o, <var><kap><tld/>ado</kap></var></kap>
+      <uzo tip="fak">MED</uzo>
+      <snc>
+        <dif>
+          Invado de mikroboj en organismon; rezultanta stato:
+          <ekz>
+            mu&scirc;oj kaj ratoj estas ofte ka&ubreve;zo de <tld/>ado;
+          </ekz><ekz>
+            latenta <tld/>o<fnt><bib>PIV1</bib></fnt>.
+          </ekz>
+        </dif>
+        <ref tip="lst" cel="san.mal0o.MED"
+        lst="voko:malsanoj">malsano</ref>
+      </snc>
+  <trdgrp lng="cs">
+    <trd>infekce</trd>,
+    <trd>infektování</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+        <trd>Ansteckung</trd>,
+        <trd>Infektion</trd>
+      </trdgrp>
+  <trd lng="es">infecci&oacute;n</trd>
+  <trdgrp lng="fr">
+        <trd>infection</trd>,
+        <trd>contagion</trd>
+      </trdgrp>
+  <trd lng="hu">fert&odblac;z&eacute;s</trd>
+  <trd lng="id">infeksi</trd>
+  <trd lng="pt">infec&ccedil;&atilde;o</trd>
+  <trdgrp lng="ru">
+        <trd>&c_i;&c_n;&c_f;&c_je;&c_k;&c_c;&c_i;&c_ja;</trd>,
+        <trd>&c_z;&c_a;&c_r;&c_a;&c_z;&c_a;</trd>
+      </trdgrp>
+  <trd lng="sk">infekcia</trd>
+</drv>
+
+    <drv mrk="infekt.0a">
+      <kap><ofc>*</ofc><tld/>a</kap>
+      <snc mrk="infekt.0a.MED">
+        <uzo tip="fak">MED</uzo>
+        <dif>
+          Rilata al <tld/>o; ka&ubreve;zita de <tld/>o:
+          <ekz>
+            post <ind><tld/>a malsano</ind> oni ofte bruligas
+            la vestojn de la malsanulo
+            <fnt><bib>F</bib>, <lok>&FE;39.</lok></fnt>.
+            <trdgrp lng="ru">
+              <trd>&c_z;&c_a;&c_r;&c_a;&c_z;&c_n;&c_a;&c_ja; &c_b;&c_o;&c_l;&c_je;&c_z;&c_n;&c_mol;</trd>,
+              <trd>&c_i;&c_n;&c_f;&c_je;&c_k;&c_c;&c_i;&c_o;&c_n;&c_n;&c_o;&c_je; &c_z;&c_a;&c_b;&c_o;&c_l;&c_je;&c_v;&c_a;&c_n;&c_i;&c_je;</trd>
+            </trdgrp>
+          </ekz><ekz>
+            tiu <tld/>a infuza&jcirc;o, en kiu senbride orgias
+            baciloj kun mikroboj, kaj kiun en Marseille
+            vi nomas akvo!
+            <fnt>
+              <aut>Raymond SCHWARTZ</aut>:
+              <vrk>La puto de Paupel&egrave;che</vrk>.
+              <lok>La Nica literatura revuo, 2:6</lok>
+            </fnt>.
+          </ekz>
+        </dif>
+        <trd lng="ru">&c_z;&c_a;&c_r;&c_a;&c_z;&c_n;&c_y;&c_j;</trd>
+      </snc>
+      <snc mrk="infekt.0a.FIG">
+        <uzo tip="stl">FIG</uzo>
+        <dif>
+          Kapabla <tld/>i<sncref ref="infekt.0i.rido"/>:
+          <ekz>
+            la plibonigemeco fari&gcirc;as &ccirc;iam pli <tld/>a<fnt>Z</fnt>.
+          </ekz>
+        </dif>
+        <trd lng="ru">&c_z;&c_a;&c_r;&c_a;&c_z;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
+      </snc>
+  <trdgrp lng="cs">
+    <trd>infekční</trd>,
+    <trd>nakažlivý</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+        <trd>ansteckend</trd>,
+        <trd>infekti&ouml;s</trd>
+      </trdgrp>
+  <trdgrp lng="fr">
+        <trd>infectieux</trd>,
+        <trd>contagieux</trd>
+      </trdgrp>
+  <trd lng="hu">fert&odblac;z&odblac;</trd>
+  <trd lng="nl">besmettelijk</trd>
+  <trdgrp lng="pt">
+       <trd>infecto</trd>, 
+       <trd>contagioso</trd> 
+      </trdgrp>
+  <trdgrp lng="sk">
+    <trd>chytľavý</trd>,
+    <trd>infekčný</trd>
+  </trdgrp>
+</drv>
+
+    <drv mrk="infekt.0ajxo">
+      <kap><tld/>a&jcirc;o</kap>
+      <uzo tip="fak">MED</uzo>
+      <snc mrk="infekt.0ajxo.antajxo">
+        <dif>
+          <tld lit="I"/>anta&jcirc;o, substanco entenanta mikrobojn, kiu
+          ka&ubreve;zas <tld/>an malsanon:
+          <ekz>
+            <tld/>a&jcirc;o povas penetri la organismon diversmaniere;
+          </ekz><ekz>
+            kaj se estos <tld/>a&jcirc;o de lepro sur vesto lana a&ubreve; sur
+            vesto lina, &ccirc;u sur la fundamenta&jcirc;o, &ccirc;u sur la enteksita&jcirc;o,
+            el lino a&ubreve; el lano, &ccirc;u sur felo, &ccirc;u sur ia fela&jcirc;o,
+            kaj la <tld/>a&jcirc;o estos verdeta a&ubreve; ru&gcirc;eta sur la vesto a&ubreve;
+            sur la felo, sur la fundamenta&jcirc;o a&ubreve; sur la enteksita&jcirc;o a&ubreve;
+            sur la fela&jcirc;o, tiam &gcirc;i estas <tld/>a&jcirc;o de lepro, kaj oni
+            devas montri &gcirc;in al la pastro
+            <fnt><bib>MT</bib><lok>&Lev; 13:47&ndash;49.</lok></fnt>.
+          </ekz>
+        </dif>
+        <trd lng="de"><klr tip="ind">(Krankheits-)</klr>Keim</trd>
+        <trd lng="hu">fert&odblac;z&odblac; anyag</trd>
+        <trd lng="nl">smetstof</trd>
+        <trd lng="ru">&c_z;&c_a;&c_r;&c_a;&c_z;&c_a;</trd>
+      </snc>
+      <snc mrk="infekt.0ajxo.atajxo">
+        <fnt><bib>PIV1</bib></fnt>
+        <dif>
+          <tld lit="I"/>ita&jcirc;o, parto de organismo, kiu estas <tld/>ita.
+        </dif>
+        <trd lng="hu">elfert&odblac;z&odblac;d&ouml;tt r&eacute;sz</trd>
+        <trd lng="ru">&c_z;&c_a;&c_r;&c_a;&c_zh;&c_jo;&c_n;&c_n;&c_o;&c_je; &c_m;&c_je;&c_s;&c_t;&c_o;</trd>
+      </snc>
+    </drv>
+
+    <drv mrk="infekt.mal0isen0igi">
+      <kap>mal<tld/>i, <var><kap>sen<tld/>igi</kap></var></kap>
+      <gra><vspec>tr</vspec></gra>
+      <uzo tip="fak">MED</uzo>
+      <snc>
+        <dif>
+          Detrui la malsanigajn &gcirc;ermojn, forigi la <tld/>ajn ka&ubreve;zojn:
+          <ekz>
+            mal<tld/>i vestojn, apartamenton.
+          </ekz>
+        </dif>
+        <refgrp tip="sin">
+          <ref cel="desinf.0i">desinfekti</ref>;
+        </refgrp>
+        <refgrp tip="vid">
+          <ref cel="imun.0a">imuna</ref>,
+          <ref cel="antise1.0a">antisepsa</ref>.
+        </refgrp>
+      </snc>
+      <trd lng="de">desinfizieren</trd>
+      <trd lng="es">desinfectar</trd>
+      <trd lng="fr">d&eacute;sinfecter</trd>
+      <trdgrp lng="hu">
+        <trd>fert&odblac;tlen&iacute;t</trd>,
+        <trd>dezinfici&aacute;l</trd>
+      </trdgrp>
+      <trd lng="nl">ontsmetten</trd>
+      <trd lng="pt">desinfetar</trd>
+      <trd lng="ru">&c_d;&c_je;&c_z;&c_i;&c_n;&c_f;&c_i;&c_c;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+    </drv>
+    <adm>
+      Necesos kontrastigi la sencon de ~i rilate al konta&gcirc;i, kiam
+      oni enkondukos &ccirc;i-lastan.
+      <aut>MB</aut>
+    </adm>
+  </art>
+  <!--
+  $Log: infekt.xml,v $
+  Revision 1.28  2015/07/04 08:37:36  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.27  2015/06/29 16:33:15  revo
+  aldono de trd sk per skripto de M. von Laer
+
+  Revision 1.26  2014/11/18 20:10:30  revo
+  Eko Nur Syah Hidayat: +trd id
+
+  Revision 1.25  2013/10/09 19:11:09  revo
+  Wolfram Diestel: ref al lst malsanoj
+
+  Revision 1.24  2012/10/23 00:11:50  revo
+  Neil Roberts: aldonu la etikedon <var>
+
+  Revision 1.23  2005/11/01 17:32:20  revo
+  Luiz Portella: +trd pt
+
+  Revision 1.22  2005/05/03 16:31:19  revo
+  Yury Finkel: +trd ru
+
+  Revision 1.21  2004/11/26 17:32:08  revo
+  Sergio Pokrovskij: -tajperaro, +ekz
+
+  Revision 1.20  2004/11/25 17:31:14  revo
+  Sergio Pokrovskij: -tajperaro +ekz
+
+  Revision 1.19  2004/11/24 17:31:18  revo
+  Sergio Pokrovskij: +ekz -adm +snc
+
+  Revision 1.18  2004/01/21 19:01:40  revo
+  Jozefo Horvath: +trd hu
+
+  Revision 1.17  2003/01/22 17:33:24  revo
+  Ulrich Fellmann: + 2 pliaj trd = de
+
+  Revision 1.16  2003/01/17 17:33:06  revo
+  Alejandro Mejia Greene: ald 3 his trd
+
+  Revision 1.15  2002/01/29 17:34:43  revo
+  Marc Bavant: sxovis fakindikon
+
+  Revision 1.14 2002/01/11 19:09:16 revo
+  fontindiko PrV per programo de Jerome
+
+  Revision 1.13 2001/06/07 18:14:02 revo
+  Yury Finkel: +trd ru
+
+  Revision 1.12 2001/04/28 19:15:22 revo
+  Marc Bavant: +trd fr; +ref al desinfekti; kor ref tip sin; kor
+  "hurmoro", "au"; ~ajxo: +snc PIV-a, +adm ; +drv ~(ad)o
+
+  Revision 1.11 2001/03/18 19:28:25 revo
+  -->
+</vortaro>

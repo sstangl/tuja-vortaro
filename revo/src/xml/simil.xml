@@ -1,0 +1,418 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: simil.xml,v 1.29 2015/07/04 08:37:43 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>simil</rad>/a <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="simil.0a">
+  <kap><ofc>*</ofc><tld/>a</kap>
+  <snc>
+    <dif>
+      Havanta iajn ecojn, kiujn anka&ubreve; alia persono a&ubreve; objekto 
+      havas; samnatura; samaspekta:
+      <ekz>
+        <klr>la pli a&gcirc;a filino</klr> estis tiel <tld/>a al la patrino
+        per sia karaktero kaj viza&gcirc;o, ke &ccirc;iu, kiu &scirc;in vidis, povis
+        pensi, ke li vidas la patrinon
+        <fnt><bib>F</bib>, <lok>&FE;11.</lok></fnt>;
+      </ekz><ekz>
+        &gcirc;ia blekado estas <tld/>a al la leona
+        <fnt><bib>MT</bib>, <lok>&Jes; 5:29</lok></fnt>;
+      </ekz><ekz>
+        en lingvo arta nenio <tld/>a povas havi lokon<fnt>Z</fnt>;
+      </ekz><ekz>
+        <tld/>a konstruo de lingvo estas tute fremda por la e&ubreve;ropaj
+        popoloj<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="analog.0a">analoga</ref>,
+      <ref cel="najbar.0a">najbara</ref>,
+      <ref cel="parenc.0a">parenca</ref>,
+      <ref cel="proksi.0a">proksima</ref>,
+      <ref cel="rilat.0a">rilata</ref>,
+      <ref cel="sam.0a">sama</ref>.
+    </refgrp>
+    <refgrp tip="vid">
+      <ref cel="faksim.0o">faksimilo</ref>,
+      <ref cel="imit.0i">imiti</ref>,
+      <ref cel="kopi.0i">kopii</ref>,
+      <ref cel="portre.0o">portreto</ref>,
+      <ref cel="spegul.0i">speguli</ref>.
+    </refgrp>
+    <trdgrp lng="de">
+      <trd>&auml;hnlich</trd>,
+      <trd>gleichartig</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_p;&c_o;&c_h;&c_o;&c_zh;&c_i;&c_j;</trd>,
+      <trd>&c_p;&c_o;&c_d;&c_o;&c_b;&c_n;&c_y;&c_j;</trd>,
+      <trd>&c_s;&c_h;&c_o;&c_d;&c_n;&c_y;&c_j;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="simil.0a.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>MatTerm</bib><lok>p. 29</lok></fnt>
+    <dif>
+      <klr>(p.p. du <ref cel="figur.geometria0o">geometriaj
+      figuroj</ref>)</klr>
+      Tiaj, ke ekzistas <ref cel="simil.0eco.afina"><tld/>eco</ref>,
+      kiu &jcirc;etas unu al la alia:
+      <ekz>
+        en du <tld/>aj figuroj la respondaj anguloj estas egalaj kaj la
+        respondaj longoj estas proporciaj;
+      </ekz><ekz>
+        la areoj de du <tld/>aj plurlateroj estas inter si kiel la
+        kvadrato de iliaj respondaj lateroj.
+      </ekz>
+    </dif>
+    <trd lng="de">&auml;hnlich</trd>
+    <trd lng="fr"><klr tip="ind">(figure) </klr>semblable</trd>
+    <trd lng="nl">gelijkvormig</trd>
+    <trd lng="pl"><klr tip="amb">(figura) </klr>podobna</trd>
+    <trd lng="ru">&c_p;&c_o;&c_d;&c_o;&c_b;&c_n;&c_y;&c_j;</trd>
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_d;&c_o;&c_b;&c_n;&c_y;</trd>
+  <trd lng="cs">podobn&yacute;</trd>
+  <trd lng="en">similar</trd>
+  <trdgrp lng="es">
+    <trd>semejante</trd>,
+    <trd>similar</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>similaire</trd>,
+    <trd>semblable</trd>
+  </trdgrp>
+  <trd lng="hu">hasonl&oacute;</trd>
+  <trdgrp lng="nl">
+    <trd>vergelijkbaar</trd>,
+    <trd>dergelijk</trd>,
+    <trd>gelijkend</trd>
+  </trdgrp>
+  <trd lng="sk">podobný</trd>
+</drv>
+
+<drv mrk="simil.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>x</vspec></gra>
+  <snc>
+    <dif>
+      Esti <tld/>a:
+      <ekz>
+        <tld/>i iun, ion, je, al iu, io;
+      </ekz><ekz>
+        ili <tld/>as unu al la alia kiel du akvogutoj;
+      </ekz><ekz>
+        tago tagon sekvas, sed ne <tld/>as
+        <fnt><bib>PrV</bib></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_b;&c_y;&c_c;&c_mol; <ind>&c_p;&c_a;&c_d;&c_o;&c_b;&c_n;&c_y;&c_m;</ind></trd>
+  <trd lng="cs">podobat se <klr>(něčemu)</klr></trd>
+  <trd lng="de">&auml;hnlich sein</trd>
+  <trd lng="es">ser semejante o similar</trd>
+  <trd lng="fr">ressembler</trd>
+  <trd lng="hu">hasonl&iacute;t</trd>
+  <trdgrp lng="ru">
+    <trd>&c_b;&c_y;&c_t;&c_mol; <ind>&c_p;&c_o;&c_h;&c_o;&c_zh;&c_i;&c_m;</ind></trd>,
+    <trd>&c_p;&c_o;&c_h;&c_o;&c_d;&c_i;&c_t;&c_mol; <klr tip="amb">(&c_n;&c_a; &c_ch;&c_t;&c_o;-&c_l;., &c_k;&c_o;&c_g;&c_o;-&c_l;.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>podobať sa</trd>,
+    <trd>ponášať sa</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="simil.0ajxo">
+  <kap><tld/>a&jcirc;o</kap>
+  <snc>
+    <dif>
+      Io <tld/>a:
+      <ekz>
+        kian <tld/>a&jcirc;on vi kontra&ubreve;starigos <klr>(komparos)</klr>
+        al li<fnt>Z</fnt>?
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="de">
+    <trd>etwas &Auml;hnliches</trd>
+  </trdgrp>
+  <trd lng="be">&c_n;&c_je;&c_sh;&c_t;&c_a; <ind>&c_p;&c_a;&c_d;&c_o;&c_b;&c_n;&c_a;&c_je;</ind></trd>
+  <trdgrp lng="hu">
+    <trd>hasonl&oacute;s&aacute;g <klr tip="amb">(jegy)</klr></trd>,
+    <trd>hasonl&oacute; dolog</trd>
+  </trdgrp>
+  <trd lng="ru">&c_a;&c_n;&c_a;&c_l;&c_o;&c_g;</trd>
+</drv>
+
+<drv mrk="simil.0eal">
+  <kap><tld/>e al</kap>
+  <gra><vspec>prepozicia&jcirc;o</vspec></gra>
+  <snc mrk="simil.0eal.KOMUNE">
+    <dif>
+      <ref tip="vid" cel="kiel.0.sammaniere">Kiel<sncref/></ref>,
+      samkiel, kompareble kun:
+      <ekz>
+        la a&ubreve;toro de Esperanto <klr>...</klr> <tld/>e al &ccirc;iu homo, 
+        havas ja la rajton posedi siajn privatajn principojn
+        <fnt>
+          <aut>L. L. Zamenhof</aut>,
+          <vrk><url
+ref="http://donh.best.vwh.net/Esperanto/Literaturo/Revuoj/nlr/nlr46/zamenhof.html">
+          Kion Zamenhof ne povis diri en &Gcirc;enevo</url></vrk>,
+          <lok>Nica Literatura Revuo, 1959-07 &gcirc;is 08, numero 4/6,
+          p. 201a-208aa</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="fr">
+    <trd>&agrave; l'instar de</trd>,
+    <trd>de m&ecirc;me que<klr> (loc. pr&eacute;p.)</klr></trd>,
+    <trd>semblablement &agrave;</trd>
+  </trdgrp>
+  <trd lng="ru">&c_p;&c_o;&c_d;&c_o;&c_b;&c_n;&c_o;</trd>
+</drv>
+
+<drv mrk="simil.0eco">
+  <kap><tld/>eco</kap>
+  <snc mrk="simil.0eco.gxenerale">
+    <dif>
+      Eco de tio, kio estas <tld/>a:
+      <ekz>
+        li havas grandan <tld/>econ kun mia mortinta frato<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="ru">
+      <trd>&c_s;&c_h;&c_o;&c_d;&c_s;&c_t;&c_v;&c_o;</trd>,
+      <trd>&c_p;&c_o;&c_d;&c_o;&c_b;&c_i;&c_je;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="simil.0eco.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>MatVort</bib></fnt>
+    <subsnc mrk="simil.0eco.vektora">
+      <dif>
+        <klr>(en
+        <ref cel="spac.euxklida0o">e&ubreve;klida vektora spaco</ref>,
+        kun rilato <frm>&lambda;</frm>)</klr>
+        Tia <ref cel="auxtom2.0o">a&ubreve;tomorfio</ref>, ke la
+        e&ubreve;klida <ref cel="norm.0o.MAT">normo</ref> de la bildo de ajna
+        vektoro egalas al la produto de la normo de tiu vektoro 
+        per <frm>&lambda;</frm>.
+      </dif>
+    </subsnc>
+    <subsnc mrk="simil.0eco.afina">
+      <dif>
+        <klr>(en
+        <ref cel="spac.euxklida0o">e&ubreve;klida afina spaco</ref>)</klr>
+        <ref cel="afin.0a.bildigo">Afina</ref>
+        <ref tip="super" cel="bild.0igo.MAT">bildigo</ref>, asociita al
+        <ref cel="simil.0eco.vektora"><tld/>eco
+        <sncref ref="simil.0eco.vektora"/></ref>:
+        <ekz>
+          <ref cel="homote.0o">homotetio</ref> estas <tld/>eco.
+        </ekz>
+      </dif>
+    </subsnc>
+    <trd lng="de">&Auml;hnlichkeit</trd>
+    <trd lng="en">similarity</trd>
+    <trd lng="fr">similitude<klr tip="ind"> (math.)</klr></trd>
+    <trd lng="pl">podobie&nacute;stwo</trd>
+    <trd lng="ru">&c_p;&c_o;&c_d;&c_o;&c_b;&c_i;&c_je;</trd>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_a;&c_d;&c_a;&c_b;&c_je;&c_n;&c_s;&c_t;&c_v;&c_a;</trd>,
+    <trd>&c_p;&c_a;&c_d;&c_o;&c_b;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="cs">podobnost</trd>
+  <trdgrp lng="fr">
+    <trd>similarit&eacute;</trd>,
+    <trd>similitude</trd>,
+    <trd>ressemblance</trd>
+  </trdgrp>
+  <trd lng="hu">hasonl&oacute;s&aacute;g</trd>
+  <trdgrp lng="sk">
+    <trd>podoba</trd>,
+    <trd>podobnosť</trd>,
+    <trd>príbuznosť</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="simil.mal0a">
+  <kap>mal<tld/>a</kap>
+  <snc>
+    <dif>
+      Diferenca:
+      <ekz>
+        &scirc;i estis mal<tld/>a al &ccirc;iuj anta&ubreve;aj bestoj<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_n;&c_je;&c_p;&c_a;&c_d;&c_o;&c_b;&c_n;&c_y;</trd>
+  <trdgrp lng="cs">
+    <trd>odchylný</trd>,
+    <trd>odlišný</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>verschieden</trd>,
+    <trd>anders</trd>
+  </trdgrp>
+  <trd lng="es">diferente</trd>
+  <trdgrp lng="fr">
+    <trd>diff&eacute;rent</trd>,
+    <trd>dissemblable</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>k&uuml;l&ouml;nb&ouml;z&odblac;</trd>,
+    <trd>m&aacute;smilyen</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>ongelijk</trd>,
+    <trd>anders</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_n;&c_je;&c_p;&c_o;&c_h;&c_o;&c_zh;&c_i;&c_j;</trd>,
+    <trd>&c_n;&c_je;&c_s;&c_h;&c_o;&c_d;&c_n;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>nepodobný</trd>,
+    <trd>odlišný</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="simil.0igxo">
+  <kap><tld/>i&gcirc;o</kap>
+  <snc mrk="simil.0igxo.KOMUNE">
+    <dif>
+      La ago i&gcirc;i <tld/>a kaj ties rezulto:
+      <ekz>
+        tiuj tradicioj kombini&gcirc;is kun <tld/>aj ekonomiaj situacioj
+        kaj kun konstanta kontakto pro migrado kaj komerco, por
+        helpi <tld/>i&gcirc;on de la juraj sistemoj
+        <fnt>
+          <aut>J. A. Thompson</aut>:
+          <vrk>La dokumentoj de Mari kaj la prapatroj</vrk>.
+          <lok>Biblia revuo. 1968:2. P. 46.</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="ru">&c_u;&c_p;&c_o;&c_d;&c_o;&c_b;&c_l;&c_je;&c_n;&c_i;&c_je;</trd>
+  </snc>
+  <snc mrk="simil.0igxo.FON">
+    <uzo tip="fak">FON</uzo>
+    <fnt><aut>Koutny I.</aut>:
+      <vrk>Angla-Esperanta-Hungara etvortaro pri Lingvo kaj
+        Komunikado</vrk>. <lok>Pozna&nacute;, 2003</lok></fnt>
+    <dif>
+      Anstata&ubreve;i&gcirc;o de parolsono per alia sono, pli simila al
+      apuda parolsono:  
+      <ekz>
+        se oni prononcas la vorton <ctl>sango</ctl> kiel [sa&#331;&#609;o],
+            tio estas ekzemplo pri <ind>anticipa <tld/>i&gcirc;o</ind>:
+        <frm>/n/+/&#609;/&#8594;[&#331;&#609;]</frm> (<tld/>i&gcirc;o pri la artikulacia loko);
+        <trdgrp lng="en">
+          <trd>anticipatory assimilation</trd>,
+          <trd>progressive assimilation</trd>
+        </trdgrp>
+        <trd lng="ru">&c_p;&c_r;&c_o;&c_g;&c_r;&c_je;&c_s;&c_s;&c_i;&c_v;&c_n;&c_a;&c_ja; &c_a;&c_s;&c_s;&c_i;&c_m;&c_i;&c_l;&c_ja;&c_c;&c_i;&c_ja;</trd>
+      </ekz><ekz>
+        Vokala harmonio <klr>...</klr> prezenti&gcirc;as en harmoniigo
+        a&ubreve; <tld/>i&gcirc;o de la vokaloj de la vortradiko kaj ties
+        afiksoj la&ubreve; certaj karakterizoj
+        <fnt><vrk><url
+ ref="https://eo.wikipedia.org/wiki/Vokala_harmonio" 
+              >Vokala harmonio</url></vrk>.
+          <bib>Viki</bib></fnt>.
+      </ekz>
+    </dif>
+    <ref tip="ant" cel="simil.mal0igxo.FON">mal<tld/>i&gcirc;o<sncref/></ref>
+    <trdgrp lng="ru">
+      <trd>&c_u;&c_p;&c_o;&c_d;&c_o;&c_b;&c_l;&c_je;&c_n;&c_i;&c_je;</trd>,
+      <trd>&c_a;&c_s;&c_s;&c_i;&c_m;&c_i;&c_l;&c_ja;&c_c;&c_i;&c_ja;</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="de">Angleichung</trd>
+  <trd lng="pl">upodobnienie</trd>
+</drv>
+
+<drv mrk="simil.mal0igxo">
+  <kap>mal<tld/>i&gcirc;o</kap>
+  <snc mrk="simil.mal0igxo.KOMUNE">
+    <dif>
+      La ago i&gcirc;i mal<tld/>a, distingebla kaj ties rezulto:
+      <ekz>
+        Por malhelpi la beda&ubreve;rindajn konsekvencojn, kiujn povus
+        okazigi tia konfuzo, ili elektis eksteran signon, kiu ebligis
+        ilian mal<tld/>i&gcirc;on
+        <fnt>
+              <aut>Henri Vallienne</aut>:
+          <vrk>&Ccirc;u li?</vrk>.
+          <lok><url
+ref="http://eo.wikisource.org/wiki/%C4%88u_li%3F/%C4%88apitro_Dekkvina"
+              >&Ccirc;ap. 15&#170;</url>.</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="ru">&c_r;&c_a;&c_s;&c_p;&c_o;&c_d;&c_o;&c_b;&c_l;&c_je;&c_n;&c_i;&c_je;</trd>
+  </snc>
+  <snc mrk="simil.mal0igxo.FON">
+    <uzo tip="fak">FON</uzo>
+    <dif>
+      Tia &scirc;an&gcirc;i&gcirc;o de parolsono, ke &gcirc;i i&gcirc;as malpli simila al apuda
+      parolsono samtipa a&ubreve; egala:
+      <ekz>
+        <klr>(la latina)</klr> DECEM ET SEX <klr>donis en la</klr>
+        portugala <ctl>dezasseis</ctl>; la&ubreve; multaj &gcirc;i venas el
+        DECEM AC SEX, sed anka&ubreve; eblas, ke tiu -a- esti&gcirc;is pro
+        mal<tld/>i&gcirc;o disde la ceteraj -e-
+        <fnt>
+          <vrk><url
+ref="https://eo.wikipedia.org/wiki/Latinida_lingvaro#SEDECIM.2C_DECEM_ET_SEX_kaj_aliaj"
+              >Latinida lingvaro</url></vrk>. <bib>Viki</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="ant" cel="simil.0igxo.FON"><tld/>i&gcirc;o<sncref/></ref>
+    <trd lng="ru">&c_d;&c_i;&c_s;&c_s;&c_i;&c_m;&c_i;&c_l;&c_ja;&c_c;&c_i;&c_ja;</trd>
+  </snc>
+  <trd lng="en">dissimilation</trd>
+</drv>
+
+</art>
+<!--
+$Log: simil.xml,v $
+Revision 1.29  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.28  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.27  2015/04/21 05:10:14  revo
+Sergio Pokrovskij: +fnt
+
+Revision 1.26  2015/04/19 16:10:15  revo
+Sergio Pokrovskij: +mal~igxo
+
+Revision 1.25  2015/04/19 14:10:15  revo
+Sergio Pokrovskij: +~igxo
+
+Revision 1.24  2011/04/30 20:10:27  revo
+Jeromo Vasxe: + ~e al
+
+Revision 1.23  2010/08/03 16:30:55  revo
+Agustin Garcia Lopez: +trd es
+
+Revision 1.22  2005/01/13 18:39:37  revo
+Wieland Pusch: +trd de
+
+Revision 1.21  2004/10/12 16:31:43  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.20  2004/03/03 17:31:08  revo
+-->
+</vortaro>

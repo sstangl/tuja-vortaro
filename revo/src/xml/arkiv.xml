@@ -1,0 +1,190 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: arkiv.xml,v 1.22 2015/07/04 08:37:30 revo Exp $">
+<kap>
+  <ofc>3</ofc>
+  <rad>arkiv</rad>/o
+</kap>
+
+<drv mrk="arkiv.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="arkiv.0o.dokumentaro">
+    <dif>
+      Kolekto da malnovaj aktoj kaj dokumentoj:
+      <ekz>
+        la <tld/>o de liaj notlibroj, leteroj, raportoj<fnt><aut>Wim M.
+        A.
+        De Smet</aut>: <vrk>Anta&ubreve; cent jaroj</vrk>,
+        <bib>Monato</bib><lok>jaro 1998a, numero 5a, p. 25a</lok></fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>Archiv</trd>,
+      <trd>Urkundensammlung</trd>,
+      <trd>Dokumentensammlung</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="arkiv.0o.arkivejo">
+    <ref tip="dif" cel="arkiv.0ejo"><tld/>ejo</ref>
+    <ekz>
+      <uzo tip="stl">FIG</uzo>
+      formeti ion en <tld/>on<fnt>Z</fnt>
+      <klr>(flankenlasi, forgesi)</klr>.
+    </ekz>
+    <trdgrp lng="de">
+      <trd>Archiv</trd>,
+      <trd>Archivgeb&auml;ude</trd>,
+      <trd>Urkundenstelle</trd>,
+      <trd>Dokumentationsstelle</trd>
+    </trdgrp>
+  </snc>
+  <refgrp tip="sin">
+    <ref cel="arhxiv.0o">ar&hcirc;ivo</ref>
+  </refgrp>
+  <trd lng="be">&c_a;&c_r;&c_h;&c_ib;&c_w;</trd>
+  <trd lng="ca">arxiu</trd>
+  <trdgrp lng="de">
+    <trd>Archiv</trd>
+  </trdgrp>
+  <trd lng="en">archive</trd>
+  <trd lng="es">archivo</trd>
+  <trdgrp lng="fa">
+    <trd>&a_b;&a_A;&f_y;&f_g;&a_A;&a_n;&f_y;</trd>,
+    <trd>&a_A_madda;&a_r;&a_sh;&f_y;&a_w;</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>archives</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>lev&eacute;lt&aacute;r</trd>,
+    <trd>arch&iacute;vum</trd>,
+    <trd>okm&aacute;nyt&aacute;r</trd>
+  </trdgrp>
+  <trd lng="it">archivio</trd>
+  <trd lng="nl">archief</trd>
+  <trd lng="ru">&c_a;&c_r;&c_h;&c_i;&c_v;</trd>
+  <trd lng="sk">arch&iacute;v</trd>
+  <trdgrp lng="cs">
+    <trd>archív</trd>,
+    <trd>spisovna</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="arkiv.0ejo">
+  <kap><tld/>ejo</kap>
+  <snc>
+    <dif>
+      Loko, kie oni gardas malnovajn dokumentojn.
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="arhxiv.0ejo">ar&hcirc;ivejo</ref>,
+      <ref cel="arkiv.0o.arkivejo">arkivo <sncref/></ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_a;&c_r;&c_h;&c_ib;&c_w;</trd>
+  <trd lng="ca">arxiu <klr>(lloc)</klr></trd>
+  <trd lng="cs">archiv <klr>(místnosti)</klr></trd>
+  <trdgrp lng="de">
+    <trd>Archiv</trd>,
+    <trd>Archivgeb&auml;ude</trd>,
+    <trd>Urkundenstelle</trd>,
+    <trd>Dokumentationsstelle</trd>
+  </trdgrp>
+  <trd lng="en">archive</trd>
+  <trd lng="es">archivo</trd>
+  <trdgrp lng="fa">
+    <trd>&a_b;&a_A;&f_y;&f_g;&a_A;&a_n;&f_y;</trd>,
+    <trd>&a_A_madda;&a_r;&a_sh;&f_y;&a_w;</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>archives<klr> (lieu)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>lev&eacute;lt&aacute;r</trd>,
+    <trd>arch&iacute;vum</trd>,
+    <trd>okm&aacute;nyt&aacute;r</trd>
+  </trdgrp>
+  <trd lng="it">archivio<klr> (luogo)</klr></trd>
+  <trd lng="nl">archief</trd>
+  <trd lng="ru">&c_a;&c_r;&c_h;&c_i;&c_v;</trd>
+  <trdgrp lng="sk">
+    <trd>arch&iacute;v</trd>,
+    <trd>archív <klr>(miestnosť)</klr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="arkiv.0isto">
+  <kap><tld/>isto</kap>
+  <snc>
+    <dif>
+      Oficisto gardanta, aran&gcirc;anta <tld/>ojn:
+      <ekz>
+        la &ccirc;ef<tld/>isto de la urba <tld/>o<fnt><aut>Roland
+        Rotsaert</aut>: <vrk>Mezepoka Hanso-asocio revivi&gcirc;as</vrk>,
+        <bib>Monato</bib><lok>jaro 2002a, numero 4a, p. 17a</lok></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="arhxiv.0isto">ar&hcirc;ivisto</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_r;&c_h;&c_ib;&c_v;&c_a;&c_r;&c_y;&c_ju;&c_s;</trd>,
+    <trd>&c_a;&c_r;&c_h;&c_ib;&c_v;&c_ib;&c_s;&c_t;</trd>
+  </trdgrp>
+  <trd lng="ca">arxiver</trd>
+  <trd lng="cs">archivář</trd>
+  <trd lng="de">Archivar</trd>
+  <trd lng="en">archivist</trd>
+  <trd lng="es">archivista</trd>
+  <trdgrp lng="fa">
+    <trd>&a_b;&a_A;&f_y;&f_g;&a_A;&a_n;</trd>,
+    <trd>&a_m;&a_t;&a_S;&a_d;&f_y; <ind>&a_A_madda;&a_r;&a_sh;&f_y;&a_w;</ind></trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>archiviste</trd>
+  </trdgrp>
+  <trd lng="hu">lev&eacute;lt&aacute;ros</trd>
+  <trd lng="it">archivista</trd>
+  <trd lng="nl">archivaris</trd>
+  <trdgrp lng="ru">
+    <trd>&c_a;&c_r;&c_h;&c_i;&c_v;&c_i;&c_s;&c_t;</trd>,
+    <trd>&c_a;&c_r;&c_h;&c_i;&c_v;&c_a;&c_r;&c_i;&c_u;&c_s;</trd>
+  </trdgrp>
+  <trd lng="sk">archiv&aacute;r</trd>
+</drv>
+</art>
+<!--
+$Log: arkiv.xml,v $
+Revision 1.22  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.21  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.20  2012/02/06 12:10:10  revo
+Antonio Codazzi: +trd it
+
+Revision 1.19  2012/01/02 10:10:20  revo
+Marc Rausell: +trd ca
+
+Revision 1.18  2009/07/01 17:20:39  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.17  2007/05/22 16:30:51  revo
+Wieland Pusch: +trd de
+
+Revision 1.16  2003/11/28 17:31:00  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.15  2003/01/25 17:31:53  revo
+Jeromo Vasxe: memkor - troa sncref
+
+Revision 1.14  2003/01/24 17:31:30  revo
+Jeromo Vasxe: - 1 malgxusta ekz
+
+Revision 1.13 2002/11/10 11:43:31 revo
+-->
+</vortaro>

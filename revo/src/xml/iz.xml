@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: iz.xml,v 1.12 2015/09/16 13:10:15 revo Exp $">
+<kap>
+  -<rad>iz</rad> <fnt><bib>PIV1</bib></fnt> <fnt><bib>PMEG</bib></fnt>
+</kap>
+
+<drv mrk="iz.0">
+  <kap>-<tld/></kap>
+  <gra><vspec>sufikso</vspec></gra>
+  <gra><vspec>transitiviga</vspec></gra>
+  <uzo tip="fak">TEK</uzo>
+  <snc mrk="iz.0.KOMUNE">
+  <subsnc>
+    <dif>
+      Provizi per:
+      <ekz>
+        najlizi plandojn de &scirc;uo;
+      </ekz>
+      <ekz>
+        gluizi etikedojn;
+      </ekz>
+      <ekz>
+        elektr<tld/>i;
+      </ekz>
+      <ekz>
+        makadam<tld/>i.
+      </ekz>
+    </dif>
+  </subsnc>
+  <subsnc>
+    <dif>
+      Apliki metodon al:
+      <ekz>
+        paste&ubreve;r<tld/>i lakton;
+      </ekz>
+      <ekz>
+        galvan<tld/>i;
+      </ekz>
+      <ekz>
+        farad<tld/>i;
+      </ekz>
+      <ekz>
+        rentgen<tld/>i.
+      </ekz>
+    </dif>
+  </subsnc>
+  <rim>
+    Iuj rigardas &ccirc;i tiun neoficialan sufikson evitinda.
+    Ofte la sola verba radiko sufi&ccirc;as ne rompante la komprenon, a&ubreve;
+    la sufikso <ref tip="sin" cel="um.0">-um</ref> ta&ubreve;gas tiel
+    same la&ubreve; la kunteksto.
+  </rim>
+  </snc>
+  </drv>
+  <trdgrp lng="en">
+    <trd>-ize</trd>,
+    <trd>-ise</trd>
+  </trdgrp>
+</art>
+
+<!--
+$Log: iz.xml,v $
+Revision 1.12  2015/09/16 13:10:15  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.11  2013/10/10 12:10:13  revo
+Damien Brucker: -/
+
+Revision 1.10  2013/10/10 10:10:12  revo
+Damien Brucker: Du rimarkoj enigitaj en unu
+
+Revision 1.9  2013/10/04 08:10:26  revo
+Damien Brucker: -tajperaro
+
+Revision 1.8  2013/09/06 08:10:11  revo
+Damien Brucker: Kompletigo de la unua rimarko +neoficialan
+
+Revision 1.7  2013/09/03 19:10:09  revo
+Jeromo Vasxe: fnt piv1, - evi + rim, + disaj ekz, + tld en ekz
+
+Revision 1.6  2013/08/30 10:10:12  revo
+Damien Brucker: sxangxo por enkonduki -iz en la reta sercxilo
+
+Revision 1.5  2013/08/29 15:10:42  revo
+-->
+</vortaro>

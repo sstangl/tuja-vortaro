@@ -1,0 +1,169 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: tan.xml,v 1.21 2015/07/04 08:37:44 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>tan</rad>/i
+</kap>
+<drv mrk="tan.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <uzo tip="fak">TEK</uzo>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      Transformi per ta&ubreve;gaj procedoj bestan felon en ledon:
+      <ekz>
+        <uzo tip="stl">FRAZ</uzo>
+        <ind><tld/>i al iu la ha&ubreve;ton</ind>
+        <klr>(severe ripro&ccirc;i iun)</klr>
+        <trd lng="de"><klr>jemanden </klr>anschw&auml;rzen</trd>
+        <trd lng="fr">passer un <ind>savon</ind>
+        &agrave; quelqu'un</trd>
+        <fnt><bib>PrV</bib></fnt>..
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="kap.0o">kapo</ref>,
+      <ref cel="lav.0i">lavi</ref>,
+      <ref cel="predik.0o">prediko</ref>,
+      <ref cel="sap.0umi">sapumi</ref>.
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_d;&c_u;&c_b;&c_ib;&c_c;&c_mol;
+    <klr tip="amb">(&c_s;&c_k;&c_u;&c_r;&c_u;)</klr></trd>,
+    <trd>&c_v;&c_y;&c_r;&c_a;&c_b;&c_l;&c_ja;&c_c;&c_mol;
+    <klr tip="amb">(&c_s;&c_k;&c_u;&c_r;&c_u;)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="ca">
+    <trd>adobar</trd>,
+    <trd>assaonar</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>tvrdit</trd>,
+    <trd>utvrzovat</trd>,
+    <trd>vydělat kůži</trd>,
+    <trd>vydělávat kůži</trd>,
+    <trd>vyčinit kůži</trd>,
+    <trd>vyčiňovat kůže</trd>,
+    <trd>činit kůži</trd>
+  </trdgrp>
+  <trd lng="de">gerben</trd>
+  <trd lng="en">tan</trd>
+  <trd lng="es">curtir</trd>
+  <trd lng="fr">tanner</trd>
+  <trd lng="hu">cserez</trd>
+  <trd lng="nl">looien</trd>
+  <trd lng="pl">garbowa&cacute;</trd>
+  <trdgrp lng="pt">
+   <trd>curtir (pele)</trd>,
+   <trd>surrar</trd>
+  </trdgrp>
+  <trd lng="ru">&c_d;&c_u;&c_b;&c_i;&c_t;&c_mol;</trd>
+  <trd lng="sk">vypracovať kožu činidlom</trd>
+  <trd lng="sv">garva</trd>
+</drv>
+
+<drv mrk="tan.0ilo">
+  <kap><tld/>ilo</kap>
+  <uzo tip="fak">TEK</uzo>
+  <snc>
+    <dif>
+      Flua&jcirc;o enhavanta &scirc;elon de kverko a&ubreve; de alia,
+      tiucele ta&ubreve;ga arbo, en kiu oni banas tanotajn felojn.
+    </dif>
+  </snc>
+  <trd lng="be">
+  &c_d;&c_u;&c_b;&c_ib;&c_l;&c_mol;&c_n;&c_a;&c_je;
+  &c_r;&c_e;&c_ch;&c_y;&c_v;&c_a;
+  </trd>
+  <trdgrp lng="ca">
+    <trd>adob</trd>,
+    <trd>tan&iacute;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>tříslivo</trd>,
+    <trd>tříslovina</trd>,
+    <trd>činící látka</trd>
+  </trdgrp>
+  <trd lng="de">Gerbstoff</trd>
+  <trd lng="en">tannin</trd>
+  <trd lng="es">tanino</trd>
+  <trd lng="fr">tanin</trd>
+  <trd lng="hu">cserz&odblac;anyag</trd>
+  <trd lng="nl">run</trd>
+  <trd lng="pl">garbnik</trd>
+  <trd lng="ru">
+  &c_d;&c_u;&c_b;&c_i;&c_l;&c_mol;&c_n;&c_o;&c_je;
+  &c_v;&c_je;&c_shch;&c_je;&c_s;&c_t;&c_v;&c_o;
+  </trd>
+  <trd lng="sk">garbiarske činidlo</trd>
+</drv>
+
+<drv mrk="tan.0isto">
+  <kap><tld/>isto</kap>
+  <uzo tip="fak">TEK</uzo>
+  <snc>
+    <dif>
+      Homo, kiu profesie <tld/>as.
+    </dif>
+  </snc>
+  <trdgrp lng="ca">
+    <trd>blanquer</trd>,
+    <trd>adobador</trd>
+  </trdgrp>
+  <trd lng="cs">koželuh</trd>
+  <trd lng="en">tanner</trd>
+  <trd lng="pl">garbarz</trd>
+  <trd lng="sk">garbiar</trd>
+</drv>
+
+<drv mrk="tan.0ejo">
+  <kap><tld/>ejo</kap>
+  <uzo tip="fak">TEK</uzo>
+  <snc>
+    <dif>
+      Loko, kie oni <tld/>as.
+    </dif>
+  </snc>
+  <trd lng="ca">adoberia</trd>
+  <trd lng="cs">koželužna</trd>
+  <trd lng="en">tannery</trd>
+  <trd lng="pl">garbarnia</trd>
+  <trd lng="sk">garbiareň</trd>
+</drv>
+</art>
+<!--
+$Log: tan.xml,v $
+Revision 1.21  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.19  2011/12/06 12:10:22  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.18  2009/08/18 19:20:00  revo
+Russ Williams: +trd en
+
+Revision 1.17  2008/10/24 16:40:23  revo
+Sebastian Cyprych: +~isto + ~ejo +trd pl
+
+Revision 1.16  2006/02/03 17:33:43  revo
+Tulio Flores: +trd pt
+
+Revision 1.15  2006/01/09 17:33:57  revo
+Raul Salinas Monteagudo: +trd es
+
+Revision 1.14  2004/11/17 19:24:51  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.13  2004/09/30 16:31:19  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.12  2002/11/30 17:34:12  revo
+-->
+</vortaro>

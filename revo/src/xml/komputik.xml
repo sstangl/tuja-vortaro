@@ -1,0 +1,127 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: komputik.xml,v 1.16 2015/07/04 08:37:37 revo Exp $">
+<kap>
+  <rad>komputik</rad>/o <fnt><bib>SPIV</bib></fnt>
+</kap>
+<drv mrk="komputik.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="komputik.0o.KOMP">
+    <uzo tip="fak">KOMP</uzo>
+    <dif>
+      Te&hcirc;niko pri algoritma solvado de problemoj, prilaborado de
+      datumoj
+      helpe de <ref tip="vid" cel="komput.0ilo">komputiloj</ref>:
+      <ekz>
+        oni trovas en &gcirc;i &ccirc;iujn &ccirc;iutagajn nociojn de teoria
+        <tld/>o
+        <fnt>
+        <aut>PP</aut>,
+        <vrk>Valora konsultlibro (Sergio Pokrovskij, Komputika
+        leksikono)</vrk>,
+        <bib>Monato</bib>,
+        <lok>jaro 1995a, numero 12a, p. 15a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="komput.0ado">komputado</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_ib;&c_n;&c_f;&c_a;&c_r;&c_m;&c_a;&c_t;&c_y;&c_k;&c_a;</trd>
+  <trd lng="ca">inform&agrave;tica</trd>
+  <trdgrp lng="cs">
+    <trd>komputika</trd>,
+    <trd>počítačová technika</trd>
+  </trdgrp>
+  <trd lng="de">Informatik</trd>
+  <trdgrp lng="en">
+    <trd>computer science</trd>,
+    <trd>information technology<klr> (IT)</klr></trd>
+  </trdgrp>
+  <trd lng="es">inform&aacute;tica</trd>
+  <trdgrp lng="fr">
+    <trd>informatique<klr tip="ind"> (subst., discipline)</klr></trd>
+  </trdgrp>
+  <trd lng="hu">sz&aacute;m&iacute;t&aacute;stechnika</trd>
+  <trd lng="nl">informatica</trd>
+  <trdgrp lng="pt">
+    <trd>computa&ccedil;&atilde;o</trd>,
+    <trd>ci&ecirc;ncias da <ind>computa&ccedil;&atilde;o</ind></trd>,    
+    <trd>inform&aacute;tica</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_i;&c_n;&c_f;&c_o;&c_r;&c_m;&c_a;&c_t;&c_i;&c_k;&c_a;</trd>,
+    <trd>&c_v;&c_y;&c_ch;&c_i;&c_s;&c_l;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_a;&c_ja; &c_t;&c_je;&c_h;&c_n;&c_i;&c_k;&c_a;<klr tip="amb">
+    (&c_o;&c_b;&c_l;&c_a;&c_s;&c_t;&c_mol;
+    &c_z;&c_n;&c_a;&c_n;&c_i;&c_j;)</klr></trd>,
+    <trd>&c_i;&c_n;&c_f;&c_o;&c_r;&c_m;&c_a;&c_c;&c_i;&c_o;&c_n;&c_n;&c_a;&c_ja; &c_t;&c_je;&c_h;&c_n;&c_o;&c_l;&c_o;&c_g;&c_i;&c_ja;</trd>
+  </trdgrp>
+  <trd lng="sk">počítačová technika</trd>
+</drv>
+
+<drv mrk="komputik.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="komputik.0a.KOMP">
+    <dif>
+      Rilata al <tld/>o:
+      <ekz>
+        <tld/>a teknologio helpos al la senlaboruloj
+        <fnt>
+        <aut>Evgeni Georgiev</aut>,
+        <vrk>Komputika teknologio helpos al la senlaboruloj</vrk>,
+        <bib>Monato</bib>,
+        <lok>jaro 2001a, numero 5a, p. 7a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="ca">inform&agrave;tic</trd>
+  <trd lng="de">Informatik-</trd>
+  <trd lng="es">inform&aacute;tico</trd>
+  <trdgrp lng="fr">
+    <trd>informatique<klr tip="ind"> (adj.)</klr></trd>
+  </trdgrp>
+  <trd lng="hu">sz&aacute;m&iacute;t&aacute;stechnikai</trd>
+  <trd lng="nl">computer-</trd>  
+  <trdgrp lng="ru">
+    <trd>&c_k;&c_o;&c_m;&c_p;&c_mol;&c_ju;&c_t;&c_je;&c_r;&c_n;&c_y;&c_j;</trd>,
+    <trd>&c_o;&c_t;&c_n;&c_o;&c_s;&c_ja;&c_shch;&c_i;&c_j;&c_s;&c_ja; &c_k; <ind>&c_v;&c_y;&c_ch;&c_i;&c_s;&c_l;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_o;&c_j;
+    &c_t;&c_je;&c_h;&c_n;&c_i;&c_k;&c_je;</ind></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: komputik.xml,v $
+Revision 1.16  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.14  2012/07/14 20:10:09  revo
+Marc Rausell: + trd ca
+
+Revision 1.13  2009/08/21 16:30:53  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.12  2007/01/01 19:47:48  revo
+Tulio Flores: +tr pt
+
+Revision 1.11  2006/09/05 15:23:25  revo
+Jeromo Vasxe: + komp
+
+Revision 1.10  2005/08/13 16:33:20  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.9  2005/02/20 17:34:41  revo
+Marc Bavant: mod trd fr
+
+Revision 1.8  2004/02/16 20:48:55  revo
+Jeromo Vasxe: kor fnt piv2 -> spiv
+
+Revision 1.7 2003/09/04 16:30:59 revo
+-->
+</vortaro>

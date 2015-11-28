@@ -1,0 +1,146 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: revu.xml,v 1.18 2015/07/04 08:37:42 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>revu</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="revu.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="revu.0o.MIL">
+    <dif>
+      Solena parada inspektado al soldata trupo.
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="kontro.0o">kontrolo</ref>
+    </refgrp>
+    <trd lng="be">&c_a;&c_g;&c_l;&c_ja;&c_d; <klr>(&c_v;&c_a;&c_j;&c_s;&c_k;&c_o;&c_v;&c_y;)</klr></trd>
+    <trdgrp lng="ca">
+      <trd>ressenya</trd>,
+      <trd>inspecci&oacute;</trd>
+    </trdgrp>
+    <trd lng="de">Truppenschau</trd>
+    <trdgrp lng="hu">
+      <trd>d&iacute;szszemle</trd>,
+      <trd>csapatszemle</trd>
+    </trdgrp>
+    <trd lng="ru">&c_v;&c_o;&c_je;&c_n;&c_n;&c_y;&c_j; <ind>&c_s;&c_m;&c_o;&c_t;&c_r;</ind></trd>
+  </snc>
+  <snc mrk="revu.0o.INF_artikolo">
+    <dif>
+      Gazeta artikolo pri aktuala&jcirc;oj en iu aparta fako.
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="feliet.0o">felietono</ref>,
+      <ref cel="kronik1.0o">kroniko</ref>,
+      <ref cel="raport">raporto</ref>,
+      <ref cel="recenz">recenzo</ref>
+    </refgrp>
+    <trd lng="be">&c_a;&c_g;&c_l;&c_ja;&c_d; <klr>(&c_u; &c_p;&c_r;&c_e;&c_s;&c_je;)</klr></trd>
+    <trd lng="ca">gaseta</trd>
+    <trd lng="hu">szemle</trd>
+    <trd lng="ru">&c_o;&c_b;&c_o;&c_z;&c_r;&c_je;&c_n;&c_i;&c_je;</trd>
+  </snc>
+  <snc mrk="revu.0o.INF_gazeto">
+    <dif>
+      Perioda, sed ne &ccirc;iutaga presa&jcirc;o en formo de gazeto a&ubreve; bro&scirc;uro kaj
+      speciale dedi&ccirc;ita al iu aparta fako:
+      <ekz>
+        internacia scienca <tld/>o.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_ch;&c_a;&c_s;&c_o;&c_p;&c_ib;&c_s;</trd>
+    <trd lng="ca">magaz&iacute;n</trd>
+    <trd lng="de">Zeitschrift</trd>
+    <trd lng="hu">foly&oacute;irat</trd>
+    <trd lng="nl">tijdschrift</trd>
+    <trd lng="ru">&c_zh;&c_u;&c_r;&c_n;&c_a;&c_l;</trd>
+  </snc>
+  <snc mrk="revu.0o.TEA">
+    <uzo tip="fak">TEA</uzo>
+    <dif>
+      Teatra&jcirc;o temanta pri aktuala&jcirc;oj prezentataj en fantazia kaj &scirc;erca
+      maniero.
+    </dif>
+    <trd lng="be">&c_r;&c_e;&c_v;&c_ju;</trd>
+    <trd lng="hu">boh&oacute;zat</trd>
+    <trd lng="ru">&c_r;&c_je;&c_v;&c_ju;</trd>
+  </snc>
+  <trd lng="ca">revista</trd>
+  <trd lng="cs">vojenská přehlídka</trd>
+  <trd lng="de">Revue</trd>
+  <trd lng="en">review</trd>
+  <trd lng="es">revista</trd>
+  <trd lng="fr">revue</trd>
+  <trd lng="nl">revue</trd>
+  <trd lng="sk">vojenská prehliadka</trd>
+</drv>
+
+<drv mrk="revu.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      Fari <tld/>on 1 a&ubreve; 2:
+      <ekz>
+        la re&gcirc;o <tld/>is la Sirianojn<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="ekzame.0i.PED">ekzameni</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="ca">
+    <trd>revistar</trd>,
+    <trd>passar revista</trd>
+  </trdgrp>
+  <trd lng="cs">přehlížet</trd>
+  <trd lng="es">pasar revista</trd>
+  <trd lng="fr">passer en revue</trd>
+  <trdgrp lng="hu">
+    <trd>megszeml&eacute;l</trd>,
+    <trd>szeml&eacute;z</trd>,
+    <trd>&aacute;ttekint</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>een <ind>parade</ind> afnemen</trd>,
+    <trd>inspecteren</trd>
+  </trdgrp>
+  <trd lng="pt">revista</trd>
+  <trd lng="sk">prehliadať</trd>
+</drv>
+</art>
+<!--
+$Log: revu.xml,v $
+Revision 1.18  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.16  2011/12/04 23:10:38  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.15  2010/07/10 16:30:53  revo
+Agustin Garcia Lopez: eraro es
+
+Revision 1.14  2010/06/23 16:31:01  revo
+Agustin Garcia Lopez: +trd es
+
+Revision 1.13  2006/07/19 16:32:33  revo
+Jeromo Vasxe: + trd fr
+
+Revision 1.12 2006/02/20 17:34:15 revo
+Tulio Flores: +trd pt
+
+Revision 1.11 2004/09/20 18:27:54 revo
+Jozefo Horvath: +trd hu
+
+Revision 1.10 2004/03/24 17:31:02 revo
+Dmitri Gabinski: +trd be
+
+Revision 1.9 2002/01/25 17:33:10 revo
+-->
+</vortaro>

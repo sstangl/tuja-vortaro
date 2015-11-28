@@ -1,0 +1,147 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: homomo.xml,v 1.19 2009/09/17 16:30:33 revo Exp $">
+<kap>
+<rad>homomorfi</rad>/o
+</kap>
+<drv mrk="homomo.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>MatVort</bib></fnt>
+  <snc>
+    <dif>
+      Tia <ref tip="super" cel="bild.0igo.MAT">bildigo</ref> inter du
+      samspecaj <ref cel="strukt.algebra0o">strukturoj</ref>, ke
+      &gcirc;i iasence <ctl>respektas</ctl> ilin. Pli
+      precize, se oni signas la strukturojn per
+      <frm>(<g>E</g>,&#8710;<sub>1</sub>,&#8710;<sub>2</sub>,
+      ...,&#8710;<sub><k>n</k></sub>)</frm> kaj
+      <frm>(<g>F</g>,&#8711;<sub>1</sub>,&#8711;<sub>2</sub>,
+      ...,&#8711;<sub><k>n</k></sub>)</frm>,
+      la bildigo <frm><k>f</k></frm> estas tia, ke:
+      (1) por &ccirc;iu duopo de
+      <ref cel="operac.interna0o">internaj operacioj</ref>
+      <frm>&#8710;<sub><k>i</k></sub></frm> kaj 
+      <frm>&#8711;<sub><k>i</k></sub></frm> veras, ke
+      <frm><k>f</k>(<k>x</k>&#8710;<sub><k>i</k></sub><k>y</k>) = 
+      <k>f</k>(<k>x</k>)&#8711;<sub><k>i</k></sub><k>f</k>(<k>y</k>)</frm>,
+      kiuj ajn estas <frm><k>x</k>, <k>y</k>&#8712;<g>E</g></frm>;
+      (2) por &ccirc;iu duopo de
+      <ref cel="operac.ekstera0o">eksteraj operacioj</ref>
+      <frm>&#8710;<sub><k>k</k></sub></frm> kaj 
+      <frm>&#8711;<sub><k>k</k></sub></frm> (de la sama aro 
+      <frm><g>R</g></frm> super respektive <frm><g>E</g></frm> 
+      kaj <frm><g>F</g></frm>) veras, ke
+      <frm><k>f</k>(&alfa;&#8710;<sub><k>k</k></sub><k>x</k>) = 
+      &alfa;&#8711;<sub><k>k</k></sub><k>f</k>(<k>x</k>)</frm>,
+      kiuj ajn estas <frm><k>x</k>&#8712;<g>E</g></frm> 
+      kaj <frm>&alfa;&#8712;<g>R</g></frm>:
+      <ekz>
+        grupa, ringa, modula, vektor(spac)a <tld/>o;
+      </ekz>
+      <ekz>
+        la bildo per grupa <tld/>o de la ne&ubreve;tra elemento de
+        la fonto-aro estas la ne&ubreve;tra elemento de la celo-aro.
+      </ekz>
+    </dif>
+    <refgrp tip="sub">
+      <ref cel="izomor1.0o">izomorfio</ref>,
+      <ref cel="endomo.0o">endomorfio</ref>,
+      <ref cel="auxtom2.0o">a&ubreve;tomorfio</ref>;
+    </refgrp>
+    <refgrp tip="vid">
+      <ref cel="linear.0a.homomorfio">lineara</ref>;
+    </refgrp>
+    <refgrp tip="vid">
+      Atributoj de homomorfio:
+      <ref cel="bild.0aro.MAT">bildaro</ref>,
+      <ref cel="kern.0o.homomorfio">kerno</ref>;
+      atributoj de vektora homomorfio:
+      <ref cel="matric.0o.homomorfio">matrico</ref>,
+      <ref cel="rang.0o.homomorfio">rango</ref>.
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_g;&c_o;&c_m;&c_a;&c_m;&c_a;&c_r;&c_f;&c_ib;&c_z;&c_m;</trd>
+  <trd lng="de">Homomorphismus</trd>
+  <trd lng="en">homomorphism</trd>
+  <trdgrp lng="fr">
+    <trd>homomorphisme</trd>,
+    <trd>morphisme</trd>
+  </trdgrp>
+  <trd lng="hu">homomorfizmus</trd>
+  <trd lng="it">omomorfismo</trd>
+  <trd lng="nl">homomorfisme</trd>
+  <trd lng="pl">homomorfizm</trd>
+  <trd lng="pt">homomorfismo</trd>
+  <trd lng="ru">&c_g;&c_o;&c_m;&c_o;&c_m;&c_o;&c_r;&c_f;&c_i;&c_z;&c_m;</trd>
+</drv>
+
+<drv mrk="homomo.0a">
+  <kap><tld/>a</kap>
+  <uzo tip="fak">MAT</uzo>
+  <snc mrk="homomo.0a.strukt">
+    <dif>
+      <klr>(p.p. du <ref cel="strukt.algebra0o">algebraj
+      strukturoj</ref>)</klr>
+      Tiaj, ke ekzistas <ref cel="homomo.0o"><tld/>o</ref> de unu al la
+      alia:
+      <ekz>
+        pruvu la <tld/>econ de la grupo de ebenaj
+        <ref cel="rotaci.0o.vektora">rotacioj</ref> kun la grupo de
+        <ref cel="komple.0o.MAT">kompleksoj</ref> kun modulo unu.
+      </ekz>
+    </dif>
+    <trd lng="de">homomorph</trd>
+    <trd lng="en">homomorphic</trd>
+    <trd lng="fr">homomorphe</trd>
+    <trd lng="hu">homomorfikus</trd>
+    <trd lng="it">omomorfo</trd>
+    <trd lng="nl">homomorf</trd>
+    <trd lng="pl">homomorficzny</trd>
+    <trd lng="pt">homomorfo</trd>
+    <trd lng="ru">&c_g;&c_o;&c_m;&c_o;&c_m;&c_o;&c_r;&c_f;&c_n;&c_y;&c_j;</trd>
+    <adm>
+      MatVort donas nur "homomorfa" cxi-sence. <aut>MB</aut>
+    </adm>
+    <rim>
+      Por &ccirc;i tiu senco ekzistas kutima sinonimo <ctl>homomorfa</ctl>.
+    </rim>
+  </snc>
+  <snc mrk="homomo.0a.bildigo">
+    <fnt><bib>PIV2</bib></fnt>
+    <dif>
+      <klr>(p.p. <ref cel="bild.0igo.MAT">bildigo</ref>)</klr>
+      Havanta ecojn de <ref cel="homomo.0o"><tld/>o</ref>.
+    </dif>
+  </snc>
+  <trd lng="be">&c_g;&c_o;&c_m;&c_a;&c_m;&c_o;&c_r;&c_f;&c_n;&c_y;</trd>
+</drv>
+</art>
+<!--
+$Log: homomo.xml,v $
+Revision 1.19  2009/09/17 16:30:33  revo
+Antonio Codazzi: +trd it
+
+Revision 1.18  2004/09/20 18:28:50  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.17  2003/12/19 17:57:32  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.16  2003/04/07 16:35:26  revo
+Marc Bavant: ~a: +ref interna
+
+Revision 1.15  2003/03/05 17:34:30  revo
+Marc Bavant: ~a: +fnt
+Revision 1.14  2003/02/01 17:33:05  revo
+Marc Bavant: +trd pl
+Revision 1.13  2003/01/02 17:46:38  revo
+Marc Bavant: +trd pl
+Revision 1.12  2002/11/22 17:33:24  revo
+Marc Bavant: +frm
+Revision 1..11  2002/07/17 17:33:01  revo
+Eduardo M. Kalinowski: ald trd pt
+-->
+</vortaro>

@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: astrag.xml,v 1.19 2015/07/04 08:37:31 revo Exp $">
+<kap>
+  <rad>astragal</rad>/o
+</kap>
+<drv mrk="astrag.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="astrag.0o.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:botanikaj_genroj">Genro</ref> el familio <ref
+      tip="malprt"
+      cel="fabac.0oj">fabacoj</ref>
+      (<trd lng="la">Astragalus</trd>).
+    </dif>
+    <trd lng="be">&c_k;&c_u;&c_r;&c_a;&c_v;&c_a;&c_j;</trd>
+    <trd lng="en">milk vetch</trd>
+    <trd lng="de">Tragant</trd>
+    <trd lng="fr">astragale<klr tip="amb"> (plante)</klr></trd>
+    <trdgrp lng="hu">
+      <trd>cs&uuml;df&udblac;</trd>,
+      <trd>b&oacute;ka</trd>
+    </trdgrp>
+    <trd lng="pl">traganek</trd>
+  </snc>
+  <snc mrk="astrag.0o.ARKI">
+    <uzo tip="fak">ARKI</uzo>
+    <dif>
+      <ref tip="super" cel="modlur.0o.ARKI">Modluro</ref>, kiu &ccirc;irka&ubreve;as
+      la
+      supran ekstremon de <ref tip="malprt"
+      cel="kolon.0o.ARKI">kolono</ref>:
+      <ekz>
+        <tld/>oj trovi&gcirc;as &ccirc;efe &ccirc;e romanordaj kolonoj.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_a;&c_s;&c_t;&c_r;&c_a;&c_g;&c_a;&c_l;</trd>
+    <trd lng="en">astragal</trd>
+    <trd lng="fr">astragale<klr tip="amb"> (moulure)</klr></trd>
+    <trd lng="hu">asztragalosz</trd>
+  </snc>
+  <snc mrk="astrag.0o.ANA">
+    <uzo tip="fak">ANA</uzo>
+    <dif>
+      La artikaj kalkaneaj surfacoj: malanta&ubreve;a kaj meza.
+    </dif>
+    <trd lng="fr">astragale<klr tip="amb"> (os)</klr></trd>
+    <trdgrp lng="hu">
+      <trd>bokacsont</trd>,
+      <trd>ugr&oacute;csont</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="cs">ozdoba na hlavici sloupu</trd>
+  <trd lng="it">astragalo</trd>
+  <trd lng="pl">ko&sacute;&cacute; skokowa</trd>
+  <trd lng="ru">&c_a;&c_s;&c_t;&c_r;&c_a;&c_g;&c_a;&c_l;</trd>
+  <trd lng="sk">ozdobná obruba na hlavici stĺpu</trd>
+</drv>
+</art>
+<!--
+$Log: astrag.xml,v $
+Revision 1.19  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/28 12:03:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2013/08/30 14:10:41  revo
+Wolfram Diestel: kor. lst-ref
+
+Revision 1.16  2013/08/26 15:10:32  revo
+Wolfram Diestel: referenco al listo bot genroj
+
+Revision 1.15  2010/11/06 17:30:18  revo
+Antonio Codazzi: +trd it
+
+Revision 1.14  2005/08/14 16:31:48  revo
+Jeromo Vasxe: + tez cxe snc arki
+
+Revision 1.13 2005/03/06 17:38:32 revo
+Vito Redsky: +trd pl
+
+Revision 1.12 2004/06/24 16:33:41 revo
+Dmitri Gabinski: +trd be
+
+Revision 1.11 2002/03/22 17:32:13 revo
+Yury Finkel: formatigis
+
+Revision 1.10 2002/03/20 17:32:57 revo
+-->
+</vortaro>

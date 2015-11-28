@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: satrap.xml,v 1.17 2015/07/04 08:37:43 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>satrap</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="satrap.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="satrap.0o.HIS">
+    <uzo tip="fak">HIS</uzo>
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      <ref tip="sin" cel="provin.0estro.POL">Provincestro</ref> en la
+      antikva Persujo:
+      <ekz>
+        Dario bonvolis starigi super sia regno cent dudek <tld/>ojn, por
+        administri lian tutan regnon
+        <fnt><bib>MT</bib>, <lok>&Dan; 6:1</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_a;&c_t;&c_r;&c_a;&c_p;</trd>
+  <trd lng="bg">&c_s;&c_a;&c_t;&c_r;&c_a;&c_p;</trd>
+  <trdgrp lng="cs">
+    <trd>bezohledný čl.<klr>(přen.)</klr></trd>,
+    <trd>panovačný</trd>,
+    <trd>satrapa</trd>
+  </trdgrp>
+  <trd lng="de">Satrap</trd>
+  <trd lng="en">satrap</trd>
+  <trd lng="fr">satrape</trd>
+  <trd lng="hu">szatrapa</trd>
+  <trd lng="it">satrapo</trd>
+  <trd lng="nl">satraap</trd>
+  <trd lng="ru">&c_s;&c_a;&c_t;&c_r;&c_a;&c_p;</trd>
+  <trdgrp lng="sk">
+    <trd>bezohľadný človek</trd>,
+    <trd>panovačný</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: satrap.xml,v $
+Revision 1.17  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.15  2013/12/18 15:10:13  revo
+Joop Eggen: +trd bg
+
+Revision 1.14  2010/06/17 16:31:17  revo
+Jeromo Vasxe: kor 1 fnt, prefere provinc en dif
+
+Revision 1.13  2009/09/30 16:30:40  revo
+Antonio Codazzi: +trd it
+
+Revision 1.12  2009/07/06 16:30:26  revo
+Russ Williams: +trd en
+
+Revision 1.11  2004/11/05 17:32:00  revo
+Jeromo Vasxe: + ekz, + tez, + trd fr, - snc fig
+
+Revision 1.10 2003/08/22 16:32:43 revo
+Dmitri Gabinski: +trd be
+
+Revision 1.9 2002/08/29 17:36:21 revo
+Jozefo Horvath: +trd hu
+
+Revision 1.8 2002/02/06 17:33:20 revo
+-->
+</vortaro>

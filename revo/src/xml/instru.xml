@@ -1,0 +1,920 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: instru.xml,v 1.40 2015/07/04 08:37:36 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>instru</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="instru.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>x</vspec></gra>
+  <snc mrk="instru.0i.PED">
+    <uzo tip="fak">PED</uzo>
+    <dif>
+      Transdoni al iu sciencajn metodajn konojn a&ubreve; utilajn 
+      precizajn sciojn:
+      <ekz>
+        dancu la dancisto, kaj muziku la muzikisto, sed <tld/>u nur
+        la
+        <tld/>ituloj<fnt>Z</fnt>;
+      </ekz><ekz>
+        <tld/>i infanon pri gramatiko;
+      </ekz><ekz>
+        <tld/>i gramatikon al infano;
+      </ekz><ekz>
+        la Eternulo ordonis <tld/>i al vi la le&gcirc;ojn
+        <fnt><bib>MT</bib>, <lok>&Rea; 4:14</lok></fnt>;
+      </ekz><ekz>
+        li <tld/>as miajn brakojn stre&ccirc;i pafarkon
+        <fnt><bib>MT</bib>, <lok>&Sa2; 22:35</lok></fnt>;
+      </ekz><ekz>
+        oni <tld/>is &scirc;in danci kaj paradi;
+      </ekz><ekz>
+        mi <tld/>os vin, kion vi devas paroli
+        <fnt><bib>MT</bib>, <lok>&Eli; 4:12</lok></fnt>;
+      </ekz><ekz>
+        <tld/>i al iu, kiel (li povos) sukcesi;
+      </ekz><ekz>
+        mi <tld/>os <klr>(montros)</klr>,
+        kio estas moki min<fnt>Z</fnt>;
+      </ekz><ekz>
+        <tld/>i iun per sia ekzemplo;
+      </ekz><ekz>
+        por ke la <tld/>itaj lingvistoj povu tuj kompreni la
+        tekston
+        <fnt><bib>EE</bib>, <lok>&ccirc;apitro 7a</lok></fnt>;
+      </ekz><ekz>
+        la <tld/>ita mondo<fnt>Z</fnt>;
+      </ekz><ekz>
+        bone, tre alte <tld/>ita homo<fnt>Z</fnt>;
+      </ekz><ekz>
+        tiaj <tld/>itaj <klr>(de <tld/>itulo)</klr> paroloj tre
+        imponas
+        <fnt><bib>EE</bib>, <lok>&ccirc;apitro 3a</lok></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="eduk.0i">eduki</ref>,
+      <ref cel="lern.0igi">lernigi</ref>
+    </refgrp>
+  </snc>
+  <snc mrk="instru.0i.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      <klr>(p.p. okaza&jcirc;oj)</klr>
+      Montri al iu la la&ubreve;celan konduton:
+      <ekz>
+        nin <tld/>as eraro, kiun faras najbaro
+        <fnt><bib>PrV</bib></fnt>;
+      </ekz><ekz>
+        <tld/>ita de la malfeli&ccirc;o;
+      </ekz><ekz>
+        praktika sperto nin <tld/>as, ke...;
+      </ekz><ekz>
+        tio <tld/>os al vi singardemon
+        <fnt><bib>Far1</bib>, <lok>&ccirc;apitro 18a</lok></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="instru1">instrukcii</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_v;&c_u;&c_ch;&c_y;&c_c;&c_mol;</trd>,
+    <trd>&c_n;&c_a;&c_v;&c_u;&c_ch;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_v;&c_y;&c_k;&c_l;&c_a;&c_d;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_n;&c_a;&c_s;&c_t;&c_a;&c_w;&c_l;&c_ja;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="bg">&c_p;&c_r;&c_je;&c_p;&c_o;&c_d;&c_a;&c_v;&c_a;&c_m;</trd>
+  <trdgrp lng="cs">
+    <trd>instruovat</trd>,
+    <trd>poučovat</trd>,
+    <trd>učit</trd>,
+    <trd>vyu&ccaron;ovat</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>lehren</trd>,
+    <trd>unterrichten</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>teach</trd>,
+    <trd>instruct</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>ense&ntilde;ar</trd>,
+    <trd>instruir</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>apprendre<klr tip="ind"> (&agrave; quelqu'un)</klr></trd>,
+    <trd>enseigner</trd>
+    <trd>instruire</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>tan&iacute;t</trd>,
+    <trd>oktat</trd>
+  </trdgrp>
+  <trdgrp lng="id">
+    <trd>[<ind>ajar</ind>] mengajar</trd>,
+    <trd>[<ind>ajar</ind>] mengajarkan</trd>
+  </trdgrp>
+  <trd lng="nl">onderwijzen</trd>
+  <trdgrp lng="pl">
+    <trd>uczy&cacute;</trd>,
+    <trd>naucza&cacute;</trd>,
+    <trd>poucza&cacute;</trd>,
+    <trd>instruowa&cacute;</trd>,
+    <trd>kszta&lstroke;ci&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>instruir</trd>,
+    <trd>lecionar</trd>,
+    <trd>ensinar</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_o;&c_b;&c_u;&c_ch;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_u;&c_ch;&c_i;&c_t;&c_mol;</trd>,
+    <trd>
+      &c_p;&c_r;&c_je;&c_p;&c_o;&c_d;&c_a;&c_v;&c_a;&c_t;&c_mol;
+    </trd>,
+    <trd>&c_n;&c_a;&c_s;&c_t;&c_a;&c_v;&c_l;&c_ja;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>ponaučiť</trd>,
+    <trd>učiť</trd>,
+    <trd>vyučovať</trd>,
+    <trd>školiť</trd>
+  </trdgrp>
+  <trd lng="vo">tid&ouml;n</trd>
+</drv>
+
+<drv mrk="instru.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="instru.0a.0plena">
+    <dif>
+      <tld lit="I"/>anta, plena je <tld/>oj:
+      <ekz>
+        <tld/>a leciono;
+      </ekz><ekz>
+        <tld/>a ekzemplo
+        <fnt><bib>MT</bib>, <lok>&Rea; 28:37</lok></fnt>,
+      </ekz><ekz>
+        rakonto, libro.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="instru.0plena"><tld/>plena</ref>
+    <trd
+      lng="be">&c_p;&c_a;&c_v;&c_u;&c_ch;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>
+    <trdgrp lng="de">
+      <trd>lehrreich</trd>,
+      <trd>instruktiv</trd>
+    </trdgrp>
+    <trd lng="en">instructive</trd>
+    <trd lng="es">instructivo</trd>
+    <trdgrp lng="fr">
+      <trd>instructif</trd>
+    </trdgrp>
+    <trd lng="hu">tanuls&aacute;gos</trd>
+    <trd lng="id">instruktif</trd>
+    <trd lng="nl">leerrijk</trd>
+    <trdgrp lng="pl">
+      <trd>pouczaj&aogonek;cy</trd>,
+      <trd>instrukta&zdot;owy</trd>,
+      <trd>kszta&lstroke;c&aogonek;cy</trd>
+    </trdgrp>
+    <trd lng="pt">instrutivo</trd>
+    <trdgrp lng="ru">
+      <trd>
+        &c_p;&c_o;&c_u;&c_ch;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;
+      </trd>,
+      <trd>&c_o;&c_b;&c_u;&c_ch;&c_a;&c_ju;&c_shch;&c_i;&c_j;</trd>
+    </trdgrp>
+    <trd lng="vo">tidik</trd>
+  </snc>
+  <snc mrk="instru.0a.0rilata">
+    <dif>
+      Rilata al <tld/>ado:
+      <ekz>
+        al la bordo de Nesku&ccirc;nyj sin apogis <tld/>a &scirc;ipo
+        <fnt><bib>Metrop</bib><lok>&ccirc;apitro 11a</lok></fnt>.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="instru.pri0a">pri<tld/>a</ref>
+    <trdgrp lng="en">
+      <trd>instructional</trd>,
+      <trd>teaching</trd>
+    </trdgrp>
+    <trdgrp lng="es">
+      <trd>de <ind>instrucci&oacute;n</ind></trd>,
+      <trd>de <ind>ense&ntilde;anza</ind></trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>d'<ind>instruction</ind></trd>,
+      <trd>d'<ind>enseignement</ind></trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>tan&iacute;t&aacute;si</trd>,
+      <trd>tan-</trd>,
+      <trd>oktat&aacute;si</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd>Lehr-</trd>,
+      <trd>Schul-</trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>pouczaj&aogonek;cy</trd>,
+      <trd>instrukta&zdot;owy</trd>,
+      <trd>kszta&lstroke;c&aogonek;cy</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_u;&c_ch;&c_je;&c_b;&c_n;&c_y;&c_j;</trd>,
+      <trd>&c_o;&c_b;&c_u;&c_ch;&c_a;&c_ju;&c_shch;&c_i;&c_j;</trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>instruktivní</trd>,
+    <trd>poučný</trd>,
+    <trd>vyučovací</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>poučný</trd>,
+    <trd>vyučovací</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="instru.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="instru.0o.instruado">
+    <ref tip="dif" cel="instru.0ado"><tld/>ado:</ref>
+    <ekz>
+      doni <tld/>on;
+    </ekz><ekz>
+      preni de io <tld/>on<fnt>Z</fnt>.
+    </ekz>
+    <trd lng="es">ense&ntilde;anza</trd>
+    <trd lng="hu">tan&iacute;t&aacute;s</trd>
+    <trdgrp lng="pl">
+      <trd>uczenie</trd>,
+      <trd>nauczanie</trd>,
+      <trd>pouczanie</trd>,
+      <trd>instruowanie</trd>,
+      <trd>kszta&lstroke;cenie</trd>
+    </trdgrp>
+    <trdgrp lng="pt">
+      <trd>instru&ccedil;&atilde;o<klr tip="amb"> (a&ccedil;&atilde;o de
+          instruir)</klr></trd>,
+      <trd>ensino<klr tip="amb"> (a&ccedil;&atilde;o de
+          instruir)</klr></trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="instru.0o.instruajxo">
+    <ref tip="dif" cel="instru.0ajxo"><tld/>a&jcirc;o:</ref>
+    <ekz>
+      kano <klr>(batado)</klr> kaj <tld/>o donas sa&gcirc;on
+      <fnt><bib>MT</bib>, <lok>&Sen; 29:15</lok></fnt>;
+    </ekz><ekz>
+      la bu&scirc;o de sa&gcirc;uloj semas <tld/>on
+      <fnt><bib>MT</bib>, <lok>&Sen; 15:7</lok></fnt>;
+    </ekz><ekz>
+      a&ubreve;skulti, observi, mal&scirc;ati ies <tld/>ojn;
+    </ekz><ekz>
+      profiti la <tld/>ojn de profesoro;
+    </ekz><ekz>
+      la&ubreve; la plej fre&scirc;aj <tld/>oj de la scienco;
+    </ekz><ekz>
+      a&ubreve;skulti la <tld/>ojn de la vivo<fnt>Z</fnt>, de la
+      historio;
+    </ekz><ekz>
+      tiu terura ekzemplo servu al vi kiel <tld/>o.
+    </ekz>
+    <trdgrp lng="es">
+      <trd>ense&ntilde;anza</trd>,
+      <trd>conocimiento</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>enseignement<klr tip="ind"> (ce qu'on
+      enseigne)</klr></trd>,
+      <trd>le&ccedil;on<klr tip="ind"> (enseignement)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>tanult ismeret</trd>,
+      <trd>tanuls&aacute;g</trd>
+    </trdgrp>
+    <trd lng="id">[<ind>ajar</ind>] pengajaran</trd>
+    <trdgrp lng="pl">
+      <trd>nauka</trd>,
+      <trd>pouczenie</trd>,
+      <trd>instrukta&zdot;</trd>,
+      <trd>kszta&lstroke;cenie</trd>,
+      <trd>wskaz&oacute;wka</trd>,
+      <trd>nauczka<klr> (przen.)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="pt">
+      <trd>uma <ind>li&ccedil;&atilde;o</ind></trd>,
+      <trd>um <ind>ensinamento</ind></trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>instrukce</trd>,
+    <trd>instruktáž</trd>,
+    <trd>instruování</trd>,
+    <trd>poučení</trd>,
+    <trd>učení</trd>,
+    <trd>vyučování</trd>
+  </trdgrp>
+  <trd lng="ru">&c_u;&c_ch;&c_je;&c_n;&c_i;&c_je;</trd>
+  <trdgrp lng="sk">
+    <trd>inštrukcia</trd>,
+    <trd>náuka</trd>,
+    <trd>ponaučenie</trd>,
+    <trd>učenie</trd>,
+    <trd>vyučovanie</trd>
+  </trdgrp>
+  <trd lng="vo">tidam</trd>
+</drv>
+
+<drv mrk="instru.0ado">
+  <kap><tld/>ado</kap>
+  <snc mrk="instru.0ado.PED">
+    <uzo tip="fak">PED</uzo>
+    <dif>
+      Ago, <ref tip="lst" cel="art.0o.tehxniko"
+      lst="voko:artoj">arto</ref> 
+      de tiu, kiu <tld/>as:
+      <ekz>
+        nova metodo por <tld/>ado;
+      </ekz><ekz>
+        la ministro de la publika <tld/>ado
+        <fnt>(<aut>Zamenhof</aut>: <vrk>Parolo anta&ubreve;
+            la Unua Kongreso Esperantista en Boulogne sur Mer,
+            1905</vrk>)</fnt>;
+      </ekz><ekz>
+        ricevi bonan <tld/>adon.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_n;&c_a;&c_v;&c_u;&c_ch;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>,
+    <trd>&c_p;&c_a;&c_v;&c_u;&c_ch;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>,
+    <trd>
+      &c_v;&c_y;&c_k;&c_l;&c_a;&c_d;&c_a;&c_n;&c_mol;&c_n;&c_je;
+    </trd>,
+    <trd>&c_a;&c_d;&c_u;&c_k;&c_a;&c_c;&c_y;&c_ja;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>instruování</trd>,
+    <trd>poučování</trd>,
+    <trd>učení</trd>,
+    <trd>vyučování</trd>,
+    <trd>výuka</trd>,
+    <trd>školení</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Lehre</trd>,
+    <trd>Unterricht</trd>,
+    <trd>P&auml;dagogik</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>teaching</trd>,
+    <trd>instruction</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>ense&ntilde;anza</trd>,
+    <trd>instrucci&oacute;n</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>enseignement<klr tip="ind"> (fait d'enseigner)</klr></trd>,
+    <trd>instruction<klr tip="ind"> (fait d'instruire)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>tan&iacute;t&aacute;s</trd>,
+    <trd>oktat&aacute;s</trd>
+  </trdgrp>
+  <trdgrp lng="id">
+    <trd>[<ind>ajar</ind>] pengajaran</trd>,
+    <trd>[<ind>ajar</ind>] pembelajaran</trd>,
+    <trd>instruksi</trd>
+  </trdgrp>
+  <trd lng="nl">onderwijs</trd>
+  <trdgrp lng="pl">
+    <trd>uczenie</trd>,
+    <trd>nauczanie</trd>,
+    <trd>pouczanie</trd>,
+    <trd>instruowanie</trd>,
+    <trd>kszta&lstroke;cenie</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>instru&ccedil;&atilde;o<klr tip="amb"> (a&ccedil;&atilde;o de
+        instruir)</klr></trd>,
+    <trd>
+      ensino<klr tip="amb"> (a&ccedil;&atilde;o de instruir)</klr>
+    </trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_o;&c_b;&c_u;&c_ch;&c_je;&c_n;&c_i;&c_je;</trd>,
+    <trd>
+      &c_p;&c_r;&c_je;&c_p;&c_o;&c_d;&c_a;&c_v;&c_a;&c_n;&c_i;&c_je;
+    </trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>vyučovanie</trd>,
+    <trd>výučba</trd>,
+    <trd>školenie</trd>
+  </trdgrp>
+  <trd lng="vo">tid&uuml;p</trd>
+</drv>
+
+<drv mrk="instru.0ajxo">
+  <kap><tld/>a&jcirc;o</kap>
+  <snc>
+    <dif>
+      Kono, scio <tld/>ita al iu.
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="admon">admono</ref>,
+      <ref cel="lecion.0o">leciono</ref>,
+      <ref cel="predik.0o">prediko</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_u;&c_r;&c_o;&c_k;</trd>,
+    <trd>&c_v;&c_je;&c_d;&c_y;</trd>
+  </trdgrp>
+  <trd lng="de">Lehre</trd>
+  <trdgrp lng="es">
+    <trd>ense&ntilde;anza</trd>,
+    <trd>lecci&oacute;n</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>enseignement<klr tip="ind"> (ce qu'on
+    enseigne)</klr></trd>,
+    <trd>le&ccedil;on<klr tip="ind"> (enseignement)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>tanult ismeret</trd>,
+    <trd>tanuls&aacute;g</trd>
+  </trdgrp>
+  <trd lng="id">[<ind>ajar</ind>] pelajaran</trd>
+  <trd lng="nl">onderwezen <ind>kennis</ind></trd>
+  <trdgrp lng="pl">
+    <trd>nauka</trd>,
+    <trd>pouczenie</trd>,
+    <trd>instrukta&zdot;</trd>,
+    <trd>kszta&lstroke;cenie</trd>,
+    <trd>wskaz&oacute;wka</trd>,
+    <trd>nauczka<klr> (przen.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>uma <ind>li&ccedil;&atilde;o</ind></trd>,
+    <trd>um <ind>ensinamento</ind></trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_u;&c_r;&c_o;&c_k;
+      <klr>(&c_p;&c_je;&c_r;&c_je;&c_n;.)</klr></trd>,
+    <trd>&c_p;&c_o;&c_u;&c_ch;&c_je;&c_n;&c_i;&c_je;</trd>,
+    <trd>&c_n;&c_a;&c_s;&c_t;&c_a;&c_v;&c_l;&c_je;&c_n;&c_i;&c_je;</trd>,
+    <trd>&c_u;&c_ch;&c_je;&c_n;&c_i;&c_je;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="instru.0ejo">
+  <kap><tld/>ejo</kap>
+  <snc mrk="instru.0ejo.lernejo">
+    <uzo tip="fak">PED</uzo>
+    <ref cel="lern.0ejo" tip="dif">lernejo</ref>
+  </snc>
+  <trd lng="cs">učebna</trd>
+  <trdgrp lng="de">
+    <trd>Schule</trd>,
+    <trd>Unterrichtsraum</trd>,
+    <trd>Seminarraum</trd>
+  </trdgrp>
+  <trd lng="en">school</trd>
+  <trdgrp lng="es">
+    <trd>colegio</trd>,
+    <trd>escuela</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>&eacute;cole</trd>,
+    <trd>&eacute;tablissement scolaire</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>iskola</trd>,
+    <trd>oktat&oacute;terem</trd>,
+    <trd>oktat&aacute;si helyis&eacute;g</trd>,
+  </trdgrp>
+  <trd lng="id">sekolah</trd>
+  <trd lng="nl">onderwijsinstelling</trd>
+  <trdgrp lng="pl">
+    <trd>szko&lstroke;a</trd>,
+    <trd>uczelnia</trd>
+  </trdgrp>
+  <trd lng="pt">escola</trd>
+  <trd lng="ru">&c_u;&c_ch;&c_je;&c_b;&c_n;&c_o;&c_je; &c_z;&c_a;&c_v;&c_je;&c_d;&c_je;&c_n;&c_i;&c_je;</trd>
+  <trd lng="sk">učebňa</trd>
+</drv>
+
+<drv mrk="instru.0igxi">
+  <kap><tld/>i&gcirc;i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="instru.0igxi.PED">
+    <dif>
+      I&gcirc;i <tld/>ita:
+      <ekz>
+        <tld/>i&gcirc;i sen profesoro;
+      </ekz><ekz>
+        per fremda sperto neniu <tld/>i&gcirc;as;
+      </ekz><ekz>
+        <tld/>i&gcirc;u, ju&gcirc;istoj de la tero<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_n;&c_a;&c_v;&c_u;&c_ch;&c_y;&c_c;&c_c;&c_a;</trd>,
+    <trd>&c_v;&c_y;&c_v;&c_u;&c_ch;&c_y;&c_c;&c_c;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>lernen</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd><ind>formar</ind>se<klr tip="ind">
+    (instruirse)</klr></trd>,
+    <trd><ind>educar</ind>se</trd>,
+    <trd><ind>instruir</ind>se</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>se <ind>former</ind><klr tip="ind">
+    (s'instruire)</klr></trd>,
+    <trd>s'<ind>instruire</ind></trd>
+  </trdgrp>
+  <trd lng="hu">tanul</trd>
+  <trd lng="id">[<ind>ajar</ind>] belajar</trd>
+  <trd lng="nl">leren</trd>
+  <trdgrp lng="pl">
+    <trd>uczy&cacute; si&eogonek;</trd>,
+    <trd>kszta&lstroke;ci&cacute; si&eogonek;</trd>,
+    <trd>wyci&aogonek;gn&aogonek;&cacute; <ind>nauk&eogonek;</ind>
+      <klr> (z czego&sacute;)</klr>
+    </trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>instruir-se</trd>,
+    <trd>aprender</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_o;&c_b;&c_u;&c_ch;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>,
+    <trd>&c_n;&c_a;&c_u;&c_ch;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="instru.0isto">
+  <kap><tld/>isto<fnt>Z</fnt></kap>
+  <snc mrk="instru.0isto.PED">
+    <tezrad fak="PED"/>
+    <uzo tip="fak">PED</uzo>
+    <dif>
+      Homo, kiu profesie <tld/>as:
+      <ekz>
+        la patro, <tld/>isto de vila&gcirc;a lernejo
+        <fnt>
+          <bib>Jamburg</bib>, <lok>&ccirc;apitro 6a, p. 34a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_n;&c_a;&c_s;&c_t;&c_a;&c_w;&c_n;&c_ib;&c_k;</trd>,
+    <trd>&c_v;&c_y;&c_k;&c_l;&c_a;&c_d;&c_ch;&c_y;&c_k;</trd>
+  </trdgrp>
+  <trd lng="bg">&c_u;&c_ch;&c_i;&c_t;&c_je;&c_l;</trd>
+  <trd lng="cs">vyučující</trd>
+  <trdgrp lng="de">
+    <trd>Lehrer</trd>,
+    <trd>Lehrerin</trd>
+  </trdgrp><trdgrp lng="de">
+    <trd>Lehrer</trd>,
+    <trd>Lehrerin</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>teacher</trd>,
+    <trd>instructor</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>profesor</trd>,
+    <trd>maestro</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>enseignant</trd>,
+    <trd>professeur<klr tip="ind"> (enseignant)</klr></trd>,
+    <trd>prof<klr tip="ind"> (enseignant)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>tan&iacute;t&oacute;</trd>,
+    <trd>tan&aacute;r</trd>,
+    <trd>oktat&oacute;</trd>
+  </trdgrp>
+  <trdgrp lng="id">
+    <trd>guru</trd>,
+    <trd>instruktur</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>onderwijzer</trd>,
+    <trd>leraar</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>nauczyciel</trd>,
+    <trd>instruktor</trd>,
+    <trd>profesor</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>professor</trd>,
+    <trd>professora</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>
+      &c_p;&c_r;&c_je;&c_p;&c_o;&c_d;&c_a;&c_v;&c_a;&c_t;&c_je;&c_l;&c_mol;
+    </trd>,
+    <trd>&c_u;&c_ch;&c_i;&c_t;&c_je;&c_l;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="sk">vyučujúci</trd>
+  <trd lng="vo">tidel</trd>
+</drv>
+
+<drv mrk="instru.0iteco">
+  <kap><tld/>iteco</kap>
+  <snc mrk="instru.0iteco.KOMUNE">
+    <dif>
+      Tuto de la akiritaj konoj, scioj; stato de <tld/>ita homo:
+      <ekz>
+        havi ampleksan <tld/>itecon.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_v;&c_u;&c_ch;&c_o;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
+    <trd>
+      &c_a;&c_d;&c_u;&c_k;&c_a;&c_v;&c_a;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;
+    </trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>učenost</trd>,
+    <trd>vzdělanost</trd>
+  </trdgrp>
+  <trd lng="de">Gelehrtheit</trd>
+  <trdgrp lng="es">
+    <trd>el conocimiento</trd>,
+    <trd>la educaci&oacute;n<klr tip="ind"> (cuerpo de conocimientos)</klr>
+    </trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>connaissances<klr tip="ind"> (savoir)</klr></trd>,
+    <trd>
+      instruction<klr tip="ind"> (ensemble de connaissances)</klr>
+    </trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>tanults&aacute;g</trd>,
+    <trd>m&udblac;velts&eacute;g</trd>
+  </trdgrp>
+  <trd lng="id">[<ind>tahu</ind>] pengetahuan</trd>
+  <trd lng="nl">ontwikkeling</trd>
+  <trdgrp lng="pl">
+    <trd>wyszkolenie</trd>,
+    <trd>wyedukowanie</trd>,
+    <trd>wykszta&lstroke;cenie</trd>,
+    <trd>uczono&sacute;&cacute;</trd>
+  </trdgrp>
+  <trd lng="pt">conhecimento</trd>
+  <trdgrp lng="ru">
+    <trd>&c_u;&c_ch;&c_jo;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>,
+    <trd>&c_o;&c_b;&c_r;&c_a;&c_z;&c_o;&c_v;&c_a;&c_n;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>vzdelanie</trd>,
+    <trd>vzdelanosť</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="instru.0itulo">
+  <kap><tld/>itulo<fnt>Z</fnt></kap>
+  <snc mrk="instru.0itulo.klerulo">
+    <ref tip="dif" cel="kler.0ulo">klerulo</ref>
+  </snc>
+  <trd lng="be">&c_a;&c_d;&c_u;&c_k;&c_a;&c_v;&c_a;&c_n;&c_y;
+    &c_ch;&c_a;&c_l;&c_a;&c_v;&c_je;&c_k;</trd>
+  <trd lng="cs">vědec</trd>
+  <trd lng="de">Gelehrter</trd>
+  <trdgrp lng="es">
+    <trd>erudito</trd>,
+    <trd>cient&iacute;fico</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>clerc<klr tip="ind"> (personne cultiv&eacute;e)</klr></trd>,
+    <trd>lettr&eacute;<klr tip="ind"> (subst.)</klr></trd>,
+    <trd>savant<klr tip="ind"> (subst.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>tanult ember</trd>,
+    <trd>m&udblac;velt ember</trd>
+  </trdgrp>
+  <trd lng="nl">ontwikkeld man</trd>
+  <trdgrp lng="pl">
+    <trd><klr>kto&sacute;</klr> <ind>wyszkolony</ind></trd>,
+    <trd><klr>kto&sacute;</klr> <ind>wyedukowany</ind></trd>,
+    <trd><klr>kto&sacute;</klr> <ind>wykszta&lstroke;cony</ind></trd>,
+    <trd><klr>kto&sacute;</klr> <ind>nauczony</ind></trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>s&aacute;bio</trd>,
+    <trd>homem <ind>instru&iacute;do</ind></trd>
+  </trdgrp>
+  <trd lng="ru">&c_o;&c_b;&c_r;&c_a;&c_z;&c_o;&c_v;&c_a;&c_n;&c_n;&c_y;&c_j; &c_ch;&c_je;&c_l;&c_o;&c_v;&c_je;&c_k;</trd>
+  <trd lng="sk">vedec</trd>
+</drv>
+
+<drv mrk="instru.mal0i">
+  <kap>mal<tld/>i</kap>
+  <gra><vspec>x</vspec></gra>
+  <snc mrk="instru.mal0i.PED">
+    <dif>
+      Senigi je anta&ubreve;e ricevita ideo, kutimo, agmaniero,
+      forgesigi,
+      <ref tip="vid" cel="kutim.de0igi.KOMUNE">dekutimigi</ref>:
+      <ekz>
+        al tiu knabeto oni mal<tld/>os emocion kaj ploradon
+        <fnt>
+          <aut>J. Teles</aut>,
+          <vrk><url ref="http://www.jorgeteles.com.br/site/">
+          La Tago sen Nomo</url></vrk>,
+          <lok>2012-10-16</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="es">desaprender</trd>
+  <trd lng="fr">d&eacute;sapprendre<klr> (&agrave; qqn)</klr></trd>
+</drv>
+
+<drv mrk="instru.pri0a">
+  <kap>pri<tld/>a</kap>
+  <snc mrk="instru.pri0a.PED">
+    <dif>
+      Koncernanta <tld/>adon,
+      <ref tip="sin" cel="didakt.0a.PED">didaktika</ref>,
+      <ref tip="sin" cel="pedago1.0a.PED">pedagogia</ref>:
+      <ekz>
+        pri<tld/>a metodo, programo;
+      </ekz><ekz>
+        pri<tld/>a se&gcirc;o<fnt>Z</fnt>
+        <klr>(katedro pri pedagogio)</klr>.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="instru.0a.0rilata"><tld/>a<sncref/></ref>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_d;&c_u;&c_k;&c_a;&c_c;&c_y;&c_j;&c_n;&c_y;</trd>,
+    <trd>&c_n;&c_a;&c_v;&c_u;&c_ch;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trd lng="de">didaktisch</trd>
+  <trdgrp lng="es">
+    <trd>did&aacute;ctico</trd>,
+    <trd>pedag&oacute;gico</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>didactique</trd>,
+    <trd>p&eacute;dagogique</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>tan&iacute;t&aacute;si</trd>,
+    <trd>oktat&aacute;si</trd>,
+    <trd>didaktikai</trd>
+  </trdgrp>
+  <trdgrp lng="id">
+    <trd>didaktis</trd>,
+    <trd>pedagogis</trd>
+  </trdgrp>
+  <trd lng="nl">didactisch</trd>
+  <trdgrp lng="pl">
+    <trd>instrukta&zdot;owy</trd>,
+    <trd>kszta&lstroke;c&aogonek;cy</trd>
+  </trdgrp>
+  <trd lng="pt">pedag&oacute;gico</trd>
+  <trd lng="ru">&c_p;&c_je;&c_d;&c_a;&c_g;&c_o;&c_g;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j;</trd>
+</drv>
+
+<drv mrk="instru.mem0ito">
+  <kap>mem<tld/>ito</kap>
+  <snc mrk="instru.mem0ito.PED">
+    <uzo tip="fak">PED</uzo>
+    <ref tip="dif" cel="lern.mem0into">memlerninto</ref>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_a;&c_m;&c_a;&c_v;&c_u;&c_k;</trd>,
+    <trd>&c_s;&c_a;&c_m;&c_a;&c_v;&c_u;&c_ch;&c_k;&c_a;</trd>
+  </trdgrp>
+  <trd lng="cs">samouk</trd>
+  <trd lng="de">Autodidakt</trd>
+  <trd lng="en">self-taught</trd>
+  <trd lng="es">autodidacta</trd>
+  <trdgrp lng="fr">
+    <trd>autodidacte</trd>
+  </trdgrp>
+  <trd lng="hu">autodidakta</trd>
+  <trd lng="id">autodidak</trd>
+  <trd lng="nl">autodidact</trd>
+  <trd lng="pl">samouk</trd>
+  <trd lng="pt">autodidata</trd>
+  <trd lng="ru">&c_s;&c_a;&c_m;&c_o;&c_u;&c_ch;&c_k;&c_a;</trd>
+  <trd lng="sk">samouk</trd>
+</drv>
+
+<drv mrk="instru.moral0o">
+  <kap>moral<tld/>o</kap>
+  <snc mrk="instru.moral0o.KOMUNE">
+    <dif>
+      <tld lit="I"/>o pri la moralaj devoj, pri la konduto.
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>poučení o morálce</trd>,
+    <trd>školení o morálce</trd>
+  </trdgrp>
+  <trd lng="de">Moralpredigt</trd>
+  <trdgrp lng="es">
+    <trd>lecci&oacute;n moral</trd>,
+    <trd>moraleja<klr tip="ind"> (de una historia)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>le&ccedil;on<klr tip="ind"> (morale)</klr></trd>,
+    <trd>morale<klr tip="ind"> (d'une histoire)</klr></trd>
+  </trdgrp>
+  <trd lng="hu">erk&ouml;lcsi tanuls&aacute;g</trd>
+  <trd lng="id">peng<ind>ajar</ind>an moral</trd>
+  <trd lng="nl">zedenles</trd>
+  <trdgrp lng="pl">
+    <trd>nauki moralne</trd>,
+    <trd>nauki umoralniaj&aogonek;ce</trd>
+  </trdgrp>
+  <trd lng="pt">instru&ccedil;&atilde;o moral</trd>
+  <trdgrp lng="ru">
+    <trd>
+      &c_n;&c_r;&c_a;&c_v;&c_o;&c_u;&c_ch;&c_je;&c_n;&c_i;&c_je;
+    </trd>,
+    <trd>&c_m;&c_o;&c_r;&c_a;&c_l;&c_mol;<klr tip="amb">
+        (&c_b;&c_a;&c_s;&c_n;&c_i; &c_i; &c_t;.&c_p;.)</klr></trd>
+  </trdgrp>
+  <trd lng="sk">poučenie o morálke</trd>
+</drv>
+
+<drv mrk="instru.0plena">
+  <kap><tld/>plena, <var><kap><tld/>oplena</kap></var></kap>
+  <snc>
+    <ref tip="dif" cel="instru.0a.0plena"><tld/>a <sncref/></ref>
+  </snc>
+  <trdgrp lng="de">
+    <trd>lehrreich</trd>,
+    <trd>instruktiv</trd>
+  </trdgrp>
+  <trd lng="es">instructivo</trd>
+  <trd lng="fr">instructif</trd>
+  <trd lng="hu">tanuls&aacute;gos</trd>
+  <trd lng="id">instruktif</trd>
+  <trd lng="ru">
+    &c_p;&c_o;&c_u;&c_ch;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;
+  </trd>
+</drv>
+</art>
+<!--
+$Log: instru.xml,v $
+Revision 1.40  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.39  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.38  2014/08/25 11:10:10  revo
+Guillermo Molleda Jimena: trd es
+
+Revision 1.37  2014/07/03 17:10:19  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.36  2013/09/22 19:10:33  revo
+Wolfram Diestel: referenco al listo artoj, +germ trd
+
+Revision 1.35  2013/08/10 01:10:14  revo
+Jeromo Vasxe: +mal~i
+
+Revision 1.34  2011/02/10 17:10:08  revo
+Jeromo Vasxe: interpunkcio de ekz
+
+Revision 1.33  2010/08/21 16:30:19  revo
+Wieland Pusch: +trd de
+
+Revision 1.32  2010/06/25 17:26:30  revo
+Sergio Pokrovskij: TEZ
+
+Revision 1.31  2009/02/10 14:17:51  revo
+-->
+</vortaro>

@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: steb.xml,v 1.18 2015/07/04 08:37:44 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>steb</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="steb.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="steb.0i.TEKS">
+    <uzo tip="fak">TEKS</uzo>
+    <dif>
+      Kudri per tiucela ma&scirc;ino:
+      <ekz>
+        per lar&gcirc;aj kruco<tld/>oj li riparis la manikon
+        <fnt><aut>J. Baghy</aut>, <vrk>Sur Sanga Tero</vrk>, 
+        <lok>1933</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_sh;&c_y;&c_c;&c_mol; <klr>(&c_n;&c_a; &c_sh;&c_v;&c_je;&c_j;&c_n;&c_a;&c_j; &c_m;&c_a;&c_sh;&c_y;&c_n;&c_c;&c_y;)</klr></trd>,
+    <trd>&c_s;&c_t;&c_r;&c_a;&c_ch;&c_y;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="ca">cosir a m&agrave;quina</trd>
+  <trdgrp lng="cs">
+    <trd>prošívat</trd>,
+    <trd>štepovat</trd>,
+    <trd>šít na stroji</trd>
+  </trdgrp>
+  <trd lng="de">steppen</trd>
+  <trd lng="en">sew <klr>(with a sewing machine)</klr></trd>
+  <trd lng="fa">&a_d;&a_w;&a_kh;&a_t;&a_n;<klr tip="amb"> (&a_b;&a_A; &f_ch;&a_r;&a_kh;
+  &a_kh;&f_y;&a_A;&a_T;&f_y;)</klr></trd>
+  <trd lng="fr">coudre &agrave; la machine</trd>
+  <trd lng="hu">varr<klr tip="ind"> (g&eacute;ppel)</klr></trd>
+  <trd lng="nl">stikken<klr tip="ind"> (m.naaimachine)</klr></trd>
+  <trdgrp lng="ru">
+    <trd>&c_sh;&c_i;&c_t;&c_mol; &c_n;&c_a; &c_sh;&c_v;&c_je;&c_j;&c_n;&c_o;&c_j; &c_m;&c_a;&c_sh;&c_i;&c_n;&c_k;&c_je;</trd>,
+    <trd>&c_s;&c_t;&c_r;&c_o;&c_ch;&c_i;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>prešívať <klr>(paplón, vestu)</klr></trd>,
+    <trd>prešívať <klr>(paplón| vestu)</klr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="steb.0ilo">
+  <kap><tld/>ilo</kap> <fnt>Z</fnt>
+  <snc mrk="steb.0ilo.TEKS">
+    <uzo tip="fak">TEKS</uzo>
+    <ref tip="dif" cel="masxin.kudro0o.TEKS">kudroma&scirc;ino</ref>
+  </snc>
+  <trd lng="be">&c_sh;&c_v;&c_je;&c_j;&c_n;&c_a;&c_ja; &c_m;&c_a;&c_sh;&c_y;&c_n;&c_k;&c_a;</trd>
+  <trd lng="ca">m&agrave;quina de cosir</trd>
+  <trd lng="cs">jehla do šicího stroje</trd>
+  <trd lng="en">sewing machine</trd>
+  <trd lng="fa">&f_ch;&a_r;&a_kh; &a_kh;&f_y;&a_A;&a_T;&f_y;</trd>
+  <trd lng="fr">machine &agrave; coudre</trd>
+  <trd lng="hu">varr&oacute;g&eacute;p</trd>
+  <trd lng="ru">&c_sh;&c_v;&c_je;&c_j;&c_n;&c_a;&c_ja; &c_m;&c_a;&c_sh;&c_i;&c_n;&c_k;&c_a;</trd>
+  <trd lng="sk">ihla do šijacieho stroja</trd>
+</drv>
+</art>
+<!--
+$Log: steb.xml,v $
+Revision 1.18  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:33:24  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.15  2011/12/05 14:10:20  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.14  2010/11/15 17:30:22  revo
+Jeromo Vasxe: + ekz
+
+Revision 1.13  2009/11/28 17:30:57  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.12  2009/02/19 20:27:34  revo
+Russ Williams: +trd en
+
+Revision 1.11  2004/10/29 16:32:00  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.10  2004/08/02 18:55:21  revo
+Jeromo Vasxe: + fak teks, + ref dif, + trd fr
+
+Revision 1.9 2003/02/21 17:31:41 revo
+Zmicier Lapcionak: + trd be
+
+Revision 1.8 2002/02/23 19:49:49 revo
+-->
+</vortaro>

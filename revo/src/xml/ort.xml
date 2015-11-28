@@ -1,0 +1,450 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: ort.xml,v 1.35 2015/07/04 08:37:40 revo Exp $">
+<kap>
+  <ofc>8</ofc>
+  <rad>ort</rad>/o
+</kap>
+<drv mrk="ort.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>MatTerm</bib><lok>p. 26</lok></fnt>
+  <uzo tip="klr">(elementa geometrio)</uzo>
+  <snc>
+    <dif>
+      <ref tip="super" cel="angul.0o.figuro">Angulo</ref>
+      je <frm>90&#730;</frm>:
+      <ekz>
+        se du rektoj <ref cel="kruc.0igxi.MAT">kruci&gcirc;as</ref> tiel, ke
+        du
+        <ref cel="apud.0a.angulo">apudaj</ref> anguloj estas egalaj, ili
+        determinas kvar <tld/>ojn<fnt>8a OA</fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="ca"><ind>angle</ind> recte</trd>
+  <trdgrp lng="cs">
+    <trd>kolmost</trd>,
+    <trd>pravoúhlost</trd>
+  </trdgrp>
+  <trd lng="de">rechter <ind>Winkel</ind></trd>
+  <trd lng="en">right <ind>angle</ind></trd>
+  <trd lng="es">&aacute;ngulo recto</trd>
+  <trd lng="fr">angle droit</trd>
+  <trd lng="hu">der&eacute;ksz&ouml;g</trd>
+  <trd lng="nl">rechte <ind>hoek</ind></trd>
+  <trd lng="pl">k&aogonek;t prosty</trd>
+  <trd lng="pt">&acirc;ngulo reto</trd>
+  <trd lng="ru">&c_p;&c_r;&c_ja;&c_m;&c_o;&c_j; <ind>&c_u;&c_g;&c_o;&c_l;</ind></trd>
+  <trdgrp lng="sk">
+    <trd>kolmosť</trd>,
+    <trd>pravouhlosť</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="ort.0a">
+  <kap><tld/>a<fnt>Z</fnt></kap>
+  <uzo tip="fak">MAT</uzo>
+  <snc mrk="ort.0a.angulo">
+    <fnt><bib>MatTerm</bib><lok>p. 26</lok></fnt>
+    <dif>
+      <klr>(p.p. <ref cel="angul.0o.figuro">angulo</ref>)</klr>
+      Estanta <tld/>o; kies mezuro egalas al <frm>90&#730;</frm>:
+      <ekz>
+        rektangulo oni nomas paralelogramon, de kiu almena&ubreve; 
+        unu angulo estas <tld/>a.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="rekt.0a.orta">rekta.</ref>
+    <trd lng="de">recht<klr tip="ind"> (-er Winkel)</klr></trd>
+    <trd lng="en">right<klr tip="ind"> (angle)</klr></trd>
+    <trd lng="fr"><klr tip="ind">(angle) </klr><ind>droit</ind></trd>
+    <trd lng="hu">kilencven <ind>fokos</ind><klr tip="ind">(sz&ouml;g)
+    </klr></trd>    
+    <trd lng="nl">rechte<klr tip="amb"> (hoek)</klr></trd>
+    <trd lng="pl"><klr tip="ind">(k&aogonek;t) </klr>prosty</trd>
+    <trd lng="pt">reto</trd>
+    <trd lng="ru">&c_p;&c_r;&c_ja;&c_m;&c_o;&c_j;<klr tip="ind"> (&c_u;&c_g;&c_o;&c_l;)</klr></trd>
+  </snc>
+  <snc mrk="ort.0a.plurlatero">
+    <uzo tip="stl">EVI</uzo>
+    <fnt><bib>MatTerm</bib><lok>p. 30, pri paralelepipedo</lok></fnt>
+    <dif>
+      <klr>(p.p. <ref cel="later.plur0o">plurlatero</ref> a&ubreve;
+      <ref cel="edr.plur0o">pluredro</ref>)</klr>
+    </dif>
+    <ref tip="dif" cel="angul.ort0a"><tld/>angula.</ref>
+    <rim>
+      &Ccirc;i tiu senco povas esti konsiderata kiel mallongigo, foje
+      bonvena:
+      <ekz>
+        <tld/>a triangulo
+      </ekz>
+      estas pli malpeza ol
+      <ekz>
+        <tld/>angula triangulo.
+      </ekz>
+      &Gcirc;i tamen restas malofta kaj evitinda.
+    </rim>
+    <trd lng="de">rechtwinklig</trd>
+    <trd lng="en">right-angled</trd>
+    <trd lng="fr">rectangle<klr tip="ind"> (adj.)</klr></trd>
+    <trd lng="hu">der&eacute;ksz&ouml;g&udblac;</trd>    
+    <trd lng="nl">rechthoekig</trd>
+    <trd lng="pl">prostok&aogonek;tny</trd>
+    <trd lng="ru">&c_p;&c_r;&c_ja;&c_m;&c_o;&c_u;&c_g;&c_o;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
+  </snc>
+  <snc mrk="ort.0a.specialaj">
+    <subsnc mrk="ort.0a.figuroj">
+      <fnt><bib>PIV1</bib></fnt>
+      <dif>
+        <klr>(p.p. <ref cel="figur.geometria0o">geometria figuro</ref>
+        rilate
+        al alia)</klr>
+        Tiaj, ke ili sin intersekcas formante <tld/>on:
+        <ekz>
+          rekto orta al alia rekto, 
+        </ekz>
+        <ekz>
+          al kurbo <klr>(al ties 
+          <ref cel="tangx.0anto">tan&gcirc;anto</ref>)</klr>, 
+        </ekz>
+        <ekz>
+          al ebeno, 
+        </ekz>
+        <ekz>
+          al surfaco;
+        </ekz>
+        <ekz>
+          ebeno orta al lumradio;
+        </ekz>
+        <ekz>
+          ortajaj rektoj, cirkloj, ebenoj;
+        </ekz>
+        <ekz>
+          la teraj meridianoj kaj paraleloj estas inter si <tld/>aj.
+        </ekz>
+      </dif>
+      <rim>
+        Eblas diri sendistinge <ctl><frm><k>a</k></frm> estas <tld/>a al
+        <frm><k>b</k></frm></ctl>, a&ubreve; <ctl><frm><k>a</k></frm> kaj
+        <frm><k>b</k></frm> estas (inter si) <tld/>aj</ctl>. Por
+        &ccirc;i-lasta
+        senco ekzistas anka&ubreve; la pli preciza termino
+        <ctl>inter<tld/>a</ctl> en <fnt><bib>PIV1</bib></fnt>.
+      </rim>
+      <ref tip="sin" cel="perpen1.0a">perpendikulara.</ref>
+      <trd lng="hu">mer&odblac;leges</trd>
+      <trd lng="nl">loodrecht</trd>      
+    </subsnc>
+    <subsnc mrk="ort.0a.vektoroj">
+      <fnt><bib>EKV</bib><lok>&para;316</lok></fnt>
+      <dif>
+        <klr>(p.p. vektoroj en
+        <ref cel="spac.euxklida0o">e&ubreve;klida spaco</ref>)</klr>
+        Tiaj, ke ilia <ref cel="produt.skalara0o">skalara produto</ref>
+        egalas al nulo:
+        <ekz>
+          se <frm><k>x</k></frm> estas <tld/>a al <frm><k>y</k></frm>,
+          validas la pitagora teoremo:
+          <frm>||<k>x</k>+<k>y</k>||<sup>2</sup> =
+          ||<k>x</k>||<sup>2</sup>+||<k>y</k>||<sup>2</sup></frm>;
+        </ekz>
+        <ekz>
+          <tld/>a <ref cel="baz.0o.vektoraspaco">bazo</ref> estas bazo,
+          kies &ccirc;iuj vektoroj estas <tld/>aj inter si;
+        </ekz>
+        <ekz>
+          oni diras, ke vektoro estas <tld/>a al subaro, se &gcirc;i estas
+          <tld/>a al &ccirc;iu &gcirc;ia elemento.
+        </ekz>
+      </dif>
+      <trdgrp lng="hu">
+        <trd>mer&odblac;leges</trd>,
+        <trd>ortogon&aacute;lis</trd>
+      </trdgrp>
+    </subsnc>
+    <subsnc mrk="ort.0a.aro">
+      <dif>
+        <klr>(p.p. subaro de
+        <ref cel="spac.euxklida0o">e&ubreve;klida spaco</ref>,
+        rilate al alia subaro <frm><g>A</g></frm>)</klr>
+        Tia, ke &ccirc;iuj &gcirc;iaj elementoj estas
+        <ref cel="ort.0a.vektoroj"><tld/>aj <sncref/></ref>
+        al tiuj de <frm><g>A</g></frm>:
+        <ekz>
+          la <tld/>a aro de subaro estas fermita vektora subspaco.
+        </ekz>
+      </dif>
+      <trdgrp lng="hu">
+        <trd>mer&odblac;leges</trd>,
+        <trd>ortogon&aacute;lis</trd>
+      </trdgrp>      
+      <rim>
+        Anstata&ubreve; <ctl><tld/>a aro</ctl> troveblas
+        <ctl><tld/>anto</ctl> en
+        <fnt><bib>EKV</bib><lok>&para;317</lok></fnt>.
+      </rim>
+    </subsnc>
+    <subsnc mrk="ort.0a.vektoro_formo">
+      <dif>
+        <klr>(p.p. elemento <frm><k>x</k></frm> de
+        <ref cel="spac.vektora0o">vektora spaco</ref> kaj elemento
+        <frm><k>f</k></frm> de ties <ref
+        cel="dual.0o.MAT">dualo</ref>)</klr>
+        Tiaj, ke <frm><k>f</k>(<k>x</k>) = 0</frm>.
+      </dif>
+      <trdgrp lng="hu">
+        <trd>mer&odblac;leges</trd>,
+        <trd>ortogon&aacute;lis</trd>
+      </trdgrp>      
+    </subsnc>
+    <subsnc mrk="ort.0a.matrico">
+      <fnt><bib>EKV</bib><lok>&para;316</lok></fnt>
+      <dif>
+        <klr>(p.p. <ref cel="matric.n_p0o">(n,p)-matrico</ref>
+        <frm>A</frm>)</klr>
+        Kies <ref cel="transp.0ajxo">transpona&jcirc;o</ref> egalas al
+        la <ref cel="invers.0o.neuxtriganto">inverso</ref> de
+        <frm>A</frm>:
+        <ekz>
+          la determinanto de <tld/>a matrico egalas al
+          <frm>+1</frm> a&ubreve; <frm>-1</frm>.
+        </ekz>
+      </dif>
+      <trdgrp lng="de">
+        <trd>orthogonal<klr tip="ind"> (-e Matrix)</klr></trd>
+      </trdgrp>
+      <trdgrp lng="en">
+        <trd>orthogonal<klr tip="ind"> (matrix)</klr></trd>
+      </trdgrp>
+      <trdgrp lng="fr">
+        <trd><klr tip="amb">(matrice) </klr>orthogonale</trd>
+      </trdgrp>
+      <trd lng="hu">ortogon&aacute;lis<klr tip="amb">(m&aacute;trix) </klr></trd>   
+        
+      <trdgrp lng="pl">
+        <trd><klr tip="amb">(macierz) </klr>ortogonalna</trd>
+      </trdgrp>
+      <trdgrp lng="ru">
+        <trd>&c_o;&c_r;&c_t;&c_o;&c_g;&c_o;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_a;&c_ja;<klr tip="amb">
+        (&c_m;&c_a;&c_t;&c_r;&c_i;&c_c;&c_a;)</klr></trd>
+      </trdgrp>
+    </subsnc>
+    <subsnc mrk="ort.0a.diversaj">
+      <uzo tip="fak">MAT</uzo>
+      <refgrp tip="vid">
+        <ref cel="projek.orta0o"><tld/>a projekcio</ref>,
+        <ref cel="simetr.orta0o"><tld/>a simetrio</ref>.
+      </refgrp>
+    </subsnc>
+    <trdgrp lng="de">
+      <trd>perpendikular</trd>,
+      <trd>orthogonal</trd>,
+      <trd>senkrecht</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>orthogonal</trd>,
+      <trd>perpendicular</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>orthogonal</trd>,
+      <trd>perpendiculaire<klr tip="ind"> (adj.)</klr></trd>
+    </trdgrp>
+    <trd lng="hu">mer&odblac;leges</trd>
+    <trd lng="nl">loodrecht</trd>
+    <trdgrp lng="pl">
+      <trd>prostopad&lstroke;y</trd>,
+      <trd>ortogonalny</trd>
+    </trdgrp>
+    <trd lng="pt">ortogonal</trd>
+    <trdgrp lng="ru">
+      <trd>&c_o;&c_r;&c_t;&c_o;&c_g;&c_o;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>,
+      <trd>&c_p;&c_je;&c_r;&c_p;&c_je;&c_n;&c_d;&c_i;&c_k;&c_u;&c_l;&c_ja;&c_r;&c_n;&c_y;&c_j;</trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="ca">
+    <trd>ortogonal</trd>,
+    <trd>perpendicular</trd>,
+    <trd>normal</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>kolmý</trd>,
+    <trd>ortogonální</trd>,
+    <trd>pravoúhlý</trd>,
+    <trd>pravý</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>ortogonal</trd>,
+    <trd>perpendicular</trd>,
+    <trd>normal</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>normálový</trd>,
+    <trd>pravý <klr>(uhol)</klr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="ort.0anto">
+  <kap><tld/>anto</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>PIV1</bib></fnt>
+  <snc>
+    <dif>
+      <ref tip="super" cel="rekt.0o.elementa">Rekto</ref> <tld/>a al iu
+      alia
+      figuro.
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="perpen.0o">perpendiklo</ref>,
+      <ref cel="perpen1.0o">perpendikularo</ref>.
+    </refgrp>
+    <rim>
+      Tiu &ccirc;i termino aperis anka&ubreve; &ccirc;e Bricard,
+      <fnt><bib>MatTerm</bib><lok>p. 27</lok></fnt>
+      sed kun malpli vasta senco, nome: <ref
+      cel="alt.0o.MAT">alto</ref>.
+      La malnova senco konservi&gcirc;is &gcirc;is en <fnt><bib>PV</bib></fnt>.
+    </rim>
+  </snc>
+  <trdgrp lng="ca">
+    <trd>perpendicular</trd>,
+    <trd>normal <klr>(subst.)</klr></trd>
+  </trdgrp>
+  <trd lng="cs">kolmice</trd>
+  <trdgrp lng="de">
+    <trd>Senkrechte</trd>,
+    <trd>Lot</trd>
+    <trd>Normale</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>perpendicular</trd>,
+    <trd>normal</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>perpendiculaire<klr tip="ind"> (subst.)</klr></trd>,
+    <trd>normale<klr tip="ind"> (subst.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+      <trd>mer&odblac;leges</trd>,
+      <trd>norm&aacute;lis<klr tip="ind"> (mer&odblac;leges)</klr></trd>
+    </trdgrp>
+  <trdgrp lng="pl">
+    <trd>prosta prostopad&lstroke;a</trd>,
+    <trd>normalna</trd>
+  </trdgrp>
+  <trd lng="pt">perpendicular</trd>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_je;&c_r;&c_p;&c_je;&c_n;&c_d;&c_i;&c_k;&c_u;&c_l;&c_ja;&c_r;</trd>,
+    <trd>&c_n;&c_o;&c_r;&c_m;&c_a;&c_l;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="sk">výška <klr>(v trojuholníku)</klr></trd>
+</drv>
+
+<drv mrk="ort.0ilo">
+  <kap><tld/>ilo</kap>
+  <uzo tip="fak">MAT</uzo>
+  <uzo tip="fak">TEK</uzo>
+  <fnt><bib>PIV1</bib></fnt>
+  <snc>
+    <dif>
+      Ilo por desegni <ref cel="ort.0a.figuroj"><tld/>ajn
+      <sncref/></ref>
+      rektojn.
+    </dif>
+    <rim>
+      <tld lit="O"/>iloj povas havi diversajn formojn la&ubreve; la intencita
+      uzo, ekz-e formo de <tld/>a triangulo a&ubreve; de litero T.
+    </rim>
+  </snc>
+  <trdgrp lng="ca">
+    <trd>cartab&oacute;</trd>,
+    <trd>escaire</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>trojúhelník</trd>,
+    <trd>úhelník <klr>(kresličský)</klr></trd>
+  </trdgrp>
+  <trd lng="de">Rei&szlig;dreieck</trd>
+  <trdgrp lng="en">
+    <trd>set square</trd>,
+    <trd>triangle<klr tip="ind"> (set square)</klr></trd>
+  </trdgrp>
+  <trd lng="fr">&eacute;querre</trd>
+  <trd lng="hu">der&eacute;ksz&ouml;g&udblac; <ind>vonalz&oacute;</ind></trd>
+  <trd lng="pl">ekierka</trd>
+  <trd lng="ru">&c_u;&c_g;&c_o;&c_l;&c_mol;&c_n;&c_i;&c_k;</trd>
+  <trd lng="sk">uholník</trd>
+</drv>
+
+<drv mrk="ort.mez0anto">
+  <kap>mez<tld/>anto</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>PIV1</bib></fnt>
+  <snc>
+    <dif>
+      <klr>(de <ref cel="strek.0o.elementa">streko</ref>)</klr>
+      <ref tip="super" cel="rekt.0o.elementa">Rekto</ref> <tld/>a al &gcirc;i
+      kaj trairanta &gcirc;ian <ref cel="mez.0o.punkto">mezon</ref>:
+      <ekz>
+        la mez<tld/>antoj de <ref cel="angul.tri0o">triangulo</ref>
+        <klr>(t.e. de &ccirc;iuj &gcirc;iaj lateroj)</klr> intersekci&gcirc;as
+        en la centro de la
+        <ref cel="skrib.cxirkaux0ita">&ccirc;irka&ubreve;skribita</ref> cirklo.
+      </ekz>
+    </dif>
+    <bld lok="../bld/e_mezortantoj.svg.gif" alt="300" lrg="300">
+      mez<tld/>antoj de triangulo
+    </bld>
+  </snc>
+  <trd lng="ca">mediatriu</trd>
+  <trdgrp lng="cs">
+    <trd>osa strany <klr>(trojúhelníku)</klr></trd>,
+    <trd>osa úsečky</trd>
+  </trdgrp>
+  <trd lng="de">Mittelsenkrechte</trd>
+  <trd lng="en">mid-perpendicular<klr tip="ind"> (of a
+  segment)</klr></trd>
+  <trd lng="fr">m&eacute;diatrice<klr tip="ind"> (d'un segment)</klr></trd>
+  <trd lng="hu">szakaszfelel&odblac; <ind>mer&odblac;leges</ind></trd>
+  <trd lng="pl">symetralna</trd>
+  <trd lng="pt">mediatriz</trd>
+  <trd lng="ru">&c_m;&c_je;&c_d;&c_i;&c_a;&c_t;&c_r;&c_i;&c_s;&c_a;
+  <klr tip="ind"> (&c_o;&c_t;&c_r;&c_je;&c_z;&c_k;&c_a;)</klr></trd>
+  <trd lng="sk">os úsečky</trd>
+</drv>
+</art>
+<!--
+$Log: ort.xml,v $
+Revision 1.35  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.34  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.33  2011/12/10 01:10:10  revo
+Eduardo Navas: +trad es
+
+Revision 1.32  2011/12/02 10:10:08  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.31  2010/06/09 16:30:42  revo
+Agustin Garcia Lopez: +trd es
+
+Revision 1.30  2010/01/18 17:31:46  revo
+Mireille Corobu: svg->gif
+
+Revision 1.29  2004/07/17 18:19:43  revo
+Marc Bavant: kor duobligitajn punktojn
+
+Revision 1.28  2004/07/14 16:31:04  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.27  2003/05/05 16:32:16  revo
+Marc Bavant: ~anto: mod trd de
+
+Revision 1.26  2003/04/21 16:34:51  revo
+-->
+</vortaro>

@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: jard.xml,v 1.28 2015/07/04 08:37:36 revo Exp $">
+<kap>
+  <rad>jard</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="jard.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="jard.0o.MAR">
+    <uzo tip="fak">MAR</uzo>
+    <dif>
+      Horizontala <ref tip="super"
+      cel="stang.vel0o.MAR">velstango</ref>,
+      kutime transversa al la &scirc;ipa direkto, ligita al masto pli
+      malpli en sia mezo (kontraste al <ref tip="vid"
+      cel="gaf.0o">gafo</ref>), kaj de kiu
+      (kontraste al <ref tip="vid" cel="bum.0o">bumo</ref>) estas
+      pendigita <ref tip="vid" cel="vel.0o.SHI">velo</ref>.
+    </dif>
+    <ekz>
+      turni <tld/>ojn horizontale
+      <fnt>
+      <aut>J. Finkel</aut>,
+      <vrk><url
+      ref="http://esperanto-mv.pp.ru/Efremov/marvortareto.html">
+      Mara vortareto</url></vrk>
+      <lok>2008</lok>
+      </fnt>.
+    </ekz>
+    <refgrp tip="vid">
+      <ref cel="buspri.0o.MAR">busprito</ref>,
+      <ref cel="mast.0o.MAR">masto</ref>
+    </refgrp>
+  </snc>
+  <rim mrk="jard.0o.RIM_HOM">
+    <ref tip="hom" cel="jard1.0o">Jardo</ref> anka&ubreve; estas la nomo
+    de mezurunuo de longo.
+  </rim>
+  <trd lng="be">&c_r;&c_e;&c_ja;</trd>
+  <trdgrp lng="ca">
+    <trd>verga</trd>,
+    <trd>perxa</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Mast</trd>,
+    <trd>Schiffsmast</trd>,
+    <trd>Segelmast</trd>
+  </trdgrp>
+  <trd lng="en">spar</trd>
+  <trd lng="es">verga</trd>
+  <trd lng="fr">espar</trd>
+  <trdgrp lng="hu">
+    <trd>vitorlar&uacute;d</trd>,
+    <trd>kereszt&aacute;rboc</trd>
+  </trdgrp>
+  <trd lng="nl">ra</trd>
+  <trd lng="pl">reja</trd>
+  <trd lng="pt">verga <klr tip="amb">(n&aacute;ut.)</klr></trd>
+  <trd lng="ru">&c_r;&c_je;&c_ja;</trd>
+  <trdgrp lng="sv">
+    <trd>mast</trd>,
+    <trd>bom</trd>
+  </trdgrp>
+  <trd lng="it">pennone</trd>
+  <trd lng="sk">rahno</trd>
+  <trd lng="cs">ráhno</trd>
+</drv>
+</art>
+<!--
+$Log: jard.xml,v $
+Revision 1.28  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.27  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.26  2015/06/06 08:10:16  revo
+Damien Brucker: -eraro cxe ref
+
+Revision 1.25  2012/08/17 11:10:08  revo
+Jeromo Vasxe: kor. ekz.
+
+Revision 1.24  2011/12/11 21:10:22  revo
+Marc Rausell: +trd ca
+
+Revision 1.23  2009/03/15 17:31:03  revo
+Antonio Codazzi: +trd it
+
+Revision 1.22  2008/06/08 16:30:45  revo
+Jeromo Vasxe: kor tipog. en dif
+
+Revision 1.21 2008/06/02 16:30:20 revo
+Sebastian Cyprych: +dif(ne sin de velstango) +ref +trd pl
+
+Revision 1.20 2007/04/19 16:30:55 revo
+Tulio Flores: +tr pt
+
+Revision 1.19 2005/12/17 17:31:17 revo
+-->
+</vortaro>

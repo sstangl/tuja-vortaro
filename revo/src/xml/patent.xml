@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: patent.xml,v 1.19 2015/07/04 08:37:41 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>patent</rad>/o
+</kap>
+<drv mrk="patent.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc>
+    <dif>
+      Dokumento rajtiganta iun ekskluzive ekspluati iun 
+      <ref cel="invent.0o">inventon</ref>.
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_t;&c_e;&c_n;&c_t;</trd>
+  <trd lng="bg">&c_p;&c_a;&c_t;&c_je;&c_n;&c_t;</trd>
+  <trd lng="br">breou</trd>
+  <trd lng="ca">patent</trd>
+  <trd lng="cs">patent na vynález</trd>
+  <trd lng="de">Patent</trd>
+  <trd lng="en">patent</trd>
+  <trd lng="fr">brevet<klr tip="ind"> (d'invention)</klr></trd>
+  <trd lng="hu">szabadalom</trd>
+  <trd lng="nl">patent</trd>
+  <trd lng="pt">patente</trd>
+  <trd lng="ru">&c_p;&c_a;&c_t;&c_je;&c_n;&c_t;</trd>
+  <trd lng="sk">patent na vynález</trd>
+  <trd lng="sv">patent</trd>
+</drv>
+
+<drv mrk="patent.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      Garantii per <tld/>o:
+      <ekz>
+        <tld/>ita aparato.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_t;&c_e;&c_n;&c_t;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="bg">&c_p;&c_a;&c_t;&c_je;&c_n;&c_t;&c_o;&c_v;&c_a;&c_m;</trd>
+  <trd lng="br">breoua&ntilde;</trd>
+  <trd lng="ca">patentar</trd>
+  <trdgrp lng="cs">
+    <trd>chránit patentem</trd>,
+    <trd>patentovat</trd>
+  </trdgrp>
+  <trd lng="de">patentieren</trd>
+  <trd lng="en">patent</trd>
+  <trd lng="fr">breveter</trd>
+  <trd lng="hu">szabadalmaztat</trd>
+  <trd lng="nl">patenteren</trd>
+  <trd lng="pt">patentear</trd>
+  <trd lng="ru">&c_z;&c_a;&c_shch;&c_i;&c_shch;&c_a;&c_t;&c_mol; <ind>&c_p;&c_a;&c_t;&c_je;&c_n;&c_t;&c_o;&c_m;</ind></trd>
+  <trdgrp lng="sk">
+    <trd>chrániť patentom</trd>,
+    <trd>patentovať</trd>
+  </trdgrp>
+  <trd lng="sv">patentera</trd>
+</drv>
+</art>
+<!--
+$Log: patent.xml,v $
+Revision 1.19  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:40:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2012/01/03 21:10:20  revo
+Marc Rausell: +trd ca
+
+Revision 1.16  2011/01/09 18:10:09  revo
+Wieland Pusch: +trd bg
+
+Revision 1.15  2011/01/09 13:10:08  revo
+Russ Williams: +trd en
+
+Revision 1.14  2006/02/25 17:33:28  revo
+Tulio Flores: +tr pt
+
+Revision 1.13  2005/07/02 16:32:41  revo
+Alan ar Gall: +trd br
+
+Revision 1.12  2004/09/06 16:37:45  revo
+Marc Bavant: ~o: mod dif; +trd fr
+
+Revision 1.11  2003/07/26 08:42:15  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.10  2002/12/16 17:31:37  revo
+-->
+</vortaro>

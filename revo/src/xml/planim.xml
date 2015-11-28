@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: planim.xml,v 1.14 2015/07/04 08:37:41 revo Exp $">
+<kap>
+  <rad>planimetri</rad>/o
+  <fnt>Z</fnt>
+</kap>
+<drv mrk="planim.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <uzo tip="stl">ARK</uzo>
+  <fnt><bib>VdE</bib></fnt>
+  <snc>
+    <dif>
+      Parto de geometrio, kiu pli speciale okupi&gcirc;as
+      pri la ecoj de ebenaj <ref cel="figur.geometria0o">geometriaj 
+      figuroj</ref>.
+    </dif>
+    <ref tip="vid" cel="stereo1.0o">stereometrio.</ref>
+  </snc>
+  <trd lng="be">&c_p;&c_l;&c_ja;&c_n;&c_ib;&c_m;&c_e;&c_t;&c_r;&c_y;&c_ja;</trd>
+  <trdgrp lng="cs">
+    <trd>měření ploch</trd>,
+    <trd>planimetrie</trd>
+  </trdgrp>
+  <trd lng="de">Planimetrie</trd>
+  <trd lng="en">planimetry</trd>
+  <trd lng="fr">planim&eacute;trie</trd>
+  <trd lng="hu">s&iacute;km&eacute;rtan</trd>
+  <trd lng="nl">planimetrie</trd>
+  <trd lng="pl">planimetria</trd>
+  <trd lng="pt">planimetria</trd>
+  <trd lng="ru">&c_p;&c_l;&c_a;&c_n;&c_i;&c_m;&c_je;&c_t;&c_r;&c_i;&c_ja;</trd>
+  <trd lng="sk">planimetria</trd>
+</drv>
+</art>
+<!--
+$Log: planim.xml,v $
+Revision 1.14  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.13  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.12  2006/03/05 17:31:55  revo
+Tulio Flores: +tr pt
+
+Revision 1.11  2003/07/17 16:36:03  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.10  2003/01/02 17:49:52  revo
+Marc Bavant: +trd pl
+
+Revision 1.9  2002/12/11 17:32:55  revo
+Jozefo Horvath: +trd hu
+Revision 1.8  2002/05/20 16:36:08  revo
+Marc Bavant: mod ref al figuro
+Revision 1.7  2002/05/12 16:38:12  revo
+Marc Bavant: +trd de/en, +fnt
+Revision 1.6  2001/12/19 17:33:18  revo
+Yury Finkel: +trd ru
+Revision 1.5 2001/11/03 19:11:12 revo
+Marc Bavant: reverkis laux stereometrio
+Revision 1.4 2001/07/27 19:34:32 revo
+Paul Peeraerts: ald trd nl
+-->
+</vortaro>
+

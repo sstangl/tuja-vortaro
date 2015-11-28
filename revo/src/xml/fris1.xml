@@ -1,0 +1,145 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: fris1.xml,v 1.12 2015/07/04 08:37:34 revo Exp $">
+<kap>
+<rad>fris</rad>/o
+</kap>
+<drv mrk="fris1.0o">
+  <kap><tld/>o</kap>
+  <fnt><bib>PIV1</bib></fnt>
+  <snc>
+    <dif>
+      Homo kun <tld/>a nacieco.
+    </dif>
+  </snc>
+  <ref tip="hom" cel="fris.0o">friso</ref>
+  <trd lng="be">&c_f;&c_r;&c_y;&c_z;</trd>
+  <trd lng="de">Friese</trd>
+  <trd lng="en">Frisian</trd>
+  <trd lng="fr">Frison</trd>
+  <trd lng="nl">Fries</trd>
+  <trdgrp lng="pt">
+    <trd>fr&iacute;sio</trd>,
+    <trd>fris&atilde;o</trd>
+  </trdgrp>
+  <trd lng="ru">&c_f;&c_r;&c_i;&c_z;</trd>
+   <trd lng="sk">vlys</trd>
+  <trdgrp lng="cs">
+    <trd>obrubnice ,, malované proužky představující na scéně strop nebo nebe</trd>,
+    <trd>vlys</trd>
+  </trdgrp>
+</drv>
+ 
+<drv mrk="fris1.0a">
+  <kap><tld/>a</kap>
+  <snc>
+    <dif>
+      Rilatanta al <tld/>oj a&ubreve; ilia nacieco.
+    </dif>
+  </snc>
+  <trd lng="be">&c_f;&c_r;&c_y;&c_z;&c_s;&c_k;&c_ib;</trd>
+  <trd lng="de">friesisch</trd>
+  <trd lng="en">Frisian</trd>
+  <trd lng="fr">frison</trd>
+  <trd lng="nl">Fries</trd>
+  <trd lng="ru">&c_f;&c_r;&c_i;&c_z;&c_s;&c_k;&c_i;&c_j;</trd>
+</drv>
+
+<drv mrk="fris1.F0ujo">
+  <kap><tld lit="F"/>ujo</kap>
+  <uzo tip="fak">GEOG</uzo>
+  <snc mrk="fris1.F0ujo.prov">
+    <dif>
+     <ref tip="super" cel="provin.0o">Provinco</ref> en norda <ref
+     tip="malprt"
+     cel="nederl.N0o">Nederlando</ref>, anka&ubreve; nomata okcidenta <tld
+     lit="F"/>ujo.
+    </dif>
+  </snc>
+   <snc mrk="fris1.F0ujo.reg">
+    <dif>
+     Regiono apud la Norda Maro, en norda <ref tip="malprt"
+     cel="nederl.N0o">Nederlando</ref>
+     (okcidenta <tld lit="F"/>ujo) kaj en nord-okcidenta <ref
+     tip="malprt"
+     cel="german1.G0ujo">Germanujo</ref>.
+    </dif>
+  </snc>
+  <ref tip="sin" cel="frisi.F0o">Frisio</ref>
+  <trd lng="be">&c_F;&c_r;&c_y;&c_z;&c_ib;&c_ja;</trd>
+  <trd lng="da">Frisland</trd>
+  <trd lng="de">Friesland</trd>
+  <trd lng="cs">Fr&iacute;zsko</trd>
+  <trd lng="en">Frisia</trd>
+  <trd lng="es">Frisia</trd>
+  <trd lng="fr">Frise</trd>
+  <trd lng="it">Frisia</trd>
+  <trd lng="nl">Friesland</trd>
+  <trd lng="pl">Fryzja</trd>
+  <trd lng="pt">Fr&iacute;sia</trd>
+  <trd lng="ru">&c_F;&c_r;&c_i;&c_z;&c_i;&c_ja;</trd>
+  </drv>
+
+  <drv mrk="fris1.F0lando">
+  <kap><tld lit="F"/>lando</kap>
+  <snc>
+    <dif>
+      <ref tip="dif" cel="fris1.F0ujo">Frisujo</ref>: <ekz>pli grandajn
+      polderojn tiel
+      faritajn, ni trovas en la nordo de la lando, en la provinco <tld
+      lit="F"/>lando
+      <fnt><aut>Wouter PILGER</aut>:
+      <vrk>Nederlando kaj la maro</vrk>
+      </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_F;&c_r;&c_y;&c_z;&c_ib;&c_ja;</trd>
+  <trd lng="da">Frisland</trd>
+  <trd lng="de">Friesland</trd>
+  <trd lng="cs">Fr&iacute;zsko</trd>
+  <trd lng="en">Frisia</trd>
+  <trd lng="es">Frisia</trd>
+  <trd lng="fr">Frise</trd>
+  <trd lng="it">Frisia</trd>
+  <trd lng="nl">Friesland</trd>
+  <trd lng="pl">Fryzja</trd>
+  <trd lng="pt">Fr&iacute;sia</trd>
+  <trd lng="ru">&c_F;&c_r;&c_i;&c_z;&c_i;&c_ja;</trd>
+  </drv>
+</art>
+
+<!--
+$Log: fris1.xml,v $
+Revision 1.12  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.11  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.10  2011/04/01 13:10:11  revo
+Russ Williams: +trd en
+
+Revision 1.9  2011/02/17 12:10:44  revo
+Luiz Portella: kor. ref k mrk
+
+Revision 1.8  2009/10/30 17:30:32  revo
+Paul Peeraerts: +nl
+
+Revision 1.7  2007/06/13 16:32:08  revo
+Tulio Flores: +tr pt
+
+Revision 1.6  2005/05/27 16:31:18  revo
+Yury Finkel: +trd ru
+
+Revision 1.5  2004/01/04 17:33:17  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.4  2002/07/07 17:32:49  revo
+Ulrich Fellmann: + 2 pliaj trd de
+
+Revision 1.3  2001/09/27 18:17:08  revo
+-->
+</vortaro>

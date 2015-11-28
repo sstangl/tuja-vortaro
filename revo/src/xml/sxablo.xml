@@ -1,0 +1,270 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: sxablo.xml,v 1.23 2013/03/13 12:10:10 revo Exp $">
+<kap>
+  <rad>&scirc;ablon</rad>/o <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="sxablo.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="sxablo.0o.TEK">
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      <ref tip="super" cel="model.0o.KOMUNE">Modelo</ref> duonreliefa
+      a&ubreve; desegnita sur plata&jcirc;o (ligna, metala, kartona,
+      teksa&jcirc;a, papera), 
+      la&ubreve; kiu oni formtran&ccirc;as objektetojn.
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_m;&c_a;&c_d;&c_e;&c_l;&c_mol;</trd>,
+      <trd>&c_sh;&c_a;&c_b;&c_l;&c_o;&c_n;</trd>,
+      <trd>&c_f;&c_o;&c_r;&c_m;&c_a;</trd>,
+      <trd>&c_t;&c_r;&c_a;&c_f;&c_a;&c_r;&c_e;&c_t;</trd>,
+      <trd>&c_u;&c_z;&c_o;&c_r;</trd>
+    </trdgrp>
+    <trd lng="bg">&c_sh;&c_a;&c_b;&c_l;&c_o;&c_n;</trd>
+    <trdgrp lng="ca">
+      <trd>form&oacute;</trd>,
+      <trd>plantilla</trd>,
+      <trd>patr&oacute;</trd>,
+      <trd>model</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd>Schablone</trd>,
+      <trd>Muster</trd>,
+      <trd>Schnittmuster</trd>,
+      <trd>Vorlage</trd>,
+      <trd>Form</trd>,
+      <trd>Model</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>template</trd>,
+      <trd>model</trd>,
+      <trd>pattern</trd>
+    </trdgrp>
+    <trdgrp lng="es">
+      <trd>plantilla</trd>,
+      <trd>patron</trd>,
+      <trd>modelo</trd>
+    </trdgrp>
+    <trd lng="fr">patron<klr> (mod&egrave;le)</klr></trd>
+    <trdgrp lng="hu">
+      <trd>sablon</trd>,
+      <trd>rajzmintalap</trd>
+    </trdgrp>
+    <trdgrp lng="it">
+      <trd>matrice<klr> (clich&eacute;, stampo)</klr></trd>, 
+      <trd>calco<klr> (clich&eacute;, stampo)</klr></trd>,
+      <trd>modello<klr> (clich&eacute;, sagoma)</klr></trd>,
+      <trd>sagoma<klr> (clich&eacute;, modello)</klr></trd>,
+      <trd>normografo</trd>
+    </trdgrp>
+    <trd lng="nl">sjabloon</trd>
+    <trdgrp lng="hu">
+      <trd>sablon</trd>,
+      <trd>minta</trd>
+    </trdgrp>
+    <trd lng="nl">sjabloon</trd>
+    <trdgrp lng="pl">
+      <trd>szablon</trd>,
+      <trd>matryca</trd>,
+      <trd>forma</trd>
+    </trdgrp>
+    <trdgrp lng="pt">
+      <trd>modelo</trd>,
+      <trd>padr&atilde;o</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="sxablo.0o.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Banala&jcirc;o, senoriginala&jcirc;o, kvaza&ubreve; farita
+      la&ubreve; preta modelo:
+      <ekz>
+        li for&jcirc;etis la romantikajn <tld/>ojn;
+      </ekz>
+      <ekz>
+        la&ubreve;<tld/>e edukitaj homoj;
+      </ekz>
+      <ekz>
+        esperantismo ne celas <ind><tld/>igo</ind>n
+        <klr>(samtipigon)</klr>
+        de la homaro;
+        <trdgrp lng="ca">
+          <trd>normalizaci&oacute;</trd>,
+          <trd>estandarditzaci&oacute;</trd>
+        </trdgrp>
+      </ekz>
+      <ekz>
+        lerta poeto evitas trouzitajn <tld/>i&gcirc;intajn vortojn
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="gurd">gurdita</ref>,
+      <ref cel="trivia.0a">triviala</ref>
+    </refgrp>
+    <trdgrp lng="be">
+      <trd>&c_sh;&c_a;&c_b;&c_l;&c_o;&c_n;</trd>,
+      <trd>&c_t;&c_r;&c_a;&c_f;&c_a;&c_r;&c_e;&c_t;</trd>,
+      <trd>&c_k;&c_l;&c_ib;&c_sh;&c_e;</trd>,
+      <trd>&c_s;&c_t;&c_e;&c_r;&c_e;&c_a;&c_t;&c_y;&c_p;</trd>
+    </trdgrp>
+    <trdgrp lng="ca">
+      <trd>lloc com&uacute;</trd>,
+      <trd>clix&eacute;</trd>,
+      <trd>t&ograve;pic</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd>Schablone</trd>,
+      <trd>Stereotyp</trd>,
+      <trd>eingefahrene Bahn</trd>,
+      <trd>Formel</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>clich&eacute;</trd>,
+      <trd>lieu commun</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>sablon</trd>,
+      <trd>s&eacute;ma</trd>,
+      <trd>kaptafa</trd>
+    </trdgrp>
+    <trdgrp lng="it">
+      <trd>clich&eacute;<klr> (stereotipo)</klr></trd>,
+      <trd>stereotipo<klr> (sost.)</klr></trd>,
+      <trd>luogo comune</trd>
+    </trdgrp>
+    <trd lng="nl">banaliteit</trd>
+    <trd lng="pl">szablon</trd>
+    <trd lng="pt">estere&oacute;tipo</trd>
+  </snc>
+  <trd lng="ca">estereotip</trd>
+  <trd lng="es">estereotipo</trd>
+  <trdgrp lng="ru">
+    <trd>&c_sh;&c_a;&c_b;&c_l;&c_o;&c_n;</trd>,
+    <trd>&c_sh;&c_t;&c_a;&c_m;&c_p;</trd>,
+    <trd>&c_t;&c_r;&c_a;&c_f;&c_a;&c_r;&c_je;&c_t;</trd>,
+    <trd>&c_k;&c_l;&c_i;&c_sh;&c_je;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="sxablo.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="sxablo.0a.TEK">
+    <dif>
+      El <tld/>o, farita per <tld/>o:
+      <ekz>
+        krei novan projekton el <tld/>a interna modelo
+        <fnt>
+          <aut>F. E. F. de Castro</aut>,
+          <vrk><url
+          ref="http://interkonekto.sourceforge.net/dok/manlibro005.html">
+          Interkonekto 2.0 - Manlibro</url></vrk>,
+          <lok>[vidita en 2011]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="ca">
+      <trd>prefabricat</trd>,
+      <trd>industrial</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>mod&egrave;le<klr> (adj.)</klr></trd>,
+      <trd>pr&eacute;fabriqu&eacute;</trd>,
+      <trd>standardis&eacute;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="sxablo.0a.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Farita la&ubreve; kutima maniero kaj sekve
+      <ref tip="vid" cel="banal.0a">banala</ref>,
+      <ref tip="vid" cel="klisx.0a.FIG">kli&scirc;a</ref>,
+      <ref tip="vid" cel="stereo3.0o.banalajxo">stereotipa</ref>:
+      <ekz>
+        la rakonto estas tro <tld/>a, nekomplika kaj deklara
+        <fnt>
+          <aut>O. Buller</aut>,
+          <vrk><url
+          ref="http://esperanto.net/literaturo/uea/bulthuisrec.html">
+          E&ccirc; se bona, tio ne sufi&ccirc;as</url></vrk>,
+          <bib>Esperanto</bib>,
+          <lok>jaro 1992a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="ca">
+      <trd>ordinari</trd>,
+      <trd>banal</trd>,
+      <trd>s&ograve;lit</trd>,
+      <trd>acostumat</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>conventionnel</trd>,
+      <trd>sans originalit&eacute;</trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_sh;&c_a;&c_b;&c_l;&c_jo;&c_n;&c_n;&c_y;</trd>,
+    <trd>&c_s;&c_t;&c_e;&c_r;&c_e;&c_a;&c_t;&c_y;&c_p;&c_n;&c_y;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="sxablo.mal0a">
+  <kap>mal<tld/>a</kap>
+  <snc mrk="sxablo.mal0a.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Ne farita la&ubreve; <tld/>o, ne la&ubreve; kutima
+      maniero, fre&scirc;e
+      <ref tip="vid" cel="origin1.0a">originala</ref>:
+      <ekz>
+        &ccirc;iuj &scirc;iaj ceteraj verkoj estas karakterize mal<tld/>aj 
+        <fnt>
+          <bib>Viki</bib>,
+          <lok><url
+          ref="http://eo.wikipedia.org/wiki/Hildegard_de_Bingen">
+          Hildegard de Bingen</url>, 2011-03-25</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="ca">
+      <trd>genu&iacute;</trd>,
+      <trd>original</trd>,
+      <trd>distintiu</trd>
+    </trdgrp>
+    <trd lng="fr">qui sort des sentiers battus</trd>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_n;&c_je;&c_sh;&c_a;&c_b;&c_l;&c_jo;&c_n;&c_n;&c_y;</trd>,
+    <trd>&c_a;&c_r;&c_y;&c_g;&c_ib;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: sxablo.xml,v $
+Revision 1.23  2013/03/13 12:10:10  revo
+Dmitri Gabinski: redakto: +trd be
+
+Revision 1.22  2011/12/26 19:10:09  revo
+Wolfram Diestel: unu plia germ trd.
+
+Revision 1.21  2011/12/25 09:10:07  revo
+Wolfram Diestel: pli da trd (de,en)
+
+Revision 1.20  2011/11/28 10:10:10  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.19  2011/04/29 19:10:31  revo
+Jeromo Vasxe: + ~a
+
+Revision 1.18  2009/03/28 17:30:51  revo
+Antonio Codazzi: +trd it
+
+Revision 1.17  2009/01/17 18:09:34  revo
+Wieland Pusch: +trd bg
+
+Revision 1.16  2009/01/05 18:12:43  revo
+-->
+</vortaro>

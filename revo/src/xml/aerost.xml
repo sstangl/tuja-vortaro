@@ -1,0 +1,134 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: aerost.xml,v 1.27 2015/07/04 08:37:29 revo Exp $">
+<kap>
+<rad>aerostat</rad>/o<fnt>Z</fnt>
+</kap>
+<drv mrk="aerost.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="aerost.0o.AVI">
+    <uzo tip="fak">AVI</uzo>
+    <dif>
+      <ref tip="super" cel="aparat.flug0o">Flugaparato</ref>, &gcirc;enerale
+      sfer- a&ubreve; cigarforma, entenanta gason pli malpezan ol la aero, kaj
+      servanta por sin levi kaj veturi en la aero.
+    </dif>
+    <ref tip="sin" cel="balon.0o.aerostato">balono</ref>
+    <ref tip="sub" cel="sxip.aer0o">aer&scirc;ipo</ref>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_e;&c_r;&c_a;&c_s;&c_t;&c_a;&c_t;</trd>,
+    <trd>&c_p;&c_a;&c_v;&c_je;&c_t;&c_r;&c_a;&c_n;&c_y; &c_sh;&c_a;&c_r;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>aerostat</trd>,
+    <trd>balón</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Luftschiff</trd>,
+    <trd>Ballon</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>balloon</trd>,
+    <trd>aerostat</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>a&eacute;rostat</trd>,
+    <trd>ballon<klr tip="ind"> (a&eacute;rostat)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>l&eacute;gg&ouml;mb</trd>,
+    <trd>l&eacute;ghaj&oacute;</trd>
+  </trdgrp>
+  <trd lng="it">aerostato</trd>
+  <trdgrp lng="nl">
+    <trd>aerostaat</trd>,
+    <trd>luchtballon</trd>,
+    <trd>luchtschip</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>aerostat</trd>,
+    <trd>sterowiec</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+   <trd>aer&oacute;stato</trd>,
+   <trd>bal&atilde;o</trd>
+  </trdgrp>
+  <trd lng="ro">balon cu aer cald</trd>
+  <trdgrp lng="ru">
+    <trd>&c_v;&c_o;&c_z;&c_d;&c_u;&c_sh;&c_n;&c_y;&c_j; &c_sh;&c_a;&c_r;</trd>,
+    <trd>&c_a;&c_e;&c_r;&c_o;&c_s;&c_t;&c_a;&c_t;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>bal&oacute;n</trd>,
+    <trd>balón</trd>,
+    <trd>vzducholo&dcaron;</trd>,
+    <trd>vzducholoď</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="aerost.varmaera0o">
+  <kap>varmaera <tld/>o</kap>
+  <snc mrk="aerost.varmaera0o.AVI">
+    <uzo tip="fak">AVI</uzo>
+    <dif>
+      <ref tip="super" cel="aerost.0o"><tld lit="A"/>o</ref> uzanta
+      varmigitan aeron por levi&gcirc;i.
+    </dif>
+  </snc>
+  <bld lok="../bld/aerostat.jpg">
+    varmaera <tld/>o
+  </bld>
+  <trd lng="be">&c_m;&c_a;&c_n;&c_g;&c_a;&c_l;&c_mol;&c_f;'&c_je;&c_r;</trd>
+  <trd lng="de">Hei&szlig;luftballon</trd>
+  <trd lng="en">hot-air balloon</trd>
+  <trdgrp lng="fr">
+    <trd>montgolfi&egrave;re</trd>
+    <trd><ind>ballon</ind> &agrave; air chaud</trd>
+  </trdgrp>
+  <trd lng="hu">h&odblac;l&eacute;gballon</trd>
+  <trd lng="it">mongolfiera</trd>
+  <trd lng="nl">heteluchtballon</trd>
+  <trd lng="pl">balon</trd>
+  <trdgrp lng="pt">
+   <trd>bal&atilde;o de ar quente</trd>
+  </trdgrp>
+  <trd lng="ro">balon cu aer cald</trd>
+  <trd
+  lng="ru">&c_m;&c_o;&c_n;&c_g;&c_o;&c_l;&c_mol;&c_f;&c_mol;&c_je;&c_r;</trd>
+</drv>
+</art>
+<!--
+$Log: aerost.xml,v $
+Revision 1.27  2015/07/04 08:37:29  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.26  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.25  2013/11/16 20:10:28  revo
+Vito Redsky: +trd  pl ro
+
+Revision 1.24  2009/12/18 17:30:27  revo
+Antonio Codazzi: +trd it
+
+Revision 1.23  2009/08/18 19:20:36  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.22  2007/05/22 16:32:43  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.21  2006/02/02 17:31:49  revo
+Tulio Flores: +trd pt
+
+Revision 1.20  2005/12/22 17:31:14  revo
+Jeromo Vasxe: + mrk
+
+Revision 1.19  2005/08/28 16:31:42  revo
+Marc Bavant: mod trd fr
+
+Revision 1.18  2005/03/19 17:32:15  revo
+-->
+</vortaro>

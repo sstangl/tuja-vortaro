@@ -1,0 +1,200 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: rimed.xml,v 1.21 2015/07/04 08:37:42 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>rimed</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="rimed.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="rimed.0o.KOMUNE">
+    <dif>
+      Tio, kio servas por atingi celon:
+      <ekz>
+        kontra&ubreve; &ccirc;iu tedo ekzistas <tld/>o
+        <fnt><bib>PrV</bib></fnt>;
+      </ekz>
+      <ekz>
+        la celo ne pravigas la <tld/>ojn<fnt>B</fnt>;
+      </ekz>
+      <ekz>
+        &scirc;i uzis &ccirc;iujn <tld/>ojn por lin allogi;
+      </ekz>
+      <ekz>
+        oni ne havas <tld/>on kontra&ubreve; tiu malbono<fnt>B</fnt>;
+      </ekz>
+      <ekz>
+        grandaj malbonoj, grandaj <tld/>oj
+        <fnt><bib>PrV</bib></fnt>;
+      </ekz>
+      <ekz>
+        uzi, apliki &ccirc;iujn eblajn <tld/>ojn;
+      </ekz>
+      <ekz>
+        <ind>viv<tld/>oj</ind>;
+        <trd lng="nl">bestaansmiddelen</trd>
+      </ekz>
+      <ekz>
+        ni plene utiligu la ekzistantajn <tld/>ojn de nia lingvo anta&ubreve;
+        ol
+        malsimpligi kaj malfaciligi &gcirc;in;
+      </ekz>
+      <ekz>
+        tio estas ebla nur por personoj posedantaj grandajn monajn
+        <tld/>ojn<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        ili estas sen<tld/>e perditaj.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="manier.ag0o">agmaniero</ref>,
+      <ref cel="il.0o">ilo</ref>,
+      <ref cel="kondut.0o">konduto</ref>,
+      <ref cel="materi1.0o">materialo</ref>,
+      <ref cel="metod.0o">metodo</ref>,
+      <ref cel="proced.0o">procedo</ref>,
+      <ref cel="trakt">traktado</ref>,
+      <ref cel="voj.0o">vojo</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_s;&c_r;&c_o;&c_d;&c_a;&c_k;</trd>
+  <trdgrp lng="cs">
+    <trd>prostředek</trd>,
+    <trd>způsob</trd>
+  </trdgrp>
+  <trd lng="de">Mittel</trd>
+  <trd lng="en">resources</trd>
+  <trdgrp lng="es">
+    <trd>medio<klr> (forma de conseguir un abjetivo)</klr></trd>,
+    <trd>remedio</trd>,
+    <trd>recurso</trd>
+  </trdgrp>
+  <trd lng="fr">moyen<klr> (subst.)</klr></trd>
+  <trd lng="hu">eszk&ouml;z</trd>
+  <trdgrp lng="nl">
+    <trd>middel<klr tip="ind"> (remedie)</klr></trd>,
+    <trd>remedie</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>meio</trd>,
+    <trd>recurso</trd>,
+    <trd>expediente</trd>    
+  </trdgrp>
+  <trd lng="ru">&c_s;&c_r;&c_je;&c_d;&c_s;&c_t;&c_v;&c_o;</trd>
+  <trdgrp lng="sk">
+    <trd>prostriedok</trd>,
+    <trd>spôsob</trd>
+  </trdgrp>
+  <trd lng="sv">medel</trd>
+</drv>
+
+<drv mrk="rimed.antaux0o">
+  <kap>anta&ubreve;<tld/>o</kap>
+  <snc mrk="rimed.antaux0o.KOMUNE">
+    <dif>
+      <tld lit="R"/>o por neebligi ion.
+    </dif>
+  </snc>
+  <!--
+  <trd lng="en">preventative medicine</trd>
+  -->
+  <trd lng="es">medio de <ind>prevenci&oacute;n</ind></trd>
+  <trd lng="fr">moyen de <ind>pr&eacute;vention</ind></trd>
+  <trdgrp lng="hu">
+    <trd>ellenszer</trd>,
+    <trd>&oacute;vint&eacute;zked&eacute;s</trd>
+  </trdgrp>
+  <trd lng="nl">maatregel</trd>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_r;&c_je;&c_d;&c_u;&c_p;&c_r;&c_je;&c_d;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_o;&c_je; &c_s;&c_r;&c_je;&c_d;&c_s;&c_t;&c_v;&c_o;</trd>,
+    <trd>&c_p;&c_r;&c_je;&c_v;&c_je;&c_n;&c_t;&c_i;&c_v;&c_n;&c_o;&c_je; &c_s;&c_r;&c_je;&c_d;&c_s;&c_t;&c_v;&c_o;</trd>
+  </trdgrp>
+  <adm>
+    Korekti trd en. <aut>MB</aut>
+  </adm>
+</drv>
+
+<drv mrk="rimed.kontraux0o">
+  <kap>kontra&ubreve;<tld/>o</kap>
+  <snc mrk="rimed.kontraux0o.KOMUNE">
+    <dif>
+      <ref tip="vid" cel="rimed.0o.KOMUNE"><tld lit="R"/>o</ref>
+      por ion kontra&ubreve;i, pribatali, por sin
+      <ref tip="vid" cel="sxirm.0i">&scirc;irmi</ref> de &gcirc;i:
+      <ekz>
+        okaze de la internacia financa krizo <klr>...</klr> komerca 
+        protektismo ne estas bona kontra&ubreve;<tld/>o
+        <fnt>
+          <aut>&Ccirc;ina Radio Internacia</aut>,
+          <vrk><url
+          ref="http://esperanto.cri.cn/621/2009/08/20/1s101407.htm">
+          Estas pli bone...</url></vrk>,
+          <lok>2009-08-20</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="es">medio de control</trd>
+  <trdgrp lng="fr">
+    <trd>moyen de lutte</trd>,
+    <trd>parade<klr> (protection)</klr></trd>
+  </trdgrp>
+  <trd lng="nl">tegenmaatregel</trd>
+</drv>
+
+<drv mrk="rimed.viv0o">
+  <kap>viv<tld/>o</kap>
+  <snc mrk="rimed.viv0o.KOMUNE">
+    <dif>
+      <tld lit="R"/>o
+      por <ref tip="vid" cel="ten.viv0i">vivteni</ref>:
+      <ekz>
+       ili havis sufi&ccirc;ajn viv<tld/>ojn, &ccirc;ar ili kontenti&gcirc;is je sia
+       modesta sorto
+        <fnt><bib>Fab3</bib>, <lok>Historio de unu
+           patrino</lok> 
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="es">
+    medio de subsistencia</trd>   
+  <trd lng="fr">
+    moyen d'existence</trd>   
+ </drv>
+</art>
+<!--
+$Log: rimed.xml,v $
+Revision 1.21  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.19  2014/09/03 16:10:13  revo
+Guillermo Molleda Jimena: trd es
+
+Revision 1.18  2012/01/02 21:10:11  revo
+Mireille Corobu: + vivrimedo
+
+Revision 1.17  2009/09/11 16:31:35  revo
+Paul Peeraerts: +nl
+
+Revision 1.16  2009/08/26 16:32:03  revo
+Jeromo Vasxe: + kontraux~o, ~o + trd fr
+
+Revision 1.15  2008/05/17 16:30:17  revo
+Carlos Garcia: +trd "es": -o
+
+Revision 1.14  2006/02/21 17:32:37  revo
+Tulio Flores: +trd pt
+
+Revision 1.13  2004/09/17 15:38:07  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.12  2004/02/15 17:32:57  revo
+-->
+</vortaro>

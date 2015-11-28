@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: sinkop.xml,v 1.16 2015/07/04 08:37:43 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>sinkop</rad>/o
+</kap>
+<drv mrk="sinkop.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="sinkop.0o.MUZ">
+    <fnt><bib>RokPop</bib></fnt>
+    <uzo tip="fak">MUZ</uzo>
+    <dif>
+      Intenca alilokigo de regula akcento, kutime per akcentado de
+      malforta parto de mezuro.
+    </dif>
+    <trd lng="be">&c_s;&c_y;&c_n;&c_k;&c_o;&c_p;&c_a;</trd>
+    <trd lng="en">syncopation</trd>
+    <trdgrp lng="fr">
+      <trd>syncope<klr> (musique)</klr></trd>
+    </trdgrp>
+    <trd lng="hu">szink&oacute;pa</trd>
+    <trd lng="ru">&c_s;&c_i;&c_n;&c_k;&c_o;&c_p;&c_a;</trd>
+  </snc>
+  <snc mrk="sinkop.0o.sveno">
+    <ref tip="dif" cel="sven.0o.PSI">sveno</ref>
+    <trd lng="be">&c_n;&c_je;&c_p;&c_r;&c_y;&c_t;&c_o;&c_m;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+    <trd lng="de">Synkope</trd>
+    <trd lng="en">syncope</trd>
+    <trdgrp lng="fr">
+      <trd>&eacute;vanouissement</trd>,
+      <trd>syncope<klr> (&eacute;vanouissement)</klr></trd>
+    </trdgrp>
+    <trd lng="hu">&aacute;jul&aacute;s</trd>
+    <trdgrp lng="nl">
+      <trd>flauwte</trd>,
+      <trd>syncope</trd>
+    </trdgrp>
+    <trd lng="ru">&c_o;&c_b;&c_m;&c_o;&c_r;&c_o;&c_k;</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>přesunutí přízvuku</trd>,
+    <trd>synkopa</trd>
+  </trdgrp>
+  <trd lng="sk">presunutie prízvuku</trd>
+</drv>
+</art>
+<!--
+$Log: sinkop.xml,v $
+Revision 1.16  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.14  2009/10/06 16:44:58  revo
+Russ Williams: +trd en
+
+Revision 1.13  2005/03/31 16:32:31  revo
+Yury Finkel: +trd ru
+
+Revision 1.12  2004/10/13 16:32:28  revo
+Jozefo Horvath: +trd hu
+
+Revision 1..11  2003/01/11 19:20:13  revo
+Zmicier Lapcionak: + trd be
+
+Revision 1.10  2002/11/18 17:35:09  revo
+Jeromo Vasxe: memkor for malplena trd
+
+Revision 1.9 2002/11/14 17:32:26 revo
+Jeromo Vasxe: + snc muz
+
+Revision 1.8 2002/02/12 17:33:06 revo
+Yury Finkel: +trd ru
+
+Revision 1.7 2001/10/22 18:15:17 revo
+-->
+</vortaro>

@@ -1,0 +1,116 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: antrak.xml,v 1.18 2015/07/04 08:37:30 revo Exp $">
+<kap>
+  <rad>antraks</rad>/o
+  <fnt>Z</fnt>
+</kap>
+<drv mrk="antrak.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">MED</uzo>
+  <snc mrk="antrak.0o.absceso">
+    <dif>
+      Grava profunda inflama absceso de la subha&ubreve;to, furunkego
+      (latine <trd lng="la">carbunculus</trd>).
+    </dif>
+    <ref tip="sin" cel="karbun.0o.absceso">karbunklo <sncref/></ref>
+    <trd lng="ca">&agrave;ntrax</trd>
+    <trdgrp lng="en">
+      <trd>carbuncle</trd>,
+      <trd>anthrax</trd>
+    </trdgrp>
+    <trd lng="de">Karbunkel</trd>
+    <trd lng="es">&aacute;ntrax</trd>
+    <trd lng="fr">anthrax</trd>
+    <trdgrp lng="hu">
+      <trd>dar&aacute;zsf&eacute;szek <klr tip="amb">(betegs&eacute;g)</klr></trd>,
+      <trd>carbunculus</trd>
+    </trdgrp>
+    <trd lng="nl">anthrax</trd>
+    <trd lng="ru">&c_k;&c_a;&c_r;&c_b;&c_u;&c_n;&c_k;&c_u;&c_l; <klr tip="amb">(&c_b;&c_o;&c_l;&c_je;&c_z;&c_n;&c_mol;)</klr></trd>
+  </snc>
+  <snc mrk="antrak.0o.infekta_malsano">
+    <ref tip="dif" cel="karbun.0o.infekta_malsano">karbunklo
+    <sncref/></ref>
+    <trdgrp lng="be">
+      <trd>&c_v;&c_u;&c_g;&c_l;&c_ib;&c_k;</trd>,
+      <trd>&c_s;&c_ib;&c_b;&c_ib;&c_r;&c_s;&c_k;&c_a;&c_ja; &c_ja;&c_z;&c_v;&c_a;</trd>
+    </trdgrp>
+    <trdgrp lng="ca">
+      <trd>&agrave;ntrax maligne</trd>,
+      <trd>carboncle</trd>
+    </trdgrp>
+    <trd lng="en">anthrax</trd>
+    <trdgrp lng="es">
+      <trd>carbunco</trd>,
+      <trd>&aacute;ntrax maligno</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>l&eacute;pfene</trd>,
+      <trd>antrax</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_s;&c_i;&c_b;&c_i;&c_r;&c_s;&c_k;&c_a;&c_ja; &c_ja;&c_z;&c_v;&c_a;</trd>,
+      <trd>&c_a;&c_n;&c_t;&c_r;&c_a;&c_k;&c_s;</trd>
+    </trdgrp>
+    <trd lng="de">Milzbrand</trd>
+    <trd lng="nl">miltvuur</trd>
+  </snc>
+  <rim>
+    La unua senco estas PIV-a, tamen en multaj nacilingvaj vortaroj
+    estas indikita dua senco (vidu <em>karbunklo</em>). &Scirc;ajne
+    en latinidaj lingvoj oni uzas unuajn sencojn de <em>antrakso</em>
+    kaj <em>karbunklo</em>, dum en slavaj kaj &gcirc;ermanaj lingvoj
+    oni uzas inversajn duajn sencojn. La angla &scirc;ajne uzas amba&ubreve;.
+    Esperantaj terminoj evidente ankora&ubreve; ne stabili&gcirc;is &ccirc;i-rilate.
+    <aut>Jurij Finkel</aut>
+  </rim>
+  <trdgrp lng="pt">
+    <trd>antraz</trd>,
+    <trd>carb&uacute;nculo</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>antrax</trd>,
+    <trd>slezinná sneť</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>antrax</trd>,
+    <trd>sněť slezinná</trd>,
+    <trd>uhlák</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: antrak.xml,v $
+Revision 1.18  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.16  2012/09/01 19:10:13  revo
+Marc Rausell: + trd ca
+
+Revision 1.15  2006/03/15 17:31:50  revo
+Tulio Flores: +tr pt
+
+Revision 1.14  2005/04/26 16:32:57  revo
+Raul Salinas Monteagudo: +trd ca,es
+
+Revision 1.13  2005/04/11 16:31:59  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.12  2004/11/28 19:42:23  revo
+Marc Bavant: mod mrk; ~o 2: +ref tip dif; -adm
+
+Revision 1.11 2003/03/01 17:31:16 revo
+Ulrich Fellmann: + 1 plia trd=de
+
+Revision 1.10 2001/11/23 10:47:01 revo
+Paul Peeraerts: ald trd nl
+
+Revision 1.9 2001/11/19 17:32:04 revo
+-->
+</vortaro>

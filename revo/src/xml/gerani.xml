@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: gerani.xml,v 1.24 2015/07/04 08:37:35 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>gerani</rad>/o
+</kap>
+<drv mrk="gerani.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">BOT</uzo>
+  <snc>
+    <dif>
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:botanikaj_genroj">Genro</ref> el familio <ref
+      tip="malprt"
+      cel="gerani1.0oj"><tld/>acoj</ref>
+      (<trd lng="la">Geranium</trd>),
+      kun belaj brilkoloraj floroj kaj longbeka frukto.
+    </dif>
+    <ref tip="sin" cel="bek.cikonio0o">cikoniobeko</ref>
+  </snc>
+  <bld lok="../bld/gerani.jpg">
+    <ind>malbonodora <tld/>o</ind>
+    <trd lng="la">Geranium robertianum</trd>
+    <trd lng="hu">neh&eacute;zszag&uacute; g&oacute;lyaorr</trd>
+    <trd lng="nl">robertskruid</trd>
+  </bld>
+  <trd lng="be">&c_g;&c_je;&c_r;&c_a;&c_n;&c_mol;</trd>
+  <trd lng="bg">&c_z;&c_d;&c_r;&c_a;&c_v;&c_je;&c_c;</trd>
+  <trdgrp lng="de">
+    <trd>Storchschnabel</trd>,
+    <trd>Geranie</trd>
+  </trdgrp>
+  <trd lng="en">geranium</trd>
+  <trd lng="es">geranio</trd>
+  <trd lng="fr">g&eacute;ranium</trd>
+  <trd lng="hu">g&oacute;lyaorr</trd>
+  <trdgrp lng="nl">
+    <trd>ooievaarsbek</trd>,
+    <trd>geranium</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+   <trd>ger&acirc;nio</trd>, 
+   <trd>malva-rosa</trd> 
+  </trdgrp>
+  <trd lng="ru">&c_g;&c_je;&c_r;&c_a;&c_n;&c_mol;</trd>
+  <trd lng="tr">sardunya</trd>
+  <trd lng="sk">pakost</trd>
+  <trdgrp lng="cs">
+    <trd>geránie</trd>,
+    <trd>geránium</trd>,
+    <trd>kakost</trd>,
+    <trd>čapí nůsek</trd>
+  </trdgrp>
+</drv>
+
+</art>
+<!--
+$Log: gerani.xml,v $
+Revision 1.24  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.23  2015/06/29 16:29:39  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.22  2014/04/07 15:10:17  revo
+Joop Eggen: +trd bg en
+
+Revision 1.21  2013/08/30 14:11:11  revo
+Wolfram Diestel: kor. lst-ref
+
+Revision 1.20  2013/08/26 19:10:40  revo
+Wolfram Diestel: referenco al listo bot genroj
+
+Revision 1.19  2009/08/24 16:31:45  revo
+Emmanuel Debanne: +trd tr
+
+Revision 1.18  2005/08/19 19:13:49  revo
+Luiz Portella: +trd pt
+
+Revision 1.17  2004/04/07 16:33:04  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.16  2002/07/08 18:26:34  revo
+Alejandro Mejia Greene: ald 1 his trd
+
+Revision 1.15  2002/03/27 17:32:14  revo
+-->
+</vortaro>

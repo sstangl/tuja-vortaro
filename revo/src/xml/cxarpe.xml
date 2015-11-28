@@ -1,0 +1,147 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: cxarpe.xml,v 1.21 2009/04/24 16:30:53 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>&ccirc;arpent</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="cxarpe.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="cxarpe.0i.KON">
+    <dif>
+      Prilabori lignon a&ubreve; feron por konstrui:
+      <ekz>
+        <tld/>i kolonojn
+        <fnt><bib>MT</bib>, <lok>&Sen; 9:1</lok></fnt>.
+      </ekz>
+    </dif>
+    <trd
+    lng="be">&c_c;&c_ja;&c_s;&c_mol;&c_l;&c_ja;&c_r;&c_y;&c_c;&c_mol;</trd>
+    <trd lng="pl">ciosa&cacute;</trd>
+    <trd
+    lng="ru">&c_p;&c_l;&c_o;&c_t;&c_n;&c_i;&c_ch;&c_a;&c_t;&c_mol;</trd>
+  </snc>
+  <snc>
+    <dif>
+      Kunmeti trabojn por fari konstruojn:
+      <ekz>
+        malforte <tld/>ita domo.
+      </ekz>
+    </dif>
+    <trd lng="pl">zbija&cacute;</trd>
+  </snc>
+  <snc>
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Forte konstrui:
+      <ekz>
+        homo fortike <tld/>ita;
+        <trd lng="hu">j&oacute; k&ouml;t&eacute;s&udblac; ember</trd>
+      </ekz>
+      <ekz>
+        bone <tld/>ita dramo.
+      </ekz>
+    </dif>
+    <trdgrp lng="pl">
+      <trd>budowa&cacute;</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="de">zimmern</trd>
+  <trdgrp lng="en">
+    <trd>carpenter</trd>,
+    <trd>build</trd>,
+    <trd>construct</trd>
+  </trdgrp>
+  <trd lng="fr">charpenter</trd>
+  <trd lng="hu">&aacute;csol</trd>
+  <trd lng="nl">timmeren</trd>
+  <trd lng="pt">carpintejar</trd>
+  <trd lng="sk">tesa&tcaron;</trd>
+</drv>
+
+<drv mrk="cxarpe.0ajxo">
+  <kap><tld/>a&jcirc;o</kap>
+  <snc mrk="cxarpe.0ajxo.KON">
+    <dif>
+      Kunmeta&jcirc;o el lignaj a&ubreve; feraj pecoj por subteni
+      konstrua&jcirc;on
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="armatu.0o">armaturo</ref>,
+      <ref cel="skelet.0o.KON">skeleto <sncref/></ref>,
+      <ref cel="trab.0aro.KON">trabaro</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="en">
+    <trd>carpentry</trd>,
+    <trd>framework</trd>,
+    <trd>structure</trd>
+  </trdgrp>
+  <trd lng="fr">charpente</trd>
+  <trdgrp lng="hu">
+    <trd>&aacute;csolat</trd>,
+    <trd>v&aacute;zszerkezet</trd>
+  </trdgrp>
+  <trd lng="nl">timmerwerk</trd>
+  <trdgrp lng="pl">
+    <trd>ciesielka</trd>,
+    <trd>wi&eogonek;&zacute;ba</trd>,
+    <trd>szkielet<klr> (np. domu)</klr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="cxarpe.0isto">
+  <kap><ofc>*</ofc><tld/>isto</kap>
+  <snc mrk="cxarpe.0isto.KON">
+    <dif>
+      Homo, kies metio estas <tld/>i:
+      <ekz>
+        mia mortinta praavo estis profesie mueleja <tld/>isto
+        <fnt><bib>RabistFab</bib></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_c;&c_ja;&c_s;&c_mol;&c_l;&c_ja;&c_r;</trd>
+  <trd lng="de">Zimmermann</trd>
+  <trd
+  lng="el">&xi;&ypsilon;&lambda;&omikron;&ypsilon;&rho;&gamma;&omikron_ton;&sigma_fina;</trd>
+  <trd lng="en">carpenter</trd>
+  <trd lng="es">carpintero</trd>
+  <trd lng="fr">charpentier</trd>
+  <trd lng="hu">&aacute;cs</trd>
+  <trd lng="nl">timmerwerk</trd>
+  <trd lng="pl">cie&sacute;la</trd>
+  <trd lng="pt">carpinteiro</trd>
+  <trd lng="ru">&c_p;&c_l;&c_o;&c_t;&c_n;&c_i;&c_k;</trd>
+  <trd lng="sk">tes&aacute;r</trd>
+</drv>
+</art>
+<!--
+$Log: cxarpe.xml,v $
+Revision 1.21  2009/04/24 16:30:53  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.20  2009/02/19 20:25:49  revo
+Russ Williams: +trd en
+
+Revision 1.19  2008/05/19 16:30:27  revo
+Jeromo Vasxe: preciz. 2 ref
+
+Revision 1.18  2005/12/15 17:31:11  revo
+Jeromo Vasxe: + ekz
+
+Revision 1.17 2005/03/08 18:48:51 revo
+Paul Peeraerts: ald trd nl
+
+Revision 1.16 2002/12/20 17:33:47 revo
+Jozefo Horvath: +trd hu
+
+Revision 1.15 2002/11/01 22:04:02 revo
+bib-igis fnt-ojn precipe MT
+
+Revision 1.14 2002/09/12 16:36:55 revo
+-->
+</vortaro>

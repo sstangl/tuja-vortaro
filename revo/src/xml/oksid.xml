@@ -1,0 +1,141 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: oksid.xml,v 1.18 2015/07/04 08:37:40 revo Exp $">
+<kap>
+  <ofc>4</ofc><rad>oksid</rad>/o <fnt>Z</fnt> <fnt><bib>PV</bib></fnt> 
+</kap>
+<drv mrk="oksid.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="oksid.0o.KEM">
+    <uzo tip="fak">KEM</uzo>
+    <dif>
+      &Ccirc;iu kombina&jcirc;o de
+      <ref tip="vid" cel="oksige.0o">oksigeno</ref>
+      kun alia elemento.
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_k;&c_s;&c_ib;&c_d;</trd>,
+    <trd>&c_v;&c_o;&c_k;&c_ib;&c_s;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>kysličník</trd>,
+    <trd>oxid</trd>
+  </trdgrp>
+  <trd lng="de">Oxid</trd>
+  <trdgrp lng="el">
+    <trd>&omikron;&xi;&epsilon;&jota_ton;&delta;&jota;&omikron;</trd>,
+    <trd>&omikron;&xi;&ypsilon_ton;</trd>
+  </trdgrp>
+  <trd lng="en">oxide</trd>
+  <trd lng="es">&oacute;xico</trd>
+  <trd lng="fr">oxyde</trd>
+  <trd lng="hu">oxid</trd>
+  <trd lng="id">oksida</trd>
+  <trd lng="nl">oxyde</trd>
+  <trd lng="pl">tlenek</trd>
+  <trd lng="pt">&oacute;xido</trd>
+  <trdgrp lng="ru">
+    <trd>&c_o;&c_k;&c_s;&c_i;&c_d;</trd>,
+    <trd>&c_o;&c_k;&c_i;&c_s;&c_je;&c_l;</trd>,
+    <trd>&c_o;&c_k;&c_i;&c_s;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="sk">oxid</trd>
+  <trd lng="vo">x&uuml;d</trd>
+</drv>
+
+<drv mrk="oksid.0igi">
+  <kap><tld/>igi, <var><kap><tld/>i</kap></var></kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="oksid.0igi.KEM_strikte">
+    <uzo tip="fak">KEM</uzo>
+    <dif>
+      &Scirc;angi, pli malpli komplete, en <tld/>on;
+      difekti per kombino kun oksigeno:
+      <ekz>
+        la feron <tld/>as la malsekeco;
+      </ekz>
+      <ekz>
+        plateno estas ne<tld/>ebla.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>oxidieren</trd>,
+      <trd>rosten</trd>
+    </trdgrp>
+    <trdgrp lng="nl">
+      <trd>oxyderen</trd>,
+      <trd>roesten</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="oksid.0igi.KEM_malstrikte">
+    <uzo tip="fak">KEM</uzo>
+    <dif>
+      En pli vasta senco: depreni elektronojn de atomoj a&ubreve; jonoj
+      per &hcirc;emia reakcio; en tia reakcio <tld/>igilo povas esti ne
+      nur oksigeno, sed, ekzemple, fluoro a&ubreve; kloro.
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="korod.0i.KEM">korodi <sncref/></ref>
+    </refgrp>
+  </snc>
+  <rim>
+    La&ubreve; logiko de esperanta vortoderivado oni devas uzi formon
+    <em>oksidigi</em>, tamen en multaj vortaroj (anka&ubreve; en PIV)
+    estas registrita mallogika formo <em>oksidi</em>.
+    <aut>Jurij Finkel</aut>
+  </rim>
+  <trd lng="be">&c_a;&c_k;&c_ib;&c_s;&c_mol;&c_l;&c_ja;&c_c;&c_mol;</trd>
+  <trd lng="de">oxidieren</trd>
+  <trd lng="el">&omikron;&xi;&epsilon;&jota;&delta;&omega_ton;&ny;&omega;</trd>
+  <trd lng="en">oxidize</trd>
+  <trd lng="es">oxidar</trd>
+  <trd lng="fr">oxyder</trd>
+  <trd lng="hu">oxid&aacute;l</trd>
+  <trdgrp lng="pl">
+    <trd>utlenia&cacute;</trd>
+    <trd>oksydowa&cacute;<klr> (pokrywa&cacute; tlenkami)</klr></trd>
+  </trdgrp>
+  <trd lng="pt">oxidar</trd>
+  <trd lng="ru">&c_o;&c_k;&c_i;&c_s;&c_l;&c_ja;&c_t;&c_mol;</trd>
+  <trd lng="sk">oxidovať</trd>
+  <trdgrp lng="cs">
+    <trd>okysličovat</trd>,
+    <trd>oxidovat</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: oksid.xml,v $
+Revision 1.18  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:33:21  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.16  2013/04/28 08:10:08  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.15  2010/06/30 16:30:34  revo
+Jeromo Vasxe: - krampo + trd fr
+
+Revision 1.14  2006/06/08 16:31:45  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.13  2003/11/01 17:31:24  revo
+Alejandro Mejia Greene: ald 2 his trd
+
+Revision 1.12  2003/06/18 16:30:42  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.11  2003/03/06 17:11:25  revo
+Ulrich Fellmann: + 1 trd = vo
+
+Revision 1.10  2002/06/01 05:58:39  revo
+Eduardo M. Kalinowski: ald trd el, pt
+
+Revision 1.9  2002/03/08 17:31:09  revo
+-->
+</vortaro>

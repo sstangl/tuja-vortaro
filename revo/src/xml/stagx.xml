@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: stagx.xml,v 1.5 2008/02/15 17:30:17 revo Exp $">
+<kap>
+  <rad>sta&gcirc;</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+
+<drv mrk="stagx.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="stagx.0o.laboreja">
+    <uzo tip="fak">PED</uzo>
+    <ref tip="dif" cel="lern.0oservo">lernoservo</ref>
+    <trdgrp lng="de">
+      <trd>Praktikum</trd>,
+      <trd>Lehre<klr tip="amb"> (Berufsausbildung)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>internship</trd>,
+      <trd>traineeship</trd>
+    </trdgrp>
+    <trd lng="pl">sta&zdot;</trd>
+  </snc>
+  <snc mrk="stagx.0o.lerneja">
+    <uzo tip="fak">PED</uzo>
+    <dif>
+      <ref tip="super" cel="kurs.0o.lerna">Kurso</ref> intensa kaj
+      relative mallonga &ndash; de plurtaga &gcirc;is maksimume plurmonata:
+      <ekz>
+        mi respondecas pri Esperanto-somerlernejoj kaj aliaj <tld/>oj
+        <fnt>
+        <aut>-</aut>,
+        <vrk>Paul Gubbins</vrk>,
+        <bib>Monato</bib>,
+        <lok>jaro 2002a, numero 11a, p. 6a</lok>
+        </fnt>
+      </ekz>
+    </dif>
+    <trd lng="en">short training course</trd>
+  </snc>
+  <trdgrp lng="fr">
+    <trd>apprentissage<klr tip="amb"> (stage)</klr></trd>,
+    <trd>cours intensif</trd>,
+    <trd>stage</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_t;&c_a;&c_zh;&c_i;&c_r;&c_o;&c_v;&c_k;&c_a;</trd>,
+    <trd>&c_k;&c_u;&c_r;&c_s;&c_y;
+&c_p;&c_o;&c_v;&c_y;&c_sh;&c_je;&c_n;&c_i;&c_ja;
+&c_k;&c_v;&c_a;&c_l;&c_i;&c_f;&c_i;&c_k;&c_a;&c_c;&c_i;&c_i;</trd>,
+    <trd>&c_p;&c_r;&c_o;&c_i;&c_z;&c_v;&c_o;&c_d;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_a;&c_ja;
+<ind>&c_p;&c_r;&c_a;&c_k;&c_t;&c_i;&c_k;&c_a;</ind></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="stagx.0i">
+  <kap><tld/>i</kap>
+  <snc mrk="stagx.0i.laboreje">
+    <uzo tip="fak">PED</uzo>
+    <dif>
+      Praktike lerni &ccirc;e metiulo en efektivaj laborkondi&ccirc;oj.
+    </dif>
+    <trd lng="ru">&c_p;&c_r;&c_o;&c_h;&c_o;&c_d;&c_i;&c_t;&c_mol;
+&c_p;&c_r;&c_o;&c_i;&c_z;&c_v;&c_o;&c_d;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_u;&c_ju;
+<ind>&c_p;&c_r;&c_a;&c_k;&c_t;&c_i;&c_k;&c_u;</ind></trd>
+  </snc>
+  <snc mrk="stagx.0i.lerneje">
+    <uzo tip="fak">PED</uzo>
+    <dif>
+      Lerni en mallonga, intensa kurso.
+    </dif>
+  </snc>
+  <trd lng="fr">faire un <ind>stage</ind></trd>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_t;&c_a;&c_zh;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>,
+    <trd>&c_p;&c_r;&c_o;&c_h;&c_o;&c_d;&c_i;&c_t;&c_mol;
+<ind>&c_s;&c_t;&c_a;&c_zh;&c_i;&c_r;&c_o;&c_v;&c_k;&c_u;</ind></trd>,
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log: stagx.xml,v $
+Revision 1.5  2008/02/15 17:30:17  revo
+Wieland Pusch: +trd de
+
+Revision 1.4  2008/02/01 17:30:30  revo
+Russ Williams: +trd en pl
+
+Revision 1.3  2005/12/19 17:32:16  revo
+Yury Finkel: kor eraron
+
+Revision 1.2  2005/09/05 16:31:05  revo
+Yury Finkel: +trd ru
+
+Revision 1.1  2005/09/04 17:49:51  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

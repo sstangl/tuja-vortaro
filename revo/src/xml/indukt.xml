@@ -1,0 +1,230 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: indukt.xml,v 1.23 2015/07/04 08:37:36 revo Exp $">
+<kap>
+  <ofc>3</ofc>
+  <rad>indukt</rad>/i
+</kap>
+<drv mrk="indukt.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="indukt.0i.KOMUNE">
+    <dif>
+      Rezoni, konkludante el apartaj faktoj al &gcirc;enerala le&gcirc;o, el
+      specoj al specaro, el efikoj al ka&ubreve;zo:
+      <ekz>
+        el tio, ni povas <tld/>i, ke ...
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="dedukt.0i">dedukti</ref>.
+    </refgrp>
+    <trd lng="de">verallgemeinern</trd>
+    <trdgrp lng="en">
+      <trd>infer</trd>,
+      <trd>generalize</trd>,
+      <trd>reason</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>k&ouml;vetkeztet<klr tip="ind"> (&aacute;ltal&aacute;nos&iacute;t)</klr></trd>,
+      <trd>&aacute;ltal&aacute;nos&iacute;t</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_v;&c_y;&c_v;&c_o;&c_d;&c_i;&c_t;&c_mol; &c_l;&c_o;&c_g;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_o;&c_je;
+      &c_z;&c_a;&c_k;&c_l;&c_ju;&c_ch;&c_je;&c_n;&c_i;&c_je;</trd>,
+      <trd>&c_d;&c_je;&c_l;&c_a;&c_t;&c_mol; &c_v;&c_y;&c_v;&c_o;&c_d;&c_y; <klr>(&c_o;&c_t; &c_ch;&c_a;&c_s;&c_t;&c_n;&c_o;&c_g;&c_o; &c_k;
+      &c_o;&c_b;&c_shch;&c_je;&c_m;&c_u;)</klr></trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="indukt.0i.ELE">
+    <uzo tip="fak">ELE</uzo>
+    <dif>
+      Produkti kurenton per <tld/>o <sncref ref="indukt.0o.ELE"/>.
+    </dif>
+    <trdgrp lng="hu">
+      <trd>gerjeszt</trd>,
+      <trd>induk&aacute;l</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_i;&c_n;&c_d;&c_u;&c_k;&c_t;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>,
+      <trd>&c_i;&c_n;&c_d;&c_u;&c_c;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>,
+      <trd>&c_n;&c_a;&c_v;&c_o;&c_d;&c_i;&c_t;&c_mol;</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="cs">vyvozovat obecné závěry</trd>
+  <trd lng="de">induzieren</trd>
+  <trd lng="en">induce</trd>
+  <trd lng="es">inducir</trd>
+  <trd lng="fr">induire</trd>
+  <trd lng="nl">induceren</trd>
+  <trd lng="pt">induzir</trd>
+  <trd lng="sk">vyvodzovať všeobecné závery</trd>
+</drv>
+
+<drv mrk="indukt.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="indukt.0o.KOMUNE">
+    <dif>
+      Ago <tld/>i <sncref ref="indukt.0i.KOMUNE"/>.
+    </dif>
+    <trd lng="en">induction</trd>
+    <trdgrp lng="hu">
+      <trd>indukci&oacute;</trd>,
+      <trd>indukt&iacute;v <ind>k&ouml;vetkeztet&eacute;s</ind></trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_i;&c_n;&c_d;&c_u;&c_k;&c_c;&c_i;&c_ja;</trd>,
+      <trd>&c_u;&c_m;&c_o;&c_z;&c_a;&c_k;&c_l;&c_ju;&c_ch;&c_je;&c_n;&c_i;&c_je;<klr tip="amb"> (&c_o;&c_t;
+      &c_ch;&c_a;&c_s;&c_t;&c_n;&c_o;&c_g;&c_o; &c_k; &c_o;&c_b;&c_shch;&c_je;&c_m;&c_u;)</klr></trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="indukt.0o.ELE">
+    <uzo tip="fak">ELE</uzo>
+    <dif>
+      Fenomeno, per kiu kurento a&ubreve; movi&gcirc;anta magneto produktas
+      kurenton en apuda kondukilo.
+    </dif>
+    <trd lng="en">inductance</trd>
+    <trdgrp lng="hu">
+      <trd>gerjeszt&eacute;s</trd>,
+      <trd>indukci&oacute;</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_i;&c_n;&c_d;&c_u;&c_k;&c_c;&c_i;&c_ja;</trd>,
+      <trd>&c_n;&c_a;&c_v;&c_je;&c_d;&c_je;&c_n;&c_i;&c_je;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="indukt.0o.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>MatVort</bib></fnt>
+    <dif>
+      Maniero <ref cel="pruv.0i.MAT">pruvi</ref>, ke
+      <ref cel="propoz.0o.teoremo">propozicio</ref> veras por &ccirc;iu
+      natura entjero <frm><k>n</k></frm>, montrante ke &gcirc;i veras
+      por <frm><k>n</k> = 0</frm>, kaj ke se &gcirc;i veras
+      por iu <frm><k>n</k></frm>, &gcirc;i veras anka&ubreve;
+      por <frm><k>n</k>+1</frm>:
+      <ekz>
+        <ind>aksiomo de (matematika) <tld/>o</ind>
+        <fnt><bib>MatVort</bib></fnt>;
+        <trd lng="de">Induktionsaxiom</trd>
+        <trd lng="en">axiom of complete induction</trd>
+        <trd lng="fr">axiome d'induction</trd>
+        <trd lng="hu">indukci&oacute;s axi&oacute;ma</trd>
+        <trd lng="pl">zasada indukcji matematycznej</trd>
+        <trd lng="ru">&c_a;&c_k;&c_s;&c_i;&c_o;&c_m;&c_a; &c_m;&c_a;&c_t;&c_je;&c_m;&c_a;&c_t;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_o;&c_j;
+        &c_i;&c_n;&c_d;&c_u;&c_k;&c_c;&c_i;&c_i;</trd>
+      </ekz>
+      <ekz>
+        pruvu per <tld/>o, ke la &gcirc;enerala termo
+        <frm><k>u</k><sub><k>n</k></sub></frm> de geometria
+        <ref cel="progre1.0o">progresio</ref> egalas al
+        <frm><k>u</k><sub>0</sub><k>q</k><sup><k>n</k></sup></frm>.
+      </ekz>
+    </dif>
+    <trd lng="de">Induktion</trd>
+    <trd lng="en">induction</trd>
+    <trdgrp lng="fr">
+      <trd>induction</trd>,
+      <trd>r&eacute;currence</trd></trdgrp>
+    <trd lng="hu">indukci&oacute;</trd>
+    <trd lng="pl">indukcja</trd>
+    <trd lng="ru">&c_i;&c_n;&c_d;&c_u;&c_k;&c_c;&c_i;&c_ja;</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>indukce</trd>,
+    <trd>vyvolání <klr>(potratu)</klr></trd>,
+    <trd>vzájemné navození</trd>
+  </trdgrp>
+  <trd lng="es">inducci&oacute;n</trd>
+  <trd lng="fr">induction<klr tip="ind"> (raisonnement, &eacute;lec.,
+  math.)</klr></trd>
+  <trd lng="sk">indukcia</trd>
+</drv>
+
+<drv mrk="indukt.il0o">
+  <kap><tld/>ilo</kap>
+  <snc mrk="indukt.il0o.ELE">
+  <uzo tip="fak">ELE</uzo>
+  <dif>
+  <ref tip="dif" cel="boben.0o.ELE">Bobeno</ref>, kiu kontra&ubreve;staras la
+  pason de alterna kurento per sia <ref tip="dif"
+  cel="indukt.0o.ELE">induktanco</ref>.  
+  </dif>
+  </snc>
+  <trd lng="cs">induktor</trd>
+  <trd lng="fr">inductance<klr> (composant)</klr></trd>
+  <trd lng="sk">induktor</trd>
+</drv>
+
+<drv mrk="indukt.0a">
+  <kap><tld/>a</kap>
+  <dif>
+    Karakterizata per <tld/>o:
+  </dif>
+  <snc>
+    <ekz>
+      <tld/>a rezonado, metodo;
+    </ekz>
+    <trd lng="de">induktiv</trd>
+  </snc>
+  <snc>
+    <ekz>
+      <tld/>a bobeno, fluo.
+    </ekz>
+  </snc>
+  <trd lng="en">inductive</trd>
+  <trd lng="es">inductivo</trd>
+  <trdgrp lng="fr">
+    <trd>inductif</trd>,
+    <trd>r&eacute;current<klr tip="ind"> (math.)</klr></trd>,
+    <trd>d'<ind>induction</ind></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>indukt&iacute;v</trd>,
+    <trd>indukci&oacute;s</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>inductief</trd>,
+    <trd>inductie-</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_i;&c_n;&c_d;&c_u;&c_k;&c_t;&c_i;&c_v;&c_n;&c_y;&c_j;</trd>,
+    <trd>&c_i;&c_n;&c_d;&c_u;&c_k;&c_c;&c_i;&c_o;&c_n;&c_n;&c_y;&c_j;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: indukt.xml,v $
+Revision 1.23  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.22  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.21  2014/05/17 16:10:21  revo
+Damien Brucker: +~ilo
+
+Revision 1.20  2010/04/14 06:05:40  revo
+Russ Williams: +trd en
+
+Revision 1.19  2007/04/20 16:31:11  revo
+Tulio Flores: +tr pt
+
+Revision 1.18  2005/06/22 16:32:17  revo
+Yury Finkel: +trd ru
+
+Revision 1.17  2003/01/17 17:32:58  revo
+Alejandro Mejia Greene: ald 3 his trd
+
+Revision 1.16  2002/11/24 17:34:03  revo
+Marc Bavant: +trd pl
+
+Revision 1.15  2002/11/22 17:33:39  revo
+Marc Bavant: +frm
+Revision 1.14  2002/09/11 17:35:40  revo
+Jozefo Horvath: mod. trd hu
+-->
+</vortaro>

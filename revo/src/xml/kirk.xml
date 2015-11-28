@@ -1,0 +1,146 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+  <art mrk="$Id: kirk.xml,v 1.13 2015/07/04 08:37:37 revo Exp $">
+    <kap>
+      <rad>kirk</rad>/o
+    </kap>
+
+    <drv mrk="kirk.0o">
+      <kap><tld/>o</kap>
+      <snc>
+      <uzo tip="fak">KRI</uzo>
+        <dif>
+          Kristana <ref tip="super" cel="pregx.0ejo">pre&gcirc;ejo</ref>,
+          destinita por <ref cel="liturg.0o.KRI">liturgiaj</ref>
+          diservoj:
+          <ekz>
+            apud la <tld/>o &ccirc;e kies anta&ubreve;pordo petolas kelkaj
+            knaboj, du seriozaj cipresoj staras, kvaza&ubreve; sombre
+            verdaj pedeloj
+            <fnt>
+              <aut>Jean RIBILLARD</aut>: <vrk>Majorkaj azule&hcirc;oj</vrk>.
+              <lok>Nica Literatura Revuo, 3:6</lok>
+            </fnt>;
+          </ekz><ekz>
+            la duka placo, la olimpia teatro, loka <tld/>o kaj la
+            loka sinagogo estos uzataj por la diversaj programeroj
+            <fnt>
+              <vrk>La Civito naski&gcirc;os</vrk>.
+              <lok>LOdE, 2000, N-ro 11</lok>
+            </fnt>.
+          </ekz>
+        </dif>
+        <adm>
+          En ortodoksismo kristana pre&gcirc;ejo sen altaro, kie oni do ne
+          aran&gcirc;as liturgiojn, nomi&gcirc;as "kapelo"
+(&c_ch;&c_a;&c_s;&c_o;&c_v;&c_n;&c_ja;); sed la
+          difinoj de "kapelo" en ReVo havas aliajn sencojn. Kio
+          do respondas al &c_ch;&c_a;&c_s;&c_o;&c_v;&c_n;&c_ja; en katolikismo?
+          <aut>Sergio</aut>
+        </adm>
+      </snc>
+  <trdgrp lng="be">
+        <trd>&c_c;&c_a;&c_r;&c_k;&c_v;&c_a;</trd>,
+        <trd>&c_k;&c_a;&c_s;&c_mol;&c_c;&c_jo;&c_l;</trd>,
+        <trd>&c_k;&c_ib;&c_r;&c_h;&c_a;</trd>,
+        <trd>&c_b;&c_a;&c_zh;&c_n;&c_ib;&c_c;&c_a;</trd>
+      </trdgrp>
+  <trdgrp lng="cs">
+    <trd>kostel</trd>,
+    <trd>modlitebna</trd>
+  </trdgrp>
+  <trd lng="de">Kirche</trd>
+  <trd lng="en">church</trd>
+  <trdgrp lng="fr">
+        <trd>&eacute;glise</trd>,
+        <trd>temple</trd>
+      </trdgrp>
+  <trd lng="hu">templom</trd>
+  <trd lng="nl">kerk<klr tip="ind"> (gebouw)</klr></trd>
+  <trdgrp lng="pl">
+        <trd>ko&sacute;ci&oacute;&lstroke;</trd>,
+        <trd>&sacute;wi&aogonek;tynia <klr>(chrze&sacute;cija&nacute;ska)</klr></trd>
+      </trdgrp>
+  <trd lng="ru">&c_c;&c_je;&c_r;&c_k;&c_o;&c_v;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>kresťanský kostol</trd>,
+    <trd>modlitebňa</trd>
+  </trdgrp>
+</drv>
+
+    <drv mrk="kirk.0ego">
+      <kap><tld/>ego</kap>
+      <uzo tip="stl">NEO</uzo>
+      <snc>
+      <uzo tip="fak">KRI</uzo>
+        <dif>
+          Impona <tld/>komplekso, kutime posedanta kromaltarojn
+          dedi&ccirc;itajn al aliaj festoj ol la &ccirc;efaltaro:
+          <ekz>
+            la <tld/>egoj de la moskva Kremlo.
+          </ekz>
+        </dif>
+        <rim>
+          En la malzorga lingvouzo oni ofte misnomas ajnan <tld/>egon
+          <ref cel="katedr1.0o">katedralo</ref>; kvankam katedralo
+          normale estas <tld/>ego, la inverso ne &ccirc;iam veras: normale
+          en unu urbo povas esti ne pli ol unu katedralo (por koncerna
+          konfesio) &#8208; kaj multaj <tld/>egoj.
+        </rim>
+        <rim>
+          Katedralo estas ordinare sidloko de episkopo. [Ulriko]
+        </rim>
+      </snc>
+      <trd lng="be">&c_s;&c_a;&c_b;&c_o;&c_r;</trd>
+      <trd lng="de">Kathedrale</trd>
+      <trd lng="fr">cath&eacute;drale</trd>
+      <trd lng="hu">nagytemplom</trd>
+      <trd lng="nl">groot <ind>kerkgebouw</ind></trd>
+      <trd lng="ru">&c_s;&c_o;&c_b;&c_o;&c_r;</trd>
+    </drv>
+  </art>
+  <!--
+  $Log: kirk.xml,v $
+  Revision 1.13  2015/07/04 08:37:37  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.12  2015/06/29 16:33:17  revo
+  aldono de trd sk per skripto de M. von Laer
+
+  Revision 1.11  2014/09/18 08:10:22  revo
+  Sebastian Cyprych: +trd pl
+
+  Revision 1.10  2014/01/05 13:10:26  revo
+  Damien Brucker: +trd fr
+
+  Revision 1.9  2009/08/30 16:31:27  revo
+  Paul Peeraerts: +trd nl
+
+  Revision 1.8  2006/02/08 17:32:00  revo
+  Sergio Pokrovskij: +ekz, -NEO
+
+  Revision 1.7  2004/12/13 17:32:59  revo
+  Marc Bavant: +NEO
+
+  Revision 1.6 2004/11/22 17:31:46 revo
+  Dmitri Gabinski: +trd be
+
+  Revision 1.5 2004/05/20 20:15:17 revo
+  Marc Bavant: kor duobligitajn punktojn
+
+  Revision 1.4 2004/05/14 17:47:56 revo
+  Jozefo Horvath: +trd hu
+
+  Revision 1.3 2003/04/06 16:31:11 revo
+  Paul Peeraerts: ald trd nl
+
+  Revision 1.2 2003/03/10 17:33:02 revo
+  Ulrich Fellmann: + 2 trd=de
+
+  Revision 1.1 2003/03/04 17:33:23 revo
+  Sergio Pokrovskij: nova artikolo
+
+  -->
+</vortaro>

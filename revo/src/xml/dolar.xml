@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: dolar.xml,v 1.25 2015/07/04 08:37:32 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>dolar</rad>/o
+</kap>
+<drv mrk="dolar.0o">
+  <kap><tld/>o</kap>
+  <mlg>USD</mlg>
+  <mlg>$</mlg>
+  <snc mrk="dolar.0o.EKON">
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      <ref tip="lst" cel="unu.mon0o" lst="voko:monunuoj">Monunuo</ref>, 
+      interalie de Usono, Kanado, A&ubreve;stralio kaj Singapuro:
+      <ekz>
+        plej ofte oni falsas &ccirc;e ni usonajn <tld/>ojn
+        <fnt><aut>Dmitrij Cibulevskij</aut>:
+        <vrk>Monfalsado</vrk>, <bib>Monato</bib><lok>jaro 2002a, numero
+        7a, p. 16a</lok></fnt>.
+      </ekz>
+    </dif>
+    <ref tip="prt" cel="cend.0o">cendo</ref>
+  <rim mrk="dolar.0o.RIM_ETIM">
+    La nomo venas de la malnova monero
+    <ref tip="vid" cel="taler.0o">talero</ref>.
+  </rim>
+  </snc>
+  <trd lng="be">&c_d;&c_o;&c_l;&c_ja;&c_r;</trd>
+  <trd lng="ca">d&ograve;lar</trd>
+  <trd lng="cs">dolar</trd>
+  <trd lng="de">Dollar</trd>
+  <trd lng="en">dollar</trd>
+  <trd lng="es">d&oacute;lar</trd>
+  <trd lng="fr">dollar</trd>
+  <trd lng="hu">doll&aacute;r</trd>
+  <trd lng="id">dolar</trd>
+  <trd lng="nl">dollar</trd>
+  <trd lng="pl">dolar</trd>
+  <trd lng="pt">d&oacute;lar</trd>
+  <trd lng="ru">&c_d;&c_o;&c_l;&c_l;&c_a;&c_r;</trd>
+  <trd lng="sk">dolár</trd>
+  <trd lng="tp">mani</trd>
+</drv>
+</art>
+<!--
+$Log: dolar.xml,v $
+Revision 1.25  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.24  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.23  2014/06/26 15:10:22  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.22  2013/12/01 09:10:12  revo
+Damien Brucker: +$ +DOL
+
+Revision 1.21  2013/09/22 19:11:24  revo
+Wolfram Diestel: referenco al listo monunuoj
+
+Revision 1.20  2012/08/02 09:10:58  revo
+Marc Rausell: + trd ca
+
+Revision 1.19  2007/11/19 17:31:10  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.18  2007/08/13 16:30:22  revo
+Jeromo Vasxe: + mrk
+
+Revision 1.17  2007/08/11 16:30:47  revo
+Tulio Flores: +tr pt
+
+Revision 1.16  2006/10/22 18:03:49  revo
+-->
+</vortaro>

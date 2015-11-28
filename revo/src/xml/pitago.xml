@@ -1,0 +1,237 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: pitago.xml,v 1.20 2015/07/04 08:37:41 revo Exp $">
+<kap>
+  <rad>Pitagor</rad>/o <fnt><bib>PIV2</bib></fnt>
+</kap>
+<drv mrk="pitago.0o">
+  <kap><tld/>o</kap>
+  <fnt><bib>PIV1</bib></fnt>
+  <snc mrk="pitago.0o.PERS">
+    <uzo tip="fak">PERS</uzo>
+    <dif>
+      Antikva greka filozofo kaj matematikisto el la 6a jarcento a.K.,
+      greklingve <trd
+lng="grc">&Pi;&ypsilon;&theta;&alfa;&gamma;&omikron_acute;&rho;&alfa;&sigma_fina;</trd>:
+      <ekz>
+        <tld/>o el Samoso, kiu estis vivinta sep metamorfozojn
+        <fnt>
+          <aut>Lukiano, trad. G. Berveling</aut>,
+          <vrk><url
+          ref="http://www.esperanto.gr/lit/els/rakontoj.pdf">veraj
+          rakontoj</url>. - 2005</vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_P;&c_ib;&c_f;&c_a;&c_g;&c_o;&c_r;</trd>
+  <trd lng="bg">&c_P;&c_i;&c_t;&c_a;&c_g;&c_o;&c_r;</trd>
+  <trd lng="br">Pythagoras</trd>
+  <trd lng="cs">Pythagoras</trd>
+  <trd lng="de">Pythagoras</trd>
+  <trd lng="en">Pythagoras</trd>
+  <trd lng="fr">Pythagore</trd>
+  <trdgrp lng="hu">
+    <trd>Pitagorasz</trd>,
+    <trd>P&uuml;thagor&aacute;sz</trd>
+  </trdgrp>
+  <trd lng="it">Pitagora</trd>
+  <trd lng="nl">Pythagoras</trd>
+  <trd lng="pl">Pitagoras</trd>
+  <trd lng="pt">Pit&aacute;goras</trd>
+  <trd lng="ru">&c_P;&c_i;&c_f;&c_a;&c_g;&c_o;&c_r;</trd>
+  <trd lng="sk">Pytagoras</trd>
+</drv>
+
+<drv mrk="pitago.p0a">
+  <kap><tld lit="p"/>a</kap>
+  <snc mrk="pitago.p0a.KOMUNE">
+    <dif>
+      Iel rilatanta al la verko de <tld/>o:
+      <ekz>
+        <uzo tip="fak">MAT</uzo>
+        <ind><tld lit="p"/>a teoremo</ind>
+        <klr>(vd <ref cel="hipote1.0o">hipotenuzo</ref>)</klr>
+        <fnt><bib>MatVort</bib></fnt>;
+        <trd lng="be">&c_t;&c_e;&c_a;&c_r;&c_e;&c_m;&c_a;
+&c_P;&c_ib;&c_f;&c_a;&c_g;&c_o;&c_r;&c_a;</trd>
+        <trd lng="br">teorem Pythagoras</trd>
+        <trd lng="de">pythagoreischer Lehrsatz</trd>
+        <trd lng="fr">th&eacute;or&egrave;me de Pythagore</trd>
+        <trd lng="en">Pythagoras['s] <ind>theorem</ind></trd>
+        <trd lng="it">teorema di Pitagora</trd>
+        <trd lng="hu">Pitagorasz-<ind>t&eacute;tel</ind></trd>
+        <trd lng="nl">leer van <ind>Pythagoras</ind></trd>
+        <trd lng="pl">twierdzenie Pitagorasa</trd>
+        <trd lng="ru">&c_t;&c_je;&c_o;&c_r;&c_je;&c_m;&c_a;
+&c_P;&c_i;&c_f;&c_a;&c_g;&c_o;&c_r;&c_a;</trd>
+      </ekz>
+      <ekz>
+        <uzo tip="fak">MAT</uzo>
+        <ind><tld lit="p"/>a triopo</ind> <klr>(tia
+        <ref cel="op.n0o">triopo</ref> el
+        entjeroj <frm>(<k>a</k>,<k>b</k>,<k>c</k>)</frm>, ke
+        <frm><k>a</k><sup>2</sup> =
+        <k>b</k><sup>2</sup>+<k>c</k><sup>2</sup></frm>)</klr>
+        <fnt><bib>MatVort</bib></fnt>;
+        <trd lng="be">&c_p;&c_ib;&c_f;&c_a;&c_g;&c_o;&c_r;&c_a;&c_v;&c_y;
+<ind>&c_l;&c_ib;&c_k;&c_ib;</ind></trd>
+        <trd lng="de">pythagoreisches <ind>Zahlentripel</ind></trd>
+        <trd lng="en">pythagorean <ind>triple</ind></trd>
+        <trd lng="fr">triplet pythagoricien</trd>
+        <trd lng="hu">pitagoraszi <ind>sz&aacute;mh&aacute;rmas</ind></trd>
+        <trd lng="it">terna pitagorica</trd>
+        <trd lng="pl">tr&oacute;jka pitagorejska</trd>
+        <trd lng="ru">&c_p;&c_i;&c_f;&c_a;&c_g;&c_o;&c_r;&c_o;&c_v;&c_y;
+<ind>&c_ch;&c_i;&c_s;&c_l;&c_a;</ind></trd>
+      </ekz>
+      <ekz>
+        <uzo tip="fak">MAT</uzo>
+        <ind><tld lit="p"/>a triangulo</ind> <klr>(tia
+        <ref cel="angul.tri0o">triangulo</ref>, ke la longo de &gcirc;iaj
+        lateroj konsistigas <tld lit="p"/>an triopon)</klr>
+        <fnt><bib>MatVort</bib></fnt>;
+        <trdgrp lng="be">
+          <trd>&c_p;&c_ib;&c_f;&c_a;&c_g;&c_o;&c_r;&c_a;&c_w;
+<ind>&c_t;&c_r;&c_o;&c_h;&c_k;&c_u;&c_t;&c_n;&c_ib;&c_k;</ind></trd>,
+          <trd>&c_p;&c_ib;&c_f;&c_a;&c_g;&c_o;&c_r;&c_a;&c_w;
+<ind>&c_t;&c_r;&c_o;&c_h;&c_v;&c_u;&c_g;&c_o;&c_l;&c_mol;&c_n;&c_ib;&c_k;</ind></trd>
+        </trdgrp>
+        <trd lng="de">pythagoreisches <ind>Dreieck</ind></trd>
+        <trd lng="en">pythagorean <ind>triangle</ind></trd>
+        <trd lng="fr">triangle pythagoricien</trd>
+        <trd lng="hu">pitagoraszi <ind>h&aacute;romsz&ouml;g</ind></trd>
+        <trd lng="it">triangolo pitagorico</trd>
+        <trd lng="pl">tr&oacute;jk&aogonek;t pitagorejski</trd>
+        <trd lng="ru">&c_p;&c_i;&c_f;&c_a;&c_g;&c_o;&c_r;&c_o;&c_v;
+<ind>&c_t;&c_r;&c_je;&c_u;&c_g;&c_o;&c_l;&c_mol;&c_n;&c_i;&c_k;</ind></trd>
+      </ekz>
+      <ekz>
+        <uzo tip="fak">FIL</uzo>
+        <tld lit="p"/>a skolo.
+      </ekz>
+    </dif>
+    <bld lok="../bld/pitago.gif">
+      la <tld lit="p"/>a teoremo
+      <!-- : a<sup>2</sup> = (b-c)<sup>2</sup>+4&#215;(bc/2) =
+      b<sup>2</sup>+c<sup>2</sup> -->
+    </bld>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_P;&c_ib;&c_f;&c_a;&c_g;&c_o;&c_r;&c_a;</trd>,
+    <trd>&c_p;&c_ib;&c_f;&c_a;&c_g;&c_o;&c_r;&c_a;&c_w;</trd>,
+    <trd>&c_p;&c_ib;&c_f;&c_a;&c_g;&c_o;&c_r;&c_a;&c_w;&c_s;&c_k;&c_ib;</trd>,
+    <trd>&c_p;&c_ib;&c_f;&c_a;&c_g;&c_a;&c_r;&c_e;&c_j;&c_s;&c_k;&c_ib;</trd>
+  </trdgrp>
+  <trdgrp lng="br">
+    <trd>-<ind>Pythagoras</ind></trd>,
+    <trd>pitagorisian</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>von <ind>Pythagoras</ind></trd>,
+    <trd>pythagoreisch</trd></trdgrp>
+  <trdgrp lng="en">
+    <trd>Pythagoras['s]</trd>,
+    <trd>pythagorean</trd></trdgrp>
+  <trdgrp lng="fr">
+    <trd>de <ind>Pythagore</ind></trd>,
+    <trd>pythagor&eacute;en</trd>,
+    <trd>pythagoricien</trd>,
+    <trd>pythagorique</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>pitagoraszi</trd>,
+    <trd>Pitagorasz-</trd>,
+    <trd>p&uuml;thagor&aacute;szi</trd>,
+    <trd>P&uuml;thagor&aacute;sz-</trd>
+  </trdgrp>
+  <trdgrp lng="it">
+    <trd>di <ind>Pitagora</ind></trd>,
+    <trd>pitagorico<klr> (agg.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>van <ind>Pythagoras</ind></trd>,
+    <trd>pythagorisch</trd></trdgrp>
+  <trdgrp lng="pl">
+    <trd>pitagorejski</trd>,
+    <trd>Pitagorasa</trd></trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_P;&c_i;&c_f;&c_a;&c_g;&c_o;&c_r;&c_a;</trd>
+   
+<trd>&c_p;&c_i;&c_f;&c_a;&c_g;&c_o;&c_r;&c_o;&c_v;&c_s;&c_k;&c_i;&c_j;</trd>,
+    <trd>&c_p;&c_i;&c_f;&c_a;&c_g;&c_o;&c_r;&c_o;&c_v;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="pitago.p0ismo">
+  <kap><tld lit="p"/>ismo</kap>
+  <uzo tip="fak">FIL</uzo>
+  <snc>
+    <dif>
+      Doktrino de <tld/>o.
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_ib;&c_f;&c_a;&c_g;&c_a;&c_r;&c_e;&c_j;&c_s;&c_t;&c_v;&c_a;</trd>
+  <trd lng="de">Pythagorismus</trd>
+  <trd lng="en">pythagoreanism</trd>
+  <trd lng="fr">pythagorisme</trd>
+  <trd lng="hu">pitagoreizmus</trd>
+  <trdgrp lng="it">
+    <trd><klr>scuola </klr>pitagorica</trd>,
+    <trd>pitagorismo</trd>
+  </trdgrp>
+  <trd lng="ru">&c_p;&c_i;&c_f;&c_a;&c_g;&c_o;&c_r;&c_je;&c_j;&c_s;&c_t;&c_v;&c_o;</trd>
+</drv>
+
+<drv mrk="pitago.0ano">
+  <kap><tld lit="p"/>ano</kap>
+  <snc mrk="pitago.0ano.FIL">
+    <uzo tip="fak">FIL</uzo>
+    <uzo tip="fak">MAT</uzo>
+    <dif>
+      Ano de la doktrino de <tld/>o.
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_ib;&c_f;&c_a;&c_g;&c_a;&c_r;&c_e;&c_je;&c_c;</trd>
+  <trd lng="de">Pythagoreer</trd>
+  <trd lng="en">pythagorean</trd>
+  <trd lng="fr">pythagoricien<klr tip="ind"> (subst.)</klr></trd>
+  <trd lng="hu">pitagore&aacute;nus</trd>
+  <trd lng="it">pitagorico<klr> (sost.)</klr></trd>
+  <trd lng="ru">&c_p;&c_i;&c_f;&c_a;&c_g;&c_o;&c_r;&c_je;&c_je;&c_c;</trd>
+</drv>
+</art>
+<!--
+$Log: pitago.xml,v $
+Revision 1.20  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2010/01/02 17:30:42  revo
+Wieland Pusch: +trd bg
+
+Revision 1.17  2009/12/11 17:30:22  revo
+Antonio Codazzi: +trd it
+
+Revision 1.16  2006/10/22 18:03:20  revo
+Jeromo Vasxe: + fnt + ekz
+
+Revision 1.15  2006/03/05 17:31:20  revo
+Tulio Flores: +tr pt
+
+Revision 1.14  2005/10/09 16:31:22  revo
+Marc Bavant: ~a: kor trd lng br
+
+Revision 1.13  2005/07/05 16:33:35  revo
+Alan ar Gall: +trd br
+
+Revision 1.12  2005/01/15 17:32:33  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.11  2004/08/11 16:32:00  revo
+-->
+</vortaro>

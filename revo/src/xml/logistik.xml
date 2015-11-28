@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: logistik.xml,v 1.15 2015/07/04 08:37:38 revo Exp $">
+<kap>
+  <rad>logistik</rad>/o
+</kap>
+<drv mrk="logistik.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>PIV1</bib></fnt>
+  <snc>
+    <dif>
+      <ref tip="dif" cel="logik.matematika0o">Matematika logiko</ref>:
+      <ekz>
+        Couturat estis unu el la fondintoj de <tld/>o
+        <fnt><bib>PIV1</bib></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      Ne konfuzu kun:
+      <ref cel="logxistik.0o">lo&gcirc;istiko</ref>.
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_m;&c_a;&c_t;&c_e;&c_m;&c_a;&c_t;&c_y;&c_ch;&c_n;&c_a;&c_ja; <ind>&c_l;&c_jo;&c_g;&c_ib;&c_k;&c_a;</ind></trd>
+  <trd lng="cs">logistika</trd>
+  <trdgrp lng="de">
+    <trd>mathematische <ind>Logik</ind></trd>,
+    <trd>Logistik<klr> [ark, evi]</klr></trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>mathematical <ind>logic</ind></trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd><ind>log&iacute;stica</ind> (matem&aacute;tica)</trd>
+  </trdgrp>
+  <trdgrp lng="fa">
+    <trd>&a_m;&a_n;&a_T;&a_q; &a_r;&f_y;&a_A;&a_D;&f_y;</trd>,
+    <trd>&a_m;&a_n;&a_T;&a_q; &a_n;&a_m;&a_A;&a_d;&f_y;</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>logique math&eacute;matique</trd>,
+    <trd>logistique<klr tip="ind"> (logique math&eacute;matique)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>form&aacute;lis <ind>logika</ind></trd>,
+    <trd>matematikai <ind>logika</ind></trd>,
+    <trd>szimbolikus<ind> logika</ind></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>logistiek<klr tip="ind"> (symbolische logica)</klr></trd>,
+    <trd>symbolische <ind>logica</ind></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>logika matematyczna</trd>,
+    <trd>logistyka</trd>
+  </trdgrp>
+  <trd lng="pt">l&oacute;gica matem&aacute;tica</trd>
+  <trdgrp lng="ru">
+    <trd>&c_m;&c_a;&c_t;&c_je;&c_m;&c_a;&c_t;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_a;&c_ja; <ind>&c_l;&c_o;&c_g;&c_i;&c_k;&c_a;</ind></trd>,
+    <trd>&c_l;&c_o;&c_g;&c_i;&c_s;&c_t;&c_i;&c_k;&c_a;<klr tip="ind"> (&c_u;&c_s;&c_t;.)</klr></trd>
+  </trdgrp>
+  <trd lng="sk">logistika</trd>
+</drv>
+</art>
+<!--
+$Log: logistik.xml,v $
+Revision 1.15  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:33:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.13  2012/03/27 00:10:09  revo
+Alejandro Mejia Greene: ald his trd
+
+Revision 1.12  2009/08/19 18:42:37  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.11  2009/07/02 16:30:38  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.10  2009/03/01 17:34:35  revo
+Russ Williams: -trd en (Ne konfuzu kun: logxistiko...)
+
+Revision 1.9  2004/02/19 18:50:02  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.8  2002/11/30 17:36:03  revo
+Marc Bavant: koherigis trd kun matematika logiko
+
+Revision 1.7 2002/10/21 16:34:45 revo
+Ulrich Fellmann: + klr cxe trd de
+Revision 1.6 2002/09/12 16:35:58 revo
+Eduardo M. Kalinowski: ald trd pt
+-->
+</vortaro>

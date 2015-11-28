@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: fotoliz.xml,v 1.6 2015/07/04 08:37:34 revo Exp $">
+<kap>
+  <rad>fotoliz</rad>/i <fnt><bib>PIV2</bib></fnt>
+</kap>
+<drv mrk="fotoliz.0i">
+  <kap><tld/>i</kap>
+  <snc mrk="fotoliz.0i.KEM">
+    <uzo tip="fak">KEM</uzo>
+    <dif>
+      Malkomponi per luma efiko.
+    </dif>
+  </snc>
+  <trd lng="ca">produir-se la fot&ograve;lisi</trd>
+  <trd lng="cs">provádět fotolýzu</trd>
+  <trd lng="fr">photolyser</trd>
+  <trd lng="sk">rozkladať svetlom</trd>
+</drv>
+
+<drv mrk="fotoliz.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="fotoliz.0o.KEM">
+    <uzo tip="fak">KEM</uzo>
+    <dif>
+      Okazado, efiko, rezulto de <tld/>ado:
+      <ekz>
+        en malprofundaj akvoj, PCP anka&ubreve; estas rapide forigita per 
+        <tld/>o
+        <fnt>
+          <vrk><url
+          ref="http://epo.wikitrans.net/Pentaklorofenol?eng=Pentachlorophenol">
+          pentaklorofenol</url></vrk>,
+          <lok>WikiTrans, 2012</lok>
+        </fnt>
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="ca">fot&ograve;lisi</trd>
+  <trd lng="cs">fotolýza</trd>
+  <trd lng="fr">photolyse</trd>
+  <trd lng="sk">fotolýza</trd>
+</drv>
+</art>
+
+<!--
+$Log: fotoliz.xml,v $
+Revision 1.6  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.5  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.4  2012/07/14 10:10:17  revo
+Marc Rausell: + trd ca
+
+Revision 1.3  2012/04/23 08:10:08  revo
+Jeromo Vasxe: kor. dat. en ekz
+
+Revision 1.2  2012/04/21 16:10:20  revo
+Dominique Pelle: korektis gramatikon + ekzemplo ne estis kiel en la
+fonto
+
+Revision 1.1  2010/11/10 17:30:51  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

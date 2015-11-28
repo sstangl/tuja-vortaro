@@ -1,0 +1,626 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+  <art mrk="$Id: komput.xml,v 1.43 2015/07/04 08:37:37 revo Exp $">
+    <kap>
+      <ofc>9</ofc><rad>komput</rad>/i
+      <fnt>(<lok><url ref="&KompLeks;/KO.HTM#KOMPUTI"
+            >KompLeks</url></lok>)</fnt>
+    </kap>
+
+    <drv mrk="komput.0i">
+      <kap><ofc>9</ofc><tld/>i</kap>
+      <snc mrk="komput.0i.KOMP">
+        <uzo tip="fak">KOMP</uzo>
+        <dif>
+          Solvi matematikan problemon aŭ prilabori datumon
+          aplikante algoritmon, precipe en formo de programo:
+          <ekz>
+            paĝoj, kiuj dinamike kalkulas kaj <tld/>as
+            <fnt><aut>Klivo</aut>:
+              <vrk>Kio estas Javo?</vrk>, <bib>Monato</bib>
+              <lok>jaro 1998a, numero 5a, p. 13a</lok></fnt>.
+          </ekz>
+        </dif>
+        <refgrp tip="vid">
+          <ref cel="kalkul.0i">kalkuli</ref>,
+          <ref cel="nombr.0i">nombri</ref>.
+        </refgrp>
+        <rim>
+          Vd <ref cel="komput.0ilo.rim">rimarkon</ref> sub
+          <tld/>ilo.
+        </rim>
+      </snc>
+      <trdgrp lng="be">
+        <trd>лічыць</trd>,
+        <trd>вылічаць</trd>
+      </trdgrp>
+      <trd lng="bg">пресмятам</trd>
+      <trd lng="cs">počítat strojem</trd>
+      <trd lng="en">compute</trd>
+      <trd lng="es">computar</trd>
+      <trd lng="de">berechnen</trd>
+      <trdgrp lng="fr">
+        <trd>calculer<klr tip="ind"> (info.)</klr></trd>,
+        <trd>effectuer du <ind>calcul</ind> informatique</trd>
+      </trdgrp>
+      <trdgrp lng="hu">
+        <trd>kiszámít</trd>,
+        <trd>(adatot) <ind>feldolgoz</ind></trd>
+      </trdgrp>
+      <trd lng="id">[<ind>hitung</ind>] menghitung</trd>
+      <trd lng="nl">berekenen</trd>
+      <trd lng="pt">computar</trd>
+      <trd lng="ru">вычислить</trd>
+      <trd lng="sk">počítať</trd>
+      <trd lng="sv">beräkna</trd>
+      <trd lng="zh">计算 [<ind>jì suàn</ind>]</trd>
+    </drv>
+
+    <drv mrk="komput.0ado">
+      <kap><tld/>ado</kap>
+      <snc mrk="komput.0ado.KOMP">
+        <uzo tip="fak">KOMP</uzo>
+        <dif>
+          Kalkulado, prilaborado de datumoj per <tld/>iloj.
+        </dif>
+        <refgrp tip="vid">
+          <ref cel="komputik.0o">komputiko</ref>
+        </refgrp>
+      </snc>
+  <trdgrp lng="be">
+        <trd>вылічэньне</trd>,
+        <trd>вылічэньні</trd>
+      </trdgrp>
+  <trd lng="bg">изчисление</trd>
+  <trdgrp lng="cs">
+    <trd>komputace</trd>,
+    <trd>počítání</trd>,
+    <trd>výpočet</trd>,
+    <trd>zpracování na počítači</trd>
+  </trdgrp>
+  <trd lng="es">cómputo</trd>
+  <trdgrp lng="fr">
+        <trd>calcul informatique</trd>,
+        <trd>informatique<klr tip="ind"> (subst., usage
+        d'ordinateurs)</klr></trd>
+      </trdgrp>
+  <trdgrp lng="hu">
+        <trd>kiszámítás</trd>,
+        <trd>adatfeldolgozás</trd>
+      </trdgrp>
+  <trd lng="id">informatika</trd>
+  <trd lng="nl">informatica</trd>
+  <trdgrp lng="sk">
+    <trd>počítanie</trd>,
+    <trd>výpočet</trd>
+  </trdgrp>
+</drv>
+
+    <drv mrk="komput.0ilo">
+      <kap><ofc>9</ofc><tld/>ilo</kap>
+      <fnt><lok><url ref="&KompLeks;/KO.HTM#KOMPUTILO">Komputada
+            Leksikono</url></lok></fnt>
+      <snc mrk="komput.0ilo.KOMP">
+        <uzo tip="fak">KOMP</uzo>
+        <dif>
+          Maŝino por <tld/>i:
+          <ekz>
+            miaj parencoj scias, ke mi okupiĝas kaj profesie kaj hobie
+            kun
+            <tld/>iloj
+            <fnt><aut>Edmund Grimley Evans</aut>,
+              <vrk>Uniksulo ekspertas Unikodon</vrk>, <bib>Monato</bib>,
+              <lok>jaro 2000a, numero 2a, p. 20a</lok></fnt>.
+          </ekz>
+        </dif>
+        <rim>
+          Oni uzas tiun vorton kaj parolante pri la <ctl>nuda
+          maŝino</ctl>
+          (la aparataro), kaj pri iel <ctl>vestita</ctl>
+          <ref tip="malprt" cel="komput.0a.sistemo"><tld/>a
+          sistemo</ref>.
+        </rim>
+        <rim mrk="komput.0ilo.rim">
+          Ĉi tiun aparaton oni iam nomis
+          <ref
+          cel="komputer.0o">komputero</ref><fnt><bib>PIV1</bib></fnt>,
+          aŭ
+          <ref
+          cel="komputor.0o">komputoro</ref><fnt><bib>SPIV</bib></fnt>,
+          kaj la sama fonto tiam donis al <ctl><tld/>ilo</ctl> la sencon
+          de
+          <ref cel="nombr.0ilo.TEK">nombrilo <sncref/></ref>.
+          Ĝi akorde difinis <ctl><tld/>i</ctl>, kiel nombri.
+        </rim>
+        <rim mrk="komput.0ilo.vortohistorio">
+          Jen unu el la plej malnovaj uzoj de la vorto (1967):
+          <ekz>
+            Nomojn oni jam nuntempe produktas per <tld/>iloj, kiuj
+            sisteme fabrikas lingve eblajn literkombinaĵojn, kies
+            efikojn sur la homa menso oni poste studas kaj taksas
+            <fnt>
+              <vrk>Sloganon ‐ spritula arto</vrk>.
+              <lok><url ref="http://www.pcuf.fi/~harle/ef678.html"
+                  >Esperanta Finnlando. 1967 N-ro 8–9</url></lok>
+            </fnt>.
+          </ekz>
+        </rim>
+      </snc>
+      <trd lng="be">кампутар</trd>
+      <trd lng="bg">компютър</trd>
+      <trd lng="cs">počítač</trd>
+      <trdgrp lng="de">
+        <trd>Rechner</trd>,
+        <trd>Computer</trd>,
+        <trd>Komputer</trd>,
+        <trd>Elektronengehirn [arkaika]</trd>
+      </trdgrp>
+      <trd lng="en">computer</trd>
+      <trdgrp lng="es">
+        <trd>ordenador</trd>,
+        <trd>computador</trd>,
+        <trd>computadora</trd>,
+      </trdgrp>
+      <trdgrp lng="fr">
+        <trd>ordinateur</trd>,
+        <trd>calculateur<klr tip="ind"> (ordinateur)</klr></trd>,
+        <trd>calculatrice<klr tip="ind"> (ordinateur)</klr></trd>
+      </trdgrp>
+      <trdgrp lng="hu">
+        <trd>számítógép</trd>,
+        <trd>komputer</trd>
+      </trdgrp>
+      <trd lng="id">komputer</trd>
+      <trd lng="nl">computer</trd>
+      <trd lng="pl">komputer</trd>
+      <trd lng="pt">computador</trd>
+      <trdgrp lng="ru">
+        <trd>ЭВМ</trd>,
+        <trd>компьютер</trd>
+      </trdgrp>
+      <trd lng="sk">počítač</trd>
+      <trd lng="sv">dator</trd>
+      <trd lng="tr">bilgisayar</trd>
+      <trd lng="zh">计算机 [<ind>jì suàn jī</ind>]</trd>
+    </drv>
+
+    <drv mrk="komput.0ilego">
+      <kap><tld/>ilego</kap>
+      <snc mrk="komput.0ilego.KOMP">
+        <uzo tip="fak">KOMP</uzo>
+        <dif>
+          Dimensie aŭ <tld/>opovume granda <tld/>ilo, kutime ne
+          destinita por individua uzo (kontraste al
+          <ref tip="super" cel="komput.persona0ilo">persona
+          <tld/>ilo</ref>).
+        </dif>
+        <trdgrp lng="be">
+          <trd>супэркампутар</trd>,
+          <trd>мэйнфрэйм</trd>
+        </trdgrp>
+        <trd lng="bg">мейнфрейм компютър</trd>
+        <trd lng="de">Großrechner</trd>
+        <trd lng="en">mainframe computer</trd>
+        <trdgrp lng="fr">
+          <trd>ordinateur central</trd>,
+          <trd>mainframe</trd>,
+          <trd>gros <ind>calculateur</ind><klr tip="ind">
+          (mainframe)</klr></trd>
+          <trd>gros <ind>système</ind><klr tip="ind">
+          (mainframe)</klr></trd>
+        </trdgrp>
+        <trd lng="hu">nagyszámítógép</trd>
+        <trdgrp lng="id">
+          <trd><ind>komputer</ind> bingkai utama</trd>,
+          <trd><ind>komputer</ind> kerangka utama</trd>
+        </trdgrp>
+        <trd lng="nl">mainframe computer</trd>
+        <trdgrp lng="ru">
+          <trd>суперкомпьютер</trd>,
+          <trd>мэйнфрейм</trd>
+        </trdgrp>
+      </snc>
+    </drv>
+
+    <drv mrk="komput.0ilisto">
+      <kap><tld/>ilisto</kap>
+      <snc mrk="komput.0ilisto.KOMP">
+        <uzo tip="fak">KOMP</uzo>
+        <dif>
+          Profesiulo pri instalo, kunretigo, komandado, aŭ prizorgado
+          de <tld/>iloj kaj <tld/>aj programoj:
+          <ekz>
+            program-eraroj, kiuj povas ĝeni <tld/>ilistojn
+            <fnt><aut>Klivo</aut>, <vrk>Kio estas Javo?</vrk>,
+              <bib>Monato</bib>, <lok>jaro 1998a, numero 5a, p.
+              13a</lok></fnt>.
+          </ekz>
+        </dif>
+      </snc>
+      <trdgrp lng="fr">
+        <trd>informaticien</trd>
+      </trdgrp>
+      <trd lng="hu">számítógép-technikus</trd>
+      <trd lng="nl">computer-technicus</trd>
+      <trd lng="ru">компьютерщик</trd>
+    </drv>
+
+    <drv mrk="komput.0isto">
+      <kap><tld/>isto</kap>
+      <snc mrk="komput.0isto.KOMP">
+        <uzo tip="fak">KOMP</uzo>
+        <ref tip="dif" cel="progra.0isto">programisto</ref>
+        <ekz>
+          la verko certe interesos matematikistojn kaj <tld/>istojn
+          <fnt><vrk>La mistera teoremo – nun en
+              Esperanto (Marty Rajmondo, La granda teoremo de
+              Fermat)</vrk>,
+            <bib>Monato</bib>,
+            <lok>jaro 1998a, numero 3a, p. 19a</lok></fnt>.
+        </ekz>
+      </snc>
+      <trd lng="be">праграміст</trd>
+      <trd lng="bg">програмист</trd>
+      <trd lng="de">Programmierer</trd>
+      <trd lng="en">programmer</trd>
+      <trd lng="fr">programmeur</trd>
+      <trd lng="hu">programozó</trd>
+      <trdgrp lng="id">
+        <trd>[<ind>program</ind>] pemrogram</trd>,
+        <trd>programer</trd>
+      </trdgrp>
+      <trd lng="nl">programmeur</trd>
+      <trd lng="ru">программист</trd>
+      <trd lng="sk">programátor</trd>
+    </drv>
+
+    <drv mrk="komput.0a.sistemo">
+      <kap><tld/>a sistemo</kap>
+      <snc mrk="komput.0a.sistemo.KOMP">
+        <tezrad fak="KOMP"/>
+        <uzo tip="fak">KOMP</uzo>
+        <dif>
+          Kombino de malvastsenca <tld/>ilo kun ĝiaj periferiaĵoj
+          (la <ref tip="prt" cel="aparat.0aro.KOMP">aparataro</ref>)
+          unuflanke, kaj de
+          <ref tip="prt" cel="progra.0aro">programaro</ref>
+          aliflanke, ebliganta <tld/>adon.
+        </dif>
+        <trdgrp lng="be">
+          <trd>кампутарная сістэма</trd>,
+          <trd>вылічальная сістэма</trd>
+        </trdgrp>
+        <trd lng="bg">компютърна система</trd>
+        <trd lng="de">Computersystem</trd>
+        <trd lng="en">computer system</trd>
+        <trd lng="es">sistema de <ind>computo</ind></trd>
+        <trd lng="fr">système informatique</trd>
+        <trd lng="hu">számítógépes rendszer</trd>
+        <trd lng="id"><ind>sistem</ind> komputer</trd>
+        <trd lng="nl">computersysteem</trd>
+        <trd lng="ru">вычислительная система</trd>
+        <trd lng="sv">datorsystem</trd>
+      </snc>
+    </drv>
+
+    <drv mrk="komput.persona0ilo">
+      <kap>persona <tld/>ilo</kap>
+      <snc mrk="komput.persona0ilo.KOMP">
+        <uzo tip="fak">KOMP</uzo>
+        <dif>
+          <tld lit="K"/>ilo por destinita uzo fare de unu persono,
+          unuuzula <tld/>ilo:
+          <ekz>
+            tiaj <ref cel="blat.0o.ic">blatoj</ref> troviĝas
+            ĉe la kerno de granda plimulto de
+            personaj <tld/>iloj
+            <fnt><aut>Frank Arnaud</aut>:
+              <vrk>Intel alfrontas konkurencon</vrk>,
+              <bib>Monato</bib>,
+              <lok>jaro 2000a, numero 10a, p. 16a</lok></fnt>.
+          </ekz>
+        </dif>
+        <refgrp tip="sub">
+          <ref cel="komput.posx0ilo">poŝ<tld/>ilo</ref>,
+          <ref cel="komput.surtabla0ilo">surtabla <tld/>ilo</ref>,
+          <ref cel="komput.tek0ilo">tek<tld/>ilo</ref>
+        </refgrp>
+        <trd lng="be">пэрсанальны
+          <ind>кампутар</ind></trd>
+        <trd lng="bg">персонален компютър</trd>
+        <trdgrp lng="de">
+          <trd>Persönlicher Computer</trd>,
+          <trd>Personalcomputer</trd>,
+          <trd>PC</trd>
+        </trdgrp>
+        <trdgrp lng="en">
+          <trd>PC</trd>,
+          <trd>personal computer</trd>
+        </trdgrp>
+        <trd lng="es">computadora personal</trd>
+        <trdgrp lng="fr">
+          <trd>ordinateur personnel</trd>,
+          <trd>PC</trd>
+        </trdgrp>
+        <trdgrp lng="hu">
+          <trd>személyi számítógép</trd>,
+          <trd>PC</trd>
+        </trdgrp>
+        <trdgrp lng="id">
+          <trd><ind>komputer</ind> pribadi</trd>,
+          <trd>PC</trd>
+        </trdgrp>
+        <trdgrp lng="nl">
+          <trd>PC</trd>,
+          <trd>personal <ind>computer</ind></trd>
+        </trdgrp>
+        <trd lng="pl">pecel</trd>
+        <trd lng="ru">персональный <ind>компьютер</ind></trd>
+        <trd lng="sk">osobný <ind>počítač</ind></trd>
+      </snc>
+  <trdgrp lng="cs">
+    <trd>PC</trd>,
+    <trd>osobní počítač</trd>
+  </trdgrp>
+  <trd lng="sk">osobný počítač</trd>
+</drv>
+
+    <drv mrk="komput.plat0ilo">
+      <kap>plat<tld/>ilo</kap>
+      <snc mrk="komput.plat0ilo.KOMP">
+        <uzo tip="fak">KOMP</uzo>
+        <dif>
+          Plata portebla
+          <ref tip="super" cel="komput.0ilo"><tld/>ilo</ref>,
+          pli granda ol poŝtelefono aŭ
+          <ref cel="komput.posx0ilo">poŝ<tld/>ilo</ref>, kun granda
+          ekrano (kiu kutime estas uzebla por enigi datumojn, per
+          desegnado aŭ per virtuala klavaro):
+         <ekz>
+           programoj por poŝtelefonoj kaj plat<tld/>iloj
+           <fnt><lok><url
+           ref="http://www.liberafolio.org/2014/ludoj-en-esperanto"
+             >Libera folio</url></lok></fnt>.
+         </ekz>
+        </dif>
+       <trd lng="en">tablet computer</trd>
+       <trdgrp lng="id">
+         <trd><ind>komputer</ind> tablet</trd>,
+         <trd><ind>sabak</ind> elektronik</trd>
+       </trdgrp>
+       <trd lng="ru">планшетный компьютер</trd>
+      </snc>
+    </drv>
+
+    <drv mrk="komput.plet0ilo">
+      <kap>plet<tld/>ilo</kap>
+      <snc>
+         <ref tip="dif" cel="komput.plat0ilo">plat<tld/>ilo</ref>
+      </snc>
+    </drv>
+
+    <drv mrk="komput.posx0ilo">
+      <kap>poŝ<tld/>ilo</kap>
+      <snc mrk="komput.posx0ilo.KOMP">
+        <uzo tip="fak">KOMP</uzo>
+        <dif>
+          Unubloka <tld/>ilo, sufiĉe malgranda (la dimensioj kutime ne
+          superas 16×8×2 cm) kaj malpeza (la maso proksimume
+          150–500g) por esti portebla en <ref cel="posx.0o">poŝo</ref>
+          de laborvesto.
+        </dif>
+        <ref tip="vid" cel="komput.tek0ilo">tek<tld/>ilo</ref>
+        <trdgrp lng="be">
+          <trd>надалонны кампутар</trd>,
+          <trd>надалоньнік</trd>
+        </trdgrp>
+        <trd lng="bg">преносим <klr>компютър </klr></trd>
+        <trdgrp lng="de">
+          <trd>Handheld <klr>(Computer)</klr></trd>,
+          <trd>PDA <klr>(Personal Digital Assistent)</klr></trd>,
+        </trdgrp>
+        <trdgrp lng="en">
+          <trd>handheld <klr>(computer)</klr></trd>,
+          <trd>palmtop <klr>computer</klr></trd>,
+          <trd>PDA <klr>(personal digital assistent)</klr></trd>,
+          <trd>pocket computer</trd>
+        </trdgrp>
+        <trdgrp lng="fr">
+          <trd>ordinateur de poche</trd>,
+          <trd>palmtop</trd>
+        </trdgrp>
+        <trdgrp lng="hu">
+          <trd>zsebszámítógép</trd>,
+          <trd>palmtop</trd>,
+          <trd>PDA <klr>(personal digital assistent)</klr></trd>
+        </trdgrp>
+        <trdgrp lng="id">
+          <trd><ind>komputer</ind> saku</trd>
+          <trd>pembantu digital pribadi</trd>,
+          <trd>PDA</trd>
+        </trdgrp>
+        <trdgrp lng="nl">
+          <trd>zakcomputer</trd>,
+          <trd>PDA</trd>
+        </trdgrp>
+        <trd lng="ru">карманный компьютер</trd>
+      </snc>
+    </drv>
+
+    <drv mrk="komput.surtabla0ilo">
+      <kap>surtabla <tld/>ilo</kap>
+      <snc mrk="komput.surtabla0ilo.KOMP">
+        <uzo tip="fak">KOMP</uzo>
+        <dif>
+          <ref tip="super" cel="komput.persona0ilo">Persona
+          <tld/>ilo</ref>
+          farita tiel, ke eblas ĝin oportune loki sur aŭ en
+          individua labortablo.
+        </dif>
+        <rim>
+          Persona <tld/>ilo estas, unuflanke, funkcie aŭ dimensie
+          malpli granda ol <tld/>ilegoj kunuzataj kolektive, sed
+          aliflanke ĝi kutime estas pli povuma ol la porteblaj
+          <tld/>iloj:
+          <ekz>
+            fari sur la surtabla <tld/>ilo rezervan kopion de
+            <klr>(la memoro de)</klr> onia poŝ<tld/>ilo.
+          </ekz>
+        </rim>
+        <ref tip="vid" cel="komput.tek0ilo">tek<tld/>ilo</ref>
+        <trd lng="be">настольны кампутар</trd>
+        <trd lng="bg">настолен компютър</trd>
+        <trd lng="de">Desktop-Computer</trd>
+        <trd lng="en">desktop computer</trd>
+        <trd lng="es">computadora de escritorio</trd>
+        <trdgrp lng="fr">
+          <trd>ordinateur de bureau</trd>,
+          <trd>station de travail<klr tip="ind"> (info.)</klr></trd>
+        </trdgrp>
+        <trdgrp lng="hu">
+          <trd>asztali <ind>számítógép</ind></trd>,
+          <trd>desktop <ind>számítógép</ind></trd>
+        </trdgrp>
+        <trd lng="id"><ind>komputer</ind> meja</trd>
+        <trd lng="nl">desktop <ind>computer</ind></trd>
+        <trd lng="ru">настольный компьютер</trd>
+      </snc>
+    </drv>
+
+    <drv mrk="komput.tabul0ilo">
+      <kap>tabul<tld/>ilo</kap>
+      <snc>
+         <ref tip="dif" cel="komput.plat0ilo">plat<tld/>ilo</ref>
+      </snc>
+    </drv>
+
+    <drv mrk="komput.tek0ilo">
+      <kap>tek<tld/>ilo</kap>
+      <snc mrk="komput.tek0ilo.KOMP">
+        <uzo tip="fak">KOMP</uzo>
+        <dif>
+          Portebla <tld/>ilo pli granda kaj peza (sed ankaŭ pli povuma)
+          ol <ref cel="komput.posx0ilo">poŝ<tld/>ilo</ref>, portebla
+          en <ref cel="tek.0o">teko</ref> aŭ kiel teko, tiel ke
+          ĝia uzanto povas kunhavi ĝin
+          en vojaĝo. Tek<tld/>ilo pezas ne pli ol 4–5kg, havas
+          aŭtonoman kurentofonton, klavaron, platan likvakristalan
+          aŭ
+          plasman ekranon, energi-nedependan memoron, ĝi estas
+          konektebla al ekstera aparataro.
+        </dif>
+        <trdgrp lng="be">
+          <trd>ноўтбук</trd>,
+          <trd>лаптоп</trd>
+        </trdgrp>
+        <trd lng="bg">лаптоп</trd>
+        <trdgrp lng="de">
+          <trd>Aktentaschenrechner</trd>,
+          <trd>Notebook</trd>
+        </trdgrp>
+        <trdgrp lng="en">
+          <trd>laptop <klr>computer</klr></trd>,
+          <trd>notebook <klr>(computer)</klr></trd>
+        </trdgrp>
+        <trdgrp lng="fr">
+          <trd>ordinateur portable</trd>,
+          <trd>portable<klr tip="ind"> (ordinateur)</klr></trd>,
+          <trd>notebook</trd>
+        </trdgrp>
+        <trdgrp lng="hu">
+          <trd>táskagép</trd>,
+          <trd>notebook</trd>,
+          <trd>laptop</trd>
+        </trdgrp>
+        <trdgrp lng="id">
+          <trd><ind>komputer</ind> jinjing</trd>,
+          <trd>laptop</trd>
+        </trdgrp>
+        <trd lng="nl">laptop</trd>
+        <trdgrp lng="pl">
+          <trd>laptop</trd>,
+          <trd>notebook</trd>
+        </trdgrp>
+        
+        <trd lng="pt">computador portátil</trd>
+        <trd lng="ru">ноутбук</trd>
+      </snc>
+  <trdgrp lng="cs">
+    <trd>laptop</trd>,
+    <trd>přenosný počítač</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>laptop</trd>,
+    <trd>prenosný počítač</trd>
+  </trdgrp>
+</drv>
+    <adm>
+      Ĉi-artikole aperas nedifinitaj terminoj: kunretigo,
+      periferiaĵo, likvakristala kaj plasma ekrano.
+    </adm>
+  </art>
+  <!--
+  $Log: komput.xml,v $
+  Revision 1.43  2015/07/04 08:37:37  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.42  2015/06/29 16:33:17  revo
+  aldono de trd sk per skripto de M. von Laer
+
+  Revision 1.41  2015/06/25 09:10:14  revo
+  Darcy Shen: +trd zh
+
+  Revision 1.40  2014/10/24 08:10:13  revo
+  Eko Nur Syah Hidayat: +trd id
+
+  Revision 1.39  2014/06/09 07:10:13  revo
+  Sergio Pokrovskij: +plat~ilo
+
+  Revision 1.38  2013/07/28 13:10:10  revo
+  Joop Eggen: +trd bg
+
+  Revision 1.37  2011/01/20 08:10:08  revo
+  Evandro Avellar: +trd lng pt
+
+  Revision 1.36  2010/03/10 17:30:38  revo
+   Evandro Avellar: + trd pt ~ilo
+
+  Revision 1.35  2009/03/01 17:32:40  revo
+  Russ Williams: + 9OA
+
+  Revision 1.34  2007/08/05 16:31:30  revo
+  Wieland Pusch: +trd de
+
+  Revision 1.33  2007/01/01 19:47:49  revo
+  Tulio Flores: +tr pt
+
+  Revision 1.32  2006/10/06 16:30:21  revo
+  Sergio Pokrovskij: +rim kun ekz pri ~ilo (1967)
+
+  Revision 1.31  2006/09/22 12:26:53  revo
+  Wolfram Diestel: +tezrad(KOMP)
+
+  Revision 1.30  2006/09/05 15:23:27  revo
+  Jeromo Vasxe: + mrk
+
+  Revision 1.29  2005/06/26 16:32:28  revo
+  Yury Finkel: +trd ru
+
+  Revision 1.28  2005/04/28 16:34:57  revo
+  Raul Salinas Monteagudo: korekto trd es
+
+  Revision 1.27  2005/03/09 18:18:55  revo
+  Dmitri Gabinski: kor de ref
+
+  Revision 1.26  2005/02/25 17:33:21  revo
+  Jozefo Horvath: +trd hu
+
+  Revision 1.25  2005/02/20 17:34:39  revo
+  Marc Bavant: +trd fr, kor tld, +ref al blato, teko, posxo, +adm; ~i,
+  ~ilo: +rim
+
+  Revision 1.24 2005/01/15 17:31:37 revo
+  -->
+</vortaro>

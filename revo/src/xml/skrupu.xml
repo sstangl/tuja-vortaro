@@ -1,0 +1,216 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: skrupu.xml,v 1.17 2015/07/04 08:37:43 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>skrupul</rad>/o
+</kap>
+<drv mrk="skrupu.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="skrupu.0o.PSI">
+    <dif>
+      Granda <ref tip="vid" cel="zorg.0o">zorgo</ref> por ne fari
+      erarojn:
+    </dif>
+    <subsnc mrk="skrupu.0o.morala">
+      <dif>
+        Dubemo pri aferoj de moralo, de konscienco:
+        <ekz>
+          pro <tld/>o li rifuzis la donacon;
+        </ekz>
+        <ekz>
+          fari al si <tld/>on pri...
+        </ekz>
+      </dif>
+      <refgrp tip="vid">
+        <ref cel="delika">delikateco</ref>,
+        <ref cel="honest.0o.eco">honesto</ref>
+      </refgrp>
+      <trdgrp lng="be">
+        <trd>&c_s;&c_u;&c_m;&c_l;&c_je;&c_n;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
+        <trd>&c_d;&c_b;&c_a;&c_j;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
+        <trd>&c_d;&c_o;&c_b;&c_r;&c_a;&c_s;&c_u;&c_m;&c_l;&c_je;&c_n;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+      </trdgrp>
+      <trdgrp lng="de">
+        <trd>Skrupel</trd>,
+        <trd>Zweifel</trd>,
+        <trd>Gewissensnot</trd>,
+        <trd>Bedenken</trd>
+      </trdgrp>
+      <trd lng="nl">gewetensbezwaar</trd>
+      <trd lng="pl">skrupu&lstroke;</trd>
+      <trdgrp lng="ru">
+        <trd>&c_shch;&c_je;&c_p;&c_je;&c_t;&c_i;&c_l;&c_mol;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>,
+        <trd>&c_s;&c_o;&c_v;&c_je;&c_s;&c_t;&c_l;&c_i;&c_v;&c_o;&c_s;&c_t;&c_mol;</trd>
+      </trdgrp>
+    </subsnc>
+    <subsnc mrk="skrupu.0o.plenuma">
+      <dif>
+        Akurateco en plenumo de taskoj:
+        <ekz>
+          <tld/>e traduki &ccirc;iujn nuancojn.
+        </ekz>
+      </dif>
+      <refgrp tip="vid">
+        <ref cel="preciz.0eco">precizeco</ref>,
+        <ref cel="pedant">pedanteco</ref>
+      </refgrp>
+      <trdgrp lng="be">
+        <trd>&c_s;&c_k;&c_r;&c_u;&c_p;&c_u;&c_l;&c_jo;&c_z;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
+        <trd>&c_p;&c_ib;&c_l;&c_mol;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
+        <trd>&c_r;&c_u;&c_p;&c_l;&c_ib;&c_v;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
+        <trd>&c_s;&c_t;&c_a;&c_r;&c_a;&c_n;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+      </trdgrp>
+      <trdgrp lng="hu">
+        <trd>lelkiismeretess&eacute;g</trd>,
+        <trd>gondoss&aacute;g</trd>
+      </trdgrp>
+      <trdgrp lng="pl">
+        <trd>skrupulatno&sacute;&cacute;</trd>,
+        <trd>sumienno&sacute;&cacute;</trd>,
+        <trd>dok&lstroke;adno&sacute;&cacute;</trd>
+      </trdgrp>
+      <trdgrp lng="ru">
+        <trd>&c_s;&c_k;&c_r;&c_u;&c_p;&c_u;&c_l;&c_jo;&c_z;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>,
+        <trd>&c_t;&c_shch;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
+      </trdgrp>
+    </subsnc>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>morální zábrana</trd>,
+    <trd>rozpaky</trd>,
+    <trd>skrupule</trd>,
+    <trd>úzkostlivost</trd>
+  </trdgrp>
+  <trd lng="de">h&ouml;chste <ind>Gewissenhaftigkeit</ind></trd>
+  <trdgrp lng="en">
+    <trd>scrupulousness</trd>,
+    <trd>conscientiousness</trd>
+  </trdgrp>
+  <trd lng="fr">scrupule</trd>
+  <trd lng="nl">scrupule</trd>
+  <trdgrp lng="sk">
+    <trd>morálna zábrana</trd>,
+    <trd>rozpaky</trd>,
+    <trd>úzkostlivosť</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="skrupu.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="skrupu.0a.PSI">
+    <dif>
+      Zorgema, ellasanta neniun detalon de surprenita afero:
+      <ekz>
+        <tld/>a esploro<fnt>B</fnt>;
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="konsci1.0a">konscienca</ref>,
+      <ref cel="respons.0a.fidinda">responsa <sncref/></ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>malicherný</trd>,
+    <trd>pečlivý</trd>,
+    <trd>přesný</trd>,
+    <trd>úzkostlivý</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>skrupul&ouml;s</trd>,
+    <trd>gewissenhaft</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>scrupulous</trd>,
+    <trd>conscientious</trd>
+  </trdgrp>
+  <trd lng="fr">scrupuleux</trd>
+  <trdgrp lng="hu">
+    <trd>apr&oacute;l&eacute;kos</trd>,
+    <trd>lelkiismeretes</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>skrupulatny</trd>,
+    <trd>sumienny</trd>,
+    <trd>dok&lstroke;adny</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_k;&c_r;&c_u;&c_p;&c_u;&c_l;&c_jo;&c_z;&c_n;&c_y;&c_j;</trd>,
+    <trd>&c_t;&c_shch;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>malicherný</trd>,
+    <trd>úzkostlivý</trd>,
+    <trd>škrupulózny</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="skrupu.sen0a">
+  <kap>sen<tld/>a</kap>
+  <snc mrk="skrupu.sen0a.PSI">
+    <dif>
+      Havanta neniun <tld/>on, indiferenta al la sekvoj de siaj agoj:
+      <ekz>
+        sen<tld/>a kanajlo.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="hont.sen0a">senhonta</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_n;&c_ja;&c_d;&c_o;&c_b;&c_r;&c_a;&c_s;&c_u;&c_m;&c_l;&c_je;&c_n;&c_n;&c_y;</trd>,
+    <trd>&c_b;&c_je;&c_s;&c_s;&c_a;&c_r;&c_o;&c_m;&c_n;&c_y;</trd>,
+    <trd>&c_n;&c_je;&c_s;&c_u;&c_m;&c_l;&c_je;&c_n;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>bezohledný</trd>,
+    <trd>nevybíravý</trd>
+  </trdgrp>
+  <trd lng="en">unscrupulous</trd>
+  <trd lng="fr">sans <ind>scrupules</ind></trd>
+  <trdgrp lng="hu">
+    <trd>agg&aacute;ly</trd>,
+    <trd>k&eacute;tely</trd>,
+    <trd>lelkiismeretfurdal&aacute;s</trd>,
+    <trd>skrupulus</trd>
+  </trdgrp>
+  <trd lng="pl">bez <ind>skrupu&lstroke;&oacute;w</ind></trd>
+  <trd lng="ru">&c_b;&c_je;&c_s;&c_s;&c_o;&c_v;&c_je;&c_s;&c_t;&c_n;&c_y;&c_j;</trd>
+  <trd lng="sk">bezohľadný</trd>
+</drv>
+</art>
+<!--
+$Log: skrupu.xml,v $
+Revision 1.17  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.15  2009/02/15 14:17:34  revo
+Russ Williams: +trd en
+
+Revision 1.14  2009/02/10 14:18:19  revo
+Sebastian Cyprych: -fusxaj linirompoj en trd
+
+Revision 1.13  2006/06/14 16:31:43  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.12  2006/03/10 17:31:08  revo
+Wieland Pusch: +trd de
+
+Revision 1.11  2005/06/27 19:20:35  revo
+Jeromo Vasxe: + ~a sen~a, ~o snc/subsnc
+
+Revision 1.10 2004/10/18 16:32:19 revo
+Jozefo Horvath: +trd hu
+
+Revision 1.9 2003/09/19 16:31:40 revo
+Philippe Combot: + trd fr
+
+Revision 1.8 2003/01/14 17:36:17 revo
+-->
+</vortaro>

@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: deci.xml,v 1.3 2013/09/22 19:12:10 revo Exp $">
+<kap>
+    <rad>deci</rad>- <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="deci.0">
+  <kap><tld/>-</kap>
+  <mlg>d</mlg>
+  <gra><vspec>prefikso</vspec></gra>
+  <snc mrk="deci.0.MEZ">
+    <uzo tip="fak">FIZ</uzo>
+    <dif>
+      &leftquot;Dekono da&rightquot;, 10<sup>-1</sup>
+      en la Internacia Sistemo de unuoj (SI)
+    </dif>
+  </snc>
+  <trd lng="be">&c_d;&c_e;&c_c;&c_y;-</trd>
+  <trd lng="bg">&c_d;&c_je;&c_c;&c_i;-</trd>
+  <trd lng="ca">deci-</trd>
+  <trd lng="de">Dezi-</trd>
+  <trd lng="en">deci-</trd>
+  <trd lng="es">dec&iacute;-</trd>
+  <trd lng="fa">&a_d;&a_s;&f_y;</trd>
+  <trd lng="fr">d&eacute;ci-</trd>
+  <trd lng="hu">deci-</trd>
+  <trd lng="it">deci-</trd>
+  <trd lng="nl">deci-</trd>
+  <trd lng="no">desi-</trd>
+  <trd lng="pl">decy-</trd>
+  <trd lng="pt">dec&iacute;-</trd>
+  <trd lng="ru">&c_d;&c_je;&c_c;&c_i;-</trd>
+  <trd lng="sk">deci-</trd>
+  <trd lng="sv">deci-</trd>
+</drv>
+</art>
+
+<!--
+$Log: deci.xml,v $
+Revision 1.3  2013/09/22 19:12:10  revo
+Wolfram Diestel: kor. mrk-on
+
+Revision 1.2  2013/09/10 10:10:20  revo
+Joop Eggen: korekto mlg
+
+Revision 1.1  2013/09/09 10:10:20  revo
+Joop Eggen: nova artikolo
+
+-->
+</vortaro>

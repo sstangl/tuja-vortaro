@@ -1,0 +1,175 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: drat.xml,v 1.22 2015/09/11 10:10:14 revo Exp $">
+<kap>
+  <ofc>8</ofc>
+  <rad>drat</rad>/o <fnt><bib>PV</bib></fnt> <fnt>Z</fnt>
+</kap>
+<drv mrk="drat.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="drat.0o.fadeno">
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      Maldika, fleksebla kaj longa cilindro el metalo
+      a&ubreve; alia materialo, ordinare kun ronda sekco:
+      <ekz>
+        la <tld/>o, per kiu <klr>[la pupoj]</klr> estis kondukataj,
+        estis tro longa
+        <fnt><bib>Fab3</bib>, <lok>&Scirc;parmonujo</lok></fnt>.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="faden.0o.TEK">fadeno <sncref/></ref>
+    <ref tip="malprt" cel="kabl.0o.dratofasko">kablo <sncref/></ref>
+    <ref tip="sub" cel="fibr.0o">fibro</ref>
+    <refgrp tip="vid">
+      <ref cel="filame.0o">filamento</ref>,
+      <ref cel="stang.0o">stango</ref>,
+      <ref cel="sxnur.0o">&scirc;nuro</ref>.
+    </refgrp>
+    <trd lng="es">alambre</trd>
+    <trd lng="pl">drut</trd>
+    <trd lng="pt">arame</trd>
+  </snc>
+  <snc mrk="drat.0o.kablo">
+    <uzo tip="fak">TEK</uzo>
+    <ref tip="dif" cel="kabl.0o.dratofasko">kablo</ref>
+    <ekz>
+      la elektromagneta <tld/>o sub la oceano jam telegrafis,
+      kiel granda estas la aera karavano
+      <fnt><bib>Fab3</bib>, <lok>Post jarmiloj</lok></fnt>;
+    </ekz>
+    <ekz>
+      vi simple per-orele sensas la rideton &ccirc;e la alia fino
+      de la <tld/>o <klr>(de la telefona linio)</klr>
+      <fnt><bib>Voja&gcirc;o</bib>, <aut>A. &Scirc;alnev, trad. B.
+      Kolker</aut>, <vrk>Usonanoj vidataj de proksimo</vrk>,
+      <lok>leciono 22a</lok></fnt>.
+    </ekz>
+    <trd lng="es">cable</trd>
+    <trdgrp lng="pl">
+      <trd>przew&oacute;d</trd>,
+      <trd>&zdot;y&lstroke;a<klr> kablowa</klr></trd>
+    </trdgrp>
+  </snc>
+  <trd lng="be">&c_d;&c_r;&c_o;&c_t;</trd>
+  <trd lng="ca">filferro</trd>
+  <trdgrp lng="cs">
+    <trd>dr&aacute;t</trd>,
+    <trd>dr&aacute;tek</trd>
+  </trdgrp>
+  <trd lng="de">Draht</trd>
+  <trd lng="en">wire</trd>
+  <trd lng="fr">fil<klr tip="amb"> (m&eacute;tallique)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>huzal</trd>,
+    <trd>dr&oacute;t</trd>
+  </trdgrp>
+  <trd lng="nl">draad</trd>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_r;&c_o;&c_v;&c_o;&c_l;&c_o;&c_k;&c_a;</trd>,
+    <trd>&c_p;&c_r;&c_o;&c_v;&c_o;&c_d;</trd>
+  </trdgrp>
+  <trd lng="sk">dr&ocirc;t</trd>
+</drv>
+
+<drv mrk="drat.0i">
+  <kap><tld/>i</kap>
+  <snc mrk="drat.0i.TEK">
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      Provizi per <tld/>oj.
+    </dif>
+  </snc>
+  <trd lng="cs">st&aacute;hnout dr&aacute;tem</trd>
+  <trd lng="de">verdrahten</trd>
+  <trd lng="en">wire</trd>
+  <trd lng="es">cablear</trd>
+  <trd lng="fr">cabler</trd>
+  <trd lng="hu">huzaloz</trd>
+  <trd lng="nl">van <ind>draad</ind> voorzien</trd>
+  <trdgrp lng="pl">
+    <trd>drutowa&cacute;</trd>,
+    <trd>odrutowywa&cacute;</trd>
+  </trdgrp>
+  <trd lng="sk">stiahnu&tcaron; dr&ocirc;tom</trd>
+</drv>
+
+<drv mrk="drat.pik0o">
+  <kap>pik<tld/>o <fnt><bib>PIV1</bib></fnt>,
+  <var><kap>pikil<tld/>o <fnt><bib>PV</bib></fnt></kap></var></kap>
+  <snc mrk="drat.pik0o.TEK">
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      Fortika <tld/>o, garnita per pikiloj kaj servanta por bariloj.
+    </dif>
+  </snc>
+  <trd lng="be">&c_k;&c_a;&c_l;&c_ju;&c_ch;&c_y; &c_d;&c_r;&c_o;&c_t;</trd>
+  <trd lng="ca">filat espin&oacute;s</trd>
+  <trd lng="de">Stacheldraht</trd>
+  <trd lng="en">barbed wire</trd>
+  <trdgrp lng="es">
+    <trd>alambrada</trd>,
+    <trd>alambre de espinos</trd>,
+    <trd>alambre de p&uacute;as</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>barbel&eacute;</trd>,
+    <trd>fil de fer barbel&eacute;</trd>
+  </trdgrp>
+  <trd lng="hu">sz&ouml;gesdr&oacute;t</trd>  
+  <trd lng="nl">prikkeldraad</trd>
+  <trd lng="pl">drut kolczasty</trd>
+  <trd lng="ru">&c_k;&c_o;&c_l;&c_ju;&c_ch;&c_a;&c_ja; &c_p;&c_r;&c_o;&c_v;&c_o;&c_l;&c_o;&c_k;&c_a;</trd>
+</drv>
+
+<drv mrk="drat.elektro0o">
+  <kap>elektro<tld/>o</kap>
+  <snc mrk="drat.elektro0o.ELE">
+    <uzo tip="fak">ELE</uzo>
+    <dif>
+      <tld lit="D"/>o funkcianta kiel
+      elektro<ref tip="super" cel="konduk.0ilo.FIZ_ELE">kondukilo</ref>:
+      <ekz>
+        kupra elektro<tld/>o kun plasta izola&jcirc;o
+        <fnt>
+          <aut>PBworks</aut>,
+          <vrk><url ref="http://fotokolekto.pbworks.com/lumbestetoj">
+          lumbestetoj</url></vrk>, 
+          <lok>2007</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="ca">cable <klr>(el&egrave;ctric)</klr></trd>
+  <trd lng="es">cable <klr>(el&eacute;ctrico)</klr></trd>
+  <trd lng="fr">fil &eacute;lectrique</trd>
+</drv>
+</art>
+<!--
+$Log: drat.xml,v $
+Revision 1.22  2015/09/11 10:10:14  revo
+Guillermo Molleda Jimena: trd es
+
+Revision 1.21  2015/07/06 13:10:16  revo
+Damien Brucker: -eraro cxe ref
+
+Revision 1.20  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2010/07/12 16:30:16  revo
+Guillem Sevilla: +trd ca
+
+Revision 1.17  2010/04/24 17:08:01  revo
+Jeromo Vasxe: + elektro~o
+
+Revision 1.16  2009/07/09 16:31:13  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.15  2007/09/02 16:30:34  revo
+-->
+</vortaro>

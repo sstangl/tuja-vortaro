@@ -1,0 +1,272 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: forn.xml,v 1.34 2015/07/04 08:37:34 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>forn</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="forn.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <uzo tip="fak">TEK</uzo>
+  <snc mrk="forn.0o.TEK">
+    <dif>
+      Masonita fajrujo por baki panon, fandi metalojn, kuiri potojn,
+      kalko&scirc;tonojn, brikojn, a&ubreve; por aliaj celoj.
+    </dif>
+    <subsnc mrk="forn.0o.KUI">
+      <uzo tip="fak">KUI</uzo>
+      <ref tip="dif" cel="forn.kuir0o.KUI">kuir<tld/>o</ref>
+    </subsnc>
+    <subsnc mrk="forn.0o.hejtilo">
+      <ref tip="dif" cel="forn.hejto0o.HEJM">hejto<tld/>o</ref>
+      <ekz>
+        vivi inter <tld/>o hejtita kaj tablo kovrita
+        <klr>(vivi tre komforte)</klr>
+        <fnt><bib>PrV</bib></fnt>.
+      </ekz>
+    </subsnc>
+  </snc>
+  <trd lng="be">&c_p;&c_je;&c_ch;</trd>
+  <trdgrp lng="cs">
+    <trd>kamna</trd>,
+    <trd>pec</trd>
+  </trdgrp>
+  <trd lng="de">Ofen</trd>
+  <trd lng="es">horno</trd>
+  <trd lng="fr">four</trd>
+  <trd lng="nl">oven</trd>
+  <trd lng="pt">forno</trd>
+  <trd lng="ru">&c_p;&c_je;&c_ch;&c_mol;<klr tip="amb"> (&c_s;&c_u;&c_shch;.)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>kachle</trd>,
+    <trd>pec</trd>,
+    <trd>šporák</trd>
+  </trdgrp>
+  <trd lng="tr">ocak</trd>
+</drv>
+
+<drv mrk="forn.F0o">
+  <kap><tld lit="F"/>o</kap>
+  <mlg>For</mlg>
+  <snc mrk="forn.F0o.AST">
+    <uzo tip="fak">AST</uzo>
+    <dif>
+      Sud-hemisfera <ref tip="lst"
+      cel="stel.0figuro" lst="voko:stelfiguroj">stelfiguro</ref> (<trd
+      lng="la">Fornax</trd>).
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>kamna</trd>,
+    <trd>pec</trd>
+  </trdgrp>
+  <trd lng="de">Ofen</trd>
+  <trd lng="en">Fornax</trd>
+  <trd lng="es">Horno</trd>
+  <trd lng="nl">Oven<klr> (sterrenbeeld)</klr></trd>
+  <trd lng="no">Smelteovnen<klr> (stjernebilde)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>kachle</trd>,
+    <trd>pec</trd>,
+    <trd>šporák</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="forn.0ego">
+  <kap><tld/>ego</kap>
+  <snc mrk="forn.0ego.TEK">
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      Industria <ref tip="super" cel="forn.0o.TEK"><tld/>o</ref> por
+      fandi metalmina&jcirc;ojn.
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_d;&c_o;&c_m;&c_n;&c_a;</trd>,
+    <trd>&c_d;&c_o;&c_m;&c_je;&c_n;&c_n;&c_a;&c_ja; &c_p;&c_je;&c_ch;</trd>
+  </trdgrp>
+  <trd lng="cs">velká pec || vysoká pec</trd>
+  <trd lng="de">Hochofen</trd>
+  <trd lng="fr">haut-fourneau</trd>
+  <trd lng="nl">hoogoven</trd>
+  <trdgrp lng="ru">
+    <trd>&c_d;&c_o;&c_m;&c_n;&c_a;</trd>,
+    <trd>&c_d;&c_o;&c_m;&c_je;&c_n;&c_n;&c_a;&c_ja;
+    &c_p;&c_je;&c_ch;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="sk">veľká pec</trd>
+</drv>
+
+<drv mrk="forn.alt0o">
+  <kap>alt<tld/>o</kap>
+  <uzo tip="stl">EVI</uzo>
+  <snc>
+    <ref tip="dif" cel="forn.0ego"><tld/>ego</ref>
+  </snc>
+  <trd lng="cs">vysoká pec</trd>
+  <trd lng="sk">vysoká pec</trd>
+</drv>
+
+<drv mrk="forn.bak0o">
+  <kap>bak<tld/>o</kap>
+  <snc mrk="forn.bak0o.TEK">
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      <ref tip="super" cel="forn.0o.TEK"><tld lit="F"/>o</ref> en kiu
+      oni povas <ref tip="vid" cel="bak.0i">baki</ref>:
+      <ekz>
+        bluaj porcelana&jcirc;oj anta&ubreve; nelonge malkovritaj en la ruino de 
+        bak<tld/>oj de Hongzhou, Fengcheng, Jiangxi-provinco, donis 
+        atestojn, ke la loko estis unu el la luliloj de porcelana 
+        produktado de &Ccirc;inio
+        <fnt>
+          <aut>-</aut>,
+          <vrk><url
+          ref="http://www.china.org.cn/esperanto1/world/shi-kaogu/tang.htm">
+          Nova Elkovro de Porcelanaj Bakujoj...</url></vrk>,
+          <lok>[1999?]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>pekařská pec</trd>,
+    <trd>pečící trouba</trd>
+  </trdgrp>
+  <trd lng="fr">four de cuisson</trd>
+  <trdgrp lng="pt">
+    <trd>forno</trd>,
+    <trd>fog&atilde;o</trd>,
+    <trd>estufa</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>pec na pečenie</trd>,
+    <trd>pec na vypaľovanie hrncov</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="forn.fand0o">
+  <kap>fand<tld/>o</kap>
+  <snc mrk="forn.fand0o.TEK">
+    <uzo tip="fak">TEK</uzo>
+    <ref tip="dif" cel="forn.0ego"><tld/>ego</ref>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_d;&c_o;&c_m;&c_n;&c_a;</trd>,
+    <trd>&c_d;&c_o;&c_m;&c_je;&c_n;&c_n;&c_a;&c_ja; &c_p;&c_je;&c_ch;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>tavící pec</trd>,
+    <trd>výheň</trd>
+  </trdgrp>
+  <trd lng="de">Hochofen</trd>
+  <trd lng="fr">haut-fourneau</trd>
+  <trd lng="nl">hoogoven</trd>
+  <trdgrp lng="ru">
+    <trd>&c_d;&c_o;&c_m;&c_n;&c_a;</trd>,
+    <trd>&c_d;&c_o;&c_m;&c_je;&c_n;&c_n;&c_a;&c_ja;
+    &c_p;&c_je;&c_ch;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>taviaca</trd>,
+    <trd>vysoká pec</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="forn.hejto0o">
+  <kap>hejto<tld/>o, <var><kap>hejt<tld/>o</kap></var></kap>
+  <snc mrk="forn.hejto0o.HEJM">
+    <dif>
+      <ref tip="super" cel="forn.0o.TEK"><tld lit="F"/>o</ref> uzata
+      kiel <ref tip="super" cel="hejt.0ilo">hejtilo</ref> en &ccirc;ambro,
+      lo&gcirc;ejo...:
+      <ekz>
+        dum ser&ccirc;adoj oni elfosis pecojn de ceramika&jcirc;o por hejt<tld/>o
+        <fnt>
+          <aut>-</aut>,
+          <vrk><url ref="http://www.kagenfels.org/histokag_eo.htm">
+          La kastelo Kagenfels</url></vrk>,
+          <lok>[vidita en 2008-01]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_je;&c_ch;</trd>
+  <trdgrp lng="cs">
+    <trd>kamna na vytápění</trd>,
+    <trd>pokojová kamna</trd>
+  </trdgrp>
+  <trd lng="fr">po&ecirc;le<klr> (appareil de chauffage)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>k&aacute;lyha</trd>,
+    <trd>t&udblac;zhely</trd>
+  </trdgrp>
+  <trd lng="pt">aquecedor <klr tip="amb">(aparelho)</klr></trd>
+  <trd lng="ru">&c_p;&c_je;&c_ch;&c_mol;<klr tip="amb"> (&c_s;&c_u;&c_shch;.)</klr></trd>
+  <trd lng="sk">izbové kachle</trd>
+</drv>
+
+<drv mrk="forn.kuir0o">
+  <kap>kuir<tld/>o</kap>
+  <snc mrk="forn.kuir0o.KUI">
+    <uzo tip="fak">KUI</uzo>
+    <dif>
+      <ref tip="dif" cel="forn.bak0o">Bak<tld/>o</ref> por kuiro de 
+      man&gcirc;a&jcirc;oj:
+      <ekz>
+        en Japanio hejma kuir<tld/>o estas malgranda kompare kun tiu en 
+        e&ubreve;ropa hejmo 
+        <fnt>
+          <aut>Tahira M.</aut>,
+          <vrk>Kataj familioj apud mi</vrk>,
+          <lok><url
+          ref="http://groups.yahoo.com/group/verdakato/message/440">
+          grupo verdakato, 2007-11-09</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">sporák</trd>
+  <trd lng="fr">four de cuisine</trd>
+  <trdgrp lng="pt">
+    <trd>forno</trd>,
+    <trd>fog&atilde;o</trd>,
+    <trd>estufa</trd>
+  </trdgrp>
+  <trd lng="sk">sporák</trd>
+</drv>
+</art>
+<!--
+$Log: forn.xml,v $
+Revision 1.34  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.33  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.32  2014/12/12 19:10:11  revo
+Filip van Laenen: +trd(nl,no)
+
+Revision 1.31  2014/04/06 18:10:19  revo
+Wolfram Diestel: kor. sud-hemisfera stelfiguro
+
+Revision 1.30  2013/08/25 08:10:26  revo
+Wolfram Diestel: referenco al listo stelfiguroj
+
+Revision 1.29  2011/06/23 19:10:12  revo
+Dominique Pelle: antau -> antaux
+
+Revision 1.28  2008/03/28 17:30:40  revo
+Jeromo Vasxe: kor 1 ref
+
+Revision 1.27  2008/01/20 17:30:20  revo
+Jeromo Vasxe: + hejt~o, ~o snc/subsnc
+
+Revision 1.26 2007/12/23 17:30:46 revo
+Wieland Pusch: +drv kuirforno
+
+Revision 1.25 2007/06/05 16:31:13 revo
+-->
+</vortaro>

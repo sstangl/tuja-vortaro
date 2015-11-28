@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: tif.xml,v 1.21 2015/07/04 08:37:44 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>tif</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="tif.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="tif.0o.MED">
+    <uzo tip="fak">MED</uzo>
+    <dif>
+      Infekta febra intesta <ref tip="lst" cel="san.mal0o.MED"
+      lst="voko:malsanoj">malsano</ref>:
+      <ekz>
+        pedikoj disvastigis <tld/>on
+        <fnt><aut>J. Baghy</aut>, <vrk>Sur Sanga Tero</vrk>, 
+        <lok>1933</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_t;&c_y;&c_f;&c_u;&c_s;</trd>
+  <trd lng="ca">tifus</trd>
+  <trd lng="cs">tyfus</trd>
+  <trd lng="de">Typhus</trd>
+  <trd lng="en">typhus</trd>
+  <trd lng="fa">&a_t;&f_y;&a_f;&a_w;&a_s;</trd>
+  <trd lng="fr">typhus</trd>
+  <trd lng="hu">t&iacute;fusz</trd>
+  <trd lng="id">tifus</trd>
+  <trd lng="nl">tyfus</trd>
+  <trdgrp lng="pl">
+    <trd>dur</trd>,
+    <trd>tyfus</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>tifo</trd>
+  </trdgrp>
+  <trd lng="ru">&c_t;&c_i;&c_f;</trd>
+  <trd lng="sk">týfus</trd>
+</drv>
+</art>
+<!--
+$Log: tif.xml,v $
+Revision 1.21  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.19  2014/11/19 08:10:43  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.18  2013/10/07 15:10:45  revo
+Wolfram Diestel: ref la lst malsanoj
+
+Revision 1.17  2012/08/14 00:10:11  revo
+Marc Rausell: + trd ca
+
+Revision 1.16  2010/11/21 17:30:17  revo
+Jeromo Vasxe: + ekz + trd fr
+
+Revision 1.15  2009/07/03 16:31:09  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.14  2009/02/19 20:27:11  revo
+Russ Williams: +trd en
+
+Revision 1.13  2008/12/19 17:30:40  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.12  2006/02/15 17:34:08  revo
+-->
+</vortaro>

@@ -1,0 +1,117 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: kaniba.xml,v 1.20 2015/07/04 08:37:36 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>kanibal</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="kaniba.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="kaniba.0o.EKOL">
+    <uzo tip="fak">EKOL</uzo>
+    <dif>
+      Voranto de sam-speciuloj.
+    </dif>
+    <trd lng="ca">can&iacute;bal</trd>
+    <trd lng="de">Kannibale</trd>
+    <trd lng="fr">cannibale<klr tip="ind"> (subst.)</klr></trd>
+    <trd lng="hu">kannib&aacute;l</trd>
+  </snc>
+  <snc mrk="kaniba.0o.KOMUNE">
+  <uzo tip="stl">KOMUNE</uzo>
+    <ref tip="dif" cel="mangx.hom0ulo">homman&gcirc;ulo</ref>
+    <trd lng="ca">antrop&ograve;fag</trd>
+    <trdgrp lng="de">
+      <trd>Menschenfresser</trd>
+    </trdgrp>
+    <trd lng="hu">emberev&odblac;</trd>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_k;&c_a;&c_n;&c_ib;&c_b;&c_a;&c_l;</trd>, 
+    <trd>&c_l;&c_ju;&c_d;&c_a;&c_je;&c_d;</trd>, 
+    <trd>&c_l;&c_ju;&c_d;&c_a;&c_zh;&c_e;&c_r;</trd>, 
+    <trd>&c_l;&c_ju;&c_d;&c_a;&c_zh;&c_e;&c_r;&c_c;&c_a;</trd>
+  </trdgrp>
+  <trd lng="ca">can&iacute;bal</trd>
+  <trdgrp lng="cs">
+    <trd>kanibal</trd>,
+    <trd>lidojed</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Kannibale</trd>
+  </trdgrp>
+  <trd lng="en">cannibal</trd>
+  <trd lng="es">can&iacute;bal</trd>
+  <trdgrp lng="nl">
+    <trd>kannibaal</trd>,
+    <trd>menseneter</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_k;&c_a;&c_n;&c_n;&c_i;&c_b;&c_a;&c_l;</trd>,
+    <trd>&c_l;&c_ju;&c_d;&c_o;&c_je;&c_d;</trd>
+  </trdgrp>
+  <trd lng="sk">ľudožrút</trd>
+</drv>
+
+<drv mrk="kaniba.0ismo">
+  <kap><tld/>ismo</kap>
+  <snc mrk="kaniba.0ismo.EKOL">
+    <uzo tip="fak">EKOL</uzo>
+    <dif>
+      Man&gcirc;ado de samspeciuloj:
+      <ekz>
+        pro la <tld/>ismo de la kokcinelaj larvoj
+        foje inter 10% kaj 12% de la ovoj estas
+        neniigitaj
+        <fnt>
+          <bib>Viki</bib>,
+          <lok><url ref="http://eo.wikipedia.org/wiki/Kokcinelo">
+          kokcinelo</url>, 2011-11-07</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>kanibalizmus</trd>,
+    <trd>kanibalství</trd>,
+    <trd>lidojedství</trd>
+  </trdgrp>
+  <trd lng="fr">cannibalisme</trd>
+  <trd lng="sk">kanibalizmus</trd>
+</drv>
+</art>
+<!--
+$Log: kaniba.xml,v $
+Revision 1.20  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2014/04/22 18:10:58  revo
+Jeromo Vasxe: + ~ismo
+
+Revision 1.17  2012/09/01 11:10:13  revo
+Marc Rausell: + trd ca
+
+Revision 1.16  2007/05/31 17:39:13  revo
+Wieland Pusch: +trd de
+
+Revision 1.15  2004/10/31 17:33:32  revo
+Marc Bavant: ~o 2: -dif, +ref al hommangxulo; mod trd fr; +uzo ZOO, mod
+mrk
+
+Revision 1.14  2003/05/25 17:01:01  revo
+Alejandro Mejia Greene: ald 1 his trd
+
+Revision 1.13  2002/11/18 17:34:58  revo
+Zmicier Lapcionak: + trd be
+
+Revision 1.12  2002/11/16 17:31:23  revo
+Zmicier Lapcionak: + trd be
+
+-->
+</vortaro>

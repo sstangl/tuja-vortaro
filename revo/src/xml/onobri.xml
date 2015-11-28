@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: onobri.xml,v 1.13 2013/08/26 19:10:25 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>onobrik</rad>/o
+</kap>
+<drv mrk="onobri.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="onobri.0o.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      Jara a&ubreve; dujara herbospeco kun grapolaj floroj,
+      kreskanta en mezvarmaj e&ubreve;ropaj kaj aziaj landoj,
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:botanikaj_genroj">genro</ref> el familio <ref
+      tip="malprt" cel="fabac.0oj">fabacoj</ref>
+      (<trd lng="la">Onobrychis</trd>). Unu specio estas uzata kiel
+      fura&gcirc;a herbo:
+      <ekz>
+        Antonio tiam kolektis sekajn bran&ccedil;ojn, subtilan <tld/>on kaj 
+        sekan salvion en arbareto apud la maro
+        <fnt>
+          <aut>E. Kumi&ccaron;i&cacute;, trad. S. Rukelj</aut>,
+          <vrk><url
+          ref="http://free-vz.t-com.hr/Stanko/Surprizitaj.pdf">
+          Surprizitaj nuptofestantoj</url></vrk>,
+          <lok>inko, 2001</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="de">Esparsette</trd>
+  <trd lng="fr">sainfoin</trd>
+  <trdgrp lng="hu">
+    <trd>baltacim</trd>,
+    <trd>eszparzetta</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>esparcette</trd>,
+    <trd>hanenkam</trd>
+  </trdgrp>
+  <trd lng="pl">sparceta</trd>
+  <trd lng="pt">on&oacute;briquis</trd>
+  <trd lng="ru">&c_e;&c_s;&c_p;&c_a;&c_r;&c_c;&c_je;&c_t;</trd>
+</drv>
+</art>
+<!--
+$Log: onobri.xml,v $
+Revision 1.13  2013/08/26 19:10:25  revo
+Wolfram Diestel: referenco al listo bot genroj
+
+Revision 1.12  2013/04/18 12:10:10  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.11  2007/06/13 16:31:01  revo
+Jeromo Vasxe: + kk detal. en dif, + ekz, + trd fr
+
+Revision 1.10  2006/05/07 16:31:21  revo
+Tulio Flores: +tr pt
+
+Revision 1.9  2002/01/08 19:25:15  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.8  2001/12/04 17:32:47  revo
+Yury Finkel: +trd ru
+
+Revision 1.7 2001/04/19 14:32:15 revo
+fab.0acoj -> fabac.0oj
+
+Revision 1.6 2001/04/04 16:18:39 revo
+-->
+</vortaro>

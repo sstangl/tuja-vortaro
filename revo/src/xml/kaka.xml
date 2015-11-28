@@ -1,0 +1,203 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: kaka.xml,v 1.30 2015/07/04 08:37:36 revo Exp $">
+<kap><ofc>1</ofc>
+<rad>kaka</rad>/o</kap>
+<drv mrk="kaka.0o">
+   <kap><tld/>o</kap>
+   <snc mrk="kaka.0o.BOT">
+     <uzo tip="fak">BOT</uzo>
+     <dif>
+       Grajno, entenata en la frukto de
+       <ref tip="malprt" cel="kaka.0ujo"><tld/>ujo</ref>,
+       el kiu oni faras <ref cel="cxokol.0o">&ccirc;okoladon</ref>.
+     </dif>
+     <rim>
+       La citita fonto difinis la terminon <ctl><tld/>o</ctl> per
+       <ctl>grajno<em>j</em>...</ctl>, kio povas suspektigi, ke oni
+       tiam donis al la vorto kolektivan sencon, a&ubreve; sencon de
+       materialo.
+     </rim>
+     <trd lng="be">&c_k;&c_a;&c_k;&c_a;&c_v;&c_a;-&c_b;&c_a;&c_b;&c_y;</trd>
+     <trd lng="de">Kakao</trd>
+     <trd lng="en">cocoa bean</trd>
+     <trd lng="es">cacao</trd>
+     <trd lng="fi">kaakaopapu</trd>
+     <trd lng="fr">f&egrave;ve de cacao</trd>
+     <trd lng="hu">kaka&oacute;bab</trd>
+     <trd lng="nl">cacaoboon</trd>
+     <trd lng="pl">kakao</trd>
+     <trd lng="pt">cacau</trd>
+     <trd lng="ru">&c_k;&c_a;&c_k;&c_a;&c_o;-&c_b;&c_o;&c_b;&c_y;</trd>
+     <trd lng="tr">kakao</trd>
+   </snc>
+   <snc mrk="kaka.0o.KOMUNE">
+     <fnt><bib>VdE</bib></fnt>
+     <dif>
+       <ref tip="super" cel="produk.0ajxo">Produkta&jcirc;o</ref>, 
+konsistanta
+       el <tld/>oj <sncref ref="kaka.0o.BOT"/>, aliformitaj
+       por homa uzo:
+       <ekz>
+         kurantaj bioteknologiaj esploradoj celas tute simple la kreadon
+         en nordo de produktoj anstata&ubreve;igaj de la sudaj, kiel
+         <tld/>o, kafo, kotono, sukero a&ubreve; vanilo
+         <fnt>
+         <aut>A. Cavelier trad. D. Durand</aut>
+         <vrk>GMO a&ubreve; ne GMO? Maltrafa demando!</vrk>
+         <lok><url
+         ref="http://www.globidar.org/solidareco/mseo79.htm">Monda
+         Solidareco N-ro 79</url></lok>
+         </fnt>;
+       </ekz>
+       <ekz>
+         la nigra amara &ccirc;okolado <klr>[...]</klr> havas 80
+         elcentojn da <tld/>o kaj preska&ubreve; ne havas sukeron
+         <fnt>
+         <aut>I. Lipovec trad. N</aut>
+         <vrk>La am' alvenas kaj foriras, sed man&gcirc;dezir' ne lasas
+         nin...</vrk>
+         <lok><url ref=
+        "http://abonu.com/archive/kulturo.mozaiko/200209/11215312.html">
+           http://abonu.com/archive/kulturo.mozaiko/200209/11215312.html
+         </url></lok>
+         </fnt>.
+       </ekz>
+     </dif>
+     <trd lng="be">&c_k;&c_a;&c_k;&c_a;&c_v;&c_a;</trd>
+     <trd lng="fi">kaakao</trd>
+     <trd lng="fr">cacao<klr tip="ind"> (produit)</klr></trd>
+     <trd lng="nl">cacao</trd>
+     <trd lng="pl">kakao</trd>
+     <trd lng="ru">&c_k;&c_a;&c_k;&c_a;&c_o;</trd>
+   </snc>
+   <snc mrk="kaka.0o.KUI">
+     <uzo tip="fak">KUI</uzo>
+     <dif>
+       <ref tip="super" cel="trink.0ajxo">Trinka&jcirc;o</ref>,
+       preparita el <ref cel="pulvor.kaka0o"><tld/>pulvoro</ref>:
+       <ekz>
+         <klr>[sukero]</klr>, kiun oni en la teon metas kaj en <tld/>on
+         <fnt><bib>Metrop</bib><lok>&ccirc;ap. 11</lok></fnt>.
+       </ekz>
+     </dif>
+     <trd lng="be">&c_k;&c_a;&c_k;&c_a;&c_v;&c_a;</trd>
+     <trd lng="fi">kaakao</trd>
+     <trdgrp lng="fr">
+       <trd>cacao<klr tip="ind"> (boisson au cacao)</klr></trd>,
+       <trd>chocolat<klr tip="ind"> (boisson au cacao)</klr></trd>
+     </trdgrp>
+     <trdgrp lng="de">
+       <trd>Kakao</trd>,
+       <trd>Schokolade</trd>
+     </trdgrp>
+     <trdgrp lng="nl">
+       <trd>cacao</trd>,
+       <trd>chocolademelk</trd>
+     </trdgrp>
+     <trd lng="pl">kakao</trd>
+     <trdgrp lng="ru">
+       <trd>&c_k;&c_a;&c_k;&c_a;&c_o;</trd>,
+       <trd>&c_sh;&c_o;&c_k;&c_o;&c_l;&c_a;&c_d;<klr tip="amb">
+       (&c_n;&c_a;&c_p;&c_i;&c_t;&c_o;&c_k;)</klr></trd>
+     </trdgrp>
+   </snc>
+  <trd lng="cs">kakao</trd>
+  <trd lng="sk">kakao</trd>
+</drv>
+
+<drv mrk="kaka.0ujo">
+   <kap><tld/>ujo</kap>
+   <uzo tip="fak">BOT</uzo>
+   <snc>
+     <dif>
+       <ref tip="lst" cel="genr.0o.BIO"
+       lst="voko:botanikaj_genroj">Genro</ref> el la familio <ref
+       tip="malprt"
+       cel="malvac.0oj">malvacoj</ref>
+       (<trd lng="la">Theobroma</trd>),
+       <ref tip="lst" cel="arb.0o" lst="voko:malvoparencoj">arbo</ref>
+       nature kreskanta en tropika Mez- kaj Sudameriko.
+     </dif>
+   </snc>
+  <trd lng="be">&c_k;&c_a;&c_k;&c_a;&c_v;&c_a; <klr>(&c_d;&c_r;&c_e;&c_v;&c_a;)</klr></trd>
+  <trd lng="cs">kakaovník || dóza na kakao || konvice na kakao</trd>
+  <trd lng="de">Kakaobaum</trd>
+  <trd lng="en">cocoa tree</trd>
+  <trd lng="es">cacao<klr> (&aacute;rbol)</klr></trd>
+  <trd lng="fi">kaakaopuu</trd>
+  <trdgrp lng="fr">
+     <trd>cacaoyer</trd>,
+     <trd>cacaotier</trd>
+   </trdgrp>
+  <trd lng="hu">kaka&oacute;fa</trd>
+  <trd lng="nl">cacaoboom</trd>
+  <trd lng="pl">kakaowiec</trd>
+  <trd lng="pt">cacaueiro</trd>
+  <trd lng="ru">&c_k;&c_a;&c_k;&c_a;&c_o;<klr tip="amb"> (&c_d;&c_je;&c_r;&c_je;&c_v;&c_o;)</klr></trd>
+  <trd lng="sk">kakaovník</trd>
+  <trd lng="tr">kakao</trd>
+</drv>
+
+<drv mrk="kaka.0arbo">
+   <kap><tld/>arbo, <var><kap><tld/>oarbo</kap></var></kap>
+   <uzo tip="fak">BOT</uzo>
+   <snc>
+     <ref tip="dif" cel="kaka.0ujo"><tld/>ujo</ref>
+     <trd lng="be">&c_k;&c_a;&c_k;&c_a;&c_v;&c_a; <klr>(&c_d;&c_r;&c_e;&c_v;&c_a;)</klr></trd>
+     <trd lng="de">Kakaobaum</trd>
+     <trd lng="en">cocoa tree</trd>
+     <trd lng="fi">kaakaopuu</trd>
+     <trd lng="es">cacao<klr> (&aacute;rbol)</klr></trd>
+     <trdgrp lng="fr">
+       <trd>cacaoyer</trd>,
+       <trd>cacaotier</trd>
+     </trdgrp>
+     <trd lng="hu">kaka&oacute;fa</trd>
+     <trd lng="nl">cacaoboom</trd>
+     <trd lng="pl">kakaowiec</trd>
+     <trd lng="ru">&c_k;&c_a;&c_k;&c_a;&c_o;<klr tip="amb"> (&c_d;&c_je;&c_r;&c_je;&c_v;&c_o;)</klr></trd>
+     <trd lng="tr">kakao</trd>
+   </snc>
+  <trd lng="cs">kakaovník</trd>
+  <trd lng="sk">kakaovník</trd>
+</drv>
+<rim>
+   Pro nacilingva influo oni emas uzi la formon <ctl><tld/>o-</ctl>
+   en kunmeta&jcirc;oj, do kun ligvokalo, sed nenio devigas al tio.
+</rim>
+</art>
+<!--
+$Log: kaka.xml,v $
+Revision 1.30  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.29  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.28  2013/10/27 20:10:14  revo
+Wolfram Diestel: ~ujo: familio malvacoj, prilaboris dif
+
+Revision 1.27  2013/08/29 13:10:23  revo
+Wolfram Diestel: referenco al listo bot genroj
+
+Revision 1.26  2013/07/15 05:10:11  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.25  2012/10/23 00:12:03  revo
+Neil Roberts: aldonu la etikedon <var>
+
+Revision 1.24  2008/10/09 16:30:54  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.23  2007/07/12 16:30:26  revo
+Harri Laine: +trd fi
+
+Revision 1.22  2006/09/16 16:31:19  revo
+Tulio Flores: +tr pt
+
+Revision 1.21  2005/04/01 17:48:15  revo
+-->
+</vortaro>

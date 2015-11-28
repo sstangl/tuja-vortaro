@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: epistemologi.xml,v 1.7 2015/07/04 08:37:33 revo Exp $">
+<kap>
+  <rad>epistemologi</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="epistemologi.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="epistemologi.0o.FIL">
+    <uzo tip="fak">FIL</uzo>
+    <ref tip="dif" cel="kon.ek0teorio.FIL">ekkonteorio</ref>
+    <ekz>
+      la filozofio de scienco parencas al <tld/>o kaj ontologio
+      <fnt><bib>Viki</bib>, <lok>artikolo &leftquot;Filozofio de sciencoj&rightquot;,
+      2005-08-10</lok></fnt>.
+    </ekz>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>epistemologie</trd>,
+    <trd>gnozeologie</trd>,
+    <trd>noetika</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>epistemologie</trd>,
+    <trd>kennistheorie</trd>,
+    <trd>kennisleer</trd>
+    <trd>kenleer</trd>
+  </trdgrp>
+  <trdgrp lng="no">
+    <trd>erkjennelsesteori</trd>,
+    <trd>epistemologi</trd>
+  </trdgrp>
+  <trd lng="pt">epistemologia</trd>
+  <trd lng="sk">gnozeológia</trd>
+</drv>
+</art>
+<!--
+$Log: epistemologi.xml,v $
+Revision 1.7  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.6  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.5  2015/04/14 22:10:14  revo
+Filip van Laenen: +trd(no)
+
+Revision 1.4  2009/09/30 16:31:09  revo
+Paul Peeraerts: +nl
+
+Revision 1.3  2007/06/28 16:33:01  revo
+Tulio Flores: +tr pt
+
+Revision 1.2  2006/01/24 17:31:14  revo
+Jeromo Vasxe: ref dif ekkonteorio
+
+Revision 1.1 2006/01/22 20:10:22 revo
+alinomis espistemologi.xml al epistemologi.xml
+
+Revision 1.1 2005/12/26 19:20:39 revo
+jxeromo vasxe: nova artikolo
+
+-->
+</vortaro>

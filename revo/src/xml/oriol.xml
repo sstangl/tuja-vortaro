@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: oriol.xml,v 1.16 2015/07/04 08:37:40 revo Exp $">
+<kap>
+<ofc>2</ofc>
+<rad>oriol</rad>/o
+</kap>
+<drv mrk="oriol.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">ZOO</uzo>
+  <snc>
+    <dif>
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:zoologiaj_genroj">Genro</ref> el familio <ref
+      tip="malprt"
+      cel="oriole.0oj"><tld/>edoj</ref>
+      (<trd lng="la">Oriolus</trd>), kun flava nigra plumaro kaj kun
+      agrabla   
+      kanto.
+    </dif>
+  </snc>
+  <trd lng="be">&c_ib;&c_v;&c_a;&c_l;&c_g;&c_a;</trd>
+  <trd lng="ca">oriol</trd>
+  <trdgrp lng="cs">
+    <trd>&zcaron;luva</trd>,
+    <trd>žluva hajní</trd>,
+    <trd>žluva obecná</trd>
+  </trdgrp>
+  <trd lng="de">Pirol</trd>
+  <trd lng="en">oriole</trd>
+  <trd lng="fr">loriot</trd>
+  <trd lng="hu">s&aacute;rgarig&oacute;</trd>
+  <trd lng="nl">wielewaal</trd>
+  <trd lng="pl">wilga</trd>
+  <trd lng="ru">&c_i;&c_v;&c_o;&c_l;&c_g;&c_a;</trd>
+  <trd lng="sk">žlna</trd>
+</drv>
+
+</art>
+<!--
+$Log: oriol.xml,v $
+Revision 1.16  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.14  2013/09/08 19:11:18  revo
+Wolfram Diestel: kor. lst-ref
+
+Revision 1.13  2013/09/01 17:10:20  revo
+Wolfram Diestel: referenco al listo zoo genroj
+
+Revision 1.12  2012/08/10 14:11:42  revo
+Marc Rausell: + trd ca
+
+Revision 1.11  2003/09/17 16:32:22  revo
+Philippe Combot: + trd fr
+
+Revision 1.10  2002/11/20 17:31:06  revo
+Zmicier Lapcionak: + trd be
+
+Revision 1.9  2001/05/05 13:23:52  revo
+oriol.0edoj -> oriole.0oj
+
+Revision 1.8  2001/05/05 13:22:11  revo
+shovis oriol.0edoj al oriole.0oj
+
+Revision 1.7  2001/03/28 20:03:58  revo
+-->
+</vortaro>

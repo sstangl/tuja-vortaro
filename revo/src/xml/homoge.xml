@@ -1,0 +1,213 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: homoge.xml,v 1.31 2015/07/04 08:37:35 revo Exp $">
+<kap>
+  <rad>homogen</rad>/a <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="homoge.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="homoge.0a.KOMUNE">
+    <uzo tip="fak">SCI</uzo>
+    <dif>
+      Kies &ccirc;iuj partoj havas saman naturon, konsiston:
+      <ekz>
+        <tld/>a fanda&jcirc;o.
+      </ekz>
+    </dif>
+    <refgrp tip="ant">
+      <ref cel="hetero.0a">heterogena</ref>
+    </refgrp>
+    <trdgrp lng="de">
+      <trd>homogen</trd>,
+      <trd>gleichm&auml;&szlig;ig</trd>
+    </trdgrp>
+    <trd lng="en">homogeneous</trd>
+    <trdgrp lng="fa">
+      <trd>&a_h;&a_m;&f_g;&a_n;</trd>,
+      <trd>&f_y;&f_k;&a_d;&a_s;&a_t;</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>homog&eacute;n</trd>,
+      <trd>egynem&udblac;</trd>
+    </trdgrp>
+    <trdgrp lng="nl">
+      <trd>homogeen</trd>,
+      <trd>gelijkmatig</trd>
+    </trdgrp>
+    <trd lng="sv">homogen</trd>
+  </snc>
+  <snc mrk="homoge.0a.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <subsnc mrk="homoge.0a.polinomo">
+      <fnt><bib>MatTerm</bib><lok>p. 13</lok></fnt>
+      <dif>
+        <klr>(p.p. <ref cel="polino.0o">polinomo</ref>)</klr>
+        Kies &ccirc;iuj termoj estas samgradaj:
+        <ekz>
+          &ccirc;iuj <tld/>aj polinomoj de unu argumento estas de la tipo
+          <frm><k>a</k><g>X</g><sup><k>n</k></sup></frm>;
+        </ekz>
+        <ekz>
+          <frm><g>X</g><sup>2</sup>+<g>XY</g>+<g>Y</g><sup>2</sup></frm>
+          estas
+          duagrada <tld/>a polinomo de du argumentoj.
+        </ekz>
+      </dif>
+    </subsnc>
+    <subsnc mrk="homoge.0a.ekvacio">
+      <fnt><bib>MatTerm</bib><lok>p. 23</lok></fnt>
+      <dif>
+        <klr>(p.p. lineara <ref cel="ekvaci.0o">ekvacio</ref>)</klr>
+        Kies dekstra <ref cel="flank.0o.ekvacio">flanko</ref> estas
+        <frm>0</frm>:
+        <ekz>
+          por solvi ne<tld/>an diferencialan ekvacion, ofte utilas solvi
+          la respondan <tld/>an ekvacion.
+        </ekz>
+      </dif>
+    </subsnc>
+    <subsnc mrk="homoge.0a.funkcio">
+      <dif>
+        <klr>(p.p. <ref cel="bild.0igo.MAT">bildigo</ref>
+        <frm><k>f</k></frm>
+        inter du <ref cel="spac.vektora0o">vektoraj spacoj</ref>)</klr>
+        Tia, ke por iu nombro <frm>&alfa;</frm> &ccirc;iam veras, ke
+        <frm><k>f</k>(&lambda;&#8729;<k>x</k>) =
+        &lambda;<sup>&alfa;</sup>&#8729;<k>f</k>(<k>x</k>)</frm>.
+      </dif>
+    </subsnc>
+    <subsnc mrk="homoge.0a.koordinatoj">
+      <fnt><bib>MatVort</bib><lok>&leftquot;homogenaj
+      koordinatoj&rightquot;</lok></fnt>
+      <dif>
+        <klr>(p.p. <ref
+        cel="koordi.0sistemo">koordinatsistemo</ref>)</klr>
+        Tia, ke en &gcirc;i la koordinataj <ref cel="op.0o.vico">opoj</ref>
+        kun proporciaj termoj difinas la saman punkton:
+        <ekz>
+          la sistemo de
+          <ref cel="koordi.pezocentra0o">pezocentraj koordinatoj</ref>
+          estas <tld/>a.
+        </ekz>
+      </dif>
+      <rim>
+        Oni ofte aplikas la kvalifikon <ctl><tld/>a</ctl> al la
+        koordinatoj
+        mem a&ubreve; al la koordinataj opoj.
+      </rim>
+    </subsnc>
+    <trd lng="de">homogen</trd>
+    <trd lng="fa">&a_h;&a_m;&f_g;&a_n;</trd>
+    <trd lng="en">homogeneous</trd>
+    <trd lng="pl">jednorodny</trd>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_g;&c_a;&c_m;&c_a;&c_g;&c_je;&c_n;&c_n;&c_y;</trd>,
+    <trd>&c_a;&c_d;&c_n;&c_a;&c_r;&c_o;&c_d;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>homogenní</trd>,
+    <trd>jednolitý</trd>,
+    <trd>sourodý</trd>,
+    <trd>stejnoměrný</trd>,
+    <trd>stejnorodý</trd>
+  </trdgrp>
+  <trd lng="el">&omikron;&my;&omikron;&gamma;&epsilon;&ny;&eta_ton;&sigma_fina;</trd>
+  <trd lng="fr">homog&egrave;ne</trd>
+  <trd lng="hu">homog&eacute;n</trd>
+  <trd lng="it">omogeneo</trd>
+  <trd lng="pt">homog&ecirc;neo</trd>
+  <trdgrp lng="ru">
+    <trd>&c_o;&c_d;&c_n;&c_o;&c_r;&c_o;&c_d;&c_n;&c_y;&c_j;</trd>,
+    <trd>&c_g;&c_o;&c_m;&c_o;&c_g;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>homogénny</trd>,
+    <trd>jednoliaty</trd>,
+    <trd>rovnorodý</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="homoge.0eco">
+  <kap><tld/>eco</kap>
+  <snc mrk="homoge.0eco.KOMUNE">
+    <dif>
+      Sameco de naturoj, konsistoj, substancoj
+      en partoj de tuto:
+      <ekz>
+        ver&scirc;u iom post iom tiun likva&jcirc;on sur la maniok-amelon kaj per 
+        granda kulero miksu &ccirc;ion &gcirc;is <tld/>eco
+        <fnt>
+          <aut>T. Flores</aut>,
+          <vrk>Froma&gcirc;bulkoj</vrk>,
+          <lok><url
+          ref="http://www.lakaravelo.com/LK_000/LK_023_provversio.pdf">
+          La Karavelo, 2010-10 (23), p. 24a</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">homogennost</trd>
+  <trd lng="en">homogeneity</trd>
+  <trd lng="fr">homog&eacute;n&eacute;it&eacute;</trd>
+  <trd lng="sk">homogénnosť</trd>
+</drv>
+
+<drv mrk="homoge.mal0eco">
+  <kap>mal<tld/>eco</kap>
+  <snc mrk="homoge.mal0eco.KOMUNE">
+    <dif>
+      Malsameco de konsistoj,
+      <ref tip="vid" cel="bunt.0eco.FIG">bunteco</ref>,
+      <ref tip="vid" cel="unu.mal0eco.KOMUNE">malunueco</ref>,
+      <ref tip="sin" cel="hetero.0eco.KOMUNE">heterogeneco</ref>:
+      <ekz>
+        la kosma fona radiado havas mal<tld/>ecojn
+        <fnt>
+          <aut>Be&ccirc;jo</aut>,
+          <vrk><url
+          ref="http://becxjo.blogspot.com/2010/12/pri-du-malsamaj-universoj.html">
+          La mondo el mia vidpunkto</url></vrk>,
+          <lok>2010-12-28</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="en">heterogeneity</trd>
+  <trd lng="fr">h&eacute;t&eacute;rog&eacute;n&eacute;it&eacute;</trd>
+</drv>
+</art>
+<!--
+$Log: homoge.xml,v $
+Revision 1.31  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.30  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.29  2011/05/22 10:10:10  revo
+Russ Williams: +trd en
+
+Revision 1.28  2011/05/05 07:10:10  revo
+Jeromo Vasxe: + ~eco mal~eco
+
+Revision 1.27  2009/10/24 16:32:55  revo
+Russ Williams: +trd en
+
+Revision 1.26  2009/09/17 16:30:31  revo
+Antonio Codazzi: +trd it
+
+Revision 1.25  2009/06/05 16:30:43  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.24  2004/11/28 19:44:05  revo
+Marc Bavant: ~a (ekvacio): mod dif
+
+Revision 1.23  2004/01/15 18:35:21  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.22  2003/12/24 17:30:37  revo
+-->
+</vortaro>

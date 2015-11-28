@@ -1,0 +1,136 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: raket.xml,v 1.22 2015/07/04 08:37:42 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>raket</rad>/o
+</kap>
+<drv mrk="raket.0o">
+  <kap><tld/>o</kap>
+  <snc>
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      Artefarita fajra&jcirc;o, kiun oni pafas vertikale en aeron kaj kiu
+      eksplodas el&jcirc;etante multajn brilajn fajrerojn:
+      <ekz>
+        li a&ccirc;etis <tld/>ojn, krakpizojn, kaj diversajn
+        fajra&jcirc;ojn<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        oni pafis lumigantajn <tld/>ojn al la &ccirc;ielo;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        tiu poeto ja <tld/>as per vortoj
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="jxongl.0i">&jcirc;ongli</ref>.
+    </refgrp>
+    <trd lng="be">&c_r;&c_a;&c_k;&c_je;&c_t;&c_a;</trd>
+    <trd lng="de">Rakete</trd>
+    <trdgrp lng="en">
+      <trd>flare</trd>,
+      <trd>rocket</trd>
+    </trdgrp>
+    <trd lng="ca">coet</trd>
+    <trd lng="hu">rak&eacute;ta</trd>
+    <trdgrp lng="it">
+      <trd>razzo</trd>,
+      <trd><ind>fuoco</ind> artificiale (razzo)</trd>,
+      <trd><ind>gioco</ind> pirotecnico (razzo)</trd>
+    </trdgrp>
+    <trd lng="ja">&#25171;&#12385;&#19978;&#12370;&#33457;&#28779;
+    [<ind>&#12358;&#12385;&#12354;&#12370;&#12399;&#12394;&#12403;</ind>]</trd>
+    <trd lng="nl">vuurpijl</trd>
+    <trd lng="pt">morteiro</trd>
+    <trd lng="ru">&c_r;&c_a;&c_k;&c_je;&c_t;&c_a;</trd>
+  </snc>
+  <snc mrk="raket.0o.AVI">
+    <uzo tip="fak">AVI</uzo>
+    <uzo tip="fak">MIL</uzo>
+    <dif>
+      Flugaparato a&ubreve; kuglego, movi&gcirc;anta per
+      <ref tip="vid" cel="reakci.0o.TEK">reakcio</ref>,
+      aperanta pro &jcirc;etado malanta&ubreve;en de parto de propra pezo:
+      <ekz>
+        kosma <tld/>o.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_r;&c_a;&c_k;&c_je;&c_t;&c_a;</trd>
+    <trd lng="de">Rakete</trd>
+    <trdgrp lng="en">
+      <trd>rocket</trd>,
+      <trd>missile</trd>
+    </trdgrp>
+    <trd lng="ca">coet</trd>
+    <trd lng="cy">roced</trd>
+    <trd lng="da">raket</trd>
+    <trd lng="es">cohete</trd>
+    <trdgrp lng="fr">
+        <trd>fus&eacute;e</trd>,
+        <trd>roquette</trd>
+    </trdgrp>
+    <trd lng="hu">rak&eacute;ta</trd>
+    <trdgrp lng="it">
+      <trd>razzo</trd>,
+      <trd>missile</trd>
+    </trdgrp>
+    <trd lng="ja">&#12525;&#12465;&#12483;&#12488; [<ind>&#12429;&#12369;&#12387;&#12392;</ind>]</trd>
+    <trd lng="nl">raket</trd>
+    <trd lng="pt">foguete</trd>
+    <trd lng="tr">f&uuml;ze</trd>
+    <trd lng="ru">&c_r;&c_a;&c_k;&c_je;&c_t;&c_a;</trd>
+  </snc>
+  <snc mrk="raket.0o.SPO">
+    <uzo tip="fak">SPO</uzo>
+    <dif>
+      <ref tip="dif" cel="raked.0o">Rakedo</ref>.
+    </dif>
+    <trd lng="be">&c_r;&c_a;&c_k;&c_je;&c_t;&c_k;&c_a;</trd>
+    <trd lng="ca">raqueta</trd>
+    <trd lng="en">racket</trd>
+    <trd lng="de">Schl&auml;ger</trd>
+    <trd lng="hu">tenisz&uuml;t&odblac;</trd>
+    <trd lng="it">racchetta</trd>
+    <trd lng="nl">racket</trd>
+    <trd lng="ru">&c_r;&c_a;&c_k;&c_je;&c_t;&c_k;&c_a;</trd>
+  </snc>
+  <trd lng="cs">raketa <klr>(např. tenisová)</klr></trd>
+  <trd lng="sk">raketa <klr>(tenisová)</klr></trd>
+</drv>
+</art>
+<!--
+$Log: raket.xml,v $
+Revision 1.22  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.21  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.20  2009/12/20 17:30:40  revo
+Antonio Codazzi: +trd it
+
+Revision 1.19  2009/03/01 17:33:35  revo
+Russ Williams: ligi al rakedo 9OA
+
+Revision 1.18  2008/09/21 18:54:23  revo
+HIROTAKA Masaaki: kor trd ja, +trd ja
+
+Revision 1.17  2005/08/30 16:31:41  revo
+Axel Rousseau: +trd fr
+
+Revision 1.16  2003/08/03 16:31:07  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.15  2003/04/09 16:31:29  revo
+Paul Peeraerts: ald plian trd nl
+
+Revision 1.14  2003/01/05 17:33:50  revo
+Oscar Puig: + trd ca
+
+Revision 1.13  2002/11/01 17:30:34  revo
+-->
+</vortaro>

@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: galvan1.xml,v 1.20 2015/10/23 06:10:15 revo Exp $">
+<kap><rad>galvaniz</rad>/i</kap>
+
+<drv mrk="galvan1.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <uzo tip="fak">ELE</uzo>
+  <snc>
+    <dif>
+      Surkovri ion per maldika tavolo de metalo helpe de elektroliza
+      kontinua kurento:
+      <ekz>
+        oni ordinare <tld/>as metalajn surfacojn per zinka tavolo,
+        tiele defendante ilin kontra&ubreve; rusti&gcirc;o.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>galvanisieren</trd>,
+      <trd>verzinken</trd>
+    </trdgrp>
+    <trdgrp lng="nl">
+      <trd>galvaniseren</trd>,
+      <trd>verzinken</trd>
+    </trdgrp>
+    <trd lng="pl">galwanizowa&cacute;</trd>
+    <trd lng="sv">galvanisera</trd>
+  </snc>
+  <snc>
+    <dif>
+      Submeti al kontinua kurento.
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="elektr.0umi">elektrumi</ref>,
+      <ref cel="faradi.0i">faradizi</ref>.
+    </refgrp>
+    <trdgrp lng="de">
+      <trd>galvanisieren</trd>,
+      <trd>mit <ind>Gleichstrom</ind> behandeln</trd>
+    </trdgrp>
+    <trd lng="nl">galvaniseren</trd>
+  </snc>
+  <trd lng="be">&c_g;&c_a;&c_l;&c_mol;&c_v;&c_a;&c_n;&c_ib;&c_z;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="bg">&c_g;&c_a;&c_l;&c_v;&c_a;&c_n;&c_i;&c_z;&c_i;&c_r;&c_a;&c_m;</trd>
+  <trd lng="ca">galvanitzar</trd>
+  <trd lng="cs">galvanizovat</trd>
+  <trdgrp lng="de">
+    <trd>galvanisieren</trd>
+  </trdgrp>
+  <trd lng="el">&gamma;&alfa;&lambda;&beta;&alfa;&ny;&jota_ton;&zeta;&omega;</trd>
+  <trd lng="en">galvanize</trd>
+  <trd lng="es">galvanizar</trd>
+  <trd lng="fr">galvaniser</trd>
+  <trdgrp lng="hu">
+    <trd>galvaniz&aacute;l</trd>,
+    <trd>galv&aacute;noz</trd>
+  </trdgrp>
+  <trd lng="pt">galvanizar</trd>
+  <trd lng="ru">&c_g;&c_a;&c_l;&c_mol;&c_v;&c_a;&c_n;&c_i;&c_z;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="sk">galvanizova&tcaron;</trd>
+  <trd lng="tr">galvanizlemek</trd>
+</drv>
+</art>
+<!--
+$Log: galvan1.xml,v $
+Revision 1.20  2015/10/23 06:10:15  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.19  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:29:39  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2013/12/12 16:10:17  revo
+Joop Eggen: +trd bg en
+
+Revision 1.16  2012/08/18 18:10:28  revo
+Marc Rausell: + trd ca
+
+Revision 1.15  2009/08/23 16:33:13  revo
+Emmanuel Debanne: +trd tr
+
+Revision 1.14  2007/06/10 16:30:48  revo
+Wieland Pusch: +trd de
+
+Revision 1.13  2004/01/08 17:31:37  revo
+-->
+</vortaro>

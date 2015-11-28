@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: kibernetik.xml,v 1.8 2015/07/04 08:37:37 revo Exp $">
+<kap>
+  <rad>kibernetik</rad>/o <fnt><bib>PIV2</bib></fnt>
+</kap>
+<drv mrk="kibernetik.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="kibernetik.0o.SCI">
+    <uzo tip="fak">SCI</uzo>
+    <dif>
+      Scienco pri agokapablaj a&ubreve; memregaj sistemoj, kaj arto krei tiajn 
+       sistemojn:
+      <ekz>
+        la sanmarina Instituto pri <tld lit="K"/>o
+        <fnt>
+          <aut>H. G. Frank</aut>,
+          <vrk><url
+          ref="http://www.ais-sanmarino.org/pr/eo/histor1.html">Historieto
+          de la Akademio Internacia de la Sciencoj San
+          Marino</url></vrk>,
+          <lok>1985</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="auxtom.0o">a&ubreve;tomato</ref>,
+      <ref cel="komput.0ilo">komputilo</ref>,
+      <ref cel="robot.0o">roboto</ref>
+    </refgrp>
+  </snc>
+  <trd lng="cs">kybernetika</trd>
+  <trdgrp lng="fa">
+    <trd>&a_f;&a_r;&a_m;&a_A;&a_n;&zwnj;&a_sh;&a_n;&a_A;&a_s;&f_y;</trd>,
+    <trd>&a_s;&f_y;&a_b;&a_r;&a_n;&a_t;&f_y;&f_k;</trd>
+  </trdgrp>
+  <trd lng="fr">cybern&eacute;tique</trd>
+  <trdgrp lng="nl">
+    <trd>cybernetica</trd>,
+    <trd>stuurkunde</trd>
+  </trdgrp>
+  <trd lng="sk">kybernetika</trd>
+</drv>
+
+<drv mrk="kibernetik.0isto">
+  <kap><tld/>isto</kap>
+  <snc mrk="kibernetik.0isto.SCI">
+    <dif>
+      Fakulo pri <ref tip="vid" cel="kibernetik.0o.SCI"><tld/>o</ref>:
+      <ekz>
+        diskutata estas anka&ubreve; propono de itala <tld/>isto Silvio 
+        Ceccato konstrui internacian helplingvon per <tld/>aj metodoj
+        <fnt>
+          <aut>V. Barandovsk&aacute;-Frank</aut>,
+          <vrk>Enkonduka lernolibro de interlingvistiko</vrk>,
+          <lok><url 
+          ref="http://wwwcs.uni-paderborn.de/extern/fb/2/Kyb.Paed/INT/02-int.htm">&ccirc;apitro
+          2a</url></lok>
+        </fnt>
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="fa">
+    <trd>&a_f;&a_r;&a_m;&a_A;&a_n;&zwnj;&a_sh;&a_n;&a_A;&a_s;</trd>,
+    <trd>&a_m;&a_t;&a_kh;&a_S;&a_S; <ind>&a_s;&f_y;&a_b;&a_r;&a_n;&a_t;&f_y;&f_k;</ind></trd>
+  </trdgrp>
+  <trd lng="fr">cybern&eacute;ticien</trd>
+  <trd lng="nl">cyberneticus</trd>
+</drv>
+</art>
+
+<!--
+$Log: kibernetik.xml,v $
+Revision 1.8  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.7  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.6  2014/02/08 15:10:55  revo
+Damien Brucker: -eraro cxe ref
+
+Revision 1.5  2011/06/24 19:10:24  revo
+Dominique Pelle: negxusta cxapelo sur la vorto *ankaux*
+
+Revision 1.4  2009/09/13 16:57:42  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.3  2009/08/27 16:34:12  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.2  2006/09/05 15:23:32  revo
+Jeromo Vasxe: kor ref
+
+Revision 1.1  2006/08/11 14:15:59  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

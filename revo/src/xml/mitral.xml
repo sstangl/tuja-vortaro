@@ -1,0 +1,119 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: mitral.xml,v 1.10 2015/07/04 08:37:39 revo Exp $">
+<kap>
+  <rad>mitral</rad>/o <fnt><bib>SPV</bib></fnt>
+</kap>
+
+<drv mrk="mitral.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="mitral.0o.ARM">
+    <uzo tip="fak">MIL</uzo>
+    <dif>
+      <ref tip="super" cel="paf.0ilo.ARM">Pafilo</ref> kiu a&ubreve;tomate,
+      tre
+      rapide sekvigas la pafojn:
+      <ekz>
+        rigardu, jen la viro, li pa&scirc;as rekte al la pafanta <tld/>o
+        <fnt><bib>Mortul&Scirc;ip</bib>, <lok>dua libro, &ccirc;apitro
+        30a</lok></fnt>;
+      </ekz>
+      <ekz>
+        oni traboris muron per bombado, pafis blinde <tld/>on
+        <fnt><bib>HomojMan&gcirc;antaj</bib>, <lok>&leftquot;la vila&gcirc;o, kie
+        bonodoras
+        tilio&rightquot;, p. 94a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="ca">metralladora</trd>
+  <trd lng="cs">kulomet</trd>
+  <trd lng="de">Maschinengewehr</trd>
+  <trd lng="en">machine gun</trd>
+  <trd lng="fr">mitrailleuse</trd>
+  <trd lng="it">mitragliatrice</trd>
+  <trd lng="pt">metralhadora</trd>
+  <trd lng="ru">&c_p;&c_u;&c_l;&c_je;&c_m;&c_jo;&c_t;</trd>
+  <trd lng="sk">guľomet</trd>
+</drv>
+
+<drv mrk="mitral.0i">
+  <kap><tld/>i</kap>
+  <snc mrk="mitral.0i.ARM">
+    <dif>
+      Pafadi per <tld/>o a&ubreve; simile rapidega pafilo.
+    </dif>
+  </snc>
+  <trd lng="ca">metrallar</trd>
+  <trd lng="de">Maschinengewehr schie&szlig;en</trd>
+  <trdgrp lng="en">
+    <trd>fire<klr tip="amb"> (machine gun)</klr></trd>,
+    <trd>shoot<klr tip="amb"> (machine gun)</klr></trd>
+  </trdgrp>
+  <trd lng="fr">mitrailler</trd>
+  <trdgrp lng="it">
+    <trd>mitragliare</trd>,
+    <trd>sparare a <ind>raffica</ind></trd>
+  </trdgrp>
+  <trd lng="ru">&c_s;&c_t;&c_r;&c_je;&c_l;&c_ja;&c_t;&c_mol; &c_i;&c_z; <ind>&c_p;&c_u;&c_l;&c_je;&c_m;&c_jo;&c_t;&c_a;</ind></trd>
+</drv>
+
+<drv mrk="mitral.0eto">
+  <kap><tld/>eto</kap>
+  <snc mrk="mitral.0eto.ARM">
+    <uzo tip="fak">MIL</uzo>
+    <dif>
+      Malgranda <tld/>o portebla de unu homo.
+    </dif>
+  </snc>
+  <trd lng="ca">metralleta</trd>
+  <trd lng="cs">samopal</trd>
+  <trd lng="de">Maschinenpistole</trd>
+  <trdgrp lng="en">
+    <trd>submachine gun</trd>,
+    <trd>machine pistol</trd>
+  </trdgrp>
+  <trd lng="fr">mitraillette</trd>
+  <trd lng="it">mitraglietta</trd>
+  <trdgrp lng="ru">
+    <trd>&c_a;&c_v;&c_t;&c_o;&c_m;&c_a;&c_t; <klr tip="amb">(&c_o;&c_r;&c_u;&c_zh;&c_i;&c_je;)</klr></trd>,
+    <trd>&c_p;&c_i;&c_s;&c_t;&c_o;&c_l;&c_je;&c_t;-&c_p;&c_u;&c_l;&c_je;&c_m;&c_jo;&c_t;</trd>
+  </trdgrp>
+  <trd lng="sk">samopal</trd>
+</drv>
+</art>
+
+<!--
+$Log: mitral.xml,v $
+Revision 1.10  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.9  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.8  2012/08/20 00:10:47  revo
+Marc Rausell: + trd ca
+
+Revision 1.7  2010/06/12 16:30:41  revo
+Antonio Codazzi: +trd it
+
+Revision 1.6  2010/03/04 17:30:37  revo
+Russ Williams: +trd en
+
+Revision 1.5  2007/09/06 16:30:19  revo
+Wieland Pusch: +trd de
+
+Revision 1.4  2007/04/29 16:31:31  revo
+Jeromo Vasxe: kor 1 ref, kor fnt
+
+Revision 1.3  2006/08/07 16:31:41  revo
+Tulio Flores: +tr pt
+
+Revision 1.2  2005/12/19 17:31:39  revo
+Yury Finkel: +trd ru
+
+Revision 1.1  2005/10/22 17:23:48  revo
+-->
+</vortaro>

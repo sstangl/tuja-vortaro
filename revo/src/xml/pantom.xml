@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: pantom.xml,v 1.15 2015/07/04 08:37:41 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>pantomim</rad>/o
+</kap>
+<drv mrk="pantom.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="pantom.0o.TEA">
+    <uzo tip="fak">TEA</uzo>
+    <dif>
+      <ref tip="super" cel="teatr.0ajxo.TEA">Teatra&jcirc;o</ref>, en kiu la
+      personoj rolas nur per gestoj, ne parolante.
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_n;&c_t;&c_a;&c_m;&c_ib;&c_m;&c_a;</trd>
+  <trd lng="bg">&c_p;&c_a;&c_n;&c_t;&c_o;&c_m;&c_i;&c_m;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>němohra</trd>,
+    <trd>pantomima</trd>
+  </trdgrp>
+  <trd lng="de">Pantomime</trd>
+  <trdgrp lng="en">
+    <trd>pantomime</trd>,
+    <trd>dumb show</trd>,
+    <trd>dumbshow</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>mime<klr tip="amb"> (pantomime)</klr></trd>,
+    <trd>pantomime</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>n&eacute;maj&aacute;t&eacute;k</trd>,
+    <trd>pantomim</trd>
+  </trdgrp>
+  <trd lng="nl">pantomime</trd>
+  <trd lng="pt">pantomima</trd>
+  <trd lng="ru">&c_p;&c_a;&c_n;&c_t;&c_o;&c_m;&c_i;&c_m;&c_a;</trd>
+  <trd lng="sk">nemohra</trd>
+</drv>
+
+<drv mrk="pantom.0isto">
+  <kap><tld/>isto</kap>
+  <snc mrk="pantom.0isto.TEA">
+    <uzo tip="fak">TEA</uzo>
+    <dif>
+      <ref tip="super" cel="aktor.0o.TEA">Aktoro</ref> ludanta <tld/>on.
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_n;&c_t;&c_a;&c_m;&c_ib;&c_m;&c_ib;&c_s;&c_t;</trd>
+  <trd lng="bg">&c_p;&c_a;&c_n;&c_t;&c_o;&c_m;&c_i;&c_m;&c_a;</trd>
+  <trd lng="cs">mim</trd>
+  <trd lng="de">Geb&auml;rdenspieler</trd>
+  <trdgrp lng="en">
+    <trd>mime</trd>,
+    <trd>mime artist</trd>
+  </trdgrp>
+  <trd lng="fr">mime<klr tip="amb"> (acteur)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>pantomimj&aacute;t&eacute;kos</trd>,
+    <trd>pantomimes</trd>
+  </trdgrp>
+  <trd lng="nl">pantomimespeler</trd>
+  <trd lng="ru">&c_p;&c_a;&c_n;&c_t;&c_o;&c_m;&c_i;&c_m;&c_i;&c_s;&c_t;</trd>
+  <trd lng="sk">mím</trd>
+</drv>
+</art>
+<!--
+$Log: pantom.xml,v $
+Revision 1.15  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:40:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.13  2009/06/01 16:30:41  revo
+Wieland Pusch: +trd bg
+
+Revision 1.12  2009/05/28 16:30:24  revo
+Russ Williams: +trd en, 1OA
+
+Revision 1.11  2006/02/24 17:35:55  revo
+Tulio Flores: +trd pt
+
+Revision 1.10  2006/02/08 17:31:45  revo
+Jeromo Vasxe: + mrk + tez + trd fr
+
+Revision 1.9 2003/07/15 16:30:51 revo
+Dmitri Gabinski: +trd be
+
+Revision 1.8 2002/12/10 17:31:13 revo
+Jozefo Horvath: +trd hu
+
+Revision 1.7 2001/12/10 17:33:49 revo
+Yury Finkel: +trd ru
+
+Revision 1.6 2001/10/09 18:44:11 revo
+-->
+</vortaro>

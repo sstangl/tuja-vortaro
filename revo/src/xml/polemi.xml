@@ -1,0 +1,116 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: polemi.xml,v 1.19 2015/07/05 20:10:15 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>polemik</rad>/o
+</kap>
+<drv mrk="polemi.0o">
+  <kap><tld/>o</kap>
+  <snc>
+    <dif>
+      Publika disputo, plej ofte skriba, en kiu akre oponi&gcirc;as
+      kontra&ubreve;aj opinioj:
+      <ekz>
+        <tld/>a verko;
+      </ekz>
+      <ekz>
+        mi ne volis entiri min en <tld/>on kun certa kategorio da
+        personoj<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_l;&c_je;&c_m;&c_ib;&c_k;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>debata</trd>,
+    <trd>polemika</trd>
+  </trdgrp>
+  <trd lng="de">Polemik</trd>
+  <trdgrp lng="en">
+    <trd>polemic</trd>,
+    <trd>controversy</trd>,
+    <trd>dispute</trd>
+  </trdgrp>
+  <trd lng="es">pol&eacute;mica</trd>
+  <trd lng="fr">pol&eacute;mique</trd>
+  <trdgrp lng="hu">
+    <trd>nyilv&aacute;nos <ind>vita</ind></trd>,
+    <trd>pol&eacute;mia</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>polemiek</trd>,
+    <trd>pennenstrijd</trd>
+  </trdgrp>
+  <trd lng="oc">polemica</trd>
+  <trd lng="pl">polemika</trd>
+  <trd lng="pt">pol&ecirc;mica</trd>
+  <trd lng="ru">&c_p;&c_o;&c_l;&c_je;&c_m;&c_i;&c_k;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>debata</trd>,
+    <trd>polemika</trd>
+  </trdgrp>
+  <trd lng="uk">&c_p;&c_o;&c_l;&c_je;&c_m;&c_ib;&c_k;&c_a;</trd>
+</drv>
+
+<drv mrk="polemi.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      Skribe publike <ref tip="super" cel="diskut.0i">diskuti</ref>:
+      <ekz>
+        mi ne <tld/>os kontra&ubreve; ili e&ccirc; per unu
+        vorto<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <refgrp tip="vid">
+    <ref cel="disput.0i">disputi</ref>,
+    <ref cel="debat.0i">debati</ref>.
+  </refgrp>   
+  <trd
+  lng="be">&c_p;&c_a;&c_l;&c_je;&c_m;&c_ib;&c_z;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="de">polemisieren</trd>
+  <trd lng="en">engage in controversy</trd>
+  <trd lng="es">polemizar</trd>
+  <trd lng="fr">pol&eacute;miquer</trd>
+  <trdgrp lng="hu">
+    <trd>vit&aacute;zik</trd>,
+    <trd>polemiz&aacute;l</trd>
+  </trdgrp>  
+  <trd lng="nl">polemiseren</trd>
+  <trd lng="pl">polemizowa&cacute;</trd>
+  <trd
+  lng="ru">&c_p;&c_o;&c_l;&c_je;&c_m;&c_i;&c_z;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="sk">polemizova&tcaron;</trd>
+  <trd lng="cs">polemizovat</trd>
+</drv>
+</art>
+<!--
+$Log: polemi.xml,v $
+Revision 1.19  2015/07/05 20:10:15  revo
+Christophe Chazarein: Pliprecizigo de la difino
+
+Revision 1.18  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/07/03 12:10:16  revo
+Christophe Chazarein: okcitana traduko
+
+Revision 1.16  2015/07/03 09:10:16  revo
+Dmitri Gabinski: +trd uk
+
+Revision 1.15  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.14  2009/09/01 16:30:51  revo
+Russ Williams: +trd en
+
+Revision 1.13  2009/06/25 16:31:06  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.12  2006/03/08 17:33:46  revo
+-->
+</vortaro>

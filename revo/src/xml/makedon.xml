@@ -1,0 +1,138 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: makedon.xml,v 1.12 2015/10/27 07:10:12 revo Exp $">
+<kap>
+  <rad>makedon</rad>/o
+</kap>
+
+<drv mrk="makedon.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="makedon.0o.sxtatano">
+    <dif>
+      <ref tip="super" cel="sxtat.0ano">&Scirc;tatano</ref> de
+      <ref tip="malprt" cel="makedon.M0ujo"><tld lit="M"/>ujo</ref>.
+    </dif>
+  </snc>
+  <snc mrk="makedon.0o.naciano">
+    <dif>
+      Homo kun <tld/>a nacieco.
+    </dif>
+  </snc>
+  <trd lng="be">&c_m;&c_a;&c_k;&c_je;&c_d;&c_o;&c_n;&c_je;&c_c;</trd>
+  <trd lng="ca">macedoni<klr> (subst.)</klr></trd>
+  <trd lng="cs">Makedonec</trd>
+  <trd lng="en">Macedonian</trd>
+  <trd lng="fr">Mac&eacute;donien<klr> (subst.)</klr></trd>
+  <trdgrp lng="pl">
+    <trd>Macedo&nacute;czyk</trd>,
+    <trd>Macedonka</trd>
+  </trdgrp>
+  <trd lng="pt">maced&ocirc;nio <klr tip="ind"> (subst.)</klr></trd>
+  <trd lng="sk">Maced&oacute;nec</trd>
+</drv>
+
+<drv mrk="makedon.0a">
+  <kap><tld/>a</kap>
+  <snc>
+    <dif>
+      Rilatanta al <tld/>oj, ilia nacieco a&ubreve; &scirc;tato.
+    </dif>
+  </snc>
+  <trd lng="be">&c_m;&c_a;&c_k;&c_je;&c_d;&c_o;&c_n;&c_s;&c_k;&c_ib;</trd>
+  <trd lng="ca">macedoni<klr> (adj.)</klr></trd>
+  <trd lng="cs">makedonsk&yacute;</trd>
+  <trd lng="fr">mac&eacute;donien<klr> (adj.)</klr></trd>
+  <trd lng="pl">macedo&nacute;ski</trd>
+  <trd lng="pt">maced&ocirc;nio <klr tip="ind"> (adj.)</klr></trd>
+  <trd lng="sk">maced&oacute;nsky</trd>
+</drv>
+
+<drv mrk="makedon.M0ujo">
+  <kap>
+    <tld lit="M"/>ujo
+    <fnt>
+      <vrk>Oficiala Informo de AdE</vrk>,
+      <lok>numero 12</lok>
+    </fnt>
+  </kap>
+  <snc mrk="makedon.M0ujo.GEOG">
+    <uzo tip="fak">GEOG</uzo>
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      <ref tip="super" cel="sxtat.0o.POL">&Scirc;tato</ref> en la 
+      suda <ref tip="malprt" cel="euxrop1.E0o.geog">E&ubreve;ropo</ref>
+      kun &ccirc;efurbo Skopjo.
+      Teritorio de Respubliko Makedonio (a&ubreve; alie: Iama
+      Jugoslavuja Respubliko Makedonio).
+      ISO-3166 kodo: MK.
+      &Gcirc;i limas kun
+      <ref tip="vid" cel="alban.A0ujo">Albanujo</ref>,
+      <ref tip="vid" cel="bulgar.B0ujo">Bulgarujo</ref>,
+      <ref tip="vid" cel="grek.G0ujo.GEOG">Grekujo</ref>
+      kaj <ref tip="vid" cel="serb.S0ujo.GEOG">Serbujo</ref>.
+    </dif>
+    <ref tip="sin" cel="makedoni.M0o.RESPUBLIKO">Makedonio</ref>
+    </snc>
+    <trd lng="be">&c_M;&c_a;&c_k;&c_je;&c_d;&c_o;&c_n;&c_ib;&c_ja;</trd>
+    <trdgrp lng="bg">
+      <trd>&c_R;&c_je;&c_p;&c_u;&c_b;&c_l;&c_i;&c_k;&c_a; <ind>&c_M;&c_a;&c_k;&c_je;&c_d;&c_o;&c_n;&c_i;&c_ja;</ind></trd>,
+      <trd>&c_M;&c_a;&c_k;&c_je;&c_d;&c_o;&c_n;&c_i;&c_ja;</trd>
+    </trdgrp>
+    <trdgrp lng="ca">
+      <trd>Maced&ograve;nia</trd>,
+      <trd>Rep&uacute;blica de <ind>Maced&ograve;nia</ind></trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd>Republik <ind>Mazedonien</ind></trd>,
+      <trd>Mazedonien</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>Macedonia</trd>,
+      <trd>Republic of <ind>Macedonia</ind></trd>,
+      <trd>FYROM</trd>
+    </trdgrp>
+    <trd lng="fa">&a_m;&a_q;&a_d;&a_w;&a_n;&f_y;&a_h;</trd>
+    <trdgrp lng="fr">
+      <trd>Mac&eacute;doine</trd>,
+      <trd>R&eacute;publique de Mac&eacute;doine</trd>
+    </trdgrp>
+    <trd lng="nl">Macedoni&euml;</trd>
+    <trdgrp lng="pl">
+      <trd>Macedonia</trd>,
+      <trd>Republika <ind>Macedonii</ind></trd>,
+      <trd>By&lstroke;a Jugos&lstroke;owia&nacute;ska Republika
+      <ind>Macedonii</ind></trd>
+    </trdgrp>
+    <trd lng="pt">Maced&ocirc;nia</trd>
+</drv>
+
+</art>
+
+<!--
+$Log: makedon.xml,v $
+Revision 1.12  2015/10/27 07:10:12  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.11  2015/09/28 12:10:20  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.10  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.9  2015/06/29 16:33:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.8  2014/06/09 17:10:23  revo
+Damien Brucker: +trd fr
+
+Revision 1.7  2013/02/04 12:10:28  revo
+Dmitri Gabinski: redakto: +trd be
+
+Revision 1.6  2012/08/19 14:10:12  revo
+Marc Rausell: + trd ca
+
+Revision 1.5  2011/02/12 13:10:15  revo
+-->
+</vortaro>

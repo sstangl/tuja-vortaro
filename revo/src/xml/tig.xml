@@ -1,0 +1,151 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+  <art mrk="$Id: tig.xml,v 1.25 2015/07/04 08:37:44 revo Exp $">
+    <kap>
+      <ofc>8</ofc>
+      <rad>tig</rad>/o
+    </kap>
+    <drv mrk="tig.0o">
+      <kap><tld/>o</kap>
+      <uzo tip="fak">BOT</uzo>
+      <snc>
+ <dif>
+   Parto de <ref tip="malprt" cel="veget.0ajxo">vegeta&jcirc;o</ref>,
+   ordinare stangoforma, kiu tenas aliajn <tld/>ojn,
+   bur&gcirc;onojn, foliojn, kaj florojn:
+   <ekz>
+     precipa <tld/>o <klr>(kiu elkreskas el la radiko kaj
+       portas la flankajn <tld/>ojn)</klr>;
+   </ekz><ekz>
+     <ind>foli<tld/>o</ind> <klr>(kiu portas folion)</klr>;
+     <trdgrp lng="hu">
+       <trd>lev&eacute;lny&eacute;l</trd>,
+       <trd>lev&eacute;lsz&aacute;r</trd>
+     </trdgrp>
+   </ekz><ekz>
+     <ind>flor<tld/>o</ind> <klr>(kiu portas floron a&ubreve;
+     floraron)</klr>,
+     flor<tld/>eto
+     <klr>(kiu portas unuopan floron en infloresko)</klr>;
+     <trd lng="hu">kocs&aacute;ny</trd>
+   </ekz><ekz>
+     <ind>nov<tld/>o</ind> <klr>(kiu portas bur&gcirc;onon;
+     &scirc;oso)</klr>.
+     <trd lng="hu">friss <ind>hajt&aacute;s</ind></trd>
+   </ekz>
+  </dif>
+  <rim>
+   En la komuna lingvo oni ordinare uzas la vorton
+   &leftquot;<tld/>o&rightquot;
+   nur parolante pri nelignaj vegeta&jcirc;oj, &ccirc;e la
+   lignovegeta&jcirc;oj
+   oni preferas &leftquot;trunko&rightquot; kaj
+   &leftquot;bran&ccirc;o&rightquot;, tamen en botaniko trunko
+   kaj bran&ccirc;o estas anka&ubreve; <tld/>oj.
+  </rim>
+  <ref tip="sin" cel="trunk.0eto">trunketo</ref>
+  </snc>
+  <trd lng="be">&c_s;&c_mol;&c_c;&c_ja;&c_b;&c_l;&c_o;</trd>
+  <trd lng="bg">&c_s;&c_t;&c_malmol;&c_b;&c_l;&c_o;</trd>
+  <trd lng="ca">tija</trd>
+  <trdgrp lng="cs">
+    <trd>držák</trd>,
+    <trd>dřík</trd>,
+    <trd>kmen</trd>,
+    <trd>stopka</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+      <trd>Spross</trd>,
+      <trd>St&auml;ngel</trd>,
+      <trd>Halm</trd>,
+      <trd>Stiel<klr tip="ind"> (Pflanze)</klr></trd>,
+      <trd>Schaft<klr tip="ind"> (z.B. L&ouml;wenzahn)</klr></trd>
+    </trdgrp>
+  <trdgrp lng="en">
+      <trd>stem</trd>,
+      <trd>stalk</trd>
+    </trdgrp>
+  <trd lng="es">tallo</trd>
+  <trd lng="fr">tige</trd>
+  <trd lng="hr">stabljika</trd>
+  <trd lng="hu">sz&aacute;r<klr tip="ind"> (n&ouml;v&eacute;nyi)</klr></trd>
+  <trd lng="mk">&c_s;&c_t;&c_je;&c_b;&c_l;&c_o;</trd>
+  <trdgrp lng="nl">
+      <trd>stengel</trd>,
+      <trd>steel<klr tip="ind"> (v.bloem)</klr></trd>,
+      <trd>halm</trd>,
+      <trd>twijg</trd>
+    </trdgrp>
+  <trdgrp lng="pl">
+      <trd>&lstroke;odyga</trd>,
+      <trd>&zacute;d&zacute;b&lstroke;o<klr> (traw)</klr></trd>
+    </trdgrp>
+  <trdgrp lng="pt">
+      <trd>caule</trd>
+    </trdgrp>
+  <trd lng="ru">&c_s;&c_t;&c_je;&c_b;&c_je;&c_l;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>držiak</trd>,
+    <trd>kmeň</trd>,
+    <trd>stopka</trd>
+  </trdgrp>
+  <trd lng="sr">&c_s;&c_t;&c_a;&c_b;&c_l;&c_o;</trd>
+  <trd lng="uk">&c_s;&c_t;&c_je;&c_b;&c_l;&c_o;</trd>
+</drv>
+  </art>
+  <!--
+  $Log: tig.xml,v $
+  Revision 1.25  2015/07/04 08:37:44  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.24  2015/06/29 16:40:19  revo
+  aldono de trd sk per skripto de M. von Laer
+
+  Revision 1.23  2015/06/05 15:10:15  revo
+  Joop Eggen: +trd bg k.a.
+
+  Revision 1.22  2012/08/14 00:10:13  revo
+  Marc Rausell: + trd ca
+
+  Revision 1.21  2011/12/28 23:10:09  revo
+  Eduardo Navas: +trad es
+
+  Revision 1.20  2009/10/24 16:32:08  revo
+  Russ Williams: +trd en
+
+  Revision 1.19  2009/02/10 14:19:45  revo
+  Jozefo Horvath: kor trd hu
+
+  Revision 1.18  2008/12/19 17:30:43  revo
+  Sebastian Cyprych: +trd pl
+
+  Revision 1.17  2006/02/15 17:34:12  revo
+  Tulio Flores: +trd pt
+
+  Revision 1.16  2004/12/01 17:31:50  revo
+  Jozefo Horvath: +trd hu
+
+  Revision 1.15  2004/10/20 16:32:23  revo
+  Wolfram Diestel: germ ort.
+
+  Revision 1.14  2004/09/06 16:38:28  revo
+  Sergio Pokrovskij: TEZ
+
+  Revision 1.13  2003/10/01 16:33:18  revo
+  Philippe Combot: + trd fr
+  Revision 1.12  2002/09/18 16:34:49  revo
+  Christopher Zervic: trd ang
+  Revision 1.11  2002/08/25 19:02:22  revo
+  Dmitri Gabinski: +trd be
+  Revision 1.10  2002/05/15 16:36:36  revo
+  Jozefo Horvath: +trd hu
+  Revision 1.9  2002/03/11 17:34:28  revo
+  Yury Finkel: +trd ru
+  Revision 1.8 2001/12/16 08:30:47 revo
+  Bart Demeyere: "tig" anstatauxigita per <tld/>
+  Revision 1.7 2001/06/07 18:13:45 revo
+  Paul Peeraerts: ald trd nl
+  Revision 1.6 2001/02/18 20:09:10 revo
+  -->
+</vortaro>

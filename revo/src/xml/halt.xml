@@ -1,0 +1,742 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: halt.xml,v 1.37 2015/07/04 08:37:35 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>halt</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="halt.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc>
+    <dif>
+      &Ccirc;esi agi, iri, movi&gcirc;i ktp:
+      <ekz>
+        la soldatoj <tld/>is post longa mar&scirc;ado;
+      </ekz>
+      <ekz>
+        la vagonaro <tld/>as dek minutojn &ccirc;e tiu stacio;
+      </ekz>
+      <ekz>
+        <ind><tld/>u!</ind>
+        <klr>(ne iru plue)</klr>;
+        <trdgrp lng="be">
+          <trd>&c_s;&c_t;&c_o;&c_p;!</trd>,
+          <trd>&c_s;&c_t;&c_o;&c_j;!</trd>
+        </trdgrp>
+        <trdgrp lng="de">
+          <trd>Halt!</trd>,
+          <trd>Stopp!</trd>,
+          <trd>Stop!</trd>
+        </trdgrp>
+        <trdgrp lng="es">
+          <trd>&#161;alto!</trd>,
+          <trd>&#161;para!</trd>,
+          <trd>&#161;pare!</trd>
+        </trdgrp>
+        <trd lng="fr">halte!</trd>
+        <trdgrp lng="hu">
+          <trd>&aacute;llj!</trd>,
+          <trd>stop!</trd>
+        </trdgrp>
+        <trdgrp lng="id">
+          <trd>ber<ind>henti</ind>!</trd>,
+          <trd>stop!</trd>
+        </trdgrp>
+        <trd lng="nl">halt!</trd>
+        <trd lng="pl">st&oacute;j!</trd>
+        <trdgrp lng="ru">
+          <trd>&c_s;&c_t;&c_o;&c_p;!</trd>,
+          <trd>&c_s;&c_t;&c_o;&c_j;!</trd>
+        </trdgrp>
+      </ekz>
+      <ekz>
+        jam de hiera&ubreve; mia horlo&gcirc;o <tld/>is;
+      </ekz>
+      <ekz>
+        kiu tro rapide saltas, tiu balda&ubreve;
+        <tld/>as<fnt><bib>PrV</bib></fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        &scirc;ia rigardo <tld/>is sur unu el ili.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="frost.0igxi">frosti&gcirc;i</ref>,
+      <ref cel="interm.0i">intermiti</ref>,
+      <ref cel="pauxz.0i">pa&ubreve;zi</ref>,
+      <ref cel="ripoz.0i">ripozi</ref>,
+      <ref cel="strik.0i">striki</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_s;&c_p;&c_y;&c_n;&c_ib;&c_c;&c_c;&c_a;</trd>
+  <trdgrp lng="ca">
+    <trd>aturar-se</trd>,
+    <trd>parar-se</trd>
+  </trdgrp>
+  <trd lng="cs">zastavit se</trd>
+  <trdgrp lng="de">
+    <trd><klr tip="ind">(an)</klr>halten</trd>,
+    <trd>anhalten</trd>
+  </trdgrp>
+  <trd lng="en">halt</trd>
+  <trdgrp lng="es">
+    <trd><ind>parar</ind>se</trd>,
+    <trd>cesar</trd>,
+    <trd>hacer una <ind>parada</ind></trd>,
+    <trd>descansar<klr tip="ind"> (hacer una pausa)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>s'<ind>arr&ecirc;ter</ind></trd>,
+    <trd>cesser</trd>,
+    <trd>faire une <ind>halte</ind></trd>,
+    <trd>stopper<klr tip="ind"> (faire un arr&ecirc;t)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>meg&aacute;ll&iacute;t</trd>,
+    <trd>le&aacute;ll&iacute;t</trd>
+  </trdgrp>
+  <trd lng="id">[<ind>henti</ind>] berhenti</trd>
+  <trdgrp lng="nl">
+    <trd>stoppen</trd>,
+    <trd>halt houden</trd>,
+    <trd>stilstaan</trd>
+  </trdgrp>
+  <trd lng="oc">s'arrestar</trd>
+  <trd lng="pl">zatrzyma&cacute; si&eogonek;</trd>
+  <trdgrp lng="pt">
+    <trd>parar</trd>,
+    <trd>deter-se</trd>
+  </trdgrp>
+  <trd lng="ro">a se opri</trd>
+  <trd 
+lng="ru">&c_o;&c_s;&c_t;&c_a;&c_n;&c_o;&c_v;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>
+  <trd lng="sk">zastaviť sa</trd>
+  <trd lng="vo">stop&ouml;n</trd>
+</drv>
+
+<drv mrk="halt.0">
+  <kap><tld/></kap>
+  <gra><vspec>ekkrio</vspec></gra>
+  <snc mrk="halt.0.haltu">
+    <dif>
+      <tld lit="H"/>u, ne iru plu, ne faru:
+      <ekz>
+        &leftquot;<tld/>'!&rightquot; &mdash; &leftquot;Kio estas?&rightquot; &mdash; &leftquot;Risorto rompi&gcirc;is&rightquot;
+        <fnt><aut>L. Beaucaire</aut>, <vrk>Kruko kaj Baniko el 
+        Bervalo</vrk>, <lok>1974</lok></fnt>;
+      </ekz>
+      </dif>
+    <rim>
+    <ekz><tld/>/</ekz> estas ordinara radiko normale uzata kiel
+    verbo:<ekz>
+    <tld lit="H"/>&#8217;! Ne kura&gcirc;u permesi al vi!<fnt>Z</fnt></ekz> =<ekz>
+    <tld lit="H"/>u! Ne kura&gcirc;u... </ekz>&Ccirc;i tie Z. uzis &gcirc;in kiel <ref
+    tip="dif" cel="kri.ek0o">ekkrian</ref> vorton, kaj skribis
+    apostrofon, kvaza&ubreve; temus pri ellasita O-fina&jcirc;o.
+    Pli bone estas
+    skribi <ekz><tld lit="H"/>!</ekz> (sen apostrofo), &ccirc;ar temas pri
+    ekkria uzo
+    de nuda
+    radiko<fnt><bib>PMEG</bib></fnt>.
+    </rim>
+  </snc>
+  <trdgrp lng="fr">
+    <trd>arr&ecirc;tez !</trd>,
+    <trd>hol&agrave; !</trd>,
+    <trd>stop !</trd>
+  </trdgrp>
+  <trdgrp lng="id">
+    <trd>ber<ind>henti</ind>!</trd>,
+    <trd>stop!</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="halt.0o">
+  <kap><tld/>o</kap>
+  <snc>
+    <dif>
+      Ago <tld/>i, stato de <tld/>into; momento, kiam oni ne plu agas,
+      iras, movi&gcirc;as ktp:
+      <ekz>
+        doni fura&gcirc;on al sia azeno dum la nokta <tld/>o
+        <fnt><bib>MT</bib>, <lok>&Gen; 42:27</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_p;&c_y;&c_n;&c_je;&c_n;&c_mol;&c_n;&c_je;</trd>
+  <trdgrp lng="cs">
+    <trd>zadržení</trd>,
+    <trd>zastavení</trd>,
+    <trd>zástava</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Halten</trd>,
+    <trd>Stoppen</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>alto</trd>,
+    <trd>parada</trd>
+  </trdgrp>
+  <trd lng="fr">halte<klr tip="ind"> (action, &eacute;tat, moment)</klr></trd>
+  <trd lng="hu">meg&aacute;ll&aacute;s</trd>
+  <trd lng="id">[<ind>henti</ind>] perhentian</trd>
+  <trd lng="pl">post&oacute;j</trd>
+  <trd lng="pt">parada<klr tip="amb"> (a&ccedil;&atilde;o)</klr></trd>
+  <trdgrp lng="ro">
+    <trd>oprire</trd>,
+    <trd>re&tcedil;inere temporar&abreve;</trd>,
+    <trd>sta&tcedil;ionare</trd>
+  </trdgrp>
+  <trd lng="ru">&c_o;&c_s;&c_t;&c_a;&c_n;&c_o;&c_v;&c_k;&c_a;<klr tip="amb"> (&c_d;&c_je;&c_j;&c_s;&c_t;&c_v;&c_i;&c_je;, &c_s;&c_o;&c_s;&c_t;&c_o;&c_ja;&c_n;&c_i;&c_je;,
+  &c_m;&c_o;&c_m;&c_je;&c_n;&c_t;)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>pokoj</trd>,
+    <trd>ustálenie</trd>,
+    <trd>zastavenie</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="halt.0adi">
+  <kap><tld/>adi</kap>
+  <snc>
+    <dif>
+      Restadi <tld/>ante:
+      <ekz>
+        la policanoj kriis al la homamaso: ne <tld/>adu!
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_t;&c_a;&c_ja;&c_c;&c_mol; <klr>(&c_s;&c_p;&c_y;&c_n;&c_ib;&c_w;&c_sh;&c_y;&c_s;&c_ja;)</klr></trd>
+  <trd lng="cs">zastavovat se</trd>
+  <trdgrp lng="de">
+    <trd>Halten</trd>,
+    <trd>Stehen</trd>
+  </trdgrp>
+  <trd lng="es">estacionar<klr tip="ind"> (intr., permanecer un cierto
+  tiempo)</klr></trd>
+  <trd lng="fr">stationner<klr tip="ind"> (intr., rester un certain
+  temps)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>&aacute;ll<klr tip="ind"> (egy ideig)</klr></trd>,
+    <trd>tart&oacute;zkodik</trd>
+  </trdgrp>
+  <trd lng="pl">przystawa&cacute;</trd>
+  <trd lng="ru">&c_s;&c_t;&c_o;&c_ja;&c_t;&c_mol; <klr>(&c_o;&c_s;&c_t;&c_a;&c_n;&c_o;&c_v;&c_i;&c_v;&c_sh;&c_i;&c_s;&c_mol;)</klr></trd>
+  <trd lng="sk">zastavovať sa</trd>
+</drv>
+
+<drv mrk="halt.0ejo">
+  <kap><tld/>ejo</kap>
+  <snc mrk="halt.0ejo.KOMUNE">
+    <dif>
+      Loko, kie oni <tld/>as:
+      <ekz>
+        se li iros per buso, <klr>...</klr> ni devos kune atendi &ccirc;e la
+        <tld/>ejo
+        <fnt><bib>Gerda</bib>, <lok>&ccirc;apitro 8a</lok></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="etap.0o">etapo</ref>,
+      <ref cel="staci.0o">stacio</ref>,
+      <ref cel="stadi.0o.haltejo">stadio <sncref/></ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_r;&c_y;&c_p;&c_y;&c_n;&c_a;&c_k;</trd>,
+    <trd>&c_s;&c_t;&c_a;&c_ja;&c_n;&c_k;&c_a;</trd>
+  </trdgrp>
+  <trd lng="cs">zastávka</trd>
+  <trdgrp lng="de">
+    <trd>Haltestelle</trd>,
+    <trd>Haltepunkt</trd>,
+    <trd>Halteplatz</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>parada</trd>,
+    <trd>lugar de parada</trd>
+  </trdgrp>
+  <trd lng="fr">halte<klr tip="ind"> (lieu de halte)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>meg&aacute;ll&oacute;</trd>,
+    <trd>meg&aacute;ll&oacute;hely</trd>
+  </trdgrp>
+  <trd lng="id">halte</trd>
+  <trd lng="nl">halte</trd>
+  <trd lng="pl">przystanek</trd>
+  <trd lng="pt">parada<klr tip="amb"> (lugar)</klr></trd>
+  <trd lng="ro">sta&tcedil;ie</trd>
+  <trdgrp lng="ru">
+    <trd>&c_o;&c_s;&c_t;&c_a;&c_n;&c_o;&c_v;&c_k;&c_a;<klr tip="amb"> (&c_m;&c_je;&c_s;&c_t;&c_o;)</klr></trd>,
+    <trd>&c_s;&c_t;&c_o;&c_ja;&c_n;&c_k;&c_a;</trd>
+  </trdgrp>
+  <trd lng="sk">zastávka</trd>
+</drv>
+
+<drv mrk="halt.0igi">
+  <kap><tld/>igi</kap>
+  <snc>
+    <dif>
+      &Ccirc;esigi agi, iri, movi&gcirc;i ktp:
+      <ekz>
+        <tld/>igi veturilon, vagonaron, trupon, &ccirc;evalon,
+        ma&scirc;inon, larmojn, propagandon;
+      </ekz>
+      <ekz>
+        li <tld/>igis iun pasanton, por demandi lin pri la vojo;
+      </ekz>
+      <ekz>
+        la ekkrioj <tld/>igis la oratoron;
+      </ekz>
+      <ekz>
+        li kuris al la abismo kaj oni ne <tld/>igis lin.
+      </ekz>
+    </dif>
+  </snc>
+  <snc>
+    <dif>
+      Senmovigi, fiksi:
+      <ekz>
+        <tld/>igi sian rigardon sur iu, io;
+      </ekz>
+      <ekz>
+        <tld/>igi la spiron.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="parali.0i">paralizi</ref>
+  </snc>
+  <trd lng="be">&c_s;&c_p;&c_y;&c_n;&c_ib;&c_c;&c_mol;</trd>
+  <trdgrp lng="ca">
+    <trd>aturar</trd>,
+    <trd>parar</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>podržet</trd>,
+    <trd>pozastavit</trd>,
+    <trd>stavět</trd>,
+    <trd>zadržet <klr>(někoho,něco)</klr></trd>,
+    <trd>zastavit</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd><klr tip="ind">(jmd.)</klr> anhalten</trd>,
+    <trd><klr tip="ind">(jmd.)</klr> stoppen</trd>,
+    <trd><klr tip="ind">(jmd.)</klr> unterbrechen</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>detener</trd>,
+    <trd>fijar</trd>,
+    <trd>inmovilizar</trd>,
+    <trd>parar</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>arr&ecirc;ter</trd>,
+    <trd>fixer</trd>,
+    <trd>immobiliser</trd>,
+    <trd>stopper<klr tip="ind"> (tr.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>meg&aacute;ll&iacute;t</trd>,
+    <trd>le&aacute;ll&iacute;t</trd>
+  </trdgrp>
+  <trd lng="id">[<ind>henti</ind>] menghentikan</trd>
+  <trdgrp lng="nl">
+    <trd>stopzetten</trd>,
+    <trd>doen <ind>stoppen</ind></trd>
+  </trdgrp>
+  <trd lng="oc">arrestar</trd>
+  <trdgrp lng="pl">
+    <trd>wstrzyma&cacute;</trd>,
+    <trd>zatrzyma&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>parar</trd>,
+    <trd>fazer <ind>parar</ind></trd>
+  </trdgrp>
+  <trd lng="ro">a opri</trd>
+  <trd lng="ru">&c_o;&c_s;&c_t;&c_a;&c_n;&c_o;&c_v;&c_i;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>zadržať <klr>(niekoho, niečo)</klr></trd>,
+    <trd>zastaviť</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="halt.0igilo">
+  <kap><tld/>igilo</kap>
+  <snc>
+    <dif>
+      Ilo por <tld/>igi:
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        tio estis <tld/>igilo por lia fervoro.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="brid.0o">brido</ref>
+  </snc>
+  <snc>
+    <uzo tip="klr">(de veturilo)</uzo>
+    <ref tip="dif" cel="brems.0o">bremso</ref>
+  </snc>
+  <trd lng="be">&c_t;&c_o;&c_r;&c_m;&c_a;&c_z;</trd>
+  <trd lng="cs">kolejová zábrana</trd>
+  <trd lng="de">Bremse</trd>
+  <trdgrp lng="es">
+    <trd>freno</trd>,
+    <trd>traba</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>frein</trd>,
+    <trd>entrave</trd>
+  </trdgrp>
+  <trd lng="hu">f&eacute;k</trd>
+  <trd lng="id">rem</trd>
+  <trd lng="nl">rem</trd>
+  <trd lng="pl">hamulec</trd>
+  <trd lng="pt">freio</trd>
+  <trd lng="ro">fr&acirc;n&abreve;</trd>
+  <trd lng="ru">&c_t;&c_o;&c_r;&c_m;&c_o;&c_z;</trd>
+  <trd lng="sk">koľajová zábrana</trd>
+</drv>
+
+<drv mrk="halt.0igsxuo">
+  <kap><tld/>ig&scirc;uo</kap>
+  <snc>
+    <dif>
+      Ligna a&ubreve; fera peco, servanta por <tld/>igi per frotpremado sur
+      la rado.
+    </dif>
+  </snc>
+  <trd lng="de">Bremsschuh</trd>
+  <trdgrp lng="es">
+    <trd><ind>zapata</ind> de freno</trd>,
+    <trd><ind>pastilla</ind> de freno</trd>
+  </trdgrp>
+  <trd lng="fr">patin<klr tip="ind"> (de frein)</klr></trd>
+  <trd lng="hu">f&eacute;kpofa</trd>
+  <trd lng="id"><ind>rem</ind> blok</trd>
+  <trd lng="nl">remblok</trd>
+  <trd lng="pt">pastilha de <ind>freio</ind></trd>
+  <trd lng="ru">&c_t;&c_o;&c_r;&c_m;&c_o;&c_z;&c_n;&c_o;&c_j; 
+&c_b;&c_a;&c_sh;&c_m;&c_a;&c_k;</trd>
+</drv>
+
+<drv mrk="halt.antaux0igi">
+  <kap>anta&ubreve;<tld/>igi</kap>
+  <snc>
+    <dif>
+      Malhelpi, ke iu evitinda&jcirc;o okazu:
+      <ekz>
+        anta&ubreve;<tld/>igi la revenon de malsano.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      Preska&ubreve;aj sinonimoj:
+      <ref cel="for.antaux0igi">anta&ubreve;forigi</ref>,
+      <ref cel="help.antauxmal0i">anta&ubreve;malhelpi</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_r;&c_a;&c_d;&c_u;&c_h;&c_ib;&c_l;&c_ib;&c_c;&c_mol;</trd>,
+    <trd>&c_p;&c_a;&c_p;&c_ja;&c_r;&c_e;&c_d;&c_z;&c_ib;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>verh&uuml;ten</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>impedir<klr tip="ind"> (prevenir)</klr></trd>,
+    <trd>prevenir<klr tip="ind"> (evitar)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>emp&ecirc;cher<klr tip="ind"> (pr&eacute;venir)</klr></trd>,
+    <trd>pr&eacute;venir<klr tip="ind"> (&eacute;viter)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>megel&odblac;z<klr tip="ind"> (rosszat)</klr></trd>,
+    <trd>id&odblac;ben <ind>le&aacute;ll&iacute;t</ind></trd>
+  </trdgrp>
+  <trd lng="id">[<ind>cegah</ind>] mencegah</trd>
+  <trd lng="nl">voork&oacute;men</trd>
+  <trdgrp lng="pl">
+    <trd>powstrzyma&cacute;</trd>,
+    <trd>zapobiega&cacute;</trd>
+  </trdgrp>
+  <trd lng="pt">prevenir</trd>
+  <trd 
+lng="ru">&c_p;&c_r;&c_je;&c_d;&c_o;&c_t;&c_v;&c_r;&c_a;&c_t;&c_i;&c_t;&c_mol;</trd>
+</drv>
+
+<drv mrk="halt.auxtobus0ejo">
+  <kap>a&ubreve;tobus<tld/>ejo</kap>
+  <uzo tip="fak">TRA</uzo>
+  <uzo tip="stl">RAR</uzo>
+  <snc>
+    <ref tip="dif" cel="halt.bus0ejo">bus<tld/>ejo</ref>
+  </snc>
+  <trd lng="de">Bushaltestelle</trd>
+  <trd lng="es">parada de autob&uacute;s</trd>
+  <trd lng="id"><ind>halte</ind> bus</trd>
+  <trd lng="pl">przystanek autobusowy</trd>
+  <trd lng="pt">parada de &ocirc;nibus</trd>
+  <trd lng="ro">sta&tcedil;ie de autobuz</trd>
+</drv>
+
+<drv mrk="halt.bus0ejo">
+  <kap>bus<tld/>ejo</kap>
+  <snc mrk="halt.bus0ejo.KOMUNE">
+    <dif>
+      <ref tip="super" cel="halt.0ejo"><tld lit="H"/>ejo</ref>, kie
+      buso haltas.
+    </dif>
+  </snc>
+  <snc mrk="halt.bus0ejo.TRA">
+    <uzo tip="fak">TRA</uzo>
+    <dif>
+      <ref tip="super" cel="halt.0ejo"><tld lit="H"/>ejo</ref>
+      difinita la&ubreve; itinero, kie buso haltas por preni a&ubreve;
+      lasi la pasa&gcirc;erojn:
+      <ekz>
+        mi iras kune kun la aliaj al la bus<tld/>ejo, kaj ni
+        enbusi&gcirc;as
+        <fnt><aut>U. Matthias</aut><vrk>Fajron sentas mi
+        interne</vrk>, <lok>1990</lok></fnt>.
+      </ekz>
+    </dif>
+    <rim>
+      Temas pri busoj, kiuj veturas ene de unu sama urbo a&ubreve;
+      inter proksimaj urboj. La busoj, kiuj veturas inter foraj urboj,
+      ne uzas bus<tld/>ejon sed <ref cel="staci.bus0o">busstacion</ref>.
+    </rim>
+    <trd lng="pt">ponto de &ocirc;nibus</trd>
+  </snc>
+  <trd lng="de">Bushaltestelle</trd>
+  <trd lng="es">parada de autob&uacute;s</trd>
+  <trd lng="id"><ind>halte</ind> bus</trd>
+  <trd lng="pl">przystanek autobusowy</trd>
+  <trd lng="pt">parada de &ocirc;nibus</trd>
+  <trd lng="ro">sta&tcedil;ie de autobuz</trd>
+</drv>
+
+<drv mrk="halt.metro0ejo">
+  <kap>metro<tld/>ejo</kap>
+  <uzo tip="stl">RAR</uzo>
+  <snc mrk="halt.metro0ejo.TRA">
+    <uzo tip="fak">TRA</uzo>
+    <ref tip="dif" cel="staci.metro0o">metrostacio</ref>
+    <ekz>
+      en &ccirc;iu metro<tld/>ejo kaj en preska&ubreve; &ccirc;iu
+      vendejo staras ornamita Kristnaska arbo
+      <fnt>
+        <aut>B. Wennergren</aut>,
+        <vrk>Kristnaska&jcirc;oj</vrk>,
+        <lok><url ref="http://bertilow.com/blogo/index.php?p=38">
+        BBBlogo</url></lok>
+      </fnt>;
+    </ekz>
+    <ekz>
+      la plej proksima metro<tld/>ejo estas Quincy
+      <fnt>
+        <aut>Esperanto Society of Chicago</aut>,
+        <vrk>Bonvenon en &Ccirc;ikago!</vrk>,
+        <lok><url ref="http://www.esperanto-chicago.org/indexesp.htm">
+        Bonvenon en &Ccirc;ikago!</url></lok>
+      </fnt>.
+    </ekz>
+    <rim mrk="halt.metro0ejo.RIM">
+      Teorie povas ekzisti senca diferenco inter
+      <ctl>metro<tld/>ejo</ctl>
+      kaj <ctl>metrostacio</ctl>, sed praktike, &ccirc;iuj metroaj
+      <tld/>ejoj estas stacioj; la uz-ekzemploj malmultas.
+    </rim>
+  </snc>
+  <trdgrp lng="de">
+    <trd>U-Bahnhof</trd>,
+    <trd>U-Bahn-Station</trd>
+  </trdgrp>
+  <trd lng="es">estaci&oacute;n de metro</trd>
+  <trd lng="id"><ind>stasiun</ind> metro</trd>
+  <trd lng="pl">stacja metra</trd>
+  <trd lng="pt">parada de metr&ocirc;</trd>
+  <trd lng="ro">sta&tcedil;ie de metrou</trd>
+</drv>
+
+<drv mrk="halt.sen0a">
+  <kap>sen<tld/>a</kap>
+  <snc>
+    <dif>
+      Sen&ccirc;esa, seninterrompa:
+      <ekz>
+        sen<tld/>a laborado;
+      </ekz>
+      <ekz>
+        sen<tld/>a vagonaro
+        <klr>(kiu iras rekte al la destinita loko, ne <tld/>ante
+        dumvoje)</klr>;
+      </ekz>
+      <ekz>
+        sen<tld/>e propagandi;
+      </ekz>
+      <ekz>
+        nia afero kreskas regule kaj sen<tld/>e
+        <fnt><bib>Paroloj</bib></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="dauxr.0a">da&ubreve;ra</ref>,
+      <ref cel="konsta.0a">konstanta</ref>,
+      <ref cel="kontin3.0a">kontinua</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_b;&c_je;&c_s;&c_mol;&c_p;&c_je;&c_r;&c_a;&c_p;&c_y;&c_n;&c_n;&c_y;</trd>,
+    <trd>&c_b;&c_je;&c_z;&c_u;&c_p;&c_y;&c_n;&c_n;&c_y;</trd>,
+    <trd>&c_p;&c_a;&c_s;&c_t;&c_a;&c_ja;&c_n;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>nepřetržitý</trd>,
+    <trd>neutuchající</trd>,
+    <trd>nezastavující</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>ununterbrochen</trd>,
+    <trd>ohne <ind>Unterbrechung</ind></trd>,
+    <trd>durchgehend</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>continuo</trd>,
+    <trd>ininterrumpido</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>sans <ind>arr&ecirc;t</ind></trd>,
+    <trd>continuel</trd>,
+    <trd>incessant</trd>,
+    <trd>sans <ind>interruption</ind></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>meg&aacute;ll&aacute;s n&eacute;lk&uuml;li</trd>,
+    <trd>szakadatlan</trd>
+  </trdgrp>
+  <trd lng="id">kontinu</trd>
+  <trd lng="nl">ononderbroken</trd>
+  <trdgrp lng="pl">
+    <trd>bezustanny</trd>,
+    <trd>nieustanny</trd>
+  </trdgrp>
+  <trd lng="pt">direto<klr tip="ind"> (que n&atilde;o faz parada;
+  adj.)</klr></trd>
+  <trd lng="ro">f&abreve;r&abreve; oprire</trd>
+  <trd lng="ru">&c_b;&c_je;&c_z;&c_o;&c_s;&c_t;&c_a;&c_n;&c_o;&c_v;&c_o;&c_ch;&c_n;&c_y;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>nezadržateľný</trd>,
+    <trd>nezastaviteľný</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="halt.auxtobusa0ejo">
+  <kap>a&ubreve;tobusa <tld/>ejo</kap>
+  <uzo tip="stl">RAR</uzo>
+  <snc mrk="halt.auxtobusa0ejo.TRA">
+    <uzo tip="fak">TRA</uzo>
+    <ref tip="dif" cel="halt.bus0ejo">bus<tld/>ejo</ref>
+    <ekz>
+      &ccirc;e mia a&ubreve;tobusa <tld/>ejo estis strange vidi
+      novan viron apud mi
+      <fnt><aut>S. &Scirc;timec</aut><vrk>Ombro sur interna
+      pejza&gcirc;o</vrk>, <lok>1996</lok></fnt>.
+    </ekz>
+  </snc>
+  <trd lng="de">Bushaltestelle</trd>
+  <trd lng="es">parada de autob&uacute;s</trd>
+  <trd lng="id"><ind>halte</ind> bus</trd>
+  <trd lng="pl">przystanek autobusowy</trd>
+  <trd lng="pt">parada de &ocirc;nibus</trd>
+  <trd lng="ro">sta&tcedil;ie de autobuz</trd>
+</drv>
+
+<drv mrk="halt.busa0ejo">
+  <kap>busa <tld/>ejo</kap>
+  <uzo tip="stl">RAR</uzo>
+  <snc mrk="halt.busa0ejo.TRA">
+    <uzo tip="fak">TRA</uzo>
+    <ref tip="dif" cel="halt.bus0ejo">bus<tld/>ejo</ref>
+    <ekz>
+      estis specialaj benkoj en busa <tld/>ejo
+      <fnt><aut>I. Ilf, E. Petrov, trad. V. Okc</aut>
+      <vrk>Unueta&gcirc;a Usono</vrk>, <lok>2003</lok></fnt>.
+    </ekz>
+  </snc>
+  <trd lng="de">Bushaltestelle</trd>
+  <trd lng="es">parada de autob&uacute;s</trd>
+  <trd lng="id"><ind>halte</ind> bus</trd>
+  <trd lng="pl">przystanek autobusowy</trd>
+  <trd lng="pt">parada de &ocirc;nibus</trd>
+  <trd lng="ro">sta&tcedil;ie de autobuz</trd>
+</drv>
+
+<drv mrk="halt.metroa0ejo">
+  <kap>metroa <tld/>ejo</kap>
+  <uzo tip="stl">RAR</uzo>
+  <snc mrk="halt.metroa0ejo.TRA">
+    <uzo tip="fak">TRA</uzo>
+    <ref tip="dif" cel="staci.metro0o">metrostacio</ref>
+    <ekz>
+      situanta 100 m sude de la indikita metroa <tld/>ejo
+      <fnt>
+        <aut>Vancouver Esperanto Society</aut>,
+        <vrk>Grupo en Vancouver, BC (Kanado)</vrk>,
+        <lok><url
+        ref="http://www.esperantoland.org/grupoj/leggrupo.php?grid=41&amp;R=6">
+        Esperanto-grupoj</url></lok>
+      </fnt>.
+    </ekz>
+    <rim>
+      Vd rimarkon sub <ref
+      cel="halt.metro0ejo.RIM">metro<tld/>ejo</ref>.
+    </rim>
+  </snc>
+  <trdgrp lng="de">
+    <trd>U-Bahnhof</trd>,
+    <trd>U-Bahn-Station</trd>
+  </trdgrp>
+  <trd lng="es">parada de metro</trd>
+  <trd lng="id"><ind>stasiun</ind> metro</trd>
+  <trd lng="pl">stacja metra</trd>
+  <trd lng="pt">parada de metr&ocirc;</trd>
+  <trd lng="ro">sta&tcedil;ie de metrou</trd>
+</drv>
+</art>
+<!--
+$Log: halt.xml,v $
+Revision 1.37  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.36  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.35  2014/10/28 04:11:02  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.34  2014/07/28 16:10:12  revo
+Guillermo Molleda Jimena: Hispana tradukado
+
+Revision 1.33  2014/06/27 16:10:11  revo
+Damien Brucker: +ekz
+
+Revision 1.32  2014/02/18 13:10:32  revo
+Damien Brucker: +rim
+
+Revision 1.31  2013/10/08 14:10:12  revo
+Benito Subejrano: + trd ca oc
+
+Revision 1.30  2011/01/31 15:10:13  revo
+Jeromo Vasxe: + ~
+
+Revision 1.29  2010/07/05 16:30:24  revo
+Agustin Garcia Lopez: +trd es
+
+Revision 1.28  2007/07/04 16:30:32  revo
+-->
+</vortaro>

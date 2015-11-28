@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: rubidi.xml,v 1.17 2015/07/04 08:37:43 revo Exp $">
+<kap>
+  <rad>rubidi</rad>/o
+</kap>
+<mlg>Rb</mlg>
+<drv mrk="rubidi.0o">
+  <kap><tld/>o</kap>
+  <mlg kod="IUPAC">Rb</mlg>
+  <uzo tip="fak">KEM</uzo>
+  <snc>
+    <dif>
+      &Hcirc;emia <ref tip="lst" cel="elemen.0o.KEM"
+      lst="voko:&hcirc;emiaj_elementoj" val="37">elemento</ref> kun
+      atomnumero 37, atompezo 85,47;
+      alkala <ref tip="super" cel="metal.0o">metalo</ref>.
+    </dif>
+  </snc>
+  <trd lng="be">&c_r;&c_u;&c_b;&c_ib;&c_d;&c_y;&c_j;</trd>
+  <trd lng="bg">&c_r;&c_u;&c_b;&c_i;&c_d;&c_i;&c_j;</trd>
+  <trd lng="br">rubidiom</trd>
+  <trd lng="ca">rubidi</trd>
+  <trdgrp lng="cs">
+    <trd>Rb</trd>,
+    <trd>rubidium</trd>
+  </trdgrp>
+  <trd lng="de">Rubidium</trd>
+  <trd lng="en">rubidium</trd>
+  <trd lng="es">rubidio</trd>
+  <trd lng="fr">rubidium</trd>
+  <trd lng="hu">rub&iacute;dium</trd>
+  <trd lng="id">rubidium</trd>
+  <trd lng="it">rubidio</trd>
+  <trd lng="la">Rubidium</trd>
+  <trd lng="nl">rubidium</trd>
+  <trd lng="pl">rubid</trd>
+  <trd lng="pt">rub&iacute;dio</trd>
+  <trd lng="ru">&c_r;&c_u;&c_b;&c_i;&c_d;&c_i;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>Rb</trd>,
+    <trd>rubídium</trd>
+  </trdgrp>
+  <trd lng="sv">rubidium</trd>
+</drv>
+</art>
+<!--
+$Log: rubidi.xml,v $
+Revision 1.17  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.15  2014/06/04 03:10:27  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.14  2014/01/30 17:10:24  revo
+Joop Eggen: +trd bg
+
+Revision 1.13  2013/09/15 19:10:24  revo
+Wolfram Diestel: simb. laux IUPAC, val
+
+Revision 1.12  2013/08/25 07:10:54  revo
+Wolfram Diestel: referenco al listo elementoj
+
+Revision 1.11  2010/10/25 16:31:01  revo
+Jerano Zachrisson: +trd sv
+
+Revision 1.10  2006/06/06 16:31:58  revo
+Sebastian Cyprych: +trd pl,la +frm
+
+Revision 1.9  2006/01/04 17:31:39  revo
+H. Neal Parker: +trd it,pt; alkalia->alkala
+
+Revision 1.8  2005/04/16 16:33:47  revo
+-->
+</vortaro>

@@ -1,0 +1,280 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: strukt.xml,v 1.33 2015/07/04 08:37:44 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>struktur</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="strukt.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="strukt.0o.konstruo">
+    <dif>
+      Maniero, la&ubreve; kiu estas kunaran&gcirc;itaj la diversaj partoj de
+      tuta&jcirc;o:
+      <ekz>
+        <tld/>o de konstrua&jcirc;o, ma&scirc;ino, organismo, &hcirc;emia substanco;
+      </ekz>
+      <ekz>
+        konservas e&ccirc; karbo la <tld/>on de l' arbo
+        <fnt><bib>PrV</bib></fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        <ind>bel<tld/>a</ind> viro.
+        <trd lng="de">gut gebaut</trd>
+        <trd lng="fr">bien <ind>charpent&eacute;</ind></trd>
+        <trd lng="hu">j&oacute;v&aacute;g&aacute;s&uacute;</trd>
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="konstr.0o">konstruo</ref>,
+      <ref cel="arangx">aran&gcirc;o</ref>,
+    </refgrp>
+    <ref tip="sub" cel="skem.0o">skemo</ref>
+  </snc>
+  <snc mrk="strukt.0o.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>MatVort</bib></fnt>
+    <uzo tip="klr">(fakula &jcirc;argono)</uzo>
+    <dif>
+      Tuto de la <ref cel="rilat.0o.MAT">rilatoj</ref>,
+      <ref cel="operac.0o.MAT">operacioj</ref>,
+      <ref cel="topolo.0o.strukturo">topologioj</ref> ks,
+      per kiuj oni provizas <ref cel="ar.0o.MAT">aron</ref> por doni al
+      &gcirc;i interesajn matematikajn ecojn; alternative, oni nomas
+      <tld/>o anka&ubreve; la tiamaniere provizitan aron kaj la tuton de
+      &gcirc;iaj ecoj:
+      <ekz>
+        provizite per adicio kaj multipliko, la aro de
+        <ref cel="polino.0o">polinomoj</ref> havas ringan <tld/>on;
+      </ekz>
+      <ekz>
+        <ref cel="metrik.0o.MAT">metriko</ref> donas al aro topologian
+        <tld/>on, sed ne &ccirc;iu topologia spaco havas metrikan <tld/>on;
+      </ekz>
+      <ekz>
+        kian <tld/>on havas la aro de <ref
+        cel="frakci.0o.MAT">frakcioj</ref>
+        super la polinomringo?
+      </ekz>
+    </dif>
+    <refgrp tip="sub">
+      <ref cel="strukt.algebra0o">algebra <tld/>o</ref>,
+      <ref cel="strukt.topologia0o">topologia <tld/>o</ref>.
+    </refgrp>
+    <trd lng="en">structure</trd>
+    <trd lng="hu">strukt&uacute;ra</trd>    
+    <trd lng="pl">struktura</trd>
+    <trd lng="ru">&c_s;&c_t;&c_r;&c_u;&c_k;&c_t;&c_u;&c_r;&c_a;</trd>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_t;&c_r;&c_u;&c_k;&c_t;&c_u;&c_r;&c_a;</trd>, 
+    <trd>&c_l;&c_a;&c_d;</trd>, 
+    <trd>&c_p;&c_a;&c_b;&c_u;&c_d;&c_o;&c_v;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>skladba</trd>,
+    <trd>složení</trd>,
+    <trd>struktura</trd>,
+    <trd>uspořádání</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Struktur</trd>,
+    <trd>Aufbau</trd>
+  </trdgrp>
+  <trd lng="fr">structure</trd>
+  <trdgrp lng="hu">
+    <trd>szerkezet</trd>,
+    <trd>strukt&uacute;ra</trd>,
+    <trd>fel&eacute;p&iacute;t&eacute;s</trd>
+  </trdgrp>
+  <trd lng="nl">structuur</trd>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_t;&c_r;&c_u;&c_k;&c_t;&c_u;&c_r;&c_a;</trd>,
+    <trd>&c_s;&c_t;&c_r;&c_o;&c_je;&c_n;&c_i;&c_je;</trd>,
+    <trd>&c_u;&c_s;&c_t;&c_r;&c_o;&c_j;&c_s;&c_t;&c_v;&c_o;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>vnútorná stavba</trd>,
+    <trd>zloženie</trd>,
+    <trd>štruktúra</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="strukt.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="strukt.0i.KOMUNE">
+    <dif>
+      Provizi per <tld/>o,
+      <ref tip="vid" cel="arangx.0i">aran&gcirc;i</ref> la&ubreve; <tld/>o,
+      <ref tip="vid" cel="organi2.0i">organizi</ref>:
+      <ekz>
+        se vi laboras pri plurilingva terminaro, <tld/>u la
+        nocio-sistemojn
+        <fnt>
+          <aut>H. Suonuuti, trad. S. Fiedler</aut>,
+          <vrk><url ref="http://www.esperanto.net/tec/suonuuti.html">
+          Terminologia Gvidilo</url></vrk>,
+          <lok>1998</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>složit</trd>,
+    <trd>strukturovat</trd>,
+    <trd>účelně uspořádat</trd>
+  </trdgrp>
+  <trd lng="de">strukturieren</trd>
+  <trd lng="fr">structurer</trd>
+  <trdgrp lng="sk">
+    <trd>usporiadať</trd>,
+    <trd>štruktúrovať</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="strukt.0ismo">
+  <kap><tld/>ismo</kap>
+  <snc mrk="strukt.0ismo.FIL">
+    <uzo tip="fak">FIL</uzo>
+    <dif>
+      Filozofia kaj homscienca skolo, kiu analizas
+      siajn objektojn kiel strukturojn el interrilataj
+      eroj, populara en la 20a jarcento:
+      <ekz>
+        Claude L&eacute;vi-Strauss <klr>...</klr> estis Franca antropologo 
+        kies laboro en etnologio estigis la evoluadon de <tld/>ismo
+        kiel metodo por kompreni socion kaj kulturon
+        <fnt>
+          <aut>L. G. Restrepo Rivas</aut>,
+          <vrk><url
+          ref="http://skribitaj-pensoj.blogspot.com/2009/11/claude-levi-strauss.html">
+          skribitaj pensoj</url></vrk>,
+          <lok>2009-11-08</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">structuralisme</trd>
+</drv>
+
+<drv mrk="strukt.re0i">
+  <kap>re<tld/>i, <var><kap>ali<tld/>i</kap></var></kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="strukt.re0i.KOMUNE">
+    <dif>
+      &Scirc;an&gcirc;i la <tld/>on, rearan&gcirc;i:
+      <ekz>
+        li ali<tld/>is siajn gazet-entreprenojn maldungante kvin mil 
+        salajrulojn
+        <fnt>
+          <aut>M. B&eacute;nilde, trad. V. Lutermano</aut>,
+          <vrk><url ref="http://eo.mondediplo.com/article1269.html">
+          Predistoj de gazetoj...</url></vrk>, 
+          <lok>le Monde diplomatique, 2007-08</lok>
+        </fnt>
+      </ekz>
+      <ekz>
+        mi re<tld/>is, prilaboris kaj kompletigis la literaturliston
+        <fnt><aut>B. Wennergren</aut>, <vrk>[PMEG] Plena Manlibro de 
+        Esperanta Gramatiko</vrk>, <lok>2010</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="de">
+    <trd>umstrukturieren</trd>,
+    <trd>restrukturieren</trd>
+  </trdgrp>
+  <trd lng="fr">restructurer</trd>
+</drv>
+
+<drv mrk="strukt.algebra0o">
+  <kap>algebra <tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>MatVort</bib><lok>1952</lok></fnt>
+  <snc>
+    <dif>
+      <ref tip="super" cel="ar.0o.MAT">Aro</ref>, konsiderata kune kun
+      almena&ubreve; unu <ref cel="operac.0o.MAT">operacio</ref> en &gcirc;i:
+      <ekz>
+        algebran <tld/>on oni ofte signas per opo de la tipo
+        <frm>(<g>E</g>,&#8224;,&#9830;)</frm>,
+        kies unua termo montras la aron kaj la pluaj la operaciojn.
+      </ekz>
+    </dif>
+    <refgrp tip="sub">
+      Kelkaj rimarkindaj algebraj strukturoj: 
+      <ref cel="latis.0o.MAT">latiso</ref>,
+      <ref cel="algebr.bulea0o.strukturo">bulea algebro</ref>;
+      <ref cel="grupoi.0o">grupoido</ref>,
+      <ref cel="grup.duon0o">duongrupo</ref>,
+      <ref cel="monoid.0o">monoido</ref>,
+      <ref cel="grup.0o.MAT">grupo</ref>,
+      <ref cel="ring.0o.MAT">ringo</ref>,
+      <ref cel="korp.0o.MAT">korpo</ref>,
+      <ref cel="modul.0o.strukt">modulo</ref>,
+      <ref cel="spac.vektora0o">vektora spaco</ref>,
+      <ref cel="spac.afina0o">afina spaco</ref>,
+      <ref cel="algebr.lineara0o.strukturo">lineara algebro</ref>.
+    </refgrp>
+  </snc>
+  <trd lng="de">algebraische <ind>Struktur</ind></trd>
+  <trd lng="en">algebraic <ind>structure</ind></trd>
+  <trd lng="fr">structure alg&eacute;brique</trd>
+  <trd lng="hu">algebrai <ind>strukt&uacute;ra</ind></trd>  
+  <trd lng="pl">struktura algebraiczna</trd>
+  <trd lng="ru">&c_a;&c_l;&c_g;&c_je;&c_b;&c_r;&c_a;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_a;&c_ja;
+  <ind>&c_s;&c_t;&c_r;&c_u;&c_k;&c_t;&c_u;&c_r;&c_a;</ind></trd>
+</drv>
+
+<drv mrk="strukt.topologia0o">
+  <kap>topologia <tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>EKV</bib><lok>&para;434</lok></fnt>
+  <snc>
+    <ref tip="dif" cel="topolo.0o.strukturo">topologio.</ref>
+  </snc>
+  <trd lng="de">topologische <ind>Struktur</ind></trd>
+  <trd lng="en">topological <ind>structure</ind></trd>
+  <trd lng="fr">structure topologique</trd>
+  <trd lng="hu">topologikus <ind>strukt&uacute;ra</ind></trd>    
+  <trd lng="pl">struktura topologiczna</trd>
+  <trd lng="ru">&c_t;&c_o;&c_p;&c_o;&c_l;&c_o;&c_g;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_a;&c_ja;
+  <ind>&c_s;&c_t;&c_r;&c_u;&c_k;&c_t;&c_u;&c_r;&c_a;</ind></trd>
+</drv>
+</art>
+<!--
+$Log: strukt.xml,v $
+Revision 1.33  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.32  2015/06/29 16:33:24  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.31  2012/01/04 17:10:08  revo
+Wolfram Diestel: kunigis la unajn du sencojn kaj pliaj germ trd
+
+Revision 1.30  2011/07/22 10:10:11  revo
+Jeromo Vasxe: + ~ismo
+
+Revision 1.29  2010/03/10 17:30:36  revo
+Jeromo Vasxe: + ~i re~i
+
+Revision 1.28  2004/11/03 17:31:32  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.27  2003/05/12 16:33:49  revo
+Marc Bavant: ~o MAT: mod ekz
+
+Revision 1.26  2003/04/07 16:36:50  revo
+Marc Bavant: sxangxis magmo al grupoido
+Revision 1.25  2003/03/06 17:31:01  revo
+Zmicier Lapcionak: + trd be
+Revision 1.24  2003/01/02 17:51:32  revo
+Marc Bavant: mod fnt MatVort
+Revision 1.23  2002/11/30 17:38:35  revo
+-->
+</vortaro>

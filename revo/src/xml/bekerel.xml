@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: bekerel.xml,v 1.8 2015/10/21 06:10:15 revo Exp $">
+<kap>
+  <rad>bekerel</rad>/o <fnt><bib>PIV2</bib></fnt>
+</kap>
+<drv mrk="bekerel.0o">
+  <kap><tld/>o</kap>
+  <mlg kod="SI">Bq</mlg>
+  <snc mrk="bekerel.0o.MEZ">
+    <uzo tip="fak">FIZ</uzo>
+    <dif>
+      <ref tip="lst" cel="unu.mezur0o.SCI"
+      lst="voko:mezurunuoj">Mezurunuo</ref>
+      de radiaktiveco responda al unu kernodisi&gcirc;o en sekundo:
+      <ekz>
+        la kompanio Mei&jcirc;i publikigis, ke &gcirc;i detektis maksimume 30,8 
+        <tld/>ojn da cezio por 1 kilogramo el sia pulvora lakto
+        <fnt>
+          <aut>Hori J.</aut>,
+          <vrk><url
+          ref="http://satesperanto.org/La-7an-de-decembro.html">
+          La 07an de decembro</url></vrk>,
+          <lok>2011</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="sivert.0o.MEZ">siverto</ref>
+    </refgrp>
+  </snc>
+  <rim>
+    Alia esperantigo: bekverelo<fnt><bib>NePiv</bib></fnt>.
+  </rim>
+  <trd lng="de">Becquerel</trd>
+  <trd lng="en">becquerel</trd>
+  <trd lng="fr">becquerel</trd>
+  <trd lng="id">becquerel</trd>
+  <trd lng="pl">bekerel</trd>
+  <trd lng="sk">becquerel</trd>
+  <trd lng="cs">becquerel</trd>
+</drv>
+</art>
+
+<!--
+$Log: bekerel.xml,v $
+Revision 1.8  2015/10/21 06:10:15  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.7  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.6  2015/06/29 16:29:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.5  2014/07/01 17:10:35  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.4  2013/09/15 15:10:22  revo
+Wolfram Diestel: ref al lst mezurunuoj, germ trd
+
+Revision 1.3  2013/03/16 02:10:09  revo
+Jeromo Vasxe: + rim
+
+Revision 1.2  2013/03/15 17:10:09  revo
+Jeromo Vasxe: + ref
+
+Revision 1.1  2013/03/15 16:10:08  revo
+-->
+</vortaro>

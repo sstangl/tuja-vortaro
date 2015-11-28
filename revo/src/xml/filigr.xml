@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: filigr.xml,v 1.15 2015/07/04 08:37:34 revo Exp $">
+<kap>
+  <rad>filigran</rad>/o <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="filigr.0o">
+   <kap><tld/>o</kap>
+   <snc mrk="filigr.0o.BELA">
+     <uzo tip="fak">BELA</uzo>
+     <dif>
+       <ref cel="delika.0a">Delikata</ref> a&jcirc;ura 
+       <ref tip="super" cel="teks.0ajxo.TEKS">teksa&jcirc;o</ref> el oraj 
+       a&ubreve; ar&gcirc;entaj fadenoj:
+       <ekz>
+         korbo el ora <tld/>o;
+       </ekz>
+       <ekz>
+         <uzo tip="stl">FIG</uzo>
+         la lunaj radioj brilis tra la <tld/>o <klr>(reto)</klr> de
+         la bran&ccirc;aro<fnt>B</fnt>;
+       </ekz>
+       <ekz>
+         <uzo tip="stl">FIG</uzo>
+         la <tld/>oj <klr>(a&jcirc;uraj skulpta&jcirc;oj)</klr> de la
+         pre&gcirc;eja turo.
+       </ekz>
+     </dif>
+   <trdgrp lng="de">
+      <trd>Filigran</trd>,
+      <trd>Filigranarbeit</trd></trdgrp>
+   <trd lng="en">filigree</trd>
+   <trd lng="nl">filigrane</trd>
+   <trdgrp lng="hu">
+      <trd>filigr&aacute;n</trd>,
+      <trd>filigr&aacute;nmunka</trd></trdgrp>
+   </snc>
+   <snc mrk="filigr.0o.TIP">
+     <uzo tip="fak">TIP</uzo>
+     <dif>
+       Travidebla desegno, <ref tip="super"
+       cel="mark.0o.sign">marko</ref> 
+       en <ref tip="malprt" cel="paper.0o">papero</ref>:
+       <ekz>
+         <tld/>o de bankbileto.
+       </ekz>
+     </dif>
+     <trd lng="be">&c_v;&c_a;&c_d;&c_z;&c_ja;&c_n;&c_y; &c_z;&c_n;&c_a;&c_k;</trd>
+     <trd lng="de">Wasserzeichen</trd>
+     <trd lng="en">watermark</trd>
+     <trd lng="nl">watermerk</trd>
+     <trdgrp lng="hu">
+      <trd>v&iacute;zjel</trd>,
+      <trd>v&iacute;zjegy</trd></trdgrp>
+     <trd lng="ru">&c_v;&c_o;&c_d;&c_ja;&c_n;&c_o;&c_j; &c_z;&c_n;&c_a;&c_k;</trd>
+   </snc>
+  <trd lng="be">&c_f;&c_ib;&c_l;&c_ib;&c_g;&c_r;&c_a;&c_n;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>drobný umělecký předmět</trd>,
+    <trd>ozdoba</trd>
+  </trdgrp>
+  <trd lng="fr">filigrane</trd>
+  <trd lng="pt">filigrana</trd>
+  <trd lng="ru">&c_f;&c_i;&c_l;&c_i;&c_g;&c_r;&c_a;&c_n;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>drobný umelecký predmet</trd>,
+    <trd>filigrán</trd>,
+    <trd>ozdoba</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="filigr.0i">
+   <kap><tld/>i</kap>
+   <gra><vspec>tr</vspec></gra>
+   <snc mrk="filigr.0i.TEK">
+     <dif>
+       <tld lit="F"/>e prilabori, formi <tld/>on:
+       <ekz>
+         kadro <tld/>ita la&ubreve; la ma&ubreve;ra stilo.
+       </ekz>
+     </dif>
+   </snc>
+   <trd lng="en">filigree</trd>
+   <trd lng="fr">filigraner</trd>
+   <trd lng="hu">filigr&aacute;nnal d&iacute;sz&iacute;t</trd>
+</drv>
+</art>
+<!--
+$Log: filigr.xml,v $
+Revision 1.15  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.13  2013/06/30 13:10:09  revo
+Wolfram Diestel: referencoj
+
+Revision 1.12  2011/05/18 12:10:09  revo
+Jeromo Vasxe: - num + mrk
+
+Revision 1.11  2009/05/27 16:30:51  revo
+Russ Williams: +trd en
+
+Revision 1.10  2007/05/30 16:30:59  revo
+Tulio Flores: +tr pt
+
+Revision 1.9  2004/09/25 16:31:13  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.8  2002/10/11 16:33:17  revo
+Paul Peeraerts: ald trd nl
+
+Revision 1.7  2002/06/11 17:33:03  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.6  2001/08/21 18:14:26  revo
+-->
+</vortaro>

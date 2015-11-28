@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: muar.xml,v 1.12 2015/07/04 08:37:39 revo Exp $">
+<kap>
+  <rad>muar</rad>/i
+</kap>
+<drv mrk="muar.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+  <uzo tip="fak">TEK</uzo>
+    <dif>
+      Doni al metalo, &scirc;tofo, papero aspekton de ondemaj rebriloj:
+      <ekz>
+        <tld/>i rubandon.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">dát vodový lesk</trd>
+  <trd lng="de">moirieren</trd>
+  <trd lng="fr">moirer</trd>
+  <trdgrp lng="hu">
+    <trd>m&aacute;rv&aacute;nyoz</trd>,
+    <trd>moar&eacute;z</trd>
+  </trdgrp>
+  <trd lng="nl">moireren</trd>
+  <trdgrp lng="pt">
+    <trd>achamalotar</trd>,
+    <trd>ondear <klr tip="amb">(um tecido, um metal)</klr></trd>    
+  </trdgrp>
+  <trd lng="sk">dať niečomu vodový lesk</trd>
+</drv>
+
+<drv mrk="muar.0a">
+  <kap><tld/>a</kap>
+  <snc>
+    <dif>
+      Posedanta la rebrilon de <tld/>o.
+    </dif>
+  </snc>
+  <trd lng="be">&c_m;&c_u;&c_a;&c_r;&c_a;&c_v;&c_y;</trd>
+  <trd lng="de">moiriert</trd>
+  <trd lng="fr">moir&eacute;</trd>
+  <trd lng="hu">moar&eacute;</trd>
+  <trdgrp lng="nl">
+    <trd>moir&eacute;</trd>,
+    <trd>gevlamd</trd>
+  </trdgrp>
+  <trd lng="ru">&c_m;&c_u;&c_a;&c_r;&c_o;&c_v;&c_y;&c_j;</trd>
+</drv>
+</art>
+<!--
+$Log: muar.xml,v $
+Revision 1.12  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.11  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.10  2014/04/10 16:10:51  revo
+Damien Brucker: +trd fr
+
+Revision 1.9  2006/08/29 16:41:46  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.8  2006/08/17 18:12:36  revo
+Wieland Pusch: +trd de
+
+Revision 1.7  2006/08/15 12:20:32  revo
+Tulio Flores: +tr pt
+
+Revision 1.6  2003/06/07 12:25:02  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.5  2001/11/28 19:04:43  revo
+Yury Finkel: +trd ru
+
+Revision 1.4 2001/09/30 19:10:04 revo
+Paul Peeraerts: ald trd nl
+
+-->
+</vortaro>

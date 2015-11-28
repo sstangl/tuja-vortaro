@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: dres.xml,v 1.13 2009/07/17 16:30:43 revo Exp $">
+  <kap>
+    <ofc>*</ofc>
+    <rad>dres</rad>/i
+  </kap>
+  <drv mrk="dres.0i">
+    <kap>
+      <ofc>*</ofc>
+      <tld/>i
+    </kap>
+    <gra>
+      <vspec>tr</vspec>
+    </gra>
+    <snc>
+      <dif>
+        Instrui beston por iu celo:
+        <ekz><tld/>i hundojn por &ccirc;aso;</ekz>
+        <ekz><tld/>i leonojn;</ekz>
+        <ekz>la plej malfacila <tld/>ado estas tiu de la katoj.</ekz>
+      </dif>
+      <refgrp tip="vid">
+        <ref cel="eduk.0i">eduki</ref>,
+        <ref cel="ekzerc.0i">ekzerci</ref>,
+        <ref cel="sovagx">malsova&gcirc;igi</ref>.
+      </refgrp>
+    </snc>
+    <trd
+    lng="be">&c_d;&c_r;&c_e;&c_s;&c_ib;&c_r;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+    <trdgrp lng="de">
+      <trd>dressieren</trd>,
+      <trd>abrichten</trd>
+    </trdgrp>
+    <trd lng="en">train</trd>
+    <trd lng="es">entrenar<klr tip="ind"> (un animal)</klr></trd>
+    <trd lng="fr">dresser<klr tip="ind"> (un animal)</klr></trd>
+    <trd lng="pl">tresowa&cacute;</trd>
+    <trdgrp lng="pt">
+      <trd>domar</trd>,
+      <trd>amansar</trd>,
+      <trd>adrestar</trd>,
+      <trd>ensinar</trd>,
+      <trd>educar <klr tip="amb">(animais)</klr></trd>
+    </trdgrp>
+    <trd
+    lng="ru">&c_d;&c_r;&c_je;&c_s;&c_s;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  </drv>
+  <drv mrk="dres.0isto">
+    <kap>
+      <tld/>isto
+    </kap>
+    <snc>
+      <dif>
+        Homo, kiu profesie okupas pri <tld/>ado:
+        <ekz>
+          cirka <tld/>isto.
+        </ekz>
+      </dif>
+      <trd lng="es">entrenador</trd>
+      <trd lng="fr">dresseur</trd>
+      <trd lng="pl">treser</trd>
+    </snc>
+  </drv>
+</art>
+<!--
+$Log: dres.xml,v $
+Revision 1.13  2009/07/17 16:30:43  revo
+Sebastian Cyprych: +~isto +trd pl
+
+Revision 1.12  2007/09/02 16:30:39  revo
+Tulio Flores: +tr pt
+
+Revision 1.11  2003/12/14 17:30:50  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.10  2002/05/29 05:32:02  revo
+Alejandro Mejia Greene: ald 2 his trd
+
+Revision 1.9  2002/05/13 16:33:50  revo
+Ulrich Fellmann: + 2 trd de
+
+Revision 1.8  2001/06/13 18:13:46  revo
+Marc Bavant: +trd fr por ~isto
+
+Revision 1.7  2001/05/17 18:14:35  revo
+Marc Bavant: +trd fr
+
+Revision 1.6  2001/04/02 16:21:19  revo
+-->
+</vortaro>

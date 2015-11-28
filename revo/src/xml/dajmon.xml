@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: dajmon.xml,v 1.15 2014/03/07 02:10:17 revo Exp $">
+<kap>
+  <rad>dajmon</rad>/o
+</kap>
+
+<drv mrk="dajmon.0o">
+   <kap><tld/>o <fnt><bib>PIV1</bib></fnt></kap>
+   <snc mrk="dajmon.0o.REL">
+     <tezrad fak="REL"/>
+     <uzo tip="fak">REL</uzo>
+     <dif>
+       Mezranga supernatura esta&jcirc;o, ofte malbona sed iam favora,
+       peranto inter la homoj kaj la dioj, a&ubreve; granda dio aganta
+       inkognite;
+       <ref tip="sin" cel="geni.0o.dajmono">genio<sncref/></ref>,
+       <ref tip="sin" cel="gxeni.0o.REL">&gcirc;enio</ref>:
+       <ekz>
+         la persona <tld/>o de Sokrato;
+       </ekz>
+       <ekz>
+         latineca vorto por la grekdevena &leftquot;<tld/>o&rightquot;
+         estas
+         <ref tip="sub" cel="geni.0o.Roma">genio<sncref/></ref>.
+       </ekz>
+     </dif>
+   </snc>
+   <refgrp tip="sub">
+     <ref cel="angxel.0o">an&gcirc;elo</ref>,
+     <ref cel="demon.0o.diablo">demono</ref>,
+     <ref cel="elf.0o">elfo</ref>,
+     <ref cel="fe.0o">feo</ref>,
+     <ref cel="kobold.0o">koboldo</ref>
+   </refgrp>
+   <trd lng="be">&c_d;&c_e;&c_m;&c_a;&c_n;</trd>
+   <trd lng="bg">&c_d;&c_je;&c_m;&c_o;&c_n;</trd>
+   <trd lng="ca">d&egrave;mon</trd>
+   <trd lng="cs">d&eacute;mon</trd>
+   <trdgrp lng="de">
+     <trd>D&auml;mon</trd>,
+     <trd>D&auml;monion</trd>
+   </trdgrp>
+   <trd lng="en">daemon</trd>
+   <trd lng="es">demonio</trd>
+   <trdgrp lng="fr">
+     <trd>d&eacute;mon</trd>,
+     <trd>g&eacute;nie</trd>
+   </trdgrp>
+   <trd lng="grc">&delta;&alfa;&jota_ton;&my;&omega;&ny;</trd>
+   <trd lng="hu">d&eacute;mon</trd>
+   <trd lng="nl">demon</trd>
+   <trdgrp lng="pl">
+     <trd>demon</trd>,
+     <trd>dajmon<klr>{m}</klr></trd>,
+     <trd>dajmona<klr>{f}</klr></trd>
+   </trdgrp>
+   <trd lng="pt">dem&ocirc;nio</trd>
+   <trd lng="ru">&c_d;&c_je;&c_m;&c_o;&c_n;</trd>
+</drv>
+</art>
+<!--
+$Log: dajmon.xml,v $
+Revision 1.15  2014/03/07 02:10:17  revo
+Jeromo Vasxe: + mrk, + ref, + 1 trd fr
+
+Revision 1.14  2012/08/27 14:10:22  revo
+Marc Rausell: + trd ca
+
+Revision 1.13  2009/04/28 16:30:54  revo
+Wieland Pusch: +trd bg
+
+Revision 1.12  2009/04/27 16:30:56  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.11  2007/07/12 16:30:23  revo
+Tulio Flores: +tr pt
+
+Revision 1.10  2007/06/06 16:30:29  revo
+Wieland Pusch: +trd de
+
+Revision 1.9  2006/09/22 19:46:24  revo
+Wolfram Diestel: +tezrad(REL)
+
+Revision 1.8  2004/10/15 16:31:21  revo
+-->
+</vortaro>

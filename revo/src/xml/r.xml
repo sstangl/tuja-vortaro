@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: r.xml,v 1.13 2015/07/04 08:37:43 revo Exp $">
+<kap>
+    <ofc>*</ofc><rad>r</rad> <fnt><bib>PIV1</bib></fnt>
+</kap>
+<subart>
+<drv mrk="r.0.konsonanto">
+  <kap><tld/></kap>
+    <uzo tip="fak">LIN</uzo>
+    <uzo tip="fak">GRA</uzo>
+    <uzo tip="fak">FON</uzo>
+  <snc>    
+    <dif>
+      <ref tip="dif" cel="konson1.0o">Konsonanto</ref>, vo&ccirc;a trema <ref
+      tip="dif" cel="dental.0o">dentalo</ref> [r].
+    </dif>
+    <rim>
+    La adjektivo trema similas al <ref tip="dif"
+    cel="likvid1.0o">likvida</ref>.
+    </rim>
+  <trd lng="fr">r<klr> (consonne)</klr></trd>  
+  </snc>
+  <snc>
+     <dif>
+      La dudekunua <ref tip="dif" cel="grafem.0o">grafemo</ref> de la
+      Esperanta alfabeto, uzata i.a. kiel:
+     </dif>
+  <trd lng="fr">r<klr> (lettre)</klr></trd>
+  <subsnc>
+  <uzo tip="fak">MAT</uzo>
+  <dif>
+  (maj. kaj grase) simbolo por la aro de &ccirc;iuj reelaj nombroj:
+  <ekz><em><tld
+  lit="R"/></em></ekz>;
+  </dif>
+  <trd lng="fr">R<klr> (ensemble des nombres r&eacute;els)</klr></trd>
+  </subsnc>  
+  </snc>
+ </drv>
+</subart>
+
+<subart>
+<drv mrk="r.0.nomo">
+  <kap><tld/>o</kap>
+  <snc>   
+    <dif>
+      Nomo de tiuj <ref tip="dif" cel="fonem.0o">fonemo</ref> kaj
+      grafemo.    
+    </dif>
+    <rim>
+    La grava afero pri <tld/> estas, ke &gcirc;i estu trema
+    ("rulata"). [...] Oni tamen zorgu, ke la <tld/>-sono ne konfuzi&gcirc;u
+    kun alia konsonanto<fnt><bib>PMEG</bib></fnt>.         
+    </rim>
+    <ref tip="vid" cel="kartav.0i">kartavi</ref>
+  <trd lng="fr">r<klr> (roul&eacute;)</klr></trd>
+  </snc>
+  <trd lng="cs">ró (řecké písmeno</trd>
+  <trd lng="sk">ró</trd>
+</drv>
+</subart>
+</art>
+
+<!--
+$Log: r.xml,v $
+Revision 1.13  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.12  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.11  2014/04/12 07:10:42  revo
+Damien Brucker: aldono (dauxrigo)
+
+Revision 1.10  2014/04/10 16:10:42  revo
+Damien Brucker: fak
+
+Revision 1.9  2014/01/16 12:10:15  revo
+Damien Brucker: sxangxo cxe la difino
+
+Revision 1.8  2014/01/03 15:10:15  revo
+Damien Brucker: +ref (dauxrigo)
+
+Revision 1.7  2014/01/03 13:10:11  revo
+Damien Brucker: -x
+
+Revision 1.6  2013/12/30 21:10:19  revo
+Damien Brucker: -tajperaro
+
+Revision 1.5  2013/12/30 17:10:18  revo
+Damien Brucker: aldono
+
+Revision 1.4  2013/12/29 09:10:11  revo
+-->
+</vortaro>

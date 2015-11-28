@@ -1,0 +1,114 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: diaman.xml,v 1.21 2015/07/04 08:37:32 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>diamant</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="diaman.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="diaman.0o.MIN">
+    <uzo tip="fak">MIN</uzo>
+    <dif>
+      Juvel&scirc;tono, el pura kristali&gcirc;inta
+      <ref tip="super" cel="karbon.0o">karbono</ref>:
+      <ekz>
+        la malbono strekas la malsa&gcirc;ulon
+        kiel la <tld/>o strekas malmolan gemon
+        <fnt>
+          <aut>trad. T. T. Anuruddha</aut>,
+          <vrk>La Vojo al Nirvano a&ubreve; la Dhammapado, 12:161</vrk>,
+          <lok>B&#7891;-T&aacute;t-Csoma-Instituto por Budhologio,
+1973</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="sub" cel="brilia.0o.MIN">brilianto</ref>
+  </snc>
+  <trd lng="be">&c_d;&c_y;&c_ja;&c_m;&c_e;&c_n;&c_t;</trd>
+  <trdgrp lng="cs">
+    <trd>diamant</trd>,
+    <trd>démant</trd>
+  </trdgrp>
+  <trd lng="de">Diamant</trd>
+  <trd lng="en">diamond</trd>
+  <trd lng="es">diamante</trd>
+  <trd lng="fa">&a_A;&a_l;&a_m;&a_A;&a_s;</trd>
+  <trd lng="fr">diamant</trd>
+  <trd lng="hu">gy&eacute;m&aacute;nt</trd>
+  <trd lng="nl">diamant</trd>
+  <trd lng="pl">diament</trd>
+  <trd lng="pt">diamante</trd>
+  <trd lng="ru">&c_a;&c_l;&c_m;&c_a;&c_z;</trd>
+  <trd lng="sk">diamant</trd>
+  <trd lng="sv">diamant</trd>
+</drv>
+
+<drv mrk="diaman.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="diaman.0a.MIN">
+    <dif>
+      El <tld/>o.
+    </dif>
+    <trd lng="de">diamanten</trd>
+    <trd lng="fr">de <ind>diamant</ind></trd>
+  </snc>
+  <snc mrk="diaman.0a.FIG">
+    <dif>
+      Brila, kiel <tld/>o:
+      <ekz>
+        <tld/>aj rosaj gutoj.
+      </ekz>
+    </dif>
+  </snc>
+  <trd
+lng="be">&c_d;&c_y;&c_ja;&c_m;&c_e;&c_n;&c_t;&c_a;&c_v;&c_y;</trd>
+  <trd lng="de">diamanten</trd>
+  <trd lng="en">diamond</trd>
+  <trd lng="fa">&a_A;&a_l;&a_m;&a_A;&a_s;&f_g;&a_w;&a_n;</trd>
+  <trdgrp lng="fr">
+    <trd>adamantin</trd>,
+    <trd>diamantin</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>gy&eacute;m&aacute;nt-</trd>,
+    <trd>gy&eacute;m&aacute;ntos</trd>
+  </trdgrp>
+  <trd lng="nl">diamanten<klr tip="ind"> (bijv.nw.)</klr></trd>
+  <trd lng="pl">diamentowy</trd>
+  <trd lng="ru">&c_a;&c_l;&c_m;&c_a;&c_z;&c_n;&c_y;&c_j;</trd>
+  <trd lng="sk">diamantov&yacute;</trd>
+</drv>
+</art>
+<!--
+$Log: diaman.xml,v $
+Revision 1.21  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2009/09/13 16:56:23  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.19  2007/10/30 17:30:31  revo
+Sebastian Cyprych: +ref brilianto
+
+Revision 1.18  2007/07/24 19:11:48  revo
+Tulio Flores: +tr pt
+
+Revision 1.17  2007/07/06 18:04:07  revo
+Russ Williams: trd +en
+
+Revision 1.16  2007/06/20 16:30:42  revo
+Wieland Pusch: +trd de
+
+Revision 1.15  2006/11/01 17:30:21  revo
+Jeromo Vasxe: + ekz
+
+Revision 1.14 2006/06/07 16:31:56 revo
+Sebastian Cyprych: sxangxo en ref al brilianto
+
+Revision 1.13 2003/12/13 17:32:42 revo
+-->
+</vortaro>

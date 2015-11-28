@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: centri.xml,v 1.26 2015/07/04 08:37:32 revo Exp $">
+<kap>
+  <rad>centrifug</rad>/a  <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="centri.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="centri.0a.FIZ">
+    <uzo tip="fak">FIZ</uzo>
+    <dif>
+      Movanta, aganta el la centro, decentrokura:
+      <ekz>
+        <tld/>a forto.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="inert.0eca">inerteca</ref>
+    <trd lng="be">&c_c;&c_e;&c_n;&c_t;&c_r;&c_a;&c_b;&c_je;&c_zh;&c_n;&c_y;</trd>
+    <trd lng="ca">centr&iacute;fug</trd>
+    <trd lng="de">zentrifugal</trd>
+    <trd lng="el">&sigma;&ypsilon;&gamma;&omikron_ton;&kappa;&epsilon;&ny;&tau;&rho;&omikron;&sigma_fina;</trd>
+    <trd lng="es">centr&iacute;fuga</trd>
+    <trd lng="fr">centrifuge</trd>
+    <trd lng="hu">centrifug&aacute;lis</trd>
+    <trd lng="it">cent&iacute;fugo</trd>
+    <trdgrp lng="nl">
+      <trd>centrifugaal</trd>,
+      <trd>middelpuntvliedend</trd>
+    </trdgrp>
+    <trd lng="pl">od&sacute;rodkowy</trd>
+    <trd lng="pt">centr&iacute;fuga</trd>
+    <trd lng="ru">&c_c;&c_je;&c_n;&c_t;&c_r;&c_o;&c_b;&c_je;&c_zh;&c_n;&c_y;&c_j;</trd>
+    <trd lng="sk">odstrediv&yacute;</trd>
+  </snc>
+  <snc mrk="centri.0a.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      <klr>(pri <ref cel="inflor.0o">infloresko</ref>)</klr>
+      &Ccirc;e kiu la centra floro elvolvi&gcirc;as unue.
+    </dif>
+    <trdgrp lng="ca">
+      <trd>centr&iacute;fug</trd>,
+      <trd>cim&oacute;s</trd>
+    </trdgrp>
+    <trd lng="hu">f&uuml;rt&ouml;s</trd>
+    <trd lng="nl">centrifugaal</trd>
+  </snc>
+  <ref tip="ant" cel="centri1.0a">centripeta</ref>
+  <trd lng="sk">centrifugálny, odstredivý</trd>
+  <trd lng="sk">centrifugálny, odstredivý</trd>
+  <trdgrp lng="cs">
+    <trd>odstředivý</trd>,
+    <trd>odvodný</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="centri.0ilo">
+  <kap><tld/>ilo</kap>
+  <snc mrk="centri.0ilo.MAS">
+    <uzo tip="fak">MAS</uzo>
+    <dif>
+      <tld lit="C"/>a ma&scirc;ino, precipe uzata por
+      disigi malsame densajn flua&jcirc;ojn, elpeli
+      flua&jcirc;on de solida&jcirc;o...:
+      <ekz>
+        sur la laborebeno de la kuirejo mi malkovris 
+        monstran <tld/>ilon kaj dispecigitajn resta&jcirc;ojn 
+        de verdaj folioj kaj &scirc;osoj
+        <fnt>
+          <aut>G. P. Savio</aut>,
+          <vrk><url
+          ref="http://esperantaretradio.blogspot.com/2013/11/nur-legomsukoj-kaj-fruktosukoj.html">
+          Nur legomsukoj kaj fruktosukoj</url></vrk>,
+          <lok>Esperanta Retradio, 2014-11-06</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>centrifuga</trd>,
+    <trd>centrovka</trd>,
+    <trd>odstředivka</trd>
+  </trdgrp>
+  <trd lng="en">centrifuge</trd>
+  <trd lng="fr">centrifugeuse</trd>
+  <trd lng="it">centrifuga</trd>
+  <trd lng="sk">odstredivka</trd>
+</drv>
+</art>
+<!--
+$Log: centri.xml,v $
+Revision 1.26  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.25  2015/06/29 16:39:29  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.24  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.23  2014/11/28 23:11:53  revo
+Jeromo Vasxe: + ~ilo
+
+Revision 1.22  2012/08/26 12:10:15  revo
+Marc Rausell: + trd ca
+
+Revision 1.21  2010/04/14 06:05:50  revo
+Jose Antonio del Barrio: korekto de hispana traduko
+
+Revision 1.20  2009/05/04 16:32:27  revo
+Antonio Codazzi: +trd it
+
+Revision 1.19  2009/02/11 19:43:15  revo
+Sebastian Cyprych: -fusxaj linirompoj en trd
+
+Revision 1.18  2008/05/27 16:30:35  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.17  2003/12/03 17:32:24  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.16  2003/06/15 16:30:46  revo
+-->
+</vortaro>

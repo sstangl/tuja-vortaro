@@ -1,0 +1,158 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: hotel.xml,v 1.22 2015/07/04 08:37:35 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>hotel</rad>/o
+</kap>
+
+<drv mrk="hotel.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc>
+    <dif>
+      <ref tip="super " cel="dom.0o">Domo</ref>, 
+      kie la <ref tip="prt" cel="vojagx.0o">voja&gcirc;antoj</ref> povas 
+      pagante lo&gcirc;i kaj plejofte anka&ubreve; man&gcirc;i.
+    </dif>
+    <ref tip="sub" cel="gast.0ejo">gastejo.</ref>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_g;&c_a;&c_t;&c_e;&c_l;&c_mol;</trd>,
+    <trd>&c_g;&c_a;&c_s;&c_mol;&c_c;&c_ib;&c_n;&c_ib;&c_c;&c_a;</trd>
+  </trdgrp>
+  <trd lng="bg">&c_h;&c_o;&c_t;&c_je;&c_l;</trd>
+  <trdgrp lng="br">
+    <trd>leti</trd>,
+    <trd>otel</trd>
+  </trdgrp>
+  <trd lng="cs">hotel</trd>
+  <trdgrp lng="de">
+     <trd>Hotel</trd>,
+     <trd>Gasthaus</trd>,
+     <trd>Herberge</trd></trdgrp>
+  <trd lng="el">&xi;&epsilon;&ny;&omikron;&delta;&omikron;&chi;&epsilon;&jota_ton;&omikron;</trd>
+  <trd lng="en">hotel</trd>
+  <trd lng="es">hotel</trd>
+  <trd lng="fr">h&ocirc;tel</trd>
+  <trdgrp lng="it">
+    <trd>albergo</trd>,
+    <trd>hotel</trd>
+  </trdgrp>
+  <trd lng="nl">hotel</trd>
+  <trd lng="pt">hotel</trd>
+  <trdgrp lng="ru">
+    <trd>&c_g;&c_o;&c_s;&c_t;&c_i;&c_n;&c_i;&c_c;&c_a;</trd>,
+    <trd>&c_o;&c_t;&c_je;&c_l;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="sk">hotel</trd>
+</drv>
+
+<drv mrk="hotel.0estro">
+  <kap><tld/>estro, <var><kap><tld/>mastro</kap></var></kap>
+  <snc mrk="hotel.0estro.posedanto">
+    <dif>
+      Posedanto a&ubreve; &ccirc;efa administranto de <tld/>o:
+      <ekz>
+       se oni diras al <tld/>estro, ke la akvo estas nevarma, 
+       li komprenos ke la varmigilo ne funkcias.
+       <fnt>
+         <aut>Altebrilas</aut>,
+         <vrk>forumo de <url
+         ref="http://de.lernu.net/komunikado/forumo/temo.php?t=8554&amp;p=2">lernu.net</url></vrk>
+       </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="br">letiour</trd>
+    <trdgrp lng="de">
+       <trd>Hotelier</trd>,
+       <trd>Hotelbesitzer</trd>,
+       <trd>Gastwirt</trd>,
+       <trd>Herbergsvater</trd></trdgrp>
+    <trd lng="es">hotelero</trd>
+     <trd lng="fr">h&ocirc;telier<klr tip="ind"> (subst.)</klr></trd>
+     <trd lng="it">albergatore</trd>
+     <trdgrp lng="nl">
+       <trd>hotelhouder</trd>,
+       <trd>h&ocirc;telier</trd>
+     </trdgrp>
+     <trd lng="pt">hoteleiro<klr tip="amb"> (dono ou
+     administrador)</klr></trd>
+    <trd lng="sk">hoteli&eacute;r</trd>
+  </snc>
+  <trd lng="cs">majitel nebo správce hotelu</trd>
+  <trdgrp lng="sk">
+    <trd>hotelier</trd>,
+    <trd>správca hotela</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="hotel.0isto">
+  <kap><tld/>isto</kap>
+  <snc mrk="hotel.0isto.dungito">
+    <dif>
+      Profesia prizorganto de hotelaj gastoj (dungito):
+      <ekz>
+        &ccirc;e multaj japanaj hoteloj laboras <tld/>istoj kiuj parolas angle
+        <fnt>
+          <aut>Rodrigo Chaves</aut>,
+          <vrk><url
+          ref="https://twitter.com/RRSChaves/status/28258529546604544">Twitter</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>  
+  <snc mrk="hotel.0isto.estro">
+    <dif>
+      <ref tip="dif" cel="hotel.0estro"><tld lit="H"/>estro</ref>:
+      <ekz>
+        &ccirc;u vi bone dormis en mia hotelo - demandis la
+        pentriston Cezanne la hotelisto
+        <fnt>
+          <vrk><url
+          ref="http://www.esperanto.de/sprache/kurse/kek/utf8/lec_06.html">KEK</url></vrk>,
+          <lok>leciono 6</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">majitel nebo správce hotelu</trd>
+  <trdgrp lng="sk">
+    <trd>hotelier</trd>,
+    <trd>správca hotela</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: hotel.xml,v $
+Revision 1.22  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.21  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.20  2014/02/08 02:10:16  revo
+Damien Brucker: -eraro cxe ref
+
+Revision 1.19  2013/10/19 14:10:11  revo
+Wolfram Diestel: ref-oj, +~estro, +snc 'dungito' de ~isto
+
+Revision 1.18  2012/10/23 00:11:43  revo
+Neil Roberts: aldonu la etikedon <var>
+
+Revision 1.17  2009/09/19 16:30:40  revo
+Antonio Codazzi: +trd it
+
+Revision 1.16  2007/11/26 17:30:23  revo
+Wieland Pusch: +trd bg
+
+Revision 1.15  2005/10/17 16:31:43  revo
+Luiz Portella: +trd pt
+
+Revision 1.14  2005/06/26 16:33:34  revo
+Alan ar Gall: +trd br
+
+Revision 1.13  2004/01/16 17:30:55  revo
+-->
+</vortaro>

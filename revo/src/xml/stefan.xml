@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: stefan.xml,v 1.11 2015/11/03 06:10:15 revo Exp $">
+<kap>
+  <ofc>*</ofc><rad>Stefan</rad>/o
+</kap>
+<drv mrk="stefan.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc>
+  <uzo tip="fak">NOM</uzo>
+    <dif>
+      Vira <ref tip="lst" cel="nom.antaux0o"
+      lst="voko:personaj_nomoj">anta&ubreve;nomo</ref> grekdevena:
+      <ekz>
+        mia frato diris al <tld/>o, ke li amas lin pli, ol sin mem
+        <fnt><bib>F</bib>, <lok>&FE; 18</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>     
+  <trd lng="br">Stefan</trd>
+  <trdgrp lng="en">
+    <trd>Stephen</trd>,
+    <trd>Steven</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>&Eacute;tienne</trd>,
+    <trd>St&eacute;phane</trd>
+  </trdgrp>
+  <trd lng="hu">Istv&aacute;n</trd>
+  <trd lng="it">Stefano</trd>
+  <trd lng="pl">Stefan</trd>
+  <trdgrp lng="ru">
+    <trd>&c_S;&c_t;&c_je;&c_p;&c_a;&c_n;</trd>,
+    <trd>&c_S;&c_t;&c_je;&c_f;&c_a;&c_n;<klr> (&c_i;&c_n;&c_o;&c_s;&c_t;&c_r;.)</klr></trd>,
+    <trd>&c_E;&c_t;&c_mol;&c_je;&c_n;<klr> (&c_i;&c_n;&c_o;&c_s;&c_t;&c_r;.)</klr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="stefan.in0o">
+  <kap><tld/>ino</kap>
+  <snc>
+  <uzo tip="fak">NOM</uzo>
+    <dif>
+      Virina <ref tip="lst" cel="nom.antaux0o"
+      lst="voko:personaj_nomoj">anta&ubreve;nomo</ref> grekdevena, kun la
+      signifo de "la kronitino".
+    </dif>
+  </snc>
+  <trd lng="en">Stephanie</trd>
+  <trd lng="fr">St&eacute;phanie</trd>
+  <trd lng="pl">Stefania</trd>
+</drv>
+</art>
+
+<!--
+$Log: stefan.xml,v $
+Revision 1.11  2015/11/03 06:10:15  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.10  2015/09/30 12:10:16  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.9  2015/02/26 19:10:47  revo
+Wolfram Diestel: lst antaunomoj
+
+Revision 1.8  2014/05/13 09:10:15  revo
+Damien Brucker: +trd fr
+
+Revision 1.7  2014/05/11 19:10:14  revo
+Damien Brucker: +~ino
+
+Revision 1.6  2009/11/03 17:31:00  revo
+Antonio Codazzi: +trd it
+
+Revision 1.5  2009/07/01 17:21:43  revo
+Russ Williams: +trd en
+
+Revision 1.4  2005/07/05 16:33:38  revo
+-->
+</vortaro>

@@ -1,0 +1,127 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: karbon.xml,v 1.26 2015/07/04 08:37:37 revo Exp $">
+<kap>
+  <ofc>4</ofc>
+  <rad>karbon</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="karbon.0o">
+  <kap><tld/>o</kap>
+  <mlg kod="IUPAC">C</mlg>
+  <snc mrk="karbon.0o.KEM">
+    <uzo tip="fak">KEM</uzo>
+    <dif>
+      &Hcirc;emia <ref tip="lst" cel="elemen.0o.KEM"
+      lst="voko:&hcirc;emiaj_elementoj" val="6">elemento</ref>
+      kun atomnumero 6, atompezo 12,011115;
+      el kiu precipe konsistas 
+      <ref tip="sub" cel="karb.0o">karbo</ref>, 
+      <ref tip="sub" cel="grafit.0o">grafito</ref>,
+      <ref tip="sub" cel="diaman.0o">diamanto</ref>, 
+      kaj kiu trovi&gcirc;as en &ccirc;iu konata viva&jcirc;o.
+    </dif>
+  </snc>
+  <trd lng="be">&c_v;&c_u;&c_g;&c_l;&c_ja;&c_r;&c_o;&c_d;</trd>
+  <trd lng="bg">&c_v;&c_malmol;&c_g;&c_l;&c_je;&c_r;&c_o;&c_d;</trd>
+  <trd lng="br">karbon</trd>
+  <trd lng="ca">carboni</trd>
+  <trdgrp lng="cs">
+    <trd>carboneum</trd>,
+    <trd>uhlík</trd>
+  </trdgrp>
+  <trd lng="de">Kohlenstoff</trd>
+  <trd lng="en">carbon</trd>
+  <trd lng="es">carbono</trd>
+  <trd lng="fr">carbone</trd>
+  <trdgrp lng="hu">
+    <trd>elemi <ind>sz&eacute;n</ind></trd>,
+    <trd>karbon</trd>
+  </trdgrp>
+  <trd lng="id">karbon</trd>
+  <trd lng="it">carbonio</trd>
+  <trd lng="la">Carboneum</trd>
+  <trd lng="nl">koolstof</trd>
+  <trd lng="pl">w&eogonek;giel</trd>
+  <trd lng="pt">carbono</trd>
+  <trd lng="ru">&c_u;&c_g;&c_l;&c_je;&c_r;&c_o;&c_d;</trd>
+  <trd lng="sk">uhlík</trd>
+  <trd lng="sv">kol</trd>
+</drv>
+
+<drv mrk="karbon.radi0o">
+  <kap>radikarbono,
+  <var><kap>radio<tld/>o</kap></var>,
+  <var><kap><tld/>o 14</kap></var></kap>
+  <snc mrk="karbon.radi0o.KEM">
+    <uzo tip="fak">ARKE</uzo>    
+    <uzo tip="fak">KAL</uzo>
+    <uzo tip="fak">KEM</uzo>
+    <dif>
+      Radiaktiva izotopo de <tld/>o kun atompezo 14,
+      per kies mezuro en organika&jcirc;oj oni taksas ilian antikvecon,
+      helpe al <ref tip="vid" cel="kronol.0o.SCI">kronologio</ref>;
+      simbole <frm><sup>14</sup>C</frm>:
+      <ekz>
+        uzo de radio<tld/>o por la determino de la a&gcirc;o de 
+         organika&jcirc;oj
+        <fnt>
+        <aut>H. Sirk</aut>,
+        <vrk>La uzo de radiokarbono...</vrk>,
+        <lok>Scienca Revuo, 1959, numero 2-3a</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        estis grava la determino de la relativa kvanto da <tld/>o 14, 
+        per kiu eblas la datado de historiaj kaj anta&ubreve;historiaj trova&jcirc;oj
+        <fnt>
+          <aut>E. Pauli</aut>,
+          <vrk><url
+          ref="http://www.cfh.ufsc.br/~simpozio/Esperanto/metodo-pensado/4951-031.htm">
+          Metodoj de Pensado</url></vrk>,
+          <lok>1977</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="ca">carboni 14</trd>
+  <trdgrp lng="fr">
+    <trd>carbone 14</trd>,
+    <trd>radiocarbone</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: karbon.xml,v $
+Revision 1.26  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.25  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.24  2014/05/30 08:10:28  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.23  2014/01/30 09:10:31  revo
+Joop Eggen: +trd bg
+
+Revision 1.22  2013/09/17 17:10:16  revo
+Wolfram Diestel: simb. lau IUPAC, val
+
+Revision 1.21  2013/08/24 20:10:27  revo
+Wolfram Diestel: referenco al listo elementoj
+
+Revision 1.20  2012/07/14 18:10:17  revo
+Marc Rausell: ++ trd ca
+
+Revision 1.19  2012/03/13 12:10:07  revo
+Jeromo Vasxe: + 1 ref
+
+Revision 1.18  2011/03/04 10:10:11  revo
+Jeromo Vasxe: + radi~o + ~14
+
+Revision 1.17  2010/10/25 16:30:42  revo
+-->
+</vortaro>

@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: tumor.xml,v 1.16 2012/08/14 15:10:21 revo Exp $">
+<kap>
+  <ofc>9</ofc><rad>tumor</rad>/o
+  <fnt>B</fnt>
+</kap>
+<drv mrk="tumor.0o">
+  <kap><ofc>9</ofc><tld/>o</kap>
+  <snc mrk="tumor.0o.MED">
+  <uzo tip="fak">MED</uzo>
+    <dif>
+      Malsaneca &ccirc;elaro kreskanta en la organismo:
+      <ekz>
+        frua ekkono de malgrandaj <tld/>oj ebligos anka&ubreve; la
+        kancerkuracadon sen kirurgia apliko<fnt><aut>Evgeni
+        Georgiev</aut>, <vrk>Novaj kuracmetodoj kaj prevento</vrk>,
+        <bib>Monato</bib><lok>jaro 2001a, numero 4a, p. 22a</lok></fnt>.
+      </ekz>
+    </dif>
+    <ref tip="sub" cel="kancer.0o">kancero</ref>
+    <refgrp tip="vid">
+      <ref cel="veruk.0o">veruko</ref>,
+      <ref cel="sxankr.0o">&scirc;ankro</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_p;&c_u;&c_h;&c_l;&c_ib;&c_n;&c_a;</trd>
+  <trdgrp lng="ca">
+    <trd>tumor</trd>,
+    <trd>eixidura</trd>
+  </trdgrp>
+  <trd lng="de">Tumor</trd>
+  <trd lng="en">tumor</trd>
+  <trdgrp lng="fa">
+    <trd>&a_gh;&a_d;&a_h;</trd>,
+    <trd>&a_t;&a_w;&a_m;&a_w;&a_r;</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>tumeur</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>daganat</trd>,
+    <trd>tumor</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>tumor</trd>,
+    <trd>gezwel</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>tumor</trd>,
+    <trd>guz<klr tip="amb"> nowotworowy</klr></trd>,
+    <trd>nowotw&oacute;r</trd>
+  </trdgrp>
+  <trd lng="pt">tumor</trd>
+  <trd lng="ru">&c_o;&c_p;&c_u;&c_h;&c_o;&c_l;&c_mol;</trd>
+</drv>
+</art>
+<!--
+$Log: tumor.xml,v $
+Revision 1.16  2012/08/14 15:10:21  revo
+Marc Rausell: + trd ca
+
+Revision 1.15  2009/06/21 16:31:18  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.14  2009/03/01 17:34:11  revo
+Russ Williams: +trd en 9OA
+
+Revision 1.13  2009/01/29 17:30:31  revo
+Sebastian Cyprych: +trd pl +ref al kancero
+
+Revision 1.12  2006/02/16 17:36:16  revo
+Tulio Flores: +trd pt
+
+Revision 1.11  2005/12/17 17:31:26  revo
+Jeromo Vasxe: + mrk
+
+Revision 1.10  2005/01/11 19:03:28  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.9  2003/10/02 16:30:49  revo
+-->
+</vortaro>

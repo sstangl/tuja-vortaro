@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: kapot.xml,v 1.18 2015/10/23 19:10:15 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>kapot</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="kapot.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="kapot.0o.TEKS">
+    <uzo tip="fak">TEKS</uzo>
+    <dif>
+      Granda dika kapu&ccirc;hava <ref tip="super" cel="mantel.0o">
+      mantelo</ref>:
+      <ekz>
+        <tld/>o el fajna drapo verda fran&gcirc;ita per ru&gcirc;a
+        veluro
+        <fnt><bib>DonKihxoto</bib>,
+        <lok>dua parto, &ccirc;apitro 16a, p. 476a</lok></fnt>
+      </ekz>
+    </dif>
+    <trd lng="de">Kapuzenmantel</trd>
+    <trd lng="en">capote</trd>
+    <trd lng="fr">capote<klr tip="ind"> (v&ecirc;tement)</klr></trd>
+    <trd lng="hu">kapucnis <ind>kab&aacute;t</ind></trd>
+    <trdgrp lng="it">
+      <trd>mantello<klr> (con cappuccio)</klr></trd>,
+      <trd>pastrano<klr> (con cappuccio)</klr></trd>
+    </trdgrp>
+    <trd lng="nl">kapotjas</trd>
+    <trd lng="pl">kapota</trd>
+    <trdgrp lng="ru">
+      <trd>&c_p;&c_l;&c_a;&c_shch; &c_s;
+      &c_k;&c_a;&c_p;&c_ju;&c_sh;&c_o;&c_n;&c_o;&c_m;</trd>,
+      <trd>&c_b;&c_a;&c_l;&c_a;&c_h;&c_o;&c_n;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="kapot.0o.AUT">
+    <uzo tip="fak">AUT</uzo>
+    <dif>
+      Metala kovrilo de <ref tip="malprt"
+      cel="auxt.0o">a&ubreve;ta</ref> motoro:
+      <ekz>
+        Martin sidi&gcirc;is sur la <tld/>o de la a&ubreve;to
+        <fnt><aut>I. Nemere</aut>, <vrk>Sur Kampo Granita</vrk>, 
+        <lok>1983</lok></fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>Motorhaube</trd>,
+      <trd>K&uuml;hlerhaube</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>hood<klr tip="amb"> (car engine cover - US)</klr></trd>,
+      <trd>bonnet<klr tip="amb"> (car engine cover -
+      British)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="es">
+      <trd>cap&oacute;</trd>,
+      <trd>cofre</trd>
+    </trdgrp>
+    <trd lng="fr">capot<klr tip="ind"> (de voiture)</klr></trd>
+    <trd lng="hu">motorh&aacute;ztet&odblac;</trd>
+    <trdgrp lng="it">
+      <trd>cofano<klr> (di auto)</klr></trd>
+    </trdgrp>
+    <trd lng="nl">motorkap</trd>
+    <trd lng="pl">maska<klr> silnika</klr></trd>
+    <trd lng="ru">&c_k;&c_a;&c_p;&c_o;&c_t;</trd>
+  </snc>
+  <trd lng="bg">&c_k;&c_a;&c_ch;&c_u;&c_l;&c_k;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>kapota</trd>,
+    <trd>pl&aacute;&scaron;&tcaron; s kapuc&iacute;</trd>
+  </trdgrp>
+  <trd lng="sk">pl&aacute;&scaron;&tcaron; s kapuc&ncaron;ou</trd>
+</drv>
+</art>
+<!--
+$Log: kapot.xml,v $
+Revision 1.18  2015/10/23 19:10:15  revo
+Joop Eggen: +trd bg
+
+Revision 1.17  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.15  2011/01/11 19:10:10  revo
+Jeromo Vasxe: + ekz
+
+Revision 1.14  2010/05/17 16:30:38  revo
+Antonio Codazzi: +trd it
+
+Revision 1.13  2010/02/02 17:30:34  revo
+Russ Williams: +trd en
+
+Revision 1.12  2008/05/09 19:11:26  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.11  2004/11/07 17:32:03  revo
+-->
+</vortaro>

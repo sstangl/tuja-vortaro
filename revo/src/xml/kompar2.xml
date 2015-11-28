@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: kompar2.xml,v 1.13 2015/07/04 08:37:37 revo Exp $">
+<kap>
+  <rad>komparativ</rad>/o
+</kap>
+<drv mrk="kompar2.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">GRA</uzo>
+  <snc>
+    <dif>
+      Gramatika rimedo, per kiu oni modifas adjektivon a&ubreve; adverbon,
+      por signifi, ke la econ esprimatan de ili posedas la&ubreve; diversaj
+      gradoj du komparataj objektoj a&ubreve; personoj, a&ubreve; ke unu sama objekto
+      a&ubreve; persono posedas tiun econ pli a&ubreve; malpli a&ubreve; samgrade ol alian
+      komparatan econ:
+      <ekz>
+        la <tld/>o estas farata per la vorto <ctl>pli</ctl>
+        <fnt><bib>FK</bib><lok>Plena gramatiko de Esperanto</lok></fnt>;
+      </ekz>
+      <ekz>
+        <ind>supereca <tld/>o</ind>
+        <klr>(esprimata per adv.: pli... ol)</klr>;
+        <trd lng="fr">comparatif de sup&eacute;riorit&eacute;</trd>
+      </ekz>
+      <ekz>
+        <ind>malsupereca <tld/>o</ind>
+        <klr>(esprimata per adv.: malpli... ol)</klr>;
+        <trd lng="fr">comparatif d'inf&eacute;riorit&eacute;</trd>
+      </ekz>
+      <ekz>
+        <ind>egaleca <tld/>o</ind>
+        <klr>(esprimata per adv.: tiel... kiel, same kiel)</klr>.
+        <trd lng="fr">comparatif d'&eacute;galit&eacute;</trd>
+      </ekz>
+    </dif>
+  </snc>
+  <adm>
+    Male al PIV1, PIV2 diras, ke la radiko estas oficiala (1 OA).
+    Kontrolenda.
+    <aut>MB</aut>
+  </adm>
+  <trd lng="be">&c_p;&c_a;&c_r;&c_a;&c_w;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_a;&c_ja; <ind>&c_s;&c_t;&c_u;&c_p;&c_je;&c_n;&c_mol;</ind></trd>
+  <trd lng="ca">comparaci&oacute;</trd>
+  <trdgrp lng="de">
+    <trd>Komparativ</trd>,
+    <trd>erste <ind>Vergleichsstufe</ind></trd>
+  </trdgrp>
+  <trd lng="en">comparison</trd>
+  <trd lng="fr">comparatif<klr tip="ind"> (subst., gramm.)</klr></trd>
+  <trdgrp lng="nl">
+    <trd>comparatief</trd>,
+    <trd>vergelijkende <ind>trap</ind></trd>
+  </trdgrp>
+  <trd lng="pt">comparativo</trd>
+  <trd lng="ru">&c_s;&c_r;&c_a;&c_v;&c_n;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_a;&c_ja; &c_s;&c_t;&c_je;&c_p;&c_je;&c_n;&c_mol;</trd>
+  <trd lng="sk">komparatív</trd>
+  <trdgrp lng="cs">
+    <trd>2.st. příd. jmen</trd>,
+    <trd>komparativ</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: kompar2.xml,v $
+Revision 1.13  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.12  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.11  2012/07/21 09:10:16  revo
+Marc Rausell: + trd ca
+
+Revision 1.10  2007/01/06 17:30:16  revo
+Tulio Flores: +tr pt
+
+Revision 1.9  2005/01/09 17:32:31  revo
+Marc Bavant: +trd fr, +GRA, +ekz, +adm
+
+Revision 1.8 2003/01/05 17:34:46 revo
+Dmitri Gabinski: +trd be
+
+Revision 1.7 2001/11/27 17:34:03 revo
+Ulrich Fellmann: + 2 germ trdj
+
+Revision 1.6 2001/10/08 18:14:50 revo
+Yury Finkel: +trd ru
+
+Revision 1.5 2001/08/30 18:31:40 revo
+Paul Peeraerts: ald trd nl
+
+Revision 1.4 2001/02/28 17:12:39 revo
+-->
+</vortaro>

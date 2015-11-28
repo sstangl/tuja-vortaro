@@ -1,0 +1,412 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: film.xml,v 1.33 2015/07/04 08:37:34 revo Exp $">
+<kap>
+  <ofc>8</ofc>
+  <rad>film</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="film.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="film.0o.KIN">
+    <tezrad fak="KIN"/>
+    <uzo tip="fak">KIN</uzo>
+    <dif>
+      Serio de movi&gcirc;aj bildoj, projekciebla sur ekranon:
+      <ekz>
+        en la popola domo oni montros gajan <tld/>on
+        <fnt><bib>InfanTorent2</bib>, <lok>unua parto, &ccirc;apitro
+        2a</lok></fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="en">
+      <trd>movie</trd>,
+      <trd>film</trd>,
+      <trd>motion picture</trd>
+    </trdgrp>
+    <trd lng="pl">film</trd>
+    <trd lng="ru">&c_f;&c_i;&c_l;&c_mol;&c_m;</trd>
+  </snc>
+  <snc mrk="film.0o.FOT">
+    <uzo tip="fak">FOT</uzo>
+    <dif>
+      <ref cel="impres.0ebla0igxema">Impresebla</ref> membrano el
+      celuloido a&ubreve; el simila substanco uzata unuope por
+      fotografado a&ubreve; en strio por
+      <tld/>ado.
+    </dif>
+    <adm>
+      Sub "impresi" indus spliti ~igxema disde ~ebla. <aut>MB</aut>
+    </adm>
+    <trd lng="en">film</trd>
+    <trdgrp lng="pl">
+      <trd>film</trd>,
+      <trd>b&lstroke;ona<klr tip="amb"> fotograficzna</klr></trd>
+    </trdgrp>
+    <trd lng="ru">&c_p;&c_l;&c_jo;&c_n;&c_k;&c_a;</trd>
+  </snc>
+  <snc mrk="film.0o.tavolo">
+    <uzo tip="fak">TEK</uzo>
+    <uzo tip="fak">FIZ</uzo>
+    <dif>
+      Maldika tavolo a&ubreve; &scirc;elo, kovranta ion:
+      <ekz>
+        iriza benzina <tld/>o sur akvo;
+      </ekz>
+      <ekz>
+        celofana <tld/>o;
+      </ekz>
+      <ekz>
+        forcejo, kovrita per <tld/>o.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="membra.0o">membrano</ref>
+    <trd lng="en">film</trd>
+    <trdgrp lng="pl">
+      <trd>film</trd>,
+      <trd>b&lstroke;ona</trd>
+    </trdgrp>
+    <trd lng="ru">&c_p;&c_l;&c_jo;&c_n;&c_k;&c_a;</trd>
+  </snc>
+  <trd lng="cs">film</trd>
+  <trd lng="de">Film</trd>
+  <trd lng="en">film</trd>
+  <trd lng="es">pel&iacute;cula</trd>
+  <trdgrp lng="fr">
+    <trd>film</trd>,
+    <trd>feuille<klr tip="ind"> (film)</klr></trd>,
+    <trd>pellicule<klr tip="ind"> (phot., mince couche)</klr></trd>
+  </trdgrp>
+  <trd lng="hu">film</trd>
+  <trd lng="nl">film</trd>
+  <trdgrp lng="pt">
+    <trd>filme</trd>,
+    <trd>pel&iacute;cula</trd>
+  </trdgrp>
+  <trd lng="sk">film</trd>
+</drv>
+
+<drv mrk="film.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="film.0i.KIN">
+    <uzo tip="fak">KIN</uzo>
+    <dif>
+      Fari <tld/>on, registri per movbildoj:
+      <ekz>
+        <tld/>i dramon, komedion, scenon;
+      </ekz>
+      <ekz>
+        preterpasantoj <klr>...</klr> mult-foje e&ccirc; fotis kaj
+        <tld/>is la grupon
+        <fnt>
+        <aut>C. Dorneles Soares</aut>,
+        <vrk>Ankora&ubreve; pri la Monda Socia Forumo</vrk>,
+        <lok>soc.culture.esperanto, 2002-02-20</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>filmovat</trd>,
+    <trd>nafilmovat</trd>
+  </trdgrp>
+  <trd lng="de">filmen</trd>
+  <trdgrp lng="en">
+    <trd>film</trd>,
+    <trd>shoot (a film)</trd>
+  </trdgrp>
+  <trd lng="es">filmar</trd>
+  <trd lng="fr">filmer</trd>
+  <trd lng="hu">filmez</trd>
+  <trdgrp lng="pl">
+    <trd>filmowa&cacute;</trd>,
+    <trd>kr&eogonek;ci&cacute; <ind>film</ind></trd>,
+    <trd>nagrywa&cacute; <ind>film</ind></trd>,
+    <trd>rejestrowa&cacute; <ind>film</ind></trd>
+  </trdgrp>
+  <trd lng="ru">&c_s;&c_n;&c_i;&c_m;&c_a;&c_t;&c_mol;
+  <klr tip="amb">
+  (&c_n;&c_a; &c_k;&c_i;&c_n;&c_o;&c_p;&c_l;&c_jo;&c_n;&c_k;&c_u;)
+  </klr></trd>
+  <trdgrp lng="sk">
+    <trd>filmovať</trd>,
+    <trd>nakrúcať film</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="film.0ilo">
+  <kap><tld/>ilo</kap>
+  <snc mrk="film.0ilo.KIN">
+    <uzo tip="fak">KIN</uzo>
+    <dif>
+      <ref tip="super" cel="kamera.0o.FOT">Kamerao</ref> por registri
+      <ref tip="vid" cel="film.0o.KIN"><tld/>on</ref>:
+      <ekz>
+        ne estas fotiloj kaj <tld/>iloj en la loko
+        <fnt>
+        <aut>Jaena Esperantisto</aut>,
+        <vrk>Re: Usonanino estis barbare mortigita en la
+        Gaza-strio</vrk>,
+        <lok>soc.culture.esperanto, 2003-03-19</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">filmová kamera</trd>
+  <trd lng="fr">cam&eacute;ra</trd>
+  <trd lng="pl">kamera<klr> filmowa</klr></trd>
+  <trd lng="sk">filmová kamera</trd>
+</drv>
+
+<drv mrk="film.desegno0o">
+  <kap>desegno<tld/>o</kap>
+  <snc mrk="film.desegno0o.KIN">
+    <uzo tip="fak">KIN</uzo>
+    <dif>
+      Animacia verko desegnita kaj prezentebla kiel
+      <ref tip="super" cel="film.0o.KIN">filmo</ref>:
+      <ekz>
+        kiam mi estis infano, mi vidadis desegno<tld/>ojn fare de
+        <klr>...</klr> Walt DISNEY
+        <fnt>
+        <aut>Zhong Q.</aut>,
+        <vrk>desegnofilmo la totoroo...</vrk>,
+        <lok>soc.culture.esperanto, 1994-05-05</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="de">
+    <trd>Zeichentrickfilm</trd>,
+    <trd>Trickfilm</trd>
+  </trdgrp>
+  <trd lng="fr">dessin anim&eacute;</trd>
+  <trdgrp lng="pl">
+    <trd>film rysunkowy</trd>,
+    <trd>kresk&oacute;wka</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_a;&c_n;&c_i;&c_m;&c_a;&c_c;&c_i;&c_o;&c_n;&c_n;&c_y;&c_j; &c_f;&c_i; &c_l;&c_mol;&c_m;</trd>,
+    <trd>&c_m;&c_u;&c_l;&c_mol;&c_t;&c_i;&c_p;&c_l;&c_i;&c_k;&c_a;&c_c;&c_i;&c_o; &c_n;&c_n;&c_y;&c_j; &c_f;&c_i;&c_l;&c_mol;&c_m;</trd>,
+    <trd>&c_m;&c_u;&c_l;&c_mol;&c_t;&c_f;&c_i;&c_l;&c_mol;&c_m;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="film.dokument0o">
+  <kap>dokument<tld/>o</kap>
+  <snc mrk="film.dokument0o.KIN">
+    <uzo tip="fak">KIN</uzo>
+    <dif>
+      Esplora inform<ref tip="super" cel="film.0o.KIN"><tld/>o</ref>
+      pri iu temo, kontraste al fikcia&jcirc;oj, nova&jcirc;oj...:
+      <ekz>
+        dum la voja&gcirc;o estus tre utile fari dokument<tld/>on
+        <fnt>
+        <aut>Arono kaj Karlina</aut>,
+        <vrk><url ref="http://radioverda.com/">
+        Radio Verda</url></vrk>,
+        <lok>2007-01-24</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="de">Dokumentarfilm</trd>
+  <trd lng="fr">documentaire<klr> (film)</klr></trd>
+  <trdgrp lng="pl">
+    <trd>film dokumentalny</trd>,
+    <trd>dokument<klr> (film)</klr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="film.kartocx0o">
+  <kap>karto&ccirc;<tld/>o, <var><kap>rul<tld/>o</kap></var></kap>
+  <snc>
+    <uzo tip="fak">FOT</uzo>
+    <dif>
+      Cilindroforma volva&jcirc;o de <tld/>o kaj nigra papero,
+      danke al kiu oni povas &scirc;argi la fotografilojn en plenlumo.
+    </dif>
+  </snc>
+  <adm>
+    Dubinda vorto. &Gcirc;i devus esti formita inverse. Mankas en PIV1.
+    La difino ne ebligas kompreni, pri kio temas (nigra papero?).
+    <aut>MB</aut>
+  </adm>
+  <trd lng="de">Filmpatrone</trd>
+  <trdgrp lng="pl">
+    <trd>rolka<klr> filmu</klr></trd>,
+    <trd>szpulka<klr> filmu</klr></trd>
+  </trdgrp>
+  <trd lng="hu">filmtekercs</trd>
+</drv>
+
+<drv mrk="film.terur0o">
+  <kap>terur<tld/>o</kap>
+  <snc mrk="film.terur0o.KIN">
+    <uzo tip="fak">KIN</uzo>
+    <dif>
+      Fikcio<ref tip="super" cel="film.0o.KIN"><tld/>o</ref>
+      prezentanta terurajn, timigajn scenojn:
+      <ekz>
+        Polanski estis la unua, kiu donis al &scirc;i &ccirc;efrolon
+        &ndash; en sia terur<tld/>o <ctl>Balo de vampiroj</ctl>
+        <fnt>
+        <aut>A. Profi</aut>,
+        <vrk>Romano Polanski</vrk>,
+        <lok><url
+        ref="http://abonu.com/archive/kulturo.mozaiko/200304/08212045.html">
+        Art-mozaiko, 2003-04,numero 12a</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="de">Horrorfilm</trd>
+  <trd lng="fr">film d'horreur</trd>
+  <trdgrp lng="pl">
+    <trd>horror</trd>,
+    <trd>film grozy</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="film.vaker0o">
+  <kap>vaker<tld/>o</kap>
+  <snc mrk="film.vaker0o.KIN">
+    <uzo tip="fak">KIN</uzo>
+    <dif>
+      Aventur<ref tip="super" cel="film.0o.KIN"><tld/>o</ref>
+      bildiganta la vivon de vakeroj kaj aliaj homoj en okcidenta
+      Ameriko dum &gcirc;ia e&ubreve;ropa koloniado:
+      <ekz>
+        pafisto tro influita de vaker<tld/>oj
+        <fnt>
+        <aut>-</aut>,
+        <vrk><url
+        ref="http://www.esperanto-nederland.nl/examens/gvidilo/tn-euitw.html">
+        Atletoj</url></vrk>,
+        <lok>Vertaling Nederlands-Esperanto, 2005-01</lok>
+        </fnt>
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="de">Western</trd>
+  <trd lng="fr">western</trd>
+  <trd lng="pl">western</trd>
+</drv>
+
+<drv mrk="film.vide0o">
+<kap>vide<tld/>o, <var><kap>video<tld/>o</kap></var></kap>
+  <snc mrk="film.vide0o.KIN">
+    <uzo tip="fak">KIN</uzo>
+    <dif>
+      <tld lit="F"/>o farita per videaj rimedoj:
+      <ekz>
+        Yang Lina <klr>...</klr> uzis 3 jarojn por fari la 
+        video<tld/>on <ctl>Maljunuloj</ctl>
+        <fnt>
+          <aut>Meng Danfeng</aut>,
+          <vrk><url
+          ref="http://www.espero.com.cn/old/epch/13k/13K-5.htm">
+          &Scirc;i kaj &scirc;ia videofilmo "Maljunuloj"</url></vrk>,
+          <lok>[2009?]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="fr">
+    <trd>film vid&eacute;o</trd>,
+    <trd>vid&eacute;ofilm</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="film.0kaseto">
+  <kap><tld/>kaseto</kap>
+  <snc>
+    <uzo tip="fak">FOT</uzo>
+    <dif>
+      Speciala kaseto por la uzado de <tld/>oj en fotografilo:
+      <ekz>
+        por <tld/>kasetoj oni uzas plat<tld/>ojn.
+      </ekz>
+    </dif>
+  </snc>
+  <adm>
+    Kia diferenco kun "kaseto"? (Cetere cxi-lasta artikolo estas tute
+    malklara kaj PIV1 draste limigis gxian sencon.) Kion signifas plat~o
+    (en la ekz-o)? <aut>MB</aut>
+  </adm>
+  <trd lng="de">Filmkassette</trd>
+  <trd lng="en">film cartridge</trd>
+  <trd lng="fr">chargeur<klr tip="ind"> (de pellicule photo)</klr></trd>
+  <trd lng="hu">filmkazetta</trd>
+  <trdgrp lng="pl">
+    <trd>kasetka<klr> z filmem</klr></trd>
+  </trdgrp>
+  <trd lng="ru">&c_k;&c_a;&c_s;&c_s;&c_je;&c_t;&c_a; &c_d;&c_l;&c_ja; &c_p;&c_l;&c_jo;&c_n;&c_k;&c_i;</trd>
+  <trd lng="sk">filmová kazeta</trd>
+  <trd lng="cs">filmová kazeta</trd>
+</drv>
+
+<drv mrk="film.0ludi">
+  <kap><tld/>ludi</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc>
+    <uzo tip="fak">KIN</uzo>
+    <dif>
+      Ludi por <tld/>o.
+    </dif>
+  </snc>
+  <trd lng="cs">hrát ve filmu</trd>
+  <trd lng="fr">jouer<klr tip="ind"> (dans un film)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>j&aacute;tszik<klr tip="amb"> (filmben)</klr></trd>,
+    <trd>szerepel<klr tip="amb"> (filmben)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>gra&cacute;<klr>w filmie</klr></trd>,
+    <trd>wyst&eogonek;powa&cacute;<klr>w filmie</klr></trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_i;&c_g;&c_r;&c_a;&c_t;&c_mol; <klr tip="amb">(&c_v; &c_k;&c_i;&c_n;&c_o;)</klr></trd>,
+    <trd>&c_s;&c_n;&c_i;&c_m;&c_a;&c_t;&c_mol;&c_s;&c_ja; <klr tip="amb">(&c_v; &c_k;&c_i;&c_n;&c_o;)</klr></trd>
+  </trdgrp>
+  <trd lng="sk">hrať vo filme</trd>
+</drv>
+<adm>
+  Transporti ~kaseto kaj ~ludi al la artikolo de la cxefelemento.
+  <aut>MB</aut>
+</adm>
+</art>
+<!--
+$Log: film.xml,v $
+Revision 1.33  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.32  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.31  2011/06/16 12:10:09  revo
+Jeromo Vasxe: preciz. 1 dif
+
+Revision 1.30  2010/11/25 17:30:25  revo
+Jeromo Vasxe: + vide~o
+
+Revision 1.29  2008/07/09 16:30:17  revo
+Jeromo Vasxe: ~1 kor. dif post propono de v. lutermano
+
+Revision 1.28 2008/05/28 20:07:59 revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.27 2007/06/27 16:31:32 revo
+Wieland Pusch: +trd de
+
+Revision 1.26 2007/06/01 16:30:46 revo
+Tulio Flores: +tr pt
+
+Revision 1.25 2007/05/30 16:31:03 revo
+Tulio Flores: +tr pt
+
+Revision 1.24 2007/02/25 17:30:26 revo
+-->
+</vortaro>

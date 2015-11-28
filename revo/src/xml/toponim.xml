@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: toponim.xml,v 1.4 2014/12/13 13:10:17 revo Exp $">
+
+
+<kap>
+  <rad>toponim</rad>/o
+</kap>
+<drv mrk="toponim.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="stl">RAR</uzo>
+  <snc mrk="toponim.0o.GEOG">
+    <uzo tip="fak">GEOG</uzo>
+    <ref tip="dif" cel="nom.lok0o">loknomo</ref>
+    <ekz>
+      la konjako estas ekzemplo por tio,
+      kiel <tld/>oj donas nomon al produktoj
+      <fnt>
+        <aut>R. Haupenthal</aut>,
+        <vrk><url
+        ref="http://esperanto-ondo.ru/Ondo/162-lode.htm#162-08">
+        Aliaj landoj, aliaj brandoj</url></vrk>,
+        <lok>La Ondo de Esperanto, 2008:4 (162)</lok>
+      </fnt>.
+    </ekz>
+  </snc>
+  <trd lng="ca">top&ograve;nim</trd>
+  <trd lng="en">toponym</trd>
+  <trd lng="es">top&oacute;nimo</trd>
+  <trd lng="fr">toponyme</trd>
+</drv>
+</art>
+
+<!--
+$Log: toponim.xml,v $
+Revision 1.4  2014/12/13 13:10:17  revo
+Jeromo Vasxe: ref dif, + rar -fak sci + fak geog + plena fnt
+
+Revision 1.3  2012/08/04 09:10:19  revo
+Marc Rausell: + trd ca
+
+Revision 1.2  2011/06/02 15:10:10  revo
+Mireille Corobu: fortiris toponimio
+
+Revision 1.1  2011/05/30 18:10:08  revo
+Mireille Corobu: nova artikolo
+-->
+</vortaro>

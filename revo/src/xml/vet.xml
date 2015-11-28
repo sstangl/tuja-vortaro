@@ -1,0 +1,226 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: vet.xml,v 1.21 2015/10/27 06:10:15 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>vet</rad>/i
+</kap>
+<drv mrk="vet.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>x</vspec></gra>
+  <snc mrk="vet.0i.private">
+    <dif>
+      Interkonsenti pri monsumo a&ubreve; valora&jcirc;o, &gcirc;enerale amba&ubreve;flanke
+      egala,
+      kiun la malpravanto devos pagi al la pravanto:
+      <ekz>
+        la re&gcirc;o <tld/>is kun li je ses berberaj &ccirc;evaloj, ke Laerto en
+        dekdu renkonti&gcirc;oj ne venkos pli ol tri fojojn<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        <tld/>i dek frankojn kontra&ubreve; unu<fnt>B</fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">wetten</trd>
+    <trd lng="it">scommettere</trd>
+    <trdgrp lng="ru">
+      <trd>&c_b;&c_i;&c_t;&c_mol;&c_s;&c_ja; &c_o;&c_b; &c_z;&c_a;&c_k;&c_l;&c_a;&c_d;</trd>,
+      <trd>&c_d;&c_je;&c_r;&c_zh;&c_a;&c_t;&c_mol; &c_p;&c_a;&c_r;&c_i;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="vet.0i.SPO">
+  <uzo tip="fak">SPO</uzo>
+    <dif>
+      Riski sumon en ludo por tia a&ubreve; tia ludanto, en konkurado por tia
+      a&ubreve;
+      tia &ccirc;evalo.
+    </dif>
+    <trd lng="en">gamble</trd>
+    <trdgrp lng="de">
+      <trd>wetten</trd>,
+      <trd>verwetten</trd>
+    </trdgrp>
+    <trdgrp lng="it">
+      <trd>puntare</trd>,
+      <trd>scommettere</trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>stawia&cacute; <klr>(na co&sacute;/kogo&sacute;)</klr></trd>,
+      <trd>obstawia&cacute;</trd>
+    </trdgrp>
+    <trd lng="ru">&c_p;&c_o;&c_s;&c_t;&c_a;&c_v;&c_i;&c_t;&c_mol; <klr tip="amb">(&c_n;&c_a;
+    &c_l;&c_o;&c_sh;&c_a;&c_d;&c_mol;)</klr></trd>
+  </snc>
+  <trdgrp lng="ca">
+    <trd>apostar</trd>,
+    <trd>jugar</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>s&aacute;zet se</trd>,
+    <trd>vsadit se</trd>
+  </trdgrp>
+  <trd lng="el">&sigma;&tau;&omikron;&jota;&chi;&eta;&my;&alfa;&tau;&jota_ton;&zeta;&omega;</trd>
+  <trdgrp lng="en">
+    <trd>bet</trd>,
+    <trd>wager</trd>
+  </trdgrp>
+  <trd lng="es">apostar</trd>
+  <trdgrp lng="fr">
+    <trd>jouer<klr> (de l'argent)</klr></trd>,
+    <trd>parier</trd>
+  </trdgrp>
+  <trd lng="hu">fogad <klr tip="ind">(vmibe)</klr></trd>
+  <trd lng="nl">wedden</trd>
+  <trdgrp lng="pl">
+    <trd>zak&lstroke;ada&cacute; si&eogonek;</trd>,
+    <trd>robi&cacute; <ind>zak&lstroke;ad</ind></trd>
+  </trdgrp>
+  <trd lng="pt">apostar</trd>
+  <trdgrp lng="sk">
+    <trd>stavi&tcaron; sa <klr>(o nie&ccaron;o)</klr></trd>,
+    <trd>vsadi&tcaron; na nie&ccaron;o</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="vet.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="vet.0o.vetado">
+    <dif>
+      Ago <tld/>i:
+      <ekz>
+        gajni<fnt>Z</fnt>,
+      </ekz>
+      <ekz>
+        perdi<fnt>Z</fnt>
+      </ekz>
+      <ekz>
+        <tld/>on;
+      </ekz>
+      <ekz>
+        &ccirc;e tiu neegala <tld/>o mi venkos<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+    <trd lng="ca">juguesca</trd>
+    <trdgrp lng="de">
+      <trd>Wette</trd>,
+      <trd>Wetten</trd>
+    </trdgrp>
+    <trd lng="fr">pari</trd>
+    <trd lng="hu">fogad&aacute;s <klr tip="ind">(vmiben)</klr></trd>
+    <trd lng="it">scommessa</trd>
+    <trd lng="nl">weddenschap</trd>
+    <trd lng="pl">zak&lstroke;ad</trd>
+    <trd lng="ru">&c_p;&c_a;&c_r;&c_i;</trd>
+  </snc>
+  <snc mrk="vet.0o.vetpago">
+    <dif>
+      Monsumo a&ubreve; valora&jcirc;o <tld/>ita.
+    </dif>
+    <trd lng="ca">posta</trd>
+    <trdgrp lng="de">
+      <trd>Einsatz</trd>,
+      <trd>Wetteinsatz</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>enjeu</trd>,
+      <trd>mise<klr> (au jeu)</klr></trd>
+    </trdgrp>
+    <trd lng="hu">t&eacute;t</trd>
+    <trdgrp lng="it">
+      <trd>posta<klr> (nelle scommesse)</klr></trd>
+      <trd>puntata<klr> (nelle scommesse)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_z;&c_a;&c_k;&c_l;&c_a;&c_d;</trd>,
+      <trd>&c_s;&c_t;&c_a;&c_v;&c_k;&c_a;</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="ca">aposta</trd>
+  <trd lng="cs">s&aacute;zka <klr>(smlouva)</klr></trd>
+  <trd lng="el">&sigma;&tau;&omikron;&jota_ton;&chi;&eta;&my;&alfa;</trd>
+  <trdgrp lng="en">
+    <trd>bet</trd>,
+    <trd>wager</trd>
+  </trdgrp>
+  <trd lng="es">apuesta</trd>
+  <trd lng="pt">aposta</trd>
+  <trd lng="sk">st&aacute;vka</trd>
+</drv>
+
+<drv mrk="vet.0e">
+  <kap><tld/>e</kap>
+  <snc mrk="vet.0e..proveto">
+    <dif>
+      Farante <tld/>on:
+      <ekz>
+        <tld/>e ludi sian tutan ri&ccirc;a&jcirc;on;
+      </ekz>
+      <ekz>
+        <tld/>batali, <tld/>kuri
+        <klr>(batali, kuri pro <tld/>o, kiu venkos)</klr>.
+      </ekz>
+    </dif>
+    <trdgrp lng="ca">
+      <trd>en juguesca</trd>,
+      <trd>apostant</trd>
+    </trdgrp>
+    <trd lng="de">beim Wetten</trd>
+    <trdgrp lng="ru">
+      <trd>&c_n;&c_a; &c_p;&c_a;&c_r;&c_i;</trd>,
+      <trd>&c_n;&c_a; &c_s;&c_p;&c_o;&c_r;</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>fogadva</trd>,
+      <trd>fogad&aacute;son</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="vet.0e.FIG">
+    <dif>
+      Kvaza&ubreve; farante <tld/>on:
+      <ekz>
+        la hundoj <tld/>e provis atingi la kolbason;
+      </ekz>
+      <ekz>
+        tre multekosta estas la <ind><tld/>armado</ind>.
+        <trd lng="hu">fegyverkez&eacute;si verseny</trd>
+        <trd lng="ru">&c_g;&c_o;&c_n;&c_k;&c_a; &c_v;&c_o;&c_o;&c_r;&c_u;&c_zh;&c_je;&c_n;&c_i;&c_j;</trd>
+      </ekz>
+    </dif>
+    <trd lng="de">um die Wette</trd>
+    <trd lng="hu">versengve</trd>
+    <trdgrp lng="fr">
+      <trd>&agrave; l'envie</trd>,
+      <trd>&agrave; qui mieux mieux</trd>
+    </trdgrp>
+    <trd lng="ru">&c_n;&c_a;&c_p;&c_je;&c_r;&c_je;&c_g;&c_o;&c_n;&c_k;&c_i;</trd>
+  </snc>
+</drv>
+</art>
+<!--
+$Log: vet.xml,v $
+Revision 1.21  2015/10/27 06:10:15  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.20  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/28 12:03:50  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2012/08/12 11:10:14  revo
+Marc Rausell: + trd ca
+
+Revision 1.17  2009/12/20 17:30:45  revo
+ Fabio Bettani: +trd it
+
+Revision 1.16  2006/05/27 18:01:39  revo
+Eduardo Navas: +trd es
+
+Revision 1.15  2004/03/02 17:31:39  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.14  2004/02/25 17:31:42  revo
+-->
+</vortaro>

@@ -1,0 +1,172 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: kapsul.xml,v 1.24 2015/07/04 08:37:36 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>kapsul</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="kapsul.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="kapsul.0o.KOMUNE">
+    <dif>
+      Rigida kovrilo a&ubreve; &scirc;elo, kiu malfermi&gcirc;as fende,
+      torde, rompe.
+    </dif>
+    <subsnc mrk="kapsul.0o.botelcxapo">
+      <uzo tip="fak">TEK</uzo>
+      <dif>
+        <ref tip="super" cel="cxap.0o.TEK">&Ccirc;apo</ref>
+        el metalo a&ubreve; plasto, fermanta la bu&scirc;on de botelo.
+      </dif>
+      <trd lng="ca">tap</trd>
+      <trd lng="fr">capsule<klr tip="ind"> (de bouteille)</klr></trd>
+      <trd lng="nl">kroonkurk</trd>
+      <trdgrp lng="ru">
+        <trd>&c_k;&c_o;&c_l;&c_p;&c_a;&c_ch;&c_o;&c_k;<klr tip="amb"> (&c_b;&c_u;&c_t;&c_y;&c_l;&c_k;&c_i;)</klr></trd>,
+        <trd>&c_k;&c_r;&c_y;&c_sh;&c_k;&c_a;<klr tip="amb"> (&c_b;&c_u;&c_t;&c_y;&c_l;&c_k;&c_i;)</klr></trd>
+      </trdgrp>
+      <trd lng="sv">kapsyl</trd>
+    </subsnc>
+    <subsnc mrk="kapsul.0o.MED">
+      <uzo tip="fak">MED</uzo>
+      <fnt><bib>VdE</bib></fnt>
+      <dif>
+        Ujeto el gelateno a&ubreve; oblato, uzata por enteni malbongustajn
+        medikamentojn.
+      </dif>
+      <trdgrp lng="de">
+        <trd>Kapsel</trd>,
+        <trd>Medikamentenkapsel</trd>
+      </trdgrp>
+      <trd lng="en">capsule</trd>
+      <trdgrp lng="fr">
+        <trd>capsule<klr tip="ind"> (m&eacute;dicament)</klr></trd>,
+        <trd>g&eacute;lule</trd>
+      </trdgrp>
+      <trdgrp lng="hu">
+        <trd>kapszula</trd>,
+        <trd>ostyatok</trd>
+      </trdgrp>
+      <trd lng="nl">capsule</trd>
+      <trdgrp lng="ru">
+        <trd>&c_k;&c_a;&c_p;&c_s;&c_u;&c_l;&c_a;</trd>,
+        <trd>&c_o;&c_b;&c_l;&c_a;&c_t;&c_k;&c_a;</trd>
+      </trdgrp>
+      <trd lng="sv">kapsel</trd>
+    </subsnc>
+    <subsnc mrk="kapsul.0o.BOT">
+      <uzo tip="fak">BOT</uzo>
+      <dif>
+        <ref tip="super" cel="frukt.malferm0o">Malfermfrukto</ref>
+        esti&gcirc;anta el pluraj fruktofolioj kaj malfermi&gcirc;anta
+        &ccirc;e maturi&gcirc;o per fendoj (hiperiko, irido),
+        kovrilo (hiskiamo) a&ubreve; truetoj (papavo, kampanulo).
+      </dif>
+      <trdgrp lng="de">
+        <trd>Kapsel</trd>,
+        <trd>Sporenkapsel</trd>
+      </trdgrp>
+      <trd lng="en">capsule</trd>
+      <trd lng="fr">capsule<klr tip="ind"> (bot.)</klr></trd>
+      <trdgrp lng="hu">
+        <trd>gub&oacute;</trd>,
+        <trd>tokterm&eacute;s</trd>
+      </trdgrp>
+      <trd lng="nl">doosvrucht</trd>
+      <trd lng="ru">&c_s;&c_je;&c_m;&c_je;&c_n;&c_n;&c_a;&c_ja; &c_k;&c_o;&c_r;&c_o;&c_b;&c_o;&c_ch;&c_k;&c_a;</trd>
+      <rim>
+        La signifo de tiu vorto en Esperanto &scirc;ajnas iom malklara.
+        La&ubreve; la difino en PV kaj PIV &gcirc;i sinonimas kun
+        malfermfrukto. En la germana &leftquot;Kapsel&rightquot; kaj en
+        la angla &leftquot;capsule&rightquot; signifas
+        malfermfrukton formitan el du a&ubreve; pluraj fruktofolioj
+        escepte de silikvo. En la ilustrita parto de PIV,
+        plato IV, 15, 17 kapsulo estas uzata &gcirc;uste por tiaj
+        fruktoj.
+      </rim>
+    </subsnc>
+  </snc>
+  <snc mrk="kapsul.0o.skatoleto">
+    <dif>
+      Skatoletforma objekto.
+    </dif>
+    <adm>
+      Malklara difino, kiu sxajnas pli prezenti la etimologion,
+      ol rilati al vera senco. Cxi tiu senco ne plu ekzistas en PIV-oj.
+      <aut>MB</aut>
+    </adm>
+    <trd lng="de">Geh&auml;use</trd>
+    <trd lng="hu">kapszula</trd>
+    <trd lng="nl">capsule</trd>
+    <trd lng="ru">&c_f;&c_u;&c_t;&c_l;&c_ja;&c_r;</trd>
+  </snc>
+  <snc mrk="kapsul.0o.KEM">
+    <uzo tip="fak">KEM</uzo>
+    <fnt><bib>PIV1</bib></fnt>
+    <dif>
+      <ref tip="super" cel="vaz.0o">Vazo</ref> en formo de
+      <ref cel="cxap.verto0o.MAT">verto&ccirc;apo</ref>,
+      uzata por vaporigi flua&jcirc;ojn.
+    </dif>
+    <trd lng="ca">copel&middot;la</trd>
+    <trdgrp lng="de">
+      <trd>Schale</trd>,
+      <trd>Abdampfschale</trd>,
+      <trd>Kupelle</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>capsule<klr tip="ind"> (chim.)</klr></trd>,
+      <trd>coupelle<klr tip="ind"> (petit r&eacute;cipient en forme de
+      calotte)</klr></trd>
+    </trdgrp>
+    <trd lng="hu">lep&aacute;rl&oacute;cs&eacute;sze</trd>
+    <trd lng="nl">capsule</trd>
+    <trd lng="ru">&c_k;&c_a;&c_p;&c_s;&c_u;&c_l;&c_a;</trd>
+  </snc>
+  <trd lng="ca">c&agrave;psula</trd>
+  <trdgrp lng="cs">
+    <trd>kapsle</trd>,
+    <trd>uzávěr <klr>(lahve)</klr></trd>
+  </trdgrp>
+  <trd lng="es">c&aacute;psula</trd>
+  <trdgrp lng="sk">
+    <trd>kapsula</trd>,
+    <trd>pologuľatá kovová krabička</trd>,
+    <trd>tobolka</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: kapsul.xml,v $
+Revision 1.24  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.23  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.22  2013/11/08 19:10:39  revo
+Jeromo Vasxe: snc/subsnc
+
+Revision 1.21  2012/08/03 13:10:31  revo
+Marc Rausell: + trd ca
+
+Revision 1.20  2009/08/23 16:33:54  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.19  2009/02/19 20:27:02  revo
+Jerano Zachrisson: +trd sv
+
+Revision 1.18  2005/04/12 16:32:43  revo
+Yury Finkel: +trd ru
+
+Revision 1.17  2004/11/28 19:42:48  revo
+Marc Bavant: +trd fr; ~o BOT: sxovis rim gxustaloken; ~o: +snc TEK,
++mrk, +uzo MED/KEM; ~o 1: +adm; ~o 2: mod dif
+
+Revision 1.16 2003/06/01 16:31:31 revo
+Alejandro Mejia Greene: ald 1 his trd
+
+-->
+</vortaro>

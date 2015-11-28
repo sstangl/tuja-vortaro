@@ -1,0 +1,206 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: lauxt.xml,v 1.21 2015/05/16 05:10:17 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>la&ubreve;t</rad>/a <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="lauxt.0a">
+  <kap><ofc>*</ofc><tld/>a</kap>
+  <snc mrk="lauxt.0a.MUZ">
+    <uzo tip="fak">MUZ</uzo>
+    <dif>
+      Forte, intense a&ubreve;debla:
+      <ekz>
+        <tld/>a vo&ccirc;o, &gcirc;emo, krio, sono, bruo, rido, &gcirc;ojo;
+      </ekz>
+      <ekz>
+        &ccirc;i tie precipe la printempo estas <tld/>ega, plena je bruo de
+        la riveroj<fnt>B</fnt>;
+      </ekz>
+      <ekz>
+        <tld/>e ridi, plori;
+      </ekz>
+      <ekz>
+        <tld/>e legi;
+      </ekz>
+      <ekz>
+        <tld/>e eldiri sian opinion.
+      </ekz>
+    </dif>
+    <trd lng="ca">alt</trd>
+    <trd lng="es">alto</trd> 
+    <trd lng="pt">alto <klr tip="amb">(som)</klr></trd>
+  </snc>
+  <snc mrk="lauxt.0a.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Emfaza, efekta:
+      <ekz>
+        <tld/>aj frazoj<fnt>Z</fnt>,
+      </ekz>
+      <ekz>
+        projektoj;
+      </ekz>
+      <ekz>
+        Volap&uuml;k povis nur pase entuziasmigi la homojn sub
+        influo de <tld/>aj reklamoj<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+  </snc>          
+  <trdgrp lng="be">
+    <trd>&c_g;&c_u;&c_ch;&c_n;&c_y;</trd>,
+    <trd>&c_g;&c_o;&c_l;&c_a;&c_s;&c_n;&c_y;</trd>,
+    <trd>&c_z;&c_y;&c_ch;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trdgrp lng="br">
+    <trd>trouzus</trd>,
+    <trd>kre&ntilde;v<klr tip="ind"> (mouezh, trouz)</klr></trd>,
+    <trd>uhel<klr tip="ind"> (mouezh, trouz)</klr></trd>
+  </trdgrp>
+  <trd lng="cs">hlasit&yacute;</trd>
+  <trd lng="de">laut</trd>
+  <trd lng="en">loud</trd>   
+  <trdgrp lng="fr">
+    <trd>fort<klr tip="amb"> (bruit)</klr></trd>,
+    <trd>haute<klr tip="amb"> (voix)</klr></trd>
+  </trdgrp>
+  <trd lng="hu">hangos</trd>
+  <trd lng="nl">luid</trd>
+  <trd lng="ru">&c_g;&c_r;&c_o;&c_m;&c_k;&c_i;&c_j;</trd>
+</drv>
+
+<drv mrk="lauxt.0igi">
+  <kap><tld/>igi</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="lauxt.0igi.SON">
+    <dif>
+      Igi <tld/>a, sone pli forta, pli a&ubreve;debla:
+      <ekz>
+        <tld/>igu potence vian vo&ccirc;on<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">hausser<klr> (la voix)</klr></trd>
+</drv>
+
+<drv mrk="lauxt.0ilo">
+  <kap><tld/>ilo, <var><kap><tld/>parolilo</kap></var></kap>
+  <snc mrk="lauxt.0ilo.MUZ">
+    <uzo tip="fak">MUZ</uzo>
+    <dif>
+      Aparato por <tld/>igi vo&ccirc;on a&ubreve; sonon:
+      <ekz>
+        la generaloj per <tld/>paroliloj informis &ccirc;iujn,
+        ke ili ne zorgu, &ccirc;ar &ccirc;io estas en ordo
+        <fnt>
+          <aut>S. Strunjak</aut>,
+          <vrk>Kiel formikbebo savis...</vrk>,
+          <bib>LOdE</bib>,
+          <lok>2003:1</lok>
+         </fnt>;
+      </ekz>
+      <ekz>
+        oni a&ubreve;digis dum la tuta tempo la himnon
+        <ctl>La Espero</ctl> dissendita per <tld/>iloj
+        <fnt>
+          <aut>-</aut>,
+          <vrk>89.a Universala Kongreso en Pekino</vrk>,
+          <lok><url
+          ref="http://www.ueci.it/k_sento/ks_2004/ks_2004_i5.htm">
+          Katolika Sento, 2004:5</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>                          
+  <trd lng="br">uhelgomzer</trd>
+  <trd lng="ca">altaveu</trd>
+  <trd lng="de">Lautsprecher</trd>
+  <trd lng="es">altavoz</trd>
+  <trdgrp lng="fr">
+    <trd>baffle</trd>,
+    <trd>enceinte<klr> (baffle)</klr></trd>,
+    <trd>haut-parleur</trd>
+  </trdgrp> 
+  <trd lng="hu">hangsz&oacute;r&oacute;</trd>
+  <trd lng="nl">luidspreker</trd>
+  <trd lng="ru">&c_g;&c_r;&c_o;&c_m;&c_k;&c_o;&c_g;&c_o;&c_v;&c_o;&c_r;&c_i;&c_t;&c_je;&c_l;&c_mol;</trd>
+</drv>
+
+<drv mrk="lauxt.mal0a">
+  <kap>mal<tld/>a</kap>
+  <snc mrk="lauxt.mal0a.MUZ">
+    <uzo tip="fak">MUZ</uzo>
+    <dif>
+      Malforte, apena&ubreve; a&ubreve;debla:
+      <ekz>
+        mal<tld/>e flustri en la orelo.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_c;&c_ib;&c_h;&c_ib;</trd>  
+  <trdgrp lng="br">
+    <trd>didrouz</trd>,
+    <trd>izel<klr tip="ind"> (mouezh, trouz)</klr></trd>
+  </trdgrp>
+  <trd lng="de">leise</trd>
+  <trdgrp lng="es">
+    <trd>bajo<klr> (voz)</klr></trd>
+    <trd>silencioso</trd>
+  </trdgrp>          
+  <trdgrp lng="fr">
+    <trd>faible<klr tip="amb"> (bruit)</klr></trd>,
+    <trd>basse<klr tip="amb"> (voix)</klr></trd>
+  </trdgrp>
+  <trd lng="hu">halk</trd>
+  <trd lng="nl">zacht<klr tip="ind"> (v.geluid)</klr></trd>
+  <trd lng="pt">baixo <klr tip="amb">(som)</klr></trd>
+  <trd lng="ru">&c_t;&c_i;&c_h;&c_i;&c_j;<klr tip="ind"> (&c_o; &c_z;&c_v;&c_u;&c_k;&c_je;)</klr></trd>
+</drv>
+
+<drv mrk="lauxt.mal0igi">
+  <kap>mal<tld/>igi</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="lauxt.mal0igi.SON">
+    <dif>
+      Igi mal<tld/>a, sone malforta,
+      <ref tip="vid" cel="damp.0i.MUZ">dampi</ref>:
+      <ekz>
+        la ne&gcirc;o mal<tld/>igas la bruon de la pa&scirc;oj.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="fr">
+    <trd>assourdir</trd>,
+    <trd>&eacute;touffer<klr> (un son)</klr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: lauxt.xml,v $
+Revision 1.21  2015/05/16 05:10:17  revo
+Alain Gerard: +trd (fr)
+
+Revision 1.20  2014/02/21 02:10:12  revo
+Jeromo Vasxe: + (mal)~igi
+
+Revision 1.19  2010/04/25 16:30:18  revo
+Jeromo Vasxe: + ~ilo + mrk, + fak muz, + 2 trd fr
+
+Revision 1.18  2006/09/01 18:30:10  revo
+Tulio Flores: +tr pt
+
+Revision 1.17  2005/07/05 16:34:21  revo
+Alan ar Gall: +trd br fr
+
+Revision 1.16  2005/04/17 16:31:57  revo
+Raul Salinas Monteagudo: +trd ca,es
+
+Revision 1.15  2004/06/06 18:47:04  revo
+Marc Bavant: korektis duobligitan punkton
+
+Revision 1.14  2004/05/24 16:32:30  revo
+-->
+</vortaro>

@@ -1,0 +1,209 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+  <art mrk="$Id: oblikv.xml,v 1.21 2015/07/04 08:37:40 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>oblikv</rad>/a <fnt><bib>PV</bib></fnt>
+</kap>
+    
+<drv mrk="oblikv.0a">
+  <kap><tld/>a</kap>
+  <fnt><bib>PIV1</bib></fnt>
+  <fnt><bib>KrED</bib></fnt>
+  <snc>
+    <dif>
+      Klini&gcirc;anta for de la vertikala direkto:
+      <ekz>
+        la ortanto estas pli mallonga ol &ccirc;iuj <tld/>aj linioj
+        kondukitaj de la sama punkto al la sama rekto;
+      </ekz> <ekz>
+        <tld/>e staranta turo.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_n;&c_a;&c_h;&c_ib;&c_l;&c_mol;&c_n;&c_y;</trd>,
+      <trd>&c_n;&c_a;&c_h;&c_ib;&c_l;&c_je;&c_n;&c_y;</trd>,
+      <trd>&c_s;&c_p;&c_u;&c_s;&c_mol;&c_c;&c_ib;&c_s;&c_t;&c_y;</trd>
+    </trdgrp>
+    <trd lng="de">schief</trd>
+    <trd lng="nl">schuin</trd>
+    <trdgrp lng="ru"><trd>&c_n;&c_a;&c_k;&c_l;&c_o;&c_n;&c_n;&c_y;&c_j;</trd>,
+      <trd>&c_p;&c_o;&c_k;&c_a;&c_t;&c_y;&c_j;</trd></trdgrp>
+   </snc>
+  <snc>
+    <dif>
+      Klini&gcirc;anta for de la normala direkto: <ekz><tld/>a vojo;
+      </ekz> <ekz><tld/>e teksita drapo;
+      </ekz> <ekz><tld/>a rigardo<fnt>Z</fnt>
+        <klr>(= ne direktata al la okuloj)</klr>;
+      </ekz> <ekz>li multe rigardis &scirc;in <tld/>e kaj avide.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="rekt.mal0a">malrekta</ref>,
+      <ref cel="sxultr">tra&scirc;ultra</ref>,
+      <ref cel="transv.0a">transversa</ref>
+    </refgrp>
+    <trdgrp lng="be">
+      <trd>&c_k;&c_o;&c_s;&c_y;</trd>,
+      <trd>&c_k;&c_a;&c_s;&c_y;</trd>
+      <trd>&c_k;&c_r;&c_y;&c_v;&c_y;</trd>
+    </trdgrp>
+    <trd lng="nl">krom</trd>
+    <trd lng="ru">&c_k;&c_o;&c_s;&c_o;&c_j;</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>kosý</trd>,
+    <trd>ležatý</trd>,
+    <trd>postranní</trd>,
+    <trd>šikmý</trd>
+  </trdgrp>
+  <trd lng="en">oblique</trd>
+  <trdgrp lng="es">
+    <trd>oblicuo</trd>,
+    <trd>inclinado</trd>
+  </trdgrp>
+  <trd lng="fr">oblique<klr> (adj.)</klr></trd>
+  <trd lng="hu">ferde</trd>
+  <trd lng="pt">obl&iacute;quo</trd>
+  <trd lng="sk">šikmý</trd>
+</drv>
+
+<drv mrk="oblikv.0i">
+  <kap><tld/>i, <var><kap><tld/>iri</kap></var></kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="oblikv.0i.kie">
+    <dif>
+      Iri la&ubreve; <tld/>a direkto.
+    </dif>
+    <trd lng="ru">&c_k;&c_o;&c_s;&c_i;&c_t;&c_mol;</trd>
+  </snc>
+  <trd lng="es">oblicuar<klr tip="amb"> (ir en direcci&oacute;n
+  oblicua)</klr></trd>
+  <trd lng="fr">obliquer</trd>
+  <trdgrp lng="hu">
+    <trd>ferd&eacute;n megy</trd>,
+    <trd>ferd&eacute;n halad</trd>
+  </trdgrp>
+  <trd lng="nl"><ind>schuin</ind> lopen</trd>
+</drv>
+
+<drv mrk="oblikv.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="oblikv.0o.signo">
+    <uzo tip="fak">KOMP</uzo>
+    <dif>
+      Nomo de <ref tip="malprt" cel="aski.0o">askia</ref> signo
+      iam destinita por prezenti oblikvan
+      <ref tip="sin" cel="frakci.0streko">frakcistrekon</ref>, kaj
+      nun ricevinta la funkcion de disigilo, interalie en la uniksaj
+      dosierindikoj kaj sekve, en TTT-adresoj.
+    </dif>
+    <trd lng="de">Schr&auml;gstrich<klr tip="amb"> (Zeichen)</klr></trd>
+    <trdgrp lng="ru"><trd>&c_k;&c_o;&c_s;&c_a;&c_ja;</trd>,
+      <trd>&c_d;&c_r;&c_o;&c_b;&c_mol;</trd></trdgrp>
+    <trdgrp lng="en">
+      <trd>slash</trd>,
+      <trd>forward <ind>slash</ind></trd>,
+      <trd>diagonal</trd>,
+      <trd>fraction bar</trd>,
+      <trd>fraction</trd>,
+      <trd>solidus</trd>,
+      <trd>slant</trd>,
+      <trd>oblique stroke</trd>,
+      <trd>separatrix</trd>,
+      <trd>shilling mark</trd>,
+      <trd>shilling stroke</trd>,
+      <trd>virgule</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="fr">barre oblique</trd>
+  <trdgrp lng="hu">
+    <trd>t&ouml;rtjel</trd>,
+    <trd>perjel</trd>
+  </trdgrp>
+  <trdgrp lng="nl"><trd>schuine <ind>streep</ind></trd>,
+    <trd>breukstreep</trd></trdgrp>
+  <trd lng="pt">barra</trd>
+  <trd lng="es">pleca</trd>
+</drv>
+
+<drv mrk="oblikv.0eco">
+  <kap><tld/>eco</kap>
+  <snc mrk="oblikv.0eco.kie">
+    <dif>
+      <tld lit="O"/>a, klinita meto:
+      <ekz>
+        la interparolo vagis sencele de golfaj klaboj &gcirc;is la ka&ubreve;zo de 
+        la &scirc;an&gcirc;o en la <tld/>eco de la ekliptiko
+        <fnt>
+          <aut>A. C. Doyle, trad. S. Paget</aut>,
+          <vrk><url
+          ref="http://members.cox.net/esperanto/interpretisto/grekainterp.htm">
+          La Greka Interpretisto</url></vrk>,
+          <lok>[vidita en 2011]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="oblikv.0eco.malrekteco">
+    <uzo tip="stl">RAR</uzo>
+    <dif>
+      Malrekteco en agado pro ka&scirc;itaj
+      <ref tip="vid" cel="supoz.antaux0o.LOG">anta&ubreve;supozoj</ref>
+      a&ubreve; intencoj:
+      <ekz>
+        oni favoris dum tiom da generacioj politikan paroladon kiu 
+        privilegias aludojn kaj <tld/>econ
+        <fnt>
+          <aut>F. Jullien, trad. -</aut>,
+          <vrk><url
+          ref="http://eo.mondediplo.com/imprimer.php3?id_article=1163">
+          &Ccirc;inio en la Spegulo de Okcidento</url></vrk>, 
+          <lok>le Monde diplomatique, 2006-10</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>kosost</trd>,
+    <trd>šikmost</trd>
+  </trdgrp>
+  <trd lng="fr">obliquit&eacute;</trd>
+  <trd lng="sk">šikmosť</trd>
+</drv>
+</art>
+<!--
+$Log: oblikv.xml,v $
+Revision 1.21  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:33:21  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.19  2014/03/24 20:10:21  revo
+Agustin Garcia Lopez: +trd(es) -i
+
+Revision 1.18  2011/12/21 01:10:08  revo
+Eduardo Navas: +trad es
+
+Revision 1.17  2011/05/05 22:10:13  revo
+Jeromo Vasxe: + ~eco
+
+Revision 1.16  2010/06/30 16:30:40  revo
+Jeromo Vasxe: - kramp, + 1 trd fr
+
+Revision 1.15  2009/10/15 16:32:16  revo
+Paul Peeraerts: +nl
+
+Revision 1.14  2007/08/28 16:30:24  revo
+Wieland Pusch: +trd de
+
+Revision 1.13  2006/09/19 05:36:04  revo
+Russ Williams: +trd en
+
+Revision 1.12  2004/06/24 16:33:19  revo
+-->
+</vortaro>

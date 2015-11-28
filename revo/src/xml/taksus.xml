@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: taksus.xml,v 1.23 2015/07/04 08:37:44 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>taksus</rad>/o
+</kap>
+
+<drv mrk="taksus.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">BOT</uzo>
+  <snc>
+    <dif>
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:botanikaj_genroj">Genro</ref> el familio <ref
+      tip="malprt"
+      cel="taksus1.0oj"><tld/>acoj</ref>
+      (<trd lng="la">Taxus</trd>), arbo el
+      <ref tip="lst" cel="konifer.0o"
+      lst="voko:koniferoj">koniferoj</ref>
+      kun &ccirc;iamverdaj pinglofolietoj
+      kaj brilru&gcirc;aj dol&ccirc;aj beroj kun venena grajno.
+    </dif>
+  </snc>
+  <trd lng="be">&c_c;&c_ib;&c_s;</trd>
+  <trd lng="bg">&c_t;&c_i;&c_s;</trd>
+  <trd lng="ca">teix</trd>
+  <trd lng="cs">tis</trd>
+  <trd lng="de">Eibe</trd>
+  <trd lng="en">yew</trd>
+  <trd lng="fr">if</trd>
+  <trd lng="hu">tiszafa</trd>
+  <trd lng="nl">taxus</trd>
+  <trd lng="pl">cis</trd>
+  <trdgrp lng="pt">
+   <trd>teixo</trd>
+  </trdgrp>
+  <trd lng="ru">&c_t;&c_i;&c_s;&c_s;</trd>
+  <trd lng="sk">tis</trd>
+  <trd lng="sv">idegran</trd>
+</drv>
+</art>
+<!--
+$Log: taksus.xml,v $
+Revision 1.23  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.22  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.21  2015/02/06 15:10:16  revo
+Mireille Corobu: trd fr
+
+Revision 1.20  2013/10/26 16:10:24  revo
+Wolfram Diestel: ref al lst koniferoj
+
+Revision 1.19  2013/08/29 15:10:23  revo
+Wolfram Diestel: forigis ref al spico, cxar konfuza
+
+Revision 1.18  2012/08/13 15:10:41  revo
+Marc Rausell: + trd ca
+
+Revision 1.17  2008/01/29 17:30:34  revo
+Wieland Pusch: +trd bg
+
+Revision 1.16  2006/02/03 17:32:40  revo
+Tulio Flores: +trd pt
+
+Revision 1.15  2005/07/08 16:32:22  revo
+Vito Redsky: +trd pl
+
+Revision 1.14  2002/05/15 16:36:20  revo
+-->
+</vortaro>

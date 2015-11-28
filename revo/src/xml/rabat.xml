@@ -1,0 +1,154 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: rabat.xml,v 1.24 2015/07/04 08:37:42 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>rabat</rad>/o
+</kap>
+<drv mrk="rabat.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <uzo tip="fak">EKON</uzo>
+  <snc>
+    <dif>
+      Malpliigo de prezo, konsentita al a&ccirc;etanto:
+      <ekz>
+        peti, ricevi, &gcirc;ui <tld/>on;
+      </ekz>
+      <ekz>
+        sen<tld/>e <klr>(la&ubreve; neta prezo)</klr>;
+      </ekz>
+      <ekz>
+        la registaro pliigis impost-<tld/>ojn por tiuj, kiuj ricevas
+        malaltajn salajrojn<fnt><aut>D. E. Rogers</aut>: <vrk>Kolapsas
+        koalicio</vrk>, <bib>Monato</bib><lok>jaro 1998a, numero 12a, p.
+        8a</lok></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="diskon.0o">diskonto</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_k;&c_ib;&c_d;&c_k;&c_a;</trd>,
+    <trd>&c_z;&c_mol;&c_n;&c_ib;&c_zh;&c_k;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="ca">
+    <trd>rebaixa</trd>,
+    <trd>descompte</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>množstevní sleva</trd>,
+    <trd>rabat</trd>,
+    <trd>sleva</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Rabatt</trd>,
+    <trd>Preisnachlass</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>discount</trd>,
+    <trd>rebate</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>rebaja</trd>,
+    <trd>descuento</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>rabais</trd>,
+    <trd>remise<klr> (rabais)</klr></trd>,
+    <trd>solde</trd>
+  </trdgrp>
+  <trd lng="hu">&aacute;rengedm&eacute;ny</trd>
+  <trd lng="nl">korting</trd>
+  <trdgrp lng="pl">
+    <trd>rabat</trd>,
+    <trd>zni&zdot;ka</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+   <trd>desconto</trd>
+  </trdgrp>
+  <trdgrp lng="ro">
+    <trd>rabat</trd>,
+    <trd>reducere</trd>
+  </trdgrp>
+  <trd lng="ru">&c_s;&c_k;&c_i;&c_d;&c_k;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>rabat</trd>,
+    <trd>zľava</trd>
+  </trdgrp>
+  <trd lng="sv">rabatt <klr>(prisneds&auml;ttning)</klr></trd>
+</drv>
+
+<drv mrk="rabat.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <uzo tip="fak">EKON</uzo>
+  <snc>
+    <dif>
+      Konsenti <tld/>on de:
+      <ekz>
+        mi povas <tld/>i nur unu dolaron.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_r;&c_a;&c_b;&c_ib;&c_c;&c_mol;
+    <ind>&c_s;&c_k;&c_ib;&c_d;&c_k;&c_u;</ind></trd>,
+    <trd>&c_r;&c_a;&c_b;&c_ib;&c_c;&c_mol;
+    <ind>&c_z;&c_mol;&c_n;&c_ib;&c_zh;&c_k;&c_u;</ind></trd>
+  </trdgrp>
+  <trd lng="cs">slevit</trd>
+  <trdgrp lng="de">
+    <trd>rabattieren</trd>,
+    <trd>Preis <ind>nachlassen</ind></trd>,
+    <trd>Preisnachlass <ind>geben</ind></trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>(give a) <ind>discount</ind></trd>
+  </trdgrp>
+  <trd lng="es">rebajar</trd>
+  <trd lng="fr">faire une <ind>remise</ind></trd>
+  <trd lng="hu">&aacute;rengedm&eacute;nyt ad</trd>
+  <trd lng="nl"><ind>korting</ind> geven</trd>
+  <trdgrp lng="pl">
+    <trd>udziela&cacute; rabatu</trd>,
+    <trd>udziela&cacute; zni&zdot;ki</trd>
+  </trdgrp>
+  <trd lng="ru">&c_s;&c_d;&c_je;&c_l;&c_a;&c_t;&c_mol; &c_s;&c_k;&c_i;&c_d;&c_k;&c_u;</trd>
+  <trd lng="sk">zľaviť</trd>
+</drv>
+</art>
+<!--
+$Log: rabat.xml,v $
+Revision 1.24  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.23  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.22  2014/03/21 20:10:14  revo
+Agustin Garcia Lopez: +trd(es) -i
+
+Revision 1.21  2013/09/24 01:10:17  revo
+Vito Redsky: trd pl trd ro
+
+Revision 1.20  2009/11/11 17:30:28  revo
+Paul Peeraerts: +nl
+
+Revision 1.19  2006/02/07 17:32:22  revo
+Tulio Flores: +trd pt
+
+Revision 1.18  2005/04/18 16:33:30  revo
+Raul Salinas Monteagudo: +trd ca,es
+
+Revision 1.17  2003/01/07 17:32:41  revo
+Ulrich Fellmann: + 1 plia trd = de
+
+Revision 1.16  2002/10/25 16:32:44  revo
+Jeromo Vasxe: fak - kome + ekon, + 1 ekz
+
+Revision 1.14 2002/07/19 17:30:59 revo
+-->
+</vortaro>

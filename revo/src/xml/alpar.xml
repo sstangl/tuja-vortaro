@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: alpar.xml,v 1.8 2015/07/04 08:37:30 revo Exp $">
+<kap>
+  <rad>alpar</rad>/o
+</kap>
+<drv mrk="alpar.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">EKON</uzo>
+  <snc>
+    <dif>
+      Egaleco de valoro, ofte: kurza alparo, t.e. kiam akcia a&ubreve;
+      obligacia kurzo atingas sian nominalan valoron. Kp. <ref tip="vid"
+      cel="agxi.0o">a&gcirc;io</ref>.
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_p;&c_a;&c_r;&c_y;&c_t;&c_e;&c_t;</trd>,
+      <trd>&c_a;&c_l;&c_mol;&c_p;&c_a;&c_r;&c_y;</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd>Pariwert</trd>,
+      <trd>Parit&auml;t</trd>
+    </trdgrp>
+    <trd lng="en">parity</trd>
+    <trd lng="es">paridad</trd>
+    <trdgrp lng="ru">
+      <trd>&c_a;&c_l;&c_mol;&c_p;&c_a;&c_r;&c_i;</trd>,
+      <trd>&c_p;&c_a;&c_r;&c_i;&c_t;&c_je;&c_t;</trd>
+    </trdgrp>
+  </snc>
+  <snc>
+    <dif>
+      Nominala valoro de akcio a&ubreve; obligacio.
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_n;&c_a;&c_m;&c_ib;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_a;&c_ja; &c_v;&c_a;&c_r;&c_t;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
+      <trd>&c_n;&c_a;&c_m;&c_ib;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_y; &c_k;&c_o;&c_sh;&c_t;</trd>,
+      <trd>&c_n;&c_a;&c_m;&c_ib;&c_n;&c_a;&c_l;</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd>Nominalwert</trd>,
+      <trd>Nennwert</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>face value</trd>,
+      <trd>nominal value</trd>
+    </trdgrp>
+    <trd lng="es">valor nominal</trd>
+    <trdgrp lng="ru">
+      <trd>&c_n;&c_o;&c_m;&c_i;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_a;&c_ja; &c_s;&c_t;&c_o;&c_i;&c_m;&c_o;&c_s;&c_t;&c_mol;</trd>,
+      <trd>&c_n;&c_o;&c_m;&c_i;&c_n;&c_a;&c_l;</trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>al pari</trd>,
+    <trd>bankovní parita měny vyjádřená v jiné měně</trd>,
+    <trd>nominální hodnota</trd>
+  </trdgrp>
+  <trd lng="sk">parita meny vyjadrená v inej mene</trd>
+</drv>
+
+<drv mrk="alpar.0e">
+  <kap><tld/>e</kap>
+  <snc>
+    <dif>
+      Samvalore.
+    </dif>
+    <trd lng="en">at par</trd>
+    <trd lng="de">pari</trd>
+  </snc>
+  <snc>
+    <dif>
+      Nominalvalore.
+    </dif>
+    <trd lng="en">at face value</trd>
+    <trdgrp lng="de">
+      <trd><klr>zum </klr>Nominalwert</trd>,
+      <trd><klr>zum </klr>Nennwert</trd>
+    </trdgrp>
+    <trd lng="ru">&c_p;&c_o; &c_n;&c_o;&c_m;&c_i;&c_n;&c_a;&c_l;&c_u;</trd>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_l;&c_mol;&c_p;&c_a;&c_r;&c_y;</trd>,
+    <trd>&c_p;&c_a; &c_n;&c_a;&c_m;&c_ib;&c_n;&c_a;&c_l;&c_u;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: alpar.xml,v $
+Revision 1.8  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.7  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.6  2004/11/02 17:31:56  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.5  2004/05/02 16:32:27  revo
+Ulrich Fellmann: kor de trd=en: falue -> value
+
+Revision 1.4  2003/09/02 16:31:32  revo
+Yury Finkel: +trd ru
+
+Revision 1.3  2003/02/15 17:35:02  revo
+Ulrich Fellmann: + 2 pliaj trd = de
+
+Revision 1.2  2002/10/01 16:36:28  revo
+Christopher Zervic: + ang
+
+Revision 1.1  2002/07/02 19:56:55  revo
+alinomis alparo.xml al alpar.xml
+
+Revision 1.4  2002/03/22 17:32:31  revo
+Yury Finkel: +trd ru
+
+Revision 1.3 2002/03/21 18:33:32 revo
+-->
+</vortaro>

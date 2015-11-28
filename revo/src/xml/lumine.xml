@@ -1,0 +1,141 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: lumine.xml,v 1.7 2015/07/04 08:37:38 revo Exp $">
+<kap>
+  <rad>luminesk</rad>/i
+</kap>
+
+<drv mrk="lumine.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <uzo tip="fak">FIZ</uzo>
+  <uzo tip="fak">TEK</uzo>
+  <snc>
+    <dif>
+      Lumi ne pro varmigo kaj ne pro reflekto (pro
+      ekscito per lumo, per radiado, per elektro, pro
+      kemiaj reakcioj ktp).
+    </dif>
+    <refgrp tip="sub">
+      <ref cel="fosfor1.0i">fosforeski</ref>,
+      <ref cel="fluore.0i">fluoreski</ref>
+    </refgrp>
+    <ref tip="vid" cel="inkand.0i">inkandeski</ref>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>luminiskovat</trd>,
+    <trd>světélkovat</trd>
+  </trdgrp>
+  <trd lng="de">lumineszieren</trd>
+  <trd lng="en">luminesce</trd>
+  <trdgrp lng="nl">
+    <trd>oplichten<klr tip="ind"> (luminisceren)</klr></trd>,
+    <trd>luminisceren</trd>
+  </trdgrp>
+  <trd lng="pt">apresentar <ind>luminesc&ecirc;ncia</ind></trd>
+  <trd lng="ru">&c_l;&c_ju;&c_m;&c_i;&c_n;&c_je;&c_s;&c_c;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="sk">svetielkovať</trd>
+</drv>
+
+<drv mrk="lumine.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">FIZ</uzo>
+  <uzo tip="fak">TEK</uzo>
+  <snc>
+    <dif>
+      Fenomeno <tld/>i.
+    </dif>
+    <refgrp tip="sub">
+      <ref cel="fosfor1.0o">fosforesko</ref>,
+      <ref cel="fluore.0o">fluoresko</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>luminiscence</trd>,
+    <trd>světélkování</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Lumineszenz</trd>,
+    <trd>kaltes <ind>Leuchten</ind></trd>
+  </trdgrp>
+  <trd lng="en">luminescence</trd>
+  <trd lng="fr">luminescence</trd>
+  <trd lng="nl">luminiscentie</trd>
+  <trd lng="ru">&c_l;&c_ju;&c_m;&c_i;&c_n;&c_je;&c_s;&c_c;&c_je;&c_n;&c_c;&c_i;&c_ja;</trd>
+  <trd lng="sk">svetielkovanie</trd>
+</drv>
+
+<drv mrk="lumine.0a">
+  <kap><tld/>a</kap>
+  <uzo tip="fak">FIZ</uzo>
+  <uzo tip="fak">TEK</uzo>
+  <snc>
+    <dif>
+      Havanta econ <tld/>i:
+      <ekz>lumineska lampo.</ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>luminiscenční</trd>,
+    <trd>světélkující</trd>
+  </trdgrp>
+  <trd lng="de">lumineszierend</trd>
+  <trd lng="en">luminescent</trd>
+  <trd lng="fr">luminescent</trd>
+  <trdgrp lng="nl">
+    <trd>oplichtend<klr tip="ind">(luminiscerend)</klr></trd>,
+    <trd>luminiscerend</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_l;&c_ju;&c_m;&c_i;&c_n;&c_je;&c_s;&c_c;&c_je;&c_n;&c_t;&c_n;&c_y;&c_j;</trd>,
+    <trd>&c_l;&c_ju;&c_m;&c_i;&c_n;&c_je;&c_s;&c_c;&c_i;&c_r;&c_u;&c_ju;&c_shch;&c_i;&c_j;</trd>
+  </trdgrp>
+  <trd lng="sk">svetielkujúci</trd>
+</drv>
+
+<drv mrk="lumine.0ajxo">
+  <kap><tld/>a&jcirc;o</kap>
+  <uzo tip="fak">FIZ</uzo>
+  <uzo tip="fak">TEK</uzo>
+  <snc>
+    <dif>
+      Substanco, kapabla <tld/>i.
+    </dif>
+  </snc>
+  <trdgrp lng="fr">
+    <trd>luminophore</trd>,
+    <trd>substance <ind>luminescente</ind></trd>
+  </trdgrp>
+  <trd lng="nl">luminiscerende stof</trd>
+  <trd lng="ru">&c_l;&c_ju;&c_m;&c_i;&c_n;&c_o;&c_f;&c_o;&c_r;</trd>
+</drv>
+
+</art>
+
+<!--
+$Log: lumine.xml,v $
+Revision 1.7  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.6  2015/06/29 16:33:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.5  2009/07/01 17:22:28  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.4  2007/08/23 16:30:26  revo
+Wieland Pusch: +trd de
+
+Revision 1.3  2006/09/16 16:31:00  revo
+Tulio Flores: +tr pt
+
+Revision 1.2  2005/08/26 16:32:41  revo
+Yury Finkel: kor ref
+
+Revision 1.1  2005/08/18 16:31:40  revo
+Yury Finkel: nova artikolo
+
+-->
+</vortaro>

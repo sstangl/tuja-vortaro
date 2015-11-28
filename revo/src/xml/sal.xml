@@ -1,0 +1,300 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+  <art mrk="$Id: sal.xml,v 1.36 2015/07/04 08:37:43 revo Exp $">
+    <kap>
+      <ofc>*</ofc>
+      <rad>sal</rad>/o <fnt><bib>PV</bib></fnt>
+    </kap>
+
+    <drv mrk="sal.0o">
+      <kap><ofc>*</ofc><tld/>o</kap>
+      <snc mrk="sal.0o.natriaKlorido">
+        <uzo tip="fak">KUI</uzo>
+        <dif>
+          Ordinara nomo de la natria klorido, uzata
+          interalie kiel <ref tip="super" cel="spic.0o">spico</ref>
+          por gustigi man&gcirc;a&jcirc;ojn.
+        </dif>
+      </snc>
+      <snc mrk="sal.0o.KEM">
+        <uzo tip="fak">KEM</uzo>
+        <dif>
+          Kombina&jcirc;o de acido kun bazo.
+        </dif>
+      </snc>
+  <trd lng="be">&c_s;&c_o;&c_l;&c_mol;</trd>
+  <trd lng="bg">&c_s;&c_o;&c_l;</trd>
+  <trd lng="ca">sal</trd>
+  <trd lng="cs">kuchyňská sůl</trd>
+  <trd lng="de">Salz</trd>
+  <trd lng="en">salt</trd>
+  <trd lng="es">sal</trd>
+  <trd lng="fr">sel</trd>
+  <trd lng="he">&mem;&lamed;&het;</trd>
+  <trd lng="hu">s&oacute;</trd>
+  <trd lng="id">garam</trd>
+  <trd lng="it">sale</trd>
+  <trd lng="nl">zout<klr tip="ind"> (zn.)</klr></trd>
+  <trd lng="pl">s&oacute;l</trd>
+  <trd lng="pt">sal</trd>
+  <trd lng="ro">sare</trd>
+  <trd lng="ru">&c_s;&c_o;&c_l;&c_mol;</trd>
+  <trd lng="sk">kuchynská soľ</trd>
+  <trd lng="sv">salt</trd>
+</drv>
+
+    <drv mrk="sal.0a">
+      <kap><tld/>a</kap>
+      <snc mrk="sal.0a.KUI">
+        <dif>
+          <tld lit="S"/><ref tip="lst" cel="gust.0o.eco"
+          lst="voko:gustoj">gusta</ref>.
+        </dif>
+      </snc>
+  <trd lng="be">&c_s;&c_a;&c_l;&c_jo;&c_n;&c_y;</trd>
+  <trd lng="ca">salat</trd>
+  <trdgrp lng="cs">
+    <trd>osolený</trd>,
+    <trd>slaný</trd>
+  </trdgrp>
+  <trd lng="de">salzig</trd>
+  <trd lng="en">salt</trd>
+  <trd lng="es">salado</trd>
+  <trd lng="fr">sal&eacute;</trd>
+  <trd lng="he">&mem;&lamed;&vav;&het;</trd>
+  <trd lng="hu">s&oacute;s</trd>
+  <trd lng="id">asin</trd>
+  <trd lng="it">salato</trd>
+  <trd lng="nl">zout<klr tip="ind"> (bn.)</klr></trd>
+  <trd lng="pl">s&lstroke;ony</trd>
+  <trd lng="ru">&c_s;&c_o;&c_l;&c_jo;&c_n;&c_y;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>slaný</trd>,
+    <trd>soľný</trd>
+  </trdgrp>
+  <trd lng="sv">salt<klr tip="ind"> (adj.)</klr></trd>
+</drv>
+
+    <drv mrk="sal.0i">
+      <kap><tld/>i</kap>
+      <gra><vspec>tr</vspec></gra>
+      <snc mrk="sal.0i.KUI">
+        <dif>
+          Aldoni <tld/>on:
+          <ekz>
+            pli bone ne <tld/>i ol <tld/>i tro multe <klr>(ne troigu)
+            </klr>
+            <fnt><bib>PrV</bib></fnt>.
+          </ekz>
+        </dif>
+      </snc>
+  <trd lng="be">&c_s;&c_a;&c_l;&c_ib;&c_c;&c_mol;</trd>
+  <trd lng="ca">salar</trd>
+  <trd lng="cs">solit</trd>
+  <trd lng="de">salzen</trd>
+  <trdgrp lng="es">
+         <trd>salar</trd>,
+         <trd>sazonar</trd>
+      </trdgrp>
+  <trd lng="fr">saler</trd>
+  <trd lng="he">&lamed;&he;<ind>&mem;&lamed;&yod;&het;</ind></trd>
+  <trd lng="hu">s&oacute;z</trd>
+  <trd lng="id">[<ind>garam</ind>] menggarami</trd>
+  <trd lng="it">salare</trd>
+  <trd lng="nl">zouten</trd>
+  <trd lng="pl">soli&cacute;</trd>
+  <trd lng="ru">&c_s;&c_o;&c_l;&c_i;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>posoliť</trd>,
+    <trd>soliť</trd>
+  </trdgrp>
+  <trd lng="sv">salta</trd>
+</drv>
+
+    <drv mrk="sal.ne0a">
+      <kap>ne<tld/>a</kap>
+      <snc mrk="sal.ne0a.KUI">
+        <dif>
+          Kiu ne estas <tld/>a, ne <tld/>gusta:
+          <ekz>
+            piranjoj vivas en <ind>ne<tld/>a akvo</ind>
+            <klr>(vidu <ref tip="vid" cel="akv.mar0o">marakvo</ref>)
+            </klr>;
+            <trd lng="ca">aigua dol&ccedil;a</trd>
+            <trd lng="de">S&uuml;&szlig;wasser</trd>
+            <trdgrp lng="en">
+              <trd>fresh water</trd>,
+              <trd>sweet water</trd>
+            </trdgrp>
+            <trd lng="id"><ind>air</ind> tawar</trd>
+            <trd lng="pl">s&lstroke;odka woda</trd>
+            <trd lng="ru">
+            &c_p;&c_r;&c_je;&c_s;&c_n;&c_a;&c_ja; &c_v;&c_o;&c_d;&c_a;
+            </trd>
+            <trd lng="sv">s&ouml;tvatten</trd>
+          </ekz><ekz>
+            la jaro 2003a estas deklarita de UNO kiel la
+            Jaro de ne<tld/>a akvo
+            <fnt><lok>Radio Polonia</lok></fnt>
+            <klr>(fakte, &ccirc;i-okaze pli konvenus paroli pri
+              <ref cel="akv.trink0o">trinkakvo</ref>)</klr>;
+          </ekz><ekz>
+            la maljunulo gustumis unu &gcirc;ia&ubreve;zi-on, kies
+            ne<tld/>a far&ccirc;o malpla&ccirc;is al li
+            <fnt>
+              <aut>Chi Zijian</aut>,
+              <vrk><url
+     ref="http://www.china.org.cn/EL/EL/ElPopolaCxinio/bd99-02-27.html">
+                  Avo kaj nepo</url></vrk>
+              <lok>1999</lok>
+            </fnt>;
+          </ekz><ekz>
+            se la <tld/>o fari&gcirc;is ne<tld/>a, kiel vi rebonigos
+            &gcirc;in?
+            <fnt><bib>NT</bib>. <lok>&Mar; 12:17</lok></fnt>.
+          </ekz>
+        </dif>
+      </snc>
+      <trd lng="ca">ins&iacute;pid</trd>
+      <trdgrp lng="fr">
+        <trd>insipide</trd>,
+        <trd>sans sel</trd>
+      </trdgrp>
+      <trd lng="id">hambar</trd>
+      <trd lng="it">insipido</trd>
+      <trdgrp lng="nl">
+        <trd>zoutloos</trd>,
+        <trd>zoet<klr tip="ind"> (zoutloos)</klr></trd>
+      </trdgrp>
+      <trdgrp lng="ru">
+        <trd>&c_n;&c_je;&c_s;&c_o;&c_l;&c_jo;&c_n;&c_y;&c_j;</trd>,
+        <trd>&c_p;&c_r;&c_je;&c_s;&c_n;&c_y;&c_j;</trd>
+      </trdgrp>
+    </drv>
+
+    <drv mrk="sal.mar0o">
+      <kap>mar<tld/>o</kap>
+      <snc mrk="sal.mar0o.KUI">
+        <dif>
+          <ref tip="super" cel="sal.0o.natriaKlorido"><tld
+          lit="S"/>o</ref>
+          ekstraktata el mara akvo per elvaporigo.
+        </dif>
+      </snc>
+  <trd lng="be">&c_m;&c_a;&c_r;&c_s;&c_k;&c_a;&c_ja; &c_s;&c_o;&c_l;&c_mol;</trd>
+  <trd lng="ca"><ind>sal</ind> marina</trd>
+  <trd lng="cs">mořská sůl</trd>
+  <trd lng="de">Meersalz</trd>
+  <trd lng="es">sal marina</trd>
+  <trd lng="fr">sel de mer</trd>
+  <trd lng="he">&mem;&lamed;&het; &yod;&fmem;</trd>
+  <trd lng="hu">tengeri <ind>s&oacute;</ind></trd>
+  <trd lng="id"><ind>garam</ind> laut</trd>
+  <trd lng="it"><ind>sale</ind> marino</trd>
+  <trd lng="nl">zeezout</trd>
+  <trd lng="pl"><ind>s&oacute;l</ind> morska</trd>
+  <trd lng="ru">&c_m;&c_o;&c_r;&c_s;&c_k;&c_a;&c_ja; &c_s;&c_o;&c_l;&c_mol;</trd>
+  <trd lng="sk">morská soľ</trd>
+  <trd lng="sv">havssalt</trd>
+</drv>
+    
+    <drv mrk="sal.sxton0o">
+      <kap>&scirc;ton<tld/>o,
+      <var><kap>min<tld/>o</kap></var>,
+      <var><kap>rok<tld/>o</kap></var>
+      </kap>
+      <snc mrk="sal.sxton0o.KUI">
+        <dif>
+          <ref tip="super" cel="sal.0o.natriaKlorido"><tld
+          lit="S"/>o</ref>
+          ekstraktata el tero, ofte malpura - kun sablo 
+          kaj &scirc;tonpecetoj.
+        </dif>
+      </snc>
+      <trd lng="ca"><ind>sal</ind> gemma</trd>
+      <trd lng="fr">sel gemme</trd>
+      <trd lng="it">salgemma</trd>
+      <trdgrp lng="nl">
+        <trd>steenzout</trd>,
+        <trd>mijnzout</trd>
+      </trdgrp>
+      <trdgrp lng="pl">
+        <trd><ind>s&oacute;l</ind> kamienna</trd>,
+        <trd><ind>s&oacute;l</ind> kopalna</trd>,
+      </trdgrp>
+    </drv>
+  </art>
+  <!--
+  $Log: sal.xml,v $
+  Revision 1.36  2015/07/04 08:37:43  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.35  2015/06/29 16:33:23  revo
+  aldono de trd sk per skripto de M. von Laer
+
+  Revision 1.34  2014/10/28 04:10:53  revo
+  Eko Nur Syah Hidayat: +trd id
+
+  Revision 1.33  2013/09/29 19:10:10  revo
+  Vito Redsky: +trd ro
+
+  Revision 1.32  2013/08/22 17:10:13  revo
+  Wolfram Diestel: referenco al listo gustoj
+
+  Revision 1.31  2012/07/15 10:10:27  revo
+  Marc Rausell: + trd ca
+
+  Revision 1.30  2010/09/21 16:30:21  revo
+  Jeromo Vasxe: kor. fusx. fnt, + kk trd fr, - ~sxtono portita al
+  sxton.xml
+
+  Revision 1.29  2010/06/16 16:30:45  revo
+  Agustin Garcia Lopez: +trd es (-a -i mar-o)
+
+  Revision 1.28  2009/12/22 17:30:47  revo
+  Jerano Zachrisson: +trd sv
+
+  Revision 1.27  2009/10/18 16:30:26  revo
+  Paul Peeraerts: +nl
+
+  Revision 1.26  2009/09/23 17:25:44  revo
+  Antonio Codazzi: +trd it
+
+  Revision 1.25  2008/06/05 16:30:21  revo
+  Sebastian Cyprych: +drv sxton~o +trd pl
+
+  Revision 1.24  2007/02/08 17:30:34  revo
+  Sergio Pokrovskij: interpunkcio
+
+  Revision 1.23  2007/02/07 17:30:30  revo
+  Sergio Pokrovskij: TEZ
+
+  Revision 1.22  2007/01/28 09:27:48  revo
+  Sergio Pokrovskij: +ne~a
+
+  Revision 1.21  2007/01/14 17:30:22  revo
+  Wieland Pusch: +trd bg
+
+  Revision 1.20  2006/02/07 17:31:16  revo
+  Tulio Flores: +trd pt
+
+  Revision 1.19  2003/08/20 16:31:32  revo
+  Dmitri Gabinski: +trd be
+
+  Revision 1.18  2003/03/11 17:32:41  revo
+  Axel Rousseau: +trd fr
+
+  Revision 1.17  2002/09/17 16:31:57  revo
+  Jozefo Horvath: +trd hu
+
+  Revision 1.16  2002/09/15 16:18:58  revo
+  Wolfram Diestel: +KUI
+
+  Revision 1.15  2002/09/12 16:32:51  revo
+  Wolfram Diestel: ref al spico, shanghetoj
+
+  Revision 1.14  2002/08/28 17:31:01  revo
+  -->
+</vortaro>

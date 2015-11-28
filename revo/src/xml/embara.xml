@@ -1,0 +1,358 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: embara.xml,v 1.18 2015/07/04 08:37:33 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>embaras</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="embara.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="embara.0o.MOV">
+    <dif>
+      &Gcirc;eno al la movoj, al la agado, ka&ubreve;zita de materiaj
+      malhelpoj:
+      <ekz>
+        <tld/>o de strato, de veturiloj, de stomako.
+      </ekz>
+    </dif>
+    <trdgrp lng="hu">
+      <trd>zavar</trd>,
+      <trd>akad&aacute;ly</trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>blokada</trd>,
+      <trd>korek<klr tip="amb"> (uliczny)</klr></trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="embara.0o.FIG">
+    <dif>
+      Situacio, el kiu oni ne povas facile eliri, &scirc;anceli&gcirc;o
+      en decido:
+      <ekz>
+        esti en granda mona <tld/>o<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        <tld/>o de ri&ccirc;eco<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        eltiri iun el <tld/>o<fnt>B</fnt>;
+      </ekz>
+      <ekz>
+        por forigi &ccirc;iujn <tld/>ojn, uzu nur la lastan
+        formon<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;iuj rimarkis lian <tld/>on;
+      </ekz>
+      <ekz>
+        senfina <tld/>o montri&gcirc;is en &ccirc;iuj liaj
+        trajtoj<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        la <tld/>oj de la &scirc;tato
+        <fnt><bib>Far2</bib>, <lok>&ccirc;ap. 23</lok></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="en">embarrassment</trd>
+    <trdgrp lng="hu">
+      <trd>zavar(odotts&aacute;g)</trd>,
+      <trd>baj</trd>,
+      <trd>neh&eacute;zs&eacute;g</trd>,
+      <trd>kellemetlens&eacute;g</trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>ambaras</trd>,
+      <trd>k&lstroke;opot</trd>,
+      <trd>opa&lstroke;y</trd>,
+      <trd>tarapty</trd>
+    </trdgrp>
+  </snc>
+  <refgrp tip="vid">
+    <ref cel="bar.0i">bari</ref>,
+    <ref cel="implik.0i">impliki</ref>,
+    <ref cel="obstru.0o">obstrukco</ref>,
+    <ref cel="ir.el0i">senelira</ref>,
+    <ref cel="sxtop.0i">&scirc;topi</ref>.
+  </refgrp>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_je;&c_r;&c_a;&c_sh;&c_k;&c_o;&c_d;&c_a;</trd>,
+    <trd>&c_c;&c_ja;&c_zh;&c_k;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Enge</trd>,
+    <trd>Not</trd>,
+    <trd>Verlegenheit</trd>,
+    <trd>Problem</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>difficulty</trd>,
+    <trd>complication</trd>,
+    <trd>perplexity</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>embarras</trd>,
+    <trd>encombrement</trd>,
+    <trd>g&ecirc;ne</trd>,
+    <trd>souci</trd>,
+    <trd>tracas</trd></trdgrp> 
+  <trdgrp lng="pt">
+    <trd>embara&ccedil;o</trd>,
+    <trd>perplexidade</trd>,
+    <trd>aperto</trd>,
+    <trd>estorvo</trd>,
+    <trd>&oacute;bice</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_z;&c_a;&c_t;&c_r;&c_u;&c_d;&c_n;&c_je;&c_n;&c_i;&c_je;</trd>,
+    <trd>&c_p;&c_o;&c_m;&c_je;&c_h;&c_a;</trd>,
+    <trd>&c_z;&c_a;&c_g;&c_v;&c_o;&c_z;&c_d;&c_k;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>pomykov</trd>,
+    <trd>prekážka</trd>,
+    <trd>rozpaky</trd>
+  </trdgrp>
+  <trd lng="cs">rozpaky</trd>
+</drv>
+
+<drv mrk="embara.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="embara.0i.MOV">
+    <dif>
+      &Gcirc;eni la movojn, la agadon per materiaj malhelpoj:
+      <ekz>
+        tiu paka&jcirc;o <tld/>as min;
+      </ekz>
+      <ekz>
+        veturiloj <tld/>as la straton.
+      </ekz>
+    </dif>
+    <trdgrp lng="hu">
+      <trd>zavar</trd>,
+      <trd>akad&aacute;lyoz</trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>blokowa&cacute;</trd>,
+      <trd>tarasowa&cacute;</trd>,
+      <trd>zawala&cacute;</trd>,
+      <trd>korkowa&cacute;<klr tip="amb"> (drog&eogonek;)</klr></trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="embara.0i.FIG">
+    <dif>
+      Meti iun en situacion, el kiu li ne povas facile eliri:
+      <ekz>
+        la dismembri&gcirc;o  de la lingvo neniom <tld/>as la lernanton;
+      </ekz>
+      <ekz>
+        tiu demando multe <tld/>is lin;
+      </ekz>
+      <ekz>
+        li <ind><tld/>i&gcirc;i</ind>s en mensogon;
+        <trd lng="fr">s'<ind>emp&ecirc;trer</ind></trd>
+        <trd lng="hu">belezavarodik</trd>
+      </ekz>
+      <ekz>
+        <tld/>ite respondi<fnt>B</fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="konfuz.0i">konfuzi</ref>,
+      <ref cel="konste1.0i">konsterni</ref>.
+    </refgrp>
+    <trd lng="en">embarrass</trd>
+    <trdgrp lng="pl">
+      <trd>narobi&cacute; <ind>ambaras</ind></trd>,
+      <trd>narobi&cacute; <ind>k&lstroke;opotu</ind></trd>,
+      <trd>przysparza&cacute; <ind>k&lstroke;opotu</ind></trd>,
+      <trd>wp&eogonek;dza&cacute; w <ind>opa&lstroke;y</ind></trd>,
+      <trd>wp&eogonek;dza&cacute; w <ind>tarapty</ind></trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_je;&c_r;&c_a;&c_sh;&c_k;&c_a;&c_d;&c_zh;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_z;&c_a;&c_m;&c_ib;&c_n;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="cs">přivést do rozpaků</trd>
+  <trdgrp lng="de">
+    <trd>behindern</trd>,
+    <trd>peinigen</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>perplex</trd>,
+    <trd>encumber</trd>,
+    <trd>inconvenience</trd>,
+    <trd>hamper</trd>,
+    <trd>impede</trd>,
+    <trd>hinder</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>embarrasser</trd>,
+    <trd>emp&ecirc;trer</trd>,
+    <trd>encombrer</trd>,
+    <trd>g&ecirc;ner<klr tip="ind"> (embarrasser)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>(&ouml;ssze)<ind>zavar</ind></trd>,
+    <trd>neh&eacute;zs&eacute;get okoz</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_z;&c_a;&c_t;&c_r;&c_u;&c_d;&c_n;&c_ja;&c_t;&c_mol;</trd>,
+    <trd>&c_s;&c_t;&c_a;&c_v;&c_i;&c_t;&c_mol; &c_v;
+    &c_z;&c_a;&c_t;&c_r;&c_u;&c_d;&c_n;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_o;&c_je;
+    &c_p;&c_o;&c_l;&c_o;&c_zh;&c_je;&c_n;&c_i;&c_je;</trd>,
+    <trd>&c_m;&c_je;&c_sh;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="sk">priviesť do rozpakov</trd>
+</drv>
+
+<drv mrk="embara.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="embara.0a.embarasanta">
+    <dif>
+      Ka&ubreve;zanta <tld/>on:
+      <ekz>
+        la elekto de ta&ubreve;ga formo estas ofte <tld/>a.
+      </ekz>
+    </dif>
+    <trdgrp lng="hu">
+      <trd>zavar&oacute;</trd>,
+      <trd>probl&eacute;m&aacute;s</trd>
+    </trdgrp>    
+    <trdgrp lng="pl">
+      <trd>blokuj&aogonek;cy</trd>,
+      <trd>tarasuj&aogonek;cy</trd>,
+      <trd>zawalaj&aogonek;cy</trd>,
+      <trd>korkuj&aogonek;cy<klr tip="amb"> (drog&eogonek;)</klr></trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="embara.0a.embarasata">
+    <dif>
+      <tld lit="E"/>oplena, vidiganta <tld/>on:
+      <ekz>
+        havi <tld/>an mienon.
+      </ekz>
+    </dif>
+    <trd lng="en">embarrassing</trd>
+    <trdgrp lng="hu">
+      <trd>zavart</trd>,
+      <trd>zavarodott</trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>ambarasuj&aogonek;cy</trd>,
+      <trd>k&lstroke;opotliwy</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="be">&c_c;&c_ja;&c_zh;&c_k;&c_ib;</trd>
+  <trdgrp lng="cs">
+    <trd>rozpačitý</trd>,
+    <trd>zaražený <klr>(člověk)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>peinlich</trd>,
+    <trd>verlegen</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>awkward</trd>,
+    <trd>cumbersome</trd>,
+    <trd>troublesome</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>embarrassant</trd>,
+    <trd>embarrass&eacute;</trd>,
+    <trd>encombrant</trd>,
+    <trd>g&ecirc;n&eacute;<klr tip="ind">
+    (embarrass&eacute;)</klr></trd>,
+    <trd>d&eacute;licat<klr tip="ind"> (embarrassant)</klr></trd>,
+    <trd>ennuyeux<klr tip="ind"> (embarrassant)</klr></trd>
+  </trdgrp>
+  <trd
+  lng="ru">&c_z;&c_a;&c_t;&c_r;&c_u;&c_d;&c_n;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>prekážajúci</trd>,
+    <trd>privádzajúci do rozpakov</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="embara.mal0i">
+  <kap>mal<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="embara.mal0i.MOV">
+    <dif>
+      Senigi je &gcirc;ena&jcirc;oj, je baroj:
+      <ekz>
+        mal<tld/>i &ccirc;ambron.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="pez.mal0igi">malpezigi</ref>
+    </refgrp>
+    <trdgrp lng="fr">
+      <trd>d&eacute;barrasser</trd>,
+      <trd>d&eacute;gager</trd>,
+      <trd>d&eacute;sobstruer</trd>
+    </trdgrp>
+    <trd lng="hu">akad&aacute;lymentes&iacute;t</trd>
+  </snc>
+  <snc mrk="embara.mal0i.FIG">
+    <dif>
+      Eligi el malfacila situacio:
+      <ekz>
+        tia bagateligado de granda poeto estas
+        unu maniero mal<tld/>i sin je &gcirc;enanta entrudulo
+        <fnt>
+          <aut>G. Waringhien</aut>,
+          <vrk><url
+          ref="http://www.autodidactproject.org/other/heine-waringhien.html">
+          Heine kaj la Amo</url></vrk>,
+          <lok>en: Kaj la Ceter' - Nur Literaturo, 1983</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="pez.mal0igi">malpezigi</ref>
+    </refgrp>
+    <trdgrp lng="fr">
+      <trd>d&eacute;livrer<klr> (d'un embarras)</klr></trd>,
+      <trd>tirer d'affaire</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="cs">zbavit rozpaků</trd>
+  <trd lng="sk">zbaviť rozpakov</trd>
+</drv>
+</art>
+<!--
+$Log: embara.xml,v $
+Revision 1.18  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.16  2014/02/08 10:10:18  revo
+Damien Brucker: -eraro cxe ref
+
+Revision 1.15  2013/07/07 01:10:09  revo
+Jeromo Vasxe: + mal~i
+
+Revision 1.14  2011/04/21 10:10:10  revo
+Jeromo Vasxe: - num + mrk
+
+Revision 1.13  2010/01/31 17:30:31  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.12  2009/07/01 17:22:46  revo
+Russ Williams: +trd en
+
+Revision 1.11  2007/06/28 16:31:18  revo
+Tulio Flores: +tr pt
+
+Revision 1.10  2005/09/04 17:49:21  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.9  2004/08/01 19:37:18  revo
+-->
+</vortaro>

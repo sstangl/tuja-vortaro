@@ -1,0 +1,139 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: vintr.xml,v 1.31 2015/07/04 11:10:16 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>vintr</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="vintr.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="vintr.0o.KAL">
+    <uzo tip="fak">KAL</uzo>
+    <dif>
+      En mezvarmaj landoj malvarma <ref tip="lst" cel="sezon.0o.KAL"
+      lst="voko:sezonoj" val="4">sezono</ref>, post a&ubreve;tuno, anta&ubreve;
+      printempo
+      (la&ubreve; la gregoria
+      kalendaro en la norda hemisfero de proksimume la 21a tago de
+      decembro &gcirc;is la 21a de marto; en la suda de proksimume la 21a de
+      junio &gcirc;is la 23a de septembro):
+      <ekz>
+        kio ta&ubreve;gas por somero, ne ta&ubreve;gas por <tld/>o
+        <fnt><bib>PrV</bib></fnt>;
+      </ekz>
+      <ekz>
+        marmoto <tld/>e dormas.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_z;&c_ib;&c_m;&c_a;</trd>
+  <trd lng="bg">&c_z;&c_i;&c_m;&c_a;</trd>
+  <trd lng="ca">hivern</trd>
+  <trdgrp lng="cs">
+    <trd>zima</trd>,
+    <trd>zima <klr>(ro&ccaron;n&iacute; obdob&iacute;)</klr></trd>
+  </trdgrp>
+  <trd lng="de">Winter</trd>
+  <trd 
+lng="el">&chi;&epsilon;&jota;&my;&omega_ton;&ny;&alfa;&sigma_fina;</trd>
+  <trd lng="en">winter</trd>
+  <trd lng="es">invierno</trd>
+  <trd lng="fr">hiver</trd>
+  <trd lng="hu">t&eacute;l</trd>
+  <trd lng="id"><ind>musim</ind> dingin</trd>
+  <trd lng="ja">&#20908; [<ind>&#12405;&#12422;</ind>]</trd>
+  <trd lng="nl">winter</trd>
+  <trd lng="pl">zima</trd>
+  <trd lng="pt">inverno</trd>
+  <trd lng="ro">iarn&abreve;</trd>
+  <trd lng="ru">&c_z;&c_i;&c_m;&c_a;</trd>
+  <trd lng="sk">zima <klr>(ro&ccaron;n&eacute; obdobie)</klr></trd>
+  <trd lng="sv">vinter</trd>
+  <trd lng="vo">nifatim</trd>
+</drv>
+
+<drv mrk="vintr.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="vintr.0a.KAL">
+    <dif>
+      Okazanta en <tld/>o, per sia etoso simila al <tld/>o:
+      <ekz>
+        palaj <tld/>aj sunradioj
+        <fnt><bib>InfanTorent2</bib>, <lok>unua parto, &ccirc;apitro
+        2a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="ca">hivernal</trd>
+  <trd lng="cs">zimn&iacute;</trd>
+  <trd lng="de">winterlich</trd>
+  <trd lng="es">invernal</trd>
+  <trd lng="fr">hivernal</trd>
+  <trd lng="ja">&#20908;&#12398; [<ind>&#12405;&#12422;&#12398;</ind>]</trd>
+  <trd lng="pl">zimowy</trd>
+  <trd lng="sk">zimn&yacute;</trd>
+</drv>
+
+<drv mrk="vintr.tra0i">
+  <kap>tra<tld/>i,
+  <var><kap><tld/>i</kap></var></kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="vintr.tra0i.KOMUNE">
+    <dif>
+      Lo&gcirc;i dum <tld/>o; pasigi la <tld/>on:
+      <ekz>
+        &ccirc;e vi eble mi restos, a&ubreve; e&ccirc; tra<tld/>os
+        <fnt><bib>NT</bib>, <lok>&Ko1; 16:6</lok></fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;iaj bestoj de la tero super &gcirc;i <tld/>os
+        <fnt><bib>MT</bib>, <lok>&Jes; 18:6</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_z;&c_ib;&c_m;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_p;&c_je;&c_r;&c_a;&c_z;&c_ib;&c_m;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="ca">hivernar</trd>
+  <trd lng="cs">p&rcaron;ezimovat</trd>
+  <trd lng="de">&uuml;berwintern</trd>
+  <trd lng="fr">hiverner</trd>
+  <trd lng="hu">&aacute;ttelel</trd>
+  <trd lng="ja">&#20908;&#12434;&#36234;&#12377; [<ind>&#12405;&#12422;&#12434;&#12371;&#12377;</ind>]</trd>
+  <trd lng="nl">overwinteren</trd>
+  <trd lng="pl">przezimowa&cacute;</trd>
+  <trd lng="ru">&c_z;&c_i;&c_m;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="sk">prezimova&tcaron;</trd>
+  <trd lng="sv">&ouml;vervintra</trd>
+</drv>
+</art>
+<!--
+$Log: vintr.xml,v $
+Revision 1.31  2015/07/04 11:10:16  revo
+Wolfram Diestel: ~a: trd de
+
+Revision 1.30  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.29  2015/06/28 12:03:50  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.28  2015/06/06 22:10:14  revo
+Jeromo Vasxe: sepembro -> septembro
+
+Revision 1.27  2015/04/03 22:10:18  revo
+Carlos Garcia: +trd es -a
+
+Revision 1.26  2014/06/03 15:10:21  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.25  2013/09/23 07:10:24  revo
+Wolfram Diestel: +val
+
+Revision 1.24  2013/08/25 18:10:23  revo
+-->
+</vortaro>

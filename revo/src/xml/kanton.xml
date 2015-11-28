@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: kanton.xml,v 1.20 2015/07/04 08:37:36 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>kanton</rad>/o  <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="kanton.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="kanton.0o.POL">
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      Negranda administra <ref tip="super"
+      cel="terito.0o.POL">teritorio</ref>
+      en kelkaj regnoj a&ubreve; federa&jcirc;oj, malpli vasta ol
+      <ref tip="malprt" cel="gubern1.0o.POL">gubernio</ref>.
+    </dif>
+    <subsnc>
+      <dif>
+        En Francujo, parto de distrikto.
+      </dif>
+      <trd lng="fr">canton<klr tip="ind"> (en France)</klr></trd>
+      <trd lng="hu">ker&uuml;let <klr tip="ind">(Franciao.)</klr></trd>
+    </subsnc>
+    <subsnc>
+      <dif>
+        En Svisujo, &ccirc;iu el la sub&scirc;tatoj de la konfederacio.
+      </dif>
+      <trd lng="hu">kanton</trd>
+      <trd lng="fr">canton<klr tip="ind"> (en Suisse)</klr></trd>
+    </subsnc>
+     <subsnc>
+      <dif>
+        En Belgujo, jura a&ubreve; elekta grupi&gcirc;o de municipoj.
+      </dif>
+      <trd lng="hu">kanton</trd>
+      <trd lng="fr">canton<klr tip="ind"> (en Belgique)</klr></trd>
+    </subsnc>
+    <subsnc mrk="kanton.0o.usona">
+      <uzo tip="stl">NEO</uzo>
+      <dif>
+        En <ref cel="uson.U0o">Usono</ref>, &ccirc;iu el la plej grandaj
+        administraj unuoj ene de pliparto de la
+        <ref tip="malprt" cel="sxtat.sub0o">sub&scirc;tatoj</ref>.
+      </dif>
+      <trd lng="ca">comtat</trd>
+      <trd lng="en">county<klr tip="amb"> (USA)</klr></trd>
+      <trd lng="fr">comt&eacute;<klr tip="ind"> (aux &Eacute;tats-Unis)</klr></trd>
+      <trd lng="hu">megye<klr tip="ind"> (USA)</klr></trd>
+      <trdgrp lng="ru">
+         <trd>&c_g;&c_r;&c_a;&c_f;&c_s;&c_t;&c_v;&c_o;<klr tip="amb"> (&c_v; &c_S;&c_Sh;&c_A;)</klr></trd>,
+         <trd>&c_o;&c_k;&c_r;&c_u;&c_g;<klr tip="amb"> (&c_v; &c_S;&c_Sh;&c_A;)</klr></trd>
+      </trdgrp>
+    </subsnc>
+  </snc>
+  <trd lng="be">&c_k;&c_a;&c_n;&c_t;&c_o;&c_n;</trd>
+  <trd lng="bg">&c_k;&c_a;&c_n;&c_t;&c_o;&c_n;</trd>
+  <trd lng="ca">cant&oacute; <klr>(adm. geog.)</klr></trd>
+  <trdgrp lng="cs">
+    <trd>kanton</trd>,
+    <trd>švýc. okres</trd>
+  </trdgrp>
+  <trd lng="de">Kanton</trd>
+  <trd lng="en">canton</trd>
+  <trd lng="nl">kanton</trd>
+  <trd lng="ru">&c_k;&c_a;&c_n;&c_t;&c_o;&c_n;</trd>
+  <trdgrp lng="sk">
+    <trd>kantón</trd>,
+    <trd>okres</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: kanton.xml,v $
+Revision 1.20  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2014/01/24 16:10:20  revo
+Joop Eggen: +trd bg
+
+Revision 1.17  2012/09/01 12:10:09  revo
+Marc Rausell: + trd ca
+
+Revision 1.16  2011/02/15 16:10:18  revo
+Luiz Portella: kor. ref k mrk
+
+Revision 1.15  2010/06/26 05:45:33  revo
+Jeromo Vasxe: + mrk + ref
+
+Revision 1.14  2009/08/23 16:33:35  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.13  2004/12/18 19:19:40  revo
+Marc Bavant: kor trd fr, ~o c: +NEO
+
+Revision 1.12  2004/03/05 17:31:03  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.11  2002/10/30 18:37:02  revo
+-->
+</vortaro>

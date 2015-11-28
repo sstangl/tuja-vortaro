@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: ren.xml,v 1.23 2015/07/04 08:37:42 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>ren</rad>/o
+</kap>
+<drv mrk="ren.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <uzo tip="fak">ANA</uzo>
+  <snc>
+    <dif>
+      Duobla organo sidanta en la lumba regiono kaj sekrecianta la
+      urinon.
+    </dif>
+  </snc>
+  <trd lng="be">&c_n;&c_y;&c_r;&c_k;&c_a;</trd>
+  <trd lng="ca">rony&oacute;</trd>
+  <trd lng="cs">ledvina</trd>
+  <trd lng="de">Niere</trd>
+  <trd lng="en">kidney</trd>
+  <trd lng="es">ri&ntilde;&oacute;n</trd>
+  <trd lng="fr">rein</trd>
+  <trd lng="hu">vese</trd>
+  <trd lng="id">ginjal</trd>
+  <trd lng="it">rene</trd>
+  <trd lng="nl">nier</trd>
+  <trd lng="pl">nerka</trd>
+  <trd lng="pt">rim</trd>
+  <trd lng="ro">rinichi</trd>
+  <trd lng="ru">&c_p;&c_o;&c_ch;&c_k;&c_a; <klr tip="amb">(&c_a;&c_n;&c_a;&c_t;.)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>oblička</trd>,
+    <trd>ľadvina</trd>
+  </trdgrp>
+  <trd lng="sv">njure</trd>
+</drv>
+
+<drv mrk="ren.sur0a">
+  <kap>sur<tld/>a</kap>
+  <snc>
+    <uzo tip="fak">ANA</uzo>
+    <ref tip="vid" cel="gland.surrena0o">sur<tld/>a glando</ref>
+  </snc>
+  <trd lng="ca">suprarenal</trd>
+  <trd lng="fr">surr&eacute;nal</trd>
+  <trdgrp lng="id">
+    <trd><ind>kelenjar</ind> adrenal</trd>,
+    <trd><ind>kelenjar</ind> anak ginjal</trd>,
+    <trd><ind>kelenjar</ind> suprarenalis</trd>
+  </trdgrp>
+  <trdgrp lng="it">
+    <trd>ghiandola <ind>surrenale</ind></trd>,
+    <trd>surrene</trd>
+  </trdgrp>
+  <trd lng="nl">suprarenalis</trd>
+  <trd lng="pl">gruczo&lstroke; nadnerczowy</trd>
+  <trd lng="ro">gland&abreve; suprarenal&abreve;</trd>
+</drv>
+</art>
+<!--
+$Log: ren.xml,v $
+Revision 1.23  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.22  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.21  2015/01/29 04:10:44  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.20  2013/09/08 19:11:22  revo
+Vito Redsky: +trd ro
+
+Revision 1.19  2012/07/22 16:10:15  revo
+Marc Rausell: ++ trd ca
+
+Revision 1.18  2010/12/17 17:30:35  revo
+Antonio Codazzi: +trd it
+
+Revision 1.17  2009/11/28 17:30:54  revo
+Jerano Zachrisson: +trd sv
+
+Revision 1.16  2009/07/08 16:30:38  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.15  2008/11/07 17:30:39  revo
+Marc Bavant: sur~a: -dif, -uzo fak, +ref al "surrena glando"
+
+Revision 1.14 2008/11/05 17:31:12 revo
+-->
+</vortaro>

@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: gastro2.xml,v 1.18 2015/07/04 08:37:34 revo Exp $">
+<kap>
+  <rad>gastropod</rad>/oj
+</kap>
+<drv mrk="gastro2.0oj">
+  <kap><tld/>oj</kap>
+  <uzo tip="fak">ZOO</uzo>
+  <snc>
+    <dif>
+      <ref tip="lst" cel="klas.0o.BIO"
+      lst="voko:zoologiaj_klasoj">Klaso</ref> de <ref tip="malprt"
+      cel="molusk.0oj">moluskoj</ref>
+      (<trd lng="la">Gastropoda</trd>).
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_g;&c_a;&c_s;&c_t;&c_r;&c_a;&c_p;&c_o;&c_d;&c_y;</trd>,
+    <trd>&c_b;&c_r;&c_u;&c_h;&c_a;&c_n;&c_o;&c_g;&c_ib;&c_ja;</trd>
+  </trdgrp>
+  <trd lng="ca">gastr&ograve;podes</trd>
+  <trdgrp lng="cs">
+    <trd>břichonožci</trd>,
+    <trd>plži</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Schnecken</trd>,
+    <trd>Bauchf&uuml;&szlig;er</trd>
+  </trdgrp>
+  <trd lng="el">&gamma;&alfa;&sigma;&tau;&epsilon;&rho;&omikron_ton;&pi;&omikron;&delta;&alfa;</trd>
+  <trd lng="es">gaster&oacute;podos</trd>
+  <trd lng="fr">gast&eacute;ropodes</trd>
+  <trdgrp lng="hu">
+    <trd>csig&aacute;k<klr tip="ind"> (oszt&aacute;ly)</klr></trd>,
+    <trd>hasl&aacute;b&uacute;ak</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>slakken</trd>,
+    <trd>buikpotigen</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>&sacute;limaki</trd>,
+    <trd>brzuchonogi</trd>
+  </trdgrp>
+  <trd lng="pt">gastr&oacute;podes</trd>
+  <trdgrp lng="ru">
+    <trd>&c_g;&c_a;&c_s;&c_t;&c_r;&c_o;&c_p;&c_o;&c_d;&c_y;</trd>,
+    <trd>&c_b;&c_r;&c_ju;&c_h;&c_o;&c_n;&c_o;&c_g;&c_i;&c_je;</trd>
+  </trdgrp>
+  <trd lng="sk">mäkkýše <klr>(slimákovité)</klr></trd>
+</drv>
+</art>
+<!--
+$Log: gastro2.xml,v $
+Revision 1.18  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:29:39  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.16  2013/09/01 15:10:42  revo
+Wolfram Diestel: referenco al listo zoo klasoj
+
+Revision 1.15  2012/08/18 19:10:17  revo
+Marc Rausell: + trd ca
+
+Revision 1.14  2009/02/10 14:18:13  revo
+Sebastian Cyprych: -fusxaj linirompoj en trd
+
+Revision 1.13  2008/04/22 17:50:18  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.12  2005/02/25 17:34:46  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.11  2002/09/19 16:33:33  revo
+Eduardo M. Kalinowski: ald trd el, pt
+
+Revision 1.10  2002/07/02 17:31:59  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.9  2001/12/13 17:31:44  revo
+-->
+</vortaro>

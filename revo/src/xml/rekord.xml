@@ -1,0 +1,115 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: rekord.xml,v 1.20 2015/07/04 08:37:42 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>rekord</rad>/o
+</kap>
+
+<drv mrk="rekord.0o">
+  <kap><tld/>o</kap>
+  <snc>
+  <uzo tip="fak">SPO</uzo>
+    <dif>
+      Plej supera oficiale konstatita supereco de konkursanto en sporto:
+      <ekz>
+        posedi la <tld/>on;
+      </ekz>
+      <ekz>
+        starigi, superi, venki<fnt>B</fnt>,
+      </ekz>
+      <ekz>
+        rompi <tld/>on.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_r;&c_e;&c_k;&c_o;&c_r;&c_d;</trd>
+  <trd lng="bg">&c_r;&c_je;&c_k;&c_o;&c_r;&c_d;</trd>
+  <trd lng="cs">rekord</trd>
+  <trd lng="de">Rekord</trd>
+  <trd lng="en">record <klr>(sport)</klr></trd>
+  <trdgrp lng="es">
+    <trd>marca</trd>,
+    <trd>record</trd>
+  </trdgrp>
+  <trd lng="fr">record</trd>
+  <trdgrp lng="hu">
+    <trd>cs&uacute;cs</trd>,
+    <trd>rekord</trd>
+  </trdgrp>
+  <trd lng="nl">record</trd>
+  <trd lng="pt">recorde</trd>
+  <trd lng="ru">&c_r;&c_je;&c_k;&c_o;&c_r;&c_d;</trd>
+  <trd lng="sk">rekord</trd>
+  <trd lng="sv">rekord</trd>
+</drv>
+
+<drv mrk="rekord.0ulo">
+  <kap><tld/>ulo</kap>
+  <snc>
+  <uzo tip="fak">SPO</uzo>
+    <dif>
+      Tiu, kiu atingis kaj konservas <tld/>on.
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="cxampi.0o.SPO">&ccirc;ampiono</ref>.
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_r;&c_e;&c_k;&c_a;&c_r;&c_d;&c_s;&c_m;&c_e;&c_n;</trd>
+  <trd lng="bg">&c_r;&c_je;&c_k;&c_o;&c_r;&c_d;&c_mol;&c_o;&c_r;</trd>
+  <trd lng="cs">rekordman</trd>
+  <trd lng="de">Rekordhalter</trd>
+  <trdgrp lng="en">
+    <trd>record holder</trd>,
+    <trd>record breaker</trd>,
+    <trd>record achiever</trd>
+  </trdgrp>
+  <trd lng="fr">recordman</trd>
+  <trdgrp lng="hu">
+    <trd>cs&uacute;cstart&oacute;</trd>,
+    <trd>rekorder</trd>
+  </trdgrp>
+  <trd lng="nl">recordhouder</trd>
+  <trd lng="pt">recordista</trd>
+  <trd lng="ru">&c_r;&c_je;&c_k;&c_o;&c_r;&c_d;&c_s;&c_m;&c_je;&c_n;</trd>
+  <trdgrp lng="sk">
+    <trd>rekordman</trd>,
+    <trd>rekordér</trd>
+  </trdgrp>
+  <trd lng="sv">rekordh&aring;llare</trd>
+</drv>
+</art>
+<!--
+$Log: rekord.xml,v $
+Revision 1.20  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2014/09/02 11:10:17  revo
+Damien Brucker: +trd fr
+
+Revision 1.17  2010/10/30 16:30:26  revo
+Russ Williams: +trd en
+
+Revision 1.16  2008/11/29 17:30:22  revo
+Marc Bavant: ~ulo: kor ref cel al cxampiono
+
+Revision 1.15  2008/11/23 19:13:32  revo
+Marc Bavant: ~ulo: mod ref tip k cel
+
+Revision 1.14  2008/02/11 17:30:24  revo
+Wieland Pusch: +trd bg
+Revision 1.13  2008/02/09 17:31:15  revo
+Russ Williams: +trd en
+Revision 1.12  2006/02/19 17:32:24  revo
+Tulio Flores: +trd pt
+Revision 1.11  2003/08/08 16:32:13  revo
+Dmitri Gabinski: +trd be
+Revision 1.10  2002/10/19 18:22:18  revo
+Jozefo Horvath: +trd hu
+-->
+</vortaro>

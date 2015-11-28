@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: paratif.xml,v 1.5 2014/11/19 07:10:33 revo Exp $">
+<kap>
+  <rad>paratif</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="paratif.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="paratif.0o.MED">
+    <uzo tip="fak">MED</uzo>
+    <dif>
+      Infekta bakteria <ref tip="lst" cel="san.mal0o.MED"
+      lst="voko:malsanoj">malsano</ref> ka&ubreve;zanta
+      unue lakson, poste febron, senfortecon
+      kaj intestajn sangadojn kaj difektojn:
+      <ekz>
+        mi, la unua, estis trafita de <tld/>o, poste anka&ubreve; pluraj el 
+        miaj gekamaradoj
+        <fnt><aut>A. LeQuint</aut>, <vrk>Infantraviva&jcirc;oj</vrk>, 
+        <lok>2006</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <ref tip="vid" cel="tif.0o">tifo</ref>
+  <trdgrp lng="ca">
+    <trd>paratifus</trd>,
+    <trd>febre paratifoide</trd>
+  </trdgrp>
+  <trd lng="de">Paratyphus</trd>
+  <trdgrp lng="fr">
+    <trd>fi&egrave;vre <ind>typho&iuml;de</ind></trd>,
+    <trd>fi&egrave;vre <ind>paratypho&iuml;de</ind></trd>
+  </trdgrp>
+  <trd lng="id">paratifus</trd>
+  <adm>
+    Konvenus referenco al ka&ubreve;zanta mikrobo Salmonella paratyphi.
+    Salmonelo ankora&ubreve; ne estas en Revo &scirc;ajne. Kiel sinonimo povus uzi&gcirc;i
+    eble "tifeto"?
+    <aut>WD</aut>
+  </adm>
+</drv>
+</art>
+
+<!--
+$Log: paratif.xml,v $
+Revision 1.5  2014/11/19 07:10:33  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.4  2013/10/09 19:11:49  revo
+Wolfram Diestel: ref al lst malsanoj
+
+Revision 1.3  2012/01/08 12:10:19  revo
+Wolfram Diestel: germ trd, ref al tifo
+
+Revision 1.2  2012/01/03 08:10:16  revo
+Marc Rausell: +trd ca
+
+Revision 1.1  2012/01/02 13:10:29  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

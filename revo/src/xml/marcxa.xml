@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: marcxa.xml,v 1.24 2014/11/09 20:10:17 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>mar&ccirc;and</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="marcxa.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="marcxa.0i.EKON">
+    <uzo tip="fak">EKON</uzo>
+    <uzo tip="klr">(pri vendanto a&ubreve; a&ccirc;etanto)</uzo>
+    <dif>
+      Diskuti por atingi interkonsentitan prezon:
+      <ekz>
+        &scirc;i iam diris, ke por akiri ion oni devas kelkfoje
+        <tld/>i per kiu ajn metodo
+        <fnt><aut>W. De Smet</aut>: <vrk>Kiu murdis Dian
+        Fossey?</vrk>, <bib>Monato</bib> <lok>1995:12,
+        p. 23a</lok></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="negoc.0i">negoci</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_t;&c_a;&c_r;&c_g;&c_a;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>
+  <trd lng="br">marc'hata</trd>
+  <trd lng="de">feilschen</trd>
+  <trdgrp lng="en">
+    <trd>bargain</trd>,
+    <trd>haggle</trd>
+  </trdgrp>
+  <trd lng="fa">&f_ch;&a_A;&a_n;&a_h; &a_z;&a_d;&a_n;</trd>
+  <trd lng="fr">marchander</trd>
+  <trd lng="hu">alkudozik</trd>
+  <trdgrp lng="nl">
+    <trd>marchanderen<klr tip="ind"> (ww.)</klr></trd>,
+    <trd>afdingen<klr tip="ind"> (ww.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>regatear</trd>,
+    <trd>pechinchar</trd>,
+    <trd>barganhar</trd>
+  </trdgrp>
+  <trd lng="ru">&c_t;&c_o;&c_r;&c_g;&c_o;&c_v;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>
+</drv>
+
+<drv mrk="marcxa.0ado">
+  <kap><tld/>ado</kap>
+  <snc mrk="marcxa.0ado.EKON">
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      Diskutado pri prezo de komerca&jcirc;o anta&ubreve;
+      a&ccirc;etdecido:
+      <ekz>
+        <tld/>ado a&ccirc;eti ne devigas
+        <fnt><bib>PrV</bib></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_t;&c_o;&c_r;&c_g;</trd>
+  <trd lng="br">marc'hatadenn</trd>
+  <trdgrp lng="de">
+    <trd>Feilschen</trd>,
+    <trd>Feilscherei</trd>,
+    <trd>Gefeilsche</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>bargaining</trd>,
+    <trd>haggling</trd>
+  </trdgrp>
+  <trd lng="fa">&f_ch;&a_A;&a_n;&a_h;&zwnj;&a_z;&a_n;&f_y;</trd>
+  <trd lng="fr">marchandage</trd>
+  <trd lng="hu">alkudoz&aacute;s</trd>
+  <trdgrp lng="nl">
+    <trd>marchanderen<klr tip="ind"> (nw.)</klr></trd>,
+    <trd>afdingen<klr tip="ind"> (nw.)</klr></trd>
+  </trdgrp>
+  <trd lng="pt">regateio</trd>
+  <trd lng="ru">&c_t;&c_o;&c_r;&c_g;</trd>
+</drv>
+
+<drv mrk="marcxa.ne0ema">
+  <kap>ne<tld/>ema</kap>
+  <snc mrk="marcxa.ne0ema.EKON">
+    <dif>
+      Ne volonte <tld/>anta,
+      konservanta la unuan prezon:
+      <ekz>
+        Petrovi&ccirc; estis, &scirc;ajne, sobra kaj tial severa, 
+        ne<tld/>ema
+        <fnt>
+          <aut>N. Gogol, trad. A. Kor&jcirc;enkov</aut>,
+          <vrk><url ref="http://esperanto-ondo.ru/Rn-gogl2.htm">
+          Palto</url></vrk>,
+          <lok>2003</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">intraitable<klr> (en affaires)</klr></trd>
+</drv>
+</art>
+<!--
+$Log: marcxa.xml,v $
+Revision 1.24  2014/11/09 20:10:17  revo
+Jeromo Vasxe: + ne~ema
+
+Revision 1.23  2009/10/09 16:31:17  revo
+Paul Peeraerts: +nl
+
+Revision 1.22  2009/09/14 16:31:24  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.21  2008/10/30 19:25:33  revo
+Russ Williams: +trd en
+
+Revision 1.20  2006/07/29 16:33:57  revo
+Tulio Flores: +tr pt
+
+Revision 1.19  2005/07/07 16:31:56  revo
+Alan ar Gall: +trd br
+
+Revision 1.18  2004/06/03 16:53:21  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.17  2004/02/15 17:31:28  revo
+-->
+</vortaro>

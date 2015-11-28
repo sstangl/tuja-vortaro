@@ -1,0 +1,139 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: planed.xml,v 1.25 2015/07/04 08:37:41 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>planed</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="planed.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="planed.0o.AST">
+    <uzo tip="fak">AST</uzo>
+    <dif>
+      <ref tip="super" cel="astr.0o.AST">Astro</ref> ne memlumanta,
+      rondiranta &ccirc;irka&ubreve; <ref tip="vid" 
+cel="stel.0o.AST">stelo</ref>
+      kaj balaanta la &ccirc;irka&ubreve;a&jcirc;on de sia orbito:
+      <ekz>
+        la pli frue ekkonita <tld/>o el gaso estas simila al nia
+        Jupitero
+        <fnt>
+        <aut>OH</aut>,
+        <vrk>Du strangaj planedsistemoj</vrk>,
+        <bib>Monato</bib>,
+        <lok>jaro 2001a, numero 7a, p. 20a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="malprt" cel="sun.0sistemo">sunsistemo</ref>
+    <trd lng="be">&c_p;&c_l;&c_ja;&c_n;&c_e;&c_t;&c_a;</trd>
+    <trd lng="bg">&c_p;&c_l;&c_a;&c_n;&c_je;&c_t;&c_a;</trd>
+    <trd lng="ca">planeta</trd>
+    <trdgrp lng="cs">
+      <trd>planeta</trd>,
+      <trd>ob&ecaron;&zcaron;nice</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd>Planet</trd>,
+      <trd>Wandelstern</trd>
+    </trdgrp>
+    <trd lng="en">planet</trd>
+    <trd lng="es">planeta</trd>
+    <trd lng="fa">&a_s;&f_y;&a_A;&a_r;&a_h;</trd>
+    <trd lng="fr">plan&egrave;te</trd>
+    <trdgrp lng="he">
+      <trd>&kaf;&vav;&kaf;&bet; &lamed;&kaf;&tav;</trd>,
+      <trd>&pe;&lamed;&nun;&tet;&he;</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>bolyg&oacute;</trd>,
+      <trd>plan&eacute;ta</trd>
+    </trdgrp>
+    <trd lng="id">planet</trd>
+    <trd lng="it">pianeta</trd>
+    <trdgrp lng="ja">
+	    <trd>&#24785;&#26143; 
+[<ind>&#12431;&#12367;&#12379;&#12356;</ind>]</trd>,
+	    <trd>&#36938;&#26143;
+[<ind>&#12422;&#12358;&#12379;&#12356;</ind>]</trd>
+    </trdgrp>
+    <trd lng="nl">planeet</trd>
+    <trd lng="pl">planeta</trd>
+    <trd lng="pt">planeta</trd>
+    <trd lng="ru">&c_p;&c_l;&c_a;&c_n;&c_je;&c_t;&c_a;</trd>
+    <trd lng="sv">planet</trd>
+    <trd lng="tr">gezegen</trd>
+    <trd lng="zh">行星 [<ind>xíng xīng</ind>]</trd>
+  </snc>
+  <trd lng="cs">planeta, oběžnice</trd>
+  <trdgrp lng="sk">
+    <trd>obežnica</trd>,
+    <trd>planéta</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="planed.nan0o">
+  <kap>nan<tld/>o</kap>
+  <snc mrk="planed.nan0o.AST">
+    <uzo tip="fak">AST</uzo>
+    <dif>
+      <ref tip="super" cel="astr.0o.AST">Astro</ref> ne memlumanta,
+      rondiranta &ccirc;irka&ubreve; <ref tip="vid" 
+cel="stel.0o.AST">stelo</ref>,
+      sed ne balaanta la &ccirc;irka&ubreve;a&jcirc;on de sia orbito:
+      <ekz>
+      Eriso, la plej granda nan<tld/>o de la sunsistemo.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>Zwergplanet</trd>,
+    </trdgrp>
+    <trd lng="en">dwarf planet</trd>
+    <trd lng="es">planeta enano</trd>
+    <trd lng="fr">plan&egrave;te naine</trd>
+    <trd lng="id">planet</trd>
+    <trd lng="it">pianeta nano</trd>
+    <trd lng="nl">dwergplaneet</trd>
+    <trd lng="pl">planeta kar&lstroke;owata</trd>
+    <trd lng="pt">planeta an&atilde;o</trd>
+    <trd lng="ru">&c_k;&c_a;&c_r;&c_l;&c_i;&c_k;&c_o;&c_v;&c_a;&c_ja; 
+&c_p;&c_l;&c_a;&c_n;&c_je;&c_t;&c_a;</trd>
+    <trd lng="tr">c&uuml;ce gezegen</trd>
+  </snc>
+</drv>
+
+</art>
+<!--
+$Log: planed.xml,v $
+Revision 1.25  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.24  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.23  2015/06/27 15:10:16  revo
+Darcy Shen: +trd zh
+
+Revision 1.22  2010/06/17 16:31:09  revo
+Jeromo Vasxe: kor 2 ref
+
+Revision 1.21  2009/07/09 16:30:38  revo
+Paul Peeraerts: +nanplanedo
+
+Revision 1.20  2009/06/23 16:32:04  revo
+Emmanuel Debanne: +trd id
+
+Revision 1.19  2009/06/16 16:31:33  revo
+Wieland Pusch: +trd bg
+
+Revision 1.18  2009/06/14 16:31:29  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.17  2007/11/13 17:30:13  revo
+Zmicier Lapcionak: + ja trd (planed)
+
+Revision 1.16  2005/12/17 17:31:32  revo
+-->
+</vortaro>

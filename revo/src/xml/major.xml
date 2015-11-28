@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: major.xml,v 1.20 2015/07/04 08:37:39 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>major</rad>/o
+</kap>
+<drv mrk="major.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">MIL</uzo>
+  <snc>
+    <dif>
+      En terarmeo kaj aerarmeo, 
+      <ref tip="super" cel="oficir.0o.MIL">oficiro</ref>, kiu rangas
+      inter
+      <ref cel="kapita1.0o.MIL">kapitano</ref> kaj
+      <ref cel="kolone.sub0o">subkolonelo</ref>:
+      <ekz>
+        mi havas najbaron, eks-<tld/>on
+        <fnt><bib>PatrojFiloj</bib> <lok>&ccirc;apitro 20a, p. 121a</lok>
+      </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_m;&c_a;&c_jo;&c_r;</trd>
+  <trd lng="br">komandant<klr tip="ind"> (ofiser)</klr></trd>
+  <trdgrp lng="ca">
+    <trd>major</trd>,
+    <trd>comandant</trd>
+  </trdgrp>
+  <trd lng="cs">major</trd>
+  <trd lng="de">Major</trd>
+  <trd lng="en">major</trd>
+  <trd lng="fr">commandant<klr tip="ind"> (officier)</klr></trd>
+  <trd lng="hu">&odblac;rnagy</trd>
+  <trd lng="it">maggiore <klr tip="ind">(grado)</klr></trd>
+  <trd lng="nl">majoor</trd>
+  <trd lng="pt">major</trd>
+  <trd lng="ru">&c_m;&c_a;&c_j;&c_o;&c_r;</trd>
+  <trd lng="sk">major</trd>
+</drv>
+</art>
+<!--
+$Log: major.xml,v $
+Revision 1.20  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:33:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2012/08/19 11:10:20  revo
+Marc Rausell: + trd ca
+
+Revision 1.17  2009/03/03 17:30:56  revo
+Antonio Codazzi: +trd it
+
+Revision 1.16  2006/07/17 16:31:29  revo
+Tulio Flores: +tr pt
+
+Revision 1.15  2005/08/14 16:32:14  revo
+Marc Bavant: mod ref cel al oficiro
+
+Revision 1.14  2005/07/07 16:33:40  revo
+Alan ar Gall: +trd br
+
+Revision 1.13  2005/02/22 17:32:03  revo
+Marc Bavant: kor trd fr
+
+Revision 1.12  2004/11/28 19:43:50  revo
+Marc Bavant: ~o: mod dif
+
+Revision 1.11  2003/05/15 16:31:40  revo
+-->
+</vortaro>

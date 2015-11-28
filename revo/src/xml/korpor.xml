@@ -1,0 +1,130 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: korpor.xml,v 1.19 2014/08/29 07:10:18 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>korporaci</rad>/o
+</kap>
+<drv mrk="korpor.0o">
+  <kap>
+    <ofc>*</ofc><tld/>o
+  </kap>
+  <snc>
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      Societo de sammetianoj a&ubreve; samprofesianoj, posedanta la rajton
+      de le&gcirc;a persono kaj submetanta siajn anojn al kolektiva
+      disciplino:
+      <ekz>
+        <tld/>o de &scirc;uistoj, panistoj, medicinistoj, k. s.;
+      </ekz>
+      <ekz>
+        mi akceptis la decidon, ke la esp-istoj ne deziras esti <tld/>e
+        organizitaj<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="gild.0o">gildo</ref>,
+      <ref cel="hans.0o">hanso</ref>,
+      <ref cel="sindik1.0o">sindikato</ref>.
+    </refgrp>
+    <trdgrp lng="de">
+      <trd>Zunft</trd>,
+      <trd>Innung</trd>
+    </trdgrp>
+    <trd lng="en">company</trd>
+    <trd lng="es">corporaci&oacute;n</trd>
+    <trdgrp lng="hu">
+      <trd>c&eacute;g</trd>,
+      <trd>korpor&aacute;ci&oacute;</trd>
+    </trdgrp>
+    <trd lng="nl">belangenorganisatie</trd>
+    <trdgrp lng="pt">
+      <trd>corpora&ccedil;&atilde;o</trd>,
+      <trd>companhia</trd>,
+    </trdgrp>
+  </snc>
+  <snc>
+    <uzo tip="fak">JUR</uzo>
+    <dif>
+      Jure registrita societo de personoj, havantaj komunan celon.
+    </dif>
+    <trdgrp lng="de">
+      <trd>K&ouml;rperschaft</trd>,
+      <trd>Korporation</trd>
+    </trdgrp>
+    <trd lng="en">corporation</trd>
+    <trdgrp lng="hu">
+      <trd>test&uuml;let</trd>,
+      <trd>t&aacute;rsulat</trd>
+    </trdgrp>
+    <trd lng="nl">corporatie</trd>
+    <trdgrp lng="pt">
+      <trd>empresa</trd>,
+      <trd>firma</trd>,
+    </trdgrp>
+  </snc>
+  <rim>
+    Ne konfuzu kun:
+    <ref cel="kompan.akci0o">akcia kompanio</ref>,
+    <ref cel="societ.akci0o">akcia societo</ref>.
+  </rim>
+  <trd lng="be">&c_k;&c_a;&c_r;&c_p;&c_a;&c_r;&c_a;&c_c;&c_y;&c_ja;</trd>
+  <trd lng="fr">corporation</trd>
+  <trd lng="ru">&c_k;&c_o;&c_r;&c_p;&c_o;&c_r;&c_a;&c_c;&c_i;&c_ja;</trd>
+</drv>
+
+<drv mrk="korpor.0ema">
+  <kap>
+    <tld/>ema
+  </kap>
+  <snc>
+    <dif>
+      Karakteriza pri la interdefendemo de la membroj de <tld/>o.
+    </dif>
+  </snc>
+  <trdgrp lng="de">
+      <trd>z&uuml;nftig</trd>
+  </trdgrp>
+  <trd lng="es">corporativista</trd>
+  <trd lng="fr">corporatiste<klr> (adj.)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>csoport&eacute;rdek&udblac;</trd>,
+    <trd>kasztszellem&udblac;</trd>
+  </trdgrp>
+  <trd lng="nl">corporatief</trd>
+  <trdgrp lng="pt">
+    <trd>corporativo</trd>,
+    <trd>corporativista</trd>
+  </trdgrp>
+  <trd lng="ru">&c_k;&c_o;&c_r;&c_p;&c_o;&c_r;&c_a;&c_t;&c_i;&c_v;&c_i;&c_s;&c_t;&c_s;&c_k;&c_i;&c_j;</trd>
+</drv>
+</art>
+<!--
+$Log: korpor.xml,v $
+Revision 1.19  2014/08/29 07:10:18  revo
+Damien Brucker: +trd fr
+
+Revision 1.18  2011/01/18 12:10:11  revo
+Russ Williams: +rim pri akcia kompanio/societo
+
+Revision 1.17  2009/09/13 16:56:26  revo
+Paul Peeraerts: +nl
+
+Revision 1.16  2009/09/03 16:30:35  revo
+Sergej Chlutchin: -fusxa rusa traduko
+
+Revision 1.15  2006/11/14 17:30:37  revo
+Tulio Flores: +tr pt
+
+Revision 1.14  2005/12/06 17:33:24  revo
+Raul Salinas Monteagudo: +trd es
+
+Revision 1.13  2004/04/29 16:32:01  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.12  2004/04/28 16:31:56  revo
+-->
+</vortaro>

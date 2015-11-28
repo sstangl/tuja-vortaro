@@ -1,0 +1,151 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: inhal.xml,v 1.18 2015/07/04 08:37:36 revo Exp $">
+<kap>
+  <rad>inhal</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="inhal.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="inhal.0i.MED">
+    <uzo tip="fak">MED</uzo>
+    <dif>
+      Enspiri vaporon a&ubreve; gason porkurace:
+      <ekz>
+        <tld/>i eteron.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>inhalovat</trd>,
+    <trd>vdechovat páry</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>inhalieren</trd>,
+    <trd>einatmen</trd>
+  </trdgrp>
+  <trd lng="es">inhalar</trd>
+  <trdgrp lng="fr">
+    <trd>aspirer<klr tip="ind"> (inhaler)</klr></trd>,
+    <trd>inhaler</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>inhal&aacute;l</trd>,
+    <trd>bel&eacute;legez</trd>
+  </trdgrp>
+  <trd lng="nl">inhaleren</trd>
+  <trd lng="pt">inalar</trd>
+  <trd lng="ru">&c_d;&c_je;&c_l;&c_a;&c_t;&c_mol; <ind>&c_i;&c_n;&c_g;&c_a;&c_l;&c_ja;&c_c;&c_i;&c_ju;</ind><klr>
+  (&c_ch;&c_je;&c_g;&c_o;-&c_l;.)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>inhalovať</trd>,
+    <trd>vydychovať pary</trd>
+  </trdgrp>
+  <trd lng="sv">inhalera</trd>
+</drv>
+
+<drv mrk="inhal.0ado">
+  <kap><tld/>ado, <var><kap><tld/>o</kap></var></kap>
+  <snc mrk="inhal.0ado.MED">
+    <dif>
+      Ago <tld/>i a&ubreve; la rezulto de tiu ago.
+    </dif>
+  </snc>
+  <trd lng="cs">inhalace</trd>
+  <trdgrp lng="de">
+    <trd>Inhalieren</trd>,
+    <trd>Inhalation</trd>,
+    <trd>Einatmen</trd>
+  </trdgrp>
+  <trd lng="fr">inhalation<klr tip="ind"> (fait d'inhaler)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>inhal&aacute;l&aacute;s</trd>,
+    <trd>bel&eacute;legz&eacute;s<klr tip="ind"> (gy&oacute;gy&iacute;t&oacute;)</klr></trd>
+  </trdgrp>
+  <trd lng="nl">het <ind>inhaleren</ind></trd>
+  <trd lng="pt">inala&ccedil;&atilde;o<klr tip="amb"> (a&ccedil;&atilde;o)</klr></trd>
+  <trd lng="ru">&c_i;&c_n;&c_g;&c_a;&c_l;&c_ja;&c_c;&c_i;&c_ja;</trd>
+  <trd lng="sk">inhalácia</trd>
+</drv>
+
+<drv mrk="inhal.0ajxo">
+  <kap><tld/>a&jcirc;o</kap>
+  <snc mrk="inhal.0ajxo.MED">
+    <dif>
+      <tld lit="I"/>ata gaso, vaporo.
+    </dif>
+  </snc>
+  <trdgrp lng="de">
+    <trd>Inhalat</trd>,
+    <trd>einzuatmende D&auml;mpfe</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>fumigation<klr tip="ind"> (inhalation)</klr></trd>,
+    <trd>inhalation<klr tip="ind"> (fumigation)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>inhal&aacute;tum</trd>,
+    <trd>bel&eacute;legezett p&aacute;ra</trd>
+  </trdgrp>
+  <trd lng="nl">wat ge<ind>&iuml;nhaleerd</ind> wordt</trd>
+  <trdgrp lng="ru">
+    <trd>&c_i;&c_n;&c_g;&c_a;&c_l;&c_ja;&c_t;</trd>,
+    <trd>&c_s;&c_r;&c_je;&c_d;&c_s;&c_t;&c_v;&c_o; &c_d;&c_l;&c_ja; <ind>&c_i;&c_n;&c_g;&c_a;&c_l;&c_ja;&c_c;&c_i;&c_j;</ind></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="inhal.0ilo">
+  <kap><tld/>ilo</kap>
+  <snc mrk="inhal.0ilo.MED">
+    <dif>
+      Aparato por <tld/>i.
+    </dif>
+  </snc>
+  <trd lng="cs">inhalátor</trd>
+  <trd lng="de">Inhalator</trd>
+  <trd lng="es">inhalador</trd>
+  <trd lng="fr">inhalateur</trd>
+  <trdgrp lng="hu">
+    <trd>inhal&aacute;tor</trd>,
+    <trd>bel&eacute;legeztet&odblac; k&eacute;sz&uuml;l&eacute;k</trd>
+  </trdgrp>
+  <trd lng="nl">inhalatietoestel</trd>
+  <trd lng="pt">inalador<klr tip="amb"> (aparelho)</klr></trd>
+  <trd lng="ru">&c_i;&c_n;&c_g;&c_a;&c_l;&c_ja;&c_t;&c_o;&c_r;</trd>
+  <trd lng="sk">inhalátor</trd>
+</drv>
+</art>
+<!--
+$Log: inhal.xml,v $
+Revision 1.18  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.16  2010/08/08 16:30:16  revo
+Jeromo Vasxe: - kramp
+
+Revision 1.15  2009/07/08 16:30:42  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.14  2005/11/02 17:31:34  revo
+Luiz Portella: +trd pt
+
+Revision 1.13  2004/01/23 17:31:03  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.12  2003/09/09 16:32:07  revo
+Yury Finkel: +trd ru, kor trd ru
+
+Revision 1.11  2003/07/14 16:33:48  revo
+Marc Bavant: +trd fr
+
+Revision 1.10 2003/01/21 17:31:41 revo
+Alejandro Mejia Greene: ald 2 his trd
+
+Revision 1.9 2002/08/04 17:32:06 revo
+-->
+</vortaro>

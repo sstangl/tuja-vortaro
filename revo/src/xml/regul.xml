@@ -1,0 +1,462 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: regul.xml,v 1.37 2015/07/04 08:37:42 revo Exp $">
+<kap>
+   <ofc>*</ofc>
+   <rad>regul</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="regul.0o">
+   <kap><ofc>*</ofc><tld/>o</kap>
+   <snc>
+     <dif>
+       Tio, kio estas difinita por gvidi la agadon, konduton, studon,
+       verkadon kaj similajn:
+       <ekz>
+         ne ekzistas <tld/>o sen escepto
+         <fnt><bib>PrV</bib></fnt>;
+       </ekz>
+       <ekz>
+         gramatika <tld/>o.
+       </ekz>
+     </dif>
+     <refgrp tip="vid">
+       <ref cel="legx.0o">le&gcirc;o</ref>,
+       <ref cel="princi.0o">principo</ref>
+     </refgrp>
+   </snc>
+  <trd lng="be">&c_p;&c_r;&c_a;&c_v;&c_ib;&c_l;&c_a;</trd>
+  <trd lng="ca">regla</trd>
+  <trdgrp lng="cs">
+    <trd>pravidlo</trd>,
+    <trd>předpis</trd>
+  </trdgrp>
+  <trd lng="de">Regel</trd>
+  <trd lng="en">rule</trd>
+  <trd lng="es">regla</trd>
+  <trd lng="fr">r&egrave;gle</trd>
+  <trd lng="hu">szab&aacute;ly</trd>
+  <trd lng="nl">regel</trd>
+  <trd lng="pl">regu&lstroke;a</trd>
+  <trd lng="ru">&c_p;&c_r;&c_a;&c_v;&c_i;&c_l;&c_o;</trd>
+  <trdgrp lng="sk">
+    <trd>pravidlo</trd>,
+    <trd>predpis</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="regul.0a">
+   <kap><tld/>a</kap>
+   <snc mrk="regul.0a.konforma">
+     <dif>
+       Konforma al la <tld/>o; la&ubreve;<tld/>a.
+     </dif>
+     <trd lng="be">&c_p;&c_r;&c_a;&c_v;&c_ib;&c_l;&c_mol;&c_n;&c_y;</trd>
+     <trd lng="de">regul&auml;r</trd>
+     <trd lng="hu">szab&aacute;lyos</trd>
+     <trd lng="pl">regularny</trd> 
+     <trd lng="ru">&c_p;&c_r;&c_a;&c_v;&c_i;&c_l;&c_o;</trd>
+   </snc>
+   <snc mrk="regul.0a.perioda">
+     <dif>
+       Ripeti&gcirc;anta &ccirc;e la fiksita perioda tempo:
+       <ekz>
+         <tld/>e ricevi gazeton;
+       </ekz>
+       <ekz>
+         <tld/>e progresi<fnt>Z</fnt>;
+       </ekz>
+       <ekz>
+         en a&ubreve;tuno <tld/>e venadis arbohakistoj.
+       </ekz>
+     </dif>
+     <trd lng="be">&c_r;&c_e;&c_g;&c_u;&c_l;&c_ja;&c_r;&c_n;&c_y;</trd>
+     <trd lng="de">regelm&auml;&szlig;ig</trd>
+     <trd lng="es">regular</trd>
+     <trd lng="hu">rendszeres</trd>
+     <trd lng="pl">regularny</trd>
+     <trd lng="ru">&c_r;&c_je;&c_g;&c_u;&c_l;&c_ja;&c_r;&c_n;&c_y;&c_j;</trd>
+   </snc>
+   <snc mrk="regul.0a.MAT">
+     <uzo tip="fak">MAT</uzo>
+     <subsnc mrk="regul.0a.plurlatero">
+       <fnt><bib>MatTerm</bib>, <lok>p. 28</lok></fnt>
+       <dif>
+         <klr>(p.p. <ref cel="later.plur0o">plurlatero</ref>)</klr>
+         Tia, ke &gcirc;i estas
+         <ref cel="skrib.en0ita.encirklosfero">enskribita</ref>
+         en cirklo, kaj ke &gcirc;iaj lateroj estas samlongaj:
+         <ekz>
+           <tld/>an <ref cel="angul.rekt0o">rektangulon</ref> oni nomas
+           <ref cel="kvadra1.0o">kvadrato</ref>;
+         </ekz>
+         <ekz>
+           &ccirc;iuj anguloj de <tld/>a plurlatero estas egalaj.
+         </ekz>
+       </dif>
+       <bld tip="svg" lok="../bld/e_regulaj_plurlateroj.svg.gif"
+       lrg="450"
+         alt="300">
+         <tld/>aj plurlateroj
+       </bld>
+       <trd lng="de">regelm&auml;&szlig;ig<klr tip="ind"> (-es
+       Vieleck)</klr></trd>
+       <trd lng="en">regular<klr tip="ind"> (polygon)</klr></trd>
+       <trdgrp lng="fr">
+         <trd><klr tip="ind">(polygone) </klr>r&eacute;gulier</trd>,
+         <trd>&eacute;quilat&eacute;ral</trd>
+       </trdgrp>
+       <trd lng="hu">szab&aacute;lyos <klr tip="ind">(soksz&ouml;g)</klr></trd>
+       <trd lng="pl"><klr tip="ind">(wielok&aogonek;t) </klr>foremny</trd>
+       <trd lng="ru">&c_p;&c_r;&c_a;&c_v;&c_i;&c_l;&c_mol;&c_n;&c_y;&c_j;<klr tip="ind">
+       (&c_m;&c_n;&c_o;&c_g;&c_o;&c_u;&c_g;&c_o;&c_l;&c_mol;&c_n;&c_i;&c_k;)</klr></trd>
+     </subsnc>
+     <subsnc mrk="regul.0a.pluredro">
+       <fnt><bib>MatVort</bib></fnt>
+       <dif>
+         <klr>(p.p. <ref cel="edr.plur0o">pluredro</ref>)</klr>
+         Tia, ke &gcirc;i estas
+         <ref cel="skrib.en0ita.encirklosfero">enskribita</ref>
+         en sfero, kaj ke &gcirc;iaj facoj estas
+         <ref cel="izomet.0a.subaroj">izometriaj</ref>,
+         <ref cel="regul.0a.pluredro"><tld/>aj</ref> plurlateroj:
+         <ekz>
+           inter &ccirc;iuj konveksaj pluredroj nur kvaredro, sesedro,
+           okedro, dek-duedro kaj dudekedroj povas esti <tld/>aj.
+         </ekz>
+       </dif>
+       <ref tip="vid" cel="solid.platona0o">platona solido.</ref>
+       <bld lok="../bld/pluredr.png">
+         la kvin <tld/>aj pluredroj
+       </bld>
+       <trd lng="de">regelm&auml;&szlig;ig<klr tip="ind"> (-es
+       Vielflach)</klr></trd>
+       <trd lng="en">regular<klr tip="ind"> (polyhedron)</klr></trd>
+       <trd lng="fr"><klr tip="ind">(poly&egrave;dre)
+       </klr>r&eacute;gulier</trd>
+       <trd lng="hu">szab&aacute;lyos <klr tip="ind">(poli&eacute;der)</klr></trd>
+       <trd lng="pl"><klr tip="ind">(wielo&sacute;cian) </klr>foremny</trd>
+       <trd lng="ru">&c_p;&c_r;&c_a;&c_v;&c_i;&c_l;&c_mol;&c_n;&c_y;&c_j;<klr tip="ind">
+       (&c_m;&c_n;&c_o;&c_g;&c_o;&c_g;&c_r;&c_a;&c_n;&c_n;&c_i;&c_k;)</klr></trd>
+     </subsnc>
+     <subsnc mrk="regul.0a.matrico">
+       <dif>
+         <klr>(p.p. <ref cel="matric.n_p0o">(n,n)-matrico</ref>)</klr>
+         <ref tip="dif" cel="invers.0igebla">Inversigebla</ref>.
+       </dif>
+       <adm>
+         Fonto trovenda. <aut>MB</aut>
+       </adm>
+       <trd lng="de">regul&auml;r<klr tip="ind"> (-e Matrix)</klr></trd>
+       <trd lng="en">regular<klr tip="ind"> (matrix)</klr></trd>
+       <trd lng="fr"><klr tip="amb">(matrice)
+       </klr>r&eacute;guli&egrave;re</trd>
+       <trdgrp lng="hu">
+         <trd>invert&aacute;lhat&oacute; <klr tip="ind">(m&aacute;trix)</klr></trd>,
+         <trd>regul&aacute;ris <klr tip="ind">(m&aacute;trix)</klr></trd>
+       </trdgrp>
+       <trd lng="pl"><klr tip="amb">(macierz) </klr>nieosobliwa</trd>
+       <trd lng="ru">&c_r;&c_je;&c_g;&c_u;&c_l;&c_ja;&c_r;&c_n;&c_a;&c_ja;<klr tip="amb">
+       (&c_m;&c_a;&c_t;&c_r;&c_i;&c_c;&c_a;)</klr></trd>
+     </subsnc>
+     <subsnc mrk="regul.0a.distribucio">
+       <dif>
+         <klr>(p.p. <ref cel="distri2.0o">distribucio</ref>
+         <frm>T</frm>)</klr>
+         Tia, ke la bildo per &gcirc;i de &ccirc;iu testa funkcio
+         <frm>&phi;</frm> estas esprimebla per
+         <frm>&#8747;<sub>]-&#8734;,+&#8734;[</sub>
+         <k>h</k>(<k>x</k>)&phi;(<k>x</k>)d<k>x</k></frm>
+         por iu funkcio <frm><k>h</k></frm>
+         <klr>(funkcio asociita al la distribucio)</klr>:
+         <ekz>
+           la diraka distribucio ne estas <tld/>a.
+         </ekz>
+       </dif>
+       <rim>
+         Oni ofte identigas <tld/>an distribucion kun &gcirc;ia asociita
+         funkcio. E&ccirc; por distribucioj, kiuj ne estas <tld/>aj, oni
+         tradicie uzas funkciecajn skriba&jcirc;ojn, ekz-e de la tipo
+ 
+<frm>&#8747;&delta;(<k>x</k>-<k>a</k>)&phi;(<k>x</k>)d<k>x</k></frm>
+         anstata&ubreve; <frm>&delta;<sub><k>a</k></sub>(&phi;)</frm>.
+       </rim>
+       <adm>
+         Fonto trovenda. <aut>MB</aut>
+       </adm>
+       <trd lng="de">regul&auml;r<klr tip="ind"> (-e 
+Distribution)</klr></trd>
+       <trd lng="en">regular<klr tip="ind"> (distribution)</klr></trd>
+       <trd lng="fr"><klr tip="amb">(distribution)
+       </klr>r&eacute;guli&egrave;re</trd>
+       <trd lng="hu">regul&aacute;ris <klr tip="ind">(eloszl&aacute;s)</klr></trd>
+       <trd lng="pl"><klr tip="ind">(dystrybucja) </klr>regularna</trd>
+       <trd lng="ru">&c_r;&c_je;&c_g;&c_u;&c_l;&c_ja;&c_r;&c_n;&c_a;&c_ja;<klr tip="amb">
+       (&c_o;&c_b;&c_o;&c_b;&c_shch;&c_jo;&c_n;&c_n;&c_a;&c_ja; &c_f;&c_u;&c_n;&c_k;&c_c;&c_i;&c_ja;)</klr></trd>
+     </subsnc>
+   </snc>
+  <trd lng="ca">regular (adj.)</trd>
+  <trdgrp lng="cs">
+    <trd>pravidelný</trd>,
+    <trd>regulární</trd>,
+    <trd>rovnoměrný</trd>,
+    <trd>řádný</trd>
+  </trdgrp>
+  <trd lng="fr">r&eacute;gulier</trd>
+  <trd lng="nl">regelmatig</trd>
+  <trdgrp lng="sk">
+    <trd>pravidelný</trd>,
+    <trd>regulárny</trd>,
+    <trd>riadny</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="regul.0igi">
+   <kap><tld/>igi</kap>
+   <gra><vspec>tr</vspec></gra>
+   <snc>
+     <dif>
+       Konformigi al la <tld/>o:
+       <ekz>
+         <ind><tld/>igi la kontojn</ind> kun iu<fnt>B</fnt>.
+         <trd lng="ru">&c_s;&c_v;&c_je;&c_s;&c_t;&c_i;
+         &c_s;&c_ch;&c_jo;&c_t;&c_y;</trd>
+       </ekz>
+     </dif>
+     <trdgrp lng="de">
+       <trd>abgleichen</trd>,
+       <trd>abschlie&szlig;en</trd>
+     </trdgrp>
+     <trd lng="fr">r&eacute;gulariser</trd>
+     <trd lng="hu">rendez</trd>
+   </snc>
+   <snc>
+     <dif>
+       Submeti al <tld/>aro.
+     </dif>
+     <trdgrp lng="de">
+       <trd>regulieren</trd>,
+       <trd>regeln</trd>
+     </trdgrp>
+   </snc>
+  <trdgrp lng="be">
+     <trd>&c_r;&c_e;&c_g;&c_u;&c_l;&c_ja;&c_v;&c_a;&c_c;&c_mol;</trd>,
+     <trd>&c_u;&c_r;&c_e;&c_g;&c_u;&c_l;&c_ja;&c_v;&c_a;&c_c;&c_mol;</trd>
+   </trdgrp>
+  <trd lng="ca">regular <klr>(verb)</klr></trd>
+  <trdgrp lng="cs">
+    <trd>dát do pořádku</trd>,
+    <trd>regulovat</trd>,
+    <trd>upravit</trd>,
+    <trd>uspořádat</trd>
+  </trdgrp>
+  <trd lng="es">regular</trd>
+  <trd lng="fr">r&eacute;gulariser</trd>
+  <trd lng="hu">szab&aacute;lyoz</trd>
+  <trd lng="nl">regelen</trd>
+  <trdgrp lng="ru"> 
+     <trd>&c_r;&c_je;&c_g;&c_u;&c_l;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>, 
+     <trd>&c_u;&c_r;&c_je;&c_g;&c_u;&c_l;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>,
+     <trd>&c_p;&c_r;&c_i;&c_v;&c_je;&c_s;&c_t;&c_i; &c_v; &c_p;&c_o;&c_r;&c_ja;&c_d;&c_o;&c_k;</trd>
+   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>regulovať</trd>,
+    <trd>riadiť</trd>,
+    <trd>upraviť</trd>,
+    <trd>usporiadať</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="regul.0aro">
+   <kap><tld/>aro</kap>
+   <snc mrk="regul.0aro.KOMUNE">
+     <dif>
+       Tuto de la <tld/>oj de iu organiza&jcirc;o a&ubreve; societo.
+     </dif>
+     <refgrp tip="vid">
+       <ref cel="statut.0o">statuto</ref>
+     </refgrp>
+   </snc>
+  <trdgrp lng="be">
+     <trd>&c_r;&c_e;&c_g;&c_l;&c_ja;&c_m;&c_e;&c_n;&c_t;</trd>,
+     <trd>&c_s;&c_t;&c_a;&c_t;&c_u;&c_t;</trd>
+   </trdgrp>
+  <trd lng="ca">reglament</trd>
+  <trdgrp lng="cs">
+    <trd>organizační řád</trd>,
+    <trd>pravidla</trd>,
+    <trd>souhrn pravidel</trd>,
+    <trd>stanovy</trd>,
+    <trd>řád</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+     <trd>Regelwerk</trd>,
+     <trd>Satzung</trd>,
+     <trd>Statuten</trd>,
+   </trdgrp>
+  <trd lng="es">reglamento</trd>
+  <trd lng="fr">r&eacute;glement<klr tip="ind"> (r&egrave;gles)</klr></trd>
+  <trd lng="hu">szab&aacute;lyzat</trd>
+  <trd lng="nl">reglement</trd>
+  <trd lng="pl">regulamin</trd>
+  <trd lng="ru">&c_r;&c_je;&c_g;&c_l;&c_a;&c_m;&c_je;&c_n;&c_t;</trd>
+  <trdgrp lng="sk">
+    <trd>organizačný poriadok</trd>,
+    <trd>pravidlá</trd>,
+    <trd>stanovy</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="regul.0eco">
+   <kap><tld/>eco</kap>
+   <snc mrk="regul.0eco.KOMUNE">
+     <dif>
+       Konformeco al la <tld/>oj.
+     </dif>
+   </snc>
+  <trd lng="ca">regularitat</trd>
+  <trdgrp lng="cs">
+    <trd>pravidelnost</trd>,
+    <trd>regulérnost</trd>
+  </trdgrp>
+  <trd lng="de">Regelm&auml;&szlig;igkeit</trd>
+  <trd lng="es">regularidad</trd>
+  <trd lng="fr">r&eacute;gularit&eacute;</trd>
+  <trdgrp lng="hu">
+     <trd>szab&aacute;lyoss&aacute;g</trd>,
+     <trd>rendszeress&eacute;g</trd>
+   </trdgrp>
+  <trd lng="nl">regelmaat</trd>
+  <trdgrp lng="pl">
+     <trd>praworz&aogonek;dno&sacute;&cacute;</trd>,
+     <trd>regularno&sacute;&cacute;</trd>
+   </trdgrp>
+  <trdgrp lng="ru"> 
+      <trd>&c_p;&c_r;&c_a;&c_v;&c_i;&c_l;&c_mol;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>,
+      <trd>&c_r;&c_je;&c_g;&c_u;&c_l;&c_ja;&c_r;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>,
+      <trd>&c_z;&c_a;&c_k;&c_o;&c_n;&c_o;&c_m;&c_je;&c_r;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
+   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>pravidelnosť</trd>,
+    <trd>regulárnosť</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="regul.trafik0aro">
+   <kap>trafik<tld/>aro</kap>
+   <snc mrk="regul.trafik0aro.TRA">
+     <uzo tip="fak">TRA</uzo>
+     <dif>
+       Tuto de la <tld/>oj, la&ubreve; kiuj oni veturu sur vojoj:
+       <ekz>
+         en la idilia urbo oni ne bezonis trafik-<tld/>aron, kvankam
+         foje okazis akcidento
+         <fnt>
+           <aut>Ueyama M.</aut>,
+           <vrk>Pardonon!</vrk>,
+           <lok>1970</lok>
+         </fnt>.
+       </ekz>
+     </dif>
+   </snc>
+  <trd lng="ca">codi de circulaci&oacute;</trd>
+  <trd lng="cs">dopravní pravidla</trd>
+  <trdgrp lng="fr">
+     <trd>code de la navigation</trd>,
+     <trd>code de la route</trd>
+   </trdgrp>
+  <trd lng="hu">KRESZ</trd>
+  <trdgrp lng="nl">
+     <trd>verkeersreglement</trd>,
+     <trd>wegcode</trd>
+   </trdgrp>
+  <trdgrp lng="pl">
+     <trd>kodeks drogowy</trd>,
+     <trd>kodeks ruchu drogowego</trd>
+   </trdgrp>
+  <trd lng="sk">dopravné pravidlá</trd>
+</drv>
+
+<drv mrk="regul.viv0o">
+  <kap>viv<tld/>o</kap>
+  <snc mrk="regul.viv0o.FIL">
+    <dif>
+      <tld lit="R"/>o pri &ccirc;iutaga vivo, pri agado, pri moro:
+      <ekz>
+        la junaj inaj generacioj facile kaj rapide konformi&gcirc;is al la 
+        novaj viv<tld/>oj
+        <fnt>
+          <aut>N. Cescotti Covelli</aut>,
+          <vrk><url
+          ref="http://www.ueci.it/kongresoj/kng_2007/Prelego_1.htm">
+          La virino en la islama mondo</url></vrk>,
+          <lok>[21a kongreso de UECI], 2007</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">r&egrave;gle de vie</trd>
+</drv>
+
+<drv mrk="regul.0esprimo">
+   <kap><tld/>esprimo</kap>
+   <snc mrk="regul.0esprimo.KOMP">
+     <uzo tip="fak">KOMP</uzo>
+     <dif>
+       En redaktilo, dosieradministrilo, retumilo ktp, ser&ccirc;a
+       &scirc;ablono, difinanta <tld/>on por rekoni
+       <ref cel="kongru.0a">kongruajn</ref> signo&ccirc;enojn.
+     </dif>
+   </snc>
+   <trd lng="be">&c_r;&c_e;&c_g;&c_u;&c_l;&c_ja;&c_r;&c_n;&c_y; 
+&c_v;&c_y;&c_r;&c_a;&c_z;</trd>
+   <trd lng="ca">expressi&oacute; regular</trd>
+   <trd lng="de">Regul&auml;rer Ausdruck</trd>
+   <trdgrp lng="en">
+     <trd>regular expression</trd>,
+     <trd>regexp</trd>
+   </trdgrp>
+   <trd lng="es">expresi&oacute;n regular</trd>
+   <trd lng="fr">expression r&eacute;guli&egrave;re</trd>
+   <trdgrp lng="hu">
+     <trd>szab&aacute;lyos kifejez&eacute;s</trd>,
+     <trd>regul&aacute;ris kifejez&eacute;s</trd>
+   </trdgrp>
+   <trd lng="nl">reguliere <ind>expressie</ind></trd>
+   <trd lng="ru">&c_r;&c_je;&c_g;&c_u;&c_l;&c_ja;&c_r;&c_n;&c_o;&c_je; 
+&c_v;&c_y;&c_r;&c_a;&c_zh;&c_je;&c_n;&c_i;&c_je;</trd>
+</drv>
+</art>
+<!--
+$Log: regul.xml,v $
+Revision 1.37  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.36  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.35  2015/03/12 23:10:15  revo
+Jeromo Vasxe: + viv~o
+
+Revision 1.34  2011/12/10 15:10:21  revo
+Marc Rausell: +trd ca
+
+Revision 1.33  2010/01/20 17:30:25  revo
+Marc Bavant: ~a MAT: mod bld
+
+Revision 1.32  2009/11/28 17:31:27  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.31  2009/09/12 16:31:04  revo
+Paul Peeraerts: +nl
+
+Revision 1.30  2009/03/01 17:31:25  revo
+Marcus Curdeius: +pl
+
+Revision 1.29  2008/04/17 17:52:09  revo
+Mireille Corobu: korekto en trd fr
+
+Revision 1.28  2007/04/27 16:30:34  revo
+-->
+</vortaro>

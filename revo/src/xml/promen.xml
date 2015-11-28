@@ -1,0 +1,150 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: promen.xml,v 1.26 2015/09/16 11:10:25 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>promen</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="promen.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="promen.0i.KOMUNE">
+    <uzo tip="fak">TRA</uzo>
+    <dif>
+      Iri de loko al loko por plezuro a&ubreve; sano:
+      <ekz>
+        ili <tld/>as &ccirc;iam duope<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        <ind>lia cerbo iras <tld/>i</ind>
+        <klr>(li estas frenezeta. <ref tip="vid"
+        cel="musx.0o">mu&scirc;o</ref>)</klr>.
+        <trd lng="hu">elment az esze</trd>
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="ekskur">ekskursi</ref>,
+      <ref cel="vag.0i">vagi</ref>,
+      <ref cel="vojagx.0i">voja&gcirc;i</ref>.
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_g;&c_u;&c_l;&c_ja;&c_c;&c_mol;</trd>,
+    <trd>&c_p;&c_r;&c_a;&c_g;&c_u;&c_l;&c_mol;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>,
+    <trd>&c_sh;&c_p;&c_a;&c_c;&c_y;&c_r;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>korzovat</trd>,
+    <trd>proch&aacute;zet se</trd>,
+    <trd>promenovat</trd>,
+    <trd>promenovat se</trd>
+  </trdgrp>
+  <trd lng="de">spazieren gehen</trd>
+  <trd lng="en">promenade</trd>
+  <trdgrp lng="es">
+    <trd>pasear</trd>
+  </trdgrp>
+  <trd lng="fr">se promener</trd>
+  <trd lng="hu">s&eacute;t&aacute;l</trd>
+  <trd lng="nl">wandelen</trd>
+  <trd lng="pl">spacerowa&cacute;</trd>
+  <trd lng="pt">passear</trd>
+  <trd lng="ro">a se plimba</trd>
+  <trdgrp lng="ru">
+    <trd>&c_g;&c_u;&c_l;&c_ja;&c_t;&c_mol;</trd>,
+    <trd>&c_p;&c_r;&c_o;&c_g;&c_u;&c_l;&c_i;&c_v;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>
+  </trdgrp>
+  <trd lng="sk">prech&aacute;dza&tcaron; sa</trd>
+  <trd lng="sv">promenera</trd>
+</drv>
+
+<drv mrk="promen.0ado">
+  <kap><tld/>ado</kap>
+  <snc mrk="promen.0ado.IRI">
+    <dif>
+      Piedirado ne pro ia devo, sed pro distri&gcirc;o, edifo a&ubreve; plezuro.
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_r;&c_a;&c_g;&c_u;&c_l;&c_k;&c_a;</trd>,
+    <trd>&c_sh;&c_p;&c_a;&c_c;&c_y;&c_r;</trd>,
+    <trd>&c_p;&c_r;&c_a;&c_m;&c_e;&c_n;&c_a;&c_d;</trd>
+  </trdgrp>
+  <trd lng="bg">&c_r;&c_a;&c_z;&c_h;&c_o;&c_d;&c_k;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>proch&aacute;zen&iacute; se</trd>,
+    <trd>proch&aacute;zka</trd>
+  </trdgrp>
+  <trd lng="de">Spaziergang</trd>
+  <trd lng="es">paseo<klr> (acci&oacute;n)</klr></trd>
+  <trd lng="fr">promenade<klr> (action)</klr></trd>
+  <trd lng="nl">wandeling</trd>
+  <trd lng="pl">spacer</trd>
+  <trd lng="ro">plimbare</trd>
+  <trd lng="sk">prech&aacute;dzka</trd>
+</drv>
+
+<drv mrk="promen.0ejo">
+  <kap><tld/>ejo</kap>
+  <snc mrk="promen.0ejo.KOMUNE">
+    <dif>
+      Loko oportuna a&ubreve; aran&gcirc;ita por <tld/>ado,
+      en kiu homoj kutime <tld/>as.
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="kors.0o.TRA">korso</ref>
+    </refgrp>
+  </snc>
+  <trd lng="es">paseo<klr> (lugar)</klr></trd>
+  <trd lng="fr">promenade<klr> (lieu)</klr></trd>
+</drv>
+
+<drv mrk="promen.0igi">
+  <kap><tld/>igi</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="promen.0igi.KOMUNE">
+    <dif>
+      Irigi kun si <tld/>e:
+      <ekz>
+        <tld/>igi amikon, hundon.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_v;&c_y;&c_g;&c_u;&c_l;&c_mol;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="hu">s&eacute;t&aacute;ltat</trd>
+  <trd lng="nl">uitlaten</trd>
+  <trd lng="es">pasear<klr> (a alguien o algo)</klr></trd>
+  <trd lng="fr">promener</trd>
+  <trd lng="pl">wyprowadza&cacute; na spacer <klr>(np. psa)</klr></trd>
+  <trd lng="ru">&c_v;&c_y;&c_g;&c_u;&c_l;&c_i;&c_v;&c_a;&c_t;&c_mol; <klr>(pp hundo)</klr></trd>
+</drv>
+</art>
+<!--
+$Log: promen.xml,v $
+Revision 1.26  2015/09/16 11:10:25  revo
+Guillermo Molleda Jimena: trd es
+
+Revision 1.25  2015/08/04 22:10:17  revo
+Jeromo Vasxe: memstar. ~igi ~ejo
+
+Revision 1.24  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.23  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.22  2013/12/02 15:10:20  revo
+Damien Brucker: +trd fr
+
+Revision 1.21  2013/09/29 18:10:10  revo
+Vito Redsky: +trd pl ro
+
+Revision 1.20  2013/02/18 06:10:15  revo
+Dmitri Gabinski: redakto: +trd be
+
+Revision 1.19  2009/11/07 17:30:56  revo
+-->
+</vortaro>

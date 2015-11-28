@@ -1,0 +1,664 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: trans.xml,v 1.23 2015/07/04 08:37:45 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>trans</rad> <fnt><bib>PV</bib></fnt>
+</kap>
+<subart>
+  <drv mrk="trans.0">
+    <kap><ofc>*</ofc><tld/></kap>
+    <snc mrk="trans.0.loko">
+      <dif>
+        Prepozicio montranta
+        lokon ku&scirc;antan sur la alia, pli malproksima flanko
+        de la objekto, kiun la prepozicio enkondukas:
+        <ekz>
+          <tld/> la rivero sin trovis aliaj hirundoj
+          <fnt><bib>F</bib><lok>&FE; 22</lok></fnt>;
+        </ekz>
+        <ekz>
+          la popoloj lo&gcirc;antaj <tld/> la maro;
+        </ekz>
+        <ekz>
+          anta&ubreve; la mallevi&gcirc;o de la suno ni devas
+          esti <tld/> la limo<fnt>Z</fnt>;
+        </ekz>
+        <ekz>
+          a&ubreve;skulti <tld/> muro<fnt>Z</fnt>
+          <klr>(<ref cel="auxsku.sub0i">suba&ubreve;skulti</ref>)</klr>;
+        </ekz>
+        <ekz>
+          <uzo tip="stl">FIG</uzo>
+          se <tld/> la tombo <klr>(post la morto)</klr>
+          estas ja ankora&ubreve; vivo.
+        </ekz>
+      </dif>
+      <rim>
+        <em>Trans</em> kaj <em>preter</em> signifas amba&ubreve;, ke oni iras
+        pli malproksimen ol la priparolata objekto; sed <em>preter</em>
+        signifas ke oni anta&ubreve;e la&ubreve;iris tiun objekton, kaj
+        <em>trans</em>, ke oni pasis sur a&ubreve; super &gcirc;i.
+      </rim>
+      <rim>
+        Pri uzo de <em><tld/></em> kun akuzativo,
+        vd <ref cel="trans.al0">al <tld/>, <tld/> ...-n</ref>.
+      </rim>
+      <trdgrp lng="fr">
+        <trd>au-del&agrave; de</trd>,
+        <trd>de l'autre c&ocirc;t&eacute; de</trd>
+      </trdgrp>
+      <trdgrp lng="hu">
+        <trd>t&uacute;l</trd>,
+        <trd>m&ouml;g&ouml;tt</trd>
+      </trdgrp>
+      <trdgrp lng="pt">
+        <trd>al&eacute;m de</trd>,
+        <trd>do outro lado de</trd>
+        <trd>para l&aacute; de</trd>
+      </trdgrp>
+      <trdgrp lng="ru">
+        <trd>&c_ch;&c_je;&c_r;&c_je;&c_z;</trd>,
+        <trd>&c_p;&c_o; &c_t;&c_u; &c_s;&c_t;&c_o;&c_r;&c_o;&c_n;&c_u;</trd>,
+        <trd>&c_z;&c_a;</trd>
+      </trdgrp>
+    </snc>
+    <snc mrk="trans.0.celo">
+      <uzo tip="stl">EVI</uzo>
+      <ref tip="dif" cel="trans.al0">al <tld/>, <tld/> ...-n</ref>
+      <ekz>
+        pensoj iras <tld/> limo sen pago kaj timo
+        <fnt><bib>PrV</bib></fnt>;
+      </ekz>
+      <ekz>
+        la tuta Izrael iris <tld/> seka tero,
+        &gcirc;is la tuta popolo <tld/>iris Jordanon
+        <fnt><bib>MT</bib><lok>&Jos; 3:17</lok></fnt>;
+      </ekz>
+      <ekz>
+        Hanibalo iris <tld/> la Alpoj
+        <fnt><bib>PV</bib></fnt>;
+      </ekz>
+      <ekz>
+        <klr>[en atletika konkurso]</klr> homoj simile al katoj
+        saltas <tld/> la barieroj
+        <fnt><bib>Metrop</bib><lok>&ccirc;ap. 4</lok></fnt>.
+      </ekz>
+      <rim>
+        Kvankam &ccirc;i tiu senco trovi&gcirc;as en a&ubreve;toritataj
+        fontoj, ne klare vidi&gcirc;as, kial oni &gcirc;in agnosku
+        &gcirc;usta, dum &ccirc;e &ccirc;iuj aliaj lokaj prepozicioj oni
+        tiom zorge distingas per uzo de deviga akuzativo la sencon
+        &leftquot;celo&rightquot; disde la senco &leftquot;loko&rightquot;.
+      </rim>
+      <trdgrp lng="hu">
+        <trd>&aacute;t</trd>,
+        <trd>kereszt&uuml;l</trd>
+      </trdgrp>
+      <trd lng="ru">&c_ch;&c_je;&c_r;&c_je;&c_z;</trd>
+    </snc>
+    <snc mrk="trans.0.tra">
+      <uzo tip="stl">ARK</uzo>
+      <uzo tip="stl">EVI</uzo>
+      <ref tip="dif" cel="tra.0.gxisfine">tra <sncref/></ref>
+      <ekz>
+        tiu stelo tre luma, en sia kurado <tld/> arka&jcirc;o
+        la &ccirc;iela<fnt>Z</fnt>.
+      </ekz>
+    </snc>
+  <trdgrp lng="cs">
+    <trd>přes</trd>,
+    <trd>za</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>cez</trd>,
+    <trd>za</trd>
+  </trdgrp>
+</drv>
+  <drv mrk="trans.al0">
+    <kap>al <tld/>, <var><kap><tld/> ...-n</kap></var></kap>
+    <snc>
+      <dif>
+        <ref cel="al.0">Al</ref> loko situanta
+        <ref cel="trans.0.loko"><tld/> <sncref/></ref>:
+        <ekz>
+          la hirundo flugis <tld/> la riveron
+          <fnt><bib>F</bib><lok>&FE; 22</lok></fnt>;
+        </ekz>
+        <ekz>
+          Barzilaj <klr>[...]</klr> akompanis la re&gcirc;on <tld/> Jordanon
+          <fnt><bib>MT</bib><lok>&Sa2; 19:31</lok></fnt>;
+        </ekz>
+        <ekz>
+          li paf&jcirc;etis la sagon malproksime <tld/> <klr>[la
+          knabon]</klr>
+          <fnt><bib>MT</bib><lok>&Sa1; 20:36</lok></fnt>;
+        </ekz>
+        <ekz>
+          la cignoj en grandaj amasoj flugas <tld/> la maron
+          <fnt><bib>Fab4</bib><lok>Historio el la dunoj</lok></fnt>;
+        </ekz>
+        <ekz>
+          &gcirc;iaj okuloj <klr>[...]</klr> rigardis <tld/> Nilon,
+          al landoj, kiuj por la homa rigardo kunfluas kun la horizonto
+          <fnt><bib>Far2</bib><lok>&ccirc;ap. 24</lok></fnt>.
+        </ekz>
+      </dif>
+      <rim>
+        Pri la prepoziciaj kuna&jcirc;oj kun <em>al</em>,
+        vidu rimarkon sub
+        <ref cel="cxe.al0.kunajxo_kun_al">al &ccirc;e</ref>.
+      </rim>
+    </snc>
+    <trd lng="fr">au-del&agrave; de</trd>
+    <trdgrp lng="hu">
+      <trd>t&uacute;lra</trd>,
+      <trd>m&ouml;g&eacute;</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_z;&c_a;<klr tip="amb"> (&c_k;&c_u;&c_d;&c_a;)</klr></trd>,
+      <trd>&c_ch;&c_je;&c_r;&c_je;&c_z;<klr tip="amb"> (&c_k;&c_u;&c_d;&c_a;)</klr></trd>
+    </trdgrp>
+  </drv>
+  <drv mrk="trans.de0">
+    <kap>de <tld/></kap>
+    <snc>
+      <dif>
+        <ref cel="de.0">De</ref>
+        <sncref ref="de.0.spaco"/>,<sncref ref="de.0.origino"/>,<sncref
+        ref="de.0.aparteno"/>
+        loko situanta
+        <ref cel="trans.0.loko"><tld/> <sncref/></ref>:
+        <ekz>
+          venis kontra&ubreve; vin granda multo da homoj de <tld/> la maro
+          <fnt><bib>MT</bib><lok>&Kr2; 20:2</lok></fnt>;
+        </ekz>
+        <ekz>
+          li regis <klr>[...]</klr> super &ccirc;iuj re&gcirc;oj de <tld/> la
+          Rivero
+          <fnt><bib>MT</bib><lok>&Re1; 4:24</lok></fnt>.
+        </ekz>
+      </dif>
+    </snc>
+    <trd lng="fr">d'au-del&agrave; de</trd>
+    <trdgrp lng="hu">
+      <trd>t&uacute;lr&oacute;l</trd>,
+      <trd>m&ouml;g&uuml;l</trd>
+    </trdgrp>
+    <trd lng="ru">&c_i;&c_z;-&c_z;&c_a;<klr tip="amb"> (&c_o;&c_t;&c_k;&c_u;&c_d;&c_a;)</klr></trd>
+  </drv>
+  <drv mrk="trans.el0">
+    <kap>el <tld/></kap>
+    <snc>
+      <ref tip="dif" cel="trans.de0">de <tld/></ref>
+      <ekz>
+        belaj rakontoj el <tld/> la montoj
+        <fnt><bib>PrV</bib></fnt>;
+      </ekz>
+      <ekz>
+        el <tld/> la riveroj de Etiopujo Miaj adorantoj
+        <klr>[...]</klr> alportos al Mi donacojn
+        <fnt><bib>MT</bib><lok>Cefanja 3:10</lok></fnt>;
+      </ekz>
+      <ekz>
+        grandaj homamasoj lin sekvis <klr>[...]</klr> el <tld/> Jordan
+        <fnt><bib>NT</bib><lok>&Mat; 4:25</lok></fnt>.
+      </ekz>
+    </snc>
+    <trd lng="fr">d'au-del&agrave; de</trd>
+    <trdgrp lng="hu">
+      <trd>t&uacute;lr&oacute;l</trd>,
+      <trd>m&ouml;g&uuml;l</trd>
+    </trdgrp>
+    <trd lng="ru">&c_i;&c_z;-&c_z;&c_a;<klr tip="amb"> (&c_o;&c_t;&c_k;&c_u;&c_d;&c_a;)</klr></trd>
+  </drv>
+</subart>
+
+<subart>
+  <dif>
+    Vortero kun sama signifo:
+  </dif>
+  <drv mrk="trans.0a">
+    <kap><tld/>a</kap>
+    <snc>
+      <dif>
+        Estanta <tld/> io:
+        <ekz>
+          la <tld/>a trotuaro, bordo<fnt>Z</fnt>;
+        </ekz>
+        <ekz>
+          mi ja ne kredas tiun <tld/>an mondon.
+        </ekz>
+      </dif>
+    </snc>
+  <trdgrp lng="cs">
+    <trd>jdoucí přes</trd>,
+    <trd>příčný</trd>
+  </trdgrp>
+  <trd lng="de">&uuml;ber</trd>
+  <trd lng="en">across</trd>
+  <trd lng="fr">au-del&agrave;<klr> (adj.)</klr></trd>
+  <trdgrp lng="hu">
+      <trd>t&uacute;loldali</trd>,
+      <trd>t&uacute;lnani</trd>,
+      <trd>oda&aacute;ti</trd>
+    </trdgrp>
+  <trd lng="ru">&c_p;&c_o;&c_t;&c_u;&c_s;&c_t;&c_o;&c_r;&c_o;&c_n;&c_n;&c_i;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>idúci cez</trd>,
+    <trd>priečny</trd>
+  </trdgrp>
+</drv>
+  <drv mrk="trans.0e">
+    <kap><tld/>e</kap>
+    <snc>
+      <dif>
+        En <tld/>a loko:
+        <ekz>
+          la re&gcirc;oj de Amoridoj, kiuj lo&gcirc;as
+          <tld/>e de Jordan<fnt>Z</fnt>;
+        </ekz>
+        <ekz>
+          tonoj sonis <tld/>e de la densa kurteno<fnt>Z</fnt>.
+        </ekz>
+      </dif>
+    </snc>
+  <trd lng="cs">napříč</trd>
+  <trdgrp lng="hu">
+      <trd>t&uacute;loldalt</trd>,
+      <trd>oda&aacute;t</trd>,
+      <trd>m&ouml;g&ouml;tte</trd>
+    </trdgrp>
+  <trdgrp lng="nl">
+      <trd>over</trd>,
+      <trd>aan de <ind>overkant</ind> van</trd>
+    </trdgrp>
+  <trd lng="ru">&c_p;&c_o; &c_t;&c_u; &c_s;&c_t;&c_o;&c_r;&c_o;&c_n;&c_u;</trd>
+  <trd lng="sk">naprieč</trd>
+</drv>
+  <drv mrk="trans.0o">
+    <kap><tld/>o</kap>
+    <snc>
+      <dif>
+        <tld lit="T"/>a loko:
+        <ekz>
+          li re&gcirc;is super la tuta <tld/>o de la Rivero<fnt>Z</fnt>
+        </ekz>
+      </dif>
+    </snc>
+  <trdgrp lng="cs">
+    <trd>místo na druhé straně</trd>,
+    <trd>věc jdoucí přes</trd>,
+    <trd>věc na druhé straně</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+      <trd>t&uacute;loldal</trd>,
+      <trd>oda&aacute;t <klr tip="ind">(f&odblac;n&eacute;v)</klr></trd>
+    </trdgrp>
+  <trd lng="ru">&c_t;&c_a; &c_s;&c_t;&c_o;&c_r;&c_o;&c_n;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>miesto na druhej strane</trd>,
+    <trd>vec idúca cez</trd>
+  </trdgrp>
+</drv>
+  <drv mrk="trans.0igi">
+    <kap><tld/>igi</kap>
+    <snc>
+      <dif>
+        Porti <tld/>en, meti <tld/>en, <tld/>doni.
+      </dif>
+      <trdgrp lng="fr">
+        <trd>passer par-dessus</trd>,
+        <trd>transmettre</trd>
+      </trdgrp>
+      <trdgrp lng="hu">
+        <trd>&aacute;tvisz</trd>,
+        <trd>&aacute;ttesz</trd>,
+        <trd>&aacute;tjuttat</trd>,
+        <trd>k&ouml;z&ouml;l <klr tip="amb">(pl. mozg&aacute;st)</klr></trd>,
+        <trd>tov&aacute;bb&iacute;t</trd>
+      </trdgrp>
+      <trd lng="nl">overzetten</trd>
+      <trdgrp lng="ru">
+        <trd>&c_p;&c_je;&c_r;&c_je;&c_n;&c_je;&c_s;&c_t;&c_i;</trd>,
+        <trd>&c_p;&c_je;&c_r;&c_je;&c_v;&c_je;&c_z;&c_t;&c_i;</trd>,
+        <trd>&c_p;&c_je;&c_r;&c_je;&c_v;&c_je;&c_s;&c_t;&c_i;</trd>,
+        <trd>&c_p;&c_je;&c_r;&c_je;&c_d;&c_a;&c_t;&c_mol;</trd>,
+        <trd>&c_p;&c_je;&c_r;&c_je;&c_s;&c_l;&c_a;&c_t;&c_mol;</trd>
+      </trdgrp>
+    </snc>
+    <snc>
+      <dif>
+        Rel&scirc;an&gcirc;i.
+      </dif>
+      <trd lng="hu">v&aacute;lt <klr tip="amb">(s&iacute;nt)</klr></trd>
+      <trd lng="nl">op een ander <ind>spoor</ind> gaan rijden</trd>
+      <trd lng="ru">&c_p;&c_je;&c_r;&c_je;&c_v;&c_je;&c_s;&c_t;&c_i; <klr tip="amb">(&c_s;&c_t;&c_r;&c_je;&c_l;&c_k;&c_u;
+      &c_r;&c_je;&c_l;&c_mol;&c_s;&c_o;&c_v;)</klr></trd>
+    </snc>
+  <trdgrp lng="cs">
+    <trd>předat</trd>,
+    <trd>přenést</trd>,
+    <trd>přepravit</trd>,
+    <trd>přetvořit</trd>,
+    <trd>převádět</trd>,
+    <trd>převést</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>prehodiť výhybku</trd>,
+    <trd>preložiť</trd>,
+    <trd>premiestniť</trd>
+  </trdgrp>
+</drv>
+  <drv mrk="trans.0igilo">
+    <kap><tld/>igilo</kap>
+    <snc mrk="trans.0igilo.FER">
+      <uzo tip="fak">FER</uzo>
+      <dif>
+        Rel&scirc;an&gcirc;ilo.
+      </dif>
+      <trd lng="fr">aiguillage</trd>
+      <trd lng="hu">v&aacute;lt&oacute; <klr tip="amb">(vas&uacute;ti)</klr></trd>
+      <trd lng="nl">wissel</trd>
+      <trd lng="ru">&c_s;&c_t;&c_r;&c_je;&c_l;&c_k;&c_a; <klr
+      tip="amb">(&c_r;&c_je;&c_l;&c_mol;&c_s;&c_o;&c_v;)</klr></trd>
+    </snc>
+  <trd lng="cs">přenašeč</trd>
+  <trdgrp lng="sk">
+    <trd>prenášač</trd>,
+    <trd>výhybka</trd>
+  </trdgrp>
+</drv>
+  <drv mrk="trans.0igxi">
+    <kap><tld/>i&gcirc;i</kap>
+    <snc>
+      <dif>
+        Iri <tld/>en:
+        <ekz>
+          la du viroj malsupreniris de la monto, kaj <tld/>i&gcirc;is la
+          Jordan,
+          kaj venis al Josuo<fnt>Z</fnt>;
+        </ekz>
+        <ekz>
+          balda&ubreve; ni <tld/>i&gcirc;os en alian lo&gcirc;ejon.
+        </ekz>
+      </dif>
+    </snc>
+    <trdgrp lng="hu">
+      <trd>&aacute;tjut</trd>,
+      <trd>&aacute;ttev&odblac;dik</trd>,
+      <trd>tov&aacute;bb&iacute;t&oacute;dik</trd>
+    </trdgrp>
+    <trd lng="nl">oversteken</trd>
+    <trdgrp lng="ru">
+      <trd>&c_p;&c_je;&c_r;&c_je;&c_j;&c_t;&c_i;</trd>,
+      <trd>&c_p;&c_je;&c_r;&c_je;&c_je;&c_h;&c_a;&c_t;&c_mol;</trd>,
+      <trd>&c_p;&c_je;&c_r;&c_je;&c_n;&c_je;&c_s;&c_t;&c_i;&c_s;&c_mol;</trd>
+    </trdgrp>
+  </drv>
+  <drv mrk="trans.0ulo">
+    <kap><tld/>ulo</kap>
+    <snc>
+      <dif>
+        Tiu, kiu lo&gcirc;as <tld/>e.
+      </dif>
+    </snc>
+    <trdgrp lng="hu">
+      <trd>t&uacute;loldalt lak&oacute;</trd>,
+      <trd>t&uacute;lparti</trd>
+    </trdgrp>
+    <trd lng="nl">overbuur</trd>
+  </drv>
+  <drv mrk="trans.nervo0igilo">
+    <kap>nervo<tld/>igilo</kap>
+    <snc mrk="trans.nervo0igilo.FIZL">
+      <uzo tip="fak">FIZL</uzo>
+      <dif>
+        &Ccirc;iu el la substancoj, kiuj portas <ref tip="vid"
+        cel="impuls.nerv0o.FIZL">nervimpulson</ref> inter
+        ne&ubreve;ronoj a&ubreve; de ne&ubreve;ronoj al organoj.
+      </dif>
+      <ref tip="sin" cel="neuxrotransmisi.0ilo">ne&ubreve;rotransmisiilo</ref>
+      <rim>
+        &Ccirc;i tiu formo, kvankam apena&ubreve; uzata, &scirc;ajnas tamen preferinda
+        al &leftquot;ne&ubreve;rotransmisiilo&rightquot; pro multaj kialoj:
+        (1) &gcirc;ia
+        simileco kun la solvoj troveblaj en tiuj aliaj lingvoj,
+        kiuj ne povas kontenti&gcirc;i
+        per simpla transpreno de la &leftquot;internacia&rightquot; vorto (ekz-e:
+        &leftquot;nerva transportanto&rightquot; en la araba);
+        (2) pro la dubinda valoro de la scienca prefikso
+        &leftquot;ne&ubreve;ro-&rightquot;;
+        (3) pro la neta&ubreve;gaj signifoj de radiko &leftquot;transmisi-&rightquot;
+        en Esperanto, rilatantaj &ccirc;efe kun me&hcirc;aniko kaj medicino.
+      </rim>
+    </snc>
+    <trd lng="fr">neurotransmetteur</trd>
+    <trd lng="it">neurotrasmettitore</trd>
+  </drv>
+</subart>
+
+<subart>
+  <drv mrk="trans.0.pref">
+    <kap><tld/>-</kap>
+    <gra><vspec>prefikso</vspec></gra>
+    <snc mrk="trans.0.pref_MOV">
+      <dif>
+        Irante <tld/>en:
+        <ekz>
+          <ind><tld/>iri</ind>;
+          <trd lng="hu">&aacute;tmegy <klr tip="ind">(vhova)</klr></trd>
+          <trd lng="ru">&c_p;&c_je;&c_r;&c_je;&c_j;&c_t;&c_i;</trd>
+        </ekz>
+        <ekz>
+          <ind><tld/>&jcirc;eti</ind>;
+          <trd lng="hu">&aacute;tdob</trd>
+          <trd lng="ru">&c_p;&c_je;&c_r;&c_je;&c_b;&c_r;&c_o;&c_s;&c_i;&c_t;&c_mol;</trd>
+        </ekz>
+        <ekz>
+          <ind><tld/>kapi&gcirc;i</ind>;
+          <trd lng="hu">bukfencezik</trd>
+        </ekz>
+        <ekz>
+          <ind><tld/>pasi</ind>;
+          <trdgrp lng="hu">
+            <trd>&aacute;tkel</trd>,
+            <trd>&aacute;tmegy</trd>,
+            <trd>t&uacute;lmegy</trd>,
+            <trd>meghalad</trd>
+          </trdgrp>
+          <trd lng="ru">&c_p;&c_je;&c_r;&c_je;&c_j;&c_t;&c_i;</trd>
+        </ekz>
+        <ekz>
+          <ind><tld/>salti</ind>;
+          <trd lng="hu">&aacute;tugrik</trd>
+          <trd lng="ru">&c_p;&c_je;&c_r;&c_je;&c_p;&c_r;&c_y;&c_g;&c_n;&c_u;&c_t;&c_mol;</trd>
+        </ekz>
+        <ekz>
+          <ind><tld/>porti</ind>
+          la se&gcirc;on de tie &ccirc;i sur alian lokon<fnt>Z</fnt>;
+          <trdgrp lng="hu">
+            <trd>&aacute;tvisz</trd>,
+            <trd>sz&aacute;ll&iacute;t</trd>
+          </trdgrp>
+          <trd lng="ru">&c_p;&c_je;&c_r;&c_je;&c_n;&c_je;&c_s;&c_t;&c_i;</trd>
+        </ekz>
+        <ekz>
+          li donis sian le&gcirc;on al la maro, por ke la akvoj ne <tld/>pa&scirc;u
+          siajn bordojn<fnt>Z</fnt>;
+        </ekz>
+        <ekz>
+          <uzo tip="stl">FIG</uzo>
+          <ind><tld/>atendi</ind>
+          <klr>(atendi &gcirc;is la fino de)</klr> la malbonan
+          veteron<fnt>Z</fnt>;
+          <trd lng="hu">megv&aacute;r <klr tip="ind">(vmi v&eacute;g&eacute;t)</klr></trd>
+          <trd lng="ru">&c_p;&c_je;&c_r;&c_je;&c_zh;&c_d;&c_a;&c_t;&c_mol;</trd>
+        </ekz>
+        <ekz>
+          <uzo tip="stl">FIG</uzo>
+          <ind><tld/>vivi</ind> grandan doloron;
+          <trd lng="hu">t&uacute;l&eacute;l</trd>
+          <trd lng="ru">&c_p;&c_je;&c_r;&c_je;&c_zh;&c_i;&c_t;&c_mol;</trd>
+        </ekz>
+        <ekz>
+          <tld/>limaj amikecoj.
+        </ekz>
+      </dif>
+    </snc>
+    <snc mrk="trans.0.pref_sxangx">
+      <dif>
+        &Scirc;an&gcirc;ante lokon a&ubreve; staton:
+        <ekz>
+          <ind><tld/>planti</ind>,
+          <trdgrp lng="hu">
+            <trd>&aacute;t&uuml;ltet</trd>,
+            <trd>&aacute;tpl&aacute;nt&aacute;l</trd>
+          </trdgrp>
+          <trdgrp lng="ru">
+            <trd>&c_p;&c_je;&c_r;&c_je;&c_s;&c_a;&c_d;&c_i;&c_t;&c_mol;</trd>,
+            <trd>&c_t;&c_r;&c_a;&c_n;&c_s;&c_p;&c_l;&c_a;&c_n;&c_t;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+          </trdgrp>
+        </ekz>
+        <ekz>
+          <ind><tld/>ver&scirc;i</ind>,
+          <trdgrp lng="hu">
+            <trd>&aacute;tt&ouml;lt</trd>,
+            <trd>&aacute;t&ouml;nt</trd>
+          </trdgrp>
+          <trd lng="ru">&c_p;&c_je;&c_r;&c_je;&c_l;&c_i;&c_t;&c_mol; <klr tip="amb">(&c_o;&c_t;&c_k;&c_u;&c_d;&c_a;-&c_t;&c_o;
+          &c_k;&c_u;&c_d;&c_a;-&c_t;&c_o;)</klr></trd>
+        </ekz>
+        <ekz>
+          <ind><tld/>loki</ind>,
+          <trdgrp lng="hu">
+            <trd>&aacute;thelyez</trd>,
+            <trd>&aacute;ttesz</trd>
+          </trdgrp>
+          <trd lng="ru">&c_p;&c_je;&c_r;&c_je;&c_m;&c_je;&c_s;&c_t;&c_i;&c_t;&c_mol;</trd>
+        </ekz>
+        <ekz>
+          <ind><tld/>skribi</ind> <klr>(kopii)</klr>;
+          <trdgrp lng="hu">
+            <trd>&aacute;t&iacute;r</trd>,
+            <trd>&aacute;tm&aacute;sol</trd>,
+            <trd>&aacute;tvezet</trd>
+          </trdgrp>
+          <trd lng="ru">&c_p;&c_je;&c_r;&c_je;&c_p;&c_i;&c_s;&c_a;&c_t;&c_mol; <klr
+          tip="amb">(&c_o;&c_t;&c_k;&c_u;&c_d;&c_a;-&c_t;&c_o;
+          &c_k;&c_u;&c_d;&c_a;-&c_t;&c_o;)</klr></trd>
+        </ekz>
+        <ekz>
+          oni <ind><tld/>diri</ind>s al li la vortojn de
+          la lo&gcirc;antoj<fnt>Z</fnt>;
+          <trd lng="hu">k&ouml;z&ouml;l</trd>
+          <trd lng="ru">&c_p;&c_je;&c_r;&c_je;&c_s;&c_k;&c_a;&c_z;&c_a;&c_t;&c_mol;</trd>
+        </ekz>
+        <ekz>
+          mi <ind><tld/>doni</ind>s ilin en viajn manojn<fnt>Z</fnt>;
+          <trdgrp lng="hu">
+            <trd>&aacute;tad</trd>,
+            <trd>&aacute;tny&uacute;jt</trd>
+          </trdgrp>
+          <trd lng="ru">&c_p;&c_je;&c_r;&c_je;&c_d;&c_a;&c_t;&c_mol;</trd>
+        </ekz>
+        <ekz>
+          <ind><tld/>formi</ind> <klr>(doni alian formon al)</klr>
+          dezerton en kulturejon;
+          <trdgrp lng="hu">
+            <trd>&aacute;talak&iacute;t</trd>,
+            <trd>transzform&aacute;l</trd>
+            <trd>feldolgoz</trd>
+          </trdgrp>
+          <trdgrp lng="ru">
+            <trd>&c_p;&c_r;&c_je;&c_o;&c_b;&c_r;&c_a;&c_z;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>,
+            <trd>&c_p;&c_r;&c_je;&c_v;&c_r;&c_a;&c_t;&c_i;&c_t;&c_mol;</trd>,
+            <trd>&c_t;&c_r;&c_a;&c_n;&c_s;&c_f;&c_o;&c_r;&c_m;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+          </trdgrp>
+        </ekz>
+        <ekz>
+          la akcidento <ind><tld/>formi&gcirc;i</ind>s en katastrofo
+          (<refgrp tip="sin">
+            <ref cel="sxangx.0i">&scirc;an&gcirc;i</ref>,
+            <ref cel="ali.0igi">aliigi</ref>,
+            <ref cel="form.ali0i">aliformigi</ref>,
+            <ref cel="metamo1.0i">metamorfozi</ref>
+          </refgrp>);
+          <trd lng="hu">&aacute;talakul</trd>
+          <trdgrp lng="ru">
+            <trd>&c_p;&c_r;&c_je;&c_o;&c_b;&c_r;&c_a;&c_z;&c_o;&c_v;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>,
+            <trd>&c_p;&c_r;&c_je;&c_v;&c_r;&c_a;&c_t;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>,
+            <trd>&c_t;&c_r;&c_a;&c_n;&c_s;&c_f;&c_o;&c_r;&c_m;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>
+          </trdgrp>
+        </ekz>
+        <ekz>
+          <ind><tld/>kurinto</ind> (<ref tip="sin"
+          cel="perfid">perfidinto</ref>);
+          <trdgrp lng="hu">
+            <trd>sz&ouml;kev&eacute;ny</trd>,
+            <trd>&aacute;rul&oacute;</trd>
+          </trdgrp>
+          <trd lng="ru">&c_p;&c_je;&c_r;&c_je;&c_b;&c_je;&c_zh;&c_ch;&c_i;&c_k;</trd>
+        </ekz>
+        <ekz>
+          mi <tld/>prenos la devon respondi.
+        </ekz>
+      </dif>
+      <trdgrp lng="hu">
+        <trd>&aacute;t-</trd>,
+        <trd>transz-</trd>
+      </trdgrp>
+    </snc>
+    <snc mrk="trans.0.pref_SPAC">
+      <dif>
+        Trovi&gcirc;ante <tld/>e de io:
+        <ekz>
+          &ccirc;io <ind><tld/>mara</ind> estas &ccirc;arma kaj kara<fnt>Z</fnt>;
+          <trd lng="hu">tengerent&uacute;li</trd>
+          <trd lng="ru">&c_z;&c_a;&c_m;&c_o;&c_r;&c_s;&c_k;&c_i;&c_j;</trd>
+        </ekz>
+        <ekz>
+          la <ind><tld/>riverano</ind>j<fnt>Z</fnt>.
+          <trd lng="hu">t&uacute;lparti</trd>
+        </ekz>
+      </dif>
+      <trd lng="hu">t&uacute;l-</trd>
+    </snc>
+  </drv>
+  <trd lng="fr">trans-</trd>
+</subart>
+</art>
+<!--
+$Log: trans.xml,v $
+Revision 1.23  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.22  2015/06/29 16:40:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.21  2012/10/22 01:10:20  revo
+Neil Roberts: aldonu la etikedon <var>
+
+Revision 1.20  2012/04/16 15:10:08  revo
+Jeromo Vasxe: + kap por pref. + mrk por gxiaj snc
+
+Revision 1.19  2010/05/02 16:31:18  revo
+Jeromo Vasxe: + kk mrk + kk trd fr
+
+Revision 1.18  2008/11/07 17:30:40  revo
+Marc Bavant: +drv nervo~igilo
+
+Revision 1.17 2006/02/16 17:33:32 revo
+Tulio Flores: +trd pt
+
+Revision 1.16 2005/06/09 17:41:46 revo
+Yury Finkel: +trd ru
+
+Revision 1.15 2005/03/09 18:18:28 revo
+Yury Finkel: +trd ru
+
+Revision 1.14 2005/01/24 19:02:51 revo
+-->
+</vortaro>

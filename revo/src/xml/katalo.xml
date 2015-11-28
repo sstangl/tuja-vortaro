@@ -1,0 +1,119 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: katalo.xml,v 1.17 2015/07/04 08:37:37 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>katalog</rad>/o
+</kap>
+<drv mrk="katalo.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="katalo.0o.KOMUNE">
+    <dif>
+      <ref tip="super" cel="list.0o.KOMUNE">Listo</ref> de specoj de
+      objektoj, venda&jcirc;oj, konserva&jcirc;oj en iu loko:
+      <ekz>
+        <tld/>o de pentra&jcirc;oj de muzeo;
+      </ekz>
+      <ekz>
+        vi povos anka&ubreve; vidi en mia <tld/>o, ke <klr>...</klr> 
+        mi anka&ubreve; makleras pri &ccirc;iuj komerca&jcirc;oj de la urbo 
+        <fnt><bib>FK</bib>, <lok>5, el la vivo kaj sciencoj,
+        korespondado
+        komerca, (de L. de Beaufront)</lok></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="biblio.0o">bibliografio</ref>,
+      <ref cel="invent1.0o.EKON">inventaro</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_k;&c_a;&c_t;&c_a;&c_l;&c_jo;&c_g;</trd>
+  <trd lng="bg">&c_k;&c_a;&c_t;&c_a;&c_l;&c_o;&c_g;</trd>
+  <trd lng="ca">cat&agrave;leg</trd>
+  <trd lng="cs">katalog</trd>
+  <trdgrp lng="de">
+    <trd>Katalog</trd>,
+    <trd>Schlagwortregister</trd>
+  </trdgrp>
+  <trd lng="en">catalog</trd>
+  <trd lng="es">cat&aacute;logo</trd>
+  <trdgrp lng="fr">
+    <trd>catalogue</trd>,
+    <trd>inventaire</trd>,
+    <trd>r&eacute;pertoire</trd>
+  </trdgrp>
+  <trd lng="hu">katal&oacute;gus</trd>
+  <trd lng="it">catalogo</trd>
+  <trd lng="nl">catalogus</trd>
+  <trd lng="ru">&c_k;&c_a;&c_t;&c_a;&c_l;&c_o;&c_g;</trd>
+  <trd lng="sk">katalóg</trd>
+</drv>
+
+<drv mrk="katalo.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      Registri en <tld/>o:
+      <ekz>
+        <tld/>i bibliotekon.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_k;&c_a;&c_t;&c_a;&c_l;&c_jo;&c_g;&c_ib;&c_z;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="bg">&c_k;&c_a;&c_t;&c_a;&c_l;&c_o;&c_g;&c_i;&c_z;&c_i;&c_r;&c_a;&c_m;</trd>
+  <trd lng="cs">katalogizovat</trd>
+  <trdgrp lng="de">
+    <trd>katalogisieren</trd>,
+    <trd>verschlagworten</trd>
+  </trdgrp>
+  <trd lng="en">catalog</trd>
+  <trd lng="es">catalogar</trd>
+  <trdgrp lng="fr">
+    <trd>cataloguer</trd>,
+    <trd>inventorier</trd>,
+    <trd>r&eacute;pertorier</trd>
+  </trdgrp>
+  <trd lng="hu">katalogiz&aacute;l</trd>
+  <trd lng="it">catalogare</trd>
+  <trd lng="nl">catalogiseren</trd>
+  <trd lng="ru">
+&c_k;&c_a;&c_t;&c_a;&c_l;&c_o;&c_g;&c_i;&c_z;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;
+</trd>
+  <trd lng="sk">katalogizovať</trd>
+</drv>
+</art>
+<!--
+$Log: katalo.xml,v $
+Revision 1.17  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.15  2013/09/13 15:10:14  revo
+Joop Eggen: +trd bg
+
+Revision 1.14  2009/04/06 18:00:37  revo
+Antonio Codazzi: +trd it
+
+Revision 1.13  2005/12/06 17:33:38  revo
+Raul Salinas Monteagudo: +trd ca,es
+
+Revision 1.12  2005/10/31 17:31:20  revo
+Jeromo Vasxe: + tez, + 1 ekz
+
+Revision 1.11 2004/12/05 17:33:59 revo
+Marc Bavant: +trd fr, kor ref tip sin
+
+Revision 1.10 2004/03/12 17:31:48 revo
+Jozefo Horvath: +trd hu
+
+Revision 1.9 2002/10/27 17:11:38 revo
+Dmitri Gabinski: +trd be
+
+Revision 1.8 2001/11/07 19:15:34 revo
+-->
+</vortaro>

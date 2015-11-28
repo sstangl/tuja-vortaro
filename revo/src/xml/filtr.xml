@@ -1,0 +1,163 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: filtr.xml,v 1.19 2015/07/04 08:37:34 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>filtr</rad>/i
+</kap>
+<drv mrk="filtr.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      Pasigi tra penetrebla tavolo flua&jcirc;on por &gcirc;in purigi,
+      kaj eligi la restantajn solidajn pulvorecajn partojn, fe&ccirc;ojn ktp.
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="kribr.0i">kribri</ref>.
+    </refgrp>
+    <trd lng="de">filtern</trd>
+    <trd lng="ru">&c_p;&c_r;&c_o;&c_c;&c_je;&c_zh;&c_i;&c_v;&c_a;&c_t;&c_mol;</trd>
+  </snc>
+  <snc>
+    <uzo tip="fak">FOT</uzo>
+    <dif>
+      Traigi la lumon tra ekrano por haltigi parton de la kolorradioj.
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>cedit</trd>,
+    <trd>filtrovat</trd>,
+    <trd>prosáknout</trd>,
+    <trd>protlačit tekutinu</trd>
+  </trdgrp>
+  <trd lng="es">filtrar</trd>
+  <trd lng="fr">filtrer<klr tip="ind"> (tr.)</klr></trd>
+  <trd lng="nl">filteren</trd>
+  <trd lng="pt">filtrar</trd>
+  <trdgrp lng="ru">
+    <trd>&c_f;&c_i;&c_l;&c_mol;&c_t;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_p;&c_r;&c_o;&c_f;&c_i;&c_l;&c_mol;&c_t;&c_r;&c_o;&c_v;&c_y;&c_v;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>cediť</trd>,
+    <trd>filtrovať</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="filtr.0ilo">
+  <kap><tld/>ilo</kap>
+  <snc mrk="filtr.0ilo.KOMUNE">
+    <dif>
+      Aparato por <tld/>i:
+      <ekz>
+        papera <tld/>ilo;
+      </ekz>
+      <ekz>
+        Pasteur'a <tld/>ilo;
+      </ekz>
+      <ekz>
+        <tld/>ilo por kafo.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="filtr.0ilo.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>EKV</bib><lok>&para;131,
+    &leftquot;filtro&rightquot;</lok></fnt>
+    <dif>
+      <klr>(super aro <frm><g>E</g></frm>)</klr>
+      Tia nemalplena <ref tip="super" cel="ar.0o.MAT">aro</ref> de
+      subaroj de <frm><g>E</g></frm>, ke:
+      (1) la malplena aro ne apartenas al &gcirc;i;
+      (2) &ccirc;iu superaro de iu ajn el &gcirc;iaj elementoj apartenas
+      al &gcirc;i;
+      (3) &ccirc;iu <ref cel="komun.0ajxo.aro">komuna&jcirc;o</ref> de finia
+      nombro da &gcirc;iaj elementoj apartenas al &gcirc;i:
+      <ekz>
+        la aro de &ccirc;iuj
+        <ref cel="cxirka.0ajxo.topologio">&ccirc;irka&ubreve;a&jcirc;oj</ref>
+        de donita punkto de topologia spaco estas <tld/>ilo.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="fajn.pli0a.aro_de_subaroj">pli fajna</ref>,
+      <ref cel="konver.0a.filtrilo">konver&gcirc;a</ref>.
+    </refgrp>
+    <trd lng="de">Filter</trd>
+    <trd lng="en">filter</trd>
+  </snc>
+  <trd lng="cs">filtr <klr>(i program)</klr></trd>
+  <trd lng="de">Filter</trd>
+  <trd lng="es">filtro</trd>
+  <trd lng="fr">filtre</trd>
+  <trd lng="nl">filteren</trd>
+  <trd lng="ru">&c_f;&c_i;&c_l;&c_mol;&c_t;&c_r;</trd>
+  <trdgrp lng="sk">
+    <trd>cedidlo</trd>,
+    <trd>filter</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="filtr.0igxi">
+  <kap><tld/>i&gcirc;i</kap>
+  <snc>
+    <dif>
+      Klari&gcirc;i a&ubreve; puri&gcirc;i per <tld/>ado.
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="flu.tra0eti">traflueti</ref>.
+    </refgrp>
+    <trd lng="ru">&c_p;&c_r;&c_o;&c_f;&c_i;&c_l;&c_mol;&c_t;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>
+  </snc>
+  <snc>
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Diseri&gcirc;e trairi kvaza&ubreve; tra <tld/>ilo:
+      <ekz>
+        lumo <tld/>i&gcirc;as tra kurtenoj de fenestro;
+      </ekz>
+      <ekz>
+        flustra interparolado <tld/>i&gcirc;is tra la fermita pordo.
+      </ekz>
+    </dif>
+    <trd lng="ru">&c_p;&c_r;&c_o;&c_s;&c_o;&c_ch;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>
+  </snc>
+  <trd lng="fr">filtrer<klr tip="ind"> (intr.)</klr></trd>
+</drv>
+</art>
+<!--
+$Log: filtr.xml,v $
+Revision 1.19  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2007/06/01 16:30:54  revo
+Tulio Flores: +tr pt
+
+Revision 1.16  2004/11/23 17:31:12  revo
+Marc Bavant: ~ilo MAT: kor dif
+
+Revision 1.15  2003/01/02 17:45:45  revo
+Marc Bavant: mod fnt
+
+Revision 1.14  2002/11/24 17:33:55  revo
+Marc Bavant: +frm
+
+Revision 1.13  2002/11/22 17:32:09  revo
+Marc Bavant: ~ilo: mod ekz
+Revision 1.12  2002/10/11 16:33:24  revo
+Paul Peeraerts: ald trd nl
+Revision 1.11  2002/08/04 17:33:04  revo
+Marc Bavant: ~ilo: +snc MAT
+Revision 1.10 2002/06/26 19:29:12 revo
+Alejandro Mejia Greene: ald 2 his trd
+Revision 1.9 2001/08/23 18:49:46 revo
+Marc Bavant: mod trd fr
+-->
+</vortaro>
+

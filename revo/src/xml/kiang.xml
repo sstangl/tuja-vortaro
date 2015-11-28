@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: kiang.xml,v 1.4 2013/10/19 15:10:25 revo Exp $">
+<kap>
+  <rad>kiang</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+
+<drv mrk="kiang.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="kiang.0o.ZOO">
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      Specio de <ref tip="super" cel="cxeval.0o.genro">&ccirc;evalo</ref>
+      simila
+      al la azeno (<trd lng="la">Equus kiang</trd>), sova&gcirc;e vivanta en
+      Tibeto kaj Ladako:
+      <ekz>
+        estas &ccirc;evaloj, &scirc;afoj <klr>...</klr> cervoj, hundoj, <tld/>oj,
+        vulpoj k.a
+        <fnt><bib>EncCxi</bib>, <lok>&ccirc;apitro &leftquot;antikvaj surrokaj bildoj&rightquot;,
+        p. 133a</lok></fnt>.
+      </ekz>
+    </dif>
+    <ref tip="lst" cel="huf.nepar0ulo"
+    lst="voko:neparhufuloj">neparhufulo</ref>
+  </snc>
+  <trdgrp lng="de">
+    <trd>Kiang</trd>,
+    <trd>Tibet-Wildesel</trd>
+  </trdgrp>
+  <trd lng="fr">kiang</trd>
+  <trdgrp lng="ru">
+    <trd>&c_k;&c_i;&c_a;&c_n;&c_g;</trd>,
+    <trd>&c_t;&c_i;&c_b;&c_je;&c_t;&c_s;&c_k;&c_i;&c_j; &c_k;&c_u;&c_l;&c_a;&c_n;</trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log: kiang.xml,v $
+Revision 1.4  2013/10/19 15:10:25  revo
+Wolfram Diestel: ref al neparhufuloj
+
+Revision 1.3  2007/07/16 16:30:19  revo
+Wieland Pusch: +trd de
+
+Revision 1.2  2005/05/04 16:31:48  revo
+Yury Finkel: +trd ru
+
+Revision 1.1  2005/03/06 17:38:57  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

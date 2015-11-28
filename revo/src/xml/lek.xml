@@ -1,0 +1,132 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: lek.xml,v 1.24 2015/07/04 08:37:38 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>lek</rad>/i
+</kap>
+<drv mrk="lek.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      &Scirc;ovi la langon sur io:
+      <ekz>
+        katino <tld/>as la idojn, sian felon;
+      </ekz>
+      <ekz>
+        <tld/>i bombonon;
+      </ekz>
+      <ekz>
+        <tld/>trinki<fnt>Z</fnt>
+        <klr>(langtrinki)</klr>;
+      </ekz>
+      <ekz>
+        oni <tld/>as la manon (f. karesas, flatas) sed celas la
+        panon
+        <fnt><bib>PrV</bib></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="hu">nyal</trd>
+  </snc>
+  <snc>
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Pasante tu&scirc;eti:
+      <ekz>
+        la ondoj <tld/>as la bordojn;
+      </ekz>
+      <ekz>
+        langoj de flamo <tld/>is la najbarajn domojn
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="lav.0i">lavi</ref>.
+    </refgrp>
+    <trd lng="hu">nyaldos</trd>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_l;&c_ib;&c_z;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_a;&c_b;&c_l;&c_ib;&c_z;&c_v;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="bg">&c_l;&c_i;&c_zh;&c_a;</trd>
+  <trd lng="br">lipat</trd>
+  <trd lng="ca">llepar</trd>
+  <trd lng="cs">lízat</trd>
+  <trd lng="de">lecken</trd>
+  <trd lng="el">&gamma;&lambda;&epsilon;&jota_ton;&phi;&omega;</trd>
+  <trd lng="en">lick</trd>
+  <trd lng="es">lamer</trd>
+  <trd lng="fr">l&eacute;cher</trd>
+  <trd lng="nl">likken</trd>
+  <trd lng="pl">liza&cacute;</trd>
+  <trd lng="pt">lamber</trd>
+  <trd lng="ru">&c_l;&c_i;&c_z;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="sk">lízať</trd>
+  <trd lng="sv">slicka</trd>
+</drv>
+
+<drv mrk="lek.cxirkaux0i">
+  <kap>&ccirc;irka&ubreve;<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      <tld lit="L"/>i &ccirc;e la &ccirc;irka&ubreve;o:
+      <ekz>
+        vi eltrinkos <klr>[la kalikon]</klr> &gcirc;isfunde,
+        kaj vi &ccirc;irka&ubreve;<tld/>os &gcirc;iajn rompopecetojn
+        <fnt><bib>MT</bib><lok>&Jeh; 23:34</lok></fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;irka&ubreve;<tld/>ante per la lango febrantajn
+        lipojn, Ivagin samtempe sentis, kiel la &ccirc;emizo,
+        &scirc;vitpleni&gcirc;ante, glui&gcirc;as al la korpo
+        <fnt><bib>Metrop</bib><lok>&ccirc;ap. 10</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="bg">&c_o;&c_b;&c_l;&c_i;&c_z;&c_v;&c_a;&c_m;</trd>
+  <trdgrp lng="pl">
+    <trd>obliza&cacute;</trd>,
+    <trd>wyliza&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_o;&c_b;&c_l;&c_i;&c_z;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_o;&c_b;&c_l;&c_i;&c_z;&c_y;&c_v;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: lek.xml,v $
+Revision 1.24  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.23  2015/06/29 16:33:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.22  2015/06/17 10:10:18  revo
+Joop Eggen: +trd bg
+
+Revision 1.21  2007/11/19 17:30:51  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.20  2006/09/01 18:30:26  revo
+Tulio Flores: +tr pt
+
+Revision 1.19  2005/04/09 18:41:55  revo
+Alan ar Gall: +trd br, fr
+
+Revision 1.18  2005/03/06 17:36:14  revo
+Yury Finkel: +trd ru
+
+Revision 1.17  2004/08/23 16:32:52  revo
+Marc Bavant: +drv cxirkaux~i
+
+Revision 1.16 2004/05/24 16:33:07 revo
+Jozefo Horvath: +trd hu
+
+Revision 1.15 2003/05/03 18:41:19 revo
+-->
+</vortaro>

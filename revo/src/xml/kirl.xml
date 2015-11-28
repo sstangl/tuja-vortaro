@@ -1,0 +1,401 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: kirl.xml,v 1.32 2015/07/04 08:37:37 revo Exp $">
+<kap>
+  <ofc>3</ofc>
+  <rad>kirl</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="kirl.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="kirl.0i.MOV">
+    <dif>
+      Komuniki al likva&jcirc;o rapidan turni&gcirc;an movon, kiu foje
+      naskas &scirc;a&ubreve;mon; komuniki similan movon al gaso a&ubreve;
+      pulvora substanco:
+      <ekz>
+        <uzo tip="fak">KUI</uzo>
+        <tld/>i ovojn<fnt>B</fnt>;
+      </ekz>
+      <ekz>
+        <ind><tld/>ita kremo</ind>;
+        <trd lng="hu">tejsz&iacute;nhab</trd>
+        <trd lng="nl">slagroom</trd>
+        <trd lng="ru">&c_v;&c_z;&c_b;&c_i;&c_t;&c_y;&c_je; &c_s;&c_l;&c_i;&c_v;&c_k;&c_i;</trd>
+        <trd lng="sv">vispgr&auml;dde</trd>
+      </ekz>
+      <ekz>
+        la uragano <tld/>is la ondegojn de la maro;
+      </ekz>
+      <ekz>
+        la folioj pelitaj de l' vento <tld/>e flugis.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="vip.0i">vipi</ref>.
+    </refgrp>
+  </snc>
+  <trdgrp lng="ca">
+    <trd>batre</trd>,
+    <trd>remenar<klr tip="ind"> (batre)</klr></trd>,
+    <trd>deixatar<klr tip="ind"> (ous)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>protřepávat</trd>,
+    <trd>roztřepávat</trd>,
+    <trd>třepat</trd>
+  </trdgrp>
+  <trd lng="de">quirlen</trd>
+  <trd lng="en">stir</trd>
+  <trd lng="es">batir</trd>
+  <trdgrp lng="fr">
+    <trd>agiter<klr tip="ind"> (un liquide, par ex.)</klr></trd>,
+    <trd>battre<klr tip="ind"> (agiter vigoureusement)</klr></trd>,
+    <trd>brasser<klr tip="ind"> (remuer en m&eacute;langeant)</klr></trd>,
+    <trd>remuer<klr tip="ind"> (agiter)</klr></trd>,
+    <trd>touiller</trd>,
+    <trd>tourner<klr tip="ind"> (touiller)</klr></trd>,
+    <trd>faire <ind>tourbillonner</ind></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>kever</trd>,
+    <trd>kavar</trd>
+  </trdgrp>
+  <trdgrp lng="it">
+    <trd>agitare<klr tip="ind"> (un liquido)</klr></trd>,
+    <trd>battere<klr tip="ind"> (agitare vigorosamente)</klr></trd>
+  </trdgrp>
+  <trd lng="nl">roeren</trd>
+  <trdgrp lng="pl">
+    <trd>kr&eogonek;ci&cacute;</trd>,
+    <trd>wirowa&cacute;</trd>,
+    <trd>miesza&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_r;&c_a;&c_z;&c_m;&c_je;&c_sh;&c_i;&c_v;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_v;&c_z;&c_b;&c_a;&c_l;&c_t;&c_y;&c_v;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_v;&c_z;&c_b;&c_i;&c_v;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>pretrepať</trd>,
+    <trd>rozvíriť</trd>,
+    <trd>víriť</trd>
+  </trdgrp>
+  <trd lng="sv">vispa</trd>
+</drv>
+
+<drv mrk="kirl.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="kirl.0o.KOMUNE">
+    <dif>
+      Rapida rondirado de likva&jcirc;o ks:
+      <ekz>
+        akvo<tld/>o;
+      </ekz>
+      <ekz>
+        <ind>vento<tld/>o</ind><fnt>Z</fnt>;
+        <trd lng="nl">wervelwind</trd>
+      </ekz>
+      <ekz>
+        <uzo tip="fak">MET</uzo>
+        <ind><tld/>oventego</ind> (<ref cel="ciklon.0o">ciklono</ref>);
+        <trd lng="fr">cyclone</trd>
+        <trd lng="it">ciclone</trd>
+        <trd lng="hu">forg&oacute;sz&eacute;l</trd>
+        <trd lng="nl">cycloon</trd>
+        <trd lng="pl">cyklon</trd>
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        <tld/>ego da tumultaj emocioj.
+      </ekz>
+    </dif>
+    <adm>
+      PIV1 ne lasis "~ventego" en la ekz, sed lasis &gcirc;in en la
+      difino de "ciklono". Eblas konsideri, ke temas pri veraj
+      sinonimoj kaj krei apartan drv. Restas la demando, kio estis
+      la intenco de la Z-a "vento~o". <aut>MB</aut>
+    </adm>
+    <trd lng="de">Wirbel</trd>
+    <trd lng="es">remolino</trd>
+    <trdgrp lng="fr">
+      <trd>tourbillon</trd>,
+      <trd>maelstr&ouml;m</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>&ouml;rv&eacute;ny</trd>,
+      <trd>forgatag</trd>
+    </trdgrp>
+    <trd lng="nl">dwarreling</trd>
+    <trdgrp lng="pl">
+      <trd>wir</trd>,
+      <trd>ruch <ind>wirowy</ind></trd>,
+      <trd>ruch <ind>obrotowy</ind></trd>
+    </trdgrp>
+    <trd lng="ru">&c_v;&c_i;&c_h;&c_r;&c_mol;</trd>
+    <trd lng="sv">virvel</trd>
+  </snc>
+  <snc mrk="kirl.0o.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>PIV1</bib></fnt>
+    <dif>
+      <klr>(de <ref tip="super" cel="kamp.0o.MAT">kampo</ref>
+      <frm>E</frm>,
+      alprenanta valorojn en reela tridimensia vektora spaco)</klr>
+      Vektora kampo kun valoroj en la sama spaco, kies komponantoj
+      &ccirc;e &ccirc;iu punkto egalas al
+      <frm>(&#8706;<sub>2</sub>E<sub>3</sub>-&#8706;<sub>3</sub>E<sub>2</sub>,
+      &#8706;<sub>3</sub>E<sub>1</sub>-&#8706;<sub>1</sub>E<sub>3</sub>,
+      &#8706;<sub>1</sub>E<sub>2</sub>-&#8706;<sub>2</sub>E<sub>1</sub>)</frm>,
+      kie <frm>E<sub><k>i</k></sub></frm> signas la
+      <frm><k>i</k></frm>-an komponanton de <frm>E</frm>:
+      <ekz>
+        la <tld/>on de <frm>E</frm> oni kutime signas per
+        <frm> &#8711;&#8743;E</frm>,
+        <frm>kirl E</frm> a&ubreve; <frm>rot E</frm>.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>Rotation</trd>,
+      <trd>Rotor</trd>,
+      <trd>Quirl</trd>,
+      <trd>Wirbel</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>curl<klr tip="ind"> (of a vector field)</klr></trd>,
+      <trd>rotor<klr tip="ind"> (of a vector field)</klr></trd>
+    </trdgrp>
+    <trd lng="es">rotacional</trd>
+    <trdgrp lng="fr">
+      <trd>rotationnel</trd>,
+      <trd>tourbillon<klr tip="ind"> (d'un champ vectoriel)</klr></trd>
+    </trdgrp>
+    <trd lng="hu">rot&aacute;ci&oacute;</trd>
+    <trd lng="it">rotore<klr tip="ind"> (di un campo
+    vettoriale)</klr></trd>
+    <trdgrp lng="pl">
+      <trd>wirowo&sacute;&cacute;<klr tip="ind"> (pola wektorowego)</klr></trd>,
+      <trd>rotacja</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_v;&c_i;&c_h;&c_r;&c_mol;<klr tip="ind">
+      (&c_v;&c_je;&c_k;&c_t;&c_o;&c_r;&c_n;&c_o;&c_g;&c_o;
+      &c_p;&c_o;&c_l;&c_ja;)</klr></trd>,
+      <trd>&c_r;&c_o;&c_t;&c_o;&c_r;<klr tip="ind">
+      (&c_v;&c_je;&c_k;&c_t;&c_o;&c_r;&c_n;&c_o;&c_g;&c_o;
+      &c_p;&c_o;&c_l;&c_ja;)</klr></trd>,
+      <trd>&c_r;&c_o;&c_t;&c_a;&c_c;&c_i;&c_ja;<klr tip="ind">
+      (&c_v;&c_je;&c_k;&c_t;&c_o;&c_r;&c_n;&c_o;&c_g;&c_o;
+      &c_p;&c_o;&c_l;&c_ja;)</klr></trd>
+    </trdgrp>
+    <trd lng="sv">rotation</trd>
+  </snc>
+  <trd lng="cs">vír</trd>
+  <trdgrp lng="sk">
+    <trd>rotácia</trd>,
+    <trd>vír</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kirl.0ajxo">
+  <kap><tld/>a&jcirc;o</kap>
+  <snc mrk="kirl.0ajxo.MOV">
+    <dif>
+      <ref tip="dif" cel="kirl.0o.KOMUNE"><tld lit="K"/>o</ref>:
+      <ekz>
+        <tld/>a&jcirc;oj el flamo kaj cindro kovras la stratojn
+        <fnt><bib>PV</bib></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="es">remolino</trd>
+  <trdgrp lng="nl">
+    <trd>dwarreling</trd>,
+    <trd>warreling</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>wir</trd>,
+    <trd>ruch <ind>wirowy</ind></trd>,
+    <trd>ruch <ind>obrotowy</ind></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kirl.0igxi">
+  <kap><tld/>i&gcirc;i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="kirl.0igxi.MOV">
+    <dif>
+      Rapide turni&gcirc;i, ofte kun &scirc;a&ubreve;mo, se temas pri
+      likva&jcirc;o:
+      <ekz>
+        la maro <tld/>i&gcirc;is sub la vento;
+      </ekz>
+      <ekz>
+        polvo, ne&gcirc;eroj <tld/>i&gcirc;as en la aero;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        la pensoj <tld/>i&gcirc;is en lia cerbo.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="de">verwirbeln</trd>
+  <trdgrp lng="fr">
+    <trd>tournoyer</trd>,
+    <trd>tourbillonner</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>kavarog</trd>,
+    <trd>&ouml;rv&eacute;nylik</trd>
+  </trdgrp>
+  <trd lng="it">turbinare</trd>
+  <trdgrp lng="nl">
+    <trd>dwarrelen</trd>,
+    <trd>krioelen</trd>,
+    <trd>wervelen</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>wirowa&cacute;</trd>,
+    <trd>kr&eogonek;ci&cacute; si&eogonek;</trd>,
+    <trd>obraca&cacute; si&eogonek;</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_k;&c_r;&c_u;&c_zh;&c_i;&c_t;&c_mol;&c_s;&c_ja; &c_v;&c_i;&c_h;&c_r;&c_je;&c_m;</trd>,
+    <trd>&c_z;&c_a;&c_k;&c_r;&c_u;&c_zh;&c_i;&c_t;&c_mol;&c_s;&c_ja; &c_v; &c_v;&c_o;&c_d;&c_o;&c_v;&c_o;&c_r;&c_o;&c_t;&c_je;, &c_s;&c_m;&c_je;&c_r;&c_ch;&c_je;</trd>
+  </trdgrp>
+  <trd lng="sv">virvla</trd>
+</drv>
+
+<drv mrk="kirl.0ilo">
+  <kap><tld/>ilo <fnt><bib>PIV2</bib></fnt></kap>
+  <snc mrk="kirl.0ilo.KUI">
+    <uzo tip="fak">KUI</uzo>
+    <dif>
+      Aparato por <tld/>i ovojn, kremon ktp.
+    </dif>
+    <trd lng="es">batidora</trd>
+    <trdgrp lng="fr">
+      <trd>batteur<klr tip="ind"> (cuisine)</klr></trd>,
+      <trd>fouet<klr tip="ind"> (cuisine)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>habver&odblac;</trd>,
+      <trd>kever&odblac;(eszk&ouml;z)</trd>
+    </trdgrp>
+    <trd lng="it">sbattitore<klr tip="ind"> (in cucina)</klr></trd>
+    <trdgrp lng="nl">
+      <trd>garde</trd>,
+      <trd>klopper</trd>
+    </trdgrp>
+    <trd lng="pl">mikser</trd>
+    <trd lng="ru">&c_m;&c_i;&c_k;&c_s;&c_je;&c_r;</trd>
+    <trd lng="sv">visp</trd>
+  </snc>
+  <snc mrk="kirl.0ilo.KOMUNE">
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      Aparato por <tld/>i diversajn materialojn, ekz. sablon kun cemento
+      kaj akvo (por ricevi betonon), grenojn ktp.
+    </dif>
+    <trd lng="pl">mieszalnik</trd>
+  </snc>
+</drv>
+
+<drv mrk="kirl.sen0a">
+  <kap>sen<tld/>a</kap>
+  <snc mrk="kirl.0a.KOMUNE">
+    <dif>
+      Ne havanta <tld/>ojn.
+    </dif>
+    <trd lng="hu">&ouml;rv&eacute;nymentes</trd>
+    <trdgrp lng="pl">
+      <trd>bezwirowy</trd>,
+      <trd>laminarny</trd>
+    </trdgrp>
+    <trd lng="sv">virvelfri</trd>
+  </snc>
+  <snc mrk="kirl.sen0a.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <dif>
+      <klr>(p.p. vektora <ref tip="super"
+      cel="kamp.0o.MAT">kampo</ref>)</klr>
+      Kies <ref cel="kirl.0o.MAT"><tld/>o <sncref/></ref> egalas al
+      nulo.
+    </dif>
+    <adm>
+      Mi ne trovis auxtoritatan fonton, sed la termino estas tute
+      logika. <aut>MB</aut>
+    </adm>
+    <ref tip="vid" cel="potenc1.0hava">potencialhava.</ref>
+    <trd lng="de">wirbelfrei<klr tip="ind"> (-es Vektorfeld)</klr></trd>
+    <trd lng="es">irrotacional</trd>
+    <trd lng="en">irrotational<klr tip="ind"> (field)</klr></trd>
+    <trd lng="fr"><klr tip="ind">(champ) </klr>irrotationnel</trd>
+    <trd lng="hu">rot&aacute;ci&oacute;mentes</trd>
+    <trd lng="it">irrotazionale</trd>
+    <trd lng="pl"><klr tip="amb">(pole) </klr>bezwirowe</trd>
+    <trd
+    lng="ru">&c_b;&c_je;&c_z;&c_v;&c_i;&c_h;&c_r;&c_je;&c_v;&c_o;&c_je;<klr
+    tip="amb"> (&c_p;&c_o;&c_l;&c_je;)</klr></trd>
+    <trd lng="sv">virvelfri</trd>
+  </snc>
+</drv>
+
+<drv mrk="kirl.akvo0o">
+  <kap>akvo<tld/>o<fnt>Z</fnt></kap>
+  <snc mrk="kirl.akvo0o.MAR">
+    <uzo tip="fak">MAR</uzo>
+    <dif>
+      Loko de akvejo, kie akvo rapide
+      <ref tip="super" cel="vortic.0o">vortice</ref>
+      rondiras kun ensu&ccirc;a forto;
+      <ref tip="sin" cel="kirl.0o.KOMUNE">akvoturno</ref>.
+    </dif>
+  </snc>
+  <trd lng="cs">vodní vír</trd>
+  <trd lng="fr">tourbillon<klr tip="ind"> (d'eau)</klr></trd>
+  <trd lng="hu">v&iacute;z&ouml;rv&eacute;ny</trd>
+  <trd lng="it">gorgo</trd>
+  <trd lng="nl">draaikolk</trd>
+  <trd lng="pl">wir wodny</trd>
+  <trd lng="ru">&c_v;&c_o;&c_d;&c_o;&c_v;&c_o;&c_r;&c_o;&c_t;</trd>
+  <trdgrp lng="sk">
+    <trd>krútňava</trd>,
+    <trd>vodný vír</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: kirl.xml,v $
+Revision 1.32  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.31  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.30  2014/06/09 01:10:15  revo
+Jeromo Vasxe: + kk mrk
+
+Revision 1.29  2014/02/11 02:10:16  revo
+Carlos Garcia: (re)korektado es -o ratacional -> rotacional
+
+Revision 1.28  2014/02/10 15:10:14  revo
+Carlos Garcia: +trd es -o -il -ajx sen-a
+
+Revision 1.27  2013/05/08 10:10:11  revo
+Sebastian Cyprych: +trd pl +~ilo.KOMUNE
+
+Revision 1.26  2010/04/30 12:25:40  revo
+Fabio Bettani: +trd it
+
+Revision 1.25  2009/08/30 16:31:28  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.24  2009/08/26 16:31:23  revo
+Jerano Zachrisson: +trd sv
+
+Revision 1.23  2009/02/02 17:30:25  revo
+-->
+</vortaro>

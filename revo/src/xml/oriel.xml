@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+  <art mrk="$Id: oriel.xml,v 1.5 2015/07/04 08:37:40 revo Exp $">
+    <kap>
+      <rad>oriel</rad>/o <fnt><bib>PIV1</bib></fnt>
+   </kap>
+    <drv mrk="oriel.0o">
+      <kap><tld/>o</kap>
+      <uzo tip="fak">ARKI</uzo>
+      <snc mrk="oriel.0o.unuopa">
+        <dif>
+          Iom lar&gcirc;a parto de &ccirc;ambro, salono a&ubreve; alia ejo de domo,
+          elstaranta eksteren el la fasado, provizita je fenestroj,
+          apogita sur <ref cel="korbel.0o">korbelo</ref> (penda,
+          korbela <tld/>o) a&ubreve; sur la grundo (surtera <tld/>o):
+          <ekz>
+            &scirc;i veki&gcirc;is preska&ubreve; je la tagmezo en sia dormo&ccirc;ambro
+            havanta <tld/>on en la turo de la palaceto 
+            <fnt><bib>MkM</bib>, <lok>&ccirc;ap. 29a</lok></fnt>.
+          </ekz>
+       </dif>
+     </snc>
+      <snc mrk="oriel.0o.turo">
+        <dif>
+          En plureta&gcirc;a domo, prisma a&ubreve; cilindrosegmenta elstara&jcirc;o sur
+          la fasado, konsistanta el
+          <tld/>oj<sncref ref="oriel.0o.unuopa"/>:
+          <ekz>
+            la angula dueta&gcirc;a <tld/>o provizita per reliefa ornama&jcirc;o
+            en amba&ubreve; eta&gcirc;oj
+            <fnt>
+              <vrk><url
+                      ref="http://olomouc-moravio.wz.cz/historie.html"
+                      >Historio de Olomouc</url></vrk>
+            </fnt>.
+          </ekz>
+       </dif>
+      </snc>
+  <trd lng="cs">arkýř</trd>
+  <trd lng="de">Erker</trd>
+  <trdgrp lng="en">
+        <trd>oriel</trd>,
+        <trd>bay window</trd>
+      </trdgrp>
+  <trdgrp lng="fr">
+        <trd>oriel</trd>,
+        <trd>fen&ecirc;tre arqu&eacute;e</trd>
+      </trdgrp>
+  <trd lng="nl">erker</trd>
+  <trd lng="no">karnapp</trd>
+  <trdgrp lng="ru">
+        <trd>&c_e;&c_r;&c_k;&c_je;&c_r;</trd>,
+        <trd>&c_f;&c_o;&c_n;&c_a;&c_r;&c_mol;<klr> (&c_a;&c_r;&c_h;&c_i;&c_t;.)</klr></trd>
+      </trdgrp>
+  <trd lng="sk">arkier</trd>
+</drv>
+   </art>
+   
+<!--
+$Log: oriel.xml,v $
+Revision 1.5  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.4  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.3  2014/12/10 17:10:20  revo
+Filip van Laenen: +trd(nl,no)
+
+Revision 1.2  2014/12/10 05:10:29  revo
+Sergio Pokrovskij: +ekz
+
+Revision 1.1  2014/12/09 14:10:22  revo
+Sergio Pokrovskij: nova artikolo
+
+-->
+</vortaro>

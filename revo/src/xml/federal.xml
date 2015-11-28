@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: federal.xml,v 1.11 2014/06/03 12:10:14 revo Exp $">
+<kap>
+  <rad>federal</rad>/a <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="federal.0a">
+  <kap><tld/>a</kap>
+  <uzo tip="stl">EVI</uzo>
+  <snc mrk="federal.0a.POL">
+  <uzo tip="fak">POL</uzo>
+    <ref tip="dif" cel="federa.0a">federacia</ref>
+    <ekz>
+      mi publikigis <klr>...</klr> verkon pri la unui&gcirc;oj <tld/>aj
+      inter &scirc;tatoj Usono, Svislando
+      <fnt><bib>Aventuroj</bib>, <lok>&ccirc;apitro 54a, p. 121a</lok>
+      </fnt>...
+    </ekz>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_f;&c_e;&c_d;&c_e;&c_r;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>,
+    <trd>&c_f;&c_e;&c_d;&c_e;&c_r;&c_a;&c_c;&c_y;&c_j;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trd lng="de">Bundes-</trd>
+  <trd lng="fr">f&eacute;d&eacute;ral</trd>
+  <trdgrp lng="hu">
+    <trd>sz&ouml;vets&eacute;gi</trd>,
+    <trd>f&ouml;der&aacute;lis</trd>
+  </trdgrp>
+  <trd lng="it">federale</trd>
+  <trd lng="nl">federaal<klr tip="ind"> (ontr.)</klr></trd>
+  <trd lng="pl">federalny</trd>
+  <trd lng="pt">federal</trd>
+</drv>
+
+<drv mrk="federal.0ismo">
+  <kap><tld/>ismo</kap>
+  <uzo tip="stl">EVI</uzo>
+  <snc>
+  <uzo tip="fak">POL</uzo>
+  <ref tip="dif" cel="federa.0ismo">federaciismo</ref>
+  <ekz>
+    Proudhon <klr>...</klr> defendis la ideon de <tld/>ismo
+    <fnt>
+      <aut>J. &Scirc;ram</aut>,
+      <vrk><url ref="http://www.satesperanto.org/Pri-klasbatalo.html">
+      Pri klasbatalo</url></vrk>,
+      <lok>SAT Kulturo, [vidita en 2008-09]</lok>
+    </fnt>.
+  </ekz>
+  </snc>
+  <trd lng="fr">f&eacute;d&eacute;ralisme</trd>
+  <trd lng="it">federalismo</trd>
+  <trd lng="nl">federalisme<klr tip="ind"> (ontr.)</klr></trd>
+</drv>
+</art>
+<!--
+$Log: federal.xml,v $
+Revision 1.11  2014/06/03 12:10:14  revo
+Damien Brucker: +trd fr
+
+Revision 1.10  2010/02/22 17:30:28  revo
+Antonio Codazzi: +trd it +korek ref
+
+Revision 1.9  2009/08/11 16:31:38  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.8  2008/09/26 16:30:34  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.7  2008/09/20 07:21:43  revo
+Jeromo Vasxe: + ~ismo, - trd fr (pro evi)
+
+Revision 1.6 2008/02/12 17:30:40 revo
+Wieland Pusch: +trd de
+
+Revision 1.5 2007/05/20 16:31:01 revo
+Tulio Flores: +tr pt
+
+Revision 1.4 2003/12/23 17:38:06 revo
+-->
+</vortaro>

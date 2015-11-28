@@ -1,0 +1,332 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: kest.xml,v 1.35 2015/07/04 08:37:37 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>kest</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="kest.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="kest.0o.KOMUNE">
+    <dif>
+      Ujo ligna, metala, plasta a&ubreve; el alia materialo, ofte en formo
+      de orta paralelepipedo:
+      <ekz>
+        ili faru <tld/>on el akacia ligno <klr>...</klr> kaj tegu
+        &gcirc;in per pura oro
+        <fnt><bib>MT</bib>, <lok>&Eli; 25:10</lok></fnt>;
+      </ekz>
+      <ekz>
+        &scirc;i prenis por li <tld/>on el kanoj kaj
+        &ccirc;irka&ubreve;&scirc;miris &gcirc;in per asfalto kaj pe&ccirc;o
+        <fnt><bib>MT</bib>, <lok>&Eli; 2:3</lok></fnt>;
+      </ekz>
+      <ekz>
+        <ind>formeti la aferon en la <tld/>on de forgeso</ind>
+        <fnt><bib>PrV</bib></fnt>;
+        <trdgrp lng="fr">
+          <trd>jeter l'affaire aux <ind>oubliette</ind>s</trd>,
+          <trd>mettre l'affaire &agrave; la <ind>corbeille</ind></trd>
+        </trdgrp>
+      </ekz>
+      <ekz>
+        ofta festo &#8208; malplena kesto <klr>(monkesto)</klr>
+        <fnt><bib>PrV</bib></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_k;&c_r;&c_y;&c_n;&c_ja;</trd>,
+    <trd>&c_s;&c_k;&c_r;&c_y;&c_n;&c_k;&c_a;</trd>
+  </trdgrp>
+  <trd lng="bg">&c_s;&c_a;&c_n;&c_d;&c_malmol;&c_k;</trd>
+  <trdgrp lng="br">
+    <trd>kased</trd>,
+    <trd>arc'hig</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>bedna</trd>,
+    <trd>kastle</trd>,
+    <trd>schránka</trd>,
+    <trd>sk&rcaron;&iacute;&ncaron;ka</trd>,
+    <trd>truhla</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Kiste</trd>,
+    <trd>Kasten</trd>,
+    <trd>Lade</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>case</trd>,
+    <trd>chest</trd>
+  </trdgrp>
+  <trd lng="es">caja, arca</trd>
+  <trdgrp lng="fr">
+    <trd>caisse<klr tip="ind"> (r&eacute;cipient)</klr></trd>,
+    <trd>arche<klr tip="ind"> (coffre)</klr></trd>,
+    <trd>boite</trd>,
+    <trd>carton<klr tip="ind"> (caisse en carton)</klr></trd>,
+    <trd>coffre</trd>,
+    <trd>corbeille<klr tip="ind"> (r&eacute;cipient)</klr></trd>,
+  </trdgrp>
+  <trd lng="hu">l&aacute;da</trd>
+  <trdgrp lng="it">
+    <trd>cassa</trd>,
+    <trd>cassetta</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>kist</trd>,
+    <trd>bak</trd>,
+    <trd>krat</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>skrzynia</trd>,
+    <trd>skrzynka</trd>
+  </trdgrp>
+  <trd lng="ru">&c_ja;&c_shch;&c_i;&c_k;</trd>
+  <trd lng="sk">debna</trd>
+</drv>
+
+<drv mrk="kest.leter0o">
+  <kap>leter<tld/>o</kap>
+  <snc mrk="kest.leter0o.POSX">
+    <uzo tip="fak">POSX</uzo>
+    <dif>
+      Kesto por enmeti ricevatajn leterojn, paka&jcirc;ojn,
+      mesa&gcirc;ojn.
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="kest.posxt0o">po&scirc;t<tld/>o</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_sh;&c_t;&c_o;&c_v;&c_a;&c_ja; &c_s;&c_k;&c_r;&c_y;&c_n;&c_k;&c_a;</trd>
+  <trd lng="bg">&c_p;&c_o;&c_shch;&c_je;&c_n;&c_s;&c_k;&c_a; &c_k;&c_u;&c_t;&c_i;&c_ja;</trd>
+  <trd lng="br">boest-lizhero&ugrave;<klr tip="ind"> (prevez)</klr></trd>
+  <trd lng="ca">b&uacute;stia</trd>
+  <trd lng="cs">schránka na dopisy</trd>
+  <trd lng="de">Briefkasten</trd>
+  <trdgrp lng="en">
+    <trd>mail box</trd>,
+    <trd>letter box</trd>
+  </trdgrp>
+  <trd lng="es">buz&oacute;n<klr tip="amb"> (particular para recepci&oacute;n de
+  cartas)</klr></trd>
+  <trd lng="fr">boite &agrave; lettres<klr tip="ind"> (priv&eacute;e)</klr></trd>
+  <trd lng="hu">lev&eacute;lszekr&eacute;ny</trd>
+  <trd lng="it"><ind>cassetta</ind> delle lettere</trd>
+  <trd lng="nl">brievenbus<klr tip="ind"> (priv&eacute;)</klr></trd>
+  <trd lng="oc">b&oacute;stia de las letras</trd>
+  <trd lng="pl">skrzynka pocztowa</trd>
+  <trd lng="ru">&c_p;&c_o;&c_ch;&c_t;&c_o;&c_v;&c_y;&c_j; &c_ja;&c_shch;&c_i;&c_k;</trd>
+  <trdgrp lng="sk">
+    <trd>poštová schránka</trd>,
+    <trd>schránka na listy</trd>
+  </trdgrp>
+  <trd lng="sv">postl&aring;da</trd>
+</drv>
+
+<drv mrk="kest.mon0o">
+  <kap>mon<tld/>o</kap>
+  <snc mrk="kest.mon0oKOMUNE">
+    <dif>
+      <tld lit="K"/>o por teni monon:
+      <ekz>
+        la avarulo staris, forgesinte la &scirc;losilon de sia mon<tld/>o,
+        kaj la &scirc;losilo, kiel li bone sciis, sidis en tiu <tld/>o
+        <fnt><bib>Fab4</bib>, <lok>knabino kiu pa&scirc;is sur
+        panon</lok></fnt>;
+      </ekz>
+      <ekz>
+        sidante kontra&ubreve; la mon<tld/>o, li rimarkis, kiel la homoj
+        en&jcirc;etas monerojn
+        <fnt><bib>NT</bib>, <lok>&Mar; 12:41</lok></fnt>.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="kas.0o.monkesto">kaso <sncref/></ref>
+  </snc>
+  <trd lng="br">kef<klr tip="ind"> (moneiz)</klr></trd>
+  <trd lng="cs">pokladna</trd>
+  <trdgrp lng="fr">
+    <trd>caisse<klr tip="ind"> (boite pour l'argent)</klr></trd>,
+    <trd>tronc<klr tip="ind"> (pour l'argent)</klr></trd>
+  </trdgrp>
+  <trd lng="it">cassa<klr> (del denaro)</klr></trd>
+  <trd lng="nl">kas<klr tip="ind"> (geld)</klr></trd>
+  <trd lng="pl">skrzynka pieni&eogonek;&zdot;na</trd>
+  <trdgrp lng="ru">
+    <trd>&c_k;&c_a;&c_s;&c_s;&c_a;</trd>,
+    <trd>&c_d;&c_je;&c_n;&c_je;&c_zh;&c_n;&c_y;&c_j; &c_ja;&c_shch;&c_i;&c_k;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>pokladnica</trd>,
+    <trd>trezor</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kest.nigra0o">
+  <kap>nigra <tld/>o</kap>
+  <snc mrk="kest.nigra0o.TEK">
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      Parto de aparato, programo, sistemo, de kiu oni rigardas nur la
+      enigojn kaj eligojn, nenion supozante pri interna funkciado.
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="skatol.nigra0o">nigra skatolo</ref>
+    </refgrp>
+    <trd lng="it"><ind>scatola</ind> nera<klr> (black box)</klr></trd>
+    <trd lng="pl">czarna <ind>skrzynka</ind></trd>
+  </snc>
+  <snc mrk="kest.nigra0o.AVI">
+    <uzo tip="fak">AVI</uzo>
+    <uzo tip="stl">EVI</uzo>
+    <dif>
+      Flugregistrilo, kiu restas en flugaparato, kaj kies enhavon oni
+      povas analizi post paneo a&ubreve; akcidento.
+    </dif>
+    <rim mrk="kest.nigra0o.AVI_RIM">
+      <ctl>Nigra kesto</ctl> a&ubreve; <ctl>nigra skatolo</ctl> en la senco de
+      flugregistrilo aperas en gazetaj tekstoj. &Gcirc;i ne evidentigas la
+      funkcion de la aparato, kiu cetere estas ordinare oran&gcirc;kolora.
+    </rim>
+    <trd lng="de">Flugschreiber</trd>
+    <trd lng="it"><ind>scatola</ind> nera</trd>
+    <trd lng="pl">czarna <ind>skrzynka</ind></trd>
+  </snc>
+  <trd lng="de">Black Box</trd>
+  <trdgrp lng="fr">
+    <trd>boite noire</trd>
+  </trdgrp>
+  <trd lng="nl">zwarte <ind>doos</ind></trd>
+</drv>
+
+<drv mrk="kest.posxt0o">
+  <kap>po&scirc;t<tld/>o</kap>
+  <snc mrk="kest.posxt0o.POSX">
+    <uzo tip="fak">POSX</uzo>
+    <dif>
+      Publika kesto por enmeti sendotajn leterojn a&ubreve; papera&jcirc;ojn.
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="kest.leter0o">leter<tld/>o</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_sh;&c_t;&c_o;&c_v;&c_a;&c_ja; &c_s;&c_k;&c_r;&c_y;&c_n;&c_k;&c_a;</trd>
+  <trd lng="bg">&c_p;&c_o;&c_shch;&c_je;&c_n;&c_s;&c_k;&c_a; &c_k;&c_u;&c_t;&c_i;&c_ja;</trd>
+  <trd lng="br">boest-lizhero&ugrave;<klr tip="ind"> (post)</klr></trd>
+  <trd lng="de">Briefkasten</trd>
+  <trd lng="es">buz&oacute;n<klr tip="amb"> (p&uacute;blico para env&iacute;o de
+  cartas)</klr></trd>
+  <trdgrp lng="fr">
+    <trd>boite &agrave; lettres<klr tip="ind"> (publique)</klr></trd>
+  </trdgrp>
+  <trd lng="hu">postafi&oacute;k</trd>
+  <trd lng="it"><ind>cassetta</ind> postale</trd>
+  <trd lng="nl">postbus<klr tip="ind"> (voor verzending)</klr></trd>
+  <trd lng="pl">skrzynka pocztowa</trd>
+  <trd lng="ru">&c_p;&c_o;&c_ch;&c_t;&c_o;&c_v;&c_y;&c_j; &c_ja;&c_shch;&c_i;&c_k;</trd>
+  <trd lng="sv">brevl&aring;da</trd>
+</drv>
+
+<drv mrk="kest.son0o">
+  <kap>son<tld/>o</kap>
+  <snc mrk="kest.son0o.MUZ">
+    <uzo tip="fak">MUZ</uzo>
+    <dif>
+      Kesto kun bu&scirc;o apud la kordoj de <ref tip="malprt"
+      cel="instru2.kord0o">kordinstrumento</ref> a&ubreve;
+      sub tega&jcirc;o de <ref tip="malprt"
+      cel="instru2.frap0o">frapinstrumento</ref>
+      por la&ubreve;tigi ties sonojn.
+    </dif>
+  </snc>
+  <trd lng="br">kef-dasson</trd>
+  <trdgrp lng="cs">
+    <trd>ozvučnice</trd>,
+    <trd>ozvučná skříň</trd>
+  </trdgrp>
+  <trd lng="de">Klangk&ouml;rper</trd>
+  <trdgrp lng="fr">
+    <trd>caisse de r&eacute;sonance</trd>
+  </trdgrp>
+  <trd lng="hu">hangszekr&eacute;ny</trd>
+  <trd lng="it"><ind>cassa</ind> armonica</trd>
+  <trd lng="nl">klankkast</trd>
+  <trd lng="pl">pud&lstroke;o rezonansowe</trd>
+  <trd lng="ru">&c_r;&c_je;&c_z;&c_o;&c_n;&c_a;&c_t;&c_o;&c_r;<klr> (&c_u; &c_m;&c_u;&c_z;&c_y;&c_k;&c_a;&c_l;&c_mol;&c_n;&c_o;&c_g;&c_o;
+  &c_i;&c_n;&c_s;&c_t;&c_r;&c_u;&c_m;&c_je;&c_n;&c_t;&c_a;)</klr></trd>
+  <trd lng="sk">ozvučnica</trd>
+</drv>
+
+<drv mrk="kest.tir0o">
+  <kap><ofc>*</ofc>tir<tld/>o</kap>
+  <snc mrk="kest.tir0o.MEB">
+    <dif>
+      Fako, ingigita en &scirc;ranko, tablo, komodo
+      a&ubreve; simila <ref tip="malprt" cel="mebl.0o">meblo</ref>,
+      kaj la&ubreve;vole el&scirc;ovebla:
+      <ekz>
+        en mia skribotablo sin trovas kvar tir<tld/>oj
+        <fnt><bib>F</bib>, <lok>&FE; 31</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_sh;&c_u;&c_f;&c_l;&c_ja;&c_d;&c_a;</trd>
+  <trd lng="bg">&c_ch;&c_je;&c_k;&c_m;&c_je;&c_d;&c_zh;&c_je;</trd>
+  <trd lng="br">tiretenn</trd>
+  <trdgrp lng="cs">
+    <trd>zásuvka</trd>,
+    <trd>šuplík <klr>(hovor.)</klr>šuple (hovor.)</trd>
+  </trdgrp>
+  <trd lng="de">Schublade</trd>
+  <trd lng="es">caj&oacute;n</trd>
+  <trdgrp lng="fr">
+    <trd>tiroir</trd>
+  </trdgrp>
+  <trd lng="hu">fi&oacute;k</trd>
+  <trd lng="it">cassetto</trd>
+  <trdgrp lng="nl">
+    <trd>lade</trd>,
+    <trd>la</trd>
+  </trdgrp>
+  <trd lng="pl">szuflada</trd>
+  <trd lng="ru">&c_v;&c_y;&c_d;&c_v;&c_i;&c_zh;&c_n;&c_o;&c_j; &c_ja;&c_shch;&c_i;&c_k;<klr> (&c_s;&c_t;&c_o;&c_l;&c_a;, &c_sh;&c_k;&c_a;&c_f;&c_a;
+  &c_i; &c_t;.&c_p;.)</klr></trd>
+  <trd lng="sk">zásuvka</trd>
+</drv>
+</art>
+<!--
+$Log: kest.xml,v $
+Revision 1.35  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.34  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.33  2013/10/16 08:10:13  revo
+Benito Subejrano: + trd ca oc
+
+Revision 1.32  2012/08/23 12:10:08  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.31  2011/01/17 10:10:09  revo
+Russ Williams: ripari html-fusxeton pri dash
+
+Revision 1.30  2010/09/27 16:30:19  revo
+Wieland Pusch: +trd bg
+
+Revision 1.29  2010/09/21 16:30:22  revo
+Jeromo Vasxe: kor. fusx. fnt
+
+Revision 1.28  2010/09/05 16:30:29  revo
+Carlos Garcia: +trd "es" tir-o
+
+Revision 1.27  2010/05/14 16:30:38  revo
+Agustin Garcia Lopez: +trd es
+
+Revision 1.26  2010/02/11 17:30:24  revo
+-->
+</vortaro>

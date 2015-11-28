@@ -1,0 +1,174 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: lukt.xml,v 1.21 2015/10/29 06:10:16 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>lukt</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="lukt.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="lukt.0i.SPO">
+    <dif>
+      Korpe batali kontra&ubreve; iu:
+      <ekz>
+        <tld/>i kun iu<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        <tld/>i en batalo &gcirc;is la morto.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="barakt.0i">barakti</ref>.
+    </refgrp>
+    <trdgrp lng="hu">
+      <trd>harcol</trd>,
+      <trd>k&uuml;zd</trd>
+    </trdgrp>
+    <trd lng="nl">worstelen</trd>
+    <trdgrp lng="pl">
+      <trd>si&lstroke;owa&cacute; si&eogonek;</trd>,
+      <trd>mocowa&cacute; si&eogonek;</trd>,
+      <trd>zmaga&cacute; si&eogonek;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="lukt.0i.FIG">
+    <dif>
+      Peni, klopodi por venki malhelpon a&ubreve; atingi malfacilan rezulton:
+      <ekz>
+        <tld/>i por siaj ideoj;
+      </ekz>
+      <ekz>
+        <tld/>i por kandidato, kontra&ubreve; la tuberkulozo, kontra&ubreve; mizero,
+        morto, ventego, konkurenco;
+      </ekz>
+      <ekz>
+        <tld/>i kontra&ubreve; la sorto, la timo.
+      </ekz>
+    </dif>
+    <trdgrp lng="hu">
+      <trd>k&uuml;zd</trd>,
+      <trd>s&iacute;krasz&aacute;ll</trd>
+    </trdgrp>
+    <trd lng="nl">z. <ind>inspannen</ind></trd>
+    <trd lng="pl">boryka&cacute; si&eogonek;</trd>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_z;&c_m;&c_a;&c_g;&c_a;&c_c;&c_c;&c_a;</trd>,
+    <trd>&c_d;&c_u;&c_zh;&c_a;&c_c;&c_c;&c_a;</trd>
+  </trdgrp>
+  <trd lng="ca">lluitar</trd>
+  <trdgrp lng="cs">
+    <trd>bojovat</trd>,
+    <trd>b&iacute;t se</trd>,
+    <trd>z&aacute;pasit</trd>
+  </trdgrp>
+  <trd lng="de">ringen</trd>
+  <trdgrp lng="el">
+    <trd>&alfa;&gamma;&omega;&ny;&jota_ton;&zeta;&omikron;&my;&alfa;&jota;</trd>,
+    <trd>&pi;&alfa;&lambda;&epsilon;&ypsilon_ton;&omega;</trd>
+  </trdgrp>
+  <trd lng="en">wrestle</trd>
+  <trd lng="es">luchar</trd>
+  <trd lng="fr">lutter</trd>
+  <trd lng="hu">birk&oacute;z&aacute;s</trd>
+  <trd lng="pt">lutar</trd>
+  <trd lng="ru">&c_b;&c_o;&c_r;&c_o;&c_t;&c_mol;&c_s;&c_ja;</trd>
+  <trd lng="sk">z&aacute;pasi&tcaron;</trd>
+</drv>
+
+<drv mrk="lukt.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="lukt.0o.SPO">
+    <uzo tip="fak">SPO</uzo>
+    <dif>
+      Iu el la <ref tip="super" cel="sport.0o.SPO">sportoj</ref>
+      en kiuj praktikanto penas sub difinitaj reguloj
+      teren renversi a&ubreve; senmovigi la kontra&ubreve;ulon.
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>boj</trd>,
+    <trd>z&aacute;pas</trd>
+  </trdgrp>
+  <trd lng="en">wrestling</trd>
+  <trd lng="fr">lutte</trd>
+  <trd lng="pl">zapasy</trd>
+  <trdgrp lng="sk">
+    <trd>boj</trd>,
+    <trd>z&aacute;pas</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="lukt.inter0i">
+  <kap>inter<tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="lukt.inter0i.KOMUNE">
+    <dif>
+      <tld lit="L"/>i unu kontra&ubreve; la alia:
+      <ekz>
+        al mi pla&ccirc;us vidi, se Lauri kaj Eero inter<tld/>us
+        <fnt><aut>A. Kivi, trad. I. Ekstr&ouml;m</aut>, <vrk>Sep 
+        fratoj</vrk>, <lok>1947</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">se <ind>combattre</ind></trd>
+</drv>
+
+<drv mrk="lukt.klasikstila0o">
+  <kap>klasikstila <tld/>o<fnt><aut>T. Ujlaky-Nagy</aut>,<vrk>La sporta
+  lingvo en Esperanto</vrk>,<lok>1972</lok></fnt>,
+  <var><kap>grekromia <tld/>o</kap></var></kap>
+  <snc mrk="lukt.klasikstila0o.SPO">
+    <uzo tip="fak">SPO</uzo>
+    <dif>
+      <ref tip="super" cel="lukt.0o.SPO"><tld lit="L"/>o</ref>
+      parte imitanta la grek-romian manieron,
+      en kiu <tld/>antoj uzas nur la brakojn kaj
+      kaptas nur super la talio:
+      <ekz>
+        la kulmino de la mistifiko estis la helen-romiaj <tld/>oj
+        <fnt>
+          <aut>S. Bubeni&ccaron;</aut>,
+          <vrk>Sub Cirkotendo</vrk>,
+          <lok>1969</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">&rcaron;ecko&rcaron;&iacute;msk&yacute; z&aacute;pas</trd>
+  <trd lng="en">Greco-Roman wrestling</trd>
+  <trd lng="fr">lutte gr&eacute;co-romaine</trd>
+  <trd lng="pl">zapasy <klr>klasyczne</klr></trd>
+  <trd lng="sk">gr&eacute;ckor&iacute;msky z&aacute;pas</trd>
+</drv>
+</art>
+<!--
+$Log: lukt.xml,v $
+Revision 1.21  2015/10/29 06:10:16  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.20  2015/10/16 06:10:12  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.19  2015/09/24 17:10:16  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.18  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:33:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.16  2014/06/28 19:10:13  revo
+Jeromo Vasxe: + inter~i
+
+Revision 1.15  2013/08/29 01:10:22  revo
+Jeromo Vasxe: + klasikstila ~o
+
+Revision 1.14  2013/04/03 10:10:17  revo
+-->
+</vortaro>

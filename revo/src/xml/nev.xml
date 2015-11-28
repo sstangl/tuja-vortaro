@@ -1,0 +1,117 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: nev.xml,v 1.27 2015/10/26 06:10:15 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>nev</rad>/o
+</kap>
+<drv mrk="nev.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <uzo tip="fak">GEN</uzo>
+  <snc mrk="nev.0o.frata">
+    <dif>
+      <ref tip="lst" cel="fil.0o" lst="voko:parencoj">Filo</ref> de
+      frato.
+    </dif>
+    <trd lng="pl">bratanek</trd>
+  </snc>
+  <snc mrk="nev.0o.fratina">
+    <dif>
+      <ref tip="lst" cel="fil.0o" lst="voko:parencoj">Filo</ref> de
+      fratino.
+    </dif>
+    <trd lng="pl">siostrzeniec</trd>
+  </snc>
+  <trd lng="be">&c_p;&c_l;&c_ja;&c_m;&c_je;&c_n;&c_mol;&c_n;&c_ib;&c_k;</trd>
+  <trd lng="bg">&c_p;&c_l;&c_je;&c_m;&c_je;&c_n;&c_n;&c_i;&c_k;</trd>
+  <trd lng="br">niz</trd>
+  <trd lng="cs">synovec</trd>
+  <trd lng="de">Neffe</trd>
+  <trd lng="el">&alfa;&ny;&eta;&psi;&jota;&omikron_ton;&sigma_fina;</trd>
+  <trd lng="en">nephew</trd>
+  <trd lng="es">sobrino</trd>
+  <trdgrp lng="fa">
+    <trd>&a_kh;&a_w;&a_A;&a_h;&a_r;&a_z;&a_A;&a_d;&a_h;</trd>,
+    <trd>&a_b;&a_r;&a_A;&a_d;&a_r;&a_z;&a_A;&a_d;&a_h;</trd>
+  </trdgrp>
+  <trd lng="fr">neveu</trd>
+  <trd lng="he">&alef;&het;&yod;&yod;&fnun;</trd>
+  <trd lng="hu">unoka&ouml;ccs</trd>
+  <trd lng="nl">neef<klr tip="ind"> (zoon v. broer of zus)</klr></trd>
+  <trd lng="pt">sobrinho</trd>
+  <trd lng="ru">&c_p;&c_l;&c_je;&c_m;&c_ja;&c_n;&c_n;&c_i;&c_k;</trd>
+  <trd lng="sk">synovec</trd>
+  <trdgrp lng="sv">
+    <trd>syskonbarn<klr> (pojke)</klr></trd>,
+    <trd>brorson</trd>,
+    <trd>systerson</trd>
+  </trdgrp>
+  <trd lng="tr">erkek ye&gbreve;en</trd>
+</drv>
+
+<drv mrk="nev.0ino">
+  <kap><tld/>ino</kap>
+  <uzo tip="fak">GEN</uzo>
+  <snc>
+    <dif>
+      <ref tip="lst" cel="fil.0ino" lst="voko:parencoj">Filino</ref> de
+      frato.
+    </dif>
+    <trd lng="pl">bratanica</trd>
+  </snc>
+  <snc>
+    <dif>
+      <ref tip="lst" cel="fil.0ino" lst="voko:parencoj">Filino</ref> de
+      fratino.
+    </dif>
+    <trd lng="pl">siostrzenica</trd>
+  </snc>
+  <trd lng="be">&c_p;&c_l;&c_ja;&c_m;&c_je;&c_n;&c_mol;&c_n;&c_ib;&c_c;&c_a;</trd>
+  <trd lng="bg">&c_p;&c_l;&c_je;&c_m;&c_je;&c_n;&c_n;&c_i;&c_c;&c_a;</trd>
+  <trd lng="br">nizez</trd>
+  <trd lng="cs">nete&rcaron;</trd>
+  <trd lng="de">Nichte</trd>
+  <trd lng="en">niece</trd>
+  <trd lng="fr">ni&egrave;ce</trd>
+  <trd lng="hu">unokah&uacute;g</trd>
+  <trd lng="nl">nicht<klr tip="ind"> (dochter v. broer of
+  zus)</klr></trd>
+  <trd lng="ru">&c_p;&c_l;&c_je;&c_m;&c_ja;&c_n;&c_n;&c_i;&c_c;&c_a;</trd>
+  <trd lng="sk">neter</trd>
+  <trdgrp lng="sv">
+    <trd>syskonbarn<klr> (flicka)</klr></trd>,
+    <trd>brorsdotter</trd>,
+    <trd>systerdotter</trd>
+  </trdgrp>
+  <trd lng="tr">k&inodot;z ye&gbreve;en</trd>
+</drv>
+
+</art>
+<!--
+$Log: nev.xml,v $
+Revision 1.27  2015/10/26 06:10:15  revo
+Sebastian Cyprych: +divido de difino al du sencoj +trd pl
+
+Revision 1.26  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.25  2015/06/29 16:33:21  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.24  2013/09/08 11:10:15  revo
+Wolfram Diestel: ref-oj al listo parencoj
+
+Revision 1.23  2009/10/15 16:31:31  revo
+Paul Peeraerts: +nl
+
+Revision 1.22  2009/09/10 16:31:55  revo
+Jerano Zachrisson: +trd sv
+
+Revision 1.21  2009/08/27 16:33:50  revo
+Emmanuel Debanne: +trd tr
+
+Revision 1.20  2009/06/16 16:31:18  revo
+-->
+</vortaro>

@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: envelo.xml,v 1.10 2015/07/04 08:37:33 revo Exp $">
+<kap>
+  <rad>envelop</rad>/o
+</kap>
+<drv mrk="envelo.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>PIV1</bib></fnt>
+  <snc>
+    <ref tip="dif" cel="volv.en0ajxo.de_kurboj">envolva&jcirc;o.</ref>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>obal</trd>,
+    <trd>obalová křivka</trd>,
+    <trd>obálka</trd>,
+    <trd>plášť</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+     <trd>Einh&uuml;llende</trd>,
+     <trd>Umh&uuml;llungskurve</trd>,
+     <trd>Envolvente</trd>
+  </trdgrp>
+  <trd lng="en">envelope</trd>
+  <trd lng="fr">enveloppe<klr tip="ind"> (d'une famille de
+  courbes)</klr></trd>
+  <trd lng="hu">burkol&oacute;g&ouml;rbe</trd>
+  <trdgrp lng="nl">
+    <trd>enveloppe</trd>,
+    <trd>omslag</trd>
+  </trdgrp>
+  <trd lng="pl">obwiednia<klr tip="ind"> (rodziny krzywych)</klr></trd>
+  <trdgrp lng="pt">
+    <trd>envelope</trd>,
+    <trd>involt&oacute;rio</trd>,
+    <trd>inv&oacute;lucro</trd>
+  </trdgrp>
+  <trd lng="ru">&c_o;&c_g;&c_i;&c_b;&c_a;&c_ju;&c_shch;&c_a;&c_ja;<klr tip="ind"> (&c_s;&c_je;&c_m;&c_je;&c_s;&c_t;&c_v;&c_a;
+  &c_k;&c_r;&c_i;&c_v;&c_y;&c_h;)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>obal</trd>,
+    <trd>obálka</trd>,
+    <trd>plášť</trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log: envelo.xml,v $
+Revision 1.10  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.9  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.8  2012/02/18 07:10:07  revo
+Jozefo Horvath: kor. tr hu
+
+Revision 1.7  2009/08/24 16:31:05  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.6  2008/07/29 16:31:05  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.5  2007/06/28 16:32:35  revo
+Tulio Flores: +tr pt
+
+Revision 1.4  2003/01/02 17:45:31  revo
+Marc Bavant: +trd pl
+
+Revision 1.3  2002/06/26 19:28:03  revo
+Marc Bavant: +trd en/fr/ru
+Revision 1.2  2002/06/18 17:31:32  revo
+Ulrich Fellmann: + 3 trd de
+Revision 1.1  2002/04/01 18:50:46  revo
+Marc Bavant: nova artikolo
+-->
+</vortaro>

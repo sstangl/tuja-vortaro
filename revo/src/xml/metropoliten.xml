@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: metropoliten.xml,v 1.13 2015/07/04 08:37:39 revo Exp $">
+<kap>
+  <rad>metropoliten</rad>/o <fnt><bib>Metrop</bib></fnt>
+</kap>
+<drv mrk="metropoliten.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="metropoliten.0o.metroo">
+  <uzo tip="fak">FER</uzo>
+  <uzo tip="fak">TRA</uzo>
+      <ref tip="dif" cel="metro.0o">metroo</ref>
+      <ekz>
+        vi laboros sub mia gvido je konstruo de nova <tld/>a linio
+        <fnt><bib>Metrop</bib></fnt>;
+      </ekz>
+      <ekz>
+        pro tio konstruado de la <tld/>o en Moskvo ne devas
+        prokrasti&gcirc;i
+        <fnt><bib>Metrop</bib></fnt>;
+      </ekz>
+      <ekz>
+        tiam aperis la unuaj viaduktoj de l' <tld/>o
+        <fnt><bib>Metrop</bib></fnt>.
+      </ekz>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_m;&c_e;&c_t;&c_r;&c_a;&c_p;&c_a;&c_l;&c_ib;&c_t;&c_e;&c_n;</trd>,
+    <trd>&c_m;&c_e;&c_t;&c_r;&c_o;</trd>
+  </trdgrp>
+  <trdgrp lng="ca">
+    <trd>metropolit&agrave;</trd>,
+    <trd>metro</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>metro</trd>,
+    <trd>podzemní dráha</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>U-Bahn</trd>,
+    <trd>Metro</trd>
+  </trdgrp>
+  <trdgrp lng="fa">
+    <trd>&a_q;&a_T;&a_A;&a_r; &a_sh;&a_h;&a_r;&f_y;</trd>,
+    <trd>&a_m;&a_t;&a_r;&a_w;</trd>
+  </trdgrp>
+  <trd lng="fr">m&eacute;tro</trd>
+  <trd lng="hu">metr&oacute;</trd>
+  <trd lng="id">metro</trd>
+  <trd lng="nl">metro</trd>
+  <trd lng="pl">metro</trd>
+  <trdgrp lng="pt">
+   <trd>metr&ocirc;</trd>,
+   <trd>metropolitano <klr>(subst., transporte</klr></trd>,
+   <trd>metro <klr tip="ind">(PT, metropolitano)</klr></trd>
+  </trdgrp>
+  <trd
+  lng="ru">&c_m;&c_je;&c_t;&c_r;&c_o;&c_p;&c_o;&c_l;&c_i;&c_t;&c_je;&c_n;</trd>
+  <trdgrp lng="sk">
+    <trd>metro</trd>,
+    <trd>podzemná dráha</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: metropoliten.xml,v $
+Revision 1.13  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.12  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.11  2014/10/28 04:11:06  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.10  2012/08/19 20:10:35  revo
+Marc Rausell: + trd ca
+
+Revision 1.9  2011/08/19 05:10:21  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.8  2009/07/14 16:30:43  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.7  2006/08/01 16:33:25  revo
+Tulio Flores: +tr pt
+
+Revision 1.6  2006/01/22 17:31:22  revo
+Jeromo Vasxe: fnt per bib, + trd fr
+
+Revision 1.5 2003/05/25 17:03:23 revo
+Dmitri Gabinski: +trd be
+
+Revision 1.4 2002/06/10 17:31:38 revo
+-->
+</vortaro>

@@ -1,0 +1,163 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+  <art mrk="$Id: valoriz.xml,v 1.6 2015/07/04 08:37:45 revo Exp $">
+    <kap><rad>valoriz</rad>/i</kap>
+
+    <drv mrk="valoriz.0i">
+      <kap><tld/>i</kap>
+      <gra><vspec>tr</vspec></gra>
+      <snc>
+	<uzo tip="fak">KOMP</uzo>
+	<dif>
+          En programlingvoj, havigi <ref cel="valor.0o.mat">valoron</ref>
+          al <ref cel="variab.0o.komp">variablo</ref>:
+          <ekz>
+            en Pitono, vi povas <tld/>i plurajn variablojn samtempe
+            <fnt>
+              <vrk><url
+                  ref="http://www.vilchjo.lunarpages.com/pitono/p07_Enkonduko.htm#Links"
+                  >Instruilo por la programlingvo Pitono</url></vrk>
+            </fnt>;
+          </ekz><ekz>
+            variablo, ricevanta valoron en <tld/>o, estas 
+<ind><tld/>ato</ind>.
+            <trdgrp lng="en">
+              <trd>left-hand part<klr> (of an assignment)</klr></trd>,
+              <trd>destination<klr> (of an assignment)</klr></trd>
+            </trdgrp>
+            <trd 
+lng="ru">&c_p;&c_o;&c_l;&c_u;&c_ch;&c_a;&c_t;&c_je;&c_l;&c_mol;<klr> (&c_v;
+                &c_p;&c_r;&c_i;&c_s;&c_v;&c_o;&c_je;&c_n;&c_i;&c_i;)</klr></trd>
+          </ekz>
+	</dif>
+      </snc>
+  <trdgrp lng="cs">
+    <trd>valorizovat</trd>,
+    <trd>zhodnocovat</trd>,
+    <trd>zvyšovat hodnotu</trd>
+  </trdgrp>
+  <trd lng="en">assign<klr> (a value to a variable)</klr></trd>
+  <trdgrp lng="hu">
+        <trd>&eacute;rt&eacute;ket ad</trd>,
+        <trd>&eacute;rt&eacute;ket hozz&aacute;rendel</trd>
+      </trdgrp>
+  <trd lng="ru">&c_p;&c_r;&c_i;&c_s;&c_v;&c_o;&c_i;&c_t;&c_mol;<klr>
+          (&c_z;&c_n;&c_a;&c_ch;&c_je;&c_n;&c_i;&c_je;)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>valorizovať</trd>,
+    <trd>zhodnocovať</trd>
+  </trdgrp>
+</drv>
+
+    <drv mrk="valoriz.0o">
+      <kap><tld/>o</kap>
+      <snc>
+	<uzo tip="fak">KOMP</uzo>
+	<dif>
+          Baza operacio en <ref cel="lingv.0o.program">programlingvoj</ref>,
+          haviganta al variablo valoron:
+          <ekz>
+            <klr>(en la programlingvo C)</klr> la&ubreve; Fortrana tradicio
+            la <tld/>o estas signata per <frm>=</frm>, por la egala&jcirc;o
+            uzendas <frm>==</frm>
+            <fnt><bib>KompLeks</bib>,
+              <lok><url ref="http://bertilow.com/div/komputada_leksikono/PRI-C.html"
+                  >Pri C (p. 52)</url></lok></fnt>;
+          </ekz><ekz>
+            tio forte kontrastas kun tradiciaj ordonemaj lingvoj, en
+            kiuj <tld/>o estas esenca koncepto kaj en kiuj la ordo de
+            la ordonoj estas gravega al la signifo de la programo
+            <fnt>
+              <bib>Viki</bib>,
+              <lok><url ref="http://eo.wikipedia.org/wiki/Funkciaj_lingvoj"
+                  >Funkciaj lingvoj</url></lok>
+            </fnt>.
+          </ekz>
+	</dif>
+      </snc>
+  <trdgrp lng="cs">
+    <trd>přidělení</trd>,
+    <trd>přiřazení</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+        <trd>Zuweisung</trd>,
+        <trd>Wertzuweisung</trd>
+      </trdgrp>
+  <trd lng="en">assignment</trd>
+  <trd lng="fr">affectation</trd>
+  <trdgrp lng="hu">
+        <trd>&eacute;rt&eacute;kad&aacute;s</trd>,
+        <trd>hozz&aacute;rendel&eacute;s 
+<klr>(&eacute;rt&eacute;k&eacute;)</klr></trd>,
+        <trd>valoriz&aacute;l&aacute;s</trd>
+      </trdgrp>
+  <trdgrp lng="ru">
+        <trd>&c_p;&c_r;&c_i;&c_s;&c_v;&c_o;&c_je;&c_n;&c_i;&c_je;</trd>,
+        <trd>&c_p;&c_r;&c_i;&c_s;&c_v;&c_a;&c_i;&c_v;&c_a;&c_n;&c_i;&c_je;</trd>
+      </trdgrp>
+  <trdgrp lng="sk">
+    <trd>pridelenie</trd>,
+    <trd>priradenie</trd>
+  </trdgrp>
+</drv>
+
+    <drv mrk="valoriz.0a">
+      <kap><tld/>a</kap>
+      <snc>
+	<uzo tip="fak">KOMP</uzo>
+	<dif>
+          Rilata al <tld/>o:
+          <ekz>
+            <ind><tld/>a ordono</ind>;
+            <trd lng="en">assignment statement</trd>
+            <trdgrp lng="hu">
+              <trd>&eacute;rt&eacute;kad&oacute; utas&iacute;t&aacute;s</trd>,
+              <trd>hozz&aacute;rendel&odblac; utas&iacute;t&aacute;s</trd>
+            </trdgrp>
+            <trd lng="ru">&c_o;&c_p;&c_je;&c_r;&c_a;&c_t;&c_o;&c_r;
+&c_p;&c_r;&c_i;&c_s;&c_v;&c_a;&c_i;&c_v;&c_a;&c_n;&c_i;&c_ja;</trd>
+          </ekz><ekz>
+            la dekstra parto de tiu &ccirc;i <tld/>a frazo plenumas la
+            metodon <em>length()</em> kiu estas membro de
+            <em>cxeno2</em>
+            <fnt>
+              <aut>Gian Piero Savio</aut>:
+              <vrk><url 
+ref="http://www.esperanto.org.il/KERO/Notes/chap25/ch25_15.html"
+                  >Komputiko kaj Programado</url></vrk>
+            </fnt>
+          </ekz>
+        </dif>
+      </snc>
+      <trdgrp lng="hu">
+        <trd>&eacute;rt&eacute;kad&oacute;</trd>,
+        <trd>hozz&aacute;rendel&odblac;</trd>
+      </trdgrp>
+      <trd lng="zh">赋值 [<ind>fù zhí</ind>]</trd>
+    </drv>
+  </art>
+
+  <!--
+  $Log: valoriz.xml,v $
+  Revision 1.6  2015/07/04 08:37:45  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.5  2015/06/28 12:03:50  revo
+  aldono de trd sk per skripto de M. von Laer
+
+  Revision 1.4  2015/06/26 23:10:15  revo
+  Darcy Shen: +trd zh
+
+  Revision 1.3  2008/07/15 16:30:31  revo
+  Jozefo Horvath: +trd hu
+
+  Revision 1.2  2006/11/21 17:30:13  revo
+  Sergio Pokrovskij: -tajperaro
+
+  Revision 1.1  2006/11/17 17:30:19  revo
+  Sergio Pokrovskij: nova artikolo
+
+  -->
+</vortaro>

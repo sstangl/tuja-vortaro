@@ -1,0 +1,378 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: konsta.xml,v 1.30 2015/07/04 08:37:37 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>konstant</rad>/a <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="konsta.0a">
+  <kap><ofc>*</ofc><tld/>a</kap>
+  <snc>
+    <dif>
+      Karakterizas ion, kiu ne &ccirc;esas esti la sama; 
+sen&scirc;an&gcirc;a, sen&ccirc;esa,
+      &ccirc;iamda&ubreve;ra:
+      <ekz>
+        la ilekso kun &gcirc;ia malluma <tld/>a verda&jcirc;o<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        <tld/>a pluvo, gutado<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        ili turmenti&gcirc;as per <tld/>aj duboj<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        lia malfeli&ccirc;o estis tiel <tld/>a, ke &gcirc;i povis
+        supersti&ccirc;igi &ccirc;iun
+        <fnt>B</fnt>;
+      </ekz>
+      <ekz>
+        <tld/>a mokado<fnt>Z</fnt>,
+      </ekz>
+      <ekz>
+        progresado;
+      </ekz>
+      <ekz>
+        la loko de mia <tld/>a lo&gcirc;ado ne estas ankora&ubreve; pozitive
+        decidita<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        <tld/>a arbitracio, armeo;
+      </ekz>
+      <ekz>
+        &ccirc;iu litero havas prononcon tre klaran kaj
+        <tld/>an<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        resti en <tld/>a loko<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="dauxr.0a">da&ubreve;ra</ref>,
+      <ref cel="kontin3.0a">kontinua</ref>,
+      <ref cel="pas">nepasa</ref>,
+      <ref cel="halt.sen0a">senhalta</ref>
+    </refgrp>
+    <trdgrp lng="de">
+      <trd>dauerhaft</trd>,
+      <trd>best&auml;ndig</trd>,
+      <trd>unver&auml;nderlich</trd>
+    </trdgrp>
+    <trdgrp lng="pt">
+      <trd>constante</trd>,
+      <trd>permanente</trd>,
+      <trd>cont&iacute;nuo</trd>,
+      <trd>aturado</trd>
+    </trdgrp>
+  </snc>
+  <snc>
+    <dif>
+      Karakterizas iun, kiu neniam &scirc;an&gcirc;as siajn sent- a&ubreve;
+      pens-manierojn:
+      <ekz>
+        la esperantistoj devas esti atentemaj kaj <tld/>aj<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        en sia <tld/>a amikeco.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>beharrlich</trd>
+    </trdgrp>
+    <trdgrp lng="pt">
+      <trd>constante</trd>,
+      <trd>permanente</trd>,
+      <trd>cont&iacute;nuo</trd>,
+      <trd>aturado</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="konsta.0a.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <subsnc mrk="konsta.0a.gxenerale">
+      <fnt><bib>PIV2</bib><lok>homogena</lok></fnt>
+      <dif>
+        Ne varianta, dependanta de neniu variablo:
+        <ekz>
+          la <tld/>a termo de ekvacio.
+        </ekz>
+      </dif>
+      <ref tip="ant" cel="vari.0anta.MAT">varianta.</ref>
+    </subsnc>
+    <subsnc mrk="konsta.0a.bildigo">
+      <fnt><bib>MatTerm</bib><lok>p. 20</lok></fnt>
+      <dif>
+        <klr>(p.p. <ref cel="bild.0igo.MAT">bildigo</ref>)</klr>
+        Tia, ke &gcirc;ia bildaro enhavas nur unu elementon:
+        <ekz>
+          la polinoma funkcio <frm><k>x</k><sup>2</sup>+<k>x</k></frm>
+          ne estas <tld/>a, se konsiderata kiel reela funkcio, sed ja
+          estas,
+          se konsiderata kiel funkcio super la korpo de
+          <frm>2</frm>-modulaj restoklasoj;
+        </ekz>
+        <ekz>
+          <tld/>a <ref cel="voj.0o.bildigo">vojo</ref>;
+        </ekz>
+        <ekz>
+          <tld/>a <ref cel="vic.0o.MAT">vico</ref> <klr>(kies &ccirc;iuj
+          termoj estas inter si egalaj)</klr>.
+        </ekz>
+      </dif>
+    </subsnc>
+    <subsnc mrk="konsta.0a.polinomo">
+      <dif>
+        <klr>(p.p. <ref cel="polino.0o.formala">polinomo</ref>)</klr>
+        Tia, ke nur &gcirc;ia termo kun <ref 
+cel="indic.0o.familio">indico</ref>
+        <frm>0</frm> estas eble nenula:
+        <ekz>
+          <ref cel="polino.nul0o">nulpolinomo</ref> kaj
+          <ref cel="polino.unuo0o">unuopolinomo</ref> estas <tld/>aj.
+        </ekz>
+      </dif>
+      <rim>
+        Atentu: kvankam polinomo ja estas vico, <tld/>a polinomo ne
+        estas
+        <tld/>a vico! La termino transiris al polinomoj pere de la
+        reelaj polinomaj funkcioj.
+      </rim>
+    </subsnc>
+    <trd lng="de">konstant</trd>
+    <trd lng="en">constant</trd>
+    <trd lng="fr">constant</trd>
+    <trd lng="pl">sta&lstroke;y</trd>
+    <trd lng="ru">&c_p;&c_o;&c_s;&c_t;&c_o;&c_ja;&c_n;&c_n;&c_y;&c_j;</trd>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_n;&c_ja;&c_z;&c_mol;&c_m;&c_je;&c_n;&c_n;&c_y;</trd>,
+    <trd>&c_p;&c_a;&c_s;&c_t;&c_a;&c_ja;&c_n;&c_n;&c_y;</trd>,
+    <trd>&c_s;&c_t;&c_a;&c_l;&c_y;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>invariantní</trd>,
+    <trd>konstantní</trd>,
+    <trd>neměnný</trd>,
+    <trd>neproměnný</trd>,
+    <trd>nepřetržitý</trd>,
+    <trd>st&aacute;l&yacute;</trd>,
+    <trd>trvalý</trd>,
+    <trd>ustavičný</trd>
+  </trdgrp>
+  <trd lng="en">constant</trd>
+  <trd lng="es">constante</trd>
+  <trd lng="nl">constant</trd>
+  <trd lng="pl">sta&lstroke;y</trd>
+  <trd lng="ro">constant</trd>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_o;&c_s;&c_t;&c_o;&c_ja;&c_n;&c_n;&c_y;&c_j;</trd>,
+    <trd>&c_n;&c_je;&c_i;&c_z;&c_m;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>konštantný</trd>,
+    <trd>nemenný</trd>,
+    <trd>nepretržitý</trd>,
+    <trd>stály</trd>,
+    <trd>trvalý</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="konsta.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="konsta.0o.KOMUNE">
+    <uzo tip="fak">FIZ</uzo>
+    <dif>
+      Fizika grando, kiu ne varias la&ubreve; la tempo:
+      <ekz>
+        gravita <tld/>o;
+      </ekz>
+      <ekz>
+        <tld/>o de <ref cel="avogadr.0o">Avogadro</ref>
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="konsta.0o.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <uzo tip="klr">(fakula &jcirc;argono)</uzo>
+    <fnt><bib>MatTerm</bib><lok>p. 23</lok></fnt>
+    <dif>
+      Io <ref cel="konsta.0a.MAT"><tld/>a <sncref/></ref>:
+      <ekz>
+        la deriva&jcirc;o de lineara funkcio estas <tld/>o;
+      </ekz>
+      <ekz>
+        <ind>variigo de <tld/>oj</ind> <klr>(ilia anstata&ubreve;igo per
+        funkcioj)</klr>.
+        <trd lng="de">Variation des Konstanten</trd>
+        <trd lng="en">variation of constants</trd>
+        <trd lng="fr">variation des constantes</trd>
+        <trd lng="pl">wariacja sta&lstroke;ych</trd>
+        <trd lng="ru">&c_v;&c_a;&c_r;&c_i;&c_a;&c_c;&c_i;&c_ja; &c_p;&c_o;&c_s;&c_t;&c_o;&c_ja;&c_n;&c_n;&c_y;&c_h;</trd>
+      </ekz>
+    </dif>
+    <ref tip="ant" cel="variab.0o">variablo.</ref>
+    <trd lng="de">Konstante</trd>
+    <trd lng="en">constant</trd>
+    <trd lng="fr">constante</trd>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_a;&c_s;&c_t;&c_a;&c_ja;&c_n;&c_n;&c_a;&c_ja; <klr tip="amb">(&c_v;&c_je;&c_l;&c_ib;&c_ch;&c_y;&c_n;&c_ja;)</klr></trd>,
+    <trd>&c_n;&c_ja;&c_z;&c_mol;&c_m;&c_je;&c_n;&c_n;&c_a;&c_ja; <klr tip="amb">(&c_v;&c_je;&c_l;&c_ib;&c_ch;&c_y;&c_n;&c_ja;)</klr></trd>,
+    <trd>&c_s;&c_t;&c_a;&c_l;&c_a;&c_ja; <klr tip="amb">(&c_v;&c_je;&c_l;&c_ib;&c_ch;&c_y;&c_n;&c_ja;)</klr></trd>,
+    <trd>&c_k;&c_a;&c_n;&c_s;&c_t;&c_a;&c_n;&c_t;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>konstanta</trd>,
+    <trd>stálá veličina</trd>
+  </trdgrp>
+  <trd lng="pl">sta&lstroke;a</trd>
+  <trdgrp lng="ru">
+    <trd>&c_k;&c_o;&c_n;&c_s;&c_t;&c_a;&c_n;&c_t;&c_a;</trd>,
+    <trd>&c_p;&c_o;&c_s;&c_t;&c_o;&c_ja;&c_n;&c_n;&c_a;&c_ja; <klr tip="amb">(&c_v;&c_je;&c_l;&c_i;&c_ch;&c_i;&c_n;&c_a;)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>konštanta</trd>,
+    <trd>stála veličina</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="konsta.0e">
+  <kap><tld/>e</kap>
+  <snc>
+    <dif>
+      Sen&ccirc;ese, da&ubreve;re:
+      <ekz>
+        ne sama la vento blovas
+        <tld/>e<fnt><bib>PrV</bib></fnt>;
+      </ekz>
+      <ekz>
+        la homaro <tld/>e kaj senfine perfekti&gcirc;adas<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        lo&gcirc;i <tld/>e.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>dauernd</trd>,
+      <trd>st&auml;ndig</trd>,
+      <trd>konstant</trd>
+    </trdgrp>
+  </snc>
+  <snc>
+    <dif>
+      Sen&ccirc;ese, ripete:
+      <ekz>
+        <tld/>e al mi venas novaj demandoj<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        <tld/>e kriadi;
+      </ekz>
+      <ekz>
+        kiu <tld/>e lokon &scirc;an&gcirc;as, neniam sin aran&gcirc;as
+        <fnt><bib>PrV</bib></fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>dauernd</trd>,
+      <trd>st&auml;ndig</trd>,
+      <trd>wiederkehrend</trd>,
+      <trd>unaufh&ouml;rlich</trd>
+    </trdgrp>
+  </snc>
+  <snc>
+    <dif>
+      Neniam &scirc;an&gcirc;ante siajn sentojn:
+      <ekz>
+        &ccirc;u estas viro, kiu amas <tld/>e?
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="persis">persiste</ref>.
+    </refgrp>
+    <trdgrp lng="de">
+      <trd>beharrlich</trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_a;&c_s;&c_t;&c_a;&c_ja;&c_n;&c_n;&c_a;</trd>,
+    <trd>&c_n;&c_ja;&c_z;&c_mol;&c_m;&c_je;&c_n;&c_n;&c_a;</trd>,
+    <trd>&c_s;&c_t;&c_a;&c_l;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>konstantně</trd>,
+    <trd>stále</trd>,
+    <trd>ustavičně</trd>
+  </trdgrp>
+  <trd lng="nl">onophoudelijk</trd>
+  <trdgrp lng="pl">
+    <trd>stale</trd>,
+    <trd>na <ind>sta&lstroke;e</ind></trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_o;&c_s;&c_t;&c_o;&c_ja;&c_n;&c_n;&c_o;</trd>,
+    <trd>&c_n;&c_je;&c_i;&c_z;&c_m;&c_je;&c_n;&c_n;&c_o;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>konštantne</trd>,
+    <trd>stále</trd>,
+    <trd>ustavične</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="konsta.mal0a">
+  <kap>mal<tld/>a</kap>
+  <snc mrk="konsta.mal0a.KOMUNE">
+    <dif>
+      &Scirc;an&gcirc;i&gcirc;ema;
+      <ref tip="vid" cel="efemer.0a">efemera</ref>,
+      <ref tip="vid" cel="pas.0ema.KOMUNE">pasema</ref>:
+      <ekz>
+        en la Plena Ilustrita Vortaro oni priskribas la
+        komunuzan sencon de
+        &leftquot;papilia (neserioza kaj mal<tld/>a) amo&rightquot;
+        <fnt>
+          <aut>Bob</aut>,
+          <vrk>Papiliaj Pensoj</vrk>,
+          <lok><url
+          ref="http://www.gazetejo.org/system/files/gazetoj/in9910.pdf">
+          Inter Ni, 1999-10</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">inconstant</trd>
+</drv>
+</art>
+<!--
+$Log: konsta.xml,v $
+Revision 1.30  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.29  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.28  2015/01/28 23:10:15  revo
+Jeromo Vasxe: sx -> Sx
+
+Revision 1.27  2015/01/26 23:10:16  revo
+Jeromo Vasxe: + mal~a
+
+Revision 1.26  2013/05/08 11:10:12  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.25  2012/04/25 09:10:08  revo
+Mireille Corobu: +ekz konstanto de Avogadro kun ligo al Avogadro
+
+Revision 1.24  2006/11/30 18:43:22  revo
+Tulio Flores: +tr pt
+
+Revision 1.23  2006/03/01 17:32:32  revo
+Vito Redsky: +trd pl +trd ro
+
+Revision 1.22  2005/02/25 17:32:45  revo
+Yury Finkel: kor trd ru
+
+Revision 1.21  2004/08/12 16:32:04  revo
+-->
+</vortaro>

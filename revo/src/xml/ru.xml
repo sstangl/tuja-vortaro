@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: ru.xml,v 1.11 2015/07/04 08:37:43 revo Exp $">
+<kap>
+  <rad>ru</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="ru.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <uzo tip="fak">TEK</uzo>
+  <snc>
+    <dif>
+      Maceri tekseblan planton en likva&jcirc;o por apartigi &gcirc;iajn fibrojn de
+      aliaj substancoj.
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>močit <klr>(len, konopí)</klr></trd>,
+    <trd>rosit</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>r&ouml;sten</trd>,
+    <trd>rotten</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>ret</trd>,
+    <trd>steep</trd>
+  </trdgrp>
+  <trd lng="hu">&aacute;ztat <klr tip="amb">(pl. kendert)</klr></trd>
+  <trd lng="nl">roten</trd>
+  <trdgrp lng="pl">
+    <trd>rosi&cacute;</trd>,
+    <trd>moczy&cacute; <klr>(len, konopie)</klr></trd>
+  </trdgrp>
+  <trd lng="ru">&c_m;&c_o;&c_ch;&c_i;&c_t;&c_mol; <klr tip="amb">(&c_l;&c_jo;&c_n;, &c_k;&c_o;&c_n;&c_o;&c_p;&c_l;&c_ju;)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>močiť</trd>,
+    <trd>rosiť <klr>(ľan, konope)</klr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: ru.xml,v $
+Revision 1.11  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.10  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.9  2013/01/01 15:10:22  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.8  2011/04/29 19:10:58  revo
+Russ Williams: +trd en
+
+Revision 1.7  2004/09/06 16:38:44  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.6  2002/02/01 17:31:37  revo
+Yury Finkel: +trd ru
+
+Revision 1.5 2001/06/24 18:53:48 revo
+Paul Peeraerts: ald trd nl
+
+Revision 1.4 2001/03/07 17:12:37 revo
+Dennis Wibrow: +trd germ
+
+-->
+</vortaro>

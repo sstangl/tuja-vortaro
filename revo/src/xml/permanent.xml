@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: permanent.xml,v 1.7 2015/10/07 15:10:17 revo Exp $">
+<kap>
+  <rad>permanent</rad>/a <fnt><bib>PIV2</bib></fnt>
+</kap>
+<drv mrk="permanent.0a">
+  <kap><tld/>a</kap>
+  <uzo tip="stl">RAR</uzo>
+  <snc mrk="permanent.0a.konstanta">
+    <ref tip="dif" cel="konsta.0a">konstanta</ref>
+      <ekz>
+        Trockij estas konata pro aliaj elementoj de sia pensaro: 
+        <tld/>a revolucio, malebena kaj kombini&gcirc;a disvolvi&gcirc;o 
+        <fnt>
+          <aut>R. Dumain</aut>,
+          <vrk><url
+          ref="http://www.autodidactproject.org/my/espotrot2.html">Trockij
+          Pravis!</url></vrk>,
+          <lok>Sennaciulo, 1990-09, numero 9a (1023), p. 79-80</lok>
+        </fnt>...
+      </ekz>
+      <ekz>
+        la POP-servilo devas havi <tld/>an konekton al la Interreto
+        <fnt><bib>KompLeks</bib>, artikolo &leftquot;POP&rightquot;</fnt>.
+      </ekz>
+  </snc>
+  <trd lng="ca">permanent</trd>
+  <trdgrp lng="cs">
+    <trd>nem&ecaron;nn&yacute;</trd>,
+    <trd>permanentn&iacute;</trd>,
+    <trd>st&aacute;l&yacute;</trd>,
+    <trd>trval&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>permanent</trd>,
+    <trd>constant</trd>
+  </trdgrp>
+  <trd lng="fr">permanent</trd>
+  <trd lng="nl">permanent<klr tip="ind"> (zeldz.)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>st&aacute;ly</trd>,
+    <trd>trval&yacute;</trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log: permanent.xml,v $
+Revision 1.7  2015/10/07 15:10:17  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.6  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.5  2015/06/29 16:40:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.4  2014/09/01 07:10:15  revo
+Damien Brucker: +trd fr
+
+Revision 1.3  2011/12/11 17:10:19  revo
+Marc Rausell: +trd ca
+
+Revision 1.2  2009/10/24 16:31:22  revo
+Paul Peeraerts: +nl
+
+Revision 1.1  2006/09/01 18:31:12  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

@@ -1,0 +1,176 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: torn.xml,v 1.22 2015/08/22 19:10:14 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>torn</rad>/i
+</kap>
+<drv mrk="torn.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="torn.0i.trancxi">
+    <dif>
+      Rondforme prilabori per tran&ccirc;a ilo pecon el ligno, eburo,
+      metalo fiksitan sur speciala turni&gcirc;anta aparato:
+      <ekz>
+        <tld/>i globon el ligno<fnt>B</fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        <tld/>i belsonan frazon.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_t;&c_a;&c_ch;&c_y;&c_c;&c_mol;</trd>, 
+      <trd>&c_v;&c_y;&c_t;&c_o;&c_ch;&c_v;&c_a;&c_c;&c_mol;</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd>drehen (Metall)</trd>,
+      <trd>drechseln (Holz)</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>turn<klr> (on a lathe)</klr></trd>,
+      <trd>lathe</trd>
+    </trdgrp>
+    <trd lng="fr">tourner</trd>
+    <trdgrp lng="hu">
+      <trd>eszterg&aacute;l</trd>,
+      <trd>eszterg&aacute;lyoz</trd>
+    </trdgrp>
+    <trd lng="pl">toczy&cacute;</trd>
+    <trd lng="pt">tornear</trd>
+    <trdgrp lng="ru">
+      <trd>&c_t;&c_o;&c_ch;&c_i;&c_t;&c_mol; <klr>(&c_n;&c_a;&c_p;&c_r;.
+      &c_n;&c_a; &c_t;&c_o;&c_k;&c_a;&c_r;&c_n;&c_o;&c_m; &c_s;&c_t;&c_a;&c_n;&c_k;&c_je;)</klr></trd>,
+      <trd>&c_v;&c_y;&c_t;&c_a;&c_ch;&c_i;&c_v;&c_a;&c_t;&c_mol;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="torn.0i.argilon">
+    <dif>
+      Rondforme prilabori argilon fiksitan sur speciala turni&gcirc;anta
+      plato por fari poton, vazon, kru&ccirc;on ks.
+    </dif>
+    <trd lng="be">&c_l;&c_ja;&c_p;&c_ib;&c_c;&c_mol; <klr
+      tip="amb">(&c_n;&c_a; &c_g;&c_a;&c_n;&c_ch;&c_a;&c_r;&c_n;&c_y;&c_m; &c_k;&c_r;&c_u;&c_z;&c_je;)</klr></trd>
+    <trd lng="de">t&ouml;pfern</trd>
+    <trd lng="en">turn<klr> (on a potter's wheel)</klr></trd>
+    <trd lng="pl">toczy&cacute; <klr> (lepi&cacute;) garnki</klr></trd>
+    <trd lng="ru">&c_l;&c_je;&c_p;&c_i;&c_t;&c_mol; <klr
+      tip="amb">(&c_n;&c_a; &c_g;&c_o;&c_n;&c_ch;&c_a;&c_r;&c_n;&c_o;&c_m; &c_k;&c_r;&c_u;&c_g;&c_je;)</klr></trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>soustruhovat</trd>,
+    <trd>soustru&zcaron;it</trd>,
+    <trd>vyto&ccaron;it na hrn&ccaron;&iacute;&rcaron;sk&eacute;m kruhu</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>form&aacute;z <klr tip="amb">(korongon)</klr></trd>,
+    <trd>korongol</trd>
+  </trdgrp>
+  <trd lng="nl">draaien<klr tip="ind"> (op draaibank of
+  schijf)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>2.opracova&tcaron; hlinu na hrn&ccaron;iarskom kruhu</trd>,
+    <trd>s&uacute;stru&zcaron;i&tcaron;</trd>,
+    <trd>to&ccaron;i&tcaron;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="torn.0ilo">
+  <kap>
+    <tld/>ilo
+    <fnt>
+      <bib>PIV1</bib>
+    </fnt>
+  </kap>
+  <uzo tip="fak">TEK</uzo>
+  <snc  mrk="torn.0ilo.trancxi">
+    <dif>
+      Ma&scirc;ino turnanta fiksitan pecon de iu materialo por
+      &gcirc;in <tld/>i.
+    </dif>
+    <ref tip="vid" cel="frez.0ilo">frezilo</ref>
+    <trd lng="en">lathe</trd>
+    <trd lng="fr">tour</trd>
+    <trd lng="pl">tokarka</trd>
+  </snc>
+  <snc  mrk="torn.0ilo.argilo">
+    <dif>
+      Turni&gcirc;anta aparato konsistanta el plato por <tld/>i argilon
+      por fari poton, vazon, kru&ccirc;on ks.
+    </dif>
+    <trd lng="en">potter's wheel</trd>
+    <trd lng="pl">ko&lstroke;o garncarskie</trd>
+  </snc>
+</drv>
+
+<drv mrk="torn.0masxino">
+  <kap><tld/>ma&scirc;ino</kap>
+  <snc>
+  <uzo tip="fak">TEK</uzo>
+    <ref tip="dif" cel="torn.0ilo">tornilo</ref>
+    <ref tip="vid" cel="frez.0masxino">frezma&scirc;ino</ref>
+  </snc>
+    <trd lng="en">lathe</trd>
+    <trd lng="fr">tour</trd>
+    <trd lng="nl">draaibank</trd>
+    <trd lng="pl">tokarka</trd>
+</drv>
+
+<drv mrk="torn.pot0ilo">
+  <kap>pot<tld/>ilo</kap>
+  <snc>
+  <uzo tip="fak">TEK</uzo>
+    <ref tip="dif" cel="torn.0ilo.argilo">tornilo</ref>
+  </snc>
+  <trd lng="en">potter's wheel</trd>
+  <trd lng="pl">ko&lstroke;o garncarskie</trd>
+  <trd lng="cs">hrn&ccaron;&iacute;&rcaron;sk&yacute; kruh</trd>
+  <trd lng="sk">hrn&ccaron;iarsky kruh</trd>
+</drv>
+
+<drv mrk="torn.0isto">
+  <kap>
+    <tld/>isto <fnt><bib>PIV1</bib></fnt>
+  </kap>
+  <snc>
+  <uzo tip="fak">TEK</uzo>
+    <dif>
+      Homo kiu profesie <tld/>as.
+    </dif>
+  </snc>
+    <trdgrp lng="en">
+      <trd>turner</trd>
+    </trdgrp>
+    <trd lng="fr">tourneur</trd>
+    <trd lng="pl">tokarz</trd>
+</drv>
+</art>
+<!--
+$Log: torn.xml,v $
+Revision 1.22  2015/08/22 19:10:14  revo
+Damien Brucker: +trd fr
+
+Revision 1.21  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:40:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.19  2013/04/08 07:10:11  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.18  2012/03/26 10:10:11  revo
+Dominique Pelle: por torn -> por torni
+
+Revision 1.17  2011/01/03 15:25:09  revo
+Russ Williams: +trd en
+
+Revision 1.16  2010/05/10 16:30:19  revo
+Jozefo Horvath: turnigxanta > turnanta
+
+Revision 1.15  2009/01/22 17:30:37  revo
+-->
+</vortaro>

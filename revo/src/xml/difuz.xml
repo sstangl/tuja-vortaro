@@ -1,0 +1,157 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: difuz.xml,v 1.18 2015/07/04 08:37:32 revo Exp $">
+<kap>
+  <rad>difuz</rad>/i
+  <fnt>Z</fnt>
+</kap>
+<drv mrk="difuz.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <uzo tip="fak">FIZ</uzo>
+  <uzo tip="fak">KEM</uzo>
+  <snc>
+    <dif>
+      &Ccirc;iudirekten disvasti&gcirc;i.
+    </dif>
+  </snc>
+  <trdgrp lng="bg">
+    <trd>&c_d;&c_i;&c_f;&c_u;&c_n;&c_d;&c_i;&c_r;&c_a;</trd>,
+    <trd>&c_r;&c_a;&c_z;&c_p;&c_r;&c_o;&c_s;&c_t;&c_r;&c_a;&c_n;&c_ja;&c_v;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>difundovat</trd>,
+    <trd>prolínat</trd>,
+    <trd>pronikat</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>diffundieren <klr>(W&auml;rme)</klr></trd>,
+    <trd>zerstreuen <klr>(Teilchen)</klr></trd>,
+    <trd>streuen <klr>(Licht)</klr></trd>
+  </trdgrp>
+  <trd lng="en">diffuse</trd>
+  <trd lng="es">difundir</trd>
+  <trd lng="fr">diffuser<klr tip="ind"> (se r&eacute;pandre)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>sug&aacute;roz <klr>(f&eacute;nyt, h&odblac;t)</klr></trd>,
+    <trd>sz&oacute;r <klr>(f&eacute;nyt)</klr></trd>,
+    <trd>diffund&aacute;l</trd>
+  </trdgrp>
+  <trd lng="nl">diffunderen</trd>
+  <trd lng="pl">dyfuzowa&cacute;</trd>
+  <trd lng="pt">difundir-se</trd>
+  <trdgrp lng="ru">
+    <trd>&c_r;&c_a;&c_s;&c_s;&c_je;&c_i;&c_v;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>,
+    <trd>&c_d;&c_i;&c_f;&c_f;&c_u;&c_n;&c_d;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>prenikať</trd>,
+    <trd>presakovať</trd>,
+    <trd>rozptýliť sa</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="difuz.0o">
+  <kap><tld/>o</kap>
+  <snc>
+    <dif>
+      Fenomeno en kiu gaso, lumo, varmo disi&gcirc;as al &ccirc;iuj
+      direktoj.
+    </dif>
+  </snc>
+  <trdgrp lng="bg">
+    <trd>&c_d;&c_i;&c_f;&c_u;&c_z;&c_i;&c_ja;</trd>,
+    <trd>&c_r;&c_a;&c_z;&c_p;&c_r;&c_o;&c_s;&c_t;&c_r;&c_a;&c_n;&c_je;&c_n;&c_i;&c_je;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>difuze</trd>,
+    <trd>pronikání</trd>,
+    <trd>rozptyl</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Diffusion</trd>,
+    <trd>Zerstreuung</trd>,
+    <trd>Streuung</trd>
+  </trdgrp>
+  <trd lng="en">diffusion</trd>
+  <trd lng="es">difusi&oacute;n</trd>
+  <trd lng="fr">diffusion<klr tip="ind"> (ph&eacute;nom&egrave;ne
+  physique)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>sug&aacute;rz&aacute;s <klr>(f&eacute;ny, h&odblac;)</klr>
+    </trd>,
+    <trd>sz&oacute;r&aacute;s <klr>(f&eacute;nyt)</klr></trd>,
+    <trd>diff&uacute;zi&oacute;</trd>
+  </trdgrp>
+  <trd lng="nl">diffusie</trd>
+  <trd lng="pl">dyfuzja</trd>
+  <trdgrp lng="ru">
+    <trd>&c_r;&c_a;&c_s;&c_s;&c_je;&c_ja;&c_n;&c_i;&c_je;</trd>,
+    <trd>&c_d;&c_i;&c_f;&c_f;&c_u;&c_z;&c_i;&c_ja;</trd>
+  </trdgrp>
+  <trd lng="sk">rozptyl</trd>
+</drv>
+
+<drv mrk="difuz.0ilo">
+  <kap><tld/>ilo</kap>
+  <snc>
+    <dif>
+      Aparato (ajuto a&ubreve; lenso) por difuzi.
+    </dif>
+  </snc>
+  <trd lng="cs">difuzor</trd>
+  <trdgrp lng="de">
+    <trd>Diffusor</trd>,
+    <trd>Zerstreuungsvorrichtung</trd>
+  </trdgrp>
+  <trd lng="en">diffusor</trd>
+  <trd lng="es">difusor</trd>
+  <trd lng="fr">diffuseur</trd>
+  <trdgrp lng="hu">
+    <trd>sz&oacute;r&oacute;test</trd>,
+    <trd>diff&uacute;zor</trd>
+  </trdgrp>
+  <trd lng="pl">dyfuzor</trd>
+  <trdgrp lng="ru">
+    <trd>&c_d;&c_i;&c_f;&c_f;&c_u;&c_z;&c_o;&c_r;</trd>,
+    <trd>
+    &c_r;&c_a;&c_s;&c_s;&c_je;&c_i;&c_v;&c_a;&c_t;&c_je;&c_l;&c_mol;
+    </trd>
+  </trdgrp>
+  <trd lng="sk">difúzor</trd>
+</drv>
+</art>
+<!--
+$Log: difuz.xml,v $
+Revision 1.18  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.16  2013/08/14 16:10:23  revo
+Joop Eggen: +trd bg nl
+
+Revision 1.15  2010/02/03 17:30:26  revo
+Russ Williams: +trd en
+
+Revision 1.14  2008/05/28 20:07:54  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.13  2007/07/26 16:31:06  revo
+Tulio Flores: +tr pt
+
+Revision 1.12  2005/06/29 16:31:57  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.11  2005/03/28 17:14:05  revo
+Raul Salinas Monteagudo: +trd es
+
+Revision 1.10  2004/10/14 16:31:38  revo
+Jean Hennebert: +trd fr
+
+Revision 1.9  2004/10/13 16:31:40  revo
+-->
+</vortaro>

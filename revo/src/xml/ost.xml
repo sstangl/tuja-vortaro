@@ -1,0 +1,333 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: ost.xml,v 1.37 2015/07/04 08:37:40 revo Exp $">
+<kap>
+  <ofc>*</ofc><rad>ost</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="ost.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="ost.0o.ANA">
+    <uzo tip="fak">ANA</uzo>
+    <dif>
+      Malmola, fortika, kalkeca substanco, el kiu konsistas la skeleto
+      de vertebruloj:
+      <ekz>
+        jen estas li proprakorpe kun karno kaj <tld/>oj<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        por malfrua gasto restas nur <tld/>o
+        <klr>(sen viando)</klr>
+        <fnt><bib>PrV</bib></fnt>;
+      </ekz>
+      <ekz>
+        &gcirc;i fari&gcirc;is por mi <tld/>o en la gor&gcirc;o
+        <klr>(granda &gcirc;ena&jcirc;o)</klr>
+        <fnt><bib>PrV</bib></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_k;&c_o;&c_s;&c_t;&c_k;&c_a;</trd>
+  <trd lng="bg">&c_k;&c_o;&c_s;&c_t;</trd>
+  <trd lng="br">askorn</trd>
+  <trd lng="ca">os</trd>
+  <trd lng="cs">kost</trd>
+  <trdgrp lng="de">
+    <trd>Knochen</trd>,
+    <trd>Bein</trd>
+  </trdgrp>
+  <trdgrp lng="el">
+    <trd>&kappa;&omikron_ton;&kappa;&alfa;&lambda;&omikron;</trd>,
+    <trd>&omikron_ton;&sigma;&tau;&omikron;&ypsilon;&ny;</trd>
+  </trdgrp>
+  <trd lng="en">bone</trd>
+  <trd lng="es">hueso</trd>
+  <trd lng="fr">os</trd>
+  <trd lng="he">&ayin;&tsadi;&fmem;</trd>
+  <trd lng="hu">csont</trd>
+  <trd lng="it">osso</trd>
+  <trd lng="nl">been<klr tip="ind"> (skelet)</klr></trd>
+  <trdgrp lng="pl">
+    <trd>ko&sacute;&cacute;</trd>,
+    <trd>o&sacute;&cacute;</trd>,
+  </trdgrp>
+  <trd lng="pt">osso</trd>
+  <trd lng="ru">&c_k;&c_o;&c_s;&c_t;&c_mol;</trd>
+  <trd lng="sk">kosť</trd>
+  <trd lng="sv">ben<klr tip="ind"> (i skelettet)</klr></trd>
+</drv>
+
+<drv mrk="ost.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="ost.0a.pri">
+    <dif>
+      Rilata al <tld/>o:
+      <ekz>
+        <tld/>a malsano.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_k;&c_a;&c_s;&c_mol;&c_c;&c_ja;&c_v;&c_y;</trd>
+    <trd lng="bg">&c_k;&c_o;&c_s;&c_t;&c_je;&c_l;&c_i;&c_v;</trd>
+    <trd lng="br">-<ind>eskern</ind></trd>
+    <trd lng="ca">ossi</trd>
+    <trd lng="de">Knochen-</trd>
+    <trd lng="en">bone</trd>
+    <trd lng="he">&shin;&lamed; <ind>&ayin;&tsadi;&mem;&vav;&tav;</ind></trd>
+    <trd lng="nl">beender-</trd>
+    <trd lng="it">osseo</trd>
+    <trd lng="ru">&c_k;&c_o;&c_s;&c_t;&c_n;&c_y;&c_j;</trd>
+  </snc>
+  <snc mrk="ost.0a.el">
+    <dif>
+      Farita el <tld/>o:
+      <ekz>
+        <ind><tld/>a &jcirc;etkubo</ind>.
+        <trd lng="hu">csontkocka</trd>
+      </ekz>
+    </dif>
+    <trd lng="be">&c_k;&c_a;&c_s;&c_mol;&c_c;&c_ja;&c_n;&c_y;</trd>
+    <trd lng="br">en <ind>askorn</ind></trd>
+    <trd lng="ca">fet d'os</trd>
+    <trdgrp lng="de">
+      <trd>kn&ouml;chern</trd>,
+      <trd>knochig</trd>,
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>bony</trd>,
+      <trd>bone</trd>
+    </trdgrp>
+    <trd lng="he">&mem;<ind>&ayin;&tsadi;&fmem;</ind></trd>
+    <trd lng="nl">benen<klr tip="ind"> (uit been)</klr></trd>
+    <trdgrp lng="it">
+      <trd>di <ind>osso</ind></trd>,
+      <trd>osseo</trd>
+    </trdgrp>
+    <trd lng="ru">&c_k;&c_o;&c_s;&c_t;&c_ja;&c_n;&c_o;&c_j;</trd>
+  </snc>
+  <snc mrk="ost.0a.oz">
+    <dif>
+      Havanta dikajn <tld/>ojn:
+      <ekz>
+        <tld/>a viro.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_k;&c_a;&c_sh;&c_ch;&c_a;&c_v;&c_y;</trd>
+    <trd lng="br">askornek</trd>
+    <trd lng="ca">ossut</trd>
+    <trd lng="de">grobknochig</trd>
+    <trdgrp lng="en">
+      <trd>large-boned</trd>,
+      <trd>thick-boned</trd>,
+      <trd>large-framed</trd>
+    </trdgrp>
+    <trd lng="es">huesudo</trd>
+    <trd lng="it">ossuto<klr> (attenzione: con ossa grandi o sporgenti,
+    ma indif. se magro o no)</klr></trd>
+    <trd lng="ru">&c_k;&c_o;&c_s;&c_t;&c_l;&c_ja;&c_v;&c_y;&c_j;</trd>
+  </snc>
+  <trd lng="cs">kostěný</trd>
+  <trd lng="el">&omikron;&sigma;&tau;&epsilon;&omega_ton;&delta;&eta;&sigma_fina;</trd>
+  <trdgrp lng="fr">
+    <trd>en <ind>os</ind></trd>,
+    <trd>osseux</trd>
+  </trdgrp>
+  <trdgrp lng="he">
+    <trd>&mem;&lamed;&alef; <ind>&ayin;&tsadi;&mem;&vav;&tav;</ind></trd>,
+    <trd>&shin;&lamed; <ind>&ayin;&tsadi;&mem;&vav;&tav;</ind></trd>,
+    <trd>&gimel;&resh;&mem;&yod;</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>csont-</trd>,
+    <trd>csontos</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>kostny</trd>,
+    <trd>ostny</trd>,
+  </trdgrp>
+  <trd lng="pt">&oacute;sseo</trd>
+  <trd lng="sk">kostený</trd>
+</drv>
+
+<drv mrk="ost.0aro">
+  <kap><tld/>aro</kap>
+  <snc mrk="ost.0aro.ANA">
+    <uzo tip="fak">ANA</uzo>
+    <dif>
+      Tuto de la <tld/>oj de homo a&ubreve; besto:
+      <ekz>
+        li kune kun sia medicina ilaro kaj libraro alveturigis anka&ubreve;
+        tiun &ccirc;i homan <tld/>aron, kiu anta&ubreve;e staris en
+        lia kabineto apud la skribotablo
+        <fnt><aut>I. G. &Scirc;irjaev</aut>, <vrk>Sen titolo</vrk>,
+        <lok>&ccirc;apitro 20a</lok></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="skelet.0o.ANA">skeleto</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_sh;&c_k;&c_ib;&c_l;&c_je;&c_t;</trd>,
+    <trd>&c_k;&c_a;&c_s;&c_mol;&c_c;&c_ja;&c_k;</trd>
+  </trdgrp>
+  <trd lng="bg">&c_s;&c_k;&c_je;&c_l;&c_je;&c_t;</trd>
+  <trd lng="br">skeledenn</trd>
+  <trd lng="ca">ossada</trd>
+  <trdgrp lng="cs">
+    <trd>kostra</trd>,
+    <trd>skelet</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Gebein</trd>,
+    <trd>Gebeine</trd>,
+    <trd>Skelett</trd>
+  </trdgrp>
+  <trd lng="el">&sigma;&kappa;&epsilon;&lambda;&epsilon;&tau;&omikron_ton;&sigma_fina;</trd>
+  <trd lng="en">skeleton</trd>
+  <trdgrp lng="es">
+    <trd>esqueleto</trd>,
+    <trd>osamenta</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>ossature</trd>
+  </trdgrp>
+  <trd lng="he">&shin;&lamed;&dalet;</trd>
+  <trd lng="hu">csontozat</trd>
+  <trd lng="it">scheletro</trd>
+  <trdgrp lng="nl">
+    <trd>skelet</trd>,
+    <trd>geraamte</trd>
+  </trdgrp>
+  <trd lng="pl">ko&sacute;ciec</trd>
+  <trd lng="pt">esqueleto</trd>
+  <trdgrp lng="ru">
+    <trd>&c_k;&c_o;&c_s;&c_t;&c_ja;&c_k;</trd>,
+    <trd>&c_o;&c_s;&c_t;&c_o;&c_v;</trd>,
+    <trd>&c_s;&c_k;&c_je;&c_l;&c_je;&c_t;</trd>
+  </trdgrp>
+  <trd lng="sk">kostra</trd>
+</drv>
+
+<drv mrk="ost.gxis0a">
+  <kap>&gcirc;is<tld/>a</kap>
+  <snc mrk="ost.gxis0a.FIG">
+    <uzo tip="stl">FRAZ</uzo>
+    <dif>
+      Plene penetrita de ideo, konvikita sen cedemo a&ubreve; hezito;
+      <ref tip="sin" cel="medol.gxis0a.FIG">&gcirc;ismedola</ref>:
+      <ekz>
+        &gcirc;is<tld/>aj sennaciuloj, t.e. homoj nun ne ekzistantaj
+        <fnt><bib>Lanti</bib>, <lok>Esperanto estas la plej malfacile
+        ellernebla lingvo</lok></fnt>;
+      </ekz>
+      <ekz>
+        &gcirc;is<tld/>a esperantisto eniras televidil-vendejon kaj
+        demandas: &Ccirc;u estas &ccirc;e Vi koloraj televidiloj
+        <fnt>
+        <aut>M. Zdankowski</aut>
+        <vrk>Re: Anekdoto de l' tago</vrk>
+        <lok>soc.culture.esperanto, 1999-03-29</lok>
+        </fnt>?
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="radika.0a.radika">radikala<sncref/></ref>
+    </refgrp>
+    <trdgrp lng="ca">
+      <trd>ferm</trd>,
+      <trd>obstinat</trd>,
+      <trd>ac&egrave;rrim</trd>
+    </trdgrp>
+    <trd lng="en">to the bone</trd>
+    <trdgrp lng="es">
+      <trd>idea fija</trd>,
+      <trd>radical <klr tip="amb"> (frase hecha)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>jusqu'au-boutiste<klr> (adj.)</klr></trd>,
+      <trd>radical</trd>
+      <trd>visc&eacute;ral</trd>
+    </trdgrp>
+    <trdgrp lng="it">
+      <trd>irriducibile</trd>, 
+      <trd>fino al <ind>midollo</ind><klr> (inveterato)</klr></trd>,
+      <trd>convinto<klr> (irriducibile)</klr></trd>,
+      <trd>inveterato<klr> (ostinato sino in fondo)</klr></trd>,
+      <trd>acerrimo</trd>,
+      <trd>incallito</trd>,
+      <trd>viscerale<klr> (fig.)</klr></trd>,
+    </trdgrp>
+    <trdgrp lng="nl">
+      <trd>overtuigd</trd>,
+      <trd>radicaal</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_u;&c_b;&c_je;&c_zh;&c_d;&c_jo;&c_n;&c_n;&c_y;&c_j; &c_d;&c_o; &c_m;&c_o;&c_z;&c_g;&c_a; &c_k;&c_o;&c_s;&c_t;&c_je;&c_j;</trd>
+    </trdgrp>
+  </snc>
+</drv>
+
+<drv mrk="ost.vang0o">
+  <kap>vang<tld/>o</kap>
+  <snc mrk="ost.vang0o.ANA">
+    <uzo tip="fak">ANA</uzo>
+    <dif>
+      Arka <tld/>o, kiu formas la supran, elstaran
+      parton de vango, ekstere videbla kiel
+      <ref tip="vid" cel="vang.puf0eto.ANA">pufvangeto</ref>:
+      <ekz>
+        li finfine ekvidis sian patron en kompanio de
+        <klr>...</klr> tri vang<tld/>aj vaguloj
+        en &scirc;iritaj &ccirc;apeloj
+        <fnt>
+          <aut>A. Grin, trad. J. Finkel</aut>,
+          <vrk><url ref="http://www.esperanto.mv.ru/Grin/vojo.html">
+          La vojo nenien</url></vrk>,
+          <lok>2008</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">lícní kost</trd>
+  <trdgrp lng="fr">
+    <trd>pommette</trd>,
+    <trd>os jugal</trd>,
+    <trd>os malaire</trd>
+  </trdgrp>
+  <trd lng="sk">lícna kosť</trd>
+</drv>
+</art>
+<!--
+$Log: ost.xml,v $
+Revision 1.37  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.36  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.35  2014/12/23 17:10:13  revo
+Jeromo Vasxe: gxis~a kor trd fr, + ref
+
+Revision 1.34  2013/09/02 19:10:14  revo
+Agustin Garcia Lopez: +trd(es) gxis-
+
+Revision 1.33  2012/01/04 14:10:09  revo
+Jeromo Vasxe: + vang~o
+
+Revision 1.32  2012/01/02 18:10:36  revo
+Marc Rausell: +trd ca
+
+Revision 1.31  2009/10/15 16:33:17  revo
+Paul Peeraerts: +nl
+
+Revision 1.30  2009/03/24 17:30:43  revo
+Antonio Codazzi: gxis~a: ++trd it
+
+Revision 1.29  2009/03/23 17:30:25  revo
+Antonio Codazzi: +trd it
+
+Revision 1.28  2009/03/20 17:30:27  revo
+-->
+</vortaro>

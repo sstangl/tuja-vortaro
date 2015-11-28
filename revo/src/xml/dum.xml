@@ -1,0 +1,348 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: dum.xml,v 1.25 2011/04/30 20:10:16 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>dum</rad> <fnt><bib>PV</bib></fnt>
+</kap>
+<subart>
+  <drv mrk="dum.0">
+    <kap><ofc>*</ofc><tld/></kap>
+    <subdrv>
+      <dif>
+        Prepozicio signifanta:
+      </dif>
+      <snc mrk="dum.0.prep">
+        <dif>
+          En la tempo, en kies da&ubreve;ro io okazas:
+        </dif>
+        <ekz>
+          fleksu arbon <tld/> &gcirc;ia juneco
+          <fnt><bib>PrV</bib></fnt>;
+        </ekz>
+        <ekz>
+          <tld/> la man&gcirc;ado venas apetito
+          <fnt><bib>PrV</bib></fnt>;
+        </ekz>
+        <ekz>
+          <tld/> la parolado li dormis.
+        </ekz>
+        <refgrp tip="vid">
+          <ref cel="cxe.0.en_tempo_de">&ccirc;e <sncref/></ref>,
+          <ref cel="en.0.kiam">en <sncref/></ref>.
+        </refgrp>
+        <trd lng="be">&c_n;&c_a; &c_p;&c_r;&c_a;&c_c;&c_ja;&c_g;&c_u;</trd>
+        <trd lng="de">w&auml;hrend</trd>
+        <trdgrp lng="fr">
+          <trd>pendant<klr tip="ind"> (durant)</klr></trd>,
+          <trd>durant<klr tip="ind"> (pendant)</klr></trd>
+        </trdgrp>
+        <trdgrp lng="hu">
+          <trd>alatt<klr tip="ind"> (id&odblac;ben)</klr></trd>,
+          <trd>k&ouml;zben<klr tip="ind"> (id&odblac;ben)</klr></trd>
+        </trdgrp>
+        <trd lng="pl">gdy</trd>
+        <trd lng="pt">durante</trd>
+        <trd lng="ru">&c_v; &c_t;&c_je;&c_ch;&c_je;&c_n;&c_i;&c_je;</trd>
+        <trd lng="sv">under<klr> (om tid)</klr></trd>
+      </snc>
+    </subdrv>
+    <subdrv>
+      <dif>
+        Subordiga konjunkcio signifanta:
+      </dif>
+      <snc mrk="dum.0.konj_temp">
+        <dif>
+          En la tempo, kiam:
+          <ekz>
+            for&gcirc;u feron, <tld/> &gcirc;i estas varmega
+            <fnt><bib>PrV</bib></fnt>;
+          </ekz>
+          <ekz>
+            <tld/> vi estos feli&ccirc;aj, vi havos multajn amikojn;
+          </ekz>
+          <ekz>
+            <tld/> vi paroladis, li dormis.
+          </ekz>
+        </dif>
+        <rim>
+          Kelkaj uzas en tiu senco <em>dum kiam</em>, kio estas senutila
+          nekonsilinda ta&ubreve;tologio.
+        </rim>
+        <trdgrp lng="de">
+          <trd>solange</trd>, <trd>w&auml;hrend</trd>
+        </trdgrp>
+        <trdgrp lng="fr">
+          <trd>alors que<klr tip="ind"> (lorsque)</klr></trd>,
+          <trd>cependant que</trd>,
+          <trd>lorsque</trd>,
+          <trd>pendant que</trd>
+        </trdgrp>
+        <trdgrp lng="hu">
+          <trd>m&iacute;g<klr tip="ind">
+          (k&ouml;t&odblac;sz&oacute;)</klr></trd>,
+          <trd>ameddig<klr tip="ind">
+          (k&ouml;t&odblac;sz&oacute;)</klr></trd>
+        </trdgrp>
+        <trd lng="pl">podczas gdy</trd>
+        <trd lng="ro">&icirc;n timp ce</trd>
+      </snc>
+      <snc mrk="dum.0.konj_kontrast">
+        <dif>
+          Kontraste kun tio, ke:
+          <ekz>
+            vi estas juna, <tld/> mi estas maljuna;
+          </ekz>
+          <ekz>
+            <tld/> Esperanto da&ubreve;re vivas, Volap&uuml;k jam longe
+            estas
+            mortinta<fnt>Z</fnt>;
+          </ekz>
+          <ekz>
+            <tld/> la naciaj lingvoj estas rigidaj, Esperanto
+            kontra&ubreve;e estas senfine fleksebla.
+          </ekz>
+        </dif>
+        <refgrp tip="vid">
+          <ref cel="cxe.0.malgraux">&ccirc;e <sncref/></ref>,
+          <ref cel="kontraux.0e">kontra&ubreve;e</ref>,
+          <ref cel="sed">sed</ref>.
+        </refgrp>
+        <rim>
+          Kelkaj uzas en tiu senco <em>dum ke</em>, kio estas iom duba
+          esprimo.
+        </rim>
+        <trdgrp lng="fr">
+          <trd>alors que<klr tip="ind"> (tandis que)</klr></trd>,
+          <trd>tandis que</trd>
+        </trdgrp>
+        <trdgrp lng="hu">
+          <trd>ellenben</trd>,
+          <trd>addig<klr tip="ind"> (ellenben)</klr></trd>
+        </trdgrp>
+      </snc>
+      <trdgrp lng="be">
+        <trd>&c_p;&c_a;&c_k;&c_u;&c_l;&c_mol;</trd>,
+        <trd>&c_u; &c_t;&c_o;&c_j; &c_ch;&c_a;&c_s; &c_ja;&c_k;</trd>
+      </trdgrp>
+      <trd lng="de">w&auml;hrend</trd>
+      <trd lng="es">mientras</trd>
+      <trdgrp lng="pl">
+        <trd>gdy</trd>,
+        <trd>podczas gdy</trd>
+      </trdgrp>
+      <trdgrp lng="pt">
+        <trd>enquanto<klr tip="ind"> (ao passo que)</klr></trd>,
+        <trd>ao <ind>passo</ind> que</trd>
+      </trdgrp>
+      <trd lng="ro">&icirc;n timp ce</trd>
+      <trd lng="ru">&c_v; &c_t;&c_o; &c_v;&c_r;&c_je;&c_m;&c_ja;
+      &c_k;&c_a;&c_k;</trd>
+      <trd lng="sv">medan</trd>
+    </subdrv>
+  </drv>
+</subart>
+
+<subart>
+  <dif>
+    Vortero kun la senco
+    <ref cel="dum.0.prep"><tld/> <sncref/></ref>
+    a&ubreve; <ref cel="dum.0.konj_kontrast"><sncref/></ref>:
+  </dif>
+  <drv mrk="dum.0a">
+    <kap><tld/>a<fnt>Z</fnt></kap>
+    <snc>
+      <dif>
+        Samtempa.
+      </dif>
+      <trd lng="be">&c_a;&c_d;&c_n;&c_a;&c_ch;&c_a;&c_s;&c_n;&c_y;</trd>
+      <trd lng="hu">egyidej&udblac;</trd>
+      <trd lng="pt">simult&acirc;neo<klr tip="ind"> (adj.)</klr></trd>
+    </snc>
+    <snc>
+      <dif>
+        Provizora, intertempa, &gcirc;isa.
+      </dif>
+      <trd lng="be">&c_ch;&c_a;&c_s;&c_o;&c_v;&c_y;</trd>
+      <trdgrp lng="hu">
+        <trd>ideiglenes</trd>,
+        <trd>&aacute;tmeneti</trd>
+      </trdgrp>
+      <trd lng="pl">tymczasowy</trd>
+      <trd lng="pt">provis&oacute;rio<klr tip="ind"> (adj.)</klr></trd>
+    </snc>
+  </drv>
+  <drv mrk="dum.0e">
+    <kap><ofc>*</ofc><tld/>e</kap>
+    <snc mrk="dum.0e.kiam">
+      <dif>
+        <tld lit="D"/> tiu tempo,
+        <ref tip="vid" cel="temp.inter0e.KOMUNE">intertempe</ref>,
+        <ref tip="vid" cel="dum.inter0e.KOMUNE">inter<tld/>e</ref>:
+        <ekz>
+          ili sin pretigis, ni <tld/>e babilis;
+        </ekz>
+        <ekz>
+          <tld/>e oni alvenis al la man&gcirc;ejo<fnt>Z</fnt>.
+        </ekz>
+      </dif>
+      <trd lng="be">&c_t;&c_y;&c_m; &c_ch;&c_a;&c_s;&c_a;&c_m;</trd>
+      <trdgrp lng="de">
+        <trd>w&auml;hrenddessen</trd>,
+        <trd>unterdessen</trd>,
+        <trd>derweilen</trd>,
+        <trd>derweil</trd>
+      </trdgrp>
+      <trdgrp lng="fr">
+        <trd>cependant<klr tip="ind"> (pendant ce temps)</klr></trd>,
+        <trd>entre temps</trd>,
+        <trd>pendant ce temps</trd>
+      </trdgrp>
+      <trdgrp lng="hu">
+        <trd>ek&ouml;zben</trd>,
+        <trd>ezalatt</trd>,
+        <trd>ak&ouml;zben</trd>,
+        <trd>azalatt</trd>
+      </trdgrp>
+      <trd lng="pt">simultaneamente<klr tip="ind"> (adv.)</klr></trd>
+      <trd lng="ru">&c_t;&c_je;&c_m;
+      &c_v;&c_r;&c_je;&c_m;&c_je;&c_n;&c_je;&c_m;</trd>
+    </snc>
+    <snc mrk="dum.0e.provizore">
+      <dif>
+        Provizore, &gcirc;ise:
+        <ekz>
+          ni <tld/>e lasu flanke tiun demandon<fnt>Z</fnt>;
+        </ekz>
+        <ekz>
+          estas pli prudente akcepti <tld/>e la lingvon en &gcirc;ia
+          nuna formo<fnt>Z</fnt>.
+        </ekz>
+      </dif>
+      <trdgrp lng="be">
+        <trd>&c_ch;&c_a;&c_s;&c_o;&c_v;&c_a;</trd>,
+        <trd>&c_p;&c_a;&c_k;&c_u;&c_l;&c_mol;</trd>
+      </trdgrp>
+      <trdgrp lng="de">
+        <trd>zun&auml;chst</trd>,
+        <trd>erstmal</trd>
+      </trdgrp>
+      <trd lng="fr">pour l'<ind>instant</ind></trd>
+      <trd lng="hu">egyel&odblac;re</trd>
+      <trdgrp lng="pl">
+        <trd>na razie</trd>,
+        <trd>tymczasem</trd>
+      </trdgrp>
+      <trd lng="pt">provisoriamente<klr tip="ind"> (adv.)</klr></trd>
+      <trd lng="ru">&c_p;&c_o;&c_k;&c_a;</trd>
+    </snc>
+    <snc mrk="dum.0e.kontraste">
+      <dif>
+        Kontraste kun tio; kontra&ubreve;e; malgra&ubreve;e; tamen:
+        <ekz>
+          principoj kaj postuloj pu&scirc;is kaj malhelpis unu la alian,
+          <tld/>e
+          en la teorio ili &scirc;ajnis al mi tute bonaj<fnt>Z</fnt>;
+        </ekz>
+        <ekz>
+          <tld/>e lingvo arta, anstata&ubreve; tiu &hcirc;aoso, donas
+          al vi sole nur ses vortetojn
+          <fnt><bib>EE</bib></fnt>.
+        </ekz>
+      </dif>
+      <rim>
+        Estas malkorekta kaj nepre evitinda la uzado de la adverbo
+        <em>dume</em>
+        en la senco de la konjunkcio <em>dum</em>.
+      </rim>
+      <adm>
+        La rimarko estas kripta. &Gcirc;i ver&scirc;ajne rilatas al la
+        unua ekz-o, en kiu eblus kompreni "~e" kiel konjunkcion. Tio
+        meritas
+        pliajn klarigojn. <aut>MB</aut>
+      </adm>
+      <trd lng="be">&c_t;&c_a;&c_d;&c_y; &c_ja;&c_k;</trd>
+      <trdgrp lng="fr">
+        <trd>cependant<klr tip="ind"> (toutefois)</klr></trd>,
+        <trd>en <ind>revanche</ind></trd>,
+        <trd>pourtant</trd>,
+        <trd>toutefois</trd>
+      </trdgrp>
+      <trd lng="hu">ellenben</trd>
+      <trd lng="ru">&c_t;&c_o;&c_g;&c_d;&c_a; &c_k;&c_a;&c_k;</trd>
+    </snc>
+    <trdgrp lng="cs">
+      <trd>zat&iacute;m</trd>,
+      <trd>mezit&iacute;m</trd>
+    </trdgrp>
+    <trd lng="es">mientras</trd>
+  </drv>
+  <drv mrk="dum.inter0e">
+    <kap>inter<tld/>e</kap>
+    <uzo tip="stl">RAR</uzo>
+    <snc mrk="dum.inter0e.KOMUNE">
+      <ref tip="dif" cel="temp.inter0e.KOMUNE">intertempe</ref>
+      <ekz>
+        inter<tld/>e Gab&ccirc;jo nerimarkeble malfermis sian historilibron
+        kaj 
+        duonokule kun granda plezuro rigardadas  
+        <fnt>
+          <aut>F. Karinthy, trad. J. Farkas</aut>,
+          <vrk><url
+          ref="http://donh.best.vwh.net/Esperanto/Literaturo/Revuoj/nlr/nlr23/instruas_filetonu.html">
+          Mi instruas mian fileton</url></vrk>,
+          <lok>Nica Literatura Revuo, 1957-01 &gcirc;is 02, numero 2/3, p.
+          83a-86a</lok>
+        </fnt>.
+      </ekz>
+    </snc>
+    <trd lng="fr">cependant<klr tip="ind"> (pendant ce
+    temps)</klr></trd>
+  </drv>
+  
+</subart>
+
+<subart>
+  <dif>
+    Prefikso kun la senco
+    <ref cel="dum.0.prep"><tld/> <sncref/></ref>:
+  </dif>
+  <snc mrk="dum.0.pref">
+    <ekz>
+      <tld/>viva membro, rento;
+    </ekz>
+    <ekz>
+      <tld/>nokta irado.
+    </ekz>
+  </snc>
+  <trd lng="de"><klr>-</klr>lang</trd>
+</subart>
+</art>
+<!--
+$Log: dum.xml,v $
+Revision 1.25  2011/04/30 20:10:16  revo
+Jeromo Vasxe: + inter~e
+
+Revision 1.24  2010/11/01 17:30:20  revo
+Jerano Zachrisson: +trd sv
+
+Revision 1.23  2007/12/26 17:30:28  revo
+Marc Bavant: reaperigo de sncref
+
+Revision 1.22 2007/06/24 16:30:57 revo
+Luiz Portella: +6trd pt
+
+Revision 1.21 2006/02/24 17:33:04 revo
+Vito Redsky: +trd pl +trd ro
+
+Revision 1.20 2004/07/17 18:19:03 revo
+Marc Bavant: konformigis al la kutima strukturo de prepoziciaj
+artikoloj; mod mrk; kor ref al prepozicioj cxe, en; precizigis
+"konjunkcio"
+
+Revision 1.19 2004/07/15 19:03:40 revo
+Jeromo Vasxe: + mrk, preciz. 2 ref.
+-->
+</vortaro>

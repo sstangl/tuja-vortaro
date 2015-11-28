@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: alel.xml,v 1.4 2013/03/30 14:10:18 revo Exp $">
+<kap>
+  <rad>alel</rad>/o <fnt><bib>PIV2</bib></fnt>  
+</kap>
+<drv mrk="alel.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="alel.0o.GNT">
+    <uzo tip="fak">FIZL</uzo>
+    <dif>
+      <ref tip="vid" cel="gen.0o.GNT">Geno</ref>varia&jcirc;o,
+      kiu en kromosomo de sama specio povas okupi saman lokon,
+      kiel alia varia&jcirc;o:
+      <ekz>
+        &gcirc;enerale, nova <tld/>o krei&gcirc;as per mutacio
+        <fnt>
+          <aut>F. Tschudy</aut>,
+          <vrk><url
+          ref="http://www.freeweb.hu/eventoj/steb/biologio/mutacio.pdf">
+          Mutacioj</url></vrk>,
+          <lok>2005</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        okulfrape estas, ke en areoj de malario la serpo&ccirc;ela <tld/>o 
+        estas relative ofta
+        <fnt>
+          <bib>Viki</bib>,
+          <lok><url
+          ref="http://eo.wikipedia.org/wiki/Serpo%C4%89ela_anemio">
+          serpo&ccirc;ela anemio</url>, 2010-08-23</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_a;&c_l;&c_je;&c_l;&c_mol;</trd>
+  <trd lng="es">alelo</trd> 
+  <trd lng="fr">all&egrave;le</trd>
+  <trd lng="it">allele</trd>
+</drv>
+</art>
+
+<!--
+$Log: alel.xml,v $
+Revision 1.4  2013/03/30 14:10:18  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.3  2011/08/25 20:10:08  revo
+Carlos Garcia: +trd es
+
+Revision 1.2  2010/11/05 17:30:19  revo
+Antonio Codazzi: +trd it
+
+Revision 1.1  2010/09/25 16:30:18  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

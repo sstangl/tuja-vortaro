@@ -1,0 +1,193 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: ambigu.xml,v 1.7 2015/07/04 08:37:30 revo Exp $">
+<kap>
+  <rad>ambigu</rad>/a <fnt><bib>PIV1</bib></fnt>
+</kap>
+
+<drv mrk="ambigu.0a">
+  <kap><tld/>a</kap>
+  <uzo tip="stl">RAR</uzo>
+  <snc mrk="ambigu.0a.LIN">
+    <uzo tip="fak">BELE</uzo>
+    <uzo tip="fak">LIN</uzo>
+    <dif>
+      Tiel plursenca a&ubreve; dubiga, ke oni povas &gcirc;in interpreti a&ubreve; kompreni
+      diversmaniere.
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="klar.mal0a">malklara</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>dvojsmyslný</trd>,
+    <trd>obojaký</trd>,
+    <trd>obojetný</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>zweideutig</trd>,
+    <trd>mehrdeutig</trd>
+  </trdgrp>
+  <trd lng="es">ambiguo</trd>
+  <trd lng="fr">ambigu</trd>
+  <trdgrp lng="hu">
+    <trd>k&eacute;tes</trd>,
+    <trd>k&eacute;t&eacute;rtelm&udblac;</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_d;&c_v;&c_u;&c_s;&c_m;&c_y;&c_s;&c_l;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>,
+    <trd>&c_d;&c_v;&c_u;&c_z;&c_n;&c_a;&c_ch;&c_n;&c_y;&c_j;</trd>,
+    <trd>&c_n;&c_je;&c_ja;&c_s;&c_n;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>dvojzmyselný</trd>,
+    <trd>obojaký</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="ambigu.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="stl">RAR</uzo>
+  <snc mrk="ambigu.0o.LIN">
+    <dif>
+      Eco de tio, kio malprecize ricevas sencon, interpreton a&ubreve; solvon:
+      <ekz>
+        ellaso de vorto kreus <tld/>on
+        <fnt>
+          <aut>R. Dalton</aut>,
+          <vrk>Re: Opinions on Esperanto phrase</vrk>,
+          <lok>soc.culture.esperanto, 2002-03-10</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="de">
+    <trd>Zweideutigkeit</trd>,
+    <trd>Mehrdeutigkeit</trd>
+  </trdgrp>
+  <trd lng="es">ambig&uuml;edad</trd>
+  <trdgrp lng="fr">
+    <trd>ambig&uuml;it&eacute;</trd>,
+    <trd>ambigu&iuml;t&eacute;</trd>
+  </trdgrp>
+  <trd lng="hu">k&eacute;t&eacute;rtelm&udblac;s&eacute;g</trd>
+  <trdgrp lng="ru">
+    <trd>&c_d;&c_v;&c_u;&c_s;&c_m;&c_y;&c_s;&c_l;&c_je;&c_n;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>,
+    <trd>&c_d;&c_v;&c_u;&c_z;&c_n;&c_a;&c_ch;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>,
+    <trd>&c_n;&c_je;&c_ja;&c_s;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="ambigu.0eco">
+  <kap><tld/>eco</kap>
+  <uzo tip="stl">RAR</uzo>
+  <ref tip="dif" cel="ambigu.0o"><tld/>o</ref>
+  <ekz>
+    poemo <klr>...</klr> kun nuanco de pensiga <tld/>eco a&ubreve;
+    simbolismo
+    <fnt>
+      <bib>Plumamikoj</bib>,
+      <lok>esperanta poezio: mirakla rikolto</lok>
+    </fnt>.
+  </ekz>
+  <trdgrp lng="de">
+    <trd>Zweideutigkeit</trd>,
+    <trd>Mehrdeutigkeit</trd>
+  </trdgrp>
+  <trd lng="es">ambig&uuml;edad</trd>
+  <trdgrp lng="fr">
+    <trd>ambig&uuml;it&eacute;</trd>,
+    <trd>ambigu&iuml;t&eacute;</trd>
+  </trdgrp>
+  <trd lng="hu">k&eacute;t&eacute;rtelm&udblac;s&eacute;g</trd>
+  <trdgrp lng="ru">
+    <trd>&c_d;&c_v;&c_u;&c_s;&c_m;&c_y;&c_s;&c_l;&c_je;&c_n;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>,
+    <trd>&c_d;&c_v;&c_u;&c_z;&c_n;&c_a;&c_ch;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>,
+    <trd>&c_n;&c_je;&c_ja;&c_s;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="sk">dvojznačnosť</trd>
+  <trd lng="cs">dvojznačnost</trd>
+</drv>
+
+<drv mrk="ambigu.mal0igi">
+  <kap>mal<tld/>igi</kap>
+  <gra><vspec>tr</vspec></gra>
+  <uzo tip="stl">RAR</uzo>
+  <ref tip="dif" cel="ambigu.sen0igi.LIN">sen<tld/>igi</ref>
+  <ekz>
+    mal<tld/>igi la frazon jene: &leftquot;La akcepton &ccirc;eestis &ccirc;iuj ambasadoroj,
+    &ccirc;iu el ili kun sia edzino&rightquot;
+    <fnt>
+      <aut>E. Fabian</aut>,
+      <vrk>Re: pluralo kun korpoparto?</vrk>,
+      <lok>soc.culture.esperanto, 1999-12-09</lok>
+    </fnt>.
+  </ekz>
+  <trdgrp lng="fr">
+    <trd>d&eacute;sambigu&iuml;ser</trd>,
+    <trd>d&eacute;sambig&uuml;iser</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>egy&eacute;rtelm&udblac;s&iacute;t</trd>,
+    <trd>egy&eacute;rtelm&udblac;v&eacute; tesz</trd>
+  </trdgrp>
+  <trd lng="ru">&c_u;&c_s;&c_t;&c_r;&c_a;&c_n;&c_i;&c_t;&c_mol; &c_d;&c_v;&c_u;&c_s;&c_m;&c_y;&c_s;&c_l;&c_je;&c_n;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
+</drv>
+
+<drv mrk="ambigu.sen0igi">
+  <kap>sen<tld/>igi</kap>
+  <gra><vspec>tr</vspec></gra>
+  <uzo tip="stl">RAR</uzo>
+  <snc mrk="ambigu.sen0igi.LIN">
+    <uzo tip="fak">LIN</uzo>
+    <dif>
+      Pliklarigi forigante <tld/>ojn:
+      <ekz>
+        sen<tld/>igi la frazojn kie la dependa vorto estas akuzativa
+        <fnt>
+          <aut>S. Pokrovksij</aut>,
+          <vrk>Re: Mia propono [lingvo]</vrk>,
+          <lok>soc.culture.esperanto, 2004-04-20</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="fr">
+    <trd>d&eacute;sambigu&iuml;ser</trd>,
+    <trd>d&eacute;sambig&uuml;iser</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>egy&eacute;rtelm&udblac;s&iacute;t</trd>,
+    <trd>egy&eacute;rtelm&udblac;v&eacute; tesz</trd>
+  </trdgrp>  
+  <trd lng="ru">&c_u;&c_s;&c_t;&c_r;&c_a;&c_n;&c_i;&c_t;&c_mol; &c_d;&c_v;&c_u;&c_s;&c_m;&c_y;&c_s;&c_l;&c_je;&c_n;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
+</drv>
+</art>
+
+<!--
+$Log: ambigu.xml,v $
+Revision 1.7  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.6  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.5  2008/04/24 17:20:29  revo
+Miguel Hernandez: +trd es
+
+Revision 1.4  2007/05/10 16:30:26  revo
+Wieland Pusch: +trd de
+
+Revision 1.3  2007/03/06 17:31:44  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.2  2005/04/27 16:31:58  revo
+Yury Finkel: +trd ru
+
+Revision 1.1  2005/03/28 17:16:19  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

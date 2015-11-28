@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: aristo2.xml,v 1.18 2013/08/26 09:10:24 revo Exp $">
+<kap>
+  <rad>aristoloki</rad>/o
+</kap>
+<drv mrk="aristo2.0o">
+  <kap>
+    <tld/>o
+  </kap>
+  <uzo tip="fak">BOT</uzo>
+  <snc>
+    <dif>
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:botanikaj_genroj">Genro</ref> el familio <ref
+      tip="malprt" cel="aristo3.0oj"><tld/>acoj</ref>
+      (<trd lng="la">Aristolochia</trd>), kun grimpantaj tigoj.
+    </dif>
+  </snc>
+  <trdgrp lng="de">
+    <trd>Osterluzei</trd>,
+    <trd>Pfeiffenblume</trd>
+  </trdgrp>
+  <trd lng="en">clematis</trd>
+  <trd lng="fr">aristoloche</trd>
+  <trd lng="hu">farkasalma</trd>
+  <trdgrp lng="ru">
+    <trd>&c_k;&c_i;&c_r;&c_k;&c_a;&c_z;&c_o;&c_n;</trd>,
+    <trd>&c_k;&c_o;&c_k;&c_o;&c_r;&c_n;&c_i;&c_k;</trd>
+  </trdgrp>
+  <trd lng="sv">pipranka</trd>
+</drv>
+</art>
+<!--
+$Log: aristo2.xml,v $
+Revision 1.18  2013/08/26 09:10:24  revo
+Wolfram Diestel: referenco al listoj bot genro
+
+Revision 1.17  2002/10/29 18:01:11  revo
+Christopher Zervic: + ang
+
+Revision 1.16  2001/11/15 19:13:26  revo
+Yury Finkel: reformatigis
+
+Revision 1.15  2001/08/23 18:49:27  revo
+Jerano Zachrisson: +trd sv
+
+Revision 1.14  2001/08/22 18:14:45  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.13  2001/04/17 15:31:54  revo
+aristo2.0acoj -> aristo3.0oj
+
+Revision 1.12  2001/04/17 15:30:17  revo
+shovis aristo2.0acoj al aristo3.0oj
+
+Revision 1.11  2000/11/30 12:45:35  revo
+-->
+</vortaro>

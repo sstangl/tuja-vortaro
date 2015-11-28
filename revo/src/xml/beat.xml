@@ -1,0 +1,143 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: beat.xml,v 1.16 2015/07/04 08:37:31 revo Exp $">
+<kap>
+  <rad>beat</rad>/a
+</kap>
+<drv mrk="beat.0a">
+  <kap><tld/>a</kap>
+  <snc>
+    <dif>
+      Feli&ccirc;ega 1.
+    </dif>
+    <trd lng="ca">benaurat</trd>
+    <trd lng="es">beato</trd>
+    <trd lng="fr">b&eacute;at</trd>
+    <trd lng="hu">&uuml;dv&ouml;z&uuml;lt<klr tip="amb"> (boldog)</klr>
+    </trd>
+    <trd lng="it">beato<klr> (agg.)</klr></trd>
+    <trd lng="pl">b&lstroke;ogi</trd>
+    <trdgrp lng="ru">
+      <trd>&c_b;&c_l;&c_a;&c_zh;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>,
+      <trd>&c_s;&c_ch;&c_a;&c_s;&c_t;&c_l;&c_i;&c_v;&c_y;&c_j;</trd>,
+      <trd>&c_b;&c_je;&c_z;&c_m;&c_ja;&c_t;&c_je;&c_zh;&c_n;&c_y;&c_j;
+      </trd>
+    </trdgrp>
+  </snc>
+  <snc>
+    <uzo tip="fak">KAT</uzo>
+    <dif>
+      Solene proklamita de la Eklezio kiel preska&ubreve;sanktulo:
+      <ekz>
+        la papo deklaris Johanon 23an <tld/>a<fnt><aut>Gerrit
+        Berveling</aut>: <vrk>Pri la dokumento &leftquot;Dominus Iesus
+        &rightquot; de
+        Vatikano</vrk>, <bib>Monato</bib><lok>jaro 2000a, numero 11a, p.
+        18a</lok></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="ca">beatificat</trd>
+    <trd lng="de">selig</trd>
+    <trd lng="fr">bienheureux<klr> (adj.)</klr></trd>
+    <trd lng="hu">boldog</trd>
+    <trdgrp lng="it">
+      <trd>beato<klr> (beatificato)</klr></trd>,
+      <trd>beatificato</trd>
+    </trdgrp>
+    <trd lng="pl">b&lstroke;ogos&lstroke;awiony</trd>
+    <trd lng="ru">&c_b;&c_l;&c_a;&c_zh;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>
+  </snc>
+  <trd lng="ca">beat <klr>(adj.)</klr></trd>
+  <trdgrp lng="cs">
+    <trd>blažený</trd>,
+    <trd>přešťastný</trd>
+  </trdgrp>
+  <trd lng="en">beatified</trd>
+  <trdgrp lng="sk">
+    <trd>blahoslavený</trd>,
+    <trd>blažený</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="beat.0igo">
+  <kap><tld/>igo</kap>
+  <uzo tip="fak">KAT</uzo>
+  <snc>
+    <dif>
+      Validigo kaj proklamo de ies <tld/>eco:
+      <ekz>
+        proceso de <tld/>igo &ccirc;e Vatikano<fnt><aut>Augusto Casquero
+        </aut>:
+        <vrk>2002 - Internacia jaro de Antoni Gaud&iacute;</vrk>,
+        <bib>Monato</bib><lok>jaro 2002a, numero 6a, p. 18a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="ca">beatificaci&oacute;</trd>
+  <trdgrp lng="cs">
+    <trd>beatifikace</trd>,
+    <trd>blahořečení</trd>
+  </trdgrp>
+  <trd lng="en">beatification</trd>
+  <trdgrp lng="fr">
+    <trd>b&eacute;atification</trd>
+  </trdgrp>
+  <trd lng="it">beatificazione</trd>
+  <trd lng="pl">beatyfikacja</trd>
+  <trd lng="ru">
+  &c_b;&c_je;&c_a;&c_t;&c_i;&c_f;&c_i;&c_k;&c_a;&c_c;&c_i;&c_ja;</trd>
+  <trd lng="sk">beatifikácia</trd>
+</drv>
+
+<drv mrk="beat.0ulo">
+  <kap><tld/>ulo</kap>
+  <uzo tip="fak">KAT</uzo>
+  <snc>
+    <dif>
+      Agnoskita preska&ubreve;sanktulo.
+    </dif>
+  </snc>
+  <trd lng="ca">beat <klr>(subst.)</klr></trd>
+  <trd lng="en">beatus</trd>
+  <trdgrp lng="fr">
+    <trd>bienheureux<klr> (subst.)</klr></trd>
+  </trdgrp>
+  <trd lng="it">beato<klr> (sost.)</klr></trd>
+  <trd lng="pl">b&lstroke;ogos&lstroke;awiony</trd>
+  <trd lng="ru">&c_b;&c_l;&c_a;&c_zh;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>
+</drv>
+</art>
+<!--
+$Log: beat.xml,v $
+Revision 1.16  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:29:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.14  2011/12/07 13:10:12  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.13  2010/10/25 16:30:31  revo
+Antonio Codazzi: +trd it
+
+Revision 1.12  2007/11/14 17:30:20  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.11  2006/07/30 16:32:59  revo
+Wieland Pusch: +trd de
+
+Revision 1.10  2005/03/06 17:38:14  revo
+Yury Finkel: +trd ru
+
+Revision 1.9  2002/11/12 17:31:29  revo
+Christopher Zervic: + ang
+
+Revision 1.8  2002/10/10 16:47:07  revo
+Jeromo Vasxe: + ~igo ~ulo, + ekz
+
+Revision 1.7 2002/08/02 10:14:10 revo
+-->
+</vortaro>

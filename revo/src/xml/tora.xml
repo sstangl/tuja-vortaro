@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+  <art mrk="$Id: tora.xml,v 1.14 2015/07/04 08:37:45 revo Exp $">
+    <kap>
+      <rad>Tora</rad>/o <fnt><bib>PIV1</bib></fnt>
+    </kap>
+    <drv mrk="tora.0o">
+      <kap><tld/>o</kap>
+      <uzo tip="fak">BIB</uzo>
+      <uzo tip="fak">REL</uzo>
+      <snc>
+        <dif>
+          La kuna nomo de la unuaj kvin libroj de
+          <ref tip="malprt" cel="bibli.0o">Biblio</ref>, tradicie
+          atribuataj al Moseo, kaj kies enhavon oni nomas la
+          (Mosea) Le&gcirc;o
+          <klr>(hebree <em>torah</em> signifas
+          <ctl>le&gcirc;o</ctl>)</klr>:
+          <ekz>
+            je la 8a de Tebet', kiam <tld/>o i&gcirc;is tradukita en la
+            grekan sub re&gcirc;o Ptolemeo, mallumo falis sur la mondon
+            kaj da&ubreve;ris tri tagojn
+            <fnt>
+              <aut>S. Pokrovskij</aut>:
+              <vrk>Slavonaj skriboj</vrk>,
+              <bib>LOdE</bib>, <lok>1999:2 (52)</lok>
+            </fnt>.
+          </ekz><ekz>
+            Hilel tiel difinis la kvintesencon de la <tld/>o:
+            <ctl>Amu vian proksimulon kiel vin mem; &ccirc;io
+              cetera estas nura komentario</ctl>
+            <fnt>
+              <aut>T. L&ouml;wenkopf</aut>:
+              <lok><url
+              ref="http://www.geocities.com/Athens/Cyprus/5318/8/Israelo.html">
+              Israelo &#8208; lando kaj popolo</url></lok>.</fnt>.
+          </ekz>
+        </dif>
+        <rim>
+          Por Esperanto la vorto estas nomo propra, tial oni ne uzu la
+          artikolon.  A&ubreve; oni diru <ctl>la Le&gcirc;o</ctl>.
+          <aut>Sergio Pokrovskij</aut>
+        </rim>
+      </snc>
+  <trd
+      lng="grc">&Pi;&epsilon;&ny;&tau;&alfa_acute;&tau;&epsilon;&ypsilon;&chi;&omikron;&sigma_fina;</trd>
+  <trdgrp lng="be">
+        <trd>&c_T;&c_o;&c_r;&c_a;</trd>,
+        <trd>&c_P;&c_ja;&c_c;&c_ib;&c_k;&c_n;&c_ib;&c_zh;&c_zh;&c_a;</trd>
+      </trdgrp>
+  <trdgrp lng="ca">
+        <trd>Tor&agrave;</trd>,
+        <trd>Pentateuc</trd>
+      </trdgrp>
+  <trd lng="cs">pět knih Mojžíšových</trd>
+  <trdgrp lng="de">
+         <trd>Thora</trd>,
+         <trd>Tora</trd>
+      </trdgrp>
+  <trd lng="en">Pentateuch</trd>
+  <trd lng="es">Pentateuco</trd>
+  <trd lng="fr">Torah</trd>
+  <trd lng="hu">t&oacute;ra</trd>
+  <trd lng="nl">Thora</trd>
+  <trdgrp lng="pl">
+        <trd>Tora</trd>,
+        <trd>Pi&eogonek;cioksi&aogonek;g<klr> (rzadkie)</klr></trd>
+      </trdgrp>
+  <trdgrp lng="pt">
+        <trd>Tor&aacute;</trd>,
+        <trd>Pentateuco</trd>
+      </trdgrp>
+  <trd
+      lng="ru">&c_P;&c_ja;&c_t;&c_i;&c_k;&c_n;&c_i;&c_zh;&c_i;&c_je;</trd>
+  <trd lng="sk">Tóra</trd>
+</drv>
+  </art>
+
+<!--
+$Log: tora.xml,v $
+Revision 1.14  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.13  2015/06/29 16:40:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.12  2015/04/04 20:10:17  revo
+Josep-Enric Peres-i-Blesa: Aldono de nova traduko (kataluna)
+
+Revision 1.11  2009/01/17 18:09:44  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.10  2006/02/15 17:36:14  revo
+Tulio Flores: +trd pt
+
+Revision 1.9  2004/09/28 16:32:12  revo
+Philippe Combot: + trd fr
+
+Revision 1.8  2003/09/26 19:12:46  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.7  2002/11/30 17:34:37  revo
+Ulrich Fellmann: + 2 trd de
+
+Revision 1.6  2002/10/24 19:29:46  revo
+reenmetis erare forigitajn aut, vrk, OndEsp al LOdE
+
+Revision 1.5  2002/10/23 20:40:43  revo
+-->
+</vortaro>

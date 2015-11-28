@@ -1,0 +1,332 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: telefo.xml,v 1.41 2015/07/04 08:37:44 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>telefon</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="telefo.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="telefo.0o.TEL">
+    <uzo tip="fak">TEL</uzo>
+    <uzo tip="fak">ELET</uzo>
+    <dif>
+      Elektra aparato ebliganta interparoladon je distanco
+      per starigo de komunika kanalo inter la partoprenantoj
+      de la interparolo.
+    </dif>
+  </snc>
+  <ref tip="vid" cel="ha.0lo">ha lo</ref>
+  <trd lng="be">&c_t;&c_e;&c_l;&c_je;&c_f;&c_o;&c_n;</trd>
+  <trd lng="bg">&c_t;&c_je;&c_l;&c_je;&c_f;&c_o;&c_n;</trd>
+  <trdgrp lng="de">
+    <trd>Telefon</trd>,
+    <trd>Fernsprecher</trd>
+  </trdgrp>
+  <trdgrp lng="en"><trd>phone</trd>, <trd>telephone</trd></trdgrp>
+  <trd lng="es">tel&eacute;fono</trd>
+  <trd lng="fr">t&eacute;l&eacute;phone</trd>
+  <trdgrp lng="hu">
+    <trd>telefon</trd>,
+    <trd>t&aacute;vbesz&eacute;l&odblac;</trd>
+  </trdgrp>
+  <trd lng="id">telepon</trd>
+  <trd lng="nl">telefoon</trd>
+  <trdgrp lng="pl">
+    <trd>telefon</trd>,
+    <trd>aparat <ind>telefoniczny</ind></trd>
+  </trdgrp>
+  <trd lng="pt">telefone</trd>
+  <trd lng="ru">&c_t;&c_je;&c_l;&c_je;&c_f;&c_o;&c_n;</trd>
+  <trd lng="sv">telefon</trd>
+  <trd lng="sk">telef&oacute;n</trd>
+  <trdgrp lng="zh">
+    <trd>&#30005;&#35805;</trd>,
+    <trd><klr>tr. </klr>&#38651;&#35441;<klr>
+[di&agrave;nhu&agrave;]</klr></trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>pošta</trd>,
+    <trd>telefón</trd>,
+    <trd>telegraf</trd>
+  </trdgrp>
+  <trd lng="cs">telefon</trd>
+</drv>
+
+<drv mrk="telefo.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="telefo.0i.TEL">
+    <dif>
+      Transsendi per <tld/>o, paroli per <tld/>o:
+      <ekz>
+        <tld/>i nova&jcirc;on<fnt>B</fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_t;&c_e;&c_l;&c_je;&c_f;&c_a;&c_n;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_z;&c_v;&c_a;&c_n;&c_ib;&c_c;&c_mol; &c_p;&c_a; &c_t;&c_e;&c_l;&c_je;&c_f;&c_o;&c_n;&c_je;</trd>
+  </trdgrp>
+  <trdgrp lng="bg">
+   <trd>&c_t;&c_je;&c_l;&c_je;&c_f;&c_o;&c_n;&c_i;&c_r;&c_a;&c_m;</trd>,
+    <trd>&c_g;&c_o;&c_v;&c_o;&c_r;&c_ja; &c_p;&c_o; &c_t;&c_je;&c_l;&c_je;&c_f;&c_o;&c_n;&c_a;</trd>
+  </trdgrp>
+  <trd lng="cs">telefonovat</trd>
+  <trd lng="de">telefonieren</trd>
+  <trdgrp lng="en">
+    <trd>call</trd>,
+    <trd>phone</trd>,
+    <trd>telephone</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>telefonear</trd>,
+    <trd>hablar por tel&eacute;fono</trd>
+  </trdgrp>
+  <trd lng="fr">t&eacute;l&eacute;phoner</trd>
+  <trd lng="hu">telefon&aacute;l</trd>
+  <trd lng="id">[<ind>telepon</ind>] menelepon</trd>
+  <trdgrp lng="nl">
+    <trd>telefoneren</trd>,
+    <trd>opbellen</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>telefonowa&cacute;</trd>,
+    <trd>dzwoni&cacute;<klr> przez telefon</klr></trd>
+  </trdgrp>
+  <trd lng="pt">telefonar</trd>
+  <trdgrp lng="ru">
+    <trd>&c_z;&c_v;&c_o;&c_n;&c_i;&c_t;&c_mol; &c_p;&c_o; &c_t;&c_je;&c_l;&c_je;&c_f;&c_o;&c_n;&c_u;</trd>,
+    <trd>&c_g;&c_o;&c_v;&c_o;&c_r;&c_i;&c_t;&c_mol; &c_p;&c_o; <ind>&c_t;&c_je;&c_l;&c_je;&c_f;&c_o;&c_n;&c_u;</ind></trd>,
+    <trd>&c_t;&c_je;&c_l;&c_je;&c_f;&c_o;&c_n;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>telef&oacute;nova&tcaron;</trd>,
+    <trd>telefonovať</trd>
+  </trdgrp>
+  <trdgrp lng="sv">
+    <trd>telefonera</trd>,
+    <trd>prata i <ind>telefon</ind></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="telefo.0numero">
+  <kap><tld/>numero</kap>
+  <snc mrk="telefo.0numero.TEL">
+    <uzo tip="fak">TEL</uzo>
+    <dif>
+      Numero identiganta unu telefonaparaton.
+    </dif>
+  </snc>
+  <trd lng="be">&c_t;&c_e;&c_l;&c_je;&c_f;&c_o;&c_n;&c_n;&c_y; &c_n;&c_u;&c_m;&c_a;&c_r;</trd>
+  <trd lng="bg">&c_t;&c_je;&c_l;&c_je;&c_f;&c_o;&c_n;&c_je;&c_n; &c_n;&c_o;&c_m;&c_je;&c_r;</trd>
+  <trd lng="cs">telefonní číslo</trd>
+  <trd lng="de">Telefonnummer</trd>
+  <trd lng="en"><ind>telephone</ind> number</trd>
+  <trdgrp lng="es">
+    <trd>n&uacute;mero de tel&eacute;fono</trd>,
+    <trd>n&uacute;mero telef&oacute;nico</trd>
+  </trdgrp>
+  <trd lng="fr">num&eacute;ro de t&eacute;l&eacute;phone</trd>
+  <trd lng="hu">telefonsz&aacute;m</trd>
+  <trd lng="id"><ind>nomor</ind> telepon</trd>
+  <trd lng="nl">telefoonnummer</trd>
+  <trd lng="pl">numer <ind>telefoniczny</ind></trd>
+  <trd lng="ru">&c_t;&c_je;&c_l;&c_je;&c_f;&c_o;&c_n;&c_n;&c_y;&c_j; &c_n;&c_o;&c_m;&c_je;&c_r;</trd>
+  <trd lng="sk">číslo telefónu</trd>
+  <trd lng="sv">telefonnummer</trd>
+</drv>
+
+<drv mrk="telefo.lerta0o">
+  <kap>lerta <tld/>o,
+  <var><kap>inteligenta <tld/>o</kap></var></kap>
+  <snc mrk="telefo.lerta0o.TEL">
+    <uzo tip="fak">TEL</uzo>
+    <dif>
+      Po&scirc;telefono provizita per telekomputaj
+      kapabloj, fotilo a&ubreve; aliaj funkcioj;
+      <ref tip="sin" cel="kompufon.0o.TEL">kompufono</ref>:
+      <ekz>
+        populari&gcirc;o de la lertaj <tld/>oj
+        <fnt>
+          <aut>P. Peeraerts</aut>,
+          <vrk>en: <url
+          ref="http://www.liberafolio.org/2010/elektronikaj-libroj-enmerkatigas-en-esperantujo">
+          Elektronikaj libroj enmerkati&gcirc;as en Esperantujo</url></vrk>,
+          <lok>libera folio, 2010-03-10</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &gcirc;ia sistemo estos integrita kun la inteligentaj <tld/>oj
+        <fnt>
+          <aut>Wang Yin, Zhang Shuangm Wang Lihua</aut>,
+          <vrk><url
+          ref="http://www.espero.com.cn/se/txt/2013-01/24/content_514205.htm">
+          Beidou -- nova elekto por la tergloba navigada satelita
+          sistemo en &Ccirc;inio</url></vrk>,
+          <lok>Espero.com.cn, 2013-01-24</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="en">smartphone</trd>
+  <trd lng="fr">t&eacute;l&eacute;phone intelligent</trd>
+  <trdgrp lng="id">
+    <trd><ind>ponsel</ind> pintar</trd>
+    <trd><ind>telepon</ind> pintar</trd>,
+  </trdgrp>
+</drv>
+
+<drv mrk="telefo.posx0o">
+  <kap>po&scirc;<tld/>o<fnt><bib>HejmVort</bib></fnt>,
+  <var><kap>&ccirc;el<tld/>o</kap></var></kap>
+  <snc mrk="telefo.posx0o.TEL">
+    <uzo tip="fak">TEL</uzo>
+    <dif>
+      Portebla sen&scirc;nura <tld/>o:
+      <ekz>
+        la po&scirc;<tld/>a reto <klr>...</klr> transportas nur datumojn
+        <fnt><aut>Pejno S.</aut>:
+        <vrk><url ref="&Monato;/007219.html">Prefere pakete</url></vrk>,
+        <bib>Monato</bib>,
+        <lok>2001:2</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;el<tld/>o devus plifaciligi la kontakton al aliaj homoj
+        <fnt>
+          <aut>A. Oberndorfer</aut>,
+          <vrk><url
+          ref="http://peranto.posterous.com/celtelefonoj-malakcelas-konversaciojn">
+          &Ccirc;eltelefonoj malakcelas konversaciojn</url></vrk>,
+          <lok>Esperanta retradio, 2012-10-12</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_m;&c_a;&c_b;&c_ib;&c_l;&c_mol;&c_n;&c_y; <ind>&c_t;&c_e;&c_l;&c_je;&c_f;&c_o;&c_n;</ind></trd>,
+    <trd>&c_s;&c_o;&c_t;&c_a;&c_v;&c_y; <ind>&c_t;&c_e;&c_l;&c_je;&c_f;&c_o;&c_n;</ind></trd>
+  </trdgrp>
+  <trdgrp lng="bg">
+    <trd>&c_m;&c_o;&c_b;&c_i;&c_l;&c_je;&c_n; &c_t;&c_je;&c_l;&c_je;&c_f;&c_o;&c_n;</trd>,
+    <trd>&c_m;&c_o;&c_b;&c_i;&c_f;&c_o;&c_n;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Handy</trd>,
+    <trd>Funktelefon</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>mobile <ind>telephone</ind></trd>,
+    <trd>cellular <ind>telephone</ind> <klr>(usone)</klr></trd>
+    <trd>cell phone</trd>,
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd><klr tip="amb">tel&eacute;fono</klr> <ind>m&oacute;vil</ind></trd>,
+    <trd><klr tip="amb">tel&eacute;fono</klr> <ind>celular</ind></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>mobil(telefon)</trd>,
+    <trd>maroktelefon</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>t&eacute;l&eacute;phone cellulaire</trd>,
+    <trd>t&eacute;l&eacute;phone <ind>portable</ind></trd>,
+    <trd>GSM <klr>(Belgujo)</klr></trd>,
+    <trd>Natel <klr>(Svislando)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="id">
+    <trd>HP</trd>,
+    <trd>ponsel</trd>,
+    <trd><ind>telepon</ind> seluler</trd>,
+    <trd><ind>telepon</ind> genggam</trd>,
+  </trdgrp>
+  <trd lng="it">telefonino</trd>
+  <trdgrp lng="nl">
+    <trd>GSM</trd>,
+    <trd>mobieltje <klr>(Nederlando)</klr></trd>,
+    <trd>zaktelefoon</trd>,
+    <trd>draagbare telefoon</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>kom&oacute;rka</trd>,
+    <trd>telefon <klr tip="amb">kom&oacute;rkowy</klr></trd>
+  </trdgrp>
+  <trd lng="pt">celular</trd>
+  <trdgrp lng="ru">
+    <trd>&c_m;&c_o;&c_b;&c_i;&c_l;&c_mol;&c_n;&c_y;&c_j; &c_t;&c_je;&c_l;&c_je;&c_f;&c_o;&c_n;</trd>,
+    <trd>&c_s;&c_o;&c_t;&c_o;&c_v;&c_y;&c_j; &c_t;&c_je;&c_l;&c_je;&c_f;&c_o;&c_n;</trd>
+  </trdgrp>
+  <trd lng="sv">mobiltelefon</trd>
+</drv>
+
+<drv mrk="telefo.strat0o">
+  <kap>strat<tld/>o</kap>
+  <snc mrk="telefo.strat0o.TEL">
+    <uzo tip="fak">TEL</uzo>
+    <dif>
+      Surstrata telefono je publika dispono, kutime instalita en
+      <tld/>budo.
+    </dif>
+  </snc>
+  <trd lng="be">&c_t;&c_e;&c_l;&c_je;&c_f;&c_o;&c_n;-&c_a;&c_w;&c_t;&c_a;&c_m;&c_a;&c_t;</trd>
+  <trd lng="bg">&c_t;&c_je;&c_l;&c_je;&c_f;&c_o;&c_n;&c_n;&c_a; &c_k;&c_a;&c_b;&c_i;&c_n;&c_a;</trd>
+  <trd lng="cs">pouliční telefon</trd>
+  <trdgrp lng="en">
+    <trd>public <ind>telephone</ind></trd>,
+    <trd>pay <ind>telephone</ind></trd>,
+    <trd>pay phone</trd>
+  </trdgrp>
+  <trd lng="es">(tel&eacute;fono) p&uacute;blico</trd>
+  <trd lng="fr">t&eacute;l&eacute;phone public</trd>
+  <trd lng="hu">utcai <ind>telefon</ind></trd>
+  <trd lng="id"><ind>telepon</ind> umum</trd>
+  <trd lng="nl">openbare <ind>telefoon</ind></trd>
+  <trdgrp lng="pl">
+    <trd>budka <ind>telefoniczna</ind></trd>,
+    <trd>automat <ind>telefoniczny</ind></trd>
+    <trd>aparat publiczny</trd>,
+    <trd>aparat wrzutowy</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>telefone p&uacute;blico</trd>
+  </trdgrp>
+  <trd lng="ru">&c_t;&c_je;&c_l;&c_je;&c_f;&c_o;&c_n;-&c_a;&c_v;&c_t;&c_o;&c_m;&c_a;&c_t;</trd>
+  <trd lng="sk">pouličný telefón</trd>
+</drv>
+</art>
+<!--
+$Log: telefo.xml,v $
+Revision 1.41  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.40  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.39  2014/06/13 07:10:17  revo
+Damien Brucker: +ref
+
+Revision 1.38  2014/06/07 16:10:22  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.37  2014/04/25 01:10:21  revo
+Jeromo Vasxe: + lerta ~o
+
+Revision 1.36  2014/02/11 02:10:17  revo
+Carlos Garcia: korektado es posx-o
+
+Revision 1.35  2012/10/12 20:10:09  revo
+Jeromo Vasxe: + cxel~o
+
+Revision 1.34  2012/09/07 16:10:08  revo
+Jeromo Vasxe: + mrk
+
+Revision 1.33  2009/02/10 14:18:27  revo
+Sebastian Cyprych: -fusxaj linirompoj en trd
+
+Revision 1.32  2008/12/26 18:42:15  revo
+-->
+</vortaro>

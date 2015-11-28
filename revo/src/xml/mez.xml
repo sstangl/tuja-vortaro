@@ -1,0 +1,477 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: mez.xml,v 1.47 2015/07/04 08:37:39 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>mez</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="mez.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="mez.0o.punkto">
+    <uzo tip="fak">MAT</uzo>
+    <subsnc mrk="mez.0o.punkto.elementa">
+      <uzo tip="klr">(elementa geometrio)</uzo>
+      <fnt><bib>MatVort</bib></fnt>
+      <dif>
+        <klr>(de <ref cel="strek.0o.elementa">streko</ref>)</klr>
+        <ref tip="super" cel="punkt.0o.spaco">Punkto</ref> de &gcirc;i
+        egaldistanca
+        de &gcirc;iaj du <ref cel="rand.0o.figuro">randoj</ref>:
+        <ekz>
+          la du strekoj, kiuj ligas la <tld/>on al la randoj de la
+          originala streko, estas
+          <ref cel="egal.0a.izometria">egalaj</ref>.
+        </ekz>
+      </dif>
+      <trd lng="hu">k&ouml;z&eacute;ppont</trd>
+    </subsnc>
+    <subsnc mrk="mez.0o.punkto.afina">
+      <uzo tip="klr">(afina geometrio)</uzo>
+      <dif>
+        <klr>(de <ref cel="par.punkto0o">punktoparo</ref> en
+        <ref cel="spac.afina0o">afina spaco</ref>)</klr>
+        La <ref tip="super" cel="centr.pezo0o.MAT">pezocentro</ref> kun
+        egalaj koeficientoj de la du punktoj.
+      </dif>
+    </subsnc>
+    <trd lng="hu">k&ouml;z&eacute;ppont</trd>
+    <trd lng="pl">&sacute;rodek</trd>
+  </snc>
+  <snc>
+    <dif>
+      Punkto egaldistanca de du ekstremoj, de du limoj, en spaco a&ubreve;
+      tempo:
+      <ekz>
+        <tld/>o de bastono, strato, rivero, urbo;
+      </ekz>
+      <ekz>
+        <tld/>o de la nokto, jaro, vivo;
+      </ekz>
+      <ekz>
+        <tld/>o de voja&gcirc;o, romano, kanto.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="centr.0o">centro</ref>,
+      <ref cel="kern.0o">kerno</ref>,
+      <ref cel="sin.0o">sino</ref>
+    </refgrp>
+    <trd lng="pl">&sacute;rodek</trd>
+  </snc>
+  <snc>
+    <dif>
+      Tio, kio estas egale malproksima de kontra&ubreve;aj ekstremaj gradoj:
+      <ekz>
+        vero kaj virto ku&scirc;as en <tld/>o;
+      </ekz>
+      <ekz>
+        ser&ccirc;i la &gcirc;ustan <tld/>on.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_ja;&c_r;&c_e;&c_d;&c_z;&c_ib;&c_n;&c_a;</trd>
+  <trd lng="br">kreiz</trd>
+  <trd lng="ca">mig</trd>
+  <trdgrp lng="cs">
+    <trd>st&rcaron;ed</trd>,
+    <trd>svalový obal arterie</trd>
+  </trdgrp>
+  <trd lng="de">Mitte</trd>
+  <trd lng="en">middle</trd>
+  <trdgrp lng="es">
+    <trd>medio</trd>,
+    <trd>mitad</trd>
+  </trdgrp>
+  <trd lng="fr">milieu</trd>
+  <trd lng="hu">k&ouml;z&eacute;p</trd>
+  <trd lng="it">mezzo</trd>
+  <trd lng="ja">&#20013; [<ind>&#12394;&#12363;</ind>]</trd>
+  <trd lng="nl">midden</trd>
+  <trd lng="oc">mi&egrave;g</trd>
+  <trd lng="pl">&sacute;rodek</trd>
+  <trd lng="pt">meio</trd>
+  <trd lng="ro">mijloc</trd>
+  <trd lng="ru">&c_s;&c_je;&c_r;&c_je;&c_d;&c_i;&c_n;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>stred</trd>,
+    <trd>svalový obal artérie</trd>
+  </trdgrp>
+  <trd lng="zh">&#20013;</trd>
+</drv>
+
+<drv mrk="mez.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="mez.0a.KOMUNE">
+    <dif>
+      Estanta en la <tld/>o:
+      <ekz>
+        <tld/>a parto;
+      </ekz>
+      <ekz>
+        <tld/>a pezo, kresko, lernejo;
+      </ekz>
+      <ekz>
+        <ind><tld/>kvalita</ind> lano.
+        <trd lng="hu">&aacute;tlagos
+        min&odblac;s&eacute;g&udblac;</trd>
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="inter">intera</ref>,
+      <ref cel="ir.trans0a">transira</ref>.
+    </refgrp>
+    <refgrp tip="vid">
+      <ref cel="pont.0o">ponto</ref>.
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_s;&c_ja;&c_r;&c_e;&c_d;&c_n;&c_ib;</trd>
+  <trdgrp lng="br">
+    <trd>-<ind>kreiz</ind></trd>,
+    <trd>krenn</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>prostřední</trd>,
+    <trd>průměrný</trd>,
+    <trd>střední</trd>
+  </trdgrp>
+  <trd lng="en">middle</trd>
+  <trd lng="es">medio</trd>
+  <trdgrp lng="fr">
+    <trd>m&eacute;dian</trd>,
+    <trd>moyen</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>k&ouml;z&eacute;p-</trd>,
+    <trd>k&ouml;z&eacute;ps&odblac;</trd>,
+    <trd>k&ouml;z&eacute;pponti</trd>,
+    <trd>k&ouml;zepes</trd>,
+    <trd>&aacute;tlagos</trd>
+  </trdgrp>
+  <trdgrp lng="it">
+    <trd>mediano<klr> (agg.)</klr></trd>,
+    <trd>intermedio</trd>,
+    <trd>medio</trd>,
+    <trd>in <ind>mezzo</ind></trd>,
+    <trd>centrale<klr> (in mezzo)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>midden-</trd>,
+    <trd>middelbaar</trd>,
+    <trd>gemiddeld</trd>
+  </trdgrp>
+  <trd lng="pl">&sacute;rodkowy</trd>
+  <trdgrp lng="ro">
+    <trd>central</trd>,
+    <trd>de <ind>mijloc</ind></trd>,
+  </trdgrp>
+  <trd lng="ru">&c_s;&c_r;&c_je;&c_d;&c_n;&c_i;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>priemerný</trd>,
+    <trd>prostredn&yacute;</trd>,
+    <trd>stredný</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="mez.0e">
+  <kap><tld/>e de, <var><kap><tld/>e en</kap></var>, <var><kap><tld/>e
+  inter</kap></var>, <var><kap>en la <tld/>o de</kap></var></kap>
+  <snc>
+    <dif>
+      En loko a&ubreve; momento egaldistanca de ekstrema&jcirc;oj:
+      <ekz>
+        <ind><tld/>e de la nokto</ind>.
+        <trd lng="hu">az &eacute;jszaka
+        <ind>k&ouml;zep&eacute;n</ind></trd>
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_p;&c_a;&c_s;&c_ja;&c_r;&c_e;&c_d;&c_z;&c_ib;&c_n;&c_je;</trd>,
+      <trd>&c_n;&c_a; &c_s;&c_ja;&c_r;&c_e;&c_d;&c_z;&c_ib;&c_n;&c_je;</trd>
+    </trdgrp>
+    <trd lng="pl">w &sacute;rodku</trd>
+    <trdgrp lng="ru">
+      <trd>&c_p;&c_o;&c_s;&c_je;&c_r;&c_je;&c_d;&c_i;&c_n;&c_je;</trd>,
+      <trd>&c_n;&c_a; &c_s;&c_je;&c_r;&c_je;&c_d;&c_i;&c_n;&c_je;</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd>mitten in</trd>
+    </trdgrp>
+  </snc>
+  <snc>
+    <dif>
+      En loko, kie oni estas &ccirc;iuflanke &ccirc;irka&ubreve;ata:
+      <ekz>
+        <tld/>e de la nebulo;
+      </ekz>
+      <ekz>
+        <tld/>e en la akvo;
+      </ekz>
+      <ekz>
+        <tld/>en en la bukedon oni enmetadis kandelon<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        la Eternulo parolis al ili el <tld/>e de la fajro<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        li faligis &ccirc;ion <tld/>en de ilia tendaro<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        ne metu ilian nombron <tld/>en de la Izraelidoj<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        halti <tld/>e dum la danco;
+      </ekz>
+      <ekz>
+        <tld/>e inter la malamikoj.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_p;&c_a;&c_s;&c_ja;&c_r;&c_o;&c_d;</trd>,
+      <trd>&c_s;&c_ja;&c_r;&c_o;&c_d;</trd>,
+      <trd>&c_u; &c_s;&c_ja;&c_r;&c_e;&c_d;&c_z;&c_ib;&c_n;&c_je;</trd>
+    </trdgrp>
+    <trd lng="pl">w &sacute;rodku</trd>
+    <trdgrp lng="ru">
+      <trd>&c_p;&c_o;&c_s;&c_r;&c_je;&c_d;&c_i;</trd>,
+      <trd>&c_s;&c_r;&c_je;&c_d;&c_i;</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd>mitten in</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="br">e-kreiz</trd>
+  <trd lng="ca">al <ind>mig</ind> de</trd>
+  <trdgrp lng="en">
+  	<trd>amid</trd>,
+  	<trd>among</trd>,
+    <trd>in the middle of</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>en <ind>medio</ind> de</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>au <ind>milieu</ind> de</trd>,
+    <trd>parmi</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>k&ouml;z&eacute;p&uuml;tt</trd>,
+    <trd>k&ouml;z&eacute;pen</trd>
+  </trdgrp>
+  <trdgrp lng="it">
+    <trd>nel <ind>mezzo</ind></trd>,
+    <trd>in <ind>mezzo</ind></trd>,
+    <trd>centralmente<klr> (in mezzo)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>mitten in</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>te <ind>midden</ind> van</trd>,
+    <trd>middenin</trd>
+  </trdgrp>
+  <trd lng="oc">al <ind>mi&egrave;g</ind> de</trd>
+  <trd lng="pl">w &sacute;rodku</trd>
+  <trd lng="ro">&icirc;n <ind>mijloc</ind></trd>
+  <trd lng="sk">v <ind>strede</ind></trd>
+</drv>
+
+<drv mrk="mez.antauxtag0o">
+  <kap>anta&ubreve;tag<tld/>o</kap>
+  <snc mrk="mez.antauxtag0o.KAL">
+    <uzo tip="fak">KAL</uzo>
+    <dif>
+      Unua duono de la hela tago.
+    </dif>
+    <refgrp tip="malprt">
+      <ref cel="diurn.0o">diurno</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_d;&c_a; &c_p;&c_a;&c_w;&c_d;&c_n;&c_ja;</trd>,
+    <trd>&c_d;&c_a; &c_p;&c_a;&c_l;&c_u;&c_d;&c_n;&c_ja;</trd>
+  </trdgrp>
+  <trdgrp lng="br">
+    <trd>beure</trd>,
+    <trd>mintin</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Vormittag</trd>
+  </trdgrp>
+  <trd lng="en">morning</trd>
+  <trdgrp lng="es">
+    <trd>ma&ntilde;ana</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>matin&eacute;e</trd>
+  </trdgrp>
+  <trd lng="hu">d&eacute;lel&odblac;tt</trd>
+  <trd lng="it">mattino</trd>
+  <trdgrp lng="nl">
+    <trd>ochtend</trd>,
+    <trd>voormiddag<klr tip="ind"> (9-12 u.)</klr></trd>,
+    <trd>morgen<klr tip="ind"> (ochtend)</klr></trd>
+  </trdgrp>
+  <trd lng="pl">przedpo&lstroke;udnie</trd>
+  <trdgrp lng="ro">
+    <trd>&icirc;nainte de amiaz&abreve;</trd>,
+    <trd>&icirc;nainte de pr&acirc;nz</trd>
+  </trdgrp>
+  <trd lng="ru">&c_d;&c_o;
+  <ind>&c_p;&c_o;&c_l;&c_u;&c_d;&c_n;&c_ja;</ind></trd>
+</drv>
+
+<drv mrk="mez.nokto0o">
+  <kap>nokto<tld/>o</kap>
+  <snc mrk="mez.nokto0o.KAL">
+    <uzo tip="fak">KAL</uzo>
+    <dif>
+      <tld lit="M"/>o de la nokto:
+      <ekz>
+        la unua bato de nokto<tld/>o sonis, kiam &scirc;i pensis, ke estas
+        apena&ubreve; la dekunua horo
+        <fnt>
+          <aut>C. Perrault, trad. P. Sarpy</aut>,
+          <vrk>Cindrulino</vrk>,
+          <lok><url
+ref="http://eo.wikibooks.org/wiki/Rakontoj_pri_Feinoj">Rakontoj
+          pri feinoj</url>, Hachette, 1904</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="malprt">
+      <ref cel="diurn.0o">diurno</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_p;&c_o;&c_w;&c_n;&c_a;&c_ch;</trd>
+  <trd lng="bg">&c_p;&c_o;&c_l;&c_u;&c_n;&c_o;&c_shch;</trd>
+  <trd lng="br">hanternoz</trd>
+  <trd lng="cs">půlnoc</trd>
+  <trd lng="de">Mitternacht</trd>
+  <trd lng="en">midnight</trd>
+  <trd lng="es">medianoche</trd>
+  <trd lng="fr">minuit</trd>
+  <trd lng="hu">&eacute;jf&eacute;l</trd>
+  <trd lng="it">mezzanotte</trd>
+  <trd lng="nl">middernacht</trd>
+  <trd lng="pl">p&oacute;&lstroke;noc <klr tip="amb">(godzina)</klr></trd>
+  <trd lng="ro">miezul <ind>nop&tcedil;ii</ind></trd>
+  <trd lng="ru">&c_p;&c_o;&c_l;&c_n;&c_o;&c_ch;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>polnoc</trd>,
+    <trd>stred noci</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="mez.posttag0o">
+  <kap>posttag<tld/>o</kap>
+  <snc mrk="mez.posttag0o.KAL">
+  <uzo tip="fak">KAL</uzo>
+    <dif>
+      Dua duono de la hela tago.
+    </dif>
+    <refgrp tip="malprt">
+      <ref cel="diurn.0o">diurno</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_a; &c_p;&c_a;&c_w;&c_d;&c_n;&c_ib;</trd>,
+    <trd>&c_p;&c_a;&c_p;&c_a;&c_l;&c_u;&c_d;&c_n;&c_ib;</trd>
+  </trdgrp>
+  <trd lng="bg">&c_s;&c_l;&c_je;&c_d;&c_o;&c_b;&c_je;&c_d;</trd>
+  <trd lng="br">enderv</trd>
+  <trd lng="ca">tarda</trd>
+  <trd lng="de">Nachmittag</trd>
+  <trd lng="en">afternoon</trd>
+  <trd lng="es">tarde</trd>
+  <trdgrp lng="fr">
+    <trd>apr&egrave;s-midi</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>d&eacute;lut&aacute;n</trd>,
+    <trd>eb&eacute;dut&aacute;n</trd>
+  </trdgrp>
+  <trd lng="it">pomeriggio</trd>
+  <trdgrp lng="nl">
+    <trd>middag<klr tip="ind"> (12-18 u.)</klr></trd>,
+    <trd>namiddag<klr tip="ind"> (12-18 u.)</klr></trd>
+  </trdgrp>
+  <trd lng="oc">apr&egrave;p-mi&egrave;gjorn</trd>
+  <trd lng="pl">popo&lstroke;udnie</trd>
+  <trd lng="ro">dup&abreve; <ind>amiaza</ind></trd>
+  <trd lng="ru">&c_p;&c_o;&c_p;&c_o;&c_l;&c_u;&c_d;&c_n;&c_i;</trd>
+  <trdgrp lng="sk">
+    <trd>odpoludnie</trd>,
+    <trd>poobedie</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="mez.tag0o">
+  <kap>tag<tld/>o</kap>
+  <snc mrk="mez.tag0o.KAL">
+  <uzo tip="fak">KAL</uzo>
+    <dif>
+      <tld lit="M"/>o de la hela tago, kiam la suno estas plej alte
+      super la horizonto.
+    </dif>
+    <refgrp tip="malprt">
+      <ref cel="diurn.0o">diurno</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_p;&c_o;&c_w;&c_d;&c_z;&c_je;&c_n;&c_mol;</trd>
+  <trdgrp lng="bg">
+    <trd>&c_o;&c_b;&c_ja;&c_d;</trd>,
+    <trd>&c_o;&c_b;&c_je;&c_d;</trd>
+  </trdgrp>
+  <trd lng="br">kreisteiz</trd>
+  <trd lng="cs">poledne</trd>
+  <trd lng="de">Mittag</trd>
+  <trd lng="en">noon</trd>
+  <trd lng="es">mediod&iacute;a</trd>
+  <trdgrp lng="fr">
+    <trd>midi</trd>
+  </trdgrp>
+  <trd lng="hu">d&eacute;l</trd>
+  <trd lng="it">mezzogiorno</trd>
+  <trd lng="nl">middag<klr tip="ind"> (12 u.)</klr></trd>
+  <trd lng="pl">po&lstroke;udnie <klr>(godzina)</klr></trd>
+  <trd lng="ro">amiaz&abreve;</trd>
+  <trd lng="ru">&c_p;&c_o;&c_l;&c_d;&c_je;&c_n;&c_mol;</trd>
+  <trd lng="sk">poludnie</trd>
+  <trd lng="vo">zendel</trd>
+</drv>
+</art>
+<!--
+$Log: mez.xml,v $
+Revision 1.47  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.46  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.45  2014/10/31 10:10:17  revo
+Guillermo Molleda Jimena: trd es
+
+Revision 1.44  2014/04/22 18:11:24  revo
+Wieland Pusch: +trd bg
+
+Revision 1.43  2013/07/13 15:10:09  revo
+Benito Subejrano: + trd oc ca
+
+Revision 1.42  2013/07/01 01:10:15  revo
+Benito Subejrano: + trd ca oc
+
+Revision 1.41  2012/10/23 00:13:00  revo
+Neil Roberts: aldonu la etikedon <var>
+
+Revision 1.40  2011/01/11 00:10:53  revo
+Antonio Codazzi: +trd it
+
+Revision 1.39  2008/01/05 17:30:24  revo
+Russ Williams: +trd en
+
+Revision 1.38  2007/11/16 17:30:26  revo
+-->
+</vortaro>

@@ -1,0 +1,197 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: suplem.xml,v 1.27 2015/07/04 08:37:44 revo Exp $">
+<kap>
+  <ofc>8</ofc> <rad>suplement</rad>/o <fnt>N</fnt>
+</kap>
+<drv mrk="suplem.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="suplem.0o.KOMUNE">
+    <dif>
+      Kompletiga aldono.
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_d;&c_a;&c_b;&c_a;&c_w;&c_l;&c_je;&c_n;&c_mol;&c_n;&c_je;</trd>, 
+      <trd>&c_d;&c_a;&c_d;&c_a;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>, 
+      <trd>&c_d;&c_a;&c_d;&c_a;&c_t;&c_a;&c_k;</trd>, 
+      <trd>&c_d;&c_a;&c_p;&c_a;&c_w;&c_n;&c_je;&c_n;&c_mol;&c_n;&c_je;</trd>
+    </trdgrp>
+    <trd lng="ca">suplement</trd>
+    <trdgrp lng="de">
+      <trd>Supplement</trd>,
+      <trd>Erg&auml;nzung</trd>,
+      <trd>Zusatz</trd>
+    </trdgrp>
+    <trd lng="en">supplement</trd>
+    <trd lng="fr">suppl&eacute;ment</trd>
+    <trdgrp lng="hu">
+      <trd>kieg&eacute;sz&iacute;t&eacute;s</trd>, 
+      <trd>p&oacute;tl&aacute;s</trd>, 
+      <trd>szupplementum</trd>
+    </trdgrp>
+   <trd lng="it">supplemento</trd>      
+    <trd lng="ru">&c_d;&c_o;&c_b;&c_a;&c_v;&c_l;&c_je;&c_n;&c_i;&c_je;</trd>
+  </snc>
+  <snc mrk="suplem.0o.angulo">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>PIV1</bib></fnt>
+    <dif>
+      <klr>(de <ref cel="angul.0o.figuro">angulo</ref>)</klr>
+      Angulo <tld/>a <sncref ref="suplem.0a.angulo"/> al &gcirc;i:
+      <ekz>
+        en triangulo, &ccirc;iu angulo estas <tld/>o de la sumo
+        de la du aliaj;
+      </ekz>
+      <ekz>
+        sinuso de la <tld/>o de angulo egalas al sinuso de la
+        originalo <klr>(<frm>sin(&pi;-&theta;) = sin&theta;</frm>)</klr>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_d;&c_a;&c_d;&c_a;&c_t;&c_k;&c_o;&c_v;&c_y;
+<ind>&c_v;&c_u;&c_g;&c_a;&c_l;</ind></trd>
+    <trd lng="ca">angle suplementari</trd>
+    <trd lng="de">Supplementwinkel</trd>
+    <trd lng="en">supplementary <ind>angle</ind></trd>
+    <trdgrp lng="fr">
+      <trd>angle suppl&eacute;mentaire</trd>,
+      <trd>suppl&eacute;mentaire<klr tip="ind"> (d'un angle)</klr></trd>
+    </trdgrp>
+    <trd lng="hu">kieg&eacute;sz&iacute;t&odblac; <ind>sz&ouml;g</ind></trd>    
+    <trd lng="ru">&c_d;&c_o;&c_p;&c_o;&c_l;&c_n;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;
+<ind>&c_u;&c_g;&c_o;&c_l;</ind></trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>dodatek</trd>,
+    <trd>doplněk</trd>,
+    <trd>přídavek</trd>,
+    <trd>suplement</trd>,
+    <trd>suplementum</trd>
+  </trdgrp>
+  <trd lng="es">suplemento</trd>
+  <trd lng="nl">supplement</trd>
+  <trd lng="ru">&c_d;&c_o;&c_p;&c_o;&c_l;&c_n;&c_je;&c_n;&c_i;&c_je;</trd>
+  <trdgrp lng="sk">
+    <trd>dodatok</trd>,
+    <trd>doložka</trd>,
+    <trd>doplnok</trd>,
+    <trd>prídavok</trd>,
+    <trd>suplement</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="suplem.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="suplem.0a.KOMUNE">
+    <dif>
+      Rilata al <tld/>o <sncref ref="suplem.0o.KOMUNE"/>, aldona,
+      kompletiga:
+      <ekz>
+        <tld/>a noto;
+      </ekz>
+      <ekz>
+        <uzo tip="fak">EKON</uzo>
+        <ind><tld/>aj horoj</ind> <fnt><bib>PIV1</bib></fnt>.
+        <trd lng="fr">heures <ind>suppl&eacute;mentaires</ind></trd>
+        <trd lng="hu">t&uacute;l&oacute;r&aacute;k</trd>        
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_d;&c_a;&c_d;&c_a;&c_t;&c_k;&c_o;&c_v;&c_y;</trd>, 
+      <trd>&c_d;&c_a;&c_p;&c_a;&c_w;&c_n;&c_ja;&c_l;&c_mol;&c_n;&c_y;</trd>
+    </trdgrp>
+    <trd lng="en">supplementary</trd>
+    <trd lng="fr">suppl&eacute;mentaire<klr tip="ind"> (adj.)</klr></trd>
+  </snc>
+  <snc mrk="suplem.0a.angulo">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>MatTerm</bib><lok>p. 27</lok></fnt>
+    <dif>
+      <klr>(p.p. du <ref cel="angul.0o.figuro">anguloj</ref>)</klr>
+      Kies sumo egalas al <ref cel="strecx.0ita.angulo">stre&ccirc;ita</ref>
+      angulo:
+      <ekz>
+        <tld/>aj anguloj havas la saman sinuson kaj kontra&ubreve;egalan
+        kosinuson.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_d;&c_a;&c_d;&c_a;&c_t;&c_k;&c_o;&c_v;&c_y;<klr
+tip="ind"> (&c_v;&c_u;&c_g;&c_a;&c_l;)</klr></trd>
+    <trd lng="de">Supplement-<klr tip="amb">(winkel)</klr></trd>
+    <trd lng="en">supplementary<klr tip="ind"> (angle)</klr></trd>
+    <trd lng="fr"><klr tip="ind">(angle) </klr>suppl&eacute;mentaire</trd>
+    <trd lng="ru">&c_d;&c_o;&c_p;&c_o;&c_l;&c_n;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;<klr
+tip="ind"> (&c_u;&c_g;&c_o;&c_l;)</klr></trd>
+  </snc>
+  <trd lng="ca">suplementari</trd>
+  <trdgrp lng="cs">
+    <trd>doplňkový</trd>,
+    <trd>výplňkový</trd>
+  </trdgrp>
+  <trd lng="es">suplementario</trd>
+  <trdgrp lng="hu">
+    <trd>kieg&eacute;sz&iacute;t&odblac;</trd>,
+    <trd>p&oacute;t-</trd>
+  </trdgrp>
+  <trd lng="it">supplementare</trd>
+  <trd lng="ru">&c_d;&c_o;&c_p;&c_o;&c_l;&c_n;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>dodatkový</trd>,
+    <trd>dodatočný</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="suplem.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="suplem.0i.KOMUNE">
+    <dif>
+      Kompletigi per <tld/>o:
+      <ekz>
+        bona dieto de naturaj substancoj, <tld/>ata per iom
+        da sunlumo, liveras &ccirc;iujn bezonatajn vitaminojn
+        <fnt><aut>W. F. Rolt</aut>, <vrk>El la Polvo de la Tero</vrk>, 
+        <lok>1967</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="ca">
+    <trd>suplementar</trd>,
+    <trd>complementar</trd>
+  </trdgrp>
+  <trd lng="fr">compl&eacute;ter</trd>
+</drv>
+</art>
+<!--
+$Log: suplem.xml,v $
+Revision 1.27  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.26  2015/06/29 16:33:24  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.25  2012/09/19 09:10:17  revo
+Marc Rausell: + trd ca
+
+Revision 1.24  2011/12/05 23:10:11  revo
+Jeromo Vasxe: kor. dif.
+
+Revision 1.23  2011/12/05 13:10:21  revo
+Jeromo Vasxe: + ~i
+
+Revision 1.22  2009/10/09 16:30:34  revo
+Antonio Codazzi: +trd it
+
+Revision 1.21  2004/11/05 17:32:34  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.20  2004/11/03 17:31:22  revo
+Zmicier Lapcionak: + trd be
+
+Revision 1.19  2003/12/06 17:30:43  revo
+Alejandro Mejia Greene: ald 2 his trd
+
+Revision 1.18  2003/04/21 16:35:09  revo
+-->
+</vortaro>

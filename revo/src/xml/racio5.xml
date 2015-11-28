@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: racio5.xml,v 1.15 2015/07/04 08:37:42 revo Exp $">
+<kap>
+  <rad>racion</rad>/o
+</kap>
+<drv mrk="racio5.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>KompLeks</bib></fnt>
+  <snc>
+    <ref tip="dif" cel="racion.0o">racionalo.</ref>
+    <rim>
+      La&ubreve; <fnt><bib>MatStokTerm</bib><lok>p. 102</lok></fnt>
+      la radiko <ctl><tld/></ctl> estus pravigita de la bezono distingi
+      inter la komunlingva koncepto <ctl>racionala</ctl> kaj la
+      matematika
+      <ctl>raciona</ctl>. Tiun bezonon ni konsideras des malpli
+      evidenta, ke
+      la komunlingva senco pli bone esprimi&gcirc;as per
+      <ctl>racia</ctl>.
+      Aliaj insistas, por ke tiu radiko estu substantiva,
+      kvankam &gcirc;i aperas adjektive en <fnt><bib>SPIV</bib></fnt>,
+      por
+      ricevi regulan vicon da substantivaj terminoj:
+      <ekz>
+        entjero,
+      </ekz>
+      <ekz>
+        raciono,
+      </ekz>
+      <ekz>
+        reelo.
+      </ekz>
+      Ni tamen memorigu, ke <ekz>racionalo</ekz> ekzistas de longe, kaj
+      same kiel <ekz>komplekso</ekz> (ankora&ubreve; malmulte uzata),
+      estas
+      perfekte pravigebla en matematiko, e&ccirc; se derivita de
+      adjektiva
+      radiko.
+    </rim>
+  </snc>
+  <trd
+  lng="be">&c_r;&c_a;&c_c;&c_y;&c_ja;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_y;
+  <ind>&c_l;&c_ib;&c_k;</ind></trd>
+  <trd lng="ca">nombre <ind>racional</ind></trd>
+  <trd lng="cs">racionální číslo</trd>
+  <trd lng="de">rationale <ind>Zahl</ind></trd>
+  <trd lng="en">rational <ind>number</ind></trd>
+  <trd lng="fr">nombre rationnel</trd>
+  <trd lng="hu">racion&aacute;lis <ind>sz&aacute;m</ind></trd>
+  <trd lng="nl">rationeel <ind>getal</ind></trd>
+  <trd lng="pl">liczba wymierna</trd>
+  <trd lng="pt">racional</trd>
+  <trd
+  lng="ru">&c_r;&c_a;&c_c;&c_i;&c_o;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_o;&c_je;
+  <ind>&c_ch;&c_i;&c_s;&c_l;&c_o;</ind></trd>
+  <trd lng="sk">racionálne číslo</trd>
+</drv>
+
+<drv mrk="racio5.0a">
+  <kap><tld/>a</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>SPIV</bib></fnt>
+  <snc>
+    <ref tip="dif" cel="racion.0a.nombro">racionala.</ref>
+  </snc>
+  <trd lng="ca">racional</trd>
+  <trd lng="hu">racion&aacute;lis<klr tip="ind">
+  (sz&aacute;m)</klr></trd>
+  <trd lng="nl">rationeel<klr tip="ind"> (getal)</klr></trd>
+  <trd lng="pl">wymierny</trd>
+  <trd
+  lng="ru">&c_r;&c_a;&c_c;&c_i;&c_o;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_y;&c_j;<klr
+  tip="amb"> (&c_o; &c_ch;&c_i;&c_s;&c_l;&c_je;)</klr></trd>
+</drv>
+</art>
+<!--
+$Log: racio5.xml,v $
+Revision 1.15  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.13  2012/08/10 14:10:42  revo
+Marc Rausell: + trd ca
+
+Revision 1.12  2011/08/19 05:10:28  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.11  2006/02/18 17:32:49  revo
+Tulio Flores: +trd pt
+
+Revision 1.10  2003/09/08 16:31:24  revo
+Yury Finkel: +trd ru
+
+Revision 1.9  2003/08/19 16:31:04  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.8  2003/01/07 17:32:22  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.7  2002/05/20 16:35:08  revo
+Marc Bavant: ~o: -uzo NEO, -dif, +ref, mod rim
+
+Revision 1.6 2001/10/16 18:41:54 revo
+-->
+</vortaro>

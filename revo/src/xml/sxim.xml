@@ -1,0 +1,136 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: sxim.xml,v 1.24 2015/04/18 03:10:18 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>&scirc;im</rad>/i
+</kap>
+<drv mrk="sxim.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc>
+    <dif>
+      Kovri&gcirc;i, putri&gcirc;i per <ref
+      cel="sxim.0o.kovrajxo"><tld/>o</ref>:
+      <ekz>
+        la nevenditaj libroj <tld/>as sur la bretoj.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="putr.0i">putri</ref>,
+      <ref cel="mucid.0a">mucida</ref>.
+    </refgrp>
+  </snc>
+  <snc>
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Resti longe forlasita kaj senutila:
+      <ekz>
+        li <tld/>is en senaktiveco kaj enuo.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_b;&c_r;&c_o;&c_s;&c_mol;&c_n;&c_je;&c_c;&c_mol;</trd>, 
+    <trd>&c_p;&c_l;&c_je;&c_s;&c_mol;&c_n;&c_je;&c_c;&c_mol;</trd>, 
+    <trd>&c_c;&c_mol;&c_v;&c_ib;&c_s;&c_mol;&c_c;&c_ib;</trd>
+  </trdgrp>
+  <trd lng="de">schimmeln</trd>
+  <trd lng="el">
+&kappa;&alfa;&lambda;&omikron;&ypsilon;&pi;&jota;&alfa_ton;&zeta;&omega;</trd>
+  <trdgrp lng="en">
+     <trd>mould<klr> (brite)</klr></trd>,
+     <trd>mold<klr> (usone)</klr></trd>
+  </trdgrp>
+  <trd lng="es">enmohecerse</trd>
+  <trd lng="fa">&f_k;&f_p;&f_k; &a_z;&a_d;&a_n;</trd>
+  <trd lng="fr">moisir</trd>
+  <trdgrp lng="hu">
+    <trd>pen&eacute;szedik</trd>,
+    <trd>poshad</trd>
+  </trdgrp>
+  <trdgrp lng="it">
+    <trd>ammuffire</trd>,
+    <trd>far la <ind>muffa</ind></trd>
+  </trdgrp>
+  <trd lng="nl">schimmelen</trd>
+  <trdgrp lng="pt">
+    <trd>mofar</trd>,
+    <trd>embolorar</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_l;&c_je;&c_s;&c_n;&c_je;&c_v;&c_je;&c_t;&c_mol;</trd>,
+    <trd>&c_z;&c_a;&c_p;&c_l;&c_je;&c_s;&c_n;&c_je;&c_v;&c_je;&c_t;&c_mol;
+     </trd>
+  </trdgrp>
+  <trd lng="sv">m&ouml;gla</trd>
+</drv>
+
+<drv mrk="sxim.0o.kovrajxo">
+  <kap><tld/>o</kap>
+  <snc>
+    <dif>
+     Kovra&jcirc;o de <ref tip="prt"
+     cel="sxim.0fungo"><tld/>fungo</ref>.
+    </dif>
+    <trd lng="de">Schimmel <klr tip="amb">(-pilzbelag)</klr></trd>
+  </snc>
+  <snc mrk="sxim.0o.fungo">
+    <ref tip="dif" cel="sxim.0fungo"><tld/>fungo</ref>
+  </snc>
+  <trd lng="es">moho</trd>
+  <trd lng="fa">&f_k;&f_p;&f_k;</trd>
+  <trd lng="fr">moisissure</trd>
+  <trd lng="it">muffa</trd>
+  <trd lng="sv">m&ouml;gel</trd>
+</drv>
+
+<drv mrk="sxim.0fungo">
+  <kap><tld/>fungo</kap>
+  <snc>
+    <dif>
+      Malgranda filamenta 
+      <ref tip="lst" cel="fung.0o" lst="voko:fungoj">fungo</ref>
+       el la grupo de 
+      <ref cel="fung.sak0oj">sakfungoj</ref> 
+      (<trd lng="la">Ascomycota</trd>)
+      a&ubreve; <trd lng="la">Zygomycota</trd>,
+      kreskanta en kaj sur malseka organika materialo,
+      ekz. nutra&jcirc;oj ordinare putriganta ilin
+      <klr>(kun escepto de kelkaj froma&gcirc;aj kaj kolbasaj
+      &scirc;imfungoj)</klr>.
+    </dif>
+  </snc>
+  <trd lng="de">Schmimmelpilz</trd>
+</drv>
+
+
+</art>
+<!--
+$Log: sxim.xml,v $
+Revision 1.24  2015/04/18 03:10:18  revo
+Carlos Garcia: +trd es -i -o
+
+Revision 1.23  2013/11/02 14:10:31  revo
+Wolfram Diestel: kor. ref-cel
+
+Revision 1.22  2013/11/01 12:10:12  revo
+Wolfram Diestel: +~fungo, prilaboris difinojn
+
+Revision 1.21  2012/11/29 01:10:08  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.20  2012/08/10 14:12:14  revo
+Axel Rousseau: +trd fr
+
+Revision 1.19  2010/11/10 17:30:42  revo
+Jerano Zachrisson: +trd sv
+
+Revision 1.18  2009/04/05 16:30:36  revo
+Antonio Codazzi: +trd it; +~o
+
+Revision 1.17  2002/11/01 09:16:48  revo
+-->
+</vortaro>

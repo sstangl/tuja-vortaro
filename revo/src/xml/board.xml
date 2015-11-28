@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: board.xml,v 1.13 2015/07/04 08:37:31 revo Exp $">
+<kap>
+  <rad>board</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="board.0i">
+  <kap><tld/>i</kap>
+  <snc mrk="board.0i.MAR">
+    <uzo tip="fak">MAR</uzo>
+    <dif>
+      <ref tip="vid" cel="zigzag.0i">Zigzage </ref>navigi
+      pro la kontra&ubreve;a vento:
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        servistoj <klr>...</klr> glitadis inter movi&gcirc;ado de gastoj,
+        <tld/>ante kaj transkurante kun lerteco de dancistoj
+        <fnt>
+          <aut>A. Grin, trad. J. Finkel</aut>,
+          <vrk><url ref="http://www.esperanto.mv.ru/Grin/ora.html">
+          La ora &ccirc;eno</url></vrk>,
+          <lok>2009</lok>
+        </fnt>.
+      </ekz>  
+    </dif>
+  </snc>
+  <trd lng="be">&c_l;&c_a;&c_v;&c_ib;&c_r;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>křižovat</trd>,
+    <trd>plachtit proti větru</trd>
+  </trdgrp>
+  <trd lng="de">kreuzen</trd>
+  <trdgrp lng="es">
+    <trd>bordear</trd>,
+    <trd>dar bordadas</trd>
+  </trdgrp>
+  <trd lng="fr">louvoyer</trd>
+  <trdgrp lng="hu">
+    <trd>lav&iacute;roz</trd>,
+    <trd>ferd&eacute;z</trd>
+  </trdgrp>
+  <trd lng="pl">halsowa&cacute;</trd>
+  <trd lng="ru">&c_l;&c_a;&c_v;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>križovať</trd>,
+    <trd>plachtiť proti vetru</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: board.xml,v $
+Revision 1.13  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.12  2015/06/29 16:29:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.11  2009/11/09 17:30:30  revo
+Jeromo Vasxe: + ekz + tez
+
+Revision 1.10  2006/08/02 16:33:16  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.9  2005/04/04 16:35:40  revo
+Raul Salinas Monteagudo: +trd es
+
+Revision 1.8  2004/05/02 16:32:56  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.7  2003/02/04 17:31:49  revo
+Ulrich Fellmann: + 1 trd = de
+
+Revision 1.6  2003/01/30 19:02:23  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.5  2001/02/17 19:47:58  revo
+Marc Bavant: +trd fr
+
+Revision 1.4  2000/09/07 16:12:29  revo
+-->
+</vortaro>

@@ -1,0 +1,157 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: inokul.xml,v 1.18 2015/07/04 08:37:36 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>inokul</rad>/i
+</kap>
+<drv mrk="inokul.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="inokul.0i.MED">
+    <uzo tip="fak">MED</uzo>
+    <dif>
+      Enkonduki en vivantan organismon la mikrobon de iu infekta
+      malsano,
+      &ccirc;u akcidente, &ccirc;u intence por studi ties efikon a&ubreve;
+      por krei imunan respondon:
+      <ekz>
+        <tld/>i mikrobon en beston por produktado de serumo
+        <fnt><bib>PIV2</bib></fnt>;
+      </ekz>
+      <ekz>
+        <tld/>i iun kontra&ubreve; la variolo
+        <fnt><bib>PV</bib></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="vakcin.0i">vakcini</ref>.
+    </refgrp>
+    <trd lng="de"><klr>(mit einer Lanzette) </klr>impfen</trd>
+    <trd lng="fr">inoculer<klr tip="ind"> (un germe
+    pathog&egrave;ne)</klr></trd>
+    <trd lng="hu">beolt<klr tip="ind"> (vmi ellen)</klr></trd>
+    <trdgrp lng="nl">
+      <trd>inenten</trd>,
+      <trd>vaccineren</trd>
+    </trdgrp>
+    <trdgrp lng="pt">
+     <trd>inocular</trd>, 
+     <trd>vacinar<klr tip="amb"> (inocular)</klr></trd> 
+    </trdgrp>
+  </snc>
+  <snc mrk="inokul.0i.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Komuniki al iu ian senton, kutimon:
+      <ekz>
+        <tld/>i sa&gcirc;on al iu<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        la kredo forte estis <tld/>ita al li en la mizera dometo de lia
+        hejmo
+        <fnt><bib>Fab4</bib><lok>Historio el la dunoj</lok></fnt>;
+      </ekz>
+      <ekz>
+        vi <tld/>is al <klr>[la mondo]</klr> la timon de l' morto
+        <fnt><bib>Far1</bib><lok>&ccirc;ap. 14</lok></fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;iu nacio, &ccirc;iu patrio tre zorge <tld/>as la spiriton 
+        de siaj regatoj per ideologio ta&ubreve;ga por la pluigo 
+        de siaj apartaj interesoj
+        <fnt><bib>Lanti</bib><lok>Pri Pacismo</lok></fnt>;
+      </ekz>
+      <ekz>
+        <tld/>i en ies animo<klr>[n]</klr> la abomenon al la
+        milito<fnt>B</fnt>;
+      </ekz>
+      <ekz>
+        la mahometanoj <tld/>is multe el sia civilizo al la negroj
+        <fnt><bib>PV</bib></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="infekt.0i">infekti</ref>,
+      <ref cel="inspir.0i">inspiri</ref>.
+    </refgrp>
+    <trdgrp lng="de">
+      <trd>einimpfen</trd>,
+      <trd>durchdringen</trd>,
+      <trd>erf&uuml;llen</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>inculquer</trd>,
+      <trd>inoculer<klr tip="ind"> (une passion)</klr></trd>,
+      <trd>transmettre<klr tip="ind"> (une tradition)</klr></trd>
+    </trdgrp>
+    <trd lng="nl">besmetten</trd>
+    <trdgrp lng="pt">
+     <trd>passar<klr tip="amb"> (um sentimento)</klr></trd>, 
+     <trd>transmitir<klr tip="amb"> (uma tradi&ccedil;&atilde;o)</klr></trd> 
+    </trdgrp>
+  </snc>
+  <snc mrk="inokul.0i.grefti">
+    <uzo tip="fak">BOT</uzo>
+    <uzo tip="stl">ARK</uzo>
+    <refgrp tip="dif">
+      <ref cel="greft.0i.BOT">grefti</ref>.
+    </refgrp>
+    <trdgrp lng="de">
+      <trd>pfropfen</trd>,
+      <trd>veredeln</trd>
+    </trdgrp>
+    <trd lng="nl">enten</trd>
+  </snc>
+  <trd lng="be">&c_p;&c_r;&c_y;&c_sh;&c_ch;&c_a;&c_p;&c_l;&c_ja;&c_c;&c_mol;</trd>
+  <trd lng="bg">&c_v;&c_a;&c_k;&c_s;&c_i;&c_n;&c_i;&c_r;&c_a;&c_m;</trd>
+  <trdgrp lng="cs">
+    <trd>očkovat</trd>,
+    <trd>roubovat</trd>,
+    <trd>štěpovat</trd>
+  </trdgrp>
+  <trd lng="en">inoculate</trd>
+  <trd lng="es">inocular</trd>
+  <trd lng="hu">beleolt<klr tip="ind"> (&aacute;tv.)</klr></trd>
+  <trd lng="ru">&c_p;&c_r;&c_i;&c_v;&c_i;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>očkovať</trd>,
+    <trd>vrúbľovať</trd>,
+    <trd>štepiť</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: inokul.xml,v $
+Revision 1.18  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.16  2013/09/09 17:10:16  revo
+Joop Eggen: +trd bg
+
+Revision 1.15  2005/11/03 17:31:21  revo
+Luiz Portella: +trd pt
+
+Revision 1.14  2004/01/31 17:32:13  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.13  2003/11/08 08:20:12  revo
+Alejandro Mejia Greene: ald 1 his trd
+
+Revision 1.12  2003/07/17 16:32:19  revo
+Marc Bavant: mod trd fr, +mrk, sxovis la snc, -adm; ~i MED: mod dif; ~i
+FIG: mod ekz
+
+Revision 1.11 2002/08/09 19:33:04 revo
+Ulrich Fellmann: + 6 trd de
+
+Revision 1.10 2002/05/06 16:33:03 revo
+Jozefo Horvath: +trd hu
+
+-->
+</vortaro>

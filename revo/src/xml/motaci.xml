@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: motaci.xml,v 1.19 2015/07/04 08:37:39 revo Exp $">
+<kap>
+<rad>motacil</rad>/o
+</kap>
+<drv mrk="motaci.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="motaci.0o.ZOO">
+  <uzo tip="fak">ZOO</uzo>
+    <dif>
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:zoologiaj_genroj">Genro</ref> el familio <ref
+      tip="malprt" cel="motaci1.0oj"><tld/>edoj</ref>
+      (<trd lng="la">Motacilla</trd>).
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_ib;&c_t;&c_a;&c_w;&c_k;&c_a;</trd>,
+    <trd>&c_p;&c_l;&c_ib;&c_s;&c_k;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>konipas</trd>,
+    <trd>konipas bílý</trd>
+  </trdgrp>
+  <trd lng="de">Bachstelze <klr>(k.a.)</klr></trd>
+  <trd lng="en">wagtail</trd>
+  <trdgrp lng="fr">
+    <trd>bergeronnette</trd>,
+    <trd>hoche-queue</trd>
+  </trdgrp>
+  <trd lng="hu">billeget&odblac;</trd>
+  <trd lng="nl">kwikstaart</trd>
+  <trd lng="pl">pliszka</trd>
+  <trdgrp lng="pt">
+   <trd>alv&eacute;loa <klr tip="amb">(ornit., PT)</klr></trd>,
+    <trd>alv&eacute;ola <klr tip="amb">(ornit., PT)</klr></trd>,
+    <trd>alv&eacute;ola-branca <klr tip="amb">(ornit.)</klr></trd>,
+    <trd>boieira <klr tip="amb">(ornit.)</klr></trd>,
+    <trd>lavandeira <klr tip="amb">(ornit.)</klr></trd>,
+    <trd>lavandisca <klr tip="amb">(ornit.)</klr></trd>,
+    <trd>pastorinha <klr tip="amb">(ornit.)</klr></trd>
+  </trdgrp>
+  <trd lng="ru">&c_t;&c_r;&c_ja;&c_s;&c_o;&c_g;&c_u;&c_z;&c_k;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>trasochvost biely</trd>,
+    <trd>trasorítka</trd>
+  </trdgrp>
+  <trd lng="sv">&auml;rla</trd>
+</drv>
+
+</art>
+<!--
+$Log: motaci.xml,v $
+Revision 1.19  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2013/09/08 19:11:08  revo
+Wolfram Diestel: kor. lst-ref
+
+Revision 1.16  2013/09/01 16:10:20  revo
+Wolfram Diestel: referenco al listo zoo genroj
+
+Revision 1.15  2006/08/15 12:20:14  revo
+Tulio Flores: +tr pt
+
+Revision 1.14  2004/08/19 16:33:31  revo
+Jeromo Vasxe: + trd fr
+
+Revision 1.13  2004/02/17 17:30:49  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.12  2002/03/04 17:30:55  revo
+Yury Finkel: kor eraron de skripto kun "k.a."
+
+Revision 1.11  2001/09/28 18:14:59  revo
+Paul Peeraerts: ald trd nl
+
+Revision 1.10  2001/08/02 18:12:19  revo
+-->
+</vortaro>

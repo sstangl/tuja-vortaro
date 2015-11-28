@@ -1,0 +1,116 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+  <art mrk="$Id: tabern.xml,v 1.18 2015/07/04 08:37:44 revo Exp $">
+    <kap>
+      <rad>tabernakl</rad>/o <fnt>Z</fnt>
+    </kap>
+
+    <drv mrk="tabern.0o">
+      <kap><tld/>o</kap>
+      <snc mrk="tabern.0o.BIB">
+        <uzo tip="fak">BIB</uzo>
+        <dif>
+          &Ccirc;e la antikvaj Hebreoj, portebla templo &#8208; tendo en
+          kiu estis konservata la kesto de atesto:
+          <ekz>
+            &ccirc;ar nubo de la Eternulo estis super la <tld/>o dum la
+            tago, kaj fajro estis dum la nokto super &gcirc;i,
+            anta&ubreve; la okuloj de &ccirc;iuj Izraelidoj en
+            &ccirc;iuj iliaj mar&scirc;oj
+            <fnt><bib>MT</bib>, <lok>&Eli; 40:38</lok></fnt>.
+          </ekz>
+        </dif>
+        <trd lng="hu">frigys&aacute;tor</trd>
+        <trd lng="ru">&c_s;&c_k;&c_i;&c_n;&c_i;&c_ja;</trd>
+      </snc>
+
+      <snc mrk="tabern.0o.KRI">
+        <uzo tip="fak">KRI</uzo>
+        <dif>
+          &Scirc;ranketo en <ref tip="malprt" cel="altar.0ejo">altarejo
+          </ref>, en kiu oni konservas konsekritajn
+          e&ubreve;karistia&jcirc;ojn.
+        </dif>
+        <ref tip="vid" cel="hosti.0ujo">hostiujo</ref>
+        <trdgrp lng="hu">
+          <trd>tabern&aacute;kulum</trd>,
+          <trd>szents&eacute;gh&aacute;z</trd>
+        </trdgrp>
+        <trd lng="pl">tabernakulum</trd>
+        <trd lng="ru">&c_d;&c_a;&c_r;&c_o;&c_h;&c_r;&c_a;&c_n;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_i;&c_c;&c_a;</trd>
+      </snc>
+  <trdgrp lng="be">
+        <trd>&c_t;&c_a;&c_b;&c_e;&c_r;&c_n;&c_a;&c_k;&c_l;&c_mol;</trd>,
+        <trd>&c_t;&c_a;&c_b;&c_e;&c_r;&c_n;&c_a;&c_k;&c_u;&c_l;</trd>
+        <trd>&c_s;&c_k;&c_ib;&c_n;&c_ib;&c_ja;</trd>,
+        <trd>&c_d;&c_a;&c_r;&c_a;&c_z;&c_a;&c_h;&c_a;&c_v;&c_a;&c_l;&c_mol;&c_n;&c_ib;&c_c;&c_a;</trd>
+      </trdgrp>
+  <trd lng="ca">tabernacle</trd>
+  <trdgrp lng="cs">
+    <trd>sanktuárium</trd>,
+    <trd>sanktuář</trd>,
+    <trd>skříňka na hostie</trd>,
+    <trd>svatostánek</trd>,
+    <trd>tabernákl</trd>,
+    <trd>tabernákulum</trd>
+  </trdgrp>
+  <trd lng="de">Tabernakel</trd>
+  <trd lng="fr">tabernacle</trd>
+  <trd lng="nl">tabernakel</trd>
+  <trdgrp lng="pt">
+        <trd>tabern&aacute;culo</trd>
+      </trdgrp>
+  <trdgrp lng="sk">
+    <trd>sanktuárium</trd>,
+    <trd>skrinka na hostie</trd>,
+    <trd>svätostánok</trd>
+  </trdgrp>
+  <trd lng="sv">tabernakel</trd>
+</drv>
+  </art>
+  <!--
+  $Log: tabern.xml,v $
+  Revision 1.18  2015/07/04 08:37:44  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.17  2015/06/29 16:40:19  revo
+  aldono de trd sk per skripto de M. von Laer
+
+  Revision 1.16  2012/08/10 14:11:20  revo
+  Marc Rausell: + trd ca
+
+  Revision 1.15  2009/02/10 14:18:22  revo
+  Sebastian Cyprych: -fusxaj linirompoj en trd
+
+  Revision 1.14  2008/05/19 16:30:46  revo
+  Sebastian Cyprych: +trd pl
+
+  Revision 1.13  2006/02/06 17:31:17  revo
+  Sergio Pokrovskij: dif, kor trd=ru
+
+  Revision 1.12  2006/02/02 17:33:03  revo
+  Tulio Flores: +trd pt
+
+  Revision 1.11  2005/01/15 17:32:35  revo
+  Dmitri Gabinski: +trd be
+
+  Revision 1.10  2004/01/10 17:31:09  revo
+  Emmanuel Debanne: +trd fr
+
+  Revision 1.9  2002/10/18 16:40:36  revo
+  Jozefo Horvath: +trd hu
+
+  Revision 1.8  2002/10/09 16:31:18  revo
+  Zmicier Lapcionak: + trd be
+
+  Revision 1.7  2002/03/01 17:34:14  revo
+  Yury Finkel: +trd ru, KAT->KRI
+
+  Revision 1.6 2001/07/27 19:30:45 revo
+  Jerano Zachrisson: +trd sv
+
+  Revision 1.5 2001/05/06 19:08:06 revo
+  -->
+</vortaro>

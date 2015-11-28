@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: akrid.xml,v 1.29 2015/07/04 08:37:30 revo Exp $">
+<kap>
+<ofc>*</ofc>
+<rad>akrid</rad>/o
+</kap>
+<drv mrk="akrid.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="akrid.0o.KOMUNE">
+    <dif>
+      Iu el la familio <tld/>edoj, 
+      salt<ref tip="lst" cel="insekt.0o"
+      lst="voko:insektoj">insekto</ref> 
+      kun mallongaj antenoj
+      kaj povanta muziki per frotado de la kruroj al la elitroj.
+    </dif>
+    <trd lng="be">&c_s;&c_a;&c_r;&c_a;&c_n;&c_ch;&c_a;</trd>
+    <trd lng="de">Heuschrecke</trd>
+    <trdgrp lng="br">
+        <trd>karv-raden</trd>,
+        <trd>kilhog-raden</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+        <trd>grasshopper</trd>,
+        <trd>locust</trd>
+     </trdgrp>
+    <trd lng="fr">criquet</trd>
+    <trd lng="hu">s&aacute;ska</trd>
+    <trd lng="id">belalang</trd>
+    <trd lng="nl">sprinkhaan</trd>
+    <trdgrp lng="pl">
+      <trd>konik polny</trd>,
+      <trd>szara&nacute;cza</trd>
+    </trdgrp>
+    <trdgrp lng="pt">
+        <trd>gafanhoto</trd>,
+        <trd>grilo</trd>
+     </trdgrp>
+    <trd lng="sv">gr&auml;shoppa</trd>
+  </snc>
+  <snc mrk="akrid.0o.genro">
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:zoologiaj_genroj">Genro</ref> el familio <ref
+      tip="malprt"
+      cel="akride.0oj"><tld/>edoj</ref>
+      (<trd lng="la">Acridium</trd>).
+    </dif>
+    <trdgrp lng="de">
+      <trd>Feldheuschrecke</trd>,
+      <trd>Heuh&uuml;pfer</trd>,
+      <trd>Grille</trd>
+    </trdgrp>
+    <trd lng="en">Acridium</trd>
+    <trd lng="pl">szara&nacute;cza</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>kobylka luční</trd>,
+    <trd>saranče</trd>
+  </trdgrp>
+  <trd lng="ru">&c_s;&c_a;&c_r;&c_a;&c_n;&c_ch;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>kobylka</trd>,
+    <trd>kobylka <klr>(hmyz)</klr></trd>,
+    <trd>saranča</trd>
+  </trdgrp>
+</drv>
+
+</art>
+<!--
+$Log: akrid.xml,v $
+Revision 1.29  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.28  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.27  2014/07/03 17:10:20  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.26  2013/10/03 08:11:03  revo
+Wolfram Diestel: listo insektoj
+
+Revision 1.25  2013/09/01 13:10:34  revo
+Wolfram Diestel: referenco al listo zoo genroj
+
+Revision 1.24  2009/07/17 16:31:08  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.23  2008/11/19 09:28:33  revo
+Wieland Pusch: entoj por unikodo
+
+Revision 1.22  2008/11/05 17:31:20  revo
+Russ Williams: +trd en (forigi "cricket")
+
+Revision 1.21  2005/02/21 18:55:12  revo
+Alan ar Gall: + trd br
+
+Revision 1.20  2003/05/18 18:00:06  revo
+-->
+</vortaro>

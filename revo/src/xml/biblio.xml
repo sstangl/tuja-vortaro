@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: biblio.xml,v 1.16 2015/07/04 08:37:31 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>bibliografi</rad>/o
+</kap>
+
+<drv mrk="biblio.0o">
+  <kap><tld/>o</kap>
+  <snc>
+    <dif>
+      Listo de dokumentoj konsultitaj por verki ion a&ubreve; pri sama
+      temo:
+      <ekz>
+        ja neniu <tld/>o estas kompleta<fnt><aut>Paul Peeraerts</aut>:
+        <vrk>Kiu sekvos? (William Auld kaj E. G. Evans, Bibliografio de
+        tradukoj el la angla lingvo)</vrk>, <bib>Monato</bib><lok>jaro
+        1996a, numero 6a, p. 20a</lok></fnt>.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="biblio2.0o">bibliografo</ref>
+  </snc>
+  <trd lng="be">&c_b;&c_ib;&c_b;&c_l;&c_ib;&c_ja;&c_g;&c_r;&c_a;&c_f;&c_ib;&c_ja;</trd>
+  <trd lng="bg">&c_b;&c_i;&c_b;&c_l;&c_i;&c_o;&c_g;&c_r;&c_a;&c_f;&c_i;&c_ja;</trd>
+  <trdgrp lng="cs">
+    <trd>bibliografie</trd>,
+    <trd>seznam literatury</trd>
+  </trdgrp>
+  <trd lng="de">Bibliografie</trd>
+  <trd lng="en">bibliography</trd>
+  <trd lng="es">bibliograf&iacute;a</trd>
+  <trd lng="fa">&f_k;&a_t;&a_A;&a_b;&a_n;&a_A;&a_m;&a_h;</trd>
+  <trd lng="fr">bibliographie</trd>
+  <trd lng="hu">bibliogr&aacute;fia</trd>
+  <trd lng="mk">&c_b;&c_i;&c_b;&c_l;&c_i;&c_o;&c_g;&c_r;&c_a;&c_f;&c_i;&#1112;&c_a;</trd>
+  <trd lng="nl">bibliografie</trd>
+  <trd lng="pl">bibliografia</trd>
+  <trd lng="ru">&c_b;&c_i;&c_b;&c_l;&c_i;&c_o;&c_g;&c_r;&c_a;&c_f;&c_i;&c_ja;</trd>
+  <trd lng="sk">bibliografia</trd>
+  <trd lng="uk">&c_b;&c_ib;&c_b;&c_l;&c_ib;&c_o;&c_g;&c_r;&c_a;&c_f;&c_ib;&c_ja;</trd>
+</drv>
+</art>
+<!--
+$Log: biblio.xml,v $
+Revision 1.16  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/05/07 13:10:17  revo
+Joop Eggen: +trd bg nl k.a.
+
+Revision 1.14  2009/07/11 16:31:48  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.13  2009/02/20 08:36:26  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.12  2007/06/13 16:32:33  revo
+Wieland Pusch: +trd de
+
+Revision 1.11  2003/11/28 17:31:25  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.10  2003/03/14 17:33:51  revo
+Christopher Zervic: + ang
+
+Revision 1.9  2003/01/14 17:35:08  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.8  2002/10/10 16:46:38  revo
+-->
+</vortaro>

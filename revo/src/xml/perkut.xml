@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: perkut.xml,v 1.8 2015/08/22 14:10:19 revo Exp $">
+<kap>
+  <rad>perkut</rad>/i <fnt><bib>SPV</bib></fnt>
+</kap>
+<drv mrk="perkut.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <uzo tip="stl">RAR</uzo>
+  <snc>
+  <ref tip="dif" cel="frap.0i.bati">frapi <sncref/></ref>
+  <ref tip="dif" cel="frap.0i.produktiSonon">frapi <sncref/></ref>
+  <ekz>
+    la apartamenton <klr>...</klr> oni zorge <klr>...</klr> traser&ccirc;is,
+    <tld/>is &gcirc;iajn murojn, esploris la kamentubojn<fnt><bib>MkM</bib>,
+    <lok>&ccirc;apitro 27a, p. 288a</lok></fnt>;
+  </ekz>
+  <ekz>
+    la du rakontistinoj <klr>...</klr> <tld/>is jen rapide, jen lante,
+    tute ritme
+    <fnt><bib>RugxDom</bib>, <lok>&ccirc;apitro 54a, volumo 2a, p.
+    213a</lok></fnt>.
+  </ekz>
+  </snc>
+  <trd lng="ca">percudir</trd>
+  <trd lng="en">percuss</trd>
+  <trd lng="fr">percuter</trd>
+  <trdgrp lng="nl">
+    <trd>slaan<klr tip="ind"> (drummen)</klr></trd>,
+    <trd>drummen</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>percutir</trd>,
+    <trd>bater</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>poklepa&tcaron;</trd>,
+    <trd>preklepa&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>oklepat</trd>,
+    <trd>poklepat</trd>,
+    <trd>proklepat</trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log: perkut.xml,v $
+Revision 1.8  2015/08/22 14:10:19  revo
+Damien Brucker: +trd fr
+
+Revision 1.7  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.6  2015/06/29 16:40:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.5  2012/08/10 14:11:50  revo
+Marc Rausell: + trd ca
+
+Revision 1.4  2010/10/26 16:31:18  revo
+Russ Williams: +trd en
+
+Revision 1.3  2009/10/24 16:31:21  revo
+Paul Peeraerts: +nl
+
+Revision 1.2  2006/02/27 17:35:01  revo
+Tulio Flores: +tr pt
+
+Revision 1.1  2005/03/06 17:38:50  revo
+-->
+</vortaro>

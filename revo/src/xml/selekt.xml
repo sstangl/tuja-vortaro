@@ -1,0 +1,160 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: selekt.xml,v 1.19 2015/07/04 08:37:43 revo Exp $">
+<kap>
+  <rad>selekt</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="selekt.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="selekt.0i.KOMUNE">
+    <dif>
+      <ref tip="super" cel="elekt.0i.KOMUNE">Elekti</ref>
+      kaj apartigi bonajn erojn, for&jcirc;etante aliajn.
+    </dif>
+    <subsnc mrk="selekt.0i.bredo">
+      <uzo tip="fak">BOT</uzo>
+      <uzo tip="fak">ZOO</uzo>
+      <dif>
+        Elekti kun la celo plibonigi specon, rason ks.
+      </dif>
+    </subsnc>
+    <rim>
+      Oni ne konfuzu kun <ref cel="elekt.0i">elekti</ref> en pli
+      &gcirc;enerala senco.
+    </rim>
+  </snc>
+  <trd lng="ca">seleccionar</trd>
+  <trdgrp lng="cs">
+    <trd>provádět selekci</trd>,
+    <trd>provádět výběr</trd>,
+    <trd>vybírat</trd>
+  </trdgrp>
+  <trd lng="de">selektieren</trd>
+  <trd lng="es">seleccionar</trd>
+  <trd lng="fr">s&eacute;lectionner</trd>
+  <trdgrp lng="hu">
+    <trd>kiv&aacute;laszt</trd>,
+    <trd>szelekt&aacute;l</trd>
+  </trdgrp>
+  <trd lng="it">selezionare<klr> (agr, allev, nat.)</klr></trd>
+  <trdgrp lng="nl">
+    <trd>selecteren</trd>,
+    <trd>kweken</trd>,
+    <trd>fokken</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_o;&c_t;&c_b;&c_i;&c_r;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_s;&c_je;&c_l;&c_je;&c_k;&c_c;&c_i;&c_o;&c_n;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>odladiť <klr>(rádio, tel.)</klr></trd>,
+    <trd>selektovať</trd>,
+    <trd>vybrať</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="selekt.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="selekt.0o.KOMUNE">
+    <dif>
+      Ago <tld/>i a&ubreve; rezulto de tiu ago.
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_e;&c_l;&c_je;&c_k;&c_c;&c_y;&c_ja;</trd>, 
+    <trd>&c_a;&c_d;&c_b;&c_o;&c_r;</trd> 
+  </trdgrp>
+  <trd lng="ca">selecci&oacute;</trd>
+  <trdgrp lng="cs">
+    <trd>selekce</trd>,
+    <trd>výběr</trd>
+  </trdgrp>
+  <trd lng="de">Selektion</trd>
+  <trd lng="es">selecci&oacute;n</trd>
+  <trd lng="fr">s&eacute;lection</trd>
+  <trdgrp lng="hu">
+    <trd>kiv&aacute;laszt&oacute;d&aacute;s</trd>,
+    <trd>szelekci&oacute;</trd>
+  </trdgrp>
+  <trd lng="it">selezione<klr> (agr, allev, nat.)</klr></trd>
+  <trd lng="nl">selectie</trd>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_je;&c_l;&c_je;&c_k;&c_c;&c_i;&c_ja;</trd>,
+    <trd>&c_o;&c_t;&c_b;&c_o;&c_r;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>selekcia</trd>,
+    <trd>výber</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="selekt.natura0o">
+  <kap>natura <tld/>o,
+  <var><kap>natura <tld/>ado</kap></var></kap>
+  <snc mrk="selekt.natura0o.BIO">
+    <uzo tip="fak">BIO</uzo>
+    <dif>
+      Rezulto de konkurado inter individuoj kaj grupoj por
+      pluvivado, pro kiu konservi&gcirc;as kaj naskas idojn
+      plej bone adaptitaj vivuloj:
+      <ekz>
+        konservon de favoraj varioj kaj forigon de
+        malfavoraj varioj, mi nomas Natura <tld lit="S"/>ado
+        <fnt><bib>OriginoDeSpecioj</bib>, <lok>&ccirc;apitro 4a</lok></fnt>;
+      </ekz>
+      <ekz>
+         ekzistas multaj aliaj faktoroj, kiuj influas la evolucion
+         apud la natura <tld/>o a&ubreve; kunlabore kun &gcirc;i
+         <fnt>
+           <bib>Viki</bib>,
+           <lok><url ref="http://eo.wikipedia.org/wiki/Jaroslav_Flegr">
+           Jaroslav Flegr</url>, 2012-01-22</lok>
+         </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>přirozený výběr</trd>,
+    <trd>přírodní výběr</trd>
+  </trdgrp>
+  <trd lng="es">selecci&oacute;n natural</trd>
+  <trd lng="fr">s&eacute;lection naturelle</trd>
+  <trd lng="hu">term&eacute;szetes <ind>kiv&aacute;laszt&oacute;d&aacute;s</ind></trd>
+  <trd lng="sk">prirodzený výber</trd>
+</drv>
+</art>
+<!--
+$Log: selekt.xml,v $
+Revision 1.19  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2014/12/09 11:11:12  revo
+Guillermo Molleda Jimena: trd es
+
+Revision 1.16  2012/08/17 13:10:09  revo
+Jeromo Vasxe: + natura ~o
+
+Revision 1.15  2012/08/01 09:10:38  revo
+Marc Rausell: + trd ca
+
+Revision 1.14  2012/07/31 11:10:08  revo
+Jeromo Vasxe: + gxenerala snc + trd fr
+
+Revision 1.13  2010/07/15 16:30:18  revo
+Russ Williams: rim
+
+Revision 1.12  2010/07/14 16:30:26  revo
+Russ Williams: +rim ne konfuzu kun elekti
+
+Revision 1.11  2009/10/24 16:32:28  revo
+Antonio Codazzi: +trd it
+
+Revision 1.10  2004/10/05 16:59:02  revo
+-->
+</vortaro>

@@ -1,0 +1,270 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: sxalt.xml,v 1.18 2015/09/17 22:10:25 revo Exp $">
+<kap>
+  <ofc>9</ofc><rad>&scirc;alt</rad>/i <fnt><bib>SPV</bib></fnt>
+</kap>
+<drv mrk="sxalt.0i">
+  <kap><ofc>9</ofc><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="sxalt.0i.ELE">
+    <uzo tip="fak">ELE</uzo>
+    <dif>
+      Fermi elektran cirkviton, tiel ke la kurento povas trapasi:
+      <ekz>
+        <ind><tld/>i la lumon</ind>,
+        <trd lng="es"><ind>encender</ind> la luz</trd>
+        <trd lng="fr"><ind>allumer</ind> la lumi&egrave;re</trd>
+        <trd lng="hu">felgy&uacute;jta a villanyt</trd>
+      </ekz>
+      <ekz>
+        la ekbrulon <klr>(de motoro)</klr>.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="komut.0i">komuti</ref>
+  </snc>
+  <trd lng="be">&c_u;&c_k;&c_l;&c_ju;&c_ch;&c_a;&c_c;&c_mol; 
+<klr>(&c_s;&c_mol;&c_v;&c_ja;&c_t;&c_l;&c_o;,
+  &c_e;&c_l;&c_je;&c_k;&c_t;&c_r;&c_y;&c_ch;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;)
+</klr></trd>
+  <trd lng="de">einschalten</trd>
+  <trdgrp lng="en">
+    <trd>switch on</trd>,
+    <trd>turn on</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>encender (un aparato el&eacute;ctrico)</trd>,
+    <trd>poner en marcha (un aparato el&eacute;ctrico)</trd>,
+    <trd>cerrar(un circuito el&eacute;ctrico)</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>fermer<klr tip="amb"> (un circuit)</klr></trd>
+    <trd>enclencher<klr tip="amb"> (un m&eacute;canisme)</klr></trd>
+    <trd>allumer<klr tip="amb"> (mettre en fonctionnement)</klr></trd>
+    <trd>mettre en <ind>circuit</ind></trd>
+  </trdgrp>
+  <trd lng="hu">bekapcsol</trd>
+  <trd lng="it">accendere<klr> (dare corrente, mettere in
+  funzione)</klr>
+</trd>
+  <trdgrp lng="pl">
+    <trd>w&lstroke;&aogonek;cza&cacute;</trd>,
+    <trd>zapala&cacute;</trd>
+  </trdgrp>
+  <trd lng="ru">&c_v;&c_k;&c_l;&c_ju;&c_ch;&c_i;&c_t;&c_mol;</trd>
+  <trdgrp lng="nl">
+    <trd>aansteken<klr tip="ind"> (licht)</klr></trd>,
+    <trd>aanzetten</trd>
+  </trdgrp>
+  <trd lng="pt">ligar</trd>
+</drv>
+
+<drv mrk="sxalt.0ilo">
+  <kap><ofc>9</ofc><tld/>ilo</kap>
+  <snc mrk="sxalt.0ilo.ELE">
+    <uzo tip="fak">ELE</uzo>
+    <dif>
+      Aparato, provizita per prem- a&ubreve; baskulbutono, kaj servanta
+      jen
+      por <tld/>i, jen por mal<tld/>i elektran kurenton:
+      <ekz>
+        duvoja <tld/>ilo.
+      </ekz>
+    </dif>
+  </snc>
+  <adm>
+    En la difino aperas "prembutono" kaj "baskulbutono". La unua estas
+    prialudita
+    en ekzemplo &ccirc;e "buton", sed la dua tute mankas.
+    <aut>MB</aut>
+  </adm>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_je;&c_r;&c_a;&c_k;&c_l;&c_ju;&c_ch;&c_a;&c_l;&c_mol;&c_n;&c_ib;&c_k;
+</trd>,
+    <trd>&c_u;&c_k;&c_l;&c_ju;&c_ch;&c_a;&c_l;&c_mol;&c_n;&c_ib;&c_k;</trd>,
+    <trd>&c_v;&c_y;&c_k;&c_l;&c_ju;&c_ch;&c_a;&c_l;&c_mol;&c_n;&c_ib;&c_k;
+</trd>
+  </trdgrp>
+  <trdgrp lng="bg">
+    <trd>(&c_je;&c_l;&c_je;&c_k;&c_t;&c_r;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;)
+    
+<ind>&c_k;&c_l;&c_ju;&c_ch;</ind></trd>,
+    <trd>&c_sh;&c_a;&c_l;&c_t;&c_je;&c_r;</trd>
+  </trdgrp>
+  <trd lng="de">Schalter</trd>
+  <trd lng="en">switch</trd>
+  <trdgrp lng="es">
+     <trd>interruptor</trd>,
+     <trd>conmutador</trd>
+  </trdgrp>   
+  <trd lng="fr">interrupteur</trd>
+  <trd lng="hu">kapcsol&oacute;</trd>
+  <trd lng="it">interruttore</trd>
+  <trd lng="nl">schakelaar</trd>
+  <trd lng="pl">wy&lstroke;&aogonek;cznik</trd>
+  <trd lng="pt">interruptor</trd>
+  <trd
+  lng="ru">&c_v;&c_y;&c_k;&c_l;&c_ju;&c_ch;&c_a;&c_t;&c_je;&c_l;&c_mol;
+</trd>
+</drv>
+
+<drv mrk="sxalt.baskul0ilo">
+  <kap>baskul<tld/>o</kap>
+  <snc>
+    <uzo tip="fak">ELE</uzo>
+    <dif>
+      <ref tip="super" cel="sxalt.0ilo"><tld lit="&Scirc;"/>ilo</ref>,
+      kiu
+      funkcias per baskula movo.
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_je;&c_r;&c_a;&c_k;&c_l;&c_ju;&c_ch;&c_a;&c_l;&c_mol;&c_n;&c_ib;&c_k;
+</trd>,
+    <trd>&c_t;&c_u;&c_m;&c_b;&c_l;&c_je;&c_r;</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>toggle switch</trd>
+  </trdgrp>
+  <trd lng="es">conmutador de palanca</trd>
+  <trd lng="fr">interrupteur &agrave; bascule</trd>
+  <trd lng="hu">billen&odblac;kapcsol&oacute;</trd>
+  <trd lng="it">interruttore</trd>
+  <trdgrp lng="pl">
+    <trd>prze&lstroke;&aogonek;cznik</trd>,
+    <trd>wy&lstroke;&aogonek;cznik dwupozycyjny</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_je;&c_r;&c_je;&c_k;&c_l;&c_ju;&c_ch;&c_a;&c_t;&c_je;&c_l;&c_mol;
+</trd>,
+    <trd>&c_t;&c_u;&c_m;&c_b;&c_l;&c_je;&c_r;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="sxalt.mal0i">
+  <kap><ofc>9</ofc>mal<tld/>i, <var><kap>el<tld/>i</kap></var></kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <uzo tip="fak">ELE</uzo>
+    <dif>
+      Malfermi elektran cirkviton, tiel ke la kurento ne povas trapasi:
+      <ekz>
+        mal<tld/>i la lumon,
+      </ekz>
+      <ekz>
+        la ekbrulon de motoro,
+      </ekz>
+      <ekz>
+        la radioaparaton;
+      </ekz>
+      <ekz>
+        ne el<tld/>u, ni tuj dissendos la da&ubreve;rigon de la
+        programo!
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_v;&c_y;&c_k;&c_l;&c_ju;&c_ch;&c_a;&c_c;&c_mol; 
+<klr>(&c_e;&c_l;&c_je;&c_k;&c_t;&c_r;&c_y;&c_ch;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;,
+    &c_s;&c_mol;&c_v;&c_ja;&c_t;&c_l;&c_o;)</klr></trd>,
+    <trd>&c_a;&c_d;&c_k;&c_l;&c_ju;&c_ch;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="de">ausschalten</trd>
+  <trdgrp lng="en">
+    <trd>switch off</trd>,
+    <trd>turn off</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>desconectar</trd>,
+    <trd>apagar (un aparato el&eacute;ctrico)</trd>,
+    <trd>parar (un aparato el&eacute;ctrico)</trd>,
+    <trd>abrir (un circuito el&eacute;ctrico)</trd>
+  </trdgrp>
+  <trd lng="et">l&uuml;litada</trd>
+  <trdgrp lng="fr">
+    <trd>ouvrir<klr tip="amb"> (un circuit)</klr></trd>
+    <trd>&eacute;teindre<klr tip="amb"> (un
+    m&eacute;canisme)</klr></trd>
+    <trd>arr&ecirc;ter<klr tip="amb"> (faire cesser le
+    fonctionnement)</klr></trd>
+    <trd>mettre hors <ind>circuit</ind></trd>
+  </trdgrp>
+  <trd lng="hu">kikapcsol</trd>
+ <trd lng="it">spegnere<klr> (togliere corrente, arrestare)</klr>
+</trd>
+  <trdgrp lng="nl">
+    <trd>uitschakelen</trd>,
+    <trd>afzetten</trd>,
+    <trd>doven<klr tip="ind"> (licht)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>wy&lstroke;&aogonek;cza&cacute;</trd>,
+    <trd>gasi&cacute;</trd>
+  </trdgrp>
+  <trd lng="pt">desligar</trd>
+  <trdgrp lng="ru">
+    <trd>&c_v;&c_y;&c_k;&c_l;&c_ju;&c_ch;&c_i;&c_t;&c_mol;</trd>,
+    <trd>&c_o;&c_t;&c_k;&c_l;&c_ju;&c_ch;&c_i;&c_t;&c_mol;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="sxalt.mem0ilo">
+  <kap>mem<tld/>ilo</kap>
+  <snc>
+    <uzo tip="fak">ELE</uzo>
+    <dif>
+      A&ubreve;tomata <tld/>ilo, funkcianta per si mem je certaj 
+      kondi&ccirc;oj.
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_w;&c_t;&c_a;&c_m;&c_a;&c_t;&c_y;&c_ch;&c_n;&c_y;
+    <ind>&c_p;&c_je;&c_r;&c_a;&c_k;&c_l;&c_ju;&c_ch;&c_a;&c_l;&c_mol;&c_n;&c_ib;&c_k;
+</ind></trd>,
+    <trd>&c_a;&c_w;&c_t;&c_a;&c_m;&c_a;&c_t;&c_y;&c_ch;&c_n;&c_y; 
+<ind>&c_w;&c_k;&c_l;&c_ju;&c_ch;&c_a;&c_l;&c_mol;&c_n;&c_ib;&c_k;</ind>
+</trd>,
+    <trd>&c_a;&c_w;&c_t;&c_a;&c_m;&c_a;&c_t;&c_y;&c_ch;&c_n;&c_y;
+    <ind>&c_v;&c_y;&c_k;&c_l;&c_ju;&c_ch;&c_a;&c_l;&c_mol;&c_n;&c_ib;&c_k;
+</ind></trd>
+  </trdgrp>
+  <trd lng="de">automatischer <ind>Schalter</ind></trd>
+  <trd lng="en">automatic switch</trd>
+  <trd lng="es">interruptor autom&aacute;tico</trd>
+  <trd lng="hu">automata <ind>kapcsol&oacute;</ind></trd>
+  <trd lng="it"><ind>interruttore</ind> automatico</trd>
+  <trd lng="nl">automatische <ind>schakelaar</ind></trd>
+  <trd lng="pl">wy&lstroke;&aogonek;cznik automatyczny</trd>
+  <trd lng="ru">
+&c_a;&c_v;&c_t;&c_o;&c_m;&c_a;&c_t;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j;
+  &c_v;&c_y;&c_k;&c_l;&c_ju;&c_ch;&c_a;&c_t;&c_je;&c_l;&c_mol;</trd>
+</drv>
+</art>
+<!--
+$Log: sxalt.xml,v $
+Revision 1.18  2015/09/17 22:10:25  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.17  2015/09/17 16:10:27  revo
+Bora Can Asli: +trd et
+
+Revision 1.16  2015/01/24 08:10:15  revo
+Alain Gerard: +trd (fr)
+
+Revision 1.15  2009/11/28 17:30:39  revo
+Santiago Amposta: hispanen
+
+Revision 1.14  2009/03/28 17:31:11  revo
+Antonio Codazzi: +trd it
+
+Revision 1.13  2009/03/01 17:33:57  revo
+Russ Williams: +trd en 9OA
+
+Revision 1.12  2008/11/16 17:31:12  revo
+Marc Bavant: +drv baskul~ilo el sub baskul, +trd fr; ~i: kor ref tip
+sin; ~ilo: +adm; mal~i: mod kap
+
+-->
+</vortaro>

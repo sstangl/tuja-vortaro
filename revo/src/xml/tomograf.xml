@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: tomograf.xml,v 1.8 2015/07/04 08:37:45 revo Exp $">
+<kap>
+    <rad>tomograf</rad>/o <fnt><bib>PIV2</bib></fnt>
+</kap>
+<drv mrk="tomograf.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="stl">EVI</uzo>
+  <snc mrk="tomograf.0o.TEK">
+    <uzo tip="fak">SCI</uzo>
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      <ref tip="vid" cel="tomografi.0o.TEK">Tomografi</ref>ilo;
+      aparato kiu esploras objekton per sensadoj a&ubreve; mezuroj
+      kaj bildigas &gcirc;ian internon:
+      <ekz>
+        esploro per komputila <tld/>o rivelis, ke mi suferas pro cerba
+        tumoro (gliblastomo) en la dekstra tempia lobo
+        <fnt>
+          <aut>A. Burkhardt</aut>,
+          <vrk><url
+          ref="http://groups.yahoo.com/group/ikue/message/1457">
+          Adolf salutas</url></vrk>,
+          <lok>ikue, 2003-07-22</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        magnetresonanca <tld/>o
+        <fnt>
+          <aut>B. Wennergren</aut>,
+          <vrk><url
+          ref="http://bertilow.com/blogo/2007/10/lambastonoj/">
+          Lambastonoj</url></vrk>,
+          <lok>2007-10-02</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_t;&c_a;&c_m;&c_o;&c_g;&c_r;&c_a;&c_f;</trd>
+  <trd lng="ca">tom&ograve;graf</trd>
+  <trd lng="cs">tomograf</trd>
+  <trd lng="fr">tomographe</trd>
+  <trd lng="it">tomografo</trd>
+  <trd lng="pl">tomograf</trd>
+  <trd lng="sk">tomograf</trd>
+</drv>
+</art>
+
+<!--
+$Log: tomograf.xml,v $
+Revision 1.8  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.7  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.6  2013/02/11 10:10:17  revo
+Dmitri Gabinski: redakto: +trd be
+
+Revision 1.5  2012/08/21 10:10:09  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.4  2012/08/14 12:10:19  revo
+Marc Rausell: + trd ca
+
+Revision 1.3  2010/05/27 16:30:21  revo
+Jeromo Vasxe: + evitinda post grupa diskuto
+
+Revision 1.2  2010/05/22 16:30:21  revo
+Antonio Codazzi: +trd it
+
+Revision 1.1  2010/05/21 16:30:58  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

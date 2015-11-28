@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: gak.xml,v 1.13 2015/07/04 08:37:34 revo Exp $">
+<kap>
+  <rad>gak</rad>/i <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="gak.0i">
+  <kap><tld/>i</kap>
+  <snc mrk="gak.0i.ZOO">
+    <dif>
+      <ref tip="super" cel="blek.0i.beste">Bleki</ref> kiel <ref
+      tip="vid"
+      cel="anas.0o.ZOO">anaso</ref> a&ubreve; <ref tip="vid"
+      cel="anser.0o.genro">ansero</ref>.
+    </dif>
+  </snc>
+  <trd lng="bg">&c_k;&c_u;&c_d;&c_k;&c_u;&c_d;&c_ja;&c_k;&c_a;&c_m;</trd>
+  <trd lng="ca">clacar</trd>
+  <trd lng="cs">kejhat</trd>
+  <trd lng="de">gackern</trd>
+  <trd lng="en">cackle</trd>
+  <trd lng="fr">cancaner</trd>
+  <trd lng="hu">g&aacute;gog</trd>
+  <trdgrp lng="nl">
+    <trd>gakken</trd>,
+    <trd>kakelen</trd>
+  </trdgrp>
+  <trd lng="pt">grasnar</trd>
+  <trd lng="sk">gágať</trd>
+</drv>
+
+<drv mrk="gak.gik0">
+  <kap>gik <tld/></kap>
+  <gra><vspec>sonimito</vspec></gra>
+  <snc mrk="gak.gik0.SON">
+    <dif>
+      <ref tip="lst" cel="blek.0o"
+      lst="voko:blekoj">Bleko</ref>
+      de anaso a&ubreve; simila akvobirdo:
+      <ekz>
+        la anasoj kriis &leftquot;gik-<tld/>, gik-<tld/>!&rightquot;
+        <fnt><bib>Fab2</bib>, <lok>dio de dormo, merkredo</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <adm>
+    Mi dubas, &ccirc;u tio povas esti konsiderata deriva&jcirc;o
+    de radiko "gak". &Ccirc;u ekzistas radiko "gik"?
+    <aut>MB</aut>
+  </adm>
+  <trdgrp lng="ca">
+    <trd>coac-coac</trd>,
+    <trd>q&uuml;ec-q&uuml;ec</trd>
+  </trdgrp>
+  <trd lng="de">Gak-gak</trd>
+  <trd lng="fr">coin-coin</trd>
+  <trd lng="hu">g&aacute;-g&aacute;</trd>  
+  <trd lng="sk">citoslovce hlasu kačice</trd>
+  <trd lng="cs">citoslovce hlasu kachny gagaga</trd>
+</drv>
+</art>
+
+<!--
+$Log: gak.xml,v $
+Revision 1.13  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.12  2015/06/29 16:29:39  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.11  2013/10/11 08:10:11  revo
+Jeromo Vasxe: - streketo
+
+Revision 1.10  2013/10/10 19:10:12  revo
+Jeromo Vasxe: ref al lst blekoj
+
+Revision 1.9  2013/08/09 11:10:10  revo
+Joop Eggen: +trd bg en
+
+Revision 1.8  2012/08/18 17:10:07  revo
+Marc Rausell: + trd ca
+
+Revision 1.7  2008/12/11 17:30:54  revo
+Wieland Pusch: +trd de
+
+Revision 1.6  2007/04/28 16:30:35  revo
+Tulio Flores: +tr pt
+
+Revision 1.5  2005/06/05 16:56:43  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.4  2005/02/20 17:33:34  revo
+-->
+</vortaro>

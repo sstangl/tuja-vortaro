@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: auxtarki.xml,v 1.11 2012/05/31 11:10:10 revo Exp $">
+<kap>
+  <rad>a&ubreve;tarki</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="auxtarki.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="stl">RAR</uzo>
+  <snc mrk="auxtarki.0o.POL">
+    <uzo tip="fak">POL</uzo>
+    <ref tip="dif" cel="reg.mem0ado.POL">memregado<sncref/></ref>
+    <trdgrp lng="be">
+      <trd>&c_a;&c_w;&c_t;&c_a;&c_r;&c_k;&c_ib;&c_ja;</trd>,
+      <trd>&c_p;&c_a;&c_l;&c_ib;&c_t;&c_y;&c_ch;&c_n;&c_a;&c_ja; <ind>&c_n;&c_je;&c_z;&c_a;&c_l;&c_je;&c_zh;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</ind></trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd>Autarkie</trd>,
+      <trd>politische <ind>Unabh&auml;ngigkeit</ind></trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>autarky</trd>,
+      <trd>autarchy</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>autarkia<klr tip="amb"> (politikai)</klr></trd>,
+      <trd>politikai <ind>&ouml;n&aacute;ll&oacute;s&aacute;g</ind></trd>
+    </trdgrp>
+    <trd lng="it">autarchia</trd>
+    <trdgrp lng="ru">
+      <trd>&c_a;&c_v;&c_t;&c_a;&c_r;&c_k;&c_i;&c_ja;</trd>,
+      <trd>&c_p;&c_o;&c_l;&c_i;&c_t;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_a;&c_ja; <ind>&c_n;&c_je;&c_z;&c_a;&c_v;&c_i;&c_s;&c_i;&c_m;&c_o;&c_s;&c_t;&c_mol;</ind></trd>
+    </trdgrp>
+  </snc>
+  <refgrp tip="vid">
+    <ref cel="auxtarci.0o.EKON">a&ubreve;tarcio</ref>
+  </refgrp>
+  <rim mrk="auxtarki.0o.RIM">
+    PIV1 enkondukis distingon inter ekonomia <em>a&ubreve;tarcio</em>
+    kaj politika <em>a&ubreve;tarkio</em>.  La kontrasto ne ekzistas
+    en &ccirc;iuj koncernaj lingvoj a&ubreve; &ccirc;e &ccirc;iuj a&ubreve;toroj.
+    Oni pli sekure parolos pri respektive <em>memsufi&ccirc;o</em>
+    kaj <em>memregeco</em>, eventuale nuancigante &ccirc;i-lastan
+    per <em>sendependeco</em> a&ubreve; <em>a&ubreve;tonomeco</em>.
+    <aut>&jcirc;v</aut>
+  </rim>
+</drv>
+
+<drv mrk="auxtarki.0a">
+  <kap><tld/>a</kap>
+  <uzo tip="stl">RAR</uzo>
+  <snc mrk="auxtarki.0a.POL">
+    <dif>
+      Memrega.
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_a;&c_w;&c_t;&c_a;&c_r;&c_k;&c_ib;&c_ch;&c_n;&c_y;</trd>,
+      <trd>&c_p;&c_a;&c_l;&c_ib;&c_t;&c_y;&c_ch;&c_n;&c_a; <ind>&c_n;&c_je;&c_z;&c_a;&c_l;&c_je;&c_zh;&c_n;&c_y;</ind></trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd>autark</trd>,
+      <trd>politisch <ind>unabh&auml;ngig</ind></trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>autarkic(al)</trd>,
+      <trd>autarchic(al)</trd>
+    </trdgrp>
+    <trd lng="es">autarqu&iacute;a</trd>
+    <trdgrp lng="hu">
+      <trd>autark<klr tip="amb"> (politikailag)</klr></trd>,
+      <trd>politikailag <ind>&ouml;n&aacute;ll&oacute;</ind></trd>
+    </trdgrp>
+    <trd lng="it">autarchico</trd>
+    <trdgrp lng="ru">
+      <trd>&c_a;&c_v;&c_t;&c_a;&c_r;&c_k;&c_i;&c_ch;&c_n;&c_y;&c_j;</trd>,
+      <trd>&c_p;&c_o;&c_l;&c_i;&c_t;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i; <ind>&c_n;&c_je;&c_z;&c_a;&c_v;&c_i;&c_s;&c_i;&c_m;&c_y;&c_j;</ind></trd>
+    </trdgrp>
+  </snc>
+</drv>
+</art>
+<!--
+$Log: auxtarki.xml,v $
+Revision 1.11  2012/05/31 11:10:10  revo
+Jeromo Vasxe: + rar + rim
+
+Revision 1.10  2011/12/30 14:10:10  revo
+Antonio Codazzi: +trd it
+
+Revision 1.9  2005/03/16 18:17:18  revo
+Yury Finkel: +trd ru
+
+Revision 1.8 2004/01/10 17:31:13 revo
+Dmitri Gabinski: +trd be
+
+Revision 1.7 2002/11/01 09:17:58 revo
+Christopher Zervic: + ang
+
+Revision 1.6 2002/10/21 16:36:08 revo
+Jose Martin del Pozo: ald es trd
+
+Revision 1.5 2002/09/27 16:31:24 revo
+Jozefo Horvath: kor. trd hu
+
+Revision 1.4 2002/09/24 16:32:07 revo
+-->
+</vortaro>

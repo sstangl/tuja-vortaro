@@ -1,0 +1,158 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: asperg.xml,v 1.16 2015/07/04 08:37:30 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>asperg</rad>/i
+</kap>
+<drv mrk="asperg.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <uzo tip="fak">REL</uzo>
+    <dif>
+      &Scirc;prucigi sanktan flua&jcirc;on sur ion a&ubreve; iun:
+      <ekz>
+        <tld/>u ilin per akvo
+        <fnt><bib>MT</bib>, <lok>&Nom; 8:7</lok></fnt>;
+      </ekz>
+      <ekz>
+        <tld/>i per oleo<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_k;&c_r;&c_a;&c_p;&c_ib;&c_c;&c_mol;</trd>,
+      <trd>&c_a;&c_k;&c_r;&c_a;&c_p;&c_l;&c_ja;&c_c;&c_mol;</trd>
+    </trdgrp>
+    <trd lng="en">asperse</trd>
+    <trd lng="de">weihen</trd>
+    <trd lng="es">rociar</trd>
+    <trd lng="fr">asperger (d'eau b&eacute;nite)</trd>
+    <trd lng="hu">meghint (szentelt v&iacute;zzel)</trd>
+    <trdgrp lng="ru">
+      <trd>&c_k;&c_r;&c_o;&c_p;&c_i;&c_t;&c_mol;</trd>,
+      <trd>&c_o;&c_k;&c_r;&c_o;&c_p;&c_l;&c_ja;&c_t;&c_mol;</trd>
+    </trdgrp>
+  </snc>
+  <snc>
+    <dif>
+      Delikate, pluvgutete sur&scirc;prucigi ion a&ubreve; iun:
+      <ekz>
+        <tld/>i florojn.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_a;&c_p;&c_y;&c_r;&c_s;&c_k;&c_v;&c_a;&c_c;&c_mol;</trd>
+    <trdgrp lng="en">
+      <trd>spray</trd>,
+      <trd>atomize</trd>,
+      <trd>spritz</trd>
+    </trdgrp>
+    <trd lng="de">gie&szlig;en</trd>
+    <trdgrp lng="fr">
+      <trd>vaporiser (des gouttelettes)</trd>,
+      <trd>pulv&eacute;riser (un liquide)</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>permetez<klr tip="amb"> (v&iacute;zzel)</klr></trd>,
+      <trd>locsol</trd>
+    </trdgrp>
+    <trdgrp lng="it">
+      <trd>aspergere</trd>,
+      <trd>nebulizzare</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_o;&c_p;&c_r;&c_y;&c_s;&c_k;&c_i;&c_v;&c_a;&c_t;&c_mol;</trd>,
+      <trd>&c_o;&c_b;&c_r;&c_y;&c_z;&c_g;&c_i;&c_v;&c_a;&c_t;&c_mol;</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="cs">kropit</trd>
+  <trdgrp lng="sk">
+    <trd>kropiť</trd>,
+    <trd>pofŕkať</trd>,
+    <trd>postrekovať</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="asperg.0ilo">
+  <kap><tld/>ilo</kap>
+  <snc>
+    <dif>
+      Ilo por <tld/>i 1.
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_k;&c_r;&c_a;&c_p;&c_ib;&c_l;&c_a;</trd>,
+    <trd>&c_l;&c_je;&c_j;&c_k;&c_a;</trd>,
+    <trd>&c_p;&c_a;&c_l;&c_ib;&c_v;&c_a;&c_ch;&c_k;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>aspergil</trd>,
+    <trd>kropenka</trd>
+  </trdgrp>
+  <trd lng="de">Gie&szlig;kanne</trd>
+  <trdgrp lng="en">
+      <trd>sprayer</trd>,
+      <trd>atomizer</trd>,
+      <trd>spritzer</trd>
+    </trdgrp>
+  <trdgrp lng="es">
+    <trd>rociador</trd>,
+    <trd>pulverizador</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>aspersoir</trd>,
+    <trd>vaporisateur</trd>,
+    <trd>pulv&eacute;risateur</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>sz&oacute;r&oacute;fej</trd>,
+    <trd>folyad&eacute;kpermetez&odblac;</trd>
+  </trdgrp>
+  <trdgrp lng="it">
+    <trd>aspersorio</trd>,
+    <trd>nebulizzatore</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_k;&c_r;&c_o;&c_p;&c_i;&c_l;&c_o;</trd>,
+    <trd>&c_l;&c_je;&c_j;&c_k;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>kropenička</trd>,
+    <trd>kropáč</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: asperg.xml,v $
+Revision 1.16  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/28 12:03:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.14  2013/01/26 02:10:08  revo
+Carlos Garcia: +trd es -o -il
+
+Revision 1.13  2012/01/31 18:10:40  revo
+Antonio Codazzi: +trd it
+
+Revision 1.12  2004/06/24 16:33:39  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.11  2002/11/01 22:03:45  revo
+bib-igis fnt-ojn precipe MT
+
+Revision 1.10  2002/11/01 09:16:05  revo
+Christopher Zervic: + ang
+
+Revision 1.9  2002/07/29 18:14:44  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.8  2002/03/21 18:35:04  revo
+Yury Finkel: formatigis
+
+Revision 1.7 2001/02/08 09:22:36 revo
+-->
+</vortaro>

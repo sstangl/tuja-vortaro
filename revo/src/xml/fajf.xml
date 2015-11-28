@@ -1,0 +1,300 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: fajf.xml,v 1.29 2015/07/04 08:37:34 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>fajf</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="fajf.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>x</vspec></gra>
+  <snc mrk="fajf.0i.SON">
+    <dif>
+      Estigi akutan sonon.
+    </dif>
+    <subsnc>
+      <dif>
+        Estigi akutan muzikan sonon, blovante tra lipoj, beko a&ubreve;
+        speciala ilo:
+        <ekz>
+          <tld/>as merlo;
+        </ekz>
+        <ekz>
+          li <tld/>is kanton de la amkantisto Walther von der 
+          Vogelweide
+          <fnt><bib>Fab3</bib>, <lok>Nokta &ccirc;apo de fra&ubreve;lo</lok></fnt>.
+        </ekz>
+      </dif>
+      <trd lng="sv">vissla</trd>
+    </subsnc>
+    <subsnc>
+      <dif>
+        Estigi akutan intensan nemuzikan sonon per ia ajn rimedo:
+        <ekz>
+          la knaboj <tld/>is tra la fingroj
+          <fnt><bib>Fab1</bib>, <lok>Fajrilo</lok></fnt>;
+        </ekz>
+        <ekz>
+          la vento <tld/>as<fnt>B</fnt>;
+        </ekz>
+        <ekz>
+          la lokomotivo <tld/>is.
+        </ekz>
+      </dif>
+      <refgrp tip="vid">
+        <ref cel="sibl.0i.SON">sibli</ref>
+      </refgrp>
+    </subsnc>
+  </snc>
+  <trd lng="be">&c_s;&c_mol;&c_v;&c_ib;&c_s;&c_t;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="bg">&c_s;&c_v;&c_i;&c_r;&c_k;&c_a;&c_m;</trd>
+  <trdgrp lng="br">
+    <trd>c'hwitellat</trd>,
+    <trd>sutal</trd>
+  </trdgrp>
+  <trd lng="ca">xiular</trd>
+  <trdgrp lng="cs">
+    <trd>houkat</trd>,
+    <trd>hvízdat</trd>,
+    <trd>pískat</trd>
+  </trdgrp>
+  <trd lng="de">pfeifen</trd>
+  <trd lng="en">whistle</trd>
+  <trd lng="es">silbar</trd>
+  <trd lng="fr">siffler</trd>
+  <trd lng="hu">f&uuml;ty&uuml;l</trd>
+  <trd lng="nl">fluiten</trd>
+  <trd lng="pl">gwizda&cacute;</trd>
+  <trdgrp lng="pt">
+    <trd>assobiar</trd>,
+    <trd>assoviar</trd>
+  </trdgrp>
+  <trd lng="ru">&c_s;&c_v;&c_i;&c_s;&c_t;&c_je;&c_t;&c_mol;</trd>
+  <trd lng="sk">pískať</trd>
+  <trd lng="tr">&inodot;sl&inodot;k &ccedil;almak</trd>
+</drv>
+
+<drv mrk="fajf.0ado">
+  <kap><tld/>ado</kap>
+  <snc mrk="fajf.0ado.SON">
+    <dif>
+      <tld lit="F"/>a sono:
+      <ekz>
+        la <ind><tld/>ado</ind> de kugloj.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_mol;&c_v;&c_ib;&c_s;&c_t;</trd>
+  <trd lng="bg">&c_s;&c_v;&c_i;&c_r;&c_je;&c_n;&c_je;</trd>
+  <trdgrp lng="ca">
+    <trd>xiulit</trd>,
+    <trd>xiulet<klr> (so)</klr></trd>
+  </trdgrp>
+  <trd lng="cs">pískání</trd>
+  <trd lng="fr">sifflement</trd>
+  <trd lng="nl">gefluit</trd>
+  <trd lng="ru">&c_s;&c_v;&c_i;&c_s;&c_t;</trd>
+  <trd lng="sk">pískanie</trd>
+  <trd lng="tr">&inodot;sl&inodot;k</trd>
+</drv>
+
+<drv mrk="fajf.0ilo">
+  <kap><tld/>ilo</kap>
+  <snc mrk="fajf.0ilo.MUZ">
+    <uzo tip="fak">MUZ</uzo>
+    <dif>
+      Ilo por <tld/>i.
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_mol;&c_v;&c_ib;&c_s;&c_t;&c_o;&c_k;</trd>,
+    <trd>&c_s;&c_mol;&c_v;&c_ib;&c_s;&c_t;&c_u;&c_l;&c_mol;&c_k;&c_a;</trd>,
+    <trd>&c_s;&c_mol;&c_v;&c_ib;&c_s;&c_mol;&c_c;&c_jo;&c_l;&c_k;&c_a;</trd>
+  </trdgrp>
+  <trd lng="bg">&c_s;&c_v;&c_i;&c_r;&c_k;&c_a;</trd>
+  <trdgrp lng="br">
+    <trd>c'hwitell</trd>,
+    <trd>sutell</trd>
+  </trdgrp>
+  <trd lng="ca">xiulet<klr> (instrument)</klr></trd>
+  <trd lng="cs">píšťalka</trd>
+  <trd lng="de">Pfeife</trd>
+  <trd lng="en">whistle</trd>
+  <trd lng="es">silbato</trd>
+  <trd lng="fr">sifflet</trd>
+  <trdgrp lng="hu">
+    <trd>s&iacute;p</trd>,
+    <trd>f&uuml;ty&uuml;l&odblac;</trd>
+  </trdgrp>
+  <trd lng="nl">fluitje</trd>
+  <trd lng="pl">gwizdek</trd>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_v;&c_i;&c_s;&c_t;&c_o;&c_k;</trd>,
+    <trd>&c_s;&c_v;&c_i;&c_s;&c_t;&c_u;&c_l;&c_mol;&c_k;&c_a;</trd>
+  </trdgrp>
+  <trd lng="sk">píšťalka</trd>
+  <trdgrp lng="tr">
+    <trd>&inodot;sl&inodot;k</trd>,
+    <trd>d&uuml;d&uuml;k</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="fajf.0ilego">
+  <kap><tld/>ilego</kap>
+  <snc mrk="fajf.0ilego.SON">
+    <dif>
+      Tre brua <tld/>ilo uzata sur &scirc;ipoj, en fabrikoj kaj
+      aliaj lokoj.
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="hup.0o.SON">hupo</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_g;&c_u;&c_d;&c_o;&c_k;</trd>,
+    <trd>&c_s;&c_y;&c_r;&c_e;&c_n;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="br">
+    <trd>c'hwitellerez</trd>,
+    <trd>korn-boud<klr tip="ind"> (c'hwitellerez)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="ca">
+    <trd>sirena</trd>,
+    <trd>naut&ograve;fon</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>píšťala lodní</trd>,
+    <trd>tovární</trd>
+  </trdgrp>
+  <trd lng="de">Sirene</trd>
+  <trd lng="en">fog horn</trd>
+  <trd lng="es">sirena<klr tip="amb"> (sonora)</klr></trd>
+  <trd lng="fr">sir&egrave;ne</trd>
+  <trdgrp lng="hu">
+    <trd>haj&oacute;k&uuml;rt</trd>,
+    <trd>szir&eacute;na</trd>
+  </trdgrp>
+  <trd lng="nl">sirene</trd>
+  <trd lng="pl">syrena</trd>
+  <trdgrp lng="ru">
+    <trd>&c_g;&c_u;&c_d;&c_o;&c_k;</trd>,
+    <trd>&c_s;&c_i;&c_r;&c_je;&c_n;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>píšťala <klr>(lode, lokomotívy)</klr></trd>,
+    <trd>siréna</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="fajf.pri0i">
+  <kap>pri<tld/>i, <var><kap><tld/>i pri</kap></var></kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="fajf.pri0i.KOMUNE">
+    <dif>
+      Esprimi malfavoran senton per <tld/>o
+      a&ubreve; per diro, ke oni pri<tld/>as.
+    </dif>
+    <subsnc mrk="fajf.pri0i.FRAZ">
+      <uzo tip="stl">FRAZ</uzo>
+      <dif>
+        Mal&scirc;ati, moki, ne prizorgi, elmontri <ref tip="vid" 
+        cel="indife.0eco">indiferentecon</ref> pri:
+        <ekz>
+          kiam mi a&ubreve;skultas muzikon, mi pri<tld/>as la vivon de la 
+          artisto
+          <fnt>
+            <aut>Platano</aut>,
+            <vrk><url
+            ref="http://mojose.wordpress.com/2009/03/06/pafklik-la-intervjuo-de-mojose/">
+            Pafklik: La Intervjuo de Mojose</url></vrk>,
+            <lok>2009-03-06</lok>
+          </fnt>.
+        </ekz>
+      </dif>
+      <refgrp tip="vid">
+        <ref cel="fajf.mok0i.KOMUNE">mok<tld/>i</ref>,
+        <ref cel="sxultr.0umi">&scirc;ultrumi</ref>
+      </refgrp>
+      <trd lng="ca">xiular<klr> (mostrant desaprovaci&oacute;,
+      burla)</klr></trd>
+      <trdgrp lng="fr">
+        <trd>se <ind>balancer</ind> de</trd>,
+        <trd>se <ind>ficher</ind> de</trd>
+      </trdgrp>
+    </subsnc>
+    <subsnc mrk="fajf.pri0i.BIB">
+      <uzo tip="fak">BIB</uzo>
+      <dif>
+        Esprimi konsterni&gcirc;on, miron, timon per <tld/>o:
+        <ekz>
+          Edom fari&gcirc;os objekto de teruro; &ccirc;iu, kiu pasos preter li,
+          miros 
+          kaj <tld/>os pri &ccirc;iuj liaj vundoj
+          <fnt><bib>MT</bib>, <lok>&Jer; 49:17</lok></fnt>.
+        </ekz>
+      </dif>
+      <trd lng="ca">xiular<klr> (mostrant sorpresa,
+      admiraci&oacute;)</klr></trd>
+    </subsnc>
+  </snc>
+</drv>
+
+<drv mrk="fajf.mok0i">
+  <kap>mok<tld/>i</kap>
+  <snc mrk="fajf.mok0i.KOMUNE">
+    <dif>
+      <tld lit="F"/>i signe pri moko, malla&ubreve;do, malaprobo:
+      <ekz>
+        <ind>mok<tld/>i</ind> aktoron.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="fajf.pri0i.FRAZ">pri<tld/>i<sncref/></ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_a;&c_s;&c_mol;&c_v;&c_ib;&c_s;&c_t;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="ca">xiular<klr> (mostrant desaprovaci&oacute;)</klr></trd>
+  <trd lng="fr">siffler<klr tip="ind"> (qqn)</klr></trd>
+  <trd lng="hu">kif&uuml;ty&uuml;l</trd>
+  <trd lng="nl">uitfluiten</trd>
+  <trd lng="pl">&sacute;wista&cacute;</trd>
+  <trd lng="ru">&c_o;&c_s;&c_v;&c_i;&c_s;&c_t;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="sk">vypískať</trd>
+  <trd lng="tr">&inodot;sl&inodot;klamak<klr>(birilerini yuhlamak)</klr></trd>
+</drv>
+
+</art>
+<!--
+$Log: fajf.xml,v $
+Revision 1.29  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.28  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.27  2013/07/26 01:10:22  revo
+Joop Eggen: +trd bg
+
+Revision 1.26  2012/08/29 17:10:08  revo
+Marc Rausell: + trd ca
+
+Revision 1.25  2011/01/01 15:25:09  revo
+Jeromo Vasxe: kor 1 ref
+
+Revision 1.24  2010/12/30 09:00:10  revo
+Jeromo Vasxe: kor. 2 ref
+
+Revision 1.23  2010/12/29 09:00:10  revo
+Jeromo Vasxe: + pri~i, memstar. ~ado mok~i
+
+Revision 1.22 2010/07/10 16:30:28 revo
+Agustin Garcia Lopez: +trd es
+
+Revision 1.21 2009/09/01 16:30:37 revo
+Emmanuel Debanne: +trd tr
+
+Revision 1.20 2007/05/12 16:30:55 revo
+-->
+</vortaro>

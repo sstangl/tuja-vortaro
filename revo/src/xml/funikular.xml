@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: funikular.xml,v 1.8 2015/07/04 08:37:34 revo Exp $">
+<kap>
+  <rad>funikular</rad>/o <fnt><bib>PIV2</bib></fnt>
+</kap>
+<drv mrk="funikular.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="funikular.0o.TRA">
+    <uzo tip="fak">TRA</uzo>
+    <dif>
+      Transportilo konsistanta el veturilo tirata de kablo, uzata
+      normale por suriro de kruta&jcirc;oj;
+      speco de <ref tip="malprt" cel="voj.kablo0o">kablovojo</ref>:
+      <ekz>
+        Efektive multaj funikularoj havas nur unu relparon kun
+preterpasejo en la mezo.
+        <fnt>
+        <bib>Viki</bib>,
+        <lok>
+          <url ref="http://eo.wikipedia.org/wiki/Funikularo">
+          Funikularo</url>
+        </lok>
+        </fnt>
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="telfer.0o.TRA">telfero</ref>
+    </refgrp>
+    <refgrp tip="sin">
+      <ref cel="tram.kablo0o">kablotramo</ref>
+    </refgrp>
+  </snc>
+  <trd lng="cs">pozemní lanovka</trd>
+  <trd lng="fr">funiculaire</trd>
+  <trd lng="hu">sikl&oacute;<klr>(j&aacute;rm&udblac;)</klr></trd>
+  <trd lng="it">funicolare</trd>
+  <trd lng="nl">kabelspoorweg</trd>
+  <trdgrp lng="pl">
+    <trd>kolejka linowa<klr> (szynowa)</klr></trd>,
+    <trd>kolejka g&oacute;rska<klr> (szynowa)</klr></trd>,
+    <trd>wyci&aogonek;g</trd>
+  </trdgrp>
+  <trd lng="pt">funicular</trd>
+  <trd lng="sk">pozemná lanovka</trd>
+</drv>
+</art>
+
+<!--
+$Log: funikular.xml,v $
+Revision 1.8  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.7  2015/06/29 16:29:39  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.6  2012/08/21 12:10:14  revo
+Jeromo Vasxe: + trd fr
+
+Revision 1.5  2010/02/12 17:30:23  revo
+Antonio Codazzi: +trd it
+
+Revision 1.4  2009/08/11 16:31:34  revo
+Paul Peeraerts: korekto en nl
+
+Revision 1.3  2008/07/22 16:30:41  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.2  2007/12/02 17:30:16  revo
+Tulio Flores: +tr pt
+
+Revision 1.1  2007/11/30 17:30:28  revo
+Sebastian Cyprych: nova artikolo
+
+-->
+</vortaro>

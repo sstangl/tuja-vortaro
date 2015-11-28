@@ -1,0 +1,145 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: idol.xml,v 1.23 2015/07/04 08:37:36 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>idol</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="idol.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="idol.0o.REL">
+    <uzo tip="fak">REL</uzo>
+    <dif>
+      Statuo, figuro de dia&jcirc;o, kun formo de estulo a&ubreve; de 
+      objekto, kaj honorata per kulto:
+      <ekz>
+        vi vidis iliajn <tld/>ojn el ligno kaj el &scirc;tono,
+        el ar&gcirc;ento kaj el oro
+        <fnt><bib>MT</bib>, <lok>&Rea; 29:17</lok></fnt>;
+      </ekz>
+      <ekz>
+        la kulto de la <tld/>oj;
+      </ekz>
+      <ekz>
+        la paganaj <tld/>oj.
+      </ekz>
+    </dif>
+    <trd lng="de">G&ouml;tze</trd>
+    <trd lng="nl">afgod</trd>
+    <trdgrp lng="pl">
+      <trd>idol</trd>,
+      <trd>bo&zdot;ek</trd>
+    </trdgrp>
+    <trd lng="pt">
+    &iacute;dolo<klr tip="amb"> (religi&atilde;o)</klr></trd>
+  </snc>
+  <snc mrk="idol.0o.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Persono a&ubreve; afero, al kiu oni fervorege servas, 
+      kvaza&ubreve; per kulto:
+      <ekz>
+        &scirc;ia filino estis &scirc;ia <tld/>o, kaj tion malmulte 
+        meritis;
+      </ekz>
+      <ekz>
+        tiu politikisto i&gcirc;is la <tld/>o de la popolo;
+      </ekz>
+      <ekz>
+        la mono estas lia <tld/>o.
+      </ekz>
+    </dif>
+    <trd lng="de">Idol</trd>
+    <trd lng="hu">b&aacute;lv&aacute;ny</trd>
+    <trd lng="nl">idool</trd>
+    <trdgrp lng="pl">
+      <trd>idol</trd>,
+      <trd>bo&zdot;yszcze</trd>
+    </trdgrp>
+    <trd lng="pt">&iacute;dolo</trd>
+    <trd lng="sv">idol</trd>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_ib;&c_d;&c_a;&c_l;</trd>,
+    <trd>&c_k;&c_u;&c_m;&c_ib;&c_r;</trd>
+  </trdgrp>
+  <trd lng="ca">&iacute;dol</trd>
+  <trdgrp lng="cs">
+    <trd>bůžek</trd>,
+    <trd>idol</trd>,
+    <trd>modla</trd>
+  </trdgrp>
+  <trd lng="en">idol</trd>
+  <trdgrp lng="es">
+    <trd>&iacute;dolo</trd>
+  </trdgrp>
+  <trd lng="fr">idole</trd>
+  <trdgrp lng="ru">
+    <trd>&c_i;&c_d;&c_o;&c_l;</trd>,
+    <trd>&c_k;&c_u;&c_m;&c_i;&c_r;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>bôžik</trd>,
+    <trd>modla</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="idol.0ano">
+  <kap><tld/>ano</kap>
+  <snc mrk="idol.0ano.REL">
+    <dif>
+      Adoranto de <tld/>oj.
+    </dif>
+  </snc>
+  <trd lng="be">&c_ib;&c_d;&c_a;&c_l;&c_a;&c_p;&c_a;&c_k;&c_l;&c_o;&c_n;&c_mol;&c_n; &c_ib;&c_k;</trd>
+  <trd lng="ca">id&ograve;latra</trd>
+  <trd lng="cs">modlář</trd>
+  <trd lng="de">G&ouml;tzendiener</trd>
+  <trd lng="en">idolater</trd>
+  <trd lng="es">id&oacute;latra</trd>
+  <trd lng="fr">idol&acirc;tre<klr tip="ind"> (subst.)</klr></trd>
+  <trd lng="hu">b&aacute;lv&aacute;nyim&aacute;d&oacute;</trd>
+  <trd lng="nl">afgodendienaar</trd>
+  <trdgrp lng="pl">
+    <trd>ba&lstroke;wochwalca</trd>,
+    <trd>poganin</trd>
+  </trdgrp>
+  <trd lng="pt">id&oacute;latra</trd>
+  <trd lng="ru">&c_i;&c_d;&c_o;&c_l;&c_o;&c_p;&c_o;&c_k;&c_l;&c_o;&c_n;&c_n;&c_i;&c_k;</trd>
+  <trd lng="sk">modloslužobník</trd>
+</drv>
+</art>
+<!--
+$Log: idol.xml,v $
+Revision 1.23  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.22  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.21  2012/01/02 19:10:11  revo
+Marc Rausell: +trd ca
+
+Revision 1.20  2011/05/25 11:10:09  revo
+Jeromo Vasxe: + mrk
+
+Revision 1.19  2009/02/15 14:19:18  revo
+Russ Williams: +trd en
+
+Revision 1.18  2006/07/04 16:32:09  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.17  2005/10/25 16:31:15  revo
+Luiz Portella: +trd pt
+
+Revision 1.16  2004/07/08 17:05:46  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.15  2003/01/02 17:52:49  revo
+Alejandro Mejia Greene: ald 1 his trd
+
+Revision 1.14  2002/08/02 10:12:55  revo
+-->
+</vortaro>

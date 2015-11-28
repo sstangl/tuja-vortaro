@@ -1,0 +1,316 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: serpen.xml,v 1.26 2015/07/04 08:37:43 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>serpent</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="serpen.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="serpen.0o.propre">
+    <dif>
+      Iu el <ref tip="malprt" cel="serpen.0oj"><tld/>oj</ref>,
+      senpieda rampulo kun tre longa cilindroforma korpo
+      tegita de skvamoj:
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        vi varmigas <tld/>on, &gcirc;i al vi enpikos la denton<fnt>Z</fnt>
+        <klr>(ne kompatu malbonulon)</klr>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        dorloti <tld/>on <klr>(perfidulon)</klr> sur sia brusto
+        <fnt><bib>PrV</bib></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="sub">
+      <ref cel="boa.0o">boao</ref>,
+      <ref cel="kolubr.0o">kolubro</ref>,
+      <ref cel="vipur.0o">vipuro</ref>
+    </refgrp>
+    <trd lng="be">&c_z;&c_mol;&c_m;&c_ja;&c_ja;</trd>
+    <trd lng="de">Schlange</trd>
+    <trd lng="nl">slang</trd>
+    <trd lng="ru">&c_z;&c_m;&c_je;&c_ja;</trd>
+    <trd lng="sv">orm</trd>
+    <trd lng="tr">y&inodot;lan</trd>
+  </snc>
+  <snc mrk="serpen.0o.BIB">
+    <uzo tip="fak">BIB</uzo>
+    <dif>
+      La tentanta demono.
+    </dif>
+    <trd lng="be">&c_z;&c_mol;&c_m;&c_je;&c_j;</trd>
+    <trd lng="ru">&c_z;&c_m;&c_je;&c_j;</trd>
+  </snc>
+  <trd lng="ca">serp</trd>
+  <trdgrp lng="cs">
+    <trd>basový cink</trd>,
+    <trd>serpent</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>serpent</trd>,
+    <trd>snake</trd>
+  </trdgrp>
+  <trd lng="es">serpiente</trd>
+  <trd lng="fr">serpent</trd>
+  <trd lng="hu">k&iacute;gy&oacute;</trd>
+  <trd lng="id">ular</trd>
+  <trd lng="it">serpente</trd>
+  <trd lng="nl">serpent</trd>
+  <trd lng="sk">serpent</trd>
+</drv>
+
+<drv mrk="serpen.S0o">
+  <kap><tld lit="S"/>o <fnt><vrk><url
+  ref="http://at.komputilo.org">Astronomia
+  Terminaro</url></vrk></fnt></kap>
+  <mlg>Ser</mlg>
+  <snc mrk="serpen.S0o.AST">
+    <uzo tip="fak">AST</uzo>
+    <dif>
+      <ref tip="lst" cel="stel.0figuro"
+      lst="voko:stelfiguroj">Stelfiguro</ref> (<trd
+      lng="la">Serpens</trd>).
+    </dif>
+  </snc>
+  <trd lng="ca">el Serpent<klr tip="ind"> (constel&middot;laci&oacute;)</klr></trd>
+  <trd lng="en">Serpens</trd>
+  <trd lng="fr">Serpent<klr tip="ind"> (constellation)</klr></trd>
+  <trd lng="it">Serpente<klr tip="ind"> (costellazione)</klr></trd>
+</drv>
+
+<drv mrk="serpen.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="serpen.0a.FORM">
+    <dif>
+      <tld lit="S"/>uma, ondolinia, tordi&gcirc;a, 
+      <ref tip="vid" cel="sinu.0a.FORM">sinua</ref>.
+    </dif>
+    <trd lng="be">&c_z;&c_mol;&c_m;&c_je;&c_je;&c_p;&c_a;&c_d;&c_o;&c_b;&c_n;&c_y;</trd>
+    <trdgrp lng="ca">
+      <trd>sinu&oacute;s</trd>,
+      <trd>serpent&iacute;</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>serpentine</trd>,
+      <trd>snaky</trd>,
+      <trd>sinuous</trd>,
+      <trd>twisty</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>ondoyant</trd>,
+      <trd>sinueux</trd>,
+      <trd>tortueux</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>k&iacute;gy&oacute;z&oacute;</trd>,
+      <trd>kanyarg&oacute;</trd>
+    </trdgrp>
+    <trdgrp lng="it">
+      <trd>sinuoso</trd>,
+      <trd>tortuoso</trd>
+    </trdgrp>
+    <trdgrp lng="nl">
+      <trd>slingerend</trd>,
+      <trd>kronkelend</trd>
+    </trdgrp>
+    <trd lng="ru">&c_z;&c_m;&c_je;&c_i;&c_s;&c_t;&c_y;&c_j;</trd>
+  </snc>
+  <trd lng="cs">jako had <klr>(adj.)</klr></trd>
+  <trd lng="sk">ako had</trd>
+</drv>
+
+<drv mrk="serpen.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="serpen.0i.FORM">
+    <uzo tip="stl">FIG</uzo>
+    <ref tip="dif" cel="serpen.0umi.FORM"><tld/>umi</ref>
+  </snc>
+  <trd lng="be">&c_z;&c_mol;&c_m;&c_ja;&c_ib;&c_c;&c_c;&c_a;</trd>
+  <trd lng="ca">serpentejar</trd>
+  <trdgrp lng="cs">
+    <trd>plazit se</trd>,
+    <trd>vinout se <klr>(jako had)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>meander</trd>,
+    <trd>twist</trd>
+  </trdgrp>
+  <trd lng="es">serpentear</trd>
+  <trdgrp lng="fr">
+    <trd>serpenter</trd>,
+    <trd>sinuer</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>k&iacute;gy&oacute;zik</trd>,
+    <trd>kanyarog</trd>
+  </trdgrp>
+  <trd lng="it">serpeggiare</trd>
+  <trdgrp lng="nl">
+    <trd>slingeren</trd>,
+    <trd>kronkelen</trd>
+  </trdgrp>
+  <trd lng="ru">&c_z;&c_m;&c_je;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>
+  <trdgrp lng="sk">
+    <trd>plaziť sa</trd>,
+    <trd>vinúť sa <klr>(ako had)</klr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="serpen.0oj">
+  <kap><tld/>oj</kap>
+  <snc mrk="serpen.0oj.ZOO">
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      Subordo de <ref tip="super" cel="skvam.0uloj">skvamuloj</ref>
+      (<trd lng="la">Serpentes</trd>).
+    </dif>
+  </snc>
+  <trdgrp lng="ca">
+    <trd>serps</trd>,
+    <trd>serpents</trd>
+  </trdgrp>
+  <trd lng="de">Schlangen <klr tip="ind">(Unterordnung)</klr></trd>
+  <trd lng="en">serpents</trd>
+  <trd lng="fr">serpents</trd>
+  <trd lng="hu">k&iacute;gy&oacute;k</trd>  
+  <trd lng="nl">slangen</trd>
+  <trd lng="ru">&c_z;&c_m;&c_je;&c_i; <klr tip="amb">(&c_p;&c_o;&c_d;&c_o;&c_t;&c_r;&c_ja;&c_d;)</klr></trd>
+</drv>
+
+<drv mrk="serpen.S0isto">
+  <kap><tld lit="S"/>isto
+    <fnt><vrk><url ref="http://at.komputilo.org">Astronomia
+  Terminaro</url></vrk></fnt>
+    <fnt><bib>EBV</bib></fnt>
+  </kap>
+  <mlg>Oph</mlg>
+  <snc mrk="serpen.S0isto.AST">
+    <uzo tip="fak">AST</uzo>
+    <dif>
+      <ref tip="lst" cel="stel.0figuro"
+      lst="voko:stelfiguroj">Stelfiguro</ref> (<trd
+      lng="la">Ophiuchus</trd>).
+    </dif>
+  </snc>
+  <trd lng="ca">el Serpentari</trd>
+  <trd lng="en">Ophiuchus</trd>
+  <trdgrp lng="fr">
+    <trd>Ophiuchus</trd>,
+    <trd>Serpentaire</trd>
+  </trdgrp>
+  <trd lng="es">Ofiuco</trd>
+  <trdgrp lng="it">
+    <trd>Ofiuco<klr tip="ind"> (costellazione)</klr></trd>,
+    <trd>Serpentario<klr tip="ind"> (costellazione)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>Ofiuco</trd>,
+    <trd>Serpent&aacute;rio</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="serpen.0umi">
+  <kap><tld/>umi</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="serpen.0umi.FORM">
+    <dif>
+      Iri torde kaj ondolinie kiel <tld/>o;
+      <ref tip="sin" cel="serpen.0i.FORM"><tld/>i</ref>;
+      <ref tip="vid" cel="tord">tordi&gcirc;i</ref>,
+      <ref tip="vid" cel="zigzag.0i.FORM">zigzagi</ref>.
+      <ekz>
+        <tld/>umanta rivero<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_z;&c_mol;&c_m;&c_ja;&c_ib;&c_c;&c_c;&c_a;</trd>
+  <trd lng="ca">serpentejar</trd>
+  <trdgrp lng="cs">
+    <trd>plazit se</trd>,
+    <trd>vinout se <klr>(jako had)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>meander</trd>,
+    <trd>twist</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>serpenter</trd>,
+    <trd>sinuer</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>k&iacute;gy&oacute;zik</trd>,
+    <trd>kanyarog</trd>
+  </trdgrp>
+  <trd lng="it">serpeggiare</trd>
+  <trdgrp lng="nl">
+    <trd>slingeren</trd>,
+    <trd>kronkelen</trd>
+  </trdgrp>
+  <trd lng="ru">&c_z;&c_m;&c_je;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>
+  <trdgrp lng="sk">
+    <trd>plaziť sa</trd>,
+    <trd>vinúť sa <klr>(ako had)</klr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="serpen.0umo">
+  <kap><tld/>umo</kap>
+  <snc mrk="serpen.0umo.FORM">
+    <dif>
+      Onduma formo, kurbi&gcirc;anta jen al iu flanko, jen
+      al la alia,
+      <ref tip="vid" cel="sinu.0o.FORM">sinuo</ref>,
+      <ref tip="vid" cel="zigzag.0o.FORM">zigzago</ref>:
+      <ekz>
+        la soldatoj atendis &scirc;ancon por ataki, rigardante
+        la longan nigre-brunan <tld/>umon de la urba muro
+        <fnt>
+          <aut>Hasegawa T.</aut>,
+          <vrk>En &Ccirc;inio Batalanta</vrk>, 
+          <lok>1954</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">serpentina</trd>
+  <trd lng="fr">sinuosit&eacute;</trd>
+  <trd lng="sk">serpentína <klr>(o ceste)</klr></trd>
+</drv>
+</art>
+<!--
+$Log: serpen.xml,v $
+Revision 1.26  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.25  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.24  2014/06/10 15:10:17  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.23  2014/02/08 18:10:21  revo
+Carlos Garcia: korektado es -o
+
+Revision 1.22  2013/08/25 08:10:49  revo
+Wolfram Diestel: referenco al listo stelfiguroj
+
+Revision 1.21  2013/04/30 15:10:11  revo
+Jeromo Vasxe: + ~umo, + kk ref
+
+Revision 1.20  2011/12/11 17:10:10  revo
+Marc Rausell: +trd ca
+
+Revision 1.19  2010/06/30 16:30:52  revo
+Antonio Codazzi: ++trd it
+
+Revision 1.18  2010/06/25 17:26:31  revo
+Fabio Bettani: +S~o, S~isto
+
+Revision 1.17  2010/05/12 16:30:22  revo
+-->
+</vortaro>

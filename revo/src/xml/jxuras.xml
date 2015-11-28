@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: jxuras.xml,v 1.21 2013/10/26 16:10:19 revo Exp $">
+<kap>
+  <rad>&jcirc;uras</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="jxuras.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="jxuras.0o.GEOL">
+    <uzo tip="fak">GEOL</uzo>
+    <dif>
+      Geologia <ref tip="lst" cel="period.0o.dauxro"
+      lst="voko:geologiaj_periodoj" val="-199600000">periodo</ref> en 
+      <ref tip="malprt" cel="mezozoik.0o">mezozoiko</ref>
+      inter <ref cel="trias.0o">triaso</ref> kaj <ref
+      cel="kretac.0o">kretaceo</ref>.
+    </dif>
+  </snc>
+  <trd lng="be">
+  &c_ju;&c_r;&c_s;&c_k;&c_ib; &c_p;&c_e;&c_r;&c_y;&c_ja;&c_d;
+  </trd>
+  <trd lng="ca">Jur&agrave;ssic</trd>
+  <trd lng="de">Jura</trd>
+  <trd lng="en">Jurassic</trd>
+  <trd lng="es">per&iacute;odo jur&aacute;sico</trd>
+  <trd lng="fr">jurassique<klr> (subst., &eacute;poque)</klr></trd>
+  <trd lng="hu">jura</trd>
+  <trd lng="nl">jura</trd>
+  <trd lng="pl">jura</trd>
+  <trd lng="pt">
+  <klr tip="ind">(per&iacute;odo) </klr>jur&aacute;ssico
+  </trd>
+  <trd lng="ru">&c_ju;&c_r;&c_s;&c_k;&c_i;&c_j;
+  &c_p;&c_je;&c_r;&c_i;&c_o;&c_d;</trd>
+  <trd lng="it">Giurassico</trd>
+</drv>
+</art>
+<!--
+$Log: jxuras.xml,v $
+Revision 1.21  2013/10/26 16:10:19  revo
+Wolfram Diestel: shovis val al gxusta loko
+
+Revision 1.20  2013/10/04 18:10:17  revo
+Wolfram Diestel: val
+
+Revision 1.19  2013/08/25 09:10:14  revo
+Wolfram Diestel: -tajperaro
+
+Revision 1.18  2013/08/23 14:10:10  revo
+Wolfram Diestel: referenco al listo geo periodoj, aktualigis dif
+
+Revision 1.17  2012/07/20 09:10:26  revo
+Marc Rausell: + trd ca
+
+Revision 1.16  2009/03/10 17:31:26  revo
+Antonio Codazzi: +trd it
+
+Revision 1.15  2008/06/08 16:30:23  revo
+Jeromo Vasxe: - fak min + geol
+
+Revision 1.14 2007/11/19 17:30:49 revo
+-->
+</vortaro>

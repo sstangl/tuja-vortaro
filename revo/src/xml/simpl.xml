@@ -1,0 +1,368 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: simpl.xml,v 1.32 2015/07/04 08:37:43 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>simpl</rad>/a <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="simpl.0a">
+  <kap><ofc>*</ofc><tld/>a</kap>
+  <snc mrk="simpl.0a.facila">
+    <dif>
+      Nekomplikita, facile komprenebla, uzebla, solvebla:
+      <ekz>
+        <tld/>a teksto, poemo, problemo;
+      </ekz>
+      <ekz>
+        post unu sola duonhoro li ekposedas la tutan gramatikon kaj al
+        li restas jam nur la <tld/>a kaj facila akirado de provizo
+        da vortoj<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+    <subsnc mrk="simpl.0a.unupeca">
+      <dif>
+        &Ccirc;ar ne kunmetita, konsistanta el samspecaj elementoj:
+        <ekz>
+          oro kaj fero estas <tld/>aj korpoj;
+        </ekz>
+        <ekz>
+          <tld/>a verbotempo;
+        </ekz>
+        <ekz>
+          la vortojn kun um oni devas lerni kiel <tld/>ajn
+          vortojn<fnt>Z</fnt>;
+        </ekz>
+        <ekz>
+          <uzo tip="fak">KOMP</uzo>
+          la entjeroj kaj la reeloj estas du <tld/>aj datumtipoj.
+        </ekz>
+      </dif>
+      <refgrp tip="ant">
+        <ref cel="simpl.mal0a.plurpeca">mal<tld/>a</ref>,
+        <ref cel="komple.0a">kompleksa</ref>
+      </refgrp>
+    </subsnc>
+    <subsnc mrk="simpl.0a.nekomplikita">
+      <dif>
+        &Ccirc;ar konsistanta el malmultaj partoj:
+        <ekz>
+          <tld/>a metodo, procedo, ma&scirc;ino;
+        </ekz>
+        <ekz>
+          miaj rimedoj de solvo aperos al ili eble kiel tro
+          <tld/>aj<fnt>Z</fnt>;
+        </ekz>
+        <ekz>
+          mi <tld/>igis &gcirc;is nekredebleco la gramatikon<fnt>Z</fnt>;
+        </ekz>
+        <ekz>
+          nia alfabeto estas plej <tld/>a<fnt>Z</fnt>;
+        </ekz>
+        <ekz>
+          la <tld/>eco de la angla gramatiko &jcirc;eti&gcirc;is en miajn
+          okulojn<fnt>Z</fnt>.
+        </ekz>
+      </dif>
+    </subsnc>
+    <subsnc mrk="simpl.0a.senornama">
+      <dif>
+        Kaj sekve senornama, senluksa, senafekta:
+        <ekz>
+          <tld/>a vesto, man&gcirc;o;
+        </ekz>
+        <ekz>
+          <tld/>a <klr>(nefesta)</klr> tago;
+        </ekz>
+        <ekz>
+          <tld/>a homo;
+        </ekz>
+        <ekz>
+          <tld/>a stilo.
+        </ekz>
+      </dif>
+      <refgrp tip="vid">
+        <ref cel="sobr.0a">sobra</ref>
+      </refgrp>
+    </subsnc>
+  </snc>
+  <snc mrk="simpl.0a.nura">
+    <ref tip="dif" cel="nur.0a">nura</ref>
+    <ekz>
+      tio &ccirc;i estis jam ne <tld/>a pluvo, sed pluvego
+      <fnt><bib>F</bib>, <lok>&FE; 38</lok></fnt>;
+    </ekz>
+    <ekz>
+      <tld/>a (senranga) soldato;
+    </ekz>
+    <ekz>
+      kredi al <tld/>a promeso;
+    </ekz>
+    <ekz>
+      vortoj kunmetitaj estas kreataj per <tld/>a kunligado de
+      vortoj<fnt>Z</fnt>;
+    </ekz>
+    <ekz>
+      verkisto verkas librojn kaj skribisto <tld/>e transskribas
+      paperojn<fnt>Z</fnt>;
+    </ekz>
+    <ekz>
+      li <tld/>e iros en la najbaran urbon kaj rigardos<fnt>Z</fnt>;
+    </ekz>
+    <ekz>
+      ni prenos nur <tld/>e kelkajn ekzemplojn<fnt>Z</fnt>;
+    </ekz>
+    <ekz>
+      tiam la decido de la kongreso restos <tld/>e malviva
+      litero<fnt>Z</fnt>;
+    </ekz>
+    <ekz>
+      &ccirc;iuj tiuj &ccirc;i frazistoj <tld/>e ne volas trakontroli tion,
+      pri kio ili parolas kun tia a&ubreve;toritata tono<fnt>Z</fnt>.
+    </ekz>
+  </snc>
+  <snc mrk="simpl.0a.PSI">
+    <dif>
+      Simplanima, senartifika, senruza, eventuale naiva:
+      <ekz>
+        estu do prudentaj kiel serpentoj, kaj <tld/>aj kiel
+        kolomboj
+        <fnt><bib>NT</bib>, <lok>&Mat; 10:16</lok></fnt>;
+      </ekz>
+      <ekz>
+        obeu <klr>...</klr> en <tld/>eco de via koro
+        <fnt><bib>NT</bib>, <lok>&Efe; 6:5</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="simpl.0a.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <subsnc mrk="simpl.0a.grupo">
+      <fnt><bib>MatTerm</bib>, <lok>p. 14</lok></fnt>
+      <dif>
+        <klr>(p.p. <ref cel="grup.0o.MAT">grupo</ref>
+        <frm><g>G</g></frm>)</klr>
+        Tia, ke &gcirc;iaj nuraj
+        <ref cel="invari.0a.subgrupo">invariantaj</ref> subgrupoj estas
+        <frm><g>G</g></frm> kaj <frm>{1}</frm>:
+        <ekz>
+          finia grupo, kies ordo estas primo, estas <tld/>a.
+        </ekz>
+      </dif>
+      <trd lng="de">einfach<klr tip="ind"> (-e Gruppe)</klr></trd>
+      <trd lng="en">simple<klr tip="ind"> (groupe)</klr></trd>
+      <trd lng="fr"><klr tip="ind">(groupe) </klr>simple</trd>
+      <trd lng="hu">egyszer&udblac; <klr tip="ind">(csoport)</klr></trd>
+      <trd lng="pl"><klr tip="amb">(grupa) </klr>prosta</trd>
+      <trd lng="ru">&c_p;&c_r;&c_o;&c_s;&c_t;&c_a;&c_ja;<klr tip="amb">
+      (&c_g;&c_r;&c_u;&c_p;&c_p;&c_a;
+      )</klr></trd>
+    </subsnc>
+    <subsnc mrk="simpl.0a.diversaj">
+      <refgrp tip="vid">
+        <ref cel="funkci.simpla0o"><tld/>a funkcio</ref>,
+        <ref cel="grafe.simpla0o"><tld/>a grafeo</ref>.
+      </refgrp>
+    </subsnc>
+  </snc>
+  <trd lng="be">&c_p;&c_r;&c_o;&c_s;&c_t;&c_y;</trd>
+  <trdgrp lng="cs">
+    <trd>bezproblémový</trd>,
+    <trd>běžný</trd>,
+    <trd>hladký</trd>,
+    <trd>jednoduch&yacute;</trd>,
+    <trd>primitivní</trd>,
+    <trd>prost&yacute;</trd>
+  </trdgrp>
+  <trd lng="de">einfach</trd>
+  <trd lng="en">simple</trd>
+  <trd lng="es">simple</trd>
+  <trdgrp lng="fr">
+    <trd>simple</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>egyszer&udblac;</trd>,
+    <trd>szimpla</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>eenvoudig</trd>,
+    <trd>simpel</trd>
+  </trdgrp>
+  <trd lng="ru">&c_p;&c_r;&c_o;&c_s;&c_t;&c_o;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>jednoduchý</trd>,
+    <trd>prostý</trd>
+  </trdgrp>
+  <trd lng="tp">pona</trd>
+</drv>
+
+<drv mrk="simpl.0igi">
+  <kap><tld/>igi</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="simpl.0igi.KOMUNE">
+    <dif>
+      Faciligi, senigi je komplika&jcirc;oj, je embarasoj:
+      <ekz>
+        mi <tld/>igis &gcirc;is nekredebleco la gramatikon
+        <fnt><bib>FK</bib>, <lok>6, artikoloj pri esperanto, el la unua
+        libro de la lingvo esperanto, 1</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>simplifikovat</trd>,
+    <trd>zjednodušit</trd>
+  </trdgrp>
+  <trd lng="es">simplificar</trd>
+  <trd lng="fr">simplifier</trd>
+  <trdgrp lng="ru">
+    <trd>&c_u;&c_p;&c_r;&c_o;&c_s;&c_t;&c_i;&c_t;&c_mol;</trd>,
+    <trd>&c_u;&c_p;&c_r;&c_o;&c_shch;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="sk">zjednodušiť</trd>
+</drv>
+
+<drv mrk="simpl.0ulo">
+  <kap><tld/>ulo</kap>
+  <snc mrk="simpl.0ulo.KOMUNE">
+    <dif>
+      Ordinarulo ne altranga, ne klera, senartifika, eble malruza:
+      <ekz>
+        oni enterigis <klr>...</klr> la re&gcirc;ojn en grandegaj
+        piramidoj<klr>...</klr>, la <tld/>ulojn en terdomoj
+        <fnt><bib>Far2</bib>, <lok>&ccirc;apitro 24a</lok></fnt>;
+      </ekz>
+      <ekz>
+        ke ili trompas la <tld/>ulojn, pri tio li sciis
+        <fnt><bib>Far2</bib>, <lok>&ccirc;apitro 3a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">prostý člověk</trd>
+  <trdgrp lng="fr">
+    <trd>brave homme</trd>,
+    <trd>gens ordinaires</trd>,
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_r;&c_o;&c_s;&c_t;&c_o;&c_j;
+&c_ch;&c_je;&c_l;&c_o;&c_v;&c_je;&c_k;</trd>,
+    <trd>&c_p;&c_r;&c_o;&c_s;&c_t;&c_a;&c_k;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>jednoduchý</trd>,
+    <trd>prostý človek</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="simpl.mal0a">
+  <kap>mal<tld/>a</kap>
+  <snc mrk="simpl.mal0a.malfacila">
+    <dif>
+      Malfacile komprenebla a&ubreve; uzebla:
+    </dif>
+    <subsnc mrk="simpl.mal0a.plurpeca">
+      <dif>
+        Konsistanta el pluraj pecoj, elementoj, ingrediencoj:
+        <ekz>
+          la romano prezentas tre mal<tld/>ajn karakterojn;
+        </ekz>
+        <ekz>
+          <uzo tip="fak">KOMP</uzo>
+          tabeloj, strukturoj, aroj dosieroj formas
+          mal<tld/>ajn datumtipojn.
+        </ekz>
+      </dif>
+      <ref tip="sin" cel="komple.0a.malsimpla">kompleksa <sncref/></ref>
+      <ref tip="ant" cel="simpl.0a.unupeca"><tld/>a <sncref/></ref>
+    </subsnc>
+    <subsnc mrk="simpl.mal0a.implikita">
+      <dif>
+        Havanta malklaran, implikitan strukturon:
+        <ekz>
+          tiu malkovro de <tld/>a lingva&jcirc;o por esprimi, tre nuance,
+          mal<tld/>ajn faktojn kaj sentojn &scirc;ajnas esti faktoro en
+          evoluo al stato pli kontentiga
+          <fnt><bib>BonaLingvo</bib></fnt>;
+        </ekz>
+        <ekz>
+          pli ol unu faktoro rolas en tiu mal<tld/>a procezo.
+        </ekz>
+      </dif>
+      <ref tip="ant" cel="simpl.0a.nekomplikita"><tld/>a <sncref/></ref>
+    </subsnc>
+  </snc>
+  <trd lng="be">&c_s;&c_k;&c_l;&c_a;&c_d;&c_a;&c_n;&c_y;</trd>
+  <trdgrp lng="cs">
+    <trd>komplikovaný</trd>,
+    <trd>složitý</trd>
+  </trdgrp>
+  <trd lng="en">complex</trd>
+  <trd lng="fr">complexe</trd>
+  <trdgrp lng="hu">
+    <trd>bonyolult</trd>,
+    <trd>&ouml;sszetett</trd>,
+    <trd>komplik&aacute;lt</trd>
+  </trdgrp>
+  <trd lng="ru">&c_s;&c_l;&c_o;&c_zh;&c_n;&c_y;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>komplikovaný</trd>,
+    <trd>zložitý</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="simpl.tro0igo">
+  <kap>tro<tld/>igo</kap>
+  <snc mrk="simpl.tro0igo.ARG">
+    <dif>
+      Sennuanca a&ubreve; karikatura prezento, kiu ne
+      fidelas al la prezentata&jcirc;o:
+      <ekz>
+        deekstera kritikado <klr>...</klr> bazi&gcirc;as sur tro<tld/>igoj
+        <fnt>
+          <aut>M. Fettes</aut>,
+          <vrk>UEA: fascine diversa homgrupo</vrk>,
+          <bib>LOdE</bib>,
+          <lok>2000:5</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="fr">
+    <trd>r&eacute;ductionnisme</trd>,
+    <trd>simplification abusive</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: simpl.xml,v $
+Revision 1.32  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.31  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.30  2013/07/07 01:10:10  revo
+Jeromo Vasxe: + tro~igo
+
+Revision 1.29  2010/05/18 16:31:04  revo
+Agustin Garcia Lopez: +trd es
+
+Revision 1.28  2007/01/07 17:31:44  revo
+Russ Williams: +trd tp
+
+Revision 1.27  2005/08/25 16:32:53  revo
+Yury Finkel: +trd ru
+
+Revision 1.26  2005/08/13 16:33:27  revo
+Jeromo Vasxe: + ~igi ~ulo, ~a snc/subsnc
+
+Revision 1.25 2004/10/24 16:33:17 revo
+Marc Bavant: kor duobligitan punkton
+
+Revision 1.24 2004/10/12 16:31:49 revo
+Jozefo Horvath: +trd hu
+
+Revision 1.23 2004/01/14 18:46:02 revo
+-->
+</vortaro>

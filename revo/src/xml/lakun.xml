@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: lakun.xml,v 1.3 2015/07/04 08:37:38 revo Exp $">
+<kap>
+  <rad>lakun</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="lakun.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="stl">RAR</uzo>
+  <snc mrk="lakun.0o.KOMUNE">
+    <dif>
+      Mankoloko.
+    </dif>
+    <subsnc mrk="lakun.0o.TIP">
+      <uzo tip="fak">TIP</uzo>
+      <dif>
+        Mankoloko en difektita dokumento:
+        <ekz>
+          [...] tiu indiko signifas, ke estas <tld/>o (truo en la teksto)
+          <fnt>
+            <aut>Petronio, trad. G. Berveling</aut>,
+            <vrk><url
+            ref="http://www.esperanto.org/literaturo/geja/SAT.htm">Satirikono
+            [parto]</url></vrk>,
+            <lok>[vidita en 2006]</lok>
+          </fnt>.
+        </ekz>
+      </dif>
+    </subsnc>
+    <subsnc mrk="lakun.0o.FIZL">
+      <uzo tip="fak">FIZL</uzo>
+      <dif>
+        Mankoloko en osto a&ubreve; en &ccirc;elaro:
+        <ekz>
+          <tld/>oj de Howship
+          <fnt>
+            <aut>-</aut>,
+            <vrk><url ref="http://vortareto.free.fr/">Lexique et
+            dictionnaire m&eacute;dical
+fran&ccedil;ais-esp&eacute;ranto</url></vrk>,
+            <lok>2004-</lok>
+          </fnt>.
+        </ekz>
+      </dif>
+    </subsnc>
+    <refgrp tip="vid">
+      <ref cel="brecx.0o">bre&ccirc;o</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>hlubinka</trd>,
+    <trd>skulina</trd>
+  </trdgrp>
+  <trd lng="fr">lacune</trd>
+  <trdgrp lng="sk">
+    <trd>priehlbinka</trd>,
+    <trd>škárka</trd>,
+    <trd>štrbinka</trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log: lakun.xml,v $
+Revision 1.3  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.2  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.1  2006/10/22 18:03:15  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

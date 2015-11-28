@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: patos.xml,v 1.17 2015/07/04 08:37:41 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>patos</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="patos.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="patos.0o.BELA">
+    <uzo tip="fak">BELA</uzo>
+    <uzo tip="fak">BELE</uzo>
+    <dif>
+      Emocia, solena a&ubreve; entuziasma esprimo de altaj pensoj a&ubreve; intensaj
+      sentoj:
+      <ekz>
+        la <tld/>o de Pindaro, de Viktoro Hugo.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="akcent.0i">akcenti</ref>,
+      <ref cel="bombas.0o">bombasto</ref>,
+      <ref cel="eksklamaci.0o.BELE">eksklamacio</ref>,
+      <ref cel="emfaz.0o">emfazo</ref>,
+      <ref cel="pomp.0o">pompo</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_t;&c_a;&c_s;</trd>
+  <trd lng="bg">&c_p;&c_a;&c_t;&c_o;&c_s;</trd>
+  <trdgrp lng="cs">
+    <trd>nadšený přednes</trd>,
+    <trd>patos</trd>
+  </trdgrp>
+  <trd lng="de">Pathos</trd>
+  <trdgrp lng="en">
+    <trd>passion</trd>,
+    <trd>feeling</trd>,
+    <trd>bombast</trd>,
+    <trd>rant</trd>,
+    <trd>fervor</trd>,
+    <trd>expression</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>grandiloquence</trd>,
+    <trd>path&eacute;tique<klr> (subst.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>p&aacute;tosz</trd>,
+    <trd>emelkedetts&eacute;g</trd>
+  </trdgrp>
+  <trd lng="nl">pathos</trd>
+  <trd lng="pt">patos</trd>
+  <trd lng="ru">&c_p;&c_a;&c_f;&c_o;&c_s;</trd>
+  <trdgrp lng="sk">
+    <trd>nadšený prednes</trd>,
+    <trd>pátos</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="patos.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="patos.0a.BELA">
+    <dif>
+      Kiu esprimas emocie, kortu&scirc;e, pasie:
+      <ekz>
+        <tld/>aj strofoj
+        <fnt><aut>H. Sienkewicz, trad. L. Zamenhof</aut>, <vrk>Quo 
+        vadis?</vrk>, <lok>1933</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="fr">
+    <trd>grandiloquent</trd>,
+    <trd>path&eacute;tique<klr> (adj.)</klr></trd>,
+    <trd>r&eacute;thorique<klr> (adj.)</klr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: patos.xml,v $
+Revision 1.17  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:40:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.15  2014/12/22 21:10:12  revo
+Jeromo Vasxe: + ~a
+
+Revision 1.14  2014/11/26 08:10:22  revo
+Damien Brucker: +trd fr
+
+Revision 1.13  2014/01/02 18:10:17  revo
+Joop Eggen: +trd bg
+
+Revision 1.12  2009/05/27 16:30:50  revo
+Russ Williams: +trd en
+
+Revision 1.11  2006/02/25 17:33:35  revo
+Tulio Flores: +tr pt
+
+Revision 1.10  2004/08/02 18:56:12  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.9  2003/07/26 08:42:19  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.8  2002/12/09 17:32:56  revo
+-->
+</vortaro>

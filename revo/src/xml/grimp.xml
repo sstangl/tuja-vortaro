@@ -1,0 +1,196 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: grimp.xml,v 1.20 2015/10/29 13:10:16 revo Exp $">
+<kap><ofc>3</ofc>
+<rad>grimp</rad>/i</kap>
+<drv mrk="grimp.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="grimp.0i.piedoj_manoj">
+    <dif>
+      Pene transloki sian korpon sur oblikva a&ubreve; vertikala supra&jcirc;o
+      per helpo de piedoj kaj de manoj:
+      <ekz>
+        <tld/>i sur arbon, rokon;
+      </ekz>
+      <ekz>
+        ili <tld/>is tra la kamentubo malsupren
+        <fnt><bib>Fab2</bib>, <lok>Pa&scirc;tistino kaj
+        kamentubisto</lok></fnt>.
+      </ekz>
+    </dif>
+    <adm>
+      La ekz-o kun &leftquot;~i malsupren&rightquot; sxajnas suficxe
+      eksterordinara. PIV1 faris specialan derivajxon
+      por gxi. <aut>MB</aut>
+    </adm>
+    <trd lng="nl">klauteren</trd>
+  </snc>
+  <snc mrk="grimp.0i.supreniri">
+    <dif>
+      Pene supreniri sur altan lokon:
+      <ekz>
+        <tld/>i sur altan turon;
+      </ekz>
+      <ekz>
+        sur<tld/>i monton;
+      </ekz>
+      <ekz>
+        &scirc;i en<tld/>is en boaton
+        <fnt><bib>Fab2</bib>, <lok>Ne&gcirc;a re&gcirc;ino</lok></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="nl">klimmen</trd>
+  </snc>
+  <snc mrk="grimp.0i.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      Suprenrampi sin alkro&ccirc;ante al io:
+      <ekz>
+        <tld/>anta rozujo, pizo.
+      </ekz>
+    </dif>
+    <trd lng="nl">klimmen</trd>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_k;&c_a;&c_r;&c_a;&c_s;&c_k;&c_a;&c_c;&c_c;&c_a;</trd>,
+    <trd>&c_u;&c_z;&c_mol;&c_b;&c_ib;&c_r;&c_a;&c_c;&c_c;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="ca">
+    <trd>escalar</trd>,
+    <trd>grimpar</trd>,
+    <trd>enfilar-se</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>l&eacute;zt</trd>,
+    <trd>&scaron;plhat</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>klettern</trd>,
+    <trd>steigen</trd>
+  </trdgrp>
+  <trd lng="en">climb</trd>
+  <trdgrp lng="es">
+    <trd>escalar</trd>,
+    <trd>trepar</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>grimper</trd>,
+    <trd>gravir</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>m&aacute;szik</trd>,
+    <trd>k&uacute;szik</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+   <trd>trepar</trd>, 
+   <trd>subir<klr tip="amb"> (com esfor&ccedil;o de m&atilde;os e p&eacute;s)</klr></trd>, 
+   <trd>descer<klr tip="amb"> (com esfor&ccedil;o de m&atilde;os e p&eacute;s)</klr></trd> 
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_k;&c_a;&c_r;&c_a;&c_b;&c_k;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>,
+    <trd>&c_v;&c_z;&c_b;&c_i;&c_r;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>liez&tcaron;</trd>,
+    <trd>&scaron;plha&tcaron;</trd>
+  </trdgrp>
+  <trd lng="sv">kl&auml;ttra</trd>
+</drv>
+
+<drv mrk="grimp.0ema">
+  <kap><tld/>ema</kap>
+  <uzo tip="fak">BOT</uzo>
+  <snc>
+    <dif>
+      Karakterizas planton, kiu nature <tld/>as.
+    </dif>
+  </snc>
+  <adm>
+    Kia diferenco kun ~anta, kiu aperas cxi-supre en ekz?
+    PIV1 donas &leftquot;~a&rightquot; por &leftquot;nature ~anta&rightquot;. Tio eble estas pli
+    gxusta, sed ne multe pli klara.
+    <aut>MB</aut>
+  </adm>
+  <trd lng="be">&c_p;&c_a;&c_v;&c_o;&c_j;&c_n;&c_y; <klr>(&c_p;&c_r;&c_a; &c_r;&c_a;&c_s;&c_mol;&c_l;&c_ib;&c_n;&c_u;)</klr></trd>
+  <trd lng="ca">enfilad&iacute;s</trd>
+  <trdgrp lng="en">
+    <trd>creeping</trd>,
+    <trd>climbing <klr>(plant)</klr></trd>
+  </trdgrp>
+  <trd lng="es">trepadora</trd>
+  <trd lng="fr">grimpant</trd>
+  <trd lng="hu">k&uacute;sz&oacute;</trd>
+  <trd lng="nl">klim-</trd>
+  <trd lng="pt">trepadeira</trd>
+  <trd lng="ru">&c_v;&c_mol;&c_ju;&c_shch;&c_i;&c_j;&c_s;&c_ja; <klr>(&c_o; &c_r;&c_a;&c_s;&c_t;&c_je;&c_n;&c_i;&c_i;)</klr></trd>
+  <trd lng="sk">pop&iacute;nav&yacute;</trd>
+  <trdgrp lng="cs">
+    <trd>pop&iacute;nav&yacute;</trd>,
+    <trd>&scaron;plhav&yacute;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="grimp.0iga">
+  <kap><tld/>iga</kap>
+  <snc>
+    <dif>
+      Karakterizas vojon, kiu devigas la vojirantojn <tld/>i.
+    </dif>
+  </snc>
+  <adm>
+    Dubinda. <aut>MB</aut>
+  </adm>
+  <trd lng="nl">klimmend</trd>
+  <trd lng="sk">strm&yacute;</trd>
+  <trd lng="cs">strm&yacute;</trd>
+</drv>
+
+<drv mrk="grimp.0ulo">
+  <kap><tld/>ulo</kap>
+  <uzo tip="fak">ZOO</uzo>
+  <snc>
+    <dif>
+      Besto, kiu emas <tld/>i.
+    </dif>
+  </snc>
+  <adm>
+    Dubinda, pli utila estus ~isto (SPO). <aut>MB</aut>
+  </adm>
+  <trd lng="ca">grimpador<klr> (animal)</klr></trd>
+  <trd lng="sk">&scaron;plhavec</trd>
+  <trdgrp lng="cs">
+    <trd>lezec</trd>,
+    <trd>&scaron;plhaj&iacute;c&iacute; &ccaron;l.</trd>
+  </trdgrp>
+  <trd lng="en">climbing animal</trd>
+</drv>
+</art>
+<!--
+$Log: grimp.xml,v $
+Revision 1.20  2015/10/29 13:10:16  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.19  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:29:39  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2012/07/30 09:10:19  revo
+Marc Rausell: + trd ca
+
+Revision 1.16  2005/08/26 16:32:21  revo
+Luiz Portella: +trd pt
+
+Revision 1.15  2004/01/06 17:32:27  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.14  2002/10/23 20:38:48  revo
+aktualigo de malnovaj fnt-indikoj enkondukante <bib>
+
+Revision 1.13  2002/07/09 17:33:11  revo
+-->
+</vortaro>

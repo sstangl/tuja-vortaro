@@ -1,0 +1,196 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: tomb.xml,v 1.18 2015/07/04 08:37:45 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>tomb</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="tomb.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="tomb.0o.FUN">
+    <dif>
+      Fosa&jcirc;o en tero a&ubreve; &scirc;tona monumento, kien oni metas mortinton:
+      <ekz>
+        kiel mortigitoj, ku&scirc;antaj en la <tld/>o
+        <fnt><bib>MT</bib>, <lok>&Psa; 88:5</lok></fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        la frunto kovri&gcirc;is per <tld/>a paleco<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_m;&c_a;&c_g;&c_ib;&c_l;&c_a;</trd>
+  <trd lng="bg">&c_g;&c_r;&c_o;&c_b;</trd>
+  <trdgrp lng="ca">
+    <trd>tomba</trd>,
+    <trd>sepulcre</trd>
+  </trdgrp>
+  <trd lng="cs">hrobové místo</trd>
+  <trd lng="de">Grab</trd>
+  <trdgrp lng="en">
+    <trd>grave</trd>,
+    <trd>tomb</trd>,
+    <trd>vault</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>tombe</trd>,
+    <trd>tombeau</trd>
+  </trdgrp>
+  <trd lng="hu">s&iacute;r</trd>
+  <trd lng="nl">graf</trd>
+  <trdgrp lng="pt">
+    <trd>t&uacute;mulo</trd>,
+    <trd>tumba</trd>,
+    <trd>jazigo</trd>,
+    <trd>sepultura</trd>
+  </trdgrp>
+  <trd lng="ru">&c_m;&c_o;&c_g;&c_i;&c_l;&c_a;</trd>
+  <trd lng="sk">hrobové miesto</trd>
+</drv>
+
+<drv mrk="tomb.0ejo">
+  <kap><tld/>ejo</kap>
+  <snc mrk="tomb.0ejo.ARKI">
+    <uzo tip="fak">ARKI</uzo>
+    <dif>
+      Loko destinita por enhavi plurajn a&ubreve; multajn <ref tip="prt"
+      cel="tomb.0o"><tld/>ojn</ref>:
+      <ekz>
+        <ctl>La Litomi&scirc;la <tld/>ejo</ctl>
+        <klr>(romano de Karolo Pi&ccirc;)</klr>
+        <fnt>
+          <aut>K. Pi&ccirc;</aut>,
+          <vrk>La Litomi&scirc;la Tombejo</vrk>,
+          <lok>1981</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_m;&c_o;&c_g;&c_ib;&c_l;&c_k;&c_ib;</trd>
+  <trd lng="bg">&c_g;&c_r;&c_o;&c_b;&c_i;&c_shch;&c_je;</trd>
+  <trdgrp lng="ca">
+    <trd>fossar</trd>,
+    <trd>cementiri</trd>
+  </trdgrp>
+  <trd lng="cs">hřbitov</trd>
+  <trd lng="de">Friedhof</trd>
+  <trdgrp lng="en">
+    <trd>graveyard</trd>,
+    <trd>cemetery</trd>,
+    <trd>necropolis</trd>
+  </trdgrp>
+  <trd lng="fr">cimeti&egrave;re</trd>
+  <trd lng="hu">temet&odblac;</trd>
+  <trd lng="nl">begraafplaats</trd>
+  <trd lng="pt">cemit&eacute;rio</trd>
+  <trd lng="ru">&c_k;&c_l;&c_a;&c_d;&c_b;&c_i;&c_shch;&c_je;</trd>
+  <trd lng="sk">cintorín</trd>
+</drv>
+
+<drv mrk="tomb.en0igi">
+  <kap>en<tld/>igi</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="tomb.en0igi.FUN">
+    <dif>
+      <ref tip="super" cel="sepult.0i">Sepulti</ref>, metante en
+      <tld/>on:
+      <ekz>
+        kiam Jesuo alvenis, li trovis lin jam kvar tagojn en<tld/>igita
+        <fnt><bib>NT</bib>, <lok>&Joh; 11:17</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_h;&c_a;&c_v;&c_a;&c_c;&c_mol; <klr>(&c_u; &c_m;&c_a;&c_g;&c_ib;&c_l;&c_u;)</klr></trd>
+  <trd lng="bg">&c_p;&c_o;&c_g;&c_r;&c_je;&c_b;&c_v;&c_a;&c_m;</trd>
+  <trdgrp lng="ca">
+    <trd>sebollir</trd>,
+    <trd>sepultar</trd>,
+    <trd>enterrar</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>pohřbít</trd>,
+    <trd>uložit do hrobu</trd>
+  </trdgrp>
+  <trd lng="de">beerdigen</trd>
+  <trdgrp lng="en">
+    <trd>entomb</trd>,
+    <trd>bury <klr tip="amb">(in grave)</klr></trd>,
+    <trd>inter</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>ensevelir<klr> (mettre en tombe)</klr></trd>,
+    <trd>enterrer<klr> (mettre en tombe)</klr></trd>
+  </trdgrp>
+  <trd lng="hu">eltemet</trd>
+  <trd lng="nl">begraven</trd>
+  <trdgrp lng="pt">
+    <trd>enterrar</trd>,
+    <trd>sepultar</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_h;&c_o;&c_r;&c_o;&c_n;&c_i;&c_t;&c_mol;</trd>,
+    <trd>&c_p;&c_o;&c_h;&c_o;&c_r;&c_o;&c_n;&c_i;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="sk">pochovať</trd>
+</drv>
+
+<drv mrk="tomb.en0igo">
+  <kap>en<tld/>igo</kap>
+  <snc mrk="tomb.en0igo.FUN">
+    <dif>
+      Meto de &ccirc;erko en <tld/>on:
+      <ekz>
+        li decidis veni al &scirc;ia en<tld/>igo
+        <fnt>
+          <aut>A. Pu&scirc;kin, trad. A. Kor&jcirc;enkov</aut>,
+          <vrk><url
+          ref="http://www.esperanto-ondo.ru/Libroj/V_bibl01.pdf">
+          La pika damo</url></vrk>,
+          <lok>2003-2010</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">uložení do hrobu</trd>
+  <trd lng="fr">mise au <ind>tombeau</ind></trd>
+  <trdgrp lng="sk">
+    <trd>pochovanie</trd>,
+    <trd>pohreb</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: tomb.xml,v $
+Revision 1.18  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.16  2014/10/30 21:10:20  revo
+Jeromo Vasxe: + mrk, + en~igo
+
+Revision 1.15  2012/08/14 12:10:16  revo
+Marc Rausell: + trd ca
+
+Revision 1.14  2010/04/15 16:30:23  revo
+Wieland Pusch: +trd bg
+
+Revision 1.13  2010/04/14 06:05:47  revo
+Russ Williams: +trd en
+
+Revision 1.12  2006/02/15 17:35:44  revo
+Tulio Flores: +trd pt
+
+Revision 1.11  2004/12/07 17:31:28  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.10  2004/03/01 17:31:38  revo
+Jeromo Vasxe: + kk ekz, + 1 trd fr
+
+Revision 1.9 2003/09/24 16:31:35 revo
+-->
+</vortaro>

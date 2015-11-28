@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: pedal.xml,v 1.21 2015/07/04 08:37:41 revo Exp $">
+<kap>
+   <ofc>1</ofc>
+   <rad>pedal</rad>/o
+</kap>
+<drv mrk="pedal.0o">
+   <kap><tld/>o</kap>
+   <snc>
+   <uzo tip="fak">TEK</uzo>
+     <dif>
+       Peco de me&hcirc;anismo, kiun oni movas per piedo:
+       <ekz>
+         <tld/>o de piano, orgeno, harpo, bicikleto.
+       </ekz>
+     </dif>
+   </snc>
+  <trd lng="be">&c_p;&c_e;&c_d;&c_a;&c_l;&c_mol;</trd>
+  <trd lng="bg">&c_p;&c_je;&c_d;&c_a;&c_l;</trd>
+  <trd lng="ca">pedal</trd>
+  <trdgrp lng="cs">
+    <trd>pedál</trd>,
+    <trd>šlapadlo</trd>,
+    <trd>šlapka</trd>
+  </trdgrp>
+  <trd lng="de">Pedal</trd>
+  <trd lng="en">pedal</trd>
+  <trd lng="es">pedal</trd>
+  <trd lng="fa">&f_p;&a_d;&a_A;&a_l;</trd>
+  <trd lng="fr">p&eacute;dale</trd>
+  <trd lng="hu">ped&aacute;l</trd>
+  <trdgrp lng="nl">
+     <trd>pedaal</trd>,
+     <trd>trapper</trd>
+   </trdgrp>
+  <trd lng="pl">peda&lstroke;</trd>
+  <trd lng="pt">pedal</trd>
+  <trd lng="ru">&c_p;&c_je;&c_d;&c_a;&c_l;&c_mol;</trd>
+  <trd lng="sk">pedál</trd>
+  <trd lng="sv">pedal</trd>
+</drv>
+
+<drv mrk="pedal.0i">
+   <kap><tld/>i</kap>
+   <gra><vspec>tr</vspec></gra>
+   <snc>
+     <dif>
+       Movi <tld/>on.
+     </dif>
+   </snc>
+  <trdgrp lng="be">
+     <trd>&c_p;&c_e;&c_d;&c_a;&c_l;&c_ja;&c_v;&c_a;&c_c;&c_mol;</trd>,
+     <trd>&c_c;&c_ib;&c_s;&c_n;&c_u;&c_c;&c_mol; &c_n;&c_a;
+     <ind>&c_p;&c_e;&c_d;&c_a;&c_l;&c_mol;</ind></trd>
+   </trdgrp>
+  <trd lng="bg">&c_n;&c_a;&c_t;&c_i;&c_s;&c_k;&c_a;&c_m; <ind>&c_p;&c_je;&c_d;&c_a;&c_l;&c_i;&c_t;&c_je;</ind></trd>
+  <trd lng="cs">šlapat do pedálů</trd>
+  <trd lng="de">in die <ind>Pedale</ind> treten</trd>
+  <trd lng="en">pedal</trd>
+  <trd lng="es">pedalear</trd>
+  <trd lng="fr">p&eacute;daler</trd>
+  <trd lng="hu">ped&aacute;loz(ik)</trd>
+  <trd lng="nl">trappen</trd>
+  <trdgrp lng="pl">
+     <trd>peda&lstroke;owa&cacute;</trd>,
+     <trd>naciska&cacute; <ind>peda&lstroke;</ind></trd>
+   </trdgrp>
+  <trdgrp lng="ru">
+     <trd>
+     &c_p;&c_je;&c_d;&c_a;&c_l;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;
+     </trd>,
+     <trd>
+     &c_d;&c_a;&c_v;&c_i;&c_t;&c_mol;
+     &c_n;&c_a; &c_p;&c_je;&c_d;&c_a;&c_l;&c_mol;
+     </trd>,
+     <trd>
+     &c_k;&c_r;&c_u;&c_t;&c_i;&c_t;&c_mol;
+     &c_p;&c_je;&c_d;&c_a;&c_l;&c_i;
+     </trd>
+   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>pohybovať pedálom</trd>,
+    <trd>použiť pedál</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: pedal.xml,v $
+Revision 1.21  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:40:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.19  2014/09/05 01:10:27  revo
+Carlos Garcia: +trd es -i
+
+Revision 1.18  2014/03/11 15:10:14  revo
+Joop Eggen: +trd bg
+
+Revision 1.17  2014/01/05 13:10:18  revo
+Damien Brucker: +trd fr
+
+Revision 1.16  2010/04/15 16:30:29  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.15  2008/06/05 16:30:22  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.14  2008/05/25 18:38:39  revo
+Mireille Corobu: +trd fr
+
+Revision 1.13  2006/02/27 17:32:07  revo
+Tulio Flores: +tr pt
+
+Revision 1.12  2005/04/18 16:32:49  revo
+-->
+</vortaro>

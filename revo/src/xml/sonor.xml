@@ -1,0 +1,371 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: sonor.xml,v 1.26 2015/07/04 08:37:43 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>sonor</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="sonor.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="sonor.0i.SON">
+    <dif>
+      <ref tip="super" cel="son.0i.SON">Soni</ref> kaj da&ubreve;re a&ubreve;di&gcirc;i post
+      &ccirc;eso de la ka&ubreve;zo:
+      <ekz>
+        &ccirc;iuj <tld/>iloj de pre&gcirc;ejoj <tld/>is
+        <fnt><bib>Fab1</bib>, <lok>la virineto de maro</lok></fnt>;
+      </ekz>
+      <ekz>
+        en la marmoraj palacoj <tld/>as luksaj festenoj
+        <fnt>
+          <aut>E. Orzeszkowa, tr. Kabe</aut>: <vrk>Legendo</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi faros <klr>...</klr> tian faron, ke al &ccirc;iu, kiu tion a&ubreve;dos,
+        ek<tld/>os amba&ubreve; liaj oreloj
+        <fnt><bib>MT</bib>, <lok>&Sa1; 3:11</lok></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="tint.0i">tinti</ref>,
+      <ref cel="vibr.0i">vibri</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>drnčet</trd>,
+    <trd>zvonit</trd>,
+    <trd>zvučet</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>t&ouml;nen</trd>,
+    <trd>klingen</trd>,
+    <trd>l&auml;uten</trd>,
+    <trd>schallen</trd>,
+    <trd>hallen</trd>
+  </trdgrp>
+  <trd lng="en">ring</trd>
+  <trdgrp lng="fr">
+    <trd>r&eacute;sonner</trd>,
+    <trd>sonner</trd>,
+    <trd>tinter</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>zeng</trd>,
+    <trd>cseng</trd>,
+    <trd>bong</trd>,
+    <trd>z&uacute;g</trd>,
+    <trd>b&uacute;g</trd>
+  </trdgrp>
+  <trdgrp lng="id">
+    <trd>[<ind>dering</ind>] berdering</trd>,
+    <trd>[<ind>dentang</ind>] berdentang</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>galmen</trd>,
+    <trd>luiden</trd>,
+    <trd>klinken</trd>
+  </trdgrp>
+  <trd lng="ru">&c_z;&c_v;&c_je;&c_n;&c_je;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>znieť</trd>,
+    <trd>zvoniť</trd>
+  </trdgrp>
+  <trd lng="tp">kalama</trd>
+</drv>
+
+<drv mrk="sonor.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="sonor.0a.SON">
+    <dif>
+      Klare kaj da&ubreve;re sonanta, facile a&ubreve;debla:
+      <ekz>
+        <tld/>a vo&ccirc;o.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="lauxt.0a">la&ubreve;ta</ref>
+    </refgrp>
+  </snc>
+  <trd lng="cs">zvonivý</trd>
+  <trd lng="fr">sonore</trd>
+  <trdgrp lng="ru">
+    <trd>&c_z;&c_v;&c_o;&c_n;&c_k;&c_i;&c_j;</trd>,
+    <trd>&c_z;&c_v;&c_u;&c_ch;&c_n;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>zvonivý</trd>,
+    <trd>zvučný</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="sonor.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="sonor.0o.SON">
+    <dif>
+      <ref tip="lst" cel="son.0o.SON" lst="voko:sonoj">Sono</ref> da&ubreve;re
+      sonanta post &ccirc;eso de &gcirc;ia ka&ubreve;zo:
+      <ekz>
+        la vitro dispeci&gcirc;is kun <tld/>o
+        <fnt><bib>Metrop</bib></fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="fr">
+      <trd>&eacute;clat sonore</trd>,
+      <trd>sonorit&eacute;</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>zeng&eacute;s</trd>,
+      <trd>cseng&eacute;s</trd>,
+      <trd>z&uacute;g&aacute;s</trd>,
+      <trd>b&uacute;g&aacute;s</trd>
+    </trdgrp>
+    <trd lng="ru">&c_z;&c_v;&c_o;&c_n;</trd>
+  </snc>
+  <snc mrk="sonor.0o.FON">
+    <uzo tip="fak">FON</uzo>
+    <fnt>PV</fnt>
+    <uzo tip="stl">ARK</uzo>
+    <ref tip="dif" cel="sonor.0anto.FON"><tld/>anto</ref>
+  </snc>
+  <trd lng="cs">zvonění</trd>
+  <trd lng="sk">zvonenie</trd>
+</drv>
+
+<drv mrk="sonor.0anto">
+  <kap><tld/>anto</kap>
+  <snc mrk="sonor.0anto.FON">
+    <uzo tip="fak">FON</uzo>
+    <dif>
+      <ref cel="son.parol0o">Parolsono</ref>, estigata precipe per la
+      vo&ccirc;o, sen bruo a&ubreve; kun minimuma bruo
+      (<refgrp>
+        <ref cel="vokal.0o">vokalo</ref>,
+        <ref cel="vokal.kvazaux0o">duonvokalo</ref>,
+        <ref cel="naz.0akonsonanto">naza konsonanto</ref>,
+        <ref cel="flu.0akonsonanto">flua konsonanto</ref>
+      </refgrp>):
+      <ekz>
+        esence tio signifas, ke sono estas <tld/>anto, se &gcirc;i
+        produkteblas da&ubreve;re je la sama tonalto
+        <fnt>
+          <bib>Vivi</bib>, <lok><url
+          ref="https://eo.wikipedia.org/wiki/Sonoranto"
+              >Sonoranto</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="ant" cel="bru.0anto.FON">bruanto</ref>
+    <trd lng="de">Sonorant</trd>
+    <trd lng="en">sonorant</trd>
+    <trd lng="hu">z&ouml;nge</trd>
+    <trdgrp lng="ru">
+      <trd>&c_s;&c_o;&c_n;&c_a;&c_n;&c_t;</trd>,
+      <trd>&c_s;&c_o;&c_n;&c_o;&c_r;&c_n;&c_y;&c_j; &c_s;&c_o;&c_g;&c_l;&c_a;&c_s;&c_n;&c_y;&c_j;</trd>
+    </trdgrp>
+  </snc>
+</drv>
+
+<drv mrk="sonor.0etigi">
+  <kap><tld/>etigi</kap>
+  <snc mrk="sonor.0etigi.toste">
+    <uzo tip="stl">RAR</uzo>
+    <dif>
+      Interfrapi la glasojn anta&ubreve; ol trinki je honoro de iu a&ubreve; io.
+    </dif>
+    <rim>
+      Ekzemplo ne troveblas.
+      Prefere uzu
+      <ref tip="vid" cel="tint.0igi">tintigi</ref>,
+      <ref tip="vid" cel="tost.0i">tosti</ref>.      
+    </rim>
+  </snc>
+  <trd lng="hu">koccint</trd>
+  <trd lng="nl">klinken</trd>
+  <trd lng="ru">&c_ch;&c_o;&c_k;&c_n;&c_u;&c_t;&c_mol;&c_s;&c_ja; <klr tip="amb">(&c_b;&c_o;&c_k;&c_a;&c_l;&c_a;&c_m;&c_i;)</klr></trd>
+</drv>
+
+<drv mrk="sonor.0igi">
+  <kap><tld/>igi</kap>
+  <snc mrk="sonor.0igi.KOMUNE">
+    <dif>
+      Ka&ubreve;zi <tld/>on per tiucela ilo:
+      <ekz>
+        bonvolu <tld/>igi al la servisto.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>rozeznít</trd>,
+    <trd>zazvonit</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>t&ouml;nen lassen</trd>,
+    <trd>klingen lassen</trd>,
+    <trd>l&auml;uten lassen</trd>
+  </trdgrp>
+  <trd lng="fr">sonner<klr tip="amb"> (sonnette, cloche,
+  etc.)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>csenget</trd>,
+    <trd>harangozik</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>bellen</trd>,
+    <trd>aanbellen</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_z;&c_v;&c_o;&c_n;&c_i;&c_t;&c_mol;</trd>,
+    <trd>&c_p;&c_o;&c_z;&c_v;&c_o;&c_n;&c_i;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="sk">zazvoniť</trd>
+</drv>
+
+<drv mrk="sonor.0igisto">
+  <kap><tld/>igisto</kap>
+  <snc mrk="sonor.0igisto.kirka">
+    <dif>
+      Homo, metie <tld/>iganta la <tld/>ilojn de pre&gcirc;ejo.
+    </dif>
+  </snc>
+  <trd lng="cs">zvoník</trd>
+  <trd lng="de">Gl&ouml;ckner</trd>
+  <trd lng="fr">sonneur<klr tip="amb"> (de cloches)</klr></trd>
+  <trd lng="hu">harangoz&oacute;</trd>
+  <trd lng="nl">klokkenluider</trd>
+  <trd lng="ru">&c_z;&c_v;&c_o;&c_n;&c_a;&c_r;&c_mol;</trd>
+  <trd lng="sk">zvonár <klr>(ktorý zvoní)</klr></trd>
+</drv>
+
+<drv mrk="sonor.0ilaro">
+  <kap><tld/>ilaro</kap>
+  <snc mrk="sonor.0ilaro.MUZ">
+    <uzo tip="fak">MUZ</uzo>
+    <ref tip="sin" cel="kariljon.0o">kariljono</ref>
+  </snc>
+  <trd lng="cs">zvonkohra</trd>
+  <trd lng="fr">carillon</trd>
+  <trdgrp lng="hu">
+    <trd>harangj&aacute;t&eacute;k</trd>,
+    <trd>campanelli</trd>
+  </trdgrp>
+  <trd lng="sk">zvonkohra</trd>
+</drv>
+
+<drv mrk="sonor.0ilego">
+  <kap><tld/>ilego</kap>
+  <snc mrk="sonor.0ilego.KOMUNE">
+    <dif>
+      Tre granda <tld/>ilo:
+      <ekz>
+        la <tld/>ilegoj komencis brue soni kaj ekestis 
+        movi&gcirc;ado en la vila&gcirc;o
+        <fnt><aut>A. Kivi, trad. I. Ekstr&ouml;m</aut>, <vrk>Sep 
+        fratoj</vrk>, <lok>1947</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">tocsin</trd>
+</drv>
+
+<drv mrk="sonor.0ilejo">
+  <kap><tld/>ilejo, <var><kap><tld/>ilturo</kap></var></kap>
+  <snc mrk="sonor.0ilejo.ARKI">
+    <uzo tip="fak">ARKI</uzo>
+    <dif>
+      Turo enhavanta <tld/>ilojn.
+    </dif>
+  </snc>
+  <trd lng="cs">zvonice</trd>
+  <trd lng="de">Glockenturm</trd>
+  <trdgrp lng="fr">
+    <trd>campanile</trd>,
+    <trd>clocher</trd>
+  </trdgrp>
+  <trd lng="hu">harangtorony</trd>
+  <trd lng="id"><ind>menara</ind> lonceng</trd>
+  <trd lng="nl">klokkentoren</trd>
+  <trd lng="ru">&c_z;&c_v;&c_o;&c_n;&c_n;&c_i;&c_c;&c_a;</trd>
+  <trd lng="sk">zvonica</trd>
+</drv>
+
+<drv mrk="sonor.0ilo">
+  <kap><ofc>*</ofc><tld/>ilo</kap>
+  <snc mrk="sonor.0ilo.MUZ">
+    <uzo tip="fak">MUZ</uzo>
+    <dif>
+      <ref tip="lst" cel="instru2.frap0o"
+      lst="voko:frapinstrumentoj">Frapinstrumento</ref>
+      estiganta <tld/>on, &gcirc;enerale konsistanta el metala kava duonsfero
+      kun svingebla frapilo:
+      <ekz>
+        per <tld/>ilo ni <tld/>as, per fajfilo ni fajfas
+        <fnt><bib>F</bib>, <lok>&FE; 34</lok></fnt>;
+      </ekz>
+      <ekz>
+        la vila&gcirc;a <tld/>ilo malgaje eksonis noktomezon
+        <fnt><bib>FK</bib>, <lok>4, rakontoj, la forgesita
+        pipo</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">zvonek u dveří</trd>
+  <trdgrp lng="de">
+    <trd>Glocke</trd>,
+    <trd>Klingel</trd>
+  </trdgrp>
+  <trd lng="fr">cloche</trd>
+  <trdgrp lng="hu">
+    <trd>cseng&odblac;</trd>,
+    <trd>harang</trd>
+  </trdgrp>
+  <trdgrp lng="id">
+    <trd>bel</trd>,
+    <trd>lonceng</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>bel</trd>,
+    <trd>klok</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_k;&c_o;&c_l;&c_o;&c_k;&c_o;&c_l;</trd>,
+    <trd>&c_k;&c_o;&c_l;&c_o;&c_k;&c_o;&c_l;&c_mol;&c_ch;&c_i;&c_k;</trd>
+  </trdgrp>
+  <trd lng="sk">zvonček <klr>(domový)</klr></trd>
+</drv>
+</art>
+<!--
+$Log: sonor.xml,v $
+Revision 1.26  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.25  2015/06/29 16:33:24  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.24  2015/01/06 06:10:14  revo
+Sergio Pokrovskij: +fnt, TEZ
+
+Revision 1.23  2015/01/06 04:10:11  revo
+Sergio Pokrovskij: +~anto.FON
+
+Revision 1.22  2014/10/26 02:10:40  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.21  2014/06/10 20:10:13  revo
+Jeromo Vasxe: + ~ego
+
+Revision 1.20  2013/09/08 18:11:04  revo
+Wolfram Diestel: ref al listo frapinstrumentoj
+
+Revision 1.19  2013/08/22 17:10:18  revo
+Wolfram Diestel: referenco al listo sonoj
+
+Revision 1.18  2012/10/23 00:13:46  revo
+Neil Roberts: aldonu la etikedon <var>
+
+Revision 1.17  2011/06/11 17:10:11  revo
+-->
+</vortaro>

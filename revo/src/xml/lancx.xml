@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: lancx.xml,v 1.14 2014/09/05 01:10:23 revo Exp $">
+<kap>
+  <ofc>9</ofc><rad>lan&ccirc;</rad>/i
+</kap>
+<drv mrk="lancx.0i">
+  <kap><ofc>9</ofc><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="lancx.0i.konstruajxon">
+    <dif>
+      Forlasi sen&scirc;irme al la ago de fizikaj fortoj &scirc;ipon,
+      balonon, ponton ktp, provante ties fortikecon kaj
+      funkciivon.
+    </dif>
+    <trdgrp lng="de">
+      <trd>abschie&szlig;en</trd>,
+      <trd>loslassen</trd>,
+      <trd>starten</trd>,
+      <trd>vom Stapel (laufen) lassen</trd>
+    </trdgrp>
+    <trd lng="es">lanzar</trd>
+    <trdgrp lng="hu">
+      <trd>v&iacute;zre bocs&aacute;t</trd>,
+      <trd>fell&odblac; <klr tip="ind">(pl. rak&eacute;t&aacute;t)</klr></trd>,
+      <trd>&uacute;tj&aacute;ra bocs&aacute;t</trd>,
+      <trd>beind&iacute;t</trd>
+    </trdgrp>    
+    <trdgrp lng="nl">
+      <trd>lanceren</trd>,
+      <trd>te <ind>water</ind> laten</trd>,
+      <trd>een <ind>proefvlucht</ind> doen maken</trd>
+    </trdgrp>
+    <trdgrp lng="pt">
+      <trd>lan&ccedil;ar</trd>,
+      <trd>p&ocirc;r &agrave; prova <klr>(navio, ponte etc.)</klr></trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="lancx.0i.sociajxon">
+    <dif>
+      Forlasi al la &gcirc;enerala uzado nova&jcirc;on (vorton, verkon,
+      dancon, modon ktp), provante ties sukcesivon:
+      <ekz>
+        Amnestion Internacian <tld/>is en 1961 la angla juristo Peter
+        Benenson<fnt><aut>M&aacute;ire McKay</aut>: <vrk>Pri libroj... kaj pri
+        braceletoj</vrk>, <bib>Monato</bib><lok>jaro 1998a, numero 5a,
+        p.
+        10a</lok></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="inicia.0i">iniciati</ref>,
+      <ref cel="komenc.0i">komenci</ref>,
+      <ref cel="merkat.sur0igi">surmerkatigi</ref>
+    </refgrp>
+    <trdgrp lng="de">
+      <trd>lancieren</trd>,
+      <trd>initiieren</trd>,
+      <trd>in Gang setzen</trd>,
+      <trd>verbreiten</trd>
+    </trdgrp>
+    <trdgrp lng="es">
+      <trd>presentar</trd>,
+      <trd>estrenar</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>elind&iacute;t <klr tip="ind">(pl. kezdem&eacute;nyez&eacute;st)</klr></trd>,
+      <trd>kibocs&aacute;t <klr tip="ind">(pl. proklam&aacute;ci&oacute;t)</klr></trd>,
+      <trd>&uacute;tj&aacute;ra bocs&aacute;t</trd>,
+      <trd>lansz&iacute;roz</trd>
+    </trdgrp>      
+    <trdgrp lng="nl">
+      <trd>lanceren</trd>,
+      <trd>verspreiden</trd>
+    </trdgrp>
+    <trdgrp lng="pt">
+      <trd>lan&ccedil;ar</trd>,
+      <trd>p&ocirc;r em <ind>uso</ind></trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_z;&c_a;&c_p;&c_u;&c_s;&c_mol;&c_c;&c_ib;&c_c;&c_mol;</trd>,
+    <trd>&c_s;&c_p;&c_u;&c_s;&c_mol;&c_c;&c_ib;&c_c;&c_mol; &c_n;&c_a; &c_v;&c_a;&c_d;&c_u; <klr>(pri &scirc;ipo)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="ca">
+    <trd>llan&ccedil;ar</trd>,
+    <trd>promoure</trd>
+  </trdgrp>
+  <trd lng="en">launch</trd>
+  <trdgrp lng="fr">
+    <trd>lancer<klr> (initier)</klr></trd>
+  </trdgrp>
+  <trd lng="ru">&c_z;&c_a;&c_p;&c_u;&c_s;&c_t;&c_i;&c_t;&c_mol;</trd>
+</drv>
+</art>
+<!--
+$Log: lancx.xml,v $
+Revision 1.14  2014/09/05 01:10:23  revo
+Carlos Garcia: +trd es -i
+
+Revision 1.13  2011/12/10 20:10:22  revo
+Marc Rausell: +trd ca
+
+Revision 1.12  2009/03/01 17:32:49  revo
+Russ Williams: + 9OA
+
+Revision 1.11  2006/08/25 14:12:20  revo
+Tulio Flores: +tr pt
+
+Revision 1.10  2004/05/22 16:32:23  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.9  2004/02/12 17:31:34  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.8  2002/10/23 16:30:55  revo
+Jeromo Vasxe: memkor + ,
+
+Revision 1.7  2002/10/22 16:33:53  revo
+-->
+</vortaro>

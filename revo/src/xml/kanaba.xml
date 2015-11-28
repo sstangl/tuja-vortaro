@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: kanaba.xml,v 1.8 2013/08/25 16:10:37 revo Exp $">
+<kap>
+  <rad>kanabac</rad>/oj
+</kap>
+<drv mrk="kanaba.0oj">
+  <kap>
+    <tld/>oj
+  </kap>
+  <uzo tip="fak">BOT</uzo>
+  <snc>
+    <dif>
+      <ref tip="lst" cel="famili.0o.BIO"
+      lst="voko:botanikaj_familioj">Familio</ref> de <ref tip="malprt"
+      cel="kotile.du0aj">dukotiledonaj</ref>
+      plantoj (<trd lng="la">Cannabaceae</trd>).
+    </dif>
+  </snc>
+  <trd lng="de">Hanfgew&auml;chse</trd>
+  <trd lng="fa">&a_sh;&a_A;&a_h;&a_d;&a_A;&a_n;&f_g;&a_A;&a_n;</trd>
+  <trdgrp lng="fr">
+    <trd>cannabac&eacute;es</trd>,
+    <trd>cannabinac&eacute;es</trd>
+  </trdgrp>
+  <trd lng="hu">kenderf&eacute;l&eacute;k</trd>
+  <trd lng="nl">hennepfamilie</trd>
+  <trd lng="ru">&c_k;&c_o;&c_n;&c_o;&c_p;&c_l;&c_jo;&c_v;&c_y;&c_je; <klr
+tip="amb">(&c_s;&c_je;&c_m;&c_je;&c_j;&c_s;&c_t;&c_v;&c_o;)</klr></trd>
+</drv>
+</art>
+<!--
+$Log: kanaba.xml,v $
+Revision 1.8  2013/08/25 16:10:37  revo
+Wolfram Diestel: referencoj al listo bot familioj
+
+Revision 1.7  2009/08/18 19:19:37  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.6  2004/10/31 17:33:04  revo
+Marc Bavant: +trd fr
+
+Revision 1.5  2002/05/03 16:35:08  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.4  2001/11/21 17:40:28  revo
+Yury Finkel: kor trd ru
+
+Revision 1.3  2001/11/15 19:14:28  revo
+Yury Finkel: +trd ru
+
+Revision 1.2  2001/10/27 18:11:18  revo
+Paul Peeraerts: ald trd nl
+
+-->
+</vortaro>

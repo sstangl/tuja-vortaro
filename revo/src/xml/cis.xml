@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: cis.xml,v 1.8 2015/07/04 08:37:32 revo Exp $">
+<kap>
+  <rad>cis</rad> <fnt><bib>PIV1</bib></fnt> <fnt><bib>PMEG</bib></fnt>
+</kap>
+<drv mrk="cis.0o">
+  <kap><tld/></kap>
+  <uzo tip="stl">RAR</uzo>
+  <snc mrk="cis.0o.prep">
+    <dif>
+      Prepozicio kun la senco de mal<ref tip="ant"
+      cel="trans.0.loko">trans</ref>,
+      <ref tip="sin" cel="flank.0ede">&ccirc;i-flanke de</ref>,
+      pli proksime ol:
+      <ekz>
+        lia bieno sterni&gcirc;as <tld/> la rivero;
+      </ekz>
+      <ekz>
+        restu <tld/> &ccirc;i tiu linio!
+      </ekz>
+    </dif>
+    <trd lng="fr">de ce c&ocirc;t&eacute;-ci de</trd>
+  </snc>
+  <snc mrk="cis.0o.pref">
+  <dif>
+  Prefikso montranta lokon, situantan, en rilato al difinita metropolo,
+  pli proksime ol la objekto, kiun &gcirc;i enkondukas (malo de <ref tip="ant"
+      cel="trans.0.loko">trans</ref>):
+  <ekz>cisalpa 
+(vidata de Romo), cisdanuba regiono (vidata de Vieno).</ekz>
+  </dif>
+  </snc>
+  <rim>
+      La sinonimoj <em>maltrans</em>
+      kaj <em>&ccirc;i-flanke de</em> estas preferataj.
+    </rim>
+
+  <trd lng="sk">ne tejto strane <klr>(pred)</klr></trd>
+  <trd lng="cs">na této straně <klr>(před)</klr></trd>
+</drv>
+</art>
+
+<!--
+$Log: cis.xml,v $
+Revision 1.8  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.7  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.6  2013/10/01 15:10:14  revo
+Damien Brucker: Aldono
+
+Revision 1.5  2013/09/06 08:10:12  revo
+Damien Brucker: Kompletigo de la rimarko +neoficiala
+
+Revision 1.4  2013/08/29 08:10:34  revo
+Damien Brucker: Aldono de fonto (PMEG)
+
+Revision 1.3  2013/08/29 01:10:19  revo
+Jeromo Vasxe: fnt piv1, rar per <uzo>, prep. per <gra>,1 snc, difino
+senca ne gramatika, 2 ekz
+
+Revision 1.2  2013/08/28 06:10:11  revo
+Damien Brucker: Sxangxo de la fonto
+
+Revision 1.1  2013/08/27 09:10:24  revo
+Damien Brucker: nova artikolo
+
+-->
+</vortaro>

@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: vernier.xml,v 1.8 2015/07/04 08:37:45 revo Exp $">
+<kap>
+  <rad>vernier</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="vernier.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="vernier.0o.TEK">
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      Preciza <ref tip="super" cel="mezur.0ilo.TEK">mezurilo</ref> de 
+      distanco kun subskala parto glitigebla sur &ccirc;efskala parto:
+      <ekz>
+        la de&jcirc;oranto kapjesis kaj komencis operacii kun butonoj kaj 
+        <tld/>oj de la memorma&scirc;ino
+        <fnt>
+          <aut>Ivan Efremov, trad. Jurij Finkel</aut>,
+          <vrk><url
+ref="http://www.esperanto.mv.ru/Efremov/andromedo.html">La nebulozo de
+Andromedo</url></vrk>,
+          <lok>&ccirc;apitro 10a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="ca">
+    <trd>n&ograve;nius</trd>,
+    <trd>vernier</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>nonius</trd>,
+    <trd>vernier</trd>
+  </trdgrp>
+  <trd lng="de">Nonius</trd>
+  <trd lng="fr">vernier</trd>
+  <trd lng="hu">n&oacute;niusz</trd>
+  <trd lng="nl">vernier</trd>
+  <trdgrp lng="pl">
+   <trd>wernier</trd>,
+   <trd>noniusz</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+   <trd>n&ocirc;nio</trd>,
+   <trd>vernier</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>nonius</trd>,
+    <trd>vernier</trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log: vernier.xml,v $
+Revision 1.8  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.7  2015/06/28 12:03:50  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.6  2011/12/03 23:10:16  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.5  2009/09/29 16:30:26  revo
+Paul Peeraerts: +nl
+
+Revision 1.4  2007/03/06 17:30:49  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.3  2006/05/17 16:31:18  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.2  2006/05/13 16:31:54  revo
+Tulio Flores: +tr pt
+
+Revision 1.1  2006/05/04 16:31:43  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

@@ -1,0 +1,110 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: encefa2.xml,v 1.15 2014/11/17 14:10:24 revo Exp $">
+<kap>
+  <rad>encefalopati</rad>/o
+  <fnt>PIV</fnt>
+</kap>
+<drv mrk="encefa2.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">MED</uzo>
+  <snc>
+    <dif>
+      Genra nomo de la encefalaj <ref tip="lst" cel="san.mal0o.MED"
+      lst="voko:malsanoj">malsano</ref>j:
+      <ekz>
+        <ind>hepata <tld/>o</ind>;
+        <trd lng="ca">encefalopatia hep&agrave;tica</trd>
+      </ekz>
+      <ekz>
+        <ind>bova spongeca <tld/>o (BSE)</ind>.
+        <trd lng="bg">&c_s;&c_p;&c_o;&c_n;&c_g;&c_i;&c_f;&c_o;&c_r;&c_m;&c_n;&c_a; &c_je;&c_n;&c_c;&c_je;&c_f;&c_a;&c_l;&c_o;&c_p;&c_a;&c_t;&c_i;&c_ja; &c_p;&c_o; &c_g;&c_o;&c_v;&c_je;&c_d;&c_a;&c_t;&c_a;</trd>
+        <trdgrp lng="ca">
+          <trd>encefalopatia espongiforme bovina</trd>,
+          <trd>EEB</trd>
+        </trdgrp>
+        <trdgrp lng="de">
+           <trd>Rinderwahnsinn</trd>,
+           <trd>Rinderwahn</trd>,
+           <trd>bovine spongiforme Enzephalopathie<klr>
+           [fak]</klr></trd>,
+           <trd>BSE</trd>
+        </trdgrp>
+        <trdgrp lng="en">
+          <trd>Bovine Spongiform Encephalopathy</trd>,
+          <trd>BSE</trd>
+        </trdgrp>
+        <trdgrp lng="fr">
+          <trd>enc&eacute;phalopathie spongiforme bovine</trd>,
+          <trd>ESB</trd>,
+          <trd>maladie de la vache folle</trd>
+        </trdgrp>
+        <trdgrp lng="hu">
+           <trd>szivacsos agyvel&odblac;sorvad&aacute;s</trd>,
+           <trd>kergemarhak&oacute;r</trd>,
+           <trd>BSE</trd>
+        </trdgrp>
+        <trd lng="id">ensefalopati</trd>
+        <trdgrp lng="nl">
+          <trd>gekke-koeienziekte</trd>,
+          <trd>BSE</trd>
+        </trdgrp>
+        <trdgrp lng="pl">
+          <trd>g&aogonek;bczasta <ind>encefalopatia</ind>
+          byd&lstroke;a</trd>,
+          <trd>bydl&eogonek;ca <ind>encefalopatia</ind>
+          g&aogonek;bczasta</trd>,
+          <trd>choroba szalonych kr&oacute;w<klr> (pot.)</klr></trd>,
+          <trd>choroba wsciek&lstroke;ych kr&oacute;w<klr>
+          (pot.)</klr></trd>
+        </trdgrp>
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_e;&c_n;&c_c;&c_e;&c_f;&c_a;&c_l;&c_a;&c_p;&c_a;&c_t;&c_y;&c_ja;</trd>
+  <trd lng="bg">&c_je;&c_n;&c_c;&c_je;&c_f;&c_a;&c_l;&c_o;&c_p;&c_a;&c_t;&c_i;&c_ja;</trd>
+  <trd lng="ca">encefalopatia</trd>
+  <trdgrp lng="de">
+     <trd>Hirnerkrankung</trd>,
+     <trd>Hirnschaden</trd>,
+     <trd>Enzephalophatie<klr> [fak]</klr></trd>
+  </trdgrp>
+  <trd lng="en">encephalopathy</trd>
+  <trd lng="es">encefalopat&iacute;a</trd>
+  <trd lng="fr">enc&eacute;phalopathie</trd>
+  <trd lng="hu">agyvel&odblac;b&aacute;ntalom</trd>
+  <trd lng="nl">encefalopathie</trd>
+  <trd lng="pl">encefalopatia</trd>
+  <trd lng="pt">encefalopatia</trd>
+  <trd
+  lng="ru">&c_e;&c_n;&c_c;&c_je;&c_f;&c_a;&c_l;&c_o;&c_p;&c_a;&c_t;&c_i;&c_ja;</trd>
+</drv>
+</art>
+<!--
+$Log: encefa2.xml,v $
+Revision 1.15  2014/11/17 14:10:24  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.14  2013/10/09 19:10:40  revo
+Wolfram Diestel: ref al lst malsanoj
+
+Revision 1.13  2013/08/08 17:10:18  revo
+Joop Eggen: +trd bg
+
+Revision 1.12  2012/07/15 10:10:30  revo
+Marc Rausell: + trd ca
+
+Revision 1.11  2010/02/01 17:30:25  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.10  2007/06/28 16:31:49  revo
+Tulio Flores: +tr pt
+
+Revision 1.9  2005/01/14 17:31:28  revo
+Vito Redsky: korekto trd pl e=a
+
+Revision 1.8  2003/12/17 17:31:19  revo
+-->
+</vortaro>

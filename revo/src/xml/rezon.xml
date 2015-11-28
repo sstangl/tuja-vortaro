@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: rezon.xml,v 1.18 2015/07/04 08:37:42 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>rezon</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="rezon.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="rezon.0i.LOG">
+    <dif>
+      <ref cel="logik.0a">Logike</ref> kunmeti 
+      argumentojn kaj tiri el ili <ref cel="konklu.0o">konkludon</ref>:
+      <ekz>
+        analogie <tld/>i;
+      </ekz>
+      <ekz>
+        <tld/>ado kaj filozofado panon ne donas
+         <fnt><bib>PrV</bib></fnt>
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="dialek1.0o">dialektiko</ref>,
+      <ref cel="pruv.0i">pruvi</ref>.
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_r;&c_a;&c_z;&c_v;&c_a;&c_zh;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="bg">&c_r;&c_a;&c_z;&c_s;&c_malmol;&c_zh;&c_d;&c_a;&c_v;&c_a;&c_m;</trd>
+  <trdgrp lng="cs">
+    <trd>přen. vymlouvat se</trd>,
+    <trd>usuzovat</trd>,
+    <trd>uvažovat</trd>,
+    <trd>vyvozovat</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+     <trd>vern&uuml;nftig <ind>denken</ind></trd>,
+     <trd>vern&uuml;nftig <ind>urteilen</ind></trd>,
+     <trd>schlie&szlig;en</trd>,
+     <trd>folgern</trd>
+  </trdgrp>
+  <trd lng="en">reason<klr> (with logic)</klr></trd>
+  <trd lng="es">razonar</trd>
+  <trdgrp lng="fa">
+    <trd>&a_A;&a_s;&a_t;&a_d;&a_l;&a_A;&a_l; &f_k;&a_r;&a_d;&a_n;</trd>,
+    <trd>&a_t;&a_ayn;&a_q;&a_l; &f_k;&a_r;&a_d;&a_n;</trd>
+  </trdgrp>
+  <trd lng="fr">raisonner</trd>
+  <trdgrp lng="hu">
+    <trd>&eacute;rvel</trd>,
+    <trd>okoskodik</trd>
+  </trdgrp>
+  <trd lng="nl">redeneren</trd>
+  <trd lng="pt">raciocinar</trd>
+  <trd lng="ru">&c_r;&c_a;&c_s;&c_s;&c_u;&c_zh;&c_d;&c_a;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>usudzovať <klr>(urobiť záver podľa logickej argumentácie)</klr></trd>,
+    <trd>uvažovať</trd>,
+    <trd>vyvodzovať</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="rezon.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="rezon.0o.LOG">
+    <dif>
+      Serio de interdependaj
+      <ref cel="argume.0o.LOG">argumentoj</ref>,
+      per kiu oni provas atingi <ref cel="konklu.0o">konkludon</ref>.
+    </dif> 
+  </snc>
+  <trd lng="bg">&c_r;&c_a;&c_z;&c_s;&c_malmol;&c_zh;&c_d;&c_a;&c_v;&c_a;&c_n;&c_je;</trd>
+  <trdgrp lng="cs">
+    <trd>uvažování</trd>,
+    <trd>vyvozování</trd>
+  </trdgrp>
+  <trd lng="de">Schlu&szlig;folgerung</trd>
+  <trd lng="en">reasoning</trd>
+  <trdgrp lng="fa">
+    <trd>&a_d;&a_l;&f_y;&a_l;</trd>,
+    <trd>&a_b;&a_r;&a_h;&a_A;&a_n;</trd>
+  </trdgrp>
+  <trd lng="fr">raisonnement</trd>
+  <trd lng="nl">redenering</trd>
+  <trdgrp lng="sk">
+    <trd>uvažovanie</trd>,
+    <trd>vyvodzovanie</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: rezon.xml,v $
+Revision 1.18  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.16  2014/02/17 16:10:16  revo
+Joop Eggen: +trd bg nl
+
+Revision 1.15  2013/07/05 18:10:12  revo
+Wolfram Diestel: aldonis referencojn, fontindikon, germ trd.
+
+Revision 1.14  2010/05/14 16:30:40  revo
+Agustin Garcia Lopez: +trd es
+
+Revision 1.13  2010/04/24 17:07:46  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.12  2010/02/26 17:30:22  revo
+Jeromo Vasxe: + ~o
+
+Revision 1.11  2006/02/21 17:32:33  revo
+Tulio Flores: +trd pt
+
+Revision 1.10  2004/09/20 18:27:39  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.9  2003/08/17 17:29:54  revo
+-->
+</vortaro>

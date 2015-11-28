@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+ 
+<vortaro>
+<art mrk="$Id: ovari.xml,v 1.22 2015/07/04 08:37:40 revo Exp $">
+<kap>
+  <rad>ovari</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+ 
+<drv mrk="ovari.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="ovari.0o.ANA">
+  <uzo tip="fak">ANA</uzo>
+    <dif>
+      Organo de animalino, &gcirc;enerale para, en kiu formi&gcirc;as la ovoloj, kaj
+      kiu sekrecias hormonojn
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="ov.0ujo.ANA">ovujo<sncref/></ref>.
+    </refgrp>
+      <trd lng="be">&c_ja;&c_je;&c_ch;&c_n;&c_ib;&c_k;</trd>
+      <trd lng="br">vierez</trd>
+      <trd lng="ca">ovari</trd>
+      <trd lng="de">Eierstock</trd>
+      <trd lng="el">&omega;&omikron;&theta;&eta_ton;&kappa;&eta;</trd>
+      <trd lng="es">ovario</trd>
+      <trd lng="fa">&a_t;&a_kh;&a_m;&a_d;&a_A;&a_n;</trd>
+      <trd lng="he">&shin;&het;&lamed;&he;</trd>
+      <trdgrp lng="hu">
+        <trd>petef&eacute;szek</trd>,
+        <trd>ov&aacute;rium</trd>
+      </trdgrp>
+      <trdgrp lng="id">
+        <trd><ind>indung</ind> telur</trd>,
+        <trd>ovarium</trd>
+      </trdgrp>
+      <trdgrp lng="it">
+        <trd>ovario<klr> (anat.)</klr></trd>,
+        <trd>ovaia</trd>,
+        <trd>ovaio</trd>
+      </trdgrp>
+      <trd lng="nl">eierstok</trd>
+      <trd lng="pl">jajnik</trd>
+      <trd lng="ru">&c_ja;&c_i;&c_ch;&c_n;&c_i;&c_k;</trd>
+      <trd lng="sv">&auml;ggstock</trd>
+      <trdgrp lng="tr">
+        <trd>yumurtal&inodot;k</trd>,
+        <trd>mebiz</trd>
+      </trdgrp>
+  </snc>
+  <snc mrk="ovari.0o.BOT">
+  <uzo tip="fak">BOT</uzo>
+  <uzo tip="klr">(p.p. angiospermoj)</uzo>
+    <dif>
+      La malsupra parto de karpelo a&ubreve; de <ref tip="malprt"
+      cel="pistil.0o">pistilo</ref>, kiu enhavas la
+      ovolo(j)n, kaj kiu post fekundi&gcirc;o i&gcirc;as frukto.
+    </dif>
+      <trd lng="be">&c_z;&c_a;&c_v;&c_ja;&c_z;&c_mol;</trd>
+      <trd lng="de">Fruchtknoten</trd>
+      <trd lng="fa">&a_t;&a_kh;&a_m;&a_d;&a_A;&a_n;<klr tip="amb"> (&f_g;&f_y;&a_A;&a_h;)</klr></trd>
+      <trd lng="hu">magh&aacute;z</trd>
+      <trd lng="it">ovario<klr> (bot.)</klr></trd>
+      <trd lng="nl">vruchtbeginsel</trd>
+      <trd lng="ru">&c_z;&c_a;&c_v;&c_ja;&c_z;&c_mol;</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>ovarium</trd>,
+    <trd>semeník</trd>,
+    <trd>vaječník</trd>
+  </trdgrp>
+  <trd lng="en">ovary</trd>
+  <trd lng="fr">ovaire</trd>
+  <trd lng="pt">ov&aacute;rio</trd>
+  <trdgrp lng="sk">
+    <trd>ovárium</trd>,
+    <trd>semenník</trd>,
+    <trd>vaječník</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: ovari.xml,v $
+Revision 1.22  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.21  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.20  2015/01/05 17:10:12  revo
+Wolfram Diestel: remetis sin ovujo
+
+Revision 1.19  2015/01/01 07:10:13  revo
+Alain Gerard: reverkita
+
+Revision 1.18  2012/10/10 00:10:09  revo
+Jeromo Vasxe: snc/subsnc, ref dif, + trd fr
+
+Revision 1.17  2010/12/05 17:30:32  revo
+Antonio Codazzi: +trd it
+
+Revision 1.16  2010/01/24 17:30:26  revo
+Jerano Zachrisson: +trd sv
+
+Revision 1.15  2009/06/21 16:31:14  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.14  2005/03/28 17:17:16  revo
+Vito Redsky: +trd pl
+
+Revision 1.13  2004/11/14 17:31:10  revo
+-->
+</vortaro>

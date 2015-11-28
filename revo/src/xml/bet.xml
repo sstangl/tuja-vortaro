@@ -1,0 +1,202 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: bet.xml,v 1.29 2015/10/05 04:10:19 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>bet</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="bet.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="bet.0o.genro">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      Planto kun man&gcirc;eblaj folioj a&ubreve; radiko kultivata en
+      mezvarmaj 
+      landoj, <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:botanikaj_genroj">genro</ref> el familio <ref
+      tip="malprt"
+      cel="kenopo1.0oj">kenopodiacoj</ref>
+      (<trd lng="la">Beta</trd>).
+    </dif>
+    <trd lng="be">&c_b;&c_u;&c_r;&c_a;&c_k;</trd>
+    <trd lng="br">beterabezenn</trd>
+    <trdgrp lng="fr">
+      <trd>betterave</trd>,
+      <trd>bette</trd>
+    </trdgrp>
+    <trd lng="pl">burak</trd>
+    <trd lng="ru">&c_s;&c_v;&c_jo;&c_k;&c_l;&c_a;</trd>
+    <trd lng="tr">pancar</trd>
+  </snc>
+  <snc mrk="bet.0o.radiko">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      Dika, karna pivot<ref tip="super" cel="radik.0o">radiko</ref>,
+      kiel &ccirc;e ru&gcirc;a <tld/>o, karoto.
+    </dif>
+    <adm>
+      La difino sugestas, ke la mangcebla parto de karoto, rafaneto
+      kaj multaj aliaj legomoj nomi&gcirc;as "beto". Tio mirigas min.
+      PIV1
+      konas tian sencon nur por "ru&gcirc;a beto". <aut>MB</aut>
+    </adm>
+    <trd lng="pl">burak</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>&rcaron;epa</trd>,
+    <trd>&rcaron;&iacute;pa</trd>
+  </trdgrp>
+  <trd lng="de">R&uuml;be</trd>
+  <trd lng="en">beet</trd>
+  <trd lng="es">remolacha</trd>
+  <trd lng="hu">r&eacute;pa</trd>
+  <trd lng="pt">beterraba</trd>
+  <trd lng="sk">repa</trd>
+  <trd lng="sv">beta</trd>
+</drv>
+
+<drv mrk="bet.foli0o">
+  <kap>foli<tld/>o</kap> <fnt><bib>HejmVort</bib></fnt>
+  <snc mrk="bet.foli0o.KUI">
+    <uzo tip="fak">KUI</uzo>
+    <dif>
+      Speco de <ref tip="super" cel="bet.0o.genro"><tld/>o</ref> kun
+      man&gcirc;eblaj folioj.
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>cvikla</trd>,
+    <trd>mangold</trd>
+  </trdgrp>
+  <trd lng="de">Mangold</trd>
+  <trd lng="en">Chard</trd>
+  <trdgrp lng="fr">
+    <trd>bette</trd>,
+    <trd>blette</trd>
+  </trdgrp>
+  <trd lng="pl">bo&cacute;wina</trd>
+  <trd lng="sk">cvikla</trd>
+</drv>
+
+<drv mrk="bet.furagx0o">
+  <kap>fura&gcirc;<tld/>o</kap>
+  <snc mrk="bet.furagx0o.AGR">
+    <uzo tip="fak">AGR</uzo>
+    <dif>
+      <ref tip="super" cel="bet.0o.genro"><tld lit="B"/>o</ref> el 
+      specoj uzataj por nutri brutojn (<trd lng="la">Beta
+      vulgaris</trd>):
+      <ekz>
+        ekde la oka jaro de mia vivo mi devis multe helpi en la 
+        rikoltado de la terpomoj kaj fura&gcirc;<tld/>oj sur la bieno de
+        mia 
+        onklo
+        <fnt>
+          <aut>U. Matthias</aut>,
+          <vrk><url ref="http://www.u-matthias.de/verko/fajron.htm">
+          Fajron sentas mi interne</url></vrk>,
+          <lok>Pro Esperanto, 1990</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>Futterr&uuml;be</trd>,
+      <trd>Runkelr&uuml;be</trd>,
+      <trd>Vieh-Mangold</trd>
+    </trdgrp>
+    <trd lng="fr">bettrave fourrag&egrave;re</trd>
+    <trd lng="pl">burak pastewny</trd>
+  </snc>
+</drv>
+
+<drv mrk="bet.rugxa0o">
+  <kap>ru&gcirc;a <tld/>o</kap> <fnt><bib>HejmVort</bib></fnt>
+  <snc mrk="bet.rugxa0o.KUI">
+    <uzo tip="fak">KUI</uzo>
+    <dif>
+      Speco de <ref tip="super" cel="bet.0o.genro"><tld/>o</ref> kun
+      malhele ru&gcirc;a radiko man&gcirc;ebla post kuirado:
+      <ekz>
+        ingrediencoj: <klr>...</klr> 1 ru&gcirc;a <tld/>o
+        <fnt>
+          <aut>-</aut>,
+          <vrk>Salato de haringoj</vrk>,
+          <lok><url ref="http://eo.wikibooks.org/wiki/Kuirlibro">
+          Vikimedia Kuirlibro</url>, 2005</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="br">beterabezenn ruz</trd>
+  <trd lng="de">Rote Bete</trd>
+  <trd lng="hu">c&eacute;kla</trd>
+  <trd lng="fr">betterave rouge</trd>
+  <trd lng="pl">burak<klr> czerwony</klr></trd>
+  <trd lng="ru">&c_s;&c_t;&c_o;&c_l;&c_o;&c_v;&c_a;&c_ja;
+  <ind>&c_s;&c_v;&c_jo;&c_k;&c_l;&c_a;</ind></trd>
+</drv>
+
+<drv mrk="bet.suker0o">
+  <kap>suker<tld/>o</kap>
+  <snc mrk="bet.suker0o.AGR">
+    <uzo tip="fak">AGR</uzo>
+    <dif>
+      <ref tip="super" cel="bet.0o.genro"><tld lit="B"/>o</ref> kun 
+      sukerri&ccirc;a radiko, uzata por industrie produkti sukeron:
+      <ekz>
+        pulpo de suker<tld/>oj
+        <fnt>
+          <aut>Akademio de Esperanto</aut>,
+          <vrk><url
+          ref="http://akademio-de-esperanto.org/oficialaj_informoj/oficialaj_informoj_8_2007.html">
+          Oficialaj informoj, 8</url></vrk>,
+          <lok>2007-03-10</lok>
+        </fnt>
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_c;&c_u;&c_k;&c_r;&c_o;&c_v;&c_y;
+  &c_b;&c_u;&c_r;&c_a;&c_k;</trd>
+  <trd lng="br">beterabezenn sukr</trd>
+  <trd lng="cs">&rcaron;epa cukrovka</trd>
+  <trd lng="de">Zuckerr&uuml;be</trd>
+  <trd lng="fr">betterave sucri&egrave;re</trd>
+  <trd lng="hu">cukorr&eacute;pa</trd>
+  <trd lng="pl">burak cukrowy</trd>
+  <trd lng="ru">&c_s;&c_a;&c_h;&c_a;&c_r;&c_n;&c_a;&c_ja;
+  <ind>&c_s;&c_v;&c_jo;&c_k;&c_l;&c_a;</ind></trd>
+  <trd lng="sk">cukrov&aacute; repa</trd>
+  <trd lng="tr">&scedil;eker pancar&inodot;</trd>
+</drv>
+</art>
+<!--
+
+$Log: bet.xml,v $
+Revision 1.29  2015/10/05 04:10:19  revo
+Evandro Avellar: +trd pt
+
+Revision 1.28  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.27  2015/06/29 16:29:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.26  2013/08/27 07:10:28  revo
+Wolfram Diestel: referenco al listo bot genroj
+
+Revision 1.25  2010/06/11 16:30:24  revo
+Agustin Garcia Lopez: eraro (es)
+
+Revision 1.24  2009/08/27 16:31:37  revo
+Emmanuel Debanne: +trd tr
+
+Revision 1.23  2009/03/12 17:31:43  revo
+Wieland Pusch: +trd bg
+
+Revision 1.22  2009/03/09 17:31:44  revo
+-->
+
+</vortaro>

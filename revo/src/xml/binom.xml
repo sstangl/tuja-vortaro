@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: binom.xml,v 1.22 2015/07/04 08:37:31 revo Exp $">
+<kap><rad>binom</rad>/o</kap>
+<drv mrk="binom.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>PV</bib></fnt>
+  <snc>
+    <dif>
+      <ref tip="super" cel="polino.0o">Polinomo</ref> kun du
+      <ref cel="term.0o.polinomo">termoj</ref>;
+      <klr>alidire, en elementa algebro:</klr>
+      algebra <ref cel="esprim.0o.KOMP">esprimo</ref>, konsistanta 
+      el du <ref cel="term.0o.sumo">termoj</ref>
+      kunligitaj per <ref cel="adici.0o">adicio</ref> a&ubreve; 
+      <ref cel="subtra.0o">subtraho</ref>.
+    </dif>
+    <ref tip="vid" cel="term.n0o">n-termo.</ref>
+  </snc>
+  <trd lng="be">&c_b;&c_ib;&c_n;&c_o;&c_m;</trd>
+  <trd lng="bg">&c_b;&c_i;&c_n;&c_o;&c_m;</trd>
+  <trd lng="ca">binomi</trd>
+  <trdgrp lng="cs">
+    <trd>binom</trd>,
+    <trd>dvojčlen</trd>
+  </trdgrp>
+  <trd lng="de">Binom</trd>
+  <trd lng="en">binomial</trd>
+  <trd lng="es">binomio</trd>
+  <trd lng="fa">&a_d;&a_w;&a_j;&a_m;&a_l;&a_h;&zwnj;&a_A;&f_y;</trd>
+  <trd lng="fr">bin&ocirc;me</trd>
+  <trdgrp lng="hu">
+    <trd>k&eacute;ttag&uacute; <ind>kifejez&eacute;s</ind></trd>,
+    <trd>binom</trd>
+  </trdgrp>
+  <trd lng="it">binomio</trd>
+  <trd lng="nl">binomium</trd>
+  <trd lng="pl">dwumian</trd>
+  <trdgrp lng="ru">
+    <trd>&c_d;&c_v;&c_u;&c_ch;&c_l;&c_je;&c_n;</trd>,
+    <trd>&c_b;&c_i;&c_n;&c_o;&c_m;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>bin&oacute;m</trd>,
+    <trd>dvojčlen</trd>,
+    <trd>mnoho&ccaron;len</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: binom.xml,v $
+Revision 1.22  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.21  2015/06/29 16:29:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.20  2013/09/05 09:10:12  revo
+Joop Eggen: +trd bg
+
+Revision 1.19  2012/07/31 10:10:09  revo
+Marc Rausell: + trd ca
+
+Revision 1.18  2010/05/15 16:30:56  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.17  2010/02/20 18:02:23  revo
+Antonio Codazzi: + trd it
+
+Revision 1.16  2009/11/10 17:30:32  revo
+Paul Peeraerts: +nl
+
+Revision 1.15  2003/11/28 17:32:09  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.14  2003/01/15 17:32:26  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.13  2002/12/09 17:31:55  revo
+-->
+</vortaro>

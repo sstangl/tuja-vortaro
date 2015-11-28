@@ -1,0 +1,686 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: cxel.xml,v 1.50 2015/09/08 20:10:18 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>&ccirc;el</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="cxel.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="cxel.0o.cxambreto">
+    <uzo tip="fak">ARKI</uzo>
+    <dif>
+      &Ccirc;ambreto por unu persono, malgranda ejo &ccirc;iuflanke
+      fermita:
+      <ekz>
+        <tld/>o de mona&hcirc;o;
+      </ekz>
+      <ekz>
+        en sia <tld/>o li pasigis longajn horojn pre&gcirc;ante,
+        lasis razi sian kapon, surmetis pastrajn vestojn kaj
+        kvar fojojn &ccirc;iutage partoprenis en la &hcirc;oro de la
+        malsuperaj pastroj
+        <fnt><bib>Far2</bib>, <lok>&ccirc;apitro 1</lok></fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FRAZ</uzo>
+        <ind>li havas nek <tld/>on, nek kelon</ind>
+        <fnt><bib>PrV</bib></fnt>.
+        <trd lng="ru">&c_n;&c_i; &c_k;&c_o;&c_l;&c_a;, &c_n;&c_i;
+        &c_d;&c_v;&c_o;&c_r;&c_a;</trd>
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="kamer.0o.cxambro">kamero<sncref/></ref>
+    <trdgrp lng="be">
+      <trd>&c_k;&c_je;&c_l;&c_mol;&c_l;&c_ja;</trd>,
+      <trd>&c_a;&c_d;&c_s;&c_je;&c_k;</trd>
+    </trdgrp>
+    <trd lng="bg">&c_k;&c_i;&c_l;&c_i;&c_ja;</trd>
+    <trd lng="ca">cel&middot;la</trd>
+    <trd lng="es">celda</trd>
+    <trd lng="hu">cella</trd>
+    <trdgrp lng="pl">
+      <trd>cela</trd>,
+      <trd>kom&oacute;rka</trd>
+    </trdgrp>
+    <trd lng="pt">cela</trd>
+    <trdgrp lng="ru">
+      <trd>&c_k;&c_je;&c_l;&c_mol;&c_ja;</trd>,
+      <trd>&c_k;&c_o;&c_m;&c_o;&c_r;&c_k;&c_a;</trd>,
+      <trd>&c_o;&c_t;&c_s;&c_je;&c_k;</trd>
+    </trdgrp>
+    <trd lng="it">cella</trd>
+  </snc>
+  <snc mrk="cxel.0o.fako">
+    <dif>
+      Malgranda kavo a&ubreve; truo, precipe tia kiu estas unu el multaj
+      similaj kaj regule aran&gcirc;itaj:
+      <ekz>
+        oni a&ubreve;das de matematikistoj ke abeloj praktike solvis
+        profundan problemon, kaj faris siajn <tld/>ojn &gcirc;ustaformaj
+        por enteni la plej grandan kvanton de mielo kiu eblas, per
+        la malpleja uzo de altvalora vakso en ilia konstruo kiu
+        eblas
+        <fnt><bib>OriginoDeSpecioj</bib>, <lok>&ccirc;apitro
+        7a</lok></fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="fak">KOMP</uzo>
+        la <ind>memor<tld/>o</ind> <frm>h</frm> estas okupata nur
+        por la da&ubreve;ro de tiu bloko
+        <fnt>
+          <aut>R. F&ouml;&szlig;meier</aut>,
+          <vrk>Kulturaj aspektoj de komputil-programado</vrk>,
+          <lok>SUS 22, 2000-06-10 &gcirc;is 12</lok>,
+        </fnt>.
+        <trd lng="be">&c_ja;&c_ch;&c_e;&c_j;&c_k;&c_a;
+        &c_p;&c_a;&c_m;&c_ja;&c_c;&c_ib;</trd>
+        <trd lng="ca">cel&middot;la de mem&ograve;ria</trd>
+        <trd lng="en">memory <ind>cell</ind></trd>
+        <trd lng="de">Speicherzelle</trd>
+        <trd lng="ru">&c_ja;&c_ch;&c_je;&c_j;&c_k;&c_a;
+        &c_p;&c_a;&c_m;&c_ja;&c_t;&c_i;</trd>
+        <trd lng="it"><ind>cella</ind> di memoria</trd>
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="alveol.0o">alveolo</ref>,
+      <ref cel="fak.0o.ujo">fako<sncref/></ref>,
+      <ref cel="nicx.0o.ARKI">ni&ccirc;o<sncref/></ref>
+    </refgrp>
+    <trd lng="be">&c_ja;&c_ch;&c_e;&c_j;&c_k;&c_a;</trd>
+    <trd lng="ca">cel&middot;la</trd>
+    <trdgrp lng="ru">
+      <trd>&c_ja;&c_ch;&c_je;&c_ja;</trd>,
+      <trd>&c_ja;&c_ch;&c_je;&c_j;&c_k;&c_a;<klr> (&c_v;
+      &c_s;&c_o;&c_t;&c_a;&c_h;)</klr></trd>
+    </trdgrp>
+   <trd lng="it">cella</trd>
+  </snc>
+  <snc mrk="cxel.0o.BIO">
+    <tezrad fak="BIO"/>
+    <uzo tip="fak">BIO</uzo>
+    <dif>
+      Elementa viva sistemo, kapabla je memstara a&ubreve;
+      a&ubreve;tonoma
+      ekzistado, reproduktado kaj evoluo; la baza ero de la
+      strukturo de la vegeta&jcirc;oj kaj bestoj:
+      <ekz>
+        la <tld/>ojn kiuj ekzistas kiel apartaj organismoj oni
+        nomas <ref cel="cxel.unu0ulo">unu<tld/>uloj</ref>;
+      </ekz>
+      <ekz>
+        la <tld/>oj de <ref cel="cxel.plur0ulo">plur<tld/>uloj</ref>
+        formas <ref tip="malprt" cel="hist.0o">histojn</ref>;
+      </ekz>
+      <ekz>
+        tipa <tld/>o konsistas el membrano kaj
+        <ref tip="prt" cel="protop.0o">protoplasmo</ref> (kun
+        <ref tip="prt" cel="nukle.0o.BIO">nukleo<sncref/></ref>).
+      </ekz>
+    </dif>
+    <trd lng="be">&c_k;&c_l;&c_je;&c_t;&c_k;&c_a;</trd>
+    <trd lng="bg">&c_k;&c_l;&c_je;&c_t;&c_k;&c_a;</trd>
+    <trd lng="ca">c&egrave;l&middot;lula</trd>
+    <trd lng="es">c&eacute;lula</trd>
+    <trd lng="hu">sejt</trd>
+    <trd lng="pl">kom&oacute;rka</trd>
+    <trd lng="pt">c&eacute;lula</trd>
+    <trd lng="ru">&c_k;&c_l;&c_je;&c_t;&c_k;&c_a;</trd>
+    <trd lng="it">cellula</trd>
+  </snc>
+  <snc mrk="cxel.0o.partia">
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      La unua&scirc;tupa, plej malgranda organiza&jcirc;o en iuj
+      politikaj
+      partioj.
+    </dif>
+    <trd lng="be">&c_ja;&c_ch;&c_e;&c_j;&c_k;&c_a;</trd>
+    <trd lng="ca">c&egrave;l&middot;lula</trd>
+    <trd lng="es">c&eacute;lula</trd>
+    <trd lng="pl">kom&oacute;rka</trd>
+    <trd lng="ru">&c_ja;&c_ch;&c_je;&c_j;&c_k;&c_a;</trd>
+    <trd lng="it">cellula</trd>
+  </snc>
+  <trd lng="de">Zelle</trd>
+  <trd lng="en">cell</trd>
+  <trd lng="fr">cellule</trd>
+  <trd lng="hu">p&aacute;rtsejt</trd>
+  <trd lng="nl">cel</trd>
+  <trd lng="pl">kom&oacute;rka</trd>
+  <trd lng="sk">bunka</trd>
+</drv>
+
+<drv mrk="cxel.0aro">
+  <kap><tld/>aro</kap>
+  <snc mrk="cxel.0aro.BIO">
+    <uzo tip="fak">BIO</uzo>
+    <ref tip="dif" cel="hist.0o">histo</ref>
+  </snc>
+  <trd lng="be">&c_t;&c_k;&c_a;&c_n;&c_k;&c_a;</trd>
+  <trd lng="ca">teixit</trd>
+  <trd lng="es">tejido</trd>
+  <trd lng="fr">tissu<klr tip="ind"> (cellulaire)</klr></trd>
+  <trd lng="hu">sejtsz&ouml;vet</trd>
+  <trd lng="nl">weefsel<klr tip="ind"> (celweefsel)</klr></trd>
+  <trd lng="pl">tkanka</trd>
+  <trd lng="pt">tecido</trd>
+  <trd lng="ru">&c_t;&c_k;&c_a;&c_n;&c_mol;<klr tip="amb"> 
+(&c_b;&c_i;&c_o;&c_l;.)</klr></trd>
+  <trd lng="sk">tkanivo</trd>
+  <trd lng="it">tessuto<klr> (organico)</klr></trd>
+</drv>
+
+<drv mrk="cxel.gli0o">
+  <kap>gli<tld/>o,
+  <var><kap>glio<tld/>o</kap></var>,
+  <var><kap>glia <tld/>o</kap></var></kap>
+  <snc mrk="cxel.gli0o.FIZL">
+    <uzo tip="fak">FIZL</uzo>
+    <dif>
+      Iu el la <ref tip="super"
+      cel="cxel.nervo0o.FIZL">nervo&ccirc;eloj</ref>,
+      kiuj &scirc;irmas kaj nutras la ne&ubreve;ronojn, kaj kiuj
+      konsistigas
+      la <ref tip="malprt" cel="gli.0o.FIZL">glion</ref>:
+      <ekz>
+        la nerva histo konsistas el du <tld/>specoj de sama deveno: la 
+        nervo<tld/>oj kun pli-malpli longaj fibroj, elirantaj el ili,
+        kaj la glio<tld/>oj anka&ubreve; kun fibroj
+         <fnt>
+          <aut>J. Hradil</aut>,
+          <vrk>La &ccirc;elo kaj  la histoj</vrk>,
+          <lok><url
+          ref="http://www.freeweb.hu/eventoj/steb/medicino/med-mallonge.htm">
+          Mallongaj artikoloj</url>, [vidita en 2008]</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la gliaj <tld/>oj estis malkovritaj en 1891
+        <fnt>
+          <bib>Viki</bib>,
+          <lok><url ref="http://eo.wikipedia.org/wiki/Glia_%C4%89elo">
+          glia &ccirc;elo</url>, 2010-04-11</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="ca">
+    <trd>c&egrave;l&middot;lula glial</trd>,
+    <trd>c&egrave;l&middot;lula de neur&ograve;glia</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>c&eacute;lula glial</trd>,
+    <trd>gl&iacute;a</trd>,
+    <trd>neurog&iacute;a</trd>
+  </trdgrp>
+  <trd lng="fr">cellule gliale</trd>
+</drv>
+
+<drv mrk="cxel.imun0o">
+  <kap>imun<tld/>o</kap>
+  <snc mrk="cxel.imun0o.FIZL">
+    <uzo tip="fak">FIZL</uzo>
+    <dif>
+      Iu el la &ccirc;eloj de la imunsistemo:
+      <ref tip="sub" cel="cxel.blankasango0o.FIZL">blanka
+      sango<tld/>o</ref>,
+      <ref tip="sub" cel="makrofag.0o.FIZL">makrofago</ref>
+      kaj aliaj:
+      <ekz>
+        se infektantoj superas la naturajn barierojn de la korpo kiaj 
+        estas ha&ubreve;to kaj mukozo, imun<tld/>oj zorgas <klr>...</klr>
+        malhelpi ilian pluan kreskadon
+        <fnt>
+          <aut>[A. Oberndorfer]</aut>,
+          <vrk><url
+          ref="http://esperantaretradio.blogspot.fr/2013/10/tiel-eblas-plifortigi-la-imunsistemon.html">
+          Tiel eblas plifortigi la imunsistemon</url></vrk>,
+          <lok>Esperanta Retradio, 2013-10-27</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">cellule immunitaire</trd>
+</drv>
+
+<drv mrk="cxel.limfo0o">
+  <kap>limfo<tld/>o</kap>
+  <snc mrk="cxel.limfo0o.FIZL">
+    <uzo tip="fak">FIZL</uzo>
+    <dif>
+      Eta <ref tip="super" cel="cxel.blankasango0o.FIZL">blanka
+      sango&ccirc;elo</ref> kun granda kerno kaj la&ubreve;spece
+      diversaj
+      imunigaj funkcioj:
+      <ekz>
+        2 jarojn post la terapio la elcento de B-limfo<tld/>oj estas 
+        normala por 3 kuracitoj
+        <fnt>
+          <aut>A. Lucas</aut>,
+          <vrk><url
+          ref="http://www.teleskopo.com/ekzemplo_de_genetika_terapio_en_francujo.pdf">
+          Ekzemplo de genetika Terapio...</url></vrk>,
+          <lok>Teleskopo, 2010 (2)</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="ca">limf&ograve;cit</trd>
+  <trd lng="es">linfocito</trd>
+  <trd lng="fr">lymphocyte</trd>
+  <trd lng="pl">limfocyt</trd>
+</drv>
+
+<drv mrk="cxel.melano0o">
+  <kap>melano<tld/>o</kap>
+  <snc mrk="cxel.melano0o.FIZL">
+  <uzo tip="fak">FIZL</uzo>
+    <dif>
+      <tld lit="&Ccirc;"/>o de vertebruloj (inkluzive homon), kiu
+      sintezas
+      <ref tip="vid" cel="melanin.0o">melaninon</ref>:
+      <ekz>
+        oni observas &ccirc;e efelidoj super&scirc;ar&gcirc;on da
+        melanina pigmento en la
+        melano<tld/>oj de la baza tavolo de epidermo
+        <fnt>
+          <aut>Vikipedio</aut>,
+          <vrk><url
+          ref="http://eo.wikipedia.org/wiki/Efelido">Efelido</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="en">melanocyte</trd>
+  <trd lng="es">melanocito</trd>
+  <trd lng="fr">m&eacute;lanocyte</trd>
+</drv>
+
+<drv mrk="cxel.nervo0o">
+  <kap>nervo<tld/>o</kap>
+  <snc mrk="cxel.nervo0o.FIZL">
+    <uzo tip="fak">FIZL</uzo>
+    <dif>
+      <ref tip="super" cel="cxel.0o.BIO"><tld lit="&Ccirc;"/>o</ref> 
+      funkcianta en la
+      <ref tip="malprt" cel="sistem.nervo0o.FIZL">nervosistemo</ref>:
+      <ekz>
+        <ctl>La aktiveco de nervo<tld/>oj</ctl>
+        <fnt>
+          <aut>E. D. Adrian</aut>,
+          <vrk>La aktiveco de nervo&ccirc;eloj</vrk>,
+          <lok>Scienca Revuo, 1953:1-2</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="bg">&c_n;&c_je;&c_v;&c_r;&c_o;&c_n;</trd>
+  <trd lng="ca">neurona</trd>
+  <trd lng="de">Nervenzelle</trd>
+  <trd lng="es">neurona</trd>
+  <trd lng="fr">cellule nerveuse</trd>
+  <trd lng="it">cellula nervosa</trd>
+  <trd lng="pl">kom&oacute;rka nerwowa</trd>
+</drv>
+
+<drv mrk="cxel.ovo0o">
+  <kap>ovo<tld/>o</kap>
+  <snc mrk="cxel.ovo0o.FIZL">
+    <uzo tip="fak">FIZL</uzo>
+    <dif>
+      Matura, fekundigebla inseksa
+      <ref tip="super" cel="cxel.0o.BIO">&ccirc;elo<sncref/></ref>;
+      <ref tip="sin" cel="ovul.0o.FIZL">ovulo</ref>;
+      <ref tip="sin" cel="ovol.0o.FIZL">ovolo</ref>.
+    </dif>
+    <subsnc mrk="cxel.ovo0o.ZOO">
+      <uzo tip="fak">ZOO</uzo>
+      <dif>
+        Ina &ccirc;elo de besto:
+        <ekz>
+          la fekundigita ovo<tld/>o evoluas &gcirc;enerale al kronlarvo
+          <klr>...</klr> kaj poste al vellarvo
+          <fnt>
+            <bib>Viki</bib>,
+            <lok><url ref="http://eo.wikipedia.org/wiki/Molusko">
+            Molusko</url>, 2012-09-19</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          ovujo: organo de la ino, entenanta la
+          ovo<tld/>ojn <fnt><bib>PV</bib></fnt>.
+        </ekz>
+      </dif>
+      <trd lng="de">Eizelle</trd>
+      <trd lng="hu">petesejt</trd>
+      <trd
+      lng="ru">&c_ja;&c_j;&c_c;&c_je;&c_k;&c_l;&c_je;&c_t;&c_k;&c_a;</trd>
+    </subsnc>
+    <subsnc mrk="cxel.ovo0o.BOT">
+      <uzo tip="fak">BOT</uzo>
+      <dif>
+        Ina &ccirc;elo de vegeta&jcirc;o, trovi&gcirc;anta en la
+        <ref tip="malprt" cel="ovari.0o.BOT">ovario</ref> kaj kiu
+        &ccirc;e formi&gcirc;o de frukto fari&gcirc;os
+        <ref tip="vid" cel="grajn.sem0o">semgrajno</ref>.
+      </dif>
+      <trd lng="de">Samenanlage</trd>
+      <trd lng="hu">magkezdem&eacute;ny</trd>
+      <trd
+      lng="ru">&c_s;&c_je;&c_m;&c_ja;&c_p;&c_o;&c_ch;&c_k;&c_a;</trd>
+    </subsnc>
+    <refgrp tip="vid">
+      <ref cel="spermatozo.0o">spermatozoo</ref>
+    </refgrp>
+  </snc>
+  <trd
+  lng="be">&c_ja;&c_j;&c_c;&c_a;&c_k;&c_l;&c_je;&c_t;&c_k;&c_a;</trd>
+  <trd lng="br">viell</trd>
+  <trd lng="ca">&ograve;vul</trd>
+  <trd lng="el">&omega;&alfa_ton;&rho;&jota;&omikron;</trd>
+  <trdgrp lng="en">
+    <trd>ovum</trd>,
+    <trd>ovule</trd>
+  </trdgrp>
+  <trd lng="es">&oacute;vulo</trd>
+  <trd lng="fa">&a_t;&a_kh;&a_m;&f_k;</trd>
+  <trd lng="fr">ovule</trd>
+  <trd lng="he">&bet;&yod;&tsadi;&yod;&tav;</trd>
+  <trd lng="it">ovulo<klr> (anat.)</klr></trd>
+  <trdgrp lng="nl">
+    <trd>eicel</trd>,
+    <trd>eitje</trd>
+  </trdgrp>
+  <trd lng="pl">kom&oacute;rka jajowa</trd>
+  <trd lng="pt">&oacute;vulo</trd>
+  <trdgrp lng="tr">
+    <trd>yumurtac&inodot;k</trd>,
+    <trd>yumurtac&inodot;k&gbreve;&inodot;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="cxel.plasmo0o">
+  <kap>plasmo<tld/>o</kap>
+  <snc mrk="cxel.plasmo0o.FIZL">
+    <uzo tip="fak">FIZL</uzo>
+    <dif>
+      Speco de <ref tip="super" cel="cxel.blankasango0o.FIZL">blanka 
+      sango&ccirc;elo</ref>, kiu kreas antikorpojn:
+      <ekz>
+        la establi&gcirc;o de cisticerkoj en diversaj histoj
+        ka&ubreve;zas alergian 
+        inflamreagon, kiu montri&gcirc;as <klr>...</klr> per
+        amasi&gcirc;o de 
+        &ccirc;el-infiltra&jcirc;oj, kiuj konsistas el <klr>...</klr>
+        limfocitoj, plasmo<tld/>oj kaj anka&ubreve; gigant&ccirc;eloj
+        <fnt>
+          <aut>R. Sachs</aut>,
+          <vrk><url
+          ref="http://www.freeweb.hu/eventoj/steb/medicino/medicina-parazitologio/medicina-parazitologio.htm">
+          Medicina Parazitologio</url></vrk>,
+          <lok>Scienca Revuo, 1999:4 (50)</lok>
+        </fnt>
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="ca">plasm&ograve;cit</trd>
+  <trd lng="de">Plasmazelle</trd>
+  <trdgrp lng="es">
+    <trd>plasmocito</trd>,
+    <trd>c&eacute;lula plasm&aacute;tica</trd>
+  </trdgrp>
+  <trd lng="fr">plasmocyte</trd>
+</drv>
+
+<drv mrk="cxel.plur0ulo">
+  <kap>plur<tld/>ulo</kap>
+  <snc mrk="cxel.plur0ulo.BIO">
+    <uzo tip="fak">BIO</uzo>
+    <dif>
+      Organismo vegeta&jcirc;a a&ubreve; besta, kiu konsistas el
+      pluraj <tld/>oj, formantaj diverasfunkciajn
+      <ref tip="prt" cel="hist.0o">histojn</ref>:
+      <ekz>
+        biologoj plibonigis tiun sistemon, en kiu
+        malsupre trovi&gcirc;as unu<tld/>uloj kaj supre trovi&gcirc;as
+        kompleksaj plur<tld/>uloj
+        <fnt>
+          <aut>E. Nieuwenhuys, trad. L. De Cooman</aut>,
+          <vrk><url
+          ref="http://www.xs4all.nl/~ednieuw/Spiders/InfoNed/La_araneo.html">
+          Araneo</url></vrk>,
+          <lok>1999-2004</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd
+  lng="bg">&c_m;&c_n;&c_o;&c_g;&c_o;&c_k;&c_l;&c_je;&c_t;&c_malmol;&c_ch;&c_n;&c_o;</trd>
+  <trd lng="ca">organisme pluricel&middot;lular</trd>
+  <trd lng="de">Mehrzeller</trd>
+  <trd lng="es">organismo pluricelular</trd>
+  <trd lng="fr">organisme <ind>pluricellulaire</ind></trd>
+  <trd lng="it">organismo <ind>pluricellulare</ind></trd>
+  <trdgrp lng="pl">
+    <trd>wielokom&oacute;rkowiec</trd>,
+    <trd>organizm <ind>wielokom&oacute;rkowy</ind></trd>
+  </trdgrp>
+  <trd
+  lng="ru">&c_m;&c_n;&c_o;&c_g;&c_o;&c_k;&c_l;&c_je;&c_t;&c_o;&c_ch;&c_n;&c_o;&c_je;</trd>
+</drv>
+
+<drv mrk="cxel.sun0o">
+  <kap>sun<tld/>o</kap>
+  <snc mrk="cxel.sun0o.TEK">
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      Elektronika <tld/>o, kiu pro ricevo de lumo
+      produktas energion:
+      <ekz>
+        sun<tld/>o el silicio
+        <fnt>
+          <aut>[A. Oberndorfer]</aut>,
+          <vrk><url
+          ref="http://esperantaretradio.blogspot.fr/2013/09/hidrogeno-rekte-el-sunlumo.html">
+          Hidrogeno rekte el sunlumo</url></vrk>,
+          <lok>2013-09-11</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="en">solar cell</trd>
+  <trdgrp lng="es">
+    <trd>c&eacute;lula solar</trd>,
+    <trd>c&eacute;lula fotovoltaica</trd>,
+    <trd>c&eacute;lula fotoel&eacute;ctrica</trd>,
+    <trd>fotoc&eacute;lula</trd>
+  </trdgrp>
+  <trd lng="fr">cellule photovolta&iuml;que</trd>
+</drv>
+
+<drv mrk="cxel.unu0ulo">
+  <kap>unu<tld/>ulo</kap>
+  <snc mrk="cxel.unu0ulo.BIO">
+    <uzo tip="fak">BIO</uzo>
+    <dif>
+      Simpla organismo vegeta&jcirc;a a&ubreve; animala, kiu tuta
+      konsistas 
+      el unu sola <tld/>o.
+    </dif>
+  </snc>
+  <trd
+  lng="bg">&c_je;&c_d;&c_n;&c_o;&c_k;&c_l;&c_je;&c_t;&c_malmol;&c_ch;&c_n;&c_o;</trd>
+  <trd lng="ca">organisme unicel&middot;lular</trd>
+  <trd lng="de">Einzeller</trd>
+  <trd lng="es">organismo unicelular</trd>
+  <trd lng="fr">organisme <ind>monocellulaire</ind></trd>
+  <trd lng="it">organismo <ind>monocellulare</ind></trd>
+  <trdgrp lng="pl">
+    <trd>jednokom&oacute;rkowiec</trd>,
+    <trd>organizm <ind>jednokom&oacute;rkowy</ind></trd>
+  </trdgrp>
+  <trd
+  lng="ru">&c_o;&c_d;&c_n;&c_o;&c_k;&c_l;&c_je;&c_t;&c_o;&c_ch;&c_n;&c_o;&c_je;</trd>
+</drv>
+
+<drv mrk="cxel.blankasango0o">
+  <kap>blanka sango<tld/>o</kap>
+  <snc mrk="cxel.blankasango0o.FIZL">
+    <uzo tip="fak">FIZL</uzo>
+    <dif>
+      Limfo- a&ubreve; sango<tld/>o
+      aganta kontra&ubreve; infektoj;
+      <ref tip="sin" cel="leuxko.0o">le&ubreve;kocito</ref>:
+      <ekz>
+        mjelo dum la tuta nia vivo produktas ru&gcirc;ajn, kaj blankajn 
+        sango<tld/>ojn
+        <fnt>
+          <aut>S. Zag&oacute;rski, trad. D. Kowalska</aut>,
+          <vrk><url
+          ref="http://www.esperanto.pl/esperanto/ciekawostki/cxeloj-por-specialaj-taskoj.html">
+          &Ccirc;eloj por specialaj taskoj</url></vrk>,
+          <lok>[vidita en 2010]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_l;&c_je;&c_j;&c_k;&c_a;&c_c;&c_y;&c_t;</trd>,
+      <trd>&c_b;&c_je;&c_l;&c_a;&c_ja; &c_k;&c_l;&c_je;&c_t;&c_k;&c_a;
+      &c_k;&c_r;&c_y;&c_v;&c_ib;</trd>
+    </trdgrp>
+    <trd lng="bg">&c_l;&c_je;&c_v;&c_k;&c_o;&c_c;&c_i;&c_t;</trd>
+    <trdgrp lng="ca">
+      <trd>gl&ograve;bul blanc</trd>,
+      <trd>leuc&ograve;cit</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+       <trd>wei&szlig;es <ind>Blutk&ouml;rperchen</ind></trd>,
+       <trd>Leukozyt<klr> [fak]</klr></trd>
+    </trdgrp>
+    <trd
+    lng="el">&lambda;&epsilon;&ypsilon;&kappa;&omikron;&kappa;&ypsilon_ton;&tau;&tau;&alfa;&rho;&omikron;</trd>
+    <trdgrp lng="en">
+      <trd>leukocyte</trd>,
+      <trd>white blood corpuscle</trd>,
+      <trd>white blood cell</trd>
+    </trdgrp>
+    <trdgrp lng="es">
+      <trd>leucocito</trd>,
+      <trd>gl&oacute;bulo blanco</trd>
+    </trdgrp>
+    <trdgrp lng="fa">
+      <trd>&f_g;&a_w;&f_y;&f_ch;&a_h;&a_hamza_sure;
+      &a_s;&a_f;&f_y;&a_d;</trd>,
+      <trd>&f_g;&a_l;&a_b;&a_w;&a_l; &a_s;&a_f;&f_y;&a_d;</trd>,
+      <trd>&a_l;&f_k;&a_w;&a_s;&f_y;&a_t;</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>globule blanc</trd>,
+      <trd>leucocyte</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+       <trd>feh&eacute;rv&eacute;rsejt</trd>,
+       <trd>leukocita</trd>
+    </trdgrp>  
+    <trdgrp lng="it">
+       <trd><ind>globulo</ind> bianco</trd>,
+       <trd>leucocita</trd>
+    </trdgrp> 
+    <trd lng="nl">wit <ind>bloedlichaampje</ind></trd>
+    <trdgrp lng="pl">
+      <trd>leukocyt</trd>,
+      <trd>bia&lstroke;&aogonek; <ind>krwinka</ind></trd>
+    </trdgrp>
+    <trdgrp lng="pt">
+      <trd>leuc&oacute;cito</trd>,
+      <trd>gl&oacute;bulo branco</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_l;&c_je;&c_j;&c_k;&c_o;&c_c;&c_i;&c_t;</trd>,
+      <trd>&c_b;&c_je;&c_l;&c_o;&c_je;
+      &c_k;&c_r;&c_o;&c_v;&c_ja;&c_n;&c_o;&c_je;
+      &c_t;&c_je;&c_l;&c_mol;&c_c;&c_je;</trd>
+    </trdgrp>
+  </snc>
+</drv>
+
+<drv mrk="cxel.rugxasango0o">
+  <kap>ru&gcirc;a sango<tld/>o</kap>
+  <snc mrk="cxel.rugxasango0o.FIZL">
+    <uzo tip="fak">FIZL</uzo>
+    <dif>
+      Sango<tld/>o kiu al korpaj histoj portas oksigenon,
+      kaj de ili deprenas karbondioksidon;
+      <ref tip="sin" cel="eritrocit.0o.FIZL">eritrocito</ref>:
+      <ekz>
+        dum kosmovoja&gcirc;o kosmona&ubreve;toj perdos ostokalcion kaj
+        suferos
+        de 
+        muskola atrofio kaj redukti&gcirc;o de ru&gcirc;aj sango<tld/>oj
+        <fnt>
+          <aut>-</aut>,
+          <vrk>
+            <url
+            ref="http://esperanto.china.org.cn/world/shi-living/kalejdoskopo/68.htm">
+          Kiel &ccirc;inaj kosmonautoj vivos en la kosmo?</url></vrk>,
+          <lok>[2003]</lok>
+        </fnt>
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_e;&c_r;&c_y;&c_t;&c_r;&c_a;&c_c;&c_y;&c_t;</trd>,
+      <trd>&c_ch;&c_y;&c_r;&c_v;&c_o;&c_n;&c_a;&c_ja;
+      &c_k;&c_l;&c_je;&c_t;&c_k;&c_a; &c_k;&c_r;&c_y;&c_v;&c_ib;</trd>
+    </trdgrp>
+    <trdgrp lng="ca">
+      <trd>gl&ograve;bul roig</trd>,
+      <trd>eritr&ograve;cit</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>&eacute;rythrocyte</trd>,
+      <trd>globule rouge</trd>,
+      <trd>h&eacute;matie</trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>erytrocyt</trd>,
+      <trd>czerwona <ind>krwinka</ind></trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="es">
+    <trd>eritrocito</trd>,
+    <trd>gl&oacute;bulo rojo</trd>,
+    <trd>hemat&iacute;e</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: cxel.xml,v $
+Revision 1.50  2015/09/08 20:10:18  revo
+Jeromo Vasxe: + imun~o
+
+Revision 1.49  2015/04/13 10:10:16  revo
+Carlos Garcia: +trd es gli~o sun~o plasmo~o
+
+Revision 1.48  2015/04/13 00:10:14  revo
+Carlos Garcia: +trd es limfo~o melano~o nervo~o ovo~o plur~ulo sun~o
+unu~ulo blanka sango~o rugx
+
+Revision 1.47  2015/02/01 17:10:28  revo
+Alain Gerard: + melano~o +trd
+
+Revision 1.46  2014/02/14 21:10:15  revo
+Jeromo Vasxe: + sun~o
+
+Revision 1.45  2013/10/11 19:10:10  revo
+Wolfram Diestel: kor. ref-tip
+
+Revision 1.44  2013/03/27 15:10:14  revo
+Dmitri Gabinski: redakto: +trd be
+
+-->
+</vortaro>

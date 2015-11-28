@@ -1,0 +1,116 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: remiz.xml,v 1.17 2015/07/04 08:37:42 revo Exp $">
+<kap>
+  <rad>remiz</rad>/o <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="remiz.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="remiz.0o.ARKI">
+    <uzo tip="fak">ARKI</uzo>
+    <dif>
+      Ejo por restigi kaj &scirc;irmi veturilon:
+      <ekz>
+        mi estis luinta tute le&gcirc;e <tld/>on, sed estis
+        &scirc;telinta kamioneton plej kontra&ubreve;le&gcirc;e
+        <fnt><bib>&Scirc;talrato</bib>, <lok>&ccirc;apitro
+        7a</lok></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="auxt.0ejo">a&ubreve;tejo</ref>,
+      <ref cel="garagx.0o">gara&gcirc;o</ref>    
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_g;&c_a;&c_r;&c_a;&c_zh;</trd>
+  <trdgrp lng="ca">
+    <trd>cobert</trd>,
+    <trd>garatge</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>depo</trd>,
+    <trd>kůlna</trd>,
+    <trd>remíza</trd>,
+    <trd>soukromá garáž</trd>,
+    <trd>vozovna</trd>
+  </trdgrp>
+  <trd lng="de">Garage</trd>
+  <trd lng="en">garage</trd>
+  <trd lng="es">garaje</trd>
+  <trd lng="fr">garage<klr tip="amb"> (p. ex. &agrave; voiture)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>kocsisz&iacute;n</trd>,
+    <trd>rem&iacute;z</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>remise</trd>,
+    <trd>garage</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>remiza</trd>,
+    <trd>zajezdnia</trd>,
+    <trd>wozownia</trd>
+  </trdgrp>
+  <trd lng="pt">garagem</trd>
+  <trd lng="ru">&c_g;&c_a;&c_r;&c_a;&c_zh;</trd>
+  <trdgrp lng="sk">
+    <trd>depo</trd>,
+    <trd>remíza</trd>,
+    <trd>vozovňa</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="remiz.en0igi">
+  <kap>en<tld/>igi</kap>
+  <snc mrk="remiz.en0igi.KOMUNE">
+    <dif>
+      &Scirc;irmi, metante en <tld/>on:
+      <ekz>
+        li <klr>...</klr> en<tld/>igis la riki&scirc;on
+        <fnt>
+          <aut>Lao She, trad. Wang Chongfang</aut>,
+          <vrk><url
+          ref="http://edu.i-lo.tarnow.pl/esp/lern/librejo/0026/">
+          Kamelo &Scirc;jangzi</url></vrk>,
+          <lok>1988</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">mettre au <ind>garage</ind></trd>
+</drv>
+</art>
+<!--
+$Log: remiz.xml,v $
+Revision 1.17  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.15  2014/01/02 21:10:28  revo
+Jeromo Vasxe: + en~igi
+
+Revision 1.14  2012/01/03 08:10:30  revo
+Marc Rausell: +trd ca
+
+Revision 1.13  2011/07/19 13:10:14  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.12  2006/02/20 17:32:15  revo
+Tulio Flores: +trd pt
+
+Revision 1.11  2006/01/02 17:33:10  revo
+Jeromo Vasxe: + fak arki, + ekz
+
+Revision 1.10  2005/04/07 16:31:51  revo
+Raul Salinas Monteagudo: +trd es
+
+Revision 1.9  2004/09/23 19:46:13  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.8  2003/08/17 17:27:32  revo
+-->
+</vortaro>

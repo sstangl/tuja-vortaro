@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: glucid.xml,v 1.7 2015/07/04 08:37:35 revo Exp $">
+<kap>
+  <rad>glucid</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="glucid.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="stl">RAR</uzo>
+  <snc mrk="glucid.0o.KEM">
+    <uzo tip="fak">KEM</uzo>
+    <ref tip="dif" cel="hidrat.karbon0o.KEM">karbonhidrato</ref>
+    <ekz>
+      eviti la trodiki&gcirc;on per redukto de
+      la nutra&jcirc;aj lipidoj favore al <tld/>oj
+      (fekula&jcirc;oj, cerealoj)
+      <fnt>
+        <aut>trad. C. Bertin</aut>,
+        <vrk><url ref="http://bertin.ifrance.com/artikol/nutrado.htm">
+        Nutraj konsiloj</url></vrk>,
+        <lok>2003-04</lok>
+      </fnt>.
+    </ekz>
+  </snc>
+  <trdgrp lng="ca">
+    <trd>gl&uacute;cid</trd>,
+    <trd>gl&iacute;cid</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>glucid</trd>,
+    <trd>uhlohydrát</trd>
+  </trdgrp>
+  <trd lng="en">carbohydrate</trd>
+  <trd lng="fr">glucide</trd>
+  <trdgrp lng="pt">
+    <trd>glic&iacute;dio</trd>,
+    <trd>gluc&iacute;dio</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>glucid</trd>,
+    <trd>uhľohydrát</trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log: glucid.xml,v $
+Revision 1.7  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.6  2015/06/29 16:29:39  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.5  2013/10/31 02:10:28  revo
+Jeromo Vasxe: + ref dif, + trd en
+
+Revision 1.4  2012/08/19 00:10:36  revo
+Marc Rausell: + trd ca
+
+Revision 1.3  2011/11/28 12:10:10  revo
+Jeromo Vasxe: + fak kem
+
+Revision 1.2  2007/04/29 16:31:45  revo
+Tulio Flores: +tr pt
+
+Revision 1.1  2006/06/30 16:31:07  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

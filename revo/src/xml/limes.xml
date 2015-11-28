@@ -1,0 +1,160 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: limes.xml,v 1.20 2015/07/04 08:37:38 revo Exp $">
+<kap>
+  <rad>limes</rad>/o
+</kap>
+<drv mrk="limes.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <snc mrk="limes.0o.MAT">
+  <subsnc mrk="limes.0o.vico">
+    <fnt><bib>PIV1</bib><lok>konver&gcirc;i</lok></fnt>
+    <dif>
+      <klr>(de <ref cel="vic.0o.MAT">vico</ref> 
+      <frm>(<k>u</k><sub><k>n</k></sub>)</frm>)</klr>
+      Punkto <frm><k>p</k></frm>, al kiu &gcirc;i
+      <ref cel="konver.0i.MAT">konver&gcirc;as</ref>;
+      simb. <frm><k>p</k> = lim (<k>u</k><sub><k>n</k></sub>)</frm>:
+      <ekz>
+        la <tld/>o de <frm>(1/<k>n</k>)<sub><k>n</k> &gt; 0</sub></frm>
+        estas <frm>0</frm>;
+      </ekz>
+      <ekz>
+        la vico <frm>((-1)<sup><k>n</k></sup>)<sub><k>n</k> &gt;
+        0</sub></frm>
+        ne akceptas <tld/>on <klr>(ne konver&gcirc;as)</klr>.
+      </ekz>
+    </dif>
+    <rim>
+      Por &ccirc;i tiu nocio Bricard
+      <fnt><bib>MatTerm</bib><lok>p. 17</lok></fnt> kontenti&gcirc;is je
+      <ctl>limo</ctl>.
+    </rim>
+  </subsnc>
+  <subsnc mrk="limes.0o.bildigo">
+    <fnt><bib>PIV1</bib></fnt>
+    <dif>
+      <klr>(de <ref cel="bild.0igo.MAT">bildigo</ref>
+      <frm><k>f</k></frm> inter
+      du <ref cel="spac.topologia0o">topologiaj spacoj</ref>, &ccirc;e
+      <ref cel="akumul.0igxa.punkto">akumuli&gcirc;a</ref> punkto
+      <frm><k>a</k></frm> de la fonto-aro)</klr>
+      Tia punkto <frm><k>b</k></frm> de la celo-aro, ke por &ccirc;iu &gcirc;ia
+      <ref cel="cxirka.0ajxo.topologio">&ccirc;irka&ubreve;a&jcirc;o</ref>
+      <frm><g>W</g></frm>, ekzistas responda &ccirc;irka&ubreve;a&jcirc;o
+      <frm><g>V</g></frm> de <frm><k>a</k></frm>, kies 
+      <ref cel="bild.0o.subaro">bildo</ref> per <frm><k>f</k></frm>
+      estas 
+      inkluzivata de <frm><g>W</g></frm>;
+      simb. <frm><k>b</k> = 
+      lim<sub><k>x</k>&#8594;<k>a</k></sub> <k>f</k>(<k>x</k>)</frm>:
+      <ekz>
+        bildigo povas havi <tld/>on &ccirc;e punkto, en kiu &gcirc;i
+        ne estas difinita;
+      </ekz>
+      <ekz>
+        la <tld/>o &ccirc;e <frm>0</frm> de
+        <frm><k>x</k>.sin(1/<k>x</k>)</frm>
+        estas <frm>0</frm>;
+      </ekz>
+      <ekz>
+        se la <tld/>o de <frm><k>f</k></frm> &ccirc;e <frm><k>a</k></frm> 
+        egalas al <frm><k>f</k>(<k>a</k>)</frm>, tiam oni diras,
+        ke <frm><k>f</k></frm> estas 
+        <ref cel="kontin3.0a.cxepunkto">kontinua</ref> &ccirc;e 
+        <frm><k>a</k></frm>;
+      </ekz>
+      <ekz>
+        se vico <frm>(<k>u</k><sub><k>n</k></sub>)</frm> konver&gcirc;as al 
+        <frm><k>a</k></frm>, kaj se <frm><k>b</k></frm> estas
+        <tld/>o de <frm><k>f</k></frm> &ccirc;e <frm><k>a</k></frm>, tiam 
+        &gcirc;i anka&ubreve; estas <tld/>o de la vico 
+        <frm>(<k>f</k>(<k>u</k><sub><k>n</k></sub>))</frm>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="analit.0o">analitiko</ref>,
+      <ref cel="streb.0i.MAT">strebi</ref>.
+    </refgrp>
+    <rim>
+      En la kadro de reelaj funkcioj oni parolas anka&ubreve; pri
+      <ekz>
+        <tld/>o &ccirc;e malfinio;
+      </ekz>
+      <ekz>
+        dekstra, maldekstra <tld/>o
+        <klr>(la konsiderata &ccirc;irka&ubreve;a&jcirc;o <frm><g>V</g></frm> 
+        devas akcepti <frm><k>a</k></frm> kiel infimon a&ubreve; supremon, 
+        respektive)</klr>.
+      </ekz>
+    </rim>
+    <rim>
+      Oni diras sendistinge, ke <ctl><frm><k>b</k></frm> estas <tld/>o
+      de 
+      <frm><k>f</k></frm> &ccirc;e punkto <frm><k>a</k></frm></ctl>, 
+      <ctl><frm><k>f</k></frm> akceptas <tld/>on <frm><k>b</k></frm> &ccirc;e
+      punkto <frm><k>a</k></frm></ctl>, a&ubreve; ke 
+      <ctl><frm><k>f</k>(<k>x</k>)</frm> strebas al <frm><k>b</k></frm>,
+      kiam 
+      <frm><k>x</k></frm> strebas al <frm><k>a</k></frm></ctl>.
+    </rim>
+  </subsnc>
+  </snc>
+  <trd lng="be">&c_l;&c_ib;&c_m;&c_ib;&c_t;</trd>
+  <trd lng="ca">l&iacute;mit<klr> (anal. mat.)</klr></trd>
+  <trdgrp lng="cs">
+    <trd>hraniční hodnota</trd>,
+    <trd>limita</trd>,
+    <trd>zn. lim</trd>
+  </trdgrp>
+  <trd lng="de">Limes</trd>
+  <trd lng="en">limit</trd>
+  <trd lng="es">l&iacute;mite</trd>
+  <trd lng="fr">limite<klr tip="ind"> (math..)</klr></trd>
+  <trd lng="hu">hat&aacute;r&eacute;rt&eacute;k</trd>
+  <trd lng="nl">limiet<klr tip="ind"> (wisk.)</klr></trd>
+  <trd lng="pl">granica<klr tip="ind"> (ci&aogonek;gu lub funkcji)</klr></trd>
+  <trd lng="pt">limite<klr tip="ind"> (mat.)</klr></trd>
+  <trd lng="ru">&c_p;&c_r;&c_je;&c_d;&c_je;&c_l;</trd>
+  <trdgrp lng="sk">
+    <trd>hraničná hodnota</trd>,
+    <trd>limita</trd>,
+    <trd>zn. lim</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: limes.xml,v $
+Revision 1.20  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:33:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2012/07/30 12:10:44  revo
+Marc Rausell: + trd ca
+
+Revision 1.17  2011/06/03 11:10:15  revo
+Carlos Angus: +trd es
+
+Revision 1.16  2004/05/25 16:33:32  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.15  2004/05/06 16:33:25  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.14  2003/03/09 17:34:21  revo
+Marc Bavant: kor inkluzivata
+
+Revision 1.13  2003/01/02 17:48:33  revo
+Marc Bavant: mod fnt "artikolo"
+Revision 1.12  2002/11/30 17:35:56  revo
+Marc Bavant: +frm, +trd pl
+Revision 1.11  2002/09/05 17:32:25  revo
+Eduardo M. Kalinowski: ald trd pt
+Revision 1.10  2002/05/21 16:33:49  revo
+-->
+</vortaro>

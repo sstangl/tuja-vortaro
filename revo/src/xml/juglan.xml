@@ -1,0 +1,128 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: juglan.xml,v 1.35 2015/07/04 08:37:36 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>jugland</rad>/o
+</kap>
+
+<drv mrk="juglan.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc>
+    <dif>
+      <ref tip="super" cel="kern.0o.BOT">Kerno</ref>
+      de la frukto de <tld/>ujo, kun oleri&ccirc;a
+      cerbetforma interno.
+    </dif>
+  </snc>
+  <trd lng="be">&c_v;&c_a;&c_l;&c_o;&c_s;&c_k;&c_ib;
+&c_a;&c_r;&c_e;&c_h;</trd>
+  <trd lng="bg">&c_o;&c_r;&c_je;&c_h;</trd>
+  <trd lng="br">krao&ntilde;enn<klr tip="ind"> (frouezhenn)</klr></trd>
+  <trd lng="ca">nou</trd>
+  <trd lng="cs">vlašský ořech</trd>
+  <trd lng="de">Walnuss</trd>
+  <trd lng="en">walnut</trd>
+  <trd lng="es">nuez <klr>de nogal</klr></trd>
+  <trd lng="fr">noix</trd>
+  <trd lng="hu">di&oacute;</trd>
+  <trd lng="it">noce<klr> (frutto)</klr></trd>
+  <trdgrp lng="nl">
+   <trd>walnoot</trd>,
+   <trd>okkernoot</trd>
+  </trdgrp>
+  <trd lng="pl">orzech w&lstroke;oski</trd>
+  <trd lng="pt">noz</trd>
+  <trd lng="ru">&c_g;&c_r;&c_je;&c_c;&c_k;&c_i;&c_j;
+&c_o;&c_r;&c_je;&c_h;</trd>
+  <trd lng="sk">vlašský orech</trd>
+  <trd lng="sv">valn&ouml;t</trd>
+  <trd lng="tr">ceviz</trd>
+</drv>
+
+<drv mrk="juglan.0ujo0arbo">
+  <kap><tld/>ujo, <var><kap><tld/>arbo</kap></var></kap>
+  <uzo tip="fak">BOT</uzo>
+  <snc>
+    <dif>
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:botanikaj_genroj">Genro</ref>
+       el familio <ref tip="malprt"
+      cel="juglan1.0oj"><tld/>ujacoj</ref>
+      (<trd lng="la">Juglans</trd>), arbo, kies plej konata specio
+      (<trd lng="la">Juglans regia</trd>) estas
+      kulturata pro la oleori&ccirc;aj man&gcirc;eblaj kernoj, kaj la ligno
+      uzata en meblofarado.
+    </dif>
+  </snc>
+  <bld lok="../bld/jugland.jpg">maskla floro de
+    Juglans regia
+  </bld>
+  <bld lok="../bld/jugland1.jpg">
+    Juglans regia
+  </bld>
+  <trd lng="be">&c_a;&c_r;&c_e;&c_h;&c_a;&c_v;&c_a;&c_je;
+&c_d;&c_r;&c_e;&c_v;&c_a;</trd>
+  <trdgrp lng="br">
+    <trd>krao&ntilde;enn<klr tip="ind"> (gwezenn)</klr></trd>,
+    <trd>gwezenn-grao&ntilde;</trd>,
+  </trdgrp>
+  <trdgrp lng="ca">
+    <trd>nouer</trd>,
+    <trd>noguera</trd>
+  </trdgrp>
+  <trd lng="de">Walnussbaum</trd>
+  <trd lng="en">walnut</trd>
+  <trd lng="es">nogal</trd> 
+  <trd lng="fr">noyer</trd>
+  <trd lng="hu">di&oacute;fa</trd>
+  <trd lng="nl">notenboom</trd>
+  <trd lng="pl">orzech w&lstroke;oski<klr> (drzewo)</klr></trd>
+  <trd lng="pt">nogueira</trd>
+  <trd lng="tr">ceviz</trd>
+  <trd lng="ru">&c_o;&c_r;&c_je;&c_h;&c_o;&c_v;&c_o;&c_je;
+&c_d;&c_je;&c_r;&c_je;&c_v;&c_o;</trd>
+  <trd lng="sv">valn&ouml;tstr&auml;d</trd>
+  <trd lng="it">noce<klr> (albero)</klr></trd>
+  <trd lng="sk">vlašský orech <klr>(strom)</klr></trd>
+  <trdgrp lng="cs">
+    <trd>ořech vlašský</trd>,
+    <trd>ořešák královský</trd>
+  </trdgrp>
+</drv>
+
+</art>
+<!--
+$Log: juglan.xml,v $
+Revision 1.35  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.34  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.33  2013/08/27 07:10:16  revo
+Wolfram Diestel: referenco al listo bot genroj
+
+Revision 1.32  2012/10/23 00:11:59  revo
+Neil Roberts: aldonu la etikedon <var>
+
+Revision 1.31  2012/09/04 14:10:16  revo
+Marc Rausell: + trd ca
+
+Revision 1.30  2012/04/01 10:10:12  revo
+Carlos Garcia: +trd es -o -ujo
+
+Revision 1.29  2009/03/15 17:31:41  revo
+Antonio Codazzi: +trd it
+
+Revision 1.28  2007/11/22 17:30:33  revo
+Wieland Pusch: +trd bg
+
+Revision 1.27  2007/06/10 16:31:17  revo
+Russ Williams: +trd en=walnut
+
+Revision 1.26  2006/07/03 16:31:16  revo
+-->
+</vortaro>

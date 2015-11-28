@@ -1,0 +1,162 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+    <art mrk="$Id: uniks.xml,v 1.20 2014/01/05 14:10:18 revo Exp $">
+      <kap>
+	<rad>Uniks</rad>/o
+      </kap>
+      <drv mrk="uniks.0o">
+	<kap>
+	  <tld/>o
+	</kap>
+        <snc>
+        <uzo tip="fak">KOMP</uzo>
+	  <dif>
+	    Tre stabila multagada kaj multuzanta
+	    <ref tip="super" cel="operac.0umo">operaciumo</ref>, konformiganta
+	    sin al la normo POSIX (IEEE1003).
+	  </dif>
+        <ref tip="vid" cel="linuks.0o">Linukso</ref>
+	</snc>
+	<trd lng="be">&c_Ju;&c_n;&c_ib;&c_k;&c_s;</trd>
+        <trd lng="ca">Unix</trd>
+	<trd lng="de">Unix</trd>
+	<trd lng="en">Unix</trd>
+	<trd lng="es">Unix</trd>
+        <trd lng="fa">&f_y;&a_w;&a_n;&f_y;&f_k;&a_s;</trd>
+	<trd lng="fi">Unix</trd>
+	<trd lng="fr">Unix</trd>
+	<trd lng="hu">Unix</trd>
+        <trdgrp lng="it">
+        <trd>Unix<klr> (t.m.)</klr></trd>, 
+        <trd>unix<klr> (o.s.)</klr></trd>
+        </trdgrp>
+	<trd lng="nl">Unix</trd>
+        <trdgrp lng="pl">
+          <trd>Unix</trd>,
+          <trd>Uniks</trd>
+        </trdgrp>
+	<trdgrp lng="pt">
+	  <trd>Unix</trd>
+	</trdgrp>
+	<trd lng="ru">&c_Ju;&c_n;&c_i;&c_k;&c_s;</trd>
+	<trd lng="sk">Unix</trd>
+	<trd lng="sv">Unix</trd>
+      </drv>
+
+      <drv mrk="uniks.0ulo">
+	<kap>
+	  <tld lit="u"/>ulo
+	</kap>
+	<snc>
+         <uzo tip="fak">KOMP</uzo>
+	  <dif>
+	    Uzanto (kaj kutime, anka&ubreve; adepto) de <tld/>o:
+	    <ekz>
+	      tiu vorto &leftquot;<tld lit="u"/>ulo&rightquot;
+ta&ubreve;gas, &ccirc;ar <tld/>o,
+	      kiel aliaj mastrumaj sistemoj, havas sian propran kulturon
+	      <fnt>
+		<aut>E. Grimley Evans</aut>:
+		<vrk>Uniksulo ekspertas Unikodon</vrk>.
+		<lok><url
+
+ref="http://www.esperanto.be/fel/mon/006801.html">Monato</url></lok>.
+	      </fnt>.
+	    </ekz>
+	  </dif>
+	</snc>
+	<trd lng="be">&c_k;&c_a;&c_r;&c_y;&c_s;&c_t;&c_a;&c_l;&c_mol;&c_n;&c_ib;&c_k;
+&c_Ju;&c_n;&c_ib;&c_k;&c_s;&c_a;</trd>
+        <trd lng="ca">usuari d'<ind>Unix</ind></trd>
+	<trd lng="de">Unixler</trd>
+	<trdgrp lng="en">
+	  <trd>Unix user</trd>,
+	  <trd>Unix fan</trd>
+	</trdgrp>
+        <trd lng="fa">&f_y;&a_w;&a_n;&f_y;&f_k;&a_s;&zwnj;&f_k;&a_A;&a_r;</trd>
+	<trdgrp lng="fi">
+	  <trd>Unix-k&auml;ytt&auml;j&auml;</trd>,
+	  <trd>Unix-fani</trd>
+	</trdgrp>
+	<trd lng="fr">Unixien</trd>
+	<trd lng="hu">unixos</trd>
+        <trd lng="it">utente <ind>unix</ind></trd>
+	<trd lng="nl">Unix-gebruiker</trd>
+	<trdgrp lng="pl">
+	  <trd>uniksowiec</trd>,
+	  <trd>zwolennik <ind>Unixa</ind></trd>
+	</trdgrp>
+        <trd lng="ru">&c_p;&c_o;&c_l;&c_mol;&c_z;&c_o;&c_v;&c_a;&c_t;&c_je;&c_l;&c_mol; &c_Ju;&c_n;&c_i;&c_k;&c_s;&c_a;</trd>
+	<trdgrp lng="sv">
+	  <trd>Unix-anv&auml;ndare</trd>,
+	  <trd>Unix-anh&auml;ngare</trd>
+	</trdgrp> 
+      </drv>
+    </art>
+
+    <!--
+    $Log: uniks.xml,v $
+    Revision 1.20  2014/01/05 14:10:18  revo
+    Damien Brucker: +ref
+
+    Revision 1.19  2013/11/27 12:10:11  revo
+    Damien Brucker: Aldono cxe difino
+
+    Revision 1.18  2013/09/25 06:10:12  revo
+    Sebastian Cyprych: +trd pl
+
+    Revision 1.17  2013/09/13 15:10:11  revo
+    Damien Brucker: Klarigo de la normo
+
+    Revision 1.16  2013/09/13 08:10:16  revo
+    Damien Brucker: precizigo dela difino
+
+    Revision 1.15  2012/08/13 14:10:23  revo
+    Marc Rausell: + trd ca
+
+    Revision 1.14  2009/08/21 16:31:38  revo
+    Behnam Tabatabai: +trd fa
+
+    Revision 1.13  2009/08/18 19:19:20  revo
+    Antonio Codazzi: +trd it
+
+    Revision 1.12  2008/11/16 17:30:47  revo
+    Jerano Zachrisson: +trd sv
+
+    Revision 1.11  2007/06/20 16:30:28	revo
+    Harri Laine: +trd fi
+
+    Revision 1.10  2006/02/09 17:31:04	revo
+    Tulio Flores: +trd pt
+
+    Revision 1.9  2006/01/09 17:33:50  revo
+    Raul Salinas Monteagudo: +trd es
+
+    Revision 1.8  2004/09/27 19:06:44  revo
+    Philippe Combot: + trd fr
+
+    Revision 1.7  2003/10/13 16:30:47  revo
+    Dmitri Gabinski: +trd be
+
+    Revision 1.6  2002/09/17 16:32:35  revo
+    Rastislav Sarissky: +trd sk
+
+    Revision 1.5  2002/09/12 16:34:25  revo
+    Jozefo Horvath: +trd hu
+
+    Revision 1.4  2002/03/10 17:30:50  revo
+    Ulrich Fellmann: + 2 germ trdj
+
+    Revision 1.3  2002/03/08 17:32:02  revo
+    Paul Peeraerts: ald trd nl
+
+    Revision 1.2  2002/01/08 19:25:08  revo
+    Sergio Pokrovskij: ref-cel
+
+    Revision 1.1  2002/01/07 17:32:12  revo
+    Sergio Pokrovskij: nova artikolo
+
+    -->
+</vortaro>

@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: homoto.xml,v 1.16 2009/09/17 16:30:40 revo Exp $">
+<kap>
+  <rad>homotop</rad>/a
+</kap>
+<drv mrk="homoto.0a">
+  <kap><tld/>a</kap>
+  <uzo tip="fak">MAT</uzo>
+  <snc mrk="homoto.0a.vojoj">
+    <fnt><bib>PIV2</bib></fnt>
+    <dif>
+      <klr>(p.p. <ref cel="voj.0o.bildigo">vojo</ref> <frm>&phi;</frm>
+      rilate al dua vojo <frm>&psi;</frm>, 
+      en <ref cel="spac.topologia0o">topologia spaco</ref>
+      <frm><g>E</g></frm>)</klr>
+      Tia, ke ekzistas tia <ref cel="kontin3.0a.cxie">kontinua</ref>
+      <ref cel="bild.0igo.MAT">bildigo</ref> <frm>H</frm> 
+      de <frm>[0,1]<sup>2</sup></frm> al <frm><g>E</g></frm>, ke por 
+      &ccirc;iu <frm><k>t</k>&#8712;[0,1]</frm> 
+      <frm>H(<k>t</k>,0) = &phi;(<k>t</k>)</frm> kaj
+      <frm>H(<k>t</k>,1) = &psi;(<k>t</k>)</frm>:
+      <ekz>
+        oni diras, ke <frm>&phi;</frm> estas <tld/>a al <frm>&psi;</frm>,
+        a&ubreve; ke <frm>&phi;</frm> kaj <frm>&psi;</frm> estas <tld/>aj;
+      </ekz>
+      <ekz>
+        oni diras, ke <ref cel="voj.fermita0o">fermita vojo</ref> estas
+        <tld/>a al punkto <frm><k>a</k></frm>, se &gcirc;i estas <tld/>a 
+        al la konstanta vojo kun bildaro <frm>{<k>a</k>}</frm>;
+      </ekz>
+      <ekz>
+        <ind><tld/>eco</ind> estas 
+        <ref cel="rilat.ekvivalento0o">ekvivalento-rilato</ref>.
+        <trd lng="be">&c_g;&c_a;&c_m;&c_a;&c_t;&c_o;&c_p;&c_ib;&c_ja;</trd>
+        <trd lng="de">Homotopie</trd>
+        <trd lng="en">homotopy</trd>
+        <trd lng="fa">&a_h;&a_w;&a_m;&a_w;&a_t;&a_w;&f_p;&f_y;</trd>
+        <trd lng="fr">homotopie</trd>
+        <trd lng="hu">homot&oacute;pia</trd>
+        <trd lng="it">omotopia</trd>
+        <trd lng="pl">homotopia</trd>
+        <trd lng="ru">&c_g;&c_o;&c_m;&c_o;&c_t;&c_o;&c_p;&c_i;&c_ja;</trd>
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="grup.fundamenta0o">fundamenta grupo</ref>.
+    </refgrp>
+    <rim>
+      La difino interpreti&gcirc;as intuicie per tio, ke la vojon
+      <frm>&phi;</frm> eblas kontinue aliformi en la vojon <frm>&psi;</frm>.
+    </rim>
+  </snc>
+  <trd lng="be">&c_g;&c_a;&c_m;&c_a;&c_t;&c_o;&c_p;&c_n;&c_y;</trd>
+  <trd lng="de">homotop</trd>
+  <trd lng="en">homotopic</trd>
+  <trd lng="fa">&a_h;&a_w;&a_m;&a_w;&a_t;&a_w;&f_p;&f_y;&f_k;</trd>
+  <trd lng="fr">homotope</trd>
+  <trd lng="hu">homot&oacute;p</trd>
+  <trd lng="it">omotopo</trd>
+  <trd lng="nl">homotoop</trd>
+  <trd lng="pl">homotopijny</trd>
+  <trd lng="pt">homot&oacute;pico</trd>
+  <trd lng="ru">&c_g;&c_o;&c_m;&c_o;&c_t;&c_o;&c_p;&c_n;&c_y;&c_j;</trd>
+</drv>
+</art>
+<!--
+$Log: homoto.xml,v $
+Revision 1.16  2009/09/17 16:30:40  revo
+Antonio Codazzi: +trd it
+
+Revision 1.15  2009/08/18 19:19:26  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.14  2007/04/27 16:31:11  revo
+Tulio Flores: +tr pt
+
+Revision 1.13  2004/10/05 16:58:55  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.12  2003/12/19 17:57:38  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.11  2003/01/13 17:33:59  revo
+Marc Bavant: ~a: +trd
+
+Revision 1.10  2003/01/02 17:46:42  revo
+Marc Bavant: +trd pl
+Revision 1.9  2002/11/24 17:34:00  revo
+Marc Bavant: +trd pl
+-->
+</vortaro>

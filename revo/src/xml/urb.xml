@@ -1,0 +1,510 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: urb.xml,v 1.55 2015/08/05 08:10:22 revo Exp $">
+<kap>
+   <ofc>*</ofc>
+   <rad>urb</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="urb.0o">
+   <kap><ofc>*</ofc><tld/>o</kap>
+   <snc mrk="urb.0o.ARKI">
+     <uzo tip="fak">ARKI</uzo>
+     <dif>
+       Iom granda aro da domoj, aran&gcirc;itaj la&ubreve; pluraj 
+       stratoj, iam (historie)
+       &ccirc;irka&ubreve;ita de murego:
+       <ekz>
+	 mi konas neniun en tiu &ccirc;i <tld/>o
+	 <fnt><bib>F</bib>, <lok>&FE; 28</lok></fnt>;
+       </ekz>
+       <ekz>
+	 &gcirc;i plu ne estos <tld/>o, sed amaso da 
+         ruina&jcirc;oj<fnt>Z</fnt>;
+       </ekz>
+       <ekz>
+	 fortika <tld/>o<fnt>Z</fnt>.
+       </ekz>
+     </dif>
+     <refgrp tip="sub">
+       <ref cel="civit.0o.urbo">civito</ref>
+     </refgrp>
+   </snc>
+  <trdgrp lng="be">
+     <trd>&c_g;&c_o;&c_r;&c_a;&c_d;</trd>,
+     <trd>&c_m;&c_je;&c_s;&c_t;&c_a;</trd>
+   </trdgrp>
+  <trd lng="bg">&c_g;&c_r;&c_a;&c_d;</trd>
+  <trd lng="br">k&ecirc;r</trd>
+  <trd lng="ca">ciutat</trd>
+  <trdgrp lng="cs">
+    <trd>m&ecaron;sto</trd>,
+    <trd>m&ecaron;sto</trd>
+  </trdgrp>
+  <trd lng="de">Stadt</trd>
+  <trd lng="el">&pi;&omikron_ton;&lambda;&eta;</trd>
+  <trd lng="en">city</trd>
+  <trd lng="es">ciudad</trd>
+  <trd lng="fa">&a_sh;&a_h;&a_r;</trd>
+  <trd lng="fi">kaupunki</trd>
+  <trd lng="fr">ville</trd>
+  <trd lng="hu">v&aacute;ros</trd>
+  <trd lng="id">kota</trd>
+  <trd lng="it">citt&agrave;</trd>
+  <trd lng="ku">bajar</trd>
+  <trd lng="nl">stad</trd>
+  <trd lng="pl">miasto</trd>
+  <trd lng="pt">cidade</trd>
+  <trd lng="ru">&c_g;&c_o;&c_r;&c_o;&c_d;</trd>
+  <trd lng="sk">mesto</trd>
+  <trd lng="sv">stad</trd>
+  <trd lng="tr">&scedil;ehir</trd>
+  <trd lng="vo">zif</trd>
+  <trdgrp lng="zh">
+     <trd>&#24066; [<ind>sh&igrave;</ind>]</trd>
+     <trd>&#22478;&#24066; [<ind>ch&eacute;ng sh&igrave;</ind>]</trd>
+     <trd>&#37117;&#24066; [<ind>d&#363; sh&igrave;</ind>]</trd>
+   </trdgrp>
+</drv>
+
+<drv mrk="urb.0ano">
+   <kap><ofc>*</ofc><tld/>ano</kap>
+   <snc mrk="urb.0ano.KOMUNE">
+     <dif>
+       Lo&gcirc;anto de <tld/>o:
+       <ekz>
+	 <tld/>anoj estas ordinare pli ruzaj, ol vila&gcirc;anoj
+	 <fnt><bib>F</bib>, <lok>&FE; 37</lok></fnt>.
+       </ekz>
+     </dif>
+   </snc>
+  <trdgrp lng="ca">
+     <trd>ciutad&agrave;</trd>,
+     <trd>urbanita</trd>
+   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>m&ecaron;&scaron;&tcaron;an</trd>,
+    <trd>obyvatel m&ecaron;sta</trd>
+  </trdgrp>
+  <trd lng="es">ciudadano<klr tip="amb"> (subst.)</klr></trd>
+  <trd lng="fa">&a_sh;&a_h;&a_r;&a_n;&a_sh;&f_y;&a_n;</trd>
+  <trd lng="fi">kaupunkilainen</trd>
+  <trd lng="fr">citadin<klr tip="amb"> (subst.)</klr></trd>
+  <trdgrp lng="hu">
+     <trd>v&aacute;rosi<klr tip="amb"> (lakos)</klr></trd>,
+     <trd>v&aacute;roslak&oacute;</trd>
+   </trdgrp>
+  <trd lng="id">urban</trd>
+  <trd lng="it">cittadino<klr> (di citt&agrave;)</klr></trd>
+  <trd lng="ru">&c_g;&c_o;&c_r;&c_o;&c_zh;&c_a;&c_n;&c_i;&c_n;</trd>
+  <trdgrp lng="sk">
+    <trd>me&scaron;&tcaron;an</trd>,
+    <trd>obyvate&lcaron; mesta</trd>
+  </trdgrp>
+  <trd lng="zh">&#24066;&#27665; [<ind>sh&igrave; m&iacute;n</ind>]</trd>
+</drv>
+
+<drv mrk="urb.U0ano">
+   <kap><tld lit="U"/>ano</kap>
+   <snc mrk="urb.U0ano.NOM">
+     <uzo tip="fak">NOM</uzo>
+     <dif>
+       Vira <ref tip="lst" cel="nom.antaux0o"
+      lst="voko:personaj_nomoj">anta&ubreve;nomo</ref> latindevena:
+       <ekz>
+	 la papoj <tld lit="U"/>ano VIII <klr>(la 8a)</klr> kaj Innocento
+	 IV <klr>(la
+	 4a)</klr>
+	 <fnt><bib>FK</bib>, <lok>5, el la vivo kaj sciencoj,
+	 bagateloj</lok></fnt>.
+       </ekz>
+     </dif>
+   </snc>
+  <trd lng="ca">Urb&agrave;</trd>
+  <trdgrp lng="cs">
+    <trd>m&ecaron;&scaron;&tcaron;an</trd>,
+    <trd>obyvatel m&ecaron;sta</trd>
+  </trdgrp>
+  <trd lng="de">Urban</trd>
+  <trd lng="es">Urbano</trd>
+  <trd lng="fa">&a_A;&a_w;&a_r;&a_b;&a_A;&a_n;</trd>
+  <trd lng="fi">Urbanus</trd>
+  <trd lng="fr">Urbain<klr tip="amb"> (pr&eacute;nom)</klr></trd>
+  <trd lng="hu">Orb&aacute;n</trd>
+  <trd lng="id">Urbanus</trd>
+  <trd lng="it">Urbano</trd>
+  <trdgrp lng="sk">
+    <trd>me&scaron;&tcaron;an</trd>,
+    <trd>obyvate&lcaron; mesta</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="urb.0ego">
+   <kap><tld/>ego</kap>
+   <snc mrk="urb.0ego.ARKI">
+     <uzo tip="fak">ARKI</uzo>
+     <dif>
+       Tre granda <ref tip="super"
+       cel="urb.0o.ARKI"><tld/></ref>okomplekso, ofte entenanta plurajn
+       eks<tld/>ojn:
+       <ekz>
+	 en la <tld/>egoj, &ccirc;iuj (neri&ccirc;uloj) lo&gcirc;as en 
+         anta&ubreve;<tld/>oj kaj
+	 &ccirc;iutage iras longan distancon buse a&ubreve; metroe
+	 <fnt>
+	 <aut>B. Hekland</aut>,
+	 <vrk>Kompreni &ccirc;i-landon? Neniam!</vrk>,
+	 <bib>LOdE</bib>,
+	 <lok>1999:3, numero 53a</lok>
+	 </fnt>;
+       </ekz>
+       <ekz>
+	 la plej <ctl>delegitoza</ctl> <tld/>o plu restas la
+	 brazila <tld/>ego Rio de Janeiro
+	 <fnt>
+	 <vrk>Preska&ubreve; du mil delegitoj</vrk>,
+	 <bib>LOdE</bib>,
+	 <lok>2000:8-9, numero 71a</lok>
+	 </fnt>.
+       </ekz>
+     </dif>
+   </snc>
+   <adm>
+     &Gcirc;enas en la difino la nedifinita termino "eks~o". "Eksa
+     urbo" sufi&ccirc;us. A&ubreve; "tre granda ~o formi&gcirc;inta per 
+enkorpigo de
+     anta&ubreve;aj &ccirc;irka&ubreve;~oj" (sed &ccirc;iuj ~oj tiel 
+disvolvi&gcirc;is!).
+     <aut>MB</aut>
+   </adm>
+   <trd lng="bg">&c_g;&c_o;&c_l;&c_ja;&c_m; 
+<ind>&c_g;&c_r;&c_a;&c_d;</ind></trd>
+   <trd lng="ca">metr&ograve;poli</trd>
+   <trd lng="cs">velkom&ecaron;sto</trd>
+   <trd lng="de">Gro&szlig;stadt</trd>
+   <trd lng="en">megalopolis</trd>
+   <trd lng="es">megal&oacute;polis</trd>
+   <trd lng="fa">&f_k;&a_l;&a_A;&a_n;&zwnj;&a_sh;&a_h;&a_r;</trd>
+   <trd lng="fi">suurkaupunki</trd>
+   <trd lng="fr">m&eacute;galopole</trd>
+   <trdgrp lng="hu">
+     <trd>nagyv&aacute;ros</trd>,
+     <trd>metropolisz</trd>
+   </trdgrp>
+   <trd lng="id">metropolitan</trd>
+   <trdgrp lng="it">
+     <trd>megalopoli</trd>,
+     <trd>metropoli</trd>
+   </trdgrp>
+   <trd lng="nl">grootstad</trd>
+   <trd lng="ru">&c_m;&c_je;&c_g;&c_a;&c_p;&c_o;&c_l;&c_i;&c_s;</trd>
+   <trd lng="vo">lezif</trd>
+  <trd lng="sk">ve&lcaron;komesto</trd>
+  <trd lng="cs">velkom&ecaron;sto</trd>
+</drv>
+
+<drv mrk="urb.0estro">
+   <kap><tld/>estro</kap>
+   <snc mrk="urb.0estro.POL">
+     <uzo tip="fak">POL</uzo>
+     <dif>
+       Precipa administranto de <tld/>o.
+     </dif>
+     <refgrp tip="vid">
+       <ref cel="skaben.0o">skabeno</ref>
+     </refgrp>
+   </snc>
+  <trdgrp lng="be">
+     <trd>&c_g;&c_a;&c_r;&c_a;&c_d;&c_a;&c_v;&c_y;</trd>,
+     <trd>&c_g;&c_a;&c_l;&c_a;&c_v;&c_a;</trd>,
+     <trd>&c_v;&c_o;&c_j;&c_t;</trd>,
+     <trd>&c_b;&c_u;&c_r;&c_m;&c_ib;&c_s;&c_t;&c_r;</trd>
+   </trdgrp>
+  <trd lng="bg">&c_k;&c_m;&c_je;&c_t;</trd>
+  <trd lng="ca">alcalde</trd>
+  <trd lng="cs">starosta m&ecaron;sta</trd>
+  <trd lng="de">B&uuml;rgermeister</trd>
+  <trd lng="es">alcalde</trd>
+  <trd lng="fa">&a_sh;&a_h;&a_r;&a_d;&a_A;&a_r;</trd>
+  <trdgrp lng="fi">
+     <trd>kaupunginjohtaja</trd>,
+     <trd>pormestari</trd>
+   </trdgrp>
+  <trd lng="fr">maire</trd>
+  <trd lng="hu">polg&aacute;rmester</trd>
+  <trd lng="it">sindaco</trd>
+  <trd lng="nl">burgemeester</trd>
+  <trdgrp lng="ru">
+     <trd>&c_g;&c_r;&c_a;&c_d;&c_o;&c_n;&c_a;&c_ch;&c_a;&c_l;&c_mol;&c_n;&c_i;&c_k;</trd>,
+     <trd>&c_g;&c_o;&c_r;&c_o;&c_d;&c_s;&c_k;&c_o;&c_j; 
+&c_g;&c_o;&c_l;&c_o;&c_v;&c_a;</trd>,
+     <trd>&c_m;&c_e;&c_r;</trd>
+   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>me&scaron;&tcaron;anosta</trd>,
+    <trd>starosta mesta</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="urb.0eto">
+   <kap><tld/>eto</kap>
+   <snc mrk="urb.0eto.ARKI">
+     <dif>
+       Tre granda vila&gcirc;o a&ubreve; tre malgranda <tld/>o:
+       <ekz>
+	 malgranda <tld/>eto kun ru&gcirc;aj tegmentoj sur la malaltaj
+	 domoj
+	 <fnt>
+	 <bib>Fab4</bib>, <lok>du fratoj</lok>
+	 </fnt>.
+       </ekz>
+     </dif>
+   </snc>
+  <trdgrp lng="bg">
+     <trd>&c_g;&c_r;&c_a;&c_d;&c_ch;&c_je;</trd>,
+     <trd>&c_m;&c_a;&c_l;&c_malmol;&c_k; <ind>&c_g;&c_r;&c_a;&c_d;</ind></trd>
+   </trdgrp>
+  <trd lng="ca">vila</trd>
+  <trdgrp lng="cs">
+    <trd>m&ecaron;ste&ccaron;ko</trd>,
+    <trd>m&ecaron;ste&ccaron;ko</trd>,
+    <trd>m&ecaron;stys</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+     <trd>St&auml;dtchen</trd>,
+     <trd>Kleinstadt</trd>
+   </trdgrp>
+  <trd lng="es">villa</trd>
+  <trd lng="fa">&a_q;&a_r;&f_y;&a_h;</trd>
+  <trd lng="fi">pikkukaupunki</trd>
+  <trdgrp lng="fr">
+     <trd>bourg</trd>,
+     <trd>petite ville</trd>
+   </trdgrp>
+  <trd lng="hu">kisv&aacute;ros</trd>
+  <trd lng="it">cittadina</trd>
+  <trd lng="nl">stadje</trd>
+  <trdgrp lng="ru">
+     <trd>&c_g;&c_o;&c_r;&c_o;&c_d;&c_o;&c_k;</trd>,
+     <trd>&c_m;&c_je;&c_s;&c_t;&c_je;&c_ch;&c_k;&c_o;</trd>
+   </trdgrp>
+  <trd lng="sk">meste&ccaron;ko</trd>
+  <trd lng="vo">zifil</trd>
+</drv>
+
+<drv mrk="urb.antaux0o">
+   <kap><ofc>*</ofc>anta&ubreve;<tld/>o</kap>
+   <snc mrk="urb.antaux0o.ARKI">
+     <uzo tip="fak">ARKI</uzo>
+     <dif>
+       Parto de <ref tip="malprt" cel="urb.0o.ARKI"><tld/>o</ref> ekster
+       la &ccirc;irka&ubreve;murego a&ubreve;
+       &ccirc;irka&ubreve;bulvardoj; ekstera parto de <tld/>o:
+       <ekz>
+	 komence <klr>....</klr> la elektron aran&gcirc;u, la akvon 
+donu al la
+	 anta&ubreve;<tld/>oj
+	 <fnt><bib>Metrop</bib></fnt>!
+       </ekz>
+     </dif>
+   </snc>
+   <trdgrp lng="be">
+     <trd>&c_p;&c_r;&c_a;&c_d;&c_m;&c_je;&c_s;&c_mol;&c_c;&c_je;</trd>,
+     <trd>&c_p;&c_r;&c_y;&c_g;&c_a;&c_r;&c_a;&c_d;</trd>
+   </trdgrp>
+   <trdgrp lng="ca">
+     <trd>suburbi</trd>,
+     <trd>raval</trd>
+   </trdgrp>
+   <trd lng="cs">p&rcaron;edm&ecaron;st&iacute;</trd>
+   <trd lng="de">Vorstadt</trd>
+   <trd lng="en">suburb</trd>
+   <trdgrp lng="es">
+     <trd>suburbio</trd>
+   </trdgrp>
+   <trd lng="fa">&a_H;&a_w;&a_m;&a_h;</trd>
+   <trdgrp lng="fi">
+     <trd>esikaupunki</trd>,
+     <trd>l&auml;hi&ouml;</trd>
+   </trdgrp>
+   <trdgrp lng="fr">
+     <trd>banlieue</trd>
+     <trd>faubourg</trd>
+     <trd>p&eacute;riph&eacute;rie<klr tip="ind"> (d'une ville)</klr></trd>
+   </trdgrp>
+   <trd lng="hu">el&odblac;v&aacute;ros</trd>
+   <trd lng="id">suburban</trd>
+   <trdgrp lng="it"><trd>sobborgo</trd>, <trd>suburbio</trd></trdgrp>
+   <trd lng="nl">voorstad</trd>
+   <trdgrp lng="ru">
+     <trd>&c_p;&c_r;&c_i;&c_g;&c_o;&c_r;&c_o;&c_d;</trd>,
+     <trd>&c_p;&c_r;&c_je;&c_d;&c_m;&c_je;&c_s;&c_t;&c_mol;&c_je;</trd>
+   </trdgrp>
+   <trd lng="sk">predmestie</trd>
+   <trd lng="pt">sub&uacute;rbio</trd>
+</drv>
+
+<drv mrk="urb.cxef0o">
+   <kap>&ccirc;ef<tld/>o</kap>
+   <snc mrk="urb.cxef0o.POL">
+     <uzo tip="fak">POL</uzo>
+     <dif>
+       <ref tip="super" cel="urb.0o.ARKI"><tld lit="U"/>o</ref>, en
+       kiu trovi&gcirc;as la registara sidejo de lando, &scirc;tato,
+       provinco a&ubreve; similtipaj teritorioj:
+       <ekz>
+         en la venonta jaro mi veturigos mian fileton al la
+         &ccirc;ef<tld/>o
+         <fnt><bib>Revizoro</bib>, <lok>akto 5a, sceno 7a</lok></fnt>;
+       </ekz>
+       <ekz>
+         Moskvo estas la &ccirc;ef<tld/>o de Rusujo.
+       </ekz>
+     </dif>
+   </snc>
+   <snc mrk="urb.cxef0o.FIG">
+   <uzo tip="stl">FIG</uzo>
+     <dif>
+       <ref tip="super" cel="urb.0o.ARKI"><tld lit="U"/>o</ref> pli
+       grava ol aliaj pro iu elstariga trajto:
+       <ekz>
+         ekonomia, arta, kultura &ccirc;ef<tld/>o.
+       </ekz>
+     </dif>
+   </snc>
+   <trd lng="be">&c_s;&c_t;&c_a;&c_l;&c_ib;&c_c;&c_a;</trd>
+   <trd lng="ca">capital</trd>
+   <trd lng="cs">hlavn&iacute; m&ecaron;sto</trd>
+   <trd lng="de">Hauptstadt</trd>
+   <trd 
+lng="el">&pi;&rho;&omega;&tau;&epsilon;&ypsilon_ton;&omikron;&ypsilon;&sigma;&alfa;</trd>
+   <trd lng="en">capital (city)</trd>
+   <trd lng="es">capital</trd>
+   <trd lng="fa">&f_p;&a_A;&f_y;&a_t;&a_kh;&a_t;</trd>
+   <trd lng="fi">p&auml;&auml;kaupunki</trd>
+   <trd lng="fr">capitale<klr tip="amb"> (ville)</klr></trd>
+   <trd lng="hu">f&odblac;v&aacute;ros</trd>
+   <trd lng="id"><ind>ibu</ind> kota</trd>
+   <trdgrp lng="it">
+     <trd>capoluogo</trd>, 
+     <trd>capitale</trd>
+   </trdgrp>
+   <trd lng="nl">hoofdstad</trd>
+   <trd lng="pt">capital</trd>
+   <trd lng="ru">&c_s;&c_t;&c_o;&c_l;&c_i;&c_c;&c_a;</trd>
+   <trd lng="tr">ba&scedil;kent</trd>
+   <trd lng="sv">huvudstad</trd>
+   <trd lng="sk">hlavn&eacute; mesto</trd>
+</drv>
+
+<drv mrk="urb.cxirkaux0o">
+   <kap>&ccirc;irka&ubreve;<tld/>o</kap>
+   <fnt><bib>PIV1</bib></fnt>
+   <snc mrk="urb.cxirkaux0o.ARKI">
+     <uzo tip="fak">ARKI</uzo>
+     <dif>
+       &Ccirc;iu el la <tld/>oj, situantaj en
+       &ccirc;irka&ubreve;a&jcirc;o de granda <tld/>o.
+     </dif>
+   </snc>
+   <trdgrp lng="ca">
+     <trd>afores</trd>,
+     <trd>extraradi</trd>
+   </trdgrp>
+   <trdgrp lng="es">
+     <trd>afueras</trd>,
+     <trd>extraradio</trd>
+   </trdgrp>
+   <trdgrp lng="fi">
+     <trd>ymp&auml;rist&ouml;kaupunki</trd>,
+     <trd>l&auml;hikaupunki</trd>
+   </trdgrp>
+   <trd lng="fr">ville de banlieue</trd>
+   <trd lng="hu">peremv&aacute;ros</trd>
+   <trd lng="it">periferia<klr> (urbana)</klr></trd>
+   <trd lng="pt">periferia</trd>
+   <trd lng="ru">&c_g;&c_o;&c_r;&c_o;&c_d;-
+&c_s;&c_p;&c_u;&c_t;&c_n;&c_i;&c_k;</trd>
+</drv>
+
+<drv mrk="urb.lad0o">
+   <kap>lad<tld/>o</kap>
+   <snc mrk="urb.lad0o.ARKI">
+     <uzo tip="fak">ARKI</uzo>
+     <dif>
+       <tld lit="U"/>oparto konstruita el rubmaterialoj, lo&gcirc;ata de
+       malri&ccirc;ularo:
+       <ekz>
+	 la surlokaj kuracistoj en la Karakasaj lad<tld/>oj jam plendas ke
+	 ili ne plu ricevas laboron
+	 <fnt>
+	 <aut>J. Galtung, trad. V. L.</aut>,
+	 <vrk><url
+	 ref="http://mas-eo.org/article.php3?id_article=89">Davoso
+	 a&ubreve; Portalegro</url></vrk>,
+	 <lok>Monda Asembleo Socia, 2006-03-31</lok>
+	 </fnt>
+       </ekz>
+     </dif>
+   </snc>
+   <trd lng="ca">barri de <ind>barracots</ind></trd>
+   <trd lng="de">Slum</trd>
+   <trd lng="en">slum</trd>
+   <trd lng="es">barrio de <ind>chabolas</ind></trd>
+   <trd lng="fa">&a_H;&a_l;&a_b;&f_y;&zwnj;&a_A_madda;&a_b;&a_A;&a_d;</trd>
+   <trd lng="fi">h&ouml;kkelikaupunki</trd>
+   <trd lng="fr">bidonville</trd>
+   <trd lng="hu">b&aacute;dogv&aacute;ros</trd>
+   <trdgrp lng="it">
+     <trd>baraccopoli</trd>, 
+     <trd>bidonville</trd>, 
+     <trd>slum</trd>
+   </trdgrp>
+</drv>
+
+<drv mrk="urb.naskigx0o">
+  <kap>naski&gcirc;<tld/>o</kap>
+  <snc mrk="urb.naskigx0o.KOMUNE">
+    <dif>
+      <tld lit="U"/>o en kiu iu a&ubreve; io naski&gcirc;is:
+      <ekz>
+        mia naski&gcirc;<tld/>o estas Vara&jcirc;din (Vara&zcaron;din)
+        <fnt>
+          <aut>Ratimir</aut>,
+          <vrk>Rat i Mir</vrk>,
+          <lok>en: Vivprotokoloj, 2009</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="es">ciudad natal</trd>
+  <trd lng="fr">ville natale</trd>
+</drv>
+</art>
+<!--
+$Log: urb.xml,v $
+Revision 1.55  2015/08/05 08:10:22  revo
+Guillermo Molleda Jimena: trd es
+
+Revision 1.54  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.53  2015/06/28 12:03:41  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.52  2015/06/26 07:10:18  revo
+Darcy Shen: +trd zh
+
+Revision 1.51  2015/02/26 19:10:38  revo
+Wolfram Diestel: Urbano: lst antaunomoj
+
+Revision 1.50  2015/01/10 06:11:00  revo
+Jeromo Vasxe: + naskigx~o
+
+Revision 1.49  2014/06/07 04:10:14  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.48  2014/05/08 18:10:55  revo
+-->
+</vortaro>

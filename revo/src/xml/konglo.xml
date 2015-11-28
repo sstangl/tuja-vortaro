@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: konglo.xml,v 1.18 2015/09/01 18:10:17 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>konglomerat</rad>/o <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="konglo.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="konglo.0o.MIN">
+    <uzo tip="fak">MIN</uzo>
+    <ref tip="dif" cel="konglomer.0ajxo.MIN">konglomera&jcirc;o</ref>
+    <ekz>
+      la&ubreve;longe de la montara piedo la sedimentoj estas grandparte 
+      <tld/>oj kaj kelkaj sablo&scirc;tonoj
+      <fnt>
+        <aut>J. M. Mabesoone</aut>,
+        <vrk><url
+        ref="http://www.repository.naturalis.nl/document/549662">
+        Tertiary and Quaternary Sedimentation in a Part of the 
+        Duero Basin Palencia (Spain)</url></vrk>,
+        <lok>[Leidse Geologische Mededelingen, 1959 (24), p. 
+        31a-180a]</lok>
+      </fnt>.
+    </ekz>
+    <trd lng="hu">konglomer&aacute;tum</trd>
+    <trdgrp lng="pl">
+      <trd>konglomerat</trd>,
+      <trd>zlepieniec</trd>,
+      <trd>zlepek</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="konglo.0o.FIG">
+    <dif>
+      Maso konsistanta el kunigitaj ne samspecaj partoj.
+    </dif>
+    <trdgrp lng="hu">
+      <trd>konglomer&aacute;tum</trd>,
+      <trd>halmaz <klr tip="ind"> (rendezetlen)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>konglomerat</trd>,
+      <trd>zlepek</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="be">&c_k;&c_a;&c_n;&c_g;&c_l;&c_ja;&c_m;&c_e;&c_r;&c_a;&c_t;</trd>
+  <trd lng="ca">conglomerat</trd>
+  <trdgrp lng="cs">
+    <trd>konglomerace</trd>,
+    <trd>konglomer&aacute;t</trd>,
+    <trd>slepenec</trd>,
+    <trd>sm&iacute;&scaron;enina</trd>
+  </trdgrp>
+  <trd lng="de">Konglomerat</trd>
+  <trd lng="en">conglomerate</trd>
+  <trd lng="es">conglomerado</trd>
+  <trdgrp lng="fa">
+    <trd>&a_j;&a_w;&a_sh;&a_s;&a_n;&f_g;</trd>,
+    <trd>&f_k;&a_damma;&a_n;&f_g;&a_kasra;&a_l;&a_damma_w;&a_m;&a_kasra;&a_r;&a_A;</trd>
+  </trdgrp>
+  <trd lng="fr">conglom&eacute;rat</trd>
+  <trd lng="nl">conglomeraat</trd>
+  <trd lng="pt">conglomerado</trd>
+  <trd lng="ru">&c_k;&c_o;&c_n;&c_g;&c_l;&c_o;&c_m;&c_je;&c_r;&c_a;&c_t;</trd>
+  <trdgrp lng="sk">
+    <trd>konglomer&aacute;t</trd>,
+    <trd>zlepenec</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: konglo.xml,v $
+Revision 1.18  2015/09/01 18:10:17  revo
+Jeromo Vasxe: + 1 ekz
+
+Revision 1.17  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.15  2013/04/15 11:10:27  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.14  2012/10/13 17:10:11  revo
+Jeromo Vasxe: ref dif, + trd fr
+
+Revision 1.13  2010/04/24 17:07:54  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.12  2006/12/13 17:30:32  revo
+Tulio Flores: +tr pt
+
+Revision 1.11  2005/04/10 16:33:52  revo
+Raul Salinas Monteagudo: +trd ca,es
+
+Revision 1.10  2003/04/23 16:31:19  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.9  2002/12/04 17:30:45  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.8  2001/10/14 08:47:45  revo
+Yury Finkel: +trd ru
+
+Revision 1.7  2001/04/01 16:10:50  revo
+Karlo Freeman: +trd=en
+
+Revision 1.6  2001/03/16 07:36:23  revo
+Paul Peeraerts: ald trd nl + shovis de en
+<drv>
+  Revision 1.5  2001/03/04 17:10:35  revo
+  Ulrich Fellmann: + 1 germ trd
+  
+  -->
+  </vortaro>

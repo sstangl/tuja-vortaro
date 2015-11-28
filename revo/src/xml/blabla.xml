@@ -1,0 +1,119 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: blabla.xml,v 1.13 2015/07/06 13:10:15 revo Exp $">
+<kap>
+<rad>blabla</rad>/i <fnt><bib>PIV2</bib></fnt>
+</kap>
+<drv mrk="blabla.0">
+  <kap><tld/></kap>
+  <uzo tip="stl">RAR</uzo>
+  <gra><vspec>sonimito</vspec></gra>
+  <snc mrk="blabla.0.SON">
+    <dif>
+      <ref tip="lst" cel="son.0o" lst="voko:sonoj">Sono</ref>
+      de rapida, abunda parolado:
+      <ekz>
+        jaroj da neglekto... <tld/>... krimo-ondo... <tld/>...
+        respondecas niaj anta&ubreve;uloj... bla...
+        <fnt>
+        <aut>M. A. Clerk</aut>,
+        <vrk>El taglibro de najbarino</vrk>,
+        <lok><url ref="">La Brita Esperantisto, 2002, numero
+        953a</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">blabla</trd>
+  <trd lng="hu">blabla</trd>
+  <trd lng="it">bla bla</trd>
+  <trd lng="nl">blabla</trd>
+  <trd lng="pl">paplanina</trd>
+</drv>
+
+<drv mrk="blabla.0i">
+  <kap><tld/>i</kap>
+  <uzo tip="stl">RAR</uzo>
+  <snc mrk="blabla.0i.SON">
+    <dif>
+      Abunde, tede <ref tip="vid" cel="babil.0i">babili</ref>:
+      <ekz>
+        la fakuloj fakscie <tld/>as sendecide
+        <fnt>
+        <aut>G. Neves</aut>,
+        <vrk>Zontukoj sen trukoj</vrk>,
+        <lok><url ref="http://periskope.blogspot.com/">Periskope</url>,
+        2003-10-01</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        vi <tld/>as kaj ne atentas, kion mi skribis
+        <fnt>
+        <aut>S. Hartwig</aut>,
+        <vrk>Legokapablo de suomoj</vrk>,
+        <lok>
+<url ref="http://groups.google.be/group/soc.culture.esperanto?hl=eo">
+        soc.culture.esperanto</url>, 2004-12-06</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="muel.vort0i.FIG">vortmueli</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>tlachat</trd>,
+    <trd>&zcaron;vanit</trd>
+  </trdgrp>
+  <trdgrp lng="fa">
+    <trd>&a_w;&a_r;&a_A;&a_j;&f_y; &f_k;&a_r;&a_d;&a_n;</trd>,
+    <trd>&f_p;&a_r;&f_ch;&a_A;&a_n;&f_g;&f_y; &f_k;&a_r;&a_d;&a_n;</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>blablater</trd>,
+    <trd>d&eacute;blat&eacute;rer</trd>,
+    <trd>jacasser<klr> (bavarder)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+  <trd>hablatyol</trd>,
+  <trd>s&uuml;ketel</trd>
+</trdgrp>
+  <trdgrp lng="it">
+    <trd>dilungarsi<klr> (parlare)</klr></trd>,
+    <trd>straparlare<klr> (essere logorroico)</klr></trd>,
+    <trd><ind>parlare</ind> troppo</trd>, 
+    <trd>essere <ind>logorroico</ind></trd>
+  </trdgrp>
+  <trd lng="nl"><ind>blabla</ind> verkopen</trd>
+  <trd lng="pl">papla&cacute;</trd>
+  <trd lng="sk">t&aacute;ra&tcaron;</trd>
+</drv>
+</art>
+<!--
+$Log: blabla.xml,v $
+Revision 1.13  2015/07/06 13:10:15  revo
+Damien Brucker: -eraro cxe ref
+
+Revision 1.12  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.11  2015/06/29 16:29:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.10  2013/10/15 20:10:20  revo
+Jeromo Vasxe: ref al lst sonoj
+
+Revision 1.9  2010/04/24 17:07:23  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.8  2009/09/17 16:30:27  revo
+Paul Peeraerts: +nl
+
+Revision 1.7  2009/03/23 17:30:49  revo
+Antonio Codazzi: +trd it
+
+Revision 1.6  2009/03/19 18:17:09  revo
+-->
+</vortaro>

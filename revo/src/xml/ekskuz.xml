@@ -1,0 +1,135 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: ekskuz.xml,v 1.21 2015/09/27 15:10:18 revo Exp $">
+<kap>
+  <rad>ekskuz</rad>/i
+</kap>
+<drv mrk="ekskuz.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      Prezenti motivon a&ubreve; pretekston por senkulpigi iun
+      a&ubreve; malpligravigi la ripro&ccirc;ata&jcirc;on:
+      <ekz>
+        <tld/>i sian foreston;
+      </ekz>
+      <ekz>
+        sin <tld/>i pri io.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="prav.0igi">pravigi</ref>
+  </snc>
+  <trd
+  lng="be">&c_a;&c_p;&c_r;&c_a;&c_w;&c_d;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trdgrp lng="ca">
+    <trd>excusar</trd>,
+    <trd>disculpar</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>omluvit</trd>,
+    <trd>ospravedlnit</trd>,
+    <trd>vysv&ecaron;tlit</trd>
+  </trdgrp>
+  <trd lng="de">entschuldigen</trd>
+  <trd lng="en">to excuse</trd>
+  <trd lng="es">excusar</trd>
+  <trd lng="fr">excuser</trd>
+  <trdgrp lng="hu">
+    <trd>kiment</trd>,
+    <trd>menteget</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>t&lstroke;umaczy&cacute;<klr> (kogo&sacute; z
+    czego&sacute;)</klr></trd>,
+    <trd>usprawiedliwia&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>excusar</trd>,
+    <trd>desculpar</trd>
+  </trdgrp>
+  <trd lng="ru">&c_o;&c_p;&c_r;&c_a;&c_v;&c_d;&c_a;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>ospravedlni&tcaron;</trd>,
+    <trd>vysvetli&tcaron;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="ekskuz.0o">
+  <kap><tld/>o</kap>
+  <snc>
+    <dif>
+      Motivo a&ubreve; preteksto por senkulpigi iun a&ubreve;
+      malpligravigi la
+      kulpon:
+      <ekz>
+        prezenti efektivan <tld/>on;
+      </ekz>
+      <ekz>
+        vi akceptu niajn <tld/>ojn.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="alibi.0o">alibio</ref>
+  </snc>
+  <trd
+  lng="be">&c_a;&c_p;&c_r;&c_a;&c_w;&c_d;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
+  <trdgrp lng="ca">
+    <trd>excusa</trd>,
+    <trd>subterfugi</trd>,
+    <trd>pretext</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>omluva</trd>,
+    <trd>v&yacute;mluva</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Entschuldigung</trd>,
+    <trd>Entschuldigungsgrund</trd>
+  </trdgrp>
+  <trd lng="en">excuse</trd>
+  <trdgrp lng="es">
+    <trd>excusa</trd>,
+    <trd>pretexto</trd>
+  </trdgrp>
+  <trd lng="fr">excuse</trd>
+  <trdgrp lng="hu">
+    <trd>ments&eacute;g</trd>,
+    <trd>indok<klr tip="ind"> (ments&eacute;g)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>wyt&lstroke;umaczenie</trd>,
+    <trd>usprawiedliwienie</trd>
+  </trdgrp>
+  <trd
+  lng="ru">&c_o;&c_p;&c_r;&c_a;&c_v;&c_d;&c_a;&c_n;&c_i;&c_je;</trd>
+  <trd lng="sk">ospravedlnenie</trd>
+</drv>
+</art>
+<!--
+$Log: ekskuz.xml,v $
+Revision 1.21  2015/09/27 15:10:18  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.20  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2011/12/03 17:10:15  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.17  2011/09/03 22:10:11  revo
+Carlos Garcia: +trd es
+
+Revision 1.16  2010/01/13 17:30:39  revo
+Sebastian Cyprych: +trd pl +ref alibi.
+
+Revision 1.15  2007/06/23 16:30:50  revo
+Tulio Flores: +tr pt
+
+Revision 1.14  2004/03/26 17:30:41  revo
+-->
+</vortaro>

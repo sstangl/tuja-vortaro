@@ -1,0 +1,318 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: inert.xml,v 1.23 2015/07/04 08:37:36 revo Exp $">
+<kap>
+  <ofc>4</ofc>
+  <rad>inert</rad>/a
+</kap>
+<drv mrk="inert.0a">
+  <kap><tld/>a</kap>
+  <snc>
+    <dif>
+      Ne havanta propran movon:
+      <ekz>
+        <tld/>a &scirc;tono, kadavro;
+      </ekz>
+      <ekz>
+        <tld/>a homo <fnt><bib>VdE</bib></fnt>
+        <klr>(senmova, kvaza&ubreve; senviva)</klr>.
+      </ekz>
+    </dif>
+    <trd lng="de">bewegungslos</trd>
+    <trdgrp lng="hu">
+      <trd>tehetetlen</trd>,
+      <trd>mozdulatlan</trd>
+    </trdgrp>
+    <trd lng="nl">bewegingsloos</trd>
+    <trd lng="ru">&c_i;&c_n;&c_je;&c_r;&c_t;&c_n;&c_y;&c_j;</trd>
+  </snc>
+  <snc mrk="inert.0a.KEM">
+    <uzo tip="fak">KEM</uzo>
+    <fnt><bib>PIV1</bib></fnt>
+    <dif>
+      Ne reaganta &hcirc;emie:
+      <ekz>
+        <ind><tld/>a gaso</ind>
+        <klr>(<ref tip="vid" cel="gas.nobla0o">nobla gaso</ref>)</klr>.
+        <trd lng="be">&c_ib;&c_n;&c_e;&c_r;&c_t;&c_n;&c_y; <ind>&c_g;&c_a;&c_z;</ind></trd>
+        <trdgrp lng="ca">
+          <trd><ind>gas</ind> noble</trd>,
+          <trd><ind>gas</ind> inert</trd>,
+          <trd><ind>gas</ind> rar</trd>
+        </trdgrp>
+        <trd lng="de">Edelgas</trd>
+        <trdgrp lng="en">
+          <trd>inert <ind>gas</ind></trd>,
+          <trd>noble <ind>gas</ind></trd>
+        </trdgrp>
+        <trdgrp lng="fr">
+          <trd>gaz rare</trd>,
+          <trd>gaz inerte</trd>
+          <trd>gaz noble</trd>
+        </trdgrp>
+        <trd lng="hu">nemesg&aacute;z</trd>
+        <trdgrp lng="it">
+          <trd>gas inerte</trd>,
+          <trd>gas nobile</trd>
+        </trdgrp>
+        <trd lng="nl">edelgas</trd>
+        <trd lng="pt">g&aacute;s nobre</trd>
+        <trd lng="ru">&c_i;&c_n;&c_je;&c_r;&c_t;&c_n;&c_y;&c_j; &c_g;&c_a;&c_z;</trd>
+      </ekz>
+    </dif>
+    <trdgrp lng="hu">
+      <trd>semleges k&eacute;mhat&aacute;s&uacute;</trd>,
+      <trd>vegyileg <ind>k&ouml;z&ouml;mb&ouml;s</ind></trd>
+    </trdgrp>
+  </snc>
+  <snc>
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Ne agema, ne havanta iniciatokapablon, senenergia:
+      <ekz>
+        <tld/>a spirito;
+      </ekz>
+      <ekz>
+        resti <tld/>a anta&ubreve; la dan&gcirc;ero;
+      </ekz>
+      <ekz>
+        <tld/>a (pasiva) kontra&ubreve;staro.
+      </ekz>
+    </dif>
+    <trd lng="de">tr&auml;ge</trd>
+    <trdgrp lng="hu">
+      <trd>tehetetlen</trd>,
+      <trd>tunya</trd>
+    </trdgrp>
+    <trdgrp lng="nl">
+      <trd>energieloos</trd>,
+      <trd>inert</trd>,
+      <trd>traag</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_i;&c_n;&c_je;&c_r;&c_t;&c_n;&c_y;&c_j;</trd>,
+      <trd>&c_k;&c_o;&c_s;&c_n;&c_y;&c_j;</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="be">&c_ib;&c_n;&c_e;&c_r;&c_t;&c_n;&c_y;</trd>
+  <trd lng="ca">inert</trd>
+  <trdgrp lng="cs">
+    <trd>inertní</trd>,
+    <trd>nereagující na nic</trd>,
+    <trd>netečný</trd>
+  </trdgrp>
+  <trd lng="en">inert</trd>
+  <trd lng="es">inerte</trd>
+  <trd lng="fr">inerte</trd>
+  <trd lng="it">inerte<klr tip="ind"> (agg.)</klr></trd>
+  <trd lng="pt">inerte</trd>
+  <trdgrp lng="sk">
+    <trd>nevšímavý</trd>,
+    <trd>ľahostajný</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="inert.0eco">
+  <kap><tld/>eco, <var><kap><tld/>o</kap></var></kap>
+  <snc mrk="inert.0eco.FIZ">
+    <uzo tip="fak">FIZ</uzo>
+    <fnt><bib>VdE</bib></fnt>
+    <dif>
+      Natura eco de la materio, la&ubreve; kiu korpo emas resti en la sama
+      stato de movo a&ubreve; senmovo kaj ne povas mem modifi tiun staton:
+      <ekz>
+        la <tld/>eco de korpo mezuri&gcirc;as per ties
+        <ref cel="mas.0o.FIZ">maso</ref>;
+      </ekz>
+      <ekz>
+        <ref cel="fort.inerto0o"><tld/>oforto</ref>;
+      </ekz>
+      <ekz>
+        <ref cel="rad.inerto0o"><tld/>orado</ref>.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="inerci.0o.FIZ">inercio <sncref/>.</ref>
+    <trd lng="fr">inertie<klr tip="ind"> (phys.)</klr></trd>
+    <trd lng="hu">tehetetlens&eacute;g</trd>
+    <trd lng="it">inerzia<klr tip="ind"> (fis.)</klr></trd>
+    <trd lng="ru">&c_i;&c_n;&c_je;&c_r;&c_c;&c_i;&c_ja;</trd>
+  </snc>
+  <snc mrk="inert.0eco.psika">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Manko de iniciato, neagemo, senenergieco:
+      <ekz>
+        al &ccirc;iuj admonoj li respondas per nevenkebla <tld/>eco.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="inerci.0o.psika">inercio <sncref/>;</ref>
+    <refgrp tip="vid">
+      <ref cel="apati.0o">apatio</ref>,
+      <ref cel="splen.0o">spleno</ref>,
+      <ref cel="marasm.0o">marasmo</ref>.
+    </refgrp>
+    <trdgrp lng="fr">
+      <trd>inertie</trd>,
+      <trd>apathie</trd>,
+      <trd>inaction</trd>,
+      <trd>l&eacute;thargie</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>tunyas&aacute;g</trd>,
+      <trd>tehetetlens&eacute;g</trd>
+    </trdgrp>
+    <trdgrp lng="it">
+      <trd>inerzia</trd>,
+      <trd>apatia</trd>,
+      <trd>inanit&agrave;</trd>,
+      <trd>inazione</trd>,
+      <trd>letargia</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_i;&c_n;&c_je;&c_r;&c_t;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>,
+      <trd>&c_k;&c_o;&c_s;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_ib;&c_n;&c_e;&c_r;&c_c;&c_y;&c_ja;</trd>,
+    <trd>&c_ib;&c_n;&c_e;&c_r;&c_t;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="ca">in&egrave;rcia</trd>
+  <trdgrp lng="cs">
+    <trd>nečinnost</trd>,
+    <trd>zkostnatělost</trd>
+  </trdgrp>
+  <trd lng="de">Tr&auml;gheit</trd>
+  <trd lng="en">inertia</trd>
+  <trd lng="es">inercia</trd>
+  <trd lng="nl">traagheid</trd>
+  <trd lng="pt">in&eacute;rcia</trd>
+  <trdgrp lng="sk">
+    <trd>apatia</trd>,
+    <trd>skostnatenosť</trd>,
+    <trd>ľahostajnosť</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="inert.0eca">
+  <kap><tld/>eca</kap>
+  <uzo tip="fak">FIZ</uzo>
+  <snc>
+    <dif>
+      Rilata al <ref cel="inert.0eco.FIZ"><tld/>eco <sncref/></ref>:
+      <ekz>
+        <ind><tld/>eca principo</ind> <klr>(korpo, submetata al eksteraj
+        fortoj, kies sumo estas nula, restas senmova a&ubreve; movi&gcirc;as
+        rektlinie kun konstanta rapido)</klr>;
+        <trd lng="ca">principi d'<ind>in&egrave;rcia</ind></trd>
+        <trd lng="fr">principe d'inertie</trd>
+        <trd lng="fr">principio d'inerzia</trd>
+      </ekz>
+      <ekz>
+        <ind><tld/>eca referenco-sistemo</ind> <klr>(tia
+        referenco-sistemo,
+        ke en &gcirc;i validas la <tld/>eca principo)</klr>;
+        <trd lng="ca">sistema de refer&egrave;ncia <ind>inercial</ind></trd>
+        <trdgrp lng="fr">
+          <trd>r&eacute;f&eacute;rentiel d'inertie</trd>,
+          <trd>r&eacute;f&eacute;rentiel inertiel</trd>
+        </trdgrp>
+        <trd lng="it">sistema di riferimento inerziale</trd>
+        <trd lng="ru">&c_i;&c_n;&c_je;&c_r;&c_c;&c_i;&c_a;&c_l;&c_mol;&c_n;&c_a;&c_ja; &c_s;&c_i;&c_s;&c_t;&c_je;&c_m;&c_a;
+        &c_o;&c_t;&c_s;&c_ch;&c_jo;&c_t;&c_a;</trd>
+      </ekz>
+      <ekz>
+        <ind><tld/>eca forto</ind>
+        <fnt><bib>PV</bib><lok>alia difino</lok></fnt>
+        <klr>(forto, kiun necesas aldoni al la
+        eksteraj fortoj, por ke la <tld/>eca principo &scirc;ajnu
+        apliki&gcirc;i anka&ubreve; en la ne<tld/>ecaj
+        referenco-sistemoj; ekz-e <ref
+        cel="centri.0a.FIZ">centrifuga</ref>
+        forto)</klr>.
+        <trd lng="be">&c_s;&c_ib;&c_l;&c_a; <ind>&c_ib;&c_n;&c_e;&c_r;&c_c;&c_y;&c_ib;</ind></trd>
+        <trd lng="ca">for&ccedil;a <ind>inercial</ind></trd>
+        <trd lng="de">Tr&auml;gheitskraft</trd>
+        <trd lng="es">fuerza de <ind>inercia</ind></trd>
+        <trd lng="fr">force d'inertie</trd>
+        <trdgrp lng="hu">
+          <trd>tehetetlens&eacute;gi er&odblac;</trd>,
+          <trd>t&ouml;meger&odblac;</trd>
+        </trdgrp>
+        <trdgrp lng="it">
+          <trd>forza apparente</trd>,  
+          <trd>forza inerziale</trd>,
+          <trd>forza fittizia</trd>
+        </trdgrp>
+        <trd lng="nl">inertie</trd>
+        <trdgrp lng="ru">
+          <trd>&c_s;&c_i;&c_l;&c_a; <ind>&c_i;&c_n;&c_je;&c_r;&c_c;&c_i;&c_i;</ind></trd>
+        </trdgrp>
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="inerci.0a">inercia</ref>,
+      <ref cel="inerci.0uma">inerciuma</ref>.
+    </refgrp>
+  </snc>
+  <adm>
+    La terminon "referenco-sistemo" restas por difini aux por
+    anstatauxigi per io pli konvena. Mi prenis gxin en PIV2,
+    artikolo "inerciuma", sed trovis difinon nek sub "sistemo",
+    nek sub "referenco".
+    <aut>MB</aut>
+  </adm>
+  <trd lng="be">&c_ib;&c_n;&c_e;&c_r;&c_c;&c_y;&c_ja;&c_l;&c_mol;&c_n;&c_y;</trd>
+  <trd lng="ca">inercial</trd>
+  <trd lng="en">inertial</trd>
+  <trdgrp lng="fr">
+    <trd>d'<ind>inertie</ind></trd>,
+    <trd>inertiel</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>tehetetlens&eacute;gi</trd>,
+    <trd>inerci&aacute;lis</trd>
+  </trdgrp>
+  <trd lng="it">inerziale</trd>
+  <trd lng="pt">inercial</trd>
+  <trdgrp lng="ru">
+    <trd>&c_i;&c_n;&c_je;&c_r;&c_c;&c_i;&c_a;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>,
+    <trd>&c_i;&c_n;&c_je;&c_r;&c_c;&c_i;&c_o;&c_n;&c_n;&c_y;&c_j;</trd>
+  </trdgrp>
+</drv>
+
+</art>
+<!--
+$Log: inert.xml,v $
+Revision 1.23  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.22  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.21  2012/10/23 00:11:49  revo
+Neil Roberts: aldonu la etikedon <var>
+
+Revision 1.20  2012/08/26 12:10:17  revo
+Marc Rausell: + trd ca
+
+Revision 1.19  2011/08/28 10:10:07  revo
+Fabio Bettani: +trd it
+
+Revision 1.18  2009/02/15 14:18:23  revo
+Russ Williams: +trd en
+
+Revision 1.17  2005/11/01 17:32:13  revo
+Luiz Portella: +trd pt
+
+Revision 1.16  2005/05/18 16:31:14  revo
+Yury Finkel: +trd ru
+
+Revision 1.15  2004/07/08 17:05:29  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.14  2004/01/21 19:01:34  revo
+-->
+</vortaro>

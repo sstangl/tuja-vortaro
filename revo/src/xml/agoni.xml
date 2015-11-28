@@ -1,0 +1,158 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: agoni.xml,v 1.25 2015/07/04 08:37:29 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>agoni</rad>/o
+</kap>
+<drv mrk="agoni.0o">
+  <kap><tld/>o</kap>
+  <snc>
+    <dif>
+      Dolora lasta batalo de mortanto kontra&ubreve; la morto.
+    </dif>
+  </snc>
+  <trd lng="be">&c_a;&c_g;&c_o;&c_n;&c_ib;&c_ja;</trd>
+  <trdgrp lng="cs">
+    <trd>agónie</trd>,
+    <trd>poslední tažení</trd>,
+    <trd>smrtelný zápas</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+     <trd>Agonie</trd>,
+     <trd>Todeskampf</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+     <trd>agony</trd>,
+     <trd>death throes</trd>
+  </trdgrp>
+  <trd lng="es">agon&iacute;a</trd>
+  <trd lng="fr">agonie</trd>
+  <trdgrp lng="hu">
+    <trd>haldokl&aacute;s</trd>,
+    <trd>ag&oacute;nia</trd>
+  </trdgrp>
+  <trd lng="it">agonia</trd>
+  <trd lng="nl">doodsstrijd</trd>
+  <trd lng="pl">agonia</trd>
+  <trd lng="pt">agonia</trd>
+  <trd lng="ru">&c_a;&c_g;&c_o;&c_n;&c_i;&c_ja;</trd>
+  <trdgrp lng="sk">
+    <trd>ag&oacute;nia</trd>,
+    <trd>agónia</trd>,
+    <trd>dokonávanie</trd>,
+    <trd>smrteľný zápas</trd>
+  </trdgrp>
+  <trd lng="tr">can &ccedil;eki&scedil;me</trd>
+</drv>
+
+<drv mrk="agoni.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc>
+    <dif>
+      Esti tuj mortonta:
+      <ekz>
+        ... saturis la kreska&jcirc;ojn jam <tld/>antajn de
+        l'soifo
+        <fnt><bib>Far1</bib>, <lok>&ccirc;ap. 5</lok></fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd><klr>in </klr>Agonie <ind>liegen</ind></trd>,
+      <trd><klr>im </klr>Todeskampf <ind>liegen</ind></trd>,
+      <trd><klr>mit dem </klr>Tode <ind>ringen</ind></trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>be dying</trd>,
+      <trd>suffer the throes of death</trd>
+    </trdgrp>
+    <trd lng="fr">agoniser</trd>
+    <trdgrp lng="hu">
+      <trd>haldoklik</trd>,
+      <trd>agoniz&aacute;l</trd>
+    </trdgrp>
+    <trd lng="tr">can &ccedil;eki&scedil;mek</trd>
+  </snc>
+  <snc>
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Esti tuj fini&gcirc;onta:
+      <ekz>
+        la tago <tld/>is;
+      </ekz>
+      <ekz>
+        tiu brila epoko <tld/>as.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="kaduk.0a">kaduka</ref>,
+      <ref cel="krepus.0o">krepusko</ref>,
+      <ref cel="auxtun.0o">a&ubreve;tuno</ref>.
+    </refgrp>
+    <trdgrp lng="fr">
+      <trd>d&eacute;cliner</trd>,
+      <trd>agoniser</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd><klr>in den </klr>letzten <ind>Z&uuml;gen liegen</ind></trd>,
+      <trd><klr>am </klr>Ende <ind>sein</ind></trd>,
+      <trd><klr>dem </klr>Untergang <ind>geweiht sein</ind></trd>,
+      <trd><klr>seine </klr>Zeit <ind>hinter sich haben</ind></trd>
+    </trdgrp>
+    <trd lng="hu">v&eacute;g&eacute;t j&aacute;rja</trd>
+  </snc>
+  <trd lng="kek">aakanak</trd>
+  <trd lng="be">&c_a;&c_g;&c_a;&c_n;&c_ib;&c_z;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>být v agonii</trd>,
+    <trd>zápasit se smrtí</trd>
+  </trdgrp>
+  <trd lng="es">agonizar</trd>
+  <trd lng="it">agonizzare</trd>
+  <trd lng="nl">zieltogen</trd>
+  <trd lng="pl">kona&cacute;</trd>
+  <trd lng="pt">agonizar</trd>
+  <trd lng="ro">a agoniza</trd>
+  <trd lng="ru">&c_a;&c_g;&c_o;&c_n;&c_i;&c_z;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>byť v agónii</trd>,
+    <trd>skonávať</trd>,
+    <trd>umierať</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: agoni.xml,v $
+Revision 1.25  2015/07/04 08:37:29  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.24  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.23  2011/11/18 11:10:10  revo
+Antonio Codazzi: + trd it
+
+Revision 1.22  2011/11/07 00:10:14  revo
+ Anchise Inzaghi: traduko q'eqchi'
+
+Revision 1.21  2009/08/25 16:32:41  revo
+Emmanuel Debanne: +trd tr
+
+Revision 1.20  2008/12/11 17:30:46  revo
+Russ Williams: +trd en
+
+Revision 1.19  2006/02/17 17:32:02  revo
+Vito Redsky: +trd pl +trd ro
+
+Revision 1.18  2003/10/30 17:31:38  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.17  2003/02/04 17:31:30  revo
+Ulrich Fellmann: ort kor en 1 trd = de
+
+Revision 1.16  2003/02/03 17:31:39  revo
+-->
+</vortaro>

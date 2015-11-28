@@ -1,0 +1,131 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: patrol.xml,v 1.18 2015/07/04 08:37:41 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>patrol</rad>/o
+</kap>
+<drv mrk="patrol.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="patrol.0o.MIL">
+    <dif>
+      Malgranda ta&ccirc;mento da soldatoj a&ubreve; policistoj garde 
+      rondiranta.
+      <ekz>
+        nun li staras en policejo, post kiam <tld/>o arestis lin pro 
+        seksatenco en apuda parko
+        <fnt><aut>Louis Beaucaire</aut>, <vrk>Kruko kaj Baniko el 
+        Bervalo</vrk>, <lok>1970</lok></fnt>.
+      </ekz>
+    </dif>
+  <trd lng="be">&c_p;&c_a;&c_t;&c_r;&c_u;&c_l;&c_mol;</trd>
+  <trd lng="bg">&c_p;&c_a;&c_t;&c_r;&c_u;&c_l;</trd>
+  <trdgrp lng="de">
+    <trd>Patrouille</trd>,
+    <trd>Streife</trd>
+  </trdgrp>
+  <trd lng="en">patrol</trd>
+  <trd lng="hu">&odblac;rj&aacute;rat</trd>
+  <trd lng="nl">patrouille</trd>
+  <trd lng="pl">patrol</trd>
+  <trd lng="pt">patrulha</trd>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_a;&c_t;&c_r;&c_u;&c_l;&c_mol;</trd>,
+    <trd>&c_d;&c_o;&c_z;&c_o;&c_r;</trd>
+  </trdgrp>
+  </snc>
+  <snc mrk="patrol.0o.PED">
+    <dif>
+      Grupo da skoltoj.
+    </dif>
+  <trd lng="de">Sippe</trd>
+  <trd lng="en">patrol</trd>
+  <trd lng="fr">patrouille</trd>
+  <trd lng="it">squadriglia</trd>
+  <trdgrp lng="nl">
+    <trd>patrouille<klr> (m)</klr></trd>,
+    <trd>ronde<klr> (f)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>zast&eogonek;p<klr> (w harcerstwie)</klr></trd>,
+    <trd>patrol<klr> (w harcerstwie)</klr></trd>
+  </trdgrp>
+  <trd lng="pt">patrulha</trd>
+  </snc>
+  <trd lng="cs">průzkumná hlídka</trd>
+  <trd lng="es">patrulla</trd>
+  <trd lng="sk">prieskumná hliadka</trd>
+</drv>
+
+<drv mrk="patrol.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="patrol.0i.MIL">
+    <dif>
+      Iri <tld/>e.
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_t;&c_r;&c_u;&c_l;&c_ja;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="bg">&c_p;&c_a;&c_t;&c_r;&c_u;&c_l;&c_i;&c_r;&c_a;&c_m;</trd>
+  <trdgrp lng="cs">
+    <trd>hlídkovat</trd>,
+    <trd>konat hlídku</trd>,
+    <trd>patrolovat</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>patrouillieren</trd>,
+    <trd>auf <ind>Streife</ind> sein</trd>
+  </trdgrp>
+  <trd lng="en">patrol</trd>
+  <trd lng="es">patrullar</trd>
+  <trd lng="fr">patrouiller</trd>
+  <trd lng="hu">&odblac;rj&aacute;ratozik</trd>
+  <trd lng="nl">patrouilleren</trd>
+  <trd lng="pl">patrolowa&cacute;</trd>
+  <trdgrp lng="ru">
+    <trd>
+    &c_p;&c_a;&c_t;&c_r;&c_u;&c_l;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;
+    </trd>,
+    <trd>&c_o;&c_b;&c_h;&c_o;&c_d;&c_i;&c_t;&c_mol; 
+    <ind>&c_d;&c_o;&c_z;&c_o;&c_r;&c_o;&c_m;</ind></trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>hliadkovať</trd>,
+    <trd>patrolovať</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: patrol.xml,v $
+Revision 1.18  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:40:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.16  2013/07/26 09:10:11  revo
+Joop Eggen: +trd bg
+
+Revision 1.15  2010/08/30 16:30:16  revo
+Agustin Garcia Lopez: +trd es
+
+Revision 1.14  2009/05/27 16:31:06  revo
+Russ Williams: +trd en
+
+Revision 1.13  2007/11/05 17:30:23  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.12  2006/07/12 16:31:00  revo
+Jeromo Vasxe: subsnc -> snc, + 1 ekz, + 1 trd fr
+
+Revision 1.11  2006/07/04 16:32:32  revo
+Sebastian Cyprych: +subsnc patrol.0o.PED +trd de,en,es,fr,it,nl,pt,pl
+
+Revision 1.10  2006/02/25 17:33:50  revo
+Tulio Flores: +tr pt
+
+Revision 1.9  2003/07/17 16:33:10  revo
+-->
+</vortaro>

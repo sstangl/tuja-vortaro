@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: magnetoskop.xml,v 1.4 2015/07/04 08:37:39 revo Exp $">
+<kap>
+  <rad>magnetoskop</rad>/o <fnt><bib>PIV2</bib></fnt>
+</kap>
+<drv mrk="magnetoskop.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="magnetoskop.0o.KIN">
+    <uzo tip="fak">KIN</uzo>
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      <ref tip="super" cel="regist.vide0ilo.KIN">Videregistrilo</ref>
+      konservanta en magneta formo datumojn de sonoj kaj bildoj;
+      videobendregistrilo:
+      <ekz>
+        estis &scirc;telitaj du bicikloj <klr>...</klr> la magnetoskopo kaj
+        mia
+        malnova radiokased<klr>il</klr>o
+        <fnt>
+          <aut>M. Corobu</aut>,
+          <vrk>jen mi</vrk>,
+          <lok>soc.culture.esperanto, 2004-08-05</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>magnetoskop</trd>,
+    <trd>videorekordér</trd>
+  </trdgrp>
+  <trd lng="fr">magn&eacute;toscope</trd>
+  <trdgrp lng="sk">
+    <trd>magnetoskop</trd>,
+    <trd>videorekordér</trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log: magnetoskop.xml,v $
+Revision 1.4  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.3  2015/06/29 16:33:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.2  2010/12/02 17:31:19  revo
+Jeromo Vasxe: + ekz
+
+Revision 1.1  2010/11/25 17:30:32  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

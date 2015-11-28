@@ -1,0 +1,116 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: artile.xml,v 1.18 2015/07/04 08:37:30 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>artileri</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="artile.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="artile.0o.MIL_armiloj">
+    <uzo tip="fak">MIL</uzo>
+    <dif>
+      Diversaj <ref tip="prt" cel="paf.0ilego">pafilegoj</ref>
+      kaj negrandaj raketoj servantaj por la milito:
+      <ekz>
+        armeo abunde provizita per <tld/>o.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="artile.0o.MIL_trupo">
+    <uzo tip="fak">MIL</uzo>
+    <dif>
+      Speciala parto de armeo, provizita je <tld/>aj pecoj kaj
+      priservanta ilin:
+      <ekz>
+        baterio de <tld/>o;
+      </ekz>
+      <ekz>
+        mia <tld/>o premplatigos vin!
+        <fnt>
+          <aut>trad. senlime</aut>,
+          <vrk><url ref="http://www.senlime.be/Kino/Diktator.htm">
+          La Granda Diktatoro</url></vrk>,
+          <lok>2005</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_a;&c_r;&c_t;&c_y;&c_l;&c_je;&c_r;&c_y;&c_ja;</trd>
+  <trd lng="ca">artilleria</trd>
+  <trdgrp lng="cs">
+    <trd>artilerie</trd>,
+    <trd>dělostřelectvo</trd>
+  </trdgrp>
+  <trd lng="de">Artillerie</trd>
+  <trd lng="en">artillery</trd>
+  <trd lng="es">artiller&iacute;a</trd>
+  <trd lng="fr">artillerie</trd>
+  <trd lng="it">artiglieria</trd>
+  <trd lng="ru">&c_a;&c_r;&c_t;&c_i;&c_l;&c_l;&c_je;&c_r;&c_i;&c_ja;</trd>
+  <trdgrp lng="sk">
+    <trd>artil&eacute;ria</trd>,
+    <trd>delostrelectvo</trd>
+  </trdgrp>
+  <trd lng="sv">artilleri</trd>
+</drv>
+
+<drv mrk="artile.0ano">
+  <kap><tld/>ano, <var><kap><tld/>isto</kap></var></kap>
+  <snc mrk="artile.0ano.MIL">
+    <uzo tip="fak">MIL</uzo>
+    <dif>
+      <tld/>a soldato.
+    </dif>
+  </snc>
+  <trd lng="be">&c_a;&c_r;&c_t;&c_y;&c_l;&c_je;&c_r;&c_y;&c_s;&c_t;</trd>
+  <trd lng="ca">artiller</trd>
+  <trdgrp lng="cs">
+    <trd>artilerista</trd>,
+    <trd>dělostřelec</trd>
+  </trdgrp>
+  <trd lng="de">Artillerist</trd>
+  <trd lng="en">artilleryman</trd>
+  <trd lng="es">artillero</trd>
+  <trd lng="fr">artilleur</trd>
+  <trd lng="it">artiglieriere</trd>
+  <trd lng="ru">&c_a;&c_r;&c_t;&c_i;&c_l;&c_l;&c_je;&c_r;&c_i;&c_s;&c_t;</trd>
+  <trd lng="sk">delostrelec</trd>
+  <trd lng="sv">artillerist</trd>
+</drv>
+</art>
+<!--
+$Log: artile.xml,v $
+Revision 1.18  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/28 12:03:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.16  2012/08/03 08:10:21  revo
+Marc Rausell: + trd ca
+
+Revision 1.15  2012/05/12 00:10:12  revo
+Jeromo Vasxe: + fak mil + ekz
+
+Revision 1.14  2012/02/03 01:10:14  revo
+Antonio Codazzi: +trd it
+
+Revision 1.13  2007/05/22 16:31:04  revo
+Wieland Pusch: +trd de
+
+Revision 1.12  2004/09/06 16:39:13  revo
+Viliam Bur: +trd sk
+
+Revision 1.11  2003/11/12 17:30:46  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.10  2002/10/29 18:01:57  revo
+Christopher Zervic: + ang
+
+Revision 1.9  2002/05/15 16:41:01  revo
+-->
+</vortaro>

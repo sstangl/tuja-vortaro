@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: akonit.xml,v 1.23 2013/11/11 20:10:21 revo Exp $">
+<kap>
+  <rad>akonit</rad>/o
+  <fnt>Z</fnt>
+</kap>
+<drv mrk="akonit.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">BOT</uzo>
+  <snc>
+    <dif>
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:botanikaj_genroj">Genro</ref> el familio <ref
+      tip="malprt"
+      cel="ranunk1.0oj">ranunkolacoj</ref>
+      (<trd lng="la">Aconitum</trd>); tre venena 
+      <ref tip="lst" cel="herb.0o.BOT"
+      lst="voko:ranunkoloparencoj">herbo</ref> 
+      kun bluaj, flavaj a&ubreve; blankaj kaskoformaj floroj kaj
+      alterne a&ubreve; baze sidantaj ordinare manforme dividitaj folioj.
+    </dif>
+  </snc>
+  <trd lng="be">&c_a;&c_k;&c_a;&c_n;&c_ib;&c_t;</trd>
+  <trd lng="de">Eisenhut</trd>
+  <trdgrp lng="en">
+    <trd>aconite</trd>,
+    <trd>friars's caps</trd>,
+    <trd>monk's hood</trd>,
+    <trd>wolf's bane</trd>
+  </trdgrp>
+  <trd lng="fr">aconit</trd>
+  <trdgrp lng="hu">
+    <trd>farkasgy&ouml;k&eacute;r</trd>,
+    <trd>sisakvir&aacute;g</trd>
+  </trdgrp>
+  <trd lng="nl">akoniet</trd>
+  <trd lng="pt">ac&ocirc;nito</trd>
+  <trdgrp lng="ru">
+    <trd>&c_a;&c_k;&c_o;&c_n;&c_i;&c_t;</trd>,
+    <trd>&c_b;&c_o;&c_r;&c_je;&c_c; <klr tip="amb">(&c_r;&c_a;&c_s;&c_t;&c_je;&c_n;&c_i;&c_je;)</klr></trd>
+  </trdgrp>
+  <trd lng="sv">stormhatt</trd>
+</drv>
+</art>
+<!--
+$Log: akonit.xml,v $
+Revision 1.23  2013/11/11 20:10:21  revo
+Wolfram Diestel: prilaboris dif, ref al ranunkoloparencoj
+
+Revision 1.22  2013/08/30 14:10:33  revo
+Wolfram Diestel: kor. lst-ref
+
+Revision 1.21  2013/08/29 07:10:19  revo
+Wolfram Diestel: referenco al listo bot genroj
+
+Revision 1.20  2004/05/18 16:32:03  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.19  2002/02/15 17:35:15  revo
+Yury Finkel: kor trd ru
+
+Revision 1.18 2001/08/28 18:12:23 revo
+Jozefo Horvath: +trd hu
+
+Revision 1.17 2001/07/30 18:12:51 revo
+Paul Peeraerts: ald trd nl
+
+Revision 1.16 2001/07/22 18:15:14 revo
+-->
+</vortaro>

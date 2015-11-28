@@ -1,0 +1,146 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: bus.xml,v 1.24 2015/07/04 08:37:31 revo Exp $">
+<kap>
+  <rad>bus</rad>/o
+</kap>
+<drv mrk="bus.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="bus.0o.AUT">
+    <uzo tip="fak">AUT</uzo>
+    <ref tip="dif" cel="auxtob1.0o">a&ubreve;tobuso</ref>
+    <ekz>
+      la <tld/>o komencos sian veturon, kiam enestos sufi&ccirc;e da
+      pasa&gcirc;eroj
+      <fnt>
+      <aut>Donald Broadribb</aut>,
+      <vrk>Afrikanoj vidataj deekstere</vrk>,
+      <bib>Monato</bib>,
+      <lok>jaro 2002a, numero 3a, p. 24a</lok>
+      </fnt>.
+    </ekz>
+  </snc>
+  <trd lng="be">&c_a;&c_w;&c_t;&c_o;&c_b;&c_u;&c_s;</trd>
+  <trd lng="bg">&c_a;&c_v;&c_t;&c_o;&c_b;&c_u;&c_s;</trd>
+  <trd lng="ca">autob&uacute;s</trd>
+  <trdgrp lng="cs">
+    <trd>autobus</trd>,
+    <trd>autokar</trd>,
+    <trd>bus</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Bus</trd>,
+    <trd>Omnibus</trd>
+  </trdgrp>
+  <trd lng="en">bus</trd>
+  <trdgrp lng="es">
+    <trd>cami&oacute;n</trd>,
+    <trd>autob&uacute;s</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>bus</trd>,
+    <trd>autobus</trd>
+  </trdgrp>
+  <trd lng="he">&alef;&vav;&tet;&vav;&bet;&vav;&samekh;</trd>
+  <trd lng="hu">busz</trd>
+  <trd lng="id">bus</trd>
+  <trdgrp lng="it">
+    <trd>autobus</trd>,
+    <trd>bus</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>bus</trd>,
+    <trd>autobus</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>bus</trd>,
+    <trd>autobus</trd>
+  </trdgrp>
+  <trd lng="pt">&ocirc;nibus</trd>
+  <trd lng="ru">&c_a;&c_v;&c_t;&c_o;&c_b;&c_u;&c_s;</trd>
+  <trdgrp lng="sk">
+    <trd>autobus</trd>,
+    <trd>zbernica</trd>
+  </trdgrp>
+  <trd lng="sv">buss</trd>
+</drv>
+
+<drv mrk="bus.trole0o">
+  <kap>trole<tld/>o</kap>
+  <snc mrk="bus.trole0o.AUT">
+    <uzo tip="fak">AUT</uzo>
+    <dif>
+      Elektra buso, kiu kurenton ricevas per surtegmentaj stangoj
+      (troleo):
+      <ekz>
+        inter la vetkurantaj reflektoroj aperis la okuloj de la
+        trole<tld/>o
+        <fnt>
+        <aut>Pavel Stan&ccirc;ev, trad. Vedi</aut>,
+        <vrk><url ref=
+"http://donh.best.vwh.net/Esperanto/Literaturo/Noveloj/kolora_knabino.
+html">
+        La kolora knabino</url></vrk>,
+        <lok>Paco, 1989-2, p. 8a-9a</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        La unua trole<tld/>o veturis en 1882 en Berlino
+        <fnt>
+        <bib>Viki</bib>, 
+        <lok>artikolo &leftquot;trolebuso&rightquot;, 2005-10-19</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="super">
+      <ref cel="auxtob1.0o.AUT">a&ubreve;tobuso</ref>
+    </refgrp>
+  </snc>
+  <trd lng="bg">&c_t;&c_r;&c_o;&c_l;&c_je;&c_j;&c_b;&c_u;&c_s;</trd>
+  <trd lng="ca">troleib&uacute;s</trd>
+  <trd lng="cs">trolejbus</trd>
+  <trdgrp lng="de">
+    <trd>Oberleitungsbus</trd>,
+    <trd>Trolleybus</trd>
+  </trdgrp>
+  <trd lng="en">trolley bus</trd>
+  <trd lng="fr">trolleybus</trd>
+  <trd lng="it">filobus</trd>
+  <trd lng="pl">trolejbus</trd>
+  <trd lng="sk">trolejbus</trd>
+</drv>
+</art>
+<!--
+$Log: bus.xml,v $
+Revision 1.24  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.23  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.22  2014/06/03 15:10:31  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.21  2011/12/05 23:10:22  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.20  2010/05/17 16:30:30  revo
+Antonio Codazzi: +tr it
+
+Revision 1.19  2010/03/12 17:30:15  revo
+Wieland Pusch: +trd bg,de
+
+Revision 1.18  2010/03/11 17:30:18  revo
+ Evandro Avellar: kor. trd pt
+
+Revision 1.17  2010/02/25 17:30:17  revo
+Orlando de Oliveira: +trd fr pt
+
+Revision 1.16  2010/01/14 18:27:21  revo
+Russ Williams: +trd en
+
+Revision 1.15  2008/05/09 19:11:16  revo
+-->
+</vortaro>

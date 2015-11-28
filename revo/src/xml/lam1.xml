@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: lam1.xml,v 1.23 2013/12/16 16:10:11 revo Exp $">
+<kap>
+<rad>lam</rad>/o
+<fnt>Z</fnt>
+</kap>
+<drv mrk="lam1.0o">
+  <kap>
+  <tld/>o
+  </kap>
+  <uzo tip="fak">ZOO</uzo>
+  <snc>
+    <dif>
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:zoologiaj_genroj">Genro</ref> el familio <ref
+      tip="malprt" cel="kameled.0oj">kameledoj
+      </ref> (<trd lng="la">Lama</trd>), vivanta en Sudameriko:
+      <ekz>
+        la <ind>vikunja <tld/>o</ind> vivas en la altaj regionoj de
+        Andoj;
+        <trd lng="la">Lama vicugna</trd>
+        <trd lng="bg">&c_v;&c_i;&c_k;&c_u;&c_n;&c_ja;</trd>
+        <trd lng="de">Vikugna</trd>
+        <trd lng="es">vicu&ntilde;a</trd>
+        <trd lng="hu">vikunyna</trd>
+        <trd lng="nl">vicu&ntilde;a</trd>
+      </ekz>
+      <ekz>
+        la <ref tip="sub" cel="alpak.0o">alpako</ref> estas
+        hejma varia&jcirc;o de la <ind>guanaka <tld/>o</ind>.
+        <trd lng="la">Lama guanicoe</trd>
+        <trd lng="bg">&c_g;&c_u;&c_a;&c_n;&c_a;&c_k;&c_o;</trd>
+        <trd lng="de">Guanako</trd>
+        <trd lng="es">guanaco</trd>
+        <trd lng="hu">guanako</trd>
+        <trd lng="nl">guanaco</trd>
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_l;&c_a;&c_m;&c_a; <klr tip="amb">(&c_zh;&c_y;&c_v;&c_jo;&c_l;&c_a;)</klr></trd>
+  <trd lng="bg">&c_l;&c_a;&c_m;&c_a; <klr tip="amb">(&c_zh;&c_i;&c_v;&c_o;&c_t;&c_n;&c_o;)</klr></trd>
+  <trd lng="de">Lama</trd>
+  <trd lng="en">llama</trd>
+  <trd lng="es">llama</trd>
+  <trd lng="fr">lama</trd>
+  <trd lng="hu">l&aacute;ma</trd>
+  <trd lng="nl">lama</trd>
+  <trd lng="pl">lama</trd>
+  <trdgrp lng="pt">
+    <trd>lhama</trd>,
+    <trd>lama <klr tip="amb">(zool.)</klr></trd>
+  </trdgrp>
+  <trd lng="ru">&c_l;&c_a;&c_m;&c_a;
+  <klr>(&c_zh;&c_i;&c_v;&c_o;&c_t;&c_n;&c_o;&c_je;)</klr></trd>
+</drv>
+</art>
+<!--
+$Log: lam1.xml,v $
+Revision 1.23  2013/12/16 16:10:11  revo
+Joop Eggen: +trd bg
+
+Revision 1.22  2013/09/08 10:10:11  revo
+Wolfram Diestel: forigis ofc *
+
+Revision 1.21  2013/09/01 15:10:55  revo
+Wolfram Diestel: referenco al listo zoo genroj
+
+Revision 1.20  2009/09/22 17:18:02  revo
+Paul Peeraerts: +nl
+
+Revision 1.19  2008/05/09 19:11:30  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.18  2008/03/28 17:30:29  revo
+Wieland Pusch: +trd bg
+
+Revision 1.17  2006/08/25 14:12:17  revo
+Tulio Flores: +tr pt
+
+Revision 1.16  2006/07/10 16:30:58  revo
+-->
+</vortaro>

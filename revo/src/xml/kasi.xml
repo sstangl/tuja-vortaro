@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: kasi.xml,v 1.6 2013/08/26 16:10:11 revo Exp $">
+<kap>
+  <rad>kasi</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="kasi.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="kasi.0o.specio">
+    <dif>
+       <ref tip="lst" cel="speci.0o.BIO"
+       lst="voko:botanikaj_specioj">Specio</ref> de <ref
+       tip="super" cel="cinam.0ujo">cinamujo</ref> (<trd
+       lng="la">Cinnamomum
+       cassia</trd>).
+    </dif>
+    <trd lng="de">Zimtkassie</trd>
+  </snc>
+  <snc mrk="kasi.0o.PAR">
+    <dif>
+      Bonodora&jcirc;o el la &scirc;elo de <ref tip="vid" cel="kasi.0o.specio">kasio
+      <sncref/></ref>, similgusta al cinamo, sed enhavanta pli da venena
+      kumarino:
+      <ekz>
+        de mirho, aloo, kaj <tld/>o odoras &ccirc;iuj viaj vestoj
+        <fnt><bib>MT</bib>, <lok>&Psa; 45:8</lok></fnt>;
+      </ekz>
+      <ekz>
+        la <klr>...</klr> ha&ubreve;to estis frotadita per miksa&jcirc;o de 
+        cedro-oleo, abelvakso, kumino kaj gumo kaj poste pudrita per 
+        mirho, <tld/>o kaj aliaj bonodoraj substancoj
+        <fnt>
+          <aut>B. Golden</aut>,
+          <vrk><url ref="http://www.literaturo.dk/profanado.htm">
+          La Profanado</url></vrk>,
+          <lok>Literatura Foiro, 1978-02 (47)</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">Cassia-Zimt</trd>
+  </snc>
+  <snc mrk="kasi.0o.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      Arbeto el tropikaj landoj,
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:botanikaj_genroj">genro</ref> el familio <ref
+      tip="malprt"
+      cel="fabac.0oj.BOT">fabacoj</ref> (<trd 
+      lng="la">Cassia</trd>).
+    </dif>
+    <trd lng="de">Kassie</trd>
+  </snc>
+  <trd lng="en">cassia<klr> (legume)</klr></trd>
+  <trd lng="fr">casse<klr> (plante)</klr></trd>
+  <trd lng="it">cassia<klr> (bot.)</klr></trd>
+</drv>
+</art>
+
+<!--
+$Log: kasi.xml,v $
+Revision 1.6  2013/08/26 16:10:11  revo
+Wolfram Diestel: lng de
+
+Revision 1.5  2013/08/26 15:10:43  revo
+Wolfram Diestel: referenco al listo bot genroj
+
+Revision 1.4  2010/04/09 16:31:28  revo
+Lucas Larson: +trd en
+
+Revision 1.3  2010/02/24 17:30:18  revo
+Jeromo Vasxe: kor. 1 ref
+
+Revision 1.2  2010/02/23 17:30:20  revo
+Antonio Codazzi: +trd it +korek ref
+
+Revision 1.1  2010/02/20 18:02:06  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

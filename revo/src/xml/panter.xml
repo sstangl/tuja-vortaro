@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: panter.xml,v 1.23 2015/07/04 08:37:41 revo Exp $">
+<kap><ofc>*</ofc><rad>panter</rad>/o</kap>
+<drv mrk="panter.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <uzo tip="fak">ZOO</uzo>
+  <snc mrk="panter.0o.leopardo">
+    <ref tip="dif" cel="leopar.0o">leopardo</ref> 
+    <trdgrp lng="be">
+      <trd>&c_p;&c_a;&c_n;&c_t;&c_e;&c_r;&c_a;</trd>,
+      <trd>&c_l;&c_je;&c_a;&c_p;&c_a;&c_r;&c_d;</trd>,
+      <trd>&c_b;&c_a;&c_r;&c_s;</trd>
+    </trdgrp>
+    <trd lng="br">panterenn</trd>
+    <trd lng="de">Panther</trd>
+    <trdgrp lng="en">
+      <trd>panther</trd>,
+      <trd>leopard</trd>
+    </trdgrp>
+    <trd lng="es">pantera</trd>
+    <trd lng="fr">panth&egrave;re</trd>
+    <trd lng="hu">leop&aacute;rd</trd>
+    <trd lng="pt">pantera</trd>
+    <trd lng="ru">&c_p;&c_a;&c_n;&c_t;&c_je;&c_r;&c_a;</trd>
+    <trd lng="sv">panter</trd>
+  </snc>
+  <snc mrk="panter.0o.genro">
+    <dif>
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:zoologiaj_genroj">Genro</ref> el familio <ref
+      tip="malprt" cel="felise.0oj">felisedoj</ref>
+      (<trd lng="la">Panther</trd>), al kiu apartenas
+      <refgrp tip="sub">
+        <ref cel="jaguar.0o">jaguaro</ref>,
+        <ref cel="leon.0o">leono</ref>,
+        <ref cel="leopar.0o">leopardo</ref>,
+        <ref cel="tigr.0o">tigro</ref>.
+      </refgrp>
+    </dif>
+    <trd lng="be">&c_p;&c_a;&c_n;&c_t;&c_e;&c_r;&c_a; <klr>(&c_r;&c_o;&c_d;)</klr></trd>
+    <trd lng="de">Gro&szlig;katze</trd>
+    <trd lng="en">big cats</trd>
+    <trd lng="hu">p&aacute;rduc</trd>
+    <trd lng="ru">&c_p;&c_a;&c_n;&c_t;&c_je;&c_r;&c_a; <klr>(&c_r;&c_o;&c_d;)</klr></trd>
+  </snc>
+  <trd lng="cs">panter</trd>
+  <trd lng="nl">panter</trd>
+  <trdgrp lng="sk">
+    <trd>panter</trd>,
+    <trd>čierny leopard</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: panter.xml,v $
+Revision 1.23  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.22  2015/06/29 16:40:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.21  2013/09/01 14:10:41  revo
+Wolfram Diestel: referenco al listo bot genroj
+
+Revision 1.20  2013/03/09 16:10:19  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.19  2009/01/31 17:30:21  revo
+Russ Williams: +trd en
+
+Revision 1.18  2006/02/24 17:35:58  revo
+Tulio Flores: +trd pt
+
+Revision 1.17  2005/06/28 20:26:07  revo
+Alan ar Gall: +trd br
+
+Revision 1.16  2004/10/09 16:31:53  revo
+Jean Hennebert: +trd fr
+
+Revision 1.15  2004/07/15 19:03:49  revo
+Jozefo Horvath: kor. trd hu
+
+Revision 1.14  2003/11/08 08:20:20  revo
+-->
+</vortaro>

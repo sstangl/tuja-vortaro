@@ -1,0 +1,141 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: plug.xml,v 1.22 2015/07/04 08:37:41 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>plug</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="plug.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="plug.0i.AGR">
+    <uzo tip="fak">AGR</uzo>
+    <dif>
+      Prilabori la teron, tran&ccirc;ante &gcirc;in per speciala ilo
+      por prepari semadon kaj kultivon:
+      <ekz>
+        kiu ne <tld/>is, tiu ne rikoltos;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        la boatoj <tld/>as <klr>(sulkigas)</klr> la supra&jcirc;on de la
+        lago;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        vento blovas de la fundo de l' rivero <klr>...</klr> <tld/>as
+        sur &gcirc;i grandajn sulkojn
+        <fnt><bib>Far1</bib>, <lok>&ccirc;apitro 11a</lok></fnt>;
+      </ekz>
+      <ekz>
+        <tld/>ebla tero.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_a;&c_r;&c_a;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>orat</trd>,
+    <trd>rýt</trd>,
+    <trd>vyrývat</trd>
+  </trdgrp>
+  <trd lng="de">pfl&uuml;gen</trd>
+  <trdgrp lng="en"><trd>plough</trd>, <trd>plow</trd>,
+  <trd>till</trd></trdgrp>
+  <trd lng="fr">labourer</trd>
+  <trd lng="hu">sz&aacute;nt</trd>
+  <trd lng="nl">ploegen</trd>
+  <trdgrp lng="pt">
+    <trd>arar</trd>,
+    <trd>lavrar</trd>,
+    <trd>cavar <klr>(a terra)</klr></trd>
+  </trdgrp>
+  <trd lng="ru">&c_p;&c_a;&c_h;&c_a;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>poorať</trd>,
+    <trd>zorať</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="plug.0ilo">
+  <kap><tld/>ilo</kap>
+  <snc mrk="plug.0ilo.AGR">
+    <uzo tip="fak">AGR</uzo>
+    <dif>
+      Rimedo por <tld/>i, ordinare konsistanta el tran&ccirc;a oblikva
+      klingo fiksita al trabetaro, kiun tiras besto a&ubreve; motoro:
+      <ekz>
+        venis la bienposedanto; li pensis nur pri la tempo de semado,
+        pri <tld/>iloj kaj preparado de kampoj
+        <fnt><bib>Fab4</bib>, <lok>dekdu per la po&scirc;to</lok></fnt>;
+      </ekz>
+      <ekz>
+        vapor<tld/>ilo, motor<tld/>ilo.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_l;&c_u;&c_g;</trd>
+  <trd lng="cs">pluh</trd>
+  <trd lng="de">Pflug</trd>
+  <trdgrp lng="en"><trd>plough</trd>, <trd>plow</trd></trdgrp>
+  <trd lng="fr">charrue</trd>
+  <trd lng="hu">eke</trd>
+  <trd lng="nl">ploeg</trd>
+  <trdgrp lng="pt">
+    <trd>arad</trd>,
+    <trd>charrua</trd>
+  </trdgrp>
+  <trd lng="ru">&c_p;&c_l;&c_u;&c_g;</trd>
+  <trd lng="sk">pluh</trd>
+</drv>
+
+<drv mrk="plug.0ileto">
+  <kap><tld/>ileto</kap>
+  <snc mrk="plug.0ileto.sxpato">
+    <uzo tip="fak">AGR</uzo>
+    <ref tip="dif" cel="sxpat.0o.AGR">&scirc;pato</ref>
+  </snc>
+  <trd lng="cs">rýč</trd>
+  <trd lng="fr">b&ecirc;che</trd>
+  <trd lng="hu">&aacute;s&oacute;</trd>
+  <trd lng="nl">spade</trd>
+  <trdgrp lng="pt">
+    <trd>cavadeira</trd>,
+    <trd>enxada</trd>
+  </trdgrp>
+  <trd lng="sk">rýľ</trd>
+</drv>
+</art>
+<!--
+$Log: plug.xml,v $
+Revision 1.22  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.21  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.20  2013/07/31 20:10:09  revo
+Jeromo Vasxe: kor. ~etilo al ~ileto
+
+Revision 1.19  2013/07/29 01:10:11  revo
+Jeromo Vasxe: + 1 trd fr
+
+Revision 1.18  2009/10/25 17:31:17  revo
+Paul Peeraerts: +nl
+
+Revision 1.17  2006/10/11 16:30:35  revo
+Russ Williams: +trd en + plow till
+
+Revision 1.16  2006/04/20 19:23:43  revo
+Jeromo Vasxe: + mrk, ~o + 1 fnt, ~ilo + 1 ekz
+
+Revision 1.15 2006/03/08 17:32:00 revo
+Tulio Flores: +tr pt
+
+Revision 1.14 2003/07/17 16:36:25 revo
+Dmitri Gabinski: +trd be
+
+Revision 1.13 2002/12/11 17:34:00 revo
+-->
+</vortaro>

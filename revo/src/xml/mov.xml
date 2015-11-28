@@ -1,0 +1,900 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: mov.xml,v 1.31 2015/09/18 13:10:17 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>mov</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="mov.0i">
+  <kap><ofc>*</ofc> <tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="mov.0i.transloki">
+    <dif>
+      Transloki ion:
+      <ekz>
+        ni ne povis <tld/>i tiun pezan &scirc;tonon;
+      </ekz>
+      <ekz>
+        <tld/>u nenion en la &ccirc;ambro;
+      </ekz>
+      <ekz>
+        la lokomotivo <tld/>as la vagonaron;
+      </ekz>
+      <ekz>
+        barko <tld/>ata de fortaj brakoj;
+      </ekz>
+      <ekz>
+        la &scirc;ipo sin <tld/>as per vaporo<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        la luno sin <tld/>as sur la &ccirc;ielo;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        malrapida konversacio faletante sin <tld/>as inter la ku&scirc;antaj
+        homoj;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        la nova societo sendube potence ek<tld/>os nian aferon.
+      </ekz>
+    </dif>
+    <trd lng="nl">verplaatsen</trd>
+  </snc>
+  <snc mrk="mov.0i.transloki.parton">
+    <dif>
+      &Scirc;an&gcirc;i la pozicion de io a&ubreve; de partoj de io rilate
+      al fiksa punkto:
+      <ekz>
+        <tld/>i la lipojn, la okulojn;
+      </ekz>
+      <ekz>
+        la vento <tld/>is la bran&ccirc;ojn<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        la saliko <tld/>is siajn bran&ccirc;ojn en la vento<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        vigle <tld/>adi siajn piedojn<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="mov.0eti"><tld/>eti</ref>
+    </refgrp>
+    <trd lng="de">bewegen</trd>
+    <trd lng="nl">bewegen</trd>
+    <trd lng="ru">&c_sh;&c_je;&c_v;&c_je;&c_l;&c_i;&c_t;&c_mol;</trd>
+  </snc>
+  <snc mrk="mov.0i.MAS">
+    <uzo tip="fak">MAS</uzo>
+    <dif>
+      Ripete kaj regule irigi kaj reirigi difinitajn pecojn de aparato;
+      funkciigi, <ref tip="vid" cel="pel.0i.MAS">peli</ref>:
+      <ekz>
+        akvoforto <tld/>as la muelilon.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="de">
+    <trd>antreiben</trd>
+  </trdgrp>
+  <trd lng="nl">doen <ind>bewegen</ind></trd>
+  <snc mrk="mov.0i.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Instigi, decidigi al io:
+      <ekz>
+        eble tio pla&ccirc;us al li kaj <tld/>us lin ion fari por nia
+        afero<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        la plimulto el la homoj estas <tld/>ata de sentoj kaj
+        anta&ubreve;ju&gcirc;oj.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_k;&c_ib;&c_r;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+    <trd lng="nl">bewegen</trd>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_r;&c_u;&c_h;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_s;&c_u;&c_n;&c_u;&c_c;&c_mol;</trd>,
+    <trd>&c_s;&c_o;&c_w;&c_g;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_sh;&c_t;&c_u;&c_r;&c_h;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="ca">
+    <trd>moure</trd>,
+    <trd>bellugar</trd>
+  </trdgrp>
+  <trd lng="cs">hnout</trd>
+  <trd lng="de">bewegen</trd>
+  <trd lng="en">move</trd>
+  <trdgrp lng="es">
+    <trd>mover<klr> (tr.)</klr></trd>,
+    <trd>desplazar</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>bouger<klr> (tr.)</klr></trd>,
+    <trd>d&eacute;placer</trd>,
+    <trd>mouvoir</trd>
+  </trdgrp>
+  <trd lng="oc">bolegar</trd>
+  <trdgrp lng="pt">
+    <trd>mover</trd>,
+    <trd>mexer <klr>(mover)</klr></trd>,
+    <trd>deslocar</trd>,
+    <trd>movimentar</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_d;&c_v;&c_i;&c_g;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_p;&c_r;&c_i;&c_v;&c_o;&c_d;&c_i;&c_t;&c_mol; &c_v;
+    <ind>&c_d;&c_v;&c_i;&c_zh;&c_je;&c_n;&c_i;&c_je;</ind></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="mov.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="mov.0o.KOMUNE">
+    <dif>
+      &Ccirc;ia &scirc;an&gcirc;o de loko, pozicio a&ubreve; stato:
+      <ekz>
+        la <tld/>oj de la korpo, de la brakoj;
+      </ekz>
+      <ekz>
+        <tld/>oplena strato<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        la <tld/>oj de la animo <klr>(= &scirc;an&gcirc;i&gcirc;oj en la
+        sentoj)</klr>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_r;&c_u;&c_h;</trd>
+  <trdgrp lng="cs">
+    <trd>h&yacute;b&aacute;n&iacute; se</trd>,
+    <trd>pohnut&iacute; se</trd>,
+    <trd>pohyb</trd>
+  </trdgrp>
+  <trd lng="de">Bewegung</trd>
+  <trd lng="en">move</trd>
+  <trdgrp lng="es">
+    <trd>movimiento</trd>,
+    <trd>desplazamiento</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>d&eacute;placement</trd>,
+    <trd>mouvement</trd>
+  </trdgrp>
+  <trd lng="nl">beweging</trd>
+  <trdgrp lng="ru">
+    <trd>&c_d;&c_v;&c_i;&c_zh;&c_je;&c_n;&c_i;&c_je;</trd>,
+    <trd>&c_h;&c_o;&c_d;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>h&yacute;banie sa</trd>,
+    <trd>pohnutie sa</trd>,
+    <trd>pohyb</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="mov.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="mov.0a.KOMUNE">
+    <dif>
+      <tld lit="M"/>anta:
+      <ekz>
+        <tld/>a forto<fnt>Z</fnt>
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="de">
+    <trd>antreibend</trd>,
+    <trd>Antriebs...</trd>
+  </trdgrp>
+  <trd lng="nl">bewegend</trd>
+  <trdgrp lng="es">
+    <trd>motor<klr> (adj.)</klr></trd>,
+    <trd>motriz</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>moteur<klr> (adj.)</klr></trd>
+  </trdgrp>
+  <trd lng="be">&c_r;&c_u;&c_h;&c_a;&c_ju;&c_ch;&c_y;</trd>
+  <trd lng="en">moving</trd>
+  <trd lng="ru">&c_d;&c_v;&c_i;&c_zh;&c_u;&c_shch;&c_i;&c_j;</trd>
+</drv>
+
+<drv mrk="mov.0ado">
+  <kap><tld/>ado</kap>
+  <snc>
+    <dif>
+      Ago <tld/>i 2:
+      <ekz>
+        re&ubreve;matismo malfaciligas al mi la <tld/>adon de la brako.
+      </ekz>
+    </dif>
+  </snc>
+  <snc>
+    <dif>
+      Serio da <tld/>oj per kiuj okazas &scirc;an&gcirc;o de loko a&ubreve;
+      stato:
+      <ekz>
+        akuzativo montras <tld/>adon al ia loko;
+      </ekz>
+      <ekz>
+        la strata <tld/>ado<fnt>B</fnt>;
+      </ekz>
+      <ekz>
+        en la urbo ili trovis ne malpli grandan <tld/>adon<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        la <tld/>ado de la &scirc;ipo estis tre malrapida.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="mov.0ado.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      Tuto de la agado de iu organizo por atingi difinitan celon:
+      <ekz>
+        politika, esperantista <tld/>ado.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_r;&c_u;&c_h;</trd>
+  <trd lng="cs">hnut&iacute;</trd>
+  <trd lng="en">movement</trd>
+  <trdgrp lng="es">
+    <trd>desplazamiento</trd>,
+    <trd>movimiento</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>d&eacute;placement</trd>,
+    <trd>mouvement</trd>
+  </trdgrp>
+  <trd lng="nl">beweging</trd>
+  <trd lng="ru">&c_d;&c_v;&c_i;&c_zh;&c_je;&c_n;&c_i;&c_je;</trd>
+  <trd lng="sk">hnutie</trd>
+</drv>
+
+<drv mrk="mov.0adumi">
+  <kap><tld/>adumi</kap>
+  <snc mrk="mov.0adumi.ESP">
+    <uzo tip="fak">ESP</uzo>
+    <dif>
+      Partopreni en la aran&gcirc;oj de la esperantisma 
+      <tld/>ado:
+      <ekz>
+        Lidia Zamenhof estas la fama filino de d-ro 
+        Zamenhof, kiu aktive <tld/>adumis, verkis kaj 
+        tradukis
+        <fnt>
+          <aut>B. Pietrzak</aut>,
+          <vrk><url
+          ref="http://pola-retradio.org/2014/04/e_elsendo-el-la-22-04-2014/">
+          E_elsendo el la 22.04.2014</url></vrk>,
+          <lok>Pola RetRadio, 2014-04-22</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+</drv>
+
+<drv mrk="mov.0ebla">
+  <kap><tld/>ebla</kap>
+  <snc mrk="mov.0ebla.KOMUNE">
+    <dif>
+      Ne fiksita, kiu povas esti <tld/>ata:
+      <ekz>
+        vi havas &ccirc;i tie dormo&ccirc;ambron kun <tld/>ebla tegmento
+        <fnt><bib>Far2</bib>, <lok>&ccirc;apitro 9a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>movit&yacute;</trd>,
+    <trd>pohybliv&yacute;</trd>,
+    <trd>pohybliv&yacute;</trd>,
+    <trd>p&rcaron;enosn&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>beweglich</trd>,
+    <trd>mobil</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>movable</trd>,
+    <trd>moveable</trd>
+  </trdgrp>
+  <trd lng="es">m&oacute;vil<klr tip="amb"> (adj.)</klr></trd>
+  <trd lng="fr">mobile<klr tip="amb"> (adj.)</klr></trd>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_o;&c_d;&c_v;&c_i;&c_zh;&c_n;&c_o;&c_j;</trd>,
+    <trd>&c_p;&c_je;&c_r;&c_je;&c_d;&c_v;&c_i;&c_zh;&c_n;&c_o;&c_j;</trd>,
+    <trd>&c_p;&c_je;&c_r;&c_je;&c_m;&c_je;&c_shch;&c_a;&c_je;&c_m;&c_y;&c_j;</trd>,
+    <trd>&c_m;&c_o;&c_b;&c_i;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>hybn&yacute;</trd>,
+    <trd>pohybliv&yacute;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="mov.0eblajxo">
+  <kap><tld/>ebla&jcirc;o</kap>
+  <snc mrk="mov.0eblajxo.JUR">
+    <uzo tip="fak">JUR</uzo>
+    <dif>
+      Hava&jcirc;o, kiu povas esti translokata,
+      ekzemple meblo, valorpaperoj.
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="mov.ne0eblajxo.JUR">ne<tld/>ebla&jcirc;o</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_r;&c_u;&c_h;&c_o;&c_m;&c_a;&c_ja; &c_m;&c_a;&c_jo;&c_m;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
+    <trd>&c_r;&c_u;&c_h;&c_o;&c_m;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>mueble<klr> (objeto desplazable)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>meuble<klr> (objet d&eacute;pla&ccedil;able)</klr></trd>
+  </trdgrp>
+  <trd lng="nl">roerend <ind>goed</ind></trd>
+  <trdgrp lng="ru">
+    <trd>&c_d;&c_v;&c_i;&c_zh;&c_i;&c_m;&c_a;&c_ja; &c_s;&c_o;&c_b;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>,
+    <trd>&c_d;&c_v;&c_i;&c_zh;&c_i;&c_m;&c_o;&c_s;&c_t;&c_mol;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="mov.0eti">
+  <kap><tld/>eti</kap>
+  <snc mrk="mov.0eti.KOMUNE">
+    <dif>
+      <tld lit="M"/>i nur iom, nur parteton:
+      <ekz>
+        li <tld/>etis en la dormado la kapon
+        <fnt><bib>Fab2</bib>, <lok>dano Holger</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="en">
+    <trd>move slightly</trd>,
+    <trd>nudge</trd>
+  </trdgrp>
+  <trd lng="es">mover<klr tip="amb"> (tr.)</klr></trd>
+  <trd lng="fr">bouger<klr tip="amb"> (tr.)</klr></trd>
+  <trd lng="ru">&c_sh;&c_je;&c_v;&c_je;&c_l;&c_i;&c_t;&c_mol;</trd>
+</drv>
+
+<drv mrk="mov.0igi">
+  <kap><tld/>igi</kap>
+  <snc>
+    <dif>
+      Funkciigi:
+      <ekz>
+        ek<tld/>igi ma&scirc;inon.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_r;&c_u;&c_h;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_n;&c_a;&c_k;&c_ib;&c_r;&c_o;&c_w;&c_v;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="cs">uv&eacute;st do pohybu</trd>
+  <trdgrp lng="de">
+    <trd>bewegen</trd>,
+    <trd>antreiben</trd>,
+    <trd>in <ind>Gang</ind> bringen</trd>,
+    <trd>in <ind>Gang</ind> setzen</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>iniciar un <ind>movimiento</ind></trd>,
+    <trd>poner en <ind>movimiento</ind></trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>lancer</trd>,
+    <trd>mettre en <ind>mouvement</ind></trd>
+  </trdgrp>
+  <trd lng="nl">in <ind>gang</ind> zetten</trd>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_u;&c_s;&c_t;&c_i;&c_t;&c_mol; &c_v; &c_h;&c_o;&c_d;</trd>,
+    <trd>&c_z;&c_a;&c_p;&c_u;&c_s;&c_t;&c_i;&c_t;&c_mol;</trd>,
+    <trd>&c_z;&c_a;&c_s;&c_t;&c_a;&c_v;&c_i;&c_t;&c_mol;
+    &c_d;&c_v;&c_i;&c_g;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>
+  </trdgrp>
+  <trd lng="sk">uvies&tcaron; do pohybu</trd>
+</drv>
+
+<drv mrk="mov.0igxi">
+  <kap><tld/>i&gcirc;i</kap>
+  <snc mrk="mov.0igxi.ien">
+    <dif>
+      Ne resti sur sia loko a&ubreve; en la anta&ubreve;a pozicio,
+      &scirc;an&gcirc;i sian lokon a&ubreve; sian pozicion:
+      <ekz>
+        mi ne kura&gcirc;is <tld/>i&gcirc;i<fnt>B</fnt>;
+      </ekz>
+      <ekz>
+        ne <tld/>i&gcirc;i de la se&gcirc;o<fnt>B</fnt>;
+      </ekz>
+      <ekz>
+        nenia venteto <tld/>i&gcirc;is<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        la boato balanci&gcirc;as, &gcirc;i tamen ne <tld/>i&gcirc;as de sia
+        loko<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        la Izraelidoj el<tld/>i&gcirc;is el la dezerto<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        neregula <tld/>i&gcirc;ado de la kandela flamo<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        la folioj de la arboj<fnt>Z</fnt>,
+      </ekz>
+      <ekz>
+        la plumoj de lia bireto <tld/>i&gcirc;adis<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        en la strato komerca&ccirc;ante <tld/>i&gcirc;as amaso<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        la vagonaro ek<tld/>i&gcirc;is.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="mov.0igxi.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Ne resti en la anta&ubreve;a stato:
+      <ekz>
+        en lia koro <tld/>i&gcirc;is poetaj pensoj<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_r;&c_u;&c_h;&c_a;&c_c;&c_c;&c_a;</trd>
+  <trd lng="ca">moure's</trd>
+  <trd lng="en">move</trd>
+  <trdgrp lng="es">
+    <trd><ind>mover</ind>se<klr> (intr.)</klr></trd>,
+    <trd><ind>desplazar</ind>se</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>bouger<klr> (intr.)</klr></trd>,
+    <trd>se <ind>d&eacute;placer</ind></trd>
+  </trdgrp>
+  <trd lng="nl">bewegen</trd>
+  <trd lng="oc">se <ind>bolegar</ind></trd>
+  <trdgrp lng="ru">
+    <trd>&c_d;&c_v;&c_i;&c_g;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>,
+    <trd>&c_p;&c_je;&c_r;&c_je;&c_d;&c_v;&c_i;&c_g;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="mov.0igxema">
+  <kap><tld/>i&gcirc;ema</kap>
+  <snc mrk="mov.0igxema.KOMUNE">
+    <dif>
+      Volonte a&ubreve; facile <tld/>i&gcirc;anta:
+      <ekz>
+        pintoj <tld/>i&gcirc;emaj de l' arbareto<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        <tld/>i&gcirc;emo de karaktero<fnt>B</fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_r;&c_u;&c_h;&c_o;&c_m;&c_y;</trd>,
+    <trd>&c_r;&c_u;&c_h;&c_a;&c_v;&c_y;</trd>,
+    <trd>&c_zh;&c_v;&c_a;&c_v;&c_y;</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>fluctuante</trd>,
+    <trd>m&oacute;vil</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>fluctuant</trd>,
+    <trd>mobile</trd>
+  </trdgrp>
+  <trd lng="nl">beweeglijk</trd>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_o;&c_d;&c_v;&c_i;&c_zh;&c_n;&c_o;&c_j;</trd>,
+    <trd>&c_p;&c_o;&c_d;&c_v;&c_i;&c_zh;&c_n;&c_y;&c_j;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="mov.0ilo">
+  <kap><tld/>ilo<fnt>Z</fnt></kap>
+  <snc mrk="mov.0ilo.KOMUNE">
+    <dif>
+      Aparato a&ubreve; rimedo por <tld/>i ion:
+      <ekz>
+        remilo, helico, rado estas <tld/>iloj, sed ili ne estas
+        <ref cel="motor.0o">motoroj</ref>;
+      </ekz>
+      <ekz>
+        <ind>raketa <tld/>ilo</ind>;
+        <trd lng="ru">&c_r;&c_a;&c_k;&c_je;&c_t;&c_n;&c_y;&c_j; &c_d;&c_v;&c_i;&c_g;&c_a;&c_t;&c_je;&c_l;&c_mol;</trd>
+      </ekz>
+      <ekz>
+        rad-<tld/>iloj kiuj povas orienti la radojn en alia
+        direkto ol tiu ordonita de la stirilo
+        <fnt>
+          <aut>D. Duclos</aut>,
+          <vrk><url ref="http://eo.mondediplo.com/article927.html">
+          Kiu timas la Egan Fraton?</url></vrk>,
+          <lok>&leftquot;Le Monde diplomatique&rightquot; en Esperanto, 2004-08</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        agrablo kaj malagrablo estas solaj <tld/>iloj por moraleco, kaj
+        sinamo estas sola fundamento, sur kiu oni vere povus bazigi
+        moralecon
+        <fnt>
+        <aut>Helvecio</aut>,
+        <vrk><url ref="http://free-zg.t-com.hr/cdm-hr/helvetio.htm"
+        >Elektitaj pensoj</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_r;&c_u;&c_h;&c_a;&c_ch;</trd>,
+    <trd>&c_r;&c_u;&c_h;&c_a;&c_v;&c_ib;&c_k;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>hybn&eacute; za&rcaron;&iacute;zen&iacute;</trd>,
+    <trd>pohon</trd>,
+    <trd>p&aacute;&ccaron;ka</trd>,
+    <trd>&scaron;oup&ecaron;</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>movement mechanism</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_d;&c_v;&c_i;&c_g;&c_a;&c_t;&c_je;&c_l;&c_mol;</trd>,
+    <trd>&c_d;&c_v;&c_i;&c_zh;&c_i;&c_t;&c_je;&c_l;&c_mol;</trd>,
+    <trd>&c_d;&c_v;&c_i;&c_zh;&c_u;&c_shch;&c_a;&c_ja; &c_s;&c_i;&c_l;&c_a;</trd>
+  </trdgrp>
+  <trd lng="sk">poh&aacute;&ncaron;acie zariadenie</trd>
+</drv>
+
+<drv mrk="mov.al0i">
+  <kap>al<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="mov.al0i.KOMUNE">
+    <dif>
+      <tld lit="M"/>i al iu celo:
+      <ekz>
+        Erich al<tld/>as al mi kru&ccirc;on da biero
+        <fnt><bib>Metrop</bib></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="proksi.0igi">proksimigi</ref>
+    </refgrp>
+  </snc>
+  <trd lng="cs">p&rcaron;isunout</trd>
+  <trdgrp lng="es">
+    <trd>traer<klr tip="amb"> (desplazar)</klr></trd>,
+    <trd>acercar<klr tip="amb"> (desplazar)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>apporter<klr tip="amb"> (d&eacute;placer)</klr></trd>,
+    <trd>approcher<klr tip="amb"> (d&eacute;placer)</klr></trd>
+  </trdgrp>
+  <trd lng="ru">&c_p;&c_r;&c_i;&c_d;&c_v;&c_i;&c_n;&c_u;&c_t;&c_mol;</trd>
+  <trd lng="sk">prisun&uacute;&tcaron;</trd>
+</drv>
+
+<drv mrk="mov.el0igxi">
+  <kap>el<tld/>i&gcirc;i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="mov.el0igxi.KOMUNE">
+    <dif>
+      Eli&gcirc;i kaj foriri de:
+      <ekz>
+        la popolo el<tld/>i&gcirc;is el siaj tendoj, por transiri Jordanon
+        <fnt><bib>MT</bib>, <lok>&Jos; 3:14</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="en">
+    <trd>exit</trd>,
+    <trd>leave</trd>,
+    <trd>move out</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>abandonar<klr tip="amb"> (un lugar)</klr></trd>,
+    <trd>dejar<klr tip="amb"> (un lugar)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>abandonner<klr tip="amb"> (un lieu)</klr></trd>,
+    <trd>quitter<klr tip="amb"> (un lieu)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_v;&c_y;&c_j;&c_t;&c_i;</trd>,
+    <trd>&c_v;&c_y;&c_d;&c_v;&c_i;&c_n;&c_u;&c_t;&c_mol;&c_s;&c_ja;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="mov.facil0a">
+  <kap>facil<tld/>a</kap>
+  <snc mrk="mov.facil0a.KOMUNE">
+    <dif>
+      Kiu facile, malpeze, lerte <tld/>i&gcirc;as:
+      <ekz>
+        facil<tld/>e &scirc;i deglitis de la &ccirc;evalo
+        <fnt>
+          <aut>B. N&ecaron;mcov&aacute;, trad. V. Tobek kaj K.
+          Proch&aacute;zka</aut>,
+          <vrk><url ref="https://eo.wikisource.org/wiki/Avineto/V.">
+          Avineto</url></vrk>,
+          <lok>[sen dato]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">leste</trd>
+</drv>
+
+<drv mrk="mov.multe0a">
+  <kap>multe<tld/>a</kap>
+  <snc mrk="mov.multe0a.KOMUNE">
+    <dif>
+      Kun multaj iroj, venoj, gestoj; vigla, agitata:
+      <ekz>
+        li ekrigardis tra la vitro sur la multehoman kaj multe<tld/>an
+        straton
+        <fnt><bib>Marta</bib></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="en">
+    <trd>animated</trd>,
+    <trd>busy</trd>,
+    <trd>full of traffic</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>agitado</trd>,
+    <trd>animado</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>agit&eacute;</trd>,
+    <trd>anim&eacute;</trd>,
+    <trd>passager<klr tip="amb"> (anim&eacute;)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_o;&c_d;&c_v;&c_i;&c_zh;&c_n;&c_y;&c_j;</trd>,
+    <trd>&c_o;&c_zh;&c_i;&c_v;&c_l;&c_jo;&c_n;&c_n;&c_y;&c_j;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="mov.ne0eblajxo">
+  <kap>ne<tld/>ebla&jcirc;o</kap>
+  <snc mrk="mov.ne0eblajxo.JUR">
+    <uzo tip="fak">JUR</uzo>
+    <dif>
+      Ne<tld/>ebla hava&jcirc;o: terpeco a&ubreve; domo:
+      <ekz>
+        li proprietis imponan ri&ccirc;on el ne<tld/>ebla&jcirc;oj
+        <fnt><aut>C. Piron</aut>, <vrk>&Ccirc;u li bremsis 
+        sufi&ccirc;e?</vrk>, <lok>1979</lok></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="mov.0eblajxo.JUR"><tld/>ebla&jcirc;o</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_n;&c_je;&c_r;&c_u;&c_h;&c_o;&c_m;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+  <trd lng="en">real property</trd>
+  <trdgrp lng="es">
+    <trd>bienes ra&iacute;ces</trd>,
+    <trd>bien inmobiliario</trd>
+  </trdgrp>
+  <trd lng="fr">bien immobilier</trd>
+  <trd lng="ru">&c_n;&c_je;&c_d;&c_v;&c_i;&c_zh;&c_i;&c_m;&c_o;&c_s;&c_t;&c_mol;</trd>
+</drv>
+
+<drv mrk="mov.ne0igxemo">
+  <kap>ne<tld/>i&gcirc;emo, <var><kap>mal<tld/>i&gcirc;emo</kap></var></kap>
+  <snc mrk="mov.ne0igxemo.KOMUNE">
+    <dif>
+      Malinklino al movi&gcirc;o, al &scirc;an&gcirc;o, al evoluo:
+      <ekz>
+        tiu mal<tld/>i&gcirc;emo baras la vojon al nova epoko
+        <fnt>
+          <aut>Peter H&oslash;eg, trad. Sten Johansson</aut>,
+          <vrk><url
+          ref="http://www.angelfire.com/ok/stenjo/avangard.html">
+          Portreto de la avangardo</url></vrk>,
+          <lok>[vidita en 2014]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="es">inmovilismo</trd>
+  <trd lng="fr">immobilisme</trd>
+</drv>
+
+<drv mrk="mov.propra0e">
+  <kap>propra<tld/>e</kap>
+  <snc mrk="mov.propra0e.KOMUNE">
+    <dif>
+      Per propra forto, interna impulso:
+      <ekz>
+        ili venis al la fera pordego, kiu kondukas en la urbon; kaj &gcirc;i
+        malfermi&gcirc;is al ili propra<tld/>e
+        <fnt><bib>NT</bib>, <lok>&Ago; 12:10</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">samo&ccaron;inn&ecaron;</trd>
+  <trdgrp lng="en">
+    <trd>of one's own accord</trd>,
+    <trd>spontaneously</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>de s&iacute; mismo</trd>,
+    <trd>por s&iacute; mismo<klr tip="amb"> (por su propio
+    movimiento)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>de soi-m&ecirc;me</trd>,
+    <trd>de son propre mouvement</trd>,
+    <trd>tout seul<klr tip="amb"> (de son propre mouvement)</klr></trd>
+  </trdgrp>
+  <trd lng="sk">samo&ccaron;inne</trd>
+</drv>
+
+<drv mrk="mov.rapid0a">
+  <kap>rapid<tld/>a</kap>
+  <snc mrk="mov.rapid0a.KOMUNE">
+    <dif>
+      Kiu rapide movi&gcirc;as:
+      <ekz>
+        li estas homo sa&gcirc;a, lerta, elasta kaj rapid<tld/>a
+        <fnt>
+          <aut>Hasegawa T.</aut>,
+          <vrk><url
+          ref="http://wikilivres.ca/wiki/En_%C4%88inio_Batalanta">
+          En &Ccirc;inio Batalanta</url></vrk>, 
+          <lok>1954</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>hbit&yacute;</trd>,
+    <trd>mr&scaron;tn&yacute;</trd>,
+    <trd>svi&zcaron;n&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>pronta</trd>,
+    <trd>&aacute;gil<klr> (con movimiento r&aacute;pido)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>preste</trd>,
+    <trd>vif<klr> (qui bouge vite)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>mr&scaron;tn&yacute;</trd>,
+    <trd>svi&zcaron;n&yacute;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="mov.sen0a">
+  <kap>sen<tld/>a</kap>
+  <snc mrk="mov.sen0a.KOMUNE">
+    <dif>
+      Ne<tld/>i&gcirc;anta:
+      <ekz>
+        li restis sen<tld/>e;
+      </ekz>
+      <ekz>
+        akvon sen<tld/>an kovras putra&jcirc;o
+        <fnt><bib>PrV</bib></fnt>;
+      </ekz>
+      <ekz>
+        sen<tld/>a kiel &scirc;tonego.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_n;&c_je;&c_r;&c_u;&c_h;&c_o;&c_m;&c_y;</trd>,
+    <trd>&c_s;&c_t;&c_a;&c_ja;&c_ch;&c_y;</trd>,
+    <trd>&c_l;&c_ja;&c_zh;&c_a;&c_ch;&c_y;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>bez hnut&iacute; <klr>(adj.)</klr></trd>,
+    <trd>nehybn&yacute;</trd>,
+    <trd>stojat&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>immobile</trd>,
+    <trd>motionless</trd>,
+    <trd>stationary</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>inm&oacute;vil</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>immobile</trd>
+  </trdgrp>
+  <trd lng="nl">roerloos</trd>
+  <trdgrp lng="ru">
+    <trd>&c_n;&c_je;&c_p;&c_o;&c_d;&c_v;&c_i;&c_zh;&c_n;&c_y;&c_j;</trd>,
+    <trd>&c_n;&c_je;&c_d;&c_v;&c_i;&c_zh;&c_i;&c_m;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>nehybn&yacute;</trd>,
+    <trd>stojat&yacute;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="mov.sen0igi">
+  <kap>sen<tld/>igi</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="mov.sen0igi.KOMUNE">
+    <dif>
+      Igi sen<tld/>a.
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="halt.0igi">haltigi</ref>,
+      <ref cel="parali.0i">paralizi</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_s;&c_p;&c_y;&c_n;&c_ib;&c_c;&c_mol;</trd>
+  <trd lng="cs">zarazit</trd>
+  <trdgrp lng="en">
+    <trd>immobilize</trd>,
+    <trd>paralize</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>parar</trd>,
+    <trd>inmovilizar</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>immobiliser</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>paralyseren</trd>,
+    <trd>verlammen</trd>
+  </trdgrp>
+  <trd
+  lng="ru">&c_o;&c_b;&c_je;&c_z;&c_d;&c_v;&c_i;&c_zh;&c_i;&c_t;&c_mol;</trd>
+  <trd lng="sk">znehybni&tcaron;</trd>
+</drv>
+</art>
+<!--
+$Log: mov.xml,v $
+Revision 1.31  2015/09/18 13:10:17  revo
+Jeromo Vasxe: + facil~a
+
+Revision 1.30  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.29  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.28  2014/12/15 21:10:19  revo
+Jeromo Vasxe: + ~adumi
+
+Revision 1.27  2014/08/12 15:10:11  revo
+Guillermo Molleda Jimena: Hispana tradukado
+
+Revision 1.26  2014/02/07 02:10:16  revo
+Jeromo Vasxe: + ne~igxemo
+
+Revision 1.25  2013/12/21 02:10:13  revo
+Jeromo Vasxe: + ne~eblajxo
+
+Revision 1.24  2013/10/13 17:10:13  revo
+-->
+</vortaro>

@@ -1,0 +1,192 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: padel.xml,v 1.22 2015/07/04 08:37:40 revo Exp $">
+<kap><rad>padel</rad>/o</kap>
+<drv mrk="padel.0o">
+  <kap><tld/>o</kap>
+    <snc>
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      <ref tip="super" cel="plat.0o">Plata</ref> parto de aparato 
+      interaganta kun <ref tip="vid" cel="fluid.0ajxo">fluida&jcirc;o</ref> 
+      por transformi me&hcirc;anikan <ref tip="vid" cel="mov.0o">movon</ref> 
+      al <ref tip="vid" cel="flu.0o">fluo</ref> a&ubreve; fluon al 
+      me&hcirc;anika movo:
+      <ekz>
+        <tld/>o de <ref tip="malprt" cel="rem.0ilo">remilo</ref>,
+        <ref tip="malprt" cel="padel.0rado"><tld/>rado</ref>;
+      </ekz>
+      <ekz>
+        stir<tld/>o de raketo;
+      </ekz>
+      <ekz>
+        tra vitromuro mi vidis, ke <tld/>oj de kelkaj vento-energiaj 
+        radoj turni&gcirc;as malrapide
+        <fnt>
+        <aut>Sun Aijun</aut>:
+        <vrk>
+        <url
+        ref="http://www.china.org.cn/world/shi-sichou/sichou21.htm">
+        en Dabancheng</url>
+        </vrk>
+        </fnt>
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+    <ref cel="al1.0o">alo</ref>,
+    <ref cel="flug.0ilo">flugilo</ref>.
+  </refgrp>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>list</trd>,
+    <trd>lopatka <klr>(turbiny, pádla, vesla)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Fl&uuml;gel <klr tip="ind">(Windm&uuml;hle)</klr></trd>,
+    <trd>Blatt <klr tip="ind">(Turbine, M&uuml;hlrad, Ruder)</klr></trd>.
+  </trdgrp>
+  <trdgrp lng="es">
+     <trd>pala</trd>,
+     <trd>aleta<klr tip="amb"> (de una h&eacute;lice)</klr></trd>
+  </trdgrp>
+  <trd lng="fr">pale</trd>
+  <trdgrp lng="hu">
+    <trd>lap&aacute;t <klr tip="ind">(ker&eacute;k&eacute;)</klr></trd>,
+    <trd>toll <klr tip="ind">(evez&odblac;&eacute;)</klr></trd>.
+  </trdgrp>
+  <trd lng="it">pala<klr> (di remo, di elica, di turbina)</klr>
+</trd>
+  <trd lng="nl">paddel</trd>
+  <trd lng="pt">p&aacute; <klr>(de roda, h&eacute;lice, turbina, remo)</klr>
+</trd>
+  <trd lng="ru">&c_l;&c_o;&c_p;&c_a;&c_s;&c_t;&c_mol;</trd>
+  <trd lng="sk">lopatka vesla</trd>
+  <trdgrp lng="sv">
+    <trd>paddel</trd>,
+    <trd>skovel</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="padel.0rado">
+  <kap><tld/>rado</kap>
+  <snc>
+  <uzo tip="fak">TEK</uzo>
+    <dif>
+      Cirkla aran&gcirc;o de <tld/>oj por transformi turni&gcirc;on al fluo 
+      a&ubreve; fluon al turni&gcirc;o:
+      <ekz>
+        <tld/>rado de akvo
+        <ref tip="malprt" cel="muel.0ilo">muelilo</ref>,
+        <ref tip="malprt" cel="turbin.0o">turbino</ref>,
+        <ref tip="malprt" cel="ventol.0ilo">ventolilo</ref>,
+        <ref tip="malprt" cel="pump.0ilo">pumpilo</ref>.
+      </ekz>
+    </dif>
+    <ref tip="super" cel="rad.0o">rado</ref>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>kolo na spodní vodu</trd>,
+    <trd>lopatkové kolo</trd>
+  </trdgrp>
+  <trd lng="de">Fl&uuml;gelrad</trd>
+  <trd lng="es">h&eacute;lice</trd>
+  <trd lng="fr">turbine</trd>
+  <trd lng="hu">lap&aacute;tker&eacute;k</trd>
+  <trd lng="nl">schoepenrad</trd>
+  <trdgrp lng="ru">
+    <trd>&c_l;&c_o;&c_p;&c_a;&c_s;&c_t;&c_n;&c_o;&c_je; 
+&c_k;&c_o;&c_l;&c_je;&c_s;&c_o;</trd>,
+    <trd>&c_k;&c_r;&c_y;&c_l;&c_mol;&c_ch;&c_a;&c_t;&c_k;&c_a;</trd>,
+    <trd>&c_g;&c_r;&c_je;&c_b;&c_n;&c_o;&c_je; 
+&c_k;&c_o;&c_l;&c_je;&c_s;&c_o;</trd>
+  </trdgrp>
+  <trd lng="sk">lopatkové koleso</trd>
+  <trdgrp lng="sv">
+    <trd>skovelhjul</trd>,
+    <trd>vattenhjul</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="padel.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+   <fnt><bib>ZR</bib></fnt>
+  <snc>
+  <uzo tip="fak">SPO</uzo>
+    <dif>
+      Remi per unu sola remilo.
+    </dif>
+    <trd lng="de">paddeln</trd>
+    <trd lng="en">paddle</trd>
+    <trd lng="fr">pagayer</trd>
+    <trd lng="hu">lap&aacute;tol <klr tip="ind">(evez)</klr></trd>
+    <trd lng="nl">paddelen</trd>
+    <trd lng="ru">&c_g;&c_r;&c_je;&c_s;&c_t;&c_i;</trd>
+    <trd lng="sv">paddla</trd>
+    <trd lng="it">pagaiare</trd>
+    <adm>
+    PIV markas tiun sencon evitinda kaj preferas pagaji. <aut>wd</aut>
+    </adm>
+  </snc>
+  <snc>
+    <fnt>Z</fnt>
+    <dif>
+      Pene vadi en &scirc;limo; pla&ubreve;di 2.
+    </dif>
+    <trd lng="hu">tocsog</trd>
+    <trd lng="nl">ploeteren</trd>
+    <trd lng="ru">&c_sh;&c_l;&c_jo;&c_p;&c_a;&c_t;&c_mol; 
+<klr tip="amb">(&c_b;&c_r;&c_je;&c_s;&c_t;&c_i; &c_p;&c_o;
+    &c_v;&c_o;&c_d;&c_je;)</klr></trd>
+    <trdgrp lng="it">
+    <trd>guazzare</trd>,
+    <trd>sguazzare</trd>
+    </trdgrp>
+    <adm>
+    Kie Z uzis tiun vorton? <aut>wd</aut>
+    </adm>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>pádlovat</trd>,
+    <trd>šplouchat</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>pádlovať</trd>,
+    <trd>čľapotať</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: padel.xml,v $
+Revision 1.22  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.21  2015/06/29 16:40:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.20  2013/12/03 08:10:12  revo
+Damien Brucker: +trd fr
+
+Revision 1.19  2010/10/28 16:30:30  revo
+Agustin Garcia Lopez: +trd es
+
+Revision 1.18  2009/10/16 16:30:37  revo
+Paul Peeraerts: +nl
+
+Revision 1.17  2009/02/28 17:31:22  revo
+Antonio Codazzi: +trd it
+
+Revision 1.16  2008/11/21 17:57:32  revo
+Jerano Zachrisson: +trd sv
+
+Revision 1.15  2006/02/24 17:34:24  revo
+Tulio Flores: +trd pt
+
+Revision 1.14  2005/05/20 16:35:50  revo
+Yury Finkel: +trd ru
+
+Revision 1.13  2004/07/15 19:01:43  revo
+-->
+</vortaro>

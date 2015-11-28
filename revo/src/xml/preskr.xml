@@ -1,0 +1,175 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: preskr.xml,v 1.20 2015/07/04 08:37:42 revo Exp $">
+<kap>
+  <ofc>8</ofc>
+  <rad>preskrib</rad>/i <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="preskr.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="preskr.0i.MED">
+    <uzo tip="fak">MED</uzo>
+    <dif>
+      Ordoni skribe:
+      <ekz>
+        la kuracisto <tld/>as medikamenton al malsanulo.
+      </ekz>
+    </dif>
+    <trdgrp lng="ca">
+      <trd>prescriure</trd>,
+      <trd>receptar</trd>
+    </trdgrp>
+    <trd lng="de">verschreiben</trd>
+    <trdgrp lng="es">
+      <trd>prescribir</trd>,
+      <trd>recetar<klr> (un tratamiento m&eacute;dico)</klr></trd>
+    </trdgrp>
+    <trd lng="hu">fel&iacute;r <klr tip="ind">(orvos)</klr></trd>
+    <trd lng="pl">przepisa&cacute;</trd>
+    <trd lng="ru">&c_p;&c_r;&c_o;&c_p;&c_i;&c_s;&c_a;&c_t;&c_mol;</trd>
+  </snc>
+  <snc mrk="preskr.0i.KOMUNE">
+    <dif>
+      Ordoni formale:
+      <ekz>
+        konforme al la <tld/>o de sia patro David<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="ca">
+      <trd>preceptuar</trd>,
+      <trd>establir</trd>
+    </trdgrp>
+    <trd lng="en">stipulate</trd>
+    <trd lng="hu">el&odblac;&iacute;r</trd>
+    <trd lng="ru">&c_p;&c_r;&c_je;&c_d;&c_p;&c_i;&c_s;&c_a;&c_t;&c_mol;</trd>
+  </snc>
+  <refgrp tip="vid">
+    <ref cel="instru1.0i.KOMUNE">instrukcii</ref>
+  </refgrp>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_r;&c_a;&c_p;&c_ib;&c_s;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_p;&c_r;&c_a;&c_d;&c_p;&c_ib;&c_s;&c_v;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>anordnen</trd>,
+    <trd>vorschreiben</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>prescribe</trd>,
+    <trd>order</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>enjoindre</trd>,
+    <trd>prescrire</trd>
+  </trdgrp>
+  <trd lng="nl">voorschrijven</trd>
+  <trdgrp lng="pt">
+    <trd>prescrever <klr tip="ind">(ordenar)</klr></trd>,
+    <trd>ordenar</trd>,
+    <trd>preceituar</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>predpísať</trd>,
+    <trd>vyrubiť</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>poručit</trd>,
+    <trd>předepsat</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="preskr.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="preskr.0o.MED">
+    <uzo tip="fak">MED</uzo>
+    <dif>
+      Skriba indiko de uzotaj medikamentoj kaj farotaj a&ubreve; nefarotaj
+      agoj:
+      <ekz>
+        malsanulo devas obei la <tld/>ojn de sia
+        kuracisto.<fnt>PIV2</fnt>
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="recept.0o.MED">recepto</ref>
+    </refgrp>
+    <trdgrp lng="ca">
+      <trd>prescripci&oacute;</trd>,
+      <trd>recepta</trd>
+    </trdgrp>
+    <trd lng="es">prescripci&oacute;n</trd> 
+    <trd lng="pl">recepta</trd>
+  </snc>
+  <snc>
+    <dif>
+      Detala a&ubreve;toritata ordono:
+      <ekz>
+        ili pekis kontra&ubreve; Viaj <tld/>oj.<fnt>Z</fnt>
+      </ekz>
+    </dif>
+    <trdgrp lng="ca">
+      <trd>precepte</trd>,
+      <trd>disposici&oacute;</trd>
+    </trdgrp>
+    <trdgrp lng="es">
+      <trd>prescripci&oacute;n</trd>,
+      <trd>norma</trd>
+    </trdgrp>
+    <trd lng="pl">przepis</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>dispozice</trd>,
+    <trd>nařízení</trd>,
+    <trd>preskripce</trd>,
+    <trd>předpis</trd>,
+    <trd>vyměření</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>prescription</trd>,
+    <trd>directions</trd>,
+    <trd>orders</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>commandements</trd>,
+    <trd>directives</trd>,
+    <trd>ordonnance</trd>
+  </trdgrp>
+  <trd lng="nl">voorschrift</trd>
+  <trd lng="sk">predpis</trd>
+</drv>
+</art>
+<!--
+$Log: preskr.xml,v $
+Revision 1.20  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2012/02/01 16:10:09  revo
+Jeromo Vasxe: + ref + trd fr
+
+Revision 1.17  2012/01/05 19:10:08  revo
+Carlos Garcia: +trd es -o
+
+Revision 1.16  2011/12/05 14:10:14  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.15  2009/10/28 17:30:38  revo
+Paul Peeraerts: +nl
+
+Revision 1.14  2008/03/02 17:30:17  revo
+Russ Williams: interligi kun recepto
+
+Revision 1.13  2008/03/01 17:30:11  revo
+Russ Williams: +preskribo; +trd en, pl
+
+Revision 1.12  2006/03/20 17:32:13  revo
+Tulio Flores: +tr pt
+
+Revision 1.11  2005/04/24 16:34:08  revo
+-->
+</vortaro>

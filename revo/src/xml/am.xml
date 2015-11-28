@@ -1,0 +1,998 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: am.xml,v 1.56 2015/10/29 08:10:22 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>am</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="am.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="am.0i.iun">
+    <uzo tip="klr">(iun)</uzo>
+    <dif>
+      Havi koran (kaj eventuale anka&ubreve; seksan) inklinon por iu:
+      <ekz>
+        li <tld/>as tiun &ccirc;i knabinon pro &scirc;ia beleco kaj
+        boneco<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        <ind>ne bela estas <tld/>ata, sed <tld/>ata estas
+        bela</ind>
+        <fnt><bib>PrV</bib></fnt>;
+        <trd lng="hu">akit szeret&uuml;nk, sz&eacute;pnek 
+        tal&aacute;ljuk</trd>
+      </ekz>
+      <ekz>
+        mia plej <tld/>ata infano
+        <fnt><bib>Fab1</bib>, <lok>&Gcirc;ardeno de la paradizo</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="favor.0i.preferi">favori<sncref/></ref>.
+    </refgrp>
+    <trd lng="bg">&c_o;&c_b;&c_i;&c_ch;&c_a;&c_m;</trd>
+    <trdgrp lng="nl">
+      <trd>houden van</trd>,
+      <trd>liefhebben</trd>,
+      <trd>beminnen</trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>kocha&cacute;</trd>,
+      <trd>mi&lstroke;owa&cacute;</trd>
+        </trdgrp>
+      <trd lng="pt">amar</trd>
+  </snc>
+  <snc mrk="am.0i.sxati">
+    <ref tip="dif" cel="sxat.0i.ami">&scirc;ati <sncref/></ref>
+    <subsnc mrk="am.0i.ion">
+      <uzo tip="klr">(ion)</uzo>
+      <dif>
+        Volonte uzi:
+        <ekz>
+          <tld/>i kafon, viandon;
+        </ekz>
+        <ekz>
+          <ind>kiu <tld/>as honoron, <tld/>u laboron</ind>
+          <fnt><bib>PrV</bib></fnt>;
+          <trd lng="hu">munka n&eacute;lk&uuml;l nincs 
+          tisztess&eacute;g</trd>
+        </ekz>
+        <ekz>
+          <ind>mono <tld/>as kalkulon</ind>
+          <fnt><bib>PrV</bib></fnt>.
+          <trd lng="hu">a p&eacute;nz sz&aacute;molva j&oacute;</trd>
+        </ekz>
+      </dif>
+      <refgrp tip="vid">
+        <ref cel="frand.0i">frandi</ref>.
+      </refgrp>
+      <trdgrp lng="nl">
+        <trd>houden van</trd>,
+        <trd>liefhebben</trd>,
+        <trd>beminnen</trd>
+      </trdgrp>
+    </subsnc>
+    <subsnc mrk="am.0i.agon">
+      <uzo tip="klr">(fari ion)</uzo>
+      <dif>
+        Volonte fari:
+        <ekz>
+          mi <tld/>as vivi alie ol &ccirc;iuj
+          <fnt><bib>Fab2</bib>, <lok>La ombro</lok></fnt>;
+        </ekz>
+        <ekz>
+          <tld/>i esti la&ubreve;data<fnt>Z</fnt>;
+        </ekz>
+        <ekz>
+          mi <tld/>as promeni en arbaro;
+        </ekz>
+        <ekz>
+          li <tld/>as danci, fanfaroni pri sia forto<fnt>Z</fnt>;
+        </ekz>
+        <ekz>
+          vi <tld/>as preni, <tld/>u redoni
+          <fnt><bib>PrV</bib></fnt>;
+        </ekz>
+        <ekz>
+          vid<tld/>a turismo<fnt>Z</fnt>.
+        </ekz>
+      </dif>
+      <trdgrp lng="nl">
+        <trd>liefhebben</trd>,
+        <trd>beminnen</trd>
+      </trdgrp>
+    </subsnc>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_k;&c_a;&c_h;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_l;&c_ju;&c_b;&c_ib;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="ca">estimar</trd>
+  <trdgrp lng="cs">
+    <trd>m&iacute;t r&aacute;d</trd>,
+    <trd>milovat</trd>,
+    <trd>m&iacute;t v oblib&ecaron;</trd>
+  </trdgrp>
+  <trd lng="de">lieben</trd>
+  <trd lng="en">love</trd>
+  <trd lng="es">amar</trd>
+  <trd lng="fr">aimer</trd>
+  <trdgrp lng="hu">
+    <trd>szeret</trd>,
+    <trd>kedvel</trd>
+  </trdgrp>
+  <trd lng="id">[<ind>cinta</ind>] mencintai</trd>
+  <trd lng="it">amare</trd>
+  <trd lng="ku">hez kirin</trd>
+  <trd lng="no">elske</trd>
+  <trd lng="oc">aimar</trd>
+  <trdgrp lng="pl">
+    <trd>kocha&cacute;</trd>,
+    <trd>uwielbia&cacute;</trd>
+  </trdgrp>
+  <trd lng="ru">&c_l;&c_ju;&c_b;&c_i;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>ma&tcaron; r&aacute;d</trd>,
+    <trd>milova&tcaron;</trd>,
+    <trd>&lcaron;&uacute;bi&tcaron;</trd>
+  </trdgrp>
+  <trd lng="tr">sevmek</trd>
+  <trdgrp lng="zh">
+    <trd>&#29233;</trd>,
+    <trd><klr>tr. </klr>&#24859;<klr> [&agrave;i]</klr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="am.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="am.0o.PSI">
+    <dif>
+      Inklino al persono a&ubreve; ideo:
+      <ekz>
+        havi, senti, porti<fnt>Z</fnt> <tld/>on al;
+      </ekz>
+      <ekz>
+        oni ne forgesas facile sian unuan <tld/>on
+        <fnt><bib>F</bib>, <lok>&FE; 18</lok></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="inklin.0o">korinklino</ref>,
+      <ref cel="lig">korligi&gcirc;o</ref>,
+      <ref cel="simpat.0o">simpatio</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_k;&c_a;&c_h;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>,
+    <trd>&c_l;&c_ju;&c_b;&c_o;&c_w;</trd>
+  </trdgrp>
+  <trd lng="bg">&c_l;&c_ju;&c_b;&c_o;&c_v;</trd>
+  <trd lng="ca">amor</trd>
+  <trd lng="cs">l&aacute;ska</trd>
+  <trd lng="de">Liebe</trd>
+  <trd lng="en">love</trd>
+  <trd lng="es">amor</trd>
+  <trd lng="fr">amour</trd>
+  <trdgrp lng="hu">
+    <trd>szeretet</trd>,
+    <trd>szerelem</trd>
+  </trdgrp>
+  <trd lng="id">cinta</trd>
+  <trd lng="it">amore</trd>
+  <trd lng="nl">liefde</trd>
+  <trd lng="no">kj&aelig;rlighet</trd>
+  <trd lng="oc">amor</trd>
+  <trd lng="pl">mi&lstroke;o&sacute;&cacute;</trd>
+  <trd lng="ru">&c_l;&c_ju;&c_b;&c_o;&c_v;&c_mol;</trd>
+  <trd lng="sk">l&aacute;ska</trd>
+  <trdgrp lng="tr">
+    <trd>sevgi</trd>,
+    <trd>a&scedil;k</trd>,
+    <trd>sevda</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd>&#29233;</trd>,
+    <trd><klr>tr. </klr>&#24859;<klr> [&agrave;i]</klr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="am.0acxi">
+  <kap><tld/>a&ccirc;i, <var><kap><tld/>a&jcirc;i<fnt>Z</fnt></kap></var></kap>
+  <snc mrk="am.0acxi.AMOR">
+    <uzo tip="stl">ARK</uzo>
+    <ref tip="dif" cel="amor.0i">amori</ref>
+    <ekz>
+      Luiza jam anta&ubreve; la geedzi&gcirc;o <tld/>a&jcirc;is
+      kun ia studento kaj kun tiu &scirc;i korespondis
+      ankora&ubreve; post la edzi&gcirc;festo
+      <fnt>
+        <aut>K. &Ccaron;apek, trad. J. Vondrou&scaron;ek</aut>,
+        <vrk><url
+        ref="http://www.literatura.bucek.name/capekk/capek-karel_posrakontoj.doc">
+        Rakontoj el Unua Po&scirc;o kaj Rakontoj el la Dua Po&scirc;o</url></vrk>,
+        <lok>1981</lok>
+      </fnt>.
+    </ekz>
+  </snc>
+  <trd lng="en">make love</trd>
+  <trd lng="hu">szeretkezik</trd>  
+  <trd lng="it">fare l'amore</trd>
+  <trd lng="nl">neuken</trd>
+  <trd lng="no">knulle</trd>
+  <trd lng="pl">kocha&cacute; si&eogonek;<klr> (z kim&sacute;)</klr></trd>
+  <trd lng="ru">&c_z;&c_a;&c_n;&c_i;&c_m;&c_a;&c_t;&c_mol;&c_s;&c_ja; &c_l;&c_ju;&c_b;&c_o;&c_v;&c_mol;&c_ju;</trd>
+</drv>
+
+<drv mrk="am.0ajxo">
+  <kap><tld/>a&jcirc;o</kap>
+  <snc mrk="am.0ajxo.KOMUNE">
+    <refgrp tip="vid">
+      <ref cel="afer.am0o"><tld/>afero</ref>,
+      <ref cel="intrig.am0o"><tld/>intrigo</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="fr">
+    <trd>aventure<klr tip="ind"> (amoureuse)</klr></trd>,
+    <trd>intrigue<klr tip="ind"> (amoureuse)</klr></trd>,
+    <trd>liaison<klr tip="ind"> (amoureuse)</klr></trd>
+  </trdgrp>
+  <trd lng="en">love affair</trd>
+  <trd lng="hu">szerelmi &uuml;gy</trd>  
+  <trd lng="it">amore</trd>
+  <trd lng="nl">liefdesaffaire</trd>
+  <trdgrp lng="pl">
+    <trd>mi&lstroke;ostka</trd>,
+    <trd>intryga <ind>mi&lstroke;osna</ind></trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_l;&c_ju;&c_b;&c_o;&c_v;&c_n;&c_a;&c_ja; 
+    &c_s;&c_v;&c_ja;&c_z;&c_mol;</trd>,
+    <trd>&c_l;&c_ju;&c_b;&c_o;&c_v;&c_n;&c_a;&c_ja; 
+    &c_i;&c_n;&c_t;&c_r;&c_i;&c_zh;&c_k;&c_a;</trd>,
+    <trd>&c_r;&c_o;&c_m;&c_a;&c_n;<klr tip="ind"> 
+    (&c_l;&c_ju;&c_b;&c_o;&c_v;&c_n;&c_a;&c_ja; 
+    &c_s;&c_v;&c_ja;&c_z;&c_mol;)</klr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="am.0ajxema">
+  <kap><tld/>a&jcirc;ema</kap>
+  <uzo tip="stl">RAR</uzo>
+  <snc mrk="am.0ajxema.PSI">
+    <dif>
+      <tld lit="A"/>intrigema, flirtema, <tld/>induma.
+    </dif>
+  </snc>
+  <trd lng="en">flirtatious</trd>
+  <trd lng="fr">dragueur<klr tip="ind"> (adj.)</klr></trd>
+  <trd lng="hu">kac&eacute;r</trd>  
+  <trd lng="nl">flirtziek</trd>
+  <trdgrp lng="pl">
+    <trd>kochliwy</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="am.0ajxisto">
+  <kap><tld/>a&jcirc;isto, <var><kap><tld/>a&jcirc;istino</kap></var></kap>
+  <snc mrk="am.0ajxisto.KOMUNE">
+    <dif>
+      Vira a&ubreve; ina <tld/>a&jcirc;donanto, amoranto, amorato.
+    </dif>
+  </snc>
+  <trdgrp lng="de">
+    <trd>Kurtisane</trd>,
+    <trd>M&auml;tresse</trd>,
+    <trd>Geisha</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>courtisane</trd>,
+    <trd>geisha</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd><ind>courtisan</ind>e</trd>,
+    <trd>gigolo</trd>
+  </trdgrp>
+  <trd lng="hu">szeret&odblac;<klr tip="ind"> (pej.)</klr></trd>  
+  <trdgrp lng="nl">
+    <trd>lief<klr tip="ind"> (zn.)</klr></trd>,
+    <trd>maitresse</trd>
+  </trdgrp>
+  <trdgrp lng="no">
+    <trd>elsker</trd>,
+    <trd>elskerinne</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>kobieciarz</trd>,
+    <trd>&zdot;igolak</trd>,
+    <trd>flirciarz</trd>,
+    <trd>kocha&sacute;</trd>,
+    <trd>lowelas</trd>,
+    <trd>&lstroke;atwa kobieta</trd>,
+    <trd>kobieta lekkich obyczaj&oacute;w</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_k;&c_u;&c_r;&c_t;&c_i;&c_z;&c_a;&c_n;&c_k;&c_a;</trd>,
+    <trd>&c_zh;&c_i;&c_g;&c_o;&c_l;&c_o;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="am.0anto">
+  <kap><tld/>anto, <var><kap><tld/>antino</kap></var></kap>
+  <snc mrk="am.0anto.amike">
+    <dif>
+      Tiu, kiu amike <tld/>as.
+    </dif>
+    <trdgrp lng="de">
+      <trd>Liebender</trd>,
+      <trd>Liebende</trd>
+    </trdgrp>
+   <trd lng="hu">szeret&odblac; bar&aacute;t</trd>    
+   <trd lng="nl">geliefde</trd>
+   <trd lng="no">kj&aelig;reste</trd>
+   <trd lng="pl">amant</trd>
+  </snc>
+  <snc mrk="am.0anto.sekse">
+    <dif>
+      Tiu, kiu sekse <tld/>as.
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_k;&c_a;&c_h;&c_a;&c_n;&c_a;&c_k;</trd>,
+      <trd>&c_k;&c_a;&c_h;&c_a;&c_n;&c_k;&c_a;</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd>Liebender</trd>,
+      <trd>Liebende</trd>,
+      <trd>Liebhaber</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd><ind>amant</ind>(e)</trd>,
+      <trd>ma&icirc;tresse</trd>,
+      <trd>petit(e) <ind>ami</ind>(e)</trd>,
+      <trd>amoureux<klr tip="ind"> (subst.)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>szeret&odblac;</trd>,
+      <trd>kedves</trd>
+    </trdgrp>
+    <trd lng="id">pacar</trd>
+    <trd lng="nl">vriendinnetje</trd>
+    <trdgrp lng="no">
+      <trd>elsker</trd>,
+      <trd>elskerinne</trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>kochanek</trd>,
+      <trd>amant</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_l;&c_ju;&c_b;&c_o;&c_v;&c_n;&c_i;&c_k;</trd>,
+      <trd>&c_l;&c_ju;&c_b;&c_o;&c_v;&c_n;&c_i;&c_c;&c_a;</trd>
+    </trdgrp>
+    <trdgrp lng="sk">
+      <trd>milenec</trd>,
+      <trd>milenka</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="am.0anto.amatoro">
+    <dif>
+      Tiu, kiu &scirc;atas,
+      <ref tip="vid" cel="amator.0o">amatoro</ref>:
+      <ekz>
+        <ind>e&ccirc; por pomo putranta trovi&gcirc;as <tld/>anto</ind>
+        <trd lng="fr">tous les gouts sont dans la nature</trd>
+        <fnt><bib>PrV</bib></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_l;&c_ju;&c_b;&c_ib;&c_c;&c_je;&c_l;&c_mol;</trd>
+    <trd lng="de">Liebhaber</trd>
+    <trd lng="fr">amateur</trd>
+    <trdgrp lng="hu">
+      <trd>amat&odblac;r</trd>,
+      <trd>m&udblac;kedvel&odblac;</trd>
+    </trdgrp>
+    <trd lng="nl">liefhebber</trd>
+    <trd lng="no">amat&oslash;r</trd>
+    <trdgrp lng="pl">
+      <trd>amator</trd>,
+      <trd>ch&eogonek;tny</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_l;&c_ju;&c_b;&c_i;&c_t;&c_je;&c_l;&c_mol;</trd>,
+      <trd>&c_l;&c_ju;&c_b;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_i;&c_c;&c_a;</trd>
+    </trdgrp>
+    <trd lng="sk">milovn&iacute;k</trd>
+  </snc>
+  <trd lng="cs">milenka</trd>
+  <trd lng="en">lover</trd>
+  <trd lng="es">amante</trd>
+  <trdgrp lng="sk">
+    <trd>kurtiz&aacute;na</trd>,
+    <trd>milenka, kurtiz&aacute;na</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="am.0atajxo">
+  <kap><tld/>ata&jcirc;o<fnt>Z</fnt></kap>
+  <snc mrk="am.0atajxo.KOMUNE">
+    <dif>
+      Preferata okupi&gcirc;o
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="cxeval.0eto">&ccirc;evaleto</ref>,
+      <ref cel="hobi.0o">hobio</ref>,
+      <ref cel="sxat.0okupo">&scirc;atokupo</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="hu">
+    <trd>kedvtel&eacute;s</trd>,
+    <trd>hobbi</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>hobby</trd>,
+    <trd>liefhebberij</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>pastime</trd>,
+    <trd>hobby</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>passe-temps</trd>,
+    <trd>dada</trd>,
+    <trd>marotte</trd>,
+    <trd>hobby</trd>
+  </trdgrp>
+  <trd lng="no">hobby</trd>
+  <trd lng="pl">zami&lstroke;owanie</trd>
+  <trd lng="ru">&c_h;&c_o;&c_b;&c_b;&c_i;</trd>
+  <trd lng="sk">z&aacute;&lcaron;uba</trd>
+</drv>
+
+<drv mrk="am.0egi">
+  <kap><tld/>egi</kap>
+  <snc mrk="am.0egi.KOMUNE">
+    <dif>
+      Pasie <tld/>i;
+      <ref tip="sin" cel="ador.0i.amegi">adori<sncref/></ref>.
+    </dif>
+  </snc>
+  <trd lng="cs">vroucn&ecaron; milovat</trd>
+  <trdgrp lng="fr">
+    <trd>adorer</trd>,
+    <trd>&ecirc;tre <ind>&eacute;pris</ind> (de)</trd>,
+    <trd>raffoler (de)</trd>
+  </trdgrp>
+  <trd lng="hu">im&aacute;d <klr tip="ind">(&aacute;tv.)</klr></trd>
+  <trd lng="nl">aanbidden</trd>
+  <trd lng="pl">uwielbia&cacute;</trd>
+  <trd lng="ru">&c_o;&c_b;&c_o;&c_zh;&c_a;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>ma&tcaron; r&aacute;d</trd>,
+    <trd>n&aacute;ru&zcaron;ivo</trd>,
+    <trd>v&aacute;&scaron;nivo milova&tcaron;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="am.0eti">
+  <kap><tld/>eti</kap>
+  <snc mrk="am.0eti.KOMUNE">
+    <dif>
+      Iom <tld/>i.
+    </dif>
+  </snc>
+  <trd lng="cs">b&yacute;t naklon&ecaron;n <klr>(n&ecaron;komu)</klr></trd>
+  <trd lng="en">have a crush on</trd>
+  <trdgrp lng="fr">
+    <trd>s'<ind>int&eacute;resser</ind> (&agrave; quelqu'un)</trd>,
+    <trd>avoir le <ind>b&eacute;guin</ind> (pour)</trd>
+  </trdgrp>
+  <trd lng="hu">kedvel</trd>
+  <trd lng="nl">graag hebben</trd>
+  <trd lng="no">like</trd>
+  <trd lng="pl">lubi&cacute;</trd>
+  <trdgrp lng="ru">
+    <trd>&c_i;&c_n;&c_t;&c_je;&c_r;&c_je;&c_s;&c_o;&c_v;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>,
+    <trd>&c_i;&c_m;&c_je;&c_t;&c_mol; 
+    <ind>&c_s;&c_k;&c_l;&c_o;&c_n;&c_n;&c_o;&c_s;&c_t;&c_mol;</ind>
+    </trd>
+  </trdgrp>
+  <trd lng="sk">by&tcaron; naklonen&yacute; <klr>(niekomu)</klr></trd>
+</drv>
+
+<drv mrk="am.0inda">
+  <kap><tld/>inda</kap>
+  <snc mrk="am.0inda.KOMUNE">
+    <dif>
+      Meritanta a&ubreve; loganta <tld/>on,
+      <ref tip="vid" cel="cxarm.0a">&ccirc;arma</ref>,
+      <ref tip="vid" cel="placx.0a">pla&ccirc;a</ref>:
+      <ekz>
+        por la ge<tld/>antoj &ccirc;io estas <tld/>inda
+        en la <tld/>ato.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>hodn&yacute; milov&aacute;n&iacute;</trd>,
+    <trd>mil&yacute;</trd>,
+    <trd>roztomil&yacute;</trd>
+  </trdgrp>
+  <trd lng="de">liebensw&uuml;rdig</trd>
+  <trd lng="en">lovable</trd>
+  <trd lng="es">amable</trd>
+  <trdgrp lng="fr">
+    <trd>aimable</trd>,
+    <trd>charmant</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>aranyos</trd>,
+    <trd>szeretetre m&eacute;lt&oacute;</trd>,
+    <trd>szeretnival&oacute;</trd>
+  </trdgrp>
+  <trdgrp lng="it">
+    <trd>amorevole</trd>,
+    <trd>degno d'amore</trd>
+  </trdgrp>
+  <trd lng="nl">beminnenswaardig</trd>
+  <trdgrp lng="ru">
+    <trd>&c_o;&c_ch;&c_a;&c_r;&c_o;&c_v;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>,
+    <trd>
+    &c_o;&c_b;&c_a;&c_ja;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>milovania hodn&yacute;</trd>,
+    <trd>mil&yacute;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="am.0indumi">
+  <kap><ofc>*</ofc><tld/>indumi</kap>
+  <gra><vspec>x</vspec></gra>
+  <snc mrk="am.0indumi.MOR">
+    <dif>
+      Peni por pla&ccirc;i al viro a&ubreve; virino:
+      <ekz>
+        <tld/>indumi iun, kun iu<fnt>Z</fnt>
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="flirt.0i">flirti</ref>,
+      <ref cel="koket.0i">koketi</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_z;&c_a;&c_l;&c_ja;&c_c;&c_a;&c_c;&c_c;&c_a;</trd>,
+    <trd>&c_f;&c_l;&c_ib;&c_r;&c_t;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>dvo&rcaron;it se</trd>,
+    <trd>namlouvat si</trd>,
+    <trd>obletovat</trd>
+  </trdgrp>
+  <trd lng="en">court</trd>
+  <trd lng="es">cortejar</trd>
+  <trdgrp lng="fr">
+    <trd>faire la <ind>cour</ind></trd>,
+    <trd>coqueter<klr tip="ind"> (faire la cour)</klr></trd>,
+    <trd>flirter</trd>,
+    <trd>draguer<klr tip="ind"> (qn)</klr></trd>
+  </trdgrp>
+  <trd lng="hu">udvarol</trd>
+  <trdgrp lng="it">
+    <trd>corteggiare</trd>,
+    <trd>fare la corte</trd>
+  </trdgrp>
+  <trd lng="nl">flirten</trd>
+  <trd lng="no">fl&oslash;rte</trd>
+  <trdgrp lng="pl">
+    <trd>zaleca&cacute; si&eogonek;</trd>,
+    <trd>nadskakiwa&cacute;<klr> komu&sacute;</klr></trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_f;&c_l;&c_i;&c_r;&c_t;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_u;&c_h;&c_a;&c_zh;&c_i;&c_v;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>dvori&tcaron;</trd>,
+    <trd>nahov&aacute;ra&tcaron; si</trd>,
+    <trd>obletova&tcaron;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="am.0indumo">
+  <kap><tld/>indumo</kap>
+  <snc mrk="am.0indumo.MOR">
+    <dif>
+    Ago <tld/>indumi.
+    </dif>
+  <ref tip="vid" cel="flirt.0o.FIG">flirto</ref>
+  </snc>
+  <trdgrp lng="fr">
+    <trd>drague</trd>,
+    <trd>flirt</trd>
+  </trdgrp>
+</drv>
+
+
+<drv mrk="am.en0igxi">
+  <kap>en<tld/>i&gcirc;i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="am.en0igxi.PSI">
+    <dif>
+      Eksenti fervoran <tld/>on por iu:
+      <ekz>
+        en<tld/>i&gcirc;i al<fnt>Z</fnt>, por iu<fnt>Z</fnt>,
+        en iun<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_z;&c_a;&c_k;&c_a;&c_h;&c_a;&c_c;&c_c;&c_a;</trd>,
+    <trd>&c_p;&c_a;&c_l;&c_ju;&c_b;&c_ib;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="de">verlieben</trd>
+  <trd lng="en">fall in love</trd>
+  <trd lng="es">enamorarse</trd>
+  <trd lng="fr">tomber <ind>amoureux</ind></trd>
+  <trd lng="hu">beleszeret</trd>
+  <trd lng="id">jatuh cinta</trd>  
+  <trd lng="it">innamorarsi</trd>
+  <trd lng="nl">verliefd worden</trd>
+  <trd lng="no">forelske seg</trd>
+  <trdgrp lng="pl">
+    <trd>zakocha&cacute; si&eogonek;</trd>,
+    <trd>pokocha&cacute;</trd>
+  </trdgrp>
+  <trd lng="ru">&c_v;&c_l;&c_ju;&c_b;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>
+  <trdgrp lng="sk">
+    <trd>zamilova&tcaron; sa</trd>,
+    <trd>za&lcaron;&uacute;bi&tcaron; sa</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="am.ge0antoj">
+  <kap>ge<tld/>antoj</kap>
+  <snc mrk="am.ge0antoj.KOMUNE">
+    <dif>
+      Paro da inter<tld/>antoj.
+    </dif>
+  </snc>
+  <trd lng="be">&c_k;&c_a;&c_h;&c_a;&c_n;&c_k;&c_ib;</trd>
+  <trdgrp lng="cs">
+    <trd>milenci</trd>,
+    <trd>mileneck&aacute; dvojice</trd>,
+    <trd>zamilovan&iacute;</trd>
+  </trdgrp>
+  <trd lng="en">lovers</trd>
+  <trd lng="es">amantes</trd>
+  <trd lng="fr"><ind>amant</ind>s</trd>
+  <trdgrp lng="hu">
+    <trd>szeret&odblac;k</trd>,
+    <trd>szerelmesp&aacute;r</trd>
+  </trdgrp>
+  <trd lng="nl">verliefden</trd>
+  <trd lng="no">kj&aelig;rester</trd>
+  <trdgrp lng="pl">
+    <trd>kochankowie</trd>,
+    <trd>zakochani</trd>
+  </trdgrp>
+  <trd lng="ru">&c_v;&c_l;&c_ju;&c_b;&c_l;&c_jo;&c_n;&c_n;&c_y;&c_je;
+  </trd>
+  <trd lng="sk">milenci</trd>
+</drv>
+
+<drv mrk="am.mal0i">
+  <kap>mal<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="am.mal0i.iun">
+    <dif>
+      Havi malinklinon, malfavoran senton al...;
+      <ref tip="sin" cel="hat.0i.KOMUNE">hati</ref>:
+      <ekz>
+        kiu mal<tld/>as sian fraton, tiu estas en la mallumo
+        <fnt>
+          <bib>NT</bib>,
+          <lok>&Joh; 2:11</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">nen&aacute;vid&ecaron;t</trd>
+  <trd lng="fr">d&eacute;tester</trd>
+  <trd lng="sk">nen&aacute;vidie&tcaron;</trd>
+</drv>
+
+<drv mrk="am.mal0o">
+  <kap>mal<tld/>o</kap>
+  <snc mrk="am.mal0o.pasio">
+    <dif>
+      Pasio, kiu inklinigas al malbondeziro a&ubreve; malbonago 
+      kontra&ubreve; iu.
+    </dif>
+  </snc>
+  <snc mrk="am.mal0o.malinklino">
+    <dif>
+      Forta malinklino kontra&ubreve; io.
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="abomen">abomeno</ref>,
+      <ref cel="antipa.0o">antipatio</ref>,
+      <ref cel="favor">malfavoro</ref>,
+      <ref cel="nauxz.0o">na&ubreve;zo</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_n;&c_ja;&c_n;&c_a;&c_v;&c_ib;&c_s;&c_mol;&c_c;&c_mol;</trd>,
+    <trd>&c_v;&c_a;&c_r;&c_o;&c_zh;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
+    <trd>&c_n;&c_je;&c_p;&c_r;&c_y;&c_ja;&c_z;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>nen&aacute;vist</trd>,
+    <trd>z&aacute;&scaron;&tcaron;</trd>
+  </trdgrp>
+  <trd lng="de">Hass</trd>
+  <trd lng="en">hate</trd>
+  <trd lng="es">odio</trd>
+  <trd lng="fr">haine</trd>
+  <trd lng="hu">gy&udblac;l&ouml;let</trd>
+  <trd lng="it">odio</trd>
+  <trd lng="nl">haat</trd>
+  <trd lng="no">hat</trd>
+  <trd lng="pl">nienawi&sacute;&cacute;</trd>
+  <trd lng="ru">&c_n;&c_je;&c_n;&c_a;&c_v;&c_i;&c_s;&c_t;&c_mol;</trd>
+  <trd lng="sk">nen&aacute;vis&tcaron;</trd>
+  <trd lng="tr">nefret</trd>
+</drv>
+
+<drv mrk="am.pli0i">
+  <kap>pli<tld/>i</kap>
+  <uzo tip="stl">ARK</uzo>
+  <snc mrk="am.pli0i.KOMUNE">
+    <ref tip="dif" cel="prefer.0i.KOMUNE">preferi</ref>
+  </snc>
+  <trd lng="en">prefer</trd>
+  <trdgrp lng="hu">
+    <trd>jobban <ind>szeret</ind></trd>,
+    <trd>ink&aacute;bb <ind>kedvel</ind></trd>
+  </trdgrp>
+  <trd lng="nl">liever hebben</trd>
+  <trd lng="no">foretrekke</trd>
+  <trd lng="ru">
+  &c_p;&c_r;&c_je;&c_d;&c_p;&c_o;&c_ch;&c_i;&c_t;&c_a;&c_t;&c_mol;</trd>
+</drv>
+
+<drv mrk="am.glor0o">
+  <kap>glor<tld/>o</kap>
+  <snc mrk="am.glor0o.KOMUNE">
+    <dif>
+      <tld lit="A"/>o al gloro.
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_l;&c_a;&c_v;&c_a;&c_l;&c_ju;&c_b;&c_s;&c_t;&c_v;&c_a;</trd>
+  <trd lng="cs">cti&zcaron;&aacute;dost</trd>
+  <trd lng="fr">ambition</trd>
+  <trd lng="hu">dicsv&aacute;gy</trd>
+  <trd lng="nl">eerzucht</trd>
+  <trd lng="pl">&zdot;&aogonek;dza s&lstroke;awy</trd>
+  <trd lng="ru">&c_ch;&c_je;&c_s;&c_t;&c_o;&c_l;&c_ju;&c_b;&c_i;&c_je;</trd>
+  <trd lng="sk">cti&zcaron;iadostivos&tcaron;</trd>
+</drv>
+
+<drv mrk="am.hom0o">
+  <kap>hom<tld/>o</kap>
+  <snc mrk="am.hom0o.KOMUNE">
+    <dif>
+      <tld lit="A"/>o al niaj kunhomoj, al la tuta homaro;
+      <ref tip="sin" cel="filant2.0o">filantropio</ref>.
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>filantropie</trd>,
+    <trd>humanita</trd>,
+    <trd>lidumilnost</trd>,
+    <trd>l&aacute;ska k lidem</trd>
+  </trdgrp>
+  <trd lng="de">Menschenliebe</trd>
+  <trd lng="fr">philanthropie</trd>
+  <trd lng="hu">emberszeretet</trd>
+  <trd lng="it">filantropia</trd>
+  <trd lng="nl">filantropie</trd>
+  <trd lng="no">filantropi</trd>
+  <trd lng="pl">mi&lstroke;o&sacute;&cacute; do bli&zacute;niego</trd>
+  <trd lng="ru">&c_ch;&c_je;&c_l;&c_o;&c_v;&c_je;&c_k;&c_o;&c_l;&c_ju;&c_b;&c_i;&c_je;</trd>
+  <trdgrp lng="sk">
+    <trd>&lcaron;udomilnos&tcaron;</trd>,
+    <trd>humanita</trd>,
+    <trd>&ccaron;love&ccaron;enstvo</trd>,
+    <trd>&lcaron;udomilstvo</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="am.mem0o">
+  <kap>mem<tld/>o, <var><kap>sin<tld/>o</kap></var></kap>
+  <snc mrk="am.mem0o.PSI">
+    <uzo tip="fak">PSI</uzo>
+    <dif>
+      <tld lit="A"/>o al si; eventuale tro forta zorgo pri si
+      kaj indiferento al aliaj homoj;
+      <ref tip="sin" cel="narcis.0ismo.PSI">narcisismo</ref>:
+      <ekz>
+        li havis pri si mem plej altan opinion; lia mem<tld/>o  estis 
+        senlima, sed liaj manieroj estis simplaj
+        <fnt><bib>PatrojFiloj</bib>, <lok>&ccirc;apitro 12a</lok></fnt>;
+      </ekz>
+      <ekz>
+        via konduto <klr>...</klr> impresis min per 
+        maksimuma kredo pri via orgojlo, via sin<tld/>o, via senatenta 
+        mal&scirc;ato pri la sentoj de aliaj
+        <fnt>
+          <aut>J. Austen, trad. D. J. Harlow</aut>,
+          <vrk><url
+          ref="http://donh.best.vwh.net/Esperanto/Literaturo/Noveloj/fiereco.html">
+          Fiereco kaj anta&ubreve;ju&gcirc;emo</url></vrk>,
+          <lok>[vidita en 2010]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="ego.0ismo.PSI">egoismo</ref>,
+      <ref cel="estim.mem0o.PSI">memestimo</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_a;&c_m;&c_a;&c_l;&c_ju;&c_b;&c_s;&c_t;&c_v;&c_a;</trd>,
+    <trd>&c_e;&c_g;&c_a;&c_ib;&c_z;&c_m;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>sebel&aacute;ska</trd>,
+    <trd>sobectv&iacute;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Selbstliebe</trd>,
+    <trd>Eigenliebe</trd>
+  </trdgrp>
+  <trd lng="en">self-love</trd>
+  <trdgrp lng="fr">
+    <trd>amour propre</trd>,
+    <trd>narcissisme</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>&ouml;nszeretet</trd>,
+    <trd>&ouml;nz&eacute;s</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>ego&iuml;sme</trd>,
+    <trd>eigenliefde</trd>
+  </trdgrp>
+  <trdgrp lng="no">
+    <trd>egoisme</trd>,
+    <trd>egenkj&aelig;rlighet</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>samolubstwo</trd>,
+    <trd>egoizm</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_je;&c_b;&c_ja;&c_l;&c_ju;&c_b;&c_i;&c_je;</trd>,
+    <trd>&c_s;&c_a;&c_m;&c_o;&c_l;&c_ju;&c_b;&c_i;&c_je;</trd>,
+    <trd>&c_e;&c_g;&c_o;&c_i;&c_z;&c_m;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>sebal&aacute;ska</trd>,
+    <trd>sebeckos&tcaron;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="am.0ovendisto">
+  <kap><tld/>ovendisto</kap>
+  <uzo tip="stl">ARK</uzo>
+  <snc>
+    <ref tip="dif" cel="amor.0isto">amoristo</ref>
+  </snc>
+  <trdgrp lng="de">
+    <trd>Callboy</trd>,
+    <trd>Prostituierter</trd>,
+    <trd>Strichjunge</trd>,
+    <trd>Stricher</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>prostitu&eacute;</trd>,
+    <trd>gigolo</trd>,
+    <trd>tapin<klr tip="ind"> (prostitu&eacute;)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>selyemfi&uacute;</trd>,
+    <trd>zsigol&oacute;</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>prostitu&eacute;</trd>,
+    <trd>gigolo</trd>
+  </trdgrp>
+  <trd lng="no">prostituert</trd>
+  <trdgrp lng="pl">
+    <trd><klr>m&eogonek;ska </klr>prostytutka</trd>,
+    <trd>&zdot;igolak</trd>,
+    <trd>kocha&sacute;</trd>,
+    <trd>lowelas</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="am.0ovendistino">
+  <kap><tld/>ovendistino</kap>
+  <uzo tip="stl">ARK</uzo>
+  <snc>
+    <ref tip="dif" cel="amor.0istino">amoristino</ref>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_r;&c_a;&c_s;&c_t;&c_a;&c_l;&c_y;&c_t;&c_k;&c_a;</trd>,
+    <trd>&c_p;&c_r;&c_a;&c_s;&c_t;&c_y;&c_t;&c_u;&c_t;&c_k;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Nutte</trd>,
+    <trd>Hure</trd>,
+    <trd>leichtes M&auml;dchen</trd>,
+    <trd>Prostituierte</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>prostitute</trd>,
+    <trd>hooker</trd>,
+    <trd>whore</trd>,
+    <trd>escort</trd>
+  </trdgrp>
+  <trd lng="es">prostituta</trd>
+  <trdgrp lng="fr">
+    <trd><ind>prostitu&eacute;</ind>e</trd>,
+    <trd>fille publique</trd>,
+    <trd>fille de <ind>joie</ind></trd>,
+    <trd>grue</trd>,
+    <trd>p&eacute;ripat&eacute;ticienne</trd>,
+    <trd>putain</trd>,
+    <trd>tapineuse</trd>,
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>prostitu&aacute;lt</trd>,
+    <trd>k&eacute;jn&odblac;</trd>,
+    <trd>kurtiz&aacute;n</trd>
+  </trdgrp>
+  <trd lng="it">prostituta</trd>
+  <trd lng="nl">prostituee</trd>
+  <trd lng="no">prostituert</trd>
+  <trdgrp lng="pl">
+    <trd>prostytutka</trd>,
+    <trd>dziwka</trd>
+  </trdgrp>
+  <trd lng="ru">
+  &c_p;&c_r;&c_o;&c_s;&c_t;&c_i;&c_t;&c_u;&c_t;&c_k;&c_a;</trd>
+  <trd lng="tr">orospu</trd>
+  <trd lng="sk">prostit&uacute;tka</trd>
+</drv>
+</art>
+<!--
+$Log: am.xml,v $
+Revision 1.56  2015/10/29 08:10:22  revo
+Damien Brucker: +~indumo
+
+Revision 1.55  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.54  2015/06/29 16:39:29  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.53  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.52  2015/06/06 00:10:12  revo
+Jeromo Vasxe: + mal~i
+
+Revision 1.51  2014/12/08 20:10:31  revo
+Filip van Laenen: +trd(no)
+
+Revision 1.50  2014/06/03 15:10:34  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.49  2013/07/03 01:10:11  revo
+-->
+</vortaro>

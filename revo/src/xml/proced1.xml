@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: proced1.xml,v 1.19 2015/07/04 08:37:42 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>procedur</rad>/o
+</kap>
+<drv mrk="proced1.0o">
+  <kap><tld/>o</kap>
+  <snc>
+    <dif>
+      Procedaro en ju&gcirc;aferoj:
+      <ekz>
+        la <tld/>oj pri azilpetado longe da&ubreve;ras<fnt><aut>Guido Van
+        Damme</aut>: <vrk>Sep en unu bato</vrk>,
+        <bib>Monato</bib><lok>jaro 1999a, numero 3a, p. 6a</lok></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="en">procedure<klr> (legal)</klr></trd>
+    <trdgrp lng="hu">
+      <trd>&uuml;gyrend</trd>,
+      <trd>rendtart&aacute;s</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="proced1.0o.KOMP">
+    <uzo tip="fak">KOMP</uzo>
+    <dif>
+      En programlingvoj, nomhava sekvenco de frazoj,
+      plenumebla per vokoj el diversaj punktoj de la
+      <ref tip="malprt" cel="progra.0o.komp">programo</ref>:
+      <ekz>
+        se ofte vokata <tld/>o en la programo akiras memorpecon de la
+        sistemo, &gcirc;i devas redoni &gcirc;in poste, kiam la memorpeco ne plu
+        estas
+        bezonata<fnt><aut>Klivo</aut>: <vrk>Kio estas Javo?</vrk>,
+        <bib>Monato</bib><lok>jaro 1998a, numero 5a, p. 13a</lok></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="en">procedure<klr> (computer programming)</klr></trd>
+    <trd lng="hu">elj&aacute;r&aacute;s</trd>
+  </snc>
+  <trd lng="be">&c_p;&c_r;&c_a;&c_c;&c_e;&c_d;&c_u;&c_r;&c_a;</trd>
+  <trd lng="ca">procediment</trd>
+  <trdgrp lng="cs">
+    <trd>podprogram</trd>,
+    <trd>standardní průběh</trd>
+  </trdgrp>
+  <trd lng="de">Prozedur</trd>
+  <trdgrp lng="fr">
+    <trd>proc&eacute;dure</trd>
+  </trdgrp>
+  <trd lng="nl">procedure</trd>
+  <trd lng="pl">procedura</trd>
+  <trd lng="pt">procedimento</trd>
+  <trd lng="ru">&c_p;&c_r;&c_o;&c_c;&c_je;&c_d;&c_u;&c_r;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>podprogram</trd>,
+    <trd>štandardný priebeh</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: proced1.xml,v $
+Revision 1.19  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2013/01/14 10:10:09  revo
+Jozefo Horvath: kor. tr hu
+
+Revision 1.16  2012/07/20 09:10:14  revo
+Marc Rausell: + trd ca
+
+Revision 1.15  2011/05/06 12:10:14  revo
+Russ Williams: +trd en
+
+Revision 1.14  2009/07/06 16:30:28  revo
+Russ Williams: +trd en
+
+Revision 1.13  2009/02/28 17:30:59  revo
+Marcus Curdeius: +pl
+
+Revision 1.12  2006/03/20 17:33:35  revo
+Tulio Flores: +tr pt
+
+Revision 1.11  2004/02/25 17:30:52  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.10  2002/12/20 17:32:36  revo
+-->
+</vortaro>

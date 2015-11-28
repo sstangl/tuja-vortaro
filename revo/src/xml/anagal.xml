@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: anagal.xml,v 1.16 2013/08/28 18:10:14 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>anagal</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="anagal.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="anagal.0o.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:botanikaj_genroj">Genro</ref> el familio <ref
+      tip="malprt"
+      cel="primol1.0oj">primolacoj</ref>
+      (<trd lng="la">Anagallis</trd>), herbo
+      kun ru&gcirc;aj a&ubreve; bluaj floretoj, venena al birdoj:
+      <ekz>
+        li trovis la ordinarajn ru&gcirc;an kaj bluan <tld/>ojn
+        <klr>...</klr>
+        absolute malfekundaj inter si
+        <fnt><bib>OriginoDeSpecioj</bib>, <lok>&ccirc;apitro 8a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <bld lok="../bld/anagal.jpg">
+    <ind>ru&gcirc;a <tld/>o</ind>
+    <trdgrp lng="de">
+      <trd>Acker-Gauchheil</trd>,
+      <trd>Roter Gauchheil</trd>
+    </trdgrp>
+    <trd lng="en">scarlet pimpernel</trd>
+    <trd lng="hu">mezei <ind>tikszem</ind></trd>
+    <trd lng="la">Anagallis arvensis</trd>
+    <trd lng="sv">r&ouml;dmire</trd>
+  </bld>
+  <trd lng="bg">&c_o;&c_g;&c_n;&c_i;&c_v;&c_ch;&c_je;</trd>
+  <trd lng="de">Gauchheil</trd>
+  <trd lng="en">pimpernel</trd>
+  <trd lng="fr">mouron</trd>
+  <trd lng="hu">tikszem</trd>
+  <trd lng="nl">guichelheil</trd>
+  <trd lng="ru">&c_o;&c_ch;&c_n;&c_y;&c_j; &c_c;&c_v;&c_je;&c_t; <klr tip="amb">(&c_r;&c_a;&c_s;&c_t;&c_je;&c_n;&c_i;&c_je;)</klr></trd>
+  <trd lng="sv">mire</trd>
+</drv>
+</art>
+<!--
+$Log: anagal.xml,v $
+Revision 1.16  2013/08/28 18:10:14  revo
+Wolfram Diestel: prilaboretis la difinon
+
+Revision 1.15  2012/09/30 17:10:09  revo
+Jeromo Vasxe: + ekz
+
+Revision 1.14  2008/03/20 17:30:19  revo
+Wieland Pusch: +trd de,bg,en
+
+Revision 1.13  2002/03/19 17:33:32  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.12  2002/02/23 19:48:48  revo
+Yury Finkel: +trd ru
+
+Revision 1.11 2002/01/04 17:32:40 revo
+Marc Bavant: +trd fr
+
+Revision 1.10 2001/08/02 18:14:19 revo
+Paul Peeraerts: ald trd nl
+
+Revision 1.9 2001/07/22 18:14:37 revo
+-->
+</vortaro>

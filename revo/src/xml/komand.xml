@@ -1,0 +1,256 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: komand.xml,v 1.20 2015/07/04 08:37:37 revo Exp $">
+<kap>
+<ofc>*</ofc>
+<rad>komand</rad>/i
+</kap>
+<drv mrk="komand.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>x</vspec></gra>
+  <uzo tip="fak">MIL</uzo>
+  <snc>
+    <dif>
+      <ref cel="estr.0i">Estri</ref> militistaron:
+      <ekz>
+        <tld/>i roton;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        &ccirc;iun demandu, sed mem al vi <tld/>u
+        <klr>(informi&gcirc;u, sed mem decidu)</klr>
+        <fnt><bib>PrV</bib></fnt>;
+      </ekz>
+      <ekz>
+        <ind><tld/>anto</ind> de citadelo<fnt>B</fnt>.
+        <trd lng="fr">commandant</trd>
+      </ekz>
+    </dif>
+    <trd lng="en">command</trd>
+  <trdgrp lng="fr">
+    <trd>commander<klr tip="ind"> (diriger)</klr></trd>,
+    <trd>diriger<klr tip="ind"> (exercer le commandement)</klr></trd>,
+    <trd>gouverner<klr tip="ind"> (exercer le commandement)</klr></trd>
+  </trdgrp>
+  <trd lng="pl">dowodzi&cacute;</trd>
+  <trdgrp lng="pt">
+    <trd>comandar</trd>,
+    <trd>mandar</trd>
+  </trdgrp>
+    <trd lng="ru">
+    &c_k;&c_o;&c_m;&c_a;&c_n;&c_d;&c_o;&c_v;&c_a;&c_t;&c_mol;
+    <klr>(&c_ch;&c_je;&c_m;-&c_l;.)</klr></trd>
+  </snc>
+  <snc>
+    <dif>
+      Militiste ordoni; doni signalon por movo a&ubreve; manovro:
+      <ekz>
+        la kapitano <tld/>is: haltu!
+      </ekz>
+    </dif>
+    <trdgrp lng="en">
+      <trd>order</trd>,
+      <trd>command</trd>
+    </trdgrp>
+  <trdgrp lng="fr">
+    <trd>commander<klr tip="ind"> (ordonner)</klr></trd>,
+    <trd>enjoindre</trd>,
+    <trd>donner l'<ind>instruction</ind> (de)</trd>,
+    <trd>ordonner</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>komenderowa&cacute;</trd>,
+    <trd>rozkazywa&cacute;</trd>,
+    <trd>wydawa&cacute; <ind>rozkaz</ind></trd>
+  </trdgrp>
+    <trd lng="ru">
+    &c_k;&c_o;&c_m;&c_a;&c_n;&c_d;&c_o;&c_v;&c_a;&c_t;&c_mol;
+    <klr>(&c_ch;&c_t;&c_o;-&c_l;.)</klr></trd>
+  </snc>
+  <trd lng="be">
+  &c_k;&c_a;&c_m;&c_a;&c_n;&c_d;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trdgrp lng="ca">
+    <trd>comandar</trd>,
+    <trd>dirigir</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>komandovat</trd>,
+    <trd>nařídit</trd>,
+    <trd>ovládat</trd>,
+    <trd>poručit</trd>,
+    <trd>velet</trd>,
+    <trd>řídit</trd>
+  </trdgrp>
+  <trd lng="it">comandare</trd>
+  <trdgrp lng="nl">
+    <trd>commanderen</trd>,
+    <trd>bevelen</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>nariadiť</trd>,
+    <trd>predpísať</trd>,
+    <trd>rozkázať</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="komand.0o">
+  <kap><tld/>o</kap>
+  <snc>
+    <dif>
+      Ago estri militistan aron:
+      <ekz>
+        la generalo prenis la <tld/>on al (super) la trupoj.
+      </ekz>
+    </dif>
+    <trd lng="ca">comandament</trd>
+    <trd lng="en">command</trd>
+    <trd lng="fr">commandement<klr tip="ind">
+    (l'autorit&eacute; de commandant)</klr></trd>
+    <trdgrp lng="pl">
+      <trd>dow&oacute;dztwo</trd>,
+      <trd>komenda</trd>
+    </trdgrp>
+  </snc>
+  <snc>
+    <dif>
+      Mallonga milita ordono:
+      <ekz>
+        je la <tld/>o "mar&scirc;u!" movi&gcirc;is la roto.
+      </ekz>
+    </dif>
+    <trdgrp lng="ca">
+      <trd>ordre</trd>,
+      <trd>instrucci&oacute;</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>command</trd>,
+      <trd>order</trd>
+    </trdgrp>
+  <trdgrp lng="fr">
+    <trd>commandement<klr tip="ind"> (ordre)</klr></trd>,
+    <trd>instruction<klr tip="ind"> (ordre)</klr></trd>,
+    <trd>injonction</trd>,
+    <trd>ordre</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>komenda</trd>
+  </trdgrp>
+  </snc>
+  <snc mrk="komand.0o.KOMP">
+    <uzo tip="fak">KOMP</uzo>
+    <dif>
+      <ref tip="super" cel="ordon.0o.KOMP">Ordono</ref> por tuja plenumo
+      precipe per
+      <ref tip="malprt" cel="interp2.0ilo">interpretilo</ref>.
+    </dif>
+    <subsnc mrk="komand.0o.masxina">
+      <dif>
+        <tld lit="K"/>o enkonstruita en
+        <ref tip="malprt" cel="komput.0ilo">komputilon</ref> a&ubreve;
+        periferian
+        <ref tip="malprt" cel="arangx.0ajxo.TEK">aran&gcirc;a&jcirc;on
+        </ref>:
+        <ekz>
+          aritmetika, senargumenta, rapida <tld/>o.
+        </ekz>
+        <ekz>
+          <ind><tld/>aro</ind>
+          <klr>(la sortimento de &ccirc;iuj <tld/>oj disponeblaj por
+          komputilo)</klr>;
+          <trd lng="be">&c_s;&c_y;&c_s;&c_t;&c_e;&c_m;&c_a;
+          <ind>&c_k;&c_a;&c_m;&c_a;&c_n;&c_d;&c_a;&c_w;</ind></trd>
+          <trd lng="en">instruction set</trd>
+          <trd lng="fr">jeu d'<ind>instruction</ind>s</trd>
+          <trd lng="ru">&c_s;&c_i;&c_s;&c_t;&c_je;&c_m;&c_a;
+          &c_k;&c_o;&c_m;&c_a;&c_n;&c_d;</trd>
+        </ekz>
+      </dif>
+      <trd lng="en">instruction</trd>
+      <trd lng="fr">instruction<klr tip="ind"> (info.)</klr></trd>
+    </subsnc>
+    <subsnc mrk="komand.0o.sxela">
+      <dif>
+        <tld lit="K"/>o interpretata per operaciuma
+        <ref tip="malprt" cel="sxel.0o.KOMP">&scirc;elo</ref>:
+        <ekz>
+          <ind><tld/>a linio</ind>
+          <klr>(ekrana linio sur kiu aperas <tld/>oj
+          tajpitaj de uzanto)</klr>.
+          <trd lng="be">
+          &c_k;&c_a;&c_m;&c_a;&c_n;&c_d;&c_n;&c_y;
+          &c_r;&c_a;&c_d;&c_o;&c_k;</trd>
+          <trd lng="en">command line</trd>
+          <trd lng="fr">ligne de <ind>commande</ind></trd>
+          <trd lng="it">riga di comando</trd>
+          <trd lng="ru">&c_k;&c_o;&c_m;&c_a;&c_n;&c_d;&c_n;&c_a;&c_ja;
+          &c_s;&c_t;&c_r;&c_o;&c_k;&c_a;</trd>
+        </ekz>
+      </dif>
+      <trd lng="en">command</trd>
+      <trd lng="fr">commande<klr tip="ind">
+      (du syst&egrave;me d'exploitation)</klr></trd>
+    </subsnc>
+    <subsnc mrk="komand.0o.menua">
+      <dif>
+        <tld lit="K"/>o interpretata per dialoga
+        interpretilo, ekz-e elekto per menuo.
+      </dif>
+      <trd lng="en">command</trd>
+      <trd lng="fr">commande<klr tip="ind">
+      (dans le cadre du dialogue homme-machine)</klr></trd>
+    </subsnc>
+    <trd lng="ca">comandament</trd>
+  </snc>
+  <trd lng="be">&c_k;&c_a;&c_m;&c_a;&c_n;&c_d;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>povel</trd>,
+    <trd>rozkaz</trd>,
+    <trd>velení</trd>
+  </trdgrp>
+  <trd lng="it">comando</trd>
+  <trd lng="nl">commando</trd>
+  <trdgrp lng="pl">
+    <trd>komenda</trd>,
+    <trd>polecenie</trd>
+  </trdgrp>
+  <trd lng="ru">&c_k;&c_o;&c_m;&c_a;&c_n;&c_d;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>povel</trd>,
+    <trd>rozkaz</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: komand.xml,v $
+Revision 1.20  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2011/12/07 11:10:15  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.17  2010/06/17 16:30:49  revo
+Antonio Codazzi: +trd it
+
+Revision 1.16  2008/10/30 19:25:38  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.15  2007/01/25 17:30:41  revo
+Tulio Flores: +tr pt
+
+Revision 1.14  2005/01/05 17:31:14  revo
+Marc Bavant: +trd fr, +MIL, +klr en ekz
+
+Revision 1.13  2003/01/05 17:34:02  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.12  2002/07/05 17:32:07  revo
+Wolfram Diestel: kor. ref-cel
+
+Revision 1.11  2002/01/11 19:09:35  revo
+-->
+</vortaro>

@@ -1,0 +1,308 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: arme.xml,v 1.29 2015/07/04 08:37:30 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>arme</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="arme.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="arme.0o.sxtata">
+    <tezrad fak="MIL"/>
+    <uzo tip="fak">POL</uzo>
+    <uzo tip="fak">MIL</uzo>
+    <dif>
+      La tuta organizita milita forto de
+      <ref tip="malprt" cel="sxtat.0o">&scirc;tato</ref>: la
+      <ref tip="prt" cel="soldat.0o">soldatoj</ref>,
+      <ref tip="prt" cel="oficir.sub0o">suboficiroj</ref> kaj
+      <ref tip="prt" cel="oficir.0o">oficiroj</ref>,
+      <ref tip="prt" cel="arm.0ilo">armiloj</ref>.
+    </dif>
+    <ref tip="vid" cel="milit.0istaro">militistaro</ref>
+    <refgrp tip="prt">
+      <ref cel="arme.aer0o">aer<tld/>o</ref>,
+      <ref cel="arme.mar0o">mar<tld/>o</ref>,
+      <ref cel="arme.ter0o">ter<tld/>o</ref>
+    </refgrp>
+    <trdgrp lng="fr">
+      <trd>arm&eacute;e<klr tip="ind">
+      (les forces arm&eacute;es d'un pays)</klr></trd>,
+      <trd>les <ind>force</ind>s arm&eacute;es</trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>wojsko</trd>,
+      <trd><ind>si&lstroke;y</ind> zbrojne</trd>
+    </trdgrp>
+    <trd
+    lng="ru">&c_v;&c_o;&c_o;&c_r;&c_u;&c_zh;&c_jo;&c_n;&c_n;&c_y;&c_je;
+    &c_s;&c_i;&c_l;&c_y;</trd>
+  </snc>
+  <snc mrk="arme.0o.unuo">
+    <uzo tip="fak">MIL</uzo>
+    <dif>
+      Parto de
+      <ref tip="malprt" cel="arme.0o.sxtata"><tld/>o<sncref/></ref>,
+      konsistanta el
+      <ref cel="korpus.0o.MIL">korpusoj</ref> a&ubreve; malpli
+      grandaj trupunuoj, komandata de unu &ccirc;efgeneralo.
+    </dif>
+    <trdgrp lng="fr">
+      <trd>arm&eacute;e<klr tip="ind"> (ensemble des troupes participant
+      &agrave; une exp&eacute;dition)</klr></trd>
+    </trdgrp>
+    <trd lng="pl">armia</trd>
+    <trd lng="ru">&c_a;&c_r;&c_m;&c_i;&c_ja;</trd>
+  </snc>
+  <snc mrk="arme.0o.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Multnombra kolekto da homoj a&ubreve; bestoj:
+      <ekz>
+        <tld/>o de la laboristoj, da akridoj, da petantoj<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="fr">
+      <trd>arm&eacute;e<klr tip="ind"> (grand nombre)</klr></trd>,
+      <trd>armada<klr tip="ind"> (grand nombre)</klr></trd>,
+      <trd>bataillon<klr tip="ind"> (grand nombre)</klr></trd>,
+      <trd>escadron<klr tip="ind"> (grand nombre)</klr></trd>,
+      <trd>essaim<klr tip="ind"> (grand nombre)</klr></trd>,
+      <trd>flot<klr tip="ind"> (grand nombre)</klr></trd>,
+      <trd>foule<klr tip="ind"> (grand nombre)</klr></trd>,
+      <trd>l&eacute;gion<klr tip="ind"> (grand nombre)</klr></trd>,
+      <trd>masse<klr tip="ind"> (grand nombre)</klr></trd>,
+      <trd>multitude<klr tip="ind"> (grand nombre)</klr></trd>,
+      <trd>nu&eacute;e<klr tip="ind"> (grand nombre)</klr></trd>,
+      <trd>quantit&eacute;<klr tip="ind"> (grand nombre)</klr></trd>,
+      <trd>r&eacute;giment<klr tip="ind"> (grand nombre)</klr></trd>,
+      <trd>troupe<klr tip="ind"> (grand nombre)</klr></trd>
+    </trdgrp>
+    <trd lng="pl">armia</trd>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_r;&c_m;&c_ib;&c_ja;</trd>,
+    <trd>&c_v;&c_o;&c_j;&c_s;&c_k;&c_a;</trd>
+  </trdgrp>
+  <trd lng="ca">ex&egrave;rcit</trd>
+  <trdgrp lng="cs">
+    <trd>armáda</trd>,
+    <trd>vojsko</trd>
+  </trdgrp>
+  <trd lng="de">Armee</trd>
+  <trdgrp lng="es">
+    <trd>ej&eacute;rcito</trd>,
+    <trd>armada</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>hadsereg</trd>,
+    <trd>sereg<klr tip="amb"> (&aacute;tv. is)</klr></trd>
+  </trdgrp>
+  <trd lng="it">armata</trd>
+  <trd lng="nl">leger</trd>
+  <trd lng="oc">armada</trd>
+  <trdgrp lng="ru">
+    <trd>&c_a;&c_r;&c_m;&c_i;&c_ja;</trd>,
+    <trd>&c_v;&c_o;&c_j;&c_s;&c_k;&c_o;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>vojsko</trd>,
+    <trd>arm&aacute;da</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="arme.aer0o">
+  <kap>aer<tld/>o,
+  <var><kap>flug<tld/>o</kap></var></kap>
+  <snc mrk="arme.aer0o.MIL">
+    <uzo tip="fak">MIL</uzo>
+    <dif>
+      Parto de
+      <ref tip="malprt" cel="arme.0o.sxtata"><tld/>o<sncref/></ref>,
+      kiu okupi&gcirc;as &ccirc;efe pri aviadilaj operacioj:
+      <ekz>
+        la japana aer<tld/>o bombardis Songjiang-stacidomon
+        <fnt>
+          <aut>Hasegawa T.</aut>,
+          <vrk><url
+          ref="http://wikilivres.ca/wiki/En_%C4%88inio_Batalanta">
+          En &Ccirc;inio Batalanta</url></vrk>, 
+          <lok>1954</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Kep Enderby <klr>...</klr> en 1944 ali&gcirc;is al la 
+        flug<tld/>o
+        <fnt>
+          <aut>UEA</aut>,
+          <vrk>Kep Enderby forpasis</vrk>,
+          <lok><url ref="http://uea.org/gk/565a1">
+          Gazetaraj Komuniko, 2015-01-08 (565)</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_v;&c_je;&c_t;&c_r;&c_a;&c_n;&c_y;&c_ja;
+  &c_v;&c_o;&c_j;&c_s;&c_k;&c_ib;</trd>
+  <trdgrp lng="cs">
+    <trd>letecká armáda</trd>,
+    <trd>vojenské letectvo</trd>,
+    <trd>vzdušné síly</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Luftwaffe</trd>,
+    <trd>Luftstreitkr&auml;fte</trd>
+  </trdgrp>
+  <trd lng="fr">arm&eacute;e de l'air</trd>
+  <trd lng="hu">l&eacute;gier&odblac;</trd>
+  <trd lng="it">aviazione<klr> militare</klr></trd>
+  <trdgrp lng="pl">
+    <trd><ind>flota</ind> powietrzna</trd>,
+    <trd><ind>wojska</ind> powietrzne</trd>,
+    <trd>lotnictwo <ind>wojskowe</ind></trd>
+  </trdgrp>
+  <trd lng="ru">&c_v;&c_o;&c_z;&c_d;&c_u;&c_sh;&c_n;&c_y;&c_je;
+  &c_v;&c_o;&c_j;&c_s;&c_k;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>letectvo</trd>,
+    <trd>vzdušné sily</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="arme.mar0o">
+  <kap>mar<tld/>o</kap>
+  <snc mrk="arme.mar0o.MIL">
+    <uzo tip="fak">MIL</uzo>
+    <dif>
+      Parto de
+      <ref tip="malprt" cel="arme.0o.sxtata"><tld/>o<sncref/></ref>,
+      kiu okupi&gcirc;as &ccirc;efe pri surmaraj operacioj.
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="flot.0o.MIL">floto<sncref/></ref>,
+      <ref cel="sxip.milit0aro">milit&scirc;iparo</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>námořní armáda</trd>,
+    <trd>námořní síly</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Marine</trd>,
+    <trd>Seestreitkr&auml;fte</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>marine<klr tip="ind"> (arm&eacute;e de mer)</klr></trd>,
+    <trd>arm&eacute;e de mer</trd>,
+    <trd>marine nationale</trd>,
+    <trd>marine de guerre<klr tip="ind"> (arm&eacute;e)</klr></trd>
+  </trdgrp><trd lng="fr">arm&eacute;e de terre</trd>
+  <trd lng="it">marina<klr> militare</klr></trd>
+  <trdgrp lng="pl">
+    <trd><ind>flota</ind> morska</trd>,
+    <trd>marynarka <ind>wojenna</ind></trd>
+  </trdgrp>
+  <trd lng="sk">námorné sily</trd>
+</drv>
+
+<drv mrk="arme.sav0o">
+  <kap>Sav<tld/>o</kap>
+  <snc mrk="arme.sav0o.NRO">
+    <dif>
+      Internacia religia organiza&jcirc;o bonfarada,
+      fondita en 1878 de W. Booth:
+      <ekz>
+        Ili donacis liajn vesta&jcirc;ojn al la Sav<tld/>o, &ccirc;ion
+        <fnt>
+          <aut>T. Jansson, trad. A. Nordstr&ouml;m</aut>,
+          <vrk><url
+          ref="http://hem.bredband.net/andnor/lsg/lagranda.htm">
+          La granda voja&gcirc;o</url></vrk>,
+          <lok>[2010?]</lok>
+        </fnt>. 
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">Armáda spásy</trd>
+  <trd lng="de">Heilsarmee</trd>
+  <trd lng="es">Ejercito de Salvaci&oacute;n</trd>
+  <trd lng="fr">Arm&eacute;e du salut</trd>
+  <trd lng="hu">&uuml;dvhadsereg</trd>
+  <trd lng="it"><ind>esercito</ind> della salvezza</trd>
+  <trdgrp lng="nl">
+    <trd>Leger des Heils</trd>,
+    <trd>Heilsleger</trd>
+  </trdgrp>
+  <trd lng="ru">&c_A;&c_r;&c_m;&c_i;&c_ja; &c_s;&c_p;&c_a;&c_s;&c_je;&c_n;&c_i;&c_ja;</trd>
+  <trdgrp lng="sk">
+    <trd>Arm&aacute;da Sp&aacute;sy</trd>,
+    <trd>Armáda spásy</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="arme.ter0o">
+  <kap>ter<tld/>o</kap>
+  <snc mrk="arme.ter0o.MIL">
+    <uzo tip="fak">MIL</uzo>
+    <dif>
+      Parto de
+      <ref tip="malprt" cel="arme.0o.sxtata"><tld/>o<sncref/></ref>,
+      kiu okupi&gcirc;as &ccirc;efe pri surteraj operacioj.
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_u;&c_h;&c_a;&c_p;&c_u;&c_t;&c_n;&c_y;&c_ja;
+  &c_v;&c_o;&c_j;&c_s;&c_k;&c_ib;</trd>
+  <trdgrp lng="cs">
+    <trd>pozemní armáda</trd>,
+    <trd>pozemní vojsko</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Heer</trd>,
+    <trd>Landstreitkr&auml;fte</trd>
+  </trdgrp>
+  <trd lng="fr">arm&eacute;e de terre</trd>
+  <trd lng="hu">sz&aacute;razf&ouml;ldi csapatok</trd>
+  <trd lng="it">esercito</trd>
+  <trdgrp lng="pl">
+    <trd><ind>wojska</ind> l&aogonek;dowe</trd>,
+    <trd><ind>wojska</ind> naziemne</trd>,
+    <trd><ind>si&lstroke;y</ind> l&aogonek;dowe</trd>
+  </trdgrp>
+  <trd lng="ru">&c_s;&c_u;&c_h;&c_o;&c_p;&c_u;&c_t;&c_n;&c_y;&c_je; &c_v;&c_o;&c_j;&c_s;&c_k;&c_a;</trd>
+  <trd lng="sk">pozemné vojsko</trd>
+</drv>
+</art>
+<!--
+$Log: arme.xml,v $
+Revision 1.29  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.28  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.27  2015/01/17 21:10:21  revo
+Jeromo Vasxe: + flug~o
+
+Revision 1.26  2013/10/08 10:10:17  revo
+Benito Subejrano: + trd ca oc
+
+Revision 1.25  2012/09/19 10:10:12  revo
+Jeromo Vasxe: + ekz
+
+Revision 1.24  2011/11/06 18:10:09  revo
+Jeromo Vasxe: + 1 ekz
+
+Revision 1.23  2010/06/03 16:30:22  revo
+Antonio Codazzi: +trd it
+
+Revision 1.22  2009/02/26 17:30:51  revo
+Jeromo Vasxe: + manka lng=sk
+
+Revision 1.21  2008/09/16 16:30:26  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.20  2006/09/22 12:27:52  revo
+-->
+</vortaro>

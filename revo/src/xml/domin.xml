@@ -1,0 +1,147 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: domin.xml,v 1.14 2015/07/04 08:37:32 revo Exp $">
+<kap>
+  <rad>domin</rad>/i <fnt><bib>SPV</bib></fnt>
+</kap>
+<drv mrk="domin.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="domin.0i.KOMUNE">
+    <dif>
+      <ref tip="vid" cel="reg.super0i">Superregi</ref>, superi, esti 
+      pli multa, pli rimarkebla:
+      <ekz>
+        merkantilismo <tld/>is kaj la ekonomikan kaj la
+        ekonomi-politikan
+        pensadon dum la 16a, 17a kaj la plimulto de la 18a
+        jarcentoj
+        <fnt>
+        <aut>Bo Sandelin</aut>,
+        <vrk>Anta&ubreve;merkantilisma ekonomia pensado</vrk>,
+        <bib>Monato</bib>,
+        <lok>jaro 2001a, numero 2a, p. 16a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_d;&c_a;&c_m;&c_ib;&c_n;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_p;&c_a;&c_n;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="ca">dominar</trd>
+  <trdgrp lng="cs">
+    <trd>dominovat</trd>,
+    <trd>vládnout</trd>,
+    <trd>vévodit</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>beherrschen</trd>,
+    <trd>vorherrschen</trd>,
+    <trd>dominieren</trd>
+  </trdgrp>
+  <trd lng="en">dominate</trd>
+  <trd lng="es">dominar</trd>
+  <trd lng="fr">dominer</trd>
+  <trdgrp lng="pl">
+    <trd>dominowa&cacute;</trd>,
+    <trd>g&oacute;rowa&cacute;</trd>,
+    <trd>panowa&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>dominar</trd>,
+    <trd>superar</trd>,
+    <trd>ter <ind>supremacia</ind> sobre</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_d;&c_o;&c_m;&c_i;&c_n;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_g;&c_o;&c_s;&c_p;&c_o;&c_d;&c_s;&c_t;&c_v;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_p;&c_r;&c_je;&c_o;&c_b;&c_l;&c_a;&c_d;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>ovládať</trd>,
+    <trd>panovať</trd>,
+    <trd>prevládať</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="domin.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="domin.0o.KOMUNE">
+    <dif>
+      Superrego, pliforteco:
+      <ekz>
+        <tld/>o de altaj vo&ccirc;oj virinaj
+        <fnt>
+          <aut>A. Birjulin</aut>,
+          <vrk>Junulo, regalu min per vermuto</vrk>,
+          <bib>LOdE</bib>,
+          <lok>1992-03, (4)</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la ideo plivastigi japanan <tld/>on al la regiono de la Suda
+        Maro 
+        naski&gcirc;is, kiam Germanio venkis en sia subita, detruiga
+        atako 
+        en E&ubreve;ropo
+        <fnt>
+          <vrk><url 
+          ref="http://homepage2.nifty.com/serpento/vk/vk130b.htm#50j">50-jari&gcirc;o
+          de fino de la Mondmilito...</url></vrk>,
+          <lok>Verda Kolombo, 1995-03 &gcirc;is 04 (130)</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <ref tip="vid" cel="hegemo.0o">hegemonio</ref>
+  <trdgrp lng="ca">
+    <trd>domini</trd>,
+    <trd>dominaci&oacute;</trd>
+  </trdgrp>
+  <trd lng="en">domination</trd>
+  <trdgrp lng="fr">
+    <trd>domination</trd>,
+    <trd>h&eacute;g&eacute;monie</trd>,
+    <trd>pr&eacute;dominance</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>dominacja</trd>
+  </trdgrp>
+  <trd lng="sk">domino</trd>
+  <trd lng="cs">domino</trd>
+</drv>
+</art>
+<!--
+$Log: domin.xml,v $
+Revision 1.14  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.13  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.12  2012/07/14 12:10:10  revo
+Marc Rausell: + trd ca
+
+Revision 1.11  2011/01/17 11:10:08  revo
+Russ Williams: +trd en
+
+Revision 1.10  2009/07/06 16:30:46  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.9  2007/08/11 16:31:00  revo
+Tulio Flores: +tr pt
+
+Revision 1.8  2006/06/13 16:31:14  revo
+Jeromo Vasxe: + ~o
+
+Revision 1.7  2004/02/22 17:30:45  revo
+Jeromo Vasxe: + fnt spv
+
+Revision 1.6 2003/12/13 17:35:17 revo
+Dmitri Gabinski: +trd be
+
+Revision 1.5 2002/09/27 16:31:15 revo
+-->
+</vortaro>

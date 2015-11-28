@@ -1,0 +1,139 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: rongx.xml,v 1.14 2013/10/29 19:10:16 revo Exp $">
+<kap>
+  <ofc>9</ofc><rad>ron&gcirc;</rad>/i <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="rongx.0i">
+  <kap><ofc>9</ofc><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="rongx.0i.KOMUNE">
+    <dif>
+      Mordeti, man&gcirc;i per malgrandaj pecetoj:
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        skrupulo <klr>...</klr>, kiu <tld/>as kaj raspas mian
+        konsciencon
+        <fnt><bib>DonKihxoto</bib>, <lok>dua parto, &ccirc;apitro 1a, p.
+        402a</lok></fnt>.
+      </ekz>
+      <refgrp tip="sin">
+        <ref cel="rod1.0i">rodi</ref>
+      </refgrp>
+    </dif>
+  </snc>
+  <trd lng="be">&c_g;&c_r;&c_y;&c_z;&c_mol;&c_c;&c_ib;</trd>
+  <trdgrp lng="ca">
+    <trd>rosegar</trd>,
+    <trd>corroir</trd>
+  </trdgrp>
+  <trd lng="de">nagen</trd>
+  <trdgrp lng="en">
+    <trd>gnaw</trd>,
+    <trd>nibble</trd>
+  </trdgrp>
+  <trd lng="es">roer</trd>
+  <trd lng="fa">&a_j;&a_w;&f_y;&a_d;&a_n;</trd>
+  <trd lng="fr">ronger</trd>
+  <trd lng="hu">r&aacute;g</trd>
+  <trd lng="nl">knagen</trd>
+  <trdgrp lng="pl">
+    <trd>obgryza&cacute;</trd>,
+    <trd>podgryza&cacute;</trd>,
+    <trd>chrupa&cacute;</trd>,
+    <trd>gry&zacute;&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>roer</trd>,
+    <trd>mordiscar</trd>
+  </trdgrp>
+  <trd lng="ru">&c_g;&c_r;&c_y;&c_z;&c_t;&c_mol;</trd>
+</drv>
+
+<drv mrk="rongx.0ulo">
+  <kap><tld/>ulo</kap>
+  <snc>
+    <dif>
+      Iu el <ref tip="malprt" cel="rongx.0uloj"><tld/>uloj</ref>.
+    </dif>
+  </snc>
+</drv>
+
+<drv mrk="rongx.0uloj">
+  <kap><ofc>9</ofc><tld/>uloj</kap>
+  <snc mrk="rongx.0uloj.ZOO">
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      <ref tip="lst" cel="ord.0o.BIO"
+      lst="voko:zoologiaj_ordoj">Ordo</ref> de <ref tip="malprt"
+      cel="mam.0uloj">mamuloj</ref>
+      (<trd lng="la">Rodentia</trd>), havanta en &ccirc;iu makzelo
+      po du &ccirc;izilspecajn incizivojn.
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="rod1.0uloj">roduloj</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_g;&c_r;&c_y;&c_z;&c_u;&c_n;&c_y;</trd>
+  <trd lng="ca">rosegadors</trd>
+  <trd lng="de">Nagetiere</trd>
+  <trd lng="en">rodents</trd>
+  <trd lng="es">roedores<klr tip="amb"> (clase animal)</klr></trd>
+  <trd lng="fa">&a_j;&a_w;&a_n;&a_d;&f_g;&a_A;&a_n;</trd>
+  <trd lng="fr">rongeurs</trd>
+  <trd lng="hu">r&aacute;gcs&aacute;l&oacute;k</trd>
+  <trd lng="nl">knaagdieren</trd>
+  <trd lng="pl">gryzonie</trd>
+  <trd lng="ru">&c_g;&c_r;&c_y;&c_z;&c_u;&c_n;&c_y; <klr
+  tip="amb">(&c_o;&c_t;&c_r;&c_ja;&c_d;)</klr></trd>
+</drv>
+
+<drv mrk="rongx.cxirkaux0i">
+  <kap>&ccirc;irka&ubreve;<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="rongx.cxirkaux0i.KOMUNE">
+    <dif>
+      <tld lit="R"/>i &ccirc;e la &ccirc;irka&ubreve;o:
+      <ekz>
+        el lia brustpo&scirc;o, kie la viroj kutime portas tuketon
+        a&ubreve; fontoplumon, montri&gcirc;is
+        &ccirc;irka&ubreve;<tld/>ita koka osto
+        <fnt><bib>MkM</bib>, <lok>&ccirc;apitro 19a</lok></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="pl">obgryza&cacute;</trd>
+    <trdgrp lng="ru">
+      <trd>&c_o;&c_b;&c_g;&c_r;&c_y;&c_z;&c_t;&c_mol;</trd>,
+      <trd>&c_o;&c_b;&c_g;&c_r;&c_y;&c_z;&c_a;&c_t;&c_mol;</trd>
+    </trdgrp>
+  </snc>
+</drv>
+</art>
+<!--
+$Log: rongx.xml,v $
+Revision 1.14  2013/10/29 19:10:16  revo
+Wolfram Diestel: +~ulo
+
+Revision 1.13  2013/10/19 15:10:18  revo
+Wolfram Diestel: kor. ref-tip
+
+Revision 1.12  2013/09/01 13:10:26  revo
+Wolfram Diestel: ~uloj: referenco al listo zoo ordoj
+
+Revision 1.11  2011/12/03 23:10:24  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.10  2011/10/03 11:10:08  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.9  2010/06/23 16:31:02  revo
+Agustin Garcia Lopez: +trd es
+
+Revision 1.8  2009/04/24 16:31:24  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.7  2009/03/01 17:33:39  revo
+-->
+</vortaro>

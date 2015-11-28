@@ -1,0 +1,120 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: kosmop.xml,v 1.15 2015/07/04 08:37:38 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>kosmopolit</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="kosmop.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="kosmop.0o.mondcivitano">
+    <ref tip="dif" cel="civit.mond0ano">mondcivitano</ref>
+    <trd lng="hu">vil&aacute;gpolg&aacute;r</trd>    
+  </snc>
+  <trd lng="be">&c_k;&c_a;&c_s;&c_m;&c_a;&c_p;&c_a;&c_l;&c_ib;&c_t;</trd>
+  <trd lng="ca">cosmopolita</trd>
+  <trdgrp lng="cs">
+    <trd>kosmopolit</trd>,
+    <trd>kosmopolita</trd>,
+    <trd>světoobčan</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+     <trd>Weltb&uuml;rger</trd>,
+     <trd>Kosmopolit</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>cosmopolitan</trd>,
+    <trd>cosmopolite</trd>
+  </trdgrp>
+  <trd lng="es">cosmopolita</trd>
+  <trdgrp lng="fr">
+    <trd>cosmopolite<klr> (subst.)</klr></trd>
+  </trdgrp>
+  <trd lng="hu">kozmopolita</trd><trd lng="hu">vil&aacute;gpolg&aacute;r</trd>
+  <trd lng="pt">cosmopolita <klr tip="amb">(subst.)</klr></trd>
+  <trd lng="ru">&c_k;&c_o;&c_s;&c_m;&c_o;&c_p;&c_o;&c_l;&c_i;&c_t;</trd>
+  <trdgrp lng="sk">
+    <trd>kozmopolita</trd>,
+    <trd>svetoobčan</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kosmop.0eco">
+  <kap><tld/>eco</kap>
+  <snc mrk="kosmop.0eco.POL">
+    <ref tip="dif" cel="civit.mond0aneco">mondcivitaneco</ref>
+  </snc>
+  <trd lng="be">&c_k;&c_a;&c_s;&c_m;&c_a;&c_p;&c_a;&c_l;&c_ib;&c_t;&c_y;&c_z;&c_m;</trd>
+  <trdgrp lng="de">
+     <trd>Weltb&uuml;rgertum</trd>,
+     <trd>Kosmopolitentum</trd>
+  </trdgrp>
+  <trd lng="en">cosmopolitanism</trd>
+  <trd lng="fr">cosmopolitisme</trd>
+  <trdgrp lng="hu">
+     <trd>vil&aacute;gpolg&aacute;rs&aacute;g <klr tip="ind">(mint &aacute;llapot)</klr></trd>,
+     <trd>kozmopolitizmus</trd>
+  </trdgrp>  
+  <trd lng="ru">&c_k;&c_o;&c_s;&c_m;&c_o;&c_p;&c_o;&c_l;&c_i;&c_t;&c_i;&c_z;&c_m;</trd>
+</drv>
+
+<drv mrk="kosmop.0ismo">
+  <kap><tld/>ismo</kap>
+  <snc mrk="kosmop.0ismo.POL">
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      Sento de aparteno al monda socio,
+      prefere ol al aparta gento, kaj
+      al tio konforma sinteno;
+      <ref tip="sin" cel="naci.inter0ismo.POL">internaciismo</ref>. 
+    </dif>
+  </snc>
+  <trd lng="be">&c_k;&c_a;&c_s;&c_m;&c_a;&c_p;&c_a;&c_l;&c_ib;&c_t;&c_y;&c_z;&c_m;</trd>
+  <trd lng="ca">cosmopolitisme</trd>
+  <trd lng="cs">doktrína světoobčanství</trd>
+  <trdgrp lng="de">
+     <trd>Weltb&uuml;rgerschaft</trd>,
+     <trd>Kosmopolitismus</trd>
+  </trdgrp>
+  <trd lng="en">cosmopolitanism</trd>
+  <trd lng="es">cosmopolitismo</trd>
+  <trd lng="fr">cosmopolitisme</trd>
+  <trd lng="hu">kozmopolitizmus</trd>
+  <trd lng="ru">&c_k;&c_o;&c_s;&c_m;&c_o;&c_p;&c_o;&c_l;&c_i;&c_t;&c_i;&c_z;&c_m;</trd>
+  <trd lng="sk">doktrína svetoobčianstva</trd>
+</drv>
+</art>
+<!--
+$Log: kosmop.xml,v $
+Revision 1.15  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.13  2012/06/29 08:10:12  revo
+Jeromo Vasxe: + mrk + trd fr
+
+Revision 1.12  2006/11/11 17:30:28  revo
+Tulio Flores: +tr pt
+
+Revision 1.11  2005/04/18 16:33:18  revo
+Raul Salinas Monteagudo: +trd ca,es
+
+Revision 1.10  2004/04/23 16:31:31  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.9  2002/12/17 20:10:29  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.8  2002/03/22 17:34:45  revo
+Ulrich Fellmann: + 6 germ trdj
+
+Revision 1.7  2001/12/19 17:36:08  revo
+Jerome Vachey: ~o 1 ref dif mondcivitano, disigis ~eco/~ismo, ~eco ref
+dif mondcivitaneco, ~ismo + fak pol, ~ismo ref dif sennaciismo
+
+-->
+</vortaro>

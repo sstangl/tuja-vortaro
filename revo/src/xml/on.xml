@@ -1,0 +1,331 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: on.xml,v 1.40 2015/07/04 08:37:40 revo Exp $">
+<kap>
+   <ofc>*</ofc>
+   -<rad>on</rad>/
+</kap>
+<subart>
+<drv mrk="on.0">
+<kap>-<tld/></kap>
+  <snc>
+   <dif>
+     Sufikso uzata por derivi numeralojn, el kiuj &ccirc;iu prezentas
+     parton de koncerna nombro supoze dividita en tiom da egalaj partoj,
+     kiomfoje la radiknombro enhavas la unuon:
+   </dif>
+     <ekz>
+       du<tld/>o da horo<fnt>Z</fnt>;
+     </ekz>
+     <ekz>
+       du<tld/>o de horo;
+     </ekz>
+     <ekz>
+       li perdis la du<tld/>on de lia havo;
+     </ekz>
+     <ekz>
+       du<tld/>o de ni mortos<fnt>Z</fnt>;
+     </ekz>
+     <ekz>
+       la du tri<tld/>oj de na&ubreve; estas ses;
+     </ekz>
+     <ekz>
+       centimo estas cent<tld/>o de franko;
+     </ekz>
+     <ekz>
+       el multaj mil<tld/>oj fari&gcirc;as milionoj
+       (<refgrp tip="vid">
+         <ref cel="ar.0o">aro</ref>,
+         <ref cel="al">ali&gcirc;i</ref>
+       </refgrp>)
+       <fnt><bib>PrV</bib></fnt>;
+     </ekz>
+     <ekz>
+       sur la spaco de &ccirc;irka&ubreve; du<tld/>taga
+       plugado<fnt>Z</fnt>.
+     </ekz>
+     <rim>
+       <em>On</em>, se sufikse uzata, almeti&gcirc;as nur al numeraloj,
+       sed en <ctl>nombr<tld/>o</ctl> a&ubreve; <ctl>komun<tld/>a</ctl>
+       ne temas pri sufiksa uzo.
+     </rim>
+   </snc>
+   <trd lng="de"><klr>-</klr>tel</trd>
+   <trd lng="fr"><klr>-</klr>i&egrave;me <klr>(sauf 2 : demi, 3 : tiers
+et 4 : quart)</klr></trd>
+  <trdgrp lng="hu">
+    <trd><klr>-</klr>ed</trd>,
+    <trd><klr>-</klr>ad</trd>
+  </trdgrp>
+  <trd lng="pl">przyrostek - liczebniki u&lstroke;amkowe</trd>
+  <trd lng="pt">sufixo que indica <klr tip="amb">fra&ccedil;&atilde;o</klr></trd>
+  <trd lng="sv"><klr>-</klr>del</trd>
+</drv>
+  </subart>
+
+<subart>
+   <dif>
+     Vortero samsignifa:
+   </dif>
+   <drv mrk="on.0o">
+     <kap><tld/>o</kap>
+     <snc mrk="on.0o.frakcio">
+       <uzo tip="fak">MAT</uzo>
+       <fnt><bib>PIV1</bib></fnt>
+       <dif>
+         <ref tip="super" cel="frakci.0o.MAT">Frakcio</ref>, kies
+         numeratoro estas unu.
+       </dif>
+       <trd lng="en">unit fraction</trd>
+       <trd lng="de">Stammbruch</trd>
+       <trd lng="fr">fraction primitive</trd>
+       <trdgrp lng="hu">
+         <trd>adr&eacute;sz</trd>,
+         <trd>h&aacute;nyad</trd>,
+         <trd>t&ouml;rtr&eacute;sz</trd>
+       </trdgrp>
+       <trd lng="pl">u&lstroke;amek prosty<klr tip="ind">
+(liczba)</klr></trd>
+       <trd lng="ru">&c_d;&c_o;&c_l;&c_ja;
+&c_je;&c_d;&c_i;&c_n;&c_i;&c_c;&c_y;</trd>
+     </snc>
+     <snc mrk="on.0o.divizoro">
+       <uzo tip="fak">MAT</uzo>
+       <fnt><bib>MatTerm</bib><lok>p. 10</lok></fnt>
+       <uzo tip="stl">EVI</uzo>
+       <ref tip="dif" cel="divizo.0o">divizoro.</ref>
+       <trdgrp lng="de">
+          <trd>Teiler</trd>,
+          <trd>Divisor</trd>
+       </trdgrp>
+       <trd lng="hu">oszt&oacute;</trd>
+       <trd lng="pl">podzielnik</trd>
+     </snc>
+     <snc mrk="on.0o.f">
+       <uzo tip="stl">FIG</uzo>
+       <dif>
+         Parto:
+         <ekz>
+           &dash;Nu, kiu estas vi?
+           &dash;De l' fort' mi estas <tld/>o |
+           Malbonvolema &ccirc;iam, sed ka&ubreve;zant' de bono
+           <fnt><aut>Goethe, trad. N. Bartelmes</aut>:
+           <vrk>Fa&ubreve;sto I</vrk>,
+           <lok>2a eldono. M&uuml;nchen: Pasing, 1949. P.52</lok>
+           </fnt>
+         </ekz>
+       </dif>
+       <trdgrp lng="de">
+          <trd>Teil</trd>,
+          <trd>Bruchteil</trd>
+       </trdgrp>
+       <trdgrp lng="hu">
+         <trd>r&eacute;sz</trd>,
+         <trd>darab</trd>
+       </trdgrp>
+       <trd lng="nl">deel</trd>
+       <trd lng="pl">cz&aogonek;stka</trd>
+       <trdgrp lng="ro">
+         <trd>molecul&abreve;</trd>,
+         <trd>p&abreve;rticic&abreve;</trd>
+       </trdgrp>
+       <trd lng="ru">&c_d;&c_o;&c_l;&c_ja;</trd>
+     </snc>
+     <snc mrk="on.0o.cifero">
+       <uzo tip="fak">MAT</uzo>
+       <dif>
+         <klr>(en <ref cel="prezen1.numa0o">n-uma prezento</ref> de
+         nombro)</klr>
+         &Ccirc;iu el la <ref tip="super" cel="cifer.0o">ciferoj</ref>
+         en &gcirc;ia <ref cel="part.frakcia0o">frakcia parto</ref>,
+         konsiderata kune kun ties pozicio:
+         <ekz>
+           la nombro <frm>1,72</frm> entenas du <tld/>ojn,
+           nome sep dek<tld/>ojn kaj du cent<tld/>ojn.
+         </ekz>
+       </dif>
+       <rim>
+         Por &ccirc;i tiu nocio troveblas la stranga formo
+<ctl>postfiguro</ctl>
+         en <fnt><bib>MatTerm</bib><lok>p. 9</lok></fnt>.
+         Por la bazo <frm>10</frm>, t.e. por dekumaj frakcioj, eblas
+         nomi
+         tiajn <tld/>ojn <ref tip="sub" cel="decima.0o">decimaloj</ref>.
+       </rim>
+       <rim>
+         &Ccirc;i tiu senco metafore devenas de
+         <ref cel="on.0o.frakcio">ono <sncref/></ref>: ja la koncerna
+pozicio
+         estas nomata la&ubreve; la frakcio, kiun oni ricevas metante
+         <frm>1</frm> en &gcirc;in kaj <frm>0</frm> en &ccirc;iujn aliajn.
+         Notindas, ke ne ekzistas komuna termino, per kiu eblus nomi
+         &ccirc;iujn ciferojn de la entjera parto. &Scirc;ajnas do, ke la
+         termino <ctl><tld/>o</ctl> ne estas absolute necesa, kaj ke
+         preferindas klara esprimo de la tipo <ctl>frakciparta
+         cifero</ctl>.
+       </rim>
+       <!-- rim>
+       &Ccirc;i tiu senco ne kolizias kun la anta&ubreve;a
+       <ref cel="on.0onombr0o">(nombr)ono</ref>: la
+       <ctl>onoj</ctl> rolas simile al <ctl>unuoj</ctl> en la
+       <ctl>ciferpozicio de la unuoj</ctl> (kiun povas okupi ajna
+       cifero, ne nur 1); do, &gcirc;i indikas la <ctl>pezon</ctl> de
+       la ciferpozicioj, analogie al la <ctl>mezur-unuoj</ctl>.
+       </rim -->
+       <trd lng="de">Dezimale</trd>
+       <trdgrp lng="en">
+         <trd>decimal digit</trd>,
+         <trd>decimal</trd>
+       </trdgrp>
+       <trdgrp lng="fr">
+         <trd>chiffre apr&egrave;s la virgule</trd>,
+         <trd>d&eacute;cimale</trd>
+       </trdgrp>
+       <trd lng="hu">tizedesjegy</trd>
+       <trd lng="nl">cijfer na de komma</trd>
+       <trdgrp lng="pl">
+         <trd>cyfra mantysy</trd>,
+         <trd>cyfra po przecinku</trd>,
+         <trd>dziesi&eogonek;tna</trd>
+       </trdgrp>
+       <trdgrp lng="ru">
+         <trd>&c_c;&c_i;&c_f;&c_r;&c_a; &c_p;&c_o;&c_s;&c_l;&c_je;
+&c_z;&c_a;&c_p;&c_ja;&c_t;&c_o;&c_j;</trd>,
+         <trd>&c_d;&c_je;&c_s;&c_ja;&c_t;&c_i;&c_ch;&c_n;&c_a;&c_ja;
+<ind>&c_c;&c_i;&c_f;&c_r;&c_a;</ind></trd>
+       </trdgrp>
+     </snc>
+  <trd lng="cs">kmenový zlomek</trd>
+  <trd lng="sk">kmeňový zlomok</trd>
+</drv>
+   <drv mrk="on.0igi">
+     <kap><tld/>igi</kap>
+     <snc>
+       <dif>
+         Dividi en iun nombron da egalaj partoj.
+       </dif>
+       <ref tip="vid" cel="frakci.0igi">frakciigi</ref>
+       <adm>
+         Vd adm sub frakciigi. <aut>MB</aut>
+       </adm>
+       <trd lng="pl">podzieli&cacute; <klr tip="amb">
+(na r&oacute;wne cz&eogonek;&sacute;ci)</klr></trd>
+       <trd lng="ru">&c_d;&c_je;&c_l;&c_i;&c_t;&c_mol;
+&c_p;&c_o;&c_r;&c_o;&c_v;&c_n;&c_u;</trd>
+     </snc>
+     <snc mrk="on.0igi.MAT">
+       <uzo tip="fak">MAT</uzo>
+       <fnt><bib>MatTerm</bib><lok>p. 7, substantive</lok></fnt>
+       <dif>
+         <ref cel="divid.0i.MAT">Dividi</ref> per entjero.
+       </dif>
+     </snc>
+  <trdgrp lng="cs">
+    <trd>rozdělit na zlomky</trd>,
+    <trd>rozdělit na části</trd>
+  </trdgrp>
+  <trd lng="hu">oszt</trd>
+  <trd lng="nl">delen</trd>
+  <trd lng="sk">rozdeliť na časti</trd>
+</drv>
+   <drv mrk="on.0eco">
+     <kap><tld/>eco</kap>
+     <snc>
+       <dif>
+         La eco havi <tld/>ojn, do esti neentjera raciono.
+       </dif>
+       <trd lng="pl">podzielno&sacute;&cacute;</trd>
+       <trd lng="ru">&c_d;&c_r;&c_o;&c_b;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
+     </snc>
+   </drv>
+   <drv mrk="on.0punkto.komo">
+     <kap><tld/>komo,
+     <var><kap><tld/>punkto<fnt><bib>KompLeks</bib></fnt></kap></var></kap>
+     <uzo tip="fak">MAT</uzo>
+     <uzo tip="fak">KOMP</uzo>
+     <snc>
+       <dif>
+         Signo (komo a&ubreve; punkto), kiu disigas la ciferojn de
+         la <ref cel="part.frakcia0o">frakcia parto</ref> de nombro
+         disde tiuj de &gcirc;ia <ref cel="part.entjera0o">frakcia
+         parto</ref>:
+         <ekz>
+           <frm>0.75</frm> <klr>(uson-stile)</klr>,
+         </ekz>
+         <ekz>
+           <frm>0,75</frm> <klr>(e&ubreve;rop-stile)</klr>.
+         </ekz>
+       </dif>
+       <rim>
+         Kiel montras la ekzemplo, la koncerna signo povas kolizii kun
+         la
+         normalaj interpunkciaj signoj. La usona stilo (t.e.
+         <tld/>punkto)
+         povas montri&gcirc;i pli oportuna, kiam oni skribas liston de
+         nombroj apartigitaj per komoj, kiel ekz-e en
+         <ekz>
+          <frm><k>f</k>(3.14,2.72)</frm>
+         </ekz>
+         . Cetere oni notu, ke la <tld/>punkton a&ubreve; la <tld/>komon
+         neniam sekvas spaceto.
+       </rim>
+       <rim>
+         Por &ccirc;i tiu senco ofte trovi&gcirc;as esprimoj de la tipo
+         <ctl>decimala komo</ctl> a&ubreve; <ctl>punkto</ctl>
+         <fnt><bib>PIV1</bib></fnt>, kiujn malfacilas uzi ekster la
+         kunteksto de dekuma bazo.
+       </rim>
+       <trd lng="de">Basiskomma</trd>
+       <trd lng="en">radix point</trd>
+       <trd lng="fr">virgule de base</trd>
+       <trdgrp lng="hu">
+         <trd>tizedesvessz&odblac;</trd>,
+         <trd>tizedespont</trd>,
+         <trd>radixvessz&odblac;</trd>,
+         <trd>radixpont</trd>
+       </trdgrp>
+       <trd lng="nl">decimale <ind>komma</ind></trd>
+       <trdgrp lng="pl">
+         <trd>koma</trd>,
+         <trd>przecinek</trd>
+       </trdgrp>
+       <trd lng="ru">&c_z;&c_a;&c_p;&c_ja;&c_t;&c_a;&c_ja;<klr
+tip="ind"> (&c_d;&c_r;&c_o;&c_b;&c_i;)</klr></trd>
+     </snc>
+   </drv>
+</subart>
+</art>
+<!--
+$Log: on.xml,v $
+Revision 1.40  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.39  2015/06/29 16:33:21  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.38  2014/02/04 15:10:25  revo
+Damien Brucker: +kap
+
+Revision 1.37  2012/10/23 00:13:15  revo
+Neil Roberts: aldonu la etikedon <var>
+
+Revision 1.36  2008/12/14 17:30:35  revo
+Jerano Zachrisson: +trd sv
+
+Revision 1.35  2006/05/07 16:31:17  revo
+Tulio Flores: +tr pt
+
+Revision 1.34  2006/04/19 16:30:58  revo
+Vito Redsky: +trd pl +trd ro
+
+Revision 1.33  2004/07/17 18:19:36  revo
+Marc Bavant: kor duobligitajn punktojn
+
+Revision 1.32  2004/07/12 16:46:37  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.31  2004/02/01 17:30:55  revo
+-->
+</vortaro>

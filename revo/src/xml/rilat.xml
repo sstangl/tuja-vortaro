@@ -1,0 +1,779 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: rilat.xml,v 1.57 2015/07/04 08:37:42 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>rilat</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="rilat.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="rilat.0o.persona">
+    <dif>
+      Havi inter si ligitecon kaj kondut-reciprokecon:
+      <ekz>
+        ili amba&ubreve; intime (inter)<tld/>as;
+      </ekz>
+      <ekz>
+        ek<tld/>i, <tld/>i&gcirc;i kun iu.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="kon.ek0i">ekkoni</ref>,
+      <ref cel="amik">amiki&gcirc;i</ref>.
+    </refgrp>
+    <trd lng="de">sich <ind>beziehen</ind> (auf)</trd>
+    <trd lng="fr">&ecirc;tre en <ind>relation</ind> (avec)</trd>
+    <trdgrp lng="hu">
+      <trd>viszony</trd>,
+      <trd>kapcsolat</trd>
+    </trdgrp>
+    <trd lng="nl">in <ind>betrekking</ind> staan tot</trd>
+  </snc>
+  <snc mrk="rilat.0o.ligo">
+    <dif>
+      Havi inter si ian ajn ligitecon a&ubreve; interefikon:
+      <ekz>
+        mi ne povas kompreni kiel via konkludo <tld/>as kun viaj
+        premisoj.
+      </ekz>
+    </dif>
+    <trdgrp lng="fr">
+      <trd>se <ind>rapporter</ind> (&agrave;)</trd>,
+      <trd>avoir <ind>trait</ind> (&agrave;)</trd>,
+      <trd>toucher<klr tip="ind"> (se rapporter)</klr></trd>
+    </trdgrp>
+    <trd lng="de">zu <ind>tun</ind> haben (mit)</trd>
+    <trdgrp lng="hu">
+      <trd>&ouml;sszef&uuml;gg</trd>,
+      <trd>kapcsol&oacute;dik</trd>
+    </trdgrp>
+    <trdgrp lng="nl">
+      <trd>betrekking hebben op</trd>,
+      <trd>te <ind>doen</ind> hebben met</trd>
+    </trdgrp>
+    <trd lng="ru">&c_i;&c_m;&c_je;&c_t;&c_mol; <ind>&c_o;&c_t;&c_n;&c_o;&c_sh;&c_je;&c_n;&c_i;&c_je;</ind></trd>
+  </snc>
+  <snc mrk="rilat.0o.konduto">
+    <dif>
+      Iel ju&gcirc;i pri io; konsideri de ia vidpunkto:
+      <ekz>
+        tiuj, kiuj provis
+        <tld/>i al nia ideo serioze kaj kun ju&gcirc;o memstara<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        ni scias, ke vi kutimas <tld/>i kun estimo nur al tiaj
+        argumentoj<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">besch&auml;ftigen (mit)</trd>
+    <trdgrp lng="fr">
+      <trd>se <ind>comporter</ind> (envers, par rapport &agrave;)</trd>,
+      <trd>aborder<klr tip="ind"> (un sujet)</klr></trd>,
+      <trd>toucher<klr tip="ind"> (un sujet)</klr></trd>
+    </trdgrp>
+    <trd lng="hu">viszonyul</trd>    
+    <trd lng="nl">bejegenen</trd>
+  </snc>
+  <snc mrk="rilat.0o.proporcio">
+    <dif>
+      Esti tiomfoje pli granda ol alia kvanto, kiom tria kvanto estas
+      pli granda
+      ol kvara:
+      <ekz>
+        20 <tld/>as al 5, kiel 8 al 2.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="propor.0o">proporcio</ref>
+    <trd lng="de">sich <ind>verhalten</ind> (zu)</trd>
+    <trd lng="fr">se <ind>rapporter</ind> (&agrave;)<klr tip="ind">
+    (arithm.)</klr></trd>
+    <trd lng="hu">ar&aacute;nylik</trd>    
+    <trd lng="nl">in <ind>verhouding</ind> staan tot</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>mít vztah</trd>,
+    <trd>obcovat</trd>,
+    <trd>st&yacute;kat se</trd>,
+    <trd>týkat se</trd>,
+    <trd>vztahovat se</trd>
+  </trdgrp>
+  <trd lng="en">relate</trd>
+  <trd lng="es">relacionar</trd>
+  <trdgrp lng="pt">
+    <trd>referir-se</trd>,
+    <trd>ter <ind>rela&ccedil;&atilde;o</ind> com</trd>
+    <trd>dizer <ind>respeito</ind> a</trd>    
+  </trdgrp>
+  <trd lng="ru">&c_o;&c_t;&c_n;&c_o;&c_s;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>
+  <trdgrp lng="sk">
+    <trd>mať vzťah</trd>,
+    <trd>vzťahovať sa</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="rilat.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="rilat.0o.interligo">
+    <dif>
+      Ia ajn ligiteco a&ubreve; interefiko inter du a&ubreve; pluraj aferoj:
+      <ekz>
+        estas neniu logika <tld/>o inter amba&ubreve; ideoj;
+      </ekz>
+      <ekz>
+        la vorto <ctl>mia</ctl> montras <tld/>on de posedo.
+      </ekz>
+    </dif>
+    <trdgrp lng="fr">
+      <trd>relation</trd>,
+      <trd>lien</trd>,
+      <trd>rapport</trd>
+    </trdgrp>
+    <trd lng="de">Beziehung</trd>
+    <trdgrp lng="hu">
+      <trd>&ouml;sszef&uuml;gg&eacute;s</trd>,
+      <trd>kapcsolat</trd>
+    </trdgrp>
+    <trdgrp lng="nl">
+      <trd>relatie</trd>,
+      <trd>betrekking</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_o;&c_t;&c_n;&c_o;&c_sh;&c_je;&c_n;&c_i;&c_je;</trd>,
+      <trd>&c_s;&c_v;&c_ja;&c_z;&c_mol;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="rilat.0o.interpersona">
+    <dif>
+      Ligiteco kaj reciproka konduto inter du a&ubreve; pluraj personoj,
+      <ref tip="sin" cel="rilat.inter0o.KOMUNE">inter<tld/>o</ref>:
+      <ekz>
+        esti en <tld/>o kun iu<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        la ekonomiaj <tld/>oj inter la okcidentaj kaj orientaj landoj;
+      </ekz>
+      <ekz>
+        havi kun iu amikajn <tld/>ojn.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="kontak.0o">kontakto</ref>,
+      <ref cel="komuni1.0igxo">komuniki&gcirc;o</ref>.
+    </refgrp>
+    <trd lng="de">Beziehung</trd>
+    <trdgrp lng="fr">
+      <trd>contact<klr tip="ind"> (social)</klr></trd>,
+      <trd>relation<klr tip="ind"> (lien entre personnes)</klr></trd>,
+      <trd>rapport</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>viszony</trd>,
+      <trd>kapcsolat</trd>
+    </trdgrp>
+    <trdgrp lng="nl">
+      <trd>relatie</trd>,
+      <trd>verhouding</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_o;&c_t;&c_n;&c_o;&c_sh;&c_je;&c_n;&c_i;&c_je;</trd>,
+      <trd>&c_s;&c_v;&c_ja;&c_z;&c_mol;</trd>
+    </trdgrp>
+  </snc>
+  <snc>
+    <dif>
+      Ju&gcirc;maniero de iu pri io; vidpunkto:
+      <ekz>
+        malfacile estas atingita la
+        nuna favora <tld/>o de la mondo al nia afero<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        mia <tld/>o al tiu a&ubreve; alia politika a&ubreve; religia
+        demando<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        Esperanto estas nenies propra&jcirc;o, nek en <tld/>o materiala, nek
+        en <tld/>o morala<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        certe minacas al ni nenia dan&gcirc;ero en &ccirc;i tia
+        <tld/>o<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        la&ubreve; tiu <tld/>o.
+      </ekz>
+    </dif>
+    <trdgrp lng="fr">
+      <trd>position<klr tip="ind"> (point de vue)</klr></trd>,
+      <trd>point de vue</trd>
+    </trdgrp>
+    <trd lng="de">Verh&auml;ltnis</trd>
+  <trdgrp lng="hu">
+    <trd>viszonyul&aacute;s</trd>,
+    <trd>vonatkoz&aacute;s</trd>
+  </trdgrp>
+    <trd lng="nl">oogpunt</trd>
+    <trd lng="ru">&c_o;&c_t;&c_n;&c_o;&c_sh;&c_je;&c_n;&c_i;&c_je;</trd>
+  </snc>
+  <snc>
+    <uzo tip="fak">MAT</uzo>
+    <subsnc mrk="rilat.0o.kvociento">
+      <fnt><bib>VdE</bib></fnt>
+      <dif>
+        Nombro, kiu montras, kiomfoje iu kvanto estas pli granda ol
+        alia:
+        <ekz>
+          la <tld/>o de <frm>6</frm> al <frm>3</frm> estas
+          <frm>2</frm><fnt>B</fnt>.
+        </ekz>
+      </dif>
+      <refgrp tip="sin">
+        <ref cel="kvocie.0o">kvociento</ref>.
+      </refgrp>
+      <rim>
+        Bricard <fnt><bib>MatTerm</bib><lok>p. 8</lok></fnt>
+        nomis tion <ctl>raporto</ctl>, sed tiu uzo, ne tre kongrua kun
+        la baza
+        senco de la radiko, ne disvasti&gcirc;is.
+      </rim>
+      <trdgrp lng="de">
+        <trd>Verh&auml;ltnis</trd>,
+        <trd>Quotient</trd>
+      </trdgrp>
+      <trdgrp lng="en">
+        <trd>ratio</trd>,
+        <trd>quotient</trd>
+      </trdgrp>
+      <trdgrp lng="fr">
+        <trd>rapport<klr tip="ind"> (entre deux nombres)</klr></trd>,
+        <trd>quotient<klr tip="ind"> (exact)</klr></trd>
+      </trdgrp>
+      <trdgrp lng="hu">
+        <trd>ar&aacute;ny</trd>,
+        <trd>h&aacute;nyados</trd>
+      </trdgrp>
+      <trdgrp lng="nl">
+        <trd>verhouding</trd>,
+        <trd>quoti&euml;nt</trd>
+      </trdgrp>
+      <trdgrp lng="pl">
+        <trd>stosunek</trd>,
+        <trd>iloraz</trd>
+      </trdgrp>
+      <trdgrp lng="ru">
+        <trd>&c_o;&c_t;&c_n;&c_o;&c_sh;&c_je;&c_n;&c_i;&c_je;</trd>,
+        <trd>&c_ch;&c_a;&c_s;&c_t;&c_n;&c_o;&c_je;<klr tip="ind"> (&c_r;&c_je;&c_z;&c_u;&c_l;&c_mol;&c_t;&c_a;&c_t; &c_d;&c_je;&c_l;&c_je;&c_n;&c_i;&c_ja;)</klr></trd>
+      </trdgrp>
+    </subsnc>
+    <subsnc mrk="rilat.0o.MAT">
+      <fnt><bib>PIV1</bib></fnt>
+      <dif>
+        <klr>(de aro <frm><g>E</g></frm> al aro
+        <frm><g>F</g></frm>)</klr>
+        <ref cel="ar.sub0o">Subaro</ref>
+        de la <ref tip="malprt" cel="produt.kartezia0o">kartezia
+        produto</ref>
+        <frm><g>E</g>&#215;<g>F</g></frm>.
+      </dif>
+      <ref tip="sub" cel="bild.0igo.MAT">bildigo;</ref>
+      <ref tip="vid" cel="grafe.0o.rilato">grafeo.</ref>
+      <rim>
+        Iam oni nomis <ctl><tld/>o</ctl> nur la <tld/>ojn de iu aro al 
+        &gcirc;i mem (nun:
+        &leftquot;<ref cel="rilat.interna0o">interna <tld/>o</ref>&rightquot;)
+        kaj tiusence difinas &gcirc;in la citita fonto, sed okazis vastigo de 
+        la nocio, videbla ekz-e en
+        <fnt><bib>EKV</bib><lok>&para;379</lok></fnt>.
+        La &ccirc;i-supra difino pli precize koncernas la <ctl>duargumentajn
+        <tld/>ojn</ctl>, sed eblas difini anka&ubreve;
+        &leftquot;<ref cel="rilat.n-argumenta0o">n-argumentajn
+        <tld/>ojn</ref>&rightquot;.
+      </rim>
+      <rim>
+        La matematikan nocion <tld/>o povas ilustri &ccirc;iutagaj
+        rilatoj de la tipo:
+        <ctl><frm><k>a</k></frm> estas frato de
+        <frm><k>b</k></frm></ctl>,
+        <ctl><frm><k>a</k></frm> estas pli a&gcirc;a ol
+        <frm><k>b</k></frm></ctl>...
+        Anstata&ubreve; diri
+        <ctl><frm>(<k>a</k>,<k>b</k>)</frm> apartenas
+        al rilato <frm><g>R</g></frm></ctl>, oni diras
+        <ctl><frm><k>a</k></frm> estas en <frm><g>R</g></frm>-rilato
+        kun <frm><k>b</k></frm></ctl> kaj oni skribas
+        <frm><k>a</k><g>R</g><k>b</k></frm>. La sama nocio servas anka&ubreve;
+        por priskribi la situacion, kiam al unu objekto oni asocias unu
+        a&ubreve; plurajn aliajn. Do &gcirc;i estas tre oportuna por formaligi
+        <ref cel="funkci.0o.MAT">funkciojn</ref> unu- a&ubreve; plur-sencajn.
+      </rim>
+      <trdgrp lng="de">
+        <trd>Zuordnung</trd>
+        <trd>Relation</trd>,
+      </trdgrp>
+      <trdgrp lng="en">
+        <trd>correspondence</trd>
+        <trd>relation</trd>,
+      </trdgrp>
+      <trdgrp lng="fr">
+        <trd>correspondance<klr tip="ind"> (math.)</klr></trd>,
+        <trd>relation<klr tip="ind"> (d'un ensemble E &agrave; un ensemble
+        F)</klr></trd>
+      </trdgrp>
+      <trd lng="hu">rel&aacute;ci&oacute;</trd>      
+      <trd lng="nl">relatie</trd>
+      <trd lng="pl">relacja</trd>
+      <trdgrp lng="ru">
+        <trd>&c_s;&c_o;&c_o;&c_t;&c_v;&c_je;&c_s;&c_t;&c_v;&c_i;&c_je;</trd>,
+        <trd>&c_o;&c_t;&c_n;&c_o;&c_sh;&c_je;&c_n;&c_i;&c_je;</trd>
+      </trdgrp>
+    </subsnc>
+    <subsnc mrk="rilat.0o.diversaj">
+      <refgrp tip="vid">
+        <ref cel="homote.0o">homotetio</ref>,
+        <ref cel="simil.0eco.MAT">simileco</ref>.
+      </refgrp>
+    </subsnc>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>poměr</trd>,
+    <trd>relace</trd>,
+    <trd>styk</trd>,
+    <trd>vztah</trd>
+  </trdgrp>
+  <trd lng="es">relaci&oacute;n</trd>
+  <trd lng="ru">&c_o;&c_t;&c_n;&c_o;&c_sh;&c_je;&c_n;&c_i;&c_je;</trd>
+  <trdgrp lng="sk">
+    <trd>pomer</trd>,
+    <trd>styk</trd>,
+    <trd>vzťah</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="rilat.0a">
+  <kap><tld/>a</kap>
+  <snc>
+    <dif>
+      Havanta <tld/>on al.
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="parenc.0a">parenca</ref>,
+      <ref cel="analog.0a">analoga</ref>,
+      <ref cel="najbar.0a">najbara</ref>,
+      <ref cel="proksi.0a">proksima</ref>,
+      <ref cel="simil.0a">simila</ref>,
+      <ref cel="koncer.0a">koncerna</ref>.
+    </refgrp>
+  </snc>
+  <trd lng="ca">respecte a</trd>
+  <trdgrp lng="cs">
+    <trd>relační</trd>,
+    <trd>vztažný</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>relatif (&agrave;)</trd>,
+    <trd>se <ind>rapportant</ind> (&agrave;)</trd>,
+    <trd>concernant</trd>
+  </trdgrp>
+  <trd lng="hu">vonatkoz&oacute;</trd>
+  <trd lng="nl">in <ind>betrekking</ind> tot</trd>
+  <trd lng="oc">a <ind>resp&egrave;cte</ind> de</trd>
+  <trd lng="sk">vzťažný</trd>
+</drv>
+
+<drv mrk="rilat.0e">
+  <kap><tld/>e ...-n, <var><kap><tld/>e al</kap></var></kap>
+  <gra><vspec>prepozicia&jcirc;o</vspec></gra>
+  <snc>
+    <dif>
+      <tld lit="R"/>ante, en <tld/>o al; la&ubreve; vidpunkto de:
+      <ekz>
+        kiel li povas esti tiel blinda <tld/>e sin mem<fnt>Z</fnt>?;
+      </ekz>
+      <ekz>
+        <tld/>e la korektecon de la lingvo, tiu libro estas
+        rekomendinda.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="de">bez&uuml;glich</trd>
+  <trdgrp lng="fr">
+    <trd>par <ind>rapport</ind> &agrave;</trd>,
+    <trd><ind>relativement</ind> &agrave;</trd>,
+    <trd>concernant</trd>,
+    <trd>en ce qui <ind>concerne</ind></trd>,
+    <trd><ind>quant</ind> &agrave;</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>vonatkoz&oacute;an</trd>,
+    <trd>vonatkoz&aacute;s&aacute;ban</trd>,
+    <trd>illet&odblac;en</trd>,
+    <trd>kapcsolatban</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>aangaande</trd>,
+    <trd>met <ind>betrekking</ind> tot</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_v; &c_o;&c_t;&c_n;&c_o;&c_sh;&c_je;&c_n;&c_i;&c_i;</trd>,
+    <trd>&c_o;&c_t;&c_n;&c_o;&c_s;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_o;<klr tip="amb"> (&c_ch;&c_je;&c_g;&c_o;-&c_l;.)</klr></trd>,
+    <trd>&c_p;&c_o; &c_o;&c_t;&c_n;&c_o;&c_sh;&c_je;&c_n;&c_i;&c_ju;<klr tip="amb"> (&c_k; &c_ch;&c_je;&c_m;&c_u;-&c_l;.)</klr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="rilat.ekvivalento0o">
+  <kap>ekvivalento-<tld/>o,
+  <var><kap>ekvivalent<tld/>o<fnt><bib>EKV</bib><lok>&para;115</lok></fnt></kap></var>,
+  <var><kap><tld/>o de ekvivalento<fnt><bib>PIV1</bib></fnt></kap></var>
+  </kap>
+  <uzo tip="fak">MAT</uzo>
+  <snc>
+    <dif>
+      <ref tip="super" cel="rilat.interna0o">Interna <tld/>o</ref>
+      samtempe
+      <ref cel="reflek1.0a.rilato">refleksiva</ref>,
+      <ref cel="simetr.0a.rilato">simetria</ref> kaj
+      <ref cel="transi1.0a.rilato">transitiva</ref>:
+    </dif>
+    <ekz>
+      en la aro de &ccirc;iuj homoj la <tld/>o <ctl>x estas parenco
+      de y</ctl> estas ekvivalento-<tld/>o.
+    </ekz>
+    <ref tip="vid" cel="ar.kvocienta0o">kvocienta aro.</ref>
+    <trd lng="de">&Auml;quivalenzrelation</trd>
+    <trd lng="en">equivalence relation</trd>
+    <trd lng="fr">relation d'<ind>&eacute;quivalence</ind></trd>
+    <trd lng="hu">ekvivalenciarel&aacute;ci&oacute;</trd>    
+    <trdgrp lng="pl">
+      <trd>relacja r&oacute;wnowa&zdot;no&sacute;ciowa</trd>,
+      <trd>relacja r&oacute;wnowa&zdot;no&sacute;ci</trd>
+    </trdgrp>
+    <trd lng="ru">&c_o;&c_t;&c_n;&c_o;&c_sh;&c_je;&c_n;&c_i;&c_je; &c_e;&c_k;&c_v;&c_i;&c_v;&c_a;&c_l;&c_je;&c_n;&c_t;&c_n;&c_o;&c_s;&c_t;&c_i;</trd>
+  </snc>
+</drv>
+
+<drv mrk="rilat.idento0o">
+  <kap>idento-<tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <snc>
+    <dif>
+      <klr>(en aro <frm><g>E</g></frm>)</klr>
+      <ref tip="super" cel="rilat.interna0o">Interna rilato</ref>,
+      konsistanta el &ccirc;iuj paroj <frm>(<k>a</k>,<k>a</k>)</frm>
+      kun <frm><k>a</k>&#8712;<g>E</g></frm>:
+      <ekz>
+        la idento-<tld/>on en <frm><g>E</g></frm> oni foje signas per
+        <frm>id<sub><g>E</g></sub></frm>;
+      </ekz>
+      <ekz>
+        la idento-<tld/>o estas bildigo.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="bild.idento0igo">idento-bildigo.</ref>
+  </snc>
+  <trdgrp lng="fr">
+    <trd>identit&eacute;<klr tip="ind"> (relation)</klr></trd>,
+    <trd>relation identique</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>azonoss&aacute;g<klr tip="ind"> (viszony)</klr></trd>,
+    <trd>azonoss&aacute;gi <ind>rel&aacute;ci&oacute;</ind></trd>
+  </trdgrp>
+  <trd lng="pl">to&zdot;samo&sacute;&cacute;</trd>
+</drv>
+
+<drv mrk="rilat.interna0o">
+  <kap>interna <tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <snc>
+    <dif>
+      <klr>(ene de aro <frm><g>E</g></frm>)</klr>
+      <ref tip="super" cel="rilat.0o.MAT"><tld lit="R"/>o</ref> de
+      <frm><g>E</g></frm> al <frm><g>E</g></frm>.
+    </dif>
+    <refgrp tip="vid">
+      Rimarkindaj ecoj de interna rilato:
+      <ref cel="reflek1.0a.rilato">refleksiva</ref>,
+      <ref cel="reflek1.mal0a.rilato">malrefleksiva</ref>,
+      <ref cel="simetr.0a.rilato">simetria</ref>,
+      <ref cel="simetr.mal0a.rilato">malsimetria</ref>,
+      <ref cel="transi1.0a.rilato">transitiva</ref>;
+    </refgrp>
+    <refgrp tip="sub">
+      Specifaj internaj rilatoj:
+      <ref cel="rilat.ekvivalento0o">ekvivalento-<tld/>o</ref>,
+      <ref cel="rilat.ordo0o">ordo-<tld/>o</ref>,
+    </refgrp>
+  </snc>
+  <trd lng="de">Relation in einer Menge</trd>
+  <trd lng="en">relation on a set</trd>
+  <trd lng="fr">relation sur un ensemble</trd>
+  <trd lng="hu">homog&eacute;n <ind>rel&aacute;ci&oacute;</ind></trd>  
+  <trd lng="pl">relacja w zbiorze</trd>
+  <trd lng="ru">&c_o;&c_t;&c_n;&c_o;&c_sh;&c_je;&c_n;&c_i;&c_je; &c_n;&c_a; &c_m;&c_n;&c_o;&c_zh;&c_je;&c_s;&c_t;&c_v;&c_je;</trd>
+</drv>
+
+<drv mrk="rilat.inter0o">
+  <kap>inter<tld/>o</kap>
+  <uzo tip="klr">(ofte plurale)</uzo>
+  <snc mrk="rilat.inter0o.KOMUNE">
+    <dif>
+      <ref tip="dif" cel="rilat.0o.interpersona"><tld lit="R"/>o<sncref
+      ref="rilat.0o.interpersona"/></ref>:
+      <ekz>
+        ligi, teksi inter<tld/>ojn kun iu.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>souvislost</trd>,
+    <trd>styk</trd>,
+    <trd>vztah</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>k&ouml;lcs&ouml;n&ouml;s <ind>viszony</ind></trd>,
+    <trd>kapcsolat</trd>,
+    <trd>&ouml;sszef&uuml;gg&eacute;s</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_o;&c_t;&c_n;&c_o;&c_sh;&c_je;&c_n;&c_i;&c_je;</trd>,
+    <trd>&c_v;&c_z;&c_a;&c_i;&c_m;&c_o;&c_o;&c_t;&c_n;&c_o;&c_sh;&c_je;&c_n;&c_i;&c_je;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>styk</trd>,
+    <trd>súvislosť</trd>,
+    <trd>vzťah</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="rilat.inter0igi">
+  <kap>inter<tld/>igi</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="rilat.inter0igi.KOMUNE">
+    <dif>
+      Starigi reciprokan <tld/>on inter...:
+      <ekz>
+        oni traboras novan akvovojon en la norda Francio, kiu 
+        inter<tld/>igos Sejnon kaj Skeldon
+        <fnt>
+          <aut>D. Kessous</aut>,
+          <vrk><url ref="http://www.esperanto.be/fel/2011/010326.php">
+          Plaro, a&ubreve; la Flava Terpomo</url></vrk>,
+          <bib>Monato</bib>,
+          <lok>2011:05, p. 16a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">mettre en <ind>relation</ind></trd>
+</drv>
+
+<drv mrk="rilat.inter0igxi">
+  <kap>inter<tld/>i&gcirc;i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="rilat.inter0igxi.KOMUNE">
+    <dif>
+      Reciproke <tld/>i&gcirc;i kun...:
+      <ekz>
+        bone estas, renkontante &ccirc;iun homon <klr>...</klr> 
+        rememori, ke tiu homo ebligas cin inter<tld/>i&gcirc;i 
+        kun la spirita Principo
+        <fnt>
+          <aut>L. Tolstoj, trad. A. &Scirc;aparov</aut>,
+          <vrk>Unu animo en &ccirc;iuj</vrk>,
+          <lok>1912</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">se mettre en <ind>relation</ind></trd>
+</drv>
+
+<drv mrk="rilat.inversa0o">
+  <kap>inversa <tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <snc>
+    <dif>
+      <klr>(de <ref cel="rilat.0o.MAT">rilato</ref> <frm><g>R</g></frm>
+      inter
+      <frm><g>E</g></frm> kaj <frm><g>F</g></frm>)</klr>
+      <tld lit="R"/>o inter <frm><g>F</g></frm> kaj <frm><g>E</g></frm>,
+      kies
+      elementojn oni ricevas aliigante &ccirc;iun paron de <frm><g>R</g></frm>
+      al ties <ref cel="par.inversa0o">inversa paro</ref>:
+    </dif>
+    <ekz>
+      la inversan <tld/>on de <frm><g>R</g></frm> oni signas per
+      <frm><g>R</g><sup>-1</sup></frm>;
+    </ekz>
+    <ekz>
+      la inversa <tld/>o de <frm><g>R</g><sup>-1</sup></frm>
+      egalas al <frm><g>R</g></frm>.
+    </ekz>
+    <refgrp tip="vid">
+      Oni diras anka&ubreve;:
+      <ref cel="invers.0o.variaj">inverso</ref> de rilato;
+    </refgrp>
+    <ref tip="sub" cel="bild.inversa0igo">inversa bildigo.</ref>
+  </snc>
+  <trdgrp lng="de">
+    <trd>konverse <ind>Relation</ind></trd>,
+    <trd>inverse <ind>Relation</ind></trd>,
+    <trd>Umkehrrelation</trd>
+  </trdgrp>
+  <trd lng="en">inverse <ind>relation</ind></trd>
+  <trd lng="fr">relation r&eacute;ciproque</trd>
+  <trd lng="hu">inverz <ind>rel&aacute;ci&oacute;</ind></trd>  
+  <trdgrp lng="pl">
+    <trd>relacja odwrotna</trd>,
+    <trd>relacja przeciwna</trd>
+  </trdgrp>
+  <trd lng="ru">&c_o;&c_b;&c_r;&c_a;&c_t;&c_n;&c_o;&c_je; <ind>&c_o;&c_t;&c_n;&c_o;&c_sh;&c_je;&c_n;&c_i;&c_je;</ind></trd>
+</drv>
+
+<drv mrk="rilat.n-argumenta0o">
+  <kap>n-argumenta <tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <snc>
+    <dif>
+      <klr>(inter elementoj de <frm><k>n</k></frm> aroj
+      <frm><g>E</g><sub><k>i</k></sub></frm>)</klr>
+      <ref cel="ar.sub0o">Subaro</ref>
+      de la <ref tip="malprt" cel="produt.kartezia0o">kartezia
+      produto</ref>
+      <frm><g>E</g><sub>1</sub>&#215;<g>E</g><sub>2</sub>...
+      &#215;<g>E</g><sub><k>n</k></sub></frm>:
+      <ekz>
+        <ind>duargumenta <tld/>o</ind>
+        <klr>(t.e. <ref cel="rilat.0o.MAT"><tld/>o
+        <sncref/></ref>)</klr>;
+        <trd lng="de">zweistellige <ind>Relation</ind></trd>
+        <trd lng="en">binary <ind>relation</ind></trd>
+        <trd lng="fr">relation binaire</trd>
+        <trd lng="hu">bin&aacute;ris <ind>rel&aacute;ci&oacute;</ind></trd>        
+        <trdgrp lng="pl">
+          <trd>relacja binarna</trd>,
+          <trd>relacja dwuargumentowa</trd>,
+          <trd>relacja dwucz&lstroke;onowa</trd>
+        </trdgrp>
+        <trdgrp lng="ru">
+          <trd>&c_b;&c_i;&c_n;&c_a;&c_r;&c_n;&c_o;&c_je; <ind>&c_o;&c_t;&c_n;&c_o;&c_sh;&c_je;&c_n;&c_i;&c_je;</ind></trd>,
+          <trd>&c_d;&c_v;&c_u;&c_m;&c_je;&c_s;&c_t;&c_n;&c_o;&c_je; <ind>&c_o;&c_t;&c_n;&c_o;&c_sh;&c_je;&c_n;&c_i;&c_je;</ind></trd>
+        </trdgrp>
+      </ekz>
+      <ekz>
+        la triargumenta rilato
+        <ctl><frm>M</frm> situas inter <frm>N</frm> kaj
+        <frm>P</frm></ctl>,
+        difinita inter la punktoj de rekto.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="de">n-stellige <ind>Relation</ind></trd>
+  <trd lng="en">n-ary <ind>relation</ind></trd>
+  <trd lng="fr">relation n-aire</trd>
+  <trd lng="hu">n-&aacute;ris <ind>rel&aacute;ci&oacute;</ind></trd>  
+  <trdgrp lng="pl">
+    <trd>relacja n-argumentowa</trd>,
+    <trd>relacja n-cz&lstroke;onowa</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>n-&c_a;&c_r;&c_n;&c_o;&c_je; <ind>&c_o;&c_t;&c_n;&c_o;&c_sh;&c_je;&c_n;&c_i;&c_je;</ind></trd>,
+    <trd>n-&c_m;&c_je;&c_s;&c_t;&c_n;&c_o;&c_je; <ind>&c_o;&c_t;&c_n;&c_o;&c_sh;&c_je;&c_n;&c_i;&c_je;</ind></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="rilat.ordo0o">
+  <kap>ordo-<tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>KompLeks</bib></fnt>
+  <snc>
+    <dif>
+      <ref tip="super" cel="rilat.interna0o">Interna <tld/>o</ref>
+      samtempe
+      <ref cel="reflek1.0a.rilato">refleksiva</ref>,
+      <ref cel="simetr.mal0a.rilato">malsimetria</ref> kaj
+      <ref cel="transi1.0a.rilato">transitiva</ref>:
+      <ekz>
+        en aro de subaroj de <frm><g>E</g></frm> la <tld/>o
+        <frm><g>A</g>&#8834;<g>B</g></frm> estas ordo-<tld/>o;
+      </ekz>
+      <ekz>
+        ordo-<tld/>on oni ofte signas per <frm>&#8804;</frm>
+        <klr>(legu: malpli granda ol, a&ubreve; pli malgranda
+        ol)</klr> kaj &gcirc;ian inverson per <frm>&#8805;</frm>
+        <klr>(legu: pli granda ol)</klr>.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="ord.0o.rilato">ordo <sncref/></ref>;
+    </refgrp>
+    <refgrp tip="vid">
+      Ecoj de ordo-rilato:
+      <ref cel="tut.0eca.rilato">tuteca</ref>,
+      <ref cel="part.0a.rilato">parta</ref>.
+    </refgrp>
+    <rim>
+      Kune kun ordo-<tld/>o <frm><g>R</g></frm> oni ofte konsideras
+      &gcirc;ian malvastigitan version, nome la <tld/>on
+      <ctl><frm><k>x</k><g>R</g><k>y</k></frm> kaj
+      <frm><k>x</k>&#8800;<k>y</k></frm></ctl>. Tia <tld/>o ne estas 
+      ordo-<tld/>o la&ubreve; la &ccirc;i-supra difino, sed oni ofte 
+      nomas &gcirc;in <ctl>strikta</ctl>, <ctl>malvastsenca</ctl> a&ubreve;
+      <ctl>rigora ordo-<tld/>o</ctl>. &Gcirc;i estas malrefleksiva,
+      malsimetria kaj transitiva.
+    </rim>
+    <rim>
+      Kiam necesas eviti ambiguecon inter la refleksiva rilato kaj &gcirc;ia
+      malvastiga&jcirc;o, eblas uzi klarigan lingva&jcirc;on de la tipo
+      <ctl><frm><k>a</k></frm> estas strikte pli granda ol
+      <frm><k>b</k></frm></ctl> <frm>(<k>a</k> &gt; <k>b</k>)</frm>,
+      a&ubreve; <ctl><frm><k>a</k></frm> estas pli granda
+      ol <frm><k>b</k></frm>, a&ubreve; egala (al &gcirc;i)</ctl>
+      (<frm><k>a</k> &#8805; <k>b</k></frm>).
+    </rim>
+    <trd lng="de">Ordnungsrelation</trd>
+    <trd lng="en">order relation</trd>
+    <trd lng="fr">relation d'<ind>ordre</ind></trd>
+    <trd lng="hu">rendez&eacute;si <ind>rel&aacute;ci&oacute;</ind></trd>    
+    <trdgrp lng="pl">
+      <trd>relacja porz&aogonek;dkowa</trd>,
+      <trd>relacja porz&aogonek;dku</trd>,
+      <trd>porz&aogonek;dek</trd>
+    </trdgrp>
+    <trd lng="ru">&c_o;&c_t;&c_n;&c_o;&c_sh;&c_je;&c_n;&c_i;&c_je; &c_p;&c_o;&c_r;&c_ja;&c_d;&c_k;&c_a;</trd>
+  </snc>
+</drv>
+</art>
+<!--
+$Log: rilat.xml,v $
+Revision 1.57  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.56  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.55  2015/02/23 23:10:15  revo
+Alain Gerard: +trd (fr)
+
+Revision 1.54  2014/10/25 09:10:13  revo
+Jeromo Vasxe: + inter~igi/igxi
+
+Revision 1.53  2013/07/02 01:10:12  revo
+Benito Subejrano: + trd ca oc
+
+Revision 1.52  2011/02/19 11:10:09  revo
+Wolfram Diestel: +snc-mrk, ref proporcio
+
+Revision 1.51  2010/09/02 16:30:33  revo
+Jeromo Vasxe: - kramp
+
+Revision 1.50  2010/07/05 16:30:29  revo
+Agustin Garcia Lopez: +trd es
+
+Revision 1.49  2006/02/21 17:32:35  revo
+Tulio Flores: +trd pt
+
+Revision 1.48  2004/09/26 16:33:12  revo
+-->
+</vortaro>

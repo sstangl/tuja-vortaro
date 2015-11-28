@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: veft.xml,v 1.16 2015/07/04 08:37:45 revo Exp $">
+<kap>
+  <rad>veft</rad>/o
+</kap>
+<drv mrk="veft.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">TEK</uzo>
+  <uzo tip="fak">TEKS</uzo>
+  <snc>
+    <dif>
+      Fadenoj, kiujn oni pasigas inter la
+      <ref tip="vid" cel="varp.0ero">varperojn</ref>.
+    </dif>
+    <ref tip="malprt" cel="teks.0ajxo.TEKS">teksa&jcirc;o</ref>
+  </snc>
+  <trd lng="ca">trama</trd>
+  <trd lng="cs">osnova</trd>
+  <trdgrp lng="de">
+    <trd>Schussfaden</trd>,
+    <trd>Querfaden</trd>
+  </trdgrp>
+  <trd lng="en">weft</trd>
+  <trd lng="es">trama</trd>
+  <trd lng="fr">trame</trd>
+  <trd lng="hu">vet&uuml;l&eacute;k</trd>
+  <trd lng="nl">inslag</trd>
+  <trd lng="pl">w&aogonek;tek<klr> (materia&lstroke;u)</klr></trd>
+  <trdgrp lng="pt">
+   <trd>trama</trd>,
+   <trd>tecido</trd>
+  </trdgrp>
+  <trd lng="ru">&c_u;&c_t;&c_o;&c_k;<klr tip="ind">
+  (&c_t;&c_je;&c_k;&c_s;.)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>priečne nite <klr>(text.)</klr></trd>,
+    <trd>útok</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="veft.0ero">
+  <kap><tld/>ero</kap>
+  <uzo tip="fak">TEKS</uzo>
+  <snc>
+    <dif>
+      &Ccirc;iu unuopa fadeno, kiu interpasante la
+      <ref tip="vid" cel="varp.0o">varpon</ref>
+      formas la <tld/>on.
+    </dif>
+  </snc>
+  <trd lng="ca">fil de trama</trd>
+  <trd lng="cs">útková nit</trd>
+  <trd lng="fr">duite</trd>
+  <trd lng="hu">vet&uuml;l&eacute;kfonal</trd>
+  <trd lng="nl">inslagdraad</trd>
+  <trd lng="pl">ni&cacute; <ind>w&aogonek;tku</ind></trd>
+  <trd lng="ru">&c_u;&c_t;&c_o;&c_ch;&c_i;&c_n;&c_a;</trd>
+  <trd lng="sk">jednotlivá priečna niť</trd>
+</drv>
+</art>
+<!--
+$Log: veft.xml,v $
+Revision 1.16  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/28 12:03:50  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.14  2012/07/14 19:10:28  revo
+Marc Rausell: ++ trd ca
+
+Revision 1.13  2009/07/05 16:39:29  revo
+Wieland Pusch: +trd de
+
+Revision 1.12  2009/07/02 16:30:49  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.11  2006/02/01 17:32:21  revo
+Tulio Flores: +trd pt
+
+Revision 1.10  2006/01/12 21:53:37  revo
+Raul Salinas Monteagudo: +trd ca,es
+
+Revision 1.9  2005/01/27 17:31:33  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.8  2003/10/01 16:31:07  revo
+Philippe Combot: + trd fr
+
+Revision 1.7  2002/10/14 16:33:10  revo
+-->
+</vortaro>

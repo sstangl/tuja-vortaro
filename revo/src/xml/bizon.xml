@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: bizon.xml,v 1.20 2013/09/01 13:10:56 revo Exp $">
+<kap>
+  <ofc>9</ofc>
+  <rad>bizon</rad>/o
+</kap>
+
+<drv mrk="bizon.0o">
+  <kap><ofc>9</ofc><tld/>o</kap>
+  <uzo tip="fak">ZOO</uzo>
+  <snc>
+    <dif>
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:zoologiaj_genroj">Genro</ref> el familio 
+      <ref tip="malprt" cel="boved.0oj">bovedoj</ref>
+      (<trd lng="la">Bison</trd>), granda sova&gcirc;a mamulo kun du
+      nordamerikaj kaj du e&ubreve;ropaj specioj.
+    </dif>
+  </snc>
+  <bld lok="../bld/bizon.jpg">
+    juna <ind>e&ubreve;ropa <tld/>o</ind> <trd lng="la">Bison bonasus</trd>
+  </bld>
+  <trdgrp lng="be">
+    <trd>&c_b;&c_ib;&c_z;&c_o;&c_n; <klr>(nordamerika)</klr></trd>,
+    <trd>&c_z;&c_u;&c_b;&c_r; <klr>(e&ubreve;ropa)</klr></trd>
+  </trdgrp>
+  <trd lng="bg">&c_b;&c_i;&c_z;&c_o;&c_n;</trd>
+  <trdgrp lng="de">
+    <trd>Bison <klr>(nordamerika)</klr></trd>,
+    <trd>Wisent <klr>(e&ubreve;ropa)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>bison</trd>,
+    <trd>buffalo <klr>(apokrife)</klr></trd>
+  </trdgrp>
+  <trd lng="fr">bison</trd>
+  <trdgrp lng="hu">
+    <trd>b&ouml;l&eacute;ny <klr>(nordamerika)</klr></trd>,
+    <trd>eur&oacute;pai <ind>b&ouml;l&eacute;ny</ind> <klr>(e&ubreve;ropa)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>bizon <klr>(nordamerika)</klr></trd>,
+    <trd>wisent <klr>(e&ubreve;ropa)</klr></trd>
+  </trdgrp>
+  <trd lng="pl">&zdot;ubr</trd>
+  <trdgrp lng="ru">
+    <trd>&c_b;&c_i;&c_z;&c_o;&c_n; <klr>(nordamerika)</klr></trd>,
+    <trd>&c_z;&c_u;&c_b;&c_r; <klr>(e&ubreve;ropa)</klr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: bizon.xml,v $
+Revision 1.20  2013/09/01 13:10:56  revo
+Wolfram Diestel: referenco al listo zoo genroj
+
+Revision 1.19  2013/07/06 20:10:10  revo
+Wolfram Diestel: referencoj
+
+Revision 1.18  2013/07/06 14:10:14  revo
+Wolfram Diestel: referencoj
+
+Revision 1.17  2008/11/23 19:12:58  revo
+Marc Bavant: konformigis al 9OA
+
+Revision 1.16  2007/12/22 17:30:38  revo
+Wieland Pusch: +trd bg
+
+Revision 1.15  2003/11/28 17:32:33  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.14  2003/01/30 19:02:20  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.13  2002/10/08 17:56:22  revo
+-->
+</vortaro>

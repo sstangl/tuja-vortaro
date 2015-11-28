@@ -1,0 +1,302 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: ekvaci.xml,v 1.33 2015/07/04 08:37:33 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>ekvaci</rad>/o
+</kap>
+<drv mrk="ekvaci.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>MatTerm</bib><lok>p. 15</lok></fnt>
+  <snc>
+    <dif>
+      Matematika problemo, konsistanta en ser&ccirc;ado de
+      <ref cel="bild.inversa0o.elemento">inversa bildo</ref> de iu
+      elemento 
+      <frm><k>a</k></frm> per iu <ref cel="bild.0igo.MAT">bildigo</ref>;
+      
+      <tld/>o ofte prezenti&gcirc;as sub formo de egala&jcirc;o 
+      <frm><k>f</k>(<k>x</k>) = <k>a</k></frm>, kie <frm><k>x</k></frm>
+      estas
+      la ser&ccirc;ata <ref cel="kon.ne0ato.ekvacio">nekonato</ref>
+      (plej ofte:
+      nombro, punkto, vektoro a&ubreve; bildigo):
+      <ekz>
+        solvi <tld/>on;
+      </ekz>
+      <ekz>
+        la <tld/>o <frm><k>x</k><sup>2</sup>+1 = 0</frm> ne akceptas 
+        <klr>(ne havas)</klr> <ref cel="reel.0a">reelan</ref> solvon;
+      </ekz>
+      <ekz>
+        la nombro <frm>1</frm> <ref cel="ver.0igi.MAT">verigas</ref> la 
+        <tld/>on <frm><k>x</k><sup>2</sup>-1 = 0</frm>;
+      </ekz>
+      <ekz>
+        la funkcio <ref cel="sinus.0o">sinuso</ref> verigas la <tld/>on
+        <frm><k>x</k>&#8243;+<k>x</k> = 0</frm>;
+      </ekz>
+      <ekz>
+        kartezia, polusa <tld/>o de <ref cel="kurb.0o.MAT">kurbo</ref>,
+        <ref cel="surfac.0o.MAT">surfaco</ref> <klr>(la <tld/>o, kiun
+        verigas la koordinatoj de ties punktoj)</klr>;
+      </ekz>
+      <ekz>
+        algebra <tld/>o <klr>(kies solvo estas &ccirc;iu inversa bildo
+        de <frm>0</frm> per 
+        <ref cel="funkci.polinoma0o">polinoma funkcio</ref>)</klr>,
+      </ekz>
+      <ekz>
+        transcenda <tld/>o <klr>(ne estanta algebra)</klr>;
+      </ekz>
+      <ekz>
+        lineara <tld/>o <klr>(en kiu <frm><k>f</k></frm> estas 
+        <ref cel="linear.0a.homomorfio">lineara</ref> funkcio)</klr>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_r;&c_a;&c_w;&c_n;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>,
+    <trd>&c_u;&c_r;&c_a;&c_w;&c_n;&c_je;&c_n;&c_mol;&c_n;&c_je;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>rovnice</trd>,
+    <trd>rovnost</trd>
+  </trdgrp>
+  <trd lng="de">Gleichung</trd>
+  <trd lng="en">equation</trd>
+  <trd lng="es">ecuaci&oacute;n</trd>
+  <trd lng="fr">&eacute;quation</trd>
+  <trd lng="hu">egyenlet</trd>
+  <trd lng="pl">r&oacute;wnanie</trd>
+  <trd lng="pt">equa&ccedil;&atilde;o</trd>
+  <trd lng="ru">&c_u;&c_r;&c_a;&c_v;&c_n;&c_je;&c_n;&c_i;&c_je;</trd>
+  <trd lng="sk">rovnica</trd>
+</drv>
+
+<drv mrk="ekvaci.0aro">
+  <kap><tld/>aro</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>PIV1</bib></fnt>
+  <snc>
+    <dif>
+      Aro da pluraj <ref cel="ekvaci.0o"><tld/>oj</ref> samtempe 
+      solvendaj:
+      <ekz>
+        lineara <tld/>aro kun du nekonatoj;
+      </ekz>
+      <ekz>
+        sensolva <tld/>aro.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="sistem.0o.ekvacioj">sistemo.</ref>
+  </snc>
+  <trd lng="be">&c_s;&c_y;&c_s;&c_t;&c_e;&c_m;&c_a;
+  <ind>&c_r;&c_a;&c_w;&c_n;&c_a;&c_n;&c_mol;&c_n;&c_ja;&c_w;</ind></trd>
+  <trd lng="cs">soustava rovnic</trd>
+  <trd lng="de">Gleichungssystem</trd>
+  <trd lng="en">system of equations</trd>
+  <trd lng="es">sistema de <ind>ecuaciones</ind></trd>
+  <trd lng="fr">syst&egrave;me d'&eacute;quations</trd>
+  <trd lng="hu">egyenletrendszer</trd>
+  <trd lng="pl">uk&lstroke;ad r&oacute;wna&nacute;</trd>
+  <trd lng="ru">&c_s;&c_i;&c_s;&c_t;&c_je;&c_m;&c_a;
+  &c_u;&c_r;&c_a;&c_v;&c_n;&c_je;&c_n;&c_i;&c_j;</trd>
+  <trd lng="sk">sústava rovníc</trd>
+</drv>
+
+<drv mrk="ekvaci.0igi">
+  <kap><tld/>igi</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>MatTerm</bib><lok>p. 6</lok></fnt>
+  <snc>
+    <dif>
+      Trovi la <ref cel="ekvaci.0o"><tld/>ojn</ref>, 
+      regantajn a&ubreve; figurantajn fenomenon:
+      <ekz>
+        <tld/>igi fizikajn fenomenojn.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">sestavit rovnici</trd>
+  <trd lng="de">eine <ind>Gleichung</ind> finden<klr tip="ind">
+  (f&uuml;r einen Sachverhalt)</klr></trd>
+  <trd lng="en">put into an <ind>equation</ind></trd>
+  <trd lng="fr">mettre en <ind>&eacute;quations</ind></trd>
+  <trd lng="hu">egyenletbe foglal</trd>
+  <trdgrp lng="pl">
+    <trd>znajdowa&cacute; <ind>r&oacute;wnanie</ind><klr>
+    (zdarzenie)</klr></trd>,
+    <trd>opisywa&cacute; <ind>r&oacute;wnaniem</ind><klr>
+    (zdarzenie)</klr></trd>
+  </trdgrp>
+  <trd lng="ru"> &c_u;&c_s;&c_t;&c_a;&c_n;&c_o;&c_v;&c_i;&c_t;&c_mol;
+  <ind>&c_u;&c_r;&c_a;&c_v;&c_n;&c_je;&c_n;&c_i;&c_ja;</ind><klr
+  tip="ind"> (&c_f;&c_je;&c_n;&c_o;&c_m;&c_je;&c_n;&c_a;)</klr></trd>
+  <trd lng="sk">zostaviť rovnicu</trd>
+</drv>
+
+<drv mrk="ekvaci.diferenciala0o">
+  <kap>diferenciala <tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>MatTerm</bib><lok>p. 22</lok></fnt>
+  <snc>
+    <dif>
+      <ref tip="super" cel="ekvaci.0o"><tld lit="E"/>o</ref>, kies
+      nekonato estas funkcio aperanta en la egala&jcirc;o kune kun
+      ties <ref cel="deriv.0ajxo.MAT">deriva&jcirc;oj</ref> a&ubreve;
+      <ref cel="difere2.0o">diferencialoj</ref>:
+      <ekz>
+        ordinara diferenciala <tld/>o de unua ordo havas la formon
+        <frm>F(<k>x</k>,<k>y</k>,<k>y</k>&#8242;) = 0</frm>;
+      </ekz>
+      <ekz>
+       <frm>&#8706;&quadrat;<k>u</k>/&#8706;<k>x</k>&quadrat;+&#8706;&quadrat;<k>u</k>/&#8706;<k>y</k>&quadrat;
+       = 0</frm> 
+        estas elipsa <ind>diferenciala <tld/>o en partaj
+        deriva&jcirc;oj</ind>.
+        <trd lng="de">partielle <ind>Differentialgleichung</ind></trd>
+        <trd lng="en">partial differential <ind>equation</ind></trd>
+        <trd lng="fr">&eacute;quation aux d&eacute;riv&eacute;es
+        partielles</trd>
+        <trd lng="hu">parci&aacute;lis
+        <ind>differenci&aacute;legyenlet</ind></trd>
+        <trd lng="pl">r&oacute;wnanie r&oacute;&zdot;niczkowe
+        cz&aogonek;stkowe</trd>
+        <trd
+        lng="ru">&c_d;&c_i;&c_f;&c_f;&c_je;&c_r;&c_je;&c_n;&c_c;&c_i;&c_a;&c_l;&c_mol;&c_n;&c_o;&c_je;
+        <ind>&c_u;&c_r;&c_a;&c_v;&c_n;&c_je;&c_n;&c_i;&c_je;</ind> &c_v;
+        &c_ch;&c_a;&c_s;&c_t;&c_n;&c_y;&c_h;
+        &c_p;&c_r;&c_o;&c_i;&c_z;&c_v;&c_o;&c_d;&c_n;&c_y;&c_h;</trd>
+      </ekz>
+    </dif>
+  </snc>
+  <adm>
+    MatVort diras "parciala diferenciala ~o" anstataux nia ruseca
+    "diferenciala ~o en partaj derivajxoj". "Parciala" estas nekonata
+    en PIV1 kaj MatVort donas "parciala derivajxo" kiel sinonimon de
+    "parta derivajxo".
+    Kial ne eblis diri nur "parta diferenciala ~o"? Cxar eblus pensi, ke
+    la ekvacio estas parta (cetere la esprimo estas mallogika, ecx kun
+    "parciala" anstataux "parta", cxar "parciala ~o" nenion signifas).
+    Kial do ne uzi "partdiferenciala" aux "partderivajxa ekvacio"?
+
+    Noto: Bricard (p. 23) diras "lauxparta diferenciala ~o".
+    <aut>MB</aut>
+  </adm>
+  <trd
+  lng="be">&c_d;&c_y;&c_f;&c_e;&c_r;&c_e;&c_n;&c_c;&c_y;&c_ja;&c_l;&c_mol;&c_n;&c_a;&c_je;
+  <ind>&c_r;&c_a;&c_w;&c_n;&c_a;&c_n;&c_mol;&c_n;&c_je;</ind></trd>
+  <trd lng="en">differential <ind>equation</ind></trd>
+  <trd lng="de">Differentialgleichung</trd>
+  <trd lng="fr">&eacute;quation diff&eacute;rentielle</trd>
+  <trd lng="hu">differenci&aacute;legyenlet</trd>
+  <trd lng="pl">r&oacute;wnanie r&oacute;&zdot;niczkowe</trd>
+  <trd
+  lng="ru">&c_d;&c_i;&c_f;&c_f;&c_je;&c_r;&c_je;&c_n;&c_c;&c_i;&c_a;&c_l;&c_mol;&c_n;&c_o;&c_je;
+  <ind>&c_u;&c_r;&c_a;&c_v;&c_n;&c_je;&c_n;&c_i;&c_je;</ind></trd>
+  <trd lng="sk">diferenciálna rovnica</trd>
+  <trd lng="cs">diferenciální rovnice</trd>
+</drv>
+
+<drv mrk="ekvaci.integrala0o">
+  <kap>integrala <tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>MatVort</bib></fnt>
+  <snc>
+    <dif>
+      <ref tip="super" cel="ekvaci.0o"><tld lit="E"/>o</ref>, kies
+      nekonato estas funkcio aperanta en <ref
+      cel="integr2.0o">integralo</ref>:
+      <ekz>
+        en la integrala <tld/>o kun nekonato <frm>&phi;</frm> de la tipo
+        <frm>&#8747;<sub><k>a</k></sub><sup><k>b</k></sup>K(<k>s</k>,<k>t</k>)&phi;(<k>t</k>)d<k>t</k>
+        = <k>f</k>(<k>s</k>)</frm>
+        oni nomas la funkcion <frm>K</frm> &gcirc;ia kerno.
+      </ekz>
+    </dif>
+  </snc>
+  <trd
+  lng="be">&c_ib;&c_n;&c_t;&c_e;&c_g;&c_r;&c_a;&c_l;&c_mol;&c_n;&c_a;&c_je;
+  <ind>&c_r;&c_a;&c_w;&c_n;&c_a;&c_n;&c_mol;&c_n;&c_je;</ind></trd>
+  <trd lng="cs">integrální rovnice</trd>
+  <trd lng="de">Integralgleichung</trd>
+  <trd lng="en">integral <ind>equation</ind></trd>
+  <trd lng="fr">&eacute;quation int&eacute;grale</trd>
+  <trd lng="hu">integr&aacute;legyenlet</trd>
+  <trd lng="pl">r&oacute;wnanie ca&lstroke;kowe</trd>
+  <trd
+  lng="ru">&c_i;&c_n;&c_t;&c_je;&c_g;&c_r;&c_a;&c_l;&c_mol;&c_n;&c_o;&c_je;
+  <ind>&c_u;&c_r;&c_a;&c_v;&c_n;&c_je;&c_n;&c_i;&c_je;</ind></trd>
+  <trd lng="sk">integrálna rovnica</trd>
+</drv>
+
+<drv mrk="ekvaci.ne0o">
+  <kap>ne<tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>MatTerm</bib><lok>p. 16</lok></fnt>
+  <snc>
+    <dif>
+      Matematika problemo, konsistanta en ser&ccirc;ado de &ccirc;iuj
+      valoroj de nekonato, por kiuj validas iu 
+      <ref cel="egal.ne0ajxo">neegala&jcirc;o</ref>:
+      <ekz>
+        la solvoj de ne<tld/>o
+        <frm><k>x</k><sup>2</sup>+<k>y</k><sup>2</sup> &lt; 1</frm> 
+        konsistigas malfermitan diskon.
+      </ekz>
+    </dif>
+  </snc>
+  <adm>
+  Kontroli trd de/en/ru/pl. Gxenas, ke ili sxajne ne distingigxas
+  de "neegalajxo". <aut>MB</aut>
+  </adm>
+  <trd
+  lng="be">&c_n;&c_ja;&c_r;&c_o;&c_w;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+  <trd lng="de">Ungleichung</trd>
+  <trd lng="en">inequality</trd>
+  <trd lng="fr">in&eacute;quation</trd>
+  <trd lng="hu">egyenl&odblac;tlens&eacute;g</trd>
+  <trd lng="pl">nier&oacute;wno&sacute;&cacute;</trd>
+  <trd
+  lng="ru">&c_n;&c_je;&c_r;&c_a;&c_v;&c_je;&c_n;&c_s;&c_t;&c_v;&c_o;</trd>
+  <trd lng="sk">nerovnosť</trd>
+  <trd lng="cs">nerovnost</trd>
+</drv>
+
+</art>
+<!--
+$Log: ekvaci.xml,v $
+Revision 1.33  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.32  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.31  2010/01/18 17:30:56  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.30  2007/06/24 16:30:37  revo
+Tulio Flores: +tr pt
+
+Revision 1.29  2004/11/28 19:43:57  revo
+Marc Bavant: ~o: mod ekz
+
+Revision 1.28  2004/08/01 19:37:16  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.27  2003/08/17 17:29:46  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.26  2003/05/18 18:01:36  revo
+Marc Bavant: ~igi: +trd ru
+
+Revision 1.25  2003/05/09 16:31:23  revo
+Marc Bavant: ~aro: mod dif
+Revision 1..24  2003/04/07 16:34:59  revo
+Marc Bavant: ~igi: +trd de
+-->
+</vortaro>

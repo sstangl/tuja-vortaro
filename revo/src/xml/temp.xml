@@ -1,0 +1,1546 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: temp.xml,v 1.78 2015/08/20 16:10:16 revo Exp $">
+<kap>
+ <ofc>*</ofc>
+ <rad>temp</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="temp.0o">
+ <kap><ofc>*</ofc><tld/>o</kap>
+ <snc mrk="temp.0o.cxiamo">
+   <dif>
+     Da&ubreve;ro rigardata kiel universala interrilato,
+     la&ubreve; kiu ordi&gcirc;as la sinsekvaj okaza&jcirc;oj:
+     <ekz>
+       <tld/>o estas mono<fnt>Z</fnt>;
+     </ekz>
+     <ekz>
+       konsolon <tld/>o donas al la koro<fnt>Z</fnt>;
+     </ekz>
+     <ekz>
+       <tld/>o toleras, sed vero aperas
+       <fnt><bib>PrV</bib></fnt>.
+     </ekz>
+   </dif>
+   <subsnc mrk="temp.0o.KAL">
+     <tezrad fak="KAL"/>
+     <uzo tip="fak">KAL</uzo>
+     <dif>
+       Ia aparta, pli-malpli longa parto de la universala da&ubreve;ro:
+       <ekz>
+         la <tld/>o pasinta jam neniam revenos
+         <fnt><bib>F</bib>, <lok>&FE; 22</lok></fnt>;
+       </ekz>
+       <ekz>
+         la pastro, kiu mortis <klr>...</klr> anta&ubreve; nelonga
+         <tld/>o
+         <fnt><bib>F</bib>, <lok>&FE; 25</lok></fnt>;
+       </ekz>
+       <ekz>
+         <ind>alia <tld/>o, aliaj moroj</ind>
+         <trd lng="fr">autres temps, autres m&oelig;urs</trd>
+         <trd lng="hu">m&aacute;s <ind>id&odblac;k</ind>, m&aacute;s
+         erk&ouml;lcs&ouml;k</trd>
+         <fnt><bib>PrV</bib></fnt>;
+       </ekz>
+       <ekz>
+         <ind>en la bona malnova <tld/>o</ind>
+         <trd lng="fr">au bon vieux temps</trd>
+         <trd lng="hu">a r&eacute;gi sz&eacute;p id&odblac;kben</trd>
+         <fnt><bib>PrV</bib></fnt>;
+       </ekz>
+       <ekz>
+         en <tld/>o de malvarmo<fnt>Z</fnt>;
+       </ekz>
+       <ekz>
+         ne konvenas pluvo en <tld/>o de rikolto<fnt>Z</fnt>;
+       </ekz>
+       <ekz>
+         personoj <klr>...</klr> povas en la unua <tld/>o tute ne uzi la
+         artikolon
+         <fnt><bib>F</bib>, <lok>&FE; 27</lok></fnt>;
+       </ekz>
+       <ekz>
+         en &ccirc;iu <tld/>o amiko amas<fnt>Z</fnt>.
+       </ekz>
+     </dif>
+     <refgrp tip="vid">
+       <ref cel="epok.0o">epoko</ref>,
+       <ref cel="moment.0o">momento</ref>,
+       <ref cel="period.0o">periodo</ref>,
+       <ref cel="sezon.0o">sezono</ref>
+     </refgrp>
+     <trd lng="de">Zeit</trd>
+     <trd lng="ru">&c_v;&c_r;&c_je;&c_m;&c_ja;</trd>
+     <trd lng="ca">temps</trd>
+     <trd lng="es">tiempo</trd>
+     <trd lng="pl">czas</trd>
+   </subsnc>
+   <subsnc mrk="temp.0o.tauxga">
+     <dif>
+       Difinita, konvena, libera <tld/>o por io:
+       <ekz>
+         jam estas <tld/>o iri domen
+         <fnt><bib>F</bib>, <lok>&FE; 28</lok></fnt>;
+       </ekz>
+       <ekz>
+         bona estas vorto en la &gcirc;usta <tld/>o<fnt>Z</fnt>;
+       </ekz>
+       <ekz>
+         estas <tld/>o por plori kaj <tld/>o por ridi<fnt>Z</fnt>;
+       </ekz>
+       <ekz>
+         ne estas nun <tld/>o por amuzi&gcirc;i;
+       </ekz>
+       <ekz>
+         la <tld/>o de la ven&gcirc;o<fnt>Z</fnt>;
+       </ekz>
+       <ekz>
+         tio ne okupos <klr>(forprenos)</klr> multe da
+         <tld/>o<fnt>Z</fnt>;
+       </ekz>
+       <ekz>
+         mi ne havas <tld/>on;
+       </ekz>
+       <ekz>
+         ne perdu vian <tld/>on.
+       </ekz>
+     </dif>
+     <trd lng="de">Zeit</trd>
+     <trd lng="pl">pora</trd>
+     <trdgrp lng="ru">
+       <trd>&c_v;&c_r;&c_je;&c_m;&c_ja;</trd>,
+       <trd>&c_s;&c_r;&c_o;&c_k;</trd>
+     </trdgrp>
+   </subsnc>
+   <subsnc mrk="temp.0o.FIZ">
+     <uzo tip="fak">FIZ</uzo>
+     <dif>
+       Baza <ref tip="super" cel="grand.fizika0o">fizika grando</ref>,
+       esprimanta la da&ubreve;ron de fenomeno a&ubreve; la momenton, en
+       kiu &gcirc;i okazas:
+       <ekz>
+         la <ref cel="dimens.0o.FIZ">dimensioj</ref> de <tld/>o estas
+         <frm>M<sup>0</sup>L<sup>0</sup>T<sup>1</sup></frm>.
+       </ekz>
+     </dif>
+     <refgrp tip="vid">
+       <ref cel="sekund.0o.tempo">sekundo</ref>
+     </refgrp>
+     <trd lng="de">Zeit</trd>
+     <trd lng="fr">temps<klr tip="ind"> (grandeur physique)</klr></trd>
+     <trd lng="ca">temps</trd>
+     <trd lng="es">tiempo</trd>
+     <trd lng="pl">czas</trd>
+     <trdgrp lng="pt">
+       <trd>tempo</trd>
+     </trdgrp>
+     <trd lng="ru">&c_v;&c_r;&c_je;&c_m;&c_ja;</trd>
+     <trd lng="zh">&#26102;&#38388; [<ind>sh&iacute; ji&#257;n</ind>]</trd>
+   </subsnc>
+   <trd lng="de">Zeit</trd>
+   <trdgrp lng="id">
+     <trd>masa</trd>,
+     <trd>tempo</trd>,
+     <trd>waktu</trd>
+   </trdgrp>
+   <trd lng="es">tiempo</trd>
+   <trd lng="it">tempo</trd>
+   <trd lng="ru">&c_v;&c_r;&c_je;&c_m;&c_ja;</trd>
+ </snc>
+
+ <snc mrk="temp.0o.GRA">
+   <uzo tip="fak">GRA</uzo>
+   <dif>
+     Fleksio de verbo montranta, ke la priparolata
+     ago estas estanta (prezenco, fina&jcirc;o -as), pasinta (preterito,
+     fina&jcirc;o -is)
+     a&ubreve; venonta (futuro, fina&jcirc;o -os).
+   </dif>
+   <refgrp tip="vid">
+     <ref cel="modal.0o.GRA.modo">modalo <sncref/></ref>
+     <!-- , <ref cel="tens.0o">tenso</ref> mankas artikolo "tenso" -->
+   </refgrp>
+     <trdgrp lng="de">
+     <trd>Zeit</trd>,
+     <trd>Tempus</trd>
+   </trdgrp>
+   <trd lng="en">tense</trd>
+   <trd lng="es">tiempo<klr> (gram.)</klr></trd>
+   <trd lng="id">kala</trd>
+   <trd lng="it">tempo<klr> (gram.)</klr></trd>
+   <trd lng="ru">&c_v;&c_r;&c_je;&c_m;&c_ja;</trd>
+   <trd lng="zh">&#26102;&#24577; [<ind>sh&iacute; t&agrave;i</ind>]</trd>
+ </snc>
+ <snc mrk="temp.0o.MUZ">
+   <uzo tip="fak">MUZ</uzo>
+   <uzo tip="stl">EVI</uzo>
+   <ref tip="dif" cel="puls.0o.MUZ">pulso</ref>
+   <trd lng="be">&c_d;&c_o;&c_l;&c_ja; 
+<klr>(&c_m;&c_u;&c_z;&c_y;&c_ch;&c_n;&c_a;&c_ja;)</klr></trd>
+   <trdgrp lng="de">
+     <trd>Zeit</trd>,
+     <trd>Takt</trd>
+   </trdgrp>
+   <trd lng="en">beat</trd>
+   <trdgrp lng="es">
+     <trd>tempo<klr> (m&uacute;s.)</klr></trd>,
+     <trd>ritmo</trd>,
+     <trd>comp&aacute;s<klr> (m&uacute;s.)</klr></trd>
+   </trdgrp>  
+   <trd lng="id">tempo</trd>
+   <trd lng="it">tempo<klr> (mus.)</klr></trd>
+   <trd lng="ru">&c_d;&c_o;&c_l;&c_ja; <klr>(&c_m;&c_u;&c_z;., 
+&c_u;&c_s;&c_t;.)</klr></trd>
+ </snc>
+  <trdgrp lng="be">
+   <trd>&c_ch;&c_a;&c_s;</trd>,
+   <trd>&c_t;&c_e;&c_r;&c_m;&c_ib;&c_n;</trd>
+ </trdgrp>
+  <trdgrp lng="cs">
+    <trd>&ccaron;as</trd>,
+    <trd>doba</trd>
+  </trdgrp>
+  <trd lng="en">time</trd>
+  <trd lng="es">tiempo</trd>
+  <trd lng="fr">temps<klr tip="ind"> (t. s. sauf 
+m&eacute;t&eacute;o)</klr></trd>
+  <trd lng="he">&zayin;&mem;&fnun;</trd>
+  <trd lng="hu">id&odblac;</trd>
+  <trd lng="nl">tijd</trd>
+  <trd lng="pl">czas</trd>
+  <trd lng="ro">timp</trd>
+  <trdgrp lng="sk">
+    <trd>&ccaron;as</trd>,
+    <trd>doba</trd>
+  </trdgrp>
+  <trdgrp lng="tr">
+   <trd>zaman</trd>,
+   <trd>vakit</trd>
+ </trdgrp>
+  <trd lng="vo">tim</trd>
+  <trd lng="zh">&#26102; [<ind>sh&iacute;</ind>]</trd>
+</drv>
+
+<drv mrk="temp.T0o">
+ <kap><tld lit="T"/>o</kap>
+ <snc mrk="temp.T0o.MIT">
+   <uzo tip="fak">MIT</uzo>
+   <dif>
+     Figuro de la senlima <tld/>o kiel maljunulo kun longa barbo tenanta
+     sablohorlo&gcirc;on kaj mortigan fal&ccirc;ilon.
+   </dif>
+ </snc>
+  <trdgrp lng="cs">
+    <trd>doba</trd>,
+    <trd>&ccaron;as</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+   <trd>Zeit</trd>
+ </trdgrp>
+  <trdgrp lng="en">
+   <trd>Time</trd>,
+   <trd>Father Time</trd>
+ </trdgrp>
+  <trdgrp lng="es">
+   <trd>Padre Tiempo</trd>,
+   <trd>Cronos</trd>
+ </trdgrp>
+  <trd lng="hu">Id&odblac;</trd>
+  <trd lng="it">Padre Tempo</trd>
+  <trd lng="pl">Czas</trd>
+  <trd lng="ru">&c_V;&c_r;&c_je;&c_m;&c_ja;</trd>
+  <trdgrp lng="sk">
+    <trd>doba</trd>,
+    <trd>&ccaron;as</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="temp.0i">
+ <kap><tld/>i</kap>
+ <snc mrk="temp.0i.KOMUNE">
+   <gra><vspec>sensubjekte</vspec></gra>
+   <dif>
+     Esti la difinita, ta&ubreve;ga <tld/>o por io:
+     <ekz>
+       jam <tld/>is bruligi lampon
+       <fnt><bib>RugxDom</bib>, <lok>&ccirc;apitro 106a, volumo 3a, p.
+       379a</lok></fnt>.
+     </ekz>
+   </dif>
+ </snc>
+  <trd lng="cs">b&yacute;t &ccaron;as <klr>(n&ecaron;co ud&ecaron;lat)</klr></trd>
+  <trd lng="en">be time for</trd>
+  <trdgrp lng="es">
+   <trd>ser la <ind>hora</ind></trd>,
+   <trd>ser el <ind>momento</ind></trd>
+ </trdgrp>
+  <trdgrp lng="fr">
+   <trd>c'est l'<ind>heure</ind></trd>,
+   <trd>c'est le <ind>moment</ind></trd>
+ </trdgrp>
+  <trd lng="hu">itt az <ind>ideje</ind></trd>
+  <trd lng="it">essere in <ind>tempo</ind> per</trd>
+  <trd lng="pl"><klr>(ju&zdot;)</klr> <ind>czas</ind></trd>
+  <trd lng="sk">by&tcaron; &ccaron;as <klr>(nie&ccaron;o urobi&tcaron;)</klr></trd>
+</drv>
+
+<drv mrk="temp.0ismo">
+  <kap><tld/>ismo</kap>
+  <snc mrk="temp.0ismo.ESP">
+    <uzo tip="fak">ESP</uzo>
+    <uzo tip="fak">GRA</uzo>
+    <dif>
+      Gramatika skolo pri Esperanto, la&ubreve; kiu <em>it</em> kaj 
+      <em>at</em>-participoj havas precipe <tld/>an signifon
+      distingantan inter anta&ubreve;eco kaj samtempeco de okazado,
+      kontraste al <ref tip="ant"
+      cel="aspekt.0ismo.ESP">aspektismo</ref>:
+      <ekz>
+        por slavoj la <tld/>ismo de Schulz estas nekomprenebla kaj
+        neinstruebla
+        <fnt>
+          <aut>B. Golden</aut>,
+          <vrk>Ankora&ubreve; unu proceso</vrk>,
+          <bib>LOdE</bib>,
+          <lok>1996:3 (28)</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="it">atismo</trd>
+  </snc>
+</drv>
+
+<drv mrk="temp.antaux0a">
+ <kap>anta&ubreve;<tld/>a</kap>
+ <snc mrk="temp.antaux0a.KOMUNE">
+   <dif>
+     Okazanta anta&ubreve; la ta&ubreve;ga <tld/>o; trofrua:
+     <ekz>
+       anta&ubreve;<tld/>a morto, aku&scirc;o<fnt>B</fnt>;
+     </ekz>
+     <ekz>
+      liaj sociaj idealoj estas iom neordinaraj kaj anta&ubreve;<tld/>aj
+       <fnt><bib>I&scirc;tar</bib>, <lok>&ccirc;apitro 2a, antikva
+       foiro</lok></fnt>.
+     </ekz>
+   </dif>
+ </snc>
+ <trd lng="be">&c_z;&c_a;&c_w;&c_ch;&c_a;&c_s;&c_n;&c_y;</trd>
+ <trd lng="de">vorzeitig</trd>
+ <trdgrp lng="en">
+   <trd>premature</trd>,
+   <trd>untimely</trd>
+ </trdgrp>
+ <trd lng="es">prematuro</trd>
+ <trd lng="fr">pr&eacute;matur&eacute;</trd>
+ <trdgrp lng="hu">
+   <trd>id&odblac; el&odblac;tti</trd>,
+   <trd>korai</trd>
+ </trdgrp>
+ <trd lng="id">prematur</trd>
+ <trd lng="it">prematuro</trd>
+ <trd lng="pl">przedwczesny</trd>
+ <trd lng="ro">&icirc;nainte de timp</trd>
+ <trd 
+lng="ru">&c_p;&c_r;&c_je;&c_zh;&c_d;&c_je;&c_v;&c_r;&c_je;&c_m;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>
+</drv>
+
+<drv mrk="temp.de0ede">
+ <kap>de<tld/>e de</kap>
+ <gra><vspec>prepozicia&jcirc;o</vspec></gra>
+ <uzo tip="stl">RAR</uzo>
+ <snc mrk="temp.de0ede.KOMUNE">
+   <ref tip="dif" cel="de.0.tempo">de <sncref/></ref>
+   <ekz>
+     respondis Josuo, filo de Nun, kaj servanto de Moseo
+     de<tld/>e de lia juneco
+     <fnt><bib>MT</bib>, <lok>&Nom; 11:28</lok></fnt>.
+   </ekz>
+ </snc>
+  <trdgrp lng="be">
+   <trd>&c_z; &c_ch;&c_a;&c_s;&c_u;</trd>,
+   <trd>&c_a;&c_d; &c_ch;&c_a;&c_s;&c_u;</trd>
+ </trdgrp>
+  <trd lng="cs">od doby</trd>
+  <trdgrp lng="de">
+   <trd>seit</trd>,
+ </trdgrp>
+  <trd lng="es">despu&eacute;s</trd>
+  <trdgrp lng="fr">
+   <trd>d&egrave;s</trd>,
+   <trd>depuis</trd>
+ </trdgrp>
+  <trd lng="hu">idej&eacute;t&odblac;l fogva</trd>
+  <trd lng="nl">sedert</trd>
+  <trd lng="pl">od <ind>czasu</ind></trd>
+  <trd lng="ru">&c_s;&c_o; &c_v;&c_r;&c_je;&c_m;&c_je;&c_n;&c_i;</trd>
+  <trd lng="sk">od doby</trd>
+</drv>
+
+<drv mrk="temp.de0oal0o">
+  <kap>de <tld/>o al <tld/>o,
+  <var><kap><tld/>al<tld/>e</kap></var></kap>
+  <snc mrk="temp.de0oal0o.KOMUNE">
+    <dif>
+      Iam kaj iam, plurfoje la&ubreve; inter<tld/>oj, <ref tip="vid"
+      cel="interm.0e">intermite</ref>:
+      <ekz>
+        de <tld/>o al <tld/>o la flamo en &gcirc;i ekflagradis
+        <fnt><bib>Fab2</bib>, <lok>malnova strata lanterno</lok></fnt>;
+      </ekz>
+      <ekz>
+        tiaj festenoj <klr>...</klr> povis okazi nur 
+        <tld/>al<tld/>e
+        <fnt>
+          <aut>M. K. Gandhi, trad. A Giridhar Rao</aut>,
+          <vrk><url
+          ref="http://agrao.50webs.com/gandhi/eksperimentoj/unua/tradegio-2.htm">
+          Eksperimentoj kun la Vero</url></vrk>,
+          <lok>2013</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_ch;&c_a;&c_s; &c_a;&c_d; &c_ch;&c_a;&c_s;&c_u;</trd>,
+    <trd>&c_r;&c_a;&c_z;-&c_p;&c_o;&c_r;&c_a;&c_z;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>von <ind>Zeit zu Zeit</ind></trd>,
+    <trd>bisweilen</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>from time to time</trd>,
+    <trd>occasionally</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>de tiempo en tiempo</trd>,
+    <trd>ocasionalmente</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>de <ind>temps</ind> &agrave; autre</trd>,
+    <trd>de <ind>temps</ind> en temps</trd>
+  </trdgrp>
+  <trd lng="hu">id&odblac;nk&eacute;nt</trd>
+  <trd lng="id">dari <ind>waktu</ind> ke waktu</trd>
+  <trdgrp lng="it">
+    <trd>di quando in quando</trd>,
+    <trd>occasionalmente</trd>, 
+    <trd>saltuariamente</trd>
+  </trdgrp>
+  <trd lng="nl">van <ind>tijd</ind> tot tijd</trd>
+  <trd lng="pl">od <ind>czasu</ind> do czasu</trd>
+  <trd lng="ro">uneori</trd>
+  <trd lng="ru">&c_v;&c_r;&c_je;&c_m;&c_ja; &c_o;&c_t;
+  &c_v;&c_r;&c_je;&c_m;&c_je;&c_n;&c_i;</trd>
+</drv>
+
+<drv mrk="temp.dum0a">
+  <kap>dum<tld/>a, <var><kap>por<tld/>a</kap></var></kap>
+  <snc>
+    <dif>
+      Da&ubreve;ranta a&ubreve; okazanta nur dum difinita tempo.
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>provizorn&iacute;</trd>,
+    <trd>prozat&iacute;mn&iacute;</trd>
+  </trdgrp>
+  <trd lng="en">temporary</trd>
+  <trdgrp lng="es">
+    <trd>temporal</trd>,
+    <trd>transitorio</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>temporaire</trd>,
+    <trd>transitoire</trd>
+  </trdgrp>
+  <trdgrp lng="id">
+    <trd>sementara</trd>,
+    <trd>temporer</trd>
+  </trdgrp>
+  <trdgrp lng="it">
+    <trd>temporaneo</trd>,
+    <trd>transitorio</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>tymczasowy</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>do&ccaron;asn&yacute;</trd>,
+    <trd>proviz&oacute;rny</trd>,
+    <trd>s&uacute;&ccaron;asn&yacute;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="temp.eks0a">
+  <kap>eks<tld/>a</kap>
+  <snc mrk="temp.eks0a.KOMUNE">
+    <dif>
+      El pasinta tempo;
+      <ref tip="vid" cel="arkaik.0a.KOMUNE">arkaika</ref>:
+      <ekz>
+        lasu la eks<tld/>ajn idealojn
+        <fnt>
+          <aut>I. Mad&aacute;ch, trad. K. Kalocsay</aut>, 
+          <vrk>La Tragedio de l' Homo</vrk>, 
+          <lok>1965</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="es">
+    <trd>anticuado</trd>
+    <trd>obsoleto</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>d&eacute;pass&eacute;</trd>
+    <trd>d&eacute;suet</trd>
+  </trdgrp>
+  <trd lng="id">usang</trd>
+</drv>
+
+<drv mrk="temp.fiks0o">
+ <kap>fiks<tld/>o</kap>
+ <snc mrk="temp.fiks0o.kiam">
+   <dif>
+     Perioda limtempo por iu okaza&jcirc;o a&ubreve; ago:
+     <ekz>
+       sinjoro, &ndash; diris Marta, &ndash; post du tagoj estos la
+       fiks<tld/>o, en kiu mi devas enporti la luan pagon por la
+       lo&gcirc;ejo
+       <fnt><bib>Marta</bib></fnt>.
+     </ekz>
+   </dif>
+ </snc>
+ <trd lng="be">&c_a;&c_p;&c_o;&c_sh;&c_n;&c_ib;
+ <ind>&c_t;&c_e;&c_r;&c_m;&c_ib;&c_n;</ind></trd>
+ <trd lng="en">deadline</trd>
+ <trdgrp lng="es">
+   <trd>vencimiento</trd>,
+   <trd>plazo</trd>
+ </trdgrp>
+ <trd lng="fr">&eacute;ch&eacute;ance</trd>
+ <trdgrp lng="hu">
+   <trd>lej&aacute;rat</trd>,
+   <trd>esed&eacute;kess&eacute;g</trd>
+ </trdgrp>
+ <trd lng="id">tenggat</trd>
+ <trdgrp lng="it">
+ <trd>termine<klr> (data)</klr></trd>,
+ <trd>scadenza<klr> (termine)</klr></trd></trdgrp>
+ <trd lng="nl">vervaldag</trd>
+ <trd lng="pl">termin</trd>
+ <trd lng="ro">termen</trd>
+</drv>
+
+<drv mrk="temp.for0igxi">
+  <kap>for<tld/>i&gcirc;i</kap>
+  <snc mrk="temp.for0igxi.kiam">
+    <dif>
+      Arkaiki&gcirc;i,
+      <ref tip="vid" cel="kaduk.0igxi">kaduki&gcirc;i</ref>,
+      senvalori&gcirc;i pro troa prokrasto.
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="valid">senvalidi&gcirc;i</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_s;&c_a;&c_s;&c_t;&c_a;&c_r;&c_e;&c_c;&c_mol;</trd>
+  <trdgrp lng="en">
+    <trd>expire</trd>,
+    <trd>run out</trd>,
+    <trd>terminate</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>expirar</trd>,
+    <trd>finalizar</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>&ecirc;tre <ind>d&eacute;pass&eacute;</ind><klr> (dans le
+    temps)</klr></trd>,
+    <trd>avoir fait son <ind>temps</ind></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>el&eacute;v&uuml;l</trd>,
+    <trd>elavul</trd>
+  </trdgrp>
+  <trd lng="id">kedaluwarsa</trd>
+  <trd lng="pl">przedawni&cacute; si&eogonek;</trd>
+  <trd lng="ru">&c_u;&c_s;&c_t;&c_a;&c_r;&c_je;&c_t;&c_mol;</trd>
+</drv>
+
+<drv mrk="temp.gxusta0e">
+ <kap>&gcirc;usta<tld/>e</kap>
+ <snc mrk="temp.gxusta0e.kiam">
+   <dif>
+     En la oportuna, planita a&ubreve; konvena tempo:
+     <ekz>
+       &gcirc;usta<tld/>e kiel pluvo en a&ubreve;gusto, kiel
+       froma&gcirc;o sur makaronioj.
+     </ekz>
+   </dif>
+ </snc>
+ <trdgrp lng="be">
+   <trd>&c_s;&c_v;&c_o;&c_je;&c_ch;&c_a;&c_s;&c_o;&c_v;&c_a;</trd>
+ </trdgrp>
+ <trd lng="ca">a l'hora</trd>
+ <trdgrp lng="de">
+   <trd>rechtzeitig</trd>,
+   <trd>zur rechten Zeit</trd>
+ </trdgrp>
+ <trdgrp lng="en">
+   <trd>at the right time</trd>,
+   <trd>timely</trd>
+ </trdgrp>
+ <trdgrp lng="es">
+   <trd>a tiempo</trd>,
+   <trd>en buen momento</trd>,
+   <trd>en el momento oportuno</trd>
+ </trdgrp>
+ <trdgrp lng="fr">
+   <trd>&agrave; temps</trd>,
+   <trd>au bon moment</trd>,
+   <trd>en temps et en heure</trd>
+ </trdgrp>
+ <trdgrp lng="hu">
+   <trd>id&odblac;ben</trd>,
+   <trd>j&oacute;kor</trd>,
+   <trd>idejekor&aacute;n</trd>
+ </trdgrp>
+ <trd lng="id"><ind>tepat</ind> waktu</trd>
+ <trd lng="it">tempestivamente</trd>
+ <trd lng="nl">tijdig</trd>
+ <trd lng="oc">a l'ora</trd>
+ <trdgrp lng="pl">
+   <trd>w <ind>por&eogonek;</ind></trd>,
+   <trd>we w&lstroke;a&sacute;ciwym <ind>czasie</ind></trd>
+ </trdgrp>
+ <trd lng="ro">la <ind>timp</ind></trd>
+ <trd 
+lng="ru">&c_s;&c_v;&c_o;&c_je;&c_v;&c_r;&c_je;&c_m;&c_je;&c_n;&c_n;&c_o;</trd>
+</drv>
+
+<drv mrk="temp.inter0e">
+ <kap>inter<tld/>e</kap>
+ <snc mrk="temp.inter0e.KOMUNE">
+   <dif>
+     Inter du okaza&jcirc;oj, inter tiam kaj nun;
+     <ref tip="sin" cel="dum.0e.kiam">dume<sncref/></ref>:
+     <ekz>
+       la muroj e&ccirc; &scirc;ajnis fremdaj, nekonataj, &ccirc;ar
+       inter<tld/>e oni riparis fundamente
+       <fnt><bib>Metrop</bib></fnt>.
+     </ekz>
+   </dif>
+ </snc>
+  <trd lng="be">&c_t;&c_y;&c_m; &c_ch;&c_a;&c_s;&c_a;&c_m;</trd>
+  <trdgrp lng="cs">
+    <trd>mezit&iacute;m</trd>,
+    <trd>prozat&iacute;m</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+   <trd>w&auml;hrenddessen</trd>,
+   <trd>unterdessen</trd>,
+   <trd>derweilen</trd>,
+   <trd>derweil</trd>
+ </trdgrp>
+  <trd lng="en">meanwhile</trd>
+  <trdgrp lng="es">
+   <trd>mientras</trd>,
+   <trd>entretanto</trd>
+ </trdgrp>
+  <trdgrp lng="fr">
+   <trd>cependant<klr tip="ind"> (pendant ce temps)</klr></trd>,
+   <trd>entretemps</trd>,
+   <trd>pendant ce temps</trd>
+ </trdgrp>
+  <trdgrp lng="hu">
+   <trd>ek&ouml;zben</trd>,
+   <trd>ezalatt</trd>,
+   <trd>ak&ouml;zben</trd>,
+   <trd>azalatt</trd>
+ </trdgrp>
+  <trdgrp lng="id">
+   <trd>sedangkan</trd>,
+   <trd>sementara itu</trd>
+ </trdgrp>
+  <trd lng="it">nel <ind>frattempo</ind></trd>
+  <trd lng="nl">ondertussen</trd>
+  <trdgrp lng="pl">
+   <trd>tymczasem</trd>,
+   <trd>w <ind>mi&eogonek;dzyczasie</ind></trd>
+ </trdgrp>
+  <trd lng="ro">&icirc;ntre timp</trd>
+  <trd lng="ru">&c_t;&c_je;&c_m; 
+&c_v;&c_r;&c_je;&c_m;&c_je;&c_n;&c_je;&c_m;</trd>
+  <trdgrp lng="sk">
+    <trd>medzit&yacute;m</trd>,
+    <trd>medzi&ccaron;asom</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="temp.inter0o">
+  <kap>inter<tld/>o</kap>
+  <snc mrk="temp.inter0o.KOMUNE">
+    <dif>
+      <tld lit="T"/>o inter du limoj, du okaza&jcirc;oj:
+      <ekz>
+        post inter<tld/>o de dek kvar jaroj, mi denove supreniris al 
+        Jerusalem
+        <fnt>
+          <bib>NT</bib>,
+          <lok>&Gal; 2:1</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">mezi&ccaron;as</trd>
+  <trd lng="es">intervalo<klr> (de tiempo)</klr></trd>
+  <trd lng="fr">intervalle<klr> (de temps)</klr></trd>
+  <trd lng="id">selang <ind>waktu</ind></trd>
+  <trd lng="sk">medzi&ccaron;as</trd>
+</drv>
+
+<drv mrk="temp.lasta0e">
+ <kap>lasta<tld/>e</kap>
+ <snc mrk="temp.lasta0e.KOMUNE">
+   <dif>
+     En la plej proksima pasinta tempo
+   </dif>
+ </snc>
+  <trd lng="cs">v posledn&iacute; dob&ecaron;</trd>
+  <trdgrp lng="en">
+   <trd>lately</trd>,
+   <trd>recently</trd>
+ </trdgrp>
+  <trdgrp lng="es">
+   <trd>&uacute;ltimamente</trd>,
+   <trd>recientemente</trd>
+ </trdgrp>
+  <trdgrp lng="id">
+   <trd><ind>akhir</ind>-akhir ini</trd>,
+   <trd><ind>baru</ind>-baru ini</trd>,
+   <trd><ind>belakang</ind>an ini</trd>
+ </trdgrp>
+  <trd lng="it">recentemente</trd>
+  <trdgrp lng="pl">
+   <trd>ostatnio</trd>,
+   <trd>w <ind>ostatnim czasie</ind></trd>,
+   <trd>ostatnimi czasy</trd>,
+   <trd>ostatnim razem</trd>
+ </trdgrp>
+  <trd lng="sk">v poslednej dobe</trd>
+</drv>
+
+<drv mrk="temp.liber0o">
+ <kap>liber<tld/>o</kap>
+ <snc mrk="temp.liber0o.KOMUNE">
+   <dif>
+     <tld lit="T"/>o, dum kiu oni ne devas labori
+     (precipe pri lernantoj a&ubreve; oficistoj):
+     <ekz>
+       kaj mi havos <klr>...</klr> du monatojn da liber<tld/>o
+       <fnt><bib>Marta</bib></fnt>?
+     </ekz>
+   </dif>
+   <refgrp tip="sub">
+     <ref cel="feri.0o">ferio</ref>
+   </refgrp>
+ </snc>
+  <trd lng="be">&c_v;&c_o;&c_l;&c_mol;&c_n;&c_y; &c_ch;&c_a;&c_s;</trd>
+  <trdgrp lng="cs">
+    <trd>dovolen&aacute;</trd>,
+    <trd>pr&aacute;zdniny</trd>,
+    <trd>voln&yacute; &ccaron;as</trd>
+  </trdgrp>
+  <trd lng="de">Freizeit</trd>
+  <trdgrp lng="en">
+       <trd>free time</trd>,
+       <trd>leave (time)</trd>,
+       <trd>holiday</trd>,
+       <trd>vacation</trd>
+ </trdgrp>
+  <trdgrp lng="es">
+       <trd>tiempo libre</trd>,
+       <trd>vacaci&oacute;n</trd>
+ </trdgrp>
+  <trd lng="fr">temps libre</trd>
+  <trdgrp lng="he">
+   <trd>&het;&vav;&pe;&shin;&he;<klr> (&mem;&ayin;&bet;&vav;&dalet;&he;
+   &alef;&vav; &mem;&lamed;&yod;&mem;&vav;&dalet;&yod;&fmem;)</klr>
+   </trd>,
+   <trd>&pe;&gimel;&resh;&he;</trd>
+ </trdgrp>
+  <trdgrp lng="hu">
+   <trd>szabadid&odblac;</trd>,
+   <trd>szabads&aacute;g</trd>
+ </trdgrp>
+  <trdgrp lng="id">
+   <trd><ind>waktu</ind> luang</trd>,
+   <trd><ind>waktu</ind> senggang</trd>
+ </trdgrp>
+  <trd lng="it"><ind>tempo</ind> librero</trd>
+  <trd lng="nl">vrije <ind>tijd</ind></trd>
+  <trdgrp lng="pl">
+   <trd>urlop</trd>,
+   <trd>wakacje</trd>
+ </trdgrp>
+  <trdgrp lng="ro">
+   <trd>concediu</trd>,
+   <trd>vacan&tcedil;&abreve;</trd>
+ </trdgrp>
+  <trd lng="ru">&c_s;&c_v;&c_o;&c_b;&c_o;&c_d;&c_n;&c_o;&c_je;
+ &c_v;&c_r;&c_je;&c_m;&c_ja;</trd>
+  <trdgrp lng="sk">
+    <trd>dovolenka</trd>,
+    <trd>pr&aacute;zdniny</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="temp.long0e">
+ <kap>long<tld/>e, <var><kap>longa<tld/>e</kap></var></kap>
+ <snc mrk="temp.long0e.kiam">
+   <dif>
+     Dum multe da tempo:
+   <ekz>
+     &ccirc;u mi ne estas via azenino, sur kiu vi rajdadis de
+     longa<tld/>e &gcirc;is la nuna tago
+     <fnt><bib>MT</bib>, <lok>&Nom; 22:30</lok></fnt>?
+   </ekz>
+     <ekz>
+       mi long<tld/>e restis sola komsomolano en la fabriko
+       <fnt><bib>Metrop</bib></fnt>.
+     </ekz>
+   </dif>
+   <refgrp tip="sin">
+     <ref cel="long.0e.tempe">longe <sncref/></ref>
+   </refgrp>
+ </snc>
+  <trd lng="be">&c_d;&c_o;&c_w;&c_g;&c_a;</trd>
+  <trd lng="cs">dlouho</trd>
+  <trd lng="en">for a long time</trd>
+  <trd lng="es">por un largo <ind>tiempo</ind></trd>
+  <trd lng="fr">longtemps</trd>
+  <trdgrp lng="hu">
+   <trd>hosszan</trd>,
+   <trd>tart&oacute;san</trd>,
+   <trd>hossz&uacute; ideig</trd>
+ </trdgrp>
+  <trd lng="it">da molto <ind>tempo</ind></trd>
+  <trd lng="nl">lang<klr tip="ind"> (bijw.)</klr></trd>
+  <trdgrp lng="pl">
+   <trd>d&lstroke;ugo</trd>,
+   <trd>od <ind>dawna</ind></trd>,
+ </trdgrp>
+  <trd lng="ro">lung</trd>
+  <trd lng="ru">&c_d;&c_o;&c_l;&c_g;&c_o;</trd>
+  <trd lng="sk">dlho</trd>
+</drv>
+
+<drv mrk="temp.nun0o">
+ <kap>nun<tld/>o</kap>
+ <snc mrk="temp.nun0o.KOMUNE">
+   <dif>
+     Nuna epoko, estanta <tld/>o, estanteco, nuno:
+     <ekz>
+       Ne plu ekzistas la antikva beleco! &Ccirc;ie regas la
+       mal&ccirc;asta nun<tld/>o!
+       <fnt><bib>Metrop</bib>, <lok>parto 8a</lok></fnt>.
+     </ekz>
+   </dif>
+   <trdgrp lng="en">
+     <trd>current times</trd>,
+     <trd>modern times</trd>,
+     <trd>the present day</trd>
+   </trdgrp>
+   <trdgrp lng="es">
+     <trd>tiempo actual</trd>,
+     <trd>tiempo presente</trd>
+   </trdgrp>
+ </snc>
+ <snc mrk="temp.nun0o.GRA">
+   <uzo tip="fak">GRA</uzo>
+   <ref tip="dif" cel="prezen.0o">prezenco</ref>
+ </snc>
+  <trd lng="be">&c_c;&c_ja;&c_p;&c_je;&c_r;&c_a;&c_sh;&c_n;&c_ib;
+ <ind>&c_ch;&c_a;&c_s;</ind></trd>
+  <trd lng="br">amzer-vrema&ntilde;</trd>
+  <trdgrp lng="cs">
+    <trd>dne&scaron;ek</trd>,
+    <trd>nyn&ecaron;j&scaron;ek</trd>,
+    <trd>p&rcaron;&iacute;tomnost</trd>,
+    <trd>sou&ccaron;asnost</trd>,
+    <trd>sou&ccaron;asn&eacute; obdob&iacute;</trd>
+  </trdgrp>
+  <trd lng="de">Gegenwart</trd>
+  <trd lng="en">the present</trd>
+  <trd lng="es">presente<klr> (subst.)</klr></trd>
+  <trd lng="fi">nykyaika</trd>
+  <trd lng="fr">pr&eacute;sent<klr> (subst.)</klr></trd>
+  <trd lng="he">&he;&vav;&vav;&he;</trd>
+  <trd lng="hu">jelen <klr tip="amb">(id&odblac;)</klr></trd>
+  <trd lng="id"><ind>saat</ind> ini</trd>
+  <trd lng="it">presente<klr> (sost.)</klr></trd>
+  <trdgrp lng="nl">
+   <trd>het <ind>heden</ind></trd>,
+   <trd>tegenwoordige tijd</trd>
+ </trdgrp>
+  <trd lng="pl">tera&zacute;niejszo&sacute;&cacute;</trd>
+  <trdgrp lng="ro">
+   <trd>acum</trd>,
+   <trd>&icirc;n prezent</trd>
+ </trdgrp>
+  <trd lng="ru">&c_n;&c_a;&c_s;&c_t;&c_o;&c_ja;&c_shch;&c_je;&c_je; 
+&c_v;&c_r;&c_je;&c_m;&c_ja;</trd>
+  <trdgrp lng="sk">
+    <trd>dne&scaron;ok</trd>,
+    <trd>pr&iacute;tomnos&tcaron;</trd>,
+    <trd>s&uacute;&ccaron;asnos&tcaron;</trd>
+  </trdgrp>
+  <trd lng="sv">nutid</trd>
+</drv>
+
+<drv mrk="temp.post0a">
+ <kap>post<tld/>a</kap>
+ <fnt><bib>PIV1</bib></fnt>
+ <snc mrk="temp.post0a.KOMUNE">
+   <dif>
+     Okazanta post la ta&ubreve;ga <tld/>o, tro malfrua;
+     rilata al pli posta <tld/>o:
+     <ekz>
+       nur tiel ni povas elbatali niajn <klr>...</klr>
+       post<tld/>ajn salajrojn
+       <fnt><lok><url
+     ref="http://esperantaalternativo.republika.pl/interhelpo/ih2.html">
+      http://esperantaalternativo.republika.pl/interhelpo/ih2.html</url>
+       </lok></fnt>.
+     </ekz>
+   </dif>
+ </snc>
+ <trdgrp lng="be">
+   <trd>&c_z;&c_a;&c_p;&c_o;&c_z;&c_mol;&c_n;&c_je;&c_n;&c_y;</trd>,
+   <trd>&c_z;&c_a;&c_p;&c_o;&c_z;&c_n;&c_y;</trd>
+ </trdgrp>
+ <trdgrp lng="en">
+   <trd>behind</trd>,
+   <trd>delayed</trd>,
+   <trd>expired</trd>,
+   <trd>late</trd>,
+   <trd>out of date</trd>,
+   <trd>over-due</trd>,
+   <trd>tardy</trd>
+ </trdgrp>
+ <trdgrp lng="es">
+   <trd>posterior<klr> (tiempo)</klr></trd>,
+   <trd>sucesivo</trd>,
+   <trd>tard&iacute;o</trd>
+ </trdgrp>
+ <trdgrp lng="hu">
+   <trd>megk&eacute;sett</trd>,
+   <trd>elmaradt</trd>,
+   <trd>h&aacute;tral&eacute;kos</trd>
+ </trdgrp>
+ <trdgrp lng="id">
+   <trd>[<ind>lambat</ind>] terlambat</trd>,
+   <trd>telat</trd>
+ </trdgrp>
+ <trdgrp lng="it">
+   <trd>posteriore<klr> (tempo)</klr></trd>,
+   <trd>successivo</trd>,
+   <trd>tardivo</trd>
+ </trdgrp>
+ <trd lng="nl">achterstallig</trd>
+ <trdgrp lng="pl">
+   <trd>op&oacute;&zacute;niony</trd>,
+   <trd>zaleg&lstroke;y</trd>,
+ </trdgrp>
+ <trd lng="ro">ulterior</trd>
+</drv>
+
+<drv mrk="temp.pra0o">
+  <kap>pra<tld/>o</kap>
+  <snc mrk="temp.pra0o.KOMUNE">
+    <dif>
+      Tre antikva tempo:
+      <ekz>
+        elmortintaj bestoj de l' pra<tld/>oj
+        <fnt>
+          <aut>I. Mad&aacute;ch, trad. K. Kalocsay</aut>, 
+          <vrk>La Tragedio de l' Homo</vrk>, 
+          <lok>1965</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>d&aacute;vnov&ecaron;k</trd>,
+    <trd>prav&ecaron;k</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd><ind>tiempo</ind> remoto</trd>,
+    <trd>antig&uuml;edad (tiempo)</trd>
+  </trdgrp>
+  <trd lng="fr">temps anciens</trd>
+  <trd lng="id"><ind>zaman</ind> dahulu</trd>
+  <trdgrp lng="sk">
+    <trd>d&aacute;vnovek</trd>,
+    <trd>pravek</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="temp.prov0o">
+ <kap>prov<tld/>o, <var><kap>provo<tld/>o</kap></var></kap>
+ <snc mrk="temp.prov0o.KOMUNE">
+   <dif>
+     Periodo, dum kiu okazas <ref cel="prov.0o">provo</ref>:
+     <ekz>
+       &ccirc;u tio ne pruvas, ke liaj suferoj estis nur Dia
+       provo<tld/>o?
+       <fnt><bib>I&scirc;tar</bib>, <lok>&ccirc;apitro 1a</lok></fnt>;
+     </ekz>
+     <ekz>
+       post certa provo<tld/>o ni decidi&gcirc;is al formo de
+       &leftquot;Lexicon Silvestre&rightquot;, kiu ampleksu
+       la informeblecojn de &ccirc;iuj kvar vortaroformoj
+       <fnt>
+       <vrk>Pri la internacia lingva interkompreni&gcirc;o kadre de la
+       forsta fako</vrk>
+       <lok><url
+       ref="http://esperantic.org/librejo/dbstudoj/41_Simon.htm">
+       http://esperantic.org/librejo/dbstudoj/41_Simon.htm</url></lok>
+       </fnt>;
+     </ekz>
+     <ekz>
+       ekde 1a de januaro 1989 estis redonita al li por unujara
+       prov<tld/>o &scirc;tata permeso por praktikado de animzorga servo
+       <fnt>
+       <vrk>Dio benu</vrk>,
+       <lok><url
+       ref="http://home.t-online.de/home/b.eichkorn/dibe46.htm">
+       http://home.t-online.de/home/b.eichkorn/dibe46.htm</url></lok>
+       </fnt>;
+     </ekz>
+     <ekz>
+       estis kondamnita la tendarestro Milo&scirc; je 15 monatoj kaj
+       pastro Srna je 12 monatoj de karcera restado kun trijara
+       prokrasta prov<tld/>o
+       <fnt><vrk>Dio benu</vrk>, <lok><url
+       ref="http://mujweb.atlas...cz/spolecnost/svacek/41DIOBEN.HTM">
+       http://mujweb.atlas.cz/spolecnost/svacek/41DIOBEN.HTM</url></lok>
+       </fnt>;
+     </ekz>
+     <ekz>
+       oni promesis al ni sesmonatan da&ubreve;ron kiel prov<tld/>on
+       <fnt><vrk>Esperanto sub la Suda Kruco</vrk><lok><url
+       ref="http://www.sudakruco.org/012/09.html">1994-11/12</url></lok>
+       </fnt>.
+     </ekz>
+   </dif>
+ </snc>
+  <trd 
+lng="be">&c_v;&c_y;&c_p;&c_r;&c_a;&c_b;&c_a;&c_v;&c_a;&c_l;&c_mol;&c_n;&c_y; 
+&c_t;&c_e;&c_r;&c_m;&c_ib;&c_n;</trd>
+  <trd lng="cs">zku&scaron;ebn&iacute; doba</trd>
+  <trd lng="en">trial period</trd>
+  <trd lng="es">tiempo de prueba</trd>
+  <trdgrp lng="fr">
+   <trd>p&eacute;riode d'essai</trd>,
+   <trd>p&eacute;riode probatoire</trd>,
+   <trd>probation</trd>
+ </trdgrp>
+  <trd lng="hu">pr&oacute;baid&odblac;</trd>
+  <trd lng="id"><ind>masa</ind> percobaan</trd>
+  <trdgrp lng="it">
+   <trd>periodo di <ind>prova</ind></trd>,
+   <trd>tirocinio</trd>
+ </trdgrp>
+  <trd lng="nl">proeftijd</trd>
+  <trd lng="pl">okres pr&oacute;bny</trd>
+  <trd lng="ro">perioad&abreve; de &icirc;ncercare</trd>
+  <trd 
+lng="ru">&c_i;&c_s;&c_p;&c_y;&c_t;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j; 
+&c_s;&c_r;&c_o;&c_k;</trd>
+  <trd lng="sk">sk&uacute;&scaron;obn&aacute; doba</trd>
+</drv>
+
+<drv mrk="temp.real0a">
+ <kap>real<tld/>a</kap>
+ <snc mrk="temp.real0a.KOMP">
+   <uzo tip="fak">KOMP</uzo>
+   <dif>
+     Rilata al tia funkciado de
+     <ref cel="komput.0a.sistemo.KOMP">komputa sistemo</ref>, ke
+     &gcirc;ia interago kun eksteraj procezoj okazas sufi&ccirc;e
+     rapide por la&ubreve;cele influi tiujn procezojn:
+     <ekz>
+       <ind>real<tld/>a re&gcirc;imo</ind>;
+       <trd lng="en">real-time operation</trd>
+       <trd lng="es">proceso en tiempo real</trd>
+       <trd lng="hu">val&oacute;s idej&udblac; &uuml;zemm&oacute;d</trd>
+       <trd lng="pl">w <ind>czasie</ind> rzeczywistym</trd>
+       <trd lng="ru">&c_r;&c_je;&c_zh;&c_i;&c_m;
+       <ind>&c_r;&c_je;&c_a;&c_l;&c_mol;&c_n;&c_o;&c_g;&c_o;
+       &c_v;&c_r;&c_je;&c_m;&c_je;&c_n;&c_i;</ind></trd>
+     </ekz>
+     <ekz>
+       real<tld/>a komputila tradukado de telefonaj konversacioj
+       <fnt>
+       <aut>R. F&ouml;&szlig;meier</aut>,
+       <lok><url
+       ref="http://www.forst.tu-muenchen.de/EXT/AIS/kursoj/kultprog/teksto.html">
+       Kulturaj aspektoj de komputil-programado</url></lok>.
+       </fnt>.
+     </ekz>
+   </dif>
+ </snc>
+  <trd lng="be">&c_r;&c_e;&c_a;&c_l;&c_mol;&c_n;&c_a;&c_g;&c_a; 
+&c_ch;&c_a;&c_s;&c_u;</trd>
+  <trd lng="cs">v re&aacute;ln&eacute;m &ccaron;ase <klr>(adj.)</klr></trd>
+  <trd lng="en">real time</trd>
+  <trd lng="es">tiempo real <klr>(sincr&oacute;nico)</klr></trd>
+  <trd lng="fr">temps r&eacute;el</trd>
+  <trd lng="he">&zayin;&mem;&fnun;-&alef;&mem;&tav;</trd>
+  <trd lng="hu">val&oacute;s idej&udblac;</trd>
+  <trd lng="id">langsung (siaran)</trd>
+  <trd lng="it">in <ind>tempo</ind> reale<klr> (inf.)</klr></trd>
+  <trd lng="pl">w <ind>czasie</ind> rzeczywistym</trd>
+  <trd lng="sk">v re&aacute;lnom &ccaron;ase</trd>
+</drv>
+
+<drv mrk="temp.sam0a">
+ <kap>sam<tld/>a</kap>
+ <snc mrk="temp.sam0a.KOMUNE">
+   <dif>
+     <ref tip="vid" cel="kun.0a">Kuna</ref> la&ubreve; <tld/>o,
+     okazanta en la sama momento a&ubreve; epoko.
+   </dif>
+ </snc>
+  <trdgrp lng="be">
+   <trd>&c_a;&c_d;&c_n;&c_a;&c_ch;&c_a;&c_s;&c_n;&c_y;</trd>,
+   <trd>&c_a;&c_d;&c_n;&c_a;&c_ch;&c_a;&c_s;&c_o;&c_v;&c_y;</trd>
+ </trdgrp>
+  <trdgrp lng="cs">
+    <trd>prob&iacute;haj&iacute;c&iacute; ve stejn&eacute;m &ccaron;ase</trd>,
+    <trd>sou&ccaron;asn&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+   <trd>gleichzeitig</trd>,
+   <trd>simultan</trd>,
+   <trd>synchron</trd>
+ </trdgrp>
+  <trdgrp lng="en">
+   <trd>contemporary</trd>,
+   <trd>simultaneous</trd>,
+   <trd>synchronized</trd>,
+   <trd>synchronous</trd>
+ </trdgrp>
+  <trdgrp lng="es">
+   <trd>contempor&aacute;neo<klr> (adj.)</klr></trd>,
+   <trd>simult&aacute;neo</trd>,
+   <trd>sincr&oacute;nico</trd>
+ </trdgrp>
+  <trdgrp lng="fr">
+   <trd>contemporain<klr> (adj.)</klr></trd>,
+   <trd>simultan&eacute;</trd>,
+   <trd>synchrone</trd>
+ </trdgrp>
+  <trdgrp lng="hu">
+   <trd>egyidej&udblac;</trd>,
+   <trd>szinkr&oacute;n</trd>,
+   <trd>szimult&aacute;n</trd>
+ </trdgrp>
+  <trdgrp lng="id">
+   <trd>kontemporer</trd>,
+   <trd>simultan</trd>,
+   <trd>sinkron</trd>
+ </trdgrp>
+  <trdgrp lng="it">
+   <trd>contemporaneo<klr> (agg.)</klr></trd>,
+   <trd>simultaneo</trd>,
+   <trd>sincrono</trd>
+ </trdgrp>
+  <trd lng="nl">gelijktijdig</trd>
+  <trdgrp lng="pl">
+   <trd>jednoczesny</trd>,
+   <trd>r&oacute;wnoczesny</trd>,
+ </trdgrp>
+  <trd lng="ro">concomitent</trd>
+  <trd 
+lng="ru">&c_o;&c_d;&c_n;&c_o;&c_v;&c_r;&c_je;&c_m;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>
+  <trd lng="sk">s&uacute;&ccaron;asn&yacute;</trd>
+</drv>
+
+<drv mrk="temp.sam0ano">
+ <kap>sam<tld/>ano</kap>
+ <snc mrk="temp.sam0ano.KOMUNE">
+   <dif>
+     Homo a&ubreve; afero kies ekzistoperiodo havas komunan parton
+     kun la ekzistoperiodo de iu a&ubreve; io alia:
+     <ekz>
+       genia judo nomata Eleazer ben Judah, sam<tld/>ano kaj
+       kuracista kolego de Zamenhof
+       <fnt>
+       <aut>I. G. Braga</aut>,
+       <vrk>Sperto de Zamenhof</vrk>,
+       <lok>Nica literatura revuo, 1:1</lok>
+       </fnt>;
+     </ekz>
+     <ekz>
+       sam<tld/>ano de la grandaj malkovroj geografiaj kaj de la
+       Inkvizicio.
+     </ekz>
+   </dif>
+ </snc>
+  <trd lng="be">&c_s;&c_u;&c_ch;&c_a;&c_s;&c_mol;&c_n;&c_ib;&c_k;</trd>
+  <trd lng="cs">sou&ccaron;asn&iacute;k</trd>
+  <trd lng="de">Zeitgenosse</trd>
+  <trd lng="en">contemporary</trd>
+  <trd lng="es">contempor&aacute;neo<klr> (subst.)</klr></trd>
+  <trd lng="fr">contemporain<klr> (subst.)</klr></trd>
+  <trd lng="hu">kort&aacute;rs</trd>
+  <trd lng="it">contemporaneo<klr> (sost.)</klr></trd>
+  <trd lng="nl">tijdgenoot</trd>
+  <trd lng="pl">wsp&oacute;&lstroke;czesny <klr>(komu)</klr></trd>
+  <trd lng="ru">&c_s;&c_o;&c_v;&c_r;&c_je;&c_m;&c_je;&c_n;&c_n;&c_i;&c_k;</trd>
+  <trd lng="sk">s&uacute;&ccaron;asn&iacute;k</trd>
+</drv>
+
+<drv mrk="temp.sam0ekun">
+ <kap>sam<tld/>e kun<fnt>Z</fnt></kap>
+ <gra><vspec>prepozicia&jcirc;o</vspec></gra>
+ <snc mrk="temp.sam0ekun.KOMUNE">
+   <dif>
+     En la sama momento, tempero a&ubreve; epoko kiel:
+     <ekz>
+       ili ekaperis sam<tld/>e kun la stalinaj soldatoj
+       <fnt>
+       <aut>V. Hurtovenko</aut>,
+       <vrk>Kial la rusa ortodoksa eklezio malamas la papon?</vrk>,
+       <bib>Monato</bib>,
+       <lok>2002:2, p. 15a</lok>
+       </fnt>.
+     </ekz>
+   </dif>
+ </snc>
+ <trdgrp lng="be">
+   <trd>&c_a;&c_d;&c_n;&c_a;&c_ch;&c_a;&c_s;&c_n;&c_a;</trd>,
+   <trd>&c_a;&c_d;&c_n;&c_a;&c_ch;&c_a;&c_s;&c_o;&c_v;&c_a;</trd>
+ </trdgrp>
+ <trd lng="en">at the same time as</trd>
+ <trd lng="es">al mismo tiempo que</trd>
+ <trd lng="fr">en m&ecirc;me temps que</trd>
+ <trdgrp lng="hu">
+   <trd>egy <ind>id&odblac;ben</ind></trd>,
+   <trd>egyidej&udblac;leg</trd>
+ </trdgrp>
+ <trd lng="it">contemporaneamente<klr> a</klr></trd>
+ <trd lng="nl">tegelijker tijd</trd>
+ <trdgrp lng="pl">
+   <trd>jednocze&sacute;nie</trd>,
+   <trd>r&oacute;wnocze&sacute;nie</trd>,
+ </trdgrp>
+ <trd 
+lng="ru">&c_o;&c_d;&c_n;&c_o;&c_v;&c_r;&c_je;&c_m;&c_je;&c_n;&c_n;&c_o;&c_s;</trd>
+</drv>
+
+<drv mrk="temp.sam0ulo">
+ <kap>sam<tld/>ulo</kap>
+ <snc mrk="temp.sam0ulo.KOMUNE">
+   <dif>
+     Homo kiu estas <ref tip="sub"
+     cel="temp.sam0ano">sam<tld/>ano</ref>.
+   </dif>
+ </snc>
+  <trd lng="be">&c_s;&c_u;&c_ch;&c_a;&c_s;&c_mol;&c_n;&c_ib;&c_k;</trd>
+  <trd lng="cs">sou&ccaron;asn&iacute;k</trd>
+  <trd lng="de">Zeitgenosse</trd>
+  <trd lng="en">contemporary</trd>
+  <trd lng="es">contempor&aacute;neo<klr> (subst.)</klr></trd>
+  <trd lng="fr">contemporain<klr> (subst.)</klr></trd>
+  <trd lng="hu">kort&aacute;rs</trd>
+  <trd lng="it">contemporaneo<klr> (sost.)</klr></trd>
+  <trd lng="nl">tijdgenoot</trd>
+  <trd lng="pl">wsp&oacute;&lstroke;czesny <klr>(komu)</klr></trd>
+  <trd lng="ru">&c_s;&c_o;&c_v;&c_r;&c_je;&c_m;&c_je;&c_n;&c_n;&c_i;&c_k;</trd>
+  <trd lng="sk">s&uacute;&ccaron;asn&iacute;k</trd>
+</drv>
+
+<drv mrk="temp.sia0e">
+  <kap>sia<tld/>e</kap>
+  <snc mrk="temp.sia0e.KOMUNE">
+    <dif>
+      Respektive en sia epoko, konsiderante la tiamajn kondi&ccirc;ojn:
+      <ekz>
+        La verkinto preferas uzi la vorton
+        &leftquot;ka&ccirc;aloto&rightquot;, <klr>...</klr>
+        anstata&ubreve; la vorto &leftquot;makrocefalo&rightquot;, kiun
+        Zamenhof sia<tld/>e iam uzis
+        <fnt>
+        <aut>W. M. A. De Smet</aut>,
+        <vrk>Gigantoj sur strandoj</vrk>,
+        <bib>Monato</bib>,
+        <lok>1998:11, p. 22a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <rim num="1">
+    Z. klarigis, ke: <ctl>se anstata&ubreve; "sia<tld/>e" vi diros
+    "&gcirc;ia<tld/>e", vi ne faros eraron; sed &scirc;ajnas al mi,
+    ke en la plimulto da okazoj "sia<tld/>e" estas pli
+    bona ol "&gcirc;ia<tld/>e"</ctl><fnt><bib>LR</bib></fnt>.
+    </rim>
+    <rim num="2">
+    Z. atentigis, ke: <ctl> diri "iam" anstata&ubreve; "sia<tld/>e" ni en la
+    plimulto da okazoj ne povas, &ccirc;ar la senco de amba&ubreve; vortoj
+    estas malsama. "Iam" esprimas tempon nedifinitan,
+    dum "sia<tld/>e" esprimas tempon kvankam ne klare nomitan,
+    tamen pli-malpli difinitan</ctl><fnt><bib>LR</bib></fnt>.
+    </rim>
+  </snc>
+  <trd lng="be">&c_u; &c_s;&c_v;&c_o;&c_j; <ind>&c_ch;&c_a;&c_s;</ind></trd>
+  <trd lng="cs">sv&eacute;ho &ccaron;asu</trd>
+  <trd lng="en">in his/her/its/their time</trd>
+  <trd lng="es">a su tiempo</trd>
+  <trd lng="fr">en son <ind>temps</ind></trd>
+  <trdgrp lng="hu">
+    <trd>annak <ind>idej&eacute;n</ind></trd>,
+    <trd>a maga <ind>idej&eacute;n</ind></trd>
+  </trdgrp>
+  <trd lng="id">pada <ind>waktu</ind>nya</trd>
+  <trdgrp lng="it">
+    <trd>a suo <ind>tempo</ind></trd>,
+    <trd>ai suoi tempi</trd>,
+  </trdgrp>
+  <trd lng="nl">destijds</trd>
+  <trd lng="pl">w swoim <ind>czasie</ind></trd>
+  <trd lng="ro">la <ind>timpul</ind> s&abreve;u</trd>
+  <trdgrp lng="ru">
+   <trd>&c_v; &c_s;&c_v;&c_o;&c_jo; <ind>&c_v;&c_r;&c_je;&c_m;&c_ja;</ind></trd>
+  </trdgrp>
+  <trd lng="sk">svojho &ccaron;asu</trd>
+</drv>
+
+<drv mrk="temp.somera0o">
+ <kap>somera <tld/>o</kap>
+ <snc mrk="temp.somera0o.somero">
+   <dif>
+     <tld lit="T"/>operiodo en somero:
+     <ekz>
+       la betulo movi&gcirc;adis en la vento, estis en &gcirc;i vivo,
+       kiel en
+       la arboj en somera <tld/>o
+       <fnt><bib>Fab4</bib>, <lok>ne&gcirc;ulo</lok></fnt>.
+     </ekz>
+   </dif>
+   <trd lng="de">Sommer</trd>
+   <trd lng="es">verano</trd>
+   <trd lng="hu">ny&aacute;rid&odblac;</trd>
+   <trd lng="it">estate</trd>
+   <trd lng="nl">zomer</trd>
+   <trd lng="pl">lato</trd>
+   <trd lng="ro">var&abreve;</trd>
+ </snc>
+ <snc mrk="temp.somera0o.KAL">
+   <uzo tip="fak">KAL</uzo>
+   <dif>
+     <tld lit="T"/>o dum kiu la horlo&gcirc;oj estas fruigitaj
+     (anta&ubreve;enigitaj) je unu horo a&ubreve; pli kompare kun la
+     normala <tld/>kalkulo, por pligrandigi la uzeblon de la
+     taglumo fine de la labortagoj; la horkalkulo uzata dum tiu
+     periodo:
+     <ekz>
+       ni atentigu, ke la&ubreve; la somera <tld/>o niaj programoj
+       a&ubreve;di&gcirc;os je unu horo pli frue
+       <fnt>
+         <aut>B. Pietrzak</aut>,
+         <vrk><url
+         ref="http://www.bavaresperantoinfo.de/0203/aktuell1.htm">
+         Somera elsendohoraro de Pola Radio</url></vrk>,
+         <lok>[2003]</lok>
+       </fnt>;
+     </ekz>
+     <ekz>
+       lastatempe mi tute ne sukcesis kapti viajn elsendojn post
+       la &scirc;an&gcirc;o de la somera <tld/>o al la vintra
+       <fnt><lok><url
+       ref="http://esperanto.cri.com.cn/esperanto/2002/Dec/102151.htm"
+       >Letero de s-ro Ji&rcaron;i Patera el
+       &Ccirc;e&hcirc;io</url></lok></fnt>.
+     </ekz>
+   </dif>
+   <trd lng="de">Sommerzeit</trd>
+   <trd lng="en">daylight saving time</trd>
+   <trd lng="es">horario de verano</trd>
+   <trd lng="fr">heure d'&eacute;t&eacute;</trd>
+   <trd lng="hu">ny&aacute;ri <ind>id&odblac;szak</ind></trd>
+   <trd lng="id"><ind>waktu</ind> musim panas</trd>
+   <trd lng="it"><ind>ora</ind> legale</trd>
+   <trd lng="nl">zomertijd</trd>
+   <trd lng="ro">ora de var&abreve;</trd>
+ </snc>
+  <trd lng="be">&c_l;&c_je;&c_t;&c_n;&c_ib; &c_ch;&c_a;&c_s;</trd>
+  <trd lng="cs">letn&iacute; &ccaron;as</trd>
+  <trdgrp lng="en">
+   <trd>summer time</trd>,
+   <trd>summertime</trd>
+ </trdgrp>
+  <trd lng="pl">czas letni</trd>
+  <trd lng="ro">ora de var&abreve;</trd>
+  <trd lng="ru">&c_l;&c_je;&c_t;&c_n;&c_je;&c_je; 
+&c_v;&c_r;&c_je;&c_m;&c_ja;</trd>
+  <trd lng="sk">letn&yacute; &ccaron;as</trd>
+</drv>
+
+<drv mrk="temp.0al0a">
+  <kap><tld/>al<tld/>a</kap>
+  <snc mrk="temp.0al0a.KOMUNE">
+    <dif>
+      Iam aperanta, iam malaperanta alterne,
+      malofta,
+      <ref tip="vid" cel="sporad.0a">sporada</ref>:
+      <ekz>
+        <tld/>al<tld/>aj diskutoj kun la direktoroj
+        <fnt>
+          <aut>-</aut>,
+          <vrk>Katalunio: IKEA-katalogo en la kataluna</vrk>,
+          <lok><url
+          ref="http://www.gazetejo.org/system/files/gazetoj2/Etnismo-83-kompleto-eta.pdf">
+          Etnismo, 2008-12-31 (83)</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>dobov&yacute;</trd>,
+    <trd>do&ccaron;asn&yacute;</trd>,
+    <trd>&ccaron;asov&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>intermittent<klr> (adj.)</klr></trd>,
+    <trd>occasionnel</trd>
+  </trdgrp>
+  <trd lng="sk">&ccaron;asov&yacute;</trd>
+</drv>
+
+<drv mrk="temp.vintra0o">
+ <kap>vintra <tld/>o</kap>
+ <snc mrk="temp.vintra0o.vintro">
+   <dif>
+     <tld lit="T"/>operiodo en vintro:
+     <ekz>
+       estis ja malvarma vintra <tld/>o, kaj prujno ku&scirc;is sur
+       &gcirc;iaj
+       bran&ccirc;oj
+       <fnt><bib>Fab3</bib>, <lok>Historio de unu patrino</lok></fnt>.
+     </ekz>
+   </dif>
+   <trd lng="de">Winter</trd>
+   <trd lng="es">invierno</trd>
+   <trd lng="hu">t&eacute;lid&odblac;</trd>
+   <trd lng="it">inverno</trd>
+   <trd lng="nl">winter</trd>
+   <trd lng="pl">zima</trd>
+   <trd lng="ro">iarn&abreve;</trd>
+ </snc>
+ <snc mrk="temp.vintra0o.KAL">
+   <uzo tip="fak">KAL</uzo>
+   <dif>
+     La normala horkalkulo kaj la <tld/>operiodo dum kiu &gcirc;i
+     validas:
+     <ekz>
+       UTC estas la universala tempo kaj egalas al mez- kaj
+       okcident-e&ubreve;ropa ordinara (vintra) <tld/>o minus unu horo
+       <fnt>
+       <aut>K. Salve Salvesen Grimstad</aut>,
+       <vrk>A&ubreve;skultu la internaciajn staciojn!</vrk>,
+       <lok><url ref="http://www.eventoj.hu/arkivo/eve-239.htm">
+       Eventoj, 239</url></lok></fnt>.
+     </ekz>
+   </dif>
+   <trd lng="de">Winterzeit</trd>
+   <trd lng="en">standard time</trd>
+   <trd lng="es">horario de invierno</trd>
+   <trd lng="fr">heure d'hiver</trd>
+   <trd lng="hu">t&eacute;li <ind>id&odblac;szak</ind></trd>
+   <trd lng="id"><ind>waktu</ind> standar</trd>
+   <trd lng="it"><ind>ora</ind> solare</trd>
+   <trd lng="nl">wintertijd</trd>
+   <trd lng="pl">czas zimowy</trd>
+   <trd lng="ro">ora de iarn&abreve;</trd>
+ </snc>
+ <trd lng="be">&c_z;&c_ib;&c_m;&c_o;&c_v;&c_y; &c_ch;&c_a;&c_s;</trd>
+ <trd lng="de">Winterzeit</trd>
+ <trdgrp lng="en">
+   <trd>winter time</trd>,
+   <trd>wintertime</trd>
+
+ </trdgrp>
+ <trd lng="ro">ora de iarn&abreve;</trd>
+ <trd lng="ru">&c_z;&c_i;&c_m;&c_n;&c_je;&c_je; 
+&c_v;&c_r;&c_je;&c_m;&c_ja;</trd>
+</drv>
+
+<drv mrk="temp.viv0o">
+ <kap>viv<tld/>o</kap>
+ <snc mrk="temp.viv0o.KOMUNE">
+   <dif>
+     Da&ubreve;ro de ies vivado:
+     <ekz>
+       Viaj jaroj estas kiel la viv<tld/>o de homo
+       <fnt><bib>MT</bib>, <lok>&Ijo; 10:5</lok></fnt>.
+     </ekz>
+   </dif>
+ </snc>
+ <trd lng="be">&c_ch;&c_a;&c_s; &c_zh;&c_y;&c_c;&c_mol;&c_c;&c_ja;</trd>
+ <trd lng="de">Lebenszeit</trd>
+ <trd lng="en">lifetime</trd>
+ <trd lng="es">longevidad</trd>
+ <trdgrp lng="fr">
+   <trd>dur&eacute;e de vie</trd>,
+   <trd>long&eacute;vit&eacute;</trd>,
+   <trd>vie<klr> (dur&eacute;e)</klr></trd>
+ </trdgrp>
+ <trd lng="hu">&eacute;lettartam</trd>
+ <trdgrp lng="id">
+   <trd><ind>masa</ind> hidup</trd>,
+   <trd>se<ind>umur</ind> hidup</trd>
+ </trdgrp>
+ <trd lng="id"></trd>
+ <trd lng="it">vita<klr> (durata)</klr></trd>
+ <trd lng="nl">levenslijd</trd>
+ <trdgrp lng="pl">
+   <trd>wiek</trd>,
+   <trd>czas &zdot;ycia</trd>
+ </trdgrp>
+</drv>
+</art>
+<!--
+$Log: temp.xml,v $
+Revision 1.78  2015/08/20 16:10:16  revo
+Guillermo Molleda Jimena: trd es
+
+Revision 1.77  2015/08/18 19:10:15  revo
+Jeromo Vasxe: nedifinitian -> nedifinitan
+
+Revision 1.76  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.75  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.74  2015/06/27 17:10:16  revo
+Darcy Shen: +trd zh
+
+Revision 1.73  2015/01/17 21:10:25  revo
+Jeromo Vasxe: + ~al~a/e
+
+Revision 1.72  2014/11/06 08:10:19  revo
+Guillermo Molleda Jimena: trd es
+
+Revision 1.71  2014/06/29 09:10:09  revo
+-->
+</vortaro>

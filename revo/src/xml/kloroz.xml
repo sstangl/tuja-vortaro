@@ -1,0 +1,120 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: kloroz.xml,v 1.15 2015/06/29 16:33:17 revo Exp $">
+<kap>
+  <rad>kloroz</rad>/o
+  <fnt>Z</fnt>
+</kap>
+<drv mrk="kloroz.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="kloroz.0o.MED">
+    <uzo tip="fak">MED</uzo>
+    <fnt><bib>PV</bib></fnt>
+    <dif>
+      <ref tip="lst" cel="san.mal0o.MED"
+      lst="voko:malsanoj">Malsano</ref> de la sango &ccirc;e maturi&gcirc;antaj
+      knabinoj,
+      ka&ubreve;zata de malplii&gcirc;o de hemoglobino kaj de ru&gcirc;aj
+      globetoj, kaj karakterizata de palo de
+      la ha&ubreve;to kaj manko de l' fortoj.
+    </dif>
+    <trd lng="de">Bleichsucht</trd>
+    <trdgrp lng="en">
+      <trd>chlorosis</trd>,
+      <trd>iron-deficiency <ind>anemia</ind></trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>an&eacute;mie hypochrome</trd>,
+      <trd>chlorose<klr tip="ind"> (an&eacute;mie hypochrome)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>s&aacute;pk&oacute;r</trd>,
+      <trd>klor&oacute;zis</trd>
+    </trdgrp>
+    <trdgrp lng="nl">
+      <trd>bloedarmoede</trd>,
+      <trd>chlorose</trd>,
+      <trd>anemie</trd>,
+      <trd>bleekzucht</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_zh;&c_je;&c_l;&c_je;&c_z;&c_o;&c_d;&c_je;&c_f;&c_i;&c_c;&c_i;&c_t;&c_n;&c_a;&c_ja;
+      <ind>&c_a;&c_n;&c_je;&c_m;&c_i;&c_ja;</ind></trd>,
+      <trd>&c_h;&c_l;&c_o;&c_r;&c_o;&c_z;</trd>,
+      <trd>&c_b;&c_l;&c_je;&c_d;&c_n;&c_a;&c_ja; &c_n;&c_je;&c_m;&c_o;&c_ch;&c_mol;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="kloroz.0o.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <fnt><bib>PIV1</bib></fnt>
+    <dif>
+      Planta malsano, karakterizita per flavi&gcirc;o a&ubreve;
+      blanki&gcirc;o de la verdaj plantopartoj.
+    </dif>
+    <trd lng="fr">chlorose<klr tip="ind"> (bot.)</klr></trd>
+    <trdgrp lng="hu">
+      <trd>klorofilhi&aacute;ny</trd>,
+      <trd>klor&oacute;zis</trd>
+    </trdgrp>
+    <trd lng="id">klorosis</trd>
+      <trdgrp lng="nl">
+      <trd>chlorose</trd>,
+      <trd>bleekzucht</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="ca">clorosi</trd>
+  <trd lng="sk">chloróza</trd>
+</drv>
+
+<drv mrk="kloroz.0a">
+  <kap><tld/>a</kap>
+  <snc>
+    <dif>
+      Rilatanta al la <tld/>o.
+    </dif>
+  </snc>
+  <trd lng="ca">clor&ograve;tic</trd>
+  <trd lng="de">bleichs&uuml;chtig</trd>
+  <trd lng="en">anemic</trd>
+  <trd lng="fr">chlorotique</trd>
+  <trdgrp lng="hu">
+    <trd>s&aacute;pk&oacute;ros</trd>,
+    <trd>klor&oacute;zisos</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>bleekzuchtig</trd>,
+    <trd>anemisch</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: kloroz.xml,v $
+Revision 1.15  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.14  2014/11/18 20:10:34  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.13  2013/10/09 19:11:15  revo
+Wolfram Diestel: ref al lst malsanoj
+
+Revision 1.12  2012/07/31 16:10:31  revo
+Marc Rausell: + trd ca
+
+Revision 1.11  2009/08/30 16:31:53  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.10  2007/03/06 17:30:55  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.9  2004/12/19 18:56:29  revo
+Marc Bavant: ~o: +snc BOT, +fnt; +trd fr
+
+Revision 1.8 2001/12/10 17:34:18 revo
+Ulrich Fellmann: + 2 germ trdj
+
+Revision 1.7 2001/11/22 17:32:40 revo
+-->
+</vortaro>

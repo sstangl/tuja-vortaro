@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: gerund.xml,v 1.17 2015/10/10 17:10:17 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>gerundi</rad>/o
+</kap>
+<drv mrk="gerund.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">GRA</uzo>
+  <snc mrk="gerund.0o.fremda">
+    <dif>
+      Verba formo en iuj lingvoj (latina, rusa, angla, franca...),
+      havanta 
+      sencon de verba substantivo a&ubreve; aktiva participo (plejofte 
+      participa):
+      <ekz>
+        la latina <tld/>o estas speco de deklinaciebla infinitivo.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_g;&c_je;&c_r;&c_u;&c_n;&c_d;&c_y;&c_j;</trd>,
+      <trd>&c_d;&c_z;&c_je;&c_je;&c_p;&c_r;&c_y;&c_s;&c_l;&c_o;&c_w;&c_je;</trd>
+    </trdgrp>
+    <trd lng="ca">gerundi</trd>
+    <trdgrp lng="de">
+      <trd>Gerundium</trd>,
+      <trd>Gerundivum</trd></trdgrp>
+      <trd lng="en">gerund</trd>
+    <trd lng="fr">g&eacute;rondif</trd>
+    <trd lng="hu">gerundium</trd>
+    <trd lng="nl">gerundium</trd>
+    <trdgrp lng="ru">
+      <trd>&c_g;&c_je;&c_r;&c_u;&c_n;&c_d;&c_i;&c_j;</trd>,
+      <trd>&c_d;&c_je;&c_je;&c_p;&c_r;&c_i;&c_ch;&c_a;&c_s;&c_t;&c_i;&c_je;</trd></trdgrp> 
+  </snc>
+  <snc mrk="gerund.0o.Esperanta">
+    <uzo tip="stl">EVI</uzo>
+    <fnt><bib>PV</bib></fnt>
+    <dif>
+      Adverba participo:
+      <ekz>
+        en la frazo <ctl>a&ubreve;dinte tian mensogon, li ekstaris</ctl> la 
+        vorto <ctl>a&ubreve;dinte</ctl> estas <tld/>o.
+      </ekz>
+    </dif>
+    <trd lng="ca">participi adverbial</trd>
+    <trd lng="en">adverbial participle</trd>
+  </snc>
+  <trd lng="cs">gerundium</trd>
+  <trd lng="es">gerundio</trd>
+  <trd lng="pt">ger&uacute;ndio</trd>
+  <trd lng="sk">prechodn&iacute;k</trd>
+</drv>
+</art>
+<!--
+$Log: gerund.xml,v $
+Revision 1.17  2015/10/10 17:10:17  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.16  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:29:39  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.14  2012/08/04 10:10:13  revo
+Marc Rausell: + trd ca
+
+Revision 1.13  2005/08/19 19:14:00  revo
+Luiz Portella: +trd pt
+
+Revision 1.12  2003/11/15 17:30:35  revo
+Zmicier Lapcionak: + trd be
+
+Revision 1.11  2002/08/29 17:34:28  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.10  2002/07/08 18:26:40  revo
+-->
+</vortaro>

@@ -1,0 +1,217 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: neuxtr.xml,v 1.27 2015/09/21 13:10:28 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>ne&ubreve;tr</rad>/a
+</kap>
+<drv mrk="neuxtr.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="neuxtr.0a.LIN">
+    <uzo tip="fak">LIN</uzo>
+    <dif>
+      Gramatika <ref cel="genr.0o.GRA">genro<sncref/></ref> a&ubreve;
+      <ref cel="genr.0o.LIN">genro<sncref/></ref>, kiu depende de
+      la lingvo povas implici neulecon a&ubreve; neaktivecon. En
+      Esperanto tiu nocio konkreti&gcirc;as en
+      <ref tip="sub" cel="genr.ajx0o">a&jcirc;genro</ref>.
+    </dif>
+    <trdgrp lng="en">
+      <trd>neuter</trd>,
+      <trd>inanimate</trd>
+    </trdgrp>
+    <trd lng="be">&c_n;&c_ib;&c_ja;&c_k;&c_ib; <klr tip="amb">(&c_r;&c_o;&c_d;)</klr></trd>
+    <trd lng="de">s&auml;chlich</trd>
+    <trd lng="es">neutro</trd>
+    <trd lng="hu">semleges</trd>
+    <trd lng="nl">onzijdig</trd>
+    <trd lng="pl">nijaki</trd>
+    <trd lng="ru">&c_s;&c_r;&c_je;&c_d;&c_n;&c_i;&c_j; <klr tip="amb">(&c_o; &c_r;&c_o;&c_d;&c_je;)</klr></trd>
+  </snc>
+  <snc mrk="neuxtr.0a.KEM">
+    <uzo tip="fak">KEM</uzo>
+    <dif>
+      Nek acida nek baza.
+    </dif>
+    <trd lng="en">neutral</trd>
+    <trd lng="be">&c_n;&c_e;&c_w;&c_t;&c_r;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>
+    <trd lng="de">neutral</trd>
+    <trd lng="hu">semleges</trd>
+    <trd lng="nl">neutraal</trd>
+    <trd lng="pl">oboj&eogonek;tny</trd>
+    <trd lng="ru">&c_n;&c_je;&c_j;&c_t;&c_r;&c_a;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
+  </snc>
+  <snc mrk="neuxtr.0a.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>KompLeks</bib></fnt>
+    <dif>
+      <klr>(p.p. elemento <frm><k>e</k>&#8712;<g>E</g></frm> rilate al
+      <ref cel="operac.0o.MAT">operacio</ref> <frm>&#8224;</frm> en
+      <frm><g>E</g></frm>)</klr>
+      Tia, ke <frm><k>x</k>&#8224;<k>e</k> = <k>e</k>&#8224;<k>x</k> =
+      <k>x</k></frm> por &ccirc;iu <frm><k>x</k>&#8712;<g>E</g></frm>:
+      <ekz>
+        la nombroj <frm>0</frm> kaj <frm>1</frm> estas <tld/>aj
+        respektive rilate al adicio kaj multipliko;
+      </ekz>
+      <ekz>
+        <ref cel="rilat.idento0o">idento-rilato</ref> estas <tld/>a
+        rilate al <ref cel="lig.kun0o.MAT">kunligo</ref> de rilatoj.
+      </ekz>
+    </dif>
+    <rim>
+      Pli vaste eblas diri, ke elemento estas <tld/>a dekstre (resp.
+      maldekstre), se nur <frm><k>x</k>&#8224;<k>e</k> = <k>x</k></frm>
+      (resp. <frm><k>e</k>&#8224;<k>x</k> = <k>x</k></frm>). Kiam la
+      operacion oni signas adicie (resp. multiplike), la <tld/>an
+      elementon oni ofte signas per <frm>0</frm> (resp. <frm>1</frm>).
+    </rim>
+    <trd lng="be">&c_n;&c_e;&c_w;&c_t;&c_r;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>
+    <trd lng="de">neutral</trd>
+    <trd lng="en">neutral</trd>
+    <trd lng="hu">neutr&aacute;lis</trd>
+    <trd lng="pl">neutralny</trd>
+    <trd lng="ru">&c_n;&c_je;&c_j;&c_t;&c_r;&c_a;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
+  </snc>
+  <trd lng="el">&omikron;&ypsilon;&delta;&epsilon_ton;&tau;&epsilon;&rho;&omikron;&sigma_fina;</trd>
+  <trd lng="fr">neutre</trd>
+  <trd lng="pt">neutro</trd>
+</drv>
+
+<drv mrk="neuxtr.0iganto">
+  <kap><tld/>iganto, <var><kap><tld/>iga elemento</kap></var></kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>KompLeks</bib></fnt>
+  <snc mrk="neuxtr.0iganto.MAT">
+    <dif>
+      <klr>(de elemento <frm><k>x</k>&#8712;<g>E</g></frm> rilate al
+      <ref cel="operac.0o.MAT">operacio</ref> <frm>&#8224;</frm>
+      en <frm><g>E</g></frm>)</klr>
+      Tia elemento <frm><k>x</k><sup>~</sup></frm>, ke
+      <frm><k>x</k>&#8224;<k>x</k><sup>~</sup> =
+      <k>x</k><sup>~</sup>&#8224;<k>x</k> = <k>e</k></frm>,
+      kie <frm><k>e</k></frm> estas
+      <ref cel="neuxtr.0a.MAT"><tld/>a <sncref/></ref> rilate al
+      operacio <frm>&#8224;</frm>:
+      <ekz>
+        se &gcirc;i ekzistas, kaj se la operacio estas asocieca,
+        la <tld/>iganto estas unika;
+      </ekz>
+      <ekz>
+        <tld/>iganto de <tld/>iganto de <frm><k>x</k></frm>
+        estas <frm><k>x</k></frm> mem;
+      </ekz>
+      <ekz>
+        <frm>-3</frm> estas <tld/>iganto de <frm>3</frm>
+        rilate al adicio.
+      </ekz>
+    </dif>
+    <rim>
+      Kiam la operacion oni signas adicie (resp. multiplike),
+      la <tld/>iganton de <frm><k>x</k></frm> oni ofte signas
+      per <frm>-<k>x</k></frm> (resp. <frm><k>x</k><sup>-1</sup></frm>).
+    </rim>
+    <refgrp tip="vid">
+      <ref cel="invers.0o.neuxtriganto">inverso</ref>,
+      <ref cel="egal.kontraux0o">kontra&ubreve;egalo</ref>.
+    </refgrp>
+    <trd lng="de">inverses <ind>Element</ind></trd>
+    <trd lng="en">reciprocal <ind>element</ind></trd>
+    <trd lng="fr">&eacute;l&eacute;ment sym&eacute;trique</trd>
+    <trd lng="hu">semleges <ind>elem</ind></trd>
+    <trd lng="pl">element odwrotny</trd>
+    <trdgrp lng="ru">
+      <trd>&c_n;&c_je;&c_j;&c_t;&c_r;&c_a;&c_l;&c_i;&c_z;&c_u;&c_ju;&c_shch;&c_i;&c_j; <ind>&c_e;&c_l;&c_je;&c_m;&c_je;&c_n;&c_t;</ind></trd>,
+      <trd>&c_o;&c_b;&c_r;&c_a;&c_t;&c_n;&c_y;&c_j;</trd>
+    </trdgrp>
+  </snc>
+</drv>
+
+<drv mrk="neuxtr.0igebla">
+  <kap><tld/>igebla</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>KompLeks</bib></fnt>
+  <snc mrk="neuxtr.0igebla.MAT">
+    <dif>
+      <klr>(p.p. elemento <frm><k>x</k>&#8712;<g>E</g></frm> rilate al
+      <ref cel="operac.0o.MAT">operacio</ref> <frm>&#8224;</frm> en
+      <frm><g>E</g></frm>)</klr>
+      Tia, ke ekzistas &gcirc;ia
+      <ref cel="neuxtr.0iganto.MAT"><tld/>iganto</ref>
+      rilate al <frm>&#8224;</frm> en <frm><g>E</g></frm>:
+      <ekz>
+        la nombro <frm>2</frm> ne estas <tld/>igebla rilate al
+        multipliko
+        en la aro de entjeroj, sed ja en la aro de racionaloj.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="invers.0igebla.MAT">inversigebla</ref>,
+      <ref cel="invers.0hava">invershava</ref>,
+      <ref cel="egal.kontraux0igebla">kontra&ubreve;egaligebla</ref>.
+    </refgrp>
+    <trd lng="de">invertierbar</trd>
+    <trd lng="en">invertible</trd>
+    <trd lng="fr">sym&eacute;trisable</trd>
+    <trd lng="hu">invert&aacute;lhat&oacute;</trd>
+    <trd lng="ru">&c_n;&c_je;&c_j;&c_t;&c_r;&c_a;&c_l;&c_i;&c_z;&c_u;&c_je;&c_m;&c_y;&c_j;</trd>
+  </snc>
+</drv>
+
+<drv mrk="neuxtr.0aelemento">
+  <kap><tld/>a elemento, <var><kap><tld/>a&jcirc;o</kap></var></kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>KompLeks</bib></fnt>
+  <snc>
+    <dif>
+      <klr>(de aro <frm><g>E</g></frm> rilate al
+      <ref cel="operac.0o.MAT">operacio</ref> <frm>&#8224;</frm> en
+      <frm><g>E</g></frm>)</klr>
+      Elemento en <frm><g>E</g></frm>,
+      <ref cel="neuxtr.0a.MAT"><tld/>a <sncref/></ref>
+      rilate al <frm>&#8224;</frm>:
+      <ekz>
+        se ekzistas <tld/>a elemento, &gcirc;i estas unika.
+      </ekz>
+    </dif>
+    <refgrp tip="sub">
+      <ref cel="unu.0o.neuxtra">unuo</ref>,
+      <ref cel="nul0.0o.neuxtra">nulo</ref>.
+    </refgrp>
+  </snc>
+  <trd lng="de">neutrales <ind>Element</ind></trd>
+  <trd lng="en">neutral <ind>element</ind></trd>
+  <trd lng="fr">&eacute;l&eacute;ment neutre</trd>
+  <trd lng="hu">semleges <ind>elem</ind></trd>
+  <trd lng="pl">element neutralny</trd>
+  <trd lng="ru">&c_n;&c_je;&c_j;&c_t;&c_r;&c_a;&c_l;&c_mol;&c_n;&c_y;&c_j; &c_e;&c_l;&c_je;&c_m;&c_je;&c_n;&c_t;</trd>
+</drv>
+</art>
+<!--
+$Log: neuxtr.xml,v $
+Revision 1.27  2015/09/21 13:10:28  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.26  2015/09/15 13:10:20  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.25  2012/10/23 00:13:08  revo
+Neil Roberts: aldonu la etikedon <var>
+
+Revision 1.24  2004/11/23 17:31:29  revo
+Marc Bavant: ~iganto: mod ekz
+
+Revision 1.23  2004/08/16 16:32:15  revo
+Marc Bavant: kor ref cel al "ajxgenro"
+
+Revision 1.22 2004/07/15 19:04:41 revo
+Marc Bavant: kor duobligitan punkton
+
+Revision 1.21 2004/06/22 16:29:26 revo
+Jozefo Horvath: +trd hu
+
+Revision 1.20 2004/05/17 16:32:05 revo
+-->
+</vortaro>

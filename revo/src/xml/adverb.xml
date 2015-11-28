@@ -1,0 +1,135 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+  <art mrk="$Id: adverb.xml,v 1.26 2015/07/04 08:37:29 revo Exp $">
+    <kap>
+      <ofc>*</ofc>
+      <rad>adverb</rad>/o
+    </kap>
+    <drv mrk="adverb.0o">
+      <kap><ofc>*</ofc><tld/>o</kap>
+      <snc>
+      <uzo tip="fak">GRA</uzo>
+        <dif>
+          <ref tip="super" cel="elemen.parol0o">Parolelemento</ref>
+          kies vortoj esprimas diversajn cirkonstancojn (lokon,
+          tempon, manieron ktp) &#8208; ecojn de ecoj a&ubreve; de agoj:
+          <ekz>
+            tie, tien, neniam, tiel, tre, anka&ubreve;, varme, sencele.
+          </ekz>
+        </dif>
+        <ref tip="vid" cel="e.0.adverbo">-e fina&jcirc;o</ref>
+        <rim>
+        Z. klarigis, ke "kiam la senco tion postulas, ni tre bone
+        povas uzi <tld/>on en la senco de <ref tip="dif"
+        cel="prepoz.0o.GRA">prepozicio</ref> [...]. Se la
+        <tld/>o
+        devenas de verbo transira (kiu postulas akuzativon), tiam anka&ubreve;
+        la <tld/>o-prepozicio konservas tiun saman econ kaj estas uzata
+        kun la akuzativo:<ekz> koncerne tion = kio koncernas tion;
+        rilate
+        tion = kio rilatas tion</ekz>; se la <tld/>o anstata&ubreve;as vorton,
+        kiu povas ligi&gcirc;i kun substantivo nur per ia prepozicio, tiam
+        anka&ubreve; la <tld/>o akceptas post si tiun prepozicion:<ekz> ka&ubreve;ze
+        de tio = pro la ka&ubreve;zo de tio; responde al via demando = kiel
+        respondo al via demando</ekz>"<fnt><bib>LR</bib></fnt>.
+        </rim>
+      </snc>
+  <trd lng="be">&c_p;&c_r;&c_y;&c_s;&c_l;&c_o;&c_w;&c_je;</trd>
+  <trd lng="br">adverb</trd>
+  <trdgrp lng="cs">
+    <trd>adverbium</trd>,
+    <trd>příslovce</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+        <trd>Adverb</trd>,
+        <trd>Umstandswort</trd>
+      </trdgrp>
+  <trd lng="en">adverb</trd>
+  <trd lng="es">adverbio</trd>
+  <trd lng="fr">adverbe</trd>
+  <trd lng="hu">hat&aacute;roz&oacute;sz&oacute;</trd>
+  <trd lng="it">avverbio</trd>
+  <trd lng="nl">bijwoord</trd>
+  <trd lng="pl">przys&lstroke;&oacute;wek</trd>
+  <trd lng="pt">adv&eacute;rbio</trd>
+  <trd lng="ru">&c_n;&c_a;&c_r;&c_je;&c_ch;&c_i;&c_je;</trd>
+  <trd lng="sk">pr&iacute;slovka</trd>
+  <trd lng="sv">adverb</trd>
+</drv>
+
+    <drv mrk="adverb.lok0o">
+      <kap>lok<tld/>o</kap>
+      <snc>
+      <uzo tip="fak">GRA</uzo>
+        <dif>
+          <tld lit="A"/>o indikanta lokon kie la ago okazas a&ubreve; kien &gcirc;i
+          direkti&gcirc;as:
+          <ekz>
+            la gramatiko simple kaj klare difinas, ke kazojn havas nur
+            substantivoj, adjektivoj kaj pronomoj (se ni ignoras la
+            direktan n-fina&jcirc;on de la lok<tld/>oj)
+            <fnt>
+              <aut>Marko Rauhamaa</aut>:
+              <lok><url
+              ref="http://groups.yahoo.com/group/esperanto-l/message/9428"
+                  >Afi&scirc;o en s.c.e.</url></lok>
+            </fnt>.
+          </ekz>
+        </dif>
+      </snc>
+      <trd lng="de">Ortsadverb</trd>
+      <trd lng="en">local adverb</trd>
+      <trd lng="ru">&c_n;&c_a;&c_r;&c_je;&c_ch;&c_i;&c_je; &c_m;&c_je;&c_s;&c_t;&c_a;</trd>
+      <trd lng="fr">adverbe de lieu</trd>
+    </drv>
+
+  </art>
+  <!--
+  $Log: adverb.xml,v $
+  Revision 1.26  2015/07/04 08:37:29  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.25  2014/02/06 16:10:14  revo
+  Damien Brucker: +ref (dauxrigo)
+
+  Revision 1.24  2014/01/08 11:10:13  revo
+  Damien Brucker: +ref
+
+  Revision 1.23  2013/12/09 13:10:21  revo
+  Damien Brucker: +fak
+
+  Revision 1.22  2013/12/09 10:10:16  revo
+  Damien Brucker: +rim
+
+  Revision 1.21  2011/04/19 18:10:10  revo
+  Nicolas Bros: +trd fr
+
+  Revision 1.20  2009/08/11 16:30:57  revo
+  Sergio Pokrovskij: dif, +lok~o
+
+  Revision 1.19  2008/12/12 17:57:39  revo
+  Sebastian Cyprych: +trd pl
+
+  Revision 1.18  2005/02/19 18:51:05  revo
+  Alan ar Gall: +trd br
+
+  Revision 1.17  2002/11/16 17:31:29  revo
+  Zmicier Lapcionak: + trd be
+
+  Revision 1.16  2002/10/30 18:37:16  revo
+  Jozefo Horvath: +trd hu
+
+  Revision 1.15  2002/09/07 17:36:50  revo
+  Viliam Bur: +sk trd
+
+  Revision 1.14  2002/02/14 17:38:13  revo
+  Yury Finkel: formatigis
+
+  Revision 1.13 2001/04/11 16:22:10 revo
+  Helio Jaques: trd pt
+
+  Revision 1.12 2001/02/21 20:06:43 revo
+  -->
+</vortaro>

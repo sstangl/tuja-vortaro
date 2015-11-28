@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: macer.xml,v 1.14 2006/07/15 17:04:00 revo Exp $">
+<kap>
+<rad>macer</rad>/i
+</kap>
+<drv mrk="macer.0i">
+  <kap>
+  <tld/>i
+  </kap>
+  <uzo tip="fak">KEM</uzo>
+  <uzo tip="fak">KUI</uzo>
+  <uzo tip="fak">MED</uzo>
+  <snc>
+    <dif>
+      Meti korpon en malvarman likva&jcirc;on por solvi &gcirc;iajn solveblajn
+      substancojn:
+      <ekz>
+        <tld/>i planton en alkoholo, fruktojn en vinagro.
+      </ekz>
+    </dif>
+    <refgrp tip="super">
+      <ref cel="ekstra.0i">ekstrakti</ref>,
+      <ref cel="tremp.0i">trempi</ref>
+    </refgrp>
+    <refgrp tip="vid">
+      <ref cel="infuz.0i">infuzi</ref>,
+      <ref cel="marin.0i">marini</ref>,
+      <ref cel="satur.0i">saturi</ref>,
+      <ref cel="solv.0i">solvi</ref>.
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_v;&c_y;&c_m;&c_o;&c_ch;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_r;&c_a;&c_z;&c_m;&c_o;&c_ch;&c_v;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="ca">macerar</trd>
+  <trdgrp lng="cs">
+     <trd>macerovat</trd>,
+     <trd>m&aacute;&ccaron;et</trd>,
+     <trd>vyluhovat</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>ausziehen</trd>,
+    <trd>einlegen</trd>,
+    <trd>mazerieren</trd>.
+  </trdgrp>
+  <trd lng="en">macerate</trd>
+  <trd lng="es">macerar</trd>
+  <trd lng="fr">mac&eacute;rer</trd>
+  <trdgrp lng="hu">
+    <trd>&aacute;ztat</trd>,
+    <trd>macer&aacute;l<klr tip="ind"> (&aacute;ztat)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>macereren</trd>,
+    <trd>inweken</trd>
+  </trdgrp>
+  <trd lng="pt">macerar</trd>
+  <trdgrp lng="ru">
+    <trd>&c_v;&c_y;&c_m;&c_a;&c_ch;&c_i;&c_v;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_m;&c_a;&c_c;&c_je;&c_r;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: macer.xml,v $
+Revision 1.14  2006/07/15 17:04:00  revo
+Tulio Flores: +tr pt
+
+Revision 1.13  2005/04/26 16:33:11  revo
+Raul Salinas Monteagudo: +trd ca,es
+
+Revision 1.12  2003/02/22 19:04:42  revo
+Miroslav Malovec: ald cs traduko
+
+Revision 1.11  2003/01/04 17:31:55  revo
+Wolfram Diestel: +KUI, +MED
+
+Revision 1.10  2002/08/29 17:33:38  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.9  2002/08/14 17:30:26  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.8  2002/06/03 20:23:31  revo
+Axel Rousseau: +trd fr
+
+Revision 1.7  2001/11/27 17:32:58  revo
+-->
+</vortaro>
+

@@ -1,0 +1,231 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: akumul.xml,v 1.36 2015/07/04 08:37:30 revo Exp $">
+<kap>
+  <rad>akumul</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="akumul.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="akumul.0i.KOMUNE">
+    <dif>
+      <ref tip="super" cel="kolekt.0i">Kolekti</ref>,
+      <ref tip="vid" cel="amas.0igi">amasigi</ref>
+      provizon da io:
+      <ekz>
+        <tld/>i kapitalon, pruvojn;
+      </ekz>
+      <ekz>
+        <tld/>i energion;
+      </ekz>
+      <ekz>
+        la tuta mondo <tld/>is
+        kolosan neel&ccirc;erpeblan sperton pri sano
+        <fnt>
+        <aut>A. Gon&ccirc;arov</aut>,
+        <vrk>Via sano en viaj manoj</vrk>,
+        <bib>Monato</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Moskvo estis redonanta la ardon <tld/>itan en la asfalto
+        dum la tago, kaj estis evidenta, ke la nokto ne alportos
+        facili&gcirc;on
+        <fnt><bib>MkM</bib>, <lok>&ccirc;ap. 5a</lok></fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>anh&auml;ufen</trd>,
+      <trd>sammeln</trd>,
+      <trd>horten</trd>,
+      <trd>raffen</trd>,
+      <trd>zusammenraffen</trd>
+    </trdgrp>
+    <trd lng="en">hoard</trd>
+    <trd lng="sk">hromadi&tcaron;</trd>
+  </snc>
+  <snc mrk="akumul.0i.EKON">
+    <uzo tip="fak">MAH</uzo>
+    <dif>
+      Uzi parton de la plusvaloro ne por persona konsumado, sed por
+      pligrandigo de la produktiga kapitalo.
+    </dif>
+    <trdgrp lng="de">
+      <trd>sparen</trd>,
+      <trd>ansparen</trd>
+    </trdgrp>
+    <trd lng="sk">akumulova&tcaron;</trd>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_n;&c_a;&c_z;&c_a;&c_p;&c_a;&c_sh;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_z;&c_mol;&c_b;&c_ib;&c_r;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="ca">acumular</trd>
+  <trdgrp lng="cs">
+    <trd>akumulovat  hromadit</trd>,
+    <trd>kupit</trd>
+  </trdgrp>
+  <trd lng="es">acumular</trd>
+  <trdgrp lng="fr">
+    <trd>accumuler</trd>,
+    <trd>amasser</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>felhalmoz</trd>,
+    <trd>akkumul&aacute;l</trd>
+  </trdgrp>
+  <trd lng="nl">accumuleren</trd>
+  <trd lng="pt">acumular</trd>
+  <trdgrp lng="ru">
+    <trd>&c_k;&c_o;&c_p;&c_i;&c_t;&c_mol;</trd>,
+    <trd>&c_n;&c_a;&c_k;&c_o;&c_p;&c_l;&c_ja;&c_t;&c_mol;</trd>,
+    <trd>&c_a;&c_k;&c_k;&c_u;&c_m;&c_u;&c_l;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="akumul.0igxa">
+  <kap><tld/>i&gcirc;a</kap>
+  <uzo tip="fak">MAT</uzo>
+  <snc mrk="akumul.0igxa.punkto">
+    <fnt><bib>PIV2</bib><lok>diskreta</lok></fnt>
+    <dif>
+      <klr>(p.p. <ref cel="punkt.0o.spaco">punkto</ref>
+      <frm><k>x</k></frm> en
+      <ref cel="spac.topologia0o">topologia spaco</ref>, rilate al
+      subaro <frm><g>A</g></frm>)</klr>
+      Tia, ke &ccirc;iu
+      <ref cel="cxirka.0ajxo.topologio">&ccirc;irka&ubreve;a&jcirc;o</ref>
+      de <frm><k>x</k></frm> enhavas punkton de <frm><g>A</g></frm>,
+      alian ol <frm><k>x</k></frm>.
+    </dif>
+    <ref tip="ant" cel="izol.0ita.punkto">izolita.</ref>
+    <ref tip="vid" cel="adher.0a.punkto">adhera.</ref>
+    <rim>
+      &Ccirc;i-sence troveblas <ctl><tld/>punkto</ctl> en
+      <fnt><bib>EKV</bib><lok>&para;9</lok></fnt>,
+      sed adjektiva formo estas utila kaj &gcirc;i pli nature devenas
+      de <ctl><tld/>i&gcirc;o</ctl> ol de <ctl><tld/>o</ctl>. La formo
+      <ctl><tld/>i&gcirc;a</ctl> aperas en la citita fonto, &scirc;ajne
+      kun la senco, kiun ni prezentas, sed aliloke, en
+      <fnt><bib>PIV2</bib><lok>punkto</lok></fnt>, &gcirc;i
+      havas sencon, por kiu ni preferis la terminon
+      &leftquot;<ref cel="adher.0a.vico">adhera</ref>&rightquot;.
+    </rim>
+    <trd lng="ca">d'acumulaci&oacute; <klr>(punt)</klr></trd>
+    <trd lng="de">H&auml;ufungs-<klr tip="amb">(punkt)</klr></trd>
+    <trdgrp lng="en">
+      <trd>accumulation<klr tip="amb"> (point)</klr></trd>,
+      <trd>cluster<klr tip="amb"> (point)</klr></trd>
+    </trdgrp>
+    <trd lng="fr"><klr tip="amb">(point)
+    </klr>d'<ind>accumulation</ind></trd>
+    <trd lng="hu">torl&oacute;d&aacute;si <klr tip="amb">(pont)</klr></trd>    
+    <trd lng="pl"><klr tip="amb">(punkt) </klr>skupienia</trd>
+    <trdgrp lng="ru">
+      <trd>&c_p;&c_r;&c_je;&c_d;&c_je;&c_l;&c_mol;&c_n;&c_a;&c_ja;
+      <klr tip="amb"> (&c_t;&c_o;&c_ch;&c_k;&c_a;)</klr></trd>,
+      <trd><klr tip="amb"> (&c_t;&c_o;&c_ch;&c_k;&c_a;)</klr>
+      <ind>&c_s;&c_g;&c_u;&c_shch;&c_je;&c_n;&c_i;&c_ja;</ind></trd>,
+      <trd><klr tip="amb"> (&c_t;&c_o;&c_ch;&c_k;&c_a;)</klr>
+      <ind>&c_n;&c_a;&c_k;&c_o;&c_p;&c_l;&c_je;&c_n;&c_i;&c_ja;</ind></trd>
+    </trdgrp>
+    <trd lng="sk">hromadn&yacute; <klr>(bod)</klr></trd>
+  </snc>
+</drv>
+
+<drv mrk="akumul.0igxi">
+  <kap><tld/>i&gcirc;i</kap>
+  <snc mrk="akumul.0igxi.KOMUNE">
+    <dif>
+      Amasi&gcirc;i la&ubreve;tempe en &ccirc;iam pli granda kvanto:
+      <ekz>
+        dum miaj 28 jaroj jam <tld/>i&gcirc;is en mi tiel
+        multege da ombroj
+        <fnt>
+          <aut>Ba Jin, trad. Li Shijun</aut>,
+          <vrk>A&ubreve;tuno en la Printempo</vrk>,
+          <lok>1980</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">s'<ind>accumuler</ind></trd>
+</drv>
+
+<drv mrk="akumul.0ejo">
+  <kap><tld/>ejo</kap>
+  <snc mrk="akumul.0ejo.KOMP">
+    <uzo tip="fak">KOMP</uzo>
+    <dif>
+      Aritmetika <ref tip="super" cel="regxistr.0o">re&gcirc;istro</ref>
+      en kiu la <ref cel="aritme.0ilo">aritmetikilo</ref> ricevas unu el
+      la
+      argumentoj de plenumota operacio kaj en kiun &gcirc;i liveras la
+      rezulton. Ofte tiu rezulto estas argumento de la tujsekva
+      operacio, kiu do havas unu el siaj argumentoj jam preta en la
+      re&gcirc;istro; tiamaniere la definitiva rezulto iom post iom
+      &leftquot;<tld/>i&gcirc;as&rightquot; en tiu re&gcirc;istro, evitigante registradon kaj
+      relegadon de interaj rezultoj.
+    </dif>
+  </snc>
+  <trd lng="ca">acumulador <klr>(de calculador)</klr></trd>
+  <trdgrp lng="cs">
+    <trd>registr</trd>,
+    <trd>střádač</trd>
+  </trdgrp>
+  <trd lng="en">accumulator</trd>
+  <trd lng="hu">akkumul&aacute;tor</trd>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_u;&c_m;&c_m;&c_a;&c_t;&c_o;&c_r;</trd>,
+    <trd>&c_a;&c_k;&c_k;&c_u;&c_m;&c_u;&c_l;&c_ja;&c_t;&c_o;&c_r;<klr> (&c_r;&c_je;&c_g;&c_i;&c_s;&c_t;&c_r; &c_A;&c_U;)</klr></trd>
+  </trdgrp>
+  <trd lng="sk">register</trd>
+</drv>
+
+<drv mrk="akumul.0ilo">
+  <kap><tld/>ilo</kap>
+  <snc mrk="akumul.0ilo.ELE">
+    <uzo tip="fak">ELE</uzo>
+    <ref tip="dif" cel="akumul1.0o">akumulatoro</ref>
+  </snc>
+  <trd lng="ca">acumulador <klr>(d'energia)</klr></trd>
+  <trd lng="cs">akumulátor</trd>
+  <trd lng="hu">akkumul&aacute;tor</trd>
+  <trd lng="ru">&c_a;&c_k;&c_k;&c_u;&c_m;&c_u;&c_l;&c_ja;&c_t;&c_o;&c_r;</trd>
+  <trd lng="sk">akumulátor</trd>
+</drv>
+</art>
+<!--
+$Log: akumul.xml,v $
+Revision 1.36  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.35  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.34  2014/08/17 01:10:10  revo
+Jeromo Vasxe: ~igxi
+
+Revision 1.33  2011/12/05 12:10:11  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.32  2010/06/17 16:31:14  revo
+Agustin Garcia Lopez: +trd es
+
+Revision 1.31  2005/06/15 16:32:26  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.30  2003/09/10 16:30:44  revo
+Yury Finkel: +trd ru
+
+Revision 1.29 2003/05/28 16:30:59 revo
+Sergio Pokrovskij: dif, +~ilo, +~ejo
+
+Revision 1.28 2003/05/18 18:00:16 revo
+Viliam Bur: +trd sk
+
+Revision 1.27 2003/05/09 16:31:07 revo
+-->
+</vortaro>

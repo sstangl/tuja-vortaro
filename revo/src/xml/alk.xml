@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: alk.xml,v 1.24 2015/07/04 08:37:30 revo Exp $">
+  <kap>
+    <ofc>*</ofc>
+    <rad>alk</rad>/o
+  </kap>
+
+  <drv mrk="alk.0o">
+    <kap><tld/>o</kap>
+    <uzo tip="fak">ZOO</uzo>
+    <snc>
+      <dif>
+        <ref tip="lst" cel="huf.par0ulo"
+        lst="voko:parhufuloj">Parhufulo</ref>
+        altkrura kaj kun lar&gcirc;aj kornoj;
+        <ref tip="lst" cel="genr.0o.BIO"
+        lst="voko:zoologiaj_genroj">genro</ref> el familio <ref
+        tip="malprt" cel="cerved.0oj">cervedoj</ref>
+        (<trd lng="la">Alces</trd>).
+      </dif>
+    </snc>
+  <trd lng="be">&c_l;&c_o;&c_s;&c_mol;</trd>
+  <trd lng="bg">&c_l;&c_o;&c_s;</trd>
+  <trdgrp lng="br">
+      <trd>eln</trd>,
+      <trd>karv-dour</trd>
+    </trdgrp>
+  <trd lng="cs">los</trd>
+  <trd lng="de">Elch</trd>
+  <trd lng="en">elk</trd>
+  <trd lng="es">alce</trd>
+  <trd lng="fr">&eacute;lan</trd>
+  <trd lng="he">&dalet;&yod;&shin;&vav;&fnun;</trd>
+  <trd lng="hu">j&aacute;vorszarvas</trd>
+  <trd lng="id">elk</trd>
+  <trd lng="nl">eland</trd>
+  <trd lng="no">elg</trd>
+  <trd lng="pl">&lstroke;o&sacute;</trd>
+  <trd lng="pt">alce</trd>
+  <trd lng="ru">&c_l;&c_o;&c_s;&c_mol;</trd>
+  <trd lng="sk">los</trd>
+  <trd lng="sv">&auml;lg</trd>
+</drv>
+
+  <drv mrk="alk.vir0o">
+    <kap>
+      vir<tld/>o
+    </kap>
+    <uzo tip="fak">ZOO</uzo>
+    <snc mrk="alk.vir0o.ZOO">
+      <dif>
+        Virseksa <tld/>o.
+      </dif>
+    </snc>
+    <trdgrp lng="pl">
+      <trd>&lstroke;o&sacute;</trd>,
+      <trd>byk <ind>&lstroke;osia</ind></trd>
+    </trdgrp>
+  </drv>
+
+  <drv mrk="alk.0ino">
+    <kap>
+      <tld/>ino
+    </kap>
+    <uzo tip="fak">ZOO</uzo>
+    <snc mrk="alk.0ino.ZOO">
+      <dif>
+        Inseksa <tld/>o.
+      </dif>
+      <trd lng="pl">kl&eogonek;pa</trd>
+    </snc>
+  </drv>
+
+  <drv mrk="alk.0ido">
+    <kap>
+      <tld/>ido
+    </kap>
+    <uzo tip="fak">ZOO</uzo>
+    <snc mrk="alk.0ido.ZOO">
+      <dif>
+        Ido de <tld/>o.
+      </dif>
+      <trdgrp lng="pl">
+        <trd>&lstroke;oszak</trd>
+        <trd>ciel&eogonek; <ind>&lstroke;osia</ind>
+        <klr>(rzadkie)</klr></trd>
+      </trdgrp>
+    </snc>
+  </drv>
+
+</art>
+<!--
+$Log: alk.xml,v $
+Revision 1.24  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.23  2014/10/28 11:10:46  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.22  2013/10/08 18:10:11  revo
+Wolfram Diestel: ref al lst parhufuloj
+
+Revision 1.21  2013/09/01 13:11:10  revo
+Wolfram Diestel: referenco al listo zoo genroj
+
+Revision 1.20  2011/06/03 06:10:10  revo
+Sebastian Cyprych: +vir~o +~ino +~ino +trd pl
+
+Revision 1.19  2010/01/22 17:30:17  revo
+Wieland Pusch: +trd bg
+
+Revision 1.18  2010/01/21 17:30:37  revo
+ Filip van Laenen: Norvega traduko
+
+Revision 1.17  2005/04/14 16:32:56  revo
+Alan ar Gall: +trd br
+
+Revision 1.16  2003/05/18 18:01:56  revo
+-->
+</vortaro>

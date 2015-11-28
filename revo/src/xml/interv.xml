@@ -1,0 +1,144 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: interv.xml,v 1.29 2015/07/04 08:37:36 revo Exp $">
+<kap>
+  <rad>interval</rad>/o
+</kap>
+<drv mrk="interv.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="interv.0o.MUZ">
+    <tezrad fak="MUZ"/>
+    <uzo tip="fak">MUZ</uzo>
+    <dif>
+      Interspaco, disiganta du notojn: <ekz>disonancaj <tld/>oj.</ekz>
+    </dif>
+    <trd lng="fa">&a_f;&a_A;&a_S;&a_l;&a_h;<klr tip="ind"> (&a_m;&a_w;&a_s;&f_y;&a_q;&f_y;)</klr></trd>
+    <trd lng="hu">hangk&ouml;z</trd>
+    <trd lng="pl">interwa&lstroke;</trd>
+  </snc>
+  <snc mrk="interv.0o.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>PIV1</bib></fnt>
+    <dif>
+      <ref tip="super" cel="ar.0o.MAT">Aro</ref> de &ccirc;iuj 
+      <ref tip="prt" cel="reel.0o.MAT">reeloj</ref>, trovi&gcirc;antaj
+      inter du reeloj <frm><k>a</k></frm> kaj <frm><k>b</k></frm>; 
+      pli &gcirc;enerale: konveksa subaro de la aro de reeloj:
+      <ekz>
+        la <tld/>on oni notas per skriba&jcirc;o de la tipo 
+        <frm>[<k>a</k>,<k>b</k>]</frm> 
+        <klr>(fermita <tld/>o, <frm><k>a</k></frm> kaj 
+        <frm><k>b</k></frm>
+        apartenas al la koncerna aro)</klr>,
+        <frm>]<k>a</k>,<k>b</k>[</frm> 
+        <klr>(malfermita <tld/>o, nek <frm><k>a</k></frm> nek 
+        <frm><k>b</k></frm> apartenas al &gcirc;i)</klr>,
+        <frm>[<k>a</k>,<k>b</k>[</frm> a&ubreve; 
+        <frm>]<k>a</k>,<k>b</k>]</frm> <klr>(duonfermita <tld/>o)</klr>;
+      </ekz>
+      <ekz>
+        la reelojn <frm><k>a</k></frm> kaj <frm><k>b</k></frm> oni nomas
+      <ref tip="prt" cel="rand.0o.intervalo">randoj</ref> de la <tld/>o.
+      </ekz>
+    </dif>
+    <rim>
+      La nocio estas vastigebla al nefiniaj valoroj de 
+      <frm><k>a</k></frm> a&ubreve; <frm><k>b</k></frm>:
+      <frm>[<k>a</k>,+&#8734;[</frm> <klr>(&ccirc;iuj reeloj pli grandaj
+      ol <frm><k>a</k></frm>, inkluzive de <frm><k>a</k></frm>)</klr>,
+      <frm>]-&#8734;,+&#8734;[</frm> ktp.
+    </rim>
+    <trd lng="en">interval</trd>
+    <trd lng="fa">&a_b;&a_A;&a_z;&a_h;</trd>
+    <trd lng="hu">intervallum</trd>
+    <trd lng="pl">przedzia&lstroke;</trd>
+  </snc>
+  <trd lng="be">&c_ib;&c_n;&c_t;&c_e;&c_r;&c_v;&c_a;&c_l;</trd>
+  <trd lng="ca">interval</trd>
+  <trdgrp lng="cs">
+    <trd>dosah</trd>,
+    <trd>rozsah</trd>
+  </trdgrp>
+  <trd lng="de">Intervall</trd>
+  <trd lng="es">intervalo</trd>
+  <trd lng="fr">intervalle</trd>
+  <trd lng="it">intervallo</trd>
+  <trdgrp lng="nl">
+    <trd>interval</trd>,
+    <trd>tussenruimte</trd>
+  </trdgrp>
+  <trd lng="pt">intervalo<klr tip="amb">
+  (m&uacute;sica, matem&aacute;tica)</klr></trd>
+  <trd lng="ru">&c_i;&c_n;&c_t;&c_je;&c_r;&c_v;&c_a;&c_l;</trd>
+  <trdgrp lng="sk">
+    <trd>interval</trd>,
+    <trd>medzidobie</trd>,
+    <trd>rozpätie</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="interv.konvergx0o">
+  <kap>konver&gcirc;<tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>MatTerm</bib><lok>p. 19</lok></fnt>
+  <snc>
+    <dif>
+      <klr>(de reela <ref cel="seri.potenco0o">potencoserio</ref> 
+      <frm><k>S</k>(<k>x</k>)</frm> &ccirc;irka&ubreve; 
+      <frm><k>x</k><sub>0</sub></frm>)</klr>
+      Malfermita <ref cel="interv.0o.MAT"><tld/>o</ref>
+     <frm>]<k>x</k><sub>0</sub>-&rho;,<k>x</k><sub>0</sub>+&rho;[</frm>,
+      kie <frm>&rho;</frm> signas la 
+      <ref cel="radius.konvergxo0o">konver&gcirc;oradiuson</ref> de la
+      serio.
+    </dif>
+  </snc>
+  <trd lng="ca">interval de converg&egrave;ncia</trd>
+  <trd lng="de">Konvergenzintervall</trd>
+  <trd lng="en">interval of convergence</trd>
+  <trd lng="fa">&a_b;&a_A;&a_z;&a_h;&a_hamza_sure; &a_h;&a_m;&f_g;&a_r;&a_A;&f_y;&f_y;</trd>
+  <trd lng="fr">intervalle de convergence</trd>
+  <trd lng="hu">konvergenciatartom&aacute;ny</trd>
+  <trd lng="it">intervallo di convergenza</trd>
+  <trd lng="pl">przedzia&lstroke; zbie&zdot;no&sacute;ci</trd>
+  <trd lng="pt">intervalo de converg&ecirc;ncia</trd>
+  <trd lng="ru">
+  &c_i;&c_n;&c_t;&c_je;&c_r;&c_v;&c_a;&c_l;
+  &c_s;&c_h;&c_o;&c_d;&c_i;&c_m;&c_o;&c_s;&c_t;&c_i;
+  </trd>
+</drv>
+</art>
+<!--
+$Log: interv.xml,v $
+Revision 1.29  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.28  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.27  2011/12/08 11:10:22  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.26  2010/05/26 17:01:49  revo
+Antonio Codazzi: ++trd it
+
+Revision 1.25  2009/09/14 16:31:14  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.24  2008/05/20 16:30:28  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.23  2007/09/28 16:30:36  revo
+Tulio Flores: +tr pt
+
+Revision 1.22  2006/09/22 19:19:32  revo
+Wolfram Diestel: +tezrad(MUZ)
+
+Revision 1.21  2006/01/12 21:53:28  revo
+Raul Salinas Monteagudo: +trd es,it
+
+Revision 1.20  2005/12/05 17:31:17  revo
+-->
+</vortaro>

@@ -1,0 +1,127 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: kosmet.xml,v 1.18 2015/07/04 08:37:38 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>kosmetik</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="kosmet.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="kosmet.0o.KOS">
+    <dif>
+      <ref tip="lst" cel="art.0o.tehxniko" lst="voko:artoj">Arto</ref>
+      higiene flegi 
+      kaj beligi la ha&ubreve;ton, la harojn kaj la dentojn.
+    </dif>
+    <trdgrp lng="de">
+      <trd>Kosmetik</trd>,
+      <trd>Sch&ouml;nheitspflege</trd>
+    </trdgrp>
+    <trd lng="en">cosmetics</trd>
+    <trdgrp lng="hu">
+      <trd>kozmetika</trd>,
+      <trd>sz&eacute;ps&eacute;g&aacute;pol&aacute;s</trd>
+    </trdgrp>
+    <trd lng="id">kosmetika</trd>
+    <trd lng="it">cosmesi</trd>
+    <trdgrp lng="nl">
+      <trd>schoonheidsverzorging</trd>,
+      <trd>cosmetiek</trd>
+    </trdgrp>
+    <trd lng="pt">cosm&eacute;tica</trd>
+  </snc>
+  <snc mrk="kosmet.0o.kosmetikajxo">
+    <ref tip="dif" cel="kosmet.0ajxo.KOS"><tld/>a&jcirc;o</ref>
+    <trdgrp lng="de">
+      <trd>Kosmetikum</trd>,
+      <trd>Sch&ouml;nheitsmittel</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>cosmetic</trd>,
+      <trd>beauty preparation</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>kozmetikum</trd>,
+      <trd>sz&eacute;p&iacute;t&odblac;szer</trd>
+    </trdgrp>
+    <trd lng="id">kosmetik</trd>
+    <trdgrp lng="it">
+      <trd>cosmetico</trd>,
+      <trd>preparazione cosmetica</trd>
+    </trdgrp>
+    <trdgrp lng="nl">
+      <trd>schoonheidsmiddel<klr tip="ind"> (ontr.)</klr></trd>,
+      <trd>cosmeticum<klr tip="ind"> (ontr.)</klr></trd>
+    </trdgrp>
+    <trd lng="pt">cosm&eacute;tico</trd>
+  </snc>
+  <trd lng="be">&c_k;&c_a;&c_s;&c_m;&c_e;&c_t;&c_y;&c_k;&c_a;</trd>
+  <trd lng="cs">kosmetický výrobek</trd>
+  <trd lng="fr">cosm&eacute;tique</trd>
+  <trd lng="ru">&c_k;&c_o;&c_s;&c_m;&c_je;&c_t;&c_i;&c_k;&c_a;</trd>
+  <trd lng="sk">kozmetický výrobok</trd>
+</drv>
+
+<drv mrk="kosmet.0ajxo">
+  <kap><tld/>a&jcirc;o</kap>
+  <snc mrk="kosmet.0ajxo.KOS">
+    <dif>
+      Substanco uzata en <tld/>o:
+      <ekz>
+        sub flava ombrelo ili elsakigis kosmetika&jcirc;ojn kaj atenteme 
+        beligis sin
+        <fnt>
+          <aut>Min Zuhua</aut>,
+          <vrk><url
+          ref="http://www.chinareport.com.cn/18s/02c/02-23/23-m-3.htm">
+          Konkurso de ji-oj pri beleco</url></vrk>,
+          <lok>nacimalplimultoj de &Ccirc;inio, 2004-12</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">cosm&eacute;tique<klr> (produit)</klr></trd>
+  <trdgrp lng="it">
+    <trd>cosmetico</trd>,
+    <trd>preparazione cosmetica</trd>
+  </trdgrp>
+     <trdgrp lng="nl">
+      <trd>schoonheidsmiddel</trd>,
+      <trd>cosmeticum</trd>
+    </trdgrp>
+</drv>
+</art>
+<!--
+$Log: kosmet.xml,v $
+Revision 1.18  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.16  2014/11/13 11:10:19  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.15  2013/09/22 18:10:15  revo
+Wolfram Diestel: referenco al listo artoj
+
+Revision 1.14  2010/11/16 17:30:21  revo
+David Paleino: itala traducio
+
+Revision 1.13  2009/09/13 16:57:04  revo
+Paul Peeraerts: +nl
+
+Revision 1.12  2007/04/14 16:30:25  revo
+Jeromo Vasxe: + ~ajxo
+
+Revision 1.11 2006/11/11 17:30:36 revo
+Tulio Flores: +tr pt
+
+Revision 1.10 2005/10/22 17:23:27 revo
+Axel Rousseau: +trd fr
+
+Revision 1.9 2004/04/28 16:31:29 revo
+-->
+</vortaro>

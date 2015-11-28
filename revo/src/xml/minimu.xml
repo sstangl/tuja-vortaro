@@ -1,0 +1,267 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: minimu.xml,v 1.35 2015/07/04 08:37:39 revo Exp $">
+<kap>
+  <ofc>3</ofc>
+  <rad>minimum</rad>/o
+</kap>
+<drv mrk="minimu.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="minimu.0o.KOMUNE">
+    <dif>
+      Kiel eble plej malgranda kvanto a&ubreve; plej malalta grado:
+      <ekz>
+        kunporti por la voja&gcirc;o <tld/>on da paka&jcirc;oj;
+      </ekz>
+      <ekz>
+        <tld/>a prezo, postulo.
+      </ekz>
+    </dif>
+    <ref tip="ant" cel="maksim1.0o.KOMUNE">maksimumo.</ref>
+    <trd lng="nl">minumum</trd>
+    <trd lng="pl">minimum</trd>
+  </snc>
+  <snc mrk="minimu.0o.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>MatTerm</bib><lok>p. 18, 20</lok></fnt>
+    <dif>
+      <klr>(de <ref cel="ar.orda0o">orda aro</ref>
+      <frm>(<g>E</g>,&#8804;)</frm>)</klr>
+      Tia elemento <frm>m</frm> en <frm><g>E</g></frm>, ke &ccirc;iuj
+      aliaj estas pli grandaj ol &gcirc;i
+      (<frm>m &#8804; <k>x</k></frm> por &ccirc;iu ajn
+      <frm><k>x</k></frm> en <frm><g>E</g></frm>);
+      simb. <frm>m = min <g>E</g></frm>:
+      <ekz>
+        la reela intervalo <frm>]0,1[</frm> ne havas <tld/>on;
+      </ekz>
+      <ekz>
+        la eventuala <tld/>o estas unika;
+      </ekz>
+      <ekz>
+        (absoluta) <tld/>o de funkcio
+        <klr>(t.e. de &gcirc;ia bildaro)</klr>;
+      </ekz>
+      <ekz>
+        (loka) <tld/>o de funkcio
+        <klr>(t.e. de la bildo de iu
+        &ccirc;irka&ubreve;a&jcirc;o)</klr>.
+      </ekz>
+    </dif>
+    <rim>
+      La difino de Bricard estas pli lar&gcirc;a ol nia. Li distingas
+      inter <ctl>tu&scirc;ata <tld/>o</ctl> (nia <ctl><tld/>o</ctl>) kaj
+      <ctl>netu&scirc;ata <tld/>o</ctl> (nia <ctl>infimo</ctl>).
+    </rim>
+    <ref tip="ant" cel="maksim1.0o.MAT">maksimumo;</ref>
+    <ref tip="super" cel="ekstre.0umo">ekstremumo.</ref>
+    <trdgrp lng="pl">
+      <trd>minimum</trd>,
+      <trd>element najmniejszy<klr tip="amb">
+      (zbioru)</klr></trd></trdgrp>
+  </snc>
+  <trd lng="be">&c_m;&c_ib;&c_n;&c_ib;&c_m;&c_u;&c_m;</trd>
+  <trdgrp lng="de">
+      <trd>Minimum</trd>,
+      <trd>Mindestma&szlig;</trd>,
+      <trd>Mindestwert</trd>
+    </trdgrp>
+  <trd lng="en">minimum</trd>
+  <trd lng="es">m&iacute;nimo <klr>(sustantivo)</klr></trd>
+  <trd lng="fr">minimum</trd>
+  <trd lng="hu">minimum</trd>
+  <trd lng="pt">m&iacute;nimo</trd>
+  <trd lng="ru">&c_m;&c_i;&c_n;&c_i;&c_m;&c_u;&c_m;</trd>
+</drv>
+
+<drv mrk="minimu.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="minimu.0a.KOMUNE">
+    <dif>
+      Atinganta la malplej alte atingeblan gradon:
+      <ekz>
+        la <tld/>a temperaturo en frostujo;
+      </ekz>
+      <ekz>
+        mi forestos <ind><tld/>e</ind> <klr>(almena&ubreve;)</klr> tri
+        tagojn.
+        <trdgrp lng="de">
+      <trd>minimal</trd>,
+      <trd>kleinst-</trd>,
+      <trd>niedrigst-</trd>,
+      <trd>mindest-</trd>
+    </trdgrp>
+        <trdgrp lng="fr">
+          <trd>au <ind>minimum</ind></trd>,
+          <trd>au <ind>moins</ind></trd>
+        </trdgrp>
+        <trdgrp lng="pl">
+          <trd>minimum</trd>,
+          <trd>co najmniej</trd>
+        </trdgrp>
+  <trdgrp lng="pt">
+    <trd>no <ind>m&iacute;nimo</ind></trd>,
+    <trd>pelo <ind>menos</ind></trd>
+  </trdgrp>
+      </ekz>
+    </dif>
+    <ref tip="ant" cel="maksim1.0a.KOMUNE">maksimuma.</ref>
+    <trdgrp lng="en"><trd>minimal</trd>, <trd>minimum</trd></trdgrp>
+    <trd lng="es">m&iacute;nimo <klr>(adjetivo)</klr></trd>
+    <trd lng="fr">minimal</trd>
+    <trd lng="pl">minimalny</trd>
+    <trd lng="pt">m&iacute;nimo</trd>
+  </snc>
+  <snc mrk="minimu.0a.elemento">
+    <uzo tip="fak">MAT</uzo>
+    <dif>
+      <klr>(p.p. elemento de <ref cel="ar.orda0o">orda aro</ref>
+      <frm>(<g>E</g>,&#8804;)</frm>)</klr>
+      Tia, ke ne ekzistas elemento de <frm><g>E</g></frm> strikte
+      pli malgranda ol &gcirc;i:
+      <ekz>
+        la eventuala <tld/>o de orda aro estas <tld/>a, sed <tld/>a
+        elemento ne nepre estas <tld/>o.
+      </ekz>
+    </dif>
+    <ref tip="ant" cel="maksim1.0a.elemento">maksimuma.</ref>
+    <adm>Kontroli trd en/ru. <aut>MB</aut></adm>
+    <trd lng="de">kleinst- (-es Element)</trd>
+    <trd lng="en">minimal<klr tip="ind"> (element)</klr></trd>
+    <trd lng="fr"><klr tip="ind">(&eacute;l&eacute;ment)
+    </klr>minimal</trd>
+    <trd lng="pl"><klr tip="ind">(element) </klr>minimalny</trd>
+    <trd lng="pt">m&iacute;nimo</trd>
+    <trd
+    lng="ru">&c_m;&c_i;&c_n;&c_i;&c_m;&c_a;&c_l;&c_mol;&c_n;&c_y;&c_j;<klr
+tip="ind"> (&c_e;&c_l;&c_je;&c_m;&c_je;&c_n;&c_t;)</klr></trd>
+  </snc>
+  <trd
+  lng="be">&c_m;&c_ib;&c_n;&c_ib;&c_m;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>
+  <trdgrp lng="cs">
+    <trd>minimální</trd>,
+    <trd>nejmenší</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>minim&aacute;lis</trd>,
+    <trd>legkevesebb</trd>,
+    <trd>legkisebb</trd>
+  </trdgrp>
+  <trd
+  lng="ru">&c_m;&c_i;&c_n;&c_i;&c_m;&c_a;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>minimálny</trd>,
+    <trd>najmenší</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="minimu.0ejo">
+  <kap><tld/>ejo</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>PIV2</bib></fnt>
+  <snc>
+    <ref tip="dif" cel="minimu.0iganto"><tld/>iganto.</ref>
+  </snc>
+  <trd lng="cs">minimum <klr>(na křivce| na grafu)</klr></trd>
+  <trd lng="en">point of minimum</trd>
+  <trd lng="hu">minimaliz&aacute;l&oacute;</trd>
+  <trd lng="pl">punkt minimum</trd>
+  <trd lng="pt">ponto de <ind>m&iacute;nimo</ind></trd>
+  <trd lng="sk">minimum</trd>
+</drv>
+
+<drv mrk="minimu.0iganto">
+  <kap><tld/>iganto</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>MatTerm</bib><lok>p. 20</lok></fnt>
+  <snc>
+    <dif>
+      <klr>(de <ref cel="bild.0igo.MAT">bildigo</ref> kun valoroj en
+      <ref cel="ar.orda0o">orda aro</ref>)</klr>
+      Punkto de la fonto-aro, &ccirc;e kiu la bildigo atingas
+      <tld/>on.
+    </dif>
+    <rim>
+      Ial <fnt><bib>PIV2</bib></fnt> preferas nomi tion
+      <ctl><tld/>ejo</ctl>.
+      Vd rimarkon sub <ref cel="maksim1.0iganto">maksimumiganto</ref>.
+    </rim>
+  </snc>
+  <trd lng="be">&c_k;&c_r;&c_o;&c_p;&c_k;&c_a;
+  <ind>&c_m;&c_ib;&c_n;&c_ib;&c_m;&c_u;&c_m;&c_u;</ind></trd>
+  <trd lng="de">Minimumstelle</trd>
+  <trd lng="en">point of minimum</trd>
+  <trd lng="fr">point de minimum</trd>
+  <trd lng="hu">minimaliz&aacute;l&oacute;</trd>
+  <trd lng="pl">punkt minimum</trd>
+  <trd lng="pt">ponto de <ind>m&iacute;nimo</ind></trd>
+  <trd lng="ru">&c_t;&c_o;&c_ch;&c_k;&c_a;
+  &c_m;&c_i;&c_n;&c_i;&c_m;&c_u;&c_m;&c_a;</trd>
+</drv>
+
+<drv mrk="minimu.0ismo">
+  <kap><tld/>ismo</kap>
+  <uzo tip="fak">BELA</uzo>
+  <snc mrk="minimu.0ismo.historia">
+    <dif>
+      Arta stilo uson-devena prospera ekde la dua duono de la 20a
+      jarcento, favoranta uzon de simplaj, grandaj formoj a&ubreve;
+      eroj, ofte
+      serie prezentataj.
+    </dif>
+  <trd lng="de">Minimalismus</trd>
+  <trd lng="pt">minimalismo</trd>
+  </snc>
+  <snc mrk="minimu.0ismo.gxenerala">
+    <dif>
+      &Ccirc;ia arta stilo, kiu uzas etan sortimenton de bazaj eroj por
+      konstrui verkon.
+    </dif>
+  <trd lng="pt">minimalismo</trd>
+  </snc>
+  <trd
+  lng="be">&c_m;&c_ib;&c_n;&c_ib;&c_m;&c_a;&c_l;&c_ib;&c_z;&c_m;</trd>
+  <trd lng="en">minimalism</trd>
+  <trd lng="es">minimalismo</trd>
+  <trdgrp lng="fr">
+    <trd>minimalisme</trd>
+  </trdgrp>
+  <trd lng="hu">minimalizmus</trd>
+  <trd lng="pl">minimalizm</trd>
+  <trd lng="ru">&c_m;&c_i;&c_n;&c_i;&c_m;&c_a;&c_l;&c_i;&c_z;&c_m;</trd>
+</drv>
+</art>
+<!--
+$Log: minimu.xml,v $
+Revision 1.35  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.34  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.33  2009/04/17 19:47:34  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.32  2009/03/25 17:30:38  revo
+Alejandro Mejia Greene: ald his trd
+
+Revision 1.31  2009/03/05 17:30:34  revo
+Marcus Curdeius: +pl
+
+Revision 1.30  2008/11/02 17:30:37  revo
+Peter Hauser: aldono resp. korekto de germanaj tradukoj, kor. tajperaron
+
+Revision 1.29  2007/09/11 16:30:21  revo
+Tulio Flores: +tr pt
+
+Revision 1.28  2007/07/06 18:04:04  revo
+Russ Williams: trd +en
+
+Revision 1.27  2006/08/05 16:31:14  revo
+Tulio Flores: +tr pt
+
+Revision 1.26  2004/06/11 16:31:36  revo
+-->
+</vortaro>

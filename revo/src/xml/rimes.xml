@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: rimes.xml,v 1.8 2006/02/21 17:32:42 revo Exp $">
+<kap>
+  <rad>rimes</rad>/o
+  <fnt>Z</fnt>
+</kap>
+<drv mrk="rimes.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">EKON</uzo>
+  <snc>
+    <dif>
+      Speco de kambio, kiun &scirc;uldanto sendas al sia kreditoro por tiel pagi
+      la pli malfrue pagotan &scirc;uldon.
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="kambi.0o">kambio</ref>,
+      <ref cel="trat.0o">trato</ref>.
+    </refgrp>
+  </snc>
+  <trdgrp lng="de">
+    <trd>Rimesse</trd>,
+    <trd>Besitzwechsel</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>k&uuml;ldv&eacute;ny</trd>,
+    <trd>rimessza</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>overmaking</trd>,
+    <trd>remise</trd>
+  </trdgrp>
+    <trd lng="pt">remessa</trd>
+  <trdgrp lng="ru">
+    <trd>&c_r;&c_i;&c_m;&c_je;&c_s;&c_s;&c_a;</trd>,
+    <trd>&c_p;&c_je;&c_r;&c_je;&c_v;&c_o;&c_d;&c_n;&c_o;&c_j; &c_v;&c_je;&c_k;&c_s;&c_je;&c_l;&c_mol;</trd>,
+    <trd>&c_p;&c_je;&c_r;&c_je;&c_v;&c_o;&c_d; &c_d;&c_je;&c_n;&c_je;&c_g;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: rimes.xml,v $
+Revision 1.8  2006/02/21 17:32:42  revo
+Tulio Flores: +trd pt
+
+Revision 1.7  2004/09/17 15:38:02  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.6  2002/01/29 17:33:40  revo
+Yury Finkel: +trd ru
+
+Revision 1.5 2001/06/22 18:12:42 revo
+Paul Peeraerts: ald trd nl
+
+Revision 1.4 2001/03/07 17:12:51 revo
+Dennis Wibrow: +trd germ
+
+-->
+</vortaro>
+

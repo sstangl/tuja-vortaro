@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: sxlif.xml,v 1.4 2013/12/06 02:10:11 revo Exp $">
+<kap>
+  <rad>&scirc;lif</rad>/i <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="sxlif.0i">
+  <kap><tld/>i</kap>
+  <snc mrk="sxlif.0i.TEK">
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      <ref tip="super" cel="uz.el0i.foruzi">Eluze</ref>
+      tran&ccirc;i, fasoni a&ubreve; glatigi malmolan a&jcirc;on
+      per la rapida movi&gcirc;o de multaj tran&ccirc;aj e&gcirc;oj:
+      <ekz>
+        en sukcesa <tld/>operacio la prilaborata peco
+        restas la&ubreve;eble plej malvarma
+        <fnt>
+          <aut>Griza Leono</aut>,
+          <vrk><url
+          ref="https://groups.google.com/d/msg/la-bona-lingvo---redaktantoj/rMQmXJimC5U/323FOFRw3PQJ">
+          shlifi 605039</url></vrk>,
+          <lok>La bona lingvo, 2011-02-05</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="abrazi.0i">abrazii</ref>,
+      <ref cel="erozi.0i">erozii</ref>,
+      <ref cel="triv.0i.KOMUNE">trivi</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_sh;&c_l;&c_ib;&c_f;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="de">schleifen</trd>
+  <trd lng="en">grind</trd>
+  <trd lng="es">moler</trd>
+  <trd lng="fr">meuler</trd>
+  <trd lng="pl">szlifowa&cacute;</trd>
+</drv>
+
+<drv mrk="sxlif.0ilo">
+  <kap><tld/>ilo</kap>
+  <snc mrk="sxlif.0ilo.MAS">
+    <uzo tip="fak">MAS</uzo>
+    <dif>
+      Aparato por <tld/>i, provizita
+      je multaj malgrandaj e&gcirc;oj.
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_sh;&c_l;&c_ib;&c_f;&c_a;&c_v;&c_a;&c_l;&c_mol;&c_n;&c_y; &c_a;&c_p;&c_a;&c_r;&c_a;&c_t;</trd>,
+    <trd>&c_sh;&c_l;&c_ib;&c_f;&c_a;&c_v;&c_a;&c_l;&c_mol;&c_n;&c_y; &c_s;&c_t;&c_a;&c_n;&c_o;&c_k;</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>molino</trd>,
+    <trd>molinillo</trd>
+  </trdgrp>
+  <trd lng="fr">meule</trd>
+  <trd lng="pl">szlifierka</trd>
+</drv>
+</art>
+
+<!--
+$Log: sxlif.xml,v $
+Revision 1.4  2013/12/06 02:10:11  revo
+Agustin Garcia Lopez: +trd(es)
+
+Revision 1.3  2013/04/03 13:10:09  revo
+Sebastian Cyprych: + trd pl
+
+Revision 1.2  2013/03/21 20:10:44  revo
+Dmitri Gabinski: redakto: +trd be
+
+Revision 1.1  2013/01/09 21:10:11  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

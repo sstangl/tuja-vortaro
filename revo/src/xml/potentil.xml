@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: potentil.xml,v 1.4 2015/06/29 16:40:18 revo Exp $">
+<kap>
+    <rad>potentil</rad>/o
+</kap>
+<drv mrk="potentil.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="potentil.0o.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:botanikaj_genroj">Genro</ref> el familio de <ref
+      tip="malprt" cel="rozac.0oj">rozacoj</ref>
+      kiun karakterizas fingroformaj folioj.
+      <ekz>
+        okulfrape flavaj floretoj kun kvin petaloj sur
+        iom granda kvinpinta kaliko <klr>...</klr> la plej ver&scirc;ajna
+        estas <ind>trifolia terka&scirc;tana <tld/>o</ind>
+        <trd lng="la">Potentilla freyniana</trd>
+        <fnt>
+        <vrk>Akvosfero</vrk>
+        <lok><url
+        ref="http://www.vastalto.com/blog/?p=622">Potentilo</url></lok>
+        </fnt>
+      </ekz>
+    </dif>
+    <rim>
+    La&ubreve; Wouter F. Pilger, nomata anka&ubreve; <em>fingroherbo</em>
+    <fnt>
+    <vrk>Provizora Privata Listo de Komunlingvaj Nomoj de Plantoj de
+    Nord-Okcidenta E&ubreve;ropo</vrk>
+    <lok><url
+    ref="http://www.eventoj.hu/steb/vortaroj/pplp-u8.htm"></url></lok>
+    </fnt>,
+    tamen mi nenie trovis ekzemplojn
+    <aut>SC</aut>
+    </rim>
+  </snc>
+  <trd lng="bg">&c_o;&c_ch;&c_je;&c_b;&c_o;&c_l;&c_je;&c_c;</trd>
+  <trd lng="cs">mochna</trd>
+  <trd lng="de">Fingerkr&auml;uter</trd>
+  <trdgrp lng="en">
+    <trd>potentilla</trd>,
+    <trd>cinquefoil</trd>
+  </trdgrp>
+  <trd lng="fr">potentille</trd>
+  <trd lng="la">Potentilla</trd>
+  <trd lng="nl">ganzerik</trd>
+  <trd lng="pl">pi&eogonek;ciornik</trd>
+  <trd lng="sk">nátržník</trd>
+</drv>
+</art>
+
+<!--
+$Log: potentil.xml,v $
+Revision 1.4  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.3  2013/08/29 07:10:41  revo
+Wolfram Diestel: referenco al listo bot genroj
+
+Revision 1.2  2013/08/19 15:10:13  revo
+Joop Eggen: +trd bg nl
+
+Revision 1.1  2012/08/29 06:10:08  revo
+Sebastian Cyprych: nova artikolo
+
+-->
+</vortaro>

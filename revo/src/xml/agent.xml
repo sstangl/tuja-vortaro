@@ -1,0 +1,227 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: agent.xml,v 1.22 2015/07/04 08:37:29 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>agent</rad>/o <fnt><bib>PV</bib></fnt> 
+</kap>
+<drv mrk="agent.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="agent.0o.KOMUNE">
+    <dif>
+      Persono, kiu estas da&ubreve;re komisiita de iu por fari ion:
+      <ekz>
+        komerca, diplomatia <tld/>o.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_g;&c_je;&c_n;&c_t;</trd>,
+    <trd>&c_p;&c_r;&c_a;&c_d;&c_s;&c_t;&c_a;&c_w;&c_n;&c_ib;&c_k;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>agent</trd>,
+    <trd>cestující</trd>,
+    <trd>jednatel</trd>,
+    <trd>zástupce</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+     <trd>Agent</trd>,
+     <trd>Vertreter</trd>
+  </trdgrp>
+  <trd lng="en">agent</trd>
+  <trd lng="es">agente</trd>
+  <trd lng="fr">agent</trd>
+  <trd lng="hu">&uuml;gyn&ouml;k</trd>
+  <trd lng="it">agente</trd>
+  <trd lng="nl">agent</trd>
+  <trd lng="pt">agente</trd>
+  <trd lng="ru">&c_a;&c_g;&c_je;&c_n;&c_t;</trd>
+  <trdgrp lng="sk">
+    <trd>&ccaron;inite&lcaron;</trd>,
+    <trd>agent</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="agent.0ejo">
+  <kap><tld/>ejo</kap>
+  <snc mrk="agent.0ejo.KOMUNE">
+    <dif>
+      Oficejo regata de unu a&ubreve; pluraj <tld/>oj:
+      <ekz>
+        teatra, luiga <tld/>ejo.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_a;&c_g;&c_je;&c_n;&c_c;&c_t;&c_v;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>agence <klr>(ažáns)</klr></trd>,
+    <trd>agencie</trd>
+  </trdgrp>
+  <trd lng="de">Agentur</trd>
+  <trd lng="en">agency</trd>
+  <trd lng="es">agencia</trd>
+  <trd lng="fr">agence</trd>
+  <trd lng="hu">&uuml;gyn&ouml;ks&eacute;g</trd>
+  <trd lng="it">agenzia</trd>
+  <trd lng="nl">agentschap</trd>
+  <trd lng="pt">ag&ecirc;ncia</trd>
+  <trd lng="ru">&c_a;&c_g;&c_je;&c_n;&c_t;&c_s;&c_t;&c_v;&c_o;</trd>
+  <trdgrp lng="sk">
+    <trd>agent&uacute;ra</trd>,
+    <trd>obch. zastupiteľstvo</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="agent.asekura0o">
+  <kap>asekura <tld/>o</kap>
+  <fnt><bib>IKEV</bib></fnt>
+  <snc mrk="agent.asekura0o.EKON">
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      Peranto de asekura kompanio.
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_t;&c_r;&c_a;&c_h;&c_a;&c_v;&c_y; &c_a;&c_g;&c_je;&c_n;&c_t;</trd>
+  <trd lng="cs">pojišťovací agent</trd>
+  <trdgrp lng="de">
+     <trd>Versicherungsvertreter</trd>,
+     <trd>Versicherungsagent<klr> [AT]</klr></trd>
+  </trdgrp>
+  <trd lng="en">insurance agent</trd>
+  <trd lng="fr">agent d'assurance</trd>
+  <trd lng="hu">biztos&iacute;t&aacute;si &uuml;gyn&ouml;k</trd>
+  <trd lng="nl">verzekeringsagent</trd>
+  <trd lng="ru">&c_s;&c_t;&c_r;&c_a;&c_h;&c_o;&c_v;&c_o;&c_j; &c_a;&c_g;&c_je;&c_n;&c_t;</trd>
+  <trdgrp lng="sk">
+    <trd>pois&tcaron;ovac&iacute; <ind>agent</ind></trd>,
+    <trd>poisťovací agent</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="agent.duobla0o">
+  <kap>duobla <tld/>o</kap>
+  <snc mrk="agent.duobla0o.MIL">
+    <uzo tip="fak">MIL</uzo>
+    <dif>
+      <ref tip="vid" cel="agent.sekreta0o.MIL">Sekreta
+      agento</ref>,
+      kiu samtempe laboras por du malsamaj regnoj,
+      perfidante unu a&ubreve; amba&ubreve;:
+      <ekz>
+        la britoj konsideris oportune dungi duoblan <tld/>on kiu estos 
+        tre utila por misinformi la naziojn
+        <fnt>
+          <aut>guillem p.</aut>,
+          <vrk><url ref="http://www.ipernity.com/blog/niforiru/394213">
+          inter oportunismo kaj idealismo</url></vrk>,
+          <lok>2012-06-05</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">agent double</trd>
+</drv>
+
+<drv mrk="agent.komerca0o">
+  <kap>komerca <tld/>o</kap>
+  <snc mrk="agent.komerca0o.EKON">
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      Persono, kiu estas komisiita por realigi komercajn negocojn.
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_g;&c_a;&c_n;&c_d;&c_l;&c_jo;&c_v;&c_y; &c_a;&c_g;&c_je;&c_n;&c_t;</trd>,
+    <trd>&c_k;&c_a;&c_m;&c_e;&c_r;&c_c;&c_y;&c_j;&c_n;&c_y; &c_a;&c_g;&c_je;&c_n;&c_t;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>jednatel</trd>,
+    <trd>obchodní zástupce</trd>
+  </trdgrp>
+  <trd lng="de">Handelsvertreter</trd>
+  <trd lng="en">commercial agent</trd>
+  <trd lng="fr">agent commercial</trd>
+  <trdgrp lng="nl">
+    <trd>handelsagent</trd>,
+    <trd>vertegenwoordiger</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_t;&c_o;&c_r;&c_g;&c_o;&c_v;&c_y;&c_j; &c_a;&c_g;&c_je;&c_n;&c_t;</trd>,
+    <trd>&c_t;&c_o;&c_r;&c_g;&c_o;&c_v;&c_y;&c_j; &c_p;&c_o;&c_s;&c_r;&c_je;&c_d;&c_n;&c_i;&c_k;</trd>
+  </trdgrp>
+  <trd lng="sk">obchodný zástupca</trd>
+</drv>
+
+<drv mrk="agent.komisia0o">
+  <kap>komisia <tld/>o</kap>
+  <fnt><bib>CCT</bib></fnt>
+  <snc mrk="agent.komisia0o.EKON">
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      Peranto, kiu faras kontraktojn la&ubreve; komisio kaj je konto 
+      de aliuloj sub sia propra nomo a&ubreve; sub tiu de sia firmao.
+    </dif>
+  </snc>
+  <trd lng="be">&c_k;&c_a;&c_m;&c_ib;&c_s;&c_ib;&c_ja;&c_n;&c_e;&c_r;</trd>
+  <trd lng="en">commission agent</trd>
+  <trd lng="de">Kommission&auml;r</trd>
+  <trd lng="nl">commissionair</trd>
+  <trd lng="ru">&c_k;&c_o;&c_m;&c_i;&c_s;&c_s;&c_i;&c_o;&c_n;&c_je;&c_r;</trd>
+</drv>
+
+<drv mrk="agent.sekreta0o">
+  <kap>sekreta <tld/>o</kap>
+  <snc mrk="agent.sekreta0o.MIL">
+    <uzo tip="fak">MIL</uzo>
+      <ref tip="dif" cel="spion.0o.MIL">spiono</ref>
+      <ekz>
+        ekde junio 1932 Nikolaj agis kiel speciala sekreta 
+        <tld/>o de OGPU NKVD
+        <fnt>
+          <aut>V. Opletajev</aut>,
+          <vrk><url ref="http://www.ural-sib.org/ru/node/118">
+          Fremdaj lingvoj en la vivo de Nikolaj Kuznecov</url></vrk>,
+          <lok>REGo, 2010-04 (57), p. 5a-9a</lok>
+        </fnt>
+      </ekz>
+  </snc>
+  <trd lng="cs">tajný agent</trd>
+  <trd lng="fr">agent secret</trd>
+  <trd lng="sk">tajný agent</trd>
+</drv>
+</art>
+<!--
+$Log: agent.xml,v $
+Revision 1.22  2015/07/04 08:37:29  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.21  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.20  2014/12/08 20:10:39  revo
+Jeromo Vasxe: + duobla/sekreta ~o
+
+Revision 1.19  2009/08/18 19:17:31  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.18  2004/10/16 16:32:01  revo
+Jeromo Vasxe: asekura ~o : + 1 trd hu el asekur.xml
+
+Revision 1.17  2003/10/28 17:31:57  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.16  2003/08/21 16:32:02  revo
+Yury Finkel: +trd ru
+
+Revision 1.15  2003/05/17 16:32:07  revo
+Viliam Bur: +trd sk
+
+Revision 1.14  2003/02/03 17:31:33  revo
+Ulrich Fellmann: + 6 trd de + 3 novaj drv (asekura ~o, komerca ~o,
+komisia ~o) + 3 trd en + 2 fontindikoj
+
+-->
+</vortaro>

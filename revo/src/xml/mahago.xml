@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: mahago.xml,v 1.19 2015/07/04 08:37:39 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>mahagon</rad>/o
+</kap>
+<drv mrk="mahago.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="mahago.0o.arbo">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:botanikaj_genroj">Genro</ref> el familio <ref
+      tip="malprt" cel="meliac.0oj">meliacoj</ref>
+      (<trd lng="la">Swietenia</trd>), tropika arbo liveranta la
+      <ref tip="prt" cel="mahago.0o.ligno"><tld/>on
+      <sncref ref="mahago.0o.ligno"/></ref>.
+    </dif>
+    <trd lng="en">mahogany</trd>
+    <trd lng="hu">mahag&oacute;ni(fa)</trd>
+    <trd lng="nl">mahonie</trd>
+    <trdgrp lng="ru">
+      <trd>&c_m;&c_a;&c_h;&c_a;&c_g;&c_o;&c_n;&c_i;&c_je;&c_v;&c_o;&c_je; &c_d;&c_je;&c_r;&c_je;&c_v;&c_o;</trd>,
+      <trd>&c_s;&c_v;&c_i;&c_t;&c_je;&c_n;&c_i;&c_ja;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="mahago.0o.ligno">
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      La bela brunru&gcirc;a ligno de
+      <ref tip="malprt" cel="mahago.0o.arbo"><tld/>o
+      <sncref ref="mahago.0o.arbo"/></ref> kaj parencaj specioj,
+      uzata en meblofarado kaj konstruado:
+      <ekz>
+        super la ronda <tld/>a tablo jam brulis la rozokolora lampo
+        <fnt><bib>Marta</bib></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="en">mahogany</trd>
+    <trd lng="hu">mahag&oacute;ni<klr tip="ind"> (faanyag)</klr></trd>
+    <trd lng="nl">mahoniehout</trd>
+  </snc>
+  <trd lng="bg">&c_m;&c_a;&c_h;&c_a;&c_g;&c_o;&c_n;</trd>
+  <trd lng="br">akajou</trd>
+  <trd lng="ca">caoba</trd>
+  <trd lng="cs">mahagon</trd>
+  <trd lng="de">Mahagoni</trd>
+  <trd lng="fr">acajou<klr tip="amb"> (subst.)</klr></trd>
+  <trdgrp lng="pt">
+    <trd>mogno</trd>,
+    <trd>acaiacatinga</trd>,
+    <trd>acaju</trd>,
+    <trd>magano</trd>,
+    <trd>m&oacute;gono</trd>,
+    <trd>mogno-verdadeiro</trd>
+  </trdgrp>
+  <trd lng="ru">&c_k;&c_r;&c_a;&c_s;&c_n;&c_o;&c_je; &c_d;&c_je;&c_r;&c_je;&c_v;&c_o;</trd>
+  <trd lng="sk">mahagón</trd>
+</drv>
+</art>
+<!--
+$Log: mahago.xml,v $
+Revision 1.19  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:33:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2013/08/27 15:10:23  revo
+Wolfram Diestel: referenco al listo bot genroj
+
+Revision 1.16  2012/08/03 08:10:29  revo
+Marc Rausell: + trd ca
+
+Revision 1.15  2009/01/03 17:31:16  revo
+Wieland Pusch: +trd bg
+
+Revision 1.14  2006/07/15 17:04:46  revo
+Tulio Flores: +tr pt
+
+Revision 1.13  2005/07/07 16:33:37  revo
+Alan ar Gall: +trd br
+
+Revision 1.12  2004/08/08 18:26:16  revo
+Jeromo Vasxe: + ekz, + trd fr
+
+Revision 1.11 2002/11/10 11:42:05 revo
+Jozefo Horvath: +trd hu
+
+Revision 1.10 2001/11/27 17:35:37 revo
+-->
+</vortaro>

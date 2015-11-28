@@ -1,0 +1,301 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: ideal.xml,v 1.29 2015/07/04 08:37:36 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>ideal</rad>/a
+</kap>
+<drv mrk="ideal.0a">
+  <kap><tld/>a</kap>
+  <snc>
+    <dif>
+      Konforma al la ideo, kiun ni havas pri perfekteco:
+      <ekz>
+        <tld/>aj formoj;
+      </ekz>
+      <ekz>
+        <tld/>a beleco, perfekteco;
+      </ekz>
+      <ekz>
+        <tld/>a virino.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_ib;&c_d;&c_e;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>
+  <trdgrp lng="cs">
+    <trd>ideální</trd>,
+    <trd>vzorný</trd>
+  </trdgrp>
+  <trd lng="de">ideal</trd>
+  <trd lng="en">ideal</trd>
+  <trd lng="es">ideal</trd>
+  <trd lng="fr">id&eacute;al<klr tip="ind"> (adj.)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>eszm&eacute;nyi</trd>,
+    <trd>ideal&aacute;lis</trd>
+  </trdgrp>
+  <trd lng="it">ideale<klr tip="ind"> (agg.)</klr></trd>
+  <trd lng="nl">ideaal</trd>
+  <trd lng="pt">ideal<klr tip="ind"> (adj.)</klr></trd>
+  <trd lng="ru">&c_i;&c_d;&c_je;&c_a;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
+  <trd lng="sk">ideálny</trd>
+  <trd lng="sv">ideal</trd>
+</drv>
+
+<drv mrk="ideal.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="ideal.0o.perfekteco">
+    <dif>
+      La plej alta perfekteco, kiun oni povas imagi sed neniam plene
+      atingi:
+      <ekz>
+        la <tld/>o revita de la poeto;
+      </ekz>
+      <ekz>
+        konstanta paco estas plej nobla <tld/>o de la homaro.
+      </ekz>
+    </dif>
+    <trd lng="de">Ideal</trd>
+    <trd lng="en">ideal</trd>
+    <trd lng="fr">id&eacute;al<klr tip="ind"> (subst.)</klr></trd>
+    <trdgrp lng="hu">
+      <trd>eszm&eacute;ny</trd>,
+      <trd>ideal&aacute;l</trd>
+    </trdgrp>
+    <trd lng="pt">ideal<klr tip="ind"> (subst.)</klr></trd>
+    <trd lng="sv">ideal</trd>
+  </snc>
+  <snc mrk="ideal.0o.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>EKV</bib><lok>&para;165</lok></fnt>
+    <dif>
+      <klr>(de <ref cel="ring.0o.MAT">ringo</ref>
+      <frm><g>R</g></frm>)</klr>
+      Tia adicia <ref tip="super" cel="grup.sub0o.MAT">subgrupo</ref>
+      <frm><g>I</g></frm> de <frm><g>R</g></frm>, ke al &gcirc;i apartenas 
+      &ccirc;iuj produtoj 
+      <frm><k>a</k>&#215;<k>b</k></frm> (maldekstra <tld/>o), 
+      <frm><k>b</k>&#215;<k>a</k></frm> (dekstra <tld/>o),
+      a&ubreve; <frm><k>a</k>&#215;<k>b</k></frm> kaj 
+      <frm><k>b</k>&#215;<k>a</k></frm> (amba&ubreve;flanka <tld/>o) por ajna
+      elemento <frm><k>a</k></frm> en <frm><g>I</g></frm> 
+      kaj <frm><k>b</k></frm> en <frm><g>R</g></frm>:
+      <ekz>
+        en la ringo de entjeroj la obloj de <frm><k>p</k></frm>
+        konsistigas amba&ubreve;flankan <tld/>on.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="ring.sub0o">subringo;</ref>
+    <refgrp tip="vid">
+      Ecoj de idealo:
+      <ref cel="cxef.0a.idealo">&ccirc;efa</ref>,
+      <ref cel="maksim1.0a.idealo">maksimuma</ref>,
+      <ref cel="prim.0a.idealo">prima</ref>.
+    </refgrp>
+    <trd lng="de">Ideal</trd>
+    <trd lng="en">ideal</trd>
+    <trd lng="fr">id&eacute;al<klr tip="ind"> (subst., math.)</klr></trd>
+    <trd lng="hu">ide&aacute;l</trd>
+    <trd lng="pl">idea&lstroke;</trd>
+  </snc>
+  <trd lng="be">&c_ib;&c_d;&c_e;&c_a;&c_l;</trd>
+  <trdgrp lng="cs">
+    <trd>ideál</trd>,
+    <trd>vzor</trd>
+  </trdgrp>
+  <trd lng="it">ideale<klr tip="ind"> (sost.)</klr></trd>
+  <trd lng="nl">ideaal</trd>
+  <trd lng="ru">&c_i;&c_d;&c_je;&c_a;&c_l;</trd>
+  <trd lng="sk">ideál</trd>
+</drv>
+
+<drv mrk="ideal.0igi">
+  <kap><tld/>igi</kap>
+  <snc>
+    <dif>
+      Doni al io a&ubreve; iu <tld/>an karakteron:
+      <ekz>
+        ne estas bone tro <tld/>igi la mondon kaj la homojn, &ccirc;ar
+        tio preparas kruelajn elrevi&gcirc;ojn.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">
+&c_ib;&c_d;&c_e;&c_a;&c_l;&c_ib;&c_z;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="cs">idealizovat</trd>
+  <trd lng="es">idealizar</trd>
+  <trd lng="fr">id&eacute;aliser</trd>
+  <trdgrp lng="hu">
+    <trd>eszm&eacute;ny&iacute;t</trd>,
+    <trd>idealaliz&aacute;l</trd>
+  </trdgrp>
+  <trd lng="it">idealizzare</trd>
+  <trd lng="nl">idealiseren</trd>
+  <trd lng="pt">idealizar</trd>
+  <trd lng="ru">
+&c_i;&c_d;&c_je;&c_a;&c_l;&c_i;&c_z;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;
+</trd>
+  <trd lng="sk">idealizovať</trd>
+  <trd lng="sv">idealisera</trd>
+</drv>
+
+<drv mrk="ideal.0ismo">
+  <kap><ofc>3</ofc><tld/>ismo</kap>
+  <snc mrk="ideal.0ismo.morala">
+    <dif>
+      Celado al <tld/>o, al perfekteco; senzorgo pri la reala vulgara
+      vivo.
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="spirit3.0o">spiritualismo</ref>.
+    </refgrp>
+  </snc>
+  <snc mrk="ideal.0ismo.ideismo">
+    <uzo tip="stl">EVI</uzo>
+    <uzo tip="fak">FIL</uzo>
+    <dif>
+      <ref tip="dif" cel="ide.0ismo">Ideismo</ref>.
+    </dif>
+  </snc>
+  <snc mrk="ideal.0ismo.BELA">
+    <uzo tip="fak">BELA</uzo>
+    <dif>
+      Koncepto pri arto kiel tradukanto de ia <tld/>o,
+      ne kiel imitanto de la realo.
+    </dif>
+    <refgrp tip="ant">
+      <ref cel="real.0ismo">realismo</ref>.
+    </refgrp>
+  </snc>
+  <adm>
+    Temas pri oficiala radiko, ne pri derivajxo. <aut>MB</aut>
+  </adm>
+  <trd lng="be">&c_ib;&c_d;&c_e;&c_a;&c_l;&c_ib;&c_z;&c_m;</trd>
+  <trd lng="es">idealismo</trd>
+  <trd lng="fr">id&eacute;alisme</trd>
+  <trd lng="hu">idealizmus</trd>
+  <trd lng="it">idealismo</trd>
+  <trd lng="nl">idealisme</trd>
+  <trd lng="pt">idealismo</trd>
+  <trd lng="ru">&c_i;&c_d;&c_je;&c_a;&c_l;&c_i;&c_z;&c_m;</trd>
+  <trd lng="sv">idealism</trd>
+</drv>
+
+<drv mrk="ideal.0isto">
+  <kap><tld/>isto<fnt>Z</fnt></kap>
+  <snc mrk="ideal.0isto.morale">
+    <dif>
+      Homo, kiu celas al <tld/>o, ne zorgante pri la krudaj
+      faktoj de la vivo.
+    </dif>
+    <refgrp tip="ant">
+      <ref cel="materi1.0isto">materialisto</ref>,
+      <ref cel="real">realisto</ref>.
+    </refgrp>
+  </snc>
+  <snc mrk="ideal.0isto.ideisto">
+    <uzo tip="stl">EVI</uzo>
+    <uzo tip="fak">FIL</uzo>
+    <dif>
+      <ref tip="dif" cel="ide.0isto">Ideisto</ref>.
+    </dif>
+  </snc>
+  <adm>
+    Cxu derivajxo? <aut>MB</aut>
+  </adm>
+  <trd lng="be">&c_ib;&c_d;&c_e;&c_a;&c_l;&c_ib;&c_s;&c_t;</trd>
+  <trd lng="es">idealista</trd>
+  <trd lng="hu">idealista</trd>
+  <trd lng="it">idealista</trd>
+  <trd lng="nl">idealist</trd>
+  <trd lng="pt">idealista</trd>
+  <trd lng="ru">&c_i;&c_d;&c_je;&c_a;&c_l;&c_i;&c_s;&c_t;</trd>
+  <trd lng="sv">idealist</trd>
+  <trd lng="sk">idealista</trd>
+  <trd lng="cs">idealista</trd>
+</drv>
+
+<drv mrk="ideal.cxef0a">
+  <kap>&ccirc;ef<tld/>a</kap>
+  <uzo tip="fak">MAT</uzo>
+  <snc mrk="ideal.cxef0a.MAT">
+    <dif>
+      <klr>(p.p. <ref cel="ring.0o.MAT">ringo</ref>)</klr>
+      Tia, ke &ccirc;iuj &gcirc;iaj <ref cel="ideal.0o.MAT"><tld/>oj</ref>
+      estas <ref cel="cxef.0a.idealo">&ccirc;efaj</ref>.
+    </dif>
+    <rim>
+      Kelkaj a&ubreve;toroj postulas krome, ke la ringo estu
+      <ref cel="komut.0eca.ringo">komuteca</ref> a&ubreve;
+      <ref cel="integr.0a.MAT">integra</ref>.
+    </rim>
+    <trd lng="de">Hauptideal-<klr tip="amb">(ring)</klr></trd>
+    <trd lng="en">principal ideal<klr tip="amb"> (ring)</klr></trd>
+    <trd lng="fr"><klr tip="ind">(anneau) </klr>principal</trd>
+    <trd lng="hu">f&odblac;ide&aacute;lis<klr tip="ind"> (gy&udblac;r&udblac;)
+    </klr></trd>
+    <trd lng="it"><ind>ideale</ind> principale<klr tip="amb"> (mat.)</klr>
+    </trd>
+    <trd lng="pl"><klr tip="ind">(pier&sacute;cie&nacute;) 
+    </klr>idea&lstroke;&oacute;w
+    g&lstroke;&oacute;wnych</trd>
+    <trd lng="ru"><klr tip="amb">(&c_k;&c_o;&c_l;&c_mol;&c_c;&c_o;) 
+    </klr>&c_g;&c_l;&c_a;&c_v;&c_n;&c_y;&c_h;
+    &c_i;&c_d;&c_je;&c_a;&c_l;&c_o;&c_v;</trd>
+  </snc>
+</drv>
+
+<drv mrk="ideal.sen0a">
+  <kap>sen<tld/>a</kap>
+  <snc>
+    <dif>
+      Ne zorganta pri <tld/>o, atenta nur pri la materia
+      flanko de la mondo.
+    </dif>
+  </snc>
+  <trd lng="be">&c_b;&c_je;&c_z;&c_y;&c_d;&c_e;&c_j;&c_n;&c_y;</trd>
+  <trd lng="cs">bez ideálů</trd>
+  <trdgrp lng="hu">
+    <trd>eszm&eacute;nyek n&eacute;lk&uuml;li</trd>,
+    <trd>anyagias</trd>
+  </trdgrp>
+  <trd lng="it">realista<klr> (concreto/pratico)</klr></trd>
+  <trd lng="nl">materialistisch</trd>
+  <trd lng="ru">&c_b;&c_je;&c_z;&c_y;&c_d;&c_je;&c_j;&c_n;&c_y;&c_j;</trd>
+  <trd lng="sk">bez ideálov</trd>
+</drv>
+</art>
+<!--
+$Log: ideal.xml,v $
+Revision 1.29  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.28  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.27  2009/04/01 16:30:30  revo
+Antonio Codazzi: +trd it
+
+Revision 1.26  2009/03/25 17:30:36  revo
+Jerano Zachrisson: +trd sv
+
+Revision 1.25  2005/10/24 16:31:50  revo
+Luiz Portella: +trd pt
+
+Revision 1.24  2004/07/08 17:05:44  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.23  2004/01/06 17:31:09  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.22  2003/11/18 17:32:04  revo
+Bart Demeyere: +mrkoj
+
+Revision 1.21  2003/03/23 17:33:00  revo
+Marc Bavant: cxef~a: +trd pl
+
+Revision 1.20  2002/11/24 17:34:01  revo
+-->
+</vortaro>

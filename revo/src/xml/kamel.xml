@@ -1,0 +1,137 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+  <art mrk="$Id: kamel.xml,v 1.27 2013/09/01 15:10:54 revo Exp $">
+    <kap>
+      <ofc>*</ofc>
+      <rad>kamel</rad>/o
+    </kap>
+
+    <drv mrk="kamel.0o">
+      <kap>
+        <ofc>*</ofc>
+        <tld/>o
+      </kap>
+      <snc mrk="kamel.0o.ZOO">
+        <uzo tip="fak">ZOO</uzo>
+        <dif>
+          <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:zoologiaj_genroj">Genro</ref> el familio <ref
+      tip="malprt"
+          cel="kameled.0oj"><tld/>edoj</ref>
+          (<trd lng="la">Camelus</trd>), kun unu (<ref tip="sub"
+          cel="dromed.0o.ZOO">dromedaro</ref>) a&ubreve; du
+          (<ref tip="sub" cel="baktri.b0akamelo.ZOO">baktria
+          kamelo</ref>) &gcirc;iboj &ccirc;e la dorso, vivanta en Azio
+          kaj Afriko:
+          <ekz>
+            en la komenco pa&scirc;is unu&gcirc;iba <tld/>o kun blankaj
+            haroj,
+            unu el la unuaj kiujn oni kaptis en la dezerto
+            <fnt><bib>Far2</bib>, <lok>&ccirc;ap. 21a.</lok></fnt>;
+          </ekz>
+          <ekz>
+            estas pli facile por <tld/>o iri tra trueton de kudrilo,
+            ol por ri&ccirc;ulo eniri en la regnon de Dio
+            <fnt><bib>NT</bib>. <lok>&Mar; 10:25</lok></fnt>;
+          </ekz>
+          <ekz>
+            kion vi faris, juna <ind><tld/>ino</ind> rapidpieda,
+            petolanta sur sia vojo
+            <fnt><bib>MT</bib>, <lok>&Jer; 2:23</lok></fnt>.
+            <trd lng="ca">camella</trd>
+            <trdgrp lng="nl">
+              <trd>merrie<klr tip="ind"> (v.kameel)</klr></trd>,
+              <trd>vrouwelijke <ind>kameel</ind></trd>
+            </trdgrp>
+            <trd
+            lng="ru">&c_v;&c_je;&c_r;&c_b;&c_l;&c_ju;&c_d;&c_i;&c_c;&c_a;</trd>
+          </ekz>
+        </dif>
+        <trd lng="be">&c_v;&c_ja;&c_r;&c_b;&c_l;&c_ju;&c_d;</trd>
+        <trd lng="bg">&c_k;&c_a;&c_m;&c_i;&c_l;&c_a;</trd>
+        <trd lng="br">ka&ntilde;val</trd>
+        <trd lng="ca">camell</trd>
+        <trd lng="de">Kamel</trd>
+        <trd lng="en">camel</trd>
+        <trd lng="es">camello</trd>
+        <trd lng="fr">chameau</trd>
+        <trd lng="hu">teve</trd>
+        <trd lng="nl">kameel</trd>
+        <trd lng="pl">wielb&lstroke;&aogonek;d</trd>
+        <trd lng="ru">&c_v;&c_je;&c_r;&c_b;&c_l;&c_ju;&c_d;</trd>
+        <trd lng="sv">kamel</trd>
+        <trd lng="tr">deve</trd>
+      </snc>
+    </drv>
+
+    <drv mrk="kamel.de0igxi">
+      <kap>de<tld/>i&gcirc;i</kap>
+      <snc>
+        <dif>
+          Lasi la rajdadon de <tld/>o:
+          <ekz>
+            <klr>[unu karavanano]</klr> de<tld/>i&gcirc;is, donis la
+            bridon
+            al kunrajdanto, kaj rapidpa&scirc;e venis anta&ubreve;en
+            <fnt><bib>I&scirc;tar</bib><lok>&ccirc;ap. 1</lok></fnt>.
+          </ekz>
+        </dif>
+      </snc>
+      <trd lng="ca">desmuntar del camell</trd>
+      <trd lng="fr">descendre de chameau</trd>
+      <trd lng="nl">afstijgen<klr tip="ind"> (v.e.kameel)</klr></trd>
+      <trd lng="pl">zsiada&cacute; z
+      <ind>wielb&lstroke;&aogonek;da</ind></trd>
+      <trd lng="ru">&c_s;&c_p;&c_je;&c_sh;&c_i;&c_t;&c_mol;&c_s;&c_ja;
+      &c_s; &c_v;&c_je;&c_r;&c_b;&c_l;&c_ju;&c_d;&c_a;</trd>
+    </drv>
+  </art>
+  <!--
+  $Log: kamel.xml,v $
+  Revision 1.27  2013/09/01 15:10:54  revo
+  Wolfram Diestel: referenco al listo zoo genroj
+
+  Revision 1.26  2012/08/25 09:10:24  revo
+  Marc Rausell: + trd ca
+
+  Revision 1.25  2011/06/29 05:10:14  revo
+  Sebastian Cyprych: +ref al baktria ~o
+
+  Revision 1.24  2009/08/23 16:33:03  revo
+  Paul Peeraerts: +trd nl
+
+  Revision 1.23  2009/08/08 16:33:02  revo
+  Wieland Pusch: +trd bg
+
+  Revision 1.22  2009/07/17 16:31:07  revo
+  Sebastian Cyprych: +trd pl
+
+  Revision 1.21  2007/02/17 17:30:49  revo
+  Sergio Pokrovskij: +ekz
+
+  Revision 1.20  2005/06/09 17:41:27  revo
+  Yury Finkel: +trd ru
+
+  Revision 1.19  2005/04/21 17:17:30  revo
+  Alan ar Gall: +trd br
+
+  Revision 1.18  2004/03/28 16:54:17  revo
+  Marc Bavant: +drv de~igxi
+
+  Revision 1.17 2004/02/09 17:32:23 revo
+  Dmitri Gabinski: +trd be
+
+  Revision 1.16 2003/05/19 19:42:34 revo
+  Alejandro Mejia Greene: ald 1 his trd
+
+  Revision 1.15 2002/07/03 19:04:09 revo
+  Jozefo Horvath: +trd hu
+
+  Revision 1.14 2001/09/05 19:05:02 revo
+  Jerano Zachrisson: +trd sv
+
+  Revision 1.13 2001/09/03 18:12:24 revo
+  -->
+</vortaro>

@@ -1,0 +1,138 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: akcide.xml,v 1.25 2015/07/04 08:37:29 revo Exp $">
+  <kap>
+    <ofc>2</ofc>
+    <rad>akcident</rad>/o
+  </kap>
+
+<drv mrk="akcide.0o">
+  <kap><tld/>o</kap>
+  <snc>
+    <dif>
+      Malfeli&ccirc;a, neatendita okazo:
+      <ekz>
+        hiera&ubreve; okazis grava  <tld/>o
+        sur la fervojo al Parizo.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_n;&c_ja;&c_sh;&c_ch;&c_a;&c_s;&c_n;&c_y;
+      	&c_v;&c_y;&c_p;&c_a;&c_d;&c_a;&c_k;</trd>,
+      <trd>&c_z;&c_d;&c_a;&c_r;&c_e;&c_n;&c_mol;&c_n;&c_je;</trd>
+    </trdgrp>
+    <trd lng="bg">&c_a;&c_v;&c_a;&c_r;&c_i;&c_ja;</trd>
+    <trdgrp lng="de">
+       <trd>Ungl&uuml;ck</trd>,
+       <trd>Unfall</trd>,
+       <trd>Ungl&uuml;cksfall</trd>
+    </trdgrp>
+    <trdgrp lng="fa">
+      <trd>&a_H;&a_A;&a_d;&a_th;&a_h;</trd>,
+      <trd>&a_s;&a_A;&a_n;&a_H;&a_h;</trd>
+    </trdgrp>
+    <trd lng="fr">accident</trd>
+    <trdgrp lng="hu">
+       <trd>baleset</trd>,
+       <trd>szerencs&eacute;tlens&eacute;g</trd></trdgrp>
+    <trd lng="id">[<ind>celaka</ind>] kecelakaan</trd>
+    <trdgrp lng="it">
+      <trd>accidente</trd>,
+      <trd>sinistro<klr> (incidente)</klr></trd>,
+      <trd>incidente</trd>,
+      <trd>imprevisto<klr> (accidente)</klr></trd>
+    </trdgrp>
+    <trd lng="nl">ongeval</trd>
+    <trdgrp lng="pt">
+      <trd>acidente</trd>,
+      <trd>sinistro</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_n;&c_je;&c_s;&c_ch;&c_a;&c_s;&c_t;&c_n;&c_y;&c_j;
+        &c_s;&c_l;&c_u;&c_ch;&c_a;&c_j;</trd>,
+      <trd>&c_a;&c_v;&c_a;&c_r;&c_i;&c_ja;</trd>,
+      <trd>&c_p;&c_r;&c_o;&c_i;&c_s;&c_sh;&c_je;&c_s;&c_t;&c_v;&c_i;&c_je;</trd>
+    </trdgrp>
+    <trd lng="sk">nehoda</trd>
+    <trd lng="sv">olycksh&auml;ndelse</trd>
+    <trd lng="tp">pakala</trd>
+  </snc>
+  <snc mrk="akcide.0o.FIL">
+    <uzo tip="fak">FIL</uzo>
+    <dif>
+      Okaza, abstraktebla eco de objekto a&ubreve; fenomeno, kiuj povas
+      konservi sian esencon anka&ubreve; sen &gcirc;i:
+      <ekz>
+        la beleco estas <tld/>o kiun egale bone povas posedi
+        virtulo a&ubreve; pekulo.
+      </ekz>
+    </dif>
+    <ref tip="ant" cel="atribu1.0o.FIL">atributo</ref>
+    <adm>
+      En PIV tiu nocio nomi&gcirc;as akcidenco. Indas esplori &ccirc;u &gcirc;i
+      estas tiel uzata de fakuloj.
+      <aut>HJ</aut>
+    </adm>
+    <trdgrp lng="de">
+     <trd>Akzidens</trd>,
+     <trd>Zufallseigenschaft</trd>
+    </trdgrp>
+    <trd lng="fa">&a_ayn;&a_fatha;&a_r;&a_fatha;&a_D;</trd>
+    <trd lng="fr">accident</trd>
+    <trd lng="hu">akcidencia</trd>
+    <trd lng="it">accidente</trd>
+    <trd lng="pt">acidente</trd>
+    <trd lng="ru">&c_a;&c_k;&c_c;&c_i;&c_d;&c_je;&c_n;&c_c;&c_i;&c_ja;</trd>
+  </snc>
+  <trd lng="ca">accident</trd>
+  <trdgrp lng="cs">
+    <trd>havárie</trd>,
+    <trd>nehoda</trd>,
+    <trd>zejm. automobilní</trd>
+  </trdgrp>
+  <trd lng="en">accident</trd>
+  <trd lng="es">accidente</trd>
+  <trd lng="oc">accident</trd>
+  <trdgrp lng="sk">
+    <trd>havária</trd>,
+    <trd>nehoda, havária</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: akcide.xml,v $
+Revision 1.25  2015/07/04 08:37:29  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.24  2015/06/29 16:39:29  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.23  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.22  2014/11/14 08:10:16  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.21  2013/08/17 01:10:15  revo
+Joop Eggen: +trd bg
+
+Revision 1.20  2013/05/26 14:10:16  revo
+Benito Subejrano: + trd ca oc
+
+Revision 1.19  2010/04/30 12:25:21  revo
+Antonio Codazzi: +trd it
+
+Revision 1.18  2009/06/21 16:31:06  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.17  2007/01/07 17:31:27  revo
+Russ Williams: +trd tp
+
+Revision 1.16  2002/10/01 16:33:54  revo
+Christopher Zervic: + ang
+
+Revision 1.15  2002/09/07 17:38:33  revo
+-->
+</vortaro>

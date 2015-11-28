@@ -1,0 +1,189 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: nord.xml,v 1.31 2015/07/04 08:37:40 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>nord</rad>/o
+</kap>
+
+<drv mrk="nord.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <uzo tip="fak">GEOG</uzo>
+  <snc mrk="nord.0o.horizonta">
+    <dif>
+      Unu el la kvar geografiaj &ccirc;efpunktoj, parto de la mondo, kie
+      trovi&gcirc;as la polusa stelo.
+    </dif>
+  </snc>
+  <snc mrk="nord.0o.absoluta">
+    <dif>
+      Parto de la terglobo ku&scirc;anta en direkto al la polusa stelo:
+      <ekz>
+        rigardi <ind><tld/>en</ind><fnt>Z</fnt>.
+        <trd lng="ca">cap al nord</trd>
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_o;&c_w;&c_n;&c_a;&c_ch;</trd>
+  <trdgrp lng="br">
+    <trd>hanternoz<klr tip="ind"> (norzh)</klr></trd>,
+    <trd>norzh</trd>
+  </trdgrp>
+  <trdgrp lng="ca">
+    <trd>nord</trd>,
+    <trd>septentri&oacute;</trd>
+  </trdgrp>
+  <trd lng="cs">sever</trd>
+  <trd lng="de">Norden</trd>
+  <trd lng="el">&beta;&omikron;&rho;&rho;&alfa_ton;&sigma_fina;</trd>
+  <trd lng="en">north</trd>
+  <trd lng="es">norte</trd>
+  <trd lng="fr">nord</trd>
+  <trd lng="hu">&eacute;szak</trd>
+  <trd lng="id">utara</trd>
+  <trd lng="nl">noorden</trd>
+  <trd lng="pl">p&oacute;&lstroke;noc</trd>
+  <trd lng="pt">norte</trd>
+  <trd lng="ru">&c_s;&c_je;&c_v;&c_je;&c_r;</trd>
+  <trd lng="sk">sever</trd>
+  <trd lng="vo">nol&uuml;d</trd>
+  <trdgrp lng="zh">
+    <trd>&#21271;<klr> [b&ecaron;i]</klr></trd>,
+    <trd>&#21271;&#26041;<klr> [b&ecaron;if&#257;ng]</klr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="nord.0a">
+  <kap><tld/>a</kap>
+  <snc>
+    <dif>
+      Situanta en <tld/>o a&ubreve; de tie vena:
+      <ekz>
+        la monto Cion, en la <tld/>a regiono, La urbo de la granda Re&gcirc;o
+        <fnt><bib>MT</bib>, <lok>&Psa; 48:2</lok></fnt>;
+      </ekz>
+      <ekz>
+        <ctl>Norda naturo</ctl>
+        <klr>(poemaro de Hilda Dresen)</klr>
+        <fnt><aut>Hilda Dresen</aut>, <vrk>Norda naturo. - La Laguna:
+        Stafeto, 1967.</vrk></fnt>;
+      </ekz>
+      <ekz>
+        <ind><tld/>a vento</ind>;
+        <trdgrp lng="ca">
+          <trd>tramuntana</trd>,
+          <trd>aquil&oacute;</trd>,
+          <trd>b&ograve;rees</trd>
+        </trdgrp>
+        <trd lng="nl">noorderwind</trd>
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="br">
+    <trd>hanternoz<klr tip="ind"> (norzh)</klr></trd>,
+    <trd>norzh</trd>
+  </trdgrp>
+  <trdgrp lng="ca">
+    <trd>septentrional</trd>,
+    <trd>boreal</trd>
+  </trdgrp>
+  <trd lng="cs">severský</trd>
+  <trd lng="de">n&ouml;rdlich</trd>
+  <trdgrp lng="fr">
+    <trd>bor&eacute;al</trd>,
+    <trd>du <ind>nord</ind></trd>,
+    <trd>septentrional</trd>
+  </trdgrp>
+  <trd lng="hu">&eacute;szaki</trd>
+  <trd lng="nl">noordelijk</trd>
+  <trd lng="pl">p&oacute;&lstroke;nocny</trd>
+  <trd lng="ru">&c_s;&c_je;&c_v;&c_je;&c_r;&c_n;&c_y;&c_j;</trd>
+  <trd lng="sk">severský</trd>
+</drv>
+
+<drv mrk="nord.0ede">
+  <kap><tld/>e de</kap>
+  <gra><vspec>prepozicia&jcirc;o</vspec></gra>
+  <snc mrk="nord.0ede.en">
+    <dif>
+      <ref tip="super" cel="en.0.kie">En</ref> la <tld/>a parto de.
+    </dif>                                         
+    <trdgrp lng="br">
+      <trd>e <ind>hanternoz</ind></trd>,            
+      <trd>e <ind>norzh</ind></trd>
+    </trdgrp>
+    <trd lng="de">im <ind>Norden</ind> von</trd>
+    <trd lng="hu"><klr tip="amb">(vmi)</klr> &eacute;szaki r&eacute;sz&eacute;n</trd>
+    <trd lng="nl">in het <ind>noorden</ind> van</trd>
+    <trd lng="pl">na <ind>p&oacute;&lstroke;nocy</ind></trd>
+    <trd lng="ru">&c_n;&c_a; <ind>&c_s;&c_je;&c_v;&c_je;&c_r;&c_je;</ind><klr tip="amb">
+    (&c_ch;&c_je;&c_g;&c_o;-&c_l;.)</klr></trd>
+  </snc>
+  <snc mrk="nord.0ede.ekster">
+    <dif>
+      <ref tip="super" cel="ekster.0.kie">Ekster</ref>, pli <tld/>e ol:
+      <ekz>
+        Belgujo ku&scirc;as <ind><tld/>e de Francujo</ind>;
+      </ekz>
+      <ekz>
+        la Orkadoj &ndash; insuloj, situantaj norde de Skotlando
+        <fnt>
+        <aut>W. H. Simcock</aut>,
+        <vrk>Vizito al la nordaj insuloj</vrk>,
+        <bib>Monato</bib>,
+        <lok>jaro 1999a, numero 9a, p. 18a</lok>
+        </fnt>.
+      </ekz>
+    </dif>                                                  
+    <trdgrp lng="br">
+      <trd>en <ind>hanternoz</ind> da</trd>,            
+      <trd>en <ind>norzh</ind> da</trd>
+    </trdgrp>
+    <trd lng="de">n&ouml;rdlich von</trd>
+    <trd lng="hu"><klr tip="amb">(vmit&odblac;l)</klr> &eacute;szakra</trd>
+    <trd lng="nl">ten het <ind>noorden</ind> van</trd>
+    <trd lng="pl">na <ind>p&oacute;&lstroke;noc</ind> od</trd>
+    <trdgrp lng="ru">
+      <trd>&c_k; <ind>&c_s;&c_je;&c_v;&c_je;&c_r;&c_u;</ind> &c_o;&c_t;</trd>,
+      <trd>&c_s;&c_je;&c_v;&c_je;&c_r;&c_n;&c_je;&c_je;<klr tip="amb"> (&c_ch;&c_je;&c_g;&c_o;-&c_l;.)</klr></trd>
+    </trdgrp>
+  </snc>
+  <trd lng="ca">al nord de</trd>
+  <trd lng="fr">au nord de</trd>
+</drv>
+
+</art>
+<!--
+$Log: nord.xml,v $
+Revision 1.31  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.30  2015/06/29 16:33:21  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.29  2014/06/11 17:10:23  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.28  2013/09/03 06:10:11  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.27  2011/12/04 12:10:11  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.26  2009/07/08 16:30:57  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.25  2008/12/01 16:47:20  revo
+Marc Bavant: N~a Maro: sxovis gxustaloken
+
+Revision 1.24  2006/10/24 16:30:27  revo
+Wieland Pusch: +trd de
+Revision 1.23  2005/06/16 17:43:18  revo
+Alan ar Gall: +trd br
+Revision 1.22  2005/05/24 16:35:32  revo
+Jozefo Horvath: +trd hu
+Revision 1.21  2005/04/25 16:31:39  revo
+-->
+</vortaro>

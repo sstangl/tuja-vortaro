@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: farmak.xml,v 1.19 2015/07/04 08:37:34 revo Exp $">
+<kap>
+  <rad>farmakologi</rad>/o <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="farmak.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="farmak.0o.MED">
+    <uzo tip="fak">MED</uzo>
+    <dif>
+      Teorio pri la medikamentoj kaj ilia uzo.  
+    </dif>
+  </snc>
+  <ref tip="vid" cel="farmac.0o">farmacio</ref>
+  <trd lng="be">&c_f;&c_a;&c_r;&c_m;&c_a;&c_k;&c_a;&c_l;&c_jo;&c_g;&c_ib;&c_ja;</trd>
+  <trd lng="bg">&c_f;&c_a;&c_r;&c_m;&c_a;&c_k;&c_o;&c_l;&c_o;&c_g;&c_i;&c_ja;</trd>
+  <trd lng="ca">farmacologia</trd>
+  <trd lng="de">Pharmakologie</trd>
+  <trd lng="en">pharmacology</trd>
+  <trd lng="es">farmacolog&iacute;a</trd>
+  <trd lng="fr">pharmacologie</trd>
+  <trdgrp lng="hu">
+    <trd>farmakol&oacute;gia</trd>,
+    <trd>gy&oacute;gyszerkutat&aacute;s</trd>
+  </trdgrp>
+  <trd lng="id">farmakologi</trd>
+  <trd lng="nl">farmacologie</trd>
+  <trd lng="pl">farmakologia</trd>
+  <trd lng="pt">farmacologia</trd>
+  <trd lng="ru">&c_f;&c_a;&c_r;&c_m;&c_a;&c_k;&c_o;&c_l;&c_o;&c_g;&c_i;&c_ja;</trd>
+  <trd lng="sk">lekárnická veda</trd>
+  <trdgrp lng="cs">
+    <trd>farmakologie</trd>,
+    <trd>lékárnická věda</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: farmak.xml,v $
+Revision 1.19  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2014/11/12 08:10:30  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.16  2013/04/15 11:10:18  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.15  2011/12/21 15:10:13  revo
+Jeromo Vasxe: + mrk
+
+Revision 1.14  2011/01/08 12:10:20  revo
+Russ Williams: +ref farmacio
+
+Revision 1.13  2010/01/17 17:30:17  revo
+Wieland Pusch: +trd bg
+
+Revision 1.12  2010/01/16 17:30:21  revo
+Russ Williams: +trd en
+
+Revision 1.11  2007/05/16 16:30:41  revo
+Tulio Flores: +tr pt
+
+Revision 1.10  2005/12/05 17:31:47  revo
+-->
+</vortaro>

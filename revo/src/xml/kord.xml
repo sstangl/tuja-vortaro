@@ -1,0 +1,116 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: kord.xml,v 1.21 2015/07/04 08:37:38 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>kord</rad>/o
+</kap>
+<drv mrk="kord.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="kord.0o.MUZ">
+    <uzo tip="fak">MUZ</uzo>
+    <dif>
+      Fadeno el bestaj intestoj a&ubreve; el metalo, uzata en tianomaj
+      <ref tip="malprt" cel="instru2.kord0o"><tld/>instrumentoj</ref>,
+      kiun oni vibrigas per fingra pin&ccirc;ado (ekzemple en gitaro),
+      per plektro (en &scirc;amiseno), per ar&ccirc;o (en violono),
+      per bastonetoj (en zimbalono), a&ubreve; per me&hcirc;anikaj
+      marteletoj (en piano):
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        la &gcirc;is ekstremeco stre&ccirc;ita <tld/>o de sentoj
+        krevis<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        la propono tu&scirc;is <tld/>on <klr>(animan inklinon)</klr>
+        de ni mem &gcirc;is hodia&ubreve; ne rimarkitan<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        <ctl>Stre&ccirc;ita <tld/>o</ctl>
+        <klr>(poemaro de Kalo&ccirc;ajo)</klr>
+        <fnt><aut>Kalocsay K&aacute;lm&aacute;n</aut>,
+<vrk>Stre&ccirc;ita kordo: poemoj. -
+        Budape&scirc;to: Literatura Mondo, 1931</vrk></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="ca">corda<klr> (d'instrument)</klr></trd>
+    <trd lng="de">Saite</trd>
+    <trdgrp lng="en">
+      <trd>string</trd>,
+      <trd>cord</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>corde<klr> (d'instrument de musique)</klr></trd>
+    </trdgrp>
+    <trd lng="hu">h&uacute;r</trd>
+    <trd lng="pl">struna</trd>
+    <trd lng="pt">corda<klr tip="amb"> (m&uacute;s.)</klr></trd>
+    <trd lng="ru">&c_s;&c_t;&c_r;&c_u;&c_n;&c_a;</trd>
+  </snc>
+  <trd lng="be">&c_s;&c_t;&c_r;&c_u;&c_n;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>chorda</trd>,
+    <trd>struna hřbetní</trd>
+  </trdgrp>
+  <trd lng="es">cuerda <klr>(de instrumento musical)</klr></trd>
+  <trd lng="nl">snaar</trd>
+  <trdgrp lng="sk">
+    <trd>chorda</trd>,
+    <trd>povrazec</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kord.kunvibra0o">
+  <kap>kunvibra <tld/>o</kap> <fnt><bib>MuzTerm</bib></fnt>
+  <snc mrk="kord.kunvibra0o.MUZ">
+    <uzo tip="fak">MUZ</uzo>
+    <dif>
+      Netu&scirc;ata kordo de
+      <ref tip="malprt" cel="instru2.kord0o">kordinstrumento</ref>,
+      kiu pro proporcia longo resone vibras, kiam oni sonigas alian
+      kordon.
+    </dif>
+  </snc>
+  <trd lng="ca">corda harm&ograve;nica</trd>
+  <trdgrp lng="fr">
+    <trd>corde sympathique</trd>
+  </trdgrp>
+  <trd lng="hu">rezon&aacute;torh&uacute;r</trd>
+  <trd lng="nl">resonanssnaar</trd>
+</drv>
+</art>
+<!--
+$Log: kord.xml,v $
+Revision 1.21  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.19  2014/09/18 08:10:28  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.18  2012/07/23 14:10:19  revo
+Marc Rausell: + trd ca
+
+Revision 1.17  2009/09/10 16:33:09  revo
+Paul Peeraerts: +nl
+
+Revision 1.16  2006/11/15 17:30:46  revo
+Tulio Flores: +tr pt
+
+Revision 1.15  2006/09/17 16:30:43  revo
+Russ Williams: aldonas anglan "cord"
+
+Revision 1.14  2004/08/14 16:31:19  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.13  2004/05/02 16:32:14  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.12  2004/02/29 17:31:40  revo
+-->
+</vortaro>

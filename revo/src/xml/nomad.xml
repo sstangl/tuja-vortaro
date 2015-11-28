@@ -1,0 +1,200 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: nomad.xml,v 1.20 2015/07/04 08:37:40 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>nomad</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="nomad.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="nomad.0o.MOR">
+    <dif>
+      Ano de <tld/>anta, migrema popolo:
+      <ekz>
+        la biblia rakonto pri la pia <tld/>o Habel
+        kaj la fia terkulturisto Kain.
+      </ekz>
+    </dif>
+    <ref tip="sub" cel="beduen.0o">bedueno</ref>    
+  </snc>
+  <rim>
+    Konfuzebla kun
+    <ref tip="hom" cel="nom.0ado">nom&middot;ad&middot;o</ref>.
+  </rim>
+  <trd lng="be">&c_k;&c_a;&c_ch;&c_e;&c_w;&c_n;&c_ib;&c_k;</trd>
+  <trd lng="ca">n&ograve;mada</trd>
+  <trd lng="de">Nomade</trd>
+  <trd lng="el">&ny;&omikron_ton;&my;&alfa;&sigma_fina;</trd>
+  <trd lng="en">nomad</trd>
+  <trd lng="es">n&oacute;mada</trd>
+  <trd lng="fr">nomade<klr tip="ind"> (subst.)</klr></trd>
+  <trd lng="hu">nom&aacute;d</trd>  
+  <trd lng="nl">nomade</trd>
+  <trd lng="grc">&ny;&omikron;&my;&alfa_ton;&sigma_fina;</trd>
+  <trd lng="pl">koczownik</trd>
+  <trdgrp lng="pt">
+    <trd>n&ocirc;made</trd>,
+    <trd>n&ocirc;mada</trd>
+  </trdgrp>
+  <trd lng="ru">&c_k;&c_o;&c_ch;&c_je;&c_v;&c_n;&c_i;&c_k;</trd>
+  <trd lng="sv">nomad</trd>
+  <trd lng="tr">g&ouml;&ccedil;ebe</trd>
+  <trd lng="sk">menovanie <klr>(podľa mena)</klr></trd>
+  <trd lng="cs">jmenování <klr>(podle jména)</klr></trd>
+</drv>
+
+<drv mrk="nomad.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="nomad.0i.MOR">
+    <dif>
+      Lo&gcirc;i en sinsekvaj malsamaj lokoj,
+      la&ubreve; la sezonoj, la&ubreve; la disponeblaj naturaj porviva&jcirc;oj,
+      praktiki <tld/>ismon:
+      <ekz>
+        dum pluraj jaroj Abrahamo <tld/>is en Kanaano.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="migr.0i">migri</ref>,
+      <ref cel="vag.0i">vagi</ref>.
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_k;&c_a;&c_ch;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="cs">kočovat</trd>
+  <trd lng="fr">nomadiser</trd>
+  <trd lng="hu">nomadi&aacute;zl</trd>
+  <trd lng="nl">een <ind>nomadenbestaan</ind>leiden</trd>
+  <trd lng="pl">koczowa&cacute;</trd>
+  <trd lng="pt">praticar o <ind>nomadismo</ind></trd>
+  <trd lng="ru">&c_k;&c_o;&c_ch;&c_je;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="sk">kočovať</trd>
+  <trd lng="tr">g&ouml;&ccedil;mek</trd>
+</drv>
+
+<drv mrk="nomad.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="nomad.0a.MOR">
+    <dif>
+      Rilata al <tld/>oj, de <tld/>oj,
+      mal<ref tip="ant" cel="hejm.fiks0a.MOR">fikshejma</ref>:
+      <ekz>
+        <tld/>a klano, popolo, poezio.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_k;&c_a;&c_ch;&c_a;&c_v;&c_y;</trd>
+  <trd lng="ca">n&ograve;mada</trd>
+  <trdgrp lng="cs">
+    <trd>kočovný</trd>,
+    <trd>nomádský</trd>
+  </trdgrp>
+  <trd lng="de">nomadisch</trd>
+  <trd lng="en">nomadic</trd>
+  <trd lng="es">n&oacute;mada</trd>
+  <trd lng="fr">nomade<klr tip="ind"> (adj.)</klr></trd>
+  <trd lng="hu">nom&aacute;d</trd>
+  <trd lng="nl">nomaden-</trd>
+  <trdgrp lng="pt">
+    <trd>n&ocirc;made</trd>,
+    <trd>n&ocirc;mada</trd>
+  </trdgrp>
+  <trd lng="ru">&c_k;&c_o;&c_ch;&c_je;&c_v;&c_o;&c_j;</trd>
+  <trd lng="sk">kočovný</trd>
+</drv>
+
+<drv mrk="nomad.0ejo">
+  <kap><tld/>ejo</kap>
+  <snc mrk="nomad.0ejo.teritorio">
+    <dif>
+      Teritorio en kiu <tld/>as koncerna tribo:
+      <ekz>
+        la sekeco igis la hunojn ser&ccirc;i novajn <tld/>ejojn.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="nomad.0ejo.tendaro">
+    <dif>
+      Tendaro, provizora lo&gcirc;loko de <tld/>a homgrupo:
+      <ekz>
+        sekve de la unua batalo la kompanio de princo
+        Igoro prirabis grandan <tld/>ejon.
+      </ekz>
+    </dif>
+    <trdgrp lng="ru">
+      <trd>&c_k;&c_o;&c_ch;&c_je;&c_v;&c_mol;&c_je;</trd>,
+      <trd>&c_s;&c_t;&c_o;&c_ja;&c_n;&c_k;&c_a;</trd>
+    </trdgrp>
+    <trd lng="tr">g&ouml;&ccedil;ebe kona&gbreve;&inodot;</trd>
+  </snc>
+  <trd lng="be">&c_k;&c_a;&c_ch;&c_e;&c_w;&c_je;</trd>
+  <trd lng="hu">sz&aacute;ll&aacute;ster&uuml;let</trd>  
+  <trd lng="pl">koczowisko</trd>
+  <trd lng="ru">&c_k;&c_o;&c_ch;&c_je;&c_v;&c_mol;&c_je;</trd>
+</drv>
+
+<drv mrk="nomad.0ismo">
+  <kap><tld/>ismo</kap>
+  <snc mrk="nomad.0ismo.MOR">
+    <dif>
+      Vivmaniero de migrantaj homgrupoj,
+      ofte el brutobredistoj irantaj la&ubreve; sezonaj
+      kaj klimataj &scirc;an&gcirc;i&gcirc;oj de la pa&scirc;tejoj.
+    </dif>
+  </snc>
+  <trd lng="be">&c_k;&c_a;&c_ch;&c_e;&c_w;&c_n;&c_ib;&c_c;&c_t;&c_v;&c_a;</trd>
+  <trd lng="ca">nomadisme</trd>
+  <trdgrp lng="cs">
+    <trd>kočovnictví</trd>,
+    <trd>nomádizmus</trd>,
+    <trd>nomádství</trd>
+  </trdgrp>
+  <trd lng="de">Nomadismus</trd>
+  <trd lng="en">nomadism</trd>
+  <trd lng="es">nomadismo</trd>
+  <trd lng="fr">nomadisme</trd>
+  <trdgrp lng="nl">
+    <trd>nomadenbestaan</trd>,
+    <trd>nomadisme</trd>
+  </trdgrp>
+  <trd lng="pl">koczownictwo</trd>
+  <trd lng="pt">nomadismo</trd>
+  <trd lng="ru">&c_k;&c_o;&c_ch;&c_je;&c_v;&c_n;&c_i;&c_ch;&c_je;&c_s;&c_t;&c_v;&c_o;</trd>
+  <trd lng="sk">nomádstvo</trd>
+  <trd lng="tr">g&ouml;&ccedil;ebe hayat&inodot;</trd>
+</drv>
+</art>
+<!--
+$Log: nomad.xml,v $
+Revision 1.20  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:33:21  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2013/05/24 01:10:11  revo
+Jeromo Vasxe: + mrk
+
+Revision 1.17  2009/10/15 16:31:53  revo
+Paul Peeraerts: +nl
+
+Revision 1.16  2006/07/02 16:31:39  revo
+Tulio Flores: +tr pt
+
+Revision 1.15  2005/03/31 16:33:30  revo
+Raul Salinas Monteagudo: +trd ca,es
+
+Revision 1.14  2004/06/22 16:30:11  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.13  2004/03/15 17:30:32  revo
+Dennis Wibrow: +trd germ
+
+Revision 1.12  2004/02/20 17:30:44  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.11  2002/06/17 17:32:24  revo
+-->
+</vortaro>

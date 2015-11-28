@@ -1,0 +1,459 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: deriv.xml,v 1.45 2015/07/04 08:37:32 revo Exp $">
+<kap>
+  <ofc>4</ofc> <rad>deriv</rad>/i
+</kap>
+<drv mrk="deriv.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="deriv.0i.GRA">
+    <uzo tip="fak">GRA</uzo>
+    <dif>
+      Devenigi vorton de alia pli simpla:
+      <ekz>
+        la vorto &leftquot;homaro&rightquot; <tld/>i&gcirc;as de &leftquot;homo&rightquot;;
+      </ekz>
+      <ekz>
+        <tld/>ita vorto.
+      </ekz>
+    </dif>
+    <trd lng="de">ableiten</trd>
+    <trd lng="en">derive</trd>
+    <trd lng="es">derivar</trd>
+    <trd lng="pt">derivar <klr tip="amb">(palavra)</klr></trd>
+    <trdgrp lng="ru">
+      <trd>&c_p;&c_r;&c_o;&c_i;&c_z;&c_v;&c_je;&c_s;&c_t;&c_i; <klr>(&c_s;&c_l;&c_o;&c_v;&c_o; &c_o;&c_t; &c_o;&c_s;&c_n;&c_o;&c_v;&c_y; &c_i;
+      &c_t;.&c_p;.)</klr></trd>,
+      <trd>&c_o;&c_b;&c_r;&c_a;&c_z;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="deriv.0i.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>MatTerm</bib>, <lok>p. 20</lok></fnt>
+    <uzo tip="klr">(fakula &jcirc;argono)</uzo>
+    <dif>
+      <klr>(<ref cel="funkci.0o.MAT">funkcion</ref>)</klr>
+      Kalkuli ties <ref cel="deriv.0ajxo.MAT"><tld/>a&jcirc;on</ref>.
+    </dif>
+    <trdgrp lng="de">
+      <trd>ableiten</trd>,
+      <trd>differenzieren</trd>
+    </trdgrp>
+    <trd lng="en">differentiate</trd>
+    <trdgrp lng="pl">
+      <trd>r&oacute;&zdot;niczkowa&cacute;</trd>,
+      <trd>wyznacza&cacute; pochodn&aogonek;</trd>
+    </trdgrp>
+    <trd lng="pt">derivar <klr tip="amb">(mat.)</klr></trd>
+    <trdgrp lng="ru">
+      <trd>&c_d;&c_i;&c_f;&c_f;&c_je;&c_r;&c_je;&c_n;&c_c;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>,
+      <trd>&c_n;&c_a;&c_j;&c_t;&c_i; <ind>&c_p;&c_r;&c_o;&c_i;&c_z;&c_v;&c_o;&c_d;&c_n;&c_u;&c_ju;</ind></trd>
+    </trdgrp>
+    <trd lng="sk">derivova&tcaron;</trd>
+  </snc>
+  <trd lng="ca">derivar</trd>
+  <trdgrp lng="cs">
+    <trd>odvodit</trd>,
+    <trd>odvozovat</trd>
+  </trdgrp>
+  <trd lng="fr">d&eacute;river</trd>
+  <trd lng="sk">odvodzovať</trd>
+</drv>
+
+<drv mrk="deriv.0ado">
+  <kap><tld/>ado</kap>
+  <snc mrk="deriv.0ado.GRA">
+    <uzo tip="fak">GRA</uzo>
+    <dif>
+      Ago de <refgrp tip="vid">
+      <ref cel="deriv.0i.GRA">derivi<sncref/></ref></refgrp>:
+      <ekz> la <tld/>ado okazas en Esperanto la&ubreve; la principo de neceso
+      kaj sufi&ccirc;o, tio estas, ke oni devas uzi tiom da elementoj, kiom
+      estas
+      necese
+    por la difino de la ideo, sed ne pli multajn ol sufi&ccirc;as por la
+    klareco de la esprimo
+      <fnt><bib>LtE</bib></fnt></ekz>.
+    </dif>
+    <rim> Kelkaj pekas kontra&ubreve; la principo de sufi&ccirc;o, trouzante la
+    sufiksojn -ad/, -et/, -eg/, ktp...:<ekz> mi lern<em>ad</em>as
+    Esperanton</ekz>. La verbo jam per si mem indikas da&ubreve;ran agon, kaj
+    tio evidenti&gcirc;as el la kunteksto, ke -ad/ estas superflua. Oni uzu do
+    la sufiksojn nur tiam, kiam ili vere estas necesaj.
+    </rim>
+    <trd lng="fr">d&eacute;rivation</trd>
+    </snc>
+   <snc mrk="deriv.0ado.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>MatTerm</bib>, <lok>p. 20</lok></fnt>
+    <uzo tip="klr">(fakula &jcirc;argono)</uzo>
+    <dif>
+      <klr>(<ref cel="funkci.0o.MAT">funkcion</ref>)</klr>
+      Ago de kalkuli ties <ref
+      cel="deriv.0ajxo.MAT"><tld/>a&jcirc;on<sncref/></ref>.
+    </dif>
+    <trd lng="fr">calcul de d&eacute;riv&eacute;e</trd>
+    </snc>
+  <trdgrp lng="cs">
+    <trd>derivace</trd>,
+    <trd>derivování</trd>
+  </trdgrp>
+  <trd lng="sk">derivovanie</trd>
+</drv>
+
+<drv mrk="deriv.0ajxo">
+  <kap><tld/>a&jcirc;o</kap>
+  <snc mrk="deriv.0ajxo.GRA">
+    <uzo tip="fak">GRA</uzo>
+    <dif>
+      Vorto <tld/>ita:
+      <ekz>
+        estis necese aldoni al vorto de la anta&ubreve;a eldono <klr>...</klr>
+        novajn <tld/>a&jcirc;ojn<klr>...</klr>: kunenzimo, gametujo
+        <fnt><aut>Kla&ubreve;do Roux</aut>, <bib>PIV2</bib>, <lok>&leftquot;enkonduko
+        al
+        la parto Matematiko, natursciencoj kaj teknikoj&rightquot;, p.
+        28a</lok></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="ca">mot derivat</trd>
+    <trd lng="de">abgeleitetes <ind>Wort</ind></trd>
+    <trd lng="es">derivativo</trd>
+    <trd lng="fr">d&eacute;riv&eacute;<klr tip="ind"> (mot)</klr></trd>
+    <trdgrp lng="ru">
+      <trd>&c_p;&c_r;&c_o;&c_i;&c_z;&c_v;&c_o;&c_d;&c_n;&c_a;&c_ja; &c_s;&c_l;&c_o;&c_v;&c_o;&c_f;&c_o;&c_r;&c_m;&c_a;</trd>,
+      <trd>&c_d;&c_je;&c_r;&c_i;&c_v;&c_a;&c_t;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="deriv.0ajxo.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <subsnc mrk="deriv.0ajxo.cxepunkto">
+      <fnt><bib>MatTerm</bib>, <lok>p. 20</lok></fnt>
+      <dif>
+        <klr>(de <ref tip="super" cel="funkci.0o.MAT">funkcio</ref>
+        <frm><k>f</k></frm> kun reela a&ubreve; kompleksa argumento, &ccirc;e
+        punkto <frm><k>a</k></frm> de &gcirc;ia fonto-aro)</klr>
+        La <ref cel="limes.0o.bildigo">limeso</ref>
+        <frm>lim<sub><k>h</k>&#8594;0</sub>
+        [<k>f</k>(<k>a</k>+<k>h</k>)-<k>f</k>(<k>a</k>)]/<k>h</k></frm>,
+        se &gcirc;i ekzistas:
+        <ekz>
+          por studi funkcion, oni ofte ser&ccirc;as la punktojn, &ccirc;e kiuj
+          la funkcio havas nulan <tld/>a&jcirc;on.
+        </ekz>
+      </dif>
+    </subsnc>
+    <subsnc mrk="deriv.0ajxo.funkcio">
+      <fnt><bib>EKV</bib>, <lok>&para;74</lok></fnt>
+      <dif>
+        <klr>(de <ref tip="super" cel="funkci.0o.MAT">funkcio</ref>
+        <frm><k>f</k></frm> kun reela a&ubreve; kompleksa argumento)</klr>
+        Tia funkcio <frm><k>f</k>&#8242;</frm>, ke
+        <frm><k>f</k>&#8242;(<k>x</k>)</frm> egalas al la <tld/>a&jcirc;o
+        <sncref ref="deriv.0ajxo.cxepunkto"/> de <frm><k>f</k></frm> &ccirc;e
+        punkto <frm><k>x</k></frm>:
+        <ekz>
+          la <tld/>a&jcirc;on de <frm><k>f</k></frm> oni kutime signas per
+          <frm><k>f</k>&#8242;</frm>
+          <klr>(legu: fo streko, a&ubreve;: fo unua)</klr>,
+          <frm>D<k>f</k></frm> <klr>(legu: do fo)</klr> a&ubreve;
+          <frm>d<k>f</k>/d<k>x</k></frm> <klr>(legu: do fo sur do
+          ikso)</klr>;
+        </ekz>
+        <ekz>
+          la dua <tld/>a&jcirc;o de <frm><k>f</k></frm>
+          estas la <tld/>a&jcirc;o de &gcirc;ia <tld/>a&jcirc;o;
+        </ekz>
+        <ekz>
+          unua <klr>(<frm><k>f</k>&#8242;</frm>)</klr>,
+          dua <klr>(<frm><k>f</k>&#8243;</frm>)</klr>,
+          tria <klr>(<frm><k>f</k>&#8244;</frm>)</klr>,...
+          <frm><k>n</k></frm>-a
+          <klr>(<frm><k>f</k><sup>(<k>n</k>)</sup></frm>)</klr>
+          <tld/>a&jcirc;oj
+          <klr>(legu: fo unua, dua, tria... noa)</klr>;
+        </ekz>
+        <ekz>
+          la <tld/>a&jcirc;o de
+          <frm><k>f</k>(<k>x</k>) = <k>a</k><k>x</k><sup>2</sup></frm>
+          estas
+          <frm><k>f</k>&#8242;(<k>x</k>) = 2<k>a</k><k>x</k></frm>;
+        </ekz>
+        <ekz>
+          la funkcio kosinuso estas <tld/>a&jcirc;o de sinuso.
+        </ekz>
+      </dif>
+      <ref tip="vid" cel="difere2.0o">diferencialo.</ref>
+    </subsnc>
+    <subsnc mrk="deriv.0ajxo.distribucio">
+      <dif>
+        <klr>(de <ref cel="distri2.0o">distribucio</ref>
+        <frm>T</frm>)</klr>
+        La distribucio <frm>T&#8242;</frm>, difinita per
+        <frm>T&#8242;(&phi;) = -T(&phi;&#8242;)</frm>:
+        <ekz>
+          la <ref cel="funkci.hevisida0o">hevisida funkcio</ref> ne
+          estas
+          <tld/>ebla kiel funkcio, sed &gcirc;ia distribucia <tld/>a&jcirc;o
+          estas la <ref cel="distri2.diraka0o">diraka distribucio</ref>;
+        </ekz>
+        <ekz>
+          la <frm><k>n</k></frm>-a <tld/>a&jcirc;o de la diraka distribucio
+          &jcirc;etas <frm>&phi;</frm> al
+          <frm>(-1)<sup><k>n</k></sup>&phi;<sup>(<k>n</k>)</sup>(0)</frm>.
+        </ekz>
+      </dif>
+    </subsnc>
+    <trd lng="ca">derivada</trd>
+    <trd lng="de">Ableitung</trd>
+    <trd lng="en">derivative</trd>
+    <trd lng="fr">d&eacute;riv&eacute;e<klr tip="ind"> (d'une fonction,
+    distribution)</klr></trd>
+    <trd lng="pl">pochodna</trd>
+    <trd lng="ru">&c_p;&c_r;&c_o;&c_i;&c_z;&c_v;&c_o;&c_d;&c_n;&c_a;&c_ja;</trd>
+  </snc>
+  <snc mrk="deriv.0ajxo.diferencialo">
+    <fnt><bib>EKV</bib>, <lok>&para;74</lok></fnt>
+    <dif>
+      <klr>(de bildigo, kies argumento ne estas skalaro)</klr>
+    </dif>
+    <ref tip="dif" cel="difere2.0o">diferencialo.</ref>
+  </snc>
+  <snc mrk="deriv.0ajxo.KEM">
+    <uzo tip="fak">KEM</uzo>
+    <dif>
+      &Hcirc;emia produkto (elementa kombino) <tld/>ita de alia per &hcirc;emia
+      procedo.
+    </dif>
+    <trd lng="de">Derivat</trd>
+    <trdgrp lng="ru">
+      <trd>&c_d;&c_je;&c_r;&c_i;&c_v;&c_a;&c_t;</trd>,
+      <trd>&c_p;&c_r;&c_o;&c_i;&c_z;&c_v;&c_o;&c_d;&c_n;&c_o;&c_je;<klr tip="amb">
+      (&c_v;&c_je;&c_shch;&c_je;&c_s;&c_t;&c_v;&c_o;)</klr></trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="deriv.0ajxo.EKON">
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      Financprodukto <tld/>ita de negocebla valorpapero.
+      La plej konataj estas templimkontraktoj kiel ekz-e akciaj opcioj.
+    </dif>
+    <trd lng="de">Derivat</trd>
+  </snc>
+  <trd lng="ca">derivat</trd>
+  <trd lng="sk">deriv&aacute;cia</trd>
+</drv>
+
+<drv mrk="deriv.0ebla">
+  <kap><tld/>ebla</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>EKV</bib>, <lok>&para;74</lok></fnt>
+  <snc mrk="deriv.0ebla.MAT">
+    <dif>
+      <klr>(p.p. <ref cel="funkci.0o.MAT">funkcio</ref>)</klr>
+      Kies <ref cel="deriv.0ajxo.MAT"><tld/>a&jcirc;o</ref> ekzistas:
+      <ekz>
+        ne &ccirc;iu kontinua funkcio estas <tld/>ebla;
+      </ekz>
+      <ekz>
+        la funkcio absoluta valoro estas derivebla &ccirc;ie
+        krom &ccirc;e <frm>0</frm>.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="holomo.0a">holomorfa.</ref>
+    <trd lng="ca">derivable</trd>
+    <trd lng="de">differenzierbar</trd>
+    <trd lng="en">differentiable</trd>
+    <trd lng="fr">d&eacute;rivable</trd>
+    <trd lng="pl">r&oacute;&zdot;niczkowalny</trd>
+    <trd lng="ru">&c_d;&c_i;&c_f;&c_f;&c_je;&c_r;&c_je;&c_n;&c_c;&c_i;&c_r;&c_u;&c_je;&c_m;&c_y;&c_j;</trd>
+  </snc>
+  <trd lng="sk">derivovate&lcaron;n&yacute;</trd>
+</drv>
+
+<drv mrk="deriv.logaritma0ajxo">
+  <kap>logaritma <tld/>a&jcirc;o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>PIV2</bib>, <lok>&leftquot;logaritma derivo&rightquot;</lok></fnt>
+  <snc>
+    <dif>
+      <klr>(de <ref tip="super" cel="funkci.0o.MAT">funkcio</ref>
+      <frm><k>f</k></frm>)</klr>
+      <ref cel="deriv.0ajxo.MAT"><tld lit="D"/>a&jcirc;o</ref> de la
+      <ref cel="logari.natura0o">natura logaritmo</ref>
+      de ties absoluta valoro:
+      <ekz>
+        la logaritma <tld/>a&jcirc;o de produto de funkcioj egalas
+        al la sumo de iliaj logaritmaj <tld/>a&jcirc;oj.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="ca"><ind>derivada</ind> logar&iacute;tmica</trd>
+  <trd lng="de">logarithmische <ind>Ableitung</ind></trd>
+  <trd lng="en">logarithmic <ind>derivative</ind></trd>
+  <trd lng="fr">d&eacute;riv&eacute;e logarithmique</trd>
+  <trd lng="pl">pochodna logarytmiczna</trd>
+  <trd lng="ru">&c_l;&c_o;&c_g;&c_a;&c_r;&c_i;&c_f;&c_m;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_a;&c_ja;
+  <ind>&c_p;&c_r;&c_o;&c_i;&c_z;&c_v;&c_o;&c_d;&c_n;&c_a;&c_ja;</ind></trd>
+</drv>
+
+<drv mrk="deriv.mal0ajxo">
+  <kap>mal<tld/>a&jcirc;o</kap>
+  <snc mrk="deriv.mal0ajxo.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>PIV1</bib></fnt>
+    <dif>
+      <klr>(de <ref tip="super" cel="funkci.0o.MAT">funkcio</ref>
+      <frm><k>f</k></frm> kun reela a&ubreve; kompleksa argumento)</klr>
+      &Ccirc;iu funkcio <frm><k>g</k></frm>, kies
+      <ref cel="deriv.0ajxo.MAT"><tld/>a&jcirc;o</ref> egalas al
+      <frm><k>f</k></frm>, t.e. <frm><k>g</k>&#8242; = <k>f</k></frm>.
+    </dif>
+    <ref tip="sin" cel="integr2.0o.malderivajxo">integralo.</ref>
+    <trd lng="ca">integral</trd>
+    <trdgrp lng="de">
+      <trd>Stammfunktion</trd>,
+      <trd>unbestimmtes <ind>Integral</ind></trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>antiderivative</trd>,
+      <trd>primitive</trd>,
+      <trd>indefinite <ind>integral</ind></trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>primitive</trd>,
+      <trd>int&eacute;grale ind&eacute;finie</trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>funkcja pierwotna</trd>,
+      <trd>ca&lstroke;ka nieoznaczona</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_p;&c_je;&c_r;&c_v;&c_o;&c_o;&c_b;&c_r;&c_a;&c_z;&c_n;&c_a;&c_ja; <ind>&c_f;&c_u;&c_n;&c_k;&c_c;&c_i;&c_ja;</ind></trd>,
+      <trd>&c_p;&c_r;&c_i;&c_m;&c_i;&c_t;&c_i;&c_v;&c_n;&c_a;&c_ja; <ind>&c_f;&c_u;&c_n;&c_k;&c_c;&c_i;&c_ja;</ind></trd>,
+      <trd>&c_n;&c_je;&c_o;&c_p;&c_r;&c_je;&c_d;&c_je;&c_l;&c_jo;&c_n;&c_n;&c_y;&c_j;
+      <ind>&c_i;&c_n;&c_t;&c_je;&c_g;&c_r;&c_a;&c_l;</ind></trd>
+    </trdgrp>
+    <trd lng="sk">integr&aacute;l</trd>
+  </snc>
+  <snc mrk="deriv.mal0ajxo.LIN">
+    <uzo tip="fak">LIN</uzo>
+    <dif>
+      Vorto kreita per forigo de &scirc;ajna afikso:
+      <ekz>
+        la vortoj <ctl>fra&ubreve;lo</ctl> kaj <ctl>kuzo</ctl> estas
+        fundamentaj mal<tld/>a&jcirc;oj el pli evidentaj formoj
+        <ctl>fra&ubreve;lino</ctl> kaj <ctl>kuzino</ctl>;
+      </ekz>
+      <ekz>
+        <ctl>avio</ctl>, <ctl>faco</ctl> kaj <ctl>gra&ubreve;</ctl> estas pli
+        novaj mal<tld/>a&jcirc;oj el la oficialaj <ctl>aviado</ctl>,
+        <ctl>faceto</ctl>, <ctl>malgra&ubreve;</ctl>.
+      </ekz>
+    </dif>
+    <ref tip="ant" cel="deriv.0ajxo.GRA">deriva&jcirc;o</ref>
+    <trd lng="ca">mot originari</trd>
+    <trd lng="en">back-formation</trd>
+    <trd lng="fr">d&eacute;riv&eacute; r&eacute;gressif</trd>
+    <trdgrp lng="ru">
+      <trd>&c_o;&c_b;&c_r;&c_a;&c_t;&c_n;&c_o;&c_je;
+      <ind>&c_s;&c_l;&c_o;&c_v;&c_o;&c_o;&c_b;&c_r;&c_a;&c_z;&c_o;&c_v;&c_a;&c_n;&c_i;&c_je;</ind></trd>,
+      <trd>&c_r;&c_je;&c_g;&c_r;&c_je;&c_s;&c_s;&c_i;&c_v;&c_n;&c_a;&c_ja; <ind>&c_d;&c_je;&c_r;&c_i;&c_v;&c_a;&c_c;&c_i;&c_ja;</ind></trd>
+    </trdgrp>
+  </snc>
+  <adm>
+    Indus koherigi la fakojn LIN/GRA inter ~a&jcirc;o kaj mal~a&jcirc;o.
+    <aut>MB</aut>
+  </adm>
+</drv>
+
+<drv mrk="deriv.parta0ajxo">
+  <kap>parta <tld/>a&jcirc;o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>MatTerm</bib>, <lok>p. 20</lok></fnt>
+  <snc>
+    <dif>
+      <klr>(de <ref cel="funkci.n-argumenta0o">plurargumenta
+      funkcio</ref>, la&ubreve; la <frm><k>i</k></frm>-a argumento)</klr>
+      <ref cel="deriv.0ajxo.MAT"><tld lit="D"/>a&jcirc;o</ref>
+      <sncref ref="deriv.0ajxo.cxepunkto"/> a&ubreve;
+      <sncref ref="deriv.0ajxo.funkcio"/> la&ubreve; unu el la argumentoj,
+      kiam
+      la ceteraj restas konstantaj:
+      <ekz>
+        la partan <tld/>a&jcirc;on de <frm><k>f</k></frm> la&ubreve; la
+        <frm><k>i</k></frm>-a argumento
+        <frm><k>x</k><sub><k>i</k></sub></frm>
+        oni kutime signas per <frm><k>f</k>&#8242;<sub><k>i</k></sub></frm>
+        <klr>(legu: fo unua la&ubreve; i)</klr>,
+        <frm>&#8706;<sub><k>i</k></sub><k>f</k></frm>
+        <klr>(legu: (ronda) do fo la&ubreve; i)</klr>
+        a&ubreve;
+        <frm>&#8706;<k>f</k>/&#8706;<k>x</k><sub><k>i</k></sub>
+        </frm><klr>(legu: (ronda) do fo sur do ikso i)</klr>;
+      </ekz>
+      <ekz>
+        dua <tld/>a&jcirc;o de <frm><k>f</k></frm> la&ubreve; la
+        <frm><k>i</k></frm>-a argumento
+        <klr>(<frm>&#8706;<sup>2</sup><sub><k>i</k></sub><k>f</k></frm>)</klr>,
+        la&ubreve; la <frm><k>i</k></frm>-a kaj
+        la <frm><k>j</k></frm>-a argumentoj
+        <klr>(<frm>&#8706;<sup>2</sup><sub><k>i</k>,<k>j</k></sub><k>f</k></frm>)</klr>;
+      </ekz>
+      <ekz>
+        la parta <tld/>a&jcirc;o de
+        <frm><k>f</k>(<k>x</k>,<k>y</k>) =
+        <k>x</k><sup>2</sup><k>y</k></frm>
+        la&ubreve; <frm><k>x</k></frm> estas
+        <frm>&#8706;<sub><k>x</k></sub><k>f</k>(<k>x</k>,<k>y</k>) =
+        2<k>x</k><k>y</k></frm> kaj la parta <tld/>a&jcirc;o de la
+        sama funkcio la&ubreve; <frm><k>y</k></frm> estas
+        <frm>&#8706;<sub><k>y</k></sub><k>f</k>(<k>x</k>,<k>y</k>) =
+        <k>x</k><sup>2</sup></frm>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="ca"><ind>derivada</ind> parcial</trd>
+  <trd lng="de">partielle <ind>Ableitung</ind></trd>
+  <trd lng="en">partial <ind>derivative</ind></trd>
+  <trd lng="fr">d&eacute;riv&eacute;e partielle</trd>
+  <trd lng="pl">pochodna cz&aogonek;stkowa</trd>
+  <trd lng="ru">&c_ch;&c_a;&c_s;&c_t;&c_n;&c_a;&c_ja; <ind>&c_p;&c_r;&c_o;&c_i;&c_z;&c_v;&c_o;&c_d;&c_n;&c_a;&c_ja;</ind></trd>
+  <trd lng="sk">parci&aacute;lna <ind>deriv&aacute;cia</ind></trd>
+</drv>
+</art>
+<!--
+$Log: deriv.xml,v $
+Revision 1.45  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.44  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.43  2013/12/04 15:10:18  revo
+Damien Brucker: +rim
+
+Revision 1.42  2013/12/03 13:10:18  revo
+Damien Brucker: +derivado
+
+Revision 1.41  2012/09/04 17:10:09  revo
+Marc Rausell: + trd ca
+
+Revision 1.40  2009/06/29 18:06:56  revo
+Russ Williams: +trd en
+
+Revision 1.39  2007/07/23 16:31:02  revo
+Tulio Flores: +tr pt
+
+Revision 1.38  2005/10/31 17:31:28  revo
+Jeromo Vasxe: ~ajxo + 1 ekz
+
+Revision 1.37 2004/11/23 17:31:48 revo
+Marc Bavant: logaritma ~ajxo: kor dif
+
+Revision 1.36 2003/09/12 16:32:33 revo
+-->
+</vortaro>

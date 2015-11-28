@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: toskan.xml,v 1.5 2012/08/14 12:10:31 revo Exp $">
+<kap>
+  <rad>toskan</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="toskan.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="toskan.0o.logxanto">
+    <uzo tip="fak">GEOG</uzo>
+    <dif>
+      Lo&gcirc;anto de <ref tip="malprt"
+      cel="toskan.0ujo.GEOG">Toskanujo</ref>.
+    </dif>
+  </snc>
+  <trd lng="ca">tosc&agrave;<klr> (subst.)</klr></trd>
+  <trd lng="fr">toscan<klr> (subst. personne)</klr></trd>
+  <trd lng="it">toscano</trd>
+  <trd lng="en">Tuskanian</trd>
+  <trd lng="pl">Toska&nacute;czyk</trd>
+</drv>
+
+<drv mrk="toskan.0a">
+  <kap><tld/>a</kap>
+  <snc>
+    <dif>
+      Rilata al <tld/>oj a&ubreve; al <tld lit="T"/>ujo.
+    </dif>
+    <ekz>
+      <tld/>a literaturo;
+    </ekz>
+    <ekz>
+      <tld/>a arto.
+    </ekz>
+  </snc>
+  <trd lng="ca">tosc&agrave;<klr> (adj.)</klr></trd>
+  <trd lng="fr">toscan<klr> (adj.)</klr></trd>
+  <trd lng="it">toscano <klr>(adj)</klr></trd>
+  <trd lng="en">Tuskanian</trd>
+  <trd lng="pl">toska&nacute;ski</trd>
+</drv>
+
+<drv mrk="toskan.0ujo">
+  <kap><tld lit="T"/>ujo</kap>
+  <snc mrk="toskan.0ujo.GEOG">	
+    <uzo tip="fak">GEOG</uzo>
+    <dif>
+     Provinco en centra <ref tip="malprt" cel="ital.I0ujo">Italujo</ref>
+     kun &ccirc;efurbo Florenco.
+    </dif>
+  </snc>
+  <trd lng="ca">la <ind>Toscana</ind></trd>
+  <trd lng="fr">Toscane</trd>
+  <trd lng="it">Toscana</trd>
+  <trd lng="en">Tuscany</trd>
+  <trd lng="pl">Toskania</trd>
+</drv>
+</art>
+
+<!--
+$Log: toskan.xml,v $
+Revision 1.5  2012/08/14 12:10:31  revo
+Marc Rausell: + trd ca
+
+Revision 1.4  2008/11/14 17:30:47  revo
+Jeromo Vasxe: kor 1 ref
+
+Revision 1.3  2008/10/09 16:30:53  revo
+Jeromo Vasxe: ~io -> ~ujo, + fnt, + trd fr
+
+Revision 1.2  2008/09/15 19:10:02  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.1  2008/09/11 16:31:12  revo
+Antonio Codazzi: nova artikolo
+
+-->
+</vortaro>

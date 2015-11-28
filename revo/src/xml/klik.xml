@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: klik.xml,v 1.14 2015/07/04 08:37:37 revo Exp $">
+<kap>
+  <rad>klik</rad>/o
+</kap>
+<drv mrk="klik.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="klik.0o.grupacxo">
+    <dif>
+      Eta <ref tip="super" cel="grup.0acxo">grupa&ccirc;o</ref> de homoj, kiuj
+      intrigas por malhelpi al aliaj kaj, ofte, bruas pri si por altiri
+      &ccirc;ies atenton:
+      <ekz>
+        regantaj militistaj <tld/>oj en tiuj landoj
+        <fnt>
+        <aut>Ji&rcaron;&iacute; Patera</aut>,
+        <vrk>Post la kunsido de financistoj en Prago</vrk>,
+        <bib>Monato</bib>,
+        <lok>jaro 2001a, numero 1a, p. 12a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_k;&c_l;&c_ib;&c_k;&c_a;</trd>,
+      <trd>&c_h;&c_a;&c_w;&c_r;&c_u;&c_s;</trd>
+    </trdgrp>
+    <trd lng="de">Kl&uuml;ngel</trd>
+    <trdgrp lng="en">
+      <trd>clique</trd>,
+      <trd>coterie</trd>,
+      <trd>set</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>clique</trd>,
+      <trd>coterie</trd>
+    </trdgrp>
+    <trdgrp lng="nl">
+      <trd>troep</trd>,
+      <trd>bende</trd>
+    </trdgrp>
+    <trd lng="pl">klika</trd>
+    <trd lng="ru">&c_k;&c_l;&c_i;&c_k;&c_a;</trd>
+  </snc>
+  <snc mrk="klik.0o.grafeo">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>KompLeks</bib>, <lok>klikproblemo</lok></fnt>
+    <dif>
+      <klr>(de <ref cel="grafe.0o.strukturo">grafeo</ref>)</klr>
+      <ref cel="komple2.0a.grafeo">Kompleta</ref>
+      <ref cel="grafe.sub0o">subgrafeo</ref> de &gcirc;i.
+    </dif>
+    <trdgrp lng="de">
+      <trd>Clique</trd>,
+      <trd>Sippe</trd>
+    </trdgrp>
+    <trd lng="en">clique</trd>
+    <trd lng="fr">clique<klr tip="ind"> (d'un graphe)</klr></trd>
+    <trd lng="pl">klika<klr tip="ind"> (grafu)</klr></trd>
+    <trd lng="ru">&c_k;&c_l;&c_i;&c_k;&c_a;</trd>
+  </snc>
+  <ref tip="hom" cel="klik1.0o">kliko</ref>
+  <trdgrp lng="sk">
+    <trd>západka</trd>,
+    <trd>zástrčka</trd>,
+    <trd>závora</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>západka</trd>,
+    <trd>zástrčka</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: klik.xml,v $
+Revision 1.14  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.13  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.12  2005/01/15 17:31:28  revo
+Vito Redsky: +trd pl kliko 1
+
+Revision 1.11  2004/12/18 19:20:29  revo
+Marc Bavant: anstatauxigis snc TEK per snc "grupacxo"
+
+Revision 1.10 2004/01/08 17:30:45 revo
+Jeromo Vasxe: - snc grupacxo -> artikolo klik1, - rilata adm de mb
+
+Revision 1.9 2003/01/02 17:47:29 revo
+Marc Bavant: mod fnt "artikolo"
+
+Revision 1.8 2002/11/18 17:34:18 revo
+Marc Bavant: +trd fr; +mrk; snc 1: kor interpunkcion; snc 2: mod dif, +ref
+al koterio, grupacxo; +snc MAT; +adm
+
+Revision 1.7 2001/12/09 19:25:17 revo
+Ulrich Fellmann: + 2 germ trdj
+Revision 1.6 2001/10/24 18:25:12 revo
+Paul Peeraerts: aldonis nl trd
+Revision 1.5 2001/09/25 18:14:21 revo
+Yury Finkel: +trd ru
+-->
+</vortaro>
+

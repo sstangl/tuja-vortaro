@@ -1,0 +1,115 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: nikel.xml,v 1.25 2015/07/04 08:37:40 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>nikel</rad>/o
+</kap>
+<drv mrk="nikel.0o">
+  <kap><tld/>o</kap>
+  <mlg kod="IUPAC">Ni</mlg>
+  <uzo tip="fak">KEM</uzo>
+  <snc>
+    <dif>
+      &Hcirc;emia <ref tip="lst" cel="elemen.0o.KEM"
+      lst="voko:&hcirc;emiaj_elementoj" val="28">elemento</ref> kun
+      atomnumero 28, atompezo 58,71; ar&gcirc;ente
+      brila tre malmola
+      transir<ref tip="super" cel="metal.0o">metalo</ref> diverse uzata:
+      <ekz>
+        Kosovo havas konsiderindajn rezervojn de
+        <tld/>o-<ref tip="vid" cel="kobalt.0o">kobalto</ref>
+        <fnt><aut>Bardhyl Mezini</aut>: <vrk>La vera 
+        ka&ubreve;zo de la milito</vrk>, <bib>Monato</bib><lok>jaro 1999a,
+        numero 5a,
+        p. 12a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_n;&c_ib;&c_k;&c_je;&c_l;&c_mol;</trd>
+  <trd lng="bg">&c_n;&c_i;&c_k;&c_je;&c_l;</trd>
+  <trd lng="br">nikel</trd>
+  <trd lng="cs">nikl</trd>
+  <trd lng="de">Nickel</trd>
+  <trd lng="el">&ny;&jota;&kappa;&epsilon_ton;&lambda;&lambda;&jota;&omikron;</trd>
+  <trd lng="en">nickel</trd>
+  <trd lng="es">n&iacute;quel</trd>
+  <trd lng="fr">nickel</trd>
+  <trd lng="hu">nikkel</trd>
+  <trd lng="id">nikel</trd>
+  <trd lng="it">nichel</trd>
+  <trd lng="la">Niccolum</trd>
+  <trd lng="nl">nikkel</trd>
+  <trd lng="pl">n&iacute;kiel</trd>
+  <trd lng="pt">n&iacute;quel</trd>
+  <trd lng="ru">&c_n;&c_i;&c_k;&c_je;&c_l;&c_mol;</trd>
+  <trd lng="sk">nikel</trd>
+  <trd lng="sv">nickel</trd>
+</drv>
+
+<drv mrk="nikel.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      Tegi per tre maldika tavolo el <tld/>o.
+    </dif>
+  </snc>
+  <trd lng="be">&c_n;&c_ib;&c_k;&c_je;&c_l;&c_ja;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="bg">&c_n;&c_i;&c_k;&c_je;&c_l;-&c_p;&c_l;&c_o;&c_ch;&c_a;</trd>
+  <trd lng="br">nikela&ntilde;</trd>
+  <trdgrp lng="cs">
+    <trd>niklovat</trd>,
+    <trd>poniklovat</trd>
+  </trdgrp>
+  <trd lng="de">vernickeln</trd>
+  <trd lng="el">(&epsilon;&pi;&jota;)&ny;&jota;&kappa;&epsilon;&lambda;&lambda;&omega_ton;&ny;&omega;</trd>
+  <trd lng="en"><ind>nickel</ind> plate</trd>
+  <trd lng="es">niqueler</trd>
+  <trd lng="fr">nickeler</trd>
+  <trd lng="hu">nikkelez</trd>
+  <trd lng="nl">vernikkelen</trd>
+  <trd lng="pl">n&iacute;klowa&cacute;</trd>
+  <trd lng="pt">niquelar</trd>
+  <trd lng="ru">&c_n;&c_i;&c_k;&c_je;&c_l;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>niklovať</trd>,
+    <trd>poniklovať</trd>
+  </trdgrp>
+  <trd lng="sv">f&ouml;rnickla</trd>
+</drv>
+</art>
+<!--
+$Log: nikel.xml,v $
+Revision 1.25  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.24  2015/06/29 16:33:21  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.23  2014/06/03 10:10:25  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.22  2013/09/17 19:10:29  revo
+Wolfram Diestel: simb. lau IUPAC, val
+
+Revision 1.21  2013/08/25 07:10:37  revo
+Wolfram Diestel: referenco al listo elementoj
+
+Revision 1.20  2013/07/26 09:10:10  revo
+Joop Eggen: +trd bg
+
+Revision 1.19  2010/10/25 16:30:55  revo
+Jerano Zachrisson: +trd sv
+
+Revision 1.18  2009/02/10 14:19:20  revo
+Sebastian Cyprych: -fusxaj linirompoj en trd
+
+Revision 1.17  2006/06/07 16:31:23  revo
+Sebastian Cyprych: +trd pl,la
+
+Revision 1.16  2006/01/03 17:32:30  revo
+-->
+</vortaro>

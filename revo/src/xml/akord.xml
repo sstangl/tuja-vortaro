@@ -1,0 +1,1108 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: akord.xml,v 1.33 2015/07/04 08:37:30 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>akord</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="akord.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="akord.0o.konveneco">
+    <dif>
+      &Gcirc;usta konveneco inter pluraj aferoj:
+      <ekz>
+        estas ia mirinda <tld/>o inter la movoj de la astroj
+        <fnt><bib>PIV1</bib></fnt>;
+      </ekz>
+      <ekz>
+        <ind>ili estas en <tld/>o, kiel peto kaj mordo</ind>
+        <klr>(ili tute mal<tld/>as, vd
+        <ref tip="vid" cel="kat.0o">kato</ref>)</klr>
+        <fnt><bib>PrV</bib></fnt>.
+        <trd lng="fr">ils s'entendent comme <ind>chien</ind> et
+        chat</trd>
+      </ekz>
+    </dif>
+    <ref tip="sin"
+    cel="akord.inter0o.konveneco">inter<tld/>o<sncref/></ref>
+    <refgrp tip="vid">
+      <ref cel="harmon1.0o.arangxo">harmonio</ref>,
+      <ref cel="kongru.0eco">kongrueco</ref>,
+      <ref cel="konfor.0eco">konformeco</ref>
+    </refgrp>
+    <trdgrp lng="fr">
+      <trd>accord<klr tip="ind"> (ad&eacute;quation)</klr></trd>,
+      <trd>ad&eacute;quation</trd>,
+      <trd>affinit&eacute;<klr tip="ind"> (ad&eacute;quation)</klr></trd>,
+      <trd>concordance</trd>,
+      <trd>conformit&eacute;</trd>,
+      <trd>harmonie<klr tip="ind"> (concordance entre
+      choses)</klr></trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="akord.0o.MUZ">
+    <uzo tip="fak">MUZ</uzo>
+    <fnt><bib>VdE</bib></fnt>
+    <dif>
+      Grupo de almena&ubreve; tri samtempaj
+      <ref tip="prt" cel="ton.0o.MUZ_unu">tonoj</ref>, kutime
+      produktanta agrablan sonon:
+      <ekz>
+        <tld/>o ma&jcirc;ora, minora, bemola, diesa;
+      </ekz>
+      <ekz>
+        <ind>perfekta <tld/>o</ind>;
+        <trd lng="fr"><ind>accord</ind> parfait</trd>
+      </ekz>
+      <ekz>
+        Sara pin&ccirc;<klr>[is]</klr> kelke da akordoj sur la harpo
+        <fnt><bib>Far1</bib><lok>&ccirc;ap. 14</lok></fnt>;
+      </ekz>
+      <ekz>
+        du a&ubreve; tri liroj kaj sama nombro de kaninstrumentoj
+        ludi&gcirc;is kun akompano de plendaj kaj kortu&scirc;aj harp<tld/>oj
+        <fnt><bib>I&scirc;tar</bib><lok>&ccirc;ap. 11</lok></fnt>.
+      </ekz>
+    </dif>
+    <adm>
+      Kiamaniere nomi akordon misharmonian? Cxu "misakordo"?
+      <aut>MB</aut>
+    </adm>
+    <ref tip="vid" cel="harmon1.0o.MUZ">harmonio</ref>
+    <trd lng="be">&c_a;&c_k;&c_o;&c_r;&c_d;</trd>
+    <trd lng="de">Akkord</trd>
+    <trd lng="en">chord</trd>
+    <trd lng="es">acorde</trd>
+    <trd lng="fr">accord<klr tip="ind"> (mus.)</klr></trd>
+    <trd lng="nl">overeenstemming</trd>
+    <trd lng="pt">acorde</trd>
+    <trd lng="ru">&c_a;&c_k;&c_k;&c_o;&c_r;&c_d;</trd>
+    <trd lng="sk">akord</trd>
+    <trdgrp lng="sv">
+      <trd>ackord</trd>,
+      <trd>samklang</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="akord.0o.samopinieco">
+    <dif>
+      Sameco de sentoj a&ubreve; opinioj inter personoj:
+      <ekz>
+        maljusteco kaj malamo estigas ribelon kaj bataladon inter ili,
+        sed justeco estigas <tld/>on kaj amikecon
+        <fnt>
+        <aut>Platono, trad. D. Broadribb</aut>
+        <vrk>La Respubliko</vrk>
+        <lok>Parto 1</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kian <tld/>on havas Kristo kun Belial?
+        <fnt><bib>NT</bib>, <lok>&Ko2; 6:15</lok></fnt>.
+      </ekz>
+    </dif>
+    <ref tip="sin"
+    cel="akord.inter0o.samopinieco">inter<tld/>o<sncref/></ref>
+    <refgrp tip="vid">
+      <ref cel="harmon1.0o.paco">harmonio</ref>,
+      <ref cel="konkor.0o">konkordo</ref>,
+      <ref cel="konsen.0o">konsento</ref>,
+      <ref cel="koncer1.0o.FIG">koncerto<sncref/></ref>,
+      <ref cel="sent.kun0o">kunsento</ref>,
+      <ref cel="opini.sam0eco">samopinieco</ref>,
+      <ref cel="sent.sam0eco">samsenteco</ref>
+    </refgrp>
+    <trdgrp lng="be">
+      <trd>&c_s;&c_u;&c_l;&c_a;&c_d;&c_z;&c_mol;&c_d;&c_z;&c_je;</trd>,
+      <trd>&c_z;&c_l;&c_a;&c_d;&c_zh;&c_a;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
+      <trd>&c_u;&c_z;&c_g;&c_o;&c_d;&c_n;&c_je;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
+      <trd>&c_z;&c_g;&c_o;&c_d;&c_a;</trd>,
+      <trd>&c_u;&c_g;&c_o;&c_d;&c_a;</trd>
+    </trdgrp>
+    <trd lng="ca">acord</trd>
+    <trdgrp lng="de">
+      <trd>Gleichklang</trd>,
+      <trd>&Uuml;bereinstimmung</trd>
+    </trdgrp>
+    <trd lng="es">acuerdo</trd>
+    <trdgrp lng="fr">
+      <trd>accord<klr tip="ind"> (fait d'&ecirc;tre en accord)</klr></trd>,
+      <trd>entente<klr tip="ind"> (accord)</klr></trd>,
+      <trd>affinit&eacute;<klr tip="ind"> (entente)</klr></trd>,
+      <trd>concorde</trd>,
+      <trd>identit&eacute; de <ind>vue</ind>s</trd>
+    </trdgrp>
+    <trdgrp lng="pt">
+      <trd>acordo</trd>,
+      <trd>concord&acirc;ncia</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_s;&c_o;&c_g;&c_l;&c_a;&c_s;&c_i;&c_je;</trd>,
+      <trd>&c_s;&c_o;&c_g;&c_l;&c_a;&c_s;&c_o;&c_v;&c_a;&c_n;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
+    </trdgrp>
+    <trd lng="sk">s&uacute;lad</trd>
+  </snc>
+  <snc mrk="akord.0o.JUR">
+    <uzo tip="fak">JUR</uzo>
+    <dif>
+      Oficiala interkonsento, ekz-e inter &scirc;tatoj:
+      <ekz>
+        kontrakti <tld/>on;
+      </ekz>
+      <ekz>
+        tiu regularo ne kovras la <tld/>ojn kiujn la Komunumo faras kun
+        triaj landoj
+        <fnt>
+        <aut>D. ap Fergus</aut>
+        <lok><url ref="http://esperanto.org/Ondo/Df2002.htm">LoDE
+        2002:5</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la 1-an de decembro, la projekto de israel-palestina <tld/>o
+        devus fine esti subskribita en &Gcirc;enevo
+        <fnt>
+        <aut>trad. V. Lutermano</aut>
+        <vrk>Le Monde Diplomatique en Esperanto</vrk>
+        <lok><url
+        ref="http://eo.mondediplo.com/article842.html">2003-12</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="akord.inter0o.JUR">inter<tld/>o<sncref/></ref>
+    <refgrp tip="vid">
+      <ref cel="konsen.inter0o">interkonsento</ref>,
+      <ref cel="kontra3.0o">kontrakto</ref>,
+      <ref cel="trakta.0o.JUR">traktato</ref>
+    </refgrp>
+    <rim>
+      Kvankam &ccirc;i tiu signifo ofti&gcirc;as, &gcirc;i plu aspektas
+      iom fremda apud la pli komuna <ctl>interkonsento</ctl>. Oni
+      &ccirc;iuokaze evitu vastigi la sencon &gcirc;is sinonimeco kun
+      <ctl>konsento</ctl> (ekz-e
+      <ekz>
+        peti ies konsenton,
+      </ekz>
+      ne
+      <ekz>
+        <tld/>on
+      </ekz>
+      ).
+    </rim>
+    <trdgrp lng="fr">
+      <trd>accord<klr tip="ind"> (juridique)</klr></trd>,
+      <trd>convention<klr tip="ind"> (juridique)</klr></trd>,
+      <trd>trait&eacute;<klr tip="ind"> (juridique)</klr></trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="akord.0o.GRA">
+    <uzo tip="fak">GRA</uzo>
+    <fnt><bib>VdE</bib></fnt>
+    <dif>
+      Fenomeno, per kiu la formo de iuj vortoj konformi&gcirc;as al
+      tiu de aliaj, kun kiuj ili estas en sintaksa rilato:
+      <ekz>
+        <tld/>o de adjektivo kun substantivo
+        <klr>(a&ubreve;: inter adjektivo kaj substantivo)</klr>
+        la&ubreve; kazo kaj nombro;
+      </ekz>
+      <ekz>
+        male al la latina, la Esperanta verbo ne montras
+        <tld/>on de persono <klr>(a&ubreve;: la&ubreve; persono)</klr> kun la
+        subjekto.
+      </ekz>
+    </dif>
+    <trd lng="fr">accord<klr tip="ind"> (gramm.)</klr></trd>
+  </snc>
+  <refgrp tip="vid">
+    Ne konfuzu kun <ref cel="agord.0o">agordo</ref>
+  </refgrp>
+  <trd lng="sk">akord, súzvuk aspoň troch tónov</trd>
+  <trd lng="sk">akord, súzvuk aspoň troch tónov</trd>
+  <trdgrp lng="cs">
+    <trd>akord</trd>,
+    <trd>souzvuk alespoň tří tónů</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="akord.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="akord.0a.MUZ">
+    <dif>
+      Rilata al <tld/>o<sncref ref="akord.0o.MUZ"/>:
+      <ekz>
+        tiuj &ccirc;i <tld/>aj sinsekvoj ne nepre konsistigas
+        kadencon
+        <fnt>
+        <vrk>Klozulo</vrk>
+        <lok><url
+        ref="http://eo.wikipedia.org/wiki/Klozulo">Vikipedio</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="fr">d'<ind>accord</ind>(s)<klr tip="ind">
+    (mus.)</klr></trd>
+  </snc>
+  <snc mrk="akord.0a.lauxtakta">
+    <dif>
+      Pa&scirc;anta la&ubreve; unu sama takto:
+      <ekz>
+        diskurintaj tonoj kuni&gcirc;as, sin <tld/>aj ligas legionoj,
+        kaj jam la&ubreve;takte mar&scirc;as harmoniaj sonoj
+        <fnt>
+        <aut>A. Mickiewicz, trad. A. Grabowski</aut>
+        <vrk><url
+        ref="http://donh.best.vwh.net/Esperanto/Literaturo/Revuoj/np/np5602/mickiewiczu.html">Sinjoro
+        Tadeo</url></vrk>
+        <lok>Norda
+        Prismo, 1956:2 p. 94-95a</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la &ccirc;evaltrio <tld/>e kuris
+        <fnt><bib>PatrojFiloj</bib>, <lok>&ccirc;ap. 22a</lok></fnt>;
+      </ekz>
+      <ekz>
+        Sargonon ja sekvis la plej bonaj asiriaj
+        batalistoj<klr>[...]</klr>,
+        sed mi ne vidis e&ccirc; ses soldatojn, sciantajn mar&scirc;i
+        <tld/>e en rekta vico
+        <fnt><bib>Far2</bib>, <lok>&ccirc;ap. 13a</lok></fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="fr">
+      <trd>marchant au <ind>pas</ind> cadenc&eacute;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="akord.0a.samopinieco">
+    <dif>
+      Estanta en stato de <tld/>o<sncref ref="akord.0o.samopinieco"/>:
+      <ekz>
+        la familiaj rilatoj estas <tld/>aj kaj virinoj &gcirc;uas
+        plenajn personajn kaj hava&jcirc;ajn rajtojn
+        <fnt>
+        <vrk>Egalecaj Rajtoj kaj Interesoj en Geedzi&gcirc;o kaj Familio</vrk>
+        <lok><url
+        ref="http://es.chinabroadcast.cn/chinaabc/chapter12/chapter120505.htm">&Ccirc;ina
+        Radio Internacia</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la geedzoj vivis <ind><tld/>e</ind> kaj trankvile
+        <fnt><bib>PatrojFiloj</bib><lok>&ccirc;ap. 1</lok></fnt>.
+        <trdgrp lng="fr">
+          <trd>d' <ind>accord</ind><klr tip="ind"> (loc.
+          adv.)</klr></trd>,
+          <trd>en <ind>accord</ind><klr tip="ind"> (loc.
+          adv.)</klr></trd>,
+          <trd>en <ind>cadence</ind></trd>,
+          <trd>en <ind>harmonie</ind><klr tip="ind"> (loc.
+          adv.)</klr></trd>,
+          <trd>en <ind>paix</ind><klr tip="ind"> (loc.
+          adv.)</klr></trd>,
+          <trd>en <ind>phase</ind><klr tip="ind"> (loc.
+          adv.)</klr></trd>,
+          <trd>au <ind>pas</ind> cadenc&eacute;</trd>,
+          <trd>&agrave; l'<ind>unisson</ind></trd>
+        </trdgrp>
+      </ekz>
+    </dif>
+    <trdgrp lng="fr">
+      <trd>en <ind>accord</ind><klr tip="ind"> (loc. adj.)</klr></trd>,
+      <trd>en <ind>paix</ind><klr tip="ind"> (loc. adj.)</klr></trd>,
+      <trd>en <ind>phase</ind><klr tip="ind"> (loc. adj.)</klr></trd>,
+      <trd>en <ind>harmonie</ind><klr tip="ind"> (loc.
+      adj.)</klr></trd>,
+      <trd>harmonieux<klr tip="ind"> (montrant de
+      l'harmonie)</klr></trd>,
+    </trdgrp>
+  </snc>
+  <snc mrk="akord.0a.konveneco">
+    <dif>
+      Estanta en stato de <tld/>o<sncref ref="akord.0o.konveneco"/>:
+      <ekz>
+        por ke la &ccirc;inaj le&gcirc;oj estu <tld/>aj al la reguloj
+        de MKO, &Ccirc;inio bonordigis kaj reviziis le&gcirc;ojn kaj
+        regulojn pri ekstera ekonomio
+        <fnt>
+        <aut>Zuo Yan</aut>
+        <vrk>&Ccirc;inio plenumas sian promeson al MKO</vrk>
+        <lok><url
+        ref="http://www.chinareport.com.cn/18s/wto/wto-12.htm">El Popola
+        &Ccirc;inio</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="adapt.0i">adaptita</ref>,
+      <ref cel="harmon1.0a">harmonia</ref>,
+      <ref cel="konfor.0a.KOMUNE">konforma</ref>,
+      <ref cel="kongru.0a.KOMUNE">kongrua</ref>,
+      <ref cel="laux.0a">la&ubreve;a</ref>,
+      <ref cel="tauxg.0a">ta&ubreve;ga</ref>
+    </refgrp>
+    <trdgrp lng="fr">
+      <trd>en <ind>accord</ind><klr tip="ind"> (loc. adj.)</klr></trd>,
+      <trd>en <ind>ad&eacute;quation</ind><klr tip="ind"> (loc.
+      adj.)</klr></trd>,
+      <trd>en <ind>harmonie</ind><klr tip="ind"> (loc.
+      adj.)</klr></trd>,
+      <trd>en <ind>phase</ind><klr tip="ind"> (loc. adj.)</klr></trd>,
+      <trd>coh&eacute;rent</trd>,
+      <trd>harmonieux<klr tip="ind"> (montrant de
+      l'harmonie)</klr></trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>kompatibilní</trd>,
+    <trd>slučitelný</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>kompatibilný</trd>,
+    <trd>zlučiteľný</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="akord.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="akord.0i.KOMUNE">
+    <dif>
+      Esti en stato de <tld/>o:
+    </dif>
+    <subsnc mrk="akord.0i.samopinii" ref="akord.0o.samopinieco">
+      <ekz>
+        <tld/>i kun iu;
+      </ekz>
+      <ekz>
+        li estis la ununura kun kiu mi bone <tld/>is, &ccirc;ar
+        li pretis obei min
+        <fnt>
+        <aut>W. F. Hermans, trad. M. Meuwissen</aut>
+        <vrk><url
+        ref="http://www.purl.org/NET/mihxil/8/wimshurst.html">La
+        elektrilo de Wimshurst</url></vrk>
+        <lok>[vidita en 2012]</lok>
+        </fnt>.
+      </ekz>
+      <rim>
+        &Ccirc;i tiun sencon oni ne vastigu al sinonimeco kun
+        <refgrp tip="vid">
+          <ref cel="konsen.0i">konsenti</ref>, a&ubreve;
+          <ref cel="konced.0i">koncedi</ref>.
+        </refgrp>
+      </rim>
+      <trdgrp lng="fr">
+        <trd>s'<ind>accorder</ind><klr tip="ind"> (&ecirc;tre en
+        accord)</klr></trd>,
+        <trd>s'<ind>entendre</ind><klr tip="ind">
+        (s'accorder)</klr></trd>,
+        <trd>&ecirc;tre en <ind>harmonie</ind><klr tip="ind"> (avec
+        qn)</klr></trd>,
+        <trd>&ecirc;tre en <ind>phase</ind><klr tip="ind"> (avec
+        qn)</klr></trd>
+      </trdgrp>
+    </subsnc>
+    <subsnc mrk="akord.0i.konveni" ref="akord.0o.konveneco">
+      <ekz>
+        &ccirc;eesto &ccirc;e mistikaj ceremonioj ne <tld/>as kun liaj principoj
+        <fnt><bib>I&scirc;tar</bib>, <lok>&ccirc;ap. 11a</lok></fnt>;
+      </ekz>
+      <ekz>
+        tiuj koloroj bone <tld/>as.
+      </ekz>
+      <refgrp tip="vid">
+        <ref cel="konfor.0i">konformi</ref>,
+        <ref cel="kongru.0i">kongrui</ref>
+      </refgrp>
+      <trdgrp lng="fr">
+        <trd>s'<ind>accorder</ind><klr tip="ind"> (&ecirc;tre en
+        harmonie)</klr></trd>
+        <trd>s'<ind>allier</ind><klr tip="ind"> (&ecirc;tre en
+        harmonie)</klr></trd>
+        <trd>s'<ind>assembler</ind><klr tip="ind"> (&ecirc;tre en
+        harmonie)</klr></trd>
+        <trd>s'<ind>associer</ind><klr tip="ind"> (&ecirc;tre en
+        harmonie)</klr></trd>
+        <trd>s'<ind>assortir</ind><klr tip="ind"> (&ecirc;tre en
+        harmonie)</klr></trd>
+        <trd>s'<ind>harmoniser</ind><klr tip="ind"> (&ecirc;tre en
+        harmonie)</klr></trd>
+        <trd>se <ind>marier</ind><klr tip="ind"> (&ecirc;tre en
+        harmonie)</klr></trd>
+        <trd><ind>aller</ind> avec</trd>
+        <trd>&ecirc;tre en <ind>harmonie</ind><klr tip="ind"> (avec
+        qc)</klr></trd>,
+        <trd>&ecirc;tre en <ind>phase</ind><klr tip="ind"> (avec
+        qc)</klr></trd>
+      </trdgrp>
+    </subsnc>
+    <subsnc mrk="akord.0i.GRA" ref="akord.0o.GRA">
+      <uzo tip="fak">GRA</uzo>
+      <ekz>
+        la substantivo kaj &gcirc;iaj adjektivoj <tld/>as la&ubreve;
+        kazo, genro, kaj nombro
+        <fnt>
+          <bib>Viki</bib>,
+          <lok><url ref="http://eo.wikipedia.org/wiki/Klasika_latina">
+          Klasika latina</url>, 2011-03-21</lok>
+        </fnt>.
+      </ekz>
+      <trd lng="fr">s'<ind>accorder</ind><klr tip="ind">
+      (gramm.)</klr></trd>
+    </subsnc>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_b;&c_y;&c_c;&c_mol; &c_u; <ind>&c_z;&c_g;&c_o;&c_d;&c_z;&c_je;</ind></trd>,
+    <trd>&c_b;&c_y;&c_c;&c_mol; &c_u; <ind>&c_s;&c_u;&c_l;&c_a;&c_d;&c_z;&c_mol;&c_d;&c_z;&c_ib;</ind></trd>
+    <trd>&c_a;&c_d;&c_p;&c_a;&c_v;&c_ja;&c_d;&c_a;&c_c;&c_mol; <klr tip="amb">(&c_a;&c_d;&c_n;&c_o; &c_a;&c_d;&c_n;&c_a;&c_m;&c_u;)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>hodit se k sobě</trd>,
+    <trd>shodovat se</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd><klr>im </klr>Gleichklang sein</trd>,
+    <trd>&uuml;bereinstimmen</trd>
+  </trdgrp>
+  <trd lng="en">accord</trd>
+  <trd lng="es">estar de acuerdo</trd>
+  <trd lng="nl">overeenstemmen</trd>
+  <trdgrp lng="pt">
+    <trd>acordar</trd>,
+    <trd>estar de acordo</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_b;&c_y;&c_t;&c_mol; &c_v; <ind>&c_s;&c_o;&c_g;&c_l;&c_a;&c_s;&c_i;&c_i;</ind></trd>,
+    <trd>&c_p;&c_o;&c_d;&c_h;&c_o;&c_d;&c_i;&c_t;&c_mol;<klr tip="amb"> (&c_o;&c_d;&c_i;&c_n; &c_k; &c_d;&c_r;&c_u;&c_g;&c_o;&c_m;&c_u;)</klr></trd>,
+    <trd>&c_s;&c_o;&c_ch;&c_je;&c_t;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>,
+    <trd>&c_g;&c_a;&c_r;&c_m;&c_o;&c_n;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>by&tcaron; v <ind>s&uacute;lade</ind></trd>,
+    <trd>byť v súlade</trd>,
+    <trd>harmonizovať</trd>,
+    <trd>ladiť</trd>
+  </trdgrp>
+  <trd lng="sv">&ouml;verensst&auml;mma</trd>
+</drv>
+
+<drv mrk="akord.0igi">
+  <kap><tld/>igi</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="akord.0igi.KOMUNE">
+    <dif>
+      Igi <tld/>a:
+      <ekz>
+        kaze <tld/>igi vorton kun alia<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        peni por <tld/>igi la naciajn fierecojn
+        <klr>(<ref tip="vid" cel="pac.0igi">pacigi</ref>)</klr>;
+      </ekz>
+      <ekz>
+        <tld/>igi horlo&gcirc;ojn.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="konfor.0igi">konformigi</ref>
+    </refgrp>
+    <trdgrp lng="be">
+      <trd>&c_u;&c_z;&c_g;&c_a;&c_d;&c_n;&c_ja;&c_c;&c_mol;</trd>,
+      <trd>&c_p;&c_r;&c_y;&c_v;&c_o;&c_d;&c_z;&c_ib;&c_c;&c_mol; &c_d;&c_a; <ind>&c_z;&c_g;&c_o;&c_d;&c_y;</ind></trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd>Gleichklang <ind>hervorrufen</ind></trd>,
+      <trd>&Uuml;bereinstimmung <ind>bewirken</ind></trd>,
+      <trd>&Uuml;bereinstimmung <ind>herbeif&uuml;hren</ind></trd>
+    </trdgrp>
+    <trd lng="en">place in accord</trd>
+    <trd lng="es">acordar</trd>
+    <trdgrp lng="fr">
+      <trd>accorder<klr tip="amb"> (harmoniser)</klr></trd>,
+      <trd>accorder<klr tip="amb"> (gramm.)</klr></trd>,
+      <trd>mettre d'<ind>accord</ind></trd>,
+      <trd>mettre en <ind>accord</ind></trd>,
+      <trd>faire s'<ind>entendre</ind></trd>
+      <trd>allier<klr tip="ind"> (harmoniser)</klr></trd>
+      <trd>assembler<klr tip="ind"> (harmoniser)</klr></trd>
+      <trd>assortir<klr tip="ind"> (harmoniser)</klr></trd>
+      <trd>associer<klr tip="ind"> (harmoniser)</klr></trd>
+      <trd>concilier</trd>
+      <trd>harmoniser<klr tip="ind"> (mettre en harmonie)</klr></trd>
+      <trd>marier<klr tip="ind"> (harmoniser)</klr></trd>
+    </trdgrp>
+    <trd lng="nl">doen <ind>overeenstemmen</ind></trd>
+    <trdgrp lng="pt">
+      <trd>p&ocirc;r de acordo</trd>,
+      <trd>concordar</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_p;&c_r;&c_i;&c_v;&c_o;&c_d;&c_i;&c_t;&c_mol; &c_k; <ind>&c_s;&c_o;&c_g;&c_l;&c_a;&c_s;&c_i;&c_ju;</ind>
+      <klr>(&c_l;&c_ju;&c_d;&c_je;&c_j;)</klr></trd>,
+      <trd>&c_s;&c_o;&c_g;&c_l;&c_a;&c_s;&c_o;&c_v;&c_y;&c_v;&c_a;&c_t;&c_mol; <klr>(&c_d;&c_je;&c_j;&c_s;&c_t;&c_v;&c_i;&c_ja;)</klr></trd>
+    </trdgrp>
+    <trd lng="sk">zladi&tcaron;</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>ladit</trd>,
+    <trd>seřizovat</trd>,
+    <trd>urovnat <klr>(spor)</klr></trd>,
+    <trd>uspořádat</trd>,
+    <trd>vyladit</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>byť v súlade</trd>,
+    <trd>harmonizovať</trd>,
+    <trd>ladiť</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="akord.0igebla">
+  <kap><tld/>igebla</kap>
+  <snc mrk="akord.0igebla.KOMUNE">
+    <dif>
+      Kiun eblas <tld/>igi:
+      <ekz>
+        tiuj postuloj estas inter si malfacile <tld/>igeblaj
+        <fnt>
+        <aut>S. Pokrovskij</aut>
+        <vrk>Homlingvaj alfabetoj</vrk>
+        <lok><url
+        ref="http://www.iis.nsk.su/persons/pok/Eo/KompLeks/html/SUROGATO.html">Komputada
+        Leksikono</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        nia stre&ccirc;a atentado trudis al vi la nimimumon da preseraroj
+        <tld/>igeblan kun la homa eraremo
+        <fnt>
+        <vrk>Al la legantoj</vrk>
+        <lok><url
+        ref="http://donh.best.vwh.net/Esperanto/Literaturo/Revuoj/nlr/nlr16/enkondukou.html">Nica
+        Literatura Revuo</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;u la aktuala propono por la lingvoreguligo &ccirc;e la
+        Komunuma Patento estas <tld/>igebla kun la principo de
+        nediskriminacio de la komunumaj lingvoj?
+        <fnt><aut>M. Naoki Lins</aut>, <vrk>Patentoj</vrk>, <lok><url
+        ref="http://www.esperanto.be/fel/2003/008126.html">Monato</url></lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">slučitelný</trd>
+  <trdgrp lng="fr">
+    <trd>conciliable</trd>,
+    <trd>compatible</trd>
+  </trdgrp>
+  <trd lng="sk">zlučiteľný</trd>
+</drv>
+
+<drv mrk="akord.0igxi">
+  <kap><tld/>i&gcirc;i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc>
+    <dif>
+      I&gcirc;i <tld/>a:
+      <ekz>
+        ili <tld/>i&gcirc;as por vin trompi<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        multaj malvere atestis kontra&ubreve; li, kaj
+        iliaj atestoj ne <tld/>i&gcirc;is
+        <fnt><bib>NT</bib>, <lok>&Mar; 14:56</lok></fnt>;
+      </ekz>
+      <ekz>
+        <klr>[&scirc;i]</klr> ofte ridis, kio tute ne <tld/>i&gcirc;is
+        kun &scirc;ia pala kaj konfuzita viza&gcirc;o
+        <fnt><bib>PatrojFiloj</bib>, <lok>&ccirc;ap. 19a</lok></fnt>;
+      </ekz>
+      <ekz>
+        mi deziras eksedzini&gcirc;i, &ccirc;ar mi ne povas
+        <tld/>i&gcirc;i kun mia edzo
+        <fnt>
+        <aut>L. Beaucaire</aut>
+        <vrk>Kruko kaj Baniko en Bervalo</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ili ne laboras kun vera diligenteco<klr>[, sed]</klr>
+        kun la tempo &ccirc;io <tld/>i&gcirc;os
+        <fnt><bib>PatrojFiloj</bib>, <lok>&ccirc;ap. 3a</lok></fnt>;
+      </ekz>
+      <ekz>
+        la privata intereso tute <tld/>i&gcirc;is kun la
+        &gcirc;enerala;
+      </ekz>
+      <ekz>
+        <uzo tip="fak">GRA</uzo>
+        la adjektivoj <tld/>i&gcirc;as <klr>(<tld/>as)</klr>
+        la&ubreve; nombro kaj kazo,
+        kaj anka&ubreve; la&ubreve; genro
+        <fnt>
+        <aut>B. Kendal</aut>
+        <vrk>La pola, la lingvo de Zamenhof</vrk>
+        <lok><url
+        ref="http://www.esperanto.be/fel/2002/007888.html">Monato</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="fak">GRA</uzo>
+        por limigi la akuzativon a&ubreve; &ccirc;esigi la <tld/>i&gcirc;on
+        <klr>(<tld/>on)</klr> de la adjektivoj en multnombro, &ccirc;u
+        ta&ubreve;gus subfosi la tutan laboron de duonjarcento?
+        <fnt><bib>VivZam</bib>, <lok>9</lok></fnt>;
+      </ekz>
+      <ekz>
+        <ind><tld/>i&gcirc;ema</ind> <klr>(konsentema)</klr> karaktero.
+        <trdgrp lng="fr">
+          <trd>conciliant</trd>,
+          <trd>accommodant</trd>,
+          <trd>arrangeant</trd>,
+          <trd>commode<klr tip="ind"> (accommodant)</klr></trd>,
+          <trd>facile<klr tip="ind"> (d'un caract&egrave;re
+          accommodant)</klr></trd>,
+          <trd>sociable</trd>
+        </trdgrp>
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="fleks.0igxi.cedi">fleksi&gcirc;i</ref>,
+      <ref cel="konfor.0igxi">konformi&gcirc;i</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_r;&c_y;&c_h;&c_o;&c_d;&c_z;&c_ib;&c_c;&c_mol; &c_d;&c_a; <ind>&c_z;&c_g;&c_o;&c_d;&c_y;</ind></trd>
+    <trd>&c_u;&c_z;&c_g;&c_a;&c_d;&c_n;&c_ja;&c_c;&c_c;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd><klr>in </klr>Gleichklang kommen</trd>,
+    <trd>untereinander <ind>&Uuml;bereinstimmung erreichen</ind></trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>come in accordance</trd>
+    <trd>accord</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>s'<ind>accorder</ind><klr tip="amb"> (s'harmoniser, se mettre
+    d'accord)</klr></trd>,
+    <trd>s'<ind>accorder</ind><klr tip="amb"> (gramm.)</klr></trd>,
+    <trd>se mettre d'<ind>accord</ind></trd>,
+    <trd>tomber d'<ind>accord</ind></trd>,
+    <trd>parvenir &agrave; un <ind>accord</ind></trd>,
+    <trd>se mettre en <ind>accord</ind></trd>,
+    <trd>s'<ind>entendre</ind><klr tip="ind"> (se mettre
+    d'accord)</klr></trd>
+    <trd>s'<ind>allier</ind><klr tip="ind"> (s'harmoniser)</klr></trd>
+    <trd>s'<ind>assembler</ind><klr tip="ind">
+    (s'harmoniser)</klr></trd>
+    <trd>s'<ind>associer</ind><klr tip="ind"> (s'harmoniser)</klr></trd>
+    <trd>s'<ind>assortir</ind><klr tip="ind"> (s'harmoniser)</klr></trd>
+    <trd>s'<ind>harmoniser</ind></trd>
+    <trd>se <ind>marier</ind><klr tip="ind"> (s'harmoniser)</klr></trd>
+    <trd>se mettre en <ind>phase</ind><klr tip="ind"> (avec qc ou
+    qn)</klr></trd>
+    <trd><ind>aller</ind> avec</trd>
+  </trdgrp>
+  <trd lng="pt">entrar em acordo</trd>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_r;&c_i;&c_h;&c_o;&c_d;&c_i;&c_t;&c_mol; &c_k;
+    <ind>&c_s;&c_o;&c_g;&c_l;&c_a;&c_s;&c_i;&c_ju;</ind></trd>
+    <trd>&c_s;&c_o;&c_g;&c_l;&c_a;&c_s;&c_o;&c_v;&c_y;&c_v;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>
+  </trdgrp>
+  <trd lng="sk">zladi&tcaron; sa</trd>
+</drv>
+
+<drv mrk="akord.inter0o">
+  <kap>inter<tld/>o</kap>
+  <uzo tip="stl">RAR</uzo>
+  <snc mrk="akord.inter0o.samopinieco">
+    <fnt><bib>PV</bib><lok>harmonio</lok></fnt>
+    <ref tip="dif" cel="akord.0o.samopinieco"><tld/>o<sncref/></ref>
+    <trdgrp lng="fr">
+      <trd>accord<klr tip="ind"> (fait d'&ecirc;tre en accord)</klr></trd>,
+      <trd>entente<klr tip="ind"> (accord)</klr></trd>,
+      <trd>concorde</trd>,
+      <trd>identit&eacute; de <ind>vue</ind>s</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="akord.inter0o.konveneco">
+    <ref tip="dif" cel="akord.0o.konveneco"><tld/>o<sncref/></ref>
+    <trdgrp lng="fr">
+      <trd>accord<klr tip="ind"> (ad&eacute;quation)</klr></trd>,
+      <trd>ad&eacute;quation</trd>,
+      <trd>concordance</trd>,
+      <trd>conformit&eacute;</trd>,
+      <trd>harmonie<klr tip="ind"> (concordance entre
+      choses)</klr></trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="akord.inter0o.JUR">
+    <ref tip="dif" cel="akord.0o.JUR"><tld/>o<sncref/></ref>
+    <ekz>
+      fini&gcirc;is per ekstertribunala inter<tld/>o la proceso
+      de la Antarktika Esperanto-Asocio kontra&ubreve; la
+      A&ubreve;stralia Asocio
+      <fnt>
+      <aut>O. Boskerp</aut>
+      <vrk>Jubileo de Antarktika E-Asocio</vrk>
+      <lok><url ref="ftp://ftp.pixelmedia.com.au/ESK/ESK_047.pdf">ESK
+      2000-10/11</url></lok>
+      </fnt>.
+    </ekz>
+    <trdgrp lng="fr">
+      <trd>accord<klr tip="ind"> (juridique)</klr></trd>,
+      <trd>convention<klr tip="ind"> (juridique)</klr></trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>kompatibilnost</trd>,
+    <trd>shoda</trd>
+  </trdgrp>
+  <trd lng="sk">zhoda</trd>
+</drv>
+
+<drv mrk="akord.mal0o">
+  <kap>mal<tld/>o</kap>
+  <snc mrk="akord.mal0o.malsamopinieco">
+    <ref tip="ant" cel="akord.0o.samopinieco"><tld/>o<sncref/></ref>
+    <ekz>
+      juneca aventuramo igis min alpreni <klr>[tiun profesion]</klr>,
+      kaj mal<tld/>o kun parencoj, kiu jam ne ekzistas
+      <fnt><bib>I&scirc;tar</bib>, <lok>&ccirc;ap. 9a</lok></fnt>;
+    </ekz>
+    <ekz>
+      en Vilvoorde <klr>[...]</klr> ekestis mal<tld/>o inter liberaluloj
+      kaj la kristandemokrata partio
+      <fnt>
+      <aut>G. Van Damme</aut>,
+      <vrk>Demokratio blokita</vrk>,
+      <lok><url
+      ref="http://www.esperanto.be/fel/mon/007259.html">Monato</url></lok>
+      </fnt>.
+    </ekz>
+    <refgrp tip="vid">
+      <ref cel="konfli.0o">konflikto</ref>,
+      <ref cel="akord.mis0o">mis<tld/>o</ref>
+    </refgrp>
+    <trdgrp lng="fr">
+      <trd>d&eacute;saccord</trd>,
+      <trd>conflit</trd>,
+      <trd>contradiction</trd>,
+      <trd>diff&eacute;rend</trd>,
+      <trd>discordance</trd>,
+      <trd>discorde</trd>,
+      <trd>dissension</trd>,
+      <trd>dissentiment</trd>,
+      <trd>divergence de <ind>vue</ind>s</trd>,
+      <trd>friction<klr tip="ind"> (divergence de vues)</klr></trd>,
+      <trd>litige</trd>,
+      <trd>m&eacute;sentente</trd>,
+      <trd>opposition</trd>,
+      <trd>tiraillement<klr tip="ind"> (divergence de vues)</klr></trd>,
+    </trdgrp>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>konflikt</trd>,
+    <trd>rozpor</trd>,
+    <trd>rozvrat</trd>,
+    <trd>úplná neshoda</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>konflikt</trd>,
+    <trd>nezhoda</trd>,
+    <trd>rozpor</trd>,
+    <trd>rozvrat</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="akord.mal0i">
+  <kap>mal<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="akord.mal0i.KOMUNE">
+    <ref tip="ant" cel="akord.0i"><tld/>i</ref>
+    <ekz>
+      via rakonto, profesoro, estas tre interesa, kvankam &gcirc;i
+      tute mal<tld/>as kun la Evangelioj
+      <fnt><bib>MkM</bib>, <lok>&ccirc;ap. 3a</lok></fnt>.
+    </ekz>
+    <ref tip="vid" cel="konfli.0i">konflikti</ref>
+  </snc>
+  <trd lng="cs">být v rozporu</trd>
+  <trdgrp lng="fr">
+    <trd>&ecirc;tre en <ind>d&eacute;saccord</ind></trd>,
+    <trd>&ecirc;tre en <ind>conflit</ind></trd>,
+    <trd>&ecirc;tre en <ind>contradiction</ind></trd>,
+    <trd>contredire</trd>,
+    <trd>avoir un <ind>diff&eacute;rend</ind></trd>,
+    <trd>avoir un <ind>litige</ind></trd>,
+  </trdgrp>
+  <trd lng="sk">byť v rozpore</trd>
+</drv>
+
+<drv mrk="akord.mal0a">
+  <kap>mal<tld/>a</kap>
+  <snc mrk="akord.mal0a.KOMUNE">
+    <ref tip="ant" cel="akord.0a"><tld/>a</ref>
+    <ekz>
+      la elementoj estas kunmiksitaj, la animoj mal<tld/>aj kaj
+      se vi ne savos nin, sinjoro, la horoj de nia vivo estas kalkulitaj
+      <fnt><bib>Far3</bib>, <lok>&ccirc;ap. 13a</lok></fnt>;
+    </ekz>
+    <ekz>
+      &Ccirc;inio jam reviziis kaj nuligis serion da le&gcirc;oj kaj
+      reguloj mal<tld/>aj al la difinoj de MKO
+      <fnt>
+      <aut>Zuo Yan</aut>,
+      <vrk>&Ccirc;inio plenumas sian promeson al MKO</vrk>,
+      <lok><url
+      ref="http://www.chinareport.com.cn/18s/wto/wto-12.htm">El Popola
+      &Ccirc;inio</url></lok>
+      </fnt>;
+    </ekz>
+    <ekz>
+      la violonoj mal<tld/>e pepis, penante agordi&gcirc;i
+      al la mallertaj violon&ccirc;eloj
+      <fnt><bib>Metrop</bib>, <lok>&ccirc;ap. 3a</lok></fnt>.
+    </ekz>
+    <ref tip="vid" cel="konfli.0a">konflikta</ref>
+  </snc>
+  <trd lng="cs">nejednotný</trd>
+  <trdgrp lng="fr">
+    <trd>en <ind>d&eacute;saccord</ind><klr tip="ind"> (loc. adj.)</klr></trd>,
+    <trd>en <ind>inad&eacute;quation</ind><klr tip="ind"> (loc.
+    adj.)</klr></trd>,
+    <trd>contraire<klr tip="ind"> (adj.)</klr></trd>,
+    <trd>contradictoire</trd>,
+    <trd>d&eacute;cal&eacute;</trd>,
+    <trd>d&eacute;phas&eacute;</trd>,
+    <trd>divergent</trd>,
+    <trd>incoh&eacute;rent</trd>,
+    <trd>inharmonieux</trd>,
+    <trd>oppos&eacute;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>bez ladu nesúladný</trd>,
+    <trd>nezhodný</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="akord.mal0igebla">
+  <kap>mal<tld/>igebla</kap>
+  <uzo tip="stl">RAR</uzo>
+  <snc mrk="akord.mal0igebla.KOMUNE">
+    <ref tip="dif" cel="akord.ne0igebla">ne<tld/>igebla</ref>
+    <ekz>
+      tio ja estus mal<tld/>igebla kun via re&gcirc;ina digno
+      <fnt><bib>MkM</bib>, <lok>&ccirc;ap. 24a</lok></fnt>.
+    </ekz>
+  </snc>
+  <trdgrp lng="fr">
+    <trd>inconciliable</trd>,
+    <trd>antagonique</trd>,
+    <trd>antinomique</trd>,
+    <trd>contradictoire</trd>,
+    <trd>incompatible</trd>,
+    <trd>irr&eacute;conciliable</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="akord.mis0o">
+  <kap>mis<tld/>o</kap>
+  <uzo tip="stl">RAR</uzo>
+  <snc mrk="akord.mis0o.KOMUNE">
+    <dif>
+      Nekompleta, malbona <tld/>o:
+      <ekz>
+        zorgu, ke akraj sonoj ne faru mis<tld/>ojn
+        <fnt>
+        <aut>N. Boileau, trad. G. Waringhien</aut>,
+        <vrk>La arto poezia: Unua kanto</vrk>,
+        <lok><url
+        ref="http://donh.best.vwh.net/Esperanto/Literaturo/Revuoj/nlr/nlr26/Boileau/kanto_unuau.html">Nica
+        Literatura Revuo</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        estas ja kelkaj mis<tld/>oj inter la membro&scirc;tatoj pri
+        la nele&gcirc;aj rifu&gcirc;intoj
+        <fnt>
+        <aut>trad. J.-M. Cash</aut>,
+        <vrk>Le Monde Diplomatique en Esperanto</vrk>,
+        <lok><url
+        ref="http://eo.mondediplo.com/article887.html">2004-03</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <rim>
+      &Scirc;ajnas, ke tiu &ccirc;i vorto rolas &ccirc;efe kiel evitvorto por
+      <ref cel="akord.mal0o">mal<tld/>o</ref>.
+    </rim>
+  </snc>
+  <trdgrp lng="fr">
+    <trd>dissonance<klr tip="ind"> (fig.)</klr></trd>,
+    <trd>fausse <ind>note</ind><klr tip="ind"> (fig.)</klr></trd>,
+    <trd>d&eacute;saccord<klr tip="ind"> (l&eacute;ger)</klr></trd>,
+    <trd>d&eacute;calage<klr tip="ind"> (entre points de vue)</klr></trd>,
+    <trd>discordance</trd>,
+    <trd>divergence de <ind>vue</ind>s</trd>,
+    <trd>friction<klr tip="ind"> (divergence de vues)</klr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="akord.ne0igebla">
+  <kap>ne<tld/>igebla</kap>
+  <snc mrk="akord.ne0igebla.KOMUNE">
+    <dif>
+      Kiun ne eblas <tld/>igi:
+      <ekz>
+        <klr>[la ekologiaj dama&gcirc;oj necesigas]</klr> politikajn
+        decidojn ne<tld/>igeblajn kun la dominanta novliberalisma modelo
+        <fnt>
+        <aut>trad. J.-M. Cash</aut>,
+        <vrk>Le Monde Diplomatique en Esperanto</vrk>,
+        <lok><url
+        ref="http://eo.mondediplo.com/article988.html">2005-01</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="akord.mal0igebla">mal<tld/>igebla</ref>
+  </snc>
+  <trd lng="cs">neslučitelný</trd>
+  <trdgrp lng="fr">
+    <trd>inconciliable</trd>,
+    <trd>antagonique</trd>,
+    <trd>antinomique</trd>,
+    <trd>contradictoire</trd>,
+    <trd>incompatible</trd>,
+    <trd>irr&eacute;conciliable</trd>
+  </trdgrp>
+  <trd lng="sk">nezladiteľný</trd>
+</drv>
+
+<drv mrk="akord.0ekun">
+  <kap><tld/>e kun, <var><kap><tld/>e al</kap></var></kap>
+  <gra><vspec>prepozicia&jcirc;o</vspec></gra>
+  <snc mrk="akord.0ekun.KOMUNE">
+    <dif>
+      La&ubreve; komuna sento, komuna intenco, komuna maniero,
+      <ref tip="vid" cel="kongru.0ekun.KOMUNE">kongrue kun</ref>,
+      <ref tip="vid" cel="konfor.0eal.KOMUNE">konforme al</ref>:
+      <ekz>
+        ni esperas doni specialan rolon al la teatro,
+        <tld/>e kun la tradicio de la gastiganta urbo
+        <fnt>
+          <aut>Hispana Esperanto-Federacio</aut>,
+          <vrk><url
+          ref="http://www.esperanto.es/hef/images/kongreso/almagro/anoncokongresoalmagro.pdf">
+          71-a Hispana Kongreso de Esperanto</url></vrk>,
+          <lok>[vidita en 2012]</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        dum la dua mondmilito, <tld/>e al la militarisma politiko por 
+        ekspansii suden, Japanio pluapa&scirc;e disvolvis en Taiwan diversajn 
+        industriojn rilatajn al la milito
+        <fnt>
+          <aut>&Ccirc;ina Radio Internacia</aut>,
+          <vrk><url
+          ref="http://esperanto.cri.cn/chinaabc/chapter10/chapter100501.htm">
+          Ekspluata Historio de Taiwan</url></vrk>,
+          <lok>[vidita en 2012]</lok>
+        </fnt> .
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">en accord avec</trd>
+</drv>
+
+<drv mrk="akord.mal0ekun">
+  <kap>mal<tld/>e kun</kap>
+  <gra><vspec>prepozicia&jcirc;o</vspec></gra>
+  <snc mrk="akord.mal0ekun.KOMUNE">
+    <dif>
+      Malharmonie,
+      <ref tip="vid" cel="kongru.mal0ekun.KOMUNE">malkongrue kun</ref>,
+      <ref tip="vid" cel="kontra8.0eal.KOMUNE">kontraste al</ref>:
+      <ekz>
+        ne rekonis anabaptistoj, mal<tld/>e kun Lutero kaj Swinglio,
+        la bapton de infanoj
+        <fnt>
+          <aut>E. Pauli</aut>,
+          <vrk><url
+          ref="http://cfh.ufsc.br/~simpozio/Esperanto/ANABAPTISMO.html">
+          Enciklopedio simpozio</url></vrk>,
+          <lok>artikolo &leftquot;anabaptismo&rightquot;, [1999]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">en d&eacute;saccord avec</trd>
+</drv>
+
+<drv mrk="akord.veni_en_0on">
+  <kap>veni en <tld/>on</kap>
+  <uzo tip="stl">FRAZ</uzo>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="akord.veni_en_0on.KOMUNE">
+    <ref tip="dif" cel="akord.0igxi"><tld/>i&gcirc;i</ref>
+  </snc>
+  <trdgrp lng="fr">
+    <trd>s'<ind>accorder</ind><klr tip="amb"> (s'harmoniser, se mettre
+    d'accord)</klr></trd>,
+    <trd>se mettre d'<ind>accord</ind></trd>,
+    <trd>tomber d'<ind>accord</ind></trd>,
+    <trd>parvenir &agrave; un <ind>accord</ind></trd>,
+    <trd>se mettre en <ind>accord</ind></trd>,
+    <trd>s'<ind>entendre</ind><klr tip="ind"> (se mettre
+    d'accord)</klr></trd>
+    <trd>s'<ind>allier</ind><klr tip="ind"> (s'harmoniser)</klr></trd>
+    <trd>s'<ind>assembler</ind><klr tip="ind">
+    (s'harmoniser)</klr></trd>
+    <trd>s'<ind>associer</ind><klr tip="ind"> (s'harmoniser)</klr></trd>
+    <trd>s'<ind>assortir</ind><klr tip="ind"> (s'harmoniser)</klr></trd>
+    <trd>s'<ind>harmoniser</ind></trd>
+    <trd>se <ind>marier</ind><klr tip="ind"> (s'harmoniser)</klr></trd>
+    <trd>se mettre en <ind>phase</ind><klr tip="ind"> (avec qc ou
+    qn)</klr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: akord.xml,v $
+Revision 1.33  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.32  2015/06/29 16:39:29  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.31  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.30  2012/01/18 01:10:08  revo
+Jeromo Vasxe: kor 1 ref
+
+Revision 1.29  2012/01/04 11:10:11  revo
+Jeromo Vasxe: + ~e/mal~e kun
+
+Revision 1.28  2010/07/19 16:30:31  revo
+Agustin Garcia Lopez: +trd es (-i, -igi)
+
+Revision 1.27  2005/10/31 17:31:40  revo
+Marc Bavant: kor ref cel al tono; mod ref konformeco, kongrueco; ~i:
++ref al konformi, kongrui; ~igi: +ref al kongruigi, +trd fr; ~igxi:
++refgrp, +trd fr en ekz ~igxema
+
+Revision 1.26  2005/10/24 16:31:34  revo
+Marc Bavant: +trd fr, +drv inter~o, mis~o, ~igebla, ne~igebla,
+mal~igebla; ~o MUZ: mod dif, +ekz, +adm; ~o: +ref, mod rim, mod mrk; ~a:
++ekz, splitis; ~i: +mrk
+
+Revision 1.25 2005/10/17 16:31:11 revo
+Marc Bavant: +ekz, kor ekz, +trd fr, kor ref tip sin; ~o: splitis snc 1,
++snc GRA, +snc JUR, sxovis snc MUZ unualoken, +ref al "agordo"; ~igi:
+-->
+</vortaro>

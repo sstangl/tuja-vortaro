@@ -1,0 +1,144 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: kvitan.xml,v 1.21 2015/07/04 08:37:38 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>kvitanc</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="kvitan.0o">
+  <kap>
+    <ofc>*</ofc><tld/>o
+  </kap>
+  <snc mrk="kvitan.0o.EKON">
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      Skriba&jcirc;o per kiu oni kvitigas iun pri sumo, kiun li devis pagi;
+      kvitatesto.
+    </dif>
+    <trd lng="be">&c_r;&c_a;&c_s;&c_mol;&c_p;&c_ib;&c_s;&c_k;&c_a;</trd>
+    <trd lng="bg">&c_k;&c_v;&c_i;&c_t;&c_a;&c_n;&c_c;&c_i;&c_ja;</trd>
+    <trd lng="de">Quittung</trd>
+    <trd lng="ru">&c_r;&c_a;&c_s;&c_p;&c_i;&c_s;&c_k;&c_a;</trd>
+  </snc>
+  <snc mrk="kvitan.0o.POSX">
+    <uzo tip="fak">POSX</uzo>
+    <uzo tip="fak">TEL</uzo>
+    <dif>
+      Skriba&jcirc;o per kiu oni atestas, ke oni bone ricevis leteron
+      a&ubreve; paka&jcirc;on; ricevatesto:
+      <ekz>
+        &ccirc;e la ricevo de nia letero, ni petas vin resendi <tld/>on.
+      </ekz>
+    </dif>
+    <trd lng="de">Empfangsbest&auml;tigung</trd>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_k;&c_v;&c_ib;&c_t;&c_a;&c_n;&c_c;&c_y;&c_ja;</trd>,
+    <trd>&c_c;&c_e;&c_t;&c_l;&c_ib;&c_k;</trd>
+  </trdgrp>
+  <trd lng="br">kuita&ntilde;s</trd>
+  <trdgrp lng="en">
+    <trd>receipt</trd>,
+    <trd>written acknowledgment of receipt</trd>
+  </trdgrp>
+  <trd lng="es">recibo</trd>
+  <trd lng="fr">quittance</trd>
+  <trd lng="hu">nyugta</trd>
+  <trd lng="nl">ontvangstbewijs</trd>
+  <trdgrp lng="pt">
+    <trd>recibo <klr tip="ind">(documento)</klr></trd>,
+    <trd>quita&ccedil;&atilde;o</trd>
+  </trdgrp>
+  <trd lng="ru">&c_k;&c_v;&c_i;&c_t;&c_a;&c_n;&c_c;&c_i;&c_ja;</trd>
+  <trd lng="sv">kvitto</trd>
+</drv>
+
+<drv mrk="kvitan.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="kvitan.0i.EKON">
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      Doni <tld/>on al iu:
+      <ekz>
+        li <tld/>is min pri mia lupago.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="kvitan.0i.POSX">
+    <uzo tip="fak">POSX</uzo>
+    <uzo tip="fak">TEL</uzo>
+    <dif>
+      Sendi ricevateston:
+      <ekz>
+        la centro <tld/>is la raporton kaj
+        ekestis silento
+        <fnt><aut>I. Nemere</aut>, <vrk>Sur Kampo Granita</vrk>, 
+        <lok>1983</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_v;&c_y;&c_d;&c_a;&c_c;&c_mol; <ind>&c_k;&c_v;&c_ib;&c_t;&c_a;&c_n;&c_c;&c_y;&c_ju;</ind></trd>,
+    <trd>&c_v;&c_y;&c_d;&c_a;&c_c;&c_mol; <ind>&c_r;&c_a;&c_s;&c_mol;&c_p;&c_ib;&c_s;&c_k;&c_u;</ind></trd>
+  </trdgrp>
+  <trd lng="br">kuiteza&ntilde;</trd>
+  <trdgrp lng="cs">
+    <trd>potvrdit příjem</trd>,
+    <trd>potvrdit vyrovnání závazku</trd>
+  </trdgrp>
+  <trd lng="de">quittieren</trd>
+  <trdgrp lng="en">
+    <trd>give a receipt</trd>,
+    <trd>acknowledge receipt of something</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>accuser r&eacute;ception</trd>,
+    <trd>quittancer</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>nyugt&aacute;z</trd>,
+    <trd>nyugt&aacute;t ad</trd>
+  </trdgrp>
+  <trd lng="nl">kwijten</trd>
+  <trd lng="ru">&c_v;&c_y;&c_d;&c_a;&c_t;&c_mol; &c_k;&c_v;&c_i;&c_t;&c_a;&c_n;&c_c;&c_i;&c_ju;</trd>
+  <trdgrp lng="sk">
+    <trd>kvitovať</trd>,
+    <trd>potvrdiť</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: kvitan.xml,v $
+Revision 1.21  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.19  2011/01/05 12:10:11  revo
+Jeromo Vasxe: + 1 ekz + fak posx
+
+Revision 1.18  2009/09/22 17:17:41  revo
+Paul Peeraerts: +nl
+
+Revision 1.17  2009/08/11 16:30:34  revo
+Wieland Pusch: +trd bg
+
+Revision 1.16  2009/08/08 16:34:27  revo
+Russ Williams: +trd en
+
+Revision 1.15  2006/09/22 12:27:23  revo
+Tulio Flores: +tr pt
+
+Revision 1.14  2006/01/17 17:31:34  revo
+Jerano Zachrisson: +trd sv
+
+Revision 1.13  2005/04/21 17:18:27  revo
+Alan ar Gall: +trd br, fr
+
+Revision 1.12  2004/03/20 17:30:54  revo
+-->
+</vortaro>

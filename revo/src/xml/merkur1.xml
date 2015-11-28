@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: merkur1.xml,v 1.19 2015/07/04 08:37:39 revo Exp $">
+<kap><rad>Merkur</rad>/o <fnt><bib>PIV1</bib></fnt></kap>
+<drv mrk="merkur1.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="merkur1.0o.mita">
+    <uzo tip="fak">MIT</uzo>
+    <dif>
+     Romia <ref tip="super" cel="di.0o.politeisma">dio</ref> de komerco.
+      Analogo de helena <ref tip="vid" cel="hermes.0o">Hermeso</ref>.
+    </dif>
+    <trd lng="hu">Mercurius</trd>
+    <trd lng="pt">Merc&uacute;rio <klr>(mit.)</klr></trd>
+  </snc>
+  <snc mrk="merkur1.0o.AST">
+    <uzo tip="fak">AST</uzo>
+    <mlg>&#9791;</mlg>
+    <dif>
+      La plej proksima al la <ref tip="vid" cel="sun.0o.nia">Suno</ref>
+      <ref tip="lst" cel="planed.0o" lst="voko:planedoj">planedo</ref>
+      de la <ref tip="malprt" cel="sun.0sistemo">sunsistemo</ref>.
+    </dif>
+    <trdgrp lng="fa">
+      <trd>&a_t;&f_y;&a_r;</trd>
+      <trd>&a_ayn;&a_T;&a_A;&a_r;&a_d;</trd>
+    </trdgrp>
+    <trd lng="hu">Merc&uacute;r</trd>
+    <trd lng="pt">Merc&uacute;rio <klr>(astr.)</klr></trd>
+    <trd lng="zh">&#27700;&#26143;<klr> [Shu&#464;x&#299;ng]</klr></trd>
+  </snc>
+  <trd lng="be">&c_M;&c_e;&c_r;&c_k;&c_u;&c_r;&c_y;&c_j;</trd>
+  <trd lng="bg">&c_M;&c_je;&c_r;&c_k;&c_u;&c_r;&c_i;&c_j;</trd>
+  <trd lng="cs">Merkur</trd>
+  <trd lng="de">Merkur</trd>
+  <trd lng="el">&Epsilon;&rho;&my;&eta_ton;&sigma_fina;</trd>
+  <trd lng="en">Mercury</trd>
+  <trd lng="es">Mercurio</trd>
+  <trd lng="fr">Mercure</trd>
+  <trd lng="id">Merkurius</trd>
+  <trd lng="it">Mercurio</trd>
+  <trd lng="nl">Mercurius</trd>
+  <trd lng="pl">Merkury</trd>
+  <trd lng="pt">Merc&uacute;rio (astr.)</trd>
+  <trd lng="ru">&c_M;&c_je;&c_r;&c_k;&c_u;&c_r;&c_i;&c_j;</trd>
+  <trd lng="sk">Merkúr</trd>
+</drv>
+
+<drv mrk="merkur1.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="merkur1.0a.mita">
+    <uzo tip="fak">MIT</uzo>
+    <dif>
+      Rilata al <tld/>o <sncref ref="merkur1.0o.mita"/>.
+    </dif>
+    <trd lng="pl">merkurego</trd>
+    <trd lng="pt">mercuriano <klr>(mit.)</klr></trd>
+    <trd lng="ru">&c_m;&c_je;&c_r;&c_k;&c_u;&c_r;&c_i;&c_je;&c_v;</trd>
+  </snc>
+  <snc mrk="merkur1.0a.planeda">
+    <uzo tip="fak">AST</uzo>
+    <dif>
+      Rilata al <tld/>o <sncref ref="merkur1.0o.AST"/>.
+    </dif>
+    <trd lng="fr">mercurien<klr> (adj.)</klr></trd>
+    <trdgrp lng="pl">
+      <trd>merkurego</trd>,
+      <trd>merkuria&nacute;ski</trd>
+    </trdgrp>
+    <trd lng="pt">mercuriano <klr>(mit.)</klr></trd>
+    <trd lng="ru">
+    &c_m;&c_je;&c_r;&c_k;&c_u;&c_r;&c_i;&c_a;&c_n;&c_s;&c_k;&c_i;&c_j;
+    </trd>
+  </snc>
+  <trd lng="en">Mercurial</trd>
+  <trd lng="nl">van <ind>Mercurius</ind></trd>
+</drv>
+</art>
+<!--
+$Log: merkur1.xml,v $
+Revision 1.19  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2014/06/09 16:10:43  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.16  2014/01/17 15:10:14  revo
+Joop Eggen: +trd bg
+
+Revision 1.15  2013/09/23 08:10:19  revo
+Wolfram Diestel: simb
+
+Revision 1.14  2013/08/25 18:10:15  revo
+Wolfram Diestel: referencoj al listo palnedoj
+
+Revision 1.13  2010/02/07 17:30:23  revo
+Russ Williams: +trd en
+
+Revision 1.12  2009/06/24 16:30:29  revo
+Wieland Pusch: korr arabaj/persaj koderoj
+
+Revision 1.11  2009/05/04 16:31:39  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.10  2008/06/16 16:54:04  revo
+-->
+</vortaro>

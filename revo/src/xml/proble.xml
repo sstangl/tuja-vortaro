@@ -1,0 +1,145 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: proble.xml,v 1.20 2015/07/04 08:37:42 revo Exp $">
+<kap>
+   <ofc>1</ofc>
+   <rad>problem</rad>/o
+</kap>
+<drv mrk="proble.0o">
+   <kap><tld/>o</kap>
+   <snc>
+     <dif>
+       Solvota demando, malfacila&jcirc;o:
+       <ekz>
+         aritmetika, fizika, filozofia <tld/>o;
+       </ekz>
+       <ekz>
+         la socia <tld/>o;
+       </ekz>
+       <ekz>
+         tio estas unu el la plej gravaj <tld/>oj, kiuj staras 
+anta&ubreve; ni;
+       </ekz>
+       <ekz>
+         solvi la <tld/>on de lingvo tutmonda<fnt>Z</fnt>.
+       </ekz>
+     </dif>
+     <refgrp tip="sin">
+       <ref cel="enigm.0o">enigmo</ref>.
+     </refgrp>
+   </snc>
+  <trdgrp lng="be">
+     <trd>&c_p;&c_r;&c_a;&c_b;&c_l;&c_je;&c_m;&c_a;</trd>,
+     <trd>&c_z;&c_a;&c_d;&c_a;&c_ch;&c_a;</trd>
+   </trdgrp>
+  <trd lng="bg">&c_p;&c_r;&c_o;&c_b;&c_l;&c_je;&c_m;</trd>
+  <trdgrp lng="cs">
+    <trd>obtíž</trd>,
+    <trd>otázka</trd>,
+    <trd>problém</trd>,
+    <trd>těžkost</trd>,
+    <trd>záhada</trd>,
+    <trd>úloha</trd>
+  </trdgrp>
+  <trd lng="de">Problem</trd>
+  <trd lng="en">problem</trd>
+  <trd lng="es">problema</trd>
+  <trdgrp lng="fa">
+     <trd>&a_m;&a_s;&a_y_hamza;&a_l;&a_h;</trd>,
+     <trd>&a_m;&a_sh;&f_k;&a_l;</trd>
+   </trdgrp>
+  <trd lng="fr">probl&egrave;me</trd>
+  <trd lng="hu">probl&eacute;ma</trd>
+  <trdgrp lng="nl">
+     <trd>probleem</trd>,
+     <trd>vraagstuk</trd>
+   </trdgrp>
+  <trd lng="pt">problema</trd>
+  <trdgrp lng="ru">
+     <trd>&c_p;&c_r;&c_o;&c_b;&c_l;&c_je;&c_m;&c_a;</trd>,
+     <trd>&c_z;&c_a;&c_d;&c_a;&c_ch;&c_a;</trd>
+   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>obtiaž</trd>,
+    <trd>problém</trd>,
+    <trd>záhada</trd>,
+    <trd>úloha</trd>,
+    <trd>ťažkosť</trd>
+  </trdgrp>
+  <trd lng="sv">problem</trd>
+</drv>
+
+<drv mrk="proble.0a">
+   <kap><tld/>a</kap>
+   <snc>
+     <dif>
+       Karakterizas ion, kies solvo a&ubreve; efektivi&gcirc;o estas duba:
+       <ekz>
+         <tld/>a opinio, sukceso;
+       </ekz>
+       <ekz>
+         rifuzi la faktan nuna&jcirc;on pro la <tld/>a 
+estonta&jcirc;o<fnt>Z</fnt>.
+       </ekz>
+     </dif>
+   </snc>
+  <trd lng="be">&c_p;&c_r;&c_a;&c_b;&c_l;&c_je;&c_m;&c_a;&c_t;&c_y;&c_ch;&c_n;&c_y;</trd>
+  <trd lng="bg">&c_p;&c_r;&c_o;&c_b;&c_l;&c_je;&c_m;&c_a;&c_t;&c_i;&c_ch;&c_je;&c_n;</trd>
+  <trdgrp lng="cs">
+    <trd>problematický</trd>,
+    <trd>záhadný</trd>
+  </trdgrp>
+  <trd lng="de">problematisch</trd>
+  <trd lng="en">problematic</trd>
+  <trdgrp lng="fa">
+     <trd>&a_m;&a_sh;&f_k;&a_l;</trd>,
+     <trd>&a_d;&a_sh;&a_w;&a_A;&a_r;</trd>,
+     <trd>&a_m;&a_sh;&f_k;&a_l;&zwnj;&a_A_madda;&a_f;&a_r;&f_y;&a_n;</trd>,
+     <trd>&a_m;&a_s;&a_y_hamza;&a_l;&a_h;&zwnj;&a_d;&a_A;&a_r;</trd>
+   </trdgrp>
+  <trd lng="fr">probl&eacute;matique</trd>
+  <trdgrp lng="hu">
+     <trd>problematikus</trd>,
+     <trd>probl&eacute;m&aacute;s</trd>
+   </trdgrp>
+  <trd lng="nl">problematisch</trd>
+  <trd 
+lng="ru">&c_p;&c_r;&c_o;&c_b;&c_l;&c_je;&c_m;&c_a;&c_t;&c_i;&c_ch;&c_n;&c_y;&c_j;</trd>
+  <trd lng="sk">problematický</trd>
+  <trd lng="sv">problematisk</trd>
+</drv>
+</art>
+<!--
+$Log: proble.xml,v $
+Revision 1.20  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2013/08/22 15:10:19  revo
+Joop Eggen: +trd bg
+
+Revision 1.17  2009/11/28 17:31:01  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.16  2009/06/27 16:31:09  revo
+Russ Williams: +trd en
+
+Revision 1.15  2006/03/20 17:33:32  revo
+Tulio Flores: +tr pt
+
+Revision 1.14  2005/01/24 19:03:58  revo
+Wieland Pusch: +trd de
+
+Revision 1.13  2004/08/12 16:32:22  revo
+Jean Hennebert: +trd fr
+
+Revision 1.12  2004/01/13 18:59:45  revo
+Emmanuel Debanne: +trd fr
+
+Revision 1.11  2003/07/19 16:31:57  revo
+-->
+</vortaro>

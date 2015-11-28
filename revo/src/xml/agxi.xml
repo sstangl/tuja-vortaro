@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: agxi.xml,v 1.12 2011/11/18 11:10:20 revo Exp $">
+<kap>
+  <ofc>3</ofc>
+  <rad>a&gcirc;i</rad>/o
+</kap>
+<drv mrk="agxi.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">EKON</uzo>
+  <snc>
+    <dif>
+      Diferenco inter la nominala kaj efektiva (la&ubreve;kurza) valoro de la
+      mono. Se ne estas iu diferenco, oni parolas pri <ref tip="vid"
+      cel="alpar.0o">alparo</ref>.
+    </dif>
+  </snc>
+  <trd lng="be">&c_a;&c_zh;&c_y;&c_jo;</trd>
+  <trdgrp lng="de">
+     <trd>Aufgeld</trd>,
+     <trd>Agio</trd>
+  </trdgrp>
+  <trd lng="en">agio</trd>
+  <trd lng="fr">agio</trd>
+  <trdgrp lng="hu">
+    <trd>&aacute;zsi&oacute;</trd>,
+    <trd>&aacute;rfolyam-k&uuml;l&ouml;nb&ouml;zet</trd>
+  </trdgrp>
+  <trd lng="it">aggio<klr> (econ.)</klr></trd>
+  <trd lng="nl">agio</trd>
+  <trd lng="pt">&aacute;gio</trd>
+  <trdgrp lng="ru">
+    <trd>&c_a;&c_zh;&c_i;&c_o;</trd>,
+    <trd>&c_l;&c_a;&c_zh;</trd>,
+    <trd>&c_p;&c_r;&c_o;&c_m;&c_je;&c_n;</trd>
+  </trdgrp>
+  <trd lng="sk">&aacute;&zcaron;io</trd>
+</drv>
+</art>
+<!--
+$Log: agxi.xml,v $
+Revision 1.12  2011/11/18 11:10:20  revo
+Antonio Codazzi: + trd it
+
+Revision 1.11  2005/07/26 16:32:19  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.10  2004/06/01 17:23:53  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.9  2003/05/17 16:32:34  revo
+Viliam Bur: +trd sk
+
+Revision 1.8  2002/09/22 08:15:16  revo
+Christopher Zervic: + trd ang
+
+Revision 1.7  2002/03/21 18:33:29  revo
+Ulrich Fellmann: + 2 germ trdj + ligo al alparo
+
+Revision 1.6  2002/02/14 17:39:23  revo
+Yury Finkel: +trd ru, +uzo EKON
+
+Revision 1.5 2001/07/03 18:12:40 revo
+-->
+</vortaro>

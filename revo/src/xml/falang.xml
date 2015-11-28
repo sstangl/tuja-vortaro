@@ -1,0 +1,140 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: falang.xml,v 1.23 2015/07/04 08:37:34 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>falang</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="falang.0o">
+<kap><tld/>o</kap>
+  <snc mrk="falang.0o.ANA">
+    <uzo tip="fak">ANA</uzo>
+    <dif>
+      &Ccirc;iu el la artikigitaj partoj, el kiuj konsistas <ref tip="malprt"
+      cel="fingr.0o">fingro</ref>.   
+    </dif>
+    <trdgrp lng="de">
+     <trd>Fingerglied</trd>,
+     <trd>Zehenglied</trd></trdgrp>
+    <trd lng="en">phalanx</trd>
+    <trd lng="es">falange</trd>
+    <trd lng="hu">ujjperc</trd>
+    <trd lng="nl">vingerkootje</trd>
+    <trd lng="pl">paliczek</trd>
+  </snc>
+  <snc mrk="falang.0o.MIL">
+    <uzo tip="fak">MIL</uzo>
+    <dif>
+      Anaro organizita por batalo.
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="legi.0o">legio</ref>,
+      <ref cel="regime.0o">regimento</ref>
+    </refgrp>
+    <trd lng="de">Schlachtordnung</trd>
+    <trd lng="en">phalanx</trd>
+    <trd lng="hu">falanx</trd>
+    <trd lng="pl">falanga</trd>
+    <trd lng="pt">falange</trd>
+  </snc>
+  <snc mrk="falang.0o.HIS">
+    <uzo tip="fak">HIS</uzo>
+    <dif>
+      Macedona batalaran&gcirc;o, konsistanta el ta&ccirc;mento da soldatoj
+      armitaj per longaj pikiloj kaj ordigitaj la&ubreve; profundaj vicoj. 
+    </dif>
+    <trd lng="de">Phalanx</trd>
+    <trd lng="en">phalanx</trd>
+    <trd lng="hu">falanx</trd>
+    <trd lng="nl">falanx</trd>
+    <trd lng="pl">falanga</trd>
+    <trd lng="pt">falange</trd>
+  </snc>
+  <snc mrk="falang.0o.furiera">
+    <uzo tip="fak">HIS</uzo>
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      Komunumo el kvarcento da familioj vivanta harmonie en
+      <ref tip="vid" cel="falang.0ejo.furiera">falangejo</ref>
+      la&ubreve; la socialismaj ideoj de Karlo Furiero.
+    </dif>
+  </snc>
+  <trd lng="be">&c_f;&c_a;&c_l;&c_a;&c_n;&c_g;&c_a;</trd>
+  <trd lng="ca">falange</trd>
+  <trdgrp lng="cs">
+    <trd>falanga</trd>,
+    <trd>článek prstu</trd>
+  </trdgrp>
+  <trd lng="fr">phalange</trd>
+  <trd lng="it">falange</trd>
+  <trd lng="pt">falange</trd>
+  <trd lng="ru">&c_f;&c_a;&c_l;&c_a;&c_n;&c_g;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>falanga</trd>,
+    <trd>článok prsta</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="falang.0ejo">
+  <kap><tld/>ejo</kap>
+  <snc mrk="falang.0ejo.furiera">
+    <uzo tip="fak">HIS</uzo>
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      Domego kaj &ccirc;irka&ubreve;a bieno planita por la vivo 
+      de furiera
+      <ref tip="vid" cel="falang.0o.furiera">falango</ref>;
+      <ref tip="sin" cel="falanster.0o.POL">falanstero</ref>:
+      <ekz>
+        Fourier inspiris la fondon de la socialisma komunumo <tld/>ejo
+        <fnt>
+          <bib>Viki</bib>,
+          <lok><url ref="http://eo.wikipedia.org/wiki/Charles_Fourier">
+          Charles Fourier</url>, 2013-03-10</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>falanga</trd>,
+    <trd>falanstéra</trd>
+  </trdgrp>
+  <trd lng="fr">phalanst&egrave;re</trd>
+  <trd lng="sk">falanga</trd>
+</drv>
+</art>
+
+<!--
+$Log: falang.xml,v $
+Revision 1.23  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.22  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.21  2014/03/14 02:10:17  revo
+Jeromo Vasxe: + ~ejo
+
+Revision 1.20  2013/05/08 11:10:10  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.19  2012/08/22 00:10:20  revo
+Marc Rausell: + trd ca
+
+Revision 1.18  2011/04/29 19:10:26  revo
+Jeromo Vasxe: - num + mrk, reordig. snc
+
+Revision 1.17  2010/06/06 16:30:55  revo
+Antonio Codazzi: +trd it
+
+Revision 1.16  2009/08/18 19:19:57  revo
+Russ Williams: korekti anglan phanlanx al phalanx
+
+Revision 1.15  2007/05/13 16:30:55  revo
+Tulio Flores: +tr pt
+
+Revision 1.14  2005/01/15 17:32:51  revo
+-->
+</vortaro>

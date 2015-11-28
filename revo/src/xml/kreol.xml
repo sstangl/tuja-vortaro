@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: kreol.xml,v 1.14 2012/08/10 14:11:07 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>kreol</rad>/o
+</kap>
+<drv mrk="kreol.0o">
+  <kap>
+    <tld/>o
+  </kap>
+  <snc>
+    <dif>
+      Ido de e&ubreve;ropaj gepatroj, naskita en intertropikaj e&ubreve;ropaj
+      kolonioj.
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="ras.miks0ulo.BIO">miksrasulo</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_k;&c_r;&c_e;&c_o;&c_l;</trd>
+  <trd lng="ca">crioll</trd>
+  <trd lng="de">Kreole</trd>
+  <trd lng="en">creole</trd>
+  <trd lng="es">criollo</trd>
+  <trd lng="fr">cr&eacute;ole</trd>
+  <trd lng="nl">creool</trd>
+  <trd lng="pt">crioulo</trd>
+  <trd lng="ru">&c_k;&c_r;&c_je;&c_o;&c_l;</trd>
+</drv>
+
+<drv mrk="kreol.0alingvo">
+  <kap><tld/>a lingvo</kap>
+  <snc mrk="kreol.0alingvo.LIN">
+    <uzo tip="fak">LIN</uzo>
+    <dif>
+      Miksita, intergenta <ref tip="super"
+      cel="lingv.0o.homa">lingvo</ref>, ofte unue <ref tip="vid"
+      cel="pigxin.0o.LIN">pi&gcirc;ina</ref>, kiu i&gcirc;is gepatra lingvo 
+      de novaj generacioj:
+      <ekz>
+        lingvistoj ne rekonas lingvajn familiojn de <tld/>aj lingvoj
+        <fnt>
+        <aut>R. S. Wise</aut>,
+        <vrk>Re: Nova E-revuo - Mankas komuna signolingvo</vrk>,
+        <lok>soc.culture.esperanto, 2003-04-12</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="ca">llengua <ind>crioll</ind>a</trd>
+  <trd lng="fr">cr&eacute;ole<klr tip="amb"> (langue)</klr></trd>
+  <trd lng="nl">creools</trd>
+  <trd lng="ru">&c_k;&c_r;&c_je;&c_o;&c_l;&c_mol;&c_s;&c_k;&c_i;&c_j; &c_ja;&c_z;&c_y;&c_k;</trd>
+</drv>
+
+<drv mrk="kreol.0igxi">
+  <kap><tld/>i&gcirc;i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="kreol.0igxi.KOMUNE">
+    <dif>
+      Krei novan kulturon, novan lingvon en fremda lando el
+      influoj de sia devena kulturo kaj de la loka:
+      <ekz>
+        kiel difini la punkton kie la pi&gcirc;ino <tld/>i&gcirc;as?
+        <fnt>
+        <aut>J. S. Larsen</aut>,
+        <vrk>Re: Plue pri dialektoj</vrk>,
+        <lok>soc.culture.esperanto, 2001-12-11</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">se <ind>cr&eacute;oliser</ind></trd>
+  <trd lng="nl">creoliseren</trd>
+  <trd lng="ru">&c_k;&c_r;&c_je;&c_o;&c_l;&c_i;&c_z;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>
+</drv>
+</art>
+<!--
+$Log: kreol.xml,v $
+Revision 1.14  2012/08/10 14:11:07  revo
+Marc Rausell: + trd ca
+
+Revision 1.13  2009/09/13 16:57:19  revo
+Paul Peeraerts: +nl
+
+Revision 1.12  2006/11/02 17:31:34  revo
+Tulio Flores: +tr pt
+
+Revision 1.11  2005/08/26 16:32:35  revo
+Yury Finkel: +trd ru, kor signaron
+
+Revision 1.10  2005/04/16 16:32:04  revo
+Jeromo Vasxe: + ~a lingvo, + ~igxi, ~o + trd fr
+
+Revision 1.9  2005/04/06 16:35:34  revo
+Raul Salinas Monteagudo: +trd es
+
+Revision 1.8  2002/12/17 20:11:47  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.7  2001/11/07 19:16:40  revo
+-->
+</vortaro>

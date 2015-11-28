@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: marimb.xml,v 1.5 2015/07/04 08:37:39 revo Exp $">
+<kap>
+  <rad>marimb</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="marimb.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="marimb.0o.MUZ">
+    <uzo tip="fak">MUZ</uzo>
+    <dif>
+      <ref tip="lst" cel="instru2.frap0o"
+      lst="voko:frapinstrumentoj">Frapinstrumento</ref>
+      el Centrameriko kun serio de lignaj, batile sonigataj lamenoj
+      super resonaj tuboj:
+      <ekz>
+        spektadas mi la maron, dum <tld/>e mi muzikas
+        <fnt>
+          <aut>B. Vaha</aut>,
+          <vrk><url ref="http://www.ipernity.com/blog/34592/139496">
+          Poemeto de marborda envianto</url></vrk>,
+          <lok>2009-03-30</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="vibrafon.0o.MUZ">vibrafono</ref>
+    </refgrp>
+  </snc>
+  <trd lng="ca">marimba</trd>
+  <trdgrp lng="cs">
+    <trd>marimba</trd>,
+    <trd>marimbafon</trd>
+  </trdgrp>
+  <trd lng="fr">marimba</trd>
+  <trd lng="sk">marimbo <klr>(hudobný nástroj)</klr></trd>
+</drv>
+</art>
+
+<!--
+$Log: marimb.xml,v $
+Revision 1.5  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.4  2015/06/29 16:33:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.3  2013/09/08 18:11:03  revo
+Wolfram Diestel: ref al listo frapinstrumentoj
+
+Revision 1.2  2012/08/10 14:11:12  revo
+Marc Rausell: + trd ca
+
+Revision 1.1  2011/07/26 22:10:13  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

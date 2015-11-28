@@ -1,0 +1,209 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: pozici.xml,v 1.18 2015/07/04 08:37:41 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>pozici</rad>/o
+</kap>
+<drv mrk="pozici.0o">
+  <kap><tld/>o</kap>
+  <snc>
+    <dif>
+      Loko, sur kiu io sidas:
+      <ekz>
+        tiu domo estas en agrabla <tld/>o;
+      </ekz>
+      <ekz>
+        batal<tld/>o
+        <klr>(de armeo)</klr>.
+      </ekz>
+    </dif>
+    <trd lng="de">Lage</trd>
+    <trdgrp lng="en">
+      <trd>location</trd>,
+      <trd>place</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>position</trd>,
+      <trd>place</trd>
+    </trdgrp>
+  </snc>
+  <snc>
+    <dif>
+      Maniero, la&ubreve; kiu persono a&ubreve; objekto sidas:
+      <ekz>
+        la avino trovi&gcirc;is en sidanta <tld/>o en la
+        veturilo<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        genua <tld/>o;
+      </ekz>
+      <ekz>
+        en <tld/>o senmova<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        la <tld/>o de la piedoj dum la dancado;
+      </ekz>
+      <ekz>
+        <uzo tip="fak">FON</uzo>
+        bu&scirc;<tld/>o
+        <klr>(interrilata <tld/>o de la bu&scirc;organoj, &ccirc;e iu momento de
+        la
+        parolado)</klr>.
+      </ekz>
+    </dif>
+    <trd lng="de">Haltung</trd>
+    <trdgrp lng="en">
+      <trd>pose</trd>,
+      <trd>posture</trd>,
+      <trd>stance</trd>
+    </trdgrp>
+    <trd lng="fr">position</trd>
+  </snc>
+  <snc>
+    <dif>
+      Situacio:
+      <ekz>
+        ies <tld/>o en la vivo;
+      </ekz>
+      <ekz>
+        li proponis re<tld/>igi min en la universitato.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>Lage</trd>,
+      <trd>Situation</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>post</trd>,
+      <trd>rank</trd>,
+      <trd>situation</trd>,
+      <trd>status</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>situation</trd>,
+      <trd>rang</trd>,
+      <trd>status</trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_a;&c_z;&c_ib;&c_c;&c_y;&c_ja;</trd>,
+    <trd>&c_s;&c_t;&c_a;&c_n;&c_o;&c_v;&c_ib;&c_sh;&c_ch;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>poloha</trd>,
+    <trd>postavení</trd>,
+    <trd>pozice</trd>,
+    <trd>stav</trd>
+  </trdgrp>
+  <trd lng="de">Position</trd>
+  <trd lng="en">position</trd>
+  <trdgrp lng="hu">
+    <trd>helyzet</trd>,
+    <trd>testtart&aacute;s</trd>,
+    <trd>poz&iacute;ci&oacute;</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>positie</trd>,
+    <trd>houding</trd>,
+    <trd>stand</trd>
+  </trdgrp>
+  <trd lng="pt">posi&ccedil;&atilde;o</trd>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_o;&c_z;&c_i;&c_c;&c_i;&c_ja;</trd>,
+    <trd>&c_p;&c_o;&c_l;&c_o;&c_zh;&c_je;&c_n;&c_i;&c_je;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>poloha</trd>,
+    <trd>postavenie</trd>
+  </trdgrp>
+  <trd lng="sv">position</trd>
+</drv>
+
+<drv mrk="pozici.kontraux0o">
+  <kap>kontra&ubreve;<tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>MatVort</bib></fnt>
+  <snc>
+    <dif>
+      <klr>(de <ref cel="implic.0o.logika">implico</ref>
+      <frm>P&#8658;Q</frm>)</klr>
+      La logike ekvivalenta propozicio <frm>&#172;Q&#8658;&#172;P</frm>:
+      <ekz>
+        la kontra&ubreve;<tld/>o de <ctl>se <frm>6</frm> divizoras 
+        en <frm><k>n</k></frm>, tiam <frm>2</frm> kaj <frm>3</frm> 
+        divizoras en <frm><k>n</k></frm></ctl> estas 
+        <ctl>se <frm>2</frm> a&ubreve; <frm>3</frm> ne 
+        divizoras en <frm><k>n</k></frm>, tiam 
+        <frm>6</frm> ne divizoras en <frm><k>n</k></frm></ctl>;
+      </ekz>
+      <ekz>
+        por demonstri la pruvotan aserton, demonstru &gcirc;ian 
+        kontra&ubreve;<tld/>on.
+      </ekz>
+    </dif>
+    <rim>
+      La formo de &ccirc;i tiu kunmeta&jcirc;o ne klare rilatas kun 
+      &gcirc;ia senco. Aldonajn fontojn kaj alternativajn formojn ni 
+      ne trovis, sed internacia&jcirc;o kiel <ctl>kontrapozicio</ctl> 
+      a&ubreve; klara kunmeta&jcirc;o kiel <ctl>implicpermut(a&jcirc;)o</ctl>
+      estus ver&scirc;ajne prefereblaj al tiu supra&jcirc;e esperantigita 
+      formo. Notindas anka&ubreve;, ke en iuj naciaj lingvoj la formo 
+      parenca al <ctl>kontra(&ubreve;)pozicio</ctl> ne montras propozicion,
+      sed ja la principon, asertantan la ekvivalentecon de la du
+      koncernaj
+      propozicioj.
+    </rim>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_k;&c_o;&c_n;&c_t;&c_r;&c_a;&c_p;&c_a;&c_z;&c_ib;&c_c;&c_y;&c_ja;</trd>,
+    <trd>&c_s;&c_u;&c_p;&c_r;&c_a;&c_c;&c_mol;&c_p;&c_a;&c_s;&c_t;&c_a;&c_w;&c_l;&c_je;&c_n;&c_mol;&c_n;&c_je;</trd>,
+    <trd>&c_p;&c_r;&c_o;&c_c;&c_ib;&c_p;&c_a;&c_s;&c_t;&c_a;&c_w;&c_l;&c_je;&c_n;&c_mol;&c_n;&c_je;</trd>
+  </trdgrp>
+  <trd lng="de">Kontraposition</trd>
+  <trdgrp lng="en">
+    <trd>contraposition</trd>,
+    <trd>contrapositive</trd>
+  </trdgrp>
+  <trd lng="fr">contrapos&eacute;e</trd>
+  <trd lng="pl">kontrapozycja</trd>
+  <trdgrp lng="ru">
+    <trd>&c_k;&c_o;&c_n;&c_t;&c_r;&c_a;&c_p;&c_o;&c_z;&c_i;&c_c;&c_i;&c_ja;</trd>,
+    <trd>&c_p;&c_r;&c_o;&c_t;&c_i;&c_v;&c_o;&c_p;&c_o;&c_s;&c_t;&c_a;&c_v;&c_l;&c_je;&c_n;&c_i;&c_je;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: pozici.xml,v $
+Revision 1.18  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.16  2014/03/25 20:10:17  revo
+Damien Brucker: +trd fr
+
+Revision 1.15  2009/06/23 16:32:11  revo
+Russ Williams: +trd en
+
+Revision 1.14  2006/03/17 17:31:40  revo
+Tulio Flores: +tr pt
+
+Revision 1.13  2004/11/23 17:31:38  revo
+Marc Bavant: kontraux~o: kor ekz
+
+Revision 1.12  2004/02/24 17:32:01  revo
+Dmitri Gabinski: +trd be
+Revision 1.11  2003/01/26 17:35:12  revo
+Marc Bavant: +drv kontraux~o
+Revision 1.10  2003/01/13 17:35:17  revo
+Ulrich Fellmann: + 4 pliaj trd = de
+Revision 1.9  2002/12/18 18:51:02  revo
+Jozefo Horvath: +trd hu
+Revision 1.8  2001/12/21 17:31:31  revo
+Yury Finkel: +trd ru
+-->
+</vortaro>

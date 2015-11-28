@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: fluor.xml,v 1.24 2015/07/04 08:37:34 revo Exp $">
+  <kap>
+    <rad>fluor</rad>/o
+    <fnt>Z</fnt>
+  </kap>
+<drv mrk="fluor.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">KEM</uzo>
+  <mlg kod="IUPAC">F</mlg>
+  <snc>
+    <dif>
+      &Hcirc;emia <ref tip="lst" cel="elemen.0o.KEM"
+      lst="voko:&hcirc;emiaj_elementoj" val="9">elemento</ref> kun
+      atomnumero 9, atompezo 18,9984; verdete flava 
+      <ref tip="super" cel="gas.0o">gaso</ref>, <ref tip="super" 
+      cel="haloge.0o">halogeno</ref>, 
+      malkomponanta akvon kaj formanta kombina&jcirc;ojn
+      kun &ccirc;iuj elementoj escepte de <ref tip="vid"
+cel="oksige.0o">oksigeno</ref>. 
+    </dif>
+  </snc>
+  <trd lng="be">&c_f;&c_t;&c_o;&c_r;</trd>
+  <trd lng="bg">&c_f;&c_l;&c_u;&c_o;&c_r;</trd>
+  <trd lng="br">fluor</trd>
+  <trd lng="ca">fluor</trd>
+  <trd lng="cs">fluor</trd>
+  <trd lng="de">Fluor</trd>
+  <trd lng="en">fluorine</trd>
+  <trd lng="es">fl&uacute;or</trd>
+  <trd lng="fr">fluor</trd>
+  <trd lng="hu">fluor</trd>
+  <trd lng="id">fluorin</trd>
+  <trd lng="it">fluoro</trd>
+  <trd lng="la">Fluorum</trd>
+  <trd lng="nl">fluor</trd>
+  <trd lng="pl">fluor</trd>
+  <trd lng="pt">fl&uacute;or</trd>
+  <trd lng="ru">&c_f;&c_t;&c_o;&c_r;</trd>
+  <trd lng="sk">fluór</trd>
+  <trd lng="sv">fluor</trd>
+</drv>
+</art>
+<!--
+$Log: fluor.xml,v $
+Revision 1.24  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.23  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.22  2014/05/30 08:10:31  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.21  2013/09/23 08:10:17  revo
+Wolfram Diestel: +val, mlg
+
+Revision 1.20  2013/09/15 16:10:24  revo
+Wolfram Diestel: simb. laux IUPAC
+
+Revision 1.19  2013/08/24 20:10:54  revo
+Wolfram Diestel: referenco al listo elementoj
+
+Revision 1.18  2009/12/20 17:30:51  revo
+Jerano Zachrisson: +trd sv
+
+Revision 1.17  2009/02/11 19:42:57  revo
+Wieland Pusch: +trd bg
+
+Revision 1.16  2006/06/01 16:32:44  revo
+Sebastian Cyprych: +trd pl,la +mlg +ref gaso,oksigeno,halogeno
+
+Revision 1.15  2006/01/03 17:31:37  revo
+-->
+</vortaro>

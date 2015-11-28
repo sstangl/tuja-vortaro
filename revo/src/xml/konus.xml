@@ -1,0 +1,166 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: konus.xml,v 1.22 2015/07/04 08:37:38 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>konus</rad>/o
+</kap>
+<drv mrk="konus.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="konus.0o.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <subsnc mrk="konus.0o.surfaco">
+      <fnt><bib>MatTerm</bib><lok>p. 30</lok></fnt>
+      <dif>
+        <ref tip="super" cel="surfac.0o.MAT">Surfaco</ref>, naskita de
+        &ccirc;iuj rektoj <klr>(&gcirc;iaj
+        <ref tip="prt" cel="nask.0anto.rekto">naskantoj</ref>)</klr>,
+        kiuj havas unu komunan punkton
+        <klr>(la <ref tip="prt" cel="vertic.0o.konuso">verticon</ref> de
+        la
+        <tld/>o)</klr>, kaj sekcas fiksan linion
+        <klr>(&gcirc;ian
+        <ref tip="prt"
+        cel="direkt.0anto.linio">direktanton</ref>)</klr>:
+        <ekz>
+          cirkla, elipsa, kvadrata ks <tld/>o <klr>(kies direktanto
+          estas
+          cirklo, elipso, kvadrato ks, orta al &gcirc;ia akso)</klr>;
+        </ekz>
+        <ekz>
+          se ebeno sekcas <tld/>on nur en &gcirc;ia vertico, &gcirc;i apartigas
+          du duonojn de la surfaco, kiujn oni nomas anka&ubreve; <tld/>oj
+          a&ubreve; duon<tld/>oj.
+        </ekz>
+      </dif>
+      <refgrp tip="vid">
+        <ref cel="konik.0o">koniko</ref>,
+        <ref cel="rekt.0ara.surfaco">rektara.</ref>
+      </refgrp>
+      <trdgrp lng="de">
+        <trd>Kegel</trd>,
+        <trd>Kegelfl&auml;che</trd>
+      </trdgrp>
+      <trdgrp lng="en">
+        <trd>cone</trd>,
+        <trd>conical <ind>surface</ind></trd>
+      </trdgrp>
+      <trdgrp lng="es">
+        <trd>cono</trd>,
+        <trd>superficie <ind>c&oacute;nica</ind></trd>
+      </trdgrp>
+      <trdgrp lng="fr">
+        <trd>c&ocirc;ne</trd>,
+        <trd>surface conique</trd>
+      </trdgrp>
+      <trd lng="hu">k&uacute;pfel&uuml;let</trd>      
+      <trdgrp lng="pl">
+        <trd>sto&zdot;ek</trd>,
+        <trd>powierzchnia sto&zdot;kowa</trd>
+      </trdgrp>
+      <trdgrp lng="ru">
+        <trd>&c_k;&c_o;&c_n;&c_u;&c_s;</trd>,
+        <trd>&c_k;&c_o;&c_n;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_a;&c_ja;
+        <ind>&c_p;&c_o;&c_v;&c_je;&c_r;&c_h;&c_n;&c_o;&c_s;&c_t;&c_mol;</ind></trd>
+      </trdgrp>
+    </subsnc>
+    <subsnc mrk="konus.0o.solido">
+      <fnt><bib>VdE</bib></fnt>
+      <dif>
+        <ref tip="super" cel="solid.0o.geometrio">Solido</ref>, kiun
+        limas
+        duono de <ref cel="konus.0o.surfaco"><tld/>o
+        <sncref ref="konus.0o.surfaco"/></ref> <klr>(&gcirc;ia 
+        <ref tip="prt" cel="flank.0o.konuso">flanko</ref>)</klr>
+        kaj unu ebena surfaco <klr>(&gcirc;ia
+        <ref tip="prt" cel="baz.0o.figuro">bazo</ref>)</klr>,
+        kiu sekcas la <tld/>an surfacon la&ubreve; fermita linio.
+      </dif>
+      <trdgrp lng="de">
+        <trd>Kegel</trd>,
+        <trd>Kegelk&ouml;rper</trd>
+      </trdgrp>
+      <trd lng="hu">k&uacute;p</trd>      
+      <trd lng="pl">sto&zdot;ek</trd>
+    </subsnc>
+    <rim>
+      Pro la komunuza senco de <ctl><tld/>o</ctl> la vortaroj emas
+      difini &gcirc;in fake kiel solidon (vd <fnt><bib>PIV1</bib></fnt>).
+      &Scirc;ajnas al ni, ke tio estas tro pedanta, &ccirc;ar la naciaj
+      lingvoj kutime akceptas amba&ubreve; fakajn sencojn. Oni uzu
+      <ctl><tld/>a surfaco</ctl> a&ubreve; <ctl><tld/>a solido</ctl> en
+      dubaj okazoj.
+    </rim>
+  </snc>
+  <snc mrk="konus.0o.KOMUNE">
+    <dif>
+      Objekto, havanta formon de <tld/>o:
+      <ekz>
+        suker<tld/>o;
+      </ekz>
+      <ekz>
+        <tld/>o el lumradioj;
+      </ekz>
+      <ekz>
+        <tld/>formaj funeloj.
+      </ekz>
+    </dif>
+    <trd lng="de">Kegel</trd>
+    <trd lng="hu">k&uacute;pos</trd>    
+  </snc>
+  <trd lng="be">&c_k;&c_o;&c_n;&c_u;&c_s;</trd>
+  <trdgrp lng="cs">
+    <trd>homole</trd>,
+    <trd>kužel</trd>,
+    <trd>šiška stromu</trd>,
+    <trd>šištice</trd>,
+    <trd>šách</trd>
+  </trdgrp>
+  <trd lng="en">cone</trd>
+  <trd lng="fr">c&ocirc;ne</trd>
+  <trdgrp lng="nl">
+    <trd>conus</trd>,
+    <trd>kegel<klr tip="ind"> (conus)</klr></trd>
+  </trdgrp>
+  <trd lng="pt">cone</trd>
+  <trd lng="ru">&c_k;&c_o;&c_n;&c_u;&c_s;</trd>
+  <trdgrp lng="sk">
+    <trd>kužeľ</trd>,
+    <trd>šiška stromu</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: konus.xml,v $
+Revision 1.22  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.21  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.20  2009/09/10 16:33:03  revo
+Paul Peeraerts: +nl
+
+Revision 1.19  2005/03/28 17:14:30  revo
+Raul Salinas Monteagudo: +trd es
+
+Revision 1.18  2004/05/07 16:31:22  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.17  2003/04/23 16:31:46  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.16  2003/01/02 17:48:02  revo
+Marc Bavant: +trd pl
+
+Revision 1.15  2002/06/16 17:33:26  revo
+Marc Bavant: ~o (solido): mod ref al ~o 1
+Revision 1.14  2002/05/02 16:37:55  revo
+Marc Bavant: ~o: kor ref al flanko
+Revision 1.13  2002/03/17 17:31:42  revo
+Marc Bavant: ~o MAT: reordigis al subsnc, +fnt, +rim, +trd de/en/fr/ru,
+kor trd de (Kegel, ne Kegelschnitt, signifanta "koniko"), +ref al
+-->
+</vortaro>

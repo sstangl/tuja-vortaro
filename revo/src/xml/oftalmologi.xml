@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: oftalmologi.xml,v 1.12 2015/07/04 08:37:40 revo Exp $">
+<kap>
+  <rad>oftalmologi</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="oftalmologi.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="oftalmologi.0o.MED">
+    <uzo tip="fak">MED</uzo>
+    <dif>
+      Medicina fako, kiu studas la <ref tip="vid"
+      cel="fiziol1.0o">fiziologion</ref> kaj la <ref tip="vid"
+      cel="patolo.0o">patologion</ref> de la okuloj kaj de iliaj
+      aneksoj:
+      <ekz>
+        li voja&gcirc;is al Vieno por studadi <tld/>on
+        <fnt><bib>VivZam</bib> <lok>&ccirc;apitro 5a, p. 49a</lok></fnt>;
+      </ekz>
+      <ekz>
+        mi estis malvolonte enkarcerigita pro grava okulo-malsano en
+        <tld/>a malsanulejo
+         <fnt><aut>Garbhan MAC AOIDH</aut>, <vrk><url
+      ref="http://esperanto.be/fel/mon/007517.html">Perdita
+      paradizo</url></vrk>, <bib>Monato</bib>, <lok>2002/08, p.
+      8</lok></fnt>.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="oftalmolog.0o">oftalmologo</ref>
+  </snc>
+  <trd lng="be">&c_a;&c_f;&c_t;&c_a;&c_l;&c_mol;&c_m;&c_a;&c_l;&c_jo;&c_g;&c_ib;&c_ja;</trd>
+  <trd lng="bg">&c_o;&c_f;&c_t;&c_a;&c_l;&c_m;&c_o;&c_l;&c_o;&c_g;&c_i;&c_ja;</trd>
+  <trd lng="ca">oftalmologia</trd>
+  <trdgrp lng="cs">
+    <trd>oftalmologie</trd>,
+    <trd>oční lékařství</trd>
+  </trdgrp>
+  <trd lng="de">Augenheilkunde</trd>
+  <trd lng="en">ophthalmology</trd>
+  <trd lng="es">oftalmolog&iacute;a</trd>
+  <trd lng="fr">ophtalmologie</trd>
+  <trdgrp lng="hu">
+    <trd>szem&eacute;szet</trd>,
+    <trd>oftalmol&oacute;gia</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>oftalmologie</trd>,
+    <trd>oogheelkunde</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>oftalmologia</trd>,
+    <trd>ocul&iacute;stica</trd>,
+    <trd>oftalmiatria</trd>
+  </trdgrp>
+  <trd lng="ru">&c_o;&c_f;&c_t;&c_a;&c_l;&c_mol;&c_m;&c_o;&c_l;&c_o;&c_g;&c_i;&c_ja;</trd>
+  <trd lng="sk">očné lekárstvo</trd>
+</drv>
+</art>
+
+<!--
+$Log: oftalmologi.xml,v $
+Revision 1.12  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.11  2015/06/29 16:33:21  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.10  2015/01/03 20:10:13  revo
+Alain Gerard: +ref
+
+Revision 1.9  2009/10/06 16:43:51  revo
+Wieland Pusch: +trd bg
+
+Revision 1.8  2009/10/04 16:30:43  revo
+Paul Peeraerts: +nl +ref
+
+Revision 1.7  2006/04/20 19:24:19  revo
+Tulio Flores: +tr pt
+
+Revision 1.6  2005/04/12 16:33:48  revo
+Raul Salinas Monteagudo: +trd ca,es
+
+Revision 1.5  2003/06/18 16:30:32  revo
+Dmitri Gabinski: +trd be, ru
+
+Revision 1.4  2003/03/10 17:32:38  revo
+Ulrich Fellmann: + 1 trd=de
+
+Revision 1.3  2003/03/07 17:31:29  revo
+-->
+</vortaro>

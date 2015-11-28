@@ -1,0 +1,119 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: kren.xml,v 1.21 2014/03/01 12:10:11 revo Exp $">
+<kap>
+<ofc>*</ofc>
+<rad>kren</rad>/o
+</kap>
+<drv mrk="kren.0o">
+  <kap>
+  <ofc>*</ofc><tld/>o
+  </kap>
+  <snc mrk="kren.0o.genro">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:botanikaj_genroj">Genro</ref> el familio <ref
+      tip="malprt"
+      cel="brasik1.0oj">brasikacoj</ref>
+      (<trd lng="la">Armoracia</trd>);
+      <ref tip="lst" cel="herb.0o.BOT"
+      lst="voko:brasikoparencoj">herbo</ref>
+      kun longa dika karna akre odoranta kaj gustanta radiko.
+    </dif>
+    <trd lng="ca">g&egrave;nere Armoracia</trd>
+  </snc>
+  <snc mrk="kren.0o.mangxo">
+    <uzo tip="fak">KUI</uzo>
+    <dif>
+      <ref tip="dif" cel="kren.0ajxo">Krena&jcirc;o</ref>.
+    </dif>
+    <ref tip="lst" cel="spic.0o.KUI" lst="voko:spicoj">spico</ref>
+    <trd lng="ca">rave rustic&agrave;</trd>
+  </snc>
+  <trd lng="be">&c_h;&c_r;&c_e;&c_n; <klr>(&c_r;&c_a;&c_s;&c_mol;&c_l;&c_ib;&c_n;&c_a;)</klr></trd>
+  <trd lng="bg">&c_h;&c_r;&c_ja;&c_n;</trd>
+  <trdgrp lng="de">
+    <trd>Meerrettich</trd>,
+    <trd>Kren</trd>
+  </trdgrp>
+  <trd lng="en">horseradish</trd>
+  <trd lng="es">r&aacute;bano<klr tip="amb"> (picante)</klr></trd>
+  <trd lng="fr">raifort</trd>
+  <trd lng="he">&het;&zayin;&resh;&tav;</trd>
+  <trd lng="nl">mierik</trd>
+  <trd lng="pl">chrzan</trd>
+  <trdgrp lng="pt">
+    <trd>raiz-forte</trd>,
+    <trd>r&aacute;bano-bastardo</trd>,
+    <trd>r&aacute;bano-de-cavalo</trd>,
+    <trd>r&aacute;bano-picante</trd>,    
+    <trd>r&aacute;bano-r&uacute;stico</trd>,    
+    <trd>r&aacute;bano-silvestre</trd>,    
+    <trd>r&aacute;bano-silvestre-maior</trd>,    
+    <trd>r&aacute;b&atilde;o-silvestre</trd>,    
+    <trd>rabi&ccedil;a-brava</trd>,    
+    <trd>rabo-de-cavalo <klr tip="amb">(bot.)</klr></trd>,
+    <trd>saramago-maior</trd>
+  </trdgrp>
+  <trd lng="ru">&c_h;&c_r;&c_je;&c_n;</trd>
+  <trd lng="yi">&kaf;&resh;&yod;&yod;&fnun;</trd>
+</drv>
+<drv mrk="kren.0ajxo">
+  <kap><tld/>a&jcirc;o</kap>
+  <snc>
+    <uzo tip="fak">KUI</uzo>
+    <dif>
+      <ref tip="super" cel="spic.0ajxo">Spica&jcirc;o</ref>
+      el raspita radiko de 
+      <ref tip="malprt" cel="kren.kampara0o">kampara <tld/>o</ref>.
+    </dif>
+  </snc>
+  <trd lng="be">&c_h;&c_r;&c_e;&c_n; <klr>(&c_s;&c_p;&c_e;&c_c;&c_y;&c_ja;)</klr></trd>
+  <trd lng="ca">rave rustic&agrave; <klr>(pasta)</klr></trd>
+  <trd lng="nl">mierikswortelsaus</trd>
+</drv>
+<drv mrk="kren.kampara0o">
+  <kap>kampara <tld/>o</kap>
+  <uzo tip="fak">BOT</uzo>
+  <snc>
+    <dif>
+      Specio de <ref tip="super" cel="kren.0o.genro"><tld/>o</ref> 
+      (<trd lng="la">Armoracia rusticana</trd>) kun man&gcirc;ebla radiko.
+    </dif>
+    <trd lng="ca">rave rustic&agrave;</trd>
+    <trdgrp lng="nl">
+      <trd>mierikswortel</trd>,
+      <trd>peperwortel</trd>
+    </trdgrp>
+  </snc>
+</drv>
+</art>
+<!--
+$Log: kren.xml,v $
+Revision 1.21  2014/03/01 12:10:11  revo
+Agustin Garcia Lopez: +trd(es)
+
+Revision 1.20  2013/10/31 17:10:13  revo
+Wolfram Diestel: prilaboris dif, ref al brasikoparencoj
+
+Revision 1.19  2013/08/26 17:10:13  revo
+Joop Eggen: +trd bg
+
+Revision 1.18  2013/08/26 09:10:50  revo
+Wolfram Diestel: referenco al listo sciencoj
+
+Revision 1.17  2011/12/07 11:10:10  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.16  2009/09/13 16:57:17  revo
+Paul Peeraerts: +nl
+
+Revision 1.15  2006/10/14 16:30:27  revo
+Tulio Flores: +tr pt
+
+Revision 1.14  2006/10/09 16:30:13  revo
+-->
+</vortaro>

@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: karbol.xml,v 1.12 2015/07/04 08:37:36 revo Exp $">
+<kap>
+  <rad>karbol</rad>/o
+  <fnt>Z</fnt>
+</kap>
+<drv mrk="karbol.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">KEM</uzo>
+  <uzo tip="stl">ARK</uzo>
+  <snc>
+    <ref tip="dif" cel="fenol.0o">fenolo</ref>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_k;&c_a;&c_r;&c_b;&c_o;&c_l;&c_k;&c_a;</trd>,
+    <trd>&c_f;&c_e;&c_n;&c_o;&c_l;</trd>
+  </trdgrp>
+  <trdgrp lng="ca">
+    <trd>&agrave;cid carb&ograve;lic</trd>,
+    <trd>fenol</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>karbol</trd>,
+    <trd>karbolka</trd>,
+    <trd>karbolová voda</trd>
+  </trdgrp>
+  <trd lng="de">Karbol</trd>
+  <trd lng="hu">karbol</trd>
+  <trd lng="nl">carbol</trd>
+  <trdgrp lng="ru">
+    <trd>&c_k;&c_a;&c_r;&c_b;&c_o;&c_l;&c_o;&c_v;&c_a;&c_ja;
+    &c_k;&c_i;&c_s;&c_l;&c_o;&c_t;&c_a;</trd>,
+    <trd>&c_k;&c_a;&c_r;&c_b;&c_o;&c_l;&c_k;&c_a;</trd>,
+    <trd>&c_f;&c_je;&c_n;&c_o;&c_l;</trd>
+  </trdgrp>
+  <trd lng="sk">karbol</trd>
+</drv>
+</art>
+<!--
+$Log: karbol.xml,v $
+Revision 1.12  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.11  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.10  2012/09/01 19:10:12  revo
+Marc Rausell: + trd ca
+
+Revision 1.9  2004/11/28 19:43:18  revo
+Marc Bavant: +uzo ARK
+
+Revision 1.8 2004/02/09 17:32:43 revo
+Dmitri Gabinski: +trd be
+
+Revision 1.7 2002/03/07 18:09:28 revo
+Jozefo Horvath: +trd hu
+
+Revision 1.6 2001/10/25 18:50:32 revo
+Yury Finkel: +trd ru
+
+Revision 1.5 2001/10/22 18:14:15 revo
+Ulrich Fellmann: + germ trd
+
+Revision 1.4 2001/03/17 17:11:43 revo
+Paul Peeraerts: ald trd nl
+
+-->
+</vortaro>

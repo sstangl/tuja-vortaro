@@ -1,0 +1,125 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: ciklon.xml,v 1.24 2015/07/04 08:37:32 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>ciklon</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+
+<drv mrk="ciklon.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="ciklon.0o.MET">
+    <uzo tip="fak">MET</uzo>
+    <dif>
+      Kirlovento, suprenire turni&gcirc;anta &ccirc;irka&ubreve; loko de
+      malforta premo,
+      povanta ka&ubreve;zi <ref tip="vid" cel="tromb.0o.MET">trombojn</ref>:
+      <ekz>
+        la klasoj de <tld/>oj la&ubreve; la forto estas:
+        malforta, modera, forta, tre forta kaj ruiniga,
+        kaj la rapideco de la vento varias de
+        104 km/h &gcirc;is 217 km/h
+        <fnt>
+          <aut>E. Alvim de Oliveira</aut>,
+          <vrk>Meteologio: bazaj principoj pri vetero kaj klimato</vrk>,
+          <lok>en: 4a Kongreso de Esperanto de &Scirc;tato San-Pa&ubreve;lo,
+          2009</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_c;&c_y;&c_k;&c_l;&c_jo;&c_n;</trd>
+  <trd lng="bg">&c_c;&c_i;&c_k;&c_l;&c_o;&c_n;</trd>
+  <trd lng="br">kelc'hwidenn</trd>
+  <trd lng="ca">cicl&oacute;</trd>
+  <trdgrp lng="cs">
+    <trd>cyklon</trd>,
+    <trd>cyklóna</trd>
+  </trdgrp>
+  <trd lng="de">Zyklon</trd>
+  <trd lng="el">&kappa;&ypsilon;&kappa;&lambda;&omega_ton;&ny;&alfa;&sigma_fina;</trd>
+  <trd lng="en">cyclone</trd>
+  <trd lng="es">cicl&oacute;n</trd>
+  <trd lng="fr">cyclone</trd>
+  <trdgrp lng="hu">
+    <trd>ciklon</trd>,
+    <trd>forg&oacute;sz&eacute;l</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>cycloon</trd>,
+    <trd>wervelstorm</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>cyklon</trd>,
+    <trd>tornado</trd>,
+    <trd>tr&aogonek;ba powietrzna</trd>
+  </trdgrp>
+  <trd lng="pt">ciclone</trd>
+  <trd lng="ru">&c_c;&c_i;&c_k;&c_l;&c_o;&c_n;</trd>
+  <trdgrp lng="sk">
+    <trd>cykl&oacute;n</trd>,
+    <trd>cyklón</trd>,
+    <trd>vzdušná smršť</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="ciklon.kontraux0o">
+  <kap>kontra&ubreve;<tld/>o</kap>
+  <snc mrk="ciklon.kontraux0o.MET">
+    <uzo tip="fak">MET</uzo>
+    <dif>
+      Kirlovento desupre turni&gcirc;anta &ccirc;irka&ubreve; loko de forta premo,
+      &gcirc;enerale surtere ka&ubreve;zanta helan, stabilan veteron;
+      <ref tip="sin" cel="anticiklon.0o.MET">anticiklono</ref>
+      <ekz>
+        la norda Adriatika Maro <klr>...</klr> trovi&gcirc;as sub
+        rekta influo de rusa-siberia kontra&ubreve;<tld/>o
+        <fnt>
+          <aut>-</aut>,
+          <vrk><url ref="http://ifef.free.fr/Karsto.pdf">
+          Karsto</url></vrk>,
+          <lok>[vidita en 2012]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">anticyclone</trd>
+  <trd lng="pl">antycyklon</trd>
+</drv>
+</art>
+<!--
+
+$Log: ciklon.xml,v $
+Revision 1.24  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.23  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.22  2013/04/11 11:10:11  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.21  2012/04/23 09:10:10  revo
+Jeromo Vasxe: + kontraux~o, ~o preciz. dif. + ekz
+
+Revision 1.20  2011/12/05 10:10:22  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.19  2008/11/14 17:31:48  revo
+Russ Williams: redakto: +trd en
+
+Revision 1.18  2008/05/16 16:31:10  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.17  2008/02/09 17:30:55  revo
+Wieland Pusch: +trd bg
+
+Revision 1.16  2007/05/22 16:31:55  revo
+Wieland Pusch: +trd de
+
+Revision 1.15  2005/05/23 16:31:55  revo
+-->
+
+</vortaro>

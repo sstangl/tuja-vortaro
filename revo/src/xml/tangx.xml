@@ -1,0 +1,164 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: tangx.xml,v 1.15 2012/10/23 00:14:00 revo Exp $">
+<kap>
+  <rad>tan&gcirc;</rad>/i
+  <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="tangx.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      Tre delikate tu&scirc;i surfacon restante &ccirc;iam sur la
+      sama flanko de &gcirc;i:
+      <ekz>
+        insekto, kiu <tld/>as la supra&jcirc;on de lageto
+        <fnt><bib>PIV1</bib></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">tangieren</trd>
+  </snc>
+  <snc mrk="tangx.0i.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>MatTerm</bib><lok>p. 28</lok></fnt>
+    <uzo tip="klr">(fakula &jcirc;argono)</uzo>
+    <dif>
+      <klr>(ion)</klr>
+      Esti <ref cel="tangx.0a"><tld/>a</ref> al tio.
+    </dif>
+    <trd lng="de">tangieren</trd>
+    <trd lng="en">be tangent</trd>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_d;&c_a;&c_t;&c_y;&c_k;&c_a;&c_c;&c_c;&c_a;</trd>,
+    <trd>&c_b;&c_y;&c_c;&c_mol; <ind>&c_d;&c_a;&c_t;&c_y;&c_ch;&c_n;&c_y;&c_m;</ind></trd>
+  </trdgrp>
+  <trd lng="fr">tangenter</trd>
+  <trd lng="nl">raken</trd>
+  <trd lng="pl">by&cacute; stycznym</trd>
+  <trd lng="ru">&c_k;&c_a;&c_s;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>
+</drv>
+
+<drv mrk="tangx.0a">
+  <kap><tld/>a<fnt><bib>MatVort</bib></fnt>, <var><kap><tld/>anta<fnt><bib>PIV1</bib></fnt></kap></var></kap>
+  <uzo tip="fak">MAT</uzo>
+  <snc mrk="tangx.0a.rekto">
+    <dif>
+      <klr>(p.p. <ref cel="rekt.0o">rekto</ref> rilate al
+      <ref cel="kurb.0o.MAT">kurbo</ref> a&ubreve;
+      <ref cel="surfac.0o.MAT">surfaco</ref> &ccirc;e iu punkto <frm>M</frm>
+      de &gcirc;i)</klr>
+      Tia, ke en la &ccirc;irka&ubreve;a&jcirc;o de <frm>M</frm> &gcirc;i 
+      sekcas la kurbon a&ubreve; la surfacon nur en tiu punkto kaj povas 
+      esti konsiderata kiel la limesa pozicio de sekcanto, kiam la du punktoj
+      de intersekco kune strebas al <frm>M</frm>:
+      <ekz>
+        <tld/>a al <ref cel="cirkl.0o.linio">cirklo</ref> estas &ccirc;iu
+        rekto, kiu sekcas &gcirc;in en nur unu punkto.
+      </ekz>
+    </dif>
+    <rim>
+      La difino estas intence naiva, &ccirc;ar la nocio ne povas esti
+      rigore difinita kadre de elementa geometrio. Oni diras sendistinge,
+      ke <ctl>la rekto estas <tld/>a al la kurbo</ctl> a&ubreve;
+      <ctl>la kurbo estas <tld/>a al la rekto</ctl>.
+    </rim>
+  </snc>
+  <snc mrk="tangx.0a.ebeno">
+    <dif>
+      <klr>(p.p. <ref cel="eben.0o.elementa">ebeno</ref> rilate al
+      <ref cel="surfac.0o.MAT">surfaco</ref> &ccirc;e iu punkto de
+      &gcirc;i)</klr>
+      Inkluzivanta &ccirc;iujn rektojn <tld/>ajn al la surfaco
+      &ccirc;e la koncerna punkto:
+      <ekz>
+        <tld/>a al <ref cel="sfer.0o.surfaco">sfero</ref> estas &ccirc;iu
+        ebeno, kiu sekcas &gcirc;in en nur unu punkto.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="tangx.0a.figuroj">
+    <dif>
+      <klr>(p.p. du <ref cel="kurb.0o.MAT">kurboj</ref> a&ubreve; du
+      <ref cel="surfac.0o.MAT">surfacoj</ref> &ccirc;e punkto komuna al
+      amba&ubreve;)</klr>
+      Tiaj, ke &ccirc;iu rekto <tld/>a al unu <tld/>as anka&ubreve;
+      la duan &ccirc;e tiu sama punkto:
+      <ekz>
+        <tld/>aj cirkloj.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_d;&c_a;&c_t;&c_y;&c_ch;&c_n;&c_y;</trd>
+  <trdgrp lng="de">
+    <trd>Tangenten-</trd>,
+    <trd>Tangential-</trd></trdgrp> 
+  <trd lng="en">tangent</trd>
+  <trd lng="fr">tangent</trd>
+  <trd lng="pl">styczny</trd>
+  <trdgrp lng="ru">
+    <trd>&c_k;&c_a;&c_s;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>,
+    <trd>&c_k;&c_a;&c_s;&c_a;&c_ju;&c_shch;&c_i;&c_j;&c_s;&c_ja;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="tangx.0anto">
+  <kap><tld/>anto</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>MatTerm</bib><lok>p. 28</lok></fnt>
+  <snc>
+    <dif>
+      <klr>(al <ref cel="kurb.0o.MAT">kurbo</ref> a&ubreve;
+      <ref cel="surfac.0o.MAT">surfaco</ref>)</klr>
+      <ref tip="super" cel="rekt.0o.elementa">Rekto</ref>, kiu estas
+      al &gcirc;i <tld/>a:
+      <ekz>
+        la <tld/>antoj de cirklo estas ortaj al &gcirc;iaj
+        <ref cel="radius.0o.cirklo">radiusoj</ref>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_d;&c_a;&c_t;&c_y;&c_ch;&c_n;&c_a;&c_ja; <klr tip="amb">(&c_n;&c_a;&c_z;.)</klr></trd>
+  <trd lng="de">Tangente</trd>
+  <trd lng="en">tangent</trd>
+  <trd lng="fr">tangente<klr tip="ind"> (droite)</klr></trd>
+  <trd lng="nl">raaklijn</trd>
+  <trdgrp lng="pl">
+    <trd>prosta styczna</trd>,
+    <trd>styczna</trd></trdgrp> 
+  <trd lng="ru">&c_k;&c_a;&c_s;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_a;&c_ja;</trd>
+</drv>
+<rim>
+  &Ccirc;i tiu radiko mankis en Plena Vortaro, sed
+  similaj nocioj ekzistis sub la radiko <ref cel="tangen">tangent</ref>.
+</rim>
+</art>
+<!--
+$Log: tangx.xml,v $
+Revision 1.15  2012/10/23 00:14:00  revo
+Neil Roberts: aldonu la etikedon <var>
+
+Revision 1.14  2004/03/29 18:32:32  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.13  2003/04/11 16:33:17  revo
+Marc Bavant: ~i: +ref interna
+
+Revision 1.12  2003/03/23 17:34:07  revo
+Marc Bavant: ~i: +trd pl
+Revision 1.11  2003/03/05 17:36:04  revo
+Marc Bavant: ~a: mod fnt
+Revision 1.10  2003/02/16 17:33:00  revo
+Marc Bavant: ~i MAT: +trd en
+Revision 1.9  2003/01/13 17:34:46  revo
+Marc Bavant: ~i MAT: +trd de/en
+Revision 1.8  2003/01/06 17:31:37  revo
+Marc Bavant: ~a: +mrk
+Revision 1.7  2002/11/30 17:38:43  revo
+Marc Bavant: +frm, +trd pl; ~a: mod dif
+Revision 1.6  2002/03/17 17:32:04  revo
+-->
+</vortaro>

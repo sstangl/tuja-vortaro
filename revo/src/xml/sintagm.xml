@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: sintagm.xml,v 1.10 2015/07/04 08:37:43 revo Exp $">
+<kap>
+  <rad>sintagm</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+
+<drv mrk="sintagm.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="sintagm.0o.LIN">
+    <uzo tip="fak">LIN</uzo>
+    <ref tip="dif" cel="grup.vort0o.LIN">vortgrupo</ref>
+    <ekz>
+      interrompas la <tld/>on &leftquot;Potencaj ... &ccirc;evaloj&rightquot; kvin-vorta
+      enkadrita <tld/>o: &leftquot;jungitaj per rimenoj kaj fera&jcirc;oj&rightquot;
+      <fnt>
+      <aut>Bernard Golden</aut>,
+      <vrk>Instruado de bona stilo kun konsekvenca vortordo</vrk>,
+      <lok>Internacia Pedagogia Revuo, 1997-3, p. 12a-15a</lok>
+      </fnt>.
+    </ekz>
+  </snc>
+  <trd lng="ca">sintagma</trd>
+  <trd lng="cs">syntagma</trd>
+  <trd lng="de">Phrase<klr> (Linguistik)</klr></trd>
+  <trd lng="es">sintagma</trd>
+  <trd lng="fr">syntagme</trd>
+  <trdgrp lng="hu">
+    <trd>sz&oacute;kapcsolat</trd>,
+    <trd>szintagma</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>syntagma</trd>,
+    <trd>zinsdeel</trd>
+  </trdgrp><trd lng="nl"></trd>
+  <trd lng="ru">&c_s;&c_i;&c_n;&c_t;&c_a;&c_g;&c_m;&c_a;</trd>
+  <trd lng="sk">syntagma</trd>
+</drv>
+
+<drv mrk="sintagm.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="sintagm.0a.LIN">
+    <uzo tip="fak">LIN</uzo>
+    <dif>
+      Rilata al kunaran&gcirc;o de vortoj en parolo, kontraste al <ref
+      tip="ant"
+      cel="paradi.0a">paradigma</ref>.
+    </dif>
+  </snc>
+  <trd lng="ca">sintagm&agrave;tic</trd>
+  <trd lng="es">sintagm&aacute;tico</trd>
+  <trd lng="fr">syntagmatique</trd>
+  <trd lng="hu">szintagmatikus</trd>
+  <trd lng="nl">syntagmatisch</trd>
+  <trd lng="ru">&c_s;&c_i;&c_n;&c_t;&c_a;&c_g;&c_m;&c_a;&c_t;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j;</trd>
+</drv>
+</art>
+
+<!--
+$Log: sintagm.xml,v $
+Revision 1.10  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.9  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.8  2011/06/25 17:10:14  revo
+Dominique Pelle: seniksigis la vorton *ferajxoj*
+
+Revision 1.7  2009/08/18 19:17:52  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.6  2009/05/04 16:31:21  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.5  2007/05/15 16:30:18  revo
+Wieland Pusch: +trd de
+
+Revision 1.4  2005/05/24 16:35:04  revo
+Yury Finkel: +trd ru
+
+Revision 1.3  2005/04/04 16:37:38  revo
+Raul Salinas Monteagudo: +trd ca,es
+
+Revision 1.2  2005/04/03 17:17:26  revo
+Jeromo Vasxe: preciz. 1 fnt
+
+Revision 1.1  2005/03/28 17:16:39  revo
+-->
+</vortaro>

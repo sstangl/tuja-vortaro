@@ -1,0 +1,205 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: relati.xml,v 1.19 2015/07/04 08:37:42 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>relativ</rad>/a <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="relati.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="relati.0a.kompare">
+    <dif>
+      Neabsoluta, dependa, kompara, kondi&ccirc;a, proporcia:
+      <ekz>
+        <tld/>a valoro<fnt>B</fnt>;
+      </ekz>
+      <ekz>
+        <ind><tld/>a plimulto</ind> da vo&ccirc;oj;
+        <trd lng="be">
+        &c_a;&c_d;&c_n;&c_o;&c_s;&c_n;&c_a;&c_ja;
+        &c_b;&c_o;&c_l;&c_mol;&c_sh;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+        <trd lng="hu">relat&iacute;v t&ouml;bbs&eacute;g</trd>
+        <trd lng="ru">
+   &c_o;&c_t;&c_n;&c_o;&c_s;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_o;&c_je;
+        &c_b;&c_o;&c_l;&c_mol;&c_sh;&c_i;&c_n;&c_s;&c_t;&c_v;&c_o;
+        </trd>
+      </ekz>
+      <ekz>
+        <tld/>a eraro;
+      </ekz>
+      <ekz>
+        certo estas nur <tld/>a;
+      </ekz>
+      <ekz>
+        <tld/>a sukceso.
+      </ekz>
+    </dif>
+    <refgrp tip="ant">
+      <ref cel="absolu.0a.SCI">absoluta</ref>
+    </refgrp>
+    <trd lng="de">relativ</trd>
+    <trdgrp lng="hu">
+      <trd>viszonylagos</trd>,
+      <trd>relat&iacute;v</trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>relatywny</trd>,
+      <trd>wzgl&eogonek;dny</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="relati.0a.GRA">
+    <uzo tip="fak">GRA</uzo>
+    <dif>
+      Kvalifikas vorton, kiu ligas dependan propozicion al la
+      &ccirc;efpropozicio, kies unu vorton &gcirc;i anstata&ubreve;as:
+      <ekz>
+        <ind><tld/>a pronomo</ind>.
+       <trd lng="hu">vonatkoz&oacute; n&eacute;vm&aacute;s</trd>
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="rilat.0a">rilata</ref>.
+    </refgrp>
+    <trd lng="de">Relativpronomen</trd>
+    <trd lng="hu">vonatkoz&oacute;</trd>    
+  </snc>
+  <trd lng="be">&c_a;&c_d;&c_n;&c_o;&c_s;&c_n;&c_y;</trd>
+  <trdgrp lng="cs">
+    <trd>poměrný</trd>,
+    <trd>relativní</trd>,
+    <trd>vztažný</trd>
+  </trdgrp>
+  <trd lng="en">relative</trd>
+  <trd lng="es">relativo</trd>
+  <trd lng="fr">relatif</trd>
+  <trdgrp lng="nl">
+    <trd>betrekkelijk</trd>,
+    <trd>relatief</trd>
+  </trdgrp>
+  <trd lng="pt">relativo</trd>
+  <trd lng="ru">
+  &c_o;&c_t;&c_n;&c_o;&c_s;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;
+  </trd>
+  <trdgrp lng="sk">
+    <trd>pomerný</trd>,
+    <trd>relatívny</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="relati.0igi">
+  <kap><tld/>igi</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="relati.0igi.OPI">
+    <dif>
+      Montri kiel ne absolutan, ne unuflankan, alimaniere 
+      rigardeblan:
+      <ekz>
+        oni <tld/>igu kaj konsideru en &gcirc;usta kunteksto la
+        dira&jcirc;on de Germain
+        <fnt>
+          <aut>D. Van Herpe</aut>,
+          <vrk><url
+      ref="http://groups.yahoo.com/group/lingva-demokratio/message/246">
+          Digest Number 67</url></vrk>,
+          <lok>lingva-demokratio, 2001-02-07</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="bagate.0igi">bagateligi</ref>,
+      <ref cel="grav.mal0igi">malgravigi</ref>,
+      <ref cel="taks.sub0i">subtaksi</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>relativizovat</trd>,
+    <trd>uvést do vztahu</trd>
+  </trdgrp>
+  <trd lng="fr">relativiser</trd>
+  <trd lng="pl">relatywizowa&cacute;</trd>
+  <trdgrp lng="sk">
+    <trd>relativizovať</trd>,
+    <trd>uviesť do vzťahu</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="relati.0ismo">
+  <kap><tld/>ismo</kap>
+  <snc mrk="relati.0ismo.FIL">
+    <uzo tip="fak">FIL</uzo>
+    <dif>
+      Doktrino, la&ubreve; kiu &ccirc;iu kono estas <tld/>a,
+      tio estas ke neniam la a&jcirc;oj en si mem povas esti konataj
+      de l' homo, sed nur la rilatoj inter tiuj a&jcirc;oj.
+    </dif>
+    <refgrp tip="ant">
+      <ref cel="poziti.0ismo">pozitivismo</ref>
+    </refgrp>
+  </snc>
+  <snc mrk="relati.0ismo.KOMUNE">
+    <uzo tip="stl">KOMUNE</uzo>
+    <dif>
+      Ne kredanta je superaj kaj malsuperaj valoroj, 
+      principoj, celoj, rigardanta kontra&ubreve;ecajn aferojn 
+      kiel egalajn:
+      <ekz>
+        la postmodernuloj estas senteble influitaj 
+        <klr>...</klr> de la kultura <tld/>ismo la&ubreve; kiu 
+        <ctl>&ccirc;iuj kulturoj samvaloras</ctl>
+        <fnt>
+          <aut>D. Kessous</aut>,
+          <vrk><url
+          ref="http://www.satesperanto.org/Rauxmismo-kaj-postmodernismo.html">
+          Ra&ubreve;mismo kaj postmodernismo</url></vrk>,
+          <lok>SAT Kulturo, [vidita en 2014]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_r;&c_e;&c_l;&c_ja;&c_t;&c_y;&c_v;&c_ib;&c_z;&c_m;</trd>
+  <trd lng="cs">relativizmus</trd>
+  <trd lng="de">Relativismus</trd>
+  <trd lng="es">relativismo</trd>
+  <trd lng="fr">relativisme</trd>
+  <trd lng="hu">relativizmus</trd>
+  <trd lng="nl">relativisme</trd>
+  <trd lng="pl">relatywizm</trd>
+  <trd lng="ru">&c_r;&c_je;&c_l;&c_ja;&c_t;&c_i;&c_v;&c_i;&c_z;&c_m;
+  </trd>
+  <trd lng="sk">relativizmus</trd>
+</drv>
+</art>
+<!--
+$Log: relati.xml,v $
+Revision 1.19  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2014/12/16 23:10:47  revo
+Jeromo Vasxe: ~ismo + snc komuna
+
+Revision 1.16  2008/09/20 07:22:07  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.15  2008/08/31 16:30:24  revo
+Jeromo Vasxe: + ~igi
+
+Revision 1.14  2006/02/19 17:32:43  revo
+Tulio Flores: +trd pt
+
+Revision 1.13  2004/09/23 19:46:20  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.12  2003/08/08 16:32:24  revo
+Dmitri Gabinski: +trd be, -superflua malkorekta trd ru
+
+Revision 1.11  2002/01/22 17:32:46  revo
+Jerome Vachey: + ant absoluta, + trd fr
+
+Revision 1.10 2001/06/13 18:14:43 revo
+-->
+</vortaro>

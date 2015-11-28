@@ -1,0 +1,125 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: polen.xml,v 1.18 2015/07/04 08:37:41 revo Exp $">
+<kap>
+  <rad>polen</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="polen.0o">
+  <kap><ofc>9</ofc><tld/>o</kap>
+  <snc mrk="polen.0o.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      La fekundiga polvo de floroj:
+      <ekz>
+        la &ccirc;efa celo de la <tld/>o estas fekundigi la inajn
+        flororganojn
+        <fnt>
+          <aut>R. Roze</aut>,
+          <vrk>Vivisekcio de polenero</vrk>,
+          <bib>Monato</bib>,
+          <lok>1997:11, p. 12a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_y;&c_l;&c_o;&c_k; <klr>(&c_r;&c_a;&c_s;&c_mol;&c_l;&c_ib;&c_n;&c_a;&c_v;&c_y;)</klr></trd>
+  <trd lng="bg">&c_c;&c_v;&c_je;&c_t;&c_je;&c_n; <ind>&c_p;&c_r;&c_a;&c_sh;&c_je;&c_c;</ind></trd>
+  <trd lng="de">Pollen</trd>
+  <trd lng="en">pollen</trd>
+  <trd lng="fr">pollen</trd>
+  <trdgrp lng="nl">
+    <trd>pollen</trd>,
+    <trd>stuifmeel</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>pollen</trd>,
+    <trd>vir&aacute;gpor</trd>,
+    <trd>h&iacute;por</trd>
+  </trdgrp>
+  <trd lng="pt">p&oacute;len</trd>
+  <trd lng="ru">&c_p;&c_y;&c_l;&c_mol;&c_c;&c_a;</trd>
+  <trd lng="sv">pollen</trd>
+</drv>
+
+<drv mrk="polen.0ero">
+  <kap><tld/>ero</kap>
+  <snc mrk="polen.0ero.BOT">
+    <dif>
+      <tld lit="P"/>a semeto, maksimume kelkcent mikrometrojn granda,
+      kun aspekto kaj ecoj
+      propraj de la devena florspecio:
+      <ekz>
+        la <tld/>eroj estas la plej multenombraj el la spermatozooj sur
+        nia planedo
+        <fnt>
+          <aut>R. Roze</aut>,
+          <vrk>Vivisekcio de polenero</vrk>,
+          <bib>Monato</bib>,
+          <lok>1997:11, p. 12a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="bg">&c_z;&c_malmol;&c_r;&c_n;&c_o; &c_n;&c_a; &c_p;&c_r;&c_a;&c_sh;&c_je;&c_c;</trd>
+  <trd lng="cs">pylové zrnko</trd>
+  <trd lng="en">grain of pollen</trd>
+  <trd lng="fr">grain de <ind>pollen</ind></trd>
+  <trd lng="nl">stuifmeelkorrel</trd>
+  <trd lng="sk">peľové zrnko</trd>
+</drv>
+
+<drv mrk="polen.0ujo">
+  <kap><tld/>ujo, <var><kap><tld/>sako</kap></var></kap>
+  <snc mrk="polen.0ujo.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      Parto de la <ref tip="malprt" cel="anter.0o">antero</ref>,
+      sako en kiu estas formata la
+      <ref tip="prt" cel="polen.0o">poleno</ref>.
+    </dif>
+  </snc>
+  <trd lng="cs">prašník</trd>
+  <trd lng="de">Pollensack</trd>
+  <trd lng="fr">loge pollinique</trd>
+  <trd lng="hu">pollenzs&aacute;k</trd>
+  <trd lng="nl">stuifmeelzak</trd>
+  <trdgrp lng="sk">
+    <trd>prašník</trd>,
+    <trd>tyčinka</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: polen.xml,v $
+Revision 1.18  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.16  2014/12/20 01:10:21  revo
+Jeromo Vasxe: + mrk
+
+Revision 1.15  2013/08/05 16:10:12  revo
+Joop Eggen: +trd bg
+
+Revision 1.14  2012/10/23 00:14:18  revo
+Neil Roberts: aldonu la etikedon <var>
+
+Revision 1.13  2009/10/25 17:31:29  revo
+Paul Peeraerts: +nl
+
+Revision 1.12  2009/03/01 17:33:26  revo
+Russ Williams: +trd en 9OA
+
+Revision 1.11  2006/03/08 17:33:49  revo
+Tulio Flores: +tr pt
+
+Revision 1.10  2003/07/17 16:37:06  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.9  2002/08/04 17:32:19  revo
+-->
+</vortaro>

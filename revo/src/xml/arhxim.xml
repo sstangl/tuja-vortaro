@@ -1,0 +1,127 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: arhxim.xml,v 1.14 2014/11/04 06:10:25 revo Exp $">
+<kap>
+  <rad>Ar&hcirc;imed</rad>/o
+</kap>
+<drv mrk="arhxim.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">PERS</uzo>
+  <fnt><bib>PIV1</bib><lok>&leftquot;Arkimedo&rightquot;</lok></fnt>
+  <snc>
+    <dif>
+      Greklingve:
+      <trd lng="grc">&Alfa;&rho;&chi;&jota;&my;&eta_acute;&delta;&eta;&sigma_fina;</trd>.
+      Greka matematikisto kaj fizikisto el Sirakuzo, 287-212 a.K.
+    </dif>
+  </snc>                         
+  <trd lng="be">&c_A;&c_r;&c_h;&c_ib;&c_m;&c_e;&c_d;</trd>
+  <trd lng="br">Arc'himedes</trd>
+  <trd lng="de">Archimedes</trd>
+  <trd lng="en">Archimedes</trd>
+  <trd lng="es">Arquimedes</trd>
+  <trd lng="fr">Archim&egrave;de</trd>
+  <trd lng="hu">Arkhim&eacute;d&eacute;sz</trd>
+  <trd lng="it">Archimede</trd>
+  <trd lng="nl">Archimedes</trd>
+  <trd lng="no">Arkimedes</trd>
+  <trd lng="pl">Archimedes</trd>
+  <trd lng="ru">&c_A;&c_r;&c_h;&c_i;&c_m;&c_je;&c_d;</trd>
+  <trd lng="sk">Archimedes</trd>
+</drv>
+
+<drv mrk="arhxim.a0a">
+  <kap><tld lit="a"/>a</kap>
+  <snc mrk="arhxim.a0a.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <subsnc mrk="arhxim.a0a.grupo">
+      <dif>
+        <klr>(p.p. adicia <ref tip="super"
+        cel="grup.0o.MAT">grupo</ref>,
+        provizita per <ref cel="tut.0eca.rilato">tuteca</ref>
+        <ref cel="rilat.ordo0o">ordo-rilato</ref>)</klr>
+        Tia, ke por &ccirc;iuj du strikte
+        <ref cel="poziti.0a.nombro">pozitivaj</ref> elementoj
+        <frm><k>x</k></frm> kaj <frm><k>y</k></frm> en
+        &gcirc;i ekzistas tia entjero <frm><k>n</k></frm>, ke
+        <frm><k>n</k><k>x</k> &#8805; <k>y</k></frm>:
+        <ekz>
+          la reeloj konsistigas <tld lit="a"/>an grupon.
+        </ekz>
+      </dif>
+      <adm>
+        Fonto trovenda. <aut>MB</aut>
+      </adm>
+      <trd lng="de">archimedisch<klr tip="amb"> (geordnete
+      Gruppe)</klr></trd>
+      <trd lng="en">Archimedean<klr tip="ind"> (group)</klr></trd>
+      <trd lng="fr"><klr tip="ind">(groupe) </klr>archim&eacute;dien</trd>
+      <trd lng="hu">arkhim&eacute;d&eacute;szi</trd>
+      <trd lng="nl">Archimedische<klr tip="amb"> (groep)</klr></trd>
+      <trd lng="no">arkimediske<klr tip="amb"> (gruppe)</klr></trd>
+      <trd lng="ru">&c_a;&c_r;&c_h;&c_i;&c_m;&c_je;&c_d;&c_o;&c_v;&c_a;<klr tip="amb">
+      (&c_g;&c_r;&c_u;&c_p;&c_p;&c_a;)</klr></trd>
+    </subsnc>
+    <subsnc mrk="arhxim.a0a.diversaj">
+      <refgrp tip="vid">
+        <ref cel="spiral.arhximeda0o"><tld lit="a"/>a spiralo</ref>.
+      </refgrp>
+    </subsnc>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_A;&c_r;&c_h;&c_ib;&c_m;&c_e;&c_d;&c_a;</trd>,
+    <trd>&c_a;&c_r;&c_h;&c_ib;&c_m;&c_e;&c_d;&c_a;&c_w;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>des <ind>Archimedes</ind></trd>,
+    <trd>Archimedisch</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>Archimedes[']</trd>,
+    <trd>Archimedean</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>d'<ind>Archim&egrave;de</ind></trd>,
+    <trd>archim&eacute;dien</trd>
+  </trdgrp>                       
+  <trd lng="br">-<ind>Arc'himedes</ind></trd>
+  <trd lng="hu">archimedesi</trd>
+  <trdgrp lng="it">
+    <trd>di Archimede</trd>,
+    <trd>archimedeo</trd>
+  </trdgrp>
+  <trd lng="pl">Archimedesa</trd>
+  <trdgrp lng="ru">
+    <trd>&c_A;&c_r;&c_h;&c_i;&c_m;&c_je;&c_d;&c_a;</trd>,
+    <trd>&c_a;&c_r;&c_h;&c_i;&c_m;&c_je;&c_d;&c_o;&c_v;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: arhxim.xml,v $
+Revision 1.14  2014/11/04 06:10:25  revo
+Filip van Laenen: norvega traduko
+
+Revision 1.13  2009/11/04 17:30:19  revo
+Antonio Codazzi: +trd it
+
+Revision 1.12  2005/07/06 16:32:08  revo
+Alan ar Gall: kor lng-etikedon
+
+Revision 1.11  2005/07/05 16:32:50  revo
+Alan ar Gall: +trd br
+
+Revision 1.10  2004/07/28 16:31:48  revo
+Viliam Bur: +trd sk
+
+Revision 1.9  2004/03/11 17:31:16  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.8  2003/01/02 17:43:46  revo
+Marc Bavant: mod fnt "artikolo"
+
+Revision 1.7 2002/11/24 17:33:15 revo
+-->
+</vortaro>

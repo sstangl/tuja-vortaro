@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: uleks.xml,v 1.20 2015/07/04 08:37:45 revo Exp $">
+<kap>
+   <rad>uleks</rad>/o<fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="uleks.0o">
+   <kap><tld/>o</kap>
+   <uzo tip="fak">BOT</uzo>
+   <snc>
+     <dif>
+       <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:botanikaj_genroj">Genro</ref> el familio <ref
+      tip="malprt"
+      cel="fabac.0oj">fabacoj</ref>
+       (<trd lng="la">Ulex</trd>), arbusto kun dornoj kaj flavaj floroj,
+       kreskanta en seka tero (= dorna genisto).
+     </dif>
+   </snc>
+  <trd lng="ca">gatosa</trd>
+  <trd lng="cs">hlodáš</trd>
+  <trd lng="de">Stechginster</trd>
+  <trdgrp lng="en">
+     <trd>gorse</trd>,
+     <trd>furze</trd>,
+     <trd>whin</trd>
+   </trdgrp>
+  <trd lng="es">aulaga</trd>
+  <trd lng="fi">piikkiherne</trd>
+  <trd lng="fr">ajonc</trd>
+  <trdgrp lng="hu">
+     <trd>s&uuml;nzan&oacute;t</trd>,
+     <trd>s&uuml;lzan&oacute;t</trd>,
+     <trd>t&ouml;viszan&oacute;t</trd>,
+     <trd>t&uuml;sk&eacute;szan&oacute;t</trd>
+   </trdgrp>
+  <trdgrp lng="it">
+   <trd>ulex</trd>, 
+   <trd>ginestra<klr> (di specie &amp;leftquotulex&amp;rightquot)</klr></trd>
+   </trdgrp>
+  <trd lng="nl">gaspeldoorn</trd>
+  <trd lng="ru">&c_u;&c_t;&c_jo;&c_s;&c_n;&c_i;&c_k;</trd>
+  <trd lng="sk">kručinka tŕnistá</trd>
+</drv>
+</art>
+<!--
+$Log: uleks.xml,v $
+Revision 1.20  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/28 12:03:41  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2013/08/30 15:10:36  revo
+Wolfram Diestel: kor. lst-ref
+
+Revision 1.17  2013/08/26 19:10:30  revo
+Wolfram Diestel: referenco al listo bot genroj
+
+Revision 1.16  2012/08/13 12:10:12  revo
+Marc Rausell: + trd ca
+
+Revision 1.15  2011/03/27 20:10:11  revo
+Russ Williams: +trd en
+
+Revision 1.14  2009/08/18 19:18:46  revo
+Antonio Codazzi: +trd it
+
+Revision 1.13  2007/06/19 16:30:57  revo
+Harri Laine: +trd fi
+
+Revision 1.12  2003/01/08 17:32:05  revo
+Jozefo Horvath: forigo de "," el trd hu
+
+Revision 1.11  2002/08/13 17:32:11  revo
+-->
+</vortaro>

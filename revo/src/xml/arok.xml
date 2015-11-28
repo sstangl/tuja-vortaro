@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: arok.xml,v 1.16 2015/07/04 08:37:30 revo Exp $">
+<kap>
+  <rad>arok</rad>/i <fnt><bib>SPV</bib></fnt>
+</kap>
+
+<drv mrk="arok.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+  <uzo tip="fak">SPO</uzo>
+    <dif>
+      En &scirc;akludo, movi ene de unu sama ludmovo du pecojn,
+      la <ref tip="vid" cel="regx.0o.sxaka">re&gcirc;on</ref>
+      kaj unu el la <ref tip="vid" cel="tur.0o.sxaka">turoj</ref>: la
+      re&gcirc;o estu movata je du fakoj direkte al la turo; kaj la turo
+      estu movata en la fakon trans kiu la re&gcirc;o pasis.
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_r;&c_a;&c_k;&c_ib;&c_r;&c_a;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>,
+    <trd>&c_r;&c_a;&c_b;&c_ib;&c_c;&c_mol;
+    <ind>&c_r;&c_a;&c_k;&c_ib;&c_r;&c_o;&c_w;&c_k;&c_u;</ind></trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>dělat rošádu <klr>(šach.)</klr></trd>,
+    <trd>rošovat</trd>
+  </trdgrp>
+  <trd lng="de">Rochade ausf&uuml;hren</trd>
+  <trd lng="en">castle</trd>
+  <trd lng="es">enrocar</trd>
+  <trd lng="fr">roquer</trd>
+  <trdgrp lng="hu">
+    <trd>s&aacute;ncol<klr tip="ind"> (sakk)</klr></trd>,
+    <trd>ros&aacute;l</trd>
+  </trdgrp>
+  <trd lng="it">arroccare</trd>
+  <trd lng="pl">roszada</trd>
+  <trd lng="pt">rocar</trd>
+  <trd lng="ru">&c_r;&c_o;&c_k;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;
+  </trd>
+  <trdgrp lng="sk">
+    <trd>robiť rošádu</trd>,
+    <trd>urobi&tcaron; <ind>ro&scaron;&aacute;du</ind></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: arok.xml,v $
+Revision 1.16  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.14  2010/07/20 16:30:19  revo
+Antonio Codazzi: +trd it
+
+Revision 1.13  2008/06/17 16:30:24  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.12  2007/11/30 17:30:19  revo
+Tulio Flores: +tr pt
+
+Revision 1.11  2007/05/22 16:30:50  revo
+Wieland Pusch: +trd de
+
+Revision 1.10  2004/02/29 17:31:19  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.9  2004/02/20 17:31:00  revo
+Jeromo Vasxe: + fnt spv
+
+Revision 1.8 2002/09/25 16:32:05 revo
+Jozefo Horvath: +trd hu
+
+Revision 1.7 2002/09/09 19:49:01 revo
+-->
+</vortaro>

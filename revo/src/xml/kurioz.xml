@@ -1,0 +1,134 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: kurioz.xml,v 1.16 2015/07/04 08:37:38 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>kurioz</rad>/a
+</kap>
+<drv mrk="kurioz.0a">
+  <kap><tld/>a</kap>
+  <snc>
+    <dif>
+      <ref tip="super" cel="strang.0a">Strangeta</ref>, interese
+      nekutima;
+      vidinda, rimarkinda:
+      <ekz>
+        <tld/>a besto, spektaklo.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_k;&c_u;&c_r;'&c_jo;&c_z;&c_n;&c_y;</trd>,
+    <trd>&c_d;&c_z;&c_ib;&c_w;&c_n;&c_y;</trd>,
+    <trd>&c_c;&c_ib;&c_k;&c_a;&c_v;&c_y;</trd>,
+    <trd>&c_z;&c_a;&c_b;&c_a;&c_w;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>kuriózní</trd>,
+    <trd>neobvyklý</trd>,
+    <trd>podivný</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>seltsam</trd>,
+    <trd>sonderbar</trd>,
+    <trd>merkw&uuml;rdig</trd>,
+    <trd>wunderlich</trd>,
+    <trd>kurios</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>curious</trd>,
+    <trd>odd</trd>,
+    <trd>quaint</trd>,
+    <trd>strange</trd>
+  </trdgrp>
+  <trd lng="fr">curieux<klr> (digne d'int&eacute;r&ecirc;t)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>&eacute;rdekes</trd>,
+    <trd>furcsa</trd>,
+    <trd>saj&aacute;tos</trd>,
+    <trd>k&uuml;l&ouml;n&ouml;s</trd>,
+    <trd>k&uuml;l&ouml;nleges</trd>
+  </trdgrp>
+  <trd lng="nl">vreemd<klr tip="ind"> (eigenaardig)</klr></trd>
+  <trdgrp lng="ru">
+    <trd>&c_k;&c_u;&c_r;&c_mol;&c_jo;&c_z;&c_n;&c_y;&c_j;</trd>,
+    <trd>&c_l;&c_ju;&c_b;&c_o;&c_p;&c_y;&c_t;&c_n;&c_y;&c_j;</trd>,
+    <trd>&c_z;&c_a;&c_n;&c_ja;&c_t;&c_n;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>kuriózny</trd>,
+    <trd>neobyčajný</trd>,
+    <trd>zvláštny</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kurioz.0ajxo">
+  <kap><tld/>a&jcirc;o</kap>
+  <snc>
+    <dif>
+      Strangeta afero, kiu logas atenton:
+      <ekz>
+        kolekti <tld/>a&jcirc;ojn.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_k;&c_u;&c_r;'&c_jo;&c_z;</trd>
+  <trdgrp lng="de">
+    <trd>Kuriosit&auml;t</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>curio</trd>,
+    <trd>curiousity</trd>,
+    <trd>oddity</trd>,
+    <trd>singularity</trd>
+  </trdgrp>
+  <trd lng="fr">curiosit&eacute;<klr> (objet int&eacute;ressant)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>&eacute;rdekess&eacute;g</trd>,
+    <trd>furcsas&aacute;g</trd>,
+    <trd>saj&aacute;toss&aacute;g</trd>,
+    <trd>k&uuml;l&ouml;nlegess&eacute;g</trd>,
+    <trd>nevezetess&eacute;g</trd>,
+    <trd>kuri&oacute;zum</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>curiositeit</trd>,
+    <trd>rariteit</trd>
+  </trdgrp>
+  <trd lng="ru">&c_k;&c_u;&c_r;&c_mol;&c_jo;&c_z;</trd>
+</drv>
+</art>
+<!--
+$Log: kurioz.xml,v $
+Revision 1.16  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.14  2009/09/20 16:30:52  revo
+Paul Peeraerts: +nl
+
+Revision 1.13  2006/09/17 16:30:47  revo
+Russ Williams: +trd en
+
+Revision 1.12  2006/08/25 14:12:57  revo
+Wieland Pusch: +trd de
+
+Revision 1.11  2005/04/25 16:31:35  revo
+Yury Finkel: +trd ru
+
+Revision 1.10  2004/08/15 17:32:53  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.9  2004/03/31 16:31:25  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.8  2004/02/11 19:22:12  revo
+Jeromo Vasxe: memstar. ~a&jcirc;o, ~a + tez, + trd fr
+
+Revision 1.7 2002/04/02 17:56:06 revo
+-->
+</vortaro>

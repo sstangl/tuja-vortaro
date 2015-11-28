@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: precioz.xml,v 1.3 2015/07/04 08:37:41 revo Exp $">
+<kap>
+  <rad>precioz</rad>/a <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="precioz.0a">
+  <kap><tld/>a</kap>
+  <uzo tip="stl">RAR</uzo>
+  <snc mrk="precioz.0a.KOMUNE">
+    <dif>
+      <ref tip="vid" cel="rafin.0ita.FIG">Rafinita</ref>
+      kaj malbanala, videble celanta artismon,
+      eventuale afekta:
+      <ekz>
+        la longaj, <tld/>aj frazoj de la monologanto, kaj la iomete 
+        eksmodaj afiksori&ccirc;aj vortoj aperas &ccirc;arme en la bu&scirc;o de &ccirc;i tiu 
+        simpatia aktoro
+        <fnt>
+          <aut>K. Kniivil&auml;</aut>,
+          <vrk><url
+          ref="http://www.liberafolio.org/2006/duonokulvitro/">
+          La Duonokulvitro: duoble pionire</url></vrk>,
+          <lok>libera folio, 2006-04-24</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>preciózní</trd>,
+    <trd>uhlazený</trd>,
+    <trd>vyumělkovaný</trd>
+  </trdgrp>
+  <trd lng="fr">pr&eacute;cieux<klr> (affect&eacute;)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>uhladený</trd>,
+    <trd>vyumelkovaný</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="precioz.0ismo">
+  <kap><tld/>ismo</kap>
+  <snc mrk="precioz.0ismo.BELA">
+    <uzo tip="fak">BELA</uzo>
+    <uzo tip="fak">BELE</uzo>
+    <dif>
+      Arta stilo, kiu celas elitan rafinitecon;
+      interalie tia beletra maniero de la
+      fino de 16a kaj komenco de 17a jarcentoj en E&ubreve;ropo:
+      <ekz>
+        <tld/>ismo a&ubreve; gongorismo estis ludema per lingva&jcirc;oj
+        <fnt>
+          <bib>Viki</bib>,
+          <lok><url
+          ref="http://eo.wikipedia.org/wiki/Luis_de_G%C3%B3ngora">
+          Luis de G&oacute;ngora</url>, 2010-07-10</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="dekade.0ismo.BELA">dekadencismo</ref>,
+      <ref cel="manier.0ismo.BELA">manierismo</ref>
+    </refgrp>
+  </snc>
+  <trd lng="en">euphuism</trd>
+  <trd lng="fr">pr&eacute;ciosit&eacute;<klr> (style)</klr></trd>
+</drv>
+</art>
+
+<!--
+$Log: precioz.xml,v $
+Revision 1.3  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.2  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.1  2013/01/30 15:10:09  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

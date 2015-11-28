@@ -1,0 +1,138 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: sojl.xml,v 1.20 2015/07/04 08:37:43 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>sojl</rad>/o
+</kap>
+<drv mrk="sojl.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc>
+  <uzo tip="fak">KON</uzo>
+    <dif>
+      Transversa &scirc;tono a&ubreve; trabo ku&scirc;anta malsupre de la aperturo de
+      pordo.
+    </dif>
+    <trd lng="en">threshold</trd>
+    <trd lng="fr">seuil</trd>
+    <trdgrp lng="nl">
+      <trd>drempel</trd>,
+      <trd>dorpel</trd>
+    </trdgrp>
+  </snc>
+  <snc>
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Komenco:
+      <ekz>
+        &ccirc;e la <tld/>o de la jaro, de la vintro, de la maljuneco;
+      </ekz>
+      <ekz>
+        &ccirc;e la <tld/>o de la dezerto;
+      </ekz>
+      <ekz>
+        <ind>stari sur la <tld/>o</ind>
+        <klr>(f: esti tuj okazonta)</klr>.
+        <trd lng="hu">k&uuml;sz&ouml;b&ouml;n &aacute;ll</trd>
+      </ekz>
+    </dif>
+    <trdgrp lng="fr">
+      <trd>d&eacute;but</trd>,
+      <trd>commencement</trd>
+    </trdgrp>
+    <trd lng="nl">drempel</trd>
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_r;&c_o;&c_g;</trd>
+  <trd lng="ca">llindar</trd>
+  <trdgrp lng="cs">
+    <trd>dolní mezní hodnota</trd>,
+    <trd>počátek</trd>,
+    <trd>práh</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Schwelle</trd>,
+    <trd>Anfang</trd>,
+    <trd>Beginn</trd>
+  </trdgrp>
+  <trd lng="es">umbral</trd>
+  <trd lng="hu">k&uuml;sz&ouml;b</trd>
+  <trd lng="it">soglia</trd>
+  <trd lng="ru">&c_p;&c_o;&c_r;&c_o;&c_g;</trd>
+  <trdgrp lng="sk">
+    <trd>prah</trd>,
+    <trd>začiatok</trd>
+  </trdgrp>
+  <trd lng="sv">tr&ouml;skel</trd>
+</drv>
+
+<drv mrk="sojl.0a">
+  <kap><tld/>a</kap>
+  <snc>
+    <dif>
+     Rilata al sojlo.
+     </dif>
+  </snc>
+  <snc>
+  <uzo tip="fak">SCI</uzo>
+  <uzo tip="stl">FIG</uzo>
+    <dif>
+      Rilata al lima valoro, punkto, stato a&ubreve; kvanto, kie iu fenomeno a&ubreve;
+      esenca &scirc;an&gcirc;i&gcirc;o ekokazas:
+      <ekz>
+        <tld/>a punkto, temperaturo
+        <fnt><bib>Viki</bib></fnt>
+      </ekz>
+    </dif>
+  </snc>
+    <trd lng="en">critical</trd>
+    <trd lng="it">critico</trd>
+</drv>
+
+<drv mrk="sojl.supra0o">
+  <kap>supra <tld/>o<fnt>Z</fnt></kap>
+  <snc>
+    <dif>
+      &Scirc;tono a&ubreve; trabo formanta la plafonon de aperturo.
+    </dif>
+  </snc>
+  <trd lng="es">dintel</trd>
+  <trd lng="hu">szem&ouml;ld&ouml;kfa</trd>
+  <trd lng="nl">bovendwarsstuk<klr tip="ind"> (v.deur of
+  raam)</klr></trd>
+  <trd lng="ru">&c_p;&c_r;&c_i;&c_t;&c_o;&c_l;&c_o;&c_k;&c_a;</trd>
+</drv>
+</art>
+<!--
+$Log: sojl.xml,v $
+Revision 1.20  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:33:24  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2014/04/15 10:10:24  revo
+Damien Brucker: +trd fr
+
+Revision 1.17  2011/05/27 18:10:08  revo
+Fabio Bettani: +sojla, +trd it
+
+Revision 1.16  2009/07/08 16:31:12  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.15  2005/06/22 16:31:54  revo
+Yury Finkel: +trd ru
+
+Revision 1.14  2005/04/24 16:33:34  revo
+Lluis Batlle i Rossell: +trd ca
+
+Revision 1.13  2005/04/14 16:33:24  revo
+Raul Salinas Monteagudo: +trd es
+
+Revision 1.12  2004/10/18 16:33:06  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.11  2003/01/17 17:32:12  revo
+-->
+</vortaro>

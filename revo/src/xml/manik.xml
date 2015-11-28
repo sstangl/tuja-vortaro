@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: manik.xml,v 1.29 2015/07/04 08:37:39 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>manik</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="manik.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="manik.0o.TEKS">
+    <uzo tip="fak">TEKS</uzo>
+    <dif>
+      Parto de <ref tip="malprt" cel="vest.0o">vesto</ref>,
+      kiu kovras brakon:
+      <ekz>
+        ne butonumitaj, la manikoj nature falis
+        <fnt>
+          <aut>M. de Assis, trad. P. Viana</aut>,
+          <vrk>La divenistino kaj aliaj rakontoj</vrk>,
+          <lok>Oportuno, 2005, p. 32a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="hom" cel="manik1.0o">Maniko</ref>
+  </snc>
+  <trd lng="be">&c_r;&c_u;&c_k;&c_a;&c_w;</trd>
+  <trd lng="bg">&c_r;&c_malmol;&c_k;&c_a;&c_v;</trd>
+  <trd lng="br">milgin</trd>
+  <trd lng="ca">m&agrave;niga</trd>
+  <trd lng="cs">rukáv</trd>
+  <trd lng="de">&Auml;rmel</trd>
+  <trd lng="en">sleeve</trd>
+  <trd lng="es">manga</trd>
+  <trd lng="fr">manche<klr tip="ind"> (de v&ecirc;tement)</klr></trd>
+  <trd lng="hu">ruhaujj</trd>
+  <trd lng="id"><ind>lengan</ind> baju</trd>
+  <trd lng="nl">mouw</trd>
+  <trd lng="pt">manga<klr tip="amb"> (de roupa)</klr></trd>
+  <trd lng="ru">&c_r;&c_u;&c_k;&c_a;&c_v;</trd>
+  <trd lng="sk">rukáv</trd>
+  <trd lng="sv">&auml;rm</trd>
+</drv>
+
+<drv mrk="manik.ella0o">
+  <kap>el la <tld/>o</kap>
+  <snc mrk="manik.ella0o.FRAZ">
+    <uzo tip="stl">FRAZ</uzo>
+    <dif>
+      Facile verkante, brile, flue, eble tro abunde:
+      <ekz>
+        verkisto forskuas el la <tld/>o siajn ravajn mensoga&jcirc;ojn
+        <fnt>
+          <aut>J. Baghy</aut>,
+          <vrk><url
+          ref="http://donh.best.vwh.net/Esperanto/Literaturo/Revuoj/nlr/nlr65/otelo.html">
+          &Ccirc;u 'otelo, &ccirc;u ne 'otelo</url></vrk>,
+          <lok>Nica Literatura Revuo, 1961-05 &gcirc;is 06, numero 6/5, p.
+          164a-173a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="ca">
+    <trd>de bon</trd>,
+    <trd>jugant, jugant jugant</trd>
+  </trdgrp>
+  <trd lng="fr">avec <ind>brio</ind></trd>
+</drv>
+
+<drv mrk="manik.sen0a">
+  <kap>sen<tld/>a</kap>
+  <snc mrk="manik.sen0a.TEKS">
+    <uzo tip="fak">TEKS</uzo>
+    <dif>
+      Kiu malhavas <tld/>ojn, kovras nur la torson, ne la 
+      brakojn:
+      <ekz>
+        flordesegna, sen<tld/>a somerrobo
+        <fnt>
+          <aut>I. Kert&eacute;sz, trad. I. Ertl</aut>,
+          <vrk><url ref="http://esperanto-ondo.ru/Tl-ukr01.htm">
+          Sensorteco</url></vrk>,
+          <lok>2003</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">sans manche</trd>
+</drv>
+</art>
+<!--
+$Log: manik.xml,v $
+Revision 1.29  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.28  2015/06/29 16:33:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.27  2015/01/29 04:10:55  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.26  2014/09/03 01:10:20  revo
+Jeromo Vasxe: + sen~a
+
+Revision 1.25  2011/12/06 12:10:18  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.24  2011/09/17 22:10:12  revo
+Wieland Pusch: +trd bg
+
+Revision 1.23  2011/05/11 11:10:08  revo
+Jeromo Vasxe: + el la ~o
+
+Revision 1.22  2006/07/29 16:32:42  revo
+Tulio Flores: +tr pt
+
+Revision 1.21  2005/08/05 16:31:09  revo
+Luiz Portella: +ekz +trd pt
+
+Revision 1.20  2005/04/16 16:35:10  revo
+-->
+</vortaro>

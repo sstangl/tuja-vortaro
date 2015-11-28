@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: krasul.xml,v 1.13 2013/08/27 07:10:33 revo Exp $">
+<kap>
+  <rad>krasul</rad>/o
+</kap>
+<drv mrk="krasul.0o">
+  <kap>
+    <tld/>o
+  </kap>
+  <uzo tip="fak">BOT</uzo>
+  <snc>
+    <dif>
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:botanikaj_genroj">Genro</ref> el familio <ref
+      tip="malprt"
+      cel="krasul1.0oj"><tld/>acoj</ref>
+      (<trd lng="la">Crassula</trd>), kun bonodorantaj floroj kaj dikaj
+      folioj.
+    </dif>
+  </snc>
+  <trd lng="de">Dickblatt</trd>
+  <trd lng="hu">pozsga</trd>
+  <trd lng="nl">crassula<klr tip="ind"> (vetplant)</klr></trd>
+  <trd lng="pt">cr&aacute;ssula</trd>
+  <trd lng="ru">&c_t;&c_o;&c_l;&c_s;&c_t;&c_ja;&c_n;&c_k;&c_a;</trd>
+</drv>
+</art>
+<!--
+$Log: krasul.xml,v $
+Revision 1.13  2013/08/27 07:10:33  revo
+Wolfram Diestel: referenco al listo bot genroj
+
+Revision 1.12  2009/09/13 16:57:07  revo
+Paul Peeraerts: +nl
+
+Revision 1.11  2006/11/02 17:31:45  revo
+Tulio Flores: +tr pt
+
+Revision 1.10  2004/04/21 17:08:08  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.9  2001/11/05 19:12:39  revo
+Yury Finkel: +trd ru
+
+Revision 1.8  2001/04/20 12:55:09  revo
+krasul.0acoj -> krasul1.0oj
+
+Revision 1.7  2001/04/20 12:53:21  revo
+shovis krasul.0acoj al krasul1.0oj
+
+Revision 1.6  2000/11/30 12:44:11  revo
+-->
+</vortaro>

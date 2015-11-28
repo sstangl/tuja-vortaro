@@ -1,0 +1,721 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: flor.xml,v 1.56 2015/07/04 08:37:34 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>flor</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="flor.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="flor.0o.planto">
+    <dif>
+      Iu el <ref tip="malprt" cel="flor.0oplantoj"><tld/>oplantoj
+      </ref>:
+      <ekz>
+        <ind><tld/>poto</ind>;
+        <trd lng="fr">pot de fleurs</trd>
+        <trd lng="es">maceta</trd>
+        <trd lng="hu">vir&aacute;gcser&eacute;p</trd>
+        <trd lng="nl">bloempot</trd>
+        <trd lng="pl">wazon</trd>
+        <trd lng="ru">
+        &c_c;&c_v;&c_je;&c_t;&c_o;&c_ch;&c_n;&c_y;&c_j;
+        &c_g;&c_o;&c_r;&c_sh;&c_o;&c_k;</trd>
+      </ekz>
+      <ekz>
+        anta&ubreve; la pordego de la granda palaco <klr>...</klr>
+        trovi&gcirc;as la bela &gcirc;ardeno kun la multo da <tld/>oj
+        <fnt><bib>Fab1</bib>, <lok>Floroj de la malgranda Ida</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">Blume</trd>
+    <trd lng="nl">bloem</trd>
+    <trd lng="pt">flor</trd>
+  </snc>
+  <snc mrk="flor.0o.plantparto">
+    <dif>
+      Okulfrapa, kutime kolora, parto de planto,
+      kun <tld/>oj <sncref ref="flor.0o.BOT"/>:
+      <ekz>
+        bukedo da <tld/>oj;
+      </ekz>
+      <ekz>
+        <uzo tip="fak">BELA</uzo>
+        <ind><tld/>desegna</ind> &scirc;tofo.
+        <trd lng="fr">fleuri<klr tip="ind"> (avec des motifs
+        floraux)</klr></trd>
+        <trd lng="hu">vir&aacute;gmint&aacute;s</trd>
+        <trd lng="nl">gebloemd</trd>
+        <trd lng="pt">flor</trd>
+      </ekz>
+    </dif>
+    <trd lng="de">Blume</trd>
+    <trd lng="nl">bloem</trd>
+  </snc>
+  <snc mrk="flor.0o.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      Parto de <ref tip="malprt" cel="flor.0oplantoj">
+      <tld/>oplantoj</ref>
+      kun la reproduktaj organoj:
+      <ekz>
+        kaj lia floro defalos kiel &ccirc;e olivarbo
+        <fnt><bib>MT</bib>, <lok>&Ijo; 15:33</lok></fnt>;
+      </ekz>
+      <ekz>
+        kiam la florado fini&gcirc;is kaj la floro fari&gcirc;is
+        matura bero, Li detran&ccirc;os la bran&ccirc;ojn per
+        tran&ccirc;iloj kaj deprenos la vinberbran&ccirc;ojn
+        <fnt><bib>MT</bib>, <lok>&Jes; 18:5</lok></fnt>;
+      </ekz>
+      <ekz>
+        ni rigardu, &ccirc;u la vinbertrunko jam bur&gcirc;onis,
+        &ccirc;u &gcirc;iaj floroj jam malfermi&gcirc;is
+        <fnt><bib>MT</bib>, <lok>&Alt; 7:12</lok></fnt>;
+      </ekz>
+      <ekz>
+        doni <klr>(naski)</klr> <tld/>ojn<fnt>Z</fnt>;
+      </ekz>
+    </dif>
+    <bld lok="../bld/flor.png">
+      floropartoj<klr>: 1. stiluso, 2. ovario, 3. florfundo,
+      4. stameno, 5. korola folio (petalo), 6. stigmo, 7. pistilo,
+      8. kalika folio (sepalo), 9. flortigo (pedunklo, pedicelo)
+      </klr>
+    </bld>
+    <trd lng="bg">&c_c;&c_malmol;&c_f;&c_t;&c_je;&c_zh;</trd>
+    <trd lng="de">Bl&uuml;te</trd>
+    <trd lng="nl">bloem</trd>
+    <trd lng="pt">flor</trd>
+  </snc>
+  <snc mrk="flor.0o.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      <tld lit="F"/>ado, la plej bela kaj brila periodo de io:
+      <ekz>
+        en la <tld/>o de la juneco, de beleco, de siaj
+        jaroj.
+      </ekz>
+    </dif>
+    <trd lng="de">Bl&uuml;te</trd>
+    <trdgrp lng="nl">
+      <trd>fleur</trd>,
+      <trd>bloei</trd>
+      <trd lng="pt">flor</trd>
+    </trdgrp>
+    <trd lng="ru">&c_c;&c_v;&c_je;&c_t;</trd>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_k;&c_v;&c_je;&c_t;&c_k;&c_a;</trd>,
+    <trd>&c_k;&c_r;&c_a;&c_s;&c_k;&c_a;</trd>
+  </trdgrp>
+  <trd lng="bg">&c_c;&c_v;&c_je;&c_t;&c_je;</trd>
+  <trdgrp lng="cs">
+    <trd>kv&ecaron;t</trd>,
+    <trd>kv&ecaron;tina</trd>,
+    <trd>květ</trd>,
+    <trd>květina</trd>
+  </trdgrp>
+  <trd lng="de">Blume</trd>
+  <trd lng="en">flower</trd>
+  <trd lng="es">flor</trd>
+  <trd lng="fr">fleur</trd>
+  <trd lng="hu">vir&aacute;g</trd>
+  <trd lng="id">bunga</trd>
+  <trdgrp lng="ku">
+    <trd>kul&icirc;lk</trd>,
+    <trd>&ccedil;&icirc;&ccedil;ek</trd>
+  </trdgrp>
+  <trd lng="nl">bloem</trd>
+  <trd lng="pl">kwiat</trd>
+  <trd lng="ro">floare</trd>
+  <trd lng="ru">&c_c;&c_v;&c_je;&c_t;&c_o;&c_k;</trd>
+  <trd lng="sk">flóra</trd>
+  <trd lng="sv">blomma</trd>
+</drv>
+
+<drv mrk="flor.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="flor.0i.naski">
+    <dif>
+      Naski <tld/>ojn <sncref ref="flor.0o.BOT"/>:
+      <ekz>
+        ekfloros kiel lilio
+        <fnt><bib>MT</bib>, <lok>&Jes; 34:17</lok></fnt>;
+      </ekz>
+      <ekz>
+        la vegeta&jcirc;oj <tld/>as en printempo.
+      </ekz>
+    </dif>
+    <trdgrp lng="id">
+      <trd>[<ind>bunga</ind>] berbunga</trd>,
+      <trd>mekar</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="flor.0i.prosperi">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Brile prosperi:
+      <ekz>
+        &gcirc;i forte ekfloros kaj triumfos, triumfos kaj kantos
+        <fnt><bib>MT</bib>, <lok>&Jes; 35:2</lok></fnt>;
+      </ekz>
+      <ekz>
+        vivu kaj <tld/>u<fnt>B</fnt>!
+      </ekz>
+      <ekz>
+        <ind><tld/>anta</ind> sano, a&gcirc;o, viza&gcirc;o, knabina
+        kapo<fnt>Z</fnt>;
+        <trd lng="fr">florissant</trd>
+        <trd lng="es">floreciente</trd>
+        <trd lng="hu">vir&aacute;gz&oacute;</trd>
+        <trd lng="nl">florissant</trd>
+        <trd lng="ru">&c_c;&c_v;&c_je;&c_t;&c_u;&c_shch;&c_i;&c_j;
+        </trd>
+      </ekz>
+      <ekz>
+        en la <tld/>antaj tagoj de Romo;
+      </ekz>
+      <ekz>
+        la artoj longe <tld/>adis en Grekujo;
+      </ekz>
+      <ekz>
+        la komerco <tld/>as;
+      </ekz>
+      <ekz>
+        la gajeco de l' vivo en mi neniam plu re<tld/>os<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="flor.0i.disvolvigxi">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Disvolvi&gcirc;i simile al <tld/>oj:
+      <ekz>
+        se la lepro disfloros sur la ha&ubreve;to kaj la lepro
+        kovros la tutan ha&ubreve;ton
+        <fnt><bib>MT</bib>, <lok>&Lev; 13:12</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_c;&c_mol;&c_v;&c_ib;&c_s;&c_mol;&c_c;&c_ib;</trd>,
+    <trd>&c_k;&c_r;&c_a;&c_s;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_k;&c_v;&c_ib;&c_t;&c_n;&c_je;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="bg">
+    <trd>&c_c;&c_malmol;&c_f;&c_t;&c_ja;</trd>,
+    <trd>&c_r;&c_a;&c_z;&c_c;&c_malmol;&c_f;&c_t;&c_ja;&c_v;&c_a;&c_m;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>kvést</trd>,
+    <trd>vzkvétat</trd>
+  </trdgrp>
+  <trd lng="de">bl&uuml;hen</trd>
+  <trdgrp lng="es">
+    <trd>florear</trd>,
+    <trd>florecer</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>fleurir<klr tip="ind"> (&ecirc;tre en fleurs)</klr></trd>,
+    <trd>&ecirc;tre en <ind>fleurs</ind></trd>,
+    <trd>cro&icirc;tre</trd>,
+    <trd>s'<ind>&eacute;panouir</ind><klr tip="ind"> (fleurir)</klr>
+    </trd>,
+    <trd>prosp&eacute;rer</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>vir&aacute;gzik</trd>,
+    <trd>kivir&aacute;gzik</trd>
+  </trdgrp>
+  <trd lng="nl">bloeien</trd>
+  <trdgrp lng="pl">
+    <trd>rozkwita&cacute;</trd>,
+    <trd>zakwita&cacute;</trd>,
+    <trd>kwitn&aogonek;&cacute;</trd>
+  </trdgrp>
+  <trd lng="ru">&c_c;&c_v;&c_je;&c_s;&c_t;&c_i;</trd>
+  <trd lng="sk">kvitnúť</trd>
+  <trd lng="sv">att <ind>blomma</ind></trd>
+</drv>
+
+<drv mrk="flor.0ado">
+  <kap><tld/>ado</kap>
+  <snc mrk="flor.0ado.naskigxado">
+    <dif>
+      Stato de tio, kio naskas <tld/>ojn; tempo en kiu
+      naski&gcirc;as <tld/>oj:
+      <ekz>
+        tiu vegeta&jcirc;o havas malfruan <tld/>adon.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="flor.0ado.prosperado">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Tempo de brila prospero.
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_c;&c_mol;&c_v;&c_ib;&c_c;&c_je;&c_n;&c_mol;&c_n;&c_je;</trd>,
+    <trd>&c_k;&c_r;&c_a;&c_s;&c_a;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>kvetení</trd>,
+    <trd>rozkvět</trd>
+  </trdgrp>
+  <trd lng="de">Bl&uuml;te</trd>
+  <trd lng="es">floraci&oacute;n</trd>
+  <trdgrp lng="fr">
+    <trd>floraison<klr tip="ind"> (&eacute;panouissement,
+    &eacute;poque)</klr></trd>,
+    <trd>&eacute;panouissement</trd>,
+    <trd>prosp&eacute;rit&eacute;</trd>
+  </trdgrp>
+  <trd lng="hu">vir&aacute;gz&aacute;s</trd>
+  <trd lng="nl">bloei</trd>
+  <trd lng="pl">rozkwit</trd>
+  <trd lng="ru">&c_c;&c_v;&c_je;&c_t;&c_je;&c_n;&c_i;&c_je;</trd>
+  <trdgrp lng="sk">
+    <trd>kvitnutie</trd>,
+    <trd>rozkvet</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="flor.0ajxo">
+  <kap><tld/>a&jcirc;o</kap>
+  <uzo tip="stl">ARK</uzo>
+  <snc>
+    <dif>
+      <tld lit="F"/>o <sncref ref="flor.0o.BOT"/> a&ubreve;
+      <tld/>aro:
+      <ekz>
+        en la alia fino de la &gcirc;ardeno staris la&ubreve;bo el
+        belaj arbeta&jcirc;oj de kaprifolioj <klr>[kies]</klr>
+        flora&jcirc;oj estis similaj al grandaj pentritaj kornoj
+        <fnt><bib>Fab2</bib>, <lok>Elfo de la rozo</lok></fnt>;
+      </ekz>
+      <ekz>
+        la pomarboj staris tute kovritaj de flora&jcirc;o
+        <fnt><bib>Fab2</bib>, <lok>Malbela anasido</lok></fnt>;
+      </ekz>
+      <ekz>
+        grandaj blankaj sambukaj flora&jcirc;oj
+        <fnt><bib>Fab2</bib>, <lok>Sambuka virineto</lok></fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;iu folio estis fre&scirc;a kaj suke verda kaj
+        &ccirc;iu flora&jcirc;o estis bela knabina kapo
+        <fnt><bib>Fab3</bib>, <lok>Koboldo &ccirc;e la butikisto
+        </lok></fnt>;
+      </ekz>
+      <ekz>
+        ekstere oni povis vidi blankru&gcirc;an pizan flora&jcirc;on
+        plene elvolvi&gcirc;intan
+        <fnt><bib>Fab3</bib>, <lok>Kvin en unu silikvo</lok></fnt>;
+      </ekz>
+      <ekz>
+        la lino neniam povis levi sian malgrandan bluan
+        flora&jcirc;on
+        <fnt><bib>Fab3</bib>, <lok>Lino</lok></fnt>;
+      </ekz>
+      <ekz>
+        tie disvolvi&gcirc;as la fajroru&gcirc;aj granataj
+        flora&jcirc;oj
+        <fnt><bib>Fab4</bib>, <lok>Historio el la dunoj</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <rim>
+    La radiko <em><tld/></em> evoluis de karaktero verba al
+    la substantiva. Jam Zamenhofo uzis jen <em><tld/>a&jcirc;o</em>
+    jen <em><tld/>o</em> samsence. Tamen
+    <ref cel="flor.0o.FIG"><tld/>o<sncref/></ref> plu retenas la
+    verban karakteron de la radiko.
+  </rim>
+</drv>
+
+<drv mrk="flor.0aro">
+  <kap><tld/>aro<fnt>Z</fnt></kap>
+  <snc mrk="flor.0aro.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <ref tip="dif" cel="inflor.0o">infloresko</ref>
+    <ekz>
+      Kiel floraro de kofero estas por mi mia amato,
+      En la vinber&gcirc;ardenoj de En-Gedi
+      <fnt><bib>MT</bib>, <lok>&Alt; 1:14</lok></fnt>;
+    </ekz>
+    <ekz>
+      la&ubreve; la formo oni distingas inter cumaj kaj necumaj
+      <tld/>aroj
+      <fnt>
+      <vrk>
+      <url
+      ref="http://www.steloj.de/esperanto/botanik/florar/florar.html">
+      Floraroj (Infloreskoj)</url></vrk>
+      </fnt>.
+    </ekz>
+  </snc>
+  <trd lng="be">&c_s;&c_u;&c_k;&c_v;&c_je;&c_c;&c_mol;&c_c;&c_je;</trd>
+  <trd lng="cs">květena</trd>
+  <trd lng="en">inflorescence</trd>
+  <trd lng="es">inflorescencia</trd>
+  <trd lng="fr">inflorescence</trd>
+  <trd lng="hu">vir&aacute;gzat</trd>
+  <trd lng="pl">kwiatostan</trd>
+  <trd lng="ru">&c_s;&c_o;&c_c;&c_v;&c_je;&c_t;&c_i;&c_je;</trd>
+  <trd lng="sk">kvetena</trd>
+</drv>
+
+<drv mrk="flor.0umi">
+  <kap><tld/>umi</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="flor.0umi.KOMUNE">
+    <dif>
+      Ornami per <tld/>oj:
+      <ekz>
+        junulinoj sin <tld/>umas
+        <fnt>
+          <aut>Z. Bergrov&aacute;, trad. J. Krolupper</aut>,
+          <vrk><url
+          ref="http://www.literatura.bucek.name/bergr/podzimni.doc">
+          A&ubreve;tuna luno</url></vrk>,
+          <lok>2008</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>ověnčit</trd>,
+    <trd>ozdobit květinami</trd>
+  </trdgrp>
+  <trd lng="fr">fleurir<klr> (orner de fleurs)</klr></trd>
+  <trd lng="sk">ovenčiť</trd>
+</drv>
+
+<drv mrk="flor.ek0i">
+  <kap>ek<tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc>
+    <dif>
+      Komenci <tld/>i.
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_r;&c_a;&c_s;&c_mol;&c_c;&c_mol;&c_v;&c_ib;&c_t;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_z;&c_a;&c_c;&c_mol;&c_v;&c_ib;&c_t;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="cs">rozkvést</trd>
+  <trdgrp lng="de">
+    <trd>erbl&uuml;hen</trd>,
+    <trd>aufbl&uuml;hen</trd>
+  </trdgrp>
+  <trd lng="es">florecer<klr tip="ind"> (intr., empezar a
+  florecer)</klr></trd>
+  <trd lng="fr">fleurir<klr tip="ind"> (intr., se mettre &agrave;
+  fleurir)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>kivir&aacute;gzik</trd>,
+    <trd>vir&aacute;gzoni kezd</trd>
+  </trdgrp>
+  <trd lng="nl">openbloeien</trd>
+  <trdgrp lng="pl">
+    <trd>zakwita&cacute;</trd>,
+    <trd>rozkwita&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_r;&c_a;&c_s;&c_c;&c_v;&c_je;&c_s;&c_t;&c_i;</trd>,
+    <trd>&c_z;&c_a;&c_c;&c_v;&c_je;&c_s;&c_t;&c_i;</trd>
+  </trdgrp>
+  <trd lng="sk">rozkvitnúť</trd>
+</drv>
+
+<drv mrk="flor.for0i">
+  <kap>for<tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc>
+    <dif>
+      Perdi siajn florojn, <ref tip="vid" cel="velk.0i">velki</ref>.
+    </dif>
+  </snc>
+  <trd lng="be">&c_a;&c_d;&c_c;&c_mol;&c_v;&c_ib;&c_t;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="cs">odkvést</trd>
+  <trd lng="de">verbl&uuml;hen</trd>
+  <trdgrp lng="es">
+    <trd>marchitarse</trd>,
+    <trd>desflorecer</trd>
+  </trdgrp>
+  <trd lng="fr">d&eacute;fleurir<klr tip="ind"> (intr.)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>elny&iacute;lik</trd>,
+    <trd>elvir&aacute;gzik</trd>
+  </trdgrp>
+  <trd lng="nl">verwelken</trd>
+  <trd lng="pl">przekwita&cacute;</trd>
+  <trd lng="ru">&c_o;&c_t;&c_c;&c_v;&c_je;&c_s;&c_t;&c_i;</trd>
+  <trdgrp lng="sk">
+    <trd>odkvitnúť</trd>,
+    <trd>zvädnúť</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="flor.maj0o">
+  <kap>maj<tld/>o</kap>
+  <snc mrk="flor.maj0o.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      Herba vegeta&jcirc;o kun bonodoraj sonoriloformaj floretoj, venena,
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:botanikaj_genroj">genro</ref> el familio <ref
+      tip="malprt" cel="liliac.0oj">liliacoj</ref>
+      (<trd lng="la">Convallaria</trd>):
+      <ekz>
+        maj<tld/>oj en mia &gcirc;ardeneto
+        <fnt>
+          <aut>Ryonryon</aut>,
+          <vrk>Blogo</vrk>,
+          <lok><url
+          ref="http://pub.ne.jp/ryonryon/?entry_id=716115">2007-05-26</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="konval.0o.BOT">konvalo</ref>
+  </snc>
+  <trd lng="be">&c_l;&c_a;&c_n;&c_d;&c_y;&c_sh;</trd>
+  <trd lng="br">louzaouenn-an-ha&ntilde;v</trd>
+  <trd lng="cs">konvalinka</trd>
+  <trd lng="de">Maigl&ouml;ckchen</trd>
+  <trd lng="fr">muguet</trd><trd lng="fr">Convallaria majalis</trd>
+  <trd lng="hu">gy&ouml;ngyvir&aacute;g</trd>
+  <trd lng="ja">&#12473;&#12474;&#12521;&#12531; [<ind>&#12377;&#12378;&#12425;&#12435;</ind>]</trd>
+  <trdgrp lng="nl">
+    <trd>meiklokje</trd>,
+    <trd>lelietje-van-dalen</trd>
+  </trdgrp>
+  <trd lng="pl">konwalia</trd>
+  <trdgrp lng="pt">
+    <trd>flor-de-maio</trd>,
+    <trd>l&iacute;rio-do-vale</trd>
+  </trdgrp>
+  <trd lng="ru">&c_l;&c_a;&c_n;&c_d;&c_y;&c_sh;</trd>
+  <trd lng="sk">konvalinka</trd>
+</drv>
+
+<drv mrk="flor.marto0o">
+  <kap>marto<tld/>o</kap>
+  <snc mrk="flor.marto0o.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      Vegeta&jcirc;o kun blankaj sonoriloformaj
+      <tld/>oj, kies ses egallongaj elipsaj petaloj havas flavan a&ubreve;
+      verdan makulon &ccirc;e la pinto, <ref tip="lst" cel="speci.0o.BIO"
+      lst="voko:botanikaj_specioj">specio</ref> el familio
+      <ref tip="super" cel="amaril1.0oj">amarilidacoj</ref>
+      (<trd lng="la">Leucoium vernum</trd>).
+    </dif>
+  </snc>
+  <bld lok="../bld/martflor.jpg">
+    marto<tld/>oj
+  </bld>
+  <trdgrp lng="de">
+    <trd>M&auml;rzenbecher</trd>,
+    <trd>Fr&uuml;hlingsknotenblume</trd>.
+  </trdgrp>
+  <trd lng="fr">niv&eacute;ole</trd>
+  <trd lng="hu">tavaszi <ind>t&odblac;zike</ind></trd>
+  <trd lng="ja">&#12473;&#12494;&#12540;&#12501;&#12524;&#12540;&#12463;
+  [<ind>&#12377;&#12398;&#12362;&#12405;&#12428;&#12360;&#12367;</ind>]</trd>
+  <trd lng="pl">&sacute;nie&zdot;yca wiosenna</trd>
+  <trdgrp lng="ru">
+    <trd>&c_b;&c_je;&c_l;&c_o;&c_c;&c_v;&c_je;&c_t;&c_n;&c_i;&c_k; &c_v;&c_je;&c_s;&c_je;&c_n;&c_n;&c_i;&c_j;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="flor.negxo0o">
+  <kap>ne&gcirc;o<tld/>o, <var><kap>ne&gcirc;<tld/>o</kap></var></kap>
+  <snc mrk="flor.negxo0o.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      <ref tip="lst" cel="speci.0o.BIO"
+      lst="voko:botanikaj_specioj">Specio</ref>
+      de <ref tip="super" cel="edelve.0o">edelvejso</ref>
+      (<trd lng="la">Leontopodium alpinum</trd>).
+    </dif>
+  </snc>
+  <rim mrk="flor.negxo0o.RIM_SNC">
+    La sama popola nomo aperas en naciaj lingvoj por diversaj 
+    vintrofinaj floroj, ekzemple anka&ubreve; por <ref tip="vid" 
+    cel="galant.0o">galanto</ref> (normale <em>ne&gcirc;borulo</em>). 
+  </rim>
+  <trd lng="be">&c_e;&c_d;&c_e;&c_l;&c_mol;&c_v;&c_e;&c_j;&c_s;</trd>
+  <trd lng="de">Edelwei&szlig;</trd>
+  <trd lng="fr">edelweiss</trd>
+  <trdgrp lng="es">
+    <trd>flor de las nieves</trd>,
+    <trd>edelweiss</trd>
+  </trdgrp>  
+  <trdgrp lng="he">
+    <trd>&lamed;&bet;&nun;&bet;&fnun;<klr tip="ind">
+    (&alef;&dalet;&lamed;&vav;&vav;&yod;&samekh;)</klr></trd>,
+    <trd>&alef;&dalet;&lamed;&vav;&vav;&yod;&samekh;</trd>
+  </trdgrp>
+  <trd lng="id">edelweis</trd>
+  <trd lng="hu">gyop&aacute;r</trd>
+  <trd lng="nl">sneeuwklokje</trd>
+  <trd lng="ru">&c_e;&c_d;&c_je;&c_l;&c_mol;&c_v;&c_je;&c_j;&c_s;</trd>
+</drv>
+
+<drv mrk="flor.sun0o">
+  <kap>sun<tld/>o</kap>
+  <snc mrk="flor.sun0o.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      Alta herba vegeta&jcirc;o kun granda flava floraro,
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:botanikaj_genroj">genro</ref> el familio <ref
+      tip="malprt" cel="astera.0oj">asteracoj</ref>
+      (<trd lng="la">Helianthus</trd>):
+      <ekz>
+        maturaj sun<tld/>oj ne turnas sin al la suno, nur la nematuraj
+        <fnt>
+          <aut>Ste&ccirc;jo</aut>,
+          <vrk>Sunfloroj</vrk>,
+          <lok><url
+          ref="http://www.esperanto.ca/files/halifax/inter_ni_2006_07.pdf">
+          Inter Ni, 2006-07</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="helian.0o.BOT">helianto</ref>
+  </snc>
+  <bld lok="../bld/heliant.jpg">
+    sun<tld/>oj <klr>(Helianthus annuus)</klr>
+  </bld>
+  <trd lng="be">&c_s;&c_l;&c_a;&c_n;&c_je;&c_ch;&c_n;&c_ib;&c_k;</trd>
+  <trd lng="bg">&c_s;&c_l;&c_malmol;&c_n;&c_ch;&c_o;&c_g;&c_l;&c_je;&c_d;</trd>
+  <trd lng="de">Sonnenblume</trd>
+  <trd lng="es">girasol</trd>
+  <trdgrp lng="fr">
+    <trd>h&eacute;lianthe</trd>,
+    <trd>tournesol</trd>
+  </trdgrp>
+  <trd lng="he">&het;&mem;&nun;&yod;&tav;</trd>
+  <trd lng="hu">napraforg&oacute;</trd>
+  <trd lng="id"><ind>bunga</ind> matahari</trd>
+  <trd lng="nl">zonnebloem</trd>
+  <trd lng="pl">s&lstroke;onecznik</trd>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_o;&c_d;&c_s;&c_o;&c_l;&c_n;&c_u;&c_h;</trd>,
+    <trd>&c_p;&c_o;&c_d;&c_s;&c_o;&c_l;&c_n;&c_je;&c_ch;&c_n;&c_i;&c_k;</trd>
+  </trdgrp>
+  <trd lng="sv">solros</trd>
+  <trd lng="tr">ay&ccedil;i&ccedil;e&gbreve;i</trd>
+  <trd lng="vo">solaflol</trd>
+  <trd lng="sk">kamzičník</trd>
+  <trdgrp lng="cs">
+    <trd>heliant</trd>,
+    <trd>slunečnice</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="flor.0folio">
+  <kap><tld/>folio</kap>
+  <snc mrk="flor.0folio.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      <ref tip="sub" cel="kalik.0afolio">Kalika</ref> a&ubreve;
+      <ref tip="sub" cel="korol.0afolio">korola</ref> folio
+      de la <ref tip="malprt" cel="flor.0o.BOT"><tld/>o</ref>.
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_ja;&c_l;&c_jo;&c_s;&c_t;&c_a;&c_k;</trd>
+  <trd lng="cs">okvětní lístek</trd>
+  <trd lng="es">p&eacute;talo</trd>
+  <trdgrp lng="fr">
+    <trd>p&eacute;tale</trd>,
+    <trd>s&eacute;pale</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>vir&aacute;glev&eacute;l</trd>,
+    <trd>szirom</trd>
+  </trdgrp>
+  <trd lng="nl">bloemblad</trd>
+  <trd lng="pl">p&lstroke;atek</trd>
+  <trd lng="ru">&c_l;&c_je;&c_p;&c_je;&c_s;&c_t;&c_o;&c_k;</trd>
+  <trd lng="sk">okvetný lístok</trd>
+</drv>
+
+<drv mrk="flor.0oplantoj">
+  <kap><tld/>oplantoj, <var><kap><tld/>vegetaloj</kap></var></kap>
+  <snc mrk="flor.0oplantoj.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      Sub<ref tip="lst" cel="divizi.0o.BOT"
+      lst="voko:botanikaj_grupoj">divizio</ref> de la <ref
+      tip="malprt"
+      cel="vaskul.0ajplantoj">vaskulaj plantoj</ref>
+      (<trd lng="la">Spermatophytina</trd>), reprodukti&gcirc;antaj
+      per semgrajnoj, esti&gcirc;antaj el fekundi&gcirc;o kaj
+      enhavantaj la &gcirc;ermon.
+    </dif>
+    <ref tip="sin" cel="sem.0oplantoj">semoplantoj</ref>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_k;&c_v;&c_je;&c_t;&c_k;&c_a;&c_v;&c_y;&c_ja; <ind>&c_r;&c_a;&c_s;&c_mol;&c_l;&c_ib;&c_n;&c_y;</ind></trd>,
+    <trd>&c_p;&c_a;&c_k;&c_r;&c_y;&c_t;&c_a;&c_n;&c_a;&c_s;&c_je;&c_n;&c_n;&c_y; &c_ja;
+    <ind>&c_r;&c_a;&c_s;&c_mol;&c_l;&c_ib;&c_n;&c_y;</ind></trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Bl&uuml;tenpflanzen</trd>,
+    <trd>Samenpflanzen</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>spermaphytes</trd>,
+    <trd>spermatophytes</trd>
+  </trdgrp>
+  <trd lng="hu">magvas n&ouml;v&eacute;nyek</trd>
+  <trd lng="id">spermatofita</trd>
+  <trd lng="nl">zaadplanten</trd>
+  <trd lng="pl">ro&sacute;liny nasienne</trd>
+  <trdgrp lng="ru">
+    <trd>&c_c;&c_v;&c_je;&c_t;&c_k;&c_o;&c_v;&c_y;&c_je; &c_r;&c_a;&c_s;&c_t;&c_je;&c_n;&c_i;&c_ja;</trd>,
+    <trd>&c_p;&c_o;&c_k;&c_r;&c_y;&c_t;&c_o;&c_s;&c_je;&c_m;&c_je;&c_n;&c_n;&c_y; &c_je; &c_r;&c_a;&c_s;&c_t;&c_je;&c_n;&c_i;&c_ja;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: flor.xml,v $
+Revision 1.56  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.55  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.54  2014/12/15 21:10:12  revo
+Jeromo Vasxe: + ~umi
+
+Revision 1.53  2014/06/23 05:10:11  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.52  2014/02/08 17:10:17  revo
+Damien Brucker: -eraro cxe ref
+
+Revision 1.51  2013/08/30 14:11:01  revo
+Wolfram Diestel: kor. lst-ref
+
+Revision 1.50  2013/08/29 17:10:12  revo
+Wolfram Diestel: prilaboris dif de ~oplantoj
+
+Revision 1.49  2013/08/29 15:10:41  revo
+Wolfram Diestel: referencoj al listoj bot specioj, grupoj
+
+Revision 1.48  2013/08/27 10:10:37  revo
+Wolfram Diestel: referenco al listo bot genroj
+
+Revision 1.47  2013/08/13 15:10:10  revo
+-->
+</vortaro>

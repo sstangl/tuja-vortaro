@@ -1,0 +1,281 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: redukt.xml,v 1.21 2015/07/04 08:37:42 revo Exp $">
+<kap>
+  <ofc>4</ofc>
+  <rad>redukt</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="redukt.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      Malgrandigi la&ubreve; dimensio a&ubreve; nombro:
+      <ekz>
+        <tld/>i desegnon;
+      </ekz>
+      <ekz>
+        <tld/>i la horojn de laboro, la nombron de la laboristoj;
+      </ekz>
+      <ekz>
+        <tld/>i siajn elspezojn, pretendojn;
+      </ekz>
+      <ekz>
+        <tld/>i la programon;
+      </ekz>
+      <ekz>
+        li <tld/>is la tutan sumon de la homaj ideoj al
+        &ccirc;irka&ubreve; 500 fundamentaj<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        <tld/>o de tarifo, de armado.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="lim.0igi">limigi</ref>.
+    </refgrp>
+    <trdgrp lng="hu">
+      <trd>cs&ouml;kkent</trd>,
+      <trd>m&eacute;rs&eacute;kel</trd>,
+      <trd>megkurt&iacute;t</trd>,
+      <trd>reduk&aacute;l</trd>
+    </trdgrp>    
+    <trdgrp lng="ru">
+      <trd>&c_s;&c_o;&c_k;&c_r;&c_a;&c_t;&c_i;&c_t;&c_mol;</trd>,
+      <trd>&c_u;&c_m;&c_je;&c_n;&c_mol;&c_sh;&c_i;&c_t;&c_mol;</trd>,
+      <trd>&c_o;&c_g;&c_r;&c_a;&c_n;&c_i;&c_ch;&c_i;&c_t;&c_mol;</trd>,
+      <trd>&c_r;&c_je;&c_d;&c_u;&c_c;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+    </trdgrp>
+  </snc>
+  <snc>
+    <uzo tip="fak">KEM</uzo>
+    <dif>
+      Izoli metalon el &gcirc;ia kombina&jcirc;o a&ubreve; oksigenon el oksido.
+    </dif>
+    <trd lng="hu">reduk&aacute;l</trd>    
+    <trd lng="ru">&c_v;&c_o;&c_s;&c_s;&c_t;&c_a;&c_n;&c_o;&c_v;&c_i;&c_t;&c_mol; <klr
+    tip="amb">(&c_e;&c_l;&c_je;&c_m;&c_je;&c_n;&c_t; &c_i;&c_z; &c_s;&c_o;&c_je;&c_d;&c_i;&c_n;&c_je;&c_n;&c_i;&c_ja;)</klr></trd>
+  </snc>
+  <snc>
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Alkonduki al malpli bona a&ubreve; malpli libera stato:
+      <ekz>
+        la regno estis <tld/>ita al stato de rusa provinco;
+      </ekz>
+      <ekz>
+        <tld/>i iun al silento, al mizero.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>nastavit do předešlé pozice <klr>(zlomeniny)</klr></trd>,
+    <trd>redukovat</trd>,
+    <trd>snížit</trd>,
+    <trd>zmenšit</trd>
+  </trdgrp>
+  <trd lng="de">reduzieren</trd>
+  <trd lng="en">reduce</trd>
+  <trd lng="fr">r&eacute;duire</trd>
+  <trdgrp lng="hu">
+    <trd>visszasorol</trd>,
+    <trd>k&aacute;rhoztat <klr tip="ind">(&aacute;lt.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>reduceren</trd>,
+    <trd>verkleinen</trd>,
+    <trd>herleiden</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>obmedziť</trd>,
+    <trd>znížiť</trd>,
+    <trd>zredukovať</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="redukt.0ebla">
+  <kap><tld/>ebla</kap>
+  <snc mrk="redukt.0ebla.KOMUNE">
+    <dif>
+      Tia, ke eblas &gcirc;in <tld/>i.
+    </dif>
+    <trdgrp lng="hu">
+      <trd>cs&ouml;kkenthet&odblac;</trd>,
+      <trd>m&eacute;rs&eacute;kelhet&odblac;</trd>,
+      <trd>reduk&aacute;lhat&oacute;</trd>
+    </trdgrp>
+    <trd lng="ru">&c_s;&c_o;&c_k;&c_r;&c_a;&c_t;&c_i;&c_m;&c_y;&c_j;</trd>
+  </snc>
+  <snc mrk="redukt.0ebla.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <subsnc mrk="redukt.0ebla.frakcio">
+      <fnt><bib>MatVort</bib></fnt>
+      <ref tip="vid" cel="frakci.0o.MAT">frakcio.</ref>
+      <trd lng="hu">egyszer&udblac;s&iacute;thet&odblac; <klr
+      tip="ind">(t&ouml;rt)</klr></trd>
+      <trdgrp lng="pl">
+        <trd>przywiedlny</trd>,
+        <trd>skracalny</trd></trdgrp> 
+    </subsnc>
+    <subsnc mrk="redukt.0ebla.enringo">
+      <fnt><bib>EKV</bib><lok>&para;364</lok></fnt>
+      <dif>
+        <klr>(p.p. elemento en <ref cel="ring.0o.MAT">ringo</ref>)</klr>
+        Tia, ke eblas &gcirc;in egaligi al produto de du
+        <ref cel="invers.ne0igebla">neinversigeblaj</ref> elementoj:
+        <ekz>
+          en la ringo de entjeroj <frm>10</frm> estas <tld/>ebla 
+          <frm>(10 = 5&#215;2)</frm>, sed <frm>7</frm> ne estas.
+        </ekz>
+      </dif>
+      <rim>
+        Tiu deriva&jcirc;o pravigus la uzon de <ctl><tld/>i</ctl> por
+        nomi ser&ccirc;adon de la koncernaj neinversigeblaj faktoroj, sed
+        &scirc;ajnas, ke la preferata metaforo estas <ctl>malkomponi
+        en faktorojn</ctl>.
+      </rim>
+      <trd lng="de">reduzibel</trd>
+      <trd lng="en">reducible</trd>
+      <trd lng="hu">reducibilis</trd>
+      <trd lng="pl">rozk&lstroke;adalny</trd>
+      <trd lng="ru">&c_p;&c_r;&c_i;&c_v;&c_o;&c_d;&c_i;&c_m;&c_y;&c_j;</trd>
+    </subsnc>
+  </snc>
+  <trd lng="fr">r&eacute;ductible</trd>
+  <trd lng="nl">herleidbaar</trd>
+</drv>
+
+<drv mrk="redukt.0ismo">
+  <kap><tld/>ismo</kap>
+  <snc mrk="redukt.0ismo.FIL">
+    <uzo tip="fak">FIL</uzo>
+    <uzo tip="fak">SCI</uzo>
+    <dif>
+      Strebo al plena klarigo de io per
+      la nura funkciado de &gcirc;iaj eroj:
+      <ekz>
+        ne tre surprize, sociaj antropologoj akuzas la evoluistojn pri 
+        <tld/>ismo
+        <fnt>
+          <aut>K. Miner</aut>,
+
+          <vrk>taglibro</vrk>,
+          <lok><url
+          ref="http://www.sunflower.com/~miner/TAGLIBRO_package/Novembro_2008.html">
+          2008-11-29</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="analiz.0o">analizo</ref>
+    </refgrp>
+  </snc>
+  <trd lng="fr">r&eacute;ductionnisme</trd>
+</drv>
+
+<drv mrk="redukt.ne0ebla">
+  <kap>ne<tld/>ebla</kap>
+  <snc mrk="redukt.ne0ebla.KOMUNE">
+    <dif>
+      Tia, ke ne eblas &gcirc;in <tld/>i.
+    </dif>
+    <trdgrp lng="hu">
+      <trd>nem cs&ouml;kkenthet&odblac;</trd>,
+      <trd>nem reduk&aacute;lhat&oacute;</trd>
+    </trdgrp>
+    <trd lng="ru">&c_n;&c_je;&c_s;&c_o;&c_k;&c_r;&c_a;&c_t;&c_i;&c_m;&c_y;&c_j;</trd>
+  </snc>
+  <snc mrk="redukt.ne0ebla.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>MatVort</bib></fnt>
+    <dif>
+      Ne <ref cel="redukt.0ebla"><tld/>ebla</ref>:
+      <ekz>
+        se la numeratoro kaj denominatoro de frakcio estas primaj inter
+        si, la frakcio estas ne<tld/>ebla;
+      </ekz>
+      <ekz>
+        en <ref cel="integr.0a.MAT">integra</ref> ringo, la
+        <ref cel="prim.0o.ringo">primoj</ref> estas ne<tld/>eblaj;
+      </ekz>
+      <ekz>
+        en iuj ringoj, ekz-e en la ringo de entjeroj, ne<tld/>ebleco
+        sinonimas kun primeco.
+      </ekz>
+    </dif>
+    <trd lng="en">irreducible</trd>
+    <trd lng="de">irreduzibel</trd>
+    <trdgrp lng="hu">
+      <trd>nem egyszer&udblac;s&iacute;thet&odblac;</trd>,
+      <trd>irriducibilis</trd>
+    </trdgrp>
+    <trd lng="fr">irr&eacute;ductible</trd>
+    <trd lng="nl">niet <ind>herleidbaar</ind></trd>
+    <trdgrp lng="pl">
+      <trd>nierozk&lstroke;adalny</trd>,
+      <trd>nieprzywiedlny</trd>,
+      <trd>nieskracalny</trd>
+    </trdgrp> 
+    <trd lng="ru">&c_n;&c_je;&c_p;&c_r;&c_i;&c_v;&c_o;&c_d;&c_i;&c_m;&c_y;&c_j;</trd>
+  </snc>
+</drv>
+
+<drv mrk="redukt.0oalabsurdo">
+  <kap><tld/>o al absurdo</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>MatVort</bib></fnt>
+  <snc>
+    <dif>
+      Maniero <ref cel="pruv.0i.MAT">pruvi</ref>
+      <ref cel="propoz.0o.teoremo">propozicion</ref>, uzante la fakton,
+      ke
+      se oni konsideras &gcirc;in falsa, oni povas per tio pruvi rezultojn,
+      kiuj
+      estas konataj kiel falsaj.
+    </dif>
+  </snc>
+  <trd lng="de">reductio ad absurdum</trd>
+  <trd lng="en">reductio ad absurdum</trd>
+  <trd lng="fr">r&eacute;duction &agrave; l'absurde</trd>
+  <trdgrp lng="hu">
+    <trd>reductio ad absurdum</trd>,
+    <trd>k&eacute;ptelens&eacute;gre val&oacute; visszavezet&eacute;s</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_r;&c_i;&c_v;&c_je;&c_d;&c_je;&c_n;&c_i;&c_je; &c_k; &c_a;&c_b;&c_s;&c_u;&c_r;&c_d;&c_u;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: redukt.xml,v $
+Revision 1.21  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.19  2009/01/03 17:31:37  revo
+Jeromo Vasxe: + ~ismo
+
+Revision 1.18  2004/09/02 16:32:10  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.17  2002/11/30 17:37:48  revo
+Marc Bavant: +frm, +trd pl
+
+Revision 1.16  2002/05/27 17:19:38  revo
+Marc Bavant: ~ebla MAT: mod fnt
+Revision 1.15  2002/05/12 16:36:08  revo
+Marc Bavant: ~ebla MAT: mod subsnc 1, mod fnt en subsnc 2; ~o al
+absurdo: +trd de/en/fr, mod trd ru
+Revision 1.14  2002/05/02 16:35:09  revo
+Marc Bavant: ne~ebla MAT: mod ekz (certa)
+Revision 1.13  2002/01/11 17:34:26  revo
+Yury Finkel: +trd ru
+Revision 1.12 2001/12/02 17:33:30 revo
+Marc Bavant: +drv ~o al absurdo
+Revision 1.11 2001/11/03 19:11:14 revo
+Marc Bavant: ~ebla: +fnt, +subsnc (frakcio), +trd; ne~ebla: +snc KOMUNE,
+-->
+</vortaro>

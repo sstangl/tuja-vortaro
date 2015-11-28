@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: frankfurt.xml,v 1.24 2011/02/16 15:10:27 revo Exp $">
+<kap>
+<rad>Frankfurt</rad>/o<fnt>Z</fnt>
+</kap>
+<drv mrk="frankfurt.F0o">
+  <kap><tld/>o</kap><fnt>Z</fnt>
+  <uzo tip="fak">GEOG</uzo>
+  <fnt><bib>ZR</bib></fnt>
+  <snc>
+    <dif>
+      Nomo de du urboj en Germanujo kaj diversaj malgrandaj en Ameriko
+      nomitaj la&ubreve; unu el tiuj.
+    </dif>
+  </snc>
+  <trd lng="be">&c_F;&c_r;&c_a;&c_n;&c_k;&c_f;&c_u;&c_r;&c_t;</trd>
+  <trd lng="cs">Frankfurt</trd>
+  <trd lng="de">Frankfurt</trd>
+  <trd lng="fr">Francfort</trd>
+  <trd lng="hu">Frankfurt</trd>
+  <trd lng="lat">Francofurtum</trd>
+  <trd lng="nl">Frankfurt</trd>
+  <trd lng="pl">Frankfurt</trd>
+  <trdgrp lng="pt">
+    <trd>Frankfurt</trd>,
+    <trd>Francoforte</trd>,
+  </trdgrp>
+  <trd lng="ru">&c_F;&c_r;&c_a;&c_n;&c_k;&c_f;&c_u;&c_r;&c_t;</trd>
+</drv>
+
+<drv mrk="frankfurt.0a">
+  <kap><tld lit="f"/>a</kap><fnt>Z</fnt>
+  <fnt><bib>ZR</bib></fnt>
+  <snc>
+    <dif>
+      El Frankfurto, la&ubreve; la kutimoj en Frankfurto, tipa por Frankfurto.
+    </dif>
+  </snc>
+  <trd lng="be">&c_f;&c_r;&c_a;&c_n;&c_k;&c_f;&c_u;&c_r;&c_c;&c_k;&c_ib;</trd>
+  <trd lng="cs">frankfurtsk&yacute;</trd>
+  <trd lng="de">frankfurterisch</trd>
+  <trd lng="hu">frankfurti</trd>
+  <trd lng="ru">&c_f;&c_r;&c_a;&c_n;&c_k;&c_f;&c_u;&c_r;&c_t;&c_s;&c_k;&c_i;&c_j;</trd>
+</drv>
+
+<drv mrk="frankfurt.F0oMajno">
+  <kap><tld/>o &ccirc;e Majno</kap>
+  <uzo tip="fak">GEOG</uzo>
+  <snc>
+    <dif>
+      <ref tip="super" cel="urb.0o">Urbo</ref> en sud-okcidenta
+      <ref tip="malprt" cel="german1.G0ujo">Germanujo</ref>
+      (8&ring;40'E, 50&ring;07'N), situanta &ccirc;e la rivero <ref tip="vid"
+      cel="majn.M0o">Majno</ref>,
+plej granda urbo de la federacia lando <ref tip="super"
+cel="hes.H0ujo">Hesujo</ref>.
+    </dif>
+  </snc>
+  <trd lng="be">&c_F;&c_r;&c_a;&c_n;&c_k;&c_f;&c_u;&c_r;&c_t; &c_n;&c_a; &c_M;&c_a;&c_j;&c_n;&c_je;</trd>
+  <trd lng="cs">Frankfurt nad Mohanem</trd>
+  <trd lng="de">Frankfurt am Main<klr>, Frankfurt a.M.</klr></trd>
+  <trd lng="fr">Francfort-sur-le-Main</trd>
+  <trd lng="hu">Majna-Frankfurt</trd>
+  <trd lng="lat">Francofurtum ad Moenum</trd>
+  <trd lng="nl">Frankfurt aan de Main</trd>
+  <trd lng="pl">Frankfurt nad Menem</trd>
+  <trd lng="pt">Francoforte sobre o Meno</trd>
+  <trd lng="ru">&c_F;&c_r;&c_a;&c_n;&c_k;&c_f;&c_u;&c_r;&c_t; &c_n;&c_a; &c_M;&c_a;&c_j;&c_n;&c_je;</trd>
+</drv>
+<drv mrk="frankfurt.0oOdro">
+  <kap><tld/>o &ccirc;e Odro</kap>
+  <uzo tip="fak">GEOG</uzo>
+  <snc>
+    <dif>
+      <ref tip="super" cel="urb.0o">Urbo</ref> en orienta
+      <ref tip="malprt" cel="german1.G0ujo">Germanujo</ref>,
+      situanta &ccirc;e la rivero <ref tip="vid" cel="odr.O0o">Odro</ref>.
+    </dif>
+  </snc>
+  <trd lng="be">&c_F;&c_r;&c_a;&c_n;&c_k;&c_f;&c_u;&c_r;&c_t; &c_n;&c_a; &c_O;&c_d;&c_e;&c_r;&c_y;</trd>
+  <trd lng="cs">Frankfurt nad Odrou</trd>
+  <trd lng="de">Frankfurt an der Oder<klr>, Frankfurt a.O.</klr></trd>
+  <trd lng="fr">Francfort-sur-l'Oder</trd>
+  <trd lng="hu">Odera-Frankfurt</trd>
+  <trd lng="lat">Francofurtum ad Viadrum</trd>
+  <trd lng="nl">Frankfurt aan de Oder</trd>
+  <trd lng="pl">Frankfurt nad Odr&aogonek;</trd>
+  <trd lng="pt">Francoforte sobre o Oder</trd>
+  <trd lng="ru">&c_F;&c_r;&c_a;&c_n;&c_k;&c_f;&c_u;&c_r;&c_t; &c_n;&c_a; &c_O;&c_d;&c_je;&c_r;&c_je;</trd>
+</drv>
+</art>
+
+<!--
+$Log: frankfurt.xml,v $
+Revision 1.24  2011/02/16 15:10:27  revo
+Luiz Portella: kor. ref k mrk
+
+Revision 1.23  2007/06/13 16:31:28  revo
+Tulio Flores: +tr pt
+
+Revision 1.22  2005/04/27 16:31:23  revo
+Yury Finkel: +trd ru
+
+Revision 1.21  2004/01/04 17:32:53  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.20  2003/10/15 16:31:18  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.19  2003/03/05 17:37:35  revo
+Miroslav Malovec: ald cs trd
+
+Revision 1.18  2002/12/23 17:32:10  revo
+Ulrich Fellmann: kor en drv ~a (minuskligo de komenca litero) kaj 2
+pliaj trd de (ekster la indekso)
+
+-->
+</vortaro>

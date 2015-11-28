@@ -1,0 +1,213 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: numer.xml,v 1.29 2015/07/04 08:37:40 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>numer</rad>/o
+</kap>
+<drv mrk="numer.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <mlg>n-ro</mlg>
+  <snc>
+    <dif>
+      Cifero a&ubreve; nombro montranta la vicon de iu objekto inter aliaj:
+      <ekz>
+        <tld/>o de pa&gcirc;o, domo, telefono, bileto.
+      </ekz>
+    </dif>
+  <trdgrp lng="es">
+    <trd>n&uacute;mero</trd>,
+    <trd>cifra</trd>
+  </trdgrp>
+  </snc>
+  <snc>
+    <dif>
+      La objekto mem signita per iu <tld/>o:
+      <ekz>
+        <tld/>o de gazeto;
+      </ekz>
+      <ekz>
+        <ind>gajna <tld/>o</ind> de loterio<fnt>Z</fnt>.
+        <trd lng="hu">nyer&odblac;sz&aacute;m</trd>
+      </ekz>
+    </dif>
+  <trd lng="es">ejemplar</trd>
+  </snc>
+  <trd lng="be">&c_n;&c_u;&c_m;&c_a;&c_r;</trd>
+  <trd lng="br">niverenn</trd>
+  <trd lng="cs">&ccaron;&iacute;slo</trd>
+  <trd lng="de">Nummer</trd>
+  <trd lng="en">number</trd>
+  <trd lng="fr">num&eacute;ro</trd>
+  <trd lng="hu">sz&aacute;m</trd>
+  <trdgrp lng="id">
+    <trd>angka</trd>,
+    <trd>nomor</trd>
+  </trdgrp>
+  <trd lng="nl">nummer</trd>
+  <trd lng="pt">n&uacute;mero</trd>
+  <trd lng="ru">&c_n;&c_o;&c_m;&c_je;&c_r;</trd>
+  <trd lng="sk">číslo</trd>
+</drv>
+
+<drv mrk="numer.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      Signi ion per <tld/>o:
+      <ekz>
+        <tld/>i pa&gcirc;ojn de libro, librojn de biblioteko.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_n;&c_u;&c_m;&c_a;&c_r;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="br">niverenni&ntilde;</trd>
+  <trdgrp lng="cs">
+    <trd>očíslovat</trd>,
+    <trd>číslovat</trd>
+  </trdgrp>
+  <trd lng="de">nummerieren</trd>
+  <trd lng="es">numerar</trd>
+  <trd lng="fr">num&eacute;roter</trd>
+  <trd lng="hu">megsz&aacute;moz</trd>
+  <trd lng="id">[<ind>nomor</ind>] menomori</trd>
+  <trd lng="nl">nummeren</trd>
+  <trd lng="pt">numerar</trd>
+  <trd lng="ru">&c_n;&c_u;&c_m;&c_je;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>očíslovať</trd>,
+    <trd>číslovať</trd>
+  </trdgrp>
+  <trd lng="zh">编号 [<ind>bīan hào</ind>]</trd>
+</drv>
+
+<drv mrk="numer.0ebla">
+  <kap><tld/>ebla</kap>
+  <snc mrk="numer.0ebla.KOMUNE">
+    <dif>
+      Tia, ke eblas &gcirc;in <tld/>i.
+    </dif>
+    <trd lng="fr">num&eacute;rotable</trd>
+    <trd lng="hu">megsz&aacute;mozhat&oacute;</trd>    
+  </snc>
+  <snc mrk="numer.0ebla.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>PIV1</bib></fnt>
+    <dif>
+      <klr>(p.p. <ref cel="ar.0o.MAT">aro</ref>)</klr>
+      <ref cel="pov.sam0a.aroj">Sampova</ref>, kiel iu subaro de la aro
+      de
+      entjeroj:
+      <ekz>
+        finia aro estas <tld/>ebla;
+      </ekz>
+      <ekz>
+        la aro de racionaloj estas <tld/>ebla, la aro de reeloj ne
+        estas;
+      </ekz>
+      <ekz>
+        <ref cel="spac.banahxa0o">bana&hcirc;a spaco</ref> povas havi
+        <tld/>eblan dimension, nur se finidimensia.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="diskre.0a.nombrebla">diskreta</ref>,
+      <ref cel="nombr.0ebla.MAT">nombrebla</ref>.
+    </refgrp>
+    <rim>
+      Werner uzas por &ccirc;i tiu senco <ctl>nombrebla</ctl> (germane:
+      abz&auml;hlbar) &#8208; konforma al la nacilingvaj ekvivalentoj &#8208;,
+      kiun li distingas disde <ctl><tld/>ebla</ctl> (germane:
+      numerierbar, malofta en faka kunteksto). Tamen niaj aliaj fontoj
+      mencias
+      nur <ctl><tld/>ebla</ctl> kaj ni preferis sekvi ilin. Notindas, ke
+      la
+      difino en <fnt><bib>EKV</bib><lok>&para;303</lok></fnt> postulas, ke
+      nur
+      nefiniaj aroj povas esti <tld/>eblaj, sed malmultaj dividas tiun
+      &ccirc;i vidpunkton. Notu anka&ubreve;, ke Bricard
+      <fnt><bib>MatTerm</bib><lok>p. 18</lok></fnt> konas terminon
+      <ctl>komputebla</ctl>, ver&scirc;ajne samsignifa.
+    </rim>    
+    <trd lng="br">niveradus</trd>
+    <trdgrp lng="de">
+      <trd>abz&auml;hlbar</trd>,
+      <trd>diskret</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>denumerable</trd>,
+      <trd>countable</trd>,
+      <trd>discrete</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>d&eacute;nombrable</trd>,
+      <trd>discret<klr tip="ind"> (math.)</klr></trd>
+    </trdgrp>
+    <trd lng="hu">megsz&aacute;ml&aacute;lhat&oacute;</trd>    
+    <trd lng="pl">przeliczalny</trd>
+    <trdgrp lng="ru">
+      <trd>&c_s;&c_ch;&c_jo;&c_t;&c_n;&c_y;&c_j;</trd>,
+      <trd>&c_p;&c_je;&c_r;&c_je;&c_ch;&c_i;&c_s;&c_l;&c_i;&c_m;&c_y;&c_j;</trd>,
+      <trd>&c_d;&c_i;&c_s;&c_k;&c_r;&c_je;&c_t;&c_n;&c_y;&c_j;</trd>,
+    </trdgrp>
+    <trdgrp lng="zh">
+        <trd>可数的 [<ind>kě shǔ de</ind>]</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="es">numerable</trd>
+</drv>
+
+<drv mrk="numer.prov0o">
+  <kap>prov<tld/>o</kap>
+  <snc>
+    <dif>
+      <ref tip="super" cel="ekzemp1.prov0o">Provekzemplero</ref> de
+      gazeto:
+      <ekz>
+        bonvolu kontakti&gcirc;i kun la komunikadcentro de EEU 
+        por legi la prov<tld/>on
+        <fnt><lok><url
+        ref="http://www.chinareport.com.cn/04e/2003-4.htm">http://www.chinareport.com.cn/04e/2003-4.htm</url></lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>           
+  <trd lng="br">niverenn skouer<klr tip="ind"> 
+(kelaouenno&ugrave;)</klr></trd>
+  <trd lng="hu">pr&oacute;basz&aacute;m</trd>  
+</drv>
+</art>
+<!--
+$Log: numer.xml,v $
+Revision 1.29  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.28  2015/06/29 16:33:21  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.27  2015/06/25 12:10:15  revo
+Darcy Shen: +trd zh numeri numerebla[MAT]
+
+Revision 1.26  2014/10/03 11:10:29  revo
+Guillermo Molleda Jimena: trd es
+
+Revision 1.25  2014/06/10 05:10:18  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.24  2013/05/19 10:10:09  revo
+Wolfram Diestel: aldonis mallongigon
+
+Revision 1.23  2006/03/20 17:32:07  revo
+Eduardo Navas: +trd es
+
+Revision 1.22  2005/06/12 16:31:41  revo
+Alan ar Gall: +trd br
+
+Revision 1.21  2004/07/15 19:04:47  revo
+Marc Bavant: kor duobligitan punkton
+
+Revision 1.20  2004/06/24 16:33:02  revo
+-->
+</vortaro>

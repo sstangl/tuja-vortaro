@@ -1,0 +1,185 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+  <art mrk="$Id: stafet.xml,v 1.14 2015/07/04 08:37:44 revo Exp $">
+    <kap>
+      <rad>stafet</rad>/o
+    </kap>
+
+    <drv mrk="stafet.0o">
+      <kap><tld/>o</kap>
+      <snc mrk="stafet.0o.konkuro">
+        <uzo tip="fak">SPO</uzo>
+        <dif>
+          Teama sporta konkuro (kura, na&gcirc;a, skia ktp), en kiu la
+          teamanoj unu post alia trapasas la etapojn, transdonate la
+          vicon per enmanigo de bastoneto a&ubreve; per simpla ektu&scirc;o:
+          <ekz>
+            ebenkura <tld/>o 4 po 400
+            <klr>(en la kvarhomaj teamoj la teamanoj kuras po 400
+            metrojn)</klr>
+          </ekz>
+        </dif>
+        <trd lng="be">&c_e;&c_s;&c_t;&c_a;&c_f;&c_e;&c_t;&c_a;</trd>
+        <trd lng="ca">cursa de relleus</trd>
+        <trdgrp lng="de">
+          <trd>Stafette</trd>,
+          <trd>Staffel</trd>
+        </trdgrp>
+        <trd lng="en">relay race</trd>
+        <trdgrp lng="hu">
+          <trd>v&aacute;lt&oacute;</trd>,
+          <trd>staf&eacute;ta</trd>
+        </trdgrp>
+        <trd lng="nl">estafette</trd>
+        <trd lng="ru">&c_e;&c_s;&c_t;&c_a;&c_f;&c_je;&c_t;&c_a;</trd>
+      </snc>
+      <snc mrk="stafet.0o.ano">
+        <uzo tip="fak">SPO</uzo>
+        <ref tip="dif" cel="stafet.0ano"><tld/>ano</ref>
+        <trd lng="ca">corredor de relleus</trd>
+      </snc>
+      <snc mrk="stafet.0o.kuriero">
+        <uzo tip="fak">MIL</uzo>
+        <uzo tip="stl">RAR</uzo>
+        <uzo tip="stl">EVI</uzo>
+        <dif>
+          Rajdanto kiu portas ordonojn a&ubreve; leterojn.
+        </dif>
+        <refgrp tip="sin">
+          <ref cel="kurier.0o">kuriero</ref>,
+          <ref cel="kur">kuristo</ref>.
+        </refgrp>
+        <trdgrp lng="be">
+          <trd>&c_g;&c_a;&c_n;&c_je;&c_c;</trd>, 
+          <trd>&c_k;&c_u;&c_r;'&c_je;&c_r;</trd>, 
+          <trd>&c_p;&c_a;&c_s;&c_y;&c_l;&c_mol;&c_n;&c_y;</trd>
+        </trdgrp>
+        <trd lng="ca">estafeter</trd>
+        <trd lng="de">Meldereiter</trd>
+        <trdgrp lng="en">
+          <trd>courier</trd>,
+          <trd>dispatch rider</trd>,
+          <trd>messenger</trd>
+        </trdgrp>
+        <trd lng="hu">lovas <ind>fut&aacute;r</ind></trd>
+        <trd lng="nl">koerier</trd>
+        <trdgrp lng="ru">
+          <trd>&c_g;&c_o;&c_n;&c_je;&c_c;</trd>,
+          <trd>&c_k;&c_u;&c_r;&c_mol;&c_je;&c_r;</trd>
+        </trdgrp>
+      </snc>
+  <trdgrp lng="cs">
+    <trd>kurýr <klr>(dř. zpravidla na koni)</klr></trd>,
+    <trd>člen štafetového družstva</trd>,
+    <trd>štafeta</trd>
+  </trdgrp>
+  <trd lng="it">staffetta</trd>
+  <trdgrp lng="sk">
+    <trd>kuriér</trd>,
+    <trd>člen štafety</trd>,
+    <trd>štafeta</trd>
+  </trdgrp>
+</drv>
+
+    <drv mrk="stafet.0ano">
+      <kap><tld/>ano</kap>
+      <snc>
+        <uzo tip="fak">SPO</uzo>
+        <dif>
+          Partoprenanto de <tld/>o.
+        </dif>
+      </snc>
+      <trd lng="ca">corredor (participant) <klr>(d'una cursa)</klr> de
+      relleus</trd>
+       <trd lng="it">staffettista</trd>
+      <trd lng="ru">&c_u;&c_ch;&c_a;&c_s;&c_t;&c_n;&c_i;&c_k; <ind>&c_e;&c_s;&c_t;&c_a;&c_f;&c_je;&c_t;&c_y;</ind></trd>
+    </drv>
+
+    <drv mrk="stafet.0isto">
+      <kap><tld/>isto</kap>
+      <snc>
+        <uzo tip="fak">SPO</uzo>
+        <ref tip="dif" cel="stafet.0ano"><tld/>ano</ref>
+        <ekz>
+          pro la mistrafoj la <tld/>isto devas fari punajn rondkurojn
+          &ccirc;irka&ubreve; la pafejo
+          <fnt>
+            <aut>Tibor Ujlaky-Nagy</aut>:
+            <vrk>La sporta lingvo en Esperanto</vrk>.
+            <lok><url
+            ref="http://www.freeweb.hu/eventoj/steb/sportalingvo.rtf"
+                >Hungara Esperanto-Asocio, 1972</url></lok>
+          </fnt>.
+        </ekz>
+      </snc>
+      <trd lng="it">staffettista</trd>
+    </drv>
+
+    <drv mrk="stafet.0bastono">
+      <kap><tld/>bastono</kap>
+      <snc>
+        <uzo tip="fak">SPO</uzo>
+        <dif>
+          Ligna a&ubreve; metala tubo, proksimume 30 centimetrojn longa,
+          almena&ubreve; 50 gramojn peza, glata, amba&ubreve;ekstreme fermita,
+          uzata kiel materia atestilo de vicotransdono inter la
+          samteamaj <tld/>anoj:
+          <ekz>
+            <uzo tip="stl">FIG</uzo>
+            mi kredas, ke en estonteco iu agemulo transprenos
+            la <tld/>bastonon de <ctl>Bazaro</ctl> kaj reaperigos
+            &ccirc;i-bultenon
+            <fnt>
+              <vrk>BAZARO, la adia&ubreve;a</vrk>.
+              <lok><url
+ ref="http://www.gazetejo.org/system/files/gazetoj/Informilo29.pdf"
+                  >Informilo de &Gcirc;emelaj Urboj</url></lok>
+            </fnt>.
+          </ekz>
+        </dif>
+      </snc>
+      <trd lng="ca">testimoni</trd>
+      <trd lng="it">testimone<klr> (spo.)</klr></trd>
+      <trd lng="ru">&c_e;&c_s;&c_t;&c_a;&c_f;&c_je;&c_t;&c_n;&c_a;&c_ja; &c_p;&c_a;&c_l;&c_o;&c_ch;&c_k;&c_a;</trd>
+    </drv>
+
+  </art>
+  <!--
+  $Log: stafet.xml,v $
+  Revision 1.14  2015/07/04 08:37:44  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.13  2015/06/29 16:33:24  revo
+  aldono de trd sk per skripto de M. von Laer
+
+  Revision 1.12  2011/12/03 23:10:29  revo
+  Marc Rausell: kataluna traduko
+
+  Revision 1.11  2010/06/12 16:30:38  revo
+  Antonio Codazzi: +trd it
+
+  Revision 1.10  2009/10/15 16:31:09  revo
+  Sergio Pokrovskij: +drv, dif
+
+  Revision 1.9  2009/03/04 17:30:30  revo
+  Russ Williams: +trd en
+
+  Revision 1.8  2003/02/18 17:31:32  revo
+  Zmicier Lapcionak: + trd be
+
+  Revision 1.7  2002/08/17 17:31:26  revo
+  Jozefo Horvath: +trd hu
+
+  Revision 1.6  2002/02/15 17:37:25  revo
+  Yury Finkel: +trd ru
+
+  Revision 1.5 2001/10/07 18:16:59 revo
+  Dennis Wibrow: +trd germ
+
+  Revision 1.4 2001/08/22 18:14:26 revo
+  Paul Peeraerts: ald trd nl
+
+  -->
+</vortaro>

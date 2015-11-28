@@ -1,0 +1,515 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: produk.xml,v 1.29 2015/07/04 08:37:42 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>produkt</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="produk.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="produk.0i.BIO">
+    <dif>
+      Estigi per natura evoluado viva&jcirc;ojn a&ubreve; senviva&jcirc;ojn:
+      <ekz>
+        mar&ccirc;a tero, kiu <tld/>as nur malmulte da beroj
+        <fnt><bib>Fab4</bib>, <lok>filino de la mar&ccirc;a
+        re&gcirc;o</lok></fnt>;
+      </ekz>
+      <ekz>
+        la pluvo <klr>...</klr> malsoifigas la teron kaj <klr>...</klr>
+        <tld/>igas &gcirc;in
+        <fnt><bib>MT</bib>, <lok>&Jes; 55:10</lok></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="kresk">elkreskigi</ref>,
+      <ref cel="nask.0i">naski</ref>
+    </refgrp>
+    <trdgrp lng="ca">
+      <trd>criar</trd>,
+      <trd>donar</trd>
+    </trdgrp>
+    <trd lng="de">hervorbringen</trd>
+    <trdgrp lng="hu">
+      <trd>sz&uuml;l</trd>,
+      <trd>terem <klr tip="ind">(pl. alm&aacute;t)</klr></trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="produk.0i.TEK">
+    <dif>
+      Fari el krudaj materialoj substancojn a&ubreve; objektojn utilajn por la
+      homo:
+      <ekz>
+        batado de lakto <tld/>as buteron
+        <fnt><bib>MT</bib>, <lok>Sentencoj 30:33</lok></fnt>
+        <klr>(oni ne devas miri pri la neeviteblaj konsekvencoj de siaj
+        faroj)</klr>;
+      </ekz>
+      <ekz>
+        <tld/>i komerca&jcirc;ojn;
+      </ekz>
+      <ekz>
+        la fabriko <tld/>as bonan tolon<fnt>B</fnt>;
+      </ekz>
+      <ekz>
+        <tld/>ejo de sukero.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="el.0igi">eligi</ref>,
+      <ref cel="tir.el0i">eltiri</ref>,
+      <ref cel="fabrik.0i">fabriki</ref>
+    </refgrp>
+    <trd lng="ca">fabricar</trd>
+    <trdgrp lng="hu">
+      <trd>termel</trd>,
+      <trd>gy&aacute;rt</trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_v;&c_y;&c_r;&c_a;&c_b;&c_l;&c_ja;&c_c;&c_mol;</trd>,
+    <trd>&c_p;&c_r;&c_a;&c_d;&c_u;&c_k;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_s;&c_t;&c_v;&c_a;&c_r;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="ca">produir</trd>
+  <trdgrp lng="cs">
+    <trd>plodit</trd>,
+    <trd>produkovat</trd>,
+    <trd>rodit</trd>,
+    <trd>vyrábět</trd>
+  </trdgrp>
+  <trd lng="de">produzieren</trd>
+  <trd lng="en">produce</trd>
+  <trd lng="es">producir</trd>
+  <trd lng="fr">produire</trd>
+  <trd lng="nl">produceren</trd>
+  <trd lng="pl">produkowa&cacute;</trd>
+  <trd lng="pt">produzir</trd>
+  <trd lng="ru">&c_p;&c_r;&c_o;&c_i;&c_z;&c_v;&c_o;&c_d;&c_i;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>dorábať</trd>,
+    <trd>produkovať</trd>,
+    <trd>vyrábať</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="produk.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="produk.0o.produktado">
+    <ref tip="dif" cel="produk.0ado"><tld/>ado</ref>
+    <ekz>
+      &ccirc;u <klr>...</klr> nur <tld/>o de mia ekscitita fantazio
+      <fnt><bib>SkandalJozef</bib>, <lok>plendoj de Jozefo
+      arestita</lok></fnt>?
+    </ekz>
+    <trdgrp lng="be">
+      <trd>&c_p;&c_r;&c_a;&c_d;&c_u;&c_k;&c_a;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>,
+      <trd>&c_v;&c_y;&c_t;&c_v;&c_o;&c_r;&c_ch;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+    </trdgrp>
+    <trd lng="de">Produktion</trd>
+    <trd lng="en">production</trd>
+    <trd lng="es">producci&oacute;n</trd>
+    <trd lng="fr">production</trd>
+    <trdgrp lng="hu">
+      <trd>termel&eacute;s</trd>,
+      <trd>gy&aacute;rt&aacute;s</trd>
+    </trdgrp>
+    <trd lng="nl">productie</trd>
+    <trd lng="pl">produkcja</trd>
+    <trd lng="pt">produ&ccedil;&atilde;o <klr tip="amb">(atividade)</klr></trd>
+    <trd lng="ru">&c_p;&c_r;&c_o;&c_i;&c_z;&c_v;&c_o;&c_d;&c_s;&c_t;&c_v;&c_o;</trd>
+  </snc>
+  <snc mrk="produk.0o.produktajxo">
+    <ref tip="dif" cel="produk.0ajxo"><tld/>a&jcirc;o</ref>
+    <ekz>  
+     ili man&gcirc;is el la <tld/>oj de la tero en la sekvanta tago 
+     <fnt><bib>MT</bib>, <lok>Josuo 5:11</lok></fnt>
+    </ekz> 
+    <ekz>
+      &ccirc;iuj <tld/>oj de la homa spirito fari&gcirc;us akireblaj
+      por &ccirc;iu el ni
+      <fnt><bib>EE</bib>, <lok>&ccirc;ap. 2</lok></fnt>
+    </ekz>
+    <ekz>
+      la <tld/>oj de unu literaturo
+      <fnt><bib>FK</bib>, <lok>6, artikoloj pri esperanto, el la unua
+      libro de la lingvo esperanto</lok></fnt>;
+    </ekz>
+    <ekz>
+      <ind>malneta enlanda <tld/>o</ind> (MEP)
+      <trdgrp lng="be">
+        <trd>&c_v;&c_a;&c_l;&c_a;&c_v;&c_y; &c_w;&c_n;&c_u;&c_t;&c_r;&c_a;&c_n;&c_y; &c_p;&c_r;&c_a;&c_d;&c_u;&c_k;&c_t;</trd>,
+        <trd>&c_V;&c_U;&c_P;</trd>
+      </trdgrp>
+      <trd lng="ca">PIB</trd>
+      <trdgrp lng="en">
+        <trd>gross domestic <ind>product</ind></trd>,
+        <trd>GDP</trd>
+      </trdgrp>
+      <trd lng="es">producto</trd>
+      <trdgrp lng="fr">
+        <trd>produit int&eacute;rieur brut</trd>,
+        <trd>PIB</trd>
+      </trdgrp>
+      <trdgrp lng="hu">
+        <trd>brutt&oacute; hazai <ind>term&eacute;k</ind></trd>,
+        <trd>GDP</trd>
+      </trdgrp>
+      <trdgrp lng="nl">
+        <trd>bruto binnenlands <ind>product</ind></trd>,
+        <trd>BBP</trd>
+      </trdgrp>
+      <trdgrp lng="pl">
+        <trd><ind>produkt</ind> krajowy brutto</trd>,
+        <trd>PKB</trd>
+      </trdgrp>
+      <trdgrp lng="pt">
+       <trd>produto interno bruto</trd>,
+       <trd>PIB</trd>
+      </trdgrp>
+      <trdgrp lng="ru">
+        <trd>&c_v;&c_a;&c_l;&c_o;&c_v;&c_o;&c_j; &c_v;&c_n;&c_u;&c_t;&c_r;&c_je;&c_n;&c_n;&c_i;&c_j; &c_p;&c_r;&c_o;&c_d;&c_u;&c_k;&c_t;</trd>,
+        <trd>&c_V;&c_V;&c_P;</trd>
+      </trdgrp>
+    </ekz>
+    <ekz>
+      <ind>malneta nacia <tld/>o</ind> (MNP)
+      <trdgrp lng="be">
+        <trd>&c_v;&c_a;&c_l;&c_a;&c_v;&c_y; &c_n;&c_a;&c_c;&c_y;&c_ja;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_y; &c_p;&c_r;&c_a;&c_d;&c_u;&c_k;&c_t;</trd>,
+        <trd>&c_V;&c_N;&c_P;</trd>
+      </trdgrp>
+      <trd lng="ca">PNB (producte nacional brut)</trd>
+      <trdgrp lng="en">
+        <trd>gross national <ind>product</ind></trd>,
+        <trd>GNP</trd>
+      </trdgrp>
+      <trd lng="es">producto</trd>
+      <trdgrp lng="fr">
+        <trd>produit national brut</trd>,
+        <trd>PNB</trd>
+      </trdgrp>
+      <trdgrp lng="hu">
+        <trd>brutt&oacute; nemzeti <ind>term&eacute;k</ind></trd>,
+        <trd>GNP</trd>
+      </trdgrp>
+      <trdgrp lng="nl">
+        <trd>bruto nationaal <ind>product</ind></trd>,
+        <trd>BNP</trd>
+      </trdgrp>
+      <trdgrp lng="pl">
+        <trd><ind>produkt</ind> narodowy brutto</trd>,
+        <trd>PNB</trd>
+      </trdgrp>
+      <trdgrp lng="pt">
+       <trd>produto nacional bruto</trd>,
+       <trd>PNB</trd>
+      </trdgrp>
+      <trdgrp lng="ru">
+        <trd>&c_v;&c_a;&c_l;&c_o;&c_v;&c_o;&c_j; &c_n;&c_a;&c_c;&c_i;&c_o;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_y;&c_j;
+        &c_p;&c_r;&c_o;&c_d;&c_u;&c_k;&c_t;</trd>,
+        <trd>&c_V;&c_N;&c_P;</trd>
+      </trdgrp>
+    </ekz>
+    <trdgrp lng="be">
+      <trd>&c_p;&c_r;&c_a;&c_d;&c_u;&c_k;&c_t;</trd>,
+      <trd>&c_v;&c_y;&c_r;&c_a;&c_b;</trd>
+    </trdgrp>
+    <trd lng="de">Produkt</trd>
+    <trd lng="en">product</trd>
+    <trd lng="es">producto</trd>
+    <trd lng="fr">produit</trd>
+    <trdgrp lng="hu">
+      <trd>term&eacute;ny</trd>,
+      <trd>term&eacute;k</trd>,
+      <trd>gy&aacute;rtm&aacute;ny</trd>
+    </trdgrp>
+    <trd lng="nl">product</trd>
+    <trd lng="pl">produkt</trd>
+    <trd lng="pt">produ&ccedil;&atilde;o <klr tip="amb">(coisa
+    produzida)</klr></trd>
+    <trd lng="ru">&c_p;&c_r;&c_o;&c_d;&c_u;&c_k;&c_t;</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>produkt</trd>,
+    <trd>výrobek</trd>,
+    <trd>výtvor</trd>,
+    <trd>zplodina</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>produkt</trd>,
+    <trd>splodina</trd>,
+    <trd>výrobok</trd>,
+    <trd>výtvor</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="produk.0ado">
+  <kap><tld/>ado</kap>
+  <snc mrk="produk.0ado.EKON">
+    <dif>
+      Natura a&ubreve; arta estigo:
+      <ekz>
+        stimuli la <tld/>adon per doganimpostoj.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_r;&c_a;&c_d;&c_u;&c_k;&c_a;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>,
+    <trd>&c_v;&c_y;&c_t;&c_v;&c_o;&c_r;&c_ch;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="ca">
+    <trd>producci&oacute;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>produkce</trd>,
+    <trd>provoz</trd>,
+    <trd>výroba</trd>
+  </trdgrp>
+  <trd lng="de">Produktion</trd>
+  <trd lng="en">production</trd>
+  <trd lng="es">producci&oacute;n</trd>
+  <trd lng="fr">production</trd>
+  <trdgrp lng="hu">
+    <trd>termel&eacute;s</trd>,
+    <trd>gy&aacute;rt&aacute;s</trd>
+  </trdgrp>
+  <trd lng="nl">productie</trd>
+  <trd lng="pl">produkcja</trd>
+  <trd lng="pt">produ&ccedil;&atilde;o <klr tip="amb">(atividade)</klr></trd>
+  <trd lng="ru">&c_p;&c_r;&c_o;&c_i;&c_z;&c_v;&c_o;&c_d;&c_s;&c_t;&c_v;&c_o;</trd>
+  <trdgrp lng="sk">
+    <trd>produkcia</trd>,
+    <trd>výroba</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="produk.0ajxo">
+  <kap><tld/>a&jcirc;o</kap>
+  <snc mrk="produk.0ajxo.EKON">
+    <dif>
+      Io <tld/>ita:
+      <ekz>
+        ter<tld/>a&jcirc;oj
+        <fnt><bib>MT</bib>, <lok>&Lev; 2:14</lok></fnt>;
+      </ekz>
+      <ekz>
+        li ricevos la dekonon de &ccirc;iuj multekostaj
+        <tld/>a&jcirc;oj, kiuj estos akiritaj en tiuj &ccirc;i landoj
+        <fnt><bib>FK</bib>, <lok>4, rakontoj, nokto, (de Eube el
+        Odeso)</lok></fnt>.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="frukt.0o.KOMUNE">frukto<sncref/></ref>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_r;&c_a;&c_d;&c_u;&c_k;&c_t;</trd>,
+    <trd>&c_v;&c_y;&c_r;&c_a;&c_b;</trd>
+  </trdgrp>
+  <trd lng="ca">producte</trd>
+  <trd lng="de">Produkt</trd>
+  <trd lng="en">product</trd>
+  <trd lng="es">producto</trd>
+  <trd lng="fr">produit</trd>
+  <trdgrp lng="hu">
+    <trd>term&eacute;ny</trd>,
+    <trd>term&eacute;k</trd>,
+    <trd>gy&aacute;rtm&aacute;ny</trd>
+  </trdgrp>
+  <trd lng="nl">product</trd>
+  <trd lng="pl">produkt</trd>
+  <trd lng="pt">produ&ccedil;&atilde;o <klr tip="amb">(coisa produzida)</klr></trd>
+  <trd lng="ru">&c_p;&c_r;&c_o;&c_d;&c_u;&c_k;&c_t;</trd>
+</drv>
+
+<drv mrk="produk.0ema">
+  <kap><tld/>ema</kap>
+  <snc>
+    <dif>
+      Multe <tld/>anta:
+      <ekz>
+        <tld/>ema tero;
+      </ekz>
+      <ekz>
+        li <klr>...</klr> al iliaj insuloj lokigis aliajn, konfideblajn,
+        <tld/>emajn gentojn, kiuj ne malpliigis, sed pliigis la jaran
+        imposton
+        <fnt><bib>SatirRak</bib>, <lok>Pythagoras, 6</lok></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="fekund.0a">fekunda</ref>,
+      <ref cel="frukt.0odona0oporta">fruktoporta</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_r;&c_a;&c_d;&c_u;&c_k;&c_c;&c_y;&c_j;&c_n;&c_y;</trd>,
+    <trd>&c_p;&c_r;&c_a;&c_d;&c_u;&c_k;&c_t;&c_y;&c_w;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trd lng="ca">productiu</trd>
+  <trd lng="de">produktiv</trd>
+  <trd lng="en">productive</trd>
+  <trd lng="es">productivo</trd>
+  <trd lng="fr">productif</trd>
+  <trdgrp lng="hu">
+    <trd>termel&eacute;keny</trd>,
+    <trd>term&eacute;keny</trd>,
+    <trd>produkt&iacute;v</trd>
+  </trdgrp>
+  <trd lng="nl">productief</trd>
+  <trdgrp lng="pl">
+    <trd>p&lstroke;odny</trd>,
+    <trd>&zdot;yzny</trd>,
+    <trd>produktywny</trd>
+  </trdgrp>
+  <trd lng="pt">produtivo</trd>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_r;&c_o;&c_i;&c_z;&c_v;&c_o;&c_d;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>,
+    <trd>&c_p;&c_r;&c_o;&c_d;&c_u;&c_k;&c_t;&c_i;&c_v;&c_n;&c_y;&c_j;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="produk.re0i">
+  <kap>re<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="produk.re0i.BIO">
+    <dif>
+      <tld lit="P"/>i novajn esta&jcirc;ojn similajn al la anta&ubreve;aj:
+      <ekz>
+        tiu vegeta&jcirc;o facile re<tld/>as sin;
+      </ekz>
+      <ekz>
+        re<tld/>i rozujon per bran&ccirc;planto.
+      </ekz>
+    </dif>
+    <trd lng="de">reproduzieren</trd>
+    <trd lng="hu">szapor&iacute;t</trd>
+    <trdgrp lng="pl">
+    <trd>reprodukowa&cacute;</trd>,
+    <trd>rozmna&zdot;a&cacute;</trd>
+  </trdgrp>
+    <trd lng="pt">reproduzir</trd>
+  </snc>
+  <snc mrk="produk.re0i.TEK">
+    <dif>
+      <tld lit="P"/>i objekton similan al alia:
+      <ekz>
+        re<tld/>i pentra&jcirc;on per gravurado, per fotografado;
+      </ekz>
+      <ekz>
+        re<tld/>i en sia revuo interesan artikolon;
+      </ekz>
+      <ekz>
+        la pentristo re<tld/>as la naturon
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="imit.0i">imiti</ref>,
+      <ref cel="kopi.0i">kopii</ref>,
+      <ref cel="prezen1.re0i">reprezenti</ref>
+    </refgrp>
+    <trdgrp lng="de">
+      <trd>reproduzieren</trd>,
+      <trd>nachbilden</trd>,
+      <trd>kopieren</trd>,
+      <trd>abdrucken</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>reproduk&aacute;l</trd>,
+      <trd>&uacute;jrateremt</trd>,
+      <trd>&uacute;jratermel</trd>
+    </trdgrp>
+  <trdgrp lng="pl">
+    <trd>reprodukowa&cacute;</trd>,
+    <trd>odtwarza&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>reproduzir</trd>,
+    <trd>copiar</trd>
+  </trdgrp>
+  </snc>
+  <trd lng="ca">reproduir</trd>
+  <trdgrp lng="cs">
+    <trd>množit</trd>,
+    <trd>reprodukovat</trd>,
+    <trd>zplodit novou generaci</trd>
+  </trdgrp>
+  <trd lng="en">reproduce</trd>
+  <trd lng="es">reproducir</trd>
+  <trd lng="fr">reproduire</trd>
+  <trd lng="nl">reproduceren</trd>
+  <trdgrp lng="ru">
+    <trd>&c_v;&c_o;&c_s;&c_p;&c_r;&c_o;&c_i;&c_z;&c_v;&c_o;&c_d;&c_i;&c_t;&c_mol;</trd>,
+    <trd>&c_v;&c_o;&c_s;&c_p;&c_r;&c_o;&c_i;&c_z;&c_v;&c_je;&c_s;&c_t;&c_i;</trd>,
+    <trd>&c_r;&c_je;&c_p;&c_r;&c_o;&c_d;&c_u;&c_c;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>množiť</trd>,
+    <trd>reprodukovať</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="produk.sub0o">
+  <kap>sub<tld/>o</kap>
+  <snc mrk="produk.sub0o.TEK">
+    <dif>
+      <tld lit="P"/>o farata el alia <tld/>o per ia procedo, ekzemple
+      per rafinado:
+      <ekz>
+        la sub<tld/>oj povas ebligi pli grandan profiton ol la esencaj
+        <tld/>oj
+        <fnt><bib>Mortul&Scirc;ip</bib>, <lok>enkonduko 2,
+        &leftquot;mia romano &ndash; la mortula &scirc;ipo&#8221;</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="ca">subproducte</trd>
+  <trd lng="cs">vedlejší výrobek</trd>
+  <trd lng="es">subproducto</trd>
+  <trdgrp lng="fr">
+    <trd>produit d&eacute;riv&eacute;</trd>,
+    <trd>sous-produit</trd>
+  </trdgrp>
+  <trd lng="nl">bijproduct</trd>
+  <trd lng="pt">subproduto</trd>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_r;&c_o;&c_i;&c_z;&c_v;&c_o;&c_d;&c_n;&c_y;&c_j; &c_p;&c_r;&c_o;&c_d;&c_u;&c_k;&c_t;</trd>,
+    <trd>&c_s;&c_u;&c_b;&c_p;&c_r;&c_o;&c_d;&c_u;&c_k;&c_t;</trd>
+  </trdgrp>
+  <trd lng="sk">vedľajší výrobok</trd>
+</drv>
+</art>
+<!--
+$Log: produk.xml,v $
+Revision 1.29  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.28  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.27  2015/03/08 17:10:19  revo
+Wolfram Diestel: -stileraro, forigis kelkajn ekzemploj sen fonto
+
+Revision 1.26  2013/01/07 01:10:14  revo
+Neil Roberts: Forigo de malplena traduko al la kataluna lingvo
+
+Revision 1.25  2011/12/12 10:10:09  revo
+Marc Rausell: +trd ca
+
+Revision 1.24  2011/04/29 19:10:38  revo
+Jeromo Vasxe: + mrk
+
+Revision 1.23  2009/07/02 16:31:01  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.22  2009/03/25 17:30:48  revo
+Alejandro Mejia Greene: ald his trd
+
+Revision 1.21  2009/03/05 17:30:38  revo
+Marcus Curdeius: +MNP +pluraj tradukoj
+
+Revision 1.20  2009/02/19 20:26:05  revo
+-->
+</vortaro>

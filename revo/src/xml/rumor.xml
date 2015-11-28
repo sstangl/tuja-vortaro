@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: rumor.xml,v 1.5 2015/07/04 08:37:43 revo Exp $">
+<kap>
+  <rad>rumor</rad>/i <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="rumor.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <uzo tip="stl">POE</uzo>
+  <snc mrk="rumor.0i.SON">
+    <dif>
+      Konfuze <ref tip="super" cel="bru.0i.soni">brui</ref>, kiel
+      homamaso, akvo sur &scirc;tonoj, vagonaro:
+      <ekz>
+        la rabistoj tuj ek<tld/>is: &leftquot;Jes, li devas i&gcirc;i nia metilernanto!&rightquot;
+        <fnt><bib>RabistFab</bib></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="murmur.0i.brui">murmuri <sncref/></ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="fr">
+    <trd>bourdonner</trd>,
+    <trd>bruire</trd>
+  </trdgrp>
+  <trd lng="ru">&c_g;&c_o;&c_m;&c_o;&c_n;&c_i;&c_t;&c_mol;</trd>
+</drv>
+
+<drv mrk="rumor.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="stl">POE</uzo>
+  <snc mrk="rumor.0o.SON">
+    <dif>
+      Bruo farata de multaj samtempe:
+      <ekz>
+        ni mortas sen fanfarmuziko, sen la ridado de belaj virinoj, sen la
+        apla&ubreve;da <tld/>ado de homamaso
+        <fnt><bib>Mortul&Scirc;ip</bib>, <lok>dua libro, &ccirc;apitro 26a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>halas</trd>,
+    <trd>hluk</trd>,
+    <trd>povyk</trd>,
+    <trd>rámus</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>brouhaha</trd>,
+    <trd>rumeur<klr tip="amb"> (bruit confus)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>zumbir</trd>,
+    <trd>rumorejar</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_g;&c_u;&c_l;</trd>,
+    <trd>&c_g;&c_a;&c_m;</trd>,
+    <trd>&c_g;&c_o;&c_m;&c_o;&c_n;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>hluk</trd>,
+    <trd>rámus</trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log: rumor.xml,v $
+Revision 1.5  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.4  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.3  2006/02/24 17:33:59  revo
+Tulio Flores: +trd pt
+
+Revision 1.2  2005/12/22 17:31:54  revo
+Yury Finkel: +trd ru
+
+Revision 1.1  2005/12/19 17:31:14  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>
+

@@ -1,0 +1,777 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<literoj>
+
+  <sufiksoj>
+       <s nomo="acute" pri="dekstra korno"/>
+       <s nomo="breve" pri="ronda hoketo"/>
+       <s nomo="caron" pri="pinta hoketo"/>
+       <s nomo="cedil" pri="cedilo"/>
+       <s nomo="circ" pri="&#x0109;apelo"/>
+       <s nomo="comma" pri="subkomo"/>
+       <s nomo="dblac" pri="longa tremao"/>
+       <s nomo="dot" pri="superpunkto"/>
+       <s nomo="grave" pri="maldekstra korno"/>
+       <s nomo="macron" pri="superstreko"/>
+       <s nomo="nodot" pri="sen punkto"/>
+       <s nomo="ogonek" pri="subhoko"/>
+       <s nomo="ring" pri="ringo"/>
+       <s nomo="slash" pri="trastreko"/>
+       <s nomo="stroke" pri="trastreko"/>
+       <s nomo="tilde" pri="tildo"/>
+       <s nomo="uml" pri="tremao"/>
+       <s nomo="lig" n="2" pri="ligitaj"/>
+  </sufiksoj>
+
+  <prefiksoj>
+      <p nomo="a" pri="araba"/>
+      <p nomo="c" pri="cirila"/>
+      <p nomo="f" pri="persa"/>
+      <p nomo="u" pri="urdua"/>
+  </prefiksoj>
+
+
+<!-- e-aj literoj -->
+<l nomo="Ccirc" kodo="#x0108"/>
+<l nomo="ccirc" kodo="#x0109"/>
+<l nomo="Gcirc" kodo="#x011c"/>
+<l nomo="gcirc" kodo="#x011d"/>
+<l nomo="Hcirc" kodo="#x0124"/>
+<l nomo="hcirc" kodo="#x0125"/>
+<l nomo="Jcirc" kodo="#x0134"/>
+<l nomo="jcirc" kodo="#x0135"/>
+<l nomo="Scirc" kodo="#x015c"/>
+<l nomo="scirc" kodo="#x015d"/>
+<l nomo="Ubreve" kodo="#x016c"/>
+<l nomo="ubreve" kodo="#x016d"/>
+
+<!-- francaj k.a. -->
+<l nomo="OElig" kodo="#x0152"/>
+<l nomo="oelig" kodo="#x0153"/>
+<l nomo="Aacute" kodo="#x00c1"/>
+<l nomo="aacute" kodo="#x00e1"/>
+<l nomo="Eacute" kodo="#x00c9"/>
+<l nomo="eacute" kodo="#x00e9"/>
+<l nomo="Iacute" kodo="#x00cd"/>
+<l nomo="iacute" kodo="#x00ed"/>
+<l nomo="Oacute" kodo="#x00d3"/>
+<l nomo="oacute" kodo="#x00f3"/>
+<l nomo="Uacute" kodo="#x00da"/>
+<l nomo="uacute" kodo="#x00fa"/>
+
+<l nomo="Agrave" kodo="#x00c0"/>
+<l nomo="agrave" kodo="#x00e0"/>
+<l nomo="Egrave" kodo="#x00c8"/>
+<l nomo="egrave" kodo="#x00e8"/>
+<l nomo="Igrave" kodo="#x00cc"/>
+<l nomo="igrave" kodo="#x00ec"/>
+<l nomo="Ograve" kodo="#x00d2"/>
+<l nomo="ograve" kodo="#x00f2"/>
+<l nomo="Ugrave" kodo="#x00d9"/>
+<l nomo="ugrave" kodo="#x00f9"/>
+
+<l nomo="Acirc" kodo="#x00c2"/>
+<l nomo="acirc" kodo="#x00e2"/>
+<l nomo="Ecirc" kodo="#x00ca"/>
+<l nomo="ecirc" kodo="#x00ea"/>
+<l nomo="Icirc" kodo="#x00ce"/>
+<l nomo="icirc" kodo="#x00ee"/>
+<l nomo="Ocirc" kodo="#x00d4"/>
+<l nomo="ocirc" kodo="#x00f4"/>
+<l nomo="Ucirc" kodo="#x00db"/>
+<l nomo="ucirc" kodo="#x00fb"/>
+
+<!-- germanaj -->
+
+<l nomo="szlig" kodo="#x00df"/>
+<l nomo="Auml" kodo="#x00c4"/>
+<l nomo="auml" kodo="#x00e4"/>
+<l nomo="Ouml" kodo="#x00d6"/>
+<l nomo="ouml" kodo="#x00f6"/>
+<l nomo="Uuml" kodo="#x00dc"/>
+<l nomo="uuml" kodo="#x00fc"/>
+
+<!-- turkaj ne jam menciitaj -->
+
+<l nomo="Gbreve" kodo="#x011e"/>
+<l nomo="gbreve" kodo="#x011f"/>
+<l nomo="inodot" kodo="#x0131"/>
+<l nomo="Idot" kodo="#x0130"/>
+<l nomo="Scedil" kodo="#x015e"/>
+<l nomo="scedil" kodo="#x015f"/>
+<l nomo="Ccedil" kodo="#x00c7"/>
+<l nomo="ccedil" kodo="#x00e7"/>
+
+<!-- diversaj -->
+
+<l nomo="amp" kodo="#38;#38"/>
+<l nomo="lt" kodo="#38;#60"/>
+<l nomo="gt" kodo="#62"/>
+<l nomo="apos" kodo="#39"/>
+<l nomo="minute" kodo="apos"/>
+<l nomo="quot" kodo="#34"/>
+<l nomo="second" kodo="quot"/>
+<l nomo="leftquot" kodo="#x201e"/>
+<l nomo="rightquot" kodo="#x201c"/>
+<l nomo="ring" kodo="#x00b0"/>
+<l nomo="deg" kodo="ring"/>
+<l nomo="quadrat" kodo="#x00b2"/>
+<l nomo="cubic" kodo="#x00b3"/>
+<l nomo="para" kodo="#x00a7"/>
+<l nomo="dash" kodo="#x2015"/>
+<l nomo="mdash" kodo="#x2015"/>
+<l nomo="ndash" kodo="#x2013"/>
+<l nomo="nbsp" kodo="#x00a0"/>
+
+<l nomo="Euml" kodo="#x00cb"/>
+<l nomo="euml" kodo="#x00eb"/>
+<l nomo="Iuml" kodo="#x00cf"/>
+<l nomo="iuml" kodo="#x00ef"/>
+
+<l nomo="Aring" kodo="#x00c5"/>
+<l nomo="aring" kodo="#x00e5"/>
+<l nomo="AElig" kodo="#x00c6"/>
+<l nomo="aelig" kodo="#x00e6"/>
+<l nomo="Oslash" kodo="#x00d8"/>
+<l nomo="oslash" kodo="#x00f8"/>
+
+<!-- portugalaj, hispanaj, katalunaj -->
+
+<l nomo="Ntilde" kodo="#x00d1"/>
+<l nomo="ntilde" kodo="#x00f1"/>   
+
+<l nomo="Atilde" kodo="#x00c3"/>
+<l nomo="atilde" kodo="#x00e3"/>
+<l nomo="Otilde" kodo="#x00d5"/>
+<l nomo="otilde" kodo="#x00f5"/>
+
+<l nomo="middot" kodo="#x00b7"/>
+
+
+<!-- rumanaj -->
+<l nomo="Abreve" kodo="#x0102"/>
+<l nomo="abreve" kodo="#x0103"/>
+<l nomo="Tcedil" kodo="#x0162"/>
+<l nomo="tcedil" kodo="#x0163"/>
+
+<!-- grekaj -->
+<l nomo="Alfa" kodo="#x0391"/>
+<l nomo="alfa" kodo="#x03b1"/>
+<l nomo="alfa_acute" kodo="alfa_ton"/> <!--&#x1f71;-->
+<l nomo="Alfa_acute" kodo="Alfa_ton"/> <!--&#x1fbb;-->
+<l nomo="alfa_acute_subj" kodo="alfa_ton"/> <!--&#x1fb4;-->
+<l nomo="alfa_breve" kodo="alfa"/> <!--&#x1fb0;-->
+<l nomo="Alfa_breve" kodo="Alfa"/> <!--&#x1fb8;-->
+<l nomo="alfa_circ" kodo="alfa_ton"/> <!--&#x1fb6;-->
+<l nomo="alfa_circ_subj" kodo="alfa_ton"/> <!--&#x1fb7;-->
+<l nomo="alfa_densa" kodo="alfa"/> <!--&#x1f01;-->
+<l nomo="Alfa_densa" kodo="Alfa"/> <!--&#x1f09;-->
+<l nomo="alfa_densa_acute" kodo="alfa_ton"/> <!--&#x1f05;-->
+<l nomo="Alfa_densa_acute" kodo="Alfa_ton"/> <!--&#x1f0d;-->
+<l nomo="alfa_densa_acute_subj" kodo="alfa_ton"/> <!--&#x1f85;-->
+<l nomo="Alfa_densa_acute_Subj" kodo="Alfa_ton"/> <!--&#x1f8d;-->
+<l nomo="alfa_densa_circ" kodo="alfa_ton"/> <!--&#x1f07;-->
+<l nomo="Alfa_densa_circ" kodo="Alfa_ton"/> <!--&#x1f0f;-->
+<l nomo="alfa_densa_circ_subj" kodo="alfa_ton"/> <!--&#x1f87;-->
+<l nomo="Alfa_densa_circ_Subj" kodo="Alfa_ton"/> <!--&#x1f8f;-->
+<l nomo="alfa_densa_grave" kodo="alfa_ton"/> <!--&#x1f03;-->
+<l nomo="Alfa_densa_grave" kodo="Alfa_ton"/> <!--&#x1f0b;-->
+<l nomo="alfa_densa_grave_subj" kodo="alfa_ton"/> <!--&#x1f83;-->
+<l nomo="Alfa_densa_grave_Subj" kodo="Alfa_ton"/> <!--&#x1f8b;-->
+<l nomo="alfa_densa_subj" kodo="alfa"/> <!--&#x1f81;-->
+<l nomo="Alfa_densa_Subj" kodo="Alfa"/> <!--&#x1f89;-->
+<l nomo="alfa_grave" kodo="alfa_ton"/> <!--&#x1f70;-->
+<l nomo="Alfa_grave" kodo="Alfa_ton"/> <!--&#x1fba;-->
+<l nomo="alfa_grave_subj" kodo="alfa_ton"/> <!--&#x1fb2;-->
+<l nomo="alfa_makron" kodo="alfa"/> <!--&#x1fb1;-->
+<l nomo="Alfa_makron" kodo="Alfa"/> <!--&#x1fb9;-->
+<l nomo="alfa_psili" kodo="alfa"/> <!--&#x1f00;-->
+<l nomo="Alfa_psili" kodo="Alfa"/> <!--&#x1f08;-->
+<l nomo="alfa_psili_acute" kodo="alfa_ton"/> <!--&#x1f04;-->
+<l nomo="Alfa_psili_acute" kodo="Alfa_ton"/> <!--&#x1f0c;-->
+<l nomo="alfa_psili_acute_subj" kodo="alfa_ton"/> <!--&#x1f84;-->
+<l nomo="Alfa_psili_acute_Subj" kodo="Alfa_ton"/> <!--&#x1f8c;-->
+<l nomo="alfa_psili_circ" kodo="alfa_ton"/> <!--&#x1f06;-->
+<l nomo="Alfa_psili_circ" kodo="Alfa_ton"/> <!--&#x1f0e;-->
+<l nomo="alfa_psili_circ_subj" kodo="alfa_ton"/> <!--&#x1f86;-->
+<l nomo="Alfa_psili_circ_Subj" kodo="Alfa_ton"/> <!--&#x1f8e;-->
+<l nomo="alfa_psili_grave" kodo="alfa_ton"/> <!--&#x1f02;-->
+<l nomo="Alfa_psili_grave" kodo="Alfa_ton"/> <!--&#x1f0a;-->
+<l nomo="alfa_psili_grave_subj" kodo="alfa_ton"/> <!--&#x1f82;-->
+<l nomo="Alfa_psili_grave_Subj" kodo="Alfa_ton"/> <!--&#x1f8a;-->
+<l nomo="alfa_psili_subj" kodo="alfa"/> <!--&#x1f80;-->
+<l nomo="Alfa_psili_Subj" kodo="Alfa"/> <!--&#x1f88;-->
+<l nomo="alfa_subj" kodo="alfa"/> <!--&#x1fb3;-->
+<l nomo="Alfa_Subj" kodo="Alfa"/> <!--&#x1fbc;-->
+<l nomo="Alfa_ton" kodo="#x0386"/>
+<l nomo="alfa_ton" kodo="#x03ac"/>
+
+<l nomo="Beta" kodo="#x0392"/>
+<l nomo="beta" kodo="#x03b2"/>
+
+<l nomo="Gamma" kodo="#x0393"/>
+<l nomo="gamma" kodo="#x03b3"/>
+
+<l nomo="Delta" kodo="#x0394"/>
+<l nomo="delta" kodo="#x03b4"/>
+
+<l nomo="Epsilon" kodo="#x0395"/>
+<l nomo="epsilon" kodo="#x03b5"/>
+<l nomo="epsilon_acute" kodo="epsilon_ton"/> <!--&#x1f73;-->
+<l nomo="Epsilon_acute" kodo="Epsilon_ton"/> <!--&#x1fc9;-->
+<l nomo="epsilon_densa" kodo="epsilon"/> <!--&#x1f11;-->
+<l nomo="Epsilon_densa" kodo="Epsilon"/> <!--&#x1f19;-->
+<l nomo="epsilon_densa_acute" kodo="epsilon_ton"/> <!--&#x1f15;-->
+<l nomo="Epsilon_densa_acute" kodo="Epsilon_ton"/> <!--&#x1f1d;-->
+<l nomo="epsilon_densa_grave" kodo="epsilon_ton"/> <!--&#x1f13;-->
+<l nomo="Epsilon_densa_grave" kodo="Epsilon_ton"/> <!--&#x1f1b;-->
+<l nomo="epsilon_grave" kodo="epsilon_ton"/> <!--&#x1f72;-->
+<l nomo="Epsilon_grave" kodo="Epsilon_ton"/> <!--&#x1fc8;-->
+<l nomo="epsilon_psili" kodo="epsilon"/> <!--&#x1f10;-->
+<l nomo="Epsilon_psili" kodo="Epsilon"/> <!--&#x1f18;-->
+<l nomo="epsilon_psili_acute" kodo="epsilon_ton"/> <!--&#x1f14;-->
+<l nomo="Epsilon_psili_acute" kodo="Epsilon_ton"/> <!--&#x1f1c;-->
+<l nomo="epsilon_psili_grave" kodo="epsilon_ton"/> <!--&#x1f12;-->
+<l nomo="Epsilon_psili_grave" kodo="Epsilon_ton"/> <!--&#x1f1a;-->
+<l nomo="Epsilon_ton" kodo="#x0388"/>
+<l nomo="epsilon_ton" kodo="#x03ad"/>
+
+<l nomo="Zeta" kodo="#x0396"/>
+<l nomo="zeta" kodo="#x03b6"/>
+
+<l nomo="Eta" kodo="#x0397"/>
+<l nomo="eta" kodo="#x03b7"/>
+<l nomo="eta_acute" kodo="eta_ton"/> <!--&#x1f75;-->
+<l nomo="Eta_acute" kodo="Eta_ton"/> <!--&#x1fcb;-->
+<l nomo="eta_acute_subj" kodo="eta_ton"/> <!--&#x1fc4;-->
+<l nomo="eta_circ" kodo="eta_ton"/> <!--&#x1fc6;-->
+<l nomo="eta_circ_subj" kodo="eta_ton"/> <!--&#x1fc7;-->
+<l nomo="eta_densa" kodo="eta"/> <!--&#x1f21;-->
+<l nomo="Eta_densa" kodo="Eta"/> <!--&#x1f29;-->
+<l nomo="eta_densa_acute" kodo="eta_ton"/> <!--&#x1f25;-->
+<l nomo="Eta_densa_acute" kodo="Eta_ton"/> <!--&#x1f2d;-->
+<l nomo="eta_densa_acute_subj" kodo="eta_ton"/> <!--&#x1f95;-->
+<l nomo="Eta_densa_acute_Subj" kodo="Eta_ton"/> <!--&#x1f9d;-->
+<l nomo="eta_densa_circ" kodo="eta_ton"/> <!--&#x1f27;-->
+<l nomo="Eta_densa_circ" kodo="Eta_ton"/> <!--&#x1f2f;-->
+<l nomo="eta_densa_circ_subj" kodo="eta_ton"/> <!--&#x1f97;-->
+<l nomo="Eta_densa_circ_Subj" kodo="Eta_ton"/> <!--&#x1f9f;-->
+<l nomo="eta_densa_grave" kodo="eta_ton"/> <!--&#x1f23;-->
+<l nomo="Eta_densa_grave" kodo="Eta_ton"/> <!--&#x1f2b;-->
+<l nomo="eta_densa_grave_subj" kodo="eta_ton"/> <!--&#x1f93;-->
+<l nomo="Eta_densa_grave_Subj" kodo="Eta_ton"/> <!--&#x1f9b;-->
+<l nomo="eta_densa_subj" kodo="eta"/> <!--&#x1f91;-->
+<l nomo="Eta_densa_Subj" kodo="Eta"/> <!--&#x1f99;-->
+<l nomo="eta_grave" kodo="eta_ton"/> <!--&#x1f74;-->
+<l nomo="Eta_grave" kodo="Eta_ton"/> <!--&#x1fca;-->
+<l nomo="eta_grave_subj" kodo="eta_ton"/> <!--&#x1fc2;-->
+<l nomo="eta_psili" kodo="eta"/> <!--&#x1f20;-->
+<l nomo="Eta_psili" kodo="Eta"/> <!--&#x1f28;-->
+<l nomo="eta_psili_acute" kodo="eta_ton"/> <!--&#x1f24;-->
+<l nomo="Eta_psili_acute" kodo="Eta_ton"/> <!--&#x1f2c;-->
+<l nomo="eta_psili_acute_subj" kodo="eta_ton"/> <!--&#x1f94;-->
+<l nomo="Eta_psili_acute_Subj" kodo="Eta_ton"/> <!--&#x1f9c;-->
+<l nomo="eta_psili_circ" kodo="eta_ton"/> <!--&#x1f26;-->
+<l nomo="Eta_psili_circ" kodo="Eta_ton"/> <!--&#x1f2e;-->
+<l nomo="eta_psili_circ_subj" kodo="eta_ton"/> <!--&#x1f96;-->
+<l nomo="Eta_psili_circ_Subj" kodo="Eta_ton"/> <!--&#x1f9e;-->
+<l nomo="eta_psili_grave" kodo="eta_ton"/> <!--&#x1f22;-->
+<l nomo="Eta_psili_grave" kodo="Eta_ton"/> <!--&#x1f2a;-->
+<l nomo="eta_psili_grave_subj" kodo="eta_ton"/> <!--&#x1f92;-->
+<l nomo="Eta_psili_grave_Subj" kodo="Eta_ton"/> <!--&#x1f9a;-->
+<l nomo="eta_psili_subj" kodo="eta"/> <!--&#x1f90;-->
+<l nomo="Eta_psili_Subj" kodo="Eta"/> <!--&#x1f98;-->
+<l nomo="eta_subj" kodo="eta"/> <!--&#x1fc3;-->
+<l nomo="Eta_Subj" kodo="Eta"/> <!--&#x1fcc;-->
+<l nomo="Eta_ton" kodo="#x0389"/>
+<l nomo="eta_ton" kodo="#x03ae"/>
+
+<l nomo="Theta" kodo="#x0398"/>
+<l nomo="theta" kodo="#x03b8"/>
+
+<l nomo="Jota" kodo="#x0399"/>
+<l nomo="jota" kodo="#x03b9"/>
+<l nomo="jota_acute" kodo="jota_ton"/> <!--&#x1f77;-->
+<l nomo="Jota_acute" kodo="Jota_ton"/> <!--&#x1fdb;-->
+<l nomo="jota_breve" kodo="jota"/> <!--&#x1fd0;-->
+<l nomo="Jota_breve" kodo="Jota"/> <!--&#x1fd8;-->
+<l nomo="jota_circ" kodo="jota_ton"/> <!--&#x1fd6;-->
+<l nomo="jota_densa" kodo="jota"/> <!--&#x1f31;-->
+<l nomo="Jota_densa" kodo="Jota"/> <!--&#x1f39;-->
+<l nomo="jota_densa_acute" kodo="jota_ton"/> <!--&#x1f35;-->
+<l nomo="Jota_densa_acute" kodo="Jota_ton"/> <!--&#x1f3d;-->
+<l nomo="jota_densa_circ" kodo="jota_ton"/> <!--&#x1f37;-->
+<l nomo="Jota_densa_circ" kodo="Jota_ton"/> <!--&#x1f3f;-->
+<l nomo="jota_densa_grave" kodo="jota_ton"/> <!--&#x1f33;-->
+<l nomo="Jota_densa_grave" kodo="Jota_ton"/> <!--&#x1f3b;-->
+<l nomo="jota_grave" kodo="jota_ton"/> <!--&#x1f76;-->
+<l nomo="Jota_grave" kodo="Jota_ton"/> <!--&#x1fda;-->
+<l nomo="jota_makron" kodo="jota"/> <!--&#x1fd1;-->
+<l nomo="Jota_makron" kodo="Jota"/> <!--&#x1fd9;-->
+<l nomo="jota_psili" kodo="jota"/> <!--&#x1f30;-->
+<l nomo="Jota_psili" kodo="Jota"/> <!--&#x1f38;-->
+<l nomo="jota_psili_acute" kodo="jota_ton"/> <!--&#x1f34;-->
+<l nomo="Jota_psili_acute" kodo="Jota_ton"/> <!--&#x1f3c;-->
+<l nomo="jota_psili_circ" kodo="jota_ton"/> <!--&#x1f36;-->
+<l nomo="Jota_psili_circ" kodo="Jota_ton"/> <!--&#x1f3e;-->
+<l nomo="jota_psili_grave" kodo="jota_ton"/> <!--&#x1f32;-->
+<l nomo="Jota_psili_grave" kodo="Jota_ton"/> <!--&#x1f3a;-->
+<l nomo="Jota_ton" kodo="#x038a"/>
+<l nomo="jota_ton" kodo="#x03af"/>
+<l nomo="Jota_trema" kodo="#x03aa"/>
+<l nomo="jota_trema" kodo="#x03ca"/>
+<l nomo="jota_trema_acute" kodo="jota_trema_ton"/> <!--&#x1fd3;-->
+<l nomo="jota_trema_circ" kodo="jota_trema_ton"/> <!--&#x1fd7;-->
+<l nomo="jota_trema_grave" kodo="jota_trema_ton"/> <!--&#x1fd2;-->
+<l nomo="jota_trema_ton" kodo="#x0390"/>
+
+<l nomo="Kappa" kodo="#x039a"/>
+<l nomo="kappa" kodo="#x03ba"/>
+<l nomo="Lambda" kodo="#x039b"/>
+<l nomo="lambda" kodo="#x03bb"/>
+<l nomo="My" kodo="#x039c"/>
+<l nomo="my" kodo="#x03bc"/>
+<l nomo="Ny" kodo="#x039d"/>
+<l nomo="ny" kodo="#x03bd"/>
+<l nomo="Xi" kodo="#x039e"/>
+<l nomo="xi" kodo="#x03be"/>
+
+<l nomo="Omikron" kodo="#x039f"/>
+<l nomo="omikron" kodo="#x03bf"/>
+<l nomo="omikron_acute" kodo="omikron_ton"/> <!--&#x1f79;-->
+<l nomo="Omikron_acute" kodo="Omikron_ton"/> <!--&#x1ff9;-->
+<l nomo="omikron_densa" kodo="omikron"/> <!--&#x1f41;-->
+<l nomo="Omikron_densa" kodo="Omikron"/> <!--&#x1f49;-->
+<l nomo="omikron_densa_acute" kodo="omikron_ton"/> <!--&#x1f45;-->
+<l nomo="Omikron_densa_acute" kodo="Omikron_ton"/> <!--&#x1f4d;-->
+<l nomo="omikron_densa_grave" kodo="omikron_ton"/> <!--&#x1f43;-->
+<l nomo="Omikron_densa_grave" kodo="Omikron_ton"/> <!--&#x1f4b;-->
+<l nomo="omikron_grave" kodo="omikron_ton"/> <!--&#x1f78;-->
+<l nomo="Omikron_grave" kodo="Omikron_ton"/> <!--&#x1ff8;-->
+<l nomo="omikron_psili" kodo="omikron"/> <!--&#x1f40;-->
+<l nomo="Omikron_psili" kodo="Omikron"/> <!--&#x1f48;-->
+<l nomo="omikron_psili_acute" kodo="omikron_ton"/> <!--&#x1f44;-->
+<l nomo="Omikron_psili_acute" kodo="Omikron_ton"/> <!--&#x1f4c;-->
+<l nomo="omikron_psili_grave" kodo="omikron_ton"/> <!--&#x1f42;-->
+<l nomo="Omikron_psili_grave" kodo="Omikron_ton"/> <!--&#x1f4a;-->
+<l nomo="Omikron_ton" kodo="#x038c"/>
+<l nomo="omikron_ton" kodo="#x03cc"/>
+
+<l nomo="Pi" kodo="#x03a0"/>
+<l nomo="pi" kodo="#x03c0"/>
+
+<l nomo="Rho" kodo="#x03a1"/>
+<l nomo="rho" kodo="#x03c1"/>
+<l nomo="rho_densa" kodo="rho"/> <!--&#x1fe5;-->
+<l nomo="Rho_densa" kodo="Rho"/> <!--&#x1fec;-->
+<l nomo="rho_psili" kodo="rho"/> <!--&#x1fe4;-->
+
+<l nomo="Sigma" kodo="#x03a3"/>
+<l nomo="sigma" kodo="#x03c3"/>
+<l nomo="sigma_fina" kodo="#x03c2"/>
+
+<l nomo="Tau" kodo="#x03a4"/>
+<l nomo="tau" kodo="#x03c4"/>
+
+<l nomo="Ypsilon" kodo="#x03a5"/>
+<l nomo="ypsilon" kodo="#x03c5"/>
+<l nomo="ypsilon_acute" kodo="ypsilon_ton"/> <!--&#x1f7b;-->
+<l nomo="Ypsilon_acute" kodo="Ypsilon_ton"/> <!--&#x1feb;-->
+<l nomo="ypsilon_breve" kodo="ypsilon"/> <!--&#x1fe0;-->
+<l nomo="Ypsilon_breve" kodo="Ypsilon"/> <!--&#x1fe8;-->
+<l nomo="ypsilon_circ" kodo="ypsilon_ton"/> <!--&#x1fe6;-->
+<l nomo="ypsilon_densa" kodo="ypsilon"/> <!--&#x1f51;-->
+<l nomo="Ypsilon_densa" kodo="Ypsilon"/> <!--&#x1f59;-->
+<l nomo="ypsilon_densa_acute" kodo="ypsilon_ton"/> <!--&#x1f55;-->
+<l nomo="Ypsilon_densa_acute" kodo="Ypsilon_ton"/> <!--&#x1f5d;-->
+<l nomo="ypsilon_densa_circ" kodo="ypsilon_ton"/> <!--&#x1f57;-->
+<l nomo="Ypsilon_densa_circ" kodo="Ypsilon_ton"/> <!--&#x1f5f;-->
+<l nomo="ypsilon_densa_grave" kodo="ypsilon_ton"/> <!--&#x1f53;-->
+<l nomo="Ypsilon_densa_grave" kodo="Ypsilon_ton"/> <!--&#x1f5b;-->
+<l nomo="ypsilon_grave" kodo="ypsilon_ton"/> <!--&#x1f7a;-->
+<l nomo="Ypsilon_grave" kodo="Ypsilon_ton"/> <!--&#x1fea;-->
+<l nomo="ypsilon_makron" kodo="ypsilon"/> <!--&#x1fe1;-->
+<l nomo="Ypsilon_makron" kodo="Ypsilon"/> <!--&#x1fe9;-->
+<l nomo="ypsilon_psili" kodo="ypsilon"/> <!--&#x1f50;-->
+<l nomo="ypsilon_psili_acute" kodo="ypsilon_ton"/> <!--&#x1f54;-->
+<l nomo="ypsilon_psili_circ" kodo="ypsilon_ton"/> <!--&#x1f56;-->
+<l nomo="ypsilon_psili_grave" kodo="ypsilon_ton"/> <!--&#x1f52;-->
+<l nomo="Ypsilon_ton" kodo="#x038e"/>
+<l nomo="ypsilon_ton" kodo="#x03cd"/>
+<l nomo="Ypsilon_trema" kodo="#x03ab"/>
+<l nomo="ypsilon_trema" kodo="#x03cb"/>
+<l nomo="ypsilon_trema_acute" kodo="ypsilon_trema_ton"/> <!--&#x1fe3;-->
+<l nomo="ypsilon_trema_circ" kodo="ypsilon_trema_ton"/> <!--&#x1fe7;-->
+<l nomo="ypsilon_trema_grave" kodo="ypsilon_trema_ton"/> <!--&#x1fe2;-->
+<l nomo="ypsilon_trema_ton" kodo="#x03b0"/>
+
+<l nomo="Phi" kodo="#x03a6"/>
+<l nomo="phi" kodo="#x03c6"/>
+<l nomo="Chi" kodo="#x03a7"/>
+<l nomo="chi" kodo="#x03c7"/>
+<l nomo="Psi" kodo="#x03a8"/>
+<l nomo="psi" kodo="#x03c8"/>
+
+<l nomo="Omega" kodo="#x03a9"/>
+<l nomo="omega" kodo="#x03c9"/>
+<l nomo="omega_acute" kodo="omega_ton"/> <!--&#x1f7d;-->
+<l nomo="Omega_acute" kodo="Omega_ton"/> <!--&#x1ffb;-->
+<l nomo="omega_acute_subj" kodo="omega_ton"/> <!--&#x1ff4;-->
+<l nomo="omega_circ" kodo="omega_ton"/> <!--&#x1ff6;-->
+<l nomo="omega_circ_subj" kodo="omega_ton"/> <!--&#x1ff7;-->
+<l nomo="omega_densa" kodo="omega"/> <!--&#x1f61;-->
+<l nomo="Omega_densa" kodo="Omega"/> <!--&#x1f69;-->
+<l nomo="omega_densa_acute" kodo="omega_ton"/> <!--&#x1f65;-->
+<l nomo="Omega_densa_acute" kodo="Omega_ton"/> <!--&#x1f6d;-->
+<l nomo="omega_densa_acute_subj" kodo="omega_ton"/> <!--&#x1fa5;-->
+<l nomo="Omega_densa_acute_Subj" kodo="Omega_ton"/> <!--&#x1fad;-->
+<l nomo="omega_densa_circ" kodo="omega_ton"/> <!--&#x1f67;-->
+<l nomo="Omega_densa_circ" kodo="Omega_ton"/> <!--&#x1f6f;-->
+<l nomo="omega_densa_circ_subj" kodo="omega_ton"/> <!--&#x1fa7;-->
+<l nomo="Omega_densa_circ_Subj" kodo="Omega_ton"/> <!--&#x1faf;-->
+<l nomo="omega_densa_grave" kodo="omega_ton"/> <!--&#x1f63;-->
+<l nomo="Omega_densa_grave" kodo="Omega_ton"/> <!--&#x1f6b;-->
+<l nomo="omega_densa_grave_subj" kodo="omega_ton"/> <!--&#x1fa3;-->
+<l nomo="Omega_densa_grave_Subj" kodo="Omega_ton"/> <!--&#x1fab;-->
+<l nomo="omega_densa_subj" kodo="omega"/> <!--&#x1fa1;-->
+<l nomo="Omega_densa_Subj" kodo="Omega"/> <!--&#x1fa9;-->
+<l nomo="omega_grave" kodo="omega_ton"/> <!--&#x1f7c;-->
+<l nomo="Omega_grave" kodo="Omega_ton"/> <!--&#x1ffa;-->
+<l nomo="omega_grave_subj" kodo="omega_ton"/> <!--&#x1ff2;-->
+<l nomo="omega_psili" kodo="omega"/> <!--&#x1f60;-->
+<l nomo="Omega_psili" kodo="Omega"/> <!--&#x1f68;-->
+<l nomo="omega_psili_acute" kodo="omega_ton"/> <!--&#x1f64;-->
+<l nomo="Omega_psili_acute" kodo="Omega_ton"/> <!--&#x1f6c;-->
+<l nomo="omega_psili_acute_subj" kodo="omega_ton"/> <!--&#x1fa4;-->
+<l nomo="Omega_psili_acute_Subj" kodo="Omega_ton"/> <!--&#x1fac;-->
+<l nomo="omega_psili_circ" kodo="omega_ton"/> <!--&#x1f66;-->
+<l nomo="Omega_psili_circ" kodo="Omega_ton"/> <!--&#x1f6e;-->
+<l nomo="omega_psili_circ_subj" kodo="omega_ton"/> <!--&#x1fa6;-->
+<l nomo="Omega_psili_circ_Subj" kodo="Omega_ton"/> <!--&#x1fae;-->
+<l nomo="omega_psili_grave" kodo="omega_ton"/> <!--&#x1f62;-->
+<l nomo="Omega_psili_grave" kodo="Omega_ton"/> <!--&#x1f6a;-->
+<l nomo="omega_psili_grave_subj" kodo="omega_ton"/> <!--&#x1fa2;-->
+<l nomo="Omega_psili_grave_Subj" kodo="Omega_ton"/> <!--&#x1faa;-->
+<l nomo="omega_psili_subj" kodo="omega"/> <!--&#x1fa0;-->
+<l nomo="Omega_psili_Subj" kodo="Omega"/> <!--&#x1fa8;-->
+<l nomo="omega_subj" kodo="omega"/> <!--&#x1ff3;-->
+<l nomo="Omega_Subj" kodo="Omega"/> <!--&#x1ffc;-->
+<l nomo="Omega_ton" kodo="#x038f"/>
+<l nomo="omega_ton" kodo="#x03ce"/>
+
+<!-- cirilaj -->
+
+<l nomo="c_Ju" kodo="#x042e"/>
+<l nomo="c_A" kodo="#x0410"/>
+<l nomo="c_B" kodo="#x0411"/>
+<l nomo="c_C" kodo="#x0426"/>
+<l nomo="c_D" kodo="#x0414"/>
+<l nomo="c_Je" kodo="#x0415"/>
+<l nomo="c_F" kodo="#x0424"/>
+<l nomo="c_G" kodo="#x0413"/>
+<l nomo="c_H" kodo="#x0425"/>
+<l nomo="c_I" kodo="#x0418"/>
+<l nomo="c_J" kodo="#x0419"/>
+<l nomo="c_K" kodo="#x041a"/>
+<l nomo="c_L" kodo="#x041b"/>
+<l nomo="c_M" kodo="#x041c"/>
+<l nomo="c_N" kodo="#x041d"/>
+<l nomo="c_O" kodo="#x041e"/>
+<l nomo="c_P" kodo="#x041f"/>
+<l nomo="c_Ja" kodo="#x042f"/>
+<l nomo="c_R" kodo="#x0420"/>
+<l nomo="c_S" kodo="#x0421"/>
+<l nomo="c_T" kodo="#x0422"/>
+<l nomo="c_U" kodo="#x0423"/>
+<l nomo="c_Zh" kodo="#x0416"/>
+<l nomo="c_V" kodo="#x0412"/>
+<l nomo="c_Mol" kodo="#x042c"/>
+<l nomo="c_Y" kodo="#x042b"/>
+<l nomo="c_Z" kodo="#x0417"/>
+<l nomo="c_Sh" kodo="#x0428"/>
+<l nomo="c_E" kodo="#x042d"/>
+<l nomo="c_Shch" kodo="#x0429"/>
+<l nomo="c_Ch" kodo="#x0427"/>
+
+<l nomo="c_Jo" kodo="#x0401"/>
+<l nomo="c_W" kodo="#x040E"/>
+<l nomo="c_Ib" kodo="#x0406"/>
+<l nomo="c_Gu" kodo="#x0490"/>
+<l nomo="c_Jeu" kodo="#x0404"/>
+<l nomo="c_Ji" kodo="#x0407"/>
+
+<l nomo="c_ju" kodo="#x044e"/>
+<l nomo="c_a" kodo="#x0430"/>
+<l nomo="c_b" kodo="#x0431"/>
+<l nomo="c_c" kodo="#x0446"/>
+<l nomo="c_d" kodo="#x0434"/>
+<l nomo="c_je" kodo="#x0435"/>
+<l nomo="c_f" kodo="#x0444"/>
+<l nomo="c_g" kodo="#x0433"/>
+<l nomo="c_h" kodo="#x0445"/>
+<l nomo="c_i" kodo="#x0438"/>
+<l nomo="c_j" kodo="#x0439"/>
+<l nomo="c_k" kodo="#x043a"/>
+<l nomo="c_l" kodo="#x043b"/>
+<l nomo="c_m" kodo="#x043c"/>
+<l nomo="c_n" kodo="#x043d"/>
+<l nomo="c_o" kodo="#x043e"/>
+<l nomo="c_p" kodo="#x043f"/>
+<l nomo="c_ja" kodo="#x044f"/>
+<l nomo="c_r" kodo="#x0440"/>
+<l nomo="c_s" kodo="#x0441"/>
+<l nomo="c_t" kodo="#x0442"/>
+<l nomo="c_u" kodo="#x0443"/>
+<l nomo="c_zh" kodo="#x0436"/>
+<l nomo="c_v" kodo="#x0432"/>
+<l nomo="c_mol" kodo="#x044c"/>
+<l nomo="c_y" kodo="#x044b"/>
+<l nomo="c_z" kodo="#x0437"/>
+<l nomo="c_sh" kodo="#x0448"/>
+<l nomo="c_e" kodo="#x044d"/>
+<l nomo="c_shch" kodo="#x0449"/>
+<l nomo="c_ch" kodo="#x0447"/>
+<l nomo="c_malmol" kodo="#x044a"/>
+
+<l nomo="c_jo" kodo="#x0451"/>
+<l nomo="c_w" kodo="#x045E"/>
+<l nomo="c_ib" kodo="#x0456"/>
+<l nomo="c_gu" kodo="#x0491"/>
+<l nomo="c_jeu" kodo="#x0454"/>
+<l nomo="c_ji" kodo="#x0457"/>
+
+<!-- chehhaj, slovakaj kaj polaj -->
+<l nomo="Ccaron" kodo="#x010c"/>
+<l nomo="ccaron" kodo="#x010d"/>
+<l nomo="Scaron" kodo="#x0160"/>
+<l nomo="scaron" kodo="#x0161"/>
+<l nomo="Rcaron" kodo="#x0158"/>
+<l nomo="rcaron" kodo="#x0159"/>
+<l nomo="Yacute" kodo="#x00dd"/>
+<l nomo="yacute" kodo="#x00fd"/>
+<l nomo="Zcaron" kodo="#x017d"/>
+<l nomo="zcaron" kodo="#x017e"/>
+<l nomo="Zdot  " kodo="#x017b"/>
+<l nomo="zdot  " kodo="#x017c"/>
+<l nomo="Ncaron" kodo="#x0147"/>
+<l nomo="ncaron" kodo="#x0148"/>
+<l nomo="Ecaron" kodo="#x011a"/>
+<l nomo="ecaron" kodo="#x011b"/>
+<l nomo="Dcaron" kodo="#x010e"/>
+<l nomo="dcaron" kodo="#x010f"/>
+<l nomo="Tcaron" kodo="#x0164"/>
+<l nomo="tcaron" kodo="#x0165"/>    
+<l nomo="Uring " kodo="#x016e"/>
+<l nomo="uring " kodo="#x016f"/>
+
+<l nomo="Lacute" kodo="#x0139"/>
+<l nomo="lacute" kodo="#x013a"/>
+<l nomo="Lcaron" kodo="#x013d"/>
+<l nomo="lcaron" kodo="#x013e"/>
+<l nomo="Racute" kodo="#x0154"/>
+<l nomo="racute" kodo="#x0155"/>
+
+<l nomo="Aogonek" kodo="#x0104"/>
+<l nomo="aogonek" kodo="#x0105"/>
+<l nomo="Lstroke" kodo="#x0141"/>
+<l nomo="lstroke" kodo="#x0142"/>
+<l nomo="Eogonek" kodo="#x0118"/>
+<l nomo="eogonek" kodo="#x0119"/>
+<l nomo="Cacute" kodo="#x0106"/>
+<l nomo="cacute" kodo="#x0107"/>
+<l nomo="Nacute" kodo="#x0143"/>
+<l nomo="nacute" kodo="#x0144"/>
+<l nomo="Sacute" kodo="#x015a"/>
+<l nomo="sacute" kodo="#x015b"/>
+<l nomo="Zacute" kodo="#x0179"/>
+<l nomo="zacute" kodo="#x017a"/>
+
+<l nomo="alef" kodo="#x05d0"/>
+<l nomo="bet" kodo="#x05d1"/>
+<l nomo="gimel" kodo="#x05d2"/>
+<l nomo="dalet" kodo="#x05d3"/>
+<l nomo="he" kodo="#x05d4"/>
+<l nomo="vav" kodo="#x05d5"/>
+<l nomo="zayin" kodo="#x05d6"/>
+<l nomo="het" kodo="#x05d7"/>
+<l nomo="tet" kodo="#x05d8"/>
+<l nomo="yod" kodo="#x05d9"/>
+<l nomo="fkaf" kodo="#x05da"/>
+<l nomo="kaf" kodo="#x05db"/>
+<l nomo="lamed" kodo="#x05dc"/>
+<l nomo="fmem" kodo="#x05dd"/>
+<l nomo="mem" kodo="#x05de"/>
+<l nomo="fnun" kodo="#x05df"/>
+<l nomo="nun" kodo="#x05e0"/>
+<l nomo="samekh" kodo="#x05e1"/>
+<l nomo="ayin" kodo="#x05e2"/>
+<l nomo="fpe" kodo="#x05e3"/>
+<l nomo="pe" kodo="#x05e4"/>
+<l nomo="ftsadi" kodo="#x05e5"/>
+<l nomo="tsadi" kodo="#x05e6"/>
+<l nomo="qof" kodo="#x05e7"/>
+<l nomo="resh" kodo="#x05e8"/>
+<l nomo="shin" kodo="#x05e9"/>
+<l nomo="tav" kodo="#x05ea"/>
+
+<!-- hungaraj -->
+
+<!-- evitu, char shajne ne launormaj liternomoj -->
+<!-- l nomo="Odacute" kodo="#x0150"/>
+<l nomo="odacute" kodo="#x0151"/>
+<l nomo="Udacute" kodo="#x0170"/>
+<l nomo="udacute" kodo="#x0171"/ -->
+
+<!-- uzu tiujn anstataue -->
+<l nomo="Odblac" kodo="#x0150"/>
+<l nomo="odblac" kodo="#x0151"/>
+<l nomo="Udblac" kodo="#x0170"/>
+<l nomo="udblac" kodo="#x0171"/>
+
+<!-- latvaj -->
+
+<l nomo="amacron" kodo="#257"/> 
+<l nomo="emacron" kodo="#275"/>
+<l nomo="gcommaaccent" kodo="#291"/> 
+<l nomo="imacron" kodo="#299"/> 
+<l nomo="kcommaaccent" kodo="#311"/> 
+<l nomo="lcommaaccent" kodo="#316"/>
+<l nomo="ncommaaccent" kodo="#326"/> 
+<l nomo="omacron" kodo="#333"/> 
+<l nomo="rcommaaccent" kodo="#343"/> 
+<l nomo="umacron" kodo="#363"/> 
+
+<l nomo="Amacron" kodo="#256"/>
+<l nomo="Emacron" kodo="#274"/>
+<l nomo="Gcommaaccent" kodo="#290"/>
+<l nomo="Imacron" kodo="#298"/>
+<l nomo="Kcommaaccent" kodo="#310"/>
+<l nomo="Lcommaaccent" kodo="#315"/>
+<l nomo="Ncommaaccent" kodo="#325"/>
+<l nomo="Omacron" kodo="#332"/>
+<l nomo="Rcommaaccent" kodo="#342"/>
+<l nomo="Umacron" kodo="#362"/>
+
+
+<!-- kimraj -->
+
+<l nomo="Ycirc" kodo="#x0176"/>
+<l nomo="ycirc" kodo="#x0177"/>
+<l nomo="Wgrave" kodo="#x1e80"/>
+<l nomo="wgrave" kodo="#x1e81"/>
+<l nomo="Wacute" kodo="#x1e82"/>
+<l nomo="wacute" kodo="#x1e83"/>
+<l nomo="Wuml" kodo="#x1e84"/>
+<l nomo="wuml" kodo="#x1e85"/>
+<l nomo="Ygrave" kodo="#x1ef2"/>
+<l nomo="ygrave" kodo="#x1ef3"/>
+<l nomo="Wcirc" kodo="#x0174"/>
+<l nomo="wcirc" kodo="#x0175"/>
+<l nomo="Yuml" kodo="#x0178"/>
+<l nomo="yuml" kodo="#x00ff"/>
+
+<!-- Signoj de la araba skribo. -->
+<l   nomo="a_komo"           kodo="#x060C"/>
+<l   nomo="a_punktokomo"     kodo="#x061B"/>
+<l   nomo="a_demando"        kodo="#x061F"/>
+<l   nomo="a_hamza"          kodo="#x0621"/>
+<l   nomo="a_A_madda"        kodo="#x0622"/>
+<l   nomo="a_A_hamza_sure"   kodo="#x0623"/>
+<l   nomo="a_w_hamza"        kodo="#x0624"/>
+<l   nomo="a_A_hamza_sube"   kodo="#x0625"/>
+<l   nomo="a_y_hamza"        kodo="#x0626"/>
+<l   nomo="a_A"              kodo="#x0627"/>
+<l   nomo="a_b"              kodo="#x0628"/>
+<l   nomo="a_t_marbuta"      kodo="#x0629"/>
+<l   nomo="a_t"              kodo="#x062A"/>
+<l   nomo="a_th"             kodo="#x062B"/>
+<l   nomo="a_j"              kodo="#x062C"/>
+<l   nomo="a_H"              kodo="#x062D"/>
+<l   nomo="a_kh"             kodo="#x062E"/>
+<l   nomo="a_d"              kodo="#x062F"/>
+<l   nomo="a_dh"             kodo="#x0630"/>
+<l   nomo="a_r"              kodo="#x0631"/>
+<l   nomo="a_z"              kodo="#x0632"/>
+<l   nomo="a_s"              kodo="#x0633"/>
+<l   nomo="a_sh"             kodo="#x0634"/>
+<l   nomo="a_S"              kodo="#x0635"/>
+<l   nomo="a_D"              kodo="#x0636"/>
+<l   nomo="a_T"              kodo="#x0637"/>
+<l   nomo="a_Z"              kodo="#x0638"/>
+<l   nomo="a_ayn"            kodo="#x0639"/>
+<l   nomo="a_gh"             kodo="#x063A"/>
+<l   nomo="a_tatwil"         kodo="#x0640"/>
+<l   nomo="a_f"              kodo="#x0641"/>
+<l   nomo="a_q"              kodo="#x0642"/>
+<l   nomo="a_k"              kodo="#x0643"/>
+<l   nomo="a_l"              kodo="#x0644"/>
+<l   nomo="a_m"              kodo="#x0645"/>
+<l   nomo="a_n"              kodo="#x0646"/>
+<l   nomo="a_h"              kodo="#x0647"/>
+<l   nomo="a_w"              kodo="#x0648"/>
+<l   nomo="a_A_maqsura"      kodo="#x0649"/>
+<l   nomo="a_y"              kodo="#x064A"/>
+<l   nomo="a_fathatan"       kodo="#x064B"/>
+<l   nomo="a_dammatan"       kodo="#x064C"/>
+<l   nomo="a_kasratan"       kodo="#x064D"/>
+<l   nomo="a_fatha"          kodo="#x064E"/>
+<l   nomo="a_damma"          kodo="#x064F"/>
+<l   nomo="a_kasra"          kodo="#x0650"/>
+<l   nomo="a_shadda"         kodo="#x0651"/>
+<l   nomo="a_sukun"          kodo="#x0652"/>
+<l   nomo="a_madda_sure"     kodo="#x0653"/>
+<l   nomo="a_hamza_sure"     kodo="#x0654"/>
+<l   nomo="a_hamza_sube"     kodo="#x0655"/>
+<l   nomo="a_A_sube"         kodo="#x0656"/>
+<l   nomo="a_0"              kodo="#x0660"/>
+<l   nomo="a_1"              kodo="#x0661"/>
+<l   nomo="a_2"              kodo="#x0662"/>
+<l   nomo="a_3"              kodo="#x0663"/>
+<l   nomo="a_4"              kodo="#x0664"/>
+<l   nomo="a_5"              kodo="#x0665"/>
+<l   nomo="a_6"              kodo="#x0666"/>
+<l   nomo="a_7"              kodo="#x0667"/>
+<l   nomo="a_8"              kodo="#x0668"/>
+<l   nomo="a_9"              kodo="#x0669"/>
+<l   nomo="a_procento"       kodo="#x066A"/>
+<l   nomo="a_dekumakomo"     kodo="#x066B"/>
+<l   nomo="a_milumakomo"     kodo="#x066C"/>
+<l   nomo="a_asterisko"      kodo="#x066D"/>
+<l   nomo="a_A_sure"         kodo="#x0670"/>
+<l   nomo="a_A_wasla"        kodo="#x0671"/>
+<l   nomo="f_p"              kodo="#x067E"/>
+<l   nomo="f_ch"             kodo="#x0686"/>
+<l   nomo="f_zh"             kodo="#x0698"/>
+<l   nomo="f_k"              kodo="#x06A9"/>
+<l   nomo="f_g"              kodo="#x06AF"/>
+<l   nomo="u_hy"             kodo="#x06C0"/>
+<l   nomo="f_y"              kodo="#x06CC"/>
+<l   nomo="f_0"              kodo="#x06F0"/>
+<l   nomo="f_1"              kodo="#x06F1"/>
+<l   nomo="f_2"              kodo="#x06F2"/>
+<l   nomo="f_3"              kodo="#x06F3"/>
+<l   nomo="f_4"              kodo="#x06F4"/>
+<l   nomo="f_5"              kodo="#x06F5"/>
+<l   nomo="f_6"              kodo="#x06F6"/>
+<l   nomo="f_7"              kodo="#x06F7"/>
+<l   nomo="f_8"              kodo="#x06F8"/>
+<l   nomo="f_9"              kodo="#x06F9"/>
+<l   nomo="a_fatha_A"        kodo="a_fatha;&amp;a_A"/>
+<l   nomo="a_kasra_y"        kodo="a_kasra;&amp;a_y"/>
+<l   nomo="a_damma_w"        kodo="a_damma;&amp;a_w"/>
+
+<!-- Formatsignoj. -->
+<l   nomo="zwnj"             kodo="#x200C"/>
+<l   nomo="zwj"              kodo="#x200D"/>
+<l   nomo="lrm"              kodo="#x200E"/>
+<l   nomo="rlm"              kodo="#x200F"/>
+<l   nomo="lre"              kodo="#x202A"/>
+<l   nomo="rle"              kodo="#x202B"/>
+<l   nomo="pdf"              kodo="#x202C"/>
+<l   nomo="lro"              kodo="#x202D"/>
+<l   nomo="rlo"              kodo="#x202E"/>
+
+</literoj>
+
+
+

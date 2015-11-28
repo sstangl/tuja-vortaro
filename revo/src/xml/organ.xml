@@ -1,0 +1,280 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: organ.xml,v 1.27 2015/07/21 22:10:16 revo Exp $">
+<kap>
+<ofc>1</ofc>
+<rad>organ</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="organ.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="organ.0o.KOMUNE">
+    <dif>
+      Ero plenumanta apartan funkcion ene de tuto.
+    </dif>
+    <subsnc mrk="organ.0o.BIO">
+      <uzo tip="fak">ANA</uzo>
+      <uzo tip="fak">BIO</uzo>
+      <dif>
+        Difinita &ccirc;elaro en vivanta <ref tip="malprt"
+        cel="korp.0o.ANA">korpo</ref> plenumanta specialan funkcion:
+        <ekz>
+          okulo estas la <tld/>o de la vidado;
+        </ekz>
+        <ekz>
+          la <tld/>oj de la parolo.
+        </ekz>
+      </dif>
+      <trd lng="de">Organ</trd>
+      <trd lng="hu">szerv</trd>
+      <trd lng="nl">orgaan</trd>
+      <trd lng="ru">&c_o;&c_r;&c_g;&c_a;&c_n;</trd>
+      <trd lng="sv">organ</trd>
+    </subsnc>
+    <subsnc mrk="organ.0o.TEK">
+      <uzo tip="fak">TEK</uzo>
+      <dif>
+        En <ref tip="malprt" cel="masxin.0o.TEK">ma&scirc;ino</ref>,
+        &ccirc;iu ero destinita por plenumi specialan funkcion:
+        <ekz>
+          la <tld/>oj de lokomotivo, de horlo&gcirc;o.
+        </ekz>
+      </dif>
+      <refgrp tip="vid">
+        <ref cel="pec.0o">peco</ref>
+      </refgrp>
+      <rim>
+        <ref tip="vid" cel="blok.0o.agregata">Bloko</ref> implicas
+        kunan aran&gcirc;on (pecoj kune muntitaj), <tld/>o emfazas
+        difinitan funkcion.
+      </rim>
+      <trdgrp lng="de">
+        <trd>Teil</trd>,
+        <trd>Bauteil</trd>,
+        <trd>Aggregat</trd>
+      </trdgrp>
+      <trd lng="hu">m&udblac;k&ouml;d&odblac;
+      <ind>egys&eacute;g</ind></trd>
+      <trd lng="nl">onderdeel</trd>
+      <trd lng="ru">&c_f;&c_u;&c_n;&c_k;&c_c;&c_i;&c_o;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_y;&c_j; &c_k;&c_o;&c_m;&c_p;&c_o;&c_n;&c_je;&c_n;&c_t;</trd>
+    </subsnc>
+  </snc>
+  <snc mrk="organ.0o.JXU">
+    <dif>
+      Iu a&ubreve; io esprimanta la pensojn de grupo da homoj:
+      <ekz>
+        tiu oratoro estis nur la <tld/>o de la reakciuloj;
+      </ekz>
+      <ekz>
+        &jcirc;urnalo, kiu estas la <tld/>o de la registaro;
+      </ekz>
+      <ekz>
+        la Oficiala Bulteno estas la <tld/>o de la L. K.
+      </ekz>
+    </dif>
+    <trd lng="de">Organ</trd>
+    <trd lng="hu">org&aacute;num</trd>
+    <trd lng="nl">orgaan</trd>
+    <trd lng="ru">&c_o;&c_r;&c_g;&c_a;&c_n;</trd>
+  </snc>
+  <trd lng="be">&c_a;&c_r;&c_g;&c_a;&c_n;</trd>
+  <trdgrp lng="cs">
+    <trd>instituce</trd>,
+    <trd>org&aacute;n</trd>
+  </trdgrp>
+  <trd lng="en">organ</trd>
+  <trd lng="es">&oacute;rgano</trd>
+  <trd lng="fr">organe</trd>
+  <trd lng="it">organo</trd>
+  <trdgrp lng="pl">
+    <trd>narz&aogonek;d</trd>,
+    <trd>organ</trd>,
+  </trdgrp>
+  <trd lng="pt">&oacute;rg&atilde;o</trd>
+  <trdgrp lng="sk">
+    <trd>in&scaron;tit&uacute;cia</trd>,
+    <trd>org&aacute;n</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="organ.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="organ.0a.KOMUNE">
+    <dif>
+      Rilata al <tld/>o:
+      <ekz>
+        <tld/>a malsano, difekto;
+      </ekz>
+      <ekz>
+        ili kredigas, kvaza&ubreve; lingvo estas objekto natura,
+        <tld/>a, kiu dependas de apartaj fiziologiaj ecoj
+        de la <tld/>oj de parolo<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">organisch</trd>
+    <trd lng="hu">szervi</trd>
+  </snc>
+  <snc mrk="organ.0a.BIO">
+    <uzo tip="fak">ANA</uzo>
+    <uzo tip="fak">BIO</uzo>
+    <dif>
+      <tld lit="O"/>hava, posedanta <tld/>ojn:
+      <ekz>
+        viva <tld/>a kreita&jcirc;o.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_r;&c_g;&c_a;&c_n;&c_n;&c_y;</trd>,
+    <trd>&c_a;&c_r;&c_g;&c_a;&c_n;&c_ib;&c_ch;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trd lng="cs">organick&yacute;</trd>
+  <trd lng="en">organic</trd>
+  <trd lng="fr">organique</trd>
+  <trd lng="hu">szerves</trd>
+  <trd lng="it">organico</trd>
+  <trd lng="nl">organisch</trd>
+  <trdgrp lng="pl">
+    <trd>dotycz&aogonek;cy narz&aogonek;du</trd>,
+    <trd>organu</trd>,
+  </trdgrp>
+  <trd lng="pt">org&acirc;nico</trd>
+  <trdgrp lng="sk">
+    <trd>organick&yacute;</trd>,
+    <trd>&uacute;strojn&yacute;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="organ.0aro">
+  <kap><tld/>aro</kap>
+  <snc mrk="organ.0aro.BIO">
+    <uzo tip="fak">ANA</uzo>
+    <uzo tip="fak">BIO</uzo>
+    <dif>
+      Tuto de <tld/>oj, ordinare kun komuna rolo a&ubreve; utilo;
+      <ref tip="sin" cel="aparat.0o.BIO">aparato<sncref/></ref>:
+      <ekz>
+        la digesta <tld/>aro inflami&gcirc;is
+      <fnt>
+        <aut>Vikipedio</aut>,
+        <vrk><url
+        ref="http://eo.wikipedia.org/wiki/&Hcirc;olero">&Hcirc;olero</url></vrk>
+      </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="organi1.0o">organismo</ref>,
+      <ref cel="sistem.0o.FIZL">sistemo<sncref/></ref>
+    </refgrp>        
+  </snc>
+  <trd lng="cs">soubor org&aacute;n&uring;</trd>
+  <trd lng="en">system<klr tip="amb"> (biological)</klr></trd>
+  <trdgrp lng="fr">
+    <trd>appareil<klr tip="amb"> (anatomie)</klr></trd>,
+    <trd>syst&egrave;me<klr tip="amb"> (organique)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="it">
+    <trd>organismo<klr> (l'insieme di organi)</klr></trd>,
+    <trd>sistema<klr> (apparato organico)</klr></trd>,
+    <trd>apparato<klr> (sistema di organi)</klr></trd>
+  </trdgrp>
+  <trd lng="sk">s&uacute;bor org&aacute;nov</trd>
+</drv>
+
+<drv mrk="organ.0eto">
+  <kap><tld/>eto</kap>
+  <snc mrk="organ.0eto.FIZL">
+    <uzo tip="fak">FIZL</uzo>
+    <dif>
+      Iu el la grajnetoj videblaj en
+      <ref tip="malprt" cel="cxel.0o.BIO">&ccirc;elo</ref>plasmo,
+      plenumanta propran funkcion:
+      <ekz>
+        e&ubreve;kariotoj estas pli grandaj ol prokariotoj, kaj havas pli 
+        komplikan internan strukturon, kun diversaj <tld/>etoj
+        <fnt>
+          <aut>K. Lendon</aut>,
+          <vrk>Proterozoika Erao</vrk>,
+          <lok><url
+          ref="http://groups.yahoo.com/group/aeko/message/845">
+          aeko</url>, 2002-06-20</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">organite</trd>
+  <trdgrp lng="it">
+    <trd>organello</trd>,
+    <trd>organulo</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="organ.lum0o">
+  <kap>lum<tld/>o</kap>
+  <snc mrk="organ.lum0o.ZOO">
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      <tld lit="O"/>o nature lumanta, trovebla precipe &ccirc;e fi&scirc;oj kaj 
+      cefalopodoj de profunda maro:
+      <ekz>
+        tiu <klr>...</klr> markankreto posedas, kiel 
+        <em>Acanthephyra</em> kaj aliaj, lum<tld/>ojn
+        <fnt>
+          <aut>J. Richard</aut>,
+          <vrk><url
+          ref="http://www.forgottenbooks.com/readbook_text/Bulletin_de_LInstitut_OceYanographique_1905_1200159697/299">
+          Scienca krozado de la &scirc;ipo Princesse Alice dum
+          1904</url></vrk>,
+          <lok>Bulletin du Mus&eacute;e Oc&eacute;anographique de Monaco, 1905-06-25 
+          (41)</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">photophore<klr> (organe)</klr></trd>
+</drv>
+
+<drv mrk="organ.sen0a">
+  <kap>sen<tld/>a</kap>
+  <snc mrk="organ.sen0a.BIO">
+    <uzo tip="fak">ANA</uzo>
+    <uzo tip="fak">BIO</uzo>
+    <dif>
+      Ne posedanta <tld/>ojn:
+      <ekz>
+        sen<tld/>aj bestetoj de la maro.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">anorganique</trd>
+  <trd lng="hu">szervetlen</trd>
+  <trd lng="nl">orgaanloos</trd>
+</drv>
+</art>
+<!--
+$Log: organ.xml,v $
+Revision 1.27  2015/07/21 22:10:16  revo
+Jeromo Vasxe: + lum~o
+
+Revision 1.26  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.25  2015/06/29 16:33:21  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.24  2015/01/10 06:11:02  revo
+Alain Gerard: +fnt
+
+Revision 1.23  2014/12/30 21:10:15  revo
+Alain Gerard: +trd (en,fr)
+
+Revision 1.22  2010/12/05 17:30:30  revo
+Antonio Codazzi: ++trd it
+
+Revision 1.21  2010/09/20 16:30:22  revo
+Jeromo Vasxe: + ~eto
+
+Revision 1.20  2009/03/15 17:31:01  revo
+-->
+</vortaro>

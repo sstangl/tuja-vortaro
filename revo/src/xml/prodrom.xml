@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: prodrom.xml,v 1.5 2015/07/04 08:37:42 revo Exp $">
+<kap>
+  <rad>prodrom</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="prodrom.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="stl">RAR</uzo>
+  <snc mrk="prodrom.0o.MED">
+    <uzo tip="fak">MED</uzo>
+    <dif>
+      <ref tip="vid" cel="sign.antaux0o">Anta&ubreve;signo</ref>,
+      anta&ubreve;<ref tip="vid" cel="simpto.0o.MED">simptomo</ref>
+      de okazonta malsani&gcirc;o:
+      <ekz>
+        premson&gcirc;oj <klr>...</klr> min iom perpleksigas.  &Ccirc;u
+        <tld/>oj de frenezi&gcirc;o
+        <fnt><aut>E. de Zilah</aut>, <vrk>Vivi sur barko</vrk>, 
+        <lok>1994</lok></fnt>?
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="bg">
+    <trd>&c_p;&c_r;&c_o;&c_d;&c_r;&c_o;&c_m;</trd>,
+    <trd>&c_p;&c_r;&c_je;&c_d;&c_sh;&c_je;&c_s;&c_t;&c_v;&c_u;&c_v;&c_a;&c_shch; &c_s;&c_i;&c_m;&c_p;&c_t;&c_o;&c_m;</trd>
+  </trdgrp>
+  <trd lng="ca">pr&ograve;drom</trd>
+  <trd lng="cs">prodromus</trd>
+  <trd lng="en">prodrome</trd>
+  <trdgrp lng="fr">
+    <trd>signe avant-coureur</trd>,
+    <trd>prodrome</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>prodromale</trd>,
+    <trd>voorloper</trd>
+  </trdgrp>
+  <trd lng="sk">prodromus</trd>
+</drv>
+</art>
+
+<!--
+$Log: prodrom.xml,v $
+Revision 1.5  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.4  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.3  2013/09/02 15:10:31  revo
+Joop Eggen: +trd bg en nl
+
+Revision 1.2  2012/01/03 08:10:15  revo
+Marc Rausell: +trd ca
+
+Revision 1.1  2012/01/02 15:10:10  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

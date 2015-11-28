@@ -1,0 +1,213 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: rivolu.xml,v 1.19 2015/07/04 08:37:42 revo Exp $">
+<kap>
+  <ofc>8</ofc>
+  <rad>rivolu</rad>/o
+</kap>
+<drv mrk="rivolu.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="rivolu.0o.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <uzo tip="fak">FIZ</uzo>
+    <fnt><bib>PV</bib></fnt>
+    <uzo tip="klr">(kinematiko)</uzo>
+    <dif>
+      Tia <ref cel="rotaci.0o.kinematiko">rotacio</ref> de solido,
+      ke tiu revenas al sia origina pozicio.
+    </dif>
+    <rim>
+      Tiu termino fakte ne estas uzata en matematiko, sed iel pravigas 
+      la alifakajn sencojn.
+    </rim>
+  </snc>
+  <snc mrk="rivolu.0o.TEK">
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      Movo de io, kio faras kompletan turni&gcirc;on &ccirc;irka&ubreve;
+      <ref cel="aks.0o.TEK">akso</ref>:
+      <ekz>
+        je la rapideco de 100 km/h la rado de mia a&ubreve;to faras
+        pli ol dek <tld/>ojn en &ccirc;iu sekundo.
+      </ekz>
+    </dif>
+    <adm>
+      Mankas auxtoritataj ekzemploj. <aut>MB</aut>
+    </adm>
+  </snc>
+  <snc mrk="rivolu.0o.AST">
+    <uzo tip="fak">AST</uzo>
+    <dif>
+      Movo de astro, kiu turni&gcirc;as la&ubreve; sia orbito &gcirc;is reveno
+      al la deirpunkto:
+      <ekz>
+        la <tld/>o de nia terglobo &ccirc;irka&ubreve; la suno da&ubreve;ras
+        proksimume 365 tagojn;
+      </ekz>
+      <ekz>
+        dum siaj <tld/>oj la planedoj la&ubreve;iras elipsajn orbitojn.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>obrátka</trd>,
+    <trd>oběh</trd>,
+    <trd>otáčka</trd>
+  </trdgrp>
+  <trd lng="de">Umdrehung</trd>
+  <trd lng="en">revolution</trd>
+  <trd lng="fr">r&eacute;volution<klr tip="ind"> (rotation)</klr></trd>
+  <trd lng="hu">fordulat</trd>
+  <trd lng="nl">omwenteling</trd>
+  <trd lng="pt">revolu&ccedil;&atilde;o</trd>
+  <trd lng="ru">&c_o;&c_b;&c_o;&c_r;&c_o;&c_t;</trd>
+  <trdgrp lng="sk">
+    <trd>obrátka o 360 stupňov</trd>,
+    <trd>otočenie</trd>,
+    <trd>otáčka</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="rivolu.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="rivolu.0a.gxenerale">
+    <dif>
+      Rilata al <tld/>o:
+      <ekz>
+        <tld/>a movo;
+      </ekz>
+      <ekz>
+        <tld/>a akso de figuro <klr>(akso de la rotacioj, per kiuj la
+        surfaco estas entute sen&scirc;an&gcirc;a)</klr>.
+      </ekz>
+    </dif>
+    <trd lng="ru">&c_v;&c_r;&c_a;&c_shch;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
+  </snc>
+  <snc mrk="rivolu.0a.figuro">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>PV</bib></fnt>
+    <dif>
+      <klr>(p.p. <ref cel="solid.0o.geometrio">solido</ref> a&ubreve;
+      <ref cel="surfac.0o.MAT">surfaco</ref>)</klr>
+      Tia, ke &gcirc;i estas entute sen&scirc;an&gcirc;a per &ccirc;iu
+      <ref cel="rotaci.0o.afina">rotacio</ref> &ccirc;irka&ubreve;
+      difinita <ref cel="aks.0o.MAT">akso</ref> <klr>(alidire: &gcirc;i enhavas
+      la bildon de &ccirc;iu &gcirc;ia punkto per tiuj rotacioj)</klr>:
+      <ekz>
+        cirklaj <ref cel="cilind.0o.surfaco">cilindro</ref> kaj
+        <ref cel="konus.0o.surfaco">konuso</ref> estas <tld/>aj surfacoj.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="rotaci.0a.rivolua">rotacia.</ref>
+    <rim>
+      <tld lit="R"/>an surfacon (resp. solidon) oni povas intuicie prezenti
+      al si, kiel spuron, lasitan de iu ebena kurbo (resp. surfaco),
+      kiu <tld/>as &ccirc;irka&ubreve; rekto, ku&scirc;anta en &gcirc;ia ebeno.
+      Kelkaj preferas uzi &gcirc;ian sinonimon <ctl>rotacia</ctl>, opiniante
+      ke la radiko <ctl><tld/></ctl> ne respondas al vera bezono de la
+      lingvo. Rimarkindas, ke la termino aperas jam &ccirc;e Bricard
+      <fnt><bib>MatTerm</bib><lok>p. 30</lok></fnt>, sed sub formo
+      <ctl>revolua</ctl>.
+    </rim>
+    <trd lng="de">Dreh-<klr tip="amb">(k&ouml;rper, fl&auml;che)</klr></trd>
+    <trd lng="en"><klr tip="amb">(body, surface) </klr>of
+    <ind>revolution</ind></trd>
+    <trd lng="fr"><klr tip="amb">(solide, surface) </klr>de
+    <ind>r&eacute;volution</ind></trd>
+    <trd lng="nl">omwentelings-</trd>
+    <trdgrp lng="pl">
+      <trd><klr tip="amb">(bry&lstroke;a) </klr>obrotowa</trd>,
+      <trd><klr tip="amb">(powierzchnia) </klr>obrotowa</trd></trdgrp> 
+    <trd lng="ru"><klr tip="amb">(&c_t;&c_je;&c_l;&c_o;, &c_p;&c_o;&c_v;&c_je;&c_r;&c_h;&c_n;&c_o;&c_s;&c_t;&c_mol;)
+    </klr><ind>&c_v;&c_r;&c_a;&c_shch;&c_je;&c_n;&c_i;&c_ja;</ind></trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>otáčivý</trd>,
+    <trd>rotační</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>otáčavý</trd>,
+    <trd>rotačný</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="rivolu.0i">
+  <kap><tld/>i</kap>
+  <snc>
+    <dif>
+      Fari <tld/>ojn:
+      <ekz>
+        la helico ne <tld/>as sufi&ccirc;e rapide;
+      </ekz>
+      <ekz>
+        <tld/>anta satelito;
+      </ekz>
+      <ekz>
+        orta triangulo, <tld/>anta &ccirc;irka&ubreve; latero de
+        &gcirc;ia orto, naskas konuson.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="ir.rond0i">rondiri</ref>,
+      <ref cel="rotaci.0i">rotacii</ref>.
+    </refgrp>
+    <rim>
+      La senca diferenco inter <ctl><tld/>i</ctl> kaj <ctl>rotacii</ctl> ne
+      estas tre granda, sed, parolante pri astro a&ubreve; satelito, eblas
+      distingi la rotaciadon &ccirc;irka&ubreve; la propra akso kaj la
+      rivoluadon la&ubreve; &gcirc;ia gravita orbito.
+    </rim>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>rotovat  otáčet se</trd>,
+    <trd>točit se kolem osy</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>tourner<klr tip="ind"> (effectuer une r&eacute;volution)</klr></trd>,
+    <trd>effectuer une <ind>r&eacute;volution</ind><klr tip="ind">
+    (tourner)</klr></trd>
+  </trdgrp>
+  <trd lng="hu">fordul<klr tip="ind"> (k&ouml;rbe)</klr></trd>
+  <trd lng="nl">een <ind>omwenteling</ind> maken</trd>
+  <trd lng="ru">&c_o;&c_b;&c_r;&c_a;&c_shch;&c_a;&c_t;&c_mol;&c_s;&c_ja; <klr tip="amb">(&c_v;&c_o;&c_k;&c_r;&c_u;&c_g; &c_ch;&c_je;&c_g;&c_o;-&c_l;.)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>otáčať sa okolo osi</trd>,
+    <trd>rotovať</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: rivolu.xml,v $
+Revision 1.19  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2006/02/24 17:31:52  revo
+Tulio Flores: +trd pt
+
+Revision 1.16  2003/01/02 17:50:47  revo
+Marc Bavant: +trd pl; ~o MAT: mod dif
+
+Revision 1.15  2002/08/24 17:31:23  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.14  2002/05/12 16:37:12  revo
+Marc Bavant: ~a: mod rim, mod klr en trd de; ~o: mor rim
+
+Revision 1.13  2002/05/02 16:35:08  revo
+Marc Bavant: ~a: mod rim (certa)
+
+Revision 1.12  2002/03/17 17:31:37  revo
+Marc Bavant: ~o MAT: +fnt, +trd en; ~a MAT: +fnt, mod rim
+
+Revision 1.11  2002/01/29 17:34:06  revo
+Yury Finkel: +trd ru
+
+Revision 1.10 2001/09/22 18:13:22 revo
+-->
+</vortaro>
+

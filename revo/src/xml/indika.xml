@@ -1,0 +1,132 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: indika.xml,v 1.21 2015/10/14 06:10:17 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>indikativ</rad>/o
+</kap>
+<drv mrk="indika.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">LIN</uzo>
+  <uzo tip="fak">GRA</uzo>
+  <snc mrk="indika.0o.gxenerale">
+    <dif>
+      <ref tip="super" cel="modal.0o.GRA.modo">Modalo</ref>,
+      prezentanta informon kiel realan fakton, sendepende
+      de kondi&ccirc;o a&ubreve; volo.
+    </dif>
+    <trdgrp lng="en">
+      <trd>declarative mood</trd>,
+      <trd>indicative mood</trd>
+    </trdgrp>
+    <trd lng="ru">&c_r;&c_je;&c_a;&c_l;&c_mol;&c_n;&c_a;&c_ja; &c_m;&c_o;&c_d;&c_a;&c_l;&c_mol;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
+  </snc>
+  <snc mrk="indika.0o.verba">
+    <dif>
+      <ref tip="super" cel="modal.verba0o">Verba modalo</ref>,
+      kiun havas la verboformoj en &ccirc;efpropozicioj de
+      la <ref tip="vid" cel="indika.0afrazo"><tld/>aj frazoj</ref>:
+      <ekz>
+        <ctl>mi vidas</ctl>, kaj <ctl>a&ubreve;dante</ctl> estas
+        ekzemploj pri verba <tld/>o.
+      </ekz>
+    </dif>
+    <rim>
+      En Esperanto la saman eksteran formon
+      (<ref cel="modus.0o.GRA">moduson</ref>) havas anka&ubreve; verboj
+      el demandaj kaj negaj propozicioj, kies senca modalo ne
+      estas <tld/>o<sncref ref="indika.0o.gxenerale"/>; en aliaj
+      lingvoj verboj de tiuj nerealaj modaloj ofte havas apartan
+      formon gramatikan. La tradicia terminaro de Esperanto
+      sekvas la formon, kaj klasas demandajn kaj negajn verbouzojn
+      kiel <tld/>on.
+      <aut>Sergio Pokrovskij</aut>
+    </rim>
+    <trdgrp lng="en">
+      <trd>fact mood</trd>,
+      <trd>indicative</trd>
+    </trdgrp>
+    <trd lng="fr">indicatif<klr tip="ind"> (gramm., subst.)</klr></trd>
+    <trd lng="ru">&c_i;&c_z;&c_malmol;&c_ja;&c_v;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_o;&c_je; &c_n;&c_a;&c_k;&c_l;&c_o;&c_n;&c_je;&c_n;&c_i;&c_je;</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>indikativ</trd>,
+    <trd>oznamovac&iacute; zp&uring;sob</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Wirklichkeitsform</trd>,
+    <trd>Indikativ</trd>
+  </trdgrp>
+  <trd lng="es">indicativo</trd>
+  <trdgrp lng="hu">
+    <trd>kijelent&odblac; <ind>m&oacute;d</ind></trd>,
+    <trd>indicativus</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>indicatief</trd>,
+    <trd>aantonende <ind>wijs</ind></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>tryb <ind>oznajmuj&aogonek;cy</ind></trd>,
+    <trd>indicativus</trd>
+  </trdgrp>
+  <trd lng="pt">indicativo<klr tip="amb"> (ling&uuml;&iacute;stica;
+  subst.)</klr></trd>
+  <trd lng="sk">oznamovac&iacute; sp&ocirc;sob</trd>
+</drv>
+
+<drv mrk="indika.0afrazo">
+  <kap><tld/>a frazo</kap>
+  <snc>
+  <uzo tip="fak">LIN</uzo>
+  <uzo tip="fak">GRA</uzo>
+    <dif>
+      <ref tip="super" cel="fraz.0o.GRA">Frazo</ref> esprimita
+      kiel konstato, fakto, aserto:
+      <ekz>
+        <ctl>Georgo Va&scirc;ington estis naskita la dudek duan de
+        februaro de la jaro mil sepcent tridek dua</ctl> estas
+        <tld/>a frazo.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="en">
+    <trd>narrative sentence</trd>,
+    <trd>clause of statement</trd>
+  </trdgrp>
+  <trd lng="hu">kijelent&odblac; <ind>mondat</ind></trd>
+  <trd lng="pl">zdanie <ind>oznajmuj&aogonek;ce</ind></trd>
+  <trdgrp lng="ru">
+    <trd>&c_i;&c_z;&c_malmol;&c_ja;&c_v;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_o;&c_je; &c_p;&c_r;&c_je;&c_d;&c_l;&c_o;&c_zh;&c_je;&c_n;&c_i;&c_je;</trd>,
+    <trd>&c_p;&c_o;&c_v;&c_je;&c_s;&c_t;&c_v;&c_o;&c_v;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_o;&c_je; &c_p;&c_r;&c_je;&c_d;&c_l;&c_o;&c_zh;&c_je;&c_n;&c_i;&c_je;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: indika.xml,v $
+Revision 1.21  2015/10/14 06:10:17  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.20  2015/09/23 14:10:19  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.19  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2013/12/25 10:10:13  revo
+Damien Brucker: +fak GRA
+
+Revision 1.16  2005/11/01 17:31:53  revo
+Luiz Portella: +trd pt
+
+Revision 1.15  2004/01/20 18:34:53  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.14  2003/09/18 16:31:31  revo
+-->
+</vortaro>

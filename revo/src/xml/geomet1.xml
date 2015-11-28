@@ -1,0 +1,290 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: geomet1.xml,v 1.29 2015/07/04 08:37:35 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>geometri</rad>/o
+</kap>
+<drv mrk="geomet1.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="geomet1.0o.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>MatTerm</bib><lok>p. 25</lok></fnt>
+    <dif>
+      Bran&ccirc;o de <ref tip="malprt" cel="matema.0o">matematiko</ref>,
+      kiu studas la tridimensian
+      <ref cel="spac.0o.MAT">spacon</ref> pere de &gcirc;iaj
+      <ref cel="punkt.0o.spaco">punktoj</ref>,
+      <ref cel="lini.0o.MAT">linioj</ref>,
+      <ref cel="surfac.0o.MAT">surfacoj</ref> kaj
+      <ref cel="solid.0o.geometrio">solidoj</ref>:
+      <ekz>
+        <ind>afina <tld/>o</ind>
+        <klr>(kadre de <ref cel="spac.afina0o">afina spaco</ref>)</klr>;
+        <trd lng="be">&c_a;&c_f;&c_ib;&c_n;&c_n;&c_a;&c_ja; <ind>&c_g;&c_je;&c_a;&c_m;&c_e;&c_t;&c_r;&c_y;&c_ja;</ind></trd>
+        <trd lng="ca"><ind>geometria</ind> af&iacute;</trd>
+        <trd lng="de">affine <ind>Geometrie</ind></trd>
+        <trd lng="en">affine <ind>geometry</ind></trd>
+        <trd lng="fa">&a_h;&a_n;&a_d;&a_s;&a_h;&a_hamza_sure; &a_A_madda;&a_f;&f_y;&a_n;</trd>
+        <trd lng="fr">g&eacute;om&eacute;trie affine</trd>
+        <trd lng="hu">affin <ind>geometria</ind></trd>        
+        <trd lng="nl">affiene <ind>meetkunde</ind></trd>
+        <trd lng="pl">geometria afiniczna</trd>
+        <trd lng="ru">&c_a;&c_f;&c_f;&c_i;&c_n;&c_n;&c_a;&c_ja;
+        <ind>&c_g;&c_je;&c_o;&c_m;&c_je;&c_t;&c_r;&c_i;&c_ja;</ind></trd>
+      </ekz>
+      <ekz>
+        <ind>elementa <tld/>o</ind>
+        <klr>(studanta tradiciajn figurojn en la tridimensia
+        spaco surbaze de fizike intuicia aksiomaro)</klr>;
+        <trd lng="be">&c_e;&c_l;&c_je;&c_m;&c_e;&c_n;&c_t;&c_a;&c_r;&c_n;&c_a;&c_ja;
+        <ind>&c_g;&c_je;&c_a;&c_m;&c_e;&c_t;&c_r;&c_y;&c_ja;</ind></trd>
+        <trd lng="ca"><ind>geometria</ind> elemental</trd>
+        <trd lng="de">Elementargeometrie</trd>
+        <trd lng="en">elementary <ind>geometry</ind></trd>
+        <trd lng="fa">&a_h;&a_n;&a_d;&a_s;&a_h;&a_hamza_sure; &a_m;&a_q;&a_d;&a_m;&a_A;&a_t;&f_y;</trd>
+        <trd lng="fr">g&eacute;om&eacute;trie &eacute;l&eacute;mentaire</trd>
+        <trd lng="hu">elemi <ind>geometria</ind></trd>        
+        <trd lng="nl">elementaire <ind>meetkunde</ind></trd>
+        <trd lng="pl">geometria elementarna</trd>
+        <trd lng="ru">&c_e;&c_l;&c_je;&c_m;&c_je;&c_n;&c_t;&c_a;&c_r;&c_n;&c_a;&c_ja;
+        <ind>&c_g;&c_je;&c_o;&c_m;&c_je;&c_t;&c_r;&c_i;&c_ja;</ind></trd>
+      </ekz>
+      <ekz>
+        <ind>e&ubreve;klida <tld/>o</ind>
+        <klr>(originale: bazita sur la postulato de
+        <ref cel="euxkli.0o">E&ubreve;klido</ref> pri paraleloj, nun: kadre de
+        <ref cel="spac.euxklida0o">e&ubreve;klida spaco</ref>)</klr>;
+        <trd lng="be">&c_e;&c_w;&c_k;&c_l;&c_ib;&c_d;&c_a;&c_v;&c_a;
+        <ind>&c_g;&c_je;&c_a;&c_m;&c_e;&c_t;&c_r;&c_y;&c_ja;</ind></trd>
+        <trd lng="ca"><ind>geometria</ind> euclidiana</trd>
+        <trd lng="de">Euklidische <ind>Geometrie</ind></trd>
+        <trd lng="en">Euclidean <ind>geometry</ind></trd>
+        <trd lng="es"><ind>geometr&iacute;a</ind> euclidiana</trd>
+        <trd lng="fa">&a_h;&a_n;&a_d;&a_s;&a_h;&a_hamza_sure; &a_A;&a_q;&a_l;&f_y;&a_d;&a_s;&f_y;</trd>
+        <trd lng="fr">g&eacute;om&eacute;trie euclidienne</trd>
+        <trd lng="hu">euklideszi <ind>geometria</ind></trd>        
+        <trd lng="nl">euclidische <ind>meetkunde</ind></trd>
+        <trd lng="pl">geometria euklidesowa</trd>
+        <trd lng="ru">&c_je;&c_v;&c_k;&c_l;&c_i;&c_d;&c_o;&c_v;&c_a;
+        <ind>&c_g;&c_je;&c_o;&c_m;&c_je;&c_t;&c_r;&c_i;&c_ja;</ind></trd>
+      </ekz>
+      <ekz>
+        <ind>nee&ubreve;klida <tld/>o</ind>
+        <klr>(ekz-e la&ubreve; <ref cel="riman.0o">Rimano</ref> a&ubreve;
+        Loba&ccirc;evskij)</klr>;
+        <trd lng="be">&c_n;&c_je;&c_e;&c_w;&c_k;&c_l;&c_ib;&c_d;&c_a;&c_v;&c_a;
+        <ind>&c_g;&c_je;&c_a;&c_m;&c_e;&c_t;&c_r;&c_y;&c_ja;</ind></trd>
+        <trd lng="ca"><ind>geometria</ind> no euclidiana</trd>
+        <trd lng="de">nichteuklidische <ind>Geometrie</ind></trd>
+        <trd lng="en">non-Euclidean <ind>geometry</ind></trd>
+        <trd lng="fa">&a_h;&a_n;&a_d;&a_s;&a_h;&a_hamza_sure; &a_n;&a_A;&a_A;&a_q;&a_l;&f_y;&a_d;&a_s;&f_y;</trd>
+        <trd lng="fr">g&eacute;om&eacute;trie non-euclidienne</trd>
+        <trd lng="hu">nemeuklideszi <ind>geometria</ind></trd>        
+        <trd lng="nl">niet-euclidische <ind>meetkunde</ind></trd>
+        <trd lng="pl">geometria nieeuklidesowa</trd>
+        <trd lng="ru">&c_n;&c_je;&c_je;&c_v;&c_k;&c_l;&c_i;&c_d;&c_o;&c_v;&c_a;
+        <ind>&c_g;&c_je;&c_o;&c_m;&c_je;&c_t;&c_r;&c_i;&c_ja;</ind></trd>
+      </ekz>
+      <ekz>
+        <ind>priskriba <tld/>o</ind>
+        <klr>(ebliganta la precizan ebenan prezentadon de spaca
+        figuro)</klr>;
+        <trd lng="be">&c_n;&c_a;&c_r;&c_y;&c_s;&c_n;&c_a;&c_ja;
+        <ind>&c_g;&c_je;&c_a;&c_m;&c_e;&c_t;&c_r;&c_y;&c_ja;</ind></trd>
+        <trd lng="ca"><ind>geometria</ind> descriptiva</trd>
+        <trd lng="de">darstellende <ind>Geometrie</ind></trd>
+        <trd lng="en">descriptive <ind>geometry</ind></trd>
+        <trd lng="es"><ind>geometr&iacute;a</ind> descriptiva</trd>
+        <trd lng="fa">&a_h;&a_n;&a_d;&a_s;&a_h;&a_hamza_sure; &a_t;&a_r;&a_s;&f_y;&a_m;&f_y;</trd>
+        <trd lng="fr">g&eacute;om&eacute;trie descriptive</trd>
+        <trd lng="hu">&aacute;br&aacute;zol&oacute; <ind>geometria</ind></trd>        
+        <trd lng="nl">beschrijvende <ind>meetkunde</ind></trd>
+        <trd lng="pl">geometria wykre&sacute;lna</trd>
+        <trd lng="ru">&c_n;&c_a;&c_ch;&c_je;&c_r;&c_t;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_a;&c_ja;
+        <ind>&c_g;&c_je;&c_o;&c_m;&c_je;&c_t;&c_r;&c_i;&c_ja;</ind></trd>
+      </ekz>
+      <ekz>
+        <ref tip="sub" cel="geomet1.analitika0o">analitika
+        <tld/>o</ref>.
+      </ekz>
+    </dif>
+    <trdgrp lng="hu">
+      <trd>m&eacute;rtan</trd>,
+      <trd>geometria</trd>
+    </trdgrp>
+    <trd lng="pl">geometria</trd>
+    <trd lng="pt">geometria</trd>
+  </snc>
+  <snc mrk="geomet1.0o.TEK">
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      Tuto de la <tld/>aj formoj de iu objekto kaj ilia influo sur &gcirc;ia
+      uzo:
+      <ekz>
+        niaj in&gcirc;enieroj longe pripensis la <tld/>on de tiu nova
+        aviadilo;
+      </ekz>
+      <ekz>
+        la <tld/>o de la &ccirc;ambro ebligis optimuman aran&gcirc;adon de la
+        mebloj.
+      </ekz>
+    </dif>
+    <trd lng="hu">geometria</trd>
+  </snc>
+  <trd lng="be">&c_g;&c_je;&c_a;&c_m;&c_e;&c_t;&c_r;&c_y;&c_ja;</trd>
+  <trd lng="ca">geometria</trd>
+  <trdgrp lng="cs">
+    <trd>geometrie</trd>,
+    <trd>měřičství</trd>
+  </trdgrp>
+  <trd lng="de">Geometrie</trd>
+  <trd lng="en">geometry</trd>
+  <trd lng="es">geometr&iacute;a</trd>
+  <trd lng="fa">&a_h;&a_n;&a_d;&a_s;&a_h;</trd>
+  <trd lng="fr">g&eacute;om&eacute;trie</trd>
+  <trdgrp lng="nl">
+    <trd>meetkunde</trd>,
+    <trd>geometrie</trd>
+  </trdgrp>
+  <trd lng="pt">geometria</trd>
+  <trd lng="ru">&c_g;&c_je;&c_o;&c_m;&c_je;&c_t;&c_r;&c_i;&c_ja;</trd>
+  <trd lng="sk">geometria</trd>
+  <trd lng="sv">geometri</trd>
+</drv>
+
+<drv mrk="geomet1.0a">
+  <kap><tld/>a</kap>
+  <uzo tip="fak">MAT</uzo>
+  <snc mrk="geomet1.0a.gxenerale">
+    <fnt><bib>MatTerm</bib><lok>p. 6</lok></fnt>
+    <dif>
+      Iel rilatanta al <ref cel="geomet1.0o"><tld/>o</ref>:
+      <ekz>
+        <tld/>a problemo.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="geomet1.0a.diversaj">
+    <refgrp tip="vid">
+      <ref cel="figur.geometria0o"><tld/>a figuro</ref>,
+      <ref cel="progre1.geometria0o"><tld/>a progresio</ref>,
+      <ref cel="nombr.mez0o">meznombro</ref>,
+      <ref cel="seri.0o.MAT">serio</ref>.
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_g;&c_je;&c_a;&c_m;&c_e;&c_t;&c_r;&c_y;&c_ch;&c_n;&c_y;</trd>
+  <trd lng="ca">geom&egrave;tric</trd>
+  <trd lng="cs">geometrický</trd>
+  <trd lng="de">geometrisch</trd>
+  <trd lng="en">geometric</trd>
+  <trd lng="es">geom&eacute;trico</trd>
+  <trd lng="fa">&a_h;&a_n;&a_d;&a_s;&f_y;</trd>
+  <trd lng="fr">g&eacute;om&eacute;trique</trd>
+  <trdgrp lng="hu">
+    <trd>geometriai</trd>,
+    <trd>m&eacute;rtani</trd>,
+    <trd>geometrikus</trd>
+  </trdgrp>
+  <trd lng="pl">geometryczny</trd>
+  <trd lng="pt">geom&eacute;trico</trd>
+  <trd lng="ru">&c_g;&c_je;&c_o;&c_m;&c_je;&c_t;&c_r;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j;</trd>
+  <trd lng="sk">geometrický</trd>
+</drv>
+
+<drv mrk="geomet1.0isto">
+  <kap><tld/>isto</kap>
+  <snc>
+    <dif>
+      Fakulo pri <tld/>o.
+    </dif>
+    <ref tip="sin" cel="geomet.0o.sciencisto">geometro</ref>
+  </snc>
+  <trd lng="be">&c_g;&c_je;&c_a;&c_m;&c_e;&c_t;&c_a;&c_r;</trd>
+  <trd lng="ca">ge&ograve;metra</trd>
+  <trd lng="cs">geometr</trd>
+  <trdgrp lng="en">
+    <trd>geometer</trd>,
+    <trd>geometrician</trd>
+  </trdgrp>
+  <trd lng="es">ge&oacute;metra</trd>
+  <trd lng="fa">&a_h;&a_n;&a_d;&a_s;&a_h;&zwnj;&a_d;&a_A;&a_n;</trd>
+  <trd lng="fr">g&eacute;om&egrave;tre</trd>
+  <trdgrp lng="hu">
+    <trd>m&eacute;rtantud&oacute;s</trd>,
+    <trd>geom&eacute;ter</trd>
+  </trdgrp>
+  <trd lng="nl">meetkundige</trd>
+  <trd lng="pt">ge&ocirc;metra</trd>
+  <trd lng="ru">&c_g;&c_je;&c_o;&c_m;&c_je;&c_t;&c_r;</trd>
+  <trd lng="sk">geometer</trd>
+</drv>
+
+<drv mrk="geomet1.analitika0o">
+  <kap>analitika <tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>MatTerm</bib><lok>p. 31</lok></fnt>
+  <snc>
+    <dif>
+      Bran&ccirc;o de <ref tip="malprt" cel="geomet1.0o"><tld/>o</ref>,
+      kiu studas la <tld/>ajn figurojn pere de iliaj koordinataj
+      ekvacioj.
+    </dif>
+  </snc>
+  <adm>
+    Iom strange, ke analitika ~o pli uzas algebron ol analitikon.
+    PIV1 en la artikolo "geometrio" havas "analiza geometrio" kaj
+    MatVort diras same. Vd adm sub "analitiko". <aut>MB</aut>
+  </adm>
+  <trd lng="be">&c_a;&c_n;&c_a;&c_l;&c_ib;&c_t;&c_y;&c_ch;&c_n;&c_a;&c_ja;
+  <ind>&c_g;&c_je;&c_a;&c_m;&c_e;&c_t;&c_r;&c_y;&c_ja;</ind></trd>
+  <trd lng="ca"><ind>geometria</ind> anal&iacute;tica</trd>
+  <trd lng="de">analytische <ind>Geometrie</ind></trd>
+  <trd lng="en">analytic[al] <ind>geometry</ind></trd>
+  <trd lng="es"><ind>geometr&iacute;a</ind> anal&iacute;tica</trd>
+  <trd lng="fa">&a_h;&a_n;&a_d;&a_s;&a_h;&a_hamza_sure; &a_t;&a_H;&a_l;&f_y;&a_l;&f_y;</trd>
+  <trd lng="fr">g&eacute;om&eacute;trie analytique</trd>
+  <trd lng="hu">analitikus <ind>geometria</ind></trd>  
+  <trd lng="nl">analytische <ind>meetkunde</ind></trd>
+  <trd lng="pl">geometria analityczna</trd>
+  <trd lng="pt">geometria anal&iacute;tica</trd>
+  <trd lng="ru">&c_a;&c_n;&c_a;&c_l;&c_i;&c_t;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_a;&c_ja;
+  <ind>&c_g;&c_je;&c_o;&c_m;&c_je;&c_t;&c_r;&c_i;&c_ja;</ind></trd>
+  <trd lng="sk">analytická geometria</trd>
+  <trd lng="cs">analytická geometrie</trd>
+</drv>
+</art>
+<!--
+$Log: geomet1.xml,v $
+Revision 1.29  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.28  2015/06/29 16:29:39  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.27  2012/08/18 20:10:22  revo
+Marc Rausell: + trd ca
+
+Revision 1.26  2009/08/18 19:20:30  revo
+Russ Williams: +trd en
+
+Revision 1.25  2009/07/01 17:20:32  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.24  2005/08/19 19:13:40  revo
+Luiz Portella: +trd pt
+
+Revision 1.23  2005/05/29 18:41:12  revo
+Marc Bavant: kor duobligitan punkton
+
+Revision 1.22  2005/05/24 16:35:14  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.21  2004/05/13 17:39:47  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.20  2003/04/21 16:34:12  revo
+-->
+</vortaro>

@@ -1,0 +1,134 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: minut.xml,v 1.24 2015/07/04 08:37:39 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>minut</rad>/o
+</kap>
+
+<drv mrk="minut.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <fnt><bib>VdE</bib></fnt>
+  <snc mrk="minut.0o.tempo">
+    <uzo tip="fak">KAL</uzo>
+    <mlg>min</mlg>
+    <dif>
+      Komunuza <ref tip="lst" cel="unu.mezur0o"
+      lst="voko:da&ubreve;roj">mezurunuo</ref> de
+      tempo,
+      egala al sesdek <ref tip="prt"
+      cel="sekund.0o.tempo">sekundoj</ref>:
+      <ekz>
+        <tld/>o estas sesdekona parto de horo.
+      </ekz>
+    </dif>
+    <trd lng="zh">分钟 [<ind>fēn zhōng</ind>]</trd>
+  </snc>
+  <snc mrk="minut.0o.angulo">
+    <uzo tip="fak">MAT</uzo>
+    <dif>
+      <ref tip="lst" cel="unu.mezur0o"
+      lst="voko:mezurunuoj">Mezurunuo</ref> de
+      <ref cel="angul.0o.MAT">angulo</ref>, egala al sesdekono
+      de <ref tip="malprt" cel="grad.0o">grado</ref>.
+    </dif>
+    <trd lng="pl">minuta</trd>
+  </snc>
+  <trd lng="be">&c_h;&c_v;&c_ib;&c_l;&c_ib;&c_n;&c_a;</trd>
+  <trd lng="bg">&c_m;&c_i;&c_n;&c_u;&c_t;&c_a;</trd>
+  <trdgrp lng="br">
+    <trd>munut</trd>,
+    <trd>munutenn</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>chvíle</trd>,
+    <trd>minuta</trd>
+  </trdgrp>
+  <trd lng="de">Minute</trd>
+  <trd lng="en">minute</trd>
+  <trd lng="fr">minute<klr tip="ind"> (unit&eacute; de temps, 
+d'angle)</klr></trd>
+  <trd lng="hu">perc</trd>
+  <trd lng="id">menit</trd>
+  <trd lng="nl">minuut</trd>
+  <trd lng="pl">minuta</trd>
+  <trd lng="ro">minut</trd>
+  <trd lng="ru">&c_m;&c_i;&c_n;&c_u;&c_t;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>chvíľa</trd>,
+    <trd>min&uacute;ta</trd>
+  </trdgrp>
+  <trd lng="zh">分 [<ind>fēn</ind>]</trd>
+</drv>
+
+<drv mrk="minut.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="minut.0a.KAL">
+    <dif>
+      Da&ubreve;ranta unu <tld/>on:
+      <ekz>
+        estingi&gcirc;i kiel la lumo de <tld/>a meteoro<fnt>Z</fnt>
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="moment.0a">momenta</ref>
+    </refgrp>
+  </snc>
+  <trd lng="hu">percnyi</trd>
+  <trd lng="pl">minutowy</trd>
+  <trd lng="ru">&c_m;&c_i;&c_n;&c_u;&c_t;&c_n;&c_y;&c_j;</trd>
+</drv>
+
+<drv mrk="minut.0e">
+  <kap><tld/>e</kap>
+  <snc mrk="minut.0e.KAL">
+    <dif>
+      Dum unu <tld/>o:
+      <ekz>
+        pri &ccirc;iuj <tld/>e kreskantaj projektoj mi absolute
+        silentados<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>během krátké chvíle</trd>,
+    <trd>v minutě</trd>
+  </trdgrp>
+  <trd lng="pl">w ci&aogonek;gu <ind>minuty</ind></trd>
+  <trd lng="sk">v minúte</trd>
+</drv>
+</art>
+<!--
+$Log: minut.xml,v $
+Revision 1.24  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.23  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.22  2015/06/26 22:10:19  revo
+Darcy Shen: +trd zh
+
+Revision 1.21  2013/09/15 15:10:28  revo
+Wolfram Diestel: ref al lst dauxroj anst. mezurunuoj
+
+Revision 1.20  2013/09/15 11:10:19  revo
+Wolfram Diestel: ref al lst mezurunuoj
+
+Revision 1.19  2013/03/27 16:10:16  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.18  2007/11/22 17:30:38  revo
+Wieland Pusch: +trd bg
+
+Revision 1.17  2006/03/08 17:32:09  revo
+Vito Redsky: +trd pl +trd ro
+
+Revision 1.16  2006/01/23 17:31:06  revo
+Jeromo Vasxe: + fak kal
+
+Revision 1.15 2005/05/25 16:31:08 revo
+-->
+</vortaro>

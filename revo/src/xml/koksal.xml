@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: koksal.xml,v 1.13 2015/07/04 08:37:37 revo Exp $">
+<kap>
+  <rad>koksalgi</rad>/o
+</kap>
+<drv mrk="koksal.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">MED</uzo>
+  <uzo tip="stl">EVI</uzo>
+  <snc mrk="koksal.0o.tuberkuloza">
+    <fnt><bib>PV</bib></fnt>
+    <dif>
+      Tuberkuloza <ref tip="lst" cel="san.mal0o.MED"
+      lst="voko:malsanoj">malsano</ref> de la koksa artiko:
+      <ekz>
+        malbona higieno ka&ubreve;zas la <tld/>on.
+      </ekz>
+    </dif>
+    <ref tip="dif" cel="tuberk.koks0o">kokstuberkulozo</ref>
+    <trd lng="ca">coxartrosi</trd>
+    <trd lng="fr">coxalgie</trd>
+    <trd lng="nl">coxalgie</trd>
+  </snc>
+  <snc mrk="koksal.0o.doloro">
+    <fnt><bib>PIV1</bib></fnt>
+    <dif>
+      Doloro &ccirc;e la <ref cel="koks.0o">kokso</ref>.
+    </dif>
+    <ref tip="dif" cel="dolor.koks0o">koksdoloro</ref>
+    <trd lng="ca">cox&agrave;lgia</trd>
+    <trd lng="es">coxalgia</trd>
+    <trd lng="fr">douleur de hanche</trd>
+    <trd lng="nl">heuppijn</trd>
+  </snc>
+  <trd lng="cs">bolest v kyčlích</trd>
+  <trdgrp lng="de">
+    <trd>H&uuml;ftschmerz</trd>,
+    <trd>H&uuml;ftgelenkschmerz</trd>,
+    <trd>Koxalgie</trd>
+  </trdgrp>
+  <trd lng="sk">bolesť v bedrách</trd>
+</drv>
+<rim>
+Pro &gcirc;iaj du sencoj (malsano/simptomo), <ekz>koksalgio</ekz> estas
+konfuzema kaj evitinda vorto. Preferu la pli klarajn terminojn
+<ekz>kokstuberkulozo</ekz> kaj <ekz>koksdoloro</ekz>.
+</rim>
+</art>
+<!--
+$Log: koksal.xml,v $
+Revision 1.13  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.12  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.11  2014/12/20 07:10:13  revo
+Alain Gerard: + evi
+
+Revision 1.10  2014/12/19 21:10:16  revo
+Alain Gerard: + rim
+
+Revision 1.9  2013/10/09 19:11:18  revo
+Wolfram Diestel: ref al lst malsanoj
+
+Revision 1.8  2011/12/04 12:10:26  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.7  2009/09/02 16:31:10  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.6  2005/04/05 16:33:14  revo
+Raul Salinas Monteagudo: +trd ca,es
+
+Revision 1.5  2004/12/26 17:33:47  revo
+Marc Bavant: +trd fr, +snc, +fnt
+
+Revision 1.4 2002/01/03 17:33:39 revo
+-->
+</vortaro>

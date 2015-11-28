@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: kapeldiner.xml,v 1.2 2015/09/21 14:10:17 revo Exp $">
+<kap>
+  <rad>kapeldiner</rad>/o
+</kap>
+<drv mrk="kapeldiner.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="stl">ARK</uzo>
+  <snc mrk="kapeldiner.0o.TUR">
+    <ref tip="dif" cel="akcept.0isto.TUR">akceptisto</ref>
+    <ekz>
+      iu titola konsilisto <klr>...</klr> starigis &ccirc;e la 
+      pordo iujn <tld/>ojn kun galonoj kaj ru&gcirc;aj kolumoj
+      <fnt>
+        <aut>N. Gogol, trad. A. Kor&jcirc;enkov</aut>,
+        <vrk><url ref="http://esperanto-ondo.ru/Rn-gogl2.htm">
+        Palto</url></vrk>,
+        <lok>2003</lok>
+      </fnt>.
+    </ekz>
+  </snc>
+  <!-- formon arkaikan traduku prefere per arkaika formo nacilingva -->
+  <trd lng="en">commissionaire</trd>
+  <trdgrp lng="fr">
+    <trd>appariteur<klr> (portier)</klr></trd>,
+    <trd>huissier<klr> (portier)</klr></trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log: kapeldiner.xml,v $
+Revision 1.2  2015/09/21 14:10:17  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.1  2014/11/12 20:10:18  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

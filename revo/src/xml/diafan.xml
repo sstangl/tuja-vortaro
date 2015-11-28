@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: diafan.xml,v 1.22 2015/07/04 08:37:32 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>diafan</rad>/a <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="diafan.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="diafan.0a.FOT">
+    <uzo tip="fak">FOT</uzo>
+    <dif>
+      Trairebla per lumradioj, sed ne travidebla:
+      <ekz>
+        <tld/>a &scirc;tofo, ondo, vazo<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        <tld/>a emajlo;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        <tld/>aj manetoj.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_r;&c_a;&c_z;&c_r;&c_y;&c_s;&c_t;&c_y;</trd>
+  <trd lng="ca">transl&uacute;cid</trd>
+  <trd lng="cs">průsvitný <klr>(ne průhledný)</klr></trd>
+  <trdgrp lng="de">
+    <trd>durchscheinend</trd>,
+    <trd>milchig</trd>,
+    <trd>halbtransparent</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>diaphanous</trd>,
+    <trd>translucent</trd>,
+    <trd>semi-transparent</trd>
+  </trdgrp>
+  <trd lng="es">transl&uacute;cido</trd>
+  <trdgrp lng="fr">
+    <trd>diaphane</trd>,
+    <trd>translucide</trd>
+  </trdgrp>
+  <trd lng="hu">&aacute;ttetsz&odblac;</trd>
+  <trd lng="nl">doorschijnend</trd>
+  <trdgrp lng="pl">
+    <trd>prze&sacute;wituj&aogonek;cy</trd>,
+    <trd>prze&sacute;wiecaj&aogonek;cy</trd>,
+    <trd>p&oacute;&lstroke;prze&zacute;roczysty</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>di&aacute;fano</trd>,
+    <trd>transparente</trd>,
+    <trd>vaporoso</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_r;&c_o;&c_z;&c_r;&c_a;&c_ch;&c_n;&c_y;&c_j;</trd>,
+    <trd>&c_p;&c_r;&c_o;&c_s;&c_v;&c_je;&c_ch;&c_i;&c_v;&c_a;&c_ju;&c_shch;&c_i;&c_j;</trd>
+  </trdgrp>
+  <trd lng="sk">priesvitn&yacute;</trd>
+</drv>
+
+<drv mrk="diafan.mal0a">
+  <kap>mal<tld/>a</kap>
+  <snc mrk="diafan.mal0a.FOT">
+    <uzo tip="fak">FOT</uzo>
+    <dif>
+      Ne a&ubreve; tre malmulte tralasanta lumon:
+      <ekz>
+        la mal<tld/>a, ekstera kovra&jcirc;o rompi&gcirc;as pro la 
+        ekfrapo, malkovrante vitran cilindron
+        <fnt>
+          <aut>E. R. Burroughs, trad. K. R. C. Sturmer</aut>,
+          <vrk><url
+          ref="http://edu.i-lo.tarnow.pl/esp/lern/librejo/0029/index.php">
+          Princino de Marso</url></vrk>,
+          <lok>1938</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">neprůsvitný</trd>
+  <trd lng="fr">opaque</trd>
+  <trdgrp lng="nl">
+    <trd>ondoorschijnend</trd>,
+    <trd>opaak</trd>
+  </trdgrp>
+  <trd lng="sk">nepriesvitný</trd>
+</drv>
+</art>
+<!--
+$Log: diafan.xml,v $
+Revision 1.22  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.21  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.20  2014/12/18 18:10:14  revo
+Filip van Laenen: +trd nl
+
+Revision 1.19  2014/12/13 14:10:17  revo
+Jeromo Vasxe: + mrk
+
+Revision 1.18  2014/01/09 02:10:19  revo
+Jeromo Vasxe: + mal~a
+
+Revision 1.17  2009/06/09 16:31:20  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.16  2008/11/21 17:56:53  revo
+Wieland Pusch: entoj por unikode
+
+Revision 1.15  2008/11/01 17:30:44  revo
+Russ Williams: +trd en
+
+Revision 1.14  2007/07/23 16:31:39  revo
+Tulio Flores: +tr pt
+
+Revision 1.13  2005/04/05 16:37:22  revo
+-->
+</vortaro>

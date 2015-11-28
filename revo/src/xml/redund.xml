@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+  <art mrk="$Id: redund.xml,v 1.6 2011/12/10 21:10:29 revo Exp $">
+    <kap>
+      <rad>redund</rad>/a
+    </kap>
+
+    <drv mrk="redund.0a">
+      <kap>
+        <tld/>a
+      </kap>
+      <snc>
+        <dif>
+          Plia ol minimume necesa, precipe por sekurigi pli fidindan
+          funkciadon:
+          <ekz>
+            <tld/>a parecbito por kontroli datumtransmeton.
+          </ekz>
+        </dif>
+        <refgrp tip="vid">
+          <ref cel="flu.super0a">superflua</ref>,
+          <ref cel="abund.0a">abunda</ref>,
+          <ref cel="krom.0a">kroma</ref>,
+          <ref cel="rezerv.0a">rezerva</ref>
+        </refgrp>
+      </snc>
+      <trdgrp lng="be">
+        <trd>&c_l;&c_ib;&c_sh;&c_n;&c_ib;</trd>,
+        <trd>&c_z;&c_a;&c_l;&c_ib;&c_sh;&c_n;&c_ib;</trd>
+      </trdgrp>
+      <trd lng="ca">redundant</trd>
+      <trd lng="de">&uuml;berflussig</trd>
+      <trd lng="en">redundant</trd>
+      <trd lng="es">redundante</trd>
+      <trd lng="fr">redondant</trd>
+      <trd lng="hu">redund&aacute;ns</trd>
+      <trd lng="it">ridondante</trd>
+      <trd lng="nl">overladen</trd>
+      <trd lng="ru">&c_i;&c_z;&c_b;&c_y;&c_t;&c_o;&c_ch;&c_n;&c_y;&c_j;</trd>
+    </drv>
+
+    <drv mrk="redund.0o">
+      <kap>
+        <tld/>o
+      </kap>
+      <snc mrk="redund.0o.TEK">
+        <uzo tip="fak">TEK</uzo>
+        <dif>
+          Enesto de pluraj ekzempleroj de iu peco en elektronika a&ubreve;     
+           
+          me&hcirc;anika ekipa&jcirc;o, por ke la ekipa&jcirc;o povu plu funkcii post
+          paneo de koncerna peco.
+        </dif>
+      </snc>
+      <snc mrk="redund.0o.KOMP">
+        <uzo tip="fak">KOMP</uzo>
+        <dif>
+          Uzo de kromdatumoj &ccirc;e datumtransmeto, por kontrolo kaj
+          eventuala riparo de transmetaj eraroj.
+        </dif>
+      </snc>
+      <trd lng="ca">redund&agrave;ncia</trd>
+      <trd lng="en">redundancy</trd>
+      <trd lng="es">redundancia</trd>
+      <trd lng="fr">redondance</trd>
+      <trd lng="hu">redundancia</trd>
+      <trd lng="it">ridondanza</trd>
+      <trd lng="ru">&c_i;&c_z;&c_b;&c_y;&c_t;&c_o;&c_ch;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
+    </drv>
+
+  </art>
+
+<!--
+$Log: redund.xml,v $
+Revision 1.6  2011/12/10 21:10:29  revo
+Marc Rausell: +trd ca
+
+Revision 1.5  2006/01/12 21:53:46  revo
+Raul Salinas Monteagudo: +trd ca,de,es,it,nl
+
+Revision 1.4  2004/09/02 16:32:13  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.3  2004/08/01 19:37:45  revo
+Jean Hennebert: +trd fr
+
+Revision 1.2  2003/08/06 16:31:32  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.1  2002/01/06 17:47:00  revo
+Sergio Pokrovskij: nova artikolo
+
+-->
+</vortaro>

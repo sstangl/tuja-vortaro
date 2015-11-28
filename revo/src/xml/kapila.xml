@@ -1,0 +1,158 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: kapila.xml,v 1.17 2015/07/04 08:37:36 revo Exp $">
+<kap>
+  <rad>kapilar</rad>/o
+</kap>
+<drv mrk="kapila.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="kapila.0o.FIZL">
+    <uzo tip="fak">FIZL</uzo>
+    <dif>
+      Harforma <ref tip="super" cel="angi.0o">angio</ref>, organo, kies
+      interna diametro estas treege malgranda.
+    </dif>
+  </snc>
+  <trd lng="be">&c_k;&c_a;&c_p;&c_ib;&c_l;&c_ja;&c_r;</trd>
+  <trdgrp lng="cs">
+    <trd>kapilára</trd>,
+    <trd>kapilárka</trd>,
+    <trd>vlásečnice</trd>
+  </trdgrp>
+  <trd lng="de">Kapillare</trd>
+  <trd lng="en">capillary</trd>
+  <trd lng="es">capilar</trd>
+  <trd lng="fa">&a_m;&a_w;&f_y;&a_r;&f_g;</trd>
+  <trdgrp lng="fr">
+    <trd>capillaire<klr tip="ind"> (subst.)</klr></trd>,
+    <trd>vaisseau <ind>capillaire</ind></trd>,
+    <trd>art&eacute;riole</trd>,
+    <trd>veinule</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>hajsz&aacute;lcs&odblac;</trd>,
+    <trd>hajsz&aacute;l&eacute;r</trd>,
+    <trd>kapill&aacute;ris</trd>
+  </trdgrp>
+  <trd lng="nl">haarvat</trd>
+  <trdgrp lng="pl">
+    <trd>kapilara</trd>,
+    <trd>naczynie w&lstroke;oskowe</trd>
+  </trdgrp>
+  <trd lng="ru">&c_k;&c_a;&c_p;&c_i;&c_l;&c_l;&c_ja;&c_r;</trd>
+  <trdgrp lng="sk">
+    <trd>kapilára</trd>,
+    <trd>vlásočnica</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kapila.0a">
+  <kap><tld/>a</kap>
+  <snc>
+    <dif>
+      Rilatanta al <tld/>o:
+      <ekz>
+        <tld/>a aktiveco, analizo, &hcirc;emio.
+      </ekz>
+    </dif>
+    <trd lng="en">capillary</trd>
+  </snc>
+  <snc>
+    <dif>
+      Havanta formon de <tld/>o:
+      <ekz>
+        <tld/>aj tuboj
+      </ekz>
+    </dif>
+    <trd lng="en">capillary</trd>
+  </snc>
+  <trd lng="be">&c_k;&c_a;&c_p;&c_ib;&c_l;&c_ja;&c_r;&c_n;&c_y;</trd>
+  <trdgrp lng="cs">
+    <trd>kapilární</trd>,
+    <trd>vlasově tenký</trd>
+  </trdgrp>
+  <trd lng="es">capilar</trd>
+  <trd lng="fr">capillaire<klr tip="ind"> (adj.)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>hajsz&aacute;lcs&ouml;es</trd>,
+    <trd>hajsz&aacute;leres</trd>,
+    <trd>kapill&aacute;ris</trd>
+  </trdgrp>
+  <trd lng="nl">capillair</trd>
+  <trd lng="pl">kapilarny</trd>
+  <trd lng="ru">
+  &c_k;&c_a;&c_p;&c_i;&c_l;&c_l;&c_ja;&c_r;&c_n;&c_y;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>kapilárny</trd>,
+    <trd>vlasovo tenký</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kapila.0eco">
+  <kap><tld/>eco</kap>
+  <snc mrk="kapila.0eco.FIZ">
+    <uzo tip="fak">FIZ</uzo>
+    <dif>
+      Propreco de <tld/>aj tuboj rilate al likva&jcirc;oj, kiuj ilin
+      trafluas:
+      <ekz>
+        la suprenfluo de la suko en la plantoj estas fenomeno de
+        <tld/>eco.
+      </ekz>
+    </dif>
+    <trdgrp lng="en">
+      <trd>capillarity</trd>,
+      <trd>capillary action</trd>
+    </trdgrp>
+    <trd lng="es">capilaridad</trd>
+    <trd lng="fa">&a_m;&a_w;&f_y;&f_y;&a_n;&f_g;&f_y;</trd>
+    <trd lng="fr">capillarit&eacute;</trd>
+    <trdgrp lng="hu">
+      <trd>hajsz&aacute;lcs&ouml;vess&eacute;g</trd>,
+      <trd>hajsz&aacute;leress&eacute;g</trd>,
+      <trd>kapillarit&aacute;s</trd>
+    </trdgrp>
+    <trd lng="nl">capillariteit</trd>
+    <trd lng="pl">efekt <ind>kapilarny</ind></trd>
+    <trd lng="ru">
+    &c_k;&c_a;&c_p;&c_i;&c_l;&c_l;&c_ja;&c_r;&c_n;&c_o;&c_s;&c_t;&c_mol;
+    </trd>
+  </snc>
+  <trd lng="cs">kapilarita</trd>
+  <trd lng="sk">kapilarita</trd>
+</drv>
+</art>
+<!--
+$Log: kapila.xml,v $
+Revision 1.17  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.15  2010/04/24 17:07:08  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.14  2008/03/31 17:53:12  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.13  2005/04/29 16:32:22  revo
+Yury Finkel: +trd ru
+
+Revision 1.12  2004/11/07 17:31:38  revo
+Marc Bavant: mod trd fr
+
+Revision 1.11  2004/03/19 17:31:07  revo
+Jeromo Vasxe: mrk .. -> ., + fak fizl, + tez, + trd fr
+
+Revision 1.10 2004/03/08 19:52:25 revo
+Jozefo Horvath: +trd hu
+
+Revision 1.9 2003/05/26 16:31:15 revo
+Alejandro Mejia Greene: ald 3 his trd
+
+Revision 1.8 2003/04/21 16:33:32 revo
+-->
+</vortaro>

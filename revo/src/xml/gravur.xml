@@ -1,0 +1,204 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: gravur.xml,v 1.23 2015/07/04 08:37:35 revo Exp $">
+<kap><ofc>*</ofc>
+<rad>gravur</rad>/i</kap>
+<drv mrk="gravur.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      Desegni sur ligno, &scirc;tono, metalo kc per pinta &scirc;tala ilo a&ubreve; per
+      acido.
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="skrib.en0i">enskribi</ref>,
+      <ref cel="trancx">entran&ccirc;i</ref>,
+      <ref cel="cxiz.0i">&ccirc;izi</ref>,
+      <ref cel="gilosx.0i">gilo&scirc;i</ref>,
+      <ref cel="strek.0i">streki</ref>.
+    </refgrp>
+    <trdgrp lng="de">
+      <trd>gravieren</trd>,
+      <trd>stechen</trd>,
+      <trd>ritzen</trd>,
+      <trd>einschneiden</trd>
+    </trdgrp>
+    <trdgrp lng="nl">
+      <trd>graveren</trd>,
+      <trd>griffen</trd>
+    </trdgrp>
+    <trd lng="pl">grawerowa&cacute;</trd>
+    <trd lng="pt">gravar<klr tip="amb"> (em madeira, pedra, metal
+    etc)</klr></trd>
+    <trdgrp lng="ru">
+      <trd>&c_g;&c_r;&c_a;&c_v;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>,
+      <trd>&c_v;&c_y;&c_g;&c_r;&c_a;&c_v;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+    </trdgrp>
+  </snc>
+  <snc>
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Fari fortan kaj longeda&ubreve;ran impreson a&ubreve; bildon:
+      <ekz>
+        <tld/>i ion en sian memoron, en la koro;
+      </ekz>
+      <ekz>
+        versoj <tld/>i&gcirc;as pli facile en la memoro ol prozo;
+      </ekz>
+      <ekz>
+        post malmultaj monatoj japanaj Hitachi-teknikistoj <tld/>is la
+        bondeziron <ctl>Peace '91</ctl> forportante kelkdekon da
+        sulfuratomoj el kristalo da molibdena disulfato
+        <fnt><aut>Gianfranco CAZZARO</aut>
+        <vrk><url ref="&Monato;/005286.html">Mikroskope vastaj
+        horizontoj</url></vrk><bib>Monato</bib><lok>n-ro
+        02/1997</lok></fnt>;
+      </ekz>
+      <ekz>
+        kiam la japanoj estas junaj, bildoj de sakura-floroj estas jam
+        en<tld/>i&gcirc;intaj en iliaj cerboj kun la sentoj kaj traviva&jcirc;oj
+        de
+        &gcirc;ojo kaj mal&gcirc;ojo.
+        <fnt><aut>a&ubreve;toro nekonata</aut>
+        <vrk><url ref="&Monato;/006633.html">Sakura-floroj</url></vrk>
+        <bib>Monato</bib><lok>n-ro 03/2000</lok></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="skrib.en0i">enskribi</ref>,
+      <ref cel="not.0i">noti</ref>,
+      <ref cel="gard.0i">gardi</ref>,
+      <ref cel="konser.0i">konservi</ref>,
+      <ref cel="stamp.0i">enstampi</ref>,
+      <ref cel="radik.en0i">enradiki</ref>.
+    </refgrp>
+    <trdgrp lng="de">
+      <trd>einbrennen</trd>,
+      <trd>einmei&szlig;eln</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>bev&eacute;s <klr tip="ind">(&aacute;tv. is)</klr></trd>,
+      <trd>grav&iacute;roz</trd>
+    </trdgrp>
+    <trd lng="nl">griffen</trd>
+    <trd lng="pt">gravar<klr tip="amb"> (f)</klr></trd>
+    <trd lng="ru">&c_v;&c_p;&c_je;&c_ch;&c_a;&c_t;&c_a;&c_t;&c_mol; <klr>(&c_p;&c_je;&c_r;&c_je;&c_n;., &c_o;
+    &c_v;&c_p;&c_je;&c_ch;&c_a;&c_t;&c_l;&c_je;&c_n;&c_i;&c_i;)</klr></trd>
+  </snc>
+  <trd lng="ca">gravar</trd>
+  <trdgrp lng="cs">
+    <trd>gravírovat</trd>,
+    <trd>vrývat</trd>
+  </trdgrp>
+  <trd lng="en">engrave</trd>
+  <trd lng="es">grabar</trd>
+  <trd lng="fr">graver</trd>
+  <trd lng="sk">vyryť</trd>
+  <trd lng="sv">gravera</trd>
+</drv>
+
+<drv mrk="gravur.0ajxo">
+  <kap><tld/>a&jcirc;o</kap>
+  <uzo tip="fak">BELA</uzo>
+  <snc>
+    <dif>
+      Desegna&jcirc;o per <tld/>ado.
+    </dif>
+  </snc>
+  <trd lng="ca">gravat</trd>
+  <trdgrp lng="de">
+    <trd>Gravur</trd>,
+    <trd>Grav&uuml;re</trd>,
+    <trd>Stich</trd>,
+    <trd>eingeschnittene Schrift</trd>
+  </trdgrp>
+  <trd lng="en">engraving</trd>
+  <trd lng="es">grabado</trd>
+  <trd lng="fr">gravure</trd>
+  <trdgrp lng="hu">
+    <trd>v&eacute;set</trd>,
+    <trd>metszet</trd>
+  </trdgrp>
+  <trd lng="nl">gravure</trd>
+  <trd lng="pt">gravura<klr tip="amb"> (coisa gravada)</klr></trd>
+  <trd lng="ru">&c_g;&c_r;&c_a;&c_v;&c_ju;&c_r;&c_a;</trd>
+</drv>
+
+<drv mrk="gravur.0ilo">
+  <kap><tld/>ilo</kap>
+  <uzo tip="fak">TEK</uzo>
+  <snc>
+    <ref tip="dif" cel="grifel.0o.gravurilo">grifelo</ref>
+  </snc>
+  <adm>
+    Gxi jam estas cxe Kabe, kiu donas alian sencon al grifelo.
+    Povas esti, ke aperis pli novaj uzoj (ekz-e &leftquot;lumdiska
+    gravurilo&rightquot;?).
+    <aut>MB</aut>
+  </adm>
+  <trd lng="ca">bur&iacute;</trd>
+  <trdgrp lng="de">
+    <trd>Flacheisen</trd>,
+    <trd>Stechmei&szlig;el</trd>,
+    <trd>Graviermesser</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>engraving tool</trd>,
+    <trd>burin</trd>,
+    <trd>graver</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>karcol&oacute;t&udblac;</trd>,
+    <trd>v&eacute;s&odblac;t&udblac;</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>graveernaald</trd>,
+    <trd>graveerstift</trd>
+  </trdgrp>
+  <trd lng="pt">buril</trd>
+  <trdgrp lng="ru">
+    <trd>&c_r;&c_je;&c_z;&c_je;&c_c; <klr>(&c_g;&c_r;&c_a;&c_v;&c_jo;&c_r;&c_a;)</klr></trd>,
+    <trd>&c_sh;&c_t;&c_i;&c_h;&c_je;&c_l;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="sk">rydlo</trd>
+  <trdgrp lng="cs">
+    <trd>rycí jehla</trd>,
+    <trd>rydlo</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: gravur.xml,v $
+Revision 1.23  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.22  2015/06/29 16:29:39  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.21  2014/01/07 07:10:25  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.20  2012/08/19 00:11:14  revo
+Marc Rausell: + trd ca
+
+Revision 1.19  2009/02/15 14:19:09  revo
+Russ Williams: +trd en
+
+Revision 1.18  2005/08/26 16:31:56  revo
+Luiz Portella: +trd pt
+
+Revision 1.17  2005/04/29 16:33:40  revo
+Raul Salinas Monteagudo: korekto trd es
+
+Revision 1.16  2005/04/28 16:36:20  revo
+Raul Salinas Monteagudo: korekto trd es
+
+Revision 1.15  2004/10/20 16:32:17  revo
+Wolfram Diestel: kor. germ trd
+
+Revision 1.14  2003/11/14 17:30:41  revo
+-->
+</vortaro>

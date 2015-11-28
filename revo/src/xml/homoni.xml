@@ -1,0 +1,110 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: homoni.xml,v 1.20 2015/07/04 08:37:35 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>homonim</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="homoni.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="homoni.0o.LIN">
+    <uzo tip="fak">LIN</uzo>
+    <dif>
+      Vorto, kiu havas la saman formon kiel alia, sed malsaman sencon:
+      <ekz>
+        ero <klr>(elemento de objekto)</klr> kaj ero <klr>(erao)</klr>.
+      </ekz>
+    </dif>
+  </snc>                       
+  <rim>
+    Por eviti konfuzon inter iuj <tld/>oj, 
+    L. L. Zamenhof en la Biblio metis
+    apostrofon post la radiko de la pli malofta <tld/>o:
+    <ekz>
+      tritiko &gcirc;is cent kor'oj, vino &gcirc;is cent bat'oj
+      <fnt><bib>MT</bib>, <lok>&Ezr; 7:22</lok></fnt>
+      <klr>(kor'o kaj bat'o estas nomoj de hebreaj mezurunuoj)</klr>.
+    </ekz>
+  </rim>
+  <trd lng="be">&c_a;&c_m;&c_o;&c_n;&c_ib;&c_m;</trd>
+  <trd lng="br">ger <ind>he&ntilde;velstumm</ind></trd>
+  <trd lng="ca">hom&ograve;nim</trd>
+  <trd lng="de">Homonym</trd>
+  <trd lng="en">homonym</trd>
+  <trd lng="es">hom&oacute;nimo</trd>
+  <trd lng="fr">homonyme</trd>
+  <trd lng="hu">homonima</trd>
+  <trd lng="it">omonimo</trd>
+  <trd lng="nl">homoniem</trd>
+  <trd lng="pt">hom&ocirc;nimo</trd>
+  <trd lng="ru">&c_o;&c_m;&c_o;&c_n;&c_i;&c_m;</trd>
+  <trd lng="sk">homonymum</trd>
+  <trdgrp lng="cs">
+    <trd>dvojvýznamové slovo</trd>,
+    <trd>homonymum</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="homoni.0eco">
+  <kap><tld/>eco</kap>
+  <snc mrk="homoni.0eco.LIN">
+    <uzo tip="fak">LIN</uzo>
+    <dif>
+      Rilato de formoj identaj kun signifoj malsamaj;
+      <ref tip="sin" cel="homonimi.0o">homonimio</ref>:
+      <ekz>
+        <tld/>eco malofte ka&ubreve;zas ambiguecon, se estas sufi&ccirc;a
+        subteno de la kunteksto
+        <fnt>
+          <aut>R. Haveman</aut>,
+          <vrk><url
+          ref="http://www.tekstoj.nl/esperanto/artikoloj/terminaro.htm">
+          Terminareto pri tradukado</url></vrk>,
+          <lok>[2009]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="ca">homon&iacute;mia</trd>
+  <trdgrp lng="cs">
+    <trd>homonymie</trd>,
+    <trd>homonymita</trd>
+  </trdgrp>
+  <trd lng="fr">homonymie</trd>
+  <trd lng="sk">homonymia</trd>
+</drv>
+</art>
+<!--
+$Log: homoni.xml,v $
+Revision 1.20  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2013/07/16 09:10:15  revo
+Marc Rausell: + trd ca
+
+Revision 1.17  2012/07/07 14:10:25  revo
+Jeromo Vasxe: + ~eco
+
+Revision 1.16  2009/09/26 16:31:34  revo
+Russ Williams: +trd en
+
+Revision 1.15  2009/09/17 16:30:36  revo
+Antonio Codazzi: +trd it
+
+Revision 1.14  2005/10/15 16:33:17  revo
+Luiz Portella: +trd pt
+
+Revision 1.13  2005/06/26 16:33:51  revo
+Alan ar Gall: +trd br
+
+Revision 1.12  2004/01/15 18:35:25  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.11  2002/11/01 22:04:48  revo
+-->
+</vortaro>

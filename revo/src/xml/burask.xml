@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: burask.xml,v 1.5 2015/11/02 21:10:21 revo Exp $">
+<kap>
+  <rad>burask</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="burask.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="stl">RAR</uzo>
+  <snc mrk="burask.0o.MET">
+    <uzo tip="fak">MET</uzo>
+    <ref tip="dif" cel="pusx.vento0o.MET">ventopu&scirc;o</ref>
+    <ekz>
+      <tld/>o jam forpelis burdojn
+      <fnt>
+        <aut>Mao Zifu</aut>,
+        <vrk>Post Pluvo</vrk>,
+        <lok><url ref="http://www.elerno.cn/penseo/pen31.htm">
+        Penseo, 1993-01 (31)</url></lok>
+      </fnt>.
+    </ekz>
+  </snc>
+  <!-- forman maloftan traduku per malofta&jcirc;o se tia ekzistas -->
+  <trd lng="en">squall</trd>
+  <trd lng="fr">rafale</trd>
+  <trd lng="nl">windstoot</trd>
+  <trd lng="sk">&ccaron;&lcaron;apkanica</trd>
+  <trd lng="cs">pl&iacute;skanice</trd>
+</drv>
+</art>
+
+<!--
+$Log: burask.xml,v $
+Revision 1.5  2015/11/02 21:10:21  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.4  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.3  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.2  2014/12/03 21:10:10  revo
+Filip van Laenen: +trd(nl)
+
+Revision 1.1  2014/11/28 23:11:59  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

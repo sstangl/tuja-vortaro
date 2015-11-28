@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: hidroz.xml,v 1.13 2015/07/04 08:37:35 revo Exp $">
+<kap>
+  <rad>hidrozo</rad>/oj
+</kap>
+<drv mrk="hidroz.0oj">
+  <kap><tld/>oj</kap>
+  <uzo tip="fak">ZOO</uzo>
+  <snc>
+    <dif>
+      <ref tip="lst" cel="klas.0o.BIO"
+      lst="voko:zoologiaj_klasoj">Klaso</ref>
+       el la filumo <ref tip="super"
+      cel="knid.0uloj">kniduloj</ref>
+      (<trd lng="la">Hydrozoa</trd>), kies anoj havas du generaciojn de
+      la
+      formoj <ref tip="prt" cel="meduz.0o">meduzo</ref> kaj
+      <ref tip="prt" cel="polip.0o">polipo</ref>.
+    </dif>
+  </snc>
+  <trd lng="ca">hidrozous</trd>
+  <trd lng="cs">polyp</trd>
+  <trd lng="de">Hydrozoen</trd>
+  <trd lng="fr">hydrozoaires</trd>
+  <trd lng="hu">hidra&aacute;llatok</trd>
+  <trd lng="it">idrozoi</trd>
+  <trdgrp lng="nl">
+    <trd>kwalpoliepen</trd>,
+    <trd>hydro&iuml;dpoliepen</trd>
+  </trdgrp>
+  <trd lng="pl">stu&lstroke;biop&lstroke;awy</trd>
+  <trd lng="pt">hidrozo&aacute;rios</trd>
+  <trd lng="ru">&c_g;&c_i;&c_d;&c_r;&c_o;&c_i;&c_d;&c_n;&c_y;&c_je; <klr
+  tip="amb">(&c_k;&c_l;&c_a;&c_s;&c_s;)</klr></trd>
+  <trd lng="sk">polyp</trd>
+</drv>
+</art>
+<!--
+$Log: hidroz.xml,v $
+Revision 1.13  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.12  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.11  2013/08/31 19:10:18  revo
+Wolfram Diestel: referenco al listo zoo klasoj
+
+Revision 1.10  2013/04/08 06:10:23  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.9  2011/12/11 20:10:19  revo
+Marc Rausell: +trd ca
+
+Revision 1.8  2009/09/10 16:32:17  revo
+Antonio Codazzi: +trd it
+
+Revision 1.7  2002/07/06 17:31:50  revo
+Eduardo M. Kalinowski: ald trd pt
+
+Revision 1.6  2002/07/03 19:03:08  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.5  2002/03/20 17:33:55  revo
+Yury Finkel: +trd ru
+
+Revision 1.4 2002/01/19 11:12:56 revo
+-->
+</vortaro>

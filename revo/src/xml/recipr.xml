@@ -1,0 +1,150 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: recipr.xml,v 1.19 2015/07/04 08:37:42 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>reciprok</rad>/a
+</kap>
+<drv mrk="recipr.0a">
+  <kap><ofc>*</ofc><tld/>a</kap>
+  <snc>
+    <dif>
+      Adj. kvalifikanta la agadon, senton a&ubreve; efikon de du personoj a&ubreve;
+      objektoj, el kiuj unu agas, sentas a&ubreve; efikas sur la duan tute
+      same,
+      kiel la dua agas, sentas a&ubreve; efikas sur la unuan:
+      <ekz>
+        <tld/>a amo, konfido, abomeno, donaco.
+      </ekz>
+     </dif>
+  </snc>
+  <trd lng="be">&c_u;&c_z;&c_a;&c_je;&c_m;&c_n;&c_y;</trd>
+  <trd lng="ca">rec&iacute;proc</trd>
+  <trdgrp lng="cs">
+    <trd>reciproký</trd>,
+    <trd>reciproční</trd>,
+    <trd>vzájemný</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>reziprok</trd>,
+    <trd>gegenseitig</trd>
+  </trdgrp>
+  <trd lng="en">reciprocal</trd>
+  <trd lng="es">rec&iacute;proco</trd>
+  <trd lng="fr">r&eacute;ciproque<klr> (adj.)</klr></trd>
+  <trd lng="hu">k&ouml;lcs&ouml;n&ouml;s</trd>
+  <trd lng="nl">wederkerig</trd>
+  <trd lng="ru">&c_v;&c_z;&c_a;&c_i;&c_m;&c_n;&c_y;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>recipročný</trd>,
+    <trd>vzájomný</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="recipr.0e">
+  <kap><tld/>e</kap>
+  <snc>
+    <dif>
+    En <tld/>a maniero:
+    </dif>
+    <ekz>
+        sin <tld/>e pardoni<klr> (=pardoni unu la alian)</klr>;
+      </ekz>
+      <ekz>
+        &ccirc;iuj sin <tld/>e komprenas<fnt>Z</fnt><klr> (=&ccirc;iuj komprenas unu
+        la alian)</klr>;
+      </ekz>
+      <ekz>
+        premi al si <tld/>e la manojn<klr> (=premi inter si la
+        manojn)</klr><fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        <ind><tld/>e</ind> batalantaj nacioj<klr> (=inter si batalantaj
+        nacioj)</klr><fnt>Z</fnt>.
+        <trd lng="be">&c_u;&c_z;&c_a;&c_je;&c_m;&c_n;&c_a;</trd>
+        <trd lng="ca">rec&iacute;procament</trd>
+        <trd lng="hu">k&ouml;lcs&ouml;n&ouml;sen</trd>
+        <trd lng="ru">&c_v;&c_z;&c_a;&c_i;&c_m;&c_n;&c_o;</trd>
+      </ekz>
+  </snc>
+  <ref tip="vid" cel="si.0">si</ref>
+  <trd lng="fr">r&eacute;ciproquement</trd>
+  <trd lng="sk">navzájom</trd>
+  <trd lng="cs">navzájem</trd>
+</drv>
+
+<drv mrk="recipr.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      <tld lit="R"/>e plenumi:
+      <ekz>
+        mi <tld/>as viajn bondezirojn;
+      </ekz>
+      <ekz>
+        <tld/>i saluton.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="inter">inter</ref>.
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_d;&c_k;&c_a;&c_z;&c_a;&c_c;&c_mol; <ind>&c_u;&c_z;&c_a;&c_je;&c_m;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_ju;</ind></trd>,
+    <trd>&c_z;&c_r;&c_a;&c_b;&c_ib;&c_c;&c_mol; &c_u; &c_a;&c_d;&c_k;&c_a;&c_z;</trd>
+  </trdgrp>
+  <trd lng="ca">correspondre</trd>
+  <trdgrp lng="cs">
+    <trd>oplatit</trd>,
+    <trd>opětovat</trd>
+  </trdgrp>
+  <trd lng="de">erwidern</trd>
+  <trd lng="en">reciprocate</trd>
+  <trdgrp lng="es">
+    <trd>corresponder<klr> (actuar con reciprocidad)</klr></trd>
+  </trdgrp>
+  <trd lng="fr">r&eacute;ciproquer</trd>
+  <trd lng="hu">viszonoz</trd>
+  <trdgrp lng="nl">
+    <trd>iets <ind>terugdoen</ind></trd>,
+    <trd>beantwoorden<klr tip="ind"> (iets)</klr></trd>,
+    <trd>vergelden</trd>
+  </trdgrp>
+  <trd lng="sk">opätovať</trd>
+</drv>
+</art>
+<!--
+$Log: recipr.xml,v $
+Revision 1.19  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2014/05/25 12:10:38  revo
+Damien Brucker: +ref
+
+Revision 1.16  2014/05/24 07:10:12  revo
+Damien Brucker: +klr
+
+Revision 1.15  2014/05/21 09:10:39  revo
+Damien Brucker: +~e
+
+Revision 1.14  2014/05/04 08:10:25  revo
+Damien Brucker: +trd fr
+
+Revision 1.13  2012/08/01 08:10:13  revo
+Marc Rausell: ++ trd ca
+
+Revision 1.12  2009/02/15 14:19:19  revo
+Russ Williams: +trd en
+
+Revision 1.11  2005/04/18 16:33:07  revo
+Raul Salinas Monteagudo: +trd ca,es
+
+Revision 1.10  2004/09/02 16:32:06  revo
+-->
+</vortaro>

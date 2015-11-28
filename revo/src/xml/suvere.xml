@@ -1,0 +1,157 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: suvere.xml,v 1.19 2015/07/04 08:37:44 revo Exp $">
+<kap>
+  <rad>suveren</rad>/o <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="suvere.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="suvere.0o.JUR">
+    <uzo tip="fak">JUR</uzo>
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      Tiu, kiu en regno havas la plej superan povon
+      kaj sendependa potenco, <ref tip="vid" cel="di.0o">dio</ref>
+      en teokratio, la <ref tip="sub" cel="monarh">monarko</ref>
+      en monarkio, la <ref tip="vid"
+      cel="popol.0o.regataro">popolo</ref> en respubliko:
+      <ekz>
+        la <tld/>o de Rusio;
+      </ekz>
+      <ekz>
+        en demokratio, la popolo mem estas la <tld/>o.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_u;&c_v;&c_e;&c_r;&c_e;&c_n;</trd>
+  <trdgrp lng="cs">
+    <trd>panovník</trd>,
+    <trd>suverén</trd>,
+    <trd>vladař</trd>,
+    <trd>vládce</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Machthaber</trd>,
+    <trd>Herrscher</trd>,
+    <trd>Souver&auml;n</trd>,
+    <trd>Landesherr</trd>,
+  </trdgrp>
+  <trd lng="en">sovereign</trd>
+  <trd lng="es">soberano</trd>
+  <trd lng="fr">souverain<klr> (subst.)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>legf&odblac;bb hatalom</trd>,
+    <trd>n&eacute;pfels&eacute;g</trd>,
+    <trd>egyeduralkod&oacute;</trd>
+  </trdgrp>
+  <trd lng="it">sovrano<klr> (sost.)</klr></trd>
+  <trd lng="nl">soeverein</trd>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_u;&c_v;&c_je;&c_r;&c_je;&c_n;</trd>,
+    <trd>&c_v;&c_y;&c_s;&c_sh;&c_a;&c_ja; &c_v;&c_l;&c_a;&c_s;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>panovník</trd>,
+    <trd>samovládca</trd>,
+    <trd>suverén</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="suvere.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="suvere.0a.JUR">
+    <dif>
+      Plejpotenca, sendependa kaj senkontrola:
+      <ekz>
+        <tld/>a decido;
+      </ekz>
+      <ekz>
+        <tld/>a &scirc;tato.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_u;&c_v;&c_e;&c_r;&c_e;&c_n;&c_n;&c_y;</trd>
+  <trdgrp lng="cs">
+    <trd>nezávislý</trd>,
+    <trd>suverénní</trd>
+  </trdgrp>
+  <trd lng="de">souver&auml;n</trd>
+  <trd lng="en">sovereign</trd>
+  <trd lng="es">soberano, -a</trd>
+  <trd lng="fr">souverain<klr> (adj.)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>szuver&eacute;n</trd>,
+    <trd>f&uuml;ggetlen</trd>
+  </trdgrp>
+  <trd lng="it">sovrano<klr> (agg.)</klr></trd>
+  <trdgrp lng="nl">
+    <trd>soeverein</trd>,
+    <trd>almachtig</trd>,
+    <trd>oppermachtig</trd>
+  </trdgrp>
+  <trd lng="ru">&c_s;&c_u;&c_v;&c_je;&c_r;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>
+  <trd lng="sk">suverénny</trd>
+</drv>
+
+<drv mrk="suvere.0eco">
+  <kap><tld/>eco</kap>
+  <snc mrk="suvere.0eco.JUR">
+    <uzo tip="fak">JUR</uzo>
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      Jure difinita
+      <ref tip="vid" cel="pend.sende0eco.POL">sendependenco</ref>
+      de regno a&ubreve; persono en
+      &gcirc;iaj eksteraj rilatoj:
+      <ekz>
+        la regna <tld/>eco estas preteksto por protekti
+        la &scirc;tatajn krimojn.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>suverenita</trd>,
+    <trd>suverénnost</trd>,
+    <trd>svrchovanost</trd>
+  </trdgrp>
+  <trd lng="en">sovereignty</trd>
+  <trd lng="es">soberan&iacute;a</trd>
+  <trd lng="fr">souverainet&eacute;</trd>
+  <trd lng="it">sovranit&agrave;</trd>
+  <trd lng="sk">suverenita</trd>
+</drv>
+</art>
+<!--
+$Log: suvere.xml,v $
+Revision 1.19  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:33:25  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2012/06/04 00:10:11  revo
+Jeromo Vasxe: kor. 1 ref
+
+Revision 1.16  2012/06/01 08:10:14  revo
+Jeromo Vasxe: + tez + 2 trd fr
+
+Revision 1.15  2010/05/25 16:30:26  revo
+Russ Williams: forigi duoblan en
+
+Revision 1.14  2009/10/04 16:30:24  revo
+Antonio Codazzi: +trd it
+
+Revision 1.13  2009/06/29 18:06:15  revo
+Russ Williams: +trd en
+
+Revision 1.12  2006/05/08 16:31:43  revo
+Eduardo Navas: +trd es, kor suvereno, +~eco
+
+Revision 1.11  2004/12/13 17:33:30  revo
+Marc Bavant: kor duobligitajn punktojn
+
+Revision 1.10 2004/12/06 17:33:12 revo
+-->
+</vortaro>

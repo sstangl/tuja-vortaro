@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: okzal.xml,v 1.22 2013/08/31 19:10:32 revo Exp $">
+<kap>
+<ofc>*</ofc>
+<rad>okzal</rad>/o <fnt><bib>PV</bib></fnt> 
+</kap>
+<drv mrk="okzal.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="okzal.0o.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      Plurjara herbo kun acidaj
+      man&gcirc;eblaj folioj; <ref tip="lst" cel="speci.0o.BIO"
+      lst="voko:botanikaj_specioj">specio</ref> de 
+      <ref tip="super" cel="rumeks.0o.BOT">rumekso</ref>
+      (<trd lng="la">Rumex acetosa</trd>):
+      <ekz>
+        silente ni kuleradis la <tld/>supon
+        <fnt>
+          <aut>S. Lang, trad. G. Berveling</aut>,
+          <vrk>La Talpo&ccirc;asisto</vrk>,
+          <lok>2007</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>                     
+  <trd lng="be">&c_sh;&c_ch;&c_a;&c_w;&c_je;</trd>
+  <trd lng="bg">&c_k;&c_i;&c_s;&c_je;&c_l;&c_je;&c_c;</trd>
+  <trd lng="br">tri&ntilde;chin</trd>
+  <trd lng="ca">agrella</trd>
+  <trd lng="de">Sauerampfer</trd>
+  <trd lng="en">sorrel</trd>
+  <trd lng="fa">&a_t;&a_r;&a_sh;&f_k; &a_b;&a_A;&a_gh;&f_y;</trd>
+  <trd lng="fr">oseille</trd>
+  <trd lng="hu">mezei <ind>s&oacute;ska</ind></trd>
+  <trd lng="nl">klaverzuring</trd>
+  <trdgrp lng="pl">
+    <trd>szczaw zwyczajny</trd>,
+    <trd>szczaw <klr>(pot.)</klr></trd>
+  </trdgrp>
+  <trd lng="pt">azeda</trd>
+  <trd lng="ru">&c_shch;&c_a;&c_v;&c_je;&c_l;&c_mol;</trd>
+</drv>
+</art>
+<!--
+$Log: okzal.xml,v $
+Revision 1.22  2013/08/31 19:10:32  revo
+Wolfram Diestel: kor. ref-cel
+
+Revision 1.21  2013/08/28 18:10:13  revo
+Wolfram Diestel: prilaboretis la difinon
+
+Revision 1.20  2013/08/28 17:10:13  revo
+Wolfram Diestel: referencoj al bot specioj
+
+Revision 1.19  2012/08/27 05:10:13  revo
+Sebastian Cyprych: +trd pl +ref rumekso
+
+Revision 1.18  2012/07/31 16:10:33  revo
+Marc Rausell: + trd ca
+
+Revision 1.17  2010/12/04 17:30:19  revo
+Jeromo Vasxe: + ekz
+
+Revision 1.16  2010/08/03 16:30:53  revo
+Russ Williams: +trd en
+
+Revision 1.15  2009/06/20 18:00:40  revo
+-->
+</vortaro>

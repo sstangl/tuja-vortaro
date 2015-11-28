@@ -1,0 +1,119 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: portugal.xml,v 1.14 2015/10/17 13:10:17 revo Exp $">
+<kap>
+  <rad>portugal</rad>/o
+  <ofc>*</ofc>
+</kap>
+
+<drv mrk="portugal.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="portugal.0o.sxtatano">
+    <dif>
+      <ref tip="super" cel="sxtat.0ano">&Scirc;tatano</ref> de
+      <ref tip="malprt" cel="portugal.P0ujo"><tld lit="P"/>ujo</ref>.
+    </dif>
+  </snc>
+  <snc mrk="portugal.0o.naciano">
+    <dif>
+      Homo kun <tld/>a nacieco.
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_r;&c_t;&c_u;&c_g;&c_a;&c_l;&c_je;&c_c;</trd>
+  <trd lng="cs">Portugalec</trd>
+  <trd lng="en">Portuguese</trd>
+  <trd lng="es">portugu&eacute;s <klr>(habitante de Portugal)</klr></trd>
+  <trd lng="fr">Portugais<klr> (habitant)</klr></trd>
+  <trdgrp lng="pl">
+    <trd>portugalczyk</trd>,
+    <trd>portugalka</trd>
+  </trdgrp>
+  <trd lng="pt">portugu&ecirc;s <klr tip="ind"> (subst.)</klr></trd>
+  <trd lng="sk">Portugal&ccaron;an</trd>
+</drv>
+
+<drv mrk="portugal.0a">
+  <kap><tld/>a</kap>
+  <snc>
+    <dif>
+      Rilatanta al <tld/>oj, ilia nacieco a&ubreve; &scirc;tato.
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_r;&c_t;&c_u;&c_g;&c_a;&c_l;&c_mol;&c_s;&c_k;&c_ib;</trd>
+  <trd lng="cs">portugalsk&yacute;</trd>
+  <trd lng="en">Portuguese</trd>
+  <trd lng="es">portugu&eacute;s</trd>
+  <trd lng="fr">portugais<klr> (adjectif)</klr></trd>
+  <trd lng="pl">portugalski</trd>
+  <trd lng="pt">portugu&ecirc;s <klr tip="ind"> (adj.)</klr></trd>
+  <trd lng="sk">portugalsk&yacute;</trd>
+</drv>
+
+<drv mrk="portugal.P0ujo">
+  <kap>
+    <tld lit="P"/>ujo
+    <fnt>
+      <vrk>Oficiala Informo de AdE</vrk>,
+      <lok>numero 12</lok>
+    </fnt>
+  </kap>
+  <snc mrk="portugal.P0ujo.GEOG">
+    <uzo tip="fak">GEOG</uzo>
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      <ref tip="super" cel="sxtat.0o">&Scirc;tato</ref> en la sudokcidenta 
+      <ref tip="malprt" cel="euxrop1.E0o.geog">E&ubreve;ropo</ref>
+      (en Ibera Duoninsulo) kun &ccirc;efurbo Lisbono.
+      Teritorio de Respubliko Portugalujo.
+      ISO-3166 kodo: PT.
+      &Gcirc;i limas kun
+      <ref tip="vid" cel="hispan.H0ujo">Hispanujo</ref>
+      kaj <ref tip="vid" cel="atlant.A0o.GEOG">Atlantiko</ref>.
+    </dif>
+    <ref tip="sin" cel="portugali.P0o">Portugalio</ref>
+    <trd lng="be">&c_P;&c_a;&c_r;&c_t;&c_u;&c_g;&c_a;&c_l;&c_ib;&c_ja;</trd>
+    <trd lng="bg">&c_P;&c_o;&c_r;&c_t;&c_u;&c_g;&c_a;&c_l;&c_i;&c_ja;</trd>
+    <trd lng="de">Portugal</trd>    
+    <trd lng="en">Portugal</trd>
+    <trd lng="es">Portugal</trd>
+    <trd lng="fr">Portugual</trd> 
+    <trd lng="nl">Portugal</trd>
+    <trd lng="no">Portugal</trd>
+    <trdgrp lng="pl">
+      <trd>Portugalia</trd>,
+      <trd>Republika <ind>Portugalska</ind></trd>
+    </trdgrp>
+    <trd lng="pt">Portugal</trd>
+  </snc>
+</drv>
+
+</art>
+
+<!--
+$Log: portugal.xml,v $
+Revision 1.14  2015/10/17 13:10:17  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.13  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.12  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.11  2013/12/01 10:10:18  revo
+Damien Brucker: +trd fr
+
+Revision 1.10  2013/02/12 03:10:13  revo
+Evandro Avellar: kor de trd pt
+
+Revision 1.9  2013/02/06 08:10:28  revo
+Dmitri Gabinski: kor de trd be
+
+Revision 1.8  2012/08/21 10:10:11  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.7  2011/09/01 22:10:14  revo
+-->
+</vortaro>

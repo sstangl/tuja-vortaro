@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: konglomer.xml,v 1.6 2015/07/04 08:37:37 revo Exp $">
+<kap>
+  <rad>konglomer</rad>/i <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="konglomer.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="konglomer.0i.GEOL">
+    <dif>
+      Kunglui en koheran, solidan tuton:
+      <ekz>
+        ili enbatis lignajn kelojn kaj poste per
+        argilo miksita kun pajlo ilin stukis;
+        tiel la fostokonstrua&jcirc;on ili <tld/>is
+        <fnt>
+         <aut>A. Jir&aacute;sek, trad. J. Vondrou&scaron;ek</aut>,
+         <vrk><url
+         ref="http://i-espero.info/files/elibroj/eo%20-%20jirasek,%20alois%20-%20malnovaj%20mitoj%20cxehxaj.pdf">
+         Malnovaj mitoj &ccirc;e&hcirc;aj</url></vrk>,
+         <lok>[1984]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">tvořit konglomerát</trd>
+  <trd lng="de">konglomerieren</trd>
+  <trdgrp lng="fr">
+    <trd>agglom&eacute;rer</trd>,
+    <trd>conglom&eacute;rer</trd>
+  </trdgrp>
+  <trd lng="pl">konglomerowa&cacute;</trd>
+  <trd lng="sk">tvoriť konglomerát</trd>
+</drv>
+
+<drv mrk="konglomer.0ajxo">
+  <kap><tld/>a&jcirc;o</kap>
+  <snc mrk="konglomer.0ajxo.MIN">
+    <uzo tip="fak">MIN</uzo>
+    <dif>
+      Maso el mineralaj eroj nature kuncementitaj;
+      <ref tip="sin" cel="konglo.0o.MIN">konglomerato</ref>:
+      <ekz>
+        bedoj de <tld/>a&jcirc;oj <klr>...</klr> estas multajn
+        milojn da piedoj dikaj
+        <fnt><bib>OriginoDeSpecioj</bib>, <lok>&ccirc;apitro 9a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_k;&c_a;&c_n;&c_g;&c_l;&c_ja;&c_m;&c_e;&c_r;&c_a;&c_t;</trd>
+  <trd lng="ca">conglomerat</trd>
+  <trd lng="de">Konglomerat</trd>
+  <trd lng="en">conglomerate</trd>
+  <trd lng="es">conglomerado</trd>
+  <trdgrp lng="fa">
+    <trd>&a_j;&a_w;&a_sh;&a_s;&a_n;&f_g;</trd>,
+    <trd>&f_k;&a_damma;&a_n;&f_g;&a_kasra;&a_l;&a_damma_w;&a_m;&a_kasra;&a_r;&a_A;</trd>
+  </trdgrp>
+  <trd lng="fr">conglom&eacute;rat</trd>
+  <trd lng="hu">konglomer&aacute;tum</trd>
+  <trd lng="nl">conglomeraat</trd>
+  <trdgrp lng="pl">
+    <trd>konglomerat</trd>,
+    <trd>zlepieniec</trd>,
+    <trd>zlepek</trd>
+  </trdgrp>
+  <trd lng="pt">conglomerado</trd>
+  <trd lng="ru">&c_k;&c_o;&c_n;&c_g;&c_l;&c_o;&c_m;&c_je;&c_r;&c_a;&c_t;</trd>
+</drv>
+</art>
+
+<!--
+$Log: konglomer.xml,v $
+Revision 1.6  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.5  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.4  2013/04/15 11:10:28  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.3  2012/10/13 17:10:10  revo
+Jeromo Vasxe: kor. fak, + trd el konglomerat
+
+Revision 1.2  2012/10/11 18:10:09  revo
+Wieland Pusch: +trd de
+
+Revision 1.1  2012/10/10 14:10:13  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

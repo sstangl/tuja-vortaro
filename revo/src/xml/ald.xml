@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: ald.xml,v 1.23 2015/07/04 08:37:30 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>ald</rad>/o
+</kap>
+<drv mrk="ald.0o">
+  <kap><tld/>o, <var><kap><tld/>violono</kap></var></kap>
+  <uzo tip="fak">MUZ</uzo>
+  <snc>
+    <dif>
+      La plej malalta virina vo&ccirc;o.
+    </dif>
+    <trd lng="ca">contralt</trd>
+    <trdgrp lng="de">
+     <trd>Altstimme</trd>,
+     <trd>Alt</trd>
+    </trdgrp>
+    <trd lng="en">alto</trd>
+    <trd lng="hu">alt</trd>
+    <trd lng="it">contralto</trd>
+    <trd lng="nl">alt</trd>
+    <trd lng="pl">alt</trd>
+    <trd lng="pt">contralto</trd>
+    <trd lng="sk">alt</trd>
+  </snc>
+  <uzo tip="fak">MUZ</uzo>
+  <snc>
+    <dif>
+      <ref tip="super" cel="violon.0o">Violono</ref>, 
+      intera inter violono kaj violon&ccirc;elo.
+    </dif>
+    <ref tip="lst" cel="instru2.kord0o.MUZ"
+    lst="voko:kordinstrumentoj">kordinstrumento</ref>
+    <trd lng="ca">viola</trd>
+    <trd lng="en">viola</trd>
+    <trd lng="nl">altviool</trd>
+    <adm>&ccirc;u eble registri tion pli kutime kiel aldviolono kaj referencie
+    tien [wd]</adm>
+  </snc>
+  <trd lng="be">&c_a;&c_l;&c_mol;&c_t;</trd>
+  <trd lng="cs">viola</trd>
+  <trd lng="fr">alto</trd>
+  <trd lng="hu">m&eacute;lyheged&udblac;</trd>
+  <trd lng="it">viola</trd>
+  <trd lng="pl">alt&oacute;wka</trd>
+  <trd lng="pt">violeta</trd>
+  <trd lng="ru">&c_a;&c_l;&c_mol;&c_t;</trd>
+  <trd lng="sk">viola</trd>
+</drv>
+</art>
+<!--
+$Log: ald.xml,v $
+Revision 1.23  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.22  2013/09/08 19:10:27  revo
+Wolfram Diestel: ref al listo kordinstrumentoj
+
+Revision 1.21  2012/10/23 00:11:25  revo
+Neil Roberts: aldonu la etikedon <var>
+
+Revision 1.20  2011/12/31 10:10:15  revo
+Marc Rausell: +trd ca
+
+Revision 1.19  2010/05/28 16:30:30  revo
+Antonio Codazzi: +trd it
+
+Revision 1.18  2009/04/02 16:30:30  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.17  2006/09/18 16:31:09  revo
+Russ Williams: korektas anglan violonon (-> "viola"); aldo=aldviolono
+
+Revision 1.16  2003/10/30 17:32:13  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.15  2003/05/18 18:00:26  revo
+-->
+</vortaro>

@@ -1,0 +1,193 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+  <art mrk="$Id: cembr.xml,v 1.19 2015/07/04 08:37:32 revo Exp $">
+    <kap>
+      <rad>cembr</rad>/o
+      <fnt>Z</fnt>
+    </kap>
+
+    <drv mrk="cembr.0o">
+      <kap><tld/>o</kap>
+      <uzo tip="fak">BOT</uzo>
+      <snc mrk="cembr.0o.supernocio">
+        <dif>
+          Iu el kelkaj specioj de <ref tip="super"
+          cel="pin.0o">pino</ref>,
+          konifero kun kvinopaj pinglofaskoj kaj man&gcirc;eblaj
+          nukssimilaj semoj (cembraj nuksoj).
+        </dif>
+        <trd lng="ru">&c_k;&c_je;&c_d;&c_r;&c_o;&c_v;&c_a;&c_ja;
+        &c_s;&c_o;&c_s;&c_n;&c_a;</trd>
+        <refgrp tip="sub">
+          <ref cel="cembr.0oeuxropa"><tld/>o e&ubreve;ropa</ref>,
+          <ref cel="cembr.0osiberia"><tld/>o siberia</ref>
+        </refgrp>
+        <ref tip="vid" cel="pini.0o">pinio</ref>
+        <trd lng="ca">pi</trd>
+        <trdgrp lng="es">
+          <trd>pino cembro</trd>,
+          <trd>pino cembra</trd>,
+          <trd>cembro</trd>
+        </trdgrp>
+        <trd lng="it"><ind>pino</ind> (subgen: strobus)</trd>
+        <trdgrp lng="nl">
+        <trd>arve</trd>,
+        <trd>alpenden</trd>
+      </trdgrp>
+        <trd lng="pl">limba</trd>
+      </snc>
+      <snc mrk="cembr.0o.euxropa">
+        <ref tip="dif" cel="cembr.0oeuxropa"><tld/>o e&ubreve;ropa</ref>
+        <trdgrp lng="ca">
+          <trd>cembra</trd>,
+          <trd>pi cembra</trd>
+        </trdgrp>
+       <trdgrp lng="it">
+        <trd>cembro</trd>,
+        <trd><ind>pino</ind> cembro</trd>
+        </trdgrp>
+      <trd lng="nl">Europese <ind>alpenden</ind></trd>
+      </snc>
+  <trd lng="cs">borovice limba</trd>
+  <trdgrp lng="de">
+        <trd>Zirbelkiefer</trd>,
+        <trd>Arve</trd>
+      </trdgrp>
+  <trdgrp lng="fr">
+        <trd>arol</trd>,
+        <trd>arolle</trd>,
+        <trd>pin cembro</trd>
+      </trdgrp>
+  <trd lng="hu">cirbolyafeny&odblac;</trd>
+  <trd lng="pl">limba</trd>
+  <trd lng="sk">limba</trd>
+</drv>
+
+    <drv mrk="cembr.0oeuxropa">
+      <kap><tld/>o e&ubreve;ropa</kap>
+      <uzo tip="fak">BOT</uzo>
+      <snc>
+        <dif>
+          <tld lit="C"/>o, la specio de <ref tip="super"
+            cel="pin.0o">pino</ref>
+          (<trd lng="la">Pinus cembra</trd>) kreskanta en la centra
+          kaj okcidenta E&ubreve;ropo.
+        </dif>
+      </snc>
+      <trd lng="be">&c_k;&c_je;&c_d;&c_r;
+      &c_e;&c_w;&c_r;&c_a;&c_p;&c_je;&c_j;&c_s;&c_k;&c_ib;</trd>
+      <trd lng="hu">havasi <ind>cirbolyafeny&odblac;</ind></trd>
+      <trd lng="ca">pi cembra</trd>
+      <trdgrp lng="it">
+        <trd>cembro</trd>,
+        <trd>cirmolo</trd>, 
+        <trd><ind>pino</ind> delle alpi</trd>,
+        <trd><ind>pino</ind> cembro</trd>
+      </trdgrp>
+      <trd lng="nl">Europese <ind>alpenden</ind></trd>
+      <trd lng="pl">sosna limba</trd>
+      <trdgrp lng="ru">
+        <trd>&c_k;&c_je;&c_d;&c_r;
+        &c_je;&c_v;&c_r;&c_o;&c_p;&c_je;&c_j;&c_s;&c_k;&c_i;&c_j;</trd>,
+        <trd>&c_s;&c_o;&c_s;&c_n;&c_a;
+        &c_je;&c_v;&c_r;&c_o;&c_p;&c_je;&c_j;&c_s;&c_k;&c_a;&c_ja;</trd>
+      </trdgrp>
+    </drv>
+
+    <drv mrk="cembr.0osiberia">
+      <kap><tld/>o siberia</kap>
+      <uzo tip="fak">BOT</uzo>
+      <snc>
+        <dif>
+          <tld lit="C"/>o, la specio de
+          <ref tip="super" cel="pin.0o">pino</ref>
+          (<trd lng="la">Pinus sibirica</trd>) ofta
+          tra la tuta Siberio.
+        </dif>
+      </snc>
+      <trd lng="ca">pi de Sib&egrave;ria</trd>
+      <trd lng="hu">szib&eacute;riai
+      <ind>cirbolyafeny&odblac;</ind></trd>
+      <trd lng="it"><ind>pino</ind> siberiano</trd>
+      <trd lng="nl">Siberische <ind>alpenden</ind></trd>
+      <trdgrp lng="pl">
+        <trd>sosna syberyjska</trd>,
+        <trd>limba syberyjska</trd>,
+        <trd>cedr syberyjski</trd>
+      </trdgrp>
+      <trd lng="ru">&c_k;&c_je;&c_d;&c_r;
+      &c_s;&c_i;&c_b;&c_i;&c_r;&c_s;&c_k;&c_i;&c_j;</trd>
+    </drv>
+
+    <drv mrk="cembr.0ejo">
+      <kap><tld/>ejo</kap>
+      <uzo tip="fak">BOT</uzo>
+      <snc>
+        <dif>
+          Parto de la tajgo a&ubreve; arbaro kie kreskas <tld/>oj.
+        </dif>
+      </snc>
+      <trd lng="ca">pineda (de cembres)</trd>
+      <trdgrp lng="nl">
+        <trd>alpendenbos</trd>,
+        <trd>arvebos</trd>
+      </trdgrp>
+      <trd lng="pl">tajga ciemna</trd>
+      <trd lng="ru">&c_k;&c_je;&c_d;&c_r;&c_a;&c_ch;</trd>
+    </drv>
+
+  </art>
+  <!--
+  $Log: cembr.xml,v $
+  Revision 1.19  2015/07/04 08:37:32  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.18  2015/06/29 16:29:36  revo
+  aldono de trd sk per skripto de M. von Laer
+
+  Revision 1.17  2015/04/20 22:10:17  revo
+  Carlos Garcia: +trd es -o
+
+  Revision 1.16  2011/12/08 12:10:20  revo
+  Marc Rausell: kataluna traduko
+
+  Revision 1.15  2009/10/03 16:30:26  revo
+  Paul Peeraerts: +nl
+
+  Revision 1.14  2009/04/29 16:32:15  revo
+  Antonio Codazzi: +trd it
+
+  Revision 1.13  2009/04/17 19:47:54  revo
+  Sebastian Cyprych: +trd pl
+
+  Revision 1.12  2007/02/08 17:30:38  revo
+  Jozefo Horvath: +trd hu
+
+  Revision 1.11  2005/02/08 17:31:12  revo
+  Sergio Pokrovskij: frukto / semo
+
+  Revision 1.10  2005/02/02 17:33:52  revo
+  Sergio Pokrovskij: ~ejo, ~o {euxropa,siberia}
+
+  Revision 1.9  2004/08/14 16:31:31  revo
+  Dmitri Gabinski: +trd be
+
+  Revision 1.8  2002/03/25 17:31:49  revo
+  Jozefo Horvath: +trd hu
+
+  Revision 1.7  2002/01/04 17:33:06  revo
+  Marc Bavant: +trd fr
+
+  Revision 1.6  2000/11/20 17:10:49  revo
+  Wolfram Diestel: majuskligis lat trd, +2a germ trd
+
+  Revision 1.5  2000/09/27 16:13:14  revo
+  Yury Finkel: +rusa trd
+
+  Revision 1.4  2000/02/11 19:46:45  revo
+  Wolfram Diestel: prilaboris dif, germ trd
+
+  -->
+</vortaro>

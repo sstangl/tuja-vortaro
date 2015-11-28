@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: ontogenez.xml,v 1.6 2015/10/05 14:10:17 revo Exp $">
+<kap>
+  <rad>ontogenez</rad>/o <fnt><bib>SPV</bib></fnt>
+</kap>
+<drv mrk="ontogenez.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="ontogenez.0o.BIO">
+    <uzo tip="fak">BIO</uzo>
+    <dif>
+      Esti&gcirc;o kaj biologia evoluo de unuopa viva&jcirc;o
+      kaj studo de tiu esti&gcirc;o;
+      <ref tip="sin" cel="ontogeni.0o.BIO">ontogenio</ref>:
+      <ekz>
+        <tld/>o estas la tuto de evoluaj procezoj ekde la fekundi&gcirc;o 
+        de la ovo&ccirc;elo &gcirc;is la morto
+        <fnt>
+          <aut>C. St&oslash;p-Bowitz, M. B&eacute;la</aut>,
+          <vrk><url
+          ref="http://www.fw.hu/eventoj/steb/biologio/enkond-fokuso/f874-p08.htm">
+          Enkonduko en la biologion</url></vrk>,
+          <lok>Fokuso, numero 1987-04, p. 8a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="filogenez.0o.BIO">filogenezo</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="ca">
+    <trd>ontog&egrave;nesi <klr>(proc&eacute;s)</klr></trd>,
+    <trd>ontog&egrave;nia <klr>(estudi)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>ontogeneze</trd>,
+    <trd>ontogenie</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>ontogeny</trd>,
+    <trd>ontogenesis</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>ontog&eacute;n&egrave;se</trd>,
+    <trd>ontog&eacute;nie</trd>
+  </trdgrp>
+  <trd lng="hu">ontogenezis</trd>
+  <trd lng="sk">ontogen&eacute;za</trd>
+</drv>
+</art>
+
+<!--
+$Log: ontogenez.xml,v $
+Revision 1.6  2015/10/05 14:10:17  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.5  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.4  2015/06/29 16:33:21  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.3  2011/12/05 10:10:36  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.2  2011/02/16 19:10:09  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.1  2011/02/03 10:10:11  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

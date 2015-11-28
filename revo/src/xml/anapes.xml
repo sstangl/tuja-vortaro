@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: anapes.xml,v 1.19 2015/07/04 08:37:30 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>anapest</rad>/o
+</kap>
+<drv mrk="anapes.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">POE</uzo>
+  <snc>
+    <dif>
+      <ref tip="super" cel="pied.vers0o">Verspiedo</ref> konsistanta
+      el tri silaboj, el kiuj la du unuaj estas mallongaj
+      a&ubreve; senakcentaj, kaj la tria longa a&ubreve; akcenta; simb.
+      /&ypsilon;&ypsilon;&#8208;/:
+      <ekz>
+        &leftquot;apostol'&rightquot; konsistigas <tld/>on.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_a;&c_n;&c_a;&c_p;&c_e;&c_s;&c_t;</trd>
+  <trd lng="bg">&c_a;&c_n;&c_a;&c_p;&c_je;&c_s;&c_t;</trd>
+  <trd lng="cs">anapest</trd>
+  <trd lng="de">Anap&auml;st</trd>
+  <trdgrp lng="en">
+    <trd>anapest</trd>,
+    <trd>anaepest</trd>,
+    <trd>antidactylus</trd>
+  </trdgrp>
+  <trd lng="fr">anapeste</trd>
+  <trd lng="hu">anapesztus</trd>
+  <trd lng="nl">anapest</trd>
+  <trd lng="pt">anapesto</trd>
+  <trd lng="ru">&c_a;&c_n;&c_a;&c_p;&c_je;&c_s;&c_t;</trd>
+  <trd lng="sk">anapest</trd>
+</drv>
+
+<drv mrk="anapes.n0o">
+  <kap>n-<tld/>o</kap>
+  <uzo tip="fak">POE</uzo>
+  <snc>
+    <dif>
+      <ref tip="super" cel="metr.0o.POE">Metro</ref>, &ccirc;efe konsistanta
+      el
+      n <tld/>oj; simb. /&#8208;&ypsilon;&ypsilon;/<sup>n</sup>:
+      <ekz>
+        <ind>tri<tld/>o</ind>.
+        <trd lng="fr">trim&egrave;tre anapestique</trd>
+        <trd lng="pt">trianap&eacute;stico</trd>
+      </ekz>
+    </dif>
+    <trd lng="pt">n-<ind>anap&eacute;stico</ind></trd>
+  </snc>
+</drv>
+</art>
+<!--
+$Log: anapes.xml,v $
+Revision 1.19  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2013/07/26 15:10:12  revo
+Joop Eggen: +trd bg
+
+Revision 1.16  2009/01/29 17:30:47  revo
+Russ Williams: +trd en
+
+Revision 1.15  2007/09/23 16:30:57  revo
+Tulio Flores: +tr pt
+
+Revision 1.14  2003/11/05 17:30:42  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.13  2003/02/15 17:35:45  revo
+Ulrich Fellmann: + 1 trd = de
+
+Revision 1.12  2002/09/23 16:33:38  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.11  2002/02/23 19:48:58  revo
+Yury Finkel: formatigis
+
+Revision 1.10 2001/10/27 18:12:26 revo
+-->
+</vortaro>

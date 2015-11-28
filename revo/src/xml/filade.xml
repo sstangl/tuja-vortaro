@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: filade.xml,v 1.16 2013/08/30 14:10:58 revo Exp $">
+<kap>
+<rad>filadelf</rad>/o
+</kap>
+<drv mrk="filade.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">BOT</uzo>
+  <snc>
+    <dif>
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:botanikaj_genroj">Genro</ref> el familio <ref
+      tip="malprt"
+      cel="filade1.0oj"><tld/>acoj</ref>
+      (<trd lng="la">Philadelphus</trd>), arbedo kun blankaj kaj tre
+      bonodoraj
+      floroj.
+    </dif>
+  </snc>
+  <bld lok="../bld/filade.jpg">
+    floroj kaj folioj
+    <klr>(Philadelphus coronarius)</klr>
+  </bld>
+  <trdgrp lng="de">
+    <trd>Pfeiffenstrauch</trd>,
+    <trd>Falscher <ind>Jasmin</ind></trd>
+  </trdgrp>
+  <trd lng="fr">seringa</trd>
+  <trd lng="hu">jezs&aacute;men</trd>
+  <trdgrp lng="pt">
+    <trd>siringa</trd>,
+    <trd>lil&aacute;s</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_a;&c_d;&c_o;&c_v;&c_y;&c_j; &c_zh;&c_a;&c_s;&c_m;&c_i;&c_n;</trd>,
+    <trd>&c_ch;&c_u;&c_b;&c_u;&c_sh;&c_n;&c_i;&c_k;</trd>
+  </trdgrp>
+</drv>
+
+</art>
+<!--
+$Log: filade.xml,v $
+Revision 1.16  2013/08/30 14:10:58  revo
+Wolfram Diestel: kor. lst-ref
+
+Revision 1.15  2013/08/26 19:10:36  revo
+Wolfram Diestel: referenco al listo bot genroj
+
+Revision 1.14  2007/05/30 16:30:51  revo
+Tulio Flores: +tr pt
+
+Revision 1.13  2003/09/26 19:12:16  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.12  2001/08/22 18:14:13  revo
+Marc Bavant: +trd fr
+
+Revision 1.11  2001/05/04 16:12:52  revo
+Yury Finkel: +trd ru
+
+Revision 1.10  2001/04/19 14:38:28  revo
+filade.0acoj -> filade1.0oj
+
+Revision 1.9  2001/04/19 14:37:48  revo
+-->
+</vortaro>

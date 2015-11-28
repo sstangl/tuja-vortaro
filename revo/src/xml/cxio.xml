@@ -1,0 +1,132 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: cxio.xml,v 1.24 2011/12/16 19:10:08 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>&ccirc;io</rad>
+</kap>
+<drv mrk="cxio.0">
+  <kap><ofc>*</ofc><tld/></kap>
+  <snc>
+    <dif>
+      Kolektiva pronomo, uzata nur pri a&jcirc;oj, kaj montranta, ke oni
+      konsideras la tuton de la koncernataj aferoj:
+      <ekz>
+        &scirc;ia fratino en <tld/> estas kulpa
+        <fnt><bib>F</bib>, <lok>&FE; 21</lok></fnt>;
+      </ekz>
+      <ekz>
+        <ind>ne <tld/> brilanta estas diamanto</ind>
+        <trd lng="en">all that glitters is not gold</trd>
+        <trd lng="fr">tout ce qui brille n'est pas or</trd>
+        <trd lng="it">non &eacute; tutto oro quello che luccica</trd>
+        <trd lng="pl">nie wszystko z&lstroke;oto, co si&eogonek; &sacute;wieci</trd>
+        <trd lng="es">no todo lo que brilla es oro</trd>
+        <fnt><bib>PrV</bib></fnt>;
+      </ekz>
+      <ekz>
+        <ind>al <tld/> oni povas alkutimi&gcirc;i</ind>
+        <trd lng="it">a tutto ci si pu&ograve; abituare</trd>
+        <trd lng="pl">do wszystkiego mo&zdot;na si&eogonek; przyzwyczai&cacute;</trd>
+        <fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        <tld/>, kio servas al la fratigado de la gentoj, apartenas al la
+        verda standardo<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        li amas sian monon pli ol <tld/>n en la mondo;
+      </ekz>
+      <ekz>
+        mi faris <tld/>n, kion mi devis fari
+        <fnt><bib>Fab2</bib>, <lok>Monteto de elfoj</lok></fnt>;
+      </ekz>
+      <ekz>
+        <ind><tld/>pova</ind><fnt>Z</fnt>;
+        <trd lng="en">omnipotent</trd>
+        <trd lng="hu">mindenhat&oacute;</trd>
+        <trd lng="it">onnipotente</trd>
+        <trd lng="ru">&c_v;&c_s;&c_je;&c_m;&c_o;&c_g;&c_u;&c_shch;&c_i;&c_j;</trd>
+        <trd lng="pl">wszechmog&aogonek;cy</trd>
+        <trdgrp lng="es">
+          <trd>omnipotente</trd>,
+          <trd>todo poderoso</trd>
+        </trdgrp>
+      </ekz>
+      <ekz>
+        <ind><tld/>pardona</ind>
+        <fnt><bib>MT</bib>, <lok>&Eli; 30:10</lok></fnt>;
+        <trd lng="hu">mindent megbocs&aacute;t&oacute;</trd>
+        <trd lng="ru">&c_v;&c_s;&c_je;&c_p;&c_r;&c_o;&c_shch;&c_a;&c_ju;&c_shch;&c_i;&c_j;</trd>
+      </ekz>
+      <ekz>
+        <ind><tld/>nsciado</ind>
+        <fnt><bib>MT</bib>, <lok>&Sen; 3:20</lok></fnt>;
+        <trd lng="en">omniscience</trd>
+        <trd lng="hu">mindentud&aacute;s</trd>
+        <trd lng="it">onniscienza</trd>
+        <trd lng="ru">&c_v;&c_s;&c_je;&c_z;&c_n;&c_a;&c_n;&c_i;&c_je;</trd>
+        <trd lng="es">omnisciencia</trd>
+      </ekz>
+      <ekz>
+        <ind><tld/>npova</ind>.
+        <trd lng="en">omnipotent</trd>
+        <trd lng="hu">mindenhat&oacute;</trd>
+        <trd lng="it">onnipotente</trd>
+        <trd lng="ru">&c_v;&c_s;&c_je;&c_m;&c_o;&c_g;&c_u;&c_shch;&c_i;&c_j;</trd>
+        <trd lng="pl">wszechmog&aogonek;cy</trd>
+        <trdgrp lng="es">
+          <trd>omnipotente</trd>,
+          <trd>todo poderoso</trd>
+        </trdgrp>
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_u;&c_s;&c_jo;</trd>
+  <trd lng="de">alles</trd>
+  <trd lng="en">everything</trd>
+  <trd lng="es">todo</trd>
+  <trd lng="fr">tout</trd>
+  <trd lng="he">&kaf;&lamed; &dalet;&bet;&resh;</trd>
+  <trd lng="hu">minden</trd>
+  <trd lng="it">tutto<klr> (ogni cosa)</klr></trd>
+  <trd lng="nl">alles</trd>
+  <trd lng="pl">wszystko</trd>
+  <trd lng="pt">tudo</trd>
+  <trd lng="ru">&c_v;&c_s;&c_jo;</trd>
+  <trd lng="sk">v&scaron;etko</trd>
+  <trdgrp lng="tp">
+    <trd>ale</trd>,
+    <trd>ali</trd>
+  </trdgrp>
+  <trd lng="vo">valikos</trd>
+</drv>
+</art>
+<!--
+$Log: cxio.xml,v $
+Revision 1.24  2011/12/16 19:10:08  revo
+Eduardo Navas: +trad es
+
+Revision 1.23  2009/08/08 16:33:29  revo
+Russ Williams: +trd en
+
+Revision 1.22  2009/04/17 19:48:42  revo
+Antonio Codazzi: +trd it
+
+Revision 1.21  2008/01/28 17:30:49  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.20  2006/09/07 16:56:56  revo
+Axel Rousseau: +trd tp
+
+Revision 1.19  2004/03/25 18:28:23  revo
+Jeromo Vasxe: + 1 ekz fundam.
+
+Revision 1.18 2004/01/14 18:46:33 revo
+Dmitri Gabinski: +trd be
+
+Revision 1.17 2003/03/28 17:32:07 revo
+-->
+</vortaro>

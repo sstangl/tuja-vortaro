@@ -1,0 +1,129 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: gri.xml,v 1.24 2015/07/04 08:37:35 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>gri</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="gri.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="gri.0o.KUI">
+    <uzo tip="fak">KUI</uzo>
+    <dif>
+      Sen&scirc;eligita kaj malfajne pistita greno:
+      <ekz>
+        sed multe pli impone estas, ke en &gcirc;i ni ricevas
+        varman ka&ccirc;on el <tld/>o
+        <fnt>
+          <aut>S. Maul</aut>,
+          <vrk>El verva vivo &jcirc;urnalista</vrk>,
+          <lok>p. 17</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <bld lok="../bld/grenproduktoj.svg.gif">
+    grenproduktoj
+  </bld>
+  <adm>
+    Ial PIV1 konas preska&ubreve;sinonimon &leftquot;semolo&rightquot;. <aut>MB</aut>
+  </adm>
+  <adm>
+    Semolo &scirc;ajne uzi&gcirc;as precipe por la grenprodukto signita en la
+    grafiko per grio&quadrat;, pli malfajna ol faruno (de: Grie&szlig;). Tiu
+    ne estas
+    la fundamenta senco (de: Gr&uuml;tze) de la vorto, tamen aperas ekz. en
+    la vortaroj de Krause [KrDE]. <aut>WD</aut>
+  </adm>
+  <trd lng="be">&c_k;&c_r;&c_u;&c_p;&c_y;</trd>
+  <trd lng="ca">s&egrave;mola<klr> (producte)</klr></trd>
+  <trdgrp lng="de">
+    <trd>Gr&uuml;tze</trd>,
+    <trd>Grie&szlig;</trd>,
+    <trd>Graupen</trd>,
+    <trd>Gr&auml;upchen</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>coarse meal</trd>,
+    <trd>grits</trd>,
+    <trd>groats</trd>
+  </trdgrp>
+  <trd lng="fa">&a_b;&a_l;&a_gh;&a_w;&a_r;</trd>
+  <trdgrp lng="fr">
+    <trd>gruau</trd>,
+    <trd>semoule</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>dara</trd>,
+    <trd>gr&iacute;z</trd>
+  </trdgrp>
+  <trd lng="nl">griesmeel</trd>
+  <trdgrp lng="pt">
+    <trd>s&ecirc;mola</trd>,
+    <trd>canjiquinha</trd>
+  </trdgrp>
+  <trd lng="ru">&c_k;&c_r;&c_u;&c_p;&c_a;</trd>
+  <trd lng="tr">irmik</trd>
+  <trd lng="sk">krúpy</trd>
+  <trd lng="cs">kroupy</trd>
+</drv>
+
+<drv mrk="gri.0ajxo">
+  <kap><tld/>a&jcirc;o</kap>
+  <snc mrk="gri.0ajxo.KUI">
+    <uzo tip="fak">KUI</uzo>
+    <dif>
+      Ka&ccirc;o el <tld/>o.
+    </dif>
+  </snc>
+  <trd lng="be">&c_k;&c_a;&c_sh;&c_a; <klr tip="amb">(&c_z; &c_k;&c_r;&c_u;&c_p;&c_a;&c_w;)</klr></trd>
+  <trd lng="ca">s&egrave;mola<klr> (plat)</klr></trd>
+  <trdgrp lng="de">
+    <trd>Gr&uuml;tze</trd>,
+    <trd>Grie&szlig;brei</trd>
+  </trdgrp>
+  <trd lng="en">porridge</trd>
+  <trdgrp lng="fa">
+    <trd>&a_h;&a_fatha;&a_l;&f_y;&a_m;</trd>,
+    <trd>&a_kh;&a_w;&a_r;&a_A;&f_k; &a_b;&a_l;&a_gh;&a_w;&a_r;</trd>
+  </trdgrp>
+  <trd lng="fr">semoule<klr tip="ind"> (plat)</klr></trd>
+  <trd lng="hu">darak&aacute;sa</trd>
+  <trd lng="nl">griesmeelpap</trd>
+  <trd lng="ru">&c_k;&c_a;&c_sh;&c_a; <klr>(&c_i;&c_z; &c_k;&c_r;&c_u;&c_p;&c_y;)</klr></trd>
+</drv>
+</art>
+<!--
+$Log: gri.xml,v $
+Revision 1.24  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.23  2015/06/29 16:29:39  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.22  2012/08/19 00:11:23  revo
+Marc Rausell: + trd ca
+
+Revision 1.21  2011/12/28 21:10:08  revo
+Wolfram Diestel: aldonis adm
+
+Revision 1.20  2011/12/28 20:10:07  revo
+Wolfram Diestel: adaptis bildgrandecon
+
+Revision 1.19  2011/12/28 15:10:08  revo
+Wolfram Diestel: ordo de germanaj tradukoj, fundamenta signifo unue
+
+Revision 1.18  2011/12/28 14:10:08  revo
+Wolfram Diestel: aldonis grafikon pri grenproduktoj
+
+Revision 1.17  2011/12/24 13:10:10  revo
+Wolfram Diestel: pli da germ trd
+
+Revision 1.16  2011/04/03 17:10:07  revo
+Jeromo Vasxe: +mrk, koncizig. dif
+
+Revision 1.15  2009/09/28 16:30:33  revo
+-->
+</vortaro>

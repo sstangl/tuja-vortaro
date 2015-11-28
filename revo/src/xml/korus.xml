@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: korus.xml,v 1.19 2015/07/04 08:37:38 revo Exp $">
+<kap>
+  <rad>korus</rad>/o
+  <fnt>V</fnt>
+</kap>
+<drv mrk="korus.0o">
+  <kap><tld/>o</kap>
+  <snc>
+  <uzo tip="fak">MUZ</uzo>
+  <uzo tip="fak">TEA</uzo>
+      <ref tip="dif" cel="hxor.0o.kantistaro">&hcirc;oro</ref>
+      <ekz>
+	japana virina <tld/>o parkere kantis hungarajn
+	melodiojn<fnt><aut>Juh&aacute;sz K&aacute;roly</aut>: <vrk>Korusa konkurso</vrk>,
+	<bib>Monato</bib><lok>jaro 2000a, numero 12a, p. 14a</lok></fnt>.
+      </ekz>
+  </snc>
+  <trd lng="be">&c_h;&c_o;&c_r;</trd>
+  <trd lng="cs">chór</trd>
+  <trd lng="de">Chor</trd>
+  <trdgrp lng="fr">
+    <trd>choeur<klr> (troupe)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>&eacute;nekkar</trd>,
+    <trd>k&oacute;rus</trd>,
+    <trd>kar <klr tip="ind">(sz&iacute;npadi)</klr></trd>
+  </trdgrp>
+  <trd lng="nl">koor</trd>
+  <trd lng="pl">ch&oacute;r</trd>
+  <trd lng="pt">coro <klr tip="amb">(&ocirc;)</klr></trd>
+  <trd lng="ru">&c_h;&c_o;&c_r;</trd>
+  <trd lng="sk">chór</trd>
+  <trd lng="sv">k&ouml;r<klr tip="ind"> (mus.)</klr></trd>
+</drv>
+
+<drv mrk="korus.0ano">
+  <kap><tld/>ano</kap>
+  <snc>
+  <uzo tip="fak">MUZ</uzo>
+      <ref tip="dif" cel="hxor.0ano">&hcirc;orano</ref>
+      <ekz>
+	Alvenis el 13 landoj &ccirc;. 1500 <tld/>anoj<fnt><aut>Juh&aacute;sz
+	K&aacute;roly</aut>:
+	<vrk>Korusa konkurso</vrk>, <bib>Monato</bib><lok>jaro 2000a,
+	numero
+	12a, p. 14a</lok></fnt>.
+      </ekz>
+  </snc>
+  <trd lng="de">Chors&auml;nger</trd>
+  <trdgrp lng="fr">
+    <trd>choriste</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>&eacute;nekkaros</trd>,
+    <trd>kar&eacute;nekes</trd>,
+    <trd>&eacute;nekkari tag</trd>,
+    <trd>k&oacute;rustag</trd>
+  </trdgrp>
+  <trd lng="nl">koorzanger</trd>
+  <trd lng="pl">ch&oacute;rzysta</trd>
+  <trd lng="ru">&c_h;&c_o;&c_r;&c_i;&c_s;&c_t;</trd>
+  <trd lng="sv">k&ouml;rs&aring;ngare</trd>
+</drv>
+</art>
+<!--
+$Log: korus.xml,v $
+Revision 1.19  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2015/01/15 20:10:16  revo
+Damien Brucker: +ref
+
+Revision 1.16  2013/04/19 05:10:17  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.15  2009/09/13 16:57:02  revo
+Paul Peeraerts: +nl
+
+Revision 1.14  2008/11/16 17:30:43  revo
+Jerano Zachrisson: +trd sv
+
+Revision 1.13  2006/11/11 17:30:43  revo
+Tulio Flores: +tr pt
+
+Revision 1.12  2005/06/28 20:26:40  revo
+Yury Finkel: +trd ru, formatigis
+
+Revision 1.11 2004/04/28 16:31:54 revo
+Jozefo Horvath: +trd hu
+
+Revision 1.10 2003/03/12 17:31:05 revo
+-->
+</vortaro>

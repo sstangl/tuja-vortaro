@@ -1,0 +1,1050 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: dorm.xml,v 1.56 2015/07/04 14:10:16 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>dorm</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="dorm.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="dorm.0i.ripozi">
+    <dif>
+      Esti en stato de korpa kaj spirita senaktiveco, kiu &ccirc;e 
+      la homoj ordinare okazas dum &ccirc;iu nokto, kaj estas necesa
+      por ripozigi la homojn kaj la bestojn:
+      <ekz>
+        nia sukceso ne lasas ilin <tld/>i<fnt>Z</fnt>;
+      </ekz><ekz>
+        <ind><tld/>i &scirc;tonan <klr>(profundan) </klr> <tld/>on</ind>
+           
+        <fnt>B</fnt>.
+        <trd lng="ca">dormir com un tronc</trd>
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="dorm.0i.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Ne agi, resti senaga, kvieta:
+      <ekz>
+        la longe <tld/>intaj semoj komencis
+        doni la unuajn trunketojn<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_p;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="bg">&c_s;&c_p;&c_ja;</trd>
+  <trd lng="ca">dormir</trd>
+  <trd lng="cs">sp&aacute;t</trd>
+  <trdgrp lng="de">
+    <trd>schlafen</trd>, <trd>ruhen</trd>
+  </trdgrp>
+  <trd lng="en">sleep</trd>
+  <trd lng="es">dormir</trd>
+  <trdgrp lng="fr">
+    <trd>dormir</trd>,
+    <trd>reposer<klr tip="ind"> (dormir)</klr></trd>
+  </trdgrp>
+  <trd lng="hu">alszik</trd>
+  <trd lng="id">tidur</trd>
+  <trdgrp lng="ku">
+    <trd>xew de &ccedil;&ucirc;n</trd>,
+    <trd>xewtin</trd>,
+    <trd>xew&icirc;n</trd>,
+    <trd>niv&icirc;n</trd>
+  </trdgrp>
+  <trd lng="nl">slapen</trd>
+  <trd lng="pl">spa&cacute;</trd>
+  <trd lng="pt">dormir</trd>
+  <trd lng="ru">&c_s;&c_p;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="sk">spa&tcaron;</trd>
+  <trd lng="sv">sova</trd>
+  <trd lng="tp">lape</trd>
+  <trdgrp lng="zh">
+    <trd>&#30561; [<ind>shu&igrave;</ind>]</trd>
+    <trd>&#30496; [<ind>mi&aacute;n</ind>]</trd>
+    <trd>&#30561;&#35273; [<ind>shu&igrave; ji&agrave;o</ind>]</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="dorm.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="dorm.0o.ripozo">
+    <dif>
+      Stato de <tld/>anto:
+      <ekz>
+        la infano de Doroteo ripozis per trankvila <tld/>o
+        <fnt><bib>FK</bib>, <lok>la forgesita pipo</lok></fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="ca">
+      <trd>son</trd>,
+      <trd>dormici&oacute;</trd>
+    </trdgrp>
+    <trd lng="fr">sommeil<klr tip="ind"> (&eacute;tat du dormeur)
+    </klr></trd>
+  </snc>
+  <snc mrk="dorm.0o.FIG">
+    <dif>
+      Senaktiveco, senprogreso.
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="letarg.0o">letargio</ref>,
+      <ref cel="marasm.0o">marasmo</ref>,
+      <ref cel="stagn">stagno</ref>.
+    </refgrp>
+    <trdgrp lng="ca">
+      <trd>letargia</trd>,
+      <trd>inactivitat</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>sommeil<klr tip="ind"> (inactivit&eacute;)</klr></trd>,
+      <trd>repos<klr tip="ind"> (inactivit&eacute;)</klr></trd>
+    </trdgrp>
+  </snc>
+  <trd lng="be">&c_s;&c_o;&c_n;</trd>
+  <trd lng="bg">&c_s;&c_malmol;&c_n;</trd>
+  <trdgrp lng="cs">
+    <trd>span&iacute;</trd>,
+    <trd>sp&aacute;nek</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Schlaf</trd>,
+    <trd>Ruhe</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>alv&aacute;s</trd>,
+    <trd>&aacute;lom</trd>
+  </trdgrp>
+  <trd lng="nl">slaap<klr tip="ind"> (het slapen)</klr></trd>
+  <trd lng="pl">sen</trd>
+  <trd lng="pt">sono</trd>
+  <trd lng="ru">&c_s;&c_o;&c_n;</trd>
+  <trd lng="sk">sp&aacute;nok</trd>
+  <trd lng="sv">s&ouml;mn</trd>
+  <trd lng="tp">lape</trd>
+</drv>
+
+<drv mrk="dorm.0ema">
+  <kap><tld/>ema</kap>
+  <snc mrk="dorm.0ema.KOMUNE">
+    <dif>
+      Ema <tld/>i:
+      <ekz>
+        <klr>[mi estas]</klr> ne laca, ne laca... nur iom <tld/>ema
+        <fnt><bib>UrdHadda</bib>, <lok>p. 13a</lok></fnt>;
+      </ekz>
+      <ekz>
+        <ind><tld/>emo</ind> surprizis lin post tiu rafinite 
+        preparita man&gcirc;o
+        <fnt><bib>UrdHadda</bib>, <lok>p. 26a</lok></fnt>.
+        <trdgrp lng="ca">
+          <trd>somnol&egrave;ncia</trd>,
+          <trd>ensopiment</trd>
+        </trdgrp>
+        <trd lng="fr">sommeil<klr tip="ind"> (envie de dormir)</klr>
+        </trd>
+        <trd lng="hu">&aacute;lmoss&aacute;g</trd>
+        <trd lng="nl">slaap<klr tip="ind"> (het slaperig zijn)</klr>
+        </trd>
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="ca">
+    <trd>somnolent</trd>,
+    <trd>endormiscat</trd>,
+    <trd>ensopit</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>ospal&yacute;</trd>,
+    <trd>r&aacute;d sp&iacute;c&iacute;</trd>
+  </trdgrp>
+  <trd lng="de">schl&auml;frig</trd>
+  <trd lng="fr">ensommeill&eacute;</trd>
+  <trdgrp lng="hu">
+    <trd>&aacute;lmos</trd>,
+    <trd>alusz&eacute;kony</trd>
+  </trdgrp>
+  <trd lng="id">[<ind>kantuk</ind>] mengantuk</trd>
+  <trd lng="nl">slaperig</trd>
+  <trdgrp lng="pl">
+    <trd>&sacute;pi&aogonek;cy</trd>,
+    <trd>rozespany</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>sonolento</trd>,
+    <trd>com <ind>sono</ind></trd>,
+    <trd>dorminhoco</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_o;&c_n;&c_n;&c_y;&c_j;<klr tip="amb">
+        (&c_h;&c_o;&c_t;&c_ja;&c_shch;&c_i;&c_j; 
+        &c_s;&c_p;&c_a;&c_t;&c_mol;)</klr></trd>,
+    <trd>&c_s;&c_o;&c_n;&c_l;&c_i;&c_v;&c_y;&c_j;</trd>,
+    <trd>&c_z;&c_a;&c_s;&c_p;&c_a;&c_n;&c_n;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trd lng="sk">ospal&yacute;</trd>
+  <trdgrp lng="sv">
+    <trd>s&ouml;mnig</trd>,
+    <trd>tr&ouml;tt</trd>
+  </trdgrp>
+  <trd lng="zh">&#36138;&#30561; [<ind>t&#257;n shu&igrave;</ind>]</trd>
+</drv>
+
+<drv mrk="dorm.0egi">
+  <kap><tld/>egi</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="dorm.0egi.KOMUNE">
+    <dif>
+      Profunde <tld/>i.
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_p;&c_a;&c_c;&c_mol; 
+  &c_g;&c_l;&c_y;&c_b;&c_o;&c_k;&c_ib;&c_m;
+    &c_s;&c_n;&c_o;&c_m;</trd>
+  <trdgrp lng="ca">
+    <trd>dormir <ind>profundament</ind></trd>,
+    <trd>dormir com un <ind>soc</ind></trd>
+  </trdgrp>
+  <trd lng="cs">sp&aacute;t hlubok&yacute;m sp&aacute;nkem</trd>
+  <trdgrp lng="de">
+    <trd>fest schlafen</trd>,
+    <trd>im tiefen Schlaf liegen</trd>
+  </trdgrp>
+  <trd lng="fr">dormir d'un sommeil de plomb</trd>
+  <trd lng="hu">m&eacute;lyen <ind>alszik</ind></trd>
+  <trd lng="nl">diep <ind>slapen</ind></trd>
+  <trdgrp lng="pl">
+    <trd>spa&cacute; g&lstroke;&eogonek;bokim snem</trd>,
+    <trd>spa&cacute; g&lstroke;&eogonek;boko</trd>,
+    <trd>spa&cacute; mocnym snem</trd>,
+    <trd>spa&cacute; mocno</trd>,
+    <trd>spa&cacute; kamiennym snem</trd>,
+    <trd>spa&cacute; jak kamie&nacute;</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_p;&c_a;&c_t;&c_mol; 
+    &c_g;&c_l;&c_u;&c_b;&c_o;&c_k;&c_i;&c_m;
+      &c_s;&c_n;&c_o;&c_m;</trd>,
+    <trd>&c_d;&c_r;&c_y;&c_h;&c_n;&c_u;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="sk">tvrdo spa&tcaron;</trd>
+  <trd lng="sv">sova djupt</trd>
+</drv>
+
+<drv mrk="dorm.0eti">
+  <kap><ofc>*</ofc><tld/>eti</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="dorm.0eti.KOMUNE">
+    <dif>
+      Dormi mallonge, malintense,
+      <ref tip="vid" cel="dorm.duon0i.KOMUNE">duon<tld/>i</ref>:
+      <ekz>
+        li sidas apud la tablo kaj <tld/>etas
+        <fnt><bib>F</bib>, <lok>&FE; 38</lok></fnt>.
+      </ekz>
+    </dif>
+        <trd lng="be">&c_d;&c_r;&c_a;&c_m;&c_a;&c_c;&c_mol;</trd>
+        <trdgrp lng="ca">
+          <trd>dormisquejar</trd>,
+          <trd>becar</trd>
+        </trdgrp>
+        <trdgrp lng="de">
+      <trd>d&ouml;sen</trd>,
+      <trd>schlummern</trd>
+    </trdgrp>
+        <trdgrp lng="fr">
+          <trd>sommeiller</trd>,
+          <trd>somnoler</trd>
+        </trdgrp>
+        <trdgrp lng="hu">
+          <trd>szundik&aacute;l</trd>,
+          <trd>b&oacute;logat <klr tip="ind">(szundik&aacute;l)</klr>
+          </trd>
+        </trdgrp>
+        <trdgrp lng="nl">
+          <trd>soezen</trd>,
+          <trd>dutten</trd>,
+          <trd>doezelen</trd>
+        </trdgrp>
+        <trdgrp lng="pl">
+          <trd>drzema&cacute;</trd>,
+          <trd>ucina&cacute; drzemk&eogonek;</trd>
+        </trdgrp>
+        <trd lng="ru">&c_d;&c_r;&c_je;&c_m;&c_a;&c_t;&c_mol;</trd>
+        <trdgrp lng="sv">
+          <trd>d&aring;sa</trd>,
+          <trd>slumra</trd>
+        </trdgrp>
+        <trd lng="zh">&#23567;&#30561; [<ind>xi&#462;o shu&igrave;</ind>]</trd>
+  </snc>
+  <snc mrk="dorm.0eti.KOMP">
+        <uzo tip="fak">KOMP</uzo>
+        <dif>
+          (Pri komputilo a&ubreve; simila aran&gcirc;a&jcirc;o:) Funkcii
+          en la re&gcirc;imo de
+          minimuma energikonsumo, plenumante nenian laboron krom la
+          kontrolo, &ccirc;u venis veka signalo:
+          <ekz>
+            &ccirc;i tiu agordo preskribas al la bitlibro <tld/>eti se
+            dum
+            20 minutoj venis nenia komando de la leganto.
+          </ekz>
+        </dif>
+        <trdgrp lng="en">
+          <trd>sleep</trd>,
+          <trd>suspend to RAM</trd>
+        </trdgrp>
+        <trd lng="ru">&c_b;&c_y;&c_t;&c_mol; &c_v;
+        <ind>&c_r;&c_je;&c_zh;&c_i;&c_m;&c_je;
+        &c_s;&c_n;&c_a;</ind></trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>d&rcaron;&iacute;mat</trd>,
+    <trd>pod&rcaron;imovat</trd>
+  </trdgrp>
+  <trd lng="sk">podriemka&tcaron; si</trd>
+</drv>
+
+<drv mrk="dorm.0igi">
+  <kap><tld/>igi</kap>
+  <snc mrk="dorm.0igi.ripozigi">
+    <dif>
+      Igi a&ubreve; teni iun <tld/>anta:
+      <ekz>
+        la patrino lulante <tld/>igas la infanon;
+      </ekz>
+      <ekz>
+        <tld/>igi pacienton per kloroformo.
+      </ekz>
+    </dif>
+    <trdgrp lng="ca">
+      <trd>ensopir</trd>,
+      <trd>cloroformitzar</trd>
+    </trdgrp>
+    <trd lng="de">in Schlaf versetzen</trd>
+  </snc>
+  <snc mrk="dorm.0igi.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Trompante trankviligi:
+      <ekz>
+        eble la ruza Feniciano sukcesis <tld/>igi iliajn 
+        suspektemajn korojn
+        <fnt><bib>Far2</bib>, <lok>&ccirc;apitro 6a</lok></fnt>?
+      </ekz>
+      <trdgrp lng="ca">
+        <trd>calmar</trd>,
+        <trd>apaivagar</trd>
+      </trdgrp>
+    </dif>
+    <trd lng="de">einschl&auml;fern</trd>
+  </snc>
+  <trd lng="be">&c_u;&c_s;&c_y;&c_p;&c_l;&c_ja;&c_c;&c_mol;</trd>
+  <trd lng="cs">uspat</trd>
+  <trd lng="fr">endormir</trd>
+  <trd lng="hu">elaltat</trd>
+  <trd lng="id">[<ind>tidur</ind>] menidurkan</trd>
+  <trd lng="nl">in <ind>slaap</ind> doen</trd>
+  <trd lng="pl">usypia&cacute;</trd>
+  <trd lng="ru">&c_u;&c_s;&c_y;&c_p;&c_i;&c_t;&c_mol;</trd>
+  <trd lng="sk">usp&aacute;vac&iacute;</trd>
+  <trd lng="sv">s&ouml;va</trd>
+</drv>
+
+<drv mrk="dorm.0igilo">
+  <kap><tld/>igilo</kap>
+  <snc mrk="dorm.0igilo.MED">
+    <dif>
+      En<tld/>iga <ref tip="super" cel="drog.0o.KEM">drogo</ref>:
+      <ekz>
+        mi uzas nek <tld/>igilojn nek aliajn psikmedikamentojn
+        <fnt><aut>C. Piron</aut>, <vrk>Kien esperanto?</vrk>
+          <lok>prelego en Cully, 1994.</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        oficiale mi ne havas efektivan <tld/>igilon, kaj
+        neoficiale... oni ne donas tiajn a&jcirc;ojn almoze e&ccirc;
+        al blinduloj
+        <fnt>
+          <bib>&Ccirc;uk&ccirc;oj</bib>, <lok>la trimova 
+          &scirc;akproblemo, 1947</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_n;&c_a;&c_t;&c_v;&c_o;&c_r;&c_n;&c_a;&c_je;
+  </trd>
+  <trdgrp lng="ca">
+    <trd>somn&iacute;fer(s)</trd>,
+    <trd>narc&ograve;tic(s)</trd>
+  </trdgrp>
+  <trd lng="cs">pr&aacute;&scaron;ek na span&iacute;</trd>
+  <trdgrp lng="de">
+    <trd>Schlafmittel</trd>,
+    <trd>Einschlafhilfe</trd>
+  </trdgrp>
+  <trd lng="en">soporific</trd>
+  <trd lng="fr">somnif&egrave;re</trd>
+  <trd lng="hu">altat&oacute;(szer)</trd>
+  <trd lng="pl">&sacute;rodek <ind>nasenny</ind></trd>
+  <trd
+  lng="ru">&c_s;&c_n;&c_o;&c_t;&c_v;&c_o;&c_r;&c_n;&c_o;&c_je;</trd>
+  <trd lng="sk">pr&aacute;&scaron;ok na spanie</trd>
+  <trd lng="sv">s&ouml;mnmedel</trd>
+</drv>
+
+<drv mrk="dorm.0ilo">
+  <kap><tld/>ilo</kap>
+  <uzo tip="stl">RAR</uzo>
+  <snc>
+    <dif>
+      A&jcirc;o servanta por <tld/>i, kiu faras <tld/>on pli 
+      komforta: lito, matraco, kuseno, <tld/>osako ktp.
+    </dif>
+  </snc>
+  <rim>
+    Iuj (ekzemple PAG) donas al <tld/>ilo la sencon de <tld/>igilo,
+    kaj oni indikas zamenhofan ekzemplon kiu &scirc;ajnas konfirmi
+    tiun opinion:
+    <ekz>
+      <ind>Konscienco trankvila estas bona <tld/>ilo</ind>
+      <fnt><bib>PrV</bib></fnt>.
+      <trd lng="de">Ein gut Gewissen ist ein sanftes
+      Ruhekissen</trd>
+      <trd lng="hu">nyugodt lelkiismeret, nyugodt &aacute;lom</trd>
+    </ekz>
+    Tamen tie estas miskompreno: la bona konscienco ne 
+    <em>ka&ubreve;zas</em> endormi&gcirc;on, kvankam &gcirc;i ja 
+    ebligas agrablan <tld/>on. La &leftquot;<tld/>ilo&rightquot;j ja
+    estas &leftquot;iloj por dormado&rightquot; kaj la proverbo 
+    senpere anta&ubreve;anta la &jcirc;us cititan pruvas ke
+    &gcirc;uste tion celis Zamenhof:
+    <ekz>
+      Konscienco senmakula estas <em>kuseno</em> plej mola.
+    </ekz>
+    <aut>Sergio Pokrovskij</aut>
+  </rim>
+  <trd lng="ca">roba de llit</trd>
+  <trdgrp lng="de">
+    <trd>Schlafger&auml;t</trd>,
+    <trd>Schlafhilfe</trd>
+  </trdgrp>
+  <trd lng="fr">&eacute;l&eacute;ment de <ind>literie</ind></trd>
+  <trdgrp lng="hu">
+    <trd>alv&oacute;szer</trd>,
+    <trd>alv&oacute;eszk&ouml;z</trd>,
+    <trd>alv&oacute; alkalmatoss&aacute;g</trd>
+  </trdgrp>
+  <trd lng="ru">&c_s;&c_p;&c_a;&c_l;&c_mol;&c_n;&c_a;&c_ja;
+  &c_p;&c_r;&c_i;&c_n;&c_a;&c_d;&c_l;&c_je;&c_zh;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
+  <trd lng="sk">pr&aacute;&scaron;ok na spanie</trd>
+  <trd lng="cs">pr&aacute;&scaron;ek na span&iacute;</trd>
+</drv>
+
+<drv mrk="dorm.duon0i">
+  <kap>duon<tld/>i</kap>
+  <snc mrk="dorm.duon0i.KOMUNE">
+    <dif>
+      Esti en parte <tld/>a, parte konscia stato;
+      <ref tip="sin" cel="somnol.0i.KOMUNE">somnoli</ref>:
+      <ekz>
+        jen, mi parolas, vi a&ubreve;das sen vere a&ubreve;skulti,
+        vi duon<tld/>as pli kaj pli
+        <fnt>
+          <aut>C. Piron</aut>,
+          <vrk><url ref="http://claudepiron.free.fr/livres/rigardo.htm">
+          La forto de rigardo</url></vrk>,
+          <lok>[vidita en 2013]</lok>
+        </fnt>.        
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="dorm.0eti.KOMUNE">dormeti</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>d&rcaron;&iacute;mat</trd>,
+    <trd>pod&rcaron;imovat</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>d&ouml;sen</trd>,
+    <trd>im Halbschlaf liegen</trd>
+  </trdgrp>
+  <trd lng="fr">somnoler</trd>
+  <trd lng="sk">podriemka&tcaron; si</trd>
+</drv>
+
+<drv mrk="dorm.duon0o">
+  <kap>duon<tld/>o</kap>
+  <snc mrk="dorm.duon0o.KOMUNE">
+    <dif>
+      Stato de iu parte <tld/>a, parte konscia;
+      <ref tip="sin" cel="somnol.0o.KOMUNE">somnolo</ref>:
+      <ekz>
+        kelkfoje li tamen falis en ian duon<tld/>on, en kiu 
+        li vidis kaj a&ubreve;dis &ccirc;ion, kio okazis
+        &ccirc;irka&ubreve; li, sed 
+        en kiu la realeco miksis sin kun febraj vizioj
+        <fnt><aut>H. Sienkiewicz, trad. L. Zamenhof</aut>, 
+        <vrk>Quo vadis?</vrk>, <lok>1933</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="de">Halbschlaf</trd>
+  <trd lng="fr">somnolence</trd>
+</drv>
+
+<drv mrk="dorm.en0igi">
+  <kap>en<tld/>igi</kap>
+  <snc mrk="dorm.en0igi.KOMUNE">
+    <dif>
+      Meti iun en <tld/>on:
+      <ekz>
+        sed <tld/>u nun, fari&gcirc;u fre&scirc;a kaj sana! Mi
+        kantos kaj en<tld/>igos vin
+        <fnt><bib>Fab2</bib>, <lok>la najtingalo</lok></fnt>;
+      </ekz><ekz>
+        kaj &scirc;i en<tld/>igis lin sur siaj genuoj, kaj alvokis 
+        homon, kaj detondigis la sep buklojn de lia kapo
+        <fnt><bib>MT</bib>, <lok>&Jug; 16:19</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_u;&c_s;&c_y;&c_p;&c_l;&c_ja;&c_c;&c_mol;</trd>
+  <trd lng="ca">adormir</trd>
+  <trd lng="cs">uspat</trd>
+  <trd lng="de">zum Einschlafen bringen</trd>
+  <trd lng="fr">endormir</trd>
+  <trd lng="hu">elaltat</trd>
+  <trd lng="nl">in <ind>slaap</ind> doen</trd>
+  <trdgrp lng="pl">
+    <trd>usypia&cacute;</trd>,
+    <trd>k&lstroke;a&sacute;&cacute; spa&cacute;</trd>
+  </trdgrp>
+  <trd lng="ru">&c_u;&c_s;&c_y;&c_p;&c_i;&c_t;&c_mol;</trd>
+  <trd lng="sk">usp&aacute;vac&iacute;</trd>
+  <trd lng="sv">s&ouml;va</trd>
+</drv>
+
+<drv mrk="dorm.en0igxi">
+  <kap>en<tld/>i&gcirc;i</kap>
+  <snc mrk="dorm.en0igxi.propre">
+    <dif>
+      Transiri en <tld/>an staton, fali en <tld/>on:
+      <ekz>
+        <klr>[la najtingalo]</klr> kantis kaj la imperiestro
+        dol&ccirc;e en<tld/>i&gcirc;is
+        <fnt><bib>Fab2</bib>, <lok>la najtingalo</lok></fnt>;
+      </ekz><ekz>
+        mi ku&scirc;i&gcirc;as kaj en<tld/>i&gcirc;as, kaj mi 
+        veki&gcirc;as, &ccirc;ar la Eternulo min subtenas
+        <fnt><bib>MT</bib>, <lok>&Psa; 3:5</lok></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="ca">adormir-se</trd>
+      <trdgrp lng="pl">
+      <trd>zasypia&cacute;</trd>,
+      <trd>zapada&cacute; w sen</trd>
+    </trdgrp>
+    <trd lng="sv">somna</trd>
+  </snc>
+  <snc mrk="dorm.en0igxi.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Trankvile <ref tip="sin" cel="mort.0i">morti</ref> en paco:
+      <ekz>
+        tute malla&ubreve;te &gcirc;i <klr>(la mu&scirc;o)</klr> 
+        mallevi&gcirc;is sur la balanci&gcirc;antan trunketon de 
+        herbo, balancetis la kapon tiel, kiel nur &gcirc;i povas 
+        balanceti, kaj &gcirc;oje en<tld/>i&gcirc;is
+        <fnt>
+          <bib>Fab4</bib>,
+          <lok>Lasta son&gcirc;o de maljuna kverko</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;ar se ni kredas, ke Jesuo mortis kaj relevi&gcirc;is,
+        tiel anka&ubreve; tiujn, kiuj en<tld/>i&gcirc;is en Jesuo, 
+        Dio venigos kun li
+        <fnt><bib>NT</bib>, <lok>&Te1; 4:14</lok></fnt>.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="pas.for0i">forpasi</ref>
+    <trd lng="ca">transir</trd>
+    <trd lng="pl">zasypia&cacute;</trd>
+    <trd lng="sv">somna in</trd>
+  </snc>
+  <trd lng="be">&c_z;&c_a;&c_s;&c_n;&c_u;&c_c;&c_mol;</trd>
+  <trd lng="de">einschlafen</trd>
+  <trd lng="fr">s'<ind>endormir</ind></trd>
+  <trd lng="hu">elalszik</trd>
+  <trdgrp lng="nl">
+    <trd>in <ind>slaap</ind> vallen</trd>,
+    <trd>inslapen</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_u;&c_s;&c_n;&c_u;&c_t;&c_mol;</trd>,
+    <trd>&c_z;&c_a;&c_s;&c_n;&c_u;&c_t;&c_mol;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="dorm.en0igxo">
+  <kap>en<tld/>i&gcirc;o</kap>
+  <snc mrk="dorm.en0igxo.KOMUNE">
+    <dif>
+      Transiro en <tld/>an staton:
+      <ekz>
+        kontra&ubreve; la kunglui&gcirc;ado de la palpebroj 
+        <klr>...</klr> oni igas vespere anta&ubreve; la 
+        en<tld/>i&gcirc;o froti sur la fermitaj palpebroj 
+        &scirc;mira&jcirc;on kun blanka hidrarga precipitato
+        <fnt>
+          <bib>FK</bib>
+          <vrk>Kronika katara konjunktivito</vrk>.
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="ca">adormiment</trd>
+    <trdgrp lng="ru">
+      <trd>&c_z;&c_a;&c_s;&c_y;&c_p;&c_a;&c_n;&c_i;&c_je;</trd>,
+      <trd>&c_o;&c_t;&c_h;&c_o;&c_d; &c_k;&c_o; &c_s;&c_n;&c_u;
+      </trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>za&sacute;ni&eogonek;cie</trd>,
+      <trd>zapadni&eogonek;cie w sen</trd>
+    </trdgrp>
+    <trd lng="sv">insomnande</trd>
+  </snc>
+  <snc mrk="dorm.en0igxo.KRI">
+    <uzo tip="fak">KRI</uzo>
+    <dif>
+      En la tradicia kristanismo la En<tld/>i&gcirc;o de la Sankta
+      Dipatrino estas unu el la &ccirc;efaj
+      <ref tip="dif" cel="krist.0ano">kristanaj</ref> festoj
+      (<refgrp tip="dif">
+        <ref cel="fest.dekduopa0o">la dekduopaj festoj</ref>,
+        <ref cel="fest.dipatrina0o">la dipatrinaj festoj</ref>
+      </refgrp>),
+      per kiu la eklezio rememoras la miraklan morton de la 
+      Dipatrino:
+      <ekz>
+        inter la plej gravaj ortodoksaj festoj estas La 
+        En<tld/>i&gcirc;o kaj &Ccirc;ieliro de la sankta Dipatrino
+        <fnt>
+          <aut>D. Cibulevskij</aut>:
+          <vrk>Katedralo renaski&gcirc;anta</vrk>. <bib>Monato</bib>
+        </fnt>;
+      </ekz><ekz>
+        tiu, kiu konstruigis en la urbo la mona&hcirc;ejon
+        &leftquot;En<tld/>i&gcirc;o de la Dipatrino&rightquot;
+        <fnt>
+          <lok>
+          <url ref="http://57-ifef.rdsbv.ro/right_eks_13sinaia.htm">
+          SINAIA &#8208; la perlo de Karpatoj</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="cxiel1.0enpreno.KATfesto">&Ccirc;ielenpreno
+    </ref>
+    <trdgrp lng="ca">
+      <trd>assumpci&oacute;</trd>,
+      <trd>la Mare de D&eacute;u d'Agost (festivitat)</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>Assumption<klr> of the Virgin Mary</klr></trd>,
+      <trd>Dormition<klr> of the Virgin Mary</klr></trd>
+    </trdgrp>
+    <trd lng="la">Dormitio S. Mariae</trd>
+    <trd lng="pl">Za&sacute;ni&eogonek;cie</trd>
+    <trd lng="ru">&c_U;&c_s;&c_p;&c_je;&c_n;&c_i;&c_je;</trd>
+  </snc>
+</drv>
+
+<drv mrk="dorm.for0i">
+  <kap>for<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="dorm.for0i.KOMUNE">
+    <dif>
+      Perdi pro duma <tld/>o:
+      <ekz>
+        <ind>for<tld/>i la okazon</ind>
+        <trdgrp lng="de">
+          <trd><klr>die </klr>Gelegenheit <ind>verschlafen</ind>
+          </trd>,
+          <trd><klr>die </klr>Gelegenheit
+          <ind>auslassen</ind></trd>,
+          <trd><klr>die </klr>Sache <ind>verschlafen</ind></trd>
+        </trdgrp>
+        <trd lng="hu">elszalasztja az alkalmat</trd>
+        <fnt><bib>PrV</bib></fnt>;
+      </ekz><ekz>
+        for<tld/>i la tutan tagon.
+      </ekz>
+    </dif>
+    <trd lng="ca">perdre's, desaprofitar, deixar passar (per
+        estar dormint)</trd>
+  </snc>
+  <trd lng="be">&c_p;&c_r;&c_a;&c_s;&c_p;&c_a;&c_c;&c_mol;
+  <klr>(&c_u;&c_p;&c_u;&c_s;&c_mol;&c_c;&c_ib;&c_c;&c_mol; 
+  &c_n;&c_je;&c_sh;&c_t;&c_a; &c_p;&c_r;&c_a;&c_z;
+  &c_s;&c_o;&c_n;)</klr></trd>
+  <trd lng="ca">dormir <klr>(cont&iacute;nuament, sense interrupcions ni
+  despertar-se)</klr></trd>
+  <trd lng="cs">zaspat</trd>
+  <trd lng="de">verschlafen</trd>
+  <trd lng="fr">manquer<klr tip="ind"> (qc par inactivit&eacute;)
+  </klr></trd>
+  <trdgrp lng="hu">
+    <trd>elszalaszt</trd>,
+    <trd>&aacute;taluszik <klr tip="ind">(hagy elm&uacute;lni)</klr>
+    </trd>
+  </trdgrp>
+  <trd lng="nl">missen<klr tip="ind"> (door z.te overslapen)</klr></trd>
+  <trd lng="pl">przespa&cacute;</trd>
+  <trd lng="ru">&c_p;&c_r;&c_o;&c_s;&c_p;&c_a;&c_t;&c_mol; <klr>
+  (&c_sh;&c_a;&c_n;&c_s; &c_i; &c_t;.&c_p;.)</klr></trd>
+  <trd lng="sk">zaspa&tcaron;</trd>
+  <trd lng="sv">sova bort</trd>
+</drv>
+
+<drv mrk="dorm.mal0i">
+  <kap>mal<tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="dorm.mal0i.KOMUNE">
+    <dif>
+      Esti en la aktiva, ne <tld/>a stato, ne <tld/>i:
+      <ekz>
+        li mal<tld/>is jam tri noktojn apud la malsana patro;
+      </ekz><ekz>
+        ni mal<tld/>as en la tago, <tld/>as en la nokto kaj havas 
+        tiam niajn son&gcirc;ojn, sed kun arbo estas alia afero, 
+        arbo mal<tld/>as en la da&ubreve;ro de tri sezonoj, kaj nur 
+        en la komenco de la vintro &gcirc;i en<tld/>i&gcirc;as
+        <fnt><bib>Fab4</bib>,
+              <lok>lasta son&gcirc;o de maljuna kverko</lok></fnt>;
+      </ekz><ekz>
+        sed se diversaj homoj parolos diversmaniere, anka&ubreve; 
+        tiam mal<tld/>u, &ccirc;ar la sa&gcirc;o ordonas 
+        anta&ubreve;vidi prefere malbonon ol bonon
+        <fnt><bib>Far1</bib>, <lok>&ccirc;apitro 18a</lok></fnt>;
+      </ekz><ekz>
+            fakte &scirc;ajnas, ke kiam infano ku&scirc;as, &gcirc;i
+            preska&ubreve; neniam
+            estas plene mal<tld/>a
+            <fnt>
+              <aut>Reto Rosetti</aut>:
+              <vrk>La homo, problemsolva organismo</vrk>.
+              <lok>Literatura foiro, n-ro&nbsp;112 (aprilo 1988),
+              p.&nbsp;44</lok>
+            </fnt>;
+      </ekz><ekz>
+        <uzo tip="stl">FIG</uzo>
+        la Eternulo mal<tld/>as <klr>(= atentas, zorgas)</klr>
+        super siaj fideluloj
+	<fnt><bib>I&scirc;tar</bib>, <lok>&ccirc;ap.&nbsp;15a</lok></fnt>.
+      </ekz>
+    </dif>
+    <rim>
+      PV, PAG kaj PIV ial atribuas al <ctl>mal<tld/>i</ctl> la sencon
+      <ctl>sin deteni de <tld/>o dum la kutima <tld/>tempo</ctl>.  Tio
+      estas mallogika (&ccirc;ar rompas la simetrion inter
+      <ctl><tld/>i</ctl> kaj <ctl>mal<tld/>i</ctl>), malutila (&ccirc;ar
+      arbitre limigante la sencon de <ctl>mal<tld/>i</ctl> tio senigas
+      nin je vorto por situacio kiel la prezentita en la Fabela
+      ekzemplo) kaj simple malvera, kiel atestas la
+      ekzemploj. <ctl>Mal<tld/>i</ctl>, samkiel <ctl>dormi</ctl>, oni
+      povas je &ccirc;ia tempo, &ccirc;u kutima a&ubreve; ne.
+    </rim>
+  </snc>
+  <trd lng="be">&c_n;&c_ja; <ind>&c_s;&c_p;&c_a;&c_c;&c_mol;</ind>
+  </trd>
+  <trdgrp lng="ca">
+    <trd>tranuitar</trd>,
+    <trd>vetllar</trd>
+  </trdgrp>
+  <trd lng="cs">bd&iacute;t</trd>
+  <trd lng="de">wachen</trd>
+  <trd lng="en">to be <ind>awake</ind></trd>
+  <trd lng="es">estar <ind>despierto</ind></trd>
+  <trdgrp lng="fr">
+    <trd>rester <ind>&eacute;veill&eacute;</ind></trd>,
+    <trd>veiller<klr tip="ind"> (rester &eacute;veill&eacute;)</klr>
+    </trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>&eacute;bren van</trd>,
+    <trd>virraszt</trd>
+  </trdgrp>
+  <trd lng="nl">wakker zijn</trd>
+  <trdgrp lng="pl">
+    <trd>nie spa&cacute;</trd>,
+    <trd>by&cacute; na jawie</trd>,
+    <trd>powstrzymywa&cacute; si&eogonek; od snu</trd>
+  </trdgrp>
+  <trd
+  lng="ru">&c_b;&c_o;&c_d;&c_r;&c_s;&c_t;&c_v;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="sk">bdie&tcaron;</trd>
+  <trd lng="sv">vara <ind>vaken</ind></trd>
+</drv>
+
+<drv mrk="dorm.tra0i">
+  <kap>tra<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="dorm.tra0i.KOMUNE">
+    <dif>
+      Pasigi <tld/>ante:
+      <ekz>
+        tra<tld/>i la nokton
+        <fnt><bib>MT</bib>, <lok>&Jer; 14:8</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_r;&c_a;&c_s;&c_p;&c_a;&c_c;&c_mol; <klr>
+  (&c_n;&c_je;&c_j;&c_k;&c_ib; &c_ch;&c_a;&c_s;)</klr></trd>
+  <trdgrp lng="de">
+    <trd>durchschlafen</trd>,
+    <trd>verschlafen</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>&aacute;talszik</trd>,
+    <trd>v&eacute;gigalszik</trd>
+  </trdgrp>
+  <trd lng="nl">verslapen</trd>
+  <trd lng="pl">przespa&cacute;</trd>
+  <trd lng="ru">&c_p;&c_r;&c_o;&c_s;&c_p;&c_a;&c_t;&c_mol; <klr>
+  (&c_v;&c_s;&c_ju; &c_n;&c_o;&c_ch;&c_mol; &c_i;
+  &c_t;.&c_p;.)</klr></trd>
+</drv>
+
+<drv mrk="dorm.sat0i">
+  <kap>sat<tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="dorm.sat0i.KOMUNE">
+    <dif>
+      <tld lit="D"/>i sufi&ccirc;e, &gcirc;is la kontenta stato en 
+      kiu oni ne plu deziras <tld/>:
+      <ekz>
+        mi petas vin, Ramzes, sat<tld/>u
+	<fnt><bib>Far1</bib>, <lok>&ccirc;apitro 5a</lok></fnt>;
+      </ekz>
+      <ekz>
+        4 horoj la&ubreve; la organizantoj sufi&ccirc;as por 
+        sat<tld/>ado
+        <fnt><bib>LOdE</bib></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="ca">dormir suficientment</trd>
+  <trd lng="cs">dosyta se vyspat</trd>
+  <trd lng="de">ausschlafen</trd>
+  <trdgrp lng="en">
+    <trd>sleep one's fill</trd>,
+    <trd>have one's <ind>sleep</ind> out</trd>
+  </trdgrp>
+  <trd lng="hu">kialussza mag&aacute;t</trd>
+  <trd lng="nl">uitslapen</trd>
+  <trd lng="pl">wyspa&cacute; si&eogonek;</trd>
+  <trd lng="ru">&c_v;&c_y;&c_s;&c_p;&c_a;&c_t;&c_mol;&c_s;&c_ja;
+  </trd>
+  <trd lng="sk">vyspa&tcaron; sa dos&yacute;ta</trd>
+</drv>
+
+<drv mrk="dorm.sen0eco">
+  <kap>sen<tld/>eco</kap>
+  <snc mrk="dorm.sen0eco.MED">
+    <uzo tip="fak">MED</uzo>
+    <dif>
+      Malsana stato, en kiu oni ne povas <tld/>i:
+      <ekz>
+        ia kuracilo por vi kontra&ubreve; la sen<tld/>eco
+        <fnt><bib>&Ccirc;uk&ccirc;oj</bib>, <lok>la trimova 
+        &scirc;akproblemo</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">
+  &c_b;&c_ja;&c_s;&c_s;&c_o;&c_n;&c_mol;&c_n;&c_ib;&c_c;&c_a;</trd>
+  <trd lng="ca">insomni</trd>
+  <trdgrp lng="cs">
+    <trd>bd&ecaron;lost</trd>,
+    <trd>nespavost</trd>
+  </trdgrp>
+  <trd lng="de">Schlaflosigkeit</trd>
+  <trd lng="fr">insomnie</trd>
+  <trd lng="hu">&aacute;lmatlans&aacute;g</trd>
+  <trd lng="id">insomnia</trd>
+  <trd lng="nl">slapeloosheid</trd>
+  <trd lng="pl">bezsenno&sacute;&cacute;</trd>
+  <trd lng="ru">&c_b;&c_je;&c_s;&c_s;&c_o;&c_n;&c_n;&c_i;&c_c;&c_a;
+  </trd>
+  <trdgrp lng="sk">
+    <trd>bdelos&tcaron;</trd>,
+    <trd>nespavos&tcaron;</trd>
+  </trdgrp>
+  <trd lng="zh">&#22833;&#30496; [<ind>sh&#299; mi&aacute;n</ind>]</trd>
+</drv>
+
+<drv mrk="dorm.0omalsano">
+  <kap><tld/>omalsano</kap>
+  <snc mrk="dorm.0omalsano.MED">
+    <uzo tip="fak">MED</uzo>
+    <dif>
+      Infekta <ref tip="lst" cel="san.mal0o.MED"
+      lst="voko:malsanoj">malsano</ref> karakterizata de konstanta
+      <tld/>emo.
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_o;&c_n;&c_n;&c_a;&c_ja;
+  &c_h;&c_v;&c_a;&c_r;&c_o;&c_b;&c_a;</trd>
+  <trdgrp lng="ca">
+    <trd>s&iacute;ndrome de Kleine-Levin</trd>,
+    <trd>hipers&ograve;mnia</trd>
+  </trdgrp>
+  <trd lng="cs">spav&aacute; nemoc</trd>
+  <trd lng="de">Schlafkrankheit</trd>
+  <trd lng="fr">maladie du sommeil</trd>
+  <trd lng="hu">&aacute;lomk&oacute;r</trd>
+  <trd lng="id">[<ind>sakit</ind>] penyakit tidur</trd>
+  <trd lng="nl">slaapziekte</trd>
+  <trd lng="pl">&sacute;pi&aogonek;czka</trd>
+  <trd lng="ru">&c_s;&c_o;&c_n;&c_n;&c_a;&c_ja;
+  &c_b;&c_o;&c_l;&c_je;&c_z;&c_n;&c_mol;</trd>
+  <trd lng="sk">spav&aacute; choroba</trd>
+</drv>
+
+<drv mrk="dorm.disko0o">
+      <kap>disko<tld/>o</kap>
+      <uzo tip="fak">KOMP</uzo>
+      <snc>
+        <dif>
+          Tia stato de komputilo (a&ubreve; simila
+          aran&gcirc;a&jcirc;o), ke kvankam &gcirc;i
+          estas plene mal&scirc;altita, tamen &ccirc;iuj datumoj pri la
+          uzula
+          <ref cel="seanc.0o.komp">seanco<sncref/></ref> estas
+          konservitaj en
+          energi-nedependa memoro, plej ofte, sur
+          <ref cel="disk.0o.fiksita">fiksita disko</ref>:
+          <ekz>
+            &ccirc;e granda amplekso de la &ccirc;efmemeoro veki&gcirc;o
+            el
+            disko<tld/>o povas postuli rimarkeblan tempon.
+          </ekz>
+        </dif>
+      </snc>
+      <rim>
+        Multaj lingvoj uzas por &ccirc;i tiu nocio metaforan terminon,
+        ekvivalentan al la esperanta
+        <ref cel="dorm.vintro0o">vintro<tld/>o</ref>; la memklariga
+        kaj malimplica strukturo de la espernta termino biologia
+        ebligas uzi pli precizan terminon, kiu kombinas la metaforan
+        <ctl><tld/>o</ctl>n de <ctl>hibernation</ctl> kun la
+        &gcirc;usteco
+        de <ctl>suspend <em>to disk</em></ctl>.
+      </rim>
+      <trd lng="de">Ruhezustand</trd>
+      <trdgrp lng="en">
+        <trd>hibernation</trd>,
+        <trd>suspend to disk</trd>
+      </trdgrp>
+      <trd
+      lng="ru">&c_g;&c_i;&c_b;&c_je;&c_r;&c_n;&c_a;&c_c;&c_i;&c_ja;</trd>
+</drv>
+
+<drv mrk="dorm.vintro0o">
+      <kap>vintro<tld/>o</kap>
+      <uzo tip="fak">ZOO</uzo>
+      <snc>
+        <dif>
+          Speco de letargia stato, en kiun venas dum vintro iuj
+          bestoj (ekz-e urso, marmoto, vesperto):
+          <ekz>
+            tiel insektoj povas adapti&gcirc;i al variaj vivmedioj,
+            inter
+            ili la plej malvarmaj regionoj de la Tero, aplikante
+            biologiajn rimedojn kiaj la vintro<tld/>o kaj sezona
+            migrado
+            <fnt>
+              <vrk><url
+ ref="http://articles.portal-tol.net/english-language-eo/insekto">Insekto</url>.</vrk>
+            </fnt>.
+          </ekz>
+        </dif>
+      </snc>
+      <trd lng="de">Winterschlaf</trd>
+      <trd lng="en">hibernation</trd>
+      <trd lng="id">hibernasi</trd>
+      <trd lng="ru">&c_z;&c_i;&c_m;&c_n;&c_ja;&c_ja;
+      <ind>&c_s;&c_p;&c_ja;&c_ch;&c_k;&c_a;</ind></trd>
+</drv>
+
+<drv mrk="dorm.0oregximo">
+      <kap><tld/>ore&gcirc;imo</kap>
+      <snc  mrk="dorm.0oregximo.KOMP">
+        <uzo tip="fak">KOMP</uzo>
+        <dif>
+          Energi&scirc;para
+          <ref tip="super"
+          cel="regxim.0o.TEK">re&gcirc;imo<sncref/></ref>
+          de komputilo a&ubreve; simila aran&gcirc;a&jcirc;o dum iom
+          longaj senagaj
+          periodoj ene de 
+          <ref tip="super" cel="seanc.0o.komp">seanco<sncref/></ref>;
+          plej ofte
+          <ref tip="super" cel="dorm.0eti.KOMP">dormeto</ref> a&ubreve;
+          <ref cel="dorm.disko0o">diskodormo</ref>, sed eble kombino
+          de ili amba&ubreve;:
+          <ekz>
+            la <ind>hibrida <tld/>ore&gcirc;imo</ind> kombinas dormeton
+            (kies
+            avanta&gcirc;o estas tuja veki&gcirc;o) kun diskodormo (kiu
+            konservas
+            la seancajn datumojn anka&ubreve; en okazo de elektra
+            paneo).
+            <trd lng="en">hybrid sleep</trd>
+          </ekz>
+        </dif>
+        <trd lng="en">hybrid sleep</trd>
+        <trd lng="ru">&c_g;&c_i;&c_b;&c_r;&c_i;&c_d;&c_n;&c_y;&c_j;
+        &c_r;&c_je;&c_zh;&c_i;&c_m;
+        &c_e;&c_n;&c_je;&c_r;&c_g;&c_o;&c_s;&c_b;&c_je;&c_r;&c_je;&c_zh;&c_je;&c_n;&c_i;&c_ja;</trd>
+      </snc>
+      <trd lng="de">Ruhezustand</trd>
+      <trd lng="en">sleep mode</trd>
+      <trd lng="ru">&c_r;&c_je;&c_zh;&c_i;&c_m;
+      &c_e;&c_n;&c_je;&c_r;&c_g;&c_o;&c_s;&c_b;&c_je;&c_r;&c_je;&c_zh;&c_je;&c_n;&c_i;&c_ja;</trd>
+    </drv>
+
+</art>
+<!--
+$Log: dorm.xml,v $
+Revision 1.56  2015/07/04 14:10:16  revo
+Darcy Shen: + trd zh
+
+Revision 1.55  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.54  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.53  2014/12/31 10:10:32  revo
+Wolfram Diestel: +trd de per ViVo
+
+Revision 1.52  2014/11/23 21:10:28  revo
+Wolfram Diestel: uzu gx en marko, zip konfiuzighas pro tegmentitaj
+literoj
+
+Revision 1.51  2014/11/17 11:12:07  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.50  2014/05/29 08:10:16  revo
+Eko Nur Syah Hidayat: +id
+
+-->
+</vortaro>

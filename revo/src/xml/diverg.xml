@@ -1,0 +1,178 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: diverg.xml,v 1.14 2009/07/01 17:21:07 revo Exp $">
+<kap>
+  <rad>diver&gcirc;</rad>/i
+  <fnt>Z</fnt>
+</kap>
+<drv mrk="diverg.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="diverg.0i.disiri">
+    <uzo tip="klr">(p.p. direktoj, linioj a&ubreve; radioj)</uzo>
+    <dif>
+      Malproksimi&gcirc;i unu de la alia, disiri:
+      <ekz>
+        <uzo tip="fak">FOT</uzo>
+        kiam fasko da paralelaj radioj trairas vitran lenson,
+        kies rando estas pli dika ol la centro, la fasko <tld/>as.
+      </ekz>
+    </dif>
+    <rim>
+      &B; en <fnt><bib>VdE</bib></fnt> uzas alian formon de la radiko,
+      nome <ctl>diverg</ctl>.
+    </rim>
+    <trdgrp lng="pl">
+      <trd>by&cacute; <ind>rozbie&zdot;nym</ind></trd>,
+      <trd>rozchodzi&cacute; si&eogonek;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="diverg.0i.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>PIV1</bib></fnt>
+    <uzo tip="klr">(p.p. vicoj a&ubreve; serioj)</uzo>
+    <ref tip="dif" cel="konver.mal0i">malkonver&gcirc;i.</ref>
+    <trd lng="de">divergieren</trd>
+    <trd lng="en">diverge</trd>
+    <trdgrp lng="pl">
+      <trd>by&cacute; <ind>rozbie&zdot;nym</ind></trd>,
+      <trd>rozchodzi&cacute; si&eogonek;</trd>
+    </trdgrp>
+  </snc>
+  <refgrp tip="ant">
+    <ref cel="konver.0i">konver&gcirc;i</ref>.
+  </refgrp>
+  <trdgrp lng="be">
+    <trd>&c_r;&c_a;&c_z;&c_y;&c_h;&c_o;&c_d;&c_z;&c_ib;&c_c;&c_c;&c_a;</trd>,
+    <trd>&c_r;&c_a;&c_z;&c_mol;&c_b;&c_ja;&c_g;&c_a;&c_c;&c_c;&c_a;</trd>,
+    <trd>&c_b;&c_y;&c_c;&c_mol;
+    <ind>&c_r;&c_a;&c_z;&c_mol;&c_b;&c_je;&c_zh;&c_n;&c_y;&c_m;</ind></trd>
+  </trdgrp>
+  <trd lng="fr">diverger<klr tip="ind"> (math., phys.)</klr></trd>
+  <trd lng="pt">divergir</trd>
+  <trd
+  lng="ru">&c_r;&c_a;&c_s;&c_h;&c_o;&c_d;&c_i;&c_t;&c_mol;&c_s;&c_ja;
+  <klr tip="ind">(&c_m;&c_a;&c_t;., &c_f;&c_i;&c_z;.)</klr></trd>
+</drv>
+
+<drv mrk="diverg.0o">
+  <kap><tld/>o</kap>
+  <snc>
+    <dif>
+      Fenomeno <tld/>i.
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_r;&c_a;&c_z;&c_mol;&c_b;&c_je;&c_zh;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
+    <trd>&c_d;&c_y;&c_v;&c_e;&c_r;&c_g;&c_je;&c_n;&c_c;&c_y;&c_ja;</trd>
+  </trdgrp>
+  <trd lng="de">Divergenz</trd>
+  <trd lng="fr">divergence<klr tip="ind"> (math. pour une suite,
+  phys.)</klr></trd>
+  <trd lng="pl">rozbie&zdot;no&sacute;&cacute;</trd>
+  <trdgrp lng="ru">
+    <trd>&c_r;&c_a;&c_s;&c_h;&c_o;&c_zh;&c_d;&c_je;&c_n;&c_i;&c_je;</trd>,
+    <trd>&c_d;&c_i;&c_v;&c_je;&c_r;&c_g;&c_je;&c_n;&c_c;&c_i;&c_ja;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="diverg.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="diverg.0a.gxenerale">
+    <uzo tip="klr">(&gcirc;enerale)</uzo>
+    <dif>
+      <tld lit="D"/>anta:
+      <ekz>
+        <uzo tip="fak">FOT</uzo>
+        <ind><tld/>a fasko</ind>.
+        <trd lng="be">&c_r;&c_a;&c_z;&c_mol;&c_b;&c_je;&c_zh;&c_n;&c_y;
+        &c_p;&c_u;&c_ch;&c_o;&c_k;</trd>
+        <trd lng="fr">faisceau divergent</trd>
+        <trd lng="pl">wi&aogonek;zka rozbie&zdot;na</trd>
+        <trd
+        lng="ru">&c_r;&c_a;&c_s;&c_h;&c_o;&c_d;&c_ja;&c_shch;&c_i;&c_j;&c_s;&c_ja;
+        &c_p;&c_u;&c_ch;&c_o;&c_k;</trd>
+      </ekz>
+    </dif>
+    <trd lng="pl">rozbie&zdot;ny</trd>
+    <trd
+    lng="ru">&c_r;&c_a;&c_s;&c_h;&c_o;&c_d;&c_ja;&c_shch;&c_i;&c_j;&c_s;&c_ja;</trd>
+  </snc>
+  <snc mrk="diverg.0a.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>MatVort</bib></fnt>
+    <ref tip="dif" cel="konver.mal0a">malkonver&gcirc;a.</ref>
+    <trd lng="de">divergent</trd>
+    <trd lng="en">divergent</trd>
+    <trd lng="fr">divergent</trd>
+    <trd lng="pl">rozbie&zdot;ny</trd>
+    <trd
+    lng="ru">&c_r;&c_a;&c_s;&c_h;&c_o;&c_d;&c_ja;&c_shch;&c_i;&c_j;&c_s;&c_ja;</trd>
+  </snc>
+  <trd lng="be">&c_r;&c_a;&c_z;&c_mol;&c_b;&c_je;&c_zh;&c_n;&c_y;</trd>
+</drv>
+
+<drv mrk="diverg.0igi">
+  <kap><tld/>igi</kap>
+  <snc>
+    <dif>
+      Igi <tld/>a:
+      <ekz>
+        <uzo tip="fak">FOT</uzo>
+        <ind><tld/>iga</ind> lenso.
+        <trd lng="fr"><klr tip="ind">(lentille) </klr>divergente</trd>
+      </ekz>
+    </dif>
+  </snc>
+</drv>
+
+<drv mrk="diverg.0igeco">
+  <kap><tld/>igeco</kap>
+  <uzo tip="fak">FOT</uzo>
+  <snc>
+    <dif>
+      Mezurata propreco, kiun havas lenso por <tld/>igi.
+    </dif>
+  </snc>
+  <adm>
+    Stranga vorto. Mi suspektas, ke gxi celas la inverson de
+    fokusa distanco (ekzistanta nek en REVO, nek en PIV1).
+    Devus ekzisti simetria termino: konvergxigeco, sed gxi
+    mankas. En PIV1 sub "dioptrio" aperas "fokusa distanco"
+    kaj "konvergxebleco" (nenie difinitaj). Notu ankaux, ke
+    PIV1 (sub "lenso") parolas pri "dioptika povo" de
+    lenso. "Dioptika" ne ekziskas kaj "povo" estas difinita
+    kiel rilato inter angulo de objekto vidita tra lenso kaj
+    ties longo... Tio sxajnas kongrui kun neniu el la kutimaj
+    optikaj sencoj de "puissance" en la franca. <aut>MB</aut>
+  </adm>
+</drv>
+</art>
+<!--
+$Log: diverg.xml,v $
+Revision 1.14  2009/07/01 17:21:07  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.13  2007/08/09 16:30:20  revo
+Tulio Flores: +tr pt
+
+Revision 1.12  2004/03/17 17:30:40  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.11  2003/09/08 16:31:03  revo
+Yury Finkel: +trd ru, kor trd ru, kor tajperarojn
+
+Revision 1.10  2003/01/02 17:44:57  revo
+Marc Bavant: +trd pl
+
+Revision 1.9  2002/12/18 18:51:43  revo
+Ulrich Fellmann: + 1 plia trd = de
+
+Revision 1.8  2002/02/23 19:58:09  revo
+Marc Bavant: koherigis kun konvergxi; ~i1: -uzo FIZ, mod dif, mod ekz,
++rim, +uzo FOT en ekz, mod ind, +rim
+
+-->
+</vortaro>

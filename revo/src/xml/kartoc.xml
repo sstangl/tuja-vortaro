@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: kartoc.xml,v 1.16 2015/09/18 06:10:15 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>karto&ccirc;</rad>/o
+</kap>
+<drv mrk="kartoc.0o">
+  <kap>
+    <ofc>*</ofc><tld/>o
+  </kap>
+  <snc>
+    <uzo tip="fak">SPO</uzo>
+    <dif>
+      Cilindra ujeto, el kartono a&ubreve; metalo, entenanta pulvo&scirc;argon kaj
+      plumberojn, uzata por &ccirc;aspafiloj.
+    </dif>
+    <trdgrp lng="en">
+      <trd>cartridge</trd>,
+      <trd>shot <ind>shell</ind></trd>,
+      <trd>shotgun <ind>shell</ind></trd>
+    </trdgrp>
+    <trd lng="hu">t&ouml;lt&eacute;nyh&uuml;vely</trd>
+  </snc>
+  <snc mrk="kartoc.0o.MIL">
+    <uzo tip="fak">MIL</uzo>
+    <uzo tip="fak">SPO</uzo>
+    <dif>
+      Kunmeta&jcirc;o de
+      <ref tip="sub" cel="kugl.0ingo">kuglingo</ref> kaj de
+      <ref tip="sub" cel="kugl.0o">kuglo</ref>,
+      uzata por pistoloj, revolveroj,
+      karabenoj kaj militpafiloj.
+    </dif>
+  <trd lng="be">&c_p;&c_a;&c_t;&c_r;&c_o;&c_n;</trd>
+    <trdgrp lng="en">
+      <trd>cartridge</trd>,
+      <trd>shell</trd>
+    </trdgrp>
+    <trd lng="hu">t&ouml;lt&eacute;ny</trd>
+  </snc>
+  <trd lng="bg">&c_p;&c_a;&c_t;&c_r;&c_o;&c_n;</trd>
+  <trd lng="ca">cartutx</trd>
+  <trd lng="de">Patrone</trd>
+  <trd lng="es">cartucho</trd>
+  <trd lng="fr">cartouche<klr tip="ind"> (subst. f&eacute;m.)</klr></trd>
+  <trd lng="it">cartuccia</trd>
+  <trd lng="nl">patroon</trd>
+  <trd lng="ru">&c_p;&c_a;&c_t;&c_r;&c_o;&c_n;</trd>
+</drv>
+
+<drv mrk="kartoc.0ego">
+  <kap>
+    <tld/>ego
+  </kap>
+  <uzo tip="fak">MIL</uzo>
+  <snc>
+    <dif>
+      Kunmeta&jcirc;o de obusingo kaj de obuso uzata por rapidpafaj kanonoj.
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="pulv">pulvujo</ref>,
+      <ref cel="prajm.0o">prajmo</ref>.
+    </refgrp>
+  </snc>
+  <adm>
+    Malklara difino. La termino "obusingo" ne estas difinita.
+    <aut>MB</aut>
+  </adm>
+  <trd lng="be">&c_s;&c_n;&c_a;&c_r;&c_a;&c_d;</trd>
+  <trd lng="en">shell</trd>
+  <trd lng="hu">t&uuml;z&eacute;rs&eacute;gi <ind>l&ouml;ved&eacute;k</ind></trd>
+  <trd lng="it">munizione<klr> (di cannone)</klr></trd>
+  <trd lng="ru">&c_s;&c_n;&c_a;&c_r;&c_ja;&c_d;</trd>
+</drv>
+</art>
+<!--
+$Log: kartoc.xml,v $
+Revision 1.16  2015/09/18 06:10:15  revo
+Joop Eggen: +trd bg
+
+Revision 1.15  2010/06/10 16:30:48  revo
+Antonio Codazzi: +trd it
+
+Revision 1.14  2005/11/24 17:32:43  revo
+Raul Salinas Monteagudo: +trd ca,es
+
+Revision 1.13  2004/12/05 17:33:07  revo
+Marc Bavant: +trd fr, kor ref tip sin; ~ego: +adm
+
+Revision 1.12  2004/03/11 17:31:39  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.11  2002/10/25 16:32:15  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.10  2001/11/09 08:58:30  revo
+Yury Finkel: +trd ru, +TEZ, +snc mrk
+
+Revision 1.9  2001/11/07 19:16:14  revo
+-->
+</vortaro>

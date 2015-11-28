@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: anobi.xml,v 1.18 2015/07/04 08:37:30 revo Exp $">
+<kap>
+  <rad>anobi</rad>/o <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="anobi.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="anobi.0o.ZOO">
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      <ref tip="lst" cel="skarab.0o" lst="voko:skaraboj">Skarabo</ref>, 
+      kies larvo boras truojn en ligno;
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:zoologiaj_genroj">genro</ref> el familio <ref
+      tip="malprt"
+      cel="anobie.0oj"><tld/>edoj</ref>
+      (<trd lng="la">Anobium</trd>):
+      <ekz>
+        modesta ligna kruceto sur &ccirc;iu tombo;
+        la plimulto staras oblikve kaj estas
+        ron&gcirc;ata de <tld/>oj
+        <fnt>
+          <aut>S. Lang, trad. G. Berveling</aut>,
+          <vrk>La Talpo&ccirc;asisto</vrk>,
+          <lok>2007</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="ca">corc de la fusta</trd>
+  <trd lng="cs">červotoč</trd>
+  <trdgrp lng="de">
+    <trd>Pochk&auml;fer</trd>,
+    <trd>Klopfk&auml;fer</trd>,
+    <trd>Holzwurm</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>anobie</trd>,
+    <trd>vers de bois</trd>,
+    <trd>vrillette</trd>
+  </trdgrp>
+  <trd lng="nl">houtworm</trd>
+  <trd lng="pl">ko&lstroke;atek</trd>
+  <trd lng="ru">&c_t;&c_o;&c_ch;&c_i;&c_l;&c_mol;&c_shch;&c_i;&c_k; <klr
+  tip="amb">(&c_zh;&c_u;&c_k;)</klr></trd>
+  <trd lng="sk">červotoč</trd>
+</drv>
+</art>
+<!--
+$Log: anobi.xml,v $
+Revision 1.18  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.16  2013/10/03 08:11:08  revo
+Wolfram Diestel: listo skaraboj
+
+Revision 1.15  2013/09/01 13:10:47  revo
+Wolfram Diestel: referenco al listo zoo genroj
+
+Revision 1.14  2011/12/06 12:10:14  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.13  2011/07/14 05:10:11  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.12  2010/12/13 17:30:15  revo
+Wieland Pusch: korr de
+
+Revision 1.11  2010/12/12 17:30:23  revo
+Jeromo Vasxe: + ekz + 1 trd fr
+
+Revision 1.10  2002/02/23 19:51:42  revo
+Yury Finkel: +trd ru
+
+Revision 1.9 2002/01/04 17:32:42 revo
+-->
+</vortaro>

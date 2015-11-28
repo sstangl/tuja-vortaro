@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: kosmos.xml,v 1.7 2012/01/01 20:10:34 revo Exp $">
+<kap>
+  <rad>kosmos</rad>/o <fnt><bib>NePiv</bib></fnt>
+</kap>
+
+<drv mrk="kosmos.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="kosmos.0o.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      Genro de jaraj a&ubreve; plurjaraj herboj kun lar&gcirc;aj, koloraj floroj
+      el sudo de Nordameriko kaj Centrameriko,     
+      el familio <ref tip="super" cel="astera.0oj.BOT">asteracoj</ref>
+      (<trd lng="la">Cosmos</trd>):
+      <ekz>
+        la <tld/>o, kiun mia edzino plantis, hodia&ubreve; havas kvar
+        rozkolorajn
+        florojn
+        <fnt>
+        <aut>Vastalto</aut>,
+        <vrk><url
+        ref="http://www.vastalto.com/blog/">Akvosfero</url></vrk>,
+        <lok>La kosmoso floras, 2005-09-14</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="ca">cosmos</trd>
+  <trdgrp lng="de">
+    <trd>Cosmos<klr tip="amb"> (Pflanzengattung)</klr></trd>,
+    <trd>Kosmee<klr tip="amb"> (Pflanzengattung)</klr></trd>,
+    <trd>Schmuckk&ouml;rbchen<klr tip="amb"> (Pflanzengattung)</klr></trd>
+  </trdgrp>
+  <trd lng="fa">&a_sh;&a_kasra;&a_w;&f_y;&a_d;&f_y;</trd>
+  <trd lng="fr">Cosmos<klr tip="amb"> (fleurs)</klr></trd>
+  <trdgrp lng="nl">
+    <trd>cosmos</trd>,
+    <trd>cosmosbloem</trd>
+  </trdgrp>
+  <trd lng="pt">cosmos <klr tip="amb">(bot.)</klr></trd>
+</drv>
+</art>
+
+<!--
+$Log: kosmos.xml,v $
+Revision 1.7  2012/01/01 20:10:34  revo
+Marc Rausell: +trd ca
+
+Revision 1.6  2009/07/01 17:22:52  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.5  2009/06/22 16:30:31  revo
+Wieland Pusch: +trd de
+
+Revision 1.4  2009/06/21 16:31:17  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.3  2007/07/27 16:30:23  revo
+Wieland Pusch: +trd de
+
+Revision 1.2  2006/11/11 17:30:27  revo
+Tulio Flores: +tr pt
+
+Revision 1.1  2005/11/20 17:31:39  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

@@ -1,0 +1,156 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: sarkas.xml,v 1.24 2015/07/04 08:37:43 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>sarkasm</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="sarkas.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="stl">POE</uzo>
+  <snc mrk="sarkas.0o.KOMUNE">
+    <dif>
+      Akra kaj mordanta <ref tip="super" cel="mok.0o">moko</ref>.
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_a;&c_r;&c_k;&c_a;&c_z;&c_m;</trd>
+  <trd lng="bg">&c_s;&c_a;&c_r;&c_k;&c_a;&c_z;&c_malmol;&c_m;</trd>
+  <trdgrp lng="cs">
+    <trd>jedovatost</trd>,
+    <trd>jízlivost</trd>,
+    <trd>sarkazmus</trd>
+  </trdgrp>
+  <trd lng="de">Sarkasmus</trd>
+  <trd lng="en">sarcasm</trd>
+  <trd lng="es">sarcasmo</trd>
+  <trdgrp lng="fa">
+    <trd>&a_T;&a_ayn;&a_n;&a_h;</trd>,
+    <trd>&a_n;&f_y;&a_sh;</trd>,
+    <trd>&f_k;&a_n;&a_A;&f_y;&a_h;</trd>
+  </trdgrp>
+  <trd lng="fr">sarcasme</trd>
+  <trdgrp lng="hu">
+    <trd>szarkazmus</trd>,
+    <trd>mar&oacute; <ind>g&uacute;ny</ind></trd>
+  </trdgrp>
+  <trd lng="it">sarcasmo</trd>
+  <trd lng="nl">sarcasme</trd>
+  <trd lng="pl">sarkazm</trd>
+  <trdgrp lng="pt">
+   <trd>sarcasmo</trd>
+  </trdgrp>
+  <trd lng="ru">&c_s;&c_a;&c_r;&c_k;&c_a;&c_z;&c_m;</trd>
+  <trdgrp lng="sk">
+    <trd>jedovatosť</trd>,
+    <trd>sarkazmus</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="sarkas.0a">
+  <kap><tld/>a</kap>
+  <uzo tip="stl">POE</uzo>
+  <snc mrk="sarkas.0a.KOMUNE">
+    <dif>
+      Akre, vunde moka;
+      <ref tip="sin" cel="sardon.0a">sardona</ref>:
+      <ekz>
+        kun <tld/>a rideto sur la lipoj
+        <fnt><bib>FK</bib>, <lok>3, anekdotoj</lok></fnt>.
+      </ekz>
+    </dif>    
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_a;&c_r;&c_k;&c_a;&c_s;&c_t;&c_y;&c_ch;&c_n;&c_y;</trd>,
+    <trd>&c_s;&c_a;&c_r;&c_d;&c_a;&c_n;&c_ib;&c_ch;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trd lng="bg">&c_s;&c_a;&c_r;&c_k;&c_a;&c_s;&c_t;&c_i;&c_ch;&c_je;&c_n;</trd>
+  <trdgrp lng="cs">
+    <trd>jízlivý</trd>,
+    <trd>sarkastický</trd>,
+    <trd>sžíravý</trd>,
+    <trd>uštěpačný</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>sarcastic</trd>,
+    <trd>sardonic</trd>
+  </trdgrp>
+  <trdgrp lng="fa">
+    <trd>&a_T;&a_ayn;&a_n;&a_h;&zwnj;&a_A_madda;&a_m;&f_y;&a_z;</trd>,
+    <trd>&f_k;&a_n;&a_A;&f_y;&a_h;&zwnj;&a_A_madda;&a_m;&f_y;&a_z;</trd>,
+    <trd>&a_n;&f_y;&a_sh;&a_d;&a_A;&a_r;</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>sarcastique</trd>,
+    <trd>sardonique</trd>
+  </trdgrp>
+  <trd lng="it">sarcastico</trd>
+  <trd lng="pl">sarkastyczny</trd>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_a;&c_r;&c_k;&c_a;&c_s;&c_t;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j;</trd>,
+    <trd>&c_s;&c_a;&c_r;&c_d;&c_o;&c_n;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>sarkastický</trd>,
+    <trd>uštipačný</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="sarkas.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="sarkas.0i.KOMUNE">
+    <dif>
+      Diri kun <tld/>o, moke,
+      ofte <ref tip="vid" cel="antifr.0o">antifraze</ref>:
+      <ekz>
+        &ccirc;esu <tld/>i, idioto
+        <fnt>
+          <aut>C. Piron</aut>,
+          <vrk><url
+          ref="http://www.esperanto.org.uk/eldonoj/piron/tekstoj/Cxu_li_venis_trakosme.html">
+          &Ccirc;u li venis trakosme?</url></vrk>,
+          <lok>1980</lok>
+        </fnt>
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="fr">
+    <trd>ironiser</trd>,
+    <trd>se <ind>moquer</ind></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: sarkas.xml,v $
+Revision 1.24  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.23  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.22  2014/02/07 20:10:18  revo
+Damien Brucker: -eraro cxe ref
+
+Revision 1.21  2013/12/13 02:10:15  revo
+Jeromo Vasxe: + ~i
+
+Revision 1.20  2013/07/26 14:10:12  revo
+Joop Eggen: +trd bg
+
+Revision 1.19  2013/04/04 19:10:17  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.18  2009/09/29 16:31:02  revo
+Antonio Codazzi: +trd it
+
+Revision 1.17  2009/06/29 18:06:32  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.16  2006/02/07 17:32:17  revo
+Tulio Flores: +trd pt
+
+Revision 1.15  2005/06/27 19:21:31  revo
+-->
+</vortaro>

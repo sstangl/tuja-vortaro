@@ -1,0 +1,227 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: probab.xml,v 1.26 2015/07/04 08:37:42 revo Exp $">
+<kap>
+  <ofc>3</ofc>
+  <rad>probabl</rad>/a
+</kap>
+<drv mrk="probab.0a">
+  <kap><tld/>a</kap>
+  <snc>
+    <dif>
+      Havanta plimulto da &scirc;ancoj por efektivi&gcirc;i, a&ubreve;
+      plimulto da motivoj por esti vera:
+      <ekz>
+        ke viro, kia li, havas malamikojn, tio estas ebla
+        &#8208; e&ccirc; <tld/>a
+        <fnt><bib>UrdHadda</bib>, <lok>p. 13</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>potenciální</trd>,
+    <trd>pravděpodobný</trd>,
+    <trd>probabilní</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>wahrscheinlich</trd>,
+    <trd>voraussichtlich</trd>
+  </trdgrp>
+  <trd lng="fr">probable</trd>
+  <trd lng="hu">val&oacute;sz&iacute;n&udblac;</trd>
+  <trd lng="nl">waarschijnlijk</trd>
+  <trd lng="pt">prov&aacute;vel</trd>
+  <trd lng="ru">&c_v;&c_je;&c_r;&c_o;&c_ja;&c_t;&c_n;&c_y;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>dokázateľný</trd>,
+    <trd>pravdepodobný</trd>,
+    <trd>uveriteľný</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="probab.0e">
+  <kap><tld/>e</kap>
+  <snc>
+    <dif>
+      Tre eble, kvankam ne <ref tip="vid" cel="cert.0e">certe</ref>:
+      <ekz>
+        la pli maljuna <klr>[el la infanoj]</klr> estas <tld/>e sepjara
+        <fnt><bib>Revadoj</bib>, <lok>na&ubreve;a promenado</lok></fnt>;
+      </ekz>
+      <ekz>
+        la bebo fartas sufi&ccirc;e bone kaj <tld/>e pluvivos
+        <fnt>
+        <aut>Is</aut>,
+        <vrk>Vegetanta homo naskas mem</vrk>,
+        <bib>Monato</bib>,
+        <lok>jaro 1996a, numero 5a, p. 26a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="cert.0e">certe</ref>,
+      <ref cel="ebl.0e">eble</ref>,
+      <ref cel="kred.0eble">kredeble</ref>,
+      <ref cel="dub.sen0e">sendube</ref>,
+      <ref cel="supoz.0eble">supozeble</ref>,
+      <ref cel="sxajn.ver0e">ver&scirc;ajne</ref>
+    </refgrp>
+  </snc>
+  <trd lng="cs">pravděpodobně</trd>
+  <trdgrp lng="fr">
+    <trd>probablement</trd>,
+    <trd>sans doute</trd>
+  </trdgrp>
+  <trd lng="hu">val&oacute;sz&iacute;n&udblac;leg</trd>
+  <trd lng="ru">&c_v;&c_je;&c_r;&c_o;&c_ja;&c_t;&c_n;&c_o;</trd>
+  <trd lng="sk">pravdepodobne</trd>
+</drv>
+
+<drv mrk="probab.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="probab.0o.KOMUNE">
+    <ref tip="dif" cel="probab.0eco"><tld/>eco</ref>
+  </snc>
+  <snc mrk="probab.0o.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <subsnc mrk="probab.0o.mezuro">
+      <fnt><bib>EKV</bib>, <lok>&para;306</lok></fnt>
+      <dif>
+        <klr>(super <ref cel="algebr.sigma0o">&sigma;-algebro</ref> super aro
+        <frm><g>&Omega;</g></frm>)</klr>
+        Tia <ref tip="super" cel="mezur.0o.MAT">mezuro</ref>
+        <frm>P</frm>,
+        ke
+        &gcirc;iaj valoroj estas pozitivaj, kaj ke
+        <frm>P(<g>&Omega;</g>) = 1</frm>.
+      </dif>
+      <trd lng="de">Wahrscheinlichkeitsma&szlig;</trd>
+      <trd lng="en">probability <ind>measure</ind></trd>
+      <trdgrp lng="fr">
+        <trd>probabilit&eacute;</trd>,
+        <trd>loi de probabilit&eacute;</trd>,
+        <trd>mesure de probabilit&eacute;</trd>
+      </trdgrp>
+      <trd lng="hu">val&oacute;sz&iacute;n&udblac;s&eacute;gi m&eacute;rt&eacute;k</trd>
+      <trd lng="pl">prawdopodobie&nacute;stwo<klr tip="ind">
+      (funkcja)</klr></trd>
+      <trd lng="ru">&c_v;&c_je;&c_r;&c_o;&c_ja;&c_t;&c_n;&c_o;&c_s;&c_t;&c_n;&c_a;&c_ja; <ind>&c_m;&c_je;&c_r;&c_a;</ind></trd>
+    </subsnc>
+    <subsnc mrk="probab.0o.de_okazo">
+      <fnt><bib>MatTerm</bib>, <lok>p. 24</lok></fnt>
+      <dif>
+        <klr>(de <ref cel="okaz.0o.MAT">okazo</ref>, kadre de iu
+        <ref cel="spac.probablo0o">probablospaco</ref>)</klr>
+        La bildo per la koncerna <tld/>o <sncref
+        ref="probab.0o.mezuro"/>
+        de
+        tiu okazo.
+      </dif>
+      <trd lng="de">Wahrscheinlichkeit<klr tip="ind"> (eines
+      Ereignisses)</klr></trd>
+      <trd lng="en">probability<klr tip="ind"> (of an event)</klr></trd>
+      <trd lng="fr">probabilit&eacute;<klr tip="ind"> (d'un
+      &eacute;v&eacute;nement)</klr></trd>
+      <trd lng="hu">val&oacute;sz&iacute;n&udblac;<klr tip="ind"> (esem&eacute;ny&eacute;)</klr></trd>
+      <trd lng="pl">prawdopodobie&nacute;stwo<klr tip="ind">
+      (zdarzenia)</klr></trd>
+      <trd lng="ru">&c_v;&c_je;&c_r;&c_o;&c_ja;&c_t;&c_n;&c_o;&c_s;&c_t;&c_mol;<klr tip="ind"> (&c_s;&c_o;&c_b;&c_y;&c_t;&c_i;&c_ja;
+      )</klr></trd>
+    </subsnc>
+    <ref tip="vid" cel="kalkul.probablo0o"><tld/>okalkulo.</ref>
+  </snc>
+  <trd lng="cs">pravděpodobnost</trd>
+  <trd lng="sk">pravdepodobnosť</trd>
+</drv>
+
+<drv mrk="probab.0eco">
+  <kap><tld/>eco</kap>
+  <fnt><bib>VdE</bib></fnt>
+  <snc>
+    <dif>
+      Eco de io <tld/>a; grado de tiu eco:
+      <ekz>
+        &ccirc;e manko de certeco oni devas kontenti&gcirc;i je <tld/>eco
+        <fnt><bib>PV</bib></fnt>;
+      </ekz>
+      <ekz>
+        la <tld/>eco de lia vizito &ccirc;e tia horo estas tre malgranda
+        <fnt><bib>PIV1</bib></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>pravděpodobnost</trd>,
+    <trd>probabilita</trd>
+  </trdgrp>
+  <trd lng="fr">probabilit&eacute;</trd>
+  <trd lng="hu">val&oacute;sz&iacute;n&udblac;s&eacute;g</trd>
+  <trd lng="ru">&c_v;&c_je;&c_r;&c_o;&c_ja;&c_t;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
+  <trd lng="sk">pravdepodobnosť</trd>
+</drv>
+
+<drv mrk="probab.kondicxa0o">
+  <kap>kondi&ccirc;a <tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>EKV</bib>, <lok>&para;215</lok></fnt>
+  <snc>
+    <dif>
+      <klr>(rilate al <ref cel="okaz.0o.MAT">okazo</ref>
+      <frm><g>a</g></frm>,
+      kadre de <ref cel="spac.probablo0o">probablospaco</ref>
+      <frm>(<g>&Omega;</g>,<g>A</g>,P)</frm>)</klr>
+      <ref tip="super" cel="probab.0o.mezuro"><tld lit="P"/>o</ref>
+      <frm>P<sub><g>a</g></sub></frm>, difinita per
+      <frm>P<sub><g>a</g></sub>(<g>b</g>) =
+      P(<g>a</g>&#8745;<g>b</g>)/P(<g>a</g>)</frm>;
+      pli ofte: la bildo per la koncerna mezuro de iu okazo
+      <frm><g>b</g></frm>:
+      <ekz>
+        la kondi&ccirc;an <tld/>on <frm>P<sub><g>a</g></sub>(<g>b</g>)</frm>
+        oni anka&ubreve; signas per <frm>P(<g>b</g>|<g>a</g>)</frm>
+        <klr>(legu: <tld/>o de bo, sciante (ke okazis) a)</klr>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="de">bedingte <ind>Wahrscheinlichkeit</ind></trd>
+  <trd lng="en">conditional <ind>probability</ind></trd>
+  <trd lng="fr">probabilit&eacute; conditionnelle</trd>
+  <trd lng="hu">felt&eacute;teles <ind>val&oacute;sz&iacute;n&udblac;s&eacute;g</ind></trd>
+  <trd lng="pl">prawdopodobie&nacute;stwo warunkowe</trd>
+  <trd lng="ru">&c_u;&c_s;&c_l;&c_o;&c_v;&c_n;&c_a;&c_ja; <ind>&c_v;&c_je;&c_r;&c_o;&c_ja;&c_t;&c_n;&c_o;&c_s;&c_t;&c_mol;</ind></trd>
+</drv>
+</art>
+<!--
+$Log: probab.xml,v $
+Revision 1.26  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.25  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.24  2015/04/20 07:10:14  revo
+Alain Gerard: +trd (fr)
+
+Revision 1.23  2006/03/20 17:33:30  revo
+Tulio Flores: +tr pt
+
+Revision 1.22  2005/10/09 16:31:24  revo
+Marc Bavant: kor duobligitan punkton
+
+Revision 1.21  2005/05/25 16:31:46  revo
+Yury Finkel: +trd ru
+
+Revision 1.20  2005/05/19 16:31:42  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.19  2004/10/31 17:31:40  revo
+Jeromo Vasxe: kor. 1 ref
+
+Revision 1.18  2004/10/26 16:31:41  revo
+Jeromo Vasxe: + ~e, kor. 1 ref
+
+Revision 1.17 2003/05/12 16:33:37 revo
+-->
+</vortaro>

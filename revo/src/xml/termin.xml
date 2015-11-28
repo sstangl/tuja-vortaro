@@ -1,0 +1,185 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: termin.xml,v 1.24 2015/07/04 08:37:44 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>termin</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="termin.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="termin.0o.LIN">
+    <uzo tip="fak">LIN</uzo>
+    <dif>
+      Vorto a&ubreve; esprimo speciala al iu scienco, arto, metio, fako:
+      <ekz>
+        multaj sciencaj <tld/>oj <klr>...</klr> estas neanalizeblaj
+        <fnt>
+        <aut>M. Duc Goninaz</aut>,
+        <bib>PIV2</bib>,
+        <lok>Anta&ubreve;parolo, p. 26a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_t;&c_e;&c_r;&c_m;&c_ib;&c_n;
+  <klr>(&c_s;&c_p;&c_e;&c_c;&c_y;&c_ja;&c_l;&c_mol;&c_n;&c_a;&c_je;
+  &c_s;&c_l;&c_o;&c_v;&c_a; &c_c;&c_ib; &c_v;&c_y;&c_r;&c_a;&c_z;)</klr>
+  </trd>
+  <trd lng="ca">terme</trd>
+  <trdgrp lng="cs">
+    <trd>odborný název</trd>,
+    <trd>odborný pojem</trd>,
+    <trd>odborný výraz</trd>,
+    <trd>terminus technicus</trd>,
+    <trd>termín</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Ausdruck</trd>,
+    <trd>Terminus</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>term</trd>,
+    <trd>expression</trd>,
+    <trd>name</trd>
+  </trdgrp>
+  <trd lng="es">t&eacute;rmino</trd>
+  <trd lng="fr">terme<klr tip="amb"> (linguistique)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>szaksz&oacute;</trd>,
+    <trd>terminus</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>term</trd>,
+    <trd>vakterm</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>termin</trd>,
+    <trd>has&lstroke;o</trd>,
+    <trd>poj&eogonek;cie</trd>,
+    <trd>s&lstroke;owo</trd>,
+    <trd>nazwa</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>termo</trd>
+  </trdgrp>
+  <trd lng="ru">&c_t;&c_je;&c_r;&c_m;&c_i;&c_n;</trd>
+  <trdgrp lng="sk">
+    <trd>odborný názov</trd>,
+    <trd>termín</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="termin.0aro">
+  <kap><tld/>aro</kap>
+  <snc mrk="termin.0aro.LIN">
+    <uzo tip="fak">LIN</uzo>
+    <dif>
+      Speciala <ref tip="super"
+      cel="vort.0oprovizo.LIN">vortoprovizo</ref> de iu scienco, arto,
+      metio, fako, eventuale kompilita kiel <ref tip="super"
+      cel="vort.0aro.LIN">vortaro</ref>:
+      <ekz>
+        <tld/>areto pri tradukado
+        <fnt><aut>R. Haveman</aut>, <vrk><url
+        ref="http://www.tekstoj.nl/esperanto/artikoloj/terminaro.htm">
+        terminareto pri tradukado</url>, 2003-</vrk></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <ref tip="vid" cel="tezaux.0o">teza&ubreve;ro</ref>
+  <trdgrp lng="be">
+    <trd>&c_t;&c_e;&c_r;&c_m;&c_ib;&c_n;&c_a;&c_l;&c_jo;&c_g;&c_ib;&c_ja;</trd>,
+    <trd>&c_t;&c_e;&c_r;&c_m;&c_ib;&c_n;&c_a;&c_l;&c_ja;&c_g;&c_ib;&c_ch;&c_n;&c_y; &c_s;&c_l;&c_o;&c_w;&c_n;&c_ib;&c_k;</trd>
+  </trdgrp>
+  <trd lng="ca">terminologia</trd>
+  <trdgrp lng="en">
+    <trd>glossary</trd>,
+    <trd>nomenclature</trd>,
+    <trd>terminology</trd>
+  </trdgrp>
+  <trd lng="es">diccionario especializado</trd>
+  <trdgrp lng="fr">
+    <trd>lexique</trd>,
+    <trd>terminologie<klr tip="amb"> (collection de termes)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>szaksz&oacute;t&aacute;r</trd>,
+    <trd>terminol&oacute;gia</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>vakwoordenlijst</trd>,
+    <trd>vakwoordenboek</trd>
+  </trdgrp>
+  <trd lng="pl">s&lstroke;ownik <ind>terminologiczny</ind></trd>
+  <trdgrp lng="ru">
+    <trd>
+    &c_s;&c_l;&c_o;&c_v;&c_a;&c_r;&c_mol;
+    &c_t;&c_je;&c_r;&c_m;&c_i;&c_n;&c_o;&c_v;
+    </trd>,
+    <trd>
+    &c_t;&c_je;&c_r;&c_m;&c_i;&c_n;&c_o;&c_l;&c_o;&c_g;&c_i;&c_ja;
+    </trd>
+  </trdgrp>
+  <trd lng="sk">terminologický slovník</trd>
+  <trd lng="cs">terminologický slovník</trd>
+</drv>
+
+<drv mrk="termin.0aristo">
+  <kap><tld/>aristo</kap>
+  <uzo tip="stl">RAR</uzo>
+  <snc mrk="termin.0aristo.LIN">
+    <uzo tip="fak">LIN</uzo>
+    <dif>
+      <ref tip="super" cel="lingv.0isto">Lingvisto</ref> studanta fakajn
+      <tld/>oj, kompilanta <tld/>arojn:
+      <ekz>
+        Eurodicautom <klr>...</klr> povas esti interesa por
+        tradukistoj/vortaristoj/<tld/>aristoj
+        <fnt>
+        <aut>luisgui</aut>,
+        <vrk>12-lingva datumbazo (Eurodicautom)</vrk>,
+        <lok>soc.culture.esperanto, 1999-05-24</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="ca">termin&ograve;leg</trd>
+  <trd lng="cs">tvůrce slovníků odborných výrazů</trd>
+  <trd lng="fr">terminologue</trd>
+  <trd lng="sk">tvorca slovníka odborných výrazov</trd>
+</drv>
+</art>
+<!--
+$Log: termin.xml,v $
+Revision 1.24  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.23  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.22  2012/08/13 20:10:39  revo
+Marc Rausell: + trd ca
+
+Revision 1.21  2009/02/10 14:18:31  revo
+Sebastian Cyprych: -fusxaj linirompoj en trd
+
+Revision 1.20  2008/06/12 19:06:45  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.19  2008/06/09 17:45:34  revo
+Jeromo Vasxe: kor 1 fnt
+
+Revision 1.18  2008/02/09 17:30:41  revo
+Russ Williams: +trd en
+
+Revision 1.17  2006/02/15 17:33:24  revo
+Tulio Flores: +trd pt
+
+Revision 1.16  2005/10/31 17:31:35  revo
+Jeromo Vasxe: + 2 ekz
+
+Revision 1.15 2005/04/04 16:34:52 revo
+-->
+</vortaro>

@@ -1,0 +1,367 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: simetr.xml,v 1.32 2015/07/04 08:37:43 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>simetri</rad>/o
+</kap>
+<drv mrk="simetr.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="simetr.0o.BELA">
+    <uzo tip="fak">BELA</uzo>
+    <dif>
+      Harmonio rezultanta el proporcieco kaj regula aran&gcirc;o de partoj:
+      <ekz>
+        <tld/>o estas bazo de arkitekturo, same kiel ritmo estas
+        bazo de poezio a&ubreve; muziko.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="simetr.0o.eco">
+    <dif>
+      <ref tip="dif" cel="simetr.0eco"><tld lit="S"/>eco</ref>:
+      <ekz>
+        <tld/>o de la homa korpo..
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="simetr.0o.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>MatVort</bib></fnt>
+    <subsnc mrk="simetr.0o.vektora">
+      <dif>
+        <klr>(en <ref cel="spac.vektora0o">vektora spaco</ref>)</klr>
+        <ref cel="homomo.0a.bildigo">Homomorfia</ref>
+        <ref tip="super" cel="involu1.0o">involucio</ref>:
+        <ekz>
+          se <frm><g>U</g></frm> estas la aro de &ccirc;iuj vektoroj
+          sen&scirc;an&gcirc;aj per la <tld/>o <frm><k>f</k></frm>,
+          kaj <frm><g>V</g></frm> estas la aro de &ccirc;iuj vektoroj
+          &scirc;an&gcirc;itaj al sia kontra&ubreve;egalo per
+          <frm><k>f</k></frm>, tiam oni diras, ke <frm><k>f</k></frm>
+          estas <tld/>o kun direkto <frm><g>V</g></frm>
+          rilate al <frm><g>U</g></frm>.
+        </ekz>
+      </dif>
+      <ref tip="sin" cel="simetr.vektora0o">vektora simetrio.</ref>
+    </subsnc>
+    <subsnc mrk="simetr.0o.oblikva">
+      <dif>
+        <klr>(en <ref cel="spac.afina0o">afina spaco</ref>)</klr>
+        <ref cel="afin.0a.bildigo">Afina</ref>
+        <ref tip="super" cel="involu1.0o">involucio</ref>:
+        <ekz>
+          la homomorfio asociita al tia <tld/>o estas mem vektora
+          <tld/>o.
+        </ekz>
+      </dif>
+      <ref tip="sin" cel="simetr.oblikva0o">oblikva simetrio.</ref>
+    </subsnc>
+    <subsnc mrk="simetr.0o.orta">
+      <dif>
+        <klr>
+        (en <ref cel="spac.euxklida0o">e&ubreve;klida afina spaco</ref>)
+        </klr>
+        Tia <ref tip="super" cel="bild.0igo.MAT">bildigo</ref> de la spaco al
+        &gcirc;i mem, ke &ccirc;iuj <ref cel="strek.0o.segmento">strekoj</ref>
+        kunligantaj punkton kaj &gcirc;ian
+        <ref cel="bild.0o.elemento">bildon</ref> havas jenan econ:
+        ilia mezo estas konstanta punkto <klr>(centra <tld/>o)</klr>, a&ubreve;
+        ili estas ortaj en sia mezo al konstanta rekto <klr>(aksa <tld/>o)</klr>
+        a&ubreve; konstanta ebeno <klr>(ebena <tld/>o)</klr>.
+      </dif>
+      <ref tip="sin" cel="simetr.orta0o">orta simetrio;</ref>
+      <refgrp tip="vid">
+        <ref cel="aks.simetri0o">simetriakso</ref>,
+        <ref cel="centr.simetri0o">simetricentro</ref>,
+        <ref cel="eben.simetri0o">simetriebeno</ref>.
+      </refgrp>
+      <trd lng="pl">symetria</trd>
+    </subsnc>
+    <rim>
+      Ial tiaj matematikaj sencoj aperas nek en <fnt><bib>PIV1</bib></fnt>,
+      nek en <fnt><bib>PIV2</bib></fnt>, kiuj atribuas similajn al
+      <ctl>reflekto</ctl>. Ja tiu termino en iuj
+      naciaj lingvoj estas ofta sinonimo por <ctl>ebena <tld/>o</ctl>, sed ne
+      &scirc;ajnas konsilinde tute evakui la terminon <ctl><tld/>o</ctl>.
+      Ni do preferis sekvi <fnt><bib>MatVort</bib></fnt>.
+    </rim>
+    <trd lng="en">symmetry</trd>
+  </snc>
+  <trd lng="be">&c_s;&c_y;&c_m;&c_e;&c_t;&c_r;&c_y;&c_ja;</trd>
+  <trdgrp lng="cs">
+    <trd>souměrnost</trd>,
+    <trd>symetrie</trd>,
+    <trd>symetričnost</trd>
+  </trdgrp>
+  <trd lng="de">Symmetrie</trd>
+  <trd lng="fr">sym&eacute;trie</trd>
+  <trdgrp lng="hu">
+    <trd>szimmetria</trd>,
+    <trd>r&eacute;szar&aacute;nyoss&aacute;g</trd>
+  </trdgrp>
+  <trd lng="nl">symmetrie</trd>
+  <trd lng="ru">&c_s;&c_i;&c_m;&c_m;&c_je;&c_t;&c_r;&c_i;&c_ja;</trd>
+  <trdgrp lng="sk">
+    <trd>symetria</trd>,
+    <trd>súmernosť</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="simetr.0a">
+  <kap><tld/>a</kap>
+  <snc>
+    <dif>
+      Havanta <tld/>on, aran&gcirc;ita kun <tld/>o:
+      <ekz>
+        la tuta aspekto de la sanktejo estas <tld/>a<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        iom tro <tld/>a parolado;
+      </ekz>
+      <ekz>
+        vazoj <tld/>e aran&gcirc;itaj.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="simetr.0a.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <subsnc mrk="simetr.0a.figuro">
+      <fnt><bib>PIV1</bib></fnt>
+      <dif>
+        <klr>(p.p. <ref cel="figur.geometria0o">geometria figuro</ref>)</klr>
+        Tia, ke <ref cel="simetr.0o"><tld/>o</ref> lasas &gcirc;in 
+        sen&scirc;an&gcirc;a; alidire: per iu <tld/>o, la bildo de ajna punkto
+        de &gcirc;i apartenas al &gcirc;i:
+        <ekz>
+          sfero estas <tld/>a rilate al sia centro kaj al &ccirc;iu
+          rekto a&ubreve; ebeno enhavanta &gcirc;ian centron;
+        </ekz>
+        <ekz>
+          elipso estas <tld/>a rilate al siaj fokusa kaj nefokusa aksoj.
+        </ekz>
+      </dif>
+      <trd lng="en">symmetric</trd>
+      <trd lng="pl"><klr tip="amb">(figura) </klr>symetryczna</trd>
+    </subsnc>
+    <subsnc mrk="simetr.0a.matrico">
+      <fnt><bib>MatStokTerm</bib><lok>p. 34</lok></fnt>
+      <dif>
+        <klr>(p.p. <ref cel="matric.n_p0o">(n,p)-matrico</ref>)</klr>
+        Tia, ke &ccirc;iu &gcirc;ia elemento
+        kun indico <frm>(<k>i</k>,<k>j</k>)</frm> egalas
+        al tiu kun indico <frm>(<k>j</k>,<k>i</k>)</frm>:
+        <ekz>
+          <tld/>a matrico egalas al sia transpona&jcirc;o.
+        </ekz>
+      </dif>
+      <trd lng="en">symmetrical</trd>
+      <trd lng="pl"><klr tip="amb">(macierz) </klr>symetryczna</trd>
+    </subsnc>
+    <subsnc mrk="simetr.0a.rilato">
+      <fnt><bib>PIV1</bib><lok>rilato</lok></fnt>
+      <dif>
+        <klr>(p.p. <ref cel="rilat.interna0o">interna rilato</ref>
+        <frm><g>R</g></frm>)</klr>
+        Tia, ke &gcirc;i egalas al sia
+        <ref cel="invers.0o.variaj">inverso</ref>
+        <frm><g>R</g><sup>-1</sup></frm>:
+        <ekz>
+          la <ref cel="rilat.idento0o">idento-rilato</ref> estas <tld/>a;
+        </ekz>
+        <ekz>
+          <frm><g>R</g></frm> estas <tld/>a, se kaj nur se de la fakto, ke 
+          <frm><k>x</k><g>R</g><k>y</k></frm>,
+          sekvas, ke <frm><k>y</k><g>R</g><k>x</k></frm>;
+        </ekz>
+        <ekz>
+          <tld/>eco estas nepra eco de
+          <ref cel="rilat.ekvivalento0o">ekvivalento-rilato</ref>.
+        </ekz>
+      </dif>
+      <trd lng="en">symmetric</trd>
+      <trd lng="pl"><klr tip="amb">(relacja) </klr>symetryczna</trd>
+    </subsnc>
+    <subsnc mrk="simetr.0a.bildigo">
+      <fnt><bib>EKV</bib><lok>&para;394</lok></fnt>
+      <dif>
+        <klr>(p.p. <ref cel="bild.0igo.MAT">bildigo</ref>
+        de <frm><g>E</g><sup><k>n</k></sup></frm>
+        al <frm><g>F</g></frm>, kun <frm><k>n</k> &#8805; 2</frm>)</klr>
+        Tia, ke &gcirc;i &jcirc;etas &ccirc;iujn opojn kun permutitaj
+        termoj al la sama bildo:
+        <ekz>
+          se <frm><k>n</k> = 2</frm> kaj <frm><k>f</k></frm> estas <tld/>a,
+          <frm><k>f</k>(<k>x</k>,<k>y</k>) = <k>f</k>(<k>y</k>,<k>x</k>)</frm>
+          por &ccirc;iu ajn <frm><k>x</k>, <k>y</k></frm>.
+        </ekz>
+      </dif>
+      <trd lng="en">symmetric</trd>
+      <trd lng="pl"><klr tip="amb">(funkcja) </klr>symetryczna</trd>
+    </subsnc>
+    <subsnc mrk="simetr.0a.diversaj">
+      <refgrp tip="vid">
+        simetria <ref cel="difere.0o.de_aroj">diferenco</ref>.
+      </refgrp>
+    </subsnc>
+  </snc>
+  <trd lng="be">&c_s;&c_y;&c_m;&c_e;&c_t;&c_r;&c_y;&c_ch;&c_n;&c_y;</trd>
+  <trdgrp lng="cs">
+    <trd>souměrný</trd>,
+    <trd>symetrický</trd>
+  </trdgrp>
+  <trd lng="de">symmetrisch</trd>
+  <trd lng="fr">sym&eacute;trique</trd>
+  <trdgrp lng="hu">
+    <trd>szimmetrikus</trd>,
+    <trd>r&eacute;szar&aacute;nyos</trd>
+  </trdgrp>
+  <trd lng="nl">symmetrisch</trd>
+  <trd lng="ru">&c_s;&c_i;&c_m;&c_m;&c_je;&c_t;&c_r;&c_i;&c_ch;&c_n;&c_y;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>symetrický</trd>,
+    <trd>súmerný</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="simetr.mal0a">
+  <kap>mal<tld/>a</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>PIV2</bib><lok>rilato</lok></fnt>
+  <snc mrk="simetr.mal0a.rilato">
+    <dif>
+      <klr>(p.p. <ref cel="rilat.interna0o">interna rilato</ref>
+      <frm><g>R</g></frm>)</klr>
+      Tia, ke la <ref cel="komun.0ajxo.aro">komuna&jcirc;o</ref> inter
+      &gcirc;i kaj &gcirc;ia <ref cel="invers.0o.variaj">inverso</ref>
+      estas subaro de la <ref cel="rilat.idento0o">idento-rilato</ref>;
+      simb. <frm><g>R</g>&#8745;<g>R</g><sup>-1</sup>&#8834;id<sub><g>E</g></sub></frm>:
+      <ekz>
+        se <frm><g>R</g></frm> estas mal<tld/>a, de la fakto,
+        ke <frm><k>x</k><g>R</g><k>y</k></frm>
+        kaj <frm><k>y</k><g>R</g><k>x</k></frm>,
+        sekvas, ke <frm><k>x</k> = <k>y</k></frm>.
+      </ekz>
+    </dif>
+    <rim>
+      Pri la sencevoluo de tiu termino vd rimarkon sub
+      <ref cel="antisi.0a">antisimetria</ref>.
+    </rim>
+  </snc>
+  <trd lng="be">&c_a;&c_s;&c_y;&c_m;&c_e;&c_t;&c_r;&c_y;&c_ch;&c_n;&c_y;</trd>
+  <trdgrp lng="cs">
+    <trd>asymetrický</trd>,
+    <trd>nesouměrný</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>antisymmetrisch</trd>,
+    <trd>identitiv</trd>
+  </trdgrp>
+  <trd lng="en">antisymmetric</trd>
+  <trd lng="fr">antisym&eacute;trique</trd>
+  <trd lng="hu">aszimmetrikus</trd>
+  <trd lng="pl"><klr tip="amb">(relacja) </klr>antysymetryczna</trd>
+  <trd lng="ru">&c_a;&c_n;&c_t;&c_i;&c_s;&c_i;&c_m;&c_m;&c_je;&c_t;&c_r;&c_i;&c_ch;&c_n;&c_y;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>nesymetrický</trd>,
+    <trd>nesúmerný</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="simetr.0eco">
+  <kap><tld/>eco</kap>
+  <snc>
+    <dif>
+      Eco de io <ref cel="simetr.0a">simetria</ref>:
+      <ekz>
+        la <tld/>eco de viza&gcirc;o;
+      </ekz>
+      <ekz>
+        <uzo tip="fak">MAT</uzo>
+        se solido posedas aksan <tld/>econ, &gcirc;i ne nepre estas
+        <ref cel="rotaci.0a.rivolua">rotacia</ref>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_y;&c_m;&c_e;&c_t;&c_r;&c_y;&c_ch;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>souměrnost</trd>,
+    <trd>symetrie</trd>,
+    <trd>symetričnost</trd>
+  </trdgrp>
+  <trd lng="de">Symmetrie</trd>
+  <trd lng="en">symmetry</trd>
+  <trd lng="fr">sym&eacute;trie<klr tip="ind"> (qualit&eacute;)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>szimmetria</trd>,
+    <trd>szimmetrikuss&aacute;g</trd>
+  </trdgrp>
+  <trd lng="ru">&c_s;&c_i;&c_m;&c_m;&c_je;&c_t;&c_r;&c_i;&c_ch;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>symetria</trd>,
+    <trd>súmernosť</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="simetr.oblikva0o">
+  <kap>oblikva <tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <snc>
+    <ref tip="dif" cel="simetr.0o.oblikva"><tld/>o <sncref/>.</ref>
+  </snc>
+  <trd lng="fr">sym&eacute;trie oblique</trd>
+</drv>
+
+<drv mrk="simetr.orta0o">
+  <kap>orta <tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <snc>
+    <ref tip="dif" cel="simetr.0o.orta"><tld/>o <sncref/>.</ref>
+  </snc>
+  <trd lng="fr">sym&eacute;trie orthogonale</trd>
+</drv>
+
+<drv mrk="simetr.vektora0o">
+  <kap>vektora <tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <snc>
+    <ref tip="dif" cel="simetr.0o.vektora"><tld/>o <sncref/>.</ref>
+  </snc>
+  <trd lng="fr">sym&eacute;trie vectorielle</trd>
+</drv>
+</art>
+<!--
+$Log: simetr.xml,v $
+Revision 1.32  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.31  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.30  2004/10/12 16:31:40  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.29  2003/01/14 17:33:46  revo
+Marc Bavant: ~eco: +trd en
+
+Revision 1.28  2003/01/10 17:33:10  revo
+Zmicier Lapcionak: + trd be
+
+Revision 1.27  2003/01/02 17:51:11  revo
+Marc Bavant: +trd pl, +frm, +ref internaj; ~a (rilato): mod ekz; mod fnt "artikolo"
+
+Revision 1.26  2002/12/15 19:52:37  revo
+Marc Bavant: mal~a: sxovis trd pl
+Revision 1.25  2002/11/30 17:38:17  revo
+Marc Bavant: +frm, +trd pl, simpligis sncref
+Revision 1.24 2002/06/10 17:31:20 revo
+Marc Bavant: kor ref cel al "diferenco de aroj"
+Revision 1.23 2002/06/02 17:33:48 revo
+Marc Bavant: ~a MAT: +subsnc
+Revision 1.22 2002/05/27 17:19:58 revo
+Marc Bavant: ~a (funkcio): +fnt, mod ekz
+-->
+</vortaro>
+

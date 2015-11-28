@@ -1,0 +1,107 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: tuberk.xml,v 1.20 2015/07/04 08:37:45 revo Exp $">
+<kap>
+  <ofc>3</ofc>
+  <rad>tuberkuloz</rad>/o
+</kap>
+<drv mrk="tuberk.0o">
+  <kap><tld/>o</kap>
+  <snc>
+  <uzo tip="fak">MED</uzo>
+    <dif>
+      Bacila <ref tip="lst" cel="san.mal0o.MED"
+      lst="voko:malsanoj">malsano</ref> karakterizata de formi&gcirc;o de
+      tuberkuloj en iaj
+      organoj
+      &ccirc;e homo kaj besto:
+      <ekz>
+        pulma, osta <tld/>o.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="ftiz.0o">ftizo</ref>.
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_u;&c_h;&c_o;&c_t;&c_y;</trd>,
+    <trd>&c_t;&c_u;&c_b;&c_e;&c_r;&c_k;&c_u;&c_l;&c_jo;&c_z;</trd>
+  </trdgrp>
+  <trd lng="ca">tuberculosi</trd>
+  <trd lng="cs">tuberkulóza</trd>
+  <trd lng="de">Tuberkulose</trd>
+  <trd lng="en">tuberculosis</trd>
+  <trdgrp lng="fa">
+    <trd>&a_s;&a_kasra;&a_l;&a_shadda;</trd>,
+    <trd>&a_t;&a_b; &a_l;&a_A;&a_z;&a_m;</trd>
+  </trdgrp>
+  <trd lng="fr">tuberculose</trd>
+  <trdgrp lng="hu">
+    <trd>g&uuml;m&odblac;k&oacute;r</trd>,
+    <trd>tuberkul&oacute;zis</trd>
+  </trdgrp>
+  <trdgrp lng="id">
+    <trd>TBC</trd>,
+    <trd>tuberkulosis</trd>
+  </trdgrp>
+  <trd lng="nl">tuberculose</trd>
+  <trdgrp lng="pl">
+    <trd>tuberkuloza</trd>,
+    <trd>gru&zacute;lica</trd>,
+    <trd>suchoty<klr> (przest.)</klr></trd>
+  </trdgrp>
+  <trd lng="pt">tuberculose</trd>
+  <trd
+  lng="ru">&c_t;&c_u;&c_b;&c_je;&c_r;&c_k;&c_u;&c_l;&c_jo;&c_z;</trd>
+  <trdgrp lng="sk">
+    <trd>suchoty</trd>,
+    <trd>tuberkulóza</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="tuberk.koks0o">
+  <kap>koks<tld/>o</kap>
+  <snc mrk="tuberk.koks0o.MED">
+    <uzo tip="fak">MED</uzo>
+    <dif>
+    <ref tip="malprt" cel="tuberk.0o">Tuberkulozo</ref> de la koksa
+    artiko.
+    </dif>
+  </snc>
+  <trd lng="fr">coxalgie</trd>  
+</drv>
+</art>
+<!--
+$Log: tuberk.xml,v $
+Revision 1.20  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:40:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2014/12/19 14:10:14  revo
+Alain Gerard: + koks~o
+
+Revision 1.17  2014/11/19 08:10:45  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.16  2014/01/07 13:10:13  revo
+Damien Brucker: +trd fr
+
+Revision 1.15  2013/10/09 20:10:26  revo
+Wolfram Diestel: ref al lst malsanoj
+
+Revision 1.14  2012/08/14 15:10:14  revo
+Marc Rausell: + trd ca
+
+Revision 1.13  2009/08/28 16:32:07  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.12  2009/06/29 18:05:52  revo
+Russ Williams: +trd en
+
+Revision 1.11  2009/02/02 17:30:32  revo
+-->
+</vortaro>

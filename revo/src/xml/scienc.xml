@@ -1,0 +1,328 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: scienc.xml,v 1.34 2015/07/04 08:37:43 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>scienc</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="scienc.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="scienc.0o.tuto">
+    <uzo tip="fak">SCI</uzo>
+    <tezrad/>
+    <dif>
+      Sistema tuta&jcirc;o da konoj bazita sur metoda racia esploro kaj
+      celanta eltrovon de la le&gcirc;oj de la naturo:
+      <ekz>
+        la mirindaj progresoj de la <tld/>o.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>Wissenschaft <klr tip="ind">(als Ganzes)</klr></trd>,
+      <trd>Naturwissenschaft</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="scienc.0o.fako">
+    <uzo tip="fak">SCI</uzo>
+    <tezrad fak="SCI"/>
+    <dif>
+      Ekzakta, preciza kaj metoda kono pri iu difinita fako:
+      <ekz>
+        la fizikaj <tld/>oj;
+      </ekz>
+      <ekz>
+        duona <tld/>o estas pli malutila ol plena nesciado.
+      </ekz>
+    </dif>
+    <ref tip="malprt" cel="scienc.0o.tuto">scienco <sncref
+    ref="scienc.0o.tuto"/></ref>
+    <trd lng="de"><klr tip="ind">(eine bestimmte)</klr>
+    Wissenschaft</trd>
+  </snc>
+  <trd lng="be">&c_n;&c_a;&c_v;&c_u;&c_k;&c_a;</trd>
+  <trd lng="ca">ci&egrave;ncia</trd>
+  <trd lng="cs">věda</trd>
+  <trd lng="en">science</trd>
+  <trd lng="es">ciencia</trd>
+  <trdgrp lng="fa">
+    <trd>&a_d;&a_A;&a_n;&a_sh;</trd>,
+    <trd>&a_ayn;&a_l;&a_m;</trd>
+  </trdgrp>
+  <trd lng="fr">science</trd>
+  <trd lng="he">&mem;&dalet;&ayin;</trd>
+  <trd lng="hu">tudom&aacute;ny</trd>
+  <trdgrp lng="id">
+    <trd><ind>ilmu</ind> (pengetahuan)</trd>,
+    <trd>sains</trd>
+  </trdgrp>
+  <trd lng="it">scienza</trd>
+  <trd lng="kk">&#1171;&c_y;&c_l;&c_y;&c_m;</trd>
+  <trd lng="nl">wetenschap</trd>
+  <trd lng="pl">nauka</trd>
+  <trd lng="ru">&c_n;&c_a;&c_u;&c_k;&c_a;</trd>
+  <trd lng="sk">veda</trd>
+  <trd lng="tr">bilim</trd>
+</drv>
+
+<drv mrk="scienc.0isto">
+  <kap><tld/>isto</kap>
+  <snc mrk="scienc.0isto.SCI">
+    <dif>
+      Profesia scienculo oficanta ordinare en laboratorio,
+      esplorinstituto a&ubreve; simila:
+      <ekz>
+        usonaj kaj koreaj <tld/>istoj enketis pri la influo de
+        aermalpura&jcirc;oj sur la pezon de koreaj beboj
+        <fnt>
+          <aut>P. S. Viana</aut>,
+          <vrk>Tro malpezaj beboj</vrk>,
+          <bib>Monato</bib>,
+          <lok>jaro 2002a, numero 3a, p. 20a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_n;&c_a;&c_v;&c_u;&c_k;&c_o;&c_v;&c_je;&c_c;</trd>
+  <trd lng="ca">cient&iacute;fic <klr>(subst.)</klr></trd>
+  <trdgrp lng="cs">
+    <trd>učenec</trd>,
+    <trd>vědec</trd>
+  </trdgrp>
+  <trd lng="de">Wissenschaftler</trd>
+  <trd lng="fa">&a_d;&a_A;&a_n;&a_sh;&a_m;&a_n;&a_d;</trd>
+  <trdgrp lng="fr">
+    <trd>scientifique<klr> (subst.)</klr></trd>
+  </trdgrp>
+  <trd lng="hu">tudom&aacute;nyos kutat&oacute;</trd>
+  <trdgrp lng="id">
+    <trd>ilmuwan</trd>,
+    <trd>saintis</trd>
+  </trdgrp>
+  <trd lng="it">scienziato</trd>
+  <trd lng="nl">wetenschapper</trd>
+  <trd lng="pl">naukowiec</trd>
+  <trdgrp lng="ru">
+    <trd>&c_u;&c_ch;&c_jo;&c_n;&c_y;&c_j;</trd>,
+    <trd>&c_n;&c_a;&c_u;&c_ch;&c_n;&c_y;&c_j; &c_r;&c_a;&c_b;&c_o;&c_t;&c_n;&c_i;&c_k;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>učenec</trd>,
+    <trd>vzdelanec</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="scienc.0ulo">
+  <kap><tld/>ulo</kap>
+  <snc mrk="scienc.0ulo.SCI">
+    <dif>
+      Esploranto pri fenomenoj de iu fako, pri ties devenoj, evoluoj kaj
+      klarigoj:
+      <ekz>
+        apogis lin <klr>...</klr> hungaraj aktoroj, sportistoj kaj
+        <tld/>uloj
+        <fnt>
+          <aut>K. Juh&aacute;sz</aut>, 
+          <vrk>Apena&ubreve; venko</vrk>,
+          <bib>Monato</bib>,
+          <lok>jaro 2002a, numero 6a, p. 12a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="ca">
+    <trd>home de ci&egrave;ncia</trd>,
+    <trd>savi</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>učenec</trd>,
+    <trd>vědec</trd>
+  </trdgrp>
+  <trdgrp lng="fa">
+    <trd>&f_p;&f_zh;&a_w;&a_h;&a_sh;&f_g;&a_r;</trd>,
+    <trd>&a_m;&a_H;&a_q;&a_q;</trd>,
+    <trd>&a_ayn;&a_A;&a_l;&a_kasra;&a_m;</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>chercheur<klr> (subst.)</klr></trd>,
+    <trd>savant<klr> (subst.)</klr></trd>
+  </trdgrp>
+  <trd lng="hu">tud&oacute;s</trd>
+  <trd lng="it">uomo di <ind>scienza</ind></trd>
+  <trd lng="nl">vorser</trd>
+  <trd lng="pl">badacz</trd>
+  <trd lng="ru">&c_u;&c_ch;&c_jo;&c_n;&c_y;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>učenec</trd>,
+    <trd>vzdelanec</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="scienc.hom0o">
+  <kap>hom<tld/>o,
+  <var><kap>homa <tld/>o</kap></var></kap>
+  <snc mrk="scienc.hom0o.SCI">
+    <uzo tip="fak">SCI</uzo>
+    <dif>
+      Iu el la <tld/>oj, kiuj havas la homon kiel
+      studobjekton: historio, psi&hcirc;ologio, medicino...,
+      kontraste al
+      <ref tip="vid" cel="scienc.natur0o.SCI">natur<tld/>oj</ref>:
+      <ekz>
+        konsiderante la fre&scirc;an historion de la <ind>hom<tld/>oj</ind>,
+        kuriozas ke 
+        ili &ccirc;iuj disi&gcirc;is de la filozofio ekde &ccirc;irka&ubreve; du jarcentoj por 
+        krei propran metodon kaj dokumentaron
+        <fnt>
+          <aut>M.-M. M&uuml;nch, trad. B. Masala</aut>,
+          <vrk><url ref="http://osiek.org/effet-de-vie/eo.html">
+          La vivefekto</url></vrk>,
+          <lok>2005-2006</lok>
+        </fnt>.
+        <trd lng="ca">humanitats</trd>
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">věda o člověku</trd>
+  <trd lng="fr">science humaine</trd>
+  <trd lng="sk">veda o človeku</trd>
+</drv>
+
+<drv mrk="scienc.natur0o">
+  <kap>natur<tld/>o,
+  <var><kap>natura <tld/>o</kap></var></kap>
+  <snc mrk="scienc.natur0o.SCI">
+    <uzo tip="fak">SCI</uzo>
+    <dif>
+      Iu el la <tld/>oj, kiuj studas aspektojn de
+      la ekstera, natura mondo, kontraste al
+      <ref tip="vid" cel="scienc.hom0o.SCI">hom<tld/>oj</ref>:
+      <ekz>
+        svarmas popular<tld/>aj revuoj pritraktantaj la problemojn de 
+        kosmovoja&gcirc;oj, de la tekniko kaj de la <ind>natur<tld/>oj</ind>
+        &gcirc;enerale
+        <fnt>
+          <aut>C. Gacond</aut>,
+          <vrk><url
+          ref="http://www.esperanto-gacond.ch/Claude_Gacond_Radioprelego-0013.pdf">
+          13-a radioprelego</url></vrk>,
+          <lok>1963-02-27</lok>
+        </fnt>.
+        <trd lng="ca">ci&egrave;ncies naturals</trd>
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">přírodní věda</trd>
+  <trdgrp lng="fr">
+    <trd>science de la nature</trd>,
+    <trd>science dure</trd>
+  </trdgrp>
+  <trd lng="id"><ind>ilmu</ind> pengetahuan alam</trd>
+  <trd lng="sk">prírodná veda</trd>
+</drv>
+
+<drv mrk="scienc.natur0isto">
+  <kap>natur<tld/>isto</kap>
+  <snc mrk="scienc.natur0isto.SCI">
+    <uzo tip="fak">SCI</uzo>
+    <dif>
+    Fakulo pri <ref tip="vid" cel="scienc.natur0o">natur<tld/>o</ref>.
+    </dif>
+  </snc>
+  <trd lng="cs">přírodovědec</trd>
+  <trd lng="fr">naturaliste</trd>
+  <trd lng="sk">prírodovedec</trd>
+</drv>
+
+<drv mrk="scienc.soci0o">
+  <kap>soci<tld/>o,
+  <var><kap>socio<tld/>o</kap></var>,
+  <var><kap>socia <tld/>o</kap></var></kap>
+  <snc mrk="scienc.soci0o.SCI">
+    <uzo tip="fak">SCI</uzo>
+    <dif>
+      Iu el la <tld/>oj, kiuj studas homajn sociojn:
+      <ref tip="prt" cel="sociol1.0o.SCI">sociologio</ref>,
+      <ref tip="prt" cel="etnolo1.0o.SCI">etnologio</ref>
+      kaj ceteraj:
+      <ekz>
+        en <ind>soci<tld/>oj</ind> krom kvanta metodologio ekzistas
+        kvalita 
+        metodologio, kaj moderna tendenco bazi&gcirc;as sur &gcirc;usta uzo de 
+        amba&ubreve;
+        <fnt>
+          <aut>Z. Galor</aut>,
+          <vrk><url
+          ref="http://www.liberafolio.org/2009/sociscienca-esperanto-grupo-volas-cent-respondojn">
+          Sociscienca Esperanto-Grupo</url></vrk>, 
+          <lok>libera folio, 2009-10-10</lok>
+        </fnt>.
+        <trd lng="ca">ci&egrave;ncies socials</trd>
+      </ekz>
+    </dif>
+  </snc> 
+  <trd lng="fr">science sociale</trd>
+  <trd lng="id"><ind>ilmu</ind> pengetahuan sosial</trd>
+</drv>
+
+<drv mrk="scienc.ter0o">
+  <kap>ter<tld/>o,
+  <var><kap>tero<tld/>o</kap></var></kap>
+  <snc mrk="scienc.ter0o.SCI">
+    <uzo tip="fak">SCI</uzo>
+    <dif>
+      Iu el la sciencoj, kiuj studas la planedon tero:
+      <ref tip="prt" cel="meteor2.0o.SCI">meteorologio</ref>,
+      <ref tip="prt" cel="geogra1.0o.SCI">geografio</ref>,
+      <ref tip="prt" cel="geolog1.0o.SCI">geologio</ref>,
+      <ref tip="prt" cel="sismol.0o.SCI">sismologio</ref>
+      kaj aliaj:
+      <ekz>
+        meteologio estas ter<tld/>o, kiu studas la atmosferajn
+        fenomenojn
+        <fnt>
+          <bib>Viki</bib>,
+          <lok><url ref="http://eo.wikipedia.org/wiki/Meteologio">
+          Meteologio</url>, 2011-03-29</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="ca">qualsevol de les ci&egrave;ncies de la Terra</trd>
+  <trd lng="fr">science de la terre</trd>
+  <trd lng="id"><ind>ilmu</ind> bumi</trd>
+</drv>
+</art>
+<!--
+$Log: scienc.xml,v $
+Revision 1.34  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.33  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.32  2015/02/27 09:10:20  revo
+Damien Brucker: +natur~isto
+
+Revision 1.31  2014/06/06 15:10:35  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.30  2013/02/01 15:10:12  revo
+Dmitri Gabinski: redakto: +trd be, kk, ru
+
+Revision 1.29  2012/01/05 15:10:23  revo
+Marc Rausell: +trd ca
+
+Revision 1.28  2011/04/11 12:10:10  revo
+Jeromo Vasxe: + ter~o
+
+Revision 1.27  2011/03/30 16:10:08  revo
+Jeromo Vasxe: + hom/natur/soci~o
+
+Revision 1.26  2010/04/25 16:30:22  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.25  2009/10/03 16:30:38  revo
+-->
+</vortaro>

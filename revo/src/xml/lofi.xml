@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: lofi.xml,v 1.3 2013/10/06 19:10:10 revo Exp $">
+<kap>
+    <rad>lofi</rad>/o 
+</kap>
+<drv mrk="lofi.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="lofi.0o.ZOO">
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      Mara <ref tip="lst" cel="fisx.0o" lst="voko:fi&scirc;oj">fi&scirc;o</ref>,
+      vivanta surfunde de maroj kun lar&gcirc;a, malalta korpo,
+      lar&gcirc;a bu&scirc;o kaj mola ha&ubreve;to sen skvamoj;
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:zoologiaj_genroj">genro</ref>
+      el la ordo <tld/>oformaj (<trd lng="la">Lophius</trd>).
+      </dif>
+  </snc>
+  <trd lng="de">Seeteufel</trd>
+  <trd lng="en">angler</trd>
+  <trd lng="es">rape</trd>
+  <trdgrp lng="fr">
+    <trd>lotte</trd>, 
+    <trd>baudroie commune</trd>
+  </trdgrp>
+  <trd lng="ru">&c_Je;&c_v;&c_r;&c_o;&c_p;&c_je;&c_j;&c_s;&c_k;&c_i;&c_j; &c_u;&c_d;&c_i;&c_l;&c_mol;&c_shch;&c_i;&c_k;</trd>
+</drv>
+</art>
+
+<!--
+$Log: lofi.xml,v $
+Revision 1.3  2013/10/06 19:10:10  revo
+Wolfram Diestel: lst marfisxhoj -> fishoj
+
+Revision 1.2  2013/10/06 13:10:12  revo
+Wolfram Diestel: ref al lst marfisxoj, genroj, prilaboris dif
+
+Revision 1.1  2012/02/01 19:10:09  revo
+Mireille Corobu: nova artikolo
+
+-->
+</vortaro>

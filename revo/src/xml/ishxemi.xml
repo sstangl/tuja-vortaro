@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: ishxemi.xml,v 1.4 2012/09/17 00:10:09 revo Exp $">
+<kap>
+  <rad>is&hcirc;emi</rad>/o
+  <fnt><vrk><url
+  ref="http://vortareto.free.fr/dictionnaire/esp-fr/i.htm">Lexique et
+  dictionnaire m&eacute;dical fran&ccedil;ais-esp&eacute;ranto</url></vrk></fnt>
+</kap>
+<drv mrk="ishxemi.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="ishxemi.0o.FIZL">
+    <uzo tip="fak">FIZL</uzo>
+    <dif>
+      Malsufi&ccirc;a sangalfluo ka&ubreve;zanta perturbon,
+      difekton a&ubreve; e&ccirc; malfunkciigon de la koncerna organo
+      a&ubreve; &ccirc;elaro;
+      <ref tip="sin" cel="iskemi.0o">iskemio</ref>:
+      <ekz>
+        <tld/>o ka&ubreve;zas la plimulton da mortintoj,
+        sekve de la cerbovaskula patologio
+        <fnt>
+          <aut>A. Lucas</aut>,
+          <vrk><url ref="http://www.teleskopo.com/2Aterosklerozo.pdf">
+          Aterosklerozo</url></vrk>,
+          <lok>Teleskopo, 2011</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="ca">isqu&egrave;mia</trd>
+  <trd lng="fr">isch&eacute;mie</trd>
+  <trdgrp lng="pl">
+    <trd>ischemia</trd>,
+    <trd>niedokrwienie</trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log: ishxemi.xml,v $
+Revision 1.4  2012/09/17 00:10:09  revo
+Jeromo Vasxe: kor 1 ref
+
+Revision 1.3  2012/08/21 11:10:18  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.2  2012/08/10 14:11:10  revo
+Marc Rausell: + trd ca
+
+Revision 1.1  2012/06/06 14:10:10  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

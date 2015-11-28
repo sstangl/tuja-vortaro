@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: mercer.xml,v 1.11 2015/07/04 08:37:39 revo Exp $">
+<kap>
+  <rad>mercer</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="mercer.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="mercer.0o.TEKS">
+    <uzo tip="fak">TEKS</uzo>
+    <dif>
+      Komerco per diversspecaj akcesora&jcirc;oj kaj objektoj, kiel ekzemple
+      kudrilaro, butonoj, fadenoj, pingloj kaj aliaj ornama&jcirc;oj uzataj
+      &ccirc;e
+      kudr-, vest-, ornam- kaj virinlaboroj.
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="galant2.0o">galanterio</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_f;&c_u;&c_r;&c_n;&c_ib;&c_t;&c_u;&c_r;&c_a; <klr
+  tip="amb">(&c_sh;&c_a;&c_v;&c_je;&c_c;&c_k;&c_a;&c_ja;)</klr></trd>
+  <trd lng="ca">merceria</trd>
+  <trd lng="cs">galanterní zboží</trd>
+  <trdgrp lng="de">
+    <trd>Kurzwaren</trd>,
+    <trd>Merceriewaren [CH]</trd>
+  </trdgrp>
+  <trd lng="fr">mercerie<klr> (activit&eacute;)</klr></trd>
+  <trd lng="hu">r&ouml;vid&aacute;ru</trd>
+  <trdgrp lng="ru">
+    <trd>&c_sh;&c_v;&c_je;&c_j;&c_n;&c_a;&c_ja; &c_f;&c_u;&c_r;&c_n;&c_i;&c_t;&c_u;&c_r;&c_a;</trd>
+  </trdgrp>
+  <trd lng="sk">predaj šijacích potrieb a ozdôb</trd>
+</drv>
+
+<drv mrk="mercer.0ajxo">
+  <kap><tld/>a&jcirc;o</kap>
+  <snc mrk="mercer.0ajxo.TEKS">
+    <uzo tip="fak">TEKS</uzo>
+    <dif>
+      Materialo, a&jcirc;o por vestfarado:
+      <ekz>
+        &scirc;i havis grandan butikon kiu ofertis &ccirc;iuspecajn
+        spicojn, tukojn, vi&scirc;ilojn, &ccirc;iajn ajn <tld/>a&jcirc;ojn
+        <fnt>
+          <aut>A. LeQuint</aut>,
+          <vrk>Infantraviva&jcirc;oj</vrk>,
+          <lok>2006</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="ca">producte de <ind>merceria</ind></trd>
+  <trd lng="fr">article de <ind>mercerie</ind></trd>
+</drv>
+</art>
+<!--
+$Log: mercer.xml,v $
+Revision 1.11  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.10  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.9  2012/08/19 19:10:23  revo
+Marc Rausell: + trd ca
+
+Revision 1.8  2009/11/22 17:30:38  revo
+Jeromo Vasxe: + ~ajxo, - fak ekon + fak teks, + trd fr
+
+Revision 1.7  2004/06/09 16:32:07  revo
+Jozefo Horvath: +trd hu
+
+Revision 1..6  2004/03/12 17:31:58  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.5  2001/11/26 17:34:31  revo
+Yury Finkel: +trd ru
+
+Revision 1.4  2001/02/04 17:14:38  revo
+Ulrich Fellmann: + 2 germ trdj
+
+-->
+</vortaro>

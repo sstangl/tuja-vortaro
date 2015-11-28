@@ -1,0 +1,158 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: verg.xml,v 1.19 2015/07/04 08:37:45 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>verg</rad>/o
+</kap>
+<drv mrk="verg.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="verg.0o.brancxeto">
+    <dif>
+      Longa, rekta fleksebla bran&ccirc;eto:
+      <ekz>
+        garbejoj plektitaj el <tld/>oj<fnt>B</fnt>.
+      </ekz>
+    </dif>
+    <trd lng="en">wand</trd>
+    <trd lng="ru">&c_p;&c_r;&c_u;&c_t;</trd>
+  </snc>
+  <snc mrk="verg.0o.punrimedo">
+    <dif>
+      Bran&ccirc;eto, a&ubreve; fasketo da tiuj, per kiu oni frapas por puni:
+      <ekz>
+        ricevi <tld/>ojn<fnt>Z</fnt>
+        <klr>(esti batata per <tld/>oj)</klr>;
+      </ekz>
+      <ekz>
+        <tld/>o doloras, sed sa&gcirc;on
+        ellaboras
+        <fnt><bib>PrV</bib></fnt>;
+      </ekz>
+      <ekz>
+        la Eternulo rompis la bastonon de la maljustuloj kaj la <tld/>on
+        de la regantoj<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="en">
+      <trd>switch</trd>,
+      <trd>cane</trd>
+    </trdgrp>
+    <trd lng="ru">&c_r;&c_o;&c_z;&c_g;&c_a;</trd>
+  </snc>
+  <snc mrk="verg.0o.metala">
+    <dif>
+      Mallonga metala <ref cel="stang.0o">stango</ref>:
+      <ekz>
+        fera <tld/>o
+        <fnt><bib>VdE</bib></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="ca">
+    <trd>verga</trd>,
+    <trd>vara</trd>
+  </trdgrp>
+  <trd lng="cs">prut</trd>
+  <trdgrp lng="de">
+    <trd>Rute</trd>,
+    <trd>Gerte</trd>
+  </trdgrp>
+  <trd lng="en">rod</trd>
+  <trdgrp lng="es">
+    <trd>vara</trd>,
+    <trd>verga</trd>,
+    <trd>regla</trd>
+  </trdgrp>
+  <trd lng="fr">verge<klr> (bois)</klr></trd>
+  <trd lng="hu">vessz&odblac;</trd>
+  <trdgrp lng="nl">
+    <trd>roede</trd>,
+    <trd>roe</trd>,
+    <trd>gard</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>verga</trd>,
+    <trd>vergasta</trd>,
+    <trd>vara</trd>
+  </trdgrp>
+  <trd lng="sk">prút</trd>
+</drv>
+
+<drv mrk="verg.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      Puni frapante per <tld/>o:
+      <ekz>
+        iam oni <tld/>is la infanojn en la lernejoj;
+      </ekz>
+      <ekz>
+        en tiuj &ccirc;i du semajnoj estas el<tld/>ita la edzino de
+        suboficiro<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="ca">
+    <trd>vergassejar</trd>,
+    <trd>bastonejar</trd>
+  </trdgrp>
+  <trd lng="cs">mrskat prutem</trd>
+  <trdgrp lng="en">
+    <trd>beat</trd>,
+    <trd>birch</trd>,
+    <trd>cane</trd>,
+    <trd>flog</trd>,
+    <trd>switch</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>varear</trd>,
+    <trd>azotar</trd>
+  </trdgrp>
+  <trd lng="hu">megvessz&odblac;z</trd>
+  <trdgrp lng="pt">
+    <trd>vergastar</trd>,
+    <trd>varejar</trd>
+  </trdgrp>
+  <trd lng="ru">&c_s;&c_je;&c_ch;&c_mol; <klr tip="amb">(&c_r;&c_o;&c_z;&c_g;&c_a;&c_m;&c_i;)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>biť prútom</trd>,
+    <trd>šibať</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: verg.xml,v $
+Revision 1.19  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/28 12:03:50  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2014/02/18 18:10:11  revo
+Agustin Garcia Lopez: +trd(es)
+
+Revision 1.16  2014/02/09 13:10:15  revo
+Damien Brucker: +trd fr
+
+Revision 1.15  2012/07/16 10:10:20  revo
+Marc Rausell: + trd ca
+
+Revision 1.14  2009/03/01 17:35:12  revo
+Russ Williams: +trd en
+
+Revision 1.13  2005/02/01 17:32:01  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.12  2004/10/18 16:32:10  revo
+Marc Bavant: ~o: +snc
+
+Revision 1.11  2002/07/25 17:32:29  revo
+Eduardo M. Kalinowski: ald trd pt
+
+Revision 1.10  2002/03/18 18:09:58  revo
+-->
+</vortaro>

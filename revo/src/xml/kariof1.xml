@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: kariof1.xml,v 1.9 2013/08/25 16:10:39 revo Exp $">
+<kap>
+  <rad>kariofilac</rad>/oj
+</kap>
+<drv mrk="kariof1.0oj">
+  <kap>
+    <tld/>oj
+  </kap>
+  <uzo tip="fak">BOT</uzo>
+  <snc>
+    <dif>
+      <ref tip="lst" cel="famili.0o.BIO"
+      lst="voko:botanikaj_familioj">Familio</ref> de <ref tip="malprt"
+      cel="kotile.du0aj">dukotiledonaj</ref>
+      herboj (<trd lng="la">Caryophyllaceae</trd>):
+      <refgrp tip="sub">
+        <ref cel="stelari.0o">stelario</ref>,
+        <ref cel="diant.0o">dianto</ref>,
+      </refgrp>
+      sed ne kariofilujo.
+    </dif>
+  </snc>
+  <trd lng="ca">cariofil&middot;l&agrave;cies</trd>
+  <trd lng="de">Nelkengew&auml;chse</trd>
+  <trd lng="fr">caryophyllac&eacute;es</trd>
+  <trd lng="hu">szegf&udblac;f&eacute;l&eacute;k</trd>
+  <trdgrp lng="nl">
+    <trd>muurachtigen</trd>,
+    <trd>anjerfamilie</trd>,
+    <trd>anjelierachtigen</trd>
+  </trdgrp>
+  <trd lng="pt">cariofil&aacute;ceas</trd>
+  <trd lng="ru">&c_g;&c_v;&c_o;&c_z;&c_d;&c_i;&c_ch;&c_n;&c_y;&c_je;</trd>
+</drv>
+</art>
+
+<!--
+$Log: kariof1.xml,v $
+Revision 1.9  2013/08/25 16:10:39  revo
+Wolfram Diestel: referencoj al listo bot familioj
+
+Revision 1.8  2011/12/05 11:10:21  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.7  2007/09/24 16:30:20  revo
+Tulio Flores: +tr pt
+
+Revision 1.6  2007/09/23 16:31:04  revo
+Tulio Flores: +tr pt
+
+Revision 1.5  2004/12/05 17:32:21  revo
+Marc Bavant: +trd fr
+
+Revision 1.4  2002/05/03 16:35:39  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.3  2001/10/27 18:11:22  revo
+Paul Peeraerts: ald trd nl
+
+Revision 1.2  2001/10/25 18:50:39  revo
+-->
+</vortaro>

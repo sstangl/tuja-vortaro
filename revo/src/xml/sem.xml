@@ -1,0 +1,354 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: sem.xml,v 1.28 2015/07/04 08:37:43 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>sem</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="sem.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="sem.0o.KOMUNE">
+    <dif>
+      Malgranda fekunda&jcirc;o, el kiu kreskos io:
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        scienco havas <tld/>on enuan, sed frukton bon&gcirc;uan
+        <fnt><bib>PrV</bib></fnt>.
+      </ekz>
+    </dif>
+    <subsnc mrk="sem.0o.BOT">
+      <uzo tip="fak">BOT</uzo>
+      <dif>
+        Tiu parto de <ref tip="malprt" cel="frukt.0o.BOT">frukto</ref>,
+        kiu elfalas post la maturi&gcirc;o kaj servas por produkti
+        novan vegeta&jcirc;on:
+        <ekz>
+          iuj <tld/>oj falis apud la vojo, kaj la birdoj venis kaj
+          forman&gcirc;is
+          ilin
+          <fnt><bib>NT</bib>, <lok>&Mat; 13:4</lok></fnt>.
+        </ekz>
+      </dif>
+      <rim>
+        &Ccirc;e malfermfruktoj tio estas aro da <tld/>grajnoj (papavo, pizo),
+        &ccirc;e fermfruktoj tio estas la tuta frukto (greno).
+      </rim>
+    </subsnc>
+    <subsnc mrk="sem.0o.fekundiga">
+      <dif>
+        Fruktiga substanco produktata de virseksa homo,
+        besto a&ubreve; vegeta&jcirc;o.
+      </dif>
+      <trd lng="sv">s&auml;d</trd>
+    </subsnc>
+  </snc>
+  <snc mrk="sem.0o.GEN">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Idaro, posteulara:
+      <ekz>
+        la <tld/>o de David<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        el la re&gcirc;a <tld/>o <klr>(raso)</klr> de Edom<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        ilia <tld/>o estos ekstermita el inter la homidoj<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="sang.0o.GEN">sango<sncref/></ref>
+    </refgrp>
+  </snc>
+  <snc mrk="sem.0o.disvastigilo">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Disvastigilo.
+    </dif>
+  </snc>
+  <trd lng="kek">aweel</trd>
+  <trd lng="be">&c_s;&c_je;&c_m;&c_ja;</trd>
+  <trdgrp lng="cs">
+    <trd>semeno</trd>,
+    <trd>semínko</trd>
+  </trdgrp>
+  <trd lng="de">Samen</trd>
+  <trd lng="el">&sigma;&pi;&omikron_ton;&rho;&omikron;&sigma_fina;</trd>
+  <trd lng="en">seed</trd>
+  <trd lng="es">semilla</trd>
+  <trd lng="fr">semence</trd>
+  <trd lng="hu">mag</trd>
+  <trd lng="it">seme</trd>
+  <trd lng="nl">zaad</trd>
+  <trd lng="ru">&c_s;&c_je;&c_m;&c_ja;</trd>
+  <trdgrp lng="sk">
+    <trd>semeno</trd>,
+    <trd>semienko</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="sem.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="sem.0i.AGR">
+    <uzo tip="fak">AGR</uzo>
+    <dif>
+      Enmeti <tld/>ojn en la teron, por ke ili &gcirc;ermu kaj kresku:
+      <ekz>
+        nenie <tld/>ata, &ccirc;ie trovata
+        <fnt><bib>PrV</bib></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="sem.0i.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      En multajn unuopajn lokojn meti, konigi, kreskigi:
+      <ekz>
+        golfo <tld/>ita per multaj insuloj<fnt>B</fnt>;
+      </ekz>
+      <ekz>
+        &scirc;oseo sur<tld/>ita per &scirc;tonrompa&jcirc;o;
+      </ekz>
+      <ekz>
+        la epidemio <tld/>is la morton en la regiono;
+      </ekz>
+      <ekz>
+        <tld/>i maltrankvilon, teruron en la urbo<fnt>B</fnt>;
+      </ekz>
+      <ekz>
+        <tld/>i malkonfidon en la animon de iu<fnt>B</fnt>;
+      </ekz>
+      <ekz>
+        <tld/>antoj de malpaco<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+    <trd lng="nl">bezaaien</trd>
+  </snc>
+  <trd lng="be">&c_s;&c_je;&c_ja;&c_c;&c_mol;</trd>
+  <trd lng="cs">předpona s významem"<klr>(přibližná)</klr> polovina"</trd>
+  <trd lng="de">s&auml;en</trd>
+  <trd lng="en">sow</trd>
+  <trd lng="es">sembrar</trd>
+  <trdgrp lng="fr">
+    <trd>parsemer</trd>,
+    <trd>semer</trd>
+  </trdgrp>
+  <trd lng="hu">vet</trd>
+  <trd lng="it">seminare</trd>
+  <trd lng="nl">zaaien</trd>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_je;&c_ja;&c_t;&c_mol;</trd>,
+    <trd>&c_p;&c_o;&c_s;&c_je;&c_ja;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="sk">predpona s významom "<klr>(približná)</klr> polovica"</trd>
+  <trd lng="sv">s&aring;</trd>
+</drv>
+
+<drv mrk="sem.0ado">
+  <kap><tld/>ado</kap>
+  <snc mrk="sem.0ado.AGR">
+    <uzo tip="fak">AGR</uzo>
+    <dif>
+      Ago <tld/>i:
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        rikolti fruktojn el aliula <tld/>ado
+        <klr>(profiti de aliula laboro, plagiati)</klr>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>osev</trd>,
+    <trd>setba</trd>,
+    <trd>setí</trd>
+  </trdgrp>
+  <trd lng="fr">semaille</trd>
+  <trdgrp lng="sk">
+    <trd>osev</trd>,
+    <trd>sejba</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="sem.dis0i">
+  <kap>dis<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="sem.dis0i.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Disvastigi, dismeti en multajn malproksimajn lokojn:
+      <ekz>
+        mi dis<tld/>os ilin inter popoloj, kiujn ne konos
+        ili<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        oazoj dis<tld/>itaj en la dezerto<fnt>B</fnt>;
+      </ekz>
+      <ekz>
+        la dis<tld/>iteco de la komitatanoj ka&ubreve;zas grandan
+        malfacila&jcirc;on;
+      </ekz>
+      <ekz>
+        dis<tld/>i malicajn famojn, kalumniojn.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="sxut">dis&scirc;uti</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>rozptýlit</trd>,
+    <trd>roztrousit</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>disseminate</trd>,
+    <trd>scatter</trd>
+  </trdgrp>
+  <trd lng="es">diseminar</trd>
+  <trd lng="fr">diss&eacute;miner</trd>
+  <trd lng="it">disseminare</trd>
+  <trdgrp lng="ru">
+    <trd>&c_r;&c_a;&c_s;&c_s;&c_je;&c_ja;&c_t;&c_mol;</trd>,
+    <trd>&c_r;&c_a;&c_s;&c_s;&c_je;&c_i;&c_v;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_r;&c_a;&c_s;&c_p;&c_r;&c_o;&c_s;&c_t;&c_r;&c_a;&c_n;&c_i;&c_t;&c_mol;</trd>,
+    <trd>&c_r;&c_a;&c_s;&c_p;&c_r;&c_o;&c_s;&c_t;&c_r;&c_a;&c_n;&c_ja;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>rozosiať</trd>,
+    <trd>vysiať</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="sem.pri0i">
+  <kap>pri<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="sem.pri0i.AGR">
+    <uzo tip="fak">AGR</uzo>
+    <dif>
+      Provi fekundigi per <tld/>oj:
+      <ekz>
+        dum ses jaroj pri<tld/>u vian kampon
+        <fnt><bib>MT</bib>, <lok>&Lev; 25:3</lok></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="fr">ensemencer</trd>
+  </snc>
+  <snc mrk="sem.pri0i.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Disigi tra la spaco de...:
+      <ekz>
+        la padoj estis pri<tld/>itaj per grandaj diverskoloraj &scirc;tonoj
+        <fnt>
+          <aut>A. Pogorelskij, trad. A. &Hcirc;i&jcirc;njak</aut>,
+          <vrk><url
+          ref="http://miresperanto.ru/por_infanoj/nigra_kokino/07.htm">
+          Nigra kokino</url></vrk>,
+          <lok>[vidita en 2015]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="fr">parsemer</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>osít</trd>,
+    <trd>sít</trd>,
+    <trd>vysévat</trd>,
+    <trd>zasít</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>posiať</trd>,
+    <trd>siať</trd>,
+    <trd>zasiať</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="sem.flug0o">
+  <kap>flug<tld/>o</kap>
+  <snc mrk="sem.flug0o.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      <ref tip="super" cel="sem.0o.BOT"><tld lit="S"/>o</ref>
+      havanta rigidan flugilon, per kiu &gcirc;i glisas la&ubreve; vento:
+      <ekz>
+        tiu arbo poste &ccirc;iujare denove eksplodos en milojn 
+        da tiaj mirindaj flug<tld/>oj
+        <fnt>
+          <aut>V. O&scaron;lak</aut>,
+          <vrk><url
+          ref="http://www.esperanto.es:8080/jspui/bitstream/11013/4046/1/Eo%20-%20Oslak,%20Vinko%20-%20Filozofii%20subtende.pdf">
+          Filozofii subtende</url></vrk>,
+          <lok>2000</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">graine ail&eacute;e</trd>
+</drv>
+
+<drv mrk="sem.hok0o">
+  <kap>hok<tld/>o</kap>
+  <snc mrk="sem.hok0o.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      <ref tip="super" cel="sem.0o.BOT"><tld lit="S"/>o</ref>
+      havanta hokon, per kiu &gcirc;i kro&ccirc;i&gcirc;as al felo de pasanta besto:
+      <ekz>
+        malmultaj rilatoj estas pli okulfrapaj ol la 
+        adapti&gcirc;o de hok<tld/>oj por transporti&gcirc;o per la 
+        lano a&ubreve; felo de kvarpieduloj
+        <fnt><bib>OriginoDeSpecioj</bib>, <lok>&ccirc;apitro 12a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">graine &agrave; crochet</trd>
+</drv>
+
+<drv mrk="sem.0oplantoj">
+  <kap><tld/>oplantoj</kap>
+  <snc mrk="sem.0oplantoj.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <ref tip="dif" cel="flor.0oplantoj">floroplantoj</ref>
+  </snc>
+  <trdgrp lng="fr">
+    <trd>phan&eacute;rogames</trd>,
+    <trd>plantes &agrave; fleurs</trd>,
+    <trd>spermaphytes</trd>
+  </trdgrp>
+  <trd lng="hu">magvas n&ouml;v&eacute;nyek</trd>
+</drv>
+</art>
+<!--
+$Log: sem.xml,v $
+Revision 1.28  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.27  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.26  2015/04/20 22:10:15  revo
+Jeromo Vasxe: pri~i + snc fig
+
+Revision 1.25  2013/12/12 02:10:22  revo
+Jeromo Vasxe: + ~ado pri~i flug/hok~o
+
+Revision 1.24  2013/02/04 21:10:07  revo
+Glavkos Xaon: greka signifo de vorto
+
+Revision 1.23  2011/11/07 00:10:11  revo
+ Anchise Inzaghi: traduko q'eqchi'
+
+Revision 1.22  2010/09/23 16:30:23  revo
+Jeromo Vasxe: kor. fusx. fnt, snc/subsnc, + 3 trd fr
+
+Revision 1.21  2009/10/24 16:32:41  revo
+Antonio Codazzi: +trd it
+
+Revision 1.20  2007/06/10 16:31:24  revo
+Russ Williams: +trd en=seed
+
+Revision 1.19  2006/05/17 16:31:47  revo
+-->
+</vortaro>

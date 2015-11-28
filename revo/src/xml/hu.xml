@@ -1,0 +1,116 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: hu.xml,v 1.11 2013/10/10 20:10:18 revo Exp $">
+<kap>
+  <rad>hu</rad><fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="hu.0">
+  <kap><tld/></kap>
+  <gra><vspec>ekkrio</vspec></gra>
+  <snc mrk="hu.0.KOMUNE">
+    <dif>
+      Ekkrio por inciti a&ubreve; insulte timigi, ofte &scirc;erce.
+    </dif>
+  </snc>
+  <trd lng="de">buh</trd>
+  <trd lng="en">boo</trd>
+  <trd lng="nl">boe</trd>
+  <trdgrp lng="fr">
+    <trd>ouh</trd>,
+    <trd>bouh</trd></trdgrp> 
+  <trdgrp lng="pt">
+    <trd>hu</trd>,
+    <trd>uh</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_u;</trd>,
+    <trd>&c_f;&c_u;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="hu.0i">
+  <kap><tld/>i,
+  <var><kap><tld/>adi</kap></var></kap>
+  <snc mrk="hu.0i.KOMUNE">
+    <dif>
+      Krii &leftquot;<tld/>&rightquot;:
+      <ekz>
+        <tld/>adas aliaj infanoj
+        <fnt>
+          <aut>B. Vian, trad. M. Corobu</aut>,
+          <vrk><url
+          ref="http://www.ipernity.com/blog/loic.roussain/236630">
+          La Mallernanto</url></vrk>,
+          <lok>2010-03-16</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">huer</trd>
+</drv>
+
+<drv mrk="hu.0o">
+  <kap><tld/>o,
+  <var><kap><tld/>ado</kap></var></kap>
+  <snc mrk="hu.0ado.KOMUNE">
+    <dif>
+      &leftquot;<tld lit="H"/>&rightquot;-kriado:
+      <ekz>
+        la ripozpa&ubreve;zon la dancantoj aklamis per
+        protestfajfoj kaj <tld/>adoj
+        <fnt><aut>S. Larbar</aut>, <vrk>Karuseloj</vrk>, 
+        <lok>1987</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">hu&eacute;e</trd>
+</drv>
+
+<drv mrk="hu.00">
+  <kap>hu <tld/></kap>
+  <gra><vspec>sonimito</vspec></gra>
+  <snc mrk="hu.00.SON">
+    <dif>
+      <ref tip="lst" cel="blek.0o" lst="voko:blekoj">Bleko</ref>
+      de strigo:
+      <ekz>
+        <ctl><tld/>-<tld/>, <tld/>-<tld/>!</ctl>
+        <klr>[la strigoj]</klr> amba&ubreve; trumpetis
+        <fnt>
+          <bib>Fab3</bib>,
+          <vrk>Estas tute certe</vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">hou-hou !<klr> (cri de chouette)</klr></trd>
+</drv>
+</art>
+<!--
+$Log: hu.xml,v $
+Revision 1.11  2013/10/10 20:10:18  revo
+Jeromo Vasxe: + ~~
+
+Revision 1.10  2011/03/19 16:10:09  revo
+Jeromo Vasxe: + ~i ~o
+
+Revision 1.9  2007/04/27 16:31:17  revo
+Tulio Flores: +tr pt
+
+Revision 1.8  2002/10/18 16:40:51  revo
+Christopher Zervic: + ang
+
+Revision 1.7  2002/01/23 17:31:52  revo
+Marc Bavant: +trd fr
+
+Revision 1.6  2001/11/30 17:32:50  revo
+Paul Peeraerts: ald trd nl
+
+Revision 1.5 2001/08/31 18:13:50 revo
+Ulrich Fellmann: + germ trd
+
+Revision 1.4 2001/05/30 18:11:14 revo
+-->
+</vortaro>

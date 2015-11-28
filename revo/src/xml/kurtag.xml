@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: kurtag.xml,v 1.11 2006/10/07 16:30:28 revo Exp $">
+<kap>
+  <rad>kurta&gcirc;</rad>/o
+  <fnt>Z</fnt>
+</kap>
+<drv mrk="kurtag.0o">
+  <kap>
+    <tld/>o
+  </kap>
+  <uzo tip="fak">EKON</uzo>
+  <fnt><bib>ZR</bib></fnt>
+  <fnt><bib>BEE</bib></fnt>
+  <snc>
+    <dif>
+      Procenta&jcirc;o, pago al makleristo.
+    </dif>
+    <trd lng="hu">alkuszd&iacute;j</trd>
+  </snc>
+  <snc>
+    <dif>
+      Speciala procenta&jcirc;o pagata &ccirc;e borsa transakcio al borsa agento kune
+      kun la eventuala imposto.
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="diskon.0o">diskonto</ref>,
+      <ref cel="divide.0o">dividendo</ref>,
+      <ref cel="intere1.0o">interezo</ref>,
+      <ref cel="makler">maklero</ref>,
+      <ref cel="procen.0o">procento</ref>,
+      <ref cel="rent">rentumo</ref>.
+    </refgrp>
+    <trd lng="hu">&uuml;gyn&ouml;ki <ind>jutal&eacute;k</ind></trd>
+  </snc><trdgrp lng="be">
+    <trd>&c_k;&c_u;&c_r;&c_t;&c_a;&c_zh;</trd>,
+    <trd>&c_k;&c_a;&c_m;&c_ib;&c_s;&c_ib;&c_j;&c_n;&c_a;&c_je; &c_w;&c_z;&c_n;&c_a;&c_g;&c_a;&c_r;&c_o;&c_d;&c_zh;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Maklergeb&uuml;hr</trd>,
+    <trd>Maklerkurtage</trd>,
+    <trd>Courtage</trd>,
+    <trd>Kurtage</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>broker commission</trd>,
+    <trd>broker fee</trd>,
+    <trd>brokerage</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>courtage</trd>,
+    <trd>makelaarsloon</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>corretagem</trd>,
+    <trd>comiss&atilde;o <klr tip="amb">(de corretor)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_k;&c_u;&c_r;&c_t;&c_a;&c_zh;</trd>,
+    <trd>&c_k;&c_o;&c_m;&c_i;&c_s;&c_s;&c_i;&c_o;&c_n;&c_n;&c_y;&c_j; &c_p;&c_r;&c_o;&c_c;&c_je;&c_n;&c_t;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: kurtag.xml,v $
+Revision 1.11  2006/10/07 16:30:28  revo
+Tulio Flores: +tr pt
+
+Revision 1.10  2004/03/31 16:31:20  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.9  2004/02/12 17:31:24  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.8  2003/01/22 17:33:40  revo
+Ulrich Fellmann: + 1 plia fontindiko (BEE)
+
+Revision 1.7  2003/01/15 17:33:00  revo
+Ulrich Fellmann: aldono de fontindiko ZR
+
+Revision 1.6  2001/11/11 19:15:50  revo
+Yury Finkel: +trd ru
+
+Revision 1.5  2001/02/21 20:08:42  revo
+Paul Peeraerts: ald trd nl
+
+Revision 1.4  2001/02/03 10:20:48  revo
+-->
+</vortaro>
+

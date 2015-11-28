@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: pale.xml,v 1.11 2015/07/04 08:37:40 revo Exp $">
+<kap>
+  <rad>pale</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="pale.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="pale.0o.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      &Ccirc;e la <ref tip="malprt" cel="poac.0oj">poacoj</ref>,
+      &ccirc;iu el la du <ref tip="super" cel="brakte.0o">brakteoj</ref>
+      kovrantaj unuopan floron:
+      <ekz>
+        <ind>interna <tld/>o</ind>;
+        <trd lng="de">Vorspelze</trd>
+      </ekz>
+      <ekz>
+        la <ind>ekstera <tld/>o</ind> ofte havas ariston;
+        <trd lng="de">Deckspelze</trd>
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="lodikl.0o">lodiklo</ref>,
+      <ref cel="glum.0o">glumo</ref>.
+    </refgrp>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>palé</trd>,
+    <trd>zápas</trd>
+  </trdgrp>
+  <trd lng="de">Spelze<klr tip="ind"> (Deck-, Vor-)</klr></trd>
+  <trd lng="fr">glumelle</trd>
+  <trd lng="hu">pelyva</trd>
+  <trd lng="nl">kroonkafje</trd>
+  <trd lng="pt">p&aacute;lea</trd>
+  <trd lng="ru">&c_k;&c_o;&c_l;&c_o;&c_s;&c_k;&c_o;&c_v;&c_a;&c_ja; &c_ch;&c_je;&c_sh;&c_u;&c_ja;</trd>
+  <trdgrp lng="sk">
+    <trd>palé</trd>,
+    <trd>zápas</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: pale.xml,v $
+Revision 1.11  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.10  2015/06/29 16:40:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.9  2013/04/24 15:10:14  revo
+Jeromo Vasxe: + fnt + trd fr
+
+Revision 1.8  2006/02/24 17:34:54  revo
+Tulio Flores: +trd pt
+
+Revision 1.7  2002/05/11 10:26:59  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.6  2002/03/20 17:34:08  revo
+Yury Finkel: +trd ru
+
+Revision 1.5 2001/08/27 18:15:23 revo
+Paul Peeraerts: ald trd nl
+
+Revision 1.4 2001/04/18 17:40:50 revo
+po1.0acoj -> poac.0oj
+
+Revision 1.3 2000/12/16 12:41:07 revo
+Wolfram Diestel: prilaboris dif, germ trd
+
+-->
+</vortaro>

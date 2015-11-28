@@ -1,0 +1,476 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: tabl.xml,v 1.40 2015/07/04 08:37:44 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>tabl</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="tabl.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="tabl.0o.MEBL">
+    <dif>
+      <ref tip="lst" cel="mebl.0o.MEBL" lst="voko:mebloj">Meblo</ref>
+      konsistanta el
+      plato subportata de unu a&ubreve; pluraj
+      <ref tip="prt" cel="krur.0o.mebla">kruroj</ref>
+      (a&ubreve; <ref tip="prt" cel="pied.0o.mebla">piedoj</ref>):
+      <ekz>
+        la libro estas sur la <tld/>o
+        <fnt><bib>F</bib>, <lok>&FE; 6</lok></fnt>;
+      </ekz>
+      <ekz>
+        <ind>vivi inter forno hejtita kaj <tld/>o kovrita</ind>
+        <klr>(vivi sate kaj komforte)</klr>
+        <trd lng="es">vivir como un <ind>rey</ind></trd>
+        <trd lng="fr">vivre comme un <ind>coq en p&acirc;te</ind></trd>
+        <fnt><bib>PrV</bib></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_t;&c_o;&c_l;</trd>
+  <trd lng="bg">&c_m;&c_a;&c_s;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>jídelní stůl</trd>,
+    <trd>st&uring;l</trd>
+  </trdgrp>
+  <trd lng="de">Tisch</trd>
+  <trd lng="en">table</trd>
+  <trd lng="es">mesa</trd>
+  <trd lng="fa">&a_m;&f_y;&a_z;</trd>
+  <trd lng="fr">table</trd>
+  <trd lng="hu">asztal</trd>
+  <trd lng="id">meja</trd>
+  <trd lng="nl">tafel</trd>
+  <trd lng="pl">st&oacute;&lstroke;</trd>
+  <trdgrp lng="pt">
+    <trd>mesa</trd>
+  </trdgrp>
+  <trd lng="ru">&c_s;&c_t;&c_o;&c_l;</trd>
+  <trdgrp lng="sk">
+    <trd>jedálenský stôl</trd>,
+    <trd>st&ocirc;l</trd>
+  </trdgrp>
+  <trd lng="sv">bord</trd>
+  <trd lng="vo">tab</trd>
+</drv>
+
+<drv mrk="tabl.0estro">
+  <kap><tld/>estro</kap>
+  <snc mrk="tabl.0estro.KUI">
+    <dif>
+      <ref tip="super" cel="serv.0isto.KOMUNE">Servisto</ref>
+      &ccirc;efoficanta super la man&gcirc;oj en ri&ccirc;a domo
+      a&ubreve;
+      en multehomaj festenoj;
+      <ref tip="sin" cel="butler.0o.KUI">butlero</ref>:
+      <ekz>
+        <tld/>estro min gaste invitis al festenoj
+        <fnt>
+          <aut>A. Mickiewicz, trad. A. Grabowski</aut>,
+          <vrk><url ref="http://malnova.esperanto.pl/page.php?tid=3013">
+          Sinjoro Tadeo</url></vrk>,
+          <lok>1918</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>Butler</trd>,
+      <trd>Diener</trd>,
+      <trd>Haushofmeister</trd>
+    </trdgrp>
+    <trd lng="en">butler</trd>
+    <trdgrp lng="fa">
+      <trd>&f_p;&f_y;&a_sh;&a_kh;&a_d;&a_m;&a_t;</trd>,
+      <trd>&a_kh;&a_w;&a_A;&a_n;&a_s;&a_A;&a_l;&a_A;&a_r;</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>ma&icirc;tre d'h&ocirc;tel</trd>,
+      <trd>majordome<klr> (ma&icirc;tre d'h&ocirc;tel)</klr></trd>
+    </trdgrp>
+    <trd lng="it">maggiordomo</trd>
+    <trd lng="nl">butler</trd>
+  </snc>
+</drv>
+
+<drv mrk="tabl.0eto">
+  <kap><ofc>*</ofc><tld/>eto</kap>
+  <snc mrk="tabl.0eto.MEBL">
+    <dif>
+      Malgranda a&ubreve; malalta
+      <ref tip="super" cel="tabl.0o.MEBL">tablo</ref>:
+      <ekz>
+        mi a&ccirc;etis por la infanoj <tld/>eton kaj kelke da
+        se&gcirc;etoj
+        <fnt><bib>F</bib>, <lok>&FE; 38</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>stolek</trd>,
+    <trd>stoleček</trd>
+  </trdgrp>
+  <trd lng="de">Tischchen</trd>
+  <trdgrp lng="es">
+    <trd>mesita</trd>,
+    <trd>mesilla</trd>
+  </trdgrp>
+  <trd lng="fr">tablette</trd>
+  <trdgrp lng="hu">
+    <trd>asztalka</trd>,
+    <trd>kisasztal</trd>
+  </trdgrp>
+  <trd lng="pl">stolik</trd>
+  <trd lng="ru">&c_s;&c_t;&c_o;&c_l;&c_i;&c_k;</trd>
+  <trd lng="sk">stolček</trd>
+</drv>
+
+<drv mrk="tabl.al0igxi">
+  <kap>al<tld/>i&gcirc;i,
+  <var><kap>&ccirc;e<tld/>i&gcirc;i</kap></var></kap>
+  <snc mrk="tabl.al0igxi.KOMUNE">
+    <dif>
+      Alsidi&gcirc;i &ccirc;e <tld/>o:
+      <ekz>
+        grupo da oficiroj &ccirc;e<tld/>i&gcirc;intaj por
+        vesperman&gcirc;o
+        <fnt><bib>Munchhausen</bib>, <lok>&ccirc;apitro 10a</lok></fnt>;
+      </ekz>
+      <ekz>
+        kiam la man&gcirc;a&jcirc;o estis preta, ili al<tld/>i&gcirc;is
+        <fnt>
+          <aut>trad. R. Bartal</aut>,
+          <vrk><url ref="http://egalite.hu/literat/nepodevirino.pdf">
+          Nepo de virino</url></vrk>,
+          <lok>[2009]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="es">sentarse a la <ind>mesa</ind></trd>
+  <trdgrp lng="fr">
+    <trd>s'<ind>attabler</ind></trd>,
+    <trd>se mettre &agrave; <ind>table</ind></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>siada&cacute; przy <ind>stole</ind></trd>,
+    <trd>siada&cacute; do <ind>sto&lstroke;u</ind></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="tabl.desegno0o">
+  <kap>desegno<tld/>o</kap> <fnt><bib>EBV</bib></fnt>
+  <snc mrk="tabl.desegno0o.MEBL">
+    <dif>
+      <ref tip="super" cel="tabl.0o">Tablo</ref> por desegnado, kutime
+      kun klinita a&ubreve; klinebla plato.
+    </dif>
+  </snc>
+  <trd lng="cs">rýsovací stůl</trd>
+  <trd lng="es">mesa de dibujo</trd>
+  <trd lng="fr">table &agrave; dessin</trd>
+  <trd lng="hu">rajzasztal</trd>
+  <trd lng="pl"><ind>st&oacute;&lstroke;</ind> kre&sacute;larski</trd>
+  <trd lng="ru">&c_ch;&c_je;&c_r;&c_t;&c_jo;&c_zh;&c_n;&c_y;&c_j;
+  <ind>&c_s;&c_t;&c_o;&c_l;</ind></trd>
+  <trd lng="sk">rysovací stôl</trd>
+</drv>
+
+<drv mrk="tabl.labor0o">
+  <kap>labor<tld/>o</kap>
+  <snc mrk="tabl.labor0o.MEBL">
+    <dif>
+      <ref tip="super" cel="tabl.0o">Tablo</ref> por labori, precipe en
+      laborejo.
+    </dif>
+    <trdgrp lng="de">
+      <trd>Arbeitstisch</trd>,
+      <trd>B&uuml;rotisch</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>desk</trd>
+    </trdgrp>
+    <trdgrp lng="es">
+      <trd><ind>mesa</ind> de despacho<klr> (mueble)</klr></trd>,
+      <trd>escritorio</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>bureau<klr> (meuble)</klr></trd>,
+      <trd>&eacute;tabli<klr> (meuble)</klr></trd>
+    </trdgrp>
+    <trd lng="hu">munkaasztal</trd>
+    <trd lng="id"><ind>meja</ind> kerja</trd>
+    <trdgrp lng="pl">
+      <trd>pulpit</trd>,
+      <trd><ind>st&oacute;&lstroke;</ind> roboczy</trd>,
+      <trd><ind>st&oacute;&lstroke;</ind> warsztatowy</trd>,
+      <trd>warsztat<klr> (pot.)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="pt">
+      <trd>balc&atilde;o</trd>,
+      <trd>banca</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_r;&c_a;&c_b;&c_o;&c_ch;&c_i;&c_j;
+      <ind>&c_s;&c_t;&c_o;&c_l;</ind></trd>,
+      <trd>&c_v;&c_je;&c_r;&c_s;&c_t;&c_a;&c_k;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="tabl.labor0o.KOMP">
+    <uzo tip="fak">KOMP</uzo>
+    <dif>
+      En <ref tip="malprt" cel="fasad.grafika0o">grafika fasado</ref>,
+      parto de ekrano sur kiu aperas
+      <ref cel="fenest.0o.KOMP">fenestroj</ref>,
+      <ref cel="piktogram.0o.KOMP">piktogramoj</ref> kaj aliaj objektoj
+      bildigantaj la laborspacon de la uzanto.
+    </dif>
+    <subsnc mrk="tabl.labor0o.uniksa">
+      <dif>
+        En Uniksaj fenestrosistemoj, &ccirc;iu el pluraj ekranplenoj
+        (tipe 2 a&ubreve; 4) en kiuj la uzanto povas aran&gcirc;i siajn
+        fenestrojn, la&ubreve; diversaj temoj de siaj okupoj:
+        <ekz>
+          komuti virtualajn labor<tld/>ojn;
+        </ekz>
+        <ekz>
+          elektu la kolorojn por via Esperanta labor<tld/>o.
+        </ekz>
+      </dif>
+      <trd lng="pl">obszar roboczy</trd>
+    </subsnc>
+    <subsnc mrk="tabl.labor0o.fono">
+      <dif>
+        La ekrana fono, ekrana loko ne kovrita per fenestro,
+        piktogramo a&ubreve; alia ekrana objekto:
+        <ekz>
+          por surekranigi la labor<tld/>an menuon, klaku per la
+          dekstra musbutono sur la fona parto de la labor<tld/>o;
+        </ekz>
+        <ekz>
+          por povi &ccirc;iam tuj lan&ccirc;i aplika&jcirc;on,
+          trenu &gcirc;ian piktogramon sur la labor<tld/>on.
+        </ekz>
+      </dif>
+      <trd lng="pl">pulpit</trd>
+    </subsnc>
+    <trd lng="be">&c_p;&c_r;&c_a;&c_c;&c_o;&c_w;&c_n;&c_y;
+    &c_s;&c_t;&c_o;&c_l;</trd>
+    <trdgrp lng="de">
+      <trd>Bildschirmhintergrund</trd>,
+      <trd>Desktop</trd>,
+      <trd>Arbeitsplatz</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>desktop</trd>, <trd>workspace</trd>
+    </trdgrp>
+    <trdgrp lng="es">
+      <trd>escritorio</trd>,
+      <trd>espacio de trabajo</trd>
+    </trdgrp>
+    <trd lng="fr">bureau<klr> (&eacute;cran informatique)</klr></trd>
+    <trdgrp lng="hu">
+      <trd>asztal <klr tip="ind">(desktop)</klr></trd>,
+      <trd>desktop</trd>
+    </trdgrp>
+    <trd lng="ru">&c_r;&c_a;&c_b;&c_o;&c_ch;&c_i;&c_j;
+    <ind>&c_s;&c_t;&c_o;&c_l;</ind></trd>
+  </snc>
+</drv>
+
+<drv mrk="tabl.ronda0o">
+  <kap>ronda <tld/>o</kap>
+  <snc mrk="tabl.ronda0o.FRAZ">
+    <uzo tip="stl">FRAZ</uzo>
+    <dif>
+      <ref tip="vid" cel="sid.kun0o">Kunsido</ref>, en kiu &ccirc;iuj
+      povas egale diri sian opinion pri la temo:
+      <ekz>
+        dum la lunda ronda <tld/>o, preska&ubreve; unuanime la
+        partoprenintoj la&ubreve;dis la aran&gcirc;on
+        <fnt>
+        <aut>B. Hekland</aut>,
+        <vrk>Sukcesa strigo</vrk>,
+        <bib>LOdE</bib>,
+        <lok>1999-01</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        debatoj &ccirc;e televida ronda <tld/>o
+        <fnt>
+        <aut>Kuba Informa Agentejo</aut>,
+        <vrk><url ref=
+        "http://www.ain.cubaweb.cu/idioma/esperanto/2006/
+may24guerramediatica.htm">
+        Amasmedia milito...</url></vrk>,
+        <lok>2006-05-24</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="es">mesa redonda<klr> (reuni&oacute;n)</klr></trd>
+    <trd lng="fr">table ronde<klr> (r&eacute;union)</klr></trd>
+    <trd lng="id">[<ind>temu</ind>] pertemuan</trd>
+    <trd lng="pl">okr&aogonek;g&lstroke;y <ind>st&oacute;&lstroke;</ind>
+    </trd>
+  </snc>
+  <trd lng="cs">kulatý stůl</trd>
+  <trd lng="sk">okrúhly stôl</trd>
+</drv>
+
+<drv mrk="tabl.sur0igi">
+  <kap>sur<tld/>igi</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="tabl.sur0igi.KOMUNE">
+    <dif>
+      Meti sur <tld/>on, tiel disponigi:
+      <ekz>
+        servoknabinoj venis ver&scirc;i vinon kaj sur<tld/>igi pladojn
+        <fnt><bib>RugxDom</bib>, <lok>&ccirc;apitro 85a, volumo 3a, p.
+        79a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">dát na stůl</trd>
+  <trdgrp lng="es">
+    <trd>poner sobre la mesa</trd>,
+    <trd>servir<klr> (poner sobre la mesa)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>mettre sur la table</trd>,
+    <trd>servir<klr> (mettre sur la table)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>asztalra helyez</trd>,
+    <trd>t&aacute;lal</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>k&lstroke;a&sacute;&cacute; <klr>co&sacute;</klr>
+    na st&oacute;&lstroke;</trd>,
+    <trd>k&lstroke;a&sacute;&cacute; <klr>co&sacute;</klr>
+    na stole</trd>,
+  </trdgrp>
+  <trd lng="ru">&c_p;&c_o;&c_d;&c_a;&c_t;&c_mol; &c_n;&c_a;
+  &c_s;&c_t;&c_o;&c_l;</trd>
+  <trd lng="sk">dať na stôl</trd>
+</drv>
+
+<drv mrk="tabl.tualet0o">
+  <kap>tualet<tld/>o</kap> <fnt><bib>EBV</bib></fnt>
+  <snc mrk="tabl.tualet0o.MEBL">
+    <dif>
+      <ref tip="super" cel="tabl.0o.MEBL">Tablo</ref> por tualeto,
+      kutime provizita per speguloj, kestoj a&ubreve; fakoj por
+      &scirc;minkoj.
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>toaletka</trd>,
+    <trd>toaletní stůl</trd>
+  </trdgrp>
+  <trd lng="es">tocador<klr> (mueble)</klr></trd>
+  <trd lng="fr">coiffeuse<klr> (meuble)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>f&eacute;s&uuml;lk&ouml;d&odblac;asztal</trd>,
+    <trd>toalettasztal</trd>,
+    <trd>&ouml;lt&ouml;ztet&odblac;asztal</trd>
+  </trdgrp>
+  <trd lng="pl">toaletka</trd>
+  <trdgrp lng="ru">
+    <trd>&c_t;&c_r;&c_je;&c_l;&c_mol;&c_ja;&c_zh;</trd>,
+    <trd>&c_t;&c_u;&c_a;&c_l;&c_je;&c_t;&c_n;&c_y;&c_j;
+    &c_s;&c_t;&c_o;&c_l;&c_i;&c_k;</trd>
+  </trdgrp>
+  <trd lng="sk">toaletný stolík</trd>
+</drv>
+
+<drv mrk="tabl.vendo0o">
+  <kap>vendo<tld/>o</kap> <fnt><bib>EBV</bib></fnt>
+  <snc mrk="tabl.vendo0o.MEBL">
+    <dif>
+      <ref tip="super" cel="tabl.0o.MEBL">Tablo</ref> por prezenti
+      vendota&jcirc;ojn
+      en butiko, bazaro a&ubreve; ajna komercejo.
+    </dif>
+  </snc>
+  <trd lng="cs">pult v obchodě</trd>
+  <trd lng="es">mostrador</trd>
+  <trd lng="fr">&eacute;tal</trd>
+  <trd lng="hu">pult <klr tip="ind">(bolti)</klr></trd>
+  <trd lng="pl">lada</trd>
+  <trd lng="ru">&c_p;&c_r;&c_i;&c_l;&c_a;&c_v;&c_o;&c_k;</trd>
+  <trd lng="sk">pult v obchode</trd>
+</drv>
+
+<drv mrk="tabl.versxo0o">
+  <kap>ver&scirc;o<tld/>o, <var><kap>ver&scirc;<tld/>o</kap></var></kap>
+  <fnt><bib>EBV</bib></fnt>
+  <snc mrk="tabl.versxo0o.MEBL">
+    <dif>
+      Alta, longa <ref tip="super" cel="tabl.0o.MEBL">tablo</ref>
+      precipe en drinkejo a&ubreve; restoracio, inter preparejo kaj
+      man&gcirc;ejo, &ccirc;e kiu klientoj povas resti stare a&ubreve;
+      sur altaj sidiloj:
+      <ekz>
+        ili staris &ccirc;irka&ubreve; la ver&scirc;<tld/>o apud la
+        pordo
+        <fnt><bib>KielAkvo</bib>, <lok>1:2</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="de">
+    <trd>Tresen</trd>,
+    <trd>Theke</trd>,
+    <trd>Bar</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>mostrador<klr> (de un bar)</klr></trd>,
+    <trd>barra<klr> (mueble)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>bar<klr> (meuble)</klr></trd>,
+    <trd>comptoir<klr> (d'un bar)</klr></trd>,
+    <trd>zinc<klr> (d'un bar)</klr></trd>
+  </trdgrp>
+  <trd lng="hu">italpult</trd>
+  <trdgrp lng="pl">
+    <trd>lada</trd>,
+    <trd>bar</trd>
+  </trdgrp>
+  <trd lng="ru">&c_s;&c_t;&c_o;&c_j;&c_k;&c_a; &c_b;&c_a;&c_r;&c_a;
+  </trd>
+</drv>
+</art>
+<!--
+$Log: tabl.xml,v $
+Revision 1.40  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.39  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.38  2015/04/02 05:10:16  revo
+Carlos Garcia: +trd es
+
+Revision 1.37  2015/01/09 21:10:55  revo
+Jeromo Vasxe: + ~estro
+
+Revision 1.36  2014/11/23 21:10:21  revo
+Jeromo Vasxe: + ref lst
+
+Revision 1.35  2014/09/24 10:10:10  revo
+Guillermo Molleda Jimena: trd es
+
+Revision 1.34  2014/06/08 16:10:46  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.33  2013/12/18 02:10:17  revo
+Jeromo Vasxe: + al~igxi
+
+Revision 1.32  2011/10/31 19:10:12  revo
+Wolfram Diestel: +germ trd
+
+Revision 1.31  2009/03/12 17:31:48  revo
+-->
+</vortaro>

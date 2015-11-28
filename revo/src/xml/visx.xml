@@ -1,0 +1,313 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: visx.xml,v 1.28 2015/08/15 12:10:14 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>vi&scirc;</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="visx.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="visx.0i.MOV">
+    <dif>
+      Purige froti.
+    </dif>
+    <subsnc>
+      <dif>
+        Purigi objekton, frotante &gcirc;in per io, kio forigas polvon a&ubreve;
+        malsekecon:
+        <ekz>
+          <tld/>i fenestron por pli klare vidi;
+        </ekz>
+        <ekz>
+          <tld/>i al si la okulojn<fnt>Z</fnt>;
+        </ekz>
+        <ekz>
+          <ind>man<tld/>ilo</ind>.
+          <trd lng="be">&c_r;&c_u;&c_ch;&c_n;&c_ib;&c_k;</trd>
+          <trd lng="hu">k&eacute;zt&ouml;rl&odblac;</trd>
+          <trd lng="ru">&c_r;&c_u;&c_ch;&c_n;&c_o;&c_je; <ind>&c_p;&c_o;&c_l;&c_o;&c_t;&c_je;&c_n;&c_c;&c_je;</ind></trd>
+        </ekz>
+      </dif>
+      <trdgrp lng="be">
+        <trd>&c_v;&c_y;&c_c;&c_ib;&c_r;&c_a;&c_c;&c_mol;</trd>,
+        <trd>&c_p;&c_r;&c_a;&c_c;&c_ib;&c_r;&c_a;&c_c;&c_mol;</trd>
+      </trdgrp>
+      <trdgrp lng="ru">
+        <trd>&c_v;&c_y;&c_t;&c_je;&c_r;&c_je;&c_t;&c_mol;</trd>,
+        <trd>&c_v;&c_y;&c_t;&c_i;&c_r;&c_a;&c_t;&c_mol;</trd>
+      </trdgrp>
+    </subsnc>
+    <subsnc>
+      <dif>
+        Forigi malpura&jcirc;on de objekto per frotado,
+        <ref tip="vid" cel="visx.de0i.MOV">de<tld/>i</ref>:
+        <ekz>
+          <tld/>i polvon de la tablo<fnt>B</fnt>.
+        </ekz>
+      </dif>
+      <trd lng="be">&c_s;&c_mol;&c_c;&c_ib;&c_r;&c_a;&c_c;&c_mol;</trd>
+      <trdgrp lng="ru">
+        <trd>&c_s;&c_t;&c_je;&c_r;&c_je;&c_t;&c_mol;</trd>,
+        <trd>&c_s;&c_t;&c_i;&c_r;&c_a;&c_t;&c_mol; <klr tip="amb">(&c_ch;&c_t;&c_o;-&c_l;. &c_s;
+        &c_ch;&c_je;&c_g;&c_o;-&c_l;.)</klr></trd>
+      </trdgrp>
+    </subsnc>
+  </snc>
+  <trd lng="bg">&c_b;&c_malmol;&c_r;&c_sh;&c_a;</trd>
+  <trd lng="de">wischen</trd>
+  <trd lng="en">wipe</trd>
+  <trdgrp lng="es">
+    <trd>enjugar</trd>,
+    <trd>secar</trd>
+  </trdgrp>
+  <trd lng="fa">&f_p;&a_A;&f_k; &f_k;&a_r;&a_d;&a_n;</trd>
+  <trd lng="fr">essuyer</trd>
+  <trd lng="he">&lamed;&nun;&gimel;&bet;</trd>
+    <trdgrp lng="hu">
+      <trd>t&ouml;r&ouml;l</trd>,
+      <trd>d&ouml;rg&ouml;l</trd>
+    </trdgrp>
+    <trdgrp lng="id">
+      <trd>[<ind>lap</ind>] mengelap</trd>,
+      <trd>[<ind>seka</ind>] menyeka</trd>
+    </trdgrp>
+    <trd lng="ku">paqijkirin</trd>
+  <trdgrp lng="nl">
+    <trd>wissen</trd>,
+    <trd>afvegen</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>enxugar</trd>,
+    <trd>esfregar</trd>
+  </trdgrp>
+  <trd lng="tr">silmek</trd>
+</drv>
+
+<drv mrk="visx.de0i">
+  <kap>de<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="visx.de0i.MOV">
+    <dif>
+      Forigi <tld/>ante:
+      <ekz>
+        la porkopa&scirc;tisto <klr>[...]</klr> de<tld/>is al si
+        de la viza&gcirc;o la nigran kaj brunan farbon
+        <fnt><bib>Fab2</bib><lok>Pa&scirc;isto de porkoj</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="es">quitar</trd>
+  <trdgrp lng="fa">
+    <trd>&f_p;&a_A;&f_k; &f_k;&a_r;&a_d;&a_n;<klr tip="amb"> (&a_l;&f_k;&a_h;)</klr></trd>,
+    <trd>&a_z;&a_d;&a_w;&a_d;&a_n;</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>enlever<klr tip="ind"> (en essuyant)</klr></trd>,
+    <trd>&ocirc;ter<klr tip="ind"> (en essuyant)</klr></trd>
+  </trdgrp>
+  <trd lng="hu">let&ouml;r&ouml;l</trd>
+  <trdgrp lng="nl">
+    <trd>wissen</trd>,
+    <trd>uitwissen</trd>,
+    <trd>wegvegen</trd>,
+    <trd>wegwissen</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_t;&c_je;&c_r;&c_je;&c_t;&c_mol;</trd>,
+    <trd>&c_o;&c_t;&c_t;&c_je;&c_r;&c_je;&c_t;&c_mol;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="visx.el0i">
+  <kap>el<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="visx.el0i.MOV">
+    <dif>
+      Komplete <tld/>i:
+      <ekz>
+        mi el<tld/>os Jerusalemon, kiel oni el<tld/>as
+        pladon
+        <fnt><bib>MT</bib>, <lok>&Re2; 21:13</lok></fnt>.
+      </ekz>
+    </dif>
+  <trd lng="de">auswischen</trd>
+  </snc>
+  <snc mrk="visx.el0i.forvisxi">
+    <ref tip="dif" cel="visx.for0i.MOV">for<tld/>i</ref>
+    <ekz>
+      <uzo tip="stl">FIG</uzo>
+      la jaroj el<tld/>is tiujn rememorojn el la kapo de la
+      homoj<fnt>Z</fnt>;
+    </ekz>
+    <ekz>
+      <uzo tip="stl">FIG</uzo>
+      el<tld/>i pekon<fnt>Z</fnt>;
+    </ekz>
+    <ekz>
+      <uzo tip="stl">FIG</uzo>
+      lia honto ne el<tld/>i&gcirc;as<fnt>Z</fnt>;
+    </ekz>
+    <ekz>
+      <uzo tip="stl">FIG</uzo>
+      tiu tempo jam de longe el<tld/>i&gcirc;is el la memoro de la homaro.
+    </ekz>
+    <trd lng="de">wegwischen</trd>
+  </snc>
+  <trd lng="be">&c_s;&c_mol;&c_c;&c_ib;&c_r;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="es">borrar</trd>
+  <trdgrp lng="fa">
+    <trd>&a_m;&a_H;&a_w; &f_k;&a_r;&a_d;&a_n;</trd>,
+    <trd>&a_A;&a_z; &a_b;&f_y;&a_n; &a_b;&a_r;&a_d;&a_n;</trd>
+  </trdgrp>
+  <trd lng="fr">effacer</trd>
+  <trd lng="hu">kit&ouml;r&ouml;l</trd>
+  <trdgrp lng="nl">
+    <trd>wissen</trd>,
+    <trd>uitwissen</trd>,
+    <trd>wegvegen</trd>,
+    <trd>wegwissen</trd>
+  </trdgrp>
+  <trd lng="ru">&c_s;&c_t;&c_je;&c_r;&c_je;&c_t;&c_mol;</trd>
+</drv>
+
+<drv mrk="visx.for0i">
+  <kap>for<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="visx.for0i.MOV">
+    <dif>
+      Komplete forigi per <tld/>o:
+      <ekz>
+        for<tld/>i la larmojn<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        la plej malforta vento for<tld/>as la vortojn skribitajn sur
+        sablo;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        tiu memora&jcirc;o estas preska&ubreve; for<tld/>ita de la flugilo de l'
+        tempo;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        &ccirc;ion mi for<tld/>os de la tabulo de mia memoro<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        for<tld/>i &scirc;uldon, la honton, la malbonagadon<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        la diferencoj rapide for<tld/>i&gcirc;is.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_v;&c_y;&c_c;&c_ib;&c_r;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_s;&c_mol;&c_c;&c_ib;&c_r;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="de">wegwischen</trd>
+  <trd lng="es">borrar</trd>
+  <trdgrp lng="fa">
+    <trd>&a_m;&a_H;&a_w; &f_k;&a_r;&a_d;&a_n;</trd>,
+    <trd>&a_A;&a_z; &a_b;&f_y;&a_n; &a_b;&a_r;&a_d;&a_n;</trd>
+  </trdgrp>
+  <trd lng="fr">effacer</trd>
+  <trdgrp lng="hu">
+    <trd>elt&ouml;r&ouml;l</trd>,
+    <trd>kit&ouml;r&ouml;l</trd>
+  </trdgrp>
+   <trdgrp lng="nl">
+    <trd>wissen</trd>,
+    <trd>uitwissen</trd>,
+    <trd>wegvegen</trd>,
+    <trd>wegwissen</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_v;&c_y;&c_t;&c_je;&c_r;&c_je;&c_t;&c_mol;</trd>,
+    <trd>&c_s;&c_t;&c_je;&c_r;&c_je;&c_t;&c_mol;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="visx.glaco0ilo">
+  <kap>glaco<tld/>ilo</kap>
+  <snc mrk="visx.glaco0ilo.AUT">
+    <uzo tip="fak">AUT</uzo>
+    <dif>
+      Aparato por purigi la anta&ubreve;an a&ubreve; postan glacon de veturilo.
+    </dif>
+  </snc>
+  <trd lng="de">Scheibenwischer</trd>
+  <trd lng="es">limpiaparabrisas</trd>
+  <trd lng="fa">&a_b;&a_r;&a_f;&zwnj;&f_p;&a_A;&f_k;&zwnj;&f_k;&a_n;</trd>
+  <trd lng="fr">essuie-glace</trd>
+  <trdgrp lng="id">
+    <trd>[<ind>hapus</ind>] penghapus kaca</trd>,
+    <trd>wiper</trd>
+  </trdgrp>
+  <trd lng="nl">ruitenwisser</trd>
+</drv>
+
+<drv mrk="visx.polvo0ilo">
+  <kap>polvo<tld/>ilo</kap>
+  <snc mrk="visx.polvo0ilo.HEJM">
+    <dif>
+      Ilo per kiu oni <tld/>e forigas polvon:
+      <ekz>
+        en unu angulo staris kolorpluma polvo<tld/>ilo
+          <fnt>
+            <aut>Lao She, trad. Wang Chongfang</aut>,
+            <vrk><url
+            ref="http://edu.i-lo.tarnow.pl/esp/lern/librejo/0026/">
+            Kamelo &Scirc;jangzi</url></vrk>,
+            <lok>1988</lok>
+          </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="en">dust cloth</trd>
+  <trd lng="es">plumero</trd>
+  <trdgrp lng="fr">
+    <trd>chiffon &agrave; poussi&egrave;re</trd>,
+    <trd>plumeau</trd>
+  </trdgrp>
+  <trd lng="hu">port&ouml;rl&odblac; (rongy)</trd>
+  <trdgrp lng="id">
+    <trd>lap</trd>,
+    <trd>majun</trd>
+  </trdgrp>
+  <trd lng="nl">stofdoek</trd>
+  <trd lng="pl">&sacute;ciereczka<klr> do kurzu</klr></trd>
+  <trd lng="ru">&c_p;&c_y;&c_l;&c_mol;&c_n;&c_a;&c_ja; &c_t;&c_r;&c_ja;&c_p;&c_k;&c_a;</trd>
+</drv>
+</art>
+<!--
+$Log: visx.xml,v $
+Revision 1.28  2015/08/15 12:10:14  revo
+Jeromo Vasxe: jeruzalemon -> jerusalemon
+
+Revision 1.27  2014/10/27 08:10:12  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.26  2014/08/02 16:10:11  revo
+Guillermo Molleda Jimena: Hispana tradukado
+
+Revision 1.25  2014/01/09 02:10:27  revo
+Jeromo Vasxe: + polvo~ilo el polv, kor dof, + ekz
+
+Revision 1.24  2012/11/30 01:10:09  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.23  2012/09/07 19:10:09  revo
+Jeromo Vasxe: + 1 mrk, snc/subsnc, + fak aut
+
+Revision 1.22  2010/06/30 16:30:46  revo
+Agustin Garcia Lopez: +trd es
+
+Revision 1.21  2009/08/30 16:30:53  revo
+-->
+</vortaro>

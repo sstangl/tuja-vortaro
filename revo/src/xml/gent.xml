@@ -1,0 +1,205 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: gent.xml,v 1.22 2015/07/04 08:37:35 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>gent</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="gent.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="gent.0o.familio">
+    <dif>
+      Grupo da kelkaj familioj devenaj de unua sama prapatro,
+      kune vivantaj kaj ordinare regataj de unu sama estro;
+      subdivido de <ref tip="malprt" cel="naci.0o.popolo">nacio</ref>;
+      popoleto:
+      <ekz>
+        la <tld/>o de Jakob;
+      </ekz>
+      <ekz>
+        la romanaj patriciaj <tld/>oj.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="famili.0o">familio</ref>,
+      <ref cel="fratri.0o">fratrio</ref>,
+      <ref cel="klan.0o">klano</ref>,
+      <ref cel="trib.0o">tribo</ref>.
+    </refgrp>
+    <trdgrp lng="be">
+      <trd>&c_n;&c_a;&c_r;&c_o;&c_d;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
+      <trd>&c_p;&c_l;&c_je;&c_m;&c_ja;</trd>,
+      <trd>&c_r;&c_o;&c_d;</trd>
+    </trdgrp>
+    <trd lng="bg">&c_p;&c_l;&c_je;&c_m;&c_je;</trd>
+    <trdgrp lng="ca">
+      <trd>comunitat</trd>,
+      <trd>fam&iacute;lia</trd>,
+      <trd>grup</trd>,
+      <trd>col&middot;lectivitat</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd>Geschlecht</trd>,
+      <trd>Stamm</trd>,
+      <trd>Sippschaft</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>family</trd>,
+      <trd>kin</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>nemzets&eacute;g</trd>,
+      <trd>t&ouml;rzs</trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+     <trd>plemi&eogonek;</trd>, 
+     <trd>r&oacute;d</trd>,
+     <trd>szczep</trd>
+    </trdgrp>
+    <trdgrp lng="pt">
+     <trd>gente</trd>, 
+     <trd>tribo</trd> 
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_n;&c_a;&c_r;&c_o;&c_d;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>,
+      <trd>&c_p;&c_l;&c_je;&c_m;&c_ja;</trd>,
+      <trd>&c_r;&c_o;&c_d;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="gent.0o.raso">
+    <dif>
+      Homa grupo, havanta difinitajn historiajn kaj kulturajn 
+      tradiciojn, inter kiuj trovi&gcirc;as la mito pri komuna origino
+    </dif>
+    <ekz>
+      la homa <tld/>o;
+    </ekz>
+    <ekz>
+      la elmigro de la hebrea <tld/>o el Egiptio
+      <fnt>
+        <aut>M. Halvelik</aut>,
+        <vrk>(Andr&eacute; Cherpillod, Kaj la suno
+        haltis...)</vrk>,
+        <bib>Monato</bib>,
+        <lok>1993:11, p. 23a</lok>
+      </fnt>.
+    </ekz>
+    <ekz>
+      mi parolu ne sole pri <ref tip="vid" cel="ras.0o.BIO">rasoj</ref> 
+      sed anka&ubreve; pri <tld/>oj, &ccirc;ar amba&ubreve; 
+      egale signifas etnologian grupon da homoj kaj diferencas nur per 
+      sia amplekso
+      <fnt>Z</fnt>.
+    </ekz>
+    <refgrp tip="vid">
+      <ref cel="etn.0o">etno</ref>,
+      <ref cel="naci.0o.popolo">nacio</ref>,
+      <ref cel="popol.0o.etno">popolo</ref>
+    </refgrp>
+    <trd lng="be">&c_p;&c_l;&c_je;&c_m;&c_ja;</trd>
+    <trdgrp lng="ca">
+      <trd>poble</trd>,
+      <trd>&egrave;tnia</trd>,
+      <trd>naci&oacute;</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>race</trd>,
+      <trd>people</trd>,
+      <trd>ethnic group</trd>
+    </trdgrp>
+    <trd lng="hu">faj<klr tip="ind"> (emberi)</klr></trd>
+    <trdgrp lng="pl">
+     <trd>plemi&eogonek;</trd>, 
+     <trd>r&oacute;d</trd>
+    </trdgrp>
+    <trd lng="pt">ra&ccedil;a</trd>
+    <trd lng="ru">&c_p;&c_l;&c_je;&c_m;&c_ja;</trd>
+  </snc>
+  <snc mrk="gent.0o.BIO">
+    <uzo tip="fak">BIO</uzo>
+    <uzo tip="stl">ARK</uzo>
+    <ref tip="dif" cel="genr.0o.BIO">genro</ref>
+    <ekz>
+      la rana <tld/>o
+      <fnt>K</fnt>.
+    </ekz>
+    <trd lng="ca">g&egrave;nere</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>kmen</trd>,
+    <trd>plemeno</trd>,
+    <trd>rod</trd>
+  </trdgrp>
+  <trd lng="es">estirpe</trd>
+  <trdgrp lng="fr">
+    <trd>gens<klr tip="ind"> (ensemble de familles
+romaines)</klr></trd>,
+    <trd>lign&eacute;e</trd>,
+    <trd>peuplade</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>geslacht<klr tip="ind"> (volk)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>kmeň</trd>,
+    <trd>plemeno</trd>,
+    <trd>rod</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="gent.sam0ano">
+  <kap>sam<tld/>ano</kap>
+  <snc mrk="gent.sam0ano.GEN">
+    <uzo tip="fak">GEN</uzo>
+    <dif>
+      Ano de sama <tld/>o, kiel alia homo:
+      <ekz>
+        sian devon li faris el la sento de solidareco
+        al siaj sam<tld/>anoj
+        <fnt>
+          <aut>V. O&scaron;lak</aut>,
+          <vrk>Foje e&ccirc; pensi estas &gcirc;uo</vrk>,
+          <lok>2003</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">soukmenovec</trd>
+  <trd lng="sk">súkmeňovec</trd>
+</drv>
+</art>
+<!--
+$Log: gent.xml,v $
+Revision 1.22  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.21  2015/06/29 16:29:39  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.20  2014/09/27 01:10:12  revo
+Norbert Luckhardt: +trd ES
+
+Revision 1.19  2014/02/23 02:10:17  revo
+Jeromo Vasxe: + sam~ano
+
+Revision 1.18  2012/08/18 20:10:13  revo
+Marc Rausell: + trd ca
+
+Revision 1.17  2009/02/24 17:30:40  revo
+Russ Williams: +trd en
+
+Revision 1.16  2007/12/09 17:30:24  revo
+Wieland Pusch: +trd bg (de Joop Eggen)
+
+Revision 1.15  2007/11/07 17:30:20  revo
+Sebastian Cyprych: en snc raso (+dif -rim +ekz +ref etno, popolo) en snc
+BIO (+uzoARK) +trd pl
+
+Revision 1.14  2005/08/18 16:32:23  revo
+Luiz Portella: +trd pt
+
+-->
+</vortaro>

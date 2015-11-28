@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: demons1.xml,v 1.16 2015/07/04 08:37:32 revo Exp $">
+
+<kap>
+  <ofc>3</ofc>
+  <rad>demonstraci</rad>/o
+</kap>
+
+<drv mrk="demons1.0o">
+  <kap><tld/>o</kap>
+  <fnt><bib>PV</bib></fnt>
+  <snc mrk="demons1.0o.dedukto">
+    <uzo tip="fak">MAT</uzo>
+    <uzo tip="stl">EVI</uzo>
+    <ref tip="dif" cel="demons.0o">demonstro.</ref>
+  </snc>
+  <snc>
+    <dif>
+      Perfekta elpruvo.
+    </dif>
+    <trdgrp lng="en">
+      <trd>demonstration</trd>,
+      <trd>proof</trd>
+    </trdgrp>
+    <trd lng="fr">d&eacute;monstration<klr tip="ind">
+    (argumentation)</klr></trd>
+    <trd lng="pl">demonstracja<klr> (pokaz)</klr></trd>
+  </snc>
+  <snc>
+    <uzo tip="stl">EVI</uzo>
+    <ref tip="dif" cel="manife1.0o">manifestacio.</ref>
+  </snc>
+  <adm>
+  Enkonduki ~i, kontroli &ccirc;u cere snc 3 plu estas EVI.
+  <aut>MB</aut>
+  </adm>
+  <trd
+  lng="be">&c_d;&c_e;&c_m;&c_a;&c_n;&c_s;&c_t;&c_r;&c_a;&c_c;&c_y;&c_ja;</trd>
+  <trd lng="de">Demonstration</trd>
+  <trd lng="es">demostraci&oacute;n</trd>
+  <trd lng="hu">bizony&iacute;t&aacute;s</trd>
+  <trd lng="pt">demonstra&ccedil;&atilde;o</trd>
+  <trd
+  lng="ru">&c_d;&c_je;&c_m;&c_o;&c_n;&c_s;&c_t;&c_r;&c_a;&c_c;&c_i;&c_ja;</trd>
+  <trd lng="sk">názorná ukážka</trd>
+  <trdgrp lng="cs">
+    <trd>demonstrace <klr>(např. síly)</klr></trd>,
+    <trd>názorná ukázka</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: demons1.xml,v $
+Revision 1.16  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.14  2009/06/03 16:31:01  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.13  2007/07/19 16:31:55  revo
+Tulio Flores: +tr pt
+
+Revision 1.12  2006/09/17 16:30:48  revo
+Russ Williams: +trd en
+
+Revision 1.11  2005/12/04 17:31:17  revo
+Wieland Pusch: +trd de
+
+Revision 1.10  2004/07/08 17:05:12  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.9  2003/04/21 16:33:21  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.8  2002/05/21 16:38:19  revo
+Alejandro Mejia Greene: ald 1 his trd
+
+Revision 1.7  2002/05/02 16:35:45  revo
+-->
+</vortaro>

@@ -1,0 +1,721 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: paf.xml,v 1.50 2015/07/04 08:37:40 revo Exp $">
+<kap>
+  <ofc>*</ofc><rad>paf</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="paf.0i">
+  <kap><ofc>*</ofc><tld/>i<fnt>F</fnt></kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="paf.0i.KOMUNE">
+    <dif>
+      <ref tip="super" cel="jxet.0i.tra_aero">&Jcirc;eti</ref> a&jcirc;on tre
+      rapide al iu celo a&ubreve; direkto:
+      <ekz>
+        <tld/>i &scirc;tonon per &scirc;ton&jcirc;etilo;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        <tld/>i per siaj ridantaj okuloj<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+    <subsnc mrk="paf.0i.ARM">
+      <uzo tip="fak">MIL</uzo>
+      <dif>
+        &Jcirc;eti objekton per rapidiga ilo, celante detrui, vundi a&ubreve;
+        mortigi:
+        <ekz>
+          <tld/>i kuglon per karabeno, obuson per kanono;
+        </ekz>
+        <ekz>
+          <tld/>&jcirc;eti sagon<fnt>Z</fnt>;
+        </ekz>
+        <ekz>
+          <tld/>i birdon, al birdo;
+        </ekz>
+        <ekz>
+          kiu du leporojn <tld/>as neniun trafas<fnt>Z</fnt>;
+        </ekz>
+        <ekz>
+          <tld/>i kontra&ubreve; iu;
+        </ekz>
+        <ekz>
+          <uzo tip="stl">FIG</uzo>
+          <ind>tra<tld/>adi la aeron </ind><klr>(vane labori)</klr>
+          <trd lng="ca">esfor&ccedil;ar-se en va</trd>
+          <fnt><bib>PrV</bib></fnt>.
+        </ekz>
+      </dif>
+      <trd lng="pl">strzela&cacute;</trd>
+    </subsnc>
+    <subsnc mrk="paf.0i.SPO">
+      <uzo tip="fak">SPO</uzo>
+      <dif>
+        &Jcirc;etegi pilkon a&ubreve; alian ludobjekton al cela&jcirc;o:
+        <ekz>
+          la kroata atakisto &ccirc;iam <tld/>as la pilkon al la
+          golgardisto
+          <fnt>
+            <aut>-</aut>,
+            <vrk><url
+                ref="http://www.esperanto.ch/komentoj/sxercoj.html">komentoj</url></vrk>,
+            <lok>2006</lok>
+          </fnt>.
+        </ekz>
+      </dif>
+      <trd lng="pl">strzela&cacute;</trd>
+    </subsnc>
+    <refgrp tip="vid">
+      <ref cel="cel.0i">celi</ref>,
+      <ref cel="for.0pafi">forpafi</ref>,
+      <ref cel="traf.0i">trafi</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_s;&c_t;&c_r;&c_a;&c_l;&c_ja;&c_c;&c_mol;</trd>
+  <trdgrp lng="ca">
+    <trd>llan&ccedil;ar</trd>,
+    <trd>disparar</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>střelit</trd>,
+    <trd>střílet</trd>,
+    <trd>vystřelit</trd>,
+    <trd>zastřelit</trd>
+  </trdgrp>
+  <trd lng="de">schie&szlig;en</trd>
+  <trd lng="en">shoot</trd>
+  <trd lng="es">disparar</trd>
+  <trd lng="fr">tirer<klr tip="amb"> (un projectile)</klr></trd>
+  <trd lng="he">&lamed;&yod;&resh;&vav;&tav; \<ind>&yod;&resh;&he;</ind>\</trd>
+  <trd lng="hu">l&odblac;</trd>
+  <trd lng="id">[<ind>tembak</ind>] menembak</trd>
+  <trd lng="nl">schieten</trd>
+  <trd lng="no">skyte</trd>
+  <trdgrp lng="pt">
+    <trd>atirar</trd>
+  </trdgrp>
+  <trd lng="ru">&c_s;&c_t;&c_r;&c_je;&c_l;&c_ja;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>streliť</trd>,
+    <trd>vystreliť</trd>,
+    <trd>zastreliť</trd>
+  </trdgrp>
+  <trd lng="sv">skjuta</trd>
+</drv>
+
+<drv mrk="paf.0">
+  <kap><tld/></kap>
+  <gra><vspec>sonimito</vspec></gra>
+  <snc mrk="paf.0.SON">
+    <dif>
+      <ref tip="lst" cel="bru.0o" lst="voko:sonoj">Bruo</ref>
+      de <tld/>o, de eksplodo, de frakaso:
+      <ekz>
+        la oficiro ekcelas la trian fojon &mdash; <tld/>! li trafis
+        <fnt><bib>FK</bib></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="krak.0">krak</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="ca">
+    <trd>pam!</trd>,
+    <trd>pum!</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>boum !</trd>,
+    <trd>paf !</trd>
+  </trdgrp>
+  <trd lng="id">dor!</trd>
+  <trdgrp lng="pl">
+    <trd>pif! paf!</trd>,
+    <trd>paf!</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_i;&c_f;!</trd>,
+    <trd>&c_p;&c_a;&c_f;!</trd>,
+    <trd>&c_p;&c_i;&c_f; &c_p;&c_a;&c_f;!</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="paf.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="paf.0o.ARM">
+    <dif>
+      Ago <tld/>i a&ubreve; rezulto de tiu ago:
+      <ekz>
+        mi a&ubreve;dis du <tld/>ojn<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_t;&c_r;&c_e;&c_l;</trd>
+  <trd lng="ca">tret</trd>
+  <trdgrp lng="cs">
+    <trd>rána</trd>,
+    <trd>výstřel</trd>
+  </trdgrp>
+  <trd lng="de">Schuss</trd>
+  <trd lng="en">shot</trd>
+  <trd lng="es">disparo</trd>
+  <trdgrp lng="fr">
+    <trd>coup de feu</trd>,
+    <trd>tir</trd>
+  </trdgrp>
+  <trd lng="he">&yod;&resh;&yod;&yod;&he;</trd>
+  <trd lng="hu">l&oacute;v&eacute;s</trd>
+  <trd lng="id"><ind>tembak</ind>an</trd>
+  <trd lng="nl">schot</trd>
+  <trd lng="no">skudd</trd>
+  <trd lng="pl">strza&lstroke;</trd>
+  <trd lng="ru">&c_v;&c_y;&c_s;&c_t;&c_r;&c_je;&c_l;</trd>
+  <trd lng="sk">streľba</trd>
+  <trd lng="sv">skott</trd>
+</drv>
+
+<drv mrk="paf.0ado">
+  <kap><tld/>ado, <var><kap><tld/>aro</kap></var></kap>
+  <snc mrk="paf.0ado.ARM">
+    <dif>
+      Ripetitaj <tld/>oj:
+      <ekz>
+        la <tld/>ado longe da&ubreve;ris<fnt>Z</fnt>;
+      </ekz><ekz>
+        saluta <tld/>aro.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_z;&c_a;&c_l;&c_p;</trd>,
+    <trd>&c_p;&c_a;&c_l;&c_mol;&c_b;&c_a;</trd>,
+    <trd>&c_s;&c_t;&c_r;&c_a;&c_l;&c_mol;&c_b;&c_a;</trd>,
+    <trd>&c_s;&c_t;&c_r;&c_a;&c_l;&c_ja;&c_n;&c_ib;&c_n;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="ca">
+    <trd>r&agrave;fega</trd>,
+    <trd>tiroteig</trd>,
+    <trd>salva</trd>
+  </trdgrp>
+  <trd lng="cs">salva</trd>
+  <trdgrp lng="de">
+    <trd>Schie&szlig;en</trd>,
+    <trd>Salve</trd>
+  </trdgrp>
+  <trd lng="en">shooting</trd>
+  <trdgrp lng="fr">
+    <trd>fusillade</trd>,
+    <trd>rafale</trd>,
+    <trd>salve<klr tip="ind"> (de tirs)</klr></trd>
+  </trdgrp>
+  <trd lng="he">&yod;&resh;&yod;</trd>
+  <trd lng="hu">l&ouml;v&ouml;ld&ouml;z&eacute;s</trd>
+  <trd lng="id">salvo</trd>
+  <trd lng="nl">salvo</trd>
+  <trd lng="no">salve</trd>
+  <trdgrp lng="pl">
+    <trd>salwa</trd>,
+    <trd>palba</trd>,
+    <trd>kanonada</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_t;&c_r;&c_je;&c_l;&c_mol;&c_b;&c_a;</trd>,
+    <trd>&c_z;&c_a;&c_l;&c_p;</trd>
+  </trdgrp>
+  <trd lng="sk">salva</trd>
+  <trd lng="sv">skutande</trd>
+</drv>
+
+<drv mrk="paf.0ajxo">
+  <kap><tld/>a&jcirc;o</kap>
+  <snc mrk="paf.0ajxo.ARM">
+    <dif>
+      &Ccirc;io ajn, kion oni <tld/>as per <tld/>ilo.
+    </dif>
+    <refgrp tip="sub">
+      <ref cel="kugl.0o">kuglo</ref>,
+      <ref cel="obus.0o">obuso</ref>,
+      <ref cel="sag.0o">sago</ref>,
+      <ref cel="sxton.0o">&scirc;tono</ref>.
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_s;&c_n;&c_a;&c_r;&c_a;&c_d;</trd>
+  <trd lng="ca">projectil</trd>
+  <trd lng="fr">projectile</trd>
+  <trdgrp lng="de">
+    <trd>Gescho&szlig;</trd>,
+    <trd>Projektil</trd>
+  </trdgrp>
+  <trdgrp lng="he">
+    <trd>&qof;&lamed;&yod;&ayin;</trd>,
+    <trd>&tet;&yod;&lamed;</trd>
+  </trdgrp>
+  <trd lng="hu">l&ouml;ved&eacute;k</trd>
+  <trd lng="id">proyektil</trd>
+  <trd lng="nl">projectiel</trd>
+  <trd lng="pl">pocisk</trd>
+  <trd lng="ru">&c_s;&c_n;&c_a;&c_r;&c_ja;&c_d;</trd>
+  <trdgrp lng="sv">
+    <trd>skott</trd>,
+    <trd>projektil</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="paf.0ejo">
+  <kap><tld/>ejo</kap>
+  <snc mrk="paf.0ejo.ARM">
+    <dif>
+      Loko, kie oni sin ekzercas por <tld/>ado.
+    </dif>
+  </snc>
+  <trd lng="be">&c_c;&c_ib;&c_r;</trd>
+  <trdgrp lng="ca">
+    <trd>camp de tir</trd>,
+    <trd>sala de tir</trd>
+  </trdgrp>
+  <trd lng="cs">střelnice</trd>
+  <trd lng="de">Schie&szlig;stand</trd>
+  <trdgrp lng="en">
+    <trd>firing range</trd>,
+    <trd>shooting range</trd>
+  </trdgrp>
+  <trd lng="fr">stand de tir</trd>
+  <trd lng="he">&mem;&tet;&vav;&vav;&het;</trd>
+  <trd lng="hu">l&odblac;t&eacute;r</trd>
+  <trd lng="nl">schietstand</trd>
+  <trd lng="pl">strzelnica</trd>
+  <trd lng="ru">&c_t;&c_i;&c_r;</trd>
+  <trd lng="sk">strelnica</trd>
+  <trdgrp lng="sv">
+    <trd>skjutf&auml;lt</trd>,
+    <trd>skjutbana</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="paf.0igxi">
+  <kap><tld/>i&gcirc;i,
+  <var><kap>sin <tld/>i</kap></var></kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="paf.0igxi.KOMUNE">
+    <dif>
+      &Jcirc;eti&gcirc;i rapidege:
+      <ekz>
+        raketoj <tld/>i&gcirc;as alten;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        li <tld/>is sin for <klr>(subite malaperis)</klr>
+        <fnt><bib>PrV</bib></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="for.0pafigxi">forpafi&gcirc;i, forpafi sin</ref>,
+    </refgrp>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>střelit</trd>,
+    <trd>střílet</trd>,
+    <trd>vystřelit</trd>,
+    <trd>zastřelit</trd>
+  </trdgrp>
+  <trd lng="fr">se <ind>propulser</ind></trd>
+  <trdgrp lng="sk">
+    <trd>streliť</trd>,
+    <trd>vystreliť</trd>,
+    <trd>zastreliť</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="paf.0ilo">
+  <kap><tld/>ilo<fnt>F</fnt></kap>
+  <snc mrk="paf.0ilo.ARM">
+    <dif>
+      &Ccirc;ia ilo por <tld/>i.
+    </dif>
+    <refgrp tip="super">
+      <ref cel="arm.0ilo">armilo</ref>;
+    </refgrp>
+    <refgrp tip="sub">
+      <ref cel="ark.paf0o">pafarko</ref>,
+      <ref cel="jxet.sxton0ilo">&scirc;ton&jcirc;etilo</ref>
+    </refgrp>
+    <trd lng="be">&c_s;&c_t;&c_r;&c_e;&c_l;&c_mol;&c_b;&c_a;</trd>
+    <trd lng="ca">arma</trd>
+    <trd lng="de">Schusswaffe</trd>
+    <trdgrp lng="en">
+      <trd>firearm</trd>,
+      <trd>gun</trd>
+    </trdgrp>
+    <trd lng="fr">arme lance-projectiles</trd>
+    <trd lng="he">&kaf;&lamed;&yod;-&nun;&shin;&qof;</trd>
+    <trd lng="id">pistol</trd>
+    <trd lng="nl">vuurwapen</trd>
+    <trd lng="no">gev&aelig;r</trd>
+    <trd lng="hu">l&odblac;fegyver</trd>
+    <trd lng="ru">&c_s;&c_t;&c_r;&c_je;&c_l;&c_k;&c_o;&c_v;&c_o;&c_je; <ind>&c_o;&c_r;&c_u;&c_zh;&c_i;&c_je;</ind></trd>
+    <trd lng="sv">skjutvapen</trd>
+  </snc>
+  <snc>
+    <uzo tip="stl">KOMUNE</uzo>
+    <ref tip="dif" cel="paf.pulvo0ilo.ARM">pulvo<tld/>ilo</ref>
+    <trd lng="ca">arma de foc</trd>
+    <trd lng="ru">&c_o;&c_g;&c_n;&c_je;&c_s;&c_t;&c_r;&c_je;&c_l;&c_mol;&c_n;&c_o;&c_je;
+      <ind>&c_o;&c_r;&c_u;&c_zh;&c_i;&c_je;</ind></trd>
+  </snc>
+  <snc mrk="paf.0ilo.fusilo">
+    <uzo tip="stl">KOMUNE</uzo>
+    <ref tip="dif" cel="fusil.0o">fusilo</ref>
+    <trd lng="ca">fusell</trd>
+    <trd lng="de">Gewehr</trd>
+    <adm>
+      &Ccirc;i tiu senco ne plu aperas en PIV1. Temas nur pri komuna uzo
+      de la &gcirc;enerala termino "~ilo" anstata&ubreve; la pli preciza
+      "fusilo". Mi tamen ne forigis &gcirc;in tute pro la germana traduko.
+      Mi proponas, ke oni &scirc;ovu la tradukon al alia loko kaj
+      transformu snc 2 kaj 3 al simpla rimarko kun referencoj.
+      <aut>MB</aut>
+    </adm>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>puška</trd>,
+    <trd>střel. zbraň</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>puška</trd>,
+    <trd>strelná zbraň</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="paf.0ilego">
+  <kap><tld/>ilego <fnt>F</fnt></kap>
+  <snc mrk="paf.0ilego.ARM">
+    <uzo tip="fak">MIL</uzo>
+    <dif>
+      Granda <ref tip="super"
+      cel="paf.pulvo0ilo.ARM">pulvo<tld/>ilo</ref>
+      priservata de pluraj soldatoj-artileriistoj:
+      <ekz>
+        por mu&scirc;on mortigi oni <tld/>ilegon ne bezonas
+        <fnt><bib>PrV</bib></fnt>;
+      </ekz>
+      <ekz>
+        ne kunvenis regnestroj, nek ministroj, por &scirc;an&gcirc;i la
+        politikan karton de la mondo, ne brilas luksaj vestoj kaj
+        multego da imponantaj ordenoj en nia salono, ne bruas
+        <tld/>ilegoj &ccirc;irka&ubreve; la modesta domo, en kiu ni
+        trovi&gcirc;as
+        <fnt>
+          <aut>&Z;</aut>,
+          <vrk>La parolado anta&ubreve;
+            la Unua Kongreso Esperantista (Boulogne sur Mer,
+            1905-08-05).</vrk></fnt>.
+      </ekz>
+    </dif>
+    <ref tip="malprt" cel="artile.0o.MIL_armiloj">artilerio</ref>
+    <refgrp tip="sub">
+      <ref cel="bomb.0opafilo">bombopafilo</ref>,
+      <ref cel="hauxbi.0o">ha&ubreve;bizo</ref>,
+      <ref cel="kanon1.0o.pafilo">kanono</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_g;&c_a;&c_r;&c_m;&c_a;&c_t;&c_a;</trd>
+  <trdgrp lng="ca">
+    <trd>can&oacute;</trd>,
+    <trd>llan&ccedil;acoets</trd>
+  </trdgrp>
+  <trd lng="de">Gesch&uuml;tz</trd>
+  <trd lng="en">cannon</trd>
+  <trd lng="fr">canon</trd>
+  <trd lng="hu">l&ouml;veg</trd>
+  <trd lng="id">meriam</trd>
+  <trd lng="nl">kanon</trd>
+  <trd lng="no">kanon</trd>
+  <trdgrp lng="pl">
+    <trd>armata</trd>,
+    <trd>dzia&lstroke;o</trd>
+  </trdgrp>
+  <trd lng="ru">&c_o;&c_r;&c_u;&c_d;&c_i;&c_je; <klr tip="amb">(&c_a;&c_r;&c_t;.)</klr></trd>
+</drv>
+
+<drv mrk="paf.0isto">
+  <kap><tld/>isto</kap>
+  <snc mrk="paf.0isto.KOMUNE">
+    <dif>
+      Sportisto a&ubreve; milisto (precipe infanteriano)
+      kies fako estas cel<tld/>i.
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_s;&c_t;&c_r;&c_a;&c_l;&c_o;&c_k;</trd>,
+      <trd>&c_s;&c_t;&c_r;&c_a;&c_l;&c_je;&c_c;</trd>
+    </trdgrp>
+    <trd lng="ca">tirador</trd>
+    <trdgrp lng="en">
+      <trd>marksman</trd>
+    </trdgrp>
+    <trdgrp lng="he">
+      <trd>&qof;&lamed;&ayin;</trd>,
+      <trd>&tsadi;&lamed;&fpe;</trd>
+    </trdgrp>
+    <trd lng="hu">l&ouml;v&eacute;sz</trd>
+    <trd lng="pl">strzelec</trd>
+    <trd lng="ru">&c_s;&c_t;&c_r;&c_je;&c_l;&c_o;&c_k;</trd>
+  </snc>
+  <trd lng="cs">střelec</trd>
+  <trd lng="sk">strelec</trd>
+</drv>
+
+<drv mrk="paf.P0isto">
+  <kap><tld lit="P"/>isto</kap>  
+  <mlg>Sgr</mlg>
+  <mlg>&#9808;</mlg>
+  <snc mrk="paf.P0isto.AST">
+    <uzo tip="fak">AST</uzo>
+    <dif>
+      <ref tip="lst" cel="stel.0figuro" lst="voko:zodiakaj_signoj"
+      val="9">Stelfiguro</ref> kaj signo de la
+      <ref tip="malprt" cel="zodiak.0o">zodiako</ref>
+      (<trd lng="la">Sagittarius</trd>).
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_S;&c_t;&c_r;&c_a;&c_l;&c_je;&c_c;</trd>,
+    <trd>&c_L;&c_u;&c_ch;&c_n;&c_ib;&c_k;</trd>
+  </trdgrp>
+  <trd lng="ca">sagitari</trd>
+  <trd lng="cs">střelec</trd>
+  <trd lng="de">Sch&uuml;tze</trd>
+  <trdgrp lng="en">
+    <trd>Sagittarius</trd>
+  </trdgrp>
+  <trd lng="es">Sagitario</trd>
+  <trd lng="fr">Sagittaire</trd>
+  <trd lng="he">&mem;&zayin;&lamed; &qof;&shin;&tav;</trd>
+  <trd lng="hu">Nyilas</trd>
+  <trdgrp lng="id">
+    <trd>Danub</trd>,
+    <trd>Kaus</trd>,
+    <trd>Sagitarius</trd>
+  </trdgrp>
+  <trd lng="nl">boogschutter</trd>
+  <trd lng="pl">strzelec</trd>
+  <trd lng="ru">&c_S;&c_t;&c_r;&c_je;&c_l;&c_je;&c_c;</trd>
+  <trd lng="sk">strelec</trd>
+</drv>
+
+<drv mrk="paf.masxin0ilo">
+  <kap>ma&scirc;in<tld/>ilo</kap>
+  <snc mrk="paf.masxin0ilo.ARM">
+    <dif>
+      <ref tip="super" cel="paf.0ilo.ARM"><tld lit="P"/>ilo</ref>
+      &jcirc;etanta rapide kaj a&ubreve;tomate multajn kuglojn.
+    </dif>
+  </snc>
+  <trd lng="be">&c_k;&c_u;&c_l;&c_ja;&c_m;&c_jo;&c_t;</trd>
+  <trd lng="ca">metralladora</trd>
+  <trd lng="de">Maschinengewehr</trd>
+  <trdgrp lng="en">
+    <trd>machine gun</trd>,
+    <trd>automatic rifle</trd>
+  </trdgrp>
+  <trd lng="es">ametralladora</trd>
+  <trdgrp lng="fr">
+    <trd>arme automatique &agrave; rafale</trd>,
+    <trd>pistolet mitrailleur</trd>
+  </trdgrp>
+  <trd lng="he">&mem;&kaf;&vav;&nun;&tav; &yod;&resh;&yod;&yod;&he;</trd>
+  <trd lng="hu">g&eacute;puska</trd>
+  <trd lng="nl">machinegeweer</trd>
+  <trd lng="no">maskingev&aelig;r</trd>
+  <trdgrp lng="pl">
+    <trd>karabin</trd>,
+    <trd>pistolet maszynowy</trd>
+  </trdgrp>
+  <trd lng="ru">&c_p;&c_u;&c_l;&c_je;&c_m;&c_jo;&c_t;</trd>
+  <trd lng="sv">maskingev&auml;r</trd>
+</drv>
+
+<drv mrk="paf.mort0i">
+  <kap>mort<tld/>i</kap>
+  <snc mrk="paf.mort0i.KOMUNE">
+    <ref tip="dif" cel="mort.paf0igi"><tld/>mortigi</ref>
+    <rim>
+      Kvankam &leftquot;mort<tld/>i&rightquot; estas pli mallonga, tamen
+      &leftquot;<tld/>mortigi&rightquot; estas pli kutima kaj preferinda:
+      unue, &ccirc;ar temas pri mortigo per pafo (sed se temas pri
+      neintenca <tld/>o morta, &leftquot;mort<tld/>i&rightquot; povas pli
+      konveni);
+      kaj due, pro la similsencaj vortoj kiel
+      &leftquot;&scirc;tonmortigi&rightquot;.
+      <aut>S. Pokrovskij</aut>
+    </rim>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_z;&c_a;&c_s;&c_t;&c_r;&c_e;&c_l;&c_ib;&c_c;&c_mol;</trd>,
+    <trd>&c_p;&c_a;&c_d;&c_s;&c_t;&c_r;&c_e;&c_l;&c_ib;&c_c;&c_mol;</trd>,
+    <trd>&c_p;&c_r;&c_y;&c_s;&c_t;&c_r;&c_e;&c_l;&c_ib;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="ca">matar <klr>(amb una arma)</klr></trd>
+  <trdgrp lng="cs">
+    <trd>odstřelit</trd>,
+    <trd>zastřelit</trd>
+  </trdgrp>
+  <trd lng="de">totschie&szlig;en</trd>
+  <trd lng="en">shoot to death</trd>
+  <trdgrp lng="fr">
+    <trd>abattre<klr tip="ind"> (tuer qn)</klr></trd>,
+    <trd>fusiller</trd>,
+    <trd>flinguer</trd>
+  </trdgrp>
+  <trd lng="hu">agyonl&odblac;</trd>
+  <trd lng="id">[<ind>tembak</ind>] menembak mati</trd>
+  <trd lng="nl">neerschieten</trd>
+  <trd lng="no">skyte ned</trd>
+  <trd lng="pl">zastrzeli&cacute;</trd>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_r;&c_i;&c_s;&c_t;&c_r;&c_je;&c_l;&c_i;&c_t;&c_mol;</trd>,
+    <trd>&c_z;&c_a;&c_s;&c_t;&c_r;&c_je;&c_l;&c_i;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>odstreliť</trd>,
+    <trd>zastreliť</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="paf.pulvo0ilo">
+  <kap>pulvo<tld/>ilo</kap>
+  <snc mrk="paf.pulvo0ilo.ARM">
+    <dif>
+      <ref tip="super" cel="paf.0ilo.ARM"><tld lit="P"/>ilo</ref>
+      &jcirc;etanta pafa&jcirc;on per eksplodo de <ref
+      cel="pulv.0o">pulvo</ref>.
+    </dif>
+    <trd lng="be">&c_a;&c_g;&c_n;&c_ja;&c_s;&c_t;&c_r;&c_e;&c_l;&c_mol;&c_n;&c_a;&c_ja; <ind>&c_z;&c_b;&c_r;&c_o;&c_ja;</ind></trd>
+    <trd lng="ca">arma de foc</trd>
+    <trd lng="en">firearm</trd>
+    <trd lng="fr">arme &agrave; feu</trd>
+    <trd lng="hu">t&udblac;zfegyver</trd>
+    <trd lng="nl">vuurwapen</trd>
+    <trd lng="ru">&c_o;&c_g;&c_n;&c_je;&c_s;&c_t;&c_r;&c_je;&c_l;&c_mol;&c_n;&c_o;&c_je;
+      <ind>&c_o;&c_r;&c_u;&c_zh;&c_i;&c_je;</ind></trd>
+  </snc>
+  <adm>
+    Indus enkonduki norman manieron nomi amba&ubreve; tipojn de
+    ~ilo en preciza lingva&jcirc;o. PV &scirc;ajne uzas jen
+    "eksplod&jcirc;etilo", jen "pulvo~ilo" por la dua senco, sed mi ne
+    scias,
+    &ccirc;u tio havas bazon en la uzado. "Pulvo~ilo" aspektas pli kohera
+    kaj estas uzata en la difino de aliaj tiaj armiloj, anka&ubreve; en
+    PIV1.
+    Tial mi &gcirc;in elektis. Tamen sub "armi" PIV1 enkondukis
+    "pafarmilo"
+    kun &gcirc;uste tiu senco kaj tio aspektas la mi nek logika (ja "pafi"
+    ne neprigas uzon de pulvo), nek kohera kun la ceteraj artikoloj.
+    <aut>MB</aut>
+  </adm>
+  <trd lng="sk">strelná zbraň</trd>
+  <trd lng="cs">palná zbraň</trd>
+</drv>
+
+<drv mrk="paf.sag0o">
+  <kap>sag<tld/>o</kap>
+  <snc mrk="paf.sag0x.MEZ">
+    <dif>
+      Malformala
+      <ref tip="lst" cel="unu.mezur0o"
+      lst="voko:longoj">mezurunuo</ref>
+      de longo, proksimume egala al 70 metroj:
+      <ekz>
+        dekon da sag<tld/>oj okcidenten
+        <fnt><aut>E. de Zilah</aut>, <vrk>La Princo &ccirc;e la Hunoj</vrk>, 
+        <lok>2011</lok></fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>Pfeilwurf <klr tip="ind">(Entfernung)</klr></trd>,
+      <trd>Steinwurf <klr tip="ind">(Entfernung)</klr></trd>,
+      <trd>Wurfreichweite</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="fr">port&eacute;e de fl&egrave;che</trd>
+</drv>
+
+<drv mrk="paf.sxrot0ilo">
+  <kap>&scirc;rot<tld/>ilo</kap>
+  <snc mrk="paf.sxrot0ilo.ARM">
+    <dif>
+      <ref tip="super" cel="paf.0ilo.ARM"><tld lit="P"/>ilo</ref>
+      <tld/>anta 
+      <ref tip="vid" cel="sxrot.0o.ARM">&scirc;roton</ref>,
+      tio estas metalpecetojn;
+      <ref tip="sin" cel="sxroter.0o.ARM">&scirc;rotero</ref>:
+      <ekz>
+        mi ekkaptis mian &scirc;rot<tld/>ilon
+        <fnt>
+          <aut>M. Twain, trad. R. Williams</aut>,
+          <vrk><url ref="http://sezonoj.ru/2014/05/twain/">
+          La familio McWilliams kaj la kontra&ubreve;&scirc;telista
+          alarmilo</url></vrk>,
+          <lok>La Ondo de Esperanto, 2014:3 (234)</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">fusil de chasse</trd>
+</drv>
+
+<drv mrk="paf.0ilkapo">
+  <kap><tld/>ilkapo</kap>
+  <snc mrk="paf.0ilkapo.kolbo">
+    <uzo tip="stl">ARK</uzo>
+    <ref tip="dif" cel="kolb.0o">kolbo</ref>
+  </snc>
+  <dif>
+  </dif>
+  <trd lng="ca">culata</trd>
+  <trd lng="de">Kolben</trd>
+  <trdgrp lng="hu">
+    <trd>puskatus</trd>,
+    <trd>agy<klr tip="amb"> (pusk&aacute;&eacute;)</klr></trd>
+  </trdgrp>
+  <trd lng="ru">&c_p;&c_r;&c_i;&c_k;&c_l;&c_a;&c_d;</trd>
+  <trd lng="sk">hlaveň <klr>(strelnej zbrane)</klr></trd>
+  <trdgrp lng="cs">
+    <trd>hlaveň</trd>,
+    <trd>lauf <klr>(hovor.)</klr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: paf.xml,v $
+Revision 1.50  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.49  2015/06/29 16:40:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.48  2014/12/25 21:10:13  revo
+Jeromo Vasxe: + ~igxi
+
+Revision 1.47  2014/09/07 12:10:15  revo
+Carlos Garcia: +trd es P-isto masxin-ilo
+
+Revision 1.46  2014/06/09 01:10:19  revo
+Jeromo Vasxe: + sxrot~ilo
+
+Revision 1.45  2014/06/06 15:10:46  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.44  2014/01/07 08:10:12  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.43  2013/12/26 11:10:13  revo
+Wolfram Diestel: sagopafo: trd de
+
+Revision 1.42  2013/10/09 18:10:47  revo
+Jeromo Vasxe: + sag~o
+
+Revision 1.41  2013/09/23 19:10:25  revo
+-->
+</vortaro>

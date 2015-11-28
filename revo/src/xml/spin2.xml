@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: spin2.xml,v 1.14 2015/07/04 08:37:44 revo Exp $">
+<kap>
+  <rad>spin</rad>/o <fnt><bib>SPV</bib></fnt>
+</kap>
+<drv mrk="spin2.0o">
+  <kap><tld/>o</kap>
+  <snc>
+    <uzo tip="fak">FIZ</uzo>
+    <dif>
+      Nombro entjera a&ubreve; entjerplusduona, indikanta la
+      transformadan karakteron de ondokampo.
+    </dif>
+     <trd lng="en">spin</trd>
+     <trd lng="es">esp&iacute;n</trd>
+    <trd lng="hu">spin</trd>
+    <trd lng="ru">&c_s;&c_p;&c_i;&c_n;</trd>
+  </snc>
+  <snc>
+    <uzo tip="fak">FIZ</uzo>
+    <ref tip="dif" cel="spin2.0momanto"><tld lit="S"/>momanto</ref>
+  </snc>
+  <trd lng="be">&c_s;&c_mol;&c_p;&c_ib;&c_n;</trd>
+  <trd lng="ca">spin</trd>
+  <trd lng="cs">páteř</trd>
+  <trd lng="de">Spin</trd>
+  <trd lng="en">spin</trd>
+  <trd lng="hu">spin</trd>
+  <trd lng="pl">spin</trd>
+  <trd lng="ru">&c_s;&c_p;&c_i;&c_n;</trd>
+  <trdgrp lng="sk">
+    <trd>chrbtica</trd>,
+    <trd>chrbtová kosť</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="spin2.0momanto">
+  <kap><tld/>momanto</kap>
+  <snc>
+    <uzo tip="fak">FIZ</uzo>
+    <dif>
+      Momanto de movokvanto interna de elementa korpusklo.
+    </dif>
+  </snc>
+  <snc>
+    <uzo tip="fak">FIZ</uzo>
+    <dif>
+      Magneta momanto de elementa korpusklo, proporcia al la <tld/>a
+      momanto de movokvanto.
+    </dif>
+  </snc>
+  <ref tip="vid" cel="momant.0o">momanto</ref>
+  <trd lng="be">&c_s;&c_mol;&c_p;&c_ib;&c_n;</trd>
+  <trd lng="ca">spin</trd>
+  <trd lng="en">spin</trd>
+  <trd lng="hu">spin</trd>
+  <trd lng="pl">spin</trd>
+  <trd lng="ru">&c_s;&c_p;&c_i;&c_n;</trd>
+  <trd lng="sk">spinový moment</trd>
+  <trd lng="cs">spinový moment <klr>(hybnosti elementárních částic)</klr></trd>
+</drv>
+</art>
+<!--
+$Log: spin2.xml,v $
+Revision 1.14  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.13  2015/06/29 16:33:24  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.12  2012/01/03 15:10:12  revo
+Marc Rausell: +trd ca
+
+Revision 1.11  2010/04/14 06:05:57  revo
+Jose Antonio del Barrio: +trd es
+
+Revision 1.10  2008/05/27 16:30:45  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.9  2004/10/13 16:32:53  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.8  2004/02/24 17:30:51  revo
+Jeromo Vasxe: + fnt spv
+
+Revision 1.7 2002/12/13 17:31:55 revo
+Jozefo Horvath: +trd hu
+
+Revision 1.6 2002/02/23 19:47:21 revo
+Yury Finkel: formatigis, iomete rearanghis
+
+Revision 1.5 2001/03/12 17:14:06 revo
+-->
+</vortaro>

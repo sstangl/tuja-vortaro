@@ -1,0 +1,107 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: kapaci.xml,v 1.20 2015/09/22 10:10:23 revo Exp $">
+<kap>
+  <rad>kapacit</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="kapaci.0o">
+  <kap>
+    <tld/>o
+  </kap>
+  <snc mrk="kapaci.0o.enhaveco">
+    <uzo tip="fak">SCI</uzo>
+    <uzo tip="fak">FIZ</uzo>
+    <dif>
+      Gasa, likva a&ubreve; solida materiokvanto, kiun povas enteni ujo:
+      <ekz>
+        <tld/>o de vazo.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="hav.en0eco">enhaveco</ref>
+    <trd lng="en">capacity</trd>
+    <trd lng="ca">capacitat</trd>
+    <trdgrp lng="fr">
+      <trd>contenance</trd>,
+      <trd>capacit&eacute;<klr tip="ind"> (contenance)</klr></trd>
+    </trdgrp>
+    <trd lng="es">capacidad <klr tip="ind">(volumen)</klr></trd>
+    <trdgrp lng="hu">
+      <trd>befogad&oacute;k&eacute;pess&eacute;g</trd>,
+      <trd>&udblac;rtartalom</trd>
+    </trdgrp>
+    <trdgrp lng="nl">
+      <trd>capaciteit</trd>,
+      <trd>inhoud</trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>obj&eogonek;to&sacute;&cacute;</trd>,
+      <trd>pojemno&sacute;&cacute;</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_jo;&c_m;&c_k;&c_o;&c_s;&c_t;&c_mol;</trd>,
+      <trd>&c_v;&c_m;&c_je;&c_s;&c_t;&c_i;&c_m;&c_o;&c_s;&c_t;&c_mol;
+      </trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="kapaci.0o.akumulatoro">
+    <uzo tip="fak">ELE</uzo>
+    <dif>
+      <klr>(de <ref cel="akumul1.0o">akumulatoro</ref>)</klr>
+      Plej granda <ref cel="sxarg.0o.grando">&scirc;argo</ref>, kiun
+      &gcirc;i povas enteni.
+    </dif>
+    <trdgrp lng="en"><trd>capacity</trd>,
+    <trd>capacitance</trd></trdgrp>
+    <trd lng="ca">capacitat</trd>
+    <trd lng="fr">capacit&eacute;<klr tip="ind"> (d'un accu)</klr></trd>
+    <trd lng="hu">kapacit&aacute;s<klr tip="ind">
+    (akkumul&aacute;tor&eacute;)</klr></trd>
+    <trd lng="nl">vermogen</trd>
+    <trd lng="pl">pojemno&sacute;&cacute;</trd>
+    <trd lng="ru">&c_jo;&c_m;&c_k;&c_o;&c_s;&c_t;&c_mol;</trd>
+  </snc>
+  <snc mrk="kapaci.0o.kapacitanco">
+    <uzo tip="fak">ELE</uzo>
+    <fnt><bib>ScTerm</bib><lok>p. 34</lok></fnt>
+    <fnt><bib>PV</bib></fnt>
+    <uzo tip="stl">ARK</uzo>
+    <ref tip="dif" cel="kapaci1.0o">kapacitanco</ref>
+    <trd lng="en">capacitance</trd>
+    <trd lng="ca">capacit&agrave;ncia</trd>
+    <trd lng="es">capacitancia</trd>
+    <trd lng="nl">capaciteit<klr tip="ind"> (arch.)</klr></trd>
+    <trd lng="pl">pojemno&sacute;&cacute;</trd>
+    <trd lng="ru">&c_jo;&c_m;&c_k;&c_o;&c_s;&c_t;&c_mol;</trd>
+  </snc>
+  <trd lng="be">&c_jo;&c_m;&c_ib;&c_s;&c_t;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+  <trd lng="de">Kapazit&auml;t</trd>
+</drv>
+</art>
+<!--
+$Log: kapaci.xml,v $
+Revision 1.20  2015/09/22 10:10:23  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.19  2015/09/16 15:10:23  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.18  2015/09/16 14:10:16  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.17  2012/08/10 14:11:53  revo
+Marc Rausell: + trd ca
+
+Revision 1.16  2010/10/18 16:30:33  revo
+Jeromo Vasxe: aux -> u hoko
+
+Revision 1.15  2009/08/23 16:33:41  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.14  2008/03/31 17:53:09  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.13  2005/05/02 16:31:15  revo
+-->
+</vortaro>

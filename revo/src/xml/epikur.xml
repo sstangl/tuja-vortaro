@@ -1,0 +1,168 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: epikur.xml,v 1.18 2015/07/04 08:37:33 revo Exp $">
+<kap>
+  <rad>Epikur</rad>/o<fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="epikur.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="epikur.0o.PERS">
+    <uzo tip="fak">PERS</uzo>
+    <dif>
+      Greklingve:
+      <trd
+      lng="grc">&Epsilon_densa;&pi;&jota_acute;&kappa;&omikron;&ypsilon;&rho;&omikron;&sigma_fina;</trd>,
+      341-270 a.K., greka filozofo.
+    </dif>
+  </snc>
+  <trd lng="be">&c_E;&c_p;&c_ib;&c_k;&c_u;&c_r;</trd>
+  <trd lng="cs">Epikuros</trd>
+  <trd lng="de">Epikur</trd>
+  <trd lng="en">Epicure</trd>
+  <trd lng="fr">&Eacute;picure</trd>
+  <trd lng="hu">Epikurosz</trd>
+  <trd lng="nl">Epicurus</trd>
+  <trd lng="pl">Epikur</trd>
+  <trd lng="pt">Epicuro</trd>
+  <trd lng="ru">&c_E;&c_p;&c_i;&c_k;&c_u;&c_r;</trd>
+  <trd lng="sk">Epikúros</trd>
+</drv>
+
+<drv mrk="epikur.e0a">
+  <kap><tld lit="e"/>a</kap>
+  <snc mrk="epikur.e0a.FIL">
+    <dif>
+      Rilatanta la doktrinon de <tld/>o.
+    </dif>
+  </snc>
+  <trd
+  lng="be">&c_e;&c_p;&c_ib;&c_k;&c_u;&c_r;&c_e;&c_j;&c_s;&c_k;&c_ib;</trd>
+  <trd lng="de">epikureisch</trd>
+  <trd lng="en">epicurean</trd>
+  <trd lng="fr">&eacute;picurien<klr tip="ind"> (adj.)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>epikureus</trd>,
+    <trd>epikuroszi</trd>
+  </trdgrp>
+  <trd lng="nl">epicurisch</trd>
+  <trd lng="pl">epikurejski</trd>
+  <trd lng="pt">de <ind>Epicuro</ind></trd>
+  <trd
+  lng="ru">&c_e;&c_p;&c_i;&c_k;&c_u;&c_r;&c_je;&c_j;&c_s;&c_k;&c_i;&c_j;</trd>
+</drv>
+
+<drv mrk="epikur.e0ano">
+  <kap><tld lit="e"/>ano</kap>
+  <snc mrk="epikur.e0ano.FIL">
+    <dif>
+      Adepto de <tld lit="e"/>ismo.
+    </dif>
+  </snc>
+  <snc mrk="epikur.e0ano.KOMUNE">
+    <dif>
+      &Scirc;atanto de plezuroj, de facila vivo:
+      <ekz>
+        malseveraj viza&gcirc;oj de <tld/>anoj,
+        viza&gcirc;oj gajaj kaj viglaj
+        <fnt>
+          <aut>Uladzimir Arlo&ubreve;, trad. Z. Lapcionak</aut>,
+          <vrk><url ref="http://zmila.at.tut.by/Pesto/1521.html">
+          Tempo de Pesto</url></vrk>,
+          <lok>2005</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="hedonist.0o.FIL">hedonisto</ref>,
+      <ref cel="sibari.0o.MOR">sibarito</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_e;&c_p;&c_ib;&c_k;&c_u;&c_r;&c_e;&c_je;&c_c;</trd>
+  <trd lng="de">Epikureer</trd>
+  <trdgrp lng="en">
+    <trd>epicure</trd>,
+    <trd>epicurean</trd>
+  </trdgrp>
+  <trd lng="fr">&eacute;picurien<klr tip="ind"> (subst.)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>epikureus</trd>,
+    <trd>epikureista</trd>
+  </trdgrp>
+  <trd lng="pl">epikurejczyk</trd>
+  <trd lng="pt">epicurista</trd>
+  <trd lng="ru">&c_e;&c_p;&c_i;&c_k;&c_u;&c_r;&c_je;&c_je;&c_c;</trd>
+</drv>
+
+<drv mrk="epikur.e0ismo">
+  <kap><tld lit="e"/>ismo</kap>
+  <snc mrk="epikur.e0ismo.FIL">
+    <uzo tip="fak">FIL</uzo>
+    <dif>
+      Doktrino de <tld/>o, ke feli&ccirc;o konsistas en sendezireco.
+    </dif>
+    <trd lng="de">Epikurismus</trd>
+    <trd lng="en">Epicureanism</trd>
+    <trd lng="pl">epikureizm</trd>
+  </snc>
+  <snc mrk="epikur.e0ismo.KOMUNE">
+    <dif>
+      Doktrino false atribuita al <tld/>o, ke la feli&ccirc;o estas
+      &gcirc;ui la voluptojn de la vivo; &scirc;atado de nuraj korpaj &gcirc;uoj.
+    </dif>
+    <trdgrp lng="de">
+       <trd>Epikurismus</trd>,
+       <trd>Genusssucht</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>epicureanism</trd>,
+      <trd>epicurism</trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_e;&c_p;&c_ib;&c_k;&c_u;&c_r;&c_e;&c_ib;&c_z;&c_m;</trd>, 
+    <trd>&c_e;&c_p;&c_ib;&c_k;&c_u;&c_r;&c_e;&c_j;&c_s;&c_t;&c_v;&c_a;</trd>
+  </trdgrp>
+  <trd lng="fr">&eacute;picurisme</trd>
+  <trd lng="hu">epikureizmus</trd>
+  <trd lng="nl">epicurisme</trd>
+  <trd lng="pt">epicurismo</trd>
+  <trdgrp lng="ru">
+    <trd>&c_e;&c_p;&c_i;&c_k;&c_u;&c_r;&c_je;&c_i;&c_z;&c_m;</trd>,
+    <trd>&c_e;&c_p;&c_i;&c_k;&c_u;&c_r;&c_je;&c_j;&c_s;&c_t;&c_v;&c_o;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: epikur.xml,v $
+Revision 1.18  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.16  2012/09/18 14:10:11  revo
+Jeromo Vasxe: ~ano 2 snc kiel ~ismo
+
+Revision 1.15  2010/02/05 17:30:46  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.14  2009/06/01 16:31:41  revo
+Russ Williams: +trd en
+
+Revision 1.13  2007/06/28 16:32:55  revo
+Tulio Flores: +tr pt
+
+Revision 1.12  2004/10/17 16:31:03  revo
+Wolfram Diestel: kor. germ trd
+
+Revision 1.11  2003/10/15 16:30:39  revo
+Zmicier Lapcionak: + trd be
+
+Revision 1.10  2003/08/21 16:30:58  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.9  2002/06/22 13:00:57  revo
+-->
+</vortaro>

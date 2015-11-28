@@ -1,0 +1,263 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: harmon2.xml,v 1.28 2015/07/04 08:37:35 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>harmonik</rad>/o
+</kap>
+<drv mrk="harmon2.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">MUZ</uzo>
+  <snc mrk="harmon2.0o.SCI">
+    <dif>
+      <ref tip="lst" cel="scienc.0o.fako"
+      lst="voko:sciencoj">Scienco</ref> pri la
+      harmonio.
+    </dif>
+    <adm>
+      Tiu senco mankas en PIV1. Gxin anstatauxas "~scienco".
+      <aut>MB</aut>
+    </adm>                            
+    <trd lng="br">klotadouriezh</trd>
+    <trd lng="ca">harmonia</trd>
+    <trd lng="de">Harmonielehre</trd>
+    <trd lng="en">harmonics</trd>
+    <trd lng="es">armon&iacute;a</trd>
+    <trd lng="fr">harmonie<klr tip="ind"> (science musicale)</klr></trd>
+    <trd lng="hu">&ouml;sszhangzattan</trd>
+    <trd lng="it">armonia<klr tip="amb"> (teoria musicale)</klr></trd>
+    <trd lng="nl">harmonie</trd>
+    <trd lng="pl">harmonika</trd>
+    <trd lng="pt">harmonia<klr tip="amb"> (ci&ecirc;ncia)</klr></trd>
+    <trd lng="ru">&c_g;&c_a;&c_r;&c_m;&c_o;&c_n;&c_i;&c_k;&c_a;</trd>
+  </snc>
+  <snc mrk="harmon2.0o.muzikilo">
+    <ref tip="dif" cel="harmon2.busx0o">bu&scirc;<tld/>o.</ref>
+    <trdgrp lng="en">
+      <trd>harmonica</trd>,
+      <trd><klr>(mouth) </klr>harp</trd>
+    </trdgrp>        
+    <trd lng="br">harmonika</trd>
+    <trd lng="ca">harm&ograve;nica</trd>
+    <trd lng="es">harm&oacute;nica</trd>
+    <trd lng="fr">harmonica</trd>
+    <trd lng="hu">harmonika</trd>
+    <trd lng="id">harmonika</trd>
+    <trd lng="it">armonica<klr> (sost.)</klr></trd>
+    <trd lng="pl">harminijka<klr> ustna</klr></trd>
+    <trdgrp lng="pt">
+     <trd>gaita<klr tip="amb"> (de boca)</klr></trd>, 
+     <trd>harm&ocirc;nica<klr tip="amb"> (de boca)</klr></trd> 
+    </trdgrp>
+    <trd lng="ru">&c_g;&c_u;&c_b;&c_n;&c_a;&c_ja;
+    <ind>&c_g;&c_a;&c_r;&c_m;&c_o;&c_n;&c_i;&c_k;&c_a;</ind></trd>
+  </snc>
+  <snc mrk="harmon2.0o.akordiono">
+    <ref tip="dif" cel="akordi.0o">akordiono.</ref>  
+    <trd lng="br">akordeon</trd>
+    <trd lng="ca">acordi&oacute;</trd>
+    <trd lng="en">accordion</trd>
+    <trd lng="es">acorde&oacute;n</trd>
+    <trd lng="hu">tang&oacute;harmonika</trd>
+    <trd lng="id">akordeon</trd>
+    <trd lng="it">fisarmonica</trd>
+    <trd lng="nl">harmonica</trd>
+    <trd lng="pl">harmonia</trd>
+    <trdgrp lng="pt">
+     <trd>concertina</trd>, 
+     <trd>acorde&atilde;o</trd>,
+     <trd>cordeona</trd>, 
+     <trd>sanfona</trd>, 
+     <trd>gaita<klr tip="amb"> (concertina)</klr></trd>, 
+     <trd>harm&ocirc;nica<klr tip="amb"> (concertina)</klr></trd> 
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_g;&c_a;&c_r;&c_m;&c_o;&c_n;&c_mol;</trd>,
+      <trd>&c_b;&c_a;&c_ja;&c_n;</trd>,
+      <trd>&c_a;&c_k;&c_k;&c_o;&c_r;&c_d;&c_je;&c_o;&c_n;</trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>harmonika</trd>,
+    <trd>nauka o harmonii</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>harmonika</trd>,
+    <trd>náuka o harmónii</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="harmon2.blov0o">
+  <kap>blov<tld/>o</kap>
+  <uzo tip="fak">MUZ</uzo>
+  <snc>
+    <ref tip="dif" cel="harmon2.busx0o">bu&scirc;harmoniko.</ref>
+    <trdgrp lng="en">
+      <trd>harmonica</trd>,
+      <trd><klr>(mouth) </klr>harp</trd>
+    </trdgrp>    
+    <trd lng="br">harmonika</trd>
+    <trd lng="ca">harm&ograve;nica</trd>
+    <trd lng="es">herm&oacute;nica</trd>
+    <trd lng="fr">harmonica</trd>
+    <trd lng="hu">sz&aacute;jharmonika</trd>
+    <trd lng="id">harmonika</trd>
+    <trd lng="it">armonica<klr> a bocca</klr></trd>
+    <trd lng="nl">mondharmonica</trd>
+    <trd lng="pl">harmonijka<klr> ustna</klr></trd>
+    <trdgrp lng="pt">
+     <trd>gaita<klr tip="amb"> (de boca)</klr></trd>,
+     <trd>harm&ocirc;nica<klr tip="amb"> (de boca)</klr></trd> 
+    </trdgrp>
+    <trd lng="ru">&c_g;&c_u;&c_b;&c_n;&c_a;&c_ja;
+    <ind>&c_g;&c_a;&c_r;&c_m;&c_o;&c_n;&c_i;&c_k;&c_a;</ind></trd>
+  </snc>
+  <trd lng="cs">foukací harmonika</trd>
+  <trd lng="sk">fúkacia harmonika</trd>
+</drv>
+
+<drv mrk="harmon2.busx0o">
+  <kap>bu&scirc;<tld/>o</kap>
+  <uzo tip="fak">MUZ</uzo>
+  <snc>
+    <dif>
+      <ref tip="lst"
+      cel="instru2.blov0o"
+      lst="voko:blovinstrumentoj">Blovinstrumento</ref>,
+      konsistanta el vico da truoj garnitaj per vibrantaj
+      lamenetoj, tra kiu oni blovas.
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="harmon2.0o.muzikilo"><tld/>o
+      <sncref ref="harmon2.0o.muzikilo"/></ref>,
+      <ref cel="harmon2.blov0o">blov<tld/>o</ref>.
+    </refgrp>
+  </snc>        
+  <trd lng="br">harmonika</trd>
+  <trd lng="ca">harm&ograve;nica</trd>
+  <trd lng="de">Mundharmonika</trd> 
+  <trdgrp lng="en">
+     <trd>harmonica</trd>,
+     <trd><klr>(mouth) </klr>harp</trd>
+  </trdgrp>
+  <trd lng="es">harm&oacute;nica</trd>
+  <trd lng="fr">harmonica</trd>
+  <trd lng="hu">sz&aacute;jharmonika</trd>
+  <trd lng="id">harmonika</trd>
+  <trd lng="it">armonica<klr> a bocca</klr></trd>
+  <trd lng="nl">mondharmonica</trd>
+  <trd lng="pl">harmonijka<klr> ustna</klr></trd>
+  <trdgrp lng="pt">
+   <trd>gaita<klr tip="amb"> (de boca)</klr></trd>,
+   <trd>harm&ocirc;nica<klr tip="amb"> (de boca)</klr></trd> 
+  </trdgrp>
+  <trd lng="ru">&c_g;&c_u;&c_b;&c_n;&c_a;&c_ja;
+  <ind>&c_g;&c_a;&c_r;&c_m;&c_o;&c_n;&c_i;&c_k;&c_a;</ind></trd>
+</drv>
+
+<drv mrk="harmon2.frap0o">
+  <kap>frap<tld/>o</kap>
+  <uzo tip="fak">MUZ</uzo>
+  <snc>
+    <dif>
+      <ref tip="super" cel="instru2.frap0o">Frapinstrumento</ref>,
+      konsistanta el vico da metalaj a&ubreve; lignaj lamenoj, sur kiujn
+      oni frapas.
+    </dif>
+  </snc>
+  <adm>
+  La "difino", kiun eblas cxerpi en PV, estas misvojiga, cxar
+  gxi parolas pri "klavaro". Entute mi ne scias, cxu la termino
+  havas utilon: sxajnas, ke la nuraj muzikiloj de tiu speco
+  estas ksilofono kaj "metalofono" (ne-PIVa). <aut>MB</aut>
+  </adm>             
+  <trd lng="br">zilofon</trd>
+  <trdgrp lng="ca">
+    <trd>xil&ograve;fon</trd>,
+    <trd>metal&middot;l&ograve;fon</trd>
+  </trdgrp>
+  <trd lng="fr">xylophone</trd>
+  <trd lng="id">xilofon</trd>
+  <trd lng="it">xilofono</trd>
+  <trd lng="pt">xilofone</trd>
+  <trd lng="ru">&c_k;&c_s;&c_i;&c_l;&c_o;&c_f;&c_o;&c_n;</trd>
+  <trd lng="sk">marimba</trd>
+  <trd lng="cs">marimba</trd>
+</drv>
+
+<drv mrk="harmon2.tir0o">
+  <kap>tir<tld/>o</kap>
+  <uzo tip="fak">MUZ</uzo>
+  <snc>
+    <ref tip="dif" cel="akordi.0o">akordiono.</ref>
+  </snc>
+  <trd lng="br">akordeon</trd>
+  <trd lng="ca">acordi&oacute;</trd>
+  <trd lng="cs">tahací harmonika</trd>
+  <trd lng="en">accordion</trd>
+  <trd lng="es">acorde&oacute;n</trd>
+  <trd lng="fr">accord&eacute;on</trd>
+  <trdgrp lng="hu">
+    <trd>tang&oacute;harmonika</trd>,
+    <trd>akordeon</trd>
+  </trdgrp>
+  <trd lng="id">akordeon</trd>
+  <trd lng="it">fisarmonica</trd>
+  <trd lng="nl">trekharmonica</trd>
+  <trdgrp lng="pl">
+    <trd>harmonia</trd>,
+    <trd>akordeon</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+   <trd>concertina</trd>, 
+   <trd>acorde&atilde;o</trd>,
+   <trd>cordeona</trd>, 
+   <trd>sanfona</trd>, 
+   <trd>gaita<klr tip="amb"> (concertina)</klr></trd>, 
+   <trd>harm&ocirc;nica<klr tip="amb"> (concertina)</klr></trd> 
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_g;&c_a;&c_r;&c_m;&c_o;&c_n;&c_mol;</trd>,
+    <trd>&c_a;&c_k;&c_k;&c_o;&c_r;&c_d;&c_je;&c_o;&c_n;</trd>,
+    <trd>&c_b;&c_a;&c_ja;&c_n;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>akordeón</trd>,
+    <trd>ťahacia harmonika</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: harmon2.xml,v $
+Revision 1.28  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.27  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.26  2014/10/26 02:10:24  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.25  2013/09/22 19:10:49  revo
+Wolfram Diestel: astro~o: referenco al listo sciencoj
+
+Revision 1.24  2013/09/08 18:10:34  revo
+Wolfram Diestel: ref al listo blovinstrumentoj
+
+Revision 1.23  2012/01/22 14:10:09  revo
+Marc Rausell: +trd ca
+
+Revision 1.22  2009/09/01 04:53:49  revo
+Antonio Codazzi: +trd it
+
+Revision 1.21  2009/04/02 16:30:46  revo
+Sebastian Cyprych: kor trd pl
+
+Revision 1.20  2008/04/22 17:50:03  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.19  2005/10/14 18:03:49  revo
+-->
+</vortaro>

@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: guru.xml,v 1.11 2015/07/04 08:37:35 revo Exp $">
+<kap>
+  <rad>guru</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+
+<drv mrk="guru.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="guru.0o.HIN">
+    <uzo tip="fak">REL</uzo>
+    <dif>
+      <ref tip="super" cel="majstr.0o.rabeno">Majstro</ref>, instruanto
+      kaj gvidanto precipe en la hindua religio:
+      <ekz>
+        la <tld lit="G"/>o, alta, bela viro, havis longan nigran hararon
+        <fnt>
+          <aut>S. Zaft</aut>,
+          <vrk>sengurue en Usono</vrk>,
+          <lok><url
+          ref="http://www.geocities.com/Athens/Acropolis/5541/ESKA97L3.htm">Esperanto
+          sub la Suda Kruco, 1997-01 02, (25)</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="lama.0o.BUD">lamao</ref>
+    </refgrp>
+  </snc>
+  <snc mrk="guru.0o.FIG">
+    <uzo tip="klr">(ofte ironie)</uzo>
+    <dif>
+      Homo tre a&ubreve; e&ccirc; tro volonte fidata pri grandaj kompetentoj en iu
+      fako:
+      <ekz>
+        usona <tld/>o pri komputila sekureco
+        <fnt>
+        <aut>M. Pancorbo</aut>,
+        <vrk>Nova norma &ccirc;ifralgoritmo...</vrk>
+        <lok>soc.culture.esperanto, 2000-10-05</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="bg">&c_g;&c_u;&c_r;&c_u;</trd>
+  <trd lng="ca">guru</trd>
+  <trd lng="cs">guru</trd>
+  <trd lng="de">Guru</trd>
+  <trd lng="en">guru</trd>
+  <trd lng="es">gur&uacute;</trd>
+  <trd lng="fr">gourou</trd>
+  <trd lng="pt">guru</trd>
+  <trd lng="sk">guru</trd>
+</drv>
+</art>
+
+<!--
+$Log: guru.xml,v $
+Revision 1.11  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.10  2015/06/29 16:29:39  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.9  2012/08/19 09:10:32  revo
+Marc Rausell: + trd ca
+
+Revision 1.8  2010/09/23 16:30:25  revo
+Jeromo Vasxe: kor. 1 ref
+
+Revision 1.7  2010/03/03 17:31:30  revo
+Russ Williams: +trd en
+
+Revision 1.6  2010/02/21 17:30:36  revo
+Wieland Pusch: +trd bg
+
+Revision 1.5  2010/02/20 18:02:15  revo
+Carlos Garcia: +trd "es"
+
+Revision 1.4  2007/07/03 16:30:31  revo
+Wieland Pusch: +trd de
+
+Revision 1.3  2007/05/12 16:30:35  revo
+Tulio Flores: +tr pt
+
+Revision 1.2  2006/01/20 17:31:09  revo
+-->
+</vortaro>

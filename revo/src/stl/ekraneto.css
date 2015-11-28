@@ -1,0 +1,88 @@
+/* HTML-elementoj */
+
+DD {text-align: justify}
+
+/*A {text-decoration: none}*/
+A:link {color: blue}
+A:visited {color: blue}
+A:hover {color: red; background-color: #d5d5a5}
+SUP {font-size: smaller}
+
+/* ekzemploj */
+.ekz {color: #303030}
+.rimekz {font-style: italic}
+A.ekz:link {text-decoration: underline; color: #303030}
+A.ekz:visited {text-decoration: underline; color: #303030}
+A.ekz:active {text-decoration: underline; color: silver}
+
+/* difinoj */
+.drvdif {color: black}
+.sncgrpdif {color: black}
+.dif {color: black}
+A.dif:link {text-decoration: underline; color: black}
+A.dif:visited {text-decoration: underline; color: black}
+A.dif:active {text-decoration: underline; color: gray}
+
+/* rimarkoj */
+.rim {color: #000060}
+A.rim:link {text-decoration: underline; color: #000060}
+A.rim:visited {text-decoration: underline; color: #000060}
+A.rim:active {text-decoration: underline; color: blue}
+
+/* referencoj */
+.ref {color: #600000}
+A.ref:link {text-decoration: underline; color: #600000}
+A.ref:visited {text-decoration: underline; color: #600000}
+A.ref:active {text-decoration: underline; color: red}
+
+/* bildoj */
+A.bld:link {text-decoration: underline; color: black}
+A.bld:visited {text-decoration: underline; color: black}
+A.bld:active {text-decoration: underline; color: gray}
+
+/* klarigo */
+.klr {font-style: normal}
+A.klr:link {text-decoration: underline; color: #775533}
+A.klr:visited {text-decoration: underline; color: #775533}
+A.klr:active {text-decoration: underline; color: #775533}
+
+/*tradukoj*/
+.trd_ref {color: #666666}
+p.trd_ref {text-align: right}
+A.trd_ref:link {text-decoration: underline; color: #666666}
+A.trd_ref:visited {text-decoration: underline; color: #666666}
+A.trd_ref:active {text-decoration: underline; color: black}
+.trd {color: #104040}
+.rimtrd {font-style: italic}
+.diftrd {font-style: italic}
+.trdeo {color: black; font-weight: bold}
+.trdnac {color: #104040}
+A.trdeo:link {text-decoration: underline; font-weight: bold; color: black}
+A.trdeo:visited {text-decoration: underline; font-weight: bold; color:
+black}
+A.trdeo:active {text-decoration: underline; font-weight: bold; color: gray}
+
+/* fontindikoj en la teksto */
+.fnt {font-style: normal}
+A.fnt:link {text-decoration: underline; color: #303030}
+A.fnt:visited {text-decoration: underline; color: #303030}
+A.fnt:active {text-decoration: underline; color: green}
+sup.ofc { margin-right: 0.7ex; }
+
+/* fontindikaj piednotoj */
+.fontoj {color: 303030; font-size: small}
+
+/* tildoj en ekzemploj */
+.ekztld {}
+
+/* redaktolinio malsupre de la artikolo */
+.redakto {color: #104040}
+A.redakto:link {text-decoration: underline; color: black}
+A.redakto:visited {text-decoration: underline; color: black}
+A.redakto:active {text-decoration: underline; color: gray}
+
+.flago {  border-color: #CCCCCC; border-width: 1px;  border-style: outset}
+IMG.bld {  border-color: #cccccc; border-width: 2px; border-style: outset} 
+
+/* formuloj */
+.frm { font-style: normal }

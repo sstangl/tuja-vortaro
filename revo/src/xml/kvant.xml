@@ -1,0 +1,249 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: kvant.xml,v 1.25 2015/07/04 08:37:38 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>kvant</rad>/o
+</kap>
+
+<drv mrk="kvant.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc>
+    <dif>
+      Eco de tio, kio estas mezurebla a&ubreve; nombrebla.
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="kvalit.0o">kvalito</ref>.
+    </refgrp>
+    <trdgrp lng="de">
+      <trd>Menge</trd>,
+      <trd>Quantit&auml;t</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>mennyis&eacute;g</trd>,
+      <trd>kvantit&aacute;s</trd>
+    </trdgrp>
+  </snc>
+  <snc>
+    <dif>
+      Pli malpli granda nombro da objektoj a&ubreve; personoj; kiomo:
+      <ekz>
+        kian <tld/>on da greno produktis la hektaro?
+      </ekz>
+      <ekz>
+        pago de &scirc;uldanto estas bona en &ccirc;iu
+        <tld/>o<fnt> <bib>PrV</bib></fnt>;
+      </ekz>
+      <ekz>
+        <tld/>o da libera tempo<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        <ind>glut<tld/>o</ind>.
+        <trd lng="nl">slok</trd>
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>Menge</trd>,
+      <trd>Anzahl</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>mennyis&eacute;g</trd>,
+      <trd>sz&aacute;m</trd>
+    </trdgrp>
+  </snc>
+  <adm>
+    La&ubreve; mi necesas precizig la difinojn:
+    1) oni aplikas la nocion "kvanto" la&ubreve; mi al korpaj substancoj nur,
+    tiel oni ne diras ordinare "kvanto" da jaroj, da horoj, da mejloj, 
+    sed "nombro" da...
+    2) La ekzemplo pri greno apartenas al senco 1, &ccirc;ar &gcirc;uste estas
+    tiom, ke oni ne plu povas nombri, sed nur mezuri ekz. la pezon.
+    A&ubreve; oni precizigu la difinon: "...tiom multe ke estas malfacile
+    nombri, uzante alian mezuron kiel maso, pezo, volumeno..."
+    <aut>WD</aut>
+  </adm>
+  <trd
+  lng="be">&c_k;&c_o;&c_l;&c_mol;&c_k;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+  <trdgrp lng="en">
+    <trd>quantity</trd>,
+    <trd>amount</trd>
+  </trdgrp>
+  <trd lng="es">cantidad</trd>
+  <trd lng="fr">quantit&eacute;</trd>
+  <trd lng="it">quantit&agrave;</trd>
+  <trd lng="nl">hoeveelheid</trd>
+  <trdgrp lng="pl">
+    <trd>ilo&sacute;&cacute;</trd>,
+    <trd>liczba</trd>,
+    <trd>liczno&sacute;&cacute;</trd>
+  </trdgrp>
+  <trd lng="pt">quantidade</trd>
+  <trd
+  lng="ru">&c_k;&c_o;&c_l;&c_i;&c_ch;&c_je;&c_s;&c_t;&c_v;&c_o;</trd>
+  <trd lng="tp">mute</trd>
+  <trdgrp lng="sk">
+    <trd>miera</trd>,
+    <trd>podiel</trd>,
+    <trd>pomer</trd>,
+    <trd>stupeň</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>frekvence</trd>,
+    <trd>míra</trd>,
+    <trd>podíl</trd>,
+    <trd>poměr</trd>,
+    <trd>rychlost</trd>,
+    <trd>stupeň</trd>,
+    <trd>četnost</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kvant.0eca">
+  <kap><tld/>eca</kap>
+  <snc>
+    <dif>
+      Rilata al <tld/>o:
+      <ekz>
+        <tld/>eca diferenco
+        <klr>(kontraste al kvalita)</klr>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_k;&c_o;&c_l;&c_mol;&c_k;&c_a;&c_s;&c_n;&c_y;</trd>
+  <trdgrp lng="cs">
+    <trd>kvantitativní</trd>,
+    <trd>množstevní</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>mengenm&auml;&szlig;ig</trd>,
+    <trd>quantitativ</trd>
+  </trdgrp>
+  <trd lng="en">quantitative</trd>
+  <trd lng="fr">quantitatif</trd>
+  <trdgrp lng="hu">
+    <trd>mennyis&eacute;gi</trd>,
+    <trd>kvantitat&iacute;v</trd>
+  </trdgrp>
+  <trd lng="it">quantitativo<klr tip="ind"> (agg.)</klr></trd>
+  <trd lng="nl">kwantitatief</trd>
+  <trdgrp lng="pl">
+    <trd>ilo&sacute;ciowy</trd>,
+    <trd>liczno&sacute;ciowy</trd>
+  </trdgrp>
+  <trd
+  lng="ru">&c_k;&c_o;&c_l;&c_i;&c_ch;&c_je;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>kvantitatívny</trd>,
+    <trd>množstevný</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kvant.mez0o">
+  <kap>mez<tld/>o</kap>
+  <fnt><bib>PV</bib></fnt>
+  <snc>
+    <ref tip="dif" cel="nombr.mez0o">meznombro.</ref>
+  </snc>
+  <trd lng="be">&c_s;&c_ja;&c_r;&c_e;&c_d;&c_n;&c_ib;
+  &c_l;&c_ib;&c_k;</trd>
+  <trd lng="cs">průměrné množství</trd>
+  <trdgrp lng="de">
+    <trd>Mittelwert</trd>,
+    <trd>Durchschnitt</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>medium<klr tip="amb"> quantity</klr></trd>,
+    <trd>medium<klr tip="amb"> amount</klr></trd>
+  </trdgrp>
+  <trd lng="fr">moyenne</trd>
+  <trdgrp lng="hu">
+    <trd>k&ouml;z&eacute;p&eacute;rt&eacute;k</trd>,
+    <trd>&aacute;tlag</trd>
+  </trdgrp>
+  <trd lng="it">media<klr tip="ind"> (sost.)</klr></trd>
+  <trd lng="nl">gemiddelde</trd>
+  <trd lng="pl">&sacute;rednia <klr>(liczba)</klr></trd>
+  <trd lng="ru">&c_s;&c_r;&c_je;&c_d;&c_n;&c_je;&c_je;
+  <klr>(&c_ch;&c_i;&c_s;&c_l;&c_o;)</klr></trd>
+  <trd lng="sk">priemerné množstvo</trd>
+</drv>
+
+<drv mrk="kvant.movo0o">
+  <kap>movo<tld/>o</kap>
+  <uzo tip="fak">FIZ</uzo>
+  <fnt><bib>PIV2</bib></fnt>
+  <snc>
+    <dif>
+      <ref tip="super" cel="grand.fizika0o">Fizika grando</ref>,
+      egala al produto de <ref cel="mas.0o.FIZ">maso</ref> per <ref
+      cel="rapid.0o.FIZ">rapido</ref>.
+    </dif>
+  </snc>
+  <trd lng="cs">hybnost</trd>
+  <trd lng="en">momentum <klr tip="ind"> (quantity in
+  physics)</klr></trd>
+  <trd lng="fr">quantit&eacute; de mouvement</trd>
+  <trdgrp lng="hu">
+    <trd>mozg&aacute;smennyis&eacute;g</trd>,
+    <trd>impulzus</trd>
+  </trdgrp>
+  <trd lng="it">quantit&agrave; di moto</trd>
+  <trd lng="nl"><ind>hoeveelheid</ind> van beweging</trd>
+  <trd lng="pl">p&eogonek;d</trd>
+  <trdgrp lng="ru">
+    <trd>&c_k;&c_o;&c_l;&c_i;&c_ch;&c_je;&c_s;&c_t;&c_v;&c_o;
+    &c_d;&c_v;&c_i;&c_zh;&c_je;&c_n;&c_i;&c_ja;</trd>,
+    <trd>&c_i;&c_m;&c_p;&c_u;&c_l;&c_mol;&c_s;</trd>
+  </trdgrp>
+  <trd lng="sk">hybnosť</trd>
+</drv>
+
+<drv mrk="kvant.angulamovo0o">
+  <kap>angula movo<tld/>o</kap>
+  <uzo tip="fak">FIZ</uzo>
+  <fnt><bib>Viki</bib></fnt>
+  <snc>
+    <dif>
+      <ref tip="super" cel="grand.fizika0o">Fizika grando</ref>,
+      egala al vektora produto de levilbrako per <ref
+      cel="kvant.movo0o">movokvanto</ref>.
+    </dif>
+  </snc>
+  <trd lng="en">angular <ind>momentum</ind></trd>
+  <trd lng="it">momento angolare</trd>
+  </drv>
+</art>
+<!--
+$Log: kvant.xml,v $
+Revision 1.25  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.24  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.23  2013/09/20 15:10:10  revo
+Wolfram Diestel: +adm
+
+Revision 1.22  2011/08/27 19:10:08  revo
+Fabio Bettani: +trd it, +drv angula movo~o
+
+Revision 1.21  2011/08/19 05:10:18  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.20  2011/03/22 21:10:09  revo
+Larry Gilbert: +trd en; movo~o: fari ligojn al 'maso' k 'rapido'
+
+Revision 1.19  2010/08/03 16:31:02  revo
+Agustin Garcia Lopez: +trd es
+
+Revision 1.18  2009/09/22 17:17:35  revo
+Paul Peeraerts: +nl
+
+Revision 1.17  2007/01/12 17:30:45  revo
+Russ Williams: +trd tp
+
+Revision 1.16  2006/09/28 16:30:28  revo
+-->
+</vortaro>

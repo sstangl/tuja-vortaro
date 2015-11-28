@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: fiakr.xml,v 1.16 2015/07/04 08:37:34 revo Exp $">
+<kap>
+<ofc>2</ofc>
+<rad>fiakr</rad>/o
+</kap>
+<drv mrk="fiakr.0o">
+  <kap><tld/>o</kap>
+  <snc>
+    <dif>
+      Luebla <ref tip="super" cel="kalesx.0o">kale&scirc;o</ref> je dispono
+      de 
+      publiko. 
+    </dif>
+    <refgrp tip="super">
+      <ref cel="drosxk.0o">dro&scirc;ko</ref>,
+      <ref cel="vetur.0ilo">veturilo</ref>.
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_f;&c_ib;&c_ja;&c_k;&c_r;</trd>
+  <trd lng="ca">fiacre</trd>
+  <trd lng="cs">fiakr</trd>
+  <trd lng="de">Fiaker</trd>
+  <trdgrp lng="en">
+    <trd>hackney coach</trd>,
+    <trd>hackney carriage</trd>,
+    <trd>coach for hire</trd>,
+    <trd>carriage for hire</trd>,
+    <trd>horse-drawn carriage</trd>,
+    <trd>cab</trd>,
+    <trd>fiacre</trd>
+  </trdgrp>
+  <trd lng="fr">fiacre</trd>
+  <trdgrp lng="hu">
+    <trd>fi&aacute;ker</trd>,
+    <trd>b&eacute;rkocsi</trd>
+  </trdgrp>
+  <trd lng="nl">fiaker</trd>
+  <trd lng="pt">fiacre</trd>
+  <trdgrp lng="ru">
+    <trd>&c_f;&c_i;&c_a;&c_k;&c_r;</trd>,
+    <trd>&c_n;&c_a;&c_jo;&c_m;&c_n;&c_y;&c_j; &c_e;&c_k;&c_i;&c_p;&c_a;&c_zh;</trd>
+  </trdgrp>
+  <trd lng="sk">fiaker</trd>
+</drv>
+<drv mrk="fiakr.motor0o">
+<kap>motor<tld/>o</kap>
+  <snc>
+    <uzo tip="stl">ARK</uzo>
+    <fnt><bib>PV</bib></fnt>
+    <ref tip="dif" cel="taksi.0o">taksio</ref>
+    <trd lng="ca">taxi</trd>
+    <trd lng="fr">taxi<klr tip="ind"> (v&eacute;hicule)</klr></trd>
+    <trd lng="hu">taxi</trd>
+    <trd lng="ru">&c_t;&c_a;&c_k;&c_s;&c_i;</trd>
+  </snc>
+  <trd lng="be">&c_t;&c_a;&c_k;&c_s;&c_ib;</trd>
+  <trd lng="nl">taxi</trd>
+</drv>
+</art>
+<!--
+$Log: fiakr.xml,v $
+Revision 1.16  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.14  2012/07/21 10:10:29  revo
+Marc Rausell: + trd ca
+
+Revision 1.13  2009/02/11 19:43:34  revo
+Russ Williams: +trd en
+
+Revision 1.12  2007/05/23 16:30:55  revo
+Tulio Flores: +tr pt
+
+Revision 1.11  2004/03/31 16:32:02  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.10  2003/09/25 16:32:37  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.9  2002/02/13 17:31:55  revo
+Paul Peeraerts: ald plian trd nl
+
+Revision 1.8  2001/07/31 18:13:27  revo
+Marc Bavant: ~o: sxovis ref al drosxko, +ref al veturilo, kalesxo;
+~motor~o: +ARK, +ref sin al taksio
+
+-->
+</vortaro>

@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: klupe.xml,v 1.19 2015/07/04 08:37:37 revo Exp $">
+<kap>
+  <rad>klupe</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="klupe.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="klupe.0o.ZOO">
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      <ref tip="lst" cel="fisx.mar0o" lst="voko:fi&scirc;oj">Marfi&scirc;o</ref>
+      kun blankaj skvamoj kaj verde ar&gcirc;enta brilo,
+      migranta en grandaj grupoj tra la maroj;
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:zoologiaj_genroj">genro</ref> el familio <ref
+      tip="malprt"
+      cel="klupee.0oj"><tld/>edoj</ref>
+      (<trd lng="la">Clupea</trd>)
+      kun la tre ofta specio
+      <ref tip="sub" cel="haring.0o">haringo</ref>.
+    </dif>
+  </snc>
+  <trd lng="cs">sleď</trd>
+  <trd lng="de">Hering</trd>
+  <trd lng="fr">hareng</trd>
+  <trd lng="hu">hering</trd>
+  <trd lng="nl">haring</trd>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_je;&c_l;&c_mol;&c_d;&c_mol;</trd>,
+    <trd>&c_s;&c_je;&c_l;&c_jo;&c_d;&c_k;&c_a;</trd>
+  </trdgrp>
+  <trd lng="sk">sleď</trd>
+</drv>
+
+<drv mrk="klupe.0oformaj">
+  <kap><tld/>oformaj</kap>
+  <snc mrk="klupe.0oformaj.ZOO">
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      <ref tip="lst" cel="ord.0o.BIO"
+      lst="voko:zoologiaj_ordoj">Ordo</ref> de
+      <ref tip="malprt" cel="fisx.osto0oj">ostofi&scirc;oj</ref>
+      (<trd lng="la">Clupeiformes</trd>).
+    </dif>
+  </snc>
+  <trd lng="de">Heringsartige<klr tip="amb"> (Ordnung)</klr></trd>
+  <trd lng="fr">clup&eacute;iformes</trd>
+  <trd lng="hu">heringalak&uacute;ak</trd>
+  <trd lng="nl">haringachtigen<klr tip="ind"> (orde)</klr></trd>
+  <trd lng="ru">&c_s;&c_je;&c_l;&c_mol;&c_d;&c_je;&c_o;&c_b;&c_r;&c_a;&c_z;&c_n;&c_y;&c_je; <klr tip="amb">(&c_o;&c_t;&c_r;&c_ja;&c_d;)</klr></trd>
+</drv>
+</art>
+<!--
+$Log: klupe.xml,v $
+Revision 1.19  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2013/10/13 09:10:16  revo
+Wolfram Diestel: ref al lst fishoj, prilaboris dif
+
+Revision 1.16  2013/09/01 15:10:59  revo
+Wolfram Diestel: referenco al listo zoo genroj
+
+Revision 1.15  2013/08/31 17:10:27  revo
+Wolfram Diestel: ~oformaj: referenco al listo zoo ordoj
+
+Revision 1.14  2007/07/22 16:30:33  revo
+Wieland Pusch: +trd de
+
+Revision 1.13  2007/03/08 17:30:35  revo
+Jeromo Vasxe: oj -> o (genroj en ununombro), aldon. al dif
+
+Revision 1.12  2007/02/27 17:30:24  revo
+Wieland Pusch: -o al -oj
+
+Revision 1.11  2004/12/19 18:56:42  revo
+Marc Bavant: +trd fr
+
+Revision 1.10  2002/07/04 19:10:54  revo
+-->
+</vortaro>

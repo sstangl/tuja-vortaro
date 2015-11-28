@@ -1,0 +1,604 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: decid.xml,v 1.38 2015/07/04 08:37:32 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>decid</rad>/i
+</kap>
+<drv mrk="decid.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="decid.0i.fiksi">
+    <dif>
+      Post pripenso, definitive fiksi, kio devas esti farata:
+    </dif>
+    <subsnc mrk="decid.0i.fiksi.farotajxon">
+      <uzo tip="klr">(la objekto montras la farota&jcirc;on)</uzo>
+      <dif>
+        <ekz>
+          Mi jam de longe tion <tld/>is <klr>[....]</klr>, nun Mi tion
+          plenumis,
+          ke la fortikigitaj urboj fari&gcirc;is amaso da 
+          ruin&scirc;tonoj
+          <fnt><bib>MT</bib>, <lok>&Jes; 37:26</lok></fnt>;
+        </ekz>
+        <ekz>
+          se la son&gcirc;o dufoje ripeti&gcirc;is al Faraono, tio
+          montras, ke <klr>[la malsato]</klr> estas firme <tld/>ita de
+          Dio
+          <fnt><bib>MT</bib>, <lok>&Gen; 41:32</lok></fnt>;
+        </ekz>
+        <ekz>
+          sur la kampo vi falos, &ccirc;ar Mi tion <tld/>is
+          <fnt><bib>MT</bib>, <lok>&Jeh; 39:5</lok></fnt>;
+        </ekz>
+        <ekz>
+          sciigu, kion la Eternulo Cebaot <tld/>is pri Egiptujo
+          <fnt><bib>MT</bib>, <lok>&Jes; 19:12</lok></fnt>;
+        </ekz>
+        <ekz>
+          li <tld/>is translo&gcirc;i&gcirc;i;
+        </ekz>
+        <ekz>
+          &scirc;i <tld/>as, ke &scirc;i rekomencos paroli
+          <fnt><bib>Gerda</bib>, <lok>&ccirc;apitro 13a</lok></fnt>;
+        </ekz>
+        <ekz>
+          ni <tld/>is ne paroli plu pri iaj reformoj<fnt>Z</fnt>;
+        </ekz>
+        <ekz>
+          oni <tld/>is por li la plej facilan rolon <klr>(ke li plenumu
+          la plej facilan rolon)</klr>;
+        </ekz>
+        <ekz>
+          <uzo tip="stl">FIG</uzo>
+          la <tld/>ita loko de &scirc;ia sorto<fnt>Z</fnt>.
+        </ekz>
+      </dif>
+    </subsnc>
+    <subsnc mrk="decid.0i.fiksi.demandon">
+      <uzo tip="klr">(la objekto montras la demandon, diskuton,
+      proceson ks, al kiu la decido metas finon)</uzo>
+      <dif>
+        <ekz>
+          kiam alvenos la &ccirc;efkapitano Lisias, tiam mi <tld/>os 
+          vian aferon <klr>(mi verdiktos)</klr>
+          <fnt><bib>NT</bib>, <lok>&Ago; 24:22</lok></fnt>;
+        </ekz>
+        <ekz>
+          la&ubreve; [la diro de la pastroj] devas esti <tld/>ata 
+          &ccirc;iu disputo kaj &ccirc;iu difekto
+          <fnt><bib>MT</bib>, <lok>&Rea; 21:5</lok></fnt>;
+        </ekz>
+        <ekz>
+          kiel do decidi tiun &ccirc;i komplikitan demandon
+          <fnt><bib>Homaranismo</bib></fnt>?;
+        </ekz>
+        <ekz>
+          &ccirc;u efektive ne ekzistas &ccirc;e vi e&ccirc; unu 
+          sa&gcirc;ulo, kiu povus <tld/>i inter siaj fratoj <klr>(solvi
+          ilian disputon)</klr>?
+          <fnt><bib>NT</bib>, <lok>&Ko1; 6:5</lok></fnt>;
+        </ekz>
+        <ekz>
+          <ind>ne<tld/>ebla</ind> demando<fnt>Z</fnt>;
+          <trd lng="fr">ind&eacute;cidable</trd>
+        </ekz>
+        <ekz>
+          <uzo tip="stl">FIG</uzo>
+          la loto &ccirc;esigas disputojn kaj <tld/>as inter potenculoj
+          <fnt><bib>MT</bib>, <lok>&Sen; 18:18</lok></fnt>;
+        </ekz>
+        <ekz>
+          &ccirc;e tiu malsano, unu horo povas <tld/>i inter vivo kaj
+          morto<fnt>Z</fnt>;
+        </ekz>
+      </dif>
+    </subsnc>
+    <subsnc mrk="decid.0i.fiksi.abs">
+      <uzo tip="klr">(abs.)</uzo>
+      <dif>
+        <ekz>
+          kiel Mi <tld/>is, tiel efektivi&gcirc;os
+          <fnt><bib>MT</bib>, <lok>&Jes; 14:24</lok></fnt>;
+        </ekz>
+        <ekz>
+          mi <tld/>is, ke vi <tld/>u<fnt>Z</fnt>.
+        </ekz>
+      </dif>
+    </subsnc>
+    <refgrp tip="vid">
+      <ref cel="destin.0i">destini</ref>,
+      <ref cel="determ.0i">determini</ref>,
+      <ref cel="difin.0i">difini</ref>,
+      <ref cel="solv.0i">solvi</ref>,
+      <ref cel="verdik.0i">verdikti</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_r;&c_a;&c_sh;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_v;&c_y;&c_r;&c_a;&c_sh;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>decidovat</trd>,
+    <trd>rozhodnout</trd>,
+    <trd>usnést se</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+     <trd>entscheiden</trd>,
+     <trd>entschlie&szlig;en</trd>,
+     <trd>beschlie&szlig;en</trd>
+  </trdgrp>
+  <trd lng="en">decide</trd>
+  <trd lng="es">decidir</trd>
+  <trdgrp lng="fr">
+    <trd>arr&ecirc;ter<klr tip="ind"> (une d&eacute;cision)</klr></trd>,
+    <trd>d&eacute;cider<klr tip="ind"> (qc &agrave; faire)</klr></trd>,
+    <trd>r&eacute;soudre<klr tip="ind"> (d&eacute;cider d'une
+    solution)</klr></trd>,
+    <trd>statuer</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+     <trd>elhat&aacute;roz</trd>,
+     <trd>eld&ouml;nt</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+     <trd>decydowa&cacute;</trd>,
+     <trd>postanawia&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>decidir</trd>,
+    <trd>deliberar</trd>,
+    <trd>dirimir</trd>,
+    <trd>haver por <ind>bem</ind></trd>,
+    <trd>julgar</trd>,
+    <trd>resolver</trd>,
+    <trd>resolver-se a</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_r;&c_je;&c_sh;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_r;&c_je;&c_sh;&c_i;&c_t;&c_mol;</trd>,
+    <trd>&c_p;&c_r;&c_i;&c_n;&c_ja;&c_t;&c_mol; 
+    &c_r;&c_je;&c_sh;&c_je;&c_n;&c_i;&c_je;</trd>
+  </trdgrp>
+  <trd lng="sk">rozhodn&uacute;&tcaron;</trd>
+</drv>
+
+<drv mrk="decid.0o">
+  <kap><tld/>o</kap>
+  <snc>
+    <dif>
+      Ago <tld/>i; io <tld/>ita:
+      <ekz>
+        fari <tld/>on<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        &scirc;an&gcirc;i tian <tld/>on;
+      </ekz>
+      <ekz>
+        ju&gcirc;ista <tld/>o
+        (<ref tip="vid" cel="verdik.0o">verdikto</ref>);
+      </ekz>
+      <ekz>
+        &ccirc;iujn siajn argumentojn ili penadis konformigadi
+        al tiu anta&ubreve;farita <tld/>o<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        por la <tld/>o de la demando estas kreita
+        komitato<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        tiu demando iom post iom per la
+        uzado ricevis <tld/>on pli difinitan<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+      en lingvaj demandoj &ccirc;iu superflua "<tld/>o" katenas [...]:
+      "<tld/>ojn" oni devas fari nur en okazoj de efektiva kaj senduba
+      neceseco<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_r;&c_a;&c_sh;&c_e;&c_n;&c_mol;&c_n;&c_je;</trd>
+  <trdgrp lng="cs">
+    <trd>decize</trd>,
+    <trd>rozhodnutí</trd>,
+    <trd>usnesení</trd>,
+    <trd>výměr</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Entscheidung</trd>,
+    <trd>Entscheid</trd>,
+    <trd>Entschluss</trd>,
+    <trd>Beschluss</trd>
+  </trdgrp>
+  <trd lng="en">decision</trd>
+  <trd lng="es">decisi&oacute;n</trd>
+  <trdgrp lng="fr">
+    <trd>d&eacute;cision</trd>,
+    <trd>r&eacute;solution<klr tip="ind"> (d&eacute;cision)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+     <trd>elhat&aacute;roz&aacute;s</trd>,
+     <trd>d&ouml;nt&eacute;s</trd>,
+     <trd>hat&aacute;rozat</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+     <trd>decyzja</trd>,
+     <trd>postanowienie</trd>,
+     <trd>uchwa&lstroke;a</trd>
+  </trdgrp>
+  <trd lng="ru">&c_r;&c_je;&c_sh;&c_je;&c_n;&c_i;&c_je;</trd>
+  <trdgrp lng="sk">
+    <trd>odhodlanie</trd>,
+    <trd>rozhodnutie</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="decid.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="decid.0a.esperimanta">
+    <dif>
+      Esprimanta la firmecon de <tld/>o:
+      <ekz>
+        <tld/>a tono<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        pripensu malrapide kaj agu <tld/>e
+        <fnt><bib>PrV</bib></fnt>
+      </ekz>
+    </dif>
+    <trd lng="be">&c_r;&c_a;&c_sh;&c_u;&c_ch;&c_y;</trd>
+    <trd lng="de">entschieden</trd>
+    <trd lng="en">decisive</trd>
+   <trd lng="es">decidido</trd>
+     <trd lng="fr">r&eacute;solu<klr tip="ind"> (ferme)</klr></trd>
+    <trd lng="hu">hat&aacute;rozott</trd>
+    <trdgrp lng="pl">
+       <trd>decyduj&aogonek;cy</trd>,
+       <trd>zdecydowany</trd>,
+       <trd>przemy&sacute;lany</trd>
+    </trdgrp>
+    <trd lng="sk">rozhodn&yacute;</trd>
+  </snc>
+  <snc mrk="decid.0a.alportanta">
+    <dif>
+      Alportanta definitivan solvon, <tld/>on:
+      <ekz>
+        <tld/>a batalo, venko, vo&ccirc;o de la prezidanto,
+        pruvo, motivo, cirkonstanco;
+      </ekz>
+      <ekz>
+        mi ne povis <tld/>e <klr>(certe)</klr> diri, kian formon ni
+        devas uzi<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_v;&c_y;&c_r;&c_a;&c_sh;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>,
+      <trd>&c_r;&c_a;&c_sh;&c_a;&c_ju;&c_ch;&c_y;</trd>
+    </trdgrp>
+    <trd lng="de">entscheidend</trd>
+    <trd lng="en">decisive</trd>
+    <trdgrp lng="es">
+      <trd>decisivo</trd>,
+      <trd>crucial</trd>
+    </trdgrp> 
+    <trd lng="fr">d&eacute;cisif</trd>
+    <trd lng="hu">d&ouml;nt&odblac;</trd>
+    <trdgrp lng="pl">
+       <trd>decyduj&aogonek;cy</trd>,
+       <trd>zdecydowany</trd>
+    </trdgrp>
+    <trd lng="sk">rozhoduj&uacute;ci</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>decizivní</trd>,
+    <trd>decizní</trd>,
+    <trd>rozhodný</trd>,
+    <trd>rozhodující</trd>,
+    <trd>určitý</trd>,
+    <trd>závažný</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_r;&c_je;&c_sh;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;
+    </trd>,
+    <trd>&c_r;&c_je;&c_sh;&c_a;&c_ju;&c_shch;&c_i;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>rozhodný, závažný</trd>,
+    <trd>závažný</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="decid.0ema">
+  <kap><tld/>ema</kap>
+  <snc>
+    <dif>
+      Inklina <tld/>i, kapabla facile <tld/>i, ne inklina al hezito
+      a&ubreve; dubo:
+      <ekz>
+        <tld/>emo estas &ccirc;efa kvalito de regnestro.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="energi.0a">energia</ref>,
+      <ref cel="ordon.0ema">ordonema</ref>,
+      <ref cel="auxtor1.0a">a&ubreve;toritata</ref>,
+      <ref cel="dogm">dogmema</ref>.
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_r;&c_a;&c_sh;&c_u;&c_ch;&c_y;</trd>
+  <trdgrp lng="cs">
+    <trd>odhodlaný</trd>,
+    <trd>rozhodný</trd>,
+    <trd>rázný</trd>
+  </trdgrp>
+  <trd lng="de">entscheidungsfreudig</trd>
+  <trd lng="fr">d&eacute;cid&eacute;<klr tip="ind"> (s&ucirc;r de sa
+  d&eacute;cision)</klr></trd>
+  <trd lng="hu">hat&aacute;rozott<klr tip="ind"> (term&eacute;szet)
+  </klr></trd>
+  <trdgrp lng="pl">
+     <trd>zdecydowany</trd>,
+     <trd>decyzyjny</trd>
+  </trdgrp>
+  <trd lng="ru">
+  &c_r;&c_je;&c_sh;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>odhodlaný</trd>,
+    <trd>rozhodn&yacute;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="decid.0igi">
+  <kap><tld/>igi</kap>
+  <snc mrk="decid.0igi.decidu">
+    <dif>
+      Fari, ke iu <tld/>u:
+      <ekz>
+        la &ccirc;efpastroj kaj plia&gcirc;uloj <tld/>igis la homamason
+        postuli Barabason kaj pereigi Jesuon
+        <fnt><bib>NT</bib>, <lok>&Mat; 27:20</lok></fnt>;
+      </ekz>
+      <ekz>
+        mi <tld/>igis mian amikon veni en la teatron;
+      </ekz>
+      <ekz>
+        nur monmanko <tld/>igis nin halti.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="instig.0i.iun_al_io">instigi.</ref>
+    <trd lng="fr">d&eacute;cider<klr tip="amb"> (qn &agrave; faire
+    qc)</klr></trd>
+    <trd lng="hu">eld&ouml;ntet<klr tip="ind"> (vkivel vmit)</klr></trd>
+    <trd lng="pl">nak&lstroke;ania&cacute;</trd>
+  </snc>
+  <snc mrk="decid.0igi.decidata">
+    <uzo tip="stl">EVI</uzo>
+    <dif>
+      Fari, ke io estu <tld/>ata:
+      <ekz>
+        tio <tld/>igis la militon.
+      </ekz>
+    </dif>
+    <trdgrp lng="fr">
+      <trd>d&eacute;cider<klr tip="ind"> (entra&icirc;ner)</klr></trd>,
+      <trd>provoquer<klr tip="ind"> (entra&icirc;ner)</klr></trd>,
+      <trd>entra&icirc;ner</trd>,
+      <trd>d&eacute;terminer<klr tip="ind"> (entra&icirc;ner)</klr>
+      </trd>
+    </trdgrp>
+  </snc>
+  <trd lng="cs">přesvědčit</trd>
+  <trdgrp lng="de">
+    <trd>zur <ind>Entscheidung</ind> bringen</trd>,
+    <trd>einer <ind>Entscheidung</ind> zuf&uuml;hren</trd>,
+    <trd>eine <ind>Entscheidung</ind> fordern</trd>
+  </trdgrp>
+  <trd lng="sk">nahovoriť</trd>
+</drv>
+
+<drv mrk="decid.0igxi">
+  <kap><tld/>i&gcirc;i</kap>
+  <snc mrk="decid.0igxi.decidanta">
+    <dif>
+      Fari&gcirc;i <tld/>anta, ekpreni <tld/>on:
+      <ekz>
+        post longa &scirc;anceli&gcirc;o, li fine <tld/>i&gcirc;is.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+     <trd>zu einer <ind>Entscheidung</ind> kommen</trd>,
+     <trd>zu einem <ind>Entschluss</ind> kommen</trd>,
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>se <ind>d&eacute;cider</ind><klr tip="ind"> (&agrave; faire
+      qc)</klr></trd>,
+      <trd>prendre une <ind>d&eacute;cision</ind></trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+     <trd>elhat&aacute;rozza mag&aacute;t</trd>,
+     <trd>d&ouml;nt&eacute;sre jut</trd>,
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>namy&sacute;la&cacute; si&eogonek;</trd>,
+      <trd>zastanawia&cacute; si&eogonek;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="decid.0igxi.decidita">
+    <dif>
+      Fari&gcirc;i <tld/>ita:
+      <ekz>
+        la entrepreno rapide <tld/>i&gcirc;is.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+     <trd>entschieden werden</trd>,
+     <trd>zur <ind>Entscheidung</ind> kommen</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>se <ind>d&eacute;cider</ind><klr tip="ind"> (faire l'objet 
+      d'une d&eacute;cision)</klr></trd>,
+      <trd>faire l'objet d'une <ind>d&eacute;cision</ind></trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>d&ouml;nt&eacute;s sz&uuml;letik<klr tip="ind"> (r&oacute;la)
+      </klr></trd>,
+      <trd>elhat&aacute;roz&aacute;sra ker&uuml;l</trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_r;&c_a;&c_sh;&c_a;&c_c;&c_c;&c_a;</trd>,
+    <trd>&c_v;&c_y;&c_r;&c_a;&c_sh;&c_a;&c_c;&c_c;&c_a;</trd>
+  </trdgrp>
+  <trd lng="ru">&c_r;&c_je;&c_sh;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>
+  <trd lng="sk">rozhodn&uacute;&tcaron; sa</trd>
+</drv>
+
+<drv mrk="decid.antaux0i">
+  <kap>anta&ubreve;<tld/>i</kap>
+  <snc mrk="decid.antaux0i.antauxe">
+    <uzo tip="stl">ARK</uzo>
+    <fnt><bib>PV</bib></fnt>
+    <dif>
+      <tld lit="D"/>i anta&ubreve; &ccirc;ia diskuto a&ubreve; pripenso.
+    </dif>
+    <adm>
+      Estas dubinde, &ccirc;u tiu &ccirc;i senco vere ekzistas a&ubreve;
+      ekzistis. La malnovtestamentaj ekzemploj ne estas tre klaraj, sed
+      ili ne interpreti&gcirc;as per "anta&ubreve;ju&gcirc;i".
+      <aut>MB</aut>
+    </adm>
+    <refgrp tip="vid">
+      <ref cel="jugx.antaux0o">anta&ubreve;ju&gcirc;o</ref>.
+    </refgrp>
+    <trdgrp lng="de">
+     <trd>vorweg <ind>entscheiden</ind></trd>,
+     <trd><klr>im </klr>Vorhinein <ind>beschlie&szlig;en</ind></trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="decid.antaux0i.porEstonteco">
+    <dif>
+      <tld lit="D"/>i por la (iom fora) estonteco:
+      <ekz>
+        anta&ubreve;<tld/>o <klr>(jam preta <tld/>o, &ccirc;ar prenita
+        anticipe)</klr>;
+      </ekz>
+      <ekz>
+        &ccirc;ar la Filo de homo ja iros, la&ubreve; la
+        anta&ubreve;<tld/>o
+        <fnt><bib>NT</bib>, <lok>&Luk; 22:22</lok></fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+     <trd>vorentscheiden</trd>,
+     <trd>vorher <ind>beschlie&szlig;en</ind></trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="de">
+   <trd>el&odblac;re <ind>elhat&aacute;roz</ind></trd>,
+   <trd>el&odblac;re <ind>eld&ouml;nt</ind></trd>
+  </trdgrp>
+  <trd lng="ru">&c_p;&c_r;&c_je;&c_d;&c_r;&c_je;&c_sh;&c_i;&c_t;&c_mol;
+  </trd>
+</drv>
+
+<drv mrk="decid.for0i">
+  <kap>for<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      Rezigni pri anta&ubreve;e farita <tld/>o:
+      <ekz>
+        eble ili [...] returnos sin &ccirc;iu de sia malbona vojo, kaj
+        tiam Mi for<tld/>os la malbonon, kiun Mi intencas fari al ili
+        pro iliaj malbonaj agoj
+        <fnt><bib>MT</bib>, <lok>&Jer; 26:3</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">vzdát se <klr>(něčeho| např. špatností)</klr></trd>
+  <trdgrp lng="de">
+     <trd>eine <ind>Entscheidung</ind> fallen lassen</trd>,
+     <trd>einen <ind>Entschluss</ind> aufgeben</trd>
+  </trdgrp>
+  <trd lng="fr">annuler une d&eacute;cision</trd>
+  <trdgrp lng="hu">
+     <trd>lemond<klr tip="ind"> (elhat&aacute;roz&aacute;sr&oacute;l)
+     </klr></trd>,
+     <trd>meggondolja mag&aacute;t</trd>
+  </trdgrp>
+  <trd lng="sk">vzdať sa</trd>
+</drv>
+
+<drv mrk="decid.sen0a">
+  <kap>sen<tld/>a, <var><kap>ne<tld/>ema</kap></var></kap>
+  <snc>
+    <dif>
+      Ne kapabla ekpreni decidon, hezitoplena:
+      <ekz>
+        tiu, kiu estas sen<tld/>a, estas kondamnita
+        <fnt><bib>NT</bib>, <lok>&Rom; 14:23</lok></fnt>;
+      </ekz>
+      <ekz>
+        li restis kun klinita kapo, sen<tld/>e.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="sxance">&scirc;anceli&gcirc;ema</ref>.
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_n;&c_je;&c_r;&c_a;&c_sh;&c_u;&c_ch;&c_y;</trd>
+  <trdgrp lng="de">
+     <trd>unentschieden</trd>,
+     <trd>unentschlossen</trd>
+  </trdgrp>
+  <trd lng="en">indecisive</trd>
+  <trd lng="fr">ind&eacute;cis</trd>
+  <trd lng="hu">hat&aacute;rozatlan</trd>
+  <trdgrp lng="pl">
+     <trd>niezdecydowany</trd>,
+     <trd>bezradny</trd>
+  </trdgrp>
+  <trd lng="ru">
+&c_n;&c_je;&c_r;&c_je;&c_sh;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;
+  </trd>
+  <trd lng="sk">nerozhodn&yacute;</trd>
+</drv>
+</art>
+<!--
+$Log: decid.xml,v $
+Revision 1.38  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.37  2015/06/29 16:39:29  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.36  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.35  2014/05/19 11:10:16  revo
+Damien Brucker: +ekz
+
+Revision 1.34  2012/10/23 00:10:59  revo
+Neil Roberts: aldonu la etikedon <var>
+
+Revision 1.33  2010/03/14 17:30:21  revo
+Jason Castle: aldonis: hispana: decido, decida, decidigi, decidigxi
+
+Revision 1.32  2010/03/13 17:30:33  revo
+Jason Castle: aldonis: decido, decida, sendecida
+
+Revision 1.31  2008/01/28 17:30:55  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.30  2007/07/19 16:30:43  revo
+Tulio Flores: +tr pt
+
+Revision 1.29  2005/12/08 17:31:09  revo
+Jeromo Vasxe: + 1 ekz
+
+Revision 1.28  2004/10/21 16:31:10  revo
+-->
+</vortaro>

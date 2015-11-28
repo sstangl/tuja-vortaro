@@ -1,0 +1,131 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: ekzalt.xml,v 1.17 2015/07/04 08:37:33 revo Exp $">
+<kap>
+  <rad>ekzalt</rad>/i <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="ekzalt.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <uzo tip="stl">RAR</uzo>
+  <snc mrk="ekzalt.0i.PSI">
+    <dif>
+      Levi senton de la animo &gcirc;is alta grado de intenseco, tre
+      eksciti:
+      <ekz>
+        <tld/>i fervoregon, imagon de iu;
+      </ekz>
+      <ekz>
+        <tld/>ita kapo, spirito.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="fam">famigi</ref>,
+      <ref cel="pas">pasiigi</ref>,
+      <ref cel="ekscit.0i">eksciti</ref>.
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_e;&c_k;&c_z;&c_a;&c_l;&c_mol;&c_t;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="ca">exaltar</trd>
+  <trdgrp lng="cs">
+    <trd>nadchnout</trd>,
+    <trd>opojit</trd>,
+    <trd>vzrušit</trd>,
+    <trd>vzrušovat</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+     <trd>aufregen</trd>,
+     <trd>exaltieren</trd>,
+     <trd>in <ind>Aufregung versetzen</ind></trd>,
+     <trd>in <ind>Hysterie versetzen</ind></trd>,
+     <trd>in exaltierte <ind>Stimmung versetzen</ind></trd>
+  </trdgrp>
+  <trd lng="en">exalt</trd>
+  <trd lng="es">exaltar</trd>
+  <trd lng="fr">exalter</trd>
+  <trd lng="pl">egzaltowa&cacute;</trd>
+  <trdgrp lng="pt">
+    <trd>exaltar</trd>,
+    <trd>excitar</trd>
+  </trdgrp>
+  <trd lng="ru">&c_e;&c_k;&c_z;&c_a;&c_l;&c_mol;&c_t;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>veľmi nadchnúť</trd>,
+    <trd>vzrušiť</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="ekzalt.0o">
+  <kap><tld/>o, <var><kap><tld/>i&gcirc;o</kap></var></kap>
+  <uzo tip="stl">RAR</uzo>
+  <snc mrk="ekzalt.0o.PSI">
+    <dif>
+      Stato de granda vigleco de sentoj,
+      de <ref tip="vid" cel="ard.0o">ardo</ref>,
+      <ref tip="vid" cel="ebri.0o">ebrieco</ref>,
+      <ref tip="vid" cel="fajr.0o.fervoro">fajro</ref>,
+      <ref tip="vid" cel="febr.0o.fervoro">febro</ref>:
+      <ekz>
+        poezia <tld/>o
+        <fnt>
+          <aut>G. De Knibber, trad. L. De Cooman</aut>,
+          <vrk><url ref="http://de-cooman.be/jan/eo/landschap.htm">
+          Jan De Cooman: Pejza&gcirc;oj</url></vrk>,
+          <lok>1998</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi ja atendis ion, kiel eksciti&gcirc;on, <tld/>i&gcirc;on
+        <fnt>
+          <aut>C. Piron</aut>,
+          <vrk><url
+          ref="http://esperanto.org.uk/eldonoj/piron/tekstoj/Tien.html">
+          Tien</url></vrk>,
+          <lok>1997</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="entuzi.0o">entuziasmo</ref>,
+      <ref cel="frenez">frenezo</ref>,
+      <ref cel="fervor.0o">fervoro</ref>,
+      <ref cel="ekstaz.0o">ekstazo</ref>
+    </refgrp>
+  </snc>
+  <trd lng="fr">exaltation</trd>
+</drv>
+</art>
+<!--
+$Log: ekzalt.xml,v $
+Revision 1.17  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.15  2014/12/21 09:10:21  revo
+Damien Brucker: -eraro cxe ref
+
+Revision 1.14  2014/02/08 10:10:17  revo
+Damien Brucker: -eraro cxe ref
+
+Revision 1.13  2013/12/21 02:10:15  revo
+Jeromo Vasxe: + ~o
+
+Revision 1.12  2012/09/05 09:10:25  revo
+Marc Rausell: + trd ca
+
+Revision 1.11  2010/04/16 16:30:56  revo
+Russ Williams: +trd en
+
+Revision 1.10  2010/01/18 17:31:02  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.9  2007/06/24 16:30:45  revo
+Tulio Flores: +tr pt
+
+Revision 1.8  2003/12/16 17:32:31  revo
+-->
+</vortaro>

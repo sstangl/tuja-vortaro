@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: virtua.xml,v 1.16 2009/03/01 17:34:19 revo Exp $">
+<kap>
+  <ofc>9</ofc><rad>virtual</rad>/a <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="virtua.0a">
+  <kap><ofc>9</ofc><tld/>a</kap>
+  <snc mrk="virtua.0a.FIL">
+    <uzo tip="fak">FIL</uzo>
+    <dif>
+      Ebla sed ankora&ubreve; ne efektivi&gcirc;inta
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="kontin1.0a">kontingenca</ref>,
+      <ref cel="latent.0a">latenta</ref>
+    </refgrp>
+    <trd lng="hu">virtu&aacute;lis</trd>    
+  </snc>
+  <snc>
+    <dif>
+      Nur &scirc;ajne ekzistanta:
+      <ekz>
+        Russel Tyalor kaj Warren Robinett, &ccirc;e la usona Universitato
+        Chapel
+        Hill (Norda Karolino), parigante la tunelefikan mikroskopon kaj
+        la
+        teknikojn de <tld/>a realo, fabrikis instrumenton baptitan
+        nanomanipulatoro
+        <fnt><aut>G. Cazzaro</aut>:
+        <vrk><url ref="&Monato;/005286.html">Mikroskope vastaj
+        horizontoj</url></vrk>,
+        <bib>Monato</bib>,
+        <lok>1997-02</lok>.
+        </fnt>
+      </ekz>
+    </dif>
+    <trd lng="hu">l&aacute;tsz&oacute;lagos</trd>
+  </snc>
+  <trd lng="be">&c_v;&c_ib;&c_r;&c_t;&c_u;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>
+  <trd lng="ca">virtual</trd>
+  <trd lng="de">virtuell</trd>
+  <trd lng="en">virtual</trd>
+  <trd lng="es">virtual</trd>
+  <trd lng="fr">virtuel</trd>
+  <trd lng="nl">virtueel</trd>
+  <trd lng="pt">virtual</trd>
+  <trd lng="ru">&c_v;&c_i;&c_r;&c_t;&c_u;&c_a;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
+</drv>
+</art>
+<!--
+$Log: virtua.xml,v $
+Revision 1.16  2009/03/01 17:34:19  revo
+Russ Williams: + 9OA
+
+Revision 1.15  2008/03/28 17:30:35  revo
+Jeromo Vasxe: + fak fil
+
+Revision 1.14  2006/06/27 16:31:52  revo
+Raul Salinas Monteagudo: +trd ca,es
+
+Revision 1.13  2005/02/03 17:33:40  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.12  2002/07/27 19:02:36  revo
+Eduardo M. Kalinowski: ald trd pt
+
+Revision 1.11  2002/06/01 05:58:31  revo
+Zmicier Lapcionak: + trd be
+
+Revision 1.10  2002/03/19 17:32:58  revo
+Yury Finkel: +trd ru
+
+Revision 1.9 2001/10/31 19:14:53 revo
+-->
+</vortaro>

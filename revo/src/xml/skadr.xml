@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: skadr.xml,v 1.15 2015/07/04 08:37:43 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>skadr</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="skadr.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="skadr.0o.MIL">
+    <uzo tip="fak">MIL</uzo>
+    <dif>
+      Parto de kavaleria <ref tip="malprt"
+      cel="regime.0o">regimento</ref>
+      komandata de oficiro havanta rangon
+      inter kapitano kaj subkolonelo;
+      <ref tip="sin" cel="skadro.0o.MIL">skadrono</ref>,
+      <ref tip="sin" cel="eskadr1.0o.MIL">eskadrono</ref>:
+      <ekz>
+        Mem la re&gcirc;o volis, kun obstina spito, /
+        Rajdi kun la <tld/>o, lukti en milito
+        <fnt>
+          <aut>S. Pet&odblac;fi, trad. K. Kalocsay</aut>,
+          <vrk>Johano la brava</vrk>,
+          <lok>1984</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_e;&c_s;&c_k;&c_a;&c_d;&c_r;&c_o;&c_n;</trd>
+  <trd lng="bg">&c_je;&c_s;&c_k;&c_a;&c_d;&c_r;&c_i;&c_l;&c_a;</trd>
+  <trd lng="ca">esquadr&oacute;</trd>
+  <trdgrp lng="cs">
+    <trd>eskadra</trd>,
+    <trd>eskadrona</trd>,
+    <trd>jízdní rota</trd>,
+    <trd>skadrona</trd>
+  </trdgrp>
+  <trd lng="de">Schwadron</trd>
+  <trd lng="en">squadron</trd>
+  <trd lng="es">escuadr&oacute;n</trd>
+  <trd lng="fr">escadron</trd>
+  <trdgrp lng="hu">
+    <trd>lovassz&aacute;zad</trd>,
+    <trd>svadron</trd>
+  </trdgrp>
+  <trd lng="it">squadrone<klr> (caval.)</klr></trd>
+  <trd lng="nl">eskadron</trd>
+  <trdgrp lng="pl">
+    <trd>eskadra</trd>,
+    <trd>szwadron</trd>
+  </trdgrp>
+  <trd lng="pt">esquadr&atilde;o</trd>
+  <trd lng="ru">&c_e;&c_s;&c_k;&c_a;&c_d;&c_r;&c_o;&c_n;</trd>
+  <trdgrp lng="sk">
+    <trd>eskadra</trd>,
+    <trd>eskadróna</trd>,
+    <trd>jazdná rota</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: skadr.xml,v $
+Revision 1.15  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.13  2014/10/16 20:10:27  revo
+Jeromo Vasxe: dif cxe fundam. formo, ref sin, ekz
+
+Revision 1.12  2014/01/24 16:10:17  revo
+Joop Eggen: +trd bg
+
+Revision 1.11  2009/08/12 16:30:40  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.10  2009/05/27 16:30:55  revo
+Russ Williams: +trd en
+
+Revision 1.9  2009/03/04 17:31:15  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.8  2003/01/13 17:36:32  revo
+Zmicier Lapcionak: + trd be
+
+Revision 1.7  2002/08/17 17:31:34  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.6  2002/02/13 17:32:12  revo
+-->
+</vortaro>

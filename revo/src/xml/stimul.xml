@@ -1,0 +1,153 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: stimul.xml,v 1.14 2015/07/04 08:37:44 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>stimul</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="stimul.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="stimul.0i.iu">
+    <uzo tip="klr">(iu)</uzo>
+    <dif>
+      Peni por ke iu jam aganta agu pli vigle.
+    </dif>
+  </snc>
+  <snc mrk="stimul.0i.io">
+    <uzo tip="klr">(io)</uzo>
+    <dif>
+      Plivigligi la aktivecon de iu a&ubreve; io:
+      <ekz>
+        tiu ideo estas la <ind><tld/>o</ind> de ilia
+        laborado<fnt>Z</fnt>.
+        <trd lng="be">&c_s;&c_t;&c_y;&c_m;&c_u;&c_l;</trd>
+        <trd lng="hu">&ouml;szt&ouml;nz&eacute;s</trd>
+        <trd lng="ru">&c_s;&c_t;&c_i;&c_m;&c_u;&c_l;</trd>
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="ekscit.0i">eksciti</ref>,
+      <ref cel="incit.0i">inciti</ref>,
+      <ref cel="instig.0i">instigi</ref>,
+      <ref cel="fervor.0igi">fervorigi</ref>,
+      <ref cel="spron.0i">sproni</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_t;&c_y;&c_m;&c_u;&c_l;&c_ja;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_p;&c_r;&c_y;&c_m;&c_u;&c_sh;&c_a;&c_c;&c_mol;</trd>, 
+    <trd>&c_z;&c_a;&c_a;&c_h;&c_v;&c_o;&c_ch;&c_v;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>podnítit</trd>,
+    <trd>povzbudit</trd>,
+    <trd>stimulovat</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>stimulieren</trd>,
+    <trd>anregen</trd>,
+    <trd>anreizen</trd>,
+    <trd>antreiben</trd>,
+    <trd>vorantreiben</trd>,
+    <trd>anstacheln</trd>,
+    <trd>anspornen</trd>
+  </trdgrp>
+  <trd lng="en">stimulate</trd>
+  <trd lng="fr">stimuler</trd>
+  <trdgrp lng="hu">
+    <trd>sarkall</trd>,
+    <trd>&ouml;szt&ouml;n&ouml;z</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>stimuleren</trd>,
+    <trd>aansporen</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_t;&c_i;&c_m;&c_u;&c_l;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_p;&c_o;&c_b;&c_u;&c_zh;&c_d;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>podnecovať</trd>,
+    <trd>povzbudzovať</trd>,
+    <trd>stimulovať</trd>,
+    <trd>vzpružiť</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="stimul.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="stimul.0o.BIO">
+    <uzo tip="fak">BIO</uzo>
+    <dif>
+      Ekstera apera&jcirc;o, kiu instigas al iu agado:
+      <ekz>
+        R. Yerkes kaj E. L. Thorndike <klr>...</klr> 
+        esploris la respondajn agojn de bestoj kontra&ubreve; 
+        simplaj fizikaj <tld/>oj
+        <fnt>
+          <aut>J. &Scirc;uvajev</aut>,
+          <vrk><url
+          ref="http://www.eventoj.hu/steb/zoologio/konduto_de_bestoj/f874-p30.htm">
+          Pri la konduto de bestoj</url></vrk>,
+          <lok>Fokuso, 1987:1, p. 2a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="refleks.0o.BIO">reflekso</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>podnět</trd>,
+    <trd>popud</trd>,
+    <trd>stimul</trd>,
+    <trd>stimulace</trd>,
+    <trd>vzpruha</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>stimulation</trd>,
+    <trd>stimulus</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>podnet</trd>,
+    <trd>popud</trd>,
+    <trd>stimul</trd>,
+    <trd>vzpruha</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: stimul.xml,v $
+Revision 1.14  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.13  2015/06/29 16:33:24  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.12  2014/04/23 07:10:20  revo
+Damien Brucker: -eraro cxe ref
+
+Revision 1.11  2014/04/22 18:10:55  revo
+Jeromo Vasxe: + ~o
+
+Revision 1.10  2010/04/16 16:30:40  revo
+Russ Williams: +trd en
+
+Revision 1.9  2004/10/29 16:32:54  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.8  2003/03/03 17:31:24  revo
+Zmicier Lapcionak: + trd be
+
+Revision 1.7  2002/02/23 19:50:36  revo
+Yury Finkel: +trd ru
+
+Revision 1.6 2001/08/21 18:14:32 revo
+Dennis Wibrow: +trd germ
+
+Revision 1.5 2001/02/17 20:33:15 revo
+-->
+</vortaro>

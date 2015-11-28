@@ -1,0 +1,319 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: famili.xml,v 1.40 2015/07/04 08:37:34 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>famili</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="famili.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="famili.0o.GEN">
+    <dif>
+      Malvasta parencaro.
+    </dif>
+    <subsnc mrk="famili.0o.GEN.strikta">
+    <uzo tip="fak">GEN</uzo>
+      <dif>
+        Aro formata de la patro, patrino kaj infanoj:
+        <ekz>
+          vivi en <tld/>o.
+        </ekz>
+      </dif>
+      <trd lng="nl">gezin</trd>
+    </subsnc>
+    <subsnc mrk="famili.0o.GEN.largxa">
+    <uzo tip="fak">GEN</uzo>
+      <dif>
+        La tuta parencaro &gcirc;enerale:
+        <ekz>
+        anka&ubreve; la edukado, idealoj, konvinkoj, celado, &mdash; kaj la popoloj
+        interproksimi&gcirc;us kiel unu <tld/>o<fnt><aut>&Z;</aut>:
+          <vrk>El la unua libro de la lingvo Esperanto.</vrk></fnt>;
+        </ekz>
+        <ekz>
+          aparteni al nobela <tld/>o.
+        </ekz>
+      </dif>
+      <refgrp tip="vid">
+        <ref cel="gent.0o.familio">gento</ref>
+      </refgrp>
+    </subsnc>
+  </snc>
+  <snc mrk="famili.0o.KLA">
+    <dif>
+      Aro de a&jcirc;oj kun komuna deveno.
+    </dif>
+    <subsnc mrk="famili.0o.BIO">
+      <uzo tip="fak">ZOO</uzo>
+      <uzo tip="fak">BOT</uzo>
+      <dif>
+        &Scirc;tupo de la botanika kaj zoologia klasifikoj
+        (<trd lng="la">familia</trd>):
+        <ekz>
+          <tld/>o de rozacoj.
+        </ekz>
+      </dif>
+      <rim>
+        La nomo de <tld/>o estas derivata de la nomo
+        de unu el &gcirc;iaj genroj per la sufikso
+        <ref tip="vid" cel="ac">-ac</ref> en botaniko,
+        <ref tip="vid" cel="ed">-ed</ref> en zoologio.
+        En nefaka uzo oni povas eviti tiujn sufiksojn:
+        <ekz>
+          <tld/>o de rozoj, roz<tld/>o, roz<tld/>ano.
+        </ekz>
+      </rim>
+      <ref tip="malprt" cel="ord.0o.BIO">ordo</ref>
+      <ref tip="prt" cel="genr.0o.BIO">genro</ref>
+      <lstref lst="voko:botanikaj_familioj">botanikaj
+      <tld/>oj</lstref>
+      <lstref lst="voko:zoologiaj_familioj">zoologiaj
+      <tld/>oj</lstref>
+    </subsnc>
+    <subsnc mrk="famili.0o.MUZ">
+      <uzo tip="fak">MUZ</uzo>
+      <dif>
+        Klaso de muzikiloj kun sama &gcirc;enerala konstruo,
+        diversaj la&ubreve; grando, sonamplekso a&ubreve; aliaj detaloj:
+        <ekz>
+          La angla korno estas ligna blovinstrumento,
+          la alda instrumento el la <tld/>o de hobojoj
+          <fnt>
+            <bib>Viki</bib>,
+            <lok><url ref="http://eo.wikipedia.org/wiki/Angla_korno">
+            Angla korno</url>, 2011-08-07</lok>
+          </fnt>.                        
+        </ekz>
+      </dif>
+    </subsnc>
+    <subsnc mrk="famili.0o.GRA">
+      <uzo tip="fak">LIN</uzo>
+      <dif>
+        Klaso de lingvoj, 
+        <ref tip="dif" cel="famili.lingvo0o.LIN">lingvo<tld/>o</ref>.
+        <ekz>
+          lingvoj de la hinde&ubreve;ropa <tld/>o.
+        </ekz>
+      </dif>
+    </subsnc>
+    <subsnc mrk="famili.0o.bildigo">
+      <uzo tip="fak">MAT</uzo>
+      <fnt><bib>EKV</bib><lok>&para;171</lok></fnt>
+      <uzo tip="klr">(fakula &jcirc;argono)</uzo>
+      <dif>
+        <klr>(de elementoj en aro <frm><g>E</g></frm> kun indicoj
+        en aro <frm><g>I</g></frm>)
+        </klr>
+        <ref tip="sin" cel="bild.0igo.MAT">Bildigo</ref> de
+        <frm><g>I</g></frm>
+        al <frm><g>E</g></frm>; alternative: la bildaro de tiu bildigo.
+      </dif>
+      <ref tip="sub" cel="vic.0o.MAT">vico;</ref>
+      <refgrp tip="vid">
+        <ref cel="indic.0o.familio">indico</ref>,
+        <ref cel="term.0o.vico">termo</ref>.
+      </refgrp>
+      <rim>
+        Kvankam teorie sinonima kun <ctl>bildigo</ctl>, la termino
+        <ctl><tld/>o</ctl> estas uzata pro tradicio kaj pro la
+        oportunaj skriba&jcirc;oj, kiujn &gcirc;i ebligas. Por
+        signi <tld/>on <frm><k>f</k></frm>, oni kutime skribas
+        <frm>(<k>f</k><sub><k>i</k></sub>)<sub><k>i</k>&#8712;<g>I</g>
+        </sub></frm>.
+        La bildon de <frm><k>i</k></frm> per <frm><k>f</k></frm> oni
+        foje
+        nomas
+        <ctl>termo</ctl> a&ubreve; e&ccirc; <ctl>elemento</ctl> de la
+        <tld/>o kaj oni &gcirc;in signas per <frm><k>f</k><sub><k>i</k>
+        </sub></frm>
+        anstata&ubreve; <frm><k>f</k>(<k>i</k>)</frm>.
+        La uzo de termino <ctl>elemento</ctl> klari&gcirc;as per tio, ke
+        parolante pri <tld/>o, oni plejofte interesi&gcirc;as pri
+        &gcirc;ia bildaro, sed familio povas havi du identajn elementojn,
+        dum aro ne povas.
+      </rim>
+      <trd lng="ru">&c_s;&c_je;&c_m;&c_je;&c_j;&c_s;&c_t;&c_v;&c_o;</trd>
+    </subsnc>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_ja;&c_m;'&c_ja;</trd>,
+    <trd>&c_s;&c_ja;&c_m;&c_je;&c_j;&c_s;&c_t;&c_v;&c_a;</trd>
+  </trdgrp>
+  <trd lng="bg">&c_s;&c_je;&c_m;&c_je;&c_j;&c_s;&c_t;&c_v;&c_o;</trd>
+  <trdgrp lng="cs">
+    <trd>rodina</trd>,
+    <trd>soubor (členů)</trd>,
+    <trd>soustava <klr>(členů)</klr></trd>,
+    <trd>systém</trd>
+  </trdgrp>
+  <trd lng="de">Familie</trd>
+  <trd lng="en">family</trd>
+  <trd lng="es">familia</trd>
+  <trd lng="fa">&a_kh;&a_A;&a_n;&a_w;&a_A;&a_d;&a_h;</trd>
+  <trd lng="fr">famille</trd>
+  <trd lng="he">&mem;&shin;&pe;&het;&he;</trd>
+  <trd lng="hu">csal&aacute;d</trd>
+  <trd lng="nl">familie</trd>
+  <trd lng="no">familie</trd>
+  <trd lng="pl">rodzina</trd>
+  <trd lng="pt">fam&iacute;lia</trd>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_je;&c_m;&c_mol;&c_ja;</trd>,
+    <trd>&c_s;&c_je;&c_m;&c_je;&c_j;&c_s;&c_t;&c_v;&c_o;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>súbor (členov)</trd>,
+    <trd>sústava <klr>(členov)</klr></trd>
+  </trdgrp>
+  <trd lng="tr">aile</trd>
+</drv>
+
+<drv mrk="famili.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="famili.0a.GEN">
+    <dif>
+      Rilata al <tld/>o; de <tld/>o:
+      <ekz>
+        <tld/>a domo, vivo, simileco<fnt>B</fnt>;
+      </ekz>
+      <ekz>
+        <tld/>aj &gcirc;ojoj,
+      </ekz>
+      <ekz>
+        <ind><tld/>a nomo</ind>.
+        <trd lng="pl">nazwisko</trd>
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_ja;&c_m;&c_je;&c_j;&c_n;&c_y;</trd>
+  <trd lng="bg">&c_f;&c_a;&c_m;&c_i;&c_l;&c_je;&c_n;</trd>
+  <trd lng="cs">rodinný</trd>
+  <trdgrp lng="de">
+    <trd>Familien-</trd>
+    <trd>famili&auml;r</trd>
+  </trdgrp>
+  <trd lng="en">family</trd>
+  <trd lng="es">familiar</trd>
+  <trd lng="fa">&a_kh;&a_A;&a_n;&a_w;&a_A;&a_d;&f_g;&f_y;</trd>
+  <trd lng="fr">familial</trd>
+  <trd lng="he">&mem;&shin;&pe;&het;&tav;&yod;</trd>
+  <trd lng="hu">csal&aacute;di</trd>
+  <trd lng="nl">gezins-</trd>
+  <trd lng="no">familie-</trd>
+  <trd lng="pl">rodzinny</trd>
+  <trd lng="ru">&c_s;&c_je;&c_m;&c_je;&c_j;&c_n;&c_y;&c_j;</trd>
+  <trd lng="sk">rodinný</trd>
+</drv>
+
+<drv mrk="famili.0ano">
+  <kap><tld/>ano</kap>
+  <snc mrk="famili.0.ano.GEN">
+    <uzo tip="fak">GEN</uzo>
+    <dif>
+      Iu el la uloj, kiuj konsistigas <tld/>on:
+      <ekz>
+        Zhai Feng kaj liaj <tld/>anoj &ccirc;iuj sin
+        vestis per sav-ve&scirc;to
+        <fnt>
+          <aut>Lin Xiaoyun</aut>,
+          <vrk><url ref="">
+          Zhai Feng kaj liaj familianoj vel&scirc;ipadis...</url></vrk>,
+          <lok>El Popola &Ccirc;inio, 2013-12-27</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>rodinný příslušník</trd>,
+    <trd>člen rodiny</trd>
+  </trdgrp>
+  <trd lng="fr">membre de la famille</trd>
+  <trd lng="sk">rodinný príslušník</trd>
+</drv>
+
+<drv mrk="famili.0estro">
+  <kap><tld/>estro</kap>
+  <snc mrk="famili.0estro.JUR">
+    <uzo tip="fak">JUR</uzo>
+    <dif>
+      Tiu, kiu havas decidrajton kaj respondecon
+      en <tld/>o:
+      <ekz>
+        tio <klr>...</klr> malhelpas, ke <tld/>estro misuzu 
+        sian a&ubreve;toritaton
+        <fnt>
+          <aut>C. Piron</aut>,
+          <vrk><url
+          ref="http://esperanto.org.uk/eldonoj/piron/tekstoj/Tien.html">
+          Tien</url></vrk>,
+          <lok>1997</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">hlava rodiny</trd>
+  <trd lng="fr">chef de famille</trd>
+  <trd lng="sk">hlava rodiny</trd>
+</drv>
+
+<drv mrk="famili.lingvo0o">
+  <kap>lingvo<tld/>o</kap>
+  <snc mrk="famili.lingvo0o.LIN">
+    <uzo tip="fak">LIN</uzo>
+    <dif>
+      Aro de lingvoj evoluintaj el sama pralingvo:
+      <ekz>
+        lingvo<tld/>oj kaj lingvosub<tld/>oj estas priskribitaj a&ubreve; 
+        listigitaj en enciklopedioj
+        <fnt>
+          <aut>A. Kueck</aut>,
+          <vrk><url ref="http://www.ipernity.com/blog/55667/177243">
+          Internacieco de vorto kaj ties uzebleco la&ubreve; Regulo
+          15</url></vrk>,
+          <lok>2009-10-03</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="bg">&c_je;&c_z;&c_i;&c_k;&c_o;&c_v;&c_o; &c_s;&c_je;&c_m;&c_je;&c_j;&c_s;&c_t;&c_v;&c_o;</trd>
+  <trd lng="cs">rodina jazyků</trd>
+  <trd lng="en">language family</trd>
+  <trd lng="fr">famille linguistique</trd>
+  <trd lng="nl">taalfamilie</trd>
+  <trd lng="sk">rodina jazykov</trd>
+</drv>
+</art>
+<!--
+$Log: famili.xml,v $
+Revision 1.40  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.39  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.38  2014/07/01 12:10:13  revo
+Damien Brucker: +ekz
+
+Revision 1.37  2014/01/24 02:10:21  revo
+Jeromo Vasxe: + ~ano/estro
+
+Revision 1.36  2014/01/10 15:10:14  revo
+Joop Eggen: +trd bg
+
+Revision 1.35  2013/08/25 18:10:12  revo
+Wolfram Diestel: referencoj al listo bot familio/zoo familioj
+
+Revision 1.34  2013/08/25 17:10:09  revo
+Wolfram Diestel: referencoj al listo bot familio/zoo familioj
+
+Revision 1.33  2012/07/20 18:10:07  revo
+Jeromo Vasxe: + snc muz, snc bio reverkis rim
+
+Revision 1.32  2010/11/04 17:30:57  revo
+Jeromo Vasxe: + lingvo~o, ~o snc/subsnc
+
+Revision 1.31  2010/02/21 17:30:27  revo
+-->
+</vortaro>

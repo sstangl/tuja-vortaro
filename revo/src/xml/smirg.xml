@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: smirg.xml,v 1.14 2015/07/04 08:37:43 revo Exp $">
+<kap>
+  <rad>smirg</rad>/o <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="smirg.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="smirg.0o.MIN">
+    <uzo tip="fak">MIN</uzo>
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      Nepura korundo miksita kun kvarco kaj aliaj mineraloj kaj kies
+      pulvoro estas uzata por glatigi a&ubreve; poluri metalojn, a&ubreve; malpoluri
+      la
+      vitron.
+    </dif>
+  </snc>
+  <trd lng="be">&c_n;&c_a;&c_zh;&c_d;&c_a;&c_k;</trd>
+  <trd lng="cs">smirek</trd>
+  <trd lng="de">Schmirgel</trd>
+  <trd lng="en">emery</trd>
+  <trd lng="fa">&a_s;&a_n;&a_b;&a_A;&a_d;&a_h;</trd>
+  <trd lng="fr">&eacute;meri</trd>
+  <trd lng="hu">smirgel</trd>
+  <trd lng="nl">amaril</trd>
+  <trd lng="ru">&c_n;&c_a;&c_zh;&c_d;&c_a;&c_k;</trd>
+  <trd lng="sk">šmirgeľ</trd>
+</drv>
+
+<drv mrk="smirg.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="smirg.0i.TEK">
+    <dif>
+      Poluri, glatigi a&ubreve; malpoluri per <tld/>o.
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>brousit smirkem</trd>,
+    <trd>leštit smirkem</trd>,
+    <trd>smirkovat</trd>
+  </trdgrp>
+  <trd lng="de">schmirgeln</trd>
+  <trdgrp lng="en">
+    <trd>grind with emery</trd>,
+    <trd>polish with emery</trd>,
+    <trd>rub with emery</trd>
+  </trdgrp>
+  <trd lng="fa">&a_s;&a_n;&a_b;&a_A;&a_d;&a_h; &a_z;&a_d;&a_n;</trd>
+  <trd lng="fr">abraser</trd>
+  <trdgrp lng="hu">
+    <trd>csiszol <klr tip="ind">(smirglivel)</klr></trd>,
+    <trd>smirgliz</trd>
+  </trdgrp>
+  <trd lng="nl">gladschuren</trd>
+  <trd lng="ru">&c_z;&c_a;&c_ch;&c_i;&c_shch;&c_a;&c_t;&c_mol; <ind>&c_n;&c_a;&c_zh;&c_d;&c_a;&c_k;&c_o;&c_m;</ind></trd>
+  <trd lng="sk">šmirgľovať</trd>
+</drv>
+</art>
+<!--
+$Log: smirg.xml,v $
+Revision 1.14  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.13  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.12  2010/04/15 16:30:22  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.11  2009/10/08 16:30:46  revo
+Russ Williams: +trd en
+
+Revision 1.10  2009/05/17 16:31:53  revo
+Jeromo Vasxe: - ~opapero portita al art. paper
+
+Revision 1.9  2007/08/05 16:31:37  revo
+Jeromo Vasxe: + mrk + 1 ekz + trd fr
+
+Revision 1.8 2004/10/18 16:32:43 revo
+Jozefo Horvath: +trd hu
+
+Revision 1.7 2003/01/17 17:32:57 revo
+Zmicier Lapcionak: + trd be
+
+Revision 1.6 2002/02/13 17:33:49 revo
+Yury Finkel: korindo->korundo, +trd ru
+
+Revision 1.5 2001/09/30 19:10:28 revo
+-->
+</vortaro>

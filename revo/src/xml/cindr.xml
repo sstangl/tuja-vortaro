@@ -1,0 +1,247 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: cindr.xml,v 1.27 2015/07/04 08:37:32 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>cindr</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="cindr.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="cindr.0o.KOMUNE">
+    <dif>
+      Grizkolora brulresta&jcirc;o:
+      <ekz>
+        <tld/>oj de ligno, karbo, papero, herboj.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_p;&c_o;&c_p;&c_je;&c_l;</trd>,
+      <trd>&c_p;&c_r;&c_y;&c_s;&c_a;&c_k;</trd>
+    </trdgrp>
+    <trd lng="it">cenere</trd>
+    <trd lng="pl">popi&oacute;&lstroke;</trd>
+    <trdgrp lng="ru">
+      <trd>&c_p;&c_je;&c_p;&c_je;&c_l;</trd>,
+      <trd>&c_z;&c_o;&c_l;&c_a;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="cindr.0o.FUN">
+    <dif>
+      Korporesta&jcirc;o de la mortintoj:
+      <ekz>
+        paco al lia <tld/>o<fnt><bib>PrV</bib></fnt>!
+      </ekz>
+    </dif>
+    <trd lng="be">&c_p;&c_r;&c_a;&c_h;</trd>
+    <trd lng="ca">cendres</trd>
+    <trd lng="it">ceneri</trd>
+    <trdgrp lng="pl">
+      <trd>proch<klr> {sing.}</klr></trd>,
+      <trd>prochy<klr> {pl.}</klr></trd>
+    </trdgrp>
+    <trd lng="ru">&c_p;&c_r;&c_a;&c_h;</trd>
+  </snc>
+    <snc mrk="cindr.0o.BRULEJO">
+    <dif>
+      Postresta&jcirc;o de <ref tip="vid"
+      cel="brul.0ego.KOMUNE">brulego</ref>:
+    </dif>
+    <trdgrp lng="pl">
+      <trd>zgliszcze<klr> {sing.}</klr></trd>,
+      <trd>zgliszcza<klr> {pl.}</klr></trd>
+    </trdgrp>
+  </snc>
+  <trd lng="br">ludu</trd>
+  <trd lng="ca">cendra</trd>
+  <trd lng="cs">popel</trd>
+  <trd lng="de">Asche</trd>
+  <trd lng="el">&sigma;&tau;&alfa_ton;&chi;&tau;&eta;</trd>
+  <trdgrp lng="en">
+    <trd>cinder</trd>,
+    <trd>cinders</trd>,
+    <trd>ash</trd>,
+    <trd>ashes</trd>
+  </trdgrp>
+  <trd lng="es">ceniza</trd>
+  <trd lng="fr">cendre</trd>
+  <trd lng="hu">hamu</trd>
+  <trd lng="id">abu</trd>
+  <trd lng="pt">cinza(s)</trd>
+  <trd lng="sk">popol</trd>
+  <trd lng="sv">aska</trd>
+</drv>
+
+<drv mrk="cindr.0igi">
+  <kap><tld/>igi</kap>
+  <snc mrk="cindr.0igi.KOMUNE">
+    <dif>
+      Meti per brulo en staton de <tld/>o, tute forbruligi:
+      <ekz>
+        domo <tld/>igita de brulego;
+      </ekz>
+      <ekz>
+        <ind><tld/>igi kadavron</ind>
+        <trd lng="en">cremate</trd>
+        <trd lng="it">cremare un cadavere</trd>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_p;&c_a;&c_p;&c_ja;&c_l;&c_ib;&c_c;&c_mol;</trd>
+  <trd lng="br">ludua&ntilde;</trd>
+  <trdgrp lng="ca">
+    <trd>carbonitzar</trd>,
+    <trd>calcinar</trd>,
+    <trd>reduir a cendres</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>incinerovat</trd>,
+    <trd>pohřbít žehem</trd>,
+    <trd>spálit</trd>,
+    <trd>zpopelnit</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>niederbrennen</trd>,
+    <trd>ein&auml;schern</trd>
+  </trdgrp>
+  <trd lng="el">&alfa;&pi;&omikron;&tau;&epsilon;&phi;&omega_ton;&ny;&omega;</trd>
+  <trdgrp lng="en">
+    <trd>reduce to ashes</trd>,
+    <trd>incinerate</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>incin&eacute;rer</trd>,
+    <trd>r&eacute;duire en <ind>cendres</ind></trd>
+  </trdgrp>
+  <trd lng="hu">elhamvaszt</trd>
+  <trd lng="it">incenerire</trd>
+  <trdgrp lng="pl">
+    <trd>spopiela&cacute;</trd>,
+    <trd>obraca&cacute; w <ind>popi&oacute;&lstroke;</ind></trd>
+  </trdgrp>
+  <trd lng="pt">incinerar</trd>
+  <trdgrp lng="ru">
+    <trd>&c_i;&c_s;&c_p;&c_je;&c_p;&c_je;&c_l;&c_i;&c_t;&c_mol;</trd>,
+    <trd>&c_p;&c_r;&c_je;&c_v;&c_r;&c_a;&c_t;&c_i;&c_t;&c_mol; &c_v;
+    <ind>&c_p;&c_je;&c_p;&c_je;&c_l;</ind></trd>
+  </trdgrp>
+  <trd lng="sk">kalcinovať</trd>
+</drv>
+
+<drv mrk="cindr.0ujo">
+  <kap><tld/>ujo</kap>
+  <snc mrk="cindr.0ujo.tabaka">
+    <dif>
+      Vazeto por kolekti la tabak<tld/>on.
+    </dif>
+    <trd lng="de">Aschenbecher</trd>
+    <trd lng="el">&sigma;&tau;&alfa;&chi;&tau;&omikron;&theta;&eta_ton;&kappa;&eta;</trd>
+    <trdgrp lng="en">
+      <trd>ashtray</trd>,
+      <trd>ash tray</trd>
+    </trdgrp>
+    <trd lng="es">cenicero</trd>
+    <trd lng="hu">hamutart&oacute;</trd>
+    <trd lng="pl">popielniczka</trd>
+    <trd lng="pt">cinzeiro</trd>
+    <trd lng="ru">&c_p;&c_je;&c_p;&c_je;&c_l;&c_mol;&c_n;&c_i;&c_c;&c_a;</trd>
+    <trd lng="sv">askfat</trd>
+  </snc>
+  <snc mrk="cindr.0ujo.forna">
+    <dif>
+      Kesto en forno, kien kolekti&gcirc;as la <tld/>o.
+    </dif>
+    <trd lng="en">ash pan</trd>
+    <trd lng="hu">hamul&aacute;da</trd>
+    <trd lng="pl">popielnik</trd>
+    <trdgrp lng="ru">
+      <trd>&c_z;&c_o;&c_l;&c_mol;&c_n;&c_i;&c_k;</trd>,
+      <trd>&c_p;&c_o;&c_d;&c_d;&c_u;&c_v;&c_a;&c_l;&c_o;</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="br">ludueg</trd>
+  <trd lng="ca">cendrer</trd>
+  <trdgrp lng="cs">
+    <trd>popelnice</trd>,
+    <trd>popelník</trd>
+  </trdgrp>
+  <trd lng="fr">cendrier</trd>
+  <trd lng="id">asbak</trd>
+  <trd lng="sk">popolník</trd>
+</drv>
+
+<drv mrk="cindr.0ulino">
+  <kap><tld/>ulino<fnt>Z</fnt></kap>
+  <snc mrk="cindr.0ulino.PERS">
+    <dif>
+      Malpura servistino:
+      <ekz>
+        kiam &scirc;i estis farinta laboron, &scirc;i metis sin en
+        angulon de
+        l' kameno, kaj sidi&gcirc;is en la <tld/>o: pro tio, oni
+        ordinare &scirc;in
+        nomis: <ind><tld lit="C"/>ulino</ind>
+        <fnt>
+        <aut>C. Perrault, trad. P. Sarpy</aut>,
+        <vrk>Cindrulino</vrk>,
+        <lok>
+<url ref="http://eo.wikibooks.org/wiki/Rakontoj_pri_Feinoj">Rakontoj
+        pri feinoj</url>, Hachette, 1904</lok></fnt>.
+        <trd lng="ca">la Ventafocs</trd>
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_P;&c_a;&c_p;&c_ja;&c_l;&c_u;&c_sh;&c_k;&c_a;</trd>
+  <trd lng="br">Luduenn(ig)</trd>
+  <trd lng="ca">ventafocs</trd>
+  <trd lng="cs">nečistá služebnice</trd>
+  <trd lng="de">Aschenputtel</trd>
+  <trd lng="en">Cinderella</trd>
+  <trd lng="es">Cenicienta</trd>
+  <trd lng="fr">Cendrillon</trd>
+  <trd lng="hu">hamupip&odblac;ke</trd>
+  <trd lng="id">Upik Abu</trd>
+  <trd lng="it">Cenerentola</trd>
+  <trd lng="pl">Kopciuszek</trd>
+  <trd lng="pt">Cinderela</trd>
+  <trd lng="ru">&c_Z;&c_o;&c_l;&c_u;&c_sh;&c_k;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>nečistá slúžka</trd>,
+    <trd>popolu&scaron;ka</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: cindr.xml,v $
+Revision 1.27  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.26  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.25  2014/06/02 15:10:19  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.24  2012/08/26 20:10:09  revo
+Marc Rausell: + trd ca
+
+Revision 1.23  2009/09/06 16:30:31  revo
+Russ Williams: +trd en
+
+Revision 1.22  2009/08/14 16:30:31  revo
+Antonio Codazzi: +trd it
+
+Revision 1.21  2009/04/17 19:49:50  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.20  2007/06/16 16:30:29  revo
+Wieland Pusch: +trd de
+
+Revision 1.19  2006/11/09 17:30:24  revo
+Jeromo Vasxe: + 1 ekz + 1 trd fr
+
+Revision 1.18 2005/03/20 17:51:01 revo
+-->
+</vortaro>

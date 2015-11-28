@@ -1,0 +1,131 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: luk.xml,v 1.18 2015/07/04 08:37:38 revo Exp $">
+<kap>
+  <ofc>8</ofc>
+  <rad>luk</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="luk.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="luk.0o.ARKI">
+    <uzo tip="fak">ARKI</uzo>
+    <uzo tip="fak">SHI</uzo>
+    <dif>
+      Apertureto en tegmento a&ubreve; plafono por allasi la lumon en la
+      internon:
+      <ekz>
+        subtegmentaj &ccirc;ambroj havas ofte <tld/>ojn;
+      </ekz>
+      <ekz>
+        la &scirc;ipkajutoj &gcirc;enerale havas <tld/>ojn kaj ne fenestrojn.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_l;&c_ju;&c_k;</trd>,
+      <trd>&c_ib;&c_l;&c_ju;&c_m;&c_ib;&c_n;&c_a;&c_t;&c_a;&c_r;</trd>
+    </trdgrp>
+    <trd lng="el">&phi;&epsilon;&gamma;&gamma;&jota_ton;&tau;&eta;&sigma_fina;</trd>
+    <trdgrp lng="de">
+      <trd>Dachfenster</trd>,
+      <trd>Deckenfenster</trd>,
+      <trd>Mansardenfenster</trd>,
+      <trd>Luke</trd>,
+      <trd>Dachluke</trd>
+    </trdgrp>
+    <trd lng="en">port hole</trd>
+    <trdgrp lng="es">
+      <trd>claraboya</trd>,
+      <trd>lucera</trd>,
+      <trd>lucernario</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>oculus</trd>,    
+      <trd>&oelig;il de b&oelig;uf</trd>,
+      <trd>sabord</trd>,
+    </trdgrp>    
+    <trdgrp lng="hu">
+      <trd>tet&odblac;ablak</trd>,
+      <trd>vil&aacute;g&iacute;t&oacute;ny&iacute;l&aacute;s</trd>
+    </trdgrp>
+    <trdgrp lng="nl">
+      <trd>luik</trd>,
+      <trd>dakraam</trd>
+    </trdgrp>
+    <trd lng="pt">clarab&oacute;ia</trd>
+    <trdgrp lng="ru">
+      <trd>&c_l;&c_ju;&c_k;</trd>,
+      <trd>&c_i;&c_l;&c_l;&c_ju;&c_m;&c_i;&c_n;&c_a;&c_t;&c_o;&c_r;</trd>
+    </trdgrp>
+    <trdgrp lng="sv">
+      <trd>lukarn</trd>,
+      <trd>taklucka</trd>,
+      <trd>takf&ouml;nster</trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>střešní okno</trd>,
+    <trd>světlík</trd>,
+    <trd>vikýř</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>strešné okienko</trd>,
+    <trd>výzorník</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="luk.kel0o">
+  <kap>kel<tld/>o</kap>
+  <snc mrk="luk.kel0o.ARKI">
+    <uzo tip="fak">ARKI</uzo>
+    <dif>
+      <ref tip="super" cel="luk.0o.ARKI"><tld lit="L"/>o</ref>
+      kiu interne prilumas kelan spacon malfermi&gcirc;ante apud &gcirc;ia plafono,
+      kaj ekstere malfermi&gcirc;as &ccirc;e la grundo:
+      <ekz>
+        dum sia metilernado li falis en kel<tld/>on kaj de tiam havis 
+        kriplan kruron
+        <fnt>
+          <bib>Viki</bib>,
+          <lok><url ref="http://eo.wikipedia.org/wiki/Georges_Lagrange">
+          Georges Lagrange</url>, 2014-08-17</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">soupirail</trd>
+</drv>
+</art>
+<!--
+$Log: luk.xml,v $
+Revision 1.18  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:33:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.16  2015/01/20 23:10:19  revo
+Jeromo Vasxe: + kel~o
+
+Revision 1.15  2012/07/03 10:10:10  revo
+Axel Rousseau: +trd fr
+
+Revision 1.14  2009/02/19 20:26:20  revo
+Jerano Zachrisson: +trd sv
+
+Revision 1.13  2008/08/29 16:30:24  revo
+Jozefo Horvath: kor. trd hu
+
+Revision 1.12  2003/05/13 16:33:42  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.11  2002/11/10 11:43:11  revo
+Ulrich Fellmann: + 5 trd de
+
+Revision 1.10  2002/09/13 16:36:55  revo
+Eduardo M. Kalinowski: ald trd el, pt
+
+Revision 1.9  2002/07/14 17:32:37  revo
+-->
+</vortaro>

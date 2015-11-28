@@ -1,0 +1,176 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+  <art mrk="$Id: bufr.xml,v 1.21 2015/07/04 08:37:31 revo Exp $">
+    <kap>
+      <rad>bufr</rad>/o
+      <fnt>Z</fnt>
+    </kap>
+    <drv mrk="bufr.0o">
+      <kap><tld/>o</kap>
+      <uzo tip="fak">FER</uzo>
+      <snc mrk="bufr.0o.TEK">
+        <uzo tip="fak">TEK</uzo>
+        <dif>
+          Pu&scirc;risortego por moderigi la kunpu&scirc;i&gcirc;ojn de
+          vagonoj.  
+        </dif>
+        <trd lng="es">tope<klr> (amortiguador entre vagones)</klr></trd>
+        <trd lng="fr">tampon <klr tip="ind">(amortisseur)</klr></trd>
+        <trd lng="hu">&uuml;tk&ouml;z&odblac;</trd>
+        <trd lng="it">respingente<klr> (ferr.)</klr></trd>
+        <trdgrp lng="pl">
+          <trd>bufor</trd>,
+          <trd>zderzak</trd>
+        </trdgrp>
+      </snc>
+      <snc mrk="bufr.0o.AUT">
+        <uzo tip="fak">AUT</uzo>
+        <dif>
+          Horizontala stango, kiu mildigas la dama&gcirc;ojn 
+          en kazo de kolizio, muntita kaj &ccirc;e la anta&ubreve;o kaj 
+          &ccirc;e la malanta&ubreve;o de la veturilo.          
+        </dif>
+      <trd lng="es">parachoques</trd>
+      <trd lng="it">paraurti</trd>
+      <trd lng="nl">bumper</trd>
+      </snc>
+      <snc mrk="bufr.0o.KOMP">
+        <uzo tip="fak">KOMP</uzo>
+        <dif>
+          <ref tip="super" cel="memor.0o.KOMP">Memoro</ref> por
+          provizora konservado de datumoj, precipe &ccirc;e kunlaboro de
+          diversrapidaj traktiloj.          
+        </dif>
+       <trd lng="es">b&uacute;fer</trd>
+        <trd lng="sk">vyrovn&aacute;vacia <ind>pam&auml;&tcaron;</ind>
+        </trd>
+        <trdgrp lng="hu">
+           <trd>&aacute;tmeneti <ind>t&aacute;r</ind></trd>,
+           <trd>puffer</trd></trdgrp>
+        <trdgrp lng="it">
+           <trd>buffer</trd>,
+           <trd><ind>memoria</ind> tampone</trd>, 
+           <trd><ind>memoria</ind> ausiliaria</trd>
+         </trdgrp>
+         <trd lng="nl">buffer</trd>
+      </snc>
+     <snc mrk="bufr.0o.ELET">
+        <uzo tip="fak">ELE</uzo>
+        <uzo tip="fak">ELET</uzo>
+        <dif>
+        Ilo kiu konektas aparatojn kaj kondukilojn kun malsamaj elektraj
+        
+        rezistancoj a&ubreve; kiu stokas provizore energion por poste 
+        liveri &gcirc;in pli rapide.    
+        </dif>
+        <trd lng="es">condensador el&eacute;ctrico</trd>
+        <trdgrp lng="it">
+           <trd>buffer</trd>,
+           <trd>tampone</trd></trdgrp>
+           <trd lng="nl">condensator</trd>
+        </snc>
+      <snc mrk="bufr.0o.POL">
+        <uzo tip="fak">POL</uzo>
+        <dif>
+        Geografia zono a&ubreve; ne&ubreve;trala &scirc;tato inter du 
+        malamikaj a&ubreve; konfliktantaj &scirc;tatoj:       
+        </dif>
+       <ekz><ind><tld/>ozono</ind>
+      <fnt><bib>viki</bib><lok>
+      <url ref="http://eo.wikipedia.org/wiki/Bufrozono">
+          bufrozono</url></lok></fnt>, 
+       <trd lng="es"><ind>zona</ind> neutral</trd>
+       <trd lng="it"><ind>area</ind> cuscinetto</trd>
+       <trd lng="nl">bufferzone</trd>
+       <trd lng="pl">strefa buforowa</trd>
+       </ekz>
+       <ekz>
+       <ind><tld/>o&scirc;tato</ind>
+       <fnt><bib>viki</bib><lok>
+      <url ref="http://eo.wikipedia.org/wiki/Bufro%C5%9Dtato">
+          bufro&scirc;tato</url></lok></fnt>
+       <trd lng="es">estado neutral</trd>
+       <trd lng="it"><ind>stato</ind> cuscinetto</trd>
+       <trd lng="pl">pa&nacute;stwo buforowe</trd>
+       <trd lng="nl">bufferstaat</trd>
+       <trd lng="ro">stat tampon</trd>
+       </ekz>
+      <trd lng="es">zona desmilitarizada</trd>
+      <trd lng="it">cuscinetto</trd>
+      <trd lng="nl">buffer</trd>
+      </snc>
+  <trd lng="be">&c_b;&c_u;&c_f;&c_e;&c_r;</trd>
+  <trd lng="cs">vyrovnávací paměť</trd>
+  <trdgrp lng="en">
+         <trd>buffer</trd>,
+         <trd>bumper</trd>
+      </trdgrp>
+  <trdgrp lng="pl">
+        <trd>bufor</trd>,
+        <trd>pami&eogonek;&cacute;<klr tip="amb"> (buforowa)</klr>
+        </trd>
+      </trdgrp>
+  <trd lng="ru">&c_b;&c_u;&c_f;&c_je;&c_r;</trd>
+  <trd lng="sk">vyrovnávacia pamäť</trd>
+</drv>
+  </art>
+  <!--
+  $Log: bufr.xml,v $
+  Revision 1.21  2015/07/04 08:37:31  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.20  2015/06/29 16:29:36  revo
+  aldono de trd sk per skripto de M. von Laer
+
+  Revision 1.19  2014/11/04 21:10:17  revo
+  Filip van Laenen: +trd nl
+
+  Revision 1.18  2014/08/30 07:10:10  revo
+  Guillermo Molleda Jimena: trd es
+
+  Revision 1.17  2013/09/06 19:10:40  revo
+  Vito Redsky: +trd pl, ro
+
+  Revision 1.16  2009/04/05 16:30:33  revo
+  Antonio Codazzi: +trd it; +fak AUT, ELE, ELET, POL
+
+  Revision 1.15  2008/05/12 17:55:35  revo
+  Sebastian Cyprych: kor trd pl
+
+  Revision 1.14  2006/05/24 16:31:38  revo
+  Vito Redsky: +trd pl
+
+  Revision 1.13  2006/01/09 17:34:33  revo
+  Raul Salinas Monteagudo: +trd es
+
+  Revision 1.12  2003/12/03 17:31:18  revo
+  Dmitri Gabinski: +trd be
+
+  Revision 1.11  2003/07/14 16:32:55  revo
+  Marc Bavant: kor ref cel memoro
+
+  Revision 1.10  2003/05/15 16:32:59  revo
+  Christopher Zervic: + ang
+
+  Revision 1.9  2003/03/20 17:31:18  revo
+  Jozefo Horvath: +trd hu
+
+  Revision 1..8  2002/09/10 17:33:56  revo
+  Viliam Bur: +trd sk
+
+  Revision 1.7  2001/09/28 18:15:03  revo
+  Jerome Vachey: + fak fer
+
+  Revision 1.6  2001/08/02 18:12:22  revo
+  Sergio Pokrovskij: KOMP; trd=en
+
+  Revision 1.5  2001/02/20 17:14:28  revo
+  Marc Bavant: +trd fr, +uzo TEK
+
+  Revision 1.4  2000/09/21 16:12:04  revo
+  Yury Finkel: +rusa trd
+
+  -->
+</vortaro>

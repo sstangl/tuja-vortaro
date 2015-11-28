@@ -1,0 +1,150 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: lul.xml,v 1.19 2015/07/04 08:37:38 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>lul</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="lul.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="lul.0i.MOV">
+    <dif>
+      Balanceti infaneton por &gcirc;in dormigi:
+      <ekz>
+        <tld/>i iun al la dormo<fnt>B</fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="es">
+      <trd>acunar</trd>,
+      <trd>mecer</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="lul.0i.balanceti">
+    <dif>
+      <ref tip="vid" cel="balanc1.0i">Balanceti</ref>:
+      <ekz>
+        la ondoj sen&ccirc;ese pla&ubreve;detadis <tld/>e, harmonie;
+      </ekz>
+      <ekz>
+        <tld/>a pa&scirc;ado.
+      </ekz>
+    </dif>
+    <trd lng="es">mecer</trd>
+  </snc>
+  <snc mrk="lul.0i.kvietigi">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Kvietigi, kvaza&ubreve;dormigi:
+      <ekz>
+        <tld/>i sian &ccirc;agrenon;
+      </ekz>
+      <ekz>
+        <tld/>i sin en revoj
+        <klr>(volonte kontenti&gcirc;i per nuraj esperoj)</klr>.
+      </ekz>
+    </dif>
+    <trdgrp lng="es">
+      <trd>calmar</trd>,
+      <trd>arrullar</trd>,
+      <trd>adormecer</trd>,
+      <trd>sosegar</trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_k;&c_a;&c_l;&c_y;&c_h;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_l;&c_ju;&c_l;&c_ja;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="bg">&c_l;&c_ju;&c_l;&c_je;&c_ja;</trd>
+  <trd lng="br">luskella&ntilde;</trd>
+  <trd lng="cs">kolébat</trd>
+  <trd lng="de">wiegen</trd>
+  <trdgrp lng="en">
+    <trd>lull</trd>,
+    <trd>cradle</trd>
+  </trdgrp>
+  <trd lng="fr">bercer</trd>
+  <trdgrp lng="hu">
+    <trd>ringat</trd>,
+    <trd>elringat</trd>
+  </trdgrp>
+  <trd lng="nl">wiegen</trd>
+  <trd lng="pt">embalar</trd>
+  <trdgrp lng="ru">
+    <trd>&c_u;&c_k;&c_a;&c_ch;&c_i;&c_v;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_u;&c_b;&c_a;&c_ju;&c_k;&c_i;&c_v;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_b;&c_a;&c_ju;&c_k;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>hojdať</trd>,
+    <trd>kývať</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="lul.0ilo">
+  <kap><tld/>ilo</kap>
+  <snc mrk="lul.0ilo.MEBL">
+    <dif>
+      Infan<ref tip="super" cel="lit.0o.MEBL">lito</ref> balancebla, 
+      per kiu oni povas <tld/>i.
+    </dif>
+    <trd lng="ru">&c_l;&c_ju;&c_l;&c_mol;&c_k;&c_a;</trd>
+  </snc>
+  <snc mrk="lul.0ilo.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Naski&gcirc;ejo, kovejo:
+      <ekz>
+        Egiptujo, <tld/>ilo de la civilizacio<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_k;&c_a;&c_l;&c_y;&c_s;&c_k;&c_a;</trd>
+  <trd lng="bg">&c_l;&c_ju;&c_l;&c_k;&c_a;</trd>
+  <trd lng="br">kavell<klr tip="ind"> (gwele)</klr></trd>
+  <trd lng="cs">kolébka</trd>
+  <trd lng="de">Wiege</trd>
+  <trd lng="en">cradle</trd>
+  <trd lng="es">cuna</trd>
+  <trd lng="fr">berceau</trd>
+  <trd lng="hu">b&ouml;lcs&odblac;</trd>
+  <trd lng="nl">wieg</trd>
+  <trd lng="pt">ber&ccedil;o</trd>
+  <trd lng="ru">&c_k;&c_o;&c_l;&c_y;&c_b;&c_je;&c_l;&c_mol;</trd>
+  <trd lng="sk">kolíska</trd>
+</drv>
+</art>
+<!--
+$Log: lul.xml,v $
+Revision 1.19  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:33:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2014/04/13 19:10:15  revo
+Joop Eggen: +trd bg en
+
+Revision 1.16  2014/02/11 10:10:12  revo
+Carlos Garcia: trd+ es -i
+
+Revision 1.15  2009/11/07 17:30:48  revo
+Jeromo Vasxe: - ~kanto/segxo portitaj al resp. art.
+
+Revision 1.14 2005/04/16 16:31:49 revo
+Alan ar Gall: +trd br, fr
+
+Revision 1.13 2004/06/06 18:46:27 revo
+Jozefo Horvath: +trd hu
+
+Revision 1.12 2003/05/13 16:33:51 revo
+Dmitri Gabinski: +trd be
+
+Revision 1.11 2002/10/21 16:35:49 revo
+Ulrich Fellmann: + 4 trd de
+
+Revision 1.10 2002/09/13 16:36:42 revo
+-->
+</vortaro>

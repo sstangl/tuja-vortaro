@@ -1,0 +1,586 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: konfor.xml,v 1.31 2015/07/04 08:37:37 revo Exp $">
+<kap>
+  <ofc>*</ofc> <rad>konform</rad>/a <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="konfor.0a">
+  <kap><ofc>*</ofc><tld/>a</kap>
+  <snc mrk="konfor.0a.KOMUNE">
+    <dif>
+      Ekzakte <ref tip="vid" cel="laux.0a">la&ubreve;a</ref>:
+    </dif>
+    <subsnc mrk="konfor.0a.samforma">
+      <dif>
+        forme tre simila al alia objekto konsiderata kiel modelo:
+        <ekz>
+          kopio <tld/>a al la originalo;
+        </ekz>
+        <ekz>
+          la fizika organizo de la homo estas <tld/>a al tiuj
+          de aliaj mamuloj;
+        </ekz>
+        <ekz>
+          <uzo tip="stl">FIG</uzo>
+          miaj deziroj estos &ccirc;iam <tld/>aj al la viaj;
+        </ekz>
+        <ekz>
+          <uzo tip="stl">FIG</uzo>
+          estas inter ili mirinda <ind><tld/>eco</ind> pri la gustoj kaj
+          la opinioj.
+          <trdgrp lng="fr">
+            <trd>conformit&eacute;</trd>,
+            <trd>concordance</trd>,
+            <trd>correspondance<klr tip="ind">
+            (concordance)</klr></trd>,
+            <trd>identit&eacute;</trd>
+          </trdgrp>
+        </ekz>
+      </dif>
+      <trd lng="de">&uuml;bereinstimmend</trd>
+    </subsnc>
+    <subsnc mrk="konfor.0a.obea">
+      <dif>
+        obea al tio, kion iu ordonis a&ubreve; io trudis:
+        <ekz>
+          mia konduto estis <tld/>a al viaj ordonoj;
+        </ekz>
+        <ekz>
+          niaj agoj estu <tld/>aj al niaj diroj, principoj.
+        </ekz>
+      </dif>
+      <trdgrp lng="de">
+        <trd>entsprechend</trd>,
+        <trd>gleichlautend</trd>,
+        <trd>gem&auml;&szlig;</trd>
+      </trdgrp>
+    </subsnc>
+    <subsnc mrk="konfor.0a.celkonforma">
+      <refgrp tip="dif">
+        <ref cel="konfor.cel0a.KOMUNE">cel<tld/>a</ref>
+      </refgrp>
+      <ekz>
+        tiuj vestoj estas <tld/>aj al vi kaj bone aspektas<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;u liaj konsiloj estas <tld/>aj al la naturaj bezonoj
+        kaj la natura irado de nia lingvo?<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        la profesioj instruista kaj artista montri&gcirc;is
+        <ind>ne<tld/>a</ind>j por vi
+        <fnt><bib>Marta</bib></fnt>;
+        <trdgrp lng="fr">
+          <trd>non <ind>conforme</ind></trd>,
+          <trd>inadapt&eacute;</trd>,
+          <trd>inad&eacute;quat</trd>,
+          <trd>inappropri&eacute;</trd>,
+          <trd>diff&eacute;rent<klr tip="ind"> (de son mod&egrave;le)</klr></trd>,
+          <trd>impropre<klr tip="ind"> (inappropri&eacute;)</klr></trd>,
+          <trd>inopportun<klr tip="ind"> (inappropri&eacute;)</klr></trd>
+        </trdgrp>
+      </ekz>
+      <ekz>
+        stilo <tld/>a al la temo.
+      </ekz>
+      <refgrp tip="sin">
+        <ref cel="adekva.0a.KOMUNE">adekvata<sncref/></ref>
+      </refgrp>
+      <trd lng="de">angemessen</trd>
+    </subsnc>
+    <trdgrp lng="fr">
+      <trd>conforme</trd>,
+      <trd>adapt&eacute;</trd>,
+      <trd>ad&eacute;quat</trd>,
+      <trd>appropri&eacute;</trd>,
+      <trd>concordant</trd>,
+      <trd>correspondant<klr tip="ind"> (adj.)</klr></trd>,
+      <trd>identique<klr tip="ind"> (&agrave; son mod&egrave;le)</klr></trd>,
+      <trd>juste<klr tip="ind"> (appropri&eacute;)</klr></trd>,
+      <trd>propre<klr tip="ind"> (appropri&eacute;)</klr></trd>,
+      <trd>opportun<klr tip="ind"> (appropri&eacute;)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>megfelel&odblac;</trd>,
+      <trd>megegyez&odblac;</trd>
+    </trdgrp>
+    <trd lng="nl">overeenstemmend</trd>
+    <trdgrp lng="es">
+      <trd>conforme</trd>,
+      <trd>correspondiente</trd>,
+      <trd>concordante</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_s;&c_o;&c_o;&c_t;&c_v;&c_je;&c_t;&c_s;&c_t;&c_v;&c_u;&c_ju;&c_shch;&c_i;&c_j;</trd>,
+      <trd>&c_s;&c_o;&c_o;&c_b;&c_r;&c_a;&c_z;&c_n;&c_y;&c_j;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="konfor.0a.angulfidela">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>MatVort</bib></fnt>
+    <dif>
+      <klr>(p.p. <ref cel="form.trans0o.MAT">transformo</ref>)</klr>
+    </dif>
+    <ref tip="dif" cel="angul.0fidela">angulfidela.</ref>
+    <rim>
+      Bricard <fnt><bib>MatTerm</bib>, <lok>p. 37</lok></fnt>
+      donas <ctl><tld/>eca</ctl>, sed havas <ctl><tld/>a</ctl> en la
+      indekso.
+    </rim>
+    <trdgrp lng="de">
+      <trd>&auml;hnlich<klr tip="ind"> (-e Transformation)</klr></trd>,
+      <trd>winkeltreu<klr tip="ind"> (-e Transformation)</klr></trd>,
+      <trd>konform<klr tip="ind"> (-e Transformation)</klr></trd>
+    </trdgrp>
+    <trd lng="en">conformal<klr tip="ind"> (transformation)</klr></trd>
+    <trd lng="fr"><klr tip="ind">(transformation) </klr>conforme</trd>
+    <trdgrp lng="hu">
+      <trd>sz&ouml;gtart&oacute;<klr tip="ind"> (transzform&aacute;ci&oacute;)</klr></trd>,
+      <trd>konformis<klr tip="ind"> (transzform&aacute;ci&oacute;)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd><klr tip="amb">(przekszta&lstroke;cenie) </klr>wiernok&aogonek;tne</trd>,
+      <trd><klr tip="amb">(przekszta&lstroke;cenie) </klr>konforemne</trd>
+    </trdgrp>
+  <trdgrp lng="pt">
+    <trd>conforme</trd>,
+    <trd>adequado</trd>,
+    <trd>apropriado</trd>    
+  </trdgrp>
+    <trd lng="ru">&c_k;&c_o;&c_n;&c_f;&c_o;&c_r;&c_m;&c_n;&c_o;&c_je;<klr tip="amb"> (&c_p;&c_r;&c_je;&c_o;&c_b;&c_r;&c_a;&c_z;&c_o;&c_v;&c_a;&c_n;&c_i;&c_je;)</klr></trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>konformní</trd>,
+    <trd>odpovídající</trd>,
+    <trd>přiměřený</trd>,
+    <trd>shodný</trd>,
+    <trd>vhodný</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>konformný</trd>,
+    <trd>súhlasný</trd>,
+    <trd>zhodný</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="konfor.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="konfor.0i.KOMUNE">
+    <dif>
+      Esti <tld/>a:
+      <ekz>
+        plej ofte <em>la&ubreve;</em> montras ion, al kio io <tld/>as
+        <fnt><lok><url
+        ref="http://purl.oclc.org/net/pmego?d=pmeg/pmeg10/rv_lau.htm">PMEG</url></lok></fnt>;
+      </ekz>
+      <ekz>
+        UEA <klr>...</klr> informu pri la esperantista agado kiu
+        <tld/>as
+        kun la celoj de la koncernaj organiza&jcirc;oj
+        <fnt>
+        <aut>UEA</aut>,
+        <vrk>Gvidlinioj por informado pri Esperanto</vrk>,
+        <bib>LOdE</bib>, <lok>2000, numero 11(73)</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="akord.0i.konveni">akordi</ref>,
+      <ref cel="kongru.0i.KOMUNE">kongrui</ref>
+    </refgrp>
+    <refgrp tip="ant">
+      <ref cel="devi.0i">devii</ref>
+    </refgrp>
+  </snc>
+  <trd lng="cs">být ve shodě</trd>
+  <trdgrp lng="de">
+    <trd>&uuml;bereinstimmen</trd>,
+    <trd>entsprechen</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>conform</trd>,
+    <trd>be in line with</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+      <trd>estar o ser conforme</trd>,
+      <trd>ser correspondiente</trd>,
+      <trd>ser concordante</trd>
+    </trdgrp>
+  <trdgrp lng="fr">
+    <trd>correspondre<klr tip="ind"> (&ecirc;tre en conformit&eacute;)</klr></trd>,
+    <trd>concorder</trd>,
+    <trd>cadrer<klr tip="ind"> (fam., concorder)</klr></trd>,
+    <trd>coller<klr tip="ind"> (fam., concorder)</klr></trd>,
+    <trd>&ecirc;tre <ind>conforme</ind></trd>,
+    <trd>&ecirc;tre <ind>adapt&eacute;</ind></trd>,
+    <trd>&ecirc;tre <ind>appropri&eacute;</ind></trd>,
+    <trd>ob&eacute;ir<klr tip="ind"> (&ecirc;tre conforme)</klr></trd>,
+    <trd>observer<klr tip="ind"> (&ecirc;tre conforme)</klr></trd>,
+    <trd>s'<ind>accorder</ind><klr tip="ind">
+    (correspondre)</klr></trd>,
+    <trd>suivre<klr tip="ind"> (&ecirc;tre conforme)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>megfelel <klr>vminek</klr></trd>,
+    <trd>megegyezik</trd>
+  </trdgrp>
+  <trd lng="ru">&c_s;&c_o;&c_o;&c_t;&c_v;&c_je;&c_t;&c_s;&c_t;&c_v;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="sk">byť v zhode</trd>
+</drv>
+
+<drv mrk="konfor.0eal">
+  <kap><tld/>e al, <var><kap><tld/>e kun</kap></var></kap>
+  <gra><vspec>prepozicia&jcirc;o</vspec></gra>
+  <snc mrk="konfor.0eal.KOMUNE">
+    <dif>
+      <ref tip="super" cel="laux.0.io_obeata">La&ubreve;</ref>
+      la principoj de, obeante al:
+      <ekz>
+        <tld/>e al la &gcirc;isnuna moro<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        <tld/>e al la Statuto de la Asocio, la Raporton ricevas &ccirc;iuj
+        individuaj membroj
+        <fnt>
+        <vrk>Estrata raporto pri la jubilea jaro</vrk>,
+        <bib>Esperanto</bib>,
+        <lok>jaro 1998a, numero 6a (990a), p. 101a</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        oni decidis tion <tld/>e kun la le&gcirc;o.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="fr">
+    <trd><ind>conform&eacute;ment</ind> &agrave;</trd>,
+    <trd>en <ind>accord</ind> avec</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>conforme a</trd>,
+    <trd>correspondiente a</trd>,
+    <trd>concordante con</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>vmivel <ind>egyez&odblac;en</ind></trd>,
+    <trd>vminek <ind>megfelel&odblac;en</ind></trd>,
+    <trd>vmivel <ind>&ouml;sszhangban</ind></trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_o;&c_o;&c_b;&c_r;&c_a;&c_z;&c_n;&c_o;</trd>,
+    <trd>&c_s;&c_o;&c_o;&c_t;&c_v;&c_je;&c_t;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_o;</trd>,
+    <trd>&c_v; <ind>&c_s;&c_o;&c_o;&c_t;&c_v;&c_je;&c_t;&c_s;&c_t;&c_v;&c_i;&c_i;</ind> &c_s;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="konfor.0eco">
+  <kap><tld/>eco</kap>
+  <snc mrk="konfor.0eco.KOMUNE">
+    <dif>
+      Eco de io a&ubreve; iu <tld/>a:
+      <ekz>
+        <tld/>eco de la kulturoj kun la grundo.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="akord.0o.konveneco">akordo</ref>,
+      <ref cel="kongru.0eco">kongrueco</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>konformita</trd>,
+    <trd>konformnost</trd>,
+    <trd>přiměřenost</trd>,
+    <trd>soulad</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+      <trd>conformidad</trd>,
+      <trd>correspondencia</trd>,
+      <trd>concordancia</trd>
+    </trdgrp>
+  <trdgrp lng="fr">
+    <trd>conformit&eacute;</trd>,
+    <trd>accord<klr tip="ind"> (ad&eacute;quation)</klr></trd>,
+    <trd>ad&eacute;quation</trd>,
+    <trd>concordance</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>primeranosť</trd>,
+    <trd>slad</trd>,
+    <trd>zhoda</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="konfor.0igi">
+  <kap><tld/>igi, <var><kap>al<tld/>igi</kap></var></kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="konfor.0igi.KOMUNE">
+    <dif>
+      Igi <ref cel="konfor.0a.KOMUNE"><tld/>a <sncref/></ref>:
+      <ekz>
+        niaj artikoloj devas esti <tld/>igitaj al la bezonoj
+        kaj gustoj de la gazetoj<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        <tld/>igi sian parolon al la publiko, al sia celo;
+      </ekz>
+      <ekz>
+        <tld/>igi dieton al temperamento de malsanulo.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="adapt.0i">adapti</ref>,
+      <ref cel="akomod.0i">akomodi</ref>,
+      <ref cel="akord.0igi">akordigi</ref>,
+      <ref cel="gxust.al0igi">al&gcirc;ustigi</ref>,
+      <ref cel="observ.0i">observi</ref>,
+      <ref cel="respon.0i">respondi</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>přizpůsobovat</trd>,
+    <trd>slaďovat</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>angleichen</trd>,
+    <trd>anpassen</trd>,
+    <trd>in <ind>&Uuml;bereinstimmung</ind> bringen</trd>,
+    <trd>in <ind>Einklang</ind> bringen</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+      <trd>volver conforme</trd>,
+      <trd>hacer corresponder</trd>,
+      <trd>hacer concordar</trd>
+    </trdgrp>
+  <trdgrp lng="fr">
+    <trd>conformer</trd>,
+    <trd>accorder<klr tip="ind"> (adapter)</klr></trd>,
+    <trd>adapter</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>illeszt</trd>,
+    <trd>hozz&aacute;alak&iacute;t</trd>,
+    <trd>&ouml;sszhangba hoz</trd>
+  </trdgrp>
+  <trd lng="nl">in <ind>overeenstemming</ind> brengen</trd>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_r;&c_i;&c_v;&c_je;&c_s;&c_t;&c_i; &c_v; &c_s;&c_o;&c_o;&c_t;&c_v;&c_je;&c_t;&c_s;&c_t;&c_v;&c_i;&c_je;</trd>,
+    <trd>&c_p;&c_o;&c_d;&c_s;&c_t;&c_r;&c_o;&c_i;&c_t;&c_mol;</trd>,
+    <trd>&c_p;&c_o;&c_d;&c_l;&c_a;&c_d;&c_i;&c_t;&c_mol;</trd>,
+    <trd>&c_s;&c_o;&c_g;&c_l;&c_a;&c_s;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="sk">uviesť do súladu</trd>
+</drv>
+
+<drv mrk="konfor.0ismo">
+  <kap><tld/>ismo</kap>
+  <snc mrk="konfor.0ismo.KOMUNE">
+    <dif>
+      Sinteno <tld/>a al la ordinaraj moroj, harmonia kun la medio:
+      <ekz>
+        la kalifornia urbo Berkeley restas fama pro siaj toleremo kaj
+        ne-<tld/>ismo
+        <fnt>
+        <aut>I. Onet</aut>
+        <vrk><url ref="http://www.eventoj.hu/arkivo/eve-098.htm">Rajton
+        je
+        nuda brusto!</url></vrk>,
+        <lok>Eventoj, 1996-03, numero 98a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="ant">
+      <ref cel="ekstra1.0o">ekstravaganco</ref>
+    </refgrp>
+    <refgrp tip="vid">
+      <ref cel="formal.0ismo">formalismo</ref>
+    </refgrp>
+  </snc>
+  <trd lng="cs">konformizmus</trd>
+  <trd lng="fr">conformisme</trd>
+  <trd lng="sk">konformizmus</trd>
+</drv>
+
+<drv mrk="konfor.sin0igi">
+  <kap>sin <tld/>igi, <var><kap>sin al<tld/>igi</kap></var></kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="konfor.sin0igi.KOMUNE">
+    <dif>
+      Igi sin <ref cel="konfor.0a.obea"><tld/>a <sncref/></ref>:
+      <ekz>
+        ni devas <tld/>igi nin al la ekzistantaj lingvaj
+        kutimoj<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        al<tld/>igi sin al la volo kaj opinio de la aliaj<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="fr">
+    <trd>se <ind>conformer</ind></trd>,
+    <trd>se mettre en <ind>conformit&eacute;</ind></trd>,
+    <trd>s'<ind>accorder</ind><klr tip="ind"> (s'adapter)</klr></trd>,
+    <trd>ob&eacute;ir<klr tip="ind"> (se mettre en conformit&eacute;)</klr></trd>,
+    <trd>se <ind>plier</ind><klr tip="ind"> (se conformer)</klr></trd>,
+    <trd>se <ind>r&eacute;gler</ind><klr tip="ind"> (se conformer)</klr></trd>,
+    <trd>se <ind>soumettre</ind><klr tip="ind"> (se
+    conformer)</klr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="konfor.0igxi">
+  <kap><tld/>i&gcirc;i, <var><kap>al<tld/>i&gcirc;i</kap></var></kap>
+  <snc mrk="konfor.0igxi.KOMUNE">
+    <dif>
+      I&gcirc;i <ref cel="konfor.0a.KOMUNE"><tld/>a <sncref/></ref>:
+      <ekz>
+        ilia agado ne <tld/>i&gcirc;is al la statuto;
+      </ekz>
+      <ekz>
+        lia filozofio tute ne al<tld/>i&gcirc;is al la reala vivo;
+      </ekz>
+      <ekz>
+        la tuta &scirc;tato <tld/>i&gcirc;as al lia re&gcirc;a volo
+        <fnt><bib>Far3</bib>, <lok>&ccirc;apitro 5a</lok></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="akord.0igxi">akordi&gcirc;i</ref>,
+      <ref cel="ced.0i">cedi</ref>,
+      <ref cel="fleks.0igxi.cedi">fleksi&gcirc;i</ref>,
+      <ref cel="met.sub0igxi">submeti&gcirc;i</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="fr">
+    <trd>se <ind>conformer</ind></trd>,
+    <trd>se mettre en <ind>conformit&eacute;</ind></trd>,
+    <trd>s'<ind>accorder</ind><klr tip="ind"> (s'adapter)</klr></trd>,
+    <trd>ob&eacute;ir<klr tip="ind"> (&ecirc;tre en conformit&eacute;)</klr></trd>,
+    <trd>se <ind>plier</ind><klr tip="ind"> (se conformer)</klr></trd>,
+    <trd>se <ind>r&eacute;gler</ind><klr tip="ind"> (se conformer)</klr></trd>,
+    <trd>se <ind>soumettre</ind><klr tip="ind"> (se
+    conformer)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>illeszkedik</trd>,
+    <trd>&ouml;sszhangba ker&uuml;l</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_o;&c_g;&c_l;&c_a;&c_s;&c_o;&c_v;&c_y;&c_v;&c_a;&c_t;&c_mol;&c_s;&c_ja;<klr tip="amb"> (&c_s; &c_ch;&c_je;&c_m;-&c_l;.)</klr></trd>,
+    <trd>&c_s;&c_o;&c_o;&c_b;&c_r;&c_a;&c_z;&c_o;&c_v;&c_a;&c_t;&c_mol;&c_s;&c_ja;<klr tip="amb"> (&c_s; &c_ch;&c_je;&c_m;-&c_l;.)</klr></trd>,
+    <trd>&c_p;&c_r;&c_i;&c_s;&c_p;&c_o;&c_s;&c_a;&c_b;&c_l;&c_i;&c_v;&c_a;&c_t;&c_mol;&c_s;&c_ja;<klr tip="amb"> (&c_k; &c_ch;&c_je;&c_m;&c_u;-&c_l;.)</klr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="konfor.cel0a">
+  <kap>cel<tld/>a</kap>
+  <snc mrk="konfor.cel0a.KOMUNE">
+    <dif>
+      Tute ta&ubreve;ga por plenumi iun celon:
+      <ekz>
+        SAT <klr>...</klr> liveras la bonan ekzemplon per sia cel<tld/>a
+        organiziteco
+        <fnt><bib>Lanti</bib>, <lok>de la deziro al la
+        efektivigo...</lok></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="adekva.0a.KOMUNE">adekvata <sncref/></ref>,
+      <ref cel="konfor.0a.celkonforma">konforma <sncref/></ref>
+    </refgrp>
+    <refgrp tip="vid">
+      <ref cel="konven.0a">konvena</ref>,
+      <ref cel="tauxg.0a">ta&ubreve;ga</ref>
+    </refgrp>
+  </snc>
+  <trd lng="cs">účelný</trd>
+  <trd lng="de">angemessen</trd>
+  <trdgrp lng="fr">
+    <trd>conforme</trd>,
+    <trd>ad&eacute;quat</trd>,
+    <trd>appropri&eacute;</trd>,
+    <trd>juste<klr tip="ind"> (appropri&eacute;)</klr></trd>,
+    <trd>propre<klr tip="ind"> (appropri&eacute;)</klr></trd>,
+    <trd>opportun<klr tip="ind"> (appropri&eacute;)</klr></trd>
+  </trdgrp>
+  <trd lng="hu">c&eacute;lszer&udblac;</trd>
+  <trd lng="ru">&c_c;&c_je;&c_l;&c_je;&c_s;&c_o;&c_o;&c_b;&c_r;&c_a;&c_z;&c_n;&c_y;&c_j;</trd>
+  <trd lng="sk">účelný</trd>
+</drv>
+
+<drv mrk="konfor.inter0igi">
+  <kap>inter<tld/>igi</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="konfor.inter0igi.KOMUNE">
+    <dif>
+      Reciproke adapti, komunigi la aspekton a&ubreve; funkciadon de aferoj:
+      <ekz>
+        harmonie inter<tld/>igitaj objektoj
+        <fnt><bib>Marta</bib></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="sortim.0i">sortimenti</ref>
+    </refgrp>
+  </snc>
+  <trd lng="cs">vzájemně přizpůsobit</trd>
+  <trdgrp lng="es">
+    <trd>casar</trd>,
+    <trd>entrecasar</trd>,
+    <trd>hacer coincidir</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>assortir</trd>,
+    <trd><ind>adapter</ind> l'un &agrave; l'autre</trd>,
+    <trd>associer<klr tip="ind"> (harmoniser)</klr></trd>,
+    <trd>combiner<klr tip="ind"> (harmoniser)</klr></trd>,
+    <trd>coordonner<klr tip="ind"> (harmoniser)</klr></trd>,
+    <trd>harmoniser<klr tip="ind"> (mettre en harmonie)</klr></trd>,
+    <trd>marier<klr tip="ind"> (harmoniser)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>k&ouml;lcs&ouml;n&ouml;sen <ind>&ouml;sszehangol</ind></trd>,
+    <trd>egym&aacute;shoz <ind>illeszt</ind></trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_o;&c_d;&c_o;&c_g;&c_n;&c_a;&c_t;&c_mol; &c_d;&c_r;&c_u;&c_g; &c_k; &c_d;&c_r;&c_u;&c_g;&c_u;</trd>,
+    <trd>&c_s;&c_o;&c_g;&c_l;&c_a;&c_s;&c_o;&c_v;&c_a;&c_t;&c_mol; &c_m;&c_je;&c_zh;&c_d;&c_u; &c_s;&c_o;&c_b;&c_o;&c_j;</trd>
+  </trdgrp>
+  <trd lng="sk">vzájomne pôsobiť</trd>
+</drv>
+</art>
+<!--
+$Log: konfor.xml,v $
+Revision 1.31  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.30  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.29  2014/10/07 10:10:34  revo
+Guillermo Molleda Jimena: trd es
+
+Revision 1.28  2012/01/04 10:10:09  revo
+Jeromo Vasxe: var. por ~al/kun
+
+Revision 1.27  2006/12/13 17:30:37  revo
+Tulio Flores: +tr pt
+
+Revision 1.26  2006/07/29 16:32:20  revo
+Eduardo Navas: +trd es
+
+Revision 1.25  2006/02/03 17:32:20  revo
+Jeromo Vasxe: + ~ismo
+
+Revision 1.24 2005/10/31 17:31:54 revo
+Marc Bavant: kor ref al "akordi/igi"; +drv ~eco; ~igxi: +refgrp;
+inter~igi: -ref al kongrui
+
+Revision 1.23 2005/08/02 16:31:03 revo
+Marc Bavant: kor ref cel al "~e kun" "~e al"
+Revision 1.22 2005/07/11 16:31:24 revo
+-->
+</vortaro>

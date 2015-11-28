@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: profil.xml,v 1.17 2015/07/04 08:37:42 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>profil</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="profil.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="profil.0o.vizagxo">
+    <dif>
+      Aspekto de viza&gcirc;o flanke rigardata.
+    </dif>
+    <trd lng="en">profile</trd>
+    <trdgrp lng="hu">
+      <trd>arc&eacute;l</trd>,
+      <trd>profil</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="profil.0o.ARKI">
+    <uzo tip="fak">ARKI</uzo>
+    <dif>
+      Desegno prezentanta perpendikularan tran&ccirc;on de objekto:
+      <ekz>
+        <tld/>o de konstruo, listelo.
+      </ekz>
+    </dif>
+    <trd lng="en">cross-sectional view</trd>
+    <trdgrp lng="hu">
+      <trd>oldaln&eacute;zet</trd>
+      <trd>keresztmetszet</trd>,
+      <trd>metszetvonal</trd>,
+      <trd>profil</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="profil.0o.KOMP">
+    <uzo tip="fak">KOMP</uzo>
+    <dif>
+      Registritaj informoj pri uzanto de programo:
+      <ekz>
+        oni ka&scirc;u sian <tld/>on de nekonatoj kaj evitu, ke programoj 
+        montru vian aktualan lokon
+        <fnt>
+          <aut>Arono kaj Karlina</aut>,
+          <vrk><url
+          ref="http://radioverda.com/programoj/2010/3/14/rv161-20100314.html">
+          Radio Verda</url></vrk>,
+          <lok>RV161, 2010-03-14</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_r;&c_o;&c_f;&c_ib;&c_l;&c_mol;</trd>
+  <trd lng="bg">&c_p;&c_r;&c_o;&c_f;&c_i;&c_l;</trd>
+  <trdgrp lng="cs">
+    <trd>obrys</trd>,
+    <trd>profil</trd>,
+    <trd>průřez</trd>
+  </trdgrp>
+  <trd lng="de">Profil</trd>
+  <trd lng="es">perfil</trd>
+  <trd lng="fr">profil</trd>
+  <trd lng="nl">profiel</trd>
+  <trd lng="pt">perfil</trd>
+  <trd lng="ru">&c_p;&c_r;&c_o;&c_f;&c_i;&c_l;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>bokorys</trd>,
+    <trd>profil</trd>
+  </trdgrp>
+  <trd lng="sv">profil</trd>
+</drv>
+</art>
+<!--
+$Log: profil.xml,v $
+Revision 1.17  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.15  2013/09/23 15:10:12  revo
+Joop Eggen: +trd bg
+
+Revision 1.14  2012/05/06 17:10:11  revo
+Agustin Garcia Lopez: +trd(es)
+
+Revision 1.13  2010/03/19 17:30:46  revo
+Jeromo Vasxe: + snc komp, + trd fr
+
+Revision 1.12  2006/03/21 17:32:00  revo
+Tulio Flores: +tr pt
+
+Revision 1.11  2004/08/24 16:32:24  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.10  2003/07/20 18:16:38  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.9  2002/01/03 17:34:08  revo
+Karlo Freeman: +trd=en
+
+Revision 1.8  2001/12/25 17:32:42  revo
+-->
+</vortaro>

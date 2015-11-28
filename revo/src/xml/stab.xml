@@ -1,0 +1,127 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: stab.xml,v 1.20 2015/07/04 08:37:44 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>stab</rad>/o
+</kap>
+<drv mrk="stab.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="stab.0o.MIL">
+    <uzo tip="fak">MIL</uzo>
+    <dif>
+      Aro da superaj oficiroj havanta la &gcirc;eneralan direktadon de armeo
+      a&ubreve;
+      armeparto:
+      <ekz>
+        la &ccirc;efa <tld/>o de mar&scirc;alo Tito <klr>...</klr> trovi&gcirc;is
+        certan
+        tempon en iu groto
+        <fnt><bib>IntArkeol</bib>, <lok>p. 45a</lok></fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="en">
+      <trd>general staff</trd>,
+      <trd>commanding officers</trd>
+    </trdgrp>
+    <trd lng="es">estado mayor<klr tip="amb"> (militar)</klr></trd>
+    <trdgrp lng="hu">
+      <trd>t&ouml;rzskar</trd>,
+      <trd>t&ouml;rzs</trd>
+    </trdgrp>
+    <trd lng="pl">sztab</trd>
+  </snc>
+  <snc mrk="stab.0o.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Aro de plej eminentaj personoj de iu grupo:
+      <ekz>
+        ni bezonas <tld/>on da kapablaj instruantoj.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>Leitungsgruppe</trd>,
+      <trd>F&uuml;hrungsgruppe</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>kar</trd>,
+      <trd>t&ouml;rzs</trd>
+    </trdgrp>
+    <trd lng="pl">sztab</trd>
+  </snc>
+  <trd lng="be">&c_sh;&c_t;&c_a;&c_b;</trd>
+  <trd lng="bg">&c_shch;&c_a;&c_b;</trd>
+  <trd lng="cs">štáb</trd>
+  <trdgrp lng="de">
+    <trd>Stab</trd>,
+    <trd>F&uuml;hrungsstab</trd>
+  </trdgrp>
+  <trd lng="fr">&eacute;tat-major</trd>
+  <trd lng="it">stato maggiore</trd>
+  <trd lng="nl">staf<klr tip="ind"> (officieren, leraren
+  e.d.)</klr></trd>
+  <trd lng="ru">&c_sh;&c_t;&c_a;&c_b;</trd>
+  <trdgrp lng="sk">
+    <trd>vedenie</trd>,
+    <trd>štáb</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="stab.0ejo">
+  <kap><tld/>ejo</kap>
+  <snc mrk="stab.0ejo.MIL">
+    <uzo tip="fak">MIL</uzo>
+    <dif>
+      Konstanta a&ubreve; provizora loko, kie funkcias <tld/>o:
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        la familio estis nur <klr>...</klr> la <tld/>ejo de liaj
+        malamikoj
+        <fnt><bib>LaFamilio</bib>, <lok>&ccirc;apitro 31a, p.
+        439a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="bg">&c_shch;&c_a;&c_b;</trd>
+  <trd lng="de">Hauptquartier</trd>
+  <trd lng="en">headquarters</trd>
+  <trd lng="fr">poste de commandement</trd>
+  <trd lng="it">quartier generale</trd>
+  <trd lng="nl">hoofdkwartier</trd>
+  <trd lng="pl">sztab</trd>
+</drv>
+</art>
+<!--
+$Log: stab.xml,v $
+Revision 1.20  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:33:24  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2013/08/13 10:10:09  revo
+Joop Eggen: +trd bg
+
+Revision 1.17  2013/04/21 18:10:11  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.16  2010/09/12 16:30:21  revo
+Antonio Codazzi: +it
+
+Revision 1.15  2010/06/15 16:30:56  revo
+Agustin Garcia Lopez: +trd es
+
+Revision 1.14  2009/06/01 16:30:47  revo
+Russ Williams: +trd en
+
+Revision 1.13  2005/10/28 16:31:44  revo
+Jeromo Vasxe: + ~ejo
+
+Revision 1.12 2004/10/27 16:31:46 revo
+Jozefo Horvath: +trd hu
+
+Revision 1.11 2003/06/14 20:48:03 revo
+-->
+</vortaro>

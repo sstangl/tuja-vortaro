@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: onisk.xml,v 1.5 2014/02/08 14:10:22 revo Exp $">
+<kap>
+  <rad>onisk</rad>/o <fnt><bib>SPV</bib></fnt>
+</kap>
+
+<drv mrk="onisk.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="onisk.0o.ZOO">
+    <dif>
+      Iu el <ref tip="malprt" cel="onisk.0oj"><tld/>oj</ref>.
+    </dif>
+    <ref tip="lst" cel="krust.0ulo" lst="voko:krustuloj">krustulo</ref>
+  </snc>
+</drv>
+
+<drv mrk="onisk.0oj">
+  <kap><tld/>oj</kap>
+  <snc mrk="onisk.0oj.ZOO">
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      Malgrandaj <ref tip="malprt" cel="krust.0uloj">krustuloj</ref> 
+      kun plurparta &scirc;elo kaj sep kruroparoj,
+      da&ubreve;re vivantaj ekster akvo kaj kapablaj fekundi&gcirc;i tie;
+      subordo de izopodoj
+      (<trd lng="la">Oniscidea</trd>):
+      <ekz>
+        la el&jcirc;etado de <klr>...</klr> centoj da bruligitaj skaraboj kaj 
+        grandaj <tld/>oj, kaj dekkelkaj rostitaj vespertoj da&ubreve;ris pli 
+        ol du horojn
+        <fnt>
+          <aut>H. Sienkiewicz, trad. M. Sygnarski</aut>,
+          <vrk><url ref="http://esperanto.pl/page.php?tid=200000">
+          Tra dezerto kaj praarbaro</url></vrk>,
+          <lok>Varsovio, 1978</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="ca">panerola</trd>
+  <trd lng="de">Landasseln</trd>
+  <trd lng="fr">cloportes</trd>
+  <trd lng="it">onisco</trd>
+</drv>
+</art>
+
+<!--
+$Log: onisk.xml,v $
+Revision 1.5  2014/02/08 14:10:22  revo
+Damien Brucker: -eraro cxe ref
+
+Revision 1.4  2013/10/31 20:10:34  revo
+Wolfram Diestel: +~o
+
+Revision 1.3  2013/10/22 18:10:20  revo
+Wolfram Diestel: ref-oj, prilaboris dif, germ trd
+
+Revision 1.2  2011/12/07 01:10:19  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.1  2007/03/04 17:30:27  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

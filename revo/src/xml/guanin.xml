@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: guanin.xml,v 1.3 2013/12/18 14:10:14 revo Exp $">
+<kap>
+  <rad>guanin</rad>/o <fnt><bib>NePiv</bib></fnt>
+</kap>
+<drv mrk="guanin.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="guanin.0o.BIO">
+    <uzo tip="fak">BIO</uzo>
+    <uzo tip="fak">KEM</uzo>
+    <dif>
+      Iu el la 
+      <ref tip="super" cel="nukleotid.0o.GNT">nukleotido</ref>specoj
+      de ADN a&ubreve; ARN;
+      simbole <frm>C<sub>5</sub>H<sub>5</sub>N<sub>5</sub>O</frm>:
+      <ekz>
+        notitaj A, T, G a&ubreve; C la&ubreve; ilia &hcirc;emia konsisto adenino, <tld/>o, 
+        timino kaj citozino <klr>...</klr> estas la kvar 
+        literoj de la genetika alfabeto
+        <fnt>
+          <aut>D. Benoit-Brow&aelig;ys, trad. J.-M. Cash</aut>,
+          <vrk><url ref="http://eo.mondediplo.com/article1637.html">
+          Kaj nun : konstrui vivan materialon</url></vrk>, 
+          <lok>le Monde diplomatique, 2010-09</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="bg">&c_g;&c_u;&c_a;&c_n;&c_i;&c_n;</trd>
+  <trd lng="ca">guanina</trd>
+  <trd lng="de">Guanin</trd>
+  <trd lng="en">guanine</trd>
+  <trd lng="fr">guanine</trd>
+  <trd lng="nl">guanine</trd>
+</drv>
+</art>
+
+<!--
+$Log: guanin.xml,v $
+Revision 1.3  2013/12/18 14:10:14  revo
+Joop Eggen: +trd bg de en nl
+
+Revision 1.2  2012/01/05 14:10:21  revo
+Marc Rausell: +trd ca
+
+Revision 1.1  2010/09/19 16:30:39  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

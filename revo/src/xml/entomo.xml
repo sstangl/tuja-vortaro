@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: entomo.xml,v 1.22 2015/07/04 08:37:33 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>entomologi</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="entomo.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="entomo.0o.SCI">
+    <uzo tip="fak">BIO</uzo>
+    <uzo tip="fak">SCI</uzo>
+    <dif>
+      Scienco pri la insektoj.
+    </dif>
+  </snc>
+  <trd lng="be">&c_e;&c_n;&c_t;&c_a;&c_m;&c_a;&c_l;&c_jo;&c_g;&c_ib;&c_ja;</trd>
+  <trd lng="bg">&c_je;&c_n;&c_t;&c_o;&c_m;&c_o;&c_l;&c_o;&c_g;&c_i;&c_ja;</trd>
+  <trd lng="ca">entomologia</trd>
+  <trd lng="cs">entomologie</trd>
+  <trdgrp lng="de">
+    <trd>Insektenkunde</trd>,
+    <trd>Insektologie<klr> [ark]</klr></trd>,
+    <trd>Entomologie<klr> [fak]</klr></trd>
+  </trdgrp>
+  <trd lng="en">entomology</trd>
+  <trd lng="es">entomolog&iacute;a</trd>
+  <trd lng="fr">entomologie</trd>
+  <trd lng="he">&alef;&nun;&tet;&vav;&mem;&vav;&lamed;&vav;&gimel;&yod;&he;</trd>
+  <trdgrp lng="hu">
+    <trd>rovartan</trd>,
+    <trd>entomol&oacute;gia</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>insectenkunde</trd>,
+    <trd>entomologie</trd>
+  </trdgrp>
+  <trd lng="pl">entomologia</trd>
+  <trd lng="pt">entomologia</trd>
+  <trd lng="ru">&c_e;&c_n;&c_t;&c_o;&c_m;&c_o;&c_l;&c_o;&c_g;&c_i;&c_ja;</trd>
+  <trd lng="sk">náuka o hmyze</trd>
+</drv>
+
+<drv mrk="entomo.0isto">
+  <kap><tld/>isto</kap>
+  <snc mrk="entomo.0isto.SCI">
+    <dif>
+      Specialisto pri
+      <ref tip="vid" cel="entomo.0o.SCI"><tld/>o</ref>.
+    </dif>
+  </snc>
+  <trd lng="ca">entom&ograve;leg</trd>
+  <trd lng="en">entomologist</trd>
+  <trd lng="fr">entomologiste</trd>
+  <trd lng="pl">entomolog</trd>
+</drv>
+
+</art>
+<!--
+$Log: entomo.xml,v $
+Revision 1.22  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.21  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.20  2012/09/09 11:10:14  revo
+Jeromo Vasxe: + mrk + 1 fak
+
+Revision 1.19  2012/07/15 08:10:20  revo
+Marc Rausell: + trd ca
+
+Revision 1.18  2010/06/01 16:30:21  revo
+Wieland Pusch: +korr bg
+
+Revision 1.17  2010/04/27 16:30:58  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.16  2010/04/24 17:07:14  revo
+Russ Williams: +entomologiisto; +trd en
+
+Revision 1.15  2010/02/09 17:30:21  revo
+Wieland Pusch: +trd bg
+
+Revision 1.14  2010/02/02 17:30:29  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.13  2006/02/08 17:32:16  revo
+-->
+</vortaro>

@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: burgxo.xml,v 1.18 2015/10/07 11:10:26 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>bur&gcirc;on</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="burgxo.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="burgxo.0o.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      &Scirc;vela volva&jcirc;o de vegeta&jcirc;o, el kiu elvolvi&gcirc;as la
+      folioj kaj la floroj. 
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="buton.0o.BOT">butono<sncref/></ref>,
+    </refgrp>
+    <trdgrp lng="be">
+      <trd>&c_p;&c_u;&c_p;&c_y;&c_sh;&c_k;&c_a;</trd>,
+      <trd>&c_p;&c_o;&c_k;&c_a;&c_w;&c_k;&c_a;</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>bimb&oacute;</trd>,
+      <trd>r&uuml;gy</trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>p&aogonek;k</trd>,
+      <trd>p&aogonek;czek</trd>
+    </trdgrp>
+    <trd lng="pt">bot&atilde;o<klr> (de flor)</klr></trd>
+    <trd lng="ru">&c_p;&c_o;&c_ch;&c_k;&c_a; <klr>(&c_n;&c_a;
+    &c_d;&c_je;&c_r;&c_je;&c_v;&c_mol;&c_ja;&c_h;)</klr></trd>
+  </snc>
+  <snc mrk="burgxo.0o.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Io ekaperanta, komenci&gcirc;anta, ne plene matura:
+      <ekz>
+        ofte la senco de iu vorto diferencas de alia nur per la bildo,
+        kiun &gcirc;i entenas <tld/>e.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_z;&c_a;&c_r;&c_o;&c_d;&c_a;&c_k;</trd>,
+      <trd>&c_p;&c_a;&c_ch;&c_a;&c_t;&c_a;&c_k;</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>cs&iacute;ra</trd>,
+      <trd>mag<klr tip="ind"> (kezdem&eacute;ny)</klr></trd>
+    </trdgrp>
+    <trd lng="pl">zarodek</trd>
+  </snc>
+  <refgrp tip="vid">
+    <ref cel="gxerm.0o">&gcirc;ermo</ref>
+  </refgrp>
+  <trd lng="bg">&c_p;&c_malmol;&c_p;&c_k;&c_a;</trd>
+  <trd lng="de">Knospe</trd>
+  <trd lng="en">bud</trd>
+  <trd lng="fa">&a_j;&a_w;&a_A;&a_n;&a_h;</trd>
+  <trd lng="fr">bourgeon</trd>
+</drv>
+
+<drv mrk="burgxo.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="burgxo.0i.BOT">
+    <dif>
+      Naski <tld/>ojn, ekkomenci montri foliojn a&ubreve; florojn. 
+    </dif>
+    <trdgrp lng="de">
+       <trd>knospen</trd>,
+       <trd>sprie&szlig;en</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>kics&iacute;r&aacute;zik</trd>,
+      <trd>kisarjad</trd>
+    </trdgrp>
+    <trd lng="pl">wypuszcza&cacute; <ind>p&aogonek;ki</ind></trd>
+  </snc>
+  <snc mrk="burgxo.0i.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Ekkomenci prosperi:
+      <ekz>
+        vigla esperantista movado <tld/>as nun en la urbo.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="bril">ekbrili</ref>,
+      <ref cel="flor.ek0i">ekflori</ref>,
+      <ref cel="gxerm.0i">&gcirc;ermi</ref>
+    </refgrp>
+    <trd lng="de">aufbl&uuml;hen</trd>
+  </snc>
+  <trd lng="en">bud</trd>
+  <trd lng="fa">&a_j;&a_w;&a_A;&a_n;&a_h; &a_z;&a_d;&a_n;</trd>
+  <trd lng="fr">bourgeonner</trd>
+  <trdgrp lng="hu">
+    <trd>kibontakozik</trd>,
+    <trd>kivir&aacute;gzik</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: burgxo.xml,v $
+Revision 1.18  2015/10/07 11:10:26  revo
+Evandro Avellar: +trd pt
+
+Revision 1.17  2011/03/17 21:10:09  revo
+Jeromo Vasxe: - num + mrk
+
+Revision 1.16  2010/05/08 16:30:35  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.15  2009/04/06 18:00:33  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.14  2008/02/09 17:30:45  revo
+Wieland Pusch: +trd bg
+
+Revision 1.13  2005/02/14 18:20:51  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.12  2003/05/15 16:32:27  revo
+Christopher Zervic: + ang
+
+Revision 1.11  2002/04/04 16:31:40  revo
+-->
+</vortaro>

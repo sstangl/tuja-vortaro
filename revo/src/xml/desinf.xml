@@ -1,0 +1,146 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: desinf.xml,v 1.18 2015/07/04 08:37:32 revo Exp $">
+<kap>
+<rad>desinfekt</rad>/i <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="desinf.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="desinf.0i.SAN">
+    <uzo tip="fak">MED</uzo>
+    <dif>
+      Mortigi mikrobojn a&ubreve; miasmojn en iu loko:
+      <ekz>
+        <tld/>i ion per io;
+      </ekz>
+      <ekz>
+        <tld/>i lo&gcirc;ejon, tola&jcirc;on;
+      </ekz>
+      <ekz>
+        <tld/>i la akvorezervujon
+        <fnt>
+          <aut>-</aut>,
+          <vrk><url
+          ref="http://www.eventeo.net/web/index.php/afriko/socio/895">
+          Respondeculoj provas...</url></vrk>,
+          <lok>eventeo, 2008-09-07</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>i vundon.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="infekt.mal0isen0igi">seninfektigi</ref>;
+    </refgrp>
+    <refgrp tip="vid">
+      <ref cel="antise1.0i">antisepsi</ref>.
+    </refgrp>
+  </snc>
+  <adm>
+    Mi aldonis la ekz-on "~i vundon" kaj precizigis la&ubreve;e la
+    difinon, sed mi ne scias, &ccirc;u tio estas normala uzo. La
+    diferencon kun "antisepsi" estas precizigenda.
+    <aut>MB</aut>
+  </adm>
+  <trd lng="be">&c_d;&c_e;&c_z;&c_ib;&c_n;&c_f;&c_ib;&c_k;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="de">desinfizieren</trd>
+  <trd lng="en">disinfect</trd>
+  <trd lng="es">desinfectar</trd>
+  <trd lng="fr">d&eacute;sinfecter</trd>
+  <trdgrp lng="hu">
+    <trd>fert&odblac;tlen&iacute;t</trd>,
+    <trd>dezinfici&aacute;l</trd>,
+    <trd>dezinfekcion&aacute;l</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>dezynfekowa&cacute;</trd>,
+    <trd>przeprowadza&cacute; <ind>dezynfekcj&eogonek;</ind></trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>desinfetar</trd>,
+    <trd>desinfeccionar</trd>
+  </trdgrp>
+  <trd lng="ru">&c_d;&c_je;&c_z;&c_i;&c_n;&c_f;&c_i;&c_c;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="sk">dezinfikova&tcaron;</trd>
+  <trd lng="cs">desinfikovat</trd>
+</drv>
+
+<drv mrk="desinf.0ajxo">
+  <kap><tld/>a&jcirc;o</kap>
+  <snc mrk="desinf.0ajxo.SAN">
+    <dif>
+      Substanco por <tld/>i.
+    </dif>
+  </snc>
+  <trd lng="be">&c_d;&c_e;&c_z;&c_ib;&c_n;&c_f;&c_ib;&c_k;&c_c;&c_y;&c_j;&c_n;&c_y; &c_s;&c_r;&c_o;&c_d;&c_a;&c_k;</trd>
+  <trd lng="de">Desinfektionsmittel</trd>
+  <trd lng="en">disinfectant</trd>
+  <trd lng="es">desinfectante</trd>
+  <trd lng="fr">d&eacute;sinfectant</trd>
+  <trd lng="hu">fert&odblac;tlen&iacute;t&odblac;szer</trd>
+  <trd lng="pl">&sacute;rodek <ind>dezynfekuj&aogonek;cy</ind></trd>
+  <trd lng="pt">desinfetante</trd>
+  <trd lng="sk">dezinfekcia</trd>
+  <trd lng="ru">&c_d;&c_je;&c_z;&c_i;&c_n;&c_f;&c_i;&c_c;&c_i;&c_r;&c_u;&c_ju;&c_shch;&c_je;&c_je; &c_s;&c_r;&c_je;&c_d;&c_s;&c_t;&c_v;&c_o;</trd>
+</drv>
+
+<drv mrk="desinf.0ilo">
+  <kap><tld/>ilo</kap>
+  <snc mrk="desinf.0ilo.SAN">
+    <dif>
+      Aparato por <tld/>o.
+    </dif>
+  </snc>
+  <trd lng="be">&c_d;&c_e;&c_z;&c_ib;&c_n;&c_f;&c_ib;&c_k;&c_c;&c_y;&c_j;&c_n;&c_y; &c_a;&c_p;&c_a;&c_r;&c_a;&c_t;</trd>
+  <trdgrp lng="cs">
+    <trd>dezinfektor</trd>,
+    <trd>dezinfekční přístroj</trd>
+  </trdgrp>
+  <trd lng="de">Desinfektionsapparat</trd>
+  <trd lng="en">disinfector</trd>
+  <trd lng="fr">d&eacute;sinfecteur</trd>
+  <trd lng="hu">fert&odblac;tlen&iacute;t&odblac;berendez&eacute;s</trd>
+  <trd lng="pt">desinfetante</trd>
+  <trd lng="ru">&c_d;&c_je;&c_z;&c_i;&c_n;&c_f;&c_je;&c_k;&c_c;&c_i;&c_o;&c_n;&c_n;&c_y;&c_j; &c_a;&c_p;&c_p;&c_a;&c_r;&c_a;&c_t;</trd>
+  <trdgrp lng="sk">
+    <trd>dezinfektor</trd>,
+    <trd>prístroj na dezinfekciu</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: desinf.xml,v $
+Revision 1.18  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.16  2011/12/20 14:10:09  revo
+Jeromo Vasxe: ~i + ekz, retusx. dif
+
+Revision 1.15  2010/01/18 17:31:54  revo
+Russ Williams: +trd en
+
+Revision 1.14  2009/06/04 16:30:51  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.13  2008/05/12 17:55:50  revo
+Tulio Flores: +tr pt
+
+Revision 1.12  2007/07/23 16:31:13  revo
+Tulio Flores: +tr pt
+
+Revision 1.11  2005/09/08 16:31:02  revo
+Yury Finkel: +trd ru
+
+Revision 1.10  2003/12/13 17:32:01  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.9  2003/04/22 16:31:45  revo
+-->
+</vortaro>

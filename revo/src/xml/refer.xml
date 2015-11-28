@@ -1,0 +1,120 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: refer.xml,v 1.17 2015/09/23 07:10:16 revo Exp $">
+<kap>
+  <rad>refer</rad>/i
+</kap>
+<drv mrk="refer.0i">
+  <kap><tld/>i</kap>
+  <snc>
+    <ref tip="dif" cel="raport.0i.dokumente">raporti</ref>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_r;&c_e;&c_f;&c_e;&c_r;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_d;&c_a;&c_k;&c_l;&c_a;&c_d;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>d&aacute;vat zpr&aacute;vy</trd>,
+    <trd>referovat</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>referieren</trd>,
+    <trd>vortragen</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>make a scholarly report</trd>,
+    <trd>read a paper</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>pr&eacute;senter un <ind>rapport</ind></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>el&odblac;ad</trd>,
+    <trd>besz&aacute;mol</trd>,
+    <trd>refer&aacute;l</trd>
+  </trdgrp>
+  <trd lng="nl">verslag uitbrengen</trd>
+  <trd lng="pl">referowa&cacute;</trd>
+  <trd lng="pt">reportar</trd>
+  <trd lng="ru">&c_r;&c_je;&c_f;&c_je;&c_r;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>poda&tcaron; spr&aacute;vu</trd>,
+    <trd>referova&tcaron;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="refer.0ajxo">
+  <kap><tld/>a&jcirc;o</kap>
+  <snc>
+    <ref tip="dif" cel="raport.0o.dokumenta">raporto</ref>
+    <ekz>
+      kolekto de &ccirc;iuj <tld/>a&jcirc;oj de la zagreba
+simpozio<fnt><aut>Zlatko
+      Ti&scirc;ljar</aut>: <vrk>Simpozio postulas ne&ubreve;tralan
+lingvon</vrk>,
+      <bib>Monato</bib><lok>jaro 2002a, numero 2a, p. 29a</lok></fnt>..
+    </ekz>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_r;&c_e;&c_f;&c_e;&c_r;&c_a;&c_t;</trd>,
+    <trd>&c_d;&c_a;&c_k;&c_l;&c_a;&c_d;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Referat</trd>,
+    <trd>Bericht</trd>,
+    <trd>Vortrag</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>scholarly report</trd>,
+    <trd>paper</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>compte rendu</trd>,
+    <trd>enqu&ecirc;te<klr> (document)</klr></trd>,
+    <trd>m&eacute;moire<klr> (document)</klr></trd>,
+    <trd>rapport<klr> (document)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>el&odblac;ad&aacute;s</trd>,
+    <trd>besz&aacute;mol&oacute;</trd>,
+    <trd>refer&aacute;tum</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>verslag</trd>,
+    <trd>rapport</trd>
+  </trdgrp>
+  <trd lng="pl">referat</trd>
+  <trdgrp lng="ru">
+    <trd>&c_d;&c_o;&c_k;&c_l;&c_a;&c_d;</trd>,
+    <trd>&c_r;&c_je;&c_f;&c_je;&c_r;&c_a;&c_t;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: refer.xml,v $
+Revision 1.17  2015/09/23 07:10:16  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.16  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.14  2008/02/01 17:30:31  revo
+Russ Williams: +trd en
+
+Revision 1.13  2006/02/19 17:32:53  revo
+Tulio Flores: +trd pt
+
+Revision 1.12  2004/09/02 16:32:19  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.11  2003/08/07 16:31:06  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.10  2002/08/02 10:12:31  revo
+-->
+</vortaro>

@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: parafr.xml,v 1.15 2015/07/04 08:37:41 revo Exp $">
+<kap>
+  <ofc>2</ofc> <rad>parafraz</rad>/o
+</kap>
+<drv mrk="parafr.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">BELE</uzo>
+  <snc>
+    <dif>
+      Klariga plivastigo de teksto:
+      <ekz>
+        ne temas &gcirc;uste pri <tld/>oj a&ubreve; interpretoj, sed simple pri
+        disvolvo de la origina rakonto en novela formo
+        <fnt><aut>Sten Johansson</aut>: <vrk>Satira, humure
+        serioza, amara, ridiga (T&oacute;th-M&aacute;th&eacute; Miklos, Trans la
+        se&gcirc;o)</vrk>,
+        <bib>Monato</bib><lok>jaro 1998a, numero 1a, p. 19a</lok></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="pt">par&aacute;frase</trd>
+  </snc>
+  <snc>
+    <dif>
+      Nesevera traduko, en kiu originala teksto estas plivastigita.
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_r;&c_a;&c_f;&c_r;&c_a;&c_z;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>opis jinými slovy</trd>,
+    <trd>parafráze</trd>
+  </trdgrp>
+  <trd lng="de">Paraphrase</trd>
+  <trd lng="en">paraphrase</trd>
+  <trdgrp lng="fr">
+    <trd>paraphrase</trd>
+  </trdgrp>
+  <trd lng="hu">parafr&aacute;zis</trd>
+  <trd lng="it">parafrasi</trd>
+  <trdgrp lng="nl">
+    <trd>parafrase</trd>,
+    <trd>omschrijving</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_a;&c_r;&c_a;&c_f;&c_r;&c_a;&c_z;&c_a;</trd>,
+    <trd>&c_p;&c_je;&c_r;&c_je;&c_s;&c_k;&c_a;&c_z;</trd>
+  </trdgrp>
+  <trd lng="sk">parafráza</trd>
+</drv>
+
+<drv mrk="parafr.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      Klarigi a&ubreve; traduki <tld/>e.
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_r;&c_a;&c_f;&c_r;&c_a;&c_z;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>parafrázovat</trd>,
+    <trd>vyjadřovat opisem</trd>,
+    <trd>vysvětlovat</trd>
+  </trdgrp>
+  <trd lng="de">paraphrasieren</trd>
+  <trd lng="en">paraphrase</trd>
+  <trdgrp lng="fr">
+    <trd>paraphraser</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>kifejt&eacute;s</trd>,
+    <trd>k&ouml;r&uuml;l&iacute;r&aacute;s</trd>
+  </trdgrp>
+  <trd lng="it">parafrasare</trd>
+  <trd lng="nl">parafraseren</trd>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_a;&c_r;&c_a;&c_f;&c_r;&c_a;&c_z;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_p;&c_je;&c_r;&c_je;&c_s;&c_k;&c_a;&c_z;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>parafrázovať</trd>,
+    <trd>vyjadriť opisom</trd>,
+    <trd>vysvetľovať</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: parafr.xml,v $
+Revision 1.15  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:40:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.13  2010/07/07 16:30:29  revo
+Russ Williams: +trd en
+
+Revision 1.12  2010/04/16 16:31:24  revo
+Antonio Codazzi: +td it
+
+Revision 1.11  2006/02/24 17:36:37  revo
+Tulio Flores: +trd pt
+
+Revision 1.10  2004/07/16 16:31:39  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.9  2004/02/23 18:18:39  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.8  2002/08/07 17:31:00  revo
+Jeromo Vasxe: + fak bele, + ekz, + trd fr
+
+Revision 1.7 2001/12/11 18:25:10 revo
+Yury Finkel: +trd ru
+
+Revision 1.6 2001/08/27 18:14:58 revo
+-->
+</vortaro>

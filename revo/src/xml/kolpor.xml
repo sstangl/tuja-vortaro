@@ -1,0 +1,136 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: kolpor.xml,v 1.23 2015/10/14 09:10:18 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>kolport</rad>/i
+</kap>
+<drv mrk="kolpor.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="kolpor.0i.EKON">
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      Vojadi kun komerca&jcirc;oj por ilin etkvante
+      dis<ref tip="super" cel="vend.0i.EKON">vendi</ref>:
+      <ekz>
+        kiel knabo ja anka&ubreve; mi kriante <tld/>is gazetojn
+        <fnt><bib>Mortul&Scirc;ip</bib>, <lok>dua libro, &ccirc;apitro
+        26a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="bg">&c_r;&c_a;&c_z;&c_g;&c_l;&c_a;&c_s;&c_ja;&c_v;&c_a;&c_m;</trd>
+  <trd lng="ca">vendre de forma ambulant</trd>
+  <trdgrp lng="cs">
+    <trd>kolportovat</trd>,
+    <trd>rozn&aacute;&scaron;et <klr>(zbo&zcaron;&iacute;)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="de">
+     <trd>hausieren</trd>,
+     <trd><klr>von </klr>Haus zu Haus <ind>verkaufen</ind></trd>,
+     <trd><klr>von </klr>Haus zu Haus <ind>feilbieten</ind></trd>
+  </trdgrp>
+  <trd lng="en">peddle</trd>
+  <trd lng="fa">&a_d;&a_s;&a_t;&a_f;&a_r;&a_w;&a_sh;&f_y; &f_k;&a_r;&a_d;&a_n;</trd>
+  <trdgrp lng="fr">
+    <trd>colporter<klr tip="ind"> (des marchandises)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>leuren</trd>,
+    <trd>colporteren</trd>,
+    <trd>verspreiden<klr tip="ind"> (huis aan huis)</klr></trd>
+  </trdgrp>
+  <trd lng="pt">mascatear</trd>
+  <trd lng="ru">&c_t;&c_o;&c_r;&c_g;&c_o;&c_v;&c_a;&c_t;&c_mol; &c_v;&c_r;&c_a;&c_z;&c_n;&c_o;&c_s;</trd>
+  <trd lng="sk">kolportova&tcaron;</trd>
+</drv>
+
+<drv mrk="kolpor.0isto">
+  <kap><tld/>isto</kap>
+  <snc mrk="kolpor.0isto.EKON">
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      <ref tip="super" cel="vend.0isto">Vendisto</ref> kunportanta
+      siajn komerca&jcirc;ojn tra lando a&ubreve; urbo:
+      <ekz>
+        jen <tld/>istoj, vendantaj franda&jcirc;ojn kaj ludilojn
+        <fnt><bib>RugxDom</bib> <lok>&ccirc;apitro 6a, p. 90a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="bg">&c_a;&c_m;&c_b;&c_u;&c_l;&c_a;&c_n;&c_t;&c_je;&c_n; <ind>&c_t;&c_malmol;&c_r;&c_g;&c_o;&c_v;&c_je;&c_c;</ind></trd>
+  <trd lng="ca">venedor ambulant</trd>
+  <trdgrp lng="cs">
+    <trd>kolport&eacute;r</trd>,
+    <trd>prodava&ccaron; novin</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+     <trd>Hausierer</trd>,
+     <trd>fliegender <ind>H&auml;ndler</ind></trd>,
+     <trd>Stra&szlig;enh&auml;ndler</trd>,
+     <trd>Wandergewerbetreibender</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+     <trd>hawker</trd>,
+     <trd>peddler</trd>,
+     <trd>pedlar</trd>
+  </trdgrp>
+  <trdgrp lng="fa">
+    <trd>&a_d;&a_s;&a_t;&a_f;&a_r;&a_w;&a_sh;</trd>,
+    <trd>&a_f;&a_r;&a_w;&a_sh;&a_n;&a_d;&a_h;&a_hamza_sure; &a_d;&a_w;&a_r;&a_h;&zwnj;&f_g;&a_r;&a_d;</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>camelot</trd>,
+    <trd>colporteur</trd>,
+    <trd>vendeur ambulant</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>leurder</trd>,
+    <trd>straatventer</trd>,
+    <trd>colporteur</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>komiwoja&zdot;er</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>mascate</trd>,
+    <trd>vendedor ambulante</trd>,    
+    <trd>burarinheiro</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_u;&c_l;&c_i;&c_ch;&c_n;&c_y;&c_j; &c_t;&c_o;&c_r;&c_g;&c_o;&c_v;&c_je;&c_c;</trd>,
+    <trd>&c_r;&c_a;&c_z;&c_n;&c_o;&c_s;&c_ch;&c_i;&c_k;</trd>,
+    <trd>&c_k;&c_o;&c_r;&c_o;&c_b;&c_je;&c_j;&c_n;&c_i;&c_k;</trd>
+  </trdgrp>
+  <trd lng="sk">rozn&aacute;&scaron;a&ccaron;</trd>
+</drv>
+</art>
+<!--
+$Log: kolpor.xml,v $
+Revision 1.23  2015/10/14 09:10:18  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.22  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.21  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.20  2013/09/23 11:10:12  revo
+Joop Eggen: +trd bg
+
+Revision 1.19  2012/01/03 23:10:19  revo
+Marc Rausell: +trd ca
+
+Revision 1.18  2009/09/02 16:31:34  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.17  2009/08/14 16:30:25  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.16  2007/02/07 17:30:26  revo
+-->
+</vortaro>

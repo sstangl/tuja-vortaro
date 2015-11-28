@@ -1,0 +1,110 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: noktu.xml,v 1.28 2015/07/04 08:37:40 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>noktu</rad>/o
+</kap>
+<drv mrk="noktu.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="noktu.0o.birdo">
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      <ref tip="lst" cel="speci.0o.BIO"
+      lst="voko:zoologiaj_specioj">Specio</ref>
+       el la familio
+      <ref tip="malprt" cel="strige.0oj">strigedoj</ref>
+      (<trd lng="la">Athene noctua</trd>).
+    </dif>
+    <rim>La akademia angla difino "screech-owl"
+     estas en genro Megascops anstata&ubreve; Athene.</rim>
+     <trd lng="ca">mussol</trd>
+    <trd lng="cs">s&yacute;c obecn&yacute;</trd>
+    <trd lng="de">Steinkauz</trd>
+    <trd lng="en">little owl</trd>
+    <trd lng="es">b&uacute;ho</trd>
+    <trdgrp lng="fr">
+      <trd>chev&ecirc;che</trd>,
+      <trd>chouette chev&ecirc;che</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>kuvik</trd>,
+      <trd>hal&aacute;lbagoly</trd>,
+      <trd>hal&aacute;lmad&aacute;r</trd>,
+      <trd>csuvik</trd>
+    </trdgrp>
+    <trd lng="nl">steenuil</trd>
+    <trd lng="pl">p&oacute;jd&zacute;ka</trd>
+    <trdgrp lng="pt">
+      <trd>coruja</trd>,
+      <trd>bufo</trd>,
+      <trd>mocho <klr>(subst., zool.)</klr></trd>,    
+      <trd>coruj&atilde;o</trd>
+    </trdgrp>
+    <trd lng="ru">&c_d;&c_o;&c_m;&c_o;&c_v;&c_y;&c_j; <ind>&c_s;&c_y;&c_ch;</ind></trd>
+  </snc>
+  <snc mrk="noktu.0o.papilio">
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:zoologiaj_genroj">Genro</ref> el familio <ref
+      tip="malprt"
+      cel="noktue.0oj"><tld/>edoj</ref>
+      (<trd lng="la">Noctua</trd>), nokta 
+      <ref tip="lst" cel="papili.0o" lst="voko:papilioj">papilio</ref>.
+    </dif>
+    <trdgrp lng="ca">
+      <trd>g&egrave;nere Noctua</trd>,
+      <trd>papallona nocturna</trd>
+    </trdgrp>
+    <trd lng="de">Hausmutter <klr>(k.a.)</klr></trd>
+    <trd lng="en">Noctua</trd>
+    <trdgrp lng="hu">
+      <trd>bagolylepke</trd>,
+      <trd>bagolypille</trd>
+    </trdgrp>
+    <trd lng="nl">nachtvlinder</trd>
+    <trd lng="ru">&c_s;&c_o;&c_v;&c_k;&c_a; <klr tip="amb">(&c_b;&c_a;&c_b;&c_o;&c_ch;&c_k;&c_a;)</klr></trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>kulich</trd>,
+    <trd>sýc obecný</trd>,
+    <trd>sýček obecný</trd>
+  </trdgrp>
+  <trd lng="sk">kuvik</trd>
+</drv>
+</art>
+<!--
+$Log: noktu.xml,v $
+Revision 1.28  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.27  2015/06/29 16:33:21  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.26  2013/10/07 15:11:02  revo
+Wolfram Diestel: ref la lst papilioj
+
+Revision 1.25  2013/09/08 19:11:14  revo
+Wolfram Diestel: kor. lst-ref
+
+Revision 1.24  2013/09/01 17:10:14  revo
+Wolfram Diestel: referenco al listo zoo genroj
+
+Revision 1.23  2012/08/10 14:11:55  revo
+Tulio Flores: korekto de mistajpo
+
+Revision 1.22  2012/07/26 18:10:09  revo
+Agustin Garcia Lopez: +trd(es)
+
+Revision 1.21  2011/12/03 18:10:24  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.20  2011/02/08 11:10:17  revo
+Russ Williams: +noto pri screech-owl
+
+Revision 1.19  2006/07/02 16:31:24  revo
+-->
+</vortaro>

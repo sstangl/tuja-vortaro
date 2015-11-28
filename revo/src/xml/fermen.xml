@@ -1,0 +1,180 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: fermen.xml,v 1.17 2015/07/04 08:37:34 revo Exp $">
+<kap>
+<ofc>*</ofc>
+<rad>ferment</rad>/o
+</kap>
+<drv mrk="fermen.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <uzo tip="fak">KEM</uzo>
+  <snc>
+    <dif>
+      Organika substanco, kiu ka&ubreve;zas malkomponi&gcirc;on de la organikaj korpoj. 
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_f;&c_e;&c_r;&c_m;&c_e;&c_n;&c_t;</trd>,
+    <trd>&c_e;&c_n;&c_z;&c_y;&c_m;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>kvasnice</trd>,
+    <trd>zákvas</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+     <trd>Ferment</trd>,
+     <trd>Enzym</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>ferment</trd>,
+    <trd>enzyme</trd>
+  </trdgrp>
+  <trd lng="es">fermento</trd>
+  <trd lng="fr">ferment</trd>
+  <trd lng="hu">&eacute;leszt&odblac;</trd>
+  <trdgrp lng="nl">
+    <trd>ferment</trd>,
+    <trd>enzyme</trd>
+  </trdgrp>
+  <trd lng="pt">fermento</trd>
+  <trdgrp lng="ru">
+    <trd>&c_f;&c_je;&c_r;&c_m;&c_je;&c_n;&c_t;</trd>,
+    <trd>&c_z;&c_a;&c_k;&c_v;&c_a;&c_s;&c_k;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>enzým</trd>,
+    <trd>ferment</trd>,
+    <trd>kvas</trd>
+  </trdgrp>
+</drv>
+<drv mrk="fermen.0i">
+  <kap><tld/>i<fnt>Z</fnt></kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc>
+    <dif>
+      Malkomponi&gcirc;i sub influo de <tld/>o:
+      <ekz>
+        <uzo tip="fak">KUI</uzo>
+        <ind><tld/>inta</ind> trinka&jcirc;o, pasto.
+        <trd lng="fr">ferment&eacute;</trd>
+        <trdgrp lng="hu">
+          <trd>megerjedt</trd>,
+          <trd>kelt<klr tip="amb"> (t&eacute;szta)</klr></trd>
+        </trdgrp>
+      </ekz>
+   </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_b;&c_r;&c_a;&c_d;&c_z;&c_ib;&c_c;&c_mol;</trd>,
+    <trd>&c_k;&c_ib;&c_s;&c_n;&c_u;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="cs">kvasit</trd>
+  <trdgrp lng="de">
+     <trd>g&auml;ren</trd>,
+     <trd>in <ind>G&auml;rung</ind> sein</trd></trdgrp>
+  <trd lng="en">ferment</trd>
+  <trd lng="es">fermentar</trd>
+  <trdgrp lng="fr">
+    <trd>fermenter</trd>,
+    <trd>lever<klr tip="ind"> (fermenter)</klr></trd></trdgrp>
+  <trdgrp lng="hu">
+    <trd>erjed</trd>,
+    <trd>kel<klr tip="amb">(t&eacute;szta)</klr></trd>
+  </trdgrp>
+  <trd lng="nl">fermenteren</trd>
+  <trdgrp lng="ru">
+    <trd>&c_b;&c_r;&c_o;&c_d;&c_i;&c_t;&c_mol;</trd>,
+    <trd>&c_k;&c_i;&c_s;&c_n;&c_u;&c_t;&c_mol;</trd>,
+    <trd>&c_p;&c_o;&c_d;&c_n;&c_i;&c_m;&c_a;&c_t;&c_mol;&c_s;&c_ja; <klr>(&c_o; &c_t;&c_je;&c_s;&c_t;&c_je;)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>kvasiť</trd>,
+    <trd>kysnúť</trd>
+  </trdgrp>
+</drv>
+<drv mrk="fermen.0ado">
+  <kap><tld/>ado</kap>
+  <snc>
+    <dif>
+      Malkomponi&gcirc;o per <tld/>o:
+      <ekz><tld/>ado de vino produktas vinagron.</ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_b;&c_r;&c_a;&c_d;&c_zh;&c_e;&c_n;&c_mol;&c_n;&c_je;</trd>,
+    <trd>&c_s;&c_k;&c_ib;&c_s;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>,
+    <trd>&c_f;&c_e;&c_r;&c_m;&c_e;&c_n;&c_t;&c_a;&c_c;&c_y;&c_ja;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>fermentace</trd>,
+    <trd>kvašení</trd>,
+    <trd>zkvašování</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+     <trd>G&auml;rung</trd>,
+     <trd>Fermentation</trd></trdgrp>
+  <trd lng="en">fermentation</trd>
+  <trd lng="es">fermentaci&oacute;n</trd>
+  <trd lng="fr">fermentation</trd>
+  <trdgrp lng="hu">
+    <trd>erjed&eacute;s</trd>,
+    <trd>kel&eacute;s<klr tip="amb">(t&eacute;szta)</klr></trd>
+  </trdgrp>
+  <trd lng="nl">fermentatie</trd>
+  <trdgrp lng="ru">
+    <trd>&c_b;&c_r;&c_o;&c_zh;&c_je;&c_n;&c_i;&c_je;</trd>,
+    <trd>&c_s;&c_k;&c_i;&c_s;&c_a;&c_n;&c_i;&c_je;</trd>,
+    <trd>&c_f;&c_je;&c_r;&c_m;&c_je;&c_n;&c_t;&c_a;&c_c;&c_i;&c_ja;</trd>
+  </trdgrp>
+  <trd lng="sk">kvasenie</trd>
+</drv>
+<drv mrk="fermen.0ema">
+  <kap><tld/>ema</kap>
+  <snc>
+    <dif>
+      Facile <tld/>anta.  
+    </dif>
+  </snc>
+  <trd lng="en">fermentable</trd>
+  <trd lng="fr">fermentescible</trd>
+  <trdgrp lng="hu">
+    <trd>erjeszthet&odblac;</trd>,
+    <trd>keleszthet&odblac;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: fermen.xml,v $
+Revision 1.17  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.15  2007/05/20 16:31:37  revo
+Tulio Flores: +tr pt
+
+Revision 1.14  2004/07/26 17:24:09  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.13  2003/09/25 16:32:10  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.12  2002/10/06 17:36:02  revo
+Paul Peeraerts: ald trd nl
+
+Revision 1.11  2002/06/25 19:42:54  revo
+Alejandro Mejia Greene: ald 3 his trd
+
+Revision 1.10  2002/01/31 17:31:34  revo
+Karlo Freeman: +trd=en
+
+Revision 1..9  2001/07/31 18:14:12  revo
+Marc Bavant: +trd fr, +uzo KUI en ekz, +uzo KEM (biohxemio)
+
+Revision 1.8  2001/06/26 18:13:45  revo
+-->
+</vortaro>
+

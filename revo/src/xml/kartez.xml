@@ -1,0 +1,137 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: kartez.xml,v 1.21 2015/07/04 08:37:37 revo Exp $">
+<kap>
+  <rad>Kartezi</rad>/o
+</kap>
+<drv mrk="kartez.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">PERS</uzo>
+  <fnt><bib>MatTerm</bib><lok>p. 46</lok></fnt>
+  <snc>
+    <dif>
+      Franclingve: Ren&eacute; <trd lng="fr">Descartes</trd>, 1596-1650.
+      Franca filozofo, matematikisto kaj fizikisto, multe voja&gcirc;inta en
+      la tiama E&ubreve;ropo.
+    </dif>
+    <trd lng="be">&c_D;&c_e;&c_k;&c_a;&c_r;&c_t;</trd>
+    <trdgrp lng="de">
+      <trd>Descartes</trd>,
+      <trd>D&eacute;scartes</trd>,
+      <trd>Cartesius</trd>
+    </trdgrp>
+    <trd lng="bg">&c_R;&c_je;&c_n;&c_je; <ind>&c_D;&c_je;&c_k;&c_a;&c_r;&c_t;</ind></trd>
+    <trd lng="br">Descartes</trd>
+    <trd lng="en">Descartes</trd>
+    <trd lng="es">Descartes</trd>
+    <trd lng="hu">Descartes</trd>
+    <trd lng="it">Cartesio</trd>
+    <trd lng="la">Renatus <ind>Cartesius</ind></trd>
+    <trdgrp lng="nl">
+      <trd>Descartes</trd>,
+      <trd>Cartesius</trd>
+    </trdgrp>
+    <trd lng="pl">Kartezjusz</trd>
+    <trdgrp lng="ru">
+      <trd>&c_R;&c_je;&c_n;&c_je; <ind>&c_D;&c_je;&c_k;&c_a;&c_r;&c_t;</ind></trd>,
+      <trd>&c_K;&c_a;&c_r;&c_t;&c_je;&c_z;&c_i;&c_j;</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="cs">Descartes René</trd>
+  <trd lng="sk">Descartes René</trd>
+</drv>
+
+<drv mrk="kartez.k0a">
+  <kap><tld lit="k"/>a</kap>
+  <snc>
+    <dif>
+      Iel rilatanta kun la filozofio a&ubreve; la matematikaj
+      laboroj de <tld/>o.
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="koordi.kartezia0o"><tld lit="k"/>a koordinato</ref>,
+      <ref cel="produt.kartezia0o"><tld lit="k"/>a produto</ref>,
+      <ref cel="foli.kartezia0o"><tld lit="k"/>a folio</ref>,
+      <ref cel="oval.kartezia0o"><tld lit="k"/>a ovalo</ref>.
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_D;&c_e;&c_k;&c_a;&c_r;&c_t;&c_a;</trd>,
+    <trd>&c_d;&c_e;&c_k;&c_a;&c_r;&c_t;&c_a;&c_w;</trd>
+  </trdgrp>
+  <trdgrp lng="bg">
+    <trd>&c_d;&c_je;&c_k;&c_a;&c_r;&c_t;&c_o;&c_v;&c_o;</trd>,
+    <trd>&c_k;&c_a;&c_r;&c_t;&c_je;&c_z;&c_i;&c_a;&c_n;&c_s;&c_k;&c_o;</trd>
+  </trdgrp>
+  <trdgrp lng="br">
+    <trd>-<ind>Descartes</ind></trd>,
+    <trd>kartezian</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Descartes'</trd>,
+    <trd>Descartesch</trd>,
+    <trd>kartesisch</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>Descartes[']</trd>,
+    <trd>Cartesian</trd>
+  </trdgrp>
+  <trd lng="es">cartesiano</trd>
+  <trdgrp lng="fr">
+    <trd>de <ind>Descartes</ind></trd>,
+    <trd>cart&eacute;sien</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>Descartes-i</trd>,
+    <trd>kartezi&aacute;nus</trd>
+  </trdgrp>
+  <trd lng="it">cartesiano</trd>
+  <trdgrp lng="nl">
+    <trd>van <ind>Descartes</ind></trd>,
+    <trd>cartesiaans</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>Kartezjusza</trd>,
+    <trd>kartezja&nacute;ski</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_D;&c_je;&c_k;&c_a;&c_r;&c_t;&c_a;</trd>,
+    <trd>&c_d;&c_je;&c_k;&c_a;&c_r;&c_t;&c_o;&c_v;</trd>,
+    <trd>&c_k;&c_a;&c_r;&c_t;&c_je;&c_z;&c_i;&c_a;&c_n;&c_s;&c_k;&c_i;&c_j;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: kartez.xml,v $
+Revision 1.21  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.19  2013/08/06 14:10:10  revo
+Joop Eggen: +trd bg
+
+Revision 1.18  2011/06/03 12:10:10  revo
+Carlos Angus: +trd es
+
+Revision 1.17  2009/11/22 17:30:31  revo
+Antonio Codazzi: +trd it
+
+Revision 1.16  2005/07/05 16:33:23  revo
+Alan ar Gall: +trd br
+
+Revision 1.15  2005/03/10 18:11:52  revo
+Yury Finkel: +trd ru
+
+Revision 1.14 2004/07/06 16:34:22 revo
+Dmitri Gabinski: +trd be
+
+Revision 1.13 2004/03/11 17:31:06 revo
+Jozefo Horvath: +trd hu
+
+Revision 1.12 2003/01/26 17:33:31 revo
+-->
+</vortaro>

@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: spil.xml,v 1.11 2015/07/04 08:37:44 revo Exp $">
+<kap>
+  <rad>spil</rad>/i <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="spil.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="spil.0i.KOMUNE">
+    <dif>
+      Fari en barelo truon por eltiri flua&jcirc;on:
+      <ekz>
+        barelojn ili <tld/>as, krude glutas
+        <fnt>
+          <aut>W. Auld</aut>,
+          <vrk><url
+          ref="http://www.sunela.eu/maku/Esperanto/La%20infana%20raso">
+          La Infana Raso</url></vrk>,
+          <lok>1956</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>narazit sud</trd>,
+    <trd>odpíchnout pec</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>anzapfen</trd>,
+    <trd>anstechen</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>spile</trd>,
+    <trd>tap</trd>,
+    <trd>broach</trd>
+  </trdgrp>
+  <trd lng="fr">mettre en perce</trd>
+  <trdgrp lng="hu">
+    <trd>megcsapol</trd>,
+    <trd>csapra ver</trd>
+  </trdgrp>
+  <trd lng="nl">opensteken<klr tip="ind"> (v.e.vat)</klr></trd>
+  <trd lng="ru">&c_b;&c_u;&c_r;&c_a;&c_v;&c_i;&c_t;&c_mol; <klr tip="amb">(&c_b;&c_o;&c_ch;&c_k;&c_u;)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>naraziť sud</trd>,
+    <trd>odpichnúť pec</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: spil.xml,v $
+Revision 1.11  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.10  2015/06/29 16:33:24  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.9  2013/11/23 02:10:19  revo
+Jeromo Vasxe: + ekz + trd fr
+
+Revision 1.8  2010/07/07 16:30:33  revo
+Russ Williams: +trd en
+
+Revision 1.7  2004/10/26 16:31:34  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.6  2002/02/15 17:33:53  revo
+Yury Finkel: +trd ru
+
+Revision 1.5 2001/10/07 18:15:42 revo
+Dennis Wibrow: +trd germ
+
+Revision 1.4 2001/08/01 18:11:57 revo
+Paul Peeraerts: ald trd nl
+
+-->
+</vortaro>

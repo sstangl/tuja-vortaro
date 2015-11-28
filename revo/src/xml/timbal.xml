@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: timbal.xml,v 1.11 2015/07/04 08:37:44 revo Exp $">
+<kap>
+  <rad>timbal</rad>/o <fnt><bib>SPV</bib></fnt>
+</kap>
+
+<drv mrk="timbal.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="timbal.0o.MUZ">
+    <uzo tip="fak">MUZ</uzo>
+    <dif>
+      <ref tip="lst" cel="instru2.frap0o"
+      lst="voko:frapinstrumentoj">Frapinstrumento</ref>
+      kun latuna sonkesto, kies tono estas regebla per pedalo:
+      <ekz>
+        Ili ludas <tld/>ojn / mane sen sova&gcirc;'. /
+        Kelkaj flustras kaj tenas / lumojn &ccirc;e la viza&gcirc;'.
+        <fnt>
+          <aut>G. Heym, trad. Cezar</aut>,
+          <vrk>&Ccirc;iuj pejza&gcirc;oj</vrk>,
+          <lok><url ref="http://www.cezarpoezio.de/107.html">
+          Cezarpoezio</url>, [2004?]</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        franca uverturo estas ofte aran&gcirc;ita kun trumpeto kaj
+        <tld/>o
+        <fnt><bib>Viki</bib>, <lok>artikolo &leftquot;franca
+        uverturo&rightquot;, 
+        2007-03-13</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="bg">&c_t;&c_i;&c_m;&c_p;&c_a;&c_n;</trd>
+  <trd lng="ca">timbala</trd>
+  <trdgrp lng="cs">
+    <trd>kotel</trd>,
+    <trd>tympán</trd>
+  </trdgrp>
+  <trd lng="de">Pauke</trd>
+  <trdgrp lng="en">
+    <trd>timpani</trd>,
+    <trd>kettle drum</trd>,
+    <trd>kettledrum</trd>
+  </trdgrp>
+  <trd lng="fr">timbale<klr> (musique)</klr></trd>
+  <trd lng="hu">cimbalom</trd>
+  <trdgrp lng="it">
+    <trd>timballo</trd>,
+    <trd>timpano</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>pauk</trd>,
+    <trd>keteltrom</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>kocio&lstroke;<klr tip="amb"> (instrument)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>kotol</trd>,
+    <trd>tympan</trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log: timbal.xml,v $
+Revision 1.11  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.10  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.9  2013/09/08 18:11:07  revo
+Wolfram Diestel: ref al listo frapinstrumentoj
+
+Revision 1.8  2011/12/06 15:10:18  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.7  2009/07/11 16:30:41  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.6  2009/03/01 17:35:15  revo
+Russ Williams: +trd en
+
+Revision 1.5  2009/01/17 18:09:32  revo
+Wieland Pusch: +trd bg
+
+Revision 1.4  2009/01/05 18:12:57  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.3  2008/10/20 18:43:14  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.2  2007/05/01 18:24:52  revo
+-->
+</vortaro>

@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: pazigrafi.xml,v 1.3 2015/07/04 08:37:41 revo Exp $">
+<kap>
+  <rad>pazigrafi</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="pazigrafi.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="pazigrafi.0o.LIN">
+    <uzo tip="fak">LIN</uzo>
+    <uzo tip="fak">TIP</uzo>
+    <dif>
+      Memstara
+      <ref tip="vid" cel="sistem.skrib0o.KOMUNE">skribsistemo</ref>,
+      kiu ebligas komunikadon sen dependo je
+      vo&ccirc;a a&ubreve; gesta lingvo:
+      <ekz>
+        tiaj kredeble estis la konsideroj, kiuj jam en la jaro 1668 
+        igis la episkopon John Wilkins eldoni sian grandiozan <tld/>an
+        provon
+        <fnt>
+          <aut>L. Einstein</aut>
+          <vrk>Al la historio de la provoj de lingvoj tutmondaj de 
+          Leibnitz &gcirc;is la nuna tempo</vrk>,
+          <lok>en: Fundamenta Krestomatio, 1904</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>pazigrafie</trd>,
+    <trd>všeobecné písmo</trd>
+  </trdgrp>
+  <trd lng="fr">pasigraphie</trd>
+  <trdgrp lng="sk">
+    <trd>pazigrafia</trd>,
+    <trd>všeobecné písmo</trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log: pazigrafi.xml,v $
+Revision 1.3  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.2  2015/06/29 16:40:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.1  2012/03/12 10:10:10  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: testik.xml,v 1.24 2015/07/04 08:37:44 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>testik</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="testik.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="testik.0o.ANA">
+    <uzo tip="fak">ANA</uzo>
+    <dif>
+      &Ccirc;iu el la du glandoj sekreciantaj la spermon &ccirc;e viraj mambestoj.
+    </dif>
+  </snc>
+  <trd lng="kek">ab&#789;aj</trd>
+  <trd lng="be">&c_ja;&c_je;&c_ch;&c_k;&c_a; <klr tip="amb">(&c_a;&c_n;&c_a;&c_t;.)</klr></trd>
+  <trd lng="ca">testicle</trd>
+  <trdgrp lng="cs">
+    <trd>testis</trd>,
+    <trd>varle</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+     <trd>Testikel</trd>,
+     <trd>Hoden</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>testicle</trd>,
+    <trd>testis</trd>
+  </trdgrp>
+  <trd lng="es">test&iacute;culo</trd>
+  <trdgrp lng="fa">
+    <trd>&a_b;&f_y;&a_D;&a_h;</trd>,
+    <trd>&a_kh;&a_A;&f_y;&a_h;</trd>
+  </trdgrp>
+  <trd lng="fr">testicule</trd>
+  <trd lng="hu">here <klr tip="amb">(anat.)</klr></trd>
+  <trd lng="id">testis</trd>
+  <trd lng="it">testicolo</trd>
+  <trdgrp lng="nl">
+    <trd>teelbal</trd>,
+    <trd>testikel</trd>
+  </trdgrp>
+  <trd lng="pl">j&aogonek;dro <klr>(m&eogonek;skie)</klr></trd>
+  <trdgrp lng="pt">
+    <trd>test&iacute;culo</trd>
+  </trdgrp>
+  <trd lng="ru">&c_ja;&c_i;&c_ch;&c_k;&c_o; <klr tip="amb">(&c_a;&c_n;&c_a;&c_t;.)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>semenník</trd>,
+    <trd>vajíčka <klr>(samčie)</klr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="testik.0ujo">
+  <kap><tld/>ujo</kap>
+  <snc mrk="testik.0ujo.ANA">
+    <uzo tip="fak">ANA</uzo>
+    <dif>
+      Ha&ubreve;tsako entenanta &ccirc;e viraj mamuloj
+      la <tld/>ojn;
+      <ref tip="sin" cel="skrot.0o.ANA">skroto</ref>:
+      <ekz>
+        <tld/>ujo, en kiu konturi&gcirc;is grandaj <tld/>oj
+        <fnt>
+          <aut>A. Tolstoj, trad. V. Bujak</aut>,
+          <vrk><url
+          ref="http://miresperanto.com/diversajhoj/erotiko/en_banejo.htm">
+          En Banejo</url></vrk>,
+          <lok>[vidita en 2013]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">šourek</trd>
+  <trd lng="en">scrotum</trd>
+  <trdgrp lng="fr">
+    <trd>bourse<klr> (scrotum)</klr></trd>,
+    <trd>scrotum</trd>
+  </trdgrp>
+  <trd lng="id">skrotum</trd>
+  <trd lng="sk">miešok</trd>
+</drv>
+</art>
+<!--
+$Log: testik.xml,v $
+Revision 1.24  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.23  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.22  2014/05/30 17:10:23  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.21  2013/12/03 02:10:15  revo
+Jeromo Vasxe: +  ~ujo
+
+Revision 1.20  2011/12/06 15:10:21  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.19  2011/11/07 01:10:21  revo
+ Anchise Inzaghi: traduko q'eqchi'
+
+Revision 1.18  2010/12/16 17:30:31  revo
+Antonio Codazzi: +trd it
+
+Revision 1.17  2009/12/23 17:30:17  revo
+Carlos Garcia: +trd es
+
+Revision 1.16  2009/08/19 18:42:04  revo
+Russ Williams: +trd en
+
+Revision 1.15  2009/06/23 16:31:24  revo
+-->
+</vortaro>

@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: svag.xml,v 1.5 2015/07/04 08:37:44 revo Exp $">
+<kap>
+    <rad>svag</rad>/a <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="svag.0a">
+  <kap><tld/>a</kap>
+  <uzo tip="stl">POE</uzo>
+  <uzo tip="stl">RAR</uzo>
+  <snc mrk="svag.0a.KOMUNE">
+    <ref tip="dif" cel="preciz.mal0a.KOMUNE">malpreciza</ref>
+    <ref tip="dif" cel="nebul.0a.FIG">nebula <sncref/></ref>
+    <ekz>
+      la tolo <klr>...</klr> &scirc;ajnis vasti&gcirc;i al la <tld/>aj kaj nebulaj 
+      muroj 
+      <fnt>
+        <aut>J. Camacho</aut>,
+        <vrk>La Majstro kaj Martinelli</vrk>,
+        <lok>Iltis, 1993</lok>
+      </fnt>;
+    </ekz>
+    <ekz>
+      ni vidis steleon el bronzo kun Greklingva surskribo, kvankam 
+      <tld/>e kaj apena&ubreve; plu legeble
+      <fnt><aut>Lukiano, trad. G. Berveling</aut>, <vrk><url 
+      ref="http://www.esperanto.gr/lit/els/rakontoj.pdf">veraj 
+      rakontoj</url>. - 2005</vrk></fnt>.
+    </ekz>
+  </snc>
+  <trdgrp lng="bg">
+    <trd>&c_n;&c_je;&c_ja;&c_s;&c_je;&c_n;</trd>,
+    <trd>&c_r;&c_a;&c_z;&c_m;&c_i;&c_t;&c_a;<klr tip="amb"> (&c_l;&c_o;&c_g;&c_i;&c_k;&c_a;)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>mlhavý</trd>,
+    <trd>nejasný</trd>,
+    <trd>neurčitý</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>vague</trd>,
+    <trd>fuzzy<klr tip="amb"> (logic)</klr></trd>
+  </trdgrp>
+  <trd lng="fr">vague<klr> (adj.)</klr></trd>
+  <trdgrp lng="it">
+    <trd>vago<klr> (agg.)</klr></trd>,
+    <trd>fuzzy<klr> (log. e inf.)</klr></trd>
+  </trdgrp>
+  <trd lng="nl">vaag</trd>
+  <trdgrp lng="sk">
+    <trd>hmlistý</trd>,
+    <trd>nejasný</trd>,
+    <trd>neurčitý</trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log: svag.xml,v $
+Revision 1.5  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.4  2015/06/29 16:33:25  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.3  2015/06/25 14:10:15  revo
+Joop Eggen: +trd bg en nl
+
+Revision 1.2  2010/06/09 16:30:24  revo
+Antonio Codazzi: +trd it
+
+Revision 1.1  2010/05/28 16:30:24  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

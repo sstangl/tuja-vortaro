@@ -1,0 +1,574 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: ark.xml,v 1.47 2015/09/16 11:10:29 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>ark</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="ark.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="ark.0o.KOMUNE">
+    <dif>
+      Objekto havanta formon de parto de cirklo a&ubreve; de simila 
+      kurbo:
+      <ekz>
+        <tld/>o de volbo, de fenestro;
+      </ekz>
+      <ekz>
+        apoga, de&scirc;ar&gcirc;a, ronda, duoncirkla, triloba <tld/>o;
+      </ekz>
+      <ekz>
+        <tld/>o pinta, rompita <klr>(ogivo)</klr>;
+      </ekz>
+      <ekz>
+        mian <tld/>on
+        <klr>(&ccirc;iel<tld/>on)</klr> mi metas en la nubon
+        <fnt><bib>MT</bib>, <lok>&Gen; 9:13</lok></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">Bogen</trd>
+    <trd lng="en">arch</trd>
+    <trd lng="id">busur</trd>
+    <trd lng="hu">&iacute;v</trd>
+    <trd lng="pt">arco</trd>
+    <trd lng="sv">b&aring;ge</trd>
+  </snc>
+  <snc mrk="ark.0o.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <subsnc mrk="ark.0o.segmento">
+      <fnt><bib>MatTerm</bib>, <lok>p. 28</lok></fnt>
+      <dif>
+        <ref cel="segmen.0o.linio">Segmento</ref> de
+        <ref cel="kurb.0o.MAT">kurbo</ref>, precipe de
+        <ref cel="cirkl.0o.linio">cirklo</ref>:
+        <ekz>
+          <tld/>o estas &ccirc;iam pli longa ol
+          <ref cel="sxnur.0o.cirklo">&scirc;nuro</ref> kun samaj randoj;
+        </ekz>
+        <ekz>
+          <ref cel="ort.0o">orto</ref>
+          <ref cel="trancx.de0i.MAT">detran&ccirc;as</ref> sur cirklo kun
+          <ref cel="centr.0o.cirklo">centro</ref> en &gcirc;ia
+          <ref cel="vertic.0o.angulo">vertico</ref>
+          <tld/>on egalan al kvarono de la tuta
+          <ref cel="cirkon.0o">cirkonferenco</ref>.
+        </ekz>
+      </dif>
+      <rim>
+        Oni ne konfuzu la <tld/>on, <ref
+        cel="segmen.0o.linio">segmento</ref>
+        de <ref cel="cirkl.0o.linio">cirklo <sncref/></ref>, kun la
+        <ref cel="segmen.0o.cirklo">segmento</ref> de
+        <ref cel="cirkl.0o.surfaco">cirklo <sncref/></ref>.
+      </rim>
+      <trdgrp lng="de">
+        <trd>Bogen<klr tip="ind"> (einer Kurve)</klr></trd>,
+        <trd>Kreisbogen</trd>,
+        <trd>Bogenlinie</trd>,
+        <trd>Kr&uuml;mmung</trd>
+      </trdgrp>
+      <trd lng="en">arc<klr tip="ind"> (of a curve)</klr></trd>
+      <trd lng="fr">arc<klr tip="ind"> (de courbe)</klr></trd>
+      <trd lng="hu">k&ouml;r&iacute;v</trd>
+      <trd lng="nl">boog</trd>
+      <trd lng="pl">&lstroke;uk</trd>
+      <trd lng="ru">&c_d;&c_u;&c_g;&c_a;<klr tip="ind"> (&c_k;&c_r;&c_i;&c_v;&c_o;&c_j;)</klr></trd>
+      <trd lng="sv">b&aring;ge<klr tip="ind"> (av en kurva)</klr></trd>
+    </subsnc>
+    <subsnc mrk="ark.0o.angulo">
+      <fnt><bib>PIV2</bib></fnt>
+      <uzo tip="stl">EVI</uzo>
+      <dif>
+        <tld lit="A"/>o <sncref ref="ark.0o.segmento"/>,
+        <ref cel="trancx.de0i.MAT">detran&ccirc;ita</ref> sur cirklo fare de
+        <ref cel="angul.centra0o">centra angulo</ref> kaj konvencie
+        identigita kun &gcirc;i.
+      </dif>
+      <refgrp tip="vid">
+        <ref cel="sinus.ark0o">arksinuso</ref>,
+        <ref cel="kosinu.ark0o">arkkosinuso</ref>,
+        <ref cel="tangen.ark0o">arktangento</ref>,
+        <ref cel="kotang.ark0o">arkkotangento</ref>,
+        <ref cel="sekant.ark0o">arksekanto</ref>,
+        <ref cel="koseka.ark0o">arkkosekanto</ref>.
+      </refgrp>
+      <rim>
+        Tiu senco aperas nur en neregulaj kunmeta&jcirc;oj de la tipo
+        <ctl>arksinuso <frm><k>x</k></frm></ctl>, kiuj estas
+        interpretendaj
+        kiel <ctl>la <tld/>o (angulo), kies sinuso egalas al
+        <frm><k>x</k></frm></ctl>.
+        &Ccirc;i-sence <fnt><bib>PIV1</bib></fnt> registris novan radikon
+        <ctl>arkus</ctl>, sed nekonsekvence mencias
+        <ctl>sinus<tld/>o</ctl>
+        sub <ctl><tld/>o</ctl>. La neologismo <ctl>arkuso</ctl> ne
+        aspektas
+        tre utila por tiom mar&gcirc;ena uzo. E&ccirc; se konsideri la eblan
+        sencovastigon al <ctl>mezuro de angulo</ctl>, kiun proponis
+        <fnt><bib>EKV</bib>, <lok>&para;26</lok></fnt>, restas la fakto, ke
+        &ccirc;io &ccirc;i ne solvas la &ccirc;efan problemon, t.e. la
+        neregulecon de la kunmeta&jcirc;oj uzantaj tiun nocion.
+        Supozeble tial <ctl>arkuso</ctl> aperas kiel evitinda en
+        <fnt><bib>PIV2</bib></fnt>. Pli lerta estis la propono de
+        <fnt><bib>MatStokTerm</bib>, <lok>p. 63</lok></fnt> uzi la
+        prefikson
+        <ctl>mal-</ctl> &ccirc;i-sence (do
+        <ekz>
+          malkosinuso,
+        </ekz>
+        ktp), sed
+        &gcirc;i &scirc;ajne ne enradiki&gcirc;is.
+      </rim>
+    </subsnc>
+    <trdgrp lng="de">
+      <trd>Bogen</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="ark.0o.ELE">
+    <uzo tip="fak">ELE</uzo>
+    <dif>
+      Luma <tld/>o formi&gcirc;anta inter du apartigitaj karbaj polusoj:
+      <ekz>
+        <ind><tld/>lampo</ind>, <tld/>lumo.
+        <trd lng="ca">l&agrave;mpada d'arc</trd>
+        <trd lng="en">arc lamp</trd>
+        <trd lng="fr">lampe &agrave; arc</trd>
+        <trd lng="ru">&c_d;&c_u;&c_g;&c_o;&c_v;&c_a;&c_ja; &c_l;&c_a;&c_m;&c_p;&c_a;</trd>
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>Bogen</trd>,
+      <trd>Lichtbogen</trd>
+    </trdgrp>
+    <trd lng="en">arc</trd>
+    <trd lng="sv">ljusb&aring;ge</trd>
+  </snc>
+  <trd lng="be">&c_d;&c_u;&c_g;&c_a;</trd>
+  <trd lng="ca">arc</trd>
+  <trd lng="cs">oblouk</trd>
+  <trd lng="de">Bogen</trd>
+  <trd lng="es">arco</trd>
+  <trd lng="fr">arc</trd>
+  <trd lng="hu">f&eacute;ny&iacute;v</trd>
+  <trd lng="it">arco</trd>
+  <trd lng="nl">boog</trd>
+  <trd lng="ru">&c_d;&c_u;&c_g;&c_a;</trd>
+  <trd lng="sk">obl&uacute;k</trd>
+</drv>
+
+<drv mrk="ark.0i">
+  <kap><tld/>i</kap>
+  <snc mrk="ark.0i.KOMUNE">
+    <dif>
+      Stari la&ubreve; formo de <tld/>o:
+      <ekz>
+        vasta kavo <klr>...</klr> <tld/>is alte super iliaj kapoj
+        <fnt><bib>DOz</bib>, <lok>&leftquot;la kavo de la
+        draketoj&rightquot;</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="ca">
+    <trd>arquejar-se</trd>,
+    <trd>tindre forma d'arc</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>tener forma de arco</trd>,
+    <trd>estar <klr>o levantarse</klr> en forma de arco <klr>(se puede
+    traducir como "arquearse" pero no implica una acci&oacute;n; solo se usa
+    cuando algo ya est&aacute; arqueado)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>s'<ind>arquer</ind></trd>,
+    <trd>former un <ind>arc</ind></trd>
+  </trdgrp>
+  <trdgrp lng="it">
+    <trd>inarcarsi</trd>,
+    <trd>aver forma d'<ind>arco</ind></trd>,
+    <trd>archeggiare<klr> (intr.)</klr></trd>
+  </trdgrp>
+  <trd lng="sv">bilda en <ind>b&aring;ge</ind></trd>
+</drv>
+
+<drv mrk="ark.0ajxo">
+  <kap><ofc>*</ofc><tld/>a&jcirc;o</kap>
+  <snc mrk="ark.0ajxo.ARKI">
+    <uzo tip="fak">ARKI</uzo>
+    <dif>
+      <tld lit="A"/>forma konstrua&jcirc;o:
+      <ekz>
+        triumfa, bonvena <tld/>a&jcirc;o;
+      </ekz>
+      <ekz>
+        tio &ccirc;i estas speco de ponto kun grandega <tld/>a&jcirc;o
+        <fnt><bib>FK</bib>, <lok>5, el la vivo kaj sciencoj, la lo&gcirc;ejoj
+        de
+        la termitoj</lok></fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        <ind>la &ccirc;iela <tld/>a&jcirc;o</ind> <klr>(volbo)</klr>.
+        <trd lng="ca">la volta del cel</trd>
+      </ekz>
+    </dif>
+    <trd lng="be">&c_a;&c_r;&c_k;&c_a;</trd>
+    <trd lng="ca">arc <klr>(arq.)</klr></trd>
+    <trd lng="de">Bogen</trd>
+    <trd lng="en">arch</trd>
+    <trdgrp lng="fr">
+      <trd>arc<klr tip="ind"> (archi.)</klr></trd>,
+      <trd>arche<klr tip="ind"> (d'un pont)</klr></trd>,
+      <trd>voute</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>&iacute;vezet</trd>,
+      <trd>bolt&iacute;v</trd>
+    </trdgrp>
+    <trd lng="nl">boog</trd>
+    <trd lng="ru">&c_a;&c_r;&c_k;&c_a;</trd>
+    <trd lng="sv">b&aring;ge</trd>
+  </snc>
+</drv>
+
+<drv mrk="ark.0ajxaro">
+  <kap><tld/>a&jcirc;aro</kap>
+  <snc mrk="ark.0ajxaro.ARKI">
+    <uzo tip="fak">ARKI</uzo>
+    <ref tip="dif" cel="arkad.0aro">arkadaro</ref>
+    <trd lng="ca">arcada</trd>
+    <trdgrp lng="de">
+      <trd>Arkade</trd>,
+      <trd>Bogenreihe</trd>
+    </trdgrp>
+    <trd lng="en">arcade</trd>
+    <trd lng="es">arcada <klr>(arquitectura)</klr></trd> 
+    <trd lng="hu">&aacute;rk&aacute;dsor</trd>
+  </snc>
+  <trd lng="be">&c_a;&c_r;&c_k;&c_a;&c_d;&c_a;</trd>
+  <trd lng="nl">arcade</trd>
+  <trd lng="ru">&c_a;&c_r;&c_k;&c_a;&c_d;&c_a;</trd>
+  <trd lng="sv">arkad</trd>
+</drv>
+
+<drv mrk="ark.0igi">
+  <kap><tld/>igi</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="ark.0igi.KOMUNE">
+    <dif>
+      Igi <tld/>oforma:
+      <ekz>
+        <tld/>igi <klr>(fleksi)</klr> bran&ccirc;on, la brovojn;
+      </ekz>
+      <ekz>
+        la kato <tld/>igis la dorson.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="gxib.0o">&gcirc;ibo</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_a;&c_g;&c_n;&c_u;&c_c;&c_mol; &c_u; &c_d;&c_u;&c_g;&c_u;</trd>,
+    <trd>&c_v;&c_y;&c_g;&c_n;&c_u;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="ca">
+    <trd>arquejar</trd>,
+    <trd>corbar</trd>
+  </trdgrp>
+  <trd lng="cs">ohnout do oblouku</trd>
+  <trdgrp lng="de">
+    <trd>kr&uuml;mmen</trd>,
+    <trd>biegen</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>arch</trd>,
+    <trd>bend</trd>,
+    <trd>camber</trd>,
+    <trd>curve</trd>,
+    <trd>hump</trd>
+  </trdgrp>
+  <trd lng="es">arquear</trd>
+  <trd lng="fr">arquer</trd>
+  <trdgrp lng="hu">
+    <trd>&iacute;vel</trd>,
+    <trd>g&ouml;rb&iacute;t</trd>
+  </trdgrp>
+  <trdgrp lng="it">
+    <trd>inarcare</trd>,
+    <trd>arcuare</trd>,
+    <trd>archeggiare<klr> (tr.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>krommen</trd>,
+    <trd>buigen</trd>
+  </trdgrp>
+  <trd lng="sk">ohn&uacute;&tcaron; do obl&uacute;ka</trd>
+  <trd lng="sv">b&ouml;ja</trd>
+</drv>
+
+<drv mrk="ark.apog0o">
+  <kap>apog<tld/>o</kap>
+  <snc mrk="ark.apog0o.ARKI">
+    <uzo tip="fak">ARKI</uzo>
+    <dif>
+      <tld lit="A"/>a&jcirc;o servanta por apogi muron, konstrua&jcirc;on kontra&ubreve;
+      elfalo:
+      <ekz>
+        la gotikaj katedraloj havas grandajn ornamitajn apog<tld/>ojn.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="ca">arcbotant</trd>
+  <trd lng="cs">op&ecaron;rn&yacute; oblouk</trd>
+  <trd lng="de">Bogenst&uuml;tze</trd>
+  <trd lng="en">flying buttress</trd>
+  <trd lng="fr">arc-boutant</trd>
+  <trd lng="hu">t&aacute;m&iacute;v</trd>
+  <trd lng="it">contrafforte</trd>
+  <trd lng="nl">steunbeer</trd>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_o;&c_d;&c_p;&c_o;&c_r;&c_n;&c_a;&c_ja; &c_a;&c_r;&c_k;&c_a;</trd>,
+    <trd>&c_a;&c_r;&c_o;&c_ch;&c_n;&c_y;&c_j; &c_k;&c_o;&c_n;&c_t;&c_r;&c_f;&c_o;&c_r;&c_s;</trd>
+  </trdgrp>
+  <trd lng="sk">oporn&yacute; obl&uacute;k</trd>
+</drv>
+
+<drv mrk="ark.cxiel0o">
+  <kap>&ccirc;iel<tld/>o</kap>
+  <snc mrk="ark.cxiel0o.MET">
+    <uzo tip="fak">MET</uzo>
+    <dif>
+      Sepkolora <tld/>o sur la &ccirc;ielo post pluvo:
+      <ekz>
+        la &ccirc;iel<tld/>o estis super lia kapo, kaj lia viza&gcirc;o estis kiel
+        la
+        suno
+        <fnt><bib>NT</bib>, <lok>&Apo; 10:1</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_v;&c_ja;&c_s;&c_jo;&c_l;&c_k;&c_a;</trd>
+  <trd lng="ca">arc de Sant Mart&iacute;</trd>
+  <trd lng="de">Regenbogen</trd>
+  <trd lng="en">rainbow</trd>
+  <trd lng="es">arco&iacute;ris</trd> 
+  <trd lng="fr">arc-en-ciel</trd>
+  <trd lng="hu">sziv&aacute;rv&aacute;ny</trd>
+  <trd lng="id">pelangi</trd>
+  <trd lng="it">arcobaleno</trd>
+  <trd lng="nl">regenboog</trd>
+  <trd lng="ru">&c_r;&c_a;&c_d;&c_u;&c_g;&c_a;</trd>
+  <trd lng="sk">d&uacute;ha</trd>
+  <trd lng="sv">regnb&aring;ge</trd>
+</drv>
+
+<drv mrk="ark.lun0o">
+  <kap>lun<tld/>o</kap>
+  <snc mrk="ark.lun0o.AST">
+    <uzo tip="fak">AST</uzo>
+    <dif>
+      Aspekto de la luno, kiam videblas eta, <tld/>oforma parto de &gcirc;i 
+      komence a&ubreve; fine de &gcirc;ia ciklo:
+      <ekz>
+        nun restis nur eta parto de la Luno lumigita, nur eta 
+        lun<tld/>o
+        <fnt>
+          <aut>W. Cayzac</aut>,
+          <vrk><url
+          ref="http://www.esperanto.org/AEK/amator/la_unua_plena.htm">
+          La unua plena luneklipso...</url></vrk>,
+          <lok>2001</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="kresce.0o">krescento</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_a;&c_w;&c_m;&c_je;&c_s;&c_ja;&c_c;</trd>,
+    <trd>&c_s;&c_je;&c_r;&c_p; &c_m;&c_je;&c_s;&c_ja;&c_c;&c_a;</trd>
+  </trdgrp>
+  <trd lng="br">loargresk</trd>
+  <trdgrp lng="ca">
+    <trd>creixent</trd>,
+    <trd>minvant</trd>
+  </trdgrp>
+  <trd lng="cs">srpek m&ecaron;s&iacute;ce</trd>
+  <trdgrp lng="de">
+    <trd>Mondsichel</trd>,
+    <trd>Halbmond</trd>
+  </trdgrp>
+  <trd lng="fr">croissant<klr tip="ind"> (de lune)</klr></trd>
+  <trd lng="hu">holdsarl&oacute;</trd>
+  <trdgrp lng="id">
+    <trd>sabit</trd>,
+    <trd>bulan sabit</trd>
+  </trdgrp>
+  <trd lng="it">mezzaluna</trd>
+  <trdgrp lng="pl">
+    <trd>sierp <ind>ksi&eogonek;&zdot;yca</ind></trd>,
+    <trd>rogal<klr> ksi&eogonek;&zdot;yca</klr></trd>
+  </trdgrp>
+  <trd lng="ru">&c_l;&c_u;&c_n;&c_n;&c_y;&c_j; &c_s;&c_je;&c_r;&c_p;</trd>
+  <trdgrp lng="sk">
+    <trd>kos&aacute;k mesiaca</trd>,
+    <trd>&scaron;tvr&tcaron; mesiaca</trd>
+  </trdgrp>
+  <trd lng="sv">m&aring;nsk&auml;ra</trd>
+</drv>
+
+<drv mrk="ark.paf0o">
+  <kap>paf<tld/>o</kap>
+  <snc mrk="ark.paf0o.MIL">
+    <dif>
+      <tld lit="A"/>oforma <ref tip="super" cel="arm.0ilo">armilo</ref>
+      por
+      pafi <ref tip="vid" cel="sag.0o">sagojn</ref>:
+      <ekz>
+        prenu do nun viajn armilojn, vian sagujon kaj vian paf<tld/>on,
+        kaj iru sur la kampon kaj &ccirc;asu por mi &ccirc;asa&jcirc;on
+        <fnt><bib>MT</bib>, <lok>&Gen; 27:3</lok></fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        trostre&ccirc;i la paf<tld/>on <klr>(tropostuli)</klr>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_l;&c_u;&c_k;</trd>
+  <trd lng="ca">arc <klr>(arma)</klr></trd>
+  <trd lng="cs">luk</trd>
+  <trdgrp lng="de">
+    <trd>Schie&szlig;bogen</trd>,
+    <trd>Flitzebogen</trd>
+  </trdgrp>
+  <trd lng="en">bow</trd>
+  <trd lng="es">arco <klr>(arma)</klr></trd>
+  <trd lng="fr">arc<klr tip="ind"> (arme)</klr></trd>
+  <trd lng="hu">&iacute;j</trd>
+  <trd lng="id">busur panah</trd>
+  <trd lng="it">arco<klr> (arma)</klr></trd>
+  <trd lng="nl">boog<klr tip="ind"> (wapen)</klr></trd>
+  <trd lng="ru">&c_l;&c_u;&c_k;<klr tip="amb"> (&c_o;&c_r;&c_u;&c_zh;&c_i;&c_je;)</klr></trd>
+  <trd lng="sk">luk</trd>
+  <trd lng="sv">pilb&aring;ge</trd>
+</drv>
+
+<drv mrk="ark.pint0o">
+  <kap>pint<tld/>o</kap>
+  <snc mrk="ark.pint0o.ARKI">
+    <uzo tip="fak">ARKI</uzo>
+    <dif>
+      <tld lit="A"/>a&jcirc;o kun formo de du kurboj sin renkontaj je meza
+      pinto:
+      <ekz>
+        pre&gcirc;ejoj <klr>...</klr> kun altaj turoj kaj pint<tld/>aj
+        fenestroj
+        <fnt><bib>Fab1</bib>, <lok>sova&gcirc;aj cignoj</lok></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="ogiv.0o">ogivo</ref>
+    </refgrp>
+  </snc>
+  <trd lng="ca">ogiva</trd>
+  <trdgrp lng="cs">
+    <trd>gotick&yacute; oblouk</trd>,
+    <trd>lomen&yacute; oblouk</trd>
+  </trdgrp>
+  <trd lng="de">Spitzbogen</trd>
+  <trd lng="en">ogive</trd>
+  <trd lng="fr">arc bris&eacute;</trd>
+  <trd lng="hu">cs&uacute;cs&iacute;v</trd>
+  <trdgrp lng="it">
+    <trd>costolone</trd>,
+    <trd>ogiva<klr> (arch.)</klr></trd>
+  </trdgrp>
+  <trd lng="nl">spitsboog</trd>
+  <trd lng="ru">&c_s;&c_t;&c_r;&c_je;&c_l;&c_mol;&c_ch;&c_a;&c_t;&c_y;&c_j; &c_s;&c_v;&c_o;&c_d;</trd>
+  <trd lng="sk">gotick&yacute; obl&uacute;k</trd>
+  <trd lng="sv">spetsb&aring;ge</trd>
+</drv>
+
+<drv mrk="ark.pluv0o">
+  <kap>pluv<tld/>o</kap>
+  <snc mrk="ark.pluv0o.MET">
+    <uzo tip="fak">MET</uzo>
+    <ref tip="dif" cel="ark.cxiel0o.MET">&ccirc;iel<tld/>o</ref>
+  </snc>
+  <trd lng="be">&c_v;&c_ja;&c_s;&c_jo;&c_l;&c_k;&c_a;</trd>
+  <trd lng="ca">arc de Sant Mart&iacute;</trd>
+  <trd lng="cs">duha</trd>
+  <trd lng="de">Regenbogen</trd>
+  <trd lng="en">rainbow</trd>
+  <trd lng="fr">arc-en-ciel</trd>
+  <trd lng="hu">sziv&aacute;rv&aacute;ny</trd>
+  <trd lng="id">pelangi</trd>
+  <trd lng="it">arcobaleno</trd>
+  <trd lng="nl">regenboog</trd>
+  <trd lng="ru">&c_r;&c_a;&c_d;&c_u;&c_g;&c_a;</trd>
+  <trd lng="sk">d&uacute;ha</trd>
+  <trd lng="sv">regnb&aring;ge</trd>
+</drv>
+
+<drv mrk="ark.vest0o">
+  <kap>vest<tld/>o</kap>
+  <snc mrk="ark.vest0o.TEKS">
+    <uzo tip="fak">TEKS</uzo>
+    <dif>
+      Rigida arko proksimume du&scirc;ultro-forma,
+      provizita per hoko, por pendigo de vestoj:
+      <ekz>
+        li tamen faligis kelkajn vest<tld/>ojn, li &ccirc;iam faligis ilin 
+        kiam li klopodis esti silenta
+        <fnt>
+          <aut>T. Jansson, trad. A. Nordstr&ouml;m</aut>,
+          <vrk><url
+          ref="http://hem.bredband.net/andnor/lsg/lagranda.htm">
+          La granda voja&gcirc;o</url></vrk>,
+          <lok>[2006]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="ca">penja-robes</trd>
+  <trd lng="cs">ram&iacute;nko na &scaron;aty</trd>
+  <trd lng="es">percha</trd>
+  <trd lng="fr">cintre<klr> (&agrave; v&ecirc;tements)</klr></trd>
+  <trdgrp lng="it">
+    <trd>attaccapanni</trd>,
+    <trd>gruccia<klr> (appendiabiti)</klr></trd>
+  </trdgrp>
+  <trd lng="sk">ve&scaron;iak</trd>
+</drv>
+</art>
+<!--
+$Log: ark.xml,v $
+Revision 1.47  2015/09/16 11:10:29  revo
+Evandro Avellar: +trd pt
+
+Revision 1.46  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.45  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.44  2015/04/21 09:10:14  revo
+Carlos Garcia: +trd es paf-o
+
+Revision 1.43  2013/04/27 05:10:09  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.42  2012/02/18 10:10:10  revo
+Carlos Garcia: +trd es cxiel-o vest-o -ajxaro
+
+Revision 1.41  2012/02/18 01:10:10  revo
+Carlos Garcia: +trd es -igi
+
+Revision 1.40  2012/02/06 12:10:09  revo
+-->
+</vortaro>

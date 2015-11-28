@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: api.xml,v 1.20 2015/10/15 05:10:15 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>api</rad>/o
+</kap>
+<drv mrk="api.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">BOT</uzo>
+  <snc>
+    <dif>
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:botanikaj_genroj">Genro</ref> el familio <ref
+      tip="malprt" cel="apiac.0oj">apiacoj</ref>
+      (<trd lng="la">Apium</trd>), la specio
+      <ref tip="sub" cel="celeri.0o">celerio</ref> estas
+      kulturata kiel legomo.
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_a;&c_l;&c_je;&c_r;&c_a;</trd>
+  <trd lng="ca">api</trd>
+  <trd lng="de">Sellerie</trd>
+  <trdgrp lng="en">
+    <trd>wild celery</trd>
+  </trdgrp>
+  <trd lng="es">apio</trd>
+  <trd lng="fr">ache</trd>
+  <trd lng="hu">zeller</trd>
+  <trd lng="pl">selery</trd>
+  <trd lng="ru">&c_s;&c_je;&c_l;&c_mol;&c_d;&c_je;&c_r;&c_je;&c_j;</trd>
+  <trd lng="sv">floka</trd>
+</drv>
+</art>
+<!--
+$Log: api.xml,v $
+Revision 1.20  2015/10/15 05:10:15  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.19  2013/08/26 08:10:35  revo
+Wolfram Diestel: referenco al listoj bot genroj
+
+Revision 1.18  2012/08/26 11:10:16  revo
+Marc Rausell: + trd ca
+
+Revision 1.17  2009/06/29 18:06:00  revo
+Russ Williams: +trd en
+
+Revision 1.16  2004/05/12 16:33:03  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.15  2002/05/10 16:33:44  revo
+Alejandro Mejia Greene: ald his trd
+
+Revision 1.14  2002/03/19 17:34:19  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.13  2002/02/23 19:55:47  revo
+-->
+</vortaro>

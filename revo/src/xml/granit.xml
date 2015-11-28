@@ -1,0 +1,134 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: granit.xml,v 1.22 2015/09/22 11:10:19 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>granit</rad>/o
+</kap>
+<drv mrk="granit.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="granit.0o.MIN">
+    <uzo tip="fak">MIN</uzo>
+    <dif>
+      Tre malmola erupcia roka&jcirc;o konsistanta el miksa&jcirc;o da glimo,
+      kvarco kaj feldspato:
+      <ekz>
+        la monto <klr>...</klr> konsistis el &scirc;tono simila al <tld/>o
+        <fnt><bib>DOz</bib>, <lok>&leftquot;la valo de vo&ccirc;oj&rightquot;</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_g;&c_r;&c_a;&c_n;&c_ib;&c_t;</trd>
+  <trd lng="ca">granit</trd>
+  <trdgrp lng="cs">
+    <trd>granit</trd>,
+    <trd>&zcaron;ula</trd>
+  </trdgrp>
+  <trd lng="de">Granit</trd>
+  <trd lng="en">granite</trd>
+  <trd lng="es">granito</trd>
+  <trdgrp lng="fr">
+    <trd>granit</trd>,
+    <trd>granite</trd>
+  </trdgrp>
+  <trd lng="hu">gr&aacute;nit</trd>
+  <trd lng="nl">graniet</trd>
+  <trd lng="pl">granit</trd>
+  <trd lng="pt">granito</trd>
+  <trd lng="ru">&c_g;&c_r;&c_a;&c_n;&c_i;&c_t;</trd>
+  <trd lng="sk">&zcaron;ula</trd>
+  <trd lng="sv">granit</trd>
+  <trd lng="tr">granit</trd>
+</drv>
+
+<drv mrk="granit.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="granit.0a.MIN">
+    <dif>
+      El <tld/>o:
+      <ekz>
+        <tld/>aj pavimeroj, muroj;
+      </ekz>
+      <ekz>
+        <ctl>Sur kampo <tld/>a</ctl>
+        <klr>(romano de Nemere Istv&aacute;n)</klr>
+        <fnt><aut>Nemere Istv&aacute;n</aut>, <vrk>Sur kampo granita. -
+        Budape&scirc;to: Hungara Esperanto-Asocio, 1983</vrk></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_g;&c_r;&c_a;&c_n;&c_ib;&c_t;&c_n;&c_y;</trd>
+    <trd lng="ca">gran&iacute;tic</trd>
+    <trd lng="en">granite</trd>
+    <trdgrp lng="fr">
+      <trd>en <ind>granit</ind></trd>,
+      <trd>granitique</trd>
+    </trdgrp>
+    <trd lng="hu">gr&aacute;nit-</trd>
+    <trd lng="nl">granieten</trd>
+    <trd lng="pl">granitowy</trd>
+    <trdgrp lng="pt">
+     <trd>de <ind>granito</ind></trd>, 
+     <trd>gran&iacute;tico<klr tip="ind"> (adj.)</klr></trd> 
+    </trdgrp>
+    <trd lng="ru">&c_g;&c_r;&c_a;&c_n;&c_i;&c_t;&c_n;&c_y;&c_j;</trd>
+  </snc>
+  <snc mrk="granit.0a.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Obstinega:
+      <ekz>
+        lia <ind><tld/>a kapo</ind> ne enlasas alian opinion.
+        <trd lng="be">&c_g;&c_a;&c_l;&c_a;&c_v;&c_a; &c_d;&c_u;&c_b;&c_o;&c_v;&c_a;&c_ja;</trd>
+        <trd lng="fr">t&ecirc;te dure<klr tip="ind"> (obstin&eacute;e)</klr></trd>
+        <trd lng="hu">fafej</trd>
+        <trdgrp lng="nl">
+          <trd>een stijve <ind>kop</ind></trd>,
+          <trd>een harde <ind>kop</ind></trd>
+        </trdgrp>
+        <trd lng="pt">muito <ind>obstinado</ind><klr tip="ind">
+        (adj.)</klr></trd>
+        <trd lng="tr">ta&scedil; kafa</trd>
+      </ekz>
+    </dif>
+    <trd lng="be">&c_u;&c_p;&c_a;&c_r;&c_t;&c_y;</trd>
+    <trd lng="ca">testarrut</trd>
+    <trd lng="hu">k&odblac;kem&eacute;ny</trd>
+    <trd lng="nl">koppig</trd>
+    <trd lng="ru">&c_t;&c_v;&c_je;&c_r;&c_d;&c_o;&c_k;&c_a;&c_m;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>granitov&yacute;</trd>,
+    <trd>ze &zcaron;uly</trd>,
+    <trd>&zcaron;ulov&yacute;</trd>
+  </trdgrp>
+  <trd lng="sk">&zcaron;ulov&yacute;</trd>
+</drv>
+</art>
+<!--
+$Log: granit.xml,v $
+Revision 1.22  2015/09/22 11:10:19  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.21  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:29:39  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.19  2012/08/04 12:10:29  revo
+Marc Rausell: + trd ca
+
+Revision 1.18  2009/08/28 16:32:39  revo
+Russ Williams: +trd en
+
+Revision 1.17  2009/08/25 16:31:31  revo
+Emmanuel Debanne: kor tr
+
+Revision 1.16  2005/12/22 17:31:16  revo
+Jeromo Vasxe: + 1 ekz
+
+Revision 1.15  2005/08/26 16:31:18  revo
+-->
+</vortaro>

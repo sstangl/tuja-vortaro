@@ -1,0 +1,128 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: neper.xml,v 1.15 2015/07/04 08:37:40 revo Exp $">
+<kap>
+  <rad>Neper</rad>/o
+</kap>
+<drv mrk="neper.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">PERS</uzo>
+  <snc>
+    <dif>
+      Anglalingve: <trd lng="en">John <ind>Napier</ind> (a&ubreve;
+      Neper)</trd>, 1550-1617. Skota matematikisto.
+        
+    </dif>
+  </snc>
+  <trd lng="be">&c_N;&c_e;&c_p;&c_e;&c_r;</trd>
+  <trd lng="cs">J. Napier</trd>
+  <trdgrp lng="de">
+    <trd>Napier</trd>,
+    <trd>Neper</trd></trdgrp>
+  <trdgrp lng="fr">
+    <trd>Napier</trd>,
+    <trd>Neper</trd>,
+    <trd>N&eacute;per</trd></trdgrp>
+  <trdgrp lng="hu">
+    <trd>Napier</trd>,
+    <trd>Neper</trd>
+  </trdgrp>
+  <trdgrp lng="it">
+    <trd>John <ind>Napier</ind></trd>,
+    <trd>Giovanni <ind>Nepero</ind></trd>,
+    <trd>Nepero</trd>
+  </trdgrp>
+  <trd lng="nl">John <ind>Neper</ind></trd>
+  <trd lng="pl">Neper</trd>
+  <trdgrp lng="pt">
+    <trd>John <ind>Napier</ind></trd>,
+    <trd>John <ind>Neper</ind></trd>
+  </trdgrp>
+  <trd lng="ru">&c_N;&c_je;&c_p;&c_je;&c_r;</trd>
+  <trd lng="sk">J. Napier</trd>
+</drv>
+
+<drv mrk="neper.n0o">
+  <kap><tld lit="n"/>o</kap>
+  <uzo tip="fak">FIZ</uzo>
+  <fnt><bib>PIV1</bib></fnt>
+  <snc>
+    <dif>
+      Praktika <ref tip="super" cel="unu.mezur0o">mezurunuo</ref> de
+      kvociento de la elira al la enira <ref cel="pov.0o.FIZ">povo</ref>
+      en fizika sistemo; simb. Np:
+      <ekz>
+        la mezuro en <tld lit="n"/>oj de kvociento de potencoj egalas al
+        la duono de la <tld lit="n"/>a logaritmo de tiu kvociento.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_n;&c_e;&c_p;&c_e;&c_r;</trd>
+  <trd lng="cs">J. Napier</trd>
+  <trd lng="de">Neper</trd>
+  <trd lng="fr">n&eacute;per<klr tip="ind"> (unit&eacute; de mesure)</klr></trd>
+  <trd lng="hu">neper</trd>
+  <trd lng="it">neper</trd>
+  <trd lng="nl">neper</trd>
+  <trd lng="ru">&c_n;&c_je;&c_p;&c_je;&c_r;</trd>
+  <trd lng="sk">J. Napier</trd>
+</drv>
+
+<drv mrk="neper.n0a">
+  <kap><tld lit="n"/>a</kap>
+  <snc>
+    <refgrp tip="vid">
+      <ref cel="logari.nepera0o"><tld lit="n"/>a logaritmo</ref>.
+    </refgrp>
+    <rim>
+      Ne konfuzu kun <ctl>ne-pera</ctl> (MatVort).
+    </rim>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_N;&c_e;&c_p;&c_e;&c_r;&c_a;</trd>,
+    <trd>&c_n;&c_e;&c_p;&c_e;&c_r;&c_a;&c_w;</trd>
+  </trdgrp>
+  <trd lng="de">Nepersche</trd>
+  <trd lng="en">Napierian</trd>
+  <trd lng="fr">n&eacute;p&eacute;rien</trd>
+  <trd lng="hu">Napier-f&eacute;le</trd>
+  <trd lng="it">neperiano</trd>
+  <trd lng="nl">Neperiaans</trd>
+  <trd lng="pl">Nepera</trd>
+  <trd lng="ru">&c_n;&c_je;&c_p;&c_je;&c_r;&c_o;&c_v;</trd>
+</drv>
+</art>
+<!--
+$Log: neper.xml,v $
+Revision 1.15  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:33:21  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.13  2009/12/09 17:30:36  revo
+Antonio Codazzi: +trd it
+
+Revision 1.12  2009/10/15 16:31:24  revo
+Paul Peeraerts: sintaksa korekto
+
+Revision 1.11  2006/06/12 16:31:37  revo
+Tulio Flores: +tr pt
+
+Revision 1.10  2004/05/17 16:32:02  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.9  2003/01/02 17:49:02  revo
+Marc Bavant: +trd pl
+
+Revision 1.8  2002/10/14 16:34:04  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.7  2002/05/20 16:36:05  revo
+Marc Bavant: ~o: kor dif, mod trd de/fr/en
+
+Revision 1.6  2002/05/12 16:38:42  revo
+-->
+</vortaro>

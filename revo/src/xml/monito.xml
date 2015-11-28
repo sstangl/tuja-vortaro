@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: monito.xml,v 1.13 2015/07/04 08:37:39 revo Exp $">
+<kap>
+  <rad>monitor</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="monito.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="monito.0o.PED">
+    <fnt>C</fnt>
+    <uzo tip="fak">PED</uzo>
+    <dif>
+      Lernanto servanta kiel helpa instruanto:
+      <ekz>
+        la&ubreve;vice tiuj i&gcirc;as <tld/>oj, kiuj estas pli
+        instruitaj
+        <fnt>
+          <aut>C. Ecabert, trad. C. Gacond</aut>,
+          <vrk><url
+          ref="http://www.esperanto-gacond.ch/Claude_Gacond_Radioprelego_0230.pdf">
+          Patro Gregoro Girard</url></vrk>,
+          <lok>radioprelego, 1968-03-06 kaj 09</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="hu">felvigy&aacute;z&oacute; <klr
+    tip="amb">(di&aacute;k)</klr></trd>
+    <trd lng="fr">moniteur<klr> (formateur)</klr></trd>
+    <trd lng="nl">monitor<klr tip="ind"> (onderwijzer)</klr></trd>
+    <trd lng="pt">monitor <klr>(estudante)</klr></trd>
+  </snc>
+  <snc mrk="monito.0o.MAR">
+    <fnt>B</fnt>
+    <uzo tip="fak">MAR</uzo>
+    <dif>
+      Malnova speco de forte kirasita batal&scirc;ipo.  
+    </dif>
+    <trd lng="de">Monitor<klr> (Schiff)</klr></trd>
+    <trd lng="fr">moniteur<klr> (vaisseau)</klr></trd>
+    <trd lng="hu">monitor<klr tip="ind"> (haj&oacute;)</klr></trd>
+    <trd lng="nl">monitor<klr tip="ind"> (vaartuig)</klr></trd>
+    <trd lng="pl">monitor<klr tip="ind"> (okr&eogonek;t)</klr></trd>
+    <trd lng="pt">monitor<klr>(navio)</klr></trd>
+  </snc>
+  <snc mrk="monito.0o.ZOO">
+    <fnt>Z</fnt>
+    <uzo tip="stl">ARK</uzo>
+    <uzo tip="fak">ZOO</uzo>
+    <ref tip="dif" cel="varan.0o.ZOO">varano</ref>
+    <ekz>
+      jen, kio estas malpura por vi inter la rampa&jcirc;oj:
+      <klr>...</klr> la talpo kaj la muso kaj la lacerto
+      kun &gcirc;ia speco kaj la geko kaj la <tld/>o
+      <fnt><bib>MT</bib>, <lok>&Lev;, 11:29-30</lok></fnt>.
+    </ekz>
+    <trd lng="fr">l&eacute;zard moniteur<klr> (varan)</klr></trd>
+    <trd lng="hu">n&iacute;lusi <ind>var&aacute;nusz</ind></trd>
+    <trd lng="nl">nijlvaraan</trd>
+    <trd lng="pt">lagarto-monitor</trd>
+  </snc>
+  <snc mrk="monito.0o.KOMP">
+    <uzo tip="stl">RAR</uzo>
+    <uzo tip="fak">KOMP</uzo>
+    <ref tip="dif" cel="ekran.0bloko.KOMP">ekranbloko</ref>
+    <ekz>
+      &ccirc;e televidiloj kaj <tld/>oj, la konsumo estas
+      rilata al la heleco de &ccirc;iu punkto
+      <fnt>
+        <aut>D. Clemente</aut>,
+        <vrk><url
+        ref="http://www.danielclemente.com/consumo/index.eo.html">
+        Kiom konsumas komputilo?</url></vrk>,
+        <lok>2010</lok>
+      </fnt>.
+    </ekz>  
+    <trd lng="pl">monitor</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>dálkové kontrolní zařízení</trd>,
+    <trd>monitor</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>asistujúci žiak</trd>,
+    <trd>pomocník učiteľa</trd>,
+    <trd>radca</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: monito.xml,v $
+Revision 1.13  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.12  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.11  2011/06/29 05:10:16  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.10  2011/06/07 10:10:10  revo
+Jeromo Vasxe: ref dif varano
+
+Revision 1.9  2011/06/07 08:10:08  revo
+Jeromo Vasxe: - num + mrk, + snc komp, + ekz, + 2 trd fr
+
+Revision 1.8  2006/08/31 15:22:46  revo
+Wieland Pusch: +trd de
+
+Revision 1.7  2006/08/07 16:33:19  revo
+Tulio Flores: +tr pt
+
+Revision 1.6  2004/06/15 21:33:21  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.5  2001/09/02 18:14:57  revo
+Paul Peeraerts: ald trd nl
+
+Revision 1.4  1999/12/30 08:41:35  revo
+-->
+</vortaro>

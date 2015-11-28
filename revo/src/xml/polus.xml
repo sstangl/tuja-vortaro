@@ -1,0 +1,130 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: polus.xml,v 1.28 2015/07/04 08:37:41 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>polus</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="polus.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="polus.0o.de_sfero">
+    <uzo tip="fak">MAT</uzo>
+    <uzo tip="fak">GEOG</uzo>
+    <fnt><bib>VdE</bib></fnt>
+    <dif>
+      &Ccirc;iu el la du punktoj, je kiuj
+      <ref cel="aks.0o.rotacia">akso</ref> de sfero sekcas &gcirc;ian
+      surfacon:
+      <ekz>
+        suda <tld/>o de la tero.
+      </ekz>
+    </dif>
+    <trd lng="bg">&c_p;&c_o;&c_l;&c_ju;&c_s;</trd>
+    <trd lng="de">Pol</trd>
+    <trd lng="en">pole</trd>
+    <trd lng="fr">p&ocirc;le<klr tip="ind"> (g&eacute;og.)</klr></trd>
+    <trdgrp lng="hu">
+      <trd>sark</trd>,
+      <trd>p&oacute;lus</trd>
+    </trdgrp>
+    <trd lng="nl">pool</trd>
+    <trd lng="pl">biegun</trd>
+    <trd lng="pt">p&oacute;lo</trd>
+  </snc>
+  <snc mrk="polus.0o.ELE">
+    <uzo tip="fak">ELE</uzo>
+    <dif>
+      &Ccirc;iu el la du punktoj de pilo, baterio, magneto, &ccirc;e kiuj
+      aperas kontra&ubreve;aj fortoj.
+    </dif>
+    <trd lng="bg">&c_p;&c_o;&c_l;&c_ju;&c_s;</trd>
+    <trd lng="fr">p&ocirc;le<klr tip="ind"> (phys.)</klr></trd>
+    <trdgrp lng="hu">
+      <trd>sarok</trd>,
+      <trd>p&oacute;lus</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="polus.0o.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <subsnc mrk="polus.0o.koordinatsistemo">
+      <fnt><bib>PIV1</bib></fnt>
+      <dif>
+        <klr>(de <tld/>a <ref
+        cel="koordi.0sistemo">koordinatsistemo</ref>)</klr>
+        &Gcirc;ia <ref
+        cel="origin.0o.de_polusa_koordinatsistemo">origino</ref>.
+      </dif>
+      <trdgrp lng="hu">
+        <trd>p&oacute;luspont</trd>,
+        <trd>orig&oacute;</trd>
+      </trdgrp>
+    </subsnc>
+    <subsnc mrk="polus.0o.de_funkcio">
+      <fnt><bib>MatTerm</bib><lok>p. 21</lok></fnt>
+      <dif>
+        <klr>(de kompleksa <ref cel="funkci.0o.MAT">funkcio</ref>
+        <frm><k>f</k></frm>)</klr>
+        Tia <ref cel="ordina.ne0a.punkto_de_funkcio">neordinara</ref>
+        punkto <frm><k>a</k></frm> de <frm><k>f</k></frm>, ke por iu
+        entjero <frm><k>n</k></frm> la funkcio
+        <frm>(<k>z</k>-<k>a</k>)<sup><k>n</k></sup><k>f</k>(<k>z</k>)</frm>
+        estas <ref cel="holomo.0a.cxepunkto">holomorfa</ref>
+        &ccirc;e punkto <frm><k>a</k></frm>.
+      </dif>
+      <ref tip="vid" cel="meromo.0a">meromorfa.</ref>
+      <trd lng="hu">p&oacute;lus<klr tip="ind"> (f&uuml;ggv&eacute;ny&eacute;)</klr></trd>
+    </subsnc>
+    <trd lng="de">Pol</trd>
+    <trd lng="en">pole</trd>
+    <trd lng="fr">p&ocirc;le<klr tip="ind"> (math.)</klr></trd>
+    <trd lng="nl">pool</trd>
+    <trd lng="pl">biegun</trd>
+    <trd lng="ru">&c_p;&c_o;&c_l;&c_ju;&c_s;</trd>
+  </snc>
+  <trd lng="be">&c_p;&c_o;&c_l;&c_ju;&c_s;</trd>
+  <trd lng="ca">pol</trd>
+  <trdgrp lng="cs">
+    <trd>pól</trd>,
+    <trd>točna</trd>
+  </trdgrp>
+  <trd lng="es">polo</trd>
+  <trd lng="id">kutub</trd>
+  <trd lng="nl">pool</trd>
+  <trd lng="ru">&c_p;&c_o;&c_l;&c_ju;&c_s;</trd>
+  <trd lng="sk">pól <klr>(geogr.| astr.| fyz.| el.tech.)</klr></trd>
+</drv>
+</art>
+<!--
+$Log: polus.xml,v $
+Revision 1.28  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.27  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.26  2014/06/08 10:10:15  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.25  2013/08/01 15:10:09  revo
+Joop Eggen: +trd bg
+
+Revision 1.24  2012/08/10 14:11:41  revo
+Jeromo Vasxe: - polusa ~o -> stel.xml, + fak ele
+
+Revision 1.23  2011/12/02 12:10:12  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.22  2010/08/31 16:30:24  revo
+Wieland Pusch: +trd bg
+
+Revision 1.21  2010/08/29 16:30:25  revo
+Agustin Garcia Lopez: +trd es
+
+Revision 1.20  2006/03/09 17:31:18  revo
+Tulio Flores: +tr pt
+
+Revision 1.19  2004/05/17 16:31:49  revo
+-->
+</vortaro>

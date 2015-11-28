@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: elektr14.xml,v 1.17 2015/07/04 08:37:33 revo Exp $">
+<kap>
+<rad>elektron</rad>/o
+</kap>
+<drv mrk="elektr14.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">FIZ</uzo>
+  <uzo tip="fak">ELE</uzo>
+  <snc mrk="elektr14.0o.gxenerale">
+    <uzo tip="klr">(&gcirc;enerale)</uzo>
+    <dif>
+      <ref tip="super" cel="lepton.0o">Leptono</ref> &scirc;argita per
+      fundamenta unuo de elektro negativa a&ubreve; pozitiva.
+    </dif>
+    <refgrp tip="sub">
+      <ref cel="negaton.0o">negatrono</ref>,
+      <ref cel="poziton.0o">pozitrono</ref>
+    </refgrp>
+    <ref tip="vid" cel="partik2.0o">partiklo</ref>
+  </snc>
+  <snc mrk="elektr14.0o.ofte">
+    <uzo tip="klr">(ofte)</uzo>
+    <dif>
+      Negativa elektrono <sncref ref="elektr14.0o.gxenerale"/>,
+      a&ubreve; <ref tip="sin" cel="negaton.0o">negatrono</ref>.
+    </dif>
+    <ref tip="malprt" cel="atom.0o">atomo;</ref>
+    <refgrp tip="vid">
+      <ref cel="proton.0o">protono</ref>,
+      <ref cel="neuxtr2.0o">ne&ubreve;trono</ref>.
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_e;&c_l;&c_je;&c_k;&c_t;&c_r;&c_o;&c_n;</trd>
+  <trdgrp lng="cs">
+    <trd>elektron</trd>,
+    <trd>muon</trd>
+  </trdgrp>
+  <trd lng="de">Elektron</trd>
+  <trd lng="en">electron</trd>
+  <trd lng="es">electr&oacute;n</trd>
+  <trd lng="fa">&a_A;&a_l;&f_k;&a_t;&a_r;&a_w;&a_n;</trd>
+  <trd lng="fr">&eacute;lectron</trd>
+  <trd lng="hu">elektron</trd>
+  <trd lng="nl">elektron</trd>
+  <trd lng="pl">elektron</trd>
+  <trd lng="pt">el&eacute;tron</trd>
+  <trd lng="ru">&c_e;&c_l;&c_je;&c_k;&c_t;&c_r;&c_o;&c_n;</trd>
+  <trd lng="sk">elektrón</trd>
+</drv>
+</art>
+<!--
+$Log: elektr14.xml,v $
+Revision 1.17  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.15  2009/06/29 18:05:00  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.14  2008/05/28 20:07:56  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.13  2007/06/27 16:31:37  revo
+Tulio Flores: +tr pt
+
+Revision 1.12  2003/12/16 17:33:12  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.11  2002/08/24 17:32:04  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.10  2002/01/31 17:32:54  revo
+Jose Martin del Pozo: aldonis trd es
+
+Revision 1.9  2001/09/29 18:12:47  revo
+Paul Peeraerts: ald trd nl
+
+Revision 1.8  2001/06/21 18:12:53  revo
+-->
+</vortaro>

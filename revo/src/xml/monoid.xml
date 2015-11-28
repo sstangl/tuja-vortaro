@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: monoid.xml,v 1.14 2015/07/04 08:37:39 revo Exp $">
+<kap>
+  <rad>monoid</rad>/o
+</kap>
+<drv mrk="monoid.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>MatVort</bib></fnt>
+  <snc>
+    <dif>
+      <ref cel="asoci.0eca.grupoido">Asocieca</ref>
+      <ref tip="super" cel="grupoi.0o">grupoido</ref> kun
+      <ref cel="neuxtr.0aelemento">ne&ubreve;tra elemento</ref>:
+      <ekz>
+        la aro de &ccirc;iuj subaroj de <frm><g>E</g></frm>, konsiderata kune
+        kun la operacio <ref cel="komun.0ajxo.aro">komuna&jcirc;o</ref>
+        estas <tld/>o.
+      </ekz>
+    </dif>
+    <refgrp tip="super">
+      <ref cel="grup.duon0o.MAT">duongrupo</ref>,
+      <ref cel="strukt.algebra0o">algebra strukturo</ref>.
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_m;&c_a;&c_n;&c_o;&c_ib;&c_d;</trd>
+  <trdgrp lng="ca">
+    <trd>monoide</trd>,
+    <trd>semigrup</trd>
+  </trdgrp>
+  <trd lng="cs">monoid</trd>
+  <trdgrp lng="de">
+    <trd>Monoid[e]</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>monoid</trd>
+  </trdgrp>
+  <trd lng="es">monoide</trd>
+  <trd lng="fa">&a_m;&a_w;&a_n;&a_w;&a_y_hamza;&f_y;&a_d;</trd>
+  <trdgrp lng="fr">
+    <trd>mono&iuml;de</trd>
+  </trdgrp>
+  <trd lng="hu">monoid</trd>
+  <trd lng="pl">monoid</trd>
+  <trd lng="pt">mon&oacute;ide</trd>
+  <trdgrp lng="ru">
+    <trd>&c_m;&c_o;&c_n;&c_o;&c_i;&c_d;</trd>
+  </trdgrp>
+  <trd lng="sk">monoid</trd>
+</drv>
+</art>
+<!--
+$Log: monoid.xml,v $
+Revision 1.14  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.13  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.12  2011/12/05 09:10:14  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.11  2009/06/24 16:30:27  revo
+Wieland Pusch: korr arabaj/persaj koderoj
+
+Revision 1.10  2009/05/04 16:31:48  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.9  2006/08/07 16:33:29  revo
+Tulio Flores: +tr pt
+
+Revision 1.8  2005/04/08 16:32:10  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.7  2004/02/26 17:31:07  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.6  2003/04/07 16:36:17  revo
+Marc Bavant: sxangxis magmo al grupoido, mod trd de
+
+Revision 1.5  2002/11/30 17:36:22  revo
+-->
+</vortaro>

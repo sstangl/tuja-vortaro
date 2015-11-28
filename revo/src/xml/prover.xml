@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: prover.xml,v 1.25 2015/10/13 09:10:23 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>proverb</rad>/o
+</kap>
+<drv mrk="prover.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="prover.0o.BELE">
+    <uzo tip="fak">BELE</uzo>
+    <dif>
+      <ref tip="super" cel="dir.popol0o.BELE">Popoldiro</ref>
+      esprimanta,
+      ofte en vortfiguro, konsilon a&ubreve; konstaton ta&ubreve;gan por iu
+      situacio:
+      <ekz>
+        <tld/>o estas sperto, <tld/>o estas averto
+        <fnt><bib>PrV</bib></fnt>;
+      </ekz>
+      <ekz>
+        konado de <tld/>oj estas necesa por perfekta konado de la
+        lingvo<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_r;&c_y;&c_k;&c_a;&c_z;&c_k;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>p&rcaron;&iacute;slov&iacute;</trd>,
+    <trd>po&rcaron;ekadlo</trd>,
+    <trd>proverbium</trd>,
+    <trd>pr&uring;pov&ecaron;&dcaron;</trd>,
+    <trd>p&rcaron;&iacute;slov&iacute;</trd>,
+    <trd>r&ccaron;en&iacute;</trd>
+  </trdgrp>
+  <trd lng="de">Sprichwort</trd>
+  <trdgrp lng="en">
+    <trd>proverb</trd>,
+    <trd>adage</trd>,
+    <trd>saw <klr>(old saying)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>proverbio</trd>,
+    <trd>refr&aacute;n</trd>
+  </trdgrp>
+  <trd lng="fa">&a_D;&a_r;&a_b;&zwnj;&a_A;&a_l;&a_m;&a_th;&a_l;</trd>
+  <trd lng="fr">proverbe</trd>
+  <trd lng="hu">k&ouml;zmond&aacute;s</trd>
+  <trd lng="id">peribahasa</trd>
+  <trd lng="it">proverbio</trd>
+  <trd lng="nl">spreekwoord</trd>
+  <trd lng="pl">przys&lstroke;owie</trd>
+  <trdgrp lng="pt">
+    <trd>prov&eacute;rbio</trd>,
+    <trd>prol&oacute;quio</trd>,
+    <trd>anexim</trd>,
+    <trd>ditado</trd>,
+    <trd>par&ecirc;mia</trd>,
+    <trd>rif&atilde;o</trd>,
+    <trd>ad&aacute;gio</trd>,
+    <trd>m&aacute;xima</trd>    
+  </trdgrp>
+  <trd lng="ru">&c_p;&c_o;&c_s;&c_l;&c_o;&c_v;&c_i;&c_c;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>porekadlo</trd>,
+    <trd>proverbium</trd>,
+    <trd>pr&iacute;slovie</trd>
+  </trdgrp>
+  <trd lng="sv">ordspr&aring;k</trd>
+</drv>
+
+<drv mrk="prover.0a">
+  <kap><tld/>a</kap>
+  <snc>
+    <dif>
+      Rilata al <tld/>o.
+    </dif>
+  </snc>
+  <snc>
+    <dif>
+      Konata kvaza&ubreve; <tld/>o:
+      <ekz>
+        la <tld/>a fideleco de hundoj.
+      </ekz>
+    </dif>
+    <trd lng="de">sprichw&ouml;rtlich</trd>
+    <trd lng="fr">proverbial</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>proverbi&aacute;ln&iacute;</trd>,
+    <trd>p&rcaron;&iacute;slove&ccaron;n&yacute;</trd>
+  </trdgrp>
+  <trd lng="en">proverbial</trd>
+  <trd lng="es">proverbial</trd>
+  <trd lng="hu">k&ouml;zmond&aacute;sos</trd>
+  <trd lng="it">proverbiale</trd>
+  <trd lng="nl">spreekwoordelijk</trd>
+  <trd lng="pl">przys&lstroke;owiowy</trd>
+  <trdgrp lng="ru">
+    <trd>&c_v;&c_o;&c_sh;&c_je;&c_d;&c_sh;&c_i;&c_j; &c_v; &c_p;&c_o;&c_s;&c_l;&c_o;&c_v;&c_i;&c_c;&c_u;</trd>,
+    <trd>&c_p;&c_r;&c_je;&c_s;&c_l;&c_o;&c_v;&c_u;&c_t;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trd lng="sk">pr&iacute;slove&ccaron;n&yacute;</trd>
+</drv>
+</art>
+<!--
+$Log: prover.xml,v $
+Revision 1.25  2015/10/13 09:10:23  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.24  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.23  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.22  2014/06/18 16:10:20  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.21  2011/12/27 18:10:08  revo
+Agustin Garcia Lopez: +trd es (-o)
+
+Revision 1.20  2010/04/16 16:31:21  revo
+Antonio Codazzi: +td it
+
+Revision 1.19  2009/11/28 17:31:14  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.18  2009/02/15 14:18:40  revo
+-->
+</vortaro>

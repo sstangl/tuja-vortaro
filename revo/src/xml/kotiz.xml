@@ -1,0 +1,141 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: kotiz.xml,v 1.16 2015/06/09 22:10:17 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>kotiz</rad>/i
+</kap>
+<drv mrk="kotiz.0i">
+  <kap>
+    <tld/>i
+  </kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc>
+  <uzo tip="fak">EKON</uzo>
+    <dif>
+      Pagi sian parton por komuna elspezo:
+      <ekz>
+        la lernantoj <tld/>is por donaci memora&jcirc;on al la instruisto.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_l;&c_a;&c_c;&c_ib;&c_c;&c_mol; &c_u;&c_z;&c_n;&c_o;&c_s;</trd>,
+    <trd>&c_p;&c_l;&c_a;&c_c;&c_ib;&c_c;&c_mol; &c_u;&c_n;&c_jo;&c_s;&c_a;&c_k;</trd>,
+    <trd>&c_u;&c_n;&c_o;&c_s;&c_ib;&c_c;&c_mol; &c_g;&c_r;&c_o;&c_sh;&c_y;</trd>
+  </trdgrp>
+  <trdgrp lng="ca">
+    <trd>cotitzar <klr>(intr.)</klr></trd>,
+    <trd>contribuir</trd>,
+    <trd>sufragar</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+     <trd>beisteuern</trd>,
+     <trd>seinen <ind>Beitrag</ind> leisten</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>contribute</trd>,
+    <trd>subscribe <klr>(money for a common objective)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>contribuir</trd>
+  </trdgrp>
+  <trd lng="fr">cotiser</trd>
+  <trdgrp lng="hu">
+    <trd>befizet <klr tip="ind">(saj&aacute;t r&eacute;szt)</klr></trd>,
+    <trd>d&iacute;jat fizet</trd>,
+    <trd>j&aacute;rul&eacute;kot fizet</trd>,
+    <trd>illet&eacute;ket fizet</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>contributie betalen</trd>,
+    <trd>bijdragen</trd>
+  </trdgrp>
+  <trd lng="pt">cotizar-se</trd>
+  <trd lng="ru">&c_p;&c_l;&c_a;&c_t;&c_i;&c_t;&c_mol; &c_v;&c_z;&c_n;&c_o;&c_s;</trd>
+</drv>
+
+<drv mrk="kotiz.0o">
+  <kap>
+    <tld/>o
+  </kap>
+  <snc>
+  <uzo tip="fak">EKON</uzo>
+    <dif>
+      Ago <tld/>i, rezulto a&ubreve; kosto de la ago:
+      <ekz>
+        multaj societanoj ne repagis la kotizon, kvankam &gcirc;i estas
+        malalta.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="kontin2.0i">kontingenti</ref>,
+      <ref cel="kontri.0i">kontribui</ref>.
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_u;&c_z;&c_n;&c_o;&c_s;</trd>,
+    <trd>&c_u;&c_n;&c_jo;&c_s;&c_a;&c_k;</trd>,
+    <trd>&c_d;&c_o;&c_l;&c_ja; <klr>(&c_u; &c_s;&c_u;&c_p;&c_o;&c_l;&c_mol;&c_n;&c_y;&c_h; &c_v;&c_y;&c_d;&c_a;&c_t;&c_k;&c_a;&c_h;)</klr></trd>
+  </trdgrp>
+  <trd lng="bg">&c_p;&c_r;&c_i;&c_n;&c_o;&c_s;</trd>
+  <trd lng="de">Beitrag</trd>
+  <trdgrp lng="ca">
+    <trd>quota</trd>,
+    <trd>contribuci&oacute;</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>contribution</trd>,
+    <trd>share</trd>,
+    <trd>subscription</trd>,
+    <trd>quota</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>contribuci&oacute;n</trd>,
+    <trd>cuota</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+  <trd>cotisation</trd>,
+  <trd>contribution</trd>
+</trdgrp>
+  <trdgrp lng="hu">
+    <trd>befizet&eacute;s <klr tip="ind">(saj&aacute;t r&eacute;sz&eacute;)</klr></trd>,
+    <trd>d&iacute;j</trd>,
+    <trd>j&aacute;rul&eacute;k</trd>,
+    <trd>illet&eacute;k</trd>
+  </trdgrp>  
+  <trdgrp lng="nl">
+    <trd>contributie</trd>,
+    <trd>bijdrage</trd>
+  </trdgrp>
+  <trd lng="ru">&c_v;&c_z;&c_n;&c_o;&c_s;</trd>
+</drv>
+</art>
+<!--
+$Log: kotiz.xml,v $
+Revision 1.16  2015/06/09 22:10:17  revo
+Joop Eggen: +trd bg nl
+
+Revision 1.15  2014/03/20 16:10:16  revo
+Damien Brucker: +trd fr
+
+Revision 1.14  2011/12/03 15:10:20  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.13  2006/11/09 17:30:48  revo
+Tulio Flores: +tr pt
+
+Revision 1.12  2005/04/18 16:33:33  revo
+Raul Salinas Monteagudo: +trd es
+
+Revision 1.11  2004/04/23 16:31:45  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.10  2002/12/17 20:10:44  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.9  2002/03/24 10:00:05  revo
+-->
+</vortaro>

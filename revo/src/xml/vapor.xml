@@ -1,0 +1,446 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: vapor.xml,v 1.30 2015/08/20 04:10:14 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>vapor</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="vapor.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="vapor.0o.KOMUNE">
+    <dif>
+      Gasa nubo supreni&gcirc;anta el varmi&gcirc;anta fluida&jcirc;o:
+      <ekz>
+        el la kaldrono <klr>...</klr> eliras <tld/>o
+        <fnt><bib>F</bib>, <lok>&FE; 25</lok></fnt>;
+      </ekz>
+      <ekz>
+        <tld/>o de akvo, etero;
+      </ekz>
+      <ekz>
+        malaperi kiel <tld/>o<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        kuiriston <tld/>o satigas
+        <fnt><bib>PrV</bib></fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        <ind>havi iom da <tld/>o en la kapo</ind>
+        <klr>(esti ebrieta)</klr>
+        <trd lng="fr">&ecirc;tre <ind>gris</ind></trd>
+        <trd lng="nl">beschonken zijn</trd>
+        <fnt><bib>PrV</bib></fnt>;
+      </ekz>
+      <ekz>
+        densa nebulo lacigis la rigardon per siaj molaj
+        <tld/>a&jcirc;oj<fnt>B</fnt>;
+      </ekz>
+      <ekz>
+        la &scirc;ipo foriris kun plen<tld/>o
+        <klr>(plej rapide)</klr>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_r;&c_a;</trd>
+  <trdgrp lng="br">
+    <trd>aezhenn</trd>,
+    <trd>burezh</trd>
+  </trdgrp>
+  <trd lng="ca">vapor</trd>
+  <trd lng="cs">p&aacute;ra</trd>
+  <trd lng="de">Dampf</trd>
+  <trd lng="es">vapor</trd>
+  <trd lng="fa">&a_b;&a_kh;&a_A;&a_r;</trd>
+  <trd lng="fr">vapeur</trd>
+  <trd lng="hu">g&odblac;z</trd>
+  <trd lng="id">uap</trd>
+  <trd lng="it">vapore</trd>
+  <trdgrp lng="nl">
+    <trd>stoom</trd>,
+    <trd>damp</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>para</trd>,
+    <trd>opar<klr> (w przypadku wody w terenie, np. jezior)</klr></trd>
+  </trdgrp>
+  <trd lng="pt">vapor</trd>
+  <trd lng="ro">abur</trd>
+  <trd lng="ru">&c_p;&c_a;&c_r;</trd>
+  <trd lng="sk">para</trd>
+  <trd lng="tr">buhar</trd>
+</drv>
+
+<drv mrk="vapor.0a">
+  <kap><tld/>a</kap>
+  <snc>
+    <dif>
+      Eliganta <tld/>on.
+    </dif>                         
+    <trd lng="br">aezhennus</trd>
+    <trd lng="ca">vapor&iacute;fer</trd>
+    <trd lng="de">dampfend</trd>
+    <trd lng="fa">&a_b;&a_kh;&a_A;&a_r;&a_d;&a_A;&a_r;</trd>
+    <trd lng="fr">fumant<klr> (produisant de la vapeur)</klr></trd>
+    <trd lng="hu">g&odblac;z-</trd>
+    <trd lng="it">fumante<klr> (di vapore)</klr></trd>
+    <trdgrp lng="nl">
+      <trd>dampend</trd>,
+      <trd>stomend</trd>
+    </trdgrp>
+    <trd lng="pl">paruj&aogonek;cy</trd>
+    <trd lng="pt">vapor&iacute;fero</trd>
+  </snc>
+  <snc>
+    <dif>
+      Aspekte simila al <tld/>o:
+      <ekz>
+        <tld/>a nebulo, tulo.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="vat.0i">vati</ref>
+    </refgrp>                    
+    <trd lng="br">aezhennel</trd>
+    <trd lng="ca">vapor&oacute;s</trd> 
+    <trdgrp lng="de">
+      <trd>nebelig</trd>
+      <trd>gasf&ouml;rmig</trd>
+    </trdgrp>
+    <trdgrp lng="fa">
+      <trd>&a_b;&a_kh;&a_A;&a_r;&a_A_madda;&a_l;&a_w;&a_d;</trd>,
+      <trd>&a_m;&a_h;&zwnj;&a_A_madda;&a_l;&a_w;&a_d;</trd>
+    </trdgrp>
+    <trd lng="fr">vaporeux</trd>
+    <trdgrp lng="hu">
+      <trd>g&odblac;z&ouml;s</trd>,
+      <trd>p&aacute;r&aacute;s</trd>
+    </trdgrp>
+    <trdgrp lng="it">
+      <trd>vaporoso</trd>,
+      <trd>gassoso</trd>,
+      <trd>ovattato<klr> (come vapore)</klr></trd>
+    </trdgrp>
+    <trd lng="nl">nevelig</trd>
+    <trd lng="pt">vaporoso</trd>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_a;&c_r;&c_a;&c_v;&c_y;</trd>,
+    <trd>&c_p;&c_a;&c_r;&c_a;&c_p;&c_a;&c_d;&c_o;&c_b;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trd lng="cs">parn&iacute;</trd>
+  <trd lng="es">vaporoso</trd>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_a;&c_r;&c_o;&c_v;&c_o;&c_j;</trd>,
+    <trd>&c_p;&c_a;&c_r;&c_o;&c_o;&c_b;&c_r;&c_a;&c_z;&c_n;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trd lng="sk">parn&yacute;</trd>
+  <trd lng="tr">buhar ile ilgili</trd>
+</drv>
+
+<drv mrk="vapor.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="vapor.0i.KOMUNE">
+    <dif>
+      Eligi <tld/>on:
+      <ekz>
+        plej bonguste <tld/>is rostita ansero, far&ccirc;ita per prunoj
+        kaj
+        pomoj
+        <fnt><bib>Fab2</bib>, <lok>knabineto kun alumetoj</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_v;&c_y;&c_p;&c_u;&c_s;&c_k;&c_a;&c_c;&c_mol;
+<ind>&c_p;&c_a;&c_r;&c_u;</ind></trd>
+  <trd lng="br">divogedi&ntilde;<klr tip="amb"> (en ur zisteurel
+aezhenn)</klr></trd>
+  <trd lng="ca">desprendre <ind>vapor</ind></trd>
+  <trdgrp lng="cs">
+    <trd>odpa&rcaron;ovat</trd>,
+    <trd>odpa&rcaron;ovat se</trd>,
+    <trd>pa&rcaron;it <klr>(se)</klr></trd>,
+    <trd>vypa&rcaron;ovat</trd>
+  </trdgrp>
+  <trd lng="de">dampfen</trd>
+  <trdgrp lng="fa">
+    <trd>&a_b;&a_kh;&a_A;&a_r; &f_k;&a_r;&a_d;&a_n;</trd>,
+    <trd>&a_b;&a_kh;&a_A;&a_r; &a_b;&f_y;&a_r;&a_w;&a_n;
+    &a_d;&a_A;&a_d;&a_n;</trd>
+  </trdgrp>
+  <trd lng="fr">fumer<klr tip="amb"> (faire de la vapeur)</klr></trd>
+  <trd lng="hu">g&odblac;z&ouml;l&ouml;g</trd>
+  <trd lng="id">[<ind>uap</ind>] beruap</trd>
+  <trd lng="it">fumare<klr> (emettere vapore)</klr></trd>
+  <trdgrp lng="nl">
+    <trd>dampen</trd>,
+    <trd>stomen</trd>
+  </trdgrp>
+  <trd lng="ru">&c_i;&c_s;&c_p;&c_u;&c_s;&c_k;&c_a;&c_t;&c_mol;
+&c_p;&c_a;&c_r;</trd>
+  <trdgrp lng="sk">
+    <trd>odparova&tcaron; sa</trd>,
+    <trd>pari&tcaron; sa</trd>,
+    <trd>vyparova&tcaron; sa</trd>
+  </trdgrp>
+  <trd lng="tr">buhar &ccedil;&inodot;karmak</trd>
+</drv>
+
+<drv mrk="vapor.0igi">
+  <kap><tld/>igi</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="vapor.0igi.KOMUNE">
+    <dif>
+      Fari ion <tld/>o:
+      <ekz>
+        <tld/>igi akvon en kaldrono.
+      </ekz>
+    </dif>
+    <trd lng="de">abdampfen</trd>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_v;&c_y;&c_p;&c_a;&c_r;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_v;&c_y;&c_p;&c_a;&c_r;&c_y;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="br">aezhenna&ntilde;<klr tip="ind"> (v.k.)</klr></trd>
+  <trdgrp lng="ca">
+    <trd>vaporitzar</trd>,
+    <trd>evaporar</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>m&#65533;&#8250;nit v p&aacute;ru</trd>,
+    <trd>odpa&rcaron;ovat</trd>
+  </trdgrp>
+  <trd lng="es">evaporar</trd>
+  <trdgrp lng="fa">
+    <trd>&a_t;&a_b;&a_kh;&f_y;&a_r; &f_k;&a_r;&a_d;&a_n;</trd>,
+    <trd>&a_A;&a_s;&f_p;&a_r;&f_y; &f_k;&a_r;&a_d;&a_n;</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>brumiser</trd>,
+    <trd>&eacute;vaporer</trd>,
+    <trd>vaporiser</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>g&odblac;z&ouml;l&ouml;gtet</trd>,
+    <trd>p&aacute;rologtat</trd>
+  </trdgrp>
+  <trd lng="id">[<ind>uap</ind>] menguapkan</trd>
+  <trdgrp lng="it">
+    <trd>vaporizzare</trd>,
+    <trd>far <ind>evaporare</ind></trd>,
+    <trd>far <ind>bollire</ind></trd>
+  </trdgrp>
+  <trd lng="nl">doen <ind>verdampen</ind></trd>
+  <trd lng="pl">parowa&cacute;</trd>
+  <trd lng="pt">vaporizar</trd>
+  <trdgrp lng="ru">
+    <trd>&c_i;&c_s;&c_p;&c_a;&c_r;&c_i;&c_t;&c_mol;</trd>,
+    <trd>&c_i;&c_s;&c_p;&c_a;&c_r;&c_ja;&c_t;&c_mol;</trd>,
+    <trd>&c_v;&c_y;&c_p;&c_a;&c_r;&c_i;&c_v;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>premeni&tcaron; na paru</trd>,
+    <trd>vyparova&tcaron;</trd>
+  </trdgrp>
+  <trd lng="tr">buharla&scedil;t&inodot;rmak</trd>
+</drv>
+
+<drv mrk="vapor.0igilo">
+  <kap><tld/>igilo</kap> <fnt><bib>EBV</bib></fnt>
+  <snc mrk="vapor.0igilo.KOMUNE">
+    <dif>
+      Aparato por <tld/>igi flua&jcirc;on:
+      <ekz>
+        <tld/>igilo por parfumoj.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="br">difruer</trd>
+  <trd lng="ca">vaporitzador</trd>
+  <trdgrp lng="cs">
+    <trd>rozpra&scaron;ova&ccaron;</trd>,
+    <trd>v&yacute;parn&iacute;k</trd>,
+    <trd>zvlh&ccaron;ova&ccaron; vzduchu</trd>
+  </trdgrp>
+  <trdgrp lng="fa">
+    <trd>&a_A;&a_s;&f_p;&a_r;&f_y;</trd>,
+    <trd>&a_A;&a_f;&a_sh;&a_A;&a_n;&a_h;</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>bombe<klr tip="amb"> (vaporisateur)</klr></trd>,
+    <trd>brumisateur</trd>,
+    <trd>vaporisateur</trd>
+  </trdgrp>
+  <trd lng="it">vaporizzatore</trd>
+  <trd lng="nl">stoommachine</trd>
+  <trdgrp lng="pl">
+    <trd>parownik</trd>,
+    <trd>waporyzator</trd>
+  </trdgrp>
+  <trd lng="pt">vaporizador</trd>
+  <trdgrp lng="sk">
+    <trd>rozpra&scaron;ova&ccaron;</trd>,
+    <trd>v&yacute;parn&iacute;k</trd>,
+    <trd>zvlh&ccaron;ova&ccaron; vzduchu</trd>
+  </trdgrp>
+  <trd lng="tr">p&uuml;sk&uuml;rge&ccedil;</trd>
+</drv>
+
+<drv mrk="vapor.0igxi">
+  <kap><tld/>i&gcirc;i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="vapor.0igxi.KOMUNE">
+    <dif>
+      Fari&gcirc;i <tld/>o:
+      <ekz>
+        la akvo <tld/>i&gcirc;as je la ordinara temperaturo.
+      </ekz>
+    </dif>
+    <trd lng="de">verdampfen</trd>
+  </snc>        
+  <trdgrp lng="ca">
+    <trd>vaporitzar-se</trd>,
+    <trd>evaporar-se</trd>
+  </trdgrp>        
+  <trdgrp lng="be">
+    <trd>&c_v;&c_y;&c_p;&c_a;&c_r;&c_y;&c_c;&c_c;&c_a;</trd>,
+    <trd>&c_v;&c_y;&c_p;&c_a;&c_r;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="br">
+    <trd>aezhenna&ntilde;<klr tip="ind"> (v.k.)</klr></trd>,
+    <trd>diaezhenna&ntilde;</trd>
+  </trdgrp>
+  <trd lng="es">evaporarse</trd>
+  <trdgrp lng="fa">
+    <trd>&a_t;&a_b;&a_kh;&f_y;&a_r; &a_sh;&a_d;&a_n;</trd>,
+    <trd>&a_b;&a_kh;&a_A;&a_r; &a_sh;&a_d;&a_n;</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>s'<ind>&eacute;vaporer</ind></trd>
+  </trdgrp>
+  <trd lng="hu">p&aacute;rolog</trd>
+  <trd lng="id">[<ind>uap</ind>] menguap</trd>
+  <trdgrp lng="it">
+   <trd>evaporare</trd>,
+   <trd>bollire<klr> (per est.)</klr></trd>
+  </trdgrp>
+  <trd lng="nl">verdampen</trd>
+  <trd lng="pl">parowa&cacute;</trd>
+  <trd lng="pt">evaporar</trd>
+  <trdgrp lng="ru">
+    <trd>&c_i;&c_s;&c_p;&c_a;&c_r;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>,
+    <trd>&c_i;&c_s;&c_p;&c_a;&c_r;&c_ja;&c_t;&c_mol;&c_s;&c_ja;</trd>
+  </trdgrp>
+  <trd lng="sk">vyparova&tcaron; sa</trd>
+  <trd lng="tr">buharla&scedil;mak</trd>
+</drv>
+
+<drv mrk="vapor.0umilo">
+  <kap><tld/>umilo</kap>
+  <snc mrk="vapor.0umilo.KUI">
+    <uzo tip="fak">KUI</uzo>
+    <dif>
+      <ref tip="super" cel="kuir.0ilo.KUI">Kuirilo</ref>
+      en kiu man&gcirc;a&jcirc;o kuiri&gcirc;as per trablovo de varmega
+      <tld/>o:
+      <ekz>
+        li iris rekte al la kuirforno, prenis el 
+        <tld/>umilo kelkajn mantoojn
+        <fnt>
+          <aut>Liu Houming</aut>,
+          <vrk><url
+          ref="http://donh.best.vwh.net/Esperanto/Literaturo/Revuoj/epc/epc8303/sago.html">
+          Nigra Sago</url></vrk>,
+          <lok>El Popola &Ccirc;inio, 1983:03, p. 38a-41a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="fr">
+    <trd>couscoussier</trd>,
+    <trd>cuit-vapeur</trd>
+  </trdgrp>
+  <trd
+  lng="ru">&c_p;&c_a;&c_r;&c_o;&c_v;&c_a;&#769;&c_r;&c_k;&c_a;</trd>
+</drv>
+
+<drv mrk="vapor.el0igxi">
+  <kap>el<tld/>i&gcirc;i, <var><kap>for<tld/>i&gcirc;i</kap></var></kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="vapor.el0igxi.KOMUNE">
+    <dif>
+      Malaperi <tld/>i&gcirc;ante:
+      <ekz>
+        la akvo el la kaserolo el<tld/>i&gcirc;is;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        &ccirc;u via kura&gcirc;o jam for<tld/>i&gcirc;is?
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="esting">estingi&gcirc;i</ref>,
+      <ref cel="cxerp">el&ccirc;erpi&gcirc;i</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_v;&c_y;&c_p;&c_a;&c_r;&c_y;&c_c;&c_c;&c_a;</trd>   
+  <trdgrp lng="br">
+    <trd>aezhenna&ntilde;<klr tip="ind"> (v.k.)</klr></trd>,
+    <trd>diaezhenna&ntilde;</trd>
+  </trdgrp>
+  <trdgrp lng="ca">
+    <trd>vaporitzar-se</trd>,
+    <trd>evaporar-se<klr> (completament)</klr></trd>
+  </trdgrp>
+  <trd lng="de">verdampfen</trd>
+  <trd lng="es">evaporarse</trd>
+  <trdgrp lng="fa">
+    <trd>&a_n;&f_y;&a_s;&a_t; &a_sh;&a_d;&a_n;</trd>,
+    <trd>&a_n;&a_A;&f_p;&a_d;&f_y;&a_d; &a_sh;&a_d;&a_n;</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>s'<ind>&eacute;vaporer</ind></trd>
+  </trdgrp>
+  <trd lng="hu">elp&aacute;rolog</trd>
+  <trdgrp lng="it">
+    <trd>evaporare</trd>,
+    <trd>vaporizzarsi</trd>,
+    <trd>svanire<klr> (fig.)</klr></trd>
+  </trdgrp>
+  <trd lng="nl">uitdampen</trd>
+  <trd lng="pl">wyparowa&cacute;</trd>
+  <trd lng="pt">evaporar</trd>
+  <trd
+  lng="ru">&c_i;&c_s;&c_p;&c_a;&c_r;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>
+  <trd lng="sk">vypari&tcaron; sa</trd>
+</drv>
+</art>
+<!--
+$Log: vapor.xml,v $
+Revision 1.30  2015/08/20 04:10:14  revo
+Bora Can Asli: +trd tr
+
+Revision 1.29  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.28  2015/06/28 12:03:50  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.27  2014/06/30 15:10:22  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.26  2014/02/03 02:10:12  revo
+Jeromo Vasxe: + ~umilo
+
+Revision 1.25  2013/09/12 01:10:13  revo
+Vito Redsky: +trd ro
+
+Revision 1.24  2012/08/11 18:10:29  revo
+Marc Rausell: + trd ca
+
+Revision 1.23  2010/05/04 16:31:02  revo
+-->
+</vortaro>

@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: portik.xml,v 1.15 2015/07/04 08:37:41 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>portik</rad>/o
+</kap>
+<drv mrk="portik.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="portik.0o.ARKI">
+    <uzo tip="fak">ARKI</uzo>
+    <dif>
+      Tegmentita galerio, subportata per kolonoj:
+      <ekz>
+        Jesuo promenis en la templo, en la <tld/>o de Salomono
+        <fnt><bib>NT</bib>, <lok>&Joh; 10:23</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_o;&c_r;&c_c;&c_ib;&c_k; <klr tip="amb">(&c_g;&c_a;&c_l;&c_je;&c_r;&c_e;&c_ja;)</klr></trd>
+  <trd lng="ca">p&ograve;rtic</trd>
+  <trd lng="cs">portikus</trd>
+  <trd lng="de">Portikus</trd>
+  <trdgrp lng="fr">
+    <trd>galerie &agrave; colonnes</trd>,
+    <trd>portique</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>portikusz</trd>,
+    <trd>oszlopfolyos&oacute;</trd>,
+    <trd>oszlopos <ind>el&odblac;csarnok</ind></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>zuilengang</trd>,
+    <trd>portiek</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>p&oacute;rtico</trd>,
+    <trd>alpendre</trd>
+  </trdgrp>
+  <trd lng="ru">&c_p;&c_o;&c_r;&c_t;&c_i;&c_k;</trd>
+  <trd lng="sk">galéria <klr>(stĺpová)</klr></trd>
+  <trdgrp lng="sv">
+    <trd>portik</trd>,
+    <trd>pelarhall</trd>,
+    <trd>t&auml;ckt <ind>pelarg&aring;ng</ind></trd>,
+    <trd>kolonnprydd f&ouml;rhall</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: portik.xml,v $
+Revision 1.15  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.13  2012/01/02 10:10:22  revo
+Marc Rausell: +trd ca
+
+Revision 1.12  2010/10/30 16:30:23  revo
+Jerano Zachrisson: +trd sv
+
+Revision 1.11  2006/03/14 17:31:16  revo
+Tulio Flores: +tr pt
+
+Revision 1.10  2005/07/24 16:32:54  revo
+Jeromo Vasxe: + mrk, + ekz, + trd fr
+
+Revision 1.9 2004/05/25 16:34:00 revo
+Dmitri Gabinski: +trd be
+
+Revision 1.8 2002/07/14 17:32:17 revo
+Jozefo Horvath: +trd hu
+
+Revision 1.7 2001/12/21 17:31:29 revo
+Yury Finkel: +trd ru, +uzo ARKI
+
+Revision 1.6 2001/07/01 18:12:11 revo
+-->
+</vortaro>

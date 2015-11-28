@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: hidrodinamik.xml,v 1.5 2015/09/21 09:10:16 revo Exp $">
+<kap>
+  <rad>hidrodinamik</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="hidrodinamik.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="hidrodinamik.0o.FIZ">
+    <uzo tip="fak">FIZ</uzo>
+    <ref tip="dif" cel="dinami.akvo0o.FIZ">akvodinamiko</ref>
+      <ekz>
+        <tld/>o de ondoj
+        <fnt>
+          <aut>N. Utne</aut>,
+          <vrk><url
+          ref="http://www.eventoj.hu/steb/ingxenierado/hidrologio/marondoj/marondoj.htm">
+          Mezurado kaj statistika analizo de marondoj</url></vrk>,
+          <lok>Scienca Revuo, 1978:1 (129), p. 21a-38a</lok>
+        </fnt>.
+    </ekz>
+  </snc>
+  <trd lng="en">hydrodynamics</trd>
+  <trd lng="bg">&c_h;&c_i;&c_d;&c_r;&c_o;&c_d;&c_i;&c_n;&c_a;&c_m;&c_i;&c_k;&c_a;</trd>
+  <trd lng="ca">hidrodin&agrave;mica</trd>
+  <trd lng="fr">hydrodynamique</trd>
+  <trd lng="nl">hydrodynamica</trd>
+  <trd lng="pl">hydrodynamika</trd>
+</drv>
+</art>
+
+<!--
+$Log: hidrodinamik.xml,v $
+Revision 1.5  2015/09/21 09:10:16  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.4  2015/09/12 20:10:21  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.3  2013/09/11 18:10:14  revo
+Joop Eggen: +trd bg fr nl
+
+Revision 1.2  2012/01/05 15:10:18  revo
+Marc Rausell: +trd ca
+
+Revision 1.1  2011/03/03 09:10:10  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

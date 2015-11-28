@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: depresi.xml,v 1.8 2015/07/04 08:37:32 revo Exp $">
+<kap>
+  <rad>depresi</rad>/o
+</kap>
+<drv mrk="depresi.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="depresi.0o.EKON">
+  <fnt><bib>SPV</bib></fnt>
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      <ref tip="super" cel="prospe1.mal0o.KOMUNE">Malprospero</ref> 
+      ekonomia de tuta bran&ccirc;o, merkato, lando...:
+      <ekz>
+        longtempa <tld/>o de la filma merkato multe hezitigis la 
+        investantojn
+        <fnt>
+          <aut>-</aut>,
+          <vrk><url
+          ref="http://esperanto.china.org.cn/world/shi-wenhua/kino/07.htm">&Ccirc;u
+          vere venas printempo por la &ccirc;ina filmo?</url></vrk>,
+          <lok>[vidita en 2006-11]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_d;&c_e;&c_p;&c_r;&c_e;&c_s;&c_ib;&c_ja;</trd>,
+      <trd>&c_z;&c_a;&c_n;&c_ja;&c_p;&c_a;&c_d; <klr>(&c_u; &c_e;&c_k;&c_a;&c_n;&c_o;&c_m;&c_ib;&c_c;&c_y;)</klr></trd>
+    </trdgrp>
+    <trd lng="bg">&c_d;&c_je;&c_p;&c_r;&c_je;&c_s;&c_i;&c_ja;</trd>
+    <trd lng="de">Depression</trd>
+    <trd lng="en">depression</trd>
+    <trd lng="fr">d&eacute;pression<klr> (&eacute;con.)</klr></trd>
+    <trd lng="it">depressione<klr> (econ.)</klr></trd>
+    <trd lng="nl">depressie</trd>
+    <trd lng="pl">kryzys</trd>
+    <trd lng="pt">depress&atilde;o</trd>
+  </snc>
+  <snc mrk="depresi.0o.PSI">
+    <fnt><bib>PIV1</bib></fnt>
+    <uzo tip="fak">PSI</uzo>
+    <ref tip="dif" cel="deprim.0o.PSI">deprimo</ref>
+    <ekz>
+      li skribis al Arturo el Romo pri tio trankvile kaj senafekte, 
+      evidente lia <tld/>o forpasis
+      <fnt>
+        <aut>E. L. Vojni&ccirc;, trad. V. Okc</aut>,
+        <vrk><url
+        ref="http://www.esperanto.mv.ru/Ojstro/Traduko/index.html">Ojstro</url></vrk>,
+        
+        <lok>parto 1a, &ccirc;apitro 4a, 2005-10</lok>
+      </fnt>.
+    </ekz>
+    <trd lng="be">&c_d;&c_e;&c_p;&c_r;&c_e;&c_s;&c_ib;&c_ja;</trd>
+    <trd lng="bg">&c_d;&c_je;&c_p;&c_r;&c_je;&c_s;&c_i;&c_ja;</trd>
+    <trdgrp lng="pl">
+      <trd>depresja</trd>,
+      <trd>przygn&eogonek;bienie</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="ca">depressi&oacute;</trd>
+  <trdgrp lng="cs">
+    <trd>deprese</trd>,
+    <trd>skleslost</trd>,
+    <trd>sklíčenost</trd>
+  </trdgrp>
+  <trd lng="de">Depression</trd>
+  <trd lng="en">depression</trd>
+  <trd lng="nl">depressie</trd>
+  <trd lng="pt">depress&atilde;o</trd>
+  <trdgrp lng="sk">
+    <trd>depresia</trd>,
+    <trd>skľúčenosť</trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log: depresi.xml,v $
+Revision 1.8  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.7  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.6  2013/08/26 15:10:20  revo
+Joop Eggen: +trd bg de en nl
+
+Revision 1.5  2013/04/08 15:10:25  revo
+Dmitri Gabinski: redakto: +trd be
+
+Revision 1.4  2012/09/04 11:10:23  revo
+Marc Rausell: + trd ca
+
+Revision 1.3  2009/06/04 16:30:40  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.2  2007/07/19 16:32:15  revo
+Tulio Flores: +tr pt
+
+Revision 1.1  2006/11/09 17:30:28  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: stenod.xml,v 1.7 2004/11/18 17:31:19 revo Exp $">
+<kap>
+  <rad>stenodaktil</rad>/i
+</kap>
+<drv mrk="stenod.0i">
+  <kap><tld/>i</kap>
+  <snc mrk="stenod.0i.TEK">
+    <dif>
+      Labori per stenografado kaj tajpado.
+    </dif>
+  </snc>
+  <trd lng="fr">st&eacute;nodactylographie</trd>
+  <trd lng="hu">gyors- &eacute;s g&eacute;p&iacute;r</trd>  
+</drv>
+
+<drv mrk="stenod.0isto">
+  <kap><tld/>isto</kap>
+  <snc mrk="stenod.0isto.TEK">
+    <dif>
+      Tiu, kiu laboras <tld/>ante:
+      <ekz>
+        en industrio kaj komerco oni
+        dungas <tld/>istinojn kaj ne nur ma&scirc;inskribistinojn.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">st&eacute;nodactylo</trd>
+  <trd lng="hu">gyors- &eacute;s g&eacute;p&iacute;r&oacute;</trd>  
+  <trd lng="nl">stenotypist(e)</trd>
+</drv>
+</art>
+<!--
+$Log: stenod.xml,v $
+Revision 1.7  2004/11/18 17:31:19  revo
+Marc Bavant: kor duobligitajn punktojn
+
+Revision 1.6  2004/10/29 16:32:06  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.5  2004/03/26 17:31:30  revo
+Jeromo Vasxe: rad stenodaktil(ograf) -> stenodaktil, - fak tek, + trd fr
+
+Revision 1.4 2001/08/22 18:14:24 revo
+Paul Peeraerts: ald trd nl
+
+-->
+</vortaro>

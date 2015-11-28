@@ -1,0 +1,110 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: id1.xml,v 1.13 2015/07/04 08:37:36 revo Exp $">
+<kap>
+  <rad>Id</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="id1.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="id1.0o.LIN">
+    <uzo tip="fak">LIN</uzo>
+    <dif>
+      <ref tip="lst" cel="lingv.0o.homa" lst="voko:lingvoj">Lingvo</ref>
+      internacia kreita de la francoj Louis de Beaufront 
+      (1855 &ndash; 1935) kaj Louis Couturat (1868 &ndash; 1914) 
+      en 1907 kiel reformo de
+      <ref tip="vid" cel="espera.0o">Esperanto</ref>:
+      <ekz>
+        Tolkien aliloke skribis &ccirc;i tiujn vortojn: &leftquot;Volapuko,
+        Esperanto,
+        <tld/>o, Novial, ktp, estas mortintaj<klr>...</klr>&rightquot;
+        <fnt>
+        <aut>Garbhan MacAoidh</aut>,
+        <vrk>Lingvo, mito kaj legendo</vrk>,
+        <bib>Monato</bib>,
+        <lok>jaro 2002a, numero 9a, p. 17a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="delega.D0o">delegacio</ref>
+  </snc>
+  <trd lng="be">&c_ib;&c_d;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>Ido - Linguo Internaciona di la Delegitaro</trd>,
+    <trd>jazyk Ido</trd>
+  </trdgrp>
+  <trd lng="de">Ido</trd>
+  <trd lng="fr">Ido</trd>
+  <trd lng="hu">ido</trd>
+  <trd lng="id">Ido</trd>
+  <trd lng="nl">Ido</trd>
+  <trd lng="pl">ido</trd>
+  <trd lng="pt">ido<klr tip="amb"> (l&iacute;ngua derivada do
+  esperanto)</klr></trd>
+  <trd lng="ru">&c_i;&c_d;&c_o;</trd>
+  <trd lng="sk">Ido</trd>
+</drv>
+
+<drv mrk="id1.0isto">
+  <kap><tld lit="i"/>isto</kap>
+  <snc mrk="id1.0isto.LIN">
+    <dif>
+      Persono, kiu scias kaj uzas <tld/>on:
+      <ekz>
+        la <tld lit="i"/>istoj nun okazigas sian internacian kongreson
+        <fnt>
+        <aut>Klivo</aut>,
+        <vrk>Idistoj kongresumas</vrk>,
+        <lok>soc.culture.esperanto, 2001-06-18</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_ib;&c_d;&c_y;&c_s;&c_t;</trd>
+  <trd lng="cs">idista</trd>
+  <trd lng="de">Idist</trd>
+  <trd lng="fr">idiste<klr> (subst.)</klr></trd>
+  <trd lng="hu">idista</trd>
+  <trd lng="nl">Idist</trd>
+  <trdgrp lng="pl">
+    <trd>idista</trd>,
+    <trd>idysta</trd>
+  </trdgrp>
+  <trd lng="pt">idista</trd>
+  <trd lng="ru">&c_i;&c_d;&c_i;&c_s;&c_t;</trd>
+  <trd lng="sk">idista</trd>
+</drv>
+</art>
+<!--
+$Log: id1.xml,v $
+Revision 1.13  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.12  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.11  2014/10/26 02:10:20  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.10  2013/08/22 16:10:22  revo
+Wolfram Diestel: referenco al listo lingvoj
+
+Revision 1.9  2009/03/05 17:30:48  revo
+Marcus Curdeius: +pl
+
+Revision 1.8  2005/10/25 16:31:14  revo
+Luiz Portella: +trd pt
+
+Revision 1.7  2005/08/25 16:33:39  revo
+Wieland Pusch: +trd de
+
+Revision 1.6  2005/05/19 16:31:20  revo
+Yury Finkel: +trd ru
+
+Revision 1.5  2005/04/24 16:33:48  revo
+Paul Peeraerts: ald trd nl
+
+Revision 1.4  2005/04/03 17:17:16  revo
+-->
+</vortaro>

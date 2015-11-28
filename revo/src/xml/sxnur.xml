@@ -1,0 +1,244 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: sxnur.xml,v 1.31 2013/12/06 02:10:13 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>&scirc;nur</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="sxnur.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="sxnur.0o.KOMUNE">
+    <dif>
+      Kuntorditaj fadenoj uzataj por ligi:
+      <ekz>
+        en dom' de pendigito pri <tld/>o ne parolu
+        <fnt><bib>PrV</bib></fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FRAZ</uzo>
+        <ind>tordi <tld/>ojn el sablo</ind>
+        <klr>(<ref tip="vid" cel="van.0e">vane</ref> peni)</klr>
+        <fnt><bib>PrV</bib></fnt>;
+        <trd lng="fr">pisser dans un violon</trd>
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FRAZ</uzo>
+        <ind>trostre&ccirc;i la <tld/>on</ind>
+        <klr>(tro ofte uzi unu saman rimedon)</klr>.
+        <trd lng="fr">tirer sur la corde</trd>
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_v;&c_ja;&c_r;&c_o;&c_w;&c_k;&c_a;</trd>,
+      <trd>&c_sh;&c_p;&c_a;&c_g;&c_a;&c_t;</trd>,
+      <trd>&c_sh;&c_n;&c_u;&c_r;</trd>
+    </trdgrp>
+    <trd lng="de">Schnur</trd>
+    <trdgrp lng="fr">
+      <trd>corde</trd>,
+      <trd>ficelle</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>k&ouml;t&eacute;l</trd>,
+      <trd>zsin&oacute;r</trd>,
+      <trd>madzag</trd>
+    </trdgrp>
+    <trdgrp lng="nl">
+      <trd>touw</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_v;&c_je;&c_r;&c_jo;&c_v;&c_k;&c_a;</trd>,
+      <trd>&c_sh;&c_n;&c_u;&c_r;</trd>,
+      <trd>&c_k;&c_a;&c_n;&c_a;&c_t;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="sxnur.0o.cirklo">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>MatTerm</bib><lok>p. 28</lok></fnt>
+    <dif>
+      <ref tip="super" cel="strek.0o.segmento">Streko</ref>, kiu
+      kunligas
+      du punktojn de <ref cel="cirkl.0o.linio">cirklo</ref>, plejofte, 
+a&ubreve;
+      de alia <ref cel="kurb.0o.MAT">kurbo</ref>:
+      <ekz>
+        la longo de <tld/>o maksimume egalas al la diametro de la
+        koncerna
+        cirklo;
+      </ekz>
+      <ekz>
+        <ref cel="ort.mez0anto">mezortanto</ref> de <tld/>o trairas la
+        centron.
+      </ekz>
+    </dif>
+    <rim>
+      Ekzistas balasta sinonimo <ctl>kordo</ctl>
+      <fnt><bib>PIV1</bib></fnt>.
+    </rim>
+    <trd lng="be">&c_h;&c_o;&c_r;&c_d;&c_a;</trd>
+    <trd lng="de">Sehne</trd>
+    <trd lng="en">chord</trd>
+    <trd lng="fr">corde</trd>
+    <trd lng="hu">h&uacute;r<klr tip="ind"> (geometriai)</klr></trd>
+    <trd lng="it">corda</trd>
+    <trdgrp lng="nl">
+      <trd>koorde</trd>
+    </trdgrp>
+    <trd lng="pl">ci&eogonek;ciwa</trd>
+    <trd lng="ru">&c_h;&c_o;&c_r;&c_d;&c_a;</trd>
+  </snc>
+  <trd lng="en">rope</trd>
+  <trd lng="es">cuerda</trd>
+  <trd lng="pt">corda</trd>
+  <trd lng="tp">linja</trd>
+</drv>
+
+<drv mrk="sxnur.0i">
+  <kap><tld/>i</kap>
+  <snc mrk="sxnur.0i.KOMUNE">
+    <dif>
+      Ligi per <tld/>o:
+      <ekz>
+        tio ne estintus tro &gcirc;ena, se la malbone <tld/>ita
+        generatoro ne estus rompinta sian &scirc;nuron kaj
+        traruli&gcirc;inta la ferdekon
+        <fnt><aut>E. de Zilah</aut>, <vrk>Vivi sur barko</vrk>, 
+        <lok>1994</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_sh;&c_n;&c_u;&c_r;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_p;&c_r;&c_a;&c_sh;&c_n;&c_u;&c_r;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="es">atar con cuerda</trd>
+  <trdgrp lng="fr">
+    <trd>attacher par une corde</trd>,
+    <trd>encorder</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="sxnur.0ego">
+  <kap><tld/>ego</kap>
+  <uzo tip="fak">TEK</uzo>
+  <uzo tip="fak">MAR</uzo>
+  <snc>
+    <dif>
+      Aparte dika
+      <ref tip="super" cel="sxnur.0o.KOMUNE"><tld/>o</ref> el vegeta&jcirc;aj
+      a&ubreve; metalaj fadenoj, uzata por tiri a&ubreve; movi pezajn 
+objektojn:
+      <ekz>
+        subite la <tld/>egoj, kiuj <klr>[la balonon]</klr> tenis,
+        estis distran&ccirc;itaj, kaj nun &gcirc;i ekflugis supren
+        kun la aerveturisto
+        <fnt><bib>Fab3</bib><lok>Kolo de botelo</lok></fnt>;
+      </ekz>
+      <ekz>
+        &scirc;i malsekigis <klr>[la fadenon]</klr> per siaj larmoj,
+        kaj tial &gcirc;i estis fortika kiel ankra <tld/>ego
+        <fnt><bib>Fab3</bib><lok>&Scirc;tono de sa&gcirc;uloj</lok></fnt>;
+      </ekz>
+      <ekz>
+        sur la <tld/>egoj <klr>[kunligantaj du turojn]</klr> glitas
+        super la akvo de bordo al bordo vagonetoj
+        <fnt><bib>Metrop</bib><lok>&ccirc;ap. 11</lok></fnt>.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="kabl.0o.sxnurego">kablo <sncref/></ref>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_t;&c_r;&c_o;&c_s;</trd>,
+    <trd>&c_k;&c_a;&c_n;&c_a;&c_t;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Seil</trd>,
+    <trd>Tau</trd>
+  </trdgrp>
+  <trd lng="es">maroma</trd>
+  <trdgrp lng="fr">
+    <trd>c&acirc;ble<klr tip="ind"> (faisceau de fils)</klr></trd>,
+    <trd>filin</trd>,
+    <trd>cordage<klr tip="ind"> (c&acirc;ble)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="it">
+    <trd>fune</trd>,
+    <trd>gomena</trd>,
+    <trd>cordone</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_k;&c_a;&c_n;&c_a;&c_t;</trd>,
+    <trd>&c_t;&c_r;&c_o;&c_s;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="sxnur.0estro">
+  <kap><tld/>estro <fnt><bib>ItEsp</bib></fnt></kap>
+  <snc mrk="sxnur.0estro.SPO">
+    <uzo tip="fak">SPO</uzo>
+    <dif>
+      Tiu, kiu gvidas vicon de montogrimpistoj
+      kunligitaj per sekur&scirc;nuro.
+    </dif>
+  </snc>
+  <trd lng="it">capocordata</trd>
+</drv>
+
+<drv mrk="sxnur.rekto0o">
+  <kap>rekto<tld/>o</kap>
+  <uzo tip="fak">TEK</uzo>
+  <snc>
+    <dif>
+      &Scirc;nuro servanta por desegni rektajn liniojn, plejofte
+      <ref cel="horizo1.0o.FIZ">horizontalojn</ref>, por vicigi a&jcirc;ojn
+      la&ubreve; unu sama rekta linio:
+      <ekz>
+        aleo desegnita per la rekto<tld/>o;
+      </ekz>
+      <ekz>
+        planti terpomojn uzante rekto<tld/>on;
+      </ekz>
+      <ekz>
+        kiu etendis super &gcirc;i rekto<tld/>on?
+        <fnt><bib>MT</bib>, <lok>&Ijo; 38:5</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="de">Richtschnur</trd>
+  <trd lng="fr">cordeau</trd>
+  <trdgrp lng="hu">
+    <trd>m&eacute;r&odblac;zsin&oacute;r</trd>,
+    <trd>zsin&oacute;rm&eacute;rt&eacute;k</trd>
+  </trdgrp>
+  <trd lng="it">guida<klr> (corda o cordino)</klr></trd>
+  <trd lng="ru">&c_m;&c_je;&c_r;&c_n;&c_y;&c_j; &c_sh;&c_n;&c_u;&c_r;</trd>
+</drv>
+</art>
+<!--
+$Log: sxnur.xml,v $
+Revision 1.31  2013/12/06 02:10:13  revo
+Agustin Garcia Lopez: +trd(es)
+
+Revision 1.30  2013/03/21 20:10:45  revo
+Dmitri Gabinski: redakto: +trd be
+
+Revision 1.29  2010/08/11 16:30:29  revo
+Jeromo Vasxe: + ~i
+
+Revision 1.28  2009/03/18 17:32:21  revo
+Antonio Codazzi: +trd it, +~estro
+
+Revision 1.27  2006/11/05 17:30:17  revo
+Wieland Pusch: +trd de
+
+Revision 1.26  2006/10/04 16:30:27  revo
+Axel Rousseau: +trd tp
+
+Revision 1.25  2005/06/17 17:21:01  revo
+Yury Finkel: +trd ru
+
+Revision 1.24  2004/11/01 17:31:47  revo
+-->
+</vortaro>

@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: baron.xml,v 1.15 2009/06/29 18:07:08 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>baron</rad>/o
+</kap>
+<drv mrk="baron.0o">
+  <kap>
+    <tld/>o
+  </kap>
+  <snc mrk="baron.0o.nobela">
+    <dif>
+      <ref tip="super" cel="nobel.0o">Nobelo</ref> de rango pli malalta
+      ol
+      <ref tip="vid" cel="graf.0o.nobela">grafo</ref>.
+    </dif>
+  <trd lng="be">&c_b;&c_a;&c_r;&c_o;&c_n;</trd>
+  <trdgrp lng="de">
+     <trd>Freiherr</trd>,
+     <trd>Baron</trd>
+  </trdgrp>
+  <trd lng="es">bar&oacute;n</trd>
+  <trd lng="en">baron</trd>
+  <trd lng="fr">baron</trd>
+  <trd lng="hu">b&aacute;r&oacute;</trd>
+  <trd lng="nl">baron</trd>
+  <trd lng="pl">baron</trd>
+  <trd lng="pt">bar&atilde;o</trd>
+  <trd lng="ru">&c_b;&c_a;&c_r;&c_o;&c_n;</trd>
+  <trd lng="sk">bar&oacute;n</trd>
+  </snc>
+</drv>
+</art>
+<!--
+$Log: baron.xml,v $
+Revision 1.15  2009/06/29 18:07:08  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.14  2009/03/02 17:30:57  revo
+Sebastian Cyprych: +trd pl +ref al grafo
+
+Revision 1.13  2006/11/08 17:30:24  revo
+Tulio Flores: +tr pt
+
+Revision 1.12  2003/11/26 17:31:06  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.11  2003/04/06 16:31:00  revo
+Ulrich Fellmann: + 2 trd=de
+
+Revision 1.10  2003/01/13 17:35:34  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.9  2002/11/10 11:40:48  revo
+Christopher Zervic: + ang
+
+Revision 1.8  2002/09/09 19:52:24  revo
+-->
+</vortaro>

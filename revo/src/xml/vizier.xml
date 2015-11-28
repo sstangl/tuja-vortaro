@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: vizier.xml,v 1.17 2015/07/04 08:37:45 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>vizier</rad>/o
+</kap>
+<drv mrk="vizier.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <uzo tip="fak">TEKS</uzo>
+  <snc mrk="vizier.0o.kaska">
+    <dif>
+      Movebla viza&gcirc;&scirc;irmilo de <ref tip="malprt" 
+cel="kask.0o">kasko</ref>:
+      <ekz>
+        la kasko estis nur simpla kapopeco sen
+        <tld/>o<fnt><bib>DonKihxoto</bib> <lok>&ccirc;apitro 1a, p.
+        28a</lok></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_p;&c_r;&c_y;&c_l;&c_b;&c_ib;&c_c;&c_a;</trd>
+    <trd lng="de">Visier</trd>
+    <trd lng="hu">sisakrost&eacute;ly</trd>    
+    <trd lng="nl">vizier</trd>
+    <trd lng="ru">&c_z;&c_a;&c_b;&c_r;&c_a;&c_l;&c_o;</trd>
+  </snc>
+  <snc mrk="vizier.0o.cxapa">
+    <dif>
+      Anta&ubreve;rando de <ref tip="malprt" 
+cel="vest.kap0o">kapvesto</ref>.
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="bek.0o.FIG">beko</ref>
+    </refgrp>
+    <trd lng="be">&c_b;&c_r;&c_y;&c_l;&c_mol;</trd>
+    <trd lng="hu">sapkaellenz&odblac;</trd>
+    <trd lng="nl">klep<klr tip="ind"> (v.pet)</klr></trd>
+    <trd lng="ru">&c_k;&c_o;&c_z;&c_y;&c_r;&c_jo;&c_k;</trd>
+  </snc>
+  <trd lng="ca">visera</trd>
+  <trdgrp lng="cs">
+    <trd>hist.. hledí <klr>(přilby brnění)</klr></trd>,
+    <trd>štítek čepice</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>visor</trd>,
+    <trd>vizor</trd>
+  </trdgrp>
+  <trd lng="es">visera</trd>
+  <trd lng="fr">visi&egrave;re</trd>
+  <trd lng="pt">viseira</trd>
+  <trdgrp lng="sk">
+    <trd>2.tienidlo na čipke</trd>,
+    <trd>mriežky prilby</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: vizier.xml,v $
+Revision 1.17  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/28 12:03:50  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.15  2012/08/12 17:10:27  revo
+Marc Rausell: + trd ca
+
+Revision 1.14  2005/02/03 17:34:08  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.13  2005/01/28 17:31:50  revo
+Bart Demeyere: +trd en
+
+Revision 1.12  2004/03/09 17:31:07  revo
+Dennis Wibrow: +trd germ
+
+Revision 1.11  2003/06/15 16:31:29  revo
+Jeromo Vasxe: + ekz, + mrk, + malprt, - 1 sin, + trd fr
+
+Revision 1.10 2002/07/27 19:02:52 revo
+Eduardo M. Kalinowski: ald trd pt
+
+Revision 1.9 2002/06/01 05:58:45 revo
+Zmicier Lapcionak: + trd be
+
+Revision 1.8 2002/03/19 17:33:26 revo
+-->
+</vortaro>

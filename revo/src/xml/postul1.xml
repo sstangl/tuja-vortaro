@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: postul1.xml,v 1.15 2015/06/29 16:40:18 revo Exp $">
+<kap>
+  <rad>postulat</rad>/o
+  <fnt>Z</fnt>
+</kap>
+<drv mrk="postul1.0o">
+  <kap><tld/>o</kap>
+  <fnt><bib>PV</bib></fnt>
+  <snc mrk="postul1.0o.FIL">
+    <uzo tip="fak">FIL</uzo>
+    <dif>
+      Tezo, pri kiu oni postulas, ke &gcirc;i estu akceptata kiel vera,
+      kvankam ne demonstrita kaj ne evidenta per si mem:
+      <ekz>
+        la <tld/>o pri la ekzisto de Dio.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="aksiom.0o.FIL">aksiomo</ref>.
+    </refgrp>
+  </snc>
+  <snc mrk="postul1.0o.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <dif>
+      <ref tip="dif" cel="aksiom.0o.MAT">Aksiomo</ref>:
+      <ekz>
+        la e&ubreve;klida <tld/>o pri paraleloj.
+      </ekz>
+    </dif>
+    <rim>
+      La vorto <tld/>o en matematiko i&gcirc;as malpli kaj malpli uzata,
+      krom en kelkaj historiaj esprimoj. La distingo, kiu iam ekzistis
+      inter la neevidenta <tld/>o kaj la memevidenta aksiomo, &ccirc;esis
+      esti senchava en la moderna matematiko. Gravas nur, ke la
+      nepruvita
+      aserto ne veku kontra&ubreve;dirojn en la teorio.
+    </rim>
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_s;&c_t;&c_u;&c_l;&c_ja;&c_t;</trd>
+  <trd lng="ca">postulat</trd>
+  <trdgrp lng="de">
+    <trd>Postulat</trd>,
+    <trd>Forderung</trd>
+  </trdgrp>
+  <trd lng="en">postulate</trd>
+  <trd lng="fr">postulat</trd>
+  <trdgrp lng="hu">
+    <trd>sarkt&eacute;tel</trd>,
+    <trd>posztul&aacute;tum</trd>
+  </trdgrp>
+  <trd lng="nl">postulaat</trd>
+  <trd lng="pl">postulat</trd>
+  <trdgrp lng="pt">
+    <trd>postulado</trd>,
+    <trd>axioma</trd>
+  </trdgrp>
+  <trd lng="ru">&c_p;&c_o;&c_s;&c_t;&c_u;&c_l;&c_a;&c_t;</trd>
+  <trd lng="sk">postulát</trd>
+</drv>
+</art>
+<!--
+$Log: postul1.xml,v $
+Revision 1.15  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.14  2012/01/03 23:10:33  revo
+Marc Rausell: +trd ca
+
+Revision 1.13  2006/03/17 17:31:24  revo
+Tulio Flores: +tr pt
+
+Revision 1.12  2003/07/17 16:38:43  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.11  2003/01/13 17:34:21  revo
+Marc Bavant: ~o: kor lng cxe trd hu, +trd en
+
+Revision 1.10  2003/01/02 17:49:59  revo
+Marc Bavant: +trd pl
+Revision 1.9  2002/12/18 18:50:40  revo
+Jozefo Horvath: +trd hu
+Revision 1.8  2002/05/12 16:37:49  revo
+Marc Bavant: +fnt
+Revision 1.7  2001/12/21 17:31:13  revo
+Yury Finkel: +trd ru
+Revision 1.6 2001/07/01 18:13:21 revo
+Paul Peeraerts: ald trd nl
+-->
+</vortaro>

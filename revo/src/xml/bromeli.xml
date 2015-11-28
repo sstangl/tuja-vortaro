@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: bromeli.xml,v 1.9 2013/08/25 14:10:25 revo Exp $">
+<kap>
+  <rad>bromeliac</rad>/oj
+</kap>
+<drv mrk="bromeli.0oj">
+  <kap>
+    <tld/>oj
+  </kap>
+  <uzo tip="fak">BOT</uzo>
+  <snc>
+    <dif>
+      <ref tip="lst" cel="famili.0o.BIO"
+      lst="voko:botanikaj_familioj">Familio</ref>  de <ref tip="malprt"
+      cel="kotile.unu0aj">unukotiledonaj</ref>
+      tropikaj plantoj (<trd lng="la">Bromeliaceae</trd>).
+    </dif>
+    <ref tip="sub" cel="ananas.0ujo">ananasujo</ref>
+  </snc>
+  <trdgrp lng="de">
+    <trd>Ananasgew&auml;chse</trd>,
+    <trd>Bromeliazeen</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>anan&aacute;szf&eacute;l&eacute;k</trd>,
+    <trd>brom&eacute;liaf&eacute;l&eacute;k</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_b;&c_r;&c_o;&c_m;&c_je;&c_l;&c_i;&c_je;&c_v;&c_y;&c_je;</trd>,
+    <trd>&c_a;&c_n;&c_a;&c_n;&c_a;&c_s;&c_o;&c_v;&c_y;&c_je; <klr
+tip="amb">(&c_s;&c_je;&c_m;&c_je;&c_j;&c_s;&c_t;&c_v;&c_o;)</klr></trd>
+  </trdgrp>
+  <trd lng="fr">brom&eacute;liac&eacute;es</trd>
+</drv>
+</art>
+<!--
+$Log: bromeli.xml,v $
+Revision 1.9  2013/08/25 14:10:25  revo
+Wolfram Diestel: referencoj al listo bot familioj
+
+Revision 1.8  2002/03/21 18:35:24  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.7  2001/11/21 17:36:52  revo
+Yury Finkel: kor trd ru
+
+Revision 1.6  2001/11/15 19:14:04  revo
+Yury Finkel: +trd ru
+
+Revision 1.5  2001/04/18 15:55:16  revo
+bromeli/acoj -> bromeliac/oj
+
+Revision 1.4  2001/02/20 17:15:00  revo
+Marc Bavant: +trd fr
+
+Revision 1.3  2000/11/30 12:43:59  revo
+Wolfram Diestel: ref al klaso
+
+Revision 1.2  2000/08/31 21:10:41  revo
+-->
+</vortaro>

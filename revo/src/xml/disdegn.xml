@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: disdegn.xml,v 1.10 2015/07/04 08:37:32 revo Exp $">
+<kap>
+  <rad>disdegn</rad>/i <fnt><bib>NeoGlo</bib></fnt>
+</kap>
+<drv mrk="disdegn.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <uzo tip="stl">RAR</uzo>
+  <snc mrk="disdegn.0i.malestimi">
+    <dif>
+      Videble <ref tip="super" cel="estim.mal0i">malestimi</ref> iun a&ubreve;
+      ion, rigardante &gcirc;in senvalora, neatentinda:
+      <ekz>
+        li estas amanto <tld/>ata
+        <fnt><bib>DonKihxoto</bib>, <lok>parto 1a, &ccirc;apitro 23a, p.
+        166a</lok></fnt>;
+      </ekz>
+      <ekz>
+        a&ubreve; iu grupeto prave <tld/>as alian okupon kaj tute nature venas
+        al
+        filozofio
+        <fnt>
+        <aut>Platono, trad. Donald Broadribb</aut>,
+        <vrk>La Respubliko</vrk>,
+        <lok>jaro 1993a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>nemít rád</trd>,
+    <trd>nenávidět</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>desde&ntilde;ar</trd>,
+    <trd>desestimar</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>d&eacute;daigner</trd>,
+    <trd>m&eacute;sestimer</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>megvet</trd>,
+    <trd>len&eacute;z</trd>
+  </trdgrp>
+  <trd lng="nl">misprijzen<klr tip="ind"> (werkw.)</klr></trd>
+  <trdgrp lng="pt">
+    <trd>desdenhar</trd>,
+    <trd>desprezar</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_r;&c_je;&c_n;&c_je;&c_b;&c_r;&c_je;&c_g;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_o;&c_t;&c_n;&c_o;&c_s;&c_i;&c_t;&c_mol;&c_s;&c_ja; <ind>&c_s;&c_v;&c_y;&c_s;&c_o;&c_k;&c_a;</ind></trd>,
+    <trd>&c_p;&c_r;&c_je;&c_z;&c_i;&c_r;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_g;&c_n;&c_u;&c_sh;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>
+  </trdgrp>
+  <trd lng="sk">nenávidieť</trd>
+</drv>
+
+<drv mrk="disdegn.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="stl">RAR</uzo>
+  <snc mrk="disdegn.0o.malestimo">
+    <dif>
+      Sinteno, kiu sentigas ke iu a&ubreve; io estas neinda, malestiminda.
+    </dif>
+  </snc>
+  <trd lng="cs">nenávist</trd>
+  <trdgrp lng="es">
+    <trd>desd&eacute;n</trd>,
+    <trd>desestimo</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>d&eacute;dain</trd>,
+    <trd>m&eacute;sestime</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>megvet&eacute;s</trd>,
+    <trd>len&eacute;z&eacute;s</trd>
+  </trdgrp>
+  <trd lng="nl">misprijzen<klr tip="ind"> (naamw.)</klr></trd>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_r;&c_je;&c_n;&c_je;&c_b;&c_r;&c_je;&c_zh;&c_je;&c_n;&c_i;&c_je;</trd>,
+    <trd>&c_p;&c_r;&c_je;&c_z;&c_r;&c_je;&c_n;&c_i;&c_je;</trd>
+  </trdgrp>
+  <trd lng="sk">nenávisť</trd>
+</drv>
+</art>
+<!--
+$Log: disdegn.xml,v $
+Revision 1.10  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.9  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.8  2009/07/01 17:22:59  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.7  2007/08/08 16:30:45  revo
+Tulio Flores: +tr pt
+
+Revision 1.6  2007/02/07 17:30:41  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.5  2006/05/17 16:31:40  revo
+Eduardo Navas: +trd es
+
+Revision 1.4  2005/06/20 16:32:17  revo
+Yury Finkel: +trd ru
+
+Revision 1.3  2005/04/01 17:47:56  revo
+Jeromo Vasxe: aux -> au supersigna
+
+Revision 1.2 2005/03/31 16:32:38 revo
+jxeromo vasxe: + ekz el disdeg.xml
+
+Revision 1.1 2004/05/24 16:34:01 revo
+-->
+</vortaro>

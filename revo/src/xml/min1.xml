@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: min1.xml,v 1.7 2015/07/04 08:37:39 revo Exp $">
+<kap>
+  <rad>min</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="min1.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="min1.0o.MEZ_PEZ">
+    <uzo tip="fak">HIS</uzo>
+    <dif>
+      Antikva <ref tip="lst" cel="unu.mezur0o"
+      lst="voko:kvantoj">Mezurunuo</ref> de
+      pezo,
+      60-ono de <ref tip="malprt" cel="talant.0o.pezunuo">talanto</ref>,
+      ordinare &ccirc;irka&ubreve; 400 a&ubreve; 500 gramojn valora:
+      <ekz>
+        unu soldato povas porti sur la dorso 26 <tld/>ojn da &scirc;ar&gcirc;o
+        <fnt><bib>Far2</bib>, <lok>&ccirc;apitro 2a</lok></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">Mine<klr tip="ind">(Gewichtseinheit)</klr></trd>
+    <trd lng="pt">mina <klr tip="amb">(antiga medida de
+    peso</klr></trd>
+  </snc>
+  <snc mrk="min1.0o.MEZ_MON">
+    <uzo tip="fak">EKON</uzo>
+    <uzo tip="fak">HIS</uzo>
+    <dif>
+      Antikva <ref tip="lst" cel="unu.mon0o"
+      lst="voko:monunuoj">monunuo</ref> 60-ono de
+      <ref tip="malprt" cel="talant.0o.monunuo">talanto</ref>.
+    </dif>
+    <trd lng="de">Mine<klr tip="ind">(M&uuml;nze)</klr></trd>
+    <trd lng="pt">mina <klr tip="amb">(antiga moeda)</klr></trd>
+  </snc>
+  <rim mrk="min1.0o.RIM_hom">
+    Samforma fundamenta vorto
+    <ref tip="hom" cel="min.0o">mino</ref>
+    signifas lokon de elfosado de &scirc;tonoj a&ubreve; mineraloj.
+  </rim>
+  <trd lng="fr">mine<klr tip="amb"> (unit&eacute; de mesure)</klr></trd>
+  <trd lng="pl">mina</trd>
+  <trdgrp lng="sk">
+    <trd>banská jama</trd>,
+    <trd>šachta</trd>,
+    <trd>štôlňa</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>důlní jáma</trd>,
+    <trd>šachta</trd>,
+    <trd>štola</trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log: min1.xml,v $
+Revision 1.7  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.6  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.5  2013/10/03 08:10:40  revo
+Wolfram Diestel: precizigis klason al voko:kvantoj
+
+Revision 1.4  2013/09/14 17:10:21  revo
+Wolfram Diestel: ref al lst mezurunuoj, monunuoj, germ trd
+
+Revision 1.3  2013/04/25 06:10:18  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.2  2006/08/10 19:45:39  revo
+Tulio Flores: +tr pt
+
+Revision 1.1  2005/07/25 16:32:16  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

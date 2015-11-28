@@ -1,0 +1,120 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: monarh.xml,v 1.17 2013/08/23 14:10:13 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>monar&hcirc;</rad>/o, <var><kap>monark/o
+</kap></var></kap>
+
+<drv mrk="monarh.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <uzo tip="fak">JUR</uzo>
+  <uzo tip="fak">POL</uzo>
+  <snc>
+    <dif>
+      Regnestro en <ref tip="malprt" cel="monarh1">monarkio</ref>:
+      emiro, &hcirc;alifo, &hcirc;ano, imperiestro, princo, re&gcirc;o, sultano ktp.
+    </dif>
+  </snc>                      
+  <trd lng="be">&c_m;&c_a;&c_n;&c_a;&c_r;&c_h;</trd>
+  <trd lng="bg">&c_m;&c_o;&c_n;&c_a;&c_r;&c_h;</trd>
+  <trd lng="br">unpenn</trd>
+  <trd lng="ca">monarca</trd>
+  <trd lng="de">Monarch</trd>
+  <trd lng="en">monarch</trd>
+  <trd lng="es">mobarca</trd>
+  <trdgrp lng="fr">
+    <trd>monarque</trd>,
+    <trd>souverain<klr> (subst.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>egyeduralkod&oacute;</trd>,
+    <trd>monarcha</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>vorst</trd>,
+    <trd>monarch</trd>
+  </trdgrp>
+  <trd lng="pt">monarca</trd>
+  <trd lng="ru">&c_m;&c_o;&c_n;&c_a;&c_r;&c_h;</trd>
+</drv>
+
+<drv mrk="monarh.0ismo">
+  <kap><tld/>ismo</kap>
+  <uzo tip="fak">POL</uzo>
+  <snc>
+    <dif>
+      Monarkiismo, politika doktrino de partianoj de monarkia
+      re&gcirc;imo.
+    </dif>
+  </snc>
+  <trd lng="be">&c_m;&c_a;&c_n;&c_a;&c_r;&c_h;&c_ib;&c_z;&c_m;</trd>
+  <trd lng="bg">&c_m;&c_o;&c_n;&c_a;&c_r;&c_h;&c_i;&c_ja;</trd>
+  <trd lng="br">unpenniezh</trd>
+  <trdgrp lng="ca">
+    <trd>monarquia</trd>,
+    <trd>monarquisme</trd>
+  </trdgrp>
+  <trd lng="de">Monarchismus</trd>
+  <trd lng="en">monarchism</trd>
+  <trdgrp lng="fr">
+    <trd>monarchisme</trd>
+  </trdgrp>
+  <trd lng="hu">monarchizmus</trd>
+  <trd lng="nl">monarchisme</trd>
+  <trd lng="ru">&c_m;&c_o;&c_n;&c_a;&c_r;&c_h;&c_i;&c_z;&c_m;</trd>
+</drv>
+
+<drv mrk="monarh.0isto">
+  <kap><tld/>isto</kap>
+  <uzo tip="fak">POL</uzo>
+  <snc>
+    <dif>
+      Partiano de monarkia re&gcirc;imo.
+    </dif>
+    <refgrp tip="ant">
+      <ref cel="respub.0isto">respublikisto</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_m;&c_a;&c_n;&c_a;&c_r;&c_h;&c_ib;&c_s;&c_t;</trd>
+  <trd lng="bg">&c_m;&c_o;&c_n;&c_a;&c_r;&c_h;&c_i;&c_s;&c_t;</trd>
+  <trd lng="br">unpennelour</trd>
+  <trd lng="ca">mon&agrave;rquic<klr> (subst.)</klr></trd>
+  <trd lng="de">Monarchist</trd>
+  <trd lng="en">monarchist</trd>
+  <trdgrp lng="fr">
+    <trd>monarchiste</trd>
+  </trdgrp>
+  <trd lng="hu">monarchista</trd>
+  <trd lng="nl">monarchist</trd>
+  <trd lng="ru">&c_m;&c_o;&c_n;&c_a;&c_r;&c_h;&c_i;&c_s;&c_t;</trd>
+</drv>
+</art>
+<!--
+$Log: monarh.xml,v $
+Revision 1.17  2013/08/23 14:10:13  revo
+Joop Eggen: +trd bg
+
+Revision 1.16  2012/10/23 00:13:03  revo
+Neil Roberts: aldonu la etikedon <var>
+
+Revision 1.15  2012/07/17 13:10:14  revo
+Marc Rausell: + trd ca
+
+Revision 1.14  2009/03/01 17:34:51  revo
+Russ Williams: +trd en
+
+Revision 1.13  2008/12/11 17:31:14  revo
+Alejandro Mejia Greene: ald his trdk
+
+Revision 1.12  2007/06/04 16:30:22  revo
+Wieland Pusch: +trd de
+
+Revision 1.11  2006/08/07 16:33:03  revo
+Tulio Flores: +tr pt
+
+Revision 1.10  2005/05/26 16:31:06  revo
+-->
+</vortaro>

@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: agropi.xml,v 1.24 2015/07/04 08:37:29 revo Exp $">
+<kap>
+  <rad>agropir</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="agropi.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="agropi.0o.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      <ref tip="lst" cel="genr.0o"
+      lst="voko:botanikaj_genroj">Genro</ref> el familio <ref
+      tip="malprt" cel="poac.0oj">poacoj</ref>
+      (<trd lng="la">Agropyron</trd>):
+      <ekz>
+        <tld/>o <klr>...</klr> prem&scirc;topis la lar&gcirc;ajn
+        juntojn <klr>[de kaheloj]</klr>
+        <fnt>
+          <aut>V. Catal&agrave;, trad. J. Ventura i Freixas</aut>,
+          <vrk>Soleco</vrk>,
+          <lok>1967</lok>
+        </fnt>.
+      </ekz>
+    </dif>    
+  </snc>
+  <trd lng="be">&c_p;&c_y;&c_r;&c_n;&c_ib;&c_k;</trd>
+  <trd lng="ca">g&egrave;nere Agropyron</trd>
+  <trdgrp lng="cs">
+    <trd>pýr</trd>,
+    <trd>pýřavka</trd>
+  </trdgrp>
+  <trd lng="de">Kammquecke</trd>
+  <trdgrp lng="en">
+    <trd>couch grass</trd>,
+    <trd>dog grass</trd>,
+    <trd>quitch</trd>,
+    <trd>twitch</trd>
+  </trdgrp>
+  <trd lng="fr">chiendent</trd>
+  <trd lng="hu">b&uacute;zaf&udblac;</trd>
+  <trd lng="it">agropiro</trd>
+  <trd lng="nl">kweek<klr tip="ind"> (plant)</klr></trd>
+  <trd lng="pt">grama</trd>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_y;&c_r;&c_je;&c_j;</trd>,
+    <trd>&c_zh;&c_i;&c_t;&c_n;&c_ja;&c_k;</trd>
+  </trdgrp>
+  <trd lng="sk">p&yacute;r</trd>
+  <trd lng="sv">kamvete</trd>
+  <trd lng="tr">ayr&inodot;kotu</trd>
+</drv>
+</art>
+<!--
+$Log: agropi.xml,v $
+Revision 1.24  2015/07/04 08:37:29  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.23  2013/08/28 16:10:18  revo
+Wolfram Diestel: prilaboris dif, germ trd, ne konfuzu kun elimo
+
+Revision 1.22  2013/08/28 15:10:13  revo
+Wolfram Diestel: referencoj al bot genroj
+
+Revision 1.21  2013/03/05 02:10:12  revo
+Jeromo Vasxe: + ekz
+
+Revision 1.20  2012/01/01 20:10:32  revo
+Marc Rausell: +trd ca
+
+Revision 1.19  2011/11/18 11:10:19  revo
+Antonio Codazzi: + trd it
+
+Revision 1.18  2009/08/25 16:32:48  revo
+Emmanuel Debanne: +trd tr
+
+Revision 1.17  2008/11/25 17:30:29  revo
+Jerano Zachrisson: +trd sv
+
+Revision 1.16  2004/07/06 16:35:09  revo
+-->
+</vortaro>

@@ -1,0 +1,114 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: negaci.xml,v 1.19 2015/07/04 08:37:40 revo Exp $">
+<kap>
+  <rad>negaci</rad>/o
+  <fnt>Z</fnt>
+</kap>
+<drv mrk="negaci.0o">
+  <kap><tld/>o</kap>
+  <snc>
+    <uzo tip="fak">GRA</uzo>
+    <dif>
+      Nea vorto.
+    </dif>
+    <trd lng="be">&c_a;&c_d;&c_m;&c_o;&c_w;&c_je;</trd>
+    <trd lng="de">Verneinung</trd>
+    <trd lng="es">negaci&oacute;n</trd>
+    <trd lng="hu">tagad&oacute;sz&oacute;</trd>
+    <trd lng="nl">negatie</trd>
+    <trd lng="pl">przeczenie</trd>
+    <trdgrp lng="pt">
+      <trd>nega&ccedil;&atilde;o</trd>,
+      <trd>palavra <klr tip="amb">negativa</klr></trd>
+    </trdgrp>
+    <trd lng="ru">&c_o;&c_t;&c_r;&c_i;&c_c;&c_a;&c_n;&c_i;&c_je;</trd>
+  </snc>
+  <snc mrk="negaci.0o.logika">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>MatStokTerm</bib><lok>p. 36</lok></fnt>
+    <dif>
+      <ref tip="super" cel="operac.logika0o">Logika operacio</ref>,
+      kiu al <ref cel="propoz.0o.aserto">propozicio</ref>
+      <frm>P</frm> asocias la propozicion, kiu estas vera, 
+      se kaj nur se <frm>P</frm> estas falsa:
+      <ekz>
+        la <tld/>on de <frm>P</frm> oni kutime signas per
+        <frm>&#172;P</frm> <klr>(legu: ne po)</klr>;
+      </ekz>
+      <ekz>
+        la <tld/>o de propozicio 
+        <ctl><frm><k>a</k>&#8712;<g>A</g></frm></ctl> estas
+        <ctl><frm><k>a</k>&#8713;<g>A</g></frm></ctl>;
+      </ekz>
+      <ekz>
+        la <tld/>o de propozicio <frm>P&#8744;Q</frm> estas
+        <frm>&#172;P&#8743;&#172;Q</frm> 
+        <klr>(legu: ne po kaj ne kuo)</klr>.
+      </ekz>
+    </dif>
+    <bld lok="../bld/t_negacio.svg.gif" lrg="150" alt="150">
+      vertabelo de <tld/>o
+    </bld>
+    <trd lng="be">
+    &c_a;&c_d;&c_m;&c_a;&c_w;&c_l;&c_je;&c_n;&c_mol;&c_n;&c_je;</trd>
+    <trd lng="de">Negation</trd>
+    <trd lng="el">&alfa_ton;&rho;&ny;&eta;&sigma;&eta;</trd>
+    <trd lng="en">negation</trd>
+    <trd lng="fr">n&eacute;gation<klr tip="ind"> (logique)</klr></trd>
+    <trd lng="hu">neg&aacute;ci&oacute;</trd>
+    <trdgrp lng="pl">
+      <trd>przeczenie</trd>,
+      <trd>negacja</trd>
+    </trdgrp> 
+    <trd lng="pt">nega&ccedil;&atilde;o</trd>
+    <trd lng="ru">
+    <klr tip="ind">
+    (&c_l;&c_o;&c_g;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_o;&c_je;)
+    </klr>&c_o;&c_t;&c_r;&c_i;&c_c;&c_a;&c_n;&c_i;&c_je;
+    </trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>negace</trd>,
+    <trd>zápor</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>negácia</trd>,
+    <trd>zápor</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: negaci.xml,v $
+Revision 1.19  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:33:21  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2010/01/18 17:31:15  revo
+Mireille Corobu: svg->gif
+
+Revision 1.16  2008/06/20 16:30:18  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.15  2006/06/08 16:31:49  revo
+Tulio Flores: +tr pt
+
+Revision 1.14  2004/02/17 17:32:11  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.13  2003/02/24 17:33:54  revo
+Marc Bavant: +bld
+
+Revision 1.12  2003/01/02 17:48:59  revo
+Marc Bavant: ~o: kor trd pl
+Revision 1.11  2002/11/30 17:36:31  revo
+Marc Bavant: +frm, +trd pl, mod "legu"
+Revision 1.10  2002/10/14 16:33:27  revo
+Jozefo Horvath: +trd hu
+Revision 1.9  2002/06/08 17:32:32  revo
+-->
+</vortaro>

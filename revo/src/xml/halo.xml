@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: halo.xml,v 1.22 2015/07/04 08:37:35 revo Exp $">
+<kap>
+  <rad>halo</rad>/o
+</kap>
+<drv mrk="halo.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="halo.0o.KOMUNE">
+    <dif>
+      Nebula heleco &ccirc;irka&ubreve;anta lumfonton:
+      <ekz>
+        la ru&gcirc;a lumo de la neonlampo brilis kun <tld/>o en silka
+        kurteno de printempa pluvo
+        <fnt><aut>Ueyama M.</aut>, <vrk>Pardonon!</vrk>, <lok>l'
+        omnibuso, 1970</lok></fnt>.
+      </ekz>
+    </dif>
+    <subsnc mrk="halo.0o.AST">
+      <uzo tip="fak">AST</uzo>
+      <dif>
+        Luma cirklo, ringo, kiu &ccirc;irka&ubreve;as ofte astrojn:
+        <ekz>
+          suna, luna <tld/>o.
+        </ekz>
+      </dif>
+      <trdgrp lng="de">
+        <trd>Hof</trd>,
+        <trd>Halo</trd>
+      </trdgrp>
+      <trd lng="nl">halo</trd>
+      <trd lng="ru">&c_g;&c_a;&c_l;&c_o;</trd>
+    </subsnc>
+    <subsnc mrk="halo.0o.FOT">
+      <uzo tip="fak">FOT</uzo>
+      <dif>
+        Luma difuzo, kiu &ccirc;irka&ubreve;as la fotografan figuron de
+        brilanta punkto ricevita sur impresebla plako.
+      </dif>
+      <trd lng="de">Lichthof</trd>
+    </subsnc>
+    <refgrp tip="vid">
+      <ref cel="nimb.0o">nimbo</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_g;&c_a;&c_l;&c_o;</trd>
+  <trd lng="ca">halo</trd>
+  <trdgrp lng="cs">
+    <trd>halo</trd>,
+    <trd>kolo</trd>
+  </trdgrp>
+  <trd lng="en">halo</trd>
+  <trd lng="es">halo</trd>
+  <trd lng="fa">&a_h;&a_A;&a_l;&a_h;</trd>
+  <trd lng="fr">halo</trd>
+  <trdgrp lng="hu">
+    <trd>halo</trd>,
+    <trd>f&eacute;nyudvar</trd>
+  </trdgrp>
+  <trd lng="it">alone</trd>
+  <trdgrp lng="pl">
+    <trd>halo</trd>,
+    <trd>aureola</trd>
+  </trdgrp>
+  <trd lng="pt">halo</trd>
+  <trdgrp lng="ru">
+    <trd>&c_g;&c_a;&c_l;&c_o;</trd>,
+    <trd>&c_o;&c_r;&c_je;&c_o;&c_l;</trd>
+  </trdgrp>
+  <trd lng="sk">halo</trd>
+</drv>
+
+<drv mrk="halo.kontraux0ilo">
+  <kap>kontra&ubreve;<tld/>ilo</kap>
+  <snc mrk="halo.kontraux0ilo.FOT">
+    <uzo tip="fak">FOT</uzo>
+    <dif>
+      &Scirc;irmilo kontra&ubreve; la <tld/>o.
+    </dif>
+  </snc>
+  <trd lng="ca">antihalo</trd>
+  <trd lng="fr">antihalo<klr tip="ind"> (subst.)</klr></trd>
+  <trd lng="hu">f&eacute;nyudvar-mentes&iacute;t&odblac;</trd>
+  <trd lng="it">filtro <ind>antialone</ind></trd>
+  <trd lng="ru">&c_p;&c_r;&c_o;&c_t;&c_i;&c_v;&c_o;&c_o;&c_r;&c_je;&c_o;&c_l;&c_mol;&c_n;&c_o;&c_je; &c_p;&c_o;&c_k;&c_r;&c_y;&c_t;&c_i;&c_je;</trd>
+</drv>
+</art>
+<!--
+$Log: halo.xml,v $
+Revision 1.22  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.21  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.20  2012/03/13 19:10:09  revo
+Marc Rausell: ++ trd ca
+
+Revision 1.19  2009/08/28 16:32:45  revo
+Antonio Codazzi: +trd it
+
+Revision 1.18  2009/06/19 05:10:08  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.17  2009/02/10 14:18:05  revo
+Sebastian Cyprych: -fusxaj linirompoj en trd
+
+Revision 1.16  2008/04/17 17:52:12  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.15  2007/04/26 16:30:59  revo
+Jeromo Vasxe: snc/subsnc + ekz
+
+Revision 1.14 2005/05/08 16:31:34 revo
+Yury Finkel: +trd ru
+
+Revision 1.13 2005/04/14 16:34:06 revo
+-->
+</vortaro>

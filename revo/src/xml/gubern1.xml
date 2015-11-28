@@ -1,0 +1,148 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: gubern1.xml,v 1.18 2015/07/04 08:37:35 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>guberni</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="gubern1.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="gubern1.0o.POL">
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      Administra <ref tip="super" cel="terito.0o.POL">teritorio</ref>
+      de regno, malpli vasta ol
+      <ref tip="malprt" cel="provin.0o.POL">provinco</ref>
+      kaj pli vasta ol
+      <ref tip="prt" cel="kanton.0o.POL">kantono</ref>:
+      <ekz>
+        en Huangling-<tld/>o de Shaanxi-provinco [...] estas la tombo de
+        Huangdi, prapatro de la &ccirc;ina nacio
+        <fnt>
+          <bib>EncCxi</bib>,
+          <lok>&ccirc;apitro &leftquot;La flava rivero&rightquot;, p. 66a</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        grava temo en la venontaj kvar jaroj estos la rajto al &rightquot;tero
+        akvo&leftquot;
+        en la <tld/>o Finnmark
+        <fnt>
+          <aut>B. Hekland</aut>,
+          <vrk>Tero kaj akvo</vrk>,
+          <bib>Monato</bib>,
+          <lok>jaro 2001a, numero 12a, p. 7a</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en a&ubreve;gusto malsani&gcirc;is bovo en la <tld/>o Tiba
+        <fnt>
+          <aut>Hori Y.</aut>,
+          <vrk>Freneza vivmaniero</vrk>,
+          <bib>Monato</bib>,
+          <lok>jaro 2002a, numero 2a, p. 14a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_g;&c_u;&c_b;&c_e;&c_r;&c_n;&c_ib;&c_ja;</trd>
+  <trd lng="ca">governaci&oacute;</trd>
+  <trd lng="cs">gubernie</trd>
+  <trdgrp lng="de">
+    <trd>Gouvernement</trd>,
+    <trd>Regierungsbezirk</trd>,
+    <trd>Verwaltungsbezirk</trd>
+  </trdgrp>
+  <trd lng="en">administrative province</trd>
+  <trdgrp lng="fr">
+    <trd>d&eacute;partement<klr> (territoire)</klr></trd>,
+    <trd>gouvernement<klr tip="ind"> (division territoriale)</klr></trd>
+  </trdgrp>
+  <trd lng="hu">tartom&aacute;ny<klr tip="ind"> (k&ouml;zigazgat&aacute;si
+  egys&eacute;g)</klr></trd>
+  <trdgrp lng="nl">
+    <trd>gouvernement</trd>,
+    <trd>provincie</trd>
+  </trdgrp>
+  <trd lng="pt">prov&iacute;ncia</trd>
+  <trd lng="ru">&c_g;&c_u;&c_b;&c_je;&c_r;&c_n;&c_i;&c_ja;</trd>
+  <trd lng="sk">gubernia</trd>
+</drv>
+
+<drv mrk="gubern1.0estro">
+  <kap><tld/>estro</kap>
+  <snc mrk="gubern1.0estro.POL">
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      Administranto de <tld/>o:
+      <ekz>
+        estis <tld/>estro, kiu &scirc;atis &scirc;ajnigi sin klera
+        <fnt>
+          <aut>-</aut>,
+          <vrk><url ref="http://www.espero.com.cn/02l/02l-2.htm">
+          Legu kaj Ridu, 2</url></vrk>,
+          <lok>espero.com.cn, 2003-04</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_g;&c_u;&c_b;&c_e;&c_r;&c_n;&c_a;&c_t;&c_a;&c_r;</trd>
+  <trd lng="ca">governador</trd>
+  <trdgrp lng="cs">
+    <trd>gubernátor</trd>,
+    <trd>guvernér</trd>,
+    <trd>místodržitel</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Gouverneur</trd>,
+    <trd>Statthalter</trd>
+  </trdgrp>
+  <trd lng="en">governor</trd>
+  <trdgrp lng="fr">
+    <trd>gouverneur</trd>,
+    <trd>pr&eacute;fet</trd>
+  </trdgrp>
+  <trd lng="hu">korm&aacute;nyz&oacute;</trd>
+  <trd lng="nl">gouverneur</trd>
+  <trd lng="pt">governador</trd>
+  <trd lng="ru">&c_g;&c_u;&c_b;&c_je;&c_r;&c_n;&c_a;&c_t;&c_o;&c_r;</trd>
+  <trdgrp lng="sk">
+    <trd>gubernátor</trd>,
+    <trd>miestodržiteľ</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: gubern1.xml,v $
+Revision 1.18  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:29:39  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.16  2012/08/19 09:10:26  revo
+Marc Rausell: + trd ca
+
+Revision 1.15  2010/06/26 05:45:34  revo
+Jeromo Vasxe: + ref
+
+Revision 1.14  2009/02/23 17:30:49  revo
+Russ Williams: +trd en
+
+Revision 1.13  2007/07/09 16:30:29  revo
+Jeromo Vasxe: + mrk
+
+Revision 1.12  2005/10/10 16:31:25  revo
+Luiz Portella: +trd pt
+
+Revision 1.11  2004/01/10 17:31:46  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.10  2002/09/19 16:32:34  revo
+Jeromo Vasxe: + ekz, + super, precizigis dif, ordigis vid
+
+Revision 1.9 2002/08/29 17:35:36 revo
+-->
+</vortaro>

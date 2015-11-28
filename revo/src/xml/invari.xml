@@ -1,0 +1,216 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: invari.xml,v 1.16 2015/07/04 08:37:36 revo Exp $">
+<kap>
+  <rad>invariant</rad>/o
+</kap>
+<drv mrk="invari.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>PIV1</bib></fnt>
+  <uzo tip="klr">(fakula &jcirc;argono)</uzo>
+  <snc>
+    <dif>
+      Propra&jcirc;o de matematika objekto,
+      kiu restas sen&scirc;an&gcirc;a, kiam oni aplikas al &gcirc;i iujn
+      <ref cel="bild.0igo.MAT">bildigojn</ref>; la sen&scirc;an&gcirc;a 
+      objekto mem:
+      <ekz>
+        <ref cel="are.0o.mezuro">areo</ref> estas <tld/>o de geometriaj
+        figuroj
+        <klr>(rilate izometrioj)</klr>;
+      </ekz>
+      <ekz>
+        la <ref cel="spur.0o.matrico">spuro</ref> de la matrico de
+        endomorfio estas <tld/>o <klr>(rilate al la &scirc;an&gcirc;o
+        de bazoj)</klr>;
+      </ekz>
+      <ekz>
+        la centro de ebena <ref cel="rotaci.0o.afina">rotacio</ref>
+        estas
+        <tld/>o de &gcirc;i <klr>(a&ubreve;: per &gcirc;i)</klr>;
+      </ekz>
+      <ekz>
+        <ref cel="korp.invarianto0o"><tld/>okorpo</ref>.
+      </ekz>
+    </dif>
+    <rim>
+      Tiu termino devus havi pli skemismajn ekvivalentojn, kiel
+      <ekz>
+        nevarianto<fnt><bib>PIV2</bib><lok>invarianto</lok></fnt>,
+      </ekz>
+      <ekz>
+        sen&scirc;an&gcirc;a&jcirc;o,
+      </ekz>
+      a&ubreve; e&ccirc;
+      <ekz>
+        sen&scirc;an&gcirc;ulo,
+      </ekz>
+      sed ial ili ne aspektas kutimaj.
+    </rim>
+  </snc>
+  <trd lng="be">&c_ib;&c_n;&c_v;&c_a;&c_r;&c_y;&c_ja;&c_n;&c_t;</trd>
+  <trd lng="ca">invariant<klr> (subst.)</klr></trd>
+  <trdgrp lng="cs">
+    <trd>invariant</trd>,
+    <trd>invarianta</trd>
+  </trdgrp>
+  <trd lng="de">Invariante</trd>
+  <trd lng="en">invariant</trd>
+  <trd lng="fr">invariant<klr tip="ind"> (subst.)</klr></trd>
+  <trd lng="hu">invari&aacute;ns</trd>
+  <trdgrp lng="pl">
+    <trd>inwariant</trd>,
+    <trd>niezmiennik</trd>
+  </trdgrp>
+  <trd lng="pt">invariante<klr tip="ind"> (subst.;
+  matem&aacute;tica)</klr></trd>
+  <trd lng="ru">&c_i;&c_n;&c_v;&c_a;&c_r;&c_i;&c_a;&c_n;&c_t;</trd>
+  <trd lng="sk">invariant</trd>
+</drv>
+
+<drv mrk="invari.0a">
+  <kap><tld/>a</kap>
+  <uzo tip="fak">MAT</uzo>
+  <snc mrk="invari.0a.gxenerale">
+    <uzo tip="klr">(fakula &jcirc;argono)</uzo>
+    <fnt><bib>MatVort</bib></fnt>
+    <dif>
+      Estanta <tld/>o:
+      <ekz>
+        figuro <tld/>a per iu transformo <klr>(egala al sia
+        bildo per &gcirc;i)</klr>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_ib;&c_n;&c_v;&c_a;&c_r;&c_y;&c_ja;&c_n;&c_t;&c_n;&c_y;</trd>
+    <trd lng="de">invariant</trd>
+    <trd lng="en">invariant</trd>
+    <trd lng="fr">invariant<klr tip="ind"> (adj.)</klr></trd>
+    <trd lng="hu">invari&aacute;ns</trd>
+    <trdgrp lng="pl">
+      <trd>inwariantny</trd>,
+      <trd>niezmienniczy</trd>
+    </trdgrp>
+    <trd lng="pt">invariante<klr tip="ind"> (adj.;
+    matem&aacute;tica)</klr></trd>
+    <trd lng="ru">&c_i;&c_n;&c_v;&c_a;&c_r;&c_i;&c_a;&c_n;&c_t;&c_n;&c_y;&c_j;</trd>
+  </snc>
+  <snc mrk="invari.0a.subgrupo">
+    <fnt><bib>EKV</bib><lok>&para;182</lok></fnt>
+    <dif>
+      <klr>(p.p. <ref cel="grup.sub0o">subgrupo</ref> 
+      <frm><g>H</g></frm> de grupo <frm><g>G</g></frm>)</klr>
+      <tld lit="I"/>a <sncref ref="invari.0a.gxenerale"/> per &ccirc;iu
+      <ref cel="auxtom2.interna0o">interna a&ubreve;tomorfio</ref>
+      de <frm><g>G</g></frm>; alidire: tia, ke 
+      <frm><k>a</k>.<k>x</k>.<k>a</k><sup>-1</sup>&#8712;<g>H</g></frm>
+      por &ccirc;iuj <frm><k>x</k>&#8712;<g>H</g></frm> kaj
+      <frm><k>a</k>&#8712;<g>G</g></frm>:
+      <ekz>
+        &ccirc;iuj subgrupoj de komuteca grupo estas <tld/>aj;
+      </ekz>
+      <ekz>
+        <frm><g>H</g></frm> estas <tld/>a subgrupo de
+        <frm><g>G</g></frm>,
+        se kaj nur se &ccirc;iu <ref cel="klas.dekstra0o">dekstra klaso</ref>
+        de <frm><g>G</g></frm> rilate al <frm><g>H</g></frm> estas anka&ubreve;
+        <ref cel="klas.maldekstra0o">maldekstra klaso</ref> kaj inverse.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="normal.0a.subgrupo">normala</ref>,
+      <ref cel="konjug.mem0ita.subgrupo">memkonjugita</ref>;
+    </refgrp>
+    <refgrp tip="vid">
+      <ref cel="simpl.0a.grupo">simpla</ref> subgrupo.
+    </refgrp>
+    <rim>
+      Krom la du cititaj sinonimoj troveblas anka&ubreve; 
+      <ctl>simetria subgrupo</ctl>, ekz-e en
+      <fnt><bib>MatStokTerm</bib><lok>p. 19</lok></fnt>, kiu termino
+      estas
+      maloportuna pro la eventuala konfuzo kun
+      <ref cel="grup.simetria0o">simetria grupo</ref>.
+    </rim>
+    <trdgrp lng="be">
+      <trd>&c_ib;&c_n;&c_v;&c_a;&c_r;&c_y;&c_ja;&c_n;&c_t;&c_n;&c_a;&c_ja; <klr tip="amb">(&c_p;&c_a;&c_d;&c_g;&c_r;&c_u;&c_p;&c_a;)</klr></trd>,
+      <trd>&c_n;&c_a;&c_r;&c_m;&c_a;&c_l;&c_mol;&c_n;&c_a;&c_ja; <klr tip="amb">(&c_p;&c_a;&c_d;&c_g;&c_r;&c_u;&c_p;&c_a;)</klr></trd>,
+      <trd>&c_s;&c_a;&c_m;&c_a;&c_s;&c_p;&c_a;&c_l;&c_u;&c_ch;&c_a;&c_n;&c_a;&c_ja; <klr tip="amb">(&c_p;&c_a;&c_d;&c_g;&c_r;&c_u;&c_p;&c_a;)</klr></trd>,
+      <trd>&c_n;&c_a;&c_r;&c_m;&c_a;&c_l;&c_mol;&c_n;&c_y; <klr tip="amb">(&c_d;&c_z;&c_je;&c_l;&c_mol;&c_n;&c_ib;&c_k;)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd>invariant<klr tip="ind"> (-e Untergruppe)</klr></trd>,
+      <trd>Normal-<klr tip="amb">(teiler)</klr></trd>,
+      <trd>selbst-konjugiert<klr tip="ind"> (-e Untergruppe)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>invariant<klr tip="ind"> (subgroup)</klr></trd>,
+      <trd>normal<klr tip="ind"> (subgroup)</klr></trd>,
+      <trd>distinguished<klr tip="ind"> (subgroup)</klr></trd>,
+      <trd>self-conjugate<klr tip="ind"> (subgroup)</klr></trd>,
+      <trd>normal<klr tip="ind"> (divisor)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd><klr tip="ind">(sous-groupe) </klr>invariant</trd>,
+      <trd><klr tip="ind">(sous-groupe) </klr>normal</trd>,
+      <trd><klr tip="ind">(sous-groupe) </klr>distingu&eacute;</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>norm&aacute;lis <klr tip="amb">(r&eacute;szcsoport)</klr></trd>,
+      <trd>invari&aacute;ns <klr tip="amb">(r&eacute;szcsoport)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd><klr tip="amb">(podgrupa) </klr>niezmiennicza</trd>,
+      <trd><klr tip="amb">(podgrupa) </klr>normalna</trd>,
+      <trd><klr tip="amb">(dzielnik) </klr>normalny</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_i;&c_n;&c_v;&c_a;&c_r;&c_i;&c_a;&c_n;&c_t;&c_n;&c_a;&c_ja; <klr tip="amb"> (&c_p;&c_o;&c_d;&c_g;&c_r;&c_u;&c_p;&c_p;&c_a;)</klr></trd>,
+      <trd>&c_n;&c_o;&c_r;&c_m;&c_a;&c_l;&c_mol;&c_n;&c_a;&c_ja; <klr tip="amb"> (&c_p;&c_o;&c_d;&c_g;&c_r;&c_u;&c_p;&c_p;&c_a;)</klr></trd>,
+      <trd>&c_s;&c_a;&c_m;&c_o;&c_s;&c_o;&c_p;&c_r;&c_ja;&c_zh;&c_jo;&c_n;&c_n;&c_a;&c_ja; <klr tip="amb"> (&c_p;&c_o;&c_d;&c_g;&c_r;&c_u;&c_p;&c_p;&c_a;)</klr></trd>,
+      <trd>&c_n;&c_o;&c_r;&c_m;&c_a;&c_l;&c_mol;&c_n;&c_y;&c_j;<klr tip="amb"> (&c_d;&c_je;&c_l;&c_i;&c_t;&c_je;&c_l;&c_mol;)</klr> </trd>
+    </trdgrp>
+  </snc>
+  <trd lng="ca">invariant<klr> (adj.)</klr></trd>
+  <trdgrp lng="cs">
+    <trd>invariantní</trd>,
+    <trd>samokonjugovaný <klr>(podgrupa)</klr></trd>
+  </trdgrp>
+  <trd lng="sk">invariantný</trd>
+</drv>
+</art>
+
+<!--
+$Log: invari.xml,v $
+Revision 1.16  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.14  2012/07/30 10:10:31  revo
+Marc Rausell: + trd ca
+
+Revision 1.13  2005/12/06 17:32:17  revo
+Luiz Portella: +trd pt
+
+Revision 1.12  2004/08/12 16:31:50  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.11  2004/02/16 20:48:39  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.10  2003/11/29 20:07:09  revo
+Zmicier Lapcionak: + trd be
+
+Revision 1.9  2003/05/18 18:01:42  revo
+Marc Bavant: ~a (subgrupo): kor trd ru
+
+Revision 1.8  2003/04/27 16:30:45  revo
+Marc Bavant: ~a: kor rim
+Revision 1.7  2003/04/21 16:34:21  revo
+Marc Bavant: ~a (subgrupo): koherigis trd kun memkonjugita/normala
+-->
+</vortaro>

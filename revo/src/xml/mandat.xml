@@ -1,0 +1,137 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: mandat.xml,v 1.17 2015/07/04 08:37:39 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>mandat</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="mandat.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="mandat.0o.JUR">
+    <uzo tip="fak">JUR</uzo>
+    <dif>
+      Rajtiga komisio
+      donita al iu por reprezenti la rajtiganton kaj agi
+      en lia nomo:
+      <ekz>
+        <tld/>o de deputito;
+      </ekz>
+      <ekz>
+        kolonia <tld/>o kontrolata de la Ligo de Nacioj.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_m;&c_a;&c_n;&c_d;&c_a;&c_t;</trd>
+    <trd lng="ca">mandat</trd>
+    <trd lng="en">mandate</trd>
+    <trd lng="es">mandato</trd>
+    <trdgrp lng="hu">
+      <trd>megb&iacute;z&aacute;s</trd>,
+      <trd>felhatalmaz&aacute;s</trd>,
+      <trd>mand&aacute;tum</trd>
+    </trdgrp>
+    <trd lng="nl">mandaat</trd>
+    <trdgrp lng="ru">
+      <trd>&c_m;&c_a;&c_n;&c_d;&c_a;&c_t;</trd>,
+      <trd>&c_p;&c_o;&c_r;&c_u;&c_ch;&c_je;&c_n;&c_i;&c_je;</trd>,
+      <trd>&c_p;&c_o;&c_l;&c_n;&c_o;&c_m;&c_o;&c_ch;&c_i;&c_je;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="mandat.0o.TIP">
+    <uzo tip="fak">TIP</uzo>
+    <dif>
+      Dokumento, per kiu oni donas tian komision.
+    </dif>
+    <trd lng="be">&c_m;&c_a;&c_n;&c_d;&c_a;&c_t;</trd>
+    <trdgrp lng="ca">
+      <trd>ordre</trd>,
+      <trd>mandat</trd>
+    </trdgrp>
+    <trd lng="de">Mandat</trd>
+    <trd lng="en">mandate</trd>
+    <trdgrp lng="es">
+      <trd>orden</trd>,
+      <trd>mandato</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>megb&iacute;z&oacute;lev&eacute;l</trd>,
+      <trd>mand&aacute;tum</trd>
+    </trdgrp>
+    <trd lng="nl">mandaat</trd>
+    <trd lng="ru">&c_m;&c_a;&c_n;&c_d;&c_a;&c_t;</trd>
+  </snc>
+  <snc mrk="mandat.0o.EKON">
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      Dokumento per kiu oni ordonas pagi difinitan sumon al difinita
+      persono:
+      <ekz>
+        <ind>po&scirc;t<tld/>o</ind>.
+        <trd lng="be">&c_p;&c_a;&c_sh;&c_t;&c_o;&c_v;&c_y; &c_p;&c_je;&c_r;&c_a;&c_v;&c_o;&c_d;</trd>
+        <trd lng="ca">gir postal</trd>
+        <trd lng="es">giro postal</trd>
+        <trd lng="hu">postautalv&aacute;ny</trd>
+        <trd lng="ru">&c_p;&c_o;&c_ch;&c_t;&c_o;&c_v;&c_y;&c_j; &c_p;&c_je;&c_r;&c_je;&c_v;&c_o;&c_d;</trd>
+      </ekz>
+    </dif>
+    <trd lng="be">&c_g;&c_r;&c_a;&c_sh;&c_o;&c_v;&c_y; &c_p;&c_je;&c_r;&c_a;&c_v;&c_o;&c_d;</trd>
+    <trdgrp lng="ca">
+      <trd>xec</trd>,   
+      <trd>ordre de pagament</trd>,
+      <trd>transfer&egrave;ncia</trd>,
+    </trdgrp>
+    <trd lng="en">money order</trd>
+    <trdgrp lng="es">
+      <trd>cheque</trd>,   
+      <trd>orden de pago</trd>,
+      <trd>transferencia</trd>,
+    </trdgrp>
+    <trd lng="nl">wissel</trd>
+    <trd lng="pt">mandato</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>mandát</trd>,
+    <trd>plná moc</trd>,
+    <trd>pověření</trd>
+  </trdgrp>
+  <trd lng="fr">mandat</trd>
+  <trdgrp lng="sk">
+    <trd>mandát</trd>,
+    <trd>plná moc</trd>,
+    <trd>poverenie</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: mandat.xml,v $
+Revision 1.17  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:33:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.15  2015/04/07 10:10:14  revo
+Guillermo Molleda Jimena: trd es
+
+Revision 1.14  2012/06/25 16:10:08  revo
+Jeromo Vasxe: + 3 fak + trd fr
+
+Revision 1.13  2011/12/03 16:10:13  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.12  2006/07/29 16:32:39  revo
+Tulio Flores: +tr pt
+
+Revision 1.11  2006/01/12 21:53:31  revo
+Raul Salinas Monteagudo: +trd ca,es
+
+Revision 1.10  2003/05/14 16:30:56  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.9  2002/07/29 18:14:14  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.8  2001/12/09 19:24:49  revo
+-->
+</vortaro>

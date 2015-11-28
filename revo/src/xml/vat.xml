@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: vat.xml,v 1.17 2012/08/27 06:10:17 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>vat</rad>/o
+</kap>
+<drv mrk="vat.0o">
+  <kap>
+    <ofc>*</ofc><tld/>o
+  </kap>
+  <snc>
+    <dif>
+      <ref tip="vid" cel="koton.0o">Kotono</ref> kombita kaj premita
+      la&ubreve; molaj tavoloj.
+    </dif>
+  </snc>
+  <trd lng="be">&c_v;&c_a;&c_t;&c_a;</trd>
+  <trd lng="ca">buata</trd>
+  <trd lng="de">Watte</trd>
+  <trdgrp lng="en">
+    <trd>cotton <ind>wool</ind></trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>ouate</trd>
+  </trdgrp>
+  <trd lng="hu">vatta</trd>
+  <trd lng="nl">watte</trd>
+  <trd lng="pl">wata</trd>
+  <trdgrp lng="pt">
+   <trd>algod&atilde;o em rama</trd>
+  </trdgrp>
+  <trd lng="ru">&c_v;&c_a;&c_t;&c_a;</trd>
+</drv>
+
+<drv mrk="vat.0i">
+  <kap>
+    <tld/>i
+  </kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      Garni per <tld/>o:
+      <ekz>
+        <tld/>i veston, banda&gcirc;on.
+      </ekz>
+    </dif>
+  <trd lng="ca">embuatar</trd>
+  <trdgrp lng="en">
+    <trd>pad</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>vatt&aacute;val kit&ouml;m</trd>,
+    <trd>kivatt&aacute;z</trd>
+  </trdgrp>
+  <trd lng="pl">watowa&cacute;</trd>
+  </snc>
+  <snc mrk="vat.0i.FIG">
+  <uzo tip="stl">FIG</uzo>
+    <dif>
+      Malprecizigi la formon de io:
+      <ekz>
+        la nebulo iom <tld/>as la konturojn.
+      </ekz>
+    </dif>
+    <trdgrp lng="ca">
+      <trd>difuminar</trd>,
+      <trd>desdibuixar</trd>
+    </trdgrp>
+  </snc>
+  <refgrp tip="vid">
+    <ref cel="stomp.0i">stompi</ref>
+  </refgrp>
+  <trd lng="be">&c_p;&c_a;&c_d;&c_b;&c_ib;&c_v;&c_a;&c_c;&c_mol;
+    <ind>&c_v;&c_a;&c_t;&c_a;&c_j;</ind></trd>
+  <trd lng="de">wattieren</trd>
+  <trdgrp lng="fr">
+    <trd>ouater</trd>
+  </trdgrp>
+  <trd lng="nl">watteren</trd>
+  <trdgrp lng="ru">
+    <trd>&c_n;&c_a;&c_b;&c_i;&c_v;&c_a;&c_t;&c_mol; <ind>&c_v;&c_a;&c_t;&c_o;&c_j;</ind></trd>,
+    <trd>&c_p;&c_o;&c_d;&c_b;&c_i;&c_v;&c_a;&c_t;&c_mol; <ind>&c_v;&c_a;&c_t;&c_o;&c_j;</ind></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: vat.xml,v $
+Revision 1.17  2012/08/27 06:10:17  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.16  2012/08/12 09:10:11  revo
+Marc Rausell: + trd ca
+
+Revision 1.15  2009/01/22 17:30:41  revo
+Russ Williams: +ref kotono
+
+Revision 1.14  2006/02/01 17:32:15  revo
+Tulio Flores: +trd pt
+
+Revision 1.13  2005/03/15 19:56:33  revo
+Yury Finkel: +trd ru
+
+Revision 1.12  2005/01/27 17:31:29  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.11  2002/10/22 16:33:07  revo
+Christopher Zervic: + ang
+
+Revision 1.10  2002/05/16 16:33:54  revo
+-->
+</vortaro>

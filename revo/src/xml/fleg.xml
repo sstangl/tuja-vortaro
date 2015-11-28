@@ -1,0 +1,178 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: fleg.xml,v 1.20 2015/07/04 08:37:34 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>fleg</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="fleg.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="fleg.0i.KOMUNE">
+    <dif>
+      Prizorgi malsanulon, kaj igi lin observi la kuracadon.
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="vart.0i.KOMUNE">varti</ref>
+    </refgrp>
+    <trd lng="de">pflegen</trd>
+    <trd lng="en">nurse</trd>
+    <trd lng="nl">verplegen</trd>
+    <trd lng="ru">&c_u;&c_h;&c_a;&c_zh;&c_i;&c_v;&c_a;&c_t;&c_mol; <klr>(&c_z;&c_a; &c_b;&c_o;&c_l;&c_mol;&c_n;&c_y;&c_m;)</klr></trd>
+  </snc>
+  <snc mrk="fleg.0i.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Prizorgi ion:
+      <ekz>
+        <tld/>i &gcirc;ardenon, vojon, sian popularecon, siajn interesojn;
+      </ekz>
+      <ekz>
+        <tld/>i la rilatojn inter amba&ubreve; landoj;
+      </ekz>
+      <ekz>
+        tiu teatro <tld/>as la klasikan arton.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>pflegen</trd>,
+      <trd>warten</trd>,
+      <trd>in <ind>Schuss</ind> halten</trd>
+    </trdgrp>
+    <trd lng="nl">onderhouden</trd>
+    <trdgrp lng="ru">
+      <trd>&c_o;&c_b;&c_s;&c_l;&c_u;&c_zh;&c_i;&c_v;&c_a;&c_t;&c_mol;</trd>,
+      <trd>&c_z;&c_a;&c_b;&c_o;&c_t;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>attend to</trd>,
+      <trd>see to</trd>,
+      <trd>take care of</trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_d;&c_a;&c_g;&c_l;&c_ja;&c_d;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_a;&c_p;&c_je;&c_k;&c_a;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>,
+    <trd>&c_k;&c_l;&c_a;&c_p;&c_a;&c_c;&c_ib;&c_c;&c_c;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>o&scaron;et&rcaron;ovat</trd>,
+    <trd>opatrovat</trd>,
+    <trd>ošetřovat</trd>,
+    <trd>pečovat</trd>,
+    <trd>pěstit</trd>,
+    <trd>pěstovat</trd>,
+    <trd>rozvíjet</trd>
+  </trdgrp>
+  <trd lng="es">cuidar</trd>
+  <trdgrp lng="fr">
+    <trd>entretenir<klr tip="ind"> (maintenir en &eacute;tat)</klr></trd>,
+    <trd>prendre <ind>soin</ind> (de)</trd>,
+    <trd>soigner<klr tip="ind"> (donner des soins,
+    entretenir)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>&aacute;pol</trd>,
+    <trd>gondoz</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>cuidar</trd>,
+    <trd>zelar</trd>,
+    <trd>tratar</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>opatrovať</trd>,
+    <trd>ošetrovať</trd>,
+    <trd>pestovať</trd>,
+    <trd>rozvíjať</trd>,
+    <trd>starať sa</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="fleg.0isto">
+  <kap><tld/>isto</kap>
+  <snc mrk="fleg.0isto.MED">
+  <uzo tip="fak">MED</uzo>
+    <dif>
+      Homo, kies metio estas <tld/>i malsanulojn:
+      <ekz>
+        certe estas <tld/>istino en &ccirc;i tiu universitato, &ccirc;u ne
+        <fnt><bib>Gerda</bib>, <lok>&ccirc;apitro 7a</lok></fnt>?
+      </ekz>
+    </dif>
+  </snc>
+  <adm>
+    Problemo de duseksaj kapvortoj. Vd adm sub fiancx.
+    Korekti trd ru/de/nl/es. <aut>MB</aut>
+  </adm>
+  <trdgrp lng="be">
+    <trd>&c_m;&c_e;&c_d;&c_b;&c_r;&c_a;&c_t;</trd>,
+    <trd>&c_m;&c_e;&c_d;&c_s;&c_ja;&c_s;&c_t;&c_r;&c_a;</trd>,
+    <trd>&c_n;&c_ja;&c_n;&c_je;&c_ch;&c_k;&c_a;</trd>,
+    <trd>&c_d;&c_a;&c_g;&c_l;&c_ja;&c_d;&c_ch;&c_y;&c_k;</trd>,
+    <trd>&c_d;&c_a;&c_g;&c_l;&c_ja;&c_d;&c_ch;&c_y;&c_c;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Krankenschwester</trd>,
+    <trd>Krankenpflegerin</trd>
+  </trdgrp>
+  <trd lng="en">nurse</trd>
+  <trdgrp lng="es">
+    <trd>enfermero</trd>,
+    <trd>enfermera</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>infirmier</trd>,
+    <trd>infirmi&egrave;re</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>&aacute;pol&oacute;</trd>,
+    <trd>&aacute;pol&oacute;n&odblac;</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>verpleger</trd>,
+    <trd>verpleegster</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_m;&c_je;&c_d;&c_s;&c_je;&c_s;&c_t;&c_r;&c_a;</trd>,
+    <trd>&c_s;&c_i;&c_d;&c_je;&c_l;&c_k;&c_a;</trd>,
+    <trd>&c_n;&c_ja;&c_n;&c_ja;</trd>
+  </trdgrp>
+  <trd lng="sk">ošetrovateľ</trd>
+  <trd lng="cs">ošetřovatel</trd>
+</drv>
+</art>
+<!--
+$Log: fleg.xml,v $
+Revision 1.20  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2015/01/10 19:10:50  revo
+Jeromo Vasxe: + mrk
+
+Revision 1.17  2007/06/01 16:31:52  revo
+Tulio Flores: +tr pt
+
+Revision 1.16  2005/12/07 17:31:18  revo
+Jeromo Vasxe: + 1 ekz
+
+Revision 1.15 2004/07/26 17:24:22 revo
+Dmitri Gabinski: +trd be
+
+Revision 1.14 2003/09/30 16:30:49 revo
+Jozefo Horvath: +trd hu
+
+Revision 1.13 2002/10/12 16:30:45 revo
+Paul Peeraerts: +trd nl
+
+Revision 1.12 2002/06/28 18:03:30 revo
+Alejandro Mejia Greene: ald 2 his trd
+
+Revision 1.11 2001/08/31 18:15:51 revo
+-->
+</vortaro>

@@ -1,0 +1,139 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: plankton.xml,v 1.8 2015/07/27 14:10:16 revo Exp $">
+<kap>
+  <rad>plankton</rad>/o <fnt><bib>SPV</bib></fnt>
+</kap>
+<drv mrk="plankton.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="plankton.0o.BIO">
+    <uzo tip="fak">BIO</uzo>
+    <dif>
+      Tre malgrandaj vegeta&jcirc;oj kaj bestoj, libere flosantaj en maro,
+      nutra&jcirc;o de cetacoj kaj pli grandaj fi&scirc;oj:
+      <ekz>
+        kankretoj na&gcirc;as kiel granda reto, kaj per haretkovritaj kruroj 
+        elkaptas &ccirc;ian pli-malpli grandan <tld/>on
+        <fnt>
+          <aut>P. Volkov, trad. Hamstro</aut>,
+          <vrk><url
+          ref="http://e-novosti.info/forumo/viewtopic.php?t=1487">Voja&gcirc;o
+          en Neocenon</url></vrk>,
+          <lok>2005-08</lok>
+        </fnt>;
+      </ekz>
+    <ekz>
+      tie vivas 167 specioj da fi&scirc;oj, 231 specoj da <tld/>oj
+      <fnt>
+      <aut>&Ccirc;ina Interreta Informa Centro</aut>,
+      <vrk><url
+      ref="http://www.china.org.cn/world/shi-lvyou/chinaj_urboj/12.htm">Mar&ccirc;o
+      &ccirc;e &Scirc;anhajo</url></vrk>,
+      <lok>[vidita je 2006-06-29]</lok>
+      </fnt>.
+    </ekz>
+    </dif>
+  </snc>
+  <rim mrk="plankton.0o.RIM_NOMBR">
+    La vorto aperas ununombre, kiel <em>sablo</em>, 
+    <em>akvo</em> a&ubreve; alia nenombrebla&jcirc;o, 
+    anka&ubreve; plurnombre pro la pluraj specoj de vivuloj,
+    kiujn &gcirc;i entenas.
+  </rim>
+  <trd lng="bg">&c_p;&c_l;&c_a;&c_n;&c_k;&c_t;&c_o;&c_n;</trd>
+  <trdgrp lng="cs">
+    <trd>plankton</trd>,
+    <trd>vodn&iacute; organismy</trd>
+  </trdgrp>
+  <trd lng="en">plankton</trd>
+  <trd lng="fa">&f_p;&a_l;&a_A;&a_n;&f_k;&a_t;&a_w;&a_n;</trd>
+  <trd lng="fr">plancton</trd>
+  <trd lng="nl">plankton</trd>
+  <trd lng="pl">plankton</trd>
+  <trd lng="sk">plankt&oacute;n</trd>
+</drv>
+
+<drv mrk="plankton.besta0o">
+  <kap>besta <tld/>o,
+  <var><kap>animala <tld/>o</kap></var></kap>
+  <snc mrk="plankton.besta0o.BIO">
+    <uzo tip="fak">BIO</uzo>
+    <dif>
+      Parto de la <tld/>o konsistanta el bestetoj &scirc;vebe vivantaj
+      en akvo;
+      <ref tip="sin" cel="zooplankton.0o.BIO">zooplanktono</ref>:
+      <ekz>
+       tie povas <klr>polusaj gadoj</klr> trovi ri&ccirc;an oferton da besta 
+       <tld/>o
+        <fnt>
+          <bib>Viki</bib>,
+          <lok><url ref="https://eo.wikipedia.org/wiki/Polusa_gado">
+          Polusa gado</url>, 2013-04-05</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="bg">&c_z;&c_o;&c_o;&c_p;&c_l;&c_a;&c_n;&c_k;&c_t;&c_o;&c_n;</trd>
+  <trd lng="en">zooplankton</trd>
+  <trd lng="fr">zooplancton</trd>
+  <trd lng="nl">zo&ouml;plankton</trd>
+</drv>
+
+<drv mrk="plankton.vegetajxa0o">
+  <kap>vegeta&jcirc;a <tld/>o<fnt><aut>T. Flores</aut>, <vrk><url 
+  ref="http://vortaro.esperanto.org.br/">Dicion&aacute;rio 
+  Portugu&ecirc;s-Esperanto / Esperanto-Portugu&ecirc;s</url></vrk>,
+  <lok>[2015]</lok></fnt>,
+  <var><kap>vegetala <tld/>o</kap></var></kap>
+  <snc mrk="plankton.vegetajxa0o.BIO">
+    <uzo tip="fak">BIO</uzo>
+    <dif>
+      Parto de la <tld/>o konsistanta el multspecaj vegeta&jcirc;etoj
+      &scirc;vebe vivantaj en la supra parto de akvejoj;
+      <ref tip="sin" cel="fitoplankton.0o.BIO">fitoplanktono</ref>:
+      <ekz>
+        en la surfacaj akvoj, kien alvenas lumo, abundas la vegetala 
+        <tld/>o, kiu konsumas salojn kiel la fosfatojn kaj nitratojn
+        <fnt>
+          <bib>Viki</bib>,
+          <lok><url ref="https://eo.wikipedia.org/wiki/Sargasa_Maro">
+          Sargasa Maro</url>, 2015-03-17</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="bg">&c_f;&c_i;&c_t;&c_o;&c_p;&c_l;&c_a;&c_n;&c_k;&c_t;&c_o;&c_n;</trd>
+  <trd lng="en">phytoplankton</trd>
+  <trd lng="fr">phytoplancton</trd>
+  <trd lng="nl">fytoplankton</trd>
+</drv>
+</art>
+
+<!--
+$Log: plankton.xml,v $
+Revision 1.8  2015/07/27 14:10:16  revo
+Joop Eggen: +trd bg nl
+
+Revision 1.7  2015/07/21 22:10:18  revo
+Jeromo Vasxe: + besta/vegetajxa ~o
+
+Revision 1.6  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.5  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.4  2013/04/10 10:10:12  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.3  2009/11/08 17:30:52  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.2  2009/10/25 17:31:05  revo
+Paul Peeraerts: +nl
+
+Revision 1.1  2006/06/30 16:31:14  revo
+-->
+</vortaro>

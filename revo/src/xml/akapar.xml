@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: akapar.xml,v 1.19 2015/07/04 08:37:29 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>akapar</rad>/i
+</kap>
+<drv mrk="akapar.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      A&ccirc;eti kiel eble plej multajn varojn, kaj poste, per reteno,
+      maloftigi ilin sur la merkato, por vendi ilin pli kare.
+    </dif>
+    <trd lng="be">&c_s;&c_k;&c_u;&c_p;&c_a;&c_c;&c_mol; <klr tip="amb">(&c_d;&c_l;&c_ja;
+    &c_s;&c_p;&c_e;&c_k;&c_u;&c_l;&c_ja;&c_c;&c_y;&c_ib;)</klr></trd>
+    <trdgrp lng="de">
+      <trd>aufkaufen</trd>,
+      <trd>k&uuml;nstlich <ind>verknappen</ind></trd>,
+      <trd><klr>den </klr>Markt <ind>beherrschen</ind> [durch
+      Verknappung]</trd>,
+    </trdgrp>
+    <trd lng="en">corner the market</trd>
+    <trd lng="nl">opkopen</trd>
+    <trd lng="pt">fazer truste</trd>
+    <trd lng="ru">&c_s;&c_k;&c_u;&c_p;&c_a;&c_t;&c_mol; <klr>(&c_v;&c_je;&c_s;&c_mol; &c_t;&c_o;&c_v;&c_a;&c_r; &c_n;&c_a;
+    &c_r;&c_y;&c_n;&c_k;&c_je;)</klr></trd>
+    <trd lng="sk">vykupova&tcaron; <klr>(&scaron;pekulat&iacute;vne)</klr></trd>
+    <trd lng="sv">uppk&ouml;pa <klr>(i spekulationssyfte)</klr></trd>
+  </snc>
+  <snc>
+    <dif>
+      Proprigi al si, ka&ubreve;zante al aliaj malutilon:
+      <ekz>
+        la romana imperiestro iom post iom <tld/>is &ccirc;iujn povojn.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="monopo.0o">monopolo</ref>,
+      <ref cel="trust.0o">trusto</ref>,
+      <ref cel="kartel.0o">kartelo</ref>.
+    </refgrp>
+    <trd lng="be">&c_u;&c_z;&c_u;&c_r;&c_p;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+    <trdgrp lng="de">
+      <trd><klr>an sich </klr>rei&szlig;en</trd>,
+      <trd>usurpieren</trd>
+    </trdgrp>
+    <trd lng="en">usurp</trd>
+    <trdgrp lng="ru">
+      <trd>&c_u;&c_z;&c_u;&c_r;&c_p;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>,
+      <trd>&c_u;&c_r;&c_v;&c_a;&c_t;&c_mol; <klr>(&c_r;&c_a;&c_z;&c_g;.)</klr></trd>
+    </trdgrp>
+    <trd lng="sk">uchv&aacute;ti&tcaron; <klr>(prisvoji&tcaron; si</klr></trd>
+    <trd lng="sv">l&auml;gga <ind>beslag</ind> p&aring;</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>keťasit</trd>,
+    <trd>skupovat zboží</trd>,
+    <trd>šmelinařit</trd>,
+    <trd>šmelit</trd>
+  </trdgrp>
+  <trd lng="es">acaparar</trd>
+  <trd lng="fr">accaparer</trd>
+  <trd lng="nl">z. <ind>toe-eigenen</ind></trd>
+  <trd lng="pt">a&ccedil;ambarcar</trd>
+  <trdgrp lng="sk">
+    <trd>skupovať tovar</trd>,
+    <trd>úžerníčiť</trd>,
+    <trd>šmeliť</trd>
+  </trdgrp>
+  <trdgrp lng="tr">
+    <trd>tekeline almak</trd>,
+    <trd>istif&ccedil;ilik etmek</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: akapar.xml,v $
+Revision 1.19  2015/07/04 08:37:29  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2009/08/28 16:31:06  revo
+Emmanuel Debanne: +trd tr
+
+Revision 1.16  2004/03/21 17:30:52  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.15  2003/05/17 16:32:47  revo
+Viliam Bur: +trd sk
+
+Revision 1.14  2003/02/07 17:30:49  revo
+Ulrich Fellmann: alilokigo de uzo fak
+
+Revision 1.13  2003/02/06 18:16:50  revo
+Ulrich Fellmann: + 5 trd = de  +  fak uzo EKON
+
+Revision 1.12  2002/05/08 16:33:38  revo
+Alejandro Mejia Greene: ald his trd
+
+Revision 1.11  2002/02/15 17:34:49  revo
+Yury Finkel: +trd ru
+
+Revision 1.10 2001/07/03 18:14:00 revo
+-->
+</vortaro>

@@ -1,0 +1,116 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: ekskor.xml,v 1.16 2015/07/04 08:37:33 revo Exp $">
+<kap>
+  <rad>ekskoriaci</rad>/o <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="ekskor.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="ekskor.0o.MED">
+    <uzo tip="fak">MED</uzo>
+    <ref tip="sin" cel="vund.skrap0o.MED">skrapvundo</ref>
+  </snc>
+  <trd lng="be">&c_d;&c_r;&c_a;&c_p;&c_ib;&c_n;&c_a;</trd>
+  <trdgrp lng="bg">
+    <trd>&c_o;&c_b;&c_je;&c_l;&c_v;&c_a;&c_n;&c_je;</trd>,
+    <trd>&c_je;&c_k;&c_s;&c_k;&c_o;&c_r;&c_i;&c_a;&c_c;&c_i;&c_ja;</trd>
+  </trdgrp>
+  <trd lng="ca">excoriaci&oacute;</trd>
+  <trdgrp lng="cs">
+    <trd>oděrka</trd>,
+    <trd>odřenina</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Hautabsch&uuml;rfung</trd>
+  </trdgrp>
+  <trd lng="en">excoriation</trd>
+  <trd lng="fr">excoriation</trd>
+  <trdgrp lng="hu">
+    <trd>b&odblac;rhorzsol&aacute;s</trd>,
+    <trd>b&odblac;rkimar&oacute;d&aacute;s</trd>
+  </trdgrp>
+  <trd lng="it">escoriazione</trd>
+  <trdgrp lng="pl">
+    <trd>otarcie<klr> nask&oacute;rka</klr></trd>,
+    <trd>zadrapanie</trd>
+  </trdgrp>
+  <trd lng="pt">escoria&ccedil;&atilde;o</trd>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_s;&c_a;&c_d;&c_i;&c_n;&c_a;</trd>,
+    <trd>&c_c;&c_a;&c_r;&c_a;&c_p;&c_i;&c_n;&c_a;</trd>
+  </trdgrp>
+  <trd lng="sk">škrabnutie na koži</trd>
+</drv>
+
+<drv mrk="ekskor.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="ekskor.0i.MED">
+    <ref tip="sin" cel="vund.skrap0i.MED">skrapvundi</ref>
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_d;&c_r;&c_a;&c_p;&c_a;&c_c;&c_mol;
+  <klr>(&c_s;&c_k;&c_u;&c_r;&c_u;)</klr></trd>
+  <trd lng="ca">excoriar</trd>
+  <trdgrp lng="cs">
+    <trd>odřít</trd>,
+    <trd>pohmoždit</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>die Haut <ind>absch&uuml;rfen</ind></trd>,
+    <trd>wund reiben</trd>
+  </trdgrp>
+  <trd lng="fr">excorier</trd>
+  <trd lng="hu">lehorzsolja a b&odblac;rt</trd>
+  <trd lng="it">escoriare</trd>
+  <trdgrp lng="pl">
+    <trd>obetrze&cacute;<klr> nask&oacute;rek</klr></trd>,
+    <trd>zadrapa&cacute;</trd>,
+    <trd>podrapa&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_n;&c_a;&c_n;&c_je;&c_s;&c_t;&c_i;
+    &c_s;&c_s;&c_a;&c_d;&c_i;&c_n;&c_u;</trd>,
+    <trd>&c_p;&c_o;&c_c;&c_a;&c_r;&c_a;&c_p;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="sk">poraniť kožu škrabnutím</trd>
+</drv>
+<adm>
+  PIV forigis la radikon kaj anstata&ubreve;igis &gcirc;in per
+  "ekskori" kun la respondaj deriva&jcirc;oj: ~a&jcirc;o, ~i.
+  <aut>MB</aut>
+</adm>
+</art>
+<!--
+$Log: ekskor.xml,v $
+Revision 1.16  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.14  2013/08/15 07:10:10  revo
+Joop Eggen: +trd bg
+
+Revision 1.13  2013/04/18 10:10:08  revo
+Jeromo Vasxe: ref dif
+
+Revision 1.12  2012/09/05 08:10:29  revo
+Marc Rausell: + trd ca
+
+Revision 1.11  2010/12/02 17:30:43  revo
+Antonio Codazzi: +trd it
+
+Revision 1.10  2010/01/13 17:30:36  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.9  2007/06/23 16:30:46  revo
+Tulio Flores: +tr pt
+
+Revision 1.8  2003/12/16 17:31:41  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.7  2003/08/08 16:30:51  revo
+-->
+</vortaro>

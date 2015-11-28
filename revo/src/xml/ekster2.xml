@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: ekster2.xml,v 1.10 2015/07/04 08:37:33 revo Exp $">
+<kap>
+<rad>eksterpol</rad>/i
+</kap>
+<drv mrk="ekster2.0i">
+  <kap><tld/>i</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>MatTerm</bib><lok>p. 20</lok></fnt>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      <klr>(<ref cel="funkci.0o.MAT">funkcion</ref>)</klr>
+      Aproksimi &gcirc;in ekster la intervalo entenanta la jam konatajn 
+      valorojn per funkcio konstruita surbaze de tiuj konataj valoroj.
+    </dif>
+    <ref tip="vid" cel="interp1.0i">interpoli;</ref>
+    <ref tip="sin" cel="ekstra3.0i">ekstrapoli.</ref>
+    <rim>
+      Tiu &ccirc;i termino aperas en &ccirc;iuj niaj fontoj (konantaj la
+      nocion) malgra&ubreve; la kripligo, kiun &gcirc;i prezentas rilate
+      la internacian radikon <ctl>ekstrapol</ctl>, tamen aperanta 
+      &ccirc;i-sence en <fnt><bib>PIV1</bib></fnt>. La paralelo kun
+      <ctl>interpoli</ctl> evidentas kaj instigis kelkajn malderivi
+      verbon
+      <ctl>poli</ctl>, kiun eblus difini kiel <ctl>aproksimi nekonatan
+      funkcion 
+      per funkcio konstruita surbaze de iuj konataj valoroj de la
+      aproksimota
+      funkcio</ctl>. Ni konsideras, ke &ccirc;i-lasta vorto estas senutila,
+      sed, pli grave, ke la preciza senco de <ctl>eksterpoli</ctl> kaj
+      <ctl>interpoli</ctl> ne evidente derivi&gcirc;as de la senco de la 
+      vortpartoj. Do tiuj du terminoj prefere restu parencaj nur
+      etimologie.
+    </rim>
+  </snc>
+  <trd lng="be">&c_e;&c_k;&c_s;&c_t;&c_r;&c_a;&c_p;&c_a;&c_l;&c_ja;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="cs">extrapolovat</trd>
+  <trd lng="de">extrapolieren</trd>
+  <trd lng="en">extrapolate</trd>
+  <trd lng="es">extrapolar</trd>
+  <trd lng="fa">&a_b;&a_r;&a_w;&a_n;&zwnj;&f_y;&a_A;&a_b;&f_y; &f_k;&a_r;&a_d;&a_n;</trd>
+  <trd lng="fr">extrapoler</trd>
+  <trd lng="hu">extrapol&aacute;l</trd>
+  <trd lng="nl">extrapoleren</trd>
+  <trd lng="pl">ekstrapolowa&cacute;</trd>
+  <trd lng="pt">extrapolar</trd>
+  <trd lng="ru">&c_e;&c_k;&c_s;&c_t;&c_r;&c_a;&c_p;&c_o;&c_l;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="sk">extrapolovať</trd>
+</drv>
+</art>
+
+<!--
+$Log: ekster2.xml,v $
+Revision 1.10  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.9  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.8  2011/09/24 17:10:09  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.7  2007/06/23 16:31:16  revo
+Tulio Flores: +tr pt
+
+Revision 1.6  2005/02/18 17:35:51  revo
+Paul Peeraerts: ald trd nl
+
+Revision 1.5  2003/12/16 17:32:11  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.4  2003/09/08 16:31:51  revo
+Marc Bavant: kor duobligitan punkton en rim
+
+Revision 1.3  2003/08/17 17:29:19  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.2  2003/03/23 17:32:43  revo
+Marc Bavant: +trd pl
+
+Revision 1.1  2002/06/16 17:33:08  revo
+-->
+</vortaro>

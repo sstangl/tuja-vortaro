@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: roma.xml,v 1.6 2015/07/04 08:37:42 revo Exp $">
+<kap>
+  <rad>roma</rad>/o <fnt><bib>PIV2</bib></fnt>
+</kap>
+<drv mrk="roma.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="roma.0o.ETN">
+    <dif>
+      Ano de la gento plimulta inter <ref tip="malprt"
+      cel="cigan.0o">ciganoj</ref>:
+      <ekz>
+        frisoj, soraboj, ciganoj (plejparte <tld/>oj)
+        <fnt>
+        <aut>S. Hartwig</aut>,
+        <vrk>Re: Demando pri la Biblio</vrk>,
+        <lok>soc.culture.esperanto, 2004-04-26</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <rim mrk="roma.0o.RIM_UZO">
+    Iuj a&ubreve;toroj nomas &ccirc;iujn ciganojn indiferente
+<ctl>romaoj</ctl>,
+    supozante ke la nomo <ctl>cigano</ctl> ial sonas mal&gcirc;entile.
+    <aut>&jcirc;v</aut>
+  </rim>
+  <trd lng="bg">&c_r;&c_o;&c_m;</trd>
+  <trd lng="de">Rom<klr tip="amb"> (der Roma)</klr></trd>
+  <trdgrp lng="fr">
+    <trd>rom<klr> (tzigane)</klr></trd>,
+    <trd>romanichel</trd>
+  </trdgrp>
+  <trd lng="nl">Rom</trd>
+  <trdgrp lng="pl">
+    <trd>rom</trd>,
+    <trd>cygan</trd>
+  </trdgrp>
+  <trd lng="pt">cigano</trd>
+  <trdgrp lng="sk">
+    <trd>Cigáň</trd>,
+    <trd>Róm</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>Cikán</trd>,
+    <trd>Róm</trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log: roma.xml,v $
+Revision 1.6  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.5  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.4  2014/01/15 21:10:11  revo
+Joop Eggen: +trd bg, de, nl
+
+Revision 1.3  2007/11/14 17:30:16  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.2  2006/02/24 17:32:16  revo
+Tulio Flores: +trd pt
+
+Revision 1.1  2005/04/04 16:34:38  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

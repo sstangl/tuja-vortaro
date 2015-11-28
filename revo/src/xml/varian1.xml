@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: varian1.xml,v 1.10 2015/07/04 08:37:45 revo Exp $">
+<kap>
+  <rad>varianc</rad>/o
+</kap>
+<drv mrk="varian1.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>PIV1</bib></fnt>
+  <snc>
+    <dif>
+      <klr>(de <ref cel="variab.hazarda0o">hazarda variablo</ref> 
+      <frm>X</frm>)</klr>
+      La <ref cel="ekspek.0o">ekspekto</ref> de
+      <frm>(X-E(X))<sup>2</sup></frm>; 
+      simb. <frm>Var(X)</frm> a&ubreve; <frm>&sigma;<sup>2</sup>(X)</frm>:
+      <ekz>
+        la <tld/>o estas la <ref cel="momant.noa0o">dua centra momanto</ref>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_d;&c_y;&c_s;&c_e;&c_p;&c_r;&c_s;&c_ib;&c_ja;</trd>
+  <trd lng="ca">vari&agrave;ncia</trd>
+  <trdgrp lng="cs">
+    <trd>disperze</trd>,
+    <trd>rozptyl</trd>,
+    <trd>střední kvadratická odchylka</trd>,
+    <trd>variance</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Streuung</trd>,
+    <trd>Varianz</trd>
+  </trdgrp>
+  <trd lng="en">variance</trd>
+  <trd lng="es">varianza</trd>
+  <trd lng="fr">variance</trd>
+  <trdgrp lng="hu">
+    <trd>sz&oacute;r&aacute;sn&eacute;gyzet</trd>,
+    <trd>variancia</trd>
+  </trdgrp>
+  <trd lng="pl">wariancja</trd>
+  <trdgrp lng="pt">
+   <trd>vari&acirc;ncia</trd>
+  </trdgrp>
+  <trd lng="ru">&c_d;&c_i;&c_s;&c_p;&c_je;&c_r;&c_s;&c_i;&c_ja;</trd>
+  <trdgrp lng="sk">
+    <trd>disperzia</trd>,
+    <trd>rozptyl</trd>,
+    <trd>variancia</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="varian1.kun0o">
+  <kap>kun<tld/>o</kap>
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>PIV2</bib></fnt>
+  <snc>
+    <dif>
+      <klr>(de du <ref cel="variab.hazarda0o">hazardaj variabloj</ref>
+      <frm>X</frm> kaj <frm>Y</frm>)</klr>
+      La <ref cel="ekspek.0o">ekspekto</ref> de <frm>(X-E(X))(Y-E(Y))</frm>; 
+      simb. <frm>Kovar(X,Y)</frm>:
+      <ekz>
+        la <tld/>o de <frm>X</frm> egalas al &gcirc;ia kun<tld/>o 
+        kun &gcirc;i mem;
+      </ekz>
+      <ekz>
+        se du variabloj estas 
+        <ref cel="pend.nede0a.hazardaj_variabloj">nedependaj</ref>, ilia
+        kun<tld/>o estas nula, sed du dependaj variabloj povas havi
+        nulan kun<tld/>on.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="kovari.0o">kovarianco.</ref>
+    <rim>
+      Temas pri unu el la malmultaj okazoj, kiam pravi&gcirc;as la
+      anstata&ubreve;igo de la internacia prefikso <ctl>ko-</ctl> per
+      <ctl>kun-</ctl>. Tiu &ccirc;i PIV-a neologismo &scirc;ajnas do
+      sekvinda.
+    </rim>
+  </snc>
+  <trd lng="be">&c_k;&c_a;&c_v;&c_a;&c_r;&c_y;&c_ja;&c_c;&c_y;&c_ja;</trd>
+  <trd lng="ca">covari&agrave;ncia</trd>
+  <trd lng="cs">kovariance</trd>
+  <trdgrp lng="de">
+    <trd>Kovarianz</trd>,
+    <trd>Covarianz</trd>
+  </trdgrp>
+  <trd lng="en">covariance</trd>
+  <trd lng="fr">covariance</trd>
+  <trd lng="hu">kovariancia</trd>
+  <trd lng="pl">kowariancja</trd>
+  <trd lng="ru">&c_k;&c_o;&c_v;&c_a;&c_r;&c_i;&c_a;&c_c;&c_i;&c_ja;</trd>
+  <trd lng="sk">kovariancia</trd>
+</drv>
+
+</art>
+
+<!--
+$Log: varian1.xml,v $
+Revision 1.10  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.9  2015/06/28 12:03:50  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.8  2006/02/01 17:32:02  revo
+Tulio Flores: +trd pt
+
+Revision 1.7  2005/04/24 16:33:08  revo
+Raul Salinas Monteagudo: +trd es
+
+Revision 1.6  2005/02/21 18:55:51  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.5  2005/01/21 17:32:42  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.4  2002/11/27 17:30:55  revo
+Marc Bavant: +frm
+
+Revision 1.3  2002/09/29 17:50:47  revo
+Marc Bavant: +drv kun~o
+Revision 1.2  2002/09/24 16:33:54  revo
+Oscar Puig: + trd ca
+Revision 1.1  2002/09/22 16:33:49  revo
+Marc Bavant: nova artikolo
+-->
+</vortaro>
+

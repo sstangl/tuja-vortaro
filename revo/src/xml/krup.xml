@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: krup.xml,v 1.14 2014/12/10 18:10:20 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>krup</rad>/o
+</kap>
+<drv mrk="krup.0o">
+  <kap>
+    <ofc>*</ofc><tld/>o
+  </kap>
+  <snc>
+  <uzo tip="fak">MED</uzo>
+    <dif>
+      Laringa <ref tip="dif" cel="difter.0o"
+      lst="voko:malsanoj">difterio</ref>.
+    </dif>
+  </snc>
+  <trd lng="be">&c_k;&c_r;&c_u;&c_p; <klr tip="amb">(&c_h;&c_v;&c_a;&c_r;&c_o;&c_b;&c_a;)</klr></trd>
+  <trdgrp lng="de">
+     <trd>Krupp</trd>,
+     <trd>Kehlkopfdifterie</trd>,
+     <trd>Kehlkopfdiphtherie</trd>
+  </trdgrp>
+  <trd lng="fr">croup</trd>
+  <trdgrp lng="hu">
+     <trd>krupp</trd>,
+     <trd>dift&eacute;ri&aacute;s <ind>torokgyullad&aacute;s</ind></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>kroep</trd>,
+    <trd>strottenhoofddifterie</trd>
+  </trdgrp>
+  <trd lng="pt">crupe <klr tip="amb">(med.)</klr></trd>
+  <trd lng="ru">&c_k;&c_r;&c_u;&c_p; <klr>(&c_b;&c_o;&c_l;&c_je;&c_z;&c_n;&c_mol;)</klr></trd>
+</drv>
+</art>
+
+<!--
+$Log: krup.xml,v $
+Revision 1.14  2014/12/10 18:10:20  revo
+Damien Brucker: +trd fr
+
+Revision 1.13  2013/10/07 15:10:53  revo
+Wolfram Diestel: ref la lst malsanoj
+
+Revision 1.12  2009/09/17 16:30:47  revo
+Paul Peeraerts: +nl
+
+Revision 1.11  2006/10/27 16:30:59  revo
+Tulio Flores: +tr pt
+
+Revision 1.10  2004/10/17 16:31:20  revo
+Wolfram Diestel: kor. germ trd
+
+Revision 1.9  2004/09/28 16:32:31  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.8  2004/04/07 16:33:45  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.7  2002/03/30 19:11:55  revo
+-->
+</vortaro>

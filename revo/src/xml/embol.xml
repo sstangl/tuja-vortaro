@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: embol.xml,v 1.15 2015/07/04 08:37:33 revo Exp $">
+<kap>
+  <rad>embol</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="embol.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="embol.0o.MED">
+    <uzo tip="fak">MED</uzo>
+    <dif>
+      Ensanga koagula&jcirc;o ka&ubreve;zanta
+      <ref tip="vid" cel="emboli.0o.MED">embolion</ref>.
+    </dif>
+  </snc>
+  <trd lng="be">&c_e;&c_m;&c_b;&c_o;&c_l;</trd>
+  <trd lng="bg">&c_je;&c_m;&c_b;&c_o;&c_l;</trd>
+  <trdgrp lng="cs">
+    <trd>embolus</trd>,
+    <trd>vmetek</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+     <trd>Blutgerinnsel</trd>,
+     <trd>Embolus</trd>
+  </trdgrp>
+  <trd lng="fr">embole</trd>
+  <trd lng="it">embolo</trd>
+  <trdgrp lng="pl">
+    <trd>skrzep krwi</trd>,
+    <trd>embolus</trd>
+  </trdgrp>
+  <trd lng="pt">&ecirc;mbolo</trd>
+  <trd lng="ru">&c_e;&c_m;&c_b;&c_o;&c_l;</trd>
+  <trd lng="sk">krvná zrazenina</trd>
+</drv>
+</art>
+<!--
+$Log: embol.xml,v $
+Revision 1.15  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.13  2013/04/16 15:10:14  revo
+Jeromo Vasxe: + ref
+
+Revision 1.12  2010/12/02 17:30:45  revo
+Antonio Codazzi: +trd it
+
+Revision 1.11  2010/02/01 17:30:19  revo
+Wieland Pusch: +trd bg
+
+Revision 1.10  2010/01/31 17:30:32  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.9  2007/06/28 16:31:23  revo
+Tulio Flores: +tr pt
+
+Revision 1.8  2004/10/13 16:31:28  revo
+Wolfram Diestel: kor. germ trd
+
+Revision 1.7  2004/04/16 16:31:52  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.6  2002/05/29 05:34:21  revo
+-->
+</vortaro>

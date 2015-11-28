@@ -1,0 +1,183 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: nobl.xml,v 1.19 2015/07/04 08:37:40 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>nobl</rad>/a
+</kap>
+<drv mrk="nobl.0a">
+  <kap><ofc>*</ofc><tld/>a</kap>
+  <snc>
+    <dif>
+      Havanta altajn kaj malvulgarajn moralajn kvalitojn,
+      senripro&ccirc;e justa, brava, honesta kaj malegoisma:
+      <ekz>
+        <tld/>a karaktero, konduto, homo;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        <uzo tip="fak">KEM</uzo>
+        <ref cel="gas.nobla0o"><tld/>a gaso</ref>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="etik.0a">etika</ref>,
+      <ref cel="ideal.0a">ideala</ref>,
+      <ref cel="hero">heroa</ref>,
+      <ref cel="altrui">altruista</ref>,
+      <ref cel="avar.mal0a">malavara</ref>,
+      <ref cel="model.0a">modela</ref>,
+      <ref cel="sublim.0a">sublima</ref>.
+    </refgrp>
+  </snc>
+  <rim>
+    Ne konfuzu &leftquot;<tld/>a&rightquot; kaj
+    &leftquot;<ref cel="nobel.0a">nobela</ref>&rightquot;!
+  </rim>
+  <trdgrp lng="be">
+    <trd>&c_v;&c_y;&c_s;&c_a;&c_k;&c_a;&c_r;&c_o;&c_d;&c_n;&c_y;</trd>,
+    <trd>&c_sh;&c_l;&c_ja;&c_h;&c_je;&c_t;&c_n;&c_y;</trd>,
+    <trd>&c_v;&c_je;&c_l;&c_ib;&c_k;&c_a;&c_d;&c_u;&c_sh;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trd lng="ca">noble</trd>
+  <trdgrp lng="de">
+    <trd>edel</trd>,
+    <trd>edelm&uuml;tig</trd>,
+    <trd>vornehm</trd>
+  </trdgrp>
+  <trd lng="el">&epsilon;&ypsilon;&gamma;&epsilon;&ny;&eta_ton;&sigma_fina;</trd>
+  <trdgrp lng="en">
+    <trd>noble</trd>,
+    <trd>great</trd>,
+    <trd>honorable</trd>
+  </trdgrp>
+  <trd lng="fr">noble</trd>
+  <trd lng="hu">nemes<klr tip="ind"> (jellem&udblac;)</klr></trd>
+  <trdgrp lng="nl">
+    <trd>edel</trd>,
+    <trd>nobel</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>nobre <klr>(adj.)</klr></trd>,
+    <trd>magn&acirc;nimo</trd>,
+    <trd>generoso</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_b;&c_l;&c_a;&c_g;&c_o;&c_r;&c_o;&c_d;&c_n;&c_y;&c_j;</trd>,
+    <trd>&c_v;&c_je;&c_l;&c_i;&c_k;&c_o;&c_d;&c_u;&c_sh;&c_n;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trd lng="tp">sewi</trd>
+  <trdgrp lng="sk">
+    <trd>ušľachtilý</trd>,
+    <trd>šľachetný</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>ušlechtilý</trd>,
+    <trd>velkomyslný</trd>,
+    <trd>šlechetný</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="nobl.mal0a">
+  <kap><ofc>*</ofc>mal<tld/>a</kap>
+  <snc>
+    <dif>
+      Morale malbona, hontinda, malestiminda,
+      <ref tip="super" cel="fi.0a">fia</ref>:
+      <ekz>
+        ho, kiel mi estas mal<tld/>a, kanajla, krima!
+        <fnt><bib>Marta</bib></fnt>;
+      </ekz>
+      <ekz>
+        ni forte malestimas tiun &ccirc;i mal<tld/>an homon
+        <fnt><bib>F</bib>, <lok>&FE;33.</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_o;&c_d;&c_l;&c_y;</trd>,
+    <trd>&c_n;&c_ib;&c_z;&c_k;&c_ib;</trd>
+  </trdgrp>
+  <trd lng="ca">innoble</trd>
+  <trdgrp lng="cs">
+    <trd>hanebný</trd>,
+    <trd>nešlechetný</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>ignoble</trd>,
+    <trd>base</trd>,
+    <trd>vile</trd>
+  </trdgrp>
+  <trd lng="fr">ignoble</trd>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_o;&c_d;&c_l;&c_y;&c_j;</trd>,
+    <trd>&c_n;&c_i;&c_z;&c_k;&c_i;&c_j;</trd>
+  </trdgrp>
+  <trd lng="sk">nešľachetný</trd>
+</drv>
+
+<drv mrk="nobl.mal0ulo">
+  <kap><ofc>*</ofc>mal<tld/>ulo</kap>
+  <snc>
+    <dif>
+      Homo mal<tld/>a, fiulo:
+      <ekz>
+        li estas mensogisto kaj mal<tld/>ulo
+        <fnt><bib>F</bib>, <lok>&FE;37.</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_a;&c_d;&c_l;&c_je;&c_c;</trd>,
+    <trd>&c_p;&c_a;&c_d;&c_l;&c_ju;&c_g;&c_a;</trd>
+  </trdgrp>
+  <trd lng="ca">br&egrave;tol</trd>
+  <trdgrp lng="cs">
+    <trd>bezcharakterní člověk</trd>,
+    <trd>hanbář</trd>,
+    <trd>hanebník</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>scoundrel</trd>,
+    <trd>scurvy dog</trd>,
+    <trd>knave</trd>
+  </trdgrp>
+  <trd lng="fr">roturier</trd>
+  <trd lng="ru">&c_p;&c_o;&c_d;&c_l;&c_je;&c_c;</trd>
+  <trd lng="sk">bezcharakterný človek</trd>
+</drv>
+</art>
+<!--
+$Log: nobl.xml,v $
+Revision 1.19  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:33:21  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2014/08/28 08:10:28  revo
+Damien Brucker: +trd fr
+
+Revision 1.16  2012/07/15 10:10:23  revo
+Marc Rausell: + trd ca
+
+Revision 1.15  2007/01/12 17:30:55  revo
+Russ Williams: +trd en tp
+
+Revision 1.14  2006/07/02 16:31:15  revo
+Tulio Flores: +tr pt
+
+Revision 1.13  2004/02/20 17:30:39  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.12  2003/06/15 16:31:18  revo
+Marc Bavant: ~a: +ref al ~a gaso
+
+Revision 1.11 2003/03/20 17:31:04 revo
+Sergio Pokrovskij: -tajperaro
+
+Revision 1.10 2003/03/19 17:31:19 revo
+-->
+</vortaro>

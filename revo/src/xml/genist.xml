@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: genist.xml,v 1.19 2015/07/04 08:37:35 revo Exp $">
+<kap>
+  <ofc>4</ofc>
+  <rad>genist</rad>/o
+</kap>
+<drv mrk="genist.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="genist.0o.BOT">
+  <uzo tip="fak">BOT</uzo>
+    <dif>
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:botanikaj_genroj">Genro</ref> el familio <ref
+      tip="malprt"
+      cel="fabac.0oj">fabacoj</ref>
+      (<trd lng="la">Genista</trd>),
+      arbedo kun flavaj floroj:
+      <ekz>
+        li ku&scirc;i&gcirc;is kaj endormi&gcirc;is sub la <tld/>o
+        <fnt><bib>MT</bib>, <lok>&Re1; 19:5</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_zh;&c_a;&c_w;&c_t;&c_a;&c_z;&c_je;&c_l;&c_mol;</trd>
+  <trdgrp lng="ca">
+    <trd>argelaga</trd>,
+    <trd>ginestola</trd>,
+    <trd>ginestell</trd>,
+    <trd>gaiol</trd>,
+    <trd>g&egrave;nere Genista</trd>
+  </trdgrp>
+  <trd lng="cs">kručinka</trd>
+  <trd lng="de">Ginster</trd>
+  <trd lng="en">broom</trd>
+  <trd lng="fr">gen&ecirc;t</trd>
+  <trd lng="hu">rekettye</trd>
+  <trd lng="nl">brem</trd>
+  <trd lng="pt">giesta</trd>
+  <trd lng="ru">&c_d;&c_r;&c_o;&c_k;</trd>
+  <trd lng="sk">kručina</trd>
+</drv>
+</art>
+<!--
+$Log: genist.xml,v $
+Revision 1.19  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:29:39  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2013/12/01 21:10:12  revo
+Jessica Grasso: +tr en
+
+Revision 1.16  2013/08/30 14:11:10  revo
+Wolfram Diestel: kor. lst-ref
+
+Revision 1.15  2013/08/26 15:10:36  revo
+Wolfram Diestel: referenco al listo bot genroj
+
+Revision 1.14  2012/07/14 18:10:14  revo
+Marc Rausell: + trd ca
+
+Revision 1.13  2005/08/18 16:32:14  revo
+Luiz Portella: +trd pt
+
+Revision 1.12  2004/07/06 16:34:59  revo
+Jeromo Vasxe: + ekz
+
+Revision 1.11  2004/01/04 17:34:54  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.10  2002/03/27 17:32:07  revo
+-->
+</vortaro>

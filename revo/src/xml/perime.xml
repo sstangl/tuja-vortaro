@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: perime.xml,v 1.18 2015/07/04 08:37:41 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>perimetr</rad>/o
+</kap>
+<drv mrk="perime.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>MatTerm</bib><lok>p. 27</lok></fnt>
+  <snc>
+    <dif>
+      <klr>(de ebena <ref cel="surfac.0o.MAT">surfaco</ref>)</klr>
+      Longo de &gcirc;ia <ref tip="super" cel="rand.0o.figuro">rando</ref>.
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="cirkon.0o">cirkonferenco</ref>,
+      <ref cel="perife.0o">periferio</ref>.
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_p;&c_e;&c_r;&c_y;&c_m;&c_e;&c_t;&c_a;&c_r;</trd>
+  <trd lng="ca">per&iacute;metre</trd>
+  <trdgrp lng="cs">
+    <trd>délka obvodu</trd>,
+    <trd>obvod</trd>
+  </trdgrp>
+  <trd lng="de">Umfang</trd>
+  <trd lng="en">perimeter</trd>
+  <trd lng="es">per&iacute;metro</trd>
+  <trd lng="eu">perimetro</trd>
+  <trd lng="fa">&a_T;&a_w;&a_l; &a_m;&a_H;&f_y;&a_T;</trd>
+  <trd lng="fr">p&eacute;rim&egrave;tre</trd>
+  <trd lng="hu">ker&uuml;let<klr tip="ind"> (s&iacute;kidom&eacute;)</klr></trd>
+  <trd lng="it">perimetro</trd>
+  <trd lng="nl">omtrek</trd>
+  <trd lng="pl">obw&oacute;d</trd>
+  <trd lng="pt">per&iacute;metro</trd>
+  <trd lng="ru">&c_p;&c_je;&c_r;&c_i;&c_m;&c_je;&c_t;&c_r;</trd>
+  <trd lng="sk">perimeter</trd>
+</drv>
+</art>
+<!--
+$Log: perime.xml,v $
+Revision 1.18  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:40:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.16  2009/09/10 16:31:15  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.15  2006/02/27 17:34:40  revo
+Tulio Flores: +tr pt
+
+Revision 1.14  2006/01/12 21:52:34  revo
+Raul Salinas Monteagudo: +trd ca,es,eu,it
+
+Revision 1.13  2003/04/11 16:32:49  revo
+Marc Bavant: mod dif/klr
+
+Revision 1.12  2003/01/02 17:49:42  revo
+Marc Bavant: +trd pl
+Revision 1.11  2002/12/11 17:31:52  revo
+Jozefo Horvath: +trd hu
+Revision 1.10  2002/08/15 17:31:29  revo
+Dmitri Gabinski: +trd be
+Revision 1.9  2002/02/24 17:31:29  revo
+Marc Bavant: +fnt, +trd de
+Revision 1.8  2002/01/03 17:34:40  revo
+Karlo Freeman: +trd=en
+-->
+</vortaro>

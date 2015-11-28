@@ -1,0 +1,138 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+  <art mrk="$Id: emblem.xml,v 1.19 2015/07/04 08:37:33 revo Exp $">
+    <kap>
+      <ofc>1</ofc>
+      <rad>emblem</rad>/o
+    </kap>
+    <drv mrk="emblem.0o">
+      <kap><tld/>o</kap>
+      <snc mrk="emblem.0o.simbolo">
+        <dif>
+          Figuro de objekto a&ubreve; estulo konvencie reprezentanta
+          abstraktan ideon:
+          <ekz>
+            verda stelo estas <tld/>o de Esperanto;
+          </ekz><ekz>
+            pesilo estas <tld/>o de la justeco.
+          </ekz>
+        </dif>
+        <refgrp tip="sin">
+          <ref cel="simbol.0o">simbolo</ref>,
+          <ref cel="insign.0o">insigno</ref>.
+        </refgrp>
+        <refgrp tip="vid">
+          <ref cel="alegor.0o">alegorio</ref>,
+          <ref cel="atribu1.0o">atributo</ref>,
+          <ref cel="deviz.0o">devizo</ref>.
+        </refgrp>
+        <trd lng="be">&c_e;&c_m;&c_b;&c_l;&c_je;&c_m;&c_a;</trd>
+        <trd lng="ca">emblema</trd>
+        <trdgrp lng="de">
+          <trd>Sinnbild</trd>,
+          <trd>Emblem</trd>,
+          <trd>Kennzeichen</trd>,
+          <trd>Zeichen</trd>,
+          <trd>Wappenbild</trd></trdgrp>
+        <trdgrp lng="en">
+           <trd>emblem</trd>,
+           <trd>logo</trd>
+        </trdgrp>
+        <trd lng="es">emblema</trd>
+        <trd lng="fr">embl&egrave;me</trd>
+        <trdgrp lng="pl">
+          <trd>emblemat</trd>,
+          <trd>god&lstroke;o</trd>,
+          <trd>logo</trd>
+        </trdgrp><trdgrp lng="pt">
+          <trd>emblema</trd>,
+          <trd>ins&iacute;gnia</trd>
+        </trdgrp>
+        <trd lng="ru">&c_e;&c_m;&c_b;&c_l;&c_je;&c_m;&c_a;</trd>
+        <trdgrp lng="sv">
+           <trd>emblem</trd>,
+           <trd>tecken</trd>
+        </trdgrp>
+      </snc>
+      <snc mrk="emblem.0o.karta">
+        <uzo tip="fak">SPO</uzo>
+        <dif>
+          &Ccirc;iu el la serioj po 13
+          <ref tip="vid" cel="kart.lud0o">ludkartoj</ref>
+          signitaj per aparta <tld/>o <sncref ref="emblem.0o.simbolo"/>:
+          trefo (&#9831;),
+          piko (&#9824;),
+          kero (&#9825;),
+          karoo (&#9826;).
+        </dif>
+        <ref tip="super" cel="kolor.0o.ludkarta">koloro</ref>
+        <trd lng="be">&c_m;&c_a;&c_s;&c_mol;&c_c;&c_mol;
+        <klr>(&c_u; &c_k;&c_a;&c_r;&c_t;&c_a;&c_h;)</klr></trd>
+        <trd lng="ca">coll</trd>
+        <trdgrp lng="de">
+          <trd>Farbe</trd>,
+          <trd>Kartenfarbe</trd></trdgrp>
+        <trd lng="en">suit <klr tip="ind">(of cards)</klr></trd>
+        <trd lng="es">palo<klr tip="amb"> (de la baraja)</klr></trd>
+        <trd lng="fr">couleur<klr tip="ind"> (tr&egrave;fle, carreau,
+        etc.)</klr></trd>
+        <trd lng="pl">kolor<klr> karciany</klr></trd>
+        <trd lng="pt">naipe</trd>
+        <trd lng="ru">&c_m;&c_a;&c_s;&c_t;&c_mol;</trd>
+      </snc>
+  <trd lng="cs">barva v kartách</trd>
+  <trd lng="sk">farba v kartách</trd>
+</drv>
+  </art>
+  <!--
+  $Log: emblem.xml,v $
+  Revision 1.19  2015/07/04 08:37:33  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.18  2015/06/29 16:29:37  revo
+  aldono de trd sk per skripto de M. von Laer
+
+  Revision 1.17  2014/03/13 08:10:20  revo
+  Agustin Garcia Lopez: +klr(es)
+
+  Revision 1.16  2011/12/06 15:10:11  revo
+  Marc Rausell: kataluna traduko
+
+  Revision 1.15  2008/09/26 16:30:31  revo
+  Sebastian Cyprych: +trd pl
+
+  Revision 1.14  2008/01/24 19:49:20  revo
+  Russ Williams: ripari xml/klr
+
+  Revision 1.13  2007/06/28 16:31:21  revo
+  Tulio Flores: +tr pt
+
+  Revision 1.12  2004/02/24 17:31:07  revo
+  Dmitri Gabinski: +trd be
+
+  Revision 1.11  2002/12/19 17:31:42  revo
+  Christopher Zervic: + ang
+
+  Revision 1.10  2002/06/06 17:31:26  revo
+  Alejandro Mejia Greene: ald 2 his trd
+
+  Revision 1.9  2001/07/22 18:15:48  revo
+  Jerano Zachrisson: +trd sv
+
+  Revision 1.8  2001/06/26 18:13:23  revo
+  Marc Bavant: +trd fr, kor ref al alegorio, +ref al devizo,
+  +uzo SPO cxe snc 2
+
+  Revision 1.7  2001/05/20 18:13:36  revo
+  Ulrich Fellmann: + 7 germ trdj
+
+  Revision 1.6  2001/05/16 18:12:43  revo
+  Sergio Pokrovskij: ref tip="vid" cel="kart.lud0o"
+
+  Revision 1.5  2001/02/25 17:11:25  revo
+  Sergio Pokrovskij: kartoj
+
+  -->
+</vortaro>

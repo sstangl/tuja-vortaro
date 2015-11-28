@@ -1,0 +1,115 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: vaku.xml,v 1.18 2012/08/11 18:10:13 revo Exp $">
+<kap>
+  <ofc>9</ofc><rad>vaku</rad>/o
+</kap>
+<drv mrk="vaku.0o">
+  <kap>
+    <ofc>9</ofc><tld/>o
+  </kap>
+  <uzo tip="fak">FIZ</uzo>
+  <snc>
+    <dif>
+      Malplena spaco, okupita de neniu materio.
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_v;&c_a;&c_k;&c_u;&c_m;</trd>,
+    <trd>&c_p;&c_u;&c_s;&c_t;&c_a;&c_t;&c_a;</trd>
+  </trdgrp>
+  <trd lng="ca">buit<klr> (subst.)</klr></trd>
+  <trdgrp lng="de">
+     <trd>Leere</trd>,
+     <trd>Leerraum</trd>,
+     <trd>Vakuum</trd>
+  </trdgrp>
+  <trd lng="el">&kappa;&epsilon;&ny;&omikron_ton;</trd>
+  <trd lng="en">vacuum</trd>
+  <trd lng="es">vac&iacute;o</trd>
+  <trd lng="fa">&a_kh;&a_l;&a_A_hamza_sure;</trd>
+  <trdgrp lng="fr">
+    <trd>vide<klr> (physique)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="he">
+    <trd>&resh;&yod;&qof;<klr tip="ind"> (&vav;&alef;&qof;&vav;&fmem;)</klr></trd>,
+    <trd>&het;&lamed;&lamed; &resh;&yod;&qof;</trd>,
+    <trd>&vav;&alef;&qof;&vav;&fmem;</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+     <trd>v&aacute;kuum</trd>,
+     <trd>l&eacute;g&uuml;res t&eacute;r</trd>
+  </trdgrp>
+  <trd lng="nl">vacu&uuml;m</trd>
+  <trd lng="pl">pr&oacute;&zdot;nia</trd>
+  <trd lng="pt">v&aacute;cuo</trd>
+  <trdgrp lng="ru">
+    <trd>&c_v;&c_a;&c_k;&c_u;&c_u;&c_m;</trd>,
+    <trd>&c_p;&c_u;&c_s;&c_t;&c_o;&c_t;&c_a;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="vaku.0igi">
+  <kap>
+    <tld/>igi
+  </kap>
+  <snc>
+    <dif>
+      Eligi &ccirc;ian materion el ia ujo.
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_v;&c_y;&c_p;&c_u;&c_s;&c_t;&c_a;&c_sh;&c_y;&c_c;&c_mol;</trd>,
+    <trd>&c_s;&c_p;&c_u;&c_s;&c_t;&c_o;&c_sh;&c_y;&c_c;&c_mol;</trd>,
+    <trd>&c_a;&c_p;&c_a;&c_r;&c_a;&c_zh;&c_n;&c_ib;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="ca">buidar</trd>
+  <trd lng="de">evakuieren</trd>
+  <trd lng="en">make a vacuum</trd>
+  <trd lng="es">vaciar</trd>
+  <trdgrp lng="fr">
+    <trd>faire le <ind>vide</ind></trd>
+  </trdgrp>
+  <trdgrp lng="he">
+    <trd>&lamed;&he;<ind>&resh;&yod;&qof;</ind></trd>,
+    <trd>&lamed;&resh;&vav;&qof;&fnun; \<ind>&resh;&qof;&fnun;</ind>\</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+     <trd>v&aacute;kuumot hoz l&eacute;tre</trd>,
+     <trd>l&eacute;g&uuml;res teret hoz l&eacute;tre</trd>
+  </trdgrp>
+  <trd lng="nl">vacu&uuml;m trekken</trd>
+  <trd lng="pl">opr&oacute;&zdot;nia&cacute;</trd>
+  <trdgrp lng="pt">
+   <trd>fazer v&aacute;cuo</trd>, 
+   <trd>esvaziar</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: vaku.xml,v $
+Revision 1.18  2012/08/11 18:10:13  revo
+Marc Rausell: + trd ca
+
+Revision 1.17  2009/10/09 16:30:37  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.16  2009/07/14 16:30:48  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.15  2009/03/01 17:34:15  revo
+Russ Williams: +trd en 9OA
+
+Revision 1.14  2005/05/16 17:49:32  revo
+Luiz Portella: +kor trd pt
+
+Revision 1.13  2003/04/29 16:31:28  revo
+Allon Rothfarb: +trd he
+
+Revision 1.12  2002/09/17 16:32:13  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.11  2002/07/18 11:24:02  revo
+-->
+</vortaro>

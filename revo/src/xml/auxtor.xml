@@ -1,0 +1,170 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: auxtor.xml,v 1.20 2015/09/29 11:10:16 revo Exp $">
+<kap>
+  <ofc>*</ofc><ofc>1</ofc>
+  <rad>a&ubreve;tor</rad>/o
+</kap>
+<drv mrk="auxtor.0o">
+  <kap><tld/>o</kap>
+  <snc>
+    <dif>
+      Verkinto (de libro a&ubreve; de scienca, literatura, belarta verko).
+    </dif>
+    <trd lng="bg">&c_a;&c_v;&c_t;&c_o;&c_r;</trd>
+    <trdgrp lng="br">
+      <trd>aozer</trd>,
+      <trd>oberour</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd>Autor</trd>,
+      <trd>Verfasser</trd>
+    </trdgrp>
+    <trd lng="nl">auteur</trd>
+    <trdgrp lng="hu">
+      <trd>&iacute;r&oacute;</trd>,
+      <trd>szerz&odblac;</trd>
+    </trdgrp>
+  </snc>
+  <snc>
+    <dif>
+      Farinto, kreinto, elpensinto:
+      <ekz>
+        li estas <tld/>o de sia propra
+        malfeli&ccirc;o;
+      </ekz>
+      <ekz>
+        la kunkulpulo estas punata kiel la <tld/>o mem.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>Urheber</trd>,
+      <trd>Sch&ouml;pfer</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>szerz&odblac;</trd>,
+      <trd>okoz&oacute;</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="be">&c_a;&c_w;&c_t;&c_a;&c_r;</trd>
+  <trd lng="en">author</trd>
+  <trd lng="es">autor</trd>
+  <trd lng="fr">auteur</trd>
+  <trd lng="it">autore</trd>
+  <trd lng="pt">autor</trd>
+  <trd lng="ru">&c_a;&c_v;&c_t;&c_o;&c_r;</trd>
+  <trd lng="sk">autor</trd>
+</drv>
+
+<drv mrk="auxtor.0a">
+  <kap><tld/>a</kap>
+  <snc>
+    <dif>
+      Rilata al a&ubreve;toro:
+      <ekz>
+        <ind><tld/>aj rajtoj</ind>.
+        <trd lng="be">&c_a;&c_w;&c_t;&c_a;&c_r;&c_s;&c_k;&c_a;&c_je; &c_p;&c_r;&c_a;&c_v;&c_a;</trd>
+        <trd lng="es">derechos de autor</trd>
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_a;&c_w;&c_t;&c_a;&c_r;&c_s;&c_k;&c_ib;</trd>
+  <trd lng="nl">auteurs-</trd>
+  <trd lng="hu">szerz&odblac;i</trd>
+  <trd lng="it">d'<ind>autore</ind></trd>
+  <trd lng="ru">&c_a;&c_v;&c_t;&c_o;&c_r;&c_s;&c_k;&c_i;&c_j;</trd>
+  <trd lng="sk">autorsk&yacute;</trd>
+</drv>
+
+<drv mrk="auxtor.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      <ref tip="dif" cel="verk.0i">verki</ref>.
+    </dif>
+    <trd lng="br">sevel<klr tip="ind"> (un oberenn)</klr></trd>
+    <trdgrp lng="de">
+      <trd>schaffen</trd>,
+      <trd>verfassen</trd>
+    </trdgrp>
+    <trd lng="en"><klr>to </klr>author</trd>
+    <trd lng="nl">schrijven<klr tip="ind"> (v.boek)</klr></trd>
+    <trdgrp lng="hu">
+      <trd>szerez<klr tip="ind"> (m&udblac;vet)</klr></trd>,
+      <trd>&iacute;r<klr tip="ind"> (m&udblac;vet)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="it">
+      <trd>scrivere<klr> (creare)</klr></trd>,
+      <trd>creare<klr> (comporre)</klr></trd>,
+      <trd>comporre<klr> (creare)</klr></trd>
+    </trdgrp>
+  </snc>
+</drv>
+
+<drv mrk="auxtor.0signo">
+  <kap><tld/>signo</kap>
+  <snc>
+    <dif>
+      Signo montranta la <tld/>on de iu tekstloko; referenco.
+    </dif>
+  </snc>
+  <trdgrp lng="de">
+    <trd>Autorangabe</trd>,
+    <trd>Verfasserangabe</trd>
+  </trdgrp>
+  <trd lng="hu">hivatkoz&aacute;s szerz&odblac;re</trd>
+</drv>
+
+<drv mrk="auxtor.kun0o">
+  <kap>kun<tld/>o</kap>
+  <snc>
+    <dif>
+      Tiu, kiu parte verkis.
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_a;&c_a;&c_w;&c_t;&c_a;&c_r;</trd>
+  <trdgrp lng="de">
+    <trd>Co-Autor</trd>,
+    <trd>Mitautor</trd>,
+    <trd>Mitverfasser</trd>
+  </trdgrp>
+  <trd lng="br">kenoberour</trd>
+  <trd lng="en">co-author</trd>
+  <trd lng="es">coautor</trd>
+  <trd lng="fr">co-auteur</trd>
+  <trd lng="hu">t&aacute;rsszerz&odblac;</trd>
+  <trd lng="it">co-autore</trd>
+  <trd lng="nl">coauteur</trd>
+  <trd lng="ru">&c_s;&c_o;&c_a;&c_v;&c_t;&c_o;&c_r;</trd>
+  <trd lng="sk">spoluautor</trd>
+</drv>
+</art>
+<!--
+$Log: auxtor.xml,v $
+Revision 1.20  2015/09/29 11:10:16  revo
+Evandro Avellar: +trd pt
+
+Revision 1.19  2011/10/06 06:10:09  revo
+Wieland Pusch: +trd bg
+
+Revision 1.18  2011/10/05 10:10:13  revo
+Antonio Codazzi: +trd it
+
+Revision 1.17  2005/02/25 17:34:00  revo
+Alan ar Gall: +trd br
+
+Revision 1.16  2004/10/17 16:31:28  revo
+Wolfram Diestel: kor. germ trd
+
+Revision 1.15  2003/11/17 08:33:48  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.14  2002/11/01 09:17:34  revo
+Christopher Zervic: + ang
+
+Revision 1.13  2002/09/09 19:50:43  revo
+-->
+</vortaro>

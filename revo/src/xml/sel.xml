@@ -1,0 +1,151 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: sel.xml,v 1.21 2015/07/04 08:37:43 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>sel</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="sel.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="sel.0o.RAJ">
+    <dif>
+      <ref tip="super" cel="segx.0o.meblo">Se&gcirc;o</ref>, kiun oni ligas
+      sur la dorso de rajdbesto a&ubreve; fiksas sur biciklo, motorciklo a&ubreve;
+      simila:
+      <ekz>
+        li saltis sur la <tld/>on;
+      </ekz>
+      <ekz>
+        &ccirc;evalo blanka, pompe ornamita, kun gravurita <tld/>o kaj kolora
+        brido
+        <fnt><bib>RugxDom</bib>, <lok>&ccirc;apitro 52a, volumo 2a, p.
+        174a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_ja;&c_d;&c_l;&c_o;</trd>
+  <trd lng="cs">sedlo</trd>
+  <trd lng="de">Sattel</trd>
+  <trd lng="en">saddle</trd>
+  <trd lng="fr">selle<klr> (&eacute;quitation etc.)</klr></trd>
+  <trd lng="hu">nyereg</trd>
+  <trd lng="it">sella</trd>
+  <trd lng="nl">zadel</trd>
+  <trd lng="ru">&c_s;&c_je;&c_d;&c_l;&c_o;</trd>
+  <trdgrp lng="sk">
+    <trd>sedadlo</trd>,
+    <trd>sedlo</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="sel.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="sel.0i.RAJ">
+    <dif>
+      Meti <tld/>on sur:
+      <ekz>
+        post kiam li man&gcirc;is panon kaj trinkis, oni <tld/>is por li la
+        azenon
+        <fnt><bib>MT</bib>, <lok>&Re1; 13:23</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_s;&c_ja;&c_d;&c_l;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_s;&c_ja;&c_d;&c_l;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>osedlat</trd>,
+    <trd>sedlat</trd>
+  </trdgrp>
+  <trd lng="de">satteln</trd>
+  <trd lng="en">saddle</trd>
+  <trd lng="fr">seller</trd>
+  <trd lng="hu">megnyergel</trd>
+  <trd lng="it">sellare</trd>
+  <trd lng="nl">zadelen</trd>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_je;&c_d;&c_l;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_o;&c_s;&c_je;&c_d;&c_l;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="sk">osedlať</trd>
+</drv>
+
+<drv mrk="sel.de0igxi">
+  <kap>de<tld/>i&gcirc;i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="sel.de0igxi.RAJ">
+    <dif>
+      Dei&gcirc;i de <tld/>o, finante la rajdon:
+      <ekz>
+        ili <klr>...</klr> alvenis al vila&gcirc;o, haltis tie kaj
+        de<tld/>i&gcirc;is &ccirc;e gastejo
+        <fnt><bib>DonKihxoto</bib>, <lok>parto 2a, &ccirc;apitro 71a, p.
+        797a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="fr">
+    <trd>d&eacute;monter<klr> (&eacute;quitation)</klr></trd>,
+    <trd>descendre de <ind>selle</ind></trd>
+  </trdgrp>
+  <trd lng="hu">lesz&aacute;ll a <ind>nyeregb&odblac;l</ind></trd>
+  <trd lng="it">smontare dalla <ind>sella</ind></trd>
+  <trd lng="ru">&c_s;&c_l;&c_je;&c_z;&c_t;&c_mol; &c_s; &c_s;&c_je;&c_d;&c_l;&c_a;</trd>
+</drv>
+
+<drv mrk="sel.sur0igxi">
+  <kap>sur<tld/>i&gcirc;i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="sel.sur0igxi.RAJ">
+    <dif>
+      Eksidi rajde sur <tld/>o.
+    </dif>
+  </snc>
+  <trdgrp lng="fr">
+    <trd>monter en selle</trd>,
+    <trd>se mettre en <ind>selle</ind></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>nyeregbe &uuml;l</trd>,
+    <trd>nyeregbe sz&aacute;ll</trd>
+  </trdgrp>
+  <trd lng="it">montare in <ind>sella</ind></trd>
+  <trd lng="ru">&c_s;&c_je;&c_s;&c_t;&c_mol; &c_v; &c_s;&c_je;&c_d;&c_l;&c_o;</trd>
+</drv>
+</art>
+<!--
+$Log: sel.xml,v $
+Revision 1.21  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.19  2011/01/03 08:15:13  revo
+Jeromo Vasxe: kor. fusxitan fnt
+
+Revision 1.18  2009/10/24 16:32:29  revo
+Antonio Codazzi: +trd it
+
+Revision 1.17  2005/05/08 16:31:50  revo
+Yury Finkel: +trd ru
+
+Revision 1.16  2004/10/05 16:59:07  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.15  2004/07/08 17:05:34  revo
+Jeromo Vasxe: + ekz
+
+Revision 1.14  2004/02/08 17:48:27  revo
+Jeromo Vasxe: + de~igxi sur~igxi, ~o dif: + bicikla
+
+Revision 1.13 2002/12/19 17:32:17 revo
+Zmicier Lapcionak: + trd be
+
+Revision 1.12 2002/11/11 17:31:27 revo
+-->
+</vortaro>

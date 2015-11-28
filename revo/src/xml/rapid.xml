@@ -1,0 +1,492 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: rapid.xml,v 1.34 2015/07/04 08:37:42 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>rapid</rad>/a <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="rapid.0a">
+  <kap><ofc>*</ofc><tld/>a</kap>
+  <snc>
+    <dif>
+      Plenumanta iradon a&ubreve; ian agon, uzante nur mallongan tempon:
+      <ekz>
+        <tld/>a kiel fulmo, kuglo, sago;
+      </ekz>
+      <ekz>
+        <tld/>a kuriero, &ccirc;evalo, &scirc;ipo;
+      </ekz>
+      <ekz>
+        <tld/>a fluo, vento;
+      </ekz>
+      <ekz>
+        <ind><tld/>e</ind> kuri, labori, kompreni;
+        <trdgrp lng="es">
+          <trd>r&aacute;pidamente</trd>,
+          <trd>velozmente</trd>,
+          <trd>aprisa</trd>
+        </trdgrp>
+         <trd lng="nl">snel</trd>
+      </ekz>
+      <ekz>
+        <tld/>e kreski, kiel jungo.
+      </ekz>
+    </dif>
+    <trd lng="de">schnell</trd>
+    <trd lng="sv">snabb</trd>
+  </snc>
+  <snc>
+    <dif>
+      Plenumata a&ubreve; okazanta, ne okupante longan tempon:
+      <ekz>
+        <tld/>a iro, kuro, flugo, movo, kompreno, decido;
+      </ekz>
+      <ekz>
+        <tld/>a progreso, sukceso, resani&gcirc;o;
+      </ekz>
+      <ekz>
+        la sciigo <tld/>e disvasti&gcirc;is;
+      </ekz>
+      <ekz>
+        <tld/>emaj bildoj de magia lanterno<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>schnell</trd>,
+      <trd>rasch</trd>
+    </trdgrp>
+    <trd lng="pt">r&aacute;pido</trd>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_h;&c_u;&c_t;&c_k;&c_ib;</trd>,
+    <trd>&c_sh;&c_p;&c_a;&c_r;&c_k;&c_ib;</trd>,
+    <trd>&c_b;&c_o;&c_r;&c_z;&c_d;&c_y;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>chvatný</trd>,
+    <trd>rychl&yacute;</trd>,
+    <trd>velmi rychlý</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>fast</trd>,
+    <trd>quick</trd>,
+    <trd>rapid</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>r&aacute;pido, -a</trd>,
+    <trd>veloz</trd>
+  </trdgrp>
+  <trd lng="fr">rapide</trd>
+  <trdgrp lng="hu">
+    <trd>gyors</trd>,
+    <trd>sebes</trd>
+  </trdgrp>
+  <trd lng="id">cepat</trd>
+  <trdgrp lng="nl">
+    <trd>snel</trd>,
+    <trd>vlug</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>pr&eogonek;dki</trd>,
+    <trd>szybki</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_b;&c_y;&c_s;&c_t;&c_r;&c_y;&c_j;</trd>,
+    <trd>&c_s;&c_k;&c_o;&c_r;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>náhlivý</trd>,
+    <trd>veľmi rýchly</trd>
+  </trdgrp>
+  <trdgrp lng="sv">
+    <trd>snabb</trd>,
+    <trd>rask</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="rapid.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="rapid.0o.FIZ">
+    <uzo tip="fak">FIZ</uzo>
+    <dif>
+      <ref tip="super" cel="grand.fizika0o">Fizika grando</ref>,
+      esprimanta la rilaton inter la <ref cel="long.0o.FIZ">longo</ref>
+      trairata de punkto a&ubreve; korpo kaj la da&ubreve;ro de tiu
+      trairado:
+      <ekz>
+        la <tld/>o de la sono, de la lumo;
+      </ekz>
+      <ekz>
+        la <tld/>o de movi&gcirc;anta punkto egalas al
+        la unua deriva&jcirc;o de &gcirc;ia pozicio rilate al tempo;
+      </ekz>
+      <ekz>
+        la <ref cel="dimens.0o.FIZ">dimensioj</ref> de <tld/>o estas
+        <frm>LT<sup>-1</sup></frm>.
+      </ekz>
+    </dif>
+      <refgrp tip="vid">
+      <ref cel="metr.0oens">metro en sekundo</ref>
+    </refgrp>
+    <rim> La <tld/>o <ctl>30km/h</ctl> esprimi&gcirc;as per la frazo <ctl>
+    (po) 30
+    kilometroj(n) hore</ctl> a&ubreve; <ctl>(po) 30 kilometroj(n) en horo</ctl>
+    a&ubreve;
+    <ctl>(po) 30 kilometroj(n) por horo</ctl> a&ubreve; <ctl>(po) 30
+    kilometroj(n) je
+    horo</ctl>. La Akademio malkonsilas la uzadon de la prepozicio
+    <refgrp tip="vid"><ref cel="po.0">po</ref></refgrp>, por esprimi la
+    rilaton indikitan per la frakci-streko (ne *30 kilometroj(n) po
+    hore*).    
+    </rim>
+    <trd lng="de">Geschwindigkeit</trd>
+    <trd lng="es">Rapidez <klr>(magnitud f&iacute;sica)</klr></trd>
+    <trdgrp lng="fr">
+      <trd>c&eacute;l&eacute;rit&eacute;<klr tip="ind"> (phys.)</klr></trd>,
+      <trd>vitesse<klr tip="ind"> (grandeur physique)</klr></trd>
+    </trdgrp>
+    <trd lng="hu">sebess&eacute;g</trd>
+    <trd lng="nl">snelheid</trd>
+  </snc>
+  <trd lng="be">&c_h;&c_u;&c_t;&c_k;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+  <trd lng="cs">rychlost</trd>
+  <trd lng="pl">pr&eogonek;dko&sacute;&cacute;</trd>
+  <trd lng="ro">vitez&abreve;</trd>
+  <trd lng="ru">&c_s;&c_k;&c_o;&c_r;&c_o;&c_s;&c_t;&c_mol;</trd>
+  <trd lng="sk">rýchlosť</trd>
+</drv>
+
+<drv mrk="rapid.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc>
+    <dif>
+      Peni por iri ien a&ubreve; por iel ajn agi en mallonga tempo:
+      <ekz>
+        &scirc;i <tld/>is reveni<fnt>Z</fnt>,
+      </ekz>
+      <ekz>
+        transkuri la straton<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        <tld/>i al stacidomo<fnt>B</fnt>;
+      </ekz>
+      <ekz>
+        ili <tld/>is returne al siaj lokoj<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        li <tld/>is en la tendon<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        la infanoj <tld/>as el la lernejo<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        kun konfido neniam <tld/>u
+        <fnt><bib>PrV</bib></fnt>;
+      </ekz>
+      <ekz>
+        <tld/>i por fini sian taskon;
+      </ekz>
+      <ekz>
+        ne <tld/>u koleri<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        mi <tld/>os trankviligi ilin<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        <ind><tld/>ira</ind> vagonaro.
+        <trd lng="fr">express</trd>
+        <trd lng="es">expreso, -a<klr>(anglicismo)</klr></trd>
+        <trd lng="nl">express-</trd>
+      </ekz>
+    </dif>
+    <refgrp tip="sub">
+      <ref cel="galop.0i">galopi</ref>,
+      <ref cel="hast.0i">hasti</ref>,
+      <ref cel="kur.0i">kuri</ref>,
+      <ref cel="urgx">ur&gcirc;i&gcirc;i</ref>
+    </refgrp>
+    <trdgrp lng="de">
+      <trd>eilen</trd>,
+      <trd>beeilen</trd>
+    </trdgrp>
+    <trdgrp lng="es">
+      <trd>apresurarse</trd>,
+      <trd>darse prisa</trd>,
+      <trd>apurarse <klr>(americanismo)</klr></trd>
+    </trdgrp>
+  </snc>
+  <trd lng="be">&c_s;&c_mol;&c_p;&c_ja;&c_sh;&c_a;&c_c;&c_c;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>mít naspěch</trd>,
+    <trd>pospíchat</trd>,
+    <trd>sp&ecaron;chat</trd>,
+    <trd>spěchat</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>se <ind>d&eacute;p&ecirc;cher</ind></trd>,
+    <trd>se <ind>h&acirc;ter</ind></trd>,
+    <trd>se <ind>presser</ind></trd>
+  </trdgrp>
+  <trd lng="hu">siet</trd>
+  <trdgrp lng="nl">
+    <trd>zich <ind>haasten</ind></trd>,
+    <trd>opschieten</trd>
+  </trdgrp>
+  <trd lng="pl">spieszy&cacute; si&eogonek;</trd>
+  <trd lng="ro">a gr&abreve;bi</trd>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_p;&c_je;&c_sh;&c_i;&c_t;&c_mol;</trd>,
+    <trd>&c_t;&c_o;&c_r;&c_o;&c_p;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>
+  </trdgrp>
+  <trd lng="sk">náhliť sa domov</trd>
+</drv>
+
+<drv mrk="rapid.0eco">
+  <kap><tld/>eco</kap>
+  <snc>
+    <dif>
+      Eco de iu a&ubreve; io <tld/>a:
+      <ekz>
+        mi ne postulas de vi <tld/>econ, sed zorgemon;
+      </ekz>
+      <ekz>
+        la <tld/>eco de la veturado ne ebligis &gcirc;ui la vidon de la
+        pejza&gcirc;o.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_h;&c_u;&c_t;&c_k;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+  <trd lng="cs">rychlost</trd>
+  <trdgrp lng="de">
+    <trd>Eile</trd>,
+    <trd>Schnelligkeit</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>rapidez <klr>(caracter&iacute;stica)</klr></trd>,
+    <trd>velocidad</trd>
+  </trdgrp>
+  <trd lng="fr">rapidit&eacute;</trd>
+  <trd lng="hu">gyorsas&aacute;g</trd>
+  <trd lng="id">[<ind>cepat</ind>] kecepatan</trd>
+  <trd lng="nl">snelheid</trd>
+  <trd lng="pl">szybko&sacute;&cacute;</trd>
+  <trdgrp lng="ro">
+    <trd>rapiditate</trd>,
+    <trd>vitez&abreve;</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_k;&c_o;&c_r;&c_o;&c_s;&c_t;&c_mol;</trd>,
+    <trd>&c_b;&c_y;&c_s;&c_t;&c_r;&c_o;&c_t;&c_a;</trd>
+  </trdgrp>
+  <trd lng="sk">rýchlosť</trd>
+</drv>
+
+<drv mrk="rapid.0igi">
+  <kap><tld/>igi, <var><kap>pli<tld/>igi</kap></var></kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="rapid.0igi.KOMUNE">
+    <dif>
+      Igi <tld/>a,
+      <ref tip="vid" cel="pel.0i.irigi">peli</ref>,
+      <ref tip="vid" cel="akcel.0i">akceli</ref>:
+      <ekz>
+        <tld/>igi konstruon<fnt>B</fnt>;
+      </ekz>
+      <ekz>
+        mi <tld/>igis mian laboron<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        enkonduki novajn faciligojn kaj <tld/>igojn por la transsendo de
+        la internaciaj po&scirc;ta&jcirc;oj.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_s;&c_k;&c_o;&c_r;&c_y;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>popohnat</trd>,
+    <trd>zrychlit</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>beschleunigen</trd>,
+    <trd>antreiben</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>apresurar</trd>,
+    <trd>dar velocidad</trd>,
+    <trd>apurar <klr>(americanismo)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>acc&eacute;l&eacute;rer<klr tip="ind"> (tr.)</klr></trd>,
+    <trd>h&acirc;ter</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>felgyors&iacute;t</trd>,
+    <trd>meggyors&iacute;t</trd>
+  </trdgrp>
+  <trd lng="id">[<ind>cepat</ind>] mempercepat</trd>
+  <trd lng="nl">versnellen<klr tip="ind"> (tr.)</klr></trd>
+  <trd lng="pl">przyspiesza&cacute;</trd>
+  <trdgrp lng="ru">
+    <trd>&c_u;&c_s;&c_k;&c_o;&c_r;&c_i;&c_t;&c_mol;</trd>,
+    <trd>&c_u;&c_s;&c_k;&c_o;&c_r;&c_ja;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="sk">zrýchliť</trd>
+</drv>
+
+<drv mrk="rapid.0igxi">
+  <kap><tld/>i&gcirc;i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="rapid.0igxi.KOMUNE">
+    <dif>
+      I&gcirc;i <tld/>a, agi en pli kaj pli mallonga tempo:
+      <ekz>
+        &scirc;i sentas, ke &scirc;ia koro <tld/>i&gcirc;as
+        <fnt><bib>Gerda</bib>, <lok>&ccirc;apitro 8a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_s;&c_k;&c_a;&c_r;&c_a;&c_c;&c_c;&c_a;</trd>
+  <trd lng="fr">s'<ind>acc&eacute;l&eacute;rer</ind></trd>
+  <trdgrp lng="es">
+    <trd>acelerarse</trd>,
+    <trd>hacerse m&aacute;s y m&aacute;s r&aacute;pido</trd>
+  </trdgrp>
+  <trd lng="nl">versnellen<klr tip="ind"> (intr.)</klr></trd>
+</drv>
+
+<drv mrk="rapid.0umo">
+  <kap><tld/>umo</kap>
+  <snc mrk="rapid.0umo.TEK">
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      &Ccirc;iu el la diversaj gradoj de akcelo de motorveturilo:
+      <ekz>
+        pasi de la 2a al la 3a <tld/>umo.
+      </ekz>
+    </dif>
+    <adm>
+      Plibonigi dif. <aut>MB</aut>
+    </adm>
+  </snc>
+  <trd lng="be">&c_p;&c_je;&c_r;&c_a;&c_d;&c_a;&c_ch;&c_a;
+  <klr>(&c_t;&c_r;&c_a;&c_n;&c_s;&c_m;&c_ib;&c_s;&c_ib;&c_ib;)</klr></trd>
+  <trdgrp lng="cs">
+    <trd>převod</trd>,
+    <trd>rychlostní stupeň <klr>(auta)</klr></trd>
+  </trdgrp>
+  <trd lng="de">Gang</trd>
+  <trd lng="es">velocidad <klr>(de motor)</klr></trd>
+  <trdgrp lng="fr">
+    <trd>rapport<klr tip="ind"> (de bo&icirc;te de vitesse)</klr></trd>,
+    <trd>vitesse<klr tip="ind"> (rapport)</klr></trd>
+  </trdgrp>
+  <trd lng="hu">sebess&eacute;gfokozat</trd>
+  <trd lng="id">gigi (motor)</trd>
+  <trdgrp lng="nl">
+    <trd>versnelling</trd>,
+    <trd>verzet</trd>
+  </trdgrp>
+  <trd lng="pl">bieg <klr tip="amb">(pojazd)</klr></trd>
+  <trd lng="ro">vitez&abreve;</trd>
+  <trd lng="ru">&c_p;&c_je;&c_r;&c_je;&c_d;&c_a;&c_ch;&c_a;<klr
+  tip="amb">
+  (&c_t;&c_r;&c_a;&c_n;&c_s;&c_m;&c_i;&c_s;&c_s;&c_i;&c_i;)</klr></trd>
+  <trd lng="sk">rýchlostný stupeň</trd>
+</drv>
+
+<drv mrk="rapid.fulm0a">
+  <kap>fulm<tld/>a</kap>
+  <snc mrk="rapid.fulm0a.KOMUNE">
+    <dif>
+      Rapidega:
+      <ekz>
+        kiel dronanto en fulm<tld/>aj bildoj rememoras sian tutan 
+        vivon, tiel li rememoris Ligian
+        <fnt><aut>H. Sienkewicz, trad. L. Zamenhof</aut>,
+        <vrk>Quo vadis?</vrk>, <lok>1933</lok></fnt>;
+      </ekz>
+      <ekz>
+        &leftquot;Martina!&rightquot;, mi pensas fulm<tld/>e
+        <fnt><aut>U. Matthias</aut>, <vrk><url 
+        ref="http://www.u-matthias.de/verko/fajron.htm">Fajron sentas 
+        mi interne</url></vrk>, <lok>1990</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">foudroyant<klr> (tr&egrave;s rapide)</klr></trd>
+  <trd lng="nl">bliksemsnel</trd>
+  <trd lng="pl">b&lstroke;yskawiczny</trd>
+</drv>
+
+<drv mrk="rapid.mal0a">
+  <kap>mal<tld/>a</kap>
+  <snc mrk="rapid.mal0a.KOMUNE">
+    <dif>
+      Bezonanta longan tempon por sia agado:
+      <ekz>
+        mal<tld/>e iri.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">pomalý</trd>
+  <trd lng="fr">lent</trd>
+  <trdgrp lng="id">
+    <trd>lama</trd>,
+    <trd>lambat</trd>,
+    <trd>pelan</trd>
+  </trdgrp>
+  <trd lng="sk">pomalý</trd>
+</drv>
+
+<drv mrk="rapid.mal0i">
+  <kap>mal<tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="rapid.mal0i.KOMUNE">
+    <dif>
+      Agi malvigle, malintense, la&ubreve; trankvila takto:
+      <ekz>
+        mia horlo&gcirc;o mal<tld/>as.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="fr">
+    <trd>&ecirc;tre <ind>lent</ind></trd>,
+    <trd>trainer<klr> (&ecirc;tre lent)</klr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: rapid.xml,v $
+Revision 1.34  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.33  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.32  2014/06/03 15:10:36  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.31  2014/05/08 18:11:20  revo
+Damien Brucker: +*
+
+Revision 1.30  2014/01/22 02:10:15  revo
+Jeromo Vasxe: + mal~a/i
+
+Revision 1.29  2013/12/02 09:10:18  revo
+Damien Brucker: -tajperaro
+
+Revision 1.28  2013/11/28 14:10:15  revo
+Damien Brucker: +rim
+
+Revision 1.27  2013/09/02 19:10:12  revo
+Vito Redsky: ald. trd pl
+
+Revision 1.26  2013/02/18 14:10:09  revo
+Dmitri Gabinski: redakto: +trd be
+
+Revision 1.25  2009/07/08 16:31:46  revo
+-->
+</vortaro>

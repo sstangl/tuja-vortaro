@@ -1,0 +1,271 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+  <art mrk="$Id: min.xml,v 1.20 2015/07/04 08:37:39 revo Exp $">
+    <kap>
+      <ofc>*</ofc>
+      <rad>min</rad>/o
+    </kap>
+    <drv mrk="min.0o">
+      <kap><ofc>*</ofc><tld/>o</kap>
+      <snc mrk="min.0o..MIN">
+        <uzo tip="fak">MIN</uzo>
+        <dif>
+          Entera a&ubreve; subtera loko, el kiu oni elfosas metalojn
+          kaj mineralojn:
+          <ekz>
+            fer<tld/>o, or<tld/>o, &scirc;ton<tld/>o<fnt>Z</fnt>;
+          </ekz><ekz>
+            <tld/>gaso.
+          </ekz>
+        </dif>
+        <trdgrp lng="be">
+          <trd>&c_r;&c_a;&c_d;&c_o;&c_v;&c_ib;&c_sh;&c_ch;&c_a;</trd>,
+          <trd>&c_r;&c_u;&c_d;&c_n;&c_ib;&c_k;</trd>
+        </trdgrp>
+        <trd lng="fr">mine</trd>
+        <trdgrp lng="hu">
+          <trd>b&aacute;nya</trd>,
+          <trd>lel&odblac;hely</trd>,
+          <trd>fejt&odblac;</trd>
+        </trdgrp>
+        <trd lng="it">giacimento</trd>
+        <trdgrp lng="pl">
+          <trd>wyrobisko</trd>,
+          <trd>kopalnia</trd>,
+          <trd>szyb</trd>
+        </trdgrp>
+        <trdgrp lng="ru">
+          <trd>&c_m;&c_je;&c_s;&c_t;&c_o;&c_r;&c_o;&c_zh;&c_d;&c_je;&c_n;&c_i;&c_je;</trd>,
+          <trd>&c_r;&c_u;&c_d;&c_n;&c_i;&c_k;</trd>
+        </trdgrp>
+        <trd lng="es">mina</trd>
+      </snc>
+      <snc mrk="min.0o.ujo">
+        <uzo tip="fak">MIL</uzo>
+        <uzo tip="fak">TEK</uzo>
+        <dif>
+          Fosa&jcirc;o subtera a&ubreve; kava&jcirc;o en muro, ponto, roko kc, kie oni
+          metas eksplodan substancon por renversi kaj detrui ion. 
+        </dif>
+        <trd lng="be">&c_m;&c_ib;&c_n;&c_a;</trd>
+        <trd lng="en">mine</trd>
+        <trd lng="hu">akna(folyos&oacute;)</trd>
+        <trd lng="it">mina</trd>
+        <trd lng="pl">podkop <klr tip="amb">(minowy)</klr></trd>
+        <trd lng="ru">&c_m;&c_i;&c_n;&c_a;</trd>
+      </snc>
+      <snc mrk="min.0o.mara">
+        <uzo tip="fak">MIL</uzo>
+        <dif>
+          Eksplodkesto metita en maro por eksplodigi la &scirc;ipojn,
+          kiuj &gcirc;in tu&scirc;os. 
+        </dif>
+        <trd lng="be">&c_m;&c_ib;&c_n;&c_a;</trd>
+        <trd lng="en">mine</trd>
+        <trd lng="fr">mine<klr> (marine)</klr></trd>
+        <trd lng="hu">akna <klr tip="amb">(robban&oacute;szer)</klr></trd>
+        <trd lng="it">mina</trd>
+        <trd lng="pl">mina <klr tip="amb">morska</klr></trd>
+        <trd lng="ru">&c_m;&c_i;&c_n;&c_a;</trd>
+        <trd lng="es"><ind>mina</ind> marina</trd>
+      </snc>
+  <trd lng="br">min</trd>
+  <trd lng="ca">mina</trd>
+  <trdgrp lng="cs">
+    <trd>důlní jáma</trd>,
+    <trd>šachta</trd>,
+    <trd>štola</trd>
+  </trdgrp>
+  <trd lng="de">Mine</trd>
+  <trd lng="nl">mijn</trd>
+  <trdgrp lng="sk">
+    <trd>banská jama</trd>,
+    <trd>šachta</trd>,
+    <trd>štôlňa</trd>
+  </trdgrp>
+</drv>
+    
+    <drv mrk="min.0ajxo">
+      <kap><tld/>a&jcirc;o</kap>
+      <snc>
+        <dif>
+          Pli-malpli unuspeca minerala maso renkontata en
+          <tld/>o,<sncref ref="min.0o.MIN"/>:
+          <ekz>
+            <ind>sterila <tld/>a&jcirc;o</ind>;
+            <trd lng="hu">medd&odblac;k&odblac;zet</trd>
+            <trd lng="ru">&c_p;&c_u;&c_s;&c_t;&c_a;&c_ja; &c_p;&c_o;&c_r;&c_o;&c_d;&c_a;</trd>
+          </ekz><ekz>
+            or<tld/>a&jcirc;o, fer<tld/>ajo.
+          </ekz>
+        </dif>
+        <ref tip="sub" cel="erc.0o">erco</ref>
+      <trdgrp lng="be">
+        <trd>&c_g;&c_o;&c_r;&c_n;&c_a;&c_ja; &c_p;&c_a;&c_r;&c_o;&c_d;&c_a;</trd>,
+        <trd>&c_r;&c_u;&c_d;&c_a;</trd>
+      </trdgrp>                    
+      <trd lng="br">kailh</trd>
+      <trd lng="ca">mineral</trd>
+      <trd lng="de">Erz</trd>
+      <trd lng="en">ore</trd>
+      <trd lng="es">veta</trd>
+      <trdgrp lng="hu">
+        <trd>b&aacute;nyk&odblac;zet</trd>,
+        <trd>&eacute;rc</trd>
+      </trdgrp>
+      <trd lng="nl">erts</trd>
+      <trdgrp lng="pl">
+        <trd>kopalina</trd>,
+        <trd>ruda</trd>
+      </trdgrp>
+      <trd lng="ru">&c_g;&c_o;&c_r;&c_n;&c_a;&c_ja; &c_p;&c_o;&c_r;&c_o;&c_d;&c_a;</trd>
+      </snc>
+    </drv>
+    
+    <drv mrk="min.0ejo">
+      <kap><tld/>ejo</kap>
+      <snc>
+        <dif>
+          Tuto de la aran&gcirc;a&jcirc;oj,
+          <ref tip="prt" cel="sxakt.0o.mineja">&scirc;aktoj</ref>,
+          <ref tip="prt" cel="galeri.0o.mineja">galerioj<sncref/></ref>
+   a&ubreve;
+          <ref tip="prt" cel="korido.0o.GEOL">koridoroj<sncref/></ref>
+          kaj dependa&jcirc;oj faritaj por
+          ekspluatado de <tld/>o,<sncref ref="min.0o.MIN"/>:
+          <ekz>
+            karbo<tld/>ejo, &scirc;ton<tld/>ejo<fnt>Z</fnt>.
+          </ekz> 
+        </dif>
+      </snc>
+  <trdgrp lng="be">
+        <trd>&c_sh;&c_a;&c_h;&c_t;&c_a;</trd>,
+        <trd>&c_k;&c_a;&c_p;&c_a;&c_l;&c_mol;&c_n;&c_ja;</trd>
+      </trdgrp>
+  <trd lng="br">min</trd>
+  <trd lng="ca">mina</trd>
+  <trd lng="cs">minej</trd>
+  <trd lng="de">Mine</trd>
+  <trd lng="en">mine</trd>
+  <trd lng="es">mina</trd>
+  <trd lng="fr">mine</trd>
+  <trd lng="hu">b&aacute;nyatelep</trd>
+  <trd lng="it">miniera</trd>
+  <trd lng="nl">mijn</trd>
+  <trd lng="pl">kopalnia</trd>
+  <trdgrp lng="ru">
+        <trd>&c_sh;&c_a;&c_h;&c_t;&c_a;</trd>,
+        <trd>&c_k;&c_o;&c_p;&c_i;</trd></trdgrp>
+  <trdgrp lng="sk">
+    <trd>baňa</trd>,
+    <trd>lom</trd>
+  </trdgrp>
+</drv>
+    
+    <drv mrk="min.0i">
+      <kap><tld/>i</kap>
+      <gra><vspec>tr</vspec></gra>
+      <snc>
+        <uzo tip="fak">MIL</uzo>
+        <dif>
+          Enmeti en foso a&ubreve; truo eksplodan substancon por renversi
+          kaj detrui ion:
+          <ekz>
+            <tld/>i ponton.
+          </ekz>
+        </dif>
+      </snc>
+  <trd lng="be">&c_m;&c_ib;&c_n;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="br">mina&ntilde;</trd>
+  <trd lng="ca">minar</trd>
+  <trdgrp lng="cs">
+    <trd>dolovat</trd>,
+    <trd>kutat</trd>
+  </trdgrp>
+  <trd lng="de">verminen</trd>
+  <trd lng="en">mine</trd>
+  <trd lng="fr">miner</trd>
+  <trd lng="hu">al&aacute;akn&aacute;z</trd>
+  <trd lng="it">minare</trd>
+  <trd lng="nl">ondermijnen</trd>
+  <trd lng="pl">zaminowywa&cacute;</trd>
+  <trd lng="ru">&c_m;&c_i;&c_n;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>dolovať</trd>,
+    <trd>kutať</trd>
+  </trdgrp>
+</drv>
+    
+    <drv mrk="min.kontraux0i">
+      <kap>kontra&ubreve;<tld/>i</kap>
+      <snc>
+        <uzo tip="fak">MIL</uzo>
+        <dif>
+          Subfosi por malhelpi la <tld/>laboron de la malamiko.  
+        </dif>
+      </snc>
+      <trd lng="be">&c_k;&c_o;&c_n;&c_t;&c_a;&c_r;&c_m;&c_ib;&c_n;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+      <trd lng="ca">contraminar</trd>
+      <trd lng="de">unterminieren</trd>
+      <trdgrp lng="en">
+        <trd>countermine</trd>,
+        <trd>undermine</trd>,
+        <trd>sap</trd>
+      </trdgrp>
+      <trd lng="fr">d&eacute;miner</trd>
+      <trdgrp lng="hu">
+        <trd>ellenakn&aacute;t &aacute;s</trd>,
+        <trd>ellenakn&aacute;t telep&iacute;t</trd>
+      </trdgrp>
+      <trd lng="it">controminare</trd>
+      <trd lng="nl">ondermijnen</trd>
+      <trd lng="pl">rozminowywa&cacute;</trd>
+      <trd lng="ru">&c_k;&c_o;&c_n;&c_t;&c_r;&c_m;&c_i;&c_n;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+    </drv>
+  </art>
+  <!--
+  $Log: min.xml,v $
+  Revision 1.20  2015/07/04 08:37:39  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.19  2015/06/29 16:33:20  revo
+  aldono de trd sk per skripto de M. von Laer
+
+  Revision 1.18  2014/03/20 18:10:14  revo
+  Damien Brucker: +trd fr
+
+  Revision 1.17  2013/04/25 07:10:07  revo
+  Sebastian Cyprych: +trd pl
+
+  Revision 1.16  2012/08/20 00:10:18  revo
+  Marc Rausell: + trd ca
+
+  Revision 1.15  2011/12/31 01:10:09  revo
+  Eduardo Navas: +trad es
+
+  Revision 1.14  2010/06/06 16:31:13  revo
+  Antonio Codazzi: +trd it
+
+  Revision 1.13  2005/05/25 16:31:58  revo
+  Alan ar Gall: +trd br
+
+  Revision 1.12  2004/09/07 16:31:20  revo
+  Sergio Pokrovskij: TEZ
+
+  Revision 1.11  2004/06/17 16:31:19  revo
+  Jozefo Horvath: +trd hu
+  Revision 1.10  2004/05/16 16:31:18  revo
+  Dmitri Gabinski: +trd be
+  Revision 1.9  2002/05/15 16:42:55  revo
+  Alejandro Mejia Greene: ald his trd
+  Revision 1.8  2002/03/18 18:11:48  revo
+  Dennis Wibrow: +trd germ
+  Revision 1.7  2001/11/08 19:12:26  revo
+  Karlo Freeman: +trd = en
+  Revision 1.6  2001/09/26 18:15:25  revo
+  Sergio Pokrovskij: TEZ; minejo laux PIV; minajxo; trd=ru
+  Revision 1.5  2001/09/09 18:18:00  revo
+  Paul Peeraerts: ald trd nl
+  -->
+</vortaro>

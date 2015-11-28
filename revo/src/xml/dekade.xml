@@ -1,0 +1,210 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: dekade.xml,v 1.23 2015/09/13 15:10:19 revo Exp $">
+<kap>
+  <ofc>3</ofc>
+  <rad>dekadenc</rad>/o <fnt>Z</fnt> <fnt><bib>ZR</bib></fnt>
+</kap>
+<drv mrk="dekade.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="dekade.0i.KOMUNE">
+    <dif>
+      Ekruini&gcirc;i, malforti&gcirc;i, malprosperi&gcirc;i.
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="fal.de0i">defali</ref>
+    </refgrp>
+  </snc>
+  <rim mrk="dekade.0i.RIM_SNC">
+    Dekadenci kaj 
+    <ref tip="vid" cel="degene.0i.KOMUNE">degeneri</ref>
+    sence proksimas.  Dekadenci apliki&gcirc;as pli ofte
+    al kulturaj aferoj, degeneri al biologiaj aferoj.
+    <aut>&jcirc;v</aut>
+  </rim>
+  <trd lng="be">&c_z;&c_a;&c_n;&c_ja;&c_p;&c_a;&c_s;&c_mol;&c_c;&c_ib;</trd>
+  <trdgrp lng="ca">
+    <trd>decaure</trd>,
+    <trd>decandir-se</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>dekadent sein</trd>,
+    <trd>dekadent werden</trd>,
+    <trd>verfallen</trd>,
+    <trd>verfallen sein</trd>,
+    <trd>heruntergekommen</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>be decadent</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>p&eacute;ricliter</trd>,
+    <trd>&ecirc;tre sur la d&eacute;clin</trd>,
+    <trd>tomber dans la <ind>d&eacute;ch&eacute;ance</ind></trd>,
+    <trd>tomber en <ind>d&eacute;cadence</ind></trd>
+  </trdgrp>
+  <trd lng="hu">hanyatlik</trd>
+  <trdgrp lng="pl">
+    <trd>popada&cacute; w <ind>dekadencj&eogonek;</ind></trd>,
+    <trd>popada&cacute; w <ind>ruin&eogonek;</ind></trd>,
+    <trd>chyli&cacute; si&eogonek; ku <ind>upadkowi</ind></trd>
+  </trdgrp>
+  <trd lng="ru">&c_p;&c_r;&c_i;&c_j;&c_t;&c_i; &c_v; <ind>&c_u;&c_p;&c_a;&c_d;&c_o;&c_k;</ind></trd>
+  <trd lng="sk">upada&tcaron;</trd>
+  <trdgrp lng="cs">
+    <trd>sl&aacute;bnout</trd>,
+    <trd>upadat</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="dekade.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="dekade.0o.KOMUNE">
+    <dif>
+      Stato de io <tld/>anta:
+      <ekz>
+        <tld/>o de literaturo;
+      </ekz>
+      <ekz>
+        la <tld/>o de la Roma Imperio.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="degene.0o.KOMUNE">degenero</ref>,
+      <ref cel="kaduk.0eco">kadukeco</ref>,
+      <ref cel="krepus.0o">krepusko</ref>
+    </refgrp>
+  </snc>
+  <adm>
+    Mankas ekzemplo por difini precize, al kio la termino apliki&gcirc;as.
+    <aut>MB</aut>
+  </adm>
+  <trdgrp lng="be">
+    <trd>&c_z;&c_a;&c_n;&c_ja;&c_p;&c_a;&c_d;</trd>,
+    <trd>&c_d;&c_e;&c_k;&c_a;&c_d;&c_a;&c_n;&c_s;</trd>
+  </trdgrp>
+  <trd lng="ca">decad&egrave;ncia</trd>
+  <trdgrp lng="de">
+    <trd>Dekadenz</trd>,
+    <trd>Verfall</trd>,
+    <trd>Niedergang</trd>,
+    <trd>geistige <ind>Entartung</ind></trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>decadence</trd>,
+    <trd>decline</trd>,
+    <trd>decay</trd>
+  </trdgrp>
+  <trd lng="es">decadencia</trd>
+  <trdgrp lng="fr">
+    <trd>d&eacute;cadence</trd>,
+    <trd>d&eacute;ch&eacute;ance<klr tip="ind">
+    (affaiblissement)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>hanyatl&aacute;s</trd>,
+    <trd>dekadencia</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>dekadencja</trd>,
+    <trd>schy&lstroke;ek</trd>
+  </trdgrp>
+  <trd lng="pt">decad&ecirc;ncia</trd>
+  <trdgrp lng="ru">
+    <trd>&c_u;&c_p;&c_a;&c_d;&c_o;&c_k;</trd>,
+    <trd>&c_z;&c_a;&c_k;&c_a;&c_t;</trd>,
+    <trd>&c_d;&c_je;&c_k;&c_a;&c_d;&c_a;&c_n;&c_s;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>dekadencia</trd>,
+    <trd>&uacute;padok mravov</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>dekadence</trd>,
+    <trd>&uacute;padek mrav&uring;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="dekade.0igi">
+  <kap><tld/>igi</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="dekade.0igi.KOMUNE">
+    <dif>
+      Ka&ubreve;zi <tld/>on de:
+      <ekz>
+        alkoholo <tld/>igas popolojn.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="ca">provocar la decad&egrave;ncia de</trd>
+  <trd lng="cs">zp&uring;sobit &uacute;padek</trd>
+  <trd lng="en">make decadent</trd>
+  <trd lng="es">decaer</trd>
+  <trd lng="hu">hanyatl&aacute;sba d&ouml;nt</trd>
+  <trdgrp lng="pl">
+    <trd>doprowadza&cacute; do <ind>upadku</ind></trd>
+  </trdgrp>
+  <trd lng="ru">&c_p;&c_r;&c_i;&c_v;&c_je;&c_s;&c_t;&c_i; &c_v; <ind>&c_u;&c_p;&c_a;&c_d;&c_o;&c_k;</ind></trd>
+  <trd lng="sk">sp&ocirc;sobi&tcaron; &uacute;padok</trd>
+</drv>
+
+<drv mrk="dekade.0ismo">
+  <kap>dekadencismo</kap>
+  <snc mrk="dekade.0ismo.BELA"> 
+    <uzo tip="fak">BELA</uzo>    
+    <uzo tip="fak">BELE</uzo>
+    <dif>
+      Arta stilo &scirc;atanta bildojn de <tld/>o,
+      afektojn de ekstremaj delikateco, sentemo kaj voluptemo;
+      interalie tiaspeca e&ubreve;ropa stilo el la fino de
+      la 19a jarcento:
+      <ekz>
+        se vi nur montri&gcirc;os en blanka kompleto, kun ru&gcirc;a kravato kaj du 
+        gardenioj enmane, mi ja ne postulos de vi ajnan klarigon. Min 
+        &ccirc;armas <tld/>ismo
+        <fnt>
+          <aut>M. Fern&aacute;ndez</aut>,
+          <vrk>Du Gardenioj</vrk>,
+          <lok>en: Ekstremoj, 1997</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="en">Decadent movement</trd>
+  <trd lng="ca">decadentisme</trd>
+  <trdgrp lng="fr">
+    <trd>d&eacute;cadence<klr> (style)</klr></trd>,
+    <trd>d&eacute;cadentisme</trd>
+  </trdgrp>
+  <trd lng="pl">dekadentyzm</trd>
+</drv>
+</art>
+<!--
+$Log: dekade.xml,v $
+Revision 1.23  2015/09/13 15:10:19  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.22  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.21  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.20  2014/01/22 02:10:17  revo
+Jeromo Vasxe: reord drv, + rim
+
+Revision 1.19  2013/05/09 07:10:12  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.18  2012/09/04 08:10:22  revo
+Marc Rausell: + trd ca
+
+Revision 1.17  2011/01/03 12:10:09  revo
+Jeromo Vasxe: + ~ismo
+
+Revision 1.16  2009/04/30 16:30:51  revo
+-->
+</vortaro>

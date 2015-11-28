@@ -1,0 +1,135 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: homeom.xml,v 1.18 2015/07/04 08:37:35 revo Exp $">
+<kap>
+  <rad>homeomorfi</rad>/o
+</kap>
+<drv mrk="homeom.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>PIV2</bib></fnt>
+  <snc>
+    <dif>
+      Tia <ref tip="super" cel="bijekc.0o">bijekcio</ref> inter du
+      <ref cel="spac.topologia0o">topologiaj spacoj</ref>, ke la
+      <ref cel="bild.0o.subaro">bildo</ref> kaj la
+      <ref cel="bild.inversa0o.subaro">inversa bildo</ref> de
+      <ref cel="ferm.mal0ita.topologio">malfermita</ref> subaro de unu
+      spaco
+      estas malfermita anka&ubreve; en la alia:
+      <ekz>
+        la <tld/>oj konsistas el &ccirc;iuj
+        <ref cel="kontin3.0a.cxie">kontinuaj</ref> bijekcioj, kies
+        inverso
+        estas mem kontinua;
+      </ekz>
+      <ekz>
+        la <ref cel="grup.0o.MAT">grupo</ref> de &ccirc;iuj <tld/>oj
+        de topologia spaco al si mem.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_g;&c_o;&c_m;&c_e;&c_a;&c_m;&c_a;&c_r;&c_f;&c_ib;&c_z;&c_m;</trd>
+  <trd lng="cs">homeomorfie</trd>
+  <trd lng="de">Hom&ouml;omorphismus</trd>
+  <trd lng="en">homeomorphism</trd>
+  <trdgrp lng="fr">
+    <trd>hom&eacute;omorphie</trd>,
+    <trd>hom&eacute;omorphisme</trd>
+  </trdgrp>
+  <trd lng="hu">homeomorfizmus</trd>
+  <trd lng="it">omeomorfismo</trd>
+  <trd lng="nl">homeomorfie</trd>
+  <trd lng="pl">homeomorfizm</trd>
+  <trd lng="pt">homeomorfismo</trd>
+  <trd lng="ru">&c_g;&c_o;&c_m;&c_je;&c_o;&c_m;&c_o;&c_r;&c_f;&c_i;&c_z;&c_m;</trd>
+  <trd lng="sk">homeomorfia</trd>
+</drv>
+
+<drv mrk="homeom.0a">
+  <kap><tld/>a</kap>
+  <uzo tip="fak">MAT</uzo>
+  <snc mrk="homeom.0a.strukt">
+    <dif>
+      <klr>(p.p. du <ref cel="spac.topologia0o">topologiaj
+      spacoj</ref>)</klr>
+      Tiaj, ke ekzistas <ref cel="homeom.0o"><tld/>o</ref> de unu al la
+      alia:
+      <ekz>
+        la <ind><tld/>eco</ind> de &ccirc;iuj
+        <ref cel="pov.sam0a">sampovaj</ref> spacoj kun diskreta
+        topologio
+        estas evidenta.
+        <trd lng="en">homeomorphism</trd>
+        <trd lng="de">Hom&ouml;omorphie</trd>
+        <trd lng="fr">hom&eacute;omorphie</trd>
+        <trd lng="hu">homeomorfizmus</trd>
+        <trd lng="it">omeomorfo</trd>
+        <trd lng="nl">homeomorf</trd>
+        <trd lng="pl">homeomorficzno&sacute;&cacute;</trd>
+        <trd lng="ru">&c_g;&c_o;&c_m;&c_je;&c_o;&c_m;&c_o;&c_r;&c_f;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
+      </ekz>
+    </dif>
+    <rim>
+      Por &ccirc;i tiu senco ekzistas sinonimo <ctl>homeomorfa</ctl>.
+    </rim>
+    <adm>
+      MatVort donas nur &leftquot;homeomorfa&rightquot; cxi-sence. <aut>MB</aut>
+    </adm>
+  </snc>
+  <snc mrk="homeom.0a.bildigo">
+    <fnt><bib>PIV2</bib></fnt>
+    <dif>
+      <klr>(p.p. <ref cel="bild.0igo.MAT">bildigo</ref>)</klr>
+      Havanta ecojn de <ref cel="homeom.0o"><tld/>o</ref>.
+    </dif>
+  </snc>
+  <adm>
+    &Ccirc;u ne indus inter&scirc;an&gcirc;i la nederlandajn tradukojn
+    de ~a / ~eco? <aut>MB</aut>
+  </adm>
+  <trd lng="be">&c_g;&c_o;&c_m;&c_e;&c_a;&c_m;&c_o;&c_r;&c_f;&c_n;&c_y;</trd>
+  <trd lng="en">homeomorphic</trd>
+  <trd lng="de">hom&ouml;omorph</trd>
+  <trd lng="fr">hom&eacute;omorphe</trd>
+  <trd lng="hu">homeomorfikus</trd>
+  <trd lng="nl">homeomorfie</trd>
+  <trd lng="pl">homeomorficzny</trd>
+  <trd lng="pt">homeom&oacute;rfico</trd>
+  <trd lng="ru">&c_g;&c_o;&c_m;&c_je;&c_o;&c_m;&c_o;&c_r;&c_f;&c_n;&c_y;&c_j;</trd>
+</drv>
+</art>
+<!--
+$Log: homeom.xml,v $
+Revision 1.18  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.16  2009/09/17 16:30:35  revo
+Antonio Codazzi: +trd it
+
+Revision 1.15  2004/09/20 18:28:48  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.14  2003/12/19 17:57:21  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.13  2003/04/07 16:35:22  revo
+Marc Bavant: ~a: +ref interna
+
+Revision 1.12  2003/03/23 17:32:58  revo
+Marc Bavant: ~eco: +trd pl, +adm
+Revision 1.11  2003/03/05 17:34:26  revo
+Marc Bavant: ~a: +fnt
+Revision 1.10  2003/01/02 17:46:36  revo
+Marc Bavant: +trd pl
+Revision 1.9  2002/07/17 17:31:37  revo
+Eduardo M. Kalinowski: ald trd pt
+Revision 1.8  2002/05/27 17:17:50  revo
+Marc Bavant: ~o: +fnt
+-->
+</vortaro>

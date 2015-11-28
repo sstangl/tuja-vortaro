@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: centi.xml,v 1.2 2013/09/09 10:10:21 revo Exp $">
+<kap>
+  <rad>centi</rad>- <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="centi.0">
+  <kap><tld/>-</kap>
+  <mlg>c</mlg>
+  <gra><vspec>prefikso</vspec></gra>
+  <snc mrk="centi.0.MEZ">
+    <uzo tip="fak">FIZ</uzo>
+    <dif>
+      &leftquot;Centono da&rightquot; (0,01)
+      en la Internacia Sistemo de unuoj (SI):
+        <ekz>
+          <ref tip="vid" cel="centil.0o"><tld/>litro</ref>;
+        </ekz>
+        <ekz>
+          <ref tip="vid" cel="centig.0o"><tld/>gramo</ref>.
+        </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_a;&c_n;&c_t;&c_y;-</trd>
+  <trd lng="bg">&c_s;&c_a;&c_n;&c_t;&c_i;-</trd>
+  <trd lng="ca">cent&iacute;-</trd>
+  <trd lng="de">Zenti-</trd>
+  <trd lng="el">&epsilon;&kappa;&alfa;&tau;&omikron;&sigma;&tau;&omikron_ton;-</trd>
+  <trd lng="en">centi-</trd>
+  <trd lng="es">cent&iacute;-</trd>
+  <trd lng="fa">&a_s;&a_A;&a_n;&a_t;&f_y;</trd>
+  <trd lng="fr">centi-</trd>
+  <trd lng="hu">centi-</trd>
+  <trd lng="it">centi-</trd>
+  <trd lng="nl">centi-</trd>
+  <trd lng="no">senti-</trd>
+  <trd lng="pl">centy-</trd>
+  <trd lng="pt">cent&iacute;-</trd>
+  <trd lng="ru">&c_s;&c_a;&c_n;&c_t;&c_i;-</trd>
+  <trd lng="sk">centi-</trd>
+  <trd lng="sv">centi-</trd>
+</drv>
+</art>
+
+<!--
+$Log: centi.xml,v $
+Revision 1.2  2013/09/09 10:10:21  revo
+Joop Eggen: +trd bg k.a.
+
+Revision 1.1  2011/01/05 21:10:12  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

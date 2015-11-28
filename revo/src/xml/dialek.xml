@@ -1,0 +1,191 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: dialek.xml,v 1.23 2015/07/04 08:37:32 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>dialekt</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="dialek.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="dialek.0o.LIN">
+    <uzo tip="fak">LIN</uzo>
+    <dif>
+      Aparta formo, kiun ricevas <ref tip="super"
+      cel="lingv.0o.homa">lingvo</ref> en
+      regiono a&ubreve; socia grupo:
+      <ekz>
+        la enmigrintoj kreis strangan <tld/>on de la angla;
+      </ekz>
+      <ekz>
+        ni devas gardi la lingvon de pereiga disfalo je diversaj
+        <tld/>oj<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+    <rim mrk="dialek.0o.RIM">
+      Kontraste al <ref tip="super" cel="idiom.0o">idiomo</ref>,
+      <tld/>o implicas ideon de kadra lingvo, rilate al kiu &gcirc;i
+      rolas
+      kiel vario; kontraste al
+      <ref tip="sub" cel="jxargo.0o">&jcirc;argono</ref>,
+      <tld/>o estas pli kompleta lingva sistemo, kiu povas posedi
+      siajn fonetikajn kaj gramatikajn aparta&jcirc;ojn; ekz-e oni
+      povas
+      paroli pri
+      <ekz>
+        nobela, klerula dialektoj
+      </ekz>
+      kaj pri iliaj aparta&jcirc;oj fonetikaj kaj gramatikaj; kaj
+      pli
+      speciale, pri
+      <ekz>
+        kortega, teologia &jcirc;argonoj.
+      </ekz>
+      <aut>Sergio Pokrovskij</aut>
+    </rim>
+  </snc>
+  <trd lng="be">&c_d;&c_y;&c_ja;&c_l;&c_je;&c_k;&c_t;</trd>
+  <trd lng="bg">&c_d;&c_i;&c_a;&c_l;&c_je;&c_k;&c_t;</trd>
+  <trdgrp lng="cs">
+    <trd>dialekt</trd>,
+    <trd>n&aacute;&rcaron;e&ccaron;&iacute;</trd>,
+    <trd>nářečí</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Dialekt</trd>,
+    <trd>Mundart</trd>
+  </trdgrp>
+  <trd lng="el">&delta;&jota;&alfa_ton;&lambda;&epsilon;&kappa;&tau;&omikron;&sigma_fina;</trd>
+  <trd lng="en">dialect</trd>
+  <trd lng="es">dialecto</trd>
+  <trd lng="fa">&f_g;&a_w;&f_y;&a_sh;</trd>
+  <trdgrp lng="fr">
+    <trd>dialecte</trd>,
+    <trd>parler<klr tip="ind"> (dialecte)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>t&aacute;jsz&oacute;l&aacute;s</trd>,
+    <trd>dialektus</trd>
+  </trdgrp>
+  <trdgrp lng="id">
+    <trd>dialek</trd>,
+    <trd>logat</trd>
+  </trdgrp>
+  <trd lng="nl">dialect</trd>
+  <trdgrp lng="pl">
+    <trd>dialekt</trd>,
+    <trd>gwara</trd>,
+    <trd>narzecze</trd>
+  </trdgrp>
+  <trd lng="pt">dialeto</trd>
+  <trd lng="ru">&c_d;&c_i;&c_a;&c_l;&c_je;&c_k;&c_t;</trd>
+  <trd lng="sk">n&aacute;re&ccaron;ie</trd>
+</drv>
+
+<drv mrk="dialek.etna0o">
+  <kap>etna <tld/>o</kap>
+  <snc mrk="dialek.etna0o.LIN">
+    <uzo tip="fak">LIN</uzo>
+    <dif>
+      <ref tip="super" cel="dialek.0o.LIN"><tld lit="D"/>o</ref>
+      propra al aparta etno.
+    </dif>
+  </snc>
+  <trd lng="en">ethnic dialect</trd>
+  <trd lng="fr">ethnolecte</trd>
+  <trd lng="id"><ind>dialek</ind> etnis</trd>
+  <trd lng="ru">&c_e;&c_t;&c_n;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j; <ind>&c_d;&c_i;&c_a;&c_l;&c_je;&c_k;&c_t;</ind></trd>
+</drv>
+
+<drv mrk="dialek.regiona0o">
+  <kap>regiona <tld/>o</kap>
+  <snc mrk="dialek.regiona0o.LIN">
+    <uzo tip="fak">LIN</uzo>
+    <dif>
+      <ref tip="super" cel="dialek.0o.LIN"><tld lit="D"/>o</ref>
+      propra al aparta regiono.
+    </dif>
+  </snc>
+  <trdgrp lng="en">
+    <trd>local <ind>dialect</ind></trd>,
+    <trd>territorial <ind>dialect</ind></trd>
+  </trdgrp>
+  <trd lng="fr">dialecte r&eacute;gional</trd>
+  <trd lng="id"><ind>dialek</ind> regional</trd>
+  <trdgrp lng="pl">
+    <trd>gwara lokalna</trd>,
+    <trd>lokalny <ind>dialekt</ind></trd>,
+    <trd>narzecze</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_m;&c_je;&c_s;&c_t;&c_n;&c_y;&c_j;
+    <ind>&c_d;&c_i;&c_a;&c_l;&c_je;&c_k;&c_t;</ind></trd>,
+    <trd>&c_n;&c_a;&c_r;&c_je;&c_ch;&c_i;&c_je;</trd>,
+    <trd>&c_g;&c_o;&c_v;&c_o;&c_r;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="dialek.socia0o">
+  <kap>socia <tld/>o</kap>
+  <snc mrk="dialek.socia0o.LIN">
+    <uzo tip="fak">LIN</uzo>
+    <dif>
+      <ref tip="super" cel="dialek.0o.LIN"><tld lit="D"/>o</ref>
+      propra al aparta socia subgrupo;
+      <ref tip="sin" cel="sociolekt.0o.LIN">sociolekto</ref>.
+    </dif>
+  </snc>
+  <trd lng="en">social dialect</trd>
+  <trd lng="id"><ind>dialek</ind> sosial</trd>
+  <trd lng="fr">sociolecte</trd>
+  <trd lng="ru">&c_s;&c_o;&c_c;&c_i;&c_a;&c_l;&c_mol;&c_n;&c_o;-&c_g;&c_r;&c_u;&c_p;&c_p;&c_o;&c_v;&c_o;&c_j;
+  <ind>&c_d;&c_i;&c_a;&c_l;&c_je;&c_k;&c_t;</ind></trd>
+</drv>
+
+<drv mrk="dialek.dis0igxi">
+  <kap>dis<tld/>i&gcirc;i</kap>
+  <snc mrk="dialek.dis0igxi.LIN">
+    <uzo tip="fak">LIN</uzo>
+    <uzo tip="klr">(pri lingvo)</uzo>
+    <dif>
+      Disparti&gcirc;i je pluraj <tld/>oj:
+      <ekz>
+        la latina lingvo dis<tld/>i&gcirc;inte naskis latinidajn
+        lingvojn.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">se fragmenter en dialectes</trd>
+</drv>
+</art>
+<!--
+$Log: dialek.xml,v $
+Revision 1.23  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.22  2014/10/28 04:10:56  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.21  2013/02/27 12:10:10  revo
+Jeromo Vasxe: memstar dis~igxi etna/regiona/socia ~o
+
+Revision 1.20  2010/12/26 17:07:57  revo
+Glavkos Xaon: greka defino
+
+Revision 1.19  2009/09/11 16:31:06  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.18  2009/06/14 16:31:15  revo
+Wieland Pusch: +trd bg,en
+
+Revision 1.17  2009/06/09 16:31:25  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.16  2007/07/24 19:11:44  revo
+Tulio Flores: +tr pt
+
+Revision 1.15  2003/12/13 17:32:34  revo
+-->
+</vortaro>

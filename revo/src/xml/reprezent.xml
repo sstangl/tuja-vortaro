@@ -1,0 +1,170 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: reprezent.xml,v 1.13 2015/07/04 08:37:42 revo Exp $">
+<kap>
+<ofc>*</ofc>
+<rad>reprezent</rad>/i
+</kap>
+<drv mrk="reprezent.0i">
+   <kap><ofc>*</ofc><tld/>i</kap>
+   <gra><vspec>tr</vspec></gra>
+   <snc mrk="reprezent.0i.anstatauxi">
+     <dif>
+       La&ubreve;komisie <ref tip="super" 
+cel="anstat.0i">anstata&ubreve;i</ref>
+       iun en la plenumado de lia tasko a&ubreve; rajto:
+       <ekz>
+         ambasadoro <tld/>as sian regnon kaj deputito siajn
+         deputintojn;
+       </ekz>
+       <ekz>
+         projekto pri rajtigita <tld/>ado de la esperantistoj;
+       </ekz>
+       <ekz>
+         <tld/>i firmaon
+         <klr>(voja&gcirc;i kaj komerci en &gcirc;ia nomo)</klr>;
+       </ekz>
+       <ekz>
+         funkcii kiel <tld/>anto;
+       </ekz>
+       <ekz>
+         <uzo tip="stl">FIG</uzo>
+         mi vidas grandan nombron da amikoj, kiu <tld/>as
+         per si preska&ubreve; &ccirc;iujn landojn de la tera
+         globo<fnt>Z</fnt>.
+       </ekz>
+     </dif>
+     <trd lng="de">vertreten</trd>
+     <trd lng="hu">k&eacute;pvisel</trd>
+   </snc>
+   <snc mrk="reprezent.0i.simboli">
+     <dif>
+       Esti la signo de:
+       <ekz>
+         en Esperanto &ccirc;iu litero <tld/>as unusolan sonon.
+       </ekz>
+     </dif>
+     <rim>
+       Ofte oni povas samsence uzi <ref tip="vid"
+       cel="prezen1.0i.SCI">prezenti</ref>;
+       kvankam la metaforoj estas malsamaj (litero <tld/>as sonon
+       kiel ambasadoro <tld/>as sian re&gcirc;on; litero prezentas sonon
+       kiel figura&jcirc;o prezentas sian originalon, kiel grafika&jcirc;o
+       prezentas funkcion ktp), tamen oni atentu la regadon:
+       &leftquot;<tld/>i&rightquot; similas al <ctl>anstata&ubreve;i</ctl>,
+       &leftquot;prezenti&rightquot; similas al <ctl>esprimi</ctl>; do, 
+eblas
+       diri
+       <ekz>
+         mi prezentas tiun rilaton per grafeo
+       </ekz>
+       , dum
+       <ekz>
+         mi <tld/>as ion
+       </ekz>
+       signifas ke mi mem estas la
+       <tld/>anto.  Tial en la scienca-te&hcirc;nika senco simbola 
+preferindas
+       uzi <ctl>prezenti</ctl>, <ctl>prezento</ctl>.
+       <aut>Sergio Pokrovskij</aut>
+     </rim>
+     <trdgrp lng="de">
+       <trd>darstellen</trd>;
+       <trd>repr&auml;sentieren</trd>
+     </trdgrp>
+     <trdgrp lng="hu">
+       <trd>&aacute;br&aacute;zol</trd>,
+       <trd>k&eacute;pvisel</trd>
+     </trdgrp>
+   </snc>
+   <snc mrk="reprezent.0i.bildigi">
+     <uzo tip="stl">EVI</uzo>
+     <dif>
+       <ref tip="dif" cel="prezen1.0i.bildigi">Prezenti</ref>.
+     </dif>
+   </snc>
+   <ref tip="hom" cel="prezen1.re0i">re&middot;prezent&middot;i</ref>
+   <rim>
+   Vidu la rimarkon &ccirc;e <ref cel="re.0rim">re-</ref>.
+   </rim>
+     <trd lng="es">representar</trd>
+     <trd lng="fr">repr&eacute;senter</trd>
+   <trdgrp lng="be">
+     <trd>&c_r;&c_e;&c_p;&c_r;&c_e;&c_z;&c_e;&c_n;&c_t;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
+     <trd>&c_p;&c_r;&c_a;&c_d;&c_s;&c_t;&c_a;&c_w;&c_l;&c_ja;&c_c;&c_mol;</trd>
+   </trdgrp>
+   <trd lng="nl">vertegenwoordigen</trd>
+   <trd lng="pl">reprezentowa&cacute;</trd>
+   <trd lng="ru">&c_p;&c_r;&c_je;&c_d;&c_s;&c_t;&c_a;&c_v;&c_l;&c_ja;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>predstavovať</trd>,
+    <trd>reprezentovať</trd>,
+    <trd>zastupovať</trd>,
+    <trd>znovu predniesť</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>představovat</trd>,
+    <trd>reprezentovat</trd>,
+    <trd>zastupovat</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="reprezent.0igi">
+   <kap><tld/>igi</kap>
+   <gra><vspec>tr</vspec></gra>
+   <snc>
+     <dif>
+       Nomumi <tld/>anton kaj komisii al li taskon:
+       <ekz>
+         la re&gcirc;o sin <tld/>igis per la &ccirc;efministro.
+       </ekz>
+     </dif>
+   </snc>
+   <trd lng="be">&c_d;&c_a;&c_r;&c_u;&c_ch;&c_y;&c_c;&c_mol; 
+<ind>&c_p;&c_r;&c_a;&c_d;&c_s;&c_t;&c_a;&c_w;&c_l;&c_ja;&c_c;&c_mol;</ind></trd>
+   <trd lng="es">nombrar <ind>representante</ind></trd>
+   <trd lng="fr">se faire <ind>repr&eacute;senter</ind></trd>
+   <trdgrp lng="de">
+       <trd><klr>zum </klr>Vertreter <ind>bestellen</ind></trd>;
+       <trd><klr>zum </klr>Stellvertreter <ind>ernennen</ind></trd>
+   </trdgrp>
+   <trd lng="hu">k&eacute;pviseltet</trd>
+   <trd lng="nl">doen <ind>vertegenwoordigen</ind></trd>  
+   <trd lng="ru">&c_p;&c_o;&c_r;&c_u;&c_ch;&c_i;&c_t;&c_mol;
+   &c_p;&c_r;&c_je;&c_d;&c_s;&c_t;&c_a;&c_v;&c_l;&c_ja;&c_t;&c_mol;</trd>
+</drv>
+</art>
+<!--
+$Log: reprezent.xml,v $
+Revision 1.13  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.12  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.11  2014/10/11 18:10:24  revo
+Guillermo Molleda Jimena: trd es
+
+Revision 1.10  2014/05/12 06:10:14  revo
+Damien Brucker: +rim
+
+Revision 1.9  2014/01/09 10:10:15  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.8  2009/09/23 17:26:27  revo
+Paul Peeraerts: +nl
+
+Revision 1.7  2004/09/22 16:31:13  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.6  2004/02/06 17:31:06  revo
+Emmanuel Debanne: + trd fr
+
+Revision 1.5  2003/08/17 17:27:52  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.4  2003/01/14 17:36:09  revo
+-->
+</vortaro>

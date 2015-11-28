@@ -1,0 +1,182 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: procen.xml,v 1.20 2015/07/04 08:37:42 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>procent</rad>/o
+</kap>
+<drv mrk="procen.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc>
+  <uzo tip="fak">EKON</uzo>
+    <dif>
+      Profito produktata de monsumo pruntita a&ubreve; &scirc;uldata:
+      <ekz>
+        <tld/>a dono;
+      </ekz>
+      <ekz>
+        pruntado pro <tld/>oj.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="intere1.0o">interezo</ref>
+    <trdgrp lng="en">
+      <trd>rate<klr tip="amb"> (financial)</klr></trd>,
+      <trd>interest rate</trd>
+    </trdgrp>
+    <trd lng="fr">int&eacute;r&ecirc;t<klr> (financier)</klr></trd>
+    <trd lng="hu">kamat</trd>
+    <trd lng="nl">rente</trd> 
+    <trdgrp lng="pt">
+      <trd>porcentagem</trd>,  
+      <trd>percentagem</trd>
+    </trdgrp>
+  </snc>
+  <snc>
+  <uzo tip="fak">EKON</uzo>
+    <dif>
+      Profito produktata de cent monunuoj dum unu jaro:
+      <ekz>
+        la <ref tip="dif" cel="divide.0o">dividendo</ref> estos 5
+        <tld/>oj
+        <klr>(5%)</klr>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="rent.0o">rento</ref>.
+    </refgrp>
+    <trdgrp lng="en">
+      <trd>rate<klr tip="amb"> (financial)</klr></trd>,
+      <trd>yield<klr tip="amb"> (financial)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>rente</trd>,
+      <trd>dividende</trd>
+    </trdgrp>
+    <trd lng="hu">kamatl&aacute;b</trd>
+    <trd lng="nl">procent</trd>
+  </snc>
+  <snc>
+  <uzo tip="fak">MAT</uzo>
+    <dif>
+      Valoro a&ubreve; taksado difinita rilate al la nombro cent:
+      <ekz>
+        en la vortaro oni povus &scirc;an&gcirc;i nur iujn 10 <tld/>ojn
+        (centonojn) da
+        vortoj<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        mi ricevas <tld/>on de &ccirc;iuj eldonoj<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        li kalkulis la <tld/>ojn de l' pola lo&gcirc;antaro en la prusaj
+        provincoj.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="cent.el0o">elcento</ref>,
+      <ref cel="cent.po0o">pocento</ref>,
+      <ref cel="cent.0ono">centono</ref>
+    </refgrp>
+    <rim>
+      Por la senco 3 &scirc;ajnas preferinde uzi <em>elcento</em> a&ubreve;
+      <em>pocento</em> a&ubreve; <em>centono</em> kaj lasi al <tld/>o sencon
+      nur
+      financan.
+    </rim>
+    <trdgrp lng="fr">
+    <trd>pourcent</trd>,
+    <trd>pourcentage</trd>
+    </trdgrp>
+
+    <trd lng="hu">sz&aacute;zal&eacute;k</trd>
+    <trd lng="nl">percent<klr tip="ind"> (ontr.)</klr></trd>
+  </snc>
+  <rim>
+   Vidu tiun <ref cel="re.0rim">rimarkon</ref>.
+   </rim>
+  <trdgrp lng="en">
+    <trd>per cent</trd>,
+    <trd>percent</trd>,
+    <trd>per centum</trd>,
+    <trd>percentage</trd>
+  </trdgrp>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_r;&c_a;&c_c;&c_e;&c_n;&c_t;</trd>,
+    <trd>&c_a;&c_d;&c_s;&c_o;&c_t;&c_a;&c_k;</trd>
+  </trdgrp>
+  <trd lng="ru">&c_p;&c_r;&c_o;&c_c;&c_je;&c_n;&c_t;</trd>
+  <trdgrp lng="sk">
+    <trd>percento</trd>,
+    <trd>úrok</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>procento ,, procentuální výnos</trd>,
+    <trd>zisk</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="procen.0ego">
+  <kap><tld/>ego</kap>
+  <snc>
+  <uzo tip="fak">EKON</uzo>
+    <dif>
+      <tld lit="P"/>o pli granda ol la le&gcirc;a, kutima; uzuro:
+      <ekz>
+        prunte doni <tld/>ege<fnt>Z</fnt>,
+      </ekz>
+      <ekz>
+        kontra&ubreve; <tld/>ego<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        <tld/>egisto.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>nadměrný zisk</trd>,
+    <trd>nadměrný úrok</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>extortionate interest</trd>,
+    <trd>usury</trd>
+  </trdgrp>
+  <trd lng="fr">usure</trd>
+  <trd lng="hu">uzsorakamat</trd>
+  <trd lng="nl">woekerrente</trd>
+  <trd lng="sk">úžernícky úrok</trd>
+</drv>
+</art>
+<!--
+$Log: procen.xml,v $
+Revision 1.20  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2014/05/21 07:10:58  revo
+Damien Brucker: sxangxo cxe rim
+
+Revision 1.17  2014/05/12 06:10:16  revo
+Damien Brucker: +rim
+
+Revision 1.16  2014/03/22 08:10:16  revo
+Damien Brucker: +ref
+
+Revision 1.15  2014/03/12 12:10:15  revo
+Damien Brucker: +ref +trd fr +fak
+
+Revision 1.14  2014/01/14 16:10:09  revo
+Damien Brucker: +trd fr
+
+Revision 1.13  2011/01/25 11:10:10  revo
+Russ Williams: +trd en
+
+Revision 1.12  2009/10/30 17:30:40  revo
+Paul Peeraerts: +nl
+
+Revision 1.11  2006/03/20 17:33:39  revo
+-->
+</vortaro>

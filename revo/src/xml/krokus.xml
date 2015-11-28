@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: krokus.xml,v 1.19 2014/03/26 16:10:26 revo Exp $">
+<kap>
+  <rad>krokus</rad>/o
+</kap>
+<drv mrk="krokus.0o">
+  <kap>
+    <tld/>o
+  </kap>
+  <snc>
+  <uzo tip="fak">BOT</uzo>
+    <dif>
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:botanikaj_genroj">Genro</ref> el familio <ref
+      tip="malprt"
+      cel="iridac.0oj">iridacoj</ref>
+      (<trd lng="la">Crocus</trd>), kies unu specio estas safrano.
+    </dif>
+  </snc>
+  <bld lok="../bld/krokus.jpg">
+    &gcirc;ardene kulturataj <tld/>oj
+  </bld>
+  <trd lng="be">&c_k;&c_r;&c_o;&c_k;&c_u;&c_s;</trd>
+  <trd lng="bg">&c_m;&c_i;&c_n;&c_z;&c_u;&c_h;&c_a;&c_r;</trd>
+  <trd lng="ca">crocus</trd>
+  <trd lng="de">Krokus</trd>
+  <trd lng="en">crocus</trd>
+  <trd lng="fr">crocus</trd>
+  <trd lng="hu">s&aacute;fr&aacute;ny</trd>
+  <trd lng="nl">krokus</trd>
+  <trdgrp lng="pt">
+    <trd>croco <klr tip="amb">(&ocirc;) (bot.)</klr></trd>,
+    <trd>cr&oacute;cus</trd>
+  </trdgrp>
+  <trd lng="ru">&c_k;&c_r;&c_o;&c_k;&c_u;&c_s;</trd>
+  <trd lng="sv">krokus</trd>
+</drv>
+</art>
+<!--
+$Log: krokus.xml,v $
+Revision 1.19  2014/03/26 16:10:26  revo
+Damien Brucker: +trd fr
+
+Revision 1.18  2013/08/30 14:11:30  revo
+Wolfram Diestel: kor. lst-ref
+
+Revision 1.17  2013/08/26 19:10:48  revo
+Wolfram Diestel: referenco al listo bot genroj
+
+Revision 1.16  2012/07/22 16:10:27  revo
+Marc Rausell: + trd ca
+
+Revision 1.15  2009/09/17 16:30:26  revo
+Wieland Pusch: +trd bg
+
+Revision 1.14  2009/09/16 16:30:54  revo
+Paul Peeraerts: +nl
+
+Revision 1.13  2006/11/02 17:30:52  revo
+Tulio Flores: +tr pt
+
+Revision 1.12  2004/04/15 16:31:53  revo
+-->
+</vortaro>

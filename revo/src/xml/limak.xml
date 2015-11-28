@@ -1,0 +1,152 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: limak.xml,v 1.36 2015/07/04 08:37:38 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>limak</rad>/o
+</kap>
+<drv mrk="limak.0o">
+  <kap>
+    <ofc>*</ofc><tld/>o
+  </kap>
+  <snc mrk="limak.0o.gastropodo">
+    <uzo tip="stl">KOMUNE</uzo>
+    <dif>
+      &Ccirc;iu el la ordo <ref tip="dif"
+      cel="gastro2.0oj">gastropodoj</ref>:
+      <ekz>
+        oni havas kun si sian propran domon kiel la <tld/>o la sian
+        <fnt><bib>Fab4</bib>, <lok>Historio el la dunoj</lok></fnt>;
+      </ekz>
+      <ekz>
+        li pripalpu la malgrandan konkon de la <tld/>o
+        <fnt><bib>Fab2</bib>, <lok>Feli&ccirc;a familio</lok></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">Schnecke</trd>
+    <trd lng="en">slug</trd>
+    <trd lng="es">babosa</trd>
+    <trd lng="fr">limace</trd>
+    <trd lng="hu">csiga</trd>
+    <trdgrp lng="nl">
+      <trd>slak<klr tip="ind"> (naakt-)</klr></trd>,
+      <trd>naaktslak</trd>
+    </trdgrp>
+    <trd lng="pt">lesma</trd>
+    <trd lng="pl">&sacute;limak</trd>
+  </snc>
+  <snc mrk="limak.0o.genro">
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:zoologiaj_genroj">Genro</ref> el la familio <ref
+      tip="malprt"
+      cel="limake.0oj"><tld/>edoj</ref>
+      (<trd lng="la">Limax</trd>).
+    </dif>
+    <trd lng="de">Schnegel</trd>
+    <trd lng="hu">meztelencsiga</trd>
+    <trd lng="pl">&sacute;limak</trd>
+    <trd lng="pt">limac&iacute;deo</trd>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_m;&c_o;&c_w;&c_zh;</trd>,
+    <trd>&c_s;&c_mol;&c_l;&c_ib;&c_m;&c_a;&c_k;</trd>
+  </trdgrp>
+  <trd lng="ca">llimac</trd>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_l;&c_i;&c_z;&c_je;&c_n;&c_mol;</trd>,
+    <trd>&c_s;&c_l;&c_i;&c_z;&c_n;&c_ja;&c_k;</trd>,
+    <trd>&c_u;&c_l;&c_i;&c_t;&c_k;&c_a;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="limak.paskala0o">
+  <kap>paskala <tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>MatTerm</bib><lok>p. 34</lok></fnt>
+  <snc>
+    <dif>
+      Ebena <ref tip="super" cel="kurb.0o.MAT">kurbo</ref>, bildo de
+      <ref cel="konik.0o">koniko</ref> per 
+      <ref cel="invers.0igo.transformo">inversigo</ref> kun centro en
+      unu
+      el ties fokusoj:
+      <ekz>
+        la polusa ekvacio de paskala <tld/>o estas de la tipo
+        <frm>&rho; = <k>a</k>(cos&theta;+<k>l</k>)</frm>;
+      </ekz>
+      <ekz>
+        se <frm><k>l</k> = 1</frm>, la paskala <tld/>o fari&gcirc;as
+        <ref cel="kardio.0o">kardioido</ref>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="konhxo.0o">kon&hcirc;oido</ref>,
+      <ref cel="paskal.0o.PERS">Paskalo</ref>.
+    </refgrp>
+    <rim>
+      La formo de tiu fermita kurbo povas iel memorigi konkon de
+      heliko, fazeolan semon, koron, pugon a&ubreve; ion ajn pli-malpli
+      rondan.
+      Eblas pensi, ke <ctl>paskala heliko</ctl> estus pli bona termino,
+      sed
+      <ctl>paskala <tld/>o</ctl> estas a&ubreve;toritata formo kaj 
+      bazi&gcirc;as sur la komunuza kaj Fundamenta senco de 
+      <ctl><tld/>o</ctl>. Notindas anka&ubreve;, ke la&ubreve;dire la kurbo
+      ricevis sian nomon ne pro Paskalo (Blazio), sed pro lia patro
+      (Stefano).
+    </rim>
+  </snc>
+  <bld lok="../bld/limak.gif">
+    formo de la paskala <tld/>o por variaj valoroj de l
+  </bld>
+  <bld lok="../bld/k_limako.svg.gif" alt="300" lrg="630">
+    paskalaj <tld/>oj
+  </bld>
+  <trd lng="ca"><ind>caragol</ind> de Pascal</trd>
+  <trd lng="de">Pascalsche <ind>Schnecke</ind></trd>
+  <trd lng="en">Pascal['s] <ind>lima&ccedil;on</ind></trd>
+  <trd lng="fr">lima&ccedil;on de Pascal</trd>
+  <trd lng="hu">Pascal-f&eacute;le <ind>kagyl&oacute;g&ouml;rbe</ind></trd>
+  <trd lng="pl">&sacute;limak Pascala</trd>
+  <trd lng="ru">&c_u;&c_l;&c_i;&c_t;&c_k;&c_a;
+&c_P;&c_a;&c_s;&c_k;&c_a;&c_l;&c_ja;</trd>
+  <trd lng="sk">Pascalova skrutkovica</trd>
+  <trd lng="cs">Pascalova závitnice</trd>
+</drv>
+</art>
+<!--
+$Log: limak.xml,v $
+Revision 1.36  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.35  2015/06/29 16:33:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.34  2013/09/08 19:10:58  revo
+Wolfram Diestel: kor. lst-ref
+
+Revision 1.33  2013/09/01 15:46:28  revo
+Wolfram Diestel: referenco al listo zoo genroj
+
+Revision 1.32  2013/08/31 17:10:35  revo
+Carlos Garcia: +trd es -o
+
+Revision 1.31  2012/08/10 14:11:24  revo
+Marc Rausell: + trd ca
+
+Revision 1.30  2010/01/18 17:31:28  revo
+Mireille Corobu: svg->gif
+
+Revision 1.29  2005/01/17 17:34:22  revo
+Vito Redsky: korekto trd pl
+
+Revision 1.28  2004/05/06 16:33:08  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.27  2003/02/17 17:31:33  revo
+-->
+</vortaro>

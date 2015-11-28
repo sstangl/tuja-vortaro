@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: gros.xml,v 1.25 2015/07/04 08:37:35 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>gros</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="gros.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="gros.0o.KUI">
+    <uzo tip="fak">KUI</uzo>
+    <dif>
+      Frukto de <tld/>ujo.
+    </dif>
+  </snc>
+  <bld lok="../bld/gros.jpg">bran&ccirc;o kun <tld/>oj</bld>
+  <trd lng="be">&c_a;&c_g;&c_r;&c_e;&c_s;&c_t;<klr> (&c_p;&c_l;&c_o;&c_d;)</klr></trd>
+  <trd lng="bg">&c_c;&c_a;&c_r;&c_i;&c_g;&c_r;&c_a;&c_d;&c_s;&c_k;&c_o; &c_g;&c_r;&c_o;&c_z;&c_d;&c_je;</trd>
+  <trd lng="ca">agrass&oacute;</trd>
+  <trd lng="de">Stachelbeere</trd>
+  <trd lng="en">gooseberry</trd>
+  <trdgrp lng="fa">
+    <trd>&f_g;&a_A;&a_l;&a_sh;&zwnj;&a_A;&a_n;&f_g;&a_w;&a_r;</trd>,
+    <trd>&a_A;&a_n;&f_g;&a_w;&a_r;&a_f;&a_r;&a_n;&f_g;&f_y;</trd>
+  </trdgrp>
+  <trd lng="fr">groseille<klr> (&agrave; maquereau)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>egres</trd>,
+    <trd>k&ouml;szm&eacute;te</trd>
+  </trdgrp>
+  <trd lng="pl">agrest</trd>
+  <trd lng="pt">groselha</trd>
+  <trd lng="ru">&c_k;&c_r;&c_y;&c_zh;&c_o;&c_v;&c_n;&c_i;&c_k; <klr>(&c_p;&c_l;&c_o;&c_d;)</klr></trd>
+  <trd lng="sk">egreš</trd>
+  <trdgrp lng="cs">
+    <trd>angrešt</trd>,
+    <trd>srstka <klr>(keř)</klr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="gros.0ujo">
+  <kap><tld/>ujo</kap>
+  <snc mrk="gros.0ujo.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      <ref tip="lst" cel="speci.0o.BIO"
+      lst="voko:botanikaj_specioj">Specio</ref>
+       de <ref tip="super" cel="rib.0o">ribo</ref>,
+      kun grandaj acidaj, ofte haraj beroj,
+      uzataj en konfita&jcirc;o ktp.
+      (<trd lng="la">Ribes uvacrispa</trd>).
+    </dif>
+    <ref tip="super" cel="rib.0o">ribo</ref>
+  </snc>
+  <trd lng="be">&c_a;&c_g;&c_r;&c_e;&c_s;&c_t; <klr>(&c_r;&c_a;&c_s;&c_mol;&c_l;&c_ib;&c_n;&c_a;)</klr></trd>
+  <trd lng="ca">agrass&oacute;</trd>
+  <trdgrp lng="cs">
+    <trd>angrešt</trd>,
+    <trd>srstka <klr>(keř)</klr></trd>
+  </trdgrp>
+  <trd lng="de">Stachelbeerstrauch</trd>
+  <trd lng="en">gooseberry</trd>
+  <trd lng="fa">&a_d;&a_r;&a_kh;&a_t;&f_ch;&a_h;&a_hamza_sure; <ind>&f_g;&a_A;&a_l;&a_sh;&zwnj;&a_A;&a_n;&f_g;&a_w;&a_r;</ind></trd>
+  <trd lng="fr">groseiller <klr>(&agrave; maquereau)</klr></trd>
+  <trd lng="nl">kruisbes</trd>
+  <trd lng="pl">agrest<klr> (krzew)</klr></trd>
+  <trd lng="pt">groselheira</trd>
+  <trd lng="ru">&c_k;&c_r;&c_y;&c_zh;&c_o;&c_v;&c_n;&c_i;&c_k; <klr>(&c_r;&c_a;&c_s;&c_t;&c_je;&c_n;&c_i;&c_je;)</klr></trd>
+  <trd lng="sk">egreš  <klr>(stromček)</klr></trd>
+</drv>
+</art>
+<!--
+$Log: gros.xml,v $
+Revision 1.25  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.24  2015/06/29 16:29:39  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.23  2013/08/29 12:10:16  revo
+Wolfram Diestel: referenco al listo bot specioj
+
+Revision 1.22  2012/10/09 07:10:08  revo
+Jeromo Vasxe: preciz. trd fr
+
+Revision 1.21  2012/08/19 09:10:18  revo
+Marc Rausell: + trd ca
+
+Revision 1.20  2010/10/28 16:30:29  revo
+Russ Williams: +trd en
+
+Revision 1.19  2009/08/28 16:31:15  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.18  2009/06/23 16:30:48  revo
+Wieland Pusch: +trd bg
+
+Revision 1.17  2009/06/22 16:30:42  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.16  2007/07/04 16:30:25  revo
+-->
+</vortaro>

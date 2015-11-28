@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: anton.xml,v 1.13 2015/02/26 20:11:09 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>Anton</rad>/o
+</kap>
+
+<drv mrk="anton.0o">
+  <kap>
+    <ofc>*</ofc>
+    <tld/>o
+  </kap>
+  <uzo tip="fak">NOM</uzo>
+  <snc>
+    <dif>
+      Vira <ref tip="lst" cel="nom.antaux0o"
+      lst="voko:personaj_nomoj">anta&ubreve;nomo</ref> latindevena:
+      <ekz>
+        el &ccirc;iuj siaj fratoj <tld/>o estas la malplej sa&gcirc;a
+        <fnt><bib>F</bib>, <lok>&FE; 10</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_A;&c_n;&c_t;&c_o;&c_n;</trd>
+  <trd lng="br">Anton</trd>
+  <trd lng="ca">Antoni</trd>
+  <trd lng="de">Anton</trd>
+  <trd lng="en">Anthony</trd>
+  <trd lng="es">Antonio</trd>
+  <trd lng="fr">Antoine</trd>
+  <trd lng="pl">Antoni</trd>
+  <trd lng="ru">&c_A;&c_n;&c_t;&c_o;&c_n;</trd>
+  <trd lng="it">Antonio</trd>
+</drv>
+
+<drv mrk="anton.0ino">
+  <kap><tld/>ino</kap>
+  <uzo tip="fak">NOM</uzo>
+  <snc>
+    <dif>
+      Ina <ref tip="lst" cel="nom.antaux0o"
+      lst="voko:personaj_nomoj">anta&ubreve;nomo</ref>:
+      <ekz>
+        a&ubreve;skultu, <tld/>ino, diru al mi malka&scirc;e, kial
+        vi ne prenas oficon de nutristino?
+	<fnt>
+          <bib>FK</bib>. <lok>Parto 3a, &#171;Anekdotoj&#187;</lok>
+	</fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <ref tip="vid" cel="antonen.0o">Antoneno</ref>
+  <trd lng="en">Antonia</trd>
+  <trd lng="ru">&c_A;&c_n;&c_t;&c_o;&c_n;&c_i;&c_n;&c_a;</trd>
+</drv>
+
+</art>
+
+<!--
+$Log: anton.xml,v $
+Revision 1.13  2015/02/26 20:11:09  revo
+Wolfram Diestel: lst antaunomoj
+
+Revision 1.12  2014/07/21 05:10:10  revo
+Sergio Pokrovskij: TEZ
+
+Revision 1.11  2014/07/20 15:10:11  revo
+Sergio Pokrovskij: +~ino
+
+Revision 1.10  2012/01/01 13:10:12  revo
+Marc Rausell: +trd ca
+
+Revision 1.9  2009/02/26 17:31:25  revo
+Antonio Codazzi: +trd it
+
+Revision 1.8  2008/10/09 16:30:33  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.7  2007/05/20 16:30:55  revo
+Wieland Pusch: +trd de
+
+Revision 1.6  2005/07/05 16:32:48  revo
+-->
+</vortaro>

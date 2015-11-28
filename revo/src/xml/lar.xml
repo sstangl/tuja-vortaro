@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: lar.xml,v 1.23 2015/07/04 08:37:38 revo Exp $">
+<kap>
+  <rad>lar</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="lar.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="lar.0o.ZOO">
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:zoologiaj_genroj">Genro</ref> el familio <ref
+      tip="malprt" cel="lared.0oj"><tld/>edoj</ref>
+      (<trd lng="la">Larus</trd>).
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_k;&c_ib;&c_r;&c_l;&c_ja;</trd>,
+    <trd>&c_ch;&c_a;&c_j;&c_k;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="ca">
+    <trd>gavi&agrave;</trd>,
+    <trd>gavina</trd>,
+    <trd>gavinot</trd>
+  </trdgrp>
+  <trd lng="cs">racek <klr>(mořský)</klr></trd>
+  <trd lng="de">M&ouml;we</trd>
+  <trd lng="en">gull</trd>
+  <trd lng="fr">go&eacute;land</trd>
+  <trd lng="hu">sir&aacute;ly</trd>
+  <trdgrp lng="nl">
+    <trd>larus</trd>,
+    <trd>meeuw</trd>
+  </trdgrp>
+  <trd lng="pl">mewa</trd>
+  <trdgrp lng="pt">
+    <trd>gaivota</trd>,
+    <trd>gaivot&atilde;o</trd>
+  </trdgrp>
+  <trd lng="ru">&c_ch;&c_a;&c_j;&c_k;&c_a;</trd>
+  <trd lng="sk">čajka morská</trd>
+</drv>
+
+<drv mrk="lar.0oformaj">
+  <kap><tld/>oformaj</kap>
+  <snc mrk="lar.0oformaj.ZOO">
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      <ref tip="lst" cel="ord.0o.BIO"
+      lst="voko:zoologiaj_ordoj">Ordo</ref> el la klaso <ref
+      tip="malprt" cel="bird.0oj">birdoj</ref>
+      (<trd lng="la">Lariformes</trd>).
+    </dif>
+  </snc>
+  <trd lng="ca">caradriformes</trd>
+  <trd lng="de">M&ouml;wenv&ouml;gel</trd>
+  <trd lng="hu">sir&aacute;lyalak&uacute;ak</trd>
+  <trdgrp lng="nl">
+    <trd>lariformes</trd>,
+    <trd>meeuwen<klr tip="ind"> (orde)</klr></trd>
+  </trdgrp>
+  <trd lng="ru">&c_r;&c_zh;&c_a;&c_n;&c_k;&c_o;&c_o;&c_b;&c_r;&c_a;&c_z;&c_n;&c_y;&c_je;</trd>
+</drv>
+</art>
+<!--
+$Log: lar.xml,v $
+Revision 1.23  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.22  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.21  2013/09/08 19:10:56  revo
+Wolfram Diestel: kor. lst-ref
+
+Revision 1.20  2013/09/01 15:46:25  revo
+Wolfram Diestel: referenco al listo zoo genroj
+
+Revision 1.19  2013/08/31 17:10:15  revo
+Wolfram Diestel: ~oformaj: referenco al listo zoo ordoj
+
+Revision 1.18  2012/09/03 17:10:16  revo
+Marc Rausell: + trd ca
+
+Revision 1.17  2011/05/05 14:10:10  revo
+Russ Williams: +trd en
+
+Revision 1.16  2009/09/30 16:31:05  revo
+Paul Peeraerts: +nl
+
+Revision 1.15  2006/08/30 15:11:31  revo
+Tulio Flores: +tr pt
+
+Revision 1.14  2005/01/10 20:41:18  revo
+-->
+</vortaro>

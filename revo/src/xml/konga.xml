@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: konga.xml,v 1.6 2015/07/04 08:37:37 revo Exp $">
+<kap>
+  <rad>konga</rad>/o <fnt><bib>RokPop</bib></fnt>
+</kap>
+<drv mrk="konga.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="konga.0o.MUZ">
+    <uzo tip="fak">MUZ</uzo>
+    <dif>
+      Kubdevena
+      <ref tip="lst" cel="instru2.frap0o"
+      lst="voko:frapinstrumentoj">frapinstrumento</ref>,
+      alta tamburo kun konveksa flanko, supra leda membrano,
+      suba malferma&jcirc;o, plejofte manfrapata:
+      <ekz>
+        <tld/>o estas proks<klr>imume</klr> 70-90 cm alta mantamburo
+        <fnt>
+          <bib>Viki</bib>,
+          <lok><url ref="http://eo.wikipedia.org/wiki/Kongao">
+          kongao</url>, 2011-12-06</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="ca">conga</trd>
+  <trdgrp lng="cs">
+    <trd>conga</trd>,
+    <trd>konga</trd>
+  </trdgrp>
+  <trd lng="de">Conga<klr tip="amb"> (Trommel)</klr></trd>
+  <trd lng="fr">conga<klr> (instr. de musique)</klr></trd>
+  <trd lng="sk">konga</trd>
+</drv>
+</art>
+
+<!--
+$Log: konga.xml,v $
+Revision 1.6  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.5  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.4  2013/09/08 18:11:01  revo
+Wolfram Diestel: ref al listo frapinstrumentoj
+
+Revision 1.3  2012/01/01 21:10:32  revo
+Marc Rausell: +trd ca
+
+Revision 1.2  2011/12/29 21:10:09  revo
+Wieland Pusch: +trd de
+
+Revision 1.1  2011/12/29 14:10:10  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

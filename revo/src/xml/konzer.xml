@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: konzer.xml,v 1.9 2009/10/24 16:31:31 revo Exp $">
+<kap>
+  <rad>konzern</rad>/o
+</kap>
+<drv mrk="konzer.0o">
+  <kap>
+    <tld/>o
+  </kap>
+  <uzo tip="fak">EKON</uzo>
+  <uzo tip="fak">JUR</uzo>
+  <snc>
+    <dif>
+      Organizo de financa interligo inter memstaraj, sendepende
+      restantaj
+      entreprenoj.
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="kartel.0o">kartelo</ref>,
+      <ref cel="trust.0o">trusto</ref>.
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_k;&c_a;&c_n;&c_c;&c_e;&c_r;&c_n;</trd>
+  <trd lng="de">Konzern</trd>
+  <trd lng="hu">konszern</trd>
+  <trd lng="pl">koncern</trd>
+  <trd lng="pt">cons&oacute;rcio <klr tip="amb">(de empresas
+  aut&ocirc;nomas)</klr></trd>
+  <trd lng="ru">&c_k;&c_o;&c_n;&c_c;&c_je;&c_r;&c_n;</trd>
+</drv>
+</art>
+<!--
+$Log: konzer.xml,v $
+Revision 1.9  2009/10/24 16:31:31  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.8  2006/11/18 17:30:21  revo
+Tulio Flores: +tr pt
+
+Revision 1.7  2004/05/06 16:32:17  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.6  2002/12/08 17:31:50  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.5  2001/10/31 19:14:13  revo
+Yury Finkel: +trd ru
+
+Revision 1.4  2001/02/03 10:19:35  revo
+Ulrich Fellmann: + 1 de traduko
+
+-->
+</vortaro>

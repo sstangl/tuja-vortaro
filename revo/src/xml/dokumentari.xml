@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: dokumentari.xml,v 1.7 2009/07/05 16:39:41 revo Exp $">
+<kap>
+  <rad>dokumentari</rad>/o
+</kap>
+
+<drv mrk="dokumentari.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="dokumentari.0o.KIN">
+    <uzo tip="fak">KIN</uzo>
+    <ref tip="dif" cel="film.dokument0o.KIN">dokumentfilmo</ref>
+      <ekz>
+        traduki vidbendojn, filmojn kaj <tld/>ojn
+        <fnt>
+          <aut>R. Haveman</aut>,
+          <vrk><url
+          ref="http://www.tekstoj.nl/esperanto/artikoloj/terminaro.htm">Terminareto
+          pri tradukado</url></vrk>,
+          <lok>[2006]</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        sen via aktiva helpo, ITV apena&ubreve; povos produkti <tld/>ojn
+        pri 
+        eventoj, personoj kaj historiaj atingoj de Esperanto 
+        <fnt>
+          <aut>&Gcirc;angalo</aut>,
+          <vrk><url 
+          ref="http://internacia.tv/modules/news/article.php?storyid=22">Helpu
+          al Internacia Televido...</url></vrk>,
+          <lok>2006-09-03</lok>
+        </fnt>.
+      </ekz>
+  </snc>
+  <trdgrp lng="de">
+    <trd>Dokumentation<klr> (Film)</klr></trd>,
+    <trd>Dokumentarfilm</trd>
+  </trdgrp>
+  <trd lng="fr">documentaire<klr> (film)</klr></trd>
+  <trd lng="hu">dokumentumfilm</trd>
+  <trd lng="nl">documentaire</trd>
+  <trdgrp lng="pl">
+    <trd>film <ind>dokumentalny</ind></trd>,
+    <trd>dokument<klr> (film, pot.)</klr></trd>
+  </trdgrp>
+  <trd lng="pt">document&aacute;rio</trd>
+</drv>
+</art>
+
+<!--
+$Log: dokumentari.xml,v $
+Revision 1.7  2009/07/05 16:39:41  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.6  2009/07/03 16:31:27  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.5  2007/08/11 16:30:45  revo
+Tulio Flores: +tr pt
+
+Revision 1.4  2007/05/09 16:30:15  revo
+Wieland Pusch: +trd de
+
+Revision 1.3  2007/03/06 17:31:40  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.2  2007/02/25 17:30:25  revo
+Jeromo Vasxe: ref dif
+
+Revision 1.1  2006/09/14 16:30:52  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

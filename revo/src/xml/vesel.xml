@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: vesel.xml,v 1.5 2015/07/04 08:37:45 revo Exp $">
+  <kap>
+    <rad>vesel</rad>/o
+   <fnt><bib>PIV1</bib></fnt>
+  </kap>
+<drv mrk="vesel.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">HIS</uzo>
+  <uzo tip="fak">MAR</uzo>
+  <uzo tip="fak">MIL</uzo>
+  <snc>
+    <dif>
+      Milita <ref tip="super" cel="sxip.vel0o">vel&scirc;ipo</ref>,
+      pli granda ol <ref cel="fregat.0o.MIL">fregato</ref>:
+      <ekz>
+        estis kvaza&ubreve; granda teamo de &ccirc;arpentistoj
+        estus malkonstruinta la du <tld/>ojn
+        <fnt><aut>E. de Zilah</aut>, <vrk>Vivi sur barko</vrk>, 
+        <lok>1994</lok></fnt>.
+      </ekz>
+    </dif>
+    <rim>
+      &Ccirc;i tiu radiko servas nur en kunmeta&jcirc;oj indikantaj
+      mararmeajn <ref cel="rang.0o.militista">rangojn</ref>:
+      <refgrp tip="vid">
+        <ref cel="leuxte.vesel0o"><tld/>le&ubreve;tenanto</ref>,
+        <ref cel="kapita1.vesel0o"><tld/>kapitano</ref>.
+      </refgrp>
+    </rim>
+  </snc>
+  <adm>
+    Bv ne traduki!
+    <aut>MB</aut>
+  </adm>
+  <trd lng="sk">vojnová plachetnica</trd>
+  <trdgrp lng="cs">
+    <trd>koráb</trd>,
+    <trd>válečná loď</trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log: vesel.xml,v $
+Revision 1.5  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.4  2015/06/28 12:03:50  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.3  2010/08/04 16:30:17  revo
+Jeromo Vasxe: + -n
+
+Revision 1.2  2010/08/03 16:30:47  revo
+Jeromo Vasxe: + ekz
+
+Revision 1.1  2004/11/28 19:43:53  revo
+Marc Bavant: nova artikolo
+
+-->
+</vortaro>

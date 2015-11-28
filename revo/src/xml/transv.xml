@@ -1,0 +1,164 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: transv.xml,v 1.15 2015/07/04 08:37:45 revo Exp $">
+<kap>
+  <rad>transvers</rad>/a
+  <fnt>Z</fnt>
+</kap>
+<drv mrk="transv.0a">
+  <kap><tld/>a</kap>
+  <snc>
+    <uzo tip="klr">(pp linio)</uzo>
+    <dif>
+      Tratran&ccirc;anta perpendikulare a&ubreve; oblikve tra la &ccirc;efa direkto de
+      ia
+      linio a&ubreve; objekto:
+      <ekz>
+        <tld/>a trabo de fervojo<fnt>B</fnt>;
+      </ekz>
+      <ekz>
+        la <tld/>aj strioj de la tigra felo;
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="largx">la&ubreve;lar&gcirc;a</ref>,
+      <ref cel="diagon">diagonala</ref>.
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_p;&c_ja;&c_r;&c_o;&c_ch;&c_n;&c_y;</trd>
+  <trdgrp lng="cs">
+    <trd>příčný</trd>,
+    <trd>transverzální</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>transversal</trd>,
+    <trd>quer verlaufend</trd>
+  </trdgrp>
+  <trd lng="en">transverse</trd>
+  <trd lng="fr">transversal</trd>
+  <trdgrp lng="hu">
+    <trd>&aacute;tl&oacute;s</trd>,
+    <trd>har&aacute;nt-</trd>,
+    <trd>r&eacute;zsutos</trd>
+  </trdgrp>
+  <trd lng="nl">dwars</trd>
+  <trd lng="pt">transversal</trd>
+  <trd lng="ru">&c_p;&c_o;&c_p;&c_je;&c_r;&c_je;&c_ch;&c_n;&c_y;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>priečny</trd>,
+    <trd>transverzálny</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="transv.0e">
+  <kap><tld/>e</kap>
+  <snc>
+    <dif>
+      En <tld/>a direkto.
+      <ekz>
+        <tld/>e de io<fnt>B</fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_a;&c_p;&c_ja;&c_r;&c_o;&c_k;</trd>,
+    <trd>&c_u;&c_p;&c_o;&c_p;&c_je;&c_r;&c_a;&c_k;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>napříč</trd>,
+    <trd>přes</trd>,
+    <trd>příčně</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>quer</trd>,
+    <trd>schr&auml;g</trd>
+  </trdgrp>
+  <trd lng="en">transversely</trd>
+  <trdgrp lng="hu">
+    <trd>&aacute;tl&oacute;san</trd>,
+    <trd>har&aacute;nt</trd>,
+    <trd>r&eacute;zsutosan</trd>
+  </trdgrp>
+  <trd lng="nl">dwars</trd>
+  <trd lng="ru">&c_p;&c_o;&c_p;&c_je;&c_r;&c_jo;&c_k;</trd>
+  <trdgrp lng="sk">
+    <trd>naprieč</trd>,
+    <trd>priečne</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="transv.0o">
+  <kap><tld/>o</kap>
+  <snc>
+    <dif>
+      <tld lit="T"/>a linio.
+      <ekz>
+        la&ubreve; la <tld/>o<fnt>B</fnt>;
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_a;&c_p;&c_ja;&c_r;&c_o;&c_ch;&c_y;&c_n;&c_a;</trd>,
+    <trd>&c_p;&c_a;&c_p;&c_ja;&c_r;&c_o;&c_ch;&c_k;&c_a;</trd>,
+    <trd>&c_t;&c_r;&c_a;&c_n;&c_s;&c_v;&c_e;&c_r;&c_s;&c_a;&c_l;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>příčka</trd>,
+    <trd>transverzála</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Transversale</trd>,
+    <trd>Schnittgerade</trd>
+  </trdgrp>
+  <trd lng="en">transversal</trd>
+  <trd lng="fr">transversale</trd>
+  <trdgrp lng="hu">
+    <trd>&aacute;tl&oacute;</trd>,
+    <trd>har&aacute;ntvonal</trd>,
+  </trdgrp>
+  <trd lng="nl">dwarslijn</trd>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_o;&c_p;&c_je;&c_r;&c_je;&c_ch;&c_i;&c_n;&c_a;</trd>,
+    <trd>&c_t;&c_r;&c_a;&c_n;&c_s;&c_v;&c_je;&c_r;&c_s;&c_a;&c_l;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>priečka</trd>,
+    <trd>priečna čiara</trd>,
+    <trd>transverzála</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: transv.xml,v $
+Revision 1.15  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:40:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.13  2009/10/06 16:44:06  revo
+Russ Williams: +trd en
+
+Revision 1.12  2006/02/16 17:33:47  revo
+Tulio Flores: +trd pt
+
+Revision 1.11  2004/12/16 17:31:43  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.10  2004/10/12 16:32:26  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.9  2003/09/09 16:32:12  revo
+Yury Finkel: +trd ru
+
+Revision 1.8  2002/03/13 17:33:50  revo
+Yury Finkel: +trd ru
+
+Revision 1.7 2001/09/30 19:14:05 revo
+Paul Peeraerts: ald trd nl
+
+Revision 1.6 2001/04/03 16:43:45 revo
+-->
+</vortaro>

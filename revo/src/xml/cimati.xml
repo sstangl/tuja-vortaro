@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: cimati.xml,v 1.11 2015/07/04 08:37:32 revo Exp $">
+<kap>
+  <rad>cimati</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="cimati.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="cimati.0o.ARKI">
+    <uzo tip="fak">ARKI</uzo>
+    <dif>
+      <ref tip="super" cel="modlur.0o.ARKI">Modluro</ref>
+      konsistiganta la supran parton de kornico. 
+    </dif>
+    <trd lng="en">cyma</trd>
+    <trd lng="hu">szima<klr tip="amb">
+    (p&aacute;rk&aacute;nytet&odblac;)</klr></trd>
+  </snc>
+  <snc mrk="cimati.0o.BELA">
+    <uzo tip="fak">BELA</uzo>
+    <dif>
+      Modlura ornamo, kiun oni fiksas &ccirc;e muro,
+      kaj de kiu oni ekspozicie pendigas
+      pentra&jcirc;ojn.  
+    </dif>
+    <trdgrp lng="de">
+      <trd>Abschlussleiste</trd>,
+      <trd>Gesimsleiste</trd></trdgrp>
+    <trd lng="en">picture rail</trd>
+    <trd lng="hu">k&eacute;pl&eacute;c</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>cymatium</trd>,
+    <trd>kyma</trd>,
+    <trd>žebro římsy</trd>
+  </trdgrp>
+  <trd lng="fr">cimaise</trd>
+  <trd lng="sk">rebro rímsy</trd>
+</drv>
+</art>
+<!--
+$Log: cimati.xml,v $
+Revision 1.11  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.10  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.9  2011/03/24 09:10:14  revo
+Jeromo Vasxe: - num + mrk, + 1 ref, modernigis dif 2
+
+Revision 1.8  2002/06/13 17:30:39  revo
+Jozefo Horvath: kor. trd hu
+
+Revision 1.7  2002/06/11 17:32:47  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.6  2001/02/21 20:05:57  revo
+Marc Bavant: +trd fr, mod de la fakoj BELE-> BELA
+
+Revision 1.5  2001/02/03 10:20:20  revo
+Ulrich Fellmann: + indiko de la fako ARKI + 2 germ trd
+
+Revision 1.4  2001/01/04 11:11:10  revo
+Karlo Freeman: aldono de Angla traduko.
+
+-->
+</vortaro>

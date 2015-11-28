@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: taktik.xml,v 1.21 2015/08/16 12:10:15 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>taktik</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="taktik.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="taktik.0o.MIL">
+    <uzo tip="fak">MIL</uzo>
+    <dif>
+      Arto aran&gcirc;i kaj utiligi armeojn sur batalkampo:
+      <ekz>
+        la aliancoj, <tld/>oj kaj kolizioj inter la diversaj gentoj,
+        iliaj estroj kaj armeoj, enpensigas paralela&jcirc;ojn
+        niatere
+        <fnt><aut>Familio Macgill</aut>,
+        <vrk>June, nejune, pretertempe</vrk>,
+        <bib>Monato</bib>,
+        <lok>2001:7, p. 26a</lok></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="strate.0o">strategio</ref>.
+    </refgrp>
+    <trd lng="hu">harc&aacute;szat</trd>
+  </snc>
+  <snc mrk="taktik.0o.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Lertaj rimedoj celantaj sukceson.
+    </dif>
+    <trd lng="hu">taktika</trd>
+  </snc>
+  <trd lng="be">&c_t;&c_a;&c_k;&c_t;&c_y;&c_k;&c_a;</trd>
+  <trd lng="ca">t&agrave;ctica</trd>
+  <trd lng="cs">taktika</trd>
+  <trd lng="de">Taktik</trd>
+  <trd lng="en">tactics</trd>
+  <trdgrp lng="fr">
+    <trd>tactique</trd>
+  </trdgrp>
+  <trd lng="it">tattica</trd>
+  <trd lng="nl">tactiek</trd>
+  <trd lng="pl">taktyka</trd>
+  <trdgrp lng="pt">
+   <trd>t&aacute;tica</trd>
+  </trdgrp>
+  <trd lng="ru">&c_t;&c_a;&c_k;&c_t;&c_i;&c_k;&c_a;</trd>
+  <trd lng="sk">taktika</trd>
+  <trd lng="sv">taktik</trd>
+</drv>
+</art>
+<!--
+$Log: taktik.xml,v $
+Revision 1.21  2015/08/16 12:10:15  revo
+Jeromo Vasxe: sukcecon -> sukceson
+
+Revision 1.20  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2012/08/13 15:10:43  revo
+Marc Rausell: + trd ca
+
+Revision 1.18  2010/06/11 16:30:45  revo
+Antonio Codazzi: +trd it
+
+Revision 1.17  2008/06/09 17:45:48  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.16  2008/05/25 18:38:32  revo
+Russ Williams: +trd en
+
+Revision 1.15  2006/02/03 17:32:45  revo
+Tulio Flores: +trd pt
+
+Revision 1.14  2002/09/23 16:34:05  revo
+-->
+</vortaro>

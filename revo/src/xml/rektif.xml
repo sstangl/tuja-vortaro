@@ -1,0 +1,139 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: rektif.xml,v 1.20 2015/07/04 08:37:42 revo Exp $">
+<kap>
+  <rad>rektif</rad>/i
+  <fnt>Z</fnt>
+</kap>
+<drv mrk="rektif.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="rektif.0i.KEM">
+    <uzo tip="fak">KEM</uzo>
+    <dif>
+      Purigi likva&jcirc;on per nova distilo a&ubreve; alia &hcirc;emia procedo.
+    </dif>
+    <trd lng="de">rektifizieren</trd>
+    <trd lng="fr">rectifier<klr tip="ind"> (chimie)</klr></trd>
+    <trd lng="hu">rektifik&aacute;l<klr tip="ind"> (k&eacute;mia)</klr></trd>    
+    <trd lng="nl">zuiveren<klr tip="ind"> (door distillatie)</klr></trd>
+    <trd lng="pt">retificar</trd>
+    <trdgrp lng="ru">
+      <trd>&c_r;&c_je;&c_k;&c_t;&c_i;&c_f;&c_i;&c_c;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>,
+      <trd>&c_o;&c_ch;&c_i;&c_shch;&c_a;&c_t;&c_mol;<klr tip="ind"> (&c_h;&c_i;&c_m;.)</klr></trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="rektif.0i.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>MatTerm</bib><lok>p. 38</lok></fnt>
+    <uzo tip="stl">ARK</uzo>
+    <dif>
+      <klr>(<ref cel="kurb.0o.MAT">kurbon</ref>)</klr>
+      Per simplaj desegnaj iloj konstrui strekon samlongan kiel donita
+      segmento de la kurbo:
+      <ekz>
+        neeblas <tld/>i cirklon per rektilo kaj cirkelo.
+      </ekz>
+    </dif>
+    <trdgrp lng="hu">
+      <trd>kiegyenes&iacute;t</trd>,
+      <trd>rektifik&aacute;l</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="rektif.0i.ELE">
+    <uzo tip="fak">ELE</uzo>
+    <dif>
+      Rektigi alternan kurenton, transformi &gcirc;in en rektan a&ubreve;
+      (pli speciale) en konstantan kurenton.
+    </dif>
+    <trd lng="de">gleichrichten</trd>
+    <trd lng="es">rectificar</trd>
+    <trd lng="fr">redresser<klr tip="ind"> (&eacute;lectricit&eacute;)</klr></trd>
+    <trd lng="hu">egyenir&aacute;ny&iacute;t</trd>    
+    <trd lng="nl">gelijkrichten</trd>
+    <trd lng="ru">&c_v;&c_y;&c_p;&c_r;&c_ja;&c_m;&c_l;&c_ja;&c_t;&c_mol; <klr tip="amb">(&c_e;&c_l;. &c_t;&c_o;&c_k;)</klr></trd>
+  </snc>
+  <trd lng="ca">rectificar</trd>
+  <trd lng="cs">mnohonásobně frakčně destilovat</trd>
+  <trd lng="sk">mnohonásobne frakčne destilovať</trd>
+</drv>
+
+<drv mrk="rektif.0ebla">
+  <kap><tld/>ebla</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>EKV</bib><lok>&para;374</lok></fnt>
+  <snc mrk="rektif.0ebla.MAT">
+    <dif>
+      <klr>(p.p. <ref cel="kurb.0o.MAT">kurbo</ref>)</klr>
+      Tia, ke eblas kalkuli &gcirc;ian longon.
+    </dif>
+    <trd lng="ca">rectificable<klr> (geom.)</klr></trd>
+    <trd lng="de">rektifizierbar<klr tip="ind"> (-e Kurve)</klr></trd>
+    <trd lng="en">rectifiable<klr tip="ind"> (curve)</klr></trd>
+    <trd lng="fr"><klr tip="ind">(courbe) </klr>rectifiable</trd>
+    <trd lng="hu">kiegyenes&iacute;thet&odblac; <klr tip="ind">(g&ouml;rbe)</klr></trd>    
+    <trdgrp lng="pl">
+      <trd><klr tip="amb">(krzywa) </klr>prostowalna</trd>,
+      <trd><klr tip="amb">(krzywa) </klr>rektyfikowalna</trd>
+    </trdgrp> 
+    <trd lng="ru">&c_s;&c_p;&c_r;&c_ja;&c_m;&c_l;&c_ja;&c_je;&c_m;&c_a;&c_ja;<klr tip="amb"> (&c_k;&c_r;&c_i;&c_v;&c_a;&c_ja;)</klr></trd>
+  </snc>
+</drv>
+
+<drv mrk="rektif.0ilo">
+  <kap><tld/>ilo</kap>
+  <uzo tip="fak">ELE</uzo>
+  <snc>
+    <dif>
+      <ref tip="sin" cel="rekt.0igilo">Rektigilo</ref>
+      de alterna kurento.
+    </dif>
+  </snc>
+  <trd lng="ca">rectificador<klr> (electrot.)</klr></trd>
+  <trd lng="cs">usměrňovač</trd>
+  <trd lng="de">Gleichrichter</trd>
+  <trd lng="es">rectificador</trd>
+  <trd lng="fr">redresseur</trd>
+  <trd lng="hu">egyenir&aacute;ny&iacute;t&oacute;</trd>
+  <trd lng="nl">gelijkrichter</trd>
+  <trd lng="ru">&c_v;&c_y;&c_p;&c_r;&c_ja;&c_m;&c_i;&c_t;&c_je;&c_l;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>eliminátor</trd>,
+    <trd>usmerňovač striedavého prúdu</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: rektif.xml,v $
+Revision 1.20  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2012/07/16 10:10:19  revo
+Marc Rausell: + trd ca
+
+Revision 1.17  2006/02/19 17:32:32  revo
+Tulio Flores: +trd pt
+
+Revision 1.16  2006/01/09 17:35:21  revo
+Raul Salinas Monteagudo: +trd es
+
+Revision 1.15  2004/09/23 19:46:27  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.14  2003/02/24 17:34:27  revo
+Marc Bavant: mod klr tip cxe trd de
+
+Revision 1.13  2003/01/26 17:35:30  revo
+Marc Bavant: mod trd de cxe terminoj MAT
+Revision 1.12  2003/01/17 17:33:05  revo
+Ulrich Fellmann: + 3 pliaj trd = de
+Revision 1.11  2003/01/02 17:50:37  revo
+Marc Bavant: +trd pl
+Revision 1.10 2002/10/13 16:32:11 revo
+-->
+</vortaro>

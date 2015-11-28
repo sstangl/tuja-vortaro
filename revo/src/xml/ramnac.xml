@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+ 
+<vortaro>
+<art mrk="$Id: ramnac.xml,v 1.6 2013/08/25 16:11:07 revo Exp $">
+<kap><rad>ramnac</rad>/oj</kap>
+<drv mrk="ramnac.0oj">
+  <kap><tld/>oj</kap>
+  <uzo tip="fak">BOT</uzo>
+  <snc>
+    <dif>
+      <ref tip="lst" cel="famili.0o.BIO"
+      lst="voko:botanikaj_familioj">Familio</ref> de <ref tip="malprt"
+      cel="kotile.du0aj">dukotiledonaj</ref>
+      plantoj (<trd lng="la">Rhamnaceae</trd>).
+    </dif>
+  </snc>
+  <trd lng="ca">ramn&agrave;cies</trd>
+  <trd lng="de">Kreuzdorngew&auml;chse</trd>
+  <trdgrp lng="hu">
+    <trd>varj&uacute;t&ouml;visf&eacute;l&eacute;k</trd>,
+    <trd>bengef&eacute;l&eacute;k</trd>
+  </trdgrp>
+  <trd lng="pt">ramn&aacute;ceas</trd>
+  <trdgrp lng="ru">
+    <trd>&c_k;&c_r;&c_u;&c_sh;&c_i;&c_n;&c_o;&c_v;&c_y;&c_je;<klr tip="ind">
+(&c_s;&c_je;&c_m;&c_je;&c_j;&c_s;&c_t;&c_v;&c_o;)</klr></trd>,
+    <trd>&c_k;&c_r;&c_u;&c_sh;&c_i;&c_n;&c_n;&c_y;&c_je; <klr
+tip="amb">(&c_s;&c_je;&c_m;&c_je;&c_j;&c_s;&c_t;&c_v;&c_o;)</klr></trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log: ramnac.xml,v $
+Revision 1.6  2013/08/25 16:11:07  revo
+Wolfram Diestel: referenco al listo bot familio
+
+Revision 1.5  2012/02/01 14:10:10  revo
+Marc Rausell: + trd ca
+
+Revision 1.4  2006/02/18 17:32:54  revo
+Tulio Flores: +trd pt
+
+Revision 1.3  2002/05/13 16:33:00  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.2  2002/01/08 19:28:01  revo
+Yury Finkel: +trd ru
+
+-->
+</vortaro>

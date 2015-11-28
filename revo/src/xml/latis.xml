@@ -1,0 +1,143 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: latis.xml,v 1.11 2015/07/04 08:37:38 revo Exp $">
+<kap>
+  <rad>latis</rad>/o
+</kap>
+<drv mrk="latis.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="latis.0o.TEK">
+    <uzo tip="fak">TEK</uzo>
+    <fnt><bib>PIV1</bib></fnt>
+    <dif>
+      Kunmeta&jcirc;o el stangoj, dratoj, maldikaj traboj ks,
+      ofte aran&gcirc;itaj paralele la&ubreve; du &ccirc;efaj direktoj,
+      uzata por fari a&jcirc;urajn barilojn, &scirc;irmilojn,
+      kribrilojn ks.
+    </dif>
+    <ref tip="vid" cel="krad.0o.KOMUNE">krado.</ref>
+    <trdgrp lng="be">
+      <trd>&c_r;&c_a;&c_sh;&c_o;&c_t;&c_k;&c_a;</trd>,
+      <trd>&c_k;&c_r;&c_a;&c_t;&c_a;</trd>,
+      <trd>&c_k;&c_r;&c_a;&c_t;&c_y;</trd>
+    </trdgrp>
+    <trd lng="en">lattice</trd>
+    <trdgrp lng="fr">
+      <trd>claie</trd>,
+      <trd>treillage</trd>,
+      <trd>treillis<klr tip="ind"> (treillage)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>r&aacute;cs</trd>,
+      <trd>h&aacute;l&oacute;</trd>
+    </trdgrp>
+  <trdgrp lng="pt">
+    <trd>treli&ccedil;a</trd>,
+    <trd>rede <klr>de metal</klr></trd>,
+    <trd>grade <klr>(de metal)</klr></trd>    
+  </trdgrp>
+  </snc>
+  <snc mrk="latis.0o.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>EKV</bib><lok>&para;251</lok></fnt>
+    <dif>
+      Tia <ref tip="super" cel="strukt.algebra0o">algebra
+      strukturo</ref>
+      <frm>(<g>E</g>,&#8744;,&#8743;)</frm>, ke amba&ubreve; operacioj estas
+      <ref cel="komut.0eca.operacio">komutecaj</ref> kaj
+      <ref cel="asoci.0eca.operacio">asociecaj</ref>, kaj ke
+      <frm><k>x</k>&#8744;(<k>x</k>&#8743;<k>y</k>) =
+      <k>x</k>&#8743;(<k>x</k>&#8744;<k>y</k>) = <k>x</k></frm>, kiuj ajn 
+      estas <frm><k>x</k>,<k>y</k>&#8712;<g>E</g></frm>
+      <klr>(sorbada regulo)</klr>:
+      <ekz>
+        se <frm>(<g>E</g>,&#8744;,&#8743;)</frm> estas <tld/>o, anka&ubreve;
+        <frm>(<g>E</g>,&#8743;,&#8744;)</frm> estas
+        <klr>(duala <tld/>o)</klr>;
+      </ekz>
+      <ekz>
+        la aro de naturaj entjeroj, provizita per la operacioj
+        <ref cel="divizo.plej_granda_komuna_0o">plej granda komuna
+        divizoro</ref> kaj <ref cel="obl.plej_malgranda_komuna_0o">plej
+        malgranda komuna oblo</ref> estas latiso.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      Specifaj ecoj de latiso:
+      <ref cel="distri.0eca.latiso">distribueca</ref>,
+      <ref cel="komple1.0a.latiso">komplementa</ref>,
+      <ref cel="komple2.0a.latiso">kompleta</ref>.
+    </refgrp>
+    <rim>
+      La rilato <frm><k>x</k>&#8743;<k>y</k> = <k>x</k></frm> difinas
+      <ref cel="rilat.ordo0o">ordo-rilaton</ref>
+      super <frm><g>E</g></frm>. Alternative kaj ekvivalente eblas
+      difini
+      <tld/>on kiel tian <ref tip="super" cel="ar.orda0o">ordan
+      aron</ref>
+      <frm>(<g>E</g>,&#8804;)</frm>, ke por ajnaj du elementoj 
+      <frm><k>x</k>, <k>y</k></frm> de &gcirc;i ekzistas iliaj 
+      <ref cel="infim.0o">infimo</ref>
+      <klr>(signata per <frm><k>x</k>&#8743;<k>y</k></frm>)</klr> kaj 
+      <ref cel="suprem.0o">supremo</ref>
+      <klr>(signata per <frm><k>x</k>&#8744;<k>y</k></frm>)</klr>.
+    </rim>
+    <trdgrp lng="be">
+      <trd>&c_k;&c_r;&c_a;&c_t;&c_a;</trd>,
+      <trd>&c_s;&c_t;&c_r;&c_u;&c_k;&c_t;&c_u;&c_r;&c_a;</trd>
+    </trdgrp>
+    <trd lng="ca">reticle</trd>
+    <trd lng="de">Verband</trd>
+    <trd lng="en">lattice</trd>
+    <trd lng="fr">treillis</trd>
+    <trd lng="hu">h&aacute;l&oacute;</trd>    
+    <trd lng="pl">krata</trd>
+    <trdgrp lng="ru">
+      <trd>&c_r;&c_je;&c_sh;&c_jo;&c_t;&c_k;&c_a;</trd>,
+      <trd>&c_s;&c_t;&c_r;&c_u;&c_k;&c_t;&c_u;&c_r;&c_a;</trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>mříž</trd>,
+    <trd>síťová mřížka</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>drôtené pletivo</trd>,
+    <trd>mreža</trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log: latis.xml,v $
+Revision 1.11  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.10  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.9  2010/08/03 16:31:33  revo
+Russ Williams: +trd en
+
+Revision 1.8  2006/09/01 18:30:00  revo
+Tulio Flores: +tr pt
+
+Revision 1.7  2004/08/04 16:32:29  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.6  2004/05/22 16:32:49  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.5  2003/04/07 16:36:02  revo
+Marc Bavant: ~o MAT: mod ref en dif
+
+Revision 1.4  2002/12/09 17:32:30  revo
+Marc Bavant: ~o MAT: kor rim
+Revision 1.3  2002/11/30 17:35:47  revo
+Marc Bavant: +frm
+Revision 1.2  2002/09/24 16:34:03  revo
+Oscar Puig: + trd ca
+Revision 1.1  2002/09/22 16:33:27  revo
+-->
+</vortaro>

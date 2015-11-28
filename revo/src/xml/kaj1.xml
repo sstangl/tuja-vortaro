@@ -1,0 +1,147 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: kaj1.xml,v 1.26 2015/07/04 08:37:36 revo Exp $">
+<kap>
+   <ofc>1</ofc>
+   <rad>kaj</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="kaj1.0o">
+   <kap><tld/>o</kap>
+   <snc mrk="kaj1.0o.ARKI">
+     <uzo tip="fak">ARKI</uzo>
+     <dif>
+       <ref tip="vid" cel="teras.0o">Teraso</ref> firmigita per muro,
+       ebliganta facilan aliron al veturiloj:
+     </dif>
+     <subsnc mrk="kaj1.0o.MAR">
+       <uzo tip="fak">MAR</uzo>
+       <dif>
+         Teraso la&ubreve;longe de rivero a&ubreve; &ccirc;e marbordo,
+         uzata kiel strato a&ubreve;
+         <ref tip="vid" cel="sxip.el0ejo">el&scirc;ipi&gcirc;ejo</ref>.
+       </dif>
+       <trdgrp lng="be">
+         <trd>&c_n;&c_a;&c_b;&c_ja;&c_r;&c_e;&c_zh;&c_n;&c_a;&c_ja;
+         </trd>,
+         <trd>&c_p;&c_r;&c_y;&c_s;&c_t;&c_a;&c_n;&c_mol;</trd>,
+         <trd>&c_p;&c_r;&c_y;&c_ch;&c_a;&c_l;</trd>
+       </trdgrp>
+       <trd lng="bg">&c_k;&c_je;&c_j;</trd>
+       <trd lng="de">Kai</trd>
+       <trd lng="es">muelle</trd>
+       <trd lng="fi">(ranta)<ind>laituri</ind></trd>
+       <trdgrp lng="en">
+         <trd>quay</trd>,
+         <trd>pier</trd>,
+         <trd>wharf</trd>
+       </trdgrp>
+       <trd lng="he">&mem;&zayin;&het;</trd>
+       <trd lng="hu">rakpart</trd>
+       <trdgrp lng="pl">
+         <trd>nadbrze&zdot;e</trd>,
+         <trd>nabrze&zdot;e</trd>,
+         <trd>przysta&nacute;</trd>
+       </trdgrp>
+       <trd lng="pt">cais</trd>
+       <trd lng="nl">kade</trd>
+       <trdgrp lng="ru">
+         <trd>&c_n;&c_a;&c_b;&c_je;&c_r;&c_je;&c_zh;&c_n;&c_a;&c_ja;
+         </trd>,
+         <trd>&c_p;&c_r;&c_i;&c_s;&c_t;&c_a;&c_n;&c_mol;</trd>,
+         <trd>&c_p;&c_r;&c_i;&c_ch;&c_a;&c_l;</trd>
+       </trdgrp>
+        <trd lng="sv">kaj</trd>
+     </subsnc>
+     <subsnc mrk="kaj1.0o.FER">
+       <uzo tip="fak">FER</uzo>
+       <dif>
+         Alta trotuaro konstruita la&ubreve;longe de fervojo
+         por ebligi al la pasa&gcirc;eroj facilan en- kaj
+         elvagoni&gcirc;on:
+         <ekz>
+           la trajno delonge staris &ccirc;e <tld/>o
+           <fnt><bib>Jamburg</bib>,
+           <lok>&ccirc;apitro 12a, p. 70a</lok></fnt>.
+         </ekz>
+       </dif>
+       <refgrp tip="sin">
+         <ref cel="peron.0o.FER">perono</ref>
+       </refgrp>
+       <trdgrp lng="be">
+         <trd>&c_p;&c_l;&c_ja;&c_t;&c_f;&c_o;&c_r;&c_m;&c_a;</trd>,
+         <trd>&c_p;&c_e;&c_r;&c_o;&c_n;</trd>
+       </trdgrp>
+       <trd lng="bg">&c_p;&c_l;&c_a;&c_t;&c_f;&c_o;&c_r;&c_m;&c_a;</trd>
+       <trd lng="de">Bahnsteig</trd>
+       <trd lng="en">platform</trd>
+       <trd lng="es">and&eacute;n</trd>
+       <trd lng="fi">(asema)<ind>laituri</ind></trd>
+       <trd lng="he">&resh;&tsadi;&yod;&fpe;</trd>
+       <trd lng="hu">peron</trd>
+       <trd lng="nl">perron</trd>
+       <trdgrp lng="pl">
+         <trd>peron</trd>,
+         <trd>rampa</trd>
+       </trdgrp>
+       <trd lng="pt">plataforma</trd>
+       <trdgrp lng="ru">
+         <trd>&c_p;&c_je;&c_r;&c_r;&c_o;&c_n;</trd>,
+         <trd>&c_zh;&c_je;&c_l;&c_je;&c_z;&c_n;&c_o;&c_d;&c_o;&c_r;&c_o;&c_zh;&c_n;&c_a;&c_ja; &c_p;&c_l;&c_a;&c_t;&c_f;&c_o;&c_r;&c_m;&c_a;</trd>
+       </trdgrp>
+       <trdgrp lng="sv">
+         <trd>perrong</trd>,
+         <trd>plattform</trd>
+       </trdgrp>
+       <trd lng="tr">peron</trd>
+     </subsnc>
+     <refgrp tip="hom">
+       <ref cel="kaj.0o">kajo</ref>
+     </refgrp>
+   </snc>
+  <trdgrp lng="cs">
+    <trd>nástupiště</trd>,
+    <trd>peron</trd>,
+    <trd>rampa</trd>
+  </trdgrp>
+  <trd lng="fr">quai</trd>
+  <trdgrp lng="sk">
+    <trd>nástupište</trd>,
+    <trd>perón</trd>,
+    <trd>rampa</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: kaj1.xml,v $
+Revision 1.26  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.25  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.24  2013/08/06 08:10:09  revo
+Joop Eggen: +trd bg
+
+Revision 1.23  2009/09/10 16:32:06  revo
+Jeromo Vasxe: retusx. dif, + fak, + vid + sin + ant
+
+Revision 1.22  2009/02/01 17:30:17  revo
+Sergej Chlutchin: forigis malbezonajn linirompojn en la rusa
+
+Revision 1.21  2008/05/12 17:55:37  revo
+Sebastian Cyprych: kor trd pl
+
+Revision 1.20  2007/12/23 17:30:28  revo
+Dennis Wibrow: +trd sv
+
+Revision 1.19  2007/07/11 16:31:27  revo
+Harri Laine: +trd fi
+
+Revision 1.18  2006/09/21 16:30:48  revo
+Tulio Flores: +tr pt
+
+Revision 1.17  2006/05/23 16:33:04  revo
+-->
+</vortaro>

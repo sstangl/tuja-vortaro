@@ -1,0 +1,239 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: distri.xml,v 1.30 2015/07/04 08:37:32 revo Exp $">
+<kap>
+  <ofc>8</ofc>
+  <rad>distribu</rad>/i <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="distri.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="distri.0i.KOMUNE">
+    <dif>
+      Disdividi, <ref tip="vid" cel="don.dis0i">disdoni</ref>,
+      dispartigi:
+      <ekz>
+        li <tld/>is grandajn sumojn al la mizeruloj;
+      </ekz>
+      <ekz>
+        la leterportisto <tld/>as la leterojn;
+      </ekz>
+      <ekz>
+        <tld/>i laboron inter &ccirc;iuj.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>distribuovat</trd>,
+    <trd>rozdělit</trd>,
+    <trd>rozmístit</trd>,
+    <trd>rozvádět</trd>
+  </trdgrp>
+  <trd lng="de">verteilen</trd>
+  <trd lng="en">distribute</trd>
+  <trd lng="es">distribuir</trd>
+  <trd lng="fr">distribuer</trd>
+  <trdgrp lng="pl">
+    <trd>dystrybuowa&cacute;</trd>,
+    <trd>rozprowadza&cacute;</trd>,
+    <trd>rozdziela&cacute;</trd>,
+    <trd>roznosi&cacute;</trd>,
+    <trd>rozdawa&cacute;</trd>
+  </trdgrp>
+  <trd lng="pt">distribuir</trd>
+  <trd lng="ru">&c_r;&c_a;&c_s;&c_p;&c_r;&c_je;&c_d;&c_je;&c_l;&c_i;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>prideľovať</trd>,
+    <trd>rozdeľovať</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="distri.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="distri.0o.ago">
+    <dif>
+      Disdonado.
+    </dif>
+  </snc>
+  <snc mrk="distri.0o.spaca">
+    <dif>
+      Dislokiteco en spaco:
+      <ekz>
+        la <tld/>o de termamuloj anta&ubreve;e estis malsama
+        al tio kio &gcirc;i nun estas
+        <fnt>
+          <bib>OriginoDeSpecioj</bib>,
+          <lok>&ccirc;apitro 10a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>distribuce</trd>,
+    <trd>rozdělování</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>distribúcia</trd>,
+    <trd>rozdeľovanie</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="distri.0ebla">
+  <kap><tld/>ebla</kap>
+  <snc mrk="distri.0ebla.KOMUNE">
+    <dif>
+      Tia, ke eblas &gcirc;in distribui.
+    </dif>
+    <trd lng="fr">distribuable</trd>
+    <trdgrp lng="pl">
+      <trd>dystrybuowalny</trd>,
+      <trd>rozprowadzalny</trd>,
+      <trd>rozdzielny</trd>
+    </trdgrp>
+    <trd lng="ru">&c_r;&c_a;&c_s;&c_p;&c_r;&c_je;&c_d;&c_je;&c_l;&c_i;&c_m;&c_y;&c_j;</trd>
+  </snc>
+  <snc mrk="distri.0ebla.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>KompLeks</bib></fnt>
+    <ref tip="dif" cel="distri.0eca.MAT"><tld/>eca.</ref>
+    <trd lng="pl">rozdzielny</trd>
+    <trd lng="ru">&c_d;&c_i;&c_s;&c_t;&c_r;&c_i;&c_b;&c_u;&c_t;&c_i;&c_v;&c_n;&c_y;&c_j;</trd>
+  </snc>
+</drv>
+
+<drv mrk="distri.0eca">
+  <kap><tld/>eca</kap>
+  <uzo tip="fak">MAT</uzo>
+  <snc mrk="distri.0eca.MAT">
+    <fnt><bib>MatTerm</bib><lok>p. 15</lok></fnt>
+    <dif>
+      <klr>(p.p. pri <ref cel="operac.0o.MAT">operacio</ref>
+      <frm>&#9830;</frm> rilate al operacio <frm>&#8224;</frm>)</klr>
+      Tia, ke por &ccirc;iuj <frm><k>x</k>, <k>y</k>, <k>z</k></frm>
+      veras
+      la egala&jcirc;oj
+      <frm><k>x</k>&#9830;(<k>y</k>&#8224;<k>z</k>) =
+      (<k>x</k>&#9830;<k>y</k>)&#8224;(<k>x</k>&#9830;<k>z</k>)</frm>
+      kaj
+      <frm>(<k>y</k>&#8224;<k>z</k>)&#9830;<k>x</k> =
+      (<k>y</k>&#9830;<k>x</k>)&#8224;(<k>z</k>&#9830;<k>x</k>)</frm>:
+      <ekz>
+        en la aro de reeloj la multipliko estas <tld/>eca
+        rilate al la adicio;
+      </ekz>
+      <ekz>
+        <ind><tld/>eco</ind> de unu operacio rilate al dua.
+        <trd lng="de">Distributivit&auml;t</trd>
+        <trd lng="en">distributivity</trd>
+        <trd lng="fr">distributivit&eacute;</trd>
+        <trd lng="pl">rozdzielno&sacute;&cacute;</trd>
+        <trd
+        lng="ru">&c_d;&c_i;&c_s;&c_t;&c_r;&c_i;&c_b;&c_u;&c_t;&c_i;&c_v;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="distri.0eca.latiso">
+    <dif>
+      <klr>(p.p. <ref cel="latis.0o.MAT">latiso</ref>)</klr>
+      Tia, ke &ccirc;iu el &gcirc;iaj operacioj estas <tld/>eca
+      <sncref ref="distri.0eca.MAT"/> rilate al la alia:
+      <ekz>
+        <ref cel="algebr.bulea0o.strukturo">bulea algebro</ref> estas
+        <tld/>eca latiso.
+      </ekz>
+    </dif>
+  </snc>
+  <rim>
+    La fontoj ne konsentas pri tiu termino, kvankam la solvo de
+    Bricard aspektas bona: ja <tld/>ecan operacion karakterizas
+    la eco <tld/>i sin al la termoj de la alia operacio. En
+    <fnt><bib>EKV</bib><lok>&para;380</lok></fnt> trovi&gcirc;as
+    <ctl>distributaj aksiomoj</ctl> (aksiomoj pri <tld/>eco) kaj
+    la sama adjektivo trovi&gcirc;as en <fnt><bib>MatVort</bib></fnt>.
+    Pli proksimaj al Bricard restas
+    <ctl><tld/>ebla</ctl> <fnt><bib>KompLeks</bib></fnt>
+    kaj <ctl><tld/>a</ctl> <fnt><bib>PIV2</bib></fnt>.
+  </rim>
+  <adm>
+    Vd adm sub "komuteca" pri la problemo de tiaj formoj.
+    <aut>MB</aut>
+  </adm>
+  <trd lng="de">distributiv</trd>
+  <trd lng="en">distributive</trd>
+  <trd lng="fr">distributif</trd>
+  <trd lng="pl">rozdzielny</trd>
+  <trd lng="ru">&c_d;&c_i;&c_s;&c_t;&c_r;&c_i;&c_b;&c_u;&c_t;&c_i;&c_v;&c_n;&c_y;&c_j;</trd>
+</drv>
+
+<drv mrk="distri.probablo0o">
+  <kap>probablo<tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>MatStokTerm</bib><lok>p. 44</lok></fnt>
+  <snc mrk="distri.probablo0o.MAT">
+    <dif>
+      <klr>(de <ref cel="variab.hazarda0o">hazarda variablo</ref>
+      <frm>X</frm>)</klr>
+      La probablo <frm>P<sub>X</sub></frm>, kiun &gcirc;i difinas.
+    </dif>
+    <rim>
+      Ekzistas pluraj manieroj karakterizi <frm>P<sub>X</sub></frm>,
+      ekz-e
+      per la <ref cel="funkci.distribua0o">distribua funkcio</ref>
+      de <frm>X</frm>, a&ubreve; per &gcirc;ia
+      <ref cel="dens.probablo0o">probablodenso</ref>, a&ubreve; e&ccirc;
+      per la vico de probabloj <frm>P(X = <k>x</k>)</frm>, se
+      <frm>X</frm> estas diskreta.
+    </rim>
+  </snc>
+  <trdgrp lng="de">
+    <trd>Wahrscheinlichkeitsverteilung</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>probability <ind>distribution</ind></trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>distribution de probabilit&eacute;</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>rozk&lstroke;ad prawdopodobie&nacute;stwa<klr tip="ind">
+    (zmiennej losowej)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_r;&c_a;&c_s;&c_p;&c_r;&c_je;&c_d;&c_je;&c_l;&c_je;&c_n;&c_i;&c_je; &c_v;&c_je;&c_r;&c_o;&c_ja;&c_t;&c_n;&c_o;&c_s;&c_t;&c_je;&c_j;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: distri.xml,v $
+Revision 1.30  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.29  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.28  2012/08/10 14:12:07  revo
+Jeromo Vasxe: + ~o
+
+Revision 1.27  2009/06/29 18:06:38  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.26  2007/08/08 16:31:18  revo
+Tulio Flores: +tr pt
+
+Revision 1.25  2005/02/25 17:32:28  revo
+Yury Finkel: +trd ru
+
+Revision 1.24  2003/05/12 16:33:00  revo
+Marc Bavant: probablo~o: kor trd
+
+Revision 1.23  2003/04/07 16:34:42  revo
+Marc Bavant: probablo~o: reverkis
+Revision 1.22  2003/02/01 17:32:38  revo
+Marc Bavant: probablo~o: kor trd pl
+Revision 1.21  2003/01/02 17:44:53  revo
+Marc Bavant: +trd pl; probablo~o: mod dif, mod fnt, +rim, precizigis
+trd; ~ebla: -trd fr
+-->
+</vortaro>

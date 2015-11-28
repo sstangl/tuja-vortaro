@@ -1,0 +1,182 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: plus.xml,v 1.34 2015/07/04 08:37:41 revo Exp $">
+<kap>
+  <ofc>8</ofc>
+  <rad>plus</rad>
+</kap>
+<drv mrk="plus.0">
+  <kap><tld/></kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>PV</bib></fnt>
+  <snc mrk="plus.0.MAT">
+    <dif>
+      Konjunkcio indikanta <ref cel="adici.0o">adicion</ref> a&ubreve;
+      pozitivan <ref tip="super" cel="sign.0o.MAT">signon</ref>:
+      <ekz>
+       <frm>4+5 = 9</frm>
+        <klr>(legu: kvar <tld/> kvin estas na&ubreve;)</klr>;
+      </ekz>
+      <ekz>
+        temperaturo je <frm>+25&#730;C</frm>
+        <klr>(legu: <tld/> dudek kvin gradoj celsiaj)</klr>.
+      </ekz>
+    </dif>
+    <ref tip="ant" cel="minus.0">minus;</ref>
+    <ref tip="vid" cel="kaj.0">kaj.</ref>
+  </snc>
+  <trd lng="be">&c_p;&c_l;&c_ju;&c_s;</trd>
+  <trd lng="ca">m&eacute;s</trd>
+  <trd lng="cs">plus</trd>
+  <trd lng="de">plus</trd>
+  <trd lng="en">plus</trd>
+  <trd lng="es">m&aacute;s <klr>(conj.)</klr></trd>
+  <trd lng="fr">plus</trd>
+  <trdgrp lng="hu">
+    <trd>plusz</trd>,
+    <trd>meg</trd>
+  </trdgrp>
+  <trd lng="nl">plus</trd>
+  <trd lng="pl">plus</trd>
+  <trd lng="pt">mais <klr>(conj.)</klr></trd>
+  <trd lng="ru">&c_p;&c_l;&c_ju;&c_s;</trd>
+  <trd lng="sk">plus</trd>
+</drv>
+
+<drv mrk="plus.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="plus.0o.signo">
+    <uzo tip="fak">KOMP</uzo>
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>KompLeks</bib></fnt>
+    <uzo tip="fak">TIP</uzo>
+    <dif>
+      La krucforma <ref tip="super" cel="sign.0o.KOMP">signo</ref>
+      <frm>+</frm>, uzata kiel simbolo de <ref
+      cel="plus.0"><tld/></ref>,
+      kaj por diversaj aliaj celoj:
+      <ekz>
+        la &scirc;akistoj uzas <tld/>on por indiki &scirc;akon.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="minus.0o">minuso</ref>
+    <rim>
+      Troveblas <ctl><tld/>signo</ctl> en <fnt><bib>MatVort</bib></fnt>.
+    </rim>
+    <trd lng="be">&c_p;&c_l;&c_ju;&c_s; <klr>(&c_z;&c_n;&c_a;&c_k;)</klr></trd>
+    <trd lng="cs">plus</trd>
+    <trdgrp lng="de">
+       <trd>Additionszeichen</trd>,
+       <trd>Pluszeichen</trd>
+    </trdgrp>
+    <trd lng="en">plus sign</trd>
+    <trdgrp lng="es">
+      <trd>signo m&aacute;s <klr tip="amb">(+)</klr></trd>,
+      <trd>signo de <ind>adici&oacute;n</ind></trd>
+    </trdgrp>
+    <trd lng="fr">signe plus</trd>
+    <trdgrp lng="hu">
+      <trd>&ouml;sszead&aacute;sjel</trd>,
+      <trd>pluszjel</trd>
+    </trdgrp>
+    <trd lng="nl">pluspunt</trd>
+    <trd lng="pl">znak <ind>plus</ind></trd>
+    <trdgrp lng="pt">
+      <trd>mais <klr tip="amb">(+)</klr></trd>,
+      <trd>sinal de <ind>adi&ccedil;&atilde;o</ind></trd>
+    </trdgrp>
+    <trd lng="ru">&c_z;&c_n;&c_a;&c_k; <ind>&c_p;&c_l;&c_ju;&c_s;</ind></trd>
+    <trd lng="sv">plus</trd>
+  </snc>
+  <snc mrk="plus.0o.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Pozitiva nombro, avanta&gcirc;o, malmanko:
+      <ekz>
+        naski&gcirc;a <tld/>o <klr>(la nombro, per kiu la naski&gcirc;oj
+        superas la mortojn)</klr>
+        <fnt><bib>PIV1</bib></fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_p;&c_l;&c_ju;&c_s;</trd>,
+      <trd>&c_p;&c_je;&c_r;&c_a;&c_v;&c_a;&c_g;&c_a;</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+       <trd>Mehr</trd>,
+       <trd>Plus</trd>,
+       <trd>&Uuml;berschuss</trd>
+    </trdgrp>
+    <trd lng="en">surplus</trd>
+    <trdgrp lng="es">
+      <trd>excedente</trd>,
+      <trd>ganancia</trd>,
+      <trd>plus</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>exc&eacute;dent</trd>,
+      <trd>gain</trd>,
+      <trd>plus<klr tip="ind"> (gain)</klr></trd>,
+      <trd>surplus</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>plusz <klr tip="ind">(t&ouml;bblet)</klr></trd>,
+      <trd>t&ouml;bblet</trd>
+    </trdgrp>
+    <trd lng="nl">overschot</trd>
+    <trd lng="pl">zaleta</trd>
+    <trd lng="pt">excedente</trd>
+    <trdgrp lng="ru">
+      <trd>&c_p;&c_l;&c_ju;&c_s;</trd>,
+      <trd>&c_d;&c_o;&c_b;&c_a;&c_v;&c_k;&c_a;</trd>,
+      <trd>&c_p;&c_r;&c_i;&c_b;&c_y;&c_l;&c_mol;</trd>,
+      <trd>&c_p;&c_r;&c_i;&c_r;&c_o;&c_s;&c_t;</trd>,
+      <trd>&c_p;&c_r;&c_je;&c_v;&c_y;&c_sh;&c_je;&c_n;&c_i;&c_je;</trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="ca">
+    <trd>m&eacute;s</trd>,
+    <trd>plus</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>přebytek</trd>,
+    <trd>přírůstek</trd>
+  </trdgrp>
+  <trd lng="pl">plus</trd>
+  <trd lng="sk">prírastok</trd>
+</drv>
+</art>
+<!--
+$Log: plus.xml,v $
+Revision 1.34  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.33  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.32  2014/09/01 19:10:11  revo
+Guillermo Molleda Jimena: trd es
+
+Revision 1.31  2012/08/03 13:10:26  revo
+Marc Rausell: + trd ca
+
+Revision 1.30  2009/06/29 18:07:11  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.29  2009/03/06 17:30:43  revo
+Marcus Curdeius: +pl
+
+Revision 1.28  2008/02/09 17:31:14  revo
+Russ Williams: +trd en; forigas ekstran de-tradukon
+
+Revision 1.27  2007/09/12 16:30:14  revo
+Tulio Flores: +tr pt
+
+Revision 1.26  2006/03/08 17:32:30  revo
+Tulio Flores: +tr pt
+
+Revision 1.25  2005/03/09 18:18:20  revo
+-->
+</vortaro>

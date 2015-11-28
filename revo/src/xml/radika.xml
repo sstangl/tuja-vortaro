@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: radika.xml,v 1.19 2015/07/04 08:37:42 revo Exp $">
+  <kap>
+    <ofc>1</ofc>
+    <rad>radikal</rad>/a <fnt><bib>PV</bib></fnt>
+  </kap>
+<drv mrk="radika.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="radika.0a.radika">
+    <dif>
+      <ref tip="sin" cel="radik.0a.FIG">Radika</ref>,
+      &gcirc;isfunda, esenca, plena:
+      <ekz>
+        <tld/>a &scirc;an&gcirc;o de metodo;
+      </ekz><ekz>
+        grandaj kaj <tld/>aj reformoj<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        <tld/>e &scirc;an&gcirc;i ion<fnt>Z</fnt>.
+      </ekz> 
+    </dif>
+  </snc>
+  <snc mrk="radika.0a.POL">
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      Politike <ref tip="vid" cel="ekstre.0a">ekstrema</ref>, 
+      postulanta tutajn profundajn kaj senkompromisajn reformojn en 
+      politiko:
+      <ekz>
+        <tld/>a ministraro.
+      </ekz>
+    </dif>
+  </snc>
+  <ref tip="hom" cel="radika1.0a">radikala</ref>
+  <trd lng="be">&c_r;&c_a;&c_d;&c_y;&c_k;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>
+  <trd lng="bg">&c_r;&c_a;&c_d;&c_i;&c_k;&c_a;&c_l;&c_je;&c_n;</trd>
+  <trd lng="de">radikal</trd>
+  <trd lng="en">radical</trd>
+  <trd lng="es">radical</trd>
+  <trd lng="fr">radical<klr> (adj., pol.)</klr></trd>
+  <trd lng="hu">radik&aacute;lis</trd>  
+  <trd lng="nl">radicaal</trd>
+  <trd lng="pl">radykalny</trd>
+  <trd lng="pt">radical</trd>
+  <trd lng="ru">&c_r;&c_a;&c_d;&c_i;&c_k;&c_a;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
+  <trd lng="sv">radikal</trd>
+</drv>
+
+<drv mrk="radika.0ismo">
+  <kap><tld/>ismo</kap>
+  <snc mrk="radika.0ismo.POL">
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      Doktrino de <tld/>a partio.  
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="ekstre.0ismo">ekstremismo</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_r;&c_a;&c_d;&c_y;&c_k;&c_a;&c_l;&c_ib;&c_z;&c_m;</trd>
+  <trd lng="bg">&c_r;&c_a;&c_d;&c_i;&c_k;&c_a;&c_l;&c_i;&c_z;&c_malmol;&c_m;</trd>
+  <trd lng="cs">radikalizmus</trd>
+  <trd lng="de">Radikalismus</trd>
+  <trd lng="en">radicalism</trd>
+  <trd lng="es">radicalismo</trd>
+  <trd lng="fr">radicalisme</trd>
+  <trd lng="hu">radikalizmus</trd>
+  <trd lng="nl">radicalisme</trd>
+  <trd lng="pl">radykalizm</trd>
+  <trd lng="ru">&c_r;&c_a;&c_d;&c_i;&c_k;&c_a;&c_l;&c_i;&c_z;&c_m;</trd>
+  <trd lng="sk">radikalizmus</trd>
+</drv>
+</art>
+<!--
+$Log: radika.xml,v $
+Revision 1.19  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2014/02/18 20:10:11  revo
+Carlos Garcia: trd+ es -a -ismo
+
+Revision 1.16  2014/01/28 02:10:24  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.15  2013/09/04 14:10:19  revo
+Joop Eggen: +trd bg en nl
+
+Revision 1.14  2009/03/01 17:35:25  revo
+Russ Williams: +trd en
+
+Revision 1.13  2008/09/11 16:30:33  revo
+Jeromo Vasxe: + mrk + trd fr + 1 tez
+
+Revision 1.12  2006/02/18 17:31:25  revo
+Tulio Flores: +trd pt
+
+Revision 1.11  2004/08/27 16:31:33  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.10  2002/07/19 17:31:05  revo
+-->
+</vortaro>

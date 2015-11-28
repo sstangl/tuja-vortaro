@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: inkrus.xml,v 1.17 2015/07/04 08:37:36 revo Exp $">
+<kap>
+  <rad>inkrust</rad>/i
+  <fnt>Z</fnt>
+</kap>
+<drv mrk="inkrus.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="inkrus.0i.BELA">
+    <dif>
+      Ornami la supra&jcirc;on de objekto per enigitaj pecetoj de alispeca
+      materio:
+      <ekz>
+        ligna&jcirc;istoj <klr>...</klr> montris se&gcirc;ojn, tablojn, kanapojn,
+        portilojn kaj veturilojn <klr>...</klr> <tld/>itajn per
+        diverskolora ligno, perlamoto kaj eburo
+        <fnt><bib>Far1</bib>, <lok>&ccirc;apitro 22a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_ib;&c_n;&c_k;&c_r;&c_u;&c_s;&c_t;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="cs">ozdobně vykládat</trd>
+  <trdgrp lng="de">
+    <trd>inkrustieren</trd>,
+    <trd>einlegen</trd>,
+    <trd><klr>als </klr>Einlegearbeit <ind>ausf&uuml;hren</ind></trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>encrust</trd>,
+    <trd>incrust</trd>
+  </trdgrp>
+  <trd lng="es">incrustar</trd>
+  <trd lng="fr">incruster</trd>
+  <trdgrp lng="hu">
+    <trd>berak&aacute;ssal d&iacute;sz&iacute;t</trd>,
+    <trd>inkruszt&aacute;l</trd>
+  </trdgrp>
+  <trd lng="nl">inleggen</trd>
+  <trd lng="pt">incrustar<klr tip="amb"> (adornar)</klr></trd>
+  <trd
+  lng="ru">&c_i;&c_n;&c_k;&c_r;&c_u;&c_s;&c_t;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>vkladaním ozdobiť povrch niečoho</trd>,
+    <trd>vkladať</trd>,
+    <trd>vsadiť</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="inkrus.0ajxo">
+  <kap><tld/>a&jcirc;o</kap>
+  <snc mrk="inkrus.0ajxo.BELA">
+  <uzo tip="fak">BELA</uzo>
+    <dif>
+      Desegno farita sur objekto per <tld/>ado:
+      <ekz>
+        meblo kun <tld/>a&jcirc;oj de perlamoto, eburo, ktp.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_ib;&c_n;&c_k;&c_r;&c_u;&c_s;&c_t;&c_a;&c_c;&c_y;&c_ja;</trd>
+  <trdgrp lng="de">
+    <trd>Inkrustation</trd>,
+    <trd>Einlegearbeit</trd>
+  </trdgrp>
+  <trd lng="en">inlay work</trd>
+  <trd lng="es">incrustaci&oacute;n</trd>
+  <trd lng="fr">incrustation</trd>
+  <trdgrp lng="hu">
+    <trd>berak&aacute;sos d&iacute;sz&iacute;t&eacute;s</trd>,
+    <trd>inkruszt&aacute;ci&oacute;</trd>
+  </trdgrp>
+  <trd lng="nl">inlegwerk</trd>
+  <trd lng="pt">incrusta&ccedil;&atilde;o</trd>
+  <trd lng="ru">&c_i;&c_n;&c_k;&c_r;&c_u;&c_s;&c_t;&c_a;&c_c;&c_i;&c_ja;</trd>
+</drv>
+</art>
+<!--
+$Log: inkrus.xml,v $
+Revision 1.17  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.15  2010/03/03 17:31:31  revo
+Russ Williams: +trd en
+
+Revision 1.14  2005/11/03 17:31:11  revo
+Luiz Portella: +trd pt
+
+Revision 1.13  2005/06/20 16:32:01  revo
+Jeromo Vasxe: kor 1 trd fr, + 1 ekz
+
+Revision 1.12 2004/02/02 19:41:44 revo
+Jozefo Horvath: +trd hu
+
+Revision 1.11 2004/01/31 17:32:18 revo
+Dmitri Gabinski: +trd be
+
+Revision 1.10 2003/07/17 16:32:05 revo
+Marc Bavant: +stl BELA
+
+Revision 1.9 2003/02/03 17:31:19 revo
+Ulrich Fellmann: + <klr> en trd = de
+
+Revision 1.8 2003/01/22 17:34:03 revo
+-->
+</vortaro>

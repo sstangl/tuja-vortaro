@@ -1,0 +1,176 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: klario.xml,v 1.27 2015/07/04 08:37:37 revo Exp $">
+<kap>
+  <rad>klarion</rad>/o
+</kap>
+<drv mrk="klario.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="klario.0o.MUZ">
+    <uzo tip="fak">MIL</uzo>
+    <uzo tip="fak">MUZ</uzo>
+    <dif>
+      Latuna <ref tip="lst"
+      cel="instru2.blov0o"
+      lst="voko:blovinstrumentoj">blovinstrumento</ref>
+      kun akuta sono, uzata ofte &ccirc;e infanterio:
+      <ekz>
+        anta&ubreve; unu jaro neniu en nia vila&gcirc;o scipovis ludi <tld/>on, nek
+        
+        e&ccirc; tamburon
+        <fnt><bib>KielAkvo</bib>, <lok>1:1</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_g;&c_o;&c_r;&c_n;</trd>,
+    <trd>&c_t;&c_r;&c_u;&c_b;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>flíglhorn</trd>,
+    <trd>flíglhorna</trd>,
+    <trd>křídlovka</trd>,
+    <trd>polnice</trd>,
+    <trd>trubka</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Zinke</trd>,
+    <trd>Signalhorn</trd>
+  </trdgrp>
+  <trd lng="en">bugle</trd>
+  <trd lng="es">clar&iacute;n</trd>
+  <trd lng="fr">clairon<klr tip="ind"> (instrument de mus.)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>(jelz&odblac;)<ind>k&uuml;rt</ind></trd>,
+    <trd>(katonai) <ind>trombita</ind></trd>
+  </trdgrp>
+  <trd lng="id">klarino</trd>
+  <trdgrp lng="it">
+     <trd>chiarina</trd>,
+     <trd>clarino<klr> (mus.)</klr></trd>,
+     <trd>cornetto</trd>
+  </trdgrp>
+  <trd lng="nl">klaroen</trd>
+  <trd lng="pl">tr&aogonek;bka <ind>sygna&lstroke;&oacute;wka</ind></trd>
+  <trdgrp lng="pt">
+    <trd>clarim</trd>
+  </trdgrp>
+  <trd lng="ru">&c_g;&c_o;&c_r;&c_n;</trd>
+  <trd lng="sk">krídlovka</trd>
+</drv>
+
+<drv mrk="klario.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="klario.0a.FIG">
+    <dif>
+      Sonanta simile al <tld/>o, tio estas klare, akute, la&ubreve;te:
+      <ekz>
+        <ind><tld/>a vo&ccirc;o</ind>.
+        <trd lng="hu">k&uuml;rtsz&oacute;</trd>
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="en">clarion</trd>
+  <trdgrp lng="fr">
+    <trd>de <ind>clairon</ind></trd>,
+    <trd>claironnant</trd>
+  </trdgrp>
+  <trd lng="hu">k&uuml;rt-</trd>
+  <trd lng="nl">zoals een <ind>klaroen</ind></trd>
+  <trd lng="ru">&c_t;&c_r;&c_u;&c_b;&c_n;&c_y;&c_j;</trd>
+</drv>
+
+<drv mrk="klario.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="klario.0i.MUZ">
+    <dif>
+      Fari sonon per <tld/>o.
+    </dif>
+    <trd lng="hu">k&uuml;rtjelet ad</trd>
+    <rim>
+      &Ccirc;iuj verboj, derivitaj de nomoj de muzikiloj,
+      konsekvence devas esti transitivaj, &ccirc;ar kiel rekta objekto
+      servas ludata muzika&jcirc;o, ekz.: <tld/>i preludon.
+      (Jurij Finkel)
+    </rim>
+  </snc>
+  <snc mrk="klario.0i.MIL">
+    <uzo tip="fak">MIL</uzo>
+    <dif>
+      Alvoki soldatojn signale per <tld/>o:
+      <ekz>
+        oni <tld/>is la elliti&gcirc;on <klr>(a&ubreve;: al la
+        elliti&gcirc;o)</klr>,
+        tagmezon, prepari&gcirc;on al formar&scirc;o, kolekti&gcirc;on,
+        enkazerni&gcirc;on.
+      </ekz>
+    </dif>
+    <trd lng="en">sound</trd>
+    <trd lng="hu">trombit&aacute;l</trd>
+  </snc>
+  <trd lng="be">&c_t;&c_r;&c_u;&c_b;&c_ib;&c_c;&c_mol;</trd>
+  <trd lng="cs">svolávat trubkou</trd>
+  <trdgrp lng="fr">
+    <trd>claironner</trd>,
+    <trd>sonner<klr tip="ind"> (appeler par un signal de
+    clairon)</klr></trd>
+  </trdgrp>
+  <trd lng="it">dare il segnale con la <ind>chiarina</ind></trd>
+  <trdgrp lng="nl">
+    <trd>op de <ind>klaroen</ind> blazen</trd>
+  </trdgrp>
+  <trd lng="ru">&c_t;&c_r;&c_u;&c_b;&c_i;&c_t;&c_mol;</trd>
+  <trd lng="sk">zvolávať trúbkou</trd>
+</drv>
+
+<drv mrk="klario.0isto">
+  <kap><tld/>isto</kap>
+  <snc mrk="klario.0isto.MUZ">
+    <dif>
+      Ludanto de <tld/>o.
+    </dif>
+  </snc>
+  <trd lng="cs">trumpetista</trd>
+  <trd lng="fr"><klr tip="ind">(joueur de) </klr>clairon</trd>
+  <trd lng="hu">k&uuml;rt&ouml;s</trd>
+  <trd lng="it">suonatore di <ind>chiarina</ind></trd>
+  <trd lng="nl">klaroenblazer</trd>
+  <trd lng="ru">&c_g;&c_o;&c_r;&c_n;&c_i;&c_s;&c_t;</trd>
+  <trd lng="sk">trumpetista</trd>
+</drv>
+</art>
+<!--
+$Log: klario.xml,v $
+Revision 1.27  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.26  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.25  2014/10/26 02:10:28  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.24  2013/09/08 18:10:43  revo
+Wolfram Diestel: ref al listo blovinstrumentoj
+
+Revision 1.23  2010/09/12 16:30:25  revo
+Antonio Codazzi: ++it
+
+Revision 1.22  2010/06/11 16:30:20  revo
+Antonio Codazzi: +trd it
+
+Revision 1.21  2009/08/30 16:31:36  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.20  2009/04/02 16:30:48  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.19  2007/06/17 16:30:39  revo
+Jeromo Vasxe: + 1 ekz
+
+Revision 1.18 2006/02/08 17:32:24 revo
+-->
+</vortaro>

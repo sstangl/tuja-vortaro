@@ -1,0 +1,138 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: kul.xml,v 1.33 2015/07/04 08:37:38 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>kul</rad>/o
+</kap>
+
+<drv mrk="kul.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <uzo tip="fak">ZOO</uzo>
+  <snc>
+    <dif>
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:zoologiaj_genroj">Genro</ref> el la familio <ref
+      tip="malprt"
+cel="kuled.0oj"><tld/>edoj</ref>
+      (<trd lng="la">Culex</trd>), kies inoj su&ccirc;as sangon de
+mamuloj kaj
+      birdoj kaj kies piko ka&ubreve;zas malagrablan jukadon:
+      <ekz>
+        <tld/>o nenion valoras, sed &gcirc;ia piko doloras
+        <klr>(malgranda ka&ubreve;zo povas estigi gravan efikon).
+        <refgrp tip="vid">
+          <ref cel="efik.0o">efiko</ref>,
+          <ref cel="kopek.0o">kopeko</ref>
+        </refgrp>
+        </klr><fnt><bib>PrV</bib></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_k;&c_a;&c_m;&c_a;&c_r;</trd>
+  <trd lng="bg">&c_k;&c_o;&c_m;&c_a;&c_r;</trd>
+  <trd lng="ca">mosquit</trd>
+  <trd lng="cs">komár</trd>
+  <trd lng="de">Stechm&uuml;cke</trd>
+  <trd lng="en">mosquito</trd>
+  <trdgrp lng="es">
+    <trd>mosquito (de g&eacute;nero Culex)</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>moustique</trd>
+  </trdgrp>
+  <trd lng="hu">sz&uacute;nyog</trd>
+  <trd lng="id">nyamuk</trd>
+  <trd lng="it">zanzara</trd>
+  <trd lng="nl">mug</trd>
+  <trd lng="pl">komar</trd>
+  <trdgrp lng="pt">
+    <trd>pernilongo</trd>,
+    <trd>muri&ccedil;oca</trd>
+  </trdgrp>
+  <trd lng="ru">&c_k;&c_o;&c_m;&c_a;&c_r;</trd>
+  <trd lng="sk">komár</trd>
+  <trd lng="sv">mygga</trd>
+</drv>
+
+<drv mrk="kul.0vualo">
+  <kap><tld/>vualo</kap>
+  <snc>
+    <dif>
+      Vualo el gazo, kiun oni metas &ccirc;e fenestroj a&ubreve;
+      &ccirc;irka&ubreve; litoj, por sin &scirc;irmi kontra&ubreve;
+      <tld/>oj:
+      <ekz>
+        levinte la <tld/>vualon, li vidis fortajn brilojn
+        filtri&gcirc;i tra la fermitaj fenestro kaj pordo
+        <fnt><bib>RugxDom</bib> <lok>&ccirc;apitro 49a, p.
+122a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_je;&c_t;&c_k;&c_a; &c_a;&c_d;
+  <ind>&c_k;&c_a;&c_m;&c_a;&c_r;&c_o;&c_w;</ind></trd>
+  <trd lng="ca">mosquitera</trd>
+  <trdgrp lng="cs">
+    <trd>moskytiéra</trd>,
+    <trd>závoj proti hmyzu</trd>
+  </trdgrp>
+  <trd lng="de">M&uuml;ckennetz</trd>
+  <trdgrp lng="en">
+    <trd>mosquito net</trd>
+    <trd>mosquito netting</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>mosquitero</trd>,
+    <trd>mosquitera</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>moustiquaire</trd>
+  </trdgrp>
+  <trd lng="hu">sz&uacute;nyogh&aacute;l&oacute;</trd>
+  <trd lng="id">kelambu</trd>
+  <trdgrp lng="nl">
+    <trd>hor</trd>,
+    <trd>muggengordijn</trd>
+  </trdgrp>
+  <trd lng="pt">mosquiteiro</trd>
+  <trd lng="ru">&c_s;&c_je;&c_t;&c_k;&c_a; &c_o;&c_t;
+&c_k;&c_o;&c_m;&c_a;&c_r;&c_o;&c_v;</trd>
+  <trd lng="sk">sieť proti komárom</trd>
+  <trd lng="sv">myggn&auml;t</trd>
+</drv>
+</art>
+<!--
+$Log: kul.xml,v $
+Revision 1.33  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.32  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.31  2014/10/23 17:10:14  revo
+Guillermo Molleda Jimena: trd es
+
+Revision 1.30  2014/10/20 11:10:13  revo
+Guillermo Molleda Jimena: trd es
+
+Revision 1.29  2013/09/29 17:10:36  revo
+Wolfram Diestel: kor. lst-ref
+
+Revision 1.28  2013/09/01 15:46:20  revo
+Wolfram Diestel: referenco al listo zoo genroj
+
+Revision 1.27  2013/03/24 17:10:11  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.26  2012/08/04 09:10:33  revo
+Marc Rausell: + trd ca
+
+Revision 1.25  2012/01/12 21:10:07  revo
+Eduardo Navas: +trad es
+
+Revision 1.24  2012/01/10 00:10:20  revo
+-->
+</vortaro>

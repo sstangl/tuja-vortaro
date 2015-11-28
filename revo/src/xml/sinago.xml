@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+  <art mrk="$Id: sinago.xml,v 1.18 2015/07/04 08:37:43 revo Exp $">
+    <kap>
+      <ofc>2</ofc>
+      <rad>sinagog</rad>/o
+    </kap>
+
+    <drv mrk="sinago.0o">
+      <kap><tld/>o</kap>
+      <uzo tip="fak">REL</uzo>
+      <snc mrk="sinago.0o.pregxejo">
+	<dif>
+	  Juda pre&gcirc;ejo.
+	</dif>
+	<trd lng="be">&c_s;&c_y;&c_n;&c_a;&c_g;&c_o;&c_g;&c_a;</trd>
+	<trd lng="de">Synagoge</trd>
+	<trd lng="en">synagogue</trd>
+        <trd lng="es">sinagoga</trd>
+	<trd lng="fr">synagogue</trd>
+	<trdgrp lng="hu">
+	  <trd>zsid&oacute; <ind>templom</ind></trd>,
+	  <trd>zsinag&oacute;ga</trd>
+        </trdgrp>
+        <trd lng="it">sinagoga</trd>
+	<trd lng="nl">synagoge</trd>
+	<trd lng="pl">synagoga</trd>
+	<trd lng="ru">&c_s;&c_i;&c_n;&c_a;&c_g;&c_o;&c_g;&c_a;</trd>
+      </snc>
+
+      <snc mrk="sinago.0o.KRI">
+	<uzo tip="fak">KRI</uzo>
+	<dif>
+	  Tuto de la juda religio.
+	</dif>
+	<rim>
+	  &Scirc;ajnas ke tiu uzo de la vorto imitas la terminon de iuj
+	  kristanaj konfesioj, kiuj prezentas <tld/>on kiel embrion de
+	  la kristana eklezio; mi dubas, ke tia vortuzo estas
+	  rekomendinda. PIV2 &gcirc;in ne indikas (sed anstata&ubreve;e
+	  prezentas la sencon, analogian al paro&hcirc;o).
+	  <aut>Sergio Pokrovskij</aut>
+	</rim>
+      </snc>
+  <trdgrp lng="cs">
+    <trd>synagoga</trd>,
+    <trd>židovská modlitebna</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>synagóga</trd>,
+    <trd>židovská modlitebňa</trd>
+  </trdgrp>
+</drv>
+  </art>
+  <!--
+  $Log: sinago.xml,v $
+  Revision 1.18  2015/07/04 08:37:43  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.17  2015/06/29 16:33:23  revo
+  aldono de trd sk per skripto de M. von Laer
+
+  Revision 1.16  2013/08/06 01:10:12  revo
+  Carlos Garcia: +trd es -o
+
+  Revision 1.15  2009/10/12 16:30:54  revo
+  Antonio Codazzi: +trd it
+
+  Revision 1.14  2008/05/19 16:30:44  revo
+  Sebastian Cyprych: +trd pl
+
+  Revision 1.13  2004/10/12 16:31:56  revo
+  Jozefo Horvath: kor. trd hu
+
+  Revision 1.12  2003/12/02 17:30:26  revo
+  Sergio Pokrovskij: snc-mrk, rim, uzo-fak
+
+  Revision 1.11  2003/01/10 17:33:22  revo
+  Zmicier Lapcionak: + trd be
+
+  Revision 1.10  2002/08/02 10:13:48  revo
+  Jozefo Horvath: +trd hu
+
+  Revision 1.9  2002/02/12 17:32:50  revo
+  Yury Finkel: +trd ru
+
+  Revision 1.8 2001/09/17 18:13:43 revo
+  Dennis Wibrow: +trd angl kaj frc
+
+  Revision 1.7 2001/07/27 19:32:42 revo
+  Paul Peeraerts: ald trd nl
+
+  Revision 1.6 2001/02/17 20:33:08 revo
+  oficialeco per programo de JM Lugrin
+
+  Revision 1.5 2001/02/06 18:51:56 revo
+  Ulrich Fellmann: aldono de fakindiko REL
+
+  Revision 1.4 2001/02/05 17:12:28 revo
+  -->
+</vortaro>

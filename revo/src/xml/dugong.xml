@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: dugong.xml,v 1.6 2014/11/09 04:10:28 revo Exp $">
+<kap>
+  <rad>dugong</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+
+<drv mrk="dugong.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="dugong.0o.ZOO">
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      Algoman&gcirc;aj marmamuloj vivantaj &ccirc;e bordoj de la Hinda Maro kaj
+      de la okcidenta Pacifiko, sola 
+      <ref tip="lst" cel="speci.0o.BIO"
+      lst="voko:zoologiaj_specioj">specio</ref>
+       de la familio dugongedoj,
+      ordo <ref tip="lst" cel="siren.0oj.ZOO"
+      lst="voko:sirenoj">sirenoj</ref> 
+      (<trd lng="la">Dugong dugon</trd>):
+      <ekz>
+        mi demandos, &ccirc;u bongustas viando de <tld/>o
+        <fnt><bib>HomojMan&gcirc;antaj</bib>, <lok>man&gcirc;i marvirineton, p.
+        29a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="de">
+    <trd>Dugong</trd>,
+    <trd>Gabelschwanzseekuh</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>dugong</trd>,
+    <trd>vache marine</trd>
+  </trdgrp>
+  <trd lng="id">duyung</trd>
+  <trdgrp lng="pt">
+    <trd>dugongo</trd>,
+    <trd>vaca-marinha</trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log: dugong.xml,v $
+Revision 1.6  2014/11/09 04:10:28  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.5  2014/02/08 10:10:16  revo
+Damien Brucker: -eraro cxe ref
+
+Revision 1.4  2013/10/20 13:10:13  revo
+Wolfram Diestel: ref al lst sirenoj, ZOO specioj
+
+Revision 1.3  2007/09/08 16:30:18  revo
+Tulio Flores: +tr pt
+
+Revision 1.2  2007/06/23 16:31:25  revo
+Wieland Pusch: +trd de
+
+-->
+</vortaro>

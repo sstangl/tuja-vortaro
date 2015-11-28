@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: nikoti.xml,v 1.17 2015/07/04 08:37:40 revo Exp $">
+<kap>
+  <rad>nikotian</rad>/o
+</kap>
+<drv mrk="nikoti.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">BOT</uzo>
+  <snc>
+    <dif>
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:botanikaj_genroj">Genro</ref> el familio <ref
+      tip="malprt" cel="solana.0oj">solanacoj</ref>
+      (<trd lng="la">Nicotiana</trd>), 
+      ordinare unujara <ref tip="lst" cel="herb.0o" 
+      lst="voko:solanoparencoj">herbo</ref> a&ubreve; molligna arbusto,
+      el kies sekigitaj folioj oni
+      faras <ref tip="vid" cel="tabak.0o.fumado">tabakon</ref>.
+    </dif>
+  </snc>
+  <trd lng="be">&c_t;&c_y;&c_t;&c_u;&c_n;&c_mol;
+  <klr tip="amb">(&c_r;&c_a;&c_s;&c_mol;&c_l;&c_ib;&c_n;&c_a;)</klr>
+  </trd>
+  <trd lng="ca">nicotiana</trd>
+  <trd lng="cs">tabák <klr>(rostlina)</klr></trd>
+  <trd lng="de">Tabakpflanze</trd>
+  <trd lng="hu">doh&aacute;ny<klr tip="ind">
+(n&ouml;v&eacute;ny)</klr></trd>
+  <trd lng="nl">tabaksplant</trd>
+  <trd lng="pl">tyto&nacute;</trd>
+  <trd lng="pt">nicociana</trd>
+  <trdgrp lng="ru">
+    <trd>&c_n;&c_i;&c_k;&c_o;&c_t;&c_i;&c_a;&c_n;&c_a;</trd>,
+    <trd>&c_t;&c_a;&c_b;&c_a;&c_k;
+    <klr tip="amb">(&c_r;&c_a;&c_s;&c_t;&c_je;&c_n;&c_i;&c_je;)</klr>
+    </trd>
+  </trdgrp>
+  <trd lng="sk">tabak <klr>(rastlina)</klr></trd>
+  <trd lng="tr">t&uuml;t&uuml;n</trd>
+</drv>
+</art>
+<!--
+$Log: nikoti.xml,v $
+Revision 1.17  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:33:21  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.15  2013/11/02 18:10:17  revo
+Wolfram Diestel: prilaboretis dif, ref al lst solanoparencoj
+
+Revision 1.14  2013/08/29 13:10:19  revo
+Wolfram Diestel: referenco al listo bot genroj
+
+Revision 1.13  2012/08/13 15:10:25  revo
+Marc Rausell: + trd ca
+
+Revision 1.12  2008/09/29 16:30:21  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.11  2004/02/19 18:50:12  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.10  2002/06/16 17:32:15  revo
+Eduardo M. Kalinowski: ald trd pt
+
+Revision 1.9  2002/05/09 18:43:10  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.8  2001/11/30 17:34:59  revo
+-->
+</vortaro>

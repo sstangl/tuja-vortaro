@@ -1,0 +1,148 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: analog.xml,v 1.20 2015/07/04 08:37:30 revo Exp $">
+<kap>
+  <ofc>7</ofc>
+  <rad>analog</rad>/a <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="analog.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="analog.0a.KOMUNE">
+    <dif>
+      <ref tip="vid" cel="simil.0a">Simila</ref>
+      la&ubreve; kelkaj rilatoj al alia afero de malsama speco;
+      parte simila.
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_a;&c_n;&c_a;&c_l;&c_ja;&c_g;&c_ib;&c_ch;&c_n;&c_y;</trd>,
+      <trd>&c_p;&c_a;&c_d;&c_o;&c_b;&c_n;&c_y;</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+     <trd>entsprechend</trd>,
+     <trd>gleichartig</trd>,
+     <trd>analog</trd>
+    </trdgrp>
+    <trd lng="de">analog</trd>
+    <trd lng="en">analogous</trd>
+    <trd lng="fr">analogue</trd>
+    <trd lng="es">an&aacute;logo</trd>
+    <trd lng="nl">analoog</trd>
+    <trdgrp lng="it">
+      <trd>analogo</trd>,
+      <trd>simile</trd>
+    </trdgrp>
+    <trd lng="ru">&c_a;&c_n;&c_a;&c_l;&c_o;&c_g;&c_i;&c_ch;&c_n;&c_y;&c_j;</trd>
+    <trdgrp lng="sk">
+      <trd>obdobn&yacute;</trd>,
+      <trd>analogick&yacute;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="analog.0a.BIO">
+    <uzo tip="fak">BIO</uzo>
+    <dif>
+      Simila la&ubreve; funkcio sed la&ubreve; biologia historio ne samdevena:
+      <ekz>
+        la flugiloj de vesperto estas organo <tld/>a, sed ne simila,
+        je la flugiloj de birdo.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="homolo.0a.BIO">homologa<sncref/></ref>
+    </refgrp>
+    <trd lng="fr">analogue<klr> (biol.)</klr></trd>
+  </snc>
+  <snc mrk="analog.0a.TEK">
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      Funkcianta surbaze de fizika simulado, kaj precipe per kontinuaj
+      grandoj; <ref tip="sin" cel="kontin3.0a">kontinua</ref>:
+      <ekz>
+        <tld/>a komputilo, <tld/>a televido, <tld/>a modelo.
+      </ekz>
+    </dif>
+    <refgrp tip="ant">
+      <ref cel="cifer.0eca">cifereca</ref>
+    </refgrp>
+    <trd lng="be">&c_a;&c_n;&c_a;&c_l;&c_ja;&c_g;&c_a;&c_v;&c_y;</trd>
+    <trd lng="en">analog</trd>
+    <trd lng="es">anal&oacute;gico</trd>
+    <trd lng="fr">analogique</trd>
+    <trd lng="nl">analoog</trd>
+    <trd lng="it">analogico</trd>
+    <trd lng="ru">&c_a;&c_n;&c_a;&c_l;&c_o;&c_g;&c_o;&c_v;&c_y;&c_j;</trd>
+    <trd lng="sk">anal&oacute;gov&yacute;</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>analogový</trd>,
+    <trd>spojitý</trd>,
+    <trd>spojitě se měnící</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="analog.0eco">
+  <kap><tld/>eco</kap>
+  <snc>
+    <dif>
+      Parta simileco de malsamspecaj objektoj.
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_n;&c_a;&c_l;&c_ja;&c_g;&c_ib;&c_ch;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
+    <trd>&c_a;&c_n;&c_a;&c_l;&c_ja;&c_g;&c_a;&c_v;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>analogie</trd>,
+    <trd>obdoba</trd>,
+    <trd>podobnost</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+     <trd>Entsprechung</trd>,
+     <trd>Analogie</trd>
+  </trdgrp>
+  <trd lng="en">analogousness</trd>
+  <trdgrp lng="fr">
+    <trd>analogie</trd>,
+    <trd>similitude</trd>
+  </trdgrp>
+  <trd lng="nl">analogie</trd>
+  <trdgrp lng="ru">
+    <trd>&c_a;&c_n;&c_a;&c_l;&c_o;&c_g;&c_i;&c_ch;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>;
+    <trd>&c_a;&c_n;&c_a;&c_l;&c_o;&c_g;&c_o;&c_v;&c_o;&c_s;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="sk">obdobnosť</trd>
+</drv>
+</art>
+<!--
+$Log: analog.xml,v $
+Revision 1.20  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2013/11/27 02:10:17  revo
+Jeromo Vasxe: + ref vid
+
+Revision 1.17  2011/03/04 15:10:09  revo
+Jeromo Vasxe: + disting. snc komuna/bio
+
+Revision 1.16  2003/11/05 17:30:38  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.15  2003/02/18 17:31:02  revo
+Ulrich Fellmann: + 5 trd = de  +  rim
+
+Revision 1.14  2002/10/08 17:57:00  revo
+Christopher Zervic: + ang
+
+Revision 1.13  2002/09/07 17:40:52  revo
+Viliam Bur: +sk trd
+
+Revision 1.12  2002/05/09 18:44:41  revo
+Alejandro Mejia Greene: ald 2 his trd
+
+Revision 1.11  2002/02/23 19:48:54  revo
+-->
+</vortaro>

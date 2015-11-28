@@ -1,0 +1,971 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: vic.xml,v 1.56 2015/10/01 22:10:19 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>vic</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="vic.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="vic.0o.spaca">
+    <dif>
+      Sinsekvo da personoj a&ubreve; objektoj aran&gcirc;itaj
+      la&ubreve; unu linio, unu apud a&ubreve; post alia:
+      <ekz>
+        la rivero fluas inter du montaj <tld/>oj<fnt>B</fnt>;
+      </ekz>
+      <ekz>
+        birdoj fluge sekvis en du longaj <tld/>oj<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        <tld/>oj da dometoj en vila&gcirc;o<fnt>B</fnt>;
+      </ekz>
+      <ekz>
+        <tld/>oj da soldatoj;
+      </ekz>
+      <ekz>
+        la regimento staris en <tld/>oj<fnt>B</fnt>;
+      </ekz>
+      <ekz>
+        la unua <tld/>o de se&gcirc;oj en teatro<fnt>B</fnt>,
+      </ekz>
+      <ekz>
+        de arboj en &gcirc;ardeno<fnt>B</fnt>;
+      </ekz>
+      <ekz>
+        esti la lasta en la <tld/>o;
+      </ekz>
+      <ekz>
+        la Fili&scirc;toj starigis siajn <tld/>ojn kontra&ubreve;
+        Izrael<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        vi trovos en la <tld/>oj de niaj societanoj fervorajn amikojn;
+      </ekz>
+      <ekz>
+        dent<tld/>aj frontonoj<fnt>Z</fnt>
+        <klr>(prezentantaj <tld/>on da dentoj)</klr>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="ar1.0o">aro</ref>,
+      <ref cel="cxen.0o">&ccirc;eno</ref>,
+      <ref cel="proces1.0o">procesio</ref>,
+      <ref cel="seri.0o">serio</ref>,
+      <ref cel="spalir.0o">spaliro</ref>
+    </refgrp>
+    <trdgrp lng="ca">
+      <trd>rastellera</trd>,
+      <trd>filera</trd>,
+      <trd>s&egrave;rie</trd>,
+      <trd>cua</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd>Reihe</trd>,
+      <trd>Linie</trd>,
+      <trd>Schlange</trd>
+    </trdgrp>
+    <trd lng="en">row</trd>
+    <trdgrp lng="nl">
+      <trd>rij</trd>,
+      <trd>file</trd>
+    </trdgrp>
+    <trd lng="pt">fila</trd>
+    <trd lng="ru">&c_r;&c_ja;&c_d;</trd>
+  </snc>
+  <snc mrk="vic.0o.tempa">
+    <dif>
+      Longa sinsekvo da okazoj a&ubreve; momentoj en la tempo:
+      <ekz>
+        dedi&ccirc;i tutan <tld/>on da jaroj al la ellernado de la latina
+        lingvo<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        pasos kredeble ankora&ubreve; <tld/>o da jaroj, anta&ubreve; ol
+        la afero estos decidita<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        post longa <tld/>o da batalado kaj suferoj<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        &scirc;ia konduto prezentis <tld/>on da nekonsekvencaj
+        agoj<fnt>B</fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;io, kio okazis al mi estis ja <tld/>o da
+        mirakloj<fnt>B</fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="ca">
+      <trd>s&egrave;rie</trd>,
+      <trd>seguit</trd>,
+      <trd>tanda</trd>
+    </trdgrp>
+    <trd lng="de">Reihe</trd>
+    <trd lng="nl">reeks</trd>
+    <trd lng="pt">s&eacute;rie</trd>
+    <trd lng="ru">&c_ch;&c_je;&c_r;&c_je;&c_d;&c_a;</trd>
+  </snc>
+  <snc mrk="vic.0o.vicero">
+    <dif>
+      En serio da alternaj movoj a&ubreve; agoj, momento, je kiu
+      &ccirc;iu el ili plenumi&gcirc;as:
+      <ekz>
+        nun estas via <tld/>o ludi;
+      </ekz>
+      <ekz>
+        &gcirc;is nun oni atakadis aliajn urbojn, nun venis la <tld/>o
+        al nia urbo<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        plenumita via ofico, nun pasis via <tld/>o
+        <fnt><bib>PrV</bib></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_ch;&c_a;&c_r;&c_g;&c_a;</trd>
+    <trdgrp lng="ca">
+       <trd>torn</trd>,
+       <trd>volt</trd>
+      </trdgrp>      
+    <trd lng="de">Reihe</trd>
+    <trd lng="nl">beurt</trd>
+    <trd lng="pt">vez</trd>
+    <trd lng="ru">&c_o;&c_ch;&c_je;&c_r;&c_je;&c_d;&c_mol;</trd>
+  </snc>
+  <snc mrk="vic.0o.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>PIV1</bib></fnt>
+    <dif>
+      <klr>(en aro <frm><g>E</g></frm>)</klr>
+      <ref tip="super" cel="bild.0igo.MAT">Bildigo</ref> de iu subaro de
+      la aro de entjeroj al <frm><g>E</g></frm>:
+      <ekz>
+        entjera, racionala, reela, kompleksa <tld/>o <klr>(<tld/>o de
+        entjeroj, ks)</klr>;
+      </ekz>
+      <ekz>
+        la <tld/>o de &ccirc;iuj entjeraj kvadratoj <klr>(la bildigo, kiu
+        &jcirc;etas naturalan entjeron <frm><k>n</k></frm> al
+        <frm><k>n</k><sup>2</sup></frm>)</klr>.
+      </ekz>
+    </dif>
+    <refgrp tip="super">
+      <ref cel="famili.0o.bildigo">familio</ref>;
+    </refgrp>
+    <refgrp tip="sub">
+      Specifaj vicoj:
+      <ref cel="polino.0o.formala">polinomo</ref>,
+      <ref cel="progre1.0o">progresio</ref>,
+      <ref cel="seri.0o.MAT">serio</ref>,
+      <ref cel="vic.finia0o">finia <tld/>o</ref>,
+      <ref cel="vic.0o.de_funkcioj"><tld/>o de funkcioj</ref>,
+      <ref cel="vic.sub0o">sub<tld/>o</ref>;
+    </refgrp>
+    <refgrp tip="sub">
+      Rimarkindaj vicoj:
+      <ref cel="vic.kosxia0o">ko&scirc;ia <tld/>o</ref>,
+      <ref cel="vic.aritmetika0o">aritmetika <tld/>o</ref>,
+      <ref cel="vic.geometria0o">geometria <tld/>o</ref>,
+      <ref cel="vic.harmona0o">harmona <tld/>o</ref>;
+    </refgrp>
+    <refgrp tip="vid">
+      Te&hcirc;nikaj terminoj ligitaj kun vicoj:
+      <ref cel="term.0o.vico">termo</ref>,
+      <ref cel="indic.0o.familio">indico</ref>;
+    </refgrp>
+    <refgrp tip="vid">
+      Rimarkindaj ecoj de vico:
+      <ref cel="bar.0ita.metrikaspaco">barita</ref>,
+      <ref cel="konsta.0a.bildigo">konstanta</ref>,
+      <ref cel="kresk.0anta.bildigo">kreskanta</ref>,
+      <ref cel="kresk.mal0anta.bildigo">malkreskanta</ref>,
+      <ref cel="konver.0a.vico">konver&gcirc;a</ref>;
+    </refgrp>
+    <refgrp tip="vid">
+      Rimarkindaj punktoj rilate vicon:
+      <ref cel="adher.0a.vico">adhera</ref> punkto,
+      <ref cel="limes.0o.vico">limeso</ref>.
+    </refgrp>
+    <rim>
+      La nocio <tld/>o servas por formale paroli pri sinsekvoj da
+      elementoj el <frm><g>E</g></frm>, ekz-e la sinsekvo
+      <frm>(1/<k>n</k>)<sub><k>n</k> &gt; 0</sub></frm> de &ccirc;iuj
+      inversoj de pozitivaj entjeroj. Anstata&ubreve; uzi funkciecan
+      skriba&jcirc;on por signi <tld/>on, oni kutime preferas skribi
+      <frm>(<k>u</k><sub><k>i</k></sub>)<sub><k>i</k>&#8712;<g>I</g></sub></frm>.
+      La bildon de <frm><k>n</k></frm> per <frm><k>u</k></frm> oni nomas
+      la <frm><k>n</k></frm>-a termo de la <tld/>o kaj oni signas per
+      <frm><k>u</k><sub><k>n</k></sub></frm>. Konforme kun tia
+      skriba&jcirc;o <frm><k>n</k></frm> estas nomata la indico.
+    </rim>
+    <trd lng="be">&c_p;&c_a;&c_s;&c_mol;&c_l;&c_ja;&c_d;&c_o;&c_w;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+    <trd lng="ca">successi&oacute;</trd>
+    <trd lng="de">Folge</trd>
+    <trd lng="en">sequence</trd>
+    <trd lng="fr">suite<klr tip="ind"> (math.)</klr></trd>
+    <trd lng="nl">reeks</trd>
+    <trd lng="pl">ci&aogonek;g</trd>
+    <trd lng="pt">seq&uuml;&ecirc;ncia</trd>
+    <trd lng="ru">&c_p;&c_o;&c_s;&c_l;&c_je;&c_d;&c_o;&c_v;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_sh;&c_e;&c_r;&c_a;&c_g;</trd>,
+    <trd>&c_ch;&c_a;&c_r;&c_a;&c_d;&c_a;</trd>,
+    <trd>&c_r;&c_a;&c_d;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>fronta</trd>,
+    <trd>po&rcaron;ad&iacute;</trd>,
+    <trd>z&aacute;stup</trd>,
+    <trd>&rcaron;ada</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>rang</trd>,
+    <trd>rang&eacute;e</trd>,
+    <trd>file<klr tip="ind"> (rang&eacute;e)</klr></trd>,
+    <trd>suite<klr tip="ind"> (succession, math.)</klr></trd>,
+    <trd>s&eacute;rie<klr tip="ind"> (succession)</klr></trd>,
+    <trd>succession</trd>,
+    <trd>tour<klr tip="ind"> (rang)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>sor</trd>,
+    <trd>sorozat</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>poradie</trd>,
+    <trd>rad</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="vic.0">
+  <kap><tld/>-</kap>
+  <uzo tip="klr">(prefikse uzata)</uzo>
+  <snc mrk="vic.0.POL">
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      Helpa kaj la&ubreve;bezone anstata&ubreve;anta kiam mankas
+      la normala plenumanto:
+      <ekz>
+        vi havu la bonecon, elekti kiel helpon por mi, kelkajn 
+        <ind><tld/>prezidanto</ind>jn
+        <trd lng="hu">aleln&ouml;k</trd>
+        <fnt>
+          <bib>Paroloj</bib>,
+          <lok>Parolado en la Unua &Gcirc;enerala Kunveno, 1905</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <ind><tld/>re&gcirc;o</ind>;
+        <trd lng="hu">alkir&aacute;ly</trd>
+      </ekz>  
+      <ekz>
+        <tld/>lui, <tld/>luigi.
+      </ekz>
+    </dif>
+    <trdgrp lng="ca">
+      <trd>vice-</trd>,
+      <trd>sots-</trd>
+    </trdgrp>
+    <trd lng="fr">vice-</trd>
+  </snc>
+  <snc mrk="vic.0.GEN">
+    <uzo tip="fak">GEN</uzo>
+    <dif>
+      Boparenca tra alia parulo de la patro
+      a&ubreve; de la patrino, ol tiu, de kiu oni naski&gcirc;is;
+      <ref tip="sin" cel="stif.0.GEN">stif-</ref>:
+      <ekz>
+        la juna frato de mia <tld/>patrino edzi&gcirc;is al Liliane
+        <fnt>
+          <aut>A. LeQuint</aut>,
+          <vrk>Infantraviva&jcirc;oj</vrk>,
+          <lok>2006</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="du.0on.GEN">duon-<sncref/></ref>
+    </refgrp>
+    <trd lng="ca">-astre (parent per segones n&uacute;pcies)</trd>
+    <trdgrp lng="fr">
+      <trd>beau-<klr> (parent suite &agrave; un 2e mariage)</klr></trd>,
+      <trd>belle-<klr> (parent suite &agrave; un 2e mariage)</klr></trd>
+    </trdgrp>
+  </snc>
+</drv>
+  
+<drv mrk="vic.0e">
+  <kap><tld/>e</kap>
+  <snc mrk="vic.0e.KOMUNE">
+    <dif>
+      La&ubreve; <tld/>o a&ubreve; <tld/>oj:
+      <ekz>
+        cent salonoj trovi&gcirc;is <tld/>e unu post la aliaj<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="ca">
+    <trd>en filera</trd>,
+    <trd>en rengs</trd>
+  </trdgrp>
+  <trd lng="cs">podle po&rcaron;ad&iacute;</trd>
+  <trdgrp lng="fr">
+    <trd>&agrave; la <ind>suite</ind></trd>,
+    <trd>d'<ind>affil&eacute;e</ind></trd>,
+    <trd>en <ind>enfilade</ind></trd>
+  </trdgrp>
+  <trd lng="hu">sorban</trd>
+  <trd lng="sk">pod&lcaron;a poradia</trd>
+</drv>
+
+<drv mrk="vic.0ede">
+  <kap><tld/>e de</kap>
+  <gra><vspec>prepozicia&Jcirc;o</vspec></gra>
+  <snc mrk="vic.0ede.KOMUNE">
+    <dif>
+      <ref tip="vid" cel="anstat.0.prep">Anstata&ubreve;</ref>,
+      <ref tip="vid" cel="nom.0ede.KOMUNE">nome de</ref>:
+      <ekz>
+        ili povas, almena&ubreve; dum la da&ubreve;ro de mallonga mandato, paroli 
+        <tld/>e de la tuta komunumo
+        <fnt>
+          <aut>P. Dasgupta</aut>,
+          <vrk>Lo&gcirc;i en homaj lingvoj: la substancisma perspektivo</vrk>,
+          <lok>2011</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="fr">
+    <trd>&agrave; la place de</trd>,
+    <trd>pour<klr> (&agrave; la place de)</klr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="vic.0igi">
+  <kap><tld/>igi</kap>
+  <snc mrk="vic.0igi.KOMUNE">
+    <dif>
+      Aran&gcirc;i la&ubreve; <tld/>oj:
+      <ekz>
+        <tld/>igi soldatojn por parado.
+      </ekz>
+    </dif>
+    <trdgrp lng="ca">
+      <trd>arrenglar</trd>,
+      <trd>afilerar</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>aligner<klr tip="ind"> (mettre en file)</klr></trd>,
+      <trd>mettre en <ind>file</ind></trd>,
+      <trd>ranger<klr tip="ind"> (mettre en rang)</klr></trd>
+    </trdgrp>
+    <trd lng="nl">in een <ind>rij</ind> opstellen</trd>
+    <trd lng="pt">enfileirar</trd>
+    <trd lng="ru">&c_p;&c_o;&c_s;&c_t;&c_r;&c_o;&c_i;&c_t;&c_mol;
+    <klr>(&c_r;&c_ja;&c_d;&c_a;&c_m;&c_i;)</klr></trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>rozvrhnout po&rcaron;ad&iacute;</trd>,
+    <trd>uspo&rcaron;&aacute;dat dle po&rcaron;ad&iacute;</trd>,
+    <trd>&rcaron;adit</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>sorba &aacute;ll&iacute;t</trd>,
+    <trd>sorol</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>vradi&tcaron;</trd>,
+    <trd>zaradi&tcaron;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="vic.0igxi">
+  <kap><tld/>i&gcirc;i, <var><kap>en<tld/>i&gcirc;i</kap></var></kap>
+  <snc mrk="vic.0igxi.KOMUNE">
+    <dif>
+      Meti&gcirc;i en la <tld/>ojn:
+      <ekz>
+        tiu pre&gcirc;ejo <tld/>i&gcirc;as inter
+        la plej grandaj konstruoj en la mondo.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="ca">
+    <trd>allistar-se</trd>,
+    <trd>empla&ccedil;ar-se</trd>
+  </trdgrp>
+    <trdgrp lng="fr">
+      <trd>s'<ind>aligner</ind></trd>,
+      <trd>se <ind>ranger</ind><klr tip="ind"> (se mettre en
+      rangs)</klr></trd>,
+      <trd>compter (parmi)</trd>,
+      <trd>figurer (parmi)</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>sorba &aacute;ll</trd>,
+      <trd>besorol</trd>
+    </trdgrp>
+    <trd lng="nl">z. in een <ind>rij</ind> scharen</trd>
+    <trd lng="pt">enfileirar-se</trd>
+    <trdgrp lng="ru">
+      <trd>&c_s;&c_t;&c_o;&c_ja;&c_t;&c_mol; &c_v; &c_r;&c_ja;&c_d;&c_u;</trd>;
+      <trd>&c_v;&c_s;&c_t;&c_a;&c_t;&c_mol; &c_v; &c_s;&c_t;&c_r;&c_o;&c_j;</trd>
+    </trdgrp>
+</drv>
+
+<drv mrk="vic.0umi">
+  <kap><tld/>umi</kap>
+  <snc mrk="vic.0umi.KOMUNE">
+    <dif>
+      Atendadi en <tld/>o:
+      <ekz>
+        ni devis <tld/>umi en la koridoro
+        <fnt>
+          <aut>W. F. Hermans, trad. M. Meeuwissen</aut>,
+          <vrk><url ref="http://meeuw.org/wimshurst/">
+          La elektrilo de Wimshurst</url></vrk>,
+          <lok>2013-01-06</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">faire la queue</trd>
+</drv>
+
+<drv mrk="vic.al0igxi">
+  <kap>al<tld/>i&gcirc;i</kap>
+  <snc mrk="vic.al0igxi.KOMUNE">
+    <dif>
+      Aldoni&gcirc;i al <tld/>o:
+      <ekz>
+        tiu sukceso al<tld/>i&gcirc;is al la anta&ubreve;aj.
+      </ekz>
+    </dif>
+    <trdgrp lng="ca">
+      <trd>agregar-se</trd>,
+      <trd>incorporar-se</trd>,
+      <trd>sumar-se</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>prendre la <ind>suite</ind> de</trd>,
+      <trd>se mettre dans la <ind>file</ind></trd>
+    </trdgrp>
+    <trd lng="fr"></trd>
+    <trd lng="hu">hozz&aacute;sorol&oacute;dik</trd>
+    <trd lng="nl">erbij komen</trd>
+    <trd lng="ru">&c_v;&c_s;&c_t;&c_a;&c_t;&c_mol; &c_v; &c_s;&c_t;&c_r;&c_o;&c_j;, &c_v; &c_r;&c_ja;&c_d;</trd>
+  </snc>
+</drv>
+
+<drv mrk="vic.anser0e">
+  <kap>anser<tld/>e</kap>
+  <snc mrk="vic.anser0e.KOMUNE">
+    <dif>
+      Irante unu malanta&ubreve; la alia, kiel kutime pa&scirc;as <ref tip="vid" 
+      cel="anser.0o.genro">anseroj</ref>:
+      <ekz>
+        la vojeto pli kaj pli mallar&gcirc;i&gcirc;as proksime al la pinto, tiel
+        ke 
+        sur la fina parto oni devas grimpi anser<tld/>e
+        <fnt>
+          <aut>-</aut>,
+          <vrk><url
+          ref="http://www.china.org.cn/world/shi-lvyou/vidindaj_lokoj/25.htm">
+          La Monto Huangshan</url></vrk>,
+          <lok>2003</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        oni devis iri anser<tld/>e, vadante la&ubreve; mallar&gcirc;aj koridoroj de  
+        bestaj padoj
+        <fnt>
+          <aut>I. Efremov, trad. J. Finkel</aut>,
+          <vrk><url ref="http://www.esperanto.mv.ru/Efremov/arko.html">
+          La Granda Arko</url></vrk>,
+          <lok>2006</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="ca">
+    <trd>en fila &iacute;ndia</trd>,
+    <trd>l'un darrere l'altre</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>hus&iacute;m pochodem</trd>,
+    <trd>za sebou</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>&agrave; la queue-leu-leu</trd>,
+    <trd>en file indienne</trd>
+  </trdgrp>
+  <trd lng="sk">hus&iacute;m pochodom</trd>
+</drv>
+
+<drv mrk="vic.atendo0o">
+  <kap>atendo<tld/>o</kap>
+  <snc mrk="vic.atendo0o.KOMUNE">
+    <dif>
+      <tld lit="V"/>o da atendantoj.
+    </dif>
+  </snc>
+  <trd lng="be">&c_ch;&c_a;&c_r;&c_g;&c_a;</trd>
+  <trd lng="ca">cua d'espera</trd>
+  <trdgrp lng="cs">
+    <trd>fronta</trd>,
+    <trd>&rcaron;ada &uacute;loh &ccaron;ekaj&iacute;c&iacute;ch na zpracov&aacute;n&iacute;</trd>
+  </trdgrp>
+  <trd lng="de">Stau</trd>
+  <trdgrp lng="fr">
+    <trd>file d'attente</trd>,
+    <trd>queue<klr tip="ind"> (file d'attente)</klr></trd>
+  </trdgrp>
+  <trd lng="hu">sorban &aacute;ll&aacute;s</trd>
+  <trdgrp lng="nl">
+    <trd>wachtrij</trd>,
+    <trd>file</trd>
+  </trdgrp>
+  <trd lng="ru">&c_o;&c_ch;&c_je;&c_r;&c_je;&c_d;&c_mol;</trd>
+  <trd lng="sk">rad &uacute;loh &ccaron;akaj&uacute;cich na spracovanie</trd>
+</drv>
+
+<drv mrk="vic.laux0e">
+  <kap>la&ubreve;<tld/>e</kap>
+  <snc mrk="vic.laux0e.KOMUNE">
+    <dif>
+      &Ccirc;iu je sia <tld/>o; alterne:
+      <ekz>
+        la&ubreve;<tld/>e kanti;
+      </ekz>
+      <ekz>
+        mi faras bonon kaj malbonon la&ubreve;<tld/>e.
+      </ekz>
+    </dif>
+  </snc>
+  <adm>
+    Pola Radio ofte uzas "la&ubreve;~a" kun la senco "plia": "hodia&ubreve;
+    en nia la&ubreve;vica programo vi a&ubreve;dos...". Tio kongruas kun
+    simila rusa uzo de "ocherednoj". La sencon oni povus difini
+    per "la sekvonta en la vico". <aut>MB</aut>
+  </adm>
+  <trd lng="be">&c_p;&c_a; &c_ch;&c_a;&c_r;&c_z;&c_je;</trd>
+  <trdgrp lng="ca">
+    <trd>consecutivament</trd>,
+    <trd>alternativament</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>successivement</trd>,
+    <trd>tour &agrave; tour</trd>
+  </trdgrp>
+  <trd lng="hu">sorrendben</trd>  
+  <trd lng="nl">beurtelings</trd>
+  <trd lng="ru">&c_p;&c_o;&c_o;&c_ch;&c_je;&c_r;&c_jo;&c_d;&c_n;&c_o;</trd>
+</drv>
+
+<drv mrk="vic.parol0o">
+  <kap>parol<tld/>o</kap>
+  <snc mrk="vic.parol0o.KOMUNE">
+    <dif>
+      Momento, kiam iu povas paroli post aliaj
+      kaj anta&ubreve; aliaj:
+      <ekz>
+        la parol<tld/>o estas por vi.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">tour de parole</trd>
+</drv>
+
+<drv mrk="vic.par0igxi">
+  <kap>par<tld/>i&gcirc;i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="vic.par0igxi.KOMUNE">
+    <dif>
+      <tld lit="V"/>i&gcirc;i, duope starante en &ccirc;iu vico:
+      <ekz>
+        la viroj grupi&gcirc;is kun sia gvidanto &ccirc;irka&ubreve; &gcirc;i, post ili la 
+        virinoj par<tld/>i&gcirc;ante la&ubreve; sia a&gcirc;o
+        <fnt>
+          <aut>B. N&ecaron;mcov&aacute;, trad. V. Tobek kaj K. Proch&aacute;zka</aut>,
+          <vrk><url ref="https://eo.wikisource.org/wiki/Avineto/X.">
+          Avineto</url></vrk>,
+          <lok>1909-1914</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">se mettre en <ind>rang par deux</ind></trd>
+</drv>
+
+<drv mrk="vic.sia0e">
+  <kap>sia<tld/>e</kap>
+  <snc mrk="vic.sia0e.KOMUNE">
+    <dif>
+      Je sia vico, post anta&ubreve;a okaza&jcirc;o:
+      <ekz>
+        prilingvaj ideoj <klr>...</klr> alportis al esperanto pedantecon
+        <klr>...</klr> tio sia<tld/>e ka&ubreve;zis nenecesan grandi&gcirc;on de la
+        radikaro
+        <fnt><bib>BonaLingvo</bib>, <lok>p. 68a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="ca">al seu torn</trd>
+  <trd lng="cs">ze sv&eacute; strany</trd>
+  <trd lng="fr">&agrave; son <ind>tour</ind></trd>
+  <trd lng="sk">zo svojej strany</trd>
+</drv>
+
+<drv mrk="vic.sur0igi">
+  <kap>sur<tld/>igi</kap>
+  <snc mrk="vic.sur0igi.KOMUNE">
+    <dif>
+      <tld lit="V"/>igi sur io:
+      <ekz>
+        fragoj sur<tld/>igitaj sur trunketo de pajlo<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="ca">
+      <trd>disposar</trd>,
+      <trd>enfilar</trd>
+    </trdgrp>
+    <trd lng="fr">enfiler<klr tip="ind"> (mettre en file sur
+    qc)</klr></trd>
+    <trd lng="hu">sorban r&aacute;tesz</trd>    
+    <trd lng="ru">&c_n;&c_a;&c_n;&c_i;&c_z;&c_a;&c_t;&c_mol;</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>prostr&ccaron;it</trd>,
+    <trd>protahovat</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>navliec&tcaron; <klr>(ni&tcaron;, &scaron;n&uacute;rku ap.)</klr></trd>,
+    <trd>navliec&tcaron; <klr>(ni&tcaron;| &scaron;n&uacute;rku ap.)</klr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="vic.unua0e">
+  <kap>unua<tld/>e</kap>
+  <snc mrk="vic.unua0e.ARG">
+    <dif>
+      En unua <tld/>o, anta&ubreve; aliaj, prioritate,
+      <ref tip="vid" cel="antaux.0cxio">anta&ubreve; &ccirc;io</ref>:
+      <ekz>
+        se oni komencus konstrui, oni unua<tld/>e
+        devus havi bonan plankon el cemento
+        <fnt><aut>S. Engholm</aut>, <vrk>Homoj sur la tero</vrk>, 
+        <lok>1932</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>nejd&rcaron;&iacute;ve</trd>,
+    <trd>v prvn&iacute; &rcaron;ad&ecaron;</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>au premier rang</trd>,
+    <trd>en premier lieu</trd>
+  </trdgrp>
+  <trd lng="sk">na prv&yacute; poh&lcaron;ad</trd>
+</drv>
+
+<drv mrk="vic.aritmetika0o">
+  <kap>aritmetika <tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>PIV1</bib></fnt>
+  <snc>
+    <ref tip="dif" cel="progre1.aritmetika0o">aritmetika
+    progresio.</ref>
+  </snc>
+  <trd lng="ca">successi&oacute; aritm&egrave;tica</trd>
+  <trdgrp lng="de">
+    <trd>arithmetische <ind>Folge</ind></trd>,
+    <trd>arithmetische <ind>Progression</ind></trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>arithmetic <ind>sequence</ind></trd>,
+    <trd>arithmetic <ind>progression</ind></trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>suite arithm&eacute;tique</trd>,
+    <trd>progression arithm&eacute;tique</trd>
+  </trdgrp>
+  <trd lng="hu">sz&aacute;mtani <ind>sorozat</ind></trd>  
+  <trd lng="pl">ci&aogonek;g arytmetyczny</trd>
+  <trd lng="pt">progress&atilde;o aritm&eacute;tica</trd>
+  <trdgrp lng="ru">
+    <trd>&c_a;&c_r;&c_i;&c_f;&c_m;&c_je;&c_t;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_a;&c_ja;
+    <ind>&c_p;&c_r;&c_o;&c_g;&c_r;&c_je;&c_s;&c_s;&c_i;&c_ja;</ind></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="vic.finia0o">
+  <kap>finia <tld/>o, <var><kap>finilonga <tld/>o</kap></var></kap>
+  <uzo tip="fak">MAT</uzo>
+  <snc>
+    <dif>
+      <ref tip="super" cel="vic.0o.MAT"><tld lit="V"/>o</ref>, kies
+      <ref cel="ar.fonto0o">fonto-aro</ref> estas finia.
+    </dif>
+    <rim>
+      Finilongaj <tld/>oj estas prezenteblaj per
+      <ref cel="op.0o.vico">opoj</ref> kaj oni ofte
+      konfuzas amba&ubreve; nociojn.
+    </rim>
+  </snc>
+  <trd lng="ca">successi&oacute; finita</trd>
+  <trdgrp lng="cs">
+    <trd>finitn&iacute; &rcaron;ada</trd>,
+    <trd>kone&ccaron;n&aacute; &rcaron;ada</trd>
+  </trdgrp>
+  <trd lng="de">endliche <ind>Reihe</ind></trd>
+  <trd lng="en">finite <ind>sequence</ind></trd>
+  <trd lng="fr">suite finie</trd>
+  <trd lng="hu">v&eacute;ges <ind>sor</ind></trd>
+  <trd lng="nl">eindige <ind>reeks</ind></trd>
+  <trd lng="pl">ci&aogonek;g sko&nacute;czony</trd>
+  <trd lng="pt">seq&uuml;&ecirc;ncia finita</trd>
+  <trdgrp lng="ru">
+    <trd>&c_k;&c_o;&c_n;&c_je;&c_ch;&c_n;&c_a;&c_ja;
+&c_p;&c_o;&c_s;&c_l;&c_je;&c_d;&c_o;&c_v;&c_a;&c_t;&c_je;&c_l;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>,
+    <trd>&c_k;&c_o;&c_r;&c_t;&c_je;&c_zh;</trd>
+  </trdgrp>
+  <trd lng="sk">kone&ccaron;n&yacute; rad</trd>
+</drv>
+
+<drv mrk="vic.geometria0o">
+  <kap>geometria <tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>PIV1</bib></fnt>
+  <snc>
+    <ref tip="dif" cel="progre1.geometria0o">geometria progresio.</ref>
+  </snc>
+  <trdgrp lng="ca">
+    <trd>successi&oacute; geom&egrave;trica</trd>,
+    <trd>progressi&oacute; geom&egrave;trica</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>geometrick&aacute; posloupnost</trd>,
+    <trd>geometrick&aacute; &rcaron;ada</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>geometrische <ind>Folge</ind></trd>,
+    <trd>geometrische <ind>Progression</ind></trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>geometric <ind>sequence</ind></trd>,
+    <trd>geometric <ind>progression</ind></trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>suite g&eacute;om&eacute;trique</trd>,
+    <trd>progression g&eacute;om&eacute;trique</trd>
+  </trdgrp>
+  <trd lng="hu">m&eacute;rtani <ind>sorozat</ind></trd>
+  <trd lng="pl">ci&aogonek;g geometryczny</trd>
+  <trd lng="pt">progress&atilde;o geom&eacute;trica</trd>
+  <trdgrp lng="ru">
+    <trd>&c_g;&c_je;&c_o;&c_m;&c_je;&c_t;&c_r;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_a;&c_ja;
+    <ind>&c_p;&c_r;&c_o;&c_g;&c_r;&c_je;&c_s;&c_s;&c_i;&c_ja;</ind></trd>
+  </trdgrp>
+  <trd lng="sk">geometrick&yacute; rad</trd>
+</drv>
+
+<drv mrk="vic.harmona0o">
+  <kap>harmona <tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>PIV1</bib></fnt>
+  <snc>
+    <ref tip="dif" cel="progre1.harmona0o">harmona progresio.</ref>
+  </snc>
+  <trd lng="ca">progressi&oacute; harm&ograve;nica</trd>
+  <trdgrp lng="cs">
+    <trd>harmonick&aacute; posloupnost</trd>,
+    <trd>harmonick&aacute; &rcaron;ada</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>harmonische <ind>Folge</ind></trd>,
+    <trd>harmonische <ind>Progression</ind></trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>harmonic <ind>sequence</ind></trd>,
+    <trd>harmonic <ind>progression</ind></trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>suite harmonique</trd>,
+    <trd>progression harmonique</trd>
+  </trdgrp>
+  <trd lng="hu">harmonikus <ind>sorozat</ind></trd>
+  <trd lng="pl">ci&aogonek;g harmoniczny</trd>
+  <trd lng="pt">progress&atilde;o harm&ocirc;nica</trd>
+  <trdgrp lng="ru">
+    <trd>&c_g;&c_a;&c_r;&c_m;&c_o;&c_n;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_a;&c_ja;
+    <ind>&c_p;&c_r;&c_o;&c_g;&c_r;&c_je;&c_s;&c_s;&c_i;&c_ja;</ind></trd>
+  </trdgrp>
+  <trd lng="sk">harmonick&aacute; postupnos&tcaron;</trd>
+</drv>
+
+<drv mrk="vic.kosxia0o">
+  <kap>ko&scirc;ia <tld/>o<fnt><bib>PIV2</bib></fnt>,
+  <var><kap>Ko&scirc;i-<tld/>o<fnt><bib>EKV</bib><lok>&para;236</lok></fnt></kap></var></kap>
+  <uzo tip="fak">MAT</uzo>
+  <snc>
+    <dif>
+      Tia <ref tip="super" cel="vic.0o.MAT"><tld/>o</ref> en
+      <ref cel="spac.metrika0o">metrika spaco</ref>,
+      ke la distanco inter du &gcirc;iaj termoj povas
+      i&gcirc;i arbitre malgranda, se la indicoj estas sufi&ccirc;e
+      grandaj:
+      <ekz>
+        konver&gcirc;anta <tld/>o estas ko&scirc;ia;
+      </ekz>
+      <ekz>
+        en la metrika spaco de reeloj &ccirc;iu ko&scirc;ia <tld/>o
+        konver&gcirc;as.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="komple2.0a.spaco">kompleta</ref>,
+      <ref cel="kosxi.0o">Ko&scirc;io</ref>.
+    </refgrp>
+  </snc>
+  <trd lng="ca">successi&oacute; de Cauchy</trd>
+  <trdgrp lng="de">
+    <trd>Cauchy-Folge</trd>,
+    <trd>Fundamentalfolge</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>Cauchy['s] <ind>sequence</ind></trd>,
+    <trd>fundamental <ind>sequence</ind></trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>suite de Cauchy</trd>,
+    <trd>suite fondamentale</trd>
+  </trdgrp>
+  <trd lng="hu">Cauchy-sorozat</trd> 
+  <trdgrp lng="it">
+    <trd><ind>successione</ind> di Cauchy</trd>,
+    <trd><ind>successione</ind> fondamentale</trd>
+  </trdgrp> 
+  <trd lng="pl">ci&aogonek;g Cauchy'ego</trd>
+  <trd lng="pt">seq&uuml;&ecirc;ncia de Cauchy</trd>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_h;&c_o;&c_d;&c_ja;&c_shch;&c_a;&c_ja;&c_s;&c_ja;
+    &c_v; &c_s;&c_je;&c_b;&c_je;
+    &c_p;&c_o;&c_s;&c_l;&c_je;&c_d;&c_o;&c_v;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>,
+    <trd>&c_f;&c_u;&c_n;&c_d;&c_a;&c_m;&c_je;&c_n;&c_t;&c_a;&c_l;&c_mol;&c_n;&c_a;&c_ja;
+    &c_p;&c_o;&c_s;&c_l;&c_je;&c_d;&c_o;&c_v;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>,
+    <trd>&c_p;&c_o;&c_s;&c_l;&c_je;&c_d;&c_o;&c_v;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_o;&c_s;&c_t;&c_mol;
+    &c_K;&c_o;&c_sh;&c_i;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="vic.sub0o">
+  <kap>sub<tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <snc>
+    <dif>
+      <klr>(de <ref tip="super" cel="vic.0o.MAT"><tld/>o</ref>
+      <frm><k>u</k></frm>)</klr>
+      Tia <tld/>o <frm><k>v</k></frm>, ke &gcirc;ia
+      <ref cel="ar.fonto0o">fonto-aro</ref> estas subaro de la fonto-aro
+      de <frm><k>u</k></frm>, kaj ke &ccirc;iu termo de <frm><k>v</k></frm>
+      estas termo anka&ubreve; de <frm><k>u</k></frm> por la sama indico:
+      <ekz>
+        &ccirc;iu ajn nefinia sub<tld/>o de ko&scirc;ia <tld/>o estas
+        ko&scirc;ia.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>pod&rcaron;azen&iacute;</trd>,
+    <trd>&ccaron;&aacute;ste&ccaron;n&aacute; posloupnost</trd>
+  </trdgrp>
+  <trd lng="de">Teilfolge</trd>
+  <trd lng="en">subsequence</trd>
+  <trd lng="fr">sous-suite</trd>
+  <trd lng="hu">r&eacute;szsorozat</trd>
+  <trdgrp lng="pl">
+    <trd>podci&aogonek;g</trd>,
+    <trd>ci&aogonek;g cz&eogonek;&sacute;ciowy</trd>
+  </trdgrp>
+  <trd lng="pt">sub-seq&uuml;&ecirc;ncia</trd>
+  <trd
+  lng="ru">&c_p;&c_o;&c_d;&c_p;&c_o;&c_s;&c_l;&c_je;&c_d;&c_o;&c_v;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
+  <trd lng="sk">podradenie</trd>
+</drv>
+
+<drv mrk="vic.0o.de_funkcioj">
+  <kap><tld/>o de funkcioj<fnt><bib>MatStokTerm</bib><lok>p.
+  28</lok></fnt>, <var><kap>funkci<tld/>o</kap></var></kap>
+  <uzo tip="fak">MAT</uzo>
+  <snc>
+    <dif>
+      <ref tip="super" cel="vic.0o.MAT"><tld lit="V"/>o</ref>, kies
+      termoj estas <ref cel="funkci.0o.MAT">funkcioj</ref>.
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="konver.simple0a">simple konver&gcirc;a</ref>,
+      <ref cel="konver.unuforme0a">unuforme konver&gcirc;a</ref>,
+      <ref cel="konver.0a.en_mezuro">konver&gcirc;a en mezuro</ref>.
+    </refgrp>
+    <rim>
+      En <fnt><bib>MatVort</bib></fnt> troveblas <ctl>funkciala
+      <tld/>o</ctl>, kun la ekzota adjektiva formo responda al
+      <ctl>funkcio</ctl>.
+    </rim>
+  </snc>
+  <trd lng="ca">successi&oacute; de funcions</trd>
+  <trdgrp lng="cs">
+    <trd>fronta</trd>,
+    <trd>po&rcaron;ad&iacute;</trd>,
+    <trd>z&aacute;stup</trd>,
+    <trd>&rcaron;ada</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Funktionsfolge</trd>,
+    <trd>Funktionenfolge</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>function <ind>sequence</ind></trd>,
+    <trd>sequence of functions</trd>
+  </trdgrp>
+  <trd lng="fr">suite de fonctions</trd>
+  <trd lng="hu">f&uuml;ggv&eacute;nysorozat</trd>
+  <trd lng="pl">ci&aogonek;g funkcyjny</trd>
+  <trd lng="ru">&c_p;&c_o;&c_s;&c_l;&c_je;&c_d;&c_o;&c_v;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_o;&c_s;&c_t;&c_mol;
+  &c_f;&c_u;&c_n;&c_k;&c_c;&c_i;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>poradie</trd>,
+    <trd>rad</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: vic.xml,v $
+Revision 1.56  2015/10/01 22:10:19  revo
+Jeromo Vasxe: + par~igxi
+
+Revision 1.55  2015/09/25 22:10:20  revo
+Jeromo Vasxe: + ~e de
+
+Revision 1.54  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.53  2015/06/29 16:40:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.52  2015/06/28 12:03:50  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.51  2013/12/24 02:10:13  revo
+Jeromo Vasxe: + parol~o
+
+Revision 1.50  2013/10/09 20:10:33  revo
+Jeromo Vasxe: + ~umi
+
+Revision 1.49  2012/10/23 00:14:14  revo
+-->
+</vortaro>

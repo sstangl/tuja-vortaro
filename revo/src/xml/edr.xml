@@ -1,0 +1,553 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: edr.xml,v 1.32 2015/07/04 08:37:33 revo Exp $">
+<kap>
+  <rad>edr</rad>/o
+</kap>
+<drv mrk="edr.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>MatTerm</bib><lok>p. 29</lok></fnt>
+  <snc mrk="edr.0o.ebeno">
+    <dif>
+      &Ccirc;iu ebena <ref tip="super"
+      cel="surfac.0o.MAT">surfaco</ref>, kiu
+      limas iajn <ref cel="solid.0o.geometrio">solidojn</ref>:
+      <ekz>
+        kubo havas ses <tld/>ojn.
+      </ekz>
+    </dif>
+    <rim>
+      La nocio estas malfacila por difini rigore. Ja <tld/>o de
+      du<tld/>o estas duonebeno, <tld/>o de tri<tld/>o estas
+      <ref cel="angul.0o.figuro">angulo</ref> kaj <tld/>o de
+      plur<tld/>o estas plurlatero, kiun oni prefere nomas
+      <ref cel="fac.0o.pluredro">faco <sncref/></ref>.
+    </rim>
+  </snc>
+  <trd lng="be">&c_g;&c_r;&c_a;&c_n;&c_mol;</trd>
+  <trdgrp lng="ca">
+    <trd>cara</trd>,
+    <trd>costat</trd>,
+    <trd>base</trd>
+  </trdgrp>
+  <trd lng="cs">stěna tělesa</trd>
+  <trd lng="de">Fl&auml;che</trd>
+  <trd lng="en">face</trd>
+  <trd lng="fa">&a_w;&a_j;&a_h;<klr tip="ind">
+  (&f_ch;&a_n;&a_d;&a_w;&a_j;&a_h;&f_y;)</klr></trd>
+  <trd lng="fr">face<klr tip="ind"> (d'un di&egrave;dre, tri&egrave;dre,
+  poly&egrave;dre)</klr></trd>
+  <trd lng="hu">lap<klr tip="ind"> (m&eacute;rtani
+  test&eacute;)</klr></trd>
+  <trd lng="it">faccia</trd>
+  <trd lng="nl">vlak<klr tip="ind"> (z.nw.)</klr></trd>
+  <trd lng="pl">&sacute;ciana</trd>
+  <trd lng="pt">face</trd>
+  <trd lng="ru">&c_g;&c_r;&c_a;&c_n;&c_mol;</trd>
+  <trd lng="sk">stena telesa</trd>
+</drv>
+
+<drv mrk="edr.du0o">
+  <kap>du<tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>MatTerm</bib><lok>p. 29</lok></fnt>
+  <snc>
+    <dif>
+      &Ccirc;iu el la kvar nebaritaj
+      <ref tip="super" cel="solid.0o.geometrio">solidoj</ref>, estigitaj
+      de du ebenoj kun komuna rekto; alternative: la paro konsistanta el
+      la du <ref cel="eben.duon0o">duonebenoj</ref>, kiuj limas &ccirc;i
+      tiun solidon.
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_d;&c_z;&c_mol;&c_v;&c_ju;&c_h;&c_g;&c_r;&c_a;&c_n;&c_mol;&c_n;&c_ib;&c_k;</trd>,
+    <trd>&c_d;&c_z;&c_v;&c_ju;&c_h;&c_g;&c_r;&c_a;&c_n;&c_je;&c_v;&c_y;
+    &c_v;&c_u;&c_g;&c_a;&c_l;</trd>,
+    <trd>&c_d;&c_z;&c_v;&c_ju;&c_h;&c_g;&c_r;&c_a;&c_n;&c_je;&c_v;&c_y;
+    &c_k;&c_u;&c_t;</trd>
+  </trdgrp>
+  <trd lng="ca">d&iacute;edre</trd>
+  <trdgrp lng="cs">
+    <trd>dvojstěn</trd>,
+    <trd>prostor mezi dvěma rovinami</trd>
+  </trdgrp>
+  <trd lng="de">Dieder</trd>
+  <trd lng="en">dihedron</trd>
+  <trd lng="fa">&a_d;&a_w;&a_w;&a_j;&a_h;&f_y;</trd>
+  <trd lng="fr">di&egrave;dre</trd>
+  <trdgrp lng="hu">
+    <trd>di&eacute;der</trd>,
+    <trd>k&eacute;tlap</trd>
+  </trdgrp>
+  <trd lng="it">diedro</trd>
+  <trdgrp lng="nl">
+    <trd>tweevlak</trd>,
+    <trd>di&euml;der</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>dwu&sacute;cian</trd>,
+    <trd>k&aogonek;t dwu&sacute;cienny</trd></trdgrp>
+  <trd lng="ru">&c_d;&c_v;&c_u;&c_g;&c_r;&c_a;&c_n;&c_n;&c_i;&c_k;</trd>
+  <trd lng="sk">dvojsten</trd>
+</drv>
+
+<drv mrk="edr.tri0o">
+  <kap>tri<tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>MatTerm</bib><lok>p. 29</lok></fnt>
+  <snc>
+    <dif>
+      &Ccirc;iu el la ok nebaritaj
+      <ref tip="super" cel="solid.0o.geometrio">solidoj</ref>, estigitaj
+      de tri ebenoj, kiuj sekcas unu la alian la&ubreve; tri duope
+      malsamebenaj rektoj; alternative: la triopo konsistanta el la
+      <ref cel="angul.0o.figuro">anguloj</ref>, kiuj limas &ccirc;i
+      tiun solidon:
+      <ekz>
+        la angulo de &ccirc;ambro, limata de du muroj kaj planko, estas
+        bona ilustra&jcirc;o de tri<tld/>o.
+      </ekz>
+    </dif>
+    <rim>
+      La tri e&gcirc;oj de tri<tld/>o povas servi por difini kartezian
+      koordinatsistemon kaj, verdire, tio estas la plej ofta uzo de
+      la nocio tri<tld/>o en nacilingvaj tekstoj. Tial la nacilingvaj
+      tradukoj pedante zorgas distingi inter <ctl>tri<tld/>o</ctl>
+      (koordinatsistemo) kaj <ctl>triedra angulo</ctl> (la solida
+      angulo de nia difino). Tio &scirc;ajnas al ni superflua.
+    </rim>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_t;&c_r;&c_o;&c_h;&c_g;&c_r;&c_a;&c_n;&c_je;&c_v;&c_y;
+    &c_v;&c_u;&c_g;&c_a;&c_l;</trd>,
+    <trd>&c_t;&c_r;&c_o;&c_h;&c_g;&c_r;&c_a;&c_n;&c_je;&c_v;&c_y;
+    &c_k;&c_u;&c_t;</trd>,
+    <trd>&c_t;&c_r;&c_y;&c_e;&c_d;&c_r;</trd>
+  </trdgrp>
+  <trd lng="ca">tr&iacute;edre</trd>
+  <trd lng="cs">trojhran</trd>
+  <trdgrp lng="de">
+    <trd>Dreikant</trd>,
+    <trd>Dreibein</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>trihedral <ind>angle</ind></trd>,
+    <trd>trihedral</trd>
+  </trdgrp>
+  <trd lng="fa">&a_s;&a_h;&zwnj;&a_w;&a_j;&a_h;&f_y;</trd>
+  <trd lng="fr">tri&egrave;dre</trd>
+  <trdgrp lng="hu">
+    <trd>tri&eacute;der</trd>,
+    <trd>h&aacute;romlap</trd>
+  </trdgrp>
+  <trd lng="it">triedro</trd>
+  <trdgrp lng="nl">
+    <trd>drievlak</trd>,
+    <trd>tri&euml;der</trd>
+  </trdgrp>
+  <trd lng="pl">tr&oacute;j&sacute;cian</trd>
+  <trdgrp lng="ru">
+    <trd>&c_t;&c_r;&c_jo;&c_h;&c_g;&c_r;&c_a;&c_n;&c_n;&c_y;&c_j;
+    <ind>&c_u;&c_g;&c_o;&c_l;</ind></trd>,
+    <trd>&c_t;&c_r;&c_i;&c_e;&c_d;&c_r;</trd>
+  </trdgrp>
+  <trd lng="sk">trojhran</trd>
+</drv>
+
+<drv mrk="edr.kvar0o">
+  <kap>kvar<tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <snc>
+    <dif>
+      <ref tip="super" cel="edr.plur0o">Plur<tld/>o</ref> kun
+      kvar <ref cel="angul.tri0a.gxenerale">triangulaj</ref>
+      <ref cel="fac.0o.pluredro">facoj</ref>.
+    </dif>
+        <trdgrp lng="be">
+          <trd>&c_ch;&c_a;&c_t;&c_y;&c_r;&c_o;&c_h;&c_g;&c_r;&c_a;&c_n;&c_mol;&c_n;&c_ib;&c_k;</trd>,
+          <trd>&c_t;&c_e;&c_t;&c_r;&c_a;&c_e;&c_d;&c_r;</trd>
+        </trdgrp>
+        <trd lng="ca">tetr&agrave;edre</trd>
+        <trdgrp lng="de">
+          <trd>Vierflach</trd>,
+          <trd>Vierfl&auml;chner</trd>,
+          <trd>Tetraeder</trd></trdgrp>
+        <trd lng="en">tetrahedron</trd>
+        <trd lng="fa">&f_ch;&a_h;&a_A;&a_r;&a_w;&a_j;&a_h;&f_y;</trd>
+        <trd lng="fr">t&eacute;tra&egrave;dre</trd>
+        <trdgrp lng="hu">
+          <trd>tetra&eacute;der</trd>,
+          <trd>n&eacute;gylap</trd></trdgrp>
+        <trd lng="nl">tetra&euml;der</trd>
+        <trdgrp lng="pl">
+          <trd>czworo&sacute;cian</trd>,
+          <trd>tetraedr<klr> (rzadkie)</klr></trd>
+        </trdgrp>
+        <trdgrp lng="ru">
+          <trd>&c_ch;&c_je;&c_t;&c_y;&c_r;&c_jo;&c_h;&c_g;&c_r;&c_a;&c_n;&c_n;&c_i;&c_k;</trd>,
+          <trd>&c_t;&c_je;&c_t;&c_r;&c_a;&c_e;&c_d;&c_r;</trd>
+        </trdgrp>
+	      <trd lng="it">tetraedro</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>tetraedrový</trd>,
+    <trd>čtyřstěn</trd>
+  </trdgrp>
+  <trd lng="sk">štvorsten</trd>
+</drv>
+
+<drv mrk="edr.plur0o">
+  <kap>plur<tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>PIV1</bib></fnt>
+  <snc>
+    <dif>
+      <ref cel="bar.0ita">Pluredro</ref>, kiun limas
+      finia nombro da tiaj <ref cel="later.plur0o">plurlateroj</ref>, ke
+      &ccirc;iu el &gcirc;iaj <ref cel="later.0o.streko">lateroj</ref>
+      estas latero de unu alia plurlatero.
+    </dif>
+    <refgrp tip="vid">
+      Atributoj de pluredro:
+      <ref cel="skrib.cxirkaux0ita">&ccirc;irka&ubreve;skribita</ref>
+      sfero,
+      <ref cel="skrib.en0ita.enplurlateropluredro">enskribita</ref>
+      sfero,
+      <ref cel="skrib.en0ita.encirklosfero">enskribita</ref> en sfero,
+      <ref cel="konkav.0a.subaro">konkava</ref>,
+      <ref cel="konvek.0a.subaro">konveksa</ref>,
+      <ref cel="angul.ort0a">ortangula</ref>,
+      <ref cel="regul.0a.pluredro">regula</ref>;
+    </refgrp>
+    <refgrp tip="prt">
+      Karakterizaj partoj de pluredroj:
+      <ref cel="fac.0o.pluredro">faco</ref>,
+      <ref cel="egx.0o.pluredro">e&gcirc;o</ref>,
+      <ref cel="vertic.0o.pluredro">vertico</ref>;
+    </refgrp>
+    <refgrp tip="sub">
+      Ekzemploj de pluredroj:
+      <ref cel="edr.n0o">n-edro</ref>,
+      <ref cel="parale1.0o">paralelepipedo</ref>,
+      <ref cel="kub.0o.figuro">kubo</ref>,
+      <ref cel="pirami.0o.figuro">piramido</ref>,
+      <ref cel="prism.0o.figuro">prismo</ref>.
+    </refgrp>
+    <rim>
+      Bricard
+      <fnt><bib>MatTerm</bib><lok>p. 30</lok></fnt>, kiel estas &ccirc;e
+      li
+      kutime, uzas la prefikson <ctl>mult</ctl> anstata&ubreve;
+      <ctl>plur</ctl>. Li konas anka&ubreve; la internacian formon
+      <ctl>poliedro</ctl>.
+    </rim>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_m;&c_n;&c_a;&c_g;&c_a;&c_g;&c_r;&c_a;&c_n;&c_mol;&c_n;&c_ib;&c_k;</trd>,
+    <trd>&c_p;&c_a;&c_l;&c_ib;&c_e;&c_d;&c_r;</trd>
+  </trdgrp>
+  <trd lng="ca">pol&iacute;edre</trd>
+  <trd lng="cs">mnohostěn  polyedr</trd>
+  <trd lng="de">Polyeder</trd>
+  <trd lng="en">polyhedron</trd>
+  <trd lng="fa">&f_ch;&a_n;&a_d;&a_w;&a_j;&a_h;&f_y;</trd>
+  <trd lng="fr">poly&egrave;dre</trd>
+  <trdgrp lng="hu">
+    <trd>poli&eacute;der</trd>,
+    <trd>soklap</trd>
+  </trdgrp>
+  <trd lng="it">poliedro</trd>
+  <trd lng="nl">veelvlak</trd>
+  <trd lng="pl">wielo&sacute;cian</trd>
+  <trdgrp lng="ru">
+    <trd>&c_m;&c_n;&c_o;&c_g;&c_o;&c_g;&c_r;&c_a;&c_n;&c_n;&c_i;&c_k;</trd>,
+    <trd>&c_p;&c_o;&c_l;&c_i;&c_e;&c_d;&c_r;</trd>
+  </trdgrp>
+  <trd lng="sk">mnohosten</trd>
+</drv>
+
+<drv mrk="edr.n0o">
+  <kap>n-<tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>MatTerm</bib><lok>p. 30, por n=4, 6, 8, 12, 20</lok>
+</fnt>
+  <snc>
+    <dif>
+      <klr>(por <frm><k>n</k> &#8805; 4</frm>)</klr>
+      <ref tip="super" cel="edr.plur0o">Plur<tld/>o</ref> kun
+      <frm><k>n</k></frm> <ref cel="fac.0o.pluredro">facoj</ref>:
+      <ekz>
+        <ind>kvar<tld/>o</ind>,
+      </ekz>
+      <ekz>
+        <ind>kvin<tld/>o</ind>,
+        <trdgrp lng="be">
+          <trd>&c_p;&c_ja;&c_c;&c_ib;&c_g;&c_r;&c_a;&c_n;&c_mol;&c_n;&c_ib;&c_k;</trd>,
+          <trd>&c_p;&c_e;&c_n;&c_t;&c_a;&c_e;&c_d;&c_r;</trd>
+        </trdgrp>
+        <trd lng="ca">pent&agrave;edre</trd>
+        <trdgrp lng="de">
+          <trd>F&uuml;nfflach</trd>,
+          <trd>F&uuml;nffl&auml;chner</trd>,
+          <trd>Pentaeder</trd></trdgrp>
+        <trd lng="en">pentahedron</trd>
+        <trd lng="fa">&f_p;&a_n;&a_j;&zwnj;&a_w;&a_j;&a_h;&f_y;</trd>
+        <trd lng="fr">penta&egrave;dre</trd>
+        <trdgrp lng="hu">
+          <trd>penta&eacute;der</trd>,
+          <trd>&ouml;tlap</trd></trdgrp>
+        <trdgrp lng="pl">
+          <trd>pi&eogonek;cio&sacute;cian</trd>,
+          <trd>pentaedr<klr> (rzadkie)</klr></trd>
+        </trdgrp>
+        <trdgrp lng="ru">
+          <trd>&c_p;&c_ja;&c_t;&c_i;&c_g;&c_r;&c_a;&c_n;&c_n;&c_i;&c_k;</trd>,
+          <trd>&c_p;&c_je;&c_n;&c_t;&c_a;&c_e;&c_d;&c_r;</trd>
+        </trdgrp>
+	      <trd lng="it">pentaedro</trd>
+      </ekz>
+      <ekz>
+        <ind>ses<tld/>o</ind>,
+        <trdgrp lng="be">
+          <trd>&c_sh;&c_a;&c_s;&c_mol;&c_c;&c_ib;&c_g;&c_r;&c_a;&c_n;&c_mol;&c_n;&c_ib;&c_k;</trd>,
+          <trd>&c_g;&c_je;&c_k;&c_s;&c_a;&c_e;&c_d;&c_r;</trd>
+        </trdgrp>
+        <trd lng="ca">hex&agrave;edre</trd>
+        <trdgrp lng="de">
+          <trd>Sechsflach</trd>,
+          <trd>Sechsfl&auml;chner</trd>,
+          <trd>Hexaeder</trd>
+        </trdgrp>
+        <trd
+        lng="el">&epsilon;&xi;&alfa_ton;&epsilon;&delta;&rho;&omikron;
+         </trd>
+        <trd lng="en">hexahedron</trd>
+        <trd lng="es">hexaedro</trd>
+        <trd lng="fa">&a_sh;&a_sh;&zwnj;&a_w;&a_j;&a_h;&f_y;</trd>
+        <trd lng="fr">hexa&egrave;dre</trd>
+        <trdgrp lng="hu">
+          <trd>hexa&eacute;der</trd>,
+          <trd>hatlap</trd></trdgrp>
+        <trdgrp lng="nl">
+          <trd>zesvlak</trd>,
+          <trd>hexa&euml;der</trd>
+        </trdgrp>
+        <trdgrp lng="pl">
+          <trd>sze&sacute;cian<klr tip="ind"> (niekoniecznie
+          foremny)</klr></trd>,
+          <trd>heksaedr<klr> (rzadkie)</klr></trd>
+        </trdgrp>
+        <trd lng="pt">hexaedro</trd>
+        <trdgrp lng="ru">
+          <trd>&c_sh;&c_je;&c_s;&c_t;&c_i;&c_g;&c_r;&c_a;&c_n;&c_n;&c_i;&c_k;</trd>,
+          <trd>&c_g;&c_je;&c_k;&c_s;&c_a;&c_e;&c_d;&c_r;</trd>
+        </trdgrp>
+        <trd lng="it">esaedro</trd>
+      </ekz>
+      <ekz>
+        <ind>sep<tld/>o</ind>,
+        <trdgrp lng="be">
+          <trd>&c_s;&c_ja;&c_m;&c_ib;&c_g;&c_r;&c_a;&c_n;&c_mol;&c_n;&c_ib;&c_k;</trd>,
+          <trd>&c_g;&c_je;&c_p;&c_t;&c_a;&c_e;&c_d;&c_r;</trd>
+        </trdgrp>
+        <trd lng="ca">hept&agrave;edre</trd>
+        <trdgrp lng="de">
+          <trd>Siebenfl&auml;chner</trd>,
+          <trd>Heptaeder</trd>
+        </trdgrp>
+        <trd lng="en">heptahedron</trd>
+        <trd lng="fa">&a_h;&a_f;&a_t;&zwnj;&a_w;&a_j;&a_h;&f_y;</trd>
+        <trd lng="fr">hepta&egrave;dre</trd>
+        <trdgrp lng="hu">
+          <trd>hepta&eacute;der</trd>,
+          <trd>h&eacute;tlap</trd></trdgrp>
+        <trd lng="nl">hepta&euml;der</trd>
+        <trdgrp lng="pl">
+          <trd>siedmio&sacute;cian</trd>,
+          <trd>heptaedr<klr> (rzadkie)</klr></trd>
+        </trdgrp>
+        <trdgrp lng="ru">
+          <trd>&c_s;&c_je;&c_m;&c_i;&c_g;&c_r;&c_a;&c_n;&c_n;&c_i;&c_k;</trd>,
+          <trd>&c_g;&c_je;&c_p;&c_t;&c_a;&c_e;&c_d;&c_r;</trd>
+        </trdgrp>
+        <trd lng="it">eptaedro</trd>
+      </ekz>
+      <ekz>
+        <ind>ok<tld/>o</ind>,
+        <trdgrp lng="be">
+          <trd>&c_v;&c_a;&c_s;&c_mol;&c_m;&c_ib;&c_g;&c_r;&c_a;&c_n;&c_mol;&c_n;&c_ib;&c_k;</trd>,
+          <trd>&c_a;&c_k;&c_t;&c_a;&c_e;&c_d;&c_r;</trd>
+        </trdgrp>
+        <trd lng="ca">oct&agrave;edre</trd>
+        <trdgrp lng="de">
+          <trd>Achtflach</trd>,
+          <trd>Achtfl&auml;chner</trd>,
+          <trd>Oktaeder</trd></trdgrp>
+        <trd lng="en">octahedron</trd>
+        <trd lng="fa">&a_h;&a_sh;&a_t;&zwnj;&a_w;&a_j;&a_h;&f_y;</trd>
+        <trd lng="fr">octa&egrave;dre</trd>
+        <trdgrp lng="hu">
+          <trd>okta&eacute;der</trd>,
+          <trd>nyolclap</trd></trdgrp>
+        <trdgrp lng="pl">
+          <trd>o&sacute;mio&sacute;cian</trd>,
+          <trd>oktaedr<klr> (rzadkie)</klr></trd>
+        </trdgrp>
+        <trd lng="nl">octa&euml;der</trd>
+        <trdgrp lng="ru">
+          <trd>&c_v;&c_o;&c_s;&c_mol;&c_m;&c_i;&c_g;&c_r;&c_a;&c_n;&c_n;&c_i;&c_k;</trd>,
+          <trd>&c_o;&c_k;&c_t;&c_a;&c_e;&c_d;&c_r;</trd>
+        </trdgrp>
+        <trd lng="it">ottaedro</trd>
+      </ekz>
+      <ekz>
+        <ind>dek<tld/>o</ind>,
+        <trdgrp lng="be">
+          <trd>&c_d;&c_z;&c_je;&c_s;&c_ja;&c_c;&c_ib;&c_g;&c_r;&c_a;&c_n;&c_mol;&c_n;&c_ib;&c_k;</trd>,
+          <trd>&c_d;&c_e;&c_k;&c_a;&c_e;&c_d;&c_r;</trd>
+        </trdgrp>
+        <trdgrp lng="ca">
+          <trd>dec&agrave;edre</trd>,
+          <trd>decaedre</trd>
+        </trdgrp>
+        <trdgrp lng="de">
+          <trd>Zehnflach</trd>,
+          <trd>Zehnfl&auml;chner</trd>,
+          <trd>Dekaeder</trd></trdgrp> 
+        <trd lng="en">decahedron</trd>
+        <trd lng="fa">&a_d;&a_h;&zwnj;&a_w;&a_j;&a_h;&f_y;</trd>
+        <trd lng="fr">d&eacute;ca&egrave;dre</trd>
+        <trdgrp lng="hu">
+          <trd>deka&eacute;der</trd>,
+          <trd>t&iacute;zlap</trd></trdgrp>
+        <trdgrp lng="pl">
+          <trd>dziesi&eogonek;cio&sacute;cian</trd>,
+          <trd>dekaedr<klr> (rzadkie)</klr></trd>
+        </trdgrp>
+        <trd lng="nl">deca&euml;der</trd>
+        <trdgrp lng="ru">
+          <trd>&c_d;&c_je;&c_s;&c_ja;&c_t;&c_i;&c_g;&c_r;&c_a;&c_n;&c_n;&c_i;&c_k;</trd>,
+          <trd>&c_d;&c_je;&c_k;&c_a;&c_e;&c_d;&c_r;</trd>
+        </trdgrp>
+        <trd lng="it">decaedro</trd>
+      </ekz>
+      <ekz>
+        <ind>dek-du<tld/>o</ind>,
+        <trdgrp lng="be">
+          <trd>&c_d;&c_v;&c_a;&c_n;&c_a;&c_c;&c_c;&c_a;&c_c;&c_ib;&c_g;&c_r;&c_a;&c_n;&c_mol;&c_n;&c_ib;&c_k;</trd>,
+          <trd>&c_d;&c_a;&c_d;&c_e;&c_k;&c_a;&c_e;&c_d;&c_r;</trd>
+        </trdgrp>
+        <trd lng="ca">dodec&agrave;edre</trd>
+        <trdgrp lng="de">
+          <trd>Zw&ouml;lfflach</trd>,
+          <trd>Zw&ouml;lffl&auml;chner</trd>,
+          <trd>Dodekaeder</trd></trdgrp> 
+        <trd lng="en">dodecahedron</trd>
+        <trd
+        lng="fa">&a_d;&a_w;&a_A;&a_z;&a_d;&a_h;&zwnj;&a_w;&a_j;&a_h;&f_y;</trd>
+        <trd lng="fr">dod&eacute;ca&egrave;dre</trd>
+        <trdgrp lng="hu">
+          <trd>dodeka&eacute;der</trd>,
+          <trd>tizenk&eacute;tlap</trd></trdgrp>
+        <trd lng="nl">dodeca&euml;der</trd>
+        <trdgrp lng="pl">
+          <trd>dwunasto&sacute;cian</trd>,
+          <trd>dodekaedr<klr> (rzadkie)</klr></trd>
+        </trdgrp>
+        <trdgrp lng="ru">
+          <trd>&c_d;&c_v;&c_je;&c_n;&c_a;&c_d;&c_c;&c_a;&c_t;&c_i;&c_g;&c_r;&c_a;&c_n;&c_n;&c_i;&c_k;</trd>,
+          <trd>&c_d;&c_o;&c_d;&c_je;&c_k;&c_a;&c_e;&c_d;&c_r;</trd>
+        </trdgrp>
+        <trd lng="it">dodecaedro</trd>
+      </ekz>
+      <ekz>
+        <ind>dudek<tld/>o</ind>,
+        <trdgrp lng="be">
+          <trd>&c_d;&c_v;&c_a;&c_c;&c_c;&c_a;&c_c;&c_ib;&c_g;&c_r;&c_a;&c_n;&c_mol;&c_n;&c_ib;&c_k;</trd>,
+          <trd>&c_ib;&c_k;&c_a;&c_s;&c_a;&c_e;&c_d;&c_r;</trd>
+        </trdgrp>
+        <trd lng="ca">icos&agrave;edre</trd>
+        <trdgrp lng="de">
+          <trd>Zwanzigflach</trd>,
+          <trd>Zwanzigfl&auml;chner</trd>,
+          <trd>Ikosaeder</trd></trdgrp>
+        <trd lng="en">icosahedron</trd>
+        <trd
+        lng="fa">&a_b;&f_y;&a_s;&a_t;&zwnj;&a_w;&a_j;&a_h;&f_y;</trd>
+        <trd lng="fr">icosa&egrave;dre</trd>
+        <trdgrp lng="hu">
+          <trd>ikoza&eacute;der</trd>,
+          <trd>h&uacute;szlap</trd></trdgrp>
+        <trdgrp lng="pl">
+          <trd>dwudziesto&sacute;cian</trd>,
+          <trd>ikosaedr<klr> (rzadkie)</klr></trd>
+        </trdgrp>
+        <trdgrp lng="ru">
+          <trd>&c_d;&c_v;&c_a;&c_d;&c_c;&c_a;&c_t;&c_i;&c_g;&c_r;&c_a;&c_n;&c_n;&c_i;&c_k;</trd>,
+          <trd>&c_i;&c_k;&c_o;&c_s;&c_a;&c_e;&c_d;&c_r;</trd>
+        </trdgrp>
+        <trd lng="it">icosaedro</trd>
+      </ekz>
+      <ekz>
+        sesdek-kvin<tld/>o...
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">n-<ind>&c_g;&c_r;&c_a;&c_n;&c_mol;&c_n;&c_ib;&c_k;
+</ind>
+</trd>
+  <trd lng="ca">pol&iacute;edre d'n cares</trd>
+  <trd lng="cs">n-stěn</trd>
+  <trd lng="de">n-Flach</trd>
+  <trd lng="en">n-hedron</trd>
+  <trdgrp lng="fr">
+    <trd>poly&egrave;dre &agrave; n faces</trd>,
+    <trd>n-&egrave;dre</trd>
+  </trdgrp>
+  <trd lng="hu">n-lap&uacute; <ind>poli&eacute;der</ind></trd>
+  <trd lng="nl">n-vlak</trd>
+  <trdgrp lng="pl">
+    <trd>wielo&sacute;cian o n &sacute;cianach</trd>,
+    <trd>n-&sacute;cian</trd>
+  </trdgrp>
+  <trd lng="ru">n-<ind>&c_g;&c_r;&c_a;&c_n;&c_n;&c_i;&c_k;</ind>
+</trd>
+  <trd lng="sk">n-sten</trd>
+</drv>
+</art>
+<!--
+$Log: edr.xml,v $
+Revision 1.32  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.31  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.30  2012/04/21 15:10:09  revo
+Dominique Pelle: forigis spaceton antaux komo
+
+Revision 1.29  2012/01/03 09:10:21  revo
+Marc Rausell: +trd ca
+
+Revision 1.28  2009/09/01 04:53:35  revo
+Sebastian Cyprych: sxovo de 4-edro al propra drv; +trd pl
+
+Revision 1.27  2009/08/26 16:31:27  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.26  2008/08/25 18:15:43  revo
+Antonio Codazzi: aldono de itala traduko, aldono de kapvorto kvaredro.
+
+Revision 1.25  2007/06/22 17:25:14  revo
+Tulio Flores: +tr pt
+
+Revision 1.24  2004/04/15 16:32:30  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.23  2003/07/14 16:33:26  revo
+-->
+</vortaro>

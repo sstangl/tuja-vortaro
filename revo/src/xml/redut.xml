@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: redut.xml,v 1.14 2015/07/04 08:37:42 revo Exp $">
+<kap>
+  <rad>redut</rad>/o <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="redut.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="redut.0o.MIL">
+    <uzo tip="fak">ARKI</uzo> 
+    <uzo tip="fak">MIL</uzo>
+    <dif>
+      Kampa fortika&jcirc;o:
+      <ekz>
+        sur la <tld/>o <ctl>Cruys</ctl> sonis seninterrompe la voko:
+        &leftquot;Bone gardu! Bone gardu!&rightquot;
+        <fnt>
+          <aut>W. Raabe, trad. F. Wicke</aut>,
+          <vrk>La Nigra Galero</vrk>,
+          <lok>2a eld., 1922</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_r;&c_e;&c_d;&c_u;&c_t;</trd>
+  <trd lng="bg">&c_r;&c_je;&c_d;&c_u;&c_t;</trd>
+  <trd lng="cs">maškarní ples</trd>
+  <trd lng="de">Redoute</trd>
+  <trd lng="en">redoubt</trd>
+  <trd lng="fr">redoute</trd>
+  <trdgrp lng="hu">
+    <trd>redut</trd>,
+    <trd>z&aacute;rt <ind>s&aacute;nc</ind></trd>
+  </trdgrp>
+  <trd lng="it">ridotta<klr> (mil.)</klr></trd>
+  <trdgrp lng="nl">
+    <trd>redoute</trd>,
+    <trd>schans</trd>
+  </trdgrp>
+  <trd lng="ru">&c_r;&c_je;&c_d;&c_u;&c_t;</trd>
+  <trd lng="sk">poľná pevnosť</trd>
+</drv>
+</art>
+<!--
+$Log: redut.xml,v $
+Revision 1.14  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.13  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.12  2013/08/30 13:10:14  revo
+Joop Eggen: +trd bg
+
+Revision 1.11  2011/10/26 22:10:09  revo
+Jeromo Vasxe: + fak arki + ekz
+
+Revision 1.10  2010/06/25 17:26:26  revo
+Antonio Codazzi: +trd it
+
+Revision 1.9  2009/07/01 17:21:44  revo
+Russ Williams: +trd en
+
+Revision 1.8  2003/08/06 16:31:36  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.7  2002/08/17 17:31:50  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.6  2002/01/11 17:34:49  revo
+Yury Finkel: +trd ru
+
+Revision 1.5 2001/06/09 18:48:08 revo
+-->
+</vortaro>

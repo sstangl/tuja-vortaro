@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: kortizon.xml,v 1.6 2009/07/03 16:30:41 revo Exp $">
+<kap>
+  <rad>kortizon</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="kortizon.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="kortizon.0o.FIZL">
+    <uzo tip="fak">FIZL</uzo>
+    <uzo tip="fak">MED</uzo>
+    <dif>
+      Kortikosurrena <ref tip="super"
+      cel="hormon.0o.FIZL">hormono</ref>,
+      kontra&ubreve;inflama.
+    </dif>
+    <trd lng="be">&c_k;&c_a;&c_r;&c_t;&c_y;&c_z;&c_o;&c_n;</trd>
+    <trdgrp lng="de">
+      <trd>Kortison</trd>,
+      <trd>Cortison</trd>
+    </trdgrp>
+    <trd lng="fr">cortisone</trd>
+    <trd lng="hu">kortizon</trd>
+    <trd lng="nl">cortisone</trd>
+    <trd lng="pt">cortisona</trd>
+    <trd lng="ru">&c_k;&c_o;&c_r;&c_t;&c_i;&c_z;&c_o;&c_n;</trd>
+  </snc>
+</drv>
+</art>
+<!--
+$Log: kortizon.xml,v $
+Revision 1.6  2009/07/03 16:30:41  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.5  2006/11/14 17:30:29  revo
+Tulio Flores: +tr pt
+
+Revision 1.4  2004/04/28 16:31:31  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.3  2004/03/04 17:30:40  revo
+Jeromo Vasxe: + fnt piv1, + fak fizl, + tez, + trd fr
+
+Revision 1.2 2003/04/23 16:31:55 revo
+Dmitri Gabinski: +trd be
+
+Revision 1.1 2002/07/05 20:12:54 revo
+alinomis kortizono.xml al kortizon.xml
+
+Revision 1.2 2002/03/25 17:31:37 revo
+Yury Finkel: +trd ru
+
+Revision 1.1 2002/03/22 17:34:32 revo
+-->
+</vortaro>

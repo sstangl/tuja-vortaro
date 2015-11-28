@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: pasxte.xml,v 1.14 2005/04/28 16:35:19 revo Exp $">
+<kap>
+<ofc>4</ofc>
+<rad>pa&scirc;tel</rad>/o
+<fnt>Z</fnt>
+</kap>
+<drv mrk="pasxte.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="pasxte.0o.ilo">
+    <dif>
+      Krajono farita el pulvorigita kolorilo kaj gumo.
+    </dif>
+    <trd lng="de">Pastellstift</trd>
+  </snc>
+  <snc mrk="pasxte.0o.ajxo">
+    <ref tip="dif" cel="pasxte.0ajxo">pa&scirc;tela&jcirc;o</ref>
+    <trd lng="de">Pastellgem&auml;lde</trd>
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_s;&c_t;&c_e;&c_l;&c_mol;</trd>
+  <trd lng="ca">pastel</trd>
+  <trd lng="en">pastel</trd>
+  <trd lng="es">pastel</trd>
+  <trdgrp lng="fr">
+    <trd>pastel</trd>
+  </trdgrp>
+  <trd lng="hu">pasztell</trd>
+  <trd lng="nl">pastel</trd>
+  <trd lng="ru">&c_p;&c_a;&c_s;&c_t;&c_je;&c_l;&c_mol;</trd>
+</drv>
+
+<drv mrk="pasxte.0ajxo">
+  <kap><tld/>a&jcirc;o</kap>
+  <uzo tip="fak">BELA</uzo>
+  <snc>
+    <dif>
+      Bildo farita per pa&scirc;teloj.
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="pasxte.0o.ajxo">pa&scirc;telo</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_s;&c_t;&c_e;&c_l;&c_mol;</trd>
+  <trd lng="de">Pastellgem&auml;lde</trd>
+  <trd lng="en">pastel</trd>
+  <trdgrp lng="fr">
+    <trd>pastel</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>pasztell</trd>,
+    <trd>kr&eacute;tarajz</trd>
+  </trdgrp>
+  <trd lng="nl">pastel</trd>
+  <trd lng="ru">&c_p;&c_a;&c_s;&c_t;&c_je;&c_l;&c_mol;</trd>
+</drv>
+</art>
+<!--
+$Log: pasxte.xml,v $
+Revision 1.14  2005/04/28 16:35:19  revo
+Raul Salinas Monteagudo: +trd ca,es
+
+Revision 1.13  2003/07/26 08:42:09  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.12  2002/07/08 18:23:45  revo
+Wolfram Diestel: kor. ref-cel
+
+Revision 1.11  2002/06/17 17:31:34  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.10  2002/06/06 06:15:22  revo
+Jeromo Vasxe: + ~ajxo, + trd fr
+
+Revision 1.9 2001/12/11 18:26:47 revo
+Yury Finkel: +trd ru
+
+Revision 1.8 2001/09/28 18:14:17 revo
+jxerom vasxe: + fak bela
+
+Revision 1.7 2001/08/22 18:14:39 revo
+-->
+</vortaro>

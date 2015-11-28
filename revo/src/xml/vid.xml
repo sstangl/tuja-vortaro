@@ -1,0 +1,1218 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: vid.xml,v 1.54 2015/07/04 08:37:45 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>vid</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="vid.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra> <vspec>tr</vspec></gra>
+  <snc mrk="vid.0i.SEN">
+    <dif>
+      <ref tip="super" cel="sent.0i.sensi">Senti</ref> per la okuloj, 
+      percepti la bildojn de objektoj:
+      <ekz>
+        ni <tld/>as per la okuloj
+        <fnt><bib>F</bib>, <lok>&FE; 9</lok></fnt>;
+      </ekz>
+      <ekz>
+        li ne plu <tld/>as
+        <klr>(i&gcirc;is blinda)</klr>;
+      </ekz>
+      <ekz>
+        mi <tld/>is lin fali;
+      </ekz>
+      <ekz>
+        neniu okulo min <tld/>u
+        <fnt><bib>MT</bib>, <lok>&Ijo; 24:15</lok></fnt>;
+      </ekz>
+      <ekz>
+        vi <tld/>os la infanojn de viaj infanoj
+        <fnt><bib>MT</bib>, <lok>&Psa; 128:6</lok></fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        en son&gcirc;o princinon mi <tld/>is<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        ke li ne <tld/>u la tombon
+        <klr>(ne mortu)</klr>
+        <fnt><bib>MT</bib>, <lok>&Psa; 49:9</lok></fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        <tld/>i lumon<fnt>Z</fnt> <klr>(vivi)</klr>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        ne <tld/>ama <klr>(rigardema)</klr> turismo en&scirc;ipigis
+        nin<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="distin.0i">distingi</ref>,
+      <ref cel="observ.0i">observi</ref>,
+      <ref cel="rigard.0i">rigardi</ref>
+    </refgrp>
+  </snc>
+  <snc mrk="vid.0i.sperti">
+    <dif>
+      &Ccirc;eesti, konstati:
+      <ekz>
+        kelkaj homoj sentas sin la plej feli&ccirc;aj, kiam ili
+        <tld/>as la suferojn de siaj najbaroj
+        <fnt><bib>F</bib>, <lok>&FE; 32</lok></fnt>;
+      </ekz>
+      <ekz>
+        balda&ubreve; ni <tld/>is, ke ni trompi&gcirc;is
+        <fnt><bib>F</bib>, <lok>&FE; 40</lok></fnt>;
+      </ekz>
+      <ekz>
+        mi <tld/>as plezure, ke vi ne estas malsana<fnt>B</fnt>;
+      </ekz>
+      <ekz>
+        oni neniam <tld/>is tian arogantecon;
+      </ekz>
+      <ekz>
+        kaj Dio <tld/>is, ke &gcirc;i estas bona
+        <fnt><bib>MT</bib>, <lok>&Gen; 1:21</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="vid.0i.kompreni">
+    <dif>
+      Koni, kompreni:
+      <ekz>
+        Dio <tld/>as la fundon de nia koro<fnt>B</fnt>;
+      </ekz>
+      <ekz>
+        el la anta&ubreve;aj rimarkoj oni povas <tld/>i mian opinion pri
+        tio;
+      </ekz>
+      <ekz>
+        mi ne povas <tld/>i la signifon de tiuj vortoj;
+      </ekz>
+      <ekz>
+        &ccirc;u vi <tld/>as nun nian eraron?
+      </ekz>
+      <ekz>
+        Jakob <tld/>is la&ubreve; la viza&gcirc;o de Laban,
+        ke li ne estas rilate al li tia, kia li estis hiera&ubreve;
+        <fnt><bib>MT</bib>, <lok>&Gen; 31:2</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_b;&c_a;&c_ch;&c_y;&c_c;&c_mol;</trd>
+  <trdgrp lng="bg">
+    <trd>&c_v;&c_i;&c_zh;&c_d;&c_a;&c_m;</trd>,
+    <trd>&c_g;&c_l;&c_je;&c_d;&c_a;&c_m;</trd>
+  </trdgrp>
+  <trd lng="ca">veure</trd>
+  <trdgrp lng="cs">
+    <trd>vid&ecaron;t</trd>,
+    <trd>vidět</trd>
+  </trdgrp>
+  <trd lng="de">sehen</trd>
+  <trd lng="en">see</trd>
+  <trd lng="es">ver</trd>
+  <trd lng="fr">voir</trd>
+  <trd lng="hu">l&aacute;t</trd>
+  <trd lng="ku">d&icirc;tin</trd>
+  <trd lng="nl">zien</trd>
+  <trd lng="pl">widzie&cacute;</trd>
+  <trd lng="pt">ver</trd>
+  <trd lng="ru">&c_v;&c_i;&c_d;&c_je;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>chápať</trd>,
+    <trd>ponímať</trd>,
+    <trd>predstavovať si</trd>,
+    <trd>vidie&tcaron;</trd>
+  </trdgrp>
+  <trd lng="tp">lukin</trd>
+  <trd lng="vo">log&ouml;n</trd>
+</drv>
+
+<drv mrk="vid.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="vid.0o.sentado">
+    <ref tip="dif" cel="vid.0ado.SEN"><tld/>ado</ref>
+    <ekz>
+      je la <tld/>o de la virino ekfloris la floroj sur la tero
+      <fnt><bib>FK</bib>, <lok>2, la deveno de
+      la virino</lok></fnt>.
+    </ekz>
+    <trd lng="ca">vista</trd>
+    <trd lng="en">sight</trd>
+    <trd lng="es">vista</trd>
+    <trd lng="hu">l&aacute;t&aacute;s</trd>
+    <trd lng="pl">widok</trd>
+  </snc>
+  <snc mrk="vid.0o.povo">
+    <ref tip="dif" cel="vid.0povo.SEN"><tld/>povo</ref>
+    <ekz>
+      la maljunulino, kiu havis malklaran <tld/>on, ne rimarkis tion
+      <fnt><bib>ElektFab</bib>, <lok>Ha&ccirc;jo kaj Grenjo</lok></fnt>;
+    </ekz>
+    <trd lng="de">Sehf&auml;higkeit</trd>
+    <trd lng="en">sight</trd>
+    <trd lng="pl">wzrok</trd>
+  </snc>
+  <snc mrk="vid.0o.aspekto">
+    <uzo tip="stl">ARK</uzo>
+    <ref tip="dif" cel="aspekt.0o">aspekto</ref>
+    <ekz>
+      la&ubreve; &scirc;ia ekstera <tld/>o oni ne povis &scirc;in nomi
+      maljunulino
+      <fnt><bib>FK</bib>, <lok>4, rakontoj, Arturo, (rakonto de V.
+      Devjatnin), 1</lok></fnt>;
+    </ekz>
+    <ekz>
+      &gcirc;i penis havi esprimon de seriozeco, kiu donis al &gcirc;i
+      <tld/>on tre ridindan<fnt>Z</fnt>.
+    </ekz>
+    <trd lng="be">&c_v;&c_y;&c_g;&c_l;&c_ja;&c_d;</trd>
+    <trd lng="sk">v&yacute;zor</trd>
+    <trdgrp lng="de">
+      <trd>Aussehen</trd>,
+      <trd>Anblick</trd>
+    </trdgrp>
+    <trd lng="en">appearance</trd>
+    <trd lng="es">aspecto</trd>
+    <trd lng="hu">kin&eacute;zet</trd>
+    <trdgrp lng="pl">
+      <trd>widok</trd>,
+      <trd>wygl&aogonek;d</trd>
+    </trdgrp>
+    <trd lng="ru">&c_v;&c_i;&c_d;</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>spatření</trd>,
+    <trd>zrak</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Sehen</trd>,
+    <trd>Blick</trd>
+  </trdgrp>
+  <trd lng="en">view</trd>
+  <trd lng="fr">vue</trd>
+  <trdgrp lng="sk">
+    <trd>schopnosť vidieť</trd>,
+    <trd>videnie</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="vid.0ado">
+  <kap><tld/>ado</kap>
+  <snc mrk="vid.0ado.SEN">
+    <dif>
+      Sentado de la objektoj per la okuloj:
+      <ekz>
+        fenestroj, kiuj donas <tld/>on sur la straton;
+      </ekz>
+      <ekz>
+        el tiu domo oni &gcirc;uas belan <tld/>on.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_v;&c_ib;&c_d;</trd>,
+      <trd>&c_k;&c_r;&c_a;&c_ja;&c_v;&c_ib;&c_d;</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd>Sehen</trd>,
+      <trd>Sicht</trd>
+    </trdgrp>
+    <trd lng="hu">l&aacute;t&aacute;s</trd>
+    <trd lng="pl">widok</trd>
+    <trd lng="ru">&c_v;&c_i;&c_d;</trd>
+    <trd lng="sk">v&yacute;h&lcaron;ad</trd>
+  </snc>
+  <snc mrk="vid.0ado.vidpovo">
+    <ref tip="dif" cel="vid.0povo.SEN"><tld/>povo</ref>
+    <ekz>
+      havi bonan, akran <tld/>adon;
+    </ekz>
+    <ekz>
+      perdi la <tld/>adon.
+    </ekz>
+    <trd lng="de">Blick</trd>
+    <trd lng="pl">wzrok</trd>
+  </snc>
+  <trd lng="cs">vidění</trd>
+  <trd lng="en">sight</trd>
+  <trdgrp lng="fr">
+    <trd>vision<klr tip="amb"> (vue)</klr></trd>,
+    <trd>vue</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>zicht</trd>,
+    <trd>het <ind>zien</ind></trd>
+  </trdgrp>
+  <trd lng="pt">vis&atilde;o</trd>
+  <trdgrp lng="sk">
+    <trd>schopnosť vidieť</trd>,
+    <trd>videnie</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="vid.0ajxo">
+  <kap><tld/>a&jcirc;o</kap>
+  <snc>
+    <dif>
+      Io, kion oni <tld/>as:
+      <ekz>
+        kvaza&ubreve; trafita de terura <tld/>a&jcirc;o
+        <fnt><bib>Kiso</bib>, <lok>poetoj kaj homoj</lok></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="spekta.0o.evento">spektaklo <sncref/></ref>
+    </refgrp>
+    <trd lng="de">Sichtbares</trd>
+    <trd lng="pl">widok</trd>
+    <trd lng="ru">&c_z;&c_r;&c_je;&c_l;&c_i;&c_shch;&c_je;</trd>
+  </snc>
+  <snc>
+    <dif>
+      Desegno, fotografa&jcirc;o prezentanta ian <tld/>a&jcirc;on.
+    </dif>
+    <trd lng="pl">widok&oacute;wka</trd>
+  </snc>
+  <trd lng="en">sight</trd>
+  <trdgrp lng="fr">
+    <trd>spectacle</trd>,
+    <trd>vue<klr tip="ind"> (chose vue)</klr></trd>
+  </trdgrp>
+  <trd lng="hu">l&aacute;tv&aacute;ny</trd>
+  <trdgrp lng="nl">
+    <trd>gezicht</trd>,
+    <trd>schouwspel</trd>
+  </trdgrp>
+  <trd lng="ru">&c_v;&c_i;&c_d;</trd>
+  <trdgrp lng="de">
+    <trd>Bild</trd>,
+    <trd>Schauspiel</trd>,
+    <trd>Ansicht</trd>,
+    <trd>Anblick</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="vid.0ejo">
+  <kap><tld/>ejo</kap>
+  <snc mrk="vid.0ejo.KOMUNE">
+    <dif>
+      Loko, de kie oni <tld/>as pejza&gcirc;on.
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="belved.0o">belvedero</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="de">
+    <trd>Aussichtspunkt</trd>,
+    <trd>Stelle mit Aussicht</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>observation point</trd>,
+    <trd>viewing point</trd>,
+    <trd>scenic overlook</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>point de vue<klr tip="ind"> (sur un panorama)</klr></trd>
+  </trdgrp>
+  <trd lng="hu">kil&aacute;t&oacute;hely</trd>
+  <trd lng="nl">uitzichtspunt</trd>
+  <trd lng="pl">punkt <ind>widokowy</ind></trd>
+  <trd lng="sk">rozhľadňa</trd>
+</drv>
+
+<drv mrk="vid.0igi">
+  <kap><tld/>igi</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="vid.0igi.KOMUNE">
+    <dif>
+      Lasi a&ubreve; igi iun <tld/>i; <ref tip="vid"
+      cel="montr.0i.prezenti">montri</ref>:
+      <ekz>
+        iliaj okuloj <tld/>igas sangavidon
+        <fnt><bib>SkandalJozef</bib>, <lok>plendoj de Jozefo
+        arestita</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_k;&c_a;&c_z;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>dát najevo</trd>,
+    <trd>ukázat</trd>,
+    <trd>vyjevit</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>sichtbar machen</trd>,
+    <trd>zeigen</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>exhibit</trd>,
+    <trd>show</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>faire <ind>voir</ind></trd>,
+    <trd>montrer</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>l&aacute;ttat</trd>,
+    <trd>megjelen&iacute;t</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>pokazywa&cacute;</trd>,
+    <trd>ukazywa&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_o;&c_k;&c_a;&c_z;&c_y;&c_v;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_p;&c_o;&c_k;&c_a;&c_z;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>dať najavo</trd>,
+    <trd>uk&aacute;za&tcaron;</trd>,
+    <trd>vyjaviť</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="vid.0igxi">
+  <kap><tld/>i&gcirc;i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="vid.0igxi.KOMUNE">
+    <dif>
+      Sin montri, <ref tip="vid" cel="aper.0i.sinVidigi">aperi</ref>:
+      <ekz>
+        jen iu &scirc;ipo, kiu <tld/>i&gcirc;as kaj malaperas ie
+        malproksime, jen fumstrio &ccirc;e la horizonto
+        <fnt><bib>InfanTorent2</bib>, <lok>dua parto, &ccirc;apitro
+        2a</lok></fnt>;
+      </ekz>
+      <ekz>
+        lia viza&gcirc;o akiris seriozan <tld/>i&gcirc;on.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="en">be seen</trd>
+  <trdgrp lng="fr">
+    <trd>apparaitre</trd>,
+    <trd>se <ind>montrer</ind></trd>
+  </trdgrp>
+  <trd lng="hu">l&aacute;tszik</trd>
+  <trdgrp lng="nl">
+    <trd>tonen</trd>,
+    <trd>laten <ind>zien</ind></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>pokazywa&cacute; si&eogonek;</trd>,
+    <trd>ukazywa&cacute; si&eogonek;</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_v;&c_i;&c_d;&c_n;&c_je;&c_t;&c_mol;&c_s;&c_ja;</trd>,
+    <trd>&c_p;&c_o;&c_k;&c_a;&c_z;&c_y;&c_v;&c_a;&c_t;&c_mol;&c_s;&c_ja;
+    </trd>
+  </trdgrp>
+  <trd lng="sk">uk&aacute;za&tcaron; sa</trd>
+  <trdgrp lng="de">
+    <trd>sichtbar werden</trd>,
+    <trd>sich <ind>zeigen</ind></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="vid.0indajxo">
+  <kap><tld/>inda&jcirc;o</kap>
+  <snc mrk="vid.0indajxo.TUR">
+    <dif>
+      <ref tip="vid" cel="kurioz.0ajxo">Kurioza&jcirc;o</ref>,
+      interesa a&ubreve; bela a&jcirc;o,
+      kiun oni volonte vidas:
+      <ekz>
+        li ne laci&gcirc;is, kaj vizitis &ccirc;iun
+        <tld/>inda&jcirc;on de Vieno
+        <fnt>
+          <aut>Hevesi L., trad. Vizi L.</aut>,
+          <vrk><url
+          ref="https://sites.google.com/site/laaventurojdeandreojelky">
+          La aventuroj de Andreo Jelky</url></vrk>,
+          <lok>[2010]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="de">Sehensw&uuml;rdigkeit</trd>
+  <trd lng="en">sight worth seeing</trd>
+  <trd lng="fr">curiosit&eacute;<klr> (objet)</klr></trd>
+</drv>
+
+<drv mrk="vid.akra0a">
+  <kap>akra<tld/>a</kap>
+  <snc mrk="vid.akra0a.KOMUNE">
+    <dif>
+      Kiu havas akran <tld/>povon, bone rimarkas, bone
+      distingas, trafe ju&gcirc;as:
+      <ekz>
+        poeto &ccirc;iam akra<tld/>a, sed kun iom distanca rigardopunkto
+        <fnt>
+          <aut>C. Minnaja</aut>,
+          <vrk><url ref="http://www.esperanto.be/fel/2007/009010.php">
+          Resume de l' mio</url></vrk>,
+          <bib>Monato</bib>
+          <lok>2007:6, p. 24a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="fr">
+    <trd>perspicace</trd>,
+    <trd>p&eacute;n&eacute;trant<klr> (perspicace)</klr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="vid.antaux0emo">
+  <kap>anta&ubreve;<tld/>emo</kap>
+  <snc mrk="vid.antaux0emo.KOMUNE">
+    <dif>
+      Prudenta kalkulo de probabloj kaj anta&ubreve;zorgado pro ili:
+      <ekz>
+        kun <klr>...</klr> anta&ubreve;<tld/>emo ili aran&gcirc;as, ke 
+        la naskonombro sufi&ccirc;as nur por ekvilibri la 
+        mortonombron
+        <fnt>
+          <aut>E. R. Burroughs, trad. K. R. C. Sturmer</aut>,
+          <vrk><url
+          ref="http://edu.i-lo.tarnow.pl/esp/lern/librejo/0029/index.php">
+          Princino de Marso</url></vrk>,
+          <lok>1938</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">pr&eacute;voyance</trd>
+</drv>
+
+<drv mrk="vid.antaux0i">
+  <kap>anta&ubreve;<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="vid.antaux0i.KOMUNE">
+    <dif>
+      Anticipe koncepti la estontecon,
+      anticipe ricevi a&ubreve; formi al si ideon pri la estonteco:
+      <ekz>
+        mi anta&ubreve;<tld/>os iliajn agojn kontra&ubreve; mi kaj mi
+        &ccirc;iam forigos la dan&gcirc;eron
+        <fnt><bib>SatirRak</bib>, <lok>la fluidumo de la
+        &ccirc;iovido</lok></fnt>;
+      </ekz>
+      <ekz>
+        li <tld/>is &gcirc;uste en siaj <ind>anta&ubreve;<tld/>o</ind>j
+        pri la estonto de l' kapitalismo.
+        <trd lng="fr">pr&eacute;vision</trd>
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="flar">anta&ubreve;flari</ref>,
+      <ref cel="sent.antaux0i">anta&ubreve;senti</ref>,
+      <ref cel="atend.0i">atendi</ref>,
+      <ref cel="esper.0i">esperi</ref>,
+      <ref cel="konjek.0i">konjekti</ref>,
+      <ref cel="supoz.0i">supozi</ref>
+    </refgrp>
+    <trdgrp lng="be">
+      <trd>&c_p;&c_r;&c_a;&c_d;&c_b;&c_a;&c_ch;&c_y;&c_c;&c_mol;</trd>,
+      <trd>&c_p;&c_r;&c_a;&c_d;&c_ch;&c_u;&c_v;&c_a;&c_c;&c_mol;</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="ca">preveure</trd>
+  <trd lng="de">vorhersehen</trd>
+  <trd lng="en">foresee</trd>
+  <trd lng="es">prever</trd>
+  <trdgrp lng="fr">
+    <trd>pr&eacute;voir</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>el&odblac;re l&aacute;t</trd>,
+    <trd>el&odblac;ir&aacute;nyoz</trd>
+  </trdgrp>
+  <trd lng="nl">voorzien</trd>
+  <trd lng="pl">przewidywa&cacute;</trd>
+  <trd lng="pt">prever</trd>
+  <trd lng="ru">&c_p;&c_r;&c_je;&c_d;&c_v;&c_i;&c_d;&c_je;&c_t;&c_mol;
+  </trd>
+  <trd lng="sk">predv&iacute;da&tcaron;</trd>
+</drv>
+                     	
+<drv mrk="vid.auxd0a">
+  <kap>a&ubreve;d<tld/>a</kap>
+  <snc mrk="vid.auxd0a.TEL">
+    <uzo tip="fak">TEL</uzo>
+    <dif>
+      Uzanta por komuniko sonojn, bildojn kontraste al nura skribo:
+      <ekz>
+        a&ubreve;d<tld/>aj arkivoj
+        <fnt>
+          <aut>-</aut>,
+          <vrk><url ref="http://www.ikue.org/kongreso-2006-arkiv/">
+          59-a Kongreso de IKUE</url></vrk>,
+          <lok>2006</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="bild.son0a.TEL">sonbilda</ref>
+    </refgrp>
+    <trd lng="de">audiovisuell</trd>
+  </snc>
+  <trd lng="en">audio-visual</trd>
+  <trd lng="fr">audiovisuel<klr> (adj.)</klr></trd>
+  <trd lng="pl">audiowizualny</trd>
+</drv>
+
+<drv mrk="vid.ek0i">
+  <kap>ek<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="vid.ek0i.KOMUNE">
+    <dif>
+      Subite <tld/>i ion, &gcirc;in <ref tip="vid" cel="rimark.0i">
+      rimarki</ref>:
+      <ekz>
+        &scirc;i elsaltis el la vagono, &ndash; kaj &scirc;i tuj
+        ek<tld/>is Arturon
+        <fnt><bib>FK</bib>, <lok>4, rakontoj, Arturo</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_u;&c_b;&c_a;&c_ch;&c_y;&c_c;&c_mol;</trd>,
+    <trd>&c_z;&c_a;&c_w;&c_v;&c_a;&c_zh;&c_y;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="ca">veure</trd>
+  <trdgrp lng="cs">
+    <trd>spatřit</trd>,
+    <trd>uhlídat</trd>,
+    <trd>uvidět</trd>,
+    <trd>zahlédnout</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>erblicken</trd>,
+    <trd>gewahr werden</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>catch sight of</trd>,
+    <trd>glimpse</trd>,
+    <trd>perceive</trd>,
+    <trd>see</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>apercevoir</trd>
+  </trdgrp>
+  <trd lng="hu">megpillant</trd>
+  <trd lng="nl">opmerken</trd>
+  <trd lng="oc">apercebre</trd>
+  <trdgrp lng="pl">
+    <trd>dostrzec</trd>,
+    <trd>ujrze&cacute;</trd>,
+    <trd>dojrze&cacute;</trd>,
+    <trd>zauwa&zdot;y&cacute;</trd>
+  </trdgrp>
+  <trd lng="ru">&c_u;&c_v;&c_i;&c_d;&c_je;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>uvidieť</trd>,
+    <trd>uzrieť</trd>,
+    <trd>zbada&tcaron;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="vid.en0o">
+  <kap>en<tld/>o</kap>
+  <snc mrk="vid.en0o.PSI">
+    <uzo tip="fak">PSI</uzo>
+    <ref tip="dif" cel="intros.0o.PSI">introspekto</ref>
+    <ekz>
+      la sa&gcirc;uloj, kiuj praktikas koncentri&gcirc;on kaj en<tld/>on
+      <klr>...</klr>, tiajn <klr>...</klr> e&ccirc; la dioj tenas karaj
+      <fnt>
+      <aut>trad. T. T. Anuruddha</aut>,
+      <vrk>La Vojo al Nirvano a&ubreve; la Dhammapado, 14:181</vrk>,
+      <lok>B&#7891;-T&aacute;t-Csoma-Instituto por Budhologio,
+      1973</lok>
+      </fnt>.
+    </ekz>
+    <trd
+    lng="be">&c_ib;&c_n;&c_t;&c_r;&c_a;&c_s;&c_p;&c_e;&c_k;&c_c;&c_y;&c_ja;</trd>
+    <trdgrp lng="de">
+      <trd>Selbstbeobachtung</trd>,
+      <trd>Introspektion</trd>
+    </trdgrp>
+    <trd lng="en">introspection</trd>
+    <trd lng="es">introspecci&oacute;n</trd>
+    <trd lng="fr">introspection</trd>
+    <trdgrp lng="hu">
+      <trd>&ouml;nmegfigyel&eacute;s</trd>,
+      <trd>&ouml;nvizsg&aacute;lat</trd>,
+      <trd>introspekci&oacute;</trd>
+    </trdgrp>
+    <trd lng="nl">introspectie</trd>
+    <trd lng="pl">wgl&aogonek;d</trd>
+    <trd lng="pt">introspec&ccedil;&atilde;o</trd>
+    <trdgrp lng="ru">
+      <trd>&c_i;&c_n;&c_t;&c_r;&c_o;&c_s;&c_p;&c_je;&c_k;&c_c;&c_i;&c_ja;</trd>,
+      <trd>&c_s;&c_a;&c_m;&c_o;&c_n;&c_a;&c_b;&c_l;&c_ju;&c_d;&c_je;&c_n;&c_i;&c_je;</trd>,
+      <trd>&c_s;&c_a;&c_m;&c_o;&c_a;&c_n;&c_a;&c_l;&c_i;&c_z;</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="de">Einsicht</trd>
+</drv>
+
+<drv mrk="vid.gxisre0i">
+  <kap>&gcirc;isre<tld/>i</kap>
+  <snc mrk="vid.gxisre0i.KOMUNE">
+    <dif>
+      <ref tip="super" cel="adiaux.0i.KOMUNE">Adia&ubreve;i</ref>
+      dirante &leftquot;&gcirc;is revido&rightquot;:
+      <ekz>
+        tiuj, kiuj: &leftquot;Bonan tagon!&rightquot; / a&ubreve; kiuj:
+        &leftquot;&Ccirc;u vi havas tabakon?&rightquot; /
+        kiuj: &leftquot;Dankon, mi ne fumas!&rightquot; / kiuj
+        amindumas,
+        / kiuj &gcirc;isre<tld/>as
+        <fnt>
+        <aut>R. Schwartz</aut>,
+        <vrk><url
+        ref="http://donh.best.vwh.net/Esperanto/Literaturo/Revuoj/nlr/nlr41/provo.html">
+        Provo de Raporto...</url></vrk>,
+        <lok>Nica Literatura Revuo, 4/1, p. 1a-4a</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        anta&ubreve; unu horo proksimume ni &gcirc;isre<tld/>is niajn
+        venezuelajn geamikojn
+        <fnt>
+        <aut>L. J. Santos Morales</aut>,
+        <vrk><url ref=
+        "http://groups.yahoo.com/group/landa-agado/message/4376">
+        &Jcirc;us fini&gcirc;is la Karakasa Kongreso</url></vrk>,
+        <lok>2002-11-10</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="de">verabschieden</trd>
+  <trd lng="en">say goodbye</trd>
+  <trd lng="fr">dire au revoir</trd>
+  <trdgrp lng="pl">
+    <trd>&zdot;egna&cacute;</trd>,
+    <trd>m&oacute;wi&cacute; "do widzenia"</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="vid.inter0igxi">
+  <kap>inter<tld/>i&gcirc;i</kap>
+  <snc mrk="vid.inter0igxi.KOMUNE">
+    <dif>
+      Renkonti&gcirc;i kaj ekparoli kun unu a&ubreve; pluraj personoj.
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_b;&c_a;&c_ch;&c_y;&c_c;&c_c;&c_a;</trd>
+  <trd lng="en">see each other</trd>
+  <trdgrp lng="fr">
+    <trd>se <ind>voir</ind></trd>
+  </trdgrp>
+  <trd lng="hu">tal&aacute;lkozik</trd>
+  <trd lng="nl">ontmoeten</trd>
+  <trdgrp lng="pl">
+    <trd>widywa&cacute; si&eogonek;</trd>,
+    <trd>spotyka&cacute; si&eogonek;</trd>
+  </trdgrp>
+  <trd lng="ru">&c_u;&c_v;&c_i;&c_d;&c_je;&c_t;&c_mol;&c_s;&c_ja;</trd>
+  <trd lng="de">sich <ind>sehen</ind></trd>
+</drv>
+
+<drv mrk="vid.klar0a">
+  <kap>klar<tld/>a</kap>
+  <snc mrk="vid.klar0a.PSI">
+    <uzo tip="fak">PSI</uzo>
+    <dif>
+      Bone komprenanta situaciojn:
+      <ekz>
+        la knabineto ja rimarkis &ccirc;ion per okuletoj tre
+        klar<tld/>aj
+        <fnt><bib>VivZam</bib>, <lok>11</lok></fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>scharfsichtig</trd>,
+      <trd>durchblickend</trd>
+    </trdgrp>
+    <trd lng="en">clear-sighted</trd>
+    <trdgrp lng="fr">
+      <trd>claivoyant</trd>,
+      <trd>perspicace</trd>
+    </trdgrp>
+    <trd lng="pl">jasnowidz&aogonek;cy</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>bystrý</trd>,
+    <trd>jasnozřivý</trd>,
+    <trd>předvídavý</trd>
+  </trdgrp>
+  <trd lng="de">klarsichtig</trd>
+  <trd lng="sk">jasnovidiaci</trd>
+</drv>
+
+<drv mrk="vid.netra0ebla">
+  <kap>netra<tld/>ebla</kap>
+  <snc mrk="vid.netra0ebla.FOT">
+    <uzo tip="fak">FOT</uzo>
+    <dif>
+      Tra kiu oni ne povas <tld/>i;
+      <ref tip="sin" cel="opak.0a.KOMUNE">opaka</ref>:
+      <ekz>
+        la cindro <klr>...</klr> formis en la strato
+        netra<tld/>eblan vualon
+        <fnt>
+          <aut>A. Gregor, trad. J. Chvosta</aut>,
+          <vrk><url
+          ref="http://donh.best.vwh.net/Esperanto/Literaturo/Revuoj/nlr/nlr46/auto.html">
+          A&ubreve;to-ekskurso</url></vrk>,
+          <lok>Nica literatura revuo, 1959-07 &gcirc;is 08 (4/6), 
+          p. 294a-298a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="diafan.mal0a.FOT">maldiafana</ref>
+    </refgrp>
+  </snc>
+  <snc mrk="vid.netra0ebla.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Nekomprenebla:
+      <ekz>
+        E&ubreve;ropa Unio <klr>...</klr> estas tre komplika 
+        konstrua&jcirc;o kun strukturoj, kiuj por tre multaj 
+        homoj estas netra<tld/>eblaj
+        <fnt>
+          <aut>S. Maul</aut>,
+          <vrk><url ref="http://www.esperanto.be/fel/2009/009854.php">
+          Kompatinda EU</url></vrk>,
+          <bib>Monato</bib>,
+          <lok>2009:08-09, p. 8a</lok>
+        </fnt>
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">neprůhledný</trd>
+  <trd lng="de">undurchsichtig</trd>
+  <trd lng="fr">opaque</trd>
+  <trdgrp lng="sk">
+    <trd>nepriehľadný</trd>,
+    <trd>nepriezračný</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="vid.nigre0ulo">
+  <kap>nigre<tld/>ulo<fnt>Z</fnt></kap>
+  <snc mrk="vid.nigre0ulo.FIG">
+    <ref tip="dif" cel="pesimi.0o">pesimisto</ref>
+  </snc>
+  <trdgrp lng="de">
+    <trd>Schwarzseher</trd>,
+    <trd>Pessimist</trd>
+  </trdgrp>
+  <trd lng="es">pesimista</trd>
+  <trd lng="fr">pessimiste<klr> (subst.)</klr></trd>
+  <trd lng="hu">bor&uacute;l&aacute;t&oacute;</trd>
+  <trd lng="pl">czarnowidz</trd>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_je;&c_s;&c_s;&c_i;&c_m;&c_i;&c_s;&c_t;</trd>,
+    <trd>&c_t;&c_o;&c_t;, &c_k;&c_t;&c_o; &c_v;&c_i;&c_d;&c_i;&c_t;
+    &c_v;&c_s;&c_jo; &c_v; <ind>&c_m;&c_r;&c_a;&c_ch;&c_n;&c_o;&c_m;
+    &c_s;&c_v;&c_je;&c_t;&c_je;</ind></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="vid.preter0i">
+  <kap>preter<tld/>i</kap>
+  <snc mrk="vid.preter0i.KOMUNE">
+    <dif>
+      Ne <tld/>i, kvankam oni povus;
+      ne atenti, ne rimarki:
+      <ekz>
+        la grandulino preter<tld/>is la polican
+        patrola&ubreve;ton, kiu senbrue kaj lante
+        descendis la straton
+        <fnt>
+          <aut>J. Stave, trad. Donjo kaj Cezar</aut>,
+          <vrk><url
+          ref="http://www.satesperanto.org/Nova-artikolo.html">
+          La ven&gcirc;o de l&#8217; malgranda Nikolao </url></vrk>,
+          <lok>Sennaciulo, 2007-12</lok>
+        </fnt>
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>nevšimnout si</trd>,
+    <trd>přehlédnout</trd>
+  </trdgrp>
+  <trd lng="de">&uuml;bersehen</trd>
+  <trdgrp lng="fr">
+    <trd>manquer<klr> (ne pas voir)</klr></trd>,
+    <trd>passer &agrave; c&ocirc;t&eacute; de<klr> (ne pas
+    voir)</klr></trd>
+  </trdgrp>
+  <trd lng="sk">nevšimnúť si</trd>
+</drv>
+
+<drv mrk="vid.re0i">
+  <kap>re<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="vid.re0i.KOMUNE">
+    <dif>
+      Denove <tld/>i ion, kion oni anta&ubreve;e <tld/>is:
+      <ekz>
+        eble mi lin re<tld/>os neniam
+        <fnt><bib>FK</bib>, <lok>4, la porcio da glacia&jcirc;o</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <ind>&gcirc;is la re<tld/>o</ind>.
+        <trd lng="be">&c_d;&c_a;
+        &c_p;&c_a;&c_b;&c_a;&c_ch;&c_e;&c_n;&c_mol;&c_n;&c_ja;</trd>
+        <trd
+        lng="bg">&c_d;&c_o;&c_v;&c_i;&c_zh;&c_d;&c_a;&c_n;&c_je;</trd>
+        <trd lng="de">auf <ind>Wiedersehen</ind></trd>
+        <trd lng="es">hasta la <ind>vista</ind></trd>
+        <trd lng="fr">au revoir</trd>
+        <trd lng="hu">viszont <ind>l&aacute;t&aacute;sra</ind></trd>
+        <trd lng="nl">tot <ind>ziens</ind></trd>
+        <trdgrp lng="pl">
+          <trd>do <ind>widzenia</ind></trd>,
+          <trd>do <ind>zobaczenia</ind></trd>
+        </trdgrp>
+        <trd lng="vo">ady&ouml;</trd>
+      </ekz>
+    </dif>
+    <trd lng="de">wiedersehen</trd>
+    <trd lng="en">see again</trd>
+    <trd lng="hu">viszontl&aacute;t</trd>
+    <trd lng="nl">terugzien</trd>
+    <trdgrp lng="pl">
+      <trd>zobacza&cacute; si&eogonek;<klr> ponownie</klr></trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_u;&c_v;&c_i;&c_d;&c_je;&c_t;&c_mol;&c_s;&c_ja;</trd>,
+      <trd>&c_s;&c_v;&c_i;&c_d;&c_je;&c_t;&c_mol;&c_s;&c_ja;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="vid.re0i.trakorekti">
+    <ref tip="dif" cel="revizi.0i.verkon">revizii <sncref/></ref>
+    <trdgrp lng="de">
+      <trd>durchsehen</trd>,
+      <trd>&uuml;berarbeiten</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>revide&aacute;l</trd>,
+      <trd>&aacute;tn&eacute;z</trd>
+    </trdgrp>
+    <trd lng="nl">reviseren</trd>
+    <trdgrp lng="pl">
+      <trd>przegl&aogonek;da&cacute;<klr> ponownie</klr></trd>
+    </trdgrp>
+    <trd
+    lng="ru">&c_p;&c_je;&c_r;&c_je;&c_s;&c_m;&c_o;&c_t;&c_r;&c_je;&c_t;&c_mol;</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>setkat se</trd>,
+    <trd>shledat</trd>,
+    <trd>uvidět znovu</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>revoir</trd>
+  </trdgrp>
+  <trd lng="pt">rever</trd>
+  <trd lng="sk">znova uvidieť</trd>
+</drv>
+
+<drv mrk="vid.tra0i">
+  <kap>tra<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="vid.tra0i.KOMUNE">
+    <dif>
+      Penetri per rigardo ion, kio ne malhelpas la <tld/>on:
+      <ekz>
+        tra<tld/>i glason<fnt>B</fnt>;
+      </ekz>
+      <ekz>
+        tra<tld/>i akvon;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        ri&ccirc;ulo estas sa&gcirc;a en siaj okuloj, sed sa&gcirc;a
+        malri&ccirc;ulo lin tute tra<tld/>as
+        <fnt><bib>MT</bib>, <lok>&Sen; 28:11</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="de">
+    <trd>durchsehen</trd>,
+    <trd>hindurchsehen</trd>,
+    <trd>durchschauen</trd>,
+    <trd>hindurchschauen</trd>,
+    <trd>durchblicken</trd>,
+    <trd>hindurchblicken</trd>
+  </trdgrp>
+  <trd lng="en">see through</trd>
+  <trd lng="fr">percer<klr tip="amb"> (voir &agrave; travers)</klr>
+  </trd>
+  <trd lng="hu">&aacute;tl&aacute;t</trd>
+  <trd lng="nl">doorzien</trd>
+  <trdgrp lng="pl">
+    <trd>widzie&cacute;<klr tip="amb"> na wskro&sacute;</klr></trd>,
+    <trd>patrze&cacute;<klr tip="amb"> na wskro&sacute;</klr></trd>,
+    <trd>patrze&cacute;<klr> poprze</klr></trd>,
+    <trd>przenika&cacute; wzrokiem</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_v;&c_i;&c_d;&c_je;&c_t;&c_mol;
+    &c_n;&c_a;&c_s;&c_k;&c_v;&c_o;&c_z;&c_mol;</trd>,
+    <trd>&c_p;&c_r;&c_o;&c_n;&c_i;&c_k;&c_a;&c_t;&c_mol;
+    &c_v;&c_z;&c_g;&c_l;&c_ja;&c_d;&c_o;&c_m;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="vid.tra0ebla">
+  <kap>tra<tld/>ebla</kap>
+  <snc mrk="vid.tra0ebla.KOMUNE">
+    <dif>
+      El tia substanco, ke oni povas vidi, kio estas trans &gcirc;i:
+      <ekz>
+        vitro estas rompebla kaj tra<tld/>ebla
+        <fnt><bib>F</bib>, <lok>&FE; 41</lok></fnt>;
+      </ekz>
+      <ekz>
+        &scirc;ia ha&ubreve;to estis tra<tld/>ebla kaj delikata, kiel
+        folieto de rozo
+        <fnt><bib>Fab1</bib>, <lok>la virineto de maro</lok></fnt>.
+      </ekz>
+      <refgrp tip="vid">
+        <ref cel="diafan.0a.FOT">diafana</ref>,
+        <ref cel="krista">kristala</ref>
+      </refgrp>
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_r;&c_a;&c_z;&c_r;&c_y;&c_s;&c_t;&c_y;</trd>
+  <trd lng="ca">transparent</trd>
+  <trdgrp lng="cs">
+    <trd>průhledný</trd>,
+    <trd>průzračný</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>transparent</trd>,
+    <trd>durchsichtig</trd>
+  </trdgrp>
+  <trd lng="en">transparent</trd>
+  <trd lng="es">transparente</trd>
+  <trd lng="fr">transparent</trd>
+  <trd lng="hu">&aacute;tl&aacute;tsz&oacute;</trd>
+  <trdgrp lng="pl">
+    <trd>przezroczysty</trd>,
+    <trd>przejrzysty</trd>,
+    <trd>transparentny</trd>
+  </trdgrp>
+  <trd
+  lng="ru">&c_p;&c_r;&c_o;&c_z;&c_r;&c_a;&c_ch;&c_n;&c_y;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>priehľadný</trd>,
+    <trd>priezračný</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="vid.0al0e">
+  <kap><tld/>al<tld/>e</kap>
+  <snc mrk="vid.0al0e.KOMUNE">
+    <dif>
+      En kontra&ubreve;a pozicio:
+      <ekz>
+        <tld/>al<tld/>e sur la alia bordo etendi&gcirc;as arbareto.
+      </ekz>
+      <ekz>
+        La <klr>[...]</klr> malliberuloj kaj iliaj familianoj ka&ubreve;ris
+        <tld/>al<tld/>e
+      <fnt>
+        <aut>Albert Camus, trad. Michel Duc Goninaz</aut>,
+        <vrk>La Fremdulo</vrk>,
+        <lok>S.A.T., 1993, p. 89</lok>
+      </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_t;&c_v;&c_a;&c_r; &c_u; &c_t;&c_v;&c_a;&c_r;</trd>,
+    <trd>&c_n;&c_a;&c_s;&c_u;&c_p;&c_r;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="de">gegen&uuml;ber</trd>
+  <trd lng="en">face to face</trd>
+  <trdgrp lng="fr">
+    <trd>vis-&agrave;-vis</trd>,
+    <trd>en face</trd>,
+    <trd>face &agrave; face</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>szemben</trd>,
+    <trd>&aacute;tellenben</trd>
+  </trdgrp>
+  <trd lng="nl">tegenover</trd>
+  <trdgrp lng="pl">
+    <trd>naprzeciwko</trd>,
+    <trd>naprzeciw</trd>,
+    <trd>twarz&aogonek; w twarz</trd>,
+    <trd>oko w oko</trd>
+    </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_d;&c_r;&c_u;&c_g; &c_n;&c_a;&c_p;&c_r;&c_o;&c_t;&c_i;&c_v;
+    &c_d;&c_r;&c_u;&c_g;&c_a;</trd>,
+    <trd>&c_v;&c_i;&c_z;&c_a;&c_v;&c_i;</trd>,
+    <trd>&c_l;&c_i;&c_c;&c_o;&c_m; &c_k; &c_l;&c_i;&c_c;&c_u;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="vid.0al0e.al">
+  <kap><tld/>al<tld/>e al, <var><kap><tld/>-al-<tld/>e al</kap></var>
+  </kap>
+  <gra><vspec>prepozicia&jcirc;o</vspec></gra>
+  <snc mrk="vid.0al0e.al.kie">
+    <dif>
+      <ref tip="super" cel="kontraux.0.kie">Kontra&ubreve;</ref>, kun
+      viza&gcirc;o a&ubreve; fronto rigardanta al:
+      <ekz>
+        la grafino sidis <tld/>al<tld/>e al mi &ccirc;e la tablo
+        <fnt><bib>Voja&gcirc;Imp</bib>, <lok>&ccirc;e Lev Tolstoj en
+        Jasnaja Poljana</lok></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="en">facing</trd>
+    <trdgrp lng="fr">
+      <trd>face &agrave;</trd>,
+      <trd>en face de</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>szemk&ouml;zt</trd>,
+      <trd>&aacute;tellenben</trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>naprzeciwko</trd>,
+      <trd>naprzeciw</trd>,
+      <trd>twarz&aogonek; w twarz</trd>,
+      <trd>oko w oko</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="vid.0al0e.al.rilate">
+    <dif>
+      <ref tip="super" cel="kontraux.0.al">Kontra&ubreve;</ref>, iel
+      reagante al la &ccirc;eesto de:
+      <ekz>
+        kvankam irlandanoj da&ubreve;re montras sin gastamaj, multaj
+        lastatempe i&gcirc;as suspektemaj kaj malamikaj
+        <tld/>-al-<tld/>e al fremduloj
+        <fnt>
+        <aut>G. MacAoidh</aut>,
+        <vrk>ni hontas kaj postulas</vrk>,
+        <bib>Monato</bib>,
+        <lok>jaro 2000a, numero 11a, p. 7a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="fr">vis-&agrave;-vis de</trd>
+    <trd lng="hu">ir&aacute;nt</trd>
+    <trdgrp lng="pl">
+      <trd>w obliczu</trd>,
+      <trd>twarz&aogonek; w twarz</trd>,
+      <trd>oko w oko</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="ru">&c_l;&c_i;&c_c;&c_o;&c_m; &c_k; &c_l;&c_i;&c_c;&c_u; &c_s;</trd>
+</drv>
+
+<drv mrk="vid.0povo">
+  <kap><tld/>povo, <var><kap><tld/>kapablo</kap></var></kap>
+  <snc mrk="vid.0povo.SEN">
+    <dif>
+      Kapablo senti bildojn de objektoj:
+      <ekz>
+        La spiritlando estas ekster via /
+        <tld/>povo, kaj la hom&#8217; por vi plejaltas
+        <fnt>
+          <aut>I. Mad&aacute;ch, trad. K. Kalocsay</aut>,
+          <vrk><url ref="http://mek.oszk.hu/00900/00928/html/index.htm">
+          La Tragedio de l' Homo</url>, dua bildo</vrk>,
+          <lok>1965</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Georgo Lagran&gcirc;&#8217; <klr>...</klr> estis trafita de
+        okulmalsano,  kiu tute perdigis al li la <tld/>kapablon por unu
+        okulo kaj la  duonon de la <tld/>kapablo por la alia
+        <fnt>
+          <aut>V. Markov</aut>,
+          <vrk><url
+          ref="http://www.satesperanto.org/Memore-al-Georgo-Lagrangx-1928.html">
+          Memore al...</url></vrk>,
+          <lok>La Sago, 2004-05</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_z;&c_r;&c_o;&c_k;</trd>
+  <trd lng="cs">zrak</trd>
+  <trdgrp lng="de">
+    <trd>Sehf&auml;higkeit</trd>,
+    <trd>Gesichtssinn</trd>
+  </trdgrp>
+  <trd lng="en">ability to see</trd>
+  <trd lng="fr">vue<klr> (sens)</klr></trd>
+  <trd lng="hu">l&aacute;t&oacute;k&eacute;pess&eacute;g</trd>
+  <trd lng="pl">wzrok</trd>
+  <trd lng="ru">&c_z;&c_r;&c_je;&c_n;&c_i;&c_je;</trd>
+  <trdgrp lng="sk">
+    <trd>schopnosť vidieť</trd>,
+    <trd>videnie</trd>,
+    <trd>zrak</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: vid.xml,v $
+Revision 1.54  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.53  2015/06/28 12:03:50  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.52  2015/06/01 20:10:16  revo
+Jeromo Vasxe: + akra~a
+
+Revision 1.51  2015/01/18 04:10:14  revo
+Alain Gerard: +fnt +trd (fr)
+
+Revision 1.50  2014/12/31 11:10:18  revo
+Wolfram Diestel: +trd en,de per ViVo
+
+Revision 1.49  2014/12/13 14:10:18  revo
+Jeromo Vasxe: + netra~ebla
+
+Revision 1.48  2014/01/09 02:10:16  revo
+Jeromo Vasxe: + antaux~emo
+
+Revision 1.47  2013/07/13 14:10:17  revo
+Benito Subejrano: + trd oc ca
+
+Revision 1.46  2012/05/29 13:10:12  revo
+Jeromo Vasxe: + preter~i
+
+Revision 1.45  2011/06/15 19:10:11  revo
+-->
+</vortaro>

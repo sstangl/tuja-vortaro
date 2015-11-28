@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: suroga.xml,v 1.17 2015/07/04 08:37:44 revo Exp $">
+<kap>
+  <rad>surogat</rad>/o <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="suroga.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="suroga.0o.KOMUNE">
+    <dif>
+      <ref tip="super" cel="anstat.0ilo">Anstata&ubreve;ilo</ref>,
+      substanco a&ubreve; a&jcirc;o uzebla anstata&ubreve; alia, &ccirc;ar &gcirc;i havas
+      proksimume samajn ecojn, eble malpli bonas, sed 
+      pli facile haveblas, malpli kostas:
+      <ekz>
+        glano <klr>...</klr> uzatas kiel <tld/>o por kafo
+        <klr>...</klr>, kaj tiucele oni sekigas &gcirc;in en specialaj
+        dometoj
+        <fnt>
+          <aut>J. Kozarac, trad. D. Klobu&ccaron;ar</aut>,
+          <vrk><url
+          ref="http://public.carnet.hr/esperanto-kel/slavonia_arbaro.pdf">
+          Slavonia Arbaro</url></vrk>,
+          <lok>2006</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="paliat.0o.MED">paliativo</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_u;&c_r;&c_a;&c_g;&c_a;&c_t;</trd>,
+    <trd>&c_z;&c_a;&c_m;&c_ja;&c_n;&c_ja;&c_l;&c_mol;&c_n;&c_ib;&c_k;</trd>
+  </trdgrp>
+  <trdgrp lng="ca">
+    <trd>succedani</trd>,
+    <trd>substitutiu</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>náhrada</trd>,
+    <trd>náhražka</trd>,
+    <trd>substituent</trd>,
+    <trd>surogát</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Surrogat</trd>,
+    <trd>Ersatzstoff</trd>,
+    <trd>Notbehelf</trd>
+  </trdgrp>
+  <trd lng="en">surrogate</trd>
+  <trdgrp lng="fr">
+    <trd>ersatz</trd>,
+    <trd>substitut</trd>,
+    <trd>succ&eacute;dan&eacute;<klr> (subst.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>p&oacute;tl&eacute;k</trd>,
+    <trd>p&oacute;tszer</trd>,
+    <trd>p&oacute;tanyag</trd>,
+    <trd>szurrog&aacute;tum</trd>
+  </trdgrp>
+  <trd lng="it">surrogato</trd>
+  <trd lng="nl">surrogaat</trd>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_u;&c_r;&c_r;&c_o;&c_g;&c_a;&c_t;</trd>,
+    <trd>&c_e;&c_r;&c_z;&c_a;&c_c;</trd>,
+    <trd>&c_z;&c_a;&c_m;&c_je;&c_n;&c_i;&c_t;&c_je;&c_l;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="sk">náhradka</trd>
+</drv>
+
+<drv mrk="suroga.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="suroga.0a.KOMUNE">
+    <dif>
+      Uzata kiel pli facile havebla anstata&ubreve;a&jcirc;o:
+      <ekz>
+        <tld/>a pano
+        <fnt><aut>A. Kivi, trad. I. Ekstr&ouml;m</aut>, <vrk>Sep 
+        fratoj</vrk>, <lok>1947</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">náhražkový</trd>
+  <trd lng="fr">succ&eacute;dan&eacute;<klr> (adj.)</klr></trd>
+  <trd lng="sk">náhradkový</trd>
+</drv>
+</art>
+<!--
+$Log: suroga.xml,v $
+Revision 1.17  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:33:24  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.15  2014/07/27 01:10:12  revo
+Jeromo Vasxe: + ~a
+
+Revision 1.14  2012/07/14 19:10:19  revo
+Marc Rausell: + trd ca
+
+Revision 1.13  2012/04/21 14:10:16  revo
+Jeromo Vasxe: + ref
+
+Revision 1.12  2010/06/16 16:30:41  revo
+Russ Williams: +trd en
+
+Revision 1.11  2009/10/08 16:31:45  revo
+Antonio Codazzi: +trd it
+
+Revision 1.10  2007/07/25 20:12:30  revo
+Jeromo Vasxe: + ekz, ref ene de dif.
+
+Revision 1.9 2004/11/05 17:31:50 revo
+Jozefo Horvath: +trd hu
+
+Revision 1.8 2004/07/18 16:31:24 revo
+-->
+</vortaro>

@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: glauxc.xml,v 1.13 2013/08/30 14:11:13 revo Exp $">
+<kap>
+  <rad>gla&ubreve;ci</rad>/o
+</kap>
+<drv mrk="glauxc.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">BOT</uzo>
+  <snc>
+    <dif>
+      <ref tip="lst" cel="genr.0o"
+      lst="voko:botanikaj_genroj">Genro</ref> el familio <ref
+      tip="malprt" cel="papava.0oj">papavacoj</ref>
+      (<trd lng="la">Glaucium</trd>), kun longaj korne kurbaj fruktoj.
+    </dif>
+  </snc>
+  <trd lng="bg">&c_r;&c_o;&c_g;&c_a;&c_t; &c_m;&c_a;&c_k;</trd>
+  <trdgrp lng="ca">
+    <trd>glauci</trd>,
+    <trd>cascall mar&iacute;</trd>,
+    <trd>cascall banyut</trd>
+  </trdgrp>
+  <trd lng="de">Hornmohn</trd>
+  <trdgrp lng="en">
+    <trd>glaucium</trd>,
+    <trd>horned poppy</trd>
+  </trdgrp>
+  <trd lng="fa">&a_sh;&a_q;&a_A;&f_y;&a_q;</trd>
+  <trd lng="fr">pavot cornu</trd>
+  <trd lng="nl">hoornpapaver</trd>
+  <trdgrp lng="pt">
+   <trd>gl&aacute;ucio<klr tip="amb"> (bot&acirc;nica)</klr></trd>, 
+   <trd>gl&aacute;ucia<klr tip="amb"> (bot&acirc;nica)</klr></trd> 
+  </trdgrp>
+  <trd lng="ru">&c_g;&c_l;&c_a;&c_u;&c_c;&c_i;&c_u;&c_m;</trd>
+</drv>
+</art>
+
+<!--
+$Log: glauxc.xml,v $
+Revision 1.13  2013/08/30 14:11:13  revo
+Wolfram Diestel: kor. lst-ref
+
+Revision 1.12  2013/08/28 13:10:25  revo
+Wolfram Diestel: referencoj al bot genroj, spicoj, prilaboris la difinon
+
+Revision 1.11  2013/08/19 13:10:20  revo
+Joop Eggen: +trd bg en fr
+
+Revision 1.10  2012/08/18 20:10:46  revo
+Marc Rausell: + trd ca
+
+Revision 1.9  2009/09/11 16:31:18  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.8  2005/08/21 16:32:07  revo
+Luiz Portella: +trd pt
+
+Revision 1.7  2002/01/06 17:44:30  revo
+Paul Peeraerts: ald trd nl
+
+Revision 1.6  2001/05/18 18:12:30  revo
+-->
+</vortaro>

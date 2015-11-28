@@ -1,0 +1,146 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: tang.xml,v 1.13 2015/07/04 08:37:44 revo Exp $">
+<kap>
+  <rad>tang</rad>/i
+</kap>
+<drv mrk="tang.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="tang.0i.MAR">
+    <uzo tip="fak">MAR</uzo>
+    <uzo tip="klr">(pri &scirc;ipo)</uzo>
+    <dif>
+      Oscile movigi la&ubreve;longe, tio estas
+      de anta&ubreve;e kaj de malanta&ubreve;e.
+    </dif>
+    <trd lng="de">schlingern</trd>
+    <trdgrp lng="fr">
+      <trd>tanguer</trd>
+    </trdgrp>
+    <trd lng="hu">bukd&aacute;csol<klr tip="ind">
+    (haj&oacute;)</klr></trd>    
+    <trd lng="nl">stampen<klr tip="ind"> (v.schip)</klr></trd>
+    <trd lng="pl">kiwa&cacute;<klr> si&eogonek; (o statku)</klr></trd>
+    <trd lng="ru">&c_i;&c_s;&c_p;&c_y;&c_t;&c_y;&c_v;&c_a;&c_t;&c_mol;
+    <ind>&c_k;&c_i;&c_l;&c_je;&c_v;&c_u;&c_ju;
+    &c_k;&c_a;&c_ch;&c_k;&c_u;</ind></trd>
+  </snc>
+  <snc mrk="tang.0i.MUZ">
+    <dif>
+      Danci <tld/>on.
+    </dif>
+    <trd lng="bg">&c_t;&c_a;&c_n;&c_c;&c_u;&c_v;&c_a;&c_m; <ind>&c_t;&c_a;&c_n;&c_g;&c_o;</ind></trd>
+    <trd lng="de">Tango tanzen</trd>
+    <trdgrp lng="fr">
+      <trd>danser le <ind>tango</ind></trd>
+    </trdgrp>
+    <trd lng="hu">tang&oacute;zik</trd>    
+    <trd lng="nl">tango dansen</trd>
+    <trd lng="pl">ta&nacute;czy&cacute; <ind>tango</ind></trd>
+    <trd lng="ru">&c_t;&c_a;&c_n;&c_c;&c_je;&c_v;&c_a;&c_t;&c_mol;
+    <ind>&c_t;&c_a;&c_n;&c_g;&c_o;</ind></trd>
+    <trd lng="sv">dansa <ind>tango</ind></trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>kymácet se <klr>(loď)</klr></trd>,
+    <trd>tančit tango</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>kolísať sa <klr>(loď)</klr></trd>,
+    <trd>tancovať tango</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="tang.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="tang.0o.MAR">
+    <uzo tip="fak">MAR</uzo>
+    <dif>
+      Ago <tld/>i.
+    </dif>
+    <trd lng="de">Schlingern</trd>
+    <trdgrp lng="fr">
+      <trd>tangage</trd>
+    </trdgrp>
+    <trd lng="hu">bukd&aacute;csol&aacute;s<klr tip="ind">
+    (haj&oacute;&eacute;)</klr></trd>
+    <trd lng="nl">het <ind>stampen</ind><klr tip="ind">
+    (v.schip)</klr></trd>
+    <trd lng="pl">kiwanie<klr> (statku)</klr></trd>
+    <trdgrp lng="ru">
+      <trd>&c_k;&c_i;&c_l;&c_je;&c_v;&c_a;&c_ja;
+      &c_k;&c_a;&c_ch;&c_k;&c_a;</trd>,
+      <trd>&c_t;&c_a;&c_n;&c_g;&c_a;&c_zh;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="tang.0o.danco">
+    <uzo tip="fak">MUZ</uzo>
+    <dif>
+      Para <ref tip="super" cel="danc.0o">danco</ref> Argentin-devena,
+      du-takta, kun varia rapido,
+      monde populara ekde la 20a jarcentoj.
+    </dif>
+    <trd lng="bg">&c_t;&c_a;&c_n;&c_g;&c_o;</trd>
+    <trdgrp lng="fr">
+      <trd>tango</trd>
+    </trdgrp>
+    <trd lng="hu">tang&oacute;</trd>
+    <trd lng="pl">tango</trd>
+    <trd lng="ru">&c_t;&c_a;&c_n;&c_g;&c_o;</trd>
+  </snc>
+  <snc mrk="tang.0o.muzikajxo">
+    <uzo tip="fak">MUZ</uzo>
+    <dif>
+      Muzika&jcirc;o ta&ubreve;ga por <tld/>o-danco
+      ofte kanzona kun sopiraj kaj kordoloraj temoj.
+    </dif>
+    <trd lng="bg">&c_t;&c_a;&c_n;&c_g;&c_o;</trd>
+    <trdgrp lng="fr">
+      <trd>tango</trd>
+    </trdgrp>
+    <trd lng="hu">tang&oacute;</trd>
+    <trd lng="pl">tango</trd>
+    <trd lng="ru">&c_t;&c_a;&c_n;&c_g;&c_o;</trd>
+  </snc>
+  <trd lng="cs">kymácení lodě</trd>
+  <trd lng="de">Tango</trd>
+  <trd lng="nl">tango</trd>
+  <trd lng="sk">kymácanie sa lode</trd>
+  <trd lng="sv">tango</trd>
+</drv>
+</art>
+<!--
+$Log: tang.xml,v $
+Revision 1.13  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.12  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.11  2013/08/22 15:10:16  revo
+Joop Eggen: +trd bg
+
+Revision 1.10  2009/01/12 17:30:35  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.9  2004/11/17 19:24:56  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.8  2002/05/02 11:38:32  revo
+Jeromo Vasxe: muz : reverkis dif, + muzika&jcirc;o, + trd fr
+
+Revision 1.7 2002/03/01 17:35:20 revo
+Yury Finkel: +trd ru
+
+Revision 1.6 2001/10/15 18:18:35 revo
+Paul Peeraerts: ald trd nl
+
+Revision 1.5 2001/07/22 18:14:31 revo
+Jerano Zachrisson: +trd sv
+
+Revision 1.4 2001/05/02 16:11:51 revo
+-->
+</vortaro>

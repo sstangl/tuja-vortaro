@@ -1,0 +1,141 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: lagop.xml,v 1.7 2013/09/05 18:10:35 revo Exp $">
+<kap>
+  <rad>lagop</rad>/o
+  <fnt><bib>PIV1</bib></fnt>
+</kap>
+
+<drv mrk="lagop.0o">
+  <kap>
+    <tld/>o
+  </kap>
+
+  <snc mrk="lagop.0o.ZOO">
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:zoologiaj_genroj">Genro</ref> el familio <ref
+      tip="malprt"
+      cel="tetraon1.0oj">tetraonedoj</ref>
+      (<trd lng="la">Lagopus</trd>),
+      koke grandaj birdoj vivantaj tre norde en Ameriko kaj
+      E&ubreve;razio,
+      aliloke en altaj montaroj, ofte &ccirc;asataj:
+      <ekz>
+        ermenoj, leporoj kaj <tld/>oj <klr>...</klr> &scirc;an&gcirc;as
+        siajn
+        kolorojn por adapti&gcirc;i al la la&ubreve;sezone
+        &scirc;an&gcirc;i&gcirc;anta medio
+        <fnt>
+          <aut>Saliko</aut>,
+          <vrk>
+            <url ref="http://www.esperanto.be/fel/2005/008395.php">
+              Vizito al la nacia parko Vanoise</url>
+          </vrk>,
+          <bib>Monato</bib>,
+          <lok>jaro 2005a, numero 2a, p. 22a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">Schneehuhn</trd>
+    <trd lng="fr">lagop&egrave;de</trd>
+    <trd lng="en">grouse</trd>
+    <trd lng="hu">h&oacute;fajd</trd>
+    <trd lng="it"><ind>pernice</ind> bianca</trd>
+    <trd lng="nl">sneeuwhoen</trd> 
+    <trd lng="pl">pardwa</trd>
+    <trd lng="sv">ripa</trd>
+  </snc>
+
+  <snc mrk="lagop.0o.ZOO2">
+    <uzo tip="fak">ZOO</uzo>
+    <fnt>
+       <aut>Wouter F. Pilger</aut>,
+       <vrk>
+         <url ref="http://www.xs4all.nl/~pilger/wfp/birdeou8.htm">
+           Komunlingvaj nomoj de E&ubreve;ropaj birdoj</url>
+       </vrk>
+    </fnt>
+    <dif>
+      Specio de <ref tip="super" cel="lagop.0o.ZOO">lagopo</ref>.
+    </dif>
+    <trd lng="la">Lagopus lagopus</trd>
+    <trdgrp lng="en">
+      <trd>willow <ind>ptarmigan</ind></trd>,
+      <trd>willow <ind>grouse</ind></trd>
+    </trdgrp>
+    <trd lng="it"><ind>pernice</ind> bianca nordica</trd>
+    <trd lng="la">Lagopus lagopus</trd>
+    <trd lng="pl">pardwa mszarna</trd>
+    <trd lng="sv">dalripa</trd>
+  </snc>
+</drv>
+
+<drv mrk="lagop.monta0o">
+  <kap>monta <tld/>o</kap>
+  <snc>
+    <uzo tip="fak">ZOO</uzo>
+    <fnt>
+       <aut>Wouter F. Pilger</aut>,
+       <vrk>
+         <url ref="http://www.xs4all.nl/~pilger/wfp/birdeou8.htm">
+           Komunlingvaj nomoj de E&ubreve;ropaj birdoj</url>
+       </vrk>
+    </fnt>
+    <dif>
+      Specio de <ref tip="super" cel="lagop.0o.ZOO">lagopo</ref>.
+    </dif>
+    <trd lng="en">rock <ind>ptarmigan</ind></trd>
+    <trd lng="it"><ind>pernice</ind> bianca comune</trd>
+    <trd lng="la">Lagopus mutus</trd>   
+    <trd lng="sv">fj&auml;llripa</trd>
+  </snc>
+</drv>
+
+<drv mrk="lagop.skota0o">
+  <kap>skota <tld/>o</kap>
+  <snc>
+    <uzo tip="fak">ZOO</uzo>
+    <fnt>
+       <aut>Wouter F. Pilger</aut>,
+       <vrk>
+         <url ref="http://www.xs4all.nl/~pilger/wfp/birdeou8.htm">
+           Komunlingvaj nomoj de E&ubreve;ropaj birdoj</url>
+       </vrk>
+    </fnt>
+    <dif>
+      Specio de <ref tip="super" cel="lagop.0o.ZOO">lagopo</ref>.
+    </dif>
+    <trd lng="it"><ind>pernice</ind> bianca scozzese</trd>
+  </snc>
+</drv>
+</art>
+
+<!--
+$Log: lagop.xml,v $
+Revision 1.7  2013/09/05 18:10:35  revo
+Wolfram Diestel: referenco al listo zoo genroj
+
+Revision 1.6  2010/05/05 16:30:25  revo
+Antonio Codazzi: +trd it
+
+Revision 1.5  2010/04/21 16:30:24  revo
+Sebastian Cyprych: +snc ~o.ZOO2 +drv monta ~, skota ~o
+
+Revision 1.4  2009/09/22 17:17:58  revo
+Paul Peeraerts: +nl
+
+Revision 1.3  2007/02/17 17:30:44  revo
+Wieland Pusch: +trd de
+
+Revision 1.2  2005/07/26 16:32:13  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.1  2005/07/25 16:32:10  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

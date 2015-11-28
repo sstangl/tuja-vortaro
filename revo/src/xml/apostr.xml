@@ -1,0 +1,128 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: apostr.xml,v 1.22 2015/07/04 08:37:30 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>apostrof</rad>/o
+</kap>
+<drv mrk="apostr.0o">
+  <kap><tld/>o</kap>
+  <snc>
+  <uzo tip="fak">GRA</uzo>
+  <uzo tip="fak">LIN</uzo>
+    <dif>
+      Superlinia komoforma <ref tip="dif"
+      cel="interp3.0o">interpunkcia</ref> <ref tip="dif"
+      cel="sign.0o.KOMP">signo</ref>
+      ('), montranta la forigon de la vokalo
+      -o a&ubreve; a (&ccirc;e la artikolo).
+    </dif>
+  </snc>
+  <trd lng="be">&c_a;&c_p;&c_o;&c_s;&c_t;&c_r;&c_a;&c_f;</trd>
+  <trd lng="bg">&c_a;&c_p;&c_o;&c_s;&c_t;&c_r;&c_o;&c_f;</trd>
+  <trd lng="ca">ap&ograve;strof</trd>
+  <trd lng="cs">apostrof</trd>
+  <trdgrp lng="de">
+     <trd>Apostroph</trd>,
+     <trd>Auslassungszeichen</trd>
+  </trdgrp>
+  <trd lng="en">apostrophe</trd>
+  <trd lng="es">ap&oacute;strofe</trd>
+  <trd lng="fr">apostrophe (ponctuation)</trd>
+  <trdgrp lng="hu">
+     <trd>hi&aacute;nyjel</trd>,
+     <trd>aposztr&oacute;f</trd>
+  </trdgrp>
+  <trd lng="oc">apostr&ograve;f</trd>
+  <trd lng="pl">apostrof</trd>
+  <trd lng="ru">&c_a;&c_p;&c_o;&c_s;&c_t;&c_r;&c_o;&c_f;</trd>
+  <trdgrp lng="sk">
+    <trd>apostrof</trd>,
+    <trd>odsuvník</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="apostr.0i">
+  <kap><tld/>i</kap>
+  <uzo tip="fak">GRA</uzo>
+  <uzo tip="fak">LIN</uzo>
+  <snc>
+    <gra><vspec>ntr</vspec></gra>
+    <dif>
+      Meti <tld/>on.
+    </dif>
+    <trd lng="be">&c_s;&c_t;&c_a;&c_v;&c_ib;&c_c;&c_mol; <ind>&c_a;&c_p;&c_o;&c_s;&c_t;&c_r;&c_a;&c_f;</ind></trd>
+    <trd lng="de">apostrophieren</trd>
+    <trd lng="en">apostrophize</trd>
+    <trd lng="fr">mettre une <ind>apostrophe</ind></trd>
+    <trd lng="ca">apostrofar</trd>
+    <trd lng="hu">hi&aacute;nyjelet tesz ki</trd>
+    <trd lng="pl">wstawi&cacute; <ind>apostrof</ind></trd>
+    <trd lng="ru">&c_p;&c_o;&c_s;&c_t;&c_a;&c_v;&c_i;&c_t;&c_mol; <ind>&c_a;&c_p;&c_o;&c_s;&c_t;&c_r;&c_o;&c_f;</ind></trd>
+  </snc>
+  <snc>
+    <gra><vspec>tr</vspec></gra>
+    <dif>
+      Elizii:
+      <ekz>
+        en Esperanto oni povas <tld/>i la &leftquot;a&rightquot; de la artikolo, kiu sekvas
+        prepozicion fini&gcirc;antan per vokalo, kaj la &leftquot;-o&rightquot; de la
+        substantivo.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_p;&c_r;&c_a;&c_p;&c_u;&c_s;&c_k;&c_a;&c_c;&c_mol; <klr>(&c_k;&c_a;&c_n;&c_ch;&c_a;&c_t;&c_k;&c_o;&c_v;&c_y; &c_g;&c_a;&c_l;&c_o;&c_s;&c_n;&c_y;)</klr></trd>
+    <trd lng="de">auslassen</trd>
+    <trd lng="en">elide</trd>
+    <trd lng="fr">&eacute;lider</trd>
+    <trd lng="hu">kihagy<klr tip="ind"> (hangot)</klr></trd>
+    <trd lng="ca">elidir</trd>
+    <trd lng="oc">elidir</trd>
+    <trd lng="ru">&c_p;&c_r;&c_o;&c_p;&c_u;&c_s;&c_k;&c_a;&c_t;&c_mol;<klr tip="amb"> (&c_k;&c_o;&c_n;&c_je;&c_ch;&c_n;&c_y;&c_j;
+    &c_g;&c_l;&c_a;&c_s;&c_n;&c_y;&c_j;)</klr></trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>apostrofovat</trd>,
+    <trd>nedokončit slovo</trd>,
+    <trd>označit apostrofem</trd>,
+    <trd>přerušit slovo</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>nedokončiť slovo</trd>,
+    <trd>označiť apostrofom</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: apostr.xml,v $
+Revision 1.22  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.21  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.20  2014/01/02 10:10:13  revo
+Damien Brucker: +ref
+
+Revision 1.19  2013/12/17 21:10:12  revo
+Damien Brucker: +fak
+
+Revision 1.18  2013/09/16 07:10:09  revo
+Damien Brucker: klarigo cxe elizii
+
+Revision 1.17  2013/01/22 02:10:08  revo
+Benito Subejrano: + trd ca oc
+
+Revision 1.16  2013/01/01 12:10:11  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.15  2008/08/23 16:30:44  revo
+Wieland Pusch: +trd bg
+
+Revision 1.14  2003/11/10 17:31:06  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.13  2003/08/26 16:31:05  revo
+-->
+</vortaro>

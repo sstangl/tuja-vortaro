@@ -1,0 +1,224 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: reakci.xml,v 1.22 2015/07/04 08:37:42 revo Exp $">
+<kap>
+  <ofc>3</ofc>
+  <rad>reakci</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="reakci.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="reakci.0o.POL">
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      Politika agado celanta revivigi la pasintan staton de la aferoj.
+    </dif>
+    <trd lng="hu">reakci&oacute;</trd>
+  </snc>
+  <snc mrk="reakci.0o.SCI">
+    <uzo tip="fak">SCI</uzo>
+    <dif>
+      Reefiko<sup>Z</sup>, reago<sup>Z</sup>:
+    </dif>
+    <subsnc mrk="reakci.0o.KEM">
+      <uzo tip="fak">KEM</uzo>
+      <dif>
+        Efiko de substanco, kiu agas sur alian, kun kiu &gcirc;i estas
+        miksita,
+        kaj aperigas la karakterizajn ecojn de tiu lasta.
+      </dif>
+      <trdgrp lng="hu">
+        <trd>reakci&oacute;</trd>,
+        <trd>vegyi folyamat</trd>
+      </trdgrp>
+    </subsnc>
+    <subsnc mrk="reakci.0o.FIZ">
+      <uzo tip="fak">FIZ</uzo>
+      <dif>
+        Reago, kontra&ubreve;ago, per kiu &ccirc;iu materia punkto kompensas agon
+        aplikatan al &gcirc;i:
+        <ekz>
+          la ago kaj la <tld/>o estas egalaj kaj malaj.
+        </ekz>
+      </dif>
+      <trd lng="be">&c_s;&c_u;&c_p;&c_r;&c_a;&c_c;&c_mol;&c_d;&c_z;&c_je;&c_ja;&c_n;&c_mol;&c_n;&c_je;</trd>
+      <trd lng="el">&alfa;&ny;&tau;&jota_ton;&delta;&rho;&alfa;&sigma;&eta;</trd>
+      <trd lng="hu">ellenhat&aacute;s</trd>
+      <trd lng="ru">&c_p;&c_r;&c_o;&c_t;&c_i;&c_v;&c_o;&c_d;&c_je;&c_j;&c_s;&c_t;&c_v;&c_i;&c_je;</trd>
+    </subsnc>
+    <subsnc mrk="reakci.0o.TEK">
+      <uzo tip="fak">TEK</uzo>
+      <dif>
+        Anta&ubreve;enmovo estigita sen mekanika perilo (kiel rimeno, radoj
+        ktp),
+        sed per ellaso de ia kvanto de movo al la malanta&ubreve;o.
+      </dif>
+      <trd lng="hu">sug&aacute;rhajt&aacute;s</trd>
+    </subsnc>
+  </snc>
+  <trd lng="be">&c_r;&c_e;&c_a;&c_k;&c_c;&c_y;&c_ja;</trd>
+  <trdgrp lng="cs">
+    <trd>reakce</trd>,
+    <trd>zpátečnictví</trd>
+  </trdgrp>
+  <trd lng="de">Reaktion</trd>
+  <trd lng="en">reaction</trd>
+  <trd lng="fr">r&eacute;action</trd>
+  <trd lng="nl">reactie</trd>
+  <trd lng="ru">&c_r;&c_je;&c_a;&c_k;&c_c;&c_i;&c_ja;</trd>
+  <trdgrp lng="sk">
+    <trd>reakcia</trd>,
+    <trd>spiatočníctvo</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="reakci.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="reakci.0a.POL">
+    <dif>
+      Aganta por <ref tip="vid" 
+      cel="reakci.0o.POL"><tld/>o <sncref/></ref>,
+      mal<ref tip="ant" cel="progre.0ema.POL">progresema</ref>:
+      <ekz>
+        mi lernis en la lernejo, ke dum la kapitalismo intelektuloj kaj 
+        etbur&gcirc;oj <klr>...</klr> estis <tld/>aj, malutilaj al la popolo
+        <fnt><aut>B. Vaha</aut>, <vrk>Adolesko</vrk>, 
+        <lok>1987</lok></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="fr">r&eacute;actionnaire</trd>
+  </snc>
+  <snc mrk="reakci.0a.SCI">
+    <dif>
+      Rilata al <ref tip="vid" cel="reakci.0o.SCI"><tld/>o 
+      <sncref/></ref>.
+    </dif>
+    <ref tip="vid" cel="aviad.reakci0ilo"><tld/>a aviadilo</ref>
+    <trd lng="fr">r&eacute;actionnaire</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>reaktivní</trd>,
+    <trd>reakční</trd>,
+    <trd>zpátečnický</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>reakčný</trd>,
+    <trd>spiatočnícky</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="reakci.0ilo">
+  <kap><tld/>ilo</kap>
+  <snc mrk="reakci.0ilo.KEM">
+    <fnt><bib>PIV1</bib></fnt>
+    <uzo tip="fak">KEM</uzo>
+    <dif>
+      &Ccirc;ia substanco kapabla eniri en <tld/>on:
+      <ekz>
+        li rememoris pri ni, disdonis provtubojn, <tld/>ilojn, kaj
+        komencis klarigi, ke nun el tiuj substancoj &ccirc;iu faros iun
+        farbon
+        <fnt>
+        <aut>G. Altov, trad. J. Finkel</aut>,
+        <vrk><url ref="http://www.esperanto.mv.ru/TRIZ/angulo.html">
+        Angulo de atako</url></vrk>,
+        <lok>1998</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <adm>
+      Atentu, ke la PIV1-a senco estas pli malvasta:
+      "substanco, uzata... por ekscii, &ccirc;u difinita
+      korpo trovi&gcirc;as en miksa&jcirc;o, kombina&jcirc;o, a&ubreve;
+      ne". &Gcirc;i akceptas sinonimon: reagilo.
+      PIV2 preferas la formojn "reaganto", "reakcianto".
+      <aut>MB</aut>
+    </adm>
+  </snc>
+  <trd lng="en">reagent</trd>
+  <trd lng="fr">r&eacute;actif<klr tip="ind"> (subst., chim.)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>k&eacute;mszer</trd>,
+    <trd>reagens</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="reakci.0ismo">
+  <kap><tld/>ismo</kap>
+  <snc mrk="reakci.0ismo.POL">
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      Idearo, sinteno de tiu, kiu deziras revenon
+      al pasinta stato de aferoj:
+      <ekz>
+        la nova <tld/>isma registaro publikigis
+        kaptordonon kontra&ubreve; revoluciulo
+        <fnt>
+          <bib>Viki</bib>,
+          <lok><url ref="http://eo.wikipedia.org/wiki/Gottfried_Semper">
+          Gottfried Semper</url>, 2013-04-05</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="ant">
+      <ref cel="konser1.0ismo.POL">konservativismo</ref>,
+      <ref cel="progre.0ismo.POL">progresismo</ref>
+    </refgrp>
+  </snc>
+  <trd lng="fr">r&eacute;action<klr> (pol.)</klr></trd>
+</drv>
+
+<drv mrk="reakci.cxen0o">
+  <kap>&ccirc;en<tld/>o</kap>
+  <snc mrk="reakci.cxen0o.SCI">
+    <uzo tip="fak">SCI</uzo>
+    <dif>
+      Sinsekvo de <tld/>oj, en kiu &ccirc;iu <tld/>o produktas
+      elementojn uzatajn de sekvaj:
+      <ekz>
+        ili perdis la regon pri la &ccirc;en<tld/>o en la reaktora kerno    
+        <fnt>
+          <bib>Viki</bib>,
+          <lok><url
+          ref="http://eo.wikipedia.org/wiki/Nuklea_akcidento_de_%C4%88ernobilo">
+          Nuklea akcidento de &Ccirc;ernobilo</url>, 2013-06-05</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">r&eacute;action en chaine</trd>
+</drv>
+</art>
+<!--
+$Log: reakci.xml,v $
+Revision 1.22  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.21  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.20  2013/09/16 01:10:12  revo
+Jeromo Vasxe: + 2 ref
+
+Revision 1.19  2013/09/04 01:10:17  revo
+Jeromo Vasxe: + ~ismo cxen~o
+
+Revision 1.18  2012/09/16 15:10:13  revo
+Glavkos Xaon: greka signifo de vorto
+
+Revision 1.17  2010/01/13 17:30:28  revo
+Jeromo Vasxe: kor 2 ref
+
+Revision 1.16  2010/01/02 17:30:56  revo
+Jeromo Vasxe: snc/subsnc, ~a 2 snc + 1 ekz
+
+Revision 1.15 2008/10/30 19:26:07 revo
+Russ Williams: +trd en
+
+Revision 1.14 2005/08/28 16:31:51 revo
+Marc Bavant: -drv ~a aviadilo (transportita al sub aviad); +drv ~a;
+~ilo: mod trd fr
+
+-->
+</vortaro>

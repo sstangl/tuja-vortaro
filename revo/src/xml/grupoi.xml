@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: grupoi.xml,v 1.10 2015/07/04 08:37:35 revo Exp $">
+<kap>
+  <rad>grupoid</rad>/o
+</kap>
+<drv mrk="grupoi.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>MatVort</bib></fnt>
+  <snc>
+    <dif>
+      <ref tip="super" cel="ar.0o.MAT">Aro</ref>, konsiderata kune kun
+      unu <ref cel="operac.interna0o">interna operacio</ref> en &gcirc;i.
+    </dif>
+    <refgrp tip="sub">
+      <ref cel="monoid.0o">monoido</ref>,
+      <ref cel="grup.0o.MAT">grupo</ref>.
+    </refgrp>
+    <ref tip="super" cel="strukt.algebra0o">algebra strukturo.</ref>
+    <rim>
+      La nocio ne estas tre utila, krom por servi kiel supernocio al
+      &ccirc;iuj unuoperaciaj algebraj strukturoj.
+    </rim>
+    <trd lng="be">&c_g;&c_r;&c_u;&c_p;&c_o;&c_ib;&c_d;</trd>
+    <trd lng="ca">grupoide</trd>
+    <trdgrp lng="cs">
+      <trd>grupoid</trd>,
+      <trd>mno&zcaron;ina se z&aacute;konem vnit&rcaron;n&iacute; kompozice</trd>
+    </trdgrp>
+    <trdgrp lng="pt">
+      <trd>grup&oacute;ide</trd>,
+      <trd>conjunto n&atilde;o vazio, munido de uma opera&ccedil;&atilde;o.</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd>Gruppoid</trd>,
+      <trd>Menge mit innerem Verkn&uuml;pfungsgesetz</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>groupoid</trd>,
+      <trd>set with an internal composition law</trd>
+    </trdgrp>
+    <trd lng="fa">&f_g;&a_r;&a_w;&a_h;&a_w;&a_A;&a_r;</trd>
+    <trdgrp lng="fr">
+      <trd>groupo&iuml;de</trd>,
+      <trd>magma</trd>,
+      <trd>ensemble muni d'une loi de composition interne</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>gruppoid</trd>,
+      <trd>egym&udblac;veletes algebrai strukt&uacute;ra</trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>grupoid</trd>,
+      <trd>zbi&oacute;r z dzia&lstroke;aniem</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_g;&c_r;&c_u;&c_p;&c_p;&c_o;&c_i;&c_d;</trd>,
+      <trd>&c_m;&c_n;&c_o;&c_zh;&c_je;&c_s;&c_t;&c_v;&c_o; &c_s; &c_z;&c_a;&c_k;&c_o;&c_n;&c_o;&c_m;
+      &c_v;&c_n;&c_u;&c_t;&c_r;&c_je;&c_n;&c_n;&c_je;&c_j; &c_k;&c_o;&c_m;&c_p;&c_o;&c_z;&c_i;&c_c;&c_i;&c_i;</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="cs">grupoid, množina se zákonem vnitřní kompozice</trd>
+  <trd lng="sk">grupoid</trd>
+</drv>
+<adm>
+  Antauxe mi nomis tion "magmo" (laux la franca kutimo), sed
+  "~o" estas pli internacia kaj aperas cxe Werner. Mi provizore
+  lasis "magmo", kiel nepreferatan formon. <aut>MB</aut>
+</adm>
+</art>
+
+<!--
+$Log: grupoi.xml,v $
+Revision 1.10  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.9  2015/06/29 16:29:39  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.8  2012/07/31 20:10:10  revo
+Marc Rausell: + trd ca
+
+Revision 1.7  2009/06/19 05:09:51  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.6  2007/05/12 16:30:31  revo
+Tulio Flores: +tr pt
+
+Revision 1.5  2004/11/16 17:32:06  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.4  2003/11/13 18:49:10  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.3  2003/04/13 16:31:35  revo
+Marc Bavant: mod trd ru
+
+Revision 1.2  2003/04/09 16:30:54  revo
+Gert Bolten Maizonave: +trd pt
+Revision 1.1  2003/04/07 16:35:16  revo
+Marc Bavant: nova artikolo
+-->
+</vortaro>

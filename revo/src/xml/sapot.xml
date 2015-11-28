@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: sapot.xml,v 1.9 2013/08/25 16:11:15 revo Exp $">
+<kap>
+  <rad>sapotac</rad>/oj
+</kap>
+<drv mrk="sapot.0oj">
+  <kap><tld/>oj</kap>
+  <uzo tip="fak">BOT</uzo>
+  <snc>
+    <dif>
+      <ref tip="lst" cel="famili.0o.BIO"
+      lst="voko:botanikaj_familioj">Familio</ref> de <ref tip="malprt"
+      cel="kotile.du0aj">dukotiledonaj</ref>
+      tropikaj arboj (<trd lng="la">Sapotaceae</trd>).
+    </dif>
+  </snc>
+  <trd lng="de">Sapotengew&auml;chse</trd>
+  <trdgrp lng="hu">
+    <trd>csillagalmaf&eacute;l&eacute;k</trd>,
+    <trd>guttapercsaf&eacute;l&eacute;k</trd>,
+    <trd>szapodillaf&eacute;l&eacute;k</trd>
+  </trdgrp>
+  <trd lng="it">sapotacee</trd>
+  <trd lng="nl">sapotafamilie</trd>
+  <trd lng="ru">&c_s;&c_a;&c_p;&c_o;&c_t;&c_o;&c_v;&c_y;&c_je; <klr
+  tip="amb">(&c_s;&c_je;&c_m;&c_je;&c_j;&c_s;&c_t;&c_v;&c_o;)</klr></trd>
+</drv>
+</art>
+<!--
+$Log: sapot.xml,v $
+Revision 1.9  2013/08/25 16:11:15  revo
+Wolfram Diestel: referenco al listo bot familio
+
+Revision 1.8  2009/09/29 16:30:41  revo
+Antonio Codazzi: +trd it
+
+Revision 1.7  2002/05/14 16:32:35  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.6  2002/02/06 17:33:03  revo
+Yury Finkel: +trd ru
+
+Revision 1.5 2001/10/15 18:21:13 revo
+Paul Peeraerts: ald trd nl
+
+Revision 1.4 2001/04/29 10:55:06 revo
+sapot/acoj -> sapotac/oj
+
+Revision 1.3 2000/11/30 13:28:45 revo
+Wolfram Diestel: ref al klaso
+
+Revision 1.2 2000/08/31 21:10:38 revo
+-->
+</vortaro>

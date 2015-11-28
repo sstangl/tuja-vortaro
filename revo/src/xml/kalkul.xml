@@ -1,0 +1,1037 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: kalkul.xml,v 1.40 2015/07/04 08:37:36 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>kalkul</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="kalkul.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <snc mrk="kalkul.0i.operacii">
+    <gra><vspec>tr</vspec></gra>
+    <dif>
+      Operacii per nombroj por trovi alian ser&ccirc;atan nombron:
+      <ekz>
+        <tld/>i konton, la procenton de sumo, la distancon
+        inter Tero kaj Suno;
+      </ekz>
+      <ekz>
+        <ind>mense <tld/>i</ind>
+        <klr>(sen uzi paperon a&ubreve; kalkulilon)</klr>;
+        <trdgrp lng="fr">
+          <trd>compter de t&ecirc;te</trd>,
+          <trd>calculer mentalement</trd>
+        </trdgrp>
+        <trd lng="hu">fejb&odblac;l <ind>sz&aacute;mol</ind></trd>
+        <trd lng="nl">hoofdrekenen</trd>
+        <trd lng="pl">liczy&cacute; w pami&eogonek;ci</trd>
+        <trd lng="ru">&c_s;&c_ch;&c_i;&c_t;&c_a;&c_t;&c_mol; &c_v; &c_u;&c_m;&c_je;</trd>
+      </ekz>
+      <ekz>
+        <ind>amikon karesu, sed <tld/>i ne forgesu</ind>
+        <fnt><bib>PrV</bib></fnt>;
+        <trd lng="fr">les bons <ind>comptes</ind> font les bons
+        amis</trd>
+      </ekz>
+      <ekz>
+        <ind>ni amu nin frate, sed <tld/>u akurate</ind><fnt>Z</fnt>
+        <klr>(&gcirc;uste, precize)</klr>.
+        <trd lng="fr">les bons <ind>comptes</ind> font les bons
+        amis</trd>
+      </ekz>
+    </dif>
+    <ref tip="sub" cel="komput.0i">komputi</ref>
+    <trdgrp lng="be">
+      <trd>&c_l;&c_ib;&c_ch;&c_y;&c_c;&c_mol;</trd>,
+      <trd>&c_v;&c_y;&c_l;&c_ib;&c_ch;&c_v;&c_a;&c_c;&c_mol;</trd>
+    </trdgrp>
+    <trd lng="de">berechnen</trd>
+    <trdgrp lng="hu">
+      <trd>sz&aacute;m&iacute;t</trd>,
+      <trd>kisz&aacute;m&iacute;t</trd>
+    </trdgrp>
+    <trd lng="nl">rekenen</trd>
+    <trdgrp lng="pl">
+      <trd>liczy&cacute;</trd>,
+      <trd>oblicza&cacute;</trd>,
+      <trd>kalkulowa&cacute;</trd>,
+      <trd>rachowa&cacute;</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_s;&c_ch;&c_i;&c_t;&c_a;&c_t;&c_mol;</trd>,
+      <trd>&c_v;&c_y;&c_ch;&c_i;&c_s;&c_l;&c_ja;&c_t;&c_mol;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="kalkul.0i.nombri">
+    <gra><vspec>tr</vspec></gra>
+    <dif>
+      <ref tip="dif" cel="nombr.0i.kalkuli">Nombri</ref>;
+      determini kvanton; ser&ccirc;i la nombron de objektoj:
+      <ekz>
+        <tld/>i la nombron de la steloj en stelaro, sian monon,
+        la vo&ccirc;ojn por kaj kontra&ubreve;<fnt>B</fnt>;
+      </ekz>
+      <ekz>
+        <tld/>i per fingroj.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_l;&c_ib;&c_ch;&c_y;&c_c;&c_mol;</trd>,
+      <trd>&c_p;&c_a;&c_d;&c_l;&c_ib;&c_ch;&c_v;&c_a;&c_c;&c_mol;</trd>
+    </trdgrp>
+    <trd lng="ca">comptar</trd>
+    <trd lng="de">z&auml;hlen</trd>
+    <trd lng="es">contar</trd>
+    <trdgrp lng="hu">
+      <trd>sz&aacute;mol</trd>,
+      <trd>megsz&aacute;mol</trd>
+    </trdgrp>
+    <trd lng="nl">tellen</trd>
+    <trdgrp lng="pl">
+      <trd>liczy&cacute;</trd>,
+      <trd>zlicza&cacute;</trd>,
+      <trd>rachowa&cacute;</trd>
+    </trdgrp>
+    <trd lng="ru">&c_s;&c_ch;&c_i;&c_t;&c_a;&c_t;&c_mol;</trd>
+  </snc>
+  <snc mrk="kalkul.0i.opinii">
+    <gra><vspec>tr</vspec></gra>
+    <dif>
+      Alklasigi, meti en ian kategorion;
+      <ref tip="sin" cel="rigard.0i.atribui">rigardi kiel</ref>;
+      taksi:
+      <ekz>
+        <tld/>i kiel devon<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        <tld/>i iun profiton kiel nenion<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        ne <tld/>ante ion;
+      </ekz>
+      <ekz>
+        <tld/>ante plej alte<fnt>Z</fnt>
+        <klr>(maksimume)</klr>;
+      </ekz>
+      <ekz>
+        &gcirc;i povus esti <tld/>ata al la plej gravaj el &ccirc;iuj
+        kongresoj, kiuj iam ekzistis<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        kontuzitaj kubutoj ne estas ordinare <tld/>ataj
+        al bela&jcirc;oj<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        la ideoj de Kolumbo estis <tld/>ataj kiel
+        infana&jcirc;o
+        <fnt><bib>EE</bib></fnt>;
+      </ekz>
+      <ekz>
+        malmultaj preseraroj, al kiuj mi <tld/>as anka&ubreve; du-tri
+        erarojn kontra&ubreve; la akuzativo.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_l;&c_ib;&c_ch;&c_y;&c_c;&c_mol;</trd>,
+      <trd>&c_u;&c_v;&c_a;&c_zh;&c_a;&c_c;&c_mol;</trd>
+    </trdgrp>
+    <trd lng="ca">considerar</trd>
+    <trdgrp lng="de">
+      <trd>aufstellen</trd>,
+      <trd>aufrechnen</trd>,
+      <trd>auflisten</trd>
+    </trdgrp>
+    <trd lng="es">considerar</trd>
+    <trdgrp lng="hu">
+      <trd>sz&aacute;m&iacute;t <klr tip="ind">(tekint)</klr></trd>,
+      <trd>hozz&aacute;sz&aacute;m&iacute;t <klr tip="ind">(tulajdon&iacute;t)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="nl">
+      <trd>beschouwen</trd>,
+      <trd>tellen</trd>
+    </trdgrp>
+    <trd lng="pl">zalicza&cacute;</trd>
+    <trd lng="ru">&c_s;&c_ch;&c_i;&c_t;&c_a;&c_t;&c_mol;</trd>
+  </snc>
+  <snc mrk="kalkul.0i.esperi">
+    <gra><vspec>ntr</vspec></gra>
+    <dif>
+      Fidi iun; konfidi al iu:
+      <ekz>
+        se mi estos devigata forlasi por kelkaj jaroj nian aferon,
+        mi <tld/>as je vi, mi esperas, ke vi ne lasos &gcirc;in
+        fali<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        mi <tld/>as pri vi por helpi min.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_r;&c_a;&c_z;&c_mol;&c_l;&c_ib;&c_ch;&c_v;&c_a;&c_c;&c_mol; <klr tip="amb">(&c_n;&c_a;
+    &c_k;&c_a;&c_g;&c_o;&c_s;&c_mol;&c_c;&c_ib;/&c_sh;&c_t;&c_o;&c_s;&c_mol;&c_c;&c_ib;)</klr></trd>
+    <trd lng="ca">comptar amb</trd>
+    <trdgrp lng="de">
+      <trd>rechnen mit</trd>,
+      <trd>z&auml;hlen auf</trd>
+    </trdgrp>
+    <trd lng="es">contar con</trd>
+    <trd lng="hu">sz&aacute;m&iacute;t <klr tip="ind">(vkire, vmire)</klr></trd>
+    <trd lng="nl">rekenen op</trd>
+    <trd lng="pl">liczy&cacute;<klr> (na kogo&sacute;, na co&sacute;)</klr></trd>
+    <trd lng="ru">&c_r;&c_a;&c_s;&c_s;&c_ch;&c_i;&c_t;&c_y;&c_v;&c_a;&c_t;&c_mol; <klr> (&c_n;&c_a; &c_k;&c_o;&c_g;&c_o;-&c_l;.,
+    &c_ch;&c_t;&c_o;-&c_l;.)</klr></trd>
+  </snc>
+  <snc mrk="kalkul.0i.atenti">
+    <gra><vspec>ntr</vspec></gra>
+    <dif>
+      Fiksi sian konduton la&ubreve; la valoro de iu persono a&ubreve; objekto:
+      <ekz>
+        li estas malamiko, kun kiu ni devas <tld/>i;
+      </ekz>
+      <ekz>
+        la kongreskomitato ne <tld/>is kun vizito al la muzeoj;
+      </ekz>
+      <ekz>
+        ni devas <tld/>i kun la kutimo<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_l;&c_ib;&c_ch;&c_y;&c_c;&c_c;&c_a;</trd>
+    <trd lng="hu">sz&aacute;mol <klr tip="ind">(vkivel, vmivel)</klr></trd>
+    <trd lng="nl">rekening houden met</trd>
+    <trd lng="pl">liczy&cacute; si&eogonek;<klr> (z kim&sacute;, z czym&sacute;)</klr></trd>
+    <trd lng="ru">&c_s;&c_ch;&c_i;&c_t;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>
+  </snc>
+  <trd lng="ca">calcular</trd>
+  <trd lng="cs">po&ccaron;&iacute;tat</trd>
+  <trd lng="en">calculate</trd>
+  <trd lng="es">calcular</trd>
+  <trdgrp lng="fr">
+    <trd>calculer</trd>,
+    <trd>compter</trd>,
+    <trd>consid&eacute;rer</trd>,
+    <trd>prendre (pour)</trd>,
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>počítať</trd>,
+    <trd>rátať</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kalkul.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="kalkul.0o.aritmetika">
+    <dif>
+      Operacio per nombroj:
+      <ekz>
+        <ind>bonaj <tld/>oj, bonaj kunuloj</ind>
+        <fnt><bib>PrV</bib></fnt>;
+        <trd lng="fr">les bons <ind>comptes</ind> font les bons
+        amis</trd>
+      </ekz>
+      <ekz>
+        erara <tld/>o.
+      </ekz>
+    </dif>
+    <trd lng="en">calculation</trd>
+    <trd lng="de">Berechnung</trd>
+    <trdgrp lng="hu">
+      <trd>sz&aacute;m&iacute;t&aacute;s</trd>,
+      <trd>kisz&aacute;m&iacute;t&aacute;s</trd>
+    </trdgrp>
+    <trd lng="nl">rekenkundige <ind>bewerking</ind></trd>
+    <trdgrp lng="pl">
+      <trd>liczenie</trd>
+      <trd>obliczenia</trd>,
+      <trd>kalkulacja</trd>,
+      <trd>rachunek</trd>
+    </trdgrp>
+    <trd lng="ru">&c_r;&c_a;&c_s;&c_ch;&c_jo;&c_t;</trd>
+  </snc>
+  <snc mrk="kalkul.0o.nombrado">
+    <dif>
+      Nombrado:
+      <ekz>
+        mono amas <tld/>on
+        <fnt><bib>PrV</bib></fnt>;
+      </ekz>
+      <ekz>
+        ni ne faru <tld/>on de liaj kulpoj, ties <tld/>o
+        estus tro longa.
+      </ekz>
+    </dif>
+    <trd lng="de">Z&auml;hlung</trd>
+    <trd lng="en">calculation</trd>
+    <trd lng="hu">sz&aacute;mol&aacute;s</trd>
+    <trd lng="nl">telling</trd>
+    <trdgrp lng="pl">
+      <trd>liczenie</trd>,
+      <trd>zliczanie</trd>,
+      <trd>rachunek</trd>
+    </trdgrp>
+    <trd lng="ru">&c_s;&c_ch;&c_jo;&c_t;</trd>
+  </snc>
+  <snc mrk="kalkul.0o.fakturo">
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      Detala listo de pagoj &scirc;uldataj de kliento al la servinto:
+      <ekz>
+        bonvolu meti en mian <tld/>on la pagon por tiuj &ccirc;i
+        ekzempleroj<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        kelnero, donu al mi la <tld/>on.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="faktur.0o">fakturo</ref>
+    <trdgrp lng="ca">
+      <trd>compte</trd>,
+      <trd>factura</trd>
+    </trdgrp>
+    <trdgrp lng="es">
+      <trd>cuenta</trd>,
+      <trd>factura</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>bill</trd>,
+      <trd>tab</trd>,
+      <trd>check</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd>Aufstellung</trd>,
+      <trd>Rechnungsaufstellung</trd>
+    </trdgrp>
+    <trd lng="hu">sz&aacute;mvet&eacute;s</trd>
+    <trdgrp lng="pl">
+      <trd>faktura</trd>,
+      <trd>rachunek</trd>,
+      <trd>paragon</trd>
+    </trdgrp>
+    <trd lng="ru">&c_s;&c_ch;&c_jo;&c_t;</trd>
+  </snc>
+  <snc mrk="kalkul.0o.arangxoj">
+    <dif>
+      Aran&gcirc;oj konsiderataj por realigi celon:
+      <ekz>
+        ni devas anta&ubreve; &ccirc;io preni en <tld/>on
+        <klr>(atenti, konsideri)</klr> la montrojn
+        de la sperto<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        ne faru <tld/>on sen la mastro
+        <fnt><bib>PrV</bib></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="ca">consideraci&oacute;</trd>
+    <trd lng="es">consideraci&oacute;n</trd>
+    <trd lng="en">calculations</trd>
+    <trd lng="hu">sz&aacute;m&iacute;t&aacute;s</trd>
+    <trd lng="nl">rekening</trd>
+    <trd lng="pl">rachunek</trd>
+    <trd lng="ru">&c_r;&c_a;&c_s;&c_ch;&c_jo;&c_t;</trd>
+  </snc>
+  <snc mrk="kalkul.0o.konto">
+    <uzo tip="stl">EVI</uzo>
+    <dif>
+      <ref tip="dif" cel="kont.0o.KOME">Konto</ref>:
+      <ekz>
+        la librojn mi presis je mia propra <tld/>o kaj
+        risko<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        li prenas &ccirc;ion je <tld/>o <klr>(kredite)</klr>, kaj e&ccirc; unu
+        kopekon ne volas pagi<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+    <trd lng="en">account</trd>
+    <trd lng="hu">sz&aacute;mla</trd>
+    <trdgrp lng="pl">
+      <trd>konto</trd>,
+      <trd>rachunek</trd>
+    </trdgrp>
+    <trd lng="ru">&c_s;&c_ch;&c_jo;&c_t;</trd>
+  </snc>
+  <snc mrk="kalkul.0o.mezuro">
+    <dif>
+      Atentado pri la elspezoj:
+      <ekz>
+        kiu vivas sen <tld/>o, balda&ubreve; estos
+        almozulo
+        <fnt><bib>PrV</bib></fnt>
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="mezur.0o">mezuro</ref>,
+      <ref cel="pes1.0o">peso</ref>,
+      <ref cel="gard">singardo</ref>,
+      <ref cel="konsid">konsidero</ref>.
+    </refgrp>
+    <trd lng="ca">estalvi</trd>
+    <trd lng="hu">sz&aacute;mvet&eacute;s</trd>
+    <trd lng="ru">&c_u;&c_ch;&c_jo;&c_t;</trd>
+  </snc>
+  <snc mrk="kalkul.0o.koncepto">
+    <dif>
+      Preciza koncepto:
+      <ekz>
+        multaj homoj ne kutimas donadi al si precizan <tld/>on
+        pri siaj simpatioj kaj antipatioj<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+    <trd lng="en">accounting</trd>
+    <trd lng="hu">sz&aacute;m(ad&aacute;s)</trd>
+    <trd lng="nl">rekening</trd>
+    <trd lng="ru">&c_o;&c_t;&c_ch;&c_jo;&c_t;</trd>
+  </snc>
+  <snc mrk="kalkul.0o.formalismo">
+    <uzo tip="fak">MAT</uzo>
+    <dif>
+      Formala sistemo, <ref tip="vid" cel="teori.0o">teorio</ref>
+      matematika a&ubreve; logika:
+      <ekz>
+        infinitezima, diferenciala, bulea, propozicia <tld/>o;
+      </ekz>
+      <ekz>
+        lambdo<tld/>o,
+      </ekz>
+      <ekz>
+        predikat<tld/>o.
+      </ekz>
+    </dif>
+    <trd lng="de">Kalk&uuml;l</trd>
+    <trd lng="en">calculus</trd>
+    <trd lng="fr">calcul</trd>
+    <trd lng="hu">sz&aacute;m&iacute;t&aacute;s</trd>
+    <trd lng="nl">berekening</trd>
+    <trdgrp lng="pl">
+      <trd>rachunek</trd>,
+      <trd>teoria</trd>
+    </trdgrp>
+    <trd lng="ru">&c_i;&c_s;&c_ch;&c_i;&c_s;&c_l;&c_je;&c_n;&c_i;&c_je;</trd>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_l;&c_ib;&c_ch;&c_e;&c_n;&c_mol;&c_n;&c_je;</trd>,
+    <trd>&c_r;&c_a;&c_h;&c_a;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>,
+    <trd>&c_l;&c_ib;&c_k;</trd>,
+    <trd>&c_r;&c_a;&c_z;&c_mol;&c_l;&c_ib;&c_k;</trd>,
+    <trd>&c_u;&c_l;&c_ib;&c_k;</trd>
+  </trdgrp>
+  <trd lng="ca">c&agrave;lcul</trd>
+  <trdgrp lng="cs">
+    <trd>kalkulace</trd>,
+    <trd>počet</trd>,
+    <trd>počítání</trd>,
+    <trd>vyúčtování</trd>,
+    <trd>výpočet</trd>,
+    <trd>účet</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>calcul</trd>,
+    <trd>compte<klr tip="ind"> (calcul)</klr></trd>,
+    <trd>addition<klr tip="ind"> (&agrave; payer)</klr></trd>,
+    <trd>note<klr tip="ind"> (&agrave; payer)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>faktúra</trd>,
+    <trd>počítanie</trd>,
+    <trd>účet</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kalkul.0ema">
+  <kap><tld/>ema</kap>
+  <snc mrk="kalkul.0ema.PSI">
+    <dif>
+      Kiu <tld/>as, en &ccirc;iuj situacioj taksas sian profiton kaj 
+      malprofiton:
+      <ekz>
+        mi <klr>...</klr> volis iom vundi &scirc;ian <tld/>eman koron
+        <fnt>
+          <aut>K. Pap, trad. A. Reiber</aut>,
+          <vrk><url
+          ref="http://donh.best.vwh.net/Esperanto/Literaturo/Revuoj/nlr/nlr63/revado.html">
+          Revado nenifara</url></vrk>,
+          <lok>la nica literatura revuo, 1961-01 (6/3), p.
+          112a-117a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">kdo rád počítá <klr>(adj.)</klr></trd>
+  <trdgrp lng="fr">
+    <trd>calculateur<klr> (adj., int&eacute;ress&eacute;)</klr></trd>,
+    <trd>int&eacute;ress&eacute;<klr> (calculateur)</klr></trd>
+  </trdgrp>
+  <trd lng="sk">rád počítajúci</trd>
+</drv>
+
+<drv mrk="kalkul.0ilo">
+  <kap><tld/>ilo</kap>
+  <snc>
+    <dif>
+      Rimedo por plenumi aritmetikajn operaciojn a&ubreve; <tld/>i
+      kelkajn simplajn funkciojn, nepriganta intervenon de
+      manipulisto je &ccirc;iu pa&scirc;o de la <tld/>ado (ekz-e
+      <ref tip="sub" cel="abak.0o.kalkulilo">abako</ref>).
+    </dif>
+    <ref tip="vid" cel="soroban.0o">sorobano</ref>
+    <ref tip="vid" cel="komput.0ilo">komputilo</ref>
+  </snc>
+  <trd lng="be">&c_k;&c_a;&c_l;&c_mol;&c_k;&c_u;&c_l;&c_ja;&c_t;&c_a;&c_r;</trd>
+  <trdgrp lng="ca">
+    <trd>calculador</trd>,
+    <trd>calculadora</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>počítací stroj</trd>,
+    <trd>počítačka</trd>
+  </trdgrp>
+  <trd lng="en">calculator</trd>
+  <trd lng="es">calculadora</trd>
+  <trd lng="fr">calculateur</trd>
+  <trd lng="hu">sz&aacute;mol&oacute;g&eacute;p</trd>
+  <trd lng="nl">rekenmachine</trd>
+  <trdgrp lng="pl">
+    <trd>liczyd&lstroke;o</trd>,
+    <trd>kalkulator</trd>,
+    <trd>maszyna <ind>licz&aogonek;ca</ind></trd>
+  </trdgrp>
+  <trd lng="ru">&c_k;&c_a;&c_l;&c_mol;&c_k;&c_u;&c_l;&c_ja;&c_t;&c_o;&c_r;</trd>
+  <trdgrp lng="sk">
+    <trd>kalkulačka</trd>,
+    <trd>počítací stroj</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kalkul.al0i">
+  <kap>al<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      Aldoni per <tld/>o:
+      <ekz>
+        li timas, ke oni al<tld/>os lin mem al la nombro de
+        tiuj malsa&gcirc;uloj<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="ca">
+      <trd>afegir</trd>,
+      <trd>incorporar</trd>
+    </trdgrp>
+    <trdgrp lng="es">
+      <trd>a&ntilde;adir</trd>,
+      <trd>incorporar</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>ajouter<klr tip="ind"> (&agrave; un nombre)</klr></trd>,
+      <trd>compter<klr tip="ind"> (qn/qc au nombre de...)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>hozz&aacute;sz&aacute;m&iacute;t</trd>,
+      <trd>hozz&aacute;ad</trd>
+    </trdgrp>
+    <trd lng="nl">bijtellen</trd>
+    <trd lng="pl">zalicza&cacute;</trd>
+  </snc>
+  <snc>
+    <dif>
+      Atribui, imputi:
+      <ekz>
+        je la demando, al kiu popolo oni al<tld/>as min,
+        mi respondas<fnt>Z</fnt>...
+      </ekz>
+    </dif>
+    <trdgrp lng="ca">
+      <trd>atribuir</trd>,
+      <trd>imputar</trd>
+    </trdgrp>
+    <trdgrp lng="es">
+      <trd>atribuir</trd>,
+      <trd>imputar</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>attribuer</trd>,
+      <trd>imputer</trd>
+    </trdgrp>
+    <trd lng="hu">besorol</trd>
+    <trd lng="nl">rekenen tot</trd>
+    <trd lng="pl">zalicza&cacute;</trd>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_r;&c_y;&c_l;&c_ib;&c_ch;&c_y;&c_c;&c_mol;</trd>,
+    <trd>&c_p;&c_r;&c_y;&c_r;&c_a;&c_h;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>připočíst</trd>,
+    <trd>připočítat</trd>
+  </trdgrp>
+  <trd lng="ru">&c_p;&c_r;&c_i;&c_ch;&c_i;&c_s;&c_l;&c_i;&c_t;&c_mol;</trd>
+  <trd lng="sk">pripočítať</trd>
+</drv>
+
+<drv mrk="kalkul.antaux0i">
+  <kap>anta&ubreve;<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      Anticipe <tld/>i:
+      <ekz>
+        ni kunmetas la kalendaron kaj anta&ubreve;<tld/>as
+        la estontajn fenomenojn sur la &ccirc;ielo
+        <fnt><bib>Far3</bib><lok>&ccirc;ap. 9</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_l;&c_ib;&c_ch;&c_y;&c_c;&c_mol;</trd>,
+    <trd>&c_r;&c_a;&c_z;&c_mol;&c_l;&c_ib;&c_ch;&c_v;&c_a;&c_c;&c_mol; <klr
+    tip="amb">(&c_z;&c_a;&c_g;&c_a;&c_d;&c_z;&c_ja;)</klr></trd>,
+    <trd>&c_r;&c_a;&c_b;&c_ib;&c_c;&c_mol; <ind>&c_k;&c_a;&c_sh;&c_t;&c_a;&c_r;&c_y;&c_s;</ind></trd>
+  </trdgrp>
+  <trdgrp lng="ca">
+    <trd>preveure</trd>,
+    <trd>predir</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>prever</trd>,
+    <trd>predecir</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>calculer<klr tip="amb"> (d'avance)</klr></trd>,
+    <trd>pr&eacute;dire<klr tip="ind"> (par le calcul)</klr></trd>,
+    <trd>pr&eacute;-calculer</trd>
+  </trdgrp>
+  <trd lng="hu">el&odblac;re kisz&aacute;m&iacute;t</trd>
+  <trdgrp lng="ru">
+    <trd>&c_r;&c_a;&c_s;&c_s;&c_ch;&c_i;&c_t;&c_a;&c_t;&c_mol;<klr tip="amb">
+    (&c_z;&c_a;&c_r;&c_a;&c_n;&c_je;&c_je;)</klr></trd>,
+    <trd>&c_r;&c_a;&c_s;&c_ch;&c_i;&c_s;&c_l;&c_i;&c_t;&c_mol;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kalkul.de0i">
+  <kap>de<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      Depreni de konto:
+      <ekz>
+        de<tld/>i la rabaton.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="kalkul.el0i">el<tld/>i</ref>,
+      <ref cel="subtra.0i">subtrahi</ref>.
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_a;&c_d;&c_l;&c_ib;&c_ch;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trdgrp lng="ca">
+    <trd>descomptar</trd>,
+    <trd>suprimir</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>odečíst</trd>,
+    <trd>odpočítat</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>descontar</trd>,
+    <trd>restar</trd>,
+    <trd>sustraer</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>d&eacute;falquer</trd>,
+    <trd>retrancher<klr tip="ind"> (par le calcul)</klr></trd>,
+    <trd>soustraire<klr tip="ind"> (&agrave; un nombre)</klr></trd>
+  </trdgrp>
+  <trd lng="hu">lesz&aacute;m&iacute;t</trd>
+  <trd lng="nl">aftrekken</trd>
+  <trd lng="pl">odlicza&cacute;</trd>
+  <trd lng="ru">&c_o;&c_t;&c_ch;&c_i;&c_s;&c_l;&c_i;&c_t;&c_mol;<klr tip="amb">
+  (&c_d;&c_je;&c_n;&c_mol;&c_g;&c_i;)</klr></trd>
+  <trd lng="sk">odpočítať</trd>
+</drv>
+
+<drv mrk="kalkul.el0i">
+  <kap>el<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="kalkul.el0i.dekalkuli">
+    <ref tip="dif" cel="kalkul.de0i">de<tld/>i</ref>
+    <trd lng="be">&c_a;&c_d;&c_l;&c_ib;&c_ch;&c_v;&c_a;&c_c;&c_mol;</trd>
+    <trdgrp lng="ca">
+      <trd>descomptar</trd>,
+      <trd>suprimir</trd>
+    </trdgrp>
+    <trdgrp lng="es">
+    <trd>descontar</trd>,
+    <trd>restar</trd>,
+    <trd>sustraer</trd>
+  </trdgrp>
+    <trdgrp lng="fr">
+      <trd>d&eacute;falquer</trd>,
+      <trd>retrancher<klr tip="ind"> (par le calcul)</klr></trd>,
+      <trd>soustraire<klr tip="ind"> (&agrave; un nombre)</klr></trd>
+    </trdgrp>
+    <trd lng="hu">lesz&aacute;m&iacute;t</trd>
+    <trd lng="nl">aftrekken</trd>
+    <trd lng="pl">odlicza&cacute;</trd>
+    <trd lng="ru">&c_o;&c_t;&c_ch;&c_i;&c_s;&c_l;&c_i;&c_t;&c_mol;<klr tip="amb">
+    (&c_d;&c_je;&c_n;&c_mol;&c_g;&c_i;)</klr></trd>
+  </snc>
+  <snc mrk="kalkul.el0i.tutkalkuli">
+    <dif>
+      Tute nombri a&ubreve; <tld/>i nenion preterlasante:
+      <ekz>
+        Mia bu&scirc;o rakontos Vian justecon, &Ccirc;iutage Vian helpon, &Ccirc;ar mi
+        ne
+        povus &ccirc;ion el<tld/>i
+        <fnt><bib>MT</bib> <lok>&Psa; 71:15</lok></fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_v;&c_y;&c_l;&c_ib;&c_ch;&c_v;&c_a;&c_c;&c_mol;</trd>,
+      <trd>&c_p;&c_a;&c_d;&c_l;&c_ib;&c_ch;&c_v;&c_a;&c_c;&c_mol;</trd>
+    </trdgrp>
+    <trdgrp lng="ca">
+      <trd>enumerar</trd>,
+      <trd>ressenyar</trd>,
+      <trd>detallar<klr> (per complet)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="es">
+      <trd>enumerar</trd>,
+      <trd>contar<klr> (por completo)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>faire le <ind>compte</ind> de</trd>
+    </trdgrp>
+    <trd lng="hu">mindent &ouml;sszevet</trd>
+    <trdgrp lng="pl">
+      <trd>zlicza&cacute;</trd>,
+      <trd>zrachowa&cacute;</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_i;&c_s;&c_ch;&c_i;&c_s;&c_l;&c_i;&c_t;&c_mol;</trd>,
+      <trd>&c_r;&c_a;&c_s;&c_ch;&c_i;&c_s;&c_l;&c_i;&c_t;&c_mol;</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="cs">propočítat</trd>
+  <trd lng="sk">prepočítať</trd>
+</drv>
+
+<drv mrk="kalkul.kun0i">
+  <kap>kun<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      Kunigi en <tld/>ado.
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_l;&c_ib;&c_ch;&c_y;&c_c;&c_mol; &c_r;&c_a;&c_z;&c_a;&c_m;</trd>
+  <trdgrp lng="ca">
+    <trd>agregar</trd>,
+    <trd>conjuntar</trd>
+  </trdgrp>
+  <trd lng="cs">sečítat</trd>
+  <trd lng="es">agregar</trd>
+  <trdgrp lng="hu">
+    <trd>&ouml;sszesz&aacute;mol</trd>,
+    <trd>&ouml;sszegez</trd>
+  </trdgrp>
+  <trd lng="nl">samentellen</trd>
+  <trd lng="pl">zlicza&cacute;</trd>
+  <trd lng="ru">&c_p;&c_o;&c_s;&c_ch;&c_i;&c_t;&c_a;&c_t;&c_mol; &c_v;&c_m;&c_je;&c_s;&c_t;&c_je;</trd>
+  <trdgrp lng="sk">
+    <trd>sčítať</trd>,
+    <trd>zrátať</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kalkul.en0i">
+  <kap>en<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      Enhavi, enteni:
+      <ekz>
+        la federacio en<tld/>as dek grupojn;
+      </ekz>
+      <ekz>
+        la kataluna literaturo estas tiu, kiu en<tld/>as
+        plej abundajn tradukojn;
+      </ekz>
+      <ekz>
+        en<tld/>ante ion.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="kun.0e0">kune kun</ref>,
+      <ref cel="plus.0">plus</ref>.
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_u;&c_t;&c_r;&c_y;&c_m;&c_o;&c_w;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trdgrp lng="ca">
+    <trd>constar de</trd>,
+    <trd>comptar amb</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>započíst</trd>,
+    <trd>započítat</trd>,
+    <trd>započítávat</trd>,
+    <trd>zaúčtovat</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>compter<klr tip="ind"> (comporter)</klr></trd>,
+    <trd>comprendre<klr tip="ind"> (comporter)</klr></trd>,
+    <trd>comporter</trd>,
+    <trd>d&eacute;tenir<klr tip="ind"> (comporter)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>tartalmaz</trd>,
+    <trd>mag&aacute;ban foglal</trd>
+  </trdgrp>
+  <trd lng="nl">bevatten</trd>
+  <trd lng="pl">zalicza&cacute;</trd>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_o;&c_d;&c_je;&c_r;&c_zh;&c_a;&c_t;&c_mol;<klr tip="amb"> (&c_v; &c_s;&c_je;&c_b;&c_je;)</klr></trd>,
+    <trd>&c_v;&c_k;&c_l;&c_ju;&c_ch;&c_a;&c_t;&c_mol;<klr tip="amb"> (&c_v; &c_s;&c_je;&c_b;&c_ja;)</klr></trd>
+  </trdgrp>
+  <trd lng="sk">započítať</trd>
+</drv>
+
+<drv mrk="kalkul.pri0i">
+  <kap>pri<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="kalkul.pri0i.zorge">
+    <dif>
+      Zorge pripensi estontan agon helpe de <tld/>ado; pesi &ccirc;iujn
+      konsekvencojn de sia agado:
+      <ekz>
+        &scirc;i konsideris la longecon de la vojo kaj pri<tld/>is,
+        ke, se &scirc;i ne sekvos la landvojon, <klr>[...]</klr>
+        &scirc;i &scirc;paros preska&ubreve; du mejlojn
+        <fnt><bib>Fab4</bib><lok>Anneto</lok></fnt>;
+      </ekz>
+      <ekz>
+        &scirc;i ne pri<tld/>is sian agon<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        mi &ccirc;iam agas orde, kun pripenso kaj <ind>pri<tld/>o</ind>
+        <fnt><bib>Fab4</bib><lok>Kuristoj</lok></fnt>.
+        <trdgrp lng="fr">
+          <trd>pr&eacute;voyance</trd>,
+          <trd>pr&eacute;m&eacute;ditation</trd>,
+          <trd>calcul<klr tip="ind"> (pr&eacute;voyance)</klr></trd>,
+          <trd>pond&eacute;ration<klr tip="ind"> (pr&eacute;voyance)</klr></trd>
+        </trdgrp>
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="plan.0i">plani</ref>
+    </refgrp>
+    <trd lng="be">&c_p;&c_r;&c_a;&c_l;&c_ib;&c_ch;&c_y;&c_c;&c_mol;</trd>
+    <trdgrp lng="ca">
+      <trd>preveure</trd>,
+      <trd>calcular</trd>
+    </trdgrp>
+    <trdgrp lng="es">
+      <trd>prever</trd>,
+      <trd>calcular</trd>
+    </trdgrp>
+    <trd lng="de">durchrechnen</trd>
+    <trdgrp lng="fr">
+      <trd>calculer<klr tip="ind"> (peser les
+      cons&eacute;quences)</klr></trd>,
+      <trd>pr&eacute;m&eacute;diter</trd>,
+      <trd>pr&eacute;voir<klr tip="ind"> (pr&eacute;m&eacute;diter)</klr></trd>
+    </trdgrp>
+    <trd lng="hu">m&eacute;rlegel</trd>
+    <trd lng="nl">overwegen</trd>
+    <trd lng="pl">rozwa&zdot;a&cacute;</trd>
+    <trd lng="ru">&c_p;&c_r;&c_o;&c_s;&c_ch;&c_i;&c_t;&c_a;&c_t;&c_mol;</trd>
+  </snc>
+  <snc mrk="kalkul.pri0i.nombri_homojn">
+    <uzo tip="fak">BIB</uzo>
+    <dif>
+      Nombri la homojn:
+      <ekz>
+        pri<tld/>u la tutan komunumon de la Izraelidoj la&ubreve; iliaj
+        familioj
+        <fnt><bib>MT</bib><lok>&Nom; 1:2</lok></fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_p;&c_a;&c_l;&c_ib;&c_ch;&c_y;&c_c;&c_mol; <klr tip="amb">(&c_l;&c_ju;&c_d;&c_z;&c_je;&c_j;,
+      &c_n;&c_a;&c_s;&c_je;&c_l;&c_mol;&c_n;&c_ib;&c_c;&c_t;&c_v;&c_a;)</klr></trd>,
+      <trd>&c_p;&c_a;&c_d;&c_l;&c_ib;&c_ch;&c_y;&c_c;&c_mol;</trd>
+    </trdgrp>
+    <trd lng="ca">censar</trd>
+    <trd lng="es">censar</trd>
+    <trd lng="fr">recenser<klr tip="ind"> (une population)</klr></trd>
+    <trd lng="pl">policzy&cacute;<klr> (ludzi, mieszka&nacute;c&oacute;w)</klr></trd>
+    <trdgrp lng="ru">
+      <trd>&c_s;&c_o;&c_s;&c_ch;&c_i;&c_t;&c_a;&c_t;&c_mol;</trd>,
+      <trd>&c_p;&c_o;&c_d;&c_s;&c_ch;&c_i;&c_t;&c_a;&c_t;&c_mol;</trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>propočítat</trd>,
+    <trd>spočítat</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>prepočítať</trd>,
+    <trd>spočítať</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kalkul.diferenciala0o">
+  <kap>diferenciala <tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>MatTerm</bib><lok>p. 20</lok></fnt>
+  <snc>
+    <dif>
+      Bran&ccirc;o de <ref tip="malprt" cel="matema.0o">matematiko</ref>,
+      kiu sin bazas sur la nocioj <ref
+      cel="difere2.0o">diferencialo</ref>
+      kaj <ref cel="deriv.0ajxo.MAT">deriva&jcirc;o</ref>, kaj okupi&gcirc;as
+      pri solvado de diferencialaj ekvacioj.
+    </dif>
+  </snc>
+  <trd lng="ca"><ind>c&agrave;lcul</ind> diferencial</trd>
+  <trd lng="cs">diferenciální počet</trd>
+  <trd lng="de">Differenzialrechnung</trd>
+  <trd lng="en">differential <ind>calculus</ind></trd>
+  <trd lng="es"><ind>c&aacute;lculo</ind> diferencial</trd>
+  <trd lng="fr">calcul diff&eacute;rentiel</trd>
+  <trd lng="hu">differenci&aacute;lsz&aacute;m&iacute;t&aacute;s</trd>
+  <trd lng="nl">differentiaalrekenen</trd>
+  <trd lng="pl">rachunek r&oacute;&zdot;niczkowy</trd>
+  <trd lng="ru">&c_d;&c_i;&c_f;&c_f;&c_je;&c_r;&c_je;&c_n;&c_c;&c_i;&c_a;&c_l;&c_mol;&c_n;&c_o;&c_je;
+  <ind>&c_i;&c_s;&c_ch;&c_i;&c_s;&c_l;&c_je;&c_n;&c_i;&c_je;</ind></trd>
+  <trd lng="sk">diferenciálny počet</trd>
+</drv>
+
+<drv mrk="kalkul.infinitezima0o">
+  <kap>infinitezima <tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>MatVort</bib></fnt>
+  <snc>
+    <dif>
+      Bran&ccirc;o de <ref tip="malprt" cel="matema.0o">matematiko</ref>,
+      kiu entenas la diferencialan kaj integralan <tld/>ojn, kaj
+      pritraktas
+      la <ref cel="infini1.0o.MAT">infinitezimojn</ref>.
+    </dif>
+  </snc>
+  <trd lng="ca"><ind>c&agrave;lcul</ind> infinitesimal</trd>
+  <trd lng="es"><ind>c&aacute;lculo</ind> infinitesimal</trd>
+  <trd lng="de">Infinitesimalrechnung</trd>
+  <trd lng="en">infinitesimal <ind>calculus</ind></trd>
+  <trd lng="fr">calcul infinit&eacute;simal</trd>
+  <trd lng="hu">infinitezim&aacute;lis-sz&aacute;m&iacute;t&aacute;s</trd>
+  <trd lng="ru">&c_i;&c_s;&c_ch;&c_i;&c_s;&c_l;&c_je;&c_n;&c_i;&c_je; &c_b;&c_je;&c_s;&c_k;&c_o;&c_n;&c_je;&c_ch;&c_n;&c_o;
+  &c_m;&c_a;&c_l;&c_y;&c_h;</trd>
+</drv>
+
+<drv mrk="kalkul.integrala0o">
+  <kap>integrala <tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>MatTerm</bib><lok>p. 21</lok></fnt>
+  <snc>
+    <dif>
+      Bran&ccirc;o de <ref tip="malprt" cel="matema.0o">matematiko</ref>,
+      kiu okupi&gcirc;as pri kalkulado de
+      <ref cel="integr2.0o.sumo">integraloj</ref> kaj
+      <ref cel="deriv.mal0ajxo.MAT">malderiva&jcirc;oj</ref>,
+      kaj pri solvado de diferencialaj ekvacioj.
+    </dif>
+  </snc>
+  <trd lng="ca"><ind>c&agrave;lcul</ind> integral</trd>
+  <trd lng="cs">integrální počet</trd>
+  <trd lng="de">Integralrechnung</trd>
+  <trd lng="en">integral <ind>calculus</ind></trd>
+  <trd lng="es"><ind>c&aacute;lculo</ind> integral</trd>
+  <trd lng="fr">calcul int&eacute;gral</trd>
+  <trd lng="hu">integr&aacute;lsz&aacute;m&iacute;t&aacute;s</trd>
+  <trd lng="nl">integraalrekenen</trd>
+  <trd lng="pl">rachunek ca&lstroke;kowy</trd>
+  <trd lng="ru">&c_i;&c_n;&c_t;&c_je;&c_g;&c_r;&c_a;&c_l;&c_mol;&c_n;&c_o;&c_je;
+  <ind>&c_i;&c_s;&c_ch;&c_i;&c_s;&c_l;&c_je;&c_n;&c_i;&c_je;</ind></trd>
+  <trd lng="sk">integrálny počet</trd>
+</drv>
+
+<drv mrk="kalkul.probablo0o">
+  <kap>probablo<tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>MatVort</bib></fnt>
+  <snc>
+    <dif>
+      Bran&ccirc;o de <ref tip="malprt" cel="matema.0o">matematiko</ref>,
+      kiu okupi&gcirc;as pri modeligo de hazardo.
+    </dif>
+    <ref tip="vid" cel="probab.0o.MAT">probablo.</ref>
+  </snc>
+  <trd lng="ca"><ind>c&agrave;lcul</ind> de probabilitats</trd>
+  <trd lng="cs">počet pravděpodobnosti</trd>
+  <trd lng="de">Wahrscheinlichkeitsrechnung</trd>
+  <trd lng="en">probability theory</trd>
+  <trd lng="es"><ind>c&aacute;lculo</ind> de probabilidades</trd>
+  <trd lng="fr">calcul des probabilit&eacute;s</trd>
+  <trd lng="hu">val&oacute;sz&iacute;n&udblac;s&eacute;gsz&aacute;m&iacute;t&aacute;s
+  </trd>
+  <trd lng="nl">kansberekening</trd>
+  <trdgrp lng="pl">
+    <trd>rachunek prawdopodobie&nacute;stwa</trd>,
+    <trd>teoria prawdopodobie&nacute;stwa</trd>
+  </trdgrp>
+  <trd lng="ru">&c_t;&c_je;&c_o;&c_r;&c_i;&c_ja; <ind>&c_v;&c_je;&c_r;&c_o;&c_ja;&c_t;&c_n;&c_o;&c_s;&c_t;&c_je;&c_j;</ind></trd>
+  <trd lng="sk">počet pravdepodobnosti</trd>
+</drv>
+
+<drv mrk="kalkul.retro0o">
+  <kap>retro<tld/>o</kap>
+  <snc mrk="kalkul.retro0o.MAT">
+    <dif>
+      <tld lit="K"/>o en la direkto kontra&ubreve;a al la normala.
+    </dif>
+  </snc>
+  <trd lng="ca">compte regressiva</trd>
+  <trd lng="de">Countdown</trd>
+  <trd lng="en">countdown</trd>
+  <trd lng="fr">compte &agrave; rebours</trd>
+  <trd lng="hu">visszasz&aacute;ml&aacute;l&aacute;s</trd>
+  <trd lng="nl">kansberekening</trd>
+  <trd lng="pl">odliczanie</trd>
+  <trd lng="ru">&c_o;&c_b;&c_r;&c_a;&c_t;&c_n;&c_y;&c_j; &c_o;&c_t;&c_s;&c_ch;&c_je;&c_t;</trd>
+</drv>
+</art>
+<!--
+$Log: kalkul.xml,v $
+Revision 1.40  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.39  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.38  2014/02/04 21:10:12  revo
+Jeromo Vasxe: + ~ema
+
+Revision 1.37  2013/09/21 20:10:12  revo
+Jeromo Vasxe: retro~o + 2 kor en dif
+
+Revision 1.36  2013/09/16 18:10:10  revo
+Alejandro Escobedo: retrokalkulo (kaj tradukoj) aldonita + multegaj
+hispanaj tradukoj
+
+Revision 1.35  2012/09/01 08:10:12  revo
+Marc Rausell: + trd ca
+
+Revision 1.34  2009/02/10 14:17:48  revo
+Sebastian Cyprych: -fusxaj linirompoj en trd
+
+Revision 1.33  2007/06/01 16:31:36  revo
+Sebastian Cyprych: +trd pl +ref sorobano
+
+Revision 1.32  2005/12/12 17:31:03  revo
+Wieland Pusch: +trd de
+
+-->
+</vortaro>

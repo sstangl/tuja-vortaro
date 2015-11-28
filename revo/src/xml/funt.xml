@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: funt.xml,v 1.23 2015/07/04 08:37:34 revo Exp $">
+<kap>
+<ofc>*</ofc>
+<rad>funt</rad>/o
+</kap>
+<drv mrk="funt.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="funt.0o.MEZ">
+    <dif>
+      Praktika <ref tip="super" cel="unu.mezur0o">mezurunuo</ref> de
+      <ref cel="mas.0o.FIZ">maso</ref>, diversvalora la&ubreve; la landoj,
+      proksimume egala al duono de <ref cel="kilogr.0o">kilogramo</ref>:
+      <ekz>
+        li havis egan tabakujon, kiu ampleksis <tld/>on da flartabako
+        <fnt><bib>RabistFab</bib></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="sterli.0a">sterlinga</ref>.
+    </refgrp>
+    <trd lng="de">Pfund [500 g]</trd>
+  </snc>
+  <trd lng="be">&c_f;&c_u;&c_n;&c_t;</trd>
+  <trdgrp lng="cs">
+    <trd>funt</trd>,
+    <trd>libra</trd>,
+    <trd>pound</trd>
+  </trdgrp>
+  <trd lng="en">pound</trd>
+  <trd lng="es">libra</trd>
+  <trdgrp lng="fa">
+    <trd>&f_p;&a_w;&a_n;&a_d;<klr tip="ind"> (&f_y;&f_k;&a_A;&f_y; &a_j;&a_r;&a_m;)</klr></trd>,
+    <trd>&f_g;&f_y;&a_r;&a_w;&a_A;&a_n;&f_k;&a_h;</trd>
+  </trdgrp>
+  <trd lng="fr">livre<klr tip="ind"> (mesure de masse)</klr></trd>
+  <trd lng="hu">font</trd>
+  <trd lng="id">pon</trd>
+  <trd lng="nl">pond<klr tip="ind"> (500 g)</klr></trd>
+  <trd lng="pl">funt</trd>
+  <trd lng="pt">libra</trd>
+  <trd lng="ru">&c_f;&c_u;&c_n;&c_t; <klr>
+  (&c_je;&c_d;&c_i;&c_n;&c_i;&c_c;&c_a; &c_v;&c_je;&c_s;&c_a;)
+  </klr></trd>
+  <trdgrp lng="sk">
+    <trd>libra</trd>,
+    <trd>pound</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="funt.sterlinga0o">
+  <kap>sterlinga <tld/>o, <var><kap>sterling<tld/>o</kap></var></kap>
+  <snc mrk="funt.sterlinga0o.pundo">
+    <uzo tip="fak">EKON</uzo>
+    <fnt><bib>PV</bib></fnt>
+    <uzo tip="stl">ARK</uzo>
+    <ref tip="dif" cel="pund.0o">pundo</ref>
+  </snc>
+  <trd lng="be">
+&c_f;&c_u;&c_n;&c_t; &c_s;&c_t;&c_e;&c_r;&c_l;&c_ib;&c_n;&c_g;&c_a;&c_w;
+  </trd>
+  <trd lng="cs">libra šterlinků</trd>
+  <trd lng="de">Pfund <ind>Sterling</ind></trd>
+  <trd lng="en">pound sterling</trd>
+  <trdgrp lng="fa">
+    <trd>&f_p;&a_w;&a_n;&a_d; &a_A;&a_s;&a_t;&a_r;&a_l;&f_y;&a_n;&f_g;</trd>,
+    <trd>&a_l;&f_y;&a_r;&a_h;&a_hamza_sure; &a_A;&a_s;&a_t;&a_r;&a_l;&f_y;&a_n;&f_g;</trd>
+  </trdgrp>
+  <trd lng="fr">livre sterling</trd>
+  <trd lng="hu">font sterling</trd>
+  <trd lng="id">pound sterling</trd>
+  <trd lng="nl">pond sterling</trd>
+  <trd lng="pl">funt szterling</trd>
+  <trd lng="pt">libra esterlina</trd>
+  <trd lng="ru">
+&c_f;&c_u;&c_n;&c_t; &c_s;&c_t;&c_je;&c_r;&c_l;&c_i;&c_n;&c_g;&c_o;&c_v;
+  </trd>
+  <trdgrp lng="sk">
+    <trd>funt</trd>,
+    <trd>libra šterlingov</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: funt.xml,v $
+Revision 1.23  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.22  2015/06/29 16:29:39  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.21  2014/06/26 15:10:26  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.20  2012/10/23 00:12:46  revo
+Neil Roberts: aldonu la etikedon <var>
+
+Revision 1.19  2009/08/21 16:31:32  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.18  2008/05/25 18:38:31  revo
+Russ Williams: +trd en
+
+Revision 1.17  2007/11/19 17:31:22  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.16  2007/06/21 16:30:54  revo
+Tulio Flores: +tr pt
+
+Revision 1.15  2005/12/15 17:31:06  revo
+Jeromo Vasxe: + ekz
+
+Revision 1.14  2004/10/29 16:32:30  revo
+-->
+</vortaro>

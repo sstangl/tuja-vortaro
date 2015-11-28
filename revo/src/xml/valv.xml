@@ -1,0 +1,199 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: valv.xml,v 1.26 2015/07/04 08:37:45 revo Exp $">
+<kap>
+  <rad>valv</rad>/o <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="valv.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="valv.0o.TEK">
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      <ref tip="super" cel="mehxan1.0o.pecoj">Me&hcirc;anismo</ref>
+      tralasanta fluon en unu direkto,
+      samtempe barante &gcirc;in en alia direkto:
+      <ekz>
+        disko<tld/>o, dren<tld/>o, ka&ubreve;&ccirc;ukoklapa <tld/>o,
+        prem<tld/>o, ringa <tld/>o, tuba <tld/>o;
+      </ekz>
+      <ekz>
+         <tld/>o de pne&ubreve;o.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="klap.0o.TEK">klapo<sncref/></ref>
+    <trdgrp lng="be">
+      <trd>&c_v;&c_e;&c_n;&c_t;&c_y;&c_l;&c_mol;</trd>,
+      <trd>&c_k;&c_l;&c_a;&c_p;&c_a;&c_n;</trd>
+    </trdgrp>
+    <trd lng="ca">v&agrave;lvula</trd>
+    <trdgrp lng="de">
+      <trd>Ventil</trd>,
+      <trd>Stellklappe</trd>
+    </trdgrp>
+    <trd lng="es">valva</trd>
+    <trdgrp lng="fr">
+      <trd>soupape</trd>,
+      <trd>clapet</trd>
+    </trdgrp>
+    <trd lng="hu">szelep</trd>
+    <trdgrp lng="nl">
+      <trd>ventiel</trd>,
+      <trd>klep</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_v;&c_je;&c_n;&c_t;&c_i;&c_l;&c_mol;</trd>,
+      <trd>&c_k;&c_l;&c_a;&c_p;&c_a;&c_n;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="valv.0o.ELE">
+    <uzo tip="fak">ELE</uzo>
+    <ref tip="dif" cel="rektif.0ilo">rektifilo</ref>
+    <trd lng="de">Gleichrichter</trd>
+    <trd lng="fr">redresseur<klr> (&eacute;lectrique)</klr></trd>
+  </snc>
+  <snc mrk="valv.0o.ZOO">
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      &Ccirc;iu el la du partoj de dupeca
+      <ref tip="malprt" cel="konk.0o.tego">konko</ref>;
+      <ref tip="sin" cel="klap.0o.ZOO">klapo<sncref/></ref>.
+    </dif>
+    <trd lng="be">&c_s;&c_t;&c_v;&c_o;&c_r;&c_k;&c_a;</trd>
+    <trd lng="ca">valva <klr>(mol&middot;luscs)</klr></trd>
+    <trd lng="hu">kagyl&oacute;h&eacute;j</trd>    
+    <trd lng="nl">schaal<klr tip="ind"> (v.dier)</klr></trd>
+    <trd lng="ru">&c_s;&c_t;&c_v;&c_o;&c_r;&c_k;&c_a;</trd>
+  </snc>
+  <snc mrk="valv.0o.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      &Ccirc;iu aparta parto de <ref tip="malprt"
+      cel="perika1.0o">perikarpo</ref>.
+    </dif>
+    <trd lng="be">&c_s;&c_t;&c_v;&c_o;&c_r;&c_k;&c_a;</trd>
+    <trd lng="ca">valva (fruits)</trd>
+    <trdgrp lng="es">
+      <trd>valva</trd>,
+      <trd>ventalla</trd>
+    </trdgrp>
+    <trd lng="hu">term&eacute;sh&eacute;j</trd>
+    <trd lng="nl">lob</trd>
+    <trd lng="ru">&c_s;&c_t;&c_v;&c_o;&c_r;&c_k;&c_a;</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>klapka</trd>,
+    <trd>ventil</trd>,
+    <trd>záklopka</trd>
+  </trdgrp>
+  <trd lng="pt">v&aacute;lvula</trd>
+  <trdgrp lng="sk">
+    <trd>klapka</trd>,
+    <trd>ventil</trd>,
+    <trd>záklopka</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="valv.du0uloj">
+  <kap>du<tld/>uloj</kap>
+  <snc mrk="valv.du0uloj.ZOO">
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      <ref tip="lst" cel="klas.0o.BIO"
+      lst="voko:zoologiaj_klasoj">Klaso</ref>
+       el la filumo <ref tip="malprt"
+      cel="molusk.0oj">moluskoj</ref>
+      (<trd lng="la">Bivalvia</trd>).
+    </dif>
+  </snc>
+  <trd lng="be">&c_d;&c_v;&c_u;&c_h;&c_s;&c_t;&c_v;&c_o;&c_r;&c_k;&c_a;&c_v;&c_y;&c_ja;
+    <klr>(&c_k;&c_l;&c_ja;&c_s; &c_m;&c_a;&c_l;&c_ju;&c_s;&c_k;&c_a;&c_w;)</klr>
+  </trd>
+  <trdgrp lng="ca">
+    <trd>lamel&middot;libranquis</trd>,
+    <trd>bivalves</trd>
+  </trdgrp>
+  <trd lng="cs">mlži</trd>
+  <trd lng="de">Muscheln<klr tip="ind"> (Klasse)</klr></trd>
+  <trd lng="en">bivalves</trd>
+  <trd lng="es">bivalvos</trd>
+  <trd lng="fr">bivalves<klr> (classe des)</klr></trd>
+  <trd lng="hu">kagyl&oacute;k<klr tip="amb"> (oszt&aacute;ly)</klr></trd>
+  <trd lng="nl">mosselen<klr tip="ind"> (klasse)</klr></trd>
+  <trd lng="pt"><klr tip="ind">(moluscos) </klr>bivalves</trd>
+  <trd lng="ru">&c_d;&c_v;&c_u;&c_s;&c_t;&c_v;&c_o;&c_r;&c_ch;&c_a;&c_t;&c_y;&c_je; &c_m;&c_o;&c_l;&c_l;&c_ju;&c_s;&c_k;&c_i; <klr
+  tip="amb">(&c_k;&c_l;&c_a;&c_s;&c_s;)</klr></trd>
+  <trd lng="sk">lastúrniky</trd>
+</drv>
+
+<drv mrk="valv.elektrona0o">
+  <kap>elektrona <tld/>o</kap>
+  <snc mrk="valv.elektrona0o.ELET">
+    <uzo tip="fak">ELET</uzo>
+    <dif>
+      <ref tip="super" cel="aparat.0o">Aparato</ref>, kreanta kaj
+      direktanta elektronan fluon en vakuo a&ubreve; gaso;
+      elektrona tubo.
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_r;&c_a;&c_d;&c_y;&c_jo;&c_l;&c_ja;&c_m;&c_p;&c_a;</trd>,
+    <trd>&c_e;&c_l;&c_je;&c_k;&c_t;&c_r;&c_o;&c_n;&c_n;&c_a;&c_ja;
+      <ind>&c_l;&c_ja;&c_m;&c_p;&c_a;</ind></trd>
+  </trdgrp>
+  <trd lng="ca">tub de raigs cat&ograve;dics</trd>
+  <trd lng="cs">elektronka</trd>
+  <trdgrp lng="de">
+    <trd>R&ouml;hre</trd>,
+    <trd>Elektronenr&ouml;hre</trd>
+  </trdgrp>
+  <trd lng="es">v&aacute;alvula</trd>
+  <trd lng="fr">tube &eacute;lectronique</trd>
+  <trdgrp lng="hu">
+    <trd>elektroncs&odblac;</trd>,
+    <trd>r&aacute;di&oacute;cs&odblac;</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>radiobuis</trd>,
+    <trd>radiolamp</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_r;&c_a;&c_d;&c_i;&c_o;&c_l;&c_a;&c_m;&c_p;&c_a;</trd>,
+    <trd>&c_e;&c_l;&c_je;&c_k;&c_t;&c_r;&c_o;&c_n;&c_n;&c_a;&c_ja; &c_l;&c_a;&c_m;&c_p;&c_a;</trd>
+  </trdgrp>
+  <trd lng="sk">elektrónka</trd>
+</drv>
+</art>
+<!--
+$Log: valv.xml,v $
+Revision 1.26  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.25  2015/06/28 12:03:50  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.24  2015/01/24 20:10:17  revo
+Jeromo Vasxe: vortanalizilo:  kor. 1 ekz
+
+Revision 1.23  2014/01/24 09:10:16  revo
+Damien Brucker: +trd fr
+
+Revision 1.22  2013/09/06 15:10:12  revo
+Wolfram Diestel: peco -> mehxanismo
+
+Revision 1.21  2013/09/01 10:10:15  revo
+Wolfram Diestel: +elektrona ~o
+
+Revision 1.20  2013/09/01 09:10:22  revo
+Wolfram Diestel: prilaboris dif de snc TEK kaj ELE
+
+Revision 1.19  2013/08/31 18:10:11  revo
+Wolfram Diestel: du~uloj: referenco al listo zoo klasoj
+
+Revision 1.18  2011/12/03 23:10:21  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.17  2005/01/26 17:32:17  revo
+-->
+</vortaro>

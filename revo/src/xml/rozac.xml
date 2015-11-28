@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+ 
+<vortaro>
+<art mrk="$Id: rozac.xml,v 1.14 2015/07/29 16:10:16 revo Exp $">
+<kap>
+  <rad>rozac</rad>/oj <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="rozac.0oj">
+  <kap><tld/>oj</kap>
+  <snc mrk="rozac.0oj.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      <ref tip="lst" cel="famili.0o.BIO"
+      lst="voko:botanikaj_familioj">Familio</ref> de <ref tip="malprt"
+      cel="kotile.du0aj">dukotiledonaj</ref>
+      plantoj, al kiu apartenas
+      ekzemple
+      <refgrp tip="prt">
+        <ref cel="frag.0ujo.BOT">fragujo</ref>,
+        <ref cel="pir.0ujo.BOT">pirujo</ref>,
+        <ref cel="pom.0ujo.BOT">pomujo</ref>,
+        <ref cel="prun.0ujo.BOT">prunujo</ref>,
+        <ref cel="roz.0o.ARBO">rozo</ref>
+      </refgrp>
+      (<trd lng="la">Rosaceae</trd>).
+    </dif>
+  </snc>
+  <trd lng="be">&c_r;&c_u;&c_zh;&c_a;&c_v;&c_y;&c_ja; <klr tip="amb">(&c_s;&c_ja;&c_m;'&c_ja;)</klr></trd>
+  <trd lng="bg">&c_r;&c_o;&c_z;&c_o;&c_c;&c_v;&c_je;&c_t;&c_n;&c_i;</trd>
+  <trd lng="ca">ros&agrave;cies</trd>
+  <trd lng="de">Rosengew&auml;chse</trd>
+  <trd lng="fr">rosac&eacute;es</trd>
+  <trd lng="hu">r&oacute;zsaf&eacute;l&eacute;k</trd>
+  <trd lng="nl">rozenfamilie</trd>
+  <trd lng="pt">ros&aacute;ceas</trd>
+  <trd lng="ru">&c_r;&c_o;&c_z;&c_o;&c_c;&c_v;&c_je;&c_t;&c_n;&c_y;&c_je; <klr
+  tip="amb">(&c_s;&c_je;&c_m;&c_je;&c_j;&c_s;&c_t;&c_v;&c_o;)</klr></trd>
+  <trd lng="sv">rosv&auml;xter</trd>
+</drv>
+</art>
+
+<!--
+$Log: rozac.xml,v $
+Revision 1.14  2015/07/29 16:10:16  revo
+Joop Eggen: +trd bg
+
+Revision 1.13  2013/10/28 20:10:13  revo
+Wolfram Diestel: kor. ref-tip
+
+Revision 1.12  2013/08/25 16:11:10  revo
+Wolfram Diestel: referenco al listo bot familio
+
+Revision 1.11  2011/12/30 19:10:11  revo
+Jeromo Vasxe: kor 1 ref
+
+Revision 1.10  2011/12/05 10:10:33  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.9  2009/01/03 17:31:24  revo
+Jeromo Vasxe: kor. 1 ref
+
+Revision 1.8  2006/02/24 17:33:17  revo
+Tulio Flores: +trd pt
+
+Revision 1.7  2006/02/02 17:32:08  revo
+-->
+</vortaro>

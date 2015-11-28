@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: diant.xml,v 1.21 2015/07/04 08:37:32 revo Exp $">
+<kap>
+<ofc>2</ofc>
+<rad>diant</rad>/o
+</kap>
+<drv mrk="diant.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">BOT</uzo>
+  <snc>
+    <dif>
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:botanikaj_genroj">Genro</ref> el familio <ref
+      tip="malprt"
+      cel="kariof1.0oj">kariofilacoj</ref>
+      (<trd lng="la">Dianthus</trd>), kies pluraj kulturataj specioj
+      havas
+      belajn florojn kaj fortan iom pipran bonodoron.
+    </dif>
+  </snc>
+  <bld lok="../bld/diant.jpg">
+    <ind>plum<tld/>oj</ind>
+    <trd lng="la">Dianthus plumarius</trd>
+    <trd lng="ca">clavellet de Sant Isidre</trd>
+    <trdgrp lng="hu">
+      <trd>tollas <ind>szegf&udblac;</ind></trd>,
+      <trd>n&eacute;met <ind>szegf&udblac;</ind></trd>
+    </trdgrp>
+  </bld>
+  <trd lng="be">&c_g;&c_v;&c_a;&c_z;&c_mol;&c_d;&c_z;&c_ib;&c_k;</trd>
+  <trdgrp lng="ca">
+    <trd>clavell</trd>,
+    <trd>clavellet</trd>,
+    <trd>clavellina</trd>
+  </trdgrp>
+  <trd lng="de">Nelke</trd>
+  <trdgrp lng="en">
+    <trd>carnation</trd>,
+    <trd>pink</trd>
+  </trdgrp>
+  <trd lng="es">clavel</trd>
+  <trd lng="fr">&oelig;illet<klr tip="ind"> (plante)</klr></trd>
+  <trd lng="hu">szegf&udblac;</trd>
+  <trdgrp lng="nl">
+    <trd>anjelier</trd>,
+    <trd>anjer</trd>
+  </trdgrp>
+  <trd lng="pl">go&zacute;dzik</trd>
+  <trd lng="pt">cravo</trd>
+  <trd lng="ru">&c_g;&c_v;&c_o;&c_z;&c_d;&c_i;&c_k;&c_a;</trd>
+  <trd lng="sk">klinček</trd>
+  <trdgrp lng="cs">
+    <trd>hvozdík</trd>,
+    <trd>karafiát</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: diant.xml,v $
+Revision 1.21  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.19  2014/04/25 01:10:20  revo
+Agustin Garcia Lopez: +trd(es)
+
+Revision 1.18  2013/08/27 07:10:24  revo
+Wolfram Diestel: referenco al listo bot genroj
+
+Revision 1.17  2011/12/11 16:10:25  revo
+Marc Rausell: +trd ca
+
+Revision 1.16  2009/08/23 16:32:06  revo
+Russ Williams: +trd en
+
+Revision 1.15  2007/07/24 19:11:50  revo
+Tulio Flores: +tr pt
+
+Revision 1.14  2003/12/13 17:32:44  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.13  2002/03/26 17:31:20  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.12  2001/05/27 18:18:34  revo
+-->
+</vortaro>

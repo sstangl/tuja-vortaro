@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: enante.xml,v 1.13 2015/07/04 08:37:33 revo Exp $">
+<kap>
+  <rad>enantem</rad>/o
+</kap>
+<drv mrk="enante.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">MED</uzo>
+  <snc>
+    <dif>
+      Surmukmembrana erupcio.
+    </dif>
+    <ref tip="vid" cel="ekzant.0o">ekzantemo.</ref>
+    <ref tip="lst" cel="san.mal0o.MED" lst="voko:malsanoj">malsano</ref>
+  </snc>
+  <trd lng="be">&c_e;&c_n;&c_a;&c_n;&c_t;&c_e;&c_m;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>enantém</trd>,
+    <trd>vyrážka na sliznici</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Schleimhautausschlag</trd>,
+    <trd>Enanthem<klr> [fak]</klr></trd>
+  </trdgrp>
+  <trd lng="fr">&eacute;nanth&egrave;me</trd>
+  <trdgrp lng="hu">
+    <trd>ny&aacute;lkah&aacute;rtya-ki&uuml;t&eacute;s</trd>,
+    <trd>enanthema</trd>
+  </trdgrp>
+  <trd lng="pl">wysypka</trd>
+  <trd lng="pt">enantemo</trd>
+  <trd lng="ru">&c_e;&c_n;&c_a;&c_n;&c_t;&c_je;&c_m;&c_a;</trd>
+  <trd lng="sk">vyrážka na sliznici</trd>
+</drv>
+</art>
+<!--
+$Log: enante.xml,v $
+Revision 1.13  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.12  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.11  2013/10/09 19:10:38  revo
+Wolfram Diestel: ref al lst malsanoj
+
+Revision 1.10  2010/01/19 17:30:39  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.9  2007/06/28 16:31:45  revo
+Tulio Flores: +tr pt
+
+Revision 1.8  2003/12/17 17:31:13  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.7  2003/09/09 16:32:24  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.6  2003/08/26 16:31:21  revo
+Yury Finkel: +trd ru
+
+Revision 1.5 2002/06/15 17:31:16 revo
+Ulrich Fellmann: + 2 trd de
+
+Revision 1.4 2001/06/26 18:11:34 revo
+-->
+</vortaro>

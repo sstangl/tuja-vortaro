@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: ricin.xml,v 1.18 2015/07/04 08:37:42 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>ricin</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="ricin.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="ricin.0o.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:botanikaj_genroj">Genro</ref> el familio <ref
+      tip="malprt"
+      cel="euxfor1.0oj">e&ubreve;forbiacoj</ref>;
+      <ref tip="lst" cel="veget.0ajxo" 
+      lst="voko:malpigioparencoj">vegeta&jcirc;o</ref>,
+      el kies <ref cel="iksod.0o">iksodo</ref>similaj 
+      grajnoj oni ekstraktas laksigan oleon (<trd
+      lng="la">Ricinus</trd>):
+      <ekz>
+        &scirc;i disponis ankora&ubreve; tempon sufi&ccirc;an por okupi&gcirc;i pri la infanoj,
+        por vidi sur ilia okul-blanko, ke ili bezonas dozon da
+        <tld/>-oleo
+        <fnt><aut>G. Garc&iacute;a M&aacute;rquez, trad. F. de Diego</aut>, <vrk>Cent
+        Jaroj da Soleco</vrk>, <lok>Fonto, 1992</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>ricin</trd>,
+    <trd>skořec</trd>
+  </trdgrp>
+  <trd lng="de">Rizinus</trd>
+  <trd lng="en">castor-oil plant</trd>
+  <trd lng="fr">ricin</trd>
+  <trd lng="hu">ricinus</trd>
+  <trdgrp lng="nl">
+    <trd>ricinus</trd>,
+    <trd>wonderboom</trd>
+  </trdgrp>
+  <trd lng="pt">r&iacute;cino</trd>
+  <trd lng="ru">&c_k;&c_l;&c_je;&c_shch;&c_je;&c_v;&c_i;&c_n;&c_a;</trd>
+  <trd lng="sk">ricín</trd>
+</drv>
+</art>
+<!--
+$Log: ricin.xml,v $
+Revision 1.18  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.16  2013/11/01 18:10:14  revo
+Wolfram Diestel: ref al malpigioparencoj;
+
+Revision 1.15  2013/08/30 15:10:31  revo
+Wolfram Diestel: kor. lst-ref
+
+Revision 1.14  2013/08/26 15:10:30  revo
+Wolfram Diestel: referenco al listo bot genroj
+
+Revision 1.13  2007/04/14 16:30:44  revo
+Jeromo Vasxe: + ekz
+
+Revision 1.12 2006/02/21 17:31:58 revo
+Tulio Flores: +trd pt
+
+Revision 1.11 2002/05/13 16:33:25 revo
+Jozefo Horvath: +trd hu
+
+Revision 1.10 2002/01/28 17:31:36 revo
+Yury Finkel: +trd ru
+
+Revision 1.9 2001/07/28 19:04:50 revo
+-->
+</vortaro>

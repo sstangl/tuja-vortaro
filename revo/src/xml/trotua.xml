@@ -1,0 +1,139 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: trotua.xml,v 1.23 2015/07/04 08:37:45 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>trotuar</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="trotua.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="trotua.0o.TRA">
+    <uzo tip="fak">TRA</uzo>
+    <dif>
+      Irejo, ordinare tegita per &scirc;tonplatoj a&ubreve; asfalto,
+      rezervata por piedirantoj flanke de la surveturebla
+      parto de <ref tip="malprt" cel="strat.0o">strato</ref>:
+      <ekz>
+        nur piedirantoj rajtas preteriri sur la kontra&ubreve;a
+        <tld/>o
+        <fnt><aut>W. Klag</aut>, <vrk>Bariloj kontra&ubreve;
+        bomboj</vrk>, <bib>Monato</bib>, <lok>jaro 1999a, numero 3a, p.
+        7a</lok></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_t;&c_r;&c_a;&c_t;&c_u;&c_a;&c_r;</trd>
+    <trdgrp lng="de">
+      <trd>B&uuml;rgersteig</trd>,
+      <trd>Gehweg</trd>,
+      <trd>Trottoir</trd>
+    </trdgrp>
+    <trd lng="es">acera</trd>
+    <trdgrp lng="en">
+      <trd>pavement</trd>,
+      <trd>sidewalk</trd>
+    </trdgrp>
+    <trd lng="fr">trottoir</trd>
+    <trd lng="hu">j&aacute;rda</trd>    
+    <trdgrp lng="nl">
+      <trd>stoep</trd>,
+      <trd>trottoir</trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>trotuar<klr> (przest.)</klr></trd>,
+      <trd>chodnik</trd>
+    </trdgrp>
+    <trdgrp lng="pt">
+      <trd>passeio</trd>,
+      <trd>cal&ccedil;ada</trd>
+    </trdgrp>
+    <trd lng="ru">&c_t;&c_r;&c_o;&c_t;&c_u;&c_a;&c_r;</trd>
+    <trd lng="sv">trottoar</trd>
+  </snc>
+  <snc mrk="trotua.0o.FER">
+    <uzo tip="fak">FER</uzo>
+    <ref tip="dif" cel="kaj1.0o.FER">kajo <sncref/></ref>
+    <trd lng="be">&c_p;&c_e;&c_r;&c_o;&c_n;</trd>
+    <trd lng="fr">quai<klr> (de gare)</klr></trd>
+    <trd lng="hu">peron</trd>    
+    <trd lng="nl">perron</trd>
+    <trd lng="pl">peron</trd>
+    <trd lng="pt">plataforma</trd>
+    <trd lng="ru">&c_p;&c_je;&c_r;&c_r;&c_o;&c_n;</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>chodník</trd>,
+    <trd>trotoár</trd>
+  </trdgrp>
+  <trd lng="sk">chodník <klr>(na ulici)</klr></trd>
+</drv>
+
+<drv mrk="trotua.rul0o">
+  <kap>rul<tld/>o, <var><kap>mov<tld/>o</kap></var></kap>
+  <snc mrk="trotua.rul0o.TRA">
+    <uzo tip="fak">TRA</uzo>
+    <dif>
+      Ruli&gcirc;anta striego por portado de homoj,
+      eventuale de objektoj:
+      <ekz>
+        rul<tld/>ojn oni trovas precipe en flughavenoj a&ubreve; grandaj 
+        fervojaj a&ubreve; metroaj stacioj
+        <fnt>
+          <vrk><url ref="http://eo.wikipedia.org/wiki/Rultrotuaro">
+          Rultrotuaro</url></vrk>,
+          <bib>Viki</bib>,
+          <lok>2009-12-12</lok>
+        </fnt>.
+      </ekz>
+      <ekz>
+        kiam mi estis infano, simpluloj ne kredis, ke iam ekzistos 
+        mov<tld/>oj
+        <fnt><aut>B. Vaha</aut>, <vrk>Adolesko</vrk>, 
+        <lok>1987</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="es">
+    <trd>pasillo rodante</trd>,
+    <trd>camino rodante</trd>,
+    <trd>cinta desplazadora</trd>,
+    <trd>pasillo mec&aacute;nico</trd>,
+    <trd>cinta transportadora</trd>
+  </trdgrp>
+  <trd lng="fr">tapis roulant</trd>
+  <trd lng="pl">ruchomy <ind>chodnik</ind></trd>
+</drv>
+</art>
+<!--
+$Log: trotua.xml,v $
+Revision 1.23  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.22  2015/06/29 16:40:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.21  2014/09/16 09:10:30  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.20  2014/09/05 01:10:29  revo
+Carlos Garcia: +trd es -o rul-o
+
+Revision 1.19  2010/01/07 17:30:43  revo
+Jeromo Vasxe: + rul~o
+
+Revision 1.18  2009/02/05 15:26:06  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.17  2006/02/16 17:35:41  revo
+Tulio Flores: +trd pt
+
+Revision 1.16  2004/12/06 17:32:00  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.15  2003/10/01 16:32:58  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.14  2003/09/07 20:32:52  revo
+-->
+</vortaro>

@@ -1,0 +1,146 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: modest.xml,v 1.19 2015/07/04 08:37:39 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>modest</rad>/a <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="modest.0a">
+  <kap><ofc>*</ofc><tld/>a</kap>
+  <snc mrk="modest.0a.KOMUNE">
+    <dif>
+      Mal<ref tip="ant" cel="impon.0a">impona</ref>.
+    </dif>
+    <subsnc mrk="modest.0a.konduto">
+      <uzo tip="klr">(iu)</uzo>
+      <dif>
+        Ka&scirc;anta a&ubreve; ne alte taksanta siajn meritojn; montranta nenian
+        pretendemon pri siaj meritoj:
+        <ekz>
+          <tld/>a homo;
+        </ekz><ekz>
+          <tld/>a tono.
+        </ekz>
+      </dif>
+      <trd lng="en">unassuming</trd>
+      <trd lng="hu">szer&eacute;ny</trd>        
+      <ref tip="vid" cel="humil.0a">humila</ref>
+    </subsnc>
+    <subsnc mrk="modest.0a.valoro">
+      <uzo tip="klr">(io)</uzo>
+      <dif>
+        Prezentanta nealtan meriton,
+        <ref tip="vid" cel="luks">senluksa</ref>,
+        <ref tip="vid" cel="pomp">senpompa</ref>,
+        <ref tip="vid" cel="simpl.0a.senornama">simpla</ref>,
+        <ref tip="vid" cel="bril.0a">senbrila</ref>:
+        <ekz>
+          <tld/>a domo<fnt>Z</fnt>,
+        </ekz>
+        <ekz>
+          pre&gcirc;ejo, vivo;
+        </ekz>
+        <ekz>
+          <tld/>a situacio, rango;
+        </ekz>
+        <ekz>
+          <tld/>aj elspezoj;
+        </ekz>
+        <ekz>
+          <tld/>a prezo, salajro, postulo, plano;
+        </ekz>
+        <ekz>
+          rangeto rangon respektu kaj <tld/>an lokon
+          elektu<fnt>Z</fnt>;
+        </ekz>
+        <ekz>
+          <tld/>a estas nia kunveno<fnt>Z</fnt>.
+        </ekz>
+      </dif>
+      <trd lng="en">moderate</trd>
+      <trdgrp lng="hu">
+        <trd>ig&eacute;nytelen</trd>,
+        <trd>egyszer&udblac;</trd>
+      </trdgrp>
+    </subsnc>
+  </snc>
+  <trd lng="be">&c_s;&c_mol;&c_c;&c_ib;&c_p;&c_l;&c_y;</trd>
+  <trdgrp lng="cs">
+    <trd>nepatrný</trd>,
+    <trd>skromný</trd>
+  </trdgrp>
+  <trd lng="de">bescheiden</trd>
+  <trd lng="en">modest</trd>
+  <trd lng="es">modesto, -a</trd>
+  <trd lng="fr">modeste</trd>
+  <trd lng="nl">bescheiden</trd>
+  <trd lng="pt">modesto</trd>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_k;&c_r;&c_o;&c_m;&c_n;&c_y;&c_j;</trd>,
+    <trd>&c_n;&c_je;&c_p;&c_r;&c_i;&c_t;&c_ja;&c_z;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trd lng="sk">skromný</trd>
+</drv>
+
+<drv mrk="modest.mal0a">
+  <kap>mal<tld/>a</kap>
+  <snc mrk="modest.mal0a.PSI">
+    <dif>
+      Fiere montranta siajn kvalitojn,
+      <ref tip="vid" cel="glor.0a">glorama</ref>,
+      <ref tip="vid" cel="vant.0a.iu">vanta</ref>:
+      <ekz>
+        &scirc;i estis bela virino, sed fiera kaj mal<tld/>a
+        <fnt><bib>ElektFab</bib>, <lok>Ne&gcirc;ulino</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>chamtivý</trd>,
+    <trd>neskromný</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>immodeste</trd>,
+    <trd>orgueilleux</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>neskromný</trd>,
+    <trd>náročný</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: modest.xml,v $
+Revision 1.19  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2014/02/08 15:10:36  revo
+Damien Brucker: -eraro cxe ref
+
+Revision 1.16  2013/06/24 13:10:09  revo
+Jeromo Vasxe: + mal~a
+
+Revision 1.15  2010/11/23 17:30:17  revo
+Jeromo Vasxe: + klr iu/io, snc/subsnc + trd fr
+
+Revision 1.14  2010/04/16 16:31:09  revo
+Russ Williams: +trd en
+
+Revision 1.13  2006/08/07 16:32:10  revo
+Tulio Flores: +tr pt
+
+Revision 1.12  2006/07/29 16:32:17  revo
+Eduardo Navas: +trd es
+
+Revision 1.11  2005/02/24 17:33:43  revo
+Dennis Wibrow: + trd de
+
+Revision 1.10  2004/06/17 16:31:05  revo
+-->
+</vortaro>

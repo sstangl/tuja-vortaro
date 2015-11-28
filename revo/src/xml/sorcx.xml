@@ -1,0 +1,291 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: sorcx.xml,v 1.23 2015/06/05 15:10:16 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>sor&ccirc;</rad>/i
+</kap>
+<drv mrk="sorcx.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="sorcx.0i.MAG">
+    <dif>
+      Estigi, per helpo de diabloj, supernaturajn, 
+      ordinare malicajn efikojn.
+    </dif>
+    <subsnc>
+      <ref tip="dif" cel="sorcx.trans0i.MAG">transsor&ccirc;i</ref>
+      <ekz>
+        lian sinjoron oni <tld/>is rano
+        <klr>(&scirc;an&gcirc;is al rano)</klr>
+        <fnt><bib>ElektFab</bib>, <lok>re&gcirc;o rano a&ubreve; fera
+        Henriko</lok></fnt>.
+      </ekz>
+    </subsnc>
+    <trdgrp lng="be">
+      <trd>&c_ch;&c_a;&c_r;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
+      <trd>&c_v;&c_ja;&c_d;&c_z;&c_mol;&c_m;&c_a;&c_r;&c_y;&c_c;&c_mol;</trd>
+    </trdgrp>
+    <trd lng="bg">&c_o;&c_m;&c_a;&c_g;&c_mol;&c_o;&c_s;&c_v;&c_a;&c_m;</trd>
+    <trdgrp lng="de">
+      <trd>zaubern</trd>,
+      <trd>hexen</trd>,
+      <trd>verhexen</trd>
+    </trdgrp>
+    <trdgrp lng="es">
+      <trd>embrujar</trd>,
+      <trd>hechizar</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>var&aacute;zsol</trd>,
+      <trd>elvar&aacute;zsol</trd>
+    </trdgrp>
+    <trd lng="nl">toveren</trd>
+    <trdgrp lng="ru">
+      <trd>&c_k;&c_o;&c_l;&c_d;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>,
+      <trd>&c_o;&c_k;&c_o;&c_l;&c_d;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>,
+      <trd>&c_z;&c_a;&c_k;&c_o;&c_l;&c_d;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="sorcx.0i.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      &Ccirc;armegi, pasie logi:
+      <ekz>
+        ili estas <tld/>itaj de tiu ideo;
+      </ekz>
+      <ekz>
+        niaj sa&gcirc;uloj <klr>...</klr> lasis sin <tld/>i per lia
+        elokventeco
+        <fnt><bib>Far2</bib>, <lok>&ccirc;apitro 15a</lok></fnt>;
+      </ekz>
+      <ekz>
+        ni ne povis disi&gcirc;i de tiu <ind><tld/>anta</ind> vida&jcirc;o;
+        <trd lng="be">&c_ch;&c_a;&c_r;&c_o;&c_w;&c_n;&c_y;</trd>
+        <trd lng="ru">&c_ch;&c_a;&c_r;&c_u;&c_ju;&c_shch;&c_i;&c_j;</trd>
+      </ekz>
+      <ekz>
+        dol&ccirc;a, en<tld/>anta vo&ccirc;o
+        <fnt><bib>Fab2</bib>, <lok>la najtingalo</lok></fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_z;&c_a;&c_ch;&c_a;&c_r;&c_o;&c_w;&c_v;&c_a;&c_c;&c_mol;</trd>,
+      <trd>&c_z;&c_a;&c_ch;&c_a;&c_r;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
+      <trd>&c_p;&c_r;&c_y;&c_ch;&c_a;&c_r;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+    </trdgrp>
+    <trd lng="bg">&c_o;&c_ch;&c_a;&c_r;&c_o;&c_v;&c_a;&c_m;</trd>
+    <trd lng="de">bezaubern</trd>
+    <trdgrp lng="es">
+      <trd>hechizar<klr> (seducir)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>elb&udblac;v&ouml;l</trd>,
+      <trd>elb&aacute;jol</trd>,
+      <trd>megbabon&aacute;z</trd>
+    </trdgrp>
+    <trd lng="nl">betoveren</trd>
+    <trdgrp lng="ru">
+      <trd>&c_o;&c_ch;&c_a;&c_r;&c_o;&c_v;&c_y;&c_v;&c_a;&c_t;&c_mol;</trd>,
+      <trd>&c_o;&c_ch;&c_a;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="en">bewitch</trd>
+  <trdgrp lng="fr">
+    <trd>ensorceler</trd>,
+    <trd>jeter un <ind>sort</ind></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="sorcx.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="sorcx.0a.MAG">
+    <dif>
+      Plenumata per <tld/>o, havanta <ref tip="super"
+      cel="magi.0a.MAG">magian</ref> efikon de <tld/>o:
+      <ekz>
+        ili flugas, flugas, flugas kun nekredebla rapideco en ia <tld/>a
+        kale&scirc;o al la rando de la mondo
+        <fnt><bib>FK</bib>, <lok>4, rakontoj, Arturo, (rakonto de V.
+        Devjatnin), 2</lok></fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>verzauberter</trd>
+    </trdgrp>
+    <trd lng="hu">var&aacute;zs-</trd>
+    <trd lng="nl">toverachtig</trd>
+    <trdgrp lng="ru">
+      <trd>&c_k;&c_o;&c_l;&c_d;&c_o;&c_v;&c_s;&c_k;&c_o;&c_j;</trd>,
+      <trd>&c_v;&c_o;&c_l;&c_sh;&c_je;&c_b;&c_n;&c_y;&c_j;</trd>,
+      <trd>&c_m;&c_a;&c_g;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="sorcx.0a.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Mirinda:
+      <ekz>
+        <tld/>aj sukcesoj;
+      </ekz>
+      <ekz>
+        la <tld/>a lando de viaj infanaj son&gcirc;oj
+        <fnt><bib>Voja&gcirc;Imp</bib>, <lok>el Odeso &gcirc;is
+        Konstantinopolo</lok></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">zauberhaft</trd>
+    <trdgrp lng="hu">
+      <trd>var&aacute;zslatos</trd>,
+      <trd>b&udblac;b&aacute;jos</trd>
+    </trdgrp>
+    <trd lng="nl">betoverend</trd>
+    <trdgrp lng="ru">
+      <trd>&c_v;&c_o;&c_l;&c_sh;&c_je;&c_b;&c_n;&c_y;&c_j;</trd>,
+      <trd>&c_ch;&c_a;&c_r;&c_u;&c_ju;&c_shch;&c_i;&c_j;</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="be">&c_ch;&c_a;&c_r;&c_o;&c_w;&c_n;&c_y;</trd>
+  <trdgrp lng="fr">
+    <trd>ensorcelant</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="sorcx.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="sorcx.0o.MAG">
+    <dif>
+      Fakto kaj efiko de tio, ke oni <tld/>is:
+      <ekz>
+        kiam la kruela <tld/>o estis forigita, nenio mankis en ilia
+        feli&ccirc;o
+        <fnt><bib>ElektFab</bib>, <lok>la ora birdo</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="bg">&c_m;&c_a;&c_g;&c_i;&c_ja;</trd>
+  <trdgrp lng="de">
+    <trd>Zauber</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>ensorcellement</trd>,
+    <trd>sort<klr tip="amb"> (ensorcellement)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_k;&c_o;&c_l;&c_d;&c_o;&c_v;&c_s;&c_t;&c_v;&c_o;</trd>,
+    <trd>&c_v;&c_o;&c_l;&c_sh;&c_je;&c_b;&c_s;&c_t;&c_v;&c_o;</trd>,
+    <trd>&c_ch;&c_a;&c_r;&c_y;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="sorcx.0isto">
+  <kap><tld/>isto</kap>
+  <snc mrk="sorcx.0isto.MAG">
+    <dif>
+      <ref tip="super" cel="magi.0isto.MAG">Magiisto</ref>, kiu agas per
+      <tld/>oj:
+      <ekz>
+        la <tld/>istinoj <klr>...</klr> ne povas vidi malproksimen, sed
+        ili havas senteman flaradon
+        <fnt><bib>ElektFab</bib>, <lok>Ha&ccirc;jo kaj Grenjo</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="de">Zauberer</trd>
+  <trd lng="fr">sorcier</trd>
+  <trdgrp lng="ru">
+    <trd>&c_k;&c_o;&c_l;&c_d;&c_u;&c_n;</trd>,
+    <trd>&c_ch;&c_a;&c_r;&c_o;&c_d;&c_je;&c_j;</trd>,
+    <trd>&c_v;&c_o;&c_l;&c_sh;&c_je;&c_b;&c_n;&c_i;&c_k;</trd>
+  </trdgrp>
+  <ekz>
+        <ind><tld/>istino</ind>;
+        <trd lng="de">Hexe</trd>           
+      </ekz>  
+  <ekz>
+        <ind><tld/>ado</ind>;
+         <trdgrp lng="de">
+      <trd>Hexenwerk</trd>,
+      <trd>Zauberei</trd>
+    </trdgrp>           
+      </ekz>  
+</drv>
+
+<drv mrk="sorcx.en0i">
+  <kap>en<tld/>i</kap>
+  <snc mrk="sorcx.en0i.MAG">
+    <dif>
+      Logi kaj teni sub la efikon de <tld/>o:
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        profundo kaj mallumo de la varma nokto en<tld/>adis lin &ccirc;iam pli
+        <fnt><bib>Metrop</bib></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">verzaubern</trd>
+    <trd lng="fr">ensorceler</trd>
+    <trdgrp lng="ru">
+      <trd>&c_o;&c_k;&c_o;&c_l;&c_d;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>,
+      <trd>&c_z;&c_a;&c_v;&c_o;&c_r;&c_o;&c_zh;&c_i;&c_t;&c_mol;</trd>
+    </trdgrp>
+  </snc>
+</drv>
+
+<drv mrk="sorcx.trans0i">
+  <kap>trans<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="sorcx.trans0i.MAG">
+    <dif>
+      Transformi per <tld/>o.
+    </dif>
+  </snc>
+  <trd lng="de">verzaubern</trd>
+  <trd lng="fr">changer<klr tip="amb"> (par magie)</klr></trd>
+  <trd lng="hu">elvar&aacute;zsol <klr tip="ind">(vmiv&eacute;)</klr></trd>
+  <trd lng="nl">omtoveren</trd>
+  <trd lng="ru">&c_p;&c_r;&c_je;&c_v;&c_r;&c_a;&c_t;&c_i;&c_t;&c_mol;<klr tip="amb"> (&c_s; &c_p;&c_o;&c_m;&c_o;&c_shch;&c_mol;&c_ju;
+  &c_k;&c_o;&c_l;&c_d;&c_o;&c_v;&c_s;&c_t;&c_v;&c_a;)</klr></trd>
+</drv>
+
+<drv mrk="sorcx.0istabastono">
+  <kap><tld/>ista bastono</kap>
+  <snc mrk="sorcx.0istabastono.MAG">
+    <dif>
+      Bastono per kio <tld/>isto povas <tld/>i.
+    </dif>
+  </snc>
+  <trd lng="bg">&c_m;&c_a;&c_g;&c_i;&c_ja; &c_p;&c_r;&c_malmol;&c_t;</trd>
+  <trd lng="de">Zauberstab</trd>
+  <trd lng="en">wand</trd>
+  <trd lng="nl">toverstaf</trd>
+</drv>
+
+</art>
+<!--
+$Log: sorcx.xml,v $
+Revision 1.23  2015/06/05 15:10:16  revo
+Joop Eggen: +trd bg
+
+Revision 1.22  2015/04/19 20:10:25  revo
+Peter Hauser: + germ. trad. -ado
+
+Revision 1.21  2015/04/19 11:10:16  revo
+Peter Hauser: + korekti germanan trad.
+
+Revision 1.20  2006/02/06 17:31:14  revo
+Wieland Pusch: +trd de
+
+Revision 1.19  2006/01/08 17:31:36  revo
+Wieland Pusch: +drv bastono
+
+Revision 1.18  2006/01/07 17:32:06  revo
+Wieland Pusch: +trd de
+
+Revision 1.17  2005/08/25 16:32:51  revo
+Yury Finkel: +trd ru
+
+Revision 1.16  2005/08/20 16:31:21  revo
+-->
+</vortaro>

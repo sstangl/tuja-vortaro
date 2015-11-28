@@ -1,0 +1,184 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: medol.xml,v 1.25 2015/09/15 18:10:15 revo Exp $">
+<kap>
+  <ofc>4</ofc>
+  <rad>medol</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="medol.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="medol.0o.ANA">
+    <uzo tip="fak">ANA</uzo>
+    <dif>
+      Mola kaj grasa substanco en interno de ostoj,
+      <ref tip="vid" cel="cerb.osto0o">ostocerbo</ref>:
+      <ekz>
+        <uzo tip="stl">FRAZ</uzo>
+        sed li certe iam veki&gcirc;os, &ccirc;ar la Dano Holger havas 
+        <tld/>on en la ostoj
+        <fnt><bib>Fab2</bib>, <lok>Dano Holger</lok></fnt>
+        <klr>(estas energia kaj kura&gcirc;a)</klr>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        tiri la <tld/>on <klr>(kernan esencon, plejgrava&jcirc;on)</klr>
+        de iu teorio, verko.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="kern.0o">kerno</ref>,
+      <ref cel="suk.0o">suko</ref>.
+    </refgrp>
+    <trdgrp lng="en">
+      <trd>marrow</trd>,
+      <trd>medulla</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>ve&odblac;</trd>,
+      <trd>veleje vminek</trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+    <trd>szpik</trd>,
+    <trd>rdze&nacute;</trd>
+    </trdgrp>
+    <trd lng="ru">&c_k;&c_o;&c_s;&c_t;&c_n;&c_y;&c_j; &c_m;&c_o;&c_z;&c_g;</trd>
+  </snc>
+  <snc mrk="medol.0o.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      Mola spongeca malpeza substanco en la interno de trunko kaj
+      bran&ccirc;oj de la dukotiledonaj vegeta&jcirc;oj:
+      <ekz>
+        sambuka <tld/>o.
+      </ekz>
+    </dif>
+    <trd lng="en">pith</trd>
+    <trd lng="hu">b&eacute;l<klr tip="amb"> (n&ouml;v&eacute;nyi sz&aacute;rban)</klr></trd>
+    <trd lng="ru">&c_s;&c_je;&c_r;&c_d;&c_c;&c_je;&c_v;&c_i;&c_n;&c_a;</trd>
+  </snc>
+  <trd lng="bg">&c_k;&c_o;&c_s;&c_t;&c_je;&c_n; <ind>&c_m;&c_o;&c_z;&c_malmol;&c_k;</ind></trd>
+  <trd lng="br">mel<klr tip="ind">(-askorn,...)</klr></trd>
+  <trd lng="ca">medul&middot;la</trd>
+  <trdgrp lng="cs">
+    <trd>d&rcaron;e&ncaron;</trd>,
+    <trd>medula</trd>,
+    <trd>morek kosti</trd>
+  </trdgrp>
+  <trd lng="de">Mark</trd>
+  <trdgrp lng="es">
+    <trd>m&eacute;dula &oacute;sea</trd>,
+    <trd>tu&eacute;tano</trd>
+  </trdgrp>
+  <trd lng="fr">moelle</trd>
+  <trd lng="it">midollo</trd>
+  <trd lng="nl">merg</trd>
+  <trdgrp lng="sk">
+    <trd>dre&ncaron;</trd>,
+    <trd>miecha</trd>,
+    <trd>&scaron;pik</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="medol.gxis0a">
+  <kap>&gcirc;is<tld/>a</kap>
+  <snc mrk="medol.gxis0a.FIG">
+    <uzo tip="stl">FRAZ</uzo>
+    <ref tip="dif" cel="ost.gxis0a.FIG">&gcirc;isosta</ref>
+      <ekz>
+        &gcirc;is<tld/>a malfido
+        <fnt>
+          <aut>D. Kessous</aut>,
+          <vrk><url
+          ref="http://www.satesperanto.org/Rauxmismo-kaj-novliberalismo.html">
+          Ra&ubreve;mismo kaj novliberalismo</url></vrk>,
+          <lok>SAT Kulturo, [vidita en 2014]</lok>
+        </fnt>.
+      </ekz>
+    <trdgrp lng="ca">
+      <trd>ferm</trd>,
+      <trd>obstinat</trd>,
+      <trd>ac&egrave;rrim</trd>
+    </trdgrp>
+    <trd lng="en">to the bone</trd>
+    <trdgrp lng="es">
+      <trd>idea fija</trd>,
+      <trd>radical <klr tip="amb"> (frase hecha)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>jusqu'au-boutiste<klr> (adj.)</klr></trd>,
+      <trd>radical</trd>
+      <trd>visc&eacute;ral</trd>
+    </trdgrp>
+    <trdgrp lng="it">
+      <trd>irriducibile</trd>, 
+      <trd>fino al <ind>midollo</ind><klr> (inveterato)</klr></trd>,
+      <trd>convinto<klr> (irriducibile)</klr></trd>,
+      <trd>inveterato<klr> (ostinato sino in fondo)</klr></trd>,
+      <trd>acerrimo</trd>,
+      <trd>incallito</trd>,
+      <trd>viscerale<klr> (fig.)</klr></trd>,
+    </trdgrp>
+    <trdgrp lng="nl">
+      <trd>overtuigd</trd>,
+      <trd>radicaal</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_u;&c_b;&c_je;&c_zh;&c_d;&c_jo;&c_n;&c_n;&c_y;&c_j; &c_d;&c_o; &c_m;&c_o;&c_z;&c_g;&c_a; &c_k;&c_o;&c_s;&c_t;&c_je;&c_j;</trd>
+    </trdgrp>
+  </snc>
+</drv>
+
+<drv mrk="medol.spina0o">
+  <kap>spina <tld/>o</kap>
+  <uzo tip="fak">ANA</uzo>
+  <snc mrk="medol.spina0o.ANA">
+    <ref tip="dif" cel="mjel.0o.ANA">mjelo</ref>
+  </snc>
+  <trd lng="bg">&c_g;&c_r;&c_malmol;&c_b;&c_n;&c_a;&c_ch;&c_n;&c_i;&c_ja; <ind>&c_m;&c_o;&c_z;&c_malmol;&c_k;</ind></trd>
+  <trd lng="br">mel gwalenn-gein</trd>
+  <trd lng="ca">medul&middot;la espinal</trd>
+  <trdgrp lng="cs">
+    <trd>m&iacute;cha</trd>,
+    <trd>p&aacute;te&rcaron;n&iacute; d&rcaron;e&ncaron;</trd>
+  </trdgrp>
+  <trd lng="en">spinal chord</trd>
+  <trd lng="fr">moelle &eacute;pini&egrave;re</trd>
+  <trd lng="hu">gerincvel&odblac;</trd>
+  <trd lng="nl">ruggenmerg</trd>
+  <trd lng="pl">szpik kostny</trd>
+  <trdgrp lng="pt">
+    <trd>medula</trd>,
+    <trd>miolo</trd>,
+    <trd>tutano</trd>
+  </trdgrp>
+  <trd lng="sk">miecha</trd>
+</drv>
+</art>
+<!--
+$Log: medol.xml,v $
+Revision 1.25  2015/09/15 18:10:15  revo
+Sergio Pokrovskij: +fnt-ekz
+
+Revision 1.24  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.23  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.22  2014/12/23 17:10:14  revo
+Jeromo Vasxe: + gxis~a, memstar. spina ~o
+
+Revision 1.21  2013/08/26 07:10:10  revo
+Agustin Garcia Lopez: +trd(es)
+
+Revision 1.20  2013/08/16 12:10:10  revo
+Joop Eggen: +trd bg
+
+Revision 1.19  2013/04/09 11:10:51  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.18  2012/08/19 18:10:32  revo
+-->
+</vortaro>

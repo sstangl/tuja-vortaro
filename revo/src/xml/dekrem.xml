@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: dekrem.xml,v 1.12 2015/07/04 08:37:32 revo Exp $">
+<kap>
+  <rad>dekrement</rad>/o
+</kap>
+
+<drv mrk="dekrem.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">FIZ</uzo>
+  <snc>
+    <dif>
+      Nombro, kiu karakterizas la amortizon de osciloj.
+    </dif>
+    <adm>
+      La franca konas alian sencon, kiu eble ekzistas anka&ubreve; en
+      Esperanto, nome : malgrandi&gcirc;o de variablo. <aut>MB</aut>
+    </adm>
+  </snc>
+  <trd lng="ca">decrement</trd>
+  <trdgrp lng="cs">
+    <trd>dekrement</trd>,
+    <trd>snížení</trd>,
+    <trd>ztráta</trd>,
+    <trd>úbytek</trd>
+  </trdgrp>
+  <trd lng="de">Dekrement</trd>
+  <trd lng="es">decremento</trd>
+  <trd lng="fr">d&eacute;cr&eacute;ment</trd>
+  <trd lng="hu">dekrementum</trd>
+  <trdgrp lng="pt">
+    <trd>decremento</trd>,
+    <trd>decrescimento</trd>
+  </trdgrp>
+  <trd lng="ru">&c_d;&c_je;&c_k;&c_r;&c_je;&c_m;&c_je;&c_n;&c_t; &c_z;&c_a;&c_t;&c_u;&c_h;&c_a;&c_n;&c_i;&c_ja;</trd>
+  <trdgrp lng="sk">
+    <trd>dekrement</trd>,
+    <trd>strata</trd>,
+    <trd>úbytok</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="dekrem.logaritma0o">
+  <kap>logaritma <tld/>o</kap>
+  <uzo tip="fak">FIZ</uzo>
+  <snc>
+    <dif>
+      Logaritmo de la rilato de la amplitudo de unu oscilo al la
+      sekvanta
+      oscilo.
+    </dif>
+  </snc>
+  <trd lng="ca"><ind>decrement</ind> logar&iacute;tmic</trd>
+  <trd lng="de">logarithmisches <ind>Dekrement</ind></trd>
+  <trd lng="es"><ind>decremento</ind> logar&iacute;tmico</trd>
+  <trd lng="fr">d&eacute;cr&eacute;ment logarithmique</trd>
+  <trd lng="hu">logaritmikus <ind>dekrementum</ind></trd>
+  <trd lng="ru">&c_l;&c_o;&c_g;&c_a;&c_r;&c_i;&c_f;&c_m;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j; <ind>&c_d;&c_je;&c_k;&c_r;&c_je;&c_m;&c_je;&c_n;&c_t;</ind> &c_z;&c_a;&c_t;&c_u;&c_h;&c_a;&c_n;&c_i;&c_ja;</trd>
+</drv>
+</art>
+<!--
+$Log: dekrem.xml,v $
+Revision 1.12  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.11  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.10  2012/09/04 09:10:21  revo
+Marc Rausell: + trd ca
+
+Revision 1.9  2007/07/19 16:31:23  revo
+Tulio Flores: +tr pt
+
+Revision 1.8  2007/06/19 16:31:29  revo
+Wieland Pusch: +trd de
+
+Revision 1.7  2003/04/11 16:32:13  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.6  2002/05/21 16:37:51  revo
+Alejandro Mejia Greene: ald 2 his trd
+
+Revision 1.5  2002/03/14 17:33:38  revo
+Yury Finkel: +trd ru
+
+Revision 1.4 2001/04/23 17:04:11 revo
+Marc Bavant: +trd fr; -uzo ELE, +uzo FIZ; +adm
+
+-->
+</vortaro>

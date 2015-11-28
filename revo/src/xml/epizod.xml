@@ -1,0 +1,135 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: epizod.xml,v 1.17 2015/07/04 08:37:33 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>epizod</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="epizod.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="epizod.0o.BELE">
+    <uzo tip="fak">BELE</uzo>
+    <dif>
+      Akcesora agado, ne stre&ccirc;e ligita kun la &ccirc;efa temo de
+      rakonto:
+      <ekz>
+        la ses lastaj libroj de Eneido estas plenaj je <tld/>oj.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>Nebenhandlung</trd>,
+      <trd>Zwischenhandlung</trd>
+    </trdgrp>
+    <trd lng="pl">epizod</trd>
+  </snc>
+  <snc mrk="epizod.0o.KOMUNE">
+    <dif>
+      Aparta kurioza fakto en historia a&ubreve; grava okazinta&jcirc;o:
+      <ekz>
+        <tld/>oj de kongreso;
+      </ekz>
+      <ekz>
+        kortu&scirc;a <tld/>o de la Revolucio.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="incide.0o">incidento</ref>
+    </refgrp>
+    <trdgrp lng="de">
+      <trd>Zwischenfall</trd>,
+      <trd>Episode</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>event</trd>,
+      <trd>occurrence</trd>
+    </trdgrp>
+    <trd lng="pl">anegdota</trd>
+  </snc>
+  <trd lng="be">&c_e;&c_p;&c_ib;&c_z;&c_o;&c_d;</trd>
+  <trd lng="cs">epizoda</trd>
+  <trd lng="en">episode</trd>
+  <trd lng="fr">&eacute;pisode</trd>
+  <trd lng="hu">epiz&oacute;d</trd>
+  <trd lng="pt">epis&oacute;dio</trd>
+  <trd lng="ru">&c_e;&c_p;&c_i;&c_z;&c_o;&c_d;</trd>
+  <trdgrp lng="sk">
+    <trd>príbeh</trd>,
+    <trd>príhoda</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="epizod.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="epizod.0a.BELE">
+    <uzo tip="fak">BELE</uzo>
+    <dif>
+      Mal&ccirc;efa, akcesora: 
+      <ekz>
+        <ind><tld/>a rolo</ind>, tasko, okaza&jcirc;o.
+        <trd lng="hu">epiz&odblac;dszerep</trd>
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>epizodický</trd>,
+    <trd>epizodní</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>fl&uuml;chtig</trd>,
+    <trd>eingeschaltet</trd>,
+    <trd>nebenher</trd>,
+    <trd>episodisch</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>episodal</trd>,
+    <trd>incidental</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>accessoire<klr tip="ind"> (anecdotique)</klr></trd>,
+    <trd>anecdotique</trd>,
+    <trd>&eacute;pisodique<klr tip="ind">
+    (accessoire)</klr></trd></trdgrp>
+  <trdgrp lng="hu">
+    <trd>epiz&oacute;d-</trd>,
+    <trd>epizodikus</trd>,
+    <trd>mell&eacute;kes</trd>
+  </trdgrp>
+  <trd lng="pl">epizodyczny</trd>
+  <trd lng="ru">&c_e;&c_p;&c_i;&c_z;&c_o;&c_d;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j;</trd>
+  <trd lng="sk">epizódny</trd>
+</drv>
+</art>
+<!--
+$Log: epizod.xml,v $
+Revision 1.17  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.15  2011/04/21 12:10:09  revo
+Jeromo Vasxe: - num + mrk
+
+Revision 1.14  2010/02/09 17:30:28  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.13  2009/06/01 16:31:12  revo
+Russ Williams: +trd en
+
+Revision 1.12  2007/06/28 16:33:09  revo
+Tulio Flores: +tr pt
+
+Revision 1.11  2003/06/11 17:07:05  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.10  2002/08/22 17:31:31  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.9  2002/08/21 17:31:55  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.8  2002/06/22 13:00:47  revo
+-->
+</vortaro>

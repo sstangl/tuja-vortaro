@@ -1,0 +1,314 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: lup.xml,v 1.40 2015/07/04 08:37:38 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>lup</rad>/o
+</kap>
+
+<drv mrk="lup.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="lup.0o.ZOO">
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      <ref tip="lst" cel="speci.0o.BIO"  
+      lst="voko:zoologiaj_specioj">Specio</ref> 
+      de <ref tip="super" cel="hund.0o">hundo</ref> 
+      (<trd lng="la">Canis lupus</trd>), 
+      <ref tip="lst" cel="best.rabo0o"
+      lst="voko:rabobestoj">rabobesto</ref>
+      vivanta en la norda duonsfero kaj konsiderata kiel praulo de la 
+      <ref tip="vid" cel="hund.dom0o">domhundo</ref>:
+      <ekz>
+        <tld/>o <tld/>on ne man&gcirc;as
+        <fnt><bib>PrV</bib></fnt>;
+      </ekz>
+      <ekz>
+        oni lin konas kiel blankan <tld/>on<fnt>Z</fnt>
+        <klr>(li estas konata de &ccirc;iuj)</klr>;
+      </ekz>
+      <ekz>
+        ne veku la <tld/>on;
+      </ekz>
+      <ekz>
+        ne elvoku <tld/>on el la arbaro
+        <klr>(ne ekscitu denove trankvili&gcirc;intan pasion)</klr>
+        <fnt><bib>PrV</bib></fnt>;
+      </ekz>
+      <ekz>
+        <tld/>e <klr>(ege)</klr> malsati.
+      </ekz>
+    </dif>
+    <trd lng="nl">wolf</trd>
+    <trd lng="pl">wilk</trd>
+  </snc>
+  <trd lng="cs">vlk</trd>
+  <trd lng="sk">vlk</trd>
+</drv>
+<drv mrk="lup.L0o">
+  <kap><tld lit="L"/>o</kap>
+  <snc mrk="lup.L0o.AST">
+    <uzo tip="fak">AST</uzo>
+    <dif>
+      Sud-hemisfera <ref tip="lst" cel="stel.0figuro"
+      lst="voko:stelfiguroj">stelfiguro</ref>
+       (<trd lng="la">Lupus</trd>).
+    </dif>
+    <trd lng="nl">Wolf<klr tip="ind"> (sterrenbeeld)</klr></trd>
+    <trd lng="pl">Wilk</trd>
+  </snc>
+  <trd lng="be">&c_v;&c_o;&c_w;&c_k;</trd>
+  <trd lng="bg">&c_v;&c_malmol;&c_l;&c_k;</trd>
+  <trd lng="br">bleiz</trd>
+  <trd lng="ca">llop</trd>
+  <trd lng="cs">vlk</trd>
+  <trd lng="de">Wolf</trd>
+  <trd lng="el">&lambda;&ypsilon_ton;&kappa;&omikron;&sigma_fina;</trd>
+  <trd lng="en">wolf</trd>
+  <trd lng="es">lobo</trd>
+  <trd lng="fr">loup</trd>
+  <trd lng="hu">farkas</trd>
+  <trd lng="id">serigala</trd>
+  <trd lng="it">lupo</trd>
+  <trd lng="pt">lobo</trd>
+  <trd lng="ru">&c_v;&c_o;&c_l;&c_k;</trd>
+  <trd lng="sk">vlk</trd>
+  <trd lng="sv">varg</trd>
+  <trd lng="tr">kurt</trd>
+</drv>
+
+<drv mrk="lup.vir0o">
+  <kap>
+    vir<tld/>o
+  </kap>
+  <uzo tip="fak">ZOO</uzo>
+  <snc mrk="lup.vir0o.ZOO">
+    <dif>
+      Virseksa <ref cel="lup.0o" tip="super"><tld/>o</ref>.
+    </dif>
+  </snc>
+  <trd lng="de">R&uuml;de<klr tip="ind"> (Wolf)</klr></trd>
+  <trdgrp lng="pl">
+    <trd>wilk</trd>,
+    <trd>basior <klr>(samiec dominuj&aogonek;cy w stadzie)</klr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="lup.0ino">
+  <kap>
+    <tld/>ino
+  </kap>
+  <uzo tip="fak">ZOO</uzo>
+  <snc mrk="lup.0ino.ZOO">
+    <dif>
+      Inseksa <ref cel="lup.0o" tip="super"><tld/>o</ref>.
+    </dif>
+    <trd lng="ca">lloba</trd>
+    <trd lng="de">W&ouml;lfin</trd>
+    <trd lng="en">she-wolf</trd>
+    <trd lng="es">loba</trd>
+    <trd lng="it">lupa</trd>
+    <trdgrp lng="pl">
+      <trd>wilczyca</trd>,
+      <trd>wadera <klr>(samica dominuj&aogonek;ca w stadzie)</klr></trd>
+    </trdgrp>
+  </snc>
+</drv>
+
+<drv mrk="lup.tasmania0o">
+  <kap>tasmania <tld/>o</kap>
+  <snc mrk="lup.tasmania0o.ZOO">
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      Hundosimila <ref cel="best.0o" tip="super">besto</ref> el
+      Tasmanio, malaperinta en la 20a jarcento
+      (<trd lng="la">Thylacinus cynocephalus</trd>)
+      sola <ref tip="lst" cel="speci.0o.BIO" 
+      lst="voko:zoologiaj_specioj">specio</ref> 
+      de la familio tilacinedoj:
+      <ekz>
+        la tilacino <klr>...</klr> a&ubreve; tasmania <tld/>o
+        similaspektas al
+        vera lupo, sed ili du estas tiel malproksimaj
+        <klr>...</klr> kiel du mamuloj  povas esti<fnt>
+        <aut>S. Sarlette</aut>
+        <vrk>Re: Pingvenoj kaj a&ubreve;koj</vrk>
+        <lok>soc.culture.esperanto, 1998-09-28</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd
+  lng="bg">&c_t;&c_a;&c_s;&c_m;&c_a;&c_n;&c_i;&c_j;&c_s;&c_k;&c_i;&c_v;&c_malmol;&c_l;&c_k;</trd>
+  <trd lng="ca">llop marsupial</trd>
+  <trdgrp lng="de">
+    <trd>Beutelwolf</trd>,
+    <trd>Tasmanischer Wolf</trd>,
+    <trd>Beuteltiger</trd>,
+    <trd>Tasmanischer Tiger</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>loup marsupial</trd>,
+    <trd>thylacine</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>buidelwolf</trd>,
+    <trd>Tasmaanse tijger</trd>
+  </trdgrp>
+  <trd lng="pl">diabe&lstroke; tasma&nacute;ski</trd>
+  <trdgrp lng="pt">
+   <trd>lobo-da-tasm&acirc;nia</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_u;&c_m;&c_ch;&c_a;&c_t;&c_y;&c_j;
+    <ind>&c_v;&c_o;&c_l;&c_k;</ind></trd>,
+    <trd>&c_t;&c_a;&c_s;&c_m;&c_a;&c_n;&c_i;&c_j;&c_s;&c_k;&c_i;&c_j;
+    <ind>&c_v;&c_o;&c_l;&c_k;</ind></trd>
+  </trdgrp>
+  <trdgrp lng="it">
+    <trd>tigre della Tasmania</trd>, 
+    <trd>tilacino</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="lup.0ido">
+  <kap><tld/>ido</kap>
+  <snc mrk="lup.0ido.SPO">
+    <uzo tip="fak">SPO</uzo>
+    <dif>
+      Juna (plej ofte mapli ol 11-jara) 
+      <ref tip="super" cel="skolt.0o.SPO">skolto</ref>, 
+      <ref tip="dif" cel="skolt.0o.SPO">skolteto</ref>
+      <ekz>
+        La fondinto [lordo Baden-Powell] &ccirc;erpis la ideojn pri la 
+        skolteta ludo el la "Arbarega Libro" de la brita verkisto
+        Rudyard
+        Kipling. 
+        Tial skoltetoj ofte nomi&gcirc;as "<tld/>idoj" kaj la
+        svarmestroj 
+        havas nomojn de bestoj en tiu libro.
+        <fnt>
+        <aut>J. K. Hammer</aut>
+        <vrk>Skolta kaj tenduma terminaro</vrk>
+        <lok>&ccirc;apitro 6. La Svarmo</lok>
+        </fnt>.
+      </ekz>
+      <ekz>
+        Kompleta grupo konsistas el:
+        svarmo - por skoltetoj malpli ol 11 jaraj,
+        trupo - por knaboskoltoj, 11 - 17 jaraj,
+        bando - por <ref tip="sub" cel="rover.0o.SPO">roveroj</ref>,
+        17 &gcirc;is 23 jaraj.
+        <fnt>
+        <aut>J. K. Hammer</aut>
+        <vrk>Skolta kaj tenduma terminaro</vrk>
+        <lok>&ccirc;apitro 5. La Skoltgrupo</lok>
+        </fnt>.
+      </ekz>
+      <ekz>
+        [...] la Retsesioj celantaj estrojn de Lupidoj, Skoltoj
+        a&ubreve; 
+        Roveroj implikitaj en evoluo/renovigado de la Junulara Programo 
+        [...]
+        <fnt>
+        <aut>trad. G. Ricci</aut>
+        <vrk>EURO.SCOUT.INFO 28 - Junio 2005</vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>W&ouml;lfling</trd>,
+      <trd>W&ouml;lflingsm&auml;dchen</trd> 
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>cub</trd>,
+      <trd><ind>cub</ind> scout</trd>,
+      <trd>brownie<klr> [f.]</klr></trd> <!-- ina -->
+    </trdgrp>
+    <trdgrp lng="es">
+      <trd>lobatos</trd>
+      <trd>alita<klr> [f.]</klr></trd>, <!-- ina -->
+      <trd>lobata<klr> [f.]</klr></trd> <!-- ina -->
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>louveteau</trd>
+      <trd>louvette<klr> [f.]</klr></trd> <!-- ina -->
+    </trdgrp>
+    <trdgrp lng="it">
+      <trd>lupetto</trd>,
+      <trd>coccinelle<klr> [f.]</klr></trd> <!-- ina -->
+    </trdgrp>
+    <trdgrp lng="nl">
+      <trd>welp<klr tip="ind"> (bij scouts)</klr></trd>,
+      <trd>wolfje<klr tip="ind"> (bij scouts)</klr></trd>,
+      <trd>kabouter<klr tip="ind"> (bij scouts)</klr></trd>
+    </trdgrp>
+    <trd lng="pl">zuch</trd>
+    <trd lng="pt">lobinho</trd>
+    <rim>
+      En multaj landoj ekzistas apartaj viraj kan inaj skoltaj (kaj
+      lupidaj)
+      movadoj tial ekzistas ofte apartaj tradukoj de viraj kaj inaj
+      "<tld/>ido".
+    </rim>
+    <rim>
+      Ne en &ccirc;iuj landoj oni &scirc;atas kompari homojn kun bestoj.
+      
+      Tial (ekzemple en Indonezio) oni ne uzas tiujn nomojn kaj 
+      neniam diras "<tld/>ido" anstata&ubreve; "skolteto".
+    </rim>
+  </snc>
+  <snc mrk="lup.0ido.ZOO">
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      Ido de <ref cel="lup.0o" tip="super"><tld/>o</ref>.
+    </dif>
+    <trd lng="de">Welpe<klr tip="ind"> (Wolf)</klr></trd>
+    <trd lng="nl">welp<klr tip="ind"> (v.wolf)</klr></trd>
+    <trdgrp lng="pl">
+      <trd>wilczek</trd>,
+      <trd>wilcz&eogonek;</trd>,
+      <trd>szczeni&eogonek; <ind>wilka</ind></trd>
+    </trdgrp>
+  <trd lng="it">lupacchiotto</trd>
+  </snc>
+  <trd lng="ca">llobat&oacute;</trd>
+  <trd lng="cs">vlče</trd>
+  <trd lng="sk">vĺča</trd>
+</drv>
+</art>
+
+<!--
+$Log: lup.xml,v $
+Revision 1.40  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.39  2015/06/29 16:33:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.38  2014/11/09 10:10:26  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.37  2013/10/20 19:10:15  revo
+Wolfram Diestel: ref al lst rabobestoj
+
+Revision 1.36  2013/09/08 19:11:00  revo
+Wolfram Diestel: kor. lst-ref
+
+Revision 1.35  2013/08/22 15:10:23  revo
+Wolfram Diestel: propra drv por Lupo, referencoj al listoj zoo specioj,
+stelfiguroj
+
+Revision 1.34  2013/06/23 15:10:07  revo
+Wolfram Diestel: kompletigis  referencojn, germ trd.
+
+Revision 1.33  2013/06/17 19:10:19  revo
+Wolfram Diestel: Lupo: ref al stelfiguro, trd "la"
+
+Revision 1.32  2011/12/06 17:10:16  revo
+Marc Rausell: kataluna traduko
+
+-->
+</vortaro>

@@ -1,0 +1,159 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: ador.xml,v 1.26 2015/07/04 08:37:29 revo Exp $">
+<kap>
+  <ofc>*</ofc><rad>ador</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="ador.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="ador.0i.religie">
+    <uzo tip="fak">REL</uzo>
+    <dif>
+      Respektegi kaj honoregi kiel dion:
+      <ekz>
+        la hebreoj <tld/>is en la dezerto oran bovidon;
+      </ekz>
+      <ekz>
+        vivanton ni malhonoras, mortinton ni <tld/>as
+        <fnt><bib>PrV</bib></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="kult.0i.REL">kulti</ref>
+    </refgrp>
+    <trd lng="be">&c_p;&c_a;&c_k;&c_l;&c_a;&c_n;&c_ja;&c_c;&c_c;&c_a;</trd>
+    <trd lng="br">azeuli&ntilde;</trd>
+    <trd lng="de">anbeten</trd>
+    <trdgrp lng="en">
+      <trd>adore</trd>,
+      <trd>worship</trd>
+    </trdgrp>
+    <trd lng="es">adorar</trd>
+    <trdgrp lng="fr">
+      <trd>adorer<klr tip="ind"> (v&eacute;n&eacute;rer)</klr></trd>,
+      <trd>rendre un <ind>culte</ind> (&agrave;)</trd>,
+      <trd>r&eacute;v&eacute;rer</trd>,
+      <trd>v&eacute;n&eacute;rer</trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>adorowa&cacute;</trd>,
+      <trd>czci&cacute;</trd>,
+      <trd>wielbi&cacute;</trd>
+    </trdgrp>
+    <trdgrp lng="pt">
+      <trd>adorar</trd>,
+      <trd>idolatrar</trd>,
+      <trd>reverenciar</trd>
+    </trdgrp>
+    <trdgrp lng="ro">
+      <trd>adora</trd>,
+      <trd>diviniza</trd>,
+      <trd>venera</trd>
+    </trdgrp>
+    <trd lng="sk">uctieva&tcaron;</trd>
+    <trdgrp lng="sv">
+      <trd>dyrka</trd>,
+      <trd>tillbedja</trd>
+    </trdgrp>
+    <trd
+    lng="ru">&c_p;&c_o;&c_k;&c_l;&c_o;&c_n;&c_ja;&c_t;&c_mol;&c_s;&c_ja;</trd>
+  </snc>
+  <snc mrk="ador.0i.amegi">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Amegi:
+      <ekz>
+        <tld/>i virinon, poezion<fnt>B</fnt>;
+      </ekz>
+      <ekz>
+        <ind>&ccirc;iu abomena&jcirc;o trovas sian <tld/>anton</ind>
+        <fnt><bib>PrV</bib></fnt>.
+        <trd lng="fr">tous les <ind>gout</ind>s sont dans la
+        nature</trd>
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_a;&c_b;&c_a;&c_zh;&c_a;&c_c;&c_mol;</trd>,
+      <trd>&c_g;&c_o;&c_r;&c_a;&c_ch;&c_a; &c_l;&c_ju;&c_b;&c_ib;&c_c;&c_mol;
+      </trd>
+    </trdgrp>
+    <trd lng="br">beza&ntilde; <ind>sod</ind> gant</trd>
+    <trd lng="de">verehren</trd>
+    <trdgrp lng="fr">
+      <trd>adorer<klr tip="ind"> (ch&eacute;rir)</klr></trd>,
+      <trd>aduler</trd>,
+      <trd>ch&eacute;rir</trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>adorowa&cacute;</trd>,
+      <trd>wielbi&cacute;</trd>
+    </trdgrp>
+    <trdgrp lng="pt">
+      <trd>adorar</trd>,
+      <trd>idolatrar</trd>
+    </trdgrp>
+    <trd lng="ru">&c_o;&c_b;&c_o;&c_zh;&c_a;&c_t;&c_mol;</trd>
+    <trd lng="en">adore</trd>
+    <trdgrp lng="sv">
+      <trd>dyrka</trd>,
+      <trd>avguda</trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>adorovat</trd>,
+    <trd>ctít</trd>,
+    <trd>kořit se</trd>,
+    <trd>velebit</trd>,
+    <trd>zbožně uctívat</trd>,
+    <trd>zbožňovat</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>verg&ouml;ttern</trd>,
+    <trd>anbeten</trd>
+  </trdgrp>
+  <trd lng="hu">im&aacute;d</trd>
+  <trd lng="it">adorare</trd>
+  <trd lng="nl">aanbidden</trd>
+  <trdgrp lng="sk">
+    <trd>vzývať</trd>,
+    <trd>zbo&zcaron;&ncaron;ova&tcaron;</trd>,
+    <trd>zbožne uctievať</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: ador.xml,v $
+Revision 1.26  2015/07/04 08:37:29  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.25  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.24  2013/11/06 21:10:12  revo
+Vito Redsky: +trd  pl ro
+
+Revision 1.23  2013/01/03 17:10:12  revo
+Jeromo Vasxe: + ref + fak
+
+Revision 1.22  2007/05/19 17:02:51  revo
+Wieland Pusch: +trd de
+
+Revision 1.21  2005/03/06 17:34:55  revo
+Marc Bavant: +trd fr, kor fnt, +mrk
+
+Revision 1.20  2005/02/26 17:31:35  revo
+Alan ar Gall: kor tajperaron en br trd
+
+Revision 1.19 2005/02/24 17:32:10 revo
+Alan ar Gall: +trd br
+
+Revision 1.18 2002/09/07 17:36:57 revo
+Viliam Bur: +sk trd
+
+Revision 1.17 2002/04/22 16:32:43 revo
+-->
+</vortaro>

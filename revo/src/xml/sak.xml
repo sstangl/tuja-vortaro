@@ -1,0 +1,451 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: sak.xml,v 1.32 2015/07/04 08:37:43 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>sak</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="sak.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="sak.0o.KOMUNE">
+    <dif>
+      Mola <ref tip="super" cel="uj.0o.KOMUNE">ujo</ref> el tolo,
+      ledo, papero a&ubreve; cetera materialo kun malferma&jcirc;o &ccirc;e la supro,
+      por enteni iajn a&jcirc;ojn, precipe objektojn &scirc;uteblajn (grenon,
+      terpomojn, karbojn, sukeron, sablon, po&scirc;ta&jcirc;ojn ktp):
+      <ekz>
+        se <tld/>o tro pleni&gcirc;as, &gcirc;i balda&ubreve; dis&scirc;iri&gcirc;as
+        <fnt><bib>PrV</bib></fnt>;
+      </ekz>
+      <ekz>
+        kaj Jozef ordonis plenigi iliajn <tld/>ojn per greno
+        <fnt><bib>MT</bib>, <lok>&Gen; 42:25</lok></fnt>;
+      </ekz>
+      <ekz>
+        jen estas <tld/>o da terpomoj
+        <fnt>
+          <bib>FK</bib>,
+          <lok>La hejmo de la metiisto</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;iu <tld/>o <klr>(da po&scirc;ta&jcirc;oj)</klr> estas fermita per
+        &scirc;nuro, kiun oni povas kuntiri
+        <fnt>
+          <bib>FK</bib>,
+          <lok>El la po&scirc;to</lok>.
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="bg">&c_ch;&c_u;&c_v;&c_a;&c_l;</trd>
+    <trd lng="de">Sack</trd>
+    <trd lng="en">sack</trd>
+    <trd lng="fr">sac</trd>
+    <trdgrp lng="hu">
+      <trd>t&aacute;ska</trd>,
+      <trd>sz&aacute;k</trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>worek</trd>,
+      <trd>sak</trd>,
+      <trd>mieszek<klr> (przest.)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="pt">
+      <trd>saco</trd>
+    </trdgrp>
+    <trd lng="ru">&c_m;&c_je;&c_sh;&c_o;&c_k;</trd>
+  </snc>
+  <snc mrk="sak.0o.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      Monujo:
+      <ekz>
+        kiam <tld/>o mizeras, amo malaperas
+        <fnt><bib>PrV</bib></fnt>;
+      </ekz>
+      <ekz>
+        vortoj <tld/>on ne plenigas
+        <fnt><bib>PrV</bib></fnt>;
+      </ekz>
+      <ekz>
+        edzi&gcirc;o pro amo flamanta al <tld/>o sonanta<fnt>Z</fnt>.
+      </ekz>
+      <trdgrp lng="fr">
+        <trd>bourse<klr> (sac d'argent)</klr></trd>
+      </trdgrp>
+      <trd lng="hu">p&eacute;nzeszs&aacute;k</trd>
+      <trdgrp lng="pl">
+        <trd>sakiewka</trd>,
+        <trd>mieszek<klr> (przest.)</klr></trd>
+      </trdgrp>
+      <trdgrp lng="ru">
+        <trd>&c_k;&c_o;&c_sh;&c_je;&c_l;&c_jo;&c_k;</trd>,
+        <trd>&c_m;&c_o;&c_sh;&c_n;&c_a;</trd>
+      </trdgrp>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="kas.0o">kaso</ref>,
+      <ref cel="kest.0o">kesto</ref>,
+      <ref cel="posx.0o">po&scirc;o</ref>
+    </refgrp>
+    <trdgrp lng="de">
+      <trd>Geldsack</trd>,
+      <trd>Geldbeutel</trd>,
+      <trd>Geldkatze</trd>,
+      <trd>Portemonnaie</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="sak.0o.tasxo">
+    <ref tip="dif" cel="tasx.0o">ta&scirc;o</ref>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>pouzdro</trd>,
+    <trd>pytel</trd>,
+    <trd>vak</trd>,
+    <trd>váček</trd>,
+    <trd>výchlipka</trd>
+  </trdgrp>
+  <trd lng="en">bag</trd>
+  <trd lng="id">tas</trd>
+  <trd lng="it">sacco</trd>
+  <trd lng="nl">zak</trd>
+  <trdgrp lng="sk">
+    <trd>puzdro</trd>,
+    <trd>vak</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="sak.0ajxo">
+  <kap><tld/>a&jcirc;o</kap>
+  <snc mrk="sak.0ajxo.BIB">
+    <uzo tip="fak">BIB</uzo>
+    <dif>
+      Maldelikata pentovesto (el kruda kaprohara &scirc;tofo, kian oni
+      antikve uzis por fari <tld/>ojn<sncref ref="sak.0o.KOMUNE"/>):
+      <ekz>
+        vi deprenis de mi mian <tld/>a&jcirc;on kaj zonis min per
+        &gcirc;ojo<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="fr">
+    <trd>sac<klr> (bibl. v&ecirc;tement de p&eacute;nitence)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="it">
+    <trd>sacco<klr> (abito del penitente)</klr></trd>
+  </trdgrp>
+  <trd lng="nl">boetekleed</trd>
+  <trdgrp lng="pl">
+    <trd>worek pokutny</trd>,
+    <trd>w&lstroke;osienica</trd>
+  </trdgrp>
+  <trd lng="ru">&c_v;&c_l;&c_a;&c_s;&c_ja;&c_n;&c_i;&c_c;&c_a;</trd>
+</drv>
+
+<drv mrk="sak.dormo0o">
+  <kap>dormo<tld/>o</kap>
+  <snc mrk="sak.dormo0o.TUR">
+    <dif>
+      Remburita kovrilo por endormo, kun unu nefermita ekstremo,
+      uzata kiel porvoja&gcirc;a lita&jcirc;o:
+      <ekz>
+        ni ja kunportis dormo<tld/>ojn
+        <fnt>
+          <aut>W. Schad</aut>,
+          <vrk>Tra la Andoj boate</vrk>,
+          <bib>Monato</bib>,
+          <lok>2001:12, p. 16a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="bg">&c_s;&c_p;&c_a;&c_l;&c_je;&c_n; &c_ch;&c_u;&c_v;&c_a;&c_l;</trd>
+  <trd lng="cs">spací pytel</trd>
+  <trd lng="de">Schlafsack</trd>
+  <trd lng="es">saco de dormir</trd>
+  <trd lng="fr">sac de couchage</trd>
+  <trd lng="hu">h&aacute;l&oacute;zs&aacute;k</trd>
+  <trd lng="id"><ind>kantung</ind> tidur</trd>
+  <trd lng="it"><ind>sacco</ind> a pelo</trd>
+  <trd lng="nl">slaapzak</trd>
+  <trd lng="pl">&sacute;piw&oacute;r</trd>
+  <trd lng="ru">&c_s;&c_p;&c_a;&c_l;&c_mol;&c_n;&c_y;&c_j; &c_m;&c_je;&c_sh;&c_o;&c_k;</trd>
+  <trd lng="sk">spací vak</trd>
+</drv>
+
+<drv mrk="sak.dorso0o">
+  <kap>dorso<tld/>o</kap>
+  <snc mrk="sak.dorso0o.TUR">
+    <dif>
+      <ref tip="super" cel="sak.0o.KOMUNE"><tld lit="S"/>o</ref>
+      pendanta &ccirc;e la dorso de la portanto, tenata per trans&scirc;ultraj
+      rimenoj; <ref tip="sin" cel="tornis.0o.TUR">tornistro</ref>.
+    </dif> 
+    <ekz>
+      <ctl>la dorso<tld/>o de Panjo Rut'</ctl>
+      <klr>(novelara titolo)</klr>
+      <fnt>
+        <aut>S. J. Bako, C. Piron</aut>,
+        <vrk>la dorsosako de Panjo Rut'</vrk>,
+        <lok>1995</lok>
+      </fnt>.
+    </ekz>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_r;&c_a;&c_n;&c_je;&c_c;</trd>,
+    <trd>&c_r;&c_u;&c_k;&c_z;&c_a;&c_k;</trd>,
+    <trd>&c_z;&c_a;&c_p;&c_l;&c_je;&c_ch;&c_n;&c_ib;&c_k;</trd>
+  </trdgrp>
+  <trd lng="bg">&c_r;&c_a;&c_n;&c_i;&c_c;&c_a;</trd>
+  <trd lng="ca">motxila</trd>
+  <trdgrp lng="cs">
+    <trd>batoh</trd>,
+    <trd>ranec</trd>,
+    <trd>tlumok</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Rucksack</trd>,
+    <trd>Tornister</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>pack</trd>,
+    <trd>back pack</trd>
+  </trdgrp>
+  <trd lng="es">mochila</trd>
+  <trd lng="fr">sac &agrave; dos</trd>
+  <trd lng="hu">h&aacute;tizs&aacute;k</trd>
+  <trdgrp lng="id">
+    <trd>ransel</trd>,
+    <trd><ind>tas</ind> punggung</trd>
+  </trdgrp>
+  <trd lng="it">zaino</trd>
+  <trd lng="nl">rugzak</trd>
+  <trdgrp lng="pl">
+    <trd>plecak</trd>,
+    <trd>tornister</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_r;&c_a;&c_n;&c_je;&c_c;</trd>,
+    <trd>&c_r;&c_ju;&c_k;&c_z;&c_a;&c_k;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>batoh</trd>,
+    <trd>plecniak</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="sak.du0o">
+  <kap>du<tld/>o</kap>
+  <snc mrk="sak.du0o.KOMUNE">
+  <dif>
+    Longa
+    <ref tip="super" cel="sak.0o.KOMUNE"><tld/>o</ref>
+    (pli&gcirc;uste, ta&scirc;o) fermita &ccirc;e amba&ubreve;
+    ekstrema&jcirc;oj, kun malfermo en la mezo.
+  </dif>
+  </snc>
+  <trd lng="cs">dvojpytel</trd>
+  <trdgrp lng="fr">
+    <trd>besace</trd>,
+    <trd>bissac</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>&aacute;ltalvet&odblac;</trd>,
+    <trd>&aacute;talvet&odblac;</trd>
+  </trdgrp>
+  <trd lng="it">bisaccia</trd>
+  <trd lng="nl">plunjezak</trd>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_je;&c_r;&c_je;&c_k;&c_i;&c_d;&c_n;&c_a;&c_ja; &c_s;&c_u;&c_m;&c_a;</trd>
+  </trdgrp>
+  <trd lng="sk">dvojvrece</trd>
+</drv>
+
+<drv mrk="sak.en0igi">
+  <kap>en<tld/>igi</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="sak.en0igi.KOMUNE">
+    <dif>
+      Enmeti en <tld/>on:
+      <ekz>
+        ili en<tld/>igus oron en la tornistrojn
+        kaj suprenirus al Medranhos
+        <fnt>
+          <aut>E. de Queir&oacute;s, trad. E. Novembro</aut>,
+          <vrk>La trezoro</vrk>,
+          <lok><url
+          ref="http://www.jjsantos.net/uploads/8/6/3/7/8637636/lk_008_rv.pdf">
+          La Karavelo, 2008-05 (8)</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">ensacher</trd>
+</drv>
+
+<drv mrk="sak.el0igi">
+  <kap>el<tld/>igi</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="sak.el0igi.KOMUNE">
+    <dif>
+      Eligi el <tld/>o:
+      <ekz>
+        li el<tld/>igis la faldeblajn pluvbluzojn
+        <fnt><aut>C. Piron</aut>, <vrk>&Ccirc;u li 
+        venis trakosme?</vrk>, <lok>1980</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">d&eacute;sacher</trd>
+</drv>
+
+<drv mrk="sak.fel0o">
+  <kap>fel<tld/>o</kap>
+  <snc mrk="sak.fel0o.KOMUNE">
+    <dif>
+      <ref tip="super" cel="sak.0o.KOMUNE"><tld lit="S"/>o</ref>
+      el felo, ordinare destinita
+      al enteno de flua&jcirc;o, provizita per ver&scirc;obeko:
+      <ekz>
+        konsumi&gcirc;is la akvo de la fel<tld/>o
+        <fnt><bib>MT</bib>, <lok>&Gen; 21:15</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_b;&c_u;&c_r;&c_d;&c_z;&c_ju;&c_k;</trd>,
+    <trd>&c_m;&c_je;&c_h; <klr tip="amb">(&c_p;&c_a;&c_s;&c_u;&c_d;&c_z;&c_ib;&c_n;&c_a;)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>kožený vak</trd>,
+    <trd>měch</trd>,
+    <trd>pytel</trd>
+  </trdgrp>
+  <trd lng="es">bolsa de piel</trd>
+  <trd lng="fr">outre<klr tip="ind"> (subst.)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>t&ouml;ml&odblac;<klr tip="ind"> (b&odblac;rzs&aacute;k)</klr></trd>,
+    <trd>b&odblac;rzs&aacute;k</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_b;&c_u;&c_r;&c_d;&c_ju;&c_k;</trd>,
+    <trd>&c_m;&c_je;&c_h; <klr>(&c_s;&c_o;&c_s;&c_u;&c_d;)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>kožený vak</trd>,
+    <trd>vrece</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="sak.man0o">
+  <kap>man<tld/>o</kap>
+  <snc mrk="sak.man0o.TEKS">
+    <uzo tip="fak">TEKS</uzo>
+    <dif>
+      Ina <ref tip="super" cel="galant2.0o">galanteria&jcirc;o</ref>,
+      malgranda <ref tip="sub" cel="tasx.0o">ta&scirc;o</ref> mane a&ubreve;
+      &scirc;ultre portebla por kunhavi ekstere diversajn utila&jcirc;ojn,
+      kiaj tukoj, okulvitroj, &scirc;minko, skribiloj...
+    </dif>
+  </snc>
+  <trd lng="bg">&c_d;&c_a;&c_m;&c_s;&c_k;&c_a; &c_ch;&c_a;&c_n;&c_t;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>kabelka</trd>,
+    <trd>ranec</trd>,
+    <trd>taška</trd>,
+    <trd>uzel</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Handtasche</trd>,
+    <trd>Handt&auml;schchen</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>bolsa de mano</trd>
+  </trdgrp>
+  <trd lng="fr">sac &agrave; main</trd>
+  <trdgrp lng="hu">
+    <trd>k&eacute;zit&aacute;ska</trd>,
+    <trd>retik&uuml;l</trd>
+  </trdgrp>
+  <trdgrp lng="id">
+    <trd><ind>tas</ind> jinjing</trd>,
+    <trd><ind>tas</ind> tangan</trd>
+  </trdgrp>
+  <trd lng="it">borsetta</trd>
+  <trd lng="nl">handtas</trd>
+  <trd lng="pl">torebka<klr> damska</klr></trd>
+  <trd lng="ru">&c_d;&c_a;&c_m;&c_s;&c_k;&c_a;&c_ja; <ind>&c_s;&c_u;&c_m;&c_o;&c_ch;&c_k;&c_a;</ind></trd>
+  <trdgrp lng="sk">
+    <trd>kabelka</trd>,
+    <trd>taštička</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="sak.ret0o">
+  <kap>ret<tld/>o</kap>
+  <snc mrk="sak.ret0o.KOMUNE">
+    <dif>
+      Malpeza
+      <ref tip="super" cel="sak.0o.KOMUNE"><tld/>o</ref>
+      el reta materialo, uzebla por kunporti 
+      a&ccirc;eta&jcirc;ojn:
+      <ekz>
+        &scirc;i metis ret<tld/>on da pomoj sur lian liton
+        <fnt>
+          <aut>Li Tiezhu, trad. Miaohui</aut>,
+          <vrk>Verda Nebulo</vrk>,
+          <lok><url
+              ref="http://gxangalo.com/modules/weblog/index.php?user_id=1995">Bloga&jcirc;oj
+              de Miaohui</url>, 2005-07-10</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">síťovka <klr>(taška)</klr></trd>
+  <trd lng="de">Netztasche</trd>
+  <trd lng="fr">filet &agrave; provisions</trd>
+  <trdgrp lng="it">
+    <trd><ind>borsa</ind> a rete</trd>,
+    <trd>sporta<klr> (a rete)</klr></trd>
+  </trdgrp>
+  <trd lng="pl">siatka<klr> na zakupy</klr></trd>
+  <trd lng="ru">&c_a;&c_v;&c_o;&c_s;&c_mol;&c_k;&c_a;</trd>
+  <trd lng="sk">sieťovka</trd>
+</drv>
+</art>
+<!--
+$Log: sak.xml,v $
+Revision 1.32  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.31  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.30  2014/06/14 03:10:39  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.29  2013/12/23 21:10:11  revo
+Jeromo Vasxe: kor 1 dif
+
+Revision 1.28  2013/12/18 02:10:15  revo
+Jeromo Vasxe: + en/el~igi
+
+Revision 1.27  2013/09/30 01:10:13  revo
+Jeromo Vasxe: fel~o + inf el fel.xml
+
+Revision 1.26  2013/09/29 01:10:13  revo
+Jeromo Vasxe: + fel~o
+
+Revision 1.25  2009/12/06 17:30:49  revo
+Sergio Pokrovskij: kor dif, +ekz, TEZ
+
+Revision 1.24  2009/10/12 16:30:28  revo
+Paul Peeraerts: +nl
+
+Revision 1.23  2009/09/22 17:17:49  revo
+-->
+</vortaro>

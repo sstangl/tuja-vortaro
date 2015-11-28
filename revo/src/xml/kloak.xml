@@ -1,0 +1,134 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: kloak.xml,v 1.21 2015/07/04 08:37:37 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>kloak</rad>/o
+</kap>
+<drv mrk="kloak.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="kloak.0o.fosajxo">
+    <dif>
+      Fosa&jcirc;o, en kiu kolekti&gcirc;as la hejmaj malpura&jcirc;oj kaj
+      ekskrementoj.
+    </dif>
+    <trdgrp lng="de">
+      <trd>Pfuhl</trd>,
+      <trd>Jauchegrube</trd>,
+      <trd>Senkgrube</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>cesspool</trd>,
+      <trd>cesspit</trd>,
+      <trd>latrine</trd>,
+      <trd>septic tank</trd>
+    </trdgrp>
+    <trd lng="es">fosa s&eacute;ptica</trd>
+    <trd lng="fr">fosse septique</trd>
+    <trd lng="hu">p&ouml;ceg&ouml;d&ouml;r</trd>
+    <trd lng="nl">beerput</trd>
+    <trd lng="pl">szambo</trd>
+    <trd lng="ru">&c_v;&c_y;&c_g;&c_r;&c_je;&c_b;&c_n;&c_a;&c_ja; &c_ja;&c_m;&c_a;</trd>
+  </snc>
+  <snc mrk="kloak.0o.kanalo">
+    <dif>
+      Kanalo, ordinare subtera, tra kiu elfluas la malpura&jcirc;oj kaj
+      ekskrementoj de urbo.
+    </dif>
+    <trdgrp lng="de">
+      <trd>Abwasserkanal</trd>,
+      <trd>Unratkanal</trd>
+    </trdgrp>
+    <trd lng="en">sewer</trd>
+    <trdgrp lng="es">
+      <trd>cloaca</trd>,
+      <trd>alcantarilla</trd>
+    </trdgrp>
+    <trd lng="fr">&eacute;gout<klr tip="ind"> (collecteur d'eaux
+    us&eacute;es)</klr></trd>
+    <trd lng="hu">szennyv&iacute;zcsatorna</trd>
+    <trd lng="nl">riool</trd>
+    <trd lng="pl">kanalizacja</trd>
+    <trd lng="ru">&c_k;&c_a;&c_n;&c_a;&c_l;&c_i;&c_z;&c_a;&c_c;&c_i;&c_ja;</trd>
+  </snc>
+  <snc mrk="kloak.0o.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Loko, kie multi&gcirc;as plej malla&ubreve;dindaj faroj:
+      <ekz>
+        tiu urbo, <tld/>o de &ccirc;iuj malvirtoj.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>Pfuhl</trd>,
+      <trd>S&uuml;ndenpfuhl</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>cesspit</trd>,
+      <trd>cesspool</trd>
+    </trdgrp>
+    <trd lng="es">cloaca</trd>
+    <trdgrp lng="fr">
+      <trd>bas-fond<klr tip="ind"> (fig.)</klr></trd>,
+      <trd>quartier malfam&eacute;</trd>
+    </trdgrp>
+    <trd lng="hu">fert&odblac;</trd>
+    <trd lng="nl">beerput</trd>
+  </snc>
+  <snc mrk="kloak.0o.ZOO">
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      &Ccirc;e rampuloj kaj birdoj, la ekstrema&jcirc;o de la <ref tip="malprt"
+      cel="intest.0o">intesto</ref>, formanta po&scirc;on.
+    </dif>
+    <trd lng="de">Kloake</trd>
+    <trd lng="en">cloaca</trd>
+    <trd lng="es">cloaca</trd>
+    <trd lng="fr">cloaque<klr tip="ind"> (anat.)</klr></trd>
+    <trd lng="hu">klo&aacute;ka</trd>
+    <trd lng="nl">cloaca</trd>
+    <trd lng="pl">stek</trd>
+  </snc>
+  <trd lng="cs">kanál splaškový</trd>
+  <trd lng="pl">kloaka</trd>
+  <trd lng="ru">&c_k;&c_l;&c_o;&c_a;&c_k;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>odpadový kanál</trd>,
+    <trd>stoka</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: kloak.xml,v $
+Revision 1.21  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.19  2015/04/10 18:10:18  revo
+Carlos Garcia: +trd es -o
+
+Revision 1.18  2010/05/31 16:30:27  revo
+Agustin Garcia Lopez: +trd es
+
+Revision 1.17  2009/03/01 17:31:19  revo
+Marcus Curdeius: +pl
+
+Revision 1.16  2007/02/07 17:30:36  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.15  2004/12/19 18:56:15  revo
+Marc Bavant: mod trd fr
+
+Revision 1.14  2003/11/30 17:30:37  revo
+Jeromo Vasxe: kor ortog. trd fr, + mrk, - ana + zoo
+
+Revision 1.13 2001/12/10 17:34:09 revo
+Ulrich Fellmann: + 8 germ trdj
+
+Revision 1.12 2001/11/05 19:11:24 revo
+-->
+</vortaro>

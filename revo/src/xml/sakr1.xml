@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: sakr1.xml,v 1.24 2015/07/04 08:37:43 revo Exp $">
+<kap>
+  <rad>sakr</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="sakr1.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="sakr1.0i.KOMUNE">
+    <dif>
+      Esprimi indignon a&ubreve; koleron per blasfemaj a&ubreve; nedecaj
+      vortoj:
+      <ekz>
+        mi atendis pacience, dum ili kriis kaj <tld/>adis
+        <fnt><bib>&Scirc;talrato</bib>, <lok>&ccirc;apitro 1a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_l;&c_a;&c_ja;&c_c;&c_mol;</trd>, 
+    <trd>&c_k;&c_l;&c_ja;&c_s;&c_mol;&c_c;&c_ib;</trd>
+  </trdgrp>
+  <trd lng="bg">&c_p;&c_s;&c_u;&c_v;&c_a;&c_m;</trd>
+  <trdgrp lng="cs">
+    <trd>klít</trd>,
+    <trd>láteřit</trd>,
+    <trd>nadávat</trd>,
+    <trd>sakrovat</trd>
+  </trdgrp>
+  <trd lng="de">fluchen</trd>
+  <trd lng="en">swear</trd>
+  <trd lng="es">maldecir</trd>
+  <trdgrp lng="fr">
+    <trd>dire des gros mots</trd>,
+    <trd>jurer<klr tip="amb"> (dire des gros mots)</klr></trd>,
+    <trd>sacrer<klr tip="amb"> (dire des gros mots)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>&aacute;tkoz&oacute;dik</trd>,
+    <trd>szents&eacute;gel</trd>
+  </trdgrp>
+  <trdgrp lng="it">
+    <trd>imprecare</trd>,
+    <trd>bestemmiare</trd>
+  </trdgrp>
+  <trd lng="nl">vloeken</trd>
+  <trdgrp lng="pl">
+    <trd>kl&aogonek;&cacute;</trd>,
+    <trd>przeklina&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+   <trd>praguejar</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_r;&c_u;&c_g;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>,
+    <trd>&c_s;&c_k;&c_v;&c_je;&c_r;&c_n;&c_o;&c_s;&c_l;&c_o;&c_v;&c_i;&c_t;&c_mol;</trd>,
+    <trd>&c_m;&c_a;&c_t;&c_je;&c_r;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>kliať</trd>,
+    <trd>nadávať</trd>
+  </trdgrp>
+  <trd lng="sv">sv&auml;ra</trd>
+</drv>
+
+<drv mrk="sakr1.0o">
+  <kap><tld/>o, <var><kap><tld/>a&jcirc;o</kap></var></kap>
+  <snc>
+    <dif>
+      Nedeca esprimo de kolero.
+    </dif>
+    <ref tip="hom" cel="sakr.0o">sakro</ref>
+  </snc>
+  <trdgrp lng="en">
+    <trd>expletive</trd>,
+    <trd>curse</trd>,
+    <trd>bad language</trd>,
+    <trd>profanity</trd>,
+    <trd>obscenity</trd>
+  </trdgrp>
+  <trd lng="es">maldici&oacute;n</trd>
+  <trdgrp lng="fr">
+    <trd>juron</trd>,
+    <trd>grossi&egrave;ret&eacute;</trd>
+  </trdgrp>
+  <trd lng="pl">przekle&nacute;stwo</trd>
+</drv>
+</art>
+<!--
+$Log: sakr1.xml,v $
+Revision 1.24  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.23  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.22  2014/03/12 20:10:13  revo
+Agustin Garcia Lopez: +trd(es) -o
+
+Revision 1.21  2013/12/02 11:10:23  revo
+Damien Brucker: +trd fr
+
+Revision 1.20  2013/01/01 14:10:13  revo
+Sebastian Cyprych: + trd pl
+
+Revision 1.19  2012/01/31 08:10:09  revo
+Wieland Pusch: +trd bg
+
+Revision 1.18  2010/04/24 17:06:33  revo
+Jeromo Vasxe: var ~o/~ajxo, ref vid -> ref hom
+
+Revision 1.17  2010/04/19 16:30:31  revo
+Russ Williams: +ref sakro; +sakrajxo
+
+Revision 1.16  2009/09/22 17:17:51  revo
+Antonio Codazzi: +trd it
+
+Revision 1.15  2007/02/06 17:30:35  revo
+-->
+</vortaro>

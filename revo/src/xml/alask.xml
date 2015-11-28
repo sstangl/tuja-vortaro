@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: alask.xml,v 1.22 2015/07/04 08:37:30 revo Exp $">
+<kap>
+  <rad>Alask</rad>/o
+</kap>
+<drv mrk="alask.A0o">
+  <kap><tld/>o</kap>
+  <snc>
+    <uzo tip="fak">GEOG</uzo>
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      Teritorio de la nord-okcidenta parto de
+      <ref tip="malprt" cel="amerik.Nord0o">Nordameriko</ref>, kiu,
+      vendite de <ref cel="rus.R0ujo">Rusujo</ref> al
+      <ref tip="malprt" cel="uson.U0o">Usono</ref> en 1867 i&gcirc;is
+      ties 49&#170; <ref cel="sxtat.sub0o">sub&scirc;tato</ref>.
+    </dif>
+  </snc>
+  <bld lok="../bld/Beringa.png"><tld/>o
+    <fnt><lok>La&ubreve; mapo el
+    <url ref="http://www.pmel.noaa.gov/bering/pages/geog.html">NOAA
+    </url></lok></fnt>
+  </bld>
+  <trd lng="be">&c_A;&c_l;&c_ja;&c_s;&c_k;&c_a;
+  <klr tip="amb">(&c_sh;&c_t;&c_a;&c_t; &c_Z;&c_Sh;&c_A;)</klr></trd>
+  <trd lng="ca">Alaska</trd>
+  <trd lng="de">Alaska</trd>
+  <trd lng="en">Alaska</trd>
+  <trd lng="es">Alaska</trd>
+  <trd lng="fr">Alaska</trd>
+  <trd lng="hu">Alaszka</trd>
+  <trd lng="nl">Alaska</trd>
+  <trd lng="pl">Alaska</trd>
+  <trd lng="pt">Alasca</trd>
+  <trd lng="ru">&c_sh;&c_t;&c_a;&c_t;
+  <ind>&c_A;&c_l;&c_ja;&c_s;&c_k;&c_a;</ind></trd>
+  <trd lng="sk">Alja&scaron;ka</trd>
+  <trd lng="cs">Aljaška</trd>
+</drv>
+<drv mrk="alask.A0aDuoninsulo">
+  <kap><tld/>a Duoninsulo</kap>
+  <snc>
+    <uzo tip="fak">GEOG</uzo>
+    <dif>
+      <ref tip="malprt" cel="amerik.Nord0o">Nordamerika</ref>
+      duoninsulo limanta la <ref cel="mar.BeringaM0o">Beringan
+      maron</ref> 
+      sud-oriente disde la resto de <ref cel="pacifik.P0o">
+      Pacifiko</ref>.
+    </dif>
+    <ref tip="malprt" cel="alask.A0o"><tld/>o</ref>
+  </snc>
+  <trd lng="be">&c_A;&c_l;&c_ja;&c_s;&c_k;&c_a;
+  <klr tip="amb">(&c_p;&c_a;&c_w;&c_v;&c_o;&c_s;&c_t;&c_r;&c_a;&c_w;)
+  </klr></trd>
+  <trd lng="de">Alaskahalbinsel</trd>
+  <trd lng="en">Alaska Peninsula</trd>
+  <trd lng="hu">Alaszkai-f&eacute;lsziget</trd>
+  <trd lng="nl">Schiereiland van <ind>Alaska</ind></trd>
+  <trd lng="pl">p&oacute;&lstroke;wysep <ind>Alaska</ind></trd>
+  <trd lng="pt">Pen&iacute;nsula do Alasca</trd>
+  <trd lng="ru">&c_p;&c_o;&c_l;&c_u;&c_o;&c_s;&c_t;&c_r;&c_o;&c_v;
+  <ind>&c_A;&c_l;&c_ja;&c_s;&c_k;&c_a;</ind></trd>
+  <trd lng="sk">Alja&scaron;sk&yacute; poloostrov</trd>
+</drv>
+<drv mrk="alask.A0aGolfo">
+  <kap><tld/>a Golfo</kap>
+  <snc>
+    <uzo tip="fak">GEOG</uzo>
+    <dif>
+      <ref tip="super" cel="golf.0o">Golfo</ref> en la norda 
+      <ref tip="malprt" cel="pacifik.P0o">Pacifiko</ref>,
+      sud-oriente de la
+      <ref tip="vid" cel="alask.A0aDuoninsulo"><tld/>a duoninsulo</ref>.
+    </dif>
+  </snc>
+  <trd lng="de">Golf von <ind>Alaska</ind></trd>
+  <trd lng="en">Gulf of Alaska</trd>
+  <trd lng="fr">Golfe d'Alaska</trd>
+  <trd lng="hu">Alaszkai-&ouml;b&ouml;l</trd>
+  <trd lng="nl">Golf van <ind>Alaska</ind></trd>
+  <trd lng="pl">zatoka <ind>Alaska</ind></trd>
+  <trd lng="pt">Golfo do Alasca</trd>
+  <trdgrp lng="ru">
+    <trd>&c_A;&c_l;&c_ja;&c_s;&c_k;&c_i;&c_n;&c_s;&c_k;&c_i;&c_j;
+    &c_z;&c_a;&c_l;&c_i;&c_v;</trd>,
+    <trd>&c_z;&c_a;&c_l;&c_i;&c_v; 
+    <ind>&c_A;&c_l;&c_ja;&c_s;&c_k;&c_a;</ind></trd></trdgrp>
+  <trd lng="sk">Alja&scaron;sk&yacute; z&aacute;liv</trd>
+</drv>
+</art>
+
+<!--
+$Log: alask.xml,v $
+Revision 1.22  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.21  2011/02/14 13:10:17  revo
+Luiz Portella: kor. ref k mrk
+
+Revision 1.20  2011/02/13 03:10:18  revo
+Luiz Portella: kor. ref k mrk
+
+Revision 1.19  2008/12/01 16:47:03  revo
+Marc Bavant: mod ref cel al Beringa Maro
+
+Revision 1.18  2008/09/16 16:30:32  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.17  2004/06/01 17:24:01  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.16  2003/02/15 17:36:07  revo
+Ulrich Fellmann: + 3 trd = de
+
+Revision 1.15  2002/10/25 16:32:08  revo
+Oscar Puig: + trd ca
+
+Revision 1.14  2002/10/01 16:35:21  revo
+-->
+</vortaro>

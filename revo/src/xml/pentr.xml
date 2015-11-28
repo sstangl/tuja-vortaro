@@ -1,0 +1,264 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: pentr.xml,v 1.26 2015/08/09 16:10:14 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>pentr</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="pentr.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="pentr.0i.reprezenti">
+    <uzo tip="fak">BELA</uzo>
+    <dif>
+      Prezenti ion per strekoj kaj koloroj:
+      <ekz>
+        <tld/>i viron, arbon, pejza&gcirc;on per oleo, per akvarelo;
+      </ekz>
+      <ekz>
+        li <tld/>is la diinon nuda;
+      </ekz>
+      <ekz>
+        ne <tld/>u diablon sur la muro
+        <klr>(se oni aludas pri dan&gcirc;ero, &gcirc;i okazas.
+        <ref tip="vid" cel="lup.0o">lupo</ref>)</klr>
+        <fnt><bib>PrV</bib></fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        la suno <tld/>is brilan strion sur la vasta
+        akvaro;
+      </ekz>
+      <ekz>
+        la luno <tld/>is sur la &gcirc;ardenoj ombrojn de l'
+        piramidoj<fnt>B</fnt>;
+      </ekz>
+      <ekz>
+        sur lia viza&gcirc;o estis <tld/>ita la kutimo diri
+        la veron<fnt>B</fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="desegn.0i">desegni</ref>,
+      <ref cel="skiz.0i">skizi</ref>.
+    </refgrp>
+    <trd lng="br">penta&ntilde;</trd>
+    <trd lng="de">malen</trd>
+    <trd lng="es">pintar</trd>
+    <trd lng="hu">fest</trd>
+    <trdgrp lng="ru">
+      <trd>&c_r;&c_i;&c_s;&c_o;&c_v;&c_a;&c_t;&c_mol; <klr
+      tip="amb">(&c_k;&c_r;&c_a;&c_s;&c_k;&c_a;&c_m;&c_i;)</klr></trd>,
+      <trd>&c_z;&c_a;&c_n;&c_i;&c_m;&c_a;&c_t;&c_mol;&c_s;&c_ja; &c_zh;&c_i;&c_v;&c_o;&c_p;&c_i;&c_s;&c_mol;&c_ju;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="pentr.0i.priskribi">
+    <uzo tip="fak">BELE</uzo>
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Priskribi karakterojn a&ubreve; scenojn per vortoj:
+      <ekz>
+        li majstre <tld/>is la &gcirc;ojojn kaj mal&gcirc;ojojn de la humiluloj;
+      </ekz>
+      <ekz>
+        <tld/>i la homojn tiaj, kiaj ili devus esti.
+      </ekz>
+    </dif>
+    <trd lng="br">taolenni&ntilde;<klr tip="amb"> (gant gerio&ugrave;)</klr></trd>
+    <trd lng="hu">lefest<klr tip="amb"> (&aacute;tv.)</klr></trd>
+    <trd lng="pt">pintar</trd>
+    <trd lng="ru">&c_zh;&c_i;&c_v;&c_o;&c_p;&c_i;&c_s;&c_a;&c_t;&c_mol;</trd>
+  </snc>
+  <snc mrk="pentr.0i.imagi">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Imagi drastan kaj vivan bildon de io:
+      <ekz>
+        ofte li <tld/>adis al si tiun &ccirc;i tempon sub &ccirc;iaj
+        cirkonstancoj<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+    <trd lng="br">empenti&ntilde;</trd>
+    <trdgrp lng="hu">
+      <trd>fest</trd>,
+      <trd>ecsetel</trd>
+    </trdgrp>
+    <trd lng="ru">&c_zh;&c_i;&c_v;&c_o; &c_p;&c_r;&c_je;&c_d;&c_s;&c_t;&c_a;&c_v;&c_i;&c_t;&c_mol;</trd>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_m;&c_a;&c_l;&c_ja;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_n;&c_a;&c_m;&c_a;&c_l;&c_ja;&c_v;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="cs">malovat</trd>
+  <trd lng="en">paint</trd>
+  <trd lng="fr">peindre</trd>
+  <trd lng="nl">schilderen</trd>
+  <trdgrp lng="sk">
+    <trd>ma&lcaron;ova&tcaron;</trd>,
+    <trd>poma&lcaron;ova&tcaron;</trd>
+  </trdgrp>
+  <trd lng="sv">m&aring;la</trd>
+</drv>
+
+<drv mrk="pentr.0ajxo">
+  <kap><tld/>a&jcirc;o</kap>
+  <snc mrk="pentr.0ajxo.BELA">
+    <uzo tip="fak">BELA</uzo>
+    <dif>
+      <tld lit="P"/>overko:
+      <ekz>
+        mi nun devis diri mian opinion pri liaj <tld/>a&jcirc;oj
+        <fnt><bib>Voja&gcirc;Imp</bib>, <lok>&ccirc;e A&hcirc;med&#8217; Pa&scirc;a&#8217;, la
+        granda
+        pentristo</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_m;&c_a;&c_l;&c_ju;&c_n;&c_a;&c_k;</trd>,
+    <trd>&c_k;&c_a;&c_r;&c_c;&c_ib;&c_n;&c_a;</trd>
+  </trdgrp>
+  <trd lng="br">livadur</trd>
+  <trd lng="de">Gem&auml;lde</trd>
+  <trd lng="fr">peinture<klr> (&oelig;uvre picturale)</klr></trd>
+  <trd lng="hu">festm&eacute;ny</trd>
+  <trd lng="nl">schilderij</trd>
+  <trd lng="ru">&c_k;&c_a;&c_r;&c_t;&c_i;&c_n;&c_a;</trd>
+  <trd lng="sv">m&aring;lning</trd>
+</drv>
+
+<drv mrk="pentr.0inda">
+  <kap><tld/>inda</kap>
+  <snc mrk="pentr.0inda.pitoreska">
+    <ref tip="dif" cel="pitore.0a">pitoreska</ref>
+    <ekz>
+      &scirc;i rigardis tra la fenestro kaj vidis la <tld/>indan landon,
+      ku&scirc;antan anta&ubreve; &scirc;i
+      <fnt><bib>ElektFab</bib>, <lok>fi&scirc;kaptisto kaj lia
+      edzino</lok></fnt>.
+    </ekz>
+  </snc>
+  <trd lng="be">&c_m;&c_a;&c_l;&c_ja;&c_w;&c_n;&c_ib;&c_ch;&c_y;</trd>
+  <trd lng="br">livus</trd>
+  <trd lng="cs">malebn&yacute;</trd>
+  <trd lng="fr">pittoresque</trd>
+  <trd lng="hu">fest&odblac;i</trd>
+  <trd lng="nl">schilderachtig</trd>
+  <trd lng="ru">&c_zh;&c_i;&c_v;&c_o;&c_p;&c_i;&c_s;&c_n;&c_y;&c_j;</trd>
+  <trd lng="sk">malebn&yacute;</trd>
+</drv>
+
+<drv mrk="pentr.0isto">
+  <kap><tld/>isto</kap>
+  <snc mrk="pentr.0isto.BELA">
+    <uzo tip="fak">BELA</uzo>
+    <dif>
+      Homo profesie a&ubreve; kutime faranta <tld/>a&jcirc;ojn:
+      <ekz>
+        fi, kiel tedas al mi la bulgaraj <tld/>istoj ...
+        <fnt>
+        <aut>P. Stan&ccirc;ev, trad. Vedi</aut>,
+        <vrk><url
+        ref="http://donh.best.vwh.net/Esperanto/Literaturo/Noveloj/kolora_knabino.html">
+        La kolora knabino</url></vrk>,
+        <lok>Paco, 1989-2, p. 8a-9a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">mal&iacute;&rcaron;</trd>
+  <trd lng="fr">peintre</trd>
+  <trdgrp lng="nl">
+    <trd>schilder<klr tip="ind"> (kunstschilder)</klr></trd>,
+    <trd>kunstschilder</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_h;&c_u;&c_d;&c_o;&c_zh;&c_n;&c_i;&c_k;</trd>,
+    <trd>&c_zh;&c_i;&c_v;&c_o;&c_g;&c_i;&c_s;&c_je;&c_c;</trd>
+  </trdgrp>
+  <trd lng="sk">maliar <klr>(remeseln&iacute;k)</klr></trd>
+</drv>
+
+<drv mrk="pentr.ajx0ajxo">
+      <kap>a&jcirc;<tld/>a&jcirc;o
+        <fnt>
+          <aut>S. Pokrovskij</aut>:
+          <vrk><url ref="http://esperanto-ondo.ru/L-sp193.htm"
+              >Muta naturo</url></vrk>.
+          <bib>LOdE</bib>, <lok>2010:11 n&#8209;ro 193</lok>
+        </fnt>
+      </kap>
+  <snc mrk="pentr.ajx0ajxo.BELA">
+    <uzo tip="fak">BELA</uzo>
+    <dif>
+      <ref tip="super" cel="pentr.0ajxo"><tld lit="P"/>a&jcirc;o</ref>
+      prezentanta aran&gcirc;on da senvivaj objektoj (a&jcirc;oj), ekz-e fruktoj,
+      floroj, vazaro:
+      <ekz>
+        oni pli bone konas la a&jcirc;<tld/>a&jcirc;ojn de tiu 18-jarcenta
+        franca pentristo <klr>(Chardin)</klr>, sed li kelkfoje
+        portretis
+        <fnt>
+          <aut>Tracy Chevalier, tr. Shtonchjo</aut>:
+          <vrk><url>Malkovri la rakonton ene de la pentra&jcirc;o</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="en">still life</trd>
+  <trd lng="fr">nature morte</trd>
+  <trd lng="ru">&c_n;&c_a;&c_t;&c_ju;&c_r;&c_m;&c_o;&c_r;&c_t;</trd>
+</drv>
+
+<drv mrk="pentr.vakso0o">
+  <kap>vakso<tld/>o</kap>
+  <snc mrk="pentr.vakso0o.BELA">
+    <uzo tip="fak">BELA</uzo>
+    <dif>
+      Procedo de pentrarto uzanta farbojn el vakso kun koloraj 
+      enmiksa&jcirc;oj.
+    </dif>
+  </snc>
+  <trd lng="fr">encaustique<klr> (proc&eacute;d&eacute;)</klr></trd>
+  <trdgrp lng="nl">
+    <trd>wasschilderkunst</trd>,
+    <trd>encaustiek</trd>
+  </trdgrp>
+  <trdgrp lng="it">
+    <trd>encausto</trd>,
+    <trd>encaustica</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_e;&c_n;&c_k;&c_a;&c_u;&c_s;&c_t;&c_i;&c_k;&c_a;</trd>,
+    <trd>&c_zh;&c_i;&c_v;&c_o;&c_p;&c_i;&c_s;&c_mol; <ind>&c_v;&c_o;&c_s;&c_k;&c_o;&c_v;&c_y;&c_m;&c_i; &c_k;&c_r;&c_a;&c_s;&c_k;&c_a;&c_m;&c_i;</ind></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: pentr.xml,v $
+Revision 1.26  2015/08/09 16:10:14  revo
+Agustin Garcia Lopez: +trd(es) -i
+
+Revision 1.25  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.24  2015/06/29 16:40:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.23  2014/07/01 05:10:11  revo
+Sergio Pokrovskij: -tajperaro
+
+Revision 1.22  2014/06/29 05:10:09  revo
+Sergio Pokrovskij: +aj~ajxo
+
+Revision 1.21  2009/09/22 17:17:45  revo
+Paul Peeraerts: +nl
+
+Revision 1.20  2007/04/20 16:30:48  revo
+Jeromo Vasxe: + vakso~o
+
+Revision 1.19  2006/02/27 17:34:00  revo
+-->
+</vortaro>

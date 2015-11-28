@@ -1,0 +1,347 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: kuir.xml,v 1.36 2015/07/04 08:37:38 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>kuir</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="kuir.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="kuir.0i.KUI">
+    <tezrad fak="KUI"/>
+    <uzo tip="fak">KUI</uzo>
+    <dif>
+      Prepari nutra&jcirc;on, elmetante &gcirc;in al varmego por igi &gcirc;in
+      man&gcirc;ebla:
+      <ekz>
+        <tld/>i viandon, supon<fnt>B</fnt>,
+      </ekz>
+      <ekz>
+        teon<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        <tld/>i terpomojn sub la cindro;
+      </ekz>
+      <ekz>
+        malmole <tld/>ita ovo;
+      </ekz>
+      <ekz>
+        restoracio kun bonfama <tld/>ado;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        plej <tld/>ita <klr>(kulturita, edukita)</klr> kampulo &ccirc;iam
+        restos
+        krudulo<fnt><bib>PrV</bib></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="sub">
+      <ref cel="bak.0i.KUI">baki<sncref/></ref>,
+      <ref cel="kuir.bol0i.KUI">bol<tld/>i</ref>,
+      <ref cel="frit.0i">friti</ref>,
+      <ref cel="rost.0i.KUI">rosti</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_v;&c_a;&c_r;&c_y;&c_c;&c_mol;</trd>,
+    <trd>&c_g;&c_a;&c_t;&c_a;&c_v;&c_a;&c_c;&c_mol; <klr>(&c_s;&c_t;&c_r;&c_a;&c_v;&c_u;)</klr></trd>,
+    <trd>&c_k;&c_u;&c_h;&c_a;&c_r;&c_y;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="bg">&c_g;&c_o;&c_t;&c_v;&c_ja;</trd>
+  <trdgrp lng="cs">
+    <trd>va&rcaron;it</trd>,
+    <trd>vařit <klr>(jídla)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="de">
+     <trd>kochen</trd>,
+     <trd>zubereiten</trd>
+  </trdgrp>
+  <trd lng="en">cook</trd>
+  <trd lng="es">cocinar</trd>
+  <trd lng="fr">faire <ind>cuire</ind></trd>
+  <trdgrp lng="hu">
+    <trd>k&eacute;sz&iacute;t <klr tip="ind">(&eacute;ltelt)</klr></trd>,
+    <trd>f&odblac;z</trd>,
+    <trd>s&uuml;t</trd>
+  </trdgrp>
+  <trd lng="nl">koken<klr tip="ind"> (van voedsel)</klr></trd>
+  <trdgrp lng="pt">
+    <trd>cozinhar</trd>,
+    <trd>cozer</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_v;&c_a;&c_r;&c_i;&c_t;&c_mol;</trd>,
+    <trd>&c_g;&c_o;&c_t;&c_o;&c_v;&c_i;&c_t;&c_mol; <klr>(&c_p;&c_i;&c_shch;&c_u;)</klr></trd>
+  </trdgrp>
+  <trd lng="sk">variť</trd>
+  <trd lng="sv">laga mat</trd>
+  <trd lng="tp">seli</trd>
+  <trd lng="tr">pi&scedil;irmek</trd>
+</drv>
+
+<drv mrk="kuir.0ejo">
+  <kap><ofc>*</ofc><tld/>ejo</kap>
+  <snc mrk="kuir.0ejo.KUI">
+    <uzo tip="fak">KUI</uzo>
+    <dif>
+      Parto de domo a&ubreve; de restoracio destinita por <tld/>i la
+      man&gcirc;a&jcirc;ojn:
+      <ekz>
+        la <tld/>isto sidas en la <tld/>ejo
+        <fnt><bib>F</bib>, <lok>&FE; 40</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_k;&c_u;&c_h;&c_n;&c_ja;</trd>
+  <trd lng="bg">&c_k;&c_u;&c_h;&c_n;&c_ja;</trd>
+  <trd lng="cs">kuchyň</trd>
+  <trdgrp lng="de">
+     <trd>K&uuml;che</trd>,
+     <trd>Kochstube</trd>
+  </trdgrp>
+  <trd lng="en">kitchen</trd>
+  <trd lng="es">cocina</trd>
+  <trd lng="fr">cuisine</trd>
+  <trd lng="hu">konyha</trd>
+  <trd lng="nl">keuken</trd>
+  <trd lng="ru">&c_k;&c_u;&c_h;&c_n;&c_ja;</trd>
+  <trd lng="sk">kuchyňa</trd>
+  <trd lng="sv">k&ouml;k</trd>
+  <trd lng="tr">mutfak</trd>
+</drv>
+
+<drv mrk="kuir.0estro">
+  <kap><tld/>estro</kap>
+  <snc mrk="kuir.0estro.KUI">
+    <uzo tip="fak">KUI</uzo>
+    <dif>
+      Profesiulo direktanta <tld/>ejon, ekzemple en restoracio:
+      <ekz>
+        gustumu la froma&gcirc;okukojn <klr>...</klr>
+        ili estas la fiero de la <tld/>estro
+        <fnt>
+          <aut>J. Ribillard</aut>,
+          <vrk>Vagado sub palmoj</vrk>,
+          <lok>1956</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="fr">
+    <trd>chef cuisinier</trd>,
+    <trd>maitre queux</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kuir.0igxi">
+  <kap><tld/>i&gcirc;i</kap>
+  <snc mrk="kuir.0igxi.KUI">
+    <uzo tip="fak">KUI</uzo>
+    <dif>
+      I&gcirc;i <tld/>ita:
+      <ekz>
+        fajro, &ccirc;e kiu <tld/>i&gcirc;is man&gcirc;a&jcirc;o
+        <fnt>
+          <aut>Eliza Orzeszko, trad. Dro L. L. Zamenhof</aut>,
+          <vrk><url
+          ref="http://www.steloj.de/esperanto/marta/">Marta</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="fr">cuire</trd>
+  </snc>
+</drv>
+
+<drv mrk="kuir.0ilo">
+  <kap><tld/>ilo</kap>
+  <snc mrk="kuir.0ilo.KUI">
+    <uzo tip="fak">KUI</uzo>
+    <dif>
+      Aparato a&ubreve; ilo uzata por <tld/>ado:
+      <ekz>
+        mi fandis la grason en la <tld/>ilo kaj komencis rosti kokidon
+        <fnt>
+          <aut>C. Rossetti</aut>,
+          <vrk>Kredu min, sinjorino!</vrk>,
+          <lok>1950</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">appareil de cuisson</trd>
+</drv>
+
+<drv mrk="kuir.0isto">
+  <kap><ofc>*</ofc><tld/>isto</kap>
+  <snc mrk="kuir.0isto.KUI">
+    <uzo tip="fak">KUI</uzo>
+    <dif>
+      Homo, kiu profesie preparas man&gcirc;a&jcirc;on:
+      <ekz>
+        ni havas diversajn servantojn: <tld/>iston, &ccirc;ambristinon,
+        infanistinon
+        <fnt><bib>F</bib>, <lok>&FE; 37</lok></fnt>;
+      </ekz>
+      <ekz>
+        <ind>tro da <tld/>istoj ka&ccirc;on difektas</ind>.
+        <trd lng="de">viele <ind>K&ouml;che</ind> verderben den Brei</trd>
+        <trd lng="en">too many <ind>cook</ind>s spoil the broth</trd>
+        <trd lng="nl">te veel <ind>kok</ind>s bederven de brij</trd>
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_k;&c_u;&c_h;&c_a;&c_r;</trd>
+  <trd lng="bg">&c_g;&c_o;&c_t;&c_v;&c_a;&c_ch;</trd>
+  <trd lng="cs">kuchař</trd>
+  <trdgrp lng="de">
+     <trd>Koch</trd>,
+     <trd>K&ouml;chin</trd>
+  </trdgrp>
+  <trd lng="en">cook</trd>
+  <trd lng="es">cocinero</trd>
+  <trd lng="fr">cuisinier</trd>
+  <trdgrp lng="hu">
+    <trd>szak&aacute;cs</trd>,
+    <trd>kukta</trd>
+  </trdgrp>
+  <trd lng="nl">kok</trd>
+  <trd lng="ru">&c_p;&c_o;&c_v;&c_a;&c_r;</trd>
+  <trd lng="sk">kuchár</trd>
+  <trd lng="sv">kock</trd>
+  <trd lng="tr">a&scedil;&ccedil;&inodot;</trd>
+</drv>
+
+<drv mrk="kuir.bol0i">
+  <kap>bol<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="kuir.bol0i.KUI">
+    <uzo tip="fak">KUI</uzo>
+    <dif>
+      <ref tip="super" cel="kuir.0i.KUI"><tld lit="K"/>i</ref>
+      man&gcirc;a&jcirc;on en bolanta akvo:
+      <ekz>
+        sa&ubreve;co a&ubreve; spica&jcirc;o <klr>[uzata]</klr> en bol<tld/>ado
+        <fnt>
+        <vrk>PIV2</vrk>, <lok>art. &leftquot;Sojo&rightquot;</lok>.
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="frit.0i">friti</ref>
+  </snc>
+  <trd lng="be">&c_v;&c_a;&c_r;&c_y;&c_c;&c_mol;
+  <klr>(&c_s;&c_t;&c_r;&c_a;&c_v;&c_u;)</klr></trd>
+  <trd lng="cs">vařit ve vroucí vodě</trd>
+  <trdgrp lng="de">
+    <trd>frittieren</trd>,
+    <trd>kochen<klr> (in kochendem Wasser)</klr></trd>
+  </trdgrp>
+  <trd lng="fr">faire <ind>bouillir</ind></trd>
+  <trd lng="hu">f&odblac;z <klr>(l&eacute;ben)</klr></trd>
+  <trd lng="nl">koken<klr tip="ind"> (in kokend water)</klr></trd>
+  <trd lng="ru">&c_v;&c_a;&c_r;&c_i;&c_t;&c_mol; <klr>(&c_p;&c_i;&c_shch;&c_u;)</klr></trd>
+  <trd lng="sk">variť vo vriacej vode</trd>
+  <trd lng="sv">koka</trd>
+  <trd lng="tr">kaynatmak</trd>
+</drv>
+
+<drv mrk="kuir.fusx0isto">
+  <kap>fu&scirc;<tld/>isto</kap>
+  <snc mrk="kuir.fusx0isto.KUI">
+    <uzo tip="fak">KUI</uzo>
+    <dif>
+      Mallerta <tld/>isto.
+    </dif>
+  </snc>
+  <trdgrp lng="de">
+     <trd>schlechter <ind>Koch</ind></trd>
+  </trdgrp>
+  <trd lng="fr">g&acirc;te-sauce <klr>(mauvais cuisinier)</klr></trd>
+  <trd lng="hu">kont&aacute;r <ind>szak&aacute;cs</ind></trd>
+  <trd lng="nl">slechte <ind>kok</ind></trd>
+  <trd lng="ru">&c_p;&c_l;&c_o;&c_h;&c_o;&c_j; <ind>&c_p;&c_o;&c_v;&c_a;&c_r;</ind></trd>
+</drv>
+
+<drv mrk="kuir.&scirc;elo0o">
+  <kap>&scirc;elo<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="kuir.&scirc;elo0i.KUI">
+    <uzo tip="fak">KUI</uzo>
+    <dif>
+      <ref tip="super" cel="kuir.0i.KUI"><tld lit="K"/>i</ref>
+      en la natura, neforigita &scirc;elo:
+      <ekz>
+        &scirc;elo<tld/>itajn terpomoj
+        <fnt><aut>A. Kivi, trad. I. Ekstr&ouml;m</aut>, <vrk>Sep 
+        fratoj</vrk>, <lok>1947</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="fr">
+    <trd>cuire &agrave; la coque</trd>,
+    <trd>cuire en robe des champs</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kuir.0arta">
+  <kap><tld/>arta</kap>
+  <snc mrk="kuir.0arta.KUI">
+    <dif>
+      Rilata al <tld/>ado kaj preparado de man&gcirc;a&jcirc;oj;
+      <ref tip="sin" cel="kulina.0a">kulinara</ref>:
+      <ekz>
+        <tld/>artaj receptoj
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_k;&c_u;&c_l;&c_ib;&c_n;&c_a;&c_r;&c_n;&c_y;</trd>
+  <trd lng="ca">culinari</trd>
+  <trd lng="de">kulinarisch</trd>
+  <trd lng="en">culinary</trd>
+  <trd lng="es">culinario</trd>
+  <trd lng="fr">culinaire</trd>
+  <trdgrp lng="hu">
+    <trd>konyhai</trd>,
+    <trd>kulin&aacute;ris</trd>
+  </trdgrp>
+  <trd lng="nl">culinair</trd>
+  <trd lng="pt">culin&aacute;rio</trd>
+  <trd lng="ru">&c_k;&c_u;&c_l;&c_i;&c_n;&c_a;&c_r;&c_n;&c_y;&c_j;</trd>
+  <trd lng="sv">kulinarisk</trd>
+</drv>
+</art>
+<!--
+$Log: kuir.xml,v $
+Revision 1.36  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.35  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.34  2015/01/25 12:10:15  revo
+Alain Gerard: + ~igxi
+
+Revision 1.33  2014/07/12 19:10:12  revo
+Jeromo Vasxe: + sxelo~i
+
+Revision 1.32  2014/01/05 02:10:19  revo
+Jeromo Vasxe: + ~ilo
+
+Revision 1.31  2010/09/07 16:30:30  revo
+Jeromo Vasxe: - ~poto -> pot.xml
+
+Revision 1.30  2010/01/02 17:30:52  revo
+Jeromo Vasxe: + ~estro
+
+Revision 1.29  2009/09/19 16:30:33  revo
+Paul Peeraerts: +nl
+
+Revision 1.28  2009/08/27 16:31:26  revo
+Emmanuel Debanne: +trd tr
+
+Revision 1.27  2008/11/24 17:30:36  revo
+-->
+</vortaro>

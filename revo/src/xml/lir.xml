@@ -1,0 +1,139 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: lir.xml,v 1.28 2015/07/04 08:37:38 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>lir</rad>/o
+</kap>
+<drv mrk="lir.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <uzo tip="fak">MUZ</uzo>
+  <snc mrk="lir.0o.MUZ">
+    <dif>
+      Iu el diversaj
+      <ref tip="lst" cel="instru2.kord0o.MUZ"
+      lst="voko:kordinstrumentoj">kordinstrumentoj</ref>
+      kun sonkesto, du ortaj stangoj supre kunigitaj
+      per transversa stango, kaj kordoj fiksitaj
+      inter la sonkesto kaj la transverso;
+      ofta simbolo de poezio;
+      komparu kun
+      <ref tip="vid" cel="citr.0o.MUZ">citroj</ref>,
+      <ref tip="vid" cel="harp.0o">harpoj</ref>,
+      <ref tip="vid" cel="liut.0o">liutoj</ref>:
+      <ekz>
+        <ctl>Sub la signo de <tld/>o kaj verda stelo</ctl>
+        <fnt>titolo de verko de <aut>M. Abolskaja</aut>: <lok>Moskvo:
+        Impeto, 1999.</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <refgrp tip="hom">
+    Ne konfuzu kun
+    <ref cel="lir1.0o">liro</ref>.
+  </refgrp>
+  <trd lng="be">&c_l;&c_ib;&c_r;&c_a;</trd>
+  <trd lng="bg">&c_l;&c_i;&c_r;&c_a;</trd>
+  <trd lng="ca">lira</trd>
+  <trdgrp lng="de">
+    <trd>Leier</trd>,
+    <trd>Lyra</trd>
+  </trdgrp>
+  <trd lng="el">&lambda;&ypsilon_ton;&rho;&alfa;</trd>
+  <trd lng="en">lyre</trd>
+  <trd lng="es">lira</trd>
+  <trdgrp lng="fr">
+    <trd>lyre</trd>
+  </trdgrp>
+  <trd lng="hu">l&iacute;ra</trd> 
+  <trd lng="id">lira</trd>
+  <trd lng="nl">lier</trd>
+  <trd lng="pl">lira</trd>
+  <trd lng="pt">lira</trd>
+  <trd lng="ru">&c_l;&c_i;&c_r;&c_a;</trd>
+  <trd lng="sk">líra</trd>
+  <trd lng="cs">lira</trd>
+</drv>
+
+<drv mrk="lir.L0o">
+  <kap><tld lit="L"/>o</kap>
+  <uzo tip="fak">AST</uzo>
+  <mlg>Lyr</mlg>
+  <snc>
+    <dif>
+      Nord-hemisfera <ref tip="lst" cel="stel.0figuro"
+      lst="voko:stelfiguroj">stelfiguro</ref>
+      
+(<trd lng="la">Lyra</trd>).
+    </dif>
+  </snc>
+  <trd lng="ca">la <ind>Lira</ind></trd>
+  <trd lng="cs">lira</trd>
+  <trd lng="de">Leier</trd>
+  <trd lng="en">Lyra</trd>
+  <trd lng="es">Lira</trd>
+  <trd lng="pl">Lira</trd>
+  <trd lng="sk">líra</trd>
+</drv>
+
+<drv mrk="lir.0ismo">
+  <kap><tld/>ismo</kap>
+  <uzo tip="fak">POE</uzo>
+  <snc>
+    <dif>
+      Poezia inspiro.
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="lirik.0a">lirika</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_l;&c_ib;&c_r;&c_y;&c_z;&c_m;</trd>
+  <trd lng="ca">lirisme</trd>
+  <trd lng="cs">lyrické umění</trd>
+  <trd 
+lng="el">&lambda;&ypsilon;&rho;&jota;&sigma;&my;&omikron_ton;&sigma_fina;</trd>
+  <trdgrp lng="fr">
+    <trd>lyrisme</trd>
+  </trdgrp>
+  <trd lng="hu">l&iacute;rai ihletetts&eacute;g</trd>
+  <trd lng="nl">lyrisme</trd>
+  <trd lng="pl">liryzm</trd>
+  <trd lng="pt">lirismo</trd>
+  <trd lng="ru">&c_l;&c_i;&c_r;&c_i;&c_z;&c_m;</trd>
+  <trd lng="sk">lyrické umenie</trd>
+</drv>
+</art>
+<!--
+$Log: lir.xml,v $
+Revision 1.28  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.27  2015/06/29 16:33:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.26  2014/10/26 03:10:21  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.25  2014/04/06 18:10:21  revo
+Wolfram Diestel: kor. nord-hemisfera stelfiguro
+
+Revision 1.24  2013/09/08 18:11:30  revo
+Wolfram Diestel: ref al listo kordinstrumentoj
+
+Revision 1.23  2013/08/25 08:10:36  revo
+Wolfram Diestel: referenco al listo stelfiguroj
+
+Revision 1.22  2012/08/03 13:10:18  revo
+Marc Rausell: + trd ca
+
+Revision 1.21  2009/04/05 16:30:27  revo
+Wieland Pusch: +trd bg
+
+Revision 1.20  2009/04/02 16:30:51  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.19  2006/02/19 19:54:57  revo
+-->
+</vortaro>

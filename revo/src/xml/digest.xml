@@ -1,0 +1,177 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: digest.xml,v 1.22 2015/07/04 08:37:32 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>digest</rad>/i
+</kap>
+<drv mrk="digest.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="digest.0i.FIZL">
+    <dif>
+      Igi nutra&jcirc;on asimilebla, solvante &gcirc;in per specialaj
+      sukoj,
+      kiujn stomako kaj intestoj sekrecias:
+      <ekz>
+        enzimo necesa por <tld/>i laktozon<fnt><aut>Krys Ungar</aut>:
+        <vrk>Vivu vigle kaj vegetare!</vrk>, <bib>Monato</bib><lok>jaro
+        1995a, numero 7a, p. 18a</lok></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="asimil.0i.BIO">asimili <sncref/></ref>
+    </refgrp>
+  </snc>
+  <trd
+  lng="be">&c_p;&c_je;&c_r;&c_a;&c_t;&c_r;&c_a;&c_w;&c_l;&c_ja;&c_c;&c_mol;</trd>
+  <trdgrp lng="ca">
+      <trd>pair</trd>,
+      <trd>acceptar</trd>
+    </trdgrp><trd lng="ca">digerir</trd>
+  <trdgrp lng="cs">
+    <trd>osvojit si</trd>,
+    <trd>trávit</trd>,
+    <trd>vstřebat</trd>,
+    <trd>zažívat</trd>
+  </trdgrp>
+  <trd lng="de">verdauen</trd>
+  <trd lng="en">digest</trd>
+  <trd lng="es">digerir</trd>
+  <trd lng="fr">dig&eacute;rer</trd>
+  <trd lng="hu">em&eacute;szt</trd>
+  <trd lng="nl">verteren</trd><trd lng="nl">verwerken</trd>
+  <trd lng="pl">trawi&cacute;</trd><trd lng="pl">przyswaja&cacute;</trd>
+  <trdgrp lng="pt">
+    <trd>digerir</trd>,
+    <trd>fazer <ind>digest&atilde;o</ind></trd>
+  </trdgrp>
+  <trd
+  lng="ru">&c_p;&c_je;&c_r;&c_je;&c_v;&c_a;&c_r;&c_i;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>digerovať</trd>,
+    <trd>vylúhovať</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="digest.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">FIZL</uzo>
+  <snc>
+    <dif>
+      Asimilado de nutra&jcirc;o per la <tld/>aj organoj.
+    </dif>
+  </snc>
+  <trd
+  lng="be">&c_p;&c_je;&c_r;&c_a;&c_t;&c_r;&c_a;&c_w;&c_l;&c_je;&c_n;&c_mol;&c_n;&c_je;</trd>
+  <trd lng="ca">digesti&oacute;</trd>
+  <trdgrp lng="cs">
+    <trd>digesce</trd>,
+    <trd>trávení</trd>
+  </trdgrp>
+  <trd lng="de">Verdauung</trd>
+  <trdgrp lng="fr">
+    <trd>digestion</trd>
+  </trdgrp>
+  <trd lng="hu">em&eacute;szt&eacute;s</trd>
+  <trd lng="nl">vertering</trd>
+  <trd lng="pl">trawienie</trd>
+  <trd
+  lng="ru">&c_p;&c_i;&c_shch;&c_je;&c_v;&c_a;&c_r;&c_je;&c_n;&c_i;&c_je;</trd>
+  <trd lng="sk">trávenie</trd>
+</drv>
+
+<drv mrk="digest.0iga">
+  <kap><tld/>iga</kap>
+  <snc>
+    <dif>
+      Faciliganta la <tld/>on.
+    </dif>
+  </snc>
+  <trd lng="ca">digestiu</trd>
+  <trd lng="cs">podporující trávení</trd>
+  <trd lng="de">verdauungsf&ouml;rdernd</trd>
+  <trd lng="fr">digestif<klr tip="ind"> (qui facilite la
+  digestion)</klr></trd>
+  <trd lng="hu">em&eacute;szt&eacute;st seg&iacute;t&odblac;</trd>
+  <trdgrp lng="nl">
+    <trd>digestief</trd>,
+    <trd>wat doet <ind>verteren</ind></trd>
+  </trdgrp>
+  <trd
+  lng="ru">&c_s;&c_p;&c_o;&c_s;&c_o;&c_b;&c_s;&c_t;&c_v;&c_u;&c_ju;&c_shch;&c_i;&c_j;
+  <ind>&c_p;&c_i;&c_shch;&c_je;&c_v;&c_a;&c_r;&c_je;&c_n;&c_i;&c_ju;</ind></trd>
+  <trd lng="sk">podporujúci trávenie</trd>
+</drv>
+
+<drv mrk="digest.0ebla">
+  <kap><tld/>ebla</kap>
+  <uzo tip="fak">FIZL</uzo>
+  <snc>
+    <dif>
+      Tia kiun oni povas <tld/>i.
+    </dif>
+    <trd lng="ca">digerible</trd>
+    <trd lng="nl">verteerbaar</trd>
+    <trd lng="pl">strawny</trd>
+  </snc>
+  <trd lng="cs">stravitelný</trd>
+  <trd lng="sk">stráviteľný</trd>
+</drv>
+
+<drv mrk="digest.ne0ebla">
+  <kap>ne<tld/>ebla</kap>
+  <uzo tip="fak">FIZL</uzo>
+  <snc>
+    <dif>
+      Tia kiun oni ne povas <tld/>i.
+    </dif>
+    <trd lng="ca">indigerible</trd>
+    <trd lng="nl">onverteerbaar</trd>
+    <trd lng="pl">niestrawny</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>nestravitelný</trd>,
+    <trd>nezáživný</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>nestráviteľný</trd>,
+    <trd>nezáživný</trd>
+  </trdgrp>
+</drv>
+
+</art>
+<!--
+$Log: digest.xml,v $
+Revision 1.22  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.21  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.20  2011/11/27 16:10:10  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.19  2009/09/23 17:26:07  revo
+Paul Peeraerts: +nl
+
+Revision 1.18  2009/06/14 16:31:06  revo
+Sebastian Cyprych: +~ebla +ne~ebla +trd pl
+
+Revision 1.17  2007/07/27 16:30:34  revo
+Tulio Flores: +tr pt
+
+Revision 1.16  2007/07/26 16:31:07  revo
+Tulio Flores: +tr pt
+
+Revision 1.15  2007/03/06 17:31:38  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.14  2006/09/05 15:23:50  revo
+Wieland Pusch: +trd de
+
+Revision 1.13  2005/04/12 16:32:28  revo
+-->
+</vortaro>

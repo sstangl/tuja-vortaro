@@ -1,0 +1,484 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: tag.xml,v 1.45 2015/07/04 08:37:44 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>tag</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="tag.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="tag.0o.luma">
+    <dif>
+      La hela parto de <ref tip="malprt" cel="diurn.0o">diurno</ref>,
+      la tempospaco dum kiu la suno, de sia levi&gcirc;o &gcirc;is sia
+      subiro, prilumas la koncernan parton de la tero:
+      <ekz>
+        mi veturis du <tld/>ojn kaj unu nokton
+        <fnt><bib>F</bib>, <lok>&FE; 29</lok></fnt>;
+      </ekz>
+      <ekz>
+        en la <tld/>o ni vidas la helan sunon
+        <fnt><bib>F</bib>, <lok>&FE; 10</lok></fnt>;
+      </ekz>
+      <ekz>
+        <tld/>o <tld/>on sekvas, sed ne similas
+        <fnt><bib>PrV</bib></fnt>;
+      </ekz>
+      <ekz>
+        du fojojn en &ccirc;iu <tld/>o iri &ccirc;erpi akvon
+        <fnt><bib>F</bib>, <lok>&FE; 13, la feino (da&ubreve;rigo)</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        en vespero de <tld/>o<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+    <trd lng="id">siang</trd>
+  </snc>
+  <snc mrk="tag.0o.12">
+    <dif>
+      Da&ubreve;ro de 12 horoj.
+    </dif>
+  </snc>
+  <snc mrk="tag.0o.lumo">
+    <dif>
+      Suna lumo:
+      <ekz>
+        <tld/>i&gcirc;as.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="tag.0o.diurn">
+    <dif>
+      <ref tip="dif" cel="diurn.0o">Diurno</ref>,
+      <tld/>nokto, terturno:
+      <ekz>
+        plimulti&gcirc;os viaj <tld/>oj<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+    <trd lng="he">&yod;&mem;&mem;&he;</trd>
+    <trd lng="pl">doba</trd>
+  </snc>
+  <snc mrk="tag.0o.dato">
+    <uzo tip="fak">KAL</uzo>
+    <dif>
+      Kalendara tempopunkto, <ref tip="malprt" cel="dat.0o">dato</ref>:
+      <ekz>
+        la semajno havas sep <tld/>ojn;
+      </ekz>
+      <ekz>
+        anta&ubreve; tri <tld/>oj mi vizitis vian kuzon
+        <fnt><bib>F</bib>, <lok>&FE; 20</lok></fnt>;
+      </ekz>
+      <ekz>
+        tiu &ccirc;i grava <tld/>o restos por mi &ccirc;iam
+        memorinda
+        <fnt><bib>F</bib>, <lok>&FE; 41</lok></fnt>;
+      </ekz>
+      <ekz>
+        en <tld/>o de mizero<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        reveni en la <tld/>o difinita;
+      </ekz>
+      <ekz>
+        preparata por la <tld/>o de milito<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+    <trd lng="id">hari</trd>
+  </snc>
+  <trd lng="be">&c_d;&c_z;&c_je;&c_n;&c_mol;</trd>
+  <trd lng="bg">&c_d;&c_je;&c_n;</trd>
+  <trd lng="cs">den</trd>
+  <trd lng="de">Tag</trd>
+  <trd lng="en">day</trd>
+  <trd lng="es">d&iacute;a</trd>
+  <trd lng="fr">jour</trd>
+  <trd lng="he">&yod;&vav;&fmem;</trd>
+  <trd lng="hu">nap</trd>
+  <trd lng="ku">roj</trd>
+  <trd lng="nl">dag</trd>
+  <trd lng="pl">dzie&nacute;</trd>
+  <trdgrp lng="pt">
+   <trd>dia</trd>,
+  </trdgrp>
+  <trd lng="ro">zi<klr>(u&abreve;)</klr></trd>
+  <trd lng="ru">&c_d;&c_je;&c_n;&c_mol;</trd>
+  <trd lng="sk">deň</trd>
+  <trd lng="sv">dag</trd>
+  <trd lng="tr">g&uuml;n</trd>
+  <trd lng="vo">del</trd>
+  <trdgrp lng="zh">
+    <trd>&#22825;<klr> [ti&#257;n]</klr></trd>,
+    <trd>&#26085;<klr> [r&igrave;]</klr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="tag.0a">
+  <kap><tld/>a</kap>
+  <snc>
+    <dif>
+      Okazanta a&ubreve; farata dum la <tld/>lumo.
+    </dif>
+  </snc>
+  <trd lng="be">&c_d;&c_z;&c_jo;&c_n;&c_n;&c_y;</trd>
+  <trd lng="cs">denní</trd>
+  <trdgrp lng="de">
+    <trd>Tages<klr>-</klr></trd>,
+    <trd>Tag<klr>-</klr></trd>,
+    <trd>am <ind>Tag(e)</ind></trd>
+  </trdgrp>
+  <trd lng="en">daytime</trd>
+  <trd lng="fr">diurne</trd>
+  <trd lng="hu">nappali</trd>
+  <trd lng="id"><ind>hari</ind>an</trd>
+  <trd lng="nl">dag-</trd>
+  <trd lng="pl">dzienny</trd>
+  <trd lng="ru">&c_d;&c_n;&c_je;&c_v;&c_n;&c_o;&c_j;</trd>
+  <trd lng="sk">denný</trd>
+  <trd lng="tr">g&uuml;nd&uuml;z</trd>
+</drv>
+
+<drv mrk="tag.0e">
+  <kap><tld/>e</kap>
+  <snc>
+    <dif>
+      Dum la <tld/>lumo:
+      <ekz>
+        la fi&scirc;kaptisto dormis bone kaj profunde, &ccirc;ar li
+        multe kuris <tld/>e
+        <fnt><bib>ElektFab</bib>, <lok>fi&scirc;kaptisto kaj lia
+        edzino</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_u;&c_d;&c_z;&c_je;&c_n;&c_mol;</trd>
+  <trdgrp lng="de">
+    <trd>tags</trd>,
+    <trd>am <ind>Tag(e)</ind></trd>
+  </trdgrp>
+  <trd lng="en">during the <ind>day</ind></trd>
+  <trd lng="fr">de <ind>jour</ind></trd>
+  <trd lng="he">&bet;&yod;&vav;&fmem;</trd>
+  <trd lng="hu">nappal</trd>
+  <trd lng="id">[<ind>hari</ind>] seharian</trd>
+  <trd lng="nl">overdag</trd>
+  <trd lng="pl">w ci&aogonek;gu <ind>dnia</ind></trd>
+  <trd lng="ro">zilnic</trd>
+  <trd lng="ru">&c_d;&c_n;&c_jo;&c_m;</trd>
+  <trd lng="sv">p&aring; <ind>dagen</ind></trd>
+  <trd lng="sk">de&ncaron;</trd>
+  <trd lng="tr">g&uuml;nd&uuml;zleyin</trd>
+</drv>
+
+<drv mrk="tag.0igxi">
+  <kap><tld/>i&gcirc;i</kap>
+  <snc mrk="tag.0igxi.KAL">
+    <gra><vspec>sensubjekta</vspec></gra>
+    <dif>
+      Ekesti <tld/>o:
+      <ekz>
+        matene, tuj post kiam <tld/>i&gcirc;is
+        <fnt>
+          <aut>M. Mirkadiri</aut>,
+          <vrk>Donaco el voja&gcirc;o</vrk>,
+          <bib>LOdE</bib>,
+          <lok>2003:3 (101)</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_d;&c_n;&c_je;&c_c;&c_mol;</trd>
+  <trd lng="fr">le <ind>jour</ind> se l&egrave;ve</trd>
+  <trd lng="nl">dag worden</trd>
+  <trdgrp lng="pl">
+    <trd>dnie&cacute;</trd>,
+    <trd>&sacute;wita&cacute;</trd>
+  </trdgrp>
+  <trd lng="ro">&icirc;n zori</trd>
+  <trd lng="tr">g&uuml;n a&gbreve;ar&inodot;yor</trd>
+</drv>
+
+<drv mrk="tag.antaux0o">
+  <kap>anta&ubreve;<tld/>o, <var><kap>anta&ubreve;a <tld/>o</kap></var></kap>
+  <snc>
+    <dif>
+      La <tld/>o &gcirc;uste anta&ubreve;a al la koncerna:
+      <ekz>
+        foje, <ind>en anta&ubreve;<tld/>o</ind> de sabato &scirc;ia
+        patro venis en la bienon
+        <fnt><bib>Far1</bib>, <lok>&ccirc;apitro 9a</lok></fnt>;
+        <trd lng="ru">&c_n;&c_a;&c_k;&c_a;&c_n;&c_u;&c_n;&c_je;</trd>
+      </ekz>
+      <ekz>
+        li <klr>...</klr> rakontis pri sia interparolo
+        kun la viktimo en la anta&ubreve;a <tld/>o
+        <fnt><bib>UrdHadda</bib>, <lok>p. 26a</lok></fnt>.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="hierau.0o">hiera&ubreve;o</ref>
+  </snc>
+    <trdgrp lng="be">
+    <trd>&c_u;&c_ch;&c_o;&c_r;&c_a;&c_sh;&c_n;&c_ib; &c_d;&c_z;&c_je;&c_n;&c_mol;</trd>,
+    <trd>&c_p;&c_a;&c_p;&c_ja;&c_r;&c_e;&c_d;&c_n;&c_ib; &c_d;&c_z;&c_je;&c_n;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>vorherige <ind>Tag</ind></trd>,
+    <trd>Vortag</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>veille<klr tip="ind"> (jour
+    pr&eacute;c&eacute;dent)</klr></trd>,
+    <trd>jour pr&eacute;c&eacute;dent</trd>
+  </trdgrp>
+  <trd lng="id"><ind>hari</ind> sebelumnya</trd>
+  <trd lng="nl">dag voordien</trd>
+  <trd lng="pl">poprzedni <ind>dzie&nacute;</ind></trd>
+  <trdgrp lng="ru">
+    <trd>&c_v;&c_ch;&c_je;&c_r;&c_a;&c_sh;&c_n;&c_i;&c_j; &c_d;&c_je;&c_n;&c_mol;</trd>,
+    <trd>&c_p;&c_r;&c_o;&c_sh;&c_je;&c_d;&c_sh;&c_i;&c_j; &c_d;&c_je;&c_n;&c_mol;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="tag.cxi0e">
+  <kap>&ccirc;i-<tld/>e</kap>
+  <uzo tip="stl">RAR</uzo>
+  <snc mrk="tag.cxi0e.hodiaux">
+    <ref tip="dif" cel="hodiau.0">hodia&ubreve;</ref>
+    <ekz>
+      multajn pli gravajn aferojn oni diskutas &ccirc;i-<tld/>e en la
+      nova&jcirc;grupo
+      <fnt>
+      <aut>F. Zenith</aut>,
+      <vrk>Opera 7.03 finfine en esperanto!</vrk>,
+      <lok>soc.culture.esperanto, 2003-03-24</lok></fnt>.
+    </ekz>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_jo;&c_n;&c_mol;&c_n;&c_ja;</trd>,
+    <trd>&c_s;&c_ja;&c_g;&c_o;&c_d;&c_n;&c_ja;</trd>
+  </trdgrp>
+  <trd lng="de">heute</trd>
+  <trd lng="fr">ce <ind>jour</ind>-ci</trd>
+  <trd lng="id"><ind>hari</ind> ini</trd>
+  <trd lng="nl">dezer <ind>dagen</ind></trd>
+  <trd lng="pl">dzisiejszego <ind>dnia</ind></trd>
+  <trd lng="ro">azi</trd>
+  <trd lng="ru">&c_s;&c_je;&c_g;&c_o;&c_d;&c_n;&c_ja;</trd>
+  <trd lng="tr">bu g&uuml;n</trd>
+</drv>
+
+<drv mrk="tag.cxiu0a">
+  <kap>&ccirc;iu<tld/>a</kap>
+  <snc>
+    <dif>
+      Okazanta a&ubreve; aperanta &ccirc;iun <tld/>on:
+      <ekz>
+        &ccirc;iu<tld/>a gazeto.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_sh;&c_t;&c_o;&c_d;&c_z;&c_jo;&c_n;&c_n;&c_y;</trd>
+    <trd lng="de">t&auml;glich</trd>
+    <trd lng="en">daily</trd>
+    <trd lng="es">cada d&iacute;a</trd>
+    <trd lng="he">&yod;&vav;&mem;&yod;</trd>
+    <trdgrp lng="hu">
+      <trd>napi</trd>,
+      <trd>mindennapi</trd>
+    </trdgrp>
+    <trd lng="id">[<ind>tiap</ind>] setiap hari</trd>
+    <trd lng="nl">dagelijks</trd>
+    <trd lng="pl">codzienny</trd>
+    <trd lng="ro">zilnic</trd>
+    <trd lng="ru">&c_je;&c_zh;&c_je;&c_d;&c_n;&c_je;&c_v;&c_n;&c_y;&c_j;
+    </trd>
+    <trd lng="sv">daglig</trd>
+  </snc>
+  <snc>
+    <dif>
+      Ordinara, banala:
+      <ekz>
+        la griza &ccirc;iu<tld/>eco de la vivo
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="proz.0a">proza</ref>
+    </refgrp>
+    <trd lng="de">allt&auml;glich</trd>
+    <trdgrp lng="hu">
+      <trd>mindennapos</trd>,
+      <trd>h&eacute;tk&ouml;znapi</trd>
+    </trdgrp>
+    <trd lng="be">&c_a;&c_b;&c_y;&c_d;&c_z;&c_je;&c_n;&c_n;&c_y;</trd>
+    <trdgrp lng="en">
+      <trd>everyday</trd>,
+      <trd>casual</trd>
+    </trdgrp>
+    <trd lng="he">&yod;&vav;&mem;&yod;&vav;&mem;&yod;</trd>
+    <trd lng="nl">dagdagelijks</trd>
+    <trdgrp lng="pl">
+      <trd>szary <ind>dzie&nacute;</ind></trd>,
+      <trd>zwyczajny <ind>dzie&nacute;</ind></trd>,
+      <trd><ind>dzie&nacute;</ind> jak co dzie&nacute;</trd>,
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_o;&c_b;&c_y;&c_d;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>,
+      <trd>&c_k;&c_a;&c_zh;&c_d;&c_o;&c_d;&c_n;&c_je;&c_v;&c_n;&c_y;&c_j;</trd>
+    </trdgrp>
+    <trd lng="sv">vardaglig</trd>
+  </snc>
+  <trd lng="fr">quotidien</trd>
+  <trd lng="tr">g&uuml;nl&uuml;k</trd>
+</drv>
+
+<drv mrk="tag.naskigx0o">
+  <kap>naski&gcirc;<tld/>o</kap>
+  <snc mrk="tag.naskigx0o.KAL">
+    <uzo tip="fak">KAL</uzo>
+    <dif>
+      <tld lit="T"/>o de ies naski&gcirc;o,
+      kaj &ccirc;iuj sekvajaraj datrevenoj:
+      <ekz>
+        &ccirc;ar liaj gepatroj mortis kiam li estis tre juna, li 
+        ne sciis la precizan daton de sia naski&gcirc;<tld/>o
+        <fnt>
+          <aut>Lao She, trad. Wang Chongfang</aut>,
+          <vrk><url
+          ref="http://edu.i-lo.tarnow.pl/esp/lern/librejo/0026/">
+          Kamelo &Scirc;jangzi</url></vrk>,
+          <lok>1988</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">anniversaire<klr> (de naissance)</klr></trd>
+  <trd lng="id"><ind>hari</ind> ulang tahun</trd>
+</drv>
+
+<drv mrk="tag.posta0o">
+  <kap>posta <tld/>o</kap>
+  <snc>
+    <dif>
+      La <tld/>o &gcirc;uste posta al la koncerna:
+      <ekz>
+        la postan <tld/>on iris mi vizite
+        <fnt><aut>P. Peneter</aut>,
+        <vrk>Sekretaj Sonetoj</vrk>, <lok>VII</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="morgau.0o">morga&ubreve;o</ref>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_z;&c_a;&c_w;&c_t;&c_r;&c_a;&c_sh;&c_n;&c_ib; &c_d;&c_z;&c_je;&c_n;&c_mol;</trd>,
+    <trd>&c_n;&c_a;&c_s;&c_t;&c_u;&c_p;&c_n;&c_y; &c_d;&c_z;&c_je;&c_n;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>folgende <ind>Tag</ind></trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>lendemain</trd>,
+    <trd>jour suivant</trd>
+  </trdgrp>
+  <trd lng="id"><ind>hari</ind> berikutnya</trd>
+  <trd lng="nl">volgende <ind>dag</ind></trd>
+  <trdgrp lng="pl">
+    <trd>przysz&lstroke;y <ind>dzie&nacute;</ind></trd>,
+    <trd>nadchodz&aogonek;cy <ind>dzie&nacute;</ind></trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_z;&c_a;&c_v;&c_t;&c_r;&c_a;&c_sh;&c_n;&c_i;&c_j; &c_d;&c_je;&c_n;&c_mol;</trd>,
+    <trd>&c_s;&c_l;&c_je;&c_d;&c_u;&c_ju;&c_shch;&c_i;&c_j; &c_d;&c_je;&c_n;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="tr">ertesi g&uuml;n</trd>
+</drv>
+
+<drv mrk="tag.unu0a">
+  <kap><ofc>*</ofc>unu<tld/>a</kap>
+  <snc>
+    <dif>
+      Da&ubreve;ranta nur unu tagon.
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="efemer.0a">efemera</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_a;&c_d;&c_n;&c_a;&c_d;&c_z;&c_jo;&c_n;&c_n;&c_y;</trd>
+  <trd lng="cs">jednodenní</trd>
+  <trd lng="de">eint&auml;gig</trd>
+  <trd lng="en">single-<ind>day</ind></trd>
+  <trd lng="fr">eph&eacute;m&egrave;re<klr> (d'un jour)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>egynapos</trd>,
+    <trd>napos</trd>
+  </trdgrp>
+  <trd lng="nl">eendags-</trd>
+  <trd lng="pl">jednodniowy</trd>
+  <trd lng="ru">
+  &c_o;&c_d;&c_n;&c_o;&c_d;&c_n;&c_je;&c_v;&c_n;&c_y;&c_j;</trd>
+  <trd lng="sk">jednodenný</trd>
+</drv>
+
+<drv mrk="tag.0ekajnokte">
+  <kap><tld/>e kaj nokte</kap>
+  <uzo tip="stl">FRAZ</uzo>
+  <snc mrk="tag.0ekajnokte.cxiam">
+    <dif>
+      <ref tip="vid" cel="konsta.0e">Konstante</ref>, sen&ccirc;ese,
+      persiste:
+      <ekz>
+        <tld/>e kaj nokte apud &gcirc;i staris gardostaranto
+        <fnt><bib>Fab3</bib>, <lok>folio el la &ccirc;ielo</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_d;&c_n;&c_jo;&c_m; &c_ib; &c_n;&c_o;&c_ch;&c_ch;&c_u;</trd>,
+    <trd>&c_d;&c_z;&c_je;&c_n;&c_mol; &c_ib; &c_n;&c_o;&c_ch;</trd>,
+    <trd>&c_k;&c_r;&c_u;&c_g;&c_l;&c_a;&c_s;&c_u;&c_t;&c_a;&c_ch;&c_n;&c_a;</trd>
+  </trdgrp>
+  <trd lng="cs">ve dne v noci</trd>
+  <trd lng="de">Tag und Nacht</trd>
+  <trd lng="fr">nuit et jour</trd>
+  <trd lng="id"><ind>siang</ind> malam</trd>
+  <trd lng="nl">dag en nacht</trd>
+  <trd lng="pl">dniem i noc&aogonek;</trd>
+  <trd lng="ru">&c_d;&c_n;&c_jo;&c_m; &c_i; &c_n;&c_o;&c_ch;&c_mol;&c_ju;</trd>
+  <trd lng="sk">vo dne v noci</trd>
+  <trd lng="tr">g&uuml;nd&uuml;z ve gece</trd>
+</drv>
+</art>
+<!--
+$Log: tag.xml,v $
+Revision 1.45  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.44  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.43  2014/06/18 16:10:15  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.42  2014/01/02 21:10:24  revo
+Jeromo Vasxe: + naskigx~o
+
+Revision 1.41  2013/03/21 20:10:49  revo
+Dmitri Gabinski: redakto: +trd be
+
+Revision 1.40  2012/10/23 00:13:58  revo
+Neil Roberts: aldonu la etikedon <var>
+
+Revision 1.39  2010/11/01 17:30:29  revo
+Agustin Garcia Lopez: +trd es (cxiu - a)
+
+Revision 1.38  2009/08/27 16:32:16  revo
+Emmanuel Debanne: +trd ku
+
+Revision 1.37  2009/08/26 16:31:48  revo
+Emmanuel Debanne: +trd tr
+
+Revision 1.36  2009/07/05 16:39:32  revo
+-->
+</vortaro>

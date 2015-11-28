@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: seksologi.xml,v 1.3 2015/07/04 08:37:43 revo Exp $">
+<kap>
+  <rad>seksologi</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="seksologi.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="seksologi.0o.MED">
+    <uzo tip="fak">MED</uzo>
+    <dif>
+      Studo de homaj kondutoj kaj problemoj rilataj al sekso:
+      <ekz>
+        <tld/>o estas la la&ubreve;sistema studado de homa sekseco
+        <fnt><bib>Viki</bib>, <lok><url 
+        ref="http://eo.wikipedia.org/wiki/Seksologio">seksologio</url>, 
+        2010-01-25</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">sexuologie</trd>
+  <trd lng="fr">sexologie</trd>
+  <trd lng="sk">sexuológia</trd>
+</drv>
+
+<drv mrk="seksologi.0isto">
+  <kap><tld/>isto</kap>
+  <snc mrk="seksologi.0isto.MED">
+    <uzo tip="fak">MED</uzo>
+    <dif>
+      Fakulo pri <ref tip="vid" cel="seksologi.0o.MED"><tld/>o</ref>.
+    </dif>
+  </snc>
+  <trd lng="fr">sexologue</trd>
+</drv>
+</art>
+
+<!--
+$Log: seksologi.xml,v $
+Revision 1.3  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.2  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.1  2010/02/04 17:30:54  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

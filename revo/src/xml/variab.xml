@@ -1,0 +1,257 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: variab.xml,v 1.34 2015/07/04 08:37:45 revo Exp $">
+<kap>
+  <rad>variabl</rad>/o
+</kap>
+<drv mrk="variab.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="variab.0o.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>PIV1</bib></fnt>
+    <dif>
+      Io <ref cel="vari.0anta.MAT">varianta</ref>; simbolo, uzata por
+      indiki
+      tian objekton, plejofte elementon de la fonto-aro de
+      <ref cel="bild.0igo.MAT">bildigo</ref>:
+      <ekz>
+        en la skriba&jcirc;o <frm><k>y</k> = <k>f</k>(<k>x</k>)</frm>, 
+        <frm><k>x</k></frm> estas la <ind>nedependa <tld/>o</ind>
+        <klr>(indikanta la <ref
+        cel="argume.0o.donitajxo">argumenton</ref> de
+        <ref cel="funkci.0o.MAT">funkcio</ref>
+        <frm><k>f</k></frm>)</klr>,
+        <trd lng="be">&c_n;&c_je;&c_z;&c_a;&c_l;&c_je;&c_zh;&c_n;&c_a;&c_ja; 
+<ind>&c_z;&c_mol;&c_m;&c_je;&c_n;&c_n;&c_a;&c_ja;</ind></trd>
+        <trd lng="ca"><ind>variable</ind> independent</trd>
+        <trd lng="de">unabh&auml;ngige <ind>Variable</ind></trd>
+        <trd lng="en">independent <ind>variable</ind></trd>
+        <trd lng="fa">&a_m;&a_t;&a_gh;&f_y;&a_r; 
+&a_m;&a_s;&a_t;&a_q;&a_l;</trd>
+        <trd lng="fr">variable ind&eacute;pendante</trd>
+        <trd lng="hu">f&uuml;ggetlen <ind>v&aacute;ltoz&oacute;</ind></trd>        
+        <trd lng="pl">zmienna niezale&zdot;na</trd>
+        <trd 
+lng="ru">&c_n;&c_je;&c_z;&c_a;&c_v;&c_i;&c_s;&c_i;&c_m;&c_a;&c_ja; 
+<ind>&c_p;&c_je;&c_r;&c_je;&c_m;&c_je;&c_n;&c_n;&c_a;&c_ja;</ind></trd>
+      </ekz>
+      <ekz>
+        kaj <frm><k>y</k></frm> la <ind>dependa <tld/>o</ind> 
+        <klr>(indikanta la valoron de la funkcio)</klr>.
+        <trd lng="be">&c_z;&c_a;&c_l;&c_je;&c_zh;&c_n;&c_a;&c_ja; 
+<ind>&c_z;&c_mol;&c_m;&c_je;&c_n;&c_n;&c_a;&c_ja;</ind></trd>
+        <trd lng="ca"><ind>variable</ind> dependent</trd>
+        <trd lng="de">abh&auml;ngige <ind>Variable</ind></trd>
+        <trd lng="en">dependent <ind>variable</ind></trd>
+        <trd lng="fa">&a_m;&a_t;&a_gh;&f_y;&a_r; 
+&a_w;&a_A;&a_b;&a_s;&a_t;&a_h;</trd>
+        <trd lng="fr">variable d&eacute;pendante</trd>
+        <trd lng="hu">f&uuml;gg&odblac; <ind>v&aacute;ltoz&oacute;</ind></trd>        
+        <trd lng="pl">zmienna zale&zdot;na</trd>
+        <trd lng="ru">&c_z;&c_a;&c_v;&c_i;&c_s;&c_i;&c_m;&c_a;&c_ja; 
+<ind>&c_p;&c_je;&c_r;&c_je;&c_m;&c_je;&c_n;&c_n;&c_a;&c_ja;</ind></trd>
+      </ekz>
+    </dif>
+    <rim>
+      Anstata&ubreve; diri, ke
+      <ekz>
+        kiam <tld/>o <frm><k>x</k></frm> egalas al <frm>10</frm>,
+        tiam...
+      </ekz>
+      , oni ofte uzas pli tradician dirmanieron
+      <ekz>
+        kiam <tld/>o <frm><k>x</k></frm> alprenas valoron <frm>10</frm> 
+      </ekz>
+      .
+    </rim>
+  </snc>
+  <snc mrk="variab.0o.komp">
+    <uzo tip="fak">KOMP</uzo>
+    <dif>
+      En <ref tip="malprt" cel="lingv.0o.program">programlingvo</ref>,
+      programa objekto posedanta
+      <ref tip="prt" cel="nom.0o.de.io">nomon</ref> kaj
+      <ref tip="prt" cel="valor.0o.mat">valoron</ref>, kiun lastan
+      la programo povas ekzameni kaj eble e&ccirc; &scirc;an&gcirc;i:
+      <ekz>
+        deklari, uzi <tld/>on;
+      </ekz>
+      <ekz>
+        loka, malloka <tld/>o.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_z;&c_mol;&c_m;&c_je;&c_n;&c_n;&c_a;&c_ja;</trd>, 
+    <trd>&c_p;&c_je;&c_r;&c_a;&c_m;&c_je;&c_n;&c_n;&c_a;&c_ja;</trd>
+  </trdgrp>
+  <trd lng="ca">variable</trd>
+  <trd lng="cs">variabilita</trd>
+  <trd lng="de">Variable</trd>
+  <trd lng="en">variable</trd>
+  <trd lng="es">variable</trd>
+  <trd lng="fa">&a_m;&a_t;&a_gh;&f_y;&a_r;</trd>
+  <trd lng="fr">variable<klr tip="ind"> (subst.)</klr></trd>
+  <trd lng="hu">v&aacute;ltoz&oacute;</trd>
+  <trd lng="nl">variabele</trd>
+  <trd lng="pl">zmienna</trd>
+  <trd lng="pt">vari&aacute;vel</trd>
+  <trd lng="ru">&c_p;&c_je;&c_r;&c_je;&c_m;&c_je;&c_n;&c_n;&c_a;&c_ja;</trd>
+  <trdgrp lng="sk">
+    <trd>premenn&aacute;</trd>,
+    <trd>variabilita</trd>
+  </trdgrp>
+  <trd lng="zh">变量 [<ind>biàn liàng</ind>]</trd>
+</drv>
+
+<drv mrk="variab.hazarda0o">
+  <kap>hazarda <tld/>o, <var><kap>loteca <tld/>o</kap></var></kap>
+  <uzo tip="fak">MAT</uzo>
+  <snc>
+    <dif>
+      <klr>(super <ref cel="spac.probablo0o">probablospaco</ref>
+      <frm>(<g>&Omega;</g>,<g>A</g>,P)</frm>)</klr>
+      <ref cel="mezur.0ebla.MAT">Mezurebla</ref>
+      <ref tip="super" cel="bild.0igo.MAT">bildigo</ref> <frm>X</frm> 
+      de la probablospaco al la aro de reeloj, provizita per la
+      <ref cel="algebr.borelasigma0o">borela &sigma;-algebro</ref>; alidire:
+      tia funkcio <frm>X</frm>, ke la inversa bildo per &gcirc;i de ajna 
+      intervalo <frm>]-&#8734;,x[</frm> estas 
+      <ref cel="okaz.0o.MAT">okazo</ref>, 
+      ofte signata per <frm>(X &lt; <k>x</k>)</frm>:
+      <ekz>
+        hazarda variablo <frm>X</frm> difinas probablon 
+        <frm>P<sub>X</sub> = P&#9702;X<sup>-1</sup></frm> 
+        super la aro de reeloj provizita per la borela &sigma;-algebro.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="variab.stokasta0o">stokasta <tld/>o.</ref>
+    <refgrp tip="vid">
+      <ref cel="distri.probablo0o">probablodistribuo</ref>,
+      <ref cel="funkci.distribua0o">distribua funkcio</ref>,
+      <ref cel="dens.probablo0o">probablodenso</ref>,
+      <ref cel="momant.noa0o">momanto</ref>,
+      <ref cel="ekspek.0o">ekspekto</ref>,
+      <ref cel="varian1.0o">varianco</ref>,
+      <ref cel="devi.varianca0o">varianca devio</ref>,
+      <ref cel="varian1.kun0o">kunvarianco</ref>,
+      <ref cel="korela1.0o">korelacio</ref>;
+    </refgrp>
+    <refgrp tip="vid">
+      <ref cel="diskre.0a.nombrebla">diskreta</ref>,
+      <ref cel="diskre.mal0a.nenombrebla">maldiskreta</ref>,
+      <ref cel="pend.nede0a.hazardaj_variabloj">nedependa</ref>.
+    </refgrp>
+    <rim>
+      La formoj <ctl>hazarda <tld/>o</ctl> kaj <ctl>loteca <tld/>o</ctl>
+      ne
+      troveblas en niaj fontoj, sed ni opinias ilin preferindaj al la
+      sinonima
+      <ctl>stokasta <tld/>o</ctl>, &ccirc;ar la bezono por aparta
+      radiko &leftquot;<ref cel="stokas">stokast</ref>&rightquot; ne
+      &scirc;ajnas al ni pravigebla &ccirc;i-okaze.
+    </rim>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_v;&c_y;&c_p;&c_a;&c_d;&c_k;&c_o;&c_v;&c_a;&c_ja; 
+      <ind>&c_v;&c_je;&c_l;&c_ib;&c_ch;&c_y;&c_n;&c_ja;</ind></trd>,
+    <trd>&c_v;&c_y;&c_p;&c_a;&c_d;&c_k;&c_o;&c_v;&c_a;&c_ja; 
+      <ind>&c_z;&c_mol;&c_m;&c_je;&c_n;&c_n;&c_a;&c_ja;</ind></trd> 
+  </trdgrp>
+  <trd lng="ca"><ind>variable</ind> aleat&ograve;ria</trd>
+  <trdgrp lng="cs">
+    <trd>náhodná proměnná</trd>,
+    <trd>náhodná veličina</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Zufallsvariable</trd>,
+    <trd>Zufallsgr&ouml;&szlig;e</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>variate</trd>,
+    <trd>random <ind>variable</ind></trd>
+  </trdgrp>
+  <trd lng="fa">&a_m;&a_t;&a_gh;&f_y;&a_r; 
+&a_t;&a_S;&a_A;&a_d;&a_f;&f_y;</trd>
+  <trd lng="fr">variable al&eacute;atoire</trd>
+  <trd lng="hu">val&oacute;sz&iacute;n&udblac;s&eacute;gi 
+<ind>v&aacute;ltoz&oacute;</ind></trd>
+  <trd lng="pl">zmienna losowa</trd>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_l;&c_u;&c_ch;&c_a;&c_j;&c_n;&c_a;&c_ja; 
+<ind>&c_v;&c_je;&c_l;&c_i;&c_ch;&c_i;&c_n;&c_a;</ind></trd>,
+    <trd>&c_s;&c_l;&c_u;&c_ch;&c_a;&c_j;&c_n;&c_a;&c_ja; 
+<ind>&c_p;&c_je;&c_r;&c_je;&c_m;&c_je;&c_n;&c_n;&c_a;&c_ja;</ind></trd>
+  </trdgrp>
+  <trd lng="sk">náhodná premenná</trd>
+</drv>
+
+<drv mrk="variab.stokasta0o">
+  <kap>stokasta <tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>PIV1</bib></fnt>
+  <snc>
+    <ref tip="dif" cel="variab.hazarda0o">hazarda <tld/>o.</ref>
+  </snc>
+  <trd lng="ca"><ind>variable</ind> aleat&ograve;ria</trd>
+  <trdgrp lng="cs">
+    <trd>náhodná proměnná</trd>,
+    <trd>náhodná veličina</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Zufallsvariable</trd>,
+    <trd>Zufallsgr&ouml;&szlig;e</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>variate</trd>,
+    <trd>random <ind>variable</ind></trd>
+  </trdgrp>
+  <trd lng="fa">&a_m;&a_t;&a_gh;&f_y;&a_r; 
+&a_t;&a_S;&a_A;&a_d;&a_f;&f_y;</trd>
+  <trd lng="fr">variable al&eacute;atoire</trd>
+  <trd lng="hu">val&oacute;sz&iacute;n&udblac;s&eacute;gi 
+<ind>v&aacute;ltoz&oacute;</ind></trd>
+  <trd lng="pl">zmienna losowa</trd>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_l;&c_u;&c_ch;&c_a;&c_j;&c_n;&c_a;&c_ja; 
+<ind>&c_v;&c_je;&c_l;&c_i;&c_ch;&c_i;&c_n;&c_a;</ind></trd>,
+    <trd>&c_s;&c_l;&c_u;&c_ch;&c_a;&c_j;&c_n;&c_a;&c_ja; 
+<ind>&c_p;&c_je;&c_r;&c_je;&c_m;&c_je;&c_n;&c_n;&c_a;&c_ja;</ind></trd>
+  </trdgrp>
+  <trd lng="sk">náhodná premenná</trd>
+</drv>
+</art>
+<!--
+$Log: variab.xml,v $
+Revision 1.34  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.33  2015/06/28 12:03:50  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.32  2015/06/26 23:10:17  revo
+Darcy Shen: +trd zh
+
+Revision 1.31  2013/04/09 12:10:11  revo
+Sebastian Cyprych: kor trd pl
+
+Revision 1.30  2012/10/23 00:14:11  revo
+Neil Roberts: aldonu la etikedon <var>
+
+Revision 1.29  2012/08/04 16:10:10  revo
+Marc Rausell: + trd ca
+
+Revision 1.28  2010/05/16 16:30:57  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.27  2005/01/24 19:03:03  revo
+Marc Bavant: kor duobligitan punkton
+
+Revision 1.26  2005/01/18 17:31:26  revo
+Jozefo Horvath: +trd hu
+Revision 1.25  2003/12/06 17:31:03  revo
+Zmicier Lapcionak: + trd be
+-->
+</vortaro>

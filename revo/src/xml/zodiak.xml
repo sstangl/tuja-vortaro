@@ -1,0 +1,154 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: zodiak.xml,v 1.29 2015/07/04 08:37:46 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>zodiak</rad>/o
+</kap>
+<drv mrk="zodiak.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">AST</uzo>
+  <snc>
+    <dif>
+      &Ccirc;iela zono, kies mezon okupas la ekliptiko,
+      kaj kiu enhavas &ccirc;iujn poziciojn de la planedoj,
+      kaj krome la 13 <ref tip="prt"
+      cel="stel.0aro.stelfiguro">stelaro</ref>jn,
+      kiujn &scirc;ajnas trairi la suno dum sia jara rondiro.
+    </dif>
+    <trd lng="pt">zod&iacute;aco</trd>
+  </snc>
+  <snc>
+    <dif>
+      La sama &ccirc;iela zono, dividata ekde la printempa ekvinokso
+      en 12 samlar&gcirc;ajn partojn
+      <klr>(signoj de <tld/>o)</klr> uzatajn en astrologio:
+      <ekz>
+        oni ne devas forgesi kiu stelo kaj kiu signo de la <tld
+        lit="Z"/>o
+        estras la malsanulon
+        <fnt><bib>Far2</bib>, <lok>&ccirc;ap. 1</lok></fnt>.
+      </ekz>
+    </dif>
+    <rim>
+      La <tld/>aj signoj ricevis siajn nomojn anta&ubreve; &ccirc;.
+      2000 jaroj de la stelaroj kiuj tiutempe videblis en la
+      koncernaj &ccirc;ielpartoj.
+      Pro la malrapida movo de la ekvinoksoj la&ubreve;longe de la
+      ekliptiko,
+      la astronomia kaj astrologia zodiako ne plu koincidas.
+    </rim>
+    <trd lng="pt">zod&iacute;aco</trd>
+  </snc>
+  <refgrp tip="prt">
+    <ref cel="bov.B0o">Bovo</ref>,
+    <ref cel="fisx.F0oj">Fi&scirc;oj</ref>,
+    <ref cel="gxemel.Gx0oj">&Gcirc;emeloj</ref>,
+    <ref cel="kankr.K0o">Kankro</ref>,
+    <ref cel="kaprik.0o">Kaprikorno</ref>,
+    <ref cel="leon.L0o">Leono</ref>,
+    <ref cel="pes.P0ilo">Pesilo</ref>,
+    <ref cel="paf.P0isto">Pafisto</ref>,
+    <ref cel="skorpi.S0o">Skorpio</ref>,
+    <ref cel="sxaf.Sx0o">&Scirc;afo</ref>,
+    <ref cel="versx.V0isto">Ver&scirc;isto</ref>,
+    <ref cel="virg.V0ulino">Virgulino</ref>
+  </refgrp>
+  <trd lng="be">&c_z;&c_a;&c_d;&c_y;&c_ja;&c_k;</trd>
+  <trd lng="ca">zod&iacute;ac</trd>
+  <trd lng="de">Tierkreis</trd>
+  <trd lng="el">&zeta;&omega_ton;&delta;&jota;&omikron;</trd>
+  <trd lng="en">zodiac</trd>
+  <trdgrp lng="es">
+    <trd>zodiaco</trd>,
+    <trd>zod&iacute;aco</trd>
+  </trdgrp>
+  <trdgrp lng="fa">
+    <trd>&a_d;&a_A;&f_y;&a_r;&a_t_marbuta;&a_A;&a_l;&a_b;&a_r;&a_w;&a_j;</trd>,
+    <trd>&a_m;&a_n;&a_T;&a_q;&a_t_marbuta;&a_A;&a_l;&a_b;&a_r;&a_w;&a_j;</trd>,
+    <trd>&a_f;&a_l;&f_k;&zwnj;&a_A;&a_l;&a_b;&a_r;&a_w;&a_j;</trd>
+  </trdgrp>
+  <trd lng="fr">zodiaque</trd>
+  <trdgrp lng="hu">
+    <trd>&aacute;llat&ouml;v</trd>,
+    <trd>zodi&aacute;kus</trd>
+  </trdgrp>
+  <trd lng="it">zodiaco</trd>
+  <trd lng="nl">dierenriem</trd>
+  <trd lng="ru">&c_z;&c_o;&c_d;&c_i;&c_a;&c_k;</trd>
+  <trdgrp lng="tr">
+    <trd>bur&ccedil;lar ku&scedil;a&gbreve;&inodot;</trd>,
+    <trd>Zodyak</trd>
+  </trdgrp>
+  <trdgrp lng="sv">
+    <trd>zodiak</trd>,
+    <trd>djurkrets</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>zodiak</trd>,
+    <trd>zverokurh</trd>,
+    <trd>zvieratník</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>zodiak</trd>,
+    <trd>zvířetník</trd>,
+    <trd>zvěrokruh</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: zodiak.xml,v $
+Revision 1.29  2015/07/04 08:37:46  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.28  2015/06/28 10:33:41  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.27  2012/01/05 16:10:16  revo
+Marc Rausell: +trd ca
+
+Revision 1.26  2009/09/12 16:30:53  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.25  2006/10/22 18:03:29  revo
+Wieland Pusch: +kor referenco stel.0aro.stelfiguro
+
+Revision 1.24  2006/09/19 05:36:18  revo
+Wolfram Diestel: +ref al stelaro
+
+Revision 1.23  2005/05/16 17:49:11  revo
+Luiz Portella: +trd pt
+
+Revision 1.22  2003/10/12 16:30:47  revo
+Jeromo Vasxe: - sencela ref
+
+Revision 1.21 2002/10/23 20:40:53 revo
+aktualigo de malnovaj fnt-indikoj enkondukante <bib>
+
+Revision 1.20 2002/08/18 18:00:48 revo
+Dmitri Gabinski: +trd be
+
+Revision 1.19 2002/05/08 16:31:42 revo
+Eduardo M. Kalinowski: ald trd el, it
+
+Revision 1.18 2001/11/15 19:15:11 revo
+Jozefo Horvath: +trd hu
+
+Revision 1.17 2001/07/22 18:16:42 revo
+Bertil Wennergren: Korektis &leftquot;ek de&rightquot; al &leftquot;ekde&rightquot;.
+
+Revision 1.16 2001/02/18 20:09:10 revo
+oficialeco per programo de JM Lugrin
+
+Revision 1.15 2001/02/15 08:15:21 revo
+Jerano Zachrisson: aldono de sveda traduko
+
+Revision 1.14 2001/01/19 17:11:59 revo
+Paul Peeraerts: kor en
+<rim>
+  ; +trd nl
+  Revision 1.13 2000/11/05 17:11:57 revo
+  -->
+  </vortaro>

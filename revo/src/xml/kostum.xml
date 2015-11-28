@@ -1,0 +1,136 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: kostum.xml,v 1.19 2015/07/04 08:37:38 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>kostum</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="kostum.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="kostum.0o.TEKS">
+    <uzo tip="fak">TEKS</uzo>
+    <dif>
+      Maniero sin vesti; vesto propra al iu nacio, klaso, tempo, ofico,
+      cirkonstanco:
+      <ekz>
+        la <tld/>o de l' antikvaj Romianoj;
+      </ekz>
+      <ekz>
+        klerika, militista, ceremonia, negli&gcirc;a <tld/>o;
+      </ekz>
+      <ekz>
+        la kongresanoj dancis en naciaj <tld/>oj.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="tualet.0o.TEKS">tualeto</ref>,
+      <ref cel="komple2.vesto0o.TEKS">vestokompleto</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_k;&c_a;&c_s;&c_mol;&c_c;&c_ju;&c_m;</trd>,
+    <trd>&c_s;&c_t;&c_r;&c_o;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>kostým</trd>,
+    <trd>kroj</trd>,
+    <trd>úbor</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Kleidung</trd>,
+    <trd>Bekleidung</trd>,
+    <trd>Tracht</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>costume</trd>,
+    <trd><klr>style of </klr> dress</trd>,
+    <trd>garb</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>costume</trd>,
+    <trd>mise<klr> (costume)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>viselet</trd>,
+    <trd>n&eacute;pviselet</trd>,
+    <trd>koszt&uuml;m</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>kostium</trd>,
+    <trd>str&oacute;j</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>traje t&iacute;pico</trd>,
+    <trd>veste</trd>,    
+    <trd>costume <klr tip="amb">(vest.)</klr></trd>
+  </trdgrp>
+  <trd lng="ru">&c_k;&c_o;&c_s;&c_t;&c_ju;&c_m;</trd>
+  <trdgrp lng="sk">
+    <trd>kostým</trd>,
+    <trd>kroj</trd>,
+    <trd>úbor</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kostum.ban0o">
+  <kap>ban<tld/>o</kap>
+  <snc mrk="kostum.ban0o.TEKS">
+    <uzo tip="fak">TEKS</uzo>
+    <dif>
+      Vesto a&ubreve; vestaro portata dum banado, na&gcirc;ado:
+      <ekz>
+        &scirc;i preferas unupecajn ban<tld/>ojn
+        <fnt>
+          <aut>-</aut>,
+          <lok><url ref="http://eo.lernu.net/">lernu.net</url>,
+          2009</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">dámské plavky</trd>
+  <trdgrp lng="fr">
+    <trd>costume de bain</trd>,
+    <trd>maillot de bain</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>str&oacute;j k&aogonek;pielowy</trd>,
+    <trd>k&aogonek;piel&oacute;wki</trd>
+  </trdgrp>
+  <trd lng="sk">plavky</trd>
+</drv>
+</art>
+<!--
+$Log: kostum.xml,v $
+Revision 1.19  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2013/04/03 09:10:13  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.16  2012/01/27 12:10:10  revo
+Jeromo Vasxe: + ref
+
+Revision 1.15  2009/09/10 16:32:02  revo
+Jeromo Vasxe: + ban~o
+
+Revision 1.14  2006/11/11 17:30:25  revo
+Tulio Flores: +tr pt
+
+Revision 1.13  2006/07/19 16:31:45  revo
+Jeromo Vasxe: + trd fr
+
+Revision 1.12 2004/04/23 16:31:34 revo
+Jozefo Horvath: +trd hu
+
+Revision 1.11 2002/12/17 20:10:34 revo
+Dmitri Gabinski: +trd be
+
+Revision 1.10 2002/03/18 18:08:12 revo
+-->
+</vortaro>

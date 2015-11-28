@@ -1,0 +1,134 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: adopt.xml,v 1.22 2015/07/04 08:37:29 revo Exp $">
+<kap>
+  <ofc>1</ofc><rad>adopt</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="adopt.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="adopt.0i.JUR">
+    <uzo tip="fak">JUR</uzo>
+    <uzo tip="fak">GEN</uzo>
+    <dif>
+      Alpreni, per oficiala, la&ubreve;le&gcirc;a akto, iun kiel sian
+      propran filon a&ubreve; filinon:
+      <ekz>
+        miaj gepatroj anka&ubreve; <tld/>is kvar knabinojn de apuda 
+        vila&gcirc;o
+        <fnt>
+          <aut>Emil</aut>,
+          <vrk>Decidema mi &ccirc;iam estas</vrk>,
+          <lok>en: Vivprotokoloj, 2009</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_u;&c_s;&c_y;&c_n;&c_a;&c_w;&c_l;&c_ja;&c_c;&c_mol;</trd>, 
+      <trd>&c_u;&c_d;&c_a;&c_ch;&c_a;&c_r;&c_a;&c_c;&c_mol;</trd>
+    </trdgrp>
+    <trd lng="fr">adopter<klr tip="ind"> (un enfant)</klr></trd>
+    <trdgrp lng="hu">
+      <trd>&ouml;r&ouml;kbe fogad</trd>, 
+      <trd>adopt&aacute;l</trd>
+    </trdgrp>
+    <trd lng="nl">adopteren</trd>
+    <trd lng="pl">adoptowa&cacute;</trd>
+    <trd lng="pt">adotar</trd>
+    <trdgrp lng="ru">
+      <trd>&c_u;&c_s;&c_y;&c_n;&c_o;&c_v;&c_l;&c_ja;&c_t;&c_mol;</trd>,
+      <trd>&c_u;&c_d;&c_o;&c_ch;&c_je;&c_r;&c_ja;&c_t;&c_mol;</trd>
+    </trdgrp>
+    <trd lng="sk">adoptova&tcaron;</trd>
+  </snc>
+  <snc mrk="adopt.0i.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Alproprigi al si: 
+      <ekz>
+        <tld/>i opinion, metodon, konduton, manieron,
+        lingvon, kostumon, modon.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_p;&c_r;&c_y;&c_m;&c_a;&c_c;&c_mol;</trd>, 
+      <trd>&c_u;&c_s;&c_p;&c_r;&c_y;&c_m;&c_a;&c_c;&c_mol;</trd>, 
+      <trd>&c_z;&c_a;&c_s;&c_v;&c_o;&c_j;&c_v;&c_a;&c_c;&c_mol;</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>adopter<klr tip="ind"> (choisir)</klr></trd>,
+      <trd>choisir</trd>,
+      <trd>&eacute;lire</trd>,
+      <trd>se <ind>rallier</ind> (&agrave;)</trd>,
+      <trd>se <ind>ranger</ind> (&agrave;)</trd>,
+      <trd>prendre<klr tip="ind"> (adopter)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>mag&aacute;&eacute;v&aacute; tesz</trd>, 
+      <trd>felvesz<klr tip="ind"> (pl. szok&aacute;st)</klr></trd>
+    </trdgrp>
+    <trd lng="nl">aannemen</trd>
+    <trdgrp lng="pl">
+      <trd>przyjmowa&cacute;</trd>,
+      <trd>adoptowa&cacute;</trd>
+    </trdgrp>
+    <trdgrp lng="pt">
+      <trd>aceitar</trd>,
+      <trd>admitir</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_p;&c_r;&c_i;&c_n;&c_i;&c_m;&c_a;&c_t;&c_mol;</trd>,
+      <trd>&c_v;&c_o;&c_s;&c_p;&c_r;&c_i;&c_n;&c_i;&c_m;&c_a;&c_t;&c_mol;</trd>,
+      <trd>&c_u;&c_s;&c_v;&c_a;&c_i;&c_v;&c_a;&c_t;&c_mol;</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="ca">adoptar</trd>
+  <trdgrp lng="cs">
+    <trd>adoptovat</trd>,
+    <trd>osvojit si</trd>,
+    <trd>přijmout za vlastní</trd>
+  </trdgrp>
+  <trd lng="en">adopt</trd>
+  <trd lng="es">adoptar</trd>
+  <trd lng="it">adottare</trd>
+  <trdgrp lng="sk">
+    <trd>osvoji&tcaron; si</trd>,
+    <trd>osvojiť</trd>,
+    <trd>prijať za vlastného</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: adopt.xml,v $
+Revision 1.22  2015/07/04 08:37:29  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.21  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.20  2015/01/10 06:11:12  revo
+Jeromo Vasxe: + ekz
+
+Revision 1.19  2012/08/04 09:10:20  revo
+Marc Rausell: + trd ca
+
+Revision 1.18  2011/02/21 23:10:19  revo
+Jeromo Vasxe: - num + mrk + fak jur gen
+
+Revision 1.17  2008/09/20 07:22:01  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.16  2005/03/06 17:34:10  revo
+Marc Bavant: +trd fr
+
+Revision 1.15  2002/10/30 18:37:15  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.14  2002/09/07 17:38:54  revo
+Viliam Bur: +sk trd
+
+Revision 1.13  2002/04/22 16:32:41  revo
+-->
+</vortaro>

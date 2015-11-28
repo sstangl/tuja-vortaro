@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: impoz.xml,v 1.13 2015/07/04 08:37:36 revo Exp $">
+<kap>
+  <rad>impoz</rad>/i
+</kap>
+<drv mrk="impoz.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="impoz.0i.TIP">
+    <uzo tip="fak">TIP</uzo>
+    <dif>
+      Aran&gcirc;i tiel la meton de presataj pa&gcirc;oj sur granda folio,
+      ke post faldado de la folio ili aperas en &gcirc;usta direkto kaj ordo:
+      <!-- anta&ubreve;a difino:    
+      Aran&gcirc;i tiamaniere la diversajn enpa&gcirc;igitajn
+      komposta&jcirc;ojn de folio,
+      ke ili estu la&ubreve;vice, kiam la folio estas faldita:
+      -->
+    </dif>
+    <rim mrk="impoz.0i.RIM_ARK">
+      En malnova verko oni trovas <em>impozi</em> en la senco,
+      kiun havas nun <ref tip="vid" cel="impon.0i">imponi</ref>:
+      <ekz>
+        neordinare <tld/>anta kaj bela viro
+        <fnt><bib>Voja&gcirc;Imp</bib>, <lok>&ccirc;e A&hcirc;med' Pa&scirc;a', la granda
+        pentristo</lok></fnt>.
+      </ekz>
+    </rim>
+  </snc>
+  <trd lng="be">&c_v;&c_ja;&c_r;&c_s;&c_t;&c_a;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>lámat stránky</trd>,
+    <trd>seřadit stránky</trd>,
+    <trd>vyřadit tiskovou formu</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>ausschie&szlig;en</trd>,
+    <trd>umbrechen</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>effectuer l'<ind>imposition</ind><klr tip="ind">
+    (typo.)</klr></trd>,
+    <trd>imposer<klr tip="ind"> (typo.)</klr></trd>
+  </trdgrp>
+  <trd lng="hu">kil&odblac;<klr tip="ind"> (nyomd&aacute;szat)</klr></trd>
+  <trd lng="nl">opmaken</trd>
+  <trd lng="pt">impor<klr tip="amb"> (livros, tipografia)</klr></trd>
+  <trd lng="ru">&c_v;&c_je;&c_r;&c_s;&c_t;&c_a;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>lámať stránky</trd>,
+    <trd>usporiadať sádzané stránky</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: impoz.xml,v $
+Revision 1.13  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.12  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.11  2006/01/24 17:31:22  revo
+Jeromo Vasxe: + rim, provis simpligi dif.
+
+Revision 1.10 2005/10/26 16:32:00 revo
+Luiz Portella: +trd pt
+
+Revision 1.9 2004/08/22 16:31:29 revo
+Dmitri Gabinski: +trd be
+
+Revision 1.8 2004/01/07 17:30:41 revo
+Jozefo Horvath: +trd hu
+
+Revision 1.7 2002/07/14 17:31:19 revo
+Ulrich Fellmann: + 2 trd de
+
+Revision 1.6 2002/01/27 17:31:13 revo
+Marc Bavant: +trd fr
+
+Revision 1.5 2001/06/05 18:10:52 revo
+Yury Finkel: +trd ru
+
+Revision 1.4 2001/03/26 20:34:59 revo
+-->
+</vortaro>

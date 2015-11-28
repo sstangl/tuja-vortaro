@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: damask.xml,v 1.26 2015/06/29 16:29:36 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>damask</rad>/o
+</kap>
+<drv mrk="damask.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc>
+    <uzo tip="fak">TEKS</uzo>
+    <dif>
+      <ref tip="super" cel="sxtof.0o.TEKS">&Scirc;tofo</ref> el silko
+      kun
+      brilaj enteksitaj desegnoj:
+      <ekz>
+        la&ubreve;dire <tld/>o estis enkondukita en E&ubreve;ropon
+        de Marko-Pa&ubreve;lo.
+      </ekz>
+    </dif>
+  </snc>
+  <ref tip="hom" cel="damask2.D0o">Damasko</ref>
+  <trd lng="bg">&c_d;&c_a;&c_m;&c_a;&c_s;&c_k;&c_a;</trd>
+  <trdgrp lng="ca">
+    <trd>dom&agrave;s<klr> (teixit)</klr></trd>,
+    <trd>dam&agrave;s<klr> (teixit)</klr></trd>
+  </trdgrp>
+  <trd lng="cs">dama&scaron;ek</trd>
+  <trd lng="de">Damast</trd>
+  <trd lng="en">damask</trd>
+  <trd lng="es">damasco<klr> (tejido)</klr></trd>
+  <trd lng="fr">damas<klr tip="ind"> (&eacute;toffe)</klr></trd>
+  <trd lng="hu">damaszt</trd>
+  <trd lng="nl">damast</trd>
+  <trd lng="pl">adamaszek</trd>
+  <trd lng="pt">damasco</trd>
+  <trd lng="ru">&c_d;&c_a;&c_m;&c_a; <klr
+  tip="amb">(&c_t;&c_k;&c_a;&c_n;&c_mol;)</klr></trd>
+  <trd lng="sv">damastv&auml;v</trd>
+  <trd lng="sk">damašek</trd>
+</drv>
+
+<drv mrk="damask.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <uzo tip="fak">TEKS</uzo>
+    <dif>
+      Teksi tiel, ke la rezulto similas al <tld/>o:
+      <ekz>
+        <tld/>i kotonan tolon..
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="ca">adomassar</trd>
+  <trd lng="cs">tk&aacute;t dama&scaron;ek</trd>
+  <trd lng="en">damask</trd>
+  <trd lng="fr">damasser</trd>
+  <trd lng="hu">sz&odblac; <klr tip="amb">(damsztt&aacute;)</klr></trd>
+  <trd lng="sk">tkať damasek</trd>
+  <trd lng="sv">damastv&auml;va</trd>
+</drv>
+</art>
+<!--
+$Log: damask.xml,v $
+Revision 1.26  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.25  2014/05/17 07:10:42  revo
+Damien Brucker: +hom
+
+Revision 1.24  2014/05/14 06:10:23  revo
+Damien Brucker: translokigo de Damasko al nova artikolo
+
+Revision 1.23  2014/05/12 16:10:17  revo
+Damien Brucker: +trd fr
+
+Revision 1.22  2013/07/26 15:10:13  revo
+Joop Eggen: +trd nl bg
+
+Revision 1.21  2013/03/27 15:10:16  revo
+Dmitri Gabinski: redakto: +trd be; kor de uksleco en urbonomo
+
+Revision 1.20  2012/08/27 14:10:32  revo
+Marc Rausell: ++ trd ca
+
+Revision 1.19  2009/08/28 16:31:25  revo
+Russ Williams: +trd en
+
+Revision 1.18  2009/04/28 16:30:37  revo
+-->
+</vortaro>

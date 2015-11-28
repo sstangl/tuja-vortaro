@@ -1,0 +1,197 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: fon.xml,v 1.21 2015/07/04 08:37:34 revo Exp $">
+<kap><ofc>5</ofc>
+  <rad>fon</rad>/o <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="fon.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="fon.0o.KOMUNE">
+    <dif>
+      Efektive ebena a&ubreve; pro malproksimeco &scirc;ajne ebena
+      parto, el kiu io elreliefi&gcirc;as a&ubreve; elkontrastas:
+      <ekz>
+        la dometo &ccirc;arme aspektis sur la <tld/>o de
+        foliori&ccirc;aj arboj;
+      </ekz>
+      <ekz>
+        oni vidis &scirc;ian profilon sur la ru&gcirc;eta
+        <tld/>o de la flamo<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        sur la <tld/>o de la horizonto desegni&gcirc;is ruinoj;
+      </ekz>
+      <ekz>
+        la trunkoj desegnis sin nigre kaj klare sur la blanka
+        ne&gcirc;o<tld/>o;
+      </ekz>
+      <ekz>
+        verda stelo sur blanka <tld/>o;
+      </ekz>
+      <ekz>
+        ora &ccirc;eneto balanci&gcirc;is sur la malhela <tld/>o de lia
+        surtuto;
+      </ekz>
+      <ekz>
+        <uzo tip="fak">KOMP</uzo>
+        elekti helan, nigran, buntan <tld/>on de la ekrano
+        <klr>(kp <ref tip="ant" cel="fon.mal0o">malfono</ref>)</klr>;
+      </ekz>
+      <ekz>
+        <uzo tip="fak">KOMP</uzo>
+        la komputilo rulas kontra&ubreve;virusilon en <ind>fona
+        tasko</ind>;
+        <trd lng="fr">t&acirc;che de fond</trd>
+        <trd lng="hu">h&aacute;tt&eacute;rfeladat</trd>
+        <trd lng="nl">achtergrondopdracht</trd>
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        la <tld/>o de tiu romano estas Germanujo;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        <klr>[en la bruo,]</klr> sur la <tld/>o de interparoladoj oni
+        povis
+        distingi sonojn de flutoj kaj kriojn de la &ccirc;efoj
+        <fnt><bib>Far2</bib>, <lok>&ccirc;ap. 18</lok></fnt>.
+      </ekz>
+    </dif>
+
+    <adm>
+      * La du komputikaj sencoj meritus apartan snc, ne nur ekz.
+      * Enkonduki &leftquot;kontra&ubreve;virusilo&rightquot;. <aut>MB</aut>
+    </adm>
+
+    <refgrp tip="vid">
+      Ne konfuzu kun:
+      <ref cel="fund.0o">fundo</ref>,
+      <ref cel="profun.0o">profundo</ref>.
+    </refgrp>
+
+    <trdgrp lng="be">
+      <trd>&c_t;&c_l;&c_o;</trd>,
+      <trd>&c_f;&c_o;&c_n;</trd>
+    </trdgrp>
+    <trd lng="de">Hintergrund</trd>
+    <trd lng="en">background</trd>
+    <trdgrp lng="fr">
+      <trd>fond<klr tip="ind"> (arri&egrave;re-plan)</klr></trd>,
+      <trd>arri&egrave;re-plan</trd>,
+      <trd>lointain<klr tip="ind"> (arri&egrave;re-plan)</klr></trd>
+    </trdgrp>
+    <trd lng="hu">h&aacute;tt&eacute;r</trd>
+    <trd lng="nl">achtergrond</trd>
+    <trd lng="pl">t&lstroke;o</trd>
+    <trdgrp lng="pt">
+      <trd>fundo</trd>,
+      <trd>cor de <ind>fundo</ind></trd>
+    </trdgrp>
+    <trd lng="ru">&c_f;&c_o;&c_n;</trd>
+    <trd lng="sv">bakgrund</trd>
+    <trd lng="ca">fons</trd>
+    <trd lng="es">fondo</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>podklad</trd>,
+    <trd>spodek</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>podklad</trd>,
+    <trd>spodok</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="fon.mal0o">
+  <kap>mal<tld/>o</kap>
+  <uzo tip="fak">KOMP</uzo>
+  <snc>
+    <dif>
+      En dialogo kun komputilo, la &ccirc;efa koloro por signoj sur
+      la ekrano (kontraste al la <tld/>o).
+    </dif>
+    <trdgrp lng="pl">
+      <trd>kolor liter</trd>,
+      <trd>kolor pierwszego planu</trd>
+    </trdgrp>
+  </snc>
+  <adm>
+    &Scirc;ajnas al mi, ke tiu vorto havas samtiom da sencoj, kiom
+    &leftquot;~o&rightquot;. Devus esti eble paroli pri la mal~o de
+    pentra&jcirc;o,
+    de muzika peco ks. Cetere, ene de komputika kampo, mi havas
+    la impreson, ke la ideo pri koloro ne nepre trudi&gcirc;as.
+    Ekz-e en la angla mi vidas &leftquot;foreground colour&rightquot;,
+    ne simple
+    &leftquot;foreground&rightquot;. Same en la franca. <aut>MB</aut>
+  </adm>
+  <trd lng="de">Vordergrund</trd>
+  <trd lng="en">foreground <klr>(a screen color)</klr></trd>
+  <trdgrp lng="fr">
+    <trd>premier <ind>plan</ind></trd>,
+    <trd>avant-plan</trd>
+  </trdgrp>
+  <trd lng="hu">el&odblac;t&eacute;r</trd>
+  <trd lng="nl">voorgrond</trd>
+  <trd lng="sv">f&ouml;rgrund</trd>
+</drv>
+
+<drv mrk="fon.0a.regximo">
+  <kap><tld/>a re&gcirc;imo</kap>
+  <uzo tip="fak">KOMP</uzo>
+  <snc>
+    <dif>
+      Plenumado de taskoj (procezoj) havantaj malpli grandan prioritaton
+      kiam la pli altprioritataj taskoj atendas iun risurcon a&ubreve;
+      eventon kaj sen <ref tip="ant" cel="dialog.0o.KOMP">dialogo</ref>
+      kun la uzula terminalo.
+    </dif>
+  </snc>
+  <trd lng="be">&c_f;&c_o;&c_n;&c_a;&c_v;&c_y; &c_r;&c_e;&c_zh;&c_y;&c_m;</trd>
+  <trd lng="de">Hintergrundverarbeitung</trd>
+  <trd lng="en">background processing</trd>
+  <trd lng="fr">r&eacute;gime de t&acirc;che de fond</trd>
+  <trd lng="hu">h&aacute;tt&eacute;rfeldolgoz&aacute;s</trd>
+  <trd lng="nl">achtergrondverwerking</trd>
+  <trdgrp lng="pl">
+    <trd>praca w <ind>tle</ind></trd>,
+    <trd>dzia&lstroke;anie w <ind>tle</ind></trd>,
+    <trd>przetwarzanie w <ind>tle</ind></trd>
+  </trdgrp>
+  <trd lng="ru">&c_f;&c_o;&c_n;&c_o;&c_v;&c_y;&c_j; &c_r;&c_je;&c_zh;&c_i;&c_m;</trd>
+</drv>
+</art>
+<!--
+$Log: fon.xml,v $
+Revision 1.21  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.19  2012/09/07 18:10:07  revo
+Jeromo Vasxe: + mrk
+
+Revision 1.18  2011/07/13 19:11:23  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.17  2007/06/05 16:30:37  revo
+Tulio Flores: +tr pt
+
+Revision 1.16  2007/06/02 19:48:00  revo
+Tulio Flores: +tr pt
+
+Revision 1.15  2005/04/06 18:45:26  revo
+Lluis Batlle i Rossell: +trd ca,es
+
+Revision 1.14  2003/12/23 17:40:11  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.13  2003/10/15 16:31:23  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.12  2002/12/06 19:39:11  revo
+-->
+</vortaro>

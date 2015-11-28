@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: makro.xml,v 1.10 2015/07/04 08:37:39 revo Exp $">
+<kap>
+  <rad>makro</rad>/o <fnt><bib>KompLeks</bib></fnt>
+</kap>
+<drv mrk="makro.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="makro.0o.KOMP">
+    <uzo tip="fak">KOMP</uzo>
+    <dif>
+      Simpla programeto, listo de komandoj, ordinare registrita dum
+      unuafoja mana farado kaj poste a&ubreve;tomate refarebla:
+      <ekz>
+        maldekstre <klr>...</klr> estas nomoj de <tld/>oj, dekstre estas
+        sinsekvo de komandoj
+        <fnt>
+        <aut>Y. Finkel</aut>,
+        <vrk>Unired</vrk>,
+        <lok>Helpo, &ccirc;apitro &leftquot;Dosiero actions.ini&rightquot;, 2003-01-27</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_m;&c_a;&c_k;&c_r;&c_a;&c_s;</trd>
+  <trd lng="ca">macro</trd>
+  <trdgrp lng="cs">
+    <trd>instrukce</trd>,
+    <trd>makro</trd>
+  </trdgrp>
+  <trd lng="de">Makro</trd>
+  <trd lng="fr">macro<klr tip="amb"> (informatique)</klr></trd>
+  <trd lng="nl">macro</trd>
+  <trd lng="pl">makro</trd>
+  <trd lng="pt">macro<klr tip="amb"> (inform&aacute;tica)</klr></trd>
+  <trd lng="ru">&c_m;&c_a;&c_k;&c_r;&c_o;&c_s;</trd>
+  <trdgrp lng="sk">
+    <trd>inštrukcia</trd>,
+    <trd>makro</trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log: makro.xml,v $
+Revision 1.10  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.9  2015/06/29 16:33:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.8  2013/04/08 20:10:08  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.7  2013/02/15 07:10:16  revo
+Dmitri Gabinski: redakto: +trd be
+
+Revision 1.6  2012/07/31 12:10:15  revo
+Marc Rausell: + trd ca
+
+Revision 1.5  2009/10/09 16:30:53  revo
+Paul Peeraerts: +nl
+
+Revision 1.4  2006/07/19 16:31:21  revo
+Tulio Flores: +tr pt
+
+Revision 1.3  2005/12/27 17:31:03  revo
+Wieland Pusch: +trd de
+
+Revision 1.2  2005/12/22 17:31:52  revo
+Yury Finkel: +trd ru
+
+Revision 1.1  2005/12/19 17:31:12  revo
+-->
+</vortaro>

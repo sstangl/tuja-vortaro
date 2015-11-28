@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: ulcer.xml,v 1.25 2015/04/13 22:10:15 revo Exp $">
+   <kap>
+     <ofc>*</ofc>
+     <rad>ulcer</rad>/o <fnt><bib>PIV1</bib></fnt>
+   </kap>
+   <drv mrk="ulcer.0o">
+   <kap>
+     <ofc>*</ofc>
+     <tld/>o
+   </kap>
+   <snc mrk="ulcer.0o.MED">
+   <uzo tip="fak">MED</uzo>
+     <dif>
+       <ref tip="lst" cel="vund.0o" lst="voko:malsanoj">Vundo</ref> de
+       histo, kiu ne povas cikatri&gcirc;i:
+       <ekz><tld/>o de la stomako</ekz>;
+      <ekz>
+        Winston <klr>[...]</klr> havis varikan <tld/>on super sia
+        dekstra maleolo
+        <fnt>
+          <aut>George Orwell, trad. Donald Broadribb</aut>,
+          <vrk><url
+          ref="http://i-espero.info/files/elibroj/eo%20-%20orwell,%20george%20-%201984.pdf">Mil
+          Na&ubreve;cent Okdek Kvar</url></vrk>,
+          <lok>p. 1</lok>
+        </fnt>.
+      </ekz>
+     </dif>
+   </snc>
+   <trd lng="be">&c_ja;&c_z;&c_v;&c_a;</trd>
+   <trd lng="bg">&c_ja;&c_z;&c_v;&c_a;</trd>
+   <trd lng="br">gouli<klr tip="ind"> (gwiadenno&ugrave; ar
+   c'horf)</klr></trd>
+   <trd lng="ca">&uacute;lcera</trd>
+   <trdgrp lng="de">
+     <trd>Geschw&uuml;r</trd>,
+     <trd>Ulkus [science]</trd>
+   </trdgrp>
+   <trd lng="el">&epsilon_ton;&lambda;&kappa;&omikron;&sigma_fina;</trd>
+   <trd lng="en">ulcer</trd>
+   <trd lng="es">&uacute;lcera</trd>
+   <trd lng="fi">haavauma</trd>
+   <trd lng="fr">ulc&egrave;re</trd>
+   <trdgrp lng="he">
+     <trd>&kaf;&yod;&bet;</trd>,
+     <trd>&alef;&vav;&lamed;&qof;&vav;&samekh;</trd>
+   </trdgrp>
+   <trd lng="hu">fek&eacute;ly</trd>
+   <trd lng="id">borok</trd>
+   <trd lng="it">ulcera</trd>
+   <trd lng="nl">zweer</trd>
+   <trd lng="no">s&aring;r</trd>
+   <trd lng="pl">wrz&oacute;d</trd>
+   <trd lng="pt">&uacute;lcera</trd>
+   <trd lng="ru">&c_ja;&c_z;&c_v;&c_a;</trd>
+   <trd lng="tr">&uuml;lser</trd>
+</drv>
+</art>
+<!--
+$Log: ulcer.xml,v $
+Revision 1.25  2015/04/13 22:10:15  revo
+Filip van Laenen: +trd(no)
+
+Revision 1.24  2015/01/24 08:10:16  revo
+Alain Gerard: +fnt
+
+Revision 1.23  2014/11/19 08:10:46  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.22  2013/10/09 20:10:27  revo
+Wolfram Diestel: ref al lst malsanoj
+
+Revision 1.21  2013/05/30 19:10:09  revo
+Joop Eggen: +trd bg
+
+Revision 1.20  2011/12/12 11:10:17  revo
+Marc Rausell: +trd ca
+
+Revision 1.19  2009/08/25 16:33:46  revo
+Emmanuel Debanne: +trd tr
+
+Revision 1.18  2009/08/18 19:18:43  revo
+-->
+</vortaro>

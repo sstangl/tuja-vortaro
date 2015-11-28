@@ -1,0 +1,117 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: legend.xml,v 1.21 2015/07/04 08:37:38 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>legend</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="legend.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="legend.0o.BELE">
+    <uzo tip="fak">BELE</uzo>
+    <dif>
+      Rakonto pri malnovaj okazinta&jcirc;oj, en kiu intermiksi&gcirc;as historiaj kaj
+      fabelaj tradiciaj faktoj:
+      <ekz>
+        lian fantazion jam frue stimulis la <tld/>o pri la Babelturo
+        <fnt><bib>Dan&gcirc;Lng</bib>, <lok>1.1.</lok></fnt>;
+      </ekz>
+      <ekz>
+        popolaj <tld/>oj;
+      </ekz>
+      <ekz>
+        la ora <tld/>o <klr>(pri sanktuloj)</klr>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_l;&c_je;&c_g;&c_je;&c_n;&c_d;&c_a;</trd>
+  <trd lng="br">mojenn</trd>
+  <trdgrp lng="cs">
+    <trd>báje</trd>,
+    <trd>legenda</trd>,
+    <trd>pověst</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Sage</trd>,
+    <trd>Legende</trd>
+  </trdgrp>
+  <trd lng="el">&my;&ypsilon_ton;&theta;&omikron;&sigma_fina;</trd>
+  <trdgrp lng="en">
+    <trd>legend</trd>,
+    <trd>myth</trd>
+  </trdgrp>
+  <trd lng="es">leyenda</trd>
+  <trd lng="fr">l&eacute;gende</trd>
+  <trd lng="hu">legenda</trd>
+  <trd lng="nl">legende</trd>
+  <trdgrp lng="pt">
+    <trd>lenda</trd>,
+    <trd>legenda <klr>(lenda)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_l;&c_je;&c_g;&c_je;&c_n;&c_d;&c_a;</trd>,
+    <trd>&c_s;&c_k;&c_a;&c_z;&c_a;&c_n;&c_i;&c_je;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>báj</trd>,
+    <trd>legenda</trd>,
+    <trd>povesť</trd>
+  </trdgrp>
+  <trd lng="sv">legend</trd>
+</drv>
+
+<drv mrk="legend.urba0o">
+  <kap>urba <tld/>o</kap>
+  <snc mrk="legend.urba0o.BELE">
+    <dif>
+      Rakonto aperanta en moderna, precipe urba medio, miksanta faktojn 
+      kun fantazia&jcirc;oj:
+      <ekz>
+        <ctl>ventumila morto</ctl> estas urba <tld/>o, kiu originis en 
+        Sudkoreio kaj nun disvasti&gcirc;as al aliaj aziaj landoj
+        <fnt>
+          <aut>Arono kaj Karlina</aut>,
+          <vrk><url ref="http://radioverda.com/">
+          Radio Verda</url></vrk>,
+          <lok>rv151, 2009-09-05</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">l&eacute;gende urbaine</trd>
+</drv>
+</art>
+<!--
+$Log: legend.xml,v $
+Revision 1.21  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:33:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.19  2010/01/18 17:30:49  revo
+Jeromo Vasxe: + urba ~o
+
+Revision 1.18 2006/09/01 18:30:22 revo
+Tulio Flores: +tr pt
+
+Revision 1.17 2005/03/28 17:15:50 revo
+Alan ar Gall: +trd br
+
+Revision 1.16 2003/03/31 16:31:28 revo
+Zmicier Lapcionak: + trd be
+
+Revision 1.15 2002/10/23 20:39:35 revo
+aktualigo de malnovaj fnt-indikoj enkondukante <bib>
+
+Revision 1.14 2002/08/26 17:33:06 revo
+Eduardo M. Kalinowski: ald trd el, pt
+
+Revision 1.13 2002/08/21 17:31:57 revo
+Jozefo Horvath: +trd hu
+
+Revision 1.12 2001/11/15 19:15:55 revo
+-->
+</vortaro>

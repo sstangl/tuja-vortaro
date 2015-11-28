@@ -1,0 +1,347 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: esprim.xml,v 1.28 2015/07/04 08:37:33 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>esprim</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="esprim.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      Montri sian penson a&ubreve; senton per paroloj, gestoj a&ubreve;
+      aliaj
+      a&ubreve;deblaj a&ubreve; videblaj signoj:
+      <ekz>
+        se mi volas <tld/>i direkton, mi uzas akuzativon<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        liaj rigardoj <tld/>is teruron;
+      </ekz>
+      <ekz>
+        <tld/>i koran dankon<fnt>Z</fnt>,
+      </ekz>
+      <ekz>
+        sian favoron<fnt>Z</fnt>,
+      </ekz>
+      <ekz>
+        opinion, deziron, &gcirc;ojon, kontentecon, doloron.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="dir.el0i">eldiri</ref>.
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_v;&c_y;&c_r;&c_a;&c_zh;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="ca">expressar</trd>
+  <trdgrp lng="cs">
+    <trd>dát najevo</trd>,
+    <trd>projevit</trd>,
+    <trd>projevit</trd>,
+    <trd>projevovat</trd>,
+    <trd>vyj&aacute;d&rcaron;it</trd>,
+    <trd>vyjadřovat</trd>,
+    <trd>vyjádřit</trd>,
+    <trd>vyslovit</trd>,
+    <trd>říci</trd>
+  </trdgrp>
+  <trd lng="en">express</trd>
+  <trd lng="es">expresar</trd>
+  <trdgrp lng="fa">
+    <trd>&a_b;&f_y;&a_A;&a_n; &f_k;&a_r;&a_d;&a_n;</trd>,
+    <trd>&a_A;&a_b;&a_r;&a_A;&a_z; &f_k;&a_r;&a_d;&a_n;</trd>,
+    <trd>&a_A;&a_Z;&a_h;&a_A;&a_r; &f_k;&a_r;&a_d;&a_n;</trd>,
+  </trdgrp>
+  <trd lng="fr">exprimer<klr tip="ind"> (dire)</klr></trd>
+  <trd lng="hu">kifejez</trd>
+  <trd lng="pl">wyra&zdot;a&cacute;</trd>
+  <trdgrp lng="pt">
+    <trd>exprimir</trd>,
+    <trd>expressar</trd>
+  </trdgrp>
+  <trd lng="ru">&c_v;&c_y;&c_r;&c_a;&c_z;&c_i;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>prejaviť</trd>,
+    <trd>vyjadriť</trd>,
+    <trd>vysloviť</trd>
+  </trdgrp>
+  <trd lng="sv">uttrycka</trd>
+</drv>
+
+<drv mrk="esprim.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="esprim.0o.ado">
+    <dif>
+      Montro de penso a&ubreve; sento per paroloj a&ubreve; gestoj:
+      <ekz>
+        mal&gcirc;oja <tld/>o ku&scirc;is sur &scirc;ia frunto.
+      </ekz>
+    </dif>
+    <trdgrp lng="fa">
+      <trd>&a_b;&f_y;&a_A;&a_n;</trd>,
+      <trd>&a_A;&a_b;&a_r;&a_A;&a_z;</trd>,
+      <trd>&a_A;&a_Z;&a_h;&a_A;&a_r;</trd>
+    </trdgrp>
+    <trd lng="pl">wyraz</trd>
+  </snc>
+  <snc mrk="esprim.0o.ajxo">
+  <uzo tip="fak">LIN</uzo>
+    <dif>
+      Dirmaniero:
+      <ekz>
+        tiu <tld/>o estas malklara, internacie nekomprenebla;
+      </ekz><ekz>
+      novaj <tld/>oj devas esti enkondukataj nur iom post iom,
+      nerimarkeble<fnt><bib>LR</bib>, <lok>Respondo 25, La Revuo, 1907,
+      Oktobro</lok></fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="fa">
+      <trd>&a_ayn;&a_b;&a_A;&a_r;&a_t;</trd>,
+      <trd>&a_A;&a_S;&a_T;&a_l;&a_A;&a_H;</trd>
+    </trdgrp>
+    <trd lng="pl">wymowa</trd>
+  </snc>
+  <snc mrk="esprim.0o.KOMP">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>MatVort</bib></fnt>
+    <uzo tip="fak">KOMP</uzo>
+    <dif>
+      Sinsekvo da <ref cel="simbol.0o.SCI">simboloj</ref>, indikanta 
+      matematikan a&ubreve; programan objekton:
+      <ekz>
+        la <tld/>o <frm><k>a</k><sup><k>x</k></sup>-2</frm> konsistas el
+        kvar 
+        simboloj kaj prezentas rezulton de du sinsekvaj operacioj;
+      </ekz>
+      <ekz>
+        kalkulu la <tld/>on <frm><k>a</k><sup>2</sup>+5<k>a</k>-2</frm>,
+        
+        kiam <frm><k>a</k> = 2</frm>;
+      </ekz>
+      <ekz>
+        egala&jcirc;o konsistas el du <tld/>oj kunigitaj per egalsigno.
+      </ekz>
+    </dif>
+    <refgrp tip="sub">
+      Komparu kun:
+      <ref cel="formul.0o.MAT">formulo</ref>.
+    </refgrp>
+    <trd lng="fa">&a_ayn;&a_b;&a_A;&a_r;&a_t;</trd>
+    <trdgrp lng="pl">
+      <trd>wyra&zdot;enie</trd>,
+      <trd>wyra&zdot;enie<klr tip="ind"> (algebraiczne)</klr></trd>
+    </trdgrp>
+  </snc>
+  <trd lng="be">&c_v;&c_y;&c_r;&c_a;&c_z;</trd>
+  <trd lng="ca">expressi&oacute;</trd>
+  <trdgrp lng="cs">
+    <trd>projev</trd>,
+    <trd>v&yacute;raz</trd>,
+    <trd>vyjádření</trd>
+  </trdgrp>
+  <trd lng="de">Ausdruck</trd>
+  <trd lng="en">expression</trd>
+  <trd lng="es">expresi&oacute;n</trd>
+  <trd lng="fr">expression</trd>
+  <trd lng="hu">kifejez&eacute;s</trd>
+  <trd lng="ru">&c_v;&c_y;&c_r;&c_a;&c_zh;&c_je;&c_n;&c_i;&c_je;</trd>
+  <trdgrp lng="sk">
+    <trd>kombinácia znakov</trd>,
+    <trd>výraz</trd>
+  </trdgrp>
+  <trd lng="sv">uttryck</trd>
+</drv>
+
+<drv mrk="esprim.0ajxo">
+  <kap><tld/>a&jcirc;o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <uzo tip="stl">ARK</uzo>
+  <fnt><bib>MatTerm</bib><lok>p. 15</lok></fnt>
+  <snc mrk="esprim.0ajxo.MAT">
+    <ref tip="dif" cel="esprim.0o.KOMP"><tld/>o.</ref>
+    <trd lng="fa">&a_ayn;&a_b;&a_A;&a_r;&a_t;</trd>
+    <trd lng="pl">wyra&zdot;enie<klr tip="ind">
+    (algebraiczne)</klr></trd>
+  </snc>
+</drv>
+
+<drv mrk="esprim.0ilo">
+  <kap><tld/>ilo</kap>
+  <snc mrk="esprim.0ilo.LIN">
+    <uzo tip="fak">LIN</uzo>
+    <dif>
+      Lingva rimedo por esprimi iun sencon a&ubreve; nuancon:
+      <ekz>
+        la penso starigas inter ideoj certan nombron da rilatoj,
+        por kiuj la naciaj lingvoj ne &ccirc;iam disponas <tld/>ilojn
+        <fnt>
+          <aut>G. Waringhien</aut>,
+          <vrk>Lingvo kaj vivo</vrk>,
+          <lok>Roterdamo: UEA, 1989. - p. 50a</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="fak">KOMP</uzo>
+        rekursiaj funkcioj estas eleganta <tld/>ilo por prezenti
+        multajn klasikajn algoritmojn.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_v;&c_y;&c_ja;&c_w;&c_l;&c_je;&c_n;&c_ch;&c_y;
+  &c_s;&c_r;&c_o;&c_d;&c_a;&c_k;</trd>
+  <trd lng="ca">mitj&agrave; d'<ind>expressi&oacute;</ind></trd>
+  <trd lng="cs">výrazový prostředek</trd>
+  <trdgrp lng="en">
+    <trd>expressive means</trd>,
+    <trd><klr>(language)</klr> feature</trd>
+  </trdgrp>
+  <trd lng="es">medios de <ind>expresi&oacute;n</ind></trd>
+  <trd lng="fa">&a_A;&a_b;&a_z;&a_A;&a_r; <ind>&a_b;&f_y;&a_A;&a_n;</ind></trd>
+  <trd lng="fr">moyen d'<ind>expression</ind></trd>
+  <trd lng="hu">kifejez&odblac;eszk&ouml;z</trd>
+  <trdgrp lng="pl">
+    <trd>wyra&zdot;enie</trd>,
+    <trd>&sacute;rodek <ind>wyrazu</ind></trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_i;&c_z;&c_o;&c_b;&c_r;&c_a;&c_z;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_o;&c_je;
+    &c_s;&c_r;&c_je;&c_d;&c_s;&c_t;&c_v;&c_o;</trd>,
+    <trd>&c_s;&c_r;&c_je;&c_d;&c_s;&c_t;&c_v;&c_o;
+    &c_v;&c_y;&c_r;&c_a;&c_zh;&c_je;&c_n;&c_i;&c_ja;</trd>
+  </trdgrp>
+  <trd lng="sk">výrazový prostriedok</trd>
+</drv>
+
+<drv mrk="esprim.0isma">
+  <kap><tld/>isma</kap>
+  <snc mrk="esprim.0isma.BELA">
+    <dif>
+      Konforma al la stilo de <tld/>ismo, el la <tld/>ismo:
+      <ekz>
+        <ctl>La krio</ctl> estas unu el la plej reprezentaj
+        arta&jcirc;oj de 
+        la <tld/>isma movado
+        <fnt>
+          <aut>&Gcirc;angalo</aut>,
+          <vrk><url
+          ref="http://gxangalo.com/modules/news/article.php?storyid=1654">
+          Oni ofertas konsiderindan monrekompencon...</url></vrk>,
+          <lok>2004-08-25</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="ca">expressionista</trd>
+  <trd lng="es">expresionista</trd>
+  <trd lng="fa">&a_A;&f_k;&a_s;&f_p;&a_r;&a_s;&f_y;&a_w;&a_n;&f_y;&a_s;&a_t;</trd>
+  <trd lng="fr">expressioniste<klr> (adj.)</klr></trd>
+  <trd lng="it">espressionistico</trd>
+</drv>
+
+<drv mrk="esprim.0ismo">
+  <kap><tld/>ismo</kap>
+  <snc mrk="esprim.0ismo.BELA">
+    <uzo tip="fak">BELA</uzo>
+    <dif>
+      Arta stilo, kiu forte prezentas sentojn kaj emociojn, e&ccirc; per
+      
+      troigo a&ubreve; karikaturo, historie precipe germandevena
+      
+      movado
+      el la 
+      unua duono de la 20a jarcento:
+      <ekz>
+        <tld/>ismo velkos kun na&ubreve;zo / post la&ubreve;to ekestos
+        kontemplo
+        <fnt>
+          <aut>J. S. Skorupski</aut>,
+          <vrk>Soneto je kelkaj kontemploj</vrk>,
+          <lok><url
+          ref="http://www.skorupski.com/sonets/index.php?lang=eo">Sonetado</url>,
+          1995-07-20</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Mikl&oacute;s Radn&oacute;ti <klr>...</klr> debutis kiel
+        avantgarda poeto, 
+        liaj fruaj poemoj montras la influojn de <tld/>ismo kaj 
+        superrealismo
+        <fnt>
+          <aut>N. Ruggiero</aut>,
+          <vrk><url ref="http://www.nicolaruggiero.it/html/eo/">taglibro
+          de nenifaranto</url></vrk>, 
+          <lok>2005-11-06</lok>
+        </fnt>.
+      </ekz> 
+    </dif>
+  </snc>
+  <trd lng="ca">expressionisme</trd>
+  <trd lng="es">expresionismo</trd>
+  <trd lng="fa">&a_A;&f_k;&a_s;&f_p;&a_r;&a_s;&f_y;&a_w;&a_n;&f_y;&a_s;&a_m;</trd>
+  <trd lng="fr">expressionisme</trd>
+  <trd lng="it">espressionismo</trd>
+</drv>
+
+<drv mrk="esprim.sub0o">
+  <kap>sub<tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <uzo tip="fak">KOMP</uzo>
+  <snc>
+    <dif>
+      <tld lit="E"/>o rigardata kiel parto de alia <tld/>o:
+      <ekz>
+        &scirc;pari komunajn sub<tld/>ojn en programo;
+      </ekz>
+      <ekz>
+        redukti egalajn sub<tld/>ojn en algebra frakcio.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_d;&c_v;&c_y;&c_r;&c_a;&c_z;</trd>
+  <trd lng="ca">subexpressi&oacute;<klr> (inform.)</klr></trd>
+  <trd lng="en">subexpression</trd>
+  <trd lng="es">subexpresi&oacute;n</trd>
+  <trd lng="fa">&a_z;&f_y;&a_r;&a_ayn;&a_b;&a_A;&a_r;&a_t;</trd>
+  <trd lng="fr">sous-expression</trd>
+  <trd lng="hu">r&eacute;szkifejez&eacute;s</trd>
+  <trd lng="pl">podwyra&zdot;enie</trd>
+  <trd
+  lng="ru">&c_p;&c_o;&c_d;&c_v;&c_y;&c_r;&c_a;&c_zh;&c_je;&c_n;&c_i;&c_je;</trd>
+</drv>
+</art>
+<!--
+$Log: esprim.xml,v $
+Revision 1.28  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.27  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.26  2014/12/15 07:10:17  revo
+Guillermo Molleda Jimena: trd es
+
+Revision 1.25  2014/05/19 20:10:13  revo
+Damien Brucker: +ekz
+
+Revision 1.24  2012/09/05 09:10:21  revo
+Marc Rausell: + trd ca
+
+Revision 1.23  2010/05/15 16:30:40  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.22  2010/04/01 16:30:38  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.21  2007/07/07 16:30:43  revo
+Tulio Flores: +tr pt
+
+Revision 1.20  2007/03/08 17:30:26  revo
+Jeromo Vasxe: kor 3 mrk
+
+Revision 1.19  2007/01/25 17:30:38  revo
+-->
+</vortaro>

@@ -1,0 +1,376 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: projek.xml,v 1.29 2015/07/04 08:37:42 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>projekci</rad>/o
+</kap>
+<drv mrk="projek.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="projek.0o.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <subsnc mrk="projek.0o.kanona">
+      <dif>
+        <ref tip="super" cel="bild.0igo.MAT">Bildigo</ref> de
+        <ref cel="produt.kartezia0o">kartezia produto</ref> de pluraj aroj
+        al la <frm><k>p</k></frm>-a inter ili, kiu &jcirc;etas &ccirc;iun 
+        opon al &gcirc;ia <frm><k>p</k></frm>-a
+        <ref cel="term.0o.opo">termo</ref>:
+        <ekz>
+          tian bildigon oni nomas <ref cel="kanon.0a.MAT">kanona</ref>
+          <tld/>o al la <frm><k>p</k></frm>-a faktoro;
+        </ekz>
+        <ekz>
+          en vektora spaco <frm><g>K</g><sup><k>n</k></sup></frm> la <tld/>o
+          al ajna el la <frm><k>n</k></frm> faktoroj &jcirc;etas
+          vektoron al &gcirc;ia <frm><k>p</k></frm>-a komponanto la&ubreve; la
+          <ref cel="baz.kanona0o">kanona bazo</ref>.
+        </ekz>
+      </dif>
+    </subsnc>
+    <subsnc mrk="projek.0o.vektora">
+      <fnt><bib>EKV</bib><lok>&para;356</lok></fnt>
+      <dif>
+        <klr>(en <ref cel="spac.vektora0o">vektora spaco</ref>)</klr>
+        Tia <ref tip="super" cel="homomo.0o">endomorfio</ref>
+        <frm><k>p</k></frm>, ke &gcirc;i egalas al la 
+        <ref cel="lig.kun0ajxo.rilatoj">kunliga&jcirc;o</ref>
+        kun si mem; simb. <frm><k>p</k>&#9702;<k>p</k> = <k>p</k></frm>:
+        <ekz>
+          la <ref cel="kern.0o.homomorfio">kerno</ref> kaj la
+          <ref cel="bild.0aro.MAT">bildaro</ref> de <tld/>o estas
+          <ref cel="komple1.0a.vektorasubspaco">komplementaj</ref>;
+        </ekz>
+        <ekz>
+          se <frm><g>U</g></frm> estas la kerno de <frm><k>p</k></frm> kaj 
+          <frm><g>V</g></frm> &gcirc;ia bildaro, tiam oni diras, ke 
+          <frm><k>p</k></frm> estas <ctl><tld/>o al subspaco
+          <frm><g>V</g></frm>, paralele al subspaco <frm><g>U</g></frm></ctl>.
+        </ekz>
+      </dif>
+      <ref tip="sin" cel="projek.vektora0o">vektora projekcio.</ref>
+    </subsnc>
+    <subsnc mrk="projek.0o.oblikva">
+      <dif>
+        <klr>(en <ref cel="spac.afina0o">afina spaco</ref>)</klr>
+        <ref cel="afin.0a.bildigo">Afina</ref>
+        <ref tip="super" cel="bild.0igo.MAT">bildigo</ref>, asociita al
+        <ref cel="projek.0o.vektora"><tld/>o 
+        <sncref ref="projek.0o.vektora"/></ref>.
+      </dif>
+      <ref tip="sin" cel="projek.oblikva0o">oblikva <tld/>o.</ref>
+    </subsnc>
+    <subsnc mrk="projek.0o.orta">
+      <fnt><bib>PIV1</bib></fnt>
+      <dif>
+        <klr>
+        (en <ref cel="spac.euxklida0o">e&ubreve;klida afina spaco</ref>)
+        </klr>
+        Tia <ref cel="projek.0o.oblikva"><tld/>o
+        <sncref ref="projek.0o.oblikva"/></ref>, ke la kerno kaj bildaro de
+        la asociita endomorfio estas <ref cel="ort.0a.aro">ortaj</ref>.
+      </dif>
+      <ref tip="sin" cel="projek.orta0o">orta projekcio.</ref>
+    </subsnc>
+    <trd lng="de">Projektion</trd>
+    <trd lng="en">projection</trd>
+    <trd lng="pl">rzut<klr tip="ind"> (przekszta&lstroke;cenie)</klr></trd>
+  </snc>
+  <snc mrk="projek.0o.GEOG">
+    <uzo tip="fak">GEOG</uzo>
+    <dif>
+      &Ccirc;iu el la diversaj metodoj, uzataj por prezenti sur ebena surfaco
+      parton a&ubreve; tuton de la tera a&ubreve; &ccirc;iela sfero.
+    </dif>
+  </snc>
+  <snc mrk="projek.0o.TEK">
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      Desegna&jcirc;o de objekto, konstruo, ma&scirc;ino k.s., farita
+      sur ebeno la&ubreve; certaj konvencioj:
+      <ekz>
+        horizontala, vertikala, profila <tld/>o.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="projek.0o.FOT">
+    <uzo tip="fak">FOT</uzo>
+    <dif>
+      Luma bildo, sendata sur pli-malpli proksiman ekranon per speciala
+      lanterno.
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>projekce</trd>,
+    <trd>promítání</trd>,
+    <trd>průmět</trd>,
+    <trd>zobrazení</trd>
+  </trdgrp>
+  <trd lng="fr">projection<klr tip="ind"> (math. et sens
+  d&eacute;riv&eacute;s)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>vet&iacute;t&eacute;s</trd>,
+    <trd>projekci&oacute;</trd>
+  </trdgrp>
+  <trd lng="nl">projectie</trd>
+  <trd lng="pt">proje&ccedil;&atilde;o</trd>
+  <trd lng="ru">&c_p;&c_r;&c_o;&c_je;&c_k;&c_c;&c_i;&c_ja;</trd>
+  <trdgrp lng="sk">
+    <trd>premietanie</trd>,
+    <trd>priemet</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="projek.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      Desegni <tld/>on de io; trovi la bildon de punkto a&ubreve; figuro per
+      <tld/>o.
+    </dif>
+  </snc>
+  <snc mrk="projek.0i.FOT">
+    <uzo tip="fak">FOT</uzo>
+    <dif>
+      Sendi luman bildon sur ekranon:
+      <ekz>
+        <tld/>i filmon, lumbildojn.
+      </ekz>
+    </dif>
+    <adm>
+      La vorto "lumbildo" ankora&ubreve; ne ekzistas en REVO.
+      <aut>MB</aut>
+    </adm>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>projektovat</trd>,
+    <trd>promítat</trd>
+  </trdgrp>
+  <trd lng="fr">projeter</trd>
+  <trd lng="hu">vet&iacute;t</trd>
+  <trd lng="nl">projecteren</trd>
+  <trd lng="ru">&c_p;&c_r;&c_o;&c_je;&c_c;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="sk">premietať</trd>
+</drv>
+
+<drv mrk="projek.0ajxo">
+  <kap><tld/>a&jcirc;o</kap>
+  <snc mrk="projek.0ajxo.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>MatVort</bib></fnt>
+    <dif>
+      Bildo per <tld/>o:
+      <ekz>
+        la orta <tld/>a&jcirc;o de sfero al ebeno estas cirklo.
+      </ekz>
+    </dif>
+    <rim>
+      Bricard
+      <fnt><bib>MatTerm</bib><lok>p. 26</lok></fnt> konas la terminon,
+      sed sub formo <ctl>projecia&jcirc;o</ctl>. Cetere,
+      ekster la rigora faka lingva&jcirc;o, eblas konsideri, ke anka&ubreve;
+      <ctl><tld/>o</ctl> havas &ccirc;i tiun sencon.
+    </rim>
+    <trd lng="de">Projektion</trd>
+    <trd lng="en">projection</trd>
+    <trd lng="fr">projection<klr tip="ind"> (math., image)</klr></trd>
+    <trd lng="hu">vet&uuml;let</trd>    
+    <trd lng="pl">rzut<klr tip="ind"> (obraz)</klr></trd>
+    <trd lng="ru">&c_p;&c_r;&c_o;&c_je;&c_k;&c_c;&c_i;&c_ja;</trd>
+  </snc>
+  <snc mrk="projek.0ajxo.FOT">
+    <uzo tip="fak">FOT</uzo>
+    <fnt><bib>PIV1</bib></fnt>
+    <dif>
+      Diafana kli&scirc;o, uzata por <tld/>ado.
+    </dif>
+    <adm>
+      &Ccirc;u plu aktuala? &Ccirc;u ne temas pri la nunaj "lumbildoj"?
+      <aut>MB</aut>
+    </adm>
+  </snc>
+  <trdgrp lng="hu">
+    <trd>dia</trd>,
+    <trd>diapozit&iacute;v</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="projek.0ilo">
+  <kap><tld/>ilo</kap>
+  <snc>
+    <dif>
+      Aparato por <tld/>i <sncref ref="projek.0i.FOT"/>.
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>projekční přístroj</trd>,
+    <trd>promítací přístroj</trd>
+  </trdgrp>
+  <trd lng="fr">projecteur<klr tip="ind"> (film, diapos, etc.)</klr></trd>
+  <trd lng="hu">vet&iacute;t&odblac;g&eacute;p</trd>
+  <trd lng="nl">projector</trd>
+  <trd lng="ru">&c_p;&c_r;&c_o;&c_je;&c_k;&c_t;&c_o;&c_r;</trd>
+  <trd lng="sk">projekčný prístroj</trd>
+</drv>
+
+<drv mrk="projek.retro0ilo">
+  <kap>retro<tld/>ilo</kap>
+  <snc>
+    <dif>
+      Aparato por <tld/>i travideblajn foliojn sur ekrano.
+    </dif>
+  </snc>
+  <trd lng="en">overhead projector</trd>
+  <trd lng="fr">r&eacute;troprojecteur</trd>
+  <trd lng="hu">&iacute;r&aacute;svet&iacute;t&odblac;</trd>  
+  <trd lng="nl">overheadprojector</trd>
+  <trd lng="ru">&c_e;&c_p;&c_i;&c_d;&c_i;&c_a;&c_s;&c_k;&c_o;&c_p;</trd>
+</drv>
+
+<drv mrk="projek.centra0o">
+  <kap>centra <tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>MatVort</bib></fnt>
+  <snc>
+    <dif>
+      <klr>(en tridimensia <ref cel="spac.afina0o">afina spaco</ref>,
+      al ebeno <frm>P</frm>, rilate al punkto <frm>O</frm> situanta ekster
+      <frm>P</frm>)</klr>
+      <ref tip="super" cel="bild.0igo.MAT">Bildigo</ref>, kiu &jcirc;etas
+      punkton <frm>M</frm> al la intersekco de rekto <frm>OM</frm> kun 
+      <frm>P</frm>:
+      <ekz>
+        la punkton <frm>O</frm> oni nomas centro de la centra <tld/>o;
+      </ekz>
+      <ekz>
+        centra <tld/>o ne estas afina bildigo;
+      </ekz>
+      <ekz>
+        la punktoj de la ebeno paralela al <frm>P</frm> kaj trairanta 
+        <frm>O</frm> ne havas bildon per centra <tld/>o al ebeno <frm>P</frm>
+        rilate al <frm>O</frm>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="de">Zentralprojektion</trd>
+  <trd lng="en">central <ind>projection</ind></trd>
+  <trd lng="fr">projection centrale</trd>
+  <trd lng="hu">k&ouml;z&eacute;ppontos <ind>vet&iacute;t&eacute;s</ind></trd>  
+  <trd lng="pl">rzut &sacute;rodkowy</trd>
+  <trd lng="ru">&c_c;&c_je;&c_n;&c_t;&c_r;&c_a;&c_l;&c_mol;&c_n;&c_a;&c_ja; <ind>&c_p;&c_r;&c_o;&c_je;&c_k;&c_c;&c_i;&c_ja;</ind></trd>
+</drv>
+
+<drv mrk="projek.kanona0o">
+  <kap>kanona <tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <snc>
+    <ref tip="dif" cel="projek.0o.kanona"><tld/>o <sncref/>.</ref>
+  </snc>
+  <rim>
+    Trovi&gcirc;as en <fnt><bib>MatVort</bib></fnt> la termino
+    <ctl>ar-teoria <tld/>o</ctl>, supozeble kun la sama signifo.
+  </rim>
+  <trd lng="de">kanonische <ind>Projektion</ind></trd>
+  <trd lng="en">canonical <ind>projection</ind></trd>
+  <trd lng="fr">projection canonique</trd>
+  <trd lng="hu">kanonikus <ind>projekci&oacute;</ind></trd>    
+  <trd lng="ru">&c_k;&c_a;&c_n;&c_o;&c_n;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_a;&c_ja; <ind>&c_p;&c_r;&c_o;&c_je;&c_k;&c_c;&c_i;&c_ja;</ind></trd>
+</drv>
+
+<drv mrk="projek.oblikva0o">
+  <kap>oblikva <tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>MatVort</bib></fnt>
+  <snc>
+    <ref tip="dif" cel="projek.0o.oblikva"><tld/>o <sncref/>.</ref>
+  </snc>
+  <trd lng="de">schiefe <ind>Projektion</ind></trd>
+  <trd lng="en">skew <ind>projection</ind></trd>
+  <trd lng="fr">projection oblique</trd>
+  <trd lng="hu">ferde p&aacute;rhuzamos <ind>projekci&oacute;</ind></trd>    
+  <trd lng="pl">rzut r&oacute;wnoleg&lstroke;y</trd>
+  <trd lng="ru">&c_k;&c_o;&c_s;&c_a;&c_ja; <ind>&c_p;&c_r;&c_o;&c_je;&c_k;&c_c;&c_i;&c_ja;</ind></trd>
+</drv>
+
+<drv mrk="projek.orta0o">
+  <kap>orta <tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>PIV1</bib></fnt>
+  <snc>
+    <ref tip="dif" cel="projek.0o.orta"><tld/>o <sncref/>.</ref>
+  </snc>
+  <trd lng="de">orthogonale <ind>Projektion</ind></trd>
+  <trd lng="en">orthogonal <ind>projection</ind></trd>
+  <trd lng="fr">projection orthogonale</trd>
+  <trd lng="hu">mer&odblac;leges <ind>vet&iacute;t&eacute;s</ind></trd>    
+  <trd lng="pl">rzut prostok&aogonek;tny</trd>
+  <trd lng="ru">&c_p;&c_r;&c_ja;&c_m;&c_o;&c_u;&c_g;&c_o;&c_l;&c_mol;&c_n;&c_a;&c_ja; <ind>&c_p;&c_r;&c_o;&c_je;&c_k;&c_c;&c_i;&c_ja;</ind></trd>
+</drv>
+
+<drv mrk="projek.paralela0o">
+  <kap>paralela <tld/>o<fnt><bib>PIV2</bib></fnt>, <var><kap>paralel<tld/>o<fnt><bib>PIV1</bib></fnt></kap></var></kap>
+  <uzo tip="fak">MAT</uzo>
+  <snc>
+    <dif>
+      <ref tip="dif" cel="projek.oblikva0o">Oblikva <tld/>o</ref> al ebeno.
+    </dif>
+  </snc>
+  <trd lng="de">Parallelprojektion</trd>
+  <trd lng="en">parallel <ind>projection</ind></trd>
+  <trd lng="fr">projection parall&egrave;le</trd>
+  <trd lng="hu">p&aacute;rhuzamos <ind>vet&iacute;t&eacute;s</ind></trd>    
+  <trd lng="pl">rzut r&oacute;wnoleg&lstroke;y</trd>
+  <trd lng="ru">&c_p;&c_a;&c_r;&c_a;&c_l;&c_l;&c_je;&c_l;&c_mol;&c_n;&c_a;&c_ja; <ind>&c_p;&c_r;&c_o;&c_je;&c_k;&c_c;&c_i;&c_ja;</ind></trd>
+</drv>
+
+<drv mrk="projek.vektora0o">
+  <kap>vektora <tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <snc>
+    <ref tip="dif" cel="projek.0o.vektora"><tld/>o <sncref/>.</ref>
+  </snc>
+  <trd lng="de">Projektor</trd>
+  <trd lng="en">projector</trd>
+  <trdgrp lng="fr">
+    <trd>projection vectorielle</trd>,
+    <trd>projecteur<klr tip="ind"> (math.)</klr></trd>
+  </trdgrp>
+  <trd lng="hu">vet&iacute;t&eacute;s</trd>    
+  <trd lng="ru">&c_p;&c_r;&c_o;&c_je;&c_k;&c_t;&c_o;&c_r;</trd>
+</drv>
+</art>
+<!--
+$Log: projek.xml,v $
+Revision 1.29  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.28  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.27  2012/10/23 00:13:32  revo
+Neil Roberts: aldonu la etikedon <var>
+
+Revision 1.26  2006/03/30 16:31:36  revo
+Tulio Flores: +tr pt
+
+Revision 1.25  2004/08/23 16:34:12  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.24  2003/04/07 16:36:29  revo
+Marc Bavant: kanona ~o: mod rim
+
+Revision 1.23  2003/01/02 17:50:18  revo
+Marc Bavant: +trd pl; centra ~o: mod dif
+Revision 1.22  2002/11/30 17:37:37  revo
+Marc Bavant: mod kunligo-operatoron
+Revision 1.21  2002/11/18 17:34:38  revo
+Marc Bavant: +frm; +trd pl
+Revision 1.20  2002/05/27 17:19:36  revo
+Marc Bavant: ~o (vektora): +fnt
+Revision 1.19  2002/05/20 16:37:09  revo
+Marc Bavant: oblikva ~o: -rim; +drv paralela ~o
+-->
+</vortaro>

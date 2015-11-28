@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: analekt.xml,v 1.10 2015/10/29 07:10:13 revo Exp $">
+<kap>
+  <rad>analekt</rad>/o <fnt><bib>NePiv</bib></fnt>
+</kap>
+
+<drv mrk="analekt.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="stl">RAR</uzo>
+  <snc mrk="analekt.0o.BELE">
+    <uzo tip="fak">BELE</uzo>
+    <dif>
+      <ref tip="super" cel="tekst.0aro">Tekstaro</ref> kunmetita kiel
+      leginda a&ubreve; reprezenta specimenaro
+      el la verkoj de ordinare unu a&ubreve;toro:
+      <ekz>
+        <tld lit="A"/>oj de Konfuceo
+        <fnt><vrk>Analektoj de Konfuceo. - Wang Chongfang trad. -
+        Beijing:
+        &Ccirc;ina esperanto-eldonejo, 1996</vrk></fnt>;
+      </ekz>
+      <ekz>
+        la dis&ccirc;iploj de Zensto eble ne kapablas kompili por li la <tld
+        lit="A"/>on de Zensto
+        <fnt><aut>Shi Chengtai</aut>, <vrk>Ho nia Zensto</vrk>,
+        <lok><url
+        ref="http://www.elerno.net/pen40.htm">Penseo, numero 40a,
+        oktobro
+        1993</url></lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <rim mrk="analekt.0oj.RIM.1">
+    La&ubreve; &gcirc;ia greka etimo la vorto estas uzata de iuj a&ubreve;toroj plurnombre
+    e&ccirc; por signifi unu kompila&jcirc;on.
+    <aut>&jcirc;v</aut>
+  </rim>
+  <trd lng="ca">analectes</trd>
+  <trd lng="de">Analekten</trd>
+  <trd lng="en">analect</trd>
+  <trdgrp lng="fr">
+    <trd>analecta</trd>,
+    <trd>analectes</trd>
+  </trdgrp>
+  <trdgrp lng="it">
+    <trd>analecta</trd>,
+    <trd>dialoghi<klr> (raccolta)</klr></trd>,
+    <trd>compendio<klr> (raccolta)</klr></trd>,
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>analekta</trd>,
+    <trd>wyb&oacute;r <klr>dzie&lstroke;</klr></trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_i;&c_z;&c_b;&c_r;&c_a;&c_n;&c_n;&c_y;&c_je; &c_o;&c_t;&c_r;&c_y;&c_v;&c_k;&c_i;</trd>,
+    <trd>&c_a;&c_n;&c_a;&c_l;&c_je;&c_k;&c_t;&c_y;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: analekt.xml,v $
+Revision 1.10  2015/10/29 07:10:13  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.9  2015/09/27 13:10:20  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.8  2012/07/30 12:10:25  revo
+Marc Rausell: + trd ca
+
+Revision 1.7  2010/05/24 16:30:25  revo
+Antonio Codazzi: +trd it
+
+Revision 1.6  2007/06/10 16:31:51  revo
+Wieland Pusch: +trd de
+
+Revision 1.5  2006/03/11 17:31:41  revo
+Jeromo Vasxe: kor. literumo en ekz
+
+Revision 1.4 2005/05/12 16:32:22 revo
+Yury Finkel: +trd ru
+
+Revision 1.3 2004/08/10 16:32:04 revo
+-->
+</vortaro>

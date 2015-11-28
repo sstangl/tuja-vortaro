@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: filozo.xml,v 1.20 2015/10/30 12:10:15 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>filozof</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="filozo.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="filozo.0o.scienculo">
+    <uzo tip="fak">FIL</uzo>
+    <dif>
+      Scienculo, kiu esploras kaj pritraktas la
+      <ref cel="filozo1.0o">filozofion</ref>.
+    </dif>
+    <ref tip="vid" cel="pens.0isto">pensisto</ref>
+    <trd lng="de">Philosoph</trd>
+    <trd lng="es">fol&oacute;sofo</trd>
+  </snc>
+  <snc mrk="filozo.0o.pacienculo">
+    <dif>
+      Praktike sa&gcirc;a kaj trankvilanima homo, kiu pacience toleras
+      malfeli&ccirc;a&jcirc;ojn.
+    </dif>
+    <trd lng="de">Denker</trd>
+  </snc>
+  <trd lng="be">&c_f;&c_ib;&c_l;&c_jo;&c_z;&c_a;&c_f;</trd>
+  <trd lng="bg">&c_f;&c_i;&c_l;&c_o;&c_s;&c_o;&c_f;</trd>
+  <trdgrp lng="cs">
+    <trd>filozof</trd>,
+    <trd>myslitel</trd>
+  </trdgrp>
+  <trd lng="en">philosopher</trd>
+  <trd lng="fr">philosophe</trd>
+  <trd lng="nl">filosoof</trd>
+  <trd lng="pt">fil&oacute;sofo</trd>
+  <trd lng="ru">&c_f;&c_i;&c_l;&c_o;&c_s;&c_o;&c_f;</trd>
+  <trd lng="sk">filozof</trd>
+</drv>
+
+<drv mrk="filozo.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="filozo.0i.science">
+    <ref tip="dif" cel="filozo1.0i">filozofii</ref>
+    <ekz>
+      <tld/>i ne satigas stomakon
+      <fnt><aut>J. Ribillard</aut>, <vrk>Vagado sub palmoj</vrk>, 
+      <lok>UEA, 1956</lok></fnt>.
+    </ekz>
+    <trd lng="bg">&c_f;&c_i;&c_l;&c_o;&c_s;&c_o;&c_f;&c_s;&c_t;&c_v;&c_u;&c_v;&c_a;&c_m;</trd>
+    <trd lng="de">philosophieren</trd>
+    <trdgrp lng="en">
+      <trd>to philosophize <klr>(usone)</klr></trd>,
+      <trd>philosophise <klr>(brite)</klr></trd>
+    </trdgrp>
+    <trd lng="es">filosofar</trd>
+    <trd lng="fr">philosopher</trd>
+    <trd lng="nl">filosoferen</trd>
+    <trd lng="pt">filosofar</trd>
+    <trdgrp lng="ru">
+      <trd>&c_f;&c_i;&c_l;&c_o;&c_s;&c_o;&c_f;&c_s;&c_t;&c_v;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>,
+      <trd>&c_z;&c_a;&c_n;&c_i;&c_m;&c_a;&c_t;&c_mol;&c_s;&c_ja; <ind>&c_f;&c_i;&c_l;&c_o;&c_s;&c_o;&c_f;&c_i;&c_je;&c_j;</ind></trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="filozo.0i.pacience">
+    <dif>
+      Montri&gcirc;i <tld/>o<sncref ref="filozo.0o.pacienculo"/>; sa&gcirc;e
+      kaj trankvile vivi, tolerante kun pacienco malfeli&ccirc;a&jcirc;ojn.
+    </dif>
+    <trd lng="fr">rester <ind>philosophe</ind></trd>
+    <trd lng="nl"><ind>filosofisch</ind> blijven</trd>
+    <trd lng="ru">&c_b;&c_y;&c_t;&c_mol; <ind>&c_f;&c_i;&c_l;&c_o;&c_s;&c_o;&c_f;&c_o;&c_m;</ind></trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>filozofovat</trd>,
+    <trd>hloubat</trd>,
+    <trd>rozj&iacute;mat o n&ecaron;&ccaron;em</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>filozofova&tcaron;</trd>,
+    <trd>rozj&iacute;ma&tcaron;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: filozo.xml,v $
+Revision 1.20  2015/10/30 12:10:15  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.19  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2013/08/02 16:10:10  revo
+Joop Eggen: +trd bg
+
+Revision 1.16  2009/11/16 17:30:23  revo
+Jeromo Vasxe: + ekz
+
+Revision 1.15  2009/09/26 16:32:35  revo
+Paul Peeraerts: +nl
+
+Revision 1.14  2008/07/29 16:30:48  revo
+Jeromo Vasxe: kor 1 ref
+
+Revision 1.13  2007/06/01 16:30:53  revo
+-->
+</vortaro>

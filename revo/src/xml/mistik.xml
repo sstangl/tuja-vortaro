@@ -1,0 +1,138 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: mistik.xml,v 1.17 2015/07/04 08:37:39 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>mistik</rad>/o
+</kap>
+<drv mrk="mistik.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">REL</uzo>
+  <snc mrk="mistik.0o.sento">
+    <dif>
+      <ref tip="malprt" cel="religi.0o">Religia</ref> sinteno, kiu sin
+      apogas al imago, sentoj, internaj spertoj, ekstazo, prefere ol al
+      intelekto.
+    </dif>
+  </snc>
+  <snc mrk="mistik.0o.supersticxo">
+    <uzo tip="klr">(ironie)</uzo>
+    <ref tip="dif" cel="supers.0o">supersti&ccirc;o</ref>
+    <ekz>
+      <tld/>o fari&gcirc;as ofte mistifiko.
+    </ekz>
+  </snc>
+  <trd lng="be">&c_m;&c_ib;&c_s;&c_t;&c_y;&c_k;&c_a;</trd>
+  <trd lng="ca">m&iacute;stica</trd>
+  <trd lng="cs">mystika</trd>
+  <trd lng="de">Mystik</trd>
+  <trdgrp lng="en">
+    <trd>mysticism</trd>,
+    <trd>mystique</trd>
+  </trdgrp>
+  <trd lng="fa">&a_ayn;&a_r;&a_f;&a_A;&a_n;</trd>
+  <trd lng="fr">mystique<klr> (attitude)</klr></trd>
+  <trd lng="hu">misztika</trd>
+  <trd lng="nl">mystiek</trd>
+  <trd lng="pt">mist&eacute;rio</trd>
+  <trd lng="ru">&c_m;&c_i;&c_s;&c_t;&c_i;&c_k;&c_a;</trd>
+  <trd lng="sk">mystika</trd>
+</drv>
+
+<drv mrk="mistik.0a">
+  <kap><tld/>a</kap>
+  <snc>
+    <dif>
+      Rilata al <tld/>o, al precipe sentema religia sinteno.
+    </dif>
+  </snc>
+  <trd lng="ca">m&iacute;stic<klr> (adj.)</klr></trd>
+  <trdgrp lng="cs">
+    <trd>mystický</trd>,
+    <trd>tajuplný</trd>
+  </trdgrp>
+  <trd lng="en">mystical</trd>
+  <trd lng="fa">&a_ayn;&a_r;&a_f;&a_A;&a_n;&f_y;</trd>
+  <trd lng="fr">mystique<klr> (adj.)</klr></trd>
+  <trd lng="hu">misztikus</trd>
+  <trd lng="ru">&c_m;&c_i;&c_s;&c_t;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>mystický</trd>,
+    <trd>tajuplný</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="mistik.0ismo">
+  <kap><tld/>ismo</kap>
+  <uzo tip="fak">FIL</uzo>
+  <snc>
+    <dif>
+      Religia a&ubreve; filozofia doktrino alte taksanta <tld/>an sperton,
+      male ol ekzemple <ref tip="vid" cel="raci.0ismo">raciismo</ref>.
+    </dif>
+  </snc>
+  <trd lng="ca">misticisme</trd>
+  <trd lng="cs">mysticismus</trd>
+  <trd lng="en">mysticism</trd>
+  <trd lng="fa">&a_ayn;&a_r;&a_f;&a_A;&a_n;</trd>
+  <trd lng="fr">mysticisme</trd>
+  <trd lng="hu">miszticizmus</trd>
+  <trd lng="ru">&c_m;&c_i;&c_s;&c_t;&c_i;&c_c;&c_i;&c_z;&c_m;</trd>
+  <trd lng="sk">mysticizmus</trd>
+</drv>
+
+<drv mrk="mistik.0ulo">
+  <kap><tld/>ulo</kap>
+  <snc>
+    <dif>
+      Homo, kiu travivis <tld/>ajn spertojn kaj ilin interpretas
+      religie.
+    </dif>
+  </snc>
+  <trd lng="ca">m&iacute;stic<klr> (subst.)</klr></trd>
+  <trd lng="cs">mystik</trd>
+  <trd lng="en">mystic</trd>
+  <trdgrp lng="fa">
+    <trd>&a_ayn;&a_A;&a_r;&a_f;</trd>,
+    <trd>&a_A;&a_h;&a_l; &a_T;&a_r;&f_y;&a_q;&a_t;</trd>
+  </trdgrp>
+  <trd lng="fr">mystique<klr> (pers.)</klr></trd>
+  <trd lng="hu">misztikus</trd>
+  <trd lng="ru">&c_m;&c_i;&c_s;&c_t;&c_i;&c_k;</trd>
+  <trd lng="sk">mystik</trd>
+</drv>
+</art>
+<!--
+$Log: mistik.xml,v $
+Revision 1.17  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.15  2012/07/16 10:10:17  revo
+Marc Rausell: + trd ca
+
+Revision 1.14  2010/05/18 16:30:37  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.13  2009/06/29 18:06:52  revo
+Russ Williams: +trd en
+
+Revision 1.12  2006/08/07 16:31:31  revo
+Tulio Flores: +tr pt
+
+Revision 1.11  2005/02/25 17:32:56  revo
+Yury Finkel: +trd ru
+
+Revision 1.10  2004/06/15 21:32:41  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.9  2003/08/01 16:30:56  revo
+Jeromo Vasxe: + ~a ~ismo ~ulo, simpligis dif, + tez, + trd fr
+
+Revision 1.8 2003/06/01 16:33:30 revo
+-->
+</vortaro>

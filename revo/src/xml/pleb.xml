@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: pleb.xml,v 1.18 2015/10/27 11:10:19 revo Exp $">
+<kap>
+  <ofc>4</ofc>
+  <rad>pleb</rad>/o
+</kap>
+
+<drv mrk="pleb.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">POL</uzo>
+  <snc>
+    <dif>
+      Malalta, senprivilegia klaso el popolo:
+      <ekz>
+        en antikva Romo la <tld/>anoj havis neniujn civitanajn rajtojn.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>plebs</trd>,
+    <trd>&rcaron;&iacute;msk&aacute; chudina</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>armes <ind>Volk</ind></trd>,
+    <trd>Plebs</trd>,
+    <trd>P&ouml;bel</trd>,
+    <trd>Plebejer<klr tip="amb"> (einfaches Volk)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>plebs</trd>,
+    <trd>common people</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>pl&egrave;be</trd>
+  </trdgrp>
+  <trd lng="hu">plebs</trd>
+  <trd lng="nl">plebs</trd>
+  <trd lng="pl">plebs</trd>
+  <trd lng="pt">plebe</trd>
+  <trdgrp lng="ru">
+    <trd>&c_ch;&c_je;&c_r;&c_n;&c_mol;</trd>,
+    <trd>&c_p;&c_r;&c_o;&c_s;&c_t;&c_o;&c_n;&c_a;&c_r;&c_o;&c_d;&c_mol;&c_je;</trd>,
+    <trd>&c_p;&c_l;&c_je;&c_b;&c_s;</trd>
+  </trdgrp>
+  <trd lng="sk">ple&ccaron;ka</trd>
+</drv>
+
+<drv mrk="pleb.0ano">
+  <kap><tld/>ano</kap>
+  <uzo tip="fak">POL</uzo>
+  <snc>
+    <dif>
+      Ordinarulo havanta nul privilegion:
+      <ekz>
+        mi ja estas <tld/>ano, <klr>...</klr> mi ne havas blazonon
+        <fnt><bib>PatrojFiloj</bib> <lok>&ccirc;apitro 21a, p.
+        126a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>plebejec</trd>,
+    <trd>p&rcaron;&iacute;slu&scaron;n&iacute;k &rcaron;&iacute;m. chudiny</trd>
+  </trdgrp>
+  <trd lng="de">Plebejer<klr tip="amb"> (Person)</klr></trd>
+  <trdgrp lng="en">
+    <trd>plebian</trd>,
+    <trd>commoner</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>pl&eacute;b&eacute;ien<klr> (subst.)</klr></trd>
+  </trdgrp>
+  <trd lng="nl">plebejer</trd>
+  <trd lng="pl">plebejczyk</trd>
+  <trd lng="sk">plebejec</trd>
+</drv>
+</art>
+<!--
+$Log: pleb.xml,v $
+Revision 1.18  2015/10/27 11:10:19  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.17  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.15  2009/10/25 17:31:11  revo
+Paul Peeraerts: +nl +kor en de
+
+Revision 1.14  2008/02/22 17:30:15  revo
+Wieland Pusch: +trd de
+
+Revision 1.13  2008/02/16 17:30:15  revo
+Russ Williams: +trd en
+
+Revision 1.12  2006/03/06 17:32:34  revo
+Tulio Flores: +tr pt
+
+Revision 1.11  2003/12/09 17:30:32  revo
+-->
+</vortaro>

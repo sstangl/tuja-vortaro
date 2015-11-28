@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: alikva.xml,v 1.7 2012/07/15 08:10:22 revo Exp $">
+<kap>
+  <rad>alikvant</rad>/o
+</kap>
+<drv mrk="alikva.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <uzo tip="stl">ARK</uzo>
+  <fnt><bib>PIV1</bib></fnt>
+  <snc>
+    <dif>
+      <klr>(de <ref cel="entjer.0o">entjero</ref>
+      <frm><k>n</k></frm>)</klr>
+      Tia entjero strikte pli malgranda ol <frm><k>n</k></frm>, ke 
+      <frm><k>n</k></frm> ne estas plurfoja sumo
+      de &gcirc;i; alidire: nombro, per kiu <frm><k>n</k></frm> ne estas
+      <ref cel="divid.0ebla.MAT">dividebla</ref>:
+      <ekz>
+        du estas <tld/>o de na&ubreve;.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="divizo.ne0o">nedivizoro;</ref>
+    <ref tip="ant" cel="alikvo.0o">alikvoto.</ref>
+  </snc>
+  <trd lng="ca">part aliquanta</trd>
+  <trd lng="de">nicht aufgehender <ind>Teil</ind></trd>
+  <trd lng="en">non-aliquot <ind>part</ind></trd>
+  <trd lng="fr">partie <ind>aliquante</ind></trd>
+  <trdgrp lng="hu">
+    <trd>marad&eacute;k n&eacute;lk&uuml;l nem oszthat&oacute;
+    <ind>sz&aacute;m</ind></trd>,
+    <trd>nemoszt&oacute; sz&aacute;m</trd>
+  </trdgrp>
+  <trd lng="ru">&c_n;&c_je;&c_k;&c_r;&c_a;&c_t;&c_n;&c_a;&c_ja; &c_ch;&c_a;&c_s;&c_t;&c_mol;</trd>
+  <trd lng="sk">nedelite&lcaron;</trd>
+</drv>
+</art>
+<!--
+$Log: alikva.xml,v $
+Revision 1.7  2012/07/15 08:10:22  revo
+Marc Rausell: + trd ca
+
+Revision 1.6  2003/05/18 18:00:35  revo
+Viliam Bur: +trd sk
+
+Revision 1.5  2002/11/18 17:32:59  revo
+Marc Bavant: +frm
+
+Revision 1.4  2002/04/11 16:31:06  revo
+Marc Bavant: +trd de/en
+Revision 1.3  2002/03/22 17:32:38  revo
+Yury Finkel: +trd ru
+Revision 1.2 2001/09/11 18:11:38 revo
+Jozefo Horvath: +trd hu
+Revision 1.1 2001/09/10 18:11:40 revo
+Marc Bavant: nova artikolo
+-->
+</vortaro>

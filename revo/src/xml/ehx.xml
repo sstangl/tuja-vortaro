@@ -1,0 +1,169 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+  <art mrk="$Id: ehx.xml,v 1.25 2015/06/26 20:10:14 revo Exp $">
+    <kap>
+    <ofc>*</ofc>
+      <rad>e&hcirc;</rad>/o
+    </kap>
+
+    <drv mrk="ehx.0o">
+      <kap><ofc>*</ofc><tld/>o</kap>
+      <snc mrk="ehx.0o.sono">
+	<dif>
+  	  Ripeti&gcirc;o pli malpli klara de sono haltigita de supra&jcirc;o,
+  	  kiu &gcirc;in resendas al la orelo.
+      </dif>
+	<refgrp tip="vid">
+  	   <ref cel="son.re0i">resoni</ref>.
+        </refgrp>
+        <trd lng="fa">&f_p;&f_zh;&a_w;&a_A;&f_k;</trd>
+        <trd lng="it">eco</trd>
+      </snc>
+      <snc mrk="ehx.0o.FIG">
+	<uzo tip="stl">FIG</uzo>
+	<dif>
+      	  Ripeti&gcirc;o de diro, opinio, famo:
+  	  <ekz>
+  	    li estas nur <tld/>o de sia
+  	    majstro;
+  	  </ekz>
+  	  <ekz>
+  	    min atingis nur kelkaj <tld/>oj de la &jcirc;usaj diskutoj;
+  	  </ekz>
+  	  <ekz>
+  	    <tld/>e resoni<fnt>Z</fnt>;
+  	  </ekz>
+  	  <ekz>
+  	    <uzo tip="stl">FIG</uzo>
+  	    plej multaj el tiuj novekreitaj vortoj forflugis sen<tld/>e
+  	    en la nenia&jcirc;on.
+  	  </ekz>
+        </dif>
+        <trd lng="fa">&a_b;&a_A;&a_z;&a_t;&a_A;&a_b;</trd>
+        <trd lng="it">eco</trd>
+        <trd lng="pl">echo</trd>
+      </snc>
+      <snc mrk="ehx.0o.KOMP">
+	<uzo tip="fak">KOMP</uzo>
+	<dif>
+  	   Aperigo sur la ekrano de <ref cel="terminal.0o">terminalo</ref>
+           de la signobildoj, respondaj al la klavoj premataj de la
+           uzulo.
+           Tio estas la normala re&gcirc;imo, kvankam fojfoje, ekz-e
+           kiam la
+           eniga&jcirc;o estas <ref cel="vort.pas0o">pasvorto</ref>,
+           &gcirc;i
+           kutime ne <tld/>i&gcirc;as, por ke &gcirc;i restu sekreta.
+        </dif>
+        <trd lng="it">echo</trd>
+      </snc>
+      <trd lng="bg">&c_je;&c_h;&c_o;</trd>
+      <trd lng="be">&c_r;&c_e;&c_h;&c_a;</trd>
+      <trd lng="ca">eco</trd>
+      <trd lng="de">Echo</trd>
+      <trd lng="en">echo</trd>
+      <trd lng="es">eco</trd>
+      <trd lng="fr">&eacute;cho</trd>
+      <trd lng="hu">visszhang</trd>
+      <trd lng="id">gema</trd>
+      <trd lng="nl">echo</trd>
+      <trd lng="pt">eco</trd>
+      <trd lng="ru">&c_e;&c_h;&c_o;</trd>
+      <trd lng="sv">eko</trd>
+    </drv>
+
+    <drv mrk="ehx.0osxangxo">
+      <kap><tld/>o&scirc;an&gcirc;o &ccirc;iu&jcirc;a&ubreve;de</kap>
+      <uzo tip="stl">FRAZ</uzo>
+      <uzo tip="fak">KOMP</uzo>
+      <uzo tip="fak">TIP</uzo>
+      <uzo tip="fak">ESP</uzo>
+      <snc>
+	<dif>
+          Testa frazo entenanta &ccirc;iujn <ref
+          cel="diakrit.0ajxo">diakrita&jcirc;ojn</ref> kaj <ref
+          cel="vokal.0o">vokalojn</ref>
+          de Esperanto, ofte uzata por kontroli, &ccirc;u la kromliteroj
+          de Esperanto
+          bone prezenti&gcirc;as en koncerna tiparo, en datumtransmeto
+          ktp.
+        </dif>
+	<ref tip="vid" cel="liter.cxiu0ajxo">&ccirc;iulitera&jcirc;o</ref>
+      </snc>
+      <trd lng="ca">(frase holodiacr&iacute;tica)</trd>
+      <trd lng="de">Zw&ouml;lf gro&szlig;e Boxk&auml;mpfer jagen Viktor
+      quer &uuml;ber den Sylter Deich.</trd>
+      <trd lng="en">The quick brown fox jumps over the lazy dog.</trd>
+      <trdgrp lng="it">
+      <trd>quel fez sghembo copre davanti<klr> (pangramma)</klr></trd>,
+      <trd>ma la volpe col suo balzo ha raggiunto il quieto Fido<klr>
+      (pangramma)</klr></trd>
+      </trdgrp>
+      <trd lng="pl">Za&zdot;&oacute;&lstroke;&cacute;
+      g&eogonek;&sacute;l&aogonek; ja&zacute;&nacute;.</trd>
+    </drv>
+
+  </art>
+  <!--
+  $Log: ehx.xml,v $
+  Revision 1.25  2015/06/26 20:10:14  revo
+  Behnam Tabatabai: +trd fa
+
+  Revision 1.24  2013/11/08 19:10:24  revo
+  Damien Brucker: Aldono de "kaj vokaloj"
+
+  Revision 1.23  2013/04/28 14:10:11  revo
+  Eko Nur Syah Hidayat: +trd id
+
+  Revision 1.22  2012/08/01 09:10:23  revo
+  Marc Rausell: ++ trd ca
+
+  Revision 1.21  2009/12/15 17:30:42  revo
+  Antonio Codazzi: +trd it
+
+  Revision 1.20  2009/08/27 16:33:26  revo
+  Sebastian Cyprych: +trd pl
+
+  Revision 1.19  2008/02/09 17:31:06  revo
+  Wieland Pusch: +trd de+en
+
+  Revision 1.18  2008/01/28 17:30:44  revo
+  Wieland Pusch: +trd bg
+
+  Revision 1.17  2007/06/22 17:25:45  revo
+  Tulio Flores: +tr pt
+
+  Revision 1.16  2003/12/16 17:30:57  revo
+  Dmitri Gabinski: +trd be
+
+  Revision 1.15  2002/10/21 16:34:31  revo
+  Oscar Puig: + trd ca
+
+  Revision 1.14  2002/10/01 16:39:07  revo
+  Paul Peeraerts: ald trd nl
+
+  Revision 1.13  2002/05/30 15:01:51  revo
+  Alejandro Mejia Greene: ald 1 his trd
+
+  Revision 1.12  2002/05/15 16:37:06  revo
+  Sergio Pokrovskij: +KOMP, +ehxosxangxo
+
+  Revision 1.11  2002/02/05 17:32:19  revo
+  Yury Finkel: konv (f), formatigis
+
+  Revision 1.10 2001/11/30 17:36:39 revo
+  Jozefo Horvath: +trd hu
+
+  Revision 1.9 2001/06/15 10:22:49 revo
+  Marc Bavant: +trd fr, kompletigis ref cel al resoni
+
+  Revision 1.8 2001/04/14 17:23:29 revo
+  Jerano Zachrisson: +trd sv
+
+  Revision 1.7 2001/04/04 16:17:42 revo
+  Yury Finkel: +trd ru
+
+  -->
+</vortaro>

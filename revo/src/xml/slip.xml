@@ -1,0 +1,163 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: slip.xml,v 1.17 2015/07/04 08:37:43 revo Exp $">
+<kap>
+  <ofc>5</ofc>
+  <rad>slip</rad>/o
+  <fnt>Z</fnt>
+</kap>
+<drv mrk="slip.0o">
+  <kap><tld/>o</kap>
+  <snc>
+    <dif>
+      Kartona a&ubreve; papera folieto, facile klasigebla, sur kiu oni skribas
+      ian noton:
+      <ekz>
+        la unua libreto <klr>...</klr> prezentas ilustra&jcirc;ojn kaj
+        tekstetojn; la
+        dua &ndash; eltondotajn <tld/>ojn kun a&ubreve; sen vortoj
+        dorsflanke
+        <fnt><aut>Alessandra Di Donato</aut>: <vrk>Ni ludas
+        por...lerni</vrk>, <bib>Monato</bib>, <lok>jaro 1997a, numero
+        5a,
+        p. 23a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_k;&c_a;&c_r;&c_t;&c_k;&c_a;</trd>,
+    <trd>&c_k;&c_a;&c_r;&c_t;&c_a;&c_ch;&c_k;&c_a;
+    <klr tip="amb">(&c_d;&c_l;&c_ja;
+    &c_k;&c_a;&c_r;&c_t;&c_a;&c_t;&c_e;&c_k;&c_ib;)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>kartotékový lístek</trd>,
+    <trd>kartotéční lístek</trd>
+  </trdgrp>
+  <trd lng="de">Zettel</trd>
+  <trdgrp lng="fa">
+    <trd>&a_b;&a_r;&f_g;&a_h;</trd>
+    <trd>&a_f;&f_y;&a_sh;</trd>
+  </trdgrp>
+  <trd lng="fr">fiche</trd>
+  <trdgrp lng="hu">
+    <trd>c&eacute;dula</trd>,
+    <trd>(jegyzet)<ind>karton</ind></trd>,
+    <trd>jegyzetpap&iacute;r</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>kaart<klr tip="ind"> (in kaartsysteem)</klr></trd>,
+    <trd>briefje</trd>
+  </trdgrp>
+  <trd lng="ru">&c_k;&c_a;&c_r;&c_t;&c_o;&c_ch;&c_k;&c_a; <klr tip="amb">(&c_d;&c_l;&c_ja;
+  &c_k;&c_a;&c_r;&c_t;&c_o;&c_t;&c_je;&c_k;&c_i;)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>kartotečný lístok</trd>,
+    <trd>lístok papiera</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="slip.0aro">
+  <kap><tld/>aro</kap>
+  <snc>
+    <dif>
+      Serio de slipoj, ordinare sisteme ordigitaj, per kiu oni kolektas
+      informojn:
+      <ekz>
+        utiligante la abundan <tld/>aron, jam de jaroj kolektitan de
+        Grosjean-Maupin
+        <fnt><aut>Gaston Waringhien</aut>, <bib>PIV1</bib>,
+        <lok>&gcirc;enerala
+        anta&ubreve;parolo</lok></fnt>
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>blok papíru</trd>,
+    <trd>kartotéka</trd>,
+    <trd>lístkovnice</trd>
+  </trdgrp>
+  <trd lng="fr">fichier<klr> (ensemble de fiches)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>kartot&eacute;k</trd>,
+    <trd>c&eacute;dulakatal&oacute;gus</trd>
+  </trdgrp>
+  <trd lng="ru">&c_k;&c_a;&c_r;&c_t;&c_o;&c_t;&c_je;&c_k;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>blok papiera</trd>,
+    <trd>kartotéka</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="slip.suflor0eto">
+  <kap>suflor<tld/>eto</kap>
+  <uzo tip="fak">PED</uzo>
+  <snc>
+    <dif>
+      Kartona a&ubreve; papera folieto kun notoj, kiun oni ka&scirc;e uzas dum
+      ekzameno.
+    </dif>
+  </snc>
+  <refgrp tip="sin">
+    <ref cel="slip.kasx0eto">ka&scirc;<tld/>eto</ref>
+  </refgrp>
+  <trd lng="be">&c_sh;&c_p;&c_a;&c_r;&c_g;&c_a;&c_l;&c_k;&c_a;</trd>
+  <trd lng="de">Spickzettel</trd>
+  <trd lng="fa">&a_b;&a_r;&f_g;&a_h;&zwnj;&f_y;
+  &a_t;&a_q;&a_l;&a_b;</trd>
+  <trd lng="fr">antis&egrave;che</trd>
+  <trd lng="hu">puska <klr tip="ind">(&aacute;tv.)</klr></trd>
+  <trd lng="nl">spiekbriefje</trd>
+  <trd lng="ru">&c_sh;&c_p;&c_a;&c_r;&c_g;&c_a;&c_l;&c_k;&c_a;</trd>
+</drv>
+
+<drv mrk="slip.kasx0eto">
+  <kap>ka&scirc;<tld/>eto</kap>
+  <uzo tip="fak">PED</uzo>
+  <snc>
+    <ref tip="dif" cel="slip.suflor0eto">suflor<tld/>eto</ref>
+  </snc>
+  <trd lng="be">&c_sh;&c_p;&c_a;&c_r;&c_g;&c_a;&c_l;&c_k;&c_a;</trd>
+  <trd lng="de">Spickzettel</trd>
+  <trd lng="fa">&a_b;&a_r;&f_g;&a_h;&zwnj;&f_y;
+  &a_t;&a_q;&a_l;&a_b;</trd>
+  <trd lng="fr">antis&egrave;che</trd>
+  <trd lng="hu">puska <klr tip="ind">(&aacute;tv.)</klr></trd>
+  <trd lng="nl">spiekbriefje</trd>
+  <trd lng="ru">&c_sh;&c_p;&c_a;&c_r;&c_g;&c_a;&c_l;&c_k;&c_a;</trd>
+</drv>
+</art>
+<!--
+$Log: slip.xml,v $
+Revision 1.17  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.15  2009/06/20 18:00:46  revo
+Wieland Pusch: korr arabaj/persaj koderoj
+
+Revision 1.14  2009/05/04 16:32:08  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.13  2005/05/25 16:31:51  revo
+Yury Finkel: +trd ru
+
+Revision 1.12  2004/10/18 16:32:37  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.11  2003/11/03 17:30:31  revo
+Jeromo Vasxe: + ~aro, + fak ped
+
+Revision 1.10 2003/01/15 17:31:31 revo
+Zmicier Lapcionak: + trd be
+
+Revision 1.9 2002/07/26 17:30:33 revo
+jxerom vasxe: + ekz, + trd fr
+
+Revision 1.8 2002/02/13 17:33:50 revo
+-->
+</vortaro>

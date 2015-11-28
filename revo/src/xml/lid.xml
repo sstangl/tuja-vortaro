@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: lid.xml,v 1.6 2015/07/04 08:37:38 revo Exp $">
+<kap>
+  <rad>lid</rad>/o
+</kap>
+<drv mrk="lid.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="lid.0o.MON">
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      <ref tip="lst" cel="unu.mon0o" lst="voko:monunuoj">Monunuo</ref>
+      de <ref tip="vid" cel="litovi.L0o.GEOG">Litovio</ref>;
+      ISO-4217-simbole: LTL:
+      <ekz>
+        1 e&ubreve;ro da&ubreve;re valoros 3,4528 <tld/>ojn
+        <fnt>
+         <aut>Last</aut>,
+         <vrk>Lido foriras, e&ubreve;ro alvenas</vrk>,
+         <bib>Monato</bib>,
+         <lok>2014</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="fr">litas</trd>
+    <trd lng="id">lats</trd>
+    <trd lng="pl">lit <klr>litewski</klr></trd>
+  </snc>
+  <trd lng="cs">lido</trd>
+  <trd lng="sk">lid</trd>
+</drv>
+</art>
+
+<!--
+$Log: lid.xml,v $
+Revision 1.6  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.5  2015/06/29 16:33:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.4  2014/10/26 16:10:21  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.3  2014/09/12 07:10:15  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.2  2014/09/10 08:10:13  revo
+Damien Brucker: -eraro cxe ref
+
+Revision 1.1  2014/09/09 01:10:10  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

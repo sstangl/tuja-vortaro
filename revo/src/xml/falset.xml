@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: falset.xml,v 1.17 2015/07/04 08:37:34 revo Exp $">
+<kap>
+  <rad>falset</rad>/o
+</kap>
+<drv mrk="falset.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="falset.0o.MUZ">
+    <uzo tip="fak">MUZ</uzo>
+    <dif>
+      Kapvo&ccirc;a <ref tip="super" cel="regist.0o.MUZ">registro</ref>,
+      kiun viroj povas uzi por kanti same altatone kiel inoj:
+      <ekz>
+        viroj pene kantis per <tld/>o, dum virinoj imitis viran bason
+        <fnt><bib>LaFamilio</bib>, <lok>&ccirc;apitro 30a, p.
+        413a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_f;&c_a;&c_l;&c_mol;&c_c;&c_e;&c_t;
+  <klr>(&c_g;&c_o;&c_l;&c_a;&c_s;)</klr></trd>
+  <trdgrp lng="cs">
+    <trd>falzet</trd>,
+    <trd>fistule</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Falsett</trd>,
+    <trd>Kopfstimme</trd>,
+    <trd>Fistelstimme</trd>
+  </trdgrp>
+  <trd lng="fr">fausset<klr> (musique)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>fejhang</trd>,
+    <trd>falzett</trd>,
+    <trd>falsetto</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>falset</trd>,
+    <trd>kopstem</trd>
+  </trdgrp>
+  <trd lng="pl">falset</trd>
+  <trd lng="pt">falsete</trd>
+  <trd lng="ru">&c_f;&c_a;&c_l;&c_mol;&c_c;&c_je;&c_t;</trd>
+  <trdgrp lng="sk">
+    <trd>falzet</trd>,
+    <trd>fistula</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="falset.0ulo">
+  <kap><tld/>ulo</kap>
+  <snc mrk="falset.0ulo.MUZ">
+    <uzo tip="fak">MUZ</uzo>
+    <dif>
+      Vira <ref tip="super" cel="kant.0isto.profesio">kantisto</ref>
+      kantanta per <tld/>o.
+    </dif>
+  </snc>
+  <trd lng="be">&c_f;&c_a;&c_l;&c_mol;&c_c;&c_e;&c_t;
+  <klr>(&c_s;&c_mol;&c_p;&c_ja;&c_v;&c_a;&c_k;)</klr></trd>
+  <trdgrp lng="fr">
+    <trd>falsettiste</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>falzettista</trd>
+  </trdgrp>
+  <trd lng="pl">falset</trd>
+  <trd lng="ru">&c_f;&c_a;&c_l;&c_mol;&c_c;&c_je;&c_t;<klr tip="amb">
+  (&c_p;&c_je;&c_v;&c_je;&c_c;)</klr></trd>
+</drv>
+</art>
+<!--
+$Log: falset.xml,v $
+Revision 1.17  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.15  2010/04/09 16:32:48  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.14  2007/05/13 16:31:04  revo
+Tulio Flores: +tr pt
+
+Revision 1.13  2005/10/28 16:31:42  revo
+Jeromo Vasxe: kor tez, + ekz
+
+Revision 1.12 2003/12/21 17:32:37 revo
+Dmitri Gabinski: +trd be
+
+Revision 1.11 2003/09/19 16:30:50 revo
+Yury Finkel: +trd ru
+
+Revision 1.10 2002/09/03 17:32:18 revo
+Jozefo Horvath: +trd hu
+
+Revision 1.9 2002/06/10 17:31:34 revo
+jxeromo vasxe: reverkis dif kun tez, + ~ulo
+
+Revision 1.8 2002/01/29 17:32:13 revo
+-->
+</vortaro>

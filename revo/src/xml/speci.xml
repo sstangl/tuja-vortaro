@@ -1,0 +1,135 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: speci.xml,v 1.15 2015/07/04 08:37:43 revo Exp $">
+<kap>
+  <rad>speci</rad>/o <fnt><bib>SPV</bib></fnt>
+</kap>
+<drv mrk="speci.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="speci.0o.BIO">
+    <uzo tip="fak">BOT</uzo>
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      &Scirc;tupo de la botanika kaj zoologia
+      klasifikoj, kies membroj povas interkruci&gcirc;i
+      kaj heredigi siajn ecojn
+      (<trd lng="la">species</trd>):
+      <ekz>
+        la botanikistoj asertas, ke post 50 jaroj 60 000
+        plant<tld/>oj estos malaperintaj
+        <fnt><aut>R. Roze</aut>, <vrk>Vivisekcio de
+        polenero</vrk>, <bib>Monato</bib>, <lok>1997:11, p.
+        12a</lok></fnt>.
+      </ekz>
+    </dif>
+    <ref tip="malprt" cel="genr.0o.BIO">genro</ref>
+  </snc>
+  <trd lng="be">&c_v;&c_ib;&c_d; <klr tip="amb">(&c_b;&c_ib;&c_ja;&c_l;&c_ja;&c_g;&c_ib;&c_ch;&c_n;&c_y;)</klr></trd>
+  <trd lng="cs">živočišný druh</trd>
+  <trd lng="de">Art</trd>
+  <trd lng="en">species</trd>
+  <trd lng="fr">esp&egrave;ce<klr> (biol.)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>faj</trd>,
+    <trd>species</trd>
+  </trdgrp>
+  <trd lng="nl">soort</trd>
+  <trd lng="pl">gatunek</trd>
+  <trd lng="ru">&c_v;&c_i;&c_d; <klr
+  tip="amb">(&c_b;&c_i;&c_o;&c_l;&c_o;&c_g;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j;)</klr></trd>
+  <trd lng="sk">živočíšny druh</trd>
+</drv>
+
+<drv mrk="speci.0ismo">
+  <kap><tld/>ismo</kap>
+  <snc mrk="speci.0ismo.POL">
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      Opinio, ke homo havas pli vastajn rajtojn ol aliaj 
+      estuloj, rigardata kiel speco de <ref tip="vid" 
+      cel="ras.0ismo.POL">rasismo</ref> fare de kontra&ubreve;<tld/>istoj:
+      <ekz>
+        por streki la disigan linion inter ni kaj la aliaj bestoj 
+        <klr>...</klr> se vi elektus la aspekton, kiel barieron, vi 
+        estus kulpa pri iu tipo de rasismo: la <tld/>ismo, kiu ne estas 
+        malpli grava
+        <fnt>
+          <aut>P. L. Cinquantini</aut>,
+          <vrk><url
+          ref="http://www.cinquantini.it/esperant/bestoj.html">
+          La rajtoj de bestoj</url></vrk>,
+          <lok>[vidita en 2008]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">sp&eacute;cisme</trd>
+</drv>
+
+<drv mrk="speci.sub0o">
+  <kap>sub<tld/>o</kap>
+  <snc mrk="speci.sub0o.BIO">
+    <uzo tip="fak">BOT</uzo>
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      Tuto de vivuloj de sama <tld/>o prezentantaj apartajn,
+      nature heredatajn ecojn, pli klare distingebla ol
+      <ref tip="vid" cel="vari.0ajxo.BIO">varia&jcirc;o</ref>
+      (<trd lng="la">subspecies</trd>):
+      <ekz>
+        neniu klara dividlinio estis desegnita inter <tld/>oj
+        kaj sub<tld/>oj
+        <fnt>
+          <bib>OriginoDeSpecioj</bib>,
+          <lok>&ccirc;apitro 2a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <refgrp tip="vid">
+    <ref cel="ras.0o.BIO">raso</ref>
+  </refgrp>
+  <trdgrp lng="sk">
+    <trd>odroda</trd>,
+    <trd>poddruh</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>poddruh</trd>,
+    <trd>subspecies <klr>(plemeno, rasa)</klr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: speci.xml,v $
+Revision 1.15  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:33:24  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.13  2012/08/10 14:12:09  revo
+Jeromo Vasxe: + sub~o
+
+Revision 1.12  2010/01/15 17:30:25  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.11  2008/07/31 17:47:55  revo
+Jeromo Vasxe: + ~ismo
+
+Revision 1.10  2008/07/16 16:30:34  revo
+Jeromo Vasxe: kor fnt + 1 ekz
+
+Revision 1.9  2004/03/07 17:30:47  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.8  2002/07/25 17:32:08  revo
+Jeromo Vasxe: + ekz, + trd fr
+
+Revision 1.7 2002/07/12 17:32:52 revo
+Jozefo Horvath: +trd hu
+
+Revision 1.6 2002/02/15 17:33:30 revo
+-->
+</vortaro>

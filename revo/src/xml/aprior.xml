@@ -1,0 +1,164 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: aprior.xml,v 1.18 2015/07/04 08:37:30 revo Exp $">
+<kap>
+  <rad>aprior</rad>/a
+</kap>
+<drv mrk="aprior.0a">
+  <kap><tld/>a</kap>
+  <snc>
+    <uzo tip="fak">FIL</uzo>
+    <dif>
+      Anta&ubreve;sperta a&ubreve; ekstersperta, kiu anta&ubreve;as
+      sperton a&ubreve; estas premiso
+      por akiri sperton a&ubreve; faktojn:
+      <ekz>
+        la&ubreve; Kant, la konceptoj pri tempo kaj spaco estas
+        <tld/>aj.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="aksiom.0o">aksiomo</ref>,
+      <ref cel="postul1.0o">postulato</ref>,
+      <ref cel="nask.de0akun0ita">denaska</ref>
+    </refgrp>
+    <trd lng="be">&c_a;&c_p;&c_r;&c_y;&c_jo;&c_r;&c_n;&c_y;</trd>
+    <trdgrp lng="de">
+      <trd>a priori</trd>,
+      <trd>apriorisch</trd>,
+      <trd>aus dem Denken (gewonnen)</trd>,
+      <trd>aus Vernunftgr&uuml;nden (erschlossen)</trd>
+    </trdgrp>
+    <trd lng="es">a priori</trd>
+    <trd lng="fr">a priori</trd>
+    <trd lng="hu">a priori</trd>
+    <trd lng="ru">&c_a;&c_p;&c_r;&c_i;&c_o;&c_r;&c_n;&c_y;&c_j;</trd>
+  </snc>
+  <snc>
+    <uzo tip="fak">FIL</uzo>
+    <dif>
+      Bazita sur teorio:
+      <ekz>
+        Lo&jcirc;bano estas artefarita lingvo <tld/>a.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="spekul2.0a">spekulativa</ref>
+    <trd lng="be">&c_a;&c_p;&c_r;&c_y;&c_jo;&c_r;&c_n;&c_y;</trd>
+    <trd lng="de">apriorisch</trd>
+    <trd lng="es">a priori</trd>
+    <trd lng="fr">a priori</trd>
+    <trd lng="hu">a priori</trd>
+    <trd
+    lng="ru">&c_a;&c_p;&c_r;&c_i;&c_o;&c_r;&c_n;&c_y;&c_j;</trd>
+  </snc>
+  <snc>
+    <uzo tip="stl">KOMUNE</uzo>
+    <dif>
+      Anticipa, anta&ubreve;fakta, bazita sur &gcirc;eneralaj konsideroj,
+      dum faktoj mankas:
+      <ekz>
+        <tld/>e tio &scirc;ajnas bona solvo.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="antici.0i">anticipa</ref>
+    <trd lng="be">&c_a;&c_p;&c_r;&c_y;&c_jo;&c_r;&c_n;&c_y;</trd>
+    <trdgrp lng="de">
+      <trd>a priori</trd>,
+      <trd>apriorisch</trd>,
+      <trd>mutma&szlig;lich</trd>,
+      <trd>ohne &Uuml;berpr&uuml;fung</trd>
+    </trdgrp>
+    <trd lng="es">a priori</trd>
+    <trd lng="fr">a priori</trd>
+    <trdgrp lng="hu">
+      <trd>a priori</trd>,
+      <trd>elm&eacute;leti</trd>,
+      <trd>felt&eacute;telezett</trd>
+    </trdgrp>
+    <trd lng="ru">&c_a;&c_p;&c_r;&c_i;&c_o;&c_r;&c_n;&c_y;&c_j;</trd>
+  </snc>
+  <snc>
+    <uzo tip="fak">KOMP</uzo>
+    <dif>
+      En programlingvo, pri esprimilo kiu kvankam formale
+      apartenas al kategorio de deklarendaj objektoj (proceduro,
+      funkcio, datumtipo, konstanto, variablo), tamen estas
+      disponebla en la fontaj programoj sen deklaro a&ubreve; difino:
+      <ekz>
+        en Paskalo <em>abs</em> estas <tld/>a funkcio.
+      </ekz>
+    </dif>
+    <trd lng="de">vordefiniert</trd>
+    <trdgrp lng="en">
+      <trd>predefined</trd>,
+      <trd>standard</trd>,
+      <trd>intrinsic</trd>
+    </trdgrp>
+    <trdgrp lng="es">
+      <trd>predefinido</trd>,
+      <trd>por defecto</trd>,
+      <trd>intr&iacute;nseco</trd>
+    </trdgrp>
+    <trd lng="fr">pr&eacute;d&eacute;fini</trd>
+    <trd lng="hu">el&odblac;re meghat&aacute;rozott</trd>
+    <trdgrp lng="ru">
+      <trd>&c_p;&c_r;&c_je;&c_d;&c_o;&c_p;&c_i;&c_s;&c_a;&c_n;&c_n;&c_y;&c_j;
+</trd>,
+      <trd>&c_s;&c_t;&c_a;&c_n;&c_d;&c_a;&c_r;&c_t;&c_n;&c_y;&c_j;</trd>,
+      <trd>&c_v;&c_s;&c_t;&c_r;&c_o;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>
+    </trdgrp>
+   <trdgrp lng="it">
+      <trd>predefinito</trd>,
+      <trd>default<klr> (di default)</klr></trd>,
+      <trd>standard</trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>apriorní</trd>,
+    <trd>daný</trd>,
+    <trd>založený na teorii</trd>
+  </trdgrp>
+  <trd lng="it">a priori</trd>
+  <trdgrp lng="sk">
+    <trd>apri&oacute;rny</trd>,
+    <trd>apriórny</trd>
+  </trdgrp>
+</drv>
+<refgrp tip="ant">
+  <ref cel="aposte.0a">aposteriora</ref>.
+</refgrp>
+</art>
+<!--
+$Log: aprior.xml,v $
+Revision 1.18  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.16  2014/08/10 09:10:10  revo
+Guillermo Molleda Jimena: Hispana tradukado
+
+Revision 1.15  2009/03/07 17:30:35  revo
+Antonio Codazzi: +trd it
+
+Revision 1.14  2004/07/15 19:02:55  revo
+Viliam Bur: +trd sk
+
+Revision 1.13  2003/11/10 17:31:09  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.12  2002/08/22 17:31:42  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.11  2002/05/13 16:34:31  revo
+Alejandro Mejia Greene: ald his trd
+
+Revision 1.10  2002/03/03 17:30:50  revo
+Ulrich Fellmann: + 7 pliaj germ trdj
+
+Revision 1.9  2002/02/27 18:02:22  revo
+-->
+</vortaro>

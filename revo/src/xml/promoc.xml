@@ -1,0 +1,184 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: promoc.xml,v 1.15 2015/07/10 19:10:16 revo Exp $">
+<kap>
+  <rad>promoci</rad>/i <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="promoc.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="promoc.0i.POL">
+    <ref tip="dif" cel="rang.pli0igi.POL">plirangigi</ref>
+    <ekz>
+      <tld/>i episkopon al kardinaleco;
+    </ekz>
+    <ekz>
+      <tld/>i iun le&ubreve;tenanto.
+    </ekz>
+    <trdgrp lng="cs">
+      <trd>obohatit</trd>,
+      <trd>roz&scaron;&iacute;&rcaron;it</trd>,
+      <trd>zv&yacute;&scaron;it &uacute;rove&ncaron;</trd>
+    </trdgrp>
+    <trd lng="de">bef&ouml;rdern</trd>
+    <trdgrp lng="fa">
+      <trd>&a_t;&a_r;&a_f;&f_y;&a_ayn; &a_d;&a_A;&a_d;&a_n;</trd>,
+      <trd>&a_A;&a_r;&a_t;&a_q;&a_A; &a_d;&a_A;&a_d;&a_n;</trd>
+    </trdgrp>
+    <trd lng="fr">&eacute;lever<klr> (en dignit&eacute;)</klr></trd>
+    <trd lng="hu">el&odblac;l&eacute;ptet</trd>
+    <trdgrp lng="nl">
+      <trd>bevorderen</trd>,
+      <trd>promoveren</trd>
+    </trdgrp>
+    <trd lng="pt">promover <klr>(a um cargo mais alto)</klr></trd>
+    <trdgrp lng="ru">
+      <trd>&c_v;&c_o;&c_z;&c_v;&c_o;&c_d;&c_i;&c_t;&c_mol; &c_v; &c_ch;&c_i;&c_n;</trd>,
+      <trd>&c_p;&c_o;&c_v;&c_y;&c_sh;&c_a;&c_t;&c_mol; &c_v; &c_z;&c_v;&c_a;&c_n;&c_i;&c_i;</trd>
+    </trdgrp>
+    <trdgrp lng="sk">
+      <trd>obohati&tcaron;</trd>,
+      <trd>roz&scaron;&iacute;ri&tcaron;</trd>,
+      <trd>zv&yacute;&scaron;i&tcaron; &uacute;rove&ncaron;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="promoc.0i.EKON">
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      Famigi, konigi kaj valorigi &ccirc;e la publiko
+      diversmaniere (per ludoj, rabatoj, konkursoj...).
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="reklam.0i">reklami</ref>
+    </refgrp>
+  </snc>
+  <trd lng="fr">promouvoir</trd>
+</drv>
+
+<drv mrk="promoc.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="promoc.0o.POL">
+    <dif>
+      Alti&gcirc;o al ofico:
+      <ekz>
+        &leftquot;vidu, nun tiu ricevis <tld/>on&rightquot;
+        <fnt><bib>Fab2</bib>, <lok>flikilo</lok></fnt>!
+      </ekz>
+      <ekz>
+        ili estas el la sama <tld/>o
+        <klr>(estis samtempe <tld/>itaj)</klr>.
+      </ekz>
+    </dif>
+    <trdgrp lng="cs">
+      <trd>pov&yacute;&scaron;en&iacute;</trd>,
+      <trd>promoce</trd>
+    </trdgrp>
+    <trd lng="de">Bef&ouml;rderung</trd>
+    <trdgrp lng="fa">
+      <trd>&a_t;&a_r;&a_f;&f_y;&a_ayn;</trd>,
+      <trd>&a_A;&a_r;&a_t;&a_q;&a_A;</trd>
+    </trdgrp>
+    <trd lng="hu">el&odblac;l&eacute;ptet&eacute;s</trd>
+    <trdgrp lng="nl">
+      <trd>bevordering</trd>,
+      <trd>promotie</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_p;&c_r;&c_o;&c_i;&c_z;&c_v;&c_o;&c_d;&c_s;&c_t;&c_v;&c_o; &c_v; &c_ch;&c_i;&c_n;</trd>,
+      <trd>&c_p;&c_o;&c_v;&c_y;&c_sh;&c_je;&c_n;&c_i;&c_je; &c_v; &c_z;&c_v;&c_a;&c_n;&c_i;&c_i;</trd>
+    </trdgrp>
+    <trdgrp lng="sk">
+      <trd>pov&yacute;&scaron;enie</trd>,
+      <trd>prom&oacute;cia</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="promoc.0o.EKON">
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      Organizita famigo kaj valorigo de venda&jcirc;o:
+      <ekz>
+        la informado konsistas ne nur el reklamado, sed el tuta gamo da 
+        metodoj por <tld/>ado, el publikaj rilatoj, kaj el profesiaj 
+        vendosistemoj  
+        <fnt>
+          <aut>D. Keefe</aut>,
+          <vrk><url ref="http://sezonoj.ru/2012/05/212keefe/">
+          La leciono de Vakero Marlboro kaj Esperanto</url></vrk>,
+          <lok>La Balta Ondo, 2012&ndash;05-29</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">promotion</trd>
+</drv>
+
+<drv mrk="promoc.0igxi">
+  <kap><tld/>i&gcirc;i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="promoc.0igxi.POL">
+    <ref tip="dif" cel="rang.pli0igxi.POL">plirangi&gcirc;i</ref>
+    <ekz>
+      Barks <klr>...</klr> per konsciencaj laboroj <tld/>i&gcirc;is
+      <fnt>
+        <aut>M. Boulton</aut>,
+        <vrk><url ref="http://esperanto.org.uk/lbe/arkivo/970/18.html">
+        Pli fari ol fanfari</url></vrk>,
+        <lok>La Brita Esperantisto, 2011 printempo</lok>
+      </fnt>.
+     </ekz>
+  </snc>
+  <trdgrp lng="fr">
+    <trd>&ecirc;tre promu</trd>,
+    <trd>monter en grade</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="promoc.mal0o">
+  <kap>mal<tld/>o</kap>
+  <snc mrk="promoc.mal0o.POL">
+    <dif>
+      Malaltigo en hierarkio,
+      senigo je alta grado, ofico;
+      malplirangigo:
+      <ekz>
+        mi akceptos mian mal<tld/>on sen plendo
+        <fnt><aut>B. Vaha</aut>, <vrk>Adolesko</vrk>, 
+        <lok>1987</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="fr">
+    <trd>d&eacute;gradation<klr> (perte de rang)</klr></trd>,
+    <trd>destitution</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: promoc.xml,v $
+Revision 1.15  2015/07/10 19:10:16  revo
+Jeromo Vasxe: + snc ekon
+
+Revision 1.14  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.13  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.12  2013/12/03 20:10:14  revo
+Jeromo Vasxe: + kk ref
+
+Revision 1.11  2011/10/15 18:10:09  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.10  2010/04/24 17:08:04  revo
+Jeromo Vasxe: + mal~o
+
+Revision 1.9  2006/04/02 17:02:26  revo
+Tulio Flores: +tr pt
+
+Revision 1.8  2005/06/20 16:31:59  revo
+-->
+</vortaro>

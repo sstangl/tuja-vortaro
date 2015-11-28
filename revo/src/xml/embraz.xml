@@ -1,0 +1,140 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: embraz.xml,v 1.20 2015/07/04 08:37:33 revo Exp $">
+<kap>
+<rad>embrazur</rad>/o <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="embraz.0">
+  <kap><tld/>o</kap>
+  <snc mrk="embraz.0.ARKI">
+    <uzo tip="fak">ARKI</uzo>
+    <dif>
+      Internaj flankoj de fenestro a&ubreve; de pordo.
+    </dif>
+    <trd lng="be">&c_p;&c_r;&c_a;&c_jo;&c_m;
+    <klr>(&c_d;&c_z;&c_mol;&c_v;&c_ja;&c_r;&c_e;&c_j;)</klr></trd>
+    <trd lng="de">Leibung</trd>
+    <trd lng="es">aspillera</trd>
+    <trdgrp lng="hu">
+      <trd>ablakm&eacute;lyed&eacute;s</trd>,
+      <trd>ajt&oacute;m&eacute;lyed&eacute;s</trd>
+    </trdgrp>
+    <trd lng="it">strombo</trd> 
+    <trd lng="nl">kozijn</trd>
+    <trd lng="fr">embrasure</trd>
+    <trdgrp lng="pl">
+      <trd>framuga<klr> okienna</klr></trd>,
+      <trd>o&sacute;cie&zdot;nica</trd>
+    </trdgrp>
+    <trd lng="ru">&c_p;&c_r;&c_o;&c_jo;&c_m;
+    <klr>(&c_d;&c_v;&c_je;&c_r;&c_n;&c_o;&c_j;)</klr></trd>
+  </snc>
+  <snc mrk="embraz.0.fenestronicxo">
+    <dif>
+     <ref tip="malprt" cel="fenest.0o">Fenestro</ref><ref tip="super"
+     cel="nicx.0o">ni&ccirc;o</ref>:
+      <ekz>
+        mi fermis la pordon, lasis la &scirc;losilon je la
+        <tld/>o
+        <fnt>
+          <aut>E. de Bonaero</aut>,
+          <vrk>La Friponeto de Tormes</vrk>,
+          <lok>1973</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <adm>
+    Kia diferenco kun la unua senco? La derivajxo "fenestronicxo"
+    estas trovebla nenie. <aut>MB</aut>
+    Supozeble temas pri tre malgranda fenestrotruo kiel en 
+    arestejoj kaj mona&hcirc;ejoj.<aut>wd</aut>
+    </adm>
+    <trd lng="be">&c_p;&c_r;&c_a;&c_jo;&c_m;
+    <klr>(&c_a;&c_k;&c_n;&c_a;)</klr></trd>
+    <trd lng="de">Fensternische</trd>
+    <trd lng="hu">ablakf&uuml;lke</trd>  
+    <trd lng="it">sguancio</trd>   
+    <trd lng="nl">vensternis</trd>
+    <trd lng="pl">wn&eogonek;ka okienna</trd>
+    <trd lng="pt">v&atilde;o <klr tip="amb">(de janela)</klr></trd>
+    <trd lng="ru">&c_p;&c_r;&c_o;&c_jo;&c_m;
+    <klr>(&c_o;&c_k;&c_o;&c_n;&c_n;&c_y;&c_j;)</klr></trd>
+  </snc>
+  <snc mrk="embraz.0.MIL">
+    <uzo tip="fak">MIL</uzo>
+    <dif>
+      Aperturo en muro, &scirc;ipo a&ubreve; fortika&jcirc;o, tra kiu
+      oni pafas.
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="krenel.0o">krenelo</ref>.
+    </refgrp>
+    <trdgrp lng="be">
+      <trd>&c_a;&c_m;&c_b;&c_r;&c_a;&c_z;&c_u;&c_r;&c_a;</trd>,
+      <trd>&c_b;&c_a;&c_j;&c_n;&c_ib;&c_c;&c_a;</trd>
+    </trdgrp>
+    <trd lng="de">Schie&szlig;scharte</trd>
+    <trd lng="es">tronera</trd>
+    <trdgrp lng="fr">
+      <trd>embrasure<klr tip="ind"> (meurtri&egrave;re)</klr></trd>,
+      <trd>meurtri&egrave;re<klr tip="ind"> (embrasure)</klr></trd>
+    </trdgrp>
+    <trd lng="hu">l&odblac;r&eacute;s</trd>   
+    <trd lng="it">feritoia</trd>  
+    <trd lng="nl">schietgat</trd>
+    <trdgrp lng="pl">
+      <trd>ambrazura</trd>,
+      <trd>otw&oacute;r <ind>strzelniczy</ind></trd>
+    </trdgrp>
+    <trd lng="pt">seteira</trd>
+    <trdgrp lng="ru">
+      <trd>&c_a;&c_m;&c_b;&c_r;&c_a;&c_z;&c_u;&c_r;&c_a;</trd>,
+      <trd>&c_b;&c_o;&c_j;&c_n;&c_i;&c_c;&c_a;</trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>dveřní otvor</trd>,
+    <trd>okenní otvor</trd>,
+    <trd>střílna</trd>
+  </trdgrp>
+  <trd lng="en">embrasure</trd>
+  <trdgrp lng="sk">
+    <trd>strieľňa</trd>,
+    <trd>výklenok</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: embraz.xml,v $
+Revision 1.20  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2010/09/07 16:30:24  revo
+Jeromo Vasxe: + ekz
+
+Revision 1.17  2010/06/10 16:30:38  revo
+Agustin Garcia Lopez: +trd es
+
+Revision 1.16  2010/06/06 16:31:11  revo
+Antonio Codazzi: +trd it
+
+Revision 1.15  2010/05/14 16:30:59  revo
+Russ Williams: +trd en
+
+Revision 1.14  2010/01/31 17:30:34  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.13  2007/06/28 16:31:24  revo
+Tulio Flores: +tr pt
+
+Revision 1.12  2005/03/29 16:32:29  revo
+Marc Bavant: kor duobligitajn punktojn
+
+Revision 1.11  2005/03/11 16:52:01  revo
+-->
+</vortaro>

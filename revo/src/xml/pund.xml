@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: pund.xml,v 1.17 2014/10/26 16:10:28 revo Exp $">
+<kap>
+  <ofc>9</ofc><rad>pund</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="pund.0o">
+  <kap><ofc>9</ofc><tld/>o</kap>
+  <mlg>GBP</mlg>
+  <mlg>&#163;</mlg>
+  <snc mrk="pund.0o.EKON">
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      <ref tip="lst" cel="unu.mon0o.EKON"
+      lst="voko:monunuoj">Monunuo</ref>,
+      interalie de Britujo:
+      <ekz>
+        la firmao &jcirc;us anoncis jaran malprofiton
+        de 61 milionoj da <tld/>oj anstata&ubreve; 27 milionoj, kiel
+        planite<fnt><aut>E. Grimley Evans</aut>, <vrk>Interreto
+        senpage</vrk>, <bib>Monato</bib><lok>jaro 2000a, numero 11a, p.
+        23a</lok></fnt>.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="funt.sterlinga0o">sterlinga funto</ref>
+    <ref tip="prt" cel="penc.0o">penco</ref>
+  </snc>
+  <trd lng="be">&c_f;&c_u;&c_n;&c_t; &c_s;&c_t;&c_e;&c_r;&c_l;&c_ib;&c_n;&c_g;&c_a;&c_w;</trd>
+  <trd lng="ca">lliura</trd>
+  <trd lng="de">Pfund</trd>
+  <trd lng="en">pound</trd>
+  <trd lng="es">libra</trd>
+  <trdgrp lng="fa">
+    <trd>&a_l;&f_y;&a_r;&a_h;</trd>
+    <trd>&f_p;&a_w;&a_n;&a_d;</trd>
+  </trdgrp>
+  <trd lng="fr">livre<klr tip="ind"> (monnaie)</klr></trd>
+  <trd lng="hu">font<klr tip="ind"> (p&eacute;nz)</klr></trd>
+  <trd lng="id">pound</trd>
+  <trd lng="nl">pond<klr tip="ind"> (muntsoort)</klr></trd>
+  <trd lng="pl">funt</trd>
+  <trd lng="pt">libra <klr tip="amb">(esterlina)</klr></trd>
+  <trd lng="ru">&c_f;&c_u;&c_n;&c_t;
+&c_s;&c_t;&c_je;&c_r;&c_l;&c_i;&c_n;&c_g;&c_o;&c_v;</trd>
+</drv>
+</art>
+<!--
+$Log: pund.xml,v $
+Revision 1.17  2014/10/26 16:10:28  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.16  2014/02/13 17:10:15  revo
+Damien Brucker: +mlg
+
+Revision 1.15  2013/09/22 19:11:44  revo
+Wolfram Diestel: referenco al listo monunuoj
+
+Revision 1.14  2009/06/21 16:30:50  revo
+Wieland Pusch: korr arabaj/persaj koderoj
+
+Revision 1.13  2009/05/17 16:31:07  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.12  2009/03/01 17:33:31  revo
+Russ Williams: + 9OA
+
+Revision 1.11  2007/11/19 17:31:27  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.10  2007/08/11 16:30:57  revo
+-->
+</vortaro>

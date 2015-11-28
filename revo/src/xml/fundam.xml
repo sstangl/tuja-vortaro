@@ -1,0 +1,366 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: fundam.xml,v 1.30 2015/07/04 08:37:34 revo Exp $">
+<kap>
+<ofc>*</ofc>
+<rad>fundament</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="fundam.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="fundam.0o.KON">
+    <uzo tip="fak">KON</uzo>
+    <dif>
+      Masona&jcirc;o servanta kiel bazo por konstrua&jcirc;o.
+    </dif>
+    <ref tip="super" cel="baz.0o">bazo;</ref>
+    <ref tip="vid" cel="grund.0o">grundo.</ref>
+    <trdgrp lng="be">
+      <trd>&c_p;&c_a;&c_d;&c_m;&c_u;&c_r;&c_a;&c_k;</trd>,
+      <trd>&c_p;&c_a;&c_d;&c_m;&c_u;&c_r;&c_o;&c_w;&c_k;&c_a;</trd>,
+      <trd>&c_f;&c_u;&c_n;&c_d;&c_a;&c_m;&c_e;&c_n;&c_t;</trd>
+    </trdgrp>
+    <trd lng="ca">fonaments</trd>
+    <trd lng="es">cimiento</trd>
+    <trdgrp lng="it">
+      <trd>fondamenta</trd>,
+      <trd>fondazione<klr> (edil.)</klr></trd>,
+      <trd>basamento</trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>fundament</trd>,
+      <trd>podstawa</trd>,
+      <trd>podwalina</trd>
+    </trdgrp>
+    <trd lng="ru">&c_f;&c_u;&c_n;&c_d;&c_a;&c_m;&c_je;&c_n;&c_t;</trd>
+  </snc>
+  <snc mrk="fundam.0o.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Esenca bazo, &ccirc;efa principo:
+      <ekz>
+        <uzo tip="fak">ESP</uzo>
+        <uzo tip="fak">GRA</uzo>
+        la <ind><tld/>o</ind> de Esperanto devas plej severe
+        resti absolute sen&scirc;an&gcirc;a, &ccirc;ar severa netu&scirc;ebleco de nia <tld/>o
+        estas la plej grava ka&ubreve;zo de nia &gcirc;isnuna progresado kaj la plej
+        grava kondi&ccirc;o por nia regula kaj paca progresado estonta
+        <fnt><bib>F</bib>, <lok>Anta&ubreve;parolo</lok></fnt>;
+        <trd lng="fr">Fundamento</trd>
+        <trd lng="it">Fondamento<klr> (dell'Esperanto)</klr></trd>
+      </ekz>
+      <ekz>
+      <uzo tip="fak">ESP</uzo>
+      La <tld/>on de Esperanto deklaris baza le&gcirc;o de Esperanto
+      la Bulonja kongreso en 1905<fnt>AdE</fnt>;
+      </ekz>
+      <ekz>
+      <uzo tip="fak">ESP</uzo>
+      la <tld/>o de Esperanto devas trovi&gcirc;i en la manoj de &ccirc;iu bona
+      esperantisto kiel konstanta gvida dokumento<fnt><bib>F</bib>,
+      <lok>Anta&ubreve;parolo</lok></fnt>;
+      </ekz>
+      <ekz>
+        la <tld/>oj de la &scirc;tato, de teorio;
+      </ekz>
+      <ekz>
+        <ind>sen<tld/>a</ind> propono<fnt>Z</fnt>, motivo<fnt>Z</fnt>.
+        <trd lng="fr">infond&eacute;</trd>
+        <trd lng="it">infondato</trd>
+      </ekz>
+    </dif>
+    <rim>
+    Z. klarigis, ke "la&ubreve; silenta interkonsento de &ccirc;iuj esperantistoj jam
+    de tre longa tempo la sekvantaj tri verkoj estas rigardataj kiel
+    <tld/>o de Esperanto: 1&deg;) la 16-regula gramatiko; 2&deg;) la Universala
+    Vortaro; 3&deg;) la Ekzercaro<fnt><bib>F</bib>,
+    <lok>Anta&ubreve;parolo</lok></fnt>"
+    </rim>
+    <trdgrp lng="be">
+      <trd>&c_p;&c_a;&c_d;&c_m;&c_u;&c_r;&c_a;&c_k;</trd>,
+      <trd>&c_f;&c_u;&c_n;&c_d;&c_a;&c_m;&c_e;&c_n;&c_t;</trd>,
+      <trd>&c_a;&c_s;&c_n;&c_o;&c_v;&c_a;</trd>
+    </trdgrp>
+    <trd lng="ca">fonament</trd>
+    <trd lng="es">fundamento</trd>
+    <trd lng="it">fondamento</trd>
+    <trdgrp lng="pl">
+      <trd>fundament</trd>,
+      <trd>podstawa</trd>,
+      <trd>podwalina</trd>
+    </trdgrp>
+    <trd lng="ru">&c_o;&c_s;&c_n;&c_o;&c_v;&c_a;</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>podstata</trd>,
+    <trd>z&aacute;klad</trd>
+  </trdgrp>
+  <trd lng="de">Fundament</trd>
+  <trd lng="en">foundation</trd>
+  <trdgrp lng="fr">
+    <trd>fondation<klr tip="ind"> (ouvrage de ma&ccedil;onnerie)</klr></trd>,
+    <trd>fondement</trd>
+  </trdgrp>
+  <trdgrp lng="he">
+    <trd>&yod;&samekh;&vav;&dalet;</trd>,
+    <trd>&bet;&samekh;&yod;&samekh;</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>alap</trd>,
+    <trd>fundamentum</trd></trdgrp>
+  <trd lng="nl">fundament</trd>
+  <trdgrp lng="pt">
+    <trd>fundamento</trd>,
+    <trd>alicerce</trd>,
+    <trd>base</trd>,
+    <trd>pedra angular</trd>
+  </trdgrp>
+  <trd lng="sk">podstata</trd>
+</drv>
+<drv mrk="fundam.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="fundam.0a.KON">
+    <uzo tip="fak">KON</uzo>
+    <dif>
+      Apartenanta al la <tld/>o <sncref ref="fundam.0o.KON"/>:
+      <ekz>
+        <ind><tld/>a &scirc;tono</ind><fnt>B</fnt>
+        <klr>(ofte en figura senco)</klr>.
+        <trd lng="fr">pierre angulaire<klr tip="ind"> (fig.)</klr></trd>
+        <trd lng="it">pietra angolare</trd>
+        <trd lng="hu">alapk&odblac;</trd>
+      </ekz>
+    </dif>
+    <trd lng="be">&c_p;&c_a;&c_d;&c_m;&c_u;&c_r;&c_k;&c_o;&c_v;&c_y;</trd>
+    <trd lng="ca">fonamental</trd>
+    <trd lng="fr">de <ind>fondation</ind></trd>
+    <trd lng="hu">alap-</trd>
+    <trdgrp lng="pl">
+      <trd>fundamentowy</trd>
+    </trdgrp>
+    <trd lng="ru">
+    &c_f;&c_u;&c_n;&c_d;&c_a;&c_m;&c_je;&c_n;&c_t;&c_n;&c_y;&c_j;</trd>
+  </snc>
+  <snc mrk="fundam.0a.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Esenca, baza:
+      <ekz>
+        <tld/>a regulo, principo, argumento;
+      </ekz>
+      <ekz>
+        tion oni devas <tld/>e <klr>(&gcirc;isfunde)</klr> esplori
+        <fnt><bib>Fab2</bib>, <lok>Sonorilo</lok></fnt>.
+      </ekz>
+    </dif>
+  <refgrp tip="sin">
+    <ref cel="baz.0o.principo">bazo</ref>,
+    <ref cel="esenc.0o">esenco</ref>,
+    <ref cel="fund.0o.esenco">fundo</ref>,
+    <ref cel="kern.0o.esenco">kerno</ref>,
+    <ref cel="kvinte.0o">kvintesenc</ref>
+  </refgrp>
+    <trdgrp lng="be">
+      <trd>&c_a;&c_s;&c_n;&c_o;&c_w;&c_n;&c_y;</trd>,
+      <trd>&c_f;&c_u;&c_n;&c_d;&c_a;&c_m;&c_e;&c_n;&c_t;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>,
+      <trd>&c_b;&c_a;&c_z;&c_a;&c_v;&c_y;</trd>
+    </trdgrp>
+    <trd lng="ca">fonamental</trd>
+    <trd lng="de">fundamental</trd>
+    <trd lng="es">fundamental</trd>
+    <trd lng="fr">fondamental<klr tip="ind"> (essentiel)</klr></trd>
+    <trd lng="hu">alapvet&odblac;</trd>
+    <trd lng="nl">fundamenteel</trd>
+    <trdgrp lng="pl">
+      <trd>fundamentalny</trd>,
+      <trd>podstawowy</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_o;&c_s;&c_n;&c_o;&c_v;&c_n;&c_o;&c_j;</trd>,
+      <trd>&c_f;&c_u;&c_n;&c_d;&c_a;&c_m;&c_je;&c_n;&c_t;&c_a;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="fundam.0a.ESP">
+    <uzo tip="fak">ESP</uzo>
+    <uzo tip="fak">GRA</uzo>
+    <dif>
+      Apartenanta a&ubreve; konforma al la
+      <ctl><tld lit="F"/>o de Esperanto</ctl>:
+      <ekz>
+        <tld/>a vorto, radiko, parolmaniero.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_f;&c_u;&c_n;&c_d;&c_a;&c_m;&c_e;&c_n;&c_t;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>
+    <trd lng="fr">fondamental<klr tip="ind"> (conforme au
+    Fundamento)</klr></trd>
+    <trd lng="hu">fundament&aacute;lis</trd>
+    <trd lng="nl">fundamenteel</trd>
+    <trd lng="pl">fundamentalny</trd>
+    <trd lng="ru">&c_f;&c_u;&c_n;&c_d;&c_a;&c_m;&c_je;&c_n;&c_t;&c_a;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
+</snc>
+  <trdgrp lng="cs">
+    <trd>elementární</trd>,
+    <trd>kmenový</trd>,
+    <trd>podstatný</trd>,
+    <trd>základní</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>foundational</trd>,
+    <trd>fundamental</trd>
+  </trdgrp>
+  <trdgrp lng="he">
+    <trd>&yod;&samekh;&vav;&dalet;&yod;</trd>,
+    <trd>&bet;&samekh;&yod;&samekh;&yod;</trd>,
+    <trd>&het;&yod;&vav;&nun;&yod;</trd>
+  </trdgrp>
+  <trdgrp lng="it">
+    <trd>fondamentale</trd>,
+    <trd>cardinale</trd>,
+    <trd>fondazionale</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>elementárny</trd>,
+    <trd>podstatný</trd>
+  </trdgrp>
+</drv>
+<drv mrk="fundam.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      Firme starigi, bazi:
+      <ekz>
+        konstrua&jcirc;o bone <tld/>ita;
+      </ekz>
+      <ekz>
+        li konstruis sian lo&gcirc;ejon en la &ccirc;ielo, kaj sian
+        firmamenton li <tld/>is sur la tero
+        <fnt><bib>MT</bib>, <lok>&Amo; 9:6.</lok></fnt>;
+      </ekz>
+      <ekz>
+        <tld/>i metodon sur la sperto.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="baz.0i">bazi;</ref>
+    <ref tip="vid" cel="fond.0i">fondi.</ref>
+  </snc>
+  <adm>
+  Cxu ne povas ekzisti ankaux la senco: servi kiel bazo?
+  <aut>MB</aut>
+  </adm>
+  <adm>
+  Cxu ne povas ekzisti ankaux la senco: konstrui bazon?
+  <aut>SC</aut>
+  </adm>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_s;&c_n;&c_o;&c_w;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_z;&c_a;&c_s;&c_n;&c_o;&c_w;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_g;&c_r;&c_u;&c_n;&c_t;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="ca">fonamentar</trd>
+  <trdgrp lng="en">
+    <trd>found</trd>,
+    <trd>base</trd>,
+    <trd>establish</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>fonder<klr tip="ind"> (donner une base)</klr></trd>,
+    <trd>baser</trd>,
+    <trd>faire <ind>reposer</ind> (sur)</trd>,
+    <trd>donner une <ind>base</ind> (&agrave;)</trd>
+  </trdgrp>
+  <trdgrp lng="he">
+    <trd>&lamed;<ind>&yod;&samekh;&dalet;</ind></trd>,
+    <trd>&lamed;<ind>&bet;&samekh;&samekh;</ind></trd>,
+    <trd>&lamed;<ind>&kaf;&vav;&nun;&fnun;</ind></trd>
+  </trdgrp>
+  <trd lng="hu">megalapoz</trd>
+  <trdgrp lng="it">
+    <trd>basare</trd>,
+    <trd>porre <ind>fondamenta</ind></trd>,
+    <trd>poggiare<klr> (basare)</klr></trd>,
+    <trd>fissare<klr> (basare)</klr></trd>
+  </trdgrp>
+  <trd lng="nl">funderen</trd>
+  <trd lng="pl">opiera&cacute; na fundamencie</trd>
+  <trd lng="ru">&c_o;&c_s;&c_n;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>zakladať</trd>,
+    <trd>založiť</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>zakládat</trd>,
+    <trd>založit</trd>
+  </trdgrp>
+</drv>
+<drv mrk="fundam.0ismo">
+  <kap><tld/>ismo</kap>
+  <snc mrk="fundam.0ismo.REL">
+    <uzo tip="fak">REL</uzo>
+    <dif>
+      Rigora, kaj foje la&ubreve;litera, obeado al la dogmoj kaj ritoj de iu
+      religio.
+    </dif>
+    <trd lng="es">fundamentalismo</trd>
+    <trdgrp lng="it">
+      <trd>fondamentalismo</trd>,
+      <trd>integralismo</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="fundam.0ismo.ESP">
+    <uzo tip="fak">ESP</uzo>
+    <dif>
+      Rigora obeado al la tradicio de la <ctl><tld lit="F"/>o de
+      Esperanto</ctl>.
+    </dif>
+    <trd lng="it">fondamentismo</trd>
+  </snc>
+  <trd lng="be">&c_f;&c_u;&c_n;&c_d;&c_a;&c_m;&c_e;&c_n;&c_t;&c_a;&c_l;&c_ib;&c_z;&c_m;</trd>
+  <trd lng="ca">fonamentalisme</trd>
+  <trd lng="cs">fundamentalismus</trd>
+  <trd lng="en">fundamentalism</trd>
+  <trdgrp lng="fr">
+    <trd>fondamentalisme</trd>,
+    <trd>int&eacute;grisme</trd>
+  </trdgrp>
+  <trd lng="he">&pe;&vav;&nun;&dalet;&mem;&nun;&tet;&lamed;&yod;&zayin;&fmem;</trd>
+  <trd lng="hu">fundamentalizmus</trd>
+  <trd lng="nl">fundamentalisme</trd>
+  <trd lng="pl">fundamentalizm</trd>
+  <trd lng="ru">&c_f;&c_u;&c_n;&c_d;&c_a;&c_m;&c_je;&c_n;&c_t;&c_a;&c_l;&c_i;&c_z;&c_m;</trd>
+  <trd lng="sk">fundamentalizmus</trd>
+</drv>
+</art>
+<!--
+$Log: fundam.xml,v $
+Revision 1.30  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.29  2015/06/29 16:29:39  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.28  2014/07/07 08:10:13  revo
+Damien Brucker: +rim
+
+Revision 1.27  2014/06/28 15:10:16  revo
+Damien Brucker: +ekz
+
+Revision 1.26  2014/05/29 16:10:53  revo
+Damien Brucker: +ekz
+
+Revision 1.25  2011/01/06 15:25:16  revo
+Jeromo Vasxe: kor. 1 fusxitan fnt
+
+Revision 1.24  2009/12/15 17:30:34  revo
+Antonio Codazzi: +trd it
+
+Revision 1.23  2009/02/10 14:18:15  revo
+Sebastian Cyprych: -fusxaj linirompoj en trd
+
+Revision 1.22  2007/06/21 16:30:40  revo
+Tulio Flores: +tr pt
+
+Revision 1.21  2006/09/15 16:30:48  revo
+-->
+</vortaro>

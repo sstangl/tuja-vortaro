@@ -1,0 +1,127 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: latun.xml,v 1.21 2015/07/04 08:37:38 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>latun</rad>/o
+</kap>
+<drv mrk="latun.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="latun.0o.KEM">
+  <uzo tip="fak">KEM</uzo>
+    <dif>
+      Flava <ref tip="super" cel="aloj.0o">alojo</ref> el kupro kaj
+      zinko:
+      <ekz>
+        en la &scirc;ranko &scirc;i ordometis <klr>...</klr> <tld/>an
+        kandelingon kaj
+        malgrandan samovaron
+        <fnt><bib>Marta</bib></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_l;&c_a;&c_t;&c_u;&c_n;&c_mol;</trd>
+    <trd lng="ca">llaut&oacute;</trd>
+    <trd lng="de">Messing</trd>
+    <trd lng="en">brass</trd>
+    <trd lng="es">lat&oacute;n</trd>
+    <trd lng="fa">&a_b;&a_r;&a_n;&a_j;<klr tip="ind"> (&a_A_madda;&a_l;&f_y;&a_A;&f_zh; &a_m;&a_s; &a_w;
+    &a_r;&a_w;&f_y;)</klr></trd>
+    <trd lng="fr">laiton</trd>
+    <trd lng="hu">s&aacute;rgar&eacute;z</trd>
+    <trdgrp lng="nl">
+      <trd>messing</trd>,
+      <trd>geel <ind>koper</ind></trd>
+    </trdgrp>
+    <trd lng="pl">mosi&aogonek;dz</trd>
+    <trd lng="pt">lat&atilde;o</trd>
+    <trd lng="ru">&c_l;&c_a;&c_t;&c_u;&c_n;&c_mol;</trd>
+    <trd lng="it">ottone</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>mosaz</trd>,
+    <trd>žlutá měď</trd>
+  </trdgrp>
+  <trd lng="sk">mosadz</trd>
+</drv>
+
+<drv mrk="latun.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="latun.0a.rilata">
+    <uzo tip="stl">KOMUNE</uzo>
+    <dif>
+      Rilata al <tld/>o.
+      <ekz>
+        Samtempe la <tld/>a kapo de Hipokrato kuntiris la brovojn kaj
+        diris: "Sindetenu!"
+        <fnt>
+          <aut>Nathaniel Hawthorne, trad. Edwin P. Grobe</aut>,
+          <vrk>Tri Noveloj
+          </vrk>,
+          <lok>&ccirc;. 1 "La eksperimento de d-ro Hejdegero"</lok>
+       </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="pl">mosi&aogonek;dzowy</trd>
+  </snc>
+  <snc mrk="latun.0a.el">
+    <dif>
+      El <tld/>o.
+      <ekz>
+        La pezglobo estas fera a&ubreve; <tld/>a globo kun difinitaj
+        pezo kaj diametro
+        <fnt>
+          <aut>Tibor Ujlaky-Nagy</aut>,
+          <vrk>La sporta ligvo en Esperanto</vrk>,
+          <lok>Pezglob-&jcirc;eto</lok>
+       </fnt>;
+      </ekz>
+    </dif>
+    <trdgrp lng="pl">
+      <trd>mosi&eogonek;&zdot;ny</trd>,
+      <trd>mosi&aogonek;dzowy</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="ca">de <ind>llaut&oacute;</ind></trd>
+  <trd lng="cs">mosazný</trd>
+  <trd lng="it"><klr>di </klr>ottone</trd>
+  <trdgrp lng="nl">
+      <trd>uit <ind>messing</ind></trd>,
+      <trd>uit geel <ind>koper</ind></trd>
+    </trdgrp>
+  <trd lng="sk">mosadzný</trd>
+</drv>
+</art>
+<!--
+$Log: latun.xml,v $
+Revision 1.21  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:33:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.19  2012/08/14 12:10:18  revo
+Marc Rausell: ++ trd ca
+
+Revision 1.18  2009/08/18 19:18:36  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.17  2009/07/01 17:23:06  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.16  2009/03/15 17:31:02  revo
+Antonio Codazzi: (erara)~o -> ~a, +trd it
+
+Revision 1.15  2009/03/04 17:30:32  revo
+Jeromo Vasxe: - stl kem
+
+Revision 1.14  2009/01/17 18:09:01  revo
+Sebastian Cyprych: +snc ~a +trd pl
+
+Revision 1.13  2005/04/07 16:33:51  revo
+Raul Salinas Monteagudo: +trd ca,es
+
+Revision 1.12  2004/08/04 16:32:16  revo
+-->
+</vortaro>

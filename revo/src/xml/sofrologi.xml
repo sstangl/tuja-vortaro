@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: sofrologi.xml,v 1.3 2015/07/04 08:37:43 revo Exp $">
+<kap>
+  <rad>sofrologi</rad>/o <fnt><bib>SPIV</bib></fnt>
+</kap>
+<drv mrk="sofrologi.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="sofrologi.0o.MED">
+    <uzo tip="fak">MED</uzo>
+    <dif>
+      Neoficiala metodo <ref tip="malprt" 
+      cel="medici.0o.SCI">medicina</ref> el la 1960aj jaroj, kiu 
+      rekomendas memkonscion kaj malstre&ccirc;i&gcirc;on kiel rimedojn de korpa 
+      kaj anima sani&gcirc;o:
+      <ekz>
+        <ctl><tld lit="S"/>o kaj la kuracanta vorto</ctl>
+        <klr>(verko de A. Albault, 1987)</klr>.
+        <fnt>
+          <aut>A. Albault</aut>,
+          <vrk>Sofrologio kaj la kuracanta vorto</vrk>,
+          <lok>Sarbruko: Iltis, 1987</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        plej grava en <tld/>o estas la trejnado <klr>...</klr> de la 
+        personeco
+        <fnt>
+          <aut>J.-M. Jacques</aut>,
+          <vrk><url 
+          ref="http://home.scarlet.be/~tor-4517/_sgg/m1m4s4_1.htm">Sofrologio</url></vrk>,
+          <lok>[vidita en 2006-08]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">sofrologie</trd>
+  <trd lng="fr">sophrologie</trd>
+  <trd lng="sk">sofrológia</trd>
+</drv>
+
+<drv mrk="sofrologi.0isto">
+  <kap><tld/>isto</kap>
+  <snc mrk="sofrologi.0isto.MED">
+    <uzo tip="fak">MED</uzo>
+    <dif>
+      Fakulo pri <ref tip="vid" cel="sofrologi.0o.MED"><tld/>o</ref>.
+    </dif>
+  </snc>
+  <trd lng="fr">sophrologue</trd>
+</drv>
+</art>
+
+<!--
+$Log: sofrologi.xml,v $
+Revision 1.3  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.2  2015/06/29 16:33:24  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.1  2006/10/31 17:30:32  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

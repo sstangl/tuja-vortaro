@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: pad.xml,v 1.13 2015/07/04 08:37:40 revo Exp $">
+<kap>
+  <rad>pad</rad>/o <fnt><bib>SPV</bib></fnt>
+</kap>
+
+<drv mrk="pad.0o">
+  <kap><tld/>o</kap>
+  <snc>
+    <uzo tip="fak">TRA</uzo>
+    <dif>
+      Eta kampara <ref tip="super" cel="voj.0o.TRA">vojo</ref> sen
+      tega&jcirc;o:
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        la <tld/>o de la virto stretas
+        <fnt><bib>DonKihxoto</bib>, <lok>parto 2a, &ccirc;apitro 6a, p.
+        427a</lok></fnt>.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="ale.0o.HOR">aleo <sncref/></ref>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_mol;&c_c;&c_je;&c_zh;&c_k;&c_a;</trd>,
+    <trd>&c_s;&c_mol;&c_c;&c_ja;&c_zh;&c_y;&c_n;&c_k;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="bg">
+    <trd>&c_p;&c_malmol;&c_t;&c_je;&c_k;&c_a;</trd>,
+    <trd>&c_p;&c_malmol;&c_t;</trd>
+  </trdgrp>
+  <trd lng="cs">stezka</trd>
+  <trd lng="de">Pfad</trd>
+  <trd lng="en">path</trd>
+  <trdgrp lng="es">
+    <trd>sendero</trd>,
+    <trd>senda</trd>,
+    <trd>camino<klr> (en campo, bosque, mota&ntilde;a...)</klr></trd>,
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>chemin<klr> (sentier)</klr></trd>,
+    <trd>sentier</trd>
+  </trdgrp>
+  <trd lng="hu">&ouml;sv&eacute;ny</trd>
+  <trd lng="nl">pad<klr tip="ind"> (weg)</klr></trd>
+  <trd lng="pt">trilha</trd>
+  <trdgrp lng="ru">
+    <trd>&c_t;&c_r;&c_o;&c_p;&c_a;</trd>,
+    <trd>&c_t;&c_r;&c_o;&c_p;&c_k;&c_a;</trd>,
+    <trd>&c_t;&c_r;&c_o;&c_p;&c_i;&c_n;&c_k;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>chodníček</trd>,
+    <trd>prť</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: pad.xml,v $
+Revision 1.13  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.12  2015/06/29 16:40:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.11  2009/10/30 17:30:42  revo
+Russ Williams: +trd en
+
+Revision 1.10  2009/10/16 16:30:38  revo
+Paul Peeraerts: +nl
+
+Revision 1.9  2008/02/15 17:30:18  revo
+Wieland Pusch: +trd bg
+
+Revision 1.8  2008/02/09 17:30:46  revo
+Carlos Garcia: +tdr es
+
+Revision 1.7  2007/06/05 16:31:00  revo
+Wieland Pusch: +trd de
+
+Revision 1.6  2004/07/17 18:19:17  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.5  2004/06/21 17:35:55  revo
+Gert Bolten Maizonave: +trd pt
+
+Revision 1.4  2004/02/23 18:17:13  revo
+-->
+</vortaro>

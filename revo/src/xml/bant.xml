@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: bant.xml,v 1.17 2015/07/04 08:37:31 revo Exp $">
+<kap>
+<ofc>*</ofc>
+<rad>bant</rad>/o
+</kap>
+<drv mrk="bant.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+    <snc mrk="bant.0o.TEKS">
+    <uzo tip="fak">TEKS</uzo>
+    <dif>
+      Ornama nodo: 
+      <ekz>
+        ligi &scirc;uon per <tld/>o.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="kokard.0o">kokardo</ref>,
+      <ref cel="roz.0eto">rozeto</ref>.
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_b;&c_a;&c_n;&c_t;</trd>
+  <trd lng="br">rozennig<klr tip="ind"> (skoulm)</klr></trd>
+  <trdgrp lng="cs">
+    <trd>ozdobný uzel <klr>(mašle)</klr></trd>,
+    <trd>poutko</trd>
+  </trdgrp>
+  <trd lng="de">Schleife</trd>
+  <trdgrp lng="en">
+    <trd>bow</trd>,
+    <trd>knot</trd>
+  </trdgrp>
+  <trd lng="es">lazo <klr>(ornamental)</klr></trd>
+  <trdgrp lng="fr">
+    <trd>noeud de <ind>ruban</ind></trd>,
+    <trd>faveur<klr tip="amb"> (ruban)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>masni</trd>,
+    <trd>hajszalag</trd>
+  </trdgrp>
+  <trd lng="pl">ozdobny <ind>w&eogonek;ze&lstroke;</ind></trd>
+  <trd lng="ru">&c_b;&c_a;&c_n;&c_t;</trd>
+  <trd lng="sk">ozdobný uzol</trd>
+</drv>
+</art>
+<!--
+$Log: bant.xml,v $
+Revision 1.17  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:29:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.15  2015/01/04 05:10:14  revo
+Alain Gerard: +trd (fr)
+
+Revision 1.14  2012/10/26 12:10:10  revo
+Carlos Garcia: +trd es -o
+
+Revision 1.13  2009/02/25 17:30:32  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.12  2009/02/20 08:36:32  revo
+Russ Williams: +trd en
+
+Revision 1.11  2005/02/19 18:51:43  revo
+Alan ar Gall: + trd br
+
+Revision 1.10  2003/11/19 20:02:27  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.9  2003/01/13 17:35:04  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.8  2002/11/05 17:33:23  revo
+-->
+</vortaro>

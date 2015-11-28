@@ -1,0 +1,254 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: logari.xml,v 1.25 2015/07/04 08:37:38 revo Exp $">
+<kap><ofc>2</ofc>
+<rad>logaritm</rad>/o</kap>
+<drv mrk="logari.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>MatTerm</bib><lok>p. 20</lok></fnt>
+  <snc>
+    <dif>
+      <klr>(kun <ref cel="baz.0o.logaritmo">bazo</ref>
+      <frm><k>a</k></frm>,
+      a&ubreve; <frm><k>a</k></frm>-<ref cel="um.0.logaritmo">uma</ref>)</klr>
+      <ref tip="super" cel="invers.0o.variaj">Inverso</ref> de la
+      <ref tip="super" cel="funkci.0o.MAT">funkcio</ref>
+      <ref cel="ekspon1.0o">eksponencialo</ref> kun bazo
+      <frm><k>a</k></frm>:
+      <ekz>
+        <tld/>on de <frm><k>x</k></frm> kun bazo <frm><k>a</k></frm> oni
+        kutime signas per <frm>log<sub><k>a</k></sub>(<k>x</k>)</frm>;
+      </ekz>
+      <ekz>
+        <tld/>o de la bazo egalas al <frm>1</frm>;
+      </ekz>
+      <ekz>
+        <tld/>o de produto egalas al sumo de <tld/>oj de la apartaj
+        faktoroj;
+      </ekz>
+      <ekz>
+        <tld/>o de eksponencialo de <frm><k>x</k></frm>
+        egalas al <frm><k>x</k></frm>;
+      </ekz>
+      <ekz>
+        vastigite al kompleksoj, la funkcio <tld/>o fari&gcirc;as
+        <ref cel="funkci.plursenca0o">plursenca</ref>;
+      </ekz>
+      <ekz>
+        <ind><tld/>a</ind> skalo.
+        <trd lng="fr">logarithmique</trd>
+        <trd lng="hu">logaritmikus</trd>
+        <trd lng="nl">logaritmisch</trd>
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="karakt2.0o.logaritmo">karakteristiko</ref>,
+      <ref cel="mantis.0o.MAT">mantiso</ref>.
+    </refgrp>
+  </snc>
+  <bld lok="../bld/f_logaritmoj.svg.gif" lrg="300"
+    alt="300">
+      <tld/>oj
+    </bld>
+  <trd lng="be">&c_l;&c_a;&c_g;&c_a;&c_r;&c_y;&c_t;&c_m;</trd>
+  <trd lng="bg">&c_l;&c_o;&c_g;&c_a;&c_r;&c_i;&c_t;&c_malmol;&c_m;</trd>
+  <trd lng="de">Logarithmus<klr tip="ind"> (zur Basis a)</klr></trd>
+  <trd lng="el">&lambda;&omikron;&gamma;&alfa_ton;&rho;&jota;&theta;&my;&omikron;&sigma_fina;</trd>
+  <trd lng="en">logarithm<klr tip="ind"> (to base a)</klr></trd>
+  <trd lng="es">logaritmo</trd>
+  <trd lng="fr">logarithme<klr tip="ind"> (de base a)</klr></trd>
+  <trd lng="hu">logaritmus<klr tip="ind"> (a alap&uacute;)</klr></trd>
+  <trd lng="nl">logaritme</trd>
+  <trd lng="pl">logarytm<klr tip="ind"> (przy podstawie a)</klr></trd>
+  <trd lng="pt">logaritmo</trd>
+  <trd lng="ru">&c_l;&c_o;&c_g;&c_a;&c_r;&c_i;&c_f;&c_m;<klr tip="ind"> (&c_p;&c_r;&c_i;
+  &c_o;&c_s;&c_n;&c_o;&c_v;&c_a;&c_n;&c_i;&c_i; a)</klr></trd>
+  <trd lng="sk">logaritmus</trd>
+  <trd lng="cs">logaritmus</trd>
+</drv>
+
+<drv mrk="logari.dekuma0o">
+  <kap>dekuma <tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <snc>
+    <ref tip="dif" cel="logari.ordinara0o">ordinara <tld/>o</ref>
+  </snc>
+  <trd lng="be">&c_d;&c_z;&c_je;&c_s;&c_ja;&c_t;&c_k;&c_o;&c_v;&c_y; <ind>&c_l;&c_a;&c_g;&c_a;&c_r;&c_y;&c_t;&c_m;</ind></trd>
+  <trd lng="bg">&c_d;&c_je;&c_s;&c_je;&c_t;&c_i;&c_ch;&c_je;&c_n; <ind>&c_l;&c_o;&c_g;&c_a;&c_r;&c_i;&c_t;&c_malmol;&c_m;</ind></trd>
+  <trd lng="cs">dekadický logaritmus</trd>
+  <trd lng="de">Zehner-<ind>Logarithmus</ind></trd>
+  <trd lng="en">common <ind>logarithm</ind></trd>
+  <trd lng="fr">logarithme d&eacute;cimal</trd>
+  <trd lng="hu">term&eacute;szetes alap&uacute; <ind>logaritmus</ind></trd>
+  <trd lng="nl">tiendelig <ind>logaritme</ind></trd>
+  <trdgrp lng="pl">
+    <trd>logarytm dziesi&eogonek;tny</trd>,
+    <trd>logarytm Briggsa</trd>
+  </trdgrp>
+  <trd lng="pt">logaritmo decimal</trd>
+  <trd lng="ru">&c_o;&c_b;&c_y;&c_k;&c_n;&c_o;&c_v;&c_je;&c_n;&c_n;&c_y;&c_j;
+  <ind>&c_l;&c_o;&c_g;&c_a;&c_r;&c_i;&c_f;&c_m;</ind></trd>
+  <trd lng="sk">dekadický logaritmus</trd>
+</drv>
+
+<drv mrk="logari.natura0o">
+  <kap>natura <tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>MatTerm</bib><lok>p. 20</lok></fnt>
+  <snc>
+    <dif>
+      <ref tip="super" cel="logari.0o"><tld lit="L"/>o</ref>
+      kun bazo <frm><k>e</k></frm>
+      (<ref cel="transc.0a.nombro">transcenda</ref> reelo proksimume
+      egala
+      al <frm>2,718</frm>):
+      <ekz>
+        naturan <tld/>on de <frm><k>x</k></frm> oni kutime signas per
+        <frm>Log <k>x</k></frm> a&ubreve; <frm>ln <k>x</k></frm>;
+      </ekz>
+      <ekz>
+        la natura <tld/>o de <frm><k>x</k></frm> egalas al integralo de
+        funkcio <frm>1/<k>t</k></frm> inter <frm>1</frm> kaj
+        <frm><k>x</k></frm>
+        <klr>(simb. <frm>ln <k>x</k> =
+        &#8747;<sub>1</sub><sup><k>x</k></sup>
+        d<k>t</k>/<k>t</k></frm>)</klr>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_n;&c_a;&c_t;&c_u;&c_r;&c_a;&c_l;&c_mol;&c_n;&c_y; <ind>&c_l;&c_a;&c_g;&c_a;&c_r;&c_y;&c_t;&c_m;</ind></trd>
+  <trd lng="bg">&c_je;&c_s;&c_t;&c_je;&c_s;&c_t;&c_v;&c_je;&c_n; <ind>&c_l;&c_o;&c_g;&c_a;&c_r;&c_i;&c_t;&c_malmol;&c_m;</ind></trd>
+  <trd lng="cs">přirozený logaritmus</trd>
+  <trd lng="de">nat&uuml;rlicher <ind>Logarithmus</ind></trd>
+  <trd lng="en">natural <ind>logarithm</ind></trd>
+  <trd lng="fr">logarithme naturel</trd>
+  <trd lng="hu">term&eacute;szetes alap&uacute; <ind>logaritmus</ind></trd>
+  <trd lng="nl">natuurlijk <ind>logaritme</ind></trd>
+  <trd lng="pl">logarytm naturalny</trd>
+  <trd lng="pt">logaritmo natural</trd>
+  <trd lng="ru">&c_n;&c_a;&c_t;&c_u;&c_r;&c_a;&c_l;&c_mol;&c_n;&c_y;&c_j; <ind>&c_l;&c_o;&c_g;&c_a;&c_r;&c_i;&c_f;&c_m;</ind></trd>
+  <trdgrp lng="sk">
+    <trd>prirodzen&yacute; <ind>logaritmus</ind></trd>,
+    <trd>prirodzený logaritmus</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="logari.nepera0o">
+  <kap>nepera <tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <snc>
+    <ref tip="dif" cel="logari.natura0o">natura logaritmo;</ref>
+    <ref tip="vid" cel="neper.0o">Nepero.</ref>
+  </snc>
+  <trd lng="be">&c_n;&c_e;&c_p;&c_e;&c_r;&c_a;&c_w; <ind>&c_l;&c_a;&c_g;&c_a;&c_r;&c_y;&c_t;&c_m;</ind></trd>
+  <trd lng="bg">&c_n;&c_je;&c_p;&c_je;&c_r;&c_o;&c_v; <ind>&c_l;&c_o;&c_g;&c_a;&c_r;&c_i;&c_t;&c_malmol;&c_m;</ind></trd>
+  <trdgrp lng="cs">
+    <trd>Napierův logaritmus</trd>,
+    <trd>přirozený logaritmus</trd>
+  </trdgrp>
+  <trd lng="de">Neperscher <ind>Logarithmus</ind></trd>
+  <trd lng="en">Napierian <ind>logarithm</ind></trd>
+  <trd lng="fr">logarithme n&eacute;p&eacute;rien</trd>
+  <trd lng="hu">Napier-f&eacute;le <ind>logaritmus</ind></trd>
+  <trd lng="nl">logaritme van Neper</trd>
+  <trd lng="pl">logarytm Nepera</trd>
+  <trd lng="pt">logaritmo neperiano</trd>
+  <trd lng="ru">&c_n;&c_je;&c_p;&c_je;&c_r;&c_o;&c_v; <ind>&c_l;&c_o;&c_g;&c_a;&c_r;&c_i;&c_f;&c_m;</ind></trd>
+  <trdgrp lng="sk">
+    <trd>Napierov log.</trd>,
+    <trd>prirodzený logaritmus</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="logari.ordinara0o">
+  <kap>ordinara <tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>PIV1</bib></fnt>
+  <snc>
+    <dif>
+      <ref tip="super" cel="logari.0o"><tld lit="L"/>o</ref>
+      kun bazo <frm>10</frm>:
+      <ekz>
+        tabelo de ordinaraj <tld/>oj <klr>(tabelo uzata por fari
+        komplikajn
+        kalkulojn helpe de <tld/>oj)</klr>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_d;&c_z;&c_je;&c_s;&c_ja;&c_t;&c_k;&c_o;&c_v;&c_y; <ind>&c_l;&c_a;&c_g;&c_a;&c_r;&c_y;&c_t;&c_m;</ind></trd>
+  <trd lng="bg">&c_d;&c_je;&c_s;&c_je;&c_t;&c_i;&c_ch;&c_je;&c_n; <ind>&c_l;&c_o;&c_g;&c_a;&c_r;&c_i;&c_t;&c_malmol;&c_m;</ind></trd>
+  <trdgrp lng="cs">
+    <trd>Briggsův logaritmus</trd>,
+    <trd>dekadický logaritmus</trd>,
+    <trd>obyčejný logaritmus</trd>
+  </trdgrp>
+  <trd lng="de">Zehner-<ind>Logarithmus</ind></trd>
+  <trd lng="en">common <ind>logarithm</ind></trd>
+  <trd lng="fr">logarithme d&eacute;cimal</trd>
+  <trd lng="hu">term&eacute;szetes alap&uacute; <ind>logaritmus</ind></trd>
+  <trd lng="nl">tiendelig <ind>logaritme</ind></trd>
+  <trdgrp lng="pl">
+    <trd>logarytm dziesi&eogonek;tny</trd>,
+    <trd>logarytm Briggsa</trd>
+  </trdgrp>
+  <trd lng="pt">logaritmo decimal</trd>
+  <trd lng="ru">&c_o;&c_b;&c_y;&c_k;&c_n;&c_o;&c_v;&c_je;&c_n;&c_n;&c_y;&c_j;
+  <ind>&c_l;&c_o;&c_g;&c_a;&c_r;&c_i;&c_f;&c_m;</ind></trd>
+  <trd lng="sk">dekadický logaritmus</trd>
+</drv>
+
+<drv mrk="logari.kontraux0o">
+  <kap>kontra&ubreve;<tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>PIV1</bib></fnt>
+  <snc>
+    <uzo tip="stl">ARK</uzo>
+    <ref tip="dif" cel="ekspon1.0o">eksponencialo.</ref>
+  </snc>
+  <trd lng="be">&c_a;&c_n;&c_t;&c_y;&c_l;&c_a;&c_g;&c_a;&c_r;&c_y;&c_t;&c_m;</trd>
+  <trd lng="bg">&c_a;&c_n;&c_t;&c_i;&c_l;&c_o;&c_g;&c_a;&c_r;&c_i;&c_t;&c_malmol;&c_m;</trd>
+  <trd lng="de">Antilogarithmus</trd>
+  <trd lng="en">antilogarithm</trd>
+  <trd lng="fr">antilogarithme</trd>
+  <trd lng="hu">antilogaritmus</trd>
+  <trd lng="nl">antilogaritme</trd>
+  <trd lng="pl">antylogarytm</trd>
+  <trd lng="pt">antilogaritmo</trd>
+  <trd lng="ru">&c_a;&c_n;&c_t;&c_i;&c_l;&c_o;&c_g;&c_a;&c_r;&c_i;&c_f;&c_m;</trd>
+</drv>
+</art>
+<!--
+$Log: logari.xml,v $
+Revision 1.25  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.24  2015/06/29 16:33:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.23  2013/08/08 16:10:10  revo
+Joop Eggen: +trd bg
+
+Revision 1.22  2010/01/19 17:30:30  revo
+Mireille Corobu: + bld de Marc Bavant
+
+Revision 1.21  2006/08/30 15:11:23  revo
+Tulio Flores: +tr pt
+
+Revision 1.20  2005/02/21 18:55:09  revo
+Marc Bavant: +drv dekuma ~o (anstataux malaperinta termino en ekz cxe
+-um)
+
+Revision 1.19  2005/02/19 18:51:57  revo
+Paul Peeraerts: ald trd nl
+
+Revision 1.18 2004/05/27 16:32:11 revo
+Jozefo Horvath: +trd hu
+
+Revision 1.17 2004/05/07 16:31:57 revo
+Dmitri Gabinski: +trd be
+
+-->
+</vortaro>

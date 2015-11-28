@@ -1,0 +1,252 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: kupr.xml,v 1.35 2015/07/04 08:37:38 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>kupr</rad>/o
+</kap>
+
+<drv mrk="kupr.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc>
+    <uzo tip="fak">KEM</uzo>
+    <mlg kod="IUPAC">Cu</mlg>
+    <dif>
+      &Hcirc;emia <ref tip="lst" cel="elemen.0o.KEM"
+      lst="voko:&hcirc;emiaj_elementoj" val="29">elemento</ref>kun 
+      atomnumero 29, atompezo 63,546; bruneru&gcirc;a peza 
+      transir<ref tip="super" cel="metal.0o">metalo</ref>, pli fandebla 
+      ol oro kaj malpli 
+      ol <ref tip="vid" cel="argxen.0o">ar&gcirc;ento</ref>, 
+      uzata precipe por elektraj kondukiloj, kaj en kunfanda&jcirc;oj kun 
+      <ref tip="vid" cel="stan.0o">stano</ref> (= <ref tip="malprt" 
+      cel="bronz.0o">bronzo</ref>) kaj kun 
+      <ref tip="vid" cel="zink.0o">zinko</ref> 
+      (= <ref tip="malprt" cel="latun.0o">latuno</ref>):
+      <ekz>
+        orita <tld/>o;
+      </ekz>
+      <ekz>
+        <tld/>a koloro de ha&ubreve;to.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_m;&c_je;&c_d;&c_z;&c_mol;</trd>
+    <trd lng="bg">&c_m;&c_je;&c_d;<klr tip="amb"> (&c_je;&c_l;&c_je;&c_m;&c_je;&c_n;&c_t;)</klr></trd>
+    <trd lng="br">kouevr</trd>
+    <trd lng="de">Kupfer</trd>
+    <trd lng="en">copper</trd>
+    <trd lng="es">cobre</trd>
+    <trd lng="fr">cuivre</trd>
+    <trd lng="hu">r&eacute;z</trd>
+    <trd lng="id">tembaga</trd>
+    <trd lng="it">rame</trd>
+    <trd lng="nl">koper<klr tip="ind"> (metaal)</klr></trd>
+    <trd lng="pl">mied&zacute;</trd>
+    <trd lng="pt">cobre</trd>
+    <trd lng="ru">&c_m;&c_je;&c_d;&c_mol;</trd>
+    <trd lng="sv">koppar</trd>
+  </snc>
+  <snc>
+  <uzo tip="fak">BIB</uzo>
+    <dif>
+      Arkaika por <ref tip="sin" cel="bronz.0o">bronzo</ref>.
+    </dif>
+    <trd lng="be">&c_b;&c_r;&c_o;&c_n;&c_z;&c_a;</trd>
+    <trd lng="bg">&c_b;&c_r;&c_o;&c_n;&c_z;</trd>
+    <trd lng="de">Bronze</trd>
+    <trd lng="en">bronze</trd>
+    <trd lng="fr">bronze</trd>
+    <trd lng="hu">bronz<klr tip="ind"> (elavult)</klr></trd>
+    <trd lng="id">perunggu</trd>
+    <trd lng="nl">brons<klr tip="ind"> (arch.)</klr></trd>
+    <trd lng="pl">br&aogonek;z</trd>
+    <trd lng="ru">&c_b;&c_r;&c_o;&c_n;&c_z;&c_a;</trd>
+  </snc>
+  <trd lng="cs">měď</trd>
+  <trd lng="sk">meď</trd>
+</drv>
+
+<drv mrk="kupr.0a">
+<kap><tld/>a</kap>
+  <snc mrk="kupr.0a.elkupro">
+    <dif>
+      Farita el <tld/>o.
+    </dif>
+  <trd lng="fr">cuivr&eacute;</trd>  
+  </snc>
+  <snc mrk="kupr.0a.kolore">
+    <dif>
+      Havanta <ref tip="lst" cel="kolor.0o.propre"
+      lst="voko:koloroj">koloron</ref> de <tld/>o, brilan, brune 
+      <ref tip="super" cel="rugx.0a">ru&gcirc;an</ref>.
+    </dif>
+    <ref tip="vid" cel="har.0aro.FRIZ">hararo</ref>
+  <trd lng="fr">auburn</trd>
+  </snc>
+  <trd lng="be">&c_m;&c_je;&c_d;&c_n;&c_y;</trd>
+  <trdgrp lng="br">
+    <trd>kouevr</trd>,
+    <trd>kouevrek</trd>
+  </trdgrp>
+  <trd lng="cs">měděné barvy</trd>
+  <trd lng="de">kupfern</trd>
+  <trd lng="en">copper</trd>
+  <trd lng="es">de cobre</trd>
+  <trd lng="hu">r&eacute;z-</trd>
+  <trdgrp lng="nl">
+    <trd>koperen</trd>,
+    <trd>uit <ind>koper</ind></trd>
+  </trdgrp>
+  <trd lng="pl">miedziany</trd>
+  <trd lng="ru">&c_m;&c_je;&c_d;&c_n;&c_y;&c_j;</trd>
+  <trd lng="sk">medenej farby</trd>
+</drv>
+
+<drv mrk="kupr.0i">
+<kap><tld/>i</kap>
+<gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      Tegi per maldika tavolo el <tld/>o.
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_k;&c_r;&c_y;&c_v;&c_a;&c_c;&c_mol; 
+&c_m;&c_je;&c_d;&c_z;&c_mol;&c_d;&c_z;&c_ju;</trd>
+  <trd lng="br">kouevra&ntilde;</trd>
+  <trd lng="cs">pomědit</trd>
+  <trd lng="de">verkupfern</trd>
+  <trdgrp lng="en">
+    <trd>copperplate</trd>,
+    <trd>copper</trd>
+  </trdgrp>
+  <trd lng="fr">cuivrer</trd>
+  <trdgrp lng="hu">
+    <trd>rezez</trd>,
+    <trd>r&eacute;zzel bevon</trd>
+  </trdgrp>
+  <trd lng="nl">verkoperen</trd>
+  <trd lng="pl">miedziowa&cacute;</trd>
+  <trd lng="ru">&c_p;&c_o;&c_k;&c_r;&c_y;&c_v;&c_a;&c_t;&c_mol; 
+&c_m;&c_je;&c_d;&c_mol;&c_ju;</trd>
+  <trd lng="sk">pomediť</trd>
+  <trd lng="sv">f&ouml;rkoppra</trd>
+</drv>
+
+<drv mrk="kupr.0epoko">
+<kap><tld/>oepoko</kap>
+  <snc>
+    <dif>
+      Anta&ubreve;historia tempo kiam la homo jam sciis utiligi kupron
+      por produkti ilojn el &gcirc;i.
+    </dif>
+  </snc>
+  <trd lng="be">&c_m;&c_je;&c_d;&c_n;&c_y; &c_v;&c_je;&c_k;</trd>
+  <trd lng="br">oadvezh an <ind>arem</ind></trd>
+  <trd lng="cs">doba měděná</trd>
+  <trd lng="de">Kupferzeit</trd>
+  <trd lng="en">copper age</trd>
+  <trd lng="fr">&acirc;ge du cuivre</trd>
+  <trd lng="hu">r&eacute;zkorszak</trd>
+  <trdgrp lng="nl">
+    <trd>kopertijd</trd>,
+    <trd>kopersteentijd</trd>
+  </trdgrp>
+  <trd lng="pl">epoka miedzi</trd>
+  <trd lng="ru">&c_m;&c_je;&c_d;&c_n;&c_y;&c_j; &c_v;&c_je;&c_k;</trd>
+  <trd lng="sk">doba medená</trd>
+</drv>
+
+<drv mrk="kupr.0erco">
+<kap><tld/>oerco</kap>
+  <snc>
+    <dif>
+      Erco liveranta kupron.
+    </dif>
+  </snc>
+  <trd lng="be">&c_m;&c_je;&c_d;&c_n;&c_a;&c_ja; &c_r;&c_u;&c_d;&c_a;</trd>
+  <trd lng="cs">měděná ruda</trd>
+  <trd lng="de">Kupfererz</trd>
+  <trd lng="hu">r&eacute;z&eacute;rc</trd>
+  <trd lng="nl">kopererts</trd>
+  <trd lng="pl">ruda miedzi</trd>
+  <trd lng="ru">&c_m;&c_je;&c_d;&c_n;&c_a;&c_ja; &c_r;&c_u;&c_d;&c_a;</trd>
+  <trd lng="sk">medená ruda</trd>
+</drv>
+
+<drv mrk="kupr.0isto">
+<kap><tld/>isto</kap>
+  <snc>
+    <dif>
+      Metiisto kiu faras a&jcirc;ojn, ekz., kaldronojn, el <tld/>o.
+    </dif>
+  </snc>
+  <trd lng="be">&c_m;&c_je;&c_d;&c_n;&c_ib;&c_k;</trd>
+  <trd lng="br">kouevrour</trd>
+  <trdgrp lng="de">
+    <trd>K&uuml;fer</trd>,
+    <trd>Kupferschmied</trd>
+  </trdgrp>
+  <trd lng="en">coppersmith</trd>
+  <trd lng="fr">chaudronnier</trd>
+  <trd lng="hu">r&eacute;zm&udblac;ves</trd>
+  <trd lng="nl">koperslager</trd>
+  <trdgrp lng="ru">
+    <trd>&c_m;&c_je;&c_d;&c_n;&c_i;&c_k;</trd>,
+    <trd>&c_k;&c_o;&c_t;&c_je;&c_l;&c_mol;&c_shch;&c_i;&c_k;</trd>
+  </trdgrp>
+  <trd lng="sv">kopparslagare</trd>
+</drv>
+
+<drv mrk="kupr.0gravuristo">
+<kap><tld/>ogravuristo</kap>
+  <snc>
+    <dif>
+      Gravuristo uzanta kuprajn tavolojn.
+    </dif>
+  </snc>
+  <trd lng="cs">mědirytec</trd>
+  <trd lng="de">Kupferstecher</trd>
+  <trd lng="fr">graveur sur cuivre</trd>
+  <trd lng="hu">r&eacute;zmetsz&odblac;</trd>
+  <trd lng="nl">kopergraveur</trd>
+  <trd lng="pl">miedziorytnik</trd>
+  <trd lng="ru">&c_g;&c_r;&c_a;&c_v;&c_jo;&c_r; &c_n;&c_a; 
+&c_m;&c_je;&c_d;&c_i;</trd>
+  <trd lng="sk">medirytec</trd>
+</drv>
+</art>
+
+<!--
+$Log: kupr.xml,v $
+Revision 1.35  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.34  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.33  2014/08/28 08:10:24  revo
+Damien Brucker: +trd fr
+
+Revision 1.32  2014/06/03 10:10:26  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.31  2013/09/23 18:10:11  revo
+Wolfram Diestel: mlg nur por snc 1
+
+Revision 1.30  2013/09/17 18:10:13  revo
+Wolfram Diestel: simb. lau IUPAC, val
+
+Revision 1.29  2013/09/14 09:10:45  revo
+Wolfram Diestel: +snc kuprakolora, ref al lst koloroj
+
+Revision 1.28  2013/08/24 20:11:21  revo
+Wolfram Diestel: referenco al listo elementoj
+
+Revision 1.27  2010/10/25 16:30:56  revo
+Jerano Zachrisson: +trd sv
+
+Revision 1.26  2009/09/22 17:17:14  revo
+-->
+</vortaro>

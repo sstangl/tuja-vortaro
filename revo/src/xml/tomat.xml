@@ -1,0 +1,131 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: tomat.xml,v 1.29 2015/07/04 08:37:45 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>tomat</rad>/o
+</kap>
+
+<drv mrk="tomat.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="tomat.0o.KUI">
+    <dif>
+      Frukto de <tld/>ujo:
+      <ekz>
+        mia viza&gcirc;o i&gcirc;os ru&gcirc;a kiel <tld/>o
+        <fnt><bib>Gerda</bib>, <lok>&ccirc;apitro 8a</lok></fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="ca">
+      <trd>tomaca</trd>,
+      <trd>tom&agrave;quet</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="tomat.0o.BOT">
+    <dif>
+      <ref tip="dif" cel="tomat.0ujo"><tld lit="T"/>ujo</ref>.
+    </dif>
+    <trd lng="ca">tomaquera</trd>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_t;&c_a;&c_m;&c_a;&c_t;</trd>,
+    <trd>&c_p;&c_a;&c_m;&c_ib;&c_d;&c_o;&c_r;</trd>
+  </trdgrp>
+  <trd lng="bg">&c_d;&c_o;&c_m;&c_a;&c_t;</trd>
+  <trd lng="cs">rajské jablko</trd>
+  <trd lng="de">Tomate</trd>
+  <trd lng="en">tomato</trd>
+  <trd lng="es">tomate</trd>
+  <trd lng="fa">&f_g;&a_w;&a_j;&a_h;&zwnj;&a_f;&a_r;&a_n;&f_g;&f_y;</trd>
+  <trd lng="fr">tomate<klr tip="amb"> (fruit)</klr></trd>
+  <trd lng="hu">paradicsom</trd>
+  <trd lng="nl">tomaat</trd>
+  <trdgrp lng="pl">
+    <trd>pomidor</trd>,
+    <trd>tomat<klr> (rzadko)</klr></trd>
+  </trdgrp>
+  <trd lng="pt">tomate</trd>
+  <trdgrp lng="ru">
+    <trd>&c_t;&c_o;&c_m;&c_a;&c_t;</trd>,
+    <trd>&c_p;&c_o;&c_m;&c_i;&c_d;&c_o;&c_r;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>paradajka <klr>(plod i rastlina)</klr></trd>,
+    <trd>rajčina</trd>
+  </trdgrp>
+  <trd lng="sv">tomat</trd>
+  <trd lng="tr">domates</trd>
+</drv>
+
+<drv mrk="tomat.0ujo">
+  <kap><tld/>ujo</kap>
+  <snc mrk="tomat.0ujo.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:botanikaj_specioj">Specio</ref> de <ref
+      tip="super" cel="solan.0o">solano</ref>
+      (<trd lng="la">Solanum lycopersicum</trd>);
+      multe kulturata
+      unu- a&ubreve; plurjara <ref tip="lst" cel="herb.0o" 
+      lst="voko:solanoparencoj">herbo</ref> 
+      kun man&gcirc;eblaj brile ru&gcirc;aj
+      <ref tip="prt" cel="ber.0o">beroj</ref>.
+    </dif>
+  </snc>
+  <bld lok="../bld/tomat.jpg">
+    <tld/>ujo kun floroj kaj nematuraj fruktoj
+  </bld>
+  <trdgrp lng="be">
+    <trd>&c_t;&c_a;&c_m;&c_a;&c_t;
+    <klr>(&c_r;&c_a;&c_s;&c_mol;&c_l;&c_ib;&c_n;&c_a;)</klr></trd>,
+    <trd>&c_p;&c_a;&c_m;&c_ib;&c_d;&c_o;&c_r;
+    <klr>(&c_r;&c_a;&c_s;&c_mol;&c_l;&c_ib;&c_n;&c_a;)</klr></trd>
+  </trdgrp>
+  <trd lng="ca">tomaquera</trd>
+  <trd lng="es">tomatera</trd>
+  <trd lng="fr">tomate<klr tip="amb"> (plante)</klr></trd>
+  <trd lng="hu">paradicsomn&ouml;v&eacute;ny</trd>
+  <trd lng="pl">pomidor<klr> (krzew)</klr></trd>
+  <trdgrp lng="ru">
+    <trd>&c_t;&c_o;&c_m;&c_a;&c_t; <klr
+    tip="ind">(&c_r;&c_a;&c_s;&c_t;&c_je;&c_n;&c_i;&c_je;)</klr></trd>,
+    <trd>&c_p;&c_o;&c_m;&c_i;&c_d;&c_o;&c_r; <klr
+    tip="amb">(&c_r;&c_a;&c_s;&c_t;&c_je;&c_n;&c_i;&c_je;)</klr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: tomat.xml,v $
+Revision 1.29  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.28  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.27  2013/11/02 18:10:18  revo
+Wolfram Diestel: ref al lst solanoparencoj, specio, prilaboretis dif
+
+Revision 1.26  2013/08/29 13:10:21  revo
+Wolfram Diestel: referenco al listo bot genroj
+
+Revision 1.25  2013/01/07 01:10:11  revo
+Neil Roberts: Forigo de malplena traduko al la kataluna lingvo
+
+Revision 1.24  2012/08/29 05:10:09  revo
+Sebastian Cyprych: kor trd pl
+
+Revision 1.23  2011/12/10 15:10:18  revo
+Marc Rausell: +trd ca
+
+Revision 1.22  2010/06/11 16:30:36  revo
+Agustin Garcia Lopez: +trd es
+
+Revision 1.21  2009/08/23 16:31:46  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.20  2009/06/22 16:31:00  revo
+-->
+</vortaro>

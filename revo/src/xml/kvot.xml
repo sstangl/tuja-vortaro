@@ -1,0 +1,188 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: kvot.xml,v 1.23 2015/07/04 08:37:38 revo Exp $">
+<kap>
+  <rad>kvot</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="kvot.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="kvot.0o.KOMUNE">
+    <uzo tip="fak">EKON</uzo>
+    <uzo tip="fak">JUR</uzo>
+    <dif>
+      Proporcia <ref tip="super" cel="part.0o.KOMUNE">parto</ref>
+      de tuto, kiun oni devas doni, pagi a&ubreve; kiun oni
+      rajtas preni, ricevi.
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="porci.0o">porcio</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_k;&c_v;&c_o;&c_t;&c_a;</trd>,
+    <trd>&c_d;&c_o;&c_l;&c_ja;</trd>,
+    <trd>&c_p;&c_a;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>kvóta</trd>,
+    <trd>podíl</trd>,
+    <trd>poměrný díl</trd>,
+    <trd>určená částka</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Quote</trd>,
+    <trd>Anteil</trd>,
+    <trd>Kontingent</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>quota</trd>,
+    <trd>share</trd>,
+    <trd>portion</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>part</trd>,
+    <trd>quota</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>h&aacute;nyad</trd>,
+    <trd>kv&oacute;ta</trd>,
+    <trd>r&eacute;szesed&eacute;s</trd>
+  </trdgrp>
+  <trd lng="nl">quotum</trd>
+  <trdgrp lng="pt">
+    <trd>cota<klr tip="ind"> (parcela)</klr></trd>,
+    <trd>quota<klr tip="ind"> (parcela)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_k;&c_v;&c_o;&c_t;&c_a;</trd>,
+    <trd>&c_d;&c_o;&c_l;&c_ja;</trd>,
+    <trd>&c_p;&c_a;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>kvóta</trd>,
+    <trd>podiel</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kvot.0igo">
+  <kap><tld/>igo</kap>
+  <snc mrk="kvot.0igo.EKON">
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      Proporcia alju&gcirc;o en a&ccirc;eto de akcioj, valutoj, valorpaperoj
+      ktp en la borso, kiu influas la fiksadon de la taga
+      <ref tip="vid" cel="kurz.0o.EKON">kurzo</ref>.
+    </dif>
+  </snc>
+  <trd lng="be">&c_k;&c_a;&c_t;&c_y;&c_r;&c_o;&c_w;&c_k;&c_a;</trd>
+  <trd lng="cs">kvotizace</trd>
+  <trdgrp lng="en">
+    <trd>allocation</trd>,
+    <trd>allotment</trd>
+  </trdgrp>
+  <trd lng="fr">cotation</trd>
+  <trd lng="nl">toewijzing</trd>
+  <trd lng="ru">&c_k;&c_o;&c_t;&c_i;&c_r;&c_o;&c_v;&c_k;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>kvótovanie</trd>,
+    <trd>určenie kvóty</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kvot.profit0o">
+  <kap>profit<tld/>o</kap>
+  <snc mrk="kvot.profit0o.EKON">
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      Parto de farita profito.
+    </dif>
+    <trd lng="be">&c_d;&c_o;&c_l;&c_ja; <ind>&c_p;&c_r;&c_y;&c_b;&c_y;&c_t;&c_k;&c_u;</ind></trd>
+    <trd lng="de">Gewinnanteil</trd>
+    <trdgrp lng="hu">
+      <trd>haszonr&eacute;szesed&eacute;s</trd>,
+      <trd>nyeres&eacute;gr&eacute;szesed&eacute;s</trd>
+    </trdgrp>
+    <trd lng="ru">&c_d;&c_o;&c_l;&c_ja; &c_p;&c_r;&c_i;&c_b;&c_y;&c_l;&c_i;</trd>
+  </snc>
+  <snc mrk="kvot.profit0o.MAH">
+    <uzo tip="fak">MAH</uzo>
+    <dif>
+      Rilato de la plusvaloro al la tuta kapitalo.
+    </dif>
+    <trd lng="be">&c_n;&c_o;&c_r;&c_m;&c_a; <ind>&c_p;&c_r;&c_y;&c_b;&c_y;&c_t;&c_k;&c_u;</ind></trd>
+    <trd lng="de">Rendite</trd>
+    <trd lng="hu">profitr&aacute;ta</trd>
+    <trd lng="nl">winstmarge</trd>
+    <trd lng="ru">&c_n;&c_o;&c_r;&c_m;&c_a; &c_p;&c_r;&c_i;&c_b;&c_y;&c_l;&c_i;</trd>
+  </snc>
+  <trd lng="cs">míra zisku</trd>
+  <trd lng="sk">podiel na zisku</trd>
+</drv>
+
+<drv mrk="kvot.0odeplusvaloro">
+  <kap><tld/>o de plusvaloro</kap>
+  <snc mrk="kvot.0odeplusvaloro.MAH">
+    <uzo tip="fak">MAH</uzo>
+    <dif>
+      Ekspluatgrado, tio estas rilato de la plusvaloro
+      al la salajrosumo (varipova kapitalo).
+    </dif>
+  </snc>
+  <trd lng="be">&c_n;&c_o;&c_r;&c_m;&c_a; &c_d;&c_a;&c_d;&c_a;&c_n;&c_a;&c_j;
+  <ind>&c_v;&c_a;&c_r;&c_t;&c_a;&c_s;&c_mol;&c_c;&c_ib;</ind></trd>
+  <trd lng="cs">míra nadhodnoty</trd>
+  <trd lng="hu">&eacute;rt&eacute;kt&ouml;bbletr&aacute;ta</trd>
+  <trd lng="ru">&c_n;&c_o;&c_r;&c_m;&c_a; &c_p;&c_r;&c_i;&c_b;&c_a;&c_v;&c_o;&c_ch;&c_n;&c_o;&c_j;
+  &c_s;&c_t;&c_o;&c_i;&c_m;&c_o;&c_s;&c_t;&c_i;</trd>
+  <trd lng="sk">miera nadhodnoty</trd>
+</drv>
+
+<drv mrk="kvot.0odeinterezoj">
+  <kap><tld/>o de interezoj</kap>
+  <snc mrk="kvot.0odeinterezoj.EKON">
+    <uzo tip="fak">EKON</uzo>
+    <uzo tip="fak">MAH</uzo>
+    <dif>
+      Jara proporcio inter la interezoj kaj la &gcirc;in donanta kapitalo.
+    </dif>
+  </snc>
+  <trd lng="be">&c_n;&c_o;&c_r;&c_m;&c_a; <ind>&c_p;&c_r;&c_y;&c_b;&c_y;&c_t;&c_k;&c_u;</ind></trd>
+  <trd lng="de">Zinssatz</trd>
+  <trd lng="nl">rente</trd>
+  <trd lng="ru">&c_n;&c_o;&c_r;&c_m;&c_a; &c_p;&c_r;&c_i;&c_b;&c_y;&c_l;&c_i;</trd>
+</drv>
+</art>
+<!--
+$Log: kvot.xml,v $
+Revision 1.23  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.22  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.21  2015/01/22 20:10:20  revo
+Wolfram Diestel: -tajperaro
+
+Revision 1.20  2014/11/26 09:10:17  revo
+Damien Brucker: +trd fr
+
+Revision 1.19  2012/08/17 00:10:09  revo
+Jeromo Vasxe: + ref + 2 trd fr
+
+Revision 1.18  2011/02/08 10:10:12  revo
+Russ Williams: +trd en
+
+Revision 1.17  2009/09/22 17:17:43  revo
+Paul Peeraerts: +nl
+
+Revision 1.16  2006/09/22 12:27:14  revo
+Tulio Flores: +tr pt
+
+Revision 1.15  2005/06/23 16:31:39  revo
+Yury Finkel: +trd ru
+
+Revision 1.14  2004/03/19 17:31:03  revo
+-->
+</vortaro>

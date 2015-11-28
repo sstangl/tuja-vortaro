@@ -1,0 +1,665 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: anas.xml,v 1.47 2015/09/10 11:10:28 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>anas</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="anas.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="anas.0o.KOMUNE">
+    <uzo tip="stl">KOMUNE</uzo>
+    <dif>
+      <ref tip="lst" cel="bird.nagxo0o"
+      lst="voko:birdoj">Na&gcirc;birdo</ref> 
+      el la familio
+      <ref tip="malprt" cel="anased.0oj"><tld/>edoj</ref>, de
+      diversaj genroj.
+    </dif>
+    <trd lng="be">&c_k;&c_a;&c_ch;&c_k;&c_a;</trd>
+    <trd lng="br">houad</trd>
+    <trd lng="cs">kachna</trd>
+    <trd lng="de">Ente</trd>
+    <trd lng="en">duck</trd>
+    <trd lng="es">pato</trd>
+    <trd lng="fr">canard</trd>
+    <trd lng="hu">kacsa</trd>
+    <trd lng="id">bebek</trd>
+    <trd lng="it">anatra</trd>
+    <trd lng="nl">eend</trd>
+    <trd lng="no">and</trd>
+    <trd lng="pl">kaczka</trd>
+    <trd lng="pt">pato</trd>
+    <trd lng="ru">&c_u;&c_t;&c_k;&c_a;</trd>
+    <trd lng="sk">ka&ccaron;ica</trd>
+    <trdgrp lng="sv">
+      <trd>and</trd>,
+      <trd>anka</trd>
+    </trdgrp>
+    <trd lng="tr">&ouml;rdek</trd>
+  </snc>
+
+  <snc mrk="anas.0o.ZOO">
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:zoologiaj_genroj">Genro</ref> el la familio <ref
+      tip="malprt"
+      cel="anased.0oj"><tld/>edoj</ref>
+      (<trd lng="la">Anas</trd>);
+      <ref tip="lst" cel="bird.nagxo0o"
+      lst="voko:birdoj">na&gcirc;birdo</ref>,
+      kies viro havas plumaron belan kaj tute apartan de la virino:
+      <ekz>
+        trapasante la facilajn rapidfluejojn de Enco, ni vidis plurfoje
+        <tld/>ojn kun belaj oran&gcirc;aj bekoj
+        <fnt>
+          <aut>W. Schad</aut>,
+          <vrk>Tra la Andoj boate</vrk>,
+          <bib>Monato</bib>,
+          <lok>jaro 2001a, numero 12a, p. 16a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <bld lok="../bld/anas.jpg">
+      <ind>platbeka <tld/>o</ind> &#8208; paro
+      <trd lng="br">houad-korz</trd>
+      <trd lng="cs">kachna divok&aacute;</trd>
+      <trd lng="de">Stockente</trd>
+      <trd lng="en">mallard</trd>
+      <trd lng="fr">colvert</trd>
+      <trd lng="he">&bet;&resh;&kaf;&yod;&yod;&he;</trd>
+      <trd lng="hu">t&odblac;k&eacute;s r&eacute;ce</trd>
+      <trd lng="la">Anas platyrhynchos</trd>
+      <trd lng="pl">krzy&zdot;&oacute;wka</trd>
+      <trd lng="ru">&c_k;&c_r;&c_ja;&c_k;&c_v;&c_a;</trd>
+    </bld>
+  </snc>
+  <trd lng="he">&bet;&resh;&vav;&vav;&zayin;</trd>
+</drv>
+
+<drv mrk="anas.mar0o.blankspegula">
+  <kap>blankspegula mar<tld/>o</kap>
+  <snc>
+    <uzo tip="fak">ZOO</uzo>
+    <fnt>
+       <aut>W. F. Pilger</aut>,
+       <vrk>
+         <url ref="http://www.xs4all.nl/~pilger/wfp/birdeou8.htm">
+           Komunlingvaj nomoj de E&ubreve;ropaj birdoj</url>
+       </vrk>
+    </fnt>
+    <dif>
+      <ref tip="lst" cel="speci.0o.BIO" 
+      lst="voko:zoologiaj_specioj">Specio</ref>
+       de <ref tip="super" cel="anas.mar0o">mar<tld/>o</ref>
+      (<trd lng="la">Melanitta fusca</trd>):
+    </dif>
+    <trdgrp lng="en">
+      <trd>white-winged <ind>scoter</ind></trd>,
+      <trd>velvet <ind>scoter</ind></trd>
+    </trdgrp>
+    <trd lng="pl">uhla</trd>
+    <trd lng="sv">sv&auml;rta</trd>
+  </snc>
+</drv>
+
+<drv mrk="anas.0o.bluflugila">
+  <kap>bluflugila <tld/>o</kap>
+  <snc>
+    <uzo tip="fak">ZOO</uzo>
+    <fnt>
+       <aut>W. F. Pilger</aut>,
+       <vrk>
+         <url ref="http://www.xs4all.nl/~pilger/wfp/birdeou8.htm">
+           Komunlingvaj nomoj de E&ubreve;ropaj birdoj</url>
+       </vrk>
+    </fnt>
+    <dif>
+      <ref tip="lst" cel="speci.0o.BIO" 
+      lst="voko:zoologiaj_specioj">Specio</ref> 
+      de <ref tip="super" cel="anas.0o.ZOO">anaso</ref>
+      (<trd lng="la">Anas discors</trd>).
+    </dif>
+    <trd lng="de">Blaufl&uuml;gelente</trd>
+    <trd lng="en">blue-winged teal</trd>
+    <trd lng="pl">cyranka modroskrzyd&lstroke;a</trd>
+    <trd lng="sv">bl&aring;vingad <ind>&aring;rta</ind></trd>
+  </snc>
+</drv>
+
+<drv mrk="anas.0o.brunkapa">
+  <kap>brunkapa <tld/>o</kap>
+  <snc>
+    <uzo tip="fak">ZOO</uzo>
+    <fnt>
+       <aut>W. F. Pilger</aut>,
+       <vrk>
+         <url ref="http://www.xs4all.nl/~pilger/wfp/birdeou8.htm">
+           Komunlingvaj nomoj de E&ubreve;ropaj birdoj</url>
+       </vrk>
+    </fnt>
+    <dif>
+      <ref tip="lst" cel="speci.0o.BIO" 
+      lst="voko:zoologiaj_specioj">Specio</ref> 
+      de <ref tip="super" cel="anas.0o.ZOO">anaso</ref>
+      (<trd lng="la">Anas ferina</trd> a&ubreve;
+        <trd lng="la">Aythya ferina</trd>).
+    </dif>
+    <trd lng="en"><klr>common</klr> pochard</trd>
+    <trd lng="pl">g&lstroke;owienka</trd>
+    <trd lng="sv">brun<ind>and</ind></trd>
+  </snc>
+</drv>
+
+<drv mrk="anas.fajf0o">
+  <kap>fajf<tld/>o</kap>
+  <snc>
+    <uzo tip="fak">ZOO</uzo>
+    <fnt>
+       <aut>W. F. Pilger</aut>,
+       <vrk>
+         <url ref="http://www.xs4all.nl/~pilger/wfp/birdhvu8.htm">
+           Birdonomoj en Esperanto por Hejma Vortaro</url>
+       </vrk>
+    </fnt>
+    <dif>
+      <ref tip="lst" cel="speci.0o.BIO" 
+      lst="voko:zoologiaj_specioj">Specio</ref> 
+      de <ref tip="super" cel="anas.0o.ZOO">anaso</ref>
+      (<trd lng="la">Anas penelope</trd>).
+    </dif>
+    <trd lng="de">Pfeifente</trd>
+    <trd lng="en"><klr>eurasian </klr>wigeon</trd>
+    <trd lng="fr"><klr>(canard) </klr>siffleur</trd>
+    <trd lng="hu">f&uuml;ty&uuml;l&oacute; r&eacute;ce</trd>
+    <trd lng="nl">smient</trd>
+    <trd lng="pl">&sacute;wistun</trd>
+    <trd lng="pt">mareca</trd>
+    <trd lng="sv">bl&auml;s<ind>and</ind></trd>
+  </snc>
+  <trd lng="cs">hv&iacute;zd&aacute;k evroasijsk&yacute;</trd>
+  <trd lng="sk">ka&ccaron;ica hvizd&aacute;rka</trd>
+</drv>
+
+<drv mrk="anas.falcxil0o">
+  <kap>fal&ccirc;il<tld/>o</kap>
+  <snc>
+    <uzo tip="fak">ZOO</uzo>
+    <fnt>
+       <aut>W. F. Pilger</aut>,
+       <vrk>
+         <url ref="http://www.xs4all.nl/~pilger/wfp/birdeou8.htm">
+           Komunlingvaj nomoj de E&ubreve;ropaj birdoj</url>
+       </vrk>
+    </fnt>
+    <dif>
+      <ref tip="lst" cel="speci.0o.BIO" 
+      lst="voko:zoologiaj_specioj">Specio</ref> 
+      de <ref tip="super" cel="anas.0o.ZOO">anaso</ref>
+      (<trd lng="la">Anas falcata</trd>).
+    </dif>
+    <trd lng="de">Sichelente</trd>
+    <trd lng="en">falcated <ind>duck</ind></trd>
+    <trd lng="pl">czuprynka</trd>
+    <trd lng="sv">prakt<ind>and</ind></trd>
+  </snc>
+</drv>
+
+<drv mrk="anas.knar0o">
+  <kap>knar<tld/>o</kap>
+  <snc>
+    <uzo tip="fak">ZOO</uzo>
+    <fnt>
+       <aut>W. F. Pilger</aut>,
+       <vrk>
+         <url ref="http://www.xs4all.nl/~pilger/wfp/birdeou8.htm">
+           Komunlingvaj nomoj de E&ubreve;ropaj birdoj</url>
+       </vrk>
+    </fnt>
+    <dif>
+      <ref tip="lst" cel="speci.0o.BIO" 
+      lst="voko:zoologiaj_specioj">Specio</ref> 
+      de <ref tip="super" cel="anas.0o.ZOO">anaso</ref>
+      (<trd lng="la">Anas strepera</trd>).
+    </dif>
+    <trd lng="de">Schnatterente</trd>
+    <trd lng="en">gadwall</trd>
+    <trd lng="pl">krakwa</trd>
+    <trd lng="sv">snatter<ind>and</ind></trd>
+  </snc>
+  <trd lng="cs">kop&rcaron;ivka obecn&aacute;</trd>
+  <trd lng="sk">ka&ccaron;ica chrip&lcaron;avka</trd>
+</drv>
+
+<drv mrk="anas.kuler0o">
+  <kap>kuler<tld/>o</kap>
+  <snc>
+    <uzo tip="fak">ZOO</uzo>
+    <fnt>
+       <aut>W. F. Pilger</aut>,
+       <vrk>
+         <url ref="http://www.xs4all.nl/~pilger/wfp/birdeou8.htm">
+           Komunlingvaj nomoj de E&ubreve;ropaj birdoj</url>
+       </vrk>
+    </fnt>
+    <dif>
+      <ref tip="lst" cel="speci.0o.BIO" 
+      lst="voko:zoologiaj_specioj">Specio</ref> 
+      de <ref tip="super" cel="anas.0o.ZOO">anaso</ref>
+      (<trd lng="la">Anas (Spatula) clypeata</trd>).
+    </dif>
+    <trd lng="de">L&ouml;ffelente</trd>
+    <trd lng="en"><klr>northern</klr> shoveler</trd>
+    <trd lng="pl">p&lstroke;askonos</trd>
+    <trd lng="sv">sked<ind>and</ind></trd>
+  </snc>
+  <trd lng="cs">l&zcaron;i&ccaron;&aacute;k obecn&yacute;</trd>
+  <trd lng="sk">ka&ccaron;ica ly&zcaron;i&ccaron;iarka</trd>
+</drv>
+
+<drv mrk="anas.mar0o">
+  <kap>mar<tld/>o</kap>
+  <snc>
+    <uzo tip="stl">KOMUNE</uzo>
+    <fnt>
+       <aut>W. F. Pilger</aut>,
+       <vrk>
+         <url ref="http://www.xs4all.nl/~pilger/wfp/birdhvu8.htm">
+           Birdonomoj en Esperanto por Hejma Vortaro</url>
+       </vrk>
+    </fnt>
+    <dif>
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:zoologiaj_genroj">Genro</ref>
+       el la familio <ref tip="malprt"
+      cel="anased.0oj"><tld/>edoj</ref>
+      (<trd lng="la">Melanitta</trd>):
+    </dif>
+    <trd lng="de"><klr>i.a. </klr>Brillenente</trd>
+    <trd lng="en">scoter</trd>
+    <trd lng="fr">macreuse</trd>
+    <trd lng="hu"><klr>i.a. </klr>papaszemes r&eacute;ce</trd>
+    <trd lng="nl">zee-eend</trd>
+    <trd lng="sv">sv&auml;rta</trd>
+  </snc>
+</drv>
+
+<drv mrk="anas.marcx0o">
+  <kap>mar&ccirc;<tld/>o</kap>
+  <snc>
+    <uzo tip="fak">ZOO</uzo>
+    <fnt>
+       <aut>W. F. Pilger</aut>,
+       <vrk>
+         <url ref="http://www.xs4all.nl/~pilger/wfp/birdeou8.htm">
+           Komunlingvaj nomoj de E&ubreve;ropaj birdoj</url>
+       </vrk>
+    </fnt>
+    <dif>
+      <ref tip="lst" cel="speci.0o.BIO" 
+      lst="voko:zoologiaj_specioj">Specio</ref>
+       de <ref tip="super" cel="anas.0o.ZOO">anaso</ref>
+      (<trd lng="la">Anas querquedula</trd> a&ubreve;
+        <trd lng="la">Anas cercca</trd>).
+    </dif>
+    <ref tip="dif" cel="kerkedul.0o.ZOO">kerkedulo</ref>
+    
+    <trd lng="de">Kn&auml;kente</trd>
+    <trd lng="en">garganey</trd>
+    <trd lng="fr">sarcelle d'&eacute;t&eacute;</trd>
+    <trd lng="hu">b&odblac;jti <ind>r&eacute;ce</ind></trd>
+    <trd lng="nl">zomertaling</trd>
+    <trd lng="pl">cyranka</trd>
+    <trd lng="sv">&aring;rta</trd>
+  </snc>
+</drv>
+
+<drv mrk="anas.marmor0o">
+  <kap>marmor<tld/>o</kap>
+  <snc>
+    <uzo tip="fak">ZOO</uzo>
+    <fnt>
+       <aut>W. F. Pilger</aut>,
+       <vrk>
+         <url ref="http://www.xs4all.nl/~pilger/wfp/birdeou8.htm">
+           Komunlingvaj nomoj de E&ubreve;ropaj birdoj</url>
+       </vrk>
+    </fnt>
+    <dif>
+      <ref tip="lst" cel="speci.0o.BIO" 
+      lst="voko:zoologiaj_specioj">Specio</ref>
+       de <ref tip="super" cel="anas.0o.ZOO">anaso</ref>
+      (<trd lng="la">Anas <klr>(Marmaronetta)</klr>
+      angustirostris</trd>).
+    </dif>
+    <trd lng="en"><klr>marbled</klr> teal</trd>
+    <trd lng="pl"><klr>kaczka</klr> marmurka</trd>
+  </snc>
+  <trd lng="cs">&ccaron;&iacute;rka &uacute;zkozob&aacute;</trd>
+  <trd lng="sk">&ccaron;&iacute;rka &uacute;zkozob&aacute;</trd>
+</drv>
+
+<drv mrk="anas.mandaren0o">
+  <kap>mandaren<tld/>o</kap>
+  <snc>
+    <uzo tip="fak">ZOO</uzo>
+    <fnt>
+       <aut>W. F. Pilger</aut>,
+       <vrk>
+         <url ref="http://www.xs4all.nl/~pilger/wfp/birdeou8.htm">
+           Komunlingvaj nomoj de E&ubreve;ropaj birdoj</url>
+       </vrk>
+    </fnt>
+    <dif>
+      <ref tip="lst" cel="speci.0o.BIO" 
+      lst="voko:zoologiaj_specioj">Specio</ref>
+       de tre bunta <ref tip="super" cel="anas.0o.ZOO">anaso</ref>
+      (<trd lng="la">Aix galericulata</trd>).
+    </dif>
+    <trd lng="en">mandarin <ind>duck</ind></trd>
+    <trd lng="pl">mandarynka</trd>
+    <trd lng="sv">mandarin<ind>and</ind></trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>kachna mandar&iacute;nsk&aacute;</trd>,
+    <trd>kachni&ccaron;ka mandar&iacute;nsk&aacute;</trd>
+  </trdgrp>
+  <trd lng="sk">ka&ccaron;i&ccaron;ka mandar&iacute;nska</trd>
+</drv>
+
+<drv mrk="anas.merg0o">
+  <kap>
+    merg<tld/>o
+  </kap>
+  <snc>
+    <uzo tip="fak">ZOO</uzo>
+    <fnt>
+      <bib>PIV3</bib>
+    </fnt>
+    <ref tip="dif" cel="fuligu.0o">fuligulo</ref>
+    
+    <trd lng="cs">kachna chocholat&aacute;</trd>
+    <trd lng="de">Reiherente</trd>
+    <trd lng="en">tufted <ind>duck</ind></trd>
+    <trd lng="fr">fuligule</trd>
+    <trd lng="hu">kontyos r&eacute;ce</trd>
+    <trd lng="la">Aythya fuligula</trd>
+    <trd lng="nl">kuifeend</trd>
+    <trd lng="pl">czernica</trd>
+    <trdgrp lng="pt">
+      <trd>ful&iacute;gula</trd>,
+      <trd>negrina</trd>
+    </trdgrp>
+    <trd lng="ru">&c_h;&c_o;&c_h;&c_l;&c_a;&c_t;&c_a;&c_ja;
+    &c_ch;&c_je;&c_r;&c_n;&c_je;&c_t;&c_mol;</trd>
+  <trd lng="sv">vigg</trd>
+  </snc>
+</drv>
+
+<drv mrk="anas.mol0o">
+  <kap>mol<tld/>o</kap>
+  <snc mrk="anas.mol0o.KOMUNE">
+    <uzo tip="stl">KOMUNE</uzo>
+    <uzo tip="fak">ZOO</uzo>
+    <fnt>
+       <aut>W. F. Pilger</aut>,
+       <vrk>
+         <url ref="http://www.xs4all.nl/~pilger/wfp/birdhvu8.htm">
+           Birdonomoj en Esperanto por Hejma Vortaro</url>
+       </vrk>
+    </fnt>
+    <dif>
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:zoologiaj_genroj">Genro</ref> 
+      el la familio <ref tip="malprt"
+      cel="anased.0oj"><tld/>edoj</ref>
+      (i.a. <trd lng="la">Somateria</trd>):
+    </dif>
+    <trd lng="de">Eiderente</trd>
+    <trd lng="en">eider-<ind>duck</ind></trd>
+    <trd lng="fr">eider &agrave; duvet</trd>
+    <trd lng="hu">pehelyr&eacute;ce</trd>
+    <trd lng="nl">eidereend</trd>
+    <trd lng="sv">ejder</trd>
+  </snc>
+  <snc mrk="anas.mol0o.ZOO">
+    <uzo tip="fak">ZOO</uzo>
+    <fnt>
+       <aut>W. F. Pilger</aut>,
+       <vrk>
+         <url ref="http://www.xs4all.nl/~pilger/wfp/birdeou8.htm">
+           Komunlingvaj nomoj de E&ubreve;ropaj birdoj</url>
+       </vrk>
+    </fnt>
+    <dif>
+      <ref tip="lst" cel="speci.0o.BIO" 
+      lst="voko:zoologiaj_specioj">Specio</ref>
+       de <ref tip="super"
+      cel="anas.mol0o.KOMUNE">mol<tld/>o</ref>
+      (<trd lng="la">Somateria mollissima</trd>):
+    </dif>
+    <ref tip="sin" cel="somateri.0o.ZOO">somaterio</ref>
+    <trd lng="en"><klr>common</klr> eider</trd>
+    <trd lng="pl">edredon</trd>
+    <trd lng="sv">ejder</trd>
+  </snc>
+  <trd lng="br">eider</trd>
+  <trdgrp lng="cs">
+    <trd>Kajka obecn&aacute;</trd>,
+    <trd>kajka</trd>,
+    <trd>kajka mo&rcaron;sk&aacute;</trd>
+  </trdgrp>
+  <trd lng="fr">eider</trd>
+  <trd lng="nl">eidereend</trd>
+  <trd lng="ru">&c_g;&c_a;&c_g;&c_a;</trd>
+  <trd lng="sk">kajka</trd>
+</drv>
+
+<drv mrk="anas.mar0o.nigra">
+  <kap>nigra mar<tld/>o</kap>
+  <snc>
+    <uzo tip="fak">ZOO</uzo>
+    <fnt>
+       <aut>W. F. Pilger</aut>,
+       <vrk>
+         <url ref="http://www.xs4all.nl/~pilger/wfp/birdeou8.htm">
+           Komunlingvaj nomoj de E&ubreve;ropaj birdoj</url>
+       </vrk>
+    </fnt>
+    <dif>
+      <ref tip="lst" cel="speci.0o.BIO" 
+      lst="voko:zoologiaj_specioj">Specio</ref>
+       de <ref tip="super" cel="anas.mar0o">mar<tld/>o</ref>
+      (<trd lng="la">Melanitta nigra</trd>):
+    </dif>
+    <trdgrp lng="en">
+      <trd>common <ind>scoter</ind></trd>,
+      <trd>black <ind>scoter</ind></trd>
+    </trdgrp>
+    <trd lng="pl">markaczka</trd>
+    <trd lng="sv">sj&ouml;orre</trd>
+  </snc>
+</drv>
+
+<drv mrk="anas.mar0o.okulvitra">
+  <kap>okulvitra mar<tld/>o</kap>
+  <snc>
+    <uzo tip="fak">ZOO</uzo>
+    <fnt>
+       <aut>W. F. Pilger</aut>,
+       <vrk>
+         <url ref="http://www.xs4all.nl/~pilger/wfp/birdeou8.htm">
+           Komunlingvaj nomoj de E&ubreve;ropaj birdoj</url>
+       </vrk>
+    </fnt>
+    <dif>
+      <ref tip="lst" cel="speci.0o.BIO" 
+      lst="voko:zoologiaj_specioj">Specio</ref>
+       de <ref tip="super" cel="anas.mar0o">mar<tld/>o</ref>
+      (<trd lng="la">Melanitta perspicillata</trd>):
+    </dif>
+    <trd lng="pl">uhla pstrodzioba</trd>
+    <trd lng="sv">vitnackad <ind>sv&auml;rta</ind></trd>
+  </snc>
+</drv>
+
+<drv mrk="anas.0o.platbeka">
+  <kap>platbeka <tld/>o</kap>
+  <snc>
+    <uzo tip="fak">ZOO</uzo>
+    <fnt>
+       <aut>W. F. Pilger</aut>,
+       <vrk>
+         <url ref="http://www.xs4all.nl/~pilger/wfp/birdeou8.htm">
+           Komunlingvaj nomoj de E&ubreve;ropaj birdoj</url>
+       </vrk>
+    </fnt>
+    <dif>
+      <ref tip="lst" cel="speci.0o.BIO" 
+      lst="voko:zoologiaj_specioj">Specio</ref>
+       de <ref tip="super" cel="anas.0o.ZOO">anaso</ref>
+      (<trd lng="la">Anas platyrhynchos</trd>).
+    </dif>
+    <trd lng="de">Stockente</trd>
+    <trd lng="en">mallard</trd>
+    <trd lng="pl"><klr>kaczka</klr> krzy&zdot;&oacute;wka</trd>
+    <trd lng="sv">gr&auml;a<ind>and</ind></trd>
+  </snc>
+</drv>
+
+<drv mrk="anas.pintvost0o">
+  <kap>pintvost<tld/>o</kap>
+  <snc>
+    <uzo tip="fak">ZOO</uzo>
+    <fnt>
+       <aut>W. F. Pilger</aut>,
+       <vrk>
+         <url ref="http://www.xs4all.nl/~pilger/wfp/birdeou8.htm">
+           Komunlingvaj nomoj de E&ubreve;ropaj birdoj</url>
+       </vrk>
+    </fnt>
+    <dif>
+      <ref tip="lst" cel="speci.0o.BIO" 
+      lst="voko:zoologiaj_specioj">Specio</ref>
+       de <ref tip="super" cel="anas.0o.ZOO">anaso</ref>
+      (<trd lng="la">Anas acuta</trd>).
+    </dif>
+    <trd lng="de">Spie&szlig;ente</trd>
+    <trd lng="en"><klr>northern</klr> pintail</trd>
+    <trd lng="pl">ro&zdot;eniec</trd>
+    <trd lng="sv">stj&auml;rt<ind>and</ind></trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>ostralka obecn&aacute;</trd>,
+    <trd>ostralka &scaron;t&iacute;hl&aacute;</trd>
+  </trdgrp>
+  <trd lng="sk">ka&ccaron;ica ostrochvost&aacute;</trd>
+</drv>
+
+<drv mrk="anas.mol0o.regxa">
+  <kap>re&gcirc;a mol<tld/>o</kap>
+  <snc>
+    <uzo tip="fak">ZOO</uzo>
+    <fnt>
+       <aut>W. F. Pilger</aut>,
+       <vrk>
+         <url ref="http://www.xs4all.nl/~pilger/wfp/birdeou8.htm">
+           Komunlingvaj nomoj de E&ubreve;ropaj birdoj</url>
+       </vrk>
+    </fnt>
+    <dif>
+      <ref tip="lst" cel="speci.0o.BIO" 
+      lst="voko:zoologiaj_specioj">Specio</ref>
+       de <ref tip="super" cel="anas.mol0o.ZOO">mol<tld/>o</ref>
+      (<trd lng="la">Somateria spectabilis</trd>):
+    </dif>
+    <trd lng="en">king <ind>eider</ind></trd>
+    <trd lng="pl">turkan</trd>
+    <trd lng="sv">praktejder</trd>
+  </snc>
+</drv>
+
+<drv mrk="anas.mol0o.siberia">
+  <kap>siberia mol<tld/>o</kap>
+  <snc>
+    <uzo tip="fak">ZOO</uzo>
+    <fnt>
+       <aut>W. F. Pilger</aut>,
+       <vrk>
+         <url ref="http://www.xs4all.nl/~pilger/wfp/birdeou8.htm">
+           Komunlingvaj nomoj de E&ubreve;ropaj birdoj</url>
+       </vrk>
+    </fnt>
+    <dif>
+      <ref tip="lst" cel="speci.0o.BIO" 
+      lst="voko:zoologiaj_specioj">Specio</ref>
+       de <ref tip="super" cel="anas.mol0o.ZOO">mol<tld/>o</ref>
+      (<trd lng="la">Somateria stelleri</trd> a&ubreve;
+      <trd lng="la">Polysticta stelleri</trd>):
+    </dif>
+    <trd lng="en">steller's <ind>eider</ind></trd>
+    <trd lng="pl">birginiak</trd>
+    <trd lng="sv">alf&ouml;rr&auml;dare</trd>
+  </snc>
+</drv>
+
+<drv mrk="anas.tuf0o">
+  <kap>tuf<tld/>o
+    <fnt>
+      <bib>Bird</bib>
+    </fnt>
+  </kap>
+  <uzo tip="stl">KOMUNE</uzo>
+  <snc>
+    <ref tip="dif" cel="fuligu.0o">fuligulo</ref>
+    
+    <trdgrp lng="br">
+      <trd>houad du</trd>,
+      <trd>kanig du<klr> [komune]</klr></trd>
+    </trdgrp>
+    <trd lng="cs">kachna chocholat&aacute;</trd>
+    <trd lng="de">Reiherente</trd>
+    <trd lng="en">tufted <ind>duck</ind></trd>
+    <trd lng="fr">fuligule</trd>
+    <trd lng="hu">kontyos r&eacute;ce</trd>
+    <trd lng="la">Aythya fuligula</trd>
+    <trd lng="nl">kuifeend</trd>
+    <trd lng="pl">czernica</trd>
+    <trdgrp lng="pt">
+      <trd>ful&iacute;gula</trd>,
+      <trd>negrina</trd>
+    </trdgrp>
+    <trd lng="ru">&c_h;&c_o;&c_h;&c_l;&c_a;&c_t;&c_a;&c_ja; &c_ch;&c_je;&c_r;&c_n;&c_je;&c_t;&c_mol;</trd>
+    <trd lng="sv">vigg</trd>
+  </snc>
+</drv>
+</art>
+<!--
+$Log: anas.xml,v $
+Revision 1.47  2015/09/10 11:10:28  revo
+Evandro Avellar: +trd pt
+
+Revision 1.46  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.45  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.44  2014/11/23 21:10:27  revo
+Wolfram Diestel: uzu cx en markoj, zip konfiuzighas pro tegmentitaj
+literoj
+
+Revision 1.43  2014/06/25 16:10:10  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.42  2013/11/02 11:10:13  revo
+Wolfram Diestel: kor. ref-cel
+
+Revision 1.41  2013/11/01 16:10:11  revo
+Wolfram Diestel: anaso ZOO: ref al nagxbirdo
+
+-->
+</vortaro>

@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: melong.xml,v 1.17 2013/11/02 16:10:15 revo Exp $">
+<kap>
+  <ofc>9</ofc><rad>melongen</rad>/o
+</kap>
+<drv mrk="melong.0o">
+  <kap>
+    <ofc>9</ofc><tld/>o
+  </kap>
+  <snc mrk="melong.0o.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      <ref tip="lst" cel="speci.0o.BIO" 
+      lst="voko:botanikaj_specioj">Specio</ref>
+      de <ref tip="super" cel="solan.0o">solano</ref>,
+      (<trd lng="la">Solanum melongena</trd>),
+      legoma <ref tip="lst" cel="veget.0ajxo" 
+      lst="voko:solanoparencoj">vegeta&jcirc;o</ref>
+      kun man&gcirc;ebla, ovo- a&ubreve; pirforma, frukto blanka, flava a&ubreve;
+      violkolora.
+    </dif>
+  </snc>
+  <snc mrk="melong.0o.frukto">
+    <uzo tip="fak">KUI</uzo>
+    <dif>
+       La frukto (bero) de <ref tip="malprt" cel="melong.0o.BOT">
+       <tld/>o<sncref ref="melong.0o.BOT"/></ref>.
+    </dif>
+  </snc>
+  <trd lng="be">&c_b;&c_a;&c_k;&c_l;&c_a;&c_zh;&c_a;&c_n;</trd>
+  <trd lng="ca">alberg&iacute;nia</trd>
+  <trdgrp lng="de">
+    <trd>Aubergine</trd>, <trd>Eierfrucht</trd>
+  </trdgrp>
+  <trd lng="en">eggplant</trd>
+  <trd lng="es">berenjena</trd>
+  <trd lng="fa">&a_b;&a_A;&a_d;&a_n;&a_j;&a_A;&a_n;</trd>
+  <trd lng="fr">aubergine</trd>
+  <trdgrp lng="hu">
+    <trd>padlizs&aacute;n</trd>,
+    <trd>toj&aacute;sgy&uuml;m&ouml;lcs</trd>,
+    <trd>toj&aacute;scsucsor</trd>,
+    <trd>t&ouml;r&ouml;kparadicsom</trd>
+  </trdgrp>
+  <trd lng="nl">aubergine</trd>
+  <trdgrp lng="pt">
+    <trd>beringela</trd>,
+    <trd>berinjela</trd>
+  </trdgrp>
+  <trd lng="ru">&c_b;&c_a;&c_k;&c_l;&c_a;&c_zh;&c_a;&c_n;</trd>
+  <trd lng="tr">patl&inodot;can</trd>
+</drv>
+</art>
+<!--
+$Log: melong.xml,v $
+Revision 1.17  2013/11/02 16:10:15  revo
+Wolfram Diestel: ref al solanoparencoj, + snc frukto
+
+Revision 1.16  2012/08/04 09:10:35  revo
+Marc Rausell: + trd ca
+
+Revision 1.15  2010/06/11 16:30:32  revo
+Agustin Garcia Lopez: +trd es
+
+Revision 1.14  2009/08/18 19:19:40  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.13  2009/03/01 17:33:01  revo
+Russ Williams: + 9OA
+
+Revision 1.12  2006/07/31 16:31:27  revo
+Tulio Flores: +tr pt
+
+Revision 1.11  2003/05/19 19:41:48  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.10  2002/05/13 16:32:58  revo
+-->
+</vortaro>

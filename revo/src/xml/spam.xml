@@ -1,0 +1,107 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: spam.xml,v 1.6 2007/01/27 21:07:44 revo Exp $">
+<kap><rad>spam</rad>/o</kap>
+<drv mrk="spam.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">KOMP</uzo>
+  <uzo tip="stl">KOMUNE</uzo>
+  <snc>
+    <dif>
+      Nedezirata reklamo amase distribuata per retpo&scirc;to:
+      <ekz>
+        por tiu malagrabla fenomeno jam establi&gcirc;is (anka&ubreve; en la
+        esperantlingvaj retforumoj) nova vorto: <tld/>o<fnt><aut>Paul
+        Peeraerts</aut>: <vrk>Trudata reklamo: &ccirc;u haltigebla</vrk>,
+        <bib>Monato</bib><lok>jaro 1998a, numero 4a, p. 14a</lok></fnt>..
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_p;&c_a;&c_m;</trd>
+  <trd lng="de">Spam</trd>
+  <trdgrp lng="fr">
+    <trd>spam<klr> (activit&eacute;)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>spam</trd>,
+    <trd>lev&eacute;lszem&eacute;t</trd>
+  </trdgrp>
+  <trd lng="nl">spam</trd>
+  <trd lng="ru">&c_s;&c_p;&c_a;&c_m;</trd>
+</drv>
+
+<drv mrk="spam.0ajxo">
+  <kap><tld/>a&jcirc;o</kap>
+  <uzo tip="fak">KOMP</uzo>
+  <uzo tip="stl">KOMUNE</uzo>
+  <snc>
+    <dif>
+      <ref tip="super" cel="mesagx.trud0o">Trudmesa&gcirc;o</ref> sendita per
+      <ref tip="vid" cel="ret.0posxto">retpo&scirc;to</ref>.
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="mesagx.spam0o"><tld/>mesa&gcirc;o</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_s;&c_p;&c_a;&c_m; <klr>(&c_p;&c_a;&c_v;&c_je;&c_d;&c_a;&c_m;&c_l;&c_je;&c_n;&c_mol;&c_n;&c_je;)</klr></trd>
+  <trd lng="de">E-Mail-Spam</trd>
+  <trdgrp lng="fr">
+    <trd>spam<klr> (message publicitaire)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>spamlev&eacute;l</trd>,
+    <trd>rekl&aacute;mlev&eacute;l</trd>
+  </trdgrp>
+  <trd lng="nl">spambericht</trd>
+  <trd lng="ru">&c_s;&c_p;&c_a;&c_m;<klr> (&c_s;&c_o;&c_o;&c_b;&c_shch;&c_je;&c_n;&c_i;&c_je;)</klr></trd>
+</drv>
+
+<drv mrk="spam.0isto">
+  <kap><tld/>isto</kap>
+  <uzo tip="fak">KOMP</uzo>
+  <uzo tip="stl">KOMUNE</uzo>
+  <snc>
+    <dif>
+      <ref tip="super" cel="reklam.0isto">Reklamisto</ref>, kiu uzadas
+      <tld/>on:
+      <ekz>
+        ka&scirc;i vian adreson, tiel ke <tld/>istoj ne trovu &gcirc;in<fnt><aut>Paul
+        Peeraerts</aut>: <vrk>Trudata reklamo: &ccirc;u haltigebla</vrk>,
+        <bib>Monato</bib><lok>jaro 1998a, numero 4a, p. 14a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_p;&c_a;&c_m;&c_e;&c_r;</trd>
+  <trd lng="de">Spammer</trd>
+  <trdgrp lng="fr">
+    <trd>spameur</trd>
+  </trdgrp>
+  <trd lng="hu">spamk&uuml;ld&odblac;</trd>  
+  <trd lng="nl">spammer</trd>
+  <trd lng="ru">&c_s;&c_p;&c_a;&c_m;&c_m;&c_je;&c_r;</trd>
+</drv>
+</art>
+<!--
+$Log: spam.xml,v $
+Revision 1.6  2007/01/27 21:07:44  revo
+Wieland Pusch: +trd de
+
+Revision 1.5  2004/10/21 16:31:48  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.4  2004/02/16 20:48:21  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.3  2003/09/17 16:31:49  revo
+Yury Finkel: +trd ru
+
+Revision 1.2  2003/04/06 16:32:01  revo
+Paul Peeraerts: ald trd nl + belarangho + aldonis la vorton "amase" en dif
+
+Revision 1.1 2002/09/05 17:31:30 revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

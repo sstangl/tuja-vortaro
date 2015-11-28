@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: likopo.xml,v 1.19 2014/02/08 17:10:23 revo Exp $">
+<kap>
+  <rad>likopodi</rad>/o
+  <fnt>Z</fnt>
+</kap>
+<drv mrk="likopo.0o">
+  <kap>
+    <tld/>o
+  </kap>
+  <uzo tip="fak">BOT</uzo>
+  <snc mrk="likopo.0o.genro">
+    <dif>
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:botanikaj_genroj">Genro</ref> el familio <ref
+      tip="malprt"
+      cel="likopo1.0oj"><tld/>acoj</ref>
+      (<trd lng="la">Lycopodium</trd>), 
+      <ref tip="lst" cel="spor.0oplanto" 
+      lst="voko:sporoplantoj">sporoplanto</ref>
+       kun skvamaj a&ubreve; pinglaj folietoj.
+    </dif>
+  </snc>
+  <snc mrk="likopo.0o.klasano">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      Iu el <tld/>oj.
+    </dif>
+  </snc>
+  <trd lng="be">&c_d;&c_z;&c_je;&c_r;&c_a;&c_z;&c_a;</trd>
+  <trd lng="bg">&c_p;&c_l;&c_a;&c_v;&c_u;&c_n;</trd>
+  <trd lng="ca">licopodi</trd>
+  <trd lng="de">B&auml;rlapp</trd>
+  <trd lng="nl">wolfsklauw</trd>
+  <trd lng="pt">licopodi&aacute;cea</trd>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_l;&c_a;&c_u;&c_n;</trd>,
+    <trd>&c_l;&c_i;&c_k;&c_o;&c_p;&c_o;&c_d;&c_i;&c_j;</trd>
+  </trdgrp>
+</drv>
+<drv mrk="likopo.0oj">
+  <kap><tld/>oj</kap>
+  <snc mrk="likopo.0oj.klaso">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      <ref tip="lst" cel="klas.0o.BIO"
+      lst="voko:botanikaj_klasoj">Klaso</ref>
+      (<trd lng="la">Lycopodiopsida</trd>) el <ref tip="malprt"
+      cel="likopo.0oplantoj"><tld/>oplantoj</ref>.
+    </dif>
+    <trd lng="de">B&auml;rlappe</trd>
+  </snc>
+</drv>
+<drv mrk="likopo.0oplantoj">
+  <kap>
+    <tld/>oplantoj
+  </kap>
+  <snc>
+  <uzo tip="fak">BOT</uzo>
+    <dif>
+      Sub<ref tip="lst" cel="divizi.0o.BOT"
+      lst="voko:botanikaj_grupoj">divizio</ref> 
+      de la <ref tip="malprt" cel="vaskul.0ajplantoj">vaskulaj
+      plantoj</ref>
+      (<trd lng="la">Lycopodiophytina</trd>).
+    </dif>
+  </snc>
+  <trd lng="ca">licopodiofitins</trd>
+  <trd lng="en">club-mosses</trd>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_l;&c_a;&c_u;&c_n;&c_o;&c_v;&c_i;&c_d;&c_n;&c_y;&c_je;</trd>,
+    <trd>&c_p;&c_l;&c_a;&c_u;&c_n;&c_o;&c_o;&c_b;&c_r;&c_a;&c_z;&c_n;&c_y;&c_je;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="likopo.0apulvoro">
+  <kap>
+    <tld/>a pulvoro
+  </kap>
+  <snc>
+    <dif>
+      Pulvoro flaveta, kiun entenas la sporujoj de la <tld/>o kaj uzata
+      en farmacio kaj de fajroartistoj.
+    </dif>
+  </snc>
+  <trdgrp lng="de">
+    <trd>B&auml;rlappsporen</trd>,
+    <trd>Lycopodiumpulver</trd>
+  </trdgrp>
+  <trd lng="ca">espores de licopodi</trd>
+  <trd lng="ru">&c_l;&c_i;&c_k;&c_o;&c_p;&c_o;&c_d;&c_i;&c_j; <klr>(&c_s;&c_p;&c_o;&c_r;&c_y; &c_p;&c_l;&c_a;&c_u;&c_n;&c_a;)</klr></trd>
+</drv>
+</art>
+<!--
+$Log: likopo.xml,v $
+Revision 1.19  2014/02/08 17:10:23  revo
+Damien Brucker: -eraro cxe ref
+
+Revision 1.18  2014/02/08 15:10:47  revo
+Damien Brucker: -eraro cxe ref
+
+Revision 1.17  2013/10/27 11:10:17  revo
+Wolfram Diestel: ref al sporoplantoj
+
+Revision 1.16  2013/09/05 09:10:16  revo
+Joop Eggen: +trd bg
+
+Revision 1.15  2013/08/30 14:11:34  revo
+Wolfram Diestel: kor. lst-ref
+
+Revision 1.14  2013/08/29 17:10:15  revo
+Wolfram Diestel: +drv ~oj, ~oplantoj estas subdivizio nuntempe
+
+Revision 1.13  2013/08/27 10:10:25  revo
+Wolfram Diestel: referencoj al listoj, fajroartisoj
+
+Revision 1.12  2011/12/05 07:10:09  revo
+-->
+</vortaro>

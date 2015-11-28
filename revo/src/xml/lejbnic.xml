@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+  <art mrk="$Id: lejbnic.xml,v 1.5 2014/01/22 09:10:16 revo Exp $">
+    <kap><rad>Lejbnic</rad>/o</kap>
+
+    <drv mrk="lejbnic.0o">
+      <kap><tld/>o<fnt><bib>PIV1</bib></fnt></kap>
+      <snc mrk="lejbnic.0o.PERS">
+        <uzo tip="fak">PERS</uzo>
+        <dif>
+          Granda germana filozofo kaj matematikisto
+          (<trd lng="de">Gottfried Wilhelm von
+          <ind>Leibniz</ind></trd>, 1646&ndash;1716):
+          <ekz>
+            Sed la regulo de <tld/>o montras ke <frm>(xv')' =
+            xv''+v'</frm>
+            <fnt>
+              <aut>Christer Kiselman</aut>:
+              <vrk><url
+              ref="http://www2.math.uu.se/~kiselman/distribucioj.pdf"
+                  >Enkonduko al distribucioj</url></vrk>.
+              <lok>Acta Sanmarinensia IV.4</lok>
+            </fnt>.        
+          </ekz>
+        </dif>
+      </snc>
+      <trd lng="ca">Leibniz</trd>
+      <trd lng="fr">Leibniz</trd>
+      <trd lng="ru">&c_L;&c_je;&c_j;&c_b;&c_n;&c_i;&c_c;</trd>
+    </drv>
+
+    <drv mrk="lejbnic.0a">
+      <kap><tld lit="l"/>a</kap>
+      <snc>
+        <dif>
+          Rilata a&ubreve; apartenanta al <tld/>o:
+          <ekz>
+            Louis Couturat <klr>...</klr> kuratoris gravan kritikan
+            eldonon de <tld lit="l"/>aj verkoj kaj fari&gcirc;is
+            dissendisto
+            de la
+            pensaro de la <tld lit="l"/>a penso ekde la komenco de la
+            dudeka
+            jarcento
+            <fnt>
+              <aut>Federico Gobbo</aut>:
+              <vrk><url
+ ref="http://www.dicom.uninsubria.it/~fgobbo/486-1986-5-PB.pdf"
+                  >Fundamentoj de la adpoziciaj gramatikoj</url></vrk>
+              <lok>Interlingvistikaj kajeroj, 1:1 (2010), ISSN
+              2037-4550</lok>
+            </fnt>.
+          </ekz>
+         </dif>
+      </snc>
+      <trd lng="ca">leibnizi&agrave;</trd>
+      <trd lng="fr">leibnizien</trd>
+      <trdgrp lng="ru">
+        <trd>&c_l;&c_je;&c_j;&c_b;&c_n;&c_i;&c_c;&c_je;&c_v;</trd>,
+        <trd>&c_l;&c_je;&c_j;&c_b;&c_n;&c_i;&c_c;&c_je;&c_v;&c_s;&c_k;&c_i;&c_j;</trd>
+      </trdgrp>
+    </drv>
+
+  </art>
+
+<!--
+$Log: lejbnic.xml,v $
+Revision 1.5  2014/01/22 09:10:16  revo
+Damien Brucker: +trd fr
+
+Revision 1.4  2012/01/01 21:10:15  revo
+Marc Rausell: +trd ca
+
+Revision 1.3  2011/08/08 19:10:11  revo
+Wolfram Diestel: - du tajperaroj
+
+Revision 1.2  2011/07/25 11:10:09  revo
+Sergio Pokrovskij: -tajperaroj
+
+Revision 1.1  2011/07/24 11:10:09  revo
+Sergio Pokrovskij: nova artikolo
+
+-->
+</vortaro>

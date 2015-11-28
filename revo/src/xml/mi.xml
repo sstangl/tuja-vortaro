@@ -1,0 +1,138 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: mi.xml,v 1.32 2015/07/04 13:10:15 revo Exp $">
+<kap>
+   <ofc>*</ofc> <rad>mi</rad> <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="mi.0">
+   <kap><ofc>*</ofc><tld/></kap>
+   <snc>
+     <dif>
+       <ref tip="super" cel="pronom.0o">Pronomo</ref>
+       de la unua persono en ununombro:
+       <ekz>
+         <tld/>a, <tld/>n kaj <tld/> en mondo re&gcirc;as tri<fnt>Z</fnt>.
+       </ekz>
+     </dif>
+   </snc>
+  <trd lng="be">&c_ja;</trd>
+  <trd lng="bg">&c_a;&c_z;</trd>
+  <trd lng="br">me</trd>
+  <trdgrp lng="ca">
+     <trd>jo</trd>,
+     <trd>mi</trd>
+   </trdgrp>
+  <trd lng="cs">m&iacute; <klr>(&rcaron;eck&eacute; p&iacute;smeno)</klr></trd>
+  <trd lng="de">ich</trd>
+  <trdgrp lng="en">
+     <trd>I</trd>,
+     <trd>me</trd>
+   </trdgrp>
+  <trdgrp lng="es">
+     <trd>yo</trd>,
+     <trd>mi</trd>
+   </trdgrp>
+  <trd lng="fi">min&auml;</trd>
+  <trd lng="fr">je</trd>
+  <trd lng="he">&alef;&nun;&yod;</trd>
+  <trd lng="hr">ja</trd>
+  <trd lng="hu">&eacute;n</trd>
+  <trd lng="ia">io</trd>
+  <trdgrp lng="id">
+     <trd>aku</trd>,
+     <trd>saya</trd>
+   </trdgrp>
+  <trd lng="it">io</trd>
+  <trd lng="ku">ez</trd>
+  <trd lng="nl">ik</trd>
+  <trd lng="pl">ja</trd>
+  <trd lng="pt">eu</trd>
+  <trd lng="ru">&c_ja;</trd>
+  <trdgrp lng="sk">
+    <trd>ja</trd>,
+    <trd>m&iacute; <klr>(gr&eacute;cke p&iacute;smeno)</klr></trd>
+  </trdgrp>
+  <trd lng="sv">jag</trd>
+  <trd lng="tp">mi</trd>
+  <trd lng="vo">ob</trd>
+   <trdgrp lng="zh">
+     <trd>&#25105; [<ind>w&#466;</ind>]</trd>
+     <trd>&#21566; [<ind>w&uacute;</ind>]</trd>
+   </trdgrp>
+</drv>
+
+<drv mrk="mi.0a">
+   <kap><tld/>a</kap>
+   <snc>
+     <dif>
+       Poseda adj. a&ubreve; pron. signifanta: &leftquot;posedata de mi, rilata 
+al mi&rightquot;.
+     </dif>
+   </snc>
+  <trdgrp lng="bg">
+     <trd>&c_m;&c_o;&c_j;</trd>,
+     <trd>&c_m;&c_i;</trd>
+   </trdgrp>
+  <trd lng="ca">meu</trd>
+  <trdgrp lng="cs">
+    <trd>moje</trd>,
+    <trd>m&uring;j</trd>
+  </trdgrp>
+  <trd lng="de">mein</trd>
+  <trd lng="en">my</trd>
+  <trdgrp lng="fi">
+     <trd>minun ... -ni</trd>,
+     <trd>-<ind>ni</ind></trd>
+   </trdgrp>
+  <trdgrp lng="id">
+     <trd><ind>milik</ind>ku</trd>,
+     <trd><ind>milik</ind> saya</trd>
+   </trdgrp>
+  <trd lng="la">meus</trd>
+  <trd lng="pl">m&oacute;j</trd>
+  <trdgrp lng="ru">
+     <trd>&c_m;&c_o;&c_j;</trd>,
+     <trd>&c_m;&c_o;&c_ja;</trd>
+     <trd>&c_m;&c_o;&c_jo;</trd>
+     <trd>&c_m;&c_o;&c_i;</trd>
+   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>moje</trd>,
+    <trd>m&ocirc;j</trd>
+  </trdgrp>
+  <trd lng="tp">mi</trd>
+  <trdgrp lng="zh">
+    <trd>&#25105; [<ind>w&#466;</ind>] <klr tip="ind">(adj.)</klr></trd>
+    <trd>&#25105;&#30340; [<ind>w&#466; de</ind>]</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: mi.xml,v $
+Revision 1.32  2015/07/04 13:10:15  revo
+Darcy Shen: + trd zh
+
+Revision 1.31  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.30  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.29  2014/06/07 15:10:16  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.28  2012/11/09 06:10:14  revo
+Valentin Safonnikov: +trd ru
+
+Revision 1.27  2012/08/19 20:10:39  revo
+Marc Rausell: ++ trd ca
+
+Revision 1.26  2009/08/27 16:32:27  revo
+Emmanuel Debanne: +trd ku
+
+Revision 1.25  2008/02/09 17:31:35  revo
+-->
+</vortaro>

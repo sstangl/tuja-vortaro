@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: kluz.xml,v 1.20 2015/07/04 08:37:37 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>kluz</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="kluz.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="kluz.0o.MAR">
+    <uzo tip="fak">MAR</uzo>
+    <dif>
+      Baseno, fermebla per pordosimilaj akvobariloj, uzata por
+      levi a&ubreve; mallevi &scirc;ipojn inter du partoj de rivero a&ubreve; kanalo,
+      en kiuj la akvo ne estas samnivela.
+    </dif>                        
+    <trd lng="br">skluz</trd>
+    <trd lng="ca">resclosa</trd>
+    <trd lng="de">Schleuse</trd>
+    <trd lng="en">lock</trd>
+    <trd lng="es">esclusa</trd>
+    <trd lng="fr">&eacute;cluse</trd>
+    <trd lng="nl">sluis</trd>
+  </snc>
+  <snc mrk="kluz.0o.KOMP">
+    <uzo tip="fak">KOMP</uzo>
+    <fnt><lok><url
+    ref="&KompLeks;/K.html#KLUZO">KompLeks</url></lok></fnt>
+    <dif>
+      Interfaco destinita por konekti du komputilajn retojn.
+    </dif>
+    <rim>
+      Kontraste al simpla <ref cel="kurs.en0igilo">enkursigilo</ref>,
+      <tld/>o povas konekti diversnivelajn (a&ubreve; pli &gcirc;enerale,
+      malsamprotokolajn) retojn &dash; &gcirc;uste tion aludas la
+      metafora termino.
+    </rim>
+    <trd lng="de">Gateway</trd>
+    <trdgrp lng="en">
+      <trd>gateway</trd>,
+      <trd>protocol converter</trd>
+    </trdgrp>
+    <trd lng="es">pasarela<klr tip="ind"> (inform&agrave;tica)</klr></trd>
+    <trd lng="fr">passerelle<klr tip="ind"> (informatique)</klr></trd>
+    <trd lng="nl">gateway</trd>
+    <trd lng="pl">bramka</trd>
+  </snc>
+  <trd lng="be">&c_sh;&c_l;&c_ju;&c_z;</trd>
+  <trdgrp lng="cs">
+    <trd>komunikační kanál</trd>,
+    <trd>uzel</trd>
+  </trdgrp>
+  <trd lng="ru">&c_sh;&c_l;&c_ju;&c_z;</trd>
+  <trd lng="sk">komunikačný kanál</trd>
+</drv>
+
+<drv mrk="kluz.aer0o">
+  <kap>aer<tld/>o</kap>
+  <snc mrk="kluz.aer0o.AVI">
+    <uzo tip="fak">AVI</uzo>
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      Amba&ubreve;flanke fermebla kamero a&ubreve; tubo
+      inter du lokoj de malsamaj
+      premoj, varmecoj a&ubreve; aliaj atmosferaj kondi&ccirc;oj,
+      uzata por pasi de unu al la alia:
+      <ekz>
+        por anta&ubreve;zorgo, li havis du aliajn &scirc;ipanojn,
+        jam en kompletoj, atendantajn en la aer<tld/>o
+        <fnt>
+          <aut>A. C. Clarke, [trad. D. Coffin]</aut>,
+          <vrk><url
+          ref="http://www.cybercom.net/~dcoffin/esperanto/rama05.html">
+          Rendevuo kun Rama</url></vrk>,
+          <lok>[2001]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="en">airlock</trd>
+  <trd lng="fr">sas</trd>
+</drv>
+</art>
+<!--
+$Log: kluz.xml,v $
+Revision 1.20  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2012/03/07 12:10:11  revo
+Jeromo Vasxe: + aer~o
+
+Revision 1.17  2007/08/05 16:31:23  revo
+Wieland Pusch: +trd de
+
+Revision 1.16  2005/04/24 16:31:42  revo
+Alan ar Gall: +trd br
+
+Revision 1.15  2005/04/18 16:33:49  revo
+Raul Salinas Monteagudo: +trd ca,es
+
+Revision 1.14  2004/12/19 18:56:49  revo
+Marc Bavant: mod trd fr
+
+Revision 1.13  2004/02/09 17:32:58  revo
+Jeromo Vasxe: + mrk
+
+Revision 1.12 2003/09/19 16:31:44 revo
+Philippe Combot: + trd fr 1
+
+Revision 1.11 2003/04/06 16:32:05 revo
+-->
+</vortaro>

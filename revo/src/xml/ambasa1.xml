@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: ambasa1.xml,v 1.19 2015/07/04 08:37:30 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>ambasador</rad>/o
+</kap>
+<drv mrk="ambasa1.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">POL</uzo>
+  <snc>
+    <dif>
+      Oficiala, plej alta reprezentanto, konstanta a&ubreve; ne, de iu regno
+      &ccirc;e alia regno:
+      <ekz>
+        la franca ministro &ccirc;eestis kaj alparolis fremdajn
+        <tld/>ojn<fnt><aut>Stefan Maul</aut>: <vrk>Lingvopakto</vrk>,
+        <bib>Monato</bib><lok>jaro 2000a, numero 12a, p. 7a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_m;&c_b;&c_a;&c_s;&c_a;&c_d;&c_a;&c_r;</trd>,
+    <trd>&c_p;&c_a;&c_s;&c_o;&c_l;</trd>
+  </trdgrp>
+  <trd lng="ca">ambaixador</trd>
+  <trdgrp lng="cs">
+    <trd>ambasador</trd>,
+    <trd>velvyslanec</trd>
+  </trdgrp>
+  <trd lng="de">Botschafter</trd>
+  <trd lng="el">&pi;&rho;&epsilon_ton;&sigma;&beta;&eta;&sigma_fina;</trd>
+  <trd lng="en">ambassador</trd>
+  <trd lng="es">embajador</trd>
+  <trd lng="fr">ambassadeur</trd>
+  <trd lng="nl">ambassadeur</trd>
+  <trd lng="ru">&c_p;&c_o;&c_s;&c_o;&c_l;</trd>
+  <trd lng="sk">ve&lcaron;vyslanec</trd>
+  <trd lng="tr">b&uuml;y&uuml;kel&ccedil;i</trd>
+</drv>
+
+<drv mrk="ambasa1.0ejo">
+  <kap><tld/>ejo</kap>
+  <snc>
+    <dif>
+      Administrejo de <tld/>o kaj ties kunlaborantaro:
+      <ekz>
+        la <tld/>ejoj posedas diplomatian
+        eksterlandecon (eksterteritoriecon);
+      </ekz>
+      <ekz>
+        por eviti pliajn atencojn en aliaj landoj Usono decidis pli
+        protekti siajn <tld/>ejojn<fnt><aut>Walter Klag</aut>:
+        <vrk>Bariloj kontra&ubreve; bomboj</vrk>, <bib>Monato</bib><lok>jaro
+        1999a, numero 3a, p. 7a</lok></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="ambasa.0ejo">ambasadejo</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_m;&c_b;&c_a;&c_s;&c_a;&c_d;&c_a;</trd>,
+    <trd>&c_p;&c_a;&c_s;&c_o;&c_l;&c_mol;&c_s;&c_t;&c_v;&c_a;</trd>
+  </trdgrp>
+  <trd lng="ca">ambaixada</trd>
+  <trdgrp lng="cs">
+    <trd>rezidence velvyslance</trd>,
+    <trd>velvyslanectví</trd>
+  </trdgrp>
+  <trd lng="de">Botschaft</trd>
+  <trd lng="el">&pi;&rho;&epsilon;&sigma;&beta;&epsilon;&jota_ton;&alfa;</trd>
+  <trd lng="en">embassy</trd>
+  <trd lng="es">embajada</trd>
+  <trd lng="fr">ambassade<klr> (lieu)</klr></trd>
+  <trd lng="nl">ambassade</trd>
+  <trd lng="ru">&c_p;&c_o;&c_s;&c_o;&c_l;&c_mol;&c_s;&c_t;&c_v;&c_o;</trd>
+  <trd lng="sk">ve&lcaron;vyslanectvo</trd>
+</drv>
+</art>
+<!--
+$Log: ambasa1.xml,v $
+Revision 1.19  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2012/03/01 10:10:13  revo
+Glavkos Xaon: greka defino de la vorto
+
+Revision 1.17  2011/12/10 21:10:36  revo
+Marc Rausell: +trd ca
+
+Revision 1.16  2003/11/09 17:31:03  revo
+Dmitri Gabinski: kor de trd be
+
+Revision 1.15  2003/11/01 17:31:47  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.14  2002/10/16 16:32:01  revo
+Jeromo Vasxe: ~o + fak pol, ~ejo fandis 2 snc + sin ambasadejo, + ekz
+
+Revision 1.13 2002/10/01 16:37:11 revo
+Christopher Zervic: + ang
+
+Revision 1.12 2002/09/07 17:40:09 revo
+Viliam Bur: +sk trd
+
+Revision 1.11 2002/05/09 18:43:57 revo
+-->
+</vortaro>

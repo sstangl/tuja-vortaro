@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: vesper1.xml,v 1.21 2015/07/04 08:37:45 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>vespert</rad>/oj
+</kap>
+
+<drv mrk="vesper1.0o">
+  <kap><tld/>o</kap>
+  <snc>
+    <dif>
+      Iu el <ref tip="malprt" cel="vesper1.0oj"><tld/>oj</ref>.
+    </dif>
+  </snc>
+  <trd lng="cs">netopýr</trd>
+  <trdgrp lng="es">
+    <trd>murci&eacute;lago</trd>,
+    <trd>quir&oacute;ptero</trd>
+  </trdgrp>
+  <trd lng="fr">chauve-souris</trd>
+  <trd lng="id">kelelawar</trd>
+  <trd lng="sk">netopier</trd>
+</drv>
+
+<drv mrk="vesper1.0oj">
+  <kap><ofc>*</ofc><tld/>oj</kap>
+  <snc>
+  <uzo tip="fak">ZOO</uzo>
+    <dif>
+      Ordo el la klaso <ref tip="malprt" cel="mam.0uloj">mamuloj</ref>
+      (<trd lng="la">Chiroptera</trd>), povantaj flugi:
+      <ekz>
+        sub la plafono flugis vespertoj
+        <fnt><bib>Fab1</bib>, <lok>Galo&scirc;oj de feli&ccirc;o</lok></fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;iumomente traflugis super li noktaj birdoj
+        kaj grandaj vespertoj
+        <fnt><bib>Far1</bib>, <lok>&ccirc;ap. 20</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_r;&c_u;&c_k;&c_a;&c_k;&c_r;&c_y;&c_l;&c_y;&c_ja; <klr tip="amb">(&c_a;&c_t;&c_r;&c_a;&c_d;)</klr></trd>
+  <trdgrp lng="ca">
+    <trd>ratpenat</trd>,
+    <trd>ratapinyada</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Flattertiere</trd>,
+    <trd>Flederm&auml;use</trd>
+  </trdgrp>
+  <trd lng="en">bats</trd>
+  <trd lng="es">murci&eacute;lagos<klr tip="amb"> (Orden de los
+  quir&oacute;pteros)</klr></trd>
+  <trd lng="fr">chiropt&egrave;res</trd>
+  <trd lng="hu">denev&eacute;rek<klr tip="ind"> (rend)</klr></trd>
+  <trd lng="nl">vleermuizen<klr tip="ind"> (orde)</klr></trd>
+  <trdgrp lng="ru">
+    <trd>&c_l;&c_je;&c_t;&c_u;&c_ch;&c_i;&c_je; &c_m;&c_y;&c_sh;&c_i;<klr tip="ind"> (&c_o;&c_t;&c_r;&c_ja;&c_d;)</klr></trd>,
+    <trd>&c_r;&c_u;&c_k;&c_o;&c_k;&c_r;&c_y;&c_l;&c_y;&c_je; <klr tip="amb">(&c_o;&c_t;&c_r;&c_ja;&c_d;)</klr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: vesper1.xml,v $
+Revision 1.21  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/28 12:03:50  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.19  2014/12/21 19:10:21  revo
+Damien Brucker: +trd fr
+
+Revision 1.18  2014/06/30 15:10:29  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.17  2014/02/15 12:10:11  revo
+Carlos Garcia: +trd es -o
+
+Revision 1.16  2013/10/22 18:10:19  revo
+Wolfram Diestel: +~o
+
+Revision 1.15  2013/10/19 15:10:16  revo
+Wolfram Diestel: kor. ref-tip
+
+Revision 1.14  2012/07/31 17:10:13  revo
+Marc Rausell: + trd ca
+
+Revision 1.13  2010/10/07 16:30:26  revo
+Agustin Garcia Lopez: +trd es
+
+Revision 1.12  2004/07/29 16:31:32  revo
+-->
+</vortaro>

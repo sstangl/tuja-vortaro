@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: oktav.xml,v 1.19 2015/07/04 08:37:40 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>oktav</rad>/o
+</kap>
+<drv mrk="oktav.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="oktav.0o.MUZ">
+    <uzo tip="fak">MUZ</uzo>
+    <ref tip="dif" cel="okt.0o">okto</ref>
+    <trd lng="be">&c_a;&c_k;&c_t;&c_a;&c_v;&c_a;</trd>
+    <trd lng="de">Oktave</trd>
+    <trd lng="el">&omikron;&kappa;&tau;&alfa_ton;&beta;&alfa;</trd>
+    <trd lng="en">octave</trd>
+    <trd lng="fa">&a_A;&f_k;&a_t;&a_A;&a_w;</trd>
+    <trdgrp lng="fr">
+      <trd>octave<klr> (intervalle musical)</klr></trd>
+    </trdgrp>
+    <trd lng="hu">okt&aacute;v</trd>
+    <trd lng="nl">octaaf</trd>
+    <trd lng="pt">oitava</trd>
+    <trd lng="ru">&c_o;&c_k;&c_t;&c_a;&c_v;&c_a;</trd>
+  </snc>
+  <snc mrk="oktav.0o.TIP">
+    <uzo tip="fak">TIP</uzo>
+    <dif>
+      Libro en kiu &ccirc;iu paperfolio estas trioble faldita kaj formas 16
+      pa&gcirc;ojn:
+      <ekz>
+        la libro gajnus per tio kelkajn <tld/>ajn
+        pa&gcirc;ojn...<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">Oktavheft</trd>
+    <trd lng="en">octavo</trd>
+    <trdgrp lng="fa">
+      <trd>&a_q;&a_T;&a_ayn; &a_n;&f_y;&a_m;&zwnj;&a_w;&a_z;&f_y;&a_r;&f_y;</trd>,
+      <trd>&a_q;&a_T;&a_ayn; &a_h;&a_sh;&a_t;&zwnj;&a_b;&a_r;&f_g;&f_y;</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>in-octavo</trd>
+    </trdgrp>
+    <trd lng="hu">nyolcadr&eacute;t</trd>
+    <trd lng="nl">octavo</trd>
+    <trd lng="ru">&c_i;&c_n;-&c_o;&c_k;&c_t;&c_a;&c_v;&c_o;</trd>
+  </snc>
+  <trd lng="cs">oktáva <klr>(hud. interval)</klr></trd>
+  <trd lng="sk">oktáva</trd>
+</drv>
+</art>
+<!--
+$Log: oktav.xml,v $
+Revision 1.19  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:33:21  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2011/10/01 20:10:19  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.16  2009/10/15 16:32:38  revo
+Paul Peeraerts: +nl
+
+Revision 1.15  2009/08/08 16:34:49  revo
+Russ Williams: +trd en
+
+Revision 1.14  2003/07/29 16:30:41  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.13  2003/06/18 16:30:49  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.12  2002/06/01 05:59:34  revo
+Eduardo M. Kalinowski: ald trd el, pt
+
+Revision 1.11  2002/05/23 20:31:04  revo
+Jeromo Vasxe: + fak tip, +mrk-oj, + trd fr
+
+Revision 1.10 2001/12/04 17:32:02 revo
+-->
+</vortaro>

@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: primar.xml,v 1.16 2015/07/04 08:37:42 revo Exp $">
+<kap>
+   <rad>primar</rad>/a <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="primar.0a.KOMUNE">
+   <kap><tld/>a</kap>
+   <snc mrk="primar.0a.SCI">
+     <uzo tip="fak">SCI</uzo>
+     <dif>
+       Unuaranga, unuagrada.
+     </dif>
+     <trdgrp lng="hu">
+       <trd>primer</trd>,
+       <trd>els&odblac;dleges</trd>,
+       <trd>f&odblac;</trd>
+     </trdgrp>
+     <trdgrp lng="pl">
+       <trd>pierwszego stopnia</trd>,
+       <trd>pierwszego rz&eogonek;du</trd>
+     </trdgrp>  
+     <subsnc mrk="primar.0a.GEOL">
+       <uzo tip="fak">GEOL</uzo>
+       <uzo tip="klr">(pri epoko)</uzo>
+       <dif>
+         Apartenanta al la unua epoko.
+       </dif>
+       <trd lng="hu">&odblac;si</trd>     
+       <trdgrp lng="pl">
+         <trd>pierwszorz&eogonek;dowy</trd>,
+         <trd>peleozoiczny</trd>
+       </trdgrp>  
+     </subsnc>
+     <subsnc mrk="primar.0a.EKON">
+       <uzo tip="fak">EKON</uzo>
+       <dif>
+         Kiu produktas kruda&jcirc;ojn:
+         <ekz>
+           la agrikultura sektoro estas la <tld/>a
+           produktiva sektoro kun la kerna alvoki&gcirc;o
+           kultivi kaj protekti naturajn rimedojn
+           por nutri la homaron
+           <fnt>
+             <aut>Francisko</aut>,
+             <vrk><url
+             ref="http://www.ikue.org/papoj/francisko/2014/paco2014.pdf">
+             Mesa&gcirc;o por la celebro de la 47-a monda tago de la
+             paco</url></vrk>,
+             <lok>2014-01-01</lok>
+           </fnt>.
+         </ekz>
+       </dif>
+     </subsnc>
+     <refgrp tip="vid">
+       <ref cel="sekund2.0a.KOMUNE">sekundara</ref>,
+       <ref cel="tercia.0a.KOMUNE">terciara</ref>,
+       <ref cel="kvater.0a.KOMUNE">kvaternara</ref>
+     </refgrp>
+   </snc>
+  <trd lng="be">&c_p;&c_je;&c_r;&c_sh;&c_a;&c_s;&c_n;&c_y;</trd>
+  <trdgrp lng="cs">
+    <trd>primární</trd>,
+    <trd>prvotní</trd>,
+    <trd>prvotřídní</trd>
+  </trdgrp>
+  <trd lng="de">prim&auml;r</trd>
+  <trd lng="fr">primaire<klr tip="ind"> (degr&eacute;, &egrave;re)</klr></trd>
+  <trd lng="nl">primair</trd>
+  <trd lng="pt">prim&aacute;rio</trd>
+  <trd lng="ru">&c_p;&c_je;&c_r;&c_v;&c_i;&c_ch;&c_n;&c_y;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>primárny</trd>,
+    <trd>prvohorný</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: primar.xml,v $
+Revision 1.16  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.14  2014/12/29 09:10:35  revo
+Damien Brucker: +mrk cxe drv
+
+Revision 1.13  2014/12/18 23:10:28  revo
+Jeromo Vasxe: snc /subsnc
+
+Revision 1.12  2008/06/08 16:30:27  revo
+Jeromo Vasxe: - fak min + geol
+
+Revision 1.11  2007/11/19 17:31:16  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.10  2006/03/20 17:32:40  revo
+Tulio Flores: +tr pt
+
+Revision 1.9  2004/08/25 16:31:28  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.8  2004/02/29 17:32:34  revo
+Emmanuel Debanne: + trd fr
+
+Revision 1.7  2003/07/19 16:31:38  revo
+-->
+</vortaro>

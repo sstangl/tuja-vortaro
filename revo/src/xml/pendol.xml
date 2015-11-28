@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: pendol.xml,v 1.15 2015/07/04 08:37:41 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>pendol</rad>/o
+</kap>
+
+<drv mrk="pendol.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc>
+    <dif>
+      Peza&jcirc;o pendanta de fiksa punkto kaj balanci&gcirc;anta
+la&ubreve; egalaj temperoj:
+      <ekz>
+        la <tld/>o de la horlo&gcirc;o iradis tien kaj reen<fnt>Z</fnt>..
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_m;&c_a;&c_ja;&c_t;&c_n;&c_ib;&c_k;</trd>
+  <trd lng="bg">&c_m;&c_a;&c_h;&c_a;&c_l;&c_o;</trd>
+  <trd lng="br">momeder</trd>
+  <trdgrp lng="cs">
+    <trd>kyvadlo hodin</trd>,
+    <trd>perpendikl</trd>,
+    <trd>perpentikl</trd>,
+    <trd>perpentykl</trd>
+  </trdgrp>
+  <trd lng="de">Pendel</trd>
+  <trd lng="en">pendulum</trd>
+  <trdgrp lng="fr">
+    <trd>balancier</trd>,
+    <trd>pendule<klr tip="ind"> (masc.)</klr></trd>
+  </trdgrp>
+  <trd lng="hu">inga</trd>
+  <trdgrp lng="nl">
+    <trd>slinger</trd>,
+    <trd>pendel</trd>
+  </trdgrp>
+  <trd lng="pt">p&ecirc;ndulo</trd>
+  <trd lng="ru">&c_m;&c_a;&c_ja;&c_t;&c_n;&c_i;&c_k;</trd>
+  <trd lng="sk">závesná húpačka</trd>
+  <trd lng="sv">pendel</trd>
+</drv>
+
+<drv mrk="pendol.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc>
+    <dif>
+      Balanci&gcirc;i kiel <tld/>o.
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="sving">svingi&gcirc;i</ref>.
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_g;&c_a;&c_j;&c_d;&c_a;&c_c;&c_c;&c_a; <klr
+tip="ind">(&c_n;&c_ib;&c_b;&c_y;
+&c_m;&c_a;&c_ja;&c_t;&c_n;&c_ib;&c_k;)</klr></trd>,
+    <trd>&c_h;&c_ib;&c_s;&c_t;&c_a;&c_c;&c_c;&c_a; <klr
+tip="amb">(&c_n;&c_ib;&c_b;&c_y;
+&c_m;&c_a;&c_ja;&c_t;&c_n;&c_ib;&c_k;)</klr></trd>
+  </trdgrp>
+  <trd lng="bg">&c_k;&c_l;&c_a;&c_t;&c_ja; &c_s;&c_je;</trd>
+  <trdgrp lng="cs">
+    <trd>houpat se</trd>,
+    <trd>kývat se</trd>
+  </trdgrp>
+  <trd lng="de">pendeln</trd>
+  <trd lng="en">swing</trd>
+  <trdgrp lng="hu">
+    <trd>ing&aacute;zik</trd>,
+    <trd>ing</trd>,
+    <trd>leng</trd>,
+    <trd>kileng</trd>
+  </trdgrp>
+  <trd lng="nl">slingeren</trd>
+  <trdgrp lng="ru">
+    <trd>&c_k;&c_a;&c_ch;&c_a;&c_t;&c_mol;&c_s;&c_ja;<klr tip="ind">
+(&c_k;&c_a;&c_k; &c_m;&c_a;&c_ja;&c_t;&c_n;&c_i;&c_k;)</klr></trd>,
+    <trd>&c_k;&c_o;&c_l;&c_je;&c_b;&c_a;&c_t;&c_mol;&c_s;&c_ja; <klr
+tip="amb">(&c_k;&c_a;&c_k;
+&c_m;&c_a;&c_ja;&c_t;&c_n;&c_i;&c_k;)</klr></trd>
+  </trdgrp>
+  <trd lng="sk">kývať sa <klr>(ako kyvadlo)</klr></trd>
+</drv>
+</art>
+<!--
+$Log: pendol.xml,v $
+Revision 1.15  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:40:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.13  2008/02/22 17:30:16  revo
+Wieland Pusch: +trd de+bg
+
+Revision 1.12  2008/02/16 17:30:13  revo
+Russ Williams: +trd en
+
+Revision 1.11  2006/02/27 17:33:41  revo
+Tulio Flores: +tr pt
+
+Revision 1.10  2005/07/02 16:33:17  revo
+Alan ar Gall: +trd br fr
+
+Revision 1.9  2004/08/26 16:32:20  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.8  2004/08/04 16:31:52  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.7  2001/12/13 17:33:53  revo
+Yury Finkel: +trd ru
+
+Revision 1.6 2001/08/20 20:32:52 revo
+-->
+</vortaro>

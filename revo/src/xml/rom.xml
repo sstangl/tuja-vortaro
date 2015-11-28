@@ -1,0 +1,135 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: rom.xml,v 1.15 2015/07/04 08:37:42 revo Exp $">
+<kap><rad>Rom</rad>/o</kap>
+<drv mrk="rom.0o">
+  <kap><tld/>o</kap>
+  <snc>
+    <uzo tip="fak">GEOG</uzo>
+    <uzo tip="fak">HIS</uzo>
+    <dif>
+      La plej granda urbo kaj <ref tip="lst" cel="urb.cxef0o" 
+      lst="voko:&ccirc;efurboj">&ccirc;efurbo</ref>
+      de <ref tip="malprt" cel="ital.I0ujo">Italujo</ref>; antikve,
+      anka&ubreve; de <ref tip="malprt" cel="romi.0o">Romio</ref>.
+    </dif>
+  </snc>
+  <trd lng="be">&c_R;&c_y;&c_m;</trd>
+  <trd lng="ca">Roma</trd>
+  <trd lng="cs">Řím</trd>
+  <trd lng="de">Rom</trd>
+  <trd lng="el">&Rho;&omega_ton;&my;&eta;</trd>
+  <trd lng="en">Rome</trd>
+  <trd lng="es">Roma</trd>
+  <trd lng="fr">Rome</trd>
+  <trd lng="hu">R&oacute;ma</trd>
+  <trd lng="nl">Rome</trd>
+  <trd lng="pl">Rzym</trd>
+  <trd lng="pt">Roma <klr>(capital da It&aacute;lia)</klr></trd>
+  <trd lng="ru">&c_R;&c_i;&c_m;</trd>
+  <trd lng="sk">Rím</trd>
+  <trd lng="vo">Rom</trd>
+</drv>
+
+<drv mrk="rom.0a">
+  <kap><tld lit="r"/>a</kap>
+  <snc>
+    <dif>
+      Rilata al <tld/>o:
+      <ekz>
+        la <tld lit="r"/>a senato, imperiestro
+        <klr>(kontraste al la konstantinopolaj)</klr>;
+      </ekz>
+      <ekz>
+        la <tld lit="r"/>a episkopo <klr>(la papo de <tld/>o)</klr>;
+      </ekz>
+      <ekz>
+        la <tld/>a eklezio <klr>(kontraste al la Orienta
+        kristanismo)</klr>;
+      </ekz>
+      <ekz>
+        la <ind><tld lit="r"/>aj ciferoj</ind> I, V, X, L, C, M
+        <klr>(la ciferoj kiujn uzis la antikvaj <tld lit="r"/>anoj,
+        dum aliaj romianoj, ekz-e la grekoj kaj judoj,
+        havis aliajn)</klr>.
+        <trd lng="be">&c_r;&c_y;&c_m;&c_s;&c_k;&c_ib;&c_ja;
+<ind>&c_l;&c_ib;&c_ch;&c_b;&c_y;</ind></trd>
+        <trd lng="de">r&ouml;mische <ind>Zahlen</ind></trd>
+        <trd lng="fr">chiffres romains</trd>
+        <trd lng="hu">r&oacute;mai <ind>sz&aacute;mok</ind></trd>
+        <trd lng="nl">Romeinse <ind>cijfers</ind></trd>
+        <trd lng="ru">&c_r;&c_i;&c_m;&c_s;&c_k;&c_i;&c_je;
+&c_c;&c_i;&c_f;&c_r;&c_y;</trd>
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_r;&c_y;&c_m;&c_s;&c_k;&c_ib;</trd>
+  <trd lng="ca">rom&agrave;</trd>
+  <ref tip="hom" cel="roman.0o">roman&middot;o</ref>
+  <trd lng="de">r&ouml;misch</trd>
+  <trd lng="en">Roman</trd>
+  <trd lng="es">romano</trd>
+  <trd lng="fr">romain</trd>
+  <trd lng="nl">Romeins</trd>
+  <trd lng="pl">rzymski</trd>
+  <trd lng="ru">&c_r;&c_i;&c_m;&c_s;&c_k;&c_i;&c_j;</trd>
+</drv>
+
+<drv mrk="rom.0ano">
+  <kap><tld lit="r"/>ano</kap>
+  <snc>
+    <dif>
+      Lo&gcirc;anto de <tld/>o:
+      <ekz>
+        epistolo al la <tld lit="r"/>anoj <fnt><bib>NT</bib>,
+        <lok>&Rom;</lok></fnt>
+      </ekz>
+    </dif>
+  </snc>
+  <ref tip="hom" cel="roman.0o">roman&middot;o</ref>
+  <trd lng="ca">rom&agrave;</trd>
+  <trd lng="be">&c_r;&c_y;&c_m;&c_l;&c_ja;&c_n;&c_ib;&c_n;</trd>
+  <trd lng="de">R&ouml;mer</trd>
+  <trd lng="en">Roman</trd>
+  <trd lng="es">romano</trd>
+  <trd lng="fr">romain</trd>
+  <trd lng="hu">r&oacute;mai (lakos)</trd>
+  <trd lng="nl">Romein</trd>
+  <trd lng="pl">Rzymianin</trd>
+  <trd lng="ru">&c_r;&c_i;&c_m;&c_l;&c_ja;&c_n;&c_i;&c_n;</trd>
+</drv>
+</art>
+<!--
+$Log: rom.xml,v $
+Revision 1.15  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.13  2013/09/23 19:10:39  revo
+Wolfram Diestel: ref al listo urboj
+
+Revision 1.12  2006/09/18 16:30:40  revo
+Russ Williams: +trd en pl
+
+Revision 1.11  2006/02/24 17:32:30  revo
+Tulio Flores: +trd pt
+
+Revision 1.10  2006/01/09 17:33:25  revo
+Raul Salinas Monteagudo: +trd ca,es
+
+Revision 1.9  2003/08/17 17:33:52  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.8  2003/04/28 16:31:32  revo
+Paul Peeraerts: ald trd nl + belarangho
+
+Revision 1.7 2003/03/27 17:31:13 revo
+Axel Rousseau: +trd fr
+
+Revision 1.6 2003/03/06 17:11:47 revo
+-->
+</vortaro>

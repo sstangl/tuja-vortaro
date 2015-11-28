@@ -1,0 +1,131 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: porcel.xml,v 1.20 2015/07/04 08:37:41 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>porcelan</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="porcel.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="porcel.0o.CER">
+    <dif>
+      <ref tip="vid" cel="cerami.0o">Ceramika</ref> substanco delikata,
+      diafaneta, bakita el kaolino:
+      <ekz>
+        statuetoj, teleroj el <tld/>o.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="porcel.0o.porcelanajxo">
+    <ref tip="dif" cel="porcel.0ajxo"><tld/>a&jcirc;o</ref>
+    <ekz>
+      &ccirc;inaj <tld/>oj.
+    </ekz>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_a;&c_r;&c_c;&c_a;&c_l;&c_ja;&c_n;&c_a;</trd>,
+    <trd>&c_f;&c_a;&c_r;&c_f;&c_o;&c_r;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>porcelán</trd>,
+    <trd>porculán</trd>
+  </trdgrp>
+  <trd lng="de">Porzellan</trd>
+  <trd lng="en">porcelain</trd>
+  <trd lng="fr">porcelaine<klr> (mat&eacute;riau)</klr></trd>
+  <trd lng="hu">porcel&aacute;n</trd>
+  <trd lng="nl">porselein</trd>
+  <trd lng="pl">porcelana</trd>
+  <trd lng="pt">porcelana</trd>
+  <trd lng="ru">&c_f;&c_a;&c_r;&c_f;&c_o;&c_r;</trd>
+  <trd lng="sk">porcelán</trd>
+  <trd lng="sv">porslin</trd>
+</drv>
+
+<drv mrk="porcel.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="porcel.0a.CER">
+    <dif>
+      El <tld/>o:
+      <ekz>
+        panjo vizitis nin alportante al mi belan pupon
+        kun kapo <tld/>a
+        <fnt>
+          <aut>A. LeQuint</aut>,
+          <vrk>Infantraviva&jcirc;oj</vrk>,
+          <lok>2006</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_a;&c_r;&c_c;&c_a;&c_l;&c_ja;&c_n;&c_a;&c_v;&c_y;</trd>,
+    <trd>&c_f;&c_a;&c_r;&c_f;&c_o;&c_r;&c_n;&c_y;</trd>,
+    <trd>&c_f;&c_a;&c_r;&c_f;&c_o;&c_r;&c_a;&c_v;&c_y;</trd>
+  </trdgrp>
+  <trd lng="en">porcelain</trd>
+  <trd lng="fr">en <ind>porcelaine</ind></trd>
+  <trd lng="nl">porceleinen</trd>
+  <trd lng="pl">porcelanowy</trd>
+  <trd lng="ru">&c_f;&c_a;&c_r;&c_f;&c_o;&c_r;&c_o;&c_v;&c_y;&c_j;</trd>
+</drv>
+
+<drv mrk="porcel.0ajxo">
+  <kap><tld/>a&jcirc;o</kap>
+  <snc>
+    <dif>
+      Objekto el <tld/>o:
+      <ekz>
+        <tld/>a&jcirc;o, farita el kaolino post bakado en medio de pli ol 1
+        200&deg;C, estas kompakta, nesorba kaj metale sonanta je
+        frapado
+        <fnt>
+          <bib>EncCxi</bib>,
+          <lok>&ccirc;ap. &leftquot;Porcelana&jcirc;oj&rightquot;, p. 212a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_r;&c_c;&c_a;&c_l;&c_ja;&c_n;&c_a;
+    <klr>(&c_v;&c_y;&c_r;&c_a;&c_b;)</klr></trd>
+  <trd lng="en">porcelain</trd>
+  <trd lng="fr">porcelaine<klr> (objet)</klr></trd>
+  <trd lng="nl">voorwerp uit <ind>porcelein</ind></trd>
+  <trd lng="ru">&c_i;&c_z;&c_d;&c_je;&c_l;&c_i;&c_je; &c_i;&c_z;
+<ind>&c_f;&c_a;&c_r;&c_f;&c_o;&c_r;&c_a;</ind></trd>
+</drv>
+</art>
+<!--
+$Log: porcel.xml,v $
+Revision 1.20  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2009/11/22 17:30:22  revo
+Jeromo Vasxe: + 1 ekz
+
+Revision 1.17  2009/10/25 17:31:57  revo
+Paul Peeraerts: +nl
+
+Revision 1.16  2008/08/23 16:31:15  revo
+Russ Williams: trd +en
+
+Revision 1.15  2006/03/11 17:32:00  revo
+Tulio Flores: +tr pt
+
+Revision 1.14  2003/09/03 16:30:51  revo
+Yury Finkel: +trd ru
+
+Revision 1.13  2003/07/17 16:38:04  revo
+Dmitri Gabinski: +trd pl
+
+Revision 1.12  2003/03/31 16:31:41  revo
+Zmicier Lapcionak: + trd be
+
+Revision 1.11  2002/10/02 07:34:13  revo
+-->
+</vortaro>

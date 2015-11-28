@@ -1,0 +1,159 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: specim.xml,v 1.17 2015/07/04 08:37:43 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>specimen</rad>/o
+</kap>
+<drv mrk="specim.0o">
+  <kap><tld/>o</kap>
+  <snc>
+    <dif>
+      Prov-ekzemplero a&ubreve; -ekzempleroj, eta kvanto da venda&jcirc;oj
+      a&ubreve; koninda&jcirc;oj montrataj por veki scivolon, informi,
+      reklami, ebligi takson, studon:
+      <ekz>
+        li forportis la sango<tld/>on<fnt><aut>David Curtis</aut>:
+        <vrk>Koratako</vrk>, <bib>Monato</bib><lok>jaro 2002a, numero
+        1a,
+        p. 28a</lok></fnt>.
+      </ekz>
+      <ekz>
+        Tiaj kolektoj pruvas kiel la kolektantoj de naturaj <tld/>oj
+        stimulis la botanikon, kiu dum la renesanco apartigis sin de la
+        medicino<fnt><aut>Johan Van Eenoo</aut>: <vrk>La bru&gcirc;a
+        Centuriae
+        plantarum rariorum retrovita en Krakovo</vrk>,
+        <bib>Monato</bib><lok>jaro 1998a, numero 1a, p. 16a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <refgrp tip="vid">
+    <ref cel="ekzemp.0o">ekzemplo</ref>,
+    <ref cel="ekzemp1.0o">ekzemplero</ref>,
+    <ref cel="tip.0o">tipo</ref>
+  </refgrp>
+  <trdgrp lng="be">
+    <trd>&c_u;&c_z;&c_o;&c_r;</trd>,
+    <trd>&c_r;&c_e;&c_k;&c_l;&c_ja;&c_m;&c_n;&c_y; &c_e;&c_k;&c_z;&c_e;&c_m;&c_p;&c_l;&c_ja;&c_r;</trd>
+  </trdgrp>
+  <trd lng="ca">esp&egrave;cimen</trd>
+  <trdgrp lng="de">
+    <trd>Muster</trd>,
+    <trd>Probe</trd>,
+    <trd>Probest&uuml;ck</trd>
+  </trdgrp>
+  <trd lng="en">specimen</trd>
+  <trdgrp lng="fr">
+    <trd>&eacute;chantillon<klr> (sp&eacute;cimen)</klr></trd>,
+    <trd>sp&eacute;cimen</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>minta</trd>,
+    <trd>&aacute;ruminta</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>specimen</trd>,
+    <trd>monster</trd>,
+    <trd>staal</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>pr&oacute;bka</trd>,
+    <trd>okaz</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_o;&c_b;&c_r;&c_a;&c_z;&c_je;&c_c;</trd>,
+    <trd>&c_o;&c_b;&c_r;&c_a;&c_z;&c_ch;&c_i;&c_k;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>model</trd>,
+    <trd>predloha</trd>,
+    <trd>vzor</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>specimen</trd>,
+    <trd>ukázka</trd>,
+    <trd>vzorek zboží</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="specim.0aro">
+  <kap><tld/>aro</kap>
+  <snc>
+    <dif>
+      Kolektitaj <tld/>oj de diversaj rilataj a&jcirc;oj kune konservataj
+      por komparo, studo, &gcirc;uo:
+      <ekz>
+        &Ccirc;ie konataj estis liaj botanikaj &gcirc;ardenoj kaj naturaj
+        <tld/>aroj<fnt><aut>Johan Van Eenoo</aut>: <vrk>La bru&gcirc;a
+        Centuriae
+        plantarum rariorum retrovita en Krakovo</vrk>,
+        <bib>Monato</bib><lok>jaro 1998a, numero 1a, p. 16a</lok></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="kabine.0o.ekspozicio">kabineto <sncref
+      ref="kabine.0o.ekspozicio"/></ref>,
+      <ref cel="kolekt.0o.art">kolekto <sncref
+      ref="kolekt.0o.art"/></ref>
+      <ref cel="muze.0o.kolekto">muzeo <sncref
+      ref="muze.0o.kolekto"/></ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="ca">
+    <trd>col&middot;lecci&oacute;</trd>,
+    <trd>mostrari</trd>
+  </trdgrp>
+  <trd lng="en">collection</trd>
+  <trdgrp lng="fr">
+    <trd>collection</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>mintagy&udblac;jtem&eacute;ny</trd>,
+    <trd>&aacute;ruminta-kollekci&oacute;</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>zbi&oacute;r</trd>,
+    <trd>kolekcja</trd>
+  </trdgrp>
+  <trd lng="ru">&c_k;&c_o;&c_l;&c_l;&c_je;&c_k;&c_c;&c_i;&c_ja;</trd>
+  <trdgrp lng="sk">
+    <trd>vzorkovnica</trd>,
+    <trd>zbierka vzoriek</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: specim.xml,v $
+Revision 1.17  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:33:24  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.15  2013/04/19 05:10:18  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.14  2011/12/06 13:10:15  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.13  2009/06/02 18:47:29  revo
+Russ Williams: +trd en
+
+Revision 1.12  2005/06/28 20:26:56  revo
+Yury Finkel: +trd ru
+
+Revision 1.11  2004/10/21 16:31:59  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.10  2004/10/08 16:32:58  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.9  2002/09/25 16:31:30  revo
+Jeromo Vasxe: memkor + ,
+
+Revision 1.8 2002/07/25 17:35:06 revo
+-->
+</vortaro>

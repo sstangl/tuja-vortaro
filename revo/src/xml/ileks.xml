@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: ileks.xml,v 1.17 2013/08/26 08:10:19 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>ileks</rad>/o
+</kap>
+<drv mrk="ileks.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">BOT</uzo>
+  <snc>
+    <dif>
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:botanikaj_genroj">Genro</ref> el familio <ref
+      tip="malprt" cel="akvifo1.0oj">akvifoliacoj</ref>
+      (<trd lng="la">Ilex</trd>), kies plej konata specio estas
+      <ref tip="sub" cel="akvifo.0o">akvifolio</ref>.
+    </dif>
+  </snc>
+  <trd lng="de">Stechpalme</trd>
+  <trd lng="en">holly</trd>
+  <trd lng="fr">ilex</trd>
+  <trd lng="hu">magyal(fa)</trd>
+  <trd lng="nl">hulst</trd>
+  <trd lng="pl">ostrokrzew</trd>
+  <trdgrp lng="pt">
+   <trd>azevinho</trd>, 
+   <trd>azevim</trd>, 
+   <trd>azevinheiro</trd> 
+  </trdgrp>
+  <trd lng="ru">&c_p;&c_a;&c_d;&c_u;&c_b;</trd>
+  <trd lng="sv">j&auml;rnekar</trd>
+</drv>
+</art>
+<!--
+$Log: ileks.xml,v $
+Revision 1.17  2013/08/26 08:10:19  revo
+Wolfram Diestel: referenco al listo bot genroj
+
+Revision 1.16  2005/10/25 16:31:40  revo
+Luiz Portella: +trd pt
+
+Revision 1.15  2005/07/08 16:31:46  revo
+Vito Redsky: +trd pl
+
+Revision 1.14  2002/04/04 16:32:54  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.13  2002/01/24 17:32:24  revo
+Marc Bavant: +trd fr
+
+Revision 1.12  2001/07/22 18:14:50  revo
+Jerano Zachrisson: +trd sv
+
+Revision 1.11  2001/06/04 18:41:13  revo
+Yury Finkel: +trd ru
+
+Revision 1.10  2001/04/17 15:28:01  revo
+-->
+</vortaro>

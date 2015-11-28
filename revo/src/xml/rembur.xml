@@ -1,0 +1,116 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: rembur.xml,v 1.18 2015/07/04 08:37:42 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>rembur</rad>/i
+</kap>
+<drv mrk="rembur.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="rembur.0i.KOMUNE">
+    <uzo tip="stl">KOMUNE</uzo>
+    <dif>
+      Pufigi kusenon a&ubreve; se&gcirc;on plen&scirc;topante &gcirc;in
+per lano, haroj, plumoj a&ubreve;
+      ia elasta materio.
+    </dif>
+  <trd lng="be">&c_n;&c_a;&c_b;&c_ib;&c_v;&c_a;&c_c;&c_mol;
+<klr>(&c_sh;&c_t;&c_o;&c_s;&c_mol;&c_c;&c_ib;
+&c_ch;&c_y;&c_m;&c_s;&c_mol;&c_c;&c_ib;)</klr></trd>
+  <trd lng="de">polstern</trd>
+  <trdgrp lng="en">
+    <trd>pad</trd>,
+    <trd>stuff</trd>
+  </trdgrp>
+  <trd lng="es">rellenar<klr> (un coj&iacute;n)</klr></trd>
+  <trd lng="hu">k&aacute;rpitoz</trd>
+  <trd lng="nl">vullen<klr tip="ind"> (v.kussen)</klr></trd>
+  <trdgrp lng="pl">
+    <trd>napycha&cacute;</trd>,
+    <trd>wypycha&cacute;</trd>,
+    <trd>wy&sacute;cie&lstroke;a&cacute;</trd>
+  </trdgrp>
+  <trd lng="pt">estofar</trd>
+  <trd lng="ru">&c_n;&c_a;&c_b;&c_i;&c_v;&c_a;&c_t;&c_mol;
+  <klr tip="amb">(&c_m;&c_je;&c_b;&c_je;&c_l;&c_mol;,
+&c_t;&c_ju;&c_f;&c_ja;&c_k;,
+&c_p;&c_o;&c_d;&c_u;&c_sh;&c_k;&c_u;)</klr></trd>
+  </snc>
+  <snc mrk="rembur.0i.TIP">
+    <dif>
+      Aldoni spacetojn inter la vortojn de teksto por doni deziratan
+formon 
+      al la tekstorando (precipe por alkadrigo). 
+    </dif>
+    <ekz>
+      Komposti tekston sen<tld/>e.
+      <fnt><bib>PIV2</bib></fnt>
+    </ekz>
+    <fnt><bib>KompLeks</bib></fnt>
+    <ref tip="vid" cel="kadr.al0igi">alkadrigi</ref>
+    <ref tip="vid" cel="rekt.0igi">rektigi</ref>
+    <trd lng="be">&c_r;&c_a;&c_b;&c_ib;&c_c;&c_mol; <ind>&c_v;&c_y;&c_k;&c_l;&c_ju;&c_ch;&c_k;&c_u;</ind> <klr>(&c_u;
+    &c_t;&c_e;&c_k;&c_s;&c_mol;&c_c;&c_je;)</klr></trd>
+  <trdgrp lng="en">
+    <trd>quad</trd>,
+    <trd>justify</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>justowa&cacute;</trd>,
+    <trd><ind>wyr&oacute;wnywa&cacute;</ind> do margines&oacute;w</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_r;&c_a;&c_z;&c_o;&c_g;&c_n;&c_a;&c_t;&c_mol;<klr>
+(&c_s;&c_t;&c_r;&c_o;&c_k;&c_i;)</klr></trd>,
+    <trd>&c_v;&c_y;&c_k;&c_l;&c_ju;&c_ch;&c_i;&c_t;&c_mol;<klr>
+(&c_t;&c_je;&c_k;&c_s;&c_t;)</klr></trd>
+  </trdgrp>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>vycpat</trd>,
+    <trd>čalounit</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>vypchať <klr>(vankúš, stoličku ap.)</klr></trd>,
+    <trd>vypchať <klr>(vankúš| stoličku ap.)</klr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: rembur.xml,v $
+Revision 1.18  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.15  2013/02/20 06:10:12  revo
+Dmitri Gabinski: redakto: +trd be
+
+Revision 1.14  2009/02/26 17:31:02  revo
+Russ Williams: +trd en
+
+Revision 1.13  2007/10/24 16:30:12  revo
+Sebastian Cyprych: +snc ~i.TIP +trd pl
+
+Revision 1.12  2006/02/20 17:32:11  revo
+Tulio Flores: +trd pt
+
+Revision 1.11  2005/04/11 16:33:35  revo
+Raul Salinas Monteagudo: +trd es
+
+Revision 1.10  2004/09/23 19:46:15  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.9  2003/08/17 17:27:34  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.8  2002/01/11 17:35:21  revo
+-->
+</vortaro>

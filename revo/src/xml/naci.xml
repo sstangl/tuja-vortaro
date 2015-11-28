@@ -1,0 +1,723 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: naci.xml,v 1.36 2015/07/04 08:37:39 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>naci</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="naci.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <uzo tip="fak">HIS</uzo>
+  <uzo tip="fak">POL</uzo>
+  <snc mrk="naci.0o.popolo">
+    <dif>
+      Memkonscia <ref tip="super" cel="etn.0o">etno</ref>, iom
+      granda <ref tip="super" cel="popol.0o.etno">popolo</ref>,
+      konsistanta el tuto de la homoj lo&gcirc;antaj en difinita
+      teritorio kaj ligitaj per komuneco de lingvo, kutimoj,
+      historio, tradicioj, interesoj kaj valoroj:
+      <ekz>
+        precipe la lingvo faras la <tld/>on;
+      </ekz>
+      <ekz>
+        <tld/>o batalanta por kreo de sia propra &scirc;tato
+        <fnt>PIV</fnt>;
+      </ekz>
+      <ekz>
+        <tld/>o dividita inter pluraj regnoj.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="gent.0o">gento</ref>
+    <trd lng="be">&c_n;&c_a;&c_c;&c_y;&c_ja;</trd>
+    <trd lng="de">Nation</trd>
+    <trd lng="pl">nar&oacute;d</trd>
+    <trd lng="ru">&c_n;&c_a;&c_c;&c_i;&c_ja;</trd>
+  </snc>
+  <snc mrk="naci.0o.suvereno">
+    <uzo tip="fak">JUR</uzo>
+    <dif>
+      <ref tip="sin" cel="popol.0o.regataro">Popolo</ref>
+      rigardata kiel
+      <ref tip="super" cel="suvere.0o">suvereno</ref>.
+    </dif>
+    <trd lng="be">&c_n;&c_a;&c_r;&c_o;&c_d;</trd>
+    <trd lng="de">Volk</trd>
+    <trd lng="ru">&c_n;&c_a;&c_r;&c_o;&c_d;</trd>
+  </snc>
+  <snc mrk="naci.0o.regno">
+    <uzo tip="fak">POL</uzo>
+    <uzo tip="stl">EVI</uzo>
+    <dif>
+      <ref tip="dif" cel="regn.0o.POL">Regno</ref>.
+    </dif>
+    <rim>
+      Tiu senco estas fremda al Esperanto, sed aperas en terminoj
+      tradukitaj el la angla:
+      <ekz>
+        <ind>Unui&gcirc;intaj <tld lit="N"/>oj</ind>.
+      </ekz>
+    </rim>
+    <trdgrp lng="be">
+      <trd>&c_d;&c_z;&c_ja;&c_r;&c_zh;&c_a;&c_v;&c_a;</trd>,
+      <trd>&c_k;&c_r;&c_a;&c_ib;&c_n;&c_a;</trd>
+    </trdgrp>
+    <trd lng="de">Staatsvolk</trd>
+    <trd lng="ru">&c_g;&c_o;&c_s;&c_u;&c_d;&c_a;&c_r;&c_s;&c_t;&c_v;&c_o;</trd>
+  </snc>
+  <refgrp tip="vid">
+    <ref cel="land.0o">lando</ref>,
+    <ref cel="patr.0ujo">patrujo</ref>.
+  </refgrp>     
+  <trd lng="bg">&c_n;&c_a;&c_c;&c_i;&c_ja;</trd>          
+  <trd lng="br">broad</trd>
+  <trd lng="ca">naci&oacute;</trd>
+  <trd lng="cs">n&aacute;rod</trd>
+  <trd lng="en">nation</trd>
+  <trd lng="es">naci&oacute;n</trd>
+  <trd lng="fr">nation</trd>
+  <trd lng="hu">nemzet</trd>
+  <trdgrp lng="it">
+    <trd>nazione</trd>
+    <trd>popolo</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>natie</trd>,
+    <trd>volk</trd>
+  </trdgrp>
+  <trd lng="pt">na&ccedil;&atilde;o</trd>
+  <trd lng="tr">ulus</trd>
+  <trd lng="sk">národ</trd>
+</drv>
+
+<drv mrk="naci.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="naci.0a.etna">
+    <dif>
+      Koncernanta <tld/>ojn, etnojn:
+      <ekz>
+        <tld/>a konscio, aparta&jcirc;o;
+      </ekz>
+      <ekz>
+        <tld/>aj rilatoj;
+      </ekz>
+      <ekz>
+        <ind><tld/>a standardo</ind>
+        <klr>(i.a., tradicia standardo de popolo kiu malhavas
+        sian <tld/>an &scirc;taton)</klr>;
+        <trd lng="be">&c_n;&c_a;&c_c;&c_y;&c_ja;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_y; &c_s;&c_mol;&c_c;&c_ja;&c_g;</trd>
+        <trd lng="ru">&c_n;&c_a;&c_c;&c_i;&c_o;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_y;&c_j; &c_f;&c_l;&c_a;&c_g;</trd>
+      </ekz>
+      <ekz>
+        <ind><tld/>a &scirc;tato</ind>
+        <klr>(&scirc;tato formita la&ubreve; <tld/>a principo, kontraste al
+        imperio ktp)</klr>
+        <trd lng="be">&c_n;&c_a;&c_c;&c_y;&c_ja;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_a;&c_ja; &c_d;&c_z;&c_ja;&c_r;&c_zh;&c_a;&c_v;&c_a;</trd>
+        <trd lng="ru">&c_n;&c_a;&c_c;&c_i;&c_o;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_o;&c_je;
+        &c_g;&c_o;&c_s;&c_u;&c_d;&c_a;&c_r;&c_s;&c_t;&c_v;&c_o;</trd>
+      </ekz>
+    </dif>
+    <trd lng="be">&c_n;&c_a;&c_c;&c_y;&c_ja;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>
+    <trd lng="de">national</trd>
+    <trd lng="pl">narodowy</trd>
+    <trd lng="ru">&c_n;&c_a;&c_c;&c_i;&c_o;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
+  </snc>
+  <snc mrk="naci.0a.sxtata">
+    <uzo tip="stl">EVI</uzo>
+    <dif>
+      Regna, koncernanta <tld/>on<sncref ref="naci.0o.regno"/>:
+      <ekz>
+        <ind><tld/>a standardo</ind>
+        <klr>(oficiala standardo de koncerna regno)</klr>.
+        <trd lng="be">&c_d;&c_z;&c_ja;&c_r;&c_zh;&c_a;&c_w;&c_n;&c_y; &c_s;&c_mol;&c_c;&c_ja;&c_g;</trd>
+        <trd lng="ru">&c_g;&c_o;&c_s;&c_u;&c_d;&c_a;&c_r;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_y;&c_j; &c_f;&c_l;&c_a;&c_g;</trd>
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_n;&c_a;&c_c;&c_y;&c_ja;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>,
+      <trd>&c_d;&c_z;&c_ja;&c_r;&c_zh;&c_a;&c_w;&c_n;&c_y;</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd>National-</trd>,
+      <trd>Landes-</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_g;&c_o;&c_s;&c_u;&c_d;&c_a;&c_r;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>,
+      <trd>&c_n;&c_a;&c_c;&c_i;&c_o;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="br">broadel</trd>
+  <trd lng="ca">nacional</trd>
+  <trd lng="cs">n&aacute;rodn&iacute;</trd>
+  <trd lng="en">national</trd>
+  <trd lng="es">nacional</trd>
+  <trd lng="fr">national</trd>
+  <trdgrp lng="hu">
+    <trd>nemzeti</trd>,
+    <trd>nemzet-</trd>
+  </trdgrp>
+  <trd lng="it">nazionale</trd>
+  <trd lng="nl">nationaal</trd>
+  <trd lng="pt">nacional</trd>
+  <trd lng="sk">národný</trd>
+  <trd lng="tr">ulusal</trd>
+</drv>
+
+<drv mrk="naci.0ajxo">
+  <kap><tld/>a&jcirc;o</kap>
+  <snc>
+    <dif>
+      <tld lit="N"/>a aparta&jcirc;o.
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_n;&c_a;&c_c;&c_y;&c_ja;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_a;&c_ja; &c_a;&c_s;&c_a;&c_b;&c_l;&c_ib;&c_v;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
+    <trd>&c_n;&c_a;&c_c;&c_y;&c_ja;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_a;&c_ja; &c_r;&c_y;&c_s;&c_a;</trd>
+  </trdgrp>                                            
+  <trd lng="br">dibarder <ind>broadel</ind></trd>
+  <trd lng="ca">particularitat <ind>nacional</ind></trd>
+  <trd lng="de">nationale <ind>Besonderheit</ind></trd>
+  <trd lng="en">national idiom</trd>
+  <trdgrp lng="fr">
+    <trd>particularit&eacute; <ind>nationale</ind></trd>,
+    <trd>sp&eacute;cialit&eacute; <ind>nationale</ind></trd>
+  </trdgrp>
+  <trd lng="hu">nemzeti <ind>saj&aacute;toss&aacute;g</ind></trd>
+  <trd lng="nl">iets eigen aan het <ind>volk</ind></trd>
+  <trd lng="ru">&c_n;&c_a;&c_c;&c_i;&c_o;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_a;&c_ja; &c_o;&c_s;&c_o;&c_b;&c_je;&c_n;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
+</drv>
+
+
+<drv mrk="naci.0ano">
+  <kap><tld/>ano</kap>
+  <snc mrk="naci.0ano.etnano">
+    <dif>
+      Etnano:
+      <ekz>
+        sed tiel same kiel mi en la nuna momento ne estas ia
+        <tld/>ano, sed simpla homo, tiel same mi anka&ubreve; sentas, ke
+        en tiu &ccirc;i momento mi ne apartenas al ia <tld/>a
+        a&ubreve; partia religio, sed mi estas nur homo.
+        <fnt>
+        <aut>&Z;</aut>:
+        <vrk>La parolado anta&ubreve; la Unua Kongreso Esperantista
+        en Bulonjo-sur-Maro, 1905-08-05.</vrk></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_p;&c_r;&c_a;&c_d;&c_s;&c_t;&c_a;&c_w;&c_n;&c_ib;&c_k; &c_n;&c_a;&c_c;&c_y;&c_ib;</trd>  
+  <trdgrp lng="br">
+    <trd>broad<klr tip="ind"> (den)</klr></trd>,
+    <trd>broadour</trd>
+  </trdgrp>
+    <trd lng="de">Angeh&ouml;riger einer Nationalit&auml;t</trd>
+  </snc>
+  <snc mrk="naci.0ano.sxtatano">
+    <uzo tip="stl">EVI</uzo>
+    <ref tip="dif" cel="sxtat.0ano">&scirc;tatano</ref>
+    <ekz>
+      la ambasadoro konsilis al &ccirc;iuj siaj <tld/>anoj
+      forlasi la landon <fnt>PIV</fnt>.
+    </ekz>
+    <trd lng="be">&c_g;&c_r;&c_a;&c_m;&c_a;&c_d;&c_z;&c_ja;&c_n;&c_ib;&c_n;</trd>
+    <trd lng="de">Staatsangeh&ouml;riger</trd>
+  </snc>
+  <snc mrk="naci.0ano.BIB">
+    <uzo tip="fak">BIB</uzo>
+    <dif>
+      Aligentano, ne-judo.
+    </dif>
+    <rim>
+      Tiusence la vorto aperas nur en la verkoj Nov-Testamentaj.
+    </rim>
+    <trd lng="ca">gentil</trd>
+    <trd lng="de">Nichtjude</trd>
+    <trd lng="fr">gentil<klr> (non-juif)</klr></trd>
+    <trd lng="ru">&c_ja;&c_z;&c_y;&c_ch;&c_n;&c_i;&c_k;</trd>
+  </snc>
+  <trdgrp lng="ca">
+    <trd>resident</trd>,
+    <trd>habitant</trd>
+  </trdgrp>
+  <trd lng="cs">příslušník národa</trd>
+  <trd lng="en">national</trd>
+  <trdgrp lng="fr">
+    <trd>national<klr> (subst.)</klr></trd>,
+    <trd>ressortissant</trd>
+  </trdgrp>
+  <trd lng="sk">príslušník národa</trd>
+</drv>
+
+<drv mrk="naci.0anigi">
+  <kap><tld/>anigi</kap>
+  <snc>
+    <dif>
+      <ref tip="super" cel="asimil.0i.POL">Asimili</ref> al <tld/>o.
+    </dif>
+    <trd lng="be">&c_a;&c_s;&c_ib;&c_m;&c_ib;&c_l;&c_ja;&c_v;&c_a;&c_c;&c_mol;</trd>
+    <trd lng="de">naturalisieren</trd>
+    <trd lng="ru">&c_a;&c_s;&c_s;&c_i;&c_m;&c_i;&c_l;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  </snc>
+  <snc mrk="naci.0anigi.JUR.POL">
+    <uzo tip="fak">JUR</uzo>
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      <ref tip="dif" cel="civit.0anigi">Civitanigi</ref>.
+    </dif>
+    <trd lng="be">&c_n;&c_a;&c_t;&c_u;&c_r;&c_a;&c_l;&c_ib;&c_z;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+    <trd lng="de">einb&uuml;rgern</trd>
+    <trd lng="ru">&c_n;&c_a;&c_t;&c_u;&c_r;&c_a;&c_l;&c_i;&c_z;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  </snc>
+  <trd lng="ca">nacionalitzar</trd>
+  <trd lng="cs">naturalizovat</trd>
+  <trd lng="en">nationalize</trd>
+  <trd lng="es">nacionalizar</trd>
+  <trd lng="it">naturalizzare</trd>
+  <trd lng="nl">inburgeren</trd>
+  <trdgrp lng="sk">
+    <trd>naturalizovať</trd>,
+    <trd>udeliť štátne občianstvo</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="naci.0eco">
+  <kap><tld/>eco</kap>
+  <snc mrk="naci.0eco.propra">
+    <dif>
+      Eco esti <tld/>o:
+      <ekz>
+        pli kaj pli landlimoj kaj <tld/>ecoj
+        difini&gcirc;as la&ubreve; lingvoj;
+      </ekz>
+      <ekz>
+        anta&ubreve; la milito tiu subetno ankora&ubreve; ne pretendis
+        je <tld/>eco <klr>(ne konsciis sin <tld/>o)</klr>.
+      </ekz>
+    </dif>
+    <trd lng="es">nacionalidad</trd>
+    <trd lng="hu">nemzeti mivolt</trd>
+    <trd lng="nl">nationaliteit</trd>
+  </snc>
+  <snc mrk="naci.0eco.etno">
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      Malnova vorto por <ref tip="dif" cel="etn.0o">etno</ref>.
+    </dif>
+  </snc>
+  <trd lng="be">&c_n;&c_a;&c_c;&c_y;&c_ja;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+  <trd lng="br">broadelezh</trd>
+  <trd lng="ca">nacionalitat</trd>
+  <trd lng="cs">národnost</trd>
+  <trd lng="de">Nationalit&auml;t</trd>
+  <trd lng="en">nationality</trd>
+  <trd lng="fr">nationalit&eacute;</trd>
+  <trd lng="hu">nemzetis&eacute;g</trd>
+  <trd lng="it">nazionalit&agrave;</trd>
+  <trd lng="pl">narodowo&sacute;&cacute;</trd>
+  <trd lng="ru">&c_n;&c_a;&c_c;&c_i;&c_o;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
+  <trd lng="sk">národnosť</trd>
+  <trdgrp lng="tr">
+    <trd>uyrukluk</trd>,
+    <trd>vatanda&scedil;l&inodot;k</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="naci.0ismo">
+  <kap><tld/>ismo</kap>
+  <snc mrk="naci.0ismo.POL">
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      Politika doktrino bazita sur la ideoj pri la rajtoj kaj
+      valoroj de iu <tld/>o;
+      <ref tip="sin" cel="nacion.0o">nacionalismo</ref>.
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="naci.inter0ismo.POL">inter<tld/>ismo<sncref/></ref>,
+      <ref cel="naci.sen0ismo.POL">sen<tld/>ismo</ref>
+    </refgrp>
+    <rim>
+      <tld lit="N"/>ismo de premanta <tld/>o estas
+      <ref tip="vid" cel="imperi.0ismo.naciisma">imperiismo</ref>,
+      <tld/>ismo de premata <tld/>o proksimas al
+      <ref tip="vid" cel="patrio.0ismo">patriotismo</ref> kaj
+      kontra&ubreve;imperiismo, kvankam &ccirc;ia <tld/>ismo povas konduki
+      al <ref tip="vid" cel="sxovin.0o">&scirc;ovinismo</ref>
+      kaj <tld/>a egoismo.
+    </rim>
+    <trd lng="be">&c_n;&c_a;&c_c;&c_y;&c_ja;&c_n;&c_a;&c_l;&c_ib;&c_z;&c_m;</trd>
+    <trd lng="br">broadelouriezh</trd>
+    <trd lng="ca">nacionalisme</trd>
+    <trd lng="de">Nationalismus</trd>
+    <trd lng="fr">nationalisme</trd>
+    <trd lng="hu">nacionalizmus</trd>
+    <trd lng="it">nazionalismo</trd>
+    <trd lng="pl">nacjonalizm</trd>
+    <trd lng="ru">&c_n;&c_a;&c_c;&c_i;&c_o;&c_n;&c_a;&c_l;&c_i;&c_z;&c_m;</trd>
+    <trdgrp lng="tr">
+      <trd>milliyet&ccedil;ilik</trd>,
+      <trd>ulus&ccedil;uluk</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="naci.0ismo.LIN">
+    <uzo tip="fak">LIN</uzo>
+    <dif>
+      Lingva <ref tip="dif" cel="naci.0ajxo"><tld/>a&jcirc;o</ref>.
+    </dif>
+    <refgrp tip="ant">
+      <ref cel="naci.inter0ismo.LIN">inter<tld/>ismo<sncref/></ref>
+    </refgrp>
+    <refgrp tip="vid">
+      <ref cel="idiom.0ajxo">idioma&jcirc;o</ref>,
+      <ref cel="idioti.0o">idiotismo</ref>
+    </refgrp>
+    <trd lng="be">&c_ib;&c_d;&c_y;&c_jo;&c_m;&c_a;</trd>
+    <trd lng="ca">idiotisme</trd>
+    <trd lng="de">nationaler <ind>Sprachidiotismus</ind></trd>
+    <trd lng="fr">idiotisme</trd>
+    <trd lng="ru">&c_i;&c_d;&c_i;&c_o;&c_m;&c_a;</trd>
+  </snc>
+  <trd lng="cs">národovectví</trd>
+  <trd lng="en">nationalism</trd>
+  <trd lng="es">nacionalismo</trd>
+  <trd lng="nl">nationalisme</trd>
+  <trd lng="pt">nacionalismo</trd>
+  <trd lng="sk">národovectvo</trd>
+</drv>
+
+<drv mrk="naci.0isto">
+  <kap><tld/>isto</kap>
+  <snc mrk="naci.0isto.POL">
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      Adepto de <tld/>ismo.
+    </dif>
+  </snc>
+  <trd lng="be">&c_n;&c_a;&c_c;&c_y;&c_ja;&c_n;&c_a;&c_l;&c_ib;&c_s;&c_t;</trd>
+  <trd lng="br">broadelour</trd>
+  <trd lng="ca">nacionalista</trd>
+  <trd lng="cs">národovec</trd>
+  <trd lng="de">Nationalist</trd>
+  <trd lng="en">nationalist</trd>
+  <trd lng="fr">nationaliste</trd>
+  <trd lng="hu">nacionalista</trd>
+  <trd lng="it">nazionalista<klr> (sostantivo)</klr></trd>
+  <trd lng="nl">nationalist</trd>
+  <trd lng="pl">nacjonalizm</trd>
+  <trd lng="pt">nacionalista</trd>
+  <trd lng="ru">&c_n;&c_a;&c_c;&c_i;&c_o;&c_n;&c_a;&c_l;&c_i;&c_s;&c_t;</trd>
+  <trd lng="sk">národovec</trd>
+  <trdgrp lng="tr">
+    <trd>milliyet&ccedil;i</trd>,
+    <trd>ulus&ccedil;u</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="naci.inter0a">
+  <kap>inter<tld/>a</kap>
+  <snc mrk="naci.inter0a.prop">
+    <dif>
+      Koncernanta plurajn <tld/>ojn:
+    </dif>
+    <ekz>
+     &ccirc;e ekzistado de lingvo inter<tld/>a &ccirc;iuj tradukoj estus farataj nur
+     en tiun &ccirc;i lastan, kiel ne&ubreve;tralan, al &ccirc;iuj kompreneblan, kaj la
+     verkoj, kiuj havas karakteron inter<tld/>an, estus eble skribataj
+     rekte en &gcirc;i<fnt><aut>&Z;</aut>:
+          <vrk>El la unua libro de la lingvo Esperanto. </vrk></fnt>. 
+    </ekz>
+    <trd lng="de">multinational</trd>
+  </snc>
+  <snc mrk="naci.inter0a.sxtat">
+    <ref tip="dif" cel="sxtat.inter0a">Inter&scirc;tata</ref>
+    <rim>
+      Tiu senco estas fremda al Esperanto, sed aperas en la lingvo
+      pro tradukoj el aliaj lingvoj.
+      <ekz>
+        inter<tld/>a komerco, juro,
+        konferenco, oficejo.
+      </ekz>
+    </rim>
+    <trd lng="de">international</trd>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_m;&c_ib;&c_zh;&c_n;&c_a;&c_r;&c_o;&c_d;&c_n;&c_y;</trd>,
+    <trd>&c_ib;&c_n;&c_t;&c_e;&c_r;&c_n;&c_a;&c_c;&c_y;&c_ja;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trd lng="br">etrebroadel</trd>
+  <trd lng="ca">internacional</trd>
+  <trd lng="cs">mezinárodní</trd>
+  <trd lng="en">international</trd>
+  <trd lng="es">internacional</trd>
+  <trd lng="fr">international</trd>
+  <trd lng="hu">nemzetk&ouml;zi</trd>
+  <trd lng="it">internazionale</trd>
+  <trd lng="nl">internationaal</trd>
+  <trd lng="pl">mi&eogonek;dzynarodowy</trd>
+  <trd lng="pt">internacional</trd>
+  <trd lng="ru">&c_m;&c_je;&c_zh;&c_d;&c_u;&c_n;&c_a;&c_r;&c_o;&c_d;&c_n;&c_y;&c_j;</trd>
+  <trd lng="sk">medzinárodný</trd>
+  <trd lng="tr">uluslararas&inodot;</trd>
+</drv>
+
+<drv mrk="naci.inter0ismo">
+  <kap>inter<tld/>ismo</kap>
+  <snc mrk="naci.inter0ismo.POL">
+    <uzo tip="fak">POL</uzo>
+    <ref tip="dif" cel="kosmop.0ismo.POL">kosmopolitismo</ref>
+    <ekz>
+      humaneca inter<tld/>ismo <klr>...</klr> estas la spirito de
+      Esperanto
+      <fnt>
+        <aut>I. Gast&oacute;n Burillo</aut>,
+        <vrk><url
+        ref="https://sites.google.com/site/zaragozafrateco/-nekrologoj/ines-gaston">
+        Tago de Zamenhof</url></vrk>,
+        <lok>1976</lok>
+      </fnt>.
+    </ekz>
+    <refgrp tip="vid">
+      <ref cel="naci.0ismo.POL"><tld/>ismo<sncref/></ref>,
+      <ref cel="naci.sen0ismo.POL">sen<tld/>ismo</ref>
+    </refgrp>
+    <trd lng="ca">cosmopolitisme</trd>
+  </snc>
+  <snc mrk="naci.inter0ismo.JUR">
+    <uzo tip="fak">JUR</uzo>
+    <dif>
+      Politika sistemo celanta starigi juran aparaton, kiu
+      garantius pacajn rilatojn inter &ccirc;iuj <tld/>oj, zorgante, ke
+      &ccirc;iu el ili konservu siajn lingvon kaj kulturajn aparta&jcirc;ojn.
+    </dif>
+    <trd lng="be">&c_ib;&c_n;&c_t;&c_e;&c_r;&c_n;&c_a;&c_c;&c_y;&c_ja;&c_n;&c_a;&c_l;&c_ib;&c_z;&c_m;</trd>    
+    <trd lng="br">etrebroadelouriezh</trd>
+    <trd lng="ca">internacionalisme</trd>
+    <trd lng="de">Internationalismus</trd>
+    <trd lng="en">internationalism</trd>
+    <trd lng="fr">internationalisme</trd>
+    <trdgrp lng="hu">
+      <trd>internacionalizmus</trd>,
+      <trd>nemzetk&ouml;zis&eacute;g</trd>
+    </trdgrp>
+    <trd lng="it">internazionalismo</trd>
+    <trd lng="nl">internationalisme</trd>
+    <trd lng="pl">internacjonalizm</trd>
+    <trdgrp lng="tr">
+      <trd>uluslararas&inodot; birlik d&uuml;&scedil;&uuml;ncesi </trd>,
+      <trd>uluslararas&inodot; durum</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="naci.inter0ismo.LIN">
+    <uzo tip="fak">ESP</uzo>
+    <uzo tip="fak">LIN</uzo>
+    <dif>
+      Esprimo, kiu ekzistas en tre simila formo
+      kaj senco en pluraj lingvoj:
+      <ekz>
+        Valerij Akulenko anka&ubreve; notas, ke la nocio 
+        <ctl>inter<tld/>ismo</ctl> fari&gcirc;is unu el
+        la &ccirc;efaj nocioj en la interlingvistiko
+        <fnt>
+          <aut>B. Kolker</aut>,
+          <vrk><url
+          ref="http://esperanto.china.org.cn/esperantujo/2010-01/19/content_19269002.htm">
+          &Ccirc;efaj strukturaj principoj de Esperanto</url></vrk>,
+          <lok>en: La Arto Labori Kune, 2010</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="ant">
+      <ref cel="naci.0ismo.LIN"><tld/>ismo<sncref/></ref>
+    </refgrp>
+    <refgrp tip="vid">
+      <ref cel="pauxs.0o.LIN">pa&ubreve;so<sncref/></ref>
+    </refgrp>
+    <trd lng="ca">expressi&oacute; internacional</trd>
+  </snc>
+</drv>
+
+<drv mrk="naci.sam0ano">
+  <kap>sam<tld/>ano</kap>
+  <snc mrk="naci.sam0ano.KOMUNE">
+    <dif>
+      Homo de sama <tld/>o kiel la koncernulo:
+      <ekz>
+        ni eltiris, dank'al &gcirc;i, niajn sam<tld/>anojn 
+        <klr>...</klr> el la turka sklaveco
+        <fnt>
+          <aut>R. Klaji&ccirc;</aut>,
+          <vrk><url
+          ref="http://arkivo.esperanto-france.org/divers/vekigho/balkan.htm">
+          Letero el Serbujo</url></vrk>,
+          <lok>Veki&gcirc;o !, 1913:04 (7)</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="land.sam0ano.KOMUNE">samlandano</ref>
+    </refgrp>
+  </snc>
+  <trd lng="cs">čl. stejné národnosti</trd>
+  <trd lng="fr">compatriote<klr> (de m&ecirc;me nation)</klr></trd>
+  <trd lng="sk">súkmeňovec</trd>
+</drv>
+
+<drv mrk="naci.sen0ismo">
+  <kap>sen<tld/>ismo</kap>
+  <snc mrk="naci.sen0ismo.POL">
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      Socipolitika teorio la&ubreve; kiu la <tld/>oj devas rezigni pri sia
+      sendependeco, pri siaj lingvaj kaj kulturaj aparta&jcirc;oj por
+      kunfandi&gcirc;i en mondan unuon.
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="naci.0ismo.POL"><tld/>ismo<sncref/></ref>,
+      <ref cel="naci.inter0ismo.POL">inter<tld/>ismo<sncref/></ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_k;&c_a;&c_s;&c_m;&c_a;&c_p;&c_a;&c_l;&c_ib;&c_t;&c_y;&c_z;&c_m;</trd>
+  <trd lng="ca">cosmopolitisme</trd>
+  <trd lng="cs">kosmopolitizmus</trd>
+  <trdgrp lng="de">
+    <trd>Doktrin der <ind>Nationslosigkeit</ind></trd>,
+    <trd>Weltb&uuml;rgertum</trd>
+  </trdgrp>
+  <trd lng="en">anationalism</trd>
+  <trdgrp lng="fr">
+    <trd>anationalisme</trd>,
+    <trd>cosmopolitisme<klr> (politique)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="it">
+    <trd>anazionalismo</trd>,
+    <trd>cosmopolitismo<klr> (in politica)</klr></trd>
+  </trdgrp>
+  <trd lng="nl">volkenloosheid</trd>
+  <trd lng="pl">kosmopolityzm</trd>
+  <trd lng="sk">kozmopolitizmus</trd>
+</drv>
+
+<drv mrk="naci.Unuigxintaj_0oj">
+  <kap>Unui&gcirc;intaj <tld lit="N"/>oj</kap>
+  <mlg>UN</mlg>
+  <fnt><bib>ManPol</bib></fnt>
+  <snc mrk="naci.Unuigxintaj_0oj.POL">
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      Grava internacia monda <ref tip="lst"
+      cel="organi2.0ajxo" lst="voko:organiza&jcirc;oj">organiza&jcirc;o</ref>,
+      fondita post la 2a
+      mondmilito,
+      kiu celas solvi inter&scirc;tatajn konfliktojn:
+      <ekz>
+        nun tamen Tuvalo ver&scirc;ajne i&gcirc;os ege populara, ne nur &ccirc;ar la
+        gnoma &scirc;tato &jcirc;us fari&gcirc;is 189a membro de Unui&gcirc;intaj <tld
+        lit="N"/>oj
+        (UN), sed precipe pro &gcirc;ia nacia simbolo en Interreto, mallongigo
+        &leftquot;tv&rightquot;.
+        <fnt>
+          <aut>S. Maul</aut>,
+          <vrk><url ref="&Monato;/007180.html">Ri&ccirc;a per .tv</url></vrk>,
+          <bib>Monato</bib>,
+          <lok>2000:12</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_A;&c_r;&c_g;&c_a;&c_n;&c_ib;&c_z;&c_a;&c_c;&c_y;&c_ja; &c_A;&c_b;'&c_ja;&c_d;&c_n;&c_a;&c_n;&c_y;&c_h;
+    <ind>&c_N;&c_a;&c_c;&c_y;&c_j;</ind></trd>,
+    <trd>&c_A;&c_b;'&c_ja;&c_d;&c_n;&c_a;&c_n;&c_y;&c_ja; <ind>&c_N;&c_a;&c_c;&c_y;&c_ib;</ind></trd>
+  </trdgrp>     
+  <trdgrp lng="bg">
+    <trd>&c_O;&c_r;&c_g;&c_a;&c_n;&c_i;&c_z;&c_a;&c_c;&c_i;&c_ja; &c_n;&c_a; &c_o;&c_b;&c_je;&c_d;&c_i;&c_n;&c_je;&c_n;&c_i;&c_t;&c_je;
+    &c_n;&c_a;&c_c;&c_i;&c_i;</trd>,
+    <trd>&c_O;&c_O;&c_N;</trd>
+  </trdgrp>
+  <trdgrp lng="br">
+    <trd>Aozadur ar <ind>Broado&ugrave;</ind> Unanet</trd>,
+    <trd>ABU</trd>
+  </trdgrp>
+  <trdgrp lng="ca">
+    <trd>[Organitzaci&oacute; de] les Nacions Unides</trd>,
+    <trd>[O]NU</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Vereinte <ind>Nationen</ind></trd>,
+    <trd>UN</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>United <ind>Nations</ind> Organisation</trd>,
+    <trd>United <ind>Nations</ind></trd>,
+    <trd>UNO</trd>,
+    <trd>UN</trd>,
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>Naciones Unidas</trd>,
+    <trd>ONU</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>Organisation des <ind>Nations</ind> Unies</trd>,
+    <trd>ONU</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>Egyes&uuml;lt <ind>Nemzetek</ind></trd>,
+    <trd>UN</trd>
+  </trdgrp>
+  <trdgrp lng="it">
+    <trd>Organizzazione delle Nazioni Unite</trd>,
+    <trd>Nazioni Unite</trd>,
+    <trd>ONU</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>Verenigde <ind>Naties</ind></trd>,
+    <trd>VN</trd>
+  </trdgrp>
+  <trd lng="pl">Organizacja Narod&oacute;w Zjednoczonych</trd>
+  <trdgrp lng="ru">
+    <trd>&c_O;&c_b;&c_malmol;&c_je;&c_d;&c_i;&c_n;&c_jo;&c_n;&c_n;&c_y;&c_je; &c_N;&c_a;&c_c;&c_i;&c_i;</trd>,
+    <trd>&c_O;&c_r;&c_g;&c_a;&c_n;&c_i;&c_z;&c_a;&c_c;&c_i;&c_ja; &c_O;&c_b;&c_malmol;&c_je;&c_d;&c_i;&c_n;&c_jo;&c_n;&c_n;&c_y;&c_h;
+    &c_N;&c_a;&c_c;&c_i;&c_j;</trd>,
+    <trd>&c_O;&c_O;&c_N;</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>Na&ccedil;&otilde;es Unidas</trd>,
+    <trd>ONU</trd>
+  </trdgrp>
+  <trdgrp lng="tr">
+    <trd>Birle&scedil;mi&scedil; Milletler </trd>,
+    <trd>BM</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: naci.xml,v $
+Revision 1.36  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.35  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.34  2014/10/24 03:10:16  revo
+Jeromo Vasxe: + sam~ano
+
+Revision 1.33  2014/07/01 11:10:14  revo
+Damien Brucker: +ekz
+
+Revision 1.32  2013/09/14 16:10:22  revo
+Wolfram Diestel: UN: ref al lst organizajhoj
+
+Revision 1.31  2012/09/17 15:10:15  revo
+Marc Rausell: + trd ca
+
+Revision 1.30  2012/06/29 08:10:11  revo
+Jeromo Vasxe: + inter~ismo LIN, + kk ref, reord. drv
+
+Revision 1.29  2009/12/09 17:30:26  revo
+ Fabio Bettani: +trd it
+
+Revision 1.28  2009/08/25 16:32:53  revo
+Emmanuel Debanne: +trd tr
+
+Revision 1.27  2009/07/08 16:31:07  revo
+-->
+</vortaro>

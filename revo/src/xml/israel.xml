@@ -1,0 +1,128 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: israel.xml,v 1.20 2014/06/09 18:10:13 revo Exp $">
+<kap>
+<ofc>9</ofc><rad>Israel</rad>/o
+</kap>
+
+<drv mrk="israel.I0o">
+  <kap><ofc>9</ofc><tld/>o</kap>
+  <snc mrk="israel.I0o.GEOG">
+  <uzo tip="fak">GEOG</uzo>
+  <uzo tip="fak">POL</uzo>
+    <dif>
+      <ref tip="lst" cel="sxtat.0o" lst="voko:&scirc;tatoj">&Scirc;tato</ref>
+      situanta en
+      okcidenta <ref tip="malprt" cel="azi.A0o">Azio</ref>
+      kaj limanta okcidente al
+      <ref tip="vid" cel="mediterane.M0o">Mediteraneo</ref>, norde al
+      <ref tip="vid" cel="liban.L0o">Libano</ref>, nord-oriente al
+      <ref tip="vid" cel="siri.S0o">Sirio</ref>, oriente
+      al <ref tip="vid" cel="jordan.J0o">Jordanio</ref>, sude al la
+      <ref tip="vid" cel="mar.RugxaM0o">Ru&gcirc;a Maro</ref>,
+      sud-okcidente al <ref tip="vid" cel="egipt.E0ujo">Egiptujo</ref>.
+      <ref tip="prt" cel="jerusa.J0o">Jerusalemo</ref> estas la
+      <ref tip="vid" cel="urb.cxef0o">&ccirc;efurbo</ref> kaj
+      plej granda urbo.
+    </dif>
+  </snc>
+  <trd lng="bg">&c_I;&c_z;&c_r;&c_a;&c_je;&c_l;</trd>
+  <trdgrp lng="ca">
+    <trd>Israel</trd>,
+    <trd>Isr&#257;'&#299;l</trd>
+  </trdgrp>
+  <trd lng="de">Israel</trd>
+  <trdgrp lng="fr">
+    <trd>Isra&euml;l</trd>,
+    <trd>Etat d'Isra&euml;l</trd>
+  </trdgrp>
+  <trd lng="en">Israel</trd>
+  <trd lng="he">&yod;&shin;&resh;&alef;&lamed;</trd>
+  <trd lng="id">Israel</trd>
+  <trd lng="nl">Isra&euml;l</trd>
+  <trd lng="no">Israel</trd>
+  <trd lng="pl">Izrael</trd>
+  <trd lng="pt">Israel</trd>
+  <trd lng="ru">&c_I;&c_z;&c_r;&c_a;&c_i;&c_l;&c_mol;</trd>
+</drv>
+
+<drv mrk="israel.i0a">
+  <kap><tld lit="i"/>a</kap>
+  <snc mrk="israel.i0a.GEOG">
+    <dif>
+      Rilata al <tld lit="i"/>anoj, ilia nacieco a&ubreve; &scirc;tato.
+    </dif>
+  </snc>
+  <trdgrp lng="ca">
+    <trd>israelita</trd>,
+    <trd>hebreu <klr>(adj.)</klr></trd>
+  </trdgrp>
+  <trd lng="de">israelisch</trd>
+  <trd lng="fr">isra&euml;lien<klr> (adj.)</klr></trd>
+  <trd lng="en">Israeli</trd>
+  <trd lng="he">&yod;&shin;&resh;&alef;&lamed;&yod;</trd>
+  <trd lng="nl">Isra&euml;lisch</trd>
+  <trd lng="no">israelsk</trd>
+  <trd lng="pl">izraelski</trd>
+  <trdgrp lng="pt">
+   <trd>israel&iacute;tico<klr tip="ind"> (adj.)</klr></trd>, 
+   <trd>israelense<klr tip="amb"> (adj.)</klr></trd> 
+  </trdgrp>
+  <trd
+  lng="ru">&c_i;&c_z;&c_r;&c_a;&c_i;&c_l;&c_mol;&c_s;&c_k;&c_i;&c_j;</trd>
+</drv>
+
+<drv mrk="israel.i0ano">
+  <kap><tld lit="i"/>ano</kap>
+  <snc mrk="israel.i0ano.POL">
+    <dif>
+      <ref tip="super" cel="sxtat.0ano">&Scirc;tatano</ref> de
+      <ref tip="malprt" cel="israel.I0o"><tld/>o</ref>.
+    </dif>
+  </snc>
+  <trdgrp lng="ca">
+    <trd>israelita</trd>,
+    <trd>hebreu <klr>(subst.)</klr></trd>
+  </trdgrp>
+  <trd lng="de">Israeli</trd>
+  <trd lng="fr">Isra&euml;lien<klr> (subst.)</klr></trd>
+  <trd lng="en">Israeli</trd>
+  <trd lng="he">&yod;&shin;&resh;&alef;&lamed;&yod;</trd>
+  <trd lng="nl">Isra&euml;li</trd>
+  <trd lng="no">israelier</trd>
+  <trd lng="pl">Izraelczyk</trd>
+  <trd lng="pt">israelense<klr tip="amb"> (pessoa)</klr></trd>
+  <trd
+  lng="ru">&c_i;&c_z;&c_r;&c_a;&c_i;&c_l;&c_mol;&c_t;&c_ja;&c_n;&c_i;&c_n;</trd>
+</drv>
+
+</art>
+
+<!--
+$Log: israel.xml,v $
+Revision 1.20  2014/06/09 18:10:13  revo
+Damien Brucker: +trd fr
+
+Revision 1.19  2014/06/07 04:10:12  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.18  2013/11/17 18:10:13  revo
+Damien Brucker: +trd fr
+
+Revision 1.17  2013/08/25 10:10:14  revo
+Wolfram Diestel: referencoj al listo sxtatoj
+
+Revision 1.16  2012/01/02 11:10:25  revo
+Marc Rausell: +trd ca
+
+Revision 1.15  2011/02/16 16:10:18  revo
+Luiz Portella: kor. ref k mrk
+
+Revision 1.14  2011/02/15 14:10:22  revo
+Luiz Portella: kor. ref k mrk
+
+Revision 1.13  2010/01/28 17:30:33  revo
+-->
+</vortaro>

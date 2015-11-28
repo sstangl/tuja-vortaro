@@ -1,0 +1,165 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: mecena.xml,v 1.15 2015/07/04 08:37:39 revo Exp $">
+<kap>
+  <rad>mecenat</rad>/o <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="mecena.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="mecena.0o.BELA">
+    <dif>
+      Ri&ccirc;a homo a&ubreve; organiza&jcirc;o, kiu malavare favoras
+      belarton, sciencon a&ubreve; alian popularan aferon:
+      <ekz>
+        ni kapablas eldoni la revueton dank' al la subtenado de fervoraj
+        <tld/>oj
+        <fnt>
+        <aut>Shi Chengtai</aut>,
+        <vrk>S-ano &Jcirc;elezo forpasas...</vrk>,
+        <lok><url ref="http://www.elerno.net/penseo/pen46.htm">Penseo
+        numero 46a, 1994-04</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="patron.0o.protektanto">patrono <sncref/></ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_m;&c_e;&c_c;&c_e;&c_n;&c_a;&c_t;</trd>,
+    <trd>&c_f;&c_u;&c_n;&c_d;&c_a;&c_t;&c_a;&c_r;</trd>
+  </trdgrp>
+  <trd lng="ca">mecenes</trd>
+  <trdgrp lng="cs">
+    <trd>dobrodinec</trd>,
+    <trd>mecenáš</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>M&auml;zen</trd>,
+    <trd>Kunstfreund</trd>,
+    <trd>G&ouml;nner</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>patron</trd>,
+    <trd>supporter</trd>
+  </trdgrp>
+  <trd lng="fr">m&eacute;c&egrave;ne</trd>
+  <trdgrp lng="hu">
+    <trd>mec&eacute;n&aacute;s</trd>,
+    <trd>m&udblac;p&aacute;rtol&oacute;</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>mecenas</trd>,
+    <trd>kunstbeschermer</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>mecenas</trd>,
+    <trd>patrocinador <klr tip="amb">(subst.)</klr></trd>
+  </trdgrp>
+  <trd lng="ru">&c_m;&c_je;&c_c;&c_je;&c_n;&c_a;&c_t;</trd>
+  <trdgrp lng="sk">
+    <trd>dobrodinec</trd>,
+    <trd>mecenáš</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="mecena.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="mecena.0i.BELA">
+    <dif>
+      Helpi mone al nobla celo arta, scienca a&ubreve; simila:
+      <ekz>
+        li <klr>...</klr> <tld/>is plurajn Esperanto-organizojn
+        <fnt>
+        <bib>Viki</bib>,
+        <lok>artikolo &leftquot;Edwin Burg&rightquot;, 2005-12-20</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="patron.0i">patroni</ref>,
+      <ref cel="ten.sub0i">subteni</ref>,
+      <ref cel="subven.0i">subvencii</ref>
+    </refgrp>
+  </snc>
+  <trd lng="ca">patrocinar</trd>
+  <trdgrp lng="en">
+      <trd>support</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>soutenir<klr tip="amb"> (comme m&eacute;c&egrave;ne)</klr></trd>,
+    <trd>subventionner</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>praticar <ind>mecenatismo</ind></trd>,
+    <trd>agir como <ind>mecenas</ind></trd>,
+    <trd>patrocinar</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="mecena.0eco">
+  <kap><tld/>eco</kap>
+  <snc mrk="mecena.0eco.BELA">
+    <dif>
+      Rolo de <tld/>o:
+      <ekz>
+        la <tld/>eco estis tipa por la renesanca socio.
+        <fnt>
+        <bib>PIV2</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="patron.0eco">patroneco</ref>,
+      <ref cel="ten.sub0o">subteno</ref>,
+      <ref cel="subven.0o">subvencio</ref>
+    </refgrp>
+  </snc>
+  <trd lng="ca">mecenatge</trd>
+  <trd lng="cs">mecenášství</trd>
+  <trdgrp lng="en">
+      <trd>patronage</trd>,
+      <trd>support</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>m&eacute;c&eacute;nat</trd>,
+    <trd>sponsoring</trd>
+  </trdgrp>
+  <trd lng="sk">mecenášstvo</trd>
+</drv>
+</art>
+<!--
+$Log: mecena.xml,v $
+Revision 1.15  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.13  2012/08/19 18:10:26  revo
+Marc Rausell: + trd ca
+
+Revision 1.12  2008/01/06 17:30:18  revo
+Jeromo Vasxe: ~eco + marko snc, +  trd fr
+
+Revision 1.11  2007/12/26 17:30:41  revo
+Russ Williams: trd +en; mecenateco
+
+Revision 1.10  2006/07/30 16:31:51  revo
+Tulio Flores: +tr pt
+
+Revision 1.9  2006/01/13 17:31:16  revo
+Jeromo Vasxe: + ~i, ~o + ekz + "organizajxo" en dif + tez, + trd fr
+
+Revision 1.8 2004/06/08 16:31:43 revo
+Jozefo Horvath: +trd hu
+
+Revision 1.7 2003/05/19 19:36:56 revo
+Dmitri Gabinski: +trd be
+
+Revision 1.6 2002/01/08 19:25:22 revo
+-->
+</vortaro>

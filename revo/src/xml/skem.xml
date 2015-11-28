@@ -1,0 +1,265 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: skem.xml,v 1.24 2015/07/04 08:37:43 revo Exp $">
+<kap>
+  <ofc>4</ofc>
+  <rad>skem</rad>/o <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="skem.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="skem.0o.TEK">
+    <dif>
+      Teoria simpligita figura&jcirc;o, prezentanta maldetale ne la
+      formon sed la aran&gcirc;on kaj la rilatojn de io.
+    </dif>
+  </snc>
+  <refgrp tip="super">
+    <ref cel="plan.0o">plano</ref>,
+    <ref cel="model.0o.SCI">modelo</ref>,
+    <ref cel="strukt.0o.konstruo">strukturo</ref>
+  </refgrp>
+  <refgrp tip="vid">
+    <ref cel="diagra.0o">diagramo</ref>,
+    <ref cel="grafik.0ajxo">grafika&jcirc;o</ref>,
+    <ref cel="skelet.0o">skeleto</ref>,
+    <ref cel="skiz.0o">skizo</ref>,
+    <ref cel="sum.re0o">resumo</ref>.
+  </refgrp>
+  <trd lng="be">&c_s;&c_h;&c_je;&c_m;&c_a;</trd>
+  <trdgrp lng="de">
+    <trd>Schema</trd>,
+    <trd>Diagramm</trd>,
+    <trd>Plan</trd>,
+    <trd>Bild</trd>,
+    <trd>Darstellung</trd>,
+    <trd>Schema<ind>zeichnung</ind></trd>,
+    <trd>Modell</trd>,
+    <trd>Struktur</trd>,
+    <trd>Muster</trd>,
+    <trd>Organigramm</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>schema</trd>,
+    <trd>diagram</trd>,
+    <trd>model</trd>,
+    <trd>structure</trd>,
+    <trd>pattern</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>organigramme</trd>,
+    <trd>sch&eacute;ma</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>s&eacute;ma</trd>,
+    <trd>v&aacute;zlat</trd>
+  </trdgrp>
+  <trd lng="it">schema</trd>
+  <trdgrp lng="nl">
+    <trd>model</trd>,
+    <trd>schema</trd>
+  </trdgrp>
+  <trd lng="pl">schemat</trd>
+  <trd lng="ru">&c_s;&c_h;&c_je;&c_m;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>obrys</trd>,
+    <trd>osnova</trd>,
+    <trd>schéma</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>nástin</trd>,
+    <trd>obrys</trd>,
+    <trd>osnova</trd>,
+    <trd>schéma</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="skem.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="skem.0a.propre">
+    <dif>
+      Rilata al <tld/>o:
+      <ekz>
+	la <tld/>aj konvencioj
+	<klr>(kiel fari a&ubreve; legi <tld/>ojn)</klr>;
+      </ekz>
+      <ekz>
+	<tld/>a metodo <klr>(por solvi problemon ktp)</klr>;
+      </ekz>
+      <ekz>
+	<tld/>a nivelo.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_s;&c_h;&c_je;&c_m;&c_n;&c_y;</trd>
+    <trdgrp lng="hu">
+      <trd>s&eacute;ma-</trd>,
+      <trd>v&aacute;zlat</trd>
+    </trdgrp>
+    <trd lng="pl">schematyczny</trd>
+    <trd lng="ru">&c_s;&c_h;&c_je;&c_m;&c_n;&c_y;&c_j;</trd>
+  </snc>
+  <snc mrk="skem.0a.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <ref tip="dif" cel="skem.0eca"><tld/>eca</ref>
+    <trd
+    lng="be">&c_s;&c_h;&c_je;&c_m;&c_a;&c_t;&c_y;&c_ch;&c_n;&c_y;</trd>
+    <trdgrp lng="hu">
+      <trd>sematikus</trd>,
+      <trd>v&aacute;zlatos</trd>
+    </trdgrp>
+    <trd lng="pl">schematyczny</trd>
+    <trd
+    lng="ru">&c_s;&c_h;&c_je;&c_m;&c_a;&c_t;&c_i;&c_ch;&c_n;&c_y;&c_j;</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>neživotný</trd>,
+    <trd>schematický</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>schematisch</trd>,
+    <trd>null acht f&uuml;nfzehn</trd>
+  </trdgrp>
+  <trd lng="fr">sch&eacute;matique</trd>
+  <trd lng="it">schematico<klr> (a schema)</klr></trd>
+  <trd lng="sk">schematický</trd>
+</drv>
+
+<drv mrk="skem.0eca">
+  <kap><tld/>eca</kap>
+  <snc>
+    <dif>
+      Maldetala, resuma, kiel &gcirc;enerala <tld/>o a&ubreve; plano.
+    </dif>
+  </snc>
+  <trd
+  lng="be">&c_s;&c_h;&c_je;&c_m;&c_a;&c_t;&c_y;&c_ch;&c_n;&c_y;</trd>
+  <trd lng="de">schematisch</trd>
+  <trd lng="fr">sch&eacute;matique</trd>
+  <trdgrp lng="hu">
+    <trd>sematikus</trd>,
+    <trd>v&aacute;zlatos</trd>
+  </trdgrp>
+  <trd lng="it">schematico<klr> (schematicit&agrave;)</klr></trd>
+  <trd lng="pl">schematyczny</trd>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_h;&c_je;&c_m;&c_a;&c_t;&c_i;&c_ch;&c_n;&c_y;&c_j;</trd>,
+    <trd>&c_s;&c_h;&c_je;&c_m;&c_a;&c_t;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="skem.0ismo">
+  <kap><tld/>ismo</kap>
+  <snc mrk="skem.0ismo.ESP">
+    <uzo tip="fak">ESP</uzo>
+    <dif>
+      Tendenco, en evoluigo de lingvo (precipe de
+      <ctl>planlingvo</ctl>, kaj speciale Esperanto),
+      preferi la formojn raciajn, sistemajn kaj unuecajn
+      ol formojn fremdlingvajn, malsistemajn kaj ofte
+      redundajn:
+      <ekz>
+        la <tld/>ismaj projektoj (anka&ubreve; nomataj
+        <ctl>a&ubreve;tonomaj</ctl>)
+        prilaboras etnolingvan materialon la&ubreve; propraj <tld/>oj
+        &#8208; ili do aposteriore transprenas etnolingva&jcirc;ojn, sed
+        apriore modifas ilin
+        <fnt>
+          <aut>V. Barandovsk&aacute;-Frank</aut>,
+          <vrk><url
+          ref="http://www.uni-paderborn.de/extern/fb/2/Kyb.Paed/INT/04-int.htm">
+          Enkonduka lernolibro de interlingvistiko</url></vrk>,
+          <lok>1995</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="pur.0ismo.LIN">purismo</ref>
+    <ref tip="ant" cel="natura.0o.ESP">naturalismo</ref>
+    <trd lng="be">&c_s;&c_h;&c_je;&c_m;&c_a;&c_t;&c_y;&c_z;&c_m;</trd>
+    <trd lng="de">Schematismus</trd>
+    <trd lng="fr">sch&eacute;matisme</trd>
+    <trd lng="hu">sematizmus</trd>
+    <trd lng="it">schematismo</trd>
+    <trd lng="pl">schematyzm</trd>
+    <trdgrp lng="ru">
+      <trd>&c_p;&c_u;&c_r;&c_i;&c_z;&c_m;</trd>,
+      <trd>&c_r;&c_a;&c_c;&c_i;&c_o;&c_n;&c_a;&c_l;&c_i;&c_z;&c_m;</trd>,
+      <trd>&c_s;&c_i;&c_s;&c_t;&c_je;&c_m;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
+    </trdgrp>
+  </snc>
+</drv>
+
+<drv mrk="skem.flu0o">
+  <kap>flu<tld/>o<fnt> <bib>PIV3</bib></fnt></kap>
+  <snc mrk="skem.flu0o.TEK">
+    <dif>
+      Grafika&jcirc;o kiu prezentas sinsekvon de procedoj per vortoj kaj
+      interkonektantaj sagoj ekzemple por montri kiel funkcias
+      algoritmo, a&ubreve; kiel oni riparu aparaton.
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="instru1.0o.KOMUNE">instrukcio</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="de">
+    <trd>Flussdiagramm</trd>,
+    <trd>Ablaufplan</trd>
+  </trdgrp>
+  <trd lng="fr">diagramme de flux</trd>
+  <trdgrp lng="pl">
+    <trd>schemat blokowy</trd>,
+    <trd>diagram blokowy</trd>,
+    <trd>diagram przep&lstroke;ywu</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="skem.konekto0o">
+  <kap>konekto<tld/>o <fnt><bib>PIV3</bib></fnt></kap>
+  <snc mrk="skem.konekto0o.ELE">
+    <uzo tip="fak">ELE</uzo>
+    <dif>
+      Desegna&jcirc;o, montranta kiel &ccirc;iuj eroj de iu
+      <ref tip="vid" cel="cirkvi.0o.ELEKTR">cirkvito</ref>
+      (elektra sistemo) estas konektitaj a&ubreve; konektotaj.
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="instru1.0o.KOMUNE">instrukcio</ref>
+    </refgrp>
+    <trd lng="de">Schaltplan</trd>
+    <trd lng="pl">schemat elektryczny</trd>
+  </snc>
+</drv>
+</art>
+
+<!--
+$Log: skem.xml,v $
+Revision 1.24  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.23  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.22  2012/08/14 09:10:16  revo
+Neil Roberts: Korektis la nomon de la dosiero en la ligilo al 'strukturo'
+
+Revision 1.21  2012/01/08 11:10:08  revo
+Wolfram Diestel: tipigo de kelkaj referencoj
+
+Revision 1.20  2012/01/03 20:10:08  revo
+Wolfram Diestel: aldonis pli da referencoj kaj tradukoj
+
+Revision 1.19  2011/06/22 18:10:24  revo
+Jeromo Vasxe: kor. &amp;dash
+
+Revision 1.18  2010/12/08 19:04:35  revo
+Sebastian Cyprych: +konekto~o +flu~o +trd pl
+
+Revision 1.17  2009/12/13 17:30:36  revo
+Antonio Codazzi: +trd it
+
+Revision 1.16  2008/11/19 09:28:20  revo
+Russ Williams: redakto: +trd en
+
+Revision 1.15  2006/02/10 19:17:12  revo
+-->
+</vortaro>

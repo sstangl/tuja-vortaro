@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: afid.xml,v 1.21 2015/07/04 08:37:29 revo Exp $">
+<kap>
+  <rad>afid</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="afid.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="afid.0o.familio">
+    <dif>
+      Iu el <ref tip="malprt" cel="afided.0oj"><tld/>edoj</ref>.
+    </dif>
+    <trdgrp lng="de">
+      <trd>R&ouml;hrenlaus</trd>,
+      <trd>Blattlaus <klr tip="ind">(bestimmte)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>aphid</trd>,
+      <trd>aphis</trd>
+    </trdgrp>
+    <trdgrp lng="it">
+      <trd>afide</trd>,
+      <trd><ind>pidocchio</ind> delle piante</trd>
+    </trdgrp>
+    <trd lng="nl">luis</trd>
+    <trdgrp lng="pt">
+      <trd>pulg&atilde;o</trd>,
+      <trd>af&iacute;dio</trd>
+    </trdgrp>
+    <trd lng="hu">lev&eacute;ltet&udblac;</trd>
+  </snc>
+  <snc mrk="afid.0o.genro">
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:zoologiaj_genroj">Genro</ref> el familio <ref
+      tip="malprt"
+      cel="afided.0oj"><tld/>edoj</ref>
+      (<trd lng="la">Aphis</trd>):
+      <ekz>
+        <tld/>oj <klr>...</klr> volonte fordonas sian
+        dol&ccirc;an ekskrecion al formikoj
+        <fnt><bib>OriginoDeSpecioj</bib>, <lok>&ccirc;apitro 7a</lok></fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="it">
+      <trd>afidi</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="be">&c_t;&c_l;&c_ja;</trd>
+  <trd lng="cs">mšice</trd>
+  <trd lng="fr">puceron</trd>
+  <trd lng="pl">mszyca</trd>
+  <trd lng="ru">&c_t;&c_l;&c_ja;</trd>
+  <trdgrp lng="sk">
+    <trd>mšica</trd>,
+    <trd>vo&scaron;ka</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: afid.xml,v $
+Revision 1.21  2015/07/04 08:37:29  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.19  2013/09/01 13:10:33  revo
+Wolfram Diestel: referenco al listo zoo genroj
+
+Revision 1.18  2012/09/29 20:10:08  revo
+Jeromo Vasxe: + ekz
+
+Revision 1.17  2011/11/02 11:10:20  revo
+Antonio Codazzi: +trd it
+
+Revision 1.16  2004/06/01 17:23:46  revo
+Dmitri Gabinski: +trd be, pl
+
+Revision 1.15  2002/09/07 17:38:17  revo
+Viliam Bur: +sk trd
+
+Revision 1.14  2002/06/18 17:31:05  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.13  2002/02/14 17:38:33  revo
+Yury Finkel: +trd ru
+
+Revision 1.12 2002/01/08 19:26:37 revo
+-->
+</vortaro>

@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: biofizik.xml,v 1.5 2015/07/04 08:37:31 revo Exp $">
+<kap>
+  <rad>biofizik</rad>/o <fnt><bib>NePiv</bib></fnt>
+</kap>
+<drv mrk="biofizik.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="biofizik.0o.SCI">
+    <uzo tip="fak">BIO</uzo>
+    <uzo tip="fak">FIZ</uzo>
+    <uzo tip="fak">SCI</uzo>
+    <dif>
+      Apliko de <ref tip="malprt" cel="fizik.0o.FIZ">fizikaj</ref>
+      metodoj, mezuroj kaj principoj en
+      <ref tip="malprt" cel="biolog1.0o.SCI">biologia</ref> studo de 
+      viva&jcirc;oj:
+      <ekz>
+        Bruce Alberts <klr>...</klr> estas profesoro de bio&hcirc;emio kaj 
+        <tld/>o en Kalifornia Universitato
+        <fnt>
+          <aut>B. Alberts, k.a.</aut>,
+          <vrk><url
+          ref="http://www.volny.cz/espero-publ/eo/biologio.html">
+          Baza &ccirc;ela biologio</url></vrk>,
+          <lok>Espero Publishing, [2001?]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">biofyzika</trd>
+  <trd lng="es">biof&iacute;sica</trd>
+  <trd lng="fr">biophysique</trd>
+  <trd lng="nl">biofysica</trd>
+  <trd lng="sk">biofyzika</trd>
+</drv>
+
+<drv mrk="biofizik.0isto">
+  <kap><tld/>isto</kap>
+  <snc mrk="biofizik.0isto.SCI">
+    <uzo tip="fak">BIO</uzo>
+    <uzo tip="fak">FIZ</uzo>
+    <uzo tip="fak">SCI</uzo>
+    <dif>
+      Fakulo pri <ref tip="vid" cel="biofizik.0o.SCI"><tld/>o</ref>:
+      <ekz>
+        la <tld/>isto Sergej Kovaljov <klr>...</klr> redaktis sep 
+        numerojn de la gazeto
+        <fnt>
+          <aut>K. Kniivil&auml;</aut>,
+          <vrk><url
+          ref="http://www.kniivila.net/2008/naskightago-de-kontrausovetia-malpropagandilo/">
+          Naski&gcirc;tago de kontra&ubreve;sovetia malpropagandilo</url></vrk>,
+          <lok>diverse, 2008-05-01</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">biophysicien</trd>
+    <trd lng="es">biof&iacute;sico</trd>
+  <trd lng="nl">biofysicus</trd>
+</drv>
+</art>
+
+<!--
+$Log: biofizik.xml,v $
+Revision 1.5  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.4  2015/06/29 16:29:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.3  2010/04/14 06:05:49  revo
+Jose Antonio del Barrio: aldono de hispanaj tradukoj
+
+Revision 1.2  2009/09/05 16:31:00  revo
+Paul Peeraerts: +nl
+
+Revision 1.1  2009/08/30 16:31:15  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: katet.xml,v 1.15 2015/07/04 08:37:37 revo Exp $">
+<kap><rad>katet</rad>/o</kap>
+<drv mrk="katet.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>PIV1</bib></fnt>
+  <snc>
+    <dif>
+      <klr>(de <ref cel="angul.ort0a">ortangula</ref> <ref
+      cel="angul.tri0o">triangulo</ref>)</klr>
+      &Ccirc;iu el la lateroj de &gcirc;ia orta angulo; la longo de tia streko.
+    </dif>
+    <ref tip="vid" cel="hipote1.0o">hipotenuzo.</ref>
+  </snc>
+  <trd lng="be">&c_k;&c_a;&c_t;&c_e;&c_t;</trd>
+  <trd lng="cs">kočička</trd>
+  <trd lng="de">Kathete</trd>
+  <trd lng="en">other <ind>side</ind><klr tip="ind"> (of the right
+  angle)</klr></trd>
+  <trd lng="es">cateto</trd>
+  <trd lng="fa">&a_D;&a_l;&a_ayn; &a_q;&a_A;&a_y_hamza;&a_m;</trd>
+  <trdgrp lng="fr">
+    <trd>cath&egrave;te</trd>,
+    <trd>c&ocirc;t&eacute; de l'angle droit</trd>
+  </trdgrp>
+  <trd lng="hu">befog&oacute;</trd>
+  <trd lng="nl">kathete</trd>
+  <trd lng="pl">przyprostok&aogonek;tna</trd>
+  <trd lng="pt">cateto</trd>
+  <trd lng="ru">&c_k;&c_a;&c_t;&c_je;&c_t;</trd>
+  <trdgrp lng="sk">
+    <trd>mača</trd>,
+    <trd>mačička</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: katet.xml,v $
+Revision 1.15  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.13  2010/04/19 16:30:26  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.12  2004/05/12 16:31:46  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.11  2004/02/25 17:31:59  revo
+Alejandro Mejia Greene: ald 1 his trd
+
+Revision 1.10  2004/01/23 17:31:20  revo
+Luis Oliveira: +trd pt
+
+Revision 1.9  2003/05/12 16:32:28  revo
+Paul Peeraerts: ald trd nl + belarangho
+
+Revision 1.8 2003/01/02 17:47:19 revo
+Marc Bavant: +trd pl
+
+Revision 1.7 2002/10/27 17:11:48 revo
+Dmitri Gabinski: +trd be
+Revision 1.6 2002/05/02 16:37:24 revo
+Marc Bavant: +trd en
+-->
+</vortaro>

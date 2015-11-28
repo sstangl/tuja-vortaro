@@ -1,0 +1,132 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: ilumin.xml,v 1.18 2015/07/04 08:37:36 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>ilumin</rad>/i
+</kap>
+<drv mrk="ilumin.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      Ornami per lumiloj domojn, stratojn, parkojn, kc, okaze de festo.
+    </dif>
+  </snc>
+  <trd lng="be">&c_ib;&c_l;&c_ju;&c_m;&c_ib;&c_n;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="ca">il&middot;luminar, embellir amb llums</trd>
+  <trdgrp lng="cs">
+    <trd>iluminovat</trd>,
+    <trd>slavnostně osvětlit</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>beleuchten</trd>,
+    <trd>anstrahlen</trd>,
+    <trd>illuminieren</trd>
+  </trdgrp>
+  <trd lng="en">illuminate</trd>
+  <trd lng="es">iluminar</trd>
+  <trd lng="fr">illuminer<klr tip="ind"> (dans un but
+  d&eacute;coratif)</klr></trd>
+  <trd lng="hu">kivil&aacute;g&iacute;t</trd>
+  <trd lng="nl">verlichten</trd>
+  <trd lng="pt">iluminar<klr tip="amb"> (ornar com luzes)</klr></trd>
+  <trd lng="ru">&c_i;&c_l;&c_l;&c_ju;&c_m;&c_i;&c_n;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="sk">slávnostne osvetliť</trd>
+</drv>
+
+<drv mrk="ilumin.0ado">
+  <kap><tld/>ado</kap>
+  <snc>
+    <dif>
+      Ornama festa lumigado.
+    </dif>
+  </snc>
+  <trd lng="be">&c_ib;&c_l;&c_ju;&c_m;&c_ib;&c_n;&c_a;&c_c;&c_y;&c_ja;</trd>
+  <trd lng="ca">il&middot;luminaci&oacute; <klr>(per embellir)</klr></trd>
+  <trdgrp lng="cs">
+    <trd>iluminace</trd>,
+    <trd>slavnostní osvětlení</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Beleuchtung</trd>,
+    <trd>Illumination</trd>
+  </trdgrp>
+  <trd lng="es">iluminaci&oacute;n</trd>
+  <trd lng="fr">illumination<klr tip="ind"> (d&eacute;corative)</klr></trd>
+  <trd lng="hu">d&iacute;szkivil&aacute;g&iacute;t&aacute;s</trd>
+  <trd lng="nl">verlichting</trd>
+  <trd lng="pt">ilumina&ccedil;&atilde;o<klr tip="amb"> (a&ccedil;&atilde;o de ornar com
+  luzes)</klr></trd>
+  <trd lng="ru">&c_i;&c_l;&c_l;&c_ju;&c_m;&c_i;&c_n;&c_a;&c_c;&c_i;&c_ja;</trd>
+  <trdgrp lng="sk">
+    <trd>iluminácia</trd>,
+    <trd>slávnostné osvetlenie</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="ilumin.0ilo">
+  <kap><tld/>ilo</kap>
+  <snc>
+    <dif>
+      Ornama lumilo.
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="fajr">artfajra&jcirc;o</ref>,
+      <ref cel="lanter.0o">lanterno</ref>,
+      <ref cel="lampio.0o">lampiono</ref>.
+    </refgrp>
+  </snc>
+  <trdgrp lng="ca">
+    <trd>ll&agrave;ntia</trd>,
+    <trd>fanal</trd>,
+    <trd>llum (ornamentatiu)</trd>,
+    
+  </trdgrp>
+  <trd lng="cs">osvětlovací těleso</trd>
+  <trdgrp lng="de">
+    <trd>Leuchte</trd>,
+    <trd>Strahler</trd>
+  </trdgrp>
+  <trd lng="pt">l&acirc;mpada<klr tip="amb"> (ornamental)</klr></trd>
+  <trdgrp lng="ru">
+    <trd>&c_o;&c_s;&c_v;&c_je;&c_t;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j; &c_p;&c_r;&c_i;&c_b;&c_o;&c_r;</trd>,
+    <trd>&c_s;&c_o;&c_f;&c_i;&c_t;</trd>
+  </trdgrp>
+  <trd lng="sk">osvetľovacie teleso</trd>
+</drv>
+</art>
+<!--
+$Log: ilumin.xml,v $
+Revision 1.18  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.16  2011/12/07 20:10:17  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.15  2005/10/26 16:31:17  revo
+Luiz Portella: +trd pt
+
+Revision 1.14  2005/07/05 16:32:27  revo
+Yury Finkel: +trd ru
+
+Revision 1.13  2005/04/24 16:34:19  revo
+Raul Salinas Monteagudo: +trd ca,es
+
+Revision 1.12  2004/01/20 18:35:17  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.11  2004/01/08 17:31:19  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.10  2002/07/11 17:32:21  revo
+Ulrich Fellmann: + 5 pliaj trd de
+
+Revision 1.9  2002/01/24 17:32:28  revo
+-->
+</vortaro>

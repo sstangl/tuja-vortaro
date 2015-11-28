@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+   <art mrk="$Id: hxi1.xml,v 1.10 2013/12/20 11:10:10 revo Exp $">
+     <kap><rad>&hcirc;i</rad>/</kap>
+
+     <drv mrk="hxi1.0">
+       <kap><tld/></kap>
+       <snc>
+         <uzo tip="fak">LIN</uzo>
+         <uzo tip="fak">GRA</uzo>
+         <dif>
+           Nomo de la 22a litero de la greka alfabeto
+          (<frm>&Chi;&chi;</frm>), 
+           kiu respondas al &hcirc; en la alfabeto de Esperanto.
+         </dif>
+         <ref tip="hom" cel="hx.0.konsonanto">&hcirc;</ref>
+       </snc>
+       <trd lng="be">&c_h;&c_ib; <klr>(&c_g;&c_r;&c_e;&c_c;&c_k;&c_a;&c_ja; &c_l;&c_ib;&c_t;&c_a;&c_r;&c_a;)</klr></trd>
+       <trd lng="bg">&c_h;&c_i;<klr tip="amb"> (&c_g;&c_r;&c_malmol;&c_c;&c_k;&c_i; &c_b;&c_u;&c_k;&c_v;&c_a;)</klr></trd>
+       <trd lng="de">chi</trd>
+       <trd lng="en">chi</trd>
+       <trd lng="es">ji</trd>
+       <trd lng="fi">khii</trd>
+       <trd lng="fr">chi</trd>
+       <trd lng="hr">hi</trd>
+       <trd lng="nl">chi</trd>
+       <trd lng="ca">khi<klr tip="amb"> (letra grega)</klr></trd>
+       <trdgrp lng="pt">
+         <trd>qui</trd>,
+         <trd>chi</trd>
+       </trdgrp>
+       <trd lng="ru">&c_h;&c_i;</trd>
+       <trd lng="it">chi<klr tip="amb"> (lettera greca)</klr></trd>
+     </drv>
+
+   </art>
+
+   <!--
+   $Log: hxi1.xml,v $
+   Revision 1.10  2013/12/20 11:10:10  revo
+   Damien Brucker: +ref
+
+   Revision 1.9  2013/08/22 15:10:14  revo
+   Joop Eggen: +trd bg de en es fr hr nl; kor: sxangxis pt al ca por khi
+
+   Revision 1.8  2013/03/22 14:10:15  revo
+   Dmitri Gabinski: redakto: +trd be
+
+   Revision 1.7  2009/03/12 17:32:25  revo
+   Antonio Codazzi: +trd it
+
+   Revision 1.6  2007/06/15 16:30:45  revo
+   Harri Laine: +trd fi
+
+   Revision 1.5  2007/04/21 07:06:39  revo
+   Tulio Flores: +tr pt
+
+   Revision 1.4  2006/05/23 16:32:34  revo
+   Sebastian Cyprych: +trd pl
+
+   Revision 1.3  2005/10/22 17:22:56  revo
+   Luiz Portella: +trd pt
+
+   Revision 1.2  2004/11/29 17:31:22  revo
+   Sergio Pokrovskij: -tajperaro
+
+   Revision 1.1  2004/11/28 19:42:10  revo
+   Sergio Pokrovskij: nova artikolo
+
+   -->
+</vortaro>

@@ -1,0 +1,166 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: kinema1.xml,v 1.14 2015/07/04 08:37:37 revo Exp $">
+<kap>
+  <rad>kinematograf</rad>/o
+  <fnt>Z</fnt>
+</kap>
+<drv mrk="kinema1.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">KIN</uzo>
+  <snc>
+    <dif>
+      <ref tip="super" cel="projek.0ilo">Projekciilo</ref> de filmaj
+      lumbildoj,
+      kies multeco kaj rapideco naskas iluzion de efektiva movo.
+    </dif>
+  </snc>
+  <trd lng="be">&c_k;&c_ib;&c_n;&c_a;&c_p;&c_r;&c_a;&c_je;&c_k;&c_t;&c_a;&c_r;</trd>
+  <trdgrp lng="cs">
+    <trd>kinematograf</trd>,
+    <trd>promítací přístroj</trd>
+  </trdgrp>
+  <trd lng="de">Filmprojektor</trd>
+  <trdgrp lng="en">
+    <trd>film projector</trd>,
+    <trd>movie projector</trd>,
+    <trd>motion picture projector</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>cin&eacute;matographe<klr tip="ind"> (projecteur)</klr></trd>,
+    <trd>projecteur de cin&eacute;ma</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>filmvet&iacute;t&odblac; g&eacute;p</trd>,
+    <trd>kinematogr&aacute;f</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>cinematograaf<klr tip="ind"> (arch.)</klr></trd>,
+    <trd>filmprojector<klr tip="ind"> (arch.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_k;&c_i;&c_n;&c_je;&c_m;&c_a;&c_t;&c_o;&c_g;&c_r;&c_a;&c_f;</trd>,
+    <trd>&c_k;&c_i;&c_n;&c_o;&c_p;&c_r;&c_o;&c_je;&c_k;&c_t;&c_o;&c_r;</trd>
+  </trdgrp>
+  <trd lng="sk">premietací prístroj</trd>
+</drv>
+
+<drv mrk="kinema1.0ejo">
+  <kap><tld/>ejo</kap>
+  <uzo tip="fak">KIN</uzo>
+  <snc>
+    <ref tip="dif" cel="kin.0ejo">kinejo</ref>
+  </snc>
+  <trd lng="be">&c_k;&c_ib;&c_n;&c_a;&c_t;&c_e;&c_a;&c_t;&c_r;</trd>
+  <trdgrp lng="cs">
+    <trd>biograf</trd>,
+    <trd>kino</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Kino</trd>,
+    <trd>Filmtheater</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>cin&eacute;ma<klr tip="ind"> (lieu)</klr></trd>,
+    <trd>salle de <ind>cin&eacute;ma</ind></trd>
+  </trdgrp>
+  <trd lng="hu">filmsz&iacute;nh&aacute;z</trd>
+  <trd lng="nl">filmtheater<klr tip="ind"> (arch.)</klr></trd>
+  <trdgrp lng="ru">
+    <trd>&c_k;&c_i;&c_n;&c_o;&c_t;&c_je;&c_a;&c_t;&c_r;</trd>
+  </trdgrp>
+  <trd lng="sk">kino</trd>
+</drv>
+
+<drv mrk="kinema1.0ajxo">
+  <kap><tld/>a&jcirc;o</kap>
+  <uzo tip="fak">KIN</uzo>
+  <snc>
+    <ref tip="dif" cel="kin.0ajxo">kina&jcirc;o</ref>
+  </snc>
+  <trd lng="be">&c_k;&c_ib;&c_n;&c_a;&c_f;&c_ib;&c_l;&c_mol;&c_m;</trd>
+  <trd lng="de">Film</trd>
+  <trdgrp lng="fr">
+    <trd>film<klr tip="ind"> (&oelig;uvre cin&eacute;matographique)</klr></trd>,
+    <trd>&oelig;uvre cin&eacute;matographique</trd>
+  </trdgrp>
+  <trd lng="hu">mozifilm</trd>
+  <trd lng="nl">film<klr tip="ind"> (arch.)</klr></trd>
+  <trd lng="ru">&c_k;&c_i;&c_n;&c_o;&c_f;&c_i;&c_l;&c_mol;&c_m;</trd>
+</drv>
+
+<drv mrk="kinema1.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="kinema1.0i.projekcii">
+    <uzo tip="fak">KIN</uzo>
+    <fnt><bib>PV</bib></fnt>
+    <dif>
+      <ref tip="super" cel="projek.0i.FOT">Projekcii</ref> <tld/>ajn
+      bildojn.
+    </dif>
+    <trd lng="be">&c_p;&c_a;&c_k;&c_a;&c_z;&c_v;&c_a;&c_c;&c_mol;
+    <klr>(&c_k;&c_ib;&c_n;&c_a;&c_f;&c_ib;&c_l;&c_mol;&c_m;)</klr></trd>
+    <trd lng="fr">projeter<klr tip="ind"> (un film)</klr></trd>
+    <trd lng="nl">een film <ind>projecteren</ind><klr tip="ind">
+    (arch.)</klr></trd>
+    <trd lng="hu">filmet vet&iacute;t</trd>
+  </snc>
+  <snc mrk="kinema1.0i.">
+    <uzo tip="fak">KIN</uzo>
+    <fnt><bib>PIV1</bib></fnt>
+    <dif>
+      Registri <tld/>ajn bildojn.
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="film.0i">filmi</ref>,
+      <ref cel="kamera.0i">kamerai</ref>.
+    </refgrp>
+    <trd lng="fr">filmer</trd>
+    <trd lng="nl">filmen<klr tip="ind"> (ontr.)</klr></trd>
+  </snc>
+  <adm>
+    Eblas supozi, ke la unua senco estas ARK, sed la dua, kvankam pli
+    nova, estas senutila... Cetere, se ~i sinonimas kun "kamerai", eblas
+    konjekti, ke ~o ne estas nur projekciilo, sed povas esti ankaux
+    kamerao.
+    <aut>MB</aut>
+  </adm>
+  <trd lng="sk">filmovať</trd>
+  <trd lng="cs">filmovat</trd>
+</drv>
+</art>
+<!--
+$Log: kinema1.xml,v $
+Revision 1.14  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.13  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.12  2009/08/28 16:31:01  revo
+Paul Peeraerts: korekto en nl
+
+Revision 1.11  2004/12/13 17:32:42  revo
+Marc Bavant: mod trd fr; ~i: +snc, +adm
+
+Revision 1.10 2004/05/14 17:48:07 revo
+Jozefo Horvath: +trd hu
+
+Revision 1.9 2003/10/10 17:00:43 revo
+Jeromo Vasxe: fak - tea + kin, + tez + ref dif kinejo/ajxo, + trd fr
+
+Revision 1.8 2002/10/28 19:21:04 revo
+Dmitri Gabinski: +trd be
+
+Revision 1.7 2001/10/23 18:30:50 revo
+Ulrich Fellmann: + 4 germ trdj
+
+Revision 1.6 2001/10/07 18:20:15 revo
+jxerom vasxe: + fak tea
+
+Revision 1.5 2001/09/18 18:19:34 revo
+-->
+</vortaro>

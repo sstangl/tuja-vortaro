@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: hxord.xml,v 1.21 2013/08/31 19:10:21 revo Exp $">
+<kap>
+   <rad>&hcirc;ord</rad>/o
+</kap>
+<drv mrk="hxord.0o">
+   <kap><tld/>o</kap>
+   <uzo tip="fak">ZOO</uzo>
+   <snc>
+     <dif>
+       Elasta &scirc;nuro inter spina medolo kaj intesta tubo. &Ccirc;e
+       la vertebruloj nur la embrio havas &gcirc;in, poste
+       &gcirc;i estas anstata&ubreve;igata de la vertebraro.
+     </dif>
+   </snc>
+   <trd lng="be">&c_h;&c_o;&c_r;&c_d;&c_a;</trd>
+   <trd lng="ca">notocordi</trd>
+   <trd lng="de">R&uuml;ckensaite</trd>
+   <trd lng="en">notochord</trd>
+   <trd lng="es"><ind>cuerda</ind> dorsal</trd>
+   <trd lng="fi">selk&auml;j&auml;nne</trd>
+   <trdgrp lng="fr">
+     <trd>corde<klr tip="ind"> (notochorde)</klr></trd>,
+     <trd>chorde</trd>,
+     <trd>notochorde</trd>
+   </trdgrp>
+   <trd lng="hu">gerinch&uacute;r</trd>
+   <trd lng="la">chorda dorsalis</trd>
+   <trdgrp lng="nl">
+     <trd>chorda</trd>,
+     <trd>ruggestreng</trd>
+   </trdgrp>
+   <trdgrp lng="pl">
+     <trd>chorda</trd>,
+     <trd>struna grzbietowa</trd>
+   </trdgrp>
+   <trd lng="pt">notocorda</trd>
+   <trd lng="ru">&c_h;&c_o;&c_r;&c_d;&c_a; 
+<klr tip="amb">(&c_b;&c_i;&c_o;&c_l;.)</klr></trd>
+   <trd lng="sk">chorda</trd>
+   <trd lng="it">corda<klr tip="amb"> (zool., anat.)</klr></trd>
+</drv>
+
+<drv mrk="hxord.0uloj">
+   <kap><tld/>uloj</kap>
+   <uzo tip="fak">ZOO</uzo>
+   <snc>
+     <dif>
+       <ref tip="lst" cel="filum.0o.BIO"
+       lst="voko:zoologiaj_grupoj">Filumo</ref> de la <ref tip="malprt"
+       cel="best.0oj">bestoj</ref>
+       (<trd lng="la">Chordata</trd>), havantaj
+       <ref tip="prt" cel="hxord.0o"><tld/>on</ref>.
+     </dif>
+   </snc>
+   <trd lng="be">&c_h;&c_o;&c_r;&c_d;&c_a;&c_v;&c_y;&c_ja;</trd>
+   <trd lng="ca">cordats</trd>
+   <trd lng="en">chordates</trd>
+   <trd lng="es">cordados</trd>
+   <trd lng="fi">selk&auml;j&auml;nteiset</trd>
+   <trdgrp lng="fr">
+     <trd>cord&eacute;s<klr tip="ind"> (chord&eacute;s)</klr></trd>,
+     <trd>chord&eacute;s</trd></trdgrp>
+   <trd lng="de">Chordatiere</trd>
+   <trd lng="hu">gerinch&uacute;ros &aacute;llatok</trd>
+   <trd lng="nl">chordadieren</trd>
+   <trd lng="pl">strunowce</trd>
+   <trd lng="ru">&c_h;&c_o;&c_r;&c_d;&c_o;&c_v;&c_y;&c_je;<klr tip="amb"> 
+(&c_t;&c_i;&c_p;)</klr></trd>
+   <trd lng="sk">chord&aacute;ty</trd>
+   <trd lng="it">cordati</trd>
+</drv>
+</art>
+<!--
+$Log: hxord.xml,v $
+Revision 1.21  2013/08/31 19:10:21  revo
+Wolfram Diestel: referencoj al listo zoo grupoj
+
+Revision 1.20  2011/12/07 19:10:12  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.19  2009/08/20 16:30:42  revo
+Russ Williams: korekti en
+
+Revision 1.18  2009/03/13 17:30:52  revo
+Antonio Codazzi: +trd it
+
+Revision 1.17  2009/03/06 17:31:18  revo
+Marcus Curdeius: +pl
+
+Revision 1.16  2008/11/07 17:30:44  revo
+Wieland Pusch: tradukoj de la snc al la drv
+
+Revision 1.15  2007/06/16 16:30:44  revo
+Harri Laine: +trd fi
+
+Revision 1.14  2007/04/21 07:06:45  revo
+-->
+</vortaro>

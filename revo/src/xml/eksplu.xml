@@ -1,0 +1,166 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: eksplu.xml,v 1.20 2015/07/04 08:37:33 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>ekspluat</rad>/i
+</kap>
+<drv mrk="eksplu.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      Uzadi ion, valorigante &gcirc;in por sia profito:
+      <ekz>
+        <tld/>i minejon, fervojon, firmon, gazeton;
+      </ekz>
+      <ekz>
+        malbone <tld/>ita kolonio;
+      </ekz>
+      <ekz>
+        <tld/>i bienon, fabrikon;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        <tld/>i sian kapablon;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        &scirc;i ne scius <tld/>i sian influon al la princo
+        <fnt><bib>Far1</bib>, <lok>&ccirc;ap. 16</lok></fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        <tld/>i la publikan scivolemon.
+      </ekz>
+    </dif>
+    <trd lng="de">abbauen <klr tip="ind"> (Rohstoffe)</klr></trd>
+    <trdgrp lng="hu">
+      <trd>kiakn&aacute;z</trd>,
+      <trd>hasznos&iacute;t</trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>eksploatowa&cacute;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="eksplu.0i.EKON">
+    <uzo tip="fak">EKON</uzo>
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      Troprofiti el ies laboro, ne donante justan kompenson:
+      <ekz>
+        <tld/>i proletaron;
+      </ekz>
+      <ekz>
+        la premata kaj <tld/>ata popolo
+        <fnt><bib>Far1</bib>, <lok>Anta&ubreve;parolo</lok></fnt>;
+      </ekz>
+      <ekz>
+        <tld/>i la klientojn.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="sucx.el0i">elsu&ccirc;i</ref>,
+      <ref cel="plum">senplumigi</ref>.
+    </refgrp>
+    <refgrp tip="vid">
+      <ref cel="ung.0ego">ungego</ref>.
+    </refgrp>
+    <trd lng="de">r&uuml;cksichtslos ausnutzen</trd>
+    <trd lng="en">take unfair advantage of</trd>
+    <trd lng="hu">kizs&aacute;km&aacute;nyol</trd>
+    <trdgrp lng="pl">
+      <trd>eksploatowa&cacute;</trd>,
+      <trd>wykorzystywa&cacute;</trd>,
+      <trd>wyzyskiwa&cacute;</trd>,
+      <trd>zdziera&cacute;<klr> (pot.)</klr></trd>
+    </trdgrp>
+  </snc>
+  <snc>
+    <dif>
+      Trouzi:
+      <ekz>
+        <tld/>i ies paciencon.
+      </ekz>
+    </dif>
+    <trd lng="de">&uuml;berstrapazieren</trd>
+    <trd lng="hu">vissza&eacute;l</trd>
+  </snc>
+  <trd
+  lng="be">&c_e;&c_k;&c_s;&c_p;&c_l;&c_ju;&c_a;&c_t;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="ca">explotar</trd>
+  <trdgrp lng="cs">
+    <trd>odřít</trd>,
+    <trd>vykořistit</trd>,
+    <trd>vykořisťovat</trd>,
+    <trd>využít</trd>,
+    <trd>využívat</trd>,
+    <trd>zneužít</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>ausnutzen</trd>,
+    <trd>ausbeuten</trd>
+  </trdgrp>
+  <trd lng="en">exploit</trd>
+  <trd lng="es">explotar</trd>
+  <trd lng="fr">exploiter</trd>
+  <trd lng="pl">wykorzystywa&cacute;</trd>
+  <trd lng="pt">explorar</trd>
+  <trd
+  lng="ru">&c_e;&c_k;&c_s;&c_p;&c_l;&c_u;&c_a;&c_t;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>dobývať</trd>,
+    <trd>vykorisťovať</trd>,
+    <trd>využívať</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="eksplu.0egi">
+  <kap><tld/>egi<fnt>B</fnt></kap>
+  <snc>
+    <dif>
+      <tld lit="E"/>i 2 kaj 3.
+    </dif>
+    <trd lng="ca">abusar</trd>
+    <trdgrp lng="pl">
+      <trd>wykorzystywa&cacute;</trd>,
+      <trd>wyzyskiwa&cacute;</trd>,
+      <trd>zdziera&cacute;<klr> (pot.)</klr></trd>
+    </trdgrp>
+  </snc>
+</drv>
+</art>
+<!--
+$Log: eksplu.xml,v $
+Revision 1.20  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2012/09/05 09:10:14  revo
+Marc Rausell: + trd ca
+
+Revision 1.17  2009/09/23 17:25:49  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.16  2009/03/01 17:34:48  revo
+Russ Williams: +trd en
+
+Revision 1.15  2007/06/23 16:31:01  revo
+Tulio Flores: +tr pt
+
+Revision 1.14  2007/02/02 17:30:21  revo
+Eduardo Navas: +trd es
+
+Revision 1.13  2003/12/16 17:31:58  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.12  2003/08/08 16:31:12  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.11  2003/04/21 16:32:35  revo
+-->
+</vortaro>

@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: molusk.xml,v 1.19 2013/10/31 11:10:22 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>molusk</rad>/oj <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="molusk.0oj">
+  <kap><tld/>oj</kap>
+  <snc mrk="molusk.0oj.ZOO">
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      <ref tip="lst" cel="filum.0o"
+      lst="voko:zoologiaj_grupoj">Filumo</ref> 
+      de senvertebraj, dusimetriaj, molkorpaj
+      <ref tip="malprt" cel="best.0oj">bestoj</ref>
+      (<trd lng="la">Mollusca</trd>).
+    </dif>
+    <refgrp tip="prt">
+      <ref cel="cefalo.0oj">cefalopodoj</ref>,
+      <ref cel="gastro2.0oj">gastropodoj</ref>,
+      <ref cel="valv.du0uloj">duvalvuloj</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_m;&c_a;&c_l;&c_ju;&c_s;&c_k;&c_ib;</trd>
+  <trd lng="de">Weichtiere</trd>
+  <trdgrp lng="en">
+    <trd>mollusca</trd>,
+    <trd>molluscs</trd>,
+    <trd>mollusks</trd>
+  </trdgrp>
+  <trd lng="fr">mollusques</trd>
+  <trd lng="hu">puhatest&udblac;ek</trd>
+  <trd lng="nl">weekdieren</trd>
+  <trd lng="pl">mi&eogonek;czaki</trd>
+  <trd lng="pt">moluscos</trd>
+  <trd lng="ru">&c_m;&c_o;&c_l;&c_l;&c_ju;&c_s;&c_k;&c_i;</trd>
+</drv>
+</art>
+<!--
+$Log: molusk.xml,v $
+Revision 1.19  2013/10/31 11:10:22  revo
+Wolfram Diestel: kor. ref-tip
+
+Revision 1.18  2013/10/20 13:10:14  revo
+Wolfram Diestel: kor. ref-tip
+
+Revision 1.17  2013/08/31 18:10:12  revo
+Wolfram Diestel: du~uloj: referenco al listo zoogrupoj
+
+Revision 1.16  2013/04/08 13:10:44  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.15  2009/12/06 17:30:33  revo
+Jeromo Vasxe: + mrk + trd fr
+
+Revision 1.14  2009/08/18 19:20:11  revo
+Russ Williams: +trd en
+
+Revision 1.13  2006/08/07 16:32:38  revo
+Tulio Flores: +tr pt
+
+Revision 1.12  2003/06/05 16:30:36  revo
+-->
+</vortaro>

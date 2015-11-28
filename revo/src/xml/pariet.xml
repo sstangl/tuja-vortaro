@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: pariet.xml,v 1.14 2015/07/04 08:37:41 revo Exp $">
+<kap>
+  <rad>pariet</rad>/o
+</kap>
+<drv mrk="pariet.0">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">BIO</uzo>
+  <fnt><bib>PIV1</bib></fnt>
+  <snc>
+    <dif>
+      &Ccirc;irka&ubreve;ferma&jcirc;o de organa kava&jcirc;o:
+      <ekz>
+        Fakte, oni prave diras, ke la polenero korespondas specife al
+        &leftquot;fingrospuro&rightquot; de la planto, &ccirc;ar &ccirc;iu
+plantspecio produktas polenon
+        rekoneblan la&ubreve; &gcirc;ia dimensio, &gcirc;ia formo kaj
+la&ubreve; la ornamado de &gcirc;ia
+        interna <tld/>o
+        <fnt><aut>Robert ROZE</aut>:
+        <vrk><url ref="&Monato;/005775.html">Vivisekcio de
+polenero</url></vrk>,
+        <bib>Monato</bib>,
+        <lok>n-ro 11/1997</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>oj de kranio, de stomako.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_mol;&c_c;&c_je;&c_n;&c_k;&c_a; <klr tip="amb">(&c_u;&c_n;&c_u;&c_t;&c_r;&c_a;&c_n;&c_a;&c_g;&c_a; &c_v;&c_o;&c_r;&c_g;&c_a;&c_n;&c_a;)</klr></trd>
+  <trdgrp lng="cs">
+    <trd>podšívka</trd>,
+    <trd>rub</trd>,
+    <trd>vnitřní strana</trd>
+  </trdgrp>
+  <trd lng="hu">fal<klr tip="amb"> (szerv&eacute;)</klr></trd>
+  <trd lng="it">parete<klr> (anat.)</klr></trd>
+  <trd lng="ru">&c_s;&c_t;&c_je;&c_n;&c_k;&c_a; <klr tip="amb">(&c_o;&c_r;&c_g;&c_a;&c_n;&c_a;)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>rub</trd>,
+    <trd>vnútorná strana</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="pariet.0osto">
+  <kap><tld/>osto</kap>
+  <uzo tip="fak">ANA</uzo>
+  <fnt><bib>PIV1</bib></fnt>
+  <snc>
+    <dif>
+      &Ccirc;iu el la du <ref tip="super" cel="ost.0o">osto</ref>j de la
+homa
+      <ref tip="malprt" cel="skelet.0o.ANA">skeleto</ref>, formantaj la
+      flankojn kaj la supron de la <ref tip="malprt"
+      cel="krani.0o">kranio</ref>.
+    </dif>
+    <ref tip="sin" cel="parietal.0o">parietalo</ref>
+    <refgrp tip="vid">
+      <ref cel="frunt.0osto">fruntosto</ref>,
+      <ref cel="okcipi.0osto">okcipitosto</ref>,
+      <ref cel="temporal.0o">temporalo</ref>.
+    </refgrp>
+  </snc>
+  <trd lng="cs">kost temenní</trd>
+  <trd lng="de">Scheitelbein</trd>
+  <trd lng="hu">falcsont</trd>
+  <trd lng="it">osso <ind>parietale</ind></trd>
+  <trd lng="nl">wandbeen</trd>
+  <trd lng="pl">ko&sacute;&cacute; ciemieniowa</trd>
+  <trd lng="ru">&c_t;&c_je;&c_m;&c_je;&c_n;&c_n;&c_a;&c_ja;
+&c_k;&c_o;&c_s;&c_t;&c_mol;</trd>
+  <trd lng="sk">temenná kosť</trd>
+</drv>
+</art>
+<!--
+$Log: pariet.xml,v $
+Revision 1.14  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.13  2015/06/29 16:40:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.12  2010/12/09 17:31:19  revo
+Antonio Codazzi: +trd it
+
+Revision 1.11  2005/03/29 16:33:13  revo
+Vito Redsky: +trd pl
+
+Revision 1.10  2004/12/17 17:31:13  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.9  2002/06/04 18:01:44  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.8  2001/12/11 18:25:40  revo
+Yury Finkel: +trd ru
+
+Revision 1.7 2001/10/09 18:44:55 revo
+Paul Peeraerts: kor de tajperaro
+
+Revision 1.6 2001/10/08 18:16:52 revo
+Paul Peeraerts: aldonis ref - dividis ~o disde ~osto - aldonis ekz
+
+Revision 1.5 2001/08/22 18:14:28 revo
+-->
+</vortaro>

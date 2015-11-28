@@ -1,0 +1,295 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: krist.xml,v 1.42 2015/07/04 08:37:38 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>Krist</rad>/o <fnt><bib></bib></fnt>
+</kap>
+
+<drv mrk="krist.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="krist.0o.KRI">
+    <uzo tip="fak">KRI</uzo>
+    <dif>
+      Grekdevena kristana formo de la vorto
+      <ref tip="sin" cel="mesi.0o.REL">mesio</ref>, uzata kiel
+      nomepiteto de Jesuo la fondinto de
+      <ref tip="malprt" cel="krist.0anismo"><tld lit="k"/>anismo</ref>.
+    </dif>
+    <rim>
+      La&ubreve;sence, tiu nomepiteto devus havi la difinan artikolon:
+      <ekz>
+        jes, Sinjoro, mi jam kredas, ke vi estas la <tld/>o,
+        la Filo de Dio, la venanta en la mondon
+        <fnt><bib>NT</bib>, <lok>&Joh; 11:27</lok></fnt>.
+      </ekz>
+      Tamen la plimulto da <tld lit="k"/>anoj diras <ctl>Jesuo
+      <tld/>o</ctl> 
+      (kvankam en la samsenca <ctl>Jesuo la Mesio</ctl> la artikolo pli 
+      oftas).
+    </rim>
+  </snc>
+  <trd lng="be">&c_H;&c_r;&c_y;&c_s;&c_t;&c_o;&c_s;</trd>
+  <trd lng="bg">&c_H;&c_r;&c_i;&c_s;&c_t;&c_o;&c_s;</trd>
+  <trdgrp lng="cs">
+    <trd>Mesiáš</trd>,
+    <trd>Spasitel</trd>
+  </trdgrp>
+  <trd lng="de">Christus</trd>
+  <trd lng="en">Christ</trd>
+  <trd lng="es">Cristo</trd>
+  <trd lng="fr">christ</trd>
+  <trd lng="hu">Krisztus</trd>
+  <trd lng="id">Kristus</trd>
+  <trd lng="nl">Christus</trd>
+  <trd lng="pl">Chrystus</trd>
+  <trd lng="pt">Cristo</trd>
+  <trd lng="ru">&c_H;&c_r;&c_i;&c_s;&c_t;&c_o;&c_s;</trd>
+  <trd lng="sk">Mesiáš</trd>
+</drv>
+
+<drv mrk="krist.0ano">
+  <kap><ofc>*</ofc><tld lit="k"/>ano</kap>
+  <snc mrk="krist.0ano.KRI">
+    <uzo tip="fak">KRI</uzo>
+    <dif>
+      Kredanto je la doktrino de <tld/>o:
+      <ekz>
+        la predikisto metis al &scirc;i la manon sur la kapon kaj
+        parolis pri la sankta
+        bapto <klr>...</klr> kaj ke &scirc;i de nun devas konduti kiel
+        plenkreska <ind><tld lit="k"/>anino</ind>
+        <fnt><bib>Fab2</bib>, <lok>Ru&gcirc;aj &scirc;uoj</lok></fnt>.
+        <trd lng="ru">&c_h;&c_r;&c_i;&c_s;&c_t;&c_i;&c_a;&c_n;&c_k;&c_a;</trd>
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_h;&c_r;&c_y;&c_s;&c_mol;&c_c;&c_ib;&c_ja;&c_n;&c_ib;&c_n;</trd>
+  <trd lng="bg">&c_h;&c_r;&c_i;&c_s;&c_t;&c_i;&c_ja;&c_n;&c_i;&c_n;</trd>
+  <trd lng="de">Christ</trd>
+  <trd lng="fr">chr&eacute;tien<klr> (subst.)</klr></trd>
+  <trd lng="en">christian</trd>
+  <trd lng="hu">kereszt&eacute;ny</trd>
+  <trdgrp lng="nl">
+    <trd>christen</trd>,
+    <trd>christenmens</trd>
+  </trdgrp>
+  <trd lng="pl">chrze&sacute;cijanin</trd>
+  <trd lng="ru">&c_h;&c_r;&c_i;&c_s;&c_t;&c_i;&c_a;&c_n;&c_i;&c_n;</trd>
+</drv>
+
+<drv mrk="krist.0anismo">
+  <kap><tld lit="k"/>anismo</kap>
+  <snc mrk="krist.0anismo.KRI">
+    <tezrad fak="KRI"/>
+    <uzo tip="fak">KRI</uzo>
+    <dif>
+      <ref tip="lst" cel="religi.0o.REL"
+      lst="voko:religioj">Religio</ref>
+      agnoskanta ke
+      <ref cel="jesu.0o.homo">Jesuo el Nazareto</ref> estas
+      la <tld/>o (la mesio, la savinto de la homaro, la filo
+      de Dio);
+      <ref tip="sin" cel="krist.0ismo"><tld lit="k"/>ismo</ref>.
+    </dif>
+  </snc>
+<!--  
+  <tez tip="listo" mrk="krist.0anajfestoj"
+  cel="krist.0anismo">Kristanaj festoj</tez>
+  <tez tip="listo" mrk="krist.0anajkonfesioj"
+  cel="krist.0anismo">Kristanaj konfesioj</tez> -->
+  <trd lng="be">&c_h;&c_r;&c_y;&c_s;&c_mol;&c_c;&c_ib;&c_ja;&c_n;&c_s;&c_t;&c_v;&c_a;</trd>
+  <trd lng="bg">&c_h;&c_r;&c_i;&c_s;&c_t;&c_i;&c_ja;&c_n;&c_s;&c_t;&c_v;&c_o;</trd>
+  <trd lng="en">christianity</trd>
+  <trd lng="de">Christentum</trd>
+  <trd lng="fr">christianisme</trd>
+  <trd lng="hu">kereszt&eacute;nys&eacute;g</trd>
+  <trd lng="id">Kristen</trd>
+  <trd lng="nl">christendom</trd>
+  <trd lng="pl">chrze&sacute;cija&nacute;stwo</trd>
+  <trd lng="ru">&c_h;&c_r;&c_i;&c_s;&c_t;&c_i;&c_a;&c_n;&c_s;&c_t;&c_v;&c_o;</trd>
+</drv>
+
+<drv mrk="krist.okcidenta0anismo">
+  <kap>okcidenta <tld lit="k"/>anismo</kap>
+  <snc mrk="krist.okcidenta0anismo.KRI">
+    <dif>
+      La formoj de
+      <ref tip="malprt" cel="krist.0anismo"><tld lit="k"/>anismo</ref>
+      evoluintaj el la tradicioj de la okcidenta (latina) parto de
+      Romio;
+      <ref tip="prt" cel="katoli.0ismo">katolikismo</ref>,
+      <ref tip="prt" cel="protes1.0ismo">protestantismo</ref>.
+    </dif>
+  </snc>
+  <trd lng="be">&c_z;&c_a;&c_h;&c_o;&c_d;&c_n;&c_ja;&c_je; &c_h;&c_r;&c_y;&c_s;&c_mol;&c_c;&c_ib;&c_ja;&c_n;&c_s;&c_t;&c_v;&c_a;</trd>
+  <trd lng="en">Western Christianity</trd>
+  <trd lng="fr">christianisme occidental</trd>
+  <trd lng="hu">nyugati <ind>kereszt&eacute;nys&eacute;g</ind></trd>
+  <trd lng="nl">westers <ind>christendom</ind></trd>
+  <trd lng="pl">zachodnie <ind>chrze&sacute;cija&nacute;stwo</ind></trd>
+  <trd lng="ru">&c_z;&c_a;&c_p;&c_a;&c_d;&c_n;&c_o;&c_je; &c_h;&c_r;&c_i;&c_s;&c_t;&c_i;&c_a;&c_n;&c_s;&c_t;&c_v;&c_o;</trd>
+</drv>
+
+<drv mrk="krist.orienta0anismo">
+  <kap>orienta <tld lit="k"/>anismo</kap>
+  <snc mrk="krist.orienta0anismo.KRI">
+    <dif>
+      La formoj de
+      <ref tip="malprt" cel="krist.0anismo.KRI"><tld
+      lit="k"/>anismo</ref>
+      evoluintaj el la tradicioj de la orienta (greklingva) parto de
+      Romio:
+      la <ref tip="prt" cel="ortodo.0ismo">ortodoksismo</ref> kaj
+      la ne-&Hcirc;alkedona <tld lit="k"/>anismo armena, kopta, etiopa.
+    </dif>
+  </snc>
+  <trd lng="be">&c_u;&c_s;&c_h;&c_o;&c_d;&c_n;&c_ja;&c_je; &c_h;&c_r;&c_y;&c_s;&c_mol;&c_c;&c_ib;&c_ja;&c_n;&c_s;&c_t;&c_v;&c_a;</trd>
+  <trd lng="de">Ostkirche</trd>
+  <trd lng="en">Eastern Christianity</trd>
+  <trd lng="fr">christianisme oriental</trd>
+  <trd lng="hu">keleti <ind>kereszt&eacute;nys&eacute;g</ind></trd>
+  <trd lng="nl">oosters christendom</trd>
+  <trd lng="pl">wschodnie <ind>chrze&sacute;cija&nacute;stwo</ind></trd>
+  <trd lng="ru">&c_v;&c_o;&c_s;&c_t;&c_o;&c_ch;&c_n;&c_o;&c_je; &c_h;&c_r;&c_i;&c_s;&c_t;&c_i;&c_a;&c_n;&c_s;&c_t;&c_v;&c_o;</trd>
+</drv>
+
+<drv mrk="krist.0ismo">
+  <kap><tld lit="k"/>ismo</kap>
+  <uzo tip="stl">RAR</uzo>
+  <snc mrk="krist.0ismo.KRI">
+    <uzo tip="fak">KRI</uzo>
+    <ref tip="dif" cel="krist.0anismo"><tld lit="k"/>anismo</ref>
+    <ekz>
+      li versas pri <klr>[...]</klr> <tld lit="k"/>ismo en
+      <klr>[...]</klr>
+      <ctl>Nova Le&gcirc;o</ctl>
+      <fnt><aut>G. Kama&ccirc;o</aut>,
+      <vrk>Berveling, poeto sentabua</vrk>,
+      <bib>Monato</bib>, <lok>1994:12, p.
+      22a</lok></fnt>.
+    </ekz>
+  </snc>
+  <trd
+  lng="be">&c_h;&c_r;&c_y;&c_s;&c_mol;&c_c;&c_ib;&c_ja;&c_n;&c_s;&c_t;&c_v;&c_a;</trd>
+  <trd lng="en">christianity</trd>
+  <trd lng="de">Christentum</trd>
+  <trd lng="fr">christianisme</trd>
+  <trd lng="hu">Krisztus-hit</trd>
+  <trd lng="nl">christendom</trd>
+  <trd lng="ru">&c_h;&c_r;&c_i;&c_s;&c_t;&c_i;&c_a;&c_n;&c_s;&c_t;&c_v;&c_o;</trd>
+</drv>
+
+<drv mrk="krist.0anujo">
+  <kap><tld/>anujo</kap>
+  <snc mrk="krist.0anujo.KRI">
+    <dif>
+      La tuta <tld lit="k"/>ana mondo, &ccirc;iuj <tld lit="k"/>anaj
+      landoj kiel unu tuto (kontraste al Paganujo, Islamujo ktp):
+      <ekz>
+        la edzino de Hejtman Mi&hcirc;aelo vestos atlason kaj
+        diamantojn en duono de la kortegoj en <tld/>anujo
+        <fnt>
+        <aut>J. B. Cabell, trad. W. Auld</aut>:
+        <vrk>Jurgen</vrk>.
+        <lok>2001</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="en">Christendom</trd>
+  <trd lng="fr">chr&eacute;tient&eacute;</trd>
+  <trd lng="hu">kereszt&eacute;ny vil&aacute;g</trd>
+  <trd lng="nl">christelijke <ind>wereld</ind></trd>
+  <trdgrp lng="ru">
+    <trd>&c_h;&c_r;&c_i;&c_s;&c_t;&c_i;&c_a;&c_n;&c_s;&c_k;&c_i;&c_j; &c_m;&c_i;&c_r;</trd>,
+    <trd>&c_h;&c_r;&c_i;&c_s;&c_t;&c_i;&c_a;&c_n;&c_s;&c_t;&c_v;&c_o;<klr tip="amb">
+    (&c_s;&c_o;&c_b;&c_i;&c_r;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_o;)</klr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="krist.0nasko">
+  <kap><ofc>*</ofc><tld/>nasko</kap>
+  <snc mrk="krist.0nasko.KRI">
+    <uzo tip="fak">KRI</uzo>
+    <dif>
+      Granda kristana
+      <ref tip="lst" cel="fest.0o" lst="voko:festoj">festo</ref>,
+      memoriganta la naski&gcirc;on de Jesuo la <tld/>o (en la
+      plimulto de la
+      modernaj eklezioj festata je la 25a de decembro, en la
+      antikva eklezio kaj &ccirc;e la armenoj samtage kiel
+      <ref cel="epifan.0o">Epifanio</ref>, je la 6a de januaro):
+      <ekz>
+        jam anta&ubreve; la <tld/>nasko de 1812 en la Rusa Imperio
+        restis neniu armita malamiko
+        <fnt><aut>S. Pokrovskij</aut>, <vrk>Moskvo jubileas</vrk>,
+        <bib>Monato</bib><lok>1997:9, p.
+        22a</lok></fnt>.
+      </ekz>
+      <ekz>
+        <ind>Gajan kristnaskon</ind> kaj feli&ccirc;an novan jaron 2006!
+        <fnt><bib>Viki</bib><lok><url
+        ref="http://eo.wikipedia.org/w/index.php?title=Feli%C4%89o&amp;oldid=3093611">Feli&ccirc;o</url></lok></fnt>
+        <trd lng="bg">&c_V;&c_je;&c_s;&c_je;&c_l;&c_a; &c_K;&c_o;&c_l;&c_je;&c_d;&c_a;</trd>
+        <trd lng="de">Frohe Weihnachten</trd>
+        <trd lng="nl">Zalig kerstfeest</trd>
+      </ekz>      
+    </dif>
+  </snc>
+  <trd lng="be">&c_N;&c_a;&c_r;&c_a;&c_d;&c_zh;&c_e;&c_n;&c_mol;&c_n;&c_je; &c_H;&c_r;&c_y;&c_s;&c_t;&c_o;&c_v;&c_a;&c_je;</trd>
+  <trd lng="bg">&c_K;&c_o;&c_l;&c_je;&c_d;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>Hod boží vánoční</trd>,
+    <trd>Vánoce</trd>
+  </trdgrp>
+  <trd lng="de">Weihnachten</trd>
+  <trd lng="en">Christmas</trd>
+  <trd lng="es">navidad</trd>
+  <trd lng="fr">No&euml;l<klr> (f&ecirc;te)</klr></trd>
+  <trd lng="hu">kar&aacute;csony</trd>
+  <trd lng="id">Natal</trd>
+  <trdgrp lng="nl">
+    <trd>kerstdag</trd>,
+    <trd>kerstfeest</trd>
+  </trdgrp>
+  <trd lng="pl">Bo&zdot;e Narodzenie</trd>
+  <trd lng="ro">Cr&abreve;ciunul</trd>
+  <trd lng="ru">&c_R;&c_o;&c_zh;&c_d;&c_je;&c_s;&c_t;&c_v;&c_o; &c_H;&c_r;&c_i;&c_s;&c_t;&c_o;&c_v;&c_o;</trd>
+  <trd lng="sk">narodenie Pána</trd>
+</drv>
+</art>
+<!--
+$Log: krist.xml,v $
+Revision 1.42  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.41  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.40  2014/12/11 00:10:59  revo
+Jeromo Vasxe: + ref lst festo
+
+Revision 1.39  2014/06/04 16:10:32  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.38  2014/02/08 10:10:25  revo
+Damien Brucker: -eraro cxe ref
+
+Revision 1.37  2013/09/22 19:11:01  revo
+Wolfram Diestel: referenco al listo religioj
+
+Revision 1.36  2011/11/15 07:10:09  revo
+Wieland Pusch: fnt url
+
+Revision 1.35  2009/08/12 16:30:42  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.34  2008/12/26 18:42:14  revo
+Wieland Pusch: +trd bg
+
+Revision 1.33  2007/12/26 17:30:25  revo
+-->
+</vortaro>

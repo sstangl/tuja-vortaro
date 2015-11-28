@@ -1,0 +1,117 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: detekt.xml,v 1.14 2015/07/04 08:37:32 revo Exp $">
+<kap>
+<rad>detekt</rad>/i
+</kap>
+<drv mrk="detekt.0i">
+  <kap><tld/>i</kap>
+  <uzo tip="fak">ELE</uzo>
+  <snc>
+    <dif>
+      Pruvi la &ccirc;eeston de elektraj ondoj per <tld/>ilo.
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="modul4">malmodulacii</ref>,
+      <ref cel="rektif.0i.ELE">rektifi</ref>.
+    </refgrp>
+  </snc>
+  <adm>
+  PIV1 konas (kaj iom miksas) du pliajn sencojn: rektifi kaj malmoduli.
+  &Scirc;ajnas, ke tiuj &ccirc;i sencoj estas nun la nuraj, kiuj utilas,
+  ja
+  trovi la portatan informon en elektromagneta ondo estas pli utila ol
+  "pruvi &gcirc;ian &ccirc;eeston". Necesas kompleti la artikolon pri
+  "modulacii". <aut>MB</aut>
+  </adm>
+  <trd
+  lng="be">&c_d;&c_e;&c_t;&c_e;&c_k;&c_t;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="bg">&c_d;&c_je;&c_t;&c_je;&c_k;&c_t;&c_i;&c_r;&c_a;&c_m;</trd>
+  <trd lng="de">orten</trd>
+  <trd lng="en">detect</trd>
+  <trd lng="es">detectar</trd>
+  <trd lng="fr">d&eacute;tecter<klr tip="ind"> (ondes)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>detekt&aacute;l<klr tip="ind"> (kimutat)</klr></trd>,
+    <trd>kimutat<klr tip="ind"> (detekt&aacute;l)</klr></trd>
+  </trdgrp>
+  <trd lng="nl">detecteren</trd>
+  <trd lng="pl">wykrywa&cacute;</trd>
+  <trd lng="pt">detectar</trd>
+  <trd
+  lng="ru">&c_d;&c_je;&c_t;&c_je;&c_k;&c_t;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="sk">dokázať prítomnosť el.vĺn</trd>
+  <trdgrp lng="cs">
+    <trd>detegovat</trd>,
+    <trd>detekovat</trd>,
+    <trd>detektovat</trd>,
+    <trd>zjišťovat el. vlny</trd>
+  </trdgrp>
+</drv>
+<drv mrk="detekt.0ilo">
+  <kap><tld/>ilo</kap>
+  <uzo tip="fak">ELE</uzo>
+  <snc>
+    <dif>
+      Aparato por pruvi la &ccirc;eeston de elektraj ondoj:
+      <ekz>
+        ekzistas
+        diversaj <tld/>iloj: kristala, magneta, valva ktp.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_d;&c_e;&c_t;&c_e;&c_k;&c_t;&c_a;&c_r;</trd>
+  <trd lng="bg">&c_d;&c_je;&c_t;&c_je;&c_k;&c_t;&c_o;&c_r;</trd>
+  <trd lng="cs">čidlo</trd>
+  <trd lng="de">Detektor</trd>
+  <trd lng="en">detector</trd>
+  <trd lng="es">detector</trd>
+  <trd lng="fr">d&eacute;tecteur<klr tip="ind"> (d'ondes)</klr></trd>
+  <trd lng="hu">detektor</trd>
+  <trd lng="nl">detector</trd>
+  <trdgrp lng="pl">
+    <trd>detektor</trd>,
+    <trd>wykrywacz</trd>
+  </trdgrp>
+  <trd lng="pt">detector</trd>
+  <trd lng="ru">&c_d;&c_je;&c_t;&c_je;&c_k;&c_t;&c_o;&c_r;</trd>
+  <trdgrp lng="sk">
+    <trd>detektor</trd>,
+    <trd>čidlo</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: detekt.xml,v $
+Revision 1.14  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.13  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.12  2013/09/02 15:10:29  revo
+Joop Eggen: +trd bg en nl
+
+Revision 1.11  2009/06/05 16:30:53  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.10  2006/01/16 17:32:35  revo
+Tulio Flores: +trd pt
+
+Revision 1.9  2003/12/13 17:32:05  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.8  2002/09/07 17:43:16  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.7  2002/05/21 16:38:48  revo
+Alejandro Mejia Greene: ald 2 his trd
+
+Revision 1.6  2002/04/22 16:31:30  revo
+Ulrich Fellmann: + 2 germ trdj
+
+Revision 1.5  2001/05/08 17:53:32  revo
+-->
+</vortaro>

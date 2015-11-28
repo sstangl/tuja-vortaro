@@ -1,0 +1,132 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: degel.xml,v 1.20 2015/07/04 08:37:32 revo Exp $">
+  <kap>
+  <ofc>*</ofc>
+  <rad>degel</rad>/i
+  </kap>
+
+  <drv mrk="degel.0i">
+    <kap><ofc>*</ofc><tld/>i</kap>
+    <gra><vspec>ntr</vspec></gra>
+    <snc mrk="degel.0i.malglaciigxi">
+    <dif>
+      Malglacii&gcirc;i, malfrosti&gcirc;i, fluidi&gcirc;i de varmo,
+      fandi&gcirc;i: <ekz>la <tld/>o de la ne&gcirc;oj;
+      </ekz> <ekz>la suno <tld/>igas la stratojn;
+      </ekz> <ekz><tld/>a vetero.
+      </ekz>
+    </dif>
+    <trd lng="ca">desgla&ccedil;ar</trd>
+    <trdgrp lng="de">
+      <trd>tauen</trd>,
+      <trd>auftauen</trd>,
+      <trd>schmelzen</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>d&eacute;geler</trd>,
+      <trd>fondre<klr tip="ind"> (se
+      liqu&eacute;fier)</klr></trd></trdgrp> 
+    <trdgrp lng="it">
+      <trd>scongelarsi</trd>,
+      <trd>sciogliersi<klr tip="ind"> (liquefarsi)</klr></trd>
+      <trd>liquefarsi<klr tip="ind"> (sciogliersi)</klr></trd>
+    </trdgrp> 
+      <trdgrp lng="pl">
+        <trd>taja&cacute;</trd>,
+        <trd>topnie&cacute;</trd>
+      </trdgrp>
+      <trdgrp lng="pt">
+        <trd>degelar</trd>,
+        <trd>derreter-se</trd>
+      </trdgrp>
+      </snc>
+      <snc  mrk="degel.0i.FIG">
+      <uzo tip="stl">FIG</uzo>
+      <uzo tip="stl">ARK</uzo>
+      <dif>
+        Iom post iom malgrandi&gcirc;i, malaperi: <ekz>mi rimarkis, ke la
+        gramatiko pli kaj pli <tld/>as en miaj manoj<fnt>Z</fnt>
+        </ekz>
+      </dif>
+      <adm>
+        Tiu &ccirc;i senco ne plu aperas en PIV1, tial mi aldonis ARK.
+        <aut>MB</aut>
+      </adm>
+      <refgrp tip="vid">
+        <ref cel="solv">solvi&gcirc;i</ref>,
+        <ref cel="dis">fordisi&gcirc;i</ref>,
+        <ref cel="flug.for0i">forflugi</ref>,
+        <ref cel="flu">forflui</ref>,
+        <ref cel="pas.for0i">forpasi</ref>,
+        <ref cel="neni">disnenii&gcirc;i</ref>,
+        <ref cel="perd">perdi&gcirc;i</ref>.
+      </refgrp>
+      <trdgrp lng="ca">
+        <trd>esvanir-se</trd>,
+        <trd>dissipar-se</trd>
+      </trdgrp>
+      <trd lng="de">sich <ind>aufl&ouml;sen</ind></trd>
+      <trdgrp lng="fr">
+        <trd>dispara&icirc;tre</trd>,
+        <trd>fondre<klr tip="ind"> (comme neige au
+        soleil)</klr></trd></trdgrp> 
+      <trd lng="it">svanire</trd>
+      <trd lng="pl">topnie&cacute;</trd>
+      </snc>
+  <trd
+      lng="be">&c_r;&c_a;&c_s;&c_t;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="ca">fondre</trd>
+  <trdgrp lng="cs">
+    <trd>jihnout</trd>,
+    <trd>rozmrzat</trd>,
+    <trd>roztát</trd>,
+    <trd>tát</trd>
+  </trdgrp>
+  <trd lng="en">thaw</trd>
+  <trdgrp lng="hu">
+        <trd>olvad</trd>,
+        <trd>elolvad<klr tip="ind"> (&aacute;tv.
+        is)</klr></trd></trdgrp>
+  <trd lng="pt">derreter-se</trd>
+  <trd lng="ru">&c_t;&c_a;&c_ja;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>roztopiť</trd>,
+    <trd>topi&tcaron; sa <klr>(sneh)</klr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: degel.xml,v $
+Revision 1.20  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2012/08/04 11:10:14  revo
+Marc Rausell: + trd ca
+
+Revision 1.17  2010/07/22 16:30:29  revo
+Bart Demeyere: mrk
+
+Revision 1.16  2010/07/20 16:30:24  revo
+Bart Demeyere: +mrkoj
+
+Revision 1.15  2010/04/30 12:25:44  revo
+Fabio Bettani: +trd it; mi korektis la zamenhofan citajxon
+
+Revision 1.14  2009/04/30 16:30:45  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.13  2007/07/19 16:30:59  revo
+Tulio Flores: +tr pt
+
+Revision 1.12  2003/12/10 17:31:40  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.11  2003/04/08 16:32:16  revo
+-->
+</vortaro>

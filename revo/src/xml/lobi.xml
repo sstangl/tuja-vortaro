@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: lobi.xml,v 1.7 2014/01/27 13:10:11 revo Exp $">
+<kap>
+  <rad>lobi</rad>/o
+</kap>
+<drv mrk="lobi.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="lobi.0o.POL">
+    <uzo tip="fak">POL</uzo>
+    <ref tip="dif" cel="grup.prem0o">premgrupo</ref>
+  </snc>
+  <trd lng="bg">&c_l;&c_o;&c_b;&c_i;</trd>
+  <trd lng="de">Lobby</trd>
+  <trd lng="en">lobby</trd>
+  <trdgrp lng="fr">
+    <trd>groupe de pression</trd>,
+    <trd>lobby</trd>
+  </trdgrp>
+  <trdgrp lng="he">
+    <trd>&shin;&dalet;&vav;&lamed;&he;</trd>,
+    <trd>&lamed;&vav;&bet;&yod;</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>lobby</trd>,
+    <trd>pressiegroep</trd>
+  </trdgrp>
+  <trd lng="pl">lobby</trd>
+  <trd lng="pt">lobby</trd>
+  <trdgrp lng="ru">
+    <trd>&c_l;&c_o;&c_b;&c_b;&c_i;</trd>,
+    <trd>&c_g;&c_r;&c_u;&c_p;&c_p;&c_a; &c_d;&c_a;&c_v;&c_l;&c_je;&c_n;&c_i;&c_ja;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="lobi.0i">
+  <kap><tld/>i</kap>
+  <snc mrk="lobi.0i.POL">
+    <dif>
+      Agi kiel premgrupo, provante <ref tip="vid"
+      cel="influ.0i">influi</ref> decidantojn, potenculojn.
+    </dif>
+  </snc>
+  <trd lng="bg">&c_l;&c_o;&c_b;&c_i;&c_r;&c_a;&c_m;</trd>
+  <trd lng="en">lobby</trd>
+  <trd lng="fr">faire du <ind>lobbying</ind></trd>
+  <trdgrp lng="he">
+    <trd>&lamed;<ind>&shin;&dalet;&lamed;</ind></trd>,
+    <trd>&lamed;&pe;&ayin;&vav;&lamed; &bet;<ind>&shin;&dalet;&vav;&lamed;&he;</ind></trd>
+  </trdgrp>
+  <trd lng="nl">lobbyen<klr tip="ind"> (ww.)</klr></trd>
+  <trd lng="pl">lobowa&cacute;</trd>
+  <trd lng="ru">&c_l;&c_o;&c_b;&c_b;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+</drv>
+
+<drv mrk="lobi.0ado">
+  <kap><tld/>ado</kap>
+  <snc mrk="lobi.0ado.KOMUNE">
+    <dif>
+      Agado de grupo, kiu insiste prezentas siajn rekomendojn al
+      a&ubreve;toritatoj:
+      <ekz>
+        per <klr>...</klr> <tld/>ado &ccirc;e la Socialisma Partio
+        <fnt>
+        <aut>Hektor Alos i Font</aut>,
+        <vrk>Nur etaj esperoj pri balda&ubreve;a solvo</vrk>,
+        <bib>Monato</bib>,
+        <lok>jaro 2002a, numero 8a, p. 11a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="bg">&c_l;&c_o;&c_b;&c_i;&c_r;&c_a;&c_n;&c_je;</trd>
+  <trd lng="en">lobbying</trd>
+  <trd lng="fr">lobbying</trd>
+  <trd lng="he">&shin;&yod;&dalet;&vav;&lamed;</trd>
+  <trd lng="nl">lobbyen<klr tip="ind"> (nw.)</klr></trd>
+  <trd lng="pl">lobowanie</trd>
+  <trd lng="ru">&c_l;&c_o;&c_b;&c_b;&c_i;&c_r;&c_o;&c_v;&c_a;&c_n;&c_i;&c_je;</trd>
+</drv>
+</art>
+
+<!--
+$Log: lobi.xml,v $
+Revision 1.7  2014/01/27 13:10:11  revo
+Joop Eggen: +trd bg
+
+Revision 1.6  2009/10/08 16:31:22  revo
+Paul Peeraerts: +nl
+
+Revision 1.5  2006/09/15 16:30:39  revo
+Tulio Flores: +tr pt
+
+Revision 1.4  2005/06/22 16:31:36  revo
+Yury Finkel: +trd ru
+
+Revision 1.3  2005/01/27 17:31:25  revo
+Adam Raizen: +trd en, he
+
+Revision 1.2  2005/01/12 18:22:46  revo
+Vito Redsky: +trd pl
+
+Revision 1.1  2005/01/06 17:31:03  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

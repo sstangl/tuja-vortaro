@@ -1,0 +1,746 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- e-aj literoj -->
+<!ENTITY Ccirc "&#x0108;">
+<!ENTITY ccirc "&#x0109;">
+<!ENTITY Gcirc "&#x011c;">
+<!ENTITY gcirc "&#x011d;">
+<!ENTITY Hcirc "&#x0124;">
+<!ENTITY hcirc "&#x0125;">
+<!ENTITY Jcirc "&#x0134;">
+<!ENTITY jcirc "&#x0135;">
+<!ENTITY Scirc "&#x015c;">
+<!ENTITY scirc "&#x015d;">
+<!ENTITY Ubreve "&#x016c;">
+<!ENTITY ubreve "&#x016d;">
+
+<!-- francaj k.a. -->
+<!ENTITY OElig "&#x0152;">
+<!ENTITY oelig "&#x0153;">
+<!ENTITY Aacute "&#x00c1;">
+<!ENTITY aacute "&#x00e1;">
+<!ENTITY Eacute "&#x00c9;">
+<!ENTITY eacute "&#x00e9;">
+<!ENTITY Iacute "&#x00cd;">
+<!ENTITY iacute "&#x00ed;">
+<!ENTITY Oacute "&#x00d3;">
+<!ENTITY oacute "&#x00f3;">
+<!ENTITY Uacute "&#x00da;">
+<!ENTITY uacute "&#x00fa;">
+
+<!ENTITY Agrave "&#x00c0;">
+<!ENTITY agrave "&#x00e0;">
+<!ENTITY Egrave "&#x00c8;">
+<!ENTITY egrave "&#x00e8;">
+<!ENTITY Igrave "&#x00cc;">
+<!ENTITY igrave "&#x00ec;">
+<!ENTITY Ograve "&#x00d2;">
+<!ENTITY ograve "&#x00f2;">
+<!ENTITY Ugrave "&#x00d9;">
+<!ENTITY ugrave "&#x00f9;">
+
+<!ENTITY Acirc "&#x00c2;">
+<!ENTITY acirc "&#x00e2;">
+<!ENTITY Ecirc "&#x00ca;">
+<!ENTITY ecirc "&#x00ea;">
+<!ENTITY Icirc "&#x00ce;">
+<!ENTITY icirc "&#x00ee;">
+<!ENTITY Ocirc "&#x00d4;">
+<!ENTITY ocirc "&#x00f4;">
+<!ENTITY Ucirc "&#x00db;">
+<!ENTITY ucirc "&#x00fb;">
+
+<!-- germanaj -->
+
+<!ENTITY szlig "&#x00df;">
+<!ENTITY Auml "&#x00c4;">
+<!ENTITY auml "&#x00e4;">
+<!ENTITY Ouml "&#x00d6;">
+<!ENTITY ouml "&#x00f6;">
+<!ENTITY Uuml "&#x00dc;">
+<!ENTITY uuml "&#x00fc;">
+
+<!-- turkaj ne jam menciitaj -->
+
+<!ENTITY Gbreve "&#x011e;">
+<!ENTITY gbreve "&#x011f;">
+<!ENTITY inodot "&#x0131;">
+<!ENTITY Idot "&#x0130;">
+<!ENTITY Scedil "&#x015e;">
+<!ENTITY scedil "&#x015f;">
+<!ENTITY Ccedil "&#x00c7;">
+<!ENTITY ccedil "&#x00e7;">
+
+<!-- diversaj -->
+
+<!--
+<!ENTITY amp       "&#38;#38;">
+<!ENTITY lt        "&#38;#60;">
+<!ENTITY gt        "&#62;">
+-->
+<!-- <!ENTITY apos      "&#39;"> -->
+<!ENTITY minute    "&apos;">
+<!-- <!ENTITY quot      "&#34;"> -->
+<!ENTITY second    "&quot;">
+<!ENTITY leftquot  "&#x201e;">
+<!ENTITY rightquot "&#x201c;">
+<!ENTITY ring      "&#x00b0;">
+<!ENTITY deg       "&ring;">
+<!ENTITY quadrat   "&#x00b2;">
+<!ENTITY cubic     "&#x00b3;">
+<!ENTITY para      "&#x00a7;">
+<!ENTITY dash      "&#x2015;">
+<!ENTITY mdash     "&#x2015;">
+<!ENTITY ndash     "&#x2013;">
+<!ENTITY nbsp      "&#x00a0;">
+
+<!ENTITY Euml      "&#x00cb;">
+<!ENTITY euml      "&#x00eb;">
+<!ENTITY Iuml      "&#x00cf;">
+<!ENTITY iuml      "&#x00ef;">
+
+<!ENTITY Aring     "&#x00c5;">
+<!ENTITY aring     "&#x00e5;">
+<!ENTITY AElig     "&#x00c6;">
+<!ENTITY aelig     "&#x00e6;">
+<!ENTITY Oslash    "&#x00d8;">
+<!ENTITY oslash    "&#x00f8;">
+
+<!-- portugalaj, hispanaj, katalunaj -->
+
+<!ENTITY Ntilde "&#x00d1;">
+<!ENTITY ntilde "&#x00f1;">
+<!ENTITY Atilde "&#x00c3;">
+<!ENTITY atilde "&#x00e3;">
+<!ENTITY Otilde "&#x00d5;">
+<!ENTITY otilde "&#x00f5;">
+
+<!ENTITY middot "&#x00b7;">
+
+
+<!-- rumanaj -->
+
+<!ENTITY Abreve "&#x0102;">
+<!ENTITY abreve "&#x0103;">
+<!ENTITY Tcedil "&#x0162;">
+<!ENTITY tcedil "&#x0163;">
+
+<!-- grekaj -->
+
+<!ENTITY Alfa                   "&#x391;">
+<!ENTITY alfa                   "&#x3b1;">
+<!ENTITY alfa_acute             "&alfa_ton;">          <!--&#x1f71;-->
+<!ENTITY Alfa_acute             "&Alfa_ton;">          <!--&#x1fbb;-->
+<!ENTITY alfa_acute_subj        "&alfa_ton;">          <!--&#x1fb4;-->
+<!ENTITY alfa_breve             "&alfa;">              <!--&#x1fb0;-->
+<!ENTITY Alfa_breve             "&Alfa;">              <!--&#x1fb8;-->
+<!ENTITY alfa_circ              "&alfa_ton;">          <!--&#x1fb6;-->
+<!ENTITY alfa_circ_subj         "&alfa_ton;">          <!--&#x1fb7;-->
+<!ENTITY alfa_densa             "&alfa;">              <!--&#x1f01;-->
+<!ENTITY Alfa_densa             "&Alfa;">              <!--&#x1f09;-->
+<!ENTITY alfa_densa_acute       "&alfa_ton;">          <!--&#x1f05;-->
+<!ENTITY Alfa_densa_acute       "&Alfa_ton;">          <!--&#x1f0d;-->
+<!ENTITY alfa_densa_acute_subj  "&alfa_ton;">          <!--&#x1f85;-->
+<!ENTITY Alfa_densa_acute_Subj  "&Alfa_ton;">          <!--&#x1f8d;-->
+<!ENTITY alfa_densa_circ        "&alfa_ton;">          <!--&#x1f07;-->
+<!ENTITY Alfa_densa_circ        "&Alfa_ton;">          <!--&#x1f0f;-->
+<!ENTITY alfa_densa_circ_subj   "&alfa_ton;">          <!--&#x1f87;-->
+<!ENTITY Alfa_densa_circ_Subj   "&Alfa_ton;">          <!--&#x1f8f;-->
+<!ENTITY alfa_densa_grave       "&alfa_ton;">          <!--&#x1f03;-->
+<!ENTITY Alfa_densa_grave       "&Alfa_ton;">          <!--&#x1f0b;-->
+<!ENTITY alfa_densa_grave_subj  "&alfa_ton;">          <!--&#x1f83;-->
+<!ENTITY Alfa_densa_grave_Subj  "&Alfa_ton;">          <!--&#x1f8b;-->
+<!ENTITY alfa_densa_subj        "&alfa;">              <!--&#x1f81;-->
+<!ENTITY Alfa_densa_Subj        "&Alfa;">              <!--&#x1f89;-->
+<!ENTITY alfa_grave             "&alfa_ton;">          <!--&#x1f70;-->
+<!ENTITY Alfa_grave             "&Alfa_ton;">          <!--&#x1fba;-->
+<!ENTITY alfa_grave_subj        "&alfa_ton;">          <!--&#x1fb2;-->
+<!ENTITY alfa_makron            "&alfa;">              <!--&#x1fb1;-->
+<!ENTITY Alfa_makron            "&Alfa;">              <!--&#x1fb9;-->
+<!ENTITY alfa_psili             "&alfa;">              <!--&#x1f00;-->
+<!ENTITY Alfa_psili             "&Alfa;">              <!--&#x1f08;-->
+<!ENTITY alfa_psili_acute       "&alfa_ton;">          <!--&#x1f04;-->
+<!ENTITY Alfa_psili_acute       "&Alfa_ton;">          <!--&#x1f0c;-->
+<!ENTITY alfa_psili_acute_subj  "&alfa_ton;">          <!--&#x1f84;-->
+<!ENTITY Alfa_psili_acute_Subj  "&Alfa_ton;">          <!--&#x1f8c;-->
+<!ENTITY alfa_psili_circ        "&alfa_ton;">          <!--&#x1f06;-->
+<!ENTITY Alfa_psili_circ        "&Alfa_ton;">          <!--&#x1f0e;-->
+<!ENTITY alfa_psili_circ_subj   "&alfa_ton;">          <!--&#x1f86;-->
+<!ENTITY Alfa_psili_circ_Subj   "&Alfa_ton;">          <!--&#x1f8e;-->
+<!ENTITY alfa_psili_grave       "&alfa_ton;">          <!--&#x1f02;-->
+<!ENTITY Alfa_psili_grave       "&Alfa_ton;">          <!--&#x1f0a;-->
+<!ENTITY alfa_psili_grave_subj  "&alfa_ton;">          <!--&#x1f82;-->
+<!ENTITY Alfa_psili_grave_Subj  "&Alfa_ton;">          <!--&#x1f8a;-->
+<!ENTITY alfa_psili_subj        "&alfa;">              <!--&#x1f80;-->
+<!ENTITY Alfa_psili_Subj        "&Alfa;">              <!--&#x1f88;-->
+<!ENTITY alfa_subj              "&alfa;">              <!--&#x1fb3;-->
+<!ENTITY Alfa_Subj              "&Alfa;">              <!--&#x1fbc;-->
+<!ENTITY Alfa_ton               "&#x0386;">
+<!ENTITY alfa_ton               "&#x03ac;">
+
+<!ENTITY Beta                   "&#x392;">
+<!ENTITY beta                   "&#x3b2;">
+
+<!ENTITY Gamma                  "&#x393;">
+<!ENTITY gamma                  "&#x3b3;">
+
+<!ENTITY Delta                  "&#x394;">
+<!ENTITY delta                  "&#x3b4;">
+
+<!ENTITY Epsilon                "&#x395;">
+<!ENTITY epsilon                "&#x3b5;">
+<!ENTITY epsilon_acute          "&epsilon_ton;">       <!--&#x1f73;-->
+<!ENTITY Epsilon_acute          "&Epsilon_ton;">       <!--&#x1fc9;-->
+<!ENTITY epsilon_densa          "&epsilon;">           <!--&#x1f11;-->
+<!ENTITY Epsilon_densa          "&Epsilon;">           <!--&#x1f19;-->
+<!ENTITY epsilon_densa_acute    "&epsilon_ton;">       <!--&#x1f15;-->
+<!ENTITY Epsilon_densa_acute    "&Epsilon_ton;">       <!--&#x1f1d;-->
+<!ENTITY epsilon_densa_grave    "&epsilon_ton;">       <!--&#x1f13;-->
+<!ENTITY Epsilon_densa_grave    "&Epsilon_ton;">       <!--&#x1f1b;-->
+<!ENTITY epsilon_grave          "&epsilon_ton;">       <!--&#x1f72;-->
+<!ENTITY Epsilon_grave          "&Epsilon_ton;">       <!--&#x1fc8;-->
+<!ENTITY epsilon_psili          "&epsilon;">           <!--&#x1f10;-->
+<!ENTITY Epsilon_psili          "&Epsilon;">           <!--&#x1f18;-->
+<!ENTITY epsilon_psili_acute    "&epsilon_ton;">       <!--&#x1f14;-->
+<!ENTITY Epsilon_psili_acute    "&Epsilon_ton;">       <!--&#x1f1c;-->
+<!ENTITY epsilon_psili_grave    "&epsilon_ton;">       <!--&#x1f12;-->
+<!ENTITY Epsilon_psili_grave    "&Epsilon_ton;">       <!--&#x1f1a;-->
+<!ENTITY Epsilon_ton            "&#x0388;">
+<!ENTITY epsilon_ton            "&#x03ad;">
+
+<!ENTITY Zeta                   "&#x396;">
+<!ENTITY zeta                   "&#x3b6;">
+
+<!ENTITY Eta                    "&#x397;">
+<!ENTITY eta                    "&#x3b7;">
+<!ENTITY eta_acute              "&eta_ton;">           <!--&#x1f75;-->
+<!ENTITY Eta_acute              "&Eta_ton;">           <!--&#x1fcb;-->
+<!ENTITY eta_acute_subj         "&eta_ton;">           <!--&#x1fc4;-->
+<!ENTITY eta_circ               "&eta_ton;">           <!--&#x1fc6;-->
+<!ENTITY eta_circ_subj          "&eta_ton;">           <!--&#x1fc7;-->
+<!ENTITY eta_densa              "&eta;">               <!--&#x1f21;-->
+<!ENTITY Eta_densa              "&Eta;">               <!--&#x1f29;-->
+<!ENTITY eta_densa_acute        "&eta_ton;">           <!--&#x1f25;-->
+<!ENTITY Eta_densa_acute        "&Eta_ton;">           <!--&#x1f2d;-->
+<!ENTITY eta_densa_acute_subj   "&eta_ton;">           <!--&#x1f95;-->
+<!ENTITY Eta_densa_acute_Subj   "&Eta_ton;">           <!--&#x1f9d;-->
+<!ENTITY eta_densa_circ         "&eta_ton;">           <!--&#x1f27;-->
+<!ENTITY Eta_densa_circ         "&Eta_ton;">           <!--&#x1f2f;-->
+<!ENTITY eta_densa_circ_subj    "&eta_ton;">           <!--&#x1f97;-->
+<!ENTITY Eta_densa_circ_Subj    "&Eta_ton;">           <!--&#x1f9f;-->
+<!ENTITY eta_densa_grave        "&eta_ton;">           <!--&#x1f23;-->
+<!ENTITY Eta_densa_grave        "&Eta_ton;">           <!--&#x1f2b;-->
+<!ENTITY eta_densa_grave_subj   "&eta_ton;">           <!--&#x1f93;-->
+<!ENTITY Eta_densa_grave_Subj   "&Eta_ton;">           <!--&#x1f9b;-->
+<!ENTITY eta_densa_subj         "&eta;">               <!--&#x1f91;-->
+<!ENTITY Eta_densa_Subj         "&Eta;">               <!--&#x1f99;-->
+<!ENTITY eta_grave              "&eta_ton;">           <!--&#x1f74;-->
+<!ENTITY Eta_grave              "&Eta_ton;">           <!--&#x1fca;-->
+<!ENTITY eta_grave_subj         "&eta_ton;">           <!--&#x1fc2;-->
+<!ENTITY eta_psili              "&eta;">               <!--&#x1f20;-->
+<!ENTITY Eta_psili              "&Eta;">               <!--&#x1f28;-->
+<!ENTITY eta_psili_acute        "&eta_ton;">           <!--&#x1f24;-->
+<!ENTITY Eta_psili_acute        "&Eta_ton;">           <!--&#x1f2c;-->
+<!ENTITY eta_psili_acute_subj   "&eta_ton;">           <!--&#x1f94;-->
+<!ENTITY Eta_psili_acute_Subj   "&Eta_ton;">           <!--&#x1f9c;-->
+<!ENTITY eta_psili_circ         "&eta_ton;">           <!--&#x1f26;-->
+<!ENTITY Eta_psili_circ         "&Eta_ton;">           <!--&#x1f2e;-->
+<!ENTITY eta_psili_circ_subj    "&eta_ton;">           <!--&#x1f96;-->
+<!ENTITY Eta_psili_circ_Subj    "&Eta_ton;">           <!--&#x1f9e;-->
+<!ENTITY eta_psili_grave        "&eta_ton;">           <!--&#x1f22;-->
+<!ENTITY Eta_psili_grave        "&Eta_ton;">           <!--&#x1f2a;-->
+<!ENTITY eta_psili_grave_subj   "&eta_ton;">           <!--&#x1f92;-->
+<!ENTITY Eta_psili_grave_Subj   "&Eta_ton;">           <!--&#x1f9a;-->
+<!ENTITY eta_psili_subj         "&eta;">               <!--&#x1f90;-->
+<!ENTITY Eta_psili_Subj         "&Eta;">               <!--&#x1f98;-->
+<!ENTITY eta_subj               "&eta;">               <!--&#x1fc3;-->
+<!ENTITY Eta_Subj               "&Eta;">               <!--&#x1fcc;-->
+<!ENTITY Eta_ton                "&#x0389;">
+<!ENTITY eta_ton                "&#x03ae;">
+
+<!ENTITY Theta                  "&#x398;">
+<!ENTITY theta                  "&#x3b8;">
+
+<!ENTITY Jota                   "&#x399;">
+<!ENTITY jota                   "&#x3b9;">
+<!ENTITY jota_acute             "&jota_ton;">          <!--&#x1f77;-->
+<!ENTITY Jota_acute             "&Jota_ton;">          <!--&#x1fdb;-->
+<!ENTITY jota_breve             "&jota;">              <!--&#x1fd0;-->
+<!ENTITY Jota_breve             "&Jota;">              <!--&#x1fd8;-->
+<!ENTITY jota_circ              "&jota_ton;">          <!--&#x1fd6;-->
+<!ENTITY jota_densa             "&jota;">              <!--&#x1f31;-->
+<!ENTITY Jota_densa             "&Jota;">              <!--&#x1f39;-->
+<!ENTITY jota_densa_acute       "&jota_ton;">          <!--&#x1f35;-->
+<!ENTITY Jota_densa_acute       "&Jota_ton;">          <!--&#x1f3d;-->
+<!ENTITY jota_densa_circ        "&jota_ton;">          <!--&#x1f37;-->
+<!ENTITY Jota_densa_circ        "&Jota_ton;">          <!--&#x1f3f;-->
+<!ENTITY jota_densa_grave       "&jota_ton;">          <!--&#x1f33;-->
+<!ENTITY Jota_densa_grave       "&Jota_ton;">          <!--&#x1f3b;-->
+<!ENTITY jota_grave             "&jota_ton;">          <!--&#x1f76;-->
+<!ENTITY Jota_grave             "&Jota_ton;">          <!--&#x1fda;-->
+<!ENTITY jota_makron            "&jota;">              <!--&#x1fd1;-->
+<!ENTITY Jota_makron            "&Jota;">              <!--&#x1fd9;-->
+<!ENTITY jota_psili             "&jota;">              <!--&#x1f30;-->
+<!ENTITY Jota_psili             "&Jota;">              <!--&#x1f38;-->
+<!ENTITY jota_psili_acute       "&jota_ton;">          <!--&#x1f34;-->
+<!ENTITY Jota_psili_acute       "&Jota_ton;">          <!--&#x1f3c;-->
+<!ENTITY jota_psili_circ        "&jota_ton;">          <!--&#x1f36;-->
+<!ENTITY Jota_psili_circ        "&Jota_ton;">          <!--&#x1f3e;-->
+<!ENTITY jota_psili_grave       "&jota_ton;">          <!--&#x1f32;-->
+<!ENTITY Jota_psili_grave       "&Jota_ton;">          <!--&#x1f3a;-->
+<!ENTITY Jota_ton               "&#x038a;">
+<!ENTITY jota_ton               "&#x03af;">
+<!ENTITY Jota_trema             "&#x03aa;">
+<!ENTITY jota_trema             "&#x03ca;">
+<!ENTITY jota_trema_acute       "&jota_trema_ton;">    <!--&#x1fd3;-->
+<!ENTITY jota_trema_circ        "&jota_trema_ton;">    <!--&#x1fd7;-->
+<!ENTITY jota_trema_grave       "&jota_trema_ton;">    <!--&#x1fd2;-->
+<!ENTITY jota_trema_ton         "&#x0390;">
+
+<!ENTITY Kappa                  "&#x39a;">
+<!ENTITY kappa                  "&#x3ba;">
+<!ENTITY Lambda                 "&#x39b;">
+<!ENTITY lambda                 "&#x3bb;">
+<!ENTITY My                     "&#x39c;">
+<!ENTITY my                     "&#x3bc;">
+<!ENTITY Ny                     "&#x39d;">
+<!ENTITY ny                     "&#x3bd;">
+<!ENTITY Xi                     "&#x39e;">
+<!ENTITY xi                     "&#x3be;">
+
+<!ENTITY Omikron                "&#x39f;">
+<!ENTITY omikron                "&#x3bf;">
+<!ENTITY omikron_acute          "&omikron_ton;">       <!--&#x1f79;-->
+<!ENTITY Omikron_acute          "&Omikron_ton;">       <!--&#x1ff9;-->
+<!ENTITY omikron_densa          "&omikron;">           <!--&#x1f41;-->
+<!ENTITY Omikron_densa          "&Omikron;">           <!--&#x1f49;-->
+<!ENTITY omikron_densa_acute    "&omikron_ton;">       <!--&#x1f45;-->
+<!ENTITY Omikron_densa_acute    "&Omikron_ton;">       <!--&#x1f4d;-->
+<!ENTITY omikron_densa_grave    "&omikron_ton;">       <!--&#x1f43;-->
+<!ENTITY Omikron_densa_grave    "&Omikron_ton;">       <!--&#x1f4b;-->
+<!ENTITY omikron_grave          "&omikron_ton;">       <!--&#x1f78;-->
+<!ENTITY Omikron_grave          "&Omikron_ton;">       <!--&#x1ff8;-->
+<!ENTITY omikron_psili          "&omikron;">           <!--&#x1f40;-->
+<!ENTITY Omikron_psili          "&Omikron;">           <!--&#x1f48;-->
+<!ENTITY omikron_psili_acute    "&omikron_ton;">       <!--&#x1f44;-->
+<!ENTITY Omikron_psili_acute    "&Omikron_ton;">       <!--&#x1f4c;-->
+<!ENTITY omikron_psili_grave    "&omikron_ton;">       <!--&#x1f42;-->
+<!ENTITY Omikron_psili_grave    "&Omikron_ton;">       <!--&#x1f4a;-->
+<!ENTITY Omikron_ton            "&#x038c;">
+<!ENTITY omikron_ton            "&#x03cc;">
+
+<!ENTITY Pi                     "&#x3a0;">
+<!ENTITY pi                     "&#x3c0;">
+
+<!ENTITY Rho                    "&#x3a1;">
+<!ENTITY rho                    "&#x3c1;">
+<!ENTITY rho_densa              "&rho;">               <!--&#x1fe5;-->
+<!ENTITY Rho_densa              "&Rho;">               <!--&#x1fec;-->
+<!ENTITY rho_psili              "&rho;">               <!--&#x1fe4;-->
+
+<!ENTITY Sigma                  "&#x3a3;">
+<!ENTITY sigma                  "&#x3c3;">
+<!ENTITY sigma_fina             "&#x3c2;">
+
+<!ENTITY Tau                    "&#x3a4;">
+<!ENTITY tau                    "&#x3c4;">
+
+<!ENTITY Ypsilon                "&#x3a5;">
+<!ENTITY ypsilon                "&#x3c5;">
+<!ENTITY ypsilon_acute          "&ypsilon_ton;">       <!--&#x1f7b;-->
+<!ENTITY Ypsilon_acute          "&Ypsilon_ton;">       <!--&#x1feb;-->
+<!ENTITY ypsilon_breve          "&ypsilon;">           <!--&#x1fe0;-->
+<!ENTITY Ypsilon_breve          "&Ypsilon;">           <!--&#x1fe8;-->
+<!ENTITY ypsilon_circ           "&ypsilon_ton;">       <!--&#x1fe6;-->
+<!ENTITY ypsilon_densa          "&ypsilon;">           <!--&#x1f51;-->
+<!ENTITY Ypsilon_densa          "&Ypsilon;">           <!--&#x1f59;-->
+<!ENTITY ypsilon_densa_acute    "&ypsilon_ton;">       <!--&#x1f55;-->
+<!ENTITY Ypsilon_densa_acute    "&Ypsilon_ton;">       <!--&#x1f5d;-->
+<!ENTITY ypsilon_densa_circ     "&ypsilon_ton;">       <!--&#x1f57;-->
+<!ENTITY Ypsilon_densa_circ     "&Ypsilon_ton;">       <!--&#x1f5f;-->
+<!ENTITY ypsilon_densa_grave    "&ypsilon_ton;">       <!--&#x1f53;-->
+<!ENTITY Ypsilon_densa_grave    "&Ypsilon_ton;">       <!--&#x1f5b;-->
+<!ENTITY ypsilon_grave          "&ypsilon_ton;">       <!--&#x1f7a;-->
+<!ENTITY Ypsilon_grave          "&Ypsilon_ton;">       <!--&#x1fea;-->
+<!ENTITY ypsilon_makron         "&ypsilon;">           <!--&#x1fe1;-->
+<!ENTITY Ypsilon_makron         "&Ypsilon;">           <!--&#x1fe9;-->
+<!ENTITY ypsilon_psili          "&ypsilon;">           <!--&#x1f50;-->
+<!ENTITY ypsilon_psili_acute    "&ypsilon_ton;">       <!--&#x1f54;-->
+<!ENTITY ypsilon_psili_circ     "&ypsilon_ton;">       <!--&#x1f56;-->
+<!ENTITY ypsilon_psili_grave    "&ypsilon_ton;">       <!--&#x1f52;-->
+<!ENTITY Ypsilon_ton            "&#x038e;">
+<!ENTITY ypsilon_ton            "&#x03cd;">
+<!ENTITY Ypsilon_trema          "&#x03ab;">
+<!ENTITY ypsilon_trema          "&#x03cb;">
+<!ENTITY ypsilon_trema_acute    "&ypsilon_trema_ton;"> <!--&#x1fe3;-->
+<!ENTITY ypsilon_trema_circ     "&ypsilon_trema_ton;"> <!--&#x1fe7;-->
+<!ENTITY ypsilon_trema_grave    "&ypsilon_trema_ton;"> <!--&#x1fe2;-->
+<!ENTITY ypsilon_trema_ton      "&#x03b0;">
+
+<!ENTITY Phi                    "&#x3a6;">
+<!ENTITY phi                    "&#x3c6;">
+<!ENTITY Chi                    "&#x3a7;">
+<!ENTITY chi                    "&#x3c7;">
+<!ENTITY Psi                    "&#x3a8;">
+<!ENTITY psi                    "&#x3c8;">
+
+<!ENTITY Omega                  "&#x3a9;">
+<!ENTITY omega                  "&#x3c9;">
+<!ENTITY omega_acute            "&omega_ton;">         <!--&#x1f7d;-->
+<!ENTITY Omega_acute            "&Omega_ton;">         <!--&#x1ffb;-->
+<!ENTITY omega_acute_subj       "&omega_ton;">         <!--&#x1ff4;-->
+<!ENTITY omega_circ             "&omega_ton;">         <!--&#x1ff6;-->
+<!ENTITY omega_circ_subj        "&omega_ton;">         <!--&#x1ff7;-->
+<!ENTITY omega_densa            "&omega;">             <!--&#x1f61;-->
+<!ENTITY Omega_densa            "&Omega;">             <!--&#x1f69;-->
+<!ENTITY omega_densa_acute      "&omega_ton;">         <!--&#x1f65;-->
+<!ENTITY Omega_densa_acute      "&Omega_ton;">         <!--&#x1f6d;-->
+<!ENTITY omega_densa_acute_subj "&omega_ton;">         <!--&#x1fa5;-->
+<!ENTITY Omega_densa_acute_Subj "&Omega_ton;">         <!--&#x1fad;-->
+<!ENTITY omega_densa_circ       "&omega_ton;">         <!--&#x1f67;-->
+<!ENTITY Omega_densa_circ       "&Omega_ton;">         <!--&#x1f6f;-->
+<!ENTITY omega_densa_circ_subj  "&omega_ton;">         <!--&#x1fa7;-->
+<!ENTITY Omega_densa_circ_Subj  "&Omega_ton;">         <!--&#x1faf;-->
+<!ENTITY omega_densa_grave      "&omega_ton;">         <!--&#x1f63;-->
+<!ENTITY Omega_densa_grave      "&Omega_ton;">         <!--&#x1f6b;-->
+<!ENTITY omega_densa_grave_subj "&omega_ton;">         <!--&#x1fa3;-->
+<!ENTITY Omega_densa_grave_Subj "&Omega_ton;">         <!--&#x1fab;-->
+<!ENTITY omega_densa_subj       "&omega;">             <!--&#x1fa1;-->
+<!ENTITY Omega_densa_Subj       "&Omega;">             <!--&#x1fa9;-->
+<!ENTITY omega_grave            "&omega_ton;">         <!--&#x1f7c;-->
+<!ENTITY Omega_grave            "&Omega_ton;">         <!--&#x1ffa;-->
+<!ENTITY omega_grave_subj       "&omega_ton;">         <!--&#x1ff2;-->
+<!ENTITY omega_psili            "&omega;">             <!--&#x1f60;-->
+<!ENTITY Omega_psili            "&Omega;">             <!--&#x1f68;-->
+<!ENTITY omega_psili_acute      "&omega_ton;">         <!--&#x1f64;-->
+<!ENTITY Omega_psili_acute      "&Omega_ton;">         <!--&#x1f6c;-->
+<!ENTITY omega_psili_acute_subj "&omega_ton;">         <!--&#x1fa4;-->
+<!ENTITY Omega_psili_acute_Subj "&Omega_ton;">         <!--&#x1fac;-->
+<!ENTITY omega_psili_circ       "&omega_ton;">         <!--&#x1f66;-->
+<!ENTITY Omega_psili_circ       "&Omega_ton;">         <!--&#x1f6e;-->
+<!ENTITY omega_psili_circ_subj  "&omega_ton;">         <!--&#x1fa6;-->
+<!ENTITY Omega_psili_circ_Subj  "&Omega_ton;">         <!--&#x1fae;-->
+<!ENTITY omega_psili_grave      "&omega_ton;">         <!--&#x1f62;-->
+<!ENTITY Omega_psili_grave      "&Omega_ton;">         <!--&#x1f6a;-->
+<!ENTITY omega_psili_grave_subj "&omega_ton;">         <!--&#x1fa2;-->
+<!ENTITY Omega_psili_grave_Subj "&Omega_ton;">         <!--&#x1faa;-->
+<!ENTITY omega_psili_subj       "&omega;">             <!--&#x1fa0;-->
+<!ENTITY Omega_psili_Subj       "&Omega;">             <!--&#x1fa8;-->
+<!ENTITY omega_subj             "&omega;">             <!--&#x1ff3;-->
+<!ENTITY Omega_Subj             "&Omega;">             <!--&#x1ffc;-->
+<!ENTITY Omega_ton              "&#x038f;">
+<!ENTITY omega_ton              "&#x03ce;">
+
+<!-- cirilaj -->
+
+<!ENTITY c_Ju     "&#x042e;">
+<!ENTITY c_A      "&#x0410;">
+<!ENTITY c_B      "&#x0411;">
+<!ENTITY c_C      "&#x0426;">
+<!ENTITY c_D      "&#x0414;">
+<!ENTITY c_Je     "&#x0415;">
+<!ENTITY c_F      "&#x0424;">
+<!ENTITY c_G      "&#x0413;">
+<!ENTITY c_H      "&#x0425;">
+<!ENTITY c_I      "&#x0418;">
+<!ENTITY c_J      "&#x0419;">
+<!ENTITY c_K      "&#x041a;">
+<!ENTITY c_L      "&#x041b;">
+<!ENTITY c_M      "&#x041c;">
+<!ENTITY c_N      "&#x041d;">
+<!ENTITY c_O      "&#x041e;">
+<!ENTITY c_P      "&#x041f;">
+<!ENTITY c_Ja     "&#x042f;">
+<!ENTITY c_R      "&#x0420;">
+<!ENTITY c_S      "&#x0421;">
+<!ENTITY c_T      "&#x0422;">
+<!ENTITY c_U      "&#x0423;">
+<!ENTITY c_Zh     "&#x0416;">
+<!ENTITY c_V      "&#x0412;">
+<!ENTITY c_Mol    "&#x042c;">
+<!ENTITY c_Y      "&#x042b;">
+<!ENTITY c_Z      "&#x0417;">
+<!ENTITY c_Sh     "&#x0428;">
+<!ENTITY c_E      "&#x042d;">
+<!ENTITY c_Shch   "&#x0429;">
+<!ENTITY c_Ch     "&#x0427;">
+
+<!ENTITY c_Jo     "&#x0401;">
+<!ENTITY c_W      "&#x040E;">
+<!ENTITY c_Ib     "&#x0406;">
+<!ENTITY c_Gu     "&#x0490;">
+<!ENTITY c_Jeu    "&#x0404;">
+<!ENTITY c_Ji     "&#x0407;">
+
+<!ENTITY c_ju     "&#x044e;">
+<!ENTITY c_a      "&#x0430;">
+<!ENTITY c_b      "&#x0431;">
+<!ENTITY c_c      "&#x0446;">
+<!ENTITY c_d      "&#x0434;">
+<!ENTITY c_je     "&#x0435;">
+<!ENTITY c_f      "&#x0444;">
+<!ENTITY c_g      "&#x0433;">
+<!ENTITY c_h      "&#x0445;">
+<!ENTITY c_i      "&#x0438;">
+<!ENTITY c_j      "&#x0439;">
+<!ENTITY c_k      "&#x043a;">
+<!ENTITY c_l      "&#x043b;">
+<!ENTITY c_m      "&#x043c;">
+<!ENTITY c_n      "&#x043d;">
+<!ENTITY c_o      "&#x043e;">
+<!ENTITY c_p      "&#x043f;">
+<!ENTITY c_ja     "&#x044f;">
+<!ENTITY c_r      "&#x0440;">
+<!ENTITY c_s      "&#x0441;">
+<!ENTITY c_t      "&#x0442;">
+<!ENTITY c_u      "&#x0443;">
+<!ENTITY c_zh     "&#x0436;">
+<!ENTITY c_v      "&#x0432;">
+<!ENTITY c_mol    "&#x044c;">
+<!ENTITY c_y      "&#x044b;">
+<!ENTITY c_z      "&#x0437;">
+<!ENTITY c_sh     "&#x0448;">
+<!ENTITY c_e      "&#x044d;">
+<!ENTITY c_shch   "&#x0449;">
+<!ENTITY c_ch     "&#x0447;">
+<!ENTITY c_malmol "&#x044a;">
+
+<!ENTITY c_jo     "&#x0451;">
+<!ENTITY c_w      "&#x045E;">
+<!ENTITY c_ib     "&#x0456;">
+<!ENTITY c_gu     "&#x0491;">
+<!ENTITY c_jeu    "&#x0454;">
+<!ENTITY c_ji     "&#x0457;">
+
+<!-- chehhaj, slovakaj kaj polaj -->
+<!ENTITY Ccaron  "&#x010c;">
+<!ENTITY ccaron  "&#x010d;">
+<!ENTITY Scaron  "&#x0160;">
+<!ENTITY scaron  "&#x0161;">
+<!ENTITY Rcaron  "&#x0158;">
+<!ENTITY rcaron  "&#x0159;">
+<!ENTITY Yacute  "&#x00dd;">
+<!ENTITY yacute  "&#x00fd;">
+<!ENTITY Zcaron  "&#x017d;">
+<!ENTITY zcaron  "&#x017e;">
+<!ENTITY Zdot    "&#x017b;">
+<!ENTITY zdot    "&#x017c;">
+<!ENTITY Ncaron  "&#x0147;">
+<!ENTITY ncaron  "&#x0148;">
+<!ENTITY Ecaron  "&#x011a;">
+<!ENTITY ecaron  "&#x011b;">
+<!ENTITY Dcaron  "&#x010e;">
+<!ENTITY dcaron  "&#x010f;">
+<!ENTITY Tcaron  "&#x0164;">
+<!ENTITY tcaron  "&#x0165;">
+<!ENTITY Uring   "&#x016e;">
+<!ENTITY uring   "&#x016f;">
+
+<!ENTITY Lacute  "&#x0139;">
+<!ENTITY lacute  "&#x013a;">
+<!ENTITY Lcaron  "&#x013d;">
+<!ENTITY lcaron  "&#x013e;">
+<!ENTITY Racute  "&#x0154;">
+<!ENTITY racute  "&#x0155;">
+
+<!ENTITY Aogonek "&#x0104;">
+<!ENTITY aogonek "&#x0105;">
+<!ENTITY Lstroke "&#x0141;">
+<!ENTITY lstroke "&#x0142;">
+<!ENTITY Eogonek "&#x0118;">
+<!ENTITY eogonek "&#x0119;">
+<!ENTITY Cacute  "&#x0106;">
+<!ENTITY cacute  "&#x0107;">
+<!ENTITY Nacute  "&#x0143;">
+<!ENTITY nacute  "&#x0144;">
+<!ENTITY Sacute  "&#x015a;">
+<!ENTITY sacute  "&#x015b;">
+<!ENTITY Zacute  "&#x0179;">
+<!ENTITY zacute  "&#x017a;">
+
+<!ENTITY alef    "&#x05d0;">
+<!ENTITY bet     "&#x05d1;">
+<!ENTITY gimel   "&#x05d2;">
+<!ENTITY dalet   "&#x05d3;">
+<!ENTITY he      "&#x05d4;">
+<!ENTITY vav     "&#x05d5;">
+<!ENTITY zayin   "&#x05d6;">
+<!ENTITY het     "&#x05d7;">
+<!ENTITY tet     "&#x05d8;">
+<!ENTITY yod     "&#x05d9;">
+<!ENTITY fkaf    "&#x05da;">
+<!ENTITY kaf     "&#x05db;">
+<!ENTITY lamed   "&#x05dc;">
+<!ENTITY fmem    "&#x05dd;">
+<!ENTITY mem     "&#x05de;">
+<!ENTITY fnun    "&#x05df;">
+<!ENTITY nun     "&#x05e0;">
+<!ENTITY samekh  "&#x05e1;">
+<!ENTITY ayin    "&#x05e2;">
+<!ENTITY fpe     "&#x05e3;">
+<!ENTITY pe      "&#x05e4;">
+<!ENTITY ftsadi  "&#x05e5;">
+<!ENTITY tsadi   "&#x05e6;">
+<!ENTITY qof     "&#x05e7;">
+<!ENTITY resh    "&#x05e8;">
+<!ENTITY shin    "&#x05e9;">
+<!ENTITY tav     "&#x05ea;">
+
+<!-- hungaraj -->
+
+<!-- evitu, char shajne ne launormaj liternomoj -->
+<!ENTITY Odacute "&#x0150;">
+<!ENTITY odacute "&#x0151;">
+<!ENTITY Udacute "&#x0170;">
+<!ENTITY udacute "&#x0171;">
+
+<!-- uzu tiujn anstataue -->
+<!ENTITY Odblac "&#x0150;">
+<!ENTITY odblac "&#x0151;">
+<!ENTITY Udblac "&#x0170;">
+<!ENTITY udblac "&#x0171;">
+
+<!-- latvaj -->
+
+<!ENTITY amacron      "&#257;"> 
+<!ENTITY emacron      "&#275;">
+<!ENTITY gcommaaccent "&#291;">
+<!ENTITY imacron      "&#299;">
+<!ENTITY kcommaaccent "&#311;">
+<!ENTITY lcommaaccent "&#316;">
+<!ENTITY ncommaaccent "&#326;"> 
+<!ENTITY omacron      "&#333;"> 
+<!ENTITY rcommaaccent "&#343;"> 
+<!ENTITY umacron      "&#363;"> 
+
+<!ENTITY Amacron      "&#256;">
+<!ENTITY Emacron      "&#274;">
+<!ENTITY Gcommaaccent "&#290;">
+<!ENTITY Imacron      "&#298;">
+<!ENTITY Kcommaaccent "&#310;">
+<!ENTITY Lcommaaccent "&#315;">
+<!ENTITY Ncommaaccent "&#325;">
+<!ENTITY Omacron      "&#332;">
+<!ENTITY Rcommaaccent "&#342;">
+<!ENTITY Umacron      "&#362;">
+
+
+<!-- kimraj -->
+
+<!ENTITY Ycirc  "&#x0176;">
+<!ENTITY ycirc  "&#x0177;">
+<!ENTITY Wgrave "&#x1e80;">
+<!ENTITY wgrave "&#x1e81;">
+<!ENTITY Wacute "&#x1e82;">
+<!ENTITY wacute "&#x1e83;">
+<!ENTITY Wuml   "&#x1e84;">
+<!ENTITY wuml   "&#x1e85;">
+<!ENTITY Ygrave "&#x1ef2;">
+<!ENTITY ygrave "&#x1ef3;">
+<!ENTITY Wcirc  "&#x0174;">
+<!ENTITY wcirc  "&#x0175;">
+<!ENTITY Yuml   "&#x0178;">
+<!ENTITY yuml   "&#x00ff;">
+
+<!-- Signoj de la araba skribo. -->
+<!ENTITY    a_komo           "&#x060C;">
+<!ENTITY    a_punktokomo     "&#x061B;">
+<!ENTITY    a_demando        "&#x061F;">
+<!ENTITY    a_hamza          "&#x0621;">
+<!ENTITY    a_A_madda        "&#x0622;">
+<!ENTITY    a_A_hamza_sure   "&#x0623;">
+<!ENTITY    a_w_hamza        "&#x0624;">
+<!ENTITY    a_A_hamza_sube   "&#x0625;">
+<!ENTITY    a_y_hamza        "&#x0626;">
+<!ENTITY    a_A              "&#x0627;">
+<!ENTITY    a_b              "&#x0628;">
+<!ENTITY    a_t_marbuta      "&#x0629;">
+<!ENTITY    a_t              "&#x062A;">
+<!ENTITY    a_th             "&#x062B;">
+<!ENTITY    a_j              "&#x062C;">
+<!ENTITY    a_H              "&#x062D;">
+<!ENTITY    a_kh             "&#x062E;">
+<!ENTITY    a_d              "&#x062F;">
+<!ENTITY    a_dh             "&#x0630;">
+<!ENTITY    a_r              "&#x0631;">
+<!ENTITY    a_z              "&#x0632;">
+<!ENTITY    a_s              "&#x0633;">
+<!ENTITY    a_sh             "&#x0634;">
+<!ENTITY    a_S              "&#x0635;">
+<!ENTITY    a_D              "&#x0636;">
+<!ENTITY    a_T              "&#x0637;">
+<!ENTITY    a_Z              "&#x0638;">
+<!ENTITY    a_ayn            "&#x0639;">
+<!ENTITY    a_gh             "&#x063A;">
+<!ENTITY    a_tatwil         "&#x0640;">
+<!ENTITY    a_f              "&#x0641;">
+<!ENTITY    a_q              "&#x0642;">
+<!ENTITY    a_k              "&#x0643;">
+<!ENTITY    a_l              "&#x0644;">
+<!ENTITY    a_m              "&#x0645;">
+<!ENTITY    a_n              "&#x0646;">
+<!ENTITY    a_h              "&#x0647;">
+<!ENTITY    a_w              "&#x0648;">
+<!ENTITY    a_A_maqsura      "&#x0649;">
+<!ENTITY    a_y              "&#x064A;">
+<!ENTITY    a_fathatan       "&#x064B;">
+<!ENTITY    a_dammatan       "&#x064C;">
+<!ENTITY    a_kasratan       "&#x064D;">
+<!ENTITY    a_fatha          "&#x064E;">
+<!ENTITY    a_damma          "&#x064F;">
+<!ENTITY    a_kasra          "&#x0650;">
+<!ENTITY    a_shadda         "&#x0651;">
+<!ENTITY    a_sukun          "&#x0652;">
+<!ENTITY    a_madda_sure     "&#x0653;">
+<!ENTITY    a_hamza_sure     "&#x0654;">
+<!ENTITY    a_hamza_sube     "&#x0655;">
+<!ENTITY    a_A_sube         "&#x0656;">
+<!ENTITY    a_0              "&#x0660;">
+<!ENTITY    a_1              "&#x0661;">
+<!ENTITY    a_2              "&#x0662;">
+<!ENTITY    a_3              "&#x0663;">
+<!ENTITY    a_4              "&#x0664;">
+<!ENTITY    a_5              "&#x0665;">
+<!ENTITY    a_6              "&#x0666;">
+<!ENTITY    a_7              "&#x0667;">
+<!ENTITY    a_8              "&#x0668;">
+<!ENTITY    a_9              "&#x0669;">
+<!ENTITY    a_procento       "&#x066A;">
+<!ENTITY    a_dekumakomo     "&#x066B;">
+<!ENTITY    a_milumakomo     "&#x066C;">
+<!ENTITY    a_asterisko      "&#x066D;">
+<!ENTITY    a_A_sure         "&#x0670;">
+<!ENTITY    a_A_wasla        "&#x0671;">
+<!ENTITY    f_p              "&#x067E;">
+<!ENTITY    f_ch             "&#x0686;">
+<!ENTITY    f_zh             "&#x0698;">
+<!ENTITY    f_k              "&#x06A9;">
+<!ENTITY    f_g              "&#x06AF;">
+<!ENTITY    u_hy             "&#x06C0;">
+<!ENTITY    f_y              "&#x06CC;">
+<!ENTITY    f_0              "&#x06F0;">
+<!ENTITY    f_1              "&#x06F1;">
+<!ENTITY    f_2              "&#x06F2;">
+<!ENTITY    f_3              "&#x06F3;">
+<!ENTITY    f_4              "&#x06F4;">
+<!ENTITY    f_5              "&#x06F5;">
+<!ENTITY    f_6              "&#x06F6;">
+<!ENTITY    f_7              "&#x06F7;">
+<!ENTITY    f_8              "&#x06F8;">
+<!ENTITY    f_9              "&#x06F9;">
+<!ENTITY    a_fatha_A        "&a_fatha;&a_A;">
+<!ENTITY    a_kasra_y        "&a_kasra;&a_y;">
+<!ENTITY    a_damma_w        "&a_damma;&a_w;">
+
+<!-- Formatsignoj. -->
+<!ENTITY    zwnj             "&#x200C;">
+<!ENTITY    zwj              "&#x200D;">
+<!ENTITY    lrm              "&#x200E;">
+<!ENTITY    rlm              "&#x200F;">
+<!ENTITY    lre              "&#x202A;">
+<!ENTITY    rle              "&#x202B;">
+<!ENTITY    pdf              "&#x202C;">
+<!ENTITY    lro              "&#x202D;">
+<!ENTITY    rlo              "&#x202E;">
+
+

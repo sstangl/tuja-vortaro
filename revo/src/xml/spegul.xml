@@ -1,0 +1,167 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: spegul.xml,v 1.21 2015/07/04 08:37:43 revo Exp $">
+<kap>
+   <ofc>*</ofc>
+   <rad>spegul</rad>/o
+</kap>
+
+<drv mrk="spegul.0o">
+   <kap><ofc>*</ofc><tld/>o</kap>
+   <snc mrk="spegul.0o.KOMUNE">
+     <dif>
+       Glata brila surfaco, polurita a&ubreve; ne, resendanta
+       la lumon kaj la bildojn de la objektoj:
+       <ekz>
+         rigardi sin en la <tld/>o;
+       </ekz>
+       <ekz>
+         <uzo tip="stl">FIG</uzo>
+         la <tld/>o de la akvoj
+       </ekz>
+     </dif>
+     <refgrp tip="sin">
+       <ref cel="glat">glata&jcirc;o</ref>.
+     </refgrp>
+   </snc>
+   <snc mrk="spegul.0o.esprimilo">
+     <uzo tip="stl">FIG</uzo>
+     <dif>
+       Reprezenta&jcirc;o, simila&jcirc;o, signo:
+       <ekz>
+         de l' koro <tld/>o estas la okulo
+         <fnt><bib>PrV</bib></fnt>
+       </ekz>
+     </dif>
+     <refgrp tip="vid">
+       <ref cel="raport.0i">raporti</ref>.
+     </refgrp>
+   </snc>
+  <trdgrp lng="be">
+     <trd>&c_l;&c_ju;&c_s;&c_t;&c_r;&c_a;</trd>,
+     <trd>&c_l;&c_ju;&c_s;&c_t;&c_e;&c_r;&c_k;&c_a;</trd>
+   </trdgrp>
+  <trd lng="bg">&c_o;&c_g;&c_l;&c_je;&c_d;&c_a;&c_l;&c_o;</trd>
+  <trdgrp lng="cs">
+    <trd>zrcadlo</trd>,
+    <trd>zrcátko</trd>
+  </trdgrp>
+  <trd lng="de">Spiegel</trd>
+  <trd lng="en">mirror</trd>
+  <trd lng="es">espejo</trd>
+  <trdgrp lng="fr">
+     <trd>miroir</trd>,
+     <trd>glace</trd>
+   </trdgrp>
+  <trd lng="hu">t&uuml;k&ouml;r</trd>
+  <trd lng="id">cermin</trd>
+  <trd lng="nl">spiegel</trd>
+  <trd lng="ru">&c_z;&c_je;&c_r;&c_k;&c_a;&c_l;&c_o;</trd>
+  <trd lng="sk">zrkadlo</trd>
+  <trd lng="sv">spegel</trd>
+</drv>
+
+<drv mrk="spegul.0i">
+   <kap><tld/>i</kap>
+   <gra><vspec>tr</vspec></gra>
+   <snc mrk="spegul.0i.rektasence">
+     <dif>
+       Resendi la bildon de io:
+       <ekz>
+         la vesperstelo orbrile <tld/>i&gcirc;as en la blua rivero.
+       </ekz>
+     </dif>
+     <trd lng="de">spiegeln</trd>
+   </snc>
+   <snc mrk="spegul.0i.esprimi">
+     <uzo tip="stl">FIG</uzo>
+     <dif>
+       Vidigi, esti la signo de io:
+       <ekz>
+         lia fizionomio <tld/>is lian animon;
+       </ekz>
+       <ekz>
+         lia viza&jcirc;o <tld/>as sanon;
+       </ekz>
+       <ekz>
+         tiuj vortoj klare <tld/>as la animstaton de la partoprenintoj;
+       </ekz>
+       <ekz>
+         tiu artikolo ne <tld/>as la opinion de la redakcio;
+       </ekz>
+       <ekz>
+         tiu traduko ne <tld/>as fidele la originalan tekston;
+       </ekz>
+       <ekz>
+         la parlamento <tld/>as la voton de la popolo;
+       </ekz>
+       <ekz>
+         lia malamo <tld/>i&gcirc;as tra multaj pa&gcirc;oj.
+       </ekz>
+     </dif>
+     <refgrp tip="vid">
+       <ref cel="produk.re0i">reprodukti</ref>,
+       <ref cel="imit.0i">imiti</ref>,
+       <ref cel="kopi.0i">kopii</ref>,
+       <ref cel="bril">rebrilo</ref>,
+       <ref cel="ombr.0o">ombro</ref>,
+       <ref cel="portre.0o">portreto</ref>,
+       <ref cel="perfid.0i">perfidi</ref>,
+       <ref cel="skrib.0i.esprimi">skribi</ref>.
+     </refgrp>
+     <trd lng="de">widerspiegeln</trd>
+   </snc>
+  <trdgrp lng="be">
+     <trd>&c_a;&c_d;&c_l;&c_ju;&c_s;&c_t;&c_r;&c_o;&c_w;&c_v;&c_a;&c_c;&c_mol;</trd>, 
+     <trd>&c_a;&c_d;&c_b;&c_ib;&c_v;&c_a;&c_c;&c_mol; <klr tip="amb">(&c_u; &c_l;&c_ju;&c_s;&c_t;&c_e;&c_r;&c_k;&c_u;)</klr></trd>
+   </trdgrp>
+  <trd lng="cs">zrcadlit</trd>
+  <trd lng="es">reflejar</trd>
+  <trd lng="fr">refl&eacute;ter</trd>
+  <trdgrp lng="hu">
+     <trd>t&uuml;kr&ouml;z</trd>,
+     <trd>visszat&uuml;kr&ouml;z</trd>
+   </trdgrp>
+  <trd lng="nl">weerspiegelen</trd>
+  <trd lng="ru">&c_o;&c_t;&c_r;&c_a;&c_zh;&c_a;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>odzrkadliť</trd>,
+    <trd>zrkadliť</trd>
+  </trdgrp>
+  <trd lng="sv"><klr>(&aring;ter)</klr>spegla</trd>
+</drv>
+</art>
+<!--
+$Log: spegul.xml,v $
+Revision 1.21  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:33:24  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.19  2014/05/30 09:10:22  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.18  2011/12/01 19:10:08  revo
+Eduardo Navas: +trad es
+
+Revision 1.17  2007/12/09 17:31:01  revo
+Wieland Pusch: +trd bg
+
+Revision 1.16  2004/10/21 16:32:04  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.15  2004/02/01 17:30:58  revo
+Emmanuel Debanne: + trd fr
+
+Revision 1.14  2003/10/24 16:30:32  revo
+Zmicier Lapcionak: kor trd be
+
+Revision 1.13  2003/01/20 17:31:07  revo
+Zmicier Lapcionak: + trd be
+
+Revision 1.12  2002/02/15 17:33:35  revo
+-->
+</vortaro>

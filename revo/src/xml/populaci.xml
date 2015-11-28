@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: populaci.xml,v 1.3 2015/07/04 08:37:41 revo Exp $">
+<kap>
+  <rad>populaci</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="populaci.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="populaci.0o.EKOL">
+    <uzo tip="fak">EKOL</uzo>
+    <dif>
+      Tuto de samspecaj vivuloj, kiuj interagas
+      kaj reprodukti&gcirc;as en komuna areo:
+      <ekz>
+        en la <tld/>o de musoj, samkiel &ccirc;e multaj aliaj ron&gcirc;uloj, 
+        aparti&gcirc;as pli etaj aroj
+        <fnt>
+          <aut>J. &Scirc;uvajev</aut>,
+          <vrk><url
+          ref="http://www.eventoj.hu/steb/zoologio/konduto_de_bestoj/f874-p30.htm">
+          Pri la konduto de bestoj</url></vrk>,
+          <lok>Fokuso, 1987:1, p. 2a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="greg.0o.AGR">grego</ref>,
+      <ref cel="koloni.0o.EKOL">kolonio<sncref/></ref>,
+      <ref cel="rot.0o.aro_de_kunirantoj">roto<sncref/></ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>obyvatelstvo</trd>,
+    <trd>populace</trd>
+  </trdgrp>
+  <trd lng="fr">population<klr> (d&eacute;mographique)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>obyvateľstvo</trd>,
+    <trd>populácia</trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log: populaci.xml,v $
+Revision 1.3  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.2  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.1  2014/04/22 18:11:02  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

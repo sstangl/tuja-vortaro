@@ -1,0 +1,177 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: total.xml,v 1.15 2015/07/04 08:37:45 revo Exp $">
+<kap>
+  <rad>total</rad>/a <fnt><bib>SPV</bib></fnt>
+</kap>
+<drv mrk="total.0a">
+  <kap><tld/>a</kap>
+  <snc>
+    <dif>
+      &Ccirc;ion ampleksanta, &ccirc;ioma:
+      <ekz>
+        la <tld/>a nombro de la &ccirc;eestantoj;
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="komple2.0a">kompleta</ref>,
+      <ref cel="tut.0a">tuta</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_t;&c_a;&c_t;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>,
+    <trd>&c_u;&c_s;&c_je;&c_a;&c_g;&c_u;&c_l;&c_mol;&c_n;&c_y;</trd>,
+    <trd>&c_p;&c_o;&c_w;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trd lng="ca">total<klr> (adj.)</klr></trd>
+  <trdgrp lng="cs">
+    <trd>celkový</trd>,
+    <trd>totální</trd>,
+    <trd>úplný</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>v&ouml;llig</trd>,
+    <trd>vollst&auml;ndig</trd>,
+    <trd>total</trd>
+  </trdgrp>
+  <trd lng="es">total<klr> (adj.)</klr></trd>
+  <trd lng="fr">total<klr> (adj.)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>tot&aacute;lis</trd>,
+    <trd>&ouml;sszes</trd>
+  </trdgrp>
+  <trd lng="nl">totaal</trd>
+  <trd lng="pt">total</trd>
+  <trdgrp lng="ru">
+    <trd>&c_t;&c_o;&c_t;&c_a;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>,
+    <trd>&c_v;&c_s;&c_je;&c_o;&c_b;&c_shch;&c_i;&c_j;</trd>,
+    <trd>&c_p;&c_o;&c_l;&c_n;&c_y;&c_j;</trd>,
+    <trd>&c_b;&c_je;&c_z;&c_r;&c_a;&c_z;&c_d;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>celistvý</trd>,
+    <trd>totálny</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="total.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="total.0o.SNC">
+    <dif>
+      La tuta kvanto:
+      <ekz>
+        ili pereigis la <ind><tld/>o</ind>n de la popolo
+      </ekz>;
+      <ekz>
+        la planitaj investoj &gcirc;is 2003 faras totalon de 200 milionoj da
+        USD
+        <fnt>
+          <aut>Evgeni Georgiev</aut>,
+          <vrk><url ref="http://www.esperanto.be/fel/mon/">Artikoloj el
+          Monato - Balkanio</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="ca">total<klr> (subst.)</klr></trd>
+  <trdgrp lng="cs">
+    <trd>celé množství</trd>,
+    <trd>vše</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>total<klr> (subst.)</klr></trd>,
+    <trd>resultado</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>total<klr> (nom)</klr></trd>,
+    <trd>totalit&eacute;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>celé množstvo</trd>,
+    <trd>všetko</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="total.0ismo">
+  <kap><tld/>ismo</kap>
+  <snc mrk="total.0ismo.POL">
+  <uzo tip="fak">POL</uzo>
+    <dif>
+      Politika <ref tip="super" cel="regxim.0o.POL">re&gcirc;imo</ref>, en kiu
+      la rajtoj de la civitanoj estas kvaza&ubreve; ensorbitaj de la &scirc;tato, kaj
+      en kiu povas ekzisti nur unu partio, tiu de la &scirc;tatistoj:
+      <ekz>
+        <ind><tld/>isma</ind> re&gcirc;imo.
+        <trd lng="be">&c_t;&c_a;&c_t;&c_a;&c_l;&c_ib;&c_t;&c_a;&c_r;&c_n;&c_y;</trd>
+        <trd lng="ca">totalitari</trd>
+        <trd lng="de">totalit&auml;r</trd>
+        <trdgrp lng="es">
+          <trd>totalitario</trd>,
+          <trd>autoritario</trd>
+        </trdgrp>
+        <trd lng="fr">totalitaire</trd>
+        <trdgrp lng="hu">
+          <trd>&ouml;nk&eacute;nyuralmi</trd>,
+          <trd>totalit&aacute;rius</trd>
+        </trdgrp>
+        <trd lng="nl">autoritaire</trd>
+        <trd lng="pt">totalit&aacute;rio</trd>
+        <trd lng="ru">&c_t;&c_o;&c_t;&c_a;&c_l;&c_i;&c_t;&c_a;&c_r;&c_n;&c_y;&c_j;</trd>
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_t;&c_a;&c_t;&c_a;&c_l;&c_ib;&c_t;&c_a;&c_r;&c_y;&c_z;&c_m;</trd>
+  <trd lng="ca">totalitarisme</trd>
+  <trdgrp lng="cs">
+    <trd>totalita</trd>,
+    <trd>totalitarizmus</trd>,
+    <trd>totalitní režim</trd>,
+    <trd>totalizmus</trd>
+  </trdgrp>
+  <trd lng="de">Totalitarismus</trd>
+  <trd lng="es">totalitarismo</trd>
+  <trd lng="fr">totalitarisme</trd>
+  <trdgrp lng="hu">
+    <trd>&ouml;nk&eacute;nyuralom</trd>,
+    <trd>totalitarizmus</trd>
+  </trdgrp>
+  <trd lng="nl">totalitarisme</trd>
+  <trd lng="pt">totalitarismo</trd>
+  <trd lng="ru">&c_t;&c_o;&c_t;&c_a;&c_l;&c_i;&c_t;&c_a;&c_r;&c_i;&c_z;&c_m;</trd>
+  <trd lng="sk">totalizmus</trd>
+</drv>
+</art>
+<!--
+$Log: total.xml,v $
+Revision 1.15  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:40:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.13  2015/02/07 16:10:13  revo
+Alain Gerard: + ~o + trd (fr)
+
+Revision 1.12  2014/08/11 08:10:11  revo
+Guillermo Molleda Jimena: Kataluna, nederlanda kaj portugala tradukado
+
+Revision 1.11  2014/08/11 07:10:12  revo
+Guillermo Molleda Jimena: Hispana tradukado
+
+Revision 1.10  2012/08/14 12:10:25  revo
+Marc Rausell: + trd ca
+
+Revision 1.9  2010/08/03 16:31:22  revo
+Russ Williams: vidu kompleta, tuta
+
+Revision 1.8  2006/02/16 17:32:38  revo
+Tulio Flores: +trd pt
+
+Revision 1.7  2004/12/08 20:30:06  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.6  2004/10/12 16:32:22  revo
+-->
+</vortaro>

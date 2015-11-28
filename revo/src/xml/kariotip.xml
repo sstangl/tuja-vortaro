@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: kariotip.xml,v 1.4 2015/10/17 13:10:21 revo Exp $">
+<kap>
+  <rad>kariotip</rad>/o <fnt><bib>PIV2</bib></fnt>
+</kap>
+<drv mrk="kariotip.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="kariotip.0o.GNT">
+    <uzo tip="fak">FIZL</uzo>
+    <ref tip="dif" cel="kromos.0aro.FIZL">kromosomaro</ref>
+      <ekz>
+        la <tld/>o ebligas a&ubreve; malebligas la krucadon inter specioj a&ubreve; 
+        rasoj
+        <fnt>
+          <aut>C. St&oslash;p-Bowitz, M. B&eacute;la</aut>,
+          <vrk><url
+          ref="http://www.fw.hu/eventoj/steb/biologio/enkond-fokuso/f874-p08.htm">
+          Enkonduko en la biologion</url></vrk>,
+          <lok>Fokuso, 1987-04</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;i tie estas alia <tld/>o, tutcerte alia
+        <fnt>
+          <aut>K. Buli&ccirc;ov</aut>,
+          <vrk><url ref="http://sxakludanto.narod.ru/la_setlejo.htm">
+          La setlejo</url></vrk>,
+          <lok>[vidita en 2010]</lok>
+        </fnt>.
+      </ekz>
+  </snc>
+  <trd lng="ca">cariotip</trd>
+  <trd lng="en">karyotype</trd>
+  <trdgrp lng="fr">
+  <trd>caryotype</trd>,
+  <trd>caryogramme</trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log: kariotip.xml,v $
+Revision 1.4  2015/10/17 13:10:21  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.3  2014/03/31 15:10:25  revo
+Damien Brucker: +trd fr
+
+Revision 1.2  2012/01/03 23:10:28  revo
+Marc Rausell: ++trd ca (kor)
+
+Revision 1.1  2010/09/19 16:30:40  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

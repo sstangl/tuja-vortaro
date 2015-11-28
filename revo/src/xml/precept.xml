@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: precept.xml,v 1.7 2015/07/04 08:37:41 revo Exp $">
+<kap>
+  <rad>precept</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="precept.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="stl">RAR</uzo>
+  <snc>
+    <dif>
+      Instrua <ref tip="super" cel="senten.0o">sentenco</ref>, rekomendo
+      pri justa agado:
+      <ekz>
+        se vi sekvos &ccirc;i regulojn kaj <tld/>ojn, <klr>...</klr> viaj
+        tagoj
+        estos longaj
+        <fnt><bib>DonKihxoto</bib>, <lok>dua parto, &ccirc;apitro 42a, p.
+        628a</lok></fnt>
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="ca">precepte</trd>
+  <trd lng="cs">boží přikázání</trd>
+  <trd lng="es">precepto</trd>
+  <trd lng="fr">pr&eacute;cepte</trd>
+  <trdgrp lng="nl">
+    <trd>voorschrift</trd>,
+    <trd>regel<klr tip="ind"> (voorschrift)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>preceito</trd>,
+    <trd>recomenda&ccedil;&atilde;o</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_r;&c_je;&c_d;&c_p;&c_i;&c_s;&c_a;&c_n;&c_i;&c_je;</trd>,
+    <trd>&c_n;&c_a;&c_s;&c_t;&c_a;&c_v;&c_l;&c_je;&c_n;&c_i;&c_je;</trd>
+  </trdgrp>
+  <trd lng="sk">božie prikázanie</trd>
+</drv>
+</art>
+
+<!--
+$Log: precept.xml,v $
+Revision 1.7  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.6  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.5  2009/10/27 17:30:44  revo
+Paul Peeraerts: +nl
+
+Revision 1.4  2006/03/17 17:32:24  revo
+Tulio Flores: +tr pt
+
+Revision 1.3  2005/05/03 16:31:26  revo
+Yury Finkel: +trd ru
+
+Revision 1.2  2005/03/31 16:33:09  revo
+Raul Salinas Monteagudo: +trd ca,es
+
+Revision 1.1  2004/01/07 17:30:33  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

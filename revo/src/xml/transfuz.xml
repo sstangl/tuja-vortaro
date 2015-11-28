@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: transfuz.xml,v 1.8 2015/07/04 08:37:45 revo Exp $">
+<kap>
+  <rad>transfuz</rad>/i <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="transfuz.0i">
+  <kap><tld/>i</kap>
+  <snc mrk="transfuz.0i.MED">
+    <uzo tip="fak">MED</uzo>
+    <dif>
+      Enfluigi <ref tip="vid" cel="sang.0o.FIZL">sangon</ref>, 
+      plasmon, plaketojn en korpon per injekto:
+      <ekz>
+        juna kuracisto Wu Dengyun sciis, ke &scirc;i estos savebla nur per 
+        sango<tld/>o 
+        <fnt>
+          <aut>-</aut>,
+          <vrk><url ref="http://www.espero.com.cn/18s/16d/16d-29.htm">
+          Wu Dengyun, filo de Pamiro</url></vrk>,
+          <lok>2004</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="ca">transfondre<klr> (sang)</klr></trd>
+  <trd lng="cs">dát transfúzi</trd>
+  <trd lng="es">transfundir<klr> (sangre)</klr></trd>
+  <trd lng="fr">transfuser<klr> (du sang)</klr></trd>
+  <trd lng="hu">v&eacute;r&aacute;t&ouml;mleszt&eacute;st v&eacute;gez</trd>
+  <trd lng="it">trasfondere<klr> (sangue)</klr></trd>
+  <trd lng="nl">een <ind>bloedtransfusie</ind> toedienen</trd>
+  <trd lng="sk">dať transfúziu</trd>
+</drv>
+
+<drv mrk="transfuz.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="transfuz.0o.MED">
+    <uzo tip="fak">MED</uzo>
+    <dif>
+      Injekto de sango a&ubreve; sangokonsista&jcirc;oj:
+      <ekz>
+        por eviti &ccirc;iujn infektajn riskojn al malsanuloj okaze de sanga 
+        <tld/>o, oni petas la personojn, kies risko kontakti&gcirc;i kun 
+        virusaj malsanoj estas pli ver&scirc;ajna, ne doni sian sangon
+        <fnt>
+          <aut>trad. A. Bertin</aut>,
+          <vrk><url
+          ref="http://bertin.ifrance.com/artikol/sangdono.htm">
+          La Sangodono</url></vrk>,
+          <lok>[vidita en 2009]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="ca">transfusi&oacute;</trd>
+  <trdgrp lng="cs">
+    <trd>převod krve</trd>,
+    <trd>transfúze</trd>
+  </trdgrp>
+  <trd lng="es">transfusi&oacute;n sangu&iacute;nea</trd>
+  <trd lng="fr">transfusion sanguine</trd>
+  <trdgrp lng="hu">
+    <trd>v&eacute;r&aacute;t&ouml;mleszt&eacute;s</trd>,
+    <trd>transzf&uacute;zi&oacute;</trd>
+  </trdgrp>
+  <trd lng="it">trasfusione<klr> (di sangue)</klr></trd>
+  <trdgrp lng="nl">
+    <trd>bloedtransfusie</trd>,
+    <trd>transfusie</trd>
+  </trdgrp>
+  <trd lng="sk">transfúzia</trd>
+</drv>
+
+<drv mrk="transfuz.0ejo">
+  <kap><tld/>ejo</kap>
+  <snc mrk="transfuz.0ejo.MED">
+    <uzo tip="fak">MED</uzo>
+    <dif>
+      Loko aran&gcirc;ita por <tld/>ado:
+      <ekz>
+        mi mem vidis tiujn malfeli&ccirc;ulojn en <tld/>ejo vagantajn inter 
+        sangdonantoj kaj petantajn pri necesa sangogrupo
+        <fnt>
+          <aut>D. Bre&ccirc;alov</aut>,
+          <vrk><url ref="http://www.ipernity.com/blog/dmych/156652">
+          Ma&scirc;a</url></vrk>,
+          <lok>2009-06-03</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="ca">
+    <trd>centre de <ind>transfusi&oacute;</ind></trd>,
+    <trd>punt de <ind>transfusi&oacute;</ind></trd>
+  </trdgrp>
+  <trd lng="fr">centre de <ind>transfusion</ind> sanguine</trd>
+  <trd lng="hu">transzf&uacute;zi&oacute;s k&ouml;zpont</trd>
+  <trd lng="it">centro trasfusionale</trd>
+  <trd lng="nl">bloedtransfusiecentrum</trd>
+</drv>
+</art>
+
+<!--
+$Log: transfuz.xml,v $
+Revision 1.8  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.7  2015/06/29 16:40:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.6  2012/08/14 13:10:13  revo
+Marc Rausell: + trd ca
+
+Revision 1.5  2010/05/24 16:30:23  revo
+Antonio Codazzi: +trd it
+
+Revision 1.4  2010/05/18 16:31:02  revo
+Agustin Garcia Lopez: +trd es
+
+Revision 1.3  2009/10/29 17:30:49  revo
+Jozefo Horvath: +trd
+
+Revision 1.2  2009/08/11 16:31:00  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.1  2009/08/08 16:34:15  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

@@ -1,0 +1,145 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: glav.xml,v 1.25 2015/07/04 08:37:35 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>glav</rad>/o
+</kap>
+<drv mrk="glav.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="glav.0o.MIL">
+    <uzo tip="fak">MIL</uzo>
+    <dif>
+      <ref tip="super" cel="arm.0ilo">armilo</ref> konsistanta
+      el longa klingo kaj mallonga tenilo:
+      <ekz>
+        &ccirc;iuj, kiuj <tld/>on prenas, per <tld/>o pereos
+        <fnt><bib>NT</bib>, <lok>&Mat; 26:52</lok></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="ponard.0o">ponardo</ref>,
+      <ref cel="bajone.0o">bajoneto</ref>
+    </refgrp>
+   <trd lng="it">spada</trd>
+  </snc>
+  <trd lng="be">&c_m;&c_je;&c_ch;</trd>
+  <trd lng="bg">&c_m;&c_je;&c_ch;</trd>
+  <trd lng="ca">espasa</trd>
+  <trd lng="cs">meč</trd>
+  <trd lng="de">Schwert</trd>
+  <trd lng="en">sword</trd>
+  <trd lng="es">espada</trd>
+  <trdgrp lng="fr">
+    <trd>glaive</trd>,
+    <trd>&eacute;p&eacute;e</trd>
+  </trdgrp>
+  <trd lng="hu">kard</trd>
+  <trd lng="it">braccio<klr> (figurato)</klr></trd>
+  <trd lng="nl">zwaard</trd>
+  <trdgrp lng="pt">
+    <trd>gl&aacute;dio</trd>,
+    <trd>espada</trd>
+  </trdgrp>
+  <trd lng="ru">&c_m;&c_je;&c_ch;</trd>
+  <trd lng="sk">meč</trd>
+  <trd lng="sv">sv&auml;rd</trd>
+</drv>
+
+<drv mrk="glav.0ingo">
+  <kap><tld/>ingo</kap>
+  <snc>
+    <dif>
+      &Scirc;irma ingo, en kiu oni enigas la klingon de <tld/>o:
+      <ekz>
+        <tld/>o <klr>...</klr> pendis en la <tld/>ingo &ccirc;e lia lumbo
+        kaj facile povis eliri kaj eniri
+        <fnt><bib>MT</bib>, <lok>&Sa2; 20:8</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_n;&c_o;&c_zh;&c_n;&c_y; 
+<klr tip="amb">(&c_m;&c_ja;&c_ch;&c_a;)</klr></trd>
+  <trd lng="bg">&c_n;&c_o;&c_zh;&c_n;&c_i;&c_c;&c_a;&c_t;&c_a;</trd>
+  <trd lng="ca">beina</trd>
+  <trd lng="cs">pochva na meč</trd>
+  <trd lng="de">Scheide</trd>
+  <trd lng="en">scabbard</trd>
+  <trd lng="fr">fourreau<klr tip="ind"> (d'une &eacute;p&eacute;e)</klr></trd>
+  <trd lng="hu">kardh&uuml;vely</trd>
+  <trd lng="it">fodero</trd>
+  <trd lng="nl">schede<klr tip="ind"> (v.zwaard)</klr></trd>
+  <trd lng="pt">bainha</trd>
+  <trd lng="ru">&c_n;&c_o;&c_zh;&c_n;&c_y; <klr>(&c_m;&c_je;&c_ch;&c_a;)
+</klr></trd>
+  <trd lng="sk">pošva meča</trd>
+  <trd lng="sv"><klr>(sv&auml;rds)</klr>skida</trd>
+</drv>
+
+<drv mrk="glav.0bati0otrancxi0opiki">
+  <kap><tld/>bati, <var><kap><tld/>otran&ccirc;i</kap></var>, <var><kap><tld/>opiki</kap></var></kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      Frapi, tran&ccirc;i, piki per <tld/>o.
+    </dif>
+  </snc>
+  <adm>
+    Temas pri 3 diverssencaj verboj. <aut>MB</aut>
+  </adm>
+  <trd lng="be">&c_b;&c_ib;&c_c;&c_mol; 
+<klr tip="amb">(&c_m;&c_ja;&c_ch;&c_o;&c_m;)</klr></trd>
+  <trdgrp lng="ca">
+    <trd>copejar, ferir amb l'espasa</trd>,
+    <trd>fer una estocada</trd>
+  </trdgrp>
+  <trd lng="fr">estoquer</trd>
+  <trdgrp lng="pt">
+    <trd>espadear</trd>,
+    <trd>ferir com a espada</trd>
+  </trdgrp>
+  <trd lng="ru">&c_b;&c_i;&c_t;&c_mol; 
+<klr tip="amb">(&c_m;&c_je;&c_ch;&c_o;&c_m;)</klr></trd>
+<trd lng="it">colpire<klr> (con la spada)</klr></trd>
+  <trd lng="sk">pichnúť mečom</trd>
+  <trdgrp lng="cs">
+    <trd>bodat mečem</trd>,
+    <trd>píchat mečem</trd>,
+    <trd>píchnout mečem</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: glav.xml,v $
+Revision 1.25  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.24  2015/06/29 16:29:39  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.23  2012/10/23 00:11:34  revo
+Neil Roberts: aldonu la etikedon <var>
+
+Revision 1.22  2011/12/06 10:10:15  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.21  2009/03/02 17:31:02  revo
+Antonio Codazzi: +trd it
+
+Revision 1.20  2009/01/17 18:09:22  revo
+Wieland Pusch: +trd bg
+
+Revision 1.19  2009/01/06 17:30:16  revo
+Russ Williams: +trd en
+
+Revision 1.18  2005/04/14 16:32:31  revo
+Yury Finkel: +trd ru
+
+Revision 1.17  2004/09/12 17:43:57  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.16  2004/01/31 17:31:40  revo
+-->
+</vortaro>

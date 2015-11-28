@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: partner.xml,v 1.8 2015/07/04 08:37:41 revo Exp $">
+<kap>
+  <rad>partner</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="partner.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="partner.0o.KOMUNE">
+    <dif>
+      <ref tip="vid" cel="kun.0ulo">Kunulo</ref>:
+    </dif>
+    <subsnc mrk="partner.0o.EKON">
+      <uzo tip="fak">EKON</uzo>
+      <uzo tip="fak">POL</uzo>
+      <uzo tip="fak">SPO</uzo>
+      <dif>
+        kunpartoprenanto en entrepreno, en ludo:
+        <ekz>
+          ni ser&ccirc;as <tld/>ojn por e&ubreve;ropa projekto
+          <fnt>
+          <aut>R. G. Fr&ouml;hlich</aut>,
+          <vrk><url
+          ref="http://www.bavaresperantoinfo.de/0107/aktuell7.htm">
+          E&ubreve;ropaj Partneroj ser&ccirc;ataj...</url></vrk>,
+          <lok>2007-03</lok>
+          </fnt>.
+        </ekz>
+      </dif>
+    </subsnc>
+    <subsnc mrk="partner.0o.privata">
+      <dif>
+        <ref tip="dif" cel="par.0ulo.KOMUNE">Parulo</ref> a&ubreve;
+        <ref tip="dif" cel="par.0ulino.KOMUNE">parulino</ref>:
+        <ekz>
+          la &ccirc;efa malfacila&jcirc;o de la paro ku&scirc;as en la fakto, ke oni
+          tute 
+          ne scias kia estas la <tld/>o, &ccirc;ar oni ignoras kia oni mem 
+          estas
+          <fnt>
+            <aut>IVI</aut>,
+            <vrk><url ref="http://www.ivi-esperanto.org/ivi/paro.html">
+            &Ccirc;u ni scias ami nian partneron?</url></vrk>,
+            <lok>2007</lok>
+          </fnt>.
+        </ekz>
+      </dif>
+    </subsnc>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>partner</trd>,
+    <trd>společník</trd>
+  </trdgrp>
+  <trd lng="de">(Ehe-)Partner</trd>
+  <trdgrp lng="fr">
+    <trd>associ&eacute;</trd>,
+    <trd>partenaire</trd>
+  </trdgrp>
+  <trd lng="nl">partner</trd>
+  <trd lng="pt">parceiro</trd>
+  <trdgrp lng="sk">
+    <trd>partner</trd>,
+    <trd>spoločník</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="partner.0i">
+  <kap><tld/>i</kap>
+  <snc mrk="partner.0i.KOMUNE">
+    <dif>
+      Rilati al iu kiel al <tld/>o:
+      <ekz>
+        ni <tld/>is kun Unio Planeda <klr>...</klr>, kiu nun subtenas
+        la presadon de niaj revuoj
+        <fnt>
+        <aut>P. Cavalheiro</aut>,
+        <vrk><url ref="http://esperanto.org.br/p/content/view/191/87/">
+        BEL 2007</url></vrk>,
+        <lok>2007-11</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="fr">
+    <trd>&ecirc;tre <ind>associ&eacute;</ind> avec</trd>,
+    <trd>avoir pour <ind>partenaire</ind></trd>
+  </trdgrp>
+  <trd lng="nl"><ind>partner</ind> zijn</trd>
+  <trd lng="pt">ser <ind>parceiro</ind> de</trd>
+</drv>
+</art>
+
+<!--
+$Log: partner.xml,v $
+Revision 1.8  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.7  2015/06/29 16:40:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.6  2009/12/01 17:30:39  revo
+Jeromo Vasxe: ref dif cxe snc 2
+
+Revision 1.5  2009/09/10 16:32:46  revo
+Paul Peeraerts: +nl
+
+Revision 1.4  2008/11/05 17:30:43  revo
+Peter Hauser: + trad. de
+
+Revision 1.3  2007/12/16 17:30:17  revo
+Jeromo Vasxe: - malplena fak
+
+Revision 1.2  2007/11/22 17:30:55  revo
+Tulio Flores: +tr pt
+
+Revision 1.1  2007/11/15 17:30:15  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

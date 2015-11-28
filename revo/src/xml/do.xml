@@ -1,0 +1,176 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: do.xml,v 1.23 2015/07/04 08:37:32 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>do</rad> <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="do.0">
+   <kap><ofc>*</ofc><tld/></kap>
+   <snc mrk="do.0.konsekvence">
+     <gra><vspec>konjunkcio</vspec></gra>
+     <dif>
+       <ref tip="vid" cel="sekv.0e.ARG">Sekve</ref> de tio,
+       <ref tip="vid" cel="konsek1.0e">konsekvence</ref>,
+       konklude:
+       <ekz>
+         &ccirc;ion vi vidis, mi <tld/> ne ripetas
+         <fnt>
+           <bib>Paroloj</bib>
+           <vrk>Ferma Parolado en Washington</vrk>,
+           <lok>1910</lok>
+         </fnt>.
+       </ekz>
+     </dif>
+     <trdgrp lng="be">
+       <trd>&c_t;&c_a;&c_k;</trd>,
+       <trd>&c_t;&c_a;&c_k;&c_ib;&c_m; &c_ch;&c_y;&c_n;&c_a;&c_m;</trd>
+     </trdgrp>
+     <trd lng="nl">dus</trd>
+     <trdgrp lng="ru">
+       <trd>&c_i;&c_t;&c_a;&c_k;</trd>,
+       <trd>&c_s;&c_l;&c_je;&c_d;&c_o;&c_v;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_o;</trd>,
+       <trd>&c_t;&c_o;</trd>
+     </trdgrp>
+     <trdgrp lng="de">
+       <trd>also</trd>,
+       <trd>dann</trd>,
+       <trd>folglich</trd>
+     </trdgrp>
+     <trd lng="fi">siis</trd>
+     <trdgrp lng="pl">
+       <trd>wi&eogonek;c</trd>,
+       <trd>tak wi&eogonek;c</trd>,
+       <trd>st&aogonek;d</trd>
+     </trdgrp>
+     <trd lng="vo">also</trd>
+   </snc>
+   <snc mrk="do.0.emfaze">
+     <gra><vspec>emfaza adverbo</vspec></gra>
+     <dif>
+       Vere, efektive.
+     </dif>
+     <subsnc mrk="do.0.surprize">
+       <uzo tip="klr">(en demando)</uzo>
+       <dif>
+         Surprize, &ccirc;u vere?:
+         <ekz>
+           kion <tld/> vi volus ricevi
+           <fnt><bib>MT</bib>, <lok>&Eli; 2:20</lok></fnt>?
+         </ekz>
+         <ekz>
+           kie <tld/> li estas?
+         </ekz>
+       </dif>
+       <trdgrp lng="be">
+         <trd>&c_zh;</trd>,
+         <trd>&c_zh;&c_a;</trd>
+       </trdgrp>
+       <trdgrp lng="de">
+         <trd>also</trd>,
+         <trd>denn</trd>
+       </trdgrp>
+       <trdgrp lng="fi">
+         <trd>siis</trd>,
+         <trd>sitten</trd>
+       </trdgrp>
+       <trd lng="nl">dan</trd>
+       <trdgrp lng="pl">
+         <trd>wi&eogonek;c</trd>,
+         <trd>-&zdot;e<klr> (jako sufiks)</klr></trd>
+       </trdgrp>
+       <trd lng="ru">&c_zh;&c_je;</trd>
+     </subsnc>
+     <subsnc mrk="do.0.insiste">
+       <uzo tip="klr">(en ordono)</uzo>
+       <dif>
+         Nepre, vere:
+         <ekz>
+           venu <tld/>;
+         </ekz>
+         <ekz>
+           a&ubreve;skultu <tld/>
+           <fnt><bib>MT</bib>, <lok>&Sa1; 15:1</lok></fnt>;
+         </ekz>
+         <ekz>
+           demandu <tld/> tiun homon.
+         </ekz>
+       </dif>
+       <trdgrp lng="be">
+         <trd>&c_zh;</trd>,
+         <trd>&c_zh;&c_a;</trd>
+       </trdgrp>
+       <trdgrp lng="de">
+         <trd>doch</trd>
+       </trdgrp>
+       <trdgrp lng="fi">
+         <trd>(no...) sitten</trd>,
+         <trd>siis</trd>,
+       </trdgrp>
+       <trd lng="nl">dan</trd>
+       <trdgrp lng="pl">
+         <trd>wi&eogonek;c</trd>,
+         <trd>-&zdot;e<klr> (jako sufiks)</klr></trd>
+       </trdgrp>
+       <trd lng="ru">&c_zh;&c_je;</trd>
+     </subsnc>
+   </snc>
+  <trdgrp lng="cs">
+    <trd>igitur</trd>,
+    <trd>tedy</trd>,
+    <trd>tudíž</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+      <trd>pues</trd>,
+      <trd>por tanto</trd>
+   </trdgrp>
+  <trd lng="fr">donc</trd>
+  <trdgrp lng="pt">
+      <trd>logo</trd>,
+      <trd>ent&atilde;o</trd>,
+      <trd>pois</trd>,
+      <trd>portanto</trd>,
+      <trd>por <ind>conseguinte</ind></trd>
+    </trdgrp>
+  <trdgrp lng="sk">
+    <trd>nu&zcaron;</trd>,
+    <trd>potom</trd>,
+    <trd>tak</trd>,
+    <trd>teda</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: do.xml,v $
+Revision 1.23  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.22  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.21  2015/05/01 22:10:14  revo
+Jeromo Vasxe: + 1 ekz, + disting. konj-adv
+
+Revision 1.20  2010/08/25 16:30:29  revo
+Agustin Garcia Lopez: +trd es
+
+Revision 1.19  2009/07/01 17:21:14  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.18  2007/08/11 16:30:35  revo
+Tulio Flores: +tr pt
+
+Revision 1.17  2007/07/22 16:30:24  revo
+Harri Laine: +trd fi
+
+Revision 1.16  2003/12/13 17:34:52  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.15  2003/11/13 18:51:00  revo
+Bart Demeyere: +mrkoj
+
+Revision 1.14  2003/03/14 17:33:35  revo
+-->
+</vortaro>

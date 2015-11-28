@@ -1,0 +1,150 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: latent.xml,v 1.17 2015/07/04 08:37:38 revo Exp $">
+<kap>
+  <rad>latent</rad>/a
+</kap>
+<drv mrk="latent.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="latent.0a.FIL">
+    <dif>
+      Nevidebla, sed ekzistanta kaj aperigebla:
+      <ekz>
+        <tld/>a ideo, kontrasto, inklino;
+      </ekz>
+      <ekz>
+        <tld/>a militostato;
+      </ekz>
+      <ekz>
+        <tld/>a forto de elektra motoro;
+      </ekz>
+      <ekz>
+        homo eble pro sia anta&ubreve;a sorto estas <tld/>a esperantisto 
+        &gcirc;is la momento, kiam la lingvo internacia kaptas lian atenton
+        <fnt>
+          <aut>Stefan Maul</aut>,
+          <vrk>El verva vivo &jcirc;urnalista</vrk>,
+          <lok>p. 7</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>latent</trd>,
+      <trd>verborgen</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>latent</trd>,
+      <trd>hidden</trd>,
+      <trd>dormant</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>lappang&oacute;</trd>,
+      <trd>rejtett</trd>,
+      <trd>latens</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="latent.0a.MED">
+    <uzo tip="fak">MED</uzo>
+    <dif>
+      Nevidebla, sensimptoma:
+      <ekz>
+        <tld/>a malsano.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>ruhend</trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_l;&c_ja;&c_t;&c_e;&c_n;&c_t;&c_n;&c_y;</trd>,
+    <trd>&c_s;&c_h;&c_a;&c_v;&c_a;&c_n;&c_y;</trd>,
+    <trd>&c_n;&c_ja;&c_b;&c_a;&c_ch;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>latentní</trd>,
+    <trd>skrytý</trd>
+  </trdgrp>
+  <trd lng="el">&lambda;&alfa;&ny;&theta;&alfa_ton;&ny;&omega;&ny;</trd>
+  <trd lng="es">latente</trd>
+  <trd lng="fr">latent</trd>
+  <trd lng="nl">latent</trd>
+  <trd lng="pt">latente</trd>
+  <trdgrp lng="ru">
+    <trd>&c_l;&c_a;&c_t;&c_je;&c_n;&c_t;&c_n;&c_y;&c_j;</trd>,
+    <trd>&c_s;&c_k;&c_r;&c_y;&c_t;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>latentný</trd>,
+    <trd>skrytý</trd>,
+    <trd>utajený</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="latent.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc>
+    <dif>
+      Esti <tld/>a.
+    </dif>
+  </snc>
+  <trdgrp lng="hu">
+    <trd>lappang</trd>,
+    <trd>rejtve marad</trd>,
+    <trd>l&aacute;thatatlan</trd>
+  </trdgrp>
+  <trd lng="nl"><ind>latent</ind> aanwezig zijn</trd>
+  <trdgrp lng="sk">
+    <trd>byť v inkubačnom štádiu</trd>,
+    <trd>skrývať sa</trd>,
+    <trd>tajiť sa</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="latent.0o">
+  <kap><tld/>o</kap>
+  <snc>
+    <dif>
+      Nevidebla kapablo a&ubreve; eco, kiu povos aperi.
+    </dif>
+  </snc>
+  <trd lng="cs">latentnost</trd>
+  <trd lng="fr">latence</trd>
+  <trd lng="nl"><ind>latent</ind>e eigenschap</trd>
+  <trd lng="sk">latentnosť</trd>
+</drv>
+</art>
+<!--
+$Log: latent.xml,v $
+Revision 1.17  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.15  2014/03/27 07:10:18  revo
+Damien Brucker: +trd fr
+
+Revision 1.14  2009/09/28 16:30:29  revo
+Paul Peeraerts: +nl +ekz
+
+Revision 1.13  2008/07/18 13:15:14  revo
+Sebastian Cyprych: sen-utf8-igita
+
+Revision 1.12  2004/05/24 16:34:11  revo
+Jeromo Vasxe: + ~o, + mrk, + trd fr
+
+Revision 1.11 2004/05/22 16:32:48 revo
+Jozefo Horvath: +trd hu
+
+Revision 1.10 2003/05/02 16:30:50 revo
+Dmitri Gabinski: +trd be
+
+Revision 1.9 2002/09/14 18:52:10 revo
+Ulrich Fellmann: + 3 trd de
+
+Revision 1.8 2002/08/23 17:30:57 revo
+-->
+</vortaro>

@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: edikt.xml,v 1.18 2015/07/04 08:37:33 revo Exp $">
+<kap>
+  <ofc>3</ofc>
+  <rad>edikt</rad>/o
+</kap>
+<drv mrk="edikt.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">JUR</uzo>
+  <uzo tip="fak">POL</uzo>
+  <snc>
+    <dif>
+      Le&gcirc;forta ordono de regnestro. 
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="dekret.0o">dekreto</ref>,
+      <ref cel="ukaz.0o">ukazo</ref>.
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_e;&c_d;&c_y;&c_k;&c_t;</trd>,
+    <trd>&c_u;&c_k;&c_a;&c_z;</trd>
+  </trdgrp>
+  <trdgrp lng="bg">
+    <trd>&c_u;&c_k;&c_a;&c_z;</trd>,
+    <trd>&c_d;&c_je;&c_k;&c_r;&c_je;&c_t;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>edikt</trd>,
+    <trd>nařízení</trd>,
+    <trd>výnos</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+     <trd>Erlass</trd>,
+     <trd>Edikt</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>edict</trd>,
+    <trd>order</trd>,
+    <trd>decree</trd>
+  </trdgrp>
+  <trdgrp lng="fa">
+    <trd>&a_H;&a_damma;&f_k;&a_m;</trd>,
+    <trd>&a_f;&a_r;&a_m;&a_A;&a_n;</trd>
+  </trdgrp>
+  <trd lng="fr">&eacute;dit</trd>
+  <trdgrp lng="hu">
+     <trd>ediktum</trd>,
+     <trd>uralkod&oacute;i <ind>rendelet</ind></trd>
+  </trdgrp>
+  <trd lng="nl">edict</trd>
+  <trdgrp lng="pl">
+    <trd>edykt</trd>,
+    <trd>postanowienie</trd>,
+    <trd>zarz&aogonek;dzenie</trd>,
+    <trd>roporz&aogonek;dzenie</trd>
+  </trdgrp>
+  <trd lng="pt">edito</trd>
+  <trdgrp lng="ru">
+    <trd>&c_u;&c_k;&c_a;&c_z;</trd>,
+    <trd>&c_p;&c_o;&c_s;&c_t;&c_a;&c_n;&c_o;&c_v;&c_l;&c_je;&c_n;&c_i;&c_je;</trd>,
+    <trd>&c_e;&c_d;&c_i;&c_k;&c_t;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>nariadenie</trd>,
+    <trd>výnos</trd>
+  </trdgrp>
+  <trd lng="sv">p&aring;bud</trd>
+</drv>
+</art>
+<!--
+$Log: edikt.xml,v $
+Revision 1.18  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.16  2013/08/30 20:10:16  revo
+Joop Eggen: +trd bg
+
+Revision 1.15  2010/05/07 16:30:38  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.14  2010/02/21 17:30:51  revo
+Russ Williams: +trd en
+
+Revision 1.13  2009/08/28 16:32:16  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.12  2007/06/22 17:25:10  revo
+Tulio Flores: +tr pt
+
+Revision 1.11  2003/12/14 17:31:59  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.10  2002/09/30 16:32:29  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.9  2002/05/17 16:33:19  revo
+-->
+</vortaro>

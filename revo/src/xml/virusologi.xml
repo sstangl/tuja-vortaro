@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: virusologi.xml,v 1.5 2014/06/07 16:10:30 revo Exp $">
+<kap>
+  <rad>virusologi</rad>/o <fnt><bib>PIV2</bib></fnt>
+</kap>
+<drv mrk="virusologi.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="virusologi.0o.SCI">
+    <uzo tip="fak">BAK</uzo>
+    <uzo tip="fak">SCI</uzo>
+    <dif>
+      Scienco pri la <ref tip="vid" cel="virus.0o.BAK">virusoj</ref>, 
+      parto de <ref tip="malprt" 
+      cel="mikrob1.0o.SCI">mikrobiologio</ref>:
+      <ekz>
+        la <tld/>o esploras la strukturon kaj reproduktociklon de 
+        virusoj
+        <fnt><bib>Viki</bib>, <lok>artikolo &leftquot;mikrobiologio&rightquot;, 
+        2006-03-19</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="ca">virologia</trd>
+  <trd lng="fa">&a_w;&f_y;&a_r;&a_w;&a_s;&zwnj;&a_sh;&a_n;&a_A;&a_s;&f_y;</trd>
+  <trd lng="fr">virologie</trd>
+  <trd lng="id">virologi</trd>
+  <trd lng="pl">wirusologia</trd>
+</drv>
+
+<drv mrk="virusologi.0isto">
+  <kap><tld/>isto</kap>
+  <snc mrk="virusologi.0isto.SCI">
+    <uzo tip="fak">BAK</uzo>
+    <uzo tip="fak">SCI</uzo>
+    <dif>
+      Fakulo pri <tld/>o.
+    </dif>
+  </snc>
+  <trd lng="ca">vir&ograve;leg</trd>
+  <trd lng="fa">&a_w;&f_y;&a_r;&a_w;&a_s;&zwnj;&a_sh;&a_n;&a_A;&a_s;</trd>
+  <trdgrp lng="fr">
+    <trd>virologiste</trd>,
+    <trd>virologue</trd>
+  </trdgrp>
+  <trd lng="id">virolog</trd>
+  <trd lng="pl">wirusolog</trd>
+</drv>
+</art>
+
+<!--
+$Log: virusologi.xml,v $
+Revision 1.5  2014/06/07 16:10:30  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.4  2014/01/10 14:10:22  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.3  2012/08/12 17:10:13  revo
+Marc Rausell: + trd ca
+
+Revision 1.2  2009/09/02 16:31:03  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.1  2006/06/30 16:31:05  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

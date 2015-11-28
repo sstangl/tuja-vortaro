@@ -1,0 +1,145 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: risort.xml,v 1.20 2015/07/04 08:37:42 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>risort</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="risort.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="risort.0o.MAS">
+    <uzo tip="fak">MAS</uzo>
+    <dif>
+      Elasta lameno a&ubreve; fadeno el metalo a&ubreve; alia materialo, kapabla
+      repreni la anta&ubreve;an formon, post kiam &gcirc;i estis fleksita,
+      premita a&ubreve; stre&ccirc;ita:
+      <ekz>
+        <tld/>o de horlo&gcirc;o, de kanapo, de kale&scirc;o<fnt>B</fnt>;
+      </ekz>
+      <ekz>
+        <tld/>a matraco<fnt>B</fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_p;&c_r;&c_u;&c_zh;&c_y;&c_n;&c_a;</trd>,
+    <trd>&c_r;&c_y;&c_s;&c_o;&c_r;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="ca">
+    <trd>ressort</trd>,
+    <trd>molla</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>pero</trd>,
+    <trd>pružina</trd>,
+    <trd>péro</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Feder</trd>,
+    <trd>Sprungfeder</trd>
+  </trdgrp>
+  <trd lng="en">spring</trd>
+  <trd lng="es">resorte</trd>
+  <trd lng="fa">&a_f;&a_n;&a_r;</trd>
+  <trd lng="fr">ressort</trd>
+  <trd lng="hu">rug&oacute;</trd>
+  <trd lng="nl">veer</trd>
+  <trd lng="pt">mola</trd>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_r;&c_u;&c_zh;&c_i;&c_n;&c_a;</trd>,
+    <trd>&c_r;&c_je;&c_s;&c_s;&c_o;&c_r;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>pero</trd>,
+    <trd>pružina</trd>,
+    <trd>struna</trd>
+  </trdgrp>
+  <trd lng="sv">fj&auml;der</trd>
+</drv>
+
+<drv mrk="risort.0aro">
+  <kap><tld/>aro</kap>
+  <snc mrk="risort.0aro.AUT">
+    <uzo tip="fak">AUT</uzo>
+    <dif>
+      Tuto de <tld/>oj a&ubreve; similaj rimedoj,
+      kiuj mildigas la skuojn de veturilo
+      a&ubreve; alia ma&scirc;ino:
+      <ekz>
+        &ccirc;e nia kariolo, vi sciu, <tld/>aro difekti&gcirc;is
+        <fnt>
+          <aut>A. &Ccirc;e&hcirc;ov, trad. A. Kor&jcirc;enkov</aut>,
+          <vrk><url
+          ref="http://www.esperanto-ondo.ru/Libroj/V_bibl02.pdf">
+          Sveda alumeto</url></vrk>,
+          <lok>2004-2010</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">pérování <klr>(vozidla)</klr></trd>
+  <trd lng="fr">syst&egrave;me de <ind>suspension</ind></trd>
+  <trdgrp lng="sk">
+    <trd>pruženie <klr>(auta)</klr></trd>,
+    <trd>pérovanie</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="risort.0igxi">
+  <kap><tld/>i&gcirc;i</kap>
+  <snc>
+    <dif>
+      Reagi kiel <tld/>o.
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="salt.re0i">resalti</ref>
+    </refgrp>
+    <refgrp tip="vid">
+      <ref cel="kauxcx.0o">ka&ubreve;&ccirc;uko</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_s;&c_p;&c_r;&c_u;&c_zh;&c_y;&c_n;&c_ib;&c_c;&c_mol;</trd>
+  <trd lng="ca">rebotar</trd>
+  <trdgrp lng="de">
+    <trd>federn</trd>,
+    <trd>abfedern</trd>,
+    <trd>zur&uuml;ckfedern</trd>
+  </trdgrp>
+  <trd lng="hu">rug&oacute;zik</trd>  
+  <trd lng="ru">&c_p;&c_r;&c_u;&c_zh;&c_i;&c_n;&c_i;&c_t;&c_mol;</trd>
+</drv>
+</art>
+<!--
+$Log: risort.xml,v $
+Revision 1.20  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2014/11/03 21:10:28  revo
+Jeromo Vasxe: + ~aro
+
+Revision 1.17  2012/01/02 16:10:13  revo
+Marc Rausell: +trd ca
+
+Revision 1.16  2009/08/23 16:31:13  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.15  2006/02/21 17:33:03  revo
+Tulio Flores: +trd pt
+
+Revision 1.14  2004/09/16 16:32:33  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.13  2003/11/08 08:20:09  revo
+Alejandro Mejia Greene: ald 1 his trd
+
+Revision 1.12  2003/08/17 17:32:30  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.11  2003/01/22 17:34:21  revo
+-->
+</vortaro>

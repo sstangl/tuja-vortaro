@@ -1,0 +1,128 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: bijekc.xml,v 1.17 2015/07/04 08:37:31 revo Exp $">
+<kap>
+<rad>bijekci</rad>/o
+</kap>
+<drv mrk="bijekc.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>MatVort</bib></fnt>
+  <snc>
+    <dif>
+      <ref tip="super" cel="bild.0igo.MAT">Bildigo</ref>, kiu estas
+      <ref tip="super" cel="enjekc.0o">enjekcio</ref> kaj
+      <ref tip="super" cel="surjek.0o">surjekcio</ref>:
+      <ekz>
+        <tld/>o &ccirc;iam estas inversigebla.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="jxet.dissur0o">dissur&jcirc;eto;</ref>
+    <ref tip="vid" cel="kardin.0o.MAT">kardinalo.</ref>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_b;&c_ib;&c_je;&c_k;&c_c;&c_y;&c_ja;</trd>,
+    <trd>&c_u;&c_z;&c_a;&c_je;&c_m;&c_n;&c_a; &c_a;&c_d;&c_n;&c_a;&c_z;&c_n;&c_a;&c_ch;&c_n;&c_a;&c_ja; <ind>&c_a;&c_d;&c_p;&c_a;&c_v;&c_je;&c_d;&c_n;&c_a;&c_s;&c_c;&c_mol;</ind></trd>
+  </trdgrp>
+  <trd lng="cs">bijekce</trd>
+  <trd lng="de">Bijektion</trd>
+  <trdgrp lng="en">
+    <trd>bijection</trd>,
+    <trd>biunique correspondence</trd>,
+    <trd>one-to-one mapping</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>biyecci&oacute;n</trd>,
+    <trd>funci&oacute;n biyectiva</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>bijection</trd>,
+    <trd>application bijective</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>k&eacute;tir&aacute;ny&uacute; <ind>kibocs&aacute;t&aacute;s</ind></trd>,
+    <trd>k&ouml;lcs&ouml;n&ouml;sen egy&eacute;rtelm&udblac; <ind>megfeleltet&eacute;s</ind></trd>,
+    <trd>one-to-one mapping</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>funkcja odwracalna</trd>,
+    <trd>funkcja wzajemnie jednoznaczna</trd>,
+    <trd>bijekcja</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_v;&c_z;&c_a;&c_i;&c_m;&c_n;&c_o; &c_o;&c_d;&c_n;&c_o;&c_z;&c_n;&c_a;&c_ch;&c_n;&c_o;&c_je; <ind>&c_s;&c_o;&c_o;&c_t;&c_v;&c_je;&c_t;&c_s;&c_t;&c_v;&c_i;&c_je;</ind></trd>,
+    <trd>&c_b;&c_i;&c_je;&c_k;&c_c;&c_i;&c_ja;</trd>
+  </trdgrp>
+  <trd lng="sk">bijekcia</trd>
+</drv>
+
+<drv mrk="bijekc.0a">
+  <kap><tld/>a</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>MatVort</bib></fnt>
+  <snc>
+    <dif>
+      <klr>(p.p. <ref cel="bild.0igo.MAT">bildigo</ref>)</klr>
+      Havanta la ecojn de <tld/>o:
+      <ekz>
+        konstanta reela funkcio ne estas <tld/>a.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_b;&c_ib;&c_je;&c_k;&c_t;&c_y;&c_w;&c_n;&c_y;</trd>,
+    <trd>&c_u;&c_z;&c_a;&c_je;&c_m;&c_n;&c_a; <ind>&c_a;&c_d;&c_n;&c_a;&c_z;&c_n;&c_a;&c_ch;&c_n;&c_y;</ind></trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>bijektiv</trd>,
+    <trd>eineindeutig</trd></trdgrp> 
+  <trdgrp lng="en">
+    <trd>bijective</trd>,
+    <trd>one-to-one</trd></trdgrp> 
+  <trd lng="es">biyectiva</trd>
+  <trdgrp lng="fr">
+    <trd>bijectif</trd>,
+    <trd>biunivoque</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>bijektywny</trd>,
+    <trd>odwracalny</trd>,
+    <trd>wzajemnie jednoznaczny</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd> &c_b;&c_i;&c_je;&c_k;&c_t;&c_i;&c_v;&c_n;&c_y;&c_j; </trd>,
+    <trd>&c_v;&c_z;&c_a;&c_i;&c_m;&c_n;&c_o; <ind>&c_o;&c_d;&c_n;&c_o;&c_z;&c_n;&c_a;&c_ch;&c_n;&c_y;&c_j;</ind></trd></trdgrp> 
+</drv>
+</art>
+<!--
+$Log: bijekc.xml,v $
+Revision 1.17  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2008/08/25 18:15:36  revo
+Carlos Garcia: +trd "es" -o -a
+
+Revision 1.15  2004/03/16 17:30:54  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.14  2003/03/23 17:32:28  revo
+Marc Bavant: ~a: +trd pl
+
+Revision 1.13  2003/01/14 17:35:28  revo
+Jozefo Horvath: +trd hu
+Revision 1.12  2002/11/24 17:33:24  revo
+Marc Bavant: +trd pl, +ref al kardinalo
+Revision 1.11  2002/09/09 19:53:36  revo
+Viliam Bur: +trd sk
+Revision 1.10  2002/05/20 16:36:29  revo
+Marc Bavant: ~o: mod trd ru
+Revision 1.9  2002/05/02 16:34:27  revo
+Marc Bavant: ~a: +fnt; ~o: reverkis dif
+Revision 1.8  2002/03/24 17:31:12  revo
+Marc Bavant: mod fnt; ~a: +trd
+Revision 1.7  2002/01/06 17:45:07  revo
+-->
+</vortaro>
+

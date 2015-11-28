@@ -1,0 +1,142 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: kaprio.xml,v 1.17 2015/07/04 08:37:36 revo Exp $">
+<kap>
+  <rad>kapriol</rad>/o
+  <fnt>Z</fnt>
+</kap>
+<drv mrk="kaprio.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="kaprio.0o.SPO">
+  <uzo tip="fak">SPO</uzo>
+    <dif>
+      Salto en aero, la&ubreve; kapra maniero.
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_k;&c_a;&c_ch;&c_o;&c_k;</trd>,
+    <trd>&c_s;&c_k;&c_o;&c_k;</trd>
+  </trdgrp>
+  <trdgrp lng="ca">
+    <trd>cabriola</trd>,
+    <trd>saltir&oacute;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>kapriola</trd>,
+    <trd>rozmarný poskok</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Luftsprung</trd>,
+    <trd>Bocksprung</trd>,
+    <trd>Kapriole</trd>
+  </trdgrp>
+  <trd lng="en">caper</trd>
+  <trd lng="es">cabriola</trd>
+  <trdgrp lng="fr">
+    <trd>cabriole</trd>,
+    <trd>galipette</trd>
+  </trdgrp>
+  <trd lng="hu">bakugr&aacute;s</trd>
+  <trdgrp lng="nl">
+    <trd>capriool</trd>,
+    <trd>bokkensprong</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>kozio&lstroke;ek</trd>,
+    <trd>salto</trd>,
+    <trd>fiko&lstroke;ek</trd>
+  </trdgrp>
+  <trd lng="ru">&c_s;&c_k;&c_a;&c_ch;&c_o;&c_k;</trd>
+  <trdgrp lng="sk">
+    <trd>kotrmelec</trd>,
+    <trd>poskok</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kaprio.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="kaprio.0i.SPO">
+    <dif>
+      Aersalti; salti multe kaj malpeze.
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="petol.0i">petoli</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_k;&c_a;&c_k;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_p;&c_a;&c_d;&c_s;&c_k;&c_o;&c_k;&c_v;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="ca">
+    <trd>cabriolar</trd>,
+    <trd>saltironar</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>metat kozelce</trd>,
+    <trd>poskakovat</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Luftspr&uuml;nge machen</trd>,
+    <trd>Bockspr&uuml;nge machen</trd>,
+    <trd>Kapriolen schlagen</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>caper</trd>,
+    <trd>frisk</trd>,
+    <trd>gambol</trd>,
+    <trd>leap about</trd>,
+    <trd>prance</trd>,
+    <trd>romp</trd>
+  </trdgrp>
+  <trd lng="fr">cabrioler</trd>
+  <trdgrp lng="hu">
+    <trd>sz&ouml;kd&eacute;csel</trd>,
+    <trd>ugr&aacute;ndozik</trd>
+  </trdgrp>
+  <trd lng="nl">bokkensprongen maken</trd>
+  <trdgrp lng="pl">
+    <trd>robi&cacute; <ind>kozio&lstroke;ki</ind></trd>,
+    <trd>fika&cacute; <ind>kozio&lstroke;ki</ind></trd>,
+    <trd>robi&cacute; <ind>salta</ind></trd>,
+    <trd>robi&cacute; <ind>fiko&lstroke;ki</ind></trd>,
+    <trd>fika&cacute;</trd>
+  </trdgrp>
+  <trd lng="ru">&c_s;&c_k;&c_a;&c_k;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="sk">robiť kotrmelce</trd>
+</drv>
+</art>
+<!--
+$Log: kaprio.xml,v $
+Revision 1.17  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.15  2012/01/03 21:10:16  revo
+Marc Rausell: +trd ca
+
+Revision 1.14  2009/08/23 16:33:52  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.13  2009/02/19 20:27:54  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.12  2005/07/08 16:31:24  revo
+Jeromo Vasxe: + fak spo, + mrk, + vid, + 1 trd fr
+
+Revision 1.11 2004/11/07 17:32:21 revo
+Marc Bavant: +trd fr
+
+Revision 1.10 2004/08/11 16:31:44 revo
+Dmitri Gabinski: +trd be
+
+Revision 1.9 2003/06/01 16:31:24 revo
+Alejandro Mejia Greene: ald 1 his trd
+
+Revision 1.8 2002/10/17 16:31:25 revo
+-->
+</vortaro>

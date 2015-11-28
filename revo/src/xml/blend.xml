@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: blend.xml,v 1.15 2015/07/04 08:37:31 revo Exp $">
+<kap>
+  <rad>blend</rad>/o
+  <fnt>Z</fnt>
+</kap>
+<drv mrk="blend.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">KEM</uzo>
+  <uzo tip="fak">MIN</uzo>
+  <snc>
+    <dif>
+      Natura zinka sulfido. ZnS.
+    </dif>
+    <trdgrp lng="ca">
+      <trd>blenda</trd>,
+      <trd>esfalerita</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd>Sphalerit</trd>,
+      <trd>Zinkblende</trd>,
+      <trd>Zinksulfid</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>blende</trd>,
+      <trd>zinc sulfate</trd>,
+      <trd>zinc sulphate</trd>,
+      <trd>sphalerite</trd>
+    </trdgrp>
+    <trd lng="fr">blende</trd>
+    <trdgrp lng="hu">
+      <trd>szfalerit</trd>,
+      <trd>cinkf&eacute;nyle</trd>,
+      <trd>cinkszulfid</trd>,
+    </trdgrp>
+    <trd lng="pl">blenda cynkowa</trd>
+    <trdgrp lng="ru">
+      <trd>&c_s;&c_f;&c_a;&c_l;&c_je;&c_r;&c_i;&c_t;</trd>,
+      <trd>&c_c;&c_i;&c_n;&c_k;&c_o;&c_v;&c_a;&c_ja;
+      &c_o;&c_b;&c_m;&c_a;&c_n;&c_k;&c_a;</trd>,
+      <trd>&c_b;&c_l;&c_je;&c_n;&c_d;&c_a;</trd>
+    </trdgrp>
+  </snc>
+  <refgrp tip="hom">
+    Ne miksu kun <ref cel="blend1.0o">blendo</ref> (kiraso).
+  </refgrp>
+  <trdgrp lng="sk">
+    <trd>sfalerit</trd>,
+    <trd>sulfid zinočnatý</trd>
+  </trdgrp>
+  <trd lng="cs">pancéřový kryt</trd>
+</drv>
+</art>
+<!--
+$Log: blend.xml,v $
+Revision 1.15  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:29:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.13  2011/12/06 10:10:36  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.12  2009/06/29 18:04:38  revo
+Russ Williams: +trd en
+
+Revision 1.11  2009/03/15 17:31:36  revo
+Wieland Pusch: +trd de
+
+Revision 1.10  2009/03/13 17:30:33  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.9  2004/12/13 17:32:12  revo
+Marc Bavant: splitis inter blend/blend1, +uzo MIN
+
+Revision 1.8 2003/08/25 16:32:07 revo
+Yury Finkel: +trd ru
+
+Revision 1.7 2003/02/05 17:31:14 revo
+Jozefo Horvath: +trd hu
+
+Revision 1.6 2001/01/19 17:11:46 revo
+-->
+</vortaro>

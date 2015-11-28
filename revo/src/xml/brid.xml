@@ -1,0 +1,277 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: brid.xml,v 1.25 2015/07/04 08:37:31 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>brid</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="brid.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="brid.0o.RAJ">
+    <dif>
+      Kaprimeno por konduki &ccirc;evalon a&ubreve; alian beston.
+    </dif>
+  </snc>
+  <trd lng="be">&c_a;&c_b;&c_r;&c_o;&c_c;&c_mol;</trd>
+  <trdgrp lng="ca">
+    <trd>brida</trd>,
+    <trd>regna</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>brzda</trd>,
+    <trd>tlumení</trd>,
+    <trd>uzda</trd>,
+    <trd>zábrana</trd>
+  </trdgrp>
+  <trd lng="de">Z&uuml;gel</trd>
+  <trd lng="en">bridle</trd>
+  <trdgrp lng="es">
+   <trd>brida</trd>,
+   <trd>rienda</trd>
+  </trdgrp>
+  <trd lng="fr">bride</trd>
+  <trd lng="hu">k&ouml;t&odblac;f&eacute;k</trd>
+  <trd lng="nl">teugel</trd>
+  <trdgrp lng="pl">
+    <trd>cugle</trd>,
+    <trd>uzda</trd>,
+    <trd>lejce</trd>,
+    <trd>wodze</trd>,
+    <trd>smycz</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>freio <klr>(para cavalos)</klr></trd>,
+    <trd>entrave</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_u;&c_z;&c_d;&c_a;</trd>,
+    <trd>&c_u;&c_z;&c_d;&c_je;&c_ch;&c_k;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>kantár</trd>,
+    <trd>uzda</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="brid.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="brid.0i.RAJ">
+    <dif>
+      Surmeti <tld/>on al.
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_z;&c_a;&c_b;&c_r;&c_y;&c_t;&c_a;&c_c;&c_mol;</trd>,
+      <trd>&c_z;&c_a;&c_k;&c_ib;&c_l;&c_z;&c_a;&c_c;&c_mol;</trd>
+    </trdgrp>
+    <trd lng="ca">embridar</trd>
+    <trd lng="es">poner riendas</trd>
+    <trd lng="hu">k&ouml;t&odblac;f&eacute;ket tesz r&aacute;</trd>
+    <trdgrp lng="pl">
+      <trd>nak&lstroke;ada&cacute; <ind>uzd&eogonek;</ind></trd>
+      <trd>zak&lstroke;ada&cacute; <ind>smycz</ind></trd>
+    </trdgrp>
+    <trd lng="ru">&c_v;&c_z;&c_n;&c_u;&c_z;&c_d;&c_a;&c_t;&c_mol;</trd>
+  </snc>
+  <snc mrk="brid.0i.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Moderigi, kvietigi, obeigi:
+      <ekz>
+        devo kaj volo <tld/>as &ccirc;iujn pasiojn;
+      </ekz>
+      <ekz>
+        <tld/>i sian bu&scirc;on<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="brems.0i.FIG">bremsi<sncref/></ref>,
+      <ref cel="buton.0umimalvaste.FRAZ">butonumi malvaste</ref>,
+      <ref cel="katen.0i.FIG">kateni</ref>,
+      <ref cel="reg.0i">regi</ref>,
+      <ref cel="ten.0i">teni</ref>
+    </refgrp>
+    <trdgrp lng="be">
+      <trd>&c_u;&c_t;&c_a;&c_j;&c_m;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
+      <trd>&c_u;&c_c;&c_ib;&c_h;&c_a;&c_m;&c_ib;&c_r;&c_y;&c_c;&c_mol;</trd>
+    </trdgrp>
+    <trdgrp lng="ca">
+      <trd>contenir</trd>,
+      <trd>moderar</trd>,
+      <trd>reprimir</trd>
+    </trdgrp>
+    <trd lng="de">z&uuml;geln</trd>
+    <trdgrp lng="es">
+      <trd>contener</trd>,
+      <trd>moderar</trd>,
+      <trd>reprimir</trd>
+    </trdgrp>
+    <trd lng="nl">beteugelen</trd>
+    <trdgrp lng="pl">
+      <trd>kie&lstroke;zna&cacute;</trd>
+    </trdgrp>
+    <trd lng="ru">&c_o;&c_b;&c_u;&c_z;&c_d;&c_a;&c_t;&c_mol;</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>krotit</trd>,
+    <trd>nasadit uzdu</trd>
+  </trdgrp>
+  <trd lng="fr">brider</trd>
+  <trdgrp lng="hu">
+    <trd>megf&eacute;kez</trd>,
+    <trd>f&eacute;ken tart</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>dať na uzdu</trd>,
+    <trd>skrotiť</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="brid.sen0a">
+  <kap>sen<tld/>a<fnt>Z</fnt></kap>
+  <snc mrk="brid.sen0a.RAJ">
+    <dif>
+      Liberigita el <tld/>o.
+    </dif>
+    <trd
+    lng="be">&c_r;&c_a;&c_s;&c_k;&c_ib;&c_l;&c_z;&c_a;&c_n;&c_y;</trd>
+    <trd lng="hu">k&ouml;t&odblac;f&eacute;k n&eacute;lk&uuml;li</trd>
+  </snc>
+  <snc mrk="brid.sen0a.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Senmodera, senlima, trolibera:
+      <ekz>
+        sen<tld/>a kolero, ambicio, fantazio, pasio.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_r;&c_a;&c_z;&c_b;&c_e;&c_sh;&c_ch;&c_a;&c_n;&c_y;</trd>,
+      <trd>&c_r;&c_a;&c_s;&c_p;&c_u;&c_sh;&c_ch;&c_a;&c_n;&c_y;</trd>
+    </trdgrp>
+    <trd lng="de">z&uuml;gellos</trd>
+    <trdgrp lng="es">
+      <trd>sin riendas</trd>,
+      <trd>sin moderaci&oacute;n</trd>
+    </trdgrp>
+    <trdgrp lng="nl">
+      <trd>teugelloos</trd>,
+      <trd>wild</trd>
+    </trdgrp>
+    <trd lng="pl">nieokie&lstroke;zany</trd>
+  </snc>
+  <trdgrp lng="ca">
+    <trd>desbocat</trd>,
+    <trd>desenfrenat</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>bujný</trd>,
+    <trd>divoký</trd>,
+    <trd>hýřivý</trd>,
+    <trd>nevázaný</trd>,
+    <trd>nezkrotný</trd>,
+    <trd>prostopášný</trd>,
+    <trd>rozpustilý</trd>
+  </trdgrp>
+  <trd lng="fr">d&eacute;brid&eacute;</trd>
+  <trd lng="hu">f&eacute;ktelen</trd>
+  <trdgrp lng="pt">
+    <trd>desenfreado</trd>,
+    <trd>imoderado</trd>,
+    <trd>impetuoso</trd>,
+    <trd>&aacute;rdego</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_r;&c_a;&c_z;&c_n;&c_u;&c_z;&c_d;&c_a;&c_n;&c_n;&c_y;&c_j;</trd>,
+    <trd>&c_n;&c_je;&c_o;&c_b;&c_u;&c_z;&c_d;&c_a;&c_n;&c_n;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>bujný</trd>,
+    <trd>divoký</trd>,
+    <trd>hýrivý</trd>,
+    <trd>neviazaný</trd>,
+    <trd>rozpustilý</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="brid.sen0igi">
+  <kap>sen<tld/>igi</kap>
+  <snc mrk="brid.sen0igi.RAJ">
+    <dif>
+      Demeti <tld/>on de.
+    </dif>
+    <trd
+    lng="be">&c_r;&c_a;&c_s;&c_k;&c_ib;&c_l;&c_z;&c_a;&c_c;&c_mol;</trd>
+    <trdgrp lng="ca">
+      <trd>desbridar</trd>,
+      <trd>desembridar</trd>
+    </trdgrp>
+    <trd lng="hu">leveszi a
+    <ind>k&ouml;t&odblac;f&eacute;ket</ind></trd>
+    <trdgrp lng="pl">
+      <trd>spuszcza&cacute; ze <ind>smyczy</ind></trd>,
+      <trd>puszcza&cacute; <ind>luzem</ind></trd>,
+      <trd>puszcza&cacute; <ind>wolno</ind></trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="brid.sen0igi.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Lasi plenan liberecon:
+      <ekz>
+        la sen<tld/>igita popolo faris bu&ccirc;adon<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+    <trd
+    lng="be">&c_r;&c_a;&c_z;&c_b;&c_e;&c_s;&c_mol;&c_c;&c_ib;&c_c;&c_mol;</trd>
+    <trd lng="ca">donar plena llibertat</trd>
+    <trd lng="es">dejar plena libertad</trd>
+    <trdgrp lng="pl">
+      <trd>spuszcza&cacute; ze <ind>smyczy</ind></trd>
+    </trdgrp>
+  </snc>
+  <trd lng="cs">učinit nezkrotným</trd>
+  <trd lng="fr">d&eacute;brider</trd>
+  <trd lng="hu">szabadj&aacute;ra enged</trd>
+  <trd
+  lng="ru">&c_r;&c_a;&c_z;&c_n;&c_u;&c_z;&c_d;&c_a;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>1.sňať uzdu</trd>,
+    <trd>2.ponechať úplnú voľnosť <klr>(pren.)</klr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: brid.xml,v $
+Revision 1.25  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.24  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.23  2015/05/18 15:10:15  revo
+Joop Eggen: +trd de nl
+
+Revision 1.22  2014/10/12 15:10:22  revo
+Guillermo Molleda Jimena: trd es
+
+Revision 1.21  2012/07/16 13:10:11  revo
+Marc Rausell: + trd ca
+
+Revision 1.20  2011/03/03 13:10:09  revo
+Jeromo Vasxe: + mrk
+
+Revision 1.19  2010/07/07 16:30:18  revo
+Agustin Garcia Lopez: eraro es (-a, -igi)
+
+Revision 1.18  2009/03/26 17:30:46  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.17  2006/04/20 19:24:17  revo
+Tulio Flores: +tr pt
+
+Revision 1.16  2006/04/17 16:34:41  revo
+-->
+</vortaro>

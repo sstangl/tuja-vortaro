@@ -1,0 +1,210 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: meteor.xml,v 1.24 2015/07/04 08:37:39 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>meteor</rad>/o
+</kap>
+
+<drv mrk="meteor.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="meteor.0o.luma">
+    <fnt><bib>PIV2</bib></fnt>
+    <uzo tip="fak">AST</uzo>
+    <dif>
+      Luma fenomeno, okazanta, kiam &ccirc;iela korpo veninta el
+      la kosma spaco renkontas la teran atmosferon:
+      <ekz>
+        la pensoj de la knabo levi&gcirc;is de la vaporoj de la tero alte
+        supren
+        al la brilanta <tld/>o
+        <fnt><bib>Fab4</bib>, <lok>du fratoj</lok></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_m;&c_e;&c_t;&c_e;&c_o;&c_r;</trd>
+    <trd lng="ca">estel fuga&ccedil;</trd>
+    <trd lng="en">shooting star</trd>
+    <trdgrp lng="pl">
+      <trd>meteor</trd>,
+      <trd>spadaj&aogonek;ca <ind>gwiazda</ind></trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="meteor.0o.meteoroido">
+    <fnt><bib>PIV1</bib></fnt>
+    <uzo tip="fak">AST</uzo>
+    <dif>
+      &Ccirc;iela korpo, movi&gcirc;anta (falanta) tra la tera atmosfero:
+      <ekz>
+        aliaj objektoj en la &ccirc;ielo estas planedoj, steloj, lunoj,
+        kometoj,
+        <tld/>oj
+        <fnt>
+        <aut>R. Walter</aut>
+        <vrk>Re: &Ccirc;u Esperanto nur e&ubreve;ropa lingvo?</vrk>
+        <lok>soc.culture.esperanto, 1998-12-22</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_m;&c_e;&c_t;&c_e;&c_a;&c_r;&c_y;&c_t;</trd>,
+      <trd>&c_b;&c_a;&c_l;&c_ib;&c_d;</trd>
+    </trdgrp>
+    <trdgrp lng="ca">
+      <trd>b&ograve;lid</trd>,
+      <trd>meteorit</trd>
+    </trdgrp>
+    <trd lng="en">meteor</trd>
+    <trdgrp lng="pl">
+      <trd>meteor</trd>,
+      <trd>spadaj&aogonek;ca <ind>gwiazda</ind></trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="meteor.0o.atmosfera_fenomeno">
+    <fnt><bib>VdE</bib></fnt>
+    <fnt><bib>PV</bib></fnt>
+    <dif>
+      &Ccirc;ia atmosfera fenomeno, precipe la nekutimaj.
+    </dif>
+    <ref tip="vid" cel="meteor2.0o">meteorologio</ref>
+    <rim>
+      Oni kutimis distingi inter <tld/>oj
+      akvaj:
+      <refgrp tip="sub">
+        <ref cel="pluv.0o">pluvo</ref>,
+        <ref cel="ros.0o">roso</ref>,
+        <ref cel="negx.0o">ne&gcirc;o</ref>,
+        <ref cel="hajl.0o">hajlo</ref>...,
+      </refgrp>
+      aeraj:
+      <refgrp tip="sub">
+        <ref cel="vent.0o">vento</ref>,
+        <ref cel="uragan.0o">uragano</ref>...,
+      </refgrp>
+      fajraj:
+      <refgrp tip="sub">
+        <ref cel="fulm.0o">fulmo</ref>,
+        <ref cel="stel.fal0o">falstelo</ref>,
+        <ref cel="meteor.0o.luma">meteoro <sncref/></ref>,
+        <ref cel="bolid.0o">bolido</ref>...,
+      </refgrp>
+      kaj lumaj:
+      <refgrp tip="sub">
+        <ref cel="ark.cxiel0o">&ccirc;ielarko</ref>,
+        <ref cel="lum.nord0o">nordlumo</ref>...
+      </refgrp>
+    </rim>
+    <trd lng="be">&c_a;&c_t;&c_m;&c_a;&c_s;&c_f;&c_e;&c_r;&c_n;&c_a;&c_ja;
+    &c_z;&c_mol;&c_ja;&c_v;&c_a;</trd>
+    <trdgrp lng="ca">
+      <trd>meteor</trd>,
+      <trd>fenomen atmosf&egrave;ric</trd>
+    </trdgrp>
+    <trd lng="hu">l&eacute;gk&ouml;ri jelens&eacute;g</trd>
+    <trdgrp lng="nl">
+      <trd>luchtverschijnsel</trd>,
+      <trd>lichtverschijnsel</trd>
+    </trdgrp>
+    <trd lng="ru">&c_a;&c_t;&c_m;&c_o;&c_s;&c_f;&c_je;&c_r;&c_n;&c_o;&c_je;
+    &c_ja;&c_v;&c_l;&c_je;&c_n;&c_i;&c_je;</trd>
+  </snc>
+  <rim>
+    En la Dua Oficiala Aldono la vorto
+    aperis sen difino, &ccirc;ar &gcirc;i estis internacia vorto. En multaj
+    naciaj lingvoj la senco <sncref ref="meteor.0o.atmosfera_fenomeno"/>
+    estis la kutima en la unua duono de la 20a jarcento, sed poste la
+    sencoj
+    <sncref ref="meteor.0o.luma"/> kaj
+    <sncref ref="meteor.0o.meteoroido"/>
+    i&gcirc;is pli kutimaj. Kiel montras la fontindikoj de la tri
+    koncernaj sencoj, la &ccirc;efaj vortaroj ne interkonsentas pri tio,
+    kio estu la <ctl>&ccirc;efa</ctl> signifo de <ctl><tld/>o</ctl> en
+Esperanto.
+    Beda&ubreve;rinde malmultas la a&ubreve;toritataj ekzemploj.
+  </rim>
+  <trdgrp lng="de">
+    <trd>Meteor</trd>
+  </trdgrp>
+  <trd lng="fr">m&eacute;t&eacute;ore</trd>
+  <trd lng="id">meteor</trd>
+  <trd lng="no">meteor</trd>
+  <trd lng="pt">meteoro</trd>
+  <trd lng="sk">meteor</trd>
+  <trdgrp lng="cs">
+    <trd>meteor</trd>,
+    <trd>vzdušný jev</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="meteor.0sxtono">
+  <kap><tld/>&scirc;tono</kap>
+  <snc mrk="meteor.0sxtono.AST">
+    <uzo tip="fak">AST</uzo>
+    <ref tip="dif" cel="aeroli.0o">aerolito</ref>
+    <dif>
+    </dif>
+  </snc>
+  <trd lng="be">&c_m;&c_e;&c_t;&c_e;&c_a;&c_r;&c_y;&c_t;</trd>
+  <trd lng="ca">meteorit</trd>
+  <trdgrp lng="de">
+    <trd>Aerolith</trd>,
+    <trd>Meteorstein</trd>,
+    <trd>Meteorit</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>meteorite</trd>,
+    <trd>aerolite</trd>
+  </trdgrp>
+  <trd lng="fr">m&eacute;t&eacute;orite</trd>
+  <trdgrp lng="hu">
+    <trd>meteor</trd>,
+    <trd>meteork&odblac;</trd>,
+    <trd>hull&oacute;csillag</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>meteoorsteen</trd>,
+    <trd>meteoriet</trd>,
+    <trd>meteoro&iuml;de</trd>,
+    <trd>meteoroliet</trd>
+  </trdgrp>
+  <trdgrp lng="no">
+    <trd>meteoritt</trd>,
+    <trd>meteorstein</trd>
+  </trdgrp>
+  <trd lng="pl">meteoryt</trd>
+  <trd lng="ru">&c_m;&c_je;&c_t;&c_je;&c_o;&c_r;&c_i;&c_t;</trd>
+</drv>
+</art>
+<!--
+$Log: meteor.xml,v $
+Revision 1.24  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.23  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.22  2014/06/01 15:10:23  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.21  2013/12/02 15:10:21  revo
+Damien Brucker: +trd fr
+
+Revision 1.20  2013/02/26 14:10:11  revo
+Dmitri Gabinski: redakto: +trd be
+
+Revision 1.19  2013/01/01 14:10:15  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.18  2012/01/05 14:10:17  revo
+Marc Rausell: +trd ca
+
+Revision 1.17  2008/10/05 16:30:17  revo
+Russ Williams: +trd en
+
+Revision 1.16  2007/06/01 16:32:03  revo
+Wieland Pusch: +trd de
+
+Revision 1.15  2006/08/01 16:33:00  revo
+-->
+</vortaro>

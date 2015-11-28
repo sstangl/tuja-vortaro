@@ -1,0 +1,249 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: monopo.xml,v 1.20 2015/07/04 08:37:39 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>monopol</rad>/o
+</kap>
+<drv mrk="monopo.0o">
+  <kap><tld/>o</kap>
+  <snc>
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      Privilegio donanta al iu persono, kompanio a&ubreve; &scirc;tato ekskluzivan
+      rajton fabriki a&ubreve; vendi ian komerca&jcirc;on a&ubreve; plenumi ian servon:
+      <ekz>
+        &scirc;tata <tld/>o pri tabako;
+      </ekz>
+      <ekz>
+        havi <tld/>on super la merkato.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="akapar">akaparo</ref>,
+      <ref cel="kartel.0o">kartelo</ref>,
+      <ref cel="trust.0o">trusto</ref>,
+      <ref cel="konces">koncesio</ref>,
+      <ref cel="privil.0o">privilegio</ref>.
+    </refgrp>
+  </snc>
+  <snc>
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Ekskluziva posedo:
+      <ekz>
+        batali pri la <tld/>o ekspluati la popolon<fnt>B</fnt>;
+      </ekz>
+      <ekz>
+        vi ne havas la <tld/>on de la kura&gcirc;o.
+      </ekz>
+    </dif>
+  </snc>
+  <snc>
+    <fnt><bib>IKEV</bib></fnt>
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      Merkata situacio, en kiu unu kompanio regas la vendan flankon kaj
+      tiel povas dikti la prezojn a&ubreve; liverkondi&ccirc;ojn al la klientoj.
+      Monopolo povas esti&gcirc;i per la&ubreve;le&gcirc;aj a&ubreve; kontra&ubreve;le&gcirc;aj agoj. En
+      amba&ubreve;
+      okazoj registaroj ofte batalas kontra&ubreve; monopolfirmaoj, &ccirc;ar
+      monopolo
+      signifas manka konkurado kaj tiel tendencas al altigo de prezoj
+      kaj
+      malaltigo de la produktkvalito.
+      Se regas du grandaj kompanioj, oni tion nomas duopolo, se pluraj,
+      oligopolo.
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="duopol.0o">duopolo</ref>,
+      <ref cel="polipol.0o">polipolo</ref>,
+      <ref cel="oligopol.0o">oligopolo</ref>.
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_m;&c_a;&c_n;&c_a;&c_p;&c_o;&c_l;&c_ib;&c_ja;</trd>
+  <trd lng="cs">monopol</trd>
+  <trd lng="de">Monopol</trd>
+  <trd lng="nl">monopool</trd>
+  <trd lng="ru">&c_m;&c_o;&c_n;&c_o;&c_p;&c_o;&c_l;&c_i;&c_ja;</trd>
+  <trd lng="sk">monopol</trd>
+  <trd lng="sv">monopol</trd>
+  <trd lng="tr">tekel</trd>
+</drv>
+
+<drv mrk="monopo.absoluta0o">
+  <kap>absoluta <tld/>o</kap>
+  <uzo tip="fak">EKON</uzo>
+  <fnt><bib>KrDE</bib></fnt>
+  <snc>
+    <dif>
+      Monopolo tiom forta, ke neniu merkata aganto povas &gcirc;in minaci.
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_b;&c_s;&c_a;&c_l;&c_ju;&c_t;&c_n;&c_a;&c_ja; <ind>&c_m;&c_a;&c_n;&c_a;&c_p;&c_o;&c_l;&c_ib;&c_ja;</ind></trd>,
+    <trd>&c_n;&c_je;&c_a;&c_b;&c_m;&c_je;&c_zh;&c_a;&c_v;&c_a;&c_n;&c_a;&c_ja; <ind>&c_m;&c_a;&c_n;&c_a;&c_p;&c_o;&c_l;&c_ib;&c_ja;</ind></trd>
+  </trdgrp>
+  <trdgrp lng="de">
+     <trd>absolutes Monopol</trd>,
+     <trd>uneingeschr&auml;nktes Monopol</trd>
+  </trdgrp>
+  <trd lng="en">absolute monopoly</trd>
+  <trdgrp lng="ru">
+    <trd>&c_a;&c_b;&c_s;&c_o;&c_l;&c_ju;&c_t;&c_n;&c_a;&c_ja; <ind>&c_m;&c_o;&c_n;&c_o;&c_p;&c_o;&c_l;&c_i;&c_ja;</ind></trd>,
+    <trd>&c_n;&c_je;&c_o;&c_g;&c_r;&c_a;&c_n;&c_i;&c_ch;&c_je;&c_n;&c_n;&c_a;&c_ja;
+    <ind>&c_m;&c_o;&c_n;&c_o;&c_p;&c_o;&c_l;&c_i;&c_ja;</ind></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="monopo.duflanka0o">
+  <kap>duflanka <tld/>o</kap>
+  <uzo tip="fak">EKON</uzo>
+  <snc>
+    <dif>
+      Samtempa ekzisto de monopolo kaj <ref tip="vid"
+      cel="monops.0o">monopsonio</ref>.
+    </dif>
+  </snc>
+  <trd lng="be">&c_d;&c_v;&c_u;&c_h;&c_b;&c_a;&c_k;&c_o;&c_v;&c_a;&c_ja;
+  <ind>&c_m;&c_a;&c_n;&c_a;&c_p;&c_o;&c_l;&c_ib;&c_ja;</ind></trd>
+  <trd lng="de">bilaterales Monopol</trd>
+  <trdgrp lng="ru">
+    <trd>&c_d;&c_v;&c_u;&c_s;&c_t;&c_o;&c_r;&c_o;&c_n;&c_n;&c_ja;&c_ja; <ind>&c_m;&c_o;&c_n;&c_o;&c_p;&c_o;&c_l;&c_i;&c_ja;</ind></trd>,
+    <trd>&c_b;&c_i;&c_l;&c_a;&c_t;&c_je;&c_r;&c_a;&c_l;&c_mol;&c_n;&c_a;&c_ja; <ind>&c_m;&c_o;&c_n;&c_o;&c_p;&c_o;&c_l;&c_i;&c_ja;</ind></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="monopo.0igi">
+  <kap><tld/>igi</kap>
+  <snc>
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      &Gcirc;ui <tld/>on pri io:
+      <ekz>
+        la trusto <tld/>igas la petrolon;
+      </ekz>
+      <ekz>
+        spiri liberan, de neniu <tld/>igitan aeron<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_m;&c_a;&c_n;&c_a;&c_p;&c_a;&c_l;&c_ib;&c_z;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>monopolizovat</trd>,
+    <trd>zmonopolizovat</trd>
+  </trdgrp>
+  <trd lng="de">monopolisieren</trd>
+  <trd lng="en">monopolize</trd>
+  <trd lng="nl">monopoliseren</trd>
+  <trd lng="ru">&c_m;&c_o;&c_n;&c_o;&c_p;&c_o;&c_l;&c_i;&c_z;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="sk">monopolizovať</trd>
+</drv>
+
+<drv mrk="monopo.0profitoj">
+  <kap><tld/>profitoj</kap>
+  <uzo tip="fak">EKON</uzo>
+  <snc>
+    <dif>
+      Profitoj, kies kvanto nur eblas pro monopolo.
+    </dif>
+  </snc>
+  <trd lng="be">&c_m;&c_a;&c_n;&c_a;&c_p;&c_o;&c_l;&c_mol;&c_n;&c_y;&c_ja; &c_p;&c_r;&c_y;&c_b;&c_y;&c_t;&c_k;&c_ib;</trd>
+  <trd lng="de">Monopolprofite</trd>
+  <trd lng="ru">&c_m;&c_o;&c_n;&c_o;&c_p;&c_o;&c_l;&c_mol;&c_n;&c_a;&c_ja; &c_p;&c_r;&c_i;&c_b;&c_y;&c_l;&c_mol;</trd>
+</drv>
+
+<drv mrk="monopo.0akapitalo">
+  <kap><tld/>a kapitalo</kap>
+  <uzo tip="fak">EKON</uzo>
+  <snc>
+    <dif>
+      Kapitalo akirita el monopolprofitoj. Ofte: Entrepren(ist)oj kiuj
+      akiras monopolprofitojn.
+    </dif>
+  </snc>
+  <trd lng="be">&c_m;&c_a;&c_n;&c_a;&c_p;&c_o;&c_l;&c_mol;&c_n;&c_y; &c_k;&c_a;&c_p;&c_ib;&c_t;&c_a;&c_l;</trd>
+  <trd lng="de">Monopolkapital</trd>
+  <trd lng="ru">&c_m;&c_o;&c_n;&c_o;&c_p;&c_o;&c_l;&c_mol;&c_n;&c_y;&c_j; &c_k;&c_a;&c_p;&c_i;&c_t;&c_a;&c_l;</trd>
+</drv>
+
+<drv mrk="monopo.eksport0o">
+  <kap>eksport<tld/>o</kap>
+  <uzo tip="fak">EKON</uzo>
+  <snc>
+    <dif>
+      Monopolo je la eksportado de varo.
+    </dif>
+  </snc>
+  <trd lng="be">&c_e;&c_k;&c_s;&c_p;&c_a;&c_r;&c_t;&c_n;&c_a;&c_ja; <ind>&c_m;&c_a;&c_n;&c_a;&c_p;&c_o;&c_l;&c_ib;&c_ja;</ind></trd>
+  <trd lng="de">Exportmonopol</trd>
+  <trd lng="en">export monopoly</trd>
+  <trd lng="ru">&c_e;&c_k;&c_s;&c_p;&c_o;&c_r;&c_t;&c_n;&c_a;&c_ja; <ind>&c_m;&c_o;&c_n;&c_o;&c_p;&c_o;&c_l;&c_i;&c_ja;</ind></trd>
+</drv>
+
+<drv mrk="monopo.import0o">
+  <kap>import<tld/>o</kap>
+  <uzo tip="fak">EKON</uzo>
+  <snc>
+    <dif>
+      Monopolo je la importado de varo.
+    </dif>
+  </snc>
+  <trd lng="be">&c_ib;&c_m;&c_p;&c_a;&c_r;&c_t;&c_n;&c_a;&c_ja; <ind>&c_m;&c_a;&c_n;&c_a;&c_p;&c_o;&c_l;&c_ib;&c_ja;</ind></trd>
+  <trd lng="cs">dovozní monopol</trd>
+  <trd lng="de">Importmonopol</trd>
+  <trd lng="en">import monopoly</trd>
+  <trd lng="ru">&c_i;&c_m;&c_p;&c_o;&c_r;&c_t;&c_n;&c_a;&c_ja; <ind>&c_m;&c_o;&c_n;&c_o;&c_p;&c_o;&c_l;&c_i;&c_ja;</ind></trd>
+  <trd lng="sk">dovozný monopol</trd>
+</drv>
+
+<drv mrk="monopo.sxtata0o">
+  <kap>&scirc;tata <tld/>o</kap>
+  <uzo tip="fak">EKON</uzo>
+  <snc>
+    <dif>
+      Monopolo tenata de la &scirc;tataj organoj.
+    </dif>
+  </snc>
+  <trd lng="be">&c_d;&c_z;&c_ja;&c_r;&c_zh;&c_a;&c_w;&c_n;&c_a;&c_ja; <ind>&c_m;&c_a;&c_n;&c_a;&c_p;&c_o;&c_l;&c_ib;&c_ja;</ind></trd>
+  <trd lng="de">Staatsmonopol</trd>
+  <trd lng="en">government monopoly</trd>
+  <trd lng="ru">&c_g;&c_o;&c_s;&c_u;&c_d;&c_a;&c_r;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_a;&c_ja;
+  <ind>&c_m;&c_o;&c_n;&c_o;&c_p;&c_o;&c_l;&c_i;&c_ja;</ind></trd>
+</drv>
+
+</art>
+<!--
+$Log: monopo.xml,v $
+Revision 1.20  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2010/08/03 16:31:51  revo
+Russ Williams: +trd en
+
+Revision 1.17  2009/08/28 16:30:53  revo
+Emmanuel Debanne: +trd tr
+
+Revision 1.16  2003/09/01 16:31:51  revo
+Yury Finkel: +trd ru
+
+Revision 1.15  2003/06/06 16:30:34  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.14  2002/07/22 17:30:45  revo
+Ulrich Fellmann: kor: tenita -> tenata
+
+Revision 1.13  2002/07/21 18:59:33  revo
+Ulrich Fellmann: + 7 pliaj snc + 8 pliaj trd de + 4 pliaj trd en
+
+Revision 1.12  2002/07/11 17:34:18  revo
+Ulrich Fellmann: + fontindiko
+
+Revision 1.11  2001/11/27 17:36:38  revo
+-->
+</vortaro>

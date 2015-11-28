@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: elb.xml,v 1.15 2015/07/04 08:37:33 revo Exp $">
+<kap>
+  <rad>Elb</rad>/o
+</kap>
+<drv mrk="elb.E0o">
+  <kap><tld/>o</kap>
+  <snc mrk="elb.E0o.rivero">
+    <fnt><bib>PIV1</bib></fnt>
+    <uzo tip="fak">GEOG</uzo>
+    <dif>
+      <ref tip="lst" cel="river.0o"
+      lst="voko:riveroj">Rivero</ref> en <ref tip="vid"
+      cel="german1.G0ujo">Germanujo</ref> trafluanta Dresdenon,
+      Magdeburgon kaj Hamburgon kaj finante &ccirc;e Norda Maro.
+    </dif>
+    <trd lng="be">&c_E;&c_l;&c_mol;&c_b;&c_a;
+      <klr>(&c_r;&c_e;&c_ch;&c_k;&c_a; &c_w;
+        &c_N;&c_ja;&c_m;&c_je;&c_ch;&c_ch;&c_y;&c_n;&c_je;)</klr>
+    </trd>
+    <trd lng="bg">&c_Je;&c_l;&c_b;&c_a;<klr tip="amb"> (&c_r;&c_je;&c_k;&c_a;)</klr></trd>
+    <trdgrp lng="de">
+      <trd>Elbe</trd>
+    </trdgrp>
+    <trd lng="fr">Elbe<klr> (rivi&egrave;re)</klr></trd>
+    <trd lng="hu">Elba</trd>
+    <trd lng="nl">Elbe</trd>
+    <trd lng="pt">Elba <klr tip="amb">(rio)</klr></trd>
+    <trd lng="ru">&c_E;&c_l;&c_mol;&c_b;&c_a;</trd>
+  </snc>
+  <snc mrk="elb.E0o.insulo">
+    <fnt><bib>PIV1</bib></fnt>
+    <uzo tip="fak">GEOG</uzo>
+    <dif>
+      <ref tip="lst" cel="insul.0o"
+      lst="voko:insuloj">Insulo</ref> en <ref tip="vid"
+      cel="mediterane.M0o">Mediteraneo</ref>, apartenanta al Italujo,
+      iama ekzilo de Napoleono.
+    </dif>
+    <trd lng="be">&c_E;&c_l;&c_mol;&c_b;&c_a;
+      <klr>(&c_m;&c_ib;&c_zh;&c_z;&c_je;&c_m;&c_n;&c_a;&c_m;&c_o;&c_r;&c_s;&c_k;&c_ib;
+      &c_v;&c_o;&c_s;&c_t;&c_r;&c_a;&c_w;)</klr></trd>
+    <trd lng="bg">&c_Je;&c_l;&c_b;&c_a;<klr tip="amb"> (&c_o;&c_s;&c_t;&c_r;&c_o;&c_v;)</klr></trd>
+    <trd lng="de">Elba</trd>
+    <trd lng="fr">Elbe<klr> (ile)</klr></trd>
+    <trd lng="hu">Elba-sziget</trd>
+    <trd lng="id">Elba</trd>
+    <trd lng="nl">Elba</trd>
+    <trd lng="pl">Elba</trd>
+    <trd lng="pt">Elba <klr tip="amb">(ilha)</klr></trd>
+    <trd lng="ru">&c_E;&c_l;&c_mol;&c_b;&c_a;</trd>
+  </snc>
+  <trd lng="cs">Elba</trd>
+  <trd lng="sk">Elba</trd>
+</drv>
+</art>
+<!--
+$Log: elb.xml,v $
+Revision 1.15  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.13  2014/10/24 07:10:20  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.12  2013/09/06 19:10:30  revo
+Wolfram Diestel: ref al lst riveroj, insuloj, precizigis difinojn
+
+Revision 1.11  2011/02/14 14:10:21  revo
+Luiz Portella: kor. ref k mrk
+
+Revision 1.10  2010/01/22 17:30:19  revo
+Wieland Pusch: +trd bg
+
+Revision 1.9  2010/01/21 17:30:49  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.8  2007/06/27 16:31:15  revo
+Tulio Flores: +tr pt
+
+Revision 1.7  2004/03/04 17:31:08  revo
+Jeromo Vasxe: + fnt piv1, + trd fr
+
+Revision 1.6 2003/12/16 17:32:54 revo
+-->
+</vortaro>

@@ -1,0 +1,117 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: kulas.xml,v 1.13 2015/07/04 08:37:38 revo Exp $">
+<kap>
+  <rad>kulas</rad>/o <fnt><bib>SPV</bib></fnt>
+</kap>
+<drv mrk="kulas.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="kulas.0o.MIL">
+    <uzo tip="fak">MIL</uzo>
+    <dif>
+      Ekstrema parto de paftubo, kiu ricevas la pafotan karto&ccirc;on
+      a&ubreve; obuson, kaj kie okazas la pulveksplodo:
+      <ekz>
+        movebla <tld/>o;
+      </ekz>
+      <ekz>
+        <tld/>&scirc;arga pafilo;
+      </ekz>
+      <ekz>
+        <ind><tld/>bloko</ind> (kiu fermas la <tld/>aperturon);
+        <trd lng="ru">&c_z;&c_a;&c_t;&c_v;&c_o;&c_r;</trd>
+      </ekz>
+      <ekz>
+        <tld/>riglilo (kiu tenas &gcirc;in fermita dum la pafo).
+      </ekz>
+    </dif>
+    <ref tip="malprt" cel="paf.0ilo">pafilo</ref>
+    <trd lng="ca">recambra</trd>
+    <trdgrp lng="de">
+      <trd>Gesch&uuml;tzverschluss</trd>,
+      <trd>Bodenst&uuml;ck</trd>,
+      <trd>Gewehrverschluss</trd>,
+      <trd>Gewehrschloss</trd>,
+      <trd>Kammer</trd>,
+      <trd>Patronenlager</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>z&aacute;r<klr tip="amb"> (fegyveren)</klr></trd>,
+      <trd>z&aacute;v&aacute;rzat</trd>,
+      <trd>z&aacute;rszerkezet</trd>
+    </trdgrp>
+    <trd lng="it">culatta</trd>
+    <trd lng="nl">kulas</trd>
+    <trd lng="pl">komora</trd>
+    <trd lng="pt">culatra</trd>
+    <trdgrp lng="ru">
+      <trd>&c_k;&c_a;&c_z;&c_jo;&c_n;&c_n;&c_a;&c_ja; &c_ch;&c_a;&c_s;&c_t;&c_mol;<klr>
+      (&c_o;&c_g;&c_n;&c_je;&c_s;&c_t;&c_r;&c_je;&c_l;&c_mol;&c_n;&c_o;&c_g;&c_o; &c_o;&c_r;&c_u;&c_zh;&c_i;&c_ja;)</klr></trd>,
+      <trd>&c_z;&c_a;&c_t;&c_v;&c_o;&c_r;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="kulas.0o.TEK">
+    <uzo tip="fak">TEK</uzo>
+    <uzo tip="fak">AUT</uzo>
+    <dif>
+      Supera parto de eksplodmotoro, kie okazas la eksplodo
+      de la karbura&jcirc;o; kapo de cilindro.
+    </dif>
+    <trd lng="ca">culata</trd>
+    <trd lng="de">Zylinderkopf</trd>
+    <trd lng="hu">hengerfej</trd>
+    <trd lng="it">testata</trd>
+    <trd lng="nl">cilinderkop</trd>
+    <trd lng="pl">g&lstroke;owica</trd>
+    <trdgrp lng="pt">
+      <trd>culatra</trd>,
+      <trd>cabe&ccedil;a de <ind>cilindro</ind></trd>
+    </trdgrp>
+    <trd lng="ru">
+    &c_g;&c_o;&c_l;&c_o;&c_v;&c_k;&c_a;
+    &c_c;&c_i;&c_l;&c_i;&c_n;&c_d;&c_r;&c_a;
+    <klr>(&c_m;&c_o;&c_t;&c_o;&c_r;&c_a;)</klr>
+    </trd>
+  </snc>
+  <trd lng="cs">nábojová komora</trd>
+  <trd lng="fr">culasse<klr> (arme, automobile)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>1.záver strelnej zbrane</trd>,
+    <trd>2.hlava valca</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: kulas.xml,v $
+Revision 1.13  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.12  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.11  2011/12/08 13:10:22  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.10  2011/12/07 00:10:16  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.9  2010/05/21 16:30:49  revo
+Antonio Codazzi: +trd it
+
+Revision 1.8  2009/02/10 14:17:40  revo
+Sebastian Cyprych: -fusxaj linirompoj en trd
+
+Revision 1.7  2008/05/09 19:11:27  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.6  2006/10/22 18:03:04  revo
+Tulio Flores: +tr pt
+
+Revision 1.5  2004/02/23 18:18:01  revo
+Jeromo Vasxe: + fnt spv, + trd fr
+
+Revision 1.4 2002/07/25 17:34:54 revo
+-->
+</vortaro>

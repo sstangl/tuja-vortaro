@@ -1,0 +1,149 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: hibrid.xml,v 1.21 2015/07/04 08:37:35 revo Exp $">
+<kap>
+  <rad>hibrid</rad>/o
+  <fnt>Z</fnt>
+</kap>
+<drv mrk="hibrid.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="hibrid.0o.BIO">
+    <uzo tip="fak">BOT</uzo>
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      Planto a&ubreve; animalo, devenanta de du malsamaj specoj a&ubreve;
+      rasoj:
+      <ekz>
+        <tld/>oj estas nur malofte fekundaj.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_g;&c_ib;&c_b;&c_r;&c_y;&c_d;</trd>
+  <trd lng="bg">&c_h;&c_i;&c_b;&c_r;&c_i;&c_d;</trd>
+  <trd lng="ca">h&iacute;brid<klr> (subst.)</klr></trd>
+  <trdgrp lng="cs">
+    <trd>bastard</trd>,
+    <trd>hybrid</trd>,
+    <trd>kříženec</trd>,
+    <trd>míšenec</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Hybride</trd>,
+    <trd>Bastard</trd>
+  </trdgrp>
+  <trd lng="en">hybrid</trd>
+  <trd lng="es">h&iacute;brido<klr tip="ind"> (sust.)</klr> </trd>
+  <trdgrp lng="fa">
+    <trd>&a_d;&a_w;&a_r;&f_g;&a_h;</trd>,
+    <trd>&a_h;&f_y;&a_b;&a_r;&f_y;&a_d;</trd>
+  </trdgrp>
+  <trd lng="fr">hybride<klr tip="ind"> (subst.)</klr></trd>
+  <trd lng="hu">hibrid</trd>
+  <trd lng="it">ibrido<klr> (sost.)</klr></trd>
+  <trdgrp lng="nl">
+    <trd>kruisingsproduct</trd>,
+    <trd>bastaard</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>hybryda</trd>,
+    <trd>mieszaniec</trd>
+  </trdgrp>
+  <trd lng="pt">h&iacute;brido<klr tip="ind"> (subst.)</klr></trd>
+  <trdgrp lng="ru">
+    <trd>&c_g;&c_i;&c_b;&c_r;&c_i;&c_d;</trd>,
+    <trd>&c_p;&c_o;&c_m;&c_je;&c_s;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>hybrid</trd>,
+    <trd>kríženec</trd>,
+    <trd>miešanec</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="hibrid.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="hibrid.0a.BIO">
+    <dif>
+      <ref tip="super" cel="spec.mikso0a.KOMUNE">Miksospeca</ref>,
+      devenanta de du malsamaj naturaj specoj, de du rasoj:
+      <ekz>
+        vi <tld/>a ida&ccirc;o de simio kaj inkubo, &ndash; &scirc;i diris
+severe
+        <fnt><bib>I&scirc;tar</bib>, <lok>&ccirc;apitro 8a,
+konsterno</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_g;&c_ib;&c_b;&c_r;&c_y;&c_d;&c_n;&c_y;</trd>
+  <trd lng="bg">&c_h;&c_i;&c_b;&c_r;&c_i;&c_d;&c_je;&c_n;</trd>
+  <trd lng="ca">h&iacute;brid<klr> (adj.)</klr></trd>
+  <trdgrp lng="cs">
+    <trd>hybridní</trd>,
+    <trd>vzešlý z křížení</trd>,
+    <trd>zkřížený</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>hybrid</trd>,
+    <trd>zwitterhaft</trd>
+  </trdgrp>
+  <trd lng="en">hybrid</trd>
+  <trd lng="es">h&iacute;brido<klr tip="ind"> (adj.)</klr> </trd>
+  <trdgrp lng="fa">
+    <trd>&a_d;&a_w;&a_r;&f_g;&a_h;</trd>,
+    <trd>&a_h;&f_y;&a_b;&a_r;&f_y;&a_d;</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>hybride<klr tip="ind"> (adj.)</klr></trd>,
+    <trd>crois&eacute;<klr tip="ind"> (hybride)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>hibrid</trd>,
+    <trd>keresztezett</trd>
+  </trdgrp>
+  <trd lng="it">ibrido<klr> (agg.)</klr></trd>
+  <trdgrp lng="pl">
+    <trd>hybrydowy</trd>,
+    <trd>mieszany</trd>
+  </trdgrp>
+  <trd lng="pt">h&iacute;brido<klr tip="ind"> (adj.)</klr></trd>
+  <trd lng="ru">&c_g;&c_i;&c_b;&c_r;&c_i;&c_d;&c_n;&c_y;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>hybridný</trd>,
+    <trd>skrížený</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: hibrid.xml,v $
+Revision 1.21  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.19  2014/01/30 17:10:15  revo
+Joop Eggen: +trd bg
+
+Revision 1.18  2012/07/17 09:10:23  revo
+Marc Rausell: + trd ca
+
+Revision 1.17  2009/09/14 16:30:59  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.16  2009/09/10 16:31:36  revo
+Antonio Codazzi: +trd it
+
+Revision 1.15  2009/08/08 16:34:44  revo
+Russ Williams: +trd en
+
+Revision 1.14  2006/05/12 16:31:06  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.13  2005/10/15 16:32:22  revo
+Luiz Portella: +trd pt
+
+Revision 1.12  2005/01/03 17:32:13  revo
+-->
+</vortaro>

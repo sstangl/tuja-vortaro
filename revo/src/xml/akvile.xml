@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: akvile.xml,v 1.24 2015/10/27 18:10:18 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>akvilegi</rad>/o
+</kap>
+<drv mrk="akvile.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">BOT</uzo>
+  <snc>
+    <dif>
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:botanikaj_genroj">Genro</ref> el familio <ref
+      tip="malprt"
+      cel="ranunk1.0oj">ranunkolacoj</ref>
+      (<trd lng="la">Aquilegia</trd>);
+      plurjara <ref tip="lst" cel="herb.0o.BOT" 
+      lst="voko:ranunkoloparencoj">herbo</ref> kun
+      multaj mallar&gcirc;aj rizomoj, pluraj kunstarantaj tigoj,
+      &ccirc;ebazaj folioj en rozeto kaj alterne &ccirc;e la tigoj sidantaj folioj,
+      unu- &gcirc;is trioble trinombre plume dividitaj,
+      sur kiuj akvo purige perlas (vd. 
+      <ref cel="lotus.0o.akvoplantoj">lotuso</ref>);
+      kun kvinnombraj simetriaj ornamaj floroj diverskoloraj,
+      kies korolaj folioj estas ordinare plilongigitaj
+      je po unu nektara sprono; la fruktoj estas 
+      <ref tip="prt" cel="folikl.0o">folikloj</ref>,
+      enhavantaj multajn nigrajn semojn.
+    </dif>
+  </snc>
+  <bld lok="../bld/akvile.jpg">
+    &gcirc;ardene kulturata <tld/>o
+  </bld>
+  <trd lng="be">&c_v;&c_o;&c_r;&c_l;&c_ib;&c_k;&c_ib;</trd>
+  <trd lng="bg">&c_g;&c_malmol;&c_l;&c_malmol;&c_b;&c_o;&c_v;</trd>
+  <trd lng="ca">aquil&egrave;gia</trd>
+  <trd lng="de">Akelei</trd>
+  <trdgrp lng="en">
+    <trd>columbine</trd>,
+    <trd>Aquilegia</trd>
+  </trdgrp>
+  <trd lng="fr">ancolie</trd>
+  <trd lng="hu">harangl&aacute;b <klr>(n&ouml;v&eacute;ny)</klr></trd>
+  <trd lng="nl">akelei</trd>
+  <trd lng="pl">orlik</trd>
+  <trd lng="pt">aq&uuml;il&eacute;gia</trd>
+  <trdgrp lng="ru">
+    <trd>&c_a;&c_k;&c_v;&c_i;&c_l;&c_je;&c_g;&c_i;&c_ja;</trd>,
+    <trd>&c_o;&c_r;&c_l;&c_i;&c_k;<klr tip="ind">
+(&c_r;&c_a;&c_s;&c_t;&c_je;&c_n;&c_i;&c_je;)</klr></trd>,
+    <trd>&c_v;&c_o;&c_d;&c_o;&c_s;&c_b;&c_o;&c_r; <klr
+tip="amb">(&c_r;&c_a;&c_s;&c_t;&c_je;&c_n;&c_i;&c_je;)</klr></trd>
+  </trdgrp>
+  <trd lng="sv">akleja</trd>
+  <trd lng="sk">orl&iacute;&ccaron;ek</trd>
+  <trd lng="cs">orl&iacute;&ccaron;ek obecn&yacute;</trd>
+</drv>
+</art>
+<!--
+$Log: akvile.xml,v $
+Revision 1.24  2015/10/27 18:10:18  revo
+Joop Eggen: +trd bg
+
+Revision 1.23  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.22  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.21  2014/09/16 09:10:27  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.20  2014/09/14 08:10:10  revo
+Alain Gerard: + trd fr
+
+Revision 1.19  2013/11/12 20:10:13  revo
+Wolfram Diestel: +ornamaj (floroj)
+
+Revision 1.18  2013/11/12 19:10:12  revo
+Wolfram Diestel: prilaboris dif; ref al lst ranunkoloparencoj
+
+Revision 1.17  2013/08/30 14:10:34  revo
+-->
+</vortaro>

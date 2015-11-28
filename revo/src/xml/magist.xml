@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: magist.xml,v 1.22 2015/07/04 08:37:39 revo Exp $">
+<kap>
+  <rad>magistr</rad>/o <fnt>Z</fnt>
+</kap>
+<drv mrk="magist.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="magist.0o.PED">
+    <uzo tip="fak">PED</uzo>
+    <dif>
+      Universitata titolo ekzistanta en pluraj landoj kaj ranganta inter
+      bakala&ubreve;ro a&ubreve; abituriento kaj doktoro.
+    </dif>
+    <trd lng="ca">m&agrave;ster</trd>
+    <trd lng="de">Magister</trd>
+    <trdgrp lng="fr">
+      <trd>ma&icirc;tre<klr> (titre univ.)</klr></trd>
+    </trdgrp>
+    <trd lng="en">master's degree</trd>
+    <trdgrp lng="fa">
+      <trd>&f_k;&a_A;&a_r;&a_sh;&a_n;&a_A;&a_s;&f_y; &a_A;&a_r;&a_sh;&a_d;</trd>,
+      <trd>&a_f;&a_w;&a_q; &a_l;&f_y;&a_s;&a_A;&a_n;&a_s;</trd>
+    </trdgrp>
+    <trd lng="hu">magiszter<klr tip="ind"> (tudom&aacute;nyos
+    fokozat)</klr></trd>
+    <trd lng="pl">magister</trd>
+  </snc>
+  <snc mrk="magist.0o.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <ref tip="dif" cel="pedant.0o">Pedanto</ref>
+    <trd lng="ca">setci&egrave;ncies</trd>
+    <trdgrp lng="fr">
+      <trd>cuistre</trd>,
+      <trd>p&eacute;dant<klr> (subst.)</klr></trd>
+    </trdgrp>
+    <trd lng="pl">pedant</trd>
+  </snc>
+  <trd lng="be">&c_m;&c_a;&c_g;&c_ib;&c_s;&c_t;&c_a;&c_r;</trd>
+  <trd lng="bg">&c_m;&c_a;&c_g;&c_i;&c_s;&c_t;&c_malmol;&c_r;</trd>
+  <trdgrp lng="cs">
+    <trd>magistr</trd>,
+    <trd>mistr</trd>
+  </trdgrp>
+  <trd lng="de">Oberlehrer</trd>
+  <trdgrp lng="es">
+    <trd>m&aacute;ster</trd>,
+    <trd>maestro</trd>
+  </trdgrp>
+  <trd lng="nl">licentiaat</trd>
+  <trd lng="pt">mestre <klr>(t&iacute;t. univers.)</klr></trd>
+  <trd lng="ru">&c_m;&c_a;&c_g;&c_i;&c_s;&c_t;&c_r;</trd>
+  <trd lng="sk">magister</trd>
+</drv>
+</art>
+<!--
+$Log: magist.xml,v $
+Revision 1.22  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.21  2013/08/06 09:10:16  revo
+Joop Eggen: +trd bg
+
+Revision 1.20  2011/12/12 11:10:22  revo
+Marc Rausell: +trd ca
+
+Revision 1.19  2011/12/07 18:10:17  revo
+Eduardo Navas: +trad es
+
+Revision 1.18  2011/09/22 08:10:08  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.17  2010/08/25 16:30:24  revo
+Agustin Garcia Lopez: +trd es
+
+Revision 1.16  2009/02/19 20:26:32  revo
+Sebastian Cyprych: sxangxo de difino pedanto al ref tip=dif +trd pl
+
+Revision 1.15  2006/07/15 17:04:18  revo
+Tulio Flores: +tr pt
+
+Revision 1.14  2004/10/08 16:32:06  revo
+-->
+</vortaro>

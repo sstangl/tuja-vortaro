@@ -1,0 +1,701 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: arb.xml,v 1.55 2015/07/31 08:10:17 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>arb</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="arb.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="arb.0o.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <uzo tip="fak">HOR</uzo>
+    <dif>
+      Ligna <ref tip="super" cel="plant.dauxra0o">da&ubreve;ra
+      planto</ref> kun alta trunko supre disbran&ccirc;i&gcirc;anta:
+      <ekz>
+        anta&ubreve; la domo staras <tld/>o
+        <fnt><bib>F</bib>, <lok>&FE; 8</lok></fnt>;
+      </ekz>
+    </dif>
+    <refgrp tip="sub">
+        <ref cel="cxeriz.0ujo">&ccirc;erizujo</ref>,
+        <ref cel="kverk.0o">kverko</ref>, 
+        <ref cel="pin.0o">pino</ref>, 
+        <ref cel="platan.0o">platano</ref>, 
+        <ref cel="pom.0ujo">pomujo</ref>, 
+        <ref cel="tili.0o">tilio</ref>
+    </refgrp>
+    <trd lng="es">&aacute;rbol</trd>
+  </snc>
+  <snc mrk="arb.0o.grafeo">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>MatVort</bib></fnt>
+    <dif>
+      <ref cel="koneks.0a.grafeo">Koneksa</ref> kaj
+      <ref cel="cikl.sen0a.grafeo">sencikla</ref>
+      <ref tip="super" cel="grafe.0o.strukturo">grafeo</ref>:
+      <ekz>
+        grafeo estas <tld/>o, se kaj nur se du ajnajn verticojn de 
+        &gcirc;i ligas nur unu &ccirc;eno;
+      </ekz>
+      <ekz>
+        <tld/>o kun <frm><k>n</k></frm> verticoj havas
+        <frm><k>n</k>-1</frm>
+        e&gcirc;ojn;
+      </ekz>
+      <ekz>
+        orientita <tld/>o ne nepre havas
+        <ref cel="radik.0o.grafeo">radikon</ref>.
+      </ekz>
+    </dif>
+    <ref tip="sub" cel="arb.sub0o">sub<tld/>o.</ref>
+    <trd lng="de">Baum</trd>
+    <trd lng="en">tree</trd>
+    <trdgrp lng="es">
+      <trd>&aacute;rbol</trd>,
+      <trd>grafo</trd>
+    </trdgrp>
+    <trd lng="fa">&a_d;&a_r;&a_kh;&a_t;</trd>
+    <trd lng="fr">arbre<klr tip="ind"> (graphe)</klr></trd>
+    <trd lng="pl">drzewo<klr tip="ind"> (graf)</klr></trd>
+    <trd lng="ru">&c_d;&c_je;&c_r;&c_je;&c_v;&c_o;<klr tip="ind">
+    (&c_g;&c_r;&c_a;&c_f;)</klr></trd>
+  </snc>
+  <snc mrk="arb.0o.KOMP">
+    <uzo tip="fak">KOMP</uzo>
+    <dif>
+      Finia aro, en kiu unu elementon oni rigardas <em>radiko</em>,
+      kaj la ceteraj formas disajn arojn (nomatajn
+      <em>sub<tld/>oj</em>),
+      &ccirc;iu el kiuj mem estas <tld/>o:
+      <ekz>
+        la <ref cel="grafei.0o">grafeika</ref> terminaro
+        pri la <tld/>oj estas &ccirc;erpita el genealogio
+        (praulo, posteulo, patro, ido, frato) kaj el botaniko
+        (radiko, folio);
+      </ekz>
+      <ekz>
+        en grafeiko oni apartigas orientitajn, ordajn <tld/>ojn;
+      </ekz>
+      <ekz>
+        senradika <tld/>o
+        <klr>(grafeo kiu i&gcirc;as <tld/>o se iun &gcirc;ian verticon 
+        oni deklaras radiko)</klr>, radikhava <tld/>o
+        <klr>(proprasenca <tld/>o kontraste al senradika)</klr>;
+      </ekz>
+      <ekz>
+        <uzo tip="fak">KOMP</uzo>
+        duuma <tld/>o, B-<tld/>o, deriv<tld/>o, ser&ccirc;<tld/>o.
+      </ekz>
+    </dif>
+    <refgrp tip="super">
+      <ref cel="grafe.0o">grafeo</ref>,
+      <ref cel="klasif.0o">klasifiko</ref>,
+      <ref cel="hierar.0o">hierarkio</ref>,
+      <ref cel="datum.0strukturo">datumstrukturo</ref>.
+    </refgrp>
+    <rim>
+      Oni ofte prezentas <tld/>on per grafeo simila al genealogia
+      <tld/>o; tia grafeo povas esti <em>alradika</em>
+      <klr>(ekz-e
+      genealogia <tld/>o prezentanta la praulojn de koncerna
+      individuo)</klr>
+      a&ubreve; <em>elradika</em>
+      <klr>(ekz-e genealogia <tld/>o prezentanta la posteularon
+      de koncerna individuo)</klr>.
+    </rim>
+    <adm>
+      Mi lasis &ccirc;i tiun redakton de Sergio, sed &gcirc;i ne
+      koheras kun la nuna
+      matematika senco. La rekursia difino per radiko kaj subarboj estas
+      interesa, sed malpli vasta ol la &gcirc;enerale akceptita, ja la 
+      nocio "radiko" havas sencon nur en orientitaj grafeoj, kaj 
+      orientitaj arboj povas ne posedi radikon. <aut>MB</aut>
+    </adm>
+    <adm>
+      La radiko ne implicas orientitecon, oni povas orienti arbon
+      alradike a&ubreve; elradike, a&ubreve; tute malatenti la 
+      direktojn. La radikhavaj arboj estas la plej komunaj en 
+      komputoscienco, sen radiko la arbo perdas sian plej esencan 
+      trajton: &gcirc;i ne plu estas hierarkio. Tiaj matematikaj arboj 
+      senradikaj apena&ubreve; estas interesaj a&ubreve; utilaj.
+      <aut>Sergio</aut>
+    </adm>
+  </snc>
+  <trd lng="be">&c_d;&c_r;&c_e;&c_v;&c_a;</trd>
+  <trd lng="bg">&c_d;&c_malmol;&c_r;&c_v;&c_o;</trd>
+  <trd lng="br">gwezenn</trd>
+  <trd lng="ca">arbre</trd>
+  <trd lng="cs">strom</trd>
+  <trd lng="de">Baum</trd>
+  <trd lng="en">tree</trd>
+  <trd lng="es">&aacute;rbol</trd>
+  <trd lng="fa">&a_d;&a_r;&a_kh;&a_t;</trd>
+  <trd lng="fr">arbre</trd>
+  <trd lng="id">pohon</trd>
+  <trd lng="ku">dar</trd>
+  <trd lng="nl">boom</trd>
+  <trd lng="no">tre</trd>
+  <trd lng="oc">arbre</trd>
+  <trd lng="pl">drzewo</trd>
+  <trd lng="pt">&aacute;rvore</trd>
+  <trd lng="ru">&c_d;&c_je;&c_r;&c_je;&c_v;&c_o;</trd>
+  <trd lng="sk">strom</trd>
+  <trd lng="sv">tr&auml;d</trd>
+  <trd lng="tp">kasi</trd>
+  <trd lng="tr">a&gbreve;a&ccedil;</trd>
+</drv>
+
+<drv mrk="arb.0ajxo">
+  <kap><tld/>a&jcirc;o</kap>
+  <snc>
+    <dif>
+      Dehakitaj a&ubreve; defalintaj arboj a&ubreve; arbo- kaj 
+      arbustopartoj:
+      <ekz>
+        bruligi <tld/>a&jcirc;on
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="lign.0o">ligno</ref>
+  </snc>
+  <trdgrp lng="es">
+    <trd>rama</trd>,
+    <trd>madera</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>chrust</trd>,
+    <trd>drzewo</trd>,
+    <trd>drewno</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="arb.0aro">
+  <kap><ofc>*</ofc><tld/>aro</kap>
+  <snc mrk="arb.0aro.HOR">
+    <uzo tip="fak">GEOG</uzo>
+    <uzo tip="fak">HOR</uzo>
+    <dif>
+      Areo, kie dense kreskas
+      <ref tip="prt" cel="arb.0o"><tld/>oj</ref>:
+      <ekz>
+        en somero ni trovas malvarmeton en densaj <tld/>aroj
+        <fnt><bib>F</bib>, <lok>&FE; 38</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_l;&c_je;&c_s;</trd>
+  <trd lng="bg">&c_g;&c_o;&c_r;&c_a;</trd>
+  <trdgrp lng="br">
+    <trd>koad<klr tip="ind"> (koadeg vihan)</klr></trd>,
+    <trd>koadeg</trd>
+  </trdgrp>
+  <trdgrp lng="ca">
+    <trd>bosc</trd>,
+    <trd>selva</trd>
+  </trdgrp>
+  <trd lng="cs">les</trd>
+  <trd lng="de">Wald</trd>
+  <trdgrp lng="en">
+    <trd>forest</trd>,
+    <trd>wood</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>bosque</trd>,
+    <trd>selva virgen</trd>
+  </trdgrp>
+  <trd lng="fa">&a_j;&a_n;&f_g;&a_l;</trd>
+  <trd lng="fr">for&ecirc;t</trd>
+  <trd lng="id">hutan</trd>
+  <trdgrp lng="nl">
+    <trd>bos</trd>,
+    <trd>woud</trd>
+  </trdgrp>
+  <trd lng="no">skog</trd>
+  <trd lng="oc">b&ograve;sc</trd>
+  <trdgrp lng="pl">
+    <trd>las</trd>,
+    <trd>b&oacute;r</trd>,
+    <trd>knieja</trd>,
+    <trd>matecznik</trd>,
+    <trd>ost&eogonek;p</trd>
+    <trd>puszcza</trd>,
+    <trd>d&aogonek;browa</trd>,
+    <trd>brze&zacute;niak</trd>,
+    <trd>brzezina</trd>,
+    <trd>buczyna</trd>,
+    <trd>chojniak</trd>,
+    <trd>olszynka</trd>
+  </trdgrp>
+  <trd lng="ru">&c_l;&c_je;&c_s;</trd>
+  <trdgrp lng="sk">
+    <trd>hora</trd>,
+    <trd>les</trd>
+  </trdgrp>
+  <trd lng="sv">skog</trd>
+  <trd lng="tr">orman</trd>
+</drv>
+
+<drv mrk="arb.0eto">
+  <kap><tld/>eto</kap>
+  <snc mrk="arb.0eto.arbo">
+    <uzo tip="fak">BOT</uzo>
+    <uzo tip="fak">HOR</uzo>
+    <dif>
+      Malgranda <tld/>o:
+      <ekz>
+        ofte alkuradis leporo kaj saltadis pluen &gcirc;uste trans
+        la <tld/>eton
+        <fnt><bib>Fab2</bib>, <lok>abio</lok></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_d;&c_r;&c_e;&c_w;&c_c;&c_a;</trd>
+    <trd lng="de">B&auml;umchen</trd>
+    <trd lng="es">&aacute;rbol</trd>
+    <trd lng="fa">&a_n;&a_h;&a_A;&a_l;</trd>
+    <trd lng="nl">boompje</trd>
+    <trd lng="pl">drzewko</trd>
+    <trd lng="ru">&c_d;&c_je;&c_r;&c_je;&c_v;&c_c;&c_je;</trd>
+  </snc>
+  <snc mrk="arb.0eto.arbusto">
+    <uzo tip="fak">BOT</uzo>
+    <uzo tip="fak">HOR</uzo>
+    <dif>
+      <ref tip="sin" cel="arbust.0o">Arbusto</ref> a&ubreve;
+      <ref tip="sin" cel="arbed.0o">arbedo</ref>:
+      <ekz>
+        la siring<tld/>etoj odoris kaj klinis siajn longajn
+        verdajn bran&ccirc;ojn al la kviete serpentumantaj
+        riveretoj
+        <fnt><bib>Fab2</bib>, <lok>malbela anasido</lok></fnt>;
+      </ekz>
+      <ekz>
+        la &ccirc;evalo <klr>...</klr> movetadis la longajn
+        trunketojn de la rubus<tld/>eto tiel ke la maturaj sukoplenaj
+        fruktoj falis
+        <fnt><bib>Fab4</bib>, 
+        <lok>Filino de la mar&ccirc;a re&gcirc;o</lok></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_k;&c_u;&c_s;&c_t;</trd>
+    <trd lng="de">Strauch</trd>
+    <trd lng="en">bush</trd>
+    <trd lng="es">arbusto</trd>
+    <trd lng="fa">&a_b;&a_w;&a_t;&a_h;</trd>
+    <trd lng="nl">struik</trd>
+    <trd lng="no">busk</trd>
+    <trdgrp lng="pl">
+      <trd>krzak</trd>,
+      <trd>krzew</trd>,
+      <trd>krzewina</trd>,
+      <trd>kierz<klr> (dawn.)</klr></trd>
+    </trdgrp>
+    <trd lng="ru">&c_k;&c_u;&c_s;&c_t;</trd>
+  </snc>
+  <trd lng="br">brousgwezenn</trd>
+  <trd lng="ca">arbust</trd>
+  <trdgrp lng="cs">
+    <trd>stromek</trd>,
+    <trd>strome&ccaron;ek</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Strauch</trd>,
+    <trd>Busch</trd>
+  </trdgrp>
+  <trd lng="fr">arbuste</trd>
+  <trdgrp lng="ru">
+    <trd>&c_d;&c_je;&c_r;&c_je;&c_v;&c_c;&c_je;</trd>,
+    <trd>&c_k;&c_u;&c_s;&c_t;</trd>
+  </trdgrp>
+  <trd lng="sk">strom&ccaron;ek</trd>
+</drv>
+
+<drv mrk="arb.0etaro">
+  <kap><tld/>etaro</kap>
+  <snc mrk="arb.0etaro.HOR">
+    <uzo tip="fak">HOR</uzo>
+    <dif>
+      Kolekto da <tld/>etoj kune kreskantaj:
+      <ekz>
+        li trovis <tld/>etaron kun plej belaj folioj kaj pa&scirc;tis 
+        tie la kaprinon
+        <fnt><bib>ElektFab</bib>, <lok>tablo &leftquot;kovru
+        vin&rightquot;, la orazeno kaj
+        bastono el sako</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_k;&c_u;&c_s;&c_t;&c_o;&c_w;'&c_je;</trd>,
+    <trd>&c_h;&c_m;&c_y;&c_z;&c_mol;&c_n;&c_ja;&c_k;</trd>
+  </trdgrp>
+  <trd lng="br">brouskoad</trd>
+  <trdgrp lng="cs">
+    <trd>lesn&iacute; podrost</trd>,
+    <trd>ml&aacute;z&iacute;</trd>,
+    <trd>n&iacute;zk&yacute; lesn&iacute; porost</trd>
+  </trdgrp>
+  <trd lng="de">Geb&uuml;sch</trd>
+  <trdgrp lng="es">
+    <trd>monte bajo</trd>,
+    <trd>bosquecillo</trd>,
+    <trd>arboleda</trd>
+  </trdgrp>
+  <trdgrp lng="fa">
+    <trd>&a_d;&a_r;&a_kh;&a_t;&a_z;&a_A;&a_r;</trd>&a_komo;
+    <trd>&a_b;&f_y;&a_sh;&a_h;</trd>
+  </trdgrp>
+  <trd lng="fr">taillis</trd>
+  <trd lng="nl">struikgewas</trd>
+  <trd lng="no">buskas</trd>
+  <trdgrp lng="pl">
+    <trd>zagajnik</trd>,
+    <trd>gaj</trd>,
+    <trd>gaik</trd>,
+    <trd>m&lstroke;odzik</trd>,
+    <trd>przylasek</trd>
+  </trdgrp>
+  <trd lng="ru">&c_k;&c_u;&c_s;&c_t;&c_a;&c_r;&c_n;&c_i;&c_k;</trd>
+  <trd lng="sk">skupina strom&ccaron;ekov</trd>
+</drv>
+
+<drv mrk="arb.0etajxo">
+  <kap><ofc>*</ofc><tld/>eta&jcirc;o</kap>
+  <snc mrk="arb.0etajxo.HOR">
+    <uzo tip="fak">HOR</uzo>
+    <dif>
+      Nealta ligneca a&ubreve; herbeca
+      <ref tip="super" cel="veget.0ajxo">vegeta&jcirc;o</ref>,
+      kies bran&ccirc;oj a&ubreve; tigoj disi&gcirc;as sub a&ubreve; 
+      tuj sur la ternivelo:
+      <ekz>
+        birdeto kantanta sur siringa <tld/>eta&jcirc;o
+        <fnt><bib>Marta</bib></fnt>;
+      </ekz>
+      <ekz>
+        kaj li vidis, ke jen la <tld/>eta&jcirc;o brulas en la fajro,
+        kaj tamen la <tld/>eta&jcirc;o ne forbrulas
+        <fnt><bib>MT</bib>, <lok>&Eli; 3:2</lok></fnt>;
+      </ekz>
+      <ekz>
+        la verdaj juniperaj <tld/>eta&jcirc;oj kaj la fre&scirc;aj 
+        kverkidoj simile al florbukedoj levi&gcirc;is el la eriko
+        <fnt><bib>Fab4</bib>, <lok>Historio el la dunoj</lok></fnt>;
+      </ekz>
+      <ekz>
+        la malgranda najtingalo, kiu kantis en la tamarinda <tld/>
+        eta&jcirc;o, anka&ubreve; intencis balda&ubreve; forflugi norden
+        <fnt><bib>Fab4</bib>, 
+        <lok>Filino de la mar&ccirc;a re&gcirc;o</lok></fnt>;
+      </ekz>
+      <ekz>
+        la&ubreve;bo el belaj <tld/>eta&jcirc;oj de kaprifolioj
+        <fnt><bib>Fab2</bib>, <lok>Elfo de la rozo</lok></fnt>;
+      </ekz>
+      <ekz>
+        tio estis plej bela sambuka <tld/>eta&jcirc;o, tuta <tld/>o, kiu
+        penetris e&ccirc; en la liton kaj for&scirc;ovis flanken la 
+        kurtenojn
+        <fnt><bib>Fab4</bib>, <lok>Sambuka virineto</lok></fnt>;
+      </ekz>
+      <ekz>
+        anta&ubreve; la pordoj atendis la juna mona&hcirc;ino por peti
+        pardonon, kaj malanta&ubreve; <tld/>eta&jcirc;o &scirc;ia amiko 
+        pacience atendis &scirc;in
+        <fnt>
+        <aut>E. Georgiev</aut>,
+        <vrk>Fantastaj rok-formita&jcirc;oj &ccirc;e Belograd&ccirc;ik</vrk>.
+        <bib>Monato</bib>
+        </fnt>;
+      </ekz>
+      <ekz>
+        malsupre la &ccirc;asistoj pafas en <tld/>eta&jcirc;on
+        <fnt><bib>ElektFab</bib>, 
+        <lok>la kura&gcirc;a tajloreto</lok></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="arbed.0o">arbedo</ref>,
+      <ref cel="arbust.0o">arbusto</ref>,
+      <ref cel="vepr.0o">vepro</ref>
+    </refgrp>    
+  </snc>
+  <trd lng="be">&c_l;&c_o;&c_w;&c_zh;</trd>
+  <trdgrp lng="br">
+    <trd>bod</trd>,
+    <trd>bodenn</trd>
+  </trdgrp>
+  <trd lng="de"><ofc>*</ofc>Strauch</trd>
+  <trdgrp lng="en">
+    <trd><ofc>*</ofc>shrub</trd>,
+    <trd><ofc>*</ofc>bush</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>arbusto</trd>,
+    <trd>matorral</trd>,
+    <trd>zarza</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd><ofc>*</ofc>arbrisseau</trd>,
+    <trd><ofc>*</ofc>buisson</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>krzak</trd>,
+    <trd>krzew</trd>,
+    <trd>krzewina</trd>,
+    <trd>kierz<klr> (dawn.)</klr></trd>
+   </trdgrp>
+  <trd lng="ru"><ofc>*</ofc>&c_k;&c_u;&c_s;&c_t;</trd>
+</drv>
+
+<drv mrk="arb.drak0o">
+  <kap>drak<tld/>o</kap>
+  <uzo tip="stl">KOMUNE</uzo>
+  <snc mrk="arb.drak0o.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      Genro de tropikaj arboj kaj arbustoj el Afriko, atlantikaj
+      insuloj, Sudameriko,
+      kun longaj palmosimilaj folioj (<trd lng="la">Dracaena</trd>):
+      <ekz>
+        la drak<tld/>o estas ja la plej originala kaj kurioza planto de
+        Kanarioj
+        <fnt><aut>J. R&eacute;gulo P&eacute;rez</aut>,
+        <vrk>dracenoj &ccirc;e pentristoj de la 15a jarcento</vrk>,
+        <lok>norda prismo, 1957:3, p. 123-128a</lok></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="dracen.0o.BOT">draceno</ref>
+    </refgrp>
+  </snc>
+  <trd lng="cs">dra&ccaron;inec obrovsk&yacute;</trd>
+  <trd lng="es">dracaena</trd>
+  <trd lng="fa">&a_d;&a_r;&a_A;&a_s;&a_n;&a_A;</trd>
+  <trd lng="fr">dragonnier</trd>
+  <trdgrp lng="pl">
+    <trd>dracena</trd>,
+    <trd>smocze <ind>drzewo</ind><klr> (pot.)</klr></trd>
+  </trdgrp>
+  <trd lng="sk">dra&ccaron;inec</trd>
+</drv>
+
+<drv mrk="arb.kristnask0o">
+  <kap>kristnask<tld/>o</kap>
+  <snc mrk="arb.kristnask0o.KAL">
+    <dif>
+      Arbo, plejofte abio, kiun oni starigas kaj ornamas
+      antikve dum pagana festo de vintra solstico
+      kaj moderne okaze de
+      <ref tip="vid" cel="krist.0nasko.KRI">kristnasko</ref>:
+      <ekz>
+        kelkfoje la hela lumbrilo de brulanta kristnask<tld/>o aperis 
+        tra la fenestroj
+        <fnt>
+          <aut>T. Storm, trad. A. Bader</aut>,
+          <vrk>Imenlago</vrk>,
+          <lok>en: Du Amosentaj Noveloj, 1947</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">sapin de no&euml;l</trd>
+  <trd lng="nl">kerstboom</trd>
+  <trd lng="no">juletre</trd>
+</drv>
+
+<drv mrk="arb.genealogia0o">
+  <kap>genealogia <tld/>o,
+  <var><kap>genealogi<tld/>o</kap></var></kap>
+  <snc mrk="arb.genealogia0o.GEN">
+    <uzo tip="fak">GEN</uzo>
+    <dif>
+      Diagramo prezentanta la sinsekvajn generaciojn
+      de gento kiel bran&ccirc;ojn disi&gcirc;antajn de komuna arbotrunko:
+      <ekz>
+        kelkaj <klr>...</klr> konstruas apartajn genealogiajn <tld/>ojn 
+        por gentoj de siaj edzpartneroj, patrinoj kaj avinoj
+        <fnt>
+          <aut>E. T. Wojtakowski</aut>,
+          <vrk><url ref="http://worsten.org/gentoj/w_rnp_eo.htm">
+          Gentaj nomoj de poloj</url></vrk>,
+          <lok>2003</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_g;&c_je;&c_n;&c_e;&c_a;&c_l;&c_ja;&c_g;&c_ib;&c_ch;&c_n;&c_a;&c_je; &c_d;&c_r;&c_e;&c_v;&c_a;</trd>
+  <trd lng="bg">&c_r;&c_o;&c_d;&c_o;&c_s;&c_l;&c_o;&c_v;&c_n;&c_o; &c_d;&c_malmol;&c_r;&c_v;&c_o;</trd>
+  <trd lng="ca">arbre <ind>geneal&ograve;gic</ind></trd>
+  <trdgrp lng="cs">
+    <trd>genealogick&yacute; strom</trd>,
+    <trd>strom rodokmenu</trd>
+  </trdgrp>
+  <trd lng="de">Stammbaum</trd>
+  <trd lng="es">&aacute;rbol <ind>geneal&oacute;gico</ind></trd>
+  <trdgrp lng="fa">
+    <trd>&a_sh;&a_j;&a_r;&a_h;</trd>,
+    <trd>&zwnj;&a_sh;&a_j;&a_r;&a_h;&zwnj;&a_n;&a_A;&a_m;&a_h;</trd>,
+    <trd>&a_n;&a_s;&a_b;&zwnj;&a_n;&a_A;&a_m;&a_h;</trd>
+  </trdgrp>
+  <trd lng="fr">arbre g&eacute;n&eacute;alogique</trd>
+  <trd lng="hu">csal&aacute;dfa</trd>
+  <trd lng="nl">stamboom</trd>
+  <trd lng="pl">genealogiczny</trd>
+  <trd lng="pt">&aacute;rvore geneal&oacute;gica</trd>
+  <trd lng="ru">&c_g;&c_je;&c_n;&c_je;&c_a;&c_l;&c_o;&c_g;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_o;&c_je; &c_d;&c_r;&c_je;&c_v;&c_o;</trd>
+  <trd lng="sk">strom rodokme&ncaron;a</trd>
+  <trd lng="tr">soya&gbreve;ac&inodot;</trd>
+</drv>
+
+<drv mrk="arb.pan0o">
+  <kap>pan<tld/>o</kap>
+  <snc mrk="arb.pan0o.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      &Ccirc;iamverda arbo el pacifikaj insuloj, kultivata en tropikaj
+      landoj
+      por la grandaj, verdaj fruktoj, tianomaj panfruktoj      
+      (<trd lng="la">Artocarpus altilis</trd>):
+      <ekz>
+        ili haltigis la &ccirc;evalojn sub granda pan<tld/>o, de kiu
+        Kali kun
+        Mea fortran&ccirc;is fruktojn similajn al grandegaj melonoj
+        <fnt><aut>H. Sienkiewicz, trad. M. Sygnarski</aut>, <vrk><url 
+        ref="http://esperanto.pl/page.php?tid=200000">Tra dezerto kaj 
+        praarbaro</url></vrk>, <lok>Varsovio, 1978</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="ca">arbre del pa</trd>
+  <trd lng="cs">chlebovn&iacute;k</trd>
+  <trd lng="es">&aacute;rbol del pan</trd>
+  <trd lng="fr">arbre &agrave; pain</trd>
+  <trd lng="pl">chlebowiec<klr> w&lstroke;a&sacute;ciwy</klr></trd>
+  <trd lng="sk">chlebovn&iacute;k</trd>
+</drv>
+
+<drv mrk="arb.pingl0o">
+  <kap>pingl<tld/>o</kap>
+  <snc mrk="arb.pingl0o.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <ref tip="dif" cel="konifer.0o.BOT">konifero</ref>
+      <ekz>
+        brazila pino <klr>...</klr> estas pingl<tld/>o el sudaj landoj
+        <fnt>
+          <aut>S. Chaves</aut>,
+          <vrk><url
+          ref="http://www.aerj.org.br/docs/PRAVart1versio060731.pdf">
+          Praktika Vortaro de Esperanto</url></vrk>,
+          <lok>2006-07-31</lok>
+        </fnt>.
+      </ekz>
+  </snc>
+  <trd lng="be">&c_h;&c_v;&c_o;&c_j;&c_n;&c_a;&c_je; &c_d;&c_r;&c_e;&c_v;&c_a;</trd>
+  <trd lng="cs">jehli&ccaron;nat&yacute; strom</trd>
+  <trd lng="en">conifer</trd>
+  <trd lng="es">con&iacute;fera</trd>
+  <trd lng="fr">conif&egrave;re</trd>
+  <trd lng="hu">t&udblac;level&udblac; fa</trd>
+  <trd lng="nl">conifeer</trd>
+  <trd lng="pl">drzewo iglaste</trd>
+  <trd lng="pt">con&iacute;fera</trd>
+  <trd lng="ru">&c_h;&c_v;&c_o;&c_j;&c_n;&c_o;&c_je;
+  &c_d;&c_je;&c_r;&c_je;&c_v;&c_o;</trd>
+  <trd lng="sk">ihli&ccaron;nat&yacute; strom</trd>
+</drv>
+
+<drv mrk="arb.pluv0aro">
+  <kap>pluv<tld/>aro</kap>
+  <snc mrk="arb.pluv0aro.GEOG">
+    <uzo tip="fak">GEOG</uzo>
+    <dif>
+      Densa <tld/>aro kun konstanta abunda pluvado kaj malsekeco:
+      <ekz>
+        pluv<tld/>ara sova&gcirc;ejo
+        <fnt>
+          <aut>R. Sachs</aut>,
+          <vrk>La Krabo vivanta en Arbo</vrk>,
+          <lok><url
+          ref="http://www.eventoj.hu/steb/miksitaj/kaest-1998.pdf">
+          KAEST-1998</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">de&scaron;tn&yacute; prales</trd>
+  <trd lng="en">rainforest</trd>
+  <trdgrp lng="es">
+    <trd>selva tropical</trd>,
+    <trd>bosque h&uacute;medo</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>for&ecirc;t des pluies</trd>,
+    <trd>for&ecirc;t humide</trd>
+  </trdgrp>
+  <trd lng="id">hutan hujan</trd>
+  <trd lng="nl">regenwoud</trd>
+  <trd lng="no">regnskog</trd>
+  <trd lng="sk">da&zcaron;&dcaron;ov&yacute; prales</trd>
+</drv>
+
+<drv mrk="arb.sub0o">
+  <kap>sub<tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <uzo tip="fak">KOMP</uzo>
+  <snc>
+    <dif>
+      <ref cel="grafe.sub0o">Subgrafeo</ref> de
+      <ref tip="super" cel="arb.0o.grafeo"><tld/>o</ref>, kiu mem
+      estas <tld/>o.
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_d;&c_d;&c_r;&c_e;&c_v;&c_a;</trd>
+  <trd lng="br">isgwezenn</trd>
+  <trd lng="cs">vedlej&scaron;&iacute; strom</trd>
+  <trd lng="de">Teilbaum</trd>
+  <trd lng="en">subtree</trd>
+  <trdgrp lng="es">
+    <trd>sub&aacute;rbol</trd>,
+    <trd>subgrafo</trd>
+  </trdgrp>
+  <trd lng="fa">&a_z;&f_y;&a_r;&a_d;&a_r;&a_kh;&a_t;</trd>
+  <trd lng="fr">sous-arbre</trd>
+  <trd lng="pl">poddrzewo</trd>
+  <trd lng="ru">&c_p;&c_o;&c_d;&c_d;&c_je;&c_r;&c_je;&c_v;&c_o;</trd>
+  <trdgrp lng="sk">
+    <trd>podstrom</trd>,
+    <trd>ved&lcaron;aj&scaron;&iacute; strom</trd>
+  </trdgrp>
+  <trd lng="sv">deltr&auml;d</trd>
+</drv>
+</art>
+<!--
+$Log: arb.xml,v $
+Revision 1.55  2015/07/31 08:10:17  revo
+Guillermo Molleda Jimena: trd es
+
+Revision 1.54  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.53  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.52  2014/11/05 13:10:28  revo
+Filip van Laenen: +trd(nl,no)
+
+Revision 1.51  2014/10/16 19:10:32  revo
+Jeromo Vasxe: + kristnask~o
+
+Revision 1.50  2014/09/02 09:10:09  revo
+Guillermo Molleda Jimena: trd es
+
+Revision 1.49  2014/05/30 08:10:34  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.48  2014/04/01 19:10:20  revo
+-->
+</vortaro>

@@ -1,0 +1,152 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: optimi.xml,v 1.17 2015/07/04 08:37:40 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>optimism</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="optimi.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="optimi.0o.KOMUNE">
+    <uzo tip="stl">KOMUNE</uzo>
+    <dif>
+      Emo trovi &ccirc;ion bona en la vivo kaj &ccirc;iam esperi sukceson kaj
+      feli&ccirc;on:
+      <ekz>
+        e&ccirc; en plej amaraj momentoj aperas <tld/>o
+        <fnt>
+        <aut>C. Minnaja</aut>,
+        <vrk>Meritanta ne nur reeldonon</vrk>,
+        <bib>Monato</bib>,
+        <lok>2001:7a, p. 28a</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        tro granda <tld/>o estas ofte nura egoismo.
+      </ekz>
+    </dif>
+    <refgrp tip="ant">
+      <ref cel="pesimi1.0o.KOMUNE">pesimismo<sncref/></ref>
+    </refgrp>
+    <refgrp tip="vid">
+      <ref cel="kolor">rozkolora</ref>.
+    </refgrp>
+    <trd lng="be">&c_a;&c_p;&c_t;&c_y;&c_m;&c_ib;&c_z;&c_m;</trd>
+    <trd lng="de">Optimismus</trd>
+    <trd lng="el">&alfa;&jota;&sigma;&jota;&omikron;&delta;&omikron;&xi;&jota_ton;&alfa;</trd>
+    <trdgrp lng="hu">
+      <trd>der&uuml;l&aacute;t&aacute;s</trd>,
+      <trd>optimizmus</trd>
+    </trdgrp>
+    <trd lng="nl">optimisme</trd>
+    <trd lng="pt">o(p)timismo</trd>
+    <trd lng="sv">optimism</trd>
+  </snc>
+  <snc mrk="optimi.0o.FIL">
+    <uzo tip="fak">FIL</uzo>
+    <dif>
+      Doktrino, la&ubreve; kiu la mondo harmonias kaj estas a&ubreve; povas i&gcirc;i
+      plejeble bona:
+      <ekz>
+        <tld/>o estas, diris Kandid, la obstinego asertadi, ke &ccirc;io
+        estas bona, kiam oni malbone statas;
+      </ekz>
+      <ekz>
+        Keynes elkreskis en bonhava medio karakterizata per <tld/>o kaj
+        kredo ke la mondon povas &scirc;an&gcirc;i la intelekta elito
+        <fnt>
+        <aut>B. Sandelin</aut>,
+        <vrk>Makroekonomiko en la 20a jarcento</vrk>,
+        <bib>Monato</bib>,
+        <lok>2001:9a, p. 14a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="ant">
+      <ref cel="pesimi1.0o.FIL">pesimismo<sncref/></ref>
+    </refgrp>
+  </snc>
+  <trd lng="cs">optimizmus</trd>
+  <trd lng="en">optimism</trd>
+  <trd lng="fr">optimisme</trd>
+  <trd lng="ru">&c_o;&c_p;&c_t;&c_i;&c_m;&c_i;&c_z;&c_m;</trd>
+  <trd lng="sk">optimizmus</trd>
+</drv>
+
+<drv mrk="optimi.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="optimi.0a.KOMUNE">
+    <dif>
+      Kiu volonte rigardas la situacion bona
+      a&ubreve; facile esperas &gcirc;ian pliboni&gcirc;on:
+      <ekz>
+        temas pri <tld/>a poezio kaj ne hazarde ofti&gcirc;as 
+        vortoj kiel &leftquot;amo&#8223;, &leftquot;lumo&#8223;
+        <fnt>
+          <aut>A. Iannacone</aut>,
+          <vrk><url
+          ref="http://www.edizionieva.com/La%20floroj%20de%20l%27bono.htm">
+          La Floroj de l' bono (recenzo)</url></vrk>,
+          <lok>[2011?]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">optimistický</trd>
+  <trd lng="fr">optimiste<klr> (adj.)</klr></trd>
+  <trd lng="sk">optimistický</trd>
+</drv>
+
+<drv mrk="optimi.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="optimi.0i.KOMUNE">
+    <dif>
+      Sinteni, paroli, pensi la&ubreve; <tld/>a vidpunkto:
+      <ekz>
+        ne tro <tld/>u, Stef
+        <fnt><aut>C. Piron</aut>, <vrk>&Ccirc;u li bremsis 
+        sufi&ccirc;e?</vrk>, <lok>1979</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="fr">
+    <trd>&ecirc;tre <ind>optimiste</ind></trd>,
+    <trd>voir la vie en <ind>rose</ind></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: optimi.xml,v $
+Revision 1.17  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:33:21  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.15  2013/12/20 02:10:17  revo
+Jeromo Vasxe: + ~a / i
+
+Revision 1.14  2009/03/01 17:34:36  revo
+Russ Williams: +trd en
+
+Revision 1.13  2004/09/27 19:07:02  revo
+Jeromo Vasxe: komune 1a snc, koncizigis dif., + mrk, + ekz, + ant, + trd
+fr
+
+Revision 1.12 2003/09/11 16:30:45 revo
+Yury Finkel: gxeneraligis trd ru
+
+Revision 1.11 2003/06/20 16:30:57 revo
+Dmitri Gabinski: +trd be
+
+Revision 1.10 2002/06/02 06:27:48 revo
+Eduardo M. Kalinowski: ald trd el, pt
+
+Revision 1.9 2002/01/08 19:25:19 revo
+Jozefo Horvath: +trd hu
+
+-->
+</vortaro>

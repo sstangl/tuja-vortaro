@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: irid.xml,v 1.22 2015/07/04 08:37:36 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>irid</rad>/o
+</kap>
+<drv mrk="irid.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">BOT</uzo>
+  <snc>
+    <dif>
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:botanikaj_genroj">Genro</ref> el familio <ref
+      tip="malprt"
+      cel="iridac.0oj"><tld/>acoj</ref>
+      (<trd lng="la">Iris</trd>), kun grandaj trinombraj floroj.
+    </dif>
+  </snc>
+  <bld lok="../bld/irid.jpg"></bld>
+  <trd lng="be">&c_k;&c_a;&c_s;&c_a;&c_ch; <klr tip="amb">(&c_r;&c_a;&c_s;&c_mol;&c_l;&c_ib;&c_n;&c_a;)</klr></trd>
+  <trd lng="de">Schwertlilie</trd>
+  <trd lng="es">iris <klr>(planta)</klr></trd>
+  <trd lng="en">iris <klr tip="amb">(flower)</klr></trd>
+  <trd lng="fa">&a_z;&a_n;&a_b;&a_q;</trd>
+  <trd lng="fr">iris<klr tip="ind"> (plante)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>n&odblac;szirom</trd>,
+    <trd>&iacute;risz</trd></trdgrp>
+  <trd lng="nl">iris<klr tip="ind"> (bloem)</klr></trd>
+  <trd lng="pt">&iacute;ris <klr tip="amb">(bot.)</klr></trd>
+  <trd lng="ru">&c_i;&c_r;&c_i;&c_s;</trd>
+  <trd lng="sk">kosatec</trd>
+  <trd lng="cs">kosatec</trd>
+</drv>
+
+</art>
+<!--
+$Log: irid.xml,v $
+Revision 1.22  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.21  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.20  2015/04/23 20:10:13  revo
+Carlos Garcia: +trd es -o
+
+Revision 1.19  2013/08/30 14:11:25  revo
+Wolfram Diestel: kor. lst-ref
+
+Revision 1.18  2013/08/26 19:10:47  revo
+Wolfram Diestel: referenco al listo bot genroj
+
+Revision 1.17  2010/04/20 16:30:31  revo
+Russ Williams: +trd en
+
+Revision 1.16  2009/07/01 17:20:21  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.15  2007/04/20 16:31:32  revo
+Tulio Flores: +tr pt
+
+Revision 1.14  2005/03/28 17:14:47  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.13  2004/09/06 16:37:09  revo
+-->
+</vortaro>

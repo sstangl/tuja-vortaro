@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: amper.xml,v 1.26 2015/07/04 08:37:30 revo Exp $">
+<kap>
+  <rad>Amper</rad>/o
+</kap>
+<drv mrk="amper.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">PERS</uzo>
+  <snc>
+    <dif>
+      Franclingve: <trd lng="fr">Amp&egrave;re <klr
+      tip="amb">(Andr&eacute;-Marie)</klr></trd>,
+      1775-1836, franca <ref tip="lst" cel="fizik.0isto"
+      lst="voko:historiaj_personoj">fizikisto</ref>.
+    </dif>
+  </snc>
+  <trd lng="be">&c_A;&c_m;&c_p;&c_e;&c_r;</trd>
+  <trd lng="cs">M. Ampére</trd>
+  <trd lng="de">Andr&eacute;-Marie <ind>Amp&egrave;re</ind></trd>
+  <trd lng="en">Andr&eacute;-Marie <ind>Amp&egrave;re</ind></trd>
+  <trd lng="es">Amp&egrave;re</trd>
+  <trd lng="hu">Amp&egrave;re</trd>
+  <trd lng="id">Ampere</trd>
+  <trd lng="it">Ampere</trd>
+  <trd lng="nl">Andr&eacute;-Marie <ind>Amp&egrave;re</ind></trd>
+  <trd lng="pl">Amper</trd>
+  <trd lng="ru">&c_A;&c_m;&c_p;&c_je;&c_r;</trd>
+  <trd lng="sk">M. Ampére</trd>
+</drv>
+
+<drv mrk="amper.a0o">
+  <kap><tld lit="a"/>o</kap>
+  <uzo tip="fak">ELE</uzo>
+  <fnt><bib>PIV1</bib></fnt>
+  <mlg kod="SI">A</mlg>
+  <snc>
+    <dif>
+      Baza <ref tip="lst" cel="unu.mezur0o"
+      lst="voko:mezurunuoj">mezurunuo</ref> de
+      <ref cel="kurent.0intenso">kurentintenso</ref> en la Internacia
+      Sistemo de unuoj:
+      <ekz>
+        unu <tld lit="a"/>o egalas al la kurentintenso, kiu aplikite
+        al du rektaj paralelaj kondukiloj kun senfina longo kaj
+        neglektebla diametro kaj distancaj je unu
+        <ref cel="metr.0o.unuo">metro</ref> unu de alia en vakuo estigas
+        inter ili forton je 2.10<sup>-7</sup>
+        <ref cel="neuxto.n0o">ne&ubreve;tonoj</ref> en &ccirc;iu metro
+        da longo.
+      </ekz>
+    </dif>
+  </snc>
+  <adm>
+    Miaopinie ne temas pri kurentintenso, sed pri kurentforto. [Ulriko]
+  </adm>
+  <adm>
+    Kio estas "kurentforto"? Kiel gxi distingigxas de "kurentintenso"?
+    Cetere, ne klaras, cxu vi kritikas la terminon "kurentintenso"
+    (PIV-a kaj difinita en REVO, kun germana traduko
+    Stromst&auml;rke), aux cxu vi kritikas la difinon de ampero.
+    <aut>MB</aut>
+  </adm>
+  <trd lng="be">&c_a;&c_m;&c_p;&c_e;&c_r;</trd>
+  <trd lng="de">Ampere</trd>
+  <trd lng="en">ampere</trd>
+  <trd lng="es">amperio</trd>
+  <trd lng="fr">amp&egrave;re</trd>
+  <trd lng="hu">amper</trd>
+  <trd lng="id">ampere</trd>
+  <trd lng="it">ampere</trd>
+  <trd lng="nl">amp&egrave;re</trd>
+  <trd lng="pl">amper</trd>
+  <trd lng="ru">&c_a;&c_m;&c_p;&c_je;&c_r;</trd>
+  <trd lng="sk">amp&eacute;r</trd>
+  <trd lng="sk">M. Ampére</trd>
+  <trd lng="cs">M. Ampére</trd>
+</drv>
+</art>
+<!--
+$Log: amper.xml,v $
+Revision 1.26  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.25  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.24  2014/07/01 17:10:33  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.23  2013/09/15 11:10:24  revo
+Wolfram Diestel: ref al lst mezurunuoj, historiaj  personoj
+
+Revision 1.22  2011/06/03 12:10:14  revo
+Carlos Angus: +trd es
+
+Revision 1.21  2009/11/04 17:30:18  revo
+Antonio Codazzi: +trd it
+
+Revision 1.20  2009/10/15 16:31:01  revo
+Paul Peeraerts: +nl
+
+Revision 1.19  2009/10/12 16:30:27  revo
+Paul Peeraerts: +nl
+
+Revision 1.18  2008/09/16 16:30:44  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.17  2003/11/01 17:32:25  revo
+-->
+</vortaro>

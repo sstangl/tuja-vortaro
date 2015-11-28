@@ -1,0 +1,310 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: tem.xml,v 1.27 2015/07/04 08:37:44 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>tem</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="tem.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="tem.0o.KOMUNE">
+    <dif>
+      Tio, pri kio oni parolas, skribas, verkas, pensas;
+      priparola&jcirc;o, pritrakta&jcirc;o, pripensa&jcirc;o:
+      <ekz>
+        mi &scirc;an&gcirc;is la <tld/>on de la parolado
+        <fnt><bib>FK</bib>, <lok>3, anekdotoj</lok></fnt>;
+      </ekz>
+      <ekz>
+        liveri <tld/>on al.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="objekt.0o.temo">objekto <sncref/></ref>
+    </refgrp>
+    <refgrp tip="vid">
+      <ref cel="kamp.0o.tereno">kampo <sncref/></ref>,
+      <ref cel="punkt.0o.temo">punkto <sncref/></ref>,
+      <ref cel="region.0o.fig">regiono <sncref/></ref>
+    </refgrp>
+  </snc>
+  <snc mrk="tem.0o.fraza">
+    <uzo tip="fak">LIN</uzo>
+    <fnt><bib>PIV2</bib></fnt>
+    <dif>
+      La malpli informa parto de komunika&jcirc;o, kiu ne entenas novan
+      informon, sed servas kiel deira punkto por la nova, la
+      interesa parto (<ref tip="vid" cel="rema.0o">remao</ref>),
+      kiun la <tld/>o ligas kun la kunteksto:
+      <ekz>
+        &ccirc;ar <tld/>o kutime estas konata&jcirc;o, kaj remao estas nova&jcirc;o,
+        tial nemalofte la temo estas determinita difine, kaj la
+        remao, nedifine:
+        <ctl><em>Sur la tero</em> ku&scirc;as &scirc;tono</ctl> [FE &FE;6],
+        <ctl><em>Anta&ubreve; la domo</em> staras arbo</ctl> [FE &FE;8]
+        <fnt>
+          <aut>S. Pokrovskij</aut>:
+          <vrk><url ref="
+ http://lingvakritiko.com/2007/02/05/la-artikolo/#vortordo"
+              >La arikolo</url></vrk>
+        </fnt>
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_t;&c_e;&c_m;&c_a;</trd>
+  <trd lng="bg">&c_t;&c_je;&c_m;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>látka</trd>,
+    <trd>námět</trd>,
+    <trd>předmět</trd>,
+    <trd>t&eacute;ma</trd>
+  </trdgrp>
+  <trd lng="de">Thema</trd>
+  <trd lng="en">theme</trd>
+  <trdgrp lng="es">
+    <trd>tema</trd>,
+    <trd>asunto</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>sujet</trd>,
+    <trd>th&egrave;me<klr> (sujet)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>t&eacute;ma</trd>,
+    <trd>t&aacute;rgy</trd>
+  </trdgrp>
+  <trd lng="id">tema</trd>
+  <trdgrp lng="nl">
+    <trd>thema</trd>,
+    <trd>onderwerp</trd>
+  </trdgrp>
+  <trd lng="pl">temat</trd>
+  <trdgrp lng="pt">
+    <trd>tema</trd>,
+    <trd>assunto</trd>
+  </trdgrp>
+  <trd lng="ru">&c_t;&c_je;&c_m;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>námet</trd>,
+    <trd>t&eacute;ma</trd>
+  </trdgrp>
+  <trd lng="sv">tema</trd>
+</drv>
+
+<drv mrk="tem.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc>
+    <dif>
+      Havi kiel <tld/>on:
+      <ekz>
+        la diskuto <tld/>is pri &scirc;an&gcirc;o en la regularo.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_v;&c_je;&c_s;&c_mol;&c_c;&c_ib; <ind>&c_g;&c_a;&c_v;&c_o;&c_r;&c_k;&c_u;</ind>
+    <klr tip="amb">(&c_p;&c_r;&c_a; &c_sh;&c_t;&c_o;&c_s;&c_mol;&c_c;&c_ib;)</klr></trd>
+    <trdgrp lng="fr">
+      <trd>concerner</trd>,
+      <trd>toucher<klr> (un sujet)</klr></trd>
+    </trdgrp>
+    <trd lng="hu">sz&oacute;l <klr tip="amb">(vmir&odblac;l)</klr></trd>
+    <trd lng="es">tratar (sobre)</trd>
+    <trdgrp lng="pl">
+      <trd>dotyczy&cacute;<klr> (kogo&sacute;, czego&sacute;)</klr>
+      </trd>,
+      <trd>mie&cacute; za <ind>temat</ind></trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_v;&c_je;&c_s;&c_t;&c_i; &c_r;&c_je;&c_ch;&c_mol; <klr tip="amb">(&c_o;
+      &c_ch;&c_jo;&c_m;-&c_l;.)</klr></trd>,
+      <trd>&c_b;&c_y;&c_t;&c_mol; &c_p;&c_o;&c_s;&c_v;&c_ja;&c_shch;&c_jo;&c_n;&c_n;&c_y;&c_m; <ind>&c_t;&c_je;&c_m;&c_je;</ind></trd>
+    </trdgrp>
+  </snc>
+  <snc>
+    <uzo tip="klr">(sensubjekte)</uzo>
+    <dif>
+      La <tld/>o, la demando estas pri, la afero koncernas:
+      <ekz>
+        ne <tld/>as nun diskuti pri tio;
+      </ekz>
+      <ekz>
+        <ind><tld/>as</ind> en tiu &ccirc;apitro pri tute alia afero;
+        <trd lng="hu">sz&oacute; van
+        <klr tip="amb">(vmir&odblac;l)</klr></trd>
+        <trd lng="ru">&c_r;&c_je;&c_ch;&c_mol; &c_i;&c_d;&c_jo;&c_t;
+        <klr tip="amb">(&c_o; &c_ch;&c_jo;&c_m;-&c_l;.)</klr></trd>
+      </ekz>
+      <ekz>
+        <tld/>as &ccirc;u ni venkos a&ubreve; ne.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_g;&c_a;&c_v;&c_a;&c_r;&c_y;&c_c;&c_c;&c_a; <klr>(&c_p;&c_r;&c_a; &c_sh;&c_t;&c_o;&c_s;&c_mol;&c_c;&c_ib;)</klr></trd>,
+      <trd>&c_ib;&c_s;&c_mol;&c_c;&c_ib; <klr tip="amb">(&c_p;&c_r;&c_a; &c_g;&c_a;&c_v;&c_o;&c_r;&c_k;&c_u;,
+      &c_a;&c_b;&c_m;&c_je;&c_r;&c_k;&c_a;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je;)
+      </klr></trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>s'<ind>agir</ind> de</trd>,
+      <trd>&ecirc;tre <ind>question</ind> de</trd>
+    </trdgrp>
+    <trd lng="es">tratarse (de)</trd>
+    <trd lng="hu">sz&oacute; van <klr tip="amb">(vmir&odblac;l)</klr>
+    </trd>
+    <trd lng="id">[<ind>tema</ind>] bertema</trd>
+    <trdgrp lng="pl">
+      <trd>chodzi&cacute;<klr> o (kogo&sacute;, co&sacute;)</klr></trd>
+    </trdgrp>
+    <trd lng="ru">&c_g;&c_o;&c_v;&c_o;&c_r;&c_i;&c_t;&c_mol;&c_s;&c_ja; <klr tip="amb">(&c_o; &c_ch;&c_jo;&c_m;-&c_l;.,
+    &c_b;&c_je;&c_z;&c_l;.)</klr></trd>
+  </snc>
+  <trdgrp lng="nl">
+    <trd>gaan over</trd>,
+    <trd>handelen over</trd>
+  </trdgrp>
+  <trd lng="sv">handla <klr tip="ind">(om)</klr></trd>
+</drv>
+
+<drv mrk="tem.0aro">
+  <kap><tld/>aro</kap>
+  <snc mrk="tem.0aro.KOMUNE">
+    <dif>
+      Tuto de diversaj, ofte parencaj <tld/>oj:
+      <ekz>
+        <ctl>Scienco kaj Kulturo</ctl> <klr>...</klr> enhavas diversajn
+        aktualajn sciencajn artikolojn <klr>...</klr> kaj abundan
+        literaturan kaj kulturan <tld/>aron
+        <fnt>
+        <aut>M. Evlogieva</aut>,
+        <vrk>Revuo &leftquot;Scienco kaj Kulturo&rightquot;</vrk>,
+        <lok>soc.culture.esperanto, 1998-10-08</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>soubor námětů</trd>,
+    <trd>tématika</trd>
+  </trdgrp>
+  <trd lng="es">temario</trd>
+  <trd lng="fr">th&eacute;matique</trd>
+  <trdgrp lng="id">
+    <trd>tematik</trd>,
+    <trd>tematis</trd>
+  </trdgrp>
+  <trd lng="pl">tematyka</trd>
+  <trd lng="ru">&c_t;&c_je;&c_m;&c_a;&c_t;&c_i;&c_k;&c_a;</trd>
+  <trd lng="sk">tematika</trd>
+</drv>
+
+<drv mrk="tem.ekster0a">
+  <kap>ekster<tld/>a</kap>
+  <snc mrk="tem.ekster0a.KOMUNE">
+    <dif>
+      Ne kongrua kun la cetera <tld/>o, la priparolon devojiganta:
+      <ekz>
+        tio estas tute alia afero kaj ekster<tld/>a
+        <fnt>
+        <aut>M. Corobu</aut>,
+        <vrk>Re: Dulingvismo en edukado lau tiu &ccirc;i forumo</vrk>,
+        <lok>soc.culture.esperanto, 2002-09-19</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="flank.0ajxo.FIG">flanka&jcirc;o <sncref/></ref>,
+      <ref cel="parent.0o.subfrazo">parentezo <sncref/></ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="fr">
+    <trd>hors-sujet</trd>,
+    <trd>inadapt&eacute;<klr tip="amb"> (hors sujet)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>nie zwi&aogonek;zany z <ind>tematem</ind></trd>,
+    <trd>nie <ind>dotycz&aogonek;cy</ind> sprawy</trd>,
+    <trd>dygresyjny</trd>
+  </trdgrp>
+  <trd lng="ru">&c_n;&c_je; &c_k;&c_a;&c_s;&c_a;&c_ju;&c_shch;&c_i;&c_j;&c_s;&c_ja; <ind>&c_t;&c_je;&c_m;&c_y;</ind></trd>
+</drv>
+
+<drv mrk="tem.pri0i">
+  <kap>pri<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="tem.pri0i.KOMUNE">
+    <dif>
+      <ref tip="vid" cel="koncer.0i">Koncerni</ref>, havi kiel 
+      <tld/>on:
+      <ekz>
+        romano, kiu pri<tld/>as ekskluzive la vivon de E-klubo
+        <fnt>
+          <aut>UEA</aut>,
+          <vrk>Katalogo</vrk>,
+          <lok>[vidita en 2008]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="fr">
+    <trd>concerner</trd>,
+    <trd>traiter<klr> (de)</klr></trd>
+  </trdgrp>
+  <trd lng="id">[<ind>tema</ind>] bertemakan</trd>
+</drv>
+
+<drv mrk="tem.0o.kun.variajxoj">
+  <kap><tld/>o kun varia&jcirc;oj</kap>
+  <fnt><bib>MuzTerm</bib></fnt>
+  <snc mrk="tem.0o.kun.variajxoj.MUZ">
+    <uzo tip="fak">MUZ</uzo>
+    <dif>
+      <ref tip="super" cel="kompon.0ajxo">Kompona&jcirc;o</ref>
+      el melodio, tielnomata <tld/>o, kaj
+      <ref tip="vid" cel="vari.0ajxo">varia&jcirc;oj</ref>
+      konservantaj la skemon de la <tld/>o sed variigantaj &gcirc;in
+      diversmaniere.
+    </dif>
+  </snc>
+  <trd lng="be">&c_t;&c_e;&c_m;&c_a; &c_z; &c_v;&c_a;&c_r;&c_y;&c_ja;&c_c;&c_y;&c_ja;&c_m;&c_ib;</trd>
+  <trd lng="fr">th&egrave;me et variations</trd>
+  <trd lng="hu">t&eacute;ma &eacute;s vari&aacute;ci&oacute;k</trd>
+  <trd lng="id"><ind>tema</ind> dan variasi</trd>
+  <trd lng="pl">temat z wariacjami</trd>
+  <trd lng="ru">&c_t;&c_je;&c_m;&c_a; &c_s; &c_v;&c_a;&c_r;&c_i;&c_a;&c_c;&c_i;&c_ja;&c_m;&c_i;</trd>
+</drv>
+</art>
+<!--
+$Log: tem.xml,v $
+Revision 1.27  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.26  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.25  2015/04/30 08:10:15  revo
+Sergio Pokrovskij: +~0.fraza
+
+Revision 1.24  2014/06/29 08:10:11  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.23  2009/01/07 17:30:21  revo
+Jeromo Vasxe: + pri~i
+
+Revision 1.22  2008/11/05 17:31:13  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.21  2008/01/15 17:30:45  revo
+Wieland Pusch: +trd bg
+
+Revision 1.20  2006/07/18 16:31:05  revo
+Eduardo Navas: +trd es
+
+Revision 1.19  2006/02/15 17:32:00  revo
+Tulio Flores: +trd pt
+
+Revision 1.18  2005/05/26 16:31:36  revo
+-->
+</vortaro>

@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: abol.xml,v 1.13 2015/07/04 08:37:29 revo Exp $">
+<kap>
+  <rad>abol</rad>/i <fnt><bib>PIV1</bib></fnt>
+</kap>
+  
+<drv mrk="abol.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="abol.0i.JUR">
+    <uzo tip="fak">JUR</uzo>
+    <ref tip="dif" cel="abolic.0i">abolicii</ref>
+    <ekz>
+      sklaveco estis <tld/>ita en Brazilo en 1888.
+    </ekz>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_d;&c_m;&c_ja;&c_n;&c_ib;&c_c;&c_mol;</trd>,
+    <trd>&c_s;&c_k;&c_a;&c_s;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="br">terri&ntilde;<klr tip="ind"> (ul lezenn)</klr></trd>
+  <trdgrp lng="ca">
+    <trd>abolir</trd>,
+    <trd>revocar</trd>,
+    <trd>abrogar</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>vymýtit zvyk</trd>,
+    <trd>zastavit soudní řízení</trd>,
+    <trd>zrušit zákon</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>aufheben</trd>,
+    <trd>abschaffen</trd>,
+    <trd>einstellen</trd>
+  </trdgrp>
+  <trd lng="en">abolish</trd>
+  <trd lng="es">abolir</trd>
+  <trdgrp lng="fa">
+    <trd>&a_l;&a_gh;&a_w; &f_k;&a_r;&a_d;&a_n;</trd>,
+    <trd>&a_b;&a_r;&f_ch;&f_y;&a_d;&a_n;</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>abolir</trd>,
+    <trd>abroger</trd>,
+    <trd>annuler<klr tip="ind"> (par un acte juridique)</klr></trd>
+  </trdgrp>
+  <trd lng="hu">elt&ouml;r&ouml;l</trd>
+  <trdgrp lng="it">
+    <trd>abolire</trd>, <trd>abrogare</trd>
+  </trdgrp>
+  <trd lng="nl">afschaffen</trd>
+  <trdgrp lng="pl">
+    <trd>umorzy&cacute;</trd>,
+    <trd>uchyli&cacute;</trd>,
+    <trd>znie&sacute;&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>abolir</trd>,
+    <trd>anular</trd>,
+    <trd>extinguir</trd>,
+    <trd>revogar</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_o;&c_t;&c_m;&c_je;&c_n;&c_i;&c_t;&c_mol;</trd>,
+    <trd>&c_u;&c_p;&c_r;&c_a;&c_z;&c_d;&c_n;&c_i;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>odstrániť zvyk</trd>,
+    <trd>odstrániť zákon</trd>,
+    <trd>zru&scaron;i&tcaron; <klr>(z&aacute;kon, oby&ccaron;aj)</klr></trd>,
+    <trd>zrušiť</trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log: abol.xml,v $
+Revision 1.13  2015/07/04 08:37:29  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.12  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.11  2015/03/05 19:10:15  revo
+Wolfram Diestel: +tr
+
+Revision 1.10  2012/08/22 10:10:13  revo
+Marc Rausell: + trd ca
+
+Revision 1.9  2011/01/17 17:10:13  revo
+Antonio Codazzi: +trd it
+
+Revision 1.8  2010/06/28 17:53:01  revo
+Jeromo Vasxe: relokis ekz, + trd el abolicii
+
+Revision 1.7  2010/06/15 16:30:30  revo
+Evandro Avellar: +trd pt, + ekz
+
+Revision 1.6  2009/06/10 16:30:53  revo
+Russ Williams: +trd en
+
+Revision 1.5  2007/06/10 16:31:34  revo
+Wieland Pusch: +trd de
+
+Revision 1.4  2005/08/26 16:32:26  revo
+-->
+</vortaro>

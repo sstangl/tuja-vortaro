@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: hermet.xml,v 1.20 2015/07/04 08:37:35 revo Exp $">
+<kap>
+  <rad>hermet</rad>/a <fnt>Z</fnt>
+</kap>
+<drv mrk="hermet.0a">
+  <kap><tld/>a<fnt>Z</fnt></kap>
+  <snc mrk="hermet.0a.TEK">
+    <uzo tip="fak">TEK</uzo>
+    <ref tip="dif" cel="hermetik.0a.TEK">hermetika<sncref/></ref>
+  </snc>
+  <snc mrk="hermet.0a.malklara">
+    <ref tip="dif" cel="hermetik.0a.malklara">hermetika<sncref/></ref>
+    <ekz>
+      kelkaj, a&ubreve; eble multaj, trovas <klr>...</klr> liajn poemojn
+      malfacilaj, nekompreneblaj, <tld/>aj
+      <fnt>
+        <aut>J. Camacho</aut>,
+        <vrk><url ref="http://www.liberafolio.org/2006/kantojdeanteo">
+        Poeto &ccirc;e mar&ccirc;ando kun Anubo</url></vrk>,
+        <lok>libera folio, 2008-01-26</lok>
+      </fnt>.
+    </ekz>
+  </snc>
+  <trd lng="ca">herm&egrave;tic</trd>
+  <trdgrp lng="cs">
+    <trd>hermetický</trd>,
+    <trd>neprodyšný</trd>,
+    <trd>vzduchotěsný</trd>
+  </trdgrp>
+  <trd lng="en">hermetic</trd>
+  <trd lng="fr">herm&eacute;tique</trd>
+  <trd lng="it">ermetico</trd>
+  <trd lng="pt">herm&eacute;tico</trd>
+  <trdgrp lng="sk">
+    <trd>hermetický</trd>,
+    <trd>nepriedušný</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: hermet.xml,v $
+Revision 1.20  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2013/08/01 01:10:20  revo
+Jeromo Vasxe: + snc 2 + ekz
+
+Revision 1.17  2011/12/04 20:10:09  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.16  2009/10/24 16:32:59  revo
+Russ Williams: +trd en
+
+Revision 1.15  2009/09/07 16:31:21  revo
+Antonio Codazzi: +trd it
+
+Revision 1.14  2007/04/27 16:30:36  revo
+Tulio Flores: +tr pt
+
+Revision 1.13  2004/03/26 17:30:51  revo
+Jeromo Vasxe: rad hermet(ik) -> hermet, portis cxion al nova art
+hermetik.xml
+
+Revision 1.12 2004/01/09 17:30:29 revo
+Dmitri Gabinski: +trd be
+
+-->
+</vortaro>

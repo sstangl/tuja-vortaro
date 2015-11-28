@@ -1,0 +1,1505 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<!--
++drv ~(ant)a, (duon|super|)~eco // ~tivo; rilato kun dukt, izol, stirilo
++drv ek~i, el~i, kun~i, mis~i, re~i, supren~i, sur~i, tra~i, trans~i,
+~benko; ~isto: +ekz
+-->
+
+<vortaro>
+<art mrk="$Id: konduk.xml,v 1.38 2015/11/03 18:10:16 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>konduk</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="konduk.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="konduk.0i.irigi_kun_si">
+    <uzo tip="klr">(iu)</uzo>
+    <dif>
+      Irigi iun kun si al iu loko, direktante lin
+      la&ubreve; sia propra pla&ccirc;o:
+      <ekz>
+        la soldatoj <tld/>is la arestitojn tra la stratoj
+        <fnt><bib>F</bib>, <lok>&FE; 22</lok></fnt>;
+      </ekz>
+      <ekz>
+        <tld/>i iun al la fenestro, al urbdomo, en la teatron, sur vojo
+        malbona<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        <tld/>i infanon per la mano;
+      </ekz>
+      <ekz>
+        <tld/>i blindulon, vizitantojn;
+      </ekz>
+      <ekz>
+        <tld/>i &ccirc;evalon per la brido;
+      </ekz>
+      <ekz>
+        <tld/>i a&ubreve;tomobilon, ma&scirc;inon;
+      </ekz>
+      <ekz>
+        en broditaj vestoj &scirc;i estas <tld/>ata al la re&gcirc;o<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        mi <tld/>os vin la&ubreve; la vojo de sa&gcirc;o<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="direkt.0i.montri_vojon">direkti <sncref/></ref>,
+      <ref cel="gvid.0i.vojo">gvidi <sncref/></ref>,
+      <ref cel="naz.0o">nazo</ref>
+    </refgrp>
+    <trdgrp lng="de">
+      <trd>leiten</trd>,
+      <trd>geleiten</trd>,
+      <trd>f&uuml;hren</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>to lead</trd>,
+      <trd>conduct</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>conduire<klr tip="ind"> (faire aller avec soi)</klr></trd>,
+      <trd>acheminer</trd>,
+      <trd>amener</trd>,
+      <trd>guider<klr tip="ind"> (faire aller avec soi)</klr></trd>,
+      <trd>mener<klr tip="ind"> (faire aller avec soi)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="nl">
+      <trd>begeleiden</trd>,
+      <trd>besturen</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="konduk.0i.ebligi_iradon">
+    <uzo tip="klr">(io)</uzo>
+    <dif>
+      Ebligi al io a&ubreve; iu iradon al iu loko:
+      <ekz>
+        mallar&gcirc;a vojeto <tld/>as tra tiu &ccirc;i kampo
+        <fnt><bib>F</bib>, <lok>&FE; 38</lok></fnt>;
+      </ekz>
+      <ekz>
+        kanalo <tld/>as la akvon en la lagon<fnt>B</fnt>;
+      </ekz>
+      <ekz>
+        aleo da arboj <tld/>as al la domo;
+      </ekz>
+      <ekz>
+        pordo <tld/>anta el la &ccirc;ambro en la &gcirc;ardenon;
+      </ekz>
+      <ekz>
+        la arbaro <tld/>is al la maro<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        lia metio <tld/>as lin en multajn diversajn mediojn;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        <ind>peto kaj demando <tld/>as tra l' tuta lando</ind>
+        <fnt><bib>PrV</bib></fnt>.
+        <trd lng="fr">avec sa <ind>langue</ind> on va partout</trd>
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>leiten</trd>,
+      <trd>f&uuml;hren</trd>
+    </trdgrp>
+     <trdgrp lng="en">
+      <trd>to lead</trd>,
+      <trd>conduct</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>conduire<klr tip="ind"> (constituer un passage)</klr></trd>,
+      <trd>mener<klr tip="ind"> (constituer un passage)</klr></trd>,
+    </trdgrp>
+    <trd lng="nl">leiden</trd>
+  </snc>
+  <snc mrk="konduk.0i.alvenigi_al_stato">
+    <uzo tip="klr">(iu)</uzo>
+    <dif>
+      Alvenigi per sia propra agado iun a&ubreve; ion al nova stato:
+      <ekz>
+        jen kien vi <tld/>is lin per viaj konsiloj!;
+      </ekz>
+      <ekz>
+        <tld/>i la landon al pereo<fnt>B</fnt>,
+      </ekz>
+      <ekz>
+        aferon al sukceso, sian laboron al feli&ccirc;a fino<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>leiten</trd>
+    </trdgrp>
+    <trd lng="en">to bring</trd>
+    <trdgrp lng="fr">
+      <trd>conduire<klr tip="ind"> (&agrave; un &eacute;tat, &agrave; un acte)</klr></trd>,
+      <trd>acculer<klr tip="ind"> (&agrave; un &eacute;tat, &agrave; un acte)</klr></trd>,
+      <trd>entra&icirc;ner<klr tip="ind"> (vers un &eacute;tat, &agrave; un
+      acte)</klr></trd>,
+      <trd>pousser<klr tip="ind"> (vers un &eacute;tat, &agrave; un acte)</klr></trd>,
+      <trd>r&eacute;duire<klr tip="ind"> (&agrave; un &eacute;tat, &agrave; un acte)</klr></trd>,
+    </trdgrp>
+    <trd lng="nl">leiden</trd>
+  </snc>
+  <snc mrk="konduk.0i.ebligi_alvenon_al_stato">
+    <uzo tip="klr">(io)</uzo>
+    <dif>
+      Ebligi al iu alvenon al nova stato:
+      <ekz>
+        dibo&ccirc;ado <tld/>as al malsano;
+      </ekz>
+      <ekz>
+        <ind>espero kaj pacienco <tld/>as al potenco</ind>
+        <fnt><bib>PrV</bib></fnt>;
+        <trd lng="hu">t&uuml;relem r&oacute;zs&aacute;t <ind>terem</ind></trd>
+      </ekz>
+      <ekz>
+        <ind>tro da libero <tld/>as al mizero</ind>
+        <fnt><bib>PrV</bib></fnt>;
+        <trd lng="hu">a nagy szabads&aacute;gnak nyomor a <ind>v&eacute;ge</ind></trd>
+      </ekz>
+      <ekz>
+        tiuj provoj <tld/>is al nenia rezultato<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        <ind>e&ccirc; plej granda malbono al bono <tld/>as</ind>
+        <fnt><bib>PrV</bib></fnt>;
+        <trd lng="fr">&agrave; quelque chose <ind>malheur</ind> est toujours
+        bon</trd>
+        <trd lng="hu">a legrosszabbt&oacute;l is <ind>vezethet</ind> &uacute;t a
+        j&oacute;hoz</trd>
+      </ekz>
+      <ekz>
+        <ind>tro grandaj kalkuloj <tld/>as al nulo</ind>
+        <fnt><bib>PrV</bib></fnt>;
+        <trd lng="fr">on hasarde de <ind>perdre</ind> en voulant trop
+        gagner</trd>
+      </ekz>
+      <ekz>
+        <ind>mensogo malproksimen ne <tld/>as</ind>
+        <fnt><bib>PrV</bib></fnt>.
+        <trd lng="fr">le <ind>menteur</ind> ne va pas loin</trd>
+        <trd lng="hu">hazugs&aacute;ggal nem lehet messze
+        <ind>menni</ind></trd>        
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>f&uuml;hren</trd>
+    </trdgrp>
+    <trd lng="en">to lead</trd>
+    <trdgrp lng="fr">
+      <trd>conduire<klr tip="ind"> (aboutir &agrave;)</klr></trd>,
+      <trd>aboutir<klr tip="ind"> (&agrave; un r&eacute;sultat)</klr></trd>,
+      <trd>mener<klr tip="ind"> (aboutir &agrave;)</klr></trd>,
+      <trd>d&eacute;boucher<klr tip="ind"> (aboutir &agrave;)</klr></trd>
+    </trdgrp>
+    <trd lng="nl">leiden</trd>
+  </snc>
+  <snc mrk="konduk.0i.agigi_funkciigi_lauxvole">
+    <uzo tip="klr">(iu)</uzo>
+    <dif>
+      Agigi iun a&ubreve; funkciigi ion la&ubreve; sia propra volo,
+      gardante por si la estrecon:
+      <ekz>
+        <tld/>i ma&scirc;inon, veturilon, la popolojn, la homojn;
+      </ekz>
+      <ekz>
+        la plimulto el la virinoj lasas sin <tld/>i de sia koro;
+      </ekz>
+      <ekz>
+        <tld/>i armeon, regimenton, &hcirc;oron, militon<fnt>Z</fnt>,
+      </ekz>
+      <ekz>
+        batalon<fnt>Z</fnt>,
+      </ekz>
+      <ekz>
+        entreprenon, firmon, proceson, la mastra&jcirc;on de la
+        domo<fnt>Z</fnt>,
+      </ekz>
+      <ekz>
+        interparoladon<fnt>Z</fnt>,
+      </ekz>
+      <ekz>
+        rezonadon;
+      </ekz>
+      <ekz>
+        prudente <tld/>i aferon;
+      </ekz>
+      <ekz>
+        mi ne <tld/>as apartan libron por &ccirc;iuj enspezoj kaj
+        elspezoj<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        <ind><tld/>i la dancojn</ind>
+        <klr>(havi la &ccirc;efan vo&ccirc;on)</klr>
+        <fnt><bib>PrV</bib></fnt>.
+        <trdgrp lng="fr">
+          <trd>mener le <ind>bal</ind></trd>,
+          <trd>mener la <ind>danse</ind></trd>,
+          <trd>donner le <ind>ton</ind><klr tip="ind"> (avoir un r&ocirc;le
+          conducteur)</klr></trd>
+        </trdgrp>
+        <trd lng="hu">vezet&odblac; szerepet j&aacute;tszik</trd>
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="direkt.0i.funkciadon_de_io">direkti <sncref/></ref>,
+      <ref cel="direkt.0i.ies_konduton">direkti <sncref/></ref>,
+      <ref cel="gvid.0i.konsile">gvidi <sncref/></ref>,
+      <ref cel="ton.0o.MUZ_baza">tono</ref>
+    </refgrp>
+    <trdgrp lng="de">
+      <trd>steuern</trd>,
+      <trd>lenken</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>to run</trd>,
+      <trd>control</trd>, <trd>lead</trd>, <trd>guide</trd>,
+      <trd>conduct</trd>, <trd>handle</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>conduire<klr tip="ind"> (diriger)</klr></trd>,
+      <trd>administrer</trd>,
+      <trd>commander</trd>,
+      <trd>diriger</trd>,
+      <trd>g&eacute;rer</trd>,
+      <trd>gouverner</trd>,
+      <trd>guider<klr tip="ind"> (diriger)</klr></trd>,
+      <trd>manager</trd>,
+      <trd>man&oelig;uvrer<klr tip="ind"> (diriger)</klr></trd>,
+      <trd>mener<klr tip="ind"> (diriger)</klr></trd>,
+      <trd>piloter<klr tip="ind"> (diriger)</klr></trd>,
+      <trd>r&eacute;gir</trd>,
+    </trdgrp>
+    <trd lng="nl">leiden</trd>
+  </snc>
+  <snc mrk="konduk.0i.FIZ_ELE">
+    <uzo tip="fak">FIZ</uzo>
+    <uzo tip="fak">ELE</uzo>
+    <fnt><bib>PV</bib></fnt>
+    <dif>
+      <klr>(elektron, varmon, elektromagnetan ondon)</klr>
+      Esti trairebla de &gcirc;i:
+      <ekz>
+        la metaloj bone <tld/>as elektron;
+      </ekz>
+      <ekz>
+        oni sternis tri elektrajn kablojn de
+        Tianshengqiao-hidroelektrejo
+        en la limregiono de Yunnan, Guizhou kaj Guangxi por <tld/>i
+        elektron al Guangdong
+        <fnt>
+        <vrk>Harmonia kunlaboro de la oriento kun la okcidento por
+        kuna prospero</vrk>
+        <lok><url
+        ref="http://www.chinareport.com.cn/09e/09e-3f/09e-3-6.htm">El
+        Popola A?inio</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>[diamanto]</klr> estas ekstreme bona materio
+        por <tld/>i varmon
+        <fnt>
+        <vrk>Diamanto ne nur belas</vrk>
+        <lok><url
+        ref="http://es.chinabroadcast.cn/4/2003/12/19/1@1664.htm">&Ccirc;ina
+        Enciklopedio</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="konduk3.0i">kondukti</ref>
+    <rim>
+      &Ccirc;i tiu senco sufi&ccirc;e facile kaj tre internacie
+      derivi&gcirc;as de senco <sncref ref="konduk.0i.ebligi_iradon"/>, ja
+      la koncernaj substancoj ebligas trairadon de la koncerna
+      energiformo
+      kaj iasence agas por &gcirc;i kiel agas kanaloj por fluida&jcirc;oj.
+      Tial ne aspektas tre utila la paronimo <em>kondukt</em> aperanta
+      &ccirc;i-sence en <fnt><bib>PIV1</bib></fnt>, kaj enkondukita
+      jam pli frue en <fnt><bib>ScTerm</bib></fnt>.
+    </rim>
+    <trd lng="en">to conduct</trd>
+    <trdgrp lng="fr">
+      <trd>conduire<klr tip="ind"> (phys.)</klr></trd>,
+      <trd>&ecirc;tre <ind>conducteur</ind> (de)</trd>,
+    </trdgrp>
+  </snc>
+  <rim>
+    <em>Direkti</em> kaj <em>konduki</em> povas esti indiferente uzataj
+    pri veturiloj kaj pri gravaj aferoj (entreprenoj ktp). Sed pri
+    vivuloj
+    ekzistas tia diferenco, ke la kondukanto akompanas, la direktanto
+    ne.
+    Inter <em>direkti</em> a&ubreve; <em>konduki</em> kaj <em>gvidi</em>, la
+    diferenco estas, ke la direktanto a&ubreve; kondukanto estras, dum la
+    gvidanto
+    nur helpas. Fine <em>gvidi</em> supozas, ke la gvidato ne konas la
+    &gcirc;ustan vojon, kiun konas nur la gvidanto.
+  </rim>
+  <trd lng="cs">v&eacute;st</trd>
+  <trd lng="hu">vezet</trd>
+  <trdgrp lng="pt">
+    <trd>conduzir</trd>,
+    <trd>levar</trd>,
+    <trd>guiar</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_v;&c_je;&c_s;&c_t;&c_i;</trd>,
+    <trd>&c_p;&c_r;&c_i;&c_v;&c_je;&c_s;&c_t;&c_i;</trd>,
+    <trd>&c_p;&c_r;&c_i;&c_v;&c_o;&c_d;&c_i;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>riadi&tcaron;</trd>,
+    <trd>vies&tcaron;</trd>,
+    <trd>vodi&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>vodit</trd>,
+    <trd>&rcaron;&iacute;dit</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="konduk.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="konduk.0a.KOMUNE">
+    <dif>
+      Rilata al <tld/>ado:
+      <ekz>
+        mia <tld/>a tekniko <klr>(tekniko <tld/>i la &ccirc;eval&ccirc;aron)</klr>
+        estas plej kompetenta
+        <fnt>
+        <vrk>Rakonto pri diametra kontra&ubreve;eco</vrk>
+        <lok><url
+        ref="http://es.chinabroadcast.cn/chinaabc/chapter16/chapter160210.htm">&Ccirc;ina
+        Enciklopedio</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="en">
+      <trd>managerial</trd>,
+      <trd>guiding</trd>
+    </trdgrp>
+    <trd lng="hu">vezet&eacute;si</trd>    
+  </snc>
+  <snc mrk="konduk.0a.FIZ_ELE">
+    <dif>
+      <tld lit="K"/>anta <sncref ref="konduk.0i.FIZ_ELE"/>:
+      <ekz>
+        nelacigeble, <klr>[Hertz]</klr> studas la propagadon de la
+        elektromagnetaj ondoj kiuj <klr>[ebligas]</klr> transporti
+        energion sen <tld/>a fadeno
+        <fnt>
+        <aut>P. Dessapt</aut>
+        <vrk>Elektromagnetismo kaj propagado de la ondoj</vrk>
+        <lok><url
+        ref="http://dspt.club.fr/hertzE.htm">http://dspt.club.fr/hertzE.htm</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="en">conductive</trd>
+    <trd lng="hu">vezet&odblac;</trd>
+    <trd lng="ru">&c_p;&c_r;&c_o;&c_v;&c_o;&c_d;&c_ja;&c_shch;&c_i;&c_j;</trd>
+  </snc>
+</drv>
+
+<drv mrk="konduk.0ado">
+  <kap><tld/>ado</kap>
+  <snc>
+    <dif>
+      Ago de tiu, kiu (ade) <tld/>as:
+    </dif>
+    <subsnc ref="konduk.0i.agigi_funkciigi_lauxvole">
+      <ekz>
+        jen estas la iroj de la Izraelidoj, per kiuj ili eliris el la
+        lando Egipta, la&ubreve; siaj ta&ccirc;mentoj, sub la <tld/>ado
+        de Moseo kaj Aaron
+        <fnt><bib>MT</bib><lok>&Nom; 33:1</lok></fnt>;
+      </ekz>
+      <trd lng="en">guidance</trd>
+    </subsnc>
+    <subsnc ref="konduk.0i.ebligi_iradon">
+      <ekz>
+        <tld/>ilo &#8208; elemento, servanta por <tld/>ado de fluanta
+        likvo a&ubreve; gaso
+        <fnt>
+        <aut>J. Ryb&aacute;&rcaron;</aut>
+        <vrk>Terminaro de hidra&ubreve;laj me&hcirc;anismoj</vrk>
+        <lok><url
+        ref="http://eo.wikipedia.org/wiki/Kondukilo">Vikipedio</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;inaj teknikaj laborantoj komencis la
+        in&gcirc;enieria&jcirc;on de <tld/>ado de akvo
+        el sudo al nordo de &Ccirc;inio
+        <fnt>
+        <vrk>In&gcirc;enieria&jcirc;o de kondukado de akvo
+        el sudo al nordo de &Ccirc;inio</vrk>
+        <lok><url
+        ref="http://es.chinabroadcast.cn/chinaabc/chapter3/chapter30902.htm">&Ccirc;ina
+        Enciklopedio</url></lok>
+        </fnt>;
+      </ekz>
+      <trdgrp lng="en">
+        <trd>delivery</trd>,
+        <trd>conduction</trd>
+      </trdgrp>
+      <trd lng="ru">&c_p;&c_r;&c_o;&c_v;&c_je;&c_d;&c_je;&c_n;&c_i;&c_je;</trd>
+    </subsnc>
+    <subsnc ref="konduk.0i.FIZ_ELE">
+      <ekz>
+        mi devis &ccirc;esigi la lecionon pri <ind>varmo<tld/>ado</ind>
+        kaj sendi &ccirc;iujn en la korton
+        <fnt>
+        <aut>Pejno S.</aut>
+        <vrk>&Scirc;topilo</vrk>
+        <lok><url
+        ref="http://ourworld.compuserve.com/homepages/profcon/e_shtop.htm">http://ourworld.compuserve.com/homepages/profcon/e_shtop.htm</url></lok>
+        </fnt>.
+        <trd lng="hu">h&odblac;vezet&eacute;s</trd>
+        <trd lng="ru">&c_t;&c_je;&c_p;&c_l;&c_o;&c_p;&c_r;&c_o;&c_v;&c_o;&c_d;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
+      </ekz>
+      <trd lng="en">conduction</trd>
+      <trd lng="ru">&c_p;&c_r;&c_o;&c_v;&c_o;&c_d;&c_i;&c_m;&c_o;&c_s;&c_t;&c_mol;</trd>
+    </subsnc>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>veden&iacute;</trd>,
+    <trd>vod&ecaron;n&iacute;</trd>,
+    <trd>&rcaron;&iacute;zen&iacute; <klr>(&ccaron;innost)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>conduction</trd>,
+    <trd>conduite<klr tip="ind"> (acte de conduire)</klr></trd>
+  </trdgrp>
+  <trd lng="hu">vezet&eacute;s</trd>
+  <trdgrp lng="ru">
+    <trd>&c_v;&c_je;&c_d;&c_je;&c_n;&c_i;&c_je;</trd>,
+    <trd>&c_v;&c_o;&c_zh;&c_d;&c_je;&c_n;&c_i;&c_je;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>riadenie</trd>,
+    <trd>vedenie</trd>,
+    <trd>vodenie</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="konduk.0anto">
+  <kap><tld/>anto</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="konduk.0anto.KOMUNE">
+    <dif>
+      Tiu, kiu <tld/>as.
+    </dif>
+    <subsnc ref="konduk.0i.irigi_kun_si">
+      <ekz>
+        ili estas blindaj <tld/>antoj de blinduloj
+        <fnt><bib>NT</bib><lok>&Mat; 15:14</lok></fnt>;
+      </ekz>
+    </subsnc>
+    <subsnc ref="konduk.0i.agigi_funkciigi_lauxvole">
+      <ekz>
+        la <tld/>anto de la glitveturilo turnis la kapon
+        kaj tiel afable kapjesis al Kay, kvaza&ubreve; ili
+        konus unu la alian
+        <fnt><bib>Fab2</bib><lok>Ne&gcirc;a re&gcirc;ino</lok></fnt>;
+      </ekz>
+      <ekz>
+        la <tld/>antoj de via komercado <klr>[...]</klr> falos
+        en la mezon de la maro en la tago de via pereo
+        <fnt><bib>MT</bib><lok>&Jeh; 27:27</lok></fnt>;
+      </ekz>
+      <ekz>
+        li diris al Jifta&hcirc;: Iru kaj estu nia <tld/>anto,
+        kaj ni batalos kontra&ubreve; la Amonidoj
+        <fnt><bib>MT</bib><lok>&Jug; 11:6</lok></fnt>.
+      </ekz>
+    </subsnc>
+     <trdgrp lng="en">
+        <trd>guide</trd>,
+        <trd>conductor</trd>, <trd>leader</trd>
+      </trdgrp>
+    <trdgrp lng="fr">
+      <trd>conducteur<klr tip="ind"> (personne qui conduit)</klr></trd>,
+      <trd>chauffeur<klr tip="ind"> (personne qui conduit)</klr></trd>,
+      <trd>chef</trd>,
+      <trd>guide<klr tip="ind"> (personne qui conduit)</klr></trd>,
+      <trd>leader</trd>,
+      <trd>pilote<klr tip="ind"> (personne qui conduit)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_p;&c_r;&c_o;&c_v;&c_o;&c_d;&c_n;&c_i;&c_k;</trd>,
+      <trd>&c_v;&c_o;&c_d;&c_i;&c_t;&c_je;&c_l;&c_mol;</trd>,
+      <trd>&c_v;&c_o;&c_zh;&c_d;&c_mol;</trd>,
+      <trd>&c_v;&c_je;&c_d;&c_u;&c_shch;&c_i;&c_j;<klr tip="amb"> (&c_s;&c_u;&c_shch;.)</klr></trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="konduk.0anto.FIZ_ELE">
+    <uzo tip="fak">FIZ</uzo>
+    <uzo tip="fak">ELE</uzo>
+    <dif>
+      Korpo a&ubreve; substanco, kapabla
+      <tld/>i <sncref ref="konduk.0i.FIZ_ELE"/> energiformon tra si:
+      <ekz>
+        <klr>[metaloido]</klr> estas malbona <tld/>anto de varmo kaj
+        elektro
+        <fnt><bib>PV</bib><lok>metaloido</lok></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="en">conductor</trd>
+    <trd lng="fr">conducteur<klr tip="ind"> (subst., phys.)</klr></trd>
+    <ref tip="sin" cel="konduk3.0anto">konduktanto</ref>
+    <trd lng="ru">&c_p;&c_r;&c_o;&c_v;&c_o;&c_d;&c_n;&c_i;&c_k;</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>pr&uring;vodce <klr>(n&ecaron;&ccaron;&iacute;m)</klr></trd>,
+    <trd>v&uring;dce</trd>,
+    <trd>&rcaron;idi&ccaron;</trd>
+  </trdgrp>
+  <trd lng="hu">vezet&odblac;</trd>
+  <trdgrp lng="sk">
+    <trd>sprievodca <klr>(nie&ccaron;&iacute;m)</klr></trd>,
+    <trd>vodca</trd>,
+    <trd>vodi&ccaron;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="konduk.0isto">
+  <kap><tld/>isto</kap>
+  <snc>
+    <dif>
+      Homo, kiu profesie <tld/>as veturilon, lokomotivon,
+      a&ubreve;tomobilon ks.
+    </dif>
+    <rim>
+      Ne konfuzu kun
+      <ref cel="konduk2.0o">konduktoro</ref>.
+    </rim>
+  </snc>
+  <trd lng="cs">pr&uring;vodce</trd>
+  <trdgrp lng="de">
+    <trd>F&uuml;hrer</trd>,
+    <trd>Steuermann</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>driver</trd>,
+    <trd>chauffeur</trd>, <trd>pilot</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>chauffeur<klr tip="ind"> (professionnel)</klr></trd>,
+    <trd>conducteur<klr tip="ind"> (professionnel)</klr></trd>,
+    <trd>pilote<klr tip="ind"> (professionnel)</klr></trd>
+  </trdgrp>
+  <trd lng="hu">j&aacute;rm&udblac;vezet&odblac;</trd>
+  <trdgrp lng="nl">
+    <trd>bestuurder</trd>,
+    <trd>conducteur</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_k;&c_o;&c_n;&c_d;&c_u;&c_k;&c_t;&c_o;&c_r;</trd>,
+    <trd>&c_v;&c_o;&c_d;&c_i;&c_t;&c_je;&c_l;&c_mol;</trd>,
+    <trd>&c_sh;&c_o;&c_f;&c_jo;&c_r;</trd>
+  </trdgrp>
+  <trd lng="sk">sprievodca</trd>
+</drv>
+
+<drv mrk="konduk.0ilo">
+  <kap><ofc>*</ofc><tld/>ilo</kap>
+  <snc mrk="konduk.0ilo.rimeno" ref="konduk.0i.irigi_kun_si">
+    <fnt><bib>F</bib></fnt>
+    <dif>
+      <ref tip="super" cel="rimen.0o">Rimeno</ref> por
+      <tld/>i <sncref ref="konduk.0i.irigi_kun_si"/> brutojn:
+      <ekz>
+        sur la domo staris kupra &ccirc;aro kun kupraj &ccirc;evaloj
+        anta&ubreve;e, kaj la diino de venko, anka&ubreve; el kupro,
+        tenis la <tld/>ilojn
+        <fnt><bib>Fab2</bib><lok>Najbaraj familioj</lok></fnt>;
+      </ekz>
+      <ekz>
+        Ramzes <klr>[...]</klr> sidi&gcirc;is en la &ccirc;aron
+        kaj mem prenis la <tld/>ilojn
+        <fnt><bib>Far2</bib><lok>&ccirc;ap. 21</lok></fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;armo de la krepusko, kiam la &ccirc;evalo kun mallevita
+        <tld/>ilo lace pa&scirc;as sur la malseka herbo
+        <fnt><bib>Metrop</bib><lok>&ccirc;ap. 8</lok></fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FRAZ</uzo>
+        <ind>teni iun per mallonga <tld/>ilo</ind>
+        <klr>(ne lasi lin libere agi)</klr>
+        <fnt>
+        <vrk>&c_Sh;&c_k;&c_o;&c_l;&c_a; ESPERANTO</vrk>
+        <lok><url
+        ref="http://subscribe.ru/archive/job.lang.esplernejo/200009/12060047.html">http://subscribe.ru/archive/job.lang.esplernejo/200009/12060047.html</url></lok>
+        </fnt>.
+        <trdgrp lng="fr">
+          <trd>tenir la <ind>bride</ind> courte &agrave; qn</trd>,
+          <trd>serrer la <ind>bride</ind> &agrave; qn</trd>,
+          <trd>contenir qn<klr tip="ind"> (ne pas lui laisser la libert&eacute;
+          d'agir)</klr></trd>
+        </trdgrp>
+        <trd lng="hu">r&ouml;vid <ind>p&oacute;r&aacute;zon</ind> tart</trd>
+      </ekz>
+    </dif>
+    <rim>
+      En &ccirc;i tiu senco la vorto plejofte aperas plurale, sed
+      anka&ubreve; singulara uzo eblas.
+    </rim>
+    <trdgrp lng="de">
+      <trd>Z&uuml;gel</trd>
+    </trdgrp>
+    <trd lng="en">rein</trd>
+    <trdgrp lng="fr">
+      <trd>r&ecirc;ne</trd>,
+      <trd>guide<klr tip="ind"> (r&ecirc;ne)</klr></trd>,
+      <trd>bride<klr tip="ind"> (r&ecirc;ne)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>kant&aacute;rsz&aacute;r</trd>,
+      <trd>gyepl&odblac;</trd>
+    </trdgrp>
+    <trd lng="nl">leidsel</trd>
+    <trd lng="ru">&c_v;&c_o;&c_zh;&c_zh;&c_i;</trd>
+  </snc>
+  <snc mrk="konduk.0ilo.tubo" ref="konduk.0i.ebligi_iradon">
+    <fnt><aut>J. Ryb&aacute;&rcaron;</aut><vrk>Terminaro de hidra&ubreve;laj
+    me&hcirc;anismoj</vrk></fnt>
+    <dif>
+      &Ccirc;ia tubo a&ubreve; kanalo, destinita por
+      <tld/>i <sncref ref="konduk.0i.ebligi_iradon"/> fluida&jcirc;on:
+      <ekz>
+        por transporto de nafto kaj gaso estas vasta reto de
+        <tld/>iloj kiuj ligas fontlokojn, rafinejojn kaj distribuejojn
+        <fnt>
+        <aut>F. Shehu</aut>
+        <vrk>La albana nafto kaj &gcirc;iaj perspektivoj</vrk>
+        <lok><url
+        ref="http://www.esperanto.be/fel/mon/005530.html">Monato</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="en">
+      <trd>conduit</trd>,
+      <trd>tube</trd>, <trd>pipe</trd>, <trd>channel</trd>,
+      <trd>canal</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>conduit<klr tip="ind"> (subst.)</klr></trd>,
+      <trd>conduite<klr tip="ind"> (subst., tuyau)</klr></trd>
+    </trdgrp>
+    <trd lng="hu">vezet&eacute;k</trd>
+    <trdgrp lng="ru">
+      <trd>&c_v;&c_o;&c_d;&c_o;&c_p;&c_r;&c_o;&c_v;&c_o;&c_d;</trd>,
+      <trd>&c_g;&c_a;&c_z;&c_o;&c_p;&c_r;&c_o;&c_v;&c_o;&c_d;</trd>,
+      <trd>&c_n;&c_je;&c_f;&c_t;&c_je;&c_p;&c_r;&c_o;&c_v;&c_o;&c_d;<klr> &c_i; &c_t;.&c_p;.</klr></trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="konduk.0ilo.stirilo"
+  ref="konduk.0i.agigi_funkciigi_lauxvole">
+    <uzo tip="fak">TEK</uzo>
+    <ref tip="dif" cel="stir.0ilo">stirilo</ref>
+    <trdgrp lng="de">
+      <trd>Steuer</trd>,
+      <trd>Steuerung</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>steering wheel</trd>,
+      <trd>joystick</trd>, <trd>control lever</trd>, <trd>steering
+      device</trd>
+    </trdgrp>
+    <trd lng="hu">korm&aacute;ny</trd>    
+    <trd lng="nl">stuur</trd>
+    <trd lng="ru">&c_r;&c_u;&c_l;&c_mol;</trd>
+  </snc>
+  <snc mrk="konduk.0ilo.FIZ_ELE" ref="konduk.0i.FIZ_ELE">
+    <subsnc mrk="konduk.0ilo.ELE">
+      <uzo tip="fak">ELE</uzo>
+      <fnt><bib>PIV1</bib><lok>kondukilo 3</lok></fnt>
+      <dif>
+        Metala <ref tip="super" cel="drat.0o.fadeno">drato</ref> a&ubreve;
+        <ref tip="super" cel="kabl.0o.dratofasko">kablo</ref>,
+        uzata por <tld/>i <sncref ref="konduk.0i.FIZ_ELE"/> elektron.
+      </dif>
+      <ref tip="sin" cel="konduk3.0ilo">konduktilo</ref>
+      <rim>
+        En <fnt><bib>PV</bib></fnt> <ctl><tld/>ilo</ctl> estas difinita
+        kiel substanco, do fakte kiel <ctl><tld/>anto</ctl>, dum la
+        formo
+        <ctl><tld/>anto</ctl>, nedifinita en la sama vortaro, tamen
+        aperas
+        en difinoj de <ctl>elektrodo</ctl> kaj <ctl>metaloido</ctl>.
+        Eblas
+        konsideri &ccirc;i tion eraro, atribuebla al nacilingva influo (ekz-e
+        de la franca, kiu por amba&ubreve; sencoj uzas nur
+        <ctl>conducteur</ctl>)
+        kaj preferi la solvon de <fnt><bib>PIV1</bib></fnt>, kiu uzas
+        sufikson
+        <em>-anto</em> por la substanco, kaj sufikon <em>-ilo</em> por
+        objekto
+        el la koncerna substanco, uzata por difinita celo. Tamen &ccirc;i tiu
+        vortaro, kiu difinas preferinda por tiuj uzoj la radikon
+        <em>kondukt</em>, 
+        konservis la formon <ctl><tld/>ilo</ctl> apud
+        <ctl>konduktilo</ctl>, 
+        sed ne registris <ctl><tld/>anto</ctl> apud
+        <ctl>konduktanto</ctl>.
+      </rim>
+      <trdgrp lng="de">
+        <trd>Leiter</trd>
+      </trdgrp>
+      <trdgrp lng="fr">
+        <trd>conducteur<klr tip="ind"> (fil &eacute;lectrique)</klr></trd>,
+        <trd>fil &eacute;lectrique</trd>
+      </trdgrp>
+      <trd lng="hu">vezet&eacute;k<klr tip="ind"> (pl. elektromos)</klr></trd>
+      <trd lng="nl">leiding<klr tip="ind"> (waterleiding
+      bijv.)</klr></trd>
+      <trd lng="ru">&c_p;&c_r;&c_o;&c_v;&c_o;&c_d;&c_n;&c_i;&c_k;</trd>
+    </subsnc>
+    <subsnc mrk="konduk.0ilo.FIZ">
+      <uzo tip="fak">FIZ</uzo>
+      <refgrp tip="sub">
+        <ref cel="konduk.lum0ilo">lum<tld/>ilo</ref>,
+        <ref cel="konduk.ondo0ilo">ondo<tld/>ilo</ref>,
+        <ref cel="konduk.varmo0ilo">varmo<tld/>ilo</ref>
+      </refgrp>
+      <trd lng="ru">&c_p;&c_r;&c_o;&c_v;&c_o;&c_d;&c_n;&c_i;&c_k;</trd>
+    </subsnc>
+    <trdgrp lng="en">
+    <trd>conductor</trd>,
+    <trd>conductor cable</trd>
+  </trdgrp>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>el. vodi&ccaron;</trd>,
+    <trd>kormidlo</trd>,
+    <trd>veden&iacute; <klr>(plynu, vody)</klr></trd>,
+    <trd>&rcaron;id&iacute;tka</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>kormidlo</trd>,
+    <trd>riadidl&aacute;</trd>,
+    <trd>vedenie</trd>,
+    <trd>vodi&ccaron;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="konduk.al0i">
+  <kap>al<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      Alvenigi al iu a&ubreve; al si:
+      <ekz>
+        ordonu al viaj servistoj al<tld/>i azenojn de
+        Libujo<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        oni al<tld/>is al li &ccirc;iujn malsanulojn
+        <fnt><bib>NT</bib>, <lok>&Mat; 4:24</lok></fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>holen</trd>,
+      <trd>herbeischaffen</trd>
+    </trdgrp>
+    <trd lng="en">to bring</trd>
+  </snc>
+  <snc>
+    <dif>
+      <tld lit="K"/>i al io, kaj &gcirc;in atingi:
+      <ekz>
+        la natura iro de la ideoj al<tld/>is lin al la penso,
+        ke...<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        li sukcesis al<tld/>i sian laboron &gcirc;is la fino, al feli&ccirc;a
+        fino<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        en lingvo arta <klr>[tiuj malfacila&jcirc;oj estas]</klr>
+        al<tld/>itaj <klr>(limigitaj, resumitaj)</klr> al ia unu a&ubreve;
+        du mallongaj vortetoj a&ubreve; reguloj
+        <fnt><bib>EE</bib></fnt>;
+      </ekz>
+      <ekz>
+        la tuta demando al<tld/>i&gcirc;as nur al tio, &ccirc;u Esperanto estos
+        akceptita sen&scirc;an&gcirc;e<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="en">
+      <trd>to bring</trd>,
+      <trd>lead to</trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>dov&eacute;st</trd>,
+    <trd>p&rcaron;iv&eacute;st</trd>,
+    <trd>zav&eacute;st</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>bringen zu</trd>,
+    <trd>f&uuml;hren zu</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>amener<klr tip="ind"> (&agrave; un endroit, &agrave; une
+    conclusion)</klr></trd>,
+    <trd>conduire<klr tip="ind"> (&agrave; un endroit, &agrave; une
+    conclusion)</klr></trd>,
+    <trd>ramener<klr tip="ind"> (r&eacute;duire)</klr></trd>,
+    <trd>r&eacute;duire<klr tip="ind"> (ramener)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>odavezet</trd>,
+    <trd>idevezet</trd>
+  </trdgrp>
+  <trd lng="nl">brengen</trd>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_o;&c_d;&c_v;&c_je;&c_s;&c_t;&c_i;</trd>,
+    <trd>&c_p;&c_r;&c_i;&c_v;&c_je;&c_s;&c_t;&c_i;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>dovies&tcaron;</trd>,
+    <trd>privies&tcaron;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="konduk.de0i">
+  <kap>de<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      <tld lit="K"/>i flanken de io:
+      <ekz>
+        de<tld/>i iun de la &gcirc;usta vojo.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="flank">deflankigi</ref>,
+      <ref cel="voj">devojigi</ref>
+    </refgrp>
+    <trdgrp lng="de">
+      <trd>abbringen</trd>,
+      <trd>fehlleiten</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>to lead away</trd>,
+      <trd>lead astray</trd>, <trd>divert</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_o;&c_t;&c_v;&c_je;&c_s;&c_t;&c_i;</trd>,
+      <trd>&c_u;&c_v;&c_je;&c_s;&c_t;&c_i;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="konduk.de0i.deadmoni">
+    <uzo tip="stl">RAR</uzo>
+    <ref tip="dif" cel="admon.de0i">deadmoni</ref>
+    <ekz>
+      de<tld/>i amikon de malnobla ago<fnt>B</fnt>.
+    </ekz>
+    <trdgrp lng="en">
+      <trd>to urge against</trd>,
+      <trd>dissuade</trd>
+    </trdgrp>
+    <trd lng="ru">&c_o;&c_t;&c_g;&c_o;&c_v;&c_o;&c_r;&c_i;&c_t;&c_mol;</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>odv&eacute;st</trd>,
+    <trd>sv&eacute;st</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>abraten</trd>,
+    <trd>abbringen</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>d&eacute;tourner</trd>,
+    <trd>d&eacute;vier<klr tip="ind"> (tr.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>elvezet</trd>,
+    <trd>elterel</trd>,
+    <trd>levezet</trd>
+  </trdgrp>
+  <trd lng="nl">afbrengen</trd>
+  <trd lng="sk">odvies&tcaron;</trd>
+</drv>
+
+<drv mrk="konduk.duon0a">
+  <kap>duon<tld/>a</kap>
+  <snc mrk="konduk.duon0a.ELE">
+    <uzo tip="fak">FIZ</uzo>
+    <uzo tip="fak">ELE</uzo>
+    <dif>
+      <klr>(pri materialo)</klr>
+      <tld lit="K"/>anta <sncref ref="konduk.0i.FIZ_ELE"/> elektron,
+      sed, kutime, malpli bone ol metalo krom en specifaj eksteraj
+      kondi&ccirc;oj.
+    </dif>
+  </snc>
+  <trd lng="en">semiconductive</trd>
+  <trdgrp lng="fr">
+    <trd>semi-conducteur<klr tip="ind"> (adj.)</klr></trd>,
+    <trd>semiconducteur<klr tip="ind"> (adj.)</klr></trd>
+  </trdgrp>
+  <trd lng="hu">f&eacute;lvezet&odblac;</trd>  
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_o;&c_l;&c_u;&c_p;&c_r;&c_o;&c_v;&c_o;&c_d;&c_ja;&c_shch;&c_i;&c_j;</trd>,
+    <trd>&c_p;&c_o;&c_l;&c_u;&c_p;&c_r;&c_o;&c_v;&c_o;&c_d;&c_n;&c_i;&c_k;&c_o;&c_v;&c_y;&c_j;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="konduk.duon0anto">
+  <kap>duon<tld/>anto</kap>
+  <snc mrk="konduk.duon0anto.ELE">
+    <uzo tip="fak">FIZ</uzo>
+    <uzo tip="fak">ELE</uzo>
+    <uzo tip="fak">KEM</uzo>
+    <dif>
+      <ref cel="konduk.duon0a">Duon<tld/>a</ref> materialo.
+    </dif>
+    <refgrp tip="sub">
+      <ref cel="galium">galiuma arsenido</ref>,
+      <ref cel="german.0o">germaniumo</ref>,
+      <ref cel="selen.0o">seleno</ref>,
+      <ref cel="silici.0o">silicio</ref>,
+      <ref cel="zink">zinka selenido</ref>
+    </refgrp>
+    <ref tip="sin" cel="konduk3.duon0anto">duonkonduktanto</ref>
+  </snc>
+  <trd lng="cs">polovodi&ccaron;</trd>
+  <trd lng="en">semiconductor</trd>
+  <trdgrp lng="fr">
+    <trd>semi-conducteur<klr tip="ind"> (subst.)</klr></trd>,
+    <trd>semiconducteur<klr tip="ind"> (subst.)</klr></trd>
+  </trdgrp>
+  <trd lng="hu">f&eacute;lvezet&odblac;</trd>
+  <trd lng="ru">&c_p;&c_o;&c_l;&c_u;&c_p;&c_r;&c_o;&c_v;&c_o;&c_d;&c_n;&c_i;&c_k;</trd>
+  <trd lng="sk">polovodi&ccaron;</trd>
+</drv>
+
+<drv mrk="konduk.duon0eco">
+  <kap>duon<tld/>eco</kap>
+  <snc mrk="konduk.duon0eco.ELE">
+    <uzo tip="fak">ELE</uzo>
+    <dif>
+      Eco de <ref cel="konduk.duon0a">duon<tld/>a</ref> materialo.
+    </dif>
+  </snc>
+  <trd lng="en">semiconductivity</trd>
+  <trdgrp lng="fr">
+    <trd>semiconductivit&eacute;</trd>
+  </trdgrp>
+  <trd lng="hu">f&eacute;lvezet&odblac; k&eacute;pess&eacute;g</trd>  
+  <trd lng="ru">&c_p;&c_o;&c_l;&c_u;&c_p;&c_r;&c_o;&c_v;&c_o;&c_d;&c_i;&c_m;&c_o;&c_s;&c_t;&c_mol;</trd>
+</drv>
+
+<drv mrk="konduk.en0i">
+  <kap>en<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="konduk.en0i.enirigi">
+    <dif>
+      <tld lit="K"/>i al io kaj enirigi en &gcirc;in:
+      <ekz>
+        la lakeo en<tld/>is junan sinjoron en la kabineton.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>hineinf&uuml;hren</trd>,
+      <trd>hineinbringen</trd>
+    </trdgrp>
+    <trd lng="en">to lead in</trd>
+    <trd lng="nl">binnenleiden</trd>
+  </snc>
+  <snc mrk="konduk.en0i.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Enigi ion novan en uzadon; uzi kaj apliki nova&jcirc;on:
+      <ekz>
+        apartaj artaj rimedoj en<tld/>as grandan ekonomion &ccirc;e la lernado
+        de
+        la vortoj<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        en<tld/>i novan modon, radikon en nia lingvo<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        tiu &ccirc;i sistemo postulas tro grandan pripensadon por povi esti
+        en<tld/>ita en la ordinaran interkomuniki&gcirc;on kun malproksimaj
+        popoloj<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>einf&uuml;hren</trd>,
+      <trd>aufbringen</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>to introduce</trd>,
+      <trd>initiate</trd>, <trd>present</trd>
+    </trdgrp>
+    <trd lng="hu">bevezet</trd>
+    <trd lng="nl">inleiden</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>p&rcaron;iv&eacute;st</trd>,
+    <trd>uvozovat</trd>,
+    <trd>uv&eacute;st</trd>,
+    <trd>zav&aacute;d&ecaron;t</trd>,
+    <trd>zav&eacute;st</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>introduire</trd>
+    <trd>faire <ind>entrer</ind></trd>,
+    <trd>incorporer</trd>,
+    <trd>ins&eacute;rer</trd>,
+    <trd>implanter</trd>,
+    <trd>lancer<klr tip="ind"> (introduire)</klr></trd>
+  </trdgrp>
+  <trd lng="ru">&c_v;&c_v;&c_je;&c_s;&c_t;&c_i;</trd>
+  <trdgrp lng="sk">
+    <trd>uvies&tcaron;</trd>,
+    <trd>vovies&tcaron;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="konduk.en0o">
+  <kap>en<tld/>o</kap>
+  <snc>
+    <dif>
+      Komenca parto de <ref tip="malprt" cel="verk.0o">verko</ref>,
+      entenanta klarigojn pri la sekvo.
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>introdukce</trd>,
+    <trd>uveden&iacute;</trd>,
+    <trd>zaveden&iacute;</trd>,
+    <trd>&uacute;vod</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>introduction</trd>,
+    <trd>preface</trd>, <trd>foreward</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>introduction</trd>,
+    <trd>insertion</trd>,
+    <trd>incorportation</trd>,
+    <trd>implantation<klr tip="ind"> (introduction)</klr></trd>,
+    <trd>lancement<klr tip="ind"> (introduction)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>bevezet&eacute;s</trd>,
+    <trd>bevezet&odblac;</trd>
+  </trdgrp>
+  <trd lng="ru">&c_v;&c_v;&c_je;&c_d;&c_je;&c_n;&c_i;&c_je;</trd>
+  <trd lng="sk">&uacute;vod</trd>
+</drv>
+
+<drv mrk="konduk.for0i">
+  <kap><ofc>*</ofc>for<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      <tld lit="K"/>i malproksimen de io:
+      <ekz>
+        la re&gcirc;ido <klr>[...]</klr> for<tld/>is &scirc;in al la palaco de sia
+        patro
+        <fnt><bib>F</bib>, <lok>&FE; 23</lok></fnt>;
+      </ekz>
+      <ekz>
+        la planko estas tiel aran&gcirc;ita, ke &gcirc;i for<tld/>as la pluvon;
+      </ekz>
+      <ekz>
+        kaj li for<tld/>is &ccirc;iujn Jerusalemanojn
+        <fnt><bib>MT</bib>, <lok>&Re2; 24:14</lok></fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>wegf&uuml;hren</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>to lead away</trd>,
+      <trd>divert</trd>, <trd>draw away</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>d&eacute;porter</trd>,
+      <trd>&eacute;loigner</trd>,
+      <trd>emmener<klr tip="ind"> (au loin)</klr></trd>
+      <trd>&eacute;vacuer</trd>
+    </trdgrp>
+    <trd lng="hu">elvezet</trd>
+    <trd lng="nl">wegleiden</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>odv&eacute;st</trd>,
+    <trd>vyv&eacute;st</trd>
+  </trdgrp>
+  <trd lng="ru">&c_u;&c_v;&c_je;&c_s;&c_t;&c_i;</trd>
+  <trd lng="sk">odvies&tcaron;</trd>
+</drv>
+
+<drv mrk="konduk.aer0ilo">
+  <kap>aer<tld/>ilo, <var><kap>aero<tld/>ilo</kap></var></kap>
+  <snc>
+    <dif>
+      <ref tip="super" cel="konduk.0ilo.tubo"><tld lit="K"/>ilo
+      <sncref/></ref>
+      por aero:
+      <ekz>
+        por aerumadi la tunelon oni boris plurajn aero-<tld/>ilojn
+        en la supra&jcirc;o
+        <fnt>
+        <vrk>La kanalo-tunelo en Riquevalle</vrk>
+        <lok><url ref="http://www.eventoj.hu/arkivo/eve-180.htm">Eventoj
+        n-ro 180</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="en">air duct</trd>
+  <trdgrp lng="fr">
+    <trd><ind>conduit</ind> d'a&eacute;ration</trd>,
+    <trd><ind>galerie</ind> d'a&eacute;ration</trd>
+  </trdgrp>
+  <trd lng="hu">l&eacute;gcsatorna</trd>  
+  <trdgrp lng="ru">
+    <trd>&c_v;&c_o;&c_z;&c_d;&c_u;&c_h;&c_o;&c_v;&c_o;&c_d;</trd>,
+    <trd>&c_v;&c_je;&c_n;&c_t;&c_i;&c_l;&c_ja;&c_c;&c_i;&c_o;&c_n;&c_n;&c_a;&c_ja; &c_sh;&c_a;&c_h;&c_t;&c_a;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="konduk.akvo0ilo">
+  <kap>akvo<tld/>ilo</kap>
+  <snc mrk="konduk.akvo0ilo.AKV">
+    <dif>
+      <ref tip="super" cel="konduk.0ilo.tubo"><tld lit="K"/>ilo
+      <sncref/></ref>
+      por akvo:
+      <ekz>
+        estos alikonstruita la akvo-<tld/>ilo kaj modernigita
+        la purigejo de forflua&jcirc;oj
+        <fnt>
+        <vrk>Varsovia akvo pli bongusta</vrk>
+        <lok><url
+        ref="http://www.radio.com.pl/polonia/article.asp?tId=5286">Pola
+        Radio</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_v;&c_a;&c_d;&c_a;&c_p;&c_r;&c_a;&c_v;&c_o;&c_d;</trd>
+  <trdgrp lng="br">
+    <trd>korzenn<klr tip="ind"> (da gas dour)</klr></trd>,
+    <trd>tuellenn<klr tip="ind"> (da gas dour)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>vodovod</trd>,
+    <trd>vodovodn&iacute; &rcaron;ad</trd>
+  </trdgrp>
+  <trd lng="de">Wasserleitung</trd>
+  <trdgrp lng="en">
+    <trd>water hose</trd>,
+    <trd>pipe</trd>, <trd>tube</trd>, <trd>drain</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd><ind>conduite</ind> d'eau</trd>,
+    <trd>aqueduc</trd>
+  </trdgrp>
+  <trd lng="hu">v&iacute;zvezet&eacute;k</trd>
+  <trd lng="nl">waterleiding</trd>
+  <trd lng="pt">cano de &aacute;gua</trd>
+  <trdgrp lng="ru">
+    <trd>&c_v;&c_o;&c_d;&c_o;&c_p;&c_r;&c_o;&c_v;&c_o;&c_d;</trd>
+    <trd>&c_v;&c_o;&c_d;&c_o;&c_v;&c_o;&c_d;</trd>,
+    <trd>&c_a;&c_k;&c_v;&c_je;&c_d;&c_u;&c_k;</trd>
+  </trdgrp>
+  <trd lng="sk">vodovod</trd>
+</drv>
+
+<drv mrk="konduk.akvo0o">
+  <kap>akvo<tld/>o</kap>
+  <uzo tip="stl">ARK</uzo>
+  <snc>
+    <ref tip="dif" cel="konduk.akvo0ilo">akvo<tld/>ilo</ref>
+    <ekz>
+      <klr>[se oni metus sur saman skalon la homajn kaj termitajn
+      konstruojn,]</klr> la piramidoj de Egiptujo kaj la akvo<tld/>oj
+      de Romo perdus sian tutan gloron kaj fari&gcirc;us nuloj
+      <fnt><bib>FK</bib><lok>La lo&gcirc;ejoj de la termitoj</lok></fnt>.
+    </ekz>
+  </snc>
+  <trd lng="cs">veden&iacute; vody</trd>
+  <trd lng="en">aqueduct</trd>
+  <trdgrp lng="hu">
+    <trd>(r&oacute;mai) <ind>v&iacute;zvezet&eacute;k</ind></trd>,
+    <trd>aquaeductus</trd>
+  </trdgrp>
+  <trd lng="ru">&c_a;&c_k;&c_v;&c_je;&c_d;&c_u;&c_k;</trd>
+  <trd lng="sk">rozvod vody</trd>
+</drv>
+
+<drv mrk="konduk.gas0ilo">
+  <kap>gas<tld/>ilo, <var><kap>gaso<tld/>ilo</kap></var></kap>
+  <snc>
+    <dif>
+      <ref tip="super" cel="konduk.0ilo.tubo"><tld lit="K"/>ilo
+      <sncref/></ref>
+      de gaso (kutime <ref cel="gas.ter0o">tergaso</ref>):
+      <ekz>
+        estos difinita solvo, kiamaniere estos finefektivigita
+        la financado de la konstruo de la unua <klr>[bran&ccirc;o]</klr>
+        de jamala gaso<tld/>ilo
+        <fnt>
+        <vrk>&Ccirc;iutagaj aktuala&jcirc;oj de Radio Polonia</vrk>
+        <lok>abonu.com</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="en">
+    <trd>gas pipe</trd>,
+    <trd>pipeline</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd><ind>conduite</ind> de gaz</trd>,
+    <trd>gazoduc</trd>
+  </trdgrp>
+  <trd lng="hu">g&aacute;zvezet&eacute;k</trd>  
+  <trd lng="ru">&c_g;&c_a;&c_z;&c_o;&c_p;&c_r;&c_o;&c_v;&c_o;&c_d;</trd>
+</drv>
+
+<drv mrk="konduk.lum0ilo">
+  <kap>lum<tld/>ilo</kap>
+  <snc mrk="konduk.lum0ilo.FIZ">
+    <uzo tip="fak">FIZ</uzo>
+    <dif>
+      <ref tip="super" cel="konduk.0ilo.FIZ"><tld lit="K"/>ilo
+      <sncref/></ref>
+      por lumo:
+      <ekz>
+        <klr>[la subvencio]</klr> temas interalie pri la fondusoj por
+        lum<tld/>iloj, malfermo de komunumaj informadikaj centroj
+        kaj interretaj kafejoj
+        <fnt>
+        <vrk>Mono por polaj komunumoj</vrk>
+        <lok><url
+        ref="http://www.radio.com.pl/polonia/article.asp?tId=4878">Pola
+        Radio</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <ctl>Lum<tld/>iloj &#8208; principo kaj aplikoj</ctl> (ADoc. Fu&szlig;)
+        <fnt>
+        <vrk>17a SUS en San Marino / Rimini</vrk>
+        <lok><url
+        ref="http://www.forst.tu-muenchen.de/EXT/AIS/arangxoj/sus17.html">GrKG
+        Humankybernetik 2/1996</url></lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="en">
+    <trd>photoconductor</trd>,
+    <trd>light duct</trd>, <trd>sun pipe</trd>
+  </trdgrp>
+  <trd lng="fr"><ind>guide</ind> de lumi&egrave;re</trd>
+  <trd lng="hu">f&eacute;nyvezet&odblac;</trd>  
+  <trd lng="ru">&c_s;&c_v;&c_je;&c_t;&c_o;&c_v;&c_o;&c_d;</trd>
+</drv>
+
+<drv mrk="konduk.nafto0ilo">
+  <kap>nafto<tld/>ilo</kap>
+  <snc>
+    <dif>
+      <ref tip="super" cel="konduk.0ilo.tubo"><tld lit="K"/>ilo
+      <sncref/></ref>
+      por nafto:
+      <ekz>
+        la ukraina registaro aprobis la interkonsenton kun Pollando
+        pri utiligo de la ukraina nafto<tld/>ilo Odessa-Brody kaj
+        &gcirc;ia segmento &gcirc;is P&lstroke;ock
+        <fnt>
+        <vrk>Pola-ukraina interkonsento pri la naftokondukilo
+        Odessa-P&lstroke;ock</vrk>
+        <lok><url
+        ref="http://www.radio.com.pl/polonia/article.asp?tId=6705 ">Pola
+        Radio</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>produktovod</trd>,
+    <trd>ropovod</trd>
+  </trdgrp>
+  <trd lng="en">oil pipeline</trd>
+  <trdgrp lng="fr">
+    <trd><ind>conduite</ind> de p&eacute;trole</trd>,
+    <trd>ol&eacute;oduc</trd>
+    <trd>pipe-line</trd>
+  </trdgrp>
+  <trd lng="hu">olajvezet&eacute;k</trd>
+  <trd lng="ru">&c_n;&c_je;&c_f;&c_t;&c_je;&c_p;&c_r;&c_o;&c_v;&c_o;&c_d;</trd>
+  <trd lng="sk">naftov&eacute; potrubie</trd>
+</drv>
+
+<drv mrk="konduk.ondo0ilo">
+  <kap>ondo<tld/>ilo</kap>
+  <snc mrk="konduk.ondo0ilo.FIZ">
+    <uzo tip="fak">FIZ</uzo>
+    <dif>
+      <ref tip="super" cel="konduk.0ilo.FIZ"><tld lit="K"/>ilo
+      <sncref/></ref>
+      por elektromagnetaj ondoj:
+      <ekz>
+        mi korektis la ondo<tld/>ilon en la superaltfrekvenca
+        generatoro
+        <fnt>
+        <aut>V. &Jcirc;uravlova, trad. J. Finkel</aut>
+        <vrk>Ni iros pretere &#8208; kaj plu</vrk>
+        <lok><url
+        ref="http://www.esperanto.mv.ru/TRIZ/pretere.html">http://www.esperanto.mv.ru/TRIZ/pretere.html</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <rim>
+      &Ccirc;i-sence aperas anka&ubreve; <ctl>ondogvidilo</ctl>
+      en <fnt><bib>PIV1</bib></fnt>.
+    </rim>
+  </snc>
+  <trd lng="en">waveguide</trd>
+  <trd lng="fr"><ind>guide</ind> d'ondes</trd>
+  <trd lng="hu">hull&aacute;mvezet&odblac;</trd>  
+  <trd lng="ru">&c_v;&c_o;&c_l;&c_n;&c_o;&c_v;&c_o;&c_d;</trd>
+</drv>
+
+<drv mrk="konduk.super0a">
+  <kap>super<tld/>a</kap>
+  <snc mrk="konduk.super0a.ELE">
+    <uzo tip="fak">FIZ</uzo>
+    <uzo tip="fak">ELE</uzo>
+    <dif>
+      <klr>(pri materialo)</klr>
+      <tld lit="K"/>anta <sncref ref="konduk.0i.FIZ_ELE"/> elektron
+      kun preska&ubreve; nula <ref cel="rezist1.0o">rezistanco</ref>:
+      <ekz>
+        kiam la temperaturo alproksimi&gcirc;as al 0&nbsp;K pluraj
+        metaloj, alojoj kaj ceramika&jcirc;oj i&gcirc;as super<tld/>aj.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="en">superconductive</trd>
+  <trd lng="hu">supraleitend</trd>  
+  <trdgrp lng="fr">
+    <trd>supraconducteur<klr tip="ind"> (adj.)</klr></trd>,
+    <trd>superconducteur<klr tip="ind"> (adj.)</klr></trd>
+  </trdgrp>
+  <trd lng="hu">szupravezet&odblac;</trd>  
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_v;&c_je;&c_r;&c_h;&c_p;&c_r;&c_o;&c_v;&c_o;&c_d;&c_ja;&c_shch;&c_i;&c_j;</trd>,
+    <trd>&c_s;&c_v;&c_je;&c_r;&c_h;&c_p;&c_r;&c_o;&c_v;&c_o;&c_d;&c_n;&c_i;&c_k;&c_o;&c_v;&c_y;&c_j;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="konduk.super0anto">
+  <kap>super<tld/>anto</kap>
+  <snc mrk="konduk.super0anto.ELE">
+    <uzo tip="fak">FIZ</uzo>
+    <uzo tip="fak">ELE</uzo>
+    <dif>
+      <ref cel="konduk.super0a">Super<tld/>a</ref> materialo.
+    </dif>
+    <ref tip="sin" cel="konduk3.super0anto">superkonduktanto</ref>
+  </snc>
+  <trd lng="en">superconductor</trd>
+  <trdgrp lng="fr">
+    <trd>supraconducteur<klr tip="ind"> (subst.)</klr></trd>,
+    <trd>superconducteur<klr tip="ind"> (subst.)</klr></trd>
+  </trdgrp>
+  <trd lng="hu">szupravezet&odblac;</trd>  
+  <trd lng="ru">&c_s;&c_v;&c_je;&c_r;&c_h;&c_p;&c_r;&c_o;&c_v;&c_o;&c_d;&c_n;&c_i;&c_k;</trd>
+</drv>
+
+<drv mrk="konduk.super0eco">
+  <kap>super<tld/>eco</kap>
+  <snc mrk="konduk.super0eco.ELE">
+    <uzo tip="fak">FIZ</uzo>
+    <uzo tip="fak">ELE</uzo>
+    <dif>
+      Eco de <ref cel="konduk.super0a">super<tld/>a</ref> materialo;
+      fizika fenomeno, per kiu materialo i&gcirc;as super<tld/>a:
+      <ekz>
+        alttemperatura super<tld/>eco
+        <fnt>
+        <vrk>Moskva &Scirc;tata Universitato</vrk>
+        <lok><url
+        ref="http://universitato.narod.ru/historio/moskva_universitato.04.htm">http://universitato.narod.ru/historio/moskva_universitato.04.htm</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="konduk4.super0eco">superkonduktiveco</ref>
+  </snc>
+  <trd lng="en">superconductivity</trd>
+  <trdgrp lng="fr">
+    <trd>supraconductivit&eacute;</trd>
+    <trd>supraconduction</trd>
+    <trd>supraconductibilit&eacute;</trd>
+  </trdgrp>
+  <trd lng="hu">szupravezet&odblac; k&eacute;pess&eacute;g</trd>  
+  <trd lng="ru">&c_s;&c_v;&c_je;&c_r;&c_h;&c_p;&c_r;&c_o;&c_v;&c_o;&c_d;&c_i;&c_m;&c_o;&c_s;&c_t;&c_mol;</trd>
+</drv>
+
+<drv mrk="konduk.varmo0ilo">
+  <kap>varmo<tld/>ilo</kap>
+  <snc mrk="konduk.varmo0ilo.FIZ">
+    <uzo tip="fak">FIZ</uzo>
+    <dif>
+      <ref tip="super" cel="konduk.0ilo.FIZ"><tld lit="K"/>ilo
+      <sncref/></ref>
+      por varmo.
+    </dif>
+  </snc>
+  <trd lng="de">W&auml;rmeleiter</trd>
+  <trd lng="en">thermal conductor</trd>
+  <trdgrp lng="fr">
+    <trd>caloduc</trd>
+  </trdgrp>
+  <trd lng="hu">h&odblac;vezet&odblac;</trd>  
+  <trdgrp lng="ru">
+    <trd>&c_t;&c_je;&c_p;&c_l;&c_o;&c_p;&c_r;&c_o;&c_v;&c_o;&c_d;</trd>,
+    <trd>&c_t;&c_je;&c_p;&c_l;&c_o;&c_v;&c_a;&c_ja; &c_t;&c_r;&c_u;&c_b;&c_a;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: konduk.xml,v $
+Revision 1.38  2015/11/03 18:10:16  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.37  2015/11/03 16:10:21  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.36  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.35  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.34  2010/07/22 16:30:27  revo
+Jeromo Vasxe: - kramp + mrk
+
+Revision 1.33  2006/12/22 17:30:26  revo
+Tulio Flores: +tr pt
+
+Revision 1.32  2006/08/29 16:42:01  revo
+Wieland Pusch: +trd de
+
+Revision 1.31  2005/12/05 17:31:29  revo
+-->
+</vortaro>

@@ -1,0 +1,120 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: prunel.xml,v 1.23 2015/07/04 08:37:42 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>prunel</rad>/o
+</kap>
+<drv mrk="prunel.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="prunel.0o.BOT">
+    <dif>
+      <ref tip="super" cel="frukt.0o.KUI">Frukto</ref> de <ref
+      tip="malprt" cel="prunel.0arbo"><tld/>arbo</ref>:
+      <ekz>
+        preteriris sova&gcirc;a besto <klr>...</klr> kaj dispremis per la
+        piedoj
+        la <tld/>on
+        <fnt><bib>MT</bib>, <lok>&Kr2; 25:18</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>slivoň trnitá</trd>,
+    <trd>trnka</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>blackthorn</trd>,
+    <trd>sloe</trd>
+  </trdgrp>
+  <trd lng="fr">prunelle</trd>
+  <trd lng="hu">k&ouml;k&eacute;ny</trd>
+  <trd lng="nl">sleedoorn</trd>
+  <trdgrp lng="pt">
+    <trd>abrunho</trd>,
+    <trd>ameixa</trd>,
+    <trd>brunho</trd>    
+  </trdgrp>
+  <trd lng="ru">&c_t;&c_jo;&c_r;&c_n; <klr tip="amb">(&c_p;&c_l;&c_o;&c_d;)</klr></trd>
+  <trd lng="sk">trnka</trd>
+</drv>
+
+<drv mrk="prunel.0arbo">
+  <kap><tld/>arbo, <var><kap><tld/>ujo</kap></var></kap>
+  <snc mrk="prunel.0arbo.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      <ref tip="lst" cel="speci.0o.BIO"
+      lst="voko:botanikaj_specioj">Specio</ref> de <ref tip="super"
+      cel="prunus.0o">prunuso</ref>
+      (<trd lng="la">Prunus spinosa</trd>) kun nigre bluaj
+      &ccirc;erizgrandaj fruktoj:
+      <ekz>
+        la <tld/>arbo havis sur si ankora&ubreve; fruktojn, kiuj cetere estis
+        sufi&ccirc;e akragustaj
+        <fnt><bib>Fab2</bib>, <lok>ne&gcirc;a re&gcirc;ino,
+        3a rakonto, la flor&gcirc;ardeno de la virino kiu povosciis
+        sor&ccirc;i</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>slivoň trnitá</trd>,
+    <trd>trnka</trd>
+  </trdgrp>
+  <trd lng="de">Schlehe</trd>
+  <trdgrp lng="en">
+    <trd>blackthorn</trd>,
+    <trd>sloe</trd>
+  </trdgrp>
+  <trd lng="fr">prunellier</trd>
+  <trd lng="hu">k&ouml;k&eacute;nybokor</trd>
+  <trd lng="nl">sleedoorn</trd>
+  <trdgrp lng="pt">
+    <trd>abrunheiro</trd>,  
+    <trd>abrunheiro-bravo</trd>,
+    <trd>abrunho</trd>,
+    <trd>ac&aacute;cia-dos-alem&atilde;es</trd>,    
+    <trd>ameixeira-brava</trd>    
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_t;&c_jo;&c_r;&c_n; <klr tip="amb">(&c_r;&c_a;&c_s;&c_t;&c_je;&c_n;&c_i;&c_je;)</klr></trd>,
+    <trd>&c_t;&c_je;&c_r;&c_n;&c_o;&c_v;&c_n;&c_i;&c_k;</trd>
+  </trdgrp>
+  <trd lng="sk">trnka <klr>(krík)</klr></trd>
+</drv>
+</art>
+<!--
+$Log: prunel.xml,v $
+Revision 1.23  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.22  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.21  2013/08/29 09:10:16  revo
+Wolfram Diestel: referenco al listo bot specioj
+
+Revision 1.20  2006/04/12 16:31:14  revo
+Tulio Flores: +tr pt
+
+Revision 1.19  2006/01/20 17:31:11  revo
+Jeromo Vasxe: kor 1 mrk
+
+Revision 1.18  2006/01/16 17:31:56  revo
+Jeromo Vasxe: + mrk, + ekz
+
+Revision 1.17 2002/05/11 10:28:03 revo
+Jozefo Horvath: +trd hu
+
+Revision 1.16 2002/01/03 17:34:09 revo
+Karlo Freeman: +trd=en
+
+Revision 1.15 2001/12/25 17:34:15 revo
+Yury Finkel: +trd ru
+
+Revision 1.14 2001/10/03 18:16:38 revo
+-->
+</vortaro>

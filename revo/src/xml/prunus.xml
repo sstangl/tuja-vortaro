@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: prunus.xml,v 1.13 2013/08/29 07:10:43 revo Exp $">
+<kap>
+  <rad>prunus</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="prunus.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="prunus.0o.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      Arbo kun multaj kulturataj specioj kaj
+      varia&jcirc;oj, interalie
+      <refgrp tip="sub">
+        <ref cel="cxeriz.0ujo">&ccirc;erizujo</ref>,
+        <ref cel="migdal.0arbo">migdalarbo</ref>,
+        <ref cel="persik.0ujo0arbo">persikujo</ref>,
+        <ref cel="prun.0ujo.BOT">prunujo</ref>,
+        <ref cel="prunel.0arbo">prunelarbo</ref>
+      </refgrp>;
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:botanikaj_genroj">genro</ref> el la familio <ref
+      tip="malprt"
+      cel="rozac.0oj">rozacoj</ref>
+      (<trd lng="la">Prunus</trd>).
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_mol;&c_l;&c_ib;&c_v;&c_a; <klr tip="amb">(&c_r;&c_o;&c_d;)</klr></trd>
+  <trd lng="de">Prunus</trd>
+  <trd lng="fr">prunus</trd>
+  <trd lng="hu">szilva<klr tip="amb"> (nemzets&eacute;g)</klr></trd>
+  <trd lng="nl">prunus</trd>
+  <trdgrp lng="pt">
+    <trd>ameixeira</trd>,  
+    <trd>ameixa</trd>,
+    <trd>ameixieira</trd>,    
+    <trd>am&ecirc;ixoa</trd>,
+    <trd>ameixoeira</trd>    
+  </trdgrp>
+  <trd lng="ru">&c_s;&c_l;&c_i;&c_v;&c_a; <klr
+tip="amb">(&c_r;&c_o;&c_d;)</klr></trd>
+  <trd lng="sv">plommonsl&auml;ktet</trd>
+</drv>
+</art>
+<!--
+$Log: prunus.xml,v $
+Revision 1.13  2013/08/29 07:10:43  revo
+Wolfram Diestel: referenco al listo bot genroj
+
+Revision 1.12  2012/09/08 00:10:09  revo
+Jeromo Vasxe: kor 1 ref, + trd fr
+
+Revision 1.11  2010/10/20 16:31:20  revo
+Jerano Zachrisson: +trd sv
+
+Revision 1.10  2009/09/29 16:30:48  revo
+Paul Peeraerts: +nl +ref
+
+Revision 1.9  2006/04/12 16:31:20  revo
+Tulio Flores: +tr pt
+
+Revision 1.8  2006/02/17 17:31:12  revo
+Tulio Flores: +trd pt
+
+Revision 1.7  2004/08/17 18:11:05  revo
+Jozefo Horvath: kor. trd hu
+
+Revision 1.6  2004/05/25 16:34:04  revo
+-->
+</vortaro>

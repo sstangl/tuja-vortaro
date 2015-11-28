@@ -1,0 +1,639 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: konver.xml,v 1.42 2013/04/08 12:10:29 revo Exp $">
+<kap>
+  <rad>konver&gcirc;</rad>/i
+  <fnt>Z</fnt>
+</kap>
+<drv mrk="konver.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="konver.0i.kunveni">
+    <uzo tip="klr">(p.p. linioj, direktoj, radioj)</uzo>
+    <dif>
+      Celi al sama punkto, kunveni:
+      <ekz>
+        <uzo tip="fak">FOT</uzo>
+        la sunaj radioj, trapasinte konveksan lenson,
+        <tld/>as al &gcirc;ia fokuso <fnt><bib>VdE</bib></fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="pl">
+      <trd>by&cacute; zbie&zdot;nym</trd>
+      <trd>zchodzi&cacute; si&eogonek;</trd>,
+      <trd>zbiega&cacute; si&eogonek;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="konver.0i.geometrio">
+    <uzo tip="fak">MAT</uzo>
+    <uzo tip="klr">(fakula &jcirc;argono en geometrio)</uzo>
+    <dif>
+      <klr>(p.p. <ref cel="lini.0o.MAT">linioj</ref>)</klr>
+      Havi komunan punkton:
+      <ekz>
+        &ccirc;iuj <ref cel="nask.0anto.rekto">naskantoj</ref> de
+        <ref cel="konus.0o.surfaco">konuso</ref> <tld/>as
+        <klr>(intersekci&gcirc;as)</klr> &ccirc;e &gcirc;ia
+        <ref cel="vertic.0o.konuso">vertico</ref>.
+      </ekz>
+    </dif>
+    <rim>
+      Ekzistas anka&ubreve; <ctl>kunkuri</ctl>, samsenca, kiel atestas 
+      <fnt><bib>MatVort</bib><lok>&leftquot;kunkura&rightquot;</lok></fnt>.
+    </rim>
+    <trdgrp lng="de">
+      <trd>durch denselben Punkt gehen</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>converge</trd>,
+      <trd>be concurrent</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>converger</trd>,
+      <trd>concourir<klr tip="ind"> (converger)</klr></trd>
+    </trdgrp>
+    <trd lng="hu">egy ponton &aacute;thalad&oacute;</trd>
+    <trdgrp lng="pl">
+      <trd>by&cacute; zbie&zdot;nym</trd>
+      <trd>zchodzi&cacute; si&eogonek;</trd>,
+      <trd>zbiega&cacute; si&eogonek;</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_s;&c_h;&c_o;&c_d;&c_i;&c_t;&c_mol;&c_s;&c_ja; &c_v;
+      &c_o;&c_b;&c_shch;&c_je;&c_j; &c_t;&c_o;&c_ch;&c_k;&c_je;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="konver.0i.elementa">
+    <uzo tip="fak">MAT</uzo>
+    <uzo tip="klr">(elementa analitiko)</uzo>
+    <dif>
+      Senfina vico <frm><k>x</k><sub>1</sub>,
+      <k>x</k><sub>2</sub>,...</frm>
+      <tld/>as al <frm><k>p</k></frm> se por ajna pozitiva reelo
+      <frm><k>c</k></frm> ekzistas tia numero <frm><k>n</k></frm>, ke
+      <frm>|<k>p</k>-<k>x</k><sub><k>i</k></sub>| &lt; <k>c</k></frm>
+      por &ccirc;iu <frm><k>i</k> &gt; <k>n</k></frm>.
+    </dif>
+    <rim>
+      La nocion oni &gcirc;eneraligas por funkcioj kaj serioj.
+      Tia <frm><k>p</k></frm> estas nomata <ref
+      cel="limes.0o">limeso</ref>.
+    </rim>
+    <trd lng="pl">by&cacute; <ind>zbie&zdot;nym</ind></trd>
+  </snc>
+  <snc mrk="konver.0i.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>MatTerm</bib><lok>p. 17</lok></fnt>
+    <dif>
+      <klr>(p.p. <ref cel="vic.0o.MAT">vico</ref> a&ubreve;
+      <ref cel="filtr.0ilo.MAT">filtrilo</ref> super
+      <ref cel="spac.topologia0o">topologia spaco</ref>)</klr>
+      Esti <ref cel="konver.0a.MAT"><tld/>a <sncref/></ref>:
+      <ekz>
+        la&ubreve;difine &ccirc;iuj ko&scirc;iaj vicoj <tld/>as
+        en <ref cel="komple2.0a.spaco">kompleta</ref> spaco.
+      </ekz>
+    </dif>
+    <rim>
+      Kvankam la verbo enhavas ideon pri ago, &gcirc;ia matematika
+      uzo simple parolas pri eco de la koncerna vico. Oni diras
+      sendistinge <ctl><tld/>i</ctl> a&ubreve; <ctl>esti
+      <tld/>(ant)a</ctl>.
+    </rim>
+    <trd lng="de">konvergieren</trd>
+    <trdgrp lng="pl">
+      <trd>by&cacute; <ind>zbie&zdot;nym</ind></trd>
+      <trd>zchodzi&cacute; si&eogonek;</trd>,
+      <trd>zbiega&cacute; si&eogonek;</trd>,
+      <trd>d&aogonek;&zdot;y&cacute;<klr> do</klr></trd>
+    </trdgrp>
+  </snc>
+  <refgrp tip="ant">
+    <ref cel="diverg.0i">diver&gcirc;i</ref>.
+  </refgrp>
+  <trd lng="en">converge</trd>
+  <trd lng="es">convergir</trd>
+  <trd lng="fr">converger</trd>
+  <trdgrp lng="hu">
+    <trd>konverg&aacute;l</trd>,
+    <trd>&ouml;sszetart</trd>
+    <trd>&ouml;sszefut</trd>
+  </trdgrp>
+  <trd lng="pt">convergir</trd>
+  <trd lng="ru">&c_s;&c_h;&c_o;&c_d;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>
+</drv>
+
+<drv mrk="konver.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="konver.0a.gxenerale">
+    <uzo tip="klr">(&gcirc;enerale)</uzo>
+    <dif>
+      <tld lit="K"/>anta.
+    </dif>
+    <trdgrp lng="pl">
+      <trd>zbie&zdot;ny</trd>,
+      <trd>zbiegaj&aogonek;cy si&eogonek;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="konver.0a.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <subsnc mrk="konver.0a.vico">
+      <fnt><bib>MatTerm</bib><lok>p. 19</lok></fnt>
+      <dif>
+        <klr>(p.p. <ref cel="vic.0o.MAT">vico</ref>
+        <frm>(<k>x</k><sub><k>n</k></sub>)</frm> en
+        <ref cel="spac.topologia0o">topologia spaco</ref>)</klr>
+        Tia, ke &ccirc;iuj &gcirc;iaj termoj (krom finia nombro da ili)
+        apartenas
+        al <ref
+        cel="cxirka.0ajxo.topologio">&ccirc;irka&ubreve;a&jcirc;o</ref>
+        de iu punkto <klr>(&gcirc;ia
+        <ref cel="limes.0o.vico">limeso</ref>)</klr>, kiel ajn oni
+        elektas la
+        &ccirc;irka&ubreve;a&jcirc;on:
+        <ekz>
+          <tld/>a <ref cel="seri.0o.MAT">serio</ref> <klr>(kies
+          vico de partaj sumoj <tld/>as)</klr>;
+        </ekz>
+        <ekz>
+          en <ref cel="spac.metrika0o">metrika spaco</ref>, la
+          distanco inter termo <frm><k>x</k><sub><k>n</k></sub></frm>
+          de <tld/>a vico kaj &gcirc;ia limeso estas arbitre malgranda,
+          se <frm><k>n</k></frm> estas sufi&ccirc;e granda;
+        </ekz>
+        <ekz>
+          se vico akceptas <ref cel="adher.0a.vico">adheran</ref>
+          punkton,
+          ekzistas <tld/>a subvico de &gcirc;i.
+        </ekz>
+      </dif>
+    </subsnc>
+    <subsnc mrk="konver.0a.filtrilo">
+      <dif>
+        <klr>(p.p. <ref cel="filtr.0ilo.MAT">filtrilo</ref> super
+        <ref cel="spac.topologia0o">topologia spaco</ref>,
+        al iu punkto)</klr>
+        <ref cel="fajn.pli0a.aro_de_subaroj">Pli fajna</ref> ol
+        la filtrilo de &ccirc;irka&ubreve;a&jcirc;oj de tiu punkto.
+      </dif>
+    </subsnc>
+    <trd lng="de">konvergent</trd>
+    <trd lng="en">convergent</trd>
+    <trd lng="pl">zbie&zdot;ny</trd>
+    <trd
+    lng="ru">&c_s;&c_h;&c_o;&c_d;&c_ja;&c_shch;&c_i;&c_j;&c_s;&c_ja;</trd>
+  </snc>
+  <trd lng="es">convergente</trd>
+  <trd lng="fr">convergent</trd>
+  <trdgrp lng="hu">
+    <trd>konvergens</trd>,
+    <trd>&ouml;sszetart&oacute;</trd>
+    <trd>&ouml;sszefut&oacute;</trd>
+  </trdgrp>  
+</drv>
+
+<drv mrk="konver.0igi">
+  <kap><tld/>igi</kap>
+  <snc>
+    <dif>
+      Igi <tld/>a:
+      <ekz>
+        <uzo tip="fak">FOT</uzo>
+        <ind><tld/>iga</ind> lenso
+        <fnt><bib>PIV1</bib></fnt>.
+        <trd lng="fr"><klr tip="amb">(lentille) </klr>convergente</trd>
+        <trdgrp lng="hu">
+          <trd>gy&udblac;jt&odblac;lencse</trd>,
+          <trd>konvergens lencse</trd>
+        </trdgrp>
+      </ekz>
+    </dif>
+  </snc>
+</drv>
+
+<drv mrk="konver.mal0i">
+  <kap>mal<tld/>i</kap>
+  <uzo tip="fak">MAT</uzo>
+  <snc>
+    <dif>
+      Ne <ref cel="konver.0i.MAT"><tld/>i</ref>,
+      ne esti <ref cel="konver.0a.MAT"><tld/>a</ref>.
+    </dif>
+    <ref tip="sin" cel="diverg.0i">diver&gcirc;i.</ref>
+  </snc>
+  <trd lng="de">divergieren</trd>
+  <trd lng="en">diverge</trd>
+  <trd lng="es">divergir</trd>
+  <trd lng="fr">diverger</trd>
+  <trdgrp lng="hu">
+    <trd>diverg&aacute;l</trd>,
+    <trd>sz&eacute;ttart</trd>
+    <trd>sz&eacute;tfut</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>by&cacute; <ind>rozbie&zdot;nym</ind></trd>,
+    <trd>rozchodzi&cacute; si&eogonek;</trd>
+  </trdgrp>
+  <trd
+  lng="ru">&c_r;&c_a;&c_s;&c_h;&c_o;&c_d;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>
+</drv>
+
+<drv mrk="konver.mal0a">
+  <kap>mal<tld/>a, <var><kap>ne<tld/>a</kap></var></kap>
+  <snc>
+    <dif>
+      Ne <tld/>anta:
+      <ekz>
+        <uzo tip="fak">MAT</uzo>
+        ne<tld/>a serio
+        <fnt><bib>MatTerm</bib><lok>p. 19</lok></fnt>.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="diverg.0a.MAT">diver&gcirc;a.</ref>
+  </snc>
+  <trd lng="de">divergent</trd>
+  <trd lng="en">divergent</trd>
+  <trd lng="fr">divergent</trd>
+  <trdgrp lng="hu">
+    <trd>divergens</trd>,
+    <trd>sz&eacute;ttart&oacute;</trd>
+    <trd>sz&eacute;tfut&oacute;</trd>
+  </trdgrp>  
+  <trd lng="pl">rozbie&zdot;ny</trd>
+  <trd
+  lng="ru">&c_r;&c_a;&c_s;&c_h;&c_o;&c_d;&c_ja;&c_shch;&c_i;&c_j;&c_s;&c_ja;</trd>
+</drv>
+
+<drv mrk="konver.absolute0a">
+  <kap>absolute <tld/>a</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>MatTerm</bib><lok>p. 19</lok></fnt>
+  <snc>
+    <dif>
+      <klr>(p.p. reela a&ubreve; kompleksa
+      <ref cel="vic.0o.MAT">vico</ref>)</klr>
+      Tia, ke <ref cel="konver.0i.MAT"><tld/>as</ref> la responda vico
+      de
+      <ref cel="valor.absoluta0o">absolutaj valoroj</ref> (a&ubreve;
+      <ref cel="modul.0o.komplekso">moduloj</ref>) de &gcirc;iaj termoj:
+      <ekz>
+        &ccirc;iu absolute <tld/>a vico estas anka&ubreve; <tld/>a,
+        sed la malo ne veras;
+      </ekz>
+      <ekz>
+        absolute <tld/>a serio <klr>(kies responda serio de absolutaj
+        valoroj
+        <tld/>as)</klr>;
+      </ekz>
+      <ekz>
+        absolute <tld/>a serio de funkcioj <klr>(absolute <tld/>a por
+        &ccirc;iu
+        valoro de la argumento)</klr>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="de">absolut <ind>konvergent</ind></trd>
+  <trd lng="en">absolutely <ind>convergent</ind></trd>
+  <trd lng="fr">absolument <ind>convergent</ind></trd>
+  <trd lng="hu">abszol&uacute;t <ind>konvergens</ind></trd>  
+  <trd lng="pl">bezwgl&eogonek;dnie <ind>zbie&zdot;ny</ind></trd>
+  <trd lng="ru">&c_a;&c_b;&c_s;&c_o;&c_l;&c_ju;&c_t;&c_n;&c_o;
+  <ind>&c_s;&c_h;&c_o;&c_d;&c_ja;&c_shch;&c_i;&c_j;&c_s;&c_ja;</ind></trd>
+</drv>
+
+<drv mrk="konver.0a.en_distribuo">
+  <kap><tld/>a en distribuo</kap>
+  <uzo tip="fak">MAT</uzo>
+  <snc>
+    <dif>
+      <klr>(p.p. <ref cel="vic.0o.de_funkcioj">vico</ref>
+      de <ref cel="variab.hazarda0o">hazardaj variabloj</ref>,
+      al limeso <frm>X</frm>)</klr>
+      Tia, ke la vico de iliaj
+      <ref cel="funkci.distribua0o">distribuaj funkcioj</ref> estas
+      <ref cel="konver.simple0a">simple konver&gcirc;a</ref> al la
+      distribua funkcio de <frm>X</frm>:
+      <ekz>
+        <tld/>o en probablo implicas <tld/>o en distribuo, sed ne
+        inverse.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="de"><klr tip="ind">(Folge von Zufallsvariablen -e)
+  </klr>konvergent in Verteilung</trd>
+  <trd lng="en"><klr tip="ind">(sequence of random variables)
+  </klr>convergent in distribution</trd>
+  <trd lng="fr"><klr tip="amb">(suite de variables al&eacute;atoires)
+  </klr>convergente en loi</trd>
+  <trd lng="hu">eloszt&aacute;sban <ind>konvergens</ind></trd>  
+  <trd lng="pl"><klr tip="ind">(ci&aogonek;g zmiennych losowych)
+  </klr>zbie&zdot;ny wed&lstroke;ug dystrybuant</trd>
+  <trd lng="ru">&c_s;&c_h;&c_o;&c_d;&c_ja;&c_shch;&c_a;&c_ja;&c_s;&c_ja;
+  &c_p;&c_o;
+  &c_r;&c_a;&c_s;&c_p;&c_r;&c_je;&c_d;&c_je;&c_l;&c_je;&c_n;&c_i;&c_ju;
+  <klr tip="amb">
+  (&c_p;&c_o;&c_s;&c_l;&c_je;&c_d;&c_o;&c_v;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_o;&c_s;&c_t;&c_mol;
+  &c_s;&c_l;&c_u;&c_ch;&c_a;&c_j;&c_n;&c_y;&c_h;
+  &c_p;&c_je;&c_r;&c_je;&c_m;&c_je;&c_n;&c_n;&c_y;&c_h;)</klr></trd>
+</drv>
+
+<drv mrk="konver.0a.en_mezuro">
+  <kap><tld/>a en mezuro</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>MatStokTerm</bib><lok>p. 28, sub verba formo</lok></fnt>
+  <snc>
+    <dif>
+      <klr>(p.p. <ref cel="vic.0o.de_funkcioj">vico de funkcioj</ref>
+      <frm>(<k>f</k><sub><k>n</k></sub>)</frm> de
+      <ref cel="spac.mezurhava0o">mezurhava spaco</ref>
+      al <ref cel="spac.metrika0o">metrika spaco</ref>,
+      al limeso <frm><k>f</k></frm>)</klr>
+      Tia, ke por ajna reelo <frm>&epsilon;</frm> la mezuro de la aro de
+      tiaj
+      <frm><k>x</k></frm>, ke la distanco de
+      <frm><k>f</k><sub><k>n</k></sub>(<k>x</k>)</frm>
+      al <frm><k>f</k>(<k>x</k>)</frm> superas <frm>&epsilon;</frm>,
+      strebas al nulo, kiam <frm><k>n</k></frm> strebas al nefinio.
+    </dif>
+  </snc>
+  <trd lng="de"><klr tip="ind">(Funktionsfolge -e) </klr>konvergent dem
+  Ma&szlig;e nach</trd>
+  <trd lng="en"><klr tip="ind">(function sequence) </klr>convergent in
+  measure</trd>
+  <trd lng="fr"><klr tip="amb">(suite de fonctions) </klr>convergente en
+  mesure</trd>
+  <trd lng="hu">majdnem minden&uuml;tt <ind>konvergens</ind><klr
+  tip="amb">(m&eacute;rt&eacute;k szerint) </klr></trd>    
+  <trd lng="pl"><klr tip="ind">(ci&aogonek;g funkcyjny)
+  </klr>zbie&zdot;ny wed&lstroke;ug miary</trd>
+  <trd lng="ru">&c_s;&c_h;&c_o;&c_d;&c_ja;&c_shch;&c_a;&c_ja;&c_s;&c_ja;
+  &c_p;&c_o; &c_m;&c_je;&c_r;&c_je;<klr tip="amb">
+  (&c_p;&c_o;&c_s;&c_l;&c_je;&c_d;&c_o;&c_v;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_o;&c_s;&c_t;&c_mol;
+  &c_f;&c_u;&c_n;&c_k;&c_c;&c_i;&c_j;)</klr></trd>
+</drv>
+
+<drv mrk="konver.0a.en_probablo">
+  <kap><tld/>a en probablo</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>EKV</bib><lok>&para;230</lok></fnt>
+  <snc>
+    <dif>
+      <klr>(p.p. <ref cel="vic.0o.de_funkcioj">vico</ref>
+      de <ref cel="variab.hazarda0o">hazardaj variabloj</ref>,
+      al limeso <frm>X</frm>)</klr>
+      <ref tip="sin" cel="konver.0a.en_mezuro"><tld lit="K"/>a en
+      mezuro</ref> al <frm>X</frm> rilate al la
+      <ref cel="probab.0o.mezuro">probablo</ref>.
+    </dif>
+  </snc>
+  <trd lng="de"><klr tip="ind">(Folge von Zufallsvariablen -e)
+  </klr>konvergent in der Wahrscheinlichkeit</trd>
+  <trd lng="en"><klr tip="ind">(sequence of random variables)
+  </klr>convergent in probability</trd>
+  <trd lng="fr"><klr tip="amb">(suite de variables al&eacute;atoires)
+  </klr>convergente en probabilit&eacute;</trd>
+  <trd lng="hu">sztochasztikusan <ind>konvergens</ind></trd>  
+  <trd lng="pl"><klr tip="ind">(ci&aogonek;g zmiennych losowych)
+  </klr>zbie&zdot;ny wed&lstroke;ug prawdopodobie&nacute;stwa</trd>
+  <trd lng="ru">&c_s;&c_h;&c_o;&c_d;&c_ja;&c_shch;&c_a;&c_ja;&c_s;&c_ja;
+  &c_p;&c_o; &c_v;&c_je;&c_r;&c_o;&c_ja;&c_t;&c_n;&c_o;&c_s;&c_t;&c_i;
+  <klr tip="amb">
+  (&c_p;&c_o;&c_s;&c_l;&c_je;&c_d;&c_o;&c_v;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_o;&c_s;&c_t;&c_mol;
+  &c_s;&c_l;&c_u;&c_ch;&c_a;&c_j;&c_n;&c_y;&c_h;
+  &c_p;&c_je;&c_r;&c_je;&c_m;&c_je;&c_n;&c_n;&c_y;&c_h;)</klr></trd>
+</drv>
+
+<drv mrk="konver.malforte0a">
+  <kap>malforte <tld/>a</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>EKV</bib><lok>&para;266, &leftquot;malforta
+  konver&gcirc;o&rightquot;</lok></fnt>
+  <snc>
+    <dif>
+      <klr>(p.p. <ref cel="vic.0o.MAT">vico</ref> super
+      <ref cel="topolo.0a.modulo">topologia</ref>
+      <ref cel="spac.vektora0o">vektora spaco</ref>)</klr>
+      <ref cel="konver.0a.MAT"><tld lit="K"/>a</ref> rilate al la
+      <ref cel="topolo.malforta0o">malforta topologio</ref>.
+    </dif>
+  </snc>
+  <trd lng="de">schwach <ind>konvergent</ind></trd>
+  <trd lng="en">weakly <ind>convergent</ind></trd>
+  <trd lng="fr">faiblement <ind>convergent</ind></trd>
+  <trd lng="hu">gyeng&eacute;n <ind>konvergens</ind></trd>  
+  <trd lng="pl">s&lstroke;abo <ind>zbie&zdot;ny</ind></trd>
+  <trd lng="ru">&c_s;&c_l;&c_a;&c_b;&c_o;
+  <ind>&c_s;&c_h;&c_o;&c_d;&c_ja;&c_shch;&c_i;&c_j;&c_s;&c_ja;</ind></trd>
+</drv>
+
+<drv mrk="konver.norme0a">
+  <kap>norme <tld/>a</kap>
+  <uzo tip="fak">MAT</uzo>
+  <snc>
+    <dif>
+      <klr>(p.p. <ref cel="vic.0o.MAT">vico</ref> super
+      <ref cel="spac.normohava0o">normohava spaco</ref>)</klr>
+      Tia, ke <ref cel="konver.0i.MAT"><tld/>as</ref> la responda vico
+      de
+      la <ref cel="norm.0o.MAT">normoj</ref> de &gcirc;iaj termoj:
+      <ekz>
+        norme <tld/>a serio <klr>(kies responda serio de normoj
+        <tld/>as)</klr>;
+      </ekz>
+      <ekz>
+        en <ref cel="komple2.0a.spaco">kompleta</ref> spaco
+        &ccirc;iu norme <tld/>a vico estas anka&ubreve; <tld/>a.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="de">normal <ind>konvergent</ind></trd>
+  <trd lng="en">normally <ind>convergent</ind></trd>
+  <trd lng="fr">normalement <ind>convergent</ind></trd>
+  <trd lng="hu">norm&aacute;ban <ind>konvergens</ind></trd>  
+  <trd lng="ru">&c_n;&c_o;&c_r;&c_m;&c_a;&c_l;&c_mol;&c_n;&c_o;
+  <ind>&c_s;&c_h;&c_o;&c_d;&c_ja;&c_shch;&c_i;&c_j;&c_s;&c_ja;</ind></trd>
+</drv>
+
+<drv mrk="konver.preskauxcerte0a">
+  <kap>preska&ubreve; certe <tld/>a</kap>
+  <uzo tip="fak">MAT</uzo>
+  <snc>
+    <dif>
+      <klr>(p.p. <ref cel="vic.0o.de_funkcioj">vico</ref>
+      de <ref cel="variab.hazarda0o">hazardaj variabloj</ref>
+      <frm>(X<sub><k>n</k></sub>)</frm>, al limeso <frm>X</frm>)</klr>
+      Tia, ke la probablo de la aro de &ccirc;iuj <frm>&omega;</frm>,
+      por kiuj la vico <frm>(X<sub><k>n</k></sub>(&omega;))</frm>
+      ne <tld/>as al <frm>X(&omega;)</frm>, estas nula:
+      <ekz>
+        <tld/>o preska&ubreve; certa implicas <tld/>o en probablo.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="de">
+    <trd><klr tip="ind">(Folge von Zufallsvariablen -e) </klr>fast
+    sicher <ind>konvergent</ind></trd>,
+    <trd><klr tip="ind">(Folge von Zufallsvariablen -e) </klr>konvergent
+    mit der Wahrscheinlichkeit Eins</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd><klr tip="ind">(sequence of random variables) </klr>almost
+    surely <ind>convergent</ind></trd>,
+    <trd><klr tip="ind">(sequence of random variables) </klr>convergent
+    with probability one</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd><klr tip="ind">(suite de variables al&eacute;atoires)
+    </klr>convergeant presque s&ucirc;rement</trd>
+  </trdgrp>
+  <trd lng="hu">majdnem minden&uuml;tt <ind>konvergens</ind></trd>  
+  <trdgrp lng="pl">
+    <trd><klr tip="ind">(ci&aogonek;g zmiennych losowych)
+    </klr>zbie&zdot;ny z prawdopodobie&nacute;stwem 1</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_o;&c_ch;&c_t;&c_i;
+    &c_n;&c_a;&c_v;&c_je;&c_r;&c_n;&c_o;&c_je;
+    &c_s;&c_h;&c_o;&c_d;&c_ja;&c_shch;&c_a;&c_ja;&c_s;&c_ja;
+    <klr tip="amb">
+    (&c_p;&c_o;&c_s;&c_l;&c_je;&c_d;&c_o;&c_v;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_o;&c_s;&c_t;&c_mol;
+    &c_s;&c_l;&c_u;&c_ch;&c_a;&c_j;&c_n;&c_y;&c_h;
+    &c_p;&c_je;&c_r;&c_je;&c_m;&c_je;&c_n;&c_n;&c_y;&c_h;)</klr></trd>,
+    <trd>&c_s;&c_h;&c_o;&c_d;&c_ja;&c_shch;&c_a;&c_ja;&c_s;&c_ja; &c_s;
+    &c_v;&c_je;&c_r;&c_o;&c_ja;&c_t;&c_n;&c_o;&c_s;&c_t;&c_mol;&c_ju;
+    &c_je;&c_d;&c_i;&c_n;&c_i;&c_c;&c_a;<klr tip="amb">
+    (&c_p;&c_o;&c_s;&c_l;&c_je;&c_d;&c_o;&c_v;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_o;&c_s;&c_t;&c_mol;
+    &c_s;&c_l;&c_u;&c_ch;&c_a;&c_j;&c_n;&c_y;&c_h;
+    &c_p;&c_je;&c_r;&c_je;&c_m;&c_je;&c_n;&c_n;&c_y;&c_h;)</klr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="konver.simple0a">
+  <kap>simple <tld/>a</kap>
+  <uzo tip="fak">MAT</uzo>
+  <snc>
+    <dif>
+      <klr>(p.p. <ref cel="vic.0o.de_funkcioj">vico de funkcioj</ref>
+      <frm>(<k>f</k><sub><k>n</k></sub>)</frm>)</klr>
+      Tia, ke por ajna <frm><k>x</k></frm> la vico
+      <frm>(<k>f</k><sub><k>n</k></sub>(<k>x</k>))</frm>
+      <ref cel="konver.0i.MAT"><tld/>as</ref> al iu limeso
+      <frm><k>f</k>(<k>x</k>)</frm>:
+      <ekz>
+        simple <tld/>i <klr>(esti simple <tld/>a)</klr>.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="topolo.0o.de_simpla_konvergxo">topologio de
+    simpla <tld/>o.</ref>
+  </snc>
+  <trdgrp lng="de">
+    <trd>einfach <ind>konvergent</ind><klr tip="ind"> (-e
+    Funktionsfolge)</klr></trd>,
+    <trd>punktweise <ind>konvergent</ind><klr tip="ind"> (-e
+    Funktionsfolge)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>simply <ind>convergent</ind><klr tip="ind"> (function
+    sequence)</klr></trd>,
+    <trd>pointwise <ind>convergent</ind><klr tip="ind"> (function
+    sequence)</klr></trd>
+  </trdgrp>
+  <trd lng="fr"><klr tip="amb">(suite de fonctions) </klr>simplement
+  <ind>convergente</ind></trd>
+  <trd lng="hu">pontonk&eacute;nt <ind>konvergens</ind></trd>  
+  <trd lng="pl"><klr tip="ind">(ci&aogonek;g funkcyjny) </klr>zwyczajnie
+  <ind>zbie&zdot;ny</ind></trd>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_o;&c_t;&c_o;&c_ch;&c_je;&c_ch;&c_n;&c_o;
+    &c_s;&c_h;&c_o;&c_d;&c_ja;&c_shch;&c_a;&c_ja;&c_s;&c_ja;<klr
+    tip="amb">
+    (&c_p;&c_o;&c_s;&c_l;&c_je;&c_d;&c_o;&c_v;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_o;&c_s;&c_t;&c_mol;
+    &c_f;&c_u;&c_n;&c_k;&c_c;&c_i;&c_j;)</klr></trd>,
+    <trd>&c_p;&c_r;&c_o;&c_s;&c_t;&c_o;
+    <ind>&c_s;&c_h;&c_o;&c_d;&c_ja;&c_shch;&c_a;&c_ja;&c_s;&c_ja;</ind><klr
+    tip="amb">
+    (&c_p;&c_o;&c_s;&c_l;&c_je;&c_d;&c_o;&c_v;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_o;&c_s;&c_t;&c_mol;
+    &c_f;&c_u;&c_n;&c_k;&c_c;&c_i;&c_j;)</klr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="konver.unuforme0a">
+  <kap>unuforme <tld/>a</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>MatTerm</bib><lok>p. 19, p.p. serio</lok></fnt>
+  <snc>
+    <dif>
+      <klr>(p.p. <ref cel="vic.0o.de_funkcioj">vico de funkcioj</ref>
+      <frm>(<k>f</k><sub><k>n</k></sub>)</frm> al
+      <ref cel="spac.metrika0o">metrika spaco</ref>)</klr>
+      Tia, ke por iu funkcio <frm><k>f</k></frm> <klr>(&gcirc;ia
+      limeso)</klr>
+      veras, ke la supremo de la distancoj inter
+      <frm><k>f</k><sub><k>n</k></sub>(<k>x</k>)</frm>
+      kaj <frm><k>f</k>(<k>x</k>)</frm>
+      <ref cel="konver.0i.MAT"><tld/>as</ref> al nulo:
+      <ekz>
+        &ccirc;iu unuforme <tld/>a vico estas anka&ubreve; simple
+        <tld/>a,
+        sed la malo ne veras;
+      </ekz>
+      <ekz>
+        unuforme <tld/>i <klr>(esti unuforme <tld/>a)</klr>;
+      </ekz>
+      <ekz>
+        unuforme <tld/>a serio <klr>(kies
+        vico de partaj sumoj unuforme <tld/>as)</klr>.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="topolo.0o.de_unuforma_konvergxo">topologio de
+    unuforma <tld/>o.</ref>
+    <rim>
+      En <fnt><bib>EKV</bib><lok>&para;231</lok></fnt> troveblas
+      <ctl><tld/>egi</ctl> anstata&ubreve; <ctl>unuforme <tld/>i</ctl>.
+    </rim>
+  </snc>
+  <trd lng="de">gleichm&auml;&szlig;ig <ind>konvergent</ind><klr
+  tip="ind"> (-e Funktionsfolge)</klr></trd>
+  <trd lng="en">uniformly <ind>convergent</ind><klr tip="ind"> (function
+  sequence)</klr></trd>
+  <trd lng="es">uniformemente <ind>convergente</ind></trd>
+  <trd lng="fr"><klr tip="amb">(suite de fonctions)
+  </klr>uniform&eacute;ment <ind>convergente</ind></trd>
+  <trd lng="hu">egyenletesen <ind>konvergens</ind></trd>  
+  <trd lng="pl"><klr tip="ind">(ci&aogonek;g funkcyjny)
+  </klr>jednostajnie <ind>zbie&zdot;ny</ind></trd>
+  <trd lng="ru">&c_r;&c_a;&c_v;&c_n;&c_o;&c_m;&c_je;&c_r;&c_n;&c_o;
+  <ind>&c_s;&c_h;&c_o;&c_d;&c_ja;&c_shch;&c_a;&c_ja;&c_s;&c_ja;</ind><klr
+  tip="amb">
+  (&c_p;&c_o;&c_s;&c_l;&c_je;&c_d;&c_o;&c_v;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_o;&c_s;&c_t;&c_mol;
+  &c_f;&c_u;&c_n;&c_k;&c_c;&c_i;&c_j;)</klr></trd>
+</drv>
+</art>
+<!--
+$Log: konver.xml,v $
+Revision 1.42  2013/04/08 12:10:29  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.41  2012/10/23 00:12:26  revo
+Neil Roberts: aldonu la etikedon <var>
+
+Revision 1.40  2009/07/01 17:21:17  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.39  2006/11/18 17:30:28  revo
+Tulio Flores: +tr pt
+
+Revision 1.38  2004/08/21 19:44:30  revo
+Elmer D. Escoto: +trd es
+
+Revision 1.37  2004/05/20 20:15:19  revo
+Marc Bavant: kor duobligitajn punktojn
+
+Revision 1.36  2004/05/12 16:31:30  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.35  2003/10/26 17:30:41  revo
+-->
+</vortaro>

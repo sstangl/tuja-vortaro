@@ -1,0 +1,211 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+  <art mrk="$Id: grifel.xml,v 1.20 2015/07/04 08:37:35 revo Exp $">
+    <kap>
+      <ofc>*</ofc>
+      <rad>grifel</rad>/o
+    </kap>
+
+    <drv mrk="grifel.0o">
+      <kap><ofc>*</ofc><tld/>o</kap>
+      <snc mrk="grifel.0o.krajono">
+        <fnt><bib>VdE</bib>, <lok>artikolo grifelo</lok></fnt>
+        <dif>
+          Ardeza krajono:
+          <ekz>
+            alia hakas lignon, mezuras &gcirc;in per &scirc;nuro, faras konturojn
+            per <tld/>o
+            <fnt><bib>MT</bib>, <lok>&Jes; 44:13</lok></fnt>;
+          </ekz><ekz>
+            la maljuna re&gcirc;o lasis poluri sian oran kronon per la polvo
+            el
+            pistita <tld/>o: tio estis tofa <tld/>o
+            <fnt><bib>Fab2</bib>, <lok>Monteto de elfoj</lok></fnt>.
+          </ekz>
+        </dif>
+        <refgrp tip="vid">
+          <ref cel="krajon.0o">krajono</ref>,
+          <ref cel="kret.0o">kreto</ref>.
+        </refgrp>
+        <trdgrp lng="de">
+          <trd>Griffel</trd>
+        </trdgrp>
+        <trdgrp lng="es">
+          <trd>pizarr&iacute;n</trd>, 
+          <trd>l&aacute;piz</trd>
+        </trdgrp>
+        <trd lng="hu">palavessz&odblac;</trd>
+        <trd lng="nl">griffel</trd>
+  <trdgrp lng="pt">
+    <trd>buril</trd>,
+    <trd>l&aacute;pis de ard&oacute;sia</trd>
+  </trdgrp>
+        <trd lng="ru">&c_g;&c_r;&c_i;&c_f;&c_je;&c_l;&c_mol;</trd>
+      </snc>
+
+      <snc mrk="grifel.0o.antikva_skribilo">
+        <dif>
+          Antikva skribilo, kies pinta fino servis por enpremi strekojn
+          en molan
+          supra&jcirc;on, kaj kies plata fino servis por ilin forvi&scirc;i:
+          <ekz>
+            la skribistoj lerte skribis la dokumentojn per <tld/>oj sur
+            malseke
+            mola, enkadrigita brika&jcirc;o
+            <fnt><bib>I&scirc;tar</bib>, <lok>&ccirc;ap. 2</lok></fnt>.
+          </ekz>
+        </dif>
+        <trdgrp lng="de">
+          <trd>Griffel</trd>
+        </trdgrp>
+        <trdgrp lng="es">
+          <trd>estilete</trd>,
+          <trd>estilo <klr tip="amb">(herramienta de
+          escritura)</klr></trd>
+        </trdgrp> 
+        <trdgrp lng="hu">
+          <trd>&iacute;r&oacute;vessz&odblac;</trd>,
+          <trd>st&iacute;lus</trd>
+        </trdgrp>
+        <trd lng="nl">stylus</trd>
+        <trd lng="ru">&c_s;&c_t;&c_i;&c_l;&c_mol; (&c_i;&c_n;-&c_t; &c_p;&c_i;&c_s;&c_mol;&c_m;&c_a;)</trd>
+      </snc>
+
+      <snc mrk="grifel.0o.gravurilo">
+        <uzo tip="fak">TEK</uzo>
+        <dif>
+          Pinta &scirc;tala ileto, oblikve tran&ccirc;ita &ccirc;e unu el siaj
+          ekstrema&jcirc;oj, kiun la gravuristo uzas por desegni sur
+          metalplaton:
+          <ekz>
+            <klr>[la re&gcirc;idoj]</klr> skribadis sur oraj tabeloj per
+            diamantaj <tld/>oj, kaj ili bone legadis kaj lernadis
+            parkere
+            <fnt><bib>Fab1</bib>, <lok>Sovagxaj cignoj</lok></fnt>.
+          </ekz>
+        </dif>
+        <refgrp tip="sin">
+          <ref cel="gravur.0ilo">gravurilo</ref>;
+        </refgrp>
+        <refgrp tip="vid">
+          <ref cel="cizel.0ilo">cizelilo</ref>,
+          <ref cel="cxiz.0ilo">&ccirc;izilo</ref>.
+        </refgrp>
+        <trdgrp lng="de">
+          <trd>Griffel</trd>,
+          <trd>Stichel</trd>
+        </trdgrp>
+        <trd lng="es">buril</trd> 
+        <trd lng="hu">karcol&oacute;t&udblac;</trd>
+        <trdgrp lng="nl">
+          <trd>graveerstift</trd>,
+          <trd>graveernaald</trd>,
+          <trd>etsnaald</trd>
+        </trdgrp>
+        <trdgrp lng="ru">
+          <trd>&c_r;&c_je;&c_z;&c_je;&c_c; <klr>(&c_g;&c_r;&c_a;&c_v;&c_jo;&c_r;&c_a;)</klr></trd>,
+          <trd>&c_sh;&c_t;&c_i;&c_h;&c_je;&c_l;&c_mol;</trd>
+        </trdgrp>
+      </snc>
+      <snc mrk="grifel.0o.KOMP">
+        <uzo tip="fak">KOMP</uzo>
+        <dif>
+          Krajonforma bastoneto uzata kiel grafika
+          <ref tip="super" cel="en.0igilo">enigilo</ref>, funkcianta per
+          tu&scirc;oj kaj strekoj sur la ekrano de komputilo (precipe
+          <ref cel="komput.posx0ilo">po&scirc;komputilo</ref>) kaj funkcie
+          proksima al <ref cel="mus.0o.KOMP">muso</ref>.
+        </dif>
+        <trdgrp lng="de">
+          <trd>Stift</trd>
+        </trdgrp>
+        <trdgrp lng="en">
+          <trd>pen</trd>,
+          <trd>stylus</trd>
+        </trdgrp>
+        <trdgrp lng="es">
+          <trd>puntero<klr tip="amb"> (bastoncillo para pantalla
+          t&aacute;ctil)</klr></trd>,
+          <trd>estilete<klr tip="amb"> (bastoncillo para pantalla
+          t&aacute;ctil)</klr></trd>, 
+          <trd>estilo<klr tip="amb"> (bastoncillo para pantalla
+          t&aacute;ctil)</klr></trd>
+        </trdgrp> 
+        <trdgrp lng="hu">
+          <trd>ceruza<klr tip="ind"> (adatbevitelre)</klr></trd>,
+          <trd>toll<klr tip="ind"> (adatbevitelre)</klr></trd>
+        </trdgrp>
+        <trd lng="nl">stift</trd>
+        <trd lng="ru">&c_p;&c_je;&c_r;&c_o;</trd>
+      </snc>
+  <trdgrp lng="cs">
+    <trd>břidličné pisátko</trd>,
+    <trd>kamének na psaní</trd>,
+    <trd>rydlo</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+        <trd>burin</trd>,
+        <trd>poin&ccedil;on</trd>,
+        <trd>style<klr tip="ind"> (instrument pour &eacute;crire)</klr></trd>,
+        <trd>mine d'ardoise</trd></trdgrp>
+  <trdgrp lng="sk">
+    <trd>bridlicové písadlo</trd>,
+    <trd>grifel</trd>,
+    <trd>rydlo</trd>
+  </trdgrp>
+</drv>
+  </art>
+  <!--
+  $Log: grifel.xml,v $
+  Revision 1.20  2015/07/04 08:37:35  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.19  2015/06/29 16:29:39  revo
+  aldono de trd sk per skripto de M. von Laer
+
+  Revision 1.18  2010/03/13 17:30:26  revo
+  Carlos Garcia: +trd "es"
+
+  Revision 1.17  2009/10/18 16:30:28  revo
+  Paul Peeraerts: +nl
+
+  Revision 1.16  2007/05/11 16:30:32  revo
+  Tulio Flores: +tr pt
+
+  Revision 1.15  2006/03/13 17:32:07  revo
+  Wieland Pusch: +trd de
+
+  Revision 1.14  2003/11/14 17:30:32  revo
+  Jozefo Horvath: +trd hu
+
+  Revision 1.13  2002/10/23 20:38:48  revo
+  aktualigo de malnovaj fnt-indikoj enkondukante <bib>
+
+  Revision 1.12  2002/01/25 17:32:19  revo
+  Sergio Pokrovskij: interpunkcio
+
+  Revision 1.11  2002/01/23 17:33:16  revo
+  Sergio Pokrovskij: dif(KOMP)
+
+  Revision 1.10  2002/01/22 17:32:58  revo
+  Sergio Pokrovskij: +KOMP, trd=ru
+
+  Revision 1.9  2002/01/21 17:30:28  revo
+  Paul Peeraerts: ald plian trd nl
+
+  Revision 1.8  2002/01/20 17:30:40  revo
+  Paul Peeraerts: ald trd nl
+
+  Revision 1.7  2001/10/15 18:17:25  revo
+  Marc Bavant: +trd fr, +mrk, +2 snc-ojn
+
+  Revision 1.6  2001/05/29 18:15:44  revo
+  Ulrich Fellmann: + 2 germ trdj
+
+  Revision 1.5  2001/05/21 18:12:11  revo
+  Yury Finkel: +trd ru
+
+  -->
+</vortaro>

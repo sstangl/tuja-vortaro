@@ -1,0 +1,145 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: ensemb.xml,v 1.16 2015/08/11 16:10:18 revo Exp $">
+<kap>
+  <rad>ensembl</rad>/o <fnt><bib>SPV</bib></fnt>
+</kap>
+<drv mrk="ensemb.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="ensemb.0o.KOMUNE">
+    <dif>
+      <ref tip="super" cel="grup.0o.KOMUNE">Grupo</ref> de kunakordaj,
+      harmoniaj aferoj:
+    </dif>
+    <subsnc mrk="ensemb.0o.MUZ.TEA">
+      <uzo tip="fak">MUZ</uzo>
+      <uzo tip="fak">TEA</uzo>
+      <dif>
+        <ref tip="super" cel="grup.0o.personoj">Grupo</ref> de
+        muzikistoj
+        a&ubreve; aktoroj kune ludantaj:
+        <ekz>
+          mondfama urba balet<tld/>o
+          <fnt>
+          <aut>J. Horvath</aut>,
+          <vrk>Gy&odblac;r a&ubreve; kie ekkokerikis ventokoko</vrk>,
+          <bib>Monato</bib>,
+          <lok>2002:8, p. 22a</lok>
+          </fnt>.
+        </ekz>
+      </dif>
+      <trdgrp lng="be">
+        <trd>&c_g;&c_u;&c_r;&c_t;</trd>,
+        <trd>&c_a;&c_n;&c_s;&c_a;&c_m;&c_b;&c_l;&c_mol;</trd>,
+        <trd>&c_t;&c_r;&c_u;&c_p;&c_a;</trd>
+      </trdgrp>
+      <trdgrp lng="bg">
+        <trd>&c_a;&c_n;&c_s;&c_a;&c_m;&c_b;&c_malmol;&c_l;</trd>,
+        <trd>&c_t;&c_r;&c_u;&c_p;&c_a;</trd>
+      </trdgrp>
+      <trd lng="de">Theatertruppe</trd>
+      <trd lng="es">ensamble</trd>
+      <trdgrp lng="pl">
+        <trd>zesp&oacute;&lstroke;</trd>,
+        <trd>ensambl</trd>,
+        <trd>trupa</trd>
+      </trdgrp>
+    </subsnc>
+    <subsnc mrk="ensemb.0o.ARKI">
+      <uzo tip="fak">ARKI</uzo>
+      <dif>
+        Aro da <ref tip="prt"
+        cel="konstr.0ajxo.domo">konstrua&jcirc;oj</ref> kunfunkciaj, en
+        akorda stilo:
+        <ekz>
+          Rocamadour, unu el la plej gravaj pilgrimlokoj dum la mezepoko
+          ankora&ubreve; havas arkitekturan <tld/>on eksterordinaran
+          <fnt><bib>Viki</bib>, <lok>Lot,
+          2005-09-10</lok></fnt>.
+        </ekz>
+      </dif>
+      <trd lng="pl">zesp&oacute;&lstroke;<klr> (np.
+      pa&lstroke;acowy)</klr></trd>
+    </subsnc>
+    <subsnc mrk="ensemb.0o.BELA">
+      <uzo tip="fak">BELA</uzo>
+      <dif>
+        Tuto de la dekoracio, de la mebloj kaj de la ornama&jcirc;oj
+        de unu &ccirc;ambro, harmonie elektitaj kaj aran&gcirc;itaj.
+      </dif>
+      <refgrp tip="vid">
+        <ref cel="mebl.0aro">meblaro</ref>
+      </refgrp>
+      <trd lng="be">&c_a;&c_n;&c_s;&c_a;&c_m;&c_b;&c_l;&c_mol;</trd>
+      <trdgrp lng="de">
+        <trd>Ganzes</trd>,
+        <trd>Gesamtheit</trd>
+      </trdgrp>
+      <trd lng="pl">wystr&oacute;j</trd>
+    </subsnc>
+    <subsnc mrk="ensemb.0o.TEKS">
+      <uzo tip="fak">TEKS</uzo>
+      <ref tip="dif" cel="komple2.0o.TEKS">kompleto<sncref/></ref>
+      <trd lng="be">&c_s;&c_t;&c_r;&c_o;&c_j;</trd>
+      <trd lng="de">Zusammenstellung</trd>
+      <trdgrp lng="pl">
+        <trd>komplet</trd>,
+        <trd>zestaw</trd>
+      </trdgrp>
+    </subsnc>
+    <refgrp tip="vid">
+      <ref cel="garnit.0o.KOMUNE">garnituro</ref>,
+      <ref cel="komple2.0o.KOMUNE">kompleto</ref>,
+      <ref cel="servic.0o.KUI">servico</ref>,
+      <ref cel="sortim.0o.KOMUNE">sortimento</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>sbor</trd>,
+    <trd>soubor <klr>(nap&rcaron;. divadeln&iacute;)</klr></trd>
+  </trdgrp>
+  <trd lng="de">Ensemble</trd>
+  <trd lng="en">ensemble</trd>
+  <trd lng="fr">ensemble<klr tip="ind"> (musique, archi.,
+  v&ecirc;tement, troupe  d'artistes)</klr></trd>
+  <trd lng="nl">ensemble</trd>
+  <trdgrp lng="pt">
+    <trd>conjunto</trd>,
+    <trd>ensemble</trd>
+  </trdgrp>
+  <trd lng="ru">&c_a;&c_n;&c_s;&c_a;&c_m;&c_b;&c_l;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>s&uacute;bor</trd>,
+    <trd>zbor</trd>,
+    <trd>zostava</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: ensemb.xml,v $
+Revision 1.16  2015/08/11 16:10:18  revo
+Joop Eggen: +trd bg
+
+Revision 1.15  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.13  2012/12/08 21:10:14  revo
+Jeromo Vasxe: + ref
+
+Revision 1.12  2010/03/26 17:30:32  revo
+Russ Williams: +trd en
+
+Revision 1.11  2010/02/02 17:30:28  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.10  2007/06/28 16:32:23  revo
+Tulio Flores: +tr pt
+
+Revision 1.9  2005/11/02 17:31:08  revo
+-->
+</vortaro>

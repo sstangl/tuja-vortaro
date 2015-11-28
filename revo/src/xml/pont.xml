@@ -1,0 +1,342 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: pont.xml,v 1.32 2015/07/04 08:37:41 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>pont</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="pont.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="pont.0o.ARKI">
+    <uzo tip="fak">ARKI</uzo>
+    <dif>
+      Konstrua&jcirc;o ebliganta trairon de rivero, fosa&jcirc;o, kavo ks:
+      <ekz>
+        &scirc;tona, fera, ligna <tld/>o;
+      </ekz>
+      <ekz>
+        la arka&jcirc;oj de <tld/>o;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FRAZ</uzo>
+        <ind>bruligi post si la <tld/>ojn</ind><fnt>Z</fnt>
+        <klr>(malebligi al si &ccirc;iun &scirc;an&gcirc;on de decido
+        </klr>;
+        <trdgrp lng="fr">
+          <trd><ind>br&ucirc;ler</ind> ses vaisseaux</trd>
+          <trd><ind>br&ucirc;ler</ind> les ponts</trd>
+        </trdgrp>
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FRAZ</uzo>
+        <ind>la afero ne staras sur pinto de <tld/>o</ind>
+        <klr>(ne ur&gcirc;as)</klr>
+        <fnt><bib>PrV</bib></fnt>.
+        <trdgrp lng="fr">
+          <trd>il n'y a pas le <ind>feu</ind></trd>
+          <trd>il n'y a pas <ind>urgence</ind></trd>
+          <trd>&ccedil;a peut <ind>attendre</ind></trd>
+        </trdgrp>
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="kart.0o">karto</ref>,
+      <ref cel="kub.0o">kubo</ref>,
+      <ref cel="pas.trans0i">transpasi</ref>
+    </refgrp>
+    <trd lng="be">&c_m;&c_o;&c_s;&c_t;</trd>
+    <trd lng="de">Br&uuml;cke</trd>
+    <trd lng="el">&gamma;&epsilon_ton;&phi;&ypsilon;&rho;&alfa;</trd>
+    <trd lng="fr">pont<klr tip="ind"> (voirie)</klr></trd>
+    <trd lng="nl">brug</trd>
+    <trd lng="no">bro</trd>
+    <trd lng="hu">h&iacute;d</trd>
+    <trd lng="id">jembatan</trd>
+    <trd lng="pl">most</trd>
+    <trd lng="pt">ponte</trd>
+    <trd lng="ro">pod</trd>
+    <trd lng="ru">&c_m;&c_o;&c_s;&c_t;</trd>
+    <trd lng="sv">bro</trd>
+    <trd lng="tr">k&ouml;pr&uuml;</trd>
+  </snc>
+  <snc mrk="pont.0o.MUZ">
+    <uzo tip="fak">MUZ</uzo>
+    <dif>
+      Parto de
+      <ref tip="malprt" cel="instru2.kord0o.MUZ">kordinstrumento</ref>,
+      subtenilo, sur kiu estas stre&ccirc;itaj la kordoj:
+      <ekz>
+        la instrumento havas 4 a&ubreve; 5 <tld/>ojn
+        <fnt>
+          <bib>Viki</bib>,
+          <lok><url ref="http://eo.wikipedia.org/wiki/Jang%C4%89ino">
+          jang&ccirc;ino</url>, 2011-06-30</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="fr">chevalet<klr> (partie d'instr. de musique)</klr></trd>
+  </snc>  
+  <snc mrk="pont.0o.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Interkomunikilo:
+      <ekz>
+        ni deziras krei ligantan <tld/>on inter la gentoj<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        Esperanto estas <tld/>o trans &ccirc;iuj lingvaj limoj;
+      </ekz>
+      <ekz>
+        Hungarlando estas <tld/>o inter oriento kaj okcidento;
+      </ekz>
+      <ekz>
+        tiu procedo prezentos <tld/>on de transiro<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        &scirc;i ser&ccirc;is <tld/>on 
+        <klr>(transiron, pretekston)</klr>
+        al pli intima konversacio.
+      </ekz>
+    </dif>
+    <trdgrp lng="fr">
+      <trd>pont<klr tip="ind"> (fig.)</klr></trd>
+      <trd>lien<klr tip="ind"> (fig.)</klr></trd>
+      <trd>transition</trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>kapitánský můstek</trd>,
+    <trd>velitelský můstek</trd>
+  </trdgrp>
+  <trd lng="en">bridge</trd>
+  <trdgrp lng="sk">
+    <trd>kapitánsky mostík</trd>,
+    <trd>veliteľský mostík</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="pont.baskul0o">
+  <kap>baskul<tld/>o</kap>
+  <snc mrk="pont.baskul0o.ARKI">
+    <uzo tip="fak">ARKI</uzo>
+    <dif>
+      <ref tip="super" cel="pont.0o.ARKI"><tld lit="P"/>o</ref>, kies
+      planko havas plurajn partojn, unu a&ubreve; kelkaj el kiuj povas
+      levi&gcirc;i kaj mallevi&gcirc;i &ccirc;irka&ubreve; horizontala
+      akso, orta al tiu de la &scirc;oseo:
+      <ekz>
+        la Londona baskul<tld/>o <klr>[Tower Bridge]</klr>
+        <fnt><bib>PIV1</bib></fnt>.
+      </ekz>
+    </dif>
+    <rim>
+      La rilato kun <ref cel="baskul.0o.TEK">baskulo</ref> estas nur
+      proksimuma.
+    </rim>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>sklápěcí most</trd>,
+    <trd>zdvihací most</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>draw<ind>bridge</ind></trd>,
+    <trd>bascule <ind>bridge</ind></trd>
+  </trdgrp>
+  <trd lng="fr">pont &agrave; bascule</trd>
+  <trdgrp lng="hu">
+    <trd>csap&oacute;h&iacute;d</trd>,
+    <trd>billen&odblac;h&iacute;d</trd>,
+    <trd>felnyithat&oacute; <ind>h&iacute;d</ind></trd>
+  </trdgrp>
+  <trd lng="nl">basculebrug</trd>
+  <trd lng="pl">most zwodzony</trd>
+  <trd lng="ru">&c_r;&c_a;&c_z;&c_v;&c_o;&c_d;&c_n;&c_o;&c_j;
+  &c_m;&c_o;&c_s;&c_t;</trd>
+  <trd lng="sk">zdvíhací most</trd>
+</drv>
+
+<drv mrk="pont.lev0o">
+  <kap>lev<tld/>o</kap>
+  <snc mrk="pont.lev0o.ARKI">
+    <uzo tip="fak">ARKI</uzo>
+    <dif>
+      <ref tip="super" cel="pont.0o.ARKI"><tld lit="P"/>o</ref>, kies
+      planko povas levi&gcirc;i kaj mallevi&gcirc;i:
+      <ekz>
+        &ccirc;e la granda lago, staris malnova kastelo,
+        &ccirc;irka&ubreve;ita de profunda foso <klr>[kaj]</klr> tute
+        apude de la lev<tld/>o staris maljuna saliko
+        <fnt><bib>Fab3</bib>,
+        <lok>&Ccirc;io sur sian &gcirc;ustan lokon!</lok></fnt>;
+      </ekz>
+      <ekz>
+        mi hastis anta&ubreve;en por vidi &gcirc;in pla&ubreve;di
+        en la &ccirc;irka&ubreve;fosa&jcirc;on tuj
+        anta&ubreve; la fermita lev<tld/>o
+        <fnt><bib>&Scirc;talrato</bib>, <lok>&ccirc;apitro 25</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <rim>
+      La donitaj ekzemploj &scirc;ajnas montri al kastelaj lev<tld/>oj,
+      kiuj fakte estas <ref tip="sub" cel="pont.baskul0o">baskul<tld/>oj
+      </ref>. Sed ekzistas alia speco de lev<tld/>o, &ccirc;e kiu la
+      planko levi&gcirc;as per vertikala translacia movo. Ne estas
+      klare, kiel tiaj &ccirc;i pontoj nomi&gcirc;as en Esperanto.
+    </rim>
+    <trdgrp lng="fr">
+      <trd>pont-levis</trd>
+    </trdgrp>
+    <trd lng="nl">ophaalbrug</trd>
+    <trd lng="pl">most podnoszony</trd>
+  </snc>
+  <adm>
+    Atenti pri la terminologia &hcirc;aoso &ccirc;. lev~o.
+    <aut>MB</aut>
+  </adm>
+
+  <trdgrp lng="sk">
+    <trd>padací most</trd>,
+    <trd>zdvíhací most</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>padací most</trd>,
+    <trd>zvedací most</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="pont.pend0o">
+  <kap>pend<tld/>o<fnt><bib>PV</bib></fnt>,
+  <var><kap>pendo<tld/>o<fnt><bib>PIV1</bib></fnt></kap></var></kap>
+  <snc mrk="pont.pend0o.ARKI">
+    <uzo tip="fak">ARKI</uzo>
+    <dif>
+      <ref tip="super" cel="pont.0o.ARKI"><tld lit="P"/>o</ref>, kies
+      planko pendas de metalaj &scirc;nuregoj.
+    </dif>
+    <trd lng="fr">pont suspendu</trd>
+    <trd lng="nl">hangbrug</trd>
+    <trd lng="pl">most wisz&aogonek;cy</trd>
+    <trd lng="kek">ab&#789; q&#789;a</trd>
+  </snc>
+</drv>
+
+<drv mrk="pont.turnigxanta0o">
+  <kap>turni&gcirc;anta <tld/>o<fnt><bib>PV</bib></fnt>,
+  <var><kap>turnebla <tld/>o<fnt><bib>PIV1</bib></fnt></kap></var></kap>
+  <snc mrk="pont.turnigxanta0o.ARKI">
+    <uzo tip="fak">ARKI</uzo>
+    <dif>
+      <ref tip="super" cel="pont.0o.ARKI"><tld lit="P"/>o</ref>, kies
+      planko povas turni&gcirc;i &ccirc;irka&ubreve; vertikala akso.
+    </dif>
+    <trd lng="fr">pont tournant</trd>
+    <trd lng="nl">draaibrug</trd>
+    <trd lng="pl">most obrotowy</trd>
+  </snc>
+</drv>
+
+<drv mrk="pont.super0i">
+  <kap>super<tld/>i, <var><kap>trans<tld/>i</kap></var></kap>
+  <fnt><bib>PIV1</bib></fnt>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="pont.super0i.ARKI">
+    <dif>
+      Meti <tld/>on super io:
+      <ekz>
+        super<tld/>i kanalon;
+      </ekz>
+      <ekz>
+        trans<tld/>i fendegon.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_p;&c_a;&c_b;&c_u;&c_d;&c_a;&c_v;&c_a;&c_c;&c_mol;
+    <ind>&c_m;&c_o;&c_s;&c_t;</ind></trd>
+    <trd lng="de">&uuml;berbr&uuml;cken</trd>
+    <trdgrp lng="fr">
+      <trd>ponter</trd>
+    </trdgrp>
+    <trd lng="nl">overbruggen</trd>
+    <trdgrp lng="pl">
+      <trd>budowa&cacute; <ind>most</ind></trd>,
+      <trd>zawiesza&cacute; <ind>most</ind></trd>,
+      <trd>spi&aogonek;&cacute; <ind>mostem</ind></trd>
+    </trdgrp>
+    <trd lng="ru">&c_n;&c_a;&c_v;&c_je;&c_s;&c_t;&c_i;
+    <ind>&c_m;&c_o;&c_s;&c_t;</ind></trd>
+  </snc>
+  <snc mrk="pont.super0i.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Transpasi malhelpa&jcirc;on, baron:
+      <ekz>
+        trans<tld/>i malfacila&jcirc;on.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="venk.0i.FIG">venki</ref>
+    </refgrp>
+    <trd lng="de">&uuml;berwinden</trd>
+    <trdgrp lng="fr">
+      <trd>d&eacute;passer<klr tip="ind"> (surmonter)</klr></trd>,
+      <trd>surmonter</trd>,
+      <trd>vaincre<klr tip="ind"> (surmonter)</klr></trd>
+    </trdgrp>
+    <trd lng="nl">overwinnen</trd>
+    <trd lng="ru">&c_p;&c_r;&c_je;&c_o;&c_d;&c_o;&c_l;&c_je;&c_t;&c_mol;
+    </trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>být přemostěn</trd>,
+    <trd>přemosťovat</trd>
+  </trdgrp>
+  <trd lng="hu">&aacute;thidal</trd>
+  <trdgrp lng="sk">
+    <trd>preklenúť</trd>,
+    <trd>premostiť</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="pont.super0igitrans0igi">
+  <kap>super<tld/>igi, <var><kap>trans<tld/>igi</kap></var></kap>
+  <fnt><bib>PV</bib></fnt>
+  <gra><vspec>tr</vspec></gra>
+  <ref tip="dif" cel="pont.super0i.ARKI">super<tld/>i</ref>
+  <trd lng="nl">overbruggen</trd>
+  <trd lng="sk">premostiť</trd>
+  <trd lng="cs">překlenout mostem</trd>
+</drv>
+</art>
+<!--
+$Log: pont.xml,v $
+Revision 1.32  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.31  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.30  2014/11/05 13:10:20  revo
+Filip van Laenen: +trd(no)
+
+Revision 1.29  2012/10/23 00:13:28  revo
+Neil Roberts: aldonu la etikedon <var>
+
+Revision 1.28  2012/01/17 01:10:08  revo
+Glavkos Xaon: greka signifo de vorto
+
+Revision 1.27  2011/12/29 11:10:14  revo
+Jeromo Vasxe: ~o + snc muz
+
+Revision 1.26  2011/11/07 01:10:29  revo
+ Anchise Inzaghi: traduko q'eqchi'
+
+Revision 1.25  2010/06/02 16:30:28  revo
+Jeromo Vasxe: kor. 1 ref
+
+Revision 1.24  2010/04/30 12:25:07  revo
+Jeromo Vasxe: + kk mrk
+
+Revision 1.23  2009/10/25 17:31:54  revo
+-->
+</vortaro>

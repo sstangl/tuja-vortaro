@@ -1,0 +1,142 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: vestib.xml,v 1.17 2015/09/30 06:10:16 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>vestibl</rad>/o
+</kap>
+<drv mrk="vestib.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="vestib.0o.ARKI">
+    <uzo tip="fak">ARKI</uzo>
+    <dif>
+      Enira parto de domo, tra kiu oni atingas la &ccirc;ambrojn:
+      <ekz>
+        li <klr>...</klr> elpu&scirc;igas sin kune kun li en la <tld/>on
+        <fnt><bib>Revizoro</bib>, <lok>akto 4a, sceno 11a</lok></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="cxambr.antaux0o.porMantelo">anta&ubreve;&ccirc;ambro
+      <sncref/></ref>
+    </refgrp>
+    <trdgrp lng="be">
+      <trd>&c_v;&c_e;&c_s;&c_t;&c_y;&c_b;&c_ju;&c_l;&c_mol;</trd>,
+      <trd>&c_p;&c_ja;&c_r;&c_e;&c_d;&c_n;&c_ib; &c_p;&c_a;&c_k;&c_o;&c_j;</trd>
+    </trdgrp>
+    <trd lng="ca">rebedor</trd>
+    <trdgrp lng="de">
+      <trd>Diele</trd>,
+      <trd>Vorhalle</trd>,
+      <trd>Flur</trd>
+    </trdgrp>
+    <trd lng="el">
+      &pi;&rho;&omikron;&theta;&alfa_ton;&lambda;&alfa;&my;&omikron;&sigma_fina;
+    </trd>
+    <trdgrp lng="en">
+      <trd>vestibule</trd>,
+      <trd>lobby</trd>,
+      <trd>entrance hall</trd>
+    </trdgrp>
+    <trdgrp lng="es">
+      <trd>entrada<klr tip="amb"> (vest&iacute;bulo)</klr></trd>,
+      <trd>vest&iacute;bulo</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>entr&eacute;e<klr tip="amb"> (vestibule)</klr></trd>,
+      <trd>vestibule</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>el&odblac;csarnok</trd>,
+      <trd>torn&aacute;c</trd>,
+      <trd>pitvar</trd>
+    </trdgrp>
+    <trd lng="it">vestibolo<klr tip="amb"> (arch.)</klr></trd>
+    <trdgrp lng="nl">
+      <trd>hal</trd>,
+      <trd>vestibule</trd>
+    </trdgrp>
+    <trd lng="pt">vest&iacute;bulo</trd>
+    <trdgrp lng="ru">
+      <trd>&c_v;&c_je;&c_s;&c_t;&c_i;&c_b;&c_ju;&c_l;&c_mol;</trd>,
+      <trd>&c_p;&c_r;&c_i;&c_h;&c_o;&c_zh;&c_a;&c_ja;</trd>
+    </trdgrp>
+  </snc>
+
+  <snc mrk="vestib.0o.ANA">
+    <uzo tip="fak">ANA</uzo>
+    <dif>
+      Enira kavo de pli granda kavo en kelkaj organoj: 
+      <ekz><ind>vagina <tld/>o</ind>
+        <trd lng="es">vest&iacute;bulo vaginal</trd>
+        <trd lng="it">vestibolo<klr tip="amb"> (della
+        vagina)</klr></trd>
+      </ekz> 
+
+      <ekz><ind>naza <tld/>o</ind>
+        <trd lng="es">vest&iacute;bulo nasal</trd>
+        <trd lng="it">vestibolo<klr tip="amb"> (nasale)</klr></trd>
+      </ekz>
+
+      <ekz><ind>bu&scirc;a <tld/>o</ind>
+        <trd lng="es">vest&iacute;bulo bucal</trd>
+        <trd lng="it">vestibolo<klr tip="amb"> (della bocca)</klr></trd>
+      </ekz>
+    </dif>
+    <trd lng="ca">vest&iacute;bul</trd>
+    <trd lng="es">vest&iacute;bulo<klr tip="amb"> (cavidad)</klr></trd>
+    <trd lng="fr">vestibule<klr tip="amb"> (cavit&eacute;)</klr></trd>
+    <trd lng="it">vestibolo<klr tip="amb"> (cavit&agrave;)</klr></trd>
+  </snc>
+
+  <snc mrk="vestib.0o.orel">
+    <uzo tip="fak">ANA</uzo>
+    <dif>
+Organo de ekvilibro, lokita en la interna orelo (labirinto).
+    </dif>
+    <trd lng="ca">laberint</trd>
+    <trd lng="es">vest&iacute;bulo<klr tip="amb"> (&oacute;rgano)</klr></trd>
+    <trd lng="fr">vestibule<klr tip="amb"> (organe)</klr></trd>
+    <trd lng="it">vestibolo<klr tip="amb"> (organo)</klr></trd>
+  </snc>
+  <trd lng="ca">vest&iacute;bul</trd>
+  <trdgrp lng="cs">
+    <trd>p&rcaron;eds&iacute;&ncaron;</trd>,
+    <trd>vchod</trd>,
+    <trd>vestibul</trd>,
+    <trd>vestibulum</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>predsie&ncaron;</trd>,
+    <trd>vestibul</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: vestib.xml,v $
+Revision 1.17  2015/09/30 06:10:16  revo
+Guillermo Molleda Jimena: trd es
+
+Revision 1.16  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/28 12:03:50  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.14  2012/08/13 08:10:18  revo
+Marc Rausell: + trd ca
+
+Revision 1.13  2009/04/17 19:48:50  revo
+Antonio Codazzi: +trd it; +~o.ANA (+trd it,fr); +~o.orel (+trd it,fr);
++FAK
+
+Revision 1.12  2009/02/15 14:18:44  revo
+Russ Williams: +trd en
+
+Revision 1.11  2005/02/02 17:33:16  revo
+Jozefo Horvath: +trd hu
+
+-->
+</vortaro>

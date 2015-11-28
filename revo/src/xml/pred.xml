@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: pred.xml,v 1.5 2015/07/04 08:37:41 revo Exp $">
+<kap>
+  <rad>pred</rad>/o <fnt><bib>SPV</bib></fnt>
+</kap>
+<drv mrk="pred.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="pred.0o.EKOL">
+    <uzo tip="fak">EKOL</uzo>
+    <ref tip="dif" cel="cxas.0ajxo.CXAS">&ccirc;asa&jcirc;o</ref>
+      <ekz>
+        &gcirc;i observas sian <tld/>on, kaj subite malsupren&scirc;vebas rapide
+        al
+        &gcirc;i
+        <fnt><bib>Viki</bib>, <lok>artikolo &leftquot;turfalko&rightquot;,
+        2006-07-03</lok></fnt>.
+      </ekz>
+      <ekz>
+        piratoj ser&ccirc;as <tld/>ojn surmare kaj surborde
+        <fnt><aut>Baldur Ragnarsson</aut>, <vrk><url
+        ref="http://www.esperanto.net/literaturo/uea/arnecefidrec.html">Rakonto
+        kun humanisma mesa&gcirc;o</url></vrk>,
+        <bib>Esperanto</bib>, <lok>jaro 2006a</lok></fnt>.
+      </ekz>
+  </snc>
+  <trd lng="cs">kořist</trd>
+  <trd lng="es">presa <klr>(de caza)</klr></trd>
+  <trd lng="fr">proie</trd>
+  <trd lng="nl">prooi</trd>
+  <trd lng="sk">korisť</trd>
+</drv>
+
+<drv mrk="pred.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="pred.0i.EKOL">
+    <uzo tip="fak">EKOL</uzo>
+    <ref tip="dif" cel="akir.cxas0i.CXAS">&ccirc;asakiri</ref>
+      <ekz>
+        ridkokaburo <klr>...</klr> <tld/>as anka&ubreve; reptiliojn, e&ccirc;
+        serpentojn
+        <fnt>
+        <vrk><url ref="">Best&gcirc;ardeno veszpr&eacute;m n.o.</url></vrk>,
+        <lok>2006-04-13</lok>
+        </fnt>.
+      </ekz>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>lovit</trd>,
+    <trd>ulovit</trd>
+  </trdgrp>
+  <trd lng="fr">faire sa <ind>proie</ind> de</trd>
+  <trd lng="nl">tot <ind>prooi</ind> nemen</trd>
+  <trd lng="sk">loviť</trd>
+</drv>
+</art>
+
+<!--
+$Log: pred.xml,v $
+Revision 1.5  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.4  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.3  2012/10/08 13:10:07  revo
+Carlos Garcia: +trd es -o
+
+Revision 1.2  2009/10/28 17:30:27  revo
+Paul Peeraerts: +nl
+
+Revision 1.1  2006/07/31 16:31:45  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

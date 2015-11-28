@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: skorpe.xml,v 1.6 2013/10/17 19:10:20 revo Exp $">
+<kap>
+  <rad>skorpened</rad>/oj
+</kap>
+<drv mrk="skorpe.0oj">
+  <kap><tld/>oj</kap>
+  <uzo tip="fak">ZOO</uzo>
+  <snc>
+    <dif>
+      <ref tip="lst" cel="famili.0o.BIO"
+      lst="voko:zoologiaj_familioj">Familio</ref> el la ordo
+      <ref tip="malprt" cel="skorpen.0oformaj">skorpenoformaj
+      fi&scirc;oj</ref>
+      (<trd lng="la">Scorpaenidae</trd>).
+    </dif>
+  </snc>
+  <trdgrp lng="de">
+    <trd>Skorpionfische</trd>,
+    <trd>Drachenk&ouml;pfe<klr tip="ind"> (Familie)</klr></trd>
+  </trdgrp>
+  <trd lng="hu">s&aacute;rk&aacute;nyfej&udblac; half&eacute;l&eacute;k</trd>
+  <trd lng="nl">schorpioenvissen<klr tip="ind"> (fam.)</klr></trd>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_k;&c_o;&c_r;&c_p;&c_je;&c_n;&c_y;<klr tip="ind"> (&c_s;&c_je;&c_m;&c_je;&c_j;&c_s;&c_t;&c_v;&c_o;)</klr></trd>,
+    <trd>&c_s;&c_k;&c_o;&c_r;&c_p;&c_je;&c_n;&c_o;&c_v;&c_y;&c_je; <klr tip="amb">(&c_s;&c_je;&c_m;&c_je;&c_j;&c_s;&c_t;&c_v;&c_o;)</klr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: skorpe.xml,v $
+Revision 1.6  2013/10/17 19:10:20  revo
+Wolfram Diestel: +germ trd
+
+Revision 1.5  2013/08/31 14:10:46  revo
+Wolfram Diestel: referenco al listo zoo familioj
+
+Revision 1.4  2002/07/12 17:33:05  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.3  2002/02/13 17:33:21  revo
+Yury Finkel: +trd ru
+
+Revision 1.2 2001/10/15 18:22:08 revo
+Paul Peeraerts: ald trd nl
+
+-->
+</vortaro>

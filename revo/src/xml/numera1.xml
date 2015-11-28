@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: numera1.xml,v 1.17 2015/07/04 08:37:40 revo Exp $">
+<kap>
+  <rad>numerator</rad>/o <fnt>Z</fnt>
+</kap>
+<drv mrk="numera1.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>MatTerm</bib><lok>p. 7</lok></fnt>
+  <snc>
+    <dif>
+      La <ref cel="divid.0ato">dividato</ref>
+      en <ref cel="frakci.kvocienta0o">kvocienta frakcio</ref>
+      a&ubreve; en <ref cel="frakci.algebra0o">algebra frakcio</ref>:
+      <ekz>
+        en la nombro <frm><sup>4</sup>/<sub>16</sub></frm>,
+        <frm>4</frm> estas la <tld/>o kaj <frm>16</frm> estas la
+        <ref cel="denomi.0o">denominatoro</ref>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_l;&c_ib;&c_ch;&c_n;&c_ib;&c_k;</trd>
+  <trdgrp lng="bg">
+    <trd>&c_ch;&c_i;&c_s;&c_l;&c_i;&c_t;&c_je;&c_l;</trd>,
+    <trd>&c_d;&c_je;&c_l;&c_i;&c_m;&c_o;</trd>
+  </trdgrp>
+  <trd lng="ca">numerador</trd>
+  <trd lng="cs">čitatel</trd>
+  <trd lng="de">Z&auml;hler</trd>
+  <trd lng="el">&alfa;&rho;&jota;&theta;&my;&eta;&tau;&eta_ton;&sigma_fina;</trd>
+  <trd lng="en">numerator</trd>
+  <trd lng="es">numerador</trd>
+  <trd lng="fr">num&eacute;rateur<klr tip="ind"> (d'une fraction)</klr></trd>
+  <trd lng="hu">sz&aacute;ml&aacute;l&oacute;</trd>
+  <trd lng="nl">teller</trd>
+  <trd lng="pl">licznik</trd>
+  <trd lng="pt">numerador</trd>
+  <trd lng="ru">&c_ch;&c_i;&c_s;&c_l;&c_i;&c_t;&c_je;&c_l;&c_mol;</trd>
+  <trd lng="sk">čitateľ</trd>
+</drv>
+</art>
+<!--
+$Log: numera1.xml,v $
+Revision 1.17  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:33:21  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.15  2015/06/05 09:10:17  revo
+Joop Eggen: +trd bg
+
+Revision 1.14  2005/04/14 16:33:55  revo
+Raul Salinas Monteagudo: +trd ca,es
+
+Revision 1.13  2003/06/16 16:32:21  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.12  2003/01/02 17:49:11  revo
+Marc Bavant: +frm, +trd pl
+
+Revision 1.11  2002/07/01 17:34:02  revo
+Jozefo Horvath: +trd hu
+Revision 1.10  2002/06/25 19:40:08  revo
+Eduardo M. Kalinowski: ald trd el, pt
+Revision 1.9  2002/02/02 20:44:58  revo
+Marc Bavant: +fnt, +trd fr
+Revision 1.8 2001/08/27 18:13:16 revo
+Marc Bavant: kor ref cel al frakcio
+Revision 1.7 2001/06/09 18:48:59 revo
+Paul Peeraerts: ald trd nl
+-->
+</vortaro>

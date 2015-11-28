@@ -1,0 +1,296 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: tabel.xml,v 1.35 2015/07/04 08:37:44 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>tabel</rad>/o
+</kap>
+<drv mrk="tabel.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="tabel.0o.TIP">
+    <uzo tip="fak">TIP</uzo>
+    <dif>
+      Metoda aran&gcirc;o de nomoj, nombroj a&ubreve; signoj, hierarkia
+      a&ubreve; la&ubreve;
+      <ref tip="prt" cel="kolumn.0o.TIP">kolumnoj</ref> kaj
+      <ref tip="prt" cel="lini.0o.TIP">linioj</ref>,
+      faciliganta supervidon kaj retrovon de &ccirc;iu ero:
+      <ekz>
+        <tld/>o de man&gcirc;a&jcirc;oj <klr>(menuo)</klr>;
+      </ekz>
+      <ekz>
+        <tld/>o de multobligado, de logaritmoj.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="regist.0o.dokumento">registro <sncref/></ref>
+    </refgrp>
+    <trdgrp lng="nl">
+      <trd>tafel</trd>,
+      <trd>tabel</trd>,
+      <trd>lijst</trd>
+    </trdgrp>
+    <trd lng="be">&c_t;&c_a;&c_b;&c_l;&c_ib;&c_c;&c_a;</trd>
+    <trd lng="en">table</trd>
+    <trdgrp lng="hu">
+      <trd>t&aacute;bl&aacute;zat</trd>,
+      <trd>tabella</trd>
+    </trdgrp>
+  <trdgrp lng="pt">
+   <trd>tabela</trd>
+   </trdgrp>
+    <trd lng="ru">&c_t;&c_a;&c_b;&c_l;&c_i;&c_c;&c_a;</trd>
+    <trd lng="sv">tabell</trd>
+  </snc>
+  <snc mrk="tabel.0o.KOMP">
+    <uzo tip="fak">KOMP</uzo>
+    <dif>
+      Malsimpla datumo kies komponantoj (kutime samtipaj) estas
+      atingeblaj per unu a&ubreve; pluraj indicoj (plej ofte, entjeraj
+      numeroj):
+      <ekz>
+        unudimensian <tld/>on oni nomas
+        <ref tip="sub" cel="vektor.0o.KOMP">vektoro</ref>;
+      </ekz>
+      <ekz>
+        per dudimensia <tld/>o oni povas prezenti
+        <ref tip="sub" cel="matric.0o.KOMP">matricon</ref>.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="list.0o.KOMP">listo</ref>
+    <ref tip="super" cel="tip.datum0o">datumtipo</ref>
+    <trd lng="be">&c_m;&c_a;&c_s;&c_ib;&c_w;</trd>
+    <trd lng="de">Feld</trd>
+    <trd lng="en">array</trd>
+    <trd lng="hu">t&ouml;mb <klr tip="ind">(array)</klr></trd>
+    <trd lng="ru">&c_m;&c_a;&c_s;&c_s;&c_i;&c_v;</trd>
+    <trd lng="sv">f&auml;lt</trd>
+  </snc>
+  <trdgrp lng="ca">
+    <trd>taula</trd>,
+    <trd>llista</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>přehled</trd>,
+    <trd>seznam</trd>,
+    <trd>soupis</trd>,
+    <trd>tabela</trd>,
+    <trd>tabulka</trd>,
+    <trd>výkaz</trd>,
+    <trd>znázornění</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Tafel</trd>,
+    <trd>Tabelle</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>tabla</trd>,
+    <trd>panel</trd>,
+    <trd>lista</trd>
+  </trdgrp>
+  <trd lng="fr">tableau</trd>
+  <trd lng="pl">tabela</trd>
+  <trdgrp lng="sk">
+    <trd>matica</trd>,
+    <trd>pole</trd>,
+    <trd>usporiadanie</trd>,
+    <trd>zoskupenie</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="tabel.0vorto">
+  <kap><tld/>vorto</kap>
+  <snc mrk="tabel.0vorto.GRA">
+    <uzo tip="fak">GRA</uzo>
+    <dif>
+      En Esperanto, &ccirc;iu el la 45 regule konstruitaj vortoj, kiujn
+      oni povas aran&gcirc;i en <tld/>on demonstrantan tiun regulecon,
+      kiuj esprimas seriojn da
+      <ref cel="pronom.0o.noma">pronomoj<sncref/></ref> kaj
+      <ref cel="adverb.0o">adverboj</ref>:
+      <ekz>
+        oni povas diri, ke &ccirc;iu <tld/>vorto konsistas el
+        anta&ubreve;parto kaj postparto, sed oni tamen ne rigardu la
+        <tld/>vortojn kiel kunmetitajn vortojn
+        <fnt><bib>PMEG</bib></fnt>;
+      </ekz>
+      <ekz>
+        la <tld/>vortoj de ka&ubreve;zo estas
+        <em>ial, kial, tial, nenial, &ccirc;ial</em>.
+      </ekz>
+    </dif>
+    <bld lok="../bld/tabelvortoj.png">
+       <tld/>vortoj
+    </bld>
+    <rim num="1">
+    ti-, ki-, neni- ktp ne estas radikoj per si mem, nur kun korelativa
+    fina&jcirc;o ili havas signifon. Oni devas do almeti ne<tld/>vortajn
+    fina&jcirc;ojn al plenaj <tld/>vortoj (ekzemple: <ekz>kialo; tiama;
+    tiamaniere</ekz>), krom en malmultaj okazoj (ekzemple: <ekz><ref
+    tip="dif" cel="neni.0igi">neniigi</ref>;
+    nenii&gcirc;i</ekz>), kie la rezulta vorto estas
+    jam establita. 
+    </rim>
+    <rim num="2">
+    Z klarigas, ke "&ccirc;iuj vortoj de la <ctl>interrilata <tld/>o</ctl>
+    konsistas el du partoj: a) radiko, b) karakteriza fini&gcirc;o (ekzemple
+    <ekz>ki-al, ki-o, neni-u, neni-a ktp.</ekz>). &Ccirc;ar pro diversaj
+    ka&ubreve;zoj, [...]
+    la karakterizaj fini&gcirc;oj de la diritaj vortoj ne povis esti fiksitaj
+    kiel fini&gcirc;oj sendependaj kaj &gcirc;eneralaj (ekzemple mi estis devigita
+    preni la fini&gcirc;ojn -e kaj -u, kiuj kiel sendependaj fini&gcirc;oj havis jam
+    alian sencon), tial mi devis
+    alkro&ccirc;i ilin nedisigeble al la radiko. Tiamaniere ilia <em>uzado
+    sendependa</em> (ekzemple en formoj <ekz><ctl>ali-u</ctl>,
+    <ctl>ali-es</ctl>,
+    <ctl>kelk-om</ctl> ktp.</ekz>, kiuj per gramatika instinkto
+    estis
+    uzataj
+    de kelkaj Esperantistoj) <em>estas
+    kontra&ubreve;regula"</em><fnt><bib>LR</bib></fnt>.
+    </rim>
+    <rim num="3">
+    Iuj uzas la vorton <ref tip="dif"
+    cel="korela.0a">korelativoj</ref> anstata&ubreve; <tld/>vortoj: tio
+    estas eraro, &ccirc;ar ne &ccirc;iuj vortoj de la <tld/>o estas korelativoj.
+    </rim>
+  </snc>
+  <ref tip="super" cel="pronom.0o.gxenerala">pronomoj<sncref/></ref>
+  <trd lng="be">&c_t;&c_a;&c_b;&c_l;&c_ib;&c_ch;&c_n;&c_y;
+  <ind>&c_z;&c_a;&c_j;&c_m;&c_je;&c_n;&c_mol;&c_n;&c_ib;&c_k;</ind>
+  </trd>
+  <trd lng="ca">correlatiu</trd>
+  <trd lng="es">tabla de correlativos</trd>
+  <trdgrp lng="hu">
+    <trd>tabellasz&oacute;</trd>,
+    <trd>egyszer&udblac; sz&oacute;</trd>
+  </trdgrp>
+  <trd lng="pl">s&lstroke;owo z tabeli korelatywnej</trd>
+  <trd lng="ru">&c_t;&c_a;&c_b;&c_l;&c_i;&c_ch;&c_n;&c_o;&c_je;
+  &c_m;&c_je;&c_s;&c_t;&c_o;&c_i;&c_m;&c_je;&c_n;&c_i;&c_je;</trd>
+  <trd lng="sk">korelatívum</trd>
+  <trd lng="cs">korelativum</trd>
+</drv>
+
+<drv mrk="tabel.enhav0o">
+  <kap>enhav<tld/>o</kap>
+  <snc mrk="tabel.enhav0o.TIP">
+    <uzo tip="fak">TIP</uzo>
+    <dif>
+      Listo de la partoj de verko (&ccirc;apitroj...) kun indikoj de
+      iliaj trovlokoj (pa&gcirc;numeroj...).
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="indeks.0o.TIP">indekso <sncref/></ref>
+    </refgrp>
+  </snc>
+  <trd lng="ca">&iacute;ndex</trd>
+  <trdgrp lng="de">
+    <trd>Inhaltsverzeichis</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd><ind>&iacute;ndice</ind> de contenidos</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>sommaire</trd>,
+    <trd>table des mati&egrave;res</trd>
+  </trdgrp>
+  <trd lng="pl">spis tre&sacute;ci</trd>
+</drv>
+
+<drv mrk="tabel.hor0o">
+  <kap>hor<tld/>o</kap>
+  <snc mrk="tabel.hor0o.KOMUNE">
+    <dif>
+      Tabelo prezentanta serion de aferoj kun respondaj horoj,
+      ekzemple alvenhorojn de trajnoj:
+      <ekz>
+        &ccirc;iu lernanto havis apartan hor-<tld/>on la&ubreve; siaj
+        emoj kaj kapabloj
+        <fnt>
+        <bib>Aventuroj</bib>,
+        <lok>&ccirc;apitro 18a, p. 50a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="progra.0o.KOMUNE">programo</ref>
+    </refgrp>
+  </snc>
+  <trd lng="ca">horari</trd>
+  <trdgrp lng="cs">
+    <trd>jízdní řád</trd>,
+    <trd>rozvrh hodin</trd>
+  </trdgrp>
+  <trd lng="es">horario</trd>
+  <trd lng="fr">horaire<klr tip="amb"> (ch. de fer etc.)</klr></trd>
+  <trd lng="pl">rozk&lstroke;ad godzinowy<klr> (np.
+  zaj&eogonek;&cacute;, wyk&lstroke;ad&oacute;w, przedstawie&nacute;)
+  </klr></trd>
+  <trdgrp lng="sk">
+    <trd>cestovný poriadok</trd>,
+    <trd>časový poriadok</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="tabel.ver0o">
+  <kap>ver<tld/>o<fnt><bib>PIV2</bib></fnt>, <var><kap><tld/>o de
+  vereco<fnt><bib>MatVort</bib></fnt></kap></var></kap>
+  <uzo tip="fak">MAT</uzo>
+  <snc>
+    <ref tip="vid" cel="operac.logika0o">logika operacio.</ref>
+  </snc>
+  <trd lng="ca">taula de la <ind>veritat</ind></trd>
+  <trdgrp lng="de">
+    <trd>Wahrheitstafel</trd>,
+    <trd>Wahrheitstabelle</trd>
+  </trdgrp>
+  <trd lng="en">truth <ind>table</ind></trd>
+  <trdgrp lng="es">
+    <trd>tabla de verdad</trd>,
+    <trd>tabla de valores de verdad</trd>
+  </trdgrp>
+  <trd lng="fr">table de v&eacute;rit&eacute;</trd>
+  <trd lng="hu">igazs&aacute;gt&aacute;bla</trd>
+  <trdgrp lng="pl">
+    <trd>tabela logiczna</trd>,
+    <trd>tabela prawdy</trd>
+  </trdgrp>
+  <trd lng="ru">&c_t;&c_a;&c_b;&c_l;&c_i;&c_c;&c_a;
+  &c_i;&c_s;&c_t;&c_i;&c_n;&c_n;&c_o;&c_s;&c_t;&c_i;</trd>
+</drv>
+</art>
+<!--
+$Log: tabel.xml,v $
+Revision 1.35  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.34  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.33  2014/10/08 12:10:29  revo
+Guillermo Molleda Jimena: trd es
+
+Revision 1.32  2014/04/22 18:11:03  revo
+Damien Brucker: +em
+
+Revision 1.31  2014/03/10 13:10:23  revo
+Damien Brucker: korekto cxe rim 1
+
+Revision 1.30  2014/02/26 07:10:13  revo
+Damien Brucker: +ekz
+
+Revision 1.29  2014/02/25 11:10:12  revo
+Damien Brucker: +rim 3
+
+Revision 1.28  2014/02/24 13:10:11  revo
+Damien Brucker: +rim
+
+Revision 1.27  2014/02/11 10:10:11  revo
+Damien Brucker: +bld
+
+Revision 1.26  2014/01/21 13:10:16  revo
+-->
+</vortaro>

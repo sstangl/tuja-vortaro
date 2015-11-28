@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: euxkli.xml,v 1.18 2011/12/12 16:10:11 revo Exp $">
+<kap>
+<rad>E&ubreve;klid</rad>/o
+</kap>
+<drv mrk="euxkli.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">PERS</uzo>
+  <fnt><bib>PIV1</bib></fnt>
+  <snc>
+    <dif>
+      Greklingve:
+      <trd lng="grc">&Epsilon;&ypsilon;&kappa;&lambda;&epsilon;&jota_ton;&delta;&eta;&sigma_fina;</trd>.
+      Greka matematikisto el Aleksandrio, 3-a jc a.K.
+    </dif>
+  </snc>                      
+  <trd lng="be">&c_E;&c_w;&c_k;&c_l;&c_ib;&c_d;</trd>
+  <trd lng="br">Euklides</trd>
+  <trd lng="de">Euklid</trd>
+  <trd lng="en">Euclid</trd>
+  <trd lng="fr">Euclide</trd>
+  <trd lng="hu">Eukleid&eacute;sz</trd>
+  <trd lng="pl">Euklides</trd>
+  <trd lng="pt">Euclides</trd>
+  <trd lng="es">Euclides</trd>
+  <trdgrp lng="ru">
+    <trd>&c_Je;&c_v;&c_k;&c_l;&c_i;&c_d;</trd>,
+    <trd>&c_E;&c_v;&c_k;&c_l;&c_i;&c_d;</trd>
+  </trdgrp>
+  <trd lng="sv">Euklides</trd>
+</drv>
+
+<drv mrk="euxkli.e0a">
+  <kap><tld lit="e"/>a</kap>
+  <snc>
+    <refgrp tip="vid">
+      <ref cel="algor.euxklida0o"><tld lit="e"/>a algoritmo</ref>,
+      <ref cel="divid.euxklida0o"><tld lit="e"/>a divido</ref>,
+      <ref cel="ring.euxklida0o"><tld lit="e"/>a ringo</ref>,
+      <ref cel="spac.euxklida0o"><tld lit="e"/>a spaco</ref>.
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_e;&c_w;&c_k;&c_l;&c_ib;&c_d;&c_a;&c_w;</trd>    
+  <trdgrp lng="br">
+    <trd>euklidel</trd>,
+    <trd>euklidian</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>von <ind>Euklid</ind></trd>,
+    <trd>Euklids</trd>,
+    <trd>euklidisch</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>Euclid['s]</trd>,
+    <trd>Euclidean</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>d'<ind>Euclide</ind></trd>,
+    <trd>euclidien</trd>
+  </trdgrp>
+  <trd lng="hu">euklideszi</trd>
+  <trdgrp lng="pl">
+    <trd>Euklidesa</trd>,
+    <trd>euklidesowy</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_Je;&c_v;&c_k;&c_l;&c_i;&c_d;&c_a;</trd>,
+    <trd>&c_je;&c_v;&c_k;&c_l;&c_i;&c_d;&c_o;&c_v;</trd>
+  </trdgrp>
+  <trd lng="sv">euklidisk</trd>
+  <trd lng="es">euclideano</trd>
+</drv>
+</art>
+<!--
+$Log: euxkli.xml,v $
+Revision 1.18  2011/12/12 16:10:11  revo
+Eduardo Navas: +trad es
+
+Revision 1.17  2007/07/11 16:31:01  revo
+Tulio Flores: +tr pt
+
+Revision 1.16  2005/07/05 16:33:03  revo
+Alan ar Gall: +trd br
+
+Revision 1.15  2003/12/21 17:31:35  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.14  2003/06/10 20:10:55  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.13  2003/01/02 17:45:35  revo
+Marc Bavant: +trd pl; ~a: +trd
+
+Revision 1.12  2002/08/11 17:32:16  revo
+Marc Bavant: ~o: kor fnt
+Revision 1.11  2002/06/26 19:28:26  revo
+Ulrich Fellmann: + 1 plia trd de
+-->
+</vortaro>

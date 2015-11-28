@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: poli2.xml,v 1.5 2015/07/04 08:37:41 revo Exp $">
+<kap>
+  <rad>poli</rad>/o
+  <fnt><bib>PIV2</bib></fnt>
+</kap>
+
+<drv mrk="poli2.0o">
+  <kap><tld/>o</kap>
+  <snc>
+    <uzo tip="fak">MED</uzo>
+    <dif>
+      Pref. uzata por nomi malsanojn de la griza substanco mjela
+      a&ubreve; cerba:
+      <ekz>
+        <tld/>encefalito
+        <fnt>
+          <bib>PIV2</bib>
+       </fnt>
+      </ekz>,
+      <ekz>
+        <tld/>bulbito
+        <fnt>
+          <bib>PIV2</bib>
+       </fnt>
+      </ekz>,
+      <ekz>
+        <tld/>encefalito
+        <fnt>
+          <bib>PIV2</bib>
+       </fnt>
+      </ekz>,
+      <ekz>
+        <tld/>mjelito
+        <fnt>
+          <bib>PIV2</bib>
+       </fnt>
+      </ekz>
+    </dif>
+    <trd lng="nl">polio</trd>
+    <trd lng="pl">polio</trd>
+  </snc>
+  <rim>
+    Ne konfuzu kun <ref tip="hom" cel="poli1.P0o">Polio</ref> (lando).
+    <aut>SC</aut>
+  </rim>
+  <trd lng="sk">detská obrna</trd>
+  <trd lng="cs">dětská obrna <klr>(hovor.)</klr></trd>
+</drv>
+
+</art>
+
+
+<!--
+$Log: poli2.xml,v $
+Revision 1.5  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.4  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.3  2009/10/25 17:31:38  revo
+Paul Peeraerts: +nl +kor en ref
+
+Revision 1.2  2008/12/11 17:31:01  revo
+Luiz Portella: ~o mrk=pol2.p0io => mrk=poli2.0o; ref cel=pol1.P0io =>
+cel=poli1.P0o
+
+Revision 1.1  2008/10/03 18:16:34  revo
+Sebastian Cyprych: nova artikolo
+
+-->
+</vortaro>

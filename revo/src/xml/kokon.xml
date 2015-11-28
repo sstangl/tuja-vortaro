@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: kokon.xml,v 1.15 2015/07/04 08:37:37 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>kokon</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="kokon.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="kokon.0o.TEKS">
+    <uzo tip="fak">TEKS</uzo>
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      Fadena envolva&jcirc;o, kiun &scirc;pinas preska&ubreve; &ccirc;iuj larvoj de lepidopteroj,
+      kaj en kiu fari&gcirc;as la lasta metamorfozo:
+      <ekz>
+        <tld/>o de silka ra&ubreve;po <klr>(uzata por fari silkfadenojn)</klr>;
+      </ekz>
+      <ekz>bobeni <tld/>on.</ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>Kokon</trd>,
+      <trd>Insektengespinst</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="kokon.0o.ZOO">
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      Tiu envolva&jcirc;o kaj la entenata
+      <ref tip="vid" cel="krizal.0o.ZOO">krizalido</ref>.
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="pup.0o.ZOO">pupo<sncref/></ref>
+    </refgrp>
+    <trd lng="de">Kokon</trd>
+    <trd lng="en">cocoon</trd>
+  </snc>
+  <trd lng="be">&c_k;&c_o;&c_k;&c_a;&c_n;</trd>
+  <trd lng="cs">zámotek housenky</trd>
+  <trd lng="de">Kokon</trd>
+  <trd lng="fr">cocon</trd>
+  <trd lng="nl">cocon</trd>
+  <trd lng="ru">&c_k;&c_o;&c_k;&c_o;&c_n;</trd>
+  <trd lng="sk">zámotok húsenice</trd>
+</drv>
+</art>
+<!--
+$Log: kokon.xml,v $
+Revision 1.15  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.13  2011/06/07 07:10:12  revo
+Jeromo Vasxe: - num + mrk
+
+Revision 1.12  2007/07/22 16:30:42  revo
+Wieland Pusch: +trd de
+
+Revision 1.11  2004/12/26 17:33:39  revo
+Marc Bavant: +trd fr, +ZOO
+
+Revision 1.10  2002/11/17 18:26:58  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.9  2002/01/03 17:33:36  revo
+Ulrich Fellmann: + 3 germ trdj
+
+Revision 1.8  2001/11/01 19:11:54  revo
+Paul Peeraerts: ald trd nl
+
+Revision 1.7  2001/09/28 18:12:53  revo
+Yury Finkel: kor trd ru
+
+Revision 1.6  2001/09/27 18:14:35  revo
+-->
+</vortaro>

@@ -1,0 +1,146 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: susur.xml,v 1.21 2015/07/04 08:37:44 revo Exp $">
+<kap>
+  <ofc>6</ofc>
+  <rad>susur</rad>/i
+  <fnt>Z</fnt>
+</kap>
+<drv mrk="susur.0i">
+  <kap><tld/>i</kap>
+  <snc mrk="susur.0i.SON">
+    <gra><vspec>ntr</vspec></gra>
+    <dif>
+      <ref tip="super" cel="bru.0i.soni">Brui</ref> malforte kaj iom
+      seke
+      kiel &ccirc;ifata papero, silka&jcirc;o, teksa&jcirc;o, arbofolioj kaj similaj:
+      <ekz>
+        facila venteto <tld/>as inter la olivarboj;
+      </ekz>
+      <ekz>
+        la fontano <tld/>adis kun pla&ccirc;a murmureto;
+      </ekz>
+      <ekz>
+        la longa trena&jcirc;o de &scirc;ia vesto <tld/>is sur la pargeto
+        <fnt><bib>Marta</bib></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_sh;&c_a;&c_m;&c_a;&c_c;&c_je;&c_c;&c_mol;</trd>,
+    <trd>&c_sh;&c_a;&c_l;&c_ja;&c_s;&c_mol;&c_c;&c_je;&c_c;&c_mol;</trd>,
+    <trd>&c_sh;&c_a;&c_s;&c_t;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_sh;&c_a;&c_p;&c_a;&c_c;&c_je;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>&scaron;ustit</trd>,
+    <trd>harašit</trd>,
+    <trd>šelestit</trd>,
+    <trd>šumět</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>knistern</trd>,
+    <trd>rauschen</trd>,
+    <trd>rascheln</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>rustle</trd>,
+    <trd>swish</trd>
+  </trdgrp>
+  <trd lng="es">susurrar (un objeto)</trd>
+  <trd lng="fr">susurrer</trd>
+  <trdgrp lng="hu">
+    <trd>susog</trd>,
+    <trd>suhog</trd>
+    <trd>zizeg</trd>
+  </trdgrp>
+  <trd lng="it">mormorare</trd>
+  <trdgrp lng="nl">
+    <trd>ritselen</trd>,
+    <trd>ruisen<klr tip="ind"> (werkw.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_sh;&c_je;&c_l;&c_je;&c_s;&c_t;&c_je;&c_t;&c_mol;</trd>,
+    <trd>&c_sh;&c_u;&c_r;&c_sh;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>šuchotať</trd>,
+    <trd>šumieť</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="susur.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="susur.0o.SON">
+    <dif>
+      Malla&ubreve;ta frota bruo:
+      <ekz>
+        la <ind><tld/>ado</ind> de la radoj, helicoj;
+        <trd lng="it">mormorio</trd>
+      </ekz>
+      <ekz>
+        kun facila <tld/>o la boato sursabli&gcirc;is
+        <fnt><bib>Metrop</bib></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>šelest</trd>,
+    <trd>šustot</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>rustle</trd>,
+    <trd>swish</trd>
+  </trdgrp>
+  <trd lng="es">susurro (ruidito)</trd>
+  <trd lng="fr">susurrement</trd>
+  <trdgrp lng="hu">
+    <trd>susog&aacute;s</trd>,
+    <trd>suhog&aacute;s</trd>
+    <trd>zizeg&eacute;s</trd>
+  </trdgrp>
+  <trdgrp lng="it">
+    <trd>mormorazione</trd>, 
+    <trd>brusio</trd>, <trd>sussurro<klr> (fig.)</klr></trd>
+  </trdgrp>
+  <trd lng="nl">ruisen<klr tip="ind"> (subst.)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>šelest</trd>,
+    <trd>šum</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: susur.xml,v $
+Revision 1.21  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:33:25  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.19  2011/12/28 19:10:08  revo
+Eduardo Navas: +trad es
+
+Revision 1.18  2009/10/08 16:31:02  revo
+Antonio Codazzi: +trd it
+
+Revision 1.17  2009/07/07 16:30:40  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.16  2008/11/23 19:12:29  revo
+Wieland Pusch: entoj por unikodo
+
+Revision 1.15  2008/11/05 17:31:36  revo
+Russ Williams: +trd en
+
+Revision 1.14  2008/06/12 19:06:55  revo
+Carlos Garcia: +trd "es" -i -o
+
+Revision 1.13  2004/11/05 17:31:35  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.12  2004/10/13 16:32:12  revo
+-->
+</vortaro>

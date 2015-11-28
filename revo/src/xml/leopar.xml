@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: leopar.xml,v 1.20 2014/11/09 10:10:25 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>leopard</rad>/o
+</kap>
+<drv mrk="leopar.0o">
+  <kap>
+    <ofc>*</ofc><tld/>o
+  </kap>
+  <uzo tip="fak">ZOO</uzo>
+  <snc>
+    <dif>
+      <ref tip="lst" cel="speci.0o.BIO"
+      lst="voko:zoologiaj_specioj">Specio</ref> de <ref tip="lst" 
+cel="panter.0o.genro" lst="voko:rabobestoj">pantero</ref>
+      (<trd lng="la">Panther pardus</trd>), kun nigre makulita felo.
+    </dif>
+    <rim>La <tld/>on oni nomas anka&ubreve;
+      <ref tip="sin" cel="panter.0o.leopardo">pantero</ref>.
+    </rim>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_l;&c_je;&c_a;&c_p;&c_a;&c_r;&c_d;</trd>,
+    <trd>&c_p;&c_a;&c_n;&c_t;&c_e;&c_r;&c_a;</trd>,
+    <trd>&c_b;&c_a;&c_r;&c_s;</trd>
+  </trdgrp>
+  <trd lng="br">loupard</trd>
+  <trd lng="ca">lleopard</trd>
+  <trd lng="de">Leopard</trd>
+  <trd lng="el">&lambda;&epsilon;&omikron;&pi;&alfa_ton;&rho;&delta;&alfa;&lambda;&eta;</trd>
+  <trd lng="en">leopard</trd>
+  <trd lng="es">leopardo</trd>
+  <trd lng="fr">l&eacute;opard</trd>
+  <trd lng="hu">leop&aacute;rd</trd>
+  <trd lng="id"><ind>macan</ind> tutul</trd>
+  <trdgrp lng="nl">
+    <trd>luipaard</trd>,
+    <trd>panter</trd>
+  </trdgrp>
+  <trd lng="pt">leopardo</trd>
+  <trdgrp lng="ru">
+    <trd>&c_l;&c_je;&c_o;&c_p;&c_a;&c_r;&c_d;</trd>,
+    <trd>&c_p;&c_a;&c_n;&c_t;&c_je;&c_r;&c_a;</trd>,
+    <trd>&c_b;&c_a;&c_r;&c_s;</trd>
+  </trdgrp>
+  <trd lng="sv">leopard</trd>
+</drv>
+</art>
+<!--
+$Log: leopar.xml,v $
+Revision 1.20  2014/11/09 10:10:25  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.19  2013/10/20 17:10:20  revo
+Wolfram Diestel: ref al lst rabobestoj, ZOO specioj
+
+Revision 1.18  2012/02/18 21:10:19  revo
+Marc Rausell: +trd ca
+
+Revision 1.17  2005/04/09 18:42:03  revo
+Alan ar Gall: +trd br, fr
+
+Revision 1.16  2004/05/24 16:33:35  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.15  2004/02/13 17:30:53  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.14  2002/08/26 17:33:05  revo
+Eduardo M. Kalinowski: ald trd el, pt
+
+Revision 1.13  2001/12/10 17:32:37  revo
+-->
+</vortaro>

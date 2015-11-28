@@ -1,0 +1,199 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: flustr.xml,v 1.19 2015/07/04 08:37:34 revo Exp $">
+<kap><ofc>3</ofc>
+<rad>flustr</rad>/i</kap>
+<drv mrk="flustr.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      Malla&ubreve;te paroli:
+      <ekz>
+        <tld/>i kelkajn vortojn al iu<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        <tld/>i kun iu pri io;
+      </ekz>
+      <ekz>
+        la &ccirc;efepiskopo flustris malbonajn vortojn en la orelon al la
+        re&gcirc;o
+        <fnt><bib>Fab1</bib>, <lok>Sova&gcirc;aj cignoj</lok></fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        <ctl>sed la aero donas al vi la spiradon!</ctl> flustris la vo&ccirc;o
+        de la poeto
+        <fnt><bib>Fab1</bib>, <lok>Galo&scirc;oj de feli&ccirc;o</lok></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="suflor.0i">suflori</ref>.
+    </refgrp>
+    <trd lng="be">&c_sh;&c_a;&c_p;&c_t;&c_a;&c_c;&c_mol;</trd>
+    <trd lng="de">fl&uuml;stern</trd>
+  <trdgrp lng="es">
+    <trd>cuchichear</trd>,
+    <trd>susurrar</trd>,
+    <trd>murmurar</trd>
+  </trdgrp>
+    <trd lng="hu">s&uacute;g</trd>
+    <trd lng="nl">fluisteren</trd>
+  </snc>
+  <snc>
+    <uzo tip="stl">FIG</uzo>
+    <uzo tip="klr">(io)</uzo>
+    <dif>
+      Murmureti, brueti:
+      <ekz>
+        rivereto <tld/>as sur la &scirc;tonetoj;
+      </ekz>
+      <ekz>
+        <tld/>antaj ondoj<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="susur.0i">susuri</ref>.
+    </refgrp>
+    <trdgrp lng="be">
+      <trd>&c_sh;&c_a;&c_p;&c_t;&c_a;&c_c;&c_mol; <klr>(&c_p;&c_je;&c_r;&c_a;&c_n;.)</klr></trd>,
+      <trd>&c_sh;&c_a;&c_m;&c_a;&c_c;&c_je;&c_c;&c_mol;</trd>,
+      <trd>&c_sh;&c_a;&c_l;&c_ja;&c_s;&c_mol;&c_c;&c_je;&c_c;&c_mol;</trd>
+    </trdgrp>
+    <trd lng="de">murmeln</trd>
+    <trdgrp lng="es">
+      <trd>murmurar</trd>,
+      <trd>susurrar</trd>
+    </trdgrp>
+    <trd lng="hu">susorog</trd>
+    <trd lng="nl">ruisen</trd>
+    <trd lng="ru">&c_sh;&c_je;&c_l;&c_je;&c_s;&c_t;&c_je;&c_t;&c_mol;</trd>
+  </snc>
+  <snc>
+    <uzo tip="fak">FON</uzo>
+    <dif>
+      Paroli per <tld/>o <sncref ref="flustr.0o.FON"/>.
+    </dif>
+    <trd lng="be">&c_sh;&c_a;&c_p;&c_t;&c_a;&c_c;&c_mol;</trd>
+    <trd lng="de">fl&uuml;stern</trd>
+    <trd lng="nl">fluisteren</trd>
+    <trd lng="hu">suttog</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>&scaron;eptat</trd>,
+    <trd>pošeptat</trd>,
+    <trd>zašeptat</trd>,
+    <trd>šeptnout</trd>,
+    <trd>šustit</trd>
+  </trdgrp>
+  <trd lng="en">whisper</trd>
+  <trdgrp lng="fr">
+    <trd>chuchoter</trd>,
+    <trd>murmurer</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>cochichar</trd>,
+    <trd>segredar</trd>,
+    <trd>bisbilhotar</trd>,
+    <trd>ciciar</trd>,
+    <trd>murmurar</trd>
+  </trdgrp>
+  <trd lng="ru">&c_sh;&c_je;&c_p;&c_t;&c_a;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>pošuškávať</trd>,
+    <trd>šepkať</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="flustr.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="flustr.0o.KOMUNE">
+    <dif>
+      Malla&ubreve;ta parolo de <tld/>anto:
+      <ekz>
+        lia vo&ccirc;o estas nur <tld/>o en uragano.
+      </ekz>
+    </dif>
+    <trd lng="hu">s&uacute;g&aacute;s</trd>
+  </snc>
+  <snc mrk="flustr.0o.FON">
+    <uzo tip="fak">FON</uzo>
+    <dif>
+      Parolmaniero, meza inter la vo&ccirc;o kaj la spiro, kiu konsistas
+      el da&ubreve;ra bruero, produktata de la spirblovo, kiam &gcirc;i frotas
+      sed ne vibrigas la malfermatajn vo&ccirc;kordojn.
+    </dif>
+    <trd lng="hu">suttog&aacute;s</trd>
+  </snc>
+  <trd lng="be">&c_sh;&c_e;&c_p;&c_t;</trd>
+  <trdgrp lng="cs">
+    <trd>šelest</trd>,
+    <trd>šepot</trd>,
+    <trd>šustění</trd>
+  </trdgrp>
+  <trd lng="de">Fl&uuml;stern</trd><trd lng="de">murmullo</trd>
+  <trdgrp lng="es">
+    <trd>susurro</trd>,
+    <trd>cuchicheo</trd>,
+    <trd>murmuro</trd>
+  </trdgrp>
+  <trd lng="fr">chuchotement</trd>
+  <trd lng="nl">het <ind>fluisteren</ind></trd>
+  <trd lng="ru">&c_sh;&c_jo;&c_p;&c_o;&c_t;</trd>
+  <trdgrp lng="sk">
+    <trd>šelest</trd>,
+    <trd>šepot</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="flustr.0a">
+  <kap><tld/>a</kap>
+  <snc>
+    <dif>
+      Karakterizata per <tld/>o:
+      <ekz>
+        <uzo tip="fak">FON</uzo>
+        <tld/>a vokalo, konsonanto.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">chuchot&eacute;</trd>
+  <trd lng="hu">suttog&oacute;</trd>
+  <trd lng="nl">fluister-</trd>
+  <trd lng="de">fl&uuml;sternd</trd>
+</drv>
+</art>
+<!--
+$Log: flustr.xml,v $
+Revision 1.19  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2011/12/28 19:10:09  revo
+Eduardo Navas: +trad es
+
+Revision 1.16  2008/06/12 19:06:56  revo
+Carlos Garcia: +trd "es" -i -o
+
+Revision 1.15  2007/06/02 19:47:25  revo
+Tulio Flores: +tr pt
+
+Revision 1.14  2005/01/24 19:02:36  revo
+Wieland Pusch: +trd de
+
+Revision 1.13  2003/12/23 17:39:58  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.12  2002/11/21 17:31:39  revo
+Paul Peeraerts: ald trd nl + belarangho
+
+Revision 1.11 2002/11/14 17:31:58 revo
+Jozefo Horvath: +trd hu
+
+Revision 1.10 2001/09/05 19:02:45 revo
+-->
+</vortaro>

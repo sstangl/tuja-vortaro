@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: letarg.xml,v 1.18 2015/07/04 08:37:38 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>letargi</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="letarg.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="letarg.0o.FIZL">
+    <uzo tip="fak">FIZL</uzo>
+    <dif>
+      Stato de &scirc;ajna morto, karakterizata per preska&ubreve; tuta halto de
+      spirado kaj de sanga cirkulado.
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="dorm.0o">dormo</ref>,
+      <ref cel="komat.0o">komato</ref>
+    </refgrp>
+    <trdgrp lng="de">
+       <trd>Lethargie</trd>,
+       <trd>Schlafsucht</trd>
+    </trdgrp>
+    <trd lng="en">torpidity</trd>
+    <trd lng="hu">&aacute;lomk&oacute;r</trd>    
+    <trd lng="nl">schijndood</trd>
+  </snc>
+  <snc mrk="letarg.0o.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Plena inerteco kaj indiferenteco.
+    </dif>
+    <trdgrp lng="de">
+       <trd>Lethargie</trd>,
+       <trd>Teilnahmslosigkeit</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>lethargy</trd>,
+      <trd>drowsiness</trd>,
+      <trd>inertness</trd>,
+      <trd>apathy</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+       <trd>leverts&eacute;g</trd>,
+       <trd>letargia</trd>
+    </trdgrp>    
+    <trdgrp lng="nl">
+      <trd>lethargie</trd>,
+      <trd>onverschilligheid</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="be">&c_l;&c_je;&c_t;&c_a;&c_r;&c_g;&c_ib;&c_ja;</trd>
+  <trdgrp lng="cs">
+    <trd>letargie</trd>,
+    <trd>strnulost</trd>
+  </trdgrp>
+  <trdgrp lng="el">
+    <trd>&lambda;&eta;&theta;&alfa;&rho;&gamma;&jota_ton;&alfa;</trd>,
+    <trd>&lambda;&eta_ton;&theta;&alfa;&rho;&gamma;&omikron;&sigma_fina;</trd>
+  </trdgrp>
+  <trd lng="es">letargo</trd>
+  <trd lng="fr">l&eacute;thargie</trd>
+  <trd lng="pl">letarg</trd>
+  <trd lng="pt">letargia</trd>
+  <trd lng="ru">&c_l;&c_je;&c_t;&c_a;&c_r;&c_g;&c_i;&c_ja;</trd>
+  <trd lng="sk">letargia</trd>
+</drv>
+</art>
+<!--
+$Log: letarg.xml,v $
+Revision 1.18  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:33:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.16  2013/11/23 02:10:22  revo
+Jeromo Vasxe: + mrk + trd fr
+
+Revision 1.15  2013/04/25 06:10:13  revo
+Sebastian Cyprych: +trd pl +ref komato
+
+Revision 1.14  2004/08/30 16:32:48  revo
+Jozefo Horvath: modifis trd hu 1
+
+Revision 1.13  2004/05/25 16:32:41  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.12  2003/05/06 16:33:13  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.11  2002/09/22 16:32:59  revo
+Ulrich Fellmann: + 4 trd de
+
+Revision 1.10  2002/08/29 17:33:16  revo
+Eduardo M. Kalinowski: ald trd el, pt
+
+Revision 1.9  2001/11/16 19:13:01  revo
+-->
+</vortaro>

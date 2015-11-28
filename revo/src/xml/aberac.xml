@@ -1,0 +1,166 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: aberac.xml,v 1.30 2015/07/04 08:37:29 revo Exp $">
+<kap>
+  <rad>aberaci</rad>/i
+</kap>
+<drv mrk="aberac.0i">
+  <kap><tld/>i</kap>
+  <uzo tip="stl">RAR</uzo>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="aberac.0i.SCI">
+    <uzo tip="fak">SCI</uzo>
+    <dif>
+      <ref tip="vid" cel="flank.de0igxi">Deflanki&gcirc;i</ref>, <ref 
+      tip="vid" cel="voj.de0igxi">devoji&gcirc;i</ref> disde la normala, 
+      atendebla stato:
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        la UEA-lorno plene kontentigas la centran vidon, sed <tld/>as 
+        &ccirc;e la lensorando
+        <fnt>
+          <aut>C. Minnaja</aut>,
+          <vrk>Lingvo kaj popolo [recenzo]</vrk>,
+          <bib>LOdE</bib>,
+          <lok>2007:3 (149)</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="ca">
+    <trd>desviar-se</trd>,
+    <trd>esgarriar-se</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>aberovat</trd>,
+    <trd>odchylovat se <klr>(čočka, dalekohled, světlo)</klr></trd>
+  </trdgrp>
+  <trd lng="es">aberrar</trd>
+  <trd lng="it">aberrare</trd>
+  <trdgrp lng="sk">
+    <trd>aberovať</trd>,
+    <trd>odchyľovať sa</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="aberac.0o">
+  <kap><tld/>o <fnt>Z</fnt> <fnt><bib>PV</bib></fnt></kap>
+  <uzo tip="stl">RAR</uzo>
+  <snc mrk="aberac.0o.SCI">
+    <uzo tip="fak">SCI</uzo>
+    <dif>
+      Deflanki&gcirc;o disde la normala stato:
+      <ekz>
+        <tld/>o de la sensoj<fnt><bib>PIV2</bib></fnt>;
+      </ekz>
+      <ekz>
+        <tld/>o de la ju&gcirc;okapablo<fnt><bib>PIV2</bib></fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="fak">MUZ</uzo>
+        <tld/>o je &#8722;2 cendoj kompare kun la &gcirc;usta kvinto plejofte ne
+        &gcirc;enas
+        <fnt><bib>Viki</bib>, <lok>artikolo &leftquot;registro (orgeno)&rightquot;, 
+        2008-07-10</lok></fnt>.
+      </ekz>
+    </dif>
+    <subsnc mrk="aberac.0o.AST">
+      <uzo tip="fak">AST</uzo>
+      <dif>
+        Diferenco inter la &scirc;ajna kaj vera situo de astro.
+      </dif>
+      <trd lng="de">Abweichung</trd>
+      <trdgrp lng="pl">
+        <trd>aberracja<klr> astronomiczna</klr></trd>,
+        <trd>aberracja<klr> gwiezdna</klr></trd>,
+        <trd>pozorne odchylenie<klr> (gwiazdy)</klr></trd>
+      </trdgrp>
+      <trdgrp lng="sk">
+        <trd>odklon</trd>,
+        <trd>odch&yacute;lka</trd>
+      </trdgrp>
+    </subsnc>
+    <subsnc mrk="aberac.0o.FIZ">
+      <uzo tip="fak">FIZ</uzo>
+      <dif>
+        Disperso de la lumradioj, kiu kontra&ubreve;staras la
+        formi&gcirc;on de preciza bildo.
+      </dif>
+    </subsnc>
+    <subsnc mrk="aberac.0o.FOT">
+      <uzo tip="fak">FOT</uzo>
+      <dif>
+        Malperfekto de bildo misformita de optika sistemo.
+      </dif>
+      <trd lng="de">Abbildungsunsch&auml;rfe</trd>
+      <trdgrp lng="pl">
+        <trd>aberracja<klr> &sacute;wiat&lstroke;a</klr></trd>,
+        <trd>aberracja<klr> uk&lstroke;adu optycznego</klr></trd>
+      </trdgrp>
+      <trd lng="sk">chyba <klr>(&scaron;o&scaron;ovky)</klr></trd>
+    </subsnc>
+    <subsnc mrk="aberac.0o.MED">
+      <uzo tip="fak">MED</uzo>
+      <dif>
+        Devio disde la normala tipo.
+      </dif>
+      <trd lng="pl">ob&lstroke;&eogonek;d</trd>
+    </subsnc>
+  </snc>
+  <trdgrp lng="pl">
+    <trd>aberracja</trd>,
+    <trd>zboczenie</trd>,
+    <trd>odchylenie</trd>
+  </trdgrp>
+  <trd lng="be">&c_a;&c_b;&c_e;&c_r;&c_a;&c_c;&c_y;&c_ja;</trd>
+  <trd lng="br">aberradenn</trd>
+  <trd lng="ca">aberraci&oacute;</trd>
+  <trd lng="de">Aberration</trd>
+  <trd lng="en">aberration</trd>
+  <trd lng="es">aberraci&oacute;n</trd>
+  <trd lng="fa">&a_A;&a_b;&f_y;&a_r;&a_A;&a_h;&f_y;</trd>
+  <trd lng="fr">aberration</trd>
+  <trdgrp lng="nl">
+    <trd>afwijking</trd>,
+    <trd>aberratie</trd>
+  </trdgrp>
+  <trd lng="hu">aberr&aacute;ci&oacute;</trd>
+  <trd lng="it">aberrazione</trd>
+  <trd lng="pt">aberra&ccedil;&atilde;o</trd>
+  <trd lng="ru">&c_a;&c_b;&c_je;&c_r;&c_r;&c_a;&c_c;&c_i;&c_ja;</trd>
+</drv>
+</art>
+<!--
+$Log: aberac.xml,v $
+Revision 1.30  2015/07/04 08:37:29  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.29  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.28  2012/08/23 09:10:12  revo
+Sebastian Cyprych: korekto de pola traduko
+
+Revision 1.27  2012/08/22 09:10:20  revo
+Marc Rausell: ++ trd ca
+
+Revision 1.26  2011/01/17 16:10:12  revo
+Antonio Codazzi: +trd it
+
+Revision 1.25  2010/07/10 16:30:33  revo
+Agustin Garcia Lopez: +trd es (-i)
+
+Revision 1.24  2010/06/28 17:53:09  revo
+Guillem Sevilla: +trd ca
+
+Revision 1.23  2009/06/16 16:32:09  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.22  2008/09/11 16:30:37  revo
+Jeromo Vasxe: kor stl/sci -> fak sci
+
+Revision 1.21  2008/09/04 19:07:51  revo
+-->
+</vortaro>

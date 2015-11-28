@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: helm.xml,v 1.15 2015/07/04 08:37:35 revo Exp $">
+<kap>
+  <rad>helm</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+
+<drv mrk="helm.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="helm.0o.TEKS">
+    <uzo tip="fak">TEKS</uzo>
+    <dif>
+      Plen<ref tip="super" cel="kask.0o">kasko</ref> kovranta
+      &ccirc;iujn flankojn de la kapo.
+    </dif>
+    <subsnc mrk="helm.0o.ARM">
+      <uzo tip="fak">HIS</uzo>
+      <uzo tip="fak">MIL</uzo>
+      <dif>
+        Tia kapvesto, kiun uzadis batalistoj
+        interalie de e&ubreve;ropa malfrua mezepoko:
+        <ekz>
+          viziero <klr>...</klr>, fiksita al la kasko, donis al la tuto
+          aspekton de kompleta <tld/>o<fnt><bib>DonKihxoto</bib>,
+          <lok>&ccirc;apitro 1a, p. 30a-31a</lok></fnt>.
+        </ekz>
+      </dif>
+    </subsnc>
+    <subsnc mrk="helm.0o.TEK">
+      <uzo tip="fak">TEK</uzo>
+      <dif>
+        Tia kapvesto, parto de
+        <ref tip="malprt" cel="skafandr.0o.TEK">skafandro</ref>:
+        <ekz>
+          super mia lito &gcirc;is nun pendas la <tld/>o,
+          en kiu mi flugis dum la lastaj jaroj
+          <fnt>
+            <aut>M. Korotkov</aut>,
+            <vrk><url ref="http://sezonoj.ru/2013/05/korotkov/">
+            Eksa kosmopiloto</url></vrk>,
+            <lok>La Ondo de Esperanto, 2013:4&ndash;5</lok>
+          </fnt>.
+        </ekz>
+      </dif>
+    </subsnc>
+  </snc>
+  <trd lng="be">&c_sh;&c_l;&c_je;&c_m;</trd>
+  <trd lng="bg">&c_sh;&c_l;&c_je;&c_m;</trd>
+  <trd lng="ca">elm</trd>
+  <trdgrp lng="cs">
+    <trd>helma</trd>,
+    <trd>helmice</trd>,
+    <trd>středověká přilba</trd>
+  </trdgrp>
+  <trd lng="de">Helm</trd>
+  <trd lng="fa">&f_k;&a_l;&a_A;&a_h;&a_kh;&a_w;&a_d;</trd>
+  <trd lng="fr">heaume</trd>
+  <trd lng="hu">lovagsisak</trd>
+  <trd lng="it">elmo</trd>
+  <trd lng="pl">he&lstroke;m</trd>
+  <trd lng="pt">elmo</trd>
+  <trd lng="ru">&c_sh;&c_l;&c_je;&c_m;</trd>
+  <trdgrp lng="sk">
+    <trd>helma</trd>,
+    <trd>prilba</trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log: helm.xml,v $
+Revision 1.15  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.13  2013/06/05 13:10:08  revo
+Jeromo Vasxe: kor. mistajpojn
+
+Revision 1.12  2013/06/01 11:10:08  revo
+Jeromo Vasxe: subsnc + ekz
+
+Revision 1.11  2011/12/04 23:10:29  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.10  2011/09/19 20:10:11  revo
+Wieland Pusch: +trd bg
+
+Revision 1.9  2009/11/28 17:31:16  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.8  2009/09/04 16:30:59  revo
+Antonio Codazzi: +trd it
+
+Revision 1.7  2008/04/22 17:50:16  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.6  2007/07/04 16:30:42  revo
+-->
+</vortaro>

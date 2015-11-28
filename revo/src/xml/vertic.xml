@@ -1,0 +1,149 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: vertic.xml,v 1.31 2015/07/04 08:37:45 revo Exp $">
+<kap>
+<ofc>8</ofc>
+<rad>vertic</rad>/o
+<fnt>Z</fnt>
+</kap>
+<drv mrk="vertic.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <snc>
+    <dif>
+      Rimarkinda <ref tip="super" cel="punkt.0o.spaco">punkto</ref> en
+      <ref cel="figur.geometria0o">geometria figuro</ref>, interalie:
+    </dif>
+    <subsnc mrk="vertic.0o.plurlatero">
+      <fnt><bib>MatTerm</bib><lok>p. 27, pri triangulo</lok></fnt>
+      <dif>
+        <klr>(de <ref tip="malprt"
+        cel="later.plur0o">plurlatero</ref>)</klr>
+        &ccirc;iu <ref tip="super" cel="rand.0o.figuro">rando</ref>
+        de &gcirc;iaj <ref cel="later.0o.streko">lateroj</ref>;
+      </dif>
+    </subsnc>
+    <subsnc mrk="vertic.0o.pluredro">
+      <fnt><bib>MatTerm</bib><lok>p. 30</lok></fnt>
+      <dif>
+        <klr>(de <ref tip="malprt"
+        cel="edr.plur0o">pluredro</ref>)</klr>
+        &ccirc;iu
+        <ref tip="super" cel="vertic.0o.plurlatero">vertico
+        <sncref ref="vertic.0o.plurlatero"/></ref>
+        de &gcirc;iaj <ref cel="fac.0o.pluredro">facoj</ref>;
+      </dif>
+    </subsnc>
+    <subsnc mrk="vertic.0o.konuso">
+      <fnt><bib>MatVort</bib></fnt>
+      <dif>
+        <klr>(de <ref tip="malprt"
+        cel="konus.0o.surfaco">konuso</ref>)</klr>
+        la komuna punkto de &gcirc;iaj naskantoj;
+      </dif>
+    </subsnc>
+    <subsnc mrk="vertic.0o.angulo">
+      <fnt><bib>MatTerm</bib><lok>p. 26</lok></fnt>
+      <dif>
+        <klr>(de <ref cel="angul.0o.figuro">angulo</ref>)</klr>
+        la komuna origino de &gcirc;iaj lateroj.
+      </dif>
+    </subsnc>
+    <trdgrp lng="de">
+      <trd>Scheitel</trd>,
+      <trd>Spitze</trd>
+    </trdgrp>
+    <trd lng="be">&c_v;&c_ja;&c_r;&c_sh;&c_y;&c_n;&c_ja; <klr tip="ind">(&c_g;&c_je;&c_a;&c_m;&c_e;&c_t;&c_r;&c_y;&c_ch;&c_n;&c_a;&c_j;
+    &c_f;&c_ib;&c_g;&c_u;&c_r;&c_y;)</klr></trd>
+    <trd lng="ca">v&egrave;rtex</trd>
+    <trd lng="en">vertex</trd>
+    <trd lng="es">v&eacute;rtice</trd>
+    <trd lng="fr">sommet<klr tip="ind"> (d'une figure
+    g&eacute;ometrique)</klr></trd>
+    <trd lng="nl">top<klr tip="ind"> (v.e.driehoek)</klr></trd>
+    <trd lng="pl">wierzcho&lstroke;ek<klr tip="ind"> (k&aogonek;ta, wielok&aogonek;ta,
+    wielo&sacute;cianu)</klr></trd>
+    <trd lng="ru">&c_v;&c_je;&c_r;&c_sh;&c_i;&c_n;&c_a;</trd>
+  </snc>
+  <snc mrk="vertic.0o.grafeo">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>KompLeks</bib></fnt>
+    <ref tip="vid" cel="grafe.0o.strukturo">grafeo;</ref>
+    <refgrp tip="vid">
+      Ecoj de vertico:
+      <ref cel="incid.0a.grafee">incida</ref>,
+      <ref cel="najbar.0a.grafee">najbara</ref>,
+      <ref cel="izol.0ita.vertico">izolita</ref>.
+    </refgrp>
+    <refgrp tip="vid">
+      Atributoj de vertico:
+      <ref cel="grad.0o.grafea_vertico">grado</ref>,
+      <ref cel="grad.eliraduon0o">elira duongrado</ref>,
+      <ref cel="grad.eniraduon0o">enira duongrado</ref>.
+    </refgrp>
+    <rim>
+      Anstata&ubreve;e trovi&gcirc;as <ctl>nodo</ctl> en
+      <fnt><bib>MatVort</bib></fnt>.
+    </rim>
+    <trdgrp lng="be">
+      <trd>&c_v;&c_ja;&c_r;&c_sh;&c_y;&c_n;&c_ja;</trd>,
+      <trd>&c_v;&c_u;&c_z;&c_je;&c_l;</trd>
+    </trdgrp>
+    <trd lng="ca">node</trd>
+    <trdgrp lng="de">
+      <trd>Knotenpunkt</trd>,
+      <trd>Ecke</trd></trdgrp> 
+    <trdgrp lng="en">
+      <trd>vertex</trd>,
+      <trd>node</trd></trdgrp> 
+    <trdgrp lng="fr">
+      <trd>sommet<klr tip="ind"> (d'un graphe)</klr></trd>,
+      <trd>n&oelig;ud<klr tip="ind"> (d'un graphe)</klr></trd></trdgrp>
+    <trd lng="pl">wierzcho&lstroke;ek<klr tip="ind"> (grafu)</klr></trd>
+    <trdgrp lng="ru">
+      <trd>&c_v;&c_je;&c_r;&c_sh;&c_i;&c_n;&c_a;</trd>,
+      <trd>&c_u;&c_z;&c_je;&c_l;</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="ca">v&egrave;rtex</trd>
+  <trd lng="cs">vrchol <klr>(abstraktního symplexu| polygonu| diagramu)</klr></trd>
+  <trd lng="el">&gamma;&omega;&ny;&jota_ton;&alfa;</trd>
+  <trd lng="hu">cs&uacute;cs</trd>
+  <trd lng="pt">v&eacute;rtice</trd>
+  <trd lng="sk">vrchol uhla</trd>
+</drv>
+</art>
+<!--
+$Log: vertic.xml,v $
+Revision 1.31  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.30  2015/06/28 12:03:50  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.29  2012/08/13 08:10:22  revo
+Marc Rausell: + trd ca
+
+Revision 1.28  2005/12/06 17:32:33  revo
+Raul Salinas Monteagudo: +trd es
+
+Revision 1.27  2005/02/18 17:36:05  revo
+Marc Bavant: kor duobligitan punkton
+
+Revision 1.26  2005/02/02 17:32:42  revo
+Jozefo Horvath: +trd hu
+Revision 1.25  2003/10/25 16:31:06  revo
+Dmitri Gabinski: +trd be
+Revision 1.24  2003/04/21 16:35:17  revo
+Marc Bavant: ~o (figuro): mod klr en trd fr
+Revision 1.23  2003/04/12 16:33:21  revo
+Marc Bavant: ~o (grafeo): mod trd ru
+Revision 1.22  2002/11/30 17:39:17  revo
+Marc Bavant: kor trd pl
+Revision 1.21  2002/10/27 17:13:45  revo
+Marc Bavant: ~o: +trd pl; ~o (grafeo): mod ref cel al grafeo, +rim, +trd
+de, +ref al incida, najbara, grado
+-->
+</vortaro>

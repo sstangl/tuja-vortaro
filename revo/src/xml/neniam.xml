@@ -1,0 +1,110 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: neniam.xml,v 1.24 2015/07/04 08:37:40 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>neniam</rad>
+</kap>
+<drv mrk="neniam.0">
+  <kap><ofc>*</ofc><tld/></kap>
+  <snc>
+    <dif>
+      Adverbo signifanta &leftquot;en neniu ajn tempo&rightquot;:
+      <ekz>
+        mi <tld/> fumis;
+      </ekz>
+      <ekz>
+        oni devas <tld/> mensogi;
+      </ekz>
+      <ekz>
+        <tld/> malfeli&ccirc;o alvenas sola;
+      </ekz>
+      <ekz>
+        mi <tld/> a&ubreve;dis tion;
+      </ekz>
+      <ekz>
+        ni <tld/> plu revidis lin;
+      </ekz>
+      <ekz>
+        la tempo pasinta <tld/> revenos<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        mi <tld/> povos havi plu konfidon al &scirc;i;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FRAZ</uzo>
+        <ind>en la tago de (la) sankta <tld lit="N"/>o</ind>
+        <fnt><bib>PrV</bib></fnt>.
+        <trd lng="fr">&agrave; la <ind>saint-glinglin</ind></trd>
+        <trd lng="nl">met <ind>sint-juttemis</ind></trd>
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="jxauxd">&jcirc;a&ubreve;do</ref>.
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_n;&c_ib;&c_k;&c_o;&c_l;&c_ib;</trd>
+  <trd lng="cs">nikdy</trd>
+  <trdgrp lng="de">
+    <trd>nie</trd>,
+    <trd>niemals</trd>
+  </trdgrp>
+  <trd lng="el">&pi;&omikron_ton;&tau;&epsilon;</trd>
+  <trdgrp lng="en">
+    <trd>never</trd>,
+    <trd>at no <ind>time</ind></trd>,
+    <trd>not <ind>ever</ind></trd>,
+  </trdgrp>
+  <trd lng="es">nunca</trd>
+  <trd lng="fr">jamais</trd>
+  <trdgrp lng="hu">
+    <trd>soha</trd>,
+    <trd>semikor</trd>
+  </trdgrp>
+  <trd lng="nl">nooit</trd>
+  <trd lng="pl">nigdy</trd>
+  <trdgrp lng="pt">
+    <trd>nunca</trd>,
+    <trd>em <klr tip="amb">tempo</klr> algum</trd>
+  </trdgrp>
+  <trd lng="ro">niciodat&abreve;</trd>
+  <trd lng="ru">&c_n;&c_i;&c_k;&c_o;&c_g;&c_d;&c_a;</trd>
+  <trd lng="sk">nikdy</trd>
+  <trd lng="sv">aldrig</trd>
+  <trd lng="vo">nevelo</trd>
+</drv>
+</art>
+<!--
+$Log: neniam.xml,v $
+Revision 1.24  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.23  2015/06/29 16:33:21  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.22  2011/06/25 11:10:16  revo
+Dominique Pelle: jxaudo -> jxauxdo
+
+Revision 1.21  2009/10/15 16:31:22  revo
+Paul Peeraerts: +nl
+
+Revision 1.20  2006/06/11 16:31:52  revo
+Tulio Flores: +tr pt
+
+Revision 1.19  2006/03/08 17:32:23  revo
+Vito Redsky: +trd pl +trd ro
+
+Revision 1.18  2004/10/24 16:32:58  revo
+Marc Bavant: mod ekz pri sankta N~o
+
+Revision 1.17 2003/06/11 17:05:49 revo
+Dmitri Gabinski: +trd be
+
+Revision 1.16 2003/03/12 17:31:45 revo
+Ulrich Fellmann: + 1 trd = vo
+
+Revision 1.15 2002/10/14 16:33:53 revo
+-->
+</vortaro>

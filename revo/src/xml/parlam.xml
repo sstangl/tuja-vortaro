@@ -1,0 +1,152 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: parlam.xml,v 1.17 2015/07/04 08:37:41 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>parlament</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="parlam.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="parlam.0o.POL">
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      Reprezentantaro de la regnanoj, kiu, en konstituciaj landoj, faras
+      le&gcirc;ojn kaj vo&ccirc;donas bu&gcirc;eton:
+      <ekz>
+        interkonsili&gcirc;oj farataj en orda kaj <tld/>a
+        maniero<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_r;&c_l;&c_ja;&c_m;&c_e;&c_n;&c_t;</trd>
+  <trd lng="bg">&c_p;&c_a;&c_r;&c_l;&c_a;&c_m;&c_je;&c_n;&c_t;</trd>
+  <trdgrp lng="cs">
+    <trd>Národní shromáždění</trd>,
+    <trd>parlament</trd>,
+    <trd>sněm</trd>,
+    <trd>sněmovna</trd>
+  </trdgrp>
+  <trd lng="de">Parlament</trd>
+  <trd lng="en">parliament</trd>
+  <trd lng="fa">&f_p;&a_A;&a_r;&a_l;&a_m;&a_A;&a_n;</trd>
+  <trd lng="fr">parlement</trd>
+  <trd lng="hu">parlament</trd>
+  <trd lng="it">parlamento</trd>
+  <trd lng="nl">parlement</trd>
+  <trd lng="pt">parlamento</trd>
+  <trd lng="ru">&c_p;&c_a;&c_r;&c_l;&c_a;&c_m;&c_je;&c_n;&c_t;</trd>
+  <trdgrp lng="sk">
+    <trd>parlament</trd>,
+    <trd>snemovňa</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="parlam.0ano">
+  <kap><tld/>ano</kap>
+  <snc mrk="parlam.0ano.POL">
+    <dif>
+      Ano de <tld/>o:
+      <ekz>
+        Marco Cappato estas la unua <tld/>ano 
+        <klr>...</klr> kiu sukcesis devigi la 
+        EU-parlamenton esprimi sin pri esperanto
+        <fnt>
+          <aut>G. Silfer</aut>,
+          <vrk><url ref="http://www.esperantio.net/index.php?id=883">
+          Nia lingvo 122-jara</url></vrk>,
+          <lok>HeKo, 2009-06-02 (391)</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">parlementaire<klr> (subst.)</klr></trd>
+</drv>
+
+<drv mrk="parlam.0ejo">
+  <kap><tld/>ejo</kap>
+  <snc mrk="parlam.0ejo.POL">
+    <dif>
+      Kunsidejo de <tld/>o:
+      <ekz>
+        en la <tld/>ejo funkcias anka&ubreve; publika biblioteko
+        <fnt>
+          <aut>-</aut>,
+          <vrk><url ref="http://hungario.hu/bp.html">
+          Budapest</url></vrk>,
+          <lok>[vidita en 2006]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>parlament <klr>(budova)</klr></trd>,
+    <trd>sněmovna</trd>
+  </trdgrp>
+  <trd lng="fr">parlement<klr> (b&acirc;timent)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>parlament</trd>,
+    <trd>snemovňa</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="parlam.0ismo">
+  <kap><tld/>ismo</kap>
+  <snc mrk="parlam.0ismo.POL">
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      Re&gcirc;imo de regno, kie registaro dependas de <tld/>o:
+      <ekz>
+        kelkaj regnoj havas <tld/>on, tute ne havante <tld/>isman
+        re&gcirc;imon.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_r;&c_l;&c_ja;&c_m;&c_e;&c_n;&c_t;&c_a;&c_r;&c_y;&c_z;&c_m;</trd>
+  <trdgrp lng="cs">
+    <trd>parlamentní systém</trd>,
+    <trd>parlamentní zřízení</trd>
+  </trdgrp>
+  <trd lng="de">Parlamentarismus</trd>
+  <trd lng="fa">&f_p;&a_A;&a_r;&a_l;&a_m;&a_A;&a_n;&a_t;&a_A;&a_r;&f_y;&a_s;&a_m;</trd>
+  <trd lng="fr">parlementarisme</trd>
+  <trd lng="hu">parlamentarizmus</trd>
+  <trd lng="it">parlamentarismo</trd>
+  <trd lng="nl">parlementarisme</trd>
+  <trd lng="ru">&c_p;&c_a;&c_r;&c_l;&c_a;&c_m;&c_je;&c_n;&c_t;&c_a;&c_r;&c_i;&c_z;&c_m;</trd>
+  <trd lng="sk">parlamentný systém</trd>
+</drv>
+</art>
+<!--
+$Log: parlam.xml,v $
+Revision 1.17  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:40:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.15  2014/11/13 21:10:15  revo
+Jeromo Vasxe: + ~ano ~ejo
+
+Revision 1.14  2014/01/05 13:10:29  revo
+Damien Brucker: +trd fr
+
+Revision 1.13  2010/04/27 16:30:55  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.12  2010/04/24 17:06:30  revo
+Wieland Pusch: +trd bg
+
+Revision 1.11  2010/04/21 16:30:31  revo
+Fabio Bettani: +trd en it
+
+Revision 1.10  2006/02/25 17:32:04  revo
+Tulio Flores: +trd pt
+
+Revision 1.9  2003/07/17 16:32:52  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.8  2002/12/12 17:30:49  revo
+-->
+</vortaro>

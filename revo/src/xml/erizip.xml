@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: erizip.xml,v 1.15 2015/07/04 08:37:33 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>erizipel</rad>/o
+</kap>
+<drv mrk="erizip.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">MED</uzo>
+  <snc>
+    <dif>
+      Infekta <ref tip="lst" cel="san.mal0o.MED"
+      lst="voko:malsanoj">malsano</ref>, karakterizata de febro kaj
+      inflamo de la
+      ha&ubreve;to,
+      precipe kaj plej ofte de la viza&gcirc;a ha&ubreve;to.
+    </dif>
+  </snc>
+  <trd lng="ca">erisipela</trd>
+  <trdgrp lng="cs">
+    <trd>erysipel</trd>,
+    <trd>růže</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Wundrose</trd>,
+    <trd>Erysipel</trd>
+  </trdgrp>
+  <trd lng="es">erisipela</trd>
+  <trdgrp lng="fr">
+    <trd>&eacute;r&eacute;sip&egrave;le</trd>,
+    <trd>&eacute;rysip&egrave;le</trd>
+  </trdgrp>
+  <trd lng="hu">orb&aacute;nc</trd>
+  <trdgrp lng="pl">
+    <trd>r&oacute;&zdot;a</trd>,
+    <trd>r&oacute;&zdot;yczka<klr> (pot.)</klr></trd>
+  </trdgrp>
+  <trd lng="pt">erisipela</trd>
+  <trdgrp lng="ru">
+    <trd>&c_r;&c_o;&c_zh;&c_a;<klr tip="amb">
+    (&c_b;&c_o;&c_l;&c_je;&c_z;&c_n;&c_mol;)</klr></trd>,
+    <trd>&c_r;&c_o;&c_zh;&c_i;&c_s;&c_t;&c_o;&c_je;
+    &c_v;&c_o;&c_s;&c_p;&c_a;&c_l;&c_je;&c_n;&c_i;&c_je;</trd>
+  </trdgrp>
+  <trd lng="sk">ruža</trd>
+</drv>
+</art>
+<!--
+$Log: erizip.xml,v $
+Revision 1.15  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.13  2013/10/09 19:10:46  revo
+Wolfram Diestel: ref al lst malsanoj
+
+Revision 1.12  2010/03/02 17:30:29  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.11  2007/06/28 16:33:38  revo
+Tulio Flores: +tr pt
+
+Revision 1.10  2005/11/24 17:31:12  revo
+Yury Finkel: +trd ru, formatigis
+
+Revision 1.9 2005/04/04 16:32:46 revo
+Raul Salinas Monteagudo: +trd ca,es
+
+Revision 1.8 2003/06/11 17:06:13 revo
+Jozefo Horvath: +trd hu
+
+Revision 1.7 2001/06/27 18:12:10 revo
+Marc Bavant: +trd fr, +uzo MED
+
+Revision 1.6 2001/05/07 16:13:06 revo
+-->
+</vortaro>

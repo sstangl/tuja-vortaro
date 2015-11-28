@@ -1,0 +1,148 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: latv.xml,v 1.13 2015/07/04 08:37:38 revo Exp $">
+<kap>
+    <ofc>8</ofc>
+    <rad>latv</rad>/o
+</kap>
+
+<drv mrk="latv.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="latv.0o.ETNO">
+    <dif>
+      Ano de la <tld/>a etno.
+    </dif>
+  </snc>
+  <snc mrk="latv.0o.ANO">
+    <ref tip="dif" cel="latv.0ujano"><tld lit="L"/>ujano</ref>
+  </snc>
+  <trd lng="bg">&c_l;&c_a;&c_t;&c_v;&c_i;&c_je;&c_c;</trd>
+  <trdgrp lng="cs">
+    <trd>Lotyš</trd>,
+    <trd>Lotyšec</trd>
+  </trdgrp>
+  <trd lng="de">Lette</trd>
+  <trd lng="en">Latvian</trd>
+  <trd lng="fr">Letton<klr> (subst.)</klr></trd>
+  <trd lng="nl">Let</trd>
+  <trd lng="pl">&Lstroke;otysz</trd>
+  <trd lng="pt">let&atilde;o<klr tip="amb"> (subs.)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>Lotyš</trd>,
+    <trd>Lotyš,</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="latv.0a">
+  <kap><tld/>a</kap>
+  <snc>
+    <dif>
+      Rilata al <tld/>oj, ilia etno a&ubreve; &scirc;tato.
+    </dif>
+  </snc>
+  <trd lng="bg">&c_l;&c_a;&c_t;&c_v;&c_i;&c_j;&c_s;&c_k;&c_i;</trd>
+  <trd lng="cs">lotyšský</trd>
+  <trd lng="de">lettisch</trd>
+  <trd lng="en">Latvian</trd>
+  <trd lng="fr">letton<klr> (adj.)</klr></trd>
+  <trd lng="nl">Lets</trd>
+  <trd lng="pl">&lstroke;otewski</trd>
+  <trd lng="pt">let&atilde;o<klr tip="amb"> (adj.)</klr></trd>
+  <trd lng="sk">lotyšský</trd>
+</drv>
+
+<drv mrk="latv.L0ujo">
+  <kap><tld lit="L"/>ujo</kap>
+  <snc mrk="latv.L0ujo.GEOG">
+    <uzo tip="fak">GEOG</uzo>
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      &Scirc;tato situanta en nordoriento de E&ubreve;ropo kaj limanta
+      al Balta Maro, Litovujo, Belorusujo, Rusujo kaj Estonujo.
+    </dif>
+  <ref tip="sin" cel="latvi.L0o">Latvio</ref>
+  </snc>
+  <trd lng="bg">&c_L;&c_a;&c_t;&c_v;&c_i;&c_ja;</trd>
+  <trd lng="de">Lettland</trd>
+  <trd lng="en">Latvia</trd>
+  <trdgrp lng="fr">
+    <trd>Lettonie</trd>,
+    <trd>R&eacute;publique de Lettonie</trd>
+  </trdgrp>
+  <trd lng="id">Latvia</trd>
+  <trd lng="nl">Letland</trd>
+  <trd lng="pl">&Lstroke;otwa</trd>
+  <trdgrp lng="pt">
+    <trd>Let&ocirc;nia</trd>,
+    <trd>Let&oacute;nia</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="latv.0ujano">
+  <kap><tld/>ujano</kap>
+  <snc>
+    <dif>
+      &Scirc;tatano de <tld lit="L"/>ujo sendepende de etno.
+    </dif>
+  </snc>
+  <trd lng="bg">&c_l;&c_a;&c_t;&c_v;&c_i;&c_je;&c_c;</trd>
+  <trd lng="de">Lette</trd>
+  <trd lng="en">Latvian</trd>
+  <trd lng="nl"><ind>Lets</ind> staatsburger</trd>
+  <trd lng="pl">&Lstroke;otysz</trd>
+  <trd lng="pt">let&atilde;o<klr tip="amb"> (subs.)</klr></trd>
+</drv>
+
+<drv mrk="latv.0uja">
+  <kap><tld/>uja</kap>
+  <snc>
+    <dif>
+      Rilata al la &scirc;tato <tld lit="L"/>ujo.
+    </dif>
+  </snc>
+  <trd lng="bg">&c_l;&c_a;&c_t;&c_v;&c_i;&c_j;&c_s;&c_k;&c_i;</trd>
+  <trd lng="de">lettisch</trd>
+  <trd lng="en">Latvian</trd>
+  <trd lng="nl">Lets<klr tip="ind"> (betr.de staat)</klr></trd>
+  <trd lng="pl">&lstroke;otewski</trd>
+</drv>
+
+</art>
+
+<!--
+$Log: latv.xml,v $
+Revision 1.13  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.12  2015/06/29 16:40:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.11  2015/06/29 16:33:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.10  2014/06/09 16:10:58  revo
+Damien Brucker: +trd fr
+
+Revision 1.9  2014/06/04 04:10:42  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.8  2011/02/13 01:10:24  revo
+Luiz Portella: kor. ref k mrk
+
+Revision 1.7  2010/10/26 16:31:42  revo
+Russ Williams: +8OA
+
+Revision 1.6  2009/10/06 16:43:36  revo
+Paul Peeraerts: +nl
+
+Revision 1.5  2009/08/08 16:33:56  revo
+Russ Williams: +trd en
+
+Revision 1.4  2009/06/27 16:31:02  revo
+Sebastian Cyprych: majusklo
+
+Revision 1.3  2009/01/17 18:09:30  revo
+-->
+</vortaro>

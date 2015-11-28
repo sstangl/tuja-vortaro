@@ -1,0 +1,135 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: irigaci.xml,v 1.8 2015/10/14 05:10:23 revo Exp $">
+<kap>
+  <rad>irigaci</rad>/o
+</kap>
+<drv mrk="irigaci.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="irigaci.0o.AGR">
+    <uzo tip="fak">AGR</uzo>
+    <dif>
+      Alkonduko de akvo per tuboj, kanaloj ktp, sur tro sekan grundon:
+      <ekz>
+        in&gcirc;enieroj alportis projektojn de novaj metodoj de l&#8217; <tld/>o
+        <fnt><bib>Far1</bib>, <lok>&ccirc;apitro 18a</lok></fnt>;
+      </ekz>
+      <ekz>
+        en regiono kun montoj unu apud alia kaj tero sterila malfacilas
+        <tld/>o kaj trafiko
+        <fnt>
+        <aut>&Ccirc;ina Radio Internacia</aut>,
+        <vrk><url ref="http://es.chinabroadcast.cn">&Ccirc;inaj
+        naciminoritatoj... (4)</url></vrk>,
+        <lok>2005-09-19</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="bg">&c_n;&c_a;&c_p;&c_o;&c_ja;&c_v;&c_a;&c_n;&c_je;</trd>
+  <trdgrp lng="cs">
+    <trd>n&aacute;lev</trd>,
+    <trd>oplach</trd>,
+    <trd>v&yacute;plach</trd>
+  </trdgrp>
+  <trd lng="de">Bew&auml;sserung</trd>
+  <trd lng="en">irrigation</trd>
+  <trd lng="es">irrigaci&oacute;n</trd>
+  <trd lng="fr">irrigation</trd>
+  <trd lng="hu">&ouml;nt&ouml;z&eacute;s</trd>
+  <trdgrp lng="id">
+    <trd>irigasi</trd>,
+    <trd>pengairan</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>irrigatie</trd>,
+    <trd>bevloeiing</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>irygacja</trd>,
+    <trd>nawodnienie</trd>
+  </trdgrp>
+  <trd lng="pt">irriga&ccedil;&atilde;o</trd>
+  <trdgrp lng="ru">
+    <trd>&c_i;&c_r;&c_r;&c_i;&c_g;&c_a;&c_c;&c_i;&c_ja;</trd>,
+    <trd>&c_o;&c_b;&c_v;&c_o;&c_d;&c_n;&c_je;&c_n;&c_i;&c_je;</trd>,
+    <trd>&c_o;&c_r;&c_o;&c_sh;&c_je;&c_n;&c_i;&c_je;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>n&aacute;lev</trd>,
+    <trd>v&yacute;plach</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="irigaci.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="irigaci.0i.AGR">
+    <dif>
+      Alkonduki akvon sur kulturatan terspacon:
+      <ekz>
+        la aztekaj kanaloj <klr>...</klr> iam <tld/>is la kultivejojn de
+        Tenochtitlan (la malnova nomo de Meksikurbo)
+        <fnt>
+        <aut>A. Orellana Rojas</aut>,
+        <vrk>La Kvina Tutamerika Kongreso</vrk>,
+        <lok><url ref="">5a TAKE, 2001</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="bg">&c_p;&c_o;&c_l;&c_i;&c_v;&c_a;&c_m;</trd>
+  <trdgrp lng="cs">
+    <trd>prov&eacute;st v&yacute;plach</trd>,
+    <trd>vypl&aacute;chnout</trd>
+  </trdgrp>
+  <trd lng="de">bew&auml;ssern</trd>
+  <trd lng="en">to irrigate</trd>
+  <trd lng="es">irrigar</trd>
+  <trd lng="fr">irriguer</trd>
+  <trd lng="hu">&ouml;nt&ouml;z</trd>
+  <trd lng="id">mengairi</trd>
+  <trdgrp lng="nl">
+    <trd>bevloeien</trd>,
+    <trd>irrigeren</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>irygowa&cacute;</trd>,
+    <trd>nawadnia&cacute;</trd>
+  </trdgrp>
+  <trd lng="pt">irrigar</trd>
+  <trdgrp lng="ru">
+    <trd>&c_o;&c_b;&c_v;&c_o;&c_d;&c_n;&c_ja;&c_t;&c_mol;</trd>,
+    <trd>&c_o;&c_r;&c_o;&c_sh;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="sk">zavla&zcaron;ova&tcaron;</trd>
+</drv>
+</art>
+<!--
+$Log: irigaci.xml,v $
+Revision 1.8  2015/10/14 05:10:23  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.7  2015/09/22 15:10:17  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.6  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.5  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.4  2014/06/01 14:10:12  revo
+Joop Eggen: +trd bg id
+
+Revision 1.3  2006/05/04 16:31:59  revo
+Jeromo Vasxe: + kk ekz
+
+Revision 1.2 2005/12/07 17:31:27 revo
+Luiz Portella: +trd pt
+
+Revision 1.1 2004/03/26 17:30:57 revo
+-->
+</vortaro>

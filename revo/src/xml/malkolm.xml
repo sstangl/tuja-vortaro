@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: malkolm.xml,v 1.5 2015/02/26 19:11:36 revo Exp $">
+<kap>
+  <rad>Malkolm</rad>/o
+  <fnt>
+    <bib>NePiv</bib>
+  </fnt>
+</kap>
+
+<drv mrk="malkolm.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="malkolm.0o.NOM">
+    <uzo tip="fak">NOM</uzo>
+    <dif>
+      Vira <ref tip="lst" cel="nom.antaux0o"
+      lst="voko:personaj_nomoj">anta&ubreve;nomo</ref> angladevena:
+      <ekz>
+        Margareta de Skotlando <klr>...</klr> estis kiel edzino de 
+        <tld/>o la 3-a re&gcirc;ino de Skotlando
+        <fnt>
+          <bib>Viki</bib>,
+          <lok><url
+          ref="http://eo.wikipedia.org/wiki/Sankta_Margareta_de_Skotlando">
+          Sankta Margareta de Skotlando</url>, 2010-08-30</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="ca">Malcolm</trd>
+    <trd lng="fr">Malcolm</trd>
+    <trd lng="it">Malcolm</trd>
+    <trd lng="pl">Malkolm</trd>
+  </snc>
+</drv>
+</art>
+
+<!--
+$Log: malkolm.xml,v $
+Revision 1.5  2015/02/26 19:11:36  revo
+Wolfram Diestel: lst antaunomoj
+
+Revision 1.4  2012/01/05 16:10:31  revo
+Marc Rausell: +trd ca (kor)
+
+Revision 1.3  2010/12/10 20:17:39  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.2  2010/10/07 16:30:18  revo
+Fabio Bettani: +trd it
+
+Revision 1.1  2010/10/04 16:30:35  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

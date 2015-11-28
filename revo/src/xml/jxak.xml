@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: jxak.xml,v 1.19 2009/04/06 18:00:39 revo Exp $">
+<kap>
+  <rad>&jcirc;ak</rad>/o
+  <fnt>Z</fnt>
+</kap>
+<drv mrk="jxak.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">TEKS</uzo>
+  <fnt><bib>PV</bib></fnt>
+  <uzo tip="stl">ARK</uzo>
+  <snc>
+    <ref tip="dif" cel="reding.0o">redingoto</ref>
+    <ref tip="vid" cel="jak.0o">jako</ref>
+  </snc>
+  <refgrp tip="hom">
+    Ne konfuzu kun
+    <ref cel="jxak1.0o">&jcirc;ako</ref>
+  </refgrp>
+  <adm>
+    Indus kontroli la Z-econ (informo de PV) kaj la tradukojn
+    de, en, es, hu, ru post la difinsxangxo (la originala PV-a difino estis:
+    Vira ceremonia vesto, kovranta la supran parton de la korpo, de
+    la &scirc;ultroj preska&ubreve; &gcirc;is la genuoj, kaj kiu enhavas
+    baskojn &ccirc;irka&ubreve;antajn tute la korpon).
+    <aut>MB</aut>
+  </adm>
+  <trd lng="be">&c_s;&c_u;&c_r;&c_d;&c_u;&c_t;</trd>
+  <trdgrp lng="de">
+    <trd>Sakko</trd>,
+    <trd>Jackett</trd>
+  </trdgrp>
+  <trd lng="en">topcoat</trd>
+  <trd lng="es">levita</trd>
+  <trdgrp lng="fr">
+    <trd>redingote</trd>,
+    <trd>justaucorps</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>szalonkab&aacute;t</trd>,
+    <trd>ferencj&oacute;ska</trd>
+  </trdgrp>
+  <trdgrp lng="it">
+    <trd>redingote</trd>
+  </trdgrp>
+  <trd lng="pl">surdut</trd>
+  <trd lng="pt">redingote</trd>
+  <trd lng="ru">&c_s;&c_ju;&c_r;&c_t;&c_u;&c_k;</trd>
+</drv>
+</art>
+<!--
+$Log: jxak.xml,v $
+Revision 1.19  2009/04/06 18:00:39  revo
+Antonio Codazzi: +trd it
+
+Revision 1.18  2006/11/04 17:30:22  revo
+Tulio Flores: +tr pt
+
+Revision 1.17  2006/09/15 16:30:52  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.16  2004/11/19 17:31:27  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.15  2004/10/12 16:31:17  revo
+Marc Bavant: konservis nur sencon TEKS, +adm, +uzo ARK, mod ref tip al
+redingoto, -dif
+
+Revision 1.14  2004/10/07 16:31:54  revo
+Jean Hennebert: +trd fr
+
+Revision 1.13 2003/08/29 16:31:54 revo
+Yury Finkel: +trd ru
+
+-->
+</vortaro>

@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: cidoni.xml,v 1.26 2015/07/04 08:37:32 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>cidoni</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="cidoni.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="cidoni.0o.KUI">
+    <uzo tip="fak">KUI</uzo>
+    <dif>
+      Frukto de <tld/>ujo, malmola, uzata ekzemple por konfita&jcirc;oj.
+    </dif>
+    <ref tip="super" cel="frukt.plur0o">plurfrukto</ref>
+  </snc>
+  <trd lng="be">&c_a;&c_j;&c_v;&c_a; <klr tip="amb">(&c_p;&c_l;&c_o;&c_d;)</klr></trd>
+  <trd lng="bg">&c_d;&c_ju;&c_l;&c_ja;</trd>
+  <trd lng="br">aval-stoub</trd>
+  <trdgrp lng="cs">
+    <trd>cydónie <klr>(plod)</klr></trd>,
+    <trd>kdoule</trd>
+  </trdgrp>
+  <trd lng="de">Quitte<klr tip="ind"> (Frucht)</klr></trd>
+  <trd lng="el">&kappa;&ypsilon;&delta;&omega_ton;&ny;&jota;</trd>
+  <trd lng="en">quince</trd>
+  <trd lng="fr">coing</trd>
+  <trd lng="hu">birsalma</trd>
+  <trdgrp lng="it">
+    <trd>mela <klr>cotogna</klr></trd>
+    <trd>pera <klr>cotogna</klr></trd>
+  </trdgrp>
+  <trd lng="nl">kweepeer</trd>
+  <trd lng="pl">pigwa<klr> (owoc)</klr></trd>
+  <trd lng="pt">marmelo</trd>
+  <trd lng="ru">&c_a;&c_j;&c_v;&c_a; <klr>(&c_p;&c_l;&c_o;&c_d;)</klr></trd>
+  <trd lng="sk">dula <klr>(plod)</klr></trd>
+</drv>
+
+<drv mrk="cidoni.0arbo">
+  <kap><tld/>arbo,
+  <var><kap><tld/>ujo</kap></var></kap>
+  <snc mrk="cidoni.0arbo.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      Arbo kun pir- a&ubreve; pomsimilaj flavaj lanug&scirc;elaj fruktoj;
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:botanikaj_genroj">genro</ref> el familio <ref
+      tip="malprt" cel="rozac.0oj">rozacoj</ref>
+      (<trd lng="la">Cydonia</trd>):
+      <ekz>
+        la pirujo estas multe pli facile greftebla
+        sur <tld/>ujo <klr>...</klr>, ol sur pomujo
+        <fnt><bib>OriginoDeSpecioj</bib>, <lok>&ccirc;apitro 8a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_a;&c_j;&c_v;&c_a;<klr tip="amb"> (&c_d;&c_r;&c_e;&c_v;&c_a;)</klr></trd>
+  <trd lng="bg">&c_d;&c_ju;&c_l;&c_ja;</trd>
+  <trd lng="br">avalenn-stoub</trd>
+  <trdgrp lng="cs">
+    <trd>cydónie</trd>,
+    <trd>kdouloň obecná</trd>
+  </trdgrp>
+  <trd lng="de">Quitte<klr tip="ind"> (Baum)</klr></trd>
+  <trd lng="el">&kappa;&ypsilon;&delta;&omega;&ny;&jota;&alfa_ton;</trd>
+  <trd lng="en">quince</trd>
+  <trd lng="fr">cognassier</trd>
+  <trd lng="hu">birsalmafa</trd>
+  <trd lng="it">cotogno</trd>
+  <trd lng="nl">kweepeer</trd>
+  <trd lng="pl">pigwa<klr> (drzewo)</klr></trd>
+  <trd lng="pt">marmeleiro</trd>
+  <trd lng="ru">&c_a;&c_j;&c_v;&c_a; <klr>(&c_d;&c_je;&c_r;&c_je;&c_v;&c_o;)</klr></trd>
+  <trd lng="sk">dula <klr>(strom)</klr></trd>
+</drv>
+</art>
+<!--
+$Log: cidoni.xml,v $
+Revision 1.26  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.25  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.24  2013/12/01 20:10:16  revo
+Jessica Grasso: +tr en
+
+Revision 1.23  2013/08/30 14:10:43  revo
+Wolfram Diestel: kor. lst-ref
+
+Revision 1.22  2013/08/29 07:10:31  revo
+Wolfram Diestel: referenco al listo bot genroj, spicoj
+
+Revision 1.21  2013/05/10 17:10:08  revo
+Joop Eggen: +trd cs
+
+Revision 1.20  2012/10/05 20:10:11  revo
+Jeromo Vasxe: + ekz
+
+Revision 1.19  2012/04/09 17:10:09  revo
+Wieland Pusch: +trd bg
+
+Revision 1.18  2012/04/01 10:10:10  revo
+Joop Eggen: +trd nl
+
+Revision 1.17  2009/08/08 16:32:41  revo
+-->
+</vortaro>

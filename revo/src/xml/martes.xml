@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: martes.xml,v 1.20 2015/07/04 08:37:39 revo Exp $">
+<kap>
+  <rad>martes</rad>/o
+</kap>
+
+<drv mrk="martes.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="martes.0o.ZOO_genro">
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:zoologiaj_genroj">Genro</ref> el familio <ref
+      tip="malprt"
+      cel="mustel1.0oj">musteledoj</ref>
+      (<trd lng="la">Martes</trd>), al kiu apartenas
+      <refgrp tip="sub">
+        <ref cel="foin.0o">foino</ref>,
+        <ref cel="martes.0o.ZOO_specio">marteso <sncref/></ref>,
+        <ref cel="zibel.0o">zibelo</ref>.
+      </refgrp>
+    </dif>
+    <trd lng="ca">mart</trd>
+    <trd lng="pl">kuna</trd>
+  </snc>
+  <snc mrk="martes.0o.ZOO_specio">
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      <ref tip="lst" cel="speci.0o.BIO" 
+      lst="voko:zoologiaj_specioj">Specio</ref> de <ref tip="super" 
+      cel="martes.0o.ZOO_genro">marteso
+      <sncref/></ref> (<trd lng="la">Martes martes</trd>), malgranda
+      <ref tip="lst" cel="best.rabo0o"
+      lst="voko:rabobestoj">rabobesto</ref>
+      kun flava brustmakulo, &ccirc;asanta birdojn, sciurojn kaj aliajn en
+      arboj.
+    </dif>
+    <trd lng="ca">mart com&uacute;</trd>
+    <trd lng="cs">kuna lesn&iacute;</trd>
+    <trd lng="de">Baummarder</trd>
+    <trdgrp lng="fr">
+      <trd>marte</trd>,
+      <trd>martre</trd>
+    </trdgrp>
+    <trd lng="it">martora</trd>
+    <trd lng="nl">boommarter</trd>
+    <trd lng="pl">kuna le&sacute;na</trd>
+  </snc>
+  <trd lng="be">&c_k;&c_u;&c_n;&c_ib;&c_c;&c_a;</trd>
+  <trd lng="bg">&c_b;&c_ja;&c_l;&c_k;&c_a;</trd>
+  <trd lng="cs">kuna</trd>
+  <trd lng="de">Marder</trd>
+  <trd lng="en">marten</trd>
+  <trd lng="hu">nyuszt</trd>
+  <trd lng="id">martes</trd>
+  <trd lng="nl">marter</trd>
+  <trd lng="pt">marta <klr>(zool.)</klr></trd>
+  <trd lng="ru">&c_k;&c_u;&c_n;&c_i;&c_c;&c_a;</trd>
+  <trd lng="sk">kuna</trd>
+</drv>
+</art>
+<!--
+$Log: martes.xml,v $
+Revision 1.20  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:33:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2014/11/09 10:10:27  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.17  2014/04/08 09:10:13  revo
+Joop Eggen: +trd bg en
+
+Revision 1.16  2013/10/21 18:10:13  revo
+Wolfram Diestel: ref al lst rabobestoj, prilaboris dif
+
+Revision 1.15  2013/09/23 06:10:15  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.14  2013/09/08 19:11:02  revo
+Wolfram Diestel: kor. lst-ref
+
+Revision 1.13  2013/09/01 16:10:29  revo
+Wolfram Diestel: referenco al listo zoo genroj
+
+Revision 1.12  2011/12/06 11:10:28  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.11  2007/06/01 16:31:39  revo
+-->
+</vortaro>

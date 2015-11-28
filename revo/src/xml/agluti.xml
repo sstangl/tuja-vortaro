@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: agluti.xml,v 1.22 2015/07/04 08:37:29 revo Exp $">
+<kap>
+  <rad>aglutin</rad>/i
+  <fnt>Z</fnt>
+</kap>
+<drv mrk="agluti.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="agluti.0i.KEM">
+    <uzo tip="fak">BIO</uzo>
+    <uzo tip="fak">KEM</uzo>
+    <uzo tip="fak">MED</uzo>
+    <dif>
+      Kunigi gluecajn substancojn.
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_s;&c_k;&c_l;&c_je;&c_j;&c_v;&c_a;&c_c;&c_mol;</trd>,
+      <trd>&c_p;&c_r;&c_y;&c_k;&c_l;&c_je;&c_j;&c_v;&c_a;&c_c;&c_mol;</trd>
+    </trdgrp>
+    <trd lng="de">verkleben</trd>
+    <trd lng="en">agglutinate</trd>
+    <trd lng="es">aglutinar</trd>
+    <trd lng="it">agglutinare</trd>
+    <trd lng="nl">doen <ind>samenkleven</ind></trd>
+    <trdgrp lng="pl">
+      <trd>zlepia&cacute;</trd>,
+      <trd>skleja&cacute;</trd>
+    </trdgrp>
+    <trd lng="pt">aglutinar</trd>
+    <trd lng="ru">&c_s;&c_k;&c_l;&c_je;&c_i;&c_v;&c_a;&c_t;&c_mol;</trd>
+    <trdgrp lng="sv">
+      <trd><ind>klistra</ind> ihop</trd>,
+      <trd><ind>foga</ind> samman</trd>
+    </trdgrp>
+    <trdgrp lng="tr">
+      <trd>yap&inodot;&scedil;t&inodot;rmak</trd>,
+      <trd>biti&scedil;tirmek</trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>aglutinovat</trd>,
+    <trd>shlukovat se</trd>,
+    <trd>spojovat</trd>
+  </trdgrp>
+  <trd lng="fr">agglutiner</trd>
+  <trd lng="sk">spájať nemenné morfémy</trd>
+</drv>
+
+<drv mrk="agluti.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="agluti.0a.LIN">
+    <uzo tip="fak">LIN</uzo>
+    <dif>
+      Karakterizas tian
+      <ref tip="malprt" cel="vort.0farado">vortfaradon</ref>,
+      ke unue, la limoj de la kunmetitaj elementoj restas evidentaj
+      kaj klare konsciataj:
+      <ekz>
+        la uzbeka <klr>lingvo</klr> perdis la vokalan harmonion
+        kutiman por la lingvoj <tld/>aj
+        <fnt>
+        <aut>Sergio Pokrovskij</aut>,
+        <bib>LOdE</bib>, <lok>1999, numero 7 (57).</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Esperanto estas <tld/>a lingvo.
+      </ekz>
+    </dif>
+    <ref tip="ant" cel="fand.kun0o">kunfando</ref>
+    <rim>
+      Alia ofte implicata trajto de <tld/>a fleksiado estas ke &ccirc;iuj
+      fleksiiloj esprimas po unu gramatikan signifon; ekzemple en
+      <ctl>amikojn</ctl> la fina&jcirc;o <ctl>j</ctl> esprimas nur
+      nombron, kaj <ctl>n</ctl> &#8208; nur kazon; dum en la rusa
+      <ctl>&c_d;&c_r;&c_u;&c_z;&c_je;&c_j;</ctl>, la sola fina&jcirc;o <ctl>&c_je;&c_j;</ctl>
+      esprimas amba&ubreve; kategoriojn kune.
+    </rim>
+    <trd lng="be">&c_a;&c_g;&c_l;&c_ju;&c_t;&c_y;&c_n;&c_a;&c_t;&c_y;&c_w;&c_n;&c_y;</trd>
+    <trd lng="de">agglutinierend</trd>
+    <trd lng="en">agglutinative</trd>
+    <trd lng="es">aglutinante</trd>
+    <trd lng="it">agglutinante</trd>
+    <trd lng="nl">agglutinerend</trd>
+    <trd lng="pl">aglutynacyjny</trd>
+    <trd lng="pt">aglutinante</trd>
+    <trd lng="ru">&c_a;&c_g;&c_g;&c_l;&c_ju;&c_t;&c_i;&c_n;&c_a;&c_t;&c_i;&c_v;&c_n;&c_y;&c_j;</trd>
+    <trd lng="sv">agglutinerande</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>aglutinační</trd>,
+    <trd>slučovací <klr>(jazykově)</klr></trd>
+  </trdgrp>
+  <trd lng="fr">agglutinatif</trd>
+  <trd lng="sk">aglutinačný <klr>(jazyk)</klr></trd>
+</drv>
+</art>
+<!--
+$Log: agluti.xml,v $
+Revision 1.22  2015/07/04 08:37:29  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.21  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.20  2014/09/18 07:10:18  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.19  2011/11/18 10:10:10  revo
+Antonio Codazzi: + trd it
+
+Revision 1.18  2009/08/25 16:32:38  revo
+Emmanuel Debanne: +trd tr
+
+Revision 1.17  2009/03/02 17:30:36  revo
+Jerano Zachrisson: +trd sv
+
+Revision 1.16  2005/08/18 16:31:15  revo
+Jeromo Vasxe: lok trd fr
+
+Revision 1.15 2002/10/24 19:29:45 revo
+reenmetis erare forigitajn aut, vrk, OndEsp al LOdE
+
+Revision 1.14 2002/10/23 20:37:29 revo
+aktualigo de malnovaj fnt-indikoj enkondukante <bib>
+
+Revision 1.13 2002/09/22 08:15:04 revo
+-->
+</vortaro>

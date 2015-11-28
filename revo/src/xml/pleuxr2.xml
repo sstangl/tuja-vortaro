@@ -1,0 +1,117 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: pleuxr2.xml,v 1.20 2013/11/02 14:10:20 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>ple&ubreve;ronekt</rad>/o
+</kap>
+<drv mrk="pleuxr2.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="pleuxr2.0o.ZOO">
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      Delikatgusta <ref tip="lst" cel="fisx.mar0o"
+      lst="voko:fi&scirc;oj">marfi&scirc;o</ref>
+      kun nesimetria plate ronda korpo, tipaj cirklaj ru&gcirc;etaj a&ubreve; flavaj 
+      makuloj sur la dekstra flanko, sur kiu trovi&gcirc;as anka&ubreve; 
+      amba&ubreve; okuloj, tiel permesante enfosadon en la grundon nur lasante
+      la okulojn nekovritaj;
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:zoologiaj_genroj">genro</ref> el familio <ref
+      tip="malprt"
+      cel="pleuxr3.0oj"><tld/>edoj</ref>
+      (<trd lng="la">Pleuronectes</trd>):
+      <ekz>
+        el la Balta Maro oni &ccirc;erpis haringojn, <tld/>ojn, angilojn
+        kaj foje iom da moruoj
+        <fnt>
+          <aut>Sten Johansson</aut>,
+          <vrk><url
+          ref="http://www.angelfire.com/ok/stenjo/hitu.html">Hitler,
+          Ma&ubreve;, Strindberg kaj mi</url></vrk>,
+          <lok>1996</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_k;&c_a;&c_m;&c_b;&c_a;&c_l;&c_a;</trd>
+  <trd lng="ca">palaia</trd>
+  <trd lng="de">Scholle</trd>
+  <trdgrp lng="en">
+    <trd>flatfish</trd>,
+    <trd>flounder</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>carrelet</trd>,
+    <trd>pleuronecte</trd>,
+    <trd>plie<klr> (poisson)</klr></trd>
+  </trdgrp>
+  <trd lng="hu">lep&eacute;nyhal</trd>
+  <trdgrp lng="nl">
+    <trd>platvis</trd>,
+    <trd>schol</trd>
+  </trdgrp>
+  <trd lng="pl">fl&aogonek;dra</trd>
+  <trd lng="pt">pleuronecto</trd>
+  <trd lng="ru">&c_k;&c_a;&c_m;&c_b;&c_a;&c_l;&c_a;</trd>
+</drv>
+
+<drv mrk="pleuxr2.0oformaj">
+  <kap><tld/>oformaj</kap>
+  <snc mrk="pleuxr2.0oformaj.ZOO">
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      Fi&scirc;oj kun plata korpo kaj amba&ubreve; okuloj sur la supra
+      flanko,
+      <ref tip="lst" cel="ord.0o.BIO"
+      lst="voko:zoologiaj_ordoj">ordo</ref> de <ref tip="malprt"
+      cel="fisx.osto0oj">ostofi&scirc;oj</ref>
+      (<trd lng="la">Pleuronectiformes</trd>).
+    </dif>
+  </snc>
+  <trd lng="ca">pleuronectiformes</trd>
+  <trd lng="de">Plattfische</trd>
+  <trd lng="en">flatfish</trd>
+  <trd lng="fr">pleuronectiformes</trd>
+  <trd lng="hu">f&eacute;lszeg&uacute;sz&oacute;-alak&uacute;ak</trd>
+  <trd lng="nl">platvisachtigen</trd>
+  <trdgrp lng="pl">
+    <trd>fl&aogonek;drokszta&lstroke;tne</trd>,
+    <trd>p&lstroke;astudokszta&lstroke;tne</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_k;&c_a;&c_m;&c_b;&c_a;&c_l;&c_y;<klr tip="ind">
+    (&c_o;&c_t;&c_r;&c_ja;&c_d;)</klr></trd>,
+    <trd>&c_k;&c_a;&c_m;&c_b;&c_a;&c_l;&c_o;&c_o;&c_b;&c_r;&c_a;&c_z;&c_n;&c_y;&c_je;
+    <klr tip="amb">(&c_o;&c_t;&c_r;&c_ja;&c_d;)</klr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: pleuxr2.xml,v $
+Revision 1.20  2013/11/02 14:10:20  revo
+Wolfram Diestel: kor. ref-cel
+
+Revision 1.19  2013/10/17 19:10:16  revo
+Wolfram Diestel: ref al lst fisxoj, prilaboris dif
+
+Revision 1.18  2013/09/03 17:10:30  revo
+Wolfram Diestel: referenco al listo zoo genroj
+
+Revision 1.17  2013/08/31 17:10:25  revo
+Wolfram Diestel: ~oformaj: referenco al listo zoo ordoj
+
+Revision 1.16  2011/12/11 15:10:13  revo
+Marc Rausell: +trd ca
+
+Revision 1.15  2009/06/22 16:30:53  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.14  2009/01/22 17:30:58  revo
+Russ Williams: +trd en
+
+Revision 1.13  2006/04/09 17:52:31  revo
+-->
+</vortaro>

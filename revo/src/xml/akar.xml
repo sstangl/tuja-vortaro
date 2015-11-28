@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: akar.xml,v 1.23 2015/07/04 08:37:29 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>akar</rad>/o
+</kap>
+<drv mrk="akar.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc>
+    <dif>
+      Iu el <ref tip="malprt" cel="akar.0oj.ZOO"><tld/>oj</ref>, 
+      kies unu specio vivanta enha&ubreve;te ka&ubreve;zas la 
+      <ref tip="dif" cel="skabi.0o">skabion</ref>.
+    </dif>
+  </snc>
+  <ref tip="sub" cel="iksod.0o">iksodo</ref>
+  <trd lng="be">&c_k;&c_l;&c_je;&c_sh;&c_ch;</trd>
+  <trd lng="bg">&c_k;&c_malmol;&c_r;&c_l;&c_je;&c_zh;</trd>
+  <trd lng="br">pre&ntilde;v ar gal</trd>
+  <trd lng="de">Milbe</trd>
+  <trd lng="en">mite</trd>
+  <trd lng="fr">acarien</trd>
+  <trd lng="he">&qof;&resh;&dalet;&yod;&tav;</trd>
+  <trd lng="hu">atka</trd>
+  <trd lng="nl">mijt</trd>
+  <trd lng="es">&aacute;caro</trd>
+  <trd lng="pt">&aacute;caro</trd>
+  <trd lng="ru">&c_k;&c_l;&c_je;&c_shch;</trd>
+  <trd lng="sk">roztoč svrabový</trd>
+  <trd lng="cs">roztoč</trd>
+</drv>
+
+<drv mrk="akar.0oj">
+  <kap><tld/>oj</kap>
+  <snc mrk="akar.0oj.ZOO">
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      <ref tip="lst" cel="grup.0o.BIO"
+      lst="voko:zoologiaj_grupoj">Grupo</ref>
+      de <ref tip="malprt" cel="arane.0uloj.ZOO">araneuloj</ref>
+      (<trd lng="la">Acari</trd>)
+      kun proksimume 50000 konataj specioj,
+      tre malgrandaj inter 0,1 &gcirc;is kelkaj milimetroj.
+    </dif>
+  </snc>
+</drv>
+
+</art>
+<!--
+$Log: akar.xml,v $
+Revision 1.23  2015/07/04 08:37:29  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.22  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.21  2014/02/12 08:10:15  revo
+Damien Brucker: +sxangxo cxe ref
+
+Revision 1.20  2014/02/11 09:10:13  revo
+Damien Brucker: -tajperaro (+ZOO) cxe cel
+
+Revision 1.19  2013/10/31 13:10:11  revo
+Wolfram Diestel: +~oj
+
+Revision 1.18  2013/10/07 15:11:00  revo
+Wolfram Diestel: ref la lst malsanoj
+
+Revision 1.17  2013/08/02 13:10:12  revo
+Joop Eggen: +trd bg
+
+Revision 1.16  2005/02/20 17:33:55  revo
+Alan ar Gall: + trd br
+
+Revision 1.15  2004/05/18 16:31:59  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.14  2003/02/06 18:16:52  revo
+-->
+</vortaro>

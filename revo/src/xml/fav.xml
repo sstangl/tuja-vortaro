@@ -1,0 +1,197 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: fav.xml,v 1.20 2015/07/04 08:37:34 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>fav</rad>/o
+</kap>
+<drv mrk="fav.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <uzo tip="fak">MED</uzo>
+  <snc>
+    <dif>
+      Konta&gcirc;a <ref tip="lst" cel="san.mal0o.MED"
+      lst="voko:malsanoj">malsano</ref> (<trd lng="la">Favus</trd>),
+      ka&ubreve;zita de fadenfungoj, karakterizata per flavaj krustoj
+      sur la kapha&ubreve;to.
+    </dif>
+    <trdgrp lng="de">
+      <trd>Erbgrind</trd>,
+      <trd>Favus</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>favus</trd>,
+      <trd>ringworm</trd>
+    </trdgrp>
+    <trd lng="es">ti&ntilde;a <klr>f&aacute;vica o favosa</klr></trd> 
+    <trdgrp lng="fr">
+      <trd>favus</trd>,
+      <trd>teigne favique</trd>
+    </trdgrp>
+    <trdgrp lng="nl">
+      <trd>favus</trd>,
+      <trd>kletskop<klr tip="ind"> (ziekte)</klr></trd>
+    </trdgrp>
+  </snc>
+  <snc>
+    <dif>
+      Similaj malsanoj de la kapha&ubreve;to.
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="skabi.0o">skabio</ref>,
+      <ref cel="plik.0o">pliko</ref>.
+    </refgrp>
+    <trd lng="fr">teigne<klr tip="ind"> (maladie)</klr></trd>
+  </snc>
+  <adm>
+    PIV1 difinas iom pli precize kaj uzas referencon al la
+    faka termino "tinio", kiu ne ekzistas en Revo. <aut>MB</aut>
+  </adm>
+  <trdgrp lng="de">
+    <trd>Grind</trd>,
+    <trd>Grindflechte</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>kosz<klr tip="ind"> (betegs&eacute;g)</klr></trd>,
+    <trd>favus</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>tinha</trd>,
+    <trd>porrigem</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_a;&c_r;&c_sh;&c_a;</trd>,
+    <trd>&c_l;&c_i;&c_sh;&c_a;&c_j;</trd>
+  </trdgrp>
+  <trd lng="sk">prašina</trd>
+  <trd lng="cs">prašivina</trd>
+</drv>
+
+<drv mrk="fav.0a">
+  <kap><tld/>a</kap>
+  <snc>
+    <dif>
+      De <tld/>o:
+      <ekz>
+        <tld/>aj krustoj.
+      </ekz>
+    </dif>
+    <trdgrp lng="en">
+      <trd>scabby</trd>,
+      <trd>verminous</trd>
+    </trdgrp>
+    <trd lng="fr">favique</trd>
+    <trd lng="hu">kosz-</trd>
+    <trd lng="ru">&c_f;&c_a;&c_v;&c_o;&c_z;&c_n;&c_y;&c_j;</trd>
+  </snc>
+  <snc>
+    <dif>
+      Malsana pro <tld/>o:
+      <ekz>
+        unu <tld/>a &scirc;afo tutan &scirc;afaron
+        infektas<fnt><bib>PrV</bib></fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="en">
+      <trd>scabby</trd>,
+      <trd>verminous</trd>
+    </trdgrp>
+    <trd lng="es">ti&ntilde;oso</trd> 
+    <trd lng="fr">teigneux<klr tip="ind"> (atteint de
+    teigne)</klr></trd>
+    <trd lng="hu">koszos</trd>
+    <trdgrp lng="ru">
+      <trd>&c_p;&c_a;&c_r;&c_sh;&c_i;&c_v;&c_y;&c_j;</trd>,
+      <trd>&c_sh;&c_je;&c_l;&c_u;&c_d;&c_i;&c_v;&c_y;&c_j;</trd>
+    </trdgrp>
+  </snc>
+  <snc>
+    <fnt><bib>KrED</bib></fnt>
+    <dif>
+      Uzata kiel fivorto.
+    </dif>
+    <trdgrp lng="de">
+      <trd>lausig</trd>,
+      <trd>r&auml;udig</trd>
+    </trdgrp>
+    <trd lng="en">scurvy</trd>
+    <trdgrp lng="hu">
+      <trd>mocskos</trd>,
+      <trd>r&uuml;hes</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_p;&c_a;&c_r;&c_sh;&c_i;&c_v;&c_y;&c_j;</trd>,
+      <trd>&c_sh;&c_je;&c_l;&c_u;&c_d;&c_i;&c_v;&c_y;&c_j;</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="cs">prašivý</trd>
+  <trd lng="sk">prašivý</trd>
+</drv>
+
+<drv mrk="fav.0ulo">
+  <kap><tld/>ulo</kap>
+  <snc>
+    <dif>
+      Malsanulo pro <tld/>o.
+    </dif>
+    <trd lng="de">Grindkranker</trd>
+    <trd lng="fr">teigneux<klr tip="ind"> (subst.)</klr></trd>
+  </snc>
+  <snc>
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Fihomo.
+    </dif>
+    <adm>
+      Indus precizigi, se eblas, en kio konsistas la fieco. La
+      franca vorto "teigne" aludas pri koleremo kaj maliceco.
+      Mi ne scias, cxu tio estas la intenco en E. La franca
+      traduko estas do provizora. <aut>MB</aut>
+    </adm>
+    <trd lng="de">r&auml;udiger Hund</trd>
+    <trd lng="en">scurvy rascal</trd>
+    <trd lng="fr">teigne<klr tip="ind"> (personne)</klr></trd>
+    <trd lng="ru">&c_p;&c_a;&c_r;&c_sh;&c_i;&c_v;&c_je;&c_c;</trd>
+  </snc>
+  <trd lng="cs">prašivec</trd>
+  <trdgrp lng="es">
+     <trd>ti&ntilde;oso <klr>(insulto o enfermo de ti&ntilde;a)</klr></trd>,
+     <trd>bac&iacute;n <klr>(insulto)</klr></trd>
+    </trdgrp>
+  <trd lng="sk">prašivec</trd>
+</drv>
+</art>
+<!--
+$Log: fav.xml,v $
+Revision 1.20  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2013/10/09 19:10:47  revo
+Wolfram Diestel: ref al lst malsanoj
+
+Revision 1.17  2011/09/09 11:10:08  revo
+Carlos Garcia: +trd es
+
+Revision 1.16  2008/11/25 17:30:22  revo
+Wieland Pusch: entoj por unikodo
+
+Revision 1.15  2008/11/09 17:30:39  revo
+Russ Williams: +trd en
+
+Revision 1.14  2007/05/19 17:02:29  revo
+Tulio Flores: +tr pt
+
+Revision 1.13  2005/05/20 16:35:34  revo
+Yury Finkel: +trd ru
+
+Revision 1.12 2003/09/24 16:31:16 revo
+Jozefo Horvath: +trd hu
+
+Revision 1.11 2002/09/09 19:45:22 revo
+-->
+</vortaro>

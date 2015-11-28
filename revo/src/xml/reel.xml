@@ -1,0 +1,162 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: reel.xml,v 1.25 2015/07/04 08:37:42 revo Exp $">
+<kap>
+  <rad>reel</rad>/o
+</kap>
+<drv mrk="reel.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="reel.0o.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>SPIV</bib></fnt>
+    <dif>
+      &Ccirc;ia <ref tip="super" cel="nombr.0o.MAT">nombro</ref>
+      prezentebla per sumo de entjero kaj
+      <ref cel="frakci.pozicia0o">pozicia frakcio</ref>:
+      <ekz>
+        &ccirc;iu <ref tip="sub" cel="racion.0o">racionalo</ref> estas 
+        anka&ubreve; <tld/>o;
+      </ekz>
+      <ekz>
+        <frm>&#8730;2</frm> <klr>(la kvadrata radiko de <frm>2</frm>)</klr>
+        estas <tld/>o neracionala;
+      </ekz>
+      <ekz>
+        la nombro <frm>&pi;</frm> estas <tld/>o, prezentebla per la
+        sumo de 3 kaj de senfina dekuma frakcio komenci&gcirc;anta per
+        <frm>0,14159...</frm> 
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      Atributoj de reelo:
+      <ref cel="part.entjera0o">entjera parto</ref>,
+      <ref cel="part.frakcia0o">frakcia parto</ref>.
+    </refgrp>
+    <rim>
+      Ankora&ubreve; troveblas <ctl>reala nombro</ctl> en
+      <fnt><bib>PIV1</bib></fnt>, sed <ctl><tld/>o</ctl> anstata&ubreve;is 
+      &gcirc;in. Eblas difini la <tld/>ojn pli rigore, kiel 
+      ekvivalento-klasojn de racionalaj 
+      <ref cel="vic.kosxia0o">ko&scirc;iaj vicoj</ref> rilate
+      konver&gcirc;on al nulo de ilia diferenco.
+    </rim>
+    <trdgrp lng="be">
+      <trd>&c_r;&c_e;&c_ch;&c_a;&c_ib;&c_s;&c_n;&c_y; &c_l;&c_ib;&c_k;</trd>,
+      <trd>&c_s;&c_a;&c_p;&c_r;&c_a;&c_w;&c_d;&c_n;&c_y; &c_l;&c_ib;&c_k;</trd>
+    </trdgrp>
+    <trd lng="en">real <ind>number</ind></trd>
+    <trd lng="de">reelle <ind>Zahl</ind></trd>
+    <trdgrp lng="fr">
+      <trd>r&eacute;el<klr tip="ind"> (nombre)</klr></trd>,
+      <trd>nombre r&eacute;el</trd>
+    </trdgrp>
+    <trd lng="hu">val&oacute;s <ind>sz&aacute;m</ind></trd>    
+    <trd lng="nl">re&euml;el <ind>getal</ind></trd>
+    <trd lng="pl">liczba rzeczywista</trd>
+    <trdgrp lng="ru">
+      <trd>&c_v;&c_je;&c_shch;&c_je;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_o;&c_je;
+      <ind>&c_ch;&c_i;&c_s;&c_l;&c_o;</ind></trd>,
+      <trd>&c_d;&c_je;&c_j;&c_s;&c_t;&c_v;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_o;&c_je;
+      <ind>&c_ch;&c_i;&c_s;&c_l;&c_o;</ind></trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="reel.0o.KOMP">
+    <uzo tip="fak">KOMP</uzo>
+    <dif>
+      En programlingvoj, <ref cel="racio5.0o">raciono</ref> uzata
+      por aproksimi reelan grandon.
+    </dif>
+    <ref tip="super" cel="tip.datum0o">datumtipo</ref>
+    <trd lng="be">&c_r;&c_e;&c_ch;&c_a;&c_ib;&c_s;&c_n;&c_y; &c_l;&c_ib;&c_k;</trd>
+    <trd lng="fr">r&eacute;el<klr tip="ind"> (subst., informatique)</klr></trd>
+    <trd lng="hu">val&oacute;s <ind>sz&aacute;m</ind></trd>    
+    <trd lng="ru">&c_v;&c_je;&c_shch;&c_je;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_o;&c_je; &c_ch;&c_i;&c_s;&c_l;&c_o;</trd>
+  </snc>
+  <trd lng="cs">reálné číslo</trd>
+  <trd lng="sk">reálne číslo</trd>
+</drv>
+
+<drv mrk="reel.0a">
+  <kap><tld/>a</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>SPIV</bib></fnt>
+  <uzo tip="fak">KOMP</uzo>
+  <snc>
+    <dif>
+      Rilata al <ref cel="reel.0o.MAT"><tld/>o</ref>, estanta <tld/>o:
+      <ekz>
+        <tld/>a nombro <klr>(<tld/>o)</klr>,
+      </ekz>
+      <ekz>
+        variablo,
+      </ekz>
+      <ekz>
+        funkcio <klr>(kies valoroj estas <tld/>aj)</klr>,
+      </ekz>
+      <ekz>
+        rekto <klr>(rekto en la kompleksa
+        ebeno, figuranta la <tld/>ajn nombrojn)</klr>,
+      </ekz>
+      <ekz>
+        <ref cel="spac.vektora0o">vektora spaco</ref> <klr>(super la korpo de
+        <tld/>oj)</klr>;
+      </ekz>
+      <ekz>
+        <ref cel="part.reela0o">reela parto</ref> de komplekso.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_r;&c_e;&c_ch;&c_a;&c_ib;&c_s;&c_n;&c_y;</trd>,
+    <trd>&c_s;&c_a;&c_p;&c_r;&c_a;&c_w;&c_d;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trd lng="en">real</trd>
+  <trd lng="de">reell</trd>
+  <trd lng="fr">r&eacute;el<klr tip="ind"> (adj., math., informatique)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>val&oacute;s</trd>,
+    <trd>val&oacute;di</trd>
+  </trdgrp>
+  <trd lng="nl">re&euml;el</trd>
+  <trd lng="pl">rzeczywisty</trd>
+  <trdgrp lng="ru">
+    <trd>&c_v;&c_je;&c_shch;&c_je;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>,
+    <trd>&c_d;&c_je;&c_j;&c_s;&c_t;&c_v;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: reel.xml,v $
+Revision 1.25  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.24  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.23  2004/09/02 16:32:14  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.22  2004/02/26 17:31:30  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.21  2003/03/23 17:33:46  revo
+Marc Bavant: ~a: kor trd de
+
+Revision 1..20  2003/01/02 17:50:32  revo
+Marc Bavant: +ref internaj
+Revision 1.19  2002/11/30 17:37:51  revo
+Marc Bavant: +frm, +trd pl
+Revision 1.18  2002/05/20 16:35:45  revo
+Marc Bavant: ~o MAT: mod ekz
+Revision 1.17  2002/05/12 16:37:21  revo
+Marc Bavant: ~a: +fnt, +trd de/en/ru
+Revision 1.16  2002/05/03 16:33:01  revo
+Marc Bavant: ~o: mod rim, sxovis rim, -ref, +ekz; ~a: mod dif, kor k splitis ekz
+Revision 1.15 2001/09/16 18:49:51 revo
+Marc Bavant: +ref al entjera k frakcai partoj
+Revision 1.14 2001/08/27 18:16:20 revo
+-->
+</vortaro>
+

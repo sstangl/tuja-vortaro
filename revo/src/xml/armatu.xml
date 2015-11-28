@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: armatu.xml,v 1.16 2015/07/04 08:37:30 revo Exp $">
+<kap>
+  <rad>armatur</rad>/o
+</kap>
+<drv mrk="armatu.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="armatu.0o.en_masonajxo">
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      Metalaj stangoj, pecoj a&ubreve; fadenoj, kiuj plifortikigas
+      masona&jcirc;on, &ccirc;arpenta&jcirc;on, fanda&jcirc;on a&ubreve;
+      iun ajn ferlaboron.
+    </dif>
+    <trd lng="en">rebar</trd>
+    <trdgrp lng="hu">
+      <trd>vasal&aacute;s</trd>,
+      <trd>armat&uacute;ra</trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>armatura</trd>,
+      <trd>zbrojenie</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="armatu.0o.cxarpentajxo">
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      &Ccirc;arpenta&jcirc;o, kiu subtenas konstrua&jcirc;on dum
+      konstruado.
+    </dif>
+    <trd lng="hu">tart&oacute;szerkezet</trd>
+    <trdgrp lng="pl">
+      <trd>armatura</trd>,
+      <trd>szalowanie</trd>,
+      <trd>szalunek</trd>,
+      <trd>zr&aogonek;b</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="armatu.0o.de_kondensatoro">
+    <uzo tip="fak">ELE</uzo>
+    <dif>
+      <klr>(de <ref cel="konden.0o.ELE">kondensatoro</ref>)</klr>
+      &Ccirc;iu el la du platoj a&ubreve; metalfolioj, inter kiuj
+      trovi&gcirc;as izolanta korpo, kaj kiuj kune formas la
+      kondensatoron.
+    </dif>
+    <trd lng="hu">fegyverzet</trd>
+    <trd lng="pl">ok&lstroke;adzina</trd>
+  </snc>
+  <snc mrk="armatu.0o.de_magneto">
+    <uzo tip="fak">FIZ</uzo>
+    <dif>
+      <klr>(de magneto)</klr>
+      Fera peco, kiu fermas la magnetan cirkviton.
+    </dif>
+    <trdgrp lng="hu">
+      <trd>forg&oacute;r&eacute;sz</trd>,
+      <trd>armat&uacute;ra</trd>
+    </trdgrp>
+    <trd lng="pl">rdze&nacute;</trd>
+  </snc>
+  <trd lng="be">&c_a;&c_r;&c_m;&c_a;&c_t;&c_u;&c_r;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>armatura</trd>,
+    <trd>betonářská výztuž</trd>,
+    <trd>výztuž</trd>
+  </trdgrp>
+  <trd lng="fr">armature</trd>
+  <trd lng="it">armatura<klr> (struttura)</klr></trd>
+  <trd lng="ru">&c_a;&c_r;&c_m;&c_a;&c_t;&c_u;&c_r;&c_a;</trd>
+  <trd lng="sk">výstuha</trd>
+</drv>
+
+<drv mrk="armatu.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      Provizi per <tld/>o.
+    </dif>
+  </snc>
+  <trd lng="be">&c_a;&c_r;&c_m;&c_ib;&c_r;&c_a;&c_v;&c_a;&c_c;&c_mol;
+  </trd>
+  <trdgrp lng="cs">
+    <trd>opatřit armaturou</trd>,
+    <trd>opatřit výztuží</trd>
+  </trdgrp>
+  <trd lng="es">armadura</trd>
+  <trd lng="fr">armer<klr tip="ind"> (d'une armature)</klr></trd>
+  <trd lng="hu">vasal<klr tip="ind"> (armat&uacute;r&aacute;val)</klr>
+  </trd>
+  <trd lng="it">armare<klr> (struttura)</klr></trd>
+  <trd lng="pl">zbroi&cacute;</trd>
+  <trd lng="ru">&c_a;&c_r;&c_m;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;
+  </trd>
+  <trd lng="sk">vybaviť armatúrou</trd>
+</drv>
+</art>
+<!--
+$Log: armatu.xml,v $
+Revision 1.16  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.14  2012/02/04 18:10:12  revo
+Antonio Codazzi: +trd it
+
+Revision 1.13  2008/05/27 16:30:36  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.12  2004/03/22 17:31:05  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.11  2002/10/29 18:01:26  revo
+Christopher Zervic: + ang
+
+Revision 1.10  2002/08/30 07:57:39  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.9  2002/05/15 16:41:40  revo
+Alejandro Mejia Greene: ald his trd
+
+Revision 1.8  2002/03/20 17:36:33  revo
+Yury Finkel: +trd ru
+
+Revision 1.7 2002/01/04 17:32:48 revo
+-->
+</vortaro>

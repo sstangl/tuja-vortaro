@@ -1,0 +1,185 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: aritme.xml,v 1.20 2015/07/04 08:37:30 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>aritmetik</rad>/o
+</kap>
+<drv mrk="aritme.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>MatTerm</bib><lok>p. 7</lok></fnt>
+  <snc>
+    <dif>
+      Bran&ccirc;o de <ref tip="malprt" cel="matema.0o">matematiko</ref>,
+      studanta operaciojn super entjeroj kaj racionaloj.
+    </dif>
+    <rim>
+      La moderna <tld/>o ne okupi&gcirc;as nur pri elementaj kalkuloj,
+      sed pri gravaj ecoj de entjeroj (primeco, plej granda komuna
+      divizoro, primaj faktoroj, ktp) kaj similaj ecoj de aliaj
+      objektoj (ekz-e elementoj de <ref cel="ring.0o.MAT">ringoj</ref>).
+    </rim>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_r;&c_y;&c_t;&c_m;&c_e;&c_t;&c_y;&c_k;&c_a;</trd>,
+    <trd>&c_t;&c_e;&c_o;&c_r;&c_y;&c_ja; &c_l;&c_ib;&c_ch;&c_b;&c_a;&c_w;</trd>
+  </trdgrp>
+  <trd lng="cs">aritmetika</trd>
+  <trdgrp lng="de">
+    <trd>Arithmetik</trd>,
+    <trd>Zahlenlehre</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>arithmetic[s]</trd>,
+    <trd>number theory</trd>
+  </trdgrp>
+  <trd lng="es">aritm&eacute;tica</trd>
+  <trdgrp lng="fr">
+    <trd>arithm&eacute;tique<klr tip="ind"> (subst.)</klr></trd>,
+    <trd>th&eacute;orie des nombres</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>aritmetika</trd>,
+    <trd>sz&aacute;mtan</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>arytmetyka</trd>,
+    <trd>teoria liczb</trd></trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_a;&c_r;&c_i;&c_f;&c_m;&c_je;&c_t;&c_i;&c_k;&c_a;</trd>,
+    <trd>&c_t;&c_je;&c_o;&c_r;&c_i;&c_ja; &c_ch;&c_i;&c_s;&c_je;&c_l;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>aritmetika</trd>,
+    <trd>počty</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="aritme.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="aritme.0a.gxenerale">
+    <dif>
+      Rilata al <tld/>o:
+      <ekz>
+        la kvar <tld/>aj operacioj estas
+        <ref cel="adici.0o">adicio</ref>,
+        <ref cel="subtra.0o">subtraho</ref>,
+        <ref cel="multip.0o">multipliko</ref> kaj
+        <ref cel="divid.0o.MAT">divido</ref>.
+      </ekz>
+    </dif>
+  </snc>
+  <snc>
+    <uzo tip="fak">MAT</uzo>
+    <refgrp tip="vid">
+      <ref cel="nombr.mez0o">meznombro</ref>,
+      <ref cel="progre1.aritmetika0o"><tld/>a progresio</ref>.
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_a;&c_r;&c_y;&c_t;&c_m;&c_e;&c_t;&c_y;&c_ch;&c_n;&c_y;</trd>
+  <trd lng="de">arithmetisch</trd>
+  <trd lng="en">arithmetic</trd>
+  <trd lng="es">aritm&eacute;tico</trd>
+  <trd lng="fr">arithm&eacute;tique<klr tip="ind"> (adj.)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>aritmetikai</trd>,
+    <trd>sz&aacute;mtani</trd>
+  </trdgrp>
+  <trd lng="pl">arytmetyczny</trd>
+  <trd lng="ru">&c_a;&c_r;&c_i;&c_f;&c_m;&c_je;&c_t;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j;</trd>
+  <trd lng="sk">aritmetick&yacute;</trd>
+</drv>
+
+<drv mrk="aritme.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc>
+    <dif>
+      Plenumi <tld/>ajn operaciojn:
+      <ekz>
+        la komputilo <tld/>as en la duuma nombrosistemo.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_v;&c_y;&c_k;&c_o;&c_n;&c_v;&c_a;&c_c;&c_mol; &c_a;&c_r;&c_y;&c_t;&c_m;&c_e;&c_t;&c_y;&c_ch;&c_n;&c_y;&c_ja; &c_a;&c_p;&c_e;&c_r;&c_a;&c_c;&c_y;&c_ib;</trd>
+  <trd lng="fr">calculer</trd>
+  <trd lng="hu">aritmetikai m&udblac;veletet v&eacute;gez</trd>
+  <trd lng="sk">po&ccaron;&iacute;ta&tcaron;</trd>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_ch;&c_i;&c_t;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_v;&c_y;&c_p;&c_o;&c_l;&c_n;&c_ja;&c_t;&c_mol; &c_a;&c_r;&c_i;&c_f;&c_m;&c_je;&c_t;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_je; &c_o;&c_p;&c_je;&c_r;&c_a;&c_c;&c_i;&c_i;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="aritme.0ilo">
+  <kap><tld/>ilo</kap>
+  <snc>
+    <dif>
+      Rimedo por plenumi <tld/>ajn operaciojn; kalkulilo.
+    </dif>
+    <trd lng="hu">sz&aacute;mol&oacute;g&eacute;p</trd>
+  </snc>
+  <snc>
+    <uzo tip="fak">KOMP</uzo>
+    <dif>
+      Tiu organo de komputilo kiu plenumas <tld/>ajn (kaj ofte
+      anka&ubreve; la logikajn) operaciojn.
+    </dif>
+    <trdgrp lng="fr">
+      <trd>unit&eacute; arithm&eacute;tique et logique</trd>,
+      <trd>UAL</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>aritmetikai egys&eacute;g</trd>,
+      <trd>AU</trd>
+    </trdgrp>
+    <trd lng="sk">aritmeticko logick&aacute; jednotka</trd>
+  </snc>
+  <trdgrp lng="en">
+    <trd>arithmetic and logical unit</trd>,
+    <trd>ALU</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_a;&c_r;&c_i;&c_f;&c_m;&c_je;&c_t;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_o;&c_je;
+    &c_u;&c_s;&c_t;&c_r;&c_o;&c_j;&c_s;&c_t;&c_v;&c_o;</trd>,
+    <trd>&c_a;&c_r;&c_i;&c_f;&c_m;&c_je;&c_t;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_o;-&c_l;&c_o;&c_g;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_o;&c_je;
+    &c_u;&c_s;&c_t;&c_r;&c_o;&c_j;&c_s;&c_t;&c_v;&c_o;</trd>,
+    <trd>&c_A;&c_L;&c_U;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: aritme.xml,v $
+Revision 1.20  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2013/12/10 13:10:24  revo
+Damien Brucker: +trd fr
+
+Revision 1.17  2005/04/25 16:31:27  revo
+Yury Finkel: +trd ru
+
+Revision 1.16  2004/03/30 16:32:55  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.15  2003/03/10 17:32:46  revo
+Marc Bavant: ~o : mod trd en
+
+Revision 1.14  2003/01/02 17:43:51  revo
+Marc Bavant: +trd pl
+
+Revision 1.13  2002/09/25 16:32:27  revo
+Jozefo Horvath: +trd hu
+Revision 1.12  2002/09/09 19:48:49  revo
+Viliam Bur: +trd sk
+Revision 1.11  2002/05/20 16:35:15  revo
+Marc Bavant: ~o: mod dif
+Revision 1.10  2002/05/15 16:42:50  revo
+-->
+</vortaro>

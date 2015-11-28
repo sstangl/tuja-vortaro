@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: piz.xml,v 1.23 2015/07/04 08:37:41 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>piz</rad>/o
+</kap>
+<drv mrk="piz.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="piz.0o.genro">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+       <ref tip="lst" cel="legom.0o.KUI" 
+       lst="voko:faboparencoj">Legomplanto</ref> 
+       kun globformaj verdaj semgrajnoj;
+       <ref tip="lst" cel="genr.0o.BIO"
+       lst="voko:botanikaj_genroj">genro</ref> el familio <ref
+       tip="malprt" cel="fabac.0oj">fabacoj</ref>
+       (<trd lng="la">Pisum</trd>).
+    </dif>
+    <trd lng="be">&c_g;&c_a;&c_r;&c_o;&c_h;</trd>
+    <trd lng="ca">pesolera</trd>
+    <trd lng="hu">bors&oacute;</trd>
+    <trdgrp lng="id">
+      <trd>ercis</trd>,
+      <trd>polong</trd>
+    </trdgrp>
+    <trd lng="ru">&c_g;&c_o;&c_r;&c_o;&c_h;</trd>
+  </snc>
+  <snc mrk="piz.0o.grajno">
+    <dif>
+      <tld lit="P"/>osemo, la grajno mem de <tld/>o:
+      <ekz>
+        mi sidis en la sunlumo por sen&scirc;eligi <tld/>ojn
+        <fnt><aut>A. L&ouml;wenstein</aut>, <vrk>La &scirc;tona urbo</vrk>, 
+        <lok>FEL, 1999</lok></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_g;&c_a;&c_r;&c_o;&c_sh;&c_y;&c_n;&c_a;</trd>
+    <trd lng="ca">p&egrave;sol</trd>
+    <trd lng="hu">bors&oacute;szem</trd>
+    <trd lng="ru">&c_g;&c_o;&c_r;&c_o;&c_sh;&c_i;&c_n;&c_a;</trd>
+  </snc>
+  <trd lng="bg">&c_g;&c_r;&c_a;&c_h;</trd>
+  <trd lng="cs">hrách</trd>
+  <trd lng="de">Erbse</trd>
+  <trd lng="en">green <ind>pea</ind></trd>
+  <trd lng="fr">petit <ind>pois</ind></trd>
+  <trd lng="nl">erwt</trd>
+  <trd lng="pl">groch</trd>
+  <trd lng="pt">ervilha</trd>
+  <trd lng="sk">hrach <klr>(rastlina)</klr></trd>
+</drv>
+</art>
+<!--
+$Log: piz.xml,v $
+Revision 1.23  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.22  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.21  2014/11/15 04:10:17  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.20  2013/10/26 19:10:14  revo
+Wolfram Diestel: ref al faboparencoj
+
+Revision 1.19  2013/08/26 19:10:26  revo
+Wolfram Diestel: referenco al listo bot genroj
+
+Revision 1.18  2012/01/05 16:10:14  revo
+Marc Rausell: +trd ca
+
+Revision 1.17  2007/08/15 16:30:19  revo
+Jeromo Vasxe: + ekz
+
+Revision 1.16 2007/01/13 17:30:30 revo
+Wieland Pusch: +trd bg
+
+Revision 1.15 2006/09/14 16:31:07 revo
+Russ Williams: +trd pl
+
+Revision 1.14 2006/03/05 17:31:29 revo
+-->
+</vortaro>

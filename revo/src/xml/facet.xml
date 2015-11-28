@@ -1,0 +1,154 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: facet.xml,v 1.20 2015/07/04 08:37:33 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>facet</rad>/o
+</kap>
+
+<drv mrk="facet.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="facet.0o.TEK">
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      Malgranda ebena surfaco:
+      <ekz>
+        <tld/>o de brilianto, de kristaloj, de prismo...
+      </ekz>
+    </dif>
+    <rim>
+      <ctl><tld lit="F"/>o</ctl> la&ubreve;sence povas esti konsiderata
+      deriva&jcirc;o de <ctl>faco</ctl>, sed historie pli &gcirc;usta
+      estas la aserto, ke la dua estas malderiva&jcirc;o de la unua.
+    </rim>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_g;&c_r;&c_a;&c_n;&c_mol;</trd>,
+    <trd>&c_f;&c_a;&c_s;&c_e;&c_t;</trd>
+  </trdgrp>
+  <trd lng="ca">faceta</trd>
+  <trd lng="cs">faceta</trd>
+  <trdgrp lng="de">
+    <trd>Facette</trd>,
+    <trd>Schliff</trd>
+  </trdgrp>
+  <trd lng="en">facet</trd>
+  <trd lng="es">faceta<klr tip="amb"> (de un brillante o
+  cristal)</klr></trd>
+  <trd lng="fr">facette<klr tip="ind"> (petite face)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>lap<klr tip="ind"> (dr&aacute;gak&odblac;)</klr></trd>,
+    <trd>faszetta</trd>
+  </trdgrp>
+  <trd lng="nl">facet<klr tip="ind"> (v.edelsteen)</klr></trd>
+  <trdgrp lng="pl">
+    <trd>faseta</trd>,
+    <trd>&sacute;cianka</trd>
+  </trdgrp>
+  <trd lng="pt">faceta</trd>
+  <trdgrp lng="ru">
+    <trd>&c_g;&c_r;&c_a;&c_n;&c_mol;</trd>,
+    <trd>&c_f;&c_a;&c_s;&c_je;&c_t;</trd>
+  </trdgrp>
+  <trd lng="sk">drobná plôška na oku hmyzu</trd>
+</drv>
+
+<drv mrk="facet.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="facet.0i.TEK">
+    <dif>
+      Fari <tld/>ojn sur:
+      <ekz>
+        <tld/>i diamantojn.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="ca">facetar</trd>
+  <trd lng="cs">brousit plošky <klr>(na drahém kameni| sklu| diamantu)</klr></trd>
+  <trd lng="de">schleifen</trd>
+  <trdgrp lng="es">
+    <trd>hacer facetas</trd>,
+    <trd>tallar<klr tip="amb"> (una joya)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>facetter</trd>,
+    <trd>tailler &agrave; facettes</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>csiszol<klr tip="ind"> (dr&aacute;gak&odblac;vet)</klr></trd>,
+    <trd>metsz<klr tip="ind"> (dr&aacute;gak&odblac;vet)</klr></trd>
+  </trdgrp>
+  <trd lng="nl">slijpen<klr tip="ind"> (v.diamant)</klr></trd>
+  <trd lng="ru">&c_g;&c_r;&c_a;&c_n;&c_i;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>brúsiť <klr>(sklo, diamant)</klr></trd>,
+    <trd>brúsiť <klr>(sklo| diamant)</klr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="facet.mult0a">
+  <kap>mult<tld/>a</kap>
+  <snc mrk="facet.mult0a.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Havanta multajn diversajn aspektojn, enhavojn, flankojn:
+      <ekz>
+        la plej mult<tld/>a gazeto en nia movado
+        <fnt>
+        <aut>W. Ruck</aut>,
+        <vrk>Reagoj</vrk>,
+        <lok><url
+        ref="http://www.eventoj.hu/arkivo/eve-041.htm">Eventoj,
+        1993-09, numero 41a</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="ca">
+    <trd>polifac&egrave;tic</trd>,
+    <trd>divers</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>divers<klr> (vari&eacute;)</klr></trd>,
+    <trd>multiple et vari&eacute;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: facet.xml,v $
+Revision 1.20  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:39:29  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2012/08/29 16:10:12  revo
+Marc Rausell: + trd ca
+
+Revision 1.16  2010/06/17 16:30:34  revo
+Agustin Garcia Lopez: +trd es
+
+Revision 1.15  2010/04/09 16:31:54  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.14  2006/05/01 18:12:09  revo
+Tulio Flores: +tr pt
+
+Revision 1.13  2006/04/17 16:34:03  revo
+Jeromo Vasxe: + mult~a
+
+Revision 1.12 2004/07/25 21:01:15 revo
+Dmitri Gabinski: +trd be
+
+Revision 1.11 2003/09/17 16:31:27 revo
+Yury Finkel: kor mrk
+
+Revision 1.10 2003/09/12 16:32:07 revo
+-->
+</vortaro>

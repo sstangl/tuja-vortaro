@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: skalar.xml,v 1.14 2015/07/04 08:37:43 revo Exp $">
+<kap>
+<rad>skalar</rad>/o
+</kap>
+<drv mrk="skalar.0o">
+  <kap><tld/>o</kap>
+  <fnt><bib>PIV1</bib></fnt>
+  <snc mrk="skalar.0o.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <dif>
+      <ref tip="super" cel="elemen.0o.MAT">Elemento</ref> de
+      <ref tip="malprt" cel="ring.0o.MAT">ringo</ref> a&ubreve;
+      <ref tip="malprt" cel="korp.0o.MAT">korpo</ref>, kiu operacias
+      super
+      <ref cel="modul.0o.strukt">modulo</ref> a&ubreve;
+      <ref cel="spac.vektora0o">vektora spaco</ref>.
+    </dif>
+    <trd lng="de">Skalar</trd>
+    <trd lng="pl">skalar</trd>
+  </snc>
+  <snc mrk="skalar.0o.FIZ">
+    <uzo tip="fak">FIZ</uzo>
+    <dif>
+      Fizika grando, kiu ne havas direkton; la reelo &gcirc;in
+      reprezentanta:
+      <ekz>
+        la grando temperaturo estas <tld/>o.
+      </ekz>
+    </dif>
+    <ref tip="ant" cel="vektor.0o.FIZ">vektoro.</ref>
+    <trdgrp lng="de">
+      <trd>Skalar</trd>,
+      <trd>skalare Gr&ouml;&szlig;e</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="be">&c_s;&c_k;&c_a;&c_l;&c_ja;&c_r;</trd>
+  <trd lng="cs">skalára</trd>
+  <trd lng="en">scalar</trd>
+  <trd lng="fr">scalaire<klr tip="ind"> (subst.)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>skal&aacute;r</trd>,
+    <trd>skal&aacute;ris mennyis&eacute;g</trd>
+  </trdgrp>
+  <trd lng="nl">scalar</trd>
+  <trd lng="ru">&c_s;&c_k;&c_a;&c_l;&c_ja;&c_r;</trd>
+  <trd lng="sk">skalár <klr>(akváriová rybka)</klr></trd>
+  <trd lng="sv">skal&auml;r</trd>
+</drv>
+
+<drv mrk="skalar.0a">
+  <kap><tld/>a</kap>
+  <uzo tip="fak">MAT</uzo>
+  <uzo tip="fak">FIZ</uzo>
+  <fnt><bib>PIV1</bib></fnt>
+  <snc>
+    <dif>
+      Rilata al <tld/>o; estanta <tld/>o:
+      <ekz>
+        <tld/>a grando, <ref cel="kamp.0o.MAT">kampo</ref>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="produt.skalara0o"><tld/>a produto</ref>.
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_s;&c_k;&c_a;&c_l;&c_ja;&c_r;&c_n;&c_y;</trd>
+  <trd lng="de">skalar</trd>
+  <trd lng="en">scalar</trd>
+  <trd lng="fr">scalaire<klr tip="ind"> (adj.)</klr></trd>
+  <trd lng="hu">skal&aacute;ris</trd>  
+  <trd lng="pl">skalarny</trd>
+  <trd lng="ru">&c_s;&c_k;&c_a;&c_l;&c_ja;&c_r;&c_n;&c_y;&c_j;</trd>
+</drv>
+</art>
+<!--
+$Log: skalar.xml,v $
+Revision 1.14  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.13  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.12  2004/10/13 16:33:26  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.11  2003/01/13 17:36:48  revo
+Zmicier Lapcionak: + trd be
+
+Revision 1.10  2003/01/02 17:51:16  revo
+Marc Bavant: +trd pl
+
+Revision 1.9  2002/05/12 16:36:54  revo
+Marc Bavant: +fnt, +trd en
+Revision 1.8  2001/09/15 19:27:51  revo
+Marc Bavant: mod fnt PIV, +drv ~a
+Revision 1.7  2001/09/05 19:05:45  revo
+Jerano Zachrisson: +trd sv
+Revision 1.6  2001/07/27 19:37:42  revo
+Paul Peeraerts: ald trd nl
+Revision 1.5  2001/05/30 18:12:46  revo
+Yury Finkel: etendis rusan trd al chiuj snc
+Revision 1.4  2001/03/12 17:14:07  revo
+Ulrich Fellmann: + 3 germ trdj
+Revision 1.3  2001/01/13 18:46:20  revo
+-->
+</vortaro>
+

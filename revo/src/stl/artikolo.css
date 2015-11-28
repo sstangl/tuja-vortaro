@@ -1,0 +1,132 @@
+/* HTML-elementoj */
+BODY {background: #F5F5D5; 
+      margin-right: 0.5cm}
+
+H1 {color: #000000; font-size: large}
+H2 {color: #000000; 
+    font-size: 110%; 
+    background: #E0E0A0;
+    background-image: url(angulo.png);
+    background-repeat: no-repeat;
+/*    border-color: gray;
+    border-style: outset;
+    border-width: medium;
+*/
+    padding-left: 1ex;
+    padding-top: 0.5ex;
+    padding-bottom: 0.5ex;
+    margin-top: 2ex;
+    }
+H3 {font-size: 90%; border-top-width: 2px; border-top-style: solid; 
+  border-top-color: #E0E0A0; padding-top: 0.5ex}
+
+HR {border-style: dotted; border-color: black; 
+  border-top-width: 2px;
+  border-bottom-width: 0px;
+  margin-top: 4ex}
+DD {text-align: justify}
+
+/*A {text-decoration: none}*/
+A:link {color: blue}
+A:visited {color: blue}
+A:hover {color: red; background-color: #d5d5a5}
+SUP {font-size: 75%}
+
+/* ekzemploj */
+.ekz {color: #303030}
+.rimekz {font-style: italic}
+A.ekz:link {text-decoration: underline; color: #303030}
+A.ekz:visited {text-decoration: underline; color: #303030}
+A.ekz:active {text-decoration: underline; color: silver}
+
+/* difinoj */
+.drvdif {color: black}
+.sncgrpdif {color: black}
+.dif {color: black}
+A.dif:link {text-decoration: underline; color: black}
+A.dif:visited {text-decoration: underline; color: black}
+A.dif:active {text-decoration: underline; color: gray}
+
+/* rimarkoj */
+.rim {color: #000060}
+A.rim:link {text-decoration: underline; color: #000060}
+A.rim:visited {text-decoration: underline; color: #000060}
+A.rim:active {text-decoration: underline; color: blue}
+
+/* referencoj */
+.ref {color: #600000}
+A.ref:link {text-decoration: underline; color: #600000}
+A.ref:visited {text-decoration: underline; color: #600000}
+A.ref:active {text-decoration: underline; color: red}
+
+/* bildoj */
+A.bld:link {text-decoration: underline; color: black}
+A.bld:visited {text-decoration: underline; color: black}
+A.bld:active {text-decoration: underline; color: gray}
+
+/* klarigo */
+.klr {font-style: normal}
+A.klr:link {text-decoration: underline; color: #775533}
+A.klr:visited {text-decoration: underline; color: #775533}
+A.klr:active {text-decoration: underline; color: #775533}
+
+/*tradukoj*/
+.trd_ref {color: #666666}
+p.trd_ref {text-align: right}
+A.trd_ref:link {text-decoration: underline; color: #666666}
+A.trd_ref:visited {text-decoration: underline; color: #666666}
+A.trd_ref:active {text-decoration: underline; color: black}
+.trd {color: #104040}
+.rimtrd {font-style: italic}
+.diftrd {font-style: italic}
+.trdeo {color: black; font-weight: bold}
+.trdnac {color: #104040}
+A.trdeo:link {text-decoration: underline; font-weight: bold; color: black}
+A.trdeo:visited {text-decoration: underline; font-weight: bold; color:
+black}
+A.trdeo:active {text-decoration: underline; font-weight: bold; color: gray}
+
+/* pli densa arangxo de tradukoj */
+div.trd_lng { margin-top: 0.5em; border-top-width: 2px; border-top-style: solid;
+  border-top-color: #E0E0A0; padding-top: 0ex; margin-top: 0.7em }
+div.trd_lng h3 { display: inline; margin-right: 0.5em; border-style: none;
+        /* background: #E0E0A0; */ color: gray; padding-right: 0.7em; 
+          padding-left: 0.3em; border-left: 0.5em solid #E0E0A0; }
+div.trd_lng_2 { display: inline; line-height: 135%;  }
+
+
+/* fontindikoj en la teksto */
+.fnt {font-style: normal}
+A.fnt:link {text-decoration: underline; color: #303030}
+A.fnt:visited {text-decoration: underline; color: #303030}
+A.fnt:active {text-decoration: underline; color: green}
+
+.fntref {font-size: small; font-style: normal; vertical-align: text-top; font-stretch: extra-condensed}
+A.fntref:link {text-decoration: underline; color: #303030}
+A.fntref:visited {text-decoration: underline; color: #303030}
+A.fntref:active {text-decoration: underline; color: green}
+
+sup.ofc { margin-right: 0.7ex; }
+
+/* fontindikaj piednotoj */
+.fontoj {color: 303030; font-size: small}
+/* notoj pri mankoj */
+.mankoj {font-family: courier}
+.mankoj A:link {text-decoration: underline; color: #303030}
+.mankoj A:visited {text-decoration: underline; color: #303030}
+.mankoj A:active {text-decoration: underline; color: green}
+
+/* tildoj en ekzemploj */
+.ekztld {}
+
+/* redaktolinio malsupre de la artikolo */
+.redakto {color: #104040}
+A.redakto:link {text-decoration: underline; color: black}
+A.redakto:visited {text-decoration: underline; color: black}
+A.redakto:active {text-decoration: underline; color: gray}
+
+.flago {  border-color: #CCCCCC; border-width: 1px;  border-style: outset}
+IMG.bld {  border-color: #cccccc; border-width: 2px; border-style: outset} 
+
+/* formuloj */
+.frm { font-style: normal }

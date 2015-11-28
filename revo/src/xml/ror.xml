@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: ror.xml,v 1.4 2015/07/04 08:37:43 revo Exp $">
+<kap>
+  <rad>ror</rad>/i <fnt><bib>NeoGlo</bib></fnt>
+</kap>
+<drv mrk="ror.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="ror.0i.ZOO">
+    <dif>
+      <ref tip="lst" cel="blek.0i" lst="voko:blekoj">Bleki</ref>
+      forte, elgor&gcirc;e, kiel leono a&ubreve; tia granda besto:
+      <ekz>
+        la monstro <tld/>is denove
+        <fnt>
+          <aut>R. Bradbury, trad. M. Giorgini</aut>,
+          <vrk><url
+          ref="http://yksi.org/tekst/ald/bradbury_foghorn-eo.html">
+          La nebulsireno</url></vrk>,
+          <lok>[2009]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">řvát <klr>(tygr| lev)</klr></trd>
+  <trdgrp lng="fr">
+    <trd>feuler</trd>,
+    <trd>rugir</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>revať <klr>(tiger, lev)</klr></trd>,
+    <trd>revať <klr>(tiger| lev)</klr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="ror.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="ror.0o.ZOO">
+    <dif>
+      Ra&ubreve;ka bleko de granda, sova&gcirc;a besto.
+    </dif>
+  </snc>
+  <trd lng="cs">řev <klr>(lví a p.)</klr></trd>
+  <trd lng="fr">rugissement</trd>
+  <trdgrp lng="sk">
+    <trd>rev <klr>(tiger, lev)</klr></trd>,
+    <trd>rev <klr>(tiger| lev)</klr></trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log: ror.xml,v $
+Revision 1.4  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.3  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.2  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.1  2013/10/26 19:10:19  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

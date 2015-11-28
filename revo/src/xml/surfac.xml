@@ -1,0 +1,171 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: surfac.xml,v 1.28 2015/07/04 08:37:44 revo Exp $">
+<kap>
+<ofc>8</ofc>
+<rad>surfac</rad>/o
+<fnt>B</fnt>
+</kap>
+<drv mrk="surfac.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="surfac.0o.KOMUNE">
+    <dif>
+      La ekstera parto de iu korpo:
+      <ekz>
+        la vertikalaj <tld/>oj de muro.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="supr.0ajxo.KOMUNE">supra&jcirc;o.</ref>
+  <trd lng="de">Oberfl&auml;che</trd>
+  <trdgrp lng="hu">
+    <trd>fel&uuml;let</trd>,
+    <trd>felsz&iacute;n</trd>
+  </trdgrp>
+  <trd lng="nl">oppervlak</trd>
+  </snc>
+  <snc mrk="surfac.0o.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>MatTerm</bib><lok>p. 25</lok></fnt>
+    <dif>
+      Dudimensia
+      <ref tip="super" cel="figur.geometria0o">geometria figuro</ref>:
+      <ekz>
+         ebena <tld/>o <klr>(inkluzivata de ebeno)</klr>;
+      </ekz>
+      <ekz>
+        neebena <tld/>o. 
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      Malnovaj ekvivalentoj:
+      <ref cel="are.0ajxo">area&jcirc;o</ref>,
+      <ref cel="supr.0ajxo.MAT">supra&jcirc;o</ref>;
+    </refgrp>
+    <refgrp tip="sub">
+      Specifaj ebenaj surfacoj:
+
+      <ref cel="angul.0o.figuro">angulo</ref>,
+      <ref cel="cirkl.0o.surfaco">cirklo</ref>,
+      <ref cel="eben.0o.elementa">ebeno</ref>,
+      <ref cel="later.plur0o">plurlatero</ref>;
+
+      specifaj neebenaj surfacoj:
+      <ref cel="cilind.0o.surfaco">cilindro</ref>,
+      <ref cel="elipso.0o">elipsoido</ref>,
+      <ref cel="konoid.0o">konoido</ref>,
+      <ref cel="konus.0o.surfaco">konuso</ref>,
+      <ref cel="kvadri1.0o">kvadriko</ref>,
+      <ref cel="sfer.0o.surfaco">sfero</ref>,
+      <ref cel="hiperb1.0o">hiperboloido</ref>,
+      <ref cel="parabo1.0o">paraboloido</ref>,
+      rando de <ref cel="edr.plur0o">pluredro</ref>,
+      <ref cel="tor.0o.MAT">toro</ref>;
+    </refgrp>
+    <refgrp tip="vid">
+      Rimarkindaj ecoj de surfaco:
+      <ref cel="bar.0ita.metrikaspaco">barita</ref>,
+      <ref cel="bar.ne0ita.MAT">nebarita</ref>,
+      <ref cel="konvek.0a.subaro">konveksa</ref>,
+      <ref cel="konkav.0a.subaro">konkava</ref>,
+      <ref cel="rekt.0ara.surfaco">rektara</ref>,
+      <ref cel="rivolu.0a.figuro">rivolua</ref>;
+      
+      atributoj de iuj surfacoj:
+      <ref cel="are.0o.mezuro">areo</ref>,
+      <ref cel="cirkon.0o">cirkonferenco</ref>,
+      <ref cel="perife.0o">periferio</ref>,
+      <ref cel="perime.0o">perimetro</ref>,
+      <ref cel="rand.0o.figuro">rando</ref>.
+    </refgrp>
+    <trd lng="de">Fl&auml;che</trd>
+    <trd lng="hu">fel&uuml;let</trd>    
+    <trd lng="nl">vlak</trd>
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_v;&c_je;&c_r;&c_h;&c_n;&c_ja;</trd>
+  <trdgrp lng="cs">
+    <trd>plocha</trd>,
+    <trd>povrch</trd>
+  </trdgrp>
+  <trd lng="en">surface</trd>
+  <trd lng="fa">&a_s;&a_T;&a_H;</trd>
+  <trd lng="fr">surface</trd>
+  <trd lng="it">superficie</trd>
+  <trd lng="pl">powierzchnia</trd>
+  <trd lng="ru">&c_p;&c_o;&c_v;&c_je;&c_r;&c_h;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>hladina</trd>,
+    <trd>povrch</trd>
+  </trdgrp>
+  <trd lng="sv">yta</trd>
+</drv>
+
+<drv mrk="surfac.0a">
+  <kap><tld/>a</kap>
+  <snc>
+    <dif>
+      Je la surfaco.
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="supr.0a">supra&jcirc;a</ref>,
+      <ref cel="profun.mal0a">malprofunda</ref>,
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_v;&c_je;&c_r;&c_h;&c_n;&c_je;&c_v;&c_y;</trd>
+  <trdgrp lng="cs">
+    <trd>povrchní</trd>,
+    <trd>povrchový</trd>,
+    <trd>superficiální</trd>
+  </trdgrp>
+  <trd lng="de">oberfl&auml;chlich</trd>
+  <trd lng="fa">&a_s;&a_T;&a_H;&f_y;</trd>
+  <trd lng="fr">surfacique</trd>
+  <trdgrp lng="hu">
+    <trd>fel&uuml;leti</trd>,
+    <trd>felsz&iacute;ni</trd>,
+    <trd>fel&uuml;letes</trd>
+  </trdgrp>
+  <trd lng="it">superficiale</trd>
+  <trdgrp lng="sk">
+    <trd>povrchové <klr>(napätie, energia)</klr></trd>,
+    <trd>povrchové <klr>(napätie| energia)</klr></trd>
+  </trdgrp>
+</drv>
+
+</art>
+<!--
+$Log: surfac.xml,v $
+Revision 1.28  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.27  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.26  2015/06/29 16:33:24  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.25  2014/11/26 14:10:16  revo
+Damien Brucker: +trd fr
+
+Revision 1.24  2010/05/04 16:30:45  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.23  2009/10/08 16:31:50  revo
+Antonio Codazzi: +trd it
+
+Revision 1.22  2004/11/05 17:31:55  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.21  2003/09/02 16:30:51  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.20  2003/03/09 17:34:34  revo
+Marc Bavant: kor inkluzivata
+
+Revision 1.19  2003/01/13 17:34:44  revo
+Marc Bavant: ~o MAT: +ref
+Revision 1.18  2002/08/25 19:02:00  revo
+Marc Bavant: ~o: mod ref al areo; +trd pl
+-->
+</vortaro>

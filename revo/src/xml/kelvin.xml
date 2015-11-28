@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: kelvin.xml,v 1.17 2015/07/04 08:37:37 revo Exp $">
+<kap>
+  <rad>Kelvin</rad>/o
+</kap>
+<drv mrk="kelvin.0o">
+  <kap><tld/>o</kap>
+    <uzo tip="fak">PERS</uzo>
+  <snc mrk="kelvin.0o.PERS">
+    <dif>
+      Anglalingve: lordo <trd lng="en">Kelvin <klr tip="amb">(Wiliam
+      Thomson)</klr></trd>, 1824-1927, brita 
+      <ref tip="lst" cel="fizik.0isto"
+      lst="voko:historiaj_personoj">fizikisto</ref>.
+    </dif>
+  </snc>
+  <trd lng="be">&c_K;&c_je;&c_l;&c_mol;&c_v;&c_ib;&c_n;</trd>
+  <trd lng="bg">&c_K;&c_je;&c_l;&c_v;&c_i;&c_n;</trd>
+  <trd lng="ca">Kelvin</trd>
+  <trd lng="cs">Lord Kelvin</trd>
+  <trd lng="de">Kelvin</trd>
+  <trd lng="es">Kelvin<klr tip="amb"> (William Thomson bar&oacute;n de
+  Kelvin)</klr></trd>
+  <trd lng="fr">Kelvin</trd>
+  <trd lng="hu">Kelvin</trd>
+  <trd lng="id">Kelvin</trd>
+  <trd lng="it">Kelvin</trd>
+  <trd lng="nl">Kelvin</trd>
+  <trd lng="pl">Kelwin</trd>
+  <trd lng="ru">&c_K;&c_je;&c_l;&c_mol;&c_v;&c_i;&c_n;</trd>
+  <trd lng="sk">Lord Kelvin</trd>
+</drv>
+
+<drv mrk="kelvin.k0o">
+  <kap><tld lit="k"/>o</kap> 
+  <uzo tip="fak">FIZ</uzo>
+  <fnt><bib>NePiv</bib></fnt>
+  <mlg kod="SI">K</mlg>
+  <snc mrk="kelvin.k0o.FIZ">
+    <dif>
+      Baza <ref tip="lst" cel="unu.mezur0o"
+      lst="voko:mezurunuoj">mezurunuo</ref> de
+      <ref cel="temper1.0o">temperaturo</ref> en la Internacia Sistemo
+      de unuoj, egala al la 273,16-ona parto de la termodinamika
+      temperaturo de la triobla punkto de akvo:
+      <ekz>
+        la temperaturon 0&nbsp;K oni foje nomas <ctl>la absoluta
+        nulo</ctl>;
+      </ekz>
+      <ekz>
+        sub 10&nbsp;K (legu: dek <tld lit="k"/>oj) hidrogeno estas
+        solida.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="grad.kelvina0o"><tld lit="k"/>a grado</ref>
+  </snc>
+  <adm>
+    Mi lasas fakulon pri fiziko aldoni la bezonatajn klarigojn
+    por "termodinamika temperaturo" kaj "triobla punkto".
+    <aut>MB</aut>
+  </adm>
+  <trd lng="be">&c_k;&c_je;&c_l;&c_mol;&c_v;&c_ib;&c_n;
+    <klr> (&c_a;&c_d;&c_z;&c_ib;&c_n;&c_k;&c_a; &c_v;&c_y;&c_m;&c_ja;&c_r;&c_e;&c_n;&c_mol;&c_n;&c_ja;)</klr>
+  </trd>
+  <trd lng="bg">&c_k;&c_je;&c_l;&c_v;&c_i;&c_n;</trd>
+  <trd lng="ca">kelvin</trd>
+  <trd lng="de">Kelvin</trd>
+  <trd lng="es">grado kelvin<klr tip="amb"> (temperatura)</klr></trd>
+  <trd lng="fr">kelvin<klr tip="ind"> (unit&eacute; de mesure)</klr>
+  </trd>
+  <trd lng="hu">kelvin</trd>
+  <trd lng="id">kelvin</trd>
+  <trd lng="it">kelvin</trd>
+  <trd lng="nl">kelvin</trd>
+  <trdgrp lng="pl">
+    <trd>kelwin</trd>,
+    <trd>stopie&nacute; <ind>kelwina</ind><klr> (pot.)</klr></trd>
+  </trdgrp>
+  <trd lng="ru">&c_k;&c_je;&c_l;&c_mol;&c_v;&c_i;&c_n;</trd>
+  <trd lng="sk">Lord Kelvin</trd>
+  <trd lng="cs">Lord Kelvin</trd>
+</drv>
+</art>
+<!--
+$Log: kelvin.xml,v $
+Revision 1.17  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.15  2014/07/01 17:10:42  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.14  2013/09/14 16:10:33  revo
+Wolfram Diestel: ref al lst mezurunuoj, historiaj  personoj
+
+Revision 1.13  2012/02/18 21:10:23  revo
+Marc Rausell: +trd ca
+
+Revision 1.12  2010/07/10 16:30:47  revo
+Agustin Garcia Lopez: +trd es
+
+Revision 1.11  2009/11/22 17:30:32  revo
+Antonio Codazzi: +trd it
+
+Revision 1.10  2009/02/02 17:30:24  revo
+Wieland Pusch: +trd bg
+
+Revision 1.9  2008/05/30 16:30:22  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.8  2004/12/13 17:31:47  revo
+-->
+</vortaro>

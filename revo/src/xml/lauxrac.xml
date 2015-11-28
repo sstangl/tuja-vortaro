@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: lauxrac.xml,v 1.7 2013/08/25 16:10:46 revo Exp $">
+<kap>
+  <rad>la&ubreve;rac</rad>/oj
+</kap>
+<drv mrk="lauxrac.0oj">
+  <kap>
+    <tld/>oj
+  </kap>
+  <uzo tip="fak">BOT</uzo>
+  <snc>
+    <dif>
+      <ref tip="lst" cel="famili.0o.BIO"
+      lst="voko:botanikaj_familioj">Familio</ref> de <ref tip="malprt"
+      cel="kotile.du0aj">dukotiledonaj</ref>
+      plantoj (<trd lng="la">Lauraceae</trd>).
+    </dif>
+  </snc>
+  <trd lng="be">&c_l;&c_a;&c_w;&c_r;&c_a;&c_v;&c_y;&c_ja; <klr tip="amb">(&c_s;&c_ja;&c_m;'&c_ja;)</klr></trd>
+  <trd lng="de">Lorbeergew&auml;chse</trd>
+  <trd lng="el">&delta;&alfa;&phi;&ny;&omikron;&epsilon;&jota;&delta;&eta_ton;</trd>
+  <trd lng="hu">bab&eacute;rf&eacute;l&eacute;k</trd>
+  <trd lng="nl">laurierfamilie</trd>
+  <trd lng="pt">laur&aacute;ceas</trd>
+  <trd lng="ru">&c_l;&c_a;&c_v;&c_r;&c_o;&c_v;&c_y;&c_je;<klr tip="ind">
+(&c_s;&c_je;&c_m;&c_je;&c_j;&c_s;&c_t;&c_v;&c_o;)</klr></trd>
+</drv>
+</art>
+<!--
+$Log: lauxrac.xml,v $
+Revision 1.7  2013/08/25 16:10:46  revo
+Wolfram Diestel: referencoj al listo bot familioj
+
+Revision 1.6  2004/07/06 16:32:55  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.5  2002/08/26 17:33:30  revo
+Eduardo M. Kalinowski: ald trd el, pt
+
+Revision 1.4  2002/05/07 16:35:45  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.3  2001/11/14 19:13:38  revo
+Yury Finkel: +trd ru
+
+Revision 1.2  2001/10/25 18:52:37  revo
+Paul Peeraerts: ald trd nl
+
+-->
+</vortaro>

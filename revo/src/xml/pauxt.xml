@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: pauxt.xml,v 1.8 2015/08/25 22:10:14 revo Exp $">
+<kap>
+  <rad>pa&ubreve;t</rad>/i <fnt><bib>SPV</bib></fnt>
+</kap>
+<drv mrk="pauxt.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="pauxt.0i.MIEN">
+    <ref tip="dif" cel="lip.faridik0on">fari diklipon</ref>
+    <ekz>
+      Baochan kokete <tld/>is. &leftquot;Ve! Mi volas sincere vin helpi, sed vi
+      tiel min traktas!&rightquot;
+      <fnt><bib>RugxDom</bib>, <lok>&ccirc;apitro 91a, volumo 3a, p.
+      161a</lok></fnt>
+    </ekz>
+  </snc>           
+  <trdgrp lng="be">
+    <trd>&c_n;&c_a;&c_d;&c_z;&c_mol;&c_m;&c_u;&c_c;&c_c;&c_a;</trd>,
+    <trd>&c_g;&c_u;&c_b;&c_y; &c_n;&c_a;&c_d;&c_z;&c_mol;&c_m;&c_u;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="br">
+    <trd>mousklenni&ntilde;</trd>,
+    <trd>ober ur vousklenn</trd>
+  </trdgrp>
+  <trd lng="de"><klr>eine </klr>Schnute machen</trd>
+  <trd lng="en">pout</trd>
+  <trd lng="fr">faire la <ind>moue</ind></trd>
+  <trd lng="hu">lebiggyeszti a sz&aacute;j&aacute;t</trd>
+  <trd lng="nl">pruilen</trd>
+  <trd lng="pt">fazer <ind>bei&ccedil;os></ind></trd>
+  <trdgrp lng="ru">
+    <trd>&c_d;&c_u;&c_t;&c_mol;&c_s;&c_ja;</trd>,
+    <trd>&c_d;&c_u;&c_t;&c_mol; &c_g;&c_u;&c_b;&c_y;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="pauxt.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="pauxt.0o.MIEN">
+    <dif>
+      <ref tip="super" cel="mien.0o.ANA">Mieno</ref> de iu malkontenta,
+      kiu elpu&scirc;as la lipojn.
+    </dif>
+  </snc>                       
+  <trd lng="br">mousklenn</trd>
+  <trd lng="en">pout</trd>
+  <trd lng="fr">moue</trd>
+  <trd lng="hu">ajakbiggyeszt&eacute;s</trd>
+  <trd lng="ru">&c_n;&c_je;&c_d;&c_o;&c_v;&c_o;&c_l;&c_mol;&c_n;&c_a;&c_ja; &c_g;&c_r;&c_i;&c_m;&c_a;&c_s;&c_a;</trd>
+</drv>
+
+<drv mrk="pauxt.pri0i">
+  <kap>pri<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="pauxt.pri0i.KOMUNE">
+    <dif>
+      Mieni <tld/>e, signi malkontenton al...:
+      <ekz>
+        li reendormi&gcirc;is kiel amanto pri<tld/>ita de sia amantino
+        <fnt>
+          <aut>A. de Villiers de l'Isle Adam, trad. J. Vincent</aut>,
+          <vrk>Vera</vrk>,
+          <lok>1991</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">bouder<klr> (qqun)</klr></trd>
+</drv>
+</art>
+
+<!--
+$Log: pauxt.xml,v $
+Revision 1.8  2015/08/25 22:10:14  revo
+Jeromo Vasxe: + pri~i
+
+Revision 1.7  2009/10/06 16:44:00  revo
+Russ Williams: +trd en
+
+Revision 1.6  2006/02/27 17:32:37  revo
+Tulio Flores: +tr pt
+
+Revision 1.5  2005/07/02 16:32:45  revo
+Alan ar Gall: +trd br
+
+Revision 1.4  2005/06/22 16:31:42  revo
+Yury Finkel: +trd ru
+
+Revision 1.3  2004/08/24 16:32:04  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.2  2004/08/03 16:31:51  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.1  2004/02/22 17:30:58  revo
+-->
+</vortaro>

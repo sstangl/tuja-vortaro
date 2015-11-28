@@ -1,0 +1,130 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: sekant.xml,v 1.21 2015/07/04 08:37:43 revo Exp $">
+<kap>
+<rad>sekant</rad>/o
+</kap>
+<drv mrk="sekant.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>MatTerm</bib><lok>p. 20</lok></fnt>
+  <snc mrk="sekant.0o.entriangulo">
+    <dif>
+      <klr>(de <ref cel="angul.0o.MAT">angulo</ref> <frm>&alfa;</frm>)</klr>
+      Inverso de &gcirc;ia <ref cel="kosinu.0o">kosinuso</ref>; 
+      simb. <frm>sec &alfa;</frm> a&ubreve; <frm>sek &alfa;</frm>.
+    </dif>
+    <bld lok="../bld/trigo.jpg">
+      <!-- la <tld/>o de angulo <frm>&alfa;</frm> egalas al <frm>OT/OM</frm>
+      -->
+      la <tld/>o de angulo &alfa; egalas al OT/OM
+    </bld>
+    <trd lng="be">&c_s;&c_e;&c_k;&c_a;&c_n;&c_s;</trd>
+    <trd lng="de">Sekans</trd>
+    <trd lng="en">secant</trd>
+    <trd lng="fr">s&eacute;cante<klr tip="ind"> (trigo.)</klr></trd>
+    <trd lng="it">secante<klr> (trigon.)</klr>
+    </trd><trd lng="nl">secans</trd>
+    <trd lng="pl">secans</trd>
+    <trd lng="ru">&c_s;&c_je;&c_k;&c_a;&c_n;&c_s;</trd>
+  </snc>
+  <snc mrk="sekant.0o.funkcio">
+    <dif>
+      Reela <ref tip="super" cel="funkci.0o.MAT">funkcio</ref>, kiu
+      &jcirc;etas
+      reelon <frm><k>x</k></frm> al la 
+      <tld/>o <sncref ref="sekant.0o.entriangulo"/> de angulo, kies
+      mezuro en 
+      <ref cel="radian.0o">radianoj</ref> diferencas
+      de <frm><k>x</k></frm> per oblo de <frm>2&pi;</frm>; simb.
+      <frm>sec</frm>
+      a&ubreve; <frm>sek</frm>:
+      <ekz>
+        <tld/>o estas perioda funkcio, kun 
+        <ref cel="period.0o.funkcio">periodo <sncref/></ref>
+        <frm>2&pi;</frm>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_s;&c_e;&c_k;&c_a;&c_n;&c_s;</trd>
+    <trd lng="de">Sekans</trd>
+    <trd lng="en">secant</trd>
+    <trd lng="fr">s&eacute;cante<klr tip="ind"> (trigo.)</klr></trd>
+    <trd lng="it">secante<klr> (trigon.)</klr></trd>
+    <trd lng="nl">secans</trd>
+    <trd lng="pl">secans</trd>
+    <trd lng="ru">&c_s;&c_je;&c_k;&c_a;&c_n;&c_s;</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>sekanta</trd>,
+    <trd>sečna</trd>
+  </trdgrp>
+  <trd lng="hu">szek&aacute;ns</trd>
+  <trd lng="sk">sekans <klr>(uhla)</klr></trd>
+</drv>
+
+<drv mrk="sekant.ark0o">
+  <kap>ark<tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>MatVort</bib></fnt>
+  <snc>
+    <dif>
+      <ref cel="bild.inversa0igo">Inversa bildigo</ref> de
+      la <ref cel="vast.mal0igajxo.bildigo">malvastiga&jcirc;o</ref> de
+      <ref tip="super" cel="funkci.0o.MAT">funkcio</ref> 
+      <ref cel="sekant.0o.funkcio"><tld/>o</ref> al la
+      intervalo 
+      <frm>[0,&pi;/2[&#8746;]&pi;/2,&pi;]</frm>; 
+      simb. <frm>arcsec</frm> a&ubreve; <frm>arksek</frm>:
+      <ekz>
+        ark<tld/>o de <frm>1</frm> egalas al <frm>0</frm>.
+      </ekz>
+    </dif>
+    <rim>
+      Vd rimarkon sub <ref cel="ark.0o.angulo">arko</ref>.
+    </rim>
+  </snc>
+  <trd lng="be">&c_a;&c_r;&c_k;&c_s;&c_e;&c_k;&c_a;&c_n;&c_s;</trd>
+  <trd lng="de">Arkussekans</trd>
+  <trd lng="en">arc secant</trd>
+  <trd lng="fr">arc s&eacute;cante</trd>
+  <trd lng="hu">arkusz szek&aacute;ns</trd>  
+  <trd lng="nl">arcsecans</trd>
+  <trd lng="pl">arcus secans</trd>
+  <trd lng="ru">&c_a;&c_r;&c_k;&c_s;&c_je;&c_k;&c_a;&c_n;&c_s;</trd>
+</drv>
+</art>
+
+<!--
+$Log: sekant.xml,v $
+Revision 1.21  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.19  2009/10/19 16:30:40  revo
+Antonio Codazzi: +trd it
+
+Revision 1.18  2004/12/05 17:35:39  revo
+Marc Bavant: ark~o: kor dif
+
+Revision 1.17  2004/10/11 16:33:33  revo
+Marc Bavant: kor duobligitan punkton
+
+Revision 1.16  2004/09/30 16:31:49  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.15  2003/08/25 16:33:12  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.14  2003/03/09 17:34:29  revo
+Marc Bavant: koherigis simb
+
+Revision 1.13  2003/01/02 17:51:00  revo
+Marc Bavant: ~o (ARK): +mrk
+Revision 1.12  2002/11/24 17:35:16  revo
+Marc Bavant: mod frm
+-->
+</vortaro>

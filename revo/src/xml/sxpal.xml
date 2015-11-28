@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: sxpal.xml,v 1.6 2013/03/21 20:10:29 revo Exp $">
+<kap>
+  <rad>&scirc;pal</rad>/o <fnt><bib>SPV</bib></fnt>
+</kap>
+<drv mrk="sxpal.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="sxpal.0o.TEK">
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      <ref tip="super" cel="trab.0o.KON">Trabo</ref> ku&scirc;anta sur
+      vando a&ubreve; grundo kaj portanta suprajn peza&jcirc;ojn.
+    </dif>
+    <subsnc mrk="sxpal.0o.FER">
+      <dif>
+        Trabo subportanta kaj fiksanta la relojn de <ref tip="malprt" 
+        cel="trak.0o.FER">trako</ref>:
+        <ekz>
+          el tramtrako kiun mi preterpasis &ccirc;iuj lignaj <tld/>oj
+          estis malaperintaj
+          <fnt>
+            <aut>T. Menger</aut>,
+            <vrk>
+<url ref="http://homepage.mac.com/mkardol/Ne%20Tiam%2C%20Ne%20Nun%2C%
+20Neniam.pdf">
+            Ne tiam &#8208; ne nun &#8208; neniam ...</url></vrk>,
+            <lok>1982</lok>
+          </fnt>;
+        </ekz>
+      </dif>
+      <trd lng="hu">talpfa</trd>
+      <trd lng="it">traversina</trd>
+      <trd lng="nl">biel</trd>
+    </subsnc>
+      <trdgrp lng="nl">
+    <trd>dwarsligger</trd>,
+    <trd>dwarsbalk</trd>,
+    <trd>kruisbalk</trd>,
+    <trd>travers</trd>
+  </trdgrp>
+  </snc>
+  <refgrp tip="vid">
+    <ref cel="steg.0o.TEK">stego</ref>
+  </refgrp>
+  <trd lng="be">&c_sh;&c_p;&c_a;&c_l;&c_a;</trd>
+  <trd lng="fr">traverse</trd>
+  <trd lng="it">traversa</trd>
+
+  <trd lng="pl">podk&lstroke;ad<klr> kolejowy</klr></trd>
+</drv>
+</art>
+
+<!--
+$Log: sxpal.xml,v $
+Revision 1.6  2013/03/21 20:10:29  revo
+Dmitri Gabinski: redakto: +trd be
+
+Revision 1.5  2009/08/18 19:17:55  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.4  2009/05/04 16:31:25  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.3  2009/04/06 18:00:44  revo
+Antonio Codazzi: +trd it
+
+Revision 1.2  2008/05/22 16:30:27  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.1  2008/05/19 16:30:29  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

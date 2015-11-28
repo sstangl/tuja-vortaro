@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: holocen.xml,v 1.7 2015/07/04 08:37:35 revo Exp $">
+<kap>
+  <rad>holocen</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="holocen.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="holocen.0o.GEOL">
+    <uzo tip="fak">GEOL</uzo>
+    <dif>
+      Lasta, &gcirc;isnuna geologia <ref tip="lst" cel="epok.0o.periodo"
+      lst="voko:geologiaj_epokoj" val="-11430">epoko</ref> iom pli ol
+      10000-jara,
+      post la 
+      glaciepokoj:
+      <ekz>
+        la pli juna kvaternara subperiodo, da&ubreve;ranta &gcirc;is nuntempe, estas 
+        <tld/>o
+        <fnt>
+          <aut>J. Kavka</aut>,
+          <vrk><url
+          ref="http://www.freeweb.hu/eventoj/steb/miksitaj/sovagxsar/sovagxsar.htm">
+          La protektata naturparko Divok&aacute; &Scaron;&aacute;rka</url></vrk>,
+          <lok>1996</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="ca">holoc&eacute;</trd>
+  <trdgrp lng="cs">
+    <trd>aluvium</trd>,
+    <trd>holocén</trd>
+  </trdgrp>
+  <trd lng="fr">holoc&egrave;ne</trd>
+  <trd lng="it">Olocene</trd>
+  <trd lng="pt">Holoceno</trd>
+  <trdgrp lng="sk">
+    <trd>alúvium</trd>,
+    <trd>holocén</trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log: holocen.xml,v $
+Revision 1.7  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.6  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.5  2013/10/03 18:10:12  revo
+Wolfram Diestel: val
+
+Revision 1.4  2013/08/23 12:10:13  revo
+Wolfram Diestel: +referencoj al listo geo epokoj
+
+Revision 1.3  2011/12/10 15:10:22  revo
+Marc Rausell: +trd ca
+
+Revision 1.2  2008/04/03 18:16:58  revo
+Tulio Flores: +tr pt
+
+Revision 1.1  2008/04/01 17:15:49  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

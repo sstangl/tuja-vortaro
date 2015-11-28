@@ -1,0 +1,147 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: soif.xml,v 1.19 2015/07/04 08:37:43 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>soif</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="soif.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>x</vspec></gra>
+  <snc mrk="soif.0i.KUI">
+    <dif>
+      Senti bezonon trinki:
+      <ekz>
+        suferi pro, de <tld/>o;
+      </ekz>
+      <ekz>
+        <ind>kvietigi la <tld/>on</ind>.
+        <trd lng="hu">szomj&aacute;t csillap&iacute;tja</trd>
+      </ekz>
+    </dif>
+    <trd lng="de">Durst haben</trd>
+    <trd lng="es">tener sed</trd>
+    <trd lng="hu">szomjazik</trd>
+    <trdgrp lng="pl">
+      <trd>mie&cacute; <ind>pragnienie</ind></trd>,
+      <trd>by&cacute; <ind>spragnionym</ind></trd>,
+      <trd>odczuwa&cacute; <ind>pragnienie</ind></trd>,
+      <trd>chcie&cacute; <ind>pi&cacute;</ind></trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_h;&c_o;&c_t;&c_je;&c_t;&c_mol; &c_p;&c_i;&c_t;&c_mol;</trd>,
+      <trd>&c_i;&c_s;&c_p;&c_y;&c_t;&c_y;&c_v;&c_a;&c_t;&c_mol; <ind>&c_zh;&c_a;&c_zh;&c_d;&c_u;</ind></trd>,
+      <trd>&c_zh;&c_a;&c_zh;&c_d;&c_a;&c_t;&c_mol;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="soif.0i.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Forte deziri:
+      <ekz>
+        <tld/>i ven&gcirc;on, al ven&gcirc;o, al libero;
+      </ekz>
+      <ekz>
+        <tld/>o al la scienco<fnt>B</fnt>;
+      </ekz>
+      <ekz>
+        glavo sangon <ind><tld/>anta</ind><fnt>Z</fnt>;
+        <trd lng="ru">&c_zh;&c_a;&c_zh;&c_d;&c_u;&c_shch;&c_i;&c_j;</trd>
+      </ekz>
+      <ekz>
+        la pluvo mal<tld/>igas
+        (<ref tip="vid" cel="satur.0i">saturi</ref>)
+        la teron<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">d&uuml;rsten</trd>
+    <trdgrp lng="hu">
+      <trd>&aacute;h&iacute;tozik</trd>,
+      <trd>s&oacute;v&aacute;rog</trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>pragn&aogonek;&cacute;</trd>,
+      <trd>&lstroke;akn&aogonek;&cacute;</trd>,
+      <trd>by&cacute; <ind>spragnionym</ind> <klr>(czego&sacute;)</klr></trd>,
+      <trd>odczuwa&cacute; <ind>pragnienie</ind> <klr>(czego&sacute;)</klr></trd>
+    </trdgrp>
+    <trd lng="ru">&c_zh;&c_a;&c_zh;&c_d;&c_a;&c_t;&c_mol;</trd>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_m;&c_a;&c_g;&c_n;&c_u;&c_c;&c_mol;</trd>,
+    <trd>&c_h;&c_a;&c_c;&c_je;&c_c;&c_mol; &c_p;&c_ib;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>&zcaron;&iacute;znit</trd>,
+    <trd>prahnout</trd>
+  </trdgrp>
+  <trd lng="en">thirst</trd>
+  <trd lng="fr">avoir <ind>soif</ind></trd>
+  <trd lng="nl">dorst hebben</trd>
+  <trdgrp lng="sk">
+    <trd>byť smädný</trd>,
+    <trd>prahnúť</trd>,
+    <trd>smädiť</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="soif.0a">
+  <kap><tld/>a<fnt>Z</fnt></kap>
+  <snc mrk="soif.0a.KUI">
+    <dif>
+      <tld lit="S"/>anta.
+    </dif>
+  </snc>
+  <trd lng="cs">žíznivý</trd>
+  <trd lng="de">durstig</trd>
+  <trd lng="en">thirsty</trd>
+  <trd lng="es">sediento</trd>
+  <trd lng="fr">assoiff&eacute;</trd>
+  <trdgrp lng="hu">
+    <trd>szomjas</trd>,
+    <trd>s&oacute;v&aacute;r</trd>
+  </trdgrp>
+  <trd lng="nl">dorstig</trd>
+  <trdgrp lng="pl">
+    <trd>pragn&aogonek;cy</trd>,
+    <trd>spragniony</trd>,
+    <trd>chc&aogonek;cy <ind>pi&cacute;</ind></trd>
+  </trdgrp>
+  <trd lng="ru">&c_zh;&c_a;&c_zh;&c_d;&c_u;&c_shch;&c_i;&c_j;</trd>
+  <trd lng="sk">smädný</trd>
+</drv>
+</art>
+<!--
+$Log: soif.xml,v $
+Revision 1.19  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:33:24  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2013/04/21 18:10:12  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.16  2006/07/19 16:32:43  revo
+Jeromo Vasxe: + trd fr
+
+Revision 1.15 2005/12/06 17:32:35 revo
+Raul Salinas Monteagudo: +trd es
+
+Revision 1.14 2004/10/18 16:33:03 revo
+Jozefo Horvath: +trd hu
+
+Revision 1.13 2003/03/19 17:31:14 revo
+Christopher Zervic: + ang (-a)
+
+Revision 1.12 2003/01/17 17:32:15 revo
+Zmicier Lapcionak: + trd be
+
+Revision 1.11 2002/02/14 17:34:40 revo
+Yury Finkel: +trd ru
+
+Revision 1.10 2001/10/09 18:44:52 revo
+-->
+</vortaro>

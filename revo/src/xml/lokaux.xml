@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: lokaux.xml,v 1.10 2014/09/01 07:10:12 revo Exp $">
+<kap>
+  <rad>loka&ubreve;t</rad>/o
+</kap>
+<drv mrk="lokaux.0o">
+  <kap>
+    <tld/>o
+  </kap>
+  <snc>
+  <uzo tip="fak">JUR</uzo>
+  <uzo tip="fak">EKON</uzo>
+    <dif>
+      Interkonsento de labordonantoj fermi la entreprenojn, por per tio
+      devigi la laboristojn al cedoj.
+    </dif>
+  </snc>
+  <trd lng="be">&c_l;&c_ja;&c_k;&c_a;&c_w;&c_t;</trd>
+  <trd lng="de">Aussperrung</trd>
+  <trd lng="en">lock-out</trd>
+  <trdgrp lng="fr">
+    <trd>lock-out</trd>,
+    <trd>lockout</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>munk&aacute;skiz&aacute;r&aacute;s</trd>,
+    <trd>lock out</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>lock-out</trd>,
+    <trd>uitsluiting</trd>
+  </trdgrp>
+  <trd lng="pt">lockout</trd>
+  <trd lng="ru">&c_l;&c_o;&c_k;&c_a;&c_u;&c_t;</trd>
+</drv>
+</art>
+<!--
+$Log: lokaux.xml,v $
+Revision 1.10  2014/09/01 07:10:12  revo
+Damien Brucker: +trd fr
+
+Revision 1.9  2004/05/27 16:32:30  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.8  2003/05/13 16:33:13  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.7  2002/10/21 16:35:02  revo
+Ulrich Fellmann: + 1 trd de + 1x fak uzo EKON
+
+Revision 1.6  2002/09/13 16:37:03  revo
+Eduardo M. Kalinowski: ald trd pt
+
+Revision 1.5  2001/11/20 17:35:03  revo
+Yury Finkel: +trd ru
+
+Revision 1.4  2001/04/22 17:43:08  revo
+Paul Peeraerts: ald trd nl
+
+-->
+</vortaro>

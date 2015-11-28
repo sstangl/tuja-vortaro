@@ -1,0 +1,132 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: matema.xml,v 1.36 2015/07/04 08:37:39 revo Exp $">
+<kap>
+   <ofc>1</ofc>
+   <rad>matematik</rad>/o
+</kap>
+
+<drv mrk="matema.0o">
+   <kap><tld/>o</kap>
+   <fnt><bib>MatTerm</bib>, <lok>p. 1</lok></fnt>
+   <snc mrk="matema.0o.SCI">
+     <uzo tip="fak">MAT</uzo>
+     <uzo tip="fak">SCI</uzo>
+     <dif>
+       <ref tip="lst" cel="scienc.0o.fako"
+       lst="voko:sciencoj">Scienco</ref>,
+       kiu per rezonado, studas la ecojn de abstraktaj objektoj
+       (nombroj,
+       geometriaj figuroj, strukturoj, ktp) kaj la rilatojn inter ili.
+     </dif>
+     <refgrp tip="sub">
+       <ref cel="nombr.0o.MAT">nombro</ref>,
+       <ref cel="operac.0o.MAT_supersenco">operacio</ref>,
+       <ref cel="algebr.0o.fako">algebro</ref>,
+       <ref cel="geomet1.0o.MAT">geometrio</ref>,
+       <ref cel="funkci.0o.MAT.elemente">funkcio</ref>,
+       <ref cel="strukt.0o.MAT">strukturo</ref>,
+       <ref cel="ar.0teorio">aroteorio</ref>,
+       <ref cel="topolo.0o.fako">topologio</ref>,
+       <ref cel="analit.0o">analitiko</ref>,
+       <ref cel="bild.0o.MAT">bildigo</ref>,
+       <ref cel="statis.0o.matematika">statistiko</ref>,
+       <ref cel="kalkul.probablo0o">probablokalkulo</ref>
+     </refgrp>
+     <adm>
+       La &ccirc;e&hcirc;a traduko &scirc;ajnas al mi iom
+       nefaka. &Ccirc;u &gcirc;i ta&ubreve;gas? <aut>MB</aut>
+     </adm>
+   </snc>
+  <trd lng="be">&c_m;&c_a;&c_t;&c_e;&c_m;&c_a;&c_t;&c_y;&c_k;&c_a;</trd>
+  <trd lng="bg">&c_m;&c_a;&c_t;&c_je;&c_m;&c_a;&c_t;&c_i;&c_k;&c_a;</trd>
+  <trd lng="br">matematik</trd>
+  <trd lng="ca">matem&agrave;tica</trd>
+  <trdgrp lng="cs">
+    <trd>matematika</trd>,
+    <trd>po&ccaron;ty</trd>
+  </trdgrp>
+  <trd lng="de">Mathematik</trd>
+  <trd lng="en">mathematics</trd>
+  <trd lng="fa">&a_r;&f_y;&a_A;&a_D;&f_y;&a_A;&a_t;</trd>
+  <trdgrp lng="fr">
+     <trd>math&eacute;matique(s)</trd>,
+     <trd>math</trd>
+   </trdgrp>
+  <trd lng="hu">matematika</trd>
+  <trd lng="id">matematika</trd>
+  <trd lng="nl">wiskunde</trd>
+  <trd lng="pl">matematyka</trd>
+  <trd lng="pt">matem&aacute;tica</trd>
+  <trd lng="ru">&c_m;&c_a;&c_t;&c_je;&c_m;&c_a;&c_t;&c_i;&c_k;&c_a;</trd>
+  <trd lng="sk">matematika</trd>
+  <trd lng="sv">matematik</trd>
+  <trd lng="tr">matematik</trd>
+</drv>
+
+<drv mrk="matema.0isto">
+   <kap><tld/>isto</kap>
+   <snc mrk="matema.0isto.SCI">
+     <dif>
+       Fakulo a&ubreve; profesiulo pri <tld/>o:
+       <ekz>
+         mi konati&gcirc;is kun samlandano mia, Pierre
+C&eacute;r&eacute;sole, in&gcirc;eniero kaj
+         lerta <tld/>isto
+         <fnt><bib>Aventuroj</bib>, <lok>&ccirc;apitro 45a, p.
+         103a</lok></fnt>.
+       </ekz>
+     </dif>
+   </snc>
+  <trd lng="bg">&c_m;&c_a;&c_t;&c_je;&c_m;&c_a;&c_t;&c_i;&c_k;</trd>
+  <trd lng="br">matematikour</trd>
+  <trd lng="ca">matem&agrave;tic</trd>
+  <trd lng="cs">matematik</trd>
+  <trd lng="de">Mathematiker</trd>
+  <trd lng="en">mathematician</trd>
+  <trd lng="fa">&a_r;&f_y;&a_A;&a_D;&f_y;&a_d;&a_A;&a_n;</trd>
+  <trd lng="fr">math&eacute;maticien<klr> (subst.)</klr></trd>
+  <trd lng="hu">matematikus</trd>
+  <trd lng="id">matematikawan</trd>
+  <trdgrp lng="nl">
+     <trd>mathematicus</trd>,
+     <trd>wiskundige</trd>
+   </trdgrp>
+  <trd lng="ru">&c_m;&c_a;&c_t;&c_je;&c_m;&c_a;&c_t;&c_i;&c_k;</trd>
+  <trd lng="sk">matematik</trd>
+</drv>
+</art>
+<!--
+$Log: matema.xml,v $
+Revision 1.36  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.35  2015/06/29 16:33:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.34  2014/12/22 16:10:13  revo
+Damien Brucker: +ref (dauxrigo)
+
+Revision 1.33  2014/01/03 16:10:11  revo
+Damien Brucker: +ref (dauxrigo)
+
+Revision 1.32  2014/01/03 13:10:12  revo
+Damien Brucker: +ref
+
+Revision 1.31  2013/09/22 19:10:53  revo
+Wolfram Diestel: referenco al listo sciencoj
+
+Revision 1.30  2013/05/10 08:10:14  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.29  2012/08/19 16:10:12  revo
+Marc Rausell: + trd ca
+
+Revision 1.28  2009/10/11 16:30:24  revo
+Paul Peeraerts: +nl
+
+Revision 1.27  2009/06/24 16:30:31  revo
+-->
+</vortaro>

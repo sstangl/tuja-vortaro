@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: papav.xml,v 1.24 2015/07/04 08:37:41 revo Exp $">
+<kap><ofc>*</ofc><rad>papav</rad>/o</kap>
+<drv mrk="papav.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <uzo tip="fak">BOT</uzo>
+  <snc>
+    <dif>
+      <ref tip="lst" cel="genr.0o"
+      lst="voko:botanikaj_genroj">Genro</ref> el <ref tip="malprt"
+      cel="papava.0oj"><tld/>acoj</ref>
+      (<trd lng="la">Papaver</trd>),
+      kun belaj floroj, el kiu oni ekstraktas opion kaj kies semoj
+      liveras bonan man&gcirc;eblan oleon.
+    </dif>
+  </snc>
+  <trd lng="be">&c_m;&c_a;&c_k;</trd>
+  <trd lng="bg">&c_m;&c_a;&c_k;</trd>
+  <trd lng="br">rozenn-voc'h</trd>
+  <trd lng="cs">mák</trd>
+  <trd lng="de">Mohn</trd>
+  <trd lng="en">poppy</trd>
+  <trd lng="fr">pavot</trd>
+  <trd lng="hu">m&aacute;k</trd>
+  <trd lng="nl">papaver</trd>
+  <trdgrp lng="pt">
+    <trd>papoula</trd>,
+    <trd>dormideira</trd>
+  </trdgrp>
+  <trd lng="ru">&c_m;&c_a;&c_k;</trd>
+  <trd lng="sk">mak</trd>
+</drv>
+
+<drv mrk="papav.0eto">
+  <kap><tld/>eto</kap>
+  <uzo tip="fak">BOT</uzo>
+  <snc>
+    <dif>
+      Specio de <ref tip="super" cel="papav.0o"><tld/>o</ref>
+      (<trd lng="la">Papaver rhoeas</trd>),
+      kun skarlataj floroj, tre ofta en grenkampoj.
+    </dif>
+  </snc>
+  <bld lok="../bld/papav.jpg">
+    floro
+  </bld>
+  <trd lng="be">&c_v;&c_ib;&c_d;&c_u;&c_k;</trd>
+  <trd lng="bg">&c_p;&c_o;&c_l;&c_s;&c_k;&c_i; &c_m;&c_a;&c_k;</trd>
+  <trd lng="br">rozenn-aer</trd>
+  <trd lng="de">Klatschmohn</trd>
+  <trdgrp lng="en">
+    <trd>corn poppy</trd>,
+    <trd>field poppy</trd>,
+    <trd>red poppy</trd>,
+    <trd>Flanders poppy</trd>
+  </trdgrp>
+  <trd lng="fr">coquelicot</trd>
+  <trd lng="hu">pipacs</trd>
+  <trd lng="nl">klaproos</trd>
+  <trd lng="ru">&c_m;&c_a;&c_k;-&c_s;&c_a;&c_m;&c_o;&c_s;&c_je;&c_j;&c_k;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>divý mak</trd>,
+    <trd>vlčí mak</trd>
+  </trdgrp>
+  <trd lng="cs">mák vlčí</trd>
+</drv>
+</art>
+<!--
+$Log: papav.xml,v $
+Revision 1.24  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.23  2015/06/29 16:40:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.22  2013/08/30 15:10:23  revo
+Wolfram Diestel: kor. lst-ref
+
+Revision 1.21  2013/08/28 13:10:27  revo
+Wolfram Diestel: referencoj al bot genroj, spicoj, prilaboris la difinon
+
+Revision 1.20  2009/01/17 18:09:23  revo
+Wieland Pusch: +trd bg
+
+Revision 1.19  2009/01/06 17:30:17  revo
+Russ Williams: +trd en
+
+Revision 1.18  2006/02/24 17:36:10  revo
+Tulio Flores: +trd pt
+
+Revision 1.17  2005/06/28 20:26:18  revo
+Alan ar Gall: +trd br
+
+Revision 1.16  2003/07/15 16:30:55  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.15  2002/05/11 10:27:06  revo
+-->
+</vortaro>

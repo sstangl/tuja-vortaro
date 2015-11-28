@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: nilpot.xml,v 1.8 2012/08/04 09:10:32 revo Exp $">
+<kap>
+  <rad>nilpotent</rad>/a
+</kap>
+<drv mrk="nilpot.0a">
+  <kap><tld/>a</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>EKV</bib><lok>&para;295</lok></fnt>
+  <snc>
+    <ref tip="dif" cel="potenc.nul0a">nulpotenca.</ref>
+  </snc>
+  <trd lng="be">&c_n;&c_ib;&c_l;&c_mol;&c_p;&c_a;&c_t;&c_e;&c_n;&c_t;&c_n;&c_y;</trd>
+  <trd lng="ca">nilpotent</trd>
+  <trd lng="de">nilpotent</trd>
+  <trd lng="en">nilpotent</trd>
+  <trd lng="fa">&f_p;&a_w;&f_ch;&a_t;&a_w;&a_A;&a_n;</trd>
+  <trd lng="fr">nilpotent</trd>
+  <trd lng="hu">nilpotens</trd>
+  <trd lng="nl">nilpotent</trd>
+  <trd lng="pl">nilpotentny</trd>
+  <trd lng="pt">nilpotente</trd>
+  <trd lng="ru">&c_n;&c_i;&c_l;&c_mol;&c_p;&c_o;&c_t;&c_je;&c_n;&c_t;&c_n;&c_y;&c_j;</trd>
+</drv>
+</art>
+
+<!--
+$Log: nilpot.xml,v $
+Revision 1.8  2012/08/04 09:10:32  revo
+Marc Rausell: + trd ca
+
+Revision 1.7  2009/09/11 16:30:49  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.6  2009/09/07 16:31:48  revo
+Paul Peeraerts: +nl
+
+Revision 1.5  2006/06/25 16:32:12  revo
+Tulio Flores: +tr pt
+
+Revision 1.4  2004/06/22 16:29:51  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.3  2004/02/19 18:50:16  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.2  2002/11/30 17:36:36  revo
+Marc Bavant: +trd pl
+
+Revision 1.1  2002/06/25 19:37:59  revo
+-->
+</vortaro>

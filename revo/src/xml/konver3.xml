@@ -1,0 +1,185 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: konver3.xml,v 1.19 2015/07/04 08:37:38 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>konvert</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="konver3.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="konver3.0i.REL.prozelitigi">
+    <uzo tip="fak">REL</uzo>
+    <dif>
+      Alkonduki iun al <ref tip="vid" cel="pi.0eco.REL">pieco</ref>, a&ubreve;
+      
+      ene de propra religio a&ubreve; san&gcirc;ante por nova religio:
+      <ekz>
+        <tld/>i pekinton;
+      </ekz>
+      <ekz>
+        <tld/>i kristanojn al islamo.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_z;&c_mol;&c_v;&c_ja;&c_r;&c_n;&c_u;&c_c;&c_mol; <klr tip="amb">(&c_u; &c_v;&c_je;&c_r;&c_u;)</klr></trd>,
+      <trd>&c_n;&c_a;&c_v;&c_ja;&c_r;&c_n;&c_u;&c_c;&c_mol; <klr tip="amb">(&c_u; &c_v;&c_je;&c_r;&c_u;)</klr></trd>,
+      <trd>&c_p;&c_a;&c_v;&c_ja;&c_r;&c_n;&c_u;&c_c;&c_mol; <klr
+      tip="amb">(&c_g;&c_r;&c_e;&c_sh;&c_n;&c_ib;&c_k;&c_a;)</klr></trd>,
+      <trd>&c_n;&c_a;&c_v;&c_ja;&c_r;&c_n;&c_u;&c_c;&c_mol; <klr
+      tip="amb">(&c_g;&c_r;&c_e;&c_sh;&c_n;&c_ib;&c_k;&c_a;)</klr></trd>
+    </trdgrp>
+    <trd lng="de">bekehren</trd>
+    <trdgrp lng="en">
+      <trd>convert</trd>,
+      <trd>cause <ind>spiritual regeneration</ind></trd>
+    </trdgrp>
+    <trd lng="hu">megt&eacute;r&iacute;t</trd>
+    <trd lng="pt">converter</trd>
+    <trdgrp lng="ru">
+      <trd>&c_o;&c_b;&c_r;&c_a;&c_t;&c_i;&c_t;&c_mol; <klr>(&c_v; &c_v;&c_je;&c_r;&c_u;)</klr></trd>,
+      <trd>&c_o;&c_b;&c_r;&c_a;&c_t;&c_i;&c_t;&c_mol; <klr>(&c_g;&c_r;&c_je;&c_sh;&c_n;&c_i;&c_k;&c_a;)</klr></trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="konver3.0i.FIG.al.opinio">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Per persvado alkonduki iun al nova opinio, partio:
+      <ekz>
+        mi estas tro maljuna por esti ankora&ubreve;
+        <tld/>ita al tiuj novaj doktrinoj.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="varb.0i.POL">varbi</ref>,
+    </refgrp>
+    <refgrp tip="vid">
+      <ref cel="propag.0i">propagandi</ref>,
+      <ref cel="prozel.0o">prozelito</ref>
+    </refgrp>
+    <trd lng="be">&c_s;&c_h;&c_ib;&c_l;&c_ib;&c_c;&c_mol; <klr tip="amb">(&c_d;&c_a; &c_d;&c_u;&c_m;&c_k;&c_ib;,
+    &c_p;&c_je;&c_r;&c_a;&c_k;&c_a;&c_n;&c_a;&c_n;&c_mol;&c_n;&c_ja;)</klr></trd>
+    <trd lng="de">bekehren</trd>
+    <trd lng="en">proselytize</trd>
+    <trd lng="hu">megt&eacute;r&iacute;t</trd>
+    <trd lng="ru">&c_s;&c_k;&c_l;&c_o;&c_n;&c_i;&c_t;&c_mol; <klr>(&c_k;
+    &c_u;&c_b;&c_je;&c_zh;&c_d;&c_je;&c_n;&c_i;&c_ju;)</klr></trd>
+  </snc>
+  <snc mrk="konver3.0i.KOMP">
+    <uzo tip="fak">KOMP</uzo>
+    <dif>
+      Transformi datumon, konservante la sencon de la prezentata
+      informo:
+      <ekz>
+        <tld/>i la entjeron <frm>1000000</frm> en egalvaloran
+        glitpunktan reelon <frm>0.1e7</frm>;
+      </ekz>
+      <ekz>
+        <tld/>i mesa&gcirc;on el Unikodo en x-surogaton;
+      </ekz>
+      <ekz>
+        <tld/>i minusklajn nomojn al majuskloj.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_k;&c_a;&c_n;&c_v;&c_e;&c_r;&c_t;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
+      <trd>&c_p;&c_je;&c_r;&c_a;&c_t;&c_v;&c_a;&c_r;&c_y;&c_c;&c_mol;</trd>
+    </trdgrp>
+    <trd lng="de">konvertieren</trd>
+    <trd lng="en">transform</trd>
+    <trdgrp lng="hu">
+      <trd>konvert&aacute;l</trd>,
+      <trd>&aacute;talak&iacute;t</trd>,
+    </trdgrp>
+    <trd lng="pt">converter</trd>
+    <trd lng="ru">&c_p;&c_r;&c_je;&c_o;&c_b;&c_r;&c_a;&c_z;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>konvertovat</trd>,
+    <trd>obrátit</trd>,
+    <trd>provést konverzi</trd>,
+    <trd>přestoupit</trd>,
+    <trd>převádět</trd>
+  </trdgrp>
+  <trd lng="es">convertir</trd>
+  <trd lng="fr">convertir</trd>
+  <trdgrp lng="sk">
+    <trd>konvertovať</trd>,
+    <trd>navrátiť niekoho</trd>,
+    <trd>prehovoriť</trd>,
+    <trd>prestúpiť do inej cirkvi</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="konver3.0igxi">
+  <kap><tld/>i&gcirc;i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="konver3.0igxi.REL">
+    <dif>
+      Ali&gcirc;i al religio a&ubreve; opinio, fidante al &gcirc;i kaj agante la&ubreve; &gcirc;i:
+      <ekz>
+        pentu do, kaj <tld/>i&gcirc;u, por ke viaj pekoj estu forvi&scirc;itaj
+        <fnt><bib>NT</bib>, <lok>&Ago; 3:19</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="en">convert</trd>
+  <trd lng="es">convertirse</trd>
+  <trd lng="fr">se <ind>convertir</ind></trd>
+</drv>
+
+<drv mrk="konver3.0igxo">
+  <kap><tld/>i&gcirc;o</kap>
+  <snc mrk="konver3.0igxo.REL">
+    <uzo tip="fak">REL</uzo>
+    <dif>
+      Turni&gcirc;o al iu religio, al iu doktrino, kaj sekva &scirc;an&gcirc;o en sia 
+      vivmaniero:
+      <ekz>
+        ili, a&ubreve;dinte tion, komencis interkonsili, pensante kun &gcirc;ojo
+        pri 
+        la venko de sia instruo kaj pri la signifo, kiun por la idolana 
+        mondo havos <tld/>i&gcirc;o de a&ubreve;gustano
+        <fnt><aut>H. Sienkewicz, trad. L. Zamenhof</aut>, <vrk>Quo 
+        vadis?</vrk>, <lok>1933</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="en">conversion</trd>
+  <trd lng="es">conversi&oacute;n</trd>
+  <trd lng="fr">conversion</trd>
+</drv>
+</art>
+<!--
+$Log: konver3.xml,v $
+Revision 1.19  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2015/04/20 18:10:16  revo
+Carlos Garcia: +trd es -i -igxi -igxo
+
+Revision 1.16  2009/06/27 16:31:13  revo
+Russ Williams: +trd en
+
+Revision 1.15  2007/04/29 16:31:28  revo
+Jeromo Vasxe: + ~igxo, ~i konfuz. snc 1 k 2
+
+Revision 1.14  2005/07/04 16:31:59  revo
+Jeromo Vasxe: + ~igxi
+
+Revision 1.13 2005/04/21 17:17:14 revo
+Luiz Portella: +2 trd pt; kor mistjp
+
+Revision 1.12 2004/09/28 16:31:56 revo
+Dmitri Gabinski: +trd be
+
+Revision 1.11 2002/08/02 10:13:17 revo
+Jozefo Horvath: +trd hu
+
+Revision 1.10 2002/03/10 17:31:15 revo
+-->
+</vortaro>

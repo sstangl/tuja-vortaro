@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: epope.xml,v 1.17 2015/07/04 08:37:33 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>epope</rad>/o
+</kap>
+<drv mrk="epope.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="epope.0o.POE">
+    <uzo tip="fak">BELE</uzo>
+    <uzo tip="fak">POE</uzo>
+    <dif>
+      <ref tip="vid" cel="epos.0o.POE">Epos</ref>a&jcirc;o, longa
+      rakonta
+      <ref tip="super" cel="poem.0o.POE">poemo</ref> pri herooj:
+      <ekz>
+        Iliado, Eneado, Rolandkanto, Nibelungkanto estas <tld/>oj;
+      </ekz>
+      <ekz>
+        tradukaj laboroj de Antoni Grabowski inkluzivis la dekmilversan
+        <tld/>on de Mickiewicz, <ctl>Sinjoro Tadeo</ctl>
+        <fnt><bib>Plumamikoj</bib>, <lok>la esperanta verkisto: izolo,
+        malprofito, fido</lok></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="en">epic poem</trd>
+    <trd lng="pl">epopeja</trd>
+  </snc>
+  <snc mrk="epope.0o.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Longa sinsekvo de aventuroj:
+      <ekz>
+        <uzo tip="klr">(ironie)</uzo>
+        la okuloj de la homoj sekvas kun intereso la novan epizodon de
+        la
+        granda <tld/>o de lia vivo
+        <fnt><bib>Marta</bib></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="odise.0ado.FIG">odiseado <sncref/></ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_e;&c_p;&c_a;&c_p;&c_je;&c_ja;</trd>
+  <trdgrp lng="cs">
+    <trd>báseň</trd>,
+    <trd>epopej</trd>,
+    <trd>epopeja</trd>,
+    <trd>epopeje</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Epos</trd>,
+    <trd>Heldengedicht</trd>
+  </trdgrp>
+  <trd lng="en">epic</trd>
+  <trd lng="es">epopeya</trd>
+  <trd lng="fr">&eacute;pop&eacute;e</trd>
+  <trdgrp lng="hu">
+    <trd>h&odblac;sk&ouml;ltem&eacute;ny</trd>,
+    <trd>eposz</trd>
+  </trdgrp>
+  <trd lng="pt">epop&#233;ia</trd>
+  <trd lng="ru">&c_e;&c_p;&c_o;&c_p;&c_je;&c_ja;</trd>
+  <trd lng="sk">epopeja</trd>
+</drv>
+</art>
+<!--
+$Log: epope.xml,v $
+Revision 1.17  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.15  2010/02/10 17:30:17  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.14  2008/07/29 16:30:44  revo
+Russ Williams: +trd en
+
+Revision 1.13  2007/06/28 16:33:12  revo
+Tulio Flores: +tr pt
+
+Revision 1.12  2005/08/13 16:34:07  revo
+Jeromo Vasxe: + 1 ekz, + tez, + snc fig
+
+Revision 1.11 2003/12/18 17:32:31 revo
+Dmitri Gabinski: +trd be
+
+Revision 1.10 2002/08/21 17:31:35 revo
+Jozefo Horvath: +trd hu
+
+Revision 1.9 2002/06/25 19:36:57 revo
+Ulrich Fellmann: + 2 trd de
+
+Revision 1.8 2002/06/10 17:32:28 revo
+-->
+</vortaro>

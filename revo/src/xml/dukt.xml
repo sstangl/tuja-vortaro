@@ -1,0 +1,307 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: dukt.xml,v 1.16 2015/07/04 08:37:32 revo Exp $">
+<kap>
+  <rad>dukt</rad>/o <fnt><bib>SPV</bib></fnt>
+</kap>
+
+<drv mrk="dukt.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="dukt.0o.KOMUNE">
+    <dif>
+      Iom granda <ref tip="super" cel="tub.0o">tubo</ref>, kiu portadas
+      flua&jcirc;on de devena loko al cela loko:
+    </dif>
+    <subsnc mrk="dukt.0o.ANA">
+      <fnt><bib>SPV</bib></fnt>
+      <uzo tip="fak">ANA</uzo>
+      <uzo tip="fak">FIZL</uzo>
+      <dif>
+        de organo a&ubreve; al organo:
+        <ekz>
+          glandoj, kiuj <klr>...</klr> havas nur unu <tld/>on
+          <fnt>
+          <aut>P. Jelenc</aut>,
+          <vrk>intersekseco</vrk>,
+          <lok>soc.culture.esperanto, 1994-02-20</lok>
+          </fnt>.
+        </ekz>
+      </dif>
+      <trd lng="ca">via</trd>
+      <trdgrp lng="en"><trd>duct</trd>,<trd>tube</trd></trdgrp>
+      <trd lng="fa">&a_m;&a_j;&a_r;&a_A;</trd>
+      <trd lng="fr">conduit<klr tip="amb"> (tube)</klr></trd>
+      <trd lng="hu">vezet&eacute;k <klr tip="amb">(anat&oacute;mia)</klr></trd>
+      <trdgrp lng="it">
+        <trd>dotto</trd>,
+        <trd>canale<klr> (anat.)</klr></trd>,
+        <trd>condotto</trd>
+      </trdgrp>
+      <trd lng="nl">leider<klr tip="ind"> (anatomie)</klr></trd>
+      <trd lng="pl">przew&oacute;d</trd>
+      <trd lng="pt">duto</trd>
+      <trd lng="ru">&c_k;&c_a;&c_n;&c_a;&c_l;</trd>
+    </subsnc>
+    <subsnc mrk="dukt.0o.TEK">
+      <fnt><bib>PIV1</bib></fnt>
+      <uzo tip="fak">TEK</uzo>
+      <dif>
+        de produkta industria loko al konsuma loko:
+        <ekz>
+          konstrui novan petrolan kaj/a&ubreve; gasan <tld/>on
+          Rusio-Belarusio-Polio.
+          <fnt>
+          <aut>Z. Lapcionak</aut>,
+          <vrk>Re: politika geografio</vrk>,
+          <lok>soc.culture.esperanto, 2002-07-23</lok>
+          </fnt>.
+        </ekz>
+      </dif>
+      <trdgrp lng="ca">
+        <trd>tub</trd>,
+        <trd>canonada</trd>
+      </trdgrp>
+      <trd lng="en">pipeline</trd>
+      <trd lng="fa">&a_kh;&a_T; &a_l;&a_w;&a_l;&a_h;</trd>
+      <trd lng="fr">conduit<klr tip="amb"> (tube)</klr></trd>
+      <trd lng="hu">cs&odblac;vezet&eacute;k</trd>
+      <trdgrp lng="it">
+        <trd>dotto</trd>,
+        <trd>condotta<klr> (tubo)</klr></trd>,
+        <trd>condotto</trd>
+      </trdgrp>
+      <trd lng="nl">leiding<klr tip="ind"> (buis)</klr></trd>
+      <trdgrp lng="pl">
+        <trd>-ci&aogonek;g<klr> (np. ropoci&aogonek;g)</klr></trd>,
+        <trd>kana&lstroke;</trd>
+      </trdgrp>
+      <trd lng="ru">&c_t;&c_r;&c_u;&c_b;&c_o;&c_p;&c_r;&c_o;&c_v;&c_o;&c_d;</trd>
+    </subsnc>
+    <subsnc mrk="dukt.0o.KOMP">
+      <fnt><bib>KompLeks</bib></fnt>
+      <uzo tip="fak">KOMP</uzo>
+      <dif>
+        de procezo al procezo, sen intera dosiero:
+        <ekz>
+          &leftquot;tubo&rightquot;, fakvorte
+          &leftquot;<tld/>o&rightquot;, signifas, ke eligon de unu
+          programo oni metas kiel enigon de la sekva programo
+          <fnt>
+          <aut>M. Minich</aut>,
+          <vrk>rekonstrui signojn</vrk>,
+          <lok>soc.culture.esperanto, 2004-01-28</lok>
+          </fnt>.
+        </ekz>
+      </dif>
+      <trd lng="ca">canal</trd>
+      <trd lng="fa">&a_kh;&a_T; &a_l;&a_w;&a_l;&a_h;</trd>
+      <trdgrp lng="fr">
+        <trd>pipe<klr tip="amb"> (informatique)</klr></trd>,
+        <trd>tube<klr tip="amb"> (pipe, informatique)</klr></trd>
+      </trdgrp>
+      <trd lng="hu">cs&odblac; <klr
+      tip="amb">(programl&aacute;ncol&aacute;sra)</klr></trd>
+      <trd lng="it">pipe<klr> (inf.)</klr></trd>
+      <trd lng="nl">pipe<klr tip="ind"> (informatica)</klr></trd>
+      <trd lng="pl">potok<klr> (informat.)</klr></trd>
+      <trd lng="ru">&c_k;&c_a;&c_n;&c_a;&c_l;</trd>
+    </subsnc>
+    <trd lng="ca">conducte</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>ductus</trd>,
+    <trd>kanálek</trd>,
+    <trd>průchod</trd>,
+    <trd>trubice</trd>,
+    <trd>vývod</trd>,
+    <trd>vývod žláz se zevní sekrecí</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>kanálik</trd>,
+    <trd>trubica</trd>,
+    <trd>vývod</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="dukt.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="dukt.0a.FIZL">
+    <uzo tip="fak">FIZL</uzo>
+    <uzo tip="klr">(pri organo)</uzo>
+    <dif>
+      Eliganta substancojn tra <tld/>o.
+    </dif>
+    <ref tip="vid" cel="ekzokrin.0a.FIZL">ekzokrina <sncref/></ref>
+  </snc>
+</drv>
+
+<drv mrk="dukt.akvo0o">
+  <kap>akvo<tld/>o</kap>
+  <snc mrk="dukt.akvo0o.TEK">
+    <fnt><bib>EBV</bib></fnt>
+    <uzo tip="fak">ARKI</uzo>
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      <ref tip="super" cel="dukt.0o.TEK"><tld lit="D"/>o</ref> kaj kunaj
+      rimedoj, kiu provizas akvon al urbo a&ubreve; ajna loko, kie
+      &gcirc;i 
+      bezonatas:
+      <ekz>
+        Londono ne havis akvo<tld/>on, tiam
+        <fnt><bib>SatirRak</bib>, <lok>la barbaro</lok></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="akvedu.0o">akvedukto</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_k;&c_v;&c_e;&c_d;&c_u;&c_k;</trd>,
+    <trd>&c_v;&c_a;&c_d;&c_a;&c_p;&c_r;&c_a;&c_v;&c_o;&c_d;</trd>
+  </trdgrp>
+  <trd lng="ca">aq&uuml;educte</trd>
+  <trdgrp lng="cs">
+    <trd>akvadukt</trd>,
+    <trd>kanálek obsahující vodu</trd>,
+    <trd>mokovod</trd>
+  </trdgrp>
+  <trd lng="de">Aqu&auml;dukt</trd>
+  <trd lng="en">aqueduct</trd>
+  <trd lng="es">acueducto</trd>
+  <trdgrp lng="fa">
+    <trd>&a_A_madda;&a_b;&zwnj;&a_b;&a_fatha;&a_r;</trd>,
+    <trd>&a_A_madda;&a_b;&a_A;&a_r;&a_h;</trd>
+  </trdgrp>
+  <trd lng="fr">aqueduc</trd>
+  <trd lng="hu">v&iacute;zvezet&eacute;k<klr tip="ind">
+  (aquaeductus)</klr></trd>
+  <trd lng="it">acquedotto</trd>
+  <trd lng="nl">aquaduct</trd>
+  <trdgrp lng="pl">
+    <trd>wodoci&aogonek;g</trd>,
+    <trd>akwedukt<klr> (hist.)</klr></trd>
+  </trdgrp>
+  <trd lng="pt">aqueduto</trd>
+  <trdgrp lng="ru">
+    <trd>&c_a;&c_k;&c_v;&c_je;&c_d;&c_u;&c_k;</trd>,
+    <trd>&c_v;&c_o;&c_d;&c_o;&c_p;&c_r;&c_o;&c_v;&c_o;&c_d;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>akvadukt</trd>,
+    <trd>vodovod</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="dukt.gas0o">
+  <kap>gas<tld/>o</kap>
+  <fnt><bib>EBV</bib></fnt>
+  <snc mrk="dukt.gas0o.TEK">
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      <ref tip="super" cel="dukt.0o.TEK"><tld lit="D"/>o</ref>, kiu
+      portas
+      gason, ordinare brulgason.
+    </dif>
+  </snc>
+  <trd lng="ca">gasoducte</trd>
+  <trd lng="de">Gaspipeline</trd>
+  <trd lng="en">gas <ind>pipeline</ind></trd>
+  <trd lng="fa">&a_kh;&a_T; &a_l;&a_w;&a_l;&a_h;&a_hamza_sure; &f_g;&a_A;&a_z;</trd>
+  <trd lng="fr">gazoduc</trd>
+  <trd lng="hu">g&aacute;zvezet&eacute;k</trd>
+  <trd lng="it">gasdotto</trd>
+  <trd lng="nl">gaspijpleiding</trd>
+  <trd lng="pl">gazoci&aogonek;g</trd>
+  <trd lng="ru">&c_g;&c_a;&c_z;&c_o;&c_p;&c_r;&c_o;&c_v;&c_o;&c_d;</trd>
+</drv>
+
+<drv mrk="dukt.nafto0o">
+  <kap>nafto<tld/>o</kap>
+  <fnt><bib>EBV</bib></fnt>
+  <snc mrk="dukt.nafto0o.TEK">
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      <ref tip="super" cel="dukt.0o.TEK"><tld lit="D"/>o</ref>, kiu
+      portas
+      nafton.
+    </dif>
+  </snc>
+  <trd lng="ca">oleoducte</trd>
+  <trdgrp lng="cs">
+    <trd>produktovod</trd>,
+    <trd>ropovod</trd>
+  </trdgrp>
+  <trd lng="de">&Ouml;lpipeline</trd>
+  <trd lng="en">oil <ind>pipeline</ind></trd>
+  <trd lng="fa">&a_kh;&a_T; &a_l;&a_w;&a_l;&a_h;&a_hamza_sure; &a_n;&a_f;&a_t;</trd>
+  <trd lng="fr">pipe-line</trd>
+  <trd lng="hu">k&odblac;olajvezet&eacute;k</trd>
+  <trd lng="it">oleodotto</trd>
+  <trd lng="nl">oliepijpleiding</trd>
+  <trdgrp lng="pl">
+    <trd>naftoci&aogonek;g</trd>,
+    <trd>ropoci&aogonek;g</trd>
+  </trdgrp>
+  <trd
+  lng="ru">&c_n;&c_je;&c_f;&c_t;&c_je;&c_p;&c_r;&c_o;&c_v;&c_o;&c_d;</trd>
+  <trd lng="sk">ropovod</trd>
+</drv>
+
+<drv mrk="dukt.sen0a">
+  <kap>sen<tld/>a</kap>
+  <snc mrk="dukt.sen0a.FIZL">
+    <uzo tip="fak">FIZL</uzo>
+    <uzo tip="klr">(pri organo)</uzo>
+    <dif>
+      Eliganta substancojn, sen <tld/>o:
+      <ekz>
+        aliaj <klr>[glandoj]</klr> estas tute sen<tld/>aj kaj ties 
+        sekrecia&jcirc;oj enfluas rekte en la sangofluon
+        <fnt>
+          <aut>H. Schicke</aut>,
+          <vrk><url
+          ref="http://www.naturkuracado.info/51088195f60b7be04/51088195f60ce1426/index.html">
+          Metabolaj kaj endokrinaj malsanoj</url></vrk>,
+          <lok>Naturkuracado.info, 2005</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="endokrin.0a.FIZL">endokrina <sncref/></ref>
+  </snc>
+</drv>
+</art>
+
+<!--
+$Log: dukt.xml,v $
+Revision 1.16  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.14  2015/01/01 18:10:16  revo
+Alain Gerard: +rim
+
+Revision 1.13  2015/01/01 10:10:26  revo
+Alain Gerard: +ref
+
+Revision 1.12  2012/08/04 08:10:41  revo
+Marc Rausell: + trd ca
+
+Revision 1.11  2010/11/11 17:30:51  revo
+Antonio Codazzi: +trd it
+
+Revision 1.10  2009/11/28 17:31:29  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.9  2009/09/07 16:30:47  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.8  2009/08/24 16:33:06  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.7  2009/07/17 16:31:02  revo
+-->
+</vortaro>

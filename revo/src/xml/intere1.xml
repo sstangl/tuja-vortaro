@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: intere1.xml,v 1.17 2015/07/04 08:37:36 revo Exp $">
+<kap>
+  <rad>interez</rad>/o
+</kap>
+
+<drv mrk="intere1.0o">
+  <kap><tld/>o</kap>
+  <snc>
+    <uzo tip="fak">EKON</uzo>
+    <uzo tip="fak">JUR</uzo>
+    <dif>
+      Kompenso, kalkulita en procentoj, kurante pagota krom la &ccirc;efa
+      &scirc;uldo de &scirc;uldanto por la fruktuzo de fremdaj valoroj:
+      <ekz>
+        la&ubreve; la le&gcirc;aro de la jaro 1734, <tld/>o ne superu 6
+        procentojn
+        <fnt>
+        <aut>Bo Sandelin</aut>
+        <vrk>Anta&ubreve;merkantilisma ekonomia pensado</vrk>
+        <bib>Monato</bib><lok>jaro 2001a, numero
+        2a, p. 16a</lok></fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>Zins</trd>,
+      <trd>Zinsen</trd>,
+      <trd>Verzinsung</trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+    <trd>procent</trd>,
+    <trd>odsetka</trd>
+    </trdgrp>
+  </snc>
+  <snc>
+    <uzo tip="fak">MAH</uzo>
+    <dif>
+      Parto de la plusvaloro, aperanta kiel kompenso kalkulita en
+      procentoj, kurante pagota krom la &ccirc;efa &scirc;uldo de &scirc;uldanto pro la
+      fruktuzo de fremdaj valoroj.
+    </dif>
+  </snc>
+  <refgrp tip="vid">
+    <ref cel="kupon.0o">kupono</ref>,
+    <ref cel="kvot.0o">kvoto</ref>,
+    <ref cel="profit.0o">profito</ref>,
+    <ref cel="rent.0o">rento</ref>,
+    <ref cel="spez">enspezo</ref>,
+    <ref cel="valor.0o">valoro</ref>.
+  </refgrp>
+  <trd lng="be">&c_p;&c_r;&c_a;&c_c;&c_e;&c_n;&c_t; <klr>(&c_u; &c_f;&c_ib;&c_n;&c_a;&c_n;&c_s;&c_a;&c_h;)</klr></trd>
+  <trd lng="ca">inter&eacute;s</trd>
+  <trdgrp lng="de">
+    <trd>Zinsen</trd>
+  </trdgrp>
+  <trd lng="es">inter&eacute;s</trd>
+  <trdgrp lng="fr">
+    <trd>int&eacute;r&ecirc;t<klr tip="ind"> (finance)</klr></trd>
+  </trdgrp>
+  <trd lng="hu">kamat</trd>
+  <trdgrp lng="nl">
+    <trd>rente</trd>,
+    <trd>interest</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+   <trd>juros<klr tip="amb"> (renda de capital)</klr></trd>, 
+   <trd>renda de capital</trd> 
+  </trdgrp>
+  <trd lng="ru">&c_p;&c_r;&c_o;&c_c;&c_je;&c_n;&c_t;</trd>
+  <trd lng="sk">úrok</trd>
+  <trd lng="cs">úrok</trd>
+</drv>
+<adm>
+  La kripta difino restas sensxangxa gxis en PIV2. Indas almenaux
+  klarigi la diferencon disde "procento" kaj "rentumo".
+  <aut>MB</aut>
+</adm>
+</art>
+<!--
+$Log: intere1.xml,v $
+Revision 1.17  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.15  2013/04/16 06:10:10  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.14  2012/07/20 13:10:13  revo
+Marc Rausell: + trd ca
+
+Revision 1.13  2007/05/30 16:31:11  revo
+Wieland Pusch: +trd de
+
+Revision 1.12  2005/11/14 17:31:14  revo
+Luiz Portella: +trd pt
+
+Revision 1.11  2004/09/06 16:36:13  revo
+Marc Bavant: mod trd fr, +adm
+
+Revision 1.10  2004/02/11 19:21:49  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.9  2004/02/09 17:31:26  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.8  2003/01/22 17:33:04  revo
+-->
+</vortaro>

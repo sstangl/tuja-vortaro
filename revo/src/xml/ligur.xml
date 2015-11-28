@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: ligur.xml,v 1.8 2015/07/04 08:37:38 revo Exp $">
+<kap>
+  <rad>ligur</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="ligur.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="ligur.0o.GEOG">
+    <uzo tip="fak">GEOG</uzo>
+    <dif>
+      Lo&gcirc;anto de
+      <ref tip="malprt" cel="ligur.0ujo">Ligurujo</ref>.
+    </dif>
+  </snc>
+  <snc mrk="ligur.0o.ETN">
+    <uzo tip="fak">HIS</uzo>
+    <dif>
+      Ano de anta&ubreve;-hinde&ubreve;ropa popolo, kiu lo&gcirc;is de
+      Luni&gcirc;ianio &gcirc;is Pireneoj:
+      <ekz>
+        ili estas vere la solaj indaj posteuloj de la <tld lit="L"/>oj.
+        <fnt>
+          <aut>L. Beaucaire</aut>,
+          <vrk>El la vivo de bervala senta&ubreve;gulo</vrk>,
+          <lok>1974</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">Ligur</trd>
+  <trd lng="de">Ligurer</trd>
+  <trd lng="en">Ligurian</trd>
+  <trd lng="fr">ligure<klr> (subst.)</klr></trd>
+  <trd lng="it">Ligure</trd>
+  <trd lng="nl">Liguri&euml;r</trd>
+  <trd lng="sk">Ligur</trd>
+</drv>
+
+<drv mrk="ligur.0a">
+  <kap><tld/>a</kap>
+  <snc>
+    <dif>
+      Rilatanta al la <tld lit="L"/>oj a&ubreve; al <tld lit="L"/>ujo.
+    </dif>
+    <ekz>
+      <tld/>a lingvo; <tld/>a sa&ubreve;co; <tld lit="L"/>a Maro.
+    </ekz>
+  </snc>
+  <trd lng="de">ligurisch</trd>
+  <trd lng="en">Ligurian</trd>
+  <trd lng="fr">ligure<klr> (adj.)</klr></trd>
+  <trd lng="it">ligure</trd>
+  <trd lng="nl">Ligurisch</trd>
+</drv>
+
+<drv mrk="ligur.0ujo">
+  <kap><tld lit="L"/>ujo</kap>
+  <snc mrk="ligur.0ujo.GEOG">
+    <uzo tip="fak">GEOG</uzo>
+    <dif>
+      Provinco en nord-okcidenta
+      <ref tip="malprt" cel="ital.I0ujo">Italujo</ref> kun &ccirc;efurbo
+      &Gcirc;enovo.
+    </dif>
+  </snc>
+  <trd lng="bg">&c_L;&c_i;&c_g;&c_u;&c_r;&c_i;&c_ja;</trd>
+  <trd lng="de">Ligurien</trd>
+  <trd lng="en">Liguria</trd>
+  <trd lng="it">Liguria</trd>
+  <trd lng="fr">Ligurie</trd>
+  <trd lng="nl">Liguri&euml;</trd>
+</drv>
+</art>
+<!--
+$Log: ligur.xml,v $
+Revision 1.8  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.7  2015/06/29 16:33:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.6  2009/10/06 16:45:04  revo
+Paul Peeraerts: +nl
+
+Revision 1.5  2009/08/08 16:33:57  revo
+Russ Williams: +trd en
+
+Revision 1.4  2008/12/12 17:57:13  revo
+Luiz Portella: kor mistajpo: cel=ligur.Oujo >> cel="ligur.0ujo
+
+Revision 1.3  2008/10/30 19:24:57  revo
+Wieland Pusch: +trd de
+
+Revision 1.2  2008/10/12 16:43:50  revo
+Jeromo Vasxe: - ligurio portinda al nova artikolo, + rearangxoj, + trd
+fr
+
+Revision 1.1 2008/09/30 18:14:49 revo
+Antonio Codazzi: nova artikolo
+
+-->
+</vortaro>

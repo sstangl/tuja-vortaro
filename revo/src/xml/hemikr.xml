@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: hemikr.xml,v 1.13 2015/07/04 08:37:35 revo Exp $">
+<kap>
+  <rad>hemikrani</rad>/o <fnt>Z</fnt> <fnt><bib>SPV</bib></fnt> 
+</kap>
+<drv mrk="hemikr.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="hemikr.0o.MED">
+    <uzo tip="fak">MED</uzo>
+    <dif>
+      Grava <ref tip="lst" 
+      cel="dolor.kap0o.MED" lst="voko:malsanoj">kapdoloro</ref>,
+      ordinare atakanta nur unu flankon de la kapo,
+      ofte akompanata de vomemo ktp;
+      <ref tip="sin" cel="migren.0o.MED">migreno</ref>:
+      <ekz>
+        kelkaj homoj trasuferas <tld/>on dum tagoj,
+        ne horoj
+        <fnt>
+          <aut>C. McKee</aut>,
+          <vrk><url ref="http://www.ipernity.com/blog/cindio/344237">
+          What a Migraine Feels Like</url></vrk>,
+          <lok>2011-09-03</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_m;&c_ib;&c_g;&c_r;&c_e;&c_n;&c_mol;</trd>,
+    <trd>&c_g;&c_je;&c_m;&c_ib;&c_k;&c_r;&c_a;&c_n;&c_ib;&c_ja;</trd>
+  </trdgrp>
+  <trd lng="bg">&c_m;&c_i;&c_g;&c_r;&c_je;&c_n;&c_a;</trd>
+  <trdgrp lng="ca">
+    <trd>migranya</trd>,
+    <trd>hemicr&agrave;nia</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>hemikranie</trd>,
+    <trd>migréna</trd>
+  </trdgrp>
+  <trd lng="de">Migr&auml;ne</trd>
+  <trd lng="en">migraine</trd>
+  <trdgrp lng="es">
+    <trd>jaqueca</trd>,
+    <trd>migra&ntilde;a</trd>
+  </trdgrp>
+  <trd lng="fr">migraine</trd>
+  <trdgrp lng="hu">
+    <trd>f&eacute;loldali <ind>fejf&aacute;j&aacute;s</ind></trd>,
+    <trd>hemicrania</trd>,
+    <trd>migr&eacute;n</trd>
+  </trdgrp>
+  <trdgrp lng="id">
+    <trd>migrain</trd>,
+    <trd><ind>sakit</ind> kepala sebelah</trd>
+  </trdgrp>
+  <trd lng="it">emicrania</trd>
+  <trd lng="nl">migraine</trd>
+  <trdgrp lng="pt">
+   <trd>hemicrania</trd>, 
+   <trd>enxaqueca</trd> 
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_m;&c_i;&c_g;&c_r;&c_je;&c_n;&c_mol;</trd>,
+    <trd>&c_g;&c_je;&c_m;&c_i;&c_k;&c_r;&c_a;&c_n;&c_i;&c_ja;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>bolesť hlavy <klr>(jednostranná)</klr></trd>,
+    <trd>migréna</trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log: hemikr.xml,v $
+Revision 1.13  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.12  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.11  2014/11/17 15:10:17  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.10  2013/10/09 19:10:55  revo
+Wolfram Diestel: ref al lst malsanoj
+
+Revision 1.9  2012/08/19 20:10:43  revo
+Marc Rausell: + trd ca
+
+Revision 1.8  2011/09/07 11:10:10  revo
+Jeromo Vasxe: + trd e migren + ref sin migren + ekz
+
+Revision 1.7  2009/09/05 16:31:02  revo
+Antonio Codazzi: +trd it
+
+Revision 1.6  2005/10/15 16:31:50  revo
+Luiz Portella: +trd pt
+
+Revision 1.5  2005/04/11 16:32:02  revo
+Raul Salinas Monteagudo: +trd es
+
+Revision 1.4  2004/09/14 16:31:25  revo
+-->
+</vortaro>

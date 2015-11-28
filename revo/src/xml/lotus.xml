@@ -1,0 +1,139 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: lotus.xml,v 1.19 2015/11/02 21:10:23 revo Exp $">
+<kap>
+  <ofc>8</ofc>
+  <rad>lotus</rad>/o
+</kap>
+<drv mrk="lotus.0o">
+  <kap>
+    <tld/>o
+  </kap>
+  <uzo tip="fak">BOT</uzo>
+  <snc mrk="lotus.0o.fabacano">
+    <dif>
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:botanikaj_genroj">Genro</ref> el familio <ref
+      tip="malprt" cel="fabac.0oj">fabacoj</ref>
+      (<trd lng="la">Lotus</trd>); 
+      <ref tip="lst" cel="herb.0o.BOT"
+      lst="voko:faboparencoj">herbo</ref>
+      kreskanta en arbaroj a&ubreve; kampoj, kun triparte dividitaj folioj kaj
+      grandaj apudfolioj &ccirc;e la tigobazo; kun umbeloj de tri &gcirc;is dek
+      nesimetriaj kvinnombraj floroj, ordinare flavaj kun ru&gcirc;a flageto;
+      la gu&scirc;oj estas kornoforme kurbaj.
+    </dif>
+    <ref tip="vid" cel="foli.tri0o">trifolio</ref>
+    <bld
+ lok="http://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Lotus_maritimus_290508a.jpg/640px-Lotus_maritimus_290508a.jpg">
+      <ind>mara <tld/>o</ind>
+      <trd lng="la">Lotus maritimus</trd>
+      <klr>de Bernd Haynold (propra foto) [GFDL
+      (http://www.gnu.org/copyleft/fdl.html) a&ubreve; CC-BY-SA-3.0-2.5-2.0-1.0
+      (http://creativecommons.org/licenses/by-sa/3.0)], tra Wikimedia
+      Commons</klr>
+    </bld>
+    <trd lng="de">Hornklee</trd>
+    <trdgrp lng="en">
+      <trd>Lotus</trd>,
+      <trd>lotus</trd>
+    </trdgrp>
+    <trd lng="hu">kerep</trd>
+    <trd lng="nl">rolklaver</trd>
+    <trd lng="ru">&c_l;&c_ja;&c_d;&c_v;&c_je;&c_n;&c_je;&c_c;</trd>
+  </snc>
+  <snc mrk="lotus.0o.akvoplantoj">
+    <dif>
+      Difinitaj specioj de akvoplantoj
+      el <ref tip="malprt" cel="nimfea.0oj">nimfeacoj</ref>,
+      nome la hinda <tld/>o (<trd lng="la">Nelumbo nucifera</trd>),
+      la egipta <tld/>o (<trd lng="la">Nymphaea lotus</trd>)
+      kaj la blua <tld/>o (<trd lng="la">Nymphaea caerulea</trd>).
+    </dif>
+    <ref tip="vid" cel="nimfe.0o">nimfeo</ref>
+    <trd lng="de">Lotos</trd>
+    <trdgrp lng="en">
+      <trd>sacred lotus</trd>,
+      <trd>Nelumbo</trd>, <trd>lotus</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>t&uuml;nd&eacute;rr&oacute;zsa</trd>,
+      <trd>l&oacute;tusz</trd>,
+      <trd>padma</trd></trdgrp>
+    <trdgrp lng="id">
+      <trd>lotus</trd>,
+      <trd>padma</trd>,
+      <trd>seroja</trd>,
+      <trd>teratai</trd>
+    </trdgrp>
+      <trd lng="nl">lotus</trd>
+    <trd lng="ru">&c_l;&c_o;&c_t;&c_o;&c_s;</trd>
+  </snc>
+  <snc mrk="lotus.0o.arbo">
+    <dif>
+      Arbo, kies fruktoj, la&ubreve; kredo de la antikvuloj, forgesigis la
+      patrolandon al tiuj, kiuj ilin man&gcirc;is. 
+      =<ref tip="sin" cel="lotos.0o">lotoso</ref>
+    </dif>
+    <trd lng="de">Lotos</trd>
+    <trd lng="en">lotus tree</trd>
+    <trd lng="hu">l&oacute;tuszfa</trd>
+    <trd lng="nl">lotusboom</trd>
+    <trd lng="ru">&c_l;&c_o;&c_t;&c_o;&c_s;</trd>
+  </snc>
+  
+  <adm>
+    Oni povas konsideri la tri sencojn homonimoj, do devus disigi en tri
+    artikolojn. <aut>wd</aut>
+  </adm>
+</drv>
+
+<drv mrk="lotus.0efiko">
+  <kap><tld/>efiko <fnt><bib>Viki</bib></fnt></kap>
+  <snc mrk="lotus.0efiko.perlado">
+    <dif>
+      Perlado de akvo kun samtempa forigo de malpura&jcirc;oj, ka&ubreve;zita de
+      certa
+       strukturo de surfaco, aperanta
+      ekz. &ccirc;e la folioj de <ref
+      cel="lotus.0o.akvoplantoj"><tld/>o</ref>,
+      <ref cel="akvile.0o">akvilegio</ref>, <ref
+      cel="alcxem.0o">al&ccirc;emilo</ref>,
+      blanka brasiko kaj flugiloj de insektoj.
+    </dif>
+  </snc>
+  <trd lng="de">Lotuseffekt</trd>
+  <trdgrp lng="en">
+    <trd>lotus effect</trd>,
+    <trd>superhydrophobicity</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: lotus.xml,v $
+Revision 1.19  2015/11/02 21:10:23  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.18  2014/11/15 04:10:16  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.17  2013/11/16 20:10:17  revo
+Wolfram Diestel: snc 1: prilaboris dif, ref al faboparencoj, pli bona
+foto de wikipedia
+
+Revision 1.16  2013/11/12 20:10:12  revo
+Wolfram Diestel: sxanghis efekto al efiko
+
+Revision 1.15  2013/11/12 19:10:13  revo
+Wolfram Diestel: +lotusefekto, adm
+
+Revision 1.14  2013/08/26 19:10:21  revo
+Wolfram Diestel: referenco al listo bot genroj
+
+Revision 1.13  2009/10/08 16:31:31  revo
+Paul Peeraerts: +nl +ref
+
+-->
+</vortaro>

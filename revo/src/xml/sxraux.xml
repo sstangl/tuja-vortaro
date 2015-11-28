@@ -1,0 +1,407 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: sxraux.xml,v 1.22 2015/08/21 09:10:15 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>&scirc;ra&ubreve;b</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="sxraux.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="sxraux.0o.TEK">
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      Ilo el metalo a&ubreve; ligno konsistanta el cilindra
+      a&ubreve; konusforma akso helice kanelita, kiu servas
+      ordinare por kunigi a&ubreve; fiksi pli firme ol per najlo, sed
+      anka&ubreve; por premi, levi, fermi, bori, movon transigi ktp.
+    </dif>
+    <ref tip="sub" cel="bolt.0o">bolto</ref>
+  <trd lng="de">Schraube</trd>
+  <trd lng="el">&beta;&jota_ton;&delta;&alfa;</trd>
+  <trd lng="en">screw</trd>
+  <trd lng="es">tornillo</trd>
+  <trd lng="fr">vis</trd>
+  <trd lng="hu">csavar</trd>
+  <trd lng="it">vite</trd>
+  <trd lng="nl">schroef</trd>
+  <trdgrp lng="pl">
+    <trd>wkr&eogonek;t</trd>,
+    <trd>&sacute;ruba</trd>
+  </trdgrp>
+  <trd lng="pt">parafuso</trd>
+  <trd lng="ru">&c_v;&c_i;&c_n;&c_t;</trd>
+  <trd lng="sv">skruv</trd>
+  </snc>
+</drv>
+
+<drv mrk="sxraux.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="sxraux.0i.TEK_turni">
+    <dif>
+      Turni <tld/>on.
+    </dif>
+    <trd lng="hu">csavar</trd>
+  </snc>
+  <snc mrk="sxraux.0i.TEK_fiksi">
+    <dif>
+      Fiksi per <tld/>o.
+    </dif>
+    <trd lng="hu">csavaroz</trd>
+  </snc>
+  <trd lng="de">schrauben</trd>
+  <trd lng="el">&beta;&jota;&delta;&omega_ton;&ny;&omega;</trd>
+  <trd lng="es">atornillar</trd>
+  <trd lng="fr">visser</trd>
+  <trd lng="it">avvitare</trd>
+  <trd lng="nl">schroeven</trd>
+  <trdgrp lng="pl">
+    <trd>przykr&eogonek;ca&cacute;</trd>,
+    <trd>po&lstroke;&aogonek;czy&cacute;
+    <ind>wkr&eogonek;tem</ind></trd>,
+    <trd>po&lstroke;&aogonek;czy&cacute;
+    <ind>wkr&eogonek;tami</ind></trd>,
+    <trd>skr&eogonek;ci&cacute; <ind>wkr&eogonek;tem</ind></trd>,
+    <trd>skr&eogonek;ci&cacute; <ind>wkr&eogonek;tami</ind></trd>,
+    <trd>ze&sacute;rubowywa&cacute;</trd>,
+    <trd>ze&sacute;rubowa&cacute;</trd>,
+    <trd>przy&sacute;rubowywa&cacute;</trd>,
+    <trd>przy&sacute;rubowa&cacute;</trd>,
+    <trd>po&lstroke;&aogonek;czy&cacute;
+    <ind>&sacute;rub&aogonek;</ind></trd>,
+    <trd>po&lstroke;&aogonek;czy&cacute;
+    <ind>&sacute;rubami</ind></trd>,
+    <trd>skr&eogonek;ci&cacute; <ind>&sacute;rub&aogonek;</ind></trd>,
+    <trd>skr&eogonek;ci&cacute; <ind>&sacute;rubami</ind></trd>
+  </trdgrp>
+  <trd lng="pt">aparafusar</trd>
+  <trdgrp lng="ru">
+    <trd>&c_z;&c_a;&c_v;&c_i;&c_n;&c_ch;&c_i;&c_v;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_z;&c_a;&c_v;&c_i;&c_n;&c_t;&c_i;&c_t;&c_mol;</trd>,
+    <trd>&c_p;&c_r;&c_i;&c_v;&c_i;&c_n;&c_ch;&c_i;&c_v;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_p;&c_r;&c_i;&c_v;&c_i;&c_n;&c_t;&c_i;&c_t;&c_mol;</trd>,
+    <trd>&c_v;&c_v;&c_i;&c_n;&c_ch;&c_i;&c_v;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_v;&c_v;&c_i;&c_n;&c_t;&c_i;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="sv">skruva</trd>
+</drv>
+
+<drv mrk="sxraux.0igi">
+  <kap><tld/>igi</kap>
+  <snc mrk="sxraux.0igi.Tek">
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      Fari helicajn kanelojn &ccirc;e cilindro a&ubreve; konuso.
+    </dif>
+  </snc>
+  <trd lng="es">terrajar</trd>
+  <trd lng="fr">fileter</trd>
+  <trd lng="hu">menetet v&aacute;g</trd>
+  <trd lng="it">filettare</trd>
+  <trd lng="nl">schroefdraad maken</trd>
+  <trdgrp lng="pl">
+    <trd>gwintowa&cacute;</trd>,
+    <trd>nacina&cacute; <ind>gwint</ind></trd>
+  </trdgrp>
+  <trd lng="ru">&c_n;&c_a;&c_r;&c_je;&c_z;&c_a;&c_t;&c_mol; &c_r;&c_je;&c_z;&c_mol;&c_b;&c_u;</trd>
+</drv>
+
+<drv mrk="sxraux.0ilo">
+  <kap><tld/>ilo</kap>
+  <snc mrk="sxraux.0ilo.TEK">
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      Ilo por turni kaj enigi <tld/>on.
+    </dif>
+  </snc>
+  <trdgrp lng="de">
+    <trd>Schraubenzieher</trd>,
+    <trd>Schraubendreher</trd>
+  </trdgrp>
+  <trd lng="el">&kappa;&alfa;&tau;&sigma;&alfa;&beta;&jota_ton;&delta;&jota;</trd>
+  <trd lng="en">screwdriver</trd>
+  <trd lng="es">desarmador</trd>
+  <trd lng="fr">tournevis</trd>
+  <trd lng="hu">csavaroz&oacute;</trd>
+  <trdgrp lng="it">
+    <trd>cacciavite</trd>, 
+    <trd>giravite</trd>, 
+    <trd>avvitatore</trd>
+  </trdgrp>
+  <trd lng="nl">schroevendraaier</trd>
+  <trdgrp lng="pl">
+    <trd>wkr&eogonek;tak</trd>,
+    <trd>&sacute;rubokr&eogonek;t</trd>,
+    <trd>klucz<klr> (do &sacute;rub)</klr></trd>
+  </trdgrp>
+  <trd lng="pt">chave de parafuso</trd>
+  <trdgrp lng="ru">
+    <trd>&c_o;&c_t;&c_v;&c_jo;&c_r;&c_t;&c_k;&c_a;</trd>,
+    <trd>&c_g;&c_a;&c_je;&c_ch;&c_n;&c_y;&c_j; &c_k;&c_l;&c_ju;&c_ch;</trd>
+    &c_i; &c_t;.&c_p;.
+  </trdgrp>
+  <trd lng="sv">skruvmejsel</trd>
+</drv>
+
+<drv mrk="sxraux.0igilo">
+  <kap><tld/>igilo</kap>
+  <snc mrk="sxraux.0igilo.TEK">
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      Ilo por fari helicajn kanelojn &ccirc;e <tld/>o.
+    </dif>
+  </snc>
+  <trd lng="es">terraja</trd>
+  <trd lng="hu">menetv&aacute;g&oacute;</trd>
+  <trd lng="nl">draadtrekker</trd>
+  <trd lng="fr">fili&egrave;re</trd>
+  <trd lng="it">filiera<klr> (filettatrice)</klr></trd>
+  <trd lng="pl">narzynka</trd>
+  <trd lng="ru">&c_p;&c_l;&c_a;&c_sh;&c_k;&c_a;
+  <klr>(&c_i;&c_n;&c_s;&c_t;&c_r;&c_u;&c_m;&c_je;&c_n;&c_t; &c_d;&c_l;&c_ja; &c_n;&c_a;&c_r;&c_je;&c_z;&c_a;&c_n;&c_i;&c_ja; &c_n;&c_a;&c_r;&c_u;&c_zh;&c_n;&c_o;&c_j; &c_r;&c_je;&c_z;&c_mol;&c_b;&c_y;)</klr></trd>
+</drv>
+
+<drv mrk="sxraux.0ingo">
+  <kap><tld/>ingo</kap>
+  <snc mrk="sxraux.0ingo.TEK">
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      Helice interne kanelita ringo, en kiun oni turnante enigas
+      <tld/>on.
+    </dif>
+    <rim>
+      -ingo estas ta&ubreve;ga anka&ubreve; por indiki la truon,
+      kie estas la &scirc;ra&ubreve;bo... Ni povus difini tion nur kiel &leftquot;kanelita
+      ringo&rightquot;, se la vorto estus <tld/>ringo.
+      <aut>A. Codazzi</aut>
+    </rim>
+  </snc>
+  <trd lng="de">Mutter</trd>
+  <trd lng="el">&pi;&alfa;&xi;&jota;&my;&alfa_ton;&delta;&jota;</trd>
+  <trd lng="es">tuerca</trd>
+  <trd lng="fr">&eacute;crou</trd>
+  <trd lng="hu">anya<klr tip="ind"> (csavar&eacute;)</klr></trd>
+  <trdgrp lng="it">
+   <trd>dado<klr> (di bullone)</klr></trd>, 
+   <trd>madrevite</trd>
+  </trdgrp>
+  <trd lng="nl">moer</trd>
+  <trd lng="pl">nakr&eogonek;tka</trd>
+  <trd lng="pt">porca</trd>
+  <trd lng="ru">&c_g;&c_a;&c_j;&c_k;&c_a;</trd>
+  <trd lng="sv">mutter</trd>
+</drv>
+
+<drv mrk="sxraux.0borilo">
+  <kap><tld/>borilo</kap>
+  <snc mrk="sxraux.0borilo.TEK">
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      Ilo por fari helicajn kanelojn interne de <tld/>ingo.
+    </dif>
+  </snc>
+  <trd lng="de">Gewindebohrer</trd>
+  <trd lng="es">machuelo</trd>
+  <trd lng="fr">taraud</trd>
+  <trd lng="hu">menetf&uacute;r&oacute;</trd>
+  <trd lng="it">maschio<klr> (filettatore)</klr></trd>
+  <trd lng="nl">boor<klr tip="ind"> (om moeren te draaien)</klr></trd>
+  <trd lng="pl">gwintownik</trd>
+  <trd lng="ru">&c_m;&c_je;&c_t;&c_ch;&c_i;&c_k;
+  <klr>(&c_i;&c_n;&c_s;&c_t;&c_r;&c_u;&c_m;&c_je;&c_n;&c_t;
+  &c_d;&c_l;&c_ja; &c_n;&c_a;&c_r;&c_je;&c_z;&c_a;&c_n;&c_i;&c_ja;
+  &c_v;&c_n;&c_u;&c_t;&c_r;&c_je;&c_n;&c_n;&c_je;&c_j;
+  &c_r;&c_je;&c_z;&c_mol;&c_b;&c_y;)</klr></trd>
+</drv>
+
+<drv mrk="sxraux.0forma">
+  <kap><tld/>forma</kap>
+  <snc mrk="sxraux.0forma.KOMUNE">
+    <dif>
+      Similanta <tld/>on:
+      <ekz>
+        <ind><tld/>forma &scirc;tuparo</ind>
+        <trd lng="it">scala a chiocciola</trd>
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="serpen.0a">serpenta</ref>,
+      <ref cel="spiral">spirala</ref>,
+      <ref cel="tord.0a">torda</ref>.
+    </refgrp>
+  </snc>
+  <trd lng="fr">h&eacute;lico&iuml;dal</trd>
+  <trdgrp lng="hu">
+    <trd>csavarforma</trd>,
+    <trd>csavaros</trd>,
+    <trd>csavarszer&udblac;</trd>
+  </trdgrp>
+  <trdgrp lng="it">
+   <trd>a <ind>vite</ind></trd>, 
+   <trd>elicoidale<klr> (a vite)</klr></trd> 
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>schroefvormig</trd>,
+    <trd>wentel-</trd>
+  </trdgrp>
+  <trd lng="pl">&sacute;rubowy</trd>
+  <trd lng="ru">&c_v;&c_i;&c_n;&c_t;&c_o;&c_o;&c_b;&c_r;&c_a;&c_z;&c_n;&c_y;&c_j;</trd>
+</drv>
+
+<drv mrk="sxraux.0kanelo">
+  <kap><tld/>kanelo</kap>
+  <snc mrk="sxraux.0kanelo.TEK">
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      Elstara kanelo, kiu helice &ccirc;irka&ubreve;as la kernon de
+      <tld/>o.
+    </dif>
+  </snc>
+  <trd lng="es">cuerda<klr> (de tornillo)</klr></trd>
+  <trd lng="fr">filetage</trd>
+  <trd lng="hu">csavarmenet</trd>
+  <trdgrp lng="it">
+   <trd>filetto</trd>, 
+   <trd>filettatura<klr> (filetto)</klr></trd> 
+  </trdgrp>
+  <trd lng="pl">gwint</trd>
+  <trd lng="ru">&c_r;&c_je;&c_z;&c_mol;&c_b;&c_a;</trd>
+</drv>
+
+<drv mrk="sxraux.0pasxo">
+  <kap><tld/>pa&scirc;o</kap>
+  <snc mrk="sxraux.0pasxo.TEK">
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      Distanco inter du homologaj punktoj de la kanelo de <tld/>o,
+      mezurata paralele al la akso.
+    </dif>
+  </snc>
+  <trd lng="es">paso<klr> (de tornillo)</klr></trd>
+  <trd lng="fr">pas de vis</trd>
+  <trd lng="hu">menetemelked&eacute;s</trd>
+  <trd lng="it">passo<klr> (di filettatura)</klr></trd>
+  <trd lng="pl">skok <ind>gwintu</ind></trd>
+  <trd lng="ru">&c_sh;&c_a;&c_g; &c_r;&c_je;&c_z;&c_mol;&c_b;&c_y;</trd>
+</drv>
+
+<drv mrk="sxraux.0sxlosilo">
+  <kap><tld/>&scirc;losilo</kap>
+  <snc mrk="sxraux.0sxlosilo.TEK">
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      Speco de <ref tip="super" cel="sxraux.0ilo"><tld/>ilo</ref>,
+      kiu servas por <tld/>i la <tld/>ojn,
+      <tld/>ingojn a&ubreve; <ref tip="vid" cel="bolt.0o">boltojn</ref>
+      kun poligona kapo:
+      <ekz>
+        <ind>angla <tld/>&scirc;losilo</ind>
+        <klr>(kies beko estas lar&gcirc;igebla)</klr>.
+        <trd lng="es">llave inglesa</trd>
+        <trd lng="hu">franciakulcs</trd>
+        <trd lng="it">chiave inglese</trd>
+        <trd lng="pt">chave inglesa</trd>
+        <trd lng="ru">&c_r;&c_a;&c_z;&c_v;&c_o;&c_d;&c_n;&c_o;&c_j; &c_k;&c_l;&c_ju;&c_ch;</trd>
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="es">llave<klr> (para tuercas</klr></trd>
+  <trd lng="fr">cl&eacute; de serrage</trd>
+  <trd lng="hu">csavarkulcs</trd>
+  <trd lng="de">Schraubenschl&uuml;ssel</trd>
+  <trd lng="it">chiave
+     <klr> (spaccata, ad anello, inglese, a tubo, ecc..)</klr>
+  </trd>
+  <trdgrp lng="pl">
+    <trd>klucz<klr> (do &sacute;rub np. maszynowy, oczkowy,
+    itd.)</klr></trd>
+  </trdgrp>
+  <trd lng="pt">chave de boca</trd>
+  <trd lng="ru">&c_g;&c_a;&c_je;&c_ch;&c_n;&c_y;&c_j; &c_k;&c_l;&c_ju;&c_ch;</trd>
+</drv>
+
+<drv mrk="sxraux.0turnilo">
+  <kap><tld/>turnilo</kap>
+  <snc mrk="sxraux.0turnilo.TEK">
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      Speco de <ref tip="super" cel="sxraux.0ilo"><tld/>ilo</ref>,
+      kiu servas por <tld/>i la <tld/>ojn kun enkapa
+      <ref tip="vid" cel="fend.0o">fendo</ref>.
+    </dif>
+  </snc>
+  <trd lng="de">Schraubenzieher</trd>
+  <trd lng="fr">tournevis</trd>
+  <trd lng="hu">csavarh&uacute;z&oacute;</trd>
+  <trdgrp lng="it">
+    <trd>cacciavite</trd>, 
+    <trd>giravite</trd>, 
+    <trd>avvitatore</trd>
+  </trdgrp>
+  <trd lng="pt">chave de fenda</trd>
+  <trdgrp lng="pl">
+    <trd>wkr&eogonek;tak</trd>,
+    <trd>&sacute;rubokr&eogonek;t</trd>,
+    <trd>klucz<klr> (do &sacute;rub)</klr></trd>
+  </trdgrp>
+  <trd lng="ru">&c_o;&c_t;&c_v;&c_jo;&c_r;&c_t;&c_k;&c_a;</trd>
+</drv>
+
+<drv mrk="sxraux.arhximeda0o">
+  <kap>ar&hcirc;imeda <tld/>o</kap>
+  <snc mrk="sxraux.arhximeda0o.TEK">
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      Simpla <tld/>forma 
+      <ref tip="super" cel="mehxan1.0o.pecoj">me&hcirc;anismo</ref>,
+      kreita de Ar&hcirc;imedo la&ubreve; la helena historio,
+      kiu turni&gcirc;ante konstante supren levas akvon, sablon, 
+      tritikon kaj similajn.
+    </dif>
+  </snc>
+  <trd lng="fr"><ind>vis</ind> d'Archim&egrave;de</trd>
+  <trd lng="it"><ind>vite</ind> di Archimede</trd>
+</drv>
+
+<drv mrk="sxraux.senfina0o">
+  <kap>senfina <tld/>o</kap>
+  <snc mrk="sxraux.senfina0o.TEK">
+  <uzo tip="fak">TEK</uzo>
+    <dif>
+      <tld lit="&Scirc;"/>o kuplita al
+      <ref tip="vid" cel="rad.dent0o.TEK">dentrado</ref>
+      por transmisio de movo.
+    </dif>
+  </snc>
+  <trd lng="fr"><ind>vis</ind> sans fin</trd>
+  <trd lng="it"><ind>vite</ind> senzafine</trd>
+</drv>
+</art>
+<!--
+$Log: sxraux.xml,v $
+Revision 1.22  2015/08/21 09:10:15  revo
+Jeromo Vasxe: sxrauxo -> sxrauxbo
+
+Revision 1.21  2014/12/02 15:10:12  revo
+Damien Brucker: +trd fr
+
+Revision 1.20  2009/04/07 16:30:45  revo
+Antonio Codazzi: +trd it; +rim (~ingo); +senfina ~o; +arhximeda ~o
+
+Revision 1.19  2009/03/20 17:30:49  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.18  2009/02/19 20:27:00  revo
+Jerano Zachrisson: +trd sv
+
+Revision 1.17  2005/01/17 17:35:02  revo
+Wieland Pusch: +trd de
+
+Revision 1.16  2004/09/14 16:31:08  revo
+Juergen Brandt: + trd de
+
+Revision 1.15  2003/12/19 17:58:06  revo
+-->
+</vortaro>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<!DOCTYPE mallongigoj [
+
+<!ELEMENT mallongigoj (mallongigo)*>
+<!ELEMENT mallongigo (#PCDATA)>
+<!ATTLIST mallongigo mll ID #REQUIRED>
+
+]>
+ 
+<mallongigoj>
+
+  <mallongigo mll="*">fundamenta</mallongigo>
+  <mallongigo mll="1">1a oficiala aldono</mallongigo>
+  <mallongigo mll="2">2a oficiala aldono</mallongigo>
+  <mallongigo mll="3">3a oficiala aldono</mallongigo>
+  <mallongigo mll="4">4a oficiala aldono</mallongigo>
+  <mallongigo mll="5">5a oficiala aldono</mallongigo>
+  <mallongigo mll="6">6a oficiala aldono</mallongigo>
+  <mallongigo mll="7">7a oficiala aldono</mallongigo>
+  <mallongigo mll="8">8a oficiala aldono</mallongigo>
+  <mallongigo mll="abs.">absolute, senkomplemente</mallongigo>
+  <mallongigo mll="adj.">adjektivo</mallongigo>
+  <mallongigo mll="adv.">adverbo</mallongigo>
+  <mallongigo mll="a.K.">antaŭ Kristo</mallongigo>
+  <mallongigo mll="akuz.">akuzativo</mallongigo>
+  <mallongigo mll="anst.">anstataŭ</mallongigo>
+  <mallongigo mll="ark.">arkaismo</mallongigo>
+  <mallongigo mll="B">Bein</mallongigo>
+  <mallongigo mll="C">Christaller</mallongigo>
+  <mallongigo mll="ĉap.">ĉapitro</mallongigo>
+  <mallongigo mll="D">Millidge</mallongigo>
+  <mallongigo mll="ekz.">ekzemple</mallongigo>
+  <mallongigo mll="E-o">Esperanto</mallongigo>
+  <mallongigo mll="F">Fulcher k Long</mallongigo>
+  <mallongigo mll="f">figure, metafore</mallongigo>
+  <mallongigo mll="fam.">familio</mallongigo>
+  <mallongigo mll="G">Grabowski</mallongigo>
+  <mallongigo mll="G.">genro</mallongigo>
+  <mallongigo mll="i.a.">interalia</mallongigo>
+  <mallongigo mll="inf.">infinitivo</mallongigo>
+  <mallongigo mll="interj.">interjekcio</mallongigo>
+  <mallongigo mll="jc">jarcento</mallongigo>
+  <mallongigo mll="K">Krestomatio</mallongigo>
+  <mallongigo mll="k. a.">kaj aliaj</mallongigo>
+  <mallongigo mll="kc">kaj ceteraj</mallongigo>
+  <mallongigo mll="ks">kaj similaj</mallongigo>
+  <mallongigo mll="ktp">kaj tiel plu</mallongigo>
+  <mallongigo mll="konj.">konjunkcio</mallongigo>
+  <mallongigo mll="Kp">Komparu</mallongigo>
+  <mallongigo mll="LI">Lingvo Internacia</mallongigo>
+  <mallongigo mll="LK">Lingva Komitato</mallongigo>
+  <mallongigo mll="N">Bennemann</mallongigo>
+  <mallongigo mll="ntr">netransitiva</mallongigo>
+  <mallongigo mll="p.">paĝo(j)</mallongigo>
+  <mallongigo mll="pp">parolante pri</mallongigo>
+  <mallongigo mll="part.">participo</mallongigo>
+  <mallongigo mll="pref.">prefikso</mallongigo>
+  <mallongigo mll="prep.">prepozicio</mallongigo>
+  <mallongigo mll="pron.">pronomo</mallongigo>
+  <mallongigo mll="prop.">propozicio</mallongigo>
+  <mallongigo mll="R">Rollet de l'Isle</mallongigo>
+  <mallongigo mll="resp.">respektive</mallongigo>
+  <mallongigo mll="Rim.">Rimarko</mallongigo>
+  <mallongigo mll="simb.">simbolo</mallongigo>
+  <mallongigo mll="sk">subkomprenu</mallongigo>
+  <mallongigo mll="subst.">substantivo</mallongigo>
+  <mallongigo mll="t.e.">tio estas</mallongigo>
+  <mallongigo mll="tr">transitiva</mallongigo>
+  <mallongigo mll="trad.">tradukis</mallongigo>
+  <mallongigo mll="veg.">vegetaĵo</mallongigo>
+  <mallongigo mll="Vd">Vidu</mallongigo>
+  <mallongigo mll="vol.">volumo</mallongigo>
+  <mallongigo mll="x">transitiva kaj netransitiva</mallongigo>
+  <mallongigo mll="Y">diversaj aliaj vortaristoj</mallongigo>
+  <mallongigo mll="Z">Zamenhof</mallongigo>
+</mallongigoj>

@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: kuplet.xml,v 1.9 2015/07/04 08:37:38 revo Exp $">
+<kap>
+  <rad>kuplet</rad>/o <fnt><bib>NePiv</bib></fnt>
+</kap>
+
+<drv mrk="kuplet.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="stl">RAR</uzo>
+  <snc mrk="kuplet.0o.MUZ">
+    <uzo tip="fak">MUZ</uzo>
+    <ref tip="dif" cel="strof.0o">strofo</ref>
+    <ekz>
+      finante &ccirc;iun <tld/>on, &scirc;i estis levanta tre alte la nudan piedon
+      <fnt><bib>Metrop</bib></fnt>.
+    </ekz>
+  </snc>
+  <trd lng="be">&c_k;&c_u;&c_p;&c_l;&c_je;&c_t;</trd>
+  <trd lng="ca">estrofa</trd>
+  <trdgrp lng="cs">
+    <trd>kuplet</trd>,
+    <trd>popěvek</trd>
+  </trdgrp>
+  <trd lng="de">Couplet</trd>
+  <trd lng="en">couplet</trd>
+  <trd lng="fr">couplet</trd>
+  <trd lng="hu">versszak</trd>
+  <trdgrp lng="nl">
+    <trd>couplet</trd>,
+    <trd>strofe</trd>
+  </trdgrp>
+  <trd lng="ru">&c_k;&c_u;&c_p;&c_l;&c_je;&c_t;</trd>
+  <trdgrp lng="sk">
+    <trd>kuplet</trd>,
+    <trd>popevok</trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log: kuplet.xml,v $
+Revision 1.9  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.8  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.7  2011/12/11 21:10:16  revo
+Marc Rausell: +trd ca
+
+Revision 1.6  2009/07/07 16:30:52  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.5  2008/10/20 18:43:15  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.4  2007/05/01 18:24:51  revo
+Wieland Pusch: +trd de,en,fr
+
+Revision 1.3  2005/05/17 16:32:27  revo
+Yury Finkel: +trd ru
+
+Revision 1.2  2005/01/12 18:21:25  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.1  2004/06/20 16:33:11  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

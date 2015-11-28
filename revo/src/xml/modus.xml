@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: modus.xml,v 1.11 2015/07/04 08:37:39 revo Exp $">
+<kap>
+  <rad>modus</rad>/o <fnt><bib>NePiv</bib></fnt>
+</kap>
+<drv mrk="modus.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="modus.0o.FIL">
+    <uzo tip="fak">FIL</uzo>
+    <dif>
+      Ekzistomaniero, &ccirc;iu el la diversaj formoj en kiuj aperas unu
+      sama esenco; eco kiun objekto posedas en iu(j) el siaj
+      statoj (kontraste al esenca, konstanta
+      <ref tip="ant" cel="atribu1.0o.FIL">atributo</ref>).
+    </dif>
+    <trd lng="be">&c_m;&c_o;&c_d;&c_u;&c_s;</trd>
+    <trd lng="hu">m&oacute;dusz</trd>    
+    <trd lng="ru">&c_m;&c_o;&c_d;&c_u;&c_s;</trd>
+    <trd lng="de">Modus</trd>
+  </snc>
+  <snc mrk="modus.0o.GRA">
+    <uzo tip="fak">GRA</uzo>
+    <dif>
+      Klaso da verboformoj, posedantaj unu saman
+      sintaksan karakteron (la&ubreve; tio kiajn frazrolojn povas havi
+      la koncernaj formoj, kiajn komplementojn ili povas enkonduki):
+      <ekz>
+        <ref tip="sub" cel="infini2.0o">infinitivo</ref> estas
+        <tld/>o kelkrilate simila al substantivo,
+        &ccirc;ar &gcirc;i povas roli kiel subjekto a&ubreve; objekto;
+      </ekz>
+      <ekz>
+        a-participo estas <tld/>o posedanta la ecojn de adjektivo;
+      </ekz>
+      <ekz>
+        <ctl>vidas</ctl>, <ctl>vidis</ctl>, <ctl>vidus</ctl> apartenas
+        al la <ctl>persona</ctl> <tld/>o (finitivo) de la verbo
+        <ctl>vidi</ctl>, &ccirc;ar ili postulas indikon de la aganto
+        (1a, 2a, 3a persono).
+      </ekz>
+    </dif>
+    <trd lng="be">&c_f;&c_o;&c_r;&c_m;&c_a; <klr
+tip="amb">(&c_d;&c_z;&c_je;&c_ja;&c_s;&c_l;&c_o;&c_v;&c_a;)</klr></trd>
+    <trd lng="de">Verbform</trd>
+    <trd lng="hu">igealak</trd>    
+    <trd lng="ru">&c_f;&c_o;&c_r;&c_m;&c_a;
+<klr>(&c_g;&c_l;&c_a;&c_g;&c_o;&c_l;&c_a;)</klr></trd>
+  </snc>
+  <snc mrk="modus.0o.TEK">
+    <uzo tip="fak">TEK</uzo>
+    <uzo tip="fak">KOMP</uzo>
+    <dif>
+      <ref tip="dif" cel="regxim.0o.TEK">re&gcirc;imo</ref>:
+      <ekz>
+        kiam oni premas denove la enigoklavon, oni forlasas la
+        skribo<tld/>on kaj reiras al la tekstomontra <tld/>o
+        <fnt>
+        <aut>Uli Ender</aut>,
+        <lok><url
+ 
+ref="http://ourworld.compuserve.com/homepages/Uli_Ender/e-esp01.htm#109"
+        ></url>Programlingvo E koncize</lok>.
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_r;&c_e;&c_zh;&c_y;&c_m;</trd>
+    <trd lng="hu">&uuml;zemm&oacute;d</trd>    
+    <trd lng="ru">&c_r;&c_je;&c_zh;&c_i;&c_m;</trd>
+    <trd lng="de">Modus</trd>
+  </snc>
+  <trd lng="ca">mode</trd>
+  <trdgrp lng="cs">
+    <trd>modus</trd>,
+    <trd>způsob</trd>
+  </trdgrp>
+  <trd lng="fr"><klr>(le)</klr> <ind>mode</ind></trd>
+  <trd lng="pt">modo</trd>
+  <trdgrp lng="sk">
+    <trd>modus</trd>,
+    <trd>spôsob</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: modus.xml,v $
+Revision 1.11  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.10  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.9  2012/01/04 09:10:11  revo
+Marc Rausell: +trd ca
+
+Revision 1.8  2006/08/07 16:32:25  revo
+Tulio Flores: +tr pt
+
+Revision 1.7  2004/06/15 21:33:01  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.6  2004/03/22 17:30:53  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.5  2004/02/26 17:31:00  revo
+Jeromo Vasxe: + fnt nepiv
+
+Revision 1.4 2003/06/14 20:48:01 revo
+Sergio Pokrovskij: gxustigis trd
+
+Revision 1.3 2001/10/07 18:21:26 revo
+jxeromo vasxe: pemas - premas
+
+Revision 1.2 2000/12/17 18:55:04 revo
+-->
+</vortaro>

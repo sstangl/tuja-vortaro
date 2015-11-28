@@ -1,0 +1,324 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: sucx.xml,v 1.24 2013/12/10 13:10:16 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>su&ccirc;</rad>/i
+</kap>
+<drv mrk="sucx.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      Eltiri flua&jcirc;on el io, alspirante per la bu&scirc;o:
+      <ekz>
+        la infano <tld/>as la mamon de la patrino;
+      </ekz>
+      <ekz>
+        la abeloj <tld/>as la mielon el la floroj;
+      </ekz>
+      <ekz>
+        <ind><tld/>infano</ind>;
+        <trd lng="hu">csecsem&odblac;</trd>
+        <trd lng="nl">zuigeling</trd>
+        <trd lng="es">lactante</trd>
+        <trd lng="ru">&c_g;&c_r;&c_u;&c_d;&c_n;&c_o;&c_j; &c_r;&c_je;&c_b;&c_jo;&c_n;&c_o;&c_k;</trd>
+      </ekz>
+      <ekz>
+        en la <tld/>infana periodo de nia lingvo<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        la radikoj <tld/>as la subteran malseka&jcirc;on;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        spongo en<tld/>as akvon<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        en la altlernejo li en<tld/>is liberspiritan manieron de
+        pensado<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        <tld/>o <klr>(altiro)</klr> de la pezoforto.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="sorb.0i">sorbi</ref>,
+      <ref cel="cxerp.0i">&ccirc;erpi</ref>.
+    </refgrp>
+  </snc>
+  <trd lng="de">saugen</trd>
+  <trd lng="en">suck</trd>
+  <trd lng="es">chupar</trd>
+  <trd lng="fa">&a_m;&f_k;&f_y;&a_d;&a_n;</trd>
+  <trd lng="fr">sucer</trd>
+  <trd lng="hu">sz&iacute;v</trd>
+  <trd lng="nl">zuigen</trd>
+  <trdgrp lng="pl">
+    <trd>ssa&cacute;</trd>,
+    <trd>zasysa&cacute;</trd>
+  </trdgrp>
+  <trd lng="ru">&c_s;&c_o;&c_s;&c_a;&c_t;&c_mol;</trd>
+</drv>
+
+<drv mrk="sucx.0igi">
+  <kap><tld/>igi</kap>
+  <snc>
+    <dif>
+      Mamnutri:
+      <ekz>
+        <tld/>igantino<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        <tld/>igantaj bovinoj<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="en">
+    <trd>give <ind>suck</ind></trd>,
+    <trd>nurse</trd>,
+    <trd>breast feed</trd>
+  </trdgrp>
+  <trd lng="es">dar de mamar</trd>
+  <trd lng="fa">&a_sh;&f_y;&a_r; &a_d;&a_A;&a_d;&a_n;<klr tip="amb"> (&a_b;&a_h; &f_k;&a_w;&a_d;&f_k;)</klr></trd>
+  <trd lng="fr">allaiter</trd>
+  <trd lng="hu">szoptat</trd>
+  <trd lng="nl">zogen</trd>
+  <trdgrp lng="pl">
+    <trd>da&cacute; <ind>ssa&cacute;</ind></trd>,
+    <trd>karmi&cacute; <ind>piersi&aogonek;</ind></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="sucx.0ilo">
+  <kap><tld/>ilo</kap>
+  <snc>
+    <dif>
+      Ka&ubreve;&ccirc;uka (a&ubreve; ekzemple silikona) pli-malpli cicoforma a&jcirc;o,
+      kiun oni donas al bebo, por ke &gcirc;i trankvili&gcirc;u su&ccirc;ante &gcirc;in.
+    </dif>
+    <fnt><bib>HejmVort</bib></fnt>
+    <refgrp tip="sin">
+      <ref cel="sucx.0umo">su&ccirc;umo</ref>.
+    </refgrp>
+  </snc>
+  <trd lng="de">Schnuller</trd>
+  <trd lng="en">pacifier</trd>
+  <trdgrp lng="es">
+    <trd>chupete</trd>,
+    <trd>pepe<klr> (fam. Ame.)</klr></trd>
+  </trdgrp>
+  <trd lng="fa">&f_p;&a_s;&a_t;&a_A;&a_n;&f_k;</trd>
+  <trd lng="fr">sucette</trd>
+  <trdgrp lng="hu">
+    <trd>cucli</trd>,
+    <trd>cumi</trd>
+  </trdgrp>
+  <trd lng="pl">smoczek</trd>
+  <trd lng="ro">biberon</trd>  
+</drv>
+
+<drv mrk="sucx.0umo">
+  <kap><tld/>umo</kap>
+  <snc>
+    <!-- #### jen difino per referenco al alia vorto ##### -->
+    <ref tip="dif" cel="sucx.0ilo">su&ccirc;ilo</ref>
+  </snc>
+  <trd lng="fr">sucette</trd>
+</drv>
+
+<drv mrk="sucx.el0i">
+  <kap>el<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      Eltiri per alspirado de bu&scirc;o la tutan flua&jcirc;on el io; elsekigi:
+      <ekz>
+        li alpremis la lipojn al la vundo kaj forte el<tld/>is por
+        eltiri
+        la venenon.
+      </ekz>
+    </dif>
+    <trd lng="en">suck out</trd>
+    <trd lng="de">aussaugen</trd>
+    <trd lng="es">succionar</trd>
+    <trd lng="hu">kisz&iacute;v</trd>
+    <trd lng="fr">aspirer (par la bouche)</trd>
+  </snc>
+  <snc>
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Eltiri la tutan forton de iu a&ubreve; io; tute senfortigi:
+      <ekz>
+        la maljuneco el<tld/>is liajn fortojn;
+      </ekz>
+      <ekz>
+        malbona sistemo ekonomia el<tld/>as la landon
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="cxerp.el0i">el&ccirc;erpi</ref>.
+    </refgrp>
+    <trd lng="en">deplete</trd>
+    <trd lng="hu">kimer&iacute;t</trd>
+    <trdgrp lng="es">
+      <trd>chupar</trd>,
+      <trd>acabar</trd>
+    </trdgrp>
+  </snc>
+  <snc>
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Tute senhavigi, senmonigi iun:
+      <ekz>
+        la lo&gcirc;antaro estas el<tld/>ita de la impostoj.
+      </ekz>
+    </dif>
+    <trdgrp lng="hu">
+      <trd>kiszipolyoz</trd>,
+      <trd>kizsigerel</trd>
+    </trdgrp>
+    <trd lng="es">acabar</trd>
+  </snc>
+  <trd lng="en">deplete</trd>
+  <trd lng="nl">uitzuigen</trd>
+  <trd lng="pl">wyssa&cacute;</trd>
+  <trdgrp lng="ru">
+    <trd>&c_v;&c_y;&c_s;&c_o;&c_s;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_v;&c_y;&c_s;&c_a;&c_s;&c_y;&c_v;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="sucx.el0a">
+  <kap>el<tld/>a</kap>
+  <snc>
+    <dif>
+      Mon&ccirc;erpa, multekosta:
+      <ekz>
+        el<tld/>aj voja&gcirc;kostoj, transportkostoj, impostoj
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="vampir.0o">vampiro</ref>.
+    </refgrp>
+    <trd lng="hu">kimer&iacute;t&odblac;</trd>
+    <trd lng="es">todo muy caro<klr tip="amb"> (figurativo)</klr></trd>
+  </snc>
+</drv>
+
+<drv mrk="sucx.mam0i">
+  <kap>mam<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      Sin nutri <tld/>ante <ref cel="mam.0o">mamon</ref>:
+      <ekz>
+        se <klr>[la infano]</klr> mamsu&ccirc;as malpli ol normale a&ubreve;
+        se &gcirc;i estas subnutrita, la <ind>mam<tld/>o</ind>j povas esti pli
+        oftaj
+        <fnt><aut>Harald Schicke</aut>
+        <vrk><url
+        ref="http://www.naturkuracado.info/51088195f60b7be04/51088195f60cd520f/index.html">Infanaj
+        malsanoj</url></vrk></fnt>;
+        <trdgrp lng="fr">
+          <trd>t&ecirc;t&eacute;e</trd>
+          <trd>allaitement<klr tip="ind"> (s&eacute;ance)</klr></trd>
+          <trd>biberon<klr tip="ind"> (s&eacute;ance d'allaitement)</klr></trd>
+        </trdgrp>
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        mi mam<tld/>is la katolikan fidon kun la lakto
+        <fnt><aut>M. de Cervantes trad. F. Pujul&agrave; y Valles</aut>
+        <vrk><url
+        ref="http://tekstaro.com/prenitutantekston.pl?nomo=don-kihhoto-de-la-mancho-en-barcelono">Don
+        Ki&hcirc;oto de la Man&ccirc;o en Barcelono</url></vrk>
+        <lok>&ccirc;ap. LXIII</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <rim>
+      Oni tiel nutras sin per lakto, do la uzo estas kutime absoluta,
+      sed kiel objekto
+      povas aperi la nomo de la nutra&jcirc;o (se ne temas pri lakto), a&ubreve; de
+      la
+      su&ccirc;ata afero, se ne temas pri mampinto.
+    </rim>
+  </snc>
+  <trd lng="br">dena&ntilde;</trd>
+  <trd lng="ca">mamar</trd>
+  <trd lng="de">an der <ind>Brust</ind> trinken</trd>
+  <trdgrp lng="en">
+    <trd>suck</trd>,
+    <trd>suckle</trd>
+  </trdgrp>
+  <trd lng="fr">t&eacute;ter</trd>
+  <trd lng="he">&lamed;<ind>&yod;&nun;&vav;&qof;</ind></trd>
+  <trd lng="hu">szopik</trd>
+  <trdgrp lng="lat">
+    <trd>lacteo, ere</trd>,
+    <trd>sugo, ere</trd>
+  </trdgrp>
+  <trd lng="nl">zuigen<klr tip="ind"> (a.d.borst)</klr></trd>
+  <trd lng="pl">ssa&cacute; pier&sacute;</trd>
+  <trd lng="pt">mamar</trd>
+  <trd lng="ru">&c_s;&c_o;&c_s;&c_a;&c_t;&c_mol;
+  &c_g;&c_r;&c_u;&c_d;&c_mol;</trd>
+</drv>
+
+<drv mrk="sucx.mam0igi">
+  <kap>mam<tld/>igi</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <ref tip="dif" cel="nutr.mam0i">mamnutri</ref>
+    <ekz>
+      la&ubreve; &gcirc;enerala opinio oni devas mam<tld/>igi la infanon
+      pli a&ubreve; malpli &ccirc;iutriahorei
+      <fnt><aut>Harald Schicke</aut>
+      <vrk><url
+      ref="http://www.naturkuracado.info/51088195f60b7be04/51088195f60cd520f/index.html">Infanaj
+      malsanoj</url></vrk></fnt>.
+    </ekz>
+  </snc>
+  <trd lng="fr">allaiter</trd>
+  <trd lng="he">&lamed;<ind>&he;&yod;&nun;&yod;&qof;</ind></trd>
+  <trd lng="hu">szoptat</trd>
+  <trd lng="nl">zogen</trd>
+  <trd lng="pl">karmi&cacute; <ind>piersi&aogonek;</ind></trd>
+  <trd lng="pt">amamentar</trd>
+  <trd lng="ru">&c_k;&c_o;&c_r;&c_m;&c_i;&c_t;&c_mol;
+  &c_g;&c_r;&c_u;&c_d;&c_mol;&c_ju;</trd>
+  <trd lng="tr">emzirmek</trd>
+</drv>
+</art>
+<!--
+$Log: sucx.xml,v $
+Revision 1.24  2013/12/10 13:10:16  revo
+Damien Brucker: +trd fr
+
+Revision 1.23  2013/09/29 20:10:10  revo
+Vito Redsky: +trd ro
+
+Revision 1.22  2013/01/01 14:10:25  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.21  2012/11/30 01:10:10  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.20  2011/04/15 20:10:14  revo
+Nicolas Bros: +trd fr
+
+Revision 1.19  2011/03/07 16:10:10  revo
+Russ Williams: +trd en (sucxilo=pacifier)
+
+Revision 1.18  2010/07/07 16:30:21  revo
+Agustin Garcia Lopez: eraro es (el - a)
+
+Revision 1.17  2008/11/29 17:30:25  revo
+-->
+</vortaro>

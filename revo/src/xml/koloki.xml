@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: koloki.xml,v 1.11 2012/01/02 11:10:19 revo Exp $">
+<kap>
+  <rad>kolokint</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="koloki.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="koloki.0o.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      Liano el familio <ref tip="super"
+      cel="kukurb1.0oj">kukurbacoj</ref>, kun globformaj, oran&gcirc;ograndaj
+      fruktoj, kies blanka karno estas tre amara kaj laksiga
+      (<trd lng="la">Citrullus colocynthis</trd>):
+    </dif>
+  </snc>
+  <trd lng="ca">coloquinta </trd>
+  <trd lng="de">Koloquinte</trd>
+  <trd lng="fr">coloquinte</trd>
+  <trdgrp lng="hu">
+    <trd>takarm&aacute;nydinnye</trd>,
+    <trd>s&aacute;rt&ouml;k</trd>,
+    <trd>keser&udblac; s&aacute;rt&ouml;k</trd>,
+    <trd>takarm&aacute;ny-g&ouml;r&ouml;gdinnye</trd>
+  </trdgrp>
+  <trd lng="nl">kolokwint</trd>
+  <trd lng="pt">coloqu&iacute;ntida</trd>
+  <trdgrp lng="ru">
+    <trd>&c_k;&c_o;&c_l;&c_o;&c_k;&c_v;&c_i;&c_n;&c_t;</trd>,
+    <trd>&c_k;&c_o;&c_l;&c_o;&c_c;&c_i;&c_n;&c_t;</trd>
+  </trdgrp>
+  <trd lng="sv">kolokvint</trd>
+</drv>
+</art>
+<!--
+$Log: koloki.xml,v $
+Revision 1.11  2012/01/02 11:10:19  revo
+Marc Rausell: +trd ca
+
+Revision 1.10  2008/12/14 17:30:45  revo
+Jerano Zachrisson: +trd sv
+
+Revision 1.9  2006/07/17 16:31:41  revo
+Jeromo Vasxe: kor fnt spv -> pv
+
+Revision 1.8 2005/01/20 17:32:44 revo
+Yury Finkel: +trd ru
+
+Revision 1.7 2004/10/16 16:32:10 revo
+jxeromo vasxe: + fnt spv, + familio, + trd fr pt (el superflua
+kolokint.xml)
+
+Revision 1.6 2002/05/03 16:36:04 revo
+Jozefo Horvath: +trd hu
+
+Revision 1.5 2001/11/04 19:13:53 revo
+Paul Peeraerts: ald trd nl + uzo BOT
+
+-->
+</vortaro>

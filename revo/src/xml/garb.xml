@@ -1,0 +1,228 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: garb.xml,v 1.26 2015/07/04 08:37:34 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>garb</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="garb.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="garb.0o.KOMUNE">
+    <dif>
+      <ref tip="super" cel="fask.0o.KOMUNE">Fasko</ref> da
+      vegeta&jcirc;oj:
+    </dif>
+    <subsnc mrk="garb.0o.AGR">
+      <uzo tip="fak">AGR</uzo>
+      <dif>
+        Kunliga&jcirc;o da fal&ccirc;ita greno.
+      </dif>
+      <trd lng="ca">garba</trd>
+      <trd lng="de">Garbe</trd>
+      <trd lng="hu">k&eacute;ve</trd>
+      <trdgrp lng="nl">
+        <trd>schoof</trd>,
+        <trd>garve</trd>
+      </trdgrp>
+      <trd lng="sv">k&auml;rve</trd>
+    </subsnc>
+    <subsnc mrk="garb.0o.vegetajxa">
+      <dif>
+        Simila dika kunliga&jcirc;o da detran&ccirc;itaj vegeta&jcirc;aj
+        trunketoj:
+        <ekz>
+          <tld/>o da pajlo, fojno, floroj.
+        </ekz>
+      </dif>
+      <trd lng="ca">feix</trd>
+      <trd lng="de">Strau&szlig;</trd>
+      <trd lng="hu">csom&oacute;</trd>
+      <trdgrp lng="nl">
+        <trd>garve</trd>,
+        <trd>struik<klr tip="ind"> (bloemen)</klr></trd>
+      </trdgrp>
+      <trd lng="sv">k&auml;rve</trd>
+    </subsnc>
+    <trdgrp lng="pl">
+      <trd>snop</trd>,
+      <trd>wi&aogonek;zanka</trd>,
+      <trd>wi&aogonek;zka</trd>,
+      <trd>p&eogonek;czek</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="garb.0o.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Aro da longaj a&jcirc;oj:
+      <ekz>
+        tutaj <tld/>oj da rapidaj, oraj, blindigantaj radioj
+        <fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;i tiuj pensoj kvaza&ubreve; <tld/>o da fulmoj trakuris la
+        kapon de Marta
+        <fnt><bib>Marta</bib></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="ca">manat</trd>
+    <trd lng="de">B&uuml;ndel</trd>
+    <trd lng="nl">bundel</trd>
+    <trd lng="hu">k&ouml;teg</trd>
+    <trdgrp lng="pl">
+      <trd>snop</trd>,
+      <trd>wi&aogonek;zka</trd>,
+      <trd>p&eogonek;czek</trd>
+    </trdgrp>
+    <trd lng="sv">knippe</trd>
+  </snc>
+  <refgrp tip="vid">
+    <ref cel="penik.0o">peniko</ref>,
+    <ref cel="tuf.0o">tufo</ref>
+  </refgrp>
+  <trd lng="be">&c_s;&c_n;&c_o;&c_p;</trd>
+  <trdgrp lng="en">
+    <trd>sheaf</trd>,
+    <trd>shock</trd>,
+    <trd>bundle</trd>,
+    <trd>cluster</trd>,
+    <trd>bunch</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>botte<klr tip="ind"> (gerbe)</klr></trd>,
+    <trd>gerbe</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>feixe</trd>,
+    <trd>paveia</trd>
+  </trdgrp>
+  <trd lng="ru">&c_s;&c_n;&c_o;&c_p;</trd>
+  <trd lng="sk">zväzok</trd>
+  <trdgrp lng="cs">
+    <trd>svazek <klr>(přímek, rovin)</klr></trd>,
+    <trd>trs</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="garb.0ejo">
+  <kap><tld/>ejo</kap>
+  <snc mrk="garb.0ejo.AGR">
+    <uzo tip="fak">AGR</uzo>
+    <dif>
+      Loko por konservi <tld/>ojn:
+      <ekz>
+        &scirc;i iris <klr>...</klr> en la <tld/>ejon, prenis fojnon
+        <fnt><bib>ElektFab</bib>, <lok>Fingreto</lok></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="gren.0ejo">grenejo</ref>.
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_g;&c_u;&c_m;&c_n;&c_o;</trd>
+  <trd lng="ca">pallissa</trd>
+  <trd lng="cs">stodola</trd>
+  <trdgrp lng="de">
+    <trd>Banse</trd>,
+    <trd>Scheune</trd>,
+    <trd>Scheuer</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>barn</trd>,
+    <trd>granary</trd>
+  </trdgrp>
+  <trd lng="fr">grange</trd>
+  <trd lng="hu">cs&udblac;r</trd>
+  <trdgrp lng="nl">
+    <trd>schuur</trd>,
+    <trd>hooischuur</trd>,
+    <trd>korenschuur</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>stodo&lstroke;a</trd>,
+    <trd>gumno<klr> (przest.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>celeiro</trd>,
+    <trd>paiol</trd>
+  </trdgrp>
+  <trd lng="ru">&c_r;&c_i;&c_g;&c_a;</trd>
+  <trd lng="sk">stodola</trd>
+</drv>
+
+<drv mrk="garb.0igi">
+  <kap><tld/>igi<fnt>Z</fnt></kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="garb.0igi.AGR">
+    <uzo tip="fak">AGR</uzo>
+    <dif>
+      Aran&gcirc;i kaj ligi <tld/>e.
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_v;&c_ja;&c_z;&c_a;&c_c;&c_mol; &c_s;&c_n;&c_a;&c_p;&c_y;</trd>,
+    <trd>&c_z;&c_mol;&c_v;&c_ja;&c_z;&c_a;&c_c;&c_mol; &c_u; &c_s;&c_n;&c_o;&c_p;</trd>
+  </trdgrp>
+  <trd lng="ca">agarbar</trd>
+  <trdgrp lng="cs">
+    <trd>svázat do snopů</trd>,
+    <trd>vázat snopy</trd>
+  </trdgrp>
+  <trd lng="de">zu <ind>Garben</ind> b&uuml;ndeln</trd>
+  <trd lng="en">bind into sheaves</trd>
+  <trdgrp lng="fr">
+    <trd>gerber<klr tip="ind"> (mettre en gerbes)</klr></trd>,
+    <trd>mettre en <ind>gerbes</ind></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>k&eacute;v&eacute;t k&ouml;t</trd>,
+    <trd>k&eacute;v&eacute;be k&ouml;t</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>garven</trd>,
+    <trd>schoven</trd>,
+    <trd>in <ind>schoven</ind> binden</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>wi&aogonek;za&cacute; w <ind>snopki</ind></trd>,
+    <trd>wi&aogonek;za&cacute; w <ind>p&eogonek;czki</ind></trd>
+  </trdgrp>
+  <trd lng="pt">enfeixar</trd>
+  <trd lng="ru">
+  &c_v;&c_ja;&c_z;&c_a;&c_t;&c_mol; &c_s;&c_n;&c_o;&c_p;&c_y;</trd>
+  <trd lng="sk">zväzovať do snopov</trd>
+</drv>
+</art>
+<!--
+$Log: garb.xml,v $
+Revision 1.26  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.25  2015/06/29 16:29:39  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.24  2012/07/16 12:10:24  revo
+Marc Rausell: + trd ca
+
+Revision 1.23  2012/01/21 13:10:09  revo
+Wolfram Diestel: plibonigis germ trd.
+
+Revision 1.22  2010/09/28 16:30:30  revo
+Russ Williams: +trd en
+
+Revision 1.21  2008/12/11 17:30:55  revo
+Wieland Pusch: +trd de
+
+Revision 1.20  2008/09/26 16:30:35  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.19  2008/09/13 16:30:21  revo
+Jeromo Vasxe: snc/subsnc
+
+Revision 1.18 2007/07/02 16:30:20 revo
+Wieland Pusch: +trd de
+
+Revision 1.17 2005/08/25 16:32:57 revo
+-->
+</vortaro>

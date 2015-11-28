@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: poligo1.xml,v 1.10 2015/09/17 13:10:14 revo Exp $">
+<kap>
+  <rad>poligonac</rad>/oj
+</kap>
+<drv mrk="poligo1.0oj">
+  <kap><tld/>oj</kap>
+  <snc mrk="poligo1.0oj.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      <ref tip="lst" cel="famili.0o.BIO"
+      lst="voko:botanikaj_familioj">Familio</ref> de <ref tip="malprt"
+      cel="kotile.du0aj">dukotiledonaj</ref>
+      vegeta&jcirc;oj (<trd lng="la">Polygonaceae</trd>).
+    </dif>
+  </snc>
+  <trdgrp lng="en">
+    <trd>Polygonaceae</trd>,
+    <trd>buckwheat family</trd>, <trd>smartweed family</trd>,
+    <trd>knotweed family</trd>
+  </trdgrp>
+  <trd lng="ca">poligon&agrave;cies</trd>
+  <trd lng="de">Kn&ouml;terichgew&auml;chse</trd>
+  <trd lng="fr">polygonac&eacute;es</trd>
+  <trd lng="hu">keser&udblac;f&udblac;f&eacute;l&eacute;k</trd>
+  <trd lng="nl">veelknopigen</trd>
+  <trd lng="pl">rdestowate</trd>
+  <trd lng="pt">poligon&aacute;ceas</trd>
+  <trd lng="ru">&c_g;&c_r;&c_je;&c_ch;&c_i;&c_sh;&c_n;&c_y;&c_je; <klr tip="amb">(&c_s;&c_je;&c_m;&c_je;&c_j;&c_s;&c_t;&c_v;&c_o;)</klr></trd>
+</drv>
+</art>
+<!--
+$Log: poligo1.xml,v $
+Revision 1.10  2015/09/17 13:10:14  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.9  2013/08/25 16:11:05  revo
+Wolfram Diestel: referenco al listo bot familio
+
+Revision 1.8  2012/08/27 05:10:12  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.7  2011/12/06 16:10:13  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.6  2007/11/06 18:57:38  revo
+Jeromo Vasxe: + mrk + trd fr
+
+Revision 1.5  2006/03/08 17:34:15  revo
+Tulio Flores: +tr pt
+
+Revision 1.4  2002/05/11 10:27:52  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.3  2001/12/20 17:34:24  revo
+-->
+</vortaro>

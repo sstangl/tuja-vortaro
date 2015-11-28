@@ -1,0 +1,183 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+  <art mrk="$Id: graf.xml,v 1.29 2015/07/04 08:37:35 revo Exp $">
+    <kap><ofc>*</ofc>
+      <rad>graf</rad>/o</kap>
+
+    <drv mrk="graf.0o">
+      <kap><ofc>*</ofc><tld/>o</kap>
+      <snc mrk="graf.0o.nobela">
+        <dif>
+          <ref tip="super" cel="nobel.0o">Nobelo</ref>
+          kies rango estas pli alta ol tiu de <ref tip="vid"
+          cel="baron.0o.nobela">barono</ref>
+          kaj malpli alta ol tiu de <ref cel="markiz.0o">markizo</ref>.
+        </dif>
+      <ref tip="hom" cel="graf1.0o">grafo<klr> (matematikaj
+      sencoj)</klr></ref>
+      <trd lng="be">&c_g;&c_r;&c_a;&c_f;</trd>
+      <trd lng="ca">comte</trd>
+      <trd lng="de">Graf</trd>
+      <trdgrp lng="en"><trd>count</trd>, <trd>earl</trd></trdgrp>
+      <trd lng="es">conde</trd>
+      <trd lng="fr">comte</trd>
+      <trd lng="hu">gr&oacute;f</trd>
+      <trd lng="it">conte</trd>
+      <trd lng="nl">graaf</trd>
+      <trdgrp lng="pl">
+        <trd>hrabia</trd>,
+        <trd>graf<klr> (w dawnych krajach Cesarstwa
+        Niemieckiego)</klr></trd>,
+        <trd>margrabia<klr> (w dawnych krajach Cesarstwa
+        Niemieckiego)</klr></trd>,
+        <trd>komes</trd>
+      </trdgrp>
+      <trd lng="pt">conde<klr tip="amb"> (t&iacute;tulo)</klr></trd>
+      <trd lng="ru">&c_g;&c_r;&c_a;&c_f;</trd>
+      <trd lng="sv">greve</trd>
+      <trd lng="tr">kont</trd>
+      </snc>
+  <trdgrp lng="cs">
+    <trd>diagram</trd>,
+    <trd>graf</trd>,
+    <trd>grafické znázornění</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>diagram</trd>,
+    <trd>graf</trd>,
+    <trd>krivka</trd>
+  </trdgrp>
+</drv>
+
+    <drv mrk="graf.0ujo">
+      <kap><tld/>ujo <fnt><bib>PIV2</bib></fnt></kap>
+      <snc>
+        <dif>
+          Mezgranda administra unuo, kiel tiu estrata de <tld/>o:
+          <ekz>
+            la departemento, en kiu situas Mussidan, havas la nomon
+            Dordonjo kaj anstata&ubreve;is la malnovan <tld/>ujon
+            Perigordo
+            <fnt>
+              <vrk><url ref="http://esper.neuf.fr/esperante.html"
+                  >Mussidan</url></vrk>.
+            </fnt>
+          </ekz>
+        </dif>
+      <ref tip="vid" cel="kanton.0o.usona">kantono</ref>
+      <trd lng="be">&c_g;&c_r;&c_a;&c_f;&c_s;&c_t;&c_v;&c_a;</trd>
+      <trd lng="ca">comtat</trd>
+      <trd lng="de">Grafschaft</trd>
+      <trdgrp lng="en"><trd>county</trd>, <trd>earldom</trd></trdgrp>
+      <trd lng="es">condado</trd>
+      <trd lng="fr">comt&eacute;</trd>
+      <trdgrp lng="hu">
+        <trd>gr&oacute;fs&aacute;g</trd>,
+        <trd>megye</trd>
+      </trdgrp>
+      <trd lng="it">contea</trd>
+      <trd lng="nl">graafschap</trd>
+      <trd lng="pl">hrabstwo</trd>
+      <trd lng="ru">&c_g;&c_r;&c_a;&c_f;&c_s;&c_t;&c_v;&c_o;</trd>
+      </snc>
+    </drv>
+
+    <drv mrk="graf.0lando">
+      <kap><tld/>lando <fnt><bib>PIV2</bib></fnt></kap>
+      <snc mrk="graf.0lando.ujo">
+        <ref tip="dif" cel="graf.0ujo"><tld/>ujo</ref>
+      </snc>
+      <snc mrk="graf.0lando.HIS">
+        <uzo tip="fak">HIS</uzo>
+        <dif>
+          Lando regata de land<tld/>o
+          (sendependi&gcirc;inta eks<tld/>ujo).
+        </dif>
+      </snc>
+      <trd lng="ca">comtat</trd>
+      <trd lng="en">landgraviate</trd>
+      <trd lng="es">condado</trd>
+      <trd lng="fr">comt&eacute;</trd>
+      <trd lng="hu">tartom&aacute;ny</trd>
+      <trd lng="nl">graafschap</trd>
+      <trd lng="pl">hrabstwo</trd>
+      <trd
+      lng="ru">&c_l;&c_a;&c_n;&c_d;&c_g;&c_r;&c_a;&c_f;&c_s;&c_t;&c_v;&c_o;</trd>
+       <trd lng="tr">kontluk</trd>
+    </drv>
+
+    <drv mrk="graf.land0o">
+      <kap>land<tld/>o <fnt>Z</fnt></kap>
+      <snc mrk="graf.lando0.HIS">
+        <uzo tip="fak">HIS</uzo>
+        <dif>
+          En la mezepoka Germanujo, <tld/>o kiu ne estas vasalo de
+          duko a&ubreve; princo.
+        </dif>
+      </snc>
+      <trd lng="ca">landgravi</trd>
+      <trd lng="en">landgrave</trd>
+      <trd lng="es">condado</trd>
+      <trd lng="fr">landgrave</trd>
+      <trd lng="de">Landgraf</trd>
+      <trd lng="hu">tartom&aacute;nygr&oacute;f</trd>
+      <trd lng="nl">landgraaf</trd>
+      <trdgrp lng="pl">
+        <trd>landgraf<klr> (w dawnych krajach Cesarstwa
+        Niemieckiego)</klr></trd>,
+        <trd>landgrabia<klr> (w dawnych krajach Cesarstwa
+        Niemieckiego)</klr></trd>
+      </trdgrp>
+      <trd lng="ru">&c_l;&c_a;&c_n;&c_d;&c_g;&c_r;&c_a;&c_f;</trd>
+    </drv>
+
+  </art>
+  <!--
+  $Log: graf.xml,v $
+  Revision 1.29  2015/07/04 08:37:35  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.28  2015/06/29 16:29:39  revo
+  aldono de trd sk per skripto de M. von Laer
+
+  Revision 1.27  2011/12/02 23:10:18  revo
+  Marc Rausell: kataluna traduko
+
+  Revision 1.26  2010/04/27 16:30:59  revo
+  Fabio Bettani: +trd it
+
+  Revision 1.25  2009/08/24 16:32:46  revo
+  Emmanuel Debanne: +kor tr
+
+  Revision 1.24  2009/03/02 17:30:58  revo
+  Sebastian Cyprych: +trd pl +ref al barono
+
+  Revision 1.23  2007/07/17 16:30:12  revo
+  Sergio Pokrovskij: +ekz, kor trd=en
+
+  Revision 1.22  2007/06/25 16:30:18  revo
+  Russ Williams: trd +en
+
+  Revision 1.21  2005/12/04 17:31:41  revo
+  Axel Rousseau: +trd fr
+
+  Revision 1.20  2005/08/25 16:34:03  revo
+  Luiz Portella: +trd pt
+
+  Revision 1.19  2005/04/08 16:31:39  revo
+  Jozefo Horvath: +trd hu
+
+  Revision 1.18  2004/03/15 17:30:51  revo
+  Dennis Wibrow: +trd germ
+
+  Revision 1.17  2004/01/06 17:31:47  revo
+  Dmitri Gabinski: +trd be
+
+  Revision 1.16  2003/10/30 17:32:34  revo
+  Alejandro Mejia Greene: ald 3 his trd
+
+  Revision 1.15  2003/05/07 16:31:07  revo
+  -->
+</vortaro>

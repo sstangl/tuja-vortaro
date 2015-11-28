@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: spasm.xml,v 1.14 2015/07/04 08:37:43 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>spasm</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="spasm.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="spasm.0o.MED">
+    <uzo tip="fak">MED</uzo>
+    <dif>
+      Nevola forta stre&ccirc;o de la muskoloj:
+      <ekz>
+        la infana koreto batadis per forto <tld/>a kaj
+        dis&scirc;iranta<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="konvul.0o">konvulsio</ref>.
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_p;&c_a;&c_z;&c_m;&c_a;</trd>, 
+    <trd>&c_s;&c_u;&c_t;&c_a;&c_r;&c_g;&c_a;</trd> 
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>křeč</trd>,
+    <trd>spazmus</trd>
+  </trdgrp>
+  <trd lng="de">Krampf</trd>
+  <trd lng="en">spasmo</trd>
+  <trd lng="fr">spasme</trd>
+  <trd lng="hu">g&ouml;rcs</trd>
+  <trdgrp lng="nl">
+    <trd>kramp</trd>,
+    <trd>spasme</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_p;&c_a;&c_z;&c_m;</trd>,
+    <trd>&c_s;&c_p;&c_a;&c_z;&c_m;&c_a;</trd>,
+    <trd>&c_s;&c_u;&c_d;&c_o;&c_r;&c_o;&c_g;&c_a;</trd>
+  </trdgrp>
+  <trd lng="sk">kŕč</trd>
+  <trd lng="sv">spasm</trd>
+</drv>
+
+<drv mrk="spasm.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="spasm.0i.MED">
+    <uzo tip="fak">MED</uzo>
+    <uzo tip="klr">(pri muskolo, korpoparto)</uzo>
+    <dif>
+      Subite, nevole ektiri&gcirc;i:
+      <ekz>
+        liaj lipoj <tld/>is dekstren kaj maldekstren, 
+        eligante ian sonon, senkoheran kiel murmuro
+        <fnt>
+          <aut>Chun-Chan Yeh, trad. W. Auld</aut>,
+          <vrk>Montara Vila&gcirc;o</vrk>,
+          <lok>1984</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">mít křeč</trd>
+  <trdgrp lng="fr">
+    <trd>se <ind>convulser</ind></trd>,
+    <trd>se <ind>crisper</ind></trd>
+  </trdgrp>
+  <trd lng="sk">mať kŕč</trd>
+</drv>
+</art>
+<!--
+$Log: spasm.xml,v $
+Revision 1.14  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.13  2015/06/29 16:33:24  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.12  2014/12/13 15:10:12  revo
+Jeromo Vasxe: + fak med + ~i
+
+Revision 1.11  2009/05/27 16:31:08  revo
+Russ Williams: +trd en
+
+Revision 1.10  2004/10/21 16:31:52  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.9  2003/01/20 17:31:03  revo
+Zmicier Lapcionak: + trd be
+
+Revision 1.8  2002/02/15 17:33:21  revo
+Yury Finkel: +trd ru
+
+Revision 1.7 2001/10/07 18:16:36 revo
+Dennis Wibrow: +trd germ
+
+Revision 1.6 2001/08/01 18:12:24 revo
+Paul Peeraerts: ald trd nl
+
+Revision 1.5 2001/05/16 18:11:44 revo
+-->
+</vortaro>

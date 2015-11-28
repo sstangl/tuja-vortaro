@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: glicer.xml,v 1.15 2015/10/14 08:10:18 revo Exp $">
+<kap>
+  <rad>gliceri</rad>/o
+</kap>
+<drv mrk="glicer.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">BOT</uzo>
+  <snc>
+    <dif>
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:botanikaj_genroj">Genro</ref> el familio <ref
+      tip="malprt" cel="poac.0oj">poacoj</ref>
+      (<trd lng="la">Glyceria</trd>).
+    </dif>
+  </snc>
+  <trd lng="ca">g&egrave;nere Glyceria</trd>
+  <trdgrp lng="de">
+     <trd>Schwaden</trd>,
+     <trd>Mannagras</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>Glyceria</trd>,
+    <trd>mannagrass</trd>, <trd>sweetgrass</trd>
+  </trdgrp>
+  <trd lng="fa">&a_sh;&f_y;&a_r;&f_y;&a_n;&zwnj;&f_ch;&a_m;&a_n;</trd>
+  <trd lng="nl">liesgras</trd>
+  <trd lng="pl">manna</trd>
+  <trd lng="pt">glic&eacute;ria</trd>
+  <trd lng="ru">&c_m;&c_a;&c_n;&c_n;&c_i;&c_k;</trd>
+</drv>
+</art>
+<!--
+$Log: glicer.xml,v $
+Revision 1.15  2015/10/14 08:10:18  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.14  2015/09/23 14:10:16  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.13  2013/08/28 16:10:32  revo
+Wolfram Diestel: referencoj al bot genroj
+
+Revision 1.12  2012/01/02 13:10:21  revo
+Marc Rausell: +trd ca
+
+Revision 1.11  2009/06/21 16:31:26  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.10  2005/08/21 16:32:16  revo
+Luiz Portella: +trd pt
+
+Revision 1.9  2002/01/06 17:47:08  revo
+Paul Peeraerts: ald trd nl
+
+Revision 1.8  2001/05/27 18:16:44  revo
+-->
+</vortaro>

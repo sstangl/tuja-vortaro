@@ -1,0 +1,146 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: polur.xml,v 1.20 2015/07/04 08:37:41 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>polur</rad>/o
+</kap>
+
+<drv mrk="polur.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc>
+    <dif>
+      Surfaca brilo, ricevita per frotado.
+    </dif>
+  </snc>
+  <trd lng="cs">leštění</trd>
+  <trd lng="fr">poli<klr> (subst.)</klr></trd>
+  <trd lng="sk">leštenie</trd>
+</drv>
+
+<drv mrk="polur.0ado">
+  <kap><tld/>ado</kap>
+  <snc>
+    <dif>
+      Ago <ref tip="dif" cel="polur.0i">poluri</ref>.
+    </dif>
+  </snc>
+  <trd lng="cs">leštění</trd>
+  <trd lng="fr">polissage</trd>
+  <trd lng="sk">leštenie</trd>
+</drv>
+
+<drv mrk="polur.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      Glatigi kaj briligi ion per frotado:
+      <ekz>
+        <tld/>i lignon, vitron, marmoron.
+      </ekz>
+    </dif>
+    <trd lng="fr">polir</trd>
+    <trdgrp lng="it">
+      <trd>lisciare</trd>,
+      <trd>lucidare</trd>,
+      <trd>levigare</trd>
+    </trdgrp>
+    <trdgrp lng="nl">
+      <trd>wrijven</trd>,
+      <trd>oppoetsen</trd>
+    </trdgrp>
+  </snc>
+  <snc>
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Perfekte ellabori, plidelikatigi, plirafini:
+      <ekz>
+        <tld/>i sian verkon;
+      </ekz>
+      <ekz>
+        li ne sufi&ccirc;e <tld/>as sian stilon;
+      </ekz>
+      <ekz>li estas frotita kaj <tld/>ita
+        <klr>(multe spertinta)</klr>
+<fnt><bib>PrV</bib></fnt>;</ekz>
+      <ekz>
+        <ind>ne<tld/>ita homo</ind> (senkultura, kruda).
+        <trd lng="nl">ongelikte <ind>beer</ind></trd>
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="fajl.0i">fajli</ref>,
+      <ref cel="rabot.0i">raboti</ref>.
+    </refgrp>
+    <trd lng="fr">affiner</trd>
+    <trdgrp lng="it">
+      <trd>affinare</trd>,
+      <trd>raffinare</trd>,
+      <trd>limare</trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_a;&c_l;&c_ib;&c_r;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_sh;&c_l;&c_ib;&c_f;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="ca">polir</trd>
+  <trd lng="cs">leštit</trd>
+  <trd lng="de">polieren</trd>
+  <trd lng="en">polish</trd>
+  <trd lng="nl">oppoetsen</trd>
+  <trdgrp lng="no">
+    <trd>polere</trd>,
+    <trd>finpusse</trd>
+  </trdgrp>
+  <trd lng="pt">polir</trd>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_o;&c_l;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_sh;&c_l;&c_i;&c_f;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>cibriť</trd>,
+    <trd>leštiť</trd>,
+    <trd>vybrúsiť</trd>,
+    <trd>vyleštiť</trd>
+  </trdgrp>
+  <trdgrp lng="sv">
+    <trd>polera</trd>,
+    <trd>putsa</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: polur.xml,v $
+Revision 1.20  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2014/08/20 09:10:09  revo
+Damien Brucker: +~o +~ado +trd fr
+
+Revision 1.17  2011/12/06 11:10:16  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.16  2011/01/18 00:10:08  revo
+Antonio Codazzi: +trd it
+
+Revision 1.15  2009/02/19 20:27:05  revo
+Jerano Zachrisson: +trd sv
+
+Revision 1.14  2008/04/21 16:46:29  revo
+Felix Gagne: +trk fr
+
+Revision 1.13  2006/03/09 17:31:16  revo
+Tulio Flores: +tr pt
+
+Revision 1.12  2005/06/15 16:32:15  revo
+Ulf Lunde: +trd no
+
+Revision 1.11  2003/07/17 16:37:34  revo
+-->
+</vortaro>

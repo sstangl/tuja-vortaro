@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: klimatiz.xml,v 1.7 2015/07/04 08:37:37 revo Exp $">
+<kap>
+  <rad>klimatiz</rad>/i <fnt><bib>SPV</bib></fnt>
+</kap>
+
+<drv mrk="klimatiz.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="klimatiz.0i.TEK">
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      Reguligi la varmon, sekon kaj aliajn ecojn de aero en ejo:
+      <ekz>
+        La trajnoj konsistas el 11 pasa&gcirc;ervagonoj <tld/>itaj kun 2
+        lokomotivoj je la finoj
+        <fnt>
+          <aut>Vi To</aut>,
+          <vrk>Italia Eurostar</vrk>,
+          <lok><url
+          ref="http://www.dlfbo.it/esperanto/pubblicazioni/ib_02_12.pdf">Itala
+          Fervojisto, 2002-12</url></lok>
+        </fnt>
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="hejt.0i">hejti</ref>
+    </refgrp>
+  </snc>
+  <trd lng="cs">klimatizovat</trd>
+  <trd lng="de">klimatisieren</trd>
+  <trd lng="fr">climatiser</trd>
+  <trd lng="nl">klimatiseren</trd>
+  <trd lng="ru">&c_s;&c_o;&c_z;&c_d;&c_a;&c_v;&c_a;&c_t;&c_mol;
+<ind>&c_m;&c_i;&c_k;&c_r;&c_o;&c_k;&c_l;&c_i;&c_m;&c_a;&c_t;</ind></trd>
+  <trd lng="sk">klimatizovať</trd>
+</drv>
+
+<drv mrk="klimatiz.0ilo">
+  <kap><tld/>ilo</kap>
+  <snc mrk="klimatiz.0ilo.TEK">
+    <dif>
+      Aparato kiu reguligas la ecojn de aero en ejo:
+      <ekz>
+        &ccirc;iuj &ccirc;ambroj havas <tld/>ilon, telefonon, satelitan
+        televidilon, hararsekigilon, etan fridujon kaj interretkonekton
+        <fnt>
+          <aut>-</aut>,
+          <vrk><url
+          ref="http://www.uea.org/kongresoj/2005/db_hoteloj.html">90a
+          UK, Vilno, Dua bulteno</url></vrk>,
+          <lok>2005-02-24</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="bg">&c_k;&c_l;&c_i;&c_m;&c_a;&c_t;&c_i;&c_z;&c_a;&c_c;&c_i;&c_ja;</trd>
+  <trd lng="cs">klimatizační zařízení</trd>
+  <trd lng="de">Klimaanlage</trd>
+  <trd lng="fr">climatisation<klr> (appareillage)</klr></trd>
+  <trdgrp lng="nl">
+    <trd>klimaatregelaar</trd>,
+    <trd>airconditioner</trd>
+  </trdgrp>
+  <trd lng="ru">&c_k;&c_o;&c_n;&c_d;&c_i;&c_c;&c_i;&c_o;&c_n;&c_je;&c_r;</trd>
+  <trd lng="sk">klimatizačné zariadenie</trd>
+</drv>
+</art>
+
+<!--
+$Log: klimatiz.xml,v $
+Revision 1.7  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.6  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.5  2009/09/01 04:53:54  revo
+Wieland Pusch: +trd bg
+
+Revision 1.4  2009/08/30 16:31:45  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.3  2007/07/22 16:30:31  revo
+Wieland Pusch: +trd de
+
+Revision 1.2  2006/11/03 17:30:24  revo
+Yury Finkel: +trd ru
+
+Revision 1.1  2006/10/22 18:03:13  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

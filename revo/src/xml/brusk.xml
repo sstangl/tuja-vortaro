@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: brusk.xml,v 1.4 2015/07/04 08:37:31 revo Exp $">
+<kap>
+  <rad>brusk</rad>/i <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="brusk.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <uzo tip="stl">RAR</uzo>
+  <snc mrk="brusk.0i.KOMUNE">
+    <dif> 
+      <ref tip="vid" cel="trakt.mis0i.KOMUNE">Mistrakti</ref>,
+      malmilde, sendeteni&gcirc;e agi kontra&ubreve;:
+      <ekz>
+        tio iel <tld/>is &scirc;ian memregon
+        <fnt><aut>S. Larbar</aut>, <vrk>Karuseloj</vrk>, 
+        <lok>1987</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>obořit se</trd>,
+    <trd>osopit se</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>brusquer</trd>,
+    <trd>rudoyer</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>by&cacute; szorstkim <klr>dla kogo&sacute;</klr></trd>,
+    <trd>by&cacute; niedelikatnym <klr>dla kogo&sacute;</klr></trd>
+  </trdgrp>
+  <trd lng="sk">osopiť sa</trd>
+</drv>
+
+<drv mrk="brusk.0a">
+  <kap><tld/>a</kap>
+  <uzo tip="stl">RAR</uzo>
+  <snc mrk="brusk.0a.KOMUNE">
+    <ref tip="dif" cel="abrupt.0a.KOMUNE">abrupta</ref>
+      <ekz>
+        li estis <tld/>a, iom kruda, a&ubreve;toritatema viro
+        <fnt>
+          <aut>L. Couperus, trad. G. Berveling</aut>,
+          <vrk>Pri Maljunuloj, la A&jcirc;oj kiuj Pasas</vrk>,
+          <lok>2013</lok>
+        </fnt>.
+      </ekz>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>bryskní</trd>,
+    <trd>příkrý <klr>(řeč)</klr></trd>,
+    <trd>urážlivě úsečný</trd>
+  </trdgrp>
+  <trd lng="fr">cassant<klr> (abrupt)</klr></trd>
+  <trdgrp lng="pl">
+    <trd>szorstki</trd>,
+    <trd>niedelikatny</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>odseknutý <klr>(o hovore)</klr></trd>,
+    <trd>surový</trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log: brusk.xml,v $
+Revision 1.4  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.3  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.2  2014/03/20 06:10:21  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.1  2014/03/15 02:10:16  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

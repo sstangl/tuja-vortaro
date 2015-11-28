@@ -1,0 +1,308 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: kalk.xml,v 1.26 2015/07/04 08:37:36 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>kalk</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="kalk.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="kalk.0o.TEK">
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      Blanka minerala substanco, produktata per kalcinado de
+      <ref cel="kalk.0osxtono"><tld/>o&scirc;tonoj</ref>.
+    </dif>
+    <subsnc mrk="kalk.0o.kauxstika">
+      <ref tip="dif" cel="kalk.0okauxstika"><tld/>o ka&ubreve;stika</ref>
+      <trdgrp lng="nl">
+        <trd>ongebluste <ind>kalk</ind></trd>,
+        <trd>calciumoxide</trd>
+      </trdgrp>
+    </subsnc>
+    <subsnc mrk="kalk.0o.estingita">
+      <ref tip="dif" cel="kalk.0oestingita"><tld/>o estingita</ref>
+      <trdgrp lng="nl">
+        <trd>gebluste <ind>kalk</ind></trd>,
+        <trd>calciumhydroxide</trd>
+      </trdgrp>
+    </subsnc>
+  </snc>
+  <refgrp tip="vid">
+    <ref cel="kalci.0o">kalcio</ref>,
+    <ref cel="morter.0o">mortero</ref>
+  </refgrp>
+  <trd lng="be">&c_v;&c_a;&c_p;&c_n;&c_a;</trd>
+  <trd lng="br">raz<klr tip="ind"> (danvez)</klr></trd>
+  <trd lng="ca">cal&ccedil;</trd>
+  <trd lng="de">Kalk</trd>
+  <trd lng="en">lime</trd>
+  <trd lng="es">cal</trd>
+  <trd lng="fa">&a_A_madda;&a_h;&f_k;</trd>
+  <trdgrp lng="fr">
+    <trd>chaux</trd>,
+    <trd>oxyde de <ind>calcium</ind></trd>
+  </trdgrp>
+  <trd lng="hu">m&eacute;sz</trd>
+  <trd lng="nl">kalk</trd>
+  <trd lng="ru">&c_i;&c_z;&c_v;&c_je;&c_s;&c_t;&c_mol;</trd>
+  <trd lng="sv">kalk</trd>
+  <trd lng="sk">vápno</trd>
+  <trdgrp lng="cs">
+    <trd>nehašené vápno</trd>,
+    <trd>pálené vápno</trd>,
+    <trd>vápno</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kalk.0i">
+  <kap><tld/>i<fnt>Z</fnt></kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="kalk.0i.KON">
+    <uzo tip="fak">KON</uzo>
+    <dif>
+      Surkovri surfacon per <tld/>o, por &gcirc;in blankigi:
+      <ekz>
+        la najbaroj rimarkis, ke la viro ofte <tld/>is murojn dum 
+        profundaj noktoj
+        <fnt>
+          <aut>-, trad. Sun Jian</aut>,
+          <vrk>La Terura Sperto en Mia Domluado</vrk>,
+          <lok><url ref="http://www.elerno.cn/penseo/PEN162.pdf">
+          Penseo, 2005-04, numero 162a</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_b;&c_ja;&c_l;&c_ib;&c_c;&c_mol; <klr>(&c_v;&c_a;&c_p;&c_n;&c_a;&c_j;)</klr></trd>
+    <trdgrp lng="br">
+      <trd>raza&ntilde;<klr tip="ind"> (adeilad.)</klr></trd>,
+      <trd>gwennraza&ntilde;</trd>
+    </trdgrp>
+    <trdgrp lng="ca">
+      <trd>encalcinar</trd>,
+      <trd>emblanquinar</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd>kalken</trd>,
+      <trd>t&uuml;nchen</trd>,
+      <trd>wei&szlig;eln</trd>,
+      <trd>wei&szlig;en</trd>
+    </trdgrp>
+    <trd lng="en">whitewash</trd>
+    <trd lng="es">encalar</trd>
+    <trd lng="fa">&a_s;&a_f;&f_y;&a_d;&f_k;&a_A;&a_r;&f_y; &f_k;&a_r;&a_d;&a_n;</trd>
+    <trdgrp lng="fr">
+      <trd>chauler<klr tip="ind"> (blanchir &agrave; la chaux)</klr></trd>,
+      <trd>blanchir<klr tip="ind"> (&agrave; la chaux)</klr></trd>
+    </trdgrp>
+    <trd lng="hu">meszel</trd>
+    <trd lng="nl">kalken</trd>
+    <trd lng="ru">&c_b;&c_je;&c_l;&c_i;&c_t;&c_mol; <klr>(&c_i;&c_z;&c_v;&c_je;&c_s;&c_t;&c_mol;&c_ju;)</klr></trd>
+    <trd lng="sv">kalka</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>bílit vápnem</trd>,
+    <trd>líčit vápnem</trd>,
+    <trd>natírat vápnem</trd>
+  </trdgrp>
+  <trd lng="sk">neutralizovať vápnom</trd>
+</drv>
+
+<drv mrk="kalk.0umi">
+  <kap><tld/>umi</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="kalk.0umi.AGR">
+    <uzo tip="fak">AGR</uzo>
+    <dif>
+      Sur&jcirc;eti <tld/>on sur kampon, por plibonigi la teron.
+    </dif>
+    <trd lng="be">&c_v;&c_a;&c_p;&c_n;&c_a;&c_v;&c_a;&c_c;&c_mol; <klr>(&c_g;&c_l;&c_je;&c_b;&c_u;)</klr></trd>
+    <trd lng="br">raza&ntilde;<klr tip="ind"> (gounez.)</klr></trd>
+    <trdgrp lng="ca">
+      <trd>encalcinar<klr> (el camp)</klr></trd>,
+      <trd>empolsinar amb cal&ccedil;</trd>
+    </trdgrp>
+    <trd lng="de">kalken</trd>
+    <trd lng="en">lime</trd>
+    <trd lng="fa">&a_A_madda;&a_h;&f_k; &a_d;&a_A;&a_d;&a_n;</trd>
+    <trdgrp lng="fr">
+      <trd>chauler<klr tip="ind"> (amender &agrave; la chaux)</klr></trd>,
+      <trd>amender<klr tip="ind"> (&agrave; la chaux)</klr></trd>
+    </trdgrp>
+    <trd lng="hu">meszez</trd>
+    <trd lng="nl">met <ind>kalk</ind> bemesten</trd>
+    <trd lng="ru">&c_i;&c_z;&c_v;&c_je;&c_s;&c_t;&c_k;&c_o;&c_v;&c_a;&c_t;&c_mol;<klr> (&c_p;&c_o;&c_ch;&c_v;&c_u;)</klr></trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>bílit vápnem</trd>,
+    <trd>líčit vápnem</trd>,
+    <trd>natírat vápnem</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>hnojiť vápnom</trd>,
+    <trd>vápniť</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kalk.0argilo">
+  <kap><tld/>argilo</kap>
+  <fnt><bib>PV</bib></fnt>
+  <snc mrk="kalk.0argilo.MIN">
+    <uzo tip="fak">MIN</uzo>
+    <ref tip="dif" cel="marn.0o">marno</ref>
+    <trd lng="ca">marga</trd>
+    <trd lng="de">Mergel</trd>
+    <trd lng="en">marl</trd>
+    <trdgrp lng="fa">
+      <trd>&a_A_madda;&a_h;&f_k;&a_r;&a_damma;&a_s;</trd>,
+      <trd>&a_m;&a_A;&a_r;&a_l;</trd>
+    </trdgrp>
+    <trd lng="fr">marne</trd>
+    <trd lng="hu">m&aacute;rga</trd>
+    <trd lng="nl">mergel</trd>
+    <trdgrp lng="ru">
+      <trd>&c_m;&c_je;&c_r;&c_g;&c_je;&c_l;&c_mol;</trd>,
+      <trd>&c_r;&c_u;&c_h;&c_l;&c_ja;&c_k;</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="cs">slín</trd>
+  <trd lng="sk">slieň</trd>
+</drv>
+
+<drv mrk="kalk.0osxtono">
+  <kap><tld/>o&scirc;tono</kap>
+  <fnt><bib>PIV2</bib>, <lok>kalk</lok></fnt>
+  <snc mrk="kalk.0osxtono.MIN">
+    <uzo tip="fak">MIN</uzo>
+    <dif>
+      Tre disvastigita sedimenta&jcirc;o, konsistanta el
+      <ref cel="kalcit.0o">kalcito</ref> a&ubreve;
+      kalciti&gcirc;intaj fosilioj.
+    </dif>
+    <refgrp tip="sub">
+      <ref cel="gips.0o">gipso</ref>,
+      <ref cel="kret.0o">kreto</ref>,
+      <ref cel="marmor.0o">marmoro</ref>
+    </refgrp>
+  </snc>
+  <trd lng="br">maen-raz</trd>
+  <trd lng="ca">calc&agrave;ria</trd>
+  <trd lng="de">Kalkstein</trd>
+  <trd lng="en">limestone</trd>
+  <trd lng="fa">&a_s;&a_n;&f_g; &a_A_madda;&a_h;&f_k;</trd>
+  <trdgrp lng="fr">
+    <trd>calcaire</trd>,
+    <trd>pierre &agrave; <ind>chaux</ind></trd>
+  </trdgrp>
+  <trd lng="hu">m&eacute;szk&odblac;</trd>
+  <trd lng="nl">kalksteen</trd>
+  <trd lng="ru">&c_i;&c_z;&c_v;&c_je;&c_s;&c_t;&c_n;&c_ja;&c_k;</trd>
+</drv>
+
+<drv mrk="kalk.0okauxstika">
+  <kap><tld/>o ka&ubreve;stika</kap>
+  <snc mrk="kalk.0okauxstika.TEK">
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      La <ref tip="super" cel="kalk.0o"><tld/>o</ref>
+      <frm>CaO</frm>.
+    </dif>
+  </snc>
+  <trd lng="br">raz bev</trd>
+  <trdgrp lng="ca">
+    <trd>cal&ccedil;</trd>,
+    <trd><ind>cal&ccedil;</ind> viva</trd>
+  </trdgrp>
+  <trd lng="de">gebrannter Kalk</trd>
+  <trdgrp lng="en">
+    <trd>quicklime</trd>,
+    <trd>burnt lime</trd>
+  </trdgrp>
+  <trdgrp lng="fa">
+    <trd>&a_A_madda;&a_h;&f_k; &a_z;&a_n;&a_d;&a_h;</trd>,
+    <trd>&a_A_madda;&a_h;&f_k; &a_n;&a_sh;&f_k;&a_f;&a_t;&a_h;</trd>,
+    <trd>&a_A_madda;&a_h;&f_k; &a_A_madda;&a_b;&zwnj;&a_n;&a_d;&f_y;&a_d;&a_h;</trd>
+  </trdgrp>
+  <trd lng="fr">chaux vive</trd>
+  <trd lng="hu">&eacute;getett <ind>m&eacute;sz</ind></trd>
+  <trdgrp lng="ru">
+    <trd>&c_i;&c_z;&c_v;&c_je;&c_s;&c_t;&c_mol; &c_n;&c_je;&c_g;&c_a;&c_sh;&c_jo;&c_n;&c_a;&c_ja;</trd>,
+    <trd>&c_i;&c_z;&c_v;&c_je;&c_s;&c_t;&c_mol; &c_je;&c_d;&c_k;&c_a;&c_ja;</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+        <trd>ongebluste <ind>kalk</ind></trd>,
+        <trd>calciumoxide</trd>
+      </trdgrp>
+</drv>
+
+<drv mrk="kalk.0oestingita">
+  <kap><tld/>o estingita <fnt><bib>KrDE</bib>,
+  <lok>Kalk</lok></fnt></kap>
+  <snc mrk="kalk.0oestingita.TEK">
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      La produkto de reago inter
+      <ref tip="super" cel="kalk.0okauxstika"><tld/>o ka&ubreve;stika</ref>
+      kaj akvo, <frm>Ca(OH)<sub>2</sub></frm>.
+    </dif>
+  </snc>
+  <trd lng="br">raz distan</trd>
+  <trdgrp lng="ca">
+    <trd><ind>cal&ccedil;</ind> morta <klr>[amarada, apagada]</klr></trd>,
+    <trd>hidr&ograve;xid de calci</trd>
+  </trdgrp>
+  <trd lng="de">gel&ouml;schter Kalk</trd>
+  <trdgrp lng="en">
+    <trd>slaked lime</trd>,
+    <trd>slack lime</trd>
+  </trdgrp>
+  <trdgrp lng="fa">
+    <trd>&a_A_madda;&a_h;&f_k; &a_sh;&f_k;&a_f;&a_t;&a_h;</trd>,
+    <trd>&a_A_madda;&a_h;&f_k; &a_A_madda;&a_b;&a_d;&f_y;&a_d;&a_h;</trd>
+  </trdgrp>
+  <trd lng="fr">chaux &eacute;teinte</trd>
+  <trd lng="hu">oltott <ind>m&eacute;sz</ind></trd>
+  <trdgrp lng="nl">
+        <trd>gebluste <ind>kalk</ind></trd>,
+        <trd>calciumhydroxide</trd>
+      </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_i;&c_z;&c_v;&c_je;&c_s;&c_t;&c_mol; &c_g;&c_a;&c_sh;&c_jo;&c_n;&c_a;&c_ja;</trd>,
+    <trd>&c_p;&c_u;&c_sh;&c_o;&c_n;&c_k;&c_a;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: kalk.xml,v $
+Revision 1.26  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.25  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.24  2013/07/01 07:10:08  revo
+Agustin Garcia Lopez: +trd(es)
+
+Revision 1.23  2012/09/01 07:10:31  revo
+Marc Rausell: + trd ca
+
+Revision 1.22  2011/10/05 20:10:18  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.21  2009/08/23 16:32:57  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.20  2009/02/15 14:17:42  revo
+Jeromo Vasxe: + mrk + 1 ekz
+
+Revision 1.19 2005/09/01 16:31:19 revo
+Wieland Pusch: +trd de
+
+Revision 1.18 2005/08/03 16:31:40 revo
+Jozefo Horvath: +trd hu
+
+Revision 1.17 2005/04/19 16:31:34 revo
+-->
+</vortaro>

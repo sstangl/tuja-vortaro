@@ -1,0 +1,150 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: emerit.xml,v 1.19 2015/07/04 08:37:33 revo Exp $">
+<kap>
+<ofc>8</ofc>
+  <rad>emerit</rad>/o <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="emerit.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="emerit.0o.POL">
+    <dif>
+      Laboristo, kiu post difinita tempo de servado, ricevas 
+      <ref cel="pensi.0o">pension</ref>:
+      <ekz>
+        <ind><tld/>a</ind> profesoro;
+        <trd lng="ca">jubilat <klr>(adj.)</klr></trd>
+        <trdgrp lng="de">
+           <trd>in den <ind>Ruhestand versetzt</ind></trd>,
+           <trd>emeritiert</trd>
+        </trdgrp>
+        <trdgrp lng="fr">
+          <trd>retrait&eacute;<klr tip="ind"> (adj.)</klr></trd>,
+          <trd>en <ind>retraite</ind></trd></trdgrp>
+          <trd lng="nl">emeritus<klr tip="ind"> (bn.)</klr></trd> 
+        <trd lng="pl">emerytowany</trd>
+      </ekz>
+      <ekz>
+        <tld/>a salajro<fnt>Z</fnt>,
+        pensio;
+      </ekz>
+      <ekz>
+        <tld/>e vivi<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        li &gcirc;uas sian <ind><tld/>eco</ind>n.
+        <trd lng="ca">jubilaci&oacute;</trd>
+        <trdgrp lng="de">
+           <trd>Ruhestand</trd>,
+           <trd>Emeritierung</trd>
+        </trdgrp>
+        <trd lng="fr">retraite<klr tip="ind"> (&eacute;tat de
+retrait&eacute;)</klr></trd>
+        <trd lng="nl">emeritaat</trd>
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="emerit1.0o">emerituro</ref>,
+      <ref cel="pensi.0ulo">pensiulo</ref>,
+      <ref cel="vetera.0o">veterano</ref>
+    </refgrp>
+  </snc>
+  <adm>
+  Koherigi kun pensiulo.
+  <aut>MB</aut>
+  </adm>
+  <trd lng="be">&c_p;&c_e;&c_n;&c_s;&c_ib;&c_ja;&c_n;&c_e;&c_r;</trd>
+  <trd lng="ca">jubilat <klr>(subst.)</klr></trd>
+  <trdgrp lng="de">
+     <trd>Ruhest&auml;ndler</trd>,
+     <trd>Emeritus</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>retired person</trd>,
+    <trd>emeritus</trd>,
+    <trd>pensioner</trd>,
+    <trd>retiree</trd>,
+    <trd>ex-official</trd>
+  </trdgrp>
+  <trd lng="es">jubilado</trd>
+  <trd lng="fr">retrait&eacute;<klr tip="ind"> (subst.)</klr></trd>
+  <trd lng="nl">emeritus<klr tip="ind"> (zn.)</klr></trd>
+  <trd lng="pl">emeryt</trd>
+  <trdgrp lng="pt">
+    <trd>aposentado</trd>,
+    <trd>reformado</trd>,
+    <trd>jubilado</trd>
+  </trdgrp>
+  <trd lng="ru">&c_p;&c_je;&c_n;&c_s;&c_i;&c_o;&c_n;&c_je;&c_r;</trd>
+  <trdgrp lng="sk">
+    <trd>dôchodca</trd>,
+    <trd>penzista</trd>,
+    <trd>vyslúžilec</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>důchodce</trd>,
+    <trd>penzista</trd>,
+    <trd>vysloužilec</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="emerit.0igxi">
+  <kap><tld/>i&gcirc;i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="emerit.0igxi.POL">
+    <dif>
+      I&gcirc;i <tld/>o, &ccirc;esigi sian profesian laboron:
+      <ekz>
+        en 1962 Waringhien <tld/>i&gcirc;is kiel honora profesoro kaj en 1963 
+        elekti&gcirc;is prezidanto de la Akademio de Esperanto
+        <fnt>
+          <aut>A. Kor&jcirc;enkov</aut>,
+          <vrk><url ref="http://www.esperanto.org/Ondo/H-waring.htm">
+          Gaston Waringhien</url></vrk>,
+          <bib>LOdE</bib>, <lok>2001:6 (80)</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="ca">jubilar-se</trd>
+  <trd lng="es">jubilar se</trd>
+  <trdgrp lng="fr">
+    <trd>se retirer<klr> (prendre sa retraite)</klr></trd>,
+    <trd>prendre sa <ind>retraite</ind></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: emerit.xml,v $
+Revision 1.19  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2011/12/12 11:10:25  revo
+Marc Rausell: +trd ca
+
+Revision 1.16  2010/07/14 16:30:32  revo
+Agustin Garcia Lopez: +trd es
+
+Revision 1.15  2010/05/26 17:01:54  revo
+Jeromo Vasxe: + ~igxi
+
+Revision 1.14  2010/02/21 17:30:47  revo
+Russ Williams: +trd en, korekti pl
+
+Revision 1.13  2009/10/01 16:30:41  revo
+Paul Peeraerts: +nl +kor en pl
+
+Revision 1.12  2007/06/28 16:31:30  revo
+Tulio Flores: +tr pt
+
+Revision 1.11  2006/05/23 16:32:42  revo
+Sebastian Cyprych: kor adm, kor dif, +trd pl
+
+Revision 1.10  2003/12/17 17:30:55  revo
+-->
+</vortaro>

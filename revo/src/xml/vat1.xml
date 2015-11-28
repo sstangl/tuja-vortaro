@@ -1,0 +1,154 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: vat1.xml,v 1.27 2015/07/04 08:37:45 revo Exp $">
+<kap>
+    <rad>Vat</rad>/o
+</kap>
+<drv mrk="vat1.0o">
+    <kap><tld/>o</kap>
+    <snc mrk="vat1.0o.PERS">
+      <uzo tip="fak">PERS</uzo>
+      <dif>
+        Anglalingve: <trd lng="en">Watt <klr
+        tip="amb">(James)</klr></trd>, 
+        1736-1819, brita <ref tip="lst" cel="fizik.0isto"
+        lst="voko:historiaj_personoj">fizikisto</ref>:
+        <ekz>
+          <tld lit="v"/>a regulilo.
+        </ekz>
+      </dif>
+    </snc>
+  <trdgrp lng="be">
+      <trd>&c_V;&c_a;&c_t;</trd>,
+      <trd>&c_U;&c_a;&c_t;</trd>
+    </trdgrp>
+  <trd lng="bg"><klr tip="amb">&c_D;&c_zh;&c_je;&c_j;&c_m;&c_s;</klr> &c_U;&c_a;&c_t;</trd>
+  <trd lng="ca">Watt</trd>
+  <trd lng="cs">Watt James</trd>
+  <trd lng="es">Watt</trd>
+  <trd lng="fa"><klr tip="amb">&a_j;&f_y;&a_m;&a_z; </klr>&a_w;&a_A;&a_t;</trd>
+  <trd lng="fi">Watt</trd>
+  <trd lng="fr">Watt</trd>
+  <trd lng="hu">Watt</trd>
+  <trd lng="id">Watt</trd>
+  <trd lng="it">Watt</trd>
+  <trdgrp lng="pt">
+     <trd>Watt</trd>
+    </trdgrp>
+  <trdgrp lng="ru">
+      <trd>&c_V;&c_a;&c_t;&c_t;</trd>,
+      <trd>&c_U;&c_a;&c_t;&c_t;</trd>
+    </trdgrp>
+  <trd lng="sk">Watt James</trd>
+  <trd lng="sv">Watt</trd>
+</drv>
+
+<drv mrk="vat1.v0o">
+    <kap><tld lit="v"/>o</kap> <fnt><bib>PV</bib></fnt>
+    <mlg kod="SI">W</mlg>
+    <snc mrk="vat1.v0o.FIZ">
+      <uzo tip="fak">FIZ</uzo>
+      <dif>
+        <ref tip="lst" cel="unu.mezur0o"
+        lst="voko:mezurunuoj">Mezurunuo</ref> de
+        <ref cel="pov.0o.FIZ">povo</ref> en la Internacia Sistemo de
+        unuoj:
+        <ekz>
+          unu <tld lit="v"/>o egalas al la povo, &ccirc;e kiu laboro je unu
+          <ref cel="jxul.jx0o">&jcirc;ulo</ref> estas produktata en
+          unu <ref cel="sekund.0o.tempo">sekundo</ref>.
+        </ekz>
+      </dif>
+    </snc>
+  <trd lng="be">&c_v;&c_a;&c_t;
+      <klr>(&c_a;&c_d;&c_z;&c_ib;&c_n;&c_k;&c_a;
+        &c_v;&c_y;&c_m;&c_ja;&c_r;&c_e;&c_n;&c_mol;&c_n;&c_ja;)</klr>
+    </trd>
+  <trd lng="bg">&c_v;&c_a;&c_t;</trd>
+  <trd lng="ca">watt</trd>
+  <trd lng="cs">Watt James</trd>
+  <trd lng="de">Watt</trd>
+  <trd lng="en">watt</trd>
+  <trd lng="es">vatio</trd>
+  <trd lng="fa">&a_w;&a_A;&a_t;</trd>
+  <trd lng="fi">watti</trd>
+  <trd lng="fr">watt<klr tip="ind"> (unit&eacute; de mesure)</klr></trd>
+  <trd lng="hu">watt</trd>
+  <trd lng="id">watt</trd>
+  <trd lng="it">watt<klr> (unit&agrave; di misura)</klr></trd>
+  <trd lng="nl">watt</trd>
+  <trdgrp lng="pt">
+     <trd>watt</trd>
+    </trdgrp>
+  <trd lng="ru">&c_v;&c_a;&c_t;&c_t;</trd>
+  <trd lng="sk">Watt James</trd>
+  <trd lng="sv">watt</trd>
+</drv>
+
+<drv mrk="vat1.v0horo">
+    <kap><tld lit="v"/>horo</kap>
+    <fnt><bib>PV</bib></fnt>
+    <mlg>Wh</mlg>
+    <snc mrk="vat1.v0horo.FIZ">
+      <uzo tip="fak">FIZ</uzo>
+      <dif>
+        Komunuza <ref tip="lst" cel="unu.mezur0o"
+        lst="voko:mezurunuoj">mezurunuo</ref> de
+        <ref cel="energi.0o.FIZ">energio</ref>:
+        <ekz>
+          unu <tld lit="v"/>horo egalas al la laboro produktata de povo
+          je unu <tld lit="v"/>o dum unu horo, alidire 3600 &jcirc;uloj.
+        </ekz>
+      </dif>
+    </snc>
+    <trd lng="be">&c_v;&c_a;&c_t;-&c_g;&c_a;&c_d;&c_z;&c_ib;&c_n;&c_a;</trd>
+    <trd lng="bg">&c_v;&c_a;&c_t;&c_ch;&c_a;&c_s;</trd>
+    <trd lng="ca"><ind>watt</ind> hora</trd>
+    <trd lng="de">Wattstunde</trd>
+    <trd lng="en">watt-hour</trd>
+    <trd lng="es">vatio-hora</trd>
+    <trd lng="fa">&a_w;&a_A;&a_t; &a_s;&a_A;&a_ayn;&a_t;</trd>
+    <trd lng="fi">wattitunti</trd>
+    <trd lng="fr"><ind>watt</ind>-heure</trd>
+    <trd lng="hu">watt&oacute;ra</trd>
+    <trd lng="id">watt-jam</trd>
+    <trd lng="it">wattora</trd>
+    <trd lng="nl">wattuur</trd>
+    <trd lng="ru">&c_v;&c_a;&c_t;&c_t;-&c_ch;&c_a;&c_s;</trd>
+    <trd lng="sv">wattimme</trd>
+</drv>
+</art>
+<!--
+$Log: vat1.xml,v $
+Revision 1.27  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.26  2015/06/28 12:03:50  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.25  2014/07/02 15:10:42  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.24  2013/09/14 17:10:31  revo
+Wolfram Diestel: ref al lst mezurunuoj, historiaj  personoj
+
+Revision 1.23  2012/08/12 09:10:12  revo
+Marc Rausell: + trd ca
+
+Revision 1.22  2011/03/06 20:10:10  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.21  2010/04/14 06:05:56  revo
+Jose Antonio del Barrio: +trd es
+
+Revision 1.20  2010/01/02 17:30:49  revo
+Wieland Pusch: +trd bg
+
+Revision 1.19  2009/12/11 17:30:28  revo
+Antonio Codazzi: +trd it
+
+Revision 1.18  2007/07/07 16:30:41  revo
+-->
+</vortaro>

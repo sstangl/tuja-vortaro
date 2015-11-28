@@ -1,0 +1,156 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: sxovel.xml,v 1.21 2015/07/17 16:10:15 revo Exp $">
+<kap>
+   <ofc>*</ofc>
+   <rad>&scirc;ovel</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="sxovel.0i">
+   <kap><ofc>*</ofc><tld/>i</kap>
+   <gra><vspec>tr</vspec></gra>
+   <snc mrk="sxovel.0i.KOMUNE">
+     <dif>
+       Forpreni kaj trans&scirc;uti ian materion per <tld/>ilo a&ubreve; 
+       per plata instrumento a&ubreve; objekto simila al <tld/>ilo:
+       <ekz>
+         estis <tld/>ita malgranda irvojeto<fnt>Z</fnt>;
+       </ekz>
+       <ekz>
+         kun<tld/>i per la piedo velkintajn foliojn<fnt>Z</fnt>;
+       </ekz>
+       <ekz>
+         <tld/>kvanto da tero<fnt>Z</fnt>;
+       </ekz>
+       <ekz><uzo tip="stl">FIG</uzo>
+         <tld/>i per la piedo<fnt>Z</fnt>
+         <klr>(tergrati <sup>Z</sup>)</klr>.
+       </ekz>
+     </dif>
+   </snc>
+   <trd lng="be">&c_z;&c_g;&c_r;&c_a;&c_b;&c_a;&c_c;&c_mol;</trd>
+   <trd lng="bg">&c_k;&c_o;&c_p;&c_a;&c_ja;</trd>
+   <trdgrp lng="de">
+     <trd>schaufeln</trd>,
+     <trd>schippen</trd>
+   </trdgrp>
+   <trd lng="en">shovel</trd>
+   <trdgrp lng="es">
+     <trd>cavar</trd>,
+     <trd>excavar</trd>
+   </trdgrp>
+   <trdgrp lng="fa">
+     <trd>&a_b;&f_y;&a_l; &a_z;&a_d;&a_n;</trd>,
+     <trd>&a_b;&a_A; <ind>&a_kh;&a_A;&f_k;&zwnj;&a_A;&a_n;&a_d;&a_A;&a_z;</ind> &a_b;&a_r;&a_d;&a_A;&a_sh;&a_t;&a_n;</trd>
+   </trdgrp>
+   <trdgrp lng="fr"><trd>pelleter</trd><trd>creuser &agrave; la 
+<ind>pelle</ind></trd></trdgrp>
+   <trd lng="hu">lap&aacute;tol</trd>
+   <trdgrp lng="it">
+     <trd>palare</trd>,
+     <trd>spalare</trd>
+   </trdgrp>
+   <trd lng="nl">scheppen<klr tip="ind"> (met schop)</klr></trd>
+  <trdgrp lng="pt">
+    <trd>remover</trd>,
+    <trd>apanhar com <ind>p&aacute;</ind></trd>
+  </trdgrp>
+   <trdgrp lng="ru">
+     <trd>&c_s;&c_g;&c_r;&c_je;&c_b;&c_a;&c_t;&c_mol; 
+<klr>(&c_l;&c_o;&c_p;&c_a;&c_t;&c_o;&c_j;)</klr></trd>,
+     <trd>&c_z;&c_a;&c_ch;&c_je;&c_r;&c_p;&c_y;&c_v;&c_a;&c_t;&c_mol;</trd>
+   </trdgrp>
+</drv>
+
+<drv mrk="sxovel.0ilo">
+   <kap><tld/>ilo</kap>
+   <snc mrk="sxovel.0ilo.longa">
+     <dif>
+       Ilo konsistanta el lar&gcirc;a, iom konkava, ordinare 
+       metala, plato kun longa tenilo.
+     </dif>
+     <trd lng="be">&c_sh;&c_u;&c_f;&c_je;&c_l;&c_mol;</trd>
+     <trd lng="bg">&c_l;&c_o;&c_p;&c_a;&c_t;&c_a;</trd>
+     <trd lng="en">shovel</trd>
+     <trd lng="fa">&a_b;&f_y;&a_l;</trd> 
+     <trd lng="nl">schop</trd>
+     <trd lng="ru">&c_s;&c_o;&c_v;&c_k;&c_o;&c_v;&c_a;&c_ja; 
+&c_l;&c_o;&c_p;&c_a;&c_t;&c_a;</trd>
+     <trdgrp lng="it">
+     <trd>pala</trd>,
+     <trd>badile</trd>
+   </trdgrp>
+   </snc>
+   <snc mrk="sxovel.0ilo.mallonga">
+     <dif>
+       Samspeca ilo kun mallonga tenilo por hejmaj uzoj.
+     </dif>
+     <trd lng="be">&c_sh;&c_u;&c_f;&c_l;&c_ib;&c_k;</trd>
+     <trd lng="bg">&c_l;&c_o;&c_p;&c_a;&c_t;&c_k;&c_a;</trd>
+     <trdgrp lng="de">
+       <trd>Schaufel</trd>,
+       <trd>Schippe</trd>
+     </trdgrp>
+     <trdgrp lng="en">
+       <trd>scoop</trd>,
+       <trd>dustpan<klr tip="amb"> (por polvo)</klr></trd>
+     </trdgrp>
+     <trdgrp lng="fa">
+       <trd>&a_kh;&a_A;&f_k;&zwnj;&a_A;&a_n;&a_d;&a_A;&a_z;</trd>,
+       <trd>&a_b;&f_y;&a_l;&f_ch;&a_h;</trd>
+     </trdgrp>
+     <trd lng="it">paletta</trd>
+     <trd lng="nl">stofblik</trd>
+     <trd lng="pt">pazinha<klr> (de lixo)</klr></trd>
+     <trd lng="ru">&c_s;&c_o;&c_v;&c_o;&c_k;</trd>
+   </snc>
+   <trd lng="es">pala</trd>
+   <trd lng="fr">pelle</trd> 
+   <trd lng="hu">lap&aacute;t</trd>
+   <trd lng="pt">p&aacute;</trd>
+</drv>
+
+<drv mrk="sxovel.pan0ilo">
+  <kap>pan<tld/>ilo</kap>
+  <snc mrk="sxovel.pan0ilo.KUI">
+    <uzo tip="fak">KUI</uzo>
+    <dif>
+      Longtenila <tld/>ilo, per kiu oni en&scirc;ovas kaj
+      el&scirc;ovas baka&jcirc;ojn el granda kuirforno:
+      <ekz>
+        li &ccirc;e &scirc;tipo &ccirc;arpentis pan<tld/>ilon
+        <fnt><aut>A. Kivi, trad. I. Ekstr&ouml;m</aut>, <vrk>Sep 
+        fratoj</vrk>, <lok>1947</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">pelle de boulanger</trd>
+</drv>
+</art>
+<!--
+$Log: sxovel.xml,v $
+Revision 1.21  2015/07/17 16:10:15  revo
+Joop Eggen: +trd bg en
+
+Revision 1.20  2015/04/18 18:10:19  revo
+Carlos Garcia: +trd es -i
+
+Revision 1.19  2014/07/12 12:10:15  revo
+Jeromo Vasxe: + pan~ilo
+
+Revision 1.18  2012/02/18 18:10:09  revo
+Carlos Garcia: +trd es -ilo
+
+Revision 1.17  2011/10/06 19:10:09  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.16  2009/04/05 16:31:05  revo
+Antonio Codazzi: +trd it
+
+Revision 1.15  2006/02/17 17:31:39  revo
+Tulio Flores: +trd pt
+
+Revision 1.14  2004/03/06 17:30:39  revo
+-->
+</vortaro>

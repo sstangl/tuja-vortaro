@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: herc.xml,v 1.10 2015/07/04 08:37:35 revo Exp $">
+<kap>
+  <rad>herc</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="herc.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="herc.0o.MEZ">
+    <uzo tip="fak">FIZ</uzo>
+    <mlg kod="SI">Hz</mlg>
+    <dif>
+      <ref tip="lst" cel="unu.mezur0o.SCI"
+      lst="voko:mezurunuoj">Mezurunuo</ref> de 
+      <ref tip="vid" cel="frekve.0o.TEK">frekvenco</ref>
+      en la Internacia Sistemo de unuoj, egala al unu 
+      oscilo en unu sekundo:
+      <ekz>
+        homo perceptas la sonondojn inter 20 kaj 16 000 <tld/>oj
+        <fnt>
+          <bib>Viki</bib>,
+          <lok>artikolo &leftquot;senso (birdoj)&rightquot;, 
+          2007-01-27</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="bg">&c_h;&c_je;&c_r;&c_c;</trd>
+  <trd lng="cs">hertz</trd>
+  <trd lng="de">Hertz<klr tip="amb"> (Einheit)</klr></trd>
+  <trdgrp lng="fa">
+    <trd>&a_h;&a_r;&a_t;&a_s;</trd>,
+    <trd>&a_h;&a_r;&a_t;&a_z;</trd>
+  </trdgrp>
+  <trd lng="fr">hertz</trd>
+  <trd lng="hu">Hertz</trd>
+  <trd lng="id">hertz</trd>
+  <trd lng="it">hertz</trd>
+  <trd lng="nl">hertz</trd>
+  <trd lng="sk">karta červenej farby</trd>
+</drv>
+</art>
+
+<!--
+$Log: herc.xml,v $
+Revision 1.10  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.9  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.8  2014/07/01 17:10:36  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.7  2013/09/15 14:10:14  revo
+Wolfram Diestel: ref al lst mezurunuoj, mlg
+
+Revision 1.6  2011/10/15 18:10:13  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.5  2009/11/28 17:31:28  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.4  2009/09/05 16:31:29  revo
+Antonio Codazzi: +trd it
+
+Revision 1.3  2009/08/08 16:34:22  revo
+Wieland Pusch: +trd de+bg
+
+Revision 1.2  2009/07/11 16:30:46  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.1  2009/05/24 11:27:07  revo
+-->
+</vortaro>

@@ -1,0 +1,145 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: sedime.xml,v 1.18 2015/09/01 18:10:15 revo Exp $">
+<kap>
+  <rad>sediment</rad>/o <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="sedime.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="sedime.0o.KOMUNE">
+    <dif>
+      Malrapida amasi&gcirc;o de solidaj materiaj eroj funde de iu medio.  
+    </dif>
+    <subsnc mrk="sedime.0o.MIN">
+      <uzo tip="fak">MIN</uzo>
+      <dif>
+        Tera tavolo, malrapide formita de maroj, riveroj, ventoj ktp.
+      </dif>
+      <trd lng="de">Ablagerungsschicht</trd>
+      <trd lng="nl">afzetting<klr tip="ind"> (v.aardlaag)</klr></trd>
+    </subsnc>
+    <subsnc mrk="sedime.0o.KEM">
+      <uzo tip="fak">KEM</uzo>
+      <dif>
+        Precipita&jcirc;o de nesolveblaj materioj funde en senmova likvo:
+        <ekz>
+          <tld/>o restas en la kaldrono<fnt>Z</fnt>.
+        </ekz>
+      </dif>
+      <refgrp tip="vid">
+        <ref cel="fecx.0o.AGR">fe&ccirc;o<sncref/></ref>
+      </refgrp>
+      <trd lng="de">Sediment</trd>
+      <trd lng="hu">&uuml;led&eacute;k</trd>
+      <trdgrp lng="nl">
+        <trd>bezinksel</trd>,
+        <trd>neerslag</trd>
+      </trdgrp>
+    </subsnc>
+  </snc>
+  <trd lng="be">&c_a;&c_s;&c_a;&c_d;&c_a;&c_k;</trd>
+  <trd lng="bg">&c_n;&c_a;&c_n;&c_o;&c_s;</trd>
+  <trd lng="ca">sediment</trd>
+  <trdgrp lng="cs">
+    <trd>kal</trd>,
+    <trd>sediment</trd>,
+    <trd>usazenina</trd>
+  </trdgrp>
+  <trd lng="fr">s&eacute;diment</trd>
+  <trd lng="ru">&c_o;&c_s;&c_a;&c_d;&c_o;&c_k;</trd>
+  <trd lng="sk">usadenina</trd>
+  <trd lng="sv">sediment</trd>
+</drv>
+
+<drv mrk="sedime.0igxi">
+  <kap><tld/>i&gcirc;i, <var><kap><tld/>i</kap></var></kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="sedime.0igxi.GEOL">
+    <uzo tip="fak">MIN</uzo>
+    <dif>
+      Amasi&gcirc;i, <ref tip="vid" cel="fund.sur0igxi">surfundi&gcirc;i</ref>,
+      premi&gcirc;i kiel <tld/>o:
+      <ekz>
+        dum <klr>[hemaglutinado]</klr> kunglui&gcirc;as kaj <tld/>i&gcirc;as
+        eritrocitoj
+        <fnt>
+          <aut>Z. Pluha&rcaron;</aut>,
+          <vrk><url
+          ref="http://media0.webgarden.name/files/media0:4ee7f3f8633be.1.upl/Konciza%2520Imuno%25C4%25A5emia%2520Vortaro%2520Esperanta%2520%282011%2C%2520v.1.1%29.1">
+          Konciza Imuno&hcirc;emia Vortaro Esperanta</url></vrk>,
+          <lok>2011</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la argilaj kristaloj forprenitaj de la akvo,
+        poste <tld/>os en la lagoj, mar&ccirc;oj, maroj
+        <fnt>
+          <aut>[Terano]</aut>,
+          <vrk><url
+          ref="http://www.eventoj.hu/steb/vortaroj/argilajxo.htm">
+          La Argilo</url></vrk>,
+          <lok>[2001]</lok>
+        </fnt>;
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="depon.0i.GEOL">deponi<sncref/></ref>,
+      <ref cel="precip1.0i.KEM">precipiti</ref>
+    </refgrp>
+  </snc>
+  <trd lng="fr">s&eacute;dimenter</trd>
+</drv>
+
+<drv mrk="sedime.0igxo">
+  <kap><tld/>i&gcirc;o,
+  <var><kap><tld/>i&gcirc;ado</kap></var></kap>
+  <snc mrk="sedime.0igxo.MIN">
+    <uzo tip="fak">MIN</uzo>
+    <dif>
+      Amasi&gcirc;o de subtanco en <tld/>on:
+      <ekz>
+        <tld/>i&gcirc;ado sen grava interrompo okazis
+        de la Vindobonio &gcirc;is la fino de la Pontio
+        <fnt>
+          <aut>J. M. Mabesoone</aut>,
+          <vrk><url
+          ref="http://www.repository.naturalis.nl/document/549662">
+          Tertiary and Quaternary Sedimentation in a Part of the 
+          Duero Basin Palencia (Spain)</url></vrk>,
+          <lok>[Leidse Geologische Mededelingen, 1959 (24), p. 
+          31a-180a]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">s&eacute;dimentation</trd>
+</drv>
+</art>
+<!--
+$Log: sedime.xml,v $
+Revision 1.18  2015/09/01 18:10:15  revo
+Jeromo Vasxe: + ~igxo
+
+Revision 1.17  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.15  2013/01/09 15:10:11  revo
+Jeromo Vasxe: kor 1 mrk
+
+Revision 1.14  2012/10/10 14:10:10  revo
+Jeromo Vasxe: + ~igxi + trd fr
+
+Revision 1.13  2012/07/17 10:10:27  revo
+Marc Rausell: + trd ca
+
+Revision 1.12  2011/12/26 15:10:10  revo
+Wieland Pusch: +trd bg
+
+Revision 1.11  2006/01/07 17:31:54  revo
+-->
+</vortaro>

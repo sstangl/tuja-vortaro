@@ -1,0 +1,323 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: sorb.xml,v 1.18 2015/07/04 08:37:43 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>sorb</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="sorb.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="sorb.0i.KOMUNE">
+    <uzo tip="klr">(iu)</uzo>
+    <dif>
+      Enspirante altiri flua&jcirc;on iom post iom en sian bu&scirc;on:
+      <ekz>
+        <tld/>i krudan ovon;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        multe da &gcirc;ojo kaj da maldol&ccirc;a aflikto ni senkonsidere <tld/>is
+        el la plena kaliko;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        <tld/>i <klr>(avide plen&gcirc;ue a&ubreve;skulti)</klr>
+        ies parolojn<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="sucx">ensu&ccirc;i</ref>.
+    </refgrp>
+    <trdgrp lng="de">
+      <trd>saugen</trd>,
+      <trd>einsaugen</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>sz&iacute;v</trd>,
+      <trd>besz&iacute;v</trd>
+    </trdgrp>
+    <trd lng="nl">opzuigen</trd>
+    <trdgrp lng="pl">
+    <trd>wsysa&cacute;</trd>,
+    <trd>wci&aogonek;ga&cacute;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="sorb.0i.FIZ">
+    <uzo tip="klr">(io)</uzo>
+    <dif>
+      Iom post iom altiri en si flua&jcirc;on:
+      <ekz>
+        tiu substanco, <tld/>ita tra la digesta aparato, ka&ubreve;zas nenian
+        malutilon;
+      </ekz>
+      <ekz>
+        la suno el<tld/>as la malsekecon.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>aufsaugen</trd>,
+      <trd>l&ouml;schen</trd>
+    </trdgrp>
+    <trd lng="hu">felsz&iacute;v</trd>    
+    <trdgrp lng="nl">
+      <trd>opzuigen</trd>,
+      <trd>absorberen</trd>
+    </trdgrp>
+    <trd lng="nl">opzuigen</trd>
+    <trd lng="pl">wch&lstroke;ania&cacute;</trd>
+  </snc>
+  <snc mrk="sorb.0i.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Alproprigi al sia spirito, enspiritigi al si:
+      <ekz>
+        &ccirc;iuj animoj <tld/>is la murmureton de l' sanktaj
+        vortoj<fnt>B</fnt>;
+      </ekz>
+      <ekz>
+        bele sonas la agoj de l' prapatroj, kiam ilin junulo <tld/>as
+        kun la ton' de harpo<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        tiaj studoj estas malfacile alproprigataj kaj <tld/>ataj de tro
+        junaj infanoj.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>aufnehmen</trd>,
+      <trd>einsenken</trd>
+    </trdgrp>
+    <trd lng="hu">mag&aacute;ba <ind>sz&iacute;v</ind></trd>    
+    <trd lng="nl">in zich <ind>opnemen</ind></trd>
+    <trdgrp lng="pl">
+    <trd>wch&lstroke;ania&cacute;</trd>,
+    <trd>nasi&aogonek;ka&cacute;</trd>,
+    <trd>przesi&aogonek;ka&cacute;</trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>nasát</trd>,
+    <trd>pít</trd>,
+    <trd>vstřebat</trd>,
+    <trd>vsát</trd>
+  </trdgrp>
+  <trd lng="en">absorb</trd>
+  <trd lng="fr">absorber</trd>
+  <trdgrp lng="ru">
+    <trd>&c_v;&c_p;&c_i;&c_t;&c_y;&c_v;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_v;&c_s;&c_a;&c_s;&c_y;&c_v;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_p;&c_o;&c_g;&c_l;&c_o;&c_shch;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_u;&c_s;&c_v;&c_a;&c_i;&c_v;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>nasať</trd>,
+    <trd>piť</trd>,
+    <trd>vstrebávať</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="sorb.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="sorb.0a.KOMUNE">
+    <dif>
+      Kiu <tld/>as, enlogas en sin:
+      <ekz>
+        la <tld/>a papero <tld/>as la inkon.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>absobční</trd>,
+    <trd>pohlcující</trd>,
+    <trd>sorbující</trd>
+  </trdgrp>
+  <trd lng="fr">absorbant</trd>
+  <trdgrp lng="sk">
+    <trd>absorpčný</trd>,
+    <trd>pohlcujúci</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="sorb.0etadi">
+  <kap><tld/>etadi</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="sorb.0etadi.KOMUNE">
+    <dif>
+      Tute malrapide <tld/>i.
+    </dif>
+  </snc>
+  <trd lng="fr">s'<ind>imbiber</ind> de</trd>
+  <trdgrp lng="hu">
+    <trd>kortyol</trd>,
+    <trd>sz&ouml;rp&ouml;l</trd>,
+    <trd>h&ouml;rp&ouml;l</trd>,
+    <trd>iszogat</trd>
+  </trdgrp>
+  <trd lng="ru">&c_p;&c_o;&c_t;&c_ja;&c_g;&c_i;&c_v;&c_a;&c_t;&c_mol; <klr tip="amb">(&c_m;&c_je;&c_d;&c_l;&c_je;&c_n;&c_n;&c_o; &c_p;&c_i;&c_t;&c_mol;)</klr></trd>
+</drv>
+
+<drv mrk="sorb.0igi">
+  <kap><tld/>igi</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="sorb.0igi.KOMUNE">
+    <dif>
+      Ka&ubreve;zi <tld/>on;
+      <ref tip="vid" cel="impregn.0i.KOMUNE">impregni</ref>:
+      <ekz>
+        spongo <tld/>igita de akvo.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="fr">
+    <trd>faire <ind>absorber</ind></trd>,
+    <trd>impr&eacute;gner</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="sorb.0igxi">
+  <kap><tld/>i&gcirc;i<fnt>Z</fnt></kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="sorb.0igxi.objekto">
+    <dif>
+      Esti tute penetrita de iu flua&jcirc;o.
+    </dif>
+    <trdgrp lng="hu">
+      <trd>telesz&iacute;vja mag&aacute;t</trd>,
+      <trd>tel&iacute;t&odblac;dik</trd>
+    </trdgrp>
+    <trd lng="pl">nasi&aogonek;kn&aogonek;&cacute;</trd>
+    <trd lng="ru">&c_p;&c_r;&c_o;&c_p;&c_i;&c_t;&c_a;&c_t;&c_mol;&c_s;&c_ja; <klr>(&c_k;&c_a;&c_k;&c_o;&c_j;-&c_l;. &c_zh;&c_i;&c_d;&c_k;&c_o;&c_s;&c_t;&c_mol;&c_ju;)</klr></trd>
+  </snc>
+  <snc mrk="sorb.0igxi.fluajxo">
+    <uzo tip="klr">(pri flua&jcirc;o)</uzo>
+    <dif>
+      Esti el&ccirc;erpita de io.
+    </dif>
+    <trdgrp lng="hu">
+      <trd>feliv&oacute;dik</trd>,
+      <trd>felsz&iacute;v&oacute;dik</trd>
+    </trdgrp>
+    <trd lng="ru">&c_v;&c_p;&c_i;&c_t;&c_a;&c_t;&c_mol;&c_s;&c_ja; <klr>(&c_o; &c_zh;&c_i;&c_d;&c_k;&c_o;&c_s;&c_t;&c_i;)</klr></trd>
+  </snc>
+  <trd lng="fr">s'<ind>impr&eacute;gner</ind></trd>
+  <trd lng="nl">doortrokken worden</trd>
+</drv>
+
+<drv mrk="sorb.en0i">
+  <kap>en<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="sorb.en0i.KOMUNE">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Malaperigi en si:
+      <ekz>
+        Esperanto devas konstante en<tld/>i novajn sukojn<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        tiujn ideojn li en<tld/>is en la patra hejmo;
+      </ekz>
+      <ekz>
+        lia impresema intelekto kaj varma koro en<tld/>adis &ccirc;iujn
+        gravajn problemojn de l' aktuala tempo;
+      </ekz>
+      <ekz>
+        li ne povis fari, ke la neekzercitaj organoj de komprenado
+        en<tld/>u en sin tion, kion oni en&scirc;utas en ilin<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        post longa luktado la trusto sukcesis en<tld/>i &ccirc;i tiujn
+        potencajn kompaniojn;
+      </ekz>
+      <ekz>
+        la &ccirc;eestantoj disi&gcirc;is kaj balda&ubreve; en<tld/>i&gcirc;is en la amaso da
+        veturiloj;
+      </ekz>
+      <ekz>
+        tiu penso tute okupis la maljunulon kaj en<tld/>is &ccirc;iujn aliajn
+        dezirojn kaj esperojn<fnt>B</fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>nasát</trd>,
+    <trd>vstřebat</trd>,
+    <trd>vsát</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>eingliedern</trd>,
+    <trd>einverleiben</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>aspirer</trd>,
+    <trd>incorporer</trd>
+  </trdgrp>
+  <trd lng="hu">elnyel</trd>
+  <trd lng="nl">zich <ind>verdiepen</ind></trd>
+  <trdgrp lng="sk">
+    <trd>vpiť sa</trd>,
+    <trd>vsiaknuť</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="sorb.tra0igxi">
+  <kap>tra<tld/>i&gcirc;i,
+  <var><kap>el<tld/>i&gcirc;i</kap></var>,
+  <var><kap>mal<tld/>i&gcirc;i</kap></var></kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="sorb.tra0igxi.KOMUNE">
+    <dif>
+      Tre malrapide elguteti el ia materio,
+      <ref tip="vid" cel="sxvit.0igxi.KOMUNE">&scirc;viti&gcirc;i</ref>:
+      <ekz>
+        la akvo tra<tld/>i&gcirc;adis el la alta musko<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">suinter</trd>
+  <trdgrp lng="hu">
+    <trd>kicsepeg</trd>,
+    <trd>kisziv&aacute;rog</trd>
+  </trdgrp>
+  <trd lng="nl">doorsijpelen</trd>
+  <trdgrp lng="pl">
+  <trd>przesi&aogonek;ka&cacute;</trd>,
+  <trd>s&aogonek;czy&cacute; si&eogonek;</trd>,
+  <trd>wys&aogonek;cza&cacute; si&eogonek;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: sorb.xml,v $
+Revision 1.18  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:33:24  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.16  2014/03/16 02:10:15  revo
+Jeromo Vasxe: + ~a ~igi
+
+Revision 1.15  2013/04/03 12:10:13  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.14  2013/04/01 14:10:10  revo
+Jeromo Vasxe: memstar. en~i, kor 1 mrk, + trd fr
+
+Revision 1.13  2012/10/23 00:13:47  revo
+Neil Roberts: aldonu la etikedon <var>
+
+Revision 1.12  2010/08/31 16:30:31  revo
+Russ Williams: +vid ne konfuzu kun absorbi
+
+Revision 1.11  2004/10/19 16:33:45  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.10  2002/02/14 17:35:29  revo
+Yury Finkel: +trd ru
+
+Revision 1.9 2001/08/01 18:14:25 revo
+-->
+</vortaro>

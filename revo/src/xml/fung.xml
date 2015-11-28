@@ -1,0 +1,218 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: fung.xml,v 1.30 2015/07/04 08:37:34 revo Exp $">
+<kap><ofc>*</ofc>
+<rad>fung</rad>/o</kap>
+
+<drv mrk="fung.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="fung.0o.BIO">
+    <uzo tip="fak">BIO</uzo>
+    <dif>
+      Iu el <ref tip="malprt" cel="fung.0oj"><tld/>oj</ref>,
+      viva&jcirc;o plur&ccirc;ela, nutri&gcirc;anta de
+      organika materialo kaj reprodukti&gcirc;anta plej
+      ofte per sporoj.
+      <ekz>
+        &scirc;imo estas <tld/>o.
+      </ekz>
+    </dif>
+    <trd lng="en">fungus</trd>
+  </snc>
+  <snc mrk="fung.0o.fruktokorpo">
+    <uzo tip="stl">KOMUNE</uzo>
+    <dif>
+      Fruktokorpo de <ref tip="malprt" cel="fung.0o.BIO"><tld/>o
+      <sncref ref="fung.0o.BIO"/></ref>.
+    </dif>
+    <trdgrp lng="en">
+      <trd>mushroom</trd>,
+      <trd>toadstool</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="be">&c_g;&c_r;&c_y;&c_b;</trd>
+  <trd lng="bg">&c_g;&c_mol;&c_b;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>houba</trd>,
+    <trd>plíseň</trd>
+  </trdgrp>
+  <trd lng="de">Pilz</trd>
+  <trd lng="es">hongo</trd>
+  <trd lng="fr">champignon</trd>
+  <trd lng="hu">gomba</trd>
+  <trdgrp lng="id">
+    <trd>cendawan</trd>,
+    <trd>jamur</trd>
+  </trdgrp>
+  <trd lng="nl">zwam</trd>
+  <trdgrp lng="pt">
+    <trd>fungo</trd>,
+    <trd>cogumelo</trd>,
+    <trd>tortulho</trd>
+  </trdgrp>
+  <trd lng="ru">&c_g;&c_r;&c_i;&c_b;</trd>
+  <trdgrp lng="sk">
+    <trd>huba</trd>,
+    <trd>pleseň</trd>
+  </trdgrp>
+  <trd lng="tp">kili</trd>
+</drv>
+
+<drv mrk="fung.0oj">
+  <kap><tld/>oj</kap>
+  <tezrad fak="BOT"/>
+  <uzo tip="fak">BOT</uzo>
+  <snc>
+    <dif>
+      Unu el la <ref tip="lst" cel="regn.0o.BIO"
+      lst="voko:biologiaj_regnoj">regnoj</ref>
+      de la viva&jcirc;oj (<trd lng="la">Fungi</trd>).
+    </dif>
+  </snc>
+  <trd lng="be">&c_g;&c_r;&c_y;&c_b;&c_y; <klr tip="amb">(&c_c;&c_a;&c_r;&c_s;&c_t;&c_v;&c_a;)</klr></trd>
+  <trd lng="cs">houby <klr>(říše)</klr></trd>
+  <trd lng="de">Pilze</trd>
+  <trd lng="en">fungi</trd>
+  <trd lng="fr">champignons</trd>
+  <trd lng="hu">gomb&aacute;k</trd>
+  <trd lng="nl">zwammen</trd>
+  <trd lng="ru">&c_g;&c_r;&c_i;&c_b;&c_y;</trd>
+  <trd lng="sk">huby</trd>
+</drv>
+
+<drv mrk="fung.klab0oj">
+  <kap>klab<tld/>oj</kap>
+  <uzo tip="fak">BOT</uzo>
+  <snc>
+    <dif>
+      Filumo de la <ref tip="super" cel="fung.0oj"><tld/>oj</ref>
+      (<trd lng="la">Basidiomycota</trd>), kiuj produktas po kvar
+      sporojn sur klabformaj sporingoj.
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_b;&c_a;&c_z;&c_y;&c_d;&c_y;&c_ja;&c_l;&c_mol;&c_n;&c_y;&c_ja; &c_g;&c_r;&c_y;&c_b;&c_y;</trd>,
+    <trd>&c_b;&c_a;&c_z;&c_y;&c_d;&c_y;&c_ja;&c_m;&c_ib;&c_c;&c_e;&c_t;&c_y;</trd>
+  </trdgrp>
+  <trd lng="de">Basidienpilze</trd>
+  <trd lng="en">club fungi</trd>
+  <trd lng="fr">basidiomyc&egrave;tes</trd>
+  <trd lng="nl">steeltjeszwammen</trd>
+  <trd lng="hu">baz&iacute;diumos <ind>gomb&aacute;k</ind></trd>
+</drv>
+
+<drv mrk="fung.lamen0o">
+  <kap>lamen<tld/>o</kap>
+  <snc>
+    <dif>
+      Fungo, kies ombrelforma fruktokorpo de
+      sube prezentas multajn alcentrajn lamenojn.
+    </dif>
+  </snc>
+  <ref tip="malprt" cel="agarik1.0oj">agarikacoj</ref>
+  <trd lng="de">Bl&auml;tterpilz</trd>
+  <trd lng="fr">agaric</trd>
+  <trd lng="fr">agaric</trd>
+  <trd lng="nl">lamellenzwam</trd>
+  <trd lng="hu">lemezes <ind>gomba</ind></trd>
+  <trd lng="ru">&c_p;&c_l;&c_a;&c_s;&c_t;&c_i;&c_n;&c_ch;&c_a;&c_t;&c_y;&c_j; &c_g;&c_r;&c_i;&c_b;</trd>
+</drv>
+
+<drv mrk="fung.musx0o">
+  <kap>mu&scirc;<tld/>o</kap>
+  <uzo tip="fak">BOT</uzo>
+  <snc>
+    <dif>
+      Venena <ref tip="lst" cel="fung.0o.fruktokorpo" lst="voko:fungoj">
+      <tld/>o</ref> kun ru&gcirc;a &ccirc;apo, blanke makulita;
+      <ref tip="lst" cel="speci.0o.BIO" 
+      lst="voko:botanikaj_specioj">specio</ref>
+       de <ref tip="super" cel="amanit.0o">amanito</ref>
+      (<trd lng="la">Amanita muscaria</trd>).
+    </dif>
+  </snc>
+  <bld lok="../bld/musxfung.jpg">
+    fruktokorpo de mu&scirc;<tld/>o
+  </bld>
+  <trd lng="be">&c_m;&c_u;&c_h;&c_a;&c_m;&c_o;&c_r;</trd>
+  <trd lng="de">Fliegenpilz</trd>
+  <trdgrp lng="fr">
+    <trd>amanite muscarine</trd>,
+    <trd>amanite tue-mouches</trd>
+  </trdgrp>
+  <trd lng="nl">vliegenzwam</trd>
+  <trd lng="hu">l&eacute;gy&ouml;l&odblac; gal&oacute;ca</trd>
+  <trd lng="ru">&c_m;&c_u;&c_h;&c_o;&c_m;&c_o;&c_r;</trd>
+</drv>
+
+<drv mrk="fung.sak0oj">
+  <kap>sak<tld/>oj</kap>
+  <uzo tip="fak">BOT</uzo>
+  <snc>
+    <dif>
+      Filumo de la <ref tip="super" cel="fung.0oj"><tld/>oj</ref>
+      (<trd lng="la">Ascomycota</trd>), kiuj produktas po kvar
+      a&ubreve; pli ofte ok sporojn en sakformaj sporujoj.
+    </dif>
+  </snc>
+  <trd lng="de">Schlauchpilze</trd>
+  <trd lng="en">sac fungi</trd>
+  <trd lng="fr">ascomyc&egrave;tes</trd>
+  <trd lng="nl">zakjeszwammen</trd>
+  <trd lng="hu">t&ouml;ml&odblac;s gomb&aacute;k</trd>
+  <trd lng="ru">&c_s;&c_u;&c_m;&c_ch;&c_a;&c_t;&c_y;&c_je; &c_g;&c_r;&c_i;&c_b;&c_y;</trd>
+</drv>
+
+<drv mrk="fung.tub0o">
+  <kap>tub<tld/>o</kap>
+  <snc>
+    <dif>
+      Fungo, kies ombrelforma fruktokorpo de
+      sube prezentas multajn tubformajn truojn.
+    </dif>
+  </snc>
+  <ref tip="malprt" cel="boleta.0oj">boletacoj</ref>
+  <trd lng="cs">h&rcaron;&iacute;bek</trd>
+  <trd lng="de">R&ouml;hrling</trd>
+  <trd lng="en">bolete</trd>
+  <trd lng="nl">boleet</trd>
+  <trd lng="hu">cs&ouml;ves gomba</trd>
+</drv>
+<adm>
+  Cxu &leftquot;-mycOta&rightquot; en trd la estas gxustaj? <aut>MB</aut>
+</adm>
+</art>
+<!--
+$Log: fung.xml,v $
+Revision 1.30  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.29  2015/06/29 16:29:39  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.28  2014/11/09 04:10:20  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.27  2013/10/27 14:10:17  revo
+Wolfram Diestel: musx~o: ref al fungoj, prilaboris dif
+
+Revision 1.26  2013/08/20 19:10:11  revo
+Wolfram Diestel: referenco al listo bio regnoj
+
+Revision 1.25  2011/02/20 16:10:12  revo
+Russ Williams: +trd en
+
+Revision 1.24  2007/06/21 16:30:44  revo
+Tulio Flores: +tr pt
+
+Revision 1.23  2007/01/13 17:30:37  revo
+Wieland Pusch: +trd bg
+
+Revision 1.22  2006/09/19 17:39:46  revo
+Wolfram Diestel: +tezrad(BOT)
+
+Revision 1.21  2006/09/16 16:30:48  revo
+-->
+</vortaro>

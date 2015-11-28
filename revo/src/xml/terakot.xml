@@ -1,0 +1,139 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: terakot.xml,v 1.10 2015/07/04 08:37:44 revo Exp $">
+<kap>
+  <rad>terakot</rad>/o <fnt><bib>SPV</bib></fnt>
+</kap>
+<drv mrk="terakot.0o">
+  <kap><tld/>o</kap>
+  <snc>
+    <dif>
+      <ref tip="vid" cel="cerami.0o">Ceramika</ref> substanco bakita el
+      ferenhava, brikkolora argilo:
+      <ekz>
+        sian fabrikon en Rusio planas konstrui <ctl>Atlas</ctl>, la pola
+        gvidanto de gluoj por glazuro kaj <tld/>o
+        <fnt>
+        <aut>Stanis&lstroke;aw &Sacute;migielski</aut>,
+        <vrk>Laboro tro multekosta</vrk>,
+        <bib>Monato</bib>,
+        <lok>jaro 2002a, numero 8a, p. 14a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_t;&c_e;&c_r;&c_a;&c_k;&c_o;&c_t;&c_a;
+  <klr>(&c_m;&c_a;&c_t;&c_a;&c_r;'&c_ja;&c_l;)</klr></trd>
+  <trd lng="ca">terracota</trd>
+  <trd lng="cs">terakota</trd>
+  <trdgrp lng="fr">
+    <trd>terracotta</trd>,
+    <trd>terre cuite<klr> (mat&eacute;riau)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>terrakotta</trd>,
+    <trd>&eacute;getett agyag</trd>
+  </trdgrp>
+  <trd lng="pl">terakota<klr> (materia&lstroke;)</klr></trd>
+  <trdgrp lng="pt">
+    <trd>terracota</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_t;&c_je;&c_r;&c_r;&c_a;&c_k;&c_o;&c_t;&c_a;</trd>,
+    <trd>
+    &c_o;&c_b;&c_o;&c_zh;&c_zh;&c_jo;&c_n;&c_n;&c_a;&c_ja;
+    &c_g;&c_l;&c_i;&c_n;&c_a;
+    </trd>
+  </trdgrp>
+  <trd lng="sk">železitá hlina</trd>
+</drv>
+
+<drv mrk="terakot.0a">
+  <kap><tld/>a</kap>
+  <snc>
+    <dif>
+      El <tld/>o.
+    </dif>
+  </snc>
+  <trd lng="be">&c_t;&c_e;&c_r;&c_a;&c_k;&c_o;&c_t;&c_a;&c_v;&c_y;</trd>
+  <trd lng="ca">de <ind>terracota</ind></trd>
+  <trdgrp lng="fr">
+    <trd>en <ind>terre cuite</ind></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>terrakotta-</trd>,
+    <trd>&eacute;getett agyag
+    <klr tip="ind">(-b&oacute;l k&eacute;sz&uuml;lt)</klr></trd>
+  </trdgrp>
+  <trd lng="pl">terakotowy</trd>
+  <trd lng="ru">
+  &c_t;&c_je;&c_r;&c_r;&c_a;&c_k;&c_o;&c_t;&c_o;&c_v;&c_y;&c_j;</trd>
+</drv>
+
+<drv mrk="terakot.0ajxo">
+  <kap><tld/>a&jcirc;o</kap>
+  <snc>
+  <uzo tip="fak">BELA</uzo>
+    <dif>
+      Objekto el <tld/>o:
+      <ekz>
+        la purpuraj <tld/>a&jcirc;oj de Yixing, precipe &gcirc;ia
+        tekru&ccirc;o, estas stile modestaj kaj elegantaj
+        <fnt>
+        <bib>EncCxi</bib>,
+        <lok>&ccirc;apitro &leftquot;Ceramiko&rightquot;, p. 210a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_t;&c_e;&c_r;&c_a;&c_k;&c_o;&c_t;&c_a;
+  <klr>(&c_v;&c_y;&c_r;&c_a;&c_b;)</klr></trd>
+  <trd lng="ca">objecte de <ind>terracota</ind></trd>
+  <trdgrp lng="fr">
+    <trd>terre cuite<klr> (objet)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>terrakotta <klr tip="ind">(t&aacute;rgy)</klr></trd>,
+    <trd>&eacute;getett agyag figura</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>terakota<klr> (produkt z terakoty)</klr></trd>
+  </trdgrp>
+  <trd lng="ru">&c_i;&c_z;&c_d;&c_je;&c_l;&c_i;&c_je; &c_i;&c_z;
+  <ind>&c_t;&c_je;&c_r;&c_r;&c_a;&c_k;&c_o;&c_t;&c_y;</ind></trd>
+</drv>
+</art>
+<!--
+$Log: terakot.xml,v $
+Revision 1.10  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.9  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.8  2012/08/13 20:10:26  revo
+Marc Rausell: + trd ca
+
+Revision 1.7  2008/11/07 17:30:54  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.6  2006/02/15 17:33:05  revo
+Tulio Flores: +trd pt
+
+Revision 1.5  2005/03/17 17:32:08  revo
+Yury Finkel: +trd ru
+
+Revision 1.4  2004/11/26 17:31:50  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.3  2004/02/03 18:31:18  revo
+Jeromo Vasxe: kor fnt piv1 -> spv
+
+Revision 1.2 2003/09/18 16:30:54 revo
+Dmitri Gabinski: +trd be
+
+Revision 1.1 2002/10/06 17:36:36 revo
+-->
+</vortaro>

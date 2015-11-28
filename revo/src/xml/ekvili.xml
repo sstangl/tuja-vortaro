@@ -1,0 +1,337 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: ekvili.xml,v 1.23 2015/07/04 08:37:33 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>ekvilibr</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="ekvili.0o">
+  <kap><tld/>o</kap>
+  <snc>
+    <dif>
+      Egalpezo; stato de korpo, kiu, altirata de egalaj sed
+      kontra&ubreve;aj fortoj, restas senmova:
+      <ekz>
+        <tld/>o de pesilo;
+      </ekz>
+      <ekz>
+        <tld/>o de flosanta korpo;
+      </ekz>
+      <ekz>
+        firma, nefirma <tld/>o;
+      </ekz>
+      <ekz>
+        esti en <tld/>o;
+      </ekz>
+      <ekz>
+        rompi, perdi <tld/>on.
+      </ekz>
+    </dif>
+    <trdgrp lng="pl">
+      <trd>r&oacute;wnowaga</trd>,
+      <trd>balans</trd>
+    </trdgrp>
+  </snc>
+  <snc>
+    <dif>
+      Stato de fortoj, kiuj sin reciproke nuligas:
+      <ekz>
+        elektro en <tld/>o sur la supra&jcirc;o de korpo.
+      </ekz>
+    </dif>
+    <trd lng="pl">r&oacute;wnowaga</trd>
+  </snc>
+  <snc>
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Bonorda egaleco de potenco a&ubreve; de valoro inter
+      kontra&ubreve;aj aferoj:
+      <ekz>
+        <tld/>o de spirito, de humoro<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        estigi <tld/>on inter enspezoj kaj elspezoj en bud&gcirc;eto;
+      </ekz>
+      <ekz>
+        politika, e&ubreve;ropa <tld/>o;
+      </ekz>
+      <ekz>
+        La <tld/>o inter fajna aromo kaj subtila amareco donas al tiu
+        &ccirc;i biero unikan lokon en la ri&ccirc;a belga biertradicio
+        <fnt>
+          <aut>L. Van De Velde</aut>,
+          <vrk>Bierlando Belgio</vrk>,
+          <bib>Monato</bib>,
+          <lok>jaro 2001a, numero 1a, p. 18a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="pl">r&oacute;wnowaga</trd>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_r;&c_a;&c_w;&c_n;&c_a;&c_v;&c_a;&c_g;&c_a;</trd>,
+    <trd>&c_b;&c_a;&c_l;&c_ja;&c_n;&c_s;</trd>
+  </trdgrp>
+  <trd lng="cs">rovnováha</trd>
+  <trd lng="de">Gleichgewicht</trd>
+  <trdgrp lng="en">
+    <trd>equilibrium</trd>,
+    <trd>balance</trd>
+  </trdgrp>
+  <trd lng="es">equilibrio</trd>
+  <trd lng="fr">&eacute;quilibre</trd>
+  <trd lng="hu">egyens&uacute;ly</trd>
+  <trd lng="nl">evenwicht</trd>
+  <trd lng="pt">equil&iacute;brio</trd>
+  <trdgrp lng="ru">
+    <trd>&c_r;&c_a;&c_v;&c_n;&c_o;&c_v;&c_je;&c_s;&c_i;&c_je;</trd>,
+    <trd>&c_b;&c_a;&c_l;&c_a;&c_n;&c_s;</trd>
+  </trdgrp>
+  <trd lng="sk">rovnováha</trd>
+</drv>
+
+<drv mrk="ekvili.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc>
+    <dif>
+      Esti en ekvilibro.
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_b;&c_y;&c_c;&c_mol; &c_u; <ind>&c_r;&c_a;&c_w;&c_n;&c_a;&c_v;&c_a;&c_z;&c_je;</ind></trd>,
+      <trd>&c_b;&c_y;&c_c;&c_mol; <ind>&c_u;&c_r;&c_a;&c_w;&c_n;&c_a;&c_v;&c_a;&c_zh;&c_a;&c_n;&c_y;&c_m;</ind></trd>
+    </trdgrp>
+    <trd lng="de">im <ind>Gleichgewicht</ind> sein</trd>
+    <trd lng="hu">egyens&uacute;lyban van</trd>
+    <trd lng="nl">in <ind>evenwicht</ind> zijn</trd>
+    <trd lng="pl">by&cacute; w <ind>r&oacute;wnowadze</ind></trd>
+    <trd lng="ru">&c_b;&c_y;&c_t;&c_mol; &c_v; &c_r;&c_a;&c_v;&c_n;&c_o;&c_v;&c_je;&c_s;&c_i;&c_i;</trd>
+  </snc>
+  <snc>
+    <dif>
+      Teni ekvilibron:
+      <ekz>
+        mi tiris la hundon kaj samtempe mi
+        devis <tld/>i pro la potoj en la dekstra
+        mano
+        <fnt><aut>J. Baghy</aut>, <vrk>Sur Sanga Tero</vrk>, 
+        <lok>1933</lok></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_t;&c_r;&c_y;&c_m;&c_a;&c_c;&c_mol; <ind>&c_r;&c_a;&c_w;&c_n;&c_a;&c_v;&c_a;&c_g;&c_u;</ind></trd>
+    <trd lng="de">das Gleichgewicht <ind>halten</ind></trd>
+    <trd lng="hu">egyens&uacute;lyoz</trd>
+    <trd lng="nl">in <ind>evenwicht</ind> blijven</trd>
+    <trdgrp lng="pl">
+      <trd>balansowa&cacute;</trd>,
+      <trd>utrzymywa&cacute; w <ind>r&oacute;wnowadze</ind></trd>,
+      <trd>utrzymywa&cacute; <ind>r&oacute;wnowag&eogonek;</ind></trd>
+    </trdgrp>
+    <trd lng="ru">&c_d;&c_je;&c_r;&c_zh;&c_a;&c_t;&c_mol; &c_r;&c_a;&c_v;&c_n;&c_o;&c_v;&c_je;&c_s;&c_i;&c_je;</trd>
+  </snc>
+  <trd lng="cs">být v rovnováze</trd>
+  <trdgrp lng="en">
+    <trd>be in equilibrium</trd>,
+    <trd>be in balance</trd>
+  </trdgrp>
+  <trd lng="es">estar en <ind>equilibrio</ind></trd>
+  <trdgrp lng="fr">
+    <trd>&ecirc;tre en <ind>&eacute;quilibre</ind></trd>,
+    <trd>se tenir en <ind>&eacute;quilibre</ind></trd>
+  </trdgrp>
+  <trd lng="sk">držať v rovnováhe</trd>
+</drv>
+
+<drv mrk="ekvili.0igi">
+  <kap><tld/>igi</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      Meti en staton de <tld/>o:
+      <ekz>
+        Fine la glaciejo submeti&gcirc;as, kaj la akvo torente eniras la
+        fendojn por <tld/>igi la nivelon
+        <fnt>
+          <aut>G. Pons</aut>,
+          <vrk>Admirinda rezervejo</vrk>,
+          <bib>Monato</bib>,
+          <lok>jaro 1997a, numero 3a, p. 13a</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        nur per drastaj &scirc;paroj en la konsumo oni povos <tld/>igi
+        postuladon kaj proponadon
+        <fnt>
+          <aut>R. Rotsaert</aut>,
+          <vrk>Nehaltigeblaj prezalti&gcirc;oj</vrk>,
+          <bib>Monato</bib>,
+          <lok>jaro 2000a, numero 11a, p. 8a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="stabil.0igi">stabiligi</ref>
+    </refgrp>
+    <trdgrp lng="be">
+      <trd>&c_u;&c_r;&c_a;&c_w;&c_n;&c_a;&c_v;&c_a;&c_zh;&c_y;&c_c;&c_mol;</trd>,
+      <trd>&c_z;&c_b;&c_a;&c_l;&c_ja;&c_n;&c_s;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd>ins <ind>Gleichgewicht</ind> bringen</trd>,
+      <trd>ausbalancieren</trd>,
+      <trd>austarieren</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>balance</trd>,
+      <trd>stabilize</trd>
+    </trdgrp>
+    <trd lng="es">equilibrar</trd>
+    <trdgrp lng="hu">
+      <trd>kiegyens&uacute;lyoz</trd>,
+      <trd>egyens&uacute;lyba hoz</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>&eacute;quilibrer</trd>,
+      <trd>stabiliser</trd>
+    </trdgrp>
+    <trdgrp lng="nl">
+      <trd>in <ind>evenwicht</ind> brengen</trd>,
+      <trd>uitbalanceren</trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>zr&oacute;wnowa&zdot;y&cacute;</trd>,
+      <trd>stabilizowa&cacute;</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_u;&c_r;&c_a;&c_v;&c_n;&c_o;&c_v;&c_je;&c_s;&c_i;&c_t;&c_mol;</trd>,
+      <trd>&c_s;&c_b;&c_a;&c_l;&c_a;&c_n;&c_s;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+    </trdgrp>
+    <adm>
+      Vd diskuton en la dissendolisto. Necesas pliaj ekz. Meti
+      ref al kontrauxpezi (kreota). <aut>MB</aut>
+    </adm>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>uvést do rovnováhy</trd>,
+    <trd>vyvážit</trd>
+  </trdgrp>
+  <trd lng="sk">uviesť do rovnováhy</trd>
+</drv>
+
+<drv mrk="ekvili.0isto">
+  <kap><tld/>isto</kap>
+  <snc mrk="ekvili.0isto.TEA">
+    <uzo tip="fak">TEA</uzo>
+    <dif>
+      Cirka artisto, speciale lerta por konservi la <tld/>on en
+      gimnastikaj ludoj.
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="jxongl.0isto">&jcirc;onglisto</ref>,
+      <ref cel="danc.sxnur0isto">&scirc;nurdancisto</ref>
+    </refgrp>
+  </snc>
+  <trd
+  lng="be">&c_e;&c_k;&c_v;&c_ib;&c_l;&c_ib;&c_b;&c_r;&c_y;&c_s;&c_t;</trd>
+  <trdgrp lng="cs">
+    <trd>ekvilibrista</trd>,
+    <trd>provazochodec</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>&Auml;quilibrist</trd>,
+    <trd>Gleichgewichtsakrobat</trd>,
+    <trd>Seilt&auml;nzer</trd>
+  </trdgrp>
+  <trd lng="en">equilibrist</trd>
+  <trd lng="es">equilibrista</trd>
+  <trd lng="fr">&eacute;quilibriste</trd>
+  <trd lng="hu">egyens&uacute;lyoz&oacute;m&udblac;v&eacute;sz</trd>
+  <trdgrp lng="nl">
+    <trd>koorddanser</trd>,
+    <trd>equilibrist</trd>
+  </trdgrp>
+  <trd lng="pl">ekwilibrysta</trd>
+  <trd lng="ru">&c_e;&c_k;&c_v;&c_i;&c_l;&c_i;&c_b;&c_r;&c_i;&c_s;&c_t;</trd>
+  <trd lng="sk">artista <klr>(povrazolezec)</klr></trd>
+</drv>
+
+<drv mrk="ekvili.mal0igi">
+  <kap>mal<tld/>igi</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      Detrui pezegalon en io:
+      <ekz>
+        la atakoj en Usono de la 11a de septembro mal<tld/>igis la
+        tutan mondan ekonomian sistemon
+        <fnt>
+          <aut>R. Rotsaert</aut>,
+          <vrk>Attac - Atakata de sia idolo</vrk>,
+          <bib>Monato</bib>,
+          <lok>jaro 2002a, numero 1a, p. 12a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="stabil.mal0igi">malstabiligi</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_a;&c_r;&c_u;&c_sh;&c_y;&c_c;&c_mol;
+    <ind>&c_r;&c_a;&c_w;&c_n;&c_a;&c_v;&c_a;&c_g;&c_u;</ind></trd>,
+    <trd>&c_d;&c_e;&c_s;&c_t;&c_a;&c_b;&c_ib;&c_l;&c_ib;&c_z;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="cs">porušit rovnováhu</trd>
+  <trdgrp lng="en">
+    <trd>unbalance</trd>,
+    <trd>destabilize</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>d&eacute;s&eacute;quilibrer</trd>,
+    <trd>d&eacute;stabiliser</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>uit <ind>evenwicht</ind> brengen</trd>,
+    <trd>destabiliseren</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>wybija&cacute; z <ind>r&oacute;wnowagi</ind></trd>,
+    <trd>destabilizowa&cacute;</trd>
+  </trdgrp>
+  <trd lng="sk">porušiť rovnováhu</trd>
+</drv>
+</art>
+<!--
+$Log: ekvili.xml,v $
+Revision 1.23  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.22  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.21  2010/11/15 17:30:26  revo
+Jeromo Vasxe: + ekz
+
+Revision 1.20  2010/01/18 17:30:59  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.19  2008/11/21 17:56:59  revo
+Wieland Pusch: entoj por unikode
+
+Revision 1.18  2008/11/06 16:55:21  revo
+Russ Williams: +trd en
+
+Revision 1.17  2007/06/24 16:30:40  revo
+Tulio Flores: +tr pt
+
+Revision 1.16  2005/01/26 17:32:15  revo
+Paul Peeraerts: ald trd nl + belarangho
+
+Revision 1.15 2004/10/20 16:31:52 revo
+Wolfram Diestel: germ trd
+
+Revision 1.14 2003/12/16 17:32:24 revo
+-->
+</vortaro>

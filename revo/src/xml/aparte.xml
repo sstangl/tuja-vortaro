@@ -1,0 +1,178 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: aparte.xml,v 1.30 2015/09/11 02:10:25 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>aparten</rad>/i
+</kap>
+<drv mrk="aparte.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="aparte.0i.proprajxo">
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      Esti ies propra&jcirc;o a&ubreve; poseda&jcirc;o:
+      <ekz>
+        la domo <tld/>as al mia patro<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        <ind>al &ccirc;iu konvenas, kio al li <tld/>as</ind>
+        <fnt><bib>PrV</bib></fnt>;
+        <trd lng="hu">a mag&aacute;&eacute; mindenkinek kedves</trd>
+      </ekz>
+      <ekz>
+        la gratuloj <tld/>as al <klr>(estas merititaj de)</klr> la
+        tuta kunlaborantaro<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        la estonteco <tld/>as al ni<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="aparte.0i.aferoDe">
+    <dif>
+      Esti afero de iu, dependi de:
+      <ekz>
+        la lingvaj demandoj <tld/>as
+        ekskluzive al la Lingva Komitato<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="aparte.0i.partoDe">
+    <dif>
+      Esti parto de io, iu el...:
+      <ekz>
+        li <tld/>as al la laborista grupo;
+      </ekz>
+      <ekz>
+        tiu &ccirc;i birdo <tld/>as al la genro de paseroj;
+      </ekz>
+      <ekz>
+        tiu &ccirc;i floro <tld/>as al la a&ubreve;tuno;
+      </ekz>
+      <ekz>
+        tiu provinco <tld/>as al la plej ri&ccirc;aj;
+      </ekz>
+      <ekz>
+        li <tld/>as al niaj amikoj<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="aparte.0i.aro">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>PIV1</bib><lok>aro</lok></fnt>
+    <dif>
+      <klr>(al <ref cel="ar.0o.MAT">aro</ref>)</klr>
+      Esti <ref cel="elemen.0o.MAT">elemento</ref> de &gcirc;i:
+      <ekz>
+        la nombro <frm>2</frm> <tld/>as al la aro de entjeroj;
+      </ekz>
+      <ekz>
+        la fakton, ke elemento <frm><k>a</k></frm> <tld/>as al aro
+        <frm><g>E</g></frm>, oni signas per <frm><k>a</k>&#8712;<g>E</g></frm>
+        <klr>(legu: a apartenas al e, a&ubreve;: a (estas) en e)</klr>,
+        a&ubreve; per <frm><g>E</g>&#8715;<k>a</k></frm>
+        <klr>(legu: e enhavas a)</klr>, &gcirc;ian malon per
+        <frm><k>a</k>&#8713;<g>E</g></frm>.  
+    </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="hav.en0i.aro">enhavi</ref>.
+    </refgrp>
+    <trd lng="de">angeh&ouml;ren<klr tip="ind"> (als Element)</klr></trd>
+    <trdgrp lng="pl">
+      <trd>nale&zdot;e&cacute;</trd>,
+      <trd>by&cacute; elementem</trd>
+    </trdgrp> 
+  </snc>
+  <trd lng="be">&c_n;&c_a;&c_l;&c_je;&c_zh;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="cs">n&aacute;le&zcaron;et</trd>
+  <trd lng="de">geh&ouml;ren</trd>
+  <trd lng="en">belong</trd>
+  <trd lng="es">pertenecer</trd>
+  <trd lng="fr">appartenir</trd>
+  <trd lng="hu">tartozik</trd>
+  <trd lng="it">appartenere</trd>
+  <trd lng="nl">behoren tot</trd>
+  <trd lng="no">tilh&oslash;re</trd>
+  <trd lng="pt">pertencer</trd>
+  <trd lng="ru">&c_p;&c_r;&c_i;&c_n;&c_a;&c_d;&c_l;&c_je;&c_zh;&c_a;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>n&aacute;le&zcaron;a&tcaron;</trd>,
+    <trd>patri&tcaron;</trd>,
+    <trd>prisl&uacute;cha&tcaron;</trd>
+  </trdgrp>
+  <trd lng="sv">tillh&ouml;ra</trd>
+</drv>
+
+<drv mrk="aparte.0ajxo">
+  <kap><tld/>a&jcirc;o</kap>
+  <uzo tip="fak">EKON</uzo>
+  <snc>
+    <dif>
+      Propra&jcirc;o, poseda&jcirc;o, dependa&jcirc;o:
+      <ekz>
+        Esperanto estas egalrajta <tld/>a&jcirc;o de &ccirc;iuj siaj uzantoj;
+      </ekz>
+      <ekz>
+        tio &ccirc;i estas nur okaza <tld/>a&jcirc;o de kelkaj
+        lingvoj<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_m;&c_a;&c_jo;&c_m;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+  <trd lng="de">Eigentum</trd>
+  <trdgrp lng="en">
+      <trd>belonging</trd>
+      <trd>possession</trd>
+  </trdgrp>
+  <trd lng="es">pertenencia</trd>
+  <trdgrp lng="fr">
+    <trd>bien (subst.)</trd>,
+    <trd>propri&eacute;t&eacute;</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>tartoz&eacute;k</trd>,
+    <trd>tulajdon</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>bezit</trd>,
+    <trd>eigendom</trd>
+  </trdgrp>
+  <trd lng="no">eiendom</trd>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_r;&c_i;&c_n;&c_a;&c_d;&c_l;&c_je;&c_zh;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>,
+    <trd>&c_s;&c_o;&c_b;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="sk">vlastn&iacute;ctvo</trd>
+</drv>
+</art>
+<!--
+$Log: aparte.xml,v $
+Revision 1.30  2015/09/11 02:10:25  revo
+Evandro Avellar: +trd pt
+
+Revision 1.29  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.28  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.27  2014/11/23 21:10:20  revo
+Filip van Laenen: +trd(nl,no), kor(sv)
+
+Revision 1.26  2005/08/05 16:31:24  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.25  2004/07/13 18:22:53  revo
+Viliam Bur: +trd sk
+
+Revision 1.24  2003/11/13 18:49:42  revo
+Bart Demeyere: +mrkoj
+
+Revision 1.23  2003/03/05 17:33:41  revo
+-->
+</vortaro>

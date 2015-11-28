@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: moleku.xml,v 1.18 2015/07/04 08:37:39 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>molekul</rad>/o
+  <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="moleku.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="moleku.0o.KEM">
+    <uzo tip="fak">FIZ</uzo>
+    <uzo tip="fak">KEM</uzo>
+    <dif>
+      Plej malgranda ero de &hcirc;emia korpo konservanta ankora&ubreve;
+      la ecojn de la tuto kaj nedisigebla per fizikaj procedoj, sed
+      malkomponebla nur per &hcirc;emiaj reakcioj en pli malgrandajn
+      eretojn nomitajn <ref tip="prt" cel="atom.0o.KEM">atomoj</ref>:
+      <ekz>
+        &ccirc;iu <tld/>o de proteino estas, en la komenco, nur
+        &ccirc;eno el dudek specoj de aminoacidoj
+        <fnt>
+          <aut>S. Norvell</aut>,
+          <vrk>Riboj</vrk>,
+          <bib>Monato</bib>,
+          <lok>jaro 2000a, numero 11a, p. 16a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="korpus1.0o.SCI">korpusklo</ref>
+  </snc>
+  <trd lng="be">&c_m;&c_a;&c_l;&c_je;&c_k;&c_u;&c_l;&c_a;</trd>
+  <trd lng="cs">molekula</trd>
+  <trd lng="de">Molek&uuml;l</trd>
+  <trd lng="en">molecule</trd>
+  <trd lng="fa">&a_m;&a_w;&a_l;&f_k;&a_w;&a_l;</trd>
+  <trd lng="fr">mol&eacute;cule</trd>
+  <trd lng="hu">molekula</trd>
+  <trd lng="nl">molecule</trd>
+  <trd lng="pl">moleku&lstroke;a</trd>
+  <trd lng="pt">mol&eacute;cula</trd>
+  <trd lng="ru">&c_m;&c_o;&c_l;&c_je;&c_k;&c_u;&c_l;&c_a;</trd>
+  <trd lng="sk">molekula</trd>
+</drv>
+</art>
+<!--
+$Log: moleku.xml,v $
+Revision 1.18  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.16  2009/06/29 18:04:50  revo
+Russ Williams: +trd en
+
+Revision 1.15  2009/06/19 05:10:03  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.14  2008/10/09 16:30:47  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.13  2008/09/26 16:30:30  revo
+Jeromo Vasxe: + mrk
+
+Revision 1.12  2004/04/27 16:31:40  revo
+Luis Oliveira: +trd pt
+
+Revision 1.11  2003/03/31 16:31:43  revo
+Zmicier Lapcionak: + trd be
+
+Revision 1.10  2002/09/04 17:31:06  revo
+Jeromo Vasxe: + ekz, + trd fr
+
+Revision 1.9 2002/07/08 18:25:06 revo
+-->
+</vortaro>

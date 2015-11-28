@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: paleon.xml,v 1.23 2015/04/14 20:10:18 revo Exp $">
+<kap>
+  <ofc>2</ofc><rad>paleontologi</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="paleon.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="paleon.0o.SCI">
+    <uzo tip="fak">PAL</uzo>
+    <uzo tip="fak">SCI</uzo>
+    <dif>
+      Bran&ccirc;o de <ref tip="malprt" cel="biolog1.0o.SCI">biologio
+      </ref>, <ref tip="lst" cel="scienc.0o.fako" 
+      lst="voko:sciencoj">scienco</ref> 
+      pri la elfositaj resta&jcirc;oj a&ubreve; postsignoj de praaj 
+      bestoj kaj vegeta&jcirc;oj.
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_l;&c_je;&c_a;&c_n;&c_t;&c_a;&c_l;&c_jo;&c_g;&c_ib;&c_ja;</trd>
+  <trd lng="bg">&c_p;&c_a;&c_l;&c_je;&c_o;&c_n;&c_t;&c_o;&c_l;&c_o;&c_g;&c_i;&c_ja;</trd>
+  <trd lng="de">Pal&auml;ontologie</trd>
+  <trd lng="en">paleontology</trd>
+  <trd lng="fa">&a_d;&f_y;&a_r;&f_y;&a_n;&zwnj;&a_sh;&a_n;&a_A;&a_s;&f_y;</trd>
+  <trd lng="fr">pal&eacute;ontologie</trd>
+  <trdgrp lng="hu">
+    <trd>&odblac;sl&eacute;nytan</trd>,
+    <trd>paleontol&oacute;gia</trd>
+  </trdgrp>
+  <trd lng="id">paleontologi</trd>
+  <trd lng="nl">paleontologie</trd>
+  <trd lng="no">paleontologi</trd>
+  <trd lng="pl">paleontologia</trd>
+  <trd lng="pt">paleontologia</trd>
+  <trd lng="ru">&c_p;&c_a;&c_l;&c_je;&c_o;&c_n;&c_t;&c_o;&c_l;&c_o;&c_g;&c_i;&c_ja;</trd>
+</drv>
+
+<drv mrk="paleon.0isto">
+  <kap><tld/>isto</kap>
+  <snc mrk="paleon.0isto.SCI">
+    <uzo tip="fak">PAL</uzo>
+    <dif>
+      Fakulo pri <tld/>o.
+    </dif>
+  </snc>
+  <trd lng="bg">&c_p;&c_a;&c_l;&c_je;&c_o;&c_n;&c_t;&c_o;&c_l;&c_o;&c_g;</trd>
+  <trd lng="de">Pal&auml;ontologe</trd>
+  <trd lng="en">paleontologist</trd>
+  <trd lng="fa">&a_d;&f_y;&a_r;&f_y;&a_n;&zwnj;&a_sh;&a_n;&a_A;&a_s;</trd>
+  <trdgrp lng="fr">
+    <trd>pal&eacute;ontologiste</trd>,
+    <trd>pal&eacute;ontologue</trd>
+  </trdgrp>
+  <trd lng="id">paleontolog</trd>
+  <trdgrp lng="nl">
+    <trd>paleontoloog</trd>,
+    <trd>fossielkundige</trd>
+  </trdgrp>
+  <trd lng="no">paleontolog</trd>
+  <trd lng="pl">paleontolog</trd>
+</drv>
+</art>
+<!--
+$Log: paleon.xml,v $
+Revision 1.23  2015/04/14 20:10:18  revo
+Filip van Laenen: +trd(no)
+
+Revision 1.22  2014/11/12 08:10:45  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.21  2013/09/22 19:10:56  revo
+Wolfram Diestel: referenco al listo sciencoj
+
+Revision 1.20  2013/08/05 09:10:13  revo
+Joop Eggen: +trd bg
+
+Revision 1.19  2011/03/15 14:10:08  revo
+Russ Williams: +trd en
+
+Revision 1.18  2009/10/16 16:30:52  revo
+Paul Peeraerts: +nl
+
+Revision 1.17  2009/07/01 17:20:36  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.16  2007/11/19 17:31:11  revo
+-->
+</vortaro>

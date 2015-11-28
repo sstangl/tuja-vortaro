@@ -1,0 +1,331 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: faks.xml,v 1.27 2015/07/04 08:37:34 revo Exp $">
+<kap>
+  <rad>faks</rad>/i
+</kap>
+<drv mrk="faks.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="faks.0i.TEL">
+    <uzo tip="fak">TEL</uzo>
+    <dif>
+      <ref tip="super" cel="send.0i.ion">Sendi</ref> per <tld/>ilo:
+      <ekz>
+        mi organizis &ccirc;ion, elspezis mono<klr>n</klr>, <tld/>is al
+        la urbo por permeso
+        <fnt><aut>D. Babec</aut>, <vrk>Mil unuaj vortoj</vrk>,
+        <lok>alt.uu.lang.esperanto.misc, 1994-09-24</lok></fnt>.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="telekopi.0i">telekopii</ref>
+  </snc>
+  <trd lng="be">&c_f;&c_a;&c_k;&c_s;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trdgrp lng="ca">
+    <trd>enviar un fax</trd>,
+    <trd>faxar</trd>
+  </trdgrp>
+  <trd lng="cs">faxovat</trd>
+  <trdgrp lng="de">
+    <trd>fernkopieren</trd>,
+    <trd>faxen</trd>
+  </trdgrp>
+  <trd lng="en">fax</trd>
+  <trd lng="es">enviar un fax</trd>
+  <trdgrp lng="fr">
+    <trd>faxer</trd>,
+    <trd>t&eacute;l&eacute;copier</trd>
+  </trdgrp>
+  <trd lng="hu">faxol</trd>
+  <trd lng="nl">faxen</trd>
+  <trdgrp lng="pl">
+    <trd>faksowa&cacute;</trd>,
+    <trd>telefaksowa&cacute;</trd>
+  </trdgrp>
+  <trd lng="pt">enviar um <ind>fax</ind></trd>
+  <trd lng="ru">&c_p;&c_je;&c_r;&c_je;&c_s;&c_l;&c_a;&c_t;&c_mol;
+  &c_p;&c_o; <ind>&c_f;&c_a;&c_k;&c_s;&c_u;</ind></trd>
+  <trd lng="sk">faxovať</trd>
+  <trd lng="sv">faxa</trd>
+  <trd lng="tr">fakslamak</trd>
+</drv>
+
+<drv mrk="faks.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="faks.0o.TEK">
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      Procedo kaj rimedoj por printi kopiojn de dokumentoj en
+      malproksimaj
+      lokoj, sendante ciferecajn bildojn de ili tra telekomunikaj retoj.
+    </dif>
+    <trd
+    lng="be">&c_f;&c_a;&c_k;&c_s;&c_a;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
+    <trdgrp lng="pl">
+      <trd>faksowanie</trd>,
+      <trd>telefaksowanie</trd>
+    </trdgrp>
+    <trd lng="ru">&c_p;&c_je;&c_r;&c_je;&c_s;&c_y;&c_l;&c_k;&c_a;
+    &c_p;&c_o; <ind>&c_f;&c_a;&c_k;&c_s;&c_u;</ind></trd>
+  </snc>
+  <snc mrk="faks.0o.faksado">
+    <ref tip="dif" cel="faks.0ado.TEL"><tld/>ado</ref>
+    <ekz>
+      mi ne kredas ke ni povas pagi por la <tld/>oj a&ubreve; telefonalvokoj
+      de &ccirc;iuj homoj
+      <fnt><aut>J. Kingdon</aut>, <vrk>La po&scirc;to</vrk>,
+      <lok>alt.talk.esperanto, 1996-03-23</lok></fnt>.
+    </ekz>
+    <trd lng="ca">enviament per fax</trd>
+    <trdgrp lng="de">
+      <trd>Faxen</trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>faksowanie</trd>,
+      <trd>telefaksowanie</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="faks.0o.letero">
+    <ref tip="dif" cel="faks.0ajxo.TEL"><tld/>a&jcirc;o</ref>
+    <trd lng="be">&c_f;&c_a;&c_k;&c_s;
+    <klr>(&c_l;&c_ib;&c_s;&c_t;)</klr></trd>
+    <trd lng="bg">&c_f;&c_a;&c_k;&c_s;</trd>
+    <trdgrp lng="ca">
+      <trd>fax</trd>,
+      <trd>facs&iacute;mil</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd>Fernkopie</trd>,
+      <trd>Fax</trd>
+    </trdgrp>
+    <trd lng="en">fax message</trd>
+    <trd lng="hu">fax</trd>
+    <trd lng="nl">faxbericht</trd>
+    <trdgrp lng="pl">
+      <trd>faks</trd>,
+      <trd>telefaks</trd>
+    </trdgrp>
+    <trd lng="ru">&c_f;&c_a;&c_k;&c_s;<klr>
+    (&c_d;&c_o;&c_k;&c_u;&c_m;&c_je;&c_n;&c_t;)</klr></trd>
+    <trdgrp lng="sv">
+      <trd>fax<klr>(meddelande)</klr></trd>
+      <trd>telefax<klr>(meddelande)</klr></trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>fax</trd>,
+    <trd>telefax</trd>
+  </trdgrp>
+  <trd lng="es">fax</trd>
+  <trdgrp lng="fr">
+    <trd>fax<klr tip="ind"> (t&eacute;l&eacute;copie)</klr></trd>,
+    <trd>t&eacute;l&eacute;copie</trd>
+  </trdgrp>
+  <trd lng="sk">telefax</trd>
+</drv>
+
+<drv mrk="faks.0ado">
+  <kap><tld/>ado</kap>
+  <snc mrk="faks.0ado.TEL">
+    <dif>
+      Sendo de dokumento per <tld/>ilo.
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="faks.0o.faksado"><tld/>o <sncref/></ref>
+    </refgrp>
+    <trd lng="ca">enviament per fax</trd>
+    <trdgrp lng="pl">
+      <trd>faksowanie</trd>,
+      <trd>telefaksowanie</trd>
+    </trdgrp>
+  </snc>
+</drv>
+
+<drv mrk="faks.0ajxo">
+  <kap><tld/>a&jcirc;o</kap>
+  <snc mrk="faks.0ajxo.TEL">
+    <dif>
+      <ref tip="super" cel="leter.0o">Letero</ref> sendita per
+      <tld/>ilo:
+      <ekz>
+        oni povas <klr>...</klr> samtempe printi leteron kaj ricevi
+        <tld/>a&jcirc;on
+        <fnt>
+        <aut>Klivo</aut>,
+        <vrk>Kio estas Javo?</vrk>,
+        <bib>Monato</bib>, <lok>jaro 1998a, numero 5a, p. 13a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="faks.0o.letero"><tld/>o <sncref/></ref>,
+      <ref cel="telekopi.0o.TEL">telekopio</ref>
+    </refgrp>
+  </snc>
+  <trd lng="ca">fax</trd>
+  <trd lng="be">&c_f;&c_a;&c_k;&c_s;
+  <klr>(&c_l;&c_ib;&c_s;&c_t;)</klr></trd>
+  <trdgrp lng="fr">
+    <trd>fax<klr> (document)</klr></trd>,
+    <trd>t&eacute;l&eacute;copie<klr> (document)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>faks</trd>,
+    <trd>telefaks</trd>
+  </trdgrp>
+  <trd lng="ru">&c_f;&c_a;&c_k;&c_s;<klr>
+  (&c_d;&c_o;&c_k;&c_u;&c_m;&c_je;&c_n;&c_t;)</klr></trd>
+  <trdgrp lng="sv">
+    <trd>fax<klr>(meddelande)</klr></trd>
+    <trd>telefax<klr>(meddelande)</klr></trd>
+  </trdgrp>
+  <trd lng="tr">faks<klr>(belge)</klr></trd>
+</drv>
+
+<drv mrk="faks.0ilo">
+  <kap><tld/>ilo</kap>
+  <snc mrk="faks.0ilo.TEL">
+    <dif>
+      <ref tip="super" cel="aparat.0o.TEK">Aparato</ref>
+      por sendi kaj ricevi tekstojn a&ubreve; bildojn per normala
+      telefonlineo, ciferecigante dokumentojn &ccirc;e la sendanto kaj
+      represante ilin &ccirc;e la ricevanto:
+      <ekz>
+        sendependa faksilo ne plu estas necesa nun: multaj modernaj
+        modemoj kapablas sendi kaj ricevi faksojn rekte en la komputilon
+        <fnt><aut>P. Jelenc</aut>, <vrk>komputila vortareto (kun
+        tradukoj
+        nun!)</vrk>, <lok>soc.culture.esperanto, 1992-05-24</lok></fnt>.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="telekopi.0ilo">telekopiilo</ref>
+  </snc>
+  <trd lng="be">&c_f;&c_a;&c_k;&c_s;
+  <klr>(&c_a;&c_p;&c_a;&c_r;&c_a;&c_t;)</klr></trd>
+  <trd lng="ca">fax <klr>(aparell)</klr></trd>
+  <trd lng="cs">fax <klr>(přístroj)</klr></trd>
+  <trdgrp lng="de">
+    <trd>Fernkopierer</trd>,
+    <trd>Faxger&auml;t</trd>
+  </trdgrp>
+  <trd lng="en">fax machine</trd>
+  <trdgrp lng="fr">
+    <trd>fax<klr tip="ind"> (t&eacute;l&eacute;copieur)</klr></trd>,
+    <trd>t&eacute;l&eacute;copieur</trd>
+  </trdgrp>
+  <trd lng="hu">faxk&eacute;sz&uuml;l&eacute;k</trd>
+  <trd lng="nl">faxtoestel</trd>
+  <trdgrp lng="pl">
+    <trd>faks</trd>,
+    <trd>telefaks</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_t;&c_je;&c_l;&c_je;&c_f;&c_a;&c_k;&c_s;</trd>,
+    <trd>&c_f;&c_a;&c_k;&c_s;
+    <klr>(&c_a;&c_p;&c_p;&c_a;&c_r;&c_a;&c_t;)</klr></trd>
+  </trdgrp>
+  <trd lng="sk">fax <klr>(prístroj)</klr></trd>
+  <trdgrp lng="sv">
+    <trd>fax<klr>(apparat)</klr></trd>
+    <trd>telefax<klr>(apparat)</klr></trd>
+  </trdgrp>
+  <trd lng="tr">faks<klr>(ara&ccedil;)</klr></trd>
+</drv>
+
+<drv mrk="faks.0numero">
+  <kap><tld/>numero</kap>
+  <snc mrk="faks.0numero.TEL">
+    <dif>
+      <ref tip="super" cel="numer.0o">Numero</ref> identiganta certan
+      <tld/>aparaton:
+      <ekz>
+        Alma diktis siavice iun <tld/>onumeron per kiu oni povas
+        kontakti
+        &scirc;in
+        <fnt>
+        <aut>S. &Scirc;timec</aut>,
+        <vrk><url ref="&Monato;/002002.html">Saluton el
+        Absurdistano</url></vrk>,
+        <bib>Monato</bib>,
+        <lok>jaro 1993a, numero 12a, p. 9a</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ne mankas la nomoj kaj adresoj de &ccirc;iuj liverantoj
+        kun telefon- kaj <tld/>-numeroj kaj la elektronikaj adresoj
+        <fnt>
+        <aut>P. Peeraerts</aut>,
+        <vrk><url ref="&Monato;/004514.html">Por lingvemaj
+        komputilemuloj...</url></vrk>,
+        <bib>Monato</bib>,
+        <lok>jaro 1995a, numero 6a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_n;&c_u;&c_m;&c_a;&c_r;
+  <ind>&c_f;&c_a;&c_k;&c_s;&c_a;</ind></trd>
+  <trd lng="ca">n&uacute;mero de fax</trd>
+  <trdgrp lng="de">
+    <trd>Faxnummer</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>num&eacute;ro de fax</trd>,
+    <trd>num&eacute;ro de t&eacute;l&eacute;copieur</trd>
+  </trdgrp>
+  <trd lng="hu">faxsz&aacute;m</trd>
+  <trd lng="nl">faxnummer</trd>
+  <trdgrp lng="pl">
+    <trd>numer <ind>faksu</ind></trd>,
+    <trd>numer <ind>telefaksu</ind></trd>
+  </trdgrp>
+  <trd lng="ru">&c_n;&c_o;&c_m;&c_je;&c_r;
+  <ind>&c_f;&c_a;&c_k;&c_s;&c_a;</ind></trd>
+  <trd lng="sv">faxnummer</trd>
+  <trd lng="tr">faks numaras&inodot;</trd>
+</drv>
+
+<adm>
+  Mi dubas, &ccirc;u la lasta senco de ~o (= ~numero) estas vere uzata.
+  Cetere mi
+  havas la impreson, ke ~o povus apliki&gcirc;i anka&ubreve; al la ago
+  a&ubreve; te&hcirc;niko
+  (sendi per fakso).
+  Por la ~e ricevita letero mi pli ofte a&ubreve;dis "~a&jcirc;o".
+  <aut>MB</aut>
+</adm>
+</art>
+<!--
+$Log: faks.xml,v $
+Revision 1.27  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.26  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.25  2013/12/20 02:10:20  revo
+Jerano Zachrisson: +trd sv
+
+Revision 1.24  2011/12/05 00:10:16  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.23  2010/10/18 16:30:31  revo
+Jeromo Vasxe: aux -> u hoko
+
+Revision 1.22  2010/06/17 16:30:36  revo
+Agustin Garcia Lopez: +trd es
+
+Revision 1.21  2010/04/09 16:32:37  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.20  2009/09/01 16:30:40  revo
+Emmanuel Debanne: +trd tr
+
+Revision 1.19  2009/02/15 14:18:06  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.18  2007/05/13 16:30:47  revo
+-->
+</vortaro>

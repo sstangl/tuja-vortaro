@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: skandi.xml,v 1.18 2015/07/04 08:37:43 revo Exp $">
+<kap>
+  <rad>skandi</rad>/o
+  <fnt>Z</fnt>
+</kap>
+<drv mrk="skandi.0o">
+  <kap><tld/>o</kap>
+  <mlg kod="IUPAC">Sc</mlg>
+  <uzo tip="fak">KEM</uzo>
+  <snc>
+    <dif>
+      &Hcirc;emia <ref tip="lst" cel="elemen.0o.KEM"
+      lst="voko:&hcirc;emiaj_elementoj" val="21">elemento</ref> 
+      kun atomnumero 21, atompezo 44,956; tre
+      malofta <ref tip="super" cel="metal.0o.KEM">metalo</ref>.
+    </dif>
+  </snc>
+  <adm>
+    La Zamenhofecon de tiu vorto &scirc;ajnas al mi dubinda, kvankam tiel
+    aperas en PIV, eble konfuzo kun la verbo "skandi" <aut>WD</aut>
+  </adm>
+  <trd lng="be">&c_s;&c_k;&c_a;&c_n;&c_d;&c_y;&c_j;</trd>
+  <trd lng="bg">&c_s;&c_k;&c_a;&c_n;&c_d;&c_i;&c_j;</trd>
+  <trd lng="br">skandiom</trd>
+  <trd lng="de">Skandium</trd>
+  <trd lng="en">scandium</trd>
+  <trd lng="es">escandio</trd> 
+  <trd lng="fr">scandium</trd>
+  <trd lng="hu">szkandium</trd>
+  <trd lng="id">skandium</trd>
+  <trd lng="it">scandio</trd>
+  <trd lng="la">Scandium</trd>
+  <trd lng="nl">scandium</trd>
+  <trd lng="pl">skand</trd>
+  <trd lng="pt">esc&acirc;ndio</trd>
+  <trd lng="ru">&c_s;&c_k;&c_a;&c_n;&c_d;&c_i;&c_j;</trd>
+  <trd lng="sv">skandium</trd>
+  <trdgrp lng="sk">
+    <trd>Sc</trd>,
+    <trd>skandium</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>Sc</trd>,
+    <trd>skandium</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: skandi.xml,v $
+Revision 1.18  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.16  2014/06/03 09:10:28  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.15  2014/01/30 18:10:13  revo
+Joop Eggen: +trd bg
+
+Revision 1.14  2013/09/15 19:10:15  revo
+Wolfram Diestel: simb. laux IUPAC, val, +adm
+
+Revision 1.13  2013/08/25 07:11:01  revo
+Wolfram Diestel: referenco al listo elementoj
+
+Revision 1.12  2010/10/25 16:30:50  revo
+Jerano Zachrisson: +trd sv
+
+Revision 1.11  2006/06/02 16:31:12  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.10  2006/01/04 17:31:44  revo
+H. Neal Parker: +trd en,es,it,pt; +ref elemento
+
+Revision 1.9  2005/04/16 16:33:09  revo
+-->
+</vortaro>

@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: karpen.xml,v 1.19 2013/08/26 09:10:38 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>karpen</rad>/o
+</kap>
+<drv mrk="karpen.0o">
+  <kap>
+    <ofc>*</ofc><tld/>o
+  </kap>
+  <uzo tip="fak">BOT</uzo>
+  <snc>
+    <dif>
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:botanikaj_genroj">Genro</ref> el familio <ref
+      tip="malprt" cel="betula.0oj">betulacoj</ref>
+      (<trd lng="la">Carpinus</trd>), arbo simila al fago, kun glata
+      griza &scirc;elo kaj tre hela ligno.
+    </dif>
+  </snc>
+  <bld lok="../bld/karpen.jpg">
+    folioj de <ind>blanka <tld/>o</ind>
+    <trd lng="ca">carp&iacute;</trd>
+    <trd lng="fr">charme commun</trd>
+    <trd lng="la">Carpinus betulus</trd>
+  </bld>
+  <trd lng="be">&c_g;&c_r;&c_a;&c_b;</trd>
+  <trdgrp lng="br">
+    <trd>faouenn-but</trd>,
+    <trd>gwezenn-faou-put</trd>
+  </trdgrp>
+  <trdgrp lng="ca">
+    <trd>carpinus</trd>,
+    <trd>carp&iacute;</trd>
+  </trdgrp>
+  <trd lng="de">Hainbuche</trd>
+  <trdgrp lng="en">
+    <trd>hornbeam</trd>,
+    <trd>yoke elm</trd>
+  </trdgrp>
+  <trd lng="fr">charme<klr tip="ind"> (arbre)</klr></trd>
+  <trd lng="hu">gyerty&aacute;n(fa)</trd>
+  <trd lng="nl">haagbeuk</trd>
+  <trd lng="pl">grab</trd>
+  <trd lng="ru">&c_g;&c_r;&c_a;&c_b;</trd>
+</drv>
+</art>
+<!--
+$Log: karpen.xml,v $
+Revision 1.19  2013/08/26 09:10:38  revo
+Wolfram Diestel: referenco al listo sciencoj
+
+Revision 1.18  2012/09/02 09:10:14  revo
+Marc Rausell: + trd ca
+
+Revision 1.17  2010/05/11 16:30:29  revo
+Russ Williams: +trd en
+
+Revision 1.16  2005/07/08 16:31:51  revo
+Vito Redsky: +trd pl
+
+Revision 1.15  2005/04/28 16:33:09  revo
+Alan ar Gall: +trd br
+
+Revision 1.14  2004/12/05 17:32:53  revo
+Marc Bavant: +trd fr
+
+Revision 1.13  2002/10/25 16:32:14  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.12  2002/05/03 16:35:46  revo
+-->
+</vortaro>

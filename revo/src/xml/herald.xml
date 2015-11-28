@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: herald.xml,v 1.17 2015/07/04 08:37:35 revo Exp $">
+<kap><rad>heraldik</rad>/o <fnt>Z</fnt></kap>
+<drv mrk="herald.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="herald.0o.SCI">
+    <uzo tip="fak">HER</uzo>
+    <uzo tip="fak">SCI</uzo>
+    <dif>
+      Scienco pri <ref cel="blazon.0o">blazonoj</ref>.
+    </dif>
+  </snc>
+  <trd lng="be">&c_g;&c_je;&c_r;&c_a;&c_l;&c_mol;&c_d;&c_y;&c_k;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>erbovnictví</trd>,
+    <trd>heraldika</trd>,
+    <trd>znakoznalství</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Heraldik</trd>,
+    <trd>Wappenkunde</trd>
+  </trdgrp>
+  <trd lng="el">&omikron;&jota;&kappa;&omikron;&sigma;&eta;&my;&omikron;&lambda;&omikron;&gamma;&jota_ton;&alfa;</trd>
+  <trd lng="es">her&aacute;ldica</trd>
+  <trd lng="fr">h&eacute;raldique</trd>
+  <trdgrp lng="hu">
+    <trd>c&iacute;mertan</trd>,
+    <trd>heraldika</trd>
+  </trdgrp>
+  <trd lng="it">araldica</trd>
+  <trdgrp lng="nl">
+    <trd>heraldiek</trd>,
+    <trd>wapenkunde</trd>
+  </trdgrp>
+  <trd lng="pl">heraldyka</trd>
+  <trd lng="pt">her&aacute;ldica</trd>
+  <trd lng="ru">&c_g;&c_je;&c_r;&c_a;&c_l;&c_mol;&c_d;&c_i;&c_k;&c_a;</trd>
+  <trd lng="sk">náuka o erboch</trd>
+</drv>
+</art>
+<!--
+$Log: herald.xml,v $
+Revision 1.17  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.15  2009/09/05 16:31:21  revo
+Antonio Codazzi: +trd it
+
+Revision 1.14  2006/06/19 16:32:13  revo
+Jeromo Vasxe: + fak her
+
+Revision 1.13  2004/01/08 17:32:09  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.12  2003/12/05 17:31:33  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.11  2002/07/11 17:33:53  revo
+Alejandro Mejia Greene: ald 1 his trd
+
+Revision 1.10  2002/07/05 17:32:42  revo
+Eduardo M. Kalinowski: ald trd el, pt
+
+Revision 1.9  2002/01/04 17:34:09  revo
+Marc Bavant: -uzo HER, +uzo SCI, +ref al blazono
+
+Revision 1.8  2001/12/14 17:31:23  revo
+-->
+</vortaro>

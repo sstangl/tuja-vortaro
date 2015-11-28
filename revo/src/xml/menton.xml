@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: menton.xml,v 1.22 2015/10/01 22:10:18 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>menton</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="menton.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="menton.0o.ANA">
+    <uzo tip="fak">ANA</uzo>
+    <dif>
+      Parto de la viza&gcirc;o sub la bu&scirc;o:
+      <ekz>
+	&scirc;i rektigas la kapon, krucigas la fingrojn kaj sur ili apogas 
+	la <tld/>on
+        <fnt>
+        <aut>M. de Assis, trad. P. Viana</aut>,
+        <vrk>La divenistino kaj aliaj rakontoj</vrk>,
+        <lok>Oportuno, jaro 2005a, p. 31a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>                       
+  <trd lng="be">&c_p;&c_a;&c_d;&c_b;&c_a;&c_r;&c_o;&c_d;&c_a;&c_k;</trd>
+  <trd lng="bg">&c_b;&c_r;&c_a;&c_d;&c_a;</trd>
+  <trdgrp lng="br">        
+    <trd>elgezh</trd>,
+    <trd>chik<klr tip="ind"> (elgezh)</klr></trd>,
+    <trd>gro&ntilde;ch</trd>
+  </trdgrp>
+  <trd lng="ca">ment&oacute;</trd>
+  <trd lng="de">Kinn</trd>
+  <trd lng="en">chin</trd>
+  <trd lng="fa">&f_ch;&a_A;&a_n;&a_h;</trd>
+  <trd lng="fr">menton</trd>
+  <trd lng="hu">&aacute;ll<klr tip="ind"> (testr&eacute;sz)</klr></trd>
+  <trd lng="id">dagu</trd>
+  <trd lng="it">mento</trd>
+  <trd lng="nl">kin</trd>
+  <trd lng="pl">podbr&oacute;dek</trd>
+  <trdgrp lng="pt">
+    <trd>mento</trd>,
+    <trd>queixo</trd>
+  </trdgrp>
+  <trd lng="ru">&c_p;&c_o;&c_d;&c_b;&c_o;&c_r;&c_o;&c_d;&c_o;&c_k;</trd>
+  <trd lng="sv">haka</trd>
+</drv>
+
+<drv mrk="menton.sub0o">
+  <kap>sub<tld/>o</kap>
+  <snc mrk="menton.sub0o.ANA">
+    <uzo tip="fak">ANA</uzo>
+    <dif>
+      Grasa subfaldo de la <tld/>o:
+      <ekz>
+        &scirc;i havis mallongan platan nazeton, rideman bu&scirc;on, malgrandan 
+        mentoneton kaj sub<tld/>on
+        <fnt>
+          <aut>B. N&ecaron;mcov&aacute;, trad. V. Tobek kaj K. Proch&aacute;zka</aut>,
+          <vrk><url ref="https://eo.wikisource.org/wiki/Avineto/IV.">
+          Avineto</url></vrk>,
+          <lok>1909-1914</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">double menton</trd>
+</drv>
+</art>
+<!--
+$Log: menton.xml,v $
+Revision 1.22  2015/10/01 22:10:18  revo
+Jeromo Vasxe: + sub~o
+
+Revision 1.21  2014/05/30 15:11:07  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.20  2012/08/19 19:10:20  revo
+Marc Rausell: + trd ca
+
+Revision 1.19  2010/12/02 17:30:59  revo
+Antonio Codazzi: +trd it
+
+Revision 1.18  2009/10/03 16:30:39  revo
+Wieland Pusch: +trd bg
+
+Revision 1.17  2009/10/01 16:30:30  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.16  2006/07/31 16:32:55  revo
+Tulio Flores: +tr pt
+
+Revision 1.15  2005/08/05 16:31:07  revo
+-->
+</vortaro>

@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: gam.xml,v 1.20 2015/07/04 08:37:34 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>gam</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="gam.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="gam.0o.MUZ">
+    <uzo tip="fak">MUZ</uzo>
+    <dif>
+      Orda, sinsekva a&ubreve;digo de &ccirc;iuj sonoj de tonalo.
+    </dif>
+    <trd lng="ca">escala musical</trd>
+    <trd lng="en">musical scale</trd>
+    <trdgrp lng="nl">
+      <trd>toonladder</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="gam.0o.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <ref tip="dif" cel="seri.0o.aro">serio</ref>
+    <ekz>
+      aliflanke de la <tld/>o triumfis anka&ubreve; la socialisma maldekstra
+      partio
+      <fnt>
+        <aut>B. Hekland</aut>,
+        <vrk>Triumfas tedulo</vrk>,
+        <bib>Monato</bib>,
+        <lok>jaro 2001a, numero 11a, p. 6a</lok>
+      </fnt>.
+    </ekz>
+    <trd lng="ca">s&egrave;rie</trd>
+    <trdgrp lng="en">
+      <trd>gamut</trd>,
+      <trd>range</trd>
+    </trdgrp>
+    <trdgrp lng="nl">
+      <trd>naar sterkte, intensiteit enz. geordende
+      <ind>reeks</ind></trd>,
+      <trd>muziekgamma</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="be">&c_g;&c_a;&c_m;&c_a;</trd>
+  <trd lng="ca">gamma</trd>
+  <trdgrp lng="cs">
+    <trd>stupnice</trd>,
+    <trd>tónina</trd>,
+    <trd>škála</trd>
+  </trdgrp>
+  <trd lng="de">Tonleiter</trd>
+  <trd lng="fr">gamme</trd>
+  <trd lng="hu">sk&aacute;la</trd>
+  <trdgrp lng="nl">
+    <trd>gamma</trd>
+  </trdgrp>
+  <trd lng="pt">gama</trd>
+  <trd lng="ru">&c_g;&c_a;&c_m;&c_m;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>stupnica</trd>,
+    <trd>škála</trd>
+  </trdgrp>
+  <trd lng="tr">gam (m&uuml;zik)</trd>
+</drv>
+</art>
+<!--
+$Log: gam.xml,v $
+Revision 1.20  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:29:39  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2011/12/12 11:10:15  revo
+Marc Rausell: +trd ca
+
+Revision 1.17  2010/01/13 17:30:24  revo
+Jeromo Vasxe: kor. 1 ref
+
+Revision 1.16  2009/08/27 16:33:29  revo
+Russ Williams: +trd en
+
+Revision 1.15  2009/08/23 16:33:15  revo
+Emmanuel Debanne: +trd tr
+
+Revision 1.14  2004/01/08 17:31:47  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.13  2003/10/28 17:30:57  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.12  2003/02/03 17:31:42  revo
+Bart Demeyere: plibonigo trd nl
+
+Revision 1.11  2002/09/24 16:31:47  revo
+-->
+</vortaro>

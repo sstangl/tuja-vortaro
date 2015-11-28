@@ -1,0 +1,680 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: aks.xml,v 1.51 2015/09/17 16:10:23 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>aks</rad>/o
+</kap>
+<drv mrk="aks.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="aks.0o.TEK">
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      Cilindroforma stango, &ccirc;irka&ubreve; kiu turni&gcirc;as peco
+      de ma&scirc;ino:
+      <ekz>
+        <tld/>o de rado, pulio, ekscentriko.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="sxaft.0o">&scirc;afto</ref>
+    <trdgrp lng="de">
+      <trd>Achse<klr> [nemoviga (pasiva) stango]</klr></trd>,
+      <trd>Welle<klr> [moviga stango]</klr></trd>
+    </trdgrp>
+    <trd lng="en">axle</trd>
+  </snc>
+  <snc mrk="aks.0o.rotacia">
+    <dif>
+      Imaga rekto, &ccirc;irka&ubreve; kiu turni&gcirc;as korpo:
+      <ekz>
+        la <tld/>o de nia terglobo trairas tra amba&ubreve; polusoj.
+      </ekz>
+    </dif>
+    <trd lng="de">Achse</trd>
+    <trd lng="en">axis</trd>
+  </snc>
+  <snc mrk="aks.0o.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <dif>
+      Rimarkinda <ref tip="super" cel="rekt.0o.MAT">rekto</ref>,
+      interalie:
+    </dif>
+    <subsnc mrk="aks.0o.simetrio">
+      <fnt><bib>MatVort</bib></fnt>
+      <dif>
+        <ref tip="dif" cel="aks.simetri0o">Simetri<tld/>o</ref>:
+        <ekz>
+          <tld/>o de <ref cel="cirkl.0o.linio">cirklo</ref> <klr>(la
+          rekto
+          orta al &gcirc;ia ebeno kaj trairanta &gcirc;ian
+          centron)</klr>;
+        </ekz>
+        <ekz>
+          <tld/>o de <ref cel="sfer.0o.surfaco">sfero</ref>
+          <klr>(&ccirc;iu
+          ajn
+          el la rektoj enhavantaj &gcirc;ian centron)</klr>;
+        </ekz>
+        <ekz>
+          fokusa a&ubreve; nefokusa <tld/>o de
+          <ref cel="elips.0o.linio">elipso</ref> <klr>(simetri<tld/>o,
+          trairanta &gcirc;iajn fokusojn, a&ubreve; ne)</klr>.
+        </ekz>
+      </dif>
+      <rim>
+        La fokusan kaj nefokusan <tld/>ojn de elipso Bricard
+        <fnt><bib>MatTerm</bib><lok>p. 33</lok></fnt> nomas respektive
+        <ctl>longa</ctl> kaj <ctl>mallonga</ctl>.
+      </rim>
+    </subsnc>
+    <subsnc mrk="aks.0o.rotacio">
+      <fnt><bib>MatTerm</bib><lok>p. 30</lok></fnt>
+      <dif>
+        <klr>(de <ref cel="rotaci.0o.afina">afina rotacio</ref>
+        en tridimensia spaco)</klr>
+        La rekto sen&scirc;an&gcirc;a per &gcirc;i.
+      </dif>
+    </subsnc>
+    <subsnc mrk="aks.0o.koordinato">
+      <fnt><bib>MatTerm</bib><lok>p. 31</lok></fnt>
+      <dif>
+        <klr>(de kartezia
+        <ref cel="koordi.0sistemo">koordinatsistemo</ref>)</klr>
+        Rekto, enhavanta la originan punkton kaj direktata de unu
+        el la bazvektoroj:
+        <ekz>
+          <ind>abscisa <tld/>o</ind> a&ubreve;
+          <trdgrp lng="be">
+            <trd>&c_v;&c_o;&c_s;&c_mol;
+            &c_a;&c_b;&c_s;&c_c;&c_y;&c_s;&c_a;&c_w;</trd>,
+            <trd>x-<ind>&c_v;&c_o;&c_s;&c_mol;</ind></trd>
+          </trdgrp>
+          <trd lng="br">ahel an absisenno&ugrave;</trd>
+          <trdgrp lng="cs">
+            <trd>osa &uacute;se&ccaron;ek</trd>,
+            <trd>x-ov&aacute; <ind>osa</ind></trd>
+          </trdgrp>
+          <trdgrp lng="de">
+            <trd>Abszissenachse</trd>,
+            <trd>Abszisse</trd>,
+            <trd>x-Achse</trd>
+          </trdgrp>
+          <trdgrp lng="en">
+            <trd>axis of abscissae</trd>,
+            <trd>x-axis</trd>
+          </trdgrp>
+          <trd lng="fa">&a_m;&a_H;&a_w;&a_r; &a_T;&a_w;&a_l;</trd>
+          <trdgrp lng="fr">
+            <trd>axe des abscisses</trd>,
+            <trd>axe des x</trd>
+          </trdgrp>
+          <trd lng="hu">abszcisszatengely</trd>
+          <trdgrp lng="pl">
+            <trd>o&sacute; odci&eogonek;tych</trd>,
+            <trd>o&sacute; x</trd>
+          </trdgrp>
+          <trdgrp lng="ru">
+            <trd>&c_o;&c_s;&c_mol;
+            &c_a;&c_b;&c_s;&c_c;&c_i;&c_s;&c_s;</trd>,
+            <trd>x-<ind>&c_o;&c_s;&c_mol;</ind></trd>
+          </trdgrp>
+        </ekz>
+        <ekz>
+          <ind>x-<tld/>o</ind>,
+          <trdgrp lng="be">
+            <trd>&c_v;&c_o;&c_s;&c_mol;
+            &c_a;&c_b;&c_s;&c_c;&c_y;&c_s;&c_a;&c_w;</trd>,
+            <trd>x-<ind>&c_v;&c_o;&c_s;&c_mol;</ind></trd>
+          </trdgrp>
+          <trd lng="br">ahel an x-o&ugrave;</trd>
+          <trdgrp lng="cs">
+            <trd>osa &uacute;se&ccaron;ek</trd>,
+            <trd>x-ov&aacute; <ind>osa</ind></trd>
+          </trdgrp>
+          <trdgrp lng="de">
+            <trd>Abszissenachse</trd>,
+            <trd>Abszisse</trd>,
+            <trd>x-Achse</trd>
+          </trdgrp>
+          <trdgrp lng="en">
+            <trd>axis of abscissae</trd>,
+            <trd>x-axis</trd>
+          </trdgrp>
+          <trd lng="fa">&a_m;&a_H;&a_w;&a_r; &a_T;&a_w;&a_l;</trd>
+          <trdgrp lng="fr">
+            <trd>axe des abscisses</trd>,
+            <trd>axe des x</trd>
+          </trdgrp>
+          <trd lng="hu">x-<ind>tengely</ind></trd>          
+          <trdgrp lng="pl">
+            <trd>o&sacute; odci&eogonek;tych</trd>,
+            <trd>o&sacute; x</trd>
+          </trdgrp>
+          <trdgrp lng="ru">
+            <trd>&c_o;&c_s;&c_mol;
+            &c_a;&c_b;&c_s;&c_c;&c_i;&c_s;&c_s;</trd>,
+            <trd>x-<ind>&c_o;&c_s;&c_mol;</ind></trd>
+          </trdgrp>
+        </ekz>
+        <ekz>
+          <ind>ordinata <tld/>o</ind> a&ubreve;
+          <trdgrp lng="be">
+            <trd>&c_v;&c_o;&c_s;&c_mol;
+            &c_a;&c_r;&c_d;&c_y;&c_n;&c_a;&c_t;&c_a;&c_w;</trd>,
+            <trd>y-<ind>&c_v;&c_o;&c_s;&c_mol;</ind></trd>
+          </trdgrp>
+          <trd lng="br">ahel an urzhienno&ugrave;</trd>
+          <trdgrp lng="cs">
+            <trd>osa po&rcaron;adnic</trd>,
+            <trd>y-ov&aacute; <ind>osa</ind></trd>
+          </trdgrp>
+          <trdgrp lng="de">
+            <trd>Ordinatenachse</trd>,
+            <trd>Ordinate</trd>,
+            <trd>y-Achse</trd>
+          </trdgrp>
+          <trdgrp lng="en">
+            <trd>axis of ordinates</trd>,
+            <trd>y-axis</trd>
+          </trdgrp>
+          <trd lng="fa">&a_m;&a_H;&a_w;&a_r; &a_ayn;&a_r;&a_D;</trd>
+          <trdgrp lng="fr">
+            <trd>axe des ordonn&eacute;es</trd>,
+            <trd>axe des y</trd>
+          </trdgrp>
+          <trd lng="hu">ordin&aacute;tatengely</trd>
+          <trdgrp lng="pl">
+            <trd>o&sacute; rz&eogonek;dnych</trd>,
+            <trd>o&sacute; y</trd>
+          </trdgrp>
+          <trdgrp lng="ru">
+            <trd>&c_o;&c_s;&c_mol;
+            &c_o;&c_r;&c_d;&c_i;&c_n;&c_a;&c_t;</trd>,
+            <trd>y-<ind>&c_o;&c_s;&c_mol;</ind></trd>
+          </trdgrp>
+        </ekz>
+        <ekz>
+          <ind>y-<tld/>o</ind>,
+          <trdgrp lng="be">
+            <trd>&c_v;&c_o;&c_s;&c_mol;
+            &c_a;&c_r;&c_d;&c_y;&c_n;&c_a;&c_t;&c_a;&c_w;</trd>,
+            <trd>y-<ind>&c_v;&c_o;&c_s;&c_mol;</ind></trd>
+          </trdgrp>
+          <trd lng="br">ahel ar y-o&ugrave;</trd>
+          <trdgrp lng="cs">
+            <trd>osa po&rcaron;adnic</trd>,
+            <trd>y-ov&aacute; <ind>osa</ind></trd>
+          </trdgrp>
+          <trdgrp lng="de">
+            <trd>Ordinatenachse</trd>,
+            <trd>Ordinate</trd>,
+            <trd>y-Achse</trd>
+          </trdgrp>
+          <trdgrp lng="en">
+            <trd>axis of ordinates</trd>,
+            <trd>y-axis</trd>
+          </trdgrp>
+          <trd lng="fa">&a_m;&a_H;&a_w;&a_r; &a_ayn;&a_r;&a_D;</trd>
+          <trdgrp lng="fr">
+            <trd>axe des ordonn&eacute;es</trd>,
+            <trd>axe des y</trd>
+          </trdgrp>
+          <trd lng="hu">y-<ind>tengely</ind></trd>
+          <trdgrp lng="pl">
+            <trd>o&sacute; rz&eogonek;dnych</trd>,
+            <trd>o&sacute; y</trd>
+          </trdgrp>
+          <trdgrp lng="ru">
+            <trd>&c_o;&c_s;&c_mol;
+            &c_o;&c_r;&c_d;&c_i;&c_n;&c_a;&c_t;</trd>,
+            <trd>y-<ind>&c_o;&c_s;&c_mol;</ind></trd>
+          </trdgrp>
+        </ekz>
+        <ekz>
+          <ind>z-<tld/>o</ind>
+          <trd lng="br">ahel ar z-o&ugrave;</trd>
+          <trdgrp lng="cs">
+            <trd>osa sou&rcaron;adnic</trd>,
+            <trd>z-ov&aacute; <ind>osa</ind></trd>
+          </trdgrp>
+          <trdgrp lng="de">
+            <trd>Applikatenachse</trd>,
+            <trd>z-Achse</trd>
+          </trdgrp>
+          <trdgrp lng="en">
+            <trd>applicate axis</trd>,
+            <trd>z-axis</trd>
+          </trdgrp>
+          <trd lng="fa">&a_m;&a_H;&a_w;&a_r;
+          &a_A;&a_r;&a_t;&a_f;&a_A;&a_ayn;</trd>
+          <trdgrp lng="fr">
+            <trd>axe des cotes</trd>,
+            <trd>axe des z</trd>
+          </trdgrp>
+          <trd lng="hu">z-<ind>tengely</ind></trd>          
+          <trdgrp lng="pl">
+            <trd>o&sacute; z</trd>
+          </trdgrp>
+          <trdgrp lng="ru">
+            <trd>&c_o;&c_s;&c_mol;
+            &c_a;&c_p;&c_p;&c_l;&c_i;&c_k;&c_a;&c_t;</trd>,
+            <trd>z-<ind>&c_o;&c_s;&c_mol;</ind></trd>
+          </trdgrp>
+          <klr>(direktataj respektive de la unua, dua kaj tria
+          bazvektoro)</klr>.
+        </ekz>
+      </dif>
+      <ref tip="sin" cel="aks.koordinata0o">koordinata <tld/>o.</ref>
+    </subsnc>
+    <subsnc mrk="aks.0o.polusa">
+      <dif>
+        <klr>(de polusa
+        <ref cel="koordi.0sistemo">koordinatsistemo</ref>)</klr>
+        Duonrekto, servanta por difini la
+        <ref cel="angul.polusa0o">polusan angulon</ref>.
+      </dif>
+      <ref tip="sin" cel="aks.polusa0o">polusa <tld/>o.</ref>
+    </subsnc>
+    <trd lng="de">Achse</trd>
+    <trd lng="en">axis</trd>
+    <trd lng="fr">axe</trd>
+    <trd lng="pl">o&sacute;</trd>
+    <trd lng="ru">&c_o;&c_s;&c_mol;</trd>
+  </snc>
+  <snc mrk="aks.0o.mezo">
+    <dif>
+      Meza linio, e&ccirc; se ne rekta, de io, konsiderata
+      la&ubreve;longe:
+      <ekz>
+        <tld/>o de vojo.
+      </ekz>
+    </dif>
+    <rim>
+      Senco neinternacia, malklara kaj evitinda.
+      <ctl>La meza linio</ctl> estas pli racia kaj klara tiusence.
+      <aut>Sergio Pokrovskij</aut>
+    </rim>
+    <trd lng="de">Mittellinie</trd>
+    <trd lng="nl">middellijn</trd>
+    <trdgrp lng="ru">
+      <trd>&c_s;&c_r;&c_je;&c_d;&c_n;&c_ja;&c_ja;
+      &c_l;&c_i;&c_n;&c_i;&c_ja;</trd>,
+      <trd>&c_o;&c_s;&c_je;&c_v;&c_a;&c_ja;
+      &c_l;&c_i;&c_n;&c_i;&c_ja;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="aks.0o.gravaorgano">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Centra, plej grava organo en iu organizo:
+      <ekz>
+        tiu komitato estas la &ccirc;efa <tld/>o de la societo.
+      </ekz>
+    </dif>
+    <rim>
+      Senco neinternacia, malklara kaj evitinda. Neniam mi vidis
+      ion similan en Esperanto. <ctl>Trunko</ctl> a&ubreve;
+      <ctl>kerno</ctl> estus pli klaraj tiusence.
+      <aut>Sergio Pokrovskij</aut>
+    </rim>
+    <trd lng="de">tragende S&auml;ule</trd>
+    <trd lng="ru">&c_s;&c_t;&c_je;&c_r;&c_zh;&c_je;&c_n;&c_mol;</trd>
+  </snc>
+  <snc mrk="aks.0o.alianco">
+    <uzo tip="stl">FIG</uzo>
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      Politika alianco, a&ubreve; simpla interkonsento pri certa punkto:
+      <ekz>
+        la <tld lit="A"/>o <klr>(Germanio kaj &gcirc;iaj aliancanoj
+        dum la 2-a mondmilito)</klr>;
+      </ekz>
+      <ekz>
+        la <tld/>o Parizo-Berlino <klr>(ekz-e en e&ubreve;ropaj
+        aferoj)</klr>.
+      </ekz>
+    </dif>
+    <trdgrp lng="en">
+      <trd>Axis</trd>,
+      <trd>alliance</trd>
+    </trdgrp>
+    <trd lng="tr">mihver</trd>
+  </snc>
+  <adm>
+    PIV1 citas plurajn aliajn sencojn el la fakoj: BOT, ANA, OPTiko.
+    Ekzistas aliaj figuraj sencoj en la franca, kiuj eble trovi&gcirc;as
+    anka&ubreve; en E-o:
+    (a) longa, grava parto de io : cerbospina "~o";
+    (b) grava trafikvojo : fervoja "~o";
+    (c) gravaj linioj de projekto, politiko : la &ccirc;efa "~o" de nia
+    agado koncernos senlaborecon.
+    <aut>MB</aut>
+    ****************
+    La senco (a) &scirc;ajnas esti "aks.0o.mezo". La sencoj (b,c) estas
+    kaprompaj &scirc;aradoj por ruso. Mi vidas nenian avanta&gcirc;on en
+    konfuzigo de sufi&ccirc;e klara nocio. Kaj por mi akso nepre estas
+    rekta. Mi povas akcepti ke nerektan "mezan linion" oni nomu "aksa
+    linio", sed certe mi neniam nomus &gcirc;in "akso".
+    <aut>Sergio Pokrovskij</aut>
+  </adm>
+  <trdgrp lng="be">
+    <trd>&c_v;&c_o;&c_s;&c_mol;</trd>,
+    <trd>&c_v;&c_a;&c_l;</trd>
+  </trdgrp>
+  <trd lng="br">ahel</trd>
+  <trd lng="es">eje</trd>
+  <trd lng="fa">&a_m;&a_H;&a_w;&a_r;</trd>
+  <trdgrp lng="fr">
+    <trd>axe</trd>,
+    <trd>essieu</trd>
+  </trdgrp>
+  <trd lng="hu">tengely</trd>  
+  <trd lng="nl">as</trd>
+  <trd lng="pt">eixo</trd>
+  <trd lng="ru">&c_o;&c_s;&c_mol;</trd>
+  <trd lng="sk">os</trd>
+  <trd lng="sv">axel</trd>
+  <trd lng="sk">pol&aacute;rna os</trd>
+  <trd lng="cs">pol&aacute;rn&iacute; osa</trd>
+</drv>
+
+<drv mrk="aks.0a">
+  <kap><tld/>a</kap>
+  <snc>
+    <dif>
+      Rilata al <tld/>o:
+      <ekz>
+        <uzo tip="fak">MAT</uzo>
+        <tld/>a <ref cel="simetr.0o.orta">simetrio</ref>
+        <fnt><bib>MatVort</bib></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_v;&c_o;&c_s;&c_je;&c_v;&c_y;</trd>
+  <trdgrp lng="br">
+     <trd>ahelel</trd>,
+     <trd>-<ind>ahel</ind></trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>axi&aacute;ln&iacute;</trd>,
+    <trd>osn&iacute;</trd>,
+    <trd>osov&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Achsen-</trd>,
+    <trd>Axial-</trd>
+  </trdgrp>
+  <trd lng="en">axial</trd>
+  <trd lng="fa">&a_m;&a_H;&a_w;&a_r;&f_y;</trd>
+  <trd lng="fr">axial</trd>
+  <trdgrp lng="hu">
+    <trd>tengely-</trd>,
+    <trd>tengelyes</trd>
+    <trd>axi&aacute;lis</trd>
+  </trdgrp>
+  <trd lng="pl">osiowy</trd>
+  <trd lng="pt">axial</trd>
+  <trd lng="ru">&c_o;&c_s;&c_je;&c_v;&c_o;&c_j;</trd>
+  <trd lng="sk">osov&yacute;</trd>
+</drv>
+
+<drv mrk="aks.0ingo">
+  <kap><tld/>ingo</kap>
+  <uzo tip="fak">TEK</uzo>
+  <snc>
+    <dif>
+      Muntopeco entenanta <tld/>an aperturon por alia muntopeco:
+      <ekz>
+        iliaj <tld/>oj kaj <tld/>ingoj kaj radradioj kaj radrondoj,
+        &ccirc;io estis fandita
+        <fnt><bib>MT</bib><lok>&Re1; 7:33</lok></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="nab.0o">nabo</ref>,
+      <ref cel="pivot.0o">pivoto</ref>.
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_u;&c_t;&c_u;&c_l;&c_k;&c_a;</trd>
+  <trdgrp lng="br">
+     <trd>bendell</trd>,
+     <trd>moell</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>lo&zcaron;isko osy</trd>,
+    <trd>n&aacute;boj kola</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+     <trd>Fassung</trd>,
+     <trd>Nabe</trd>
+  </trdgrp>
+  <trd lng="en">socket</trd>
+  <trd lng="fa">&a_t;&a_w;&f_p;&f_y; &f_ch;&a_r;&a_kh;</trd>
+  <trd lng="fr">moyeu</trd>
+  <trdgrp lng="hu">
+    <trd>agy</trd>,
+    <trd>tengelycsap&aacute;gy</trd>
+  </trdgrp>
+  <trd lng="pt">cubo <klr>(de roda)</klr></trd>
+  <trdgrp lng="ru">
+    <trd>&c_v;&c_t;&c_u;&c_l;&c_k;&c_a;</trd>,
+    <trd>&c_s;&c_t;&c_u;&c_p;&c_i;&c_c;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>lo&zcaron;isko</trd>,
+    <trd>lo&zcaron;isko <klr>(osi)</klr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="aks.rotacia0o">
+  <kap>rotacia <tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>MatVort</bib></fnt>
+  <snc>
+    <ref tip="dif" cel="aks.0o.rotacio"><tld/>o <sncref/>.</ref>
+  </snc>
+  <trd lng="br">ahel troiadur</trd>
+  <trd lng="cs">osa ot&aacute;&ccaron;en&iacute;</trd>
+  <trd lng="de">Drehachse</trd>
+  <trd lng="en">axis of rotation</trd>
+  <trd lng="es">eje de rotaci&oacute;n</trd>
+  <trd lng="fa">&a_m;&a_H;&a_w;&a_r; &a_d;&a_w;&a_r;&a_A;&a_n;</trd>
+  <trd lng="fr">axe de rotation</trd>
+  <trd lng="hu">forg&aacute;stengely</trd>
+  <trd lng="pl">o&sacute; obrotu</trd>
+  <trd lng="ru">&c_o;&c_s;&c_mol;
+  &c_v;&c_r;&c_a;&c_shch;&c_je;&c_n;&c_i;&c_ja;</trd>
+  <trd lng="sk">os ot&aacute;&ccaron;ania</trd>
+</drv>
+
+<drv mrk="aks.simetri0o">
+  <kap>simetri<tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>MatVort</bib></fnt>
+  <snc mrk="aks.simetri0o.de_simetrio">
+    <dif>
+      <ref tip="super" cel="rekt.0o.MAT">Rekto</ref>, kiu difinas
+      <tld/>an <ref cel="simetr.0o.orta">simetrion</ref>.
+    </dif>
+  </snc>
+  <snc mrk="aks.simetri0o.de_figuro">
+    <dif>
+      <klr>(de <ref cel="figur.geometria0o">geometria
+      figuro</ref>)</klr>
+      <ref tip="super" cel="rekt.0o.MAT">Rekto</ref>, rilate al kiu
+      la figuro estas <ref cel="simetr.0a.figuro">simetria</ref>.
+    </dif>
+  </snc>
+  <trd lng="be">&c_v;&c_o;&c_s;&c_mol;
+  &c_s;&c_y;&c_m;&c_e;&c_t;&c_r;&c_y;&c_ib;</trd>
+  <trd lng="br">ahel simetriezh</trd>
+  <trd lng="de">Symmetrieachse</trd>
+  <trd lng="en">axis of symmetry</trd>
+  <trd lng="es">eje de simetr&iacute;a</trd>
+  <trd lng="fa">&a_m;&a_H;&a_w;&a_r; &a_t;&a_q;&a_A;&a_r;&a_n;</trd>
+  <trd lng="fr">axe de sym&eacute;trie</trd>
+  <trd lng="hu">szimmetriatengely</trd>  
+  <trd lng="pl">o&sacute; symetrii</trd>
+  <trd lng="pt">eixo de simetria</trd>
+  <trd lng="ru">&c_o;&c_s;&c_mol;
+  &c_s;&c_i;&c_m;&c_m;&c_je;&c_t;&c_r;&c_i;&c_i;</trd>
+  <trd lng="sk">os s&uacute;mernosti</trd>
+</drv>
+
+<drv mrk="aks.grandaduon0o">
+  <kap>granda duon<tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>MatVort</bib></fnt>
+  <snc>
+    <dif>
+      <klr>(de <ref cel="elips.0o.linio">elipso</ref>)</klr>
+      &Ccirc;iu el la du <ref tip="super"
+      cel="strek.0o.segmento">strekoj</ref>
+      de &gcirc;ia fokusa <ref cel="aks.0o.simetrio"><tld/>o</ref>,
+      kunligantaj
+      la <ref cel="centr.0o.elipso">centron</ref> al la elipso; longo de
+      tia
+      streko:
+      <ekz>
+        la <ref cel="kvadra1.0o.algebra">kvadratoj</ref> de periodo de
+        <ref cel="rivolu.0o.AST">rivoluo</ref> de du planedoj
+        rilatas inter si,
+        kiel la <ref cel="kub.0o.algebra">kuboj</ref> de iliaj grandaj
+        duon<tld/>oj
+        <klr>(tria <ref cel="kepler.k0a">keplera</ref>
+        le&gcirc;o)</klr>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">velk&aacute; poloosa</trd>
+  <trd lng="de">gro&szlig;e <ind>Halbachse</ind></trd>
+  <trd lng="en">semi-major <ind>axis</ind></trd>
+  <trd lng="es">semi<ind>eje</ind> mayor</trd>
+  <trd lng="fa">&a_n;&f_y;&a_m;&a_q;&a_T;&a_r;
+  &a_A;&a_T;&a_w;&a_l;</trd>
+  <trdgrp lng="fr">
+    <trd>demi-axe focal</trd>,
+    <trd>demi grand <ind>axe</ind></trd>
+  </trdgrp>
+  <trd lng="hu">f&eacute;l <ind>nagytengely</ind></trd>  
+  <trd lng="it">semiasse maggiore</trd>
+  <trd lng="pl">p&oacute;&lstroke;o&sacute; wielka</trd>
+  <trd lng="pt">semi-eixo maior</trd>
+  <trd lng="ru">&c_b;&c_o;&c_l;&c_mol;&c_sh;&c_a;&c_ja;
+  <ind>&c_p;&c_o;&c_l;&c_u;&c_o;&c_s;&c_mol;</ind></trd>
+  <trd lng="sk">ve&lcaron;k&aacute; poloos</trd>
+</drv>
+
+<drv mrk="aks.malgrandaduon0o">
+  <kap>malgranda duon<tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>MatVort</bib></fnt>
+  <snc>
+    <dif>
+      <klr>(de <ref cel="elips.0o.linio">elipso</ref>)</klr>
+      &Ccirc;iu el la du <ref tip="super"
+      cel="strek.0o.segmento">strekoj</ref>
+      de &gcirc;ia nefokusa <ref cel="aks.0o.simetrio"><tld/>o</ref>,
+      kunligantaj
+      la <ref cel="centr.0o.elipso">centron</ref> al la elipso; longo de
+      tia
+      streko.
+    </dif>
+  </snc>
+  <trd lng="cs">vedlej&scaron;&iacute; poloosa</trd>
+  <trd lng="de">kleine <ind>Halbachse</ind></trd>
+  <trd lng="en">semi-minor <ind>axis</ind></trd>
+  <trd lng="es">semi<ind>eje</ind> menor</trd>
+  <trd lng="fa">&a_n;&f_y;&a_m;&a_q;&a_T;&a_r;
+  &a_A;&a_q;&a_S;&a_r;</trd>
+  <trdgrp lng="fr">
+    <trd>demi-axe non focal</trd>,
+    <trd>demi petit <ind>axe</ind></trd>
+  </trdgrp>
+  <trd lng="hu">f&eacute;l <ind>kistengely</ind></trd>
+  <trd lng="pl">p&oacute;&lstroke;o&sacute; ma&lstroke;a</trd>
+  <trd lng="pt">semi-eixo menor</trd>
+  <trd lng="ru">&c_m;&c_a;&c_l;&c_a;&c_ja;
+  <ind>&c_p;&c_o;&c_l;&c_u;&c_o;&c_s;&c_mol;</ind></trd>
+  <trdgrp lng="sk">
+    <trd>mal&aacute; poloos</trd>,
+    <trd>ved&lcaron;aj&scaron;ia poloos</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="aks.koordinata0o">
+  <kap>koordinata <tld/>o<fnt><bib>PIV1</bib></fnt>,
+  <var><kap>koordinat<tld/>o<fnt><bib>MatStokTerm</bib><lok>p.
+  24</lok></fnt></kap></var></kap>
+  <uzo tip="fak">MAT</uzo>
+  <snc>
+    <ref tip="dif" cel="aks.0o.koordinato"><tld/>o <sncref/>.</ref>
+  </snc>
+  <trdgrp lng="br">
+    <trd>ahel daveenno&ugrave;</trd>,
+    <trd>ahel kenurzhienno&ugrave;</trd>
+  </trdgrp>
+  <trd lng="de">Koordinatenachse</trd>
+  <trd lng="en">coordinate <ind>axis</ind></trd>
+  <trd lng="es">eje de coordenadas</trd>
+  <trd lng="fa">&a_m;&a_H;&a_w;&a_r;
+  &a_m;&a_kh;&a_t;&a_S;&a_A;&a_t;</trd>
+  <trd lng="fr">axe de coordonn&eacute;es</trd>
+  <trd lng="hu">koordin&aacute;tatengely</trd>  
+  <trd lng="pt">eixo de coordenadas</trd>
+  <trd lng="pl">o&sacute; uk&lstroke;adu
+  wsp&oacute;&lstroke;rz&eogonek;dnych</trd>
+  <trd
+  lng="ru">&c_k;&c_o;&c_o;&c_r;&c_d;&c_i;&c_n;&c_a;&c_t;&c_n;&c_a;&c_ja;
+  <ind>&c_o;&c_s;&c_mol;</ind></trd>
+  <trd lng="sk">s&uacute;radnicov&aacute; <ind>os</ind></trd>
+</drv>
+
+<drv mrk="aks.polusa0o">
+  <kap>polusa <tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>MatVort</bib></fnt>
+  <snc>
+    <ref tip="dif" cel="aks.0o.polusa"><tld/>o <sncref/>.</ref>
+  </snc>
+  <trd lng="cs">pol&aacute;rn&iacute; osa</trd>
+  <trd lng="de">Polarachse</trd>
+  <trd lng="en">polar <ind>axis</ind></trd>
+  <trd lng="fa">&a_m;&a_H;&a_w;&a_r; &a_q;&a_T;&a_b;&f_y;</trd>
+  <trd lng="fr">axe polaire</trd>
+  <trd lng="hu">pol&aacute;rtengely</trd>
+  <trd lng="pl">o&sacute; biegunowa</trd>
+  <trd lng="pt">eixo polar</trd>
+  <trd lng="ru">&c_p;&c_o;&c_l;&c_ja;&c_r;&c_n;&c_a;&c_ja;
+  <ind>&c_o;&c_s;&c_mol;</ind></trd>
+  <trd lng="sk">pol&aacute;rna os</trd>
+</drv>
+</art>
+<!--
+$Log: aks.xml,v $
+Revision 1.51  2015/09/17 16:10:23  revo
+Bora Can Asli: +trd tr
+
+Revision 1.50  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.49  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.48  2012/10/23 00:11:56  revo
+Neil Roberts: aldonu la etikedon <var>
+
+Revision 1.47  2009/06/21 16:31:11  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.46  2005/03/11 16:52:25  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.45  2005/03/06 17:34:56  revo
+Marc Bavant: kor duobligitan punkton
+
+Revision 1.44  2005/02/25 17:33:35  revo
+-->
+</vortaro>

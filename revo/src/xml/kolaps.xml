@@ -1,0 +1,144 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: kolaps.xml,v 1.13 2015/07/04 08:37:37 revo Exp $">
+<kap>
+  <rad>kolaps</rad>/o
+</kap>
+
+<drv mrk="kolaps.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="kolaps.0o.MED">
+    <uzo tip="fak">MED</uzo>
+    <dif>
+      <ref tip="lst" cel="san.mal0o.MED"
+      lst="voko:malsanoj">Malsano</ref> karakterizata per sensinkopa,
+      sed rapida malplii&gcirc;o
+      de fortoj a&ubreve; funkcioj:
+      <ekz>
+        la <tld/>o estas ofta kaj grava simptomo de venenigoj;
+      </ekz>
+      <ekz>
+        cerba, kora <tld/>o.
+      </ekz>
+    </dif>
+    <trd lng="fr">collapsus</trd>
+  </snc>
+  <snc mrk="kolaps.0o.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      <klr>(p.p. asocio, entrepreno, politika sistemo...)</klr>
+      Subita nekapablo funkcii:
+      <ekz>
+        la <tld/>o de Sovet-Unio.
+      </ekz>
+    </dif>
+    <trdgrp lng="fr">
+      <trd>chute</trd>,
+      <trd>affaissement</trd>,
+      <trd>d&eacute;faite</trd>,
+      <trd>d&eacute;gringolade</trd>,
+      <trd>&eacute;croulement</trd>,
+      <trd>effondrement</trd>,
+      <trd>faillite</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="be">&c_k;&c_a;&c_l;&c_ja;&c_p;&c_s;</trd>
+  <trdgrp lng="cs">
+    <trd>kolaps</trd>,
+    <trd>zhroucení</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Kollaps</trd>,
+    <trd>Kreislaufversagen</trd>,
+    <trd>Zusammenbruch</trd>
+  </trdgrp>
+  <trd lng="en">collapse</trd>
+  <trdgrp lng="nl">
+    <trd>instorting</trd>,
+    <trd>inzinking</trd>
+  </trdgrp>
+  <trd lng="ru">&c_k;&c_o;&c_l;&c_l;&c_a;&c_p;&c_s;</trd>
+  <trdgrp lng="sk">
+    <trd>kolaps</trd>,
+    <trd>náhle ochabnutie</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kolaps.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc>
+    <dif>
+      Suferi <tld/>on; rapide fali:
+      <ekz>
+        miaj dikfingroj pu&scirc;is profunden en lian ha&ubreve;ton,
+        kaj li <tld/>is <klr>(falis sveninte)</klr>
+        <fnt><bib>&Scirc;talrato</bib><lok>&ccirc;ap. 27</lok></fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        mi &scirc;altis la 3V-on, ricevante la finon de la nova&jcirc;oj,
+        <tld/>is en la banujon kaj a&ubreve;skultis duonorele
+        <fnt><bib>&Scirc;talrato</bib><lok>&ccirc;ap. 10</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>utrpět kolaps</trd>,
+    <trd>zhroutit se</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>kollabieren</trd>,
+    <trd>zusammenbrechen</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>&ecirc;tre victime d'un <ind>collapsus</ind></trd>,
+    <trd>s'<ind>abattre</ind></trd>,
+    <trd>s'<ind>affaler</ind></trd>,
+    <trd>s'<ind>affaisser</ind></trd>,
+    <trd>s'<ind>&eacute;crouler</ind></trd>,
+    <trd>s'<ind>effondrer</ind></trd>,
+    <trd>craquer</trd>,
+    <trd>crouler</trd>,
+    <trd>d&eacute;gringoler</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>náhle ochabnúť</trd>,
+    <trd>utrpieť kolaps</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: kolaps.xml,v $
+Revision 1.13  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.12  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.11  2013/10/09 19:11:19  revo
+Wolfram Diestel: ref al lst malsanoj
+
+Revision 1.10  2007/07/22 16:30:43  revo
+Wieland Pusch: +trd de
+
+Revision 1.9  2004/12/26 17:33:51  revo
+Marc Bavant: +trd fr; ~o: +snc FIG; +drv ~i
+
+Revision 1.8 2002/12/03 19:55:17 revo
+Dmitri Gabinski: +trd be
+
+Revision 1.7 2002/01/03 17:33:44 revo
+Ulrich Fellmann: + 3 germ trdj
+
+Revision 1.6 2001/11/01 19:11:59 revo
+Paul Peeraerts: ald trd nl
+
+Revision 1.5 2001/09/28 18:12:36 revo
+Yury Finkel: +trd ru
+
+Revision 1.4 2001/02/22 19:07:20 revo
+-->
+</vortaro>

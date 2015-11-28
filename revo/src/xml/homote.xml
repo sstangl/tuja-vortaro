@@ -1,0 +1,160 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: homote.xml,v 1.22 2015/07/04 08:37:35 revo Exp $">
+<kap>
+  <rad>homoteti</rad>/o
+</kap>
+<drv mrk="homote.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>MatVort</bib></fnt>
+  <snc>
+    <dif>
+      <klr>(en <ref cel="spac.afina0o">afina spaco</ref>,
+      kun centro <frm>O</frm> kaj rilato <frm>&lambda;</frm>)</klr>
+      <ref cel="afin.0a.bildigo">Afina</ref>
+      <ref tip="super" cel="bild.0igo.MAT">bildigo</ref>, kiu &jcirc;etas 
+      punkton <frm>M</frm> al <frm>&lambda;&#8729;(M-O)+O</frm>:
+      <ekz>
+        la centro de <tld/>o estas la nura punkto sen&scirc;an&gcirc;a per
+        &gcirc;i;
+      </ekz>
+      <ekz>
+        <tld/>o kun rilato pli granda ol unu grandigas la figurojn la&ubreve;
+        &ccirc;i tiu rilato kaj konservas la angulmezurojn.
+      </ekz>
+    </dif>
+    <rim>
+      Ial oni preferis formon <ctl>homotecio</ctl> en 
+      <fnt><bib>EKV</bib><lok>&para;163</lok></fnt>.
+    </rim>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>homotetie</trd>,
+    <trd>stejnolehlost</trd>
+  </trdgrp>
+  <trd lng="de">Homothetie</trd>
+  <trd lng="en">homothety</trd>
+  <trd lng="fr">homoth&eacute;tie</trd>
+  <trdgrp lng="hu">
+    <trd>k&ouml;z&eacute;ppontos <ind>hasonl&oacute;s&aacute;g</ind></trd>,
+    <trd>homot&eacute;cia</trd>
+  </trdgrp>
+  <trd lng="it">omotetia</trd>
+  <trd lng="nl">homothetie</trd>
+  <trdgrp lng="pl">
+    <trd>jednok&lstroke;adno&sacute;&cacute;</trd>,
+    <trd>homotetia</trd></trdgrp>
+  <trdgrp lng="pt">
+    <trd>homotetia</trd>,
+    <trd>homotesia</trd>
+  </trdgrp>
+  <trd lng="ru">&c_g;&c_o;&c_m;&c_o;&c_t;&c_je;&c_t;&c_i;&c_ja;</trd>
+  <trd lng="sk">homotetia</trd>
+</drv>
+
+<drv mrk="homote.0a">
+  <kap><tld/>a</kap>
+  <uzo tip="fak">MAT</uzo>
+  <snc mrk="homote.0a.figuroj">
+    <fnt><bib>MatTerm</bib><lok>p. 29</lok></fnt>
+    <dif>
+      <klr>(p.p. du <ref cel="figur.geometria0o">figuroj</ref>)</klr>
+      Tiaj, ke ekzistas <ref cel="homote.0o"><tld/>o</ref>, kiu &jcirc;etas
+      unu al la alia:
+      <ekz>
+        <tld/>aj trianguloj <klr>(rilate <tld/>on kun centro en ilia
+        komuna
+        vertico)</klr>;
+      </ekz>
+      <ekz>
+        paralelo al latero de triangulo, sekcante la du aliajn laterojn,
+        difinas
+        triangulon <tld/>an al la originala
+        <klr>(<ref cel="tales.t0a">talesa</ref> teoremo)</klr>.
+      </ekz>
+    </dif>
+    <rim>
+      Trovi&gcirc;as anka&ubreve; <ctl>homoteta</ctl> &ccirc;i-sence, kiel
+      en <fnt><bib>PIV2</bib></fnt>. &Ccirc;ar ni favoras radik&scirc;paradon,
+      ni preferas sekvi la uzon de Bricard.
+    </rim>
+    <bld lok="../bld/homote.gif">
+      la talesa teoremo : AB':AB=AC':AC=B'C':BC
+    </bld>
+  </snc>
+  <snc mrk="homote.0a.bildigo">
+    <fnt><bib>PIV2</bib></fnt>
+    <dif>
+      <klr>(p.p. <ref cel="bild.0igo.MAT">bildigo</ref>)</klr>
+      Estanta <ref cel="homote.0o"><tld/>o</ref>.
+    </dif>
+  </snc>
+  <trd lng="de">homothetisch</trd>
+  <trd lng="en">homothetic</trd>
+  <trd lng="fr">homoth&eacute;tique<klr tip="ind"> (adj.)</klr></trd>
+  <trd lng="hu">k&ouml;z&eacute;ppontosan <ind>hasonl&oacute;</ind></trd>
+  <trd lng="it">omotetico</trd>
+  <trdgrp lng="pl">
+    <trd>jednok&lstroke;adny</trd>,
+    <trd>homotetyczny</trd>
+  </trdgrp>
+  <trd lng="ru">&c_g;&c_o;&c_m;&c_o;&c_t;&c_je;&c_t;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j;</trd>
+</drv>
+
+<drv mrk="homote.0ajxo">
+  <kap><tld/>a&jcirc;o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>MatVort</bib></fnt>
+  <snc>
+    <dif>
+      <klr>(de <ref cel="figur.geometria0o">geometria
+      figuro</ref>)</klr>
+      &Gcirc;ia bildo per <tld/>o.
+    </dif>
+  </snc>
+  <trd lng="de">homothetische <ind>Figur</ind></trd>
+  <trd lng="en">homothetic <ind>figure</ind></trd>
+  <trdgrp lng="fr">
+    <trd>figure homoth&eacute;tique</trd>,
+    <trd>homoth&eacute;tique<klr tip="ind"> (subst.)</klr></trd>
+  </trdgrp>
+  <trd lng="it">figura <ind>omotetica</ind></trd>
+  <trd lng="ru">&c_g;&c_o;&c_m;&c_o;&c_t;&c_je;&c_t;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_a;&c_ja;
+  <ind>&c_f;&c_i;&c_g;&c_u;&c_r;&c_a;</ind></trd>
+</drv>
+</art>
+<!--
+$Log: homote.xml,v $
+Revision 1.22  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.21  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.20  2009/09/17 16:30:39  revo
+Antonio Codazzi: +trd it
+
+Revision 1.19  2007/04/27 16:31:10  revo
+Tulio Flores: +tr pt
+
+Revision 1.18  2003/12/24 17:30:38  revo
+Marc Bavant: kor duobligitan punkton; ~o: forigis duobligitan rusan trd
+
+Revision 1.17  2003/12/19 17:57:36  revo
+Jozefo Horvath: +trd hu
+Revision 1.16  2003/04/07 16:35:29  revo
+Marc Bavant: ~a: +ref interna
+Revision 1.15  2003/03/05 17:34:32  revo
+Marc Bavant: ~ajxo: +fnt, +trd
+Revision 1.14  2003/02/01 17:33:08  revo
+Marc Bavant: mod trd pl
+Revision 1.13  2003/01/02 17:46:39  revo
+Marc Bavant: +trd pl
+Revision 1.12  2002/11/22 17:33:26  revo
+Marc Bavant: +frm
+Revision 1.11  2002/10/21 16:33:44  revo
+-->
+</vortaro>

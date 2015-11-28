@@ -1,0 +1,117 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: oktobr.xml,v 1.34 2015/07/04 08:37:40 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>oktobr</rad>/o
+</kap>
+<drv mrk="oktobr.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <uzo tip="fak">KAL</uzo>
+  <snc>
+    <dif>
+      Deka <ref tip="lst" cel="monat.0o.KAL"
+      lst="voko:monatoj" val="10">monato</ref>  de la <ref tip="malprt"
+      cel="jar.0o.KAL">jaro</ref>, la&ubreve; la Gregoria kalendaro:
+      <ekz>
+        en la komenco de <tld/>o la kamparaj laboroj jam estis &ccirc;e 
+la fino
+        kaj la vila&gcirc;anoj ankora&ubreve; kolektis nur la 
+vinberon<fnt><aut>Julian
+        Modest</aut>: <vrk>La ikono</vrk>, <bib>Monato</bib><lok>jaro
+        2001a, numero 12a, p. 23a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <ref tip="vid" cel="januar.0o">januaro, Rim.</ref>
+  <trd lng="be">&c_k;&c_a;&c_s;&c_t;&c_r;&c_y;&c_ch;&c_n;&c_ib;&c_k;</trd>
+  <trd lng="bg">&c_o;&c_k;&c_t;&c_o;&c_m;&c_v;&c_r;&c_i;</trd>
+  <trd lng="br">Here<klr tip="ind"> (miz)</klr></trd>
+  <trd lng="cs">&rcaron;&iacute;jen</trd>
+  <trd lng="de">Oktober</trd>
+  <trd 
+lng="el">&Omikron;&kappa;&tau;&omega_ton;&beta;&rho;&jota;&omikron;&sigma_fina;</trd>
+  <trd lng="en">October</trd>
+  <trd lng="es">octubre</trd>
+  <trd lng="fa">&a_A;&f_k;&a_t;&a_b;&a_r;</trd>
+  <trd lng="fr">octobre</trd>
+  <trd lng="he">&alef;&vav;&qof;&tet;&vav;&bet;&resh;</trd>
+  <trd lng="hr">listopad</trd>
+  <trd lng="hu">okt&oacute;ber</trd>
+  <trd lng="id">Oktober</trd>
+  <trd lng="it">ottobre</trd>
+  <trd lng="ja">&#21313;&#26376; [<ind>&#12376;&#12421;&#12358;&#12364;&#12388;</ind>]</trd>
+  <trd lng="nl">oktober</trd>
+  <trd lng="pl">pa&zacute;dziernik</trd>
+  <trd lng="pt">outubro</trd>
+  <trd lng="ro">octombrie</trd>
+  <trd lng="ru">&c_o;&c_k;&c_t;&c_ja;&c_b;&c_r;&c_mol;</trd>
+  <trd lng="sv">oktober</trd>
+  <trd lng="tr">ekim</trd>
+  <trd lng="vo">otul</trd>
+  <trd lng="sk">október</trd>
+  <trd lng="cs">říjen</trd>
+</drv>
+
+<drv mrk="oktobr.0a">
+  <kap><tld/>a</kap>
+  <snc>
+    <dif>
+      Okazanta en <tld/>o, rilata al <tld/>o:
+      <ekz>
+        min atingis la <tld/>a numero de
+        <ctl>Monato</ctl><fnt><aut>Boris
+        Kolker</aut>: <vrk>Oktobra Monato</vrk>,
+        <bib>Monato</bib><lok>jaro 2001a, numero 12a, p. 4a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd 
+lng="be">&c_k;&c_a;&c_s;&c_t;&c_r;&c_y;&c_ch;&c_n;&c_ib;&c_c;&c_k;&c_ib;</trd>
+  <trdgrp lng="fr">
+    <trd>d'<ind>octobre</ind></trd>
+  </trdgrp>
+  <trd lng="de">Oktober-</trd>
+  <trd lng="it">di <ind>ottobre</ind></trd>
+  <trd lng="ja">&#21313;&#26376;&#12398; [<ind>&#12376;&#12421;&#12358;&#12364;&#12388;&#12398;</ind>]</trd>
+  <trd lng="nl">oktober-</trd>
+  <trd lng="pl">pa&zacute;dziernikowy</trd>
+  <trd 
+lng="ru">&c_o;&c_k;&c_t;&c_ja;&c_b;&c_r;&c_mol;&c_s;&c_k;&c_i;&c_j;</trd>
+  <trd lng="vo">otulik</trd>
+</drv>
+</art>
+<!--
+$Log: oktobr.xml,v $
+Revision 1.34  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.33  2015/06/29 16:33:21  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.32  2013/09/06 18:10:21  revo
+Wolfram Diestel: ref-oj, lst monatoj
+
+Revision 1.31  2013/03/27 16:10:14  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.30  2010/05/07 16:30:26  revo
+Antonio Codazzi: ++ trd it
+
+Revision 1.29  2010/05/04 16:31:13  revo
+Agustin Garcia Lopez: +trk es
+
+Revision 1.28  2010/04/24 17:07:21  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.27  2009/07/05 16:39:50  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.26  2008/09/20 16:30:28  revo
+HIROTAKA Masaaki: +trd ja
+
+Revision 1.25  2007/01/10 17:30:34  revo
+-->
+</vortaro>

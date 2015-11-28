@@ -1,0 +1,168 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: debit.xml,v 1.16 2015/07/04 08:37:32 revo Exp $">
+<kap>
+  <rad>debit</rad>/o
+  <fnt>Z</fnt>
+</kap>
+<drv mrk="debit.0o">
+  <kap><tld/>o</kap>
+  <snc>
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      Facila podetala a&ubreve; pogranda vendado de varo:
+      <ekz>
+        tiu komerca&jcirc;o havas grandan <tld/>on.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_z;&c_b;&c_y;&c_t; <klr
+  tip="amb">(&c_t;&c_a;&c_v;&c_a;&c_r;&c_a;)</klr></trd>
+  <trdgrp lng="cs">
+    <trd>poptávka</trd>,
+    <trd>snadný odbyt</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Absatz</trd>,
+    <trd>Umsatz</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>product turnover</trd>,
+    <trd>sales turnover</trd>,
+    <trd>high sales</trd>,
+    <trd>high demand</trd>
+  </trdgrp>
+  <trd lng="fr">d&eacute;bit<klr tip="ind"> (vente de
+  marchandises)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>kereslet</trd>,
+    <trd>kelet<klr tip="ind"> (kereslet)</klr></trd>,
+    <trd>kelend&odblac;s&eacute;g</trd>,
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>afzet</trd>,
+    <trd>afname</trd>,
+    <trd>debiet</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>zbyt</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>venda</trd>,
+    <trd>sa&iacute;da f&aacute;cil</trd>,
+    <trd>boa <ind>aceita&ccedil;&atilde;o</ind><klr tip="amb">(de
+    mercadoria)</klr></trd>
+  </trdgrp>
+  <trd lng="ru">&c_s;&c_b;&c_y;&c_t;</trd>
+  <trd lng="sk">odbyt <klr>(obch.)</klr></trd>
+</drv>
+
+<drv mrk="debit.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      Detale (unuope) disvendadi.
+    </dif>
+  </snc>
+  <trd lng="be">&c_z;&c_b;&c_y;&c_v;&c_a;&c_c;&c_mol; <klr
+  tip="amb">(&c_t;&c_a;&c_v;&c_a;&c_r;)</klr></trd>
+  <trd lng="cs">prodávat v malém</trd>
+  <trdgrp lng="de">
+    <trd>absetzen</trd>,
+    <trd>umsetzen</trd>,
+    <trd>verkaufen</trd>,
+    <trd>vertreiben</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>sell individually</trd>,
+    <trd>sell retail</trd>
+  </trdgrp>
+  <trd lng="fr">d&eacute;biter<klr tip="ind"> (de la
+  marchandise)</klr></trd>
+  <trd lng="hu">kicsiben <ind>&aacute;rus&iacute;t</ind></trd>
+  <trdgrp lng="nl">
+    <trd>afzetten<klr tip="ind"> (verkopen)</klr></trd>,
+    <trd>verkopen</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>zbywa&cacute;</trd>,
+    <trd>sprzeda&zdot; detaliczna</trd>
+  </trdgrp>
+  <trd lng="ru">&c_s;&c_b;&c_y;&c_v;&c_a;&c_t;&c_mol;<klr tip="amb">
+  (&c_t;&c_o;&c_v;&c_a;&c_r;)</klr></trd>
+  <trd lng="sk">predávať v malom</trd>
+</drv>
+
+<drv mrk="debit.0ejo">
+  <kap><tld/>ejo</kap>
+  <snc>
+    <dif>
+      Butiko de podetala vendado.
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>krám</trd>,
+    <trd>prodejna v malém</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Einzelhandelsverkaufsstelle</trd>,
+    <trd>Laden</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>retail store</trd>
+  </trdgrp>
+  <trd lng="fr">d&eacute;bit<klr tip="ind"> (boutique)</klr></trd>
+  <trd lng="hu">kiskeresked&eacute;s<klr tip="ind"> (bolt)</klr></trd>
+  <trdgrp lng="nl">
+    <trd>kleinhandel</trd>,
+    <trd>detailhandel</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>sklep detaliczny</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_l;&c_a;&c_v;&c_o;&c_ch;&c_k;&c_a;</trd>,
+    <trd>&c_l;&c_a;&c_r;&c_jo;&c_k;</trd>,
+    <trd>&c_k;&c_i;&c_o;&c_s;&c_k;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>krám</trd>,
+    <trd>predajňa v malom</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: debit.xml,v $
+Revision 1.16  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.14  2010/01/18 17:31:11  revo
+Russ Williams: +trd en
+
+Revision 1.13  2009/08/30 16:31:01  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.12  2009/04/29 16:31:25  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.11  2008/11/02 17:30:46  revo
+Peter Hauser: aldono de germana traduko "Grad K"
+
+Revision 1.10  2007/07/15 16:31:03  revo
+Tulio Flores: +tr pt
+
+Revision 1.9  2005/04/12 16:32:26  revo
+Yury Finkel: +trd ru, formatigis
+
+Revision 1.8 2004/04/14 16:32:02 revo
+Dmitri Gabinski: +trd be
+
+Revision 1.7 2003/04/02 16:30:44 revo
+-->
+</vortaro>

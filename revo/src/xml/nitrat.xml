@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: nitrat.xml,v 1.6 2015/10/07 16:10:15 revo Exp $">
+<kap><rad>nitrat</rad>/o</kap>
+<drv mrk="nitrat.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">KEM</uzo>
+  <snc>
+    <dif>
+      Salo de <ref cel="nitrat.0a.acido">nitrata acido</ref>.
+    </dif>
+  </snc>
+  <trd lng="be">&c_n;&c_ib;&c_t;&c_r;&c_a;&c_t;</trd>
+  <trd lng="bg">&c_n;&c_i;&c_t;&c_r;&c_a;&c_t;</trd>
+  <trd lng="cs">dusi&ccaron;nan</trd>
+  <trd lng="de">Nitrat</trd>
+  <trd lng="en">nitrate</trd>
+  <trd lng="fr">nitrate</trd>
+  <trd lng="hu">nitr&aacute;t</trd>
+  <trd lng="nl">nitraat</trd>
+  <trd lng="pl">nitrat</trd>
+  <trd lng="pt">nitrato</trd>
+  <trd lng="ru">&c_n;&c_i;&c_t;&c_r;&c_a;&c_t;</trd>
+  <trd lng="sk">dusi&ccaron;nan</trd>
+  <trd lng="uk">&c_n;&c_ib;&c_t;&c_r;&c_a;&c_t;</trd>
+</drv>
+<drv mrk="nitrat.0a.acido">
+  <kap><tld/>a acido</kap>
+  <uzo tip="fak">KEM</uzo>
+  <snc>
+    <dif>
+      Tre aktiva neorganika <ref tip="super" cel="acid.0o">acido</ref>
+      (<frm>HNO<sub>3</sub></frm>), 
+      vaste uzata en industrio.
+    </dif>
+  </snc>
+  <ref tip="sin" cel="azot.0acido">azotacido</ref>
+  <trd lng="be">&c_a;&c_z;&c_o;&c_t;&c_n;&c_a;&c_ja; <ind>&c_k;&c_ib;&c_s;&c_l;&c_a;&c_t;&c_a;</ind></trd>
+  <trd lng="bg">&c_a;&c_z;&c_o;&c_t;&c_n;&c_a; &c_k;&c_i;&c_s;&c_je;&c_l;&c_i;&c_n;&c_a;</trd>
+  <trdgrp lng="de">
+	<trd>Salpeters&auml;ure</trd>,
+	<trd>Scheidewasser</trd>
+  </trdgrp>
+  <trd lng="en">azotic acid</trd>
+  <trd lng="pt">&aacute;cido n&iacute;trico</trd>
+  <trd lng="es">&aacute;cido <ind>n&iacute;trico</ind></trd>
+  <trd lng="fr">acide <ind>nitrique</ind></trd>
+  <trdgrp lng="hu">
+	<trd>sal&eacute;tromsav</trd>,
+	<trd>v&aacute;laszt&oacute;v&iacute;z</trd>
+  </trdgrp>
+  <trd lng="nl">salpeterzuur</trd>
+  <trd lng="pl">kwas azotowy</trd>
+  <trd lng="ru">&c_a;&c_z;&c_o;&c_t;&c_n;&c_a;&c_ja; &c_k;&c_i;&c_s;&c_l;&c_o;&c_t;&c_a;</trd>
+  <trd lng="uk">&c_a;&c_z;&c_o;&c_t;&c_n;&c_a; &c_k;&c_i;&c_s;&c_l;&c_o;&c_t;&c_a;</trd>
+  <trd lng="sk">kyselina dusi&ccaron;n&aacute;</trd>
+  <trd lng="cs">kyselina dusi&ccaron;n&aacute;</trd>
+</drv>
+
+</art>
+
+<!--
+$Log: nitrat.xml,v $
+Revision 1.6  2015/10/07 16:10:15  revo
+Joop Eggen: +trd bg
+
+Revision 1.5  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.4  2015/06/29 16:33:21  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.3  2009/07/08 16:31:00  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.2  2004/07/13 16:31:41  revo
+Gert Bolten Maizonave: +trd pt
+
+Revision 1.1  2004/07/12 16:47:01  revo
+Dmitri Gabinski: nova artikolo
+
+-->
+</vortaro>

@@ -1,0 +1,257 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: konjun.xml,v 1.31 2015/07/04 08:37:37 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>konjunkci</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="konjun.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="konjun.0o.GRA">
+    <uzo tip="fak">GRA</uzo>
+    <dif>
+      Senfleksia vorto uzata por kunigi du vortojn, du
+      propoziciojn a&ubreve; du frazojn, ekzemple:
+    </dif>
+    <ekz>
+    anstata&ubreve;, a&ubreve;, &ccirc;ar, &ccirc;u, do, ja, kaj, ke, krom, kvankam, kvaza&ubreve;,
+    minus, nek, nu, ol, plus, por, se,
+    sed, tamen.
+    </ekz>
+    <rim>
+    Kelkaj <tld/>oj devenas de la samnomaj <ref tip="dif"
+    cel="prepoz.0o.GRA">prepozicioj</ref>: <ekz>anstata&ubreve;,
+    krom,
+    por</ekz>.
+    </rim>
+    <trd lng="be">&c_z;&c_l;&c_u;&c_ch;&c_n;&c_ib;&c_k;</trd>
+    <trdgrp lng="de">
+      <trd>Konjunktion</trd>,
+      <trd>Bindewort</trd>
+    </trdgrp>
+    <trd lng="en">conjunction</trd>
+    <trd lng="es">conjunci&oacute;n</trd>
+    <trd lng="fr">conjonction</trd>
+    <trd lng="nl">voegwoord</trd>
+    <trd lng="pl">sp&oacute;jnik</trd>
+    <trd lng="pt">conjun&ccedil;&atilde;o</trd>
+    <trd lng="ru">&c_s;&c_o;&c_ju;&c_z;</trd>
+  </snc>
+  <snc mrk="konjun.0o.logika">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>MatVort</bib></fnt>
+    <dif>
+      <ref tip="super" cel="operac.logika0o">Logika operacio</ref>,
+      kiu al du <ref cel="propoz.0o.aserto">propozicioj</ref>
+      asocias la propozicion, kiu estas vera, se kaj nur se
+      amba&ubreve; estas veraj; rezulto de tiu operacio:
+      <ekz>
+        la <tld/>on de <frm>P</frm> kaj <frm>Q</frm> oni foje signas
+        per
+        <frm>P&#8743;Q</frm> <klr>(legu: po kaj kuo)</klr>.
+      </ekz>
+    </dif>
+    <bld lok="../bld/t_konjunkcio.svg.gif" lrg="150" alt="150">
+      vertabelo de <tld/>o
+    </bld>
+    <rim>
+      Pli esperanteca, tradicia kaj nemalkohera termino estas
+      <ref tip="sin" cel="kaj.0o">kajo</ref>. La uzo de la vorto
+      <tld/>o por nomi nur unu
+      <ref tip="super" cel="lig.0ilo.MAT">ligilon<sncref/></ref>
+      sekvas
+      mistradicion latinidan, kaj estas logike difekta en lingvoj,
+      kiuj per la sama nomo signas la pli &gcirc;eneralan koncepton
+      gramatikan (kaj Esperanto estas tia lingvo, &ccirc;ar la gramatika
+      senco de la vorto <tld/>o estas por &gcirc;i fundamenta &#8208; dum
+      la
+      uzo por nomi logikan operacion, tute fre&scirc;data: PIV1
+      &gcirc;in ne
+      konas). Ekz-e <ctl>kaj</ctl>, <ctl>a&ubreve;</ctl>, <ctl>se</ctl>
+      estas <tld/>oj<sncref ref="konjun.0o.GRA"/> &#8208; sed ial
+      (kial?!) nur <ctl>kaj</ctl> estas <tld/>o<sncref
+      ref="konjun.0o.logika"/>. Kiel pruvis diskuto en
+      soc.culture.esperanto, iuj latinidlingvaj esperantistoj
+      efektive konfuzas la sencon fundamentan kun la speciala
+      senco matematika.
+      <aut>S. Pokrovskij</aut>
+    </rim>
+    <trd
+    lng="be">&c_k;&c_a;&c_n;&c_mol;&c_ju;&c_n;&c_k;&c_c;&c_y;&c_ja;</trd>
+    <trdgrp lng="de">
+      <trd>Konjunktion</trd>,
+      <trd>logisches <ind>Produkt</ind></trd>
+    </trdgrp>
+    <trd lng="en">conjunction</trd>
+    <trdgrp lng="fr">
+      <trd>conjonction<klr tip="ind"> (produit logique)</klr></trd>,
+      <trd>produit logique</trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>koniunkcja</trd>,
+      <trd>iloczyn logiczny</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_k;&c_o;&c_n;&c_malmol;&c_ju;&c_n;&c_k;&c_c;&c_i;&c_ja;</trd>,
+      <trd>&c_o;&c_p;&c_je;&c_r;&c_a;&c_c;&c_i;&c_ja;
+      <ind>&c_I;</ind></trd>,
+      <trd>&c_l;&c_o;&c_g;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_o;&c_je;
+      <ind>&c_u;&c_m;&c_n;&c_o;&c_zh;&c_je;&c_n;&c_i;&c_je;</ind></trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>konjukce</trd>,
+    <trd>spojka</trd>
+  </trdgrp>
+  <trd lng="sk">konjunkcia</trd>
+</drv>
+
+<drv mrk="konjun.disiga0o">
+  <kap>disiga <tld/>o</kap>
+  <snc mrk="konjun.disiga0o.GRA">
+    <uzo tip="fak">GRA</uzo>
+    <dif>
+      Kunordiga <tld/>o, esprimanta tian rilaton inter
+      la kunigataj partoj, ke eblas ilia disigo a&ubreve; alternado;
+      ekzemple
+      <ekz>
+        a&ubreve;...a&ubreve;, jen...jen.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="en">disjunctive conjunction</trd>
+  <trd
+  lng="ru">&c_r;&c_a;&c_z;&c_d;&c_je;&c_l;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;
+  &c_s;&c_o;&c_ju;&c_z;</trd>
+</drv>
+
+<drv mrk="konjun.kontrauxmeta0o">
+  <kap>kontra&ubreve;meta <tld/>o</kap>
+  <snc mrk="konjun.kontrauxmeta0o.GRA">
+    <uzo tip="fak">GRA</uzo>
+    <dif>
+      Kunordiga <tld/>o, interliganta tiajn partojn, kiuj
+      aperas kiel kontra&ubreve;oj; ekzemple
+      <ekz>
+        sed, tamen.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="en">adversative conjunction</trd>
+  <trd lng="fr">conjonction d'opposition</trd>
+  <trd
+  lng="ru">&c_p;&c_r;&c_o;&c_t;&c_i;&c_v;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;
+  &c_s;&c_o;&c_ju;&c_z;</trd>
+</drv>
+
+<drv mrk="konjun.korelativaj0oj">
+  <kap>korelativaj <tld/>oj</kap>
+  <snc mrk="konjun.korelativaj0oj.GRA">
+    <uzo tip="fak">GRA</uzo>
+    <dif>
+      Paraj <tld/>oj; ekzemple
+      <ekz>
+        ju ... des, nek ... nek.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="en">adversative conjunction</trd>
+  <trd lng="fr">conjonction corr&#65533;lative</trd>
+  <trd
+  lng="ru">&c_p;&c_r;&c_o;&c_t;&c_i;&c_v;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;
+  &c_s;&c_o;&c_ju;&c_z;</trd>
+</drv>
+
+<drv mrk="konjun.kunordiga0o">
+  <kap>kunordiga <tld/>o</kap>
+  <snc mrk="konjun.kunordiga0o.GRA">
+    <uzo tip="fak">GRA</uzo>
+    <dif>
+      <tld lit="K"/>o, kiu kunigas samfunkciajn elementojn,
+      ekzemple
+      <ekz>
+        kaj, sed, a&ubreve;
+      </ekz>
+      kc.
+    </dif>
+  </snc>
+  <trdgrp lng="de">
+    <trd>beiordnende Konjunktion</trd>,
+    <trd>beiordnendes Bindewort</trd>
+  </trdgrp>
+  <trd lng="en">coordinating <ind>conjunction</ind></trd>
+  <trd lng="fr">conjonction de coordination</trd>
+  <trd lng="nl">nevenschikkend <ind>voegwoord</ind></trd>
+  <trd
+  lng="ru">&c_s;&c_o;&c_ch;&c_i;&c_n;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;
+  &c_s;&c_o;&c_ju;&c_z;</trd>
+  <trd lng="sk">priraďovacia spojka</trd>
+</drv>
+
+<drv mrk="konjun.subordiga0o">
+  <kap>subordiga <tld/>o, <var><kap>dependiga <tld/>o</kap></var></kap>
+  <snc mrk="konjun.subordiga0o.GRA">
+    <uzo tip="fak">GRA</uzo>
+    <dif>
+      <tld lit="K"/>o, kiu dependigas unu propozicion de alia,
+      ekzemple
+      <ekz>
+        ke, kvankam, se, anta&ubreve; ke, anta&ubreve; ol, anta&ubreve; kiam
+      </ekz>
+      kc.
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="subjunkci.0o.GRA">subjunkcio</ref>
+    </refgrp>
+  </snc>
+  <trd lng="cs">spojka podřadící</trd>
+  <trdgrp lng="de">
+    <trd>unterordnende Konjunktion</trd>,
+    <trd>unterordnendes Bindewort</trd>
+  </trdgrp>
+  <trd lng="en">subordinating <ind>conjunction</ind></trd>
+  <trdgrp lng="fr">
+    <trd>conjonction de subordination</trd>,
+    <trd>subjonction</trd>
+  </trdgrp>
+  <trd lng="nl">onderschikkend <ind>voegwoord</ind></trd>
+  <trd
+  lng="ru">&c_p;&c_o;&c_d;&c_ch;&c_i;&c_n;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;
+  &c_s;&c_o;&c_ju;&c_z;</trd>
+  <trd lng="sk">spojka podraďovacia</trd>
+</drv>
+</art>
+<!--
+$Log: konjun.xml,v $
+Revision 1.31  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.30  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.29  2014/04/15 20:10:13  revo
+Damien Brucker: +ekz (dauxrigo)
+
+Revision 1.28  2014/04/04 07:10:16  revo
+Damien Brucker: +ref
+
+Revision 1.27  2014/03/29 07:10:14  revo
+Damien Brucker: +rim
+
+Revision 1.26  2014/03/27 08:10:15  revo
+Damien Brucker: +trd fr
+
+Revision 1.25  2014/02/23 02:10:14  revo
+Damien Brucker: +ekz (dauxrigo)
+
+Revision 1.24  2014/02/22 17:10:13  revo
+Damien Brucker: +ekz (dauxrigo)
+
+Revision 1.23  2014/02/20 12:10:11  revo
+Damien Brucker: +ekz (dauxrigo)
+
+Revision 1.22  2014/02/18 13:10:31  revo
+-->
+</vortaro>

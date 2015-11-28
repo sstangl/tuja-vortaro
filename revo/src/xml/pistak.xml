@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: pistak.xml,v 1.24 2015/07/04 08:37:41 revo Exp $">
+<kap>
+   <ofc>*</ofc>
+   <rad>pistak</rad>/o
+</kap>
+<drv mrk="pistak.0o">
+   <kap><ofc>*</ofc><tld/>o</kap>
+   <snc>
+     <dif>
+       Verda migdaleca frukto de
+       <ref tip="malprt" cel="pistak.0ujo"><tld/>ujo</ref>,
+       uzata en dol&ccirc;a&jcirc;oj.
+     </dif>
+   </snc>
+  <trd lng="be">&c_f;&c_ib;&c_s;&c_t;&c_a;&c_sh;&c_k;&c_a;
+<klr>(&c_p;&c_l;&c_o;&c_d;)</klr></trd>
+  <trdgrp lng="br">
+     <trd>hogan-Spagn</trd>,
+     <trd>pistachezenn<klr tip="ind"> (frouezhenn)</klr></trd>
+   </trdgrp>
+  <trdgrp lng="ca">
+     <trd>festuc</trd>
+     <trd>pistatxo</trd>
+   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>pistácie</trd>,
+    <trd>pistáciový oříšek</trd>
+  </trdgrp>
+  <trd lng="de">Pistazie<klr tip="ind"> (Frucht)</klr></trd>
+  <trd lng="en">pistachio</trd>
+  <trd lng="es">pistacho</trd>
+  <trd lng="fr">pistache</trd>
+  <trd lng="hu">piszt&aacute;cia<klr tip="ind"> (term&eacute;s)</klr></trd>
+  <trd lng="nl">pistache</trd>
+  <trd lng="pt">pistache</trd>
+  <trd lng="ru">&c_f;&c_i;&c_s;&c_t;&c_a;&c_sh;&c_k;&c_a;</trd>
+  <trd lng="sk">pistácia</trd>
+  <trd lng="tr">f&inodot;st&inodot;k</trd>
+</drv>
+
+<drv mrk="pistak.0ujo">
+   <kap><tld/>ujo</kap>
+   <uzo tip="fak">BOT</uzo>
+   <snc>
+     <dif>
+       <ref tip="lst" cel="genr.0o.BIO"
+       lst="voko:botanikaj_genroj">Genro</ref> el familio <ref
+       tip="malprt"
+       cel="anakar1.0oj">anarkadiacoj</ref>
+       (<trd lng="la">Pistacia</trd>).
+     </dif>
+   </snc>
+  <trd lng="be">&c_f;&c_ib;&c_s;&c_t;&c_a;&c_sh;&c_k;&c_a;
+<klr>(&c_r;&c_a;&c_s;&c_mol;&c_l;&c_ib;&c_n;&c_a;)</klr></trd>
+  <trdgrp lng="br">
+     <trd>gwezenn-bistachez</trd>,
+     <trd>pistachezenn<klr tip="ind"> (gwezenn)</klr></trd>
+   </trdgrp>
+  <trdgrp lng="cs">
+    <trd>klokoš</trd>,
+    <trd>pistácie</trd>
+  </trdgrp>
+  <trd lng="de">Pistazie<klr tip="ind"> (Pflanze)</klr></trd>
+  <trd lng="en">pistachio</trd>
+  <trd lng="fr">pistachier</trd>
+  <trd lng="hu">piszt&aacute;ciafa</trd>
+  <trd lng="nl">pistacheboom</trd>
+  <trd lng="ru">&c_f;&c_i;&c_s;&c_t;&c_a;&c_sh;&c_k;&c_a; <klr
+tip="amb">(&c_r;&c_a;&c_s;&c_t;&c_je;&c_n;&c_i;&c_je;)</klr></trd>
+  <trd lng="sk">pistácia</trd>
+</drv>
+</art>
+<!--
+$Log: pistak.xml,v $
+Revision 1.24  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.23  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.22  2013/08/26 08:10:26  revo
+Wolfram Diestel: referenco al listo bot genroj
+
+Revision 1.21  2010/09/26 16:30:18  revo
+Emmanuel Debanne: +trd tr
+
+Revision 1.20  2007/06/10 16:31:22  revo
+Russ Williams: +trd en=pistachio
+
+Revision 1.19  2006/03/05 17:31:13  revo
+Tulio Flores: +tr pt
+
+Revision 1.18  2005/05/23 16:31:39  revo
+Alan ar Gall: kor trd br
+
+Revision 1.17  2005/05/03 16:31:13  revo
+Alan ar Gall: +trd br
+
+Revision 1.16  2005/05/02 16:31:13  revo
+Lluis Batlle i Rossell: +trd ca,es
+
+Revision 1.15  2004/04/18 16:31:56  revo
+-->
+</vortaro>

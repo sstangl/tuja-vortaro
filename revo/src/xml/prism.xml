@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: prism.xml,v 1.21 2015/07/04 08:37:42 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>prism</rad>/o
+</kap>
+<drv mrk="prism.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>MatTerm</bib><lok>p. 30</lok></fnt>
+  <snc mrk="prism.0o.figuro">
+    <dif>
+      <ref tip="super" cel="edr.plur0o">Pluredro</ref>, el kiu du facoj
+      estas egalaj <ref cel="later.plur0o">plurlateroj</ref>
+      kun duope paralelaj lateroj, sur kiuj estas konstruitaj
+      <ref cel="parale2.0o">paralelogramoj</ref>, konsistigantaj la
+      ceterajn facojn.
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_r;&c_y;&c_z;&c_m;&c_a;</trd>
+  <trd lng="ca">prisma</trd>
+  <trdgrp lng="cs">
+    <trd>hranol</trd>,
+    <trd>prisma</trd>,
+    <trd>prizma</trd>
+  </trdgrp>
+  <trd lng="de">Prisma</trd>
+  <trd lng="en">prism</trd>
+  <trd lng="es">prisma</trd>
+  <trd lng="fa">&a_m;&a_n;&a_sh;&a_w;&a_r;<klr tip="ind"> (&a_h;&a_n;&a_d;&a_s;&a_h;)</klr></trd>
+  <trd lng="fr">prisme</trd>
+  <trdgrp lng="hu">
+    <trd>has&aacute;b</trd>,
+    <trd>prizma</trd>
+  </trdgrp>
+  <trd lng="nl">prisma</trd>
+  <trd lng="pl">graniastos&lstroke;up</trd>
+  <trd lng="pt">prisma</trd>
+  <trd lng="ru">&c_p;&c_r;&c_i;&c_z;&c_m;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>hranol</trd>,
+    <trd>prizma</trd>
+  </trdgrp>
+  <trd lng="sv">prisma</trd>
+</drv>
+</art>
+<!--
+$Log: prism.xml,v $
+Revision 1.21  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.19  2010/05/04 16:30:44  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.18  2006/03/20 17:33:20  revo
+Tulio Flores: +tr pt
+
+Revision 1.17  2005/04/14 16:33:20  revo
+Raul Salinas Monteagudo: +trd ca,es
+
+Revision 1.16  2004/11/28 19:44:17  revo
+Marc Bavant: kor dif
+
+Revision 1.15  2004/08/24 16:32:55  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.14  2003/07/19 16:31:50  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.13  2003/01/02 17:50:14  revo
+Marc Bavant: +trd pl
+
+Revision 1.12  2002/03/17 17:31:51  revo
+-->
+</vortaro>

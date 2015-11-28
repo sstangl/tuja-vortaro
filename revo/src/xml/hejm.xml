@@ -1,0 +1,588 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: hejm.xml,v 1.36 2015/07/04 08:37:35 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>hejm</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="hejm.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="hejm.0o.KOMUNE">
+    <dif>
+      Loko, lo&gcirc;ejo a&ubreve; konstrua&jcirc;o en kiu koncernulo
+      vivas konstante, precipe la familia restadejo:
+      <ekz>
+        vagulo ne havanta <tld/>on<fnt>B</fnt>;
+      </ekz>
+      <ekz>
+        Jehuda estis <ind>el<tld/>igi</ind>ta el sia lando
+        <fnt><bib>MT</bib>, <lok>&Re2; 25:21</lok></fnt>.
+        <trd lng="fr">expulser<klr tip="ind"> (de son domicile)</klr>
+        </trd>
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="dom.0o">domo</ref>,
+      <ref cel="famili.0o">familio</ref>,
+      <ref cel="mastr.0umi">mastrumi</ref>
+    </refgrp>
+    <trd lng="es">hogar</trd> 
+    <trd lng="hu">otthon</trd>
+    <trd lng="it">casa<klr tip="amb"> (propria dimora)</klr></trd>
+    <trdgrp lng="pl">
+      <trd>dom<klr> (rodzinny)</klr></trd>,
+      <trd>pielesze</trd>,
+      <trd>ognisko domowe</trd>
+    </trdgrp>
+    <trd lng="pt">lar</trd>
+    <trdgrp lng="ru">
+      <trd>&c_d;&c_o;&c_m; <klr>(&c_s;&c_v;&c_o;&c_j;,
+      &c_r;&c_o;&c_d;&c_n;&c_o;&c_j;)</klr></trd>,
+      <trd>&c_d;&c_o;&c_m;&c_a;&c_sh;&c_n;&c_i;&c_j;
+      &c_o;&c_ch;&c_a;&c_g;</trd>
+    </trdgrp>
+    <trd lng="tp">tomo</trd>
+  </snc>
+  <snc mrk="hejm.0o.TEK">
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+       Komenca, deira a&ubreve; normala pozicio:
+       <ekz>
+         <uzo tip="fak">KOMP</uzo>
+         en TTT, <ind><tld/>pa&gcirc;o</ind> estas tiu hiperteksta
+         pa&gcirc;o per kiu oni komencas esplori ies pa&gcirc;aron;
+         <trd lng="en">home page</trd>
+         <trdgrp lng="fr">
+            <trd>page d'accueil</trd>,
+            <trd>page principale</trd>,
+            <trd>vitrine</trd>
+         </trdgrp>
+         <trd lng="hu">honlap</trd>
+         <trd lng="it">pagina iniziale</trd>
+         <trd lng="pl">strona <ind>domowa</ind></trd>
+         <trd lng="pt">p&aacute;gina inicial</trd>
+         <trd lng="ru">&c_d;&c_o;&c_m;&c_a;&c_sh;&c_n;&c_ja;&c_ja;
+         &c_s;&c_t;&c_r;&c_a;&c_n;&c_i;&c_ch;&c_k;&c_a;</trd>
+       </ekz><ekz>
+          <uzo tip="fak">KOMP</uzo>
+          la &leftquot;<ind><tld/>en-klavo</ind>&rightquot; movas la
+          kursoron en ties &leftquot;<tld/>an
+          pozicion&rightquot;, al la komenco de linio a&ubreve; ekrano.
+          <trd lng="en">home key</trd>
+          <trd lng="it">inizio<klr tip="amb"> (tasto
+          computer)</klr></trd>
+          <trd lng="hu">home-billenty&udblac;</trd>
+       </ekz>
+     </dif>
+     <trdgrp lng="de">
+       <trd>Anfangsposition</trd>,
+       <trd>Anfangsstellung</trd>,
+       <trd>Nulllage</trd>
+     </trdgrp>
+     <trdgrp lng="hu">
+       <trd>home</trd>,
+       <trd>kiindul&aacute;si pont</trd>
+     </trdgrp>
+     <trd lng="it">home<klr tip="amb"> (inf.)</klr></trd>
+     <trdgrp lng="pl">
+       <trd>pozycja <ind>wyj&sacute;ciowa</ind></trd>,
+       <trd>pozycja <ind>spoczynkowa</ind></trd>,
+       <trd>po&lstroke;o&zdot;enie <ind>wyj&sacute;ciowe</ind></trd>,
+       <trd>po&lstroke;o&zdot;enie <ind>spoczynkowe</ind></trd>
+     </trdgrp>
+     <trdgrp lng="ru">
+       <trd>&c_n;&c_a;&c_ch;&c_a;&c_l;&c_o;</trd>,
+       <trd>&c_i;&c_s;&c_h;&c_o;&c_d;&c_n;&c_a;&c_ja;
+       &c_p;&c_o;&c_z;&c_i;&c_c;&c_i;&c_ja;</trd>,
+       <trd>&c_n;&c_o;&c_r;&c_m;&c_a;&c_l;&c_mol;&c_n;&c_o;&c_je;
+       &c_p;&c_o;&c_l;&c_o;&c_zh;&c_je;&c_n;&c_i;&c_je;</trd>
+     </trdgrp>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>domov</trd>,
+    <trd>výchozí pozice <klr>(kurzoru)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Zuhause</trd>,
+    <trd>Heim</trd>
+  </trdgrp>
+  <trd lng="en">home</trd>
+  <trdgrp lng="fr">
+    <trd>chez-soi</trd>,
+    <trd>appartement<klr tip="ind"> (chez-soi)</klr></trd>,
+    <trd>domicile<klr tip="ind"> (chez-soi)</klr></trd>,
+    <trd>foyer<klr tip="ind"> (chez-soi)</klr></trd>,
+    <trd>maison<klr tip="ind"> (chez-soi)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>thuis</trd>,
+    <trd>tehuis</trd>
+  </trdgrp>
+  <trd lng="no">hjem</trd>
+  <trd lng="sk">východzia pozícia <klr>(kurzoru)</klr></trd>
+  <trd lng="sv">hem</trd>
+</drv>
+
+<drv mrk="hejm.0a">
+  <kap><tld/>a</kap>
+  <snc>
+    <dif>
+      De <tld/>o, rilata al <tld/>o:
+      <ekz>
+        <tld/>a lando, lingvo;
+      </ekz>
+      <ekz>
+        nia lingvo estas al ili <tld/>a<fnt>Z</fnt>
+        <klr>(malfremda)</klr>;
+      </ekz>
+      <ekz>
+        <tld/>a <klr>(negli&gcirc;a)</klr> vesto;
+      </ekz>
+      <ekz><tld/>a dometo estas kiel patrineto
+        <fnt><bib>PrV</bib></fnt></ekz>
+      <ekz>
+        <tld/>aj dia&jcirc;oj.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="famili1.0a">familiara</ref>,
+      <ref cel="intim.0a">intima</ref>.
+    </refgrp>
+    <trdgrp lng="hu">
+      <trd>otthoni</trd>,
+      <trd>honi</trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>domowy</trd>,
+      <trd>rodzinny</trd>,
+      <trd>ojczysty</trd>
+    </trdgrp>
+  </snc>
+  <snc>
+    <dif>
+      Vivanta &ccirc;e <tld/>o:
+      <ekz>
+        <ind><tld/>a besto</ind>;
+        <trd lng="de">Haustier</trd>
+        <trd lng="fr">animal domestique</trd>
+        <trd lng="hu">h&aacute;zi&aacute;llat</trd>
+        <trd lng="nl">huisdier</trd>
+        <trd lng="no">husdyr</trd>
+        <trd lng="pl">zwierz&eogonek; <ind>domowe</ind></trd>
+        <trd lng="ru">&c_d;&c_o;&c_m;&c_a;&c_sh;&c_n;&c_je;&c_je;
+        &c_zh;&c_i;&c_v;&c_o;&c_t;&c_n;&c_o;&c_je;</trd>
+      </ekz>
+      <ekz>
+        <tld/>aj katoj, &scirc;afinoj<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="sovagx.mal0a">malsova&gcirc;a</ref>.
+    </refgrp>
+    <trd lng="hu">h&aacute;zi</trd>
+    <trd lng="pl">domowy</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>domácký</trd>,
+    <trd>útulný</trd>
+  </trdgrp>
+  <trd lng="es">dom&eacute;stico</trd>
+  <trdgrp lng="fr">
+    <trd>domestique</trd>,
+    <trd>familier</trd>
+  </trdgrp>
+  <trdgrp lng="it">
+    <trd>domestico<klr tip="amb"> (agg.)</klr></trd>, 
+    <trd>casalingo</trd>,
+    <trd>famigliare</trd>, <trd>familiare</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>thuis</trd>,
+    <trd>huis-</trd>
+  </trdgrp>
+  <trd lng="no">hus-</trd>
+  <trd lng="pt">dom&eacute;stico</trd>
+  <trd lng="ru">&c_d;&c_o;&c_m;&c_a;&c_sh;&c_n;&c_i;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>domácky</trd>,
+    <trd>útulný</trd>
+  </trdgrp>
+  <trd lng="tp">tomo</trd>
+</drv>
+
+<drv mrk="hejm.0e">
+  <kap><tld/>e</kap>
+  <snc>
+    <dif>
+      En sia <tld/>o:
+      <ekz>
+        &ccirc;u s-ro N. estas <tld/>e?;
+      </ekz>
+      <ekz>
+        reveni <tld/>en;
+      </ekz>
+      <ekz>
+        senti sin kiel <tld/>e
+        <klr>(ne &gcirc;eni sin, sidi komforte)</klr>;
+      </ekz>
+      <ekz>
+        al &scirc;i fari&gcirc;is en la koro ankora&ubreve; pli agrable
+        kaj <tld/>e<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        tiu &ccirc;i ideo en la publiko ne estas tiel <tld/>e <klr>
+        (kutime akceptata)</klr>, kiel &gcirc;i devos esti<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">doma</trd>
+  <trd lng="de">zuhause</trd>
+  <trdgrp lng="fr">
+    <trd>&agrave; la <ind>maison</ind></trd>,
+    <trd>chez soi</trd>
+  </trdgrp>
+  <trd lng="hu">otthon</trd>
+  <trd lng="nl">thuis</trd>
+  <trd lng="no">hjemme</trd>
+  <trdgrp lng="pl">
+    <trd>w <ind>domu</ind></trd>,
+    <trd>u <ind>siebie</ind></trd>
+  </trdgrp>
+  <trd lng="pt">em <ind>casa</ind><klr tip="ind"> (adv.)</klr></trd>
+  <trd lng="ru">&c_d;&c_o;&c_m;&c_a;</trd>
+  <trd lng="sk">doma</trd>
+  <trd lng="sv">hemma</trd>
+</drv>
+
+<drv mrk="hejm.0i">
+  <kap><tld/>i</kap>
+  <snc mrk="hejm.0i.KOMUNE">
+    <dif>
+      Resti en <tld/>o:
+      <ekz>
+        domo, en kiu mia familio <tld/>is
+        <fnt>
+          <aut>-</aut>,
+          <vrk><url ref="http://es.chinabroadcast.cn">
+          Libro Flosa, Son&gcirc;o Flua</url></vrk>,
+          <lok>&Ccirc;ina Radio Internacia, 2007-11-23</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="hejm.0i.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Esti en sia normala, konvena loko a&ubreve; medio:
+      <ekz>
+        <tld/>as anka&ubreve; en la franca tiu dirmaniero
+        <fnt>
+          <aut>Filu</aut>,
+          <vrk>-</vrk>,
+          <lok>lernu.net, 2007-02</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="es">estar es casa</trd>
+  <trdgrp lng="fr">
+    <trd>&ecirc;tre &agrave; la maison</trd>,
+    <trd>&ecirc;tre chez soi</trd>
+  </trdgrp>
+  <trd lng="it">stare a <ind>casa</ind></trd>
+  <trdgrp lng="pl">
+    <trd>by&cacute; w <ind>domu</ind></trd>,
+    <trd>by&cacute; u <klr>siebie</klr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="hejm.0eca">
+  <kap><tld/>eca<fnt>Z</fnt></kap>
+  <snc mrk="hejm.0eca.KOMUNE">
+    <dif>
+      Kvaza&ubreve; <tld/>a.
+    </dif>
+    <ref tip="vid" cel="komfor.0a">komforta</ref>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>domácký</trd>,
+    <trd>útulný</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>hogare&ntilde;o</trd>,
+    <trd>casero</trd>
+  </trdgrp>
+  <trd lng="fr">familier</trd>
+  <trd lng="hu">otthonos</trd>
+  <trdgrp lng="it">
+    <trd>domestico<klr tip="amb"> (agg.)</klr></trd>, 
+    <trd>casalingo</trd>,
+    <trd>famigliare</trd>, <trd>familiare</trd>
+  </trdgrp>
+  <trd lng="nl">huiselijk</trd>
+  <trdgrp lng="pl">
+    <trd>domowy</trd>,
+    <trd>jak u <ind>mamy</ind></trd>,
+    <trd>przytulny</trd>,
+    <trd>familiarny</trd>,
+    <trd>znajomy</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_d;&c_o;&c_m;&c_a;&c_sh;&c_n;&c_i;&c_j;</trd>,
+    <trd>&c_s;&c_je;&c_m;&c_je;&c_j;&c_n;&c_y;&c_j;</trd>,
+    <trd>&c_i;&c_n;&c_t;&c_i;&c_m;&c_n;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>domácky</trd>,
+    <trd>útulný</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="hejm.0igita">
+  <kap><tld/>igita</kap>
+  <snc mrk="hejm.0igita.KOMUNE">
+    <ref tip="dif" cel="sovagx.mal0a">malsova&gcirc;a</ref>
+  </snc>
+  <trd lng="fr">apprivois&eacute;</trd>
+  <trdgrp lng="pl">
+    <trd>udomowiony<klr> (o zwierz&eogonek;ciu)</klr></trd>,
+    <trd>oswojony<klr> (o zwierz&eogonek;ciu lub
+    cz&lstroke;owieku)</klr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="hejm.0igxi">
+  <kap>
+    <tld/>i&gcirc;i,
+    <var>
+      <kap>en<tld/>i&gcirc;i</kap>
+    </var>
+  </kap>
+  <snc mrk="hejm.0igxi.KOMUNE">
+    <dif>
+      Fari iun lokon sia <tld/>o.
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="logx.en0igxi">enlo&gcirc;i&gcirc;i</ref>,
+      <ref cel="instal.0igxi">instali&gcirc;i</ref>
+    </refgrp>
+  </snc>
+  <snc mrk="hejm.0igxi.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Adapti&gcirc;i al iu loko, medio:
+      <ekz>
+        post kelkaj tagoj li plene <tld/>i&gcirc;is inter la fulgonigraj
+        viroj de la <klr>...</klr> uzinoj
+        <fnt>
+          <aut>S. Engholm</aut>,
+          <vrk>Al Torento</vrk>,
+          <lok>1930</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ili ne povis, a&ubreve; ne volis adapti&gcirc;i,
+        en<tld/>i&gcirc;i
+        <fnt>
+          <aut>J. Drahotov&aacute;</aut>,
+          <vrk>Miskompreniga</vrk>,
+          <bib>Monato</bib>,
+          <lok>[2001]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="akomod.0igxi">akomodi&gcirc;i</ref>,
+      <ref cel="komfor.0igxi">komforti&gcirc;i</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="fr">
+    <trd>s'<ind>acclimater</ind><klr> (fig.)</klr></trd>,
+    <trd>s'<ind>installer</ind></trd>
+  </trdgrp>
+  <trd lng="pl">zadomawia&cacute; si&eogonek;</trd>
+</drv>
+
+<drv mrk="hejm.el0igxi">
+  <kap>el<tld/>i&gcirc;i</kap>
+  <snc mrk="hejm.el0igxi.KOMUNE">
+    <dif>
+      Eliri el sia <tld/>o:
+      <ekz>
+        Fradeko el<tld/>i&gcirc;is matene
+        <fnt>
+          <aut>H. Vallienne</aut>,
+          <vrk>&Ccirc;u li?</vrk>,
+          <lok>1908</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">sortir de chez soi</trd>
+  <trd lng="it">uscire di <ind>casa</ind></trd>
+  <trdgrp lng="pl">
+    <trd>wychodzi&cacute; z domu</trd>,
+    <trd>opuszcza&cacute; dom</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="hejm.re0igxi">
+  <kap>re<tld/>i&gcirc;i</kap>
+  <snc mrk="hejm.re0igxi.KOMUNE">
+    <dif>
+      Reiri en sian <tld/>on:
+      <ekz>
+        San&hcirc;erib, la re&gcirc;o de Asirio, elmovi&gcirc;is kaj
+        iris kaj re<tld/>i&gcirc;is kaj restis en Nineve
+        <fnt><bib>MT</bib>, <lok>&Re2; 19:36</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="fr">
+    <trd>rentrer &agrave; la maison</trd>,
+    <trd>revenir chez soi</trd>
+  </trdgrp>
+  <trd lng="it">rincasare</trd>
+  <trdgrp lng="pl">
+    <trd>wchodzi&cacute; do domu</trd>,
+    <trd>wraca&cacute; do domu</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="hejm.sen0ulo">
+  <kap>sen<tld/>ulo</kap>
+  <snc mrk="hejm.sen0ulo.KOMUNE">
+    <dif>
+      Vagulo.
+    </dif>
+  </snc>
+  <trd lng="cs">bezdomovec</trd>
+  <trd lng="de">Obdachloser</trd>
+  <trdgrp lng="fr">
+    <trd>sans-abri<klr> (subst.)</klr></trd>,
+    <trd>sans-logis<klr> (subst.)</klr></trd>,
+    <trd>SDF</trd>,
+    <trd>vagabond<klr> (subst.)</klr></trd>
+  </trdgrp>
+  <trd lng="hu">hajl&eacute;ktalan</trd>
+  <trd lng="it">senza fissa <ind>dimora</ind></trd>
+  <trd lng="nl">dakloze</trd>
+  <trd lng="no">husl&oslash;se</trd>
+  <trdgrp lng="pl">
+    <trd>bezdomny</trd>,
+    <trd>w&lstroke;&oacute;cz&eogonek;ga</trd>
+  </trdgrp>
+  <trd lng="pt">sem-teto</trd>
+  <trd lng="ru">&c_b;&c_je;&c_z;&c_d;&c_o;&c_m;&c_n;&c_y;&c_j;
+  <klr>(&c_s;&c_u;&c_shch;.)</klr></trd>
+  <trd lng="sk">bezdomovec</trd>
+  <trd lng="sv">heml&ouml;s</trd>
+</drv>
+
+<drv mrk="hejm.fiks0a">
+  <kap>fiks<tld/>a</kap>
+  <snc mrk="hejm.fiks0a.MOR">
+    <dif>
+      Mal<ref tip="ant" cel="nomad.0a.MOR">nomada</ref>,
+      ne <ref tip="ant" cel="migr.0a">migra</ref>,
+      <ref tip="sin" cel="sid.lok0a.MOR">loksida</ref>,
+      kies <tld/>o estas fiksita en difinita loko,
+      kontraste al la nomadoj, kiuj kunportas sian
+      <tld/>on dum siaj migradoj:
+      <ekz>
+        konstanta fiks<tld/>a lo&gcirc;anto
+        <fnt><bib>Homaranismo</bib></fnt>;
+      </ekz>
+      <ekz>
+        la beduenoj kontraste al la fiks<tld/>aj araboj.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">usedlý</trd>
+  <trdgrp lng="de">
+     <trd>sesshaft</trd>,
+     <trd>bodenst&auml;ndig</trd>
+  </trdgrp>
+  <trd lng="es">sedentario<klr tip="amb"> (opuesto a
+  n&oacute;mada)</klr></trd>
+  <trdgrp lng="fr">
+    <trd>s&eacute;dentaire<klr tip="ind">
+    (par opp. &agrave; nomade)</klr></trd>
+  </trdgrp>
+  <trd lng="hu">letelepedett</trd>
+  <trd lng="it">stanziale</trd>
+  <trd lng="nl">vasthuizig</trd>
+  <trd lng="pl">osiad&lstroke;y</trd>
+  <trd lng="pt">sedent&aacute;rio<klr tip="amb">
+  (de resid&ecirc;ncia fixa)</klr></trd>
+  <trd lng="ru">&c_o;&c_s;&c_je;&c_d;&c_l;&c_y;&c_j;</trd>
+  <trd lng="sk">usadený</trd>
+</drv>
+
+<drv mrk="hejm.0ama">
+  <kap><tld/>ama</kap>
+  <snc mrk="hejm.0ama.MOR">
+    <ref tip="dif" cel="sid.hejmo0a.MOR">hejmosida</ref>
+  </snc>
+  <trd lng="de">h&auml;uslich</trd>
+  <trdgrp lng="es">
+    <trd>hogare&ntilde;o<klr tip="amb"> (que sale poco de
+    casa)</klr></trd>,
+    <trd>casero<klr tip="amb"> (que sale poco de casa)</klr></trd>
+  </trdgrp>  
+  <trdgrp lng="fr">
+    <trd>casanier</trd>,
+    <trd>pantouflard</trd>,
+    <trd>s&eacute;dentaire<klr tip="ind"> (casanier)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>otthon&uuml;l&odblac;</trd>,
+    <trd>otthonszeret&odblac;</trd>
+  </trdgrp>
+  <trdgrp lng="it">
+    <trd>casalingo</trd>,
+    <trd>pantofolaio<klr> (fig.)</klr></trd>
+  </trdgrp>
+  <trd lng="nl">huiselijk</trd>
+  <trd lng="pl">domatorski</trd>
+  <trd lng="pt">caseiro<klr tip="ind"> (adj.)</klr></trd>
+  <trdgrp lng="ru">
+    <trd>&c_d;&c_o;&c_m;&c_o;&c_s;&c_je;&c_d;&c_n;&c_y;&c_j;</trd>,
+    <trd>&c_l;&c_ju;&c_b;&c_ja;&c_shch;&c_i;&c_j; &c_s;&c_i;&c_d;&c_je;&c_t;&c_mol; &c_d;&c_o;&c_m;&c_a;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: hejm.xml,v $
+Revision 1.36  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.35  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.34  2013/02/04 17:10:10  revo
+Jeromo Vasxe: + lok~a
+
+Revision 1.33  2011/06/22 18:10:37  revo
+Sebastian Cyprych: +~igita +trd pl
+
+Revision 1.32  2011/01/04 21:10:10  revo
+Jeromo Vasxe: kor. 1 fusxitan fnt
+
+Revision 1.31  2010/10/08 16:30:16  revo
+Agustin Garcia Lopez: +trd es (-i)
+
+Revision 1.30  2010/01/25 17:30:28  revo
+ Filip van Laenen: Tradukoj en norvegan
+
+Revision 1.29  2009/12/20 17:30:43  revo
+Carlos Garcia: +trd es -o -a -eca fiks-a -ama
+
+Revision 1.28  2009/09/03 16:31:10  revo
+Antonio Codazzi: +trd it
+
+Revision 1.27  2008/04/23 16:30:21  revo
+-->
+</vortaro>

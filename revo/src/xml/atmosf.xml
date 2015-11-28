@@ -1,0 +1,120 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: atmosf.xml,v 1.27 2015/07/04 08:37:31 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>atmosfer</rad>/o
+</kap>
+<drv mrk="atmosf.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="atmosf.0o.AST">
+    <uzo tip="fak">AST</uzo>
+    <uzo tip="fak">MET</uzo>
+    <dif>
+      Gasa maso &ccirc;irka&ubreve;anta astron, kaj interalie Teron.
+    </dif>
+    <trdgrp lng="hu">
+      <trd>l&eacute;gk&ouml;r</trd>,
+      <trd>atmoszf&eacute;ra</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="atmosf.0o.etoso">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      &Ccirc;irka&ubreve;antaj cirkonstancoj, medio:
+      <ekz>
+        vivi en <tld/>o de malvirto;
+      </ekz>
+      <ekz>
+        la traktadoj okazas en favora <tld/>o;
+      </ekz>
+      <ekz>
+        la sufoka <tld/>o de homa malamo;
+      </ekz>
+      <ekz>
+        krei ne&ubreve;tralan <tld/>on de tutmonda homareco
+        <fnt><bib>Aventuroj</bib>, <lok>&ccirc;apitro 2a, p. 17a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="etos.0o">etoso</ref>,
+      <ref cel="sfer.0o">sfero</ref>.
+    </refgrp>
+    <trdgrp lng="hu">
+      <trd>k&ouml;zeg</trd>,
+      <trd>l&eacute;gk&ouml;r</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="atmosf.0o.unuo">
+    <uzo tip="fak">FIZ</uzo>
+    <mlg>atm</mlg>
+    <dif>
+      Komunuza <ref tip="lst" cel="unu.mezur0o"
+      lst="voko:mezurunuoj">mezurunuo</ref> de
+      <ref cel="prem.0o.FIZ">premo</ref>, egala al la premo de kolono el
+      hidrargo, alta je 0,76 m, &ccirc;e normala graviteco kaj
+      temperaturo 0 &#730;C:
+      <ekz>
+        unu <tld/>o egalas al 1,013.10<sup>5</sup>
+        <ref cel="paskal.p0o">paskaloj</ref>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_a;&c_t;&c_m;&c_a;&c_s;&c_f;&c_e;&c_r;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>atmosféra</trd>,
+    <trd>ovzduší</trd>,
+    <trd>povětří</trd>
+  </trdgrp>
+  <trd lng="de">Atmosph&auml;re</trd>
+  <trd lng="en">atmosphere</trd>
+  <trd lng="es">atm&oacute;sfera</trd>
+  <trd lng="fr">atmosph&egrave;re</trd>
+  <trd lng="id">atmosfer</trd>
+  <trd lng="it">atmosfera</trd>
+  <trd lng="nl">atmosfeer</trd>
+  <trd lng="pl">atmosfera</trd>
+  <trd lng="ru">&c_a;&c_t;&c_m;&c_o;&c_s;&c_f;&c_je;&c_r;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>atmosf&eacute;ra</trd>,
+    <trd>ovzdušie</trd>,
+    <trd>povetrie</trd>
+  </trdgrp>
+  <trd lng="sv">atmosf&auml;r</trd>
+</drv>
+</art>
+<!--
+$Log: atmosf.xml,v $
+Revision 1.27  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.26  2015/06/28 12:03:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.25  2014/07/01 17:10:34  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.24  2013/09/15 11:10:29  revo
+Wolfram Diestel: ref al lst mezurunuoj
+
+Revision 1.23  2012/01/26 12:10:13  revo
+Antonio Codazzi: +trd it
+
+Revision 1.22  2008/05/27 16:30:52  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.21  2004/08/23 16:32:03  revo
+Marc Bavant: ~o (mezurunuo): mod dif
+
+Revision 1.20  2003/11/14 17:30:54  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.19  2003/09/12 16:31:18  revo
+Jeromo Vasxe: + 1 ekz
+
+Revision 1.18 2002/09/15 16:30:55 revo
+-->
+</vortaro>

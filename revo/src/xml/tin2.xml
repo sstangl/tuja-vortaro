@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: tin2.xml,v 1.8 2013/10/30 02:10:14 revo Exp $">
+<kap>
+  <rad>tin</rad> <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="tin2.00">
+  <kap><tld/>&nbsp;<tld/>,
+  <var><kap><tld/>&nbsp;<tld/>&nbsp;<tld/></kap></var></kap>
+  <gra><vspec>sonimito</vspec></gra>
+  <snc mrk="tin2.00.SON">
+    <dif>
+      <ref tip="lst" cel="son.0o" lst="voko:sonoj">Sono</ref>
+      de iom akuta <ref tip="vid" cel="tint.0o">tinto</ref>,
+      ekzemple tiu de batata metala&jcirc;o:
+      <ekz>
+        &leftquot;<tld/>, <tld/>&rightquot; sonoris la sonoriletoj
+        <fnt><bib>Fab2</bib>, <lok>ne&gcirc;a re&gcirc;ino</lok></fnt>;
+      </ekz>
+      <ekz>
+        la veturiloj veturis, la azenoj iris...
+        <tld/>-<tld/>-<tld/>, &ccirc;ar ili portis sonoriletojn
+        <fnt><bib>Fab2</bib>, <lok>la ombro</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="fr">
+    <trd>drelin-drelin</trd>,
+    <trd>ding-dong</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>dzy&nacute;-dzy&nacute;</trd>,
+    <trd>ding-dong</trd>,
+    <trd>brzd&eogonek;k-brzd&eogonek;k</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>ding-dong</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_d;&c_i;&c_n;&c_mol;-&c_d;&c_i;&c_n;&c_mol;</trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log: tin2.xml,v $
+Revision 1.8  2013/10/30 02:10:14  revo
+Jeromo Vasxe: uzo de tld kun nerompebla spaco
+
+Revision 1.7  2013/10/15 20:10:25  revo
+Jeromo Vasxe: ref al lst sonoj
+
+Revision 1.6  2012/10/30 12:10:08  revo
+Valentin Safonnikov: +trd ru
+
+Revision 1.5  2011/06/11 17:10:10  revo
+Jeromo Vasxe: + ~-~-~
+
+Revision 1.4  2009/01/05 18:13:01  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.3  2006/02/15 17:34:42  revo
+Tulio Flores: +trd pt
+
+Revision 1.2  2005/03/08 18:48:59  revo
+Jeromo Vasxe: kor mrk
+
+Revision 1.1  2005/03/06 17:38:00  revo
+-->
+</vortaro>

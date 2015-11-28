@@ -1,0 +1,155 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: partik2.xml,v 1.19 2015/07/04 08:37:41 revo Exp $">
+<kap>
+  <rad>partikl</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="partik2.0o">
+  <kap><tld/>o</kap>
+  <tezrad fak="FIZ"/>
+  <snc mrk="partik2.0o.FIZ">
+    <uzo tip="fak">FIZ</uzo>
+    <dif>
+      Plej malgranda konata ero de fizika materio.
+    </dif>
+    <refgrp tip="sub">
+      <ref cel="foton.0o">fotono</ref>,
+      <ref cel="hadron.0o">hadrono</ref>,
+      <ref cel="lepton.0o">leptono</ref>
+    </refgrp>
+    <refgrp tip="vid">
+      <ref cel="boson.0o">bosono</ref>,
+      <ref cel="fermion.0o">fermiono</ref>,
+      <ref cel="kvark.0o">kvarko</ref>,
+      <ref cel="kvantum.0o">kvantumo</ref>,
+      <ref cel="spin2.0o">spino</ref>
+    </refgrp>
+  </snc>
+  <snc mrk="partik2.0o.GRU">
+    <uzo tip="fak">MIN</uzo>
+    <dif>
+      Iu el la materieroj, el kiuj konsistas
+      la grundo, kutime distingataj la&ubreve; diametro-klasoj:
+      <ekz>
+        la agitado de grundo kun akvo do servas
+        por apartigi diversgrandajn <tld/>ojn
+        <fnt>
+          <aut>W. F. Rolt</aut>,
+          <vrk>El la Polvo de la Tero</vrk>,
+          <lok>1967</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_e;&c_l;&c_je;&c_m;&c_e;&c_n;&c_t;&c_a;&c_r;&c_n;&c_a;&c_ja; <ind>&c_ch;&c_a;&c_s;&c_mol;&c_c;&c_ib;&c_c;&c_a;</ind></trd>
+  <trd lng="ca">part&iacute;cula</trd>
+  <trdgrp lng="cs">
+    <trd>částečka</trd>,
+    <trd>částice</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Partikel</trd>,
+    <trd>Elementarteilchen</trd>
+  </trdgrp>
+  <trd lng="en"><klr>fundamental</klr> particle</trd>
+  <trd lng="es">part&iacute;cula</trd>
+  <trdgrp lng="fa">
+    <trd>&a_dh;&a_r;&a_h;</trd>,
+    <trd>&a_dh;&a_r;&a_h;&a_hamza_sure; &a_b;&a_n;&f_y;&a_A;&a_d;&f_y;</trd>
+  </trdgrp>
+  <trd lng="fr">particule</trd>
+  <trd lng="hu">elemi r&eacute;szecske</trd>
+  <trdgrp lng="nl">
+    <trd>partikel</trd>,
+    <trd>deeltje</trd>
+  </trdgrp>
+  <trd lng="pl">cz&aogonek;stka<klr> elementarna</klr></trd>
+  <trd lng="pt">part&iacute;cula</trd>
+  <trd lng="ru"><klr>&c_e;&c_l;&c_je;&c_m;&c_je;&c_n;&c_t;&c_a;&c_r;&c_n;&c_a;&c_ja;</klr> &c_ch;&c_a;&c_s;&c_t;&c_i;&c_c;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>častica</trd>,
+    <trd>čiastočka</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="partik2.kontraux0o">
+  <kap>kontra&ubreve;<tld/>o</kap>
+  <snc mrk="partik2.kontraux0o.FIZ">
+    <uzo tip="fak">FIZ</uzo>
+    <dif>
+      <ref tip="vid" cel="partik2.0o.FIZ"><tld lit="P"/>o</ref>
+      havanta mason,
+      <ref tip="vid" cel="spin2.0o">spinon</ref>,
+      vivotempon kaj kelkajn aliajn
+      karakterizojn samajn kiel de respektiva <tld/>o, sed
+      diferenca per signoj de elektra
+      &scirc;argo kaj magneta momanto, barjona &scirc;argo, leptona
+      &scirc;argo kaj aliaj kvantumaj nombroj; &ccirc;iuj <tld/>oj,
+      krom absolute ne&ubreve;tralaj, havas siajn
+      kontra&ubreve;<tld/>ojn; dum kunpu&scirc;i&gcirc;o de <tld/>o kaj
+      kontra&ubreve;<tld/>o
+      okazas ilia <ref tip="vid" cel="anihilaci.0o">anihilacio</ref>:
+      <ekz>
+        <ref tip="vid" cel="poziton.0o">Pozitrono</ref>
+        estas kontra&ubreve;<tld/>o de <ref tip="vid"
+        cel="negaton.0o">negatrono</ref>,
+        kaj reciproke negatrono estas kontra&ubreve;<tld/>o de pozitrono;
+      </ekz>
+      <ekz>
+        <ref tip="vid" cel="foton.0o">Fotono</ref> estas absolute
+        ne&ubreve;trala
+        <tld/>o, tial &gcirc;i ne havas kontra&ubreve;<tld/>on.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="antipartikl.0o">antipartiklo</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_a;&c_n;&c_t;&c_y;&c_ch;&c_a;&c_s;&c_mol;&c_c;&c_ib;&c_c;&c_a;</trd>
+  <trd lng="ca">antipart&iacute;cula</trd>
+  <trd lng="de">Antiteilchen</trd>
+  <trd lng="en">antiparticle</trd>
+  <trd lng="es">antipart&iacute;cula</trd>
+  <trd lng="fa">&f_p;&a_A;&a_d;&a_dh;&a_r;&a_h;</trd>
+  <trd lng="fr">antiparticule</trd>
+  <trd lng="hu">antir&eacute;szecske</trd>
+  <trd lng="nl">antideeltje</trd>
+  <trd lng="pl">antycz&aogonek;stka</trd>
+  <trd lng="pt">antipart&iacute;cula</trd>
+  <trd lng="ru">&c_a;&c_n;&c_t;&c_i;&c_ch;&c_a;&c_s;&c_t;&c_i;&c_c;&c_a;</trd>
+</drv>
+</art>
+<!--
+$Log: partik2.xml,v $
+Revision 1.19  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:40:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2012/01/01 23:10:58  revo
+Marc Rausell: +trd ca
+
+Revision 1.16  2011/11/29 10:10:10  revo
+Jeromo Vasxe: + snc GRU + trd fr, - anti~o portita al nova art
+
+Revision 1.15  2009/06/29 18:05:08  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.14  2008/05/27 16:30:46  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.13  2006/09/20 18:35:33  revo
+Wolfram Diestel: +tezrad(FIZ)
+
+Revision 1.12  2003/06/01 16:32:02  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.11  2002/12/13 17:31:48  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.10  2002/07/08 18:23:44  revo
+-->
+</vortaro>

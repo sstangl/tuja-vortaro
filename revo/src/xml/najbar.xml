@@ -1,0 +1,365 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: najbar.xml,v 1.33 2015/07/21 07:10:16 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>najbar</rad>/o
+</kap>
+<drv mrk="najbar.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc>
+    <dif>
+      Tiu, kiu lo&gcirc;as a&ubreve; trovi&gcirc;as proksime de alia persono:
+      <ekz>
+        havi bonan <tld/>on<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        sur &ccirc;eval' de <tld/>o la &scirc;ar&gcirc;o ne
+        pezas
+        (<refgrp tip="vid">
+          <ref cel="fremd.0a">fremda</ref>,
+          <ref cel="led.0o">ledo</ref>
+        </refgrp>)
+        <fnt><bib>PrV</bib></fnt>;
+      </ekz>
+      <ekz>
+        li estis mia <tld/>o &ccirc;e la man&gcirc;otablo, en la teatro;
+      </ekz>
+      <ekz>
+        Francoj kaj Germanoj estas <tld/>oj;
+      </ekz>
+      <ekz>
+        malsa&gcirc;o estas <tld/>o de mizero
+        <fnt><bib>PrV</bib></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_u;&c_s;&c_je;&c_d;</trd>
+  <trd lng="bg">&c_s;&c_malmol;&c_s;&c_je;&c_d;</trd>
+  <trd lng="br">amezeg</trd>
+  <trd lng="ca">ve&iacute;<klr> (subst.)</klr></trd>
+  <trd lng="cs">soused</trd>
+  <trd lng="de">Nachbar</trd>
+  <trdgrp lng="en">
+    <trd>neighbor</trd>,
+    <trd>neighbour</trd>,
+    <trd>near dweller</trd>
+  </trdgrp>
+  <trd lng="es">vecino</trd>
+  <trd lng="fr">voisin<klr> (subst.)</klr></trd>
+  <trd lng="hu">szomsz&eacute;d</trd>
+  <trd lng="id">tetangga</trd>
+  <trd lng="nl">buur</trd>
+  <trd lng="pt">vizinho</trd>
+  <trd lng="ru">&c_s;&c_o;&c_s;&c_je;&c_d;</trd>
+  <trd lng="sk">sused</trd>
+  <trd lng="sv">granne</trd>
+  <trd lng="tr">kom&scedil;u</trd>
+</drv>
+
+<drv mrk="najbar.0a">
+  <kap><tld/>a</kap>
+  <snc>
+    <uzo tip="klr">(iu)</uzo>
+    <dif>
+      Lo&gcirc;anta a&ubreve; trovi&gcirc;anta proksime de iu:
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        fajro kaj pajlo ne povas <tld/>e vivi.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>in Nachbarschaft</trd>,
+      <trd>nachbarschaftlich</trd>,
+      <trd>nachbarlich</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>neighboring</trd>,
+      <trd>neighbouring</trd>,
+      <trd>adjoining</trd>,
+      <trd>adjacent</trd>
+    </trdgrp>
+    <trdgrp lng="es">
+      <trd>vecino</trd>,
+      <trd>pr&oacute;ximo</trd>
+    </trdgrp>
+    <trdgrp lng="pt">
+      <trd>vizinho</trd>,
+      <trd>pr&oacute;ximo</trd>
+    </trdgrp>
+  </snc>
+  <snc>
+    <uzo tip="klr">(io)</uzo>
+    <dif>
+      Estanta proksime de io:
+      <ekz>
+        <tld/>a insulo<fnt>B</fnt>,
+      </ekz>
+      <ekz>
+        lando<fnt>B</fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>Nachbar-</trd>,
+      <trd>Nachbars-</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>neighboring</trd>,
+      <trd>neighbouring</trd>,
+      <trd>adjoining</trd>,
+      <trd>adjacent</trd>
+    </trdgrp>
+    <trdgrp lng="es">
+      <trd>vecino</trd>,
+      <trd>pr&oacute;ximo</trd>
+    </trdgrp>
+    <trdgrp lng="pt">
+      <trd>vizinho</trd>,
+      <trd>pr&oacute;ximo</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="najbar.0a.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <subsnc mrk="najbar.0a.en_orda_aro">
+      <fnt><bib>EKV</bib><lok>&para;288</lok></fnt>
+      <dif>
+        <klr>(p.p. elementoj <frm><k>a</k></frm> kaj <frm><k>b</k></frm>
+        de
+        <ref cel="ar.orda0o">orda aro</ref>
+        <frm>(<g>E</g>,&#8804;)</frm>)</klr>
+        Tiaj, ke ne ekzistas tia elemento <frm><k>c</k></frm>,
+        ke <frm><k>a</k> &lt; <k>c</k> &lt; <k>b</k></frm> a&ubreve;
+        <frm><k>b</k> &lt; <k>c</k> &lt; <k>a</k></frm>:
+        <ekz>
+          entjero <frm><k>n</k></frm> estas <tld/>a
+          nur kun <frm><k>n</k>+1</frm> kaj <frm><k>n</k>-1</frm>;
+        </ekz>
+        <ekz>
+          du racionaloj neniam povas esti <tld/>aj.
+        </ekz>
+      </dif>
+      <refgrp tip="vid">
+        <ref cel="antaux.0anto.MAT">anta&ubreve;anto</ref>,
+        <ref cel="post.0anto.MAT">postanto</ref>.
+      </refgrp>
+      <trd lng="de">benachbart</trd>
+      <trdgrp lng="en">
+        <trd>neighbouring</trd>,
+        <trd>consecutive</trd>,
+        <trd>adjacent</trd>
+      </trdgrp>
+      <trdgrp lng="es">
+        <trd>adyacente</trd>,
+        <trd>consecutivo</trd>,
+        <trd>contiguo<klr tip="ind"> (adj., math.)</klr></trd>
+      </trdgrp>
+      <trdgrp lng="fr">
+        <trd>adjacent</trd>,
+        <trd>cons&eacute;cutif</trd>,
+        <trd>voisin<klr tip="ind"> (adj., math.)</klr></trd>
+      </trdgrp>
+      <trdgrp lng="ru">
+        <trd>&c_s;&c_o;&c_s;&c_je;&c_d;&c_n;&c_i;&c_j;</trd>,
+        <trd>&c_p;&c_o;&c_s;&c_l;&c_je;&c_d;&c_o;&c_v;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
+      </trdgrp>
+      <trdgrp lng="tr">
+        <trd>biti&scedil;ik</trd>,
+        <trd>kom&scedil;u a&ccedil;&inodot;lar<klr>(matematikte)</klr></trd>
+      </trdgrp>
+    </subsnc>
+    <subsnc mrk="najbar.0a.grafee">
+      <fnt><bib>KompLeks</bib></fnt>
+      <dif>
+        <klr>(p.p. pri du verticoj en
+        <ref cel="grafe.0o.strukturo">grafeo</ref>)</klr>
+        Tiaj, ke ekzistas e&gcirc;o, kies
+        <ref cel="rand.0o.grafea_egxo">randoj</ref> ili estas;
+        <klr>(p.p. pri du e&gcirc;oj en
+        <ref cel="grafe.0o.strukturo">grafeo</ref>)</klr>
+        Havantaj komunan randon.
+      </dif>
+      <trdgrp lng="de">
+        <trd>benachbart</trd>,
+        <trd>adjazent</trd>
+      </trdgrp>
+      <trdgrp lng="en">
+        <trd>adjacent</trd>
+      </trdgrp>
+      <trdgrp lng="es">
+        <trd>contiguo<klr tip="ind"> (adj., math.)</klr></trd>,
+        <trd>adyacente</trd>
+      </trdgrp>
+      <trdgrp lng="fr">
+        <trd>voisin<klr tip="ind"> (adj., math.)</klr></trd>,
+        <trd>adjacent</trd>
+      </trdgrp>
+      <trdgrp lng="pl">
+        <trd>s&aogonek;siedni</trd>,
+        <trd>przyleg&lstroke;y</trd>
+      </trdgrp>
+      <trd lng="ru">&c_s;&c_m;&c_je;&c_zh;&c_n;&c_y;&c_j;</trd>
+    </subsnc>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_u;&c_s;&c_je;&c_d;&c_n;&c_ib;</trd>,
+    <trd>&c_s;&c_u;&c_s;&c_je;&c_d;&c_z;&c_k;&c_ib;</trd>,
+    <trd>&c_b;&c_l;&c_ib;&c_z;&c_k;&c_ib;</trd>,
+    <trd>&c_p;&c_r;&c_y;&c_l;&c_je;&c_g;&c_l;&c_y;</trd>
+  </trdgrp>
+  <trd lng="br">amezek</trd>
+  <trdgrp lng="ca">
+    <trd>ve&iacute;</trd>,
+    <trd>adjacent<klr> (adj.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>p&rcaron;ilehl&yacute;</trd>,
+    <trd>sousedn&iacute;</trd>
+  </trdgrp>
+  <trdgrp lng="ca">
+    <trd>vecino</trd>,
+    <trd>adyacente<klr> (adj.)</klr></trd>
+  </trdgrp>
+  <trd lng="fr">voisin<klr> (adj.)</klr></trd>
+  <trd lng="hu">szomsz&eacute;dos</trd>
+  <trdgrp lng="nl">
+    <trd>aangrenzend</trd>,
+    <trd>naburig</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_o;&c_s;&c_je;&c_d;&c_n;&c_i;&c_j;</trd>,
+    <trd>&c_s;&c_o;&c_s;&c_je;&c_d;&c_s;&c_k;&c_i;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>pri&lcaron;ahl&yacute;</trd>,
+    <trd>susedn&yacute;</trd>
+  </trdgrp>
+  <trd lng="tr">kom&scedil;u</trd>
+</drv>
+
+<drv mrk="najbar.0ede">
+  <kap><tld/>e de</kap>
+  <gra><vspec>prepozicia&jcirc;o</vspec></gra>
+  <snc>
+    <dif>
+      <ref tip="super" cel="apud.0">Apud</ref> iu lo&gcirc;loko, urbo, lando
+      a&ubreve;
+      simila:
+      <ekz>
+        <tld/>e de la &scirc;oseo estis ka&scirc;itaj oazoj<fnt>B</fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_p;&c_a; <ind>&c_s;&c_u;&c_s;&c_je;&c_d;&c_z;&c_t;&c_v;&c_u;</ind></trd>,
+      <trd>&c_p;&c_o;&c_b;&c_a;&c_ch;</trd>
+    </trdgrp>              
+    <trdgrp lng="br">
+      <trd>en <ind>amen</ind> da</trd>,        
+      <trd>en <ind>amen</ind> ouzh</trd>,
+      <trd>en <ind>amezegiezh</ind></trd>
+    </trdgrp>
+    <trd lng="ca">al costat de</trd>
+    <trdgrp lng="de">
+      <trd>in Nachbarschaft zu</trd>,
+      <trd>in unmittelbarer Nachbarschaft</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>adjacent to</trd>,
+      <trd>next to</trd>
+    </trdgrp>
+    <trdgrp lng="es">
+      <trd>al lado de</trd>,
+      <trd>junto a</trd>
+    </trdgrp>
+    <trd lng="fr">au voisinage de</trd>
+    <trd lng="nl">nabij</trd>
+    <trdgrp lng="pt">
+      <trd>perto de</trd>,
+      <trd>vizinho de</trd>
+    </trdgrp>
+  <trdgrp lng="hu">
+    <trd>szomsz&eacute;ds&aacute;g&aacute;ban</trd>,
+    <trd>k&ouml;zel&eacute;ben</trd>
+  </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_p;&c_o; <ind>&c_s;&c_o;&c_s;&c_je;&c_d;&c_s;&c_t;&c_v;&c_u;</ind> &c_o;&c_t;</trd>,
+      <trd>&c_p;&c_o;&c_b;&c_l;&c_i;&c_z;&c_o;&c_s;&c_t;&c_i; &c_o;&c_t;</trd>,
+      <trd>&c_r;&c_ja;&c_d;&c_o;&c_m; &c_s;</trd>
+    </trdgrp>
+  </snc>
+</drv>
+
+<drv mrk="najbar.0ajxo">
+  <kap><tld/>a&jcirc;o</kap>
+  <snc>
+    <dif>
+      &Ccirc;irka&ubreve;a&jcirc;o, proksima&jcirc;o:
+      <ekz>
+        li lo&gcirc;as en nia <tld/>a&jcirc;o.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_n;&c_a;&c_v;&c_a;&c_k;&c_o;&c_l;&c_mol;&c_l;&c_je;</trd>    
+  <trdgrp lng="br">
+    <trd>amezegezh</trd>,
+    <trd>amezegiezh</trd>
+  </trdgrp>
+  <trdgrp lng="ca">
+    <trd>rodalia</trd>,
+    <trd>voltants</trd>
+  </trdgrp>
+  <trd lng="de">Nachbarschaft</trd>
+  <trdgrp lng="en">
+    <trd>neighborhood</trd>,
+    <trd>neighbourhood</trd>,
+    <trd>vicinity</trd>,
+    <trd>surroundings</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>vecindad</trd>,
+    <trd>vecindario</trd>,
+    <trd>alrededores</trd>,
+    <trd>cercan&iacute;a</trd>
+  </trdgrp>
+  <trd lng="fr">voisinage</trd>
+  <trd lng="hu">szomsz&eacute;ds&aacute;g</trd>  
+  <trd lng="id"><ind>lingkung</ind>an</trd>
+  <trd lng="nl">buurt</trd>
+  <trd lng="pt">vizinhan&ccedil;a</trd>
+  <trdgrp lng="ru">
+    <trd>&c_o;&c_k;&c_r;&c_je;&c_s;&c_t;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>,
+    <trd>&c_s;&c_o;&c_s;&c_je;&c_d;&c_s;&c_t;&c_v;&c_o;</trd>
+  </trdgrp>
+  <trdgrp lng="tr">
+    <trd>kom&scedil;uluk</trd>,
+    <trd>&ccedil;evre</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: najbar.xml,v $
+Revision 1.33  2015/07/21 07:10:16  revo
+Guillermo Molleda Jimena: trd es
+
+Revision 1.32  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.31  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.30  2014/06/30 15:10:25  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.29  2012/09/17 18:10:12  revo
+Marc Rausell: + trd ca
+
+Revision 1.28  2010/08/20 16:30:22  revo
+Wieland Pusch: +trd bg
+
+Revision 1.27  2010/08/03 16:31:05  revo
+Russ Williams: +trd en
+
+Revision 1.26  2009/08/25 16:33:08  revo
+-->
+</vortaro>

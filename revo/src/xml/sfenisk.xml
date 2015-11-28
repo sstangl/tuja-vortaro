@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: sfenisk.xml,v 1.11 2015/08/23 10:10:14 revo Exp $">
+<kap>
+  <rad>sfenisk</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="sfenisk.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="sfenisk.0o.ZOO">
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      Birdoj vivantaj en sudokcidenta Afriko kaj sur Galapagaj insuloj;
+      plej norda genro el la ordo
+      <ref tip="super" cel="sfenisk.0oformaj">sfeniskoformaj</ref>
+      (<trd lng="la">Spheniscus</trd>).
+    </dif>
+  </snc>
+  <trd lng="cs">tu&ccaron;&ncaron;&aacute;k galap&aacute;gsk&yacute;</trd>
+  <trd lng="fr">manchot</trd>
+  <trd lng="hu">pingvin<klr tip="amb"> (rend)</klr></trd>
+  <trd lng="nl">pingu&iuml;n</trd>
+  <trd lng="ru">&c_g;&c_a;&c_l;&c_a;&c_p;&c_a;&c_g;&c_o;&c_s;&c_s;&c_k;&c_i;&c_j; <ind>&c_p;&c_i;&c_n;&c_g;&c_v;&c_i;&c_n;</ind></trd>
+  <trd lng="sk">tu&ccaron;niak galap&aacute;gsky</trd>
+</drv>
+
+<drv mrk="sfenisk.0oformaj">
+  <kap><tld/>oformaj</kap>
+  <snc mrk="sfenisk.0oformaj.ZOO">
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      Birdoj vivantaj &ccirc;e la maroj de la suda hemisfero, kun malgrandaj
+      flugiloj uzataj por na&gcirc;ado kaj kun na&gcirc;ha&ubreve;toj
+      &ccirc;e la piedoj;
+      <ref tip="lst" cel="ord.0o.BIO"
+      lst="voko:zoologiaj_ordoj">ordo</ref> el la klaso <ref
+      tip="malprt" cel="bird.0oj">birdoj</ref>
+      (<trd lng="la">Sphenisci</trd>).
+    </dif>
+    <ref tip="prt" cel="pingve.0o.ZOO">pingveno</ref>
+  </snc>
+  <trd lng="cs">tu&ccaron;&ncaron;&aacute;ci <klr>(&rcaron;&aacute;d)</klr></trd>
+  <trd lng="de">Pinguine</trd>
+  <trd lng="fr">Sph&eacute;nisciformes</trd>
+  <trd lng="hu">pingvinalak&uacute;ak</trd>
+  <trd lng="nl">pingu&iuml;ns</trd>
+  <trd lng="ru">&c_p;&c_i;&c_n;&c_g;&c_v;&c_i;&c_n;&c_y; <klr tip="amb">(&c_o;&c_t;&c_r;&c_ja;&c_d;)</klr></trd>
+  <trd lng="sk">tu&ccaron;niaci</trd>
+</drv>
+</art>
+<!--
+$Log: sfenisk.xml,v $
+Revision 1.11  2015/08/23 10:10:14  revo
+Jeromo Vasxe: kor ref
+
+Revision 1.10  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.9  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.8  2013/08/31 16:10:48  revo
+Wolfram Diestel: ~oformaj: referenco al listo zoo ordoj
+
+Revision 1.7  2003/03/13 17:33:59  revo
+Axel Rousseau: +trd fr
+
+Revision 1.6  2002/07/12 17:33:25  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.5  2002/02/08 17:33:10  revo
+Yury Finkel: +trd ru
+
+Revision 1.4 2001/10/15 18:21:31 revo
+-->
+</vortaro>

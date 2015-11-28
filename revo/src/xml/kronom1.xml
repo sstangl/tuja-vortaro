@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: kronom1.xml,v 1.10 2014/12/22 11:10:20 revo Exp $">
+<kap>
+  <rad>kronometri</rad>/o
+</kap>
+<drv mrk="kronom1.0o">
+  <kap>
+    <tld/>o
+  </kap>
+  <snc>
+  <uzo tip="fak">SCI</uzo>
+    <dif>
+      Parto de la fiziko, pritraktanta la mezuron de la tempo.
+    </dif>
+  </snc>
+  <trd lng="be">&c_h;&c_r;&c_a;&c_n;&c_a;&c_m;&c_e;&c_t;&c_r;&c_y;&c_ja;</trd>
+  <trdgrp lng="de">
+     <trd>Chronometrie</trd>,
+     <trd>Zeitmessung</trd>
+  </trdgrp>
+  <trd lng="en">chronometry</trd>
+  <trd lng="fr">chronom&eacute;trie</trd>
+  <trdgrp lng="hu">
+     <trd>kronometria</trd>,
+     <trd>id&odblac;m&eacute;r&eacute;stan</trd>,
+     <trd>tudom&aacute;nyos <ind>id&odblac;m&eacute;r&eacute;s</ind></trd>
+  </trdgrp> 
+  <trd lng="pt">cronometria</trd> 
+  <trd lng="ru">&c_h;&c_r;&c_o;&c_n;&c_o;&c_m;&c_je;&c_t;&c_r;&c_i;&c_ja;</trd>
+</drv>
+
+<drv mrk="kronom1.0a">
+  <kap>
+    <tld/>a
+  </kap>
+  <snc>
+    <dif>
+      Rilatanta al <tld/>o.
+    </dif>
+  </snc>
+  <trd lng="be">&c_h;&c_r;&c_a;&c_n;&c_a;&c_m;&c_e;&c_t;&c_r;&c_y;&c_ch;&c_n;&c_y;</trd>
+  <trdgrp lng="de">
+     <trd>chronometrisch</trd>,
+     <trd>zeitlich (eingeordnet)</trd>
+  </trdgrp>
+  <trd lng="en">chronometric</trd>
+  <trd lng="fr">chronom&eacute;trique</trd>
+  <trdgrp lng="hu">
+     <trd>kronometriai</trd>,
+     <trd>id&odblac;m&eacute;r&eacute;stani</trd>
+  </trdgrp>  
+  <trd lng="ru">&c_h;&c_r;&c_o;&c_n;&c_o;&c_m;&c_je;&c_t;&c_r;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j;</trd>
+</drv>
+</art>
+<!--
+$Log: kronom1.xml,v $
+Revision 1.10  2014/12/22 11:10:20  revo
+Damien Brucker: +trd fr
+
+Revision 1.9  2006/10/31 17:30:50  revo
+Tulio Flores: +tr pt
+
+Revision 1.8  2004/05/20 20:14:11  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.7  2003/04/22 16:31:33  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.6  2002/03/27 17:31:17  revo
+Ulrich Fellmann: + 4 germ trdj
+
+Revision 1.5  2001/11/07 19:17:57  revo
+Yury Finkel: +trd ru
+
+Revision 1.4  2001/06/22 18:11:44  revo
+Karlo Freeman: +trd=en
+
+-->
+</vortaro>

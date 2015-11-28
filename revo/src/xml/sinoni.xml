@@ -1,0 +1,114 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: sinoni.xml,v 1.18 2015/10/01 12:10:29 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>sinonim</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="sinoni.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="sinoni.0o.LIN">
+    <uzo tip="fak">LIN</uzo>
+    <dif>
+      Signo a&ubreve; vorto samsignifa a&ubreve; proksimume
+      samsignifa, kiel alia;
+      <ref tip="sin" cel="senc.sam0ajxo.LIN">samsenca&jcirc;o</ref>:
+      <ekz>
+        kiam mi ne volas perdi tempon ser&ccirc;ante <tld/>ojn en masiva PIV,
+        mi kutimas konsulti la vortaron de M. C. Butler
+        <fnt>
+          <aut>G. Makaj'</aut>,
+          <vrk>Roso estas roso sed grapfrukto estas
+          pampelmuso</vrk>,
+          <bib>Monato</bib>,
+          <lok>1994:2, p. 22a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_y;&c_n;&c_o;&c_n;&c_ib;&c_m;</trd>
+  <trd lng="ca">sin&ograve;nim</trd>
+  <trdgrp lng="cs">
+    <trd>souzna&ccaron;n&eacute; slovo</trd>,
+    <trd>synonymum</trd>
+  </trdgrp>
+  <trd lng="de">Synonym</trd>
+  <trd lng="en">synonym</trd>
+  <trd lng="es">sin&oacute;nimo</trd>
+  <trdgrp lng="fa">
+    <trd>&a_h;&a_m;&zwnj;&a_m;&a_ayn;&a_n;&f_y;</trd>,
+    <trd>&a_m;&a_t;&a_r;&a_A;&a_d;&a_f;</trd>
+  </trdgrp>
+  <trd lng="fr">synonyme</trd>
+  <trdgrp lng="hu">
+    <trd>szinonima</trd>,
+    <trd>rokon &eacute;rtelm&udblac; sz&oacute;</trd>
+  </trdgrp>
+  <trd lng="nl">synoniem</trd>
+  <trd lng="no">synonym</trd>
+  <trd lng="ru">&c_s;&c_i;&c_n;&c_o;&c_n;&c_i;&c_m;</trd>
+  <trd lng="sk">synonymum</trd>
+</drv>
+
+<drv mrk="sinoni.0eco">
+  <kap><tld/>eco</kap>
+  <snc mrk="sinoni.0eco.LIN">
+    <uzo tip="fak">LIN</uzo>
+    <dif>
+      Havo de samaj a&ubreve; preska&ubreve; samaj signifoj;
+      <ref tip="sin" cel="sinonimi.0o">sinonimio</ref>;
+      <ref tip="sin" cel="senc.sam0eco.LIN">samsenceco</ref>:
+      <ekz>
+        PIV anoncas <tld/>econ inter piedpilko kaj la tradicia futbalo,
+        sed ekzistas piedpilkludoj, kies nomoj ne estas futbalo   
+        <fnt>
+          <aut>[J. Werner]</aut>,
+          <vrk>&Ccirc;u motivigi terminojn kaj fari ilin travideblaj?</vrk>,
+          <lok><url
+          ref="http://fabien.galerio.org/kofo/cirkuleroj/kofo30.pdf">
+          Konstru-forumo, 2011-09 (30)</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>souzna&ccaron;nost</trd>,
+    <trd>synonymi&ccaron;nost</trd>,
+    <trd>synonymnost</trd>
+  </trdgrp>
+  <trd lng="en">synonymy</trd>
+  <trd lng="fr">synonymie</trd>
+  <trdgrp lng="sk">
+    <trd>rovnozna&ccaron;nos&tcaron;</trd>,
+    <trd>synonymickos&tcaron;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: sinoni.xml,v $
+Revision 1.18  2015/10/01 12:10:29  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.17  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.15  2015/04/12 22:10:22  revo
+Filip van Laenen: +trd(no)
+
+Revision 1.14  2012/07/07 14:10:27  revo
+Jeromo Vasxe: + 1 ref
+
+Revision 1.13  2012/07/03 09:10:09  revo
+Jeromo Vasxe: + ~eco
+
+Revision 1.12  2009/08/28 16:31:52  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.11  2005/04/12 16:34:03  revo
+-->
+</vortaro>

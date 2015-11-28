@@ -1,0 +1,199 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: akt.xml,v 1.25 2015/07/04 08:37:30 revo Exp $">
+<kap>
+   <ofc>1</ofc> <rad>akt</rad>/o
+</kap>
+<drv mrk="akt.0o">
+   <kap><tld/>o</kap>
+   <snc mrk="akt.0o.TEA">
+     <uzo tip="fak">TEA</uzo>
+     <dif>
+       Parto de <ref tip="malprt" cel="teatr.0ajxo">teatra&jcirc;o</ref>
+       enhavanta kelkajn scenojn.
+     </dif>
+     <trd lng="ca">acte</trd>
+     <trd lng="de">Akt</trd>
+     <trd lng="es">acto</trd>
+     <trd lng="hu">felvon&aacute;s</trd>
+     <trd lng="nl">bedrijf</trd>
+     <trdgrp lng="pl">
+       <trd>akt</trd>,
+       <trd>ods&lstroke;ona</trd>
+     </trdgrp>
+     <trd lng="pt">ato</trd>
+     <trd lng="sk">dejstvo</trd>
+   </snc>
+   <snc mrk="akt.0o.JUR">
+     <uzo tip="fak">JUR</uzo>
+     <dif>
+       Oficiala dokumento atestanta ion:
+       <ekz>
+         testamento estas le&gcirc;a <tld/>o.
+       </ekz>
+     </dif>
+     <refgrp tip="vid">
+       <ref cel="protok.0o.raporto">protokolo</ref>
+     </refgrp>
+     <trd lng="ca">acta</trd>
+     <trdgrp lng="de">
+       <trd>Akte</trd>,
+       <trd>Dokument</trd>
+     </trdgrp>
+     <trd lng="es">acta</trd>
+     <trdgrp lng="hu">
+       <trd>akta</trd>,
+       <trd>okm&aacute;ny</trd>,
+       <trd>irat</trd>
+     </trdgrp>
+     <trd lng="nl">akte</trd>
+     <trdgrp lng="pl">
+       <trd>akt <klr>prawny</klr></trd>,
+       <trd>akt <klr>normatywny</klr></trd>,
+       <trd>dokument</trd>
+     </trdgrp>
+     <trdgrp lng="pt">
+       <trd>auto</trd>,
+       <trd>instrumento</trd>,
+       <trd>escritura</trd>
+     </trdgrp>
+   </snc>
+   <snc mrk="akt.0o.ago">
+     <dif>
+       Oficiala grava faro a&ubreve; decido.
+     </dif>
+     <ref tip="vid" cel="ag.0o.montro">ago <sncref/></ref>
+     <trdgrp lng="ca">
+       <trd>acte</trd>,
+       <trd>actuaci&oacute;</trd>
+     </trdgrp>
+     <trdgrp lng="de">
+       <trd>offizieller Akt</trd>,
+       <trd>offizieller Beschluss</trd>
+     </trdgrp>
+     <trd lng="hu">aktus</trd>
+     <trd lng="nl">daad</trd>
+     <trd lng="pl">czyn</trd>
+     <trd lng="pt">ato</trd>
+   </snc>
+   <trd lng="be">&c_a;&c_k;&c_t;</trd>
+   <trd lng="en">act</trd>
+   <trd lng="fr">acte</trd>
+   <trd lng="ru">&c_a;&c_k;&c_t;</trd>
+   <trd lng="sk">akt</trd>
+</drv>
+
+<drv mrk="akt.0isto">
+   <kap><tld/>isto</kap>
+   <snc>
+     <dif>
+       Oficisto, kiu konservas a&ubreve; skribas la oficialajn <tld/>ojn.
+     </dif>
+   </snc>
+   <ref tip="vid" cel="notari.0o">notario</ref>
+   <trdgrp lng="ca">
+     <trd>notari</trd>,
+     <trd>protonotari</trd>
+   </trdgrp>
+   <trd lng="de">Aktenverwalter</trd>
+   <trdgrp lng="en">
+     <trd>clerk</trd>,
+     <trd>recorder</trd>
+   </trdgrp>
+   <trdgrp lng="fr">
+     <trd>clerc de notaire</trd>,
+     <trd>greffier</trd>
+   </trdgrp>
+   <trdgrp lng="hu">
+     <trd>t&ouml;rv&eacute;nysz&eacute;ki <ind>&iacute;rnok</ind></trd>,
+     <trd>b&iacute;r&oacute;s&aacute;gi <ind>jegyz&odblac;</ind></trd>
+   </trdgrp>
+   <trd lng="nl">actuaris</trd>
+   <trdgrp lng="pl">
+     <trd>aktuariusz</trd>,
+     <trd>kancelista</trd>,
+     <trd>registrator</trd>
+   </trdgrp>
+   <trdgrp lng="pt">
+     <trd>escriv&atilde;o</trd>,
+     <trd>not&aacute;rio</trd>
+   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>kancelársky úradník</trd>,
+    <trd>konceptný úradník</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>aktuár</trd>,
+    <trd>archivář úředních spisů</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="akt.inter0o">
+   <kap>inter<tld/>o</kap>
+   <uzo tip="fak">TEA</uzo>
+   <snc>
+     <dif>
+       Pa&ubreve;zo inter du <tld/>oj de <ref tip="malprt"
+       cel="teatr.0ajxo">teatra&jcirc;o</ref>.
+     </dif>
+   </snc>
+  <trd lng="be">&c_a;&c_n;&c_t;&c_r;&c_a;&c_k;&c_t;</trd>
+  <trdgrp lng="ca">
+     <trd>entreacte</trd>,
+     <trd>interludi</trd>,
+     <trd>intermezzo</trd>
+   </trdgrp>
+  <trd lng="cs">přestávka mezi dvěma jednáními</trd>
+  <trdgrp lng="en">
+     <trd>intermission</trd>,
+     <trd>entr'acte</trd>,
+     <trd>interlude</trd>,
+     <trd>intermezzo</trd>
+   </trdgrp>
+  <trd lng="es">entreacto</trd>
+  <trd lng="fr">entracte</trd>
+  <trdgrp lng="hu">
+     <trd>felvon&aacute;sk&ouml;z</trd>,
+     <trd>sz&uuml;net<klr tip="ind"> (sz&iacute;nh&aacute;zban)</klr></trd>
+   </trdgrp>
+  <trd lng="nl">entr'acte</trd>
+  <trd lng="pl">antrakt</trd>
+  <trd lng="pt">intervalo</trd>
+  <trd lng="ru">&c_a;&c_n;&c_t;&c_r;&c_a;&c_k;&c_t;</trd>
+  <trd lng="sk">prestávka medzi dvoma jednaniami</trd>
+</drv>
+</art>
+<!--
+$Log: akt.xml,v $
+Revision 1.25  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.24  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.23  2012/08/21 09:10:16  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.22  2011/12/04 23:10:17  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.21  2005/11/24 17:32:05  revo
+Raul Salinas Monteagudo: +trd ca,es
+
+Revision 1.20  2003/10/30 17:31:49  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.19  2003/10/05 18:52:32  revo
+Jeromo Vasxe: + tez, ~isto precizigis trd fr
+
+Revision 1.18 2003/01/27 17:31:31 revo
+Ulrich Fellmann: + 6 trd de
+
+Revision 1.17 2002/10/01 16:34:31 revo
+Christopher Zervic: + ang
+
+Revision 1.16 2002/09/30 16:32:01 revo
+-->
+</vortaro>

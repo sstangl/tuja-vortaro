@@ -1,0 +1,604 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: korp.xml,v 1.45 2015/07/04 08:37:38 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>korp</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="korp.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="korp.0o.ANA">
+    <tezrad fak="ANA"/>
+    <uzo tip="fak">ANA</uzo>
+    <dif>
+      &Ccirc;e homoj kaj bestoj, aro de la materiaj partoj, kiuj konsistigas
+      la
+      organaron:
+      <ekz>
+        tio &ccirc;i estas saniga por via <tld/>o<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        la <tld/>o estas morta, la animo estas
+        senmorta<fnt><bib>F</bib>,
+        <lok>&FE; 31</lok></fnt>;
+      </ekz>
+      <ekz>
+        fortika, malsana <tld/>o;
+      </ekz>
+      <ekz>
+        <uzo tip="fak">KAT</uzo>
+        la <tld/>o de Jesu-Kristo
+        <klr>(e&ubreve;karistio)</klr>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        se ili povis al la nomo de ilia projekto ellabori
+        anka&ubreve; sinteni povantan <tld/>on<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="karn.0o">karno</ref>,
+      <ref cel="kadavr.0o">kadavro</ref>,
+      <ref cel="organi1.0o">organismo</ref>.
+    </refgrp>
+    <trd lng="de">K&ouml;rper</trd>
+    <trdgrp lng="id">
+      <trd>badan</trd>,
+      <trd>tubuh</trd>
+    </trdgrp>
+  </snc>
+  <snc>
+    <dif>
+      La tuta persono:
+      <ekz>
+        la <tld/>ogardistoj<fnt>Z</fnt>
+        <klr>(gardantaj la personon de regnestro)</klr>;
+      </ekz>
+      <ekz>
+        ili vivas per unu animo en du <tld/>oj
+        <fnt><bib>PrV</bib></fnt>;
+      </ekz>
+      <ekz>
+        li &ccirc;eestis per propra <tld/>o.
+      </ekz>
+    </dif>
+    <trd lng="cs">t&ecaron;lo</trd>
+    <trd lng="en">body</trd>
+    <trd lng="de">Leib</trd>
+  </snc>
+  <snc>
+    <dif>
+      &Ccirc;iu aro da materiaj eroj:
+      <ekz>
+        &ccirc;iuj <tld/>oj havas dimension kaj
+        pezon;
+      </ekz>
+      <ekz>
+        organika, neorganika <tld/>o;
+      </ekz>
+      <ekz>
+        solida, fluida, gasa, simpla, komponita <tld/>o
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="materi.0o">materio</ref>,
+      <ref cel="sxtof.0o">&scirc;tofo</ref>,
+      <ref cel="substa.0o">substanco</ref>,
+      <ref cel="elemen.0o">elemento</ref>.
+    </refgrp>
+    <trd lng="cs">t&ecaron;lo</trd>
+    <trd lng="en">body</trd>
+  </snc>
+  <snc mrk="korp.0o.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>EKV</bib>, <lok>&para;233</lok></fnt>
+    <dif>
+      Tia <ref cel="unu.0hava">unuhava</ref>
+      <ref tip="super" cel="ring.0o.MAT">ringo</ref>
+      <frm>(<g>E</g>,&#8224;,&#215;)</frm>, ke krom la
+      <ref cel="neuxtr.0aelemento">ne&ubreve;tra elemento</ref>
+      de <frm>&#8224;</frm> &ccirc;iuj aliaj elementoj estas
+      <ref cel="neuxtr.0igebla.MAT">ne&ubreve;trigeblaj</ref>
+      rilate al <frm>&#215;</frm>:
+      <ekz>
+        la <tld/>o de racionalaj nombroj.
+      </ekz>
+    </dif>
+    <ref tip="super" cel="strukt.algebra0o">algebra strukturo;</ref>
+    <refgrp tip="sub">
+      <ref cel="korp.frakci0o">frakci<tld/>o</ref>,
+      <ref cel="korp.galeza0o">galeza <tld/>o</ref>,
+      <ref cel="korp.galezasuper0o">galeza super<tld/>o</ref>,
+      <ref cel="korp.invarianto0o">invarianto<tld/>o</ref>,
+      <ref cel="korp.radika0o">radika <tld/>o</ref>,
+      <ref cel="korp.sub0o">sub<tld/>o</ref>,
+      <ref cel="korp.super0o">super<tld/>o</ref>.
+    </refgrp>
+    <rim>
+      La&ubreve; kelkaj la komuteco de operacio <frm>&#215;</frm> estas
+      deviga en la difino de <tld/>o. Aliaj preferas nomi
+      <ctl>kampoj</ctl>
+      la <ref cel="komut.0eca.ringo">komutecajn</ref> <tld/>ojn.
+    </rim>
+    <trd lng="de">K&ouml;rper</trd>
+    <trd lng="en">field</trd>
+    <trd lng="pl">cia&lstroke;o</trd>
+    <trd lng="hu">sz&aacute;mtest</trd>
+    <trd lng="pt">corpo</trd>
+  </snc>
+  <snc mrk="korp.0o.solido">
+    <uzo tip="fak">MAT</uzo>
+    <uzo tip="stl">ARK</uzo>
+    <fnt><bib>MatTerm</bib>, <lok>p. 25</lok></fnt>
+    <ref tip="dif" cel="solid.0o.geometrio">solido.</ref>
+    <trdgrp lng="de">
+      <trd>K&ouml;rper</trd>,
+      <trd>geometrischer <ind>K&ouml;rper</ind></trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>geometric <ind>body</ind></trd>,
+      <trd>solid</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>solide<klr tip="ind"> (figure g&eacute;om&eacute;trique)</klr></trd>,
+      <trd>volume<klr tip="ind"> (figure g&eacute;om&eacute;trique)</klr></trd>,
+      <trd>corps g&eacute;om&eacute;trique</trd>
+    </trdgrp>
+    <trd lng="pl">bry&lstroke;a</trd>
+    <trdgrp lng="ru">
+      <trd>&c_t;&c_je;&c_l;&c_o;</trd>,
+      <trd>&c_g;&c_je;&c_o;&c_m;&c_je;&c_t;&c_r;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_o;&c_je; <ind>&c_t;&c_je;&c_l;&c_o;</ind></trd>
+    </trdgrp>
+  </snc>
+  <trd lng="be">&c_c;&c_je;&c_l;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>trup</trd>,
+    <trd>těleso</trd>,
+    <trd>tělo</trd>,
+    <trd>tělísko</trd>
+  </trdgrp>
+  <trd lng="es">cuerpo</trd>
+  <trd lng="fr">corps</trd>
+  <trd lng="hu">test</trd>
+  <trd lng="it">corpo</trd>
+  <trd lng="nl">lichaam</trd>
+  <trd lng="ru">&c_t;&c_je;&c_l;&c_o;</trd>
+  <trdgrp lng="sk">
+    <trd>teleso</trd>,
+    <trd>telo</trd>,
+    <trd>trup</trd>
+  </trdgrp>
+  <trd lng="vo">kop</trd>
+</drv>
+
+<drv mrk="korp.0a">
+  <kap><tld/>a</kap>
+  <snc>
+    <dif>
+      Rilata al <tld/>o:
+      <ekz>
+        <tld/>a puno<fnt>B</fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_c;&c_je;&c_l;&c_a;&c_v;&c_y;</trd>,
+    <trd>&c_c;&c_ja;&c_l;&c_je;&c_s;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>halucinace sluchové</trd>,
+    <trd>smíšené</trd>,
+    <trd>tělesné</trd>,
+    <trd>zrakové</trd>,
+    <trd>čichové</trd>
+  </trdgrp>
+  <trd lng="es">corporal</trd>
+  <trdgrp lng="fr">
+    <trd>corporel</trd>,
+    <trd>physique</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>testi</trd>,
+    <trd>fizikai</trd>
+  </trdgrp>
+  <trd lng="id">fisik</trd>
+  <trdgrp lng="it">
+    <trd>corporale</trd>,
+    <trd>fisico</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>lichamelijk</trd>,
+    <trd>lichaams-</trd>
+  </trdgrp>
+  <trd lng="ru">&c_t;&c_je;&c_l;&c_je;&c_s;&c_n;&c_y;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>halucinácie sluchová</trd>,
+    <trd>telesná</trd>,
+    <trd>zmiešaná</trd>,
+    <trd>zraková</trd>,
+    <trd>čuchová</trd>
+  </trdgrp>
+  <trd lng="vo">kopik</trd>
+</drv>
+
+<drv mrk="korp.en0igi">
+  <kap>en<tld/>igi</kap>
+  <snc>
+    <dif>
+      Fari, ke io havu <tld/>on; prezenti ion abstraktan sub <tld/>a,
+      konkreta
+      formo:
+      <ekz>
+        skulptisto <tld/>igas siajn revojn;
+      </ekz>
+      <ekz>
+        lingvo internacia en<tld/>igas en si homfratigan
+        ideon<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        li sola en<tld/>igas la tutan aktivecon de l' grupo.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_u;&c_c;&c_ja;&c_l;&c_je;&c_s;&c_mol;&c_n;&c_ib;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>inkorporovat</trd>,
+    <trd>vpravit do těla</trd>,
+    <trd>vtělovat</trd>,
+    <trd>včleňovat</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>concr&eacute;tiser</trd>,
+    <trd>incarner</trd>
+  </trdgrp>
+  <trd lng="id">[<ind>bentuk</ind>] membentuk</trd>
+  <trdgrp lng="it">
+    <trd>incarnare</trd>,
+    <trd>incorporare</trd>,
+    <trd>personificare</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>belichamen</trd>,
+    <trd>personifi&euml;ren</trd>
+  </trdgrp>
+  <trd lng="pl">wciela&cacute;</trd>
+  <trdgrp lng="ru">
+    <trd>&c_v;&c_o;&c_p;&c_l;&c_o;&c_t;&c_i;&c_t;&c_mol;</trd>,
+    <trd>&c_v;&c_o;&c_p;&c_l;&c_o;&c_shch;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>stelesniť</trd>,
+    <trd>vteliť</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="korp.en0igxo">
+  <kap>en<tld/>i&gcirc;o</kap>
+  <snc mrk="korp.en0igxo.KOMUNE">
+    <dif>
+      Apero en iu korpo a&ubreve; en iu ekstera formo:
+      <ekz>
+        tiuj fremdaj esprimoj en<tld/>i&gcirc;is en la lingvo;
+      </ekz>
+      <ekz>
+        oni rigardis lin kiel teran en<tld/>i&gcirc;on de la plej alta 
+        dieco
+        <fnt>
+        <bib>I&scirc;tar</bib>,
+        <lok>&ccirc;apitro 22a</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        papilio kaj lotuso en la &ccirc;ina folkloro estas 
+        en<tld/>i&gcirc;o de amo
+        <fnt>
+        <aut>Peng De</aut>,
+        <vrk><url ref="http://www.chinareport.com.cn/15p/15p-4.htm">
+        Ksilografo Chen Qi kaj liaj verkoj</url></vrk>,
+        <lok>[vidita en 2007-01]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="karn.en0igxo">enkarni&gcirc;o</ref>,
+      <ref cel="konkre">konkreti&gcirc;i</ref>,
+      <ref cel="person">personigi</ref>
+    </refgrp>
+  </snc>
+  <trd lng="fr">incarnation</trd>
+  <trd lng="id">inkarnasi</trd>
+  <trdgrp lng="it">
+    <trd>incarnazione</trd>,
+    <trd>personificazione</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>incarnatie</trd>,
+    <trd>belichaming</trd>,
+    <trd>verpersoonlijking</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="korp.sub0o">
+  <kap>sub<tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <snc>
+    <dif>
+      <klr>(de <ref tip="super" cel="korp.0o.MAT"><tld/>o</ref>
+      <frm><g>K</g></frm>)</klr>
+      &Ccirc;iu unuhava <ref tip="super" cel="ring.sub0o">subringo</ref>
+      de &gcirc;i, kiu subringo estas anka&ubreve; <tld/>o.
+    </dif>
+  </snc>
+  <adm>
+    Fonto trovenda, sed la formo estas tute regula. <aut>MB</aut>
+  </adm>
+  <trd lng="be">&c_p;&c_a;&c_d;&c_p;&c_o;&c_l;&c_je;</trd>
+  <trd lng="de">Unterk&ouml;rper</trd>
+  <trd lng="en">subfield</trd>
+  <trd lng="fr">sous-corps</trd>
+  <trd lng="id">subbidang</trd>
+  <trd lng="it">sottocampo</trd>
+  <trd lng="pl">podcia&lstroke;o</trd>
+  <trd lng="ru">&c_p;&c_o;&c_d;&c_p;&c_o;&c_l;&c_je;</trd>
+</drv>
+
+<drv mrk="korp.super0o">
+  <kap>super<tld/>o, <var><kap>supera <tld/>o<fnt><bib>EKV</bib>,
+  <lok>&para;234</lok></fnt></kap></var></kap>
+  <uzo tip="fak">MAT</uzo>
+  <snc>
+    <dif>
+      <klr>(de <ref tip="super" cel="korp.0o.MAT"><tld/>o</ref>
+      <frm><g>K</g></frm>)</klr>
+      Tia <tld/>o, ke <frm><g>K</g></frm> estas
+      <ref cel="korp.sub0o">sub<tld/>o</ref> de &gcirc;i.
+    </dif>
+    <rim>
+      La naciaj lingvoj konas por &ccirc;i tiu nocio sinonimon signifantan
+      <ctl>vastiga&jcirc;o</ctl>. Efektive, la super<tld/>o ofte rezultas
+      el konscia klopodo konstrui ion pli vastan ol la baza korpo. Tial
+      trovi&gcirc;as en <fnt><bib>EKV</bib>, <lok>&para;234</lok></fnt> la
+      termino <ctl><tld/>opluiga&jcirc;o</ctl> (cetere kun iom pli abstrakta
+      difino, nome: paro de korpoj). La tempa nuanco entenata en
+      <ctl>pluigi</ctl> igas tamen la terminon iom mistrafa.
+    </rim>
+  </snc>
+  <adm>
+    Fonto trovenda, sed la formo estas tute regula. Notu, ke EKV
+    diras "supera korpo", sed la kunmetajxo
+    per "super" sxajnas al mi malpli problema.
+    <aut>MB</aut>
+  </adm>
+  <trdgrp lng="be">
+    <trd>&c_n;&c_a;&c_d;&c_p;&c_o;&c_l;&c_je;</trd>,
+    <trd>&c_p;&c_a;&c_sh;&c_y;&c_r;&c_e;&c_n;&c_mol;&c_n;&c_je; <klr
+    tip="amb">(&c_p;&c_a;&c_d;&c_p;&c_o;&c_l;&c_ja;)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Oberk&ouml;rper</trd>,
+    <trd>K&ouml;rpererweiterung</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>overfield</trd>,
+    <trd>extension field</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>sur-corps</trd>,
+    <trd>extension d'un corps</trd>
+  </trdgrp>
+  <trd lng="it"><ind>estensione</ind> di campo</trd>
+  <trdgrp lng="pl">
+    <trd>nadcia&lstroke;o</trd>,
+    <trd>rozszerzenie<klr tip="ind"> (cia&lstroke;a)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_n;&c_a;&c_d;&c_p;&c_o;&c_l;&c_je;</trd>,
+    <trd>&c_r;&c_a;&c_s;&c_sh;&c_i;&c_r;&c_je;&c_n;&c_i;&c_je;<klr tip="ind">
+    (&c_p;&c_o;&c_d;&c_p;&c_o;&c_l;&c_ja;)</klr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="korp.frakci0o">
+  <kap>frakci<tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <snc>
+    <dif>
+      <klr>(de <ref cel="komut.0eca.ringo">komuteca</ref>
+      <ref cel="integr.0a.MAT">integra</ref>
+      <ref cel="ring.0o.MAT">ringo</ref> <frm><g>R</g></frm>)</klr>
+      <ref tip="super" cel="korp.0o.MAT"><tld lit="K"/>o</ref>,
+      konstruita
+      super <frm><g>R</g></frm> la&ubreve; maniero simila al la maniero
+      konstrui la korpon de racionaloj super la ringo de entjeroj, t.e.
+      uzante
+      <ref cel="frakci.0o.MAT">frakciojn</ref>:
+      <ekz>
+        la frakci<tld/>on de la polinomringo
+        <frm><g>R</g>[<g>X</g>]</frm>
+        oni kutime signas per <frm><g>R</g>(<g>X</g>)</frm>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">těleso zlomků</trd>
+  <trdgrp lng="de">
+    <trd>Quotientenk&ouml;rper</trd>,
+    <trd>K&ouml;rper der Br&uuml;che</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>quotient <ind>field</ind></trd>,
+    <trd>fraction <ind>field</ind></trd>
+  </trdgrp>
+  <trd lng="fr">corps des fractions</trd>
+  <trd lng="pl">cia&lstroke;o u&lstroke;amk&oacute;w</trd>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_o;&c_l;&c_je; &c_ch;&c_a;&c_s;&c_t;&c_n;&c_y;&c_h;</trd>,
+    <trd>&c_p;&c_o;&c_l;&c_je; &c_d;&c_r;&c_o;&c_b;&c_je;&c_j;</trd>
+  </trdgrp>
+  <trd lng="sk">teleso zlomkov</trd>
+</drv>
+
+<drv mrk="korp.galeza0o">
+  <kap>galeza <tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <snc>
+    <dif>
+      Finia <ref tip="super" cel="korp.0o.MAT"><tld/>o</ref>:
+      <ekz>
+        la kardinalo de galeza <tld/>o estas potenco de primo.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="galez.0o">Galezo</ref>.
+    </refgrp>
+  </snc>
+  <adm>
+    Fonto trovenda. <aut>MB</aut>
+  </adm>
+  <trd lng="be">&c_p;&c_o;&c_l;&c_je; &c_G;&c_a;&c_l;&c_u;&c_a;</trd>
+  <trd lng="de">Galoisfeld</trd>
+  <trd lng="en">Galois['s] <ind>field</ind></trd>
+  <trd lng="fr">corps de Galois</trd>
+  <trd lng="it"><ind>gruppo</ind> di Galois</trd>
+  <trd lng="pl">cia&lstroke;o sko&nacute;czone</trd>
+  <trd lng="ru">&c_p;&c_o;&c_l;&c_je; &c_G;&c_a;&c_l;&c_u;&c_a;</trd>
+</drv>
+
+<drv mrk="korp.galezasuper0o">
+  <kap>galeza super<tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <snc>
+    <dif>
+      <klr>(de <ref tip="super" cel="korp.0o.MAT"><tld/>o</ref>
+      <frm><g>K</g></frm>)</klr>
+      Tia <ref tip="super" cel="korp.super0o">super<tld/>o</ref>
+      <frm><g>K'</g></frm> de <frm><g>K</g></frm>, ke &gcirc;i havas
+      finian <ref cel="grad.0o.superkorpo">gradon</ref> kaj ke la
+      <ref cel="korp.invarianto0o">invariantokorpo</ref> de la
+      <ref cel="grup.galeza0o.de_superkorpo">galeza grupo</ref>
+      <frm>Gal(<g>K'</g>/<g>K</g>)</frm> egalas al <frm><g>K</g></frm>.
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="galez.0o">Galezo</ref>.
+    </refgrp>
+  </snc>
+  <adm>
+    Fonto trovenda. <aut>MB</aut>
+  </adm>
+  <trd lng="be">&c_p;&c_a;&c_sh;&c_y;&c_r;&c_e;&c_n;&c_mol;&c_n;&c_je; &c_G;&c_a;&c_l;&c_u;&c_a;</trd>
+  <trd lng="de">galoissche <ind>Erweiterung</ind></trd>
+  <trd lng="en">Galois['s] <ind>extension</ind></trd>
+  <trd lng="fr">extension galoisienne</trd>
+  <trd lng="pl">rozszerzenie Galois</trd>
+  <trd lng="ru">&c_r;&c_a;&c_s;&c_sh;&c_i;&c_r;&c_je;&c_n;&c_i;&c_je; &c_G;&c_a;&c_l;&c_u;&c_a;</trd>
+</drv>
+
+<drv mrk="korp.invarianto0o">
+  <kap>invarianto<tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <snc>
+    <dif>
+      <klr>(de grupo de <ref cel="auxtom2.0o">a&ubreve;tomorfioj</ref> super
+      <ref tip="super" cel="korp.0o.MAT"><tld/>o</ref>
+      <frm><g>K</g></frm>)</klr>
+      La sub<tld/>o de <frm><g>K</g></frm>, enhavanta la
+      <ref cel="invari.0o">invariantojn</ref> komunajn al &ccirc;iuj
+      a&ubreve;tomorfioj.
+    </dif>
+  </snc>
+  <adm>
+    Fonto trovenda. <aut>MB</aut>
+  </adm>
+  <trd lng="be">&c_p;&c_o;&c_l;&c_je; &c_ib;&c_n;&c_v;&c_a;&c_r;&c_y;&c_ja;&c_n;&c_t;&c_a;&c_w;</trd>
+  <trd lng="de">Invariantenk&ouml;rper</trd>
+  <trd lng="en">fixed <ind>field</ind></trd>
+  <trd lng="fr">corps des invariants</trd>
+  <trd lng="pl">cia&lstroke;o niezmiennik&oacute;w</trd>
+  <trd lng="ru">&c_p;&c_o;&c_l;&c_je; &c_i;&c_n;&c_v;&c_a;&c_r;&c_i;&c_a;&c_n;&c_t;&c_o;&c_v;</trd>
+</drv>
+
+<drv mrk="korp.radika0o">
+  <kap>radika <tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <snc>
+    <dif>
+      <klr>(de <ref cel="polino.0o">polinomo</ref> <frm><g>P</g></frm>
+      super
+      <ref tip="super" cel="korp.0o.MAT"><tld/>o</ref>
+      <frm><g>K</g></frm>)</klr>
+      La plej malgranda super<tld/>o de <frm><g>K</g></frm>, enhavanta
+      &ccirc;iujn <ref cel="radik.0o.polinomo">radikojn</ref>
+      de <frm><g>P</g></frm>:
+      <ekz>
+        la radika <tld/>o de la reela polinomo
+        <frm><g>X</g><sup>2</sup>+<g>1</g></frm>
+        estas la korpo de kompleksoj.
+      </ekz>
+    </dif>
+  </snc>
+  <adm>
+    Fonto trovenda. <aut>MB</aut>
+  </adm>
+  <trd lng="be">&c_p;&c_o;&c_l;&c_je; &c_r;&c_a;&c_s;&c_k;&c_l;&c_a;&c_d;&c_u; <klr
+  tip="amb">(&c_m;&c_n;&c_a;&c_g;&c_a;&c_s;&c_k;&c_l;&c_a;&c_d;&c_a;)</klr></trd>
+  <trd lng="de">Wurzelk&ouml;rper<klr tip="ind"> (eines
+  Polynoms)</klr></trd>
+  <trd lng="en">root <ind>field</ind><klr tip="ind"> (of a
+  polynomial)</klr></trd>
+  <trd lng="fr">corps des racines<klr tip="ind"> (d'un
+  polyn&ocirc;me)</klr></trd>
+  <trd lng="ru">&c_p;&c_o;&c_l;&c_je; &c_r;&c_a;&c_z;&c_l;&c_o;&c_zh;&c_je;&c_n;&c_i;&c_ja;<klr tip="ind">
+  (&c_m;&c_n;&c_o;&c_g;&c_o;&c_ch;&c_l;&c_je;&c_n;&c_a;)</klr></trd>
+</drv>
+
+<drv mrk="korp.tut0a">
+  <kap>tut<tld/>a</kap>
+  <snc mrk="korp.tut0a.KOMUNE">
+    <dif>
+      Koncernanta la tutan <tld/>on:
+      <ekz>
+        li tremis tut<tld/>e
+        <fnt><aut>C. Piron</aut>, <vrk>&Ccirc;u ni kunvenis 
+        vane?</vrk>, <lok>1982</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">systemický</trd>
+  <trd lng="fr">du <ind>corps entier</ind></trd>
+  <trd lng="id"><ind>seluruh</ind> tubuh</trd>
+  <trd lng="sk">systemický</trd>
+</drv>
+</art>
+<!--
+$Log: korp.xml,v $
+Revision 1.45  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.44  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.43  2014/07/11 15:10:26  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.42  2014/02/07 02:10:17  revo
+Jeromo Vasxe: + tut~a
+
+Revision 1.41  2012/10/23 00:12:28  revo
+Neil Roberts: aldonu la etikedon <var>
+
+Revision 1.40  2010/11/25 17:30:40  revo
+Antonio Codazzi: +trd it
+
+Revision 1.39  2010/07/05 16:30:34  revo
+Agustin Garcia Lopez: +trd es
+
+Revision 1.38  2009/09/13 16:56:25  revo
+Paul Peeraerts: +nl
+
+Revision 1.37  2007/01/25 17:30:39  revo
+Jeromo Vasxe: + en~igxo
+
+Revision 1.36 2006/11/14 17:30:38 revo
+-->
+</vortaro>

@@ -1,0 +1,190 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: balon.xml,v 1.30 2015/07/04 08:37:31 revo Exp $">
+<kap>
+  <rad>balon</rad>/o
+  <ofc>2</ofc>
+</kap>
+
+<drv mrk="balon.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="balon.0o.KOMUNE">
+    <dif>
+      Fluga&jcirc;o el membrano plenigita per malpeza gaso:
+    </dif>
+    <subsnc mrk="balon.0o.SPO">
+      <uzo tip="fak">SPO</uzo>
+      <dif>
+        <ref tip="lst" cel="lud.0ilo" lst="voko:ludiloj">Ludilo</ref>,
+        el
+        ka&ubreve;&ccirc;uko,
+        diverskolora, kolbas- a&ubreve; glob-forma, kiun oni plenblovas
+        per
+        aero
+        a&ubreve; per gaso kaj tenas per longa maldika &scirc;nureto.
+      </dif>
+      <refgrp tip="vid">
+        <ref cel="pilk.0o">pilko</ref>
+      </refgrp>
+      <trd lng="bg">&c_b;&c_a;&c_l;&c_o;&c_n;</trd>
+      <trd lng="de">Ballon</trd>
+      <trd lng="el">&alfa;&epsilon;&rho;&omikron_ton;&sigma;&tau;&alfa;&tau;&omikron;</trd>
+      <trd lng="en">balloon</trd>
+      <trd lng="es">bal&oacute;n</trd>
+      <trdgrp lng="fr">
+        <trd>ballon<klr tip="ind"> (jouet qui flotte en
+        l'air)</klr></trd>
+      </trdgrp>
+      <trd lng="hu">l&eacute;gg&ouml;mb<klr tip="ind">
+      (j&aacute;t&eacute;k)</klr></trd>
+      <trd lng="id">balon</trd>
+      <trd lng="it">palloncino</trd>
+      <trd lng="nl">ballon</trd>
+      <trd lng="pl">balonik</trd>
+      <trd lng="ru">&c_v;&c_o;&c_z;&c_d;&c_u;&c_sh;&c_n;&c_y;&c_j;
+      &c_sh;&c_a;&c_r;&c_i;&c_k;</trd>
+    </subsnc>
+    <subsnc mrk="balon.0o.aerostato">
+      <uzo tip="fak">AVI</uzo>
+      <ref tip="dif" cel="aerost.0o.AVI">aerostato</ref>
+      <ekz>
+        mi jam ellasis tiom da gaso el mia <tld/>o ke mi ne povis
+        relevi&gcirc;i
+        <fnt><bib>DOz</bib>, <lok>&leftquot;la alveno de la
+        sor&ccirc;isto&rightquot;</lok></fnt>.
+      </ekz>
+      <trd lng="es">globo</trd>
+      <trd lng="en">balloon</trd>
+      <trdgrp lng="fr">
+        <trd>ballon<klr tip="ind"> (a&eacute;rostat)</klr></trd>,
+        <trd>a&eacute;rostat</trd>
+      </trdgrp>
+      <trd lng="hu">l&eacute;gg&ouml;mb<klr tip="ind">
+      (j&aacute;m&udblac;)</klr></trd>
+      <trdgrp lng="nl">
+        <trd>ballon</trd>,
+        <trd>luchtballon</trd>
+      </trdgrp>
+      <trdgrp lng="it">
+        <trd>pallone<klr> (aerostato)</klr></trd>,
+        <trd>aerostato</trd>
+      </trdgrp>
+      <trd lng="pl">balon</trd>
+      <trdgrp lng="ru">
+        <trd>&c_v;&c_o;&c_z;&c_d;&c_u;&c_sh;&c_n;&c_y;&c_j;
+        &c_sh;&c_a;&c_r;</trd>,
+        <trd>&c_a;&c_e;&c_r;&c_o;&c_s;&c_t;&c_a;&c_t;</trd>,
+        <trd>&c_b;&c_a;&c_l;&c_l;&c_o;&c_n;</trd>
+      </trdgrp>
+    </subsnc>
+  </snc>
+  <snc mrk="balon.0o.KEM">
+    <uzo tip="fak">KEM</uzo>
+    <dif>
+      Vitra sferoforma vazo uzata en &hcirc;emio.
+    </dif>
+    <ref tip="vid" cel="retort.0o">retorto</ref>
+    <trd lng="de">Glaskolben</trd>
+    <trdgrp lng="fr">
+      <trd>ballon<klr tip="ind"> (vase sph&eacute;rique)</klr></trd>
+    </trdgrp>
+    <trd lng="hu">lombik</trd>
+    <trd lng="it">matraccio</trd>
+    <trdgrp lng="nl">
+      <trd>retort</trd>,
+      <trd>kolf<klr tip="ind"> (retort)</klr></trd>
+    </trdgrp>
+    <trd lng="en">flask</trd>
+    <trd lng="ru">&c_r;&c_je;&c_t;&c_o;&c_r;&c_t;&c_a;</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>balon</trd>,
+    <trd>baňka</trd>
+  </trdgrp>
+  <trd lng="sk">banka <klr>(nádoba)</klr></trd>
+</drv>
+
+<drv mrk="balon.prov0o">
+  <kap>prov<tld/>o</kap>
+  <snc mrk="balon.prov0o.MET">
+    <uzo tip="fak">MET</uzo>
+    <dif>
+      <tld lit="B"/>o <sncref ref="balon.0o.aerostato"/>, uzata
+      por esplori la atmosferon kaj sendi mezurojn.
+    </dif>
+    <rim>
+      Por &ccirc;i tiu senco la termino <ctl>sondo<tld/>o</ctl>
+      aperas en <fnt><bib>PIV1</bib></fnt>. Estas tamen strange
+      limigi <ctl>prov<tld/>o</ctl> al la nura figura senco.
+    </rim>
+    <trd lng="it"><ind>pallone</ind> sonda</trd>
+  </snc>
+  <snc mrk="balon.prov0o.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Prova diro a&ubreve; faro, farita por ekscii ies opinion:
+      <ekz>
+        <ind>li flugigis prov<tld/>on</ind>
+        <klr>(diris ion nur por ekscii pri la reago)</klr>
+        <fnt><aut>Wouter Pilger</aut><vrk>Slango kaj
+        &jcirc;argono</vrk><lok><url
+        ref="http://www.geocities.com/Paris/8678/slangocx.htm">balono</url></lok></fnt>.
+        <trd lng="de">er startete einen <ind>Testballon</ind></trd>
+        <trd lng="fr">il a lanc&eacute; un <ind>ballon</ind>
+        d'essai</trd>
+        <trd lng="it">gettare un sasso nello stagno</trd>
+        <trdgrp lng="nl">
+          <trd>hij liet een <ind>ballonetje</ind> op</trd>,
+          <trd>hij liet een <ind>proefballonetje</ind> op</trd>
+        </trdgrp>
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>sonda</trd>,
+    <trd>výzkum veř. mínění</trd>
+  </trdgrp>
+  <trd lng="de">Testballon</trd>
+  <trdgrp lng="fr">
+    <trd><ind>ballon</ind>-sonde</trd>,
+    <trd><ind>ballon</ind> d'essai</trd>
+  </trdgrp>
+  <trd lng="id"><ind>balon</ind> cuaca</trd>
+  <trd lng="nl">proefballon</trd>
+  <trd lng="sk">sonda</trd>
+</drv>
+</art>
+<!--
+$Log: balon.xml,v $
+Revision 1.30  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.29  2015/06/29 16:29:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.28  2015/05/21 17:10:17  revo
+Joop Eggen: korekto de/el
+
+Revision 1.27  2014/10/24 15:10:20  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.26  2013/09/08 19:10:40  revo
+Wolfram Diestel: ref al listo ludiloj
+
+Revision 1.25  2011/06/24 06:10:10  revo
+Glavkos Xaon: greka defino de la vorto
+
+Revision 1.24  2009/12/18 17:30:30  revo
+Antonio Codazzi: +trd it
+
+Revision 1.23  2009/08/18 19:20:39  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.22  2009/02/23 17:30:40  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.21  2008/12/27 17:30:28  revo
+-->
+</vortaro>

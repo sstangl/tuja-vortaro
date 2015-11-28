@@ -1,0 +1,116 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: cister.xml,v 1.20 2015/07/04 08:37:32 revo Exp $">
+<kap>
+  <ofc>3</ofc>
+  <rad>cistern</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="cister.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="cister.0o.AKV">
+    <dif>
+      Rezervujo por pluvakvo, ordinare subtera:
+      <ekz>
+        <klr>[la]</klr> korto entenis iun monstran <tld/>on
+        el lado, de kiu plurfoje tage mi devis eltiri akvon
+        <fnt>
+          <aut>A. LeQuint</aut>,
+          <vrk>Infantraviva&jcirc;oj</vrk>,
+          <lok>2006</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="basen.0o.HOR">baseno <sncref/></ref>,
+      <ref cel="kuv.0o.KOMUNE">kuvo</ref>
+    </refgrp>
+    <trd lng="de">Zisterne</trd>
+    <trd lng="hu">ciszterna</trd>
+    <trdgrp lng="nl">
+      <trd>cisterne</trd>,
+      <trd>regenput</trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>cysterna</trd>,
+      <trd>zbiornik</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="cister.0o.NAF">
+    <dif>
+      Rezervujo por nafto.
+    </dif>
+    <trd lng="hu">k&odblac;olajtart&aacute;ly</trd>
+    <trd lng="de">Tank</trd>
+    <trd lng="nl">tank</trd>
+    <trdgrp lng="pl">
+      <trd>cysterna</trd>,
+      <trd>zbiornik</trd>,
+      <trd>bak</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="be">&c_c;&c_y;&c_s;&c_t;&c_e;&c_r;&c_n;&c_a;</trd>
+  <trdgrp lng="ca">
+    <trd>cisterna</trd>,
+    <trd>dip&ograve;sit</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>cisterna</trd>,
+    <trd>káď</trd>,
+    <trd>nádrž</trd>,
+    <trd>rezervoár</trd>,
+    <trd>zásobník</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>cistern</trd>,
+    <trd>reservoir</trd>,
+    <trd>tank</trd>
+  </trdgrp>
+  <trd lng="es">cisterna</trd>
+  <trd lng="fr">citerne</trd>
+  <trd lng="it">cisterna</trd>
+  <trd lng="pt">cisterna</trd>
+  <trdgrp lng="ru">
+    <trd>&c_c;&c_i;&c_s;&c_t;&c_je;&c_r;&c_n;&c_a;</trd>,
+    <trd>&c_b;&c_a;&c_k;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>cisterna</trd>,
+    <trd>nádrž</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: cister.xml,v $
+Revision 1.20  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2012/07/31 19:10:15  revo
+Marc Rausell: + trd ca
+
+Revision 1.17  2010/08/03 16:31:55  revo
+Russ Williams: +trd en
+
+Revision 1.16  2009/11/22 17:30:27  revo
+Jeromo Vasxe: + mrk + 1 ekz + 1 ref
+
+Revision 1.15  2009/08/18 19:16:54  revo
+Antonio Codazzi: +trd it
+
+Revision 1.14  2009/08/11 16:31:32  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.13  2009/04/17 19:50:21  revo
+Sebastian Cyprych: +trd pl +ref baseno
+
+Revision 1.12  2006/10/22 18:03:59  revo
+Wieland Pusch: +trd de
+
+Revision 1.11  2003/12/05 17:32:03  revo
+-->
+</vortaro>

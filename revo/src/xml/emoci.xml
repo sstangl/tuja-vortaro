@@ -1,0 +1,263 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: emoci.xml,v 1.20 2015/07/04 08:37:33 revo Exp $">
+<kap>
+<ofc>3</ofc>
+<rad>emoci</rad>/i
+</kap>
+<drv mrk="emoci.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      Forte tu&scirc;i, movi la animon:
+      <ekz>
+        <tld/>i iun &gcirc;is larmoj;
+      </ekz>
+      <ekz>
+        <klr>[la konfirmaciatoj]</klr> estis <tld/>itaj
+        <fnt><bib>Fab2</bib>, <lok>Sonorilo</lok></fnt>.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="kor.0tusxi">kortu&scirc;i</ref>
+    <ref tip="super" cel="ekscit.0i.anime">eksciti</ref>
+    <refgrp tip="vid">
+      <ref cel="sku.0i">skui</ref>,
+      <ref cel="agit.0i">agiti</ref>.
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_h;&c_v;&c_a;&c_l;&c_ja;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>dojímat</trd>,
+    <trd>vzrušit</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>ergreifen</trd>,
+    <trd>r&uuml;hren</trd>,
+    <trd>bewegen</trd>,
+    <trd>ersch&uuml;ttern</trd>
+  </trdgrp>
+  <trd lng="en">affect <klr>(emotionally)</klr></trd>
+  <trd lng="es">emocionar</trd>
+  <trdgrp lng="fr">
+    <trd>&eacute;mouvoir</trd>,
+    <trd>remuer<klr tip="ind"> (&eacute;mouvoir)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>meghat</trd>,
+    <trd>megind&iacute;t</trd>
+  </trdgrp>
+  <trd lng="nl">ontroeren</trd>
+  <trd lng="pl">wzrusza&cacute;</trd>
+  <trdgrp lng="pt">
+    <trd>emocionar</trd>,
+    <trd>comover</trd>,
+    <trd>sensibilizar</trd>,
+    <trd>abalar</trd>
+  </trdgrp>
+  <trd lng="ru">&c_v;&c_o;&c_l;&c_n;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>dojať</trd>,
+    <trd>rozochvieť</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="emoci.0o">
+  <kap><tld/>o</kap>
+  <snc>
+    <dif>
+      Kortu&scirc;o:
+      <ekz>
+        tiuj paroloj estigis grandan <tld/>on en la &ccirc;eestantaro;
+      </ekz>
+      <ekz>
+        dolora <tld/>o montri&gcirc;is sur &scirc;ia viza&gcirc;o.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>Bewegtheit</trd>,
+      <trd>Gem&uuml;tsbewegung</trd>,
+      <trd>R&uuml;hrung</trd>,
+      <trd>seelische Erregung</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>meghatotts&aacute;g</trd>,
+      <trd>megindults&aacute;g</trd>
+    </trdgrp>
+    <trd lng="nl">ontroering</trd>
+    <trd lng="pl">wzruszenie</trd>
+  </snc>
+  <snc>
+    <uzo tip="fak">FIL</uzo>
+    <dif>
+      &Ccirc;iu ajn afekcia stato.
+    </dif>
+    <trdgrp lng="de">
+      <trd>Emotion</trd>,
+      <trd>Gem&uuml;tszustand</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>indulat</trd>,
+      <trd>em&oacute;ci&oacute;</trd>
+    </trdgrp>
+    <trdgrp lng="nl">
+      <trd>emotie</trd>,
+      <trd>gemoedstoestand</trd>
+    </trdgrp>
+    <trd lng="pl">emocja</trd>
+  </snc>
+  <ref tip="sub" cel="afekci.0o">afekcio</ref>
+  <trdgrp lng="be">
+    <trd>&c_e;&c_m;&c_o;&c_c;&c_y;&c_ja;</trd>, 
+ 
+<trd>&c_p;&c_je;&c_r;&c_a;&c_zh;&c_y;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
+,
+    <trd>&c_h;&c_v;&c_a;&c_l;&c_ja;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
+  </trdgrp>
+  <trd lng="en">emotion</trd>
+  <trd lng="es">emoci&oacute;n</trd>
+  <trd lng="fr">&eacute;motion</trd>
+  <trdgrp lng="ru">
+    <trd>&c_e;&c_m;&c_o;&c_c;&c_i;&c_ja;</trd>,
+    <trd>&c_v;&c_o;&c_l;&c_n;&c_je;&c_n;&c_i;&c_je;</trd>,
+    <trd>&c_p;&c_je;&c_r;&c_je;&c_zh;&c_i;&c_v;&c_a;&c_n;&c_i;&c_je;</trd>
+  </trdgrp>
+  <adm>Precizigi ref al afekcio post enkonduko de snc-mrk
+tie<aut>wd</aut></adm>
+  <trdgrp lng="sk">
+    <trd>dojatie</trd>,
+    <trd>vzrušenie</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>cit</trd>,
+    <trd>citové pohnutí</trd>,
+    <trd>dojetí</trd>,
+    <trd>emoce</trd>,
+    <trd>hnutí mysli</trd>,
+    <trd>pocit</trd>,
+    <trd>pohnutí</trd>,
+    <trd>rozechvění</trd>,
+    <trd>vzrušení</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="emoci.0a">
+  <kap><tld/>a</kap>
+  <snc>
+    <dif>
+      Kortu&scirc;anta:
+      <ekz>
+        <tld/>a rakonto, situacio, gesto.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_e;&c_m;&c_a;&c_c;&c_y;&c_j;&c_n;&c_y;</trd>
+  <trdgrp lng="cs">
+    <trd>dojemný</trd>,
+    <trd>emocionální</trd>,
+    <trd>emoční</trd>,
+    <trd>pohnutý</trd>,
+    <trd>vzrušující</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>bewegt</trd>,
+    <trd>emotional</trd>,
+    <trd>emotionell</trd>,
+    <trd>ergreifend</trd>,
+    <trd>ger&uuml;hrt</trd>,
+    <trd>seelisch erregt</trd>
+  </trdgrp>
+  <trd lng="en">emotional</trd>
+  <trd lng="fr">&eacute;mouvant</trd>
+  <trdgrp lng="hu">
+    <trd>megind&iacute;t&oacute;</trd>,
+    <trd>meghat&oacute;</trd>
+  </trdgrp>
+  <trd lng="nl">emotioneel</trd>
+  <trdgrp lng="pl">
+    <trd>emocjonalny</trd>,
+    <trd>wzruszaj&aogonek;cy</trd>
+  </trdgrp>
+  <trd
+lng="ru">&c_e;&c_m;&c_o;&c_c;&c_i;&c_o;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_y;&c_j;
+</trd>
+  <trdgrp lng="sk">
+    <trd>dojemný</trd>,
+    <trd>emočný</trd>,
+    <trd>vzrušujúci</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="emoci.0igxi">
+  <kap><tld/>i&gcirc;i</kap>
+  <snc>
+    <dif>
+      Esti movita, kortu&scirc;ita de io:
+      <ekz>
+        li <tld/>i&gcirc;is anta&ubreve; tia mizero.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_je;&c_r;&c_a;&c_zh;&c_y;&c_v;&c_a;&c_c;&c_mol;</trd>, 
+    <trd>&c_h;&c_v;&c_a;&c_l;&c_ja;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>bewegt sein</trd>,
+    <trd>ergriffen werden</trd>,
+    <trd>ger&uuml;hrt sein</trd>,
+    <trd>ger&uuml;hrt werden</trd>
+  </trdgrp>
+  <trd lng="en">feel emotion</trd>
+  <trd lng="es">emocionarse</trd>
+  <trd lng="fr">s'<ind>&eacute;mouvoir</ind></trd>
+  <trdgrp lng="hu">
+    <trd>megindul</trd>,
+    <trd>meghat&oacute;dik</trd>,
+    <trd>indulatba j&ouml;n</trd>
+  </trdgrp>
+  <trd lng="nl">ontroerd worden</trd>
+  <trdgrp lng="pl">
+    <trd>emocjonowa&cacute; si&eogonek;</trd>,
+    <trd>wzrusza&cacute; si&eogonek;</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_v;&c_o;&c_l;&c_n;&c_o;&c_v;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>,
+    <trd>&c_p;&c_je;&c_r;&c_je;&c_zh;&c_i;&c_v;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: emoci.xml,v $
+Revision 1.20  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2015/06/28 08:10:15  revo
+Sergio Pokrovskij: +fnt
+
+Revision 1.17  2013/12/02 10:10:29  revo
+Damien Brucker: +trd fr
+
+Revision 1.16  2009/02/15 14:17:48  revo
+Russ Williams: +trd en
+
+Revision 1.15  2007/06/28 16:31:39  revo
+Tulio Flores: +tr pt
+
+Revision 1.14  2006/05/23 16:32:57  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.13  2005/02/25 17:33:45  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.12  2005/01/23 17:32:15  revo
+Paul Peeraerts: ald trd nl + belarangho
+
+Revision 1.11  2003/12/05 17:32:10  revo
+-->
+</vortaro>

@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: ergonomi.xml,v 1.12 2015/07/04 08:37:33 revo Exp $">
+<kap>
+  <rad>ergonomi</rad>/o <fnt><bib>PIV2</bib></fnt>
+</kap>
+
+<drv mrk="ergonomi.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="ergonomi.0o.TEK">
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      Studo de plej bona kunfunkciado de iloj kaj homoj por 
+      plej efika, sekura, komforta agado:
+      <ekz>
+        <tld/>o kaj formigo de produktoj
+        <fnt>
+          <aut>H. G. Frank, H. W. Franke</aut>,
+          <vrk><url
+          ref="http://wwwcs.uni-paderborn.de/extern/fb/2/Kyb.Paed/IAE/ttste.html">
+          Informaciestetiko</url></vrk>,
+          <lok>Institut f&uuml;r Kybernetik, 1997</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="dizajn.0o">dizajno</ref>,
+      <ref cel="funkci.0ismo.KOMUNE">funkciismo</ref>
+    </refgrp>
+  </snc>
+  <rim mrk="ergonomi.0o.RIM_SIN">
+    Alia esperantigo: <em>ergonomiko</em>:
+    <ekz>
+      <ctl>Enkonduko al ergonomiko kaj nuna scienca teorio pri la 
+      ka&ubreve;zoj de akcidentoj</ctl>
+      <fnt>
+        <aut>A. Lewanderska-Quednau</aut>,
+        <lok><url
+        ref="http://www.ais-sanmarino.org/arangxoj/sus18.html">
+        SUS 18</url>, 1997</lok>
+      </fnt>.
+    </ekz>
+  </rim>
+  <trd lng="be">&c_e;&c_r;&c_g;&c_a;&c_n;&c_o;&c_m;&c_ib;&c_k;&c_a;</trd>
+  <trd lng="bg">&c_je;&c_r;&c_g;&c_o;&c_n;&c_o;&c_m;&c_i;&c_k;&c_a;</trd>
+  <trd lng="de">Ergonomie</trd>
+  <trd lng="en">ergonomics</trd>
+  <trd lng="es">ergonom&iacute;a</trd>
+  <trd lng="fr">ergonomie</trd>
+  <trd lng="hu">ergon&oacute;mia</trd>
+  <trd lng="it">ergonomia</trd>
+  <trd lng="nl">ergonomie</trd>
+  <trd lng="pl">ergonomia</trd>
+  <trd lng="pt">ergonomia</trd>
+  <trd lng="sk">ergonómia</trd>
+  <trd lng="cs">ergonomie</trd>
+</drv>
+
+<drv mrk="ergonomi.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="ergonomi.0a.TEK">
+    <dif>
+      Farita la&ubreve; <tld/>o, oportuna, efika por sia funkcio:
+      <ekz>
+        <klr>[la legilo]</klr> ta&ubreve;gas por le&gcirc;eraj industriaj medioj, 
+        kiel po&scirc;taj aplikoj, danke al <klr>...</klr> <tld/>a fasonado 
+        kaj malgranda pezo
+        <fnt>
+          <aut>ABC-Pack</aut>,
+          <vrk>Legilo LynxTM D402</vrk>,
+          <lok><url ref="http://www.abc-pack.com/eo/">
+          Enujiga ma&scirc;inaro, 2004-05</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_e;&c_r;&c_g;&c_a;&c_n;&c_a;&c_m;&c_ib;&c_ch;&c_n;&c_y;</trd>
+  <trd lng="de">ergonomisch</trd>
+  <trd lng="en">ergonomic</trd>
+  <trd lng="es">ergon&oacute;mico</trd>
+  <trd lng="fr">ergonomique</trd>
+  <trd lng="hu">ergon&oacute;mikus</trd>
+  <trd lng="it">ergonomico</trd>
+  <trd lng="nl">ergonomisch</trd>
+  <trd lng="pl">ergonomiczny</trd>
+  <trd lng="pt">ergon&ocirc;mico</trd>
+</drv>
+</art>
+
+<!--
+$Log: ergonomi.xml,v $
+Revision 1.12  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.11  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.10  2011/03/22 20:10:10  revo
+Larry Gilbert: +trd en
+
+Revision 1.9  2009/07/05 16:39:16  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.8  2009/03/09 17:31:01  revo
+Marcus Curdeius: +pl
+
+Revision 1.7  2008/07/22 16:30:27  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.6  2008/04/09 16:30:21  revo
+Miguel Hernandez: +trd es
+
+Revision 1.5  2008/02/27 17:30:19  revo
+Wieland Pusch: +trd bg
+
+Revision 1.4  2007/06/28 16:33:26  revo
+Tulio Flores: +tr pt
+
+Revision 1.3  2007/04/19 16:30:36  revo
+-->
+</vortaro>

@@ -1,0 +1,192 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: afin.xml,v 1.19 2015/07/04 08:37:29 revo Exp $">
+<kap>
+  <rad>afin</rad>/a <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="afin.0a">
+  <kap><tld/>a</kap>
+  <uzo tip="fak">MAT</uzo>
+  <snc mrk="afin.0a.gxenerale">
+    <uzo tip="klr">(fakula &jcirc;argono)</uzo>
+    <fnt><bib>MatVort</bib></fnt>
+    <dif>
+      Iel rilatanta al algebraj strukturoj de la tipo
+      <ref cel="spac.afina0o">afina spaco</ref>:
+      <ekz>
+        <tld/>a <ref cel="geomet1.0o.MAT">geometrio</ref>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="rekt.afina0o"><tld/>a rekto</ref>,
+      <ref cel="eben.afina0o"><tld/>a ebeno</ref>,
+      <ref cel="hipere.afina0o"><tld/>a hiperebeno</ref>,
+      <ref cel="rotaci.afina0o"><tld/>a rotacio</ref>.
+    </refgrp>
+    <trd lng="be">&c_a;&c_f;&c_ib;&c_n;&c_n;&c_y;</trd>
+    <trd lng="ca">af&iacute;</trd>
+    <trd lng="en">affine</trd>
+    <trd lng="es">af&iacute;n</trd>
+    <trd lng="de">affin</trd>
+    <trd lng="fr">affine</trd>
+    <trd lng="hu">affin</trd>
+    <trd lng="it">affine<klr> (mat. e ch.)</klr></trd>
+    <trdgrp lng="nl">
+      <trd>verwant</trd>,
+      <trd>overeenkomstig</trd>
+    </trdgrp>
+    <trd lng="pl">afiniczny</trd>
+    <trd lng="pt">afim</trd>
+    <trd lng="ru">&c_a;&c_f;&c_f;&c_i;&c_n;&c_n;&c_y;&c_j;</trd>
+    <trd lng="sk">afinn&yacute;</trd>
+  </snc>
+  <snc mrk="afin.0a.bildigo">
+    <fnt><bib>PIV1</bib></fnt>
+    <dif>
+      <klr>(p.p. <ref cel="bild.0igo.MAT">bildigo</ref>
+      <frm><k>f</k></frm> 
+      inter du <ref cel="spac.afina0o"><tld/>aj spacoj</ref>)</klr>
+      Tia, ke 
+      <frm><k>f</k>(&tau;+<k>x</k>) = &phi;(&tau;)+<k>f</k>(<k>x</k>)</frm>, 
+      kie <frm>&phi;</frm> estas <ref cel="homomo.0o">homomorfio</ref> inter
+      la respondaj vektoraj spacoj, kiuj 
+      <ref cel="operac.0i.MAT">operacias</ref> super la <tld/>aj spacoj:
+      <ekz>
+        la homomorfion <frm>&phi;</frm> oni nomas asociita al la <tld/>a
+        bildigo <frm><k>f</k></frm>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_a;&c_f;&c_ib;&c_n;&c_n;&c_y;</trd>
+    <trd lng="ca">af&iacute;</trd>
+    <trd lng="en">affine</trd>
+    <trd lng="es">af&iacute;n</trd>
+    <trd lng="de">affin</trd>
+    <trd lng="fr">affine</trd>
+    <trd lng="hu">affin</trd>
+    <trd lng="it">affine<klr> (mat. e ch.)</klr></trd>
+    <trdgrp lng="nl">
+      <trd>verwant</trd>,
+      <trd>overeenkomstig</trd>
+    </trdgrp>
+    <trd lng="pl">afiniczny</trd>
+    <trd lng="pt">afim</trd>
+    <trd lng="ru">&c_a;&c_f;&c_f;&c_i;&c_n;&c_n;&c_y;&c_j;</trd>
+    <trd lng="sk">afinn&yacute;</trd>
+  </snc>
+  <snc mrk="afin.0a.reelafunkcio">
+    <fnt><bib>MatVort</bib></fnt>
+    <dif>
+      <klr>(p.p. reela <ref cel="funkci.0o.MAT">funkcio</ref> 
+      <frm><k>f</k></frm>)</klr>
+      Tia, ke <frm><k>f</k>(<k>x</k>) = &alfa;<k>x</k>+&beta;</frm>.
+    </dif>
+    <trd lng="be">&c_a;&c_f;&c_ib;&c_n;&c_n;&c_y;</trd>
+    <trd lng="ca">af&iacute;</trd>
+    <trd lng="en">affine</trd>
+    <trd lng="es">af&iacute;n</trd>
+    <trd lng="de">affin</trd>
+    <trd lng="fr">affine</trd>
+    <trd lng="hu">affin</trd>
+    <trd lng="it">affine<klr> (mat. e ch.)</klr></trd>
+    <trdgrp lng="nl">
+      <trd>verwant</trd>,
+      <trd>overeenkomstig</trd>
+    </trdgrp>
+    <trd lng="pl">afiniczny</trd>
+    <trd lng="pt">afim</trd>
+    <trd lng="ru">&c_a;&c_f;&c_f;&c_i;&c_n;&c_n;&c_y;&c_j;</trd>
+    <trd lng="sk">afinn&yacute;</trd>
+  </snc>
+  <snc mrk="afin.0a.KOMUNE">
+    <uzo tip="stl">RAR</uzo>
+    <dif>
+      Iel rilata, simila, parenca, analoga:
+      <ekz>
+        starigi kunfrati&gcirc;on inter spiritistoj kaj tiuj 
+        homoj, kiuj tra la mondo <tld/>e rilatas al la 
+        spiritista doktrino
+        <fnt>
+          <aut>-</aut>,
+          <vrk><url ref="http://archive.is/yAiJr">
+          International Spiritist Council</url></vrk>,
+          <lok>[2003?]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="fr">affin</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>afinní</trd>,
+    <trd>podobný</trd>,
+    <trd>příbuzný tvarem</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>podobný</trd>,
+    <trd>príbuzný tvarom</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="afin.0eco">
+  <kap><tld/>eco</kap>
+  <uzo tip="stl">RAR</uzo>
+  <snc mrk="afin.0eco.KOMUNE">
+    <dif>
+      Simileco, havo de komunaj ecoj:
+      <ekz>
+        en la botelo varma, hermetika
+        kongruas la &hcirc;emia <tld/>eco kaj antieco
+        <fnt>
+          <aut>I. Mad&aacute;ch, trad. K. Kalocsay</aut>, 
+          <vrk>La Tragedio de l' Homo</vrk>, 
+          <lok>1965</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="fr">affinit&eacute;</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>afinita</trd>,
+    <trd>příbuzenství</trd>,
+    <trd>příbuznost</trd>,
+    <trd>slučovací schopnost</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>afinita</trd>,
+    <trd>príbuznosť</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: afin.xml,v $
+Revision 1.19  2015/07/04 08:37:29  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2014/03/14 02:10:21  revo
+Jeromo Vasxe: + snc komune, + ~eco
+
+Revision 1.16  2011/11/02 11:10:21  revo
+Antonio Codazzi: +trd it
+
+Revision 1.15  2005/04/24 16:33:26  revo
+Raul Salinas Monteagudo: +trd es
+
+Revision 1.14  2003/10/28 17:31:41  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.13  2002/11/24 17:33:09  revo
+Marc Bavant: mod frm
+
+Revision 1.12  2002/11/18 17:32:51  revo
+Marc Bavant: +frm; +trd pl
+Revision 1.11  2002/09/07 17:39:06  revo
+Viliam Bur: +sk trd
+Revision 1.10  2002/05/21 16:33:58  revo
+Marc Bavant: kor ref cel al funkcio
+Revision 1.9  2002/04/11 16:31:35  revo
+-->
+</vortaro>

@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: eskadr.xml,v 1.22 2015/07/04 08:37:33 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>eskadr</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="eskadr.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="eskadr.0o.mara">
+    <uzo tip="fak">MAR</uzo>
+    <uzo tip="fak">MIL</uzo>
+    <dif>
+      Aro da <ref cel="sxip.milit0o">milit&scirc;ipoj</ref>
+      partoprenantaj en iu operacio:
+      <ekz>
+        la oficiroj de <tld/>o surbordi&gcirc;inte en diversaj
+        lokoj multe man&gcirc;is kaj trinkis
+        <fnt>
+         <aut>L. N. Tolstoj, trad. I. Ma&ccirc;ernis</aut>,
+         <vrk><url
+         ref="http://cindymckee.com/librejo/TOLSTOJ_Kristanismo_kaj_patriotismo.pdf">
+         Kristanismo kaj Patriotismo</url></vrk>,
+         <lok>1931</lok>
+        </fnt>.
+      </ekz>  
+    </dif>
+    <trd lng="hu">haj&oacute;raj</trd>
+    <trd lng="pl">eskadra</trd>
+    <trd lng="pt">esquadra</trd>
+  </snc>
+  <snc mrk="eskadr.0o.aera">
+    <uzo tip="fak">AVI</uzo>
+    <uzo tip="fak">MIL</uzo>
+    <dif>
+      Aro da <ref cel="aviad.milit0ilo">militaviadiloj</ref>
+      partoprenantaj en iu operacio.  
+    </dif>
+    <trd lng="hu">rep&uuml;l&odblac;ezred</trd>
+    <trd lng="pl">eskadra</trd>
+    <trd lng="pt">esquadrilha</trd>
+  </snc>
+  <trd lng="be">&c_e;&c_s;&c_k;&c_a;&c_d;&c_r;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>eskadra</trd>,
+    <trd>oddíl loďstva</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Geschwader</trd>,
+    <trd>Staffel [aviadiloj]</trd>
+  </trdgrp>
+  <trd lng="en">squadron</trd>
+  <trd lng="fr">escadre</trd>
+  <trdgrp lng="it">
+    <trd>squadra<klr> (mil.)</klr></trd>,
+    <trd>squadriglia<klr> (aer.)</klr></trd>,
+    <trd>stormo<klr> (aer.)</klr></trd>
+  </trdgrp>
+  <trd lng="nl">eskader</trd>
+  <trd lng="ru">&c_e;&c_s;&c_k;&c_a;&c_d;&c_r;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>oddiel <klr>( letectva, loďstva)</klr></trd>,
+    <trd>oddiel <klr>( letectva| loďstva)</klr></trd>
+  </trdgrp>
+  <trd lng="sv">flotteskader</trd>
+</drv>
+</art>
+<!--
+$Log: eskadr.xml,v $
+Revision 1.22  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.21  2015/06/29 16:39:29  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.19  2013/02/01 21:10:08  revo
+Jeromo Vasxe: + ekz + fak avi mar
+
+Revision 1.18  2010/06/07 16:30:35  revo
+Antonio Codazzi: korekt. en trd it
+
+Revision 1.17  2010/06/06 16:31:28  revo
+Antonio Codazzi: +trd it
+
+Revision 1.16  2010/03/03 17:30:42  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.15  2009/05/27 16:30:54  revo
+Russ Williams: +trd en
+
+Revision 1.14  2008/10/09 16:31:02  revo
+Jozefo Horvath: kor. trd hu
+
+Revision 1.13  2007/07/06 18:03:59  revo
+Tulio Flores: +tr pt
+
+Revision 1.12  2005/04/19 16:31:47  revo
+-->
+</vortaro>

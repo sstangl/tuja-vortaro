@@ -1,0 +1,150 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: kalumn.xml,v 1.18 2015/07/04 08:37:36 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>kalumni</rad>/i
+</kap>
+<drv mrk="kalumn.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      Malutili al ies honoro a&ubreve; &scirc;atateco per mensogaj akuzoj:
+      <ekz>
+        <tld/>ante konstante, oni e&ccirc; an&gcirc;elon nigrigas
+        <fnt><bib>PrV</bib></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_k;&c_l;&c_jo;&c_p;&c_n;&c_ib;&c_ch;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="bg">&c_k;&c_l;&c_je;&c_v;&c_je;&c_t;&c_ja;</trd>
+  <trdgrp lng="cs">
+    <trd>nactiutrhat</trd>,
+    <trd>pomlouvat</trd>
+  </trdgrp>
+  <trd lng="de">verleumden</trd>
+  <trdgrp lng="en">
+    <trd>calumniate</trd>,
+    <trd>slander</trd>,
+    <trd>defame</trd>,
+    <trd>libel</trd>,
+    <trd>malign</trd>,
+    <trd>run down</trd>
+  </trdgrp>
+  <trd lng="es">calumniar</trd>
+  <trdgrp lng="fa">
+    <trd>&a_b;&a_h;&a_t;&a_A;&a_n; &a_z;&a_d;&a_n;</trd>,
+    <trd>&a_A;&a_f;&a_t;&a_r;&a_A; &a_z;&a_d;&a_n;</trd>,
+    <trd>&a_t;&a_h;&a_m;&a_t; &a_z;&a_d;&a_n;</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>calomnier</trd>,
+    <trd>d&eacute;biner<klr tip="ind"> (m&eacute;dire)</klr></trd>,
+    <trd>d&eacute;crier<klr tip="ind"> (qn)</klr></trd>,
+    <trd>diffamer</trd>,
+    <trd>m&eacute;dire (de)</trd>
+  </trdgrp>
+  <trd lng="hu">r&aacute;galmaz</trd>
+  <trd lng="nl">belasteren</trd>
+  <trdgrp lng="ru">
+    <trd>&c_k;&c_l;&c_je;&c_v;&c_je;&c_t;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_o;&c_ch;&c_je;&c_r;&c_n;&c_ja;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>ohovárať</trd>,
+    <trd>osočovať</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kalumn.0o">
+  <kap><tld/>o</kap>
+  <snc>
+    <dif>
+      Ago a&ubreve; vortoj de <tld/>anto:
+      <ekz>
+        se <tld/>o e&ccirc; pasas, &gcirc;i &ccirc;iam ion lasas
+        <fnt><bib>PrV</bib></fnt>;
+      </ekz>
+      <ekz>
+        serpenton oni povas eviti, <tld/>on neniam<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        kontra&ubreve; <tld/>o helpas nenio
+        <fnt><bib>PrV</bib></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="kot.0o">koto</ref>.
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_k;&c_l;&c_jo;&c_p;</trd>
+  <trd lng="bg">&c_k;&c_l;&c_je;&c_v;&c_je;&c_t;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>drb</trd>,
+    <trd>kalumnie</trd>,
+    <trd>kleveta</trd>,
+    <trd>nactiutrhání</trd>,
+    <trd>pomluva</trd>
+  </trdgrp>
+  <trd lng="de">Verleumdung</trd>
+  <trdgrp lng="en">
+    <trd>calumny</trd>,
+    <trd>false <ind>charge</ind></trd>,
+    <trd>malicious <ind>misrepresentation</ind></trd>,
+    <trd>slanderous <ind>report</ind></trd>
+  </trdgrp>
+  <trd lng="es">calumnia</trd>
+  <trdgrp lng="fa">
+    <trd>&a_b;&a_h;&a_t;&a_A;&a_n;</trd>,
+    <trd>&a_A;&a_f;&a_t;&a_r;&a_A;</trd>,
+    <trd>&a_t;&a_h;&a_m;&a_t;</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>calomnie</trd>,
+    <trd>diffamation</trd>,
+    <trd>m&eacute;disance</trd>
+  </trdgrp>
+  <trd lng="hu">r&aacute;galom</trd>
+  <trd lng="nl">laster</trd>
+  <trd lng="ru">&c_k;&c_l;&c_je;&c_v;&c_je;&c_t;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>klebeta</trd>,
+    <trd>ohovárka</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: kalumn.xml,v $
+Revision 1.18  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.16  2013/08/15 18:10:18  revo
+Joop Eggen: +trd bg
+
+Revision 1.15  2010/05/07 16:30:44  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.14  2004/10/31 17:32:13  revo
+Marc Bavant: +trd fr, kor ref tip sin
+
+Revision 1.13 2003/05/19 19:42:19 revo
+Alejandro Mejia Greene: ald 2 his trd
+
+Revision 1.12 2002/10/07 16:30:39 revo
+Dmitri Gabinski: +trd be
+
+Revision 1.11 2002/01/11 19:09:25 revo
+fontindiko PrV per programo de Jerome
+
+Revision 1.10 2001/10/24 18:26:07 revo
+Karlo Freeman: +trd = en
+
+Revision 1.9 2001/10/03 18:17:35 revo
+-->
+</vortaro>

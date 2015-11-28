@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: procioned.xml,v 1.6 2015/09/22 10:10:16 revo Exp $">
+<kap>
+    <rad>procioned</rad>/oj <fnt><bib>PIV2</bib></fnt>
+</kap>
+<drv mrk="procioned.0oj">
+  <kap><tld/>oj</kap>
+  <snc mrk="procioned.0o.ZOO">
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      <ref tip="lst" cel="famili.0o.BIO"
+      lst="voko:zoologiaj_familioj">Familio</ref> el la ordo
+      <ref tip="malprt" cel="best.rabo0oj">rabobestoj</ref>
+      (<trd lng="la">Procyonidae</trd>), al kiu apartenas
+      la <ref tip="prt" cel="urs.lav0o">lavurso</ref>:
+      <ekz>
+         <tld/>oj <klr>[...]</klr> estas plandoirantaj, karnovoraj
+         bestoj kun 
+         etaj &scirc;irdentoj, longa vosto
+        <fnt><bib>Viki</bib>, <lok>Procionedoj</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="en">
+    <trd>Procyonidae</trd>,
+    <trd>procyonids</trd>
+  </trdgrp>
+  <trd lng="cs">medv&iacute;dkovit&iacute;</trd>
+  <trd lng="de">Kleinb&auml;ren</trd>
+  <trd lng="pl">szopowate</trd>
+  <trd lng="sk">medved&iacute;kovit&eacute;</trd>
+</drv>
+</art>
+
+<!--
+$Log: procioned.xml,v $
+Revision 1.6  2015/09/22 10:10:16  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.5  2015/09/15 13:10:18  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.4  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.3  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.2  2015/03/08 23:10:21  revo
+Wolfram Diestel: kor. ~oj
+
+Revision 1.1  2015/03/07 17:10:18  revo
+Wolfram Diestel: nova artikolo
+
+-->
+</vortaro>

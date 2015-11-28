@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: marin.xml,v 1.15 2014/06/06 14:10:19 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>marin</rad>/i
+</kap>
+<drv mrk="marin.0i">
+  <kap>
+    <tld/>i
+  </kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+  <uzo tip="fak">KUI</uzo>
+    <dif>
+      Trempi dum kelka tempo en vinagro, vino a&ubreve; oleo kun spicoj viandon
+      a&ubreve; aliajn man&gcirc;a&jcirc;ojn poste kuirotajn:
+      <ekz>
+        <tld/>i kapreolan kruron, haringojn, betojn
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="pekl.0i">pekli</ref>.
+    </refgrp>
+  </snc>                          
+  <trd lng="be">&c_m;&c_a;&c_r;&c_y;&c_n;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="br">lakaat en <ind>hili</ind></trd>
+  <trd lng="ca">marinar</trd>
+  <trd lng="de">marinieren</trd>
+  <trd lng="en">marinate</trd>
+  <trd lng="fr">mariner</trd>
+  <trdgrp lng="hu">
+    <trd>p&aacute;col</trd>,
+    <trd>marin&iacute;roz</trd>
+  </trdgrp>
+  <trd lng="nl">marineren</trd>
+  <trdgrp lng="pt">
+    <trd>p&ocirc;r em <ind>marinada</ind></trd>,
+    <trd>marinar</trd>,    
+    <trd>p&ocirc;r em <ind>escabeche</ind></trd>,
+    <trd>p&ocirc;r em <ind>vinha-d'alhos</ind></trd>    
+  </trdgrp>
+  <trd lng="ru">&c_m;&c_a;&c_r;&c_i;&c_n;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="sv">marinera</trd>
+</drv>
+</art>
+<!--
+$Log: marin.xml,v $
+Revision 1.15  2014/06/06 14:10:19  revo
+Damien Brucker: +trd fr
+
+Revision 1.14  2012/08/19 15:10:23  revo
+Marc Rausell: + trd ca
+
+Revision 1.13  2006/07/29 16:34:07  revo
+Tulio Flores: +tr pt
+
+Revision 1.12  2005/07/08 16:32:59  revo
+Alan ar Gall: +trd br
+
+Revision 1.11  2004/02/15 17:31:34  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.10  2002/08/28 17:32:06  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.9  2002/01/06 17:47:53  revo
+Dennis Wibrow: +trd germ
+
+Revision 1.8  2001/11/23 10:47:30  revo
+-->
+</vortaro>

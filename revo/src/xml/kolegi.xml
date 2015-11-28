@@ -1,0 +1,132 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: kolegi.xml,v 1.21 2015/07/04 08:37:37 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>kolegi</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="kolegi.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="kolegi.0o.PED">
+    <uzo tip="fak">PED</uzo>
+    <dif>
+      <ref tip="super" cel="lern.mez0ejo.PED">Mezlernejo</ref>,
+      malpli grava ol gimnazio.
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_k;&c_o;&c_l;&c_je;&c_d;&c_zh;</trd>,
+      <trd>&c_k;&c_a;&c_l;&c_je;&c_zh;</trd>
+    </trdgrp>
+    <trd lng="de">Mittelschule</trd>
+    <trd lng="en">trade school</trd>
+    <trd lng="fr">coll&egrave;ge<klr> (ens. secondaire)</klr></trd>
+    <trd lng="hu">k&ouml;z&eacute;piskola</trd>    
+    <trdgrp lng="ru">
+      <trd>&c_k;&c_o;&c_l;&c_l;&c_je;&c_d;&c_zh;</trd>,
+      <trd>&c_k;&c_o;&c_l;&c_l;&c_je;&c_zh;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="kolegi.0o.kolegaro">
+    <ref tip="dif" cel="koleg.0aro.asocio">kolegaro</ref>
+    <ekz>
+      la <tld/>o de la pontifikoj, de la a&ubreve;guroj, de la kardinaloj;
+    </ekz>
+    <ekz>
+      tiam oni fondis la Re&gcirc;an <tld lit="K"/>on de Kirurgoj
+      <fnt><aut>D. Curtis</aut>, <vrk>Koratako</vrk>,
+      <bib>Monato</bib>, <lok>2002:1, p.
+      28-34a</lok></fnt>.
+    </ekz>
+    <refgrp tip="vid">
+      <ref cel="akadem.0o.societo">akademio<sncref/></ref>,
+      <ref cel="asoci.0o">asocio</ref>
+    </refgrp>
+    <trdgrp lng="be">
+      <trd>&c_k;&c_a;&c_l;&c_je;&c_g;&c_ib;&c_ja;</trd>,
+      <trd>&c_k;&c_a;&c_l;&c_je;&c_g;&c_ib;&c_ju;&c_m;</trd>
+    </trdgrp>
+    <trd lng="de">Kollegium</trd>
+    <trd lng="en">college</trd>
+    <trd lng="es">colegio (de profesionales, m&eacute;dicos, abogados,
+    etc.)</trd>
+    <trd lng="fr">coll&egrave;ge<klr> (assembl&eacute;e)</klr></trd>
+    <trdgrp lng="hu">
+      <trd>koll&eacute;gium</trd>,
+      <trd>test&uuml;let</trd>
+    </trdgrp>
+    <trd lng="ru">&c_k;&c_o;&c_l;&c_l;&c_je;&c_g;&c_i;&c_ja;</trd>
+  </snc>
+  <snc mrk="kolegi.0o.PED.universitato">
+    <uzo tip="fak">PED</uzo>
+    <uzo tip="stl">EVI</uzo>
+    <ref tip="dif" cel="univer2.0o">universitato</ref>
+    <ekz>
+      la <ind>Franca <tld lit="K"/>o</ind>;
+      <trd lng="fr">Coll&egrave;ge de France</trd>
+      <trd lng="hu">Coll&egrave;ge de France</trd>      
+    </ekz>
+    <ekz>
+      la <tld/>oj de Kembri&gcirc;o.
+    </ekz>
+
+    <!-- sencon evitindan prefere ne traduku -->
+    <trdgrp lng="be">
+      <trd>&c_k;&c_o;&c_l;&c_je;&c_d;&c_zh;</trd>,
+      <trd>&c_u;&c_n;&c_ib;&c_v;&c_e;&c_r;&c_s;&c_ib;&c_t;&c_e;&c_t;</trd>
+    </trdgrp>
+    <trd lng="de">Hochschule</trd>
+    <trd lng="en">college</trd>
+    <trd lng="hu">college</trd>    
+
+  </snc>
+  <trdgrp lng="cs">
+    <trd>kolegium</trd>,
+    <trd>kolej</trd>,
+    <trd>kolej (&scaron;koln&iacute;)</trd>,
+    <trd>lyceum</trd>,
+    <trd>sbor</trd>,
+    <trd>škola</trd>
+  </trdgrp>
+  <trd lng="nl">college</trd>
+  <trdgrp lng="sk">
+    <trd>kolégium</trd>,
+    <trd>lýceum</trd>,
+    <trd>zbor</trd>,
+    <trd>škola</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: kolegi.xml,v $
+Revision 1.21  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.19  2015/01/10 19:10:56  revo
+Jeromo Vasxe: + ref
+
+Revision 1.18  2011/12/02 16:10:08  revo
+Eduardo Navas: +trad es
+
+Revision 1.17  2005/06/26 16:32:51  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.16  2004/12/26 17:34:07  revo
+Marc Bavant: kor ekz
+
+Revision 1.15  2003/01/02 17:40:38  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.14  2002/11/21 17:32:01  revo
+Jeromo Vasxe: + vastigis snc 3 (ne nur rel) + 1 atesta ekz + vid
+
+Revision 1.13 2002/09/22 08:14:03 revo
+Jeromo Vasxe: memkor + 1 fak ped
+
+Revision 1.12 2002/09/20 16:32:31 revo
+-->
+</vortaro>

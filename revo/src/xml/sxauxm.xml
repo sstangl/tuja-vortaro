@@ -1,0 +1,154 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: sxauxm.xml,v 1.22 2012/07/16 14:10:18 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>&scirc;a&ubreve;m</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="sxauxm.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="sxauxm.0o.KOMUNE">
+    <dif>
+      Svarmo da veziketoj formi&gcirc;antaj el boligita a&ubreve; forte
+      kirlita flua&jcirc;o:
+      <ekz>
+        blanka <tld/>o na&gcirc;as sur la akvo;
+      </ekz>
+      <ekz>
+        post tia kurego mia &ccirc;evalo estis kovrita de <tld/>o;
+      </ekz>
+      <ekz>
+        <tld/>a vino, omleto;
+      </ekz>
+      <ekz>
+        <tld/>kirli kremon, ovblankojn.
+      </ekz>
+    </dif>
+    <trd lng="bg">&c_p;&c_ja;&c_n;&c_a;</trd>
+    <trd lng="de">Schaum</trd>
+    <trd lng="en">foam</trd>
+    <trd lng="es">espuma</trd>
+    <trdgrp lng="fr">
+      <trd>&eacute;cume</trd>,
+      <trd>mousse</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>hab</trd>,
+      <trd>tajt&eacute;k</trd>
+    </trdgrp>
+    <trdgrp lng="it">
+      <trd>schiuma</trd>,
+      <trd>spuma</trd>
+    </trdgrp>
+    <trd lng="pt">espuma</trd>
+  </snc>
+  <snc mrk="sxauxm.0o.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Plej malbona, plej malestiminda parto:
+      <ekz>
+        <tld/>o de la socio
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="bala.0ajxo">balaa&jcirc;o</ref>,
+      <ref cel="fecx.0o">fe&ccirc;o</ref>,
+      <ref cel="rub.0o">rubo</ref>,
+      <ref cel="skori.0o">skorio</ref>
+    </refgrp>
+    <trd lng="de">Abschaum</trd>
+    <trdgrp lng="hu">
+      <trd>s&ouml;pred&eacute;k</trd>,
+      <trd>alja<klr tip="ind"> (pejorat&iacute;v)</klr></trd>
+  </trdgrp>
+  <trd lng="it">crema<klr> (fig.)</klr></trd>
+  </snc>
+  <trd lng="be">&c_p;&c_je;&c_n;&c_a;</trd>
+  <trdgrp lng="ca">
+    <trd>escuma</trd>,
+    <trd>bromera</trd>
+  </trdgrp>
+  <trd lng="en">foam</trd>
+  <trd lng="nl">schuim</trd>
+  <trdgrp lng="pt">
+    <trd>esc&oacute;ria</trd>,
+    <trd>ral&eacute;</trd>
+  </trdgrp>
+  <trd lng="ru">&c_p;&c_je;&c_n;&c_a;</trd>
+</drv>
+
+<drv mrk="sxauxm.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="sxauxm.0i.KOMUNE">
+    <dif>
+      Formi <tld/>on el si:
+      <ekz>
+        la cidro, la &ccirc;ampano, la biero <tld/>as en
+        la glasoj;
+      </ekz>
+      <ekz>
+        la ondoj <tld/>as kontra&ubreve; la rokoj;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        &ccirc;ie la vivo <tld/>as<fnt>B</fnt>
+        (<ref tip="sin" cel="svarm.0i">svarmi</ref>);
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        <tld/>i pro furiozo<fnt>B</fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        niaj klopodoj vane dis<tld/>i&gcirc;is
+        <klr>(nenii&gcirc;is)</klr>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_je;&c_n;&c_ib;&c_c;&c_c;&c_a;</trd>
+  <trd lng="ca">escumejar</trd>
+  <trd lng="de">sch&auml;umen</trd>
+  <trd lng="es">espumar</trd>
+  <trdgrp lng="fr">
+    <trd>&eacute;cumer<klr> (mousser)</klr></trd>,
+    <trd>mousser</trd>
+  </trdgrp>
+  <trd lng="hu">habzik</trd>
+  <trdgrp lng="it">
+    <trd>schiumare</trd>,
+    <trd>spumeggiare</trd>
+  </trdgrp>
+  <trd lng="nl">schuimen</trd>
+  <trd lng="pt">espumar</trd>
+  <trd lng="ru">&c_p;&c_je;&c_n;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>
+</drv>
+</art>
+<!--
+$Log: sxauxm.xml,v $
+Revision 1.22  2012/07/16 14:10:18  revo
+Marc Rausell: + trd ca
+
+Revision 1.21  2009/03/31 16:30:44  revo
+Antonio Codazzi: +trd it, forigo de ripetita franca traduko
+
+Revision 1.20  2008/12/26 18:42:05  revo
+Wieland Pusch: +trd bg
+
+Revision 1.19  2007/04/17 16:30:28  revo
+Jeromo Vasxe: + mrk
+
+Revision 1.18  2006/01/12 21:52:36  revo
+Raul Salinas Monteagudo: +trd en,es
+
+Revision 1.17  2002/10/18 16:40:03  revo
+Zmicier Lapcionak: + trd be
+
+Revision 1.16  2002/05/21 16:33:33  revo
+Helio Jaques: +trd pt @ snc1
+
+Revision 1.15  2002/05/20 16:38:31  revo
+-->
+</vortaro>

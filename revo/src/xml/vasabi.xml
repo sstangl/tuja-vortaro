@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: vasabi.xml,v 1.4 2013/10/31 17:10:15 revo Exp $">
+<kap>
+  <rad>vasabi</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="vasabi.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="vasabi.0o.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      Plurjara <ref tip="lst" cel="herb.0o.BOT" 
+      lst="voko:brasikoparencoj">herbo</ref> el Orientazio, 
+      kun rizomo, vivanta en mar&ccirc;oj, 
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:botanikaj_genroj">genro</ref> el familio <ref
+      tip="malprt" 
+      cel="brasik1.0oj">brasikacoj</ref> (<trd lng="la">Wasabia</trd>).
+    </dif>
+  </snc>
+  <snc mrk="vasabi.0o.KUI">
+    <uzo tip="fak">KUI</uzo>
+    <dif>
+      Akragusta helverda <ref tip="super" 
+      cel="spic.0ajxo.KUI">spica&jcirc;o</ref> el <tld/>radiko, kiun oni ofte 
+      miksas kun sojsa&ubreve;co: 
+      <ekz>
+        &ccirc;u vi ellarmis de <tld/>o?  Por ne ellarmi &scirc;ajne necesas arto, 
+        kiun mi ankora&ubreve; ne regas sufi&ccirc;e
+        <fnt>
+          <aut>Simizu Y.</aut>,
+          <vrk><url
+          ref="http://groups.yahoo.co.jp/group/velanoj/message/1205">
+          "&ccirc;ef-" en la tabelo...</url></vrk>,
+          <lok>2007-01</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la viando de cervo estis man&gcirc;ita krude same kiel kruda fi&scirc;o kun 
+        sa&ubreve;co kaj <tld/>o
+        <fnt>
+          <aut>Curuga&scirc;ima Esperanto-Klubo</aut>,
+          <vrk><url ref="http://www2u.biglobe.ne.jp/~fukuto/casado.htm">
+          &Ccirc;asado</url></vrk>,
+          <lok>[vidita en 2008-09]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="ca">rave japon&eacute;s</trd>
+  <trd lng="fr">wasabi</trd>
+</drv>
+</art>
+
+<!--
+$Log: vasabi.xml,v $
+Revision 1.4  2013/10/31 17:10:15  revo
+Wolfram Diestel: ref al brasikoparencoj
+
+Revision 1.3  2013/08/26 09:10:54  revo
+Wolfram Diestel: referenco al listo sciencoj
+
+Revision 1.2  2012/01/01 13:10:14  revo
+Marc Rausell: +trd ca
+
+Revision 1.1  2008/09/07 16:33:16  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

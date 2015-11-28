@@ -1,0 +1,400 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: trakt.xml,v 1.23 2015/07/04 08:37:45 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>trakt</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="trakt.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="trakt.0i.negoci">
+    <dif>
+      Diskuti pri la kondi&ccirc;oj de iu afero por finveni al
+      interkonsento;
+      <ref tip="vid" cel="trakt.pri0i.KOMUNE">pri<tld/>i</ref>,
+      <ref tip="vid" cel="trakt.inter0i.KOMUNE">inter<tld/>i</ref>:
+      <ekz>
+        <tld/>i kun la venkinto pri la paco<fnt>B</fnt>;
+      </ekz>
+      <ekz>
+        <tld/>i negocon, pri negoco.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="negoc.0i">negoci</ref>
+    </refgrp>
+    <trd lng="hu">t&aacute;rgyal</trd>    
+    <trd lng="nl">onderhandelen</trd>
+    <trd lng="pt">tratar</trd>
+    <trd lng="ru">&c_v;&c_je;&c_s;&c_t;&c_i; &c_p;&c_je;&c_r;&c_je;&c_g;&c_o;&c_v;&c_o;&c_r;&c_y;</trd>
+  </snc>
+  <snc mrk="trakt.0i.sinteni">
+    <dif>
+      Agi, konduti iamaniere kontra&ubreve; iu a&ubreve; io:
+      <ekz>
+        <tld/>i afable la gaston;
+      </ekz>
+      <ekz>
+        <tld/>i iun severe, nedece, la&ubreve;merite, perfide;
+      </ekz>
+      <ekz>
+        <tld/>i iun kiel krimulon;
+      </ekz>
+      <ekz>
+        <tld/>i (plenumi kaj konsideri) serioze sian taskon<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        <tld/>i (konsideri) la esperantismon kiel ideon<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        homo, kiel <tld/>as vi tiel la arton?
+      </ekz>
+    </dif>
+    <trdgrp lng="hu">
+      <trd>kezel</trd>,
+      <trd>b&aacute;nik</trd>
+    </trdgrp>
+    <trd lng="nl">behandelen</trd>
+    <trdgrp lng="ru">
+      <trd>&c_o;&c_b;&c_h;&c_o;&c_d;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>,
+      <trd>&c_o;&c_b;&c_r;&c_a;&c_shch;&c_a;&c_t;&c_mol;&c_s;&c_ja; <klr>(&c_s; &c_k;&c_je;&c_m;-&c_l;.)</klr></trd>,
+      <trd>&c_t;&c_r;&c_a;&c_k;&c_t;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="trakt.0i.esplori_iu">
+    <uzo tip="klr">(iu)</uzo>
+    <dif>
+      Metode esplori, klarigi, disvolvi kaj pridiskuti iun temon:
+      <ekz>
+        la a&ubreve;toro en tiu libro <tld/>as tre gravan problemon;
+      </ekz>
+      <ekz>
+        ofte Z <tld/>as en pluraj respondoj unu aferon.
+      </ekz>
+    </dif>
+    <trd lng="hu">t&aacute;rgyal <klr tip="ind">(kifejt)</klr></trd>    
+    <trd lng="nl">behandelen</trd>
+    <trd lng="ru">&c_r;&c_a;&c_s;&c_s;&c_m;&c_o;&c_t;&c_r;&c_je;&c_t;&c_mol; <klr>(&c_v;&c_o;&c_p;&c_r;&c_o;&c_s; &c_i;
+    &c_t;.&c_p;.)</klr></trd>
+  </snc>
+  <snc mrk="trakt.0i.esplori_io">
+    <uzo tip="klr">(io)</uzo>
+    <dif>
+      Enhavi metodan esploron, klarigon, disvolvon, kaj diskuton pri
+      iu temo:
+      <ekz>
+        la verko <tld/>as precipe pri pedagogio.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="tem.0i">temi</ref>,
+      <ref cel="trakta.0o.TIP">traktato<sncref/></ref>.
+    </refgrp>
+    <trd lng="hu">sz&oacute;l <klr tip="ind">(vr&odblac;l)</klr></trd>    
+    <trd lng="nl">behandeletrakta.0on</trd>
+    <trd lng="ru">&c_r;&c_a;&c_s;&c_s;&c_m;&c_a;&c_t;&c_r;&c_i;&c_v;&c_a;&c_t;&c_mol; <klr>(&c_v;&c_o;&c_p;&c_r;&c_o;&c_s; &c_i;
+     &c_t;.&c_p;.)</klr></trd>
+  </snc>
+  <snc mrk="trakt.0i.TEK">
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      <ref tip="sin" cel="labor.pri0i">Prilabori</ref>, submeti al
+      efiko de rimedo a&ubreve; procezo:
+      <ekz>
+        <tld/>i malsanulon per antibiotiko<fnt>PIV</fnt>;
+      </ekz>
+      <ekz>
+        <tld/>i metalon per martelado<fnt>PIV</fnt>.
+      </ekz>
+    </dif>
+    <trd lng="hu">kezel <klr tip="ind">(anyagot, beteget)</klr></trd> 
+    <trd lng="nl">behandelen</trd>
+    <trd lng="ru">&c_o;&c_b;&c_r;&c_a;&c_b;&c_o;&c_t;&c_a;&c_t;&c_mol;</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>domlouvat se</trd>,
+    <trd>domluvit se</trd>,
+    <trd>jednat mezi stranami</trd>,
+    <trd>vyjednávat mezi stranami</trd>,
+    <trd>vést rozhovor s někým</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>behandeln</trd>,
+    <trd>abhandeln</trd>
+  </trdgrp>
+  <trd lng="en">treat</trd>
+  <trd lng="fr">traiter</trd>
+  <trdgrp lng="sk">
+    <trd>jednať</trd>,
+    <trd>pojednávať</trd>,
+    <trd>rokovať</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="trakt.0ilo">
+  <kap><tld/>ilo</kap>
+  <snc mrk="trakt.0ilo..datuma">
+    <uzo tip="fak">KOMP</uzo>
+    <ref tip="dif" cel="trakt.datum0ilo">datumtraktilo</ref>
+    <trd lng="en">processor</trd>
+    <trd lng="hu">processzor</trd>
+    <trd lng="ru">&c_p;&c_r;&c_o;&c_c;&c_je;&c_s;&c_s;&c_o;&c_r;</trd>
+  </snc>
+  <snc mrk="trakt.0ilo.escepta">
+    <uzo tip="fak">KOMP</uzo>
+    <dif>
+      Parto de programo plenumanta ian specialan prilaboron,
+      precipe de esceptaj situacioj a&ubreve; eksteraj interrompoj.
+    </dif>
+    <trd lng="en">handler</trd>
+    <trd lng="hu">kezel&odblac;(program)</trd>    
+    <trd lng="ru">&c_o;&c_b;&c_r;&c_a;&c_b;&c_o;&c_t;&c_ch;&c_i;&c_k;</trd>
+  </snc>
+  <trd lng="cs">centrální procesor počítače</trd>
+  <trd lng="sk">centrálny procesor počítača</trd>
+</drv>
+
+<drv mrk="trakt.antaux0ado">
+  <kap>anta&ubreve;<tld/>ado</kap>
+  <snc mrk="trakt.antaux0ado.KOMP">
+    <uzo tip="fak">KOMP</uzo>
+    <dif>
+      <ref tip="super" cel="trakt.datum0ado">Datum<tld/>ado</ref>
+      plenumata super <ref cel="don.0itajxo.SCI">dona&jcirc;oj</ref>
+      por pretigi ilin al &ccirc;efa komputado (akordigi interfacojn,
+      kontroli la validon, forigi redunda&jcirc;ojn ktp).
+    </dif>
+    <ref tip="ant" cel="trakt.post0ado">posttraktado</ref>
+    <trd lng="de">Vorverarbeitung</trd>
+    <trd lng="en">preprocessing</trd>
+    <trd lng="fr">pr&eacute;traitement</trd>
+    <trd lng="hu">el&odblac;feldolgoz&aacute;s</trd>    
+    <trd lng="ru">&c_p;&c_r;&c_je;&c_d;&c_v;&c_a;&c_r;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_a;&c_ja; &c_o;&c_b;&c_r;&c_a;&c_b;&c_o;&c_t;&c_k;&c_a;</trd>
+  </snc>
+</drv>
+
+<drv mrk="trakt.antaux0ilo">
+  <kap>anta&ubreve;<tld/>ilo</kap>
+  <snc mrk="trakt.antaux0ilo.KOMP">
+    <uzo tip="fak">KOMP</uzo>
+    <dif>
+      Programo por
+      <ref tip="malprt" cel="trakt.antaux0ado">anta&ubreve;traktado</ref>.
+    </dif>
+    <ref tip="super" cel="trakt.datum0ilo">datumtraktilo</ref>
+    <ref tip="ant" cel="trakt.post0ilo">posttraktilo</ref>
+    <trd lng="de">Pr&auml;prozessor</trd>
+    <trd lng="en">preprocessor</trd>
+    <trd lng="fr">programme de pr&eacute;traitement</trd>
+    <trdgrp lng="hu">
+      <trd>el&odblac;feldolgoz&oacute;</trd>,
+      <trd>preprocesszor</trd>
+    </trdgrp>
+    <trd lng="ru">&c_p;&c_r;&c_je;&c_p;&c_r;&c_o;&c_c;&c_je;&c_s;&c_s;&c_o;&c_r;</trd>
+  </snc>
+</drv>
+
+<drv mrk="trakt.datum0ado">
+  <kap>datum<tld/>ado, <var><kap>datumprilaboro</kap></var></kap>
+  <snc mrk="trakt.datum0ado.KOMP">
+    <uzo tip="fak">KOMP</uzo>
+    <dif>
+      &Ccirc;iuj operacioj ebligantaj
+      enkomputiligi, kontroli, aran&gcirc;i, konservi, transformi, vidigi kaj
+      ekstrakti <ref cel="inform.0o.KOMP">informojn</ref>
+      el <ref cel="datum.0o.KOMP">datumoj</ref>.
+    </dif>
+    <trd lng="en">data processing</trd>
+    <trd lng="fr">traitement de donn&eacute;es</trd>
+    <trdgrp lng="hu">
+      <trd>adatkezel&eacute;s</trd>,
+      <trd>adatfeldolgoz&aacute;s</trd>
+    </trdgrp>
+    <trd lng="ru">&c_o;&c_b;&c_r;&c_a;&c_b;&c_o;&c_t;&c_k;&c_a; &c_d;&c_a;&c_n;&c_n;&c_y;&c_h;</trd>
+  </snc>
+</drv>
+
+<drv mrk="trakt.datum0ilo">
+  <kap>datum<tld/>ilo</kap>
+  <snc mrk="trakt.datum0ilo.KOMP">
+    <uzo tip="fak">KOMP</uzo>
+    <dif>
+      Programo prilaboranta datumojn de iu speciala tipo
+      (ekz-e lingvotraktiloj:
+      <ref tip="sub" cel="traduk.0ilo">tradukilo</ref>,
+      <ref tip="sub" cel="interp2.0ilo">interpretilo</ref>,
+      makrootraktilo ktp).
+    </dif>
+    <ref tip="malprt" cel="trakt.datum0ado">datumtraktado</ref>
+    <trd lng="en">processor</trd>
+    <trd lng="hu">processzor</trd>    
+    <trd lng="ru">&c_p;&c_r;&c_o;&c_c;&c_je;&c_s;&c_s;&c_o;&c_r;</trd>
+  </snc>
+</drv>
+
+<drv mrk="trakt.inter0i">
+  <kap>inter<tld/>i</kap>
+  <gra><vspec>x</vspec></gra>
+  <snc mrk="trakt.inter0i.KOMUNE">
+    <dif>
+      Plurpartie <tld/>i, interparoli por trovi akordon:
+      <ekz>
+        nia tasko tute ne estas, starigi nin kiel 
+        <klr>...</klr> ju&gcirc;istojn inter du nacioj 
+        inter<tld/>antaj
+        <fnt>
+          <aut>J. Sommer</aut>,
+          <vrk><url
+          ref="http://arkivo.esperanto-france.org/divers/vekigho/balkan.htm">
+          Respondo</url></vrk>,
+          <lok>Veki&gcirc;o !, 1913:07 (9)</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>domlouvat se</trd>,
+    <trd>domluvit se</trd>,
+    <trd>jednat mezi stranami</trd>,
+    <trd>vyjednávat mezi stranami</trd>,
+    <trd>vést rozhovor s někým</trd>
+  </trdgrp>
+  <trd lng="fr">n&eacute;gocier</trd>
+  <trdgrp lng="sk">
+    <trd>rokovať</trd>,
+    <trd>vyjednávať</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="trakt.mis0i">
+  <kap>mis<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="trakt.mis0i.KOMUNE">
+    <dif>
+      Senzorge, mallerte, difekte <tld/>i:
+      <ekz>
+        se oni neglektas a&ubreve; iel mistraktas &gcirc;in, &gcirc;i malsani&gcirc;as
+        <fnt><aut>Hori Yasuo</aut>: <vrk>&leftquot;Purikula&rightquot; piko</vrk>,
+        <bib>Monato</bib>, <lok>1997:8, p.
+        13a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">špatně zacházet</trd>
+  <trdgrp lng="fr">
+    <trd>brimer</trd>,
+    <trd>maltraiter</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>rosszul <ind>b&aacute;nik</ind></trd>,
+    <trd>b&aacute;nt</trd>,
+    <trd>b&aacute;ntalmaz</trd>
+    <trd>elint&eacute;z <klr tip="ind">(pej.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_t;&c_r;&c_je;&c_t;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_g;&c_r;&c_u;&c_b;&c_o; &c_o;&c_b;&c_h;&c_o;&c_d;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>,
+    <trd>&c_p;&c_l;&c_o;&c_h;&c_o; &c_o;&c_b;&c_r;&c_a;&c_shch;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>
+  </trdgrp>
+  <trd lng="sk">zle zaobchádzať</trd>
+</drv>
+
+<drv mrk="trakt.pri0i">
+  <kap>pri<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="trakt.pri0i.KOMUNE">
+    <dif>
+      <tld/>i pri...:
+      <ekz>
+        pri<tld/>i pacon.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>projednávat</trd>,
+    <trd>vyjednávat</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>r&eacute;gler<klr> (une affaire)</klr></trd>,
+    <trd>traiter</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>pojednávať</trd>,
+    <trd>prerokovať</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="trakt.post0ado">
+  <kap>post<tld/>ado</kap>
+  <snc mrk="trakt.post0ado.KOMP">
+    <uzo tip="fak">KOMP</uzo>
+    <dif>
+      <ref tip="super" cel="trakt.datum0ado">Datum<tld/>ado</ref>
+      plenumata super la rezultoj de &ccirc;efa datumprilaboro
+      (por plibonigi ilian formon, akordigi interfacojn ktp).
+    </dif>
+    <ref tip="ant" cel="trakt.antaux0ado">anta&ubreve;traktado</ref>
+    <trd lng="de">Nachverarbeitung</trd>
+    <trd lng="en">preprocessing</trd>
+    <trd lng="fr">posttraitement</trd>
+    <trd lng="hu">ut&oacute;feldolgoz&aacute;s</trd>    
+    <trd lng="ru">&c_p;&c_r;&c_je;&c_d;&c_v;&c_a;&c_r;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_a;&c_ja; &c_o;&c_b;&c_r;&c_a;&c_b;&c_o;&c_t;&c_k;&c_a;</trd>
+  </snc>
+</drv>
+
+<drv mrk="trakt.post0ilo">
+  <kap>post<tld/>ilo</kap>
+  <snc mrk="trakt.post0ilo.KOMP">
+    <uzo tip="fak">KOMP</uzo>
+    <dif>
+      Programo por
+      <ref tip="malprt" cel="trakt.post0ado">posttraktado</ref>.
+    </dif>
+    <ref tip="super" cel="trakt.datum0ilo">datumtraktilo</ref>
+    <ref tip="ant" cel="trakt.antaux0ilo">anta&ubreve;traktilo</ref>
+    <trd lng="de">Postprozessor</trd>
+    <trd lng="en">postprocessor</trd>
+    <trd lng="fr">programme de posttraitement</trd>
+    <trdgrp lng="hu">
+      <trd>ut&oacute;feldolgoz&oacute;</trd>,
+      <trd>postprocesszor</trd>
+    </trdgrp>
+    <trd lng="ru">&c_p;&c_o;&c_s;&c_t;&c_p;&c_r;&c_o;&c_c;&c_je;&c_s;&c_s;&c_o;&c_r;</trd>
+  </snc>
+</drv>
+</art>
+<!--
+$Log: trakt.xml,v $
+Revision 1.23  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.22  2015/06/29 16:40:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.21  2015/05/14 23:10:15  revo
+Jeromo Vasxe: memstar. pri~i
+
+Revision 1.20  2014/10/24 03:10:19  revo
+Jeromo Vasxe: + inter~i
+
+Revision 1.19  2014/03/15 02:10:15  revo
+Jeromo Vasxe: + mrk, reord. drv
+
+Revision 1.18  2012/10/23 00:14:04  revo
+Neil Roberts: aldonu la etikedon <var>
+
+Revision 1.17  2011/06/24 23:10:16  revo
+Dominique Pelle: au -> aux
+
+Revision 1.16  2006/04/21 16:31:39  revo
+Wieland Pusch: +trd de
+
+Revision 1.15  2006/02/16 17:33:19  revo
+Tulio Flores: +trd pt
+
+Revision 1.14  2004/12/10 17:31:23  revo
+-->
+</vortaro>

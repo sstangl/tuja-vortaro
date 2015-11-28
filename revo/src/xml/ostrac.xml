@@ -1,0 +1,116 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: ostrac.xml,v 1.14 2012/07/31 08:10:15 revo Exp $">
+<kap>
+  <ofc>2</ofc> <rad>ostracism</rad>/o <fnt><bib>PV</bib></fnt> 
+</kap>
+<drv mrk="ostrac.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="stl">RAR</uzo>
+  <snc mrk="ostrac.0o.HIS">
+    <uzo tip="fak">HIS</uzo>
+    <uzo tip="fak">JUR</uzo>
+    <dif>
+      Ju&gcirc;o per kiu la Atenanoj kondamnis al dekjara
+      <ref tip="vid" cel="ekzil.0o.POL">ekzilo</ref> civitanon,
+      kiun ili opiniis dan&gcirc;era pro lia ri&ccirc;eco, potenco a&ubreve;
+      influo.
+    </dif>
+  </snc>
+  <snc mrk="ostrac.0o.KOMUNE">
+    <dif>
+      Elpelo de iu el komunumo, el politika
+      a&ubreve; alia grupo:
+      <ekz>
+        &jcirc;eti <tld/>on sur iun.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_a;&c_s;&c_t;&c_r;&c_a;&c_k;&c_ib;&c_z;&c_m;</trd>
+  <trd lng="ca">ostracisme</trd>
+  <trdgrp lng="de">
+    <trd>Ostrazismus</trd>,
+    <trd>Scherbengericht</trd>
+  </trdgrp>
+  <trd lng="en">ostracism</trd>
+  <trdgrp lng="fr">
+    <trd>bannissement</trd>,
+    <trd>ostracisme</trd>
+  </trdgrp>
+  <trd lng="el">&epsilon;&xi;&omikron;&sigma;&tau;&rho;&alfa;&kappa;&jota;&sigma;&my;&omikron_ton;&sigma_fina;</trd>
+  <trdgrp lng="hu">
+    <trd>cser&eacute;pszavaz&aacute;s</trd>,
+    <trd>osztracizmus</trd>
+  </trdgrp>
+  <trd lng="nl">ostracisme</trd>
+  <trd lng="pt">ostracismo</trd>
+  <trdgrp lng="ru">
+    <trd>&c_o;&c_s;&c_t;&c_r;&c_a;&c_k;&c_i;&c_z;&c_m;</trd>,
+    <trd>&c_i;&c_z;&c_g;&c_n;&c_a;&c_n;&c_i;&c_je;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="ostrac.0i">
+  <kap><tld/>i</kap>
+  <uzo tip="stl">RAR</uzo>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="ostrac.0i.KOMUNE">
+    <dif>
+      Forpeli, forteni de iu homgrupo:
+      <ekz>
+        la Esperanto-historio <tld/>is &ccirc;i
+        tiun misnaskitan idon <ctl>Ido</ctl>,
+        kvaza&ubreve; hontante <klr>...</klr>, ke
+        &gcirc;i naski&gcirc;is
+        <fnt>
+          <aut>C. Minnaja</aut>,
+          <vrk><url ref="http://www.esperanto.be/fel/2010/009999.php">
+          Interlingvo: komparo inter du solvoj</url></vrk>,
+          <bib>Monato</bib>,
+          <lok>2010</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="ekskom.0i.FIG">ekskomuniki<sncref/></ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="ca">
+    <trd>bandejar</trd>,
+    <trd>proscriure</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>bannir</trd>,
+    <trd>ostraciser</trd>,
+    <trd>proscrire</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: ostrac.xml,v $
+Revision 1.14  2012/07/31 08:10:15  revo
+Marc Rausell: + trd ca
+
+Revision 1.13  2011/12/31 23:10:11  revo
+Jeromo Vasxe: + snc komuna
+
+Revision 1.12  2009/07/01 17:21:40  revo
+Russ Williams: +trd en
+
+Revision 1.11  2003/07/23 17:41:39  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.10  2002/06/07 17:32:36  revo
+Eduardo M. Kalinowski: ald trd el, pt
+
+Revision 1.9  2002/02/27 18:02:58  revo
+Yury Finkel: konv (f)
+
+Revision 1.8 2002/01/08 19:26:22 revo
+Jozefo Horvath: +trd hu
+
+Revision 1.7 2001/12/06 16:18:56 revo
+-->
+</vortaro>

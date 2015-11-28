@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: pianol.xml,v 1.6 2015/07/04 08:37:41 revo Exp $">
+<kap>
+  <rad>pianol</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="pianol.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="pianol.0o.MUZ">
+    <uzo tip="fak">MUZ</uzo>
+    <dif>
+      <ref tip="lst" cel="instru2.kord0o.MUZ"
+      lst="voko:kordinstrumentoj">Kordinstrumento</ref>,
+      a&ubreve;tomata piano sonigata de me&hcirc;anismo:
+      <ekz>
+        li okupi&gcirc;u munti kaj agordi la <tld/>on kaj instrui kiel &gcirc;i 
+        funkcias kaj kiel oni dancu la&ubreve; la enmoda muziko presita sur 
+        ses paper-ruloj
+        <fnt><aut>G. Garc&iacute;a M&aacute;rquez, trad. F. de Diego</aut>,
+        <vrk>Cent 
+        Jaroj da Soleco</vrk>, <lok>Fonto, 1992</lok></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="gurd.0o.MUZ">gurdo</ref>
+    </refgrp>
+  </snc>
+  <trd lng="cs">pianola</trd>
+  <trd lng="de">Pianola</trd>
+  <trd lng="fr">piano m&eacute;canique</trd>
+  <trd lng="it">pianola</trd>
+  <trd lng="nl">pianola</trd>
+  <trd lng="sk">pianola</trd>
+</drv>
+</art>
+
+<!--
+$Log: pianol.xml,v $
+Revision 1.6  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.5  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.4  2013/09/08 18:11:33  revo
+Wolfram Diestel: ref al listo kordinstrumentoj
+
+Revision 1.3  2009/10/25 17:30:50  revo
+Wieland Pusch: +trd de
+
+Revision 1.2  2009/10/24 16:31:51  revo
+Paul Peeraerts: +nl
+
+Revision 1.1  2007/04/15 16:30:21  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: ornat.xml,v 1.17 2015/07/04 08:37:40 revo Exp $">
+<kap>
+  <rad>ornat</rad>/o <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="ornat.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="ornat.0o.TEKS">
+    <uzo tip="fak">REL</uzo>
+    <uzo tip="fak">TEKS</uzo>
+    <dif>
+      Rita vesto uzata por diservo:
+      <ekz>
+        li surmetis sian taoisman <tld/>on, kun broditaj
+        blankaj drakoj dorse kaj anta&ubreve;e
+        <fnt>
+          <aut>Chun-Chan Yeh, trad. W. Auld</aut>,
+          <vrk>Montara Vila&gcirc;o</vrk>,
+          <lok>1984</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="dalmat.0o">dalmatiko</ref>,
+      <ref cel="surpli.0o.TEKS">surpliso</ref>,
+      <ref cel="sutan.0o.TEKS">sutano</ref>
+    </refgrp>         
+  </snc>
+  <trd lng="be">&c_r;&c_y;&c_z;&c_a;</trd>
+  <trd lng="ca">ornament (lit&uacute;rgic)</trd>
+  <trdgrp lng="cs">
+    <trd>mešní roucho</trd>,
+    <trd>ornát</trd>
+  </trdgrp>
+  <trd lng="de">Ornat</trd>
+  <trdgrp lng="en">
+    <trd>vestment</trd>,
+    <trd>clerical robe</trd>
+  </trdgrp>
+  <trd lng="fr">aube<klr> (v&ecirc;tement)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>orn&aacute;tus</trd>,
+    <trd>d&iacute;sz&ouml;lt&ouml;zet</trd>
+  </trdgrp>
+  <trd lng="it">paramenti<klr> (rel)</klr></trd>
+  <trdgrp lng="nl">
+    <trd>ornaat</trd>,
+    <trd>ambtsgewaad</trd>
+  </trdgrp>
+  <trd lng="pl">ornat</trd>
+  <trdgrp lng="pt">
+    <trd>paramento <klr tip="amb">(vest.)</klr></trd>,
+    <trd>ornamento <klr tip="amb">(vest.)</klr></trd>
+  </trdgrp>
+  <trd lng="ru">&c_r;&c_i;&c_z;&c_a;</trd>
+  <trd lng="sk">bohoslužobné rúcho</trd>
+</drv>
+</art>
+<!--
+$Log: ornat.xml,v $
+Revision 1.17  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.15  2014/12/13 14:10:16  revo
+Jeromo Vasxe: - fak kat + fak rel teks, + ekz
+
+Revision 1.14  2012/01/03 17:10:11  revo
+Marc Rausell: +trd ca
+
+Revision 1.13  2010/11/04 17:31:06  revo
+Antonio Codazzi: +trd it
+
+Revision 1.12  2009/10/15 16:33:09  revo
+Paul Peeraerts: sintaksa korekto
+
+Revision 1.11  2009/01/29 17:30:41  revo
+Russ Williams: +trd en
+
+Revision 1.10  2008/05/20 16:30:37  revo
+Sebastian Cyprych: +ref al dalmatiko, surpliso, sultano +trd pl
+
+Revision 1.9  2006/05/20 16:31:58  revo
+Tulio Flores: +tr pt
+
+Revision 1.8  2004/08/25 16:31:40  revo
+-->
+</vortaro>

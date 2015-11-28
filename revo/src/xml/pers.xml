@@ -1,0 +1,148 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: pers.xml,v 1.11 2015/07/04 08:37:41 revo Exp $">
+<kap>
+    <rad>pers</rad>/o
+    <fnt><bib>PIV2</bib></fnt>
+</kap>
+
+<drv mrk="pers.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="pers.0o.HIS">
+    <uzo tip="fak">HIS</uzo>
+    <dif>
+      Ano de la &ccirc;efa gento de <tld lit="P"/>ujo.
+    </dif>
+  </snc>
+  <trd lng="cs">Peršan</trd>
+  <trd lng="de">Perser</trd>
+  <trd lng="fr">Perse<klr> (subst.)</klr></trd>
+  <trd lng="nl">Pers</trd>
+  <trd lng="pl">Persja</trd>
+  <trd lng="sk">Peržan</trd>
+  <trd lng="sv">en <ind>persisk</ind> person</trd>
+</drv>
+
+<drv mrk="pers.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="pers.0a.HIS">
+    <uzo tip="fak">HIS</uzo>
+    <dif>
+      Rilata al <tld/>o a&ubreve; al <tld lit="P"/>ujo:
+      <ekz>
+        la <tld/>a lingvo,
+      </ekz>
+      <ekz>
+        la <tld/>a kato,
+      </ekz>
+      <ekz>
+        elprenu tapi&scirc;on la plej bonan, la <tld/>an,
+      </ekz>
+      <ekz>
+        de kiu vi de&jcirc;etadis la <tld/>an satrapon.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="de">
+    <trd>persische Sprache</trd>,
+    <trd>persisch</trd>
+  </trdgrp>
+  <trd lng="en">Persian</trd>
+  <trd lng="fr">perse<klr> (adj.)</klr></trd>
+  <trd lng="nl">Perzisch</trd>
+  <trd lng="pl">perski</trd>
+  <trd lng="sv">persisk</trd>
+</drv>
+
+<drv mrk="pers.P0aGolfo">
+  <kap><tld lit="P"/>a Golfo</kap>
+  <snc mrk="pers.P0aGolfo.GEOG">
+    <uzo tip="fak">GEOG</uzo>
+    <dif>
+      Vasta golfo inter Irano kaj Arabio.
+    </dif>
+  </snc>
+  <trd lng="de">Persischer Golf</trd>
+  <trd lng="en">Persian Gulf</trd>
+  <trd lng="fr">Golfe Persique</trd>
+  <trd lng="id"><ind>Teluk</ind> Persia</trd>
+  <trd lng="nl">Perzische Golf</trd>
+  <trd lng="pl">Zatoka Perska</trd>
+  <trd lng="sv">Persiska viken</trd>
+</drv>
+
+<drv mrk="pers.P0ujo">
+  <kap><tld lit="P"/>ujo</kap>
+  <snc mrk="pers.P0ujo.HIS">
+    <uzo tip="fak">GEOG</uzo>
+    <uzo tip="fak">HIS</uzo>
+    <dif>
+      Eksa nomo de Irano.
+      <ekz>
+        en la unua jaro de Ciro, re&gcirc;o de <tld lit="P"/>ujo.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="de">Persien</trd>
+  <trd lng="en">Persia</trd>
+  <trd lng="fr">Perse<klr> (Iran)</klr></trd>
+  <trd lng="id">Persia</trd>
+  <trd lng="nl">Perzi&euml;</trd>
+  <trd lng="pl">Persja</trd>
+  <trd lng="sv">Persien</trd>
+</drv>
+
+<drv mrk="pers.P0io">
+  <kap><tld lit="P"/>io</kap>
+  <snc mrk="pers.P0io.HIS">
+    <uzo tip="fak">GEOG</uzo>
+    <uzo tip="fak">HIS</uzo>
+    <ref tip="dif" cel="pers.P0ujo">Persujo</ref>
+  </snc>
+  <trdgrp lng="de">
+    <trd>Perserreich</trd>,
+    <trd>Persien</trd>
+  </trdgrp>
+  <trd lng="en">Persia</trd>
+  <trd lng="fr">Perse<klr> (Iran)</klr></trd>
+  <trd lng="id">Persia</trd>
+  <trd lng="nl">Perzi&euml;</trd>
+  <trd lng="pl">Persja</trd>
+  <trd lng="sv">Persien</trd>
+</drv>
+</art>
+
+<!--
+$Log: pers.xml,v $
+Revision 1.11  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.10  2015/06/29 16:40:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.9  2014/06/06 16:10:21  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.8  2014/03/22 09:10:15  revo
+Damien Brucker: +trd fr
+
+Revision 1.7  2012/12/23 01:10:08  revo
+Wieland Pusch: +trd de
+
+Revision 1.6  2011/02/15 14:10:21  revo
+Luiz Portella: kor. ref k mrk
+
+Revision 1.5  2009/10/24 16:31:29  revo
+Paul Peeraerts: +nl
+
+Revision 1.4  2009/08/08 16:34:02  revo
+Russ Williams: +trd en
+
+Revision 1.3  2009/02/23 17:30:29  revo
+Sebastian Cyprych: kor en dif, - duobla ~io
+
+Revision 1.2  2009/02/19 20:26:45  revo
+-->
+</vortaro>

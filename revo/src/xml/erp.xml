@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: erp.xml,v 1.19 2015/07/04 08:37:33 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>erp</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="erp.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="erp.0i.AGR">
+    <uzo tip="fak">AGR</uzo>
+    <dif>
+      Skrapi kampon, disrompante la terbulojn per tiucela instrumento:
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        <tld/>i la maron<fnt>Z</fnt>
+        <klr>(provi neeblan a&ubreve; vanan, senefikan faron)</klr>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd
+  lng="be">&c_b;&c_a;&c_r;&c_a;&c_n;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trdgrp lng="ca">
+    <trd>rastellar</trd>,
+    <trd>rasclar</trd>,
+    <trd>esterrossar</trd>
+  </trdgrp>
+  <trd lng="cs">vláčet <klr>(pole)</klr></trd>
+  <trd lng="de">eggen</trd>
+  <trdgrp lng="en">
+    <trd>harrow</trd>,
+    <trd>till</trd>,
+    <trd>plow</trd>
+  </trdgrp>
+  <trd lng="fr">herser</trd>
+  <trd lng="hu">boron&aacute;l</trd>
+  <trd lng="nl">eggen</trd>
+  <trd lng="pl">bronowa&cacute;</trd>
+  <trdgrp lng="pt">
+    <trd>estorrar</trd>,
+    <trd>gradar <klr tip="amb">(terreno)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_b;&c_o;&c_r;&c_o;&c_n;&c_i;&c_t;&c_mol;</trd>,
+    <trd>&c_b;&c_o;&c_r;&c_o;&c_n;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>brániť</trd>,
+    <trd>vláčiť</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="erp.0ilo">
+  <kap><tld/>ilo</kap>
+  <snc mrk="erp.0ilo.AGR">
+    <uzo tip="fak">AGR</uzo>
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      Denta instrumento por <tld/>i:
+      <ekz>
+        oni disrompas la terbulojn kaj iom
+        ebenigas la surfacon per <tld/>ilo
+        <fnt>
+          <aut>W. F. Rolt</aut>,
+          <vrk>El la Polvo de la Tero</vrk>,
+          <lok>1967</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_b;&c_a;&c_r;&c_a;&c_n;&c_a;</trd>
+  <trdgrp lng="ca">
+    <trd>rascle</trd>,
+    <trd>esterrossador</trd>
+  </trdgrp>
+  <trd lng="cs">brány</trd>
+  <trd lng="de">Egge</trd>
+  <trd lng="fr">herse</trd>
+  <trd lng="hu">borona</trd>
+  <trdgrp lng="nl">
+    <trd>eg</trd>,
+    <trd>egge</trd>
+  </trdgrp>
+  <trd lng="pl">brona</trd>
+  <trd lng="ru">&c_b;&c_o;&c_r;&c_o;&c_n;&c_a;</trd>
+  <trd lng="sk">brány</trd>
+</drv>
+</art>
+<!--
+$Log: erp.xml,v $
+Revision 1.19  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2012/04/21 16:10:12  revo
+Dominique Pelle: (ripetita vorto) la la surfacon -> la sufacon
+
+Revision 1.16  2012/02/18 21:10:24  revo
+Marc Rausell: +trd ca
+
+Revision 1.15  2011/11/13 20:10:08  revo
+Jeromo Vasxe: + 1 ekz
+
+Revision 1.14  2010/03/02 17:30:37  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.13  2010/01/18 17:31:12  revo
+Russ Williams: +trd en
+
+Revision 1.12  2007/07/06 18:03:49  revo
+Tulio Flores: +tr pt
+
+Revision 1.11  2003/12/18 17:33:00  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.10  2003/06/11 17:06:00  revo
+-->
+</vortaro>

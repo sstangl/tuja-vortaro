@@ -1,0 +1,115 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: jujub.xml,v 1.16 2015/07/04 08:37:36 revo Exp $">
+<kap>
+  <rad>jujub</rad>/o
+</kap>
+<drv mrk="jujub.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="jujub.0o.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      Frukto de <tld/>arbo.
+    </dif>
+    <trd lng="be">&c_ju;&c_ju;&c_b;&c_a;</trd>
+    <trd lng="ca">g&iacute;njol</trd>
+    <trdgrp lng="de">
+      <trd>Jujube</trd>,
+      <trd>rote Brustbeere</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>jujubadatolya</trd>,
+      <trd>zsid&oacute;t&ouml;visbogy&oacute;</trd>
+    </trdgrp>
+    <trd lng="nl">jujube</trd>
+    <trdgrp lng="pl">
+    <trd>g&lstroke;o&zdot;yna</trd>,
+    <trd>jujuba</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_ju;&c_ju;&c_b;&c_a;</trd>,
+      <trd>&c_g;&c_r;&c_u;&c_d;&c_n;&c_a;&c_ja; &c_ja;&c_g;&c_o;&c_d;&c_a;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="jujub.0o.KUI">
+    <uzo tip="fak">KUI</uzo>
+    <dif>
+      Suko ekstraktata el zizifo.
+    </dif>
+    <trd lng="hu">jujubal&eacute;</trd>
+    <trd lng="nl">jujubesap</trd>
+  </snc>
+  <trd lng="cs">jujuba</trd>
+  <trd lng="en">jujube</trd>
+  <trd lng="fr">jujube</trd>
+  <trd lng="pt">jujuba</trd>
+  <trd lng="sk">jujuba</trd>
+</drv>
+
+<drv mrk="jujub.0arbo0ujo">
+  <kap><tld/>ujo, <var><kap><tld/>arbo</kap></var></kap>
+  <uzo tip="fak">BOT</uzo>
+  <snc>
+    <dif>
+      Specio de zizifo.
+    </dif>
+  </snc>
+  <trd lng="ca">ginjoler</trd>
+  <trd lng="cs">cicimek datlový</trd>
+  <trdgrp lng="de">
+    <trd>Jujubenbaum</trd>,
+    <trd>Judendorn</trd>
+  </trdgrp>
+  <trd lng="en">jujube</trd>
+  <trd lng="fr">jujubier</trd>
+  <trdgrp lng="hu">
+    <trd>zsid&oacute;t&ouml;vis</trd>,
+    <trd>jujuba(fa)</trd>
+  </trdgrp>
+  <trd lng="nl">jujubeboom</trd>
+  <trdgrp lng="pl">
+  <trd>g&lstroke;o&zdot;yna <klr>pospolita</klr></trd>,
+  <trd>jujuba <klr>pospolita</klr></trd>
+  </trdgrp>
+  <trd lng="pt">jujuba</trd>
+  <trdgrp lng="ru">
+    <trd>&c_ju;&c_ju;&c_b;&c_a;</trd>,
+    <trd>&c_u;&c_n;&c_a;&c_b;&c_i;</trd>
+  </trdgrp>
+  <trd lng="sk">jujuba čínska</trd>
+</drv>
+</art>
+<!--
+$Log: jujub.xml,v $
+Revision 1.16  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.14  2013/04/09 12:10:14  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.13  2012/10/23 00:12:00  revo
+Neil Roberts: aldonu la etikedon <var>
+
+Revision 1.12  2012/08/04 07:10:24  revo
+Marc Rausell: + trd ca
+
+Revision 1.11  2009/10/24 16:32:01  revo
+Russ Williams: +trd en
+
+Revision 1.10  2004/11/15 17:31:13  revo
+Zmicier Lapcionak: + trd be
+
+Revision 1.9  2004/09/26 16:32:42  revo
+Marc Bavant: +trd fr, +adm; ~o: mod dif, +uzo KUI; ~arbo: mod dif, mod
+kap, +uzo BOT
+
+Revision 1.8 2002/05/09 18:42:26 revo
+Eduardo M. Kalinowski: ald trd pt
+
+-->
+</vortaro>

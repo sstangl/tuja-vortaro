@@ -1,0 +1,167 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: klerik.xml,v 1.21 2015/10/08 14:10:17 revo Exp $">
+<kap>
+  <rad>klerik</rad>/o
+  <fnt>Z</fnt>
+</kap>
+<drv mrk="klerik.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="klerik.0o.REL">
+    <uzo tip="fak">REL</uzo>
+    <dif>
+      Eklezia funkciulo, ekleziulo:
+      <ekz>
+        Petrarko akceptis la <ind><tld/>a</ind>n karieron
+        kiel honorindan profesion
+        <fnt>
+        <aut>N. Rossi</aut>
+        <vrk>Francesco Petrarca</vrk>
+        <lok><url ref="http://esperanto.org/Ondo/Tl-it02.htm">LOdE
+        2004:6</url></lok>
+        </fnt>.
+        <trdgrp lng="fr">
+          <trd>cl&eacute;rical<klr tip="ind"> (relatif au
+          clerg&eacute;)</klr></trd>,
+          <trd>de <ind>clerc</ind></trd>,
+          <trd>du <ind>clerg&eacute;</ind></trd>
+        </trdgrp>
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="laik.0o.pasxtato">laiko</ref>
+    <trd lng="be">&c_k;&c_l;&c_ib;&c_r;&c_y;&c_k;</trd>
+    <trdgrp lng="ca">
+      <trd>clergue</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd>Kleriker</trd>,
+      <trd>Geistlicher</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>cleric</trd>,
+      <trd>clergyman</trd>,
+      <trd>ecclesiastic</trd>,
+      <trd>divine</trd>
+    </trdgrp>
+    <trdgrp lng="es">
+      <trd>cl&eacute;rigo</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>clerc<klr tip="ind"> (eccl&eacute;siastique)</klr></trd>,
+      <trd>eccl&eacute;siastique<klr tip="ind"> (subst.)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>egyh&aacute;zi szem&eacute;ly</trd>,
+      <trd>klerikus</trd>
+    </trdgrp>
+    <trd
+    lng="grc">&kappa;&lambda;&eta;&rho;&jota;&kappa;&omikron_acute;&sigma_fina;</trd>
+    <trd lng="nl">geestelijke</trd>
+    <trdgrp lng="pl">
+      <trd>kleryk</trd>,
+      <trd>duchowny</trd>
+    </trdgrp>
+    <trd lng="ru">&c_k;&c_l;&c_i;&c_r;&c_i;&c_k;</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>duchovn&iacute;</trd>,
+    <trd>klerik</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>duchovn&yacute;</trd>,
+    <trd>klerik</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="klerik.0aro">
+  <kap><tld/>aro</kap>
+  <snc mrk="klerik.0aro.REL">
+    <uzo tip="fak">REL</uzo>
+    <dif>
+      La korporacio de <tld/>oj ene de eklezio:
+      <ekz>
+        la <ind>blanka <tld/>aro</ind>
+        <klr>(en ortodoksismo, la <tld/>oj kiuj vivas inter la
+        laikoj kaj rajtas esti edzi&gcirc;intaj)</klr>;
+        <trd lng="fr">clerg&eacute; s&eacute;culier</trd>
+        <trd lng="ru">&c_b;&c_je;&c_l;&c_o;&c_je;
+        &c_d;&c_u;&c_h;&c_o;&c_v;&c_je;&c_n;&c_s;&c_t;&c_v;&c_o;</trd>
+      </ekz>
+      <ekz>
+        la <ind>nigra <tld/>aro</ind>
+        <klr>(en ortodoksismo, la <tld/>oj mona&hcirc;i&gcirc;intaj,
+        kio estas deviga por la &ccirc;efpastroj)</klr>.
+        <trd lng="fr">clerg&eacute; r&eacute;gulier</trd>
+        <trd lng="ru">&c_ch;&c_jo;&c_r;&c_n;&c_o;&c_je;
+        &c_d;&c_u;&c_h;&c_o;&c_v;&c_je;&c_n;&c_s;&c_t;&c_v;&c_o;</trd>
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_k;&c_l;&c_ib;&c_r;</trd>,
+      <trd>&c_d;&c_u;&c_h;&c_a;&c_v;&c_je;&c_n;&c_s;&c_t;&c_v;&c_a;</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd>Klerus</trd>,
+      <trd>Geistlichkeit</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>clergy</trd>,
+      <trd>pastorate</trd>, <trd>priesthood</trd>
+    </trdgrp>
+    <trd lng="es">clero</trd>
+    <trd lng="fr">clerg&eacute;</trd>
+    <trd
+    lng="grc">&kappa;&lambda;&eta_circ;&rho;&omikron;&sigma_fina;</trd>
+    <trdgrp lng="hu">
+      <trd>paps&aacute;g</trd>,
+      <trd>kl&eacute;rus</trd>
+    </trdgrp>
+    <trd lng="nl">clerus</trd>
+    <trdgrp lng="pl">
+      <trd>kler</trd>,
+      <trd>duchowie&nacute;stwo</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_d;&c_u;&c_h;&c_o;&c_v;&c_je;&c_n;&c_s;&c_t;&c_v;&c_o;</trd>,
+      <trd>&c_k;&c_l;&c_i;&c_r;</trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>duchovenstvo</trd>,
+    <trd>kl&eacute;r</trd>,
+    <trd>kl&eacute;rus</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>duchovenstvo</trd>,
+    <trd>kl&eacute;r</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: klerik.xml,v $
+Revision 1.21  2015/10/08 14:10:17  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.20  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2015/04/18 03:10:16  revo
+Carlos Garcia: +trd es -aro
+
+Revision 1.17  2010/01/14 18:27:15  revo
+Russ Williams: +trd en
+
+Revision 1.16  2010/01/07 17:30:32  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.15  2006/07/11 16:31:09  revo
+Jeromo Vasxe: + mrk
+
+Revision 1.14  2005/04/18 16:32:35  revo
+-->
+</vortaro>

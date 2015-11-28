@@ -1,0 +1,136 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: vepr.xml,v 1.19 2015/07/04 08:37:45 revo Exp $">
+<kap>
+  <rad>vepr</rad>/o
+</kap>
+<drv mrk="vepr.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="vepr.0o.HOR">
+    <uzo tip="fak">HOR</uzo>
+    <dif>
+      Arbustaro, arbustotufo, dornejo.
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_g;&c_u;&c_s;&c_t;&c_y;
+    <ind>&c_h;&c_m;&c_y;&c_z;&c_mol;&c_n;&c_ja;&c_k;</ind></trd>,
+    <trd>&c_z;&c_a;&c_r;&c_a;&c_s;&c_mol;&c_n;&c_ib;&c_k;</trd>
+  </trdgrp>
+  <trdgrp lng="ca">
+    <trd>esbarzer</trd>,
+    <trd>bardissa</trd>,
+    <trd>romeguera</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>houština</trd>,
+    <trd>houští</trd>,
+    <trd>křoví</trd>,
+    <trd>trní</trd>
+  </trdgrp>
+  <trd lng="de">Gestr&uuml;pp</trd>
+  <trd lng="el">&theta;&alfa_ton;&my;&ny;&omikron;&sigma_fina;</trd>
+  <trdgrp lng="fr">
+    <trd>&eacute;pineux<klr> (subst.)</klr></trd>,
+    <trd>fourr&eacute;<klr> (subst.)</klr></trd>
+  </trdgrp>
+  <trd lng="hu">boz&oacute;t</trd>
+  <trdgrp lng="la">
+    <trd>dumetum</trd>,
+    <trd>frutectum</trd>,
+    <trd>vepres</trd>
+  </trdgrp>
+  <trd lng="nl">doornbos</trd>
+  <trdgrp lng="pl">
+    <trd>zaro&sacute;la</trd>,
+    <trd>chaszcze</trd>
+  </trdgrp>
+  <trd lng="pt">moita</trd>
+  <trdgrp lng="ru">
+    <trd>&c_k;&c_u;&c_s;&c_t;&c_a;&c_r;&c_n;&c_i;&c_k;</trd>,
+    <trd>&c_z;&c_a;&c_r;&c_o;&c_s;&c_l;&c_i;</trd>,
+    <trd>&c_ch;&c_a;&c_shch;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>krovie</trd>,
+    <trd>tŕnie</trd>,
+    <trd>tŕnina</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="vepr.0ejo">
+  <kap><tld/>ejo</kap>
+  <snc mrk="vepr.0ejo.GEOG">
+    <uzo tip="fak">GEOG</uzo>
+    <dif>
+      Loko surkreskata de <tld/>oj:
+      <ekz>
+        aperas anta&ubreve; vi malalta dornoza <tld/>ejo kaj leporoj
+        eksaltas 
+        inter viaj piedoj
+        <fnt>
+          <aut>V. Glazunov</aut>,
+          <vrk><url ref="http://www.geocities.com/noveloj/17.html">
+           Belulino Ajsul&uacute;</url></vrk>,
+          <lok>en: La sfinkso de Steplando, 1988</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="sub" cel="makis.0o.GEOG">makiso</ref>
+  </snc>
+  <trdgrp lng="ca">
+    <trd>esbarzerar</trd>,
+    <trd>bardissar</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>houština</trd>,
+    <trd>křovina</trd>,
+    <trd>křoviště</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>broussaille</trd>,
+    <trd>ronceraie</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>boz&oacute;tos</trd>,
+    <trd>csalit</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>húština</trd>,
+    <trd>krovie</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: vepr.xml,v $
+Revision 1.19  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/28 12:03:50  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2012/08/13 08:10:15  revo
+Marc Rausell: ++ trd ca
+
+Revision 1.16  2009/07/07 16:31:08  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.15  2008/07/16 16:30:50  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.14  2007/12/14 17:30:19  revo
+Jeromo Vasxe: + ~ejo
+
+Revision 1.13  2006/01/23 17:31:02  revo
+Jeromo Vasxe: + fak hor
+
+Revision 1.12 2005/05/02 16:31:04 revo
+Lluis Batlle i Rossell: +trd ca
+
+Revision 1.11 2005/02/01 17:31:42 revo
+Jozefo Horvath: +trd hu
+
+Revision 1.10 2003/10/01 16:31:33 revo
+-->
+</vortaro>

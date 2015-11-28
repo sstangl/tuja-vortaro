@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: alban.xml,v 1.10 2015/07/04 08:37:30 revo Exp $">
+<kap>
+  <ofc>8</ofc>
+  <rad>alban</rad>/o
+</kap>
+
+<drv mrk="alban.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="alban.0o.sxtatano">
+    <dif>
+      <ref tip="super" cel="sxtat.0ano">&Scirc;tatano</ref> de
+      <ref tip="malprt" cel="alban.A0ujo"><tld lit="A"/>ujo</ref>.
+    </dif>
+  </snc>
+  <snc mrk="alban.0o.naciano">
+    <dif>
+      Homo kun <tld/>a nacieco.
+    </dif>
+  </snc>
+  <trd lng="be">&c_a;&c_l;&c_mol;&c_b;&c_a;&c_n;&c_je;&c_c;</trd>
+  <trd lng="bg">&c_a;&c_l;&c_b;&c_a;&c_n;&c_je;&c_c;</trd>
+  <trd lng="ca">alban&eacute;s <klr>(subst.)</klr></trd>
+  <trd lng="cs">Albánec</trd>
+  <trd lng="de">Albaner</trd>
+  <trd lng="en">Albanian</trd>
+  <trd lng="fr">Albanais<klr> (subst.)</klr></trd>
+  <trd lng="nl">Albanees</trd>
+  <trd lng="pl">Alba&nacute;czyk</trd>
+  <trd lng="sk">Albánec</trd>
+</drv>
+
+<drv mrk="alban.0a">
+  <kap><tld/>a</kap>
+  <snc>
+    <dif>
+      Rilatanta al <tld/>oj, ilia nacieco a&ubreve; &scirc;tato.
+    </dif>
+  </snc>
+  <trd lng="be">&c_a;&c_l;&c_mol;&c_b;&c_a;&c_n;&c_s;&c_k;&c_ib;</trd>
+  <trd lng="bg">&c_a;&c_l;&c_b;&c_a;&c_n;&c_s;&c_k;&c_i;</trd>
+  <trd lng="ca">alban&eacute;s <klr>(adj.)</klr></trd>
+  <trd lng="cs">albánský</trd>
+  <trd lng="de">albanisch</trd>
+  <trd lng="en">Albanian</trd>
+  <trd lng="fr">albanais<klr> (adj.)</klr></trd>
+  <trd lng="nl">albaans</trd>
+  <trd lng="pl">alba&nacute;ski</trd>
+  <trd lng="sk">albánsky</trd>
+</drv>
+
+<drv mrk="alban.A0ujo">
+  <kap><tld lit="A"/>ujo</kap>
+  <snc>
+  <uzo tip="fak">GEOG</uzo>
+  <uzo tip="fak">POL</uzo>
+    <dif>
+      <ref tip="super" cel="sxtat.0o">&Scirc;tato</ref> lando en la 
+      sudorienta parto de E&ubreve;ropo sur la Balkana duoninsulo.
+    </dif>
+  </snc>
+  <trd lng="be">&c_A;&c_l;&c_mol;&c_b;&c_a;&c_n;&c_ib;&c_ja;</trd>
+  <trd lng="bg">&c_A;&c_l;&c_b;&c_a;&c_n;&c_i;&c_ja;</trd>
+  <trdgrp lng="ca">
+    <trd>Alb&agrave;nia</trd>,
+    <trd>Rep&uacute;blica d'Alb&agrave;nia</trd>
+  </trdgrp>
+  <trd lng="de">Albanien</trd>
+  <trd lng="en">Albania</trd>
+  <trd lng="fr">Albanie</trd>
+  <trd lng="id">Albania</trd>
+  <trd lng="nl">Albani&euml;</trd>
+  <trd lng="pl">Albania</trd>
+</drv>
+
+</art>
+
+<!--
+$Log: alban.xml,v $
+Revision 1.10  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.9  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.8  2014/06/14 03:10:30  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.7  2013/12/22 10:10:13  revo
+Damien Brucker: +trd fr
+
+Revision 1.6  2013/11/30 20:10:11  revo
+Joop Eggen: +trd nl
+
+Revision 1.5  2013/03/17 07:10:27  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.4  2012/01/01 20:10:14  revo
+Marc Rausell: +trd ca
+
+Revision 1.3  2010/10/26 16:31:22  revo
+Russ Williams: +trd en, +8OA
+
+Revision 1.2  2008/09/16 16:30:31  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.1  2008/02/09 17:31:24  revo
+-->
+</vortaro>

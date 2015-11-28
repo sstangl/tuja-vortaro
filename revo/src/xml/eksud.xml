@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: eksud.xml,v 1.11 2015/07/04 08:37:33 revo Exp $">
+<kap>
+  <rad>eksud</rad>/i
+</kap>
+<drv mrk="eksud.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <uzo tip="fak">MED</uzo>
+  <snc>
+    <dif>
+      Eliri kiel &scirc;vito tra histo:
+      <ekz>
+        la sango <tld/>as kelkafoje tra poroj.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="sxvit.0igxi">&scirc;viti&gcirc;i.</ref>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>exsudovat</trd>,
+    <trd>vyměšovat exsudát</trd>,
+    <trd>vypocovat se</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+     <trd>ausschwitzen</trd>,
+     <trd>absondern</trd>
+  </trdgrp>
+  <trd lng="fr">exsuder</trd>
+  <trd lng="hu">izzadm&aacute;ny k&eacute;pz&odblac;dik</trd>
+  <trd lng="pl">wysi&eogonek;ka&cacute;</trd>
+  <trd lng="pt">exsudar</trd>
+  <trd lng="sk">vypotiť</trd>
+</drv>
+
+<drv mrk="eksud.0o">
+  <kap><tld/>o</kap>
+  <snc>
+    <dif>
+      Ago de tio, kio <tld/>as.
+    </dif>
+  </snc>
+  <trdgrp lng="de">
+     <trd>Ausschwitzen</trd>,
+     <trd>Absonderung</trd>
+  </trdgrp>
+  <trd lng="fr">exsudation</trd>
+  <trdgrp lng="hu">
+    <trd>izzadm&aacute;nyk&eacute;pz&odblac;d&eacute;s</trd>,
+    <trd>exud&aacute;ci&oacute;</trd>
+  </trdgrp>
+  <trd lng="pl">wysi&eogonek;k</trd>
+</drv>
+
+<drv mrk="eksud.0ajxo">
+  <kap><tld/>a&jcirc;o</kap>
+  <snc>
+    <dif>
+      Likva&jcirc;o, kiu <tld/>as.
+    </dif>
+  </snc>
+  <trdgrp lng="de">
+     <trd>Exsudat</trd>,
+     <trd>Absonderung</trd>
+  </trdgrp>
+  <trd lng="fr">exsudat</trd>
+  <trdgrp lng="hu">
+    <trd>izzadm&aacute;ny</trd>,
+    <trd>exud&aacute;tum</trd>
+  </trdgrp>
+  <trd lng="pl">wysi&eogonek;k</trd>
+  <trd lng="ru">&c_e;&c_k;&c_s;&c_s;&c_u;&c_d;&c_a;&c_t;</trd>
+</drv>
+</art>
+<!--
+$Log: eksud.xml,v $
+Revision 1.11  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.10  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.9  2010/01/13 17:30:52  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.8  2007/06/23 16:31:19  revo
+Tulio Flores: +tr pt
+
+Revision 1.7  2003/08/17 17:29:29  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.6  2002/05/24 19:02:37  revo
+Ulrich Fellmann: + 6 trd de
+
+Revision 1.5  2002/03/20 17:33:30  revo
+Yury Finkel: +trd ru
+
+Revision 1.4 2001/06/18 18:25:05 revo
+Marc Bavant: +trd fr, +ref al sxvitigxi
+
+-->
+</vortaro>

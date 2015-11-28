@@ -1,0 +1,156 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: rutin.xml,v 1.18 2015/07/04 08:37:43 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>rutin</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="rutin.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="rutin.0o.lerto">
+    <dif>
+      Lerto akirita per ripetado kaj longa
+      <ref tip="vid" cel="kutim.0o.PSI">kutimo</ref>:
+      <ekz>
+        tiuj interpretistoj bezonas eksterordinaran lingvan <tld/>on kaj
+        penselastecon.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_s;&c_p;&c_r;&c_y;&c_t;</trd>,
+      <trd>&c_n;&c_a;&c_v;&c_y;&c_k;</trd>,
+      <trd>&c_d;&c_o;&c_s;&c_mol;&c_v;&c_je;&c_d;</trd>
+    </trdgrp>
+    <trd lng="ca">rutina</trd>
+    <trdgrp lng="de">
+      <trd>Erfahrung</trd>,
+      <trd>&Uuml;bung</trd>,
+      <trd>Fertigkeit</trd>,
+      <trd>Routine</trd>
+    </trdgrp>
+    <trd lng="es">rutina</trd>
+    <trdgrp lng="fr">
+      <trd>aisance</trd>,
+      <trd>pratique<klr> (aisance)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>rutin</trd>,
+      <trd>j&aacute;rtass&aacute;g</trd>
+    </trdgrp>
+    <trd lng="nl">routine</trd>
+    <trdgrp lng="pt">
+      <trd>experi&ecirc;ncia</trd>,
+      <trd>pr&aacute;tica</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_n;&c_a;&c_v;&c_y;&c_k;</trd>,
+      <trd>&c_s;&c_n;&c_o;&c_r;&c_o;&c_v;&c_k;&c_a;</trd>
+    </trdgrp>
+  </snc>
+
+  <snc mrk="rutin.0o.PSI">
+    <dif>
+      Nevenkebla kutimo, pro kiu oni konstante kaj senpense plenumas
+      sammaniere samajn agojn;
+      <ref tip="vid" cel="mani.0o.PSI">manio<sncref/></ref>:
+      <ekz>
+            eli&gcirc;u el la malvasta <tld/>o de via vivo,
+            eli&gcirc;u el vi mem! 
+	    <fnt><bib>I&scirc;tar</bib>, <lok>&ccirc;ap. 1a</lok></fnt>;
+      </ekz><ekz>
+        resti kaptita de la paraliza <tld/>o;
+      </ekz><ekz>
+        fali en foson de <tld/>o;
+      </ekz><ekz>
+        la kongreso estis blindigita per la <tld/>aj
+        kutimoj<fnt>Z</fnt>;
+      </ekz><ekz>
+        la <tld/>aj ideoj de la amaso<fnt>Z</fnt>;
+      </ekz><ekz>
+        ne sufi&ccirc;as <tld/>e balbuti kiel la papagoj.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="gurd.0i.FIG">gurdi<sncref/></ref>,
+      <ref cel="tren.kun0i">kuntreni</ref>,
+      <ref cel="stereo3.0o.banala">stereotipa<sncref/></ref>
+    </refgrp>
+    <trdgrp lng="be">
+      <trd>&c_k;&c_o;&c_s;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
+      <trd>&c_r;&c_u;&c_t;&c_y;&c_n;&c_a;</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd>Automatismus</trd>,
+      <trd>Erstarrung</trd>,
+      <trd>Zwanghaftigkeit</trd>,
+      <trd>Routine</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>routine</trd>,
+      <trd>train-train</trd>
+    </trdgrp>
+    <trd lng="hu">megszok&aacute;s</trd>    
+    <trd lng="nl">sleur</trd>
+    <trd lng="pt">rotina</trd>
+    <trdgrp lng="ru">
+      <trd>&c_k;&c_o;&c_s;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>,
+      <trd>&c_r;&c_u;&c_t;&c_i;&c_n;&c_a;</trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>cvik</trd>,
+    <trd>dovednost</trd>,
+    <trd>rutina</trd>,
+    <trd>zběhlost</trd>,
+    <trd>zručnost</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>routine</trd>,
+    <trd>habit</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>návyk</trd>,
+    <trd>obratnosť</trd>,
+    <trd>rutina</trd>,
+    <trd>vycvičenosť</trd>,
+    <trd>zručnosť</trd>,
+    <trd>šikovnosť</trd>
+  </trdgrp>
+</drv>
+
+</art>
+<!--
+$Log: rutin.xml,v $
+Revision 1.18  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.16  2013/12/30 10:10:13  revo
+Sergio Pokrovskij: +ekz
+
+Revision 1.15  2013/02/02 02:10:10  revo
+Jeromo Vasxe: + ref, + trd fr
+
+Revision 1.14  2006/02/24 17:34:17  revo
+Tulio Flores: +trd pt
+
+Revision 1.13  2005/04/18 16:33:03  revo
+Raul Salinas Monteagudo: +trd ca,es
+
+Revision 1.12  2004/09/06 16:38:14  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.11  2004/02/29 17:31:48  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.10  2002/11/02 17:30:59  revo
+Christopher Zervic: + ang
+
+Revision 1.9  2002/02/01 17:31:58  revo
+-->
+</vortaro>

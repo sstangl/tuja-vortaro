@@ -1,0 +1,110 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+  <art mrk="$Id: pauxl.xml,v 1.10 2015/02/26 19:11:15 revo Exp $">
+    <kap>
+      <ofc>8</ofc><rad>Pa&ubreve;l</rad>/o
+    </kap>
+
+    <drv mrk="pauxl.0o">
+      <kap><ofc>8</ofc><tld/>o</kap>
+      <snc mrk="pauxl.0o.NOM">
+        <uzo tip="fak">NOM</uzo>
+        <dif>
+          Vira <ref tip="lst" cel="nom.antaux0o"
+      lst="voko:personaj_nomoj">anta&ubreve;nomo</ref> latindevena:
+          <ekz>
+            <tld/>o rapide desaltis de la &ccirc;evalo
+            <fnt><bib>FK</bib>, <lok>3, anekdotoj</lok></fnt>;
+          </ekz><ekz>
+            Petro kaj <tld/>o estas la du &ccirc;efapostoloj de
+            kristanismo.
+          </ekz>
+        </dif>
+      </snc>
+      <trdgrp lng="de">
+        <trd>Paul</trd>,
+        <trd>Paulus</trd>
+      </trdgrp>
+      <trd lng="el">&Pi;&alfa;&ypsilon_circ;&lambda;&omikron;&sigma_fina;</trd>
+      <trd lng="en">Paul</trd>
+      <trd lng="fr">Paul</trd>
+      <trd lng="hu">P&aacute;l</trd>
+      <trd lng="it">Paolo</trd>
+      <trd lng="nl">Paul</trd>
+      <trd lng="pt">Paulo</trd>
+      <trd lng="ru">&c_P;&c_a;&c_v;&c_je;&c_l;</trd>
+    </drv>
+
+    <drv mrk="pauxl.0ino">
+      <kap><ofc>*</ofc><tld/>ino</kap>
+      <snc>
+        <uzo tip="fak">NOM</uzo>
+        <dif>
+          Ina <ref tip="lst" cel="nom.antaux0o"
+      lst="voko:personaj_nomoj">anta&ubreve;nomo</ref> responda al la vira nomo
+      <tld/>o:
+          <ekz>
+            En la banejo la bano jam estas preta, <tld/>ino banos
+            Helkan...
+	    <fnt><aut>E. Orzeszko, tr. Kabe</aut>:
+	      <vrk>La bona sinjorino</vrk>
+	    </fnt>.
+          </ekz>
+        </dif>
+      </snc>
+      <trdgrp lng="de">
+        <trd>Paula</trd>,
+        <trd>Pauline</trd>
+      </trdgrp>
+      <trdgrp lng="en">
+        <trd>Paula</trd>,
+        <trd>Pauline</trd>
+      </trdgrp>
+      <trd lng="hu">Paula</trd>
+      <trd lng="it">Paola</trd>
+      <trdgrp lng="nl">
+        <trd>Paula</trd>,
+        <trd>Pauline</trd>
+      </trdgrp>
+      <trd lng="pt">Paula</trd>
+      <trd lng="ru">&c_P;&c_a;&c_v;&c_l;&c_a;</trd>
+    </drv>
+
+  </art>
+
+  <!--
+  $Log: pauxl.xml,v $
+  Revision 1.10  2015/02/26 19:11:15  revo
+  Wolfram Diestel: lst antaunomoj, hist pers
+
+  Revision 1.9  2009/11/03 17:30:47  revo
+  Antonio Codazzi: +trd it
+
+  Revision 1.8  2009/10/18 16:30:49  revo
+  Paul Peeraerts: +nl
+
+  Revision 1.7  2009/08/18 19:19:09  revo
+  Russ Williams: +trd en
+
+  Revision 1.6  2006/08/29 16:41:48  revo
+  Jozefo Horvath: +trd hu
+
+  Revision 1.5  2006/08/18 15:10:07  revo
+  Wieland Pusch: +trd de
+
+  Revision 1.4  2006/02/25 17:33:54  revo
+  Tulio Flores: +tr pt
+
+  Revision 1.3  2006/01/30 17:31:52  revo
+  Sergio Pokrovskij: +~ino
+
+  Revision 1.2  2006/01/27 17:32:08  revo
+  Sergio Pokrovskij: +trd=el,ru
+
+  Revision 1.1  2005/09/28 16:31:22  revo
+  Jeromo Vasxe: nova artikolo
+
+  -->
+</vortaro>

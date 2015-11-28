@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: pulp.xml,v 1.15 2014/02/26 20:10:15 revo Exp $">
+<kap>
+  <ofc>9</ofc><rad>pulp</rad>/o
+</kap>
+<drv mrk="pulp.0o">
+  <kap><ofc>9</ofc><tld/>o</kap>
+  <snc mrk="pulp.0o.ANA">
+    <uzo tip="fak">ANA</uzo>
+    <dif>
+      Mola a&ubreve; duonmola histo, el kiu konsistas kelkaj organoj:
+      <ekz>
+        lieno kaj la interno de la dentradikoj estas el <tld/>o.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="cement.0o">cemento 3</ref>.
+    </refgrp>
+    <trd lng="be">&c_p;&c_u;&c_l;&c_mol;&c_p;&c_a;</trd>
+    <trdgrp lng="ca">
+      <trd>molla</trd>,
+      <trd>medul&middot;la </trd>
+    </trdgrp>
+    <trd lng="de">Mark</trd>
+    <trd lng="en">fleshy part</trd>
+    <trd lng="fr">pulpe<klr tip="ind"> (anat.)</klr></trd>
+    <trd lng="hu">b&eacute;l<klr tip="ind"> (pl. fogb&eacute;l)</klr></trd>
+    <trd lng="nl">pulpa</trd>
+    <trd lng="pl">miazga  <klr>(z&eogonek;bowa)</klr></trd>
+    <trd lng="ru">&c_p;&c_u;&c_l;&c_mol;&c_p;&c_a;</trd>
+  </snc>
+  <snc mrk="pulp.0o.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <ref tip="dif" cel="karn.0o.BOT">karno <sncref/></ref>
+    <trd lng="be">&c_m;&c_ja;&c_k;&c_a;&c_c;&c_mol;</trd>
+    <trdgrp lng="ca">
+      <trd>molsa</trd>,
+      <trd>polpa</trd>
+    </trdgrp>
+    <trd lng="de">Fruchtfleisch</trd>
+    <trd lng="en">pulp</trd>
+    <trdgrp lng="fr">
+      <trd>chair<klr tip="ind"> (de fruit)</klr></trd>,
+      <trd>pulpe<klr tip="ind"> (bot.)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>gy&uuml;m&ouml;lcsh&uacute;s</trd>,
+      <trd>gy&uuml;m&ouml;lcsvel&odblac;</trd>
+    </trdgrp>
+    <trdgrp lng="nl">
+      <trd>pulp</trd>,
+      <trd>vruchtvlees</trd>
+    </trdgrp>
+    <trd lng="pt">polpa <klr tip="amb">(anat., bot.)</klr></trd>
+    <trd lng="ru">&c_m;&c_ja;&c_k;&c_o;&c_t;&c_mol;</trd>
+  </snc>
+  <trdgrp lng="es">
+    <trd>pulpa</trd>,
+    <trd>m&eacute;dula</trd>
+  </trdgrp>
+  <trd lng="it">polpa</trd>
+</drv>
+</art>
+<!--
+$Log: pulp.xml,v $
+Revision 1.15  2014/02/26 20:10:15  revo
+Agustin Garcia Lopez: +trd(es)
+
+Revision 1.14  2011/12/03 18:10:14  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.13  2010/12/10 20:17:30  revo
+Antonio Codazzi: +trd it
+
+Revision 1.12  2009/03/01 17:33:30  revo
+Russ Williams: +trd en 9OA
+
+Revision 1.11  2006/04/18 16:31:17  revo
+Tulio Flores: +tr pt
+
+Revision 1.10  2005/04/10 16:32:12  revo
+Vito Redsky: +trd pl
+
+Revision 1.9  2004/12/05 17:35:37  revo
+Marc Bavant: +mrk, +trd fr; ~o BOT: -dif
+
+Revision 1.8  2003/07/26 08:43:56  revo
+-->
+</vortaro>

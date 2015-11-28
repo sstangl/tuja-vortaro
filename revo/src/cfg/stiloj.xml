@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<!DOCTYPE stiloj [
+
+<!ELEMENT stiloj (stilo)*>
+<!ELEMENT stilo (#PCDATA)>
+<!ATTLIST stilo kodo ID #REQUIRED> 
+]>
+ 
+<stiloj>
+
+<stilo kodo="FRAZ">frazaĵo</stilo>
+<stilo kodo="FIG">figure</stilo>
+<stilo kodo="VULG">vulgare</stilo>
+<stilo kodo="RAR">malofte</stilo>
+<stilo kodo="POE">poezie</stilo>
+<stilo kodo="ARK">arkaismo</stilo>
+<stilo kodo="EVI">evitinde</stilo>
+<stilo kodo="KOMUNE">komune</stilo>
+<stilo kodo="NEO">neologismo</stilo>
+
+</stiloj>

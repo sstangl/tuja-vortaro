@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: eringi.xml,v 1.12 2013/09/12 13:10:10 revo Exp $">
+<kap>
+  <rad>eringi</rad>/o
+</kap>
+<drv mrk="eringi.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">BOT</uzo>
+  <snc>
+    <dif>
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:botanikaj_genroj">Genro</ref> el familio de <ref
+      tip="malprt" cel="apiac.0oj">apiacoj</ref>
+      (<trd lng="la">Eryngium</trd>), kreskanta sur vojbordoj.
+    </dif>
+    <trd lng="de">Mannstreu</trd>
+    <trd lng="en">eryngo</trd>
+    <trd lng="fr">panicaut</trd>
+    <trdgrp lng="hu">
+      <trd>iring&oacute;</trd>,
+      <trd>&ouml;rd&ouml;gszek&eacute;r</trd>
+    </trdgrp>
+    <trd lng="nl">kruisdistel</trd>
+    <trd lng="pl">miko&lstroke;ajek</trd>
+    <trd lng="pt">er&iacute;ngio</trd>
+    <trd
+    lng="ru">&c_s;&c_i;&c_n;&c_je;&c_g;&c_o;&c_l;&c_o;&c_v;&c_n;&c_i;&c_k;</trd>
+  </snc>
+</drv>
+</art>
+<!--
+$Log: eringi.xml,v $
+Revision 1.12  2013/09/12 13:10:10  revo
+Joop Eggen: +trd en nl
+
+Revision 1.11  2013/08/26 08:10:39  revo
+Wolfram Diestel: referenco al listoj bot genroj
+
+Revision 1.10  2010/03/02 17:30:26  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.9  2007/06/28 16:33:34  revo
+Tulio Flores: +tr pt
+
+Revision 1.8  2003/06/11 17:06:31  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.7  2002/01/04 17:33:23  revo
+Marc Bavant: +trd fr
+
+Revision 1.6  2001/04/18 18:46:39  revo
+api.0acoj -> apiac.0oj
+
+Revision 1.5  2001/04/17 16:20:28  revo
+-->
+</vortaro>

@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: spektrometr.xml,v 1.4 2012/08/02 09:10:39 revo Exp $">
+<kap>
+  <rad>spektrometr</rad>/o
+</kap>
+<drv mrk="spektrometr.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="spektrometr.0o.FIZ">
+    <uzo tip="fak">FIZ</uzo>
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      Spektromezurilo,
+      <ref tip="vid" cel="spektrometri.0o.FIZ">Spektrometri</ref>ilo:
+      <ekz>
+        gama-<tld/>o
+        <fnt><aut>E. Dudich</aut>, <vrk>&Ccirc;u vi Konas la Teron?</vrk>, 
+        <lok>SEC, 1983</lok></fnt>;
+      </ekz>
+      <ekz>
+        plasma <tld/>o
+        <fnt>
+          <aut>D. Harlow</aut>,
+          <vrk>Kosmosondilo Cassini...</vrk>,
+          <lok><url
+          ref="http://www.harlows.org/don/astronomio/archives/000474.php">
+          Astronomio</url>, 2007-05-14</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        estas mezurebla senpere la 14C izotopo-proporcio per mas-<tld/>o
+        <fnt>
+          <aut>J. Sark&ouml;zi</aut>,
+          <vrk>Apliko de fiziko en la arkeologio</vrk>,
+          <lok><url
+          ref="http://www.freeweb.hu/eventoj/steb/fiziko/fiziko-en-arkeologio/fiziko-en-arkeologio.htm">
+          Steb, [vidita en 2010]</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="ca">espectr&ograve;metre</trd>
+  <trd lng="fr">spectrom&egrave;tre</trd>
+  <trd lng="pl">spektrometr</trd>
+</drv>
+</art>
+
+<!--
+$Log: spektrometr.xml,v $
+Revision 1.4  2012/08/02 09:10:39  revo
+Marc Rausell: + trd ca
+
+Revision 1.3  2010/04/24 17:06:36  revo
+Jeromo Vasxe: spekto -> spektro
+
+Revision 1.2  2010/04/14 06:05:32  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.1  2010/04/12 16:30:24  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

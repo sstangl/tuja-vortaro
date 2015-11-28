@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: glan.xml,v 1.21 2015/07/04 08:37:35 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>glan</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="glan.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="glan.0o.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      <ref tip="malprt" cel="kverk.0o">Kverko</ref><ref tip="super"
+      cel="nuks.0o.BOT">nukso</ref>:
+      <ekz>
+        la kolombo per la sama gor&gcirc;o, kiu tiel &leftquot;delikate kantas&rightquot;,
+        povas
+        engluti e&ccirc; plej grandan pecon da <tld/>o
+        <fnt>
+        <aut>J. Kozarac, trad. D. Klobu&ccaron;ar</aut>,
+        <vrk><url
+        ref="http://public.carnet.hr/esperanto-kel/slavonia_arbaro.pdf">
+        Slavonia Arbaro</url></vrk>,
+        <lok>Kroata Esperanto-Ligo, 2006</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_zh;&c_o;&c_l;&c_u;&c_d;</trd>
+    <trdgrp lng="ca">
+      <trd>gla</trd>,
+      <trd>bellota</trd>
+    </trdgrp>
+    <trd lng="en">acorn</trd>
+    <trd lng="hu">makk</trd>
+    <trd lng="it">ghianda</trd>
+    <trd lng="pl">&zdot;o&lstroke;&aogonek;d&zacute;</trd>
+    <trdgrp lng="pt">
+      <trd>glande</trd>,
+      <trd>bolota</trd>
+    </trdgrp>
+    <trd lng="ru">&c_zh;&c_jo;&c_l;&c_u;&c_d;&c_mol;</trd>
+  </snc>
+  <snc mrk="glan.0o.ANA">
+    <uzo tip="fak">ANA</uzo>
+    <dif>
+      Fina parto de <ref tip="malprt" cel="penis.0o">peniso</ref>.
+    </dif>
+    <trd lng="be">&c_g;&c_a;&c_l;&c_o;&c_w;&c_k;&c_a; <klr
+    tip="amb">(&c_p;&c_e;&c_n;&c_ib;&c_s;&c_a;)</klr></trd>
+    <trd lng="ca">gland</trd>
+    <trd lng="en">glans</trd>
+    <trd lng="es">glande</trd>
+    <trd lng="hu">h&iacute;mvessz&odblac;makk</trd>
+    <trd lng="it">glande</trd>
+    <trd lng="pl">&zdot;o&lstroke;&aogonek;d&zacute;</trd>
+    <trd lng="ru">&c_g;&c_o;&c_l;&c_o;&c_v;&c_k;&c_a;</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>balanus</trd>,
+    <trd>žalud <klr>(penisu)</klr></trd>
+  </trdgrp>
+  <trd lng="de">Eichel</trd>
+  <trd lng="fr">gland<klr tip="ind"> (t.s.)</klr></trd>
+  <trd lng="nl">eikel</trd>
+  <trd lng="sk">žaluď penisu</trd>
+</drv>
+
+<drv mrk="glan.0ingo">
+  <kap><tld/>ingo</kap>
+  <snc mrk="glan.0ingo.BOT">
+    <dif>
+      Kupuleto, en kiu sidas la <ref tip="malprt"
+      cel="glan.0o.BOT">glano</ref> de kverko.
+    </dif>
+  </snc>
+  <trd lng="ca">c&uacute;pula</trd>
+  <trd lng="en">acorn cup</trd>
+  <trd lng="fr">cupule du gland</trd>
+  <trdgrp lng="hu">
+    <trd>kupacs</trd>,
+    <trd>makkcs&eacute;sze</trd>
+  </trdgrp>
+  <trd lng="it">cupola<klr> della ghianda</klr></trd>
+  <trd lng="nl">eikeldop</trd>
+  <trd lng="ru">&c_ch;&c_a;&c_sh;&c_je;&c_ch;&c_k;&c_a; &c_zh;&c_jo;&c_l;&c_u;&c_d;&c_ja;</trd>
+</drv>
+</art>
+<!--
+$Log: glan.xml,v $
+Revision 1.21  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:29:39  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.19  2012/07/15 11:10:15  revo
+Marc Rausell: + trd ca
+
+Revision 1.18  2010/11/21 17:30:24  revo
+Antonio Codazzi: +trd it
+
+Revision 1.17  2010/07/22 16:30:38  revo
+Agustin Garcia Lopez: +trd es
+
+Revision 1.16  2010/03/03 17:31:04  revo
+Russ Williams: +trd en
+
+Revision 1.15  2007/07/25 20:12:28  revo
+Jeromo Vasxe: + ekz
+
+Revision 1.14 2007/04/29 16:31:19 revo
+Tulio Flores: +tr pt
+
+Revision 1.13 2005/03/06 17:38:08 revo
+Jozefo Horvath: +trd hu
+
+Revision 1.12 2005/01/19 17:31:31 revo
+-->
+</vortaro>

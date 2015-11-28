@@ -1,0 +1,119 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: krokod.xml,v 1.29 2013/10/26 09:10:19 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>krokodil</rad>/o
+</kap>
+<drv mrk="krokod.0o">
+  <kap>
+    <ofc>*</ofc><tld/>o
+  </kap>
+  <snc mrk="krokod.0o.ZOO">
+    <dif>
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:zoologiaj_genroj">Genro</ref>
+      el familio <ref tip="malprt"
+      cel="krokod1.0oj"><tld/>edoj</ref>
+      (<trd lng="la">Crocodilus</trd>), granda kvarpieda dan&gcirc;era
+      <ref tip="lst" cel="reptil.0o"
+      lst="voko:krokodiluloj">reptilio</ref>,
+       vivanta en grandaj riveroj de tropikaj landoj:
+      <ekz>
+        <tld/>a ledo.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_k;&c_r;&c_a;&c_k;&c_a;&c_d;&c_z;&c_ib;&c_l;</trd>
+  <trd lng="bg">&c_k;&c_r;&c_o;&c_k;&c_o;&c_d;&c_i;&c_l;</trd>
+  <trd lng="de">Krokodil</trd>
+  <trd lng="en">crocodile</trd>
+  <trd lng="es">cocodrilo</trd>
+  <trd lng="hu">krokodil</trd>
+  <trd lng="id">buaya</trd>
+  <trd lng="it">coccodrillo</trd>
+  <trd lng="nl">krokodil</trd>
+  <trd lng="pt">crocodilo</trd>
+  <trd lng="tr">timsah</trd>
+  <trd lng="ru">&c_k;&c_r;&c_o;&c_k;&c_o;&c_d;&c_i;&c_l;</trd>
+  <trd lng="sv">krokodil</trd>
+</drv>
+
+<drv mrk="krokod.0uloj">
+  <kap>
+    <tld/>uloj
+  </kap>
+  <uzo tip="fak">ZOO</uzo>
+  <snc mrk="krokod.0uloj.ZOO">
+    <dif>
+      <ref tip="lst" cel="ord.0o.BIO"
+      lst="voko:zoologiaj_ordoj">Ordo</ref> 
+      de <ref tip="malprt" cel="reptil.0oj">reptilioj</ref>
+      (<trd lng="la">Crocodilia</trd>).
+    </dif>
+  </snc>
+  <trd lng="bg">&c_k;&c_r;&c_o;&c_k;&c_o;&c_d;&c_i;&c_l;&c_o;&c_v;&c_i;</trd>
+  <trd lng="de">Krokodile</trd>
+  <trd lng="it">coccodrilli<klr> (Crocodilia)</klr></trd>
+  <trd lng="nl">krokodilachtigen</trd>
+  <trd lng="ru">&c_k;&c_r;&c_o;&c_k;&c_o;&c_d;&c_i;&c_l;&c_y; <klr>(&c_o;&c_t;&c_r;&c_ja;&c_d;)</klr></trd>
+</drv>
+
+<drv mrk="krokod.0i">
+  <kap>
+    <tld/>i
+  </kap>
+  <gra><vspec>ntr</vspec></gra>
+  <uzo tip="fak">ESP</uzo>
+  <uzo tip="stl">FRAZ</uzo>
+  <snc>
+    <dif>
+      Paroli kun esperantistoj ne en Esperanto.
+    </dif>
+  </snc>
+  <trdgrp lng="de">
+     <trd>krokodilisch sprechen</trd>,
+     <trd>unter Esperantisten nicht Esperanto, sondern die Muttersprache
+     benutzen</trd>
+  </trdgrp>
+  <trd lng="en">speak a language besides Esperanto with
+  Esperantists</trd>
+  <trd lng="hu">krokodilkodik</trd>
+  <trd lng="it">coccodrillare<klr> (non parlare in
+  Esperanto)</klr></trd>
+  <trd lng="nl">krokodillen<klr tip="amb"> (zijn moedertaal spreken
+  i.p.v. Esperanto)</klr></trd>
+  <trd lng="ru">&c_k;&c_r;&c_o;&c_k;&c_o;&c_d;&c_i;&c_l;&c_i;&c_t;&c_mol;</trd>
+  <trd lng="sv">att tala med esperantister p&aring; modersm&aring;let ist&auml;llet
+  f&ouml;r p&aring; Esperanto</trd>
+</drv>
+
+</art>
+<!--
+$Log: krokod.xml,v $
+Revision 1.29  2013/10/26 09:10:19  revo
+Wolfram Diestel: ref al lst krokodiluloj
+
+Revision 1.28  2013/10/07 15:11:08  revo
+Wolfram Diestel: kor. ref, ref al lst reptilioj
+
+Revision 1.27  2013/09/16 13:10:13  revo
+Joop Eggen: +trd bg
+
+Revision 1.26  2013/09/01 09:10:21  revo
+Wolfram Diestel: ~oj: rf al genroj, ~uloj: referenco al listo zoo ordoj,
+rampuloj->reptilioj
+
+Revision 1.25  2013/04/28 14:10:13  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.24  2012/12/10 08:10:10  revo
+Wieland Pusch: snc mrk-oj
+
+Revision 1.23  2012/01/24 18:10:08  revo
+Lucas Larson: +trd en ~i
+
+-->
+</vortaro>

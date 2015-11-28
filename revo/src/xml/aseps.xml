@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: aseps.xml,v 1.15 2015/07/04 08:37:30 revo Exp $">
+<kap>
+  <rad>aseps</rad>/o
+  <fnt>Z</fnt>
+</kap>
+
+<drv mrk="aseps.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">MED</uzo>
+  <snc>
+    <dif>
+      Procedo per kiu oni evitas en kirurgio la alporton de
+      infektantaj &gcirc;ermoj.
+    </dif>
+  </snc>
+  <trd lng="be">&c_a;&c_s;&c_e;&c_p;&c_t;&c_y;&c_k;&c_a;</trd>
+  <trd lng="cs">asepse</trd>
+  <trd lng="de">Asepsis</trd>
+  <trd lng="en">asepsis</trd>
+  <trd lng="es">asepsia</trd>
+  <trd lng="fr">asepsie</trd>
+  <trdgrp lng="hu">
+    <trd>aszepszis</trd>,
+    <trd>cs&iacute;ramentes kezel&eacute;s</trd>
+  </trdgrp>
+  <trd lng="it">asepsi</trd>
+  <trd lng="ru">&c_a;&c_s;&c_je;&c_p;&c_t;&c_i;&c_k;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>asepsa</trd>,
+    <trd>proti infekčná prevencia</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="aseps.0a">
+  <kap><tld/>a</kap>
+  <snc>
+    <dif>
+      Bazita sur <tld/>o:
+      <ekz>
+        <tld/>a metodo.
+      </ekz>
+    </dif>
+  </snc>
+  <snc>
+    <dif>
+      Libera de mikroboj:
+      <ekz>
+        <tld/>a instrumento, vundo.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_a;&c_s;&c_e;&c_p;&c_t;&c_y;&c_ch;&c_n;&c_y;</trd>
+  <trd lng="cs">aseptický</trd>
+  <trd lng="de">aseptisch</trd>
+  <trd lng="fr">aseptique</trd>
+  <trdgrp lng="hu">
+    <trd>aszeptikus</trd>,
+    <trd>cs&iacute;ramentes</trd>
+  </trdgrp>
+  <trd lng="it">asettico</trd>
+  <trd lng="ru">&c_a;&c_s;&c_je;&c_p;&c_t;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j;</trd>
+  <trd lng="sk">aseptick&yacute;</trd>
+</drv>
+
+<drv mrk="aseps.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      Uzi <tld/>on.
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>použít asepsi</trd>,
+    <trd>zbavit nákazy</trd>
+  </trdgrp>
+  <trd lng="en">asepsis</trd>
+  <trd lng="fr">aseptiser</trd>
+  <trdgrp lng="hu">
+    <trd>fert&odblac;tlen&iacute;t</trd>,
+    <trd>cs&iacute;r&aacute;tlan&iacute;t</trd>
+  </trdgrp>
+  <trd lng="sk">zbaviť nákazy</trd>
+</drv>
+</art>
+<!--
+$Log: aseps.xml,v $
+Revision 1.15  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/28 12:03:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.13  2012/02/01 14:10:11  revo
+Antonio Codazzi: +trd it
+
+Revision 1.12  2007/05/24 16:30:35  revo
+Wieland Pusch: +trd de
+
+Revision 1.11  2004/08/02 18:56:42  revo
+Viliam Bur: +trd sk
+
+Revision 1.10  2004/03/22 17:31:09  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.9  2002/11/01 09:15:21  revo
+Christopher Zervic: + ang
+
+Revision 1.8  2002/09/24 16:33:21  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.7  2002/05/15 16:40:48  revo
+Alejandro Mejia Greene: ald 1 his trd
+
+Revision 1.6  2002/03/21 18:34:42  revo
+-->
+</vortaro>

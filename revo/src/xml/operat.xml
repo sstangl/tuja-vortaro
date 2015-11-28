@@ -1,0 +1,129 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: operat.xml,v 1.15 2015/07/04 08:37:40 revo Exp $">
+<kap>
+  <rad>operator</rad>/o
+</kap>
+<drv mrk="operat.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>PIV1</bib></fnt>
+  <snc>
+    <uzo tip="klr">(fakula &jcirc;argono)</uzo>
+    <dif>
+      <ref tip="super" cel="bild.0igo.MAT">Bildigo</ref>, precipe (sed
+      ne nur)
+      kiam &gcirc;ia fonto-aro konsistas el bildigoj:
+      <ekz>
+        diferenciala <tld/>o <klr>(bildigo, kiu &jcirc;etas funkcion al
+        &gcirc;ia <ref cel="difere2.0o.bildigo">diferencialo</ref>)</klr>;
+      </ekz>
+      <ekz>
+        komuna&jcirc;a <tld/>o <klr>(bildigo, kiu &jcirc;etas paron de
+        subaroj al ilia <ref
+        cel="komun.0ajxo.aro">komuna&jcirc;o</ref>)</klr>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_a;&c_p;&c_e;&c_r;&c_a;&c_t;&c_a;&c_r;</trd>
+  <trd lng="ca">operador</trd>
+  <trd lng="cs">operátor</trd>
+  <trd lng="de">Operator</trd>
+  <trd lng="en">operator</trd>
+  <trd lng="fr">op&eacute;rateur<klr tip="ind"> (math.)</klr></trd>
+  <trd lng="hu">oper&aacute;tor</trd>
+  <trd lng="it">operatore<klr> (mat.)</klr></trd>
+  <trd lng="nl">operator</trd>
+  <trd lng="pl">operator</trd>
+  <trd lng="pt">operador</trd>
+  <trd lng="ru">&c_o;&c_p;&c_je;&c_r;&c_a;&c_t;&c_o;&c_r;</trd>
+  <trd lng="sk">operátor</trd>
+</drv>
+
+<drv mrk="operat.laplaca0o">
+  <kap>laplaca <tld/>o, <var><kap>laplac<tld/>o</kap></var></kap>
+  <uzo tip="fak">MAT</uzo>
+  <snc>
+    <dif>
+      <ref tip="super" cel="operat.0o"><tld lit="O"/>o</ref>, kiu
+      &jcirc;etas <ref tip="vid" cel="skalar.0a">skalaran</ref>
+      <ref cel="kamp.0o.MAT">kampon</ref> <frm>U</frm> al la sumo de
+      ties
+      duaj <ref cel="deriv.parta0ajxo">partaj deriva&jcirc;oj</ref> la&ubreve;
+      la sinsekvaj <ref tip="vid" cel="koordi.0o.MAT">koordinatoj</ref>;
+      
+      alternative: la rezultanta kampo:
+      <ekz>
+        la laplac<tld/>an bildon de kampo <frm>U</frm> oni kutime signas
+        per
+        <frm>&#8711;<sup>2</sup>U</frm> a&ubreve;
+        <frm>&#8710;U =
+        &#8721; &#8706;<sup>2</sup><sub><k>i</k></sub>U</frm>;
+      </ekz>
+      <ekz>
+        &gcirc;i egalas al la <ref cel="diverg1.0o">diver&gcirc;enco</ref>
+        de la <ref cel="gradient.0o">gradiento</ref> de <frm>U</frm>.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="laplac.0o">Laplaco..</ref>
+  </snc>
+  <adm>
+    Fonto restas trovenda. Indus trovi ankaux pli oportunan manieron
+    paroli pri la rezulto de la operatoro. Mi tute ne certas, ke la
+    "alternativa" parto de la difino estas akceptebla. <aut>MB</aut>
+  </adm>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_p;&c_e;&c_r;&c_a;&c_t;&c_a;&c_r; &c_L;&c_a;&c_p;&c_l;&c_a;&c_s;&c_a;</trd>,
+    <trd>&c_l;&c_a;&c_p;&c_l;&c_a;&c_s;&c_ib;&c_ja;&c_n;</trd>
+  </trdgrp>
+  <trd lng="ca">laplaci&agrave;</trd>
+  <trd lng="de">Laplace-Operator</trd>
+  <trd lng="en">Laplacian</trd>
+  <trd lng="fr">laplacien<klr tip="ind"> (op&eacute;rateur)</klr></trd>
+  <trd lng="hu">Laplace-oper&aacute;tor</trd>
+  <trdgrp lng="it">
+    <trd>laplaciano</trd>,
+    <trd><ind>operatore</ind> di Laplace</trd>
+  </trdgrp>  
+  <trd lng="nl">laplace-operator</trd>
+  <trdgrp lng="pl">
+    <trd>laplasjan</trd>,
+    <trd>operator Laplace'a</trd></trdgrp> 
+  <trd lng="pt">laplaciano</trd>
+  <trd lng="ru">&c_l;&c_a;&c_p;&c_l;&c_a;&c_s;&c_i;&c_a;&c_n;</trd>
+</drv>
+</art>
+<!--
+$Log: operat.xml,v $
+Revision 1.15  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:33:21  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.13  2012/10/23 00:13:18  revo
+Neil Roberts: aldonu la etikedon <var>
+
+Revision 1.12  2012/09/03 17:10:14  revo
+Marc Rausell: + trd ca
+
+Revision 1.11  2009/11/23 17:30:24  revo
+Antonio Codazzi: +trd it
+
+Revision 1.10  2004/07/12 16:47:12  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.9  2004/05/06 16:32:16  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.8  2003/06/20 16:30:50  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.7  2003/04/21 16:34:49  revo
+Marc Bavant: laplaca ~o: kor trd en
+
+Revision 1.6  2002/11/30 17:36:50  revo
+-->
+</vortaro>

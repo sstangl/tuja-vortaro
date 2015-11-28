@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: nefrologi.xml,v 1.2 2015/01/03 11:10:23 revo Exp $">
+<kap>
+    <rad>nefrologi</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="nefrologi.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="nefrologi.0o.MED">
+    <uzo tip="fak">MED</uzo>
+    <dif>
+      Medicina fako, kiu studas la <ref tip="vid"
+      cel="fiziol1.0o">fiziologion</ref> kaj la <ref tip="vid"
+      cel="patolo.0o">patologion</ref> de la renoj.
+    </dif>
+    <ref tip="vid" cel="nefrolog.0o">nefrologo</ref>
+  </snc>
+  <trd lng="en">nephrology</trd>
+  <trd lng="fr">n&eacute;phrologie</trd>
+</drv>
+</art>
+
+<!--
+$Log: nefrologi.xml,v $
+Revision 1.2  2015/01/03 11:10:23  revo
+Alain Gerard: +ref
+
+Revision 1.1  2015/01/02 23:10:13  revo
+Alain Gerard: nova artikolo
+
+-->
+</vortaro>

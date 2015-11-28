@@ -1,0 +1,136 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: futur.xml,v 1.20 2015/07/04 08:37:34 revo Exp $">
+<kap>
+  <rad>futur</rad>/o
+</kap>
+<drv mrk="futur.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="futur.0o.GRA">
+    <uzo tip="fak">GRA</uzo>
+    <dif>
+      Verba tempo esprimanta estontan agon a&ubreve; staton.
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="perfek.0o">perfekto</ref>,
+      <ref cel="preter1.0o">preterito</ref>,
+      <ref cel="prezen">prezenco</ref>
+    </refgrp>
+    <trd lng="be">&c_b;&c_u;&c_d;&c_u;&c_ch;&c_y; &c_ch;&c_a;&c_s;</trd>
+    <trdgrp lng="de">
+      <trd>Futur</trd>,
+      <trd>Zukunftsform</trd>
+    </trdgrp>
+    <trd lng="en">future tense</trd>
+    <trd lng="es">futuro</trd>
+    <trdgrp lng="fa">
+      <trd>&a_z;&a_m;&a_A;&a_n; &a_A_madda;&f_y;&a_n;&a_d;&a_h;</trd>,
+      <trd>&a_m;&a_s;&a_t;&a_q;&a_b;&a_l;</trd>
+    </trdgrp>
+    <trd lng="fr">futur<klr tip="amb"> (grammaire)</klr></trd>
+    <trd lng="hu">j&ouml;v&odblac; id&odblac;</trd>
+    <trd lng="pl">czas przysz&lstroke;y</trd>
+    <trd lng="pt">futuro</trd>
+    <trd lng="ru">&c_b;&c_u;&c_d;&c_u;&c_shch;&c_je;&c_je; 
+&c_v;&c_r;&c_je;&c_m;&c_ja;</trd>
+  </snc>
+  <snc mrk="futur.0o.estonteco">
+    <uzo tip="stl">RAR</uzo>
+    <ref tip="dif" cel="est.0onteco">estonteco</ref>
+    <ekz>
+      mi sciis, ke mi nun forludis jam mian <tld/>on
+      <fnt><bib>Mortul&Scirc;ip</bib>, <lok>unua libro, &ccirc;apitro 
+21a</lok></fnt>.
+    </ekz>
+    <trd lng="fa">&a_A_madda;&f_y;&a_n;&a_d;&a_h;</trd>
+    <trd lng="hu">a <ind>j&ouml;v&odblac;</ind></trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>budoucí čas</trd>,
+    <trd>futurum</trd>
+  </trdgrp>
+  <trd lng="en">future</trd>
+  <trd lng="pl">przysz&lstroke;o&sacute;&cacute;</trd>
+  <trd lng="pt">futuro</trd>
+  <trd lng="ro">viitor</trd>
+  <trd lng="sk">budúci čas</trd>
+</drv>
+
+<drv mrk="futur.0ismo">
+  <kap><tld/>ismo</kap>
+  <snc mrk="futur.0ismo.BELA">
+    <uzo tip="fak">BELA</uzo>
+    <dif>
+      Arta stilo el la unua dunono de la 20a jarcento
+      precipe itala kaj soveta, favoranta modernajn temojn:
+      ma&scirc;inismon, rapidecon, lumajn efektojn, liberan vortkreadon.
+    </dif>
+  </snc>
+  <trd lng="be">&c_f;&c_u;&c_t;&c_u;&c_r;&c_y;&c_z;&c_m;</trd>
+  <trd lng="cs">futurizmus</trd>
+  <trd lng="en">futurism</trd>
+  <trdgrp lng="fa">
+    <trd>&a_A_madda;&f_y;&a_n;&a_d;&a_h;&zwnj;&f_g;&a_r;&a_A;&f_y;&f_y;</trd>,
+    <trd>&a_A_madda;&f_y;&a_n;&a_d;&a_h;&zwnj;&f_g;&a_r;&f_y;</trd>
+  </trdgrp>
+  <trd lng="fr">futurisme</trd>
+  <trd lng="hu">futurizmus</trd>
+  <trd lng="pl">futuryzm</trd>
+  <trd lng="ru">&c_f;&c_u;&c_t;&c_u;&c_r;&c_i;&c_z;&c_m;</trd>
+  <trd lng="sk">futurizmus</trd>
+</drv>
+
+<drv mrk="futur.0isto">
+  <kap><tld/>isto</kap>
+  <snc mrk="futur.0isto.BELA">
+    <dif>
+      Ano de <tld/>ismo:
+      <ekz>
+        jam en 1914 N. Borisov tradukis kelkajn tiamajn rusajn
+        <tld/>istajn poemojn
+        <fnt><bib>Plumamikoj</bib>, <lok>esperanta poezio: mirakla
+        rikolto</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="en">futurist</trd>
+  <trd lng="fa">&a_A_madda;&f_y;&a_n;&a_d;&a_h;&zwnj;&f_g;&a_r;&a_A;</trd>
+  <trd lng="fr">futuriste<klr tip="amb"> (subst.)</klr></trd>
+  <trd lng="hu">futurista</trd>
+  <trd lng="pl">futurysta</trd>
+</drv>
+</art>
+<!--
+$Log: futur.xml,v $
+Revision 1.20  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:29:39  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2009/07/13 16:30:34  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.17  2009/02/19 20:26:52  revo
+Russ Williams: +trd en
+
+Revision 1.16  2007/06/22 17:24:44  revo
+Tulio Flores: +tr pt
+
+Revision 1.15  2006/07/13 18:09:38  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.14  2006/02/27 17:35:40  revo
+Vito Redsky: +trd pl +trd ro
+
+Revision 1.13  2006/01/24 17:31:31  revo
+Jeromo Vasxe: + ~isto, ~o + snc 2
+
+Revision 1.12 2002/11/16 17:31:50 revo
+Zmicier Lapcionak: + trd be
+
+Revision 1.11 2002/06/12 17:30:39 revo
+-->
+</vortaro>

@@ -1,0 +1,129 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: bit.xml,v 1.25 2013/08/02 14:10:10 revo Exp $">
+<kap>
+  <ofc>9</ofc>
+  <rad>bit</rad>/o
+</kap>
+<drv mrk="bit.0o">
+  <kap><ofc>9</ofc><tld/>o</kap>
+  <snc mrk="bit.0o.KOMP">
+    <uzo tip="fak">KOMP</uzo>
+    <fnt>(<lok><url ref="&KompLeks;/B.html#BITO-1">KompLeks</url></lok>)
+    </fnt>
+    <dif>
+      Pozicio de duuma cifero en duuma kodo. Por memoro, la nombro de
+      <tld/>oj indikas maksimuman kvanton de duumaj ciferoj, kiun &gcirc;i
+      povas enteni; por datumo, la nombro de <tld/>oj indikas la kiomon
+      de duumaj ciferpozicioj, en kiuj &gcirc;i estas registrita:
+      <ekz>
+        kontrola <ind>parec<tld/>o</ind>
+        <fnt><bib>9OA</bib></fnt>;
+        <trd lng="ca"><ind>bit</ind> de paritat</trd>
+        <trdgrp lng="fa">
+          <trd>&a_b;&f_y;&a_t; &a_t;&a_w;&a_A;&a_z;&a_n;</trd>,
+          <trd>&a_b;&f_y;&a_t; &f_p;&a_r;&f_y;&a_t;&f_y;</trd>
+        </trdgrp>
+        <trd lng="fr"><ind>bit</ind> de parit&eacute;</trd>
+      </ekz>
+      <ekz>
+        la tria <tld/>o de la nombroprezento
+        <fnt><bib>9OA</bib></fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;i tia memor&ccirc;elo povas enteni 32 <tld/>ojn
+        <fnt><bib>9OA</bib></fnt>;
+      </ekz>
+      <ekz>
+        por prezenti tian nombron oni bezonas almena&ubreve; 10 <tld/>ojn
+        <fnt><bib>9OA</bib></fnt>.
+      </ekz>
+    </dif>
+    <rim>
+      <ref tip="hom" cel="bit1.0o">Bito</ref> estas anka&ubreve;
+      fosto al kiu oni ligas &scirc;ip&scirc;nuron.
+    </rim>
+    <trd lng="be">&c_b;&c_ib;&c_t;</trd>
+    <trd lng="bg">&c_b;&c_i;&c_t;</trd>
+    <trd lng="ca">bit</trd>
+    <trd lng="de">Bit</trd>
+    <trd lng="en">bit</trd>
+    <trd lng="es">bit</trd>
+    <trd lng="fa">&a_b;&f_y;&a_t;</trd>
+    <trd lng="fr">bit</trd>
+    <trd lng="hu">bit</trd>
+    <trd lng="nl">bit</trd>
+    <trd lng="pl">bit</trd>
+    <trd lng="ru">&c_b;&c_i;&c_t;</trd>
+    <trd lng="sk">bit</trd>
+    <trd lng="sv">bit</trd>
+  </snc>
+</drv>
+
+<drv mrk="bit.0oko">
+  <kap><ofc>9</ofc><tld/>oko</kap>
+  <snc mrk="bit.0oko.KOMP">
+    <uzo tip="fak">KOMP</uzo>
+    <dif>
+      Opo el 8 <tld/>oj, 
+      ok<tld/>a <ref tip="super" cel="bajt.0o">bajto</ref>.
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_b;&c_a;&c_j;&c_t;</trd>,
+      <trd>&c_a;&c_k;&c_t;&c_e;&c_t;</trd>
+    </trdgrp>
+    <trd lng="bg">&c_b;&c_a;&c_j;&c_t;</trd>
+    <trdgrp lng="ca">
+      <trd>octet</trd>,
+      <trd>byte</trd>
+    </trdgrp>
+    <trd lng="de">Byte</trd>
+    <trd lng="en">byte</trd>
+    <trd lng="es">octeto</trd>
+    <trdgrp lng="fa">
+      <trd>&a_h;&a_sh;&a_t;&zwnj;&a_b;&f_y;&a_t;&f_y;</trd>,
+      <trd>&a_b;&a_A;&f_y;&a_t;</trd>
+    </trdgrp>
+    <trd lng="fr">octet</trd>
+    <trdgrp lng="hu">
+      <trd>b&aacute;jt</trd>,
+      <trd>byte</trd>
+    </trdgrp>
+    <trd lng="nl">byte</trd>
+    <trd lng="pl">bajt</trd>
+    <trd lng="ru">&c_b;&c_a;&c_j;&c_t;</trd>
+    <trdgrp lng="sk">
+      <trd>bajt</trd>,
+      <trd>byte</trd>
+    </trdgrp>
+  </snc>
+</drv>
+</art>
+<!--
+$Log: bit.xml,v $
+Revision 1.25  2013/08/02 14:10:10  revo
+Joop Eggen: +trd bg
+
+Revision 1.24  2012/08/24 19:10:36  revo
+Marc Rausell: ++ trd ca
+
+Revision 1.23  2010/08/05 16:30:20  revo
+Jeromo Vasxe: - mara snc -> propra art cxar oficialeco ne samas, + rim
+hom
+
+Revision 1.22  2009/06/29 18:06:29  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.21  2009/03/01 17:31:36  revo
+Russ Williams: +trd en
+
+Revision 1.20  2008/11/23 19:12:57  revo
+Marc Bavant: konformigis al 9OA, +tld
+
+Revision 1.19 2008/01/24 19:48:56 revo
+Sebastian Cyprych: +trd pl
+Revision 1.18 2007/03/08 17:30:31 revo
+-->
+</vortaro>

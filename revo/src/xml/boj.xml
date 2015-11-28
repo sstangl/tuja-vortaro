@@ -1,0 +1,150 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: boj.xml,v 1.28 2015/10/06 02:10:31 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>boj</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+
+
+<drv mrk="boj.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="boj.0i.ZOO">
+    <dif>
+      Hunde <ref tip="super" cel="blek.0i.beste">bleki</ref>.
+    </dif>
+    <trd lng="de">bellen</trd>
+    <trd lng="pl">szczeka&cacute;</trd>
+    <trdgrp lng="tr">
+      <trd>havlamak</trd>,
+      <trd>&uuml;r&uuml;mek</trd>
+    </trdgrp>
+    <trd lng="pt">latir</trd>
+  </snc>
+  <snc mrk="boj.0i.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Atake, ofende parola&ccirc;i:
+      <ekz>
+        <ind>hundo <tld/>as, homo vojas</ind>
+        <klr>(oni ne devas zorgi senka&ubreve;zajn insultojn)</klr>
+        <trd lng="de">Die <ind>Hunde bellen</ind>, aber die Karawane
+        zieht weiter.</trd>
+        <trd lng="fr">les <ind>chiens</ind> aboient, la caravane
+        passe</trd>
+        <fnt><bib>PrV</bib></fnt>;
+      </ekz>
+      <ekz>
+        li neniam estas kontenta kaj <tld/>as
+        kontra&ubreve; &ccirc;iu kaj &ccirc;io.
+      </ekz>
+    </dif>
+    <trdgrp lng="pl">
+      <trd>szczeka&cacute;</trd>,
+      <trd>ujada&cacute;</trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_g;&c_a;&c_w;&c_k;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_b;&c_r;&c_a;&c_h;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="br">harzhal</trd>
+  <trdgrp lng="cs">
+    <trd>hafat</trd>,
+    <trd>&scaron;t&ecaron;kat <klr>(na n&ecaron;koho)</klr></trd>
+  </trdgrp>
+  <trd lng="en">bark</trd>
+  <trd lng="es">ladrar</trd>
+  <trd lng="fr">aboyer</trd>
+  <trd lng="nl">blaffen</trd>
+  <trdgrp lng="ru">
+    <trd>&c_l;&c_a;&c_ja;&c_t;&c_mol;</trd>,
+    <trd>&c_g;&c_a;&c_v;&c_k;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>&scaron;teka&tcaron;</trd>,
+    <trd>brecha&tcaron;</trd>
+  </trdgrp>
+  <trd lng="sv">sk&auml;lla</trd>
+</drv>
+
+<drv mrk="boj.0">
+  <kap><tld/></kap>
+  <gra><vspec>sonimito</vspec></gra>
+  <snc mrk="boj.0.SON">
+    <dif>
+      Ordinara <ref tip="lst" cel="blek.0o"
+      lst="voko:blekoj">bleko</ref>
+      de <ref tip="vid" cel="hund.0o.dombesto">hundo</ref>;
+      <ref tip="sin" cel="vaux.0.SON">va&ubreve;</ref>:
+      <ekz>
+        mi havas malgrandan vilan nigran hundon nomitan Toto
+        <klr>...</klr> lia sola parolo &ccirc;iam estas nur 
+        <ctl><tld/>! <tld/>!</ctl>
+        <fnt>
+          <aut>L. Frank Baum, trad. D. Broadribb</aut>,
+          <vrk><url
+          ref="http://ttt.esperanto.org/esperante/literatur/Baum/tiktoko/cxapitro25.html">
+          Tiktoko de Oz</url></vrk>,
+          <lok>[1996]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">ouah !<klr> (chien)</klr></trd>
+</drv>
+
+
+<drv mrk="boj.tir0i">
+  <kap>tir<tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="boj.tir0i.SON">
+    <dif>
+      A&ubreve;digi longan, senpa&ubreve;zan <tld/>on;
+      <ref tip="sin" cel="hojl.0i">hojli</ref>,
+      <ref tip="sin" cel="ulul.0i.ZOO_lupo">ululi<sncref/></ref>.
+    </dif>
+  </snc>
+  <trd lng="be">&c_v;&c_y;&c_c;&c_mol;</trd>
+  <trd lng="br">yudal</trd>
+  <trd lng="cs">v&yacute;t</trd>
+  <trd lng="de">heulen</trd>
+  <trdgrp lng="en">
+    <trd>bay</trd>,
+    <trd>howl</trd>
+  </trdgrp>
+  <trd lng="fr">hurler</trd>
+  <trd lng="pl">ujada&cacute;</trd>
+  <trd lng="sk">vy&tcaron;</trd>
+  <trd lng="sv">yla</trd>
+</drv>
+</art>
+<!--
+$Log: boj.xml,v $
+Revision 1.28  2015/10/06 02:10:31  revo
+Evandro Avellar: +trd pt
+
+Revision 1.27  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.26  2015/06/29 16:29:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.25  2015/02/15 12:10:14  revo
+Wolfram Diestel: ordo de drv
+
+Revision 1.24  2013/10/10 20:10:17  revo
+Jeromo Vasxe: + ~
+
+Revision 1.23  2009/03/18 17:31:15  revo
+Wieland Pusch: +trd de
+
+Revision 1.22  2009/03/04 17:31:06  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.21  2005/02/24 17:33:18  revo
+-->
+</vortaro>

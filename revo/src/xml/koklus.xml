@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: koklus.xml,v 1.15 2014/11/18 20:10:37 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>koklu&scirc;</rad>/o
+</kap>
+<drv mrk="koklus.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <uzo tip="fak">MED</uzo>
+  <snc>
+    <dif>
+      Infekta <ref tip="lst" cel="san.mal0o.MED"
+      lst="voko:malsanoj">malsano</ref>, karakterizata de konvulsia
+      tuso.  
+    </dif>
+  </snc>
+  <trd lng="be">&c_k;&c_o;&c_k;&c_l;&c_ju;&c_sh;</trd>      
+  <trdgrp lng="br">
+    <trd>drev<klr tip="ind"> (kle&ntilde;ved)</klr></trd>,
+    <trd>paz-yud</trd>
+  </trdgrp>
+  <trd lng="de">Keuchhusten</trd>
+  <trdgrp lng="en">
+    <trd>whooping cough</trd>,
+    <trd>pertussis</trd>
+  </trdgrp>
+  <trd lng="fa">&a_s;&f_y;&a_A;&a_h;&zwnj;&a_s;&a_r;&a_f;&a_h;</trd>
+  <trd lng="fr">coqueluche<klr tip="ind"> (maladie)</klr></trd>
+  <trdgrp lng="id">
+    <trd><ind>batuk</ind> rejan</trd>,
+    <trd>pertusis</trd>
+  </trdgrp>
+  <trd lng="nl">kinkhoest</trd>
+  <trdgrp lng="pl">
+  <trd>krztusiec</trd>,
+  <trd>koklusz <klr>(pot.)</klr></trd>
+  </trdgrp>
+  <trd lng="ru">&c_k;&c_o;&c_k;&c_l;&c_ju;&c_sh;</trd>
+</drv>
+</art>
+<!--
+$Log: koklus.xml,v $
+Revision 1.15  2014/11/18 20:10:37  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.14  2013/10/09 19:11:17  revo
+Wolfram Diestel: ref al lst malsanoj
+
+Revision 1.13  2013/04/15 11:10:23  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.12  2009/08/23 16:31:34  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.11  2005/04/24 16:32:28  revo
+Alan ar Gall: +trd br
+
+Revision 1.10  2004/12/26 17:33:36  revo
+Marc Bavant: +trd fr
+
+Revision 1.9  2002/11/17 18:26:56  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.8  2002/01/03 17:33:35  revo
+-->
+</vortaro>

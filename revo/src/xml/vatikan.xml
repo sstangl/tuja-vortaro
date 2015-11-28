@@ -1,0 +1,141 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: vatikan.xml,v 1.20 2015/07/04 08:37:45 revo Exp $">
+<kap><rad>Vatikan</rad>/o</kap>
+<drv mrk="vatikan.V0o">
+  <kap><tld/>o</kap>
+  <snc mrk="vatikan.V0o.GEOG">
+    <uzo tip="fak">GEOG</uzo>
+    <dif>
+      Monteto kiu antikve estis apud
+      <ref tip="malprt" cel="rom.0o">Romo</ref>, kaj nun estas en tiu
+      urbego:
+      <ekz>
+        sur <tld/>o situas la oficiala rezidejo de la papo de Romo.
+      </ekz>
+    </dif>
+    <trd lng="hu">Vaticanus</trd>
+    <trd lng="it">vaticano<klr> (colle)</klr></trd>
+  </snc>
+  <snc mrk="vatikan.V0o.KAT">
+    <uzo tip="fak">KAT</uzo>
+    <dif>
+      La estraro de la <ref cel="katoli.rom0a">Romkatolika</ref>
+      eklezio:
+      <ekz>
+        efektive, jen Chiasso/Kiaso kiel mikrosocia posteulo de
+        Kremlo, la Blanka Domo kaj <tld/>o
+        <fnt>
+        <aut>Jorge Camacho</aut>:
+        <vrk>La liturgio de l' foiro (Elementoj por ekzegezo)</vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        pro siaj religiemo, modesta vivo kaj homaranismaj sentoj
+        Antoni Gaud&iacute; nuntempe estas en la proceso de beatigo
+        &ccirc;e
+        <tld/>o
+        <fnt><aut>Augusto CASQUERO</aut>:
+        <vrk>2002 - Internacia Jaro de Antoni Gaud&iacute;</vrk>,
+        <bib>Monato</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="hu">Vatik&aacute;n</trd>
+    <trd lng="it">Vaticano<klr> (pol. - rel.)</klr></trd>
+  </snc>
+  <snc mrk="vatikan.V0o.POL">
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      La <ref tip="lst" cel="regn.0o.POL" lst="voko:&scirc;tatoj">regno</ref>
+      kies
+      absoluta monarko estas la
+      <ref cel="pap.0o.KAT">papo</ref> de Romo:
+      <ekz>
+        kiam la e&ubreve;skaj episkopoj publikigis eklezian dokumenton,
+        en kiu ili konsideris, ke la eventuala malpermeso de Unueco
+        havos <ctl>sombrajn</ctl> konsekvencojn, prezidanto Aznar
+        tuj &gcirc;in opiniis <ctl>morale perversa</ctl> kaj la ministro
+        pri eksterlandaj aferoj oficiale plendis &ccirc;e <tld/>o
+        <fnt><aut>Hektor Alos i FONT</aut>:
+        <vrk>Morale perversa</vrk>, <bib>Monato</bib>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="hu">Vatik&aacute;n</trd>
+    <trd lng="it">Citt&agrave; del <ind>Vaticano</ind></trd>
+  </snc>
+  <trd lng="be">&c_V;&c_a;&c_t;&c_y;&c_k;&c_a;&c_n;</trd>
+  <trdgrp lng="ca">
+    <trd>Vatic&agrave;</trd>,
+    <trd>Ciutat del Vatic&agrave;</trd>
+  </trdgrp>
+  <trd lng="cs">Vatikán</trd>
+  <trdgrp lng="de">
+    <trd>Vatikan</trd>
+  </trdgrp>
+  <trd lng="en">Vatican</trd>
+  <trd lng="fr">Vatican</trd>
+  <trd lng="id">Vatikan</trd>
+  <trd lng="la">Vaticanus</trd>
+  <trd lng="nl">Vaticaan</trd>
+  <trd lng="pl">Watykan</trd>
+  <trd lng="pt">Vaticano</trd>
+  <trd lng="ru">&c_V;&c_a;&c_t;&c_i;&c_k;&c_a;&c_n;</trd>
+  <trd lng="sk">Vatikán</trd>
+</drv>
+
+<drv mrk="vatikan.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="vatikan.0a.GEOG">
+    <uzo tip="fak">GEOG</uzo>
+    <dif>
+      rilate al la Vatikano
+    </dif>
+  </snc>
+  <trd lng="be">&c_v;&c_a;&c_t;&c_y;&c_k;&c_a;&c_n;&c_s;&c_k;&c_ib;</trd>
+  <trd lng="ca">vatic&agrave;<klr> (adj.)</klr></trd>
+  <trd lng="de">vatikanisch</trd>
+  <trd lng="en">Vatican</trd>
+  <trd lng="hu">vatik&aacute;ni</trd>
+  <trd lng="it">vaticano<klr> (agg.)</klr></trd>
+  <trd lng="nl">Vaticaans</trd>
+  <trd lng="pl">watyka&nacute;ski</trd>
+  <trd lng="ru">&c_v;&c_a;&c_t;&c_i;&c_k;&c_a;&c_n;&c_s;&c_k;&c_i;&c_j;
+  </trd>
+</drv>
+</art>
+<!--
+$Log: vatikan.xml,v $
+Revision 1.20  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/28 12:03:50  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2014/06/24 10:10:33  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.17  2013/08/23 08:10:14  revo
+Wolfram Diestel: referencoj al listo sxtatoj
+
+Revision 1.16  2013/03/13 12:10:16  revo
+Dmitri Gabinski: redakto: +trd be
+
+Revision 1.15  2012/07/20 09:10:15  revo
+Marc Rausell: + trd ca
+
+Revision 1.14  2010/11/04 17:31:15  revo
+Antonio Codazzi: +trd it
+
+Revision 1.13  2009/06/27 16:31:11  revo
+Russ Williams: +trd en
+
+Revision 1.12  2008/05/20 16:30:34  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.11  2006/02/01 17:32:13  revo
+-->
+</vortaro>

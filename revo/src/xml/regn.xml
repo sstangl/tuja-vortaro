@@ -1,0 +1,253 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: regn.xml,v 1.24 2015/07/04 08:37:42 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>regn</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="regn.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="regn.0o.POL">
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      <ref tip="super" cel="sxtat.0o">&Scirc;tato</ref> kondukanta sian
+      propran, sendependan eksteran politikon, subjekto de la
+      internacia juro:
+      <ekz>
+        Polujo, kiu sub la regado de la rusaj caroj estis nur lando kaj
+        nacio, nun refari&gcirc;is <tld/>o;
+      </ekz>
+      <ekz>
+        tute&ubreve;ropa organizo de la <tld/>oj;
+      </ekz>
+      <ekz>
+        la ligo de la <tld/>oj;
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="naci.0o">nacio</ref>,
+      <ref cel="land.0o">lando</ref>,
+      <ref cel="sxtat.0o">&scirc;tato</ref>.
+    </refgrp>
+    <trd lng="be">&c_d;&c_z;&c_ja;&c_r;&c_zh;&c_a;&c_v;&c_a;</trd>
+    <trdgrp lng="hu">
+      <trd>&aacute;llam</trd>,
+      <trd>birodalom</trd></trdgrp>
+    <trd lng="ru">&c_d;&c_je;&c_r;&c_zh;&c_a;&c_v;&c_a;</trd>
+  </snc>
+  <snc mrk="regn.0o.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Loko en la spaco a&ubreve; en hierarkio de ideoj kie regas iu
+      specio, principo ktp:
+      <ekz>
+        la <tld/>o de belo<fnt>Z</fnt>;
+      </ekz><ekz>
+        ne en la akvo estas la <tld/>o de la leono<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="fak">KRI</uzo>
+        en tiuj tagoj venis Johano, la Baptisto, predikante en la
+        dezerto de Judujo, kaj dirante: Pentu, &ccirc;ar alproksimi&gcirc;is
+        la <ind><tld/>o de la &ccirc;ielo</ind>
+        <fnt><bib>NT</bib>, <lok>&Mat; 3:1-2.</lok></fnt>.
+        <trd lng="ru">&c_c;&c_a;&c_r;&c_s;&c_t;&c_v;&c_o; &c_n;&c_je;&c_b;&c_je;&c_s;&c_n;&c_o;&c_je;</trd>
+      </ekz>
+      <ekz>
+        la <tld/>o de la mortintoj
+        <fnt><bib>Fab4</bib>, <lok>Filino de la mar&ccirc;a
+        re&gcirc;o</lok></fnt>;
+      </ekz>
+      <ekz>
+        <tld/>o de son&gcirc;oj
+        <fnt><bib>Fab2</bib>, <lok>Ne&gcirc;a re&gcirc;ino</lok></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_c;&c_a;&c_r;&c_s;&c_t;&c_v;&c_a;</trd>
+    <trdgrp lng="hu">
+      <trd>birodalom</trd>,
+      <trd>orsz&aacute;g</trd></trdgrp>
+    <trd lng="ru">&c_c;&c_a;&c_r;&c_s;&c_t;&c_v;&c_o;</trd>
+  </snc>
+  <snc mrk="regn.0o.BIO">
+    <tezrad fak="BIO"/>
+    <uzo tip="fak">BIO</uzo>
+    <dif>
+      Iu el la plej &gcirc;eneralaj grupoj en la biologia klasifiko, ekz.
+      animaloj, fungoj, plantoj.
+    </dif>
+    <refgrp tip="prt">
+      <ref cel="filum.0o">filumo</ref>,
+      <ref cel="divizi.0o.BOT">divizio</ref>.
+    </refgrp>
+    <trd lng="be">&c_c;&c_a;&c_r;&c_s;&c_t;&c_v;&c_a; <klr>(&c_zh;&c_y;&c_v;&c_y;&c_h;
+    &c_ib;&c_s;&c_t;&c_o;&c_t;&c_a;&c_w;)</klr></trd>
+    <trd lng="hu">orsz&aacute;g<klr tip="ind"> (rendszertani)</klr></trd>
+    <trd lng="ru">&c_c;&c_a;&c_r;&c_s;&c_t;&c_v;&c_o;<klr> (&c_b;&c_i;&c_o;&c_l;.)</klr></trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>mocnost</trd>,
+    <trd>stát</trd>,
+    <trd>říše</trd>
+  </trdgrp>
+  <trd lng="de">Reich</trd>
+  <trd lng="en">kingdom</trd>
+  <trd lng="es">reino</trd>
+  <trdgrp lng="fr">
+    <trd>&eacute;tat</trd>,
+    <trd>r&egrave;gne</trd>
+  </trdgrp>
+  <trd lng="nl">rijk</trd>
+  <trdgrp lng="sk">
+    <trd>mocnosť</trd>,
+    <trd>ríša</trd>,
+    <trd>štát</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="regn.0a">
+  <kap><tld/>a</kap>
+  <snc>
+    <dif>
+      Apartenanta al la <tld/>o, koncernanta la <tld/>on:
+      <ekz>
+        la <tld/>a kaso.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="hu">
+    <trd>&aacute;llami</trd>,
+    <trd>birodalmi</trd>
+  </trdgrp>
+  <trd lng="nl">rijks-</trd>
+  <trd lng="ru">&c_g;&c_o;&c_s;&c_u;&c_d;&c_a;&c_r;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>
+</drv>
+
+<drv mrk="regn.0ano">
+  <kap><tld/>ano</kap>
+  <snc mrk="regn.0ano.POL">
+    <ref tip="dif" cel="sxtat.0ano">&scirc;tatano</ref>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>obyvatel říše</trd>,
+    <trd>občan</trd>,
+    <trd>státní příslušník</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>citoyen</trd>,
+    <trd>habitant<klr> (d'un pays)</klr></trd>
+  </trdgrp>
+  <trd lng="hu">&aacute;llampolg&aacute;r</trd>
+  <trd lng="nl">staatsburger</trd>
+  <trd lng="ru">&c_g;&c_r;&c_a;&c_zh;&c_d;&c_a;&c_n;&c_i;&c_n;</trd>
+  <trdgrp lng="sk">
+    <trd>obyvateľ</trd>,
+    <trd>občan</trd>,
+    <trd>štátny príslušník</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="regn.0estro">
+  <kap><ofc>*</ofc><tld/>estro</kap>
+  <snc mrk="regn.0estro.POL">
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      Tiu, kiu &ccirc;efe gvidas la politikon de <tld/>o:
+      <ekz>
+        la <tld/>estro de nia lando estas bona kaj sa&gcirc;a re&gcirc;o
+        <fnt><bib>F</bib>, <lok>&FE; 37</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>hlava státu</trd>,
+    <trd>hlava státu</trd>,
+    <trd>panovník</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>chef d'&eacute;tat</trd>,
+    <trd>souverain</trd>
+  </trdgrp>
+  <trd lng="nl">staatshoofd</trd>
+  <trd lng="ru">&c_g;&c_l;&c_a;&c_v;&c_a; &c_g;&c_o;&c_s;&c_u;&c_d;&c_a;&c_r;&c_s;&c_t;&c_v;&c_a;</trd>
+  <trd lng="sk">panovník</trd>
+</drv>
+
+<drv mrk="regn.besta0o">
+  <kap>besta <tld/>o,
+  <var><kap>animala <tld/>o</kap></var></kap>
+  <snc mrk="regn.besta0o.BIO">
+    <uzo tip="fak">BIO</uzo>
+    <dif>
+      La biologia <tld/>o ampleksanta
+      la tutan bestaron de la mondo:
+      <ekz>
+        la besta <tld/>o <klr>...</klr> posedas atributojn
+        fremdajn al la anta&ubreve;aj klasoj, t.e. movkapablon,
+        instinktojn kaj sentojn
+        <fnt>
+          <aut>L. Zamenhof</aut>,
+          <vrk><url
+          ref="http://bahaaeligo.bahai.de/U-tekstoj/lidiazesp-U.htm">
+          La Bahaa Filozofio</url></vrk>,
+          <lok>The Bah&aacute;'&iacute; World, 1934-1936 (6), p. 668a-674a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">r&egrave;gne animal</trd>
+</drv>
+
+<drv mrk="regn.vegetajxa0o">
+  <kap>vegeta&jcirc;a <tld/>o,
+  <var><kap>planta <tld/>o</kap></var></kap>
+  <snc mrk="regn.vegetajxa0o.BIO">
+    <uzo tip="fak">BIO</uzo>
+    <dif>
+      La biologia <tld/>o ampleksanta
+      la tutan vegeta&jcirc;aron de la mondo:
+      <ekz>
+        vegetarano povas sin nutri sole el substancoj
+        de la vegeta&jcirc;a <tld/>o
+        <fnt><aut>W. F. Rolt</aut>, <vrk>El la Polvo de la Tero</vrk>, 
+        <lok>1967</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">r&egrave;gne v&eacute;g&eacute;tal</trd>
+</drv>
+</art>
+<!--
+$Log: regn.xml,v $
+Revision 1.24  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.23  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.22  2014/03/07 02:10:22  revo
+Jeromo Vasxe: + besta / vegetajxa ~o
+
+Revision 1.21  2014/01/01 11:10:12  revo
+Sergio Pokrovskij: +disigo de ekz-oj, +trd=ru
+
+Revision 1.20  2009/10/01 16:30:26  revo
+Paul Peeraerts: +nl
+
+Revision 1.19  2006/09/19 17:39:42  revo
+Wolfram Diestel: +tezrad(BIO)
+
+Revision 1.18  2006/08/11 14:16:03  revo
+Jeromo Vasxe: + ~estro
+
+Revision 1.17  2005/03/06 17:38:24  revo
+Yury Finkel: +trd ru
+
+Revision 1.16  2003/08/17 17:27:08  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.15  2003/05/12 16:32:49  revo
+-->
+</vortaro>

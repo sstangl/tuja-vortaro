@@ -1,0 +1,120 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: lez.xml,v 1.10 2014/03/28 08:10:38 revo Exp $">
+<kap>
+  <rad>lez</rad>/i
+</kap>
+<drv mrk="lez.0i">
+  <kap>
+    <tld/>i
+  </kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="lez.0i.MED">
+    <uzo tip="fak">MED</uzo>
+    <dif>
+      Ka&ubreve;zi patologian difekton a&ubreve; &scirc;an&gcirc;on en organo:
+      <ekz>
+        skarlatino ofte <tld/>as iun organon.
+      </ekz>
+    </dif>
+    <trd lng="de">verletzen</trd>
+  <trdgrp lng="hu">
+    <trd>megs&eacute;rt</trd>,
+    <trd>s&eacute;r&uuml;l&eacute;st okoz</trd>
+  </trdgrp>
+    <trd lng="nl">letsel toebrengen</trd>
+  </snc>
+  <snc mrk="lez.0i.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Ka&ubreve;zi dama&gcirc;on:
+      <ekz>
+        neologismoj, kiuj tute ne <tld/>as la strukturon de la lingvo
+        <fnt><aut>Franz-Georg R&ouml;ssler</aut>:
+        <vrk><url ref="&Monato;/rec/vapo.html">Profite voja&gcirc;u kun
+        Edwin</url></vrk>,
+        <bib>Monato</bib>,
+        <lok>n-ro 06/1994</lok>.
+        </fnt>
+      </ekz>
+    </dif>
+    <trd lng="de">besch&auml;digen</trd>
+    <trd lng="hu">s&eacute;rt</trd>    
+    <trd lng="nl">schade berokkenen</trd>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_a;&c_sh;&c_k;&c_o;&c_d;&c_z;&c_ib;&c_c;&c_mol;</trd>,
+    <trd>&c_p;&c_a;&c_r;&c_a;&c_z;&c_ib;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="fr">l&eacute;ser</trd>
+  <trd lng="pt">lesar</trd>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_o;&c_r;&c_a;&c_z;&c_i;&c_t;&c_mol;</trd>,
+    <trd>&c_p;&c_o;&c_v;&c_r;&c_je;&c_d;&c_i;&c_t;&c_mol;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="lez.0o">
+  <kap>
+    <tld/>o
+  </kap>
+  <snc mrk="lez.0o.MED">
+    <uzo tip="fak">MED</uzo>
+    <dif>
+      Patologia difekto a&ubreve; &scirc;an&gcirc;o en organo.
+    </dif>
+    <trd lng="de">Verletzung</trd>
+    <trd lng="hu">s&eacute;r&uuml;l&eacute;s</trd>    
+    <trd lng="nl">letsel</trd>
+  </snc>
+  <snc mrk="lez.0o.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Dama&gcirc;o.
+    </dif>
+    <trd lng="de">Besch&auml;digung</trd>
+    <trd lng="hu">megs&eacute;rt&eacute;s</trd>    
+    <trd lng="nl">schade</trd>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_a;&c_sh;&c_k;&c_o;&c_d;&c_zh;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>,
+    <trd>&c_p;&c_a;&c_r;&c_a;&c_zh;&c_e;&c_n;&c_mol;&c_n;&c_je;</trd>
+  </trdgrp>
+  <trd lng="fr">l&eacute;sion</trd>
+  <trdgrp lng="pt">
+    <trd>les&atilde;o</trd>,
+    <trd>dano</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_o;&c_v;&c_r;&c_je;&c_zh;&c_d;&c_je;&c_n;&c_i;&c_je;</trd>,
+    <trd>&c_p;&c_o;&c_r;&c_a;&c_zh;&c_je;&c_n;&c_i;&c_je;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: lez.xml,v $
+Revision 1.10  2014/03/28 08:10:38  revo
+Damien Brucker: +trd fr
+
+Revision 1.9  2004/08/05 16:31:23  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.8  2004/05/25 16:32:47  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.7  2002/09/29 17:50:58  revo
+Ulrich Fellmann: + 4 trd de
+
+Revision 1.6  2002/09/01 19:07:32  revo
+Eduardo M. Kalinowski: ald trd pt
+
+Revision 1.5  2001/11/16 19:13:18  revo
+Yury Finkel: +trd ru
+
+Revision 1.4  2001/03/30 17:19:15  revo
+Paul Peeraerts: ald trd nl + ald FIG
+
+-->
+</vortaro>

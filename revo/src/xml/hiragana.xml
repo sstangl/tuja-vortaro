@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: hiragana.xml,v 1.5 2014/06/17 16:10:13 revo Exp $">
+<kap>
+  <rad>hiragana</rad>/o <fnt><bib>NePiv</bib></fnt>
+</kap>
+<drv mrk="hiragana.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="hiragana.0o.TIP">
+    <uzo tip="fak">TIP</uzo>
+    <ref tip="dif" cel="kana.ronda0o">ronda kanao</ref>
+      <ekz>
+        lernantoj de la japana tutegale devos lerni anka&ubreve;
+<tld/>on
+        <fnt>
+          <aut>Z. Lapcionak</aut>,
+          <vrk><url
+ref="http://tech.groups.yahoo.com/group/revuloj/message/11337">
+          por traduko en la japana</url></vrk>,
+          <lok>diskutgrupo &leftquot;revuloj&rightquot;,
+2007-08-27</lok>
+        </fnt>.
+      </ekz>
+    <ref tip="vid" cel="katakana.0o.TIP">katakana</ref>
+    <trd lng="fr">hiragana</trd>
+    <trd lng="it">hiragana</trd>
+    <trd lng="pl">hiragana</trd>
+    <trd lng="pt">"<ind>hiragana</ind>"</trd>
+  </snc>
+</drv>
+</art>
+
+<!--
+$Log: hiragana.xml,v $
+Revision 1.5  2014/06/17 16:10:13  revo
+Damien Brucker: +trd fr
+
+Revision 1.4  2009/09/12 16:31:33  revo
+Antonio Codazzi: +trd it
+
+Revision 1.3  2007/11/14 17:30:14  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.2  2007/10/30 17:30:22  revo
+Tulio Flores: +tr pt
+
+Revision 1.1  2007/10/29 17:30:20  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

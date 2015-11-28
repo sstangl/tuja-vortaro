@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: konced.xml,v 1.7 2015/07/04 08:37:37 revo Exp $">
+<kap>
+  <ofc>8</ofc>
+  <rad>konced</rad>/i
+</kap>
+<drv mrk="konced.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      Post hezito a&ubreve; dubi&gcirc;o konsenti pri
+      la ebleco de io:
+      <ekz>
+        &leftquot;mi konsentas,&rightquot; <tld/>is Angolm, &leftquot;sed tio ne malhelpas
+        ke la faktoj ekzistas&rightquot;
+        <fnt><bib>UrdHadda</bib><lok>p. 2</lok></fnt>;
+      </ekz>
+      <ekz>
+        sed tamen mi kun tre respektaj sentoj <tld/>as,
+        ke... ekzistas ka&ubreve;z' por miri
+        <fnt>
+        <aut>Raymond Schwartz</aut>
+        <vrk>La Stranga Butiko</vrk>
+        <lok>Oni malfermas la butikon</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>koncedovat</trd>,
+    <trd>povolit</trd>,
+    <trd>připouštět</trd>,
+    <trd>připouštět</trd>,
+    <trd>připustit</trd>,
+    <trd>svolit</trd>,
+    <trd>uznávat</trd>
+  </trdgrp>
+  <trd lng="en">concede</trd>
+  <trdgrp lng="fr">
+    <trd>conc&eacute;der<klr tip="ind"> (admettre)</klr></trd>,
+    <trd>accorder<klr tip="ind"> (admettre)</klr></trd>,
+    <trd>admettre<klr tip="ind"> (en convenir)</klr></trd>,
+    <trd>convenir (de)</trd>,
+    <trd>reconna&icirc;tre<klr tip="ind"> (en convenir)</klr></trd>
+  </trdgrp>
+  <trd lng="nl">toegeven</trd>
+  <trdgrp lng="pt">
+    <trd>conceder</trd>,
+    <trd>outorgar</trd>,    
+    <trd>assentir</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>povoliť</trd>,
+    <trd>pripustiť</trd>,
+    <trd>pripustiť</trd>,
+    <trd>uznávať</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="konced.0o">
+  <kap><tld/>o</kap>
+  <snc>
+    <dif>
+      Ago <tld/>i.
+    </dif>
+    <rim>
+      Oni ne imitu ekzemplojn de la tipo:
+      <ekz>
+        amba&ubreve; partioj devas fari <tld/>ojn
+        <fnt>
+        <aut>W. Courtaux</aut>
+        <vrk>Oficiala perforto</vrk>
+        <lok><url
+        ref="http://www.vrede.be/esperanto_view.php?id=10">http://www.vrede.be/esperanto_view.php?id=10</url></lok>
+        </fnt>,
+      </ekz>
+      en kiu &leftquot;<ref tip="vid" cel="ced.0o">cedo</ref>&rightquot;
+      estus pli &gcirc;usta.
+    </rim>
+  </snc>
+  <trd lng="cs">ústupek</trd>
+  <trd lng="en">concession</trd>
+  <trdgrp lng="fr">
+    <trd>concession<klr tip="ind"> (fait de conc&eacute;der, de
+    reconna&icirc;tre)</klr></trd>
+  </trdgrp>
+  <trd lng="nl">toegeving</trd>
+  <trd lng="sk">ústupok</trd>
+</drv>
+</art>
+<!--
+$Log: konced.xml,v $
+Revision 1.7  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.6  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.5  2009/09/26 16:31:28  revo
+Russ Williams: +trd en
+
+Revision 1.4  2009/09/03 16:31:12  revo
+Paul Peeraerts: +nl
+
+Revision 1.3  2007/01/01 19:47:41  revo
+Tulio Flores: +tr pt
+
+Revision 1.2  2005/05/17 16:31:50  revo
+Marc Bavant: ~o: +trd fr, mod rim
+
+Revision 1.1 2005/02/20 17:34:50 revo
+Marc Bavant: nova artikolo
+
+-->
+</vortaro>

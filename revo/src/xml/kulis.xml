@@ -1,0 +1,107 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: kulis.xml,v 1.19 2015/07/04 08:37:38 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>kulis</rad>/o
+</kap>
+<drv mrk="kulis.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="kulis.0o.TEA">
+    <uzo tip="fak">TEA</uzo>
+    <dif>
+      Parto de teatrejo malanta&ubreve; la scenejo, &ccirc;e kiu oni aran&gcirc;as la
+      dekoracia&jcirc;ojn:
+      <ekz>
+        el post la <tld/>oj elna&gcirc;is kvar aktorinoj
+        <fnt><bib>Metrop</bib></fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        <ind>post la <tld/>oj</ind><fnt>B</fnt>
+        <klr>(nepublike, sekrete, ka&scirc;e)</klr>.
+        <trd lng="nl">achter de <ind>scherm</ind>en</trd>
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_k;&c_u;&c_l;&c_ib;&c_s;&c_a;</trd>
+  <trd lng="cs">kulisa</trd>
+  <trd lng="de">Kulisse</trd>
+  <trdgrp lng="en">
+    <trd>slip</trd>,
+    <trd>wing</trd>
+  </trdgrp>
+  <trd lng="es">bastidor<klr tip="amb"> (teatro)</klr></trd>
+  <trd lng="fr">coulisse</trd>
+  <trdgrp lng="hu">
+    <trd>sz&iacute;nfal</trd>,
+    <trd>kulissza</trd>
+  </trdgrp>
+  <trd lng="nl">coulisse</trd>
+  <trdgrp lng="pt">
+    <trd>bastidor</trd>,
+    <trd>bastidores</trd>
+  </trdgrp>
+  <trd lng="ru">&c_k;&c_u;&c_l;&c_i;&c_s;&c_a;</trd>
+  <trd lng="sk">kulisa</trd>
+</drv>
+
+<drv mrk="kulis.post0a">
+  <kap>post<tld/>a</kap>
+  <snc mrk="kulis.post0a.KOMUNE">
+    <uzo tip="stl">FRAZ</uzo>
+    <dif>
+      <ref tip="vid" cel="sekret.0a">sekreta</ref>, nevidata de la
+      publiko:
+      <ekz>
+        manovroj post<tld/>aj de la membroj de la Respublikana Partio
+        <fnt>
+        <aut>&Gcirc;angalo</aut>,
+        <vrk><url
+        ref="http://gxangalo.com/modules/news/article.php?storyid=1190">Usona
+        parlamento aprobis...</url></vrk>,
+        <lok>2003-11-11</lok>
+        </fnt>
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="es">entre bastidores<klr tip="amb"> (frase
+  coloquial)</klr></trd>
+  <trd lng="fr">cach&eacute;</trd>
+  <trd lng="nl">achter de <ind>scherm</ind>en</trd>
+</drv>
+</art>
+<!--
+$Log: kulis.xml,v $
+Revision 1.19  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2015/02/23 23:10:16  revo
+Alain Gerard: +trd (fr)
+
+Revision 1.16  2010/06/12 16:30:31  revo
+Agustin Garcia Lopez: +trd es
+
+Revision 1.15  2009/09/20 16:30:35  revo
+Paul Peeraerts: +nl
+
+Revision 1.14  2006/10/14 16:30:36  revo
+Tulio Flores: +tr pt
+
+Revision 1.13  2006/03/31 10:23:34  revo
+Jeromo Vasxe: + post~a
+
+Revision 1.12 2004/04/07 16:32:45 revo
+Jozefo Horvath: +trd hu
+
+Revision 1.11 2003/04/23 16:32:19 revo
+Dmitri Gabinski: +trd be
+
+Revision 1.10 2002/03/28 11:16:28 revo
+-->
+</vortaro>

@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: gradus.xml,v 1.15 2015/07/04 08:37:35 revo Exp $">
+<kap>
+  <rad>gradus</rad>/o
+</kap>
+<drv mrk="gradus.0o">
+  <kap><tld/>o</kap>
+  <fnt><bib>PIV1</bib></fnt>
+  <snc mrk="gradus.0o.unuo">
+    <uzo tip="fak">MAT</uzo>
+    <mlg>gon</mlg>
+    <dif>
+      Komunuza <ref tip="lst" cel="unu.mezur0o"
+      lst="voko:mezurunuoj">mezurunuo</ref> de
+      <ref cel="angul.ebena0o">ebena angulo</ref>, egala al la
+      200a parto de stre&ccirc;ita angulo; simb. gr:
+      <ekz>
+        <tld/>o egalas al 
+        <frm>&pi;/200</frm>.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="radian.0o">radianoj</ref>
+    <trd lng="ca">grau centesimal</trd>
+    <trdgrp lng="de"><trd>Gon</trd>, <trd>Neugrad</trd></trdgrp> 
+    <trdgrp lng="en"><trd>grade</trd>, <trd>gon</trd></trdgrp> 
+    <trd lng="fa">&f_g;&a_r;&a_A;&a_d;</trd>
+    <trdgrp lng="fr"><trd>grade<klr tip="ind"> (unit&eacute; de
+    mesure)</klr></trd>, <trd>gon</trd></trdgrp> 
+    <trdgrp lng="hu"><trd>gon</trd>,
+      <trd>&uacute;jfok</trd></trdgrp> 
+    <trd lng="id">derajat</trd>
+    <trd lng="nl">graad<klr tip="ind"> (400-delig)</klr></trd>
+    <trdgrp lng="pl">
+      <trd>grad</trd>,
+      <trd>gradus</trd>
+    </trdgrp> 
+    <trd lng="pt">grado<klr tip="amb"> (unidade de medida)</klr></trd> 
+    <trdgrp lng="ru"><trd>&c_g;&c_r;&c_a;&c_d;</trd>, <trd>&c_g;&c_o;&c_n;</trd></trdgrp>
+  </snc>
+  <snc mrk="gradus.0o.BELE">
+    <uzo tip="fak">BELE</uzo>
+    <dif>
+      Latina <ref tip="super" cel="vort.0aro">vortaro</ref>, 
+      montranta la prozodian valoron de &ccirc;iu silabo.
+    </dif>
+    <trd lng="ca">diccionari sil&middot;l&agrave;bic</trd>
+    <trd lng="hu">Gradus ad Parnassum</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>grad</trd>,
+    <trd>grád</trd>
+  </trdgrp>
+  <trd lng="sk">grádus</trd>
+</drv>
+</art>
+
+<!--
+$Log: gradus.xml,v $
+Revision 1.15  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:29:39  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.13  2014/07/01 17:10:40  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.12  2013/09/14 17:10:25  revo
+Wolfram Diestel: ref al lst mezurunuoj, ref-oj
+
+Revision 1.11  2011/12/12 12:10:10  revo
+Marc Rausell: +trd ca
+
+Revision 1.10  2009/07/11 16:31:35  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.9  2005/08/25 16:33:54  revo
+Luiz Portella: +trd pt
+
+Revision 1.8  2003/01/02 17:46:10  revo
+Marc Bavant: +trd pl
+
+Revision 1.7  2002/11/22 17:32:22  revo
+Marc Bavant: +frm
+Revision 1.6  2002/08/22 17:31:03  revo
+Jozefo Horvath: +trd hu
+-->
+</vortaro>

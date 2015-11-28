@@ -1,0 +1,127 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: foment.xml,v 1.13 2015/07/04 08:37:34 revo Exp $">
+<kap>
+<rad>foment</rad>/i
+<fnt>Z</fnt>
+</kap>
+<drv mrk="foment.0i">
+    <kap><tld/>i</kap>
+    <gra><vspec>tr</vspec></gra>
+    <uzo tip="fak">MED</uzo>
+    <snc>
+      <dif>
+        Apliki varman kuracilon sur malsanan korpoparton por mildigi,
+        kvietigi &gcirc;ian doloron.
+      </dif>
+    </snc>
+  <trd lng="ca">fomentar</trd>
+  <trdgrp lng="cs">
+    <trd>nahřívat</trd>,
+    <trd>napařovat</trd>
+  </trdgrp>
+  <trd lng="de">b&auml;hen</trd>
+  <trd lng="fa">&a_D;&a_m;&a_A;&a_d; &f_g;&a_dh;&a_A;&a_sh;&a_t;&a_n;</trd>
+  <trd lng="fr">fomenter<klr tip="ind"> (m&eacute;d., faire des
+fomentations)</klr></trd>
+  <trd lng="hu">melegen <ind>borogat</ind></trd>
+  <trd lng="pt">fomentar</trd>
+  <trd lng="ru">&c_k;&c_l;&c_a;&c_s;&c_t;&c_mol;
+&c_p;&c_r;&c_i;&c_p;&c_a;&c_r;&c_k;&c_i;</trd>
+  <trd lng="sk">dávať teplý obklad</trd>
+</drv>
+<drv mrk="foment.0o">
+    <kap><tld/>o</kap>
+    <uzo tip="fak">MED</uzo>
+    <snc>
+      <dif>
+        Ago <tld/>i.
+      </dif>
+      <trdgrp lng="ca">
+        <trd>foment</trd>,
+        <trd>fomentaci&oacute;</trd>
+      </trdgrp>
+      <trd lng="de">B&auml;hen</trd>
+      <trd lng="fr">fomentation</trd>
+      <trd lng="hu">melegen <ind>borogat&aacute;s</ind></trd>
+      <trd lng="ru">&c_p;&c_r;&c_i;&c_p;&c_a;&c_r;&c_k;&c_a;
+<klr>(&c_d;&c_je;&c_j;&c_s;&c_t;&c_v;&c_i;&c_je;)</klr></trd>
+    </snc>
+  <trdgrp lng="cs">
+    <trd>nahřívání</trd>,
+    <trd>napařování</trd>
+  </trdgrp>
+  <trd lng="sk">naparovanie</trd>
+</drv>
+<drv mrk="foment.0ajxo">
+    <kap><tld/>a&jcirc;o</kap>
+    <uzo tip="fak">MED</uzo>
+    <snc>
+      <dif>
+        <!-- Tio, kion oni <tld/>as. -->
+        Kuracilo, per kiu oni <tld/>as.
+      </dif>
+    </snc>
+    <adm>
+      Mi sxangxis la sencon laux PIV1 (cetere la antauxa "tio, kion oni
+      ~as"
+      ne estis klara pro manko de ekzemplo kun objekto: supozeble gxi 
+montras
+      al la korpoparto, ne al la kuracilo). Sxajnas, ke la rusa traduko
+restas
+      gxusta. <aut>MB</aut>
+    </adm>
+    <trd lng="ca">foment <klr>(emplastre)</klr></trd>
+    <trd lng="hu">meleg <ind>borogat&aacute;s</ind></trd>
+    <trd lng="fa">&a_D;&a_m;&a_A;&a_d;</trd>
+    <trd lng="fr">topique<klr tip="ind"> (m&eacute;d.)</klr></trd>
+    <trd
+lng="ru">&c_s;&c_o;&c_g;&c_r;&c_je;&c_v;&c_a;&c_ju;&c_shch;&c_i;&c_j;
+&c_k;&c_o;&c_m;&c_p;&c_r;&c_je;&c_s;&c_s;</trd>
+</drv>
+<drv mrk="foment.0a">
+    <kap><tld/>a</kap>
+    <snc>
+      <dif>
+        Havanta ecojn de <tld/>a&jcirc;o:
+        <ekz><tld/>aj kompresoj.</ekz>
+      </dif>
+    </snc>
+    <trd lng="ca">fomentador</trd>
+    <trd lng="hu">melegen <ind>borogat&oacute;</ind></trd>
+</drv>
+</art>
+<!--
+$Log: foment.xml,v $
+Revision 1.13  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.12  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.11  2011/12/05 14:10:18  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.10  2011/09/26 20:10:09  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.9  2007/06/02 19:47:54  revo
+Tulio Flores: +tr pt
+
+Revision 1.8  2004/03/01 17:31:41  revo
+Emmanuel Debanne: + 1 trd fr
+
+Revision 1.7  2003/10/05 18:52:40  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.6  2001/09/06 18:13:02  revo
+Marc Bavant: +trd fr; ~i: +gra tr; ~o: +uzo MED; ~ajxo: +uzo MED, mod
+dif, +adm
+
+Revision 1.5  2001/07/09 18:19:57  revo
+Ulrich Fellmann: + 2 germ trdj
+
+-->
+</vortaro>

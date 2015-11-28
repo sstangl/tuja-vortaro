@@ -1,0 +1,153 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: muld.xml,v 1.17 2015/07/04 08:37:39 revo Exp $">
+<kap>
+   <ofc>9</ofc><rad>muld</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="muld.0i">
+   <kap><ofc>9</ofc><tld/>i</kap>
+   <gra><vspec>tr</vspec></gra>
+   <snc mrk="muld.0i.TEK">
+     <uzo tip="fak">TEK</uzo>
+     <dif>
+       Fari objekton, figuron, fluigante moligitan mason en ujon, kiu
+       havas la deziratan formon:
+       <ekz>
+         <tld/>i kanonojn el sonoriloj.
+       </ekz>
+     </dif>
+   </snc>
+   <trd lng="en">mold</trd>
+   <trd lng="fr">mouler</trd>
+   <trd lng="hu">(form&aacute;ba)<ind> &ouml;nt</ind></trd>
+   <trd lng="nl">gieten<klr tip="ind"> (in gietvorm)</klr></trd>   
+   <trd lng="de">gie&szlig;en <klr tip="ind">(in eine Form)</klr></trd>
+   <trd lng="pl">odlewa&cacute;</trd>
+   <trd lng="pt">moldar</trd>
+   <trdgrp lng="ru">
+     <trd>&c_f;&c_o;&c_r;&c_m;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>,
+     <trd>&c_d;&c_je;&c_l;&c_a;&c_t;&c_mol; &c_s;&c_l;&c_je;&c_p;&c_o;&c_k;</trd>,
+     <trd>&c_o;&c_t;&c_l;&c_i;&c_v;&c_a;&c_t;&c_mol;</trd>
+   </trdgrp>
+</drv>
+
+<drv mrk="muld.0ado">
+   <kap><tld/>ado, <var><kap><tld/>o</kap></var></kap>
+   <snc mrk="muld.0ado.TEK">
+     <dif>
+       Ago <tld/>i.
+     </dif>
+   </snc>
+  <trdgrp lng="cs">
+    <trd>mulda</trd>,
+    <trd>úžlabina</trd>
+  </trdgrp>
+  <trd lng="de">Gie&szlig;en</trd>
+  <trd lng="fr">moulage</trd>
+  <trd lng="hu">(form&aacute;ba)<ind> &ouml;nt&eacute;s</ind></trd>
+  <trd lng="nl">het <ind>gieten</ind></trd>
+  <trd lng="pl">odlewanie</trd>
+  <trd lng="ru">&c_l;&c_i;&c_t;&c_mol;&c_jo;<klr tip="ind"> (&c_d;&c_je;&c_j;&c_s;&c_t;&c_v;&c_i;&c_je;)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>mulda</trd>,
+    <trd>úžľabina</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="muld.0ilo">
+   <kap><tld/>ilo</kap>
+   <snc mrk="muld.0ilo.TEK">
+     <dif>
+       La ujo por <tld/>i.
+     </dif>
+   </snc>
+  <trdgrp lng="cs">
+    <trd>forma k odlévání</trd>,
+    <trd>kadlub</trd>
+  </trdgrp>
+  <trd lng="de">Gussform</trd>
+  <trd lng="fr">moule</trd>
+  <trd lng="hu">&ouml;nt&odblac;forma</trd>
+  <trd lng="nl">gietvorm</trd>
+  <trdgrp lng="pl">
+     <trd>forma <klr>odlewnicza</klr></trd>,
+     <trd>wlewnica</trd>
+   </trdgrp>
+  <trdgrp lng="ru">
+     <trd>&c_p;&c_u;&c_a;&c_n;&c_s;&c_o;&c_n;</trd>,
+     <trd>&c_l;&c_i;&c_t;&c_je;&c_j;&c_n;&c_a;&c_ja; &c_f;&c_o;&c_r;&c_m;&c_a;</trd>
+   </trdgrp>
+  <trd lng="sk">forma na odlievanie</trd>
+</drv>
+
+<drv mrk="muld.0ajxo">
+   <kap><tld/>a&jcirc;o</kap>
+   <snc mrk="muld.0ajxo.TEK">
+     <dif>
+       <tld lit="M"/>ita objekto, figuro.
+     </dif>
+   </snc>
+   <trdgrp lng="de">
+     <trd>Gussst&uuml;ck</trd>,
+     <trd>Abguss</trd>
+   </trdgrp>
+   <trd lng="nl">gegoten voorwerp</trd>
+   <trd lng="fr">moulage</trd>
+   <trd lng="hu">&ouml;ntv&eacute;ny</trd>   
+   <trd lng="pl">odlew</trd>
+   <trdgrp lng="ru">
+     <trd>&c_o;&c_t;&c_l;&c_i;&c_v;&c_k;&c_a;</trd>,
+     <trd>&c_s;&c_l;&c_je;&c_p;&c_o;&c_k;</trd>
+   </trdgrp>
+</drv>
+
+<drv mrk="muld.el0igi">
+   <kap>el<tld/>igi</kap>
+   <snc mrk="muld.el0igi.TEK">
+     <dif>
+       Elpreni <tld/>a&jcirc;on el <tld/>ilo.
+     </dif>
+   </snc>
+  <trd lng="cs">vyjmout odlitek z formy</trd>
+  <trd lng="fr">d&eacute;mouler</trd>
+  <trd lng="hu">(&ouml;nt&odblac;form&aacute;b&oacute;l)<ind> kivesz</ind></trd>
+  <trd lng="nl">uit de <ind>gietvorm</ind> halen</trd>
+  <trd lng="pl">wyjmowa&cacute; <ind>odlew</ind> z formy</trd>
+  <trd lng="sk">vybrať odliatok z formy</trd>
+</drv>
+</art>
+<!--
+$Log: muld.xml,v $
+Revision 1.17  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.15  2013/05/06 07:10:14  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.14  2010/06/30 16:30:43  revo
+Jeromo Vasxe: - kramp
+
+Revision 1.13  2009/03/01 17:33:06  revo
+Russ Williams: + 9OA
+
+Revision 1.12  2007/06/02 19:48:07  revo
+Wieland Pusch: +trd de
+
+Revision 1.11  2006/08/16 19:53:44  revo
+Tulio Flores: +tr pt
+
+Revision 1.10  2005/03/06 17:38:03  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.9  2005/02/20 17:33:38  revo
+Wieland Pusch: +trd de
+
+Revision 1.8  2004/01/13 18:59:59  revo
+-->
+</vortaro>

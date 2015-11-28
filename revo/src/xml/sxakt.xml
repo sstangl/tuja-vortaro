@@ -1,0 +1,115 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: sxakt.xml,v 1.19 2014/05/19 07:10:17 revo Exp $">
+<kap>
+  <rad>&scirc;akt</rad>/o
+  <fnt>Z</fnt>
+</kap>
+
+<drv mrk="sxakt.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="sxakt.0o.mineja">
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      Parto de
+      <ref tip="malprt" cel="min.0ejo">minejo</ref>,
+      vertikala puto en la tero kondukanta al la
+      <ref tip="vid" cel="galeri.0o.mineja">galerioj</ref>.
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_sh;&c_a;&c_h;&c_t;&c_a;</trd>,
+      <trd>&c_k;&c_a;&c_p;&c_a;&c_l;&c_mol;&c_n;&c_ja;</trd>
+    </trdgrp>
+    <trd lng="hu">akna</trd>
+    <trd lng="nl">mijnschacht</trd>
+    <trd lng="pt">po&ccedil;o</trd>
+    <trd lng="ru">&c_sh;&c_a;&c_h;&c_t;&c_a;</trd>
+  </snc>
+  <snc mrk="sxakt.0o.bortruo">
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      Vertikala puto, kiun oni boras en la tero por akiri
+      nafton, akvon ktp.
+    </dif>
+    <trd lng="be">&c_s;&c_mol;&c_v;&c_ib;&c_d;&c_r;&c_a;&c_v;&c_ib;&c_n;&c_a;</trd>
+    <trd lng="hu">f&uacute;r&oacute;lyuk</trd>
+    <trd lng="nl">schacht</trd>
+    <trd lng="ru">&c_s;&c_k;&c_v;&c_a;&c_zh;&c_i;&c_n;&c_a;</trd>
+  </snc>
+  <trd lng="bg">&c_sh;&c_a;&c_h;&c_t;&c_a;</trd>
+  <trdgrp lng="ca">
+    <trd>pou</trd>,
+    <trd>t&uacute;nel vertical</trd>
+  </trdgrp>
+  <trd lng="de">Schacht</trd>
+  <trd lng="en">shaft</trd>
+  <trd lng="es">pozo</trd>
+  <trd lng="it">pozzo</trd>
+  <trd lng="sv"><klr>(gruv)</klr>schakt</trd>
+</drv>
+
+<drv mrk="sxakt.sxtupar0o">
+  <kap>&scirc;tupar<tld/>o</kap>
+  <snc mrk="sxakt.sxtupar0o.ARKI">
+    <uzo tip="fak">ARKI</uzo>
+    <dif>
+      Vertikala parto de 
+<ref tip="malprt" cel="konstr.0ajxo.domo">konstrua&jcirc;o</ref> tra la 
+eta&gcirc;oj, kiu entenas &scirc;tuparon:
+      <ekz>
+        ili trovis ke la pordoj de la &scirc;tupar<tld/>o malfermeblas nur de
+        ekstere kaj ne havas klinkojn.
+        <fnt>
+        <aut>Ralph Harry</aut>,
+        <vrk><url ref="http://www.luin.se/inko/X24-6.pdf">La Diplomato
+        Kiu Ridis</url></vrk>,
+        <lok>1997</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="bg">&c_s;&c_t;&c_malmol;&c_l;&c_b;&c_i;&c_shch;&c_je;</trd>
+  <trd lng="ca">buit de l'escala</trd>
+  <trd lng="de">Treppenhaus</trd>
+  <trdgrp lng="en">
+    <trd>stairwell</trd>,
+    <trd>stairway</trd>
+  </trdgrp>
+  <trd lng="fr">cage d'escalier</trd>
+  <trd lng="it"><ind>tromba</ind> delle scale</trd>
+  <trd lng="nl">trappenhuis</trd>
+</drv>
+<adm>
+  Mi disigis la sencojn "sxakt.0o.mineja" kaj "sxakt.0o.bortruo";
+  eble endos simile disigi la tradukojn de, sv.
+  <aut>Sergio</aut>
+</adm>
+</art>
+<!--
+$Log: sxakt.xml,v $
+Revision 1.19  2014/05/19 07:10:17  revo
+Agustin Garcia Lopez: +trd(es)
+
+Revision 1.18  2011/12/05 15:10:16  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.17  2011/02/08 11:10:19  revo
+Russ Williams: +trd en
+
+Revision 1.16  2009/07/01 17:22:17  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.15  2009/03/30 16:30:50  revo
+Wieland Pusch: +trd bg
+
+Revision 1.14  2009/03/28 17:31:02  revo
+Antonio Codazzi: +trd it
+
+Revision 1.13  2007/04/19 16:30:34  revo
+Wieland Pusch: +trd de
+
+Revision 1.12  2006/03/29 16:31:14  revo
+-->
+</vortaro>

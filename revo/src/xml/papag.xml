@@ -1,0 +1,131 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: papag.xml,v 1.24 2015/07/04 08:37:41 revo Exp $">
+<kap><ofc>*</ofc><rad>papag</rad>/o</kap>
+<drv mrk="papag.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="papag.0o.komune">
+    <uzo tip="stl">KOMUNE</uzo>
+    <dif>
+      Iu el <tld/>edoj.
+    </dif>
+  </snc>
+  <snc mrk="papag.0o.zoo">
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:zoologiaj_genroj">Genro</ref> el familio <ref
+      tip="malprt"
+      cel="papage.0oj"><tld/>edoj</ref>
+      (<trd lng="la">Psittacus</trd>), tropika grimpobirdo,
+      kapabla imiti la homan vo&ccirc;on kaj &ccirc;iuspecajn kriojn.
+    </dif>
+  </snc>
+  <snc mrk="papag.0o.ripetulo">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Homo, kiu senkomprene ripetas instruon:
+      <ekz>
+        <tld/>e ripeti gurditan lecionon;
+      </ekz>
+      <ekz>
+        lernejo ne devas esti <tld/>ejo.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_p;&c_u;&c_g;&c_a;&c_j;</trd>
+  <trd lng="br">peroked</trd>
+  <trd lng="ca">lloro</trd>
+  <trd lng="cs">papoušek</trd>
+  <trd lng="de">Papagei</trd>
+  <trd lng="fr">perroquet</trd>
+  <trd lng="hu">papag&aacute;ly</trd>
+  <trd lng="nl">papegaai</trd>
+  <trd lng="pl">papuga</trd>
+  <trd lng="pt">papagaio</trd>
+  <trd lng="ru">&c_p;&c_o;&c_p;&c_u;&c_g;&c_a;&c_j;</trd>
+  <trd lng="sk">papagáj</trd>
+  <trd lng="tr">papa&gbreve;an</trd>
+</drv>
+
+<drv mrk="papag.0oformaj">
+  <kap><tld/>oformaj</kap>
+  <uzo tip="fak">ZOO</uzo>
+  <snc>
+    <dif>
+      <ref tip="lst" cel="ord.0o.BIO"
+      lst="voko:zoologiaj_ordoj">Ordo</ref> el la klaso <ref
+      tip="malprt" cel="bird.0oj">birdoj</ref>
+      (<trd lng="la">Psittaciformes</trd>).
+      Grimpantaj, tropikaj birdoj, kun brilaj diverskoloraj plumoj
+      kaj hoka beko.
+    </dif>
+  </snc>
+  <trd lng="ca">psitaciformes</trd>
+  <trd lng="de">Papageienv&ouml;gel</trd>
+  <trd lng="hu">papag&aacute;lyalak&uacute;ak</trd>
+  <trd lng="ru">&c_p;&c_o;&c_p;&c_u;&c_g;&c_a;&c_i; <klr tip="amb">(&c_o;&c_t;&c_r;&c_ja;&c_d;)</klr></trd>
+</drv>
+</art>
+<!--
+$Log: papag.xml,v $
+Revision 1.24  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.23  2015/06/29 16:40:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.22  2013/09/03 17:10:21  revo
+Wolfram Diestel: referenco al listo zoo genroj
+
+Revision 1.21  2013/08/31 16:10:54  revo
+Wolfram Diestel: ~oformaj: referenco al listo zoo ordoj
+
+Revision 1.20  2011/12/12 19:10:10  revo
+Marc Rausell: +trd ca
+
+Revision 1.19  2006/02/24 17:36:04  revo
+Tulio Flores: +trd pt
+
+Revision 1.18  2005/06/28 20:26:16  revo
+Alan ar Gall: +trd br
+
+Revision 1.17  2005/01/12 18:20:20  revo
+Vito Redsky: +trd pl
+
+Revision 1.16  2003/07/15 16:30:53  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.15  2002/07/10 18:07:36  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.14  2001/12/11 18:25:18  revo
+Yury Finkel: +trd ru
+
+Revision 1.13 2001/08/27 18:16:27 revo
+Paul Peeraerts: ald trd nl
+
+Revision 1.12 2001/05/05 13:01:26 revo
+papag.0edoj -> papage.0oj
+
+Revision 1.11 2001/05/05 13:00:35 revo
+shovis papag.0edoj al papage.0oj
+
+Revision 1.10 2000/12/10 18:46:44 revo
+uzo tip=stl
+
+Revision 1.9 2000/06/07 20:29:06 revo
+Wolfram Diestel: prilaboris dif, distingo inter snc ZOO kaj KOMUNE,
++papagedoj,+papagoformaj
+
+Revision 1.8 2000/01/26 16:34:32 revo
+Alain Fagot: fr. trd. + ZOO por snc 1
+
+Revision 1.7 2000/01/24 17:40:27 revo
+Lars Soezueer: sxovis <trd> en
+<drv>
+  Revision 1.6 2000/01/21 15:03:18 revo
+  -->
+  </vortaro>

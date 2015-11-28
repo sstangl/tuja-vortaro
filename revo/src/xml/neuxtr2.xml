@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: neuxtr2.xml,v 1.17 2011/12/07 19:10:14 revo Exp $">
+<kap>
+  <rad>ne&ubreve;tron</rad>/o
+</kap>
+<drv mrk="neuxtr2.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">FIZ</uzo>
+  <snc>
+    <dif>
+      <ref tip="super" cel="nukleon.0o">Nukleono</ref>
+      kun maso 1840-oble pli granda ol tiu de elektrono,
+      <ref tip="vid" cel="spin2.0o">spino</ref> 1/2
+      kaj nula elektra &scirc;argo:
+      <ekz>
+        libera <tld/>o ne estas stabila, sed post kelkaj minutoj
+        spontanee diseri&gcirc;as al <ref cel="proton.0o">protono</ref>,
+        <ref cel="elektr14.0o">elektrono</ref> kaj
+        <ref cel="neuxtr3.0o">ne&ubreve;trino</ref>.
+      </ekz>
+    </dif>
+    <ref tip="malprt" cel="atom.0o">atomo</ref>
+    <ref tip="prt" cel="kvark.0o">kvarko</ref>
+    <refgrp tip="vid">
+      <ref cel="barjon.0o">barjono</ref>,
+      <ref cel="partik2.0o">partiklo</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_n;&c_e;&c_w;&c_t;&c_r;&c_o;&c_n;</trd>
+  <trd lng="ca">neutr&oacute;</trd>
+  <trd lng="de">Neutron</trd>
+  <trd lng="el">&omikron;&ypsilon;&delta;&epsilon;&tau;&epsilon;&rho;&omikron_ton;&ny;&jota;&omikron;</trd>
+  <trd lng="en">neutron</trd>
+  <trd lng="es">neutr&oacute;n</trd>
+  <trd lng="fa">&a_n;&a_w;&a_t;&a_r;&a_w;&a_n;</trd>
+  <trd lng="fr">neutron</trd>
+  <trd lng="hu">neutron</trd>
+  <trd lng="nl">neutron</trd>
+  <trd lng="pl">neutron</trd>
+  <trdgrp lng="pt">
+    <trd>n&ecirc;utron</trd>,
+    <trd>neutr&atilde;o <klr>(Port.)</klr></trd>
+    <trd>n</trd>    
+  </trdgrp>
+  <trd lng="ru">&c_n;&c_je;&c_j;&c_t;&c_r;&c_o;&c_n;</trd>
+</drv>
+</art>
+<!--
+$Log: neuxtr2.xml,v $
+Revision 1.17  2011/12/07 19:10:14  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.16  2009/06/29 18:04:58  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.15  2009/02/10 14:19:19  revo
+Sebastian Cyprych: -fusxaj linirompoj en trd
+
+Revision 1.14  2008/05/27 16:30:58  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.13  2006/06/18 16:33:22  revo
+Tulio Flores: +tr pt
+
+Revision 1.12  2003/08/26 16:30:48  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.11  2002/12/13 17:32:08  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.10  2002/06/17 17:32:21  revo
+-->
+</vortaro>

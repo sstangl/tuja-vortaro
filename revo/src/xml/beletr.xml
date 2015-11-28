@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: beletr.xml,v 1.17 2010/05/24 16:30:28 revo Exp $">
+<kap>
+  <ofc>9</ofc>
+  <rad>beletr</rad>/o
+</kap>
+<drv mrk="beletr.0o">
+  <kap><ofc>9</ofc><tld/>o</kap>
+  <snc mrk="beletr.0o.BELE">
+    <uzo tip="fak">BELE</uzo>
+    <fnt><bib>PV</bib></fnt>
+    <dif>
+      Arta literaturo plezurocela a&ubreve; distrocela, precipe tia,
+      kiu rakontas pri okaza&jcirc;oj kaj personoj imagitaj.
+      <!-- Literaturo la&ubreve; la artisma vidpunkto.-->
+    </dif>
+    <ref tip="sin" cel="litera.bela0o">bela literaturo</ref>
+    <ref tip="vid" cel="beletr1.0o.BELE">beletristiko <sncref/></ref>
+  </snc>
+  <trd lng="be">&c_m;&c_a;&c_s;&c_t;&c_a;&c_c;&c_k;&c_a;&c_ja;
+  &c_l;&c_ib;&c_t;&c_a;&c_r;&c_a;&c_t;&c_u;&c_r;&c_a;</trd>
+  <trdgrp lng="en">
+    <trd>literature</trd>,
+    <trd>letters</trd>,
+    <trd>belles lettres</trd>
+  </trdgrp>
+  <trd lng="es">letras</trd>
+  <trdgrp lng="fr">
+    <trd>art de l'&eacute;crivain</trd>,
+    <trd>litt&eacute;rature<klr tip="ind"> (art de
+    l'&eacute;crivain)</klr></trd>,
+    <trd>lettres<klr tip="ind"> (art de l'&eacute;crivain)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="it">
+    <trd>lettere</trd>,
+    <trd>belle lettere</trd>
+  </trdgrp>
+  <trd lng="pl">beletrystyka</trd>
+  <trd lng="hu">sz&eacute;pirodalom</trd>
+  <trd lng="ru">&c_h;&c_u;&c_d;&c_o;&c_zh;&c_je;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_a;&c_ja;
+  &c_l;&c_i;&c_t;&c_je;&c_r;&c_a;&c_t;&c_u;&c_r;&c_a;</trd>
+  <trd lng="sk">beletria</trd>
+</drv>
+
+<drv mrk="beletr.0ajxo">
+  <kap><ofc>9</ofc><tld/>a&jcirc;o</kap>
+  <snc>
+    <dif>
+      Verko <tld/>a.
+    </dif>
+  </snc>
+  <trd lng="en">literary work</trd>
+  <trd lng="it">opera letteraria</trd>
+  <trd lng="pl">dzie&lstroke;o <ind>literackie</ind></trd>
+</drv>
+
+<drv mrk="beletr.0isto">
+  <kap><ofc>9</ofc><tld/>isto<fnt>Z</fnt></kap>
+  <snc mrk="beletr.0isto.BELE">
+    <dif>
+      <tld lit="B"/>a verkisto a&ubreve; specialisto.
+      <!-- Literaturisto, kiu verkas artisme: -->
+    </dif>
+  </snc>
+  <trdgrp lng="en">
+    <trd>author</trd>,
+    <trd>writer</trd>,
+    <trd>man of letters</trd>
+  </trdgrp>
+  <trd lng="fr">&eacute;crivain</trd>
+  <trd lng="it">letterato</trd>
+  <trdgrp lng="pl">
+    <trd>literat</trd>,
+    <trd>pisarz</trd>,
+    <trd>autor</trd>,
+    <trd>beletrysta<klr> (rzadkie)</klr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: beletr.xml,v $
+Revision 1.17  2010/05/24 16:30:28  revo
+Antonio Codazzi: +trd it
+
+Revision 1.16  2009/03/06 17:31:03  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.15  2009/03/01 17:31:35  revo
+Russ Williams: +trd en
+
+Revision 1.14  2008/11/19 09:28:39  revo
+Marc Bavant: konformigis al 9OA, mod trd fr; ~isto: -senutilan ekz!,
+sxovis fnt; artikola kapvorto: -fnt; ~o: +fnt, +sncref en ref al
+beletristiko
+
+Revision 1.13 2006/07/30 16:33:00 revo
+Jeromo Vasxe: - maltauxga fak
+Revision 1.12 2006/07/29 16:34:25 revo
+Jeromo Vasxe: memstar. ~isto, ~o + mrk
+Revision 1.11 2004/02/15 17:31:01 revo
+Dmitri Gabinski: +trd be
+Revision 1.10 2002/11/12 17:31:41 revo
+Christopher Zervic: + ang
+-->
+</vortaro>

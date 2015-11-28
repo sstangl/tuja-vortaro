@@ -1,0 +1,201 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: detekt1.xml,v 1.22 2015/07/04 08:37:32 revo Exp $">
+<kap>
+  <ofc>9</ofc><rad>detektiv</rad>/o
+  <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="detekt1.0o">
+  <kap><ofc>9</ofc><tld/>o</kap>
+  <snc mrk="detekt1.0o.polica">
+    <dif>
+      <ref cel="polic.0o">Polica</ref> esploristo, kies tasko estas
+      eltrovi 
+      la faktojn pri krimoj:
+      <!-- Policana investiganto, kiu provas eltrovi la bezonatajn
+      faktojn pri krimo. -->
+      <ekz>
+        Kant kovis senliman admiron por la
+        prototipo de siaj anglaj kolegoj de Scotland Yard, tiuj policaj
+        <tld/>oj <klr>[...]</klr> sen ioma eksciti&gcirc;o, kun la manoj
+        gracimaniere en la po&scirc;oj de la pluvmantelo
+        <fnt><bib>UrdHadda</bib>, <lok>p. 7</lok></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="ca">agent</trd>
+    <trdgrp lng="de">
+      <trd>Detektiv [Polizei in USA, Schweiz]</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>detective</trd>,
+      <trd>investigator</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>inspecteur de police</trd>
+      <trd>enqu&ecirc;teur</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>nyomoz&oacute;</trd>,
+      <trd>detekt&iacute;v</trd>
+    </trdgrp>
+    <trd lng="nl">detective</trd>
+    <trdgrp lng="pl">
+      <trd>detektyw</trd>,
+      <trd>&sacute;ledczy</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="detekt1.0o.privata">
+    <dif>
+      Privata esploristo, kiu provas eltrovi la faktojn pri krimoj
+      a&ubreve; aliaj aferoj, ekz. komisie de privatulo:
+      <!-- Privata investiganto, kiu provas eltrovi la bezonatajn
+      faktojn pri
+      io ajn, pagita de iu privatulo: -->
+      <ekz>
+        Baniko forte dubas pri la fideleco de sia edzino
+        <klr>[kaj]</klr> &ccirc;ar 
+        li devas forvoja&gcirc;i, li komisias al detektivo kontroladon
+        de s-ino Baniko
+        <fnt><aut>L. Beaucaire</aut>, <vrk>Kruko kaj Baniko el
+        Bervalo</vrk></fnt>;
+      </ekz>
+      <ekz>
+        la verkinto estas iu amatora <tld/>o, kiu intervjuis aron da
+        homoj, ne bone scipovante la francan
+        <fnt><aut>Wim M. A. De
+        Smet</aut>: <vrk>Kiu murdis Dian Fossey?</vrk>,
+        <bib>Monato</bib><lok>jaro 1995a, numero 12a, p.
+        23a</lok></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="ca">detectiu</trd>
+    <trdgrp lng="de">
+      <trd>Detektiv</trd>,
+      <trd>Privatdetektiv</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>detective</trd>,
+      <trd>investigator</trd>,
+      <trd>private eye</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>d&eacute;tective</trd>
+      <trd>priv&eacute;<klr tip="ind"> (subst.)</klr></trd>
+    </trdgrp>
+    <trd lng="nl">priv&eacute;detective</trd>
+    <trd lng="pl"><klr>prywatny </klr>detektyw</trd>
+  </snc>
+  <snc mrk="detekt1.0o.sekretpolicano">
+    <uzo tip="stl">EVI</uzo>
+    <fnt><bib>PV</bib></fnt>
+    <fnt><bib>PIV1</bib></fnt>
+    <dif>
+      Ano de sekreta polico, e&ccirc; privata; ka&scirc;policano:
+      <ekz>
+        sekretaj <tld/>oj observadas ilin, por raporti al la re&gcirc;o
+        &ccirc;iun signeton de intrigoj &ccirc;e la kortegoj de Hindaj
+        princoj kontra&ubreve; la Babela regno
+        <fnt><bib>I&scirc;tar</bib><lok>&ccirc;ap. 23</lok></fnt>.
+      </ekz>
+    </dif>
+    <rim mrk="detekt1.0o.RIM">
+      La difino, kiun oni retrovas sen&scirc;an&gcirc;e en PIV1, ne tro
+      helpas kompreni la intencon. La samo direblas pri la sinonimo 
+      <ctl>ka&scirc;policano</ctl>, malofte uzata kaj kun malsamaj
+      signifoj: policano en civilaj vestoj, 
+      <tld/>o <sncref ref="detekt1.0o.privata"/>, ano de sekreta
+      polico...
+    </rim>
+    <trd lng="ca">policia secret</trd>
+    <trdgrp lng="de">
+      <trd>Angeh&ouml;riger der Geheimpolizei</trd>,
+      <trd>Geheimpolizist</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>titkosrend&odblac;r</trd>,
+      <trd>detekt&iacute;v</trd>
+    </trdgrp>
+    <trdgrp lng="nl">
+    <trd>stille <ind>politieagent</ind></trd>,
+    <trd><ind>politieagent</ind> in burger</trd>,
+    <trd>geheime <ind>politieagent</ind></trd>
+  </trdgrp>
+    <trdgrp lng="pl">
+      <trd>detektyw</trd>,
+      <trd>tajniak</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="be">&c_d;&c_e;&c_t;&c_e;&c_k;&c_t;&c_y;&c_w;
+  <klr>(&c_p;&c_r;&c_a;&c_f;&c_e;&c_s;&c_ib;&c_ja;)</klr></trd>
+  <trd lng="es">detective</trd>
+  <trdgrp lng="hu">
+    <trd>mag&aacute;nnyomoz&oacute;</trd>,
+    <trd>detekt&iacute;v</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>detetive</trd>,
+    <trd>investigador <klr tip="amb">(policial)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_y;&c_shch;&c_i;&c_k;</trd>,
+    <trd>&c_d;&c_je;&c_t;&c_je;&c_k;&c_t;&c_i;&c_v;</trd>
+  </trdgrp>
+  <trd lng="sk">detekt&iacute;v</trd>
+</drv>
+
+<drv mrk="detekt1.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>x</vspec></gra>
+  <snc mrk="detekt1.0i.KOMUNE">
+    <dif>
+      Agi kiel a&ubreve; simile al <tld/>o,
+      <ref tip="vid" cel="enket.0i">enketadi</ref>,
+      <ref tip="vid" cel="esplor.0i">esploradi</ref>,
+      <ref tip="vid" cel="spur.0i">spuri</ref>:
+      <ekz>
+        mi hontas, ke tiel malmulte mi konas lian vivovojon; sed mi ne 
+        emas <tld/>i &gcirc;in
+        <fnt><aut>B. Vaha</aut>, <vrk>Adolesko</vrk>, 
+        <lok>1987</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="ca">investigar</trd>
+  <trd lng="cs">pracovat jako detektiv</trd>
+  <trd lng="sk">pracovať ako detektív</trd>
+</drv>
+</art>
+<!--
+$Log: detekt1.xml,v $
+Revision 1.22  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.21  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.20  2012/08/04 11:10:24  revo
+Marc Rausell: + trd ca
+
+Revision 1.19  2010/01/02 17:30:57  revo
+Jeromo Vasxe: + ~i
+
+Revision 1.18  2009/10/25 17:31:33  revo
+Paul Peeraerts: +nl
+
+Revision 1.17  2009/06/05 16:30:54  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.16  2009/02/15 14:17:19  revo
+Russ Williams: +trd en
+
+Revision 1.15  2008/12/22 17:30:24  revo
+Marc Bavant: konformigis al 9OA; ~o: -adm, intersxovis snc-ojn; ~o3:
++ekz, +rim
+
+Revision 1.14 2007/07/23 16:31:20 revo
+Tulio Flores: +tr pt
+Revision 1.13 2003/12/13 17:32:07 revo
+-->
+</vortaro>

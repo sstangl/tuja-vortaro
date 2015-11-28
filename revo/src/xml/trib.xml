@@ -1,0 +1,139 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: trib.xml,v 1.20 2015/07/04 08:37:45 revo Exp $">
+<kap>
+  <ofc>9</ofc><rad>trib</rad>/o <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="trib.0o">
+  <kap><ofc>9</ofc><tld/>o</kap>
+  <snc mrk="trib.0o.ETN">
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      Parto de
+      <ref tip="malprt" cel="naci.0o.popolo">nacio</ref>
+      kun ne-&scirc;tata organizo, &gcirc;enerale ariganta plurajn
+      <ref tip="prt" cel="gent.0o.familio">gentojn</ref>.
+    </dif>
+    <subsnc mrk="trib.0o.HIS">
+      <uzo tip="fak">HIS</uzo>
+      <dif>
+        En la antikva grek-romia kulturo grupo de
+        <ref tip="prt" cel="kuri.0o.HIS">kurioj</ref>
+        a&ubreve; <ref tip="prt" cel="fratri.0o.HIS">fratrioj</ref>
+        starigita por administraj celoj.
+      </dif>
+      <trdgrp lng="pl">
+        <trd>plemi&eogonek;</trd>,
+        <trd>szczep</trd>,
+        <trd>klan</trd>
+      </trdgrp>
+    </subsnc>
+    <subsnc mrk="trib.0o.BIB">
+      <uzo tip="fak">BIB</uzo>
+      <dif>
+        Idaro de &ccirc;iu el la dekdu hebreaj prapatroj.
+      </dif>
+    </subsnc>
+    <refgrp tip="vid">
+      <ref cel="klan.0o">klano</ref>.
+    </refgrp>
+  </snc>
+  <snc mrk="trib.0o.BIO">
+    <uzo tip="fak">BIO</uzo>
+    <dif>
+      &Scirc;tupo de la botanika kaj zoologia klasifikoj,
+      malpli vasta ol <ref tip="malprt"
+      cel="famili.0o.BIO">familio</ref>,
+      pli vasta ol <ref tip="prt" cel="genr.0o.BIO">genro</ref>,
+      (<trd lng="la">tribus</trd>):
+      <ekz>
+        en la kata <tld/>o, la plejo de specioj estas striaj
+        a&ubreve; strie makulaj
+        <fnt><bib>OriginoDeSpecioj</bib>, <lok>&ccirc;apitro
+        13a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_l;&c_je;&c_m;&c_ja;</trd>
+  <trd lng="de">Stamm</trd>
+  <trd lng="en">tribe</trd>
+  <trd lng="es">tribu</trd>
+  <trd lng="fr">tribu</trd>
+  <trd lng="hu">t&ouml;rzs</trd>
+  <trd lng="it">trib&ugrave;</trd>
+  <trd lng="ca">tribu</trd>
+  <trdgrp lng="nl">
+    <trd>stam</trd>,
+    <trd>volksstam</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>plemi&eogonek;</trd>,
+    <trd>r&oacute;d</trd>,
+    <trd>pokolenie</trd>
+  </trdgrp>
+  <trd lng="pt">tribo</trd>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_l;&c_je;&c_m;&c_ja;</trd>,
+    <trd>&c_r;&c_o;&c_d;</trd>,
+    <trd>&c_k;&c_o;&c_l;&c_je;&c_n;&c_o;
+    <klr tip="ind"> (&c_r;&c_o;&c_d;)</klr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="trib.0estro">
+  <kap><tld/>estro</kap>
+  <snc mrk="trib.0estro.ETN">
+    <dif>
+      Gvidanto de
+      <ref tip="vid" cel="trib.0o.ETN"><tld/>o</ref>:
+      <ekz>
+        la <tld/>estro lin atendis staranta
+        <fnt><aut>E. de Zilah</aut>, <vrk>La Princo &ccirc;e la
+        Hunoj</vrk>, 
+        <lok>2011</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>kmenový náčelník</trd>,
+    <trd>náčelník kmene</trd>
+  </trdgrp>
+  <trd lng="es">jefe de tribu</trd>
+  <trd lng="fr">chef de tribu</trd>
+  <trd lng="sk">náčelník kmeňa</trd>
+</drv>
+</art>
+<!--
+$Log: trib.xml,v $
+Revision 1.20  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:40:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2015/04/05 11:10:16  revo
+Carlos Garcia: +trd es -o -estro
+
+Revision 1.17  2015/04/04 20:10:16  revo
+Josep-Enric Peres-i-Blesa: Aldono de nova traduko (kataluna)
+
+Revision 1.16  2014/06/10 19:10:12  revo
+Jeromo Vasxe: + ~estro
+
+Revision 1.15  2012/10/24 00:10:09  revo
+Jeromo Vasxe: + snc bio
+
+Revision 1.14  2012/10/20 16:10:09  revo
+Jeromo Vasxe: snc / subsnc, + fak, + trd fr
+
+Revision 1.13  2009/03/18 17:31:26  revo
+Antonio Codazzi: +trd it
+
+Revision 1.12  2009/03/01 17:34:09  revo
+Russ Williams: + 9OA
+
+Revision 1.11  2007/11/05 17:30:25  revo
+-->
+</vortaro>

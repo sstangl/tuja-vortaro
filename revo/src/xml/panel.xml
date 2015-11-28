@@ -1,0 +1,191 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: panel.xml,v 1.21 2015/07/04 08:37:41 revo Exp $">
+<kap>
+  <ofc>4</ofc>
+  <rad>panel</rad>/o <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="panel.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="panel.0o.ARKI">
+    <uzo tip="fak">ARKI</uzo>
+    <dif>
+      Modlure enkadrigita parto de vando, meblo kaj similaj:
+      <ekz>
+        longaj vicoj da <tld/>oj
+        <fnt><bib>I&scirc;tar</bib>, <lok>&ccirc;apitro 11a, pluaj
+        insidoj</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_a;&c_n;&c_e;&c_l;&c_mol;</trd>,
+    <trd>&c_p;&c_a;&c_n;&c_o;</trd>
+  </trdgrp>
+  <trdgrp lng="ca">
+    <trd>panell</trd>,
+    <trd>plaf&oacute;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>palubní deska</trd>,
+    <trd>přístrojová deska</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Paneel</trd>,
+    <trd>T&auml;felung</trd>
+  </trdgrp>
+  <trd lng="en">panel</trd>
+  <trd lng="es">panel</trd>
+  <trd lng="fr">panneau<klr tip="amb"> (ameublement)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>t&aacute;bla</trd>,
+    <trd>keretes <ind>falmez&odblac;</ind></trd>
+  </trdgrp>
+  <trd lng="nl">paneel</trd>
+  <trd lng="pt">almofada <klr>(de portas, janelas etc.)</klr></trd>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_a;&c_n;&c_je;&c_l;&c_mol;</trd>,
+    <trd>&c_p;&c_a;&c_n;&c_n;&c_o;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>palubná doska</trd>,
+    <trd>prístrojová doska</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="panel.kontrol0o">
+  <kap>kontrol<tld/>o</kap>
+  <snc mrk="panel.kontrol0o.TEK">
+    <uzo tip="fak">KOMP</uzo>
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      <tld lit="P"/>o, en kiu kunestas indikiloj,
+      mezuriloj, alarmiloj pri funkciado de io:
+      <ekz>
+        de mia loko estis videbla kontrol<tld/>o anta&ubreve; la analizisto
+        <fnt>
+          <aut>G. Altov, trad. J. Finkel</aut>,
+          <vrk><url ref="http://www.esperanto.mv.ru/TRIZ/kronod.html">
+          La tria jarmilo</url></vrk>,
+          <lok>[vidita en 2012]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="panel.reg0o.TEK">reg<tld/>o</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_n;&c_e;&c_l;&c_mol; &c_k;&c_ib;&c_r;&c_a;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_ja;</trd>
+  <trd lng="en">dashboard</trd>
+  <trd lng="es">panel de control</trd>
+  <trd lng="fr">tableau de bord</trd>
+</drv>
+
+<drv mrk="panel.reg0o">
+  <kap>reg<tld/>o, <var><kap>stir<tld/>o</kap></var></kap>
+  <snc mrk="panel.reg0o.TEK">
+    <uzo tip="fak">KOMP</uzo>
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      <tld lit="P"/>o, en kiu kunestas la regiloj,
+      stiriloj, butonoj de ma&scirc;ino a&ubreve; ma&scirc;inaro:
+      <ekz>
+        startigu la Vindozan reg<tld/>on
+        kaj elektu regionajn kaj lingvajn agordojn
+        <fnt>
+          <aut>-</aut>,
+          <vrk><url
+          ref="http://www.bonalingvo.org/index.php/Supersigne">
+          Supersigne</url></vrk>,
+          <lok>2008</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        vi bezonos tiun pasvorton post la instalado
+        por ensaluti en la administra stir<tld/>o
+        <fnt>
+          <aut>-</aut>,
+          <vrk><url
+          ref="http://itx-technologies.com/joomla/nav.php?installation/language/eo-XX/eo-XX.ini.source.php">
+          Joomla</url></vrk>,
+          <lok>2010</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="panel.kontrol0o.TEK">kontrol<tld/>o</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_a;&c_n;&c_e;&c_l;&c_mol; &c_k;&c_ib;&c_r;&c_a;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_ja;</trd>,
+    <trd>&c_p;&c_u;&c_l;&c_mol;&c_t; &c_k;&c_ib;&c_r;&c_a;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_ja;</trd>
+  </trdgrp>
+  <trd lng="en">dashboard</trd>
+  <trdgrp lng="es">
+    <trd>panel de control</trd>,
+    <trd>salpicadero</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>pupitre de commande</trd>,
+    <trd>tableau de bord</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="panel.sun0o">
+  <kap>sun<tld/>o</kap>
+  <snc mrk="panel.sun0o.TEK">
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      Plato ekipita per
+      <ref tip="prt" cel="cxel.sun0o.TEK">sun&ccirc;eloj</ref>
+      kaj provizanta energion:
+      <ekz>
+        mediprotekta grupo komencis <klr>...</klr> kampajnon
+        por provizi la vila&gcirc;anojn per sun<tld/>oj
+        <fnt>
+          <aut>Lee Yoo Eun, trad. Adamo</aut>,
+          <vrk><url ref="https://eo.globalvoicesonline.org/2013/11/330">
+          Suda Koreio: Retuzantoj donacas...</url></vrk>,
+          <lok>GlobalVoices, 2013-11-05</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="es">panel solar</trd>
+  <trd lng="fr">panneau solaire</trd>
+</drv>
+</art>
+<!--
+$Log: panel.xml,v $
+Revision 1.21  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:40:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.19  2014/12/20 18:10:09  revo
+Guillermo Molleda Jimena: trd es
+
+Revision 1.18  2014/02/15 02:10:13  revo
+Jeromo Vasxe: + sun~o
+
+Revision 1.17  2013/03/09 16:10:18  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.16  2012/03/07 12:10:09  revo
+Jeromo Vasxe: + kontrol/reg~o
+
+Revision 1.15  2011/12/07 01:10:10  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.14  2009/06/29 18:07:16  revo
+Russ Williams: +trd en
+
+Revision 1.13  2006/02/24 17:35:42  revo
+Tulio Flores: +trd pt
+
+Revision 1.12  2005/08/17 16:31:14  revo
+-->
+</vortaro>

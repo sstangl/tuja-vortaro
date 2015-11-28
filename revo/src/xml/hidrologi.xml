@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: hidrologi.xml,v 1.5 2012/07/14 10:10:14 revo Exp $">
+<kap>
+  <rad>hidrologi</rad>/o <fnt><bib>PIV2</bib></fnt>
+</kap>
+<drv mrk="hidrologi.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="hidrologi.0o.SCI">
+    <ref tip="dif" cel="akv.0oscienco.SCI">akvoscienco</ref>
+      <ekz>
+        <ctl>Raciigo de sciencteknikaj laboroj en meteorologio kaj 
+        <tld/>o</ctl>
+        <fnt>
+          <aut>P. Dobe&scirc;</aut>,
+          <vrk>en: Raciigo en scienco kaj tekniko</vrk>,
+          <lok>AEST, 1988</lok>
+        </fnt>.
+      </ekz>
+      <ekz>
+        la &Ccirc;ina Meteorologia Akademio kalkulis la akvorezervon de
+        &Ccirc;inio 
+        la&ubreve; la teorioj de <tld/>o
+        <fnt>
+          <aut>-</aut>,
+          <vrk><url
+          ref="http://www.chinareport.com.cn/18s/lianghui/rd2002-9.htm">
+          Por radikale solvi la problemon de akvomanko en norda 
+          &Ccirc;inio</url></vrk>,
+          <lok>[2003-09]</lok>
+        </fnt>
+      </ekz>
+  </snc>
+  <trd lng="ca">hidrologia</trd>
+  <trd lng="de">Hydrologie</trd>
+  <trd lng="fr">hydrologie</trd><trdgrp lng="nl">
+    <trd>waterbouwkunde</trd>,
+    <trd>hydrologie</trd>
+  </trdgrp>
+  <trd lng="it">idrologia</trd>
+</drv>
+</art>
+
+<!--
+$Log: hidrologi.xml,v $
+Revision 1.5  2012/07/14 10:10:14  revo
+Marc Rausell: + trd ca
+
+Revision 1.4  2011/06/24 19:10:21  revo
+Dominique Pelle: lau -> laux
+
+Revision 1.3  2009/08/21 16:31:31  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.2  2008/11/02 17:30:52  revo
+Peter Hauser: aldono de germana traduko
+
+Revision 1.1  2007/06/28 16:32:04  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

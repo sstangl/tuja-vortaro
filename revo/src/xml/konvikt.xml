@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: konvikt.xml,v 1.5 2015/07/04 08:37:38 revo Exp $">
+<kap>
+  <rad>konvikt</rad>/i <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="konvikt.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="konvikt.0i.JUR">
+    <uzo tip="fak">JUR</uzo>
+    <dif>
+      Pruvi kulpa per demonstroj, atestoj...:
+      <ekz>
+        li <tld/>is Wang pri &scirc;telado de publika mono
+        <fnt>
+          <aut>T. B. Talovich, trad. Miaohui</aut>,
+          <vrk><url
+          ref="http://www.lulu.com/items/volume_63/4005000/4005688/1/print/vivo-lulu.pdf">
+          Amo al la Vivoj</url></vrk>,
+          <lok>[2008?]</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        diru al inspektoro Patersono ke la dokumentoj, kiujn li bezonos 
+        por <tld/>i la bandon, estas en faketo <ctl>M</ctl>
+        <fnt>
+          <aut>A. Conan Doyle, trad D. Booton</aut>,
+          <vrk><url
+          ref="http://members.cox.net/esperanto/finaprob/fina.htm">
+          La Fina Problemo</url></vrk>,
+          <lok>[vidita en 2011]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">usvědčovat z</trd>
+  <trdgrp lng="es">
+    <trd>condenar<klr tip="amb"> (en un juicio)</klr></trd>,
+    <trd>hacer convicto<klr tip="amb"> (a alguien)</klr></trd>
+  </trdgrp>
+  <trd lng="fr">convaincre<klr> (jur.)</klr></trd>
+  <trd lng="sk">usvedčovať <klr>(z)</klr></trd>
+</drv>
+
+<drv mrk="konvikt.0ajxo">
+  <kap><tld/>a&jcirc;o</kap>
+  <snc mrk="konvikt.0ajxo.JUR">
+    <uzo tip="fak">JUR</uzo>
+    <dif>
+      A&jcirc;o konsistiganta pruvon de kulpeco,
+      uzebla por <tld/>i:
+      <ekz>
+        li uzis sulfurajn alumetojn, sed ne la svedajn;
+        la alumeto eble estos <tld/>a&jcirc;o
+        <fnt>
+          <aut>A. &Ccirc;e&hcirc;ov, trad. A. Kor&jcirc;enkov</aut>,
+          <vrk><url
+          ref="http://www.esperanto-ondo.ru/Libroj/V_bibl02.pdf">
+          Sveda alumeto</url></vrk>,
+          <lok>2004-2010</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">pi&egrave;ce &agrave; conviction</trd>
+</drv>
+</art>
+
+<!--
+$Log: konvikt.xml,v $
+Revision 1.5  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.4  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.3  2014/11/03 21:10:26  revo
+Jeromo Vasxe: + ~ajxo
+
+Revision 1.2  2011/07/13 19:11:38  revo
+Agustin Garcia Lopez: +trd (es)
+
+Revision 1.1  2011/06/28 14:10:09  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

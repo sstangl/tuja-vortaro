@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: jxuri.xml,v 1.16 2014/11/14 03:10:21 revo Exp $">
+<kap>
+  <rad>&jcirc;uri</rad>/o <fnt><bib>SPV</bib></fnt>
+</kap>
+<drv mrk="jxuri.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="jxuri.0o.JUR">
+    <uzo tip="fak">JUR</uzo>
+    <dif>
+      Aro da simplaj civitanoj elektitaj por verdikti en
+      <ref tip="vid" cel="tribun1.0o">tribunalo</ref>
+      pri la kulpeco de akuzito, apogante sin nur sur la decido de
+      sia konscienco:
+      <ekz>
+        la <tld/>o verdiktas nur pri la fakto, la ju&gcirc;istoj
+        decidas pri la le&gcirc;a puno.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="jxuri.0o.SPO">
+    <uzo tip="fak">BELA</uzo>
+    <uzo tip="fak">SPO</uzo>
+    <dif>
+      Grupo de homoj komisiita por alju&gcirc;o de poentoj,
+      de premio, de rango en konkurso:
+      <ekz>
+        la &jcirc;urio havis malfacilan taskon por alju&gcirc;i premiojn
+        <fnt>
+          <aut>M. Komarnicka</aut>,
+          <vrk>Vroclavo kantas esperantajn kantojn</vrk>,
+          <lok><url ref="http://zagreba-esperantisto.hr">
+          Zagreba Esperantisto</url>, 2014-05-28</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="bg">&c_zh;&c_u;&c_r;&c_i;</trd>
+  <trd lng="ca">jurat</trd>
+  <trd lng="de">Jury</trd>
+  <trd lng="el">
+  &epsilon_ton;&ny;&omikron;&rho;&kappa;&omikron;&sigma_fina;
+  </trd>
+  <trd lng="en">jury</trd>
+  <trd lng="es">jurado</trd>
+  <trd lng="fa">&a_h;&f_y;&a_y_hamza;&a_t; &a_m;&a_n;&a_S;&a_f;&a_h;</trd>
+  <trd lng="fr">jury</trd>
+  <trd lng="he">
+  &het;&bet;&resh; &mem;&vav;&shin;&bet;&ayin;&yod;&fmem;
+  </trd>
+  <trdgrp lng="hu">
+    <trd>esk&uuml;dtek</trd>,
+    <trd>&uuml;ln&ouml;k&ouml;k</trd>
+  </trdgrp>
+  <trd lng="id">juri</trd>
+  <trd lng="it">giuria</trd>
+  <trd lng="nl">jury</trd>
+  <trdgrp lng="pl">
+    <trd>&lstroke;awa <ind>przysi&eogonek;g&lstroke;ych</ind></trd>,
+    <trd>jury</trd>
+  </trdgrp>
+  <trd lng="pt">jurado</trd>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_r;&c_i;&c_s;&c_ja;&c_zh;&c_n;&c_y;&c_je;</trd>,
+    <trd>&c_zh;&c_ju;&c_r;&c_i;
+    &c_p;&c_r;&c_i;&c_s;&c_ja;&c_zh;&c_n;&c_y;&c_h;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="jxuri.0ano">
+  <kap><tld/>ano</kap>
+  <snc mrk="jxuri.an0o.JUR">
+    <uzo tip="fak">JUR</uzo>
+    <dif>
+      Membro de <tld/>o:
+      <ekz>
+        asiza <tld/>ano
+        <fnt><bib>PIV2</bib></fnt>
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="ca">jurat<klr> (membre d'un jurat)</klr></trd>
+  <trd lng="fa">&a_ayn;&a_D;&a_w; <ind>&a_h;&f_y;&a_y_hamza;&a_t; &a_m;&a_n;&a_S;&a_f;&a_h;</ind></trd>
+  <trd lng="fr">jur&eacute;<klr> (membre de jury)</klr></trd>
+  <trd lng="id"><ind>anggota</ind> juri</trd>
+  <trd lng="it">giurato</trd>
+  <trdgrp lng="pl">
+    <trd>&lstroke;awnik</trd>,
+    <trd>cz&lstroke;onek &lstroke;awy <ind>przysi&eogonek;g&lstroke;ych
+    </ind></trd>,
+    <trd>juror</trd>,
+    <trd>cz&lstroke;onek <ind>jury</ind></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: jxuri.xml,v $
+Revision 1.16  2014/11/14 03:10:21  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.15  2014/06/05 01:10:17  revo
+Jeromo Vasxe: + snc spo
+
+Revision 1.14  2012/07/31 09:10:17  revo
+Marc Rausell: + trd ca
+
+Revision 1.13  2009/08/18 19:18:14  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.12  2009/03/12 17:31:11  revo
+Wieland Pusch: +trd bg
+
+Revision 1.11  2009/03/10 17:31:24  revo
+Antonio Codazzi: ~o: korek trd it, ~ano: korek de kap, +trd it
+
+Revision 1.10  2007/10/29 17:30:30  revo
+Sebastian Cyprych: +drv ~ano +trd pl
+
+Revision 1.9  2005/01/28 17:31:20  revo
+-->
+</vortaro>

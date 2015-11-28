@@ -1,0 +1,160 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: kilogr.xml,v 1.27 2015/07/04 08:37:37 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>kilogram</rad>/o
+</kap>
+
+<drv mrk="kilogr.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">FIZ</uzo>
+  <mlg kod="SI">kg</mlg>
+  <snc>
+    <dif>
+      Baza <ref tip="lst" cel="unu.mezur0o"
+      lst="voko:kvantoj">mezurunuo</ref> de 
+      <ref cel="mas.0o.FIZ">maso</ref> en la Internacia Sistemo de
+      unuoj:
+      <ekz>
+        unu <tld/>o egalas al la maso de prototipa pesilo el
+        iridia-platena
+        alojo, konservata en S&egrave;vres apud Parizo (Francujo).
+      </ekz>
+    </dif>
+    <trd lng="be">&c_k;&c_ib;&c_l;&c_a;&c_g;&c_r;&c_a;&c_m;</trd>
+    <trd lng="ca">quilogram</trd>
+    <trdgrp lng="de">
+      <trd>Kilogramm</trd>,
+      <trd>Kilo</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>kilogram</trd>,
+      <trd>kilo</trd>
+    </trdgrp>
+    <trd lng="es">kilogramo</trd>
+    <trdgrp lng="fr">
+      <trd>kilogramme</trd>,
+      <trd>kilo</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>kilogramm</trd>,
+      <trd>kil&oacute;</trd>
+    </trdgrp>    
+    <trdgrp lng="id">
+      <trd>kilo</trd>,
+      <trd>kilogram</trd>
+    </trdgrp>
+    <trdgrp lng="nl">
+      <trd>kilogram</trd>,
+      <trd>kilo</trd>
+    </trdgrp>
+    <trd lng="ru">&c_k;&c_i;&c_l;&c_o;&c_g;&c_r;&c_a;&c_m;&c_m;</trd>
+  </snc>
+  <trd lng="cs">kilogram</trd>
+  <trd lng="sk">kilogram</trd>
+</drv>
+<drv mrk="kilogr.0forto">
+  <kap><tld/>forto</kap>
+  <uzo tip="fak">FIZ</uzo>
+  <snc>
+    <dif>
+      <ref tip="lst" cel="unu.mezur0o"
+      lst="voko:mezurunuoj">Mezurunuo</ref> de 
+      <ref cel="fort.0o.FIZ">forto</ref>, egala al la gravitoforto
+      estigata de 
+      Tero &ccirc;e korpo kun maso je unu <tld/>o, egala al 9,81 
+      <ref cel="neuxto.n0o">ne&ubreve;tonoj</ref>; simb. kgf.
+    </dif>
+  </snc>
+  <trd lng="be">&c_k;&c_ib;&c_l;&c_a;&c_g;&c_r;&c_a;&c_m;-&c_s;&c_ib;&c_l;&c_a;</trd>
+  <trd lng="cs">kilogram</trd>
+  <trd lng="de">Kilopond</trd>
+  <trdgrp lng="fr">
+    <trd><ind>kilogramme</ind>-force</trd>,
+    <trd><ind>kilogramme</ind>-poids</trd>
+  </trdgrp>
+  <trd lng="hu">kilogramm-er&odblac;</trd>
+  <trd lng="nl">kilogramkracht</trd>
+  <trd lng="ru">&c_k;&c_i;&c_l;&c_o;&c_g;&c_r;&c_a;&c_m;&c_m;-&c_s;&c_i;&c_l;&c_a;</trd>
+  <trd lng="sk">kilogram</trd>
+</drv>
+
+<drv mrk="kilogr.0metro">
+  <kap><tld/>metro</kap>
+  <uzo tip="fak">FIZ</uzo>
+  <snc>
+    <dif>
+      <ref tip="lst" cel="unu.mezur0o"
+      lst="voko:mezurunuoj">Mezurunuo</ref>, esprimanta la
+      laboron
+      necesan por levi unu <tld/>on je unu <ref
+      cel="metr.0o.unuo">metro</ref>, 
+      egala al 9,81 <ref cel="jxul.jx0o">&jcirc;uloj</ref>; simb. kgm.
+    </dif>
+  </snc>
+  <trd lng="be">&c_k;&c_ib;&c_l;&c_a;&c_g;&c_r;&c_a;&c_m;&c_a;&c_m;&c_e;&c_t;&c_a;&c_r;</trd>
+  <trd lng="de">Kilopondmeter</trd>
+  <trd lng="fr">kilogramm&egrave;tre</trd>
+  <trd lng="hu">kilogramm-m&eacute;ter</trd> 
+  <trd lng="nl">kilogrammeter</trd> 
+  <trdgrp lng="ru">
+    <trd>&c_k;&c_i;&c_l;&c_o;&c_g;&c_r;&c_a;&c_m;&c_m;-&c_s;&c_i;&c_l;&c_a;-&c_m;&c_je;&c_t;&c_r;</trd>,
+    <trd>&c_k;&c_i;&c_l;&c_o;&c_g;&c_r;&c_a;&c_m;&c_m;&c_o;&c_m;&c_je;&c_t;&c_r;</trd>
+  </trdgrp>
+</drv>
+<drv mrk="kilogr.0oenm3">
+  <kap><tld/>o en kuba metro</kap>
+  <uzo tip="fak">FIZ</uzo>
+  <snc>
+    <dif>
+      <ref tip="lst" cel="unu.mezur0o"
+      lst="voko:mezurunuoj">Mezurunuo</ref> de 
+      <ref cel="mas.volumena0o">volumena maso</ref> en la Internacia
+      Sistemo de 
+      unuoj; simb. kg/m<sup>3</sup>.
+    </dif>
+  </snc>
+  <trd lng="be">&c_k;&c_ib;&c_l;&c_a;&c_g;&c_r;&c_a;&c_m; &c_n;&c_a; &c_k;&c_u;&c_b;&c_ib;&c_ch;&c_n;&c_y; &c_m;&c_e;&c_t;&c_a;&c_r;</trd>
+  <trd lng="fr">kilogramme par m&egrave;tre cube</trd>
+  <trd lng="hu">kilogramm per k&ouml;bm&eacute;ter</trd> 
+  <trd lng="id"><ind>kilogram</ind>per meter kubik</trd>
+  <trd lng="nl"><ind>kilogram</ind> per kubieke meter</trd> 
+  <trd lng="ru">&c_k;&c_i;&c_l;&c_o;&c_g;&c_r;&c_a;&c_m;&c_m; &c_n;&c_a; &c_k;&c_u;&c_b;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j;
+  &c_m;&c_je;&c_t;&c_r;</trd>
+</drv>
+</art>
+<!--
+$Log: kilogr.xml,v $
+Revision 1.27  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.26  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.25  2014/07/01 17:10:43  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.24  2013/10/03 08:10:35  revo
+Wolfram Diestel: precizigis klason al voko:kvantoj
+
+Revision 1.23  2013/09/14 18:10:12  revo
+Wolfram Diestel: ref al lst mezurunoj , mlg
+
+Revision 1.22  2009/09/07 16:31:46  revo
+Paul Peeraerts: +nl
+
+Revision 1.21  2007/08/05 16:31:21  revo
+Wieland Pusch: +trd de
+
+Revision 1.20  2005/11/24 17:32:35  revo
+Raul Salinas Monteagudo: +trd ca,es
+
+Revision 1.19  2004/12/13 17:32:27  revo
+Marc Bavant: mod trd fr
+
+Revision 1.18  2004/08/23 16:32:41  revo
+-->
+</vortaro>

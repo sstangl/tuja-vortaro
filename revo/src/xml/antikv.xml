@@ -1,0 +1,249 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: antikv.xml,v 1.26 2015/07/04 08:37:30 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>antikv</rad>/a
+</kap>
+<drv mrk="antikv.0a">
+  <kap><ofc>*</ofc><tld/>a</kap>
+  <snc>
+    <dif>
+      Iam ekzistinta kaj de longe ne plu ekzistanta; pratempa:
+      <ekz>
+        la <tld/>a greka lingvo;
+      </ekz>
+      <ekz>
+        en la <ind><tld/>a tempo</ind>
+        <fnt><bib>MT</bib>, <lok>&Jeh; 38:17</lok></fnt>;
+        <trd lng="ca">els temps antics</trd>
+      </ekz>
+      <ekz>
+        demeti de si la <tld/>an Adamon
+        <klr>(plibonigi sian konduton)</klr><fnt><bib>PrV</bib></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="arkaik.0a">arkaika</ref>.
+    </refgrp>
+    <trd lng="ca">antic</trd>
+  </snc>
+  <snc>
+    <dif>
+      Tre malnova, malmoderna:
+      <ekz>
+        <tld/>a modo.
+      </ekz>
+    </dif>
+    <trdgrp lng="ca">
+      <trd>vell</trd>,
+      <trd>antiquat</trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_t;&c_a;&c_r;&c_a;&c_zh;&c_y;&c_t;&c_n;&c_y;</trd>,
+    <trd>&c_s;&c_t;&c_a;&c_r;&c_a;&c_d;&c_a;&c_w;&c_n;&c_ib;</trd>,
+    <trd>&c_a;&c_n;&c_t;&c_y;&c_ch;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trdgrp lng="br">
+    <trd>hen-</trd>,
+    <trd>kozh-kozh</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>antický</trd>,
+    <trd>starobylý</trd>
+  </trdgrp>
+  <trd lng="de">antik</trd>
+  <trdgrp lng="en">
+    <trd>ancient</trd>
+  </trdgrp>
+  <trd lng="es">antiguo</trd>
+  <trd lng="fr">antique<klr> (adj.)</klr></trd>
+  <trdgrp lng="pl">
+    <trd>staro&zdot;ytny</trd>,
+    <trd>zabytkowy</trd>
+  </trdgrp>
+  <trd lng="pt">antigo</trd>
+  <trd lng="ro">antic</trd>
+  <trdgrp lng="ru">
+    <trd>&c_d;&c_r;&c_je;&c_v;&c_n;&c_i;&c_j;</trd>,
+    <trd>&c_s;&c_t;&c_a;&c_r;&c_i;&c_n;&c_n;&c_y;&c_j;</trd>,
+    <trd>&c_a;&c_n;&c_t;&c_i;&c_ch;&c_n;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>antický</trd>,
+    <trd>starod&aacute;vny</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="antikv.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="antikv.0o.epoko">
+    <dif>
+      Historia 
+      <ref tip="lst" cel="epok.0o.periodo" lst="voko:historiaj_epokoj"
+      val="-4000">epoko</ref> inter
+      praepoko kaj mezepoko, markita de esti&gcirc;o kaj evoluo de la 
+      unuaj civilizoj en Mezoriento kaj &ccirc;e Mediteraneo:
+      <ekz>
+        <tld/>o komenci&gcirc;is je la 4-a jarmilo a.K. kaj fini&gcirc;is
+        je la 7-a jarcento.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="epok.malnov0o">malnovepoko</ref>
+    <trdgrp lng="de">
+      <trd>Antike</trd>,
+      <trd>Altertum</trd>
+    </trdgrp>
+    <trd lng="pl">Staro&zdot;ytno&sacute;&cacute;</trd>
+  </snc>
+  <trd lng="cs">antikva</trd>
+  <trd lng="sk">antikva</trd>
+</drv>
+
+<drv mrk="antikv.0ajxo">
+  <kap><tld/>a&jcirc;o</kap>
+  <snc mrk="antikv.0ajxo.KOMUNE">
+    <dif>
+      Tre malnova objekto:
+      <ekz>
+        kolektanto de <tld/>a&jcirc;oj.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_a;&c_n;&c_t;&c_y;&c_k;&c_v;&c_a;&c_r;&c_y;&c_ja;&c_t;</trd>
+  <trd lng="br">hendra</trd>
+  <trd lng="ca">antiguitat <klr>(objecte)</klr></trd>
+  <trd lng="de">Antiquit&auml;t</trd>
+  <trdgrp lng="en">
+    <trd>antique</trd>
+  </trdgrp>
+  <trd lng="es">antig&uuml;edad</trd>
+  <trd lng="fr">antiquit&eacute;<klr> (objet)</klr></trd>
+  <trdgrp lng="pl">
+    <trd>antyk</trd>,
+    <trd>zabytek</trd>
+  </trdgrp>
+  <trd lng="ro">antichit&abreve;ti</trd>
+  <trd lng="ru">&c_a;&c_n;&c_t;&c_i;&c_k;&c_v;&c_a;&c_r;&c_i;&c_a;&c_t;</trd>
+  <trd lng="sk">staro&zcaron;itnos&tcaron;</trd>
+</drv>
+
+<drv mrk="antikv.0eco">
+  <kap><tld/>eco</kap>
+  <snc>
+    <dif>
+      Eco de tio, kio estas <tld/>a.
+    </dif>
+    <trdgrp lng="br">
+      <trd>hended</trd>,
+      <trd>hender</trd>
+    </trdgrp>
+    <trdgrp lng="ca">
+      <trd>antiguitat</trd>,
+      <trd>vellesa</trd>
+    </trdgrp>
+    <trd lng="de">Antiquiertheit</trd>
+  </snc>
+  <snc>
+    <uzo tip="stl">EVI</uzo>
+    <dif>
+      <tld/>a epoko.
+    </dif>
+    <trd lng="br">Henamzer</trd>
+    <trdgrp lng="ca">
+      <trd>antigor</trd>,
+      <trd>edat antiga</trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_d;&c_a;&c_w;&c_n;&c_ib;&c_n;&c_a;</trd>,
+    <trd>&c_s;&c_t;&c_a;&c_r;&c_a;&c_zh;&c_y;&c_t;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>, 
+    <trd>&c_a;&c_n;&c_t;&c_y;&c_ch;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>antikvovanost</trd>,
+    <trd>antičnost</trd>,
+    <trd>starobylost</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>antiquity</trd>
+  </trdgrp>
+  <trd lng="es">antig&uuml;edad</trd>
+  <trd lng="fr">antiquit&eacute;<klr> (qualit&eacute;, &eacute;poque)</klr></trd>
+  <trdgrp lng="pl">
+    <trd>antyczno&sacute;&cacute;</trd>,
+    <trd>staro&zdot;ytno&sacute;&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_d;&c_r;&c_je;&c_v;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>,
+    <trd>&c_a;&c_n;&c_t;&c_i;&c_ch;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>,
+    <trd>&c_s;&c_t;&c_a;&c_r;&c_i;&c_n;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>antikvita</trd>,
+    <trd>starobylosť</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="antikv.0ajxisto">
+  <kap><tld/>a&jcirc;isto</kap>
+  <snc mrk="antikv.0ajxisto.KOMUNE">
+    <dif>
+      Vendisto de <tld/>a&jcirc;oj:
+      <ekz>
+        mia sendanka, monavida laktofrateto &ccirc;ion vendis al urbaj 
+        <tld/>a&jcirc;istoj
+        <fnt><aut>Ivan G. &Scirc;irjaev</aut>, <vrk>Sen titolo</vrk>, 
+        <lok>&ccirc;apitro 42a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_a;&c_n;&c_t;&c_y;&c_k;&c_v;&c_a;&c_r;</trd>
+  <trd lng="br">hendraour</trd>
+  <trd lng="ca">antiquari</trd>
+  <trd lng="de">Antiquar</trd>
+  <trdgrp lng="en">
+    <trd>antique dealer</trd>
+  </trdgrp>
+  <trd lng="es">anticuario</trd>
+  <trd lng="fr">antiquaire</trd>
+  <trd lng="pl">antykwariusz</trd>
+  <trd lng="ru">&c_a;&c_n;&c_t;&c_i;&c_k;&c_v;&c_a;&c_r;</trd>
+  <trd lng="sk">staro&zcaron;itn&iacute;k</trd>
+</drv>
+</art>
+<!--
+$Log: antikv.xml,v $
+Revision 1.26  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.25  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.24  2013/10/06 16:10:11  revo
+Wolfram Diestel: +~o
+
+Revision 1.23  2011/12/05 13:10:17  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.22  2010/08/03 16:31:38  revo
+Agustin Garcia Lopez: +trd es (-ajxisto)
+
+Revision 1.21  2010/03/13 17:30:42  revo
+ Evandro Avellar: + trd pt
+
+Revision 1.20  2006/07/04 16:31:42  revo
+Jeromo Vasxe: + 1 ekz
+
+Revision 1.19  2006/04/03 16:31:57  revo
+Vito Redsky: +trd ro
+
+Revision 1.18  2006/04/02 17:02:55  revo
+Vito Redsky: +trd pl +trd ro
+
+Revision 1.17  2005/04/27 16:32:41  revo
+-->
+</vortaro>

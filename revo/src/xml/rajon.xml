@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: rajon.xml,v 1.9 2015/07/04 08:37:42 revo Exp $">
+<kap>
+  <rad>rajon</rad>/o <fnt><bib>SPV</bib></fnt>
+</kap>
+<drv mrk="rajon.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="rajon.0o.TEKS">
+    <uzo tip="fak">KEM</uzo>
+    <uzo tip="fak">TEKS</uzo>
+    <dif>
+      &Hcirc;emia <ref tip="super" cel="sxtof.0o.TEKS">&scirc;tofo</ref> teksita
+      el  
+      <ref tip="vid" cel="viskoz.0o">viskozo</ref>:
+      <ekz>
+        mi havis nur du &ccirc;emizojn <klr>...</klr> el vera <tld/>o
+        <fnt>
+          <aut>J. Rejt&odblac;, trad. L. Bal&aacute;zs</aut>,
+          <vrk><url ref="http://www.freeweb.hu/verkoj/02.htm">La
+          anta&ubreve;en&scirc;ovita garnizono</url></vrk>,
+          <lok>[vidita en 2007-03]</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        disvasti&gcirc;is anka&ubreve; subvesta&jcirc;oj el <tld/>o: &scirc;tofo, kiun oni 
+        inventis por anstata&ubreve;i silkon en para&scirc;utoj
+        <fnt><bib>Viki</bib>, <lok>artikolo &leftquot;subvesto&rightquot;, 
+        2007-01-28</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_v;&c_ib;&c_s;&c_k;&c_o;&c_z;&c_n;&c_a;&c_ja; &c_t;&c_k;&c_a;&c_n;&c_ib;&c_n;&c_a;</trd>
+  <trd lng="cs">rajon</trd>
+  <trd lng="de">Viskose</trd>
+  <trd lng="en">rayon</trd>
+  <trd lng="fr">rayonne</trd>
+  <trd lng="hu">m&udblac;selyem</trd>
+  <trd lng="it">rayon</trd>
+  <trdgrp lng="nl">
+    <trd>rayon</trd>,
+    <trd>kunstzijde</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>seda artificial</trd>,
+    <trd>"<ind>rayon</ind>"</trd>
+  </trdgrp>
+  <trd lng="ru">&c_v;&c_i;&c_s;&c_k;&c_o;&c_z;&c_n;&c_a;&c_ja; &c_t;&c_k;&c_a;&c_n;&c_mol;</trd>
+  <trd lng="sk">rajón</trd>
+</drv>
+</art>
+
+<!--
+$Log: rajon.xml,v $
+Revision 1.9  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.8  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.7  2009/08/30 16:31:48  revo
+Russ Williams: +trd en
+
+Revision 1.6  2009/07/07 16:31:22  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.5  2007/09/28 16:30:42  revo
+Tulio Flores: +tr pt
+
+Revision 1.4  2007/05/14 16:30:31  revo
+Dmitri Gabinski: +trd be, ru +ref
+
+Revision 1.3  2007/04/18 16:30:32  revo
+Wieland Pusch: +trd de
+
+Revision 1.2  2007/03/06 17:31:39  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.1  2007/03/04 17:30:24  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: duri.xml,v 1.5 2015/10/27 10:10:17 revo Exp $">
+<kap>
+  <rad>duri</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="duri.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="duri.0o.KUI">
+    <uzo tip="fak">KUI</uzo>
+    <dif>
+      Granda ovoforma kaj bongusta
+      <ref tip="super" cel="frukt.0o.KUI">frukto</ref> de pluraj specoj 
+      de <tld/>arbo, kun dornaspekta &scirc;elo kaj forta odoro:
+      <ekz>
+        la <tld/>o enhavas tre fajnan guston kiu similus al kruda 
+        kamemberto  kun nuancoj de ananaso kaj ajlo, kaj la&ubreve; kelkaj &gcirc;i 
+        anka&ubreve; elvokas buteron
+        <fnt>
+          <bib>Viki</bib>,
+          <lok><url ref="http://eo.wikipedia.org/wiki/Durio">
+          durio</url>, 2009-12-26</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">Durian</trd>
+  </snc>
+  <snc mrk="duri.0o.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <ref tip="dif" cel="duri.0arbo.BOT"><tld/>arbo</ref>
+      <ekz>
+        en Yunnan trovi&gcirc;as ne nur multaj lokaj vegeta&jcirc;oj, sed anka&ubreve; 
+        multaj vegeta&jcirc;oj sukcese enkondukitaj el aliaj lokoj, kiaj 
+        ka&ubreve;&ccirc;ukarbo <klr>...</klr> a&ubreve;straliaj nuksarboj kaj <tld/>oj
+        <fnt>
+          <aut>-</aut>,
+          <vrk><url
+          ref="http://esperanto.china.org.cn/world/shi-lvyou/vidindaj_lokoj/17.htm">
+          Yunnan - trezorejo de vegeta&jcirc;oj</url></vrk>,
+          <lok>[2002]</lok>
+        </fnt>.
+      </ekz>
+  </snc>
+  <trd lng="en">durian</trd>
+  <trd lng="es">durazno<klr tip="amb"> (fruto)</klr></trd>
+  <trd lng="fr">durian<klr> (fruit)</klr></trd>
+  <trdgrp lng="pl">
+    <trd>durian</trd>,
+    <trd>zybuczkowiec</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="duri.0arbo">
+  <kap><tld/>arbo, <var><kap><tld/>ujo</kap></var></kap>
+  <snc mrk="duri.0arbo.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      Granda, alta tropika arbo &ccirc;iamverda;
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:botanikaj_genroj">genro</ref> el familio <ref
+      tip="malprt"
+      cel="malvac.0oj.BOT">malvacoj</ref>
+      (<trd lng="la">Durio</trd>).
+    </dif>
+  </snc>
+  <trdgrp lng="de">
+    <trd>Durianbaum</trd>,
+    <trd>Zibetbaum</trd>
+  </trdgrp>
+  <trd lng="en">durian</trd>
+  <trd lng="es">durazno<klr tip="amb"> (&aacute;rbol)</klr></trd>
+  <trd lng="fr">durian<klr> (arbre)</klr></trd>
+  <trdgrp lng="pl">
+    <trd>durian</trd>,
+    <trd>zybuczkowiec</trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log: duri.xml,v $
+Revision 1.5  2015/10/27 10:10:17  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.4  2015/10/01 12:10:27  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.3  2013/08/27 15:10:20  revo
+Wolfram Diestel: referenco al listo bot genroj, germ trd
+
+Revision 1.2  2010/06/12 16:30:24  revo
+Agustin Garcia Lopez: +trd es
+
+Revision 1.1  2010/05/02 16:31:15  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

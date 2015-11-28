@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: miliar.xml,v 1.20 2015/07/04 08:37:39 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>miliard</rad>/o
+</kap>
+<drv mrk="miliar.0o">
+  <kap><tld/>o</kap>
+  <snc>
+    <dif>
+      Mil milionoj.
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="bilion.0o">biliono</ref>
+    </refgrp>
+     <ref tip="lst" cel="nombr.0o.MAT" lst="voko:nombroj">nombro</ref>
+  </snc>
+  <trd lng="be">&c_m;&c_ib;&c_l;&c_mol;&c_ja;&c_r;&c_d;</trd>
+  <trd lng="bg">&c_m;&c_i;&c_l;&c_i;&c_a;&c_r;&c_d;</trd>
+  <trdgrp lng="ca">
+    <trd>miliard</trd>,
+    <trd>mil milions</trd>
+  </trdgrp>
+  <trd lng="cs">miliarda</trd>
+  <trd lng="de">Milliarde</trd>
+  <trd lng="en">billion <klr>(US)</klr></trd>
+  <trd lng="fr">milliard</trd>
+  <trd lng="hu">milli&aacute;rd</trd>
+  <trd lng="id">miliar</trd>
+  <trd lng="nl">miljard</trd>
+  <trdgrp lng="pt">
+  <trd>bilh&atilde;o <klr>(1.000.000.000)</klr></trd>,
+  <trd>bili&atilde;o <klr>(1.000.000.000)</klr></trd>
+  </trdgrp>
+  <trd lng="ru">&c_m;&c_i;&c_l;&c_l;&c_i;&c_a;&c_r;&c_d;</trd>
+  <trd lng="sk">miliarda</trd>
+  <trd lng="sv">miljard</trd>
+  <trd lng="vo">baliad</trd>
+</drv>
+</art>
+<!--
+$Log: miliar.xml,v $
+Revision 1.20  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2014/10/26 15:10:21  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.17  2014/04/15 08:10:14  revo
+Damien Brucker: +trd fr
+
+Revision 1.16  2013/09/25 18:10:24  revo
+Wolfram Diestel: ref al listo nombroj
+
+Revision 1.15  2013/09/02 16:10:20  revo
+Joop Eggen: +trd bg
+
+Revision 1.14  2012/08/01 09:10:28  revo
+Marc Rausell: + trd ca
+
+Revision 1.13  2009/06/29 18:06:09  revo
+Russ Williams: +trd en
+
+Revision 1.12  2006/08/02 16:32:57  revo
+Tulio Flores: +tr pt
+
+Revision 1.11  2004/06/10 16:32:06  revo
+-->
+</vortaro>

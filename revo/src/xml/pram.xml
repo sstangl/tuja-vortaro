@@ -1,0 +1,130 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: pram.xml,v 1.21 2015/07/04 08:37:41 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>pram</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="pram.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="pram.0o.KOMUNE">
+    <dif>
+      Granda plata boato por transriverigi homojn, bestojn a&ubreve;
+      veturilojn:
+      <ekz>
+        la <tld/>o veturas preska&ubreve; du horojn
+        <fnt><aut>Werner Schad</aut>: <vrk>Tra la Andoj
+        boate</vrk>, <bib>Monato</bib><lok>jaro 2001a, numero 12a, p.
+        16a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_r;&c_o;&c_m;</trd>
+  <trd lng="bg">&c_f;&c_je;&c_r;&c_i;&c_b;&c_o;&c_t;</trd>
+  <trd lng="ca">transbordador</trd>
+  <trdgrp lng="cs">
+    <trd>pramice</trd>,
+    <trd>prám</trd>
+  </trdgrp>
+  <trd lng="de">F&auml;hre</trd>
+  <trdgrp lng="en">
+    <trd>ferry</trd>,
+    <trd>pontoon</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>ferry</trd>,
+    <trd>transbordador</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>bac<klr> (bateau)</klr></trd>
+  </trdgrp>
+  <trd lng="hu">komp</trd>
+  <trdgrp lng="it">
+    <trd>traghetto</trd>,
+    <trd>ferryboat</trd>
+  </trdgrp>
+  <trd lng="nl">veerpont</trd>
+  <trdgrp lng="pt">
+    <trd>barca</trd>,
+    <trd>ferryboat</trd>
+  </trdgrp>
+  <trd lng="ru">&c_p;&c_a;&c_r;&c_o;&c_m;</trd>
+  <trdgrp lng="sk">
+    <trd>kompa</trd>,
+    <trd>prievoz</trd>
+  </trdgrp>
+  <trd lng="sv">f&auml;rja</trd>
+</drv>
+
+<drv mrk="pram.kosmo0o">
+  <kap>kosmo<tld/>o</kap>
+  <snc mrk="pram.kosmo0o.AVI">
+    <uzo tip="fak">AVI</uzo>
+    <dif>
+      <ref tip="super" cel="sxip.kosmo0o.AVI">kosmo&scirc;ipo</ref> povanta 
+      elflugi el planedo kaj reveni al &gcirc;i:
+      <ekz>
+        la katastrofo de la kosmo<tld/>o Kolombio en 2003, en kiu mortis
+        
+        sep kosmona&ubreve;toj kaj kiu ka&ubreve;zis 29-monatan pa&ubreve;zon de 
+        kosmo<tld/>aj flugoj, ka&ubreve;zis gravan rekonsideron de la 
+        prioritatoj
+        <fnt><bib>Viki</bib>, <lok>artikolo &leftquot;Nasa&rightquot;, 
+        2008-04-17</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="ca">transbordador espacial</trd>
+  <trd lng="de">Raumf&auml;hre</trd>
+  <trdgrp lng="es">
+    <trd>nave <ind>espacial</ind></trd>,
+    <trd>transbordador <ind>espacial</ind></trd>
+  </trdgrp>
+  <trd lng="fr">navette spatiale</trd>
+  <trdgrp lng="it">
+    <trd>navetta <ind>spaziale</ind></trd>,
+    <trd>shuttle</trd>,
+    <trd>spaceshuttle</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>ruimteveer</trd>,
+    <trd>ruimtependel</trd>,
+    <trd>shuttle</trd>,
+    <trd>spaceshuttle</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: pram.xml,v $
+Revision 1.21  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.19  2015/04/07 09:10:14  revo
+Guillermo Molleda Jimena: trd es
+
+Revision 1.18  2011/12/05 23:10:14  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.17  2009/12/20 17:30:31  revo
+Antonio Codazzi: +trd it
+
+Revision 1.16  2009/08/18 19:20:47  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.15  2009/01/03 17:31:08  revo
+Wieland Pusch: +trd bg,de
+
+Revision 1.14  2008/04/25 16:30:25  revo
+Jeromo Vasxe: + kosmo~o
+
+Revision 1.13  2006/03/17 17:32:15  revo
+Tulio Flores: +tr pt
+
+Revision 1.12  2003/08/19 16:30:57  revo
+-->
+</vortaro>

@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: menhir.xml,v 1.16 2015/10/01 08:10:15 revo Exp $">
+<kap>
+  <rad>menhir</rad>/o
+</kap>
+<drv mrk="menhir.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="menhir.0o.ARKE">
+    <uzo tip="fak">ARKE</uzo>
+    <dif>
+      Megalita monumento starigita vertikale:
+      <ekz>
+        <ctl>Merlo sur <tld/>o</ctl>
+        <klr>(poemaro de Alberto Goodheir)</klr>
+        <fnt><aut>Goodheir Albert</aut>, <vrk>Merlo sur menhiro. -
+        Glasgovo: Glasgova Esperanto-Societo, 1974</vrk></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="super">
+      <ref cel="megali.0o">megalito</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_m;&c_e;&c_n;&c_g;&c_ib;&c_r;</trd>
+  <trd lng="bg">&c_m;&c_je;&c_n;&c_h;&c_i;&c_r; </trd>
+  <trdgrp lng="br">
+    <trd>maen-hir</trd>,
+    <trd>peulvan</trd>
+  </trdgrp>
+  <trd lng="ca">menhir</trd>
+  <trd lng="cs">menhir</trd>
+  <trdgrp lng="de">
+    <trd>H&uuml;nenstein</trd>,
+    <trd>Menhir</trd>
+  </trdgrp>
+  <trd lng="en">menhir</trd>
+  <trd lng="es">menhir</trd>
+  <trdgrp lng="fr">
+    <trd>menhir</trd>,
+    <trd>pierre lev&eacute;e</trd>
+  </trdgrp>
+  <trd lng="hu">menhir</trd>
+  <trd lng="nl">menhir</trd>
+  <trd lng="pt">menir</trd>
+  <trd lng="ru">&c_m;&c_je;&c_n;&c_g;&c_i;&c_r;</trd>
+  <trd lng="sk">menhir</trd>
+</drv>
+</art>
+<!--
+$Log: menhir.xml,v $
+Revision 1.16  2015/10/01 08:10:15  revo
+Joop Eggen: +trd bg
+
+Revision 1.15  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2006/07/31 16:32:34  revo
+Tulio Flores: +tr pt
+
+Revision 1.13  2005/07/10 16:31:07  revo
+Alan ar Gall: mod tip en ref al megalito, +trd br
+
+Revision 1.12  2005/04/16 16:35:06  revo
+Raul Salinas Monteagudo: +trd ca,es
+
+Revision 1.11  2004/02/29 17:30:48  revo
+Jeromo Vasxe: + trd fr, + 1 ekz
+
+Revision 1.10 2004/02/16 20:48:05 revo
+Dmitri Gabinski: +trd be
+
+Revision 1.9 2003/01/04 17:33:13 revo
+-->
+</vortaro>

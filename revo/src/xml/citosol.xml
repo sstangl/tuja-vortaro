@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: citosol.xml,v 1.4 2013/09/13 16:10:11 revo Exp $">
+<kap>
+  <rad>citosol</rad>/o <fnt><bib>PIV2</bib></fnt>
+</kap>
+<drv mrk="citosol.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="citosol.0o.FIZL">
+    <uzo tip="fak">FIZL</uzo>
+    <dif>
+      Flua substanco de <ref tip="malprt" 
+      cel="plasm.cxelo0o.FIZL">&ccirc;eloplasmo</ref>,
+      en kiu flosas la organetoj:
+      <ekz>
+        la likva&jcirc;o de la citoplasmo, kie trovi&gcirc;as la organetoj, estas 
+        la <tld/>o
+        <fnt>
+          <bib>Viki</bib>,
+          <lok><url ref="http://eo.wikipedia.org/wiki/Citoplasmo">
+          citoplasmo</url>, 2010-08-30</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la virusa kapsulo enhavas unu simplan fadenon de RNA kiu estas
+        transskribita el duobla fadeno da DNA en la <tld/>o de la &ccirc;elo 
+        infektita
+        <fnt>
+          <aut>A. Lucas</aut>,
+          <vrk><url
+          ref="http://www.teleskopo.com/ekzemplo_de_genetika_terapio_en_francujo.pdf">
+          Ekzemplo de genetika Terapio...</url></vrk>,
+          <lok>Teleskopo, 2010 (2)</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="bg">&c_c;&c_i;&c_t;&c_o;&c_z;&c_o;&c_l;</trd>
+  <trd lng="ca">citosol</trd>
+  <trd lng="da">cytosol</trd>
+  <trd lng="de">Zytosol</trd>
+  <trd lng="en">cytosol</trd>
+  <trd lng="es">citosol</trd>
+  <trdgrp lng="fr">
+    <trd>cytosol</trd>,
+    <trd>hyaloplasme</trd>
+  </trdgrp>
+  <trd lng="hr">citosol</trd>
+  <trd lng="it">citosol</trd>
+  <trd lng="nl">cytosol</trd>
+  <trd lng="ru">&c_c;&c_i;&c_t;&c_o;&c_z;&c_o;&c_l;&c_mol;</trd>
+  <trd lng="sv">cytosol</trd>
+</drv>
+</art>
+
+<!--
+$Log: citosol.xml,v $
+Revision 1.4  2013/09/13 16:10:11  revo
+Joop Eggen: +trd bg k.a.
+
+Revision 1.3  2012/08/27 00:10:20  revo
+Marc Rausell: + trd ca
+
+Revision 1.2  2011/06/24 19:10:13  revo
+Dominique Pelle: (mankis akuzativo) simplan fadeno -> simplan fadenon
+
+Revision 1.1  2010/09/25 16:30:20  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

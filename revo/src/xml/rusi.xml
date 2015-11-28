@@ -1,0 +1,134 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: rusi.xml,v 1.15 2015/07/04 08:37:43 revo Exp $">
+<kap>
+  <rad>Rusi</rad>/o
+</kap>
+
+<drv mrk="rusi.0o">
+  <kap><tld/>o</kap>
+  <snc>
+  <uzo tip="fak">GEOG</uzo>
+  <uzo tip="fak">POL</uzo>
+    <ref tip="dif" cel="rus.R0ujo">Rusujo</ref>
+    <ekz>
+      En la jaro 1812a la unuigitaj fortoj de E&ubreve;ropo invadis
+      <tld/>on<fnt><aut>Sergio Pokrovskij</aut>: <vrk>Moskvo
+      jubileas</vrk>, <bib>Monato</bib><lok>jaro 1997a, numero 9a, p.
+      22a</lok></fnt>.
+    </ekz>
+  </snc>
+  <trd lng="be">&c_R;&c_a;&c_s;&c_je;&c_ja;</trd>
+  <trd lng="bg">&c_R;&c_u;&c_s;&c_i;&c_ja;</trd>
+  <trd lng="cs">Rusko</trd>
+  <trd lng="de">Russland</trd>
+  <trdgrp lng="fr">
+    <trd>Russie</trd>,
+    <trd>F&eacute;d&eacute;ration de Russie</trd>
+  </trdgrp>
+  <trd lng="id">Rusia</trd>
+  <trd lng="nl">Rusland</trd>
+  <trd lng="pl">Rosja</trd>
+  <trd lng="ru">&c_R;&c_o;&c_s;&c_s;&c_i;&c_ja;</trd>
+  <trd lng="sk">Rusko</trd>
+  <trdgrp lng="zh">
+    <trd>&#20420;&#22269;</trd>,
+    <trd><klr>tr. </klr>&#20420;&#22283;<klr>
+    [&Eacute;gu&oacute;]</klr></trd>
+    <trd>&#20420;&#32599;&#26031;<klr>
+    [&Eacute;lu&oacute;s&#299;]</klr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="rusi.r0ano">
+  <kap><tld lit="r"/>ano</kap>
+  <snc>
+    <ref tip="dif" cel="rus.0ujano">rusujano</ref>
+    <ekz>
+      iu <tld/>ano prave replikis, ke tiukaze unu el la unuaj agoj de la
+      komunistoj estus malpermeso de retpo&scirc;to<fnt><aut>Boris
+      Kolker</aut>:
+      <vrk>Poeto de amo kaj revolucio (E&ubreve;geno Mi&hcirc;alski,
+      Plena
+      poemaro)</vrk>, <bib>Monato</bib><lok>jaro 1996a, numero 9a, p.
+      24a</lok></fnt>.
+    </ekz>
+  </snc>
+  <trd lng="be">&c_r;&c_a;&c_s;&c_je;&c_je;&c_c;
+  <klr>(&c_p;&c_a;&c_v;&c_o;&c_d;&c_l;&c_je;
+  &c_g;&c_r;&c_a;&c_m;&c_a;&c_d;&c_z;&c_ja;&c_n;&c_s;&c_t;&c_v;&c_a;)</klr></trd>
+  <trd lng="bg">&c_r;&c_u;&c_s;&c_n;&c_a;&c_k;</trd>
+  <trd lng="de">Russe</trd>
+  <trdgrp lng="fr">
+    <trd>Russe<klr> (subst.)</klr></trd>
+  </trdgrp>
+  <trd lng="nl">Russisch staatsburger</trd>
+  <trdgrp lng="pl">
+    <trd>Rosjanin</trd>,
+    <trd>Rusek<klr> (pogardliwie lub pot.)</klr></trd>,
+    <trd>Ruski<klr> (pogardliwie lub pot.)</klr></trd>
+  </trdgrp>
+  <trd lng="ru">&c_r;&c_o;&c_s;&c_s;&c_i;&c_ja;&c_n;&c_i;&c_n;</trd>
+</drv>
+
+<drv mrk="rusi.r0a">
+  <kap><tld lit="r"/>a</kap>
+  <snc>
+    <ref tip="dif" cel="rus.0uja">rusuja</ref>
+    <ekz>
+      &leftquot;<tld/>a &scirc;tata arkivo de antikvaj
+      aktoj&rightquot;<fnt><aut>Sergej
+      Derevjanny&hcirc;</aut>: <vrk>Atrakcio por lingvo&scirc;atantoj?
+      (I. Maier, W.
+      F. Pilger, Duamana traduko por la Rusa Caro)</vrk>,
+      <bib>Monato</bib><lok>jaro 2001a, numero 11a, p. 30a</lok></fnt>.
+    </ekz>
+  </snc>
+  <trd lng="be">&c_r;&c_a;&c_s;&c_je;&c_j;&c_s;&c_k;&c_ib;</trd>
+  <trd lng="bg">&c_r;&c_u;&c_s;&c_k;&c_i;</trd>
+  <trd lng="de">russisch</trd>
+  <trdgrp lng="fr">
+    <trd>russe<klr> (adj.)</klr></trd>
+  </trdgrp>
+  <trd lng="nl">Russisch</trd>
+  <trdgrp lng="pl">
+    <trd>rosyjski</trd>,
+    <trd>ruski <klr>(pot.)</klr></trd>
+  </trdgrp>
+  <trd lng="ru">&c_r;&c_o;&c_s;&c_s;&c_i;&c_j;&c_s;&c_k;&c_i;&c_j;</trd>
+</drv>
+</art>
+<!--
+$Log: rusi.xml,v $
+Revision 1.15  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.13  2014/06/27 08:10:16  revo
+Damien Brucker: +trd fr
+
+Revision 1.12  2014/06/04 04:10:21  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.11  2013/04/10 11:10:12  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.10  2009/04/29 16:32:28  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.9  2008/01/29 17:30:47  revo
+Wieland Pusch: +trd bg
+
+Revision 1.8  2003/08/26 16:32:03  revo
+Yury Finkel: +trd zh
+
+Revision 1.7  2003/08/18 16:32:27  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.6  2002/07/30 17:30:48  revo
+-->
+</vortaro>

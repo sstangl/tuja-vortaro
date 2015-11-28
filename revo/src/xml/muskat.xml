@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: muskat.xml,v 1.25 2015/07/04 08:37:39 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>muskat</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="muskat.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="muskat.0o.KUI">
+    <uzo tip="fak">KUI</uzo>
+    <dif>
+      Fruktokerno de la <ref tip="malprt"
+      cel="muskat.0arbo"><tld/>ujo</ref>
+      uzata kiel <ref tip="lst" cel="spic.0o"
+      lst="voko:spicoj">spico</ref>.
+    </dif>
+  </snc>
+  <trd lng="be">&c_m;&c_u;&c_s;&c_k;&c_a;&c_t;&c_n;&c_y; &c_a;&c_r;&c_e;&c_h;</trd>
+  <trd lng="ca"><ind>nou</ind> moscada</trd>
+  <trd lng="cs">muškátový oříšek</trd>
+  <trd lng="de">Muskatnuss</trd>
+  <trd lng="en">nutmeg</trd>
+  <trd lng="fr">muscade</trd>
+  <trd lng="hu">szerecsendi&oacute;</trd>
+  <trd lng="id">pala</trd>
+  <trd lng="nl">muskaatnoot</trd>
+  <trdgrp lng="pl">
+    <trd>ga&lstroke;ka <ind>muszkato&lstroke;owa</ind></trd>,
+    <trd>muszkat</trd>
+  </trdgrp>
+  <trd lng="pt">noz-moscada</trd>
+  <trd lng="ru">&c_m;&c_u;&c_s;&c_k;&c_a;&c_t;&c_n;&c_y;&c_j; &c_o;&c_r;&c_je;&c_h;</trd>
+  <trd lng="sk">muškátový orech</trd>
+</drv>
+
+<drv mrk="muskat.0arbo">
+  <kap><tld/>arbo, <var><kap><tld/>ujo</kap></var></kap>
+  <snc mrk="muskat.0arbo.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      &Ccirc;iam verda arbo kun persiksimila kernofrukto, kiu entenas
+      la <tld/>on, <ref tip="lst" cel="speci.0o.BIO"
+      lst="voko:botanikaj_specioj">specio</ref> de <ref tip="super" 
+      cel="mirist.0o">miristiko</ref>
+      (<trd lng="la">Miristica fragrans</trd>).
+    </dif>
+  </snc>
+  <trd lng="be">&c_m;&c_u;&c_s;&c_k;&c_a;&c_t;&c_n;&c_a;&c_je; &c_d;&c_r;&c_e;&c_v;&c_a;</trd>
+  <trd lng="ca">arbre de la <ind>nou</ind> moscada</trd>
+  <trd lng="cs">muškátovník</trd>
+  <trd lng="de">Muskatnussbaum</trd>
+  <trd lng="en">nutmeg tree</trd>
+  <trd lng="fr">muscadier</trd>
+  <trd lng="hu">szerecsendi&oacute;fa</trd>
+  <trd lng="nl">muskaatboom</trd>
+  <trd lng="ru">&c_m;&c_u;&c_s;&c_k;&c_a;&c_t;&c_n;&c_o;&c_je; &c_d;&c_je;&c_r;&c_je;&c_v;&c_o;</trd>
+  <trd lng="sk">muškátovník</trd>
+</drv>
+
+<drv mrk="muskat.0vino">
+  <kap><tld/>vino</kap>
+  <snc mrk="muskat.0vino.KUI">
+    <uzo tip="fak">KUI</uzo>
+    <dif>
+      <ref tip="super" cel="vin.0o">Vino</ref> farita el
+      apartaj specoj de vinberoj, kun gusto tre agrabla,
+      iomete simila al tiu de <tld/>o a&ubreve; de mosko.
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_m;&c_u;&c_s;&c_k;&c_a;&c_t;</trd>,
+    <trd>&c_m;&c_u;&c_s;&c_k;&c_a;&c_t;&c_n;&c_a;&c_je; &c_v;&c_ib;&c_n;&c_o;</trd>
+  </trdgrp>
+  <trdgrp lng="ca">
+    <trd>vi de moscatell</trd>,
+    <trd>vi moscat</trd>
+  </trdgrp>
+  <trd lng="de">Muskateller</trd>
+  <trd lng="en">muscat<klr> (wine)</klr></trd>
+  <trd lng="fr">muscat<klr> (vin)</klr></trd>
+  <trd lng="hu">muskot&aacute;ly</trd>
+  <trd lng="nl">muskaatwijn</trd>
+  <trdgrp lng="ru">
+    <trd>&c_m;&c_u;&c_s;&c_k;&c_a;&c_t;&c_n;&c_o;&c_je; &c_v;&c_i;&c_n;&c_o;</trd>,
+    <trd>&c_m;&c_u;&c_s;&c_k;&c_a;&c_t;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: muskat.xml,v $
+Revision 1.25  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.24  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.23  2015/05/30 23:10:14  revo
+Erik Pedersen: aldonis indonezian tradukon
+
+Revision 1.22  2013/08/30 15:10:17  revo
+Wolfram Diestel: kor. lst-ref
+
+Revision 1.21  2013/08/27 15:10:29  revo
+Wolfram Diestel: referencoj al listoj bot specioj, spicoj
+
+Revision 1.20  2012/08/20 00:10:34  revo
+Marc Rausell: + trd ca
+
+Revision 1.19  2010/10/21 16:30:33  revo
+Russ Williams: +trd en
+
+Revision 1.18  2008/08/23 16:30:38  revo
+Jeromo Vasxe: + trd fr
+
+Revision 1.17 2006/08/16 19:53:43 revo
+Tulio Flores: +tr pt
+
+Revision 1.16 2004/10/20 16:31:58 revo
+-->
+</vortaro>

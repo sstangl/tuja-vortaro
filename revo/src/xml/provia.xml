@@ -1,0 +1,125 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: provia.xml,v 1.13 2015/07/04 08:37:42 revo Exp $">
+<kap>
+  <rad>proviant</rad>/o <fnt>Z</fnt>
+</kap>
+<drv mrk="provia.0o">
+  <kap><tld/>o</kap>
+  <snc>
+    <dif>
+      Man&gcirc;aj provizoj, nutra&jcirc;konservoj.
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_r;&c_a;&c_v;&c_ib;&c_ja;&c_n;&c_t;</trd>,
+    <trd>&c_h;&c_a;&c_r;&c_ch;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>proviant</trd>,
+    <trd>zásoba potravin</trd>
+  </trdgrp>
+  <trd lng="de">Proviant</trd>
+  <trdgrp lng="en">
+    <trd>provisions</trd>,
+    <trd>rations</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>provision</trd>,
+    <trd>ravitaillement</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>&eacute;lelem <klr tip="ind">(katonai)</klr></trd>,
+    <trd>&eacute;lelmiszer <klr tip="ind">(katonai)</klr></trd>
+  </trdgrp>
+  <trd lng="nl">proviand</trd>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_r;&c_o;&c_v;&c_i;&c_a;&c_n;&c_t;</trd>,
+    <trd>&c_p;&c_r;&c_o;&c_d;&c_o;&c_v;&c_o;&c_l;&c_mol;&c_s;&c_t;&c_v;&c_i;&c_je;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>proviant</trd>,
+    <trd>zásoba potravín</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="provia.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      Havigi <tld/>on (pp armeo); provizumi.
+    </dif>
+  </snc>
+  <trd lng="be">&c_z;&c_a;&c_b;&c_ja;&c_s;&c_mol;&c_p;&c_je;&c_ch;&c_v;&c_a;&c_c;&c_mol; <ind>&c_h;&c_a;&c_r;&c_ch;&c_a;&c_m;</ind></trd>
+  <trd lng="cs">zásobovat</trd>
+  <trdgrp lng="en">
+    <trd>provision</trd>,
+    <trd>supply</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>ravitailler</trd>,
+    <trd>provisionner</trd>
+  </trdgrp>
+  <trd lng="hu">&eacute;lelmez <klr tip="ind">(katonai)</klr></trd>
+  <trd lng="nl">provianderen</trd>
+  <trd lng="ru">&c_s;&c_n;&c_a;&c_b;&c_zh;&c_a;&c_t;&c_mol; &c_p;&c_r;&c_o;&c_v;&c_i;&c_a;&c_n;&c_t;&c_o;&c_m;</trd>
+  <trd lng="sk">zásobiť potravinami</trd>
+</drv>
+
+<drv mrk="provia.0isto">
+  <kap><tld/>isto</kap>
+  <snc>
+    <dif>
+      Oficisto, kiu prizorgas la <tld/>adon.
+    </dif>
+  </snc>
+  <trd lng="be">&c_ib;&c_n;&c_t;&c_e;&c_n;&c_d;&c_a;&c_n;&c_t;</trd>
+  <trd lng="cs">zásobovatel</trd>
+  <trd lng="en">supply officer</trd>
+  <trdgrp lng="fr">
+    <trd>ravitailleur</trd>,
+    <trd>provisionneur</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>&eacute;lelmez&odblac; tiszt</trd>,
+    <trd>GH-s tiszt</trd>
+  </trdgrp>
+  <trd lng="ru">&c_i;&c_n;&c_t;&c_je;&c_n;&c_d;&c_a;&c_n;&c_t;</trd>
+  <trd lng="sk">zásobovateľ</trd>
+</drv>
+</art>
+<!--
+$Log: provia.xml,v $
+Revision 1.13  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.12  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.11  2014/03/24 17:10:26  revo
+Damien Brucker: +trd fr
+
+Revision 1.10  2008/11/23 19:12:11  revo
+Wieland Pusch: entoj por unikodo
+
+Revision 1.9  2008/11/07 17:30:31  revo
+Russ Williams: +trd en
+
+Revision 1.8  2004/08/18 16:31:54  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.7  2003/07/26 08:41:24  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.6  2001/12/25 17:33:53  revo
+Yury Finkel: +trd ru
+
+Revision 1.5 2001/06/24 18:54:43 revo
+Paul Peeraerts: ald trd nl
+
+Revision 1.4 2001/05/20 18:12:26 revo
+-->
+</vortaro>

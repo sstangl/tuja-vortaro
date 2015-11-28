@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+  <art mrk="$Id: palac.xml,v 1.19 2015/07/04 08:37:40 revo Exp $">
+    <kap>
+      <ofc>*</ofc>
+      <rad>palac</rad>/o
+    </kap>
+    <drv mrk="palac.0o">
+      <kap><ofc>*</ofc><tld/>o</kap>
+      <snc>
+        <uzo tip="fak">ARKI</uzo>
+        <dif>
+          Granda luksa domego de re&gcirc;o, regnestro, nobelo, ri&ccirc;ulo
+          a&ubreve; grava administracio.
+          <ekz>
+            la re&gcirc;a <tld/>o
+            <fnt><bib>DOz</bib>, <lok>&ccirc;apitro 14</lok></fnt>.
+          </ekz>  
+        </dif>
+      </snc>
+  <trd lng="be">&c_p;&c_a;&c_l;&c_a;&c_c;</trd>
+  <trd lng="br">palez</trd>
+  <trd lng="ca">palau</trd>
+  <trdgrp lng="cs">
+    <trd>palác</trd>,
+    <trd>zámek</trd>
+  </trdgrp>
+  <trd lng="de">Palast</trd>
+  <trd lng="en">palace</trd>
+  <trd lng="es">palacio</trd>
+  <trd lng="fr">palais</trd>
+  <trd lng="hu">palota</trd>
+  <trd lng="id">istana</trd>
+  <trd lng="nl">paleis</trd>
+  <trd lng="pl">pa&lstroke;ac</trd>
+  <trd lng="pt">pal&aacute;cio</trd>
+  <trd lng="ru">&c_d;&c_v;&c_o;&c_r;&c_je;&c_c;</trd>
+  <trdgrp lng="sk">
+    <trd>palác</trd>,
+    <trd>zámok</trd>
+  </trdgrp>
+  <trd lng="sv">palats</trd>
+</drv>
+    <drv mrk="palac.0eto">
+      <kap><tld/>eto</kap>
+      <snc>
+        <uzo tip="fak">ARKI</uzo>
+        <dif>
+          Konsiderine granda kaj impona urba domo de nobelo
+          a&ubreve; ri&ccirc;ulo:
+          <ekz>
+            nur &ccirc;e la anguloj de la <tld/>eto el la pluvtuboj fluis
+            kun unutona murmuro mallar&gcirc;aj akvaj strioj
+            <fnt><bib>BonaS-ino</bib></fnt>
+          </ekz><ekz>
+            la malnova, dueta&gcirc;a, kremkolora <tld/>eto situis &ccirc;e
+            la Bulvardoringo, meze de magra &gcirc;ardeno apartigita
+            disde la trotuaro per punte gisita, fera krado
+            <fnt><bib>MkM</bib>, <lok>P.45.</lok></fnt>.
+          </ekz>
+        </dif>
+      </snc>
+      <trd lng="en">mansion</trd>
+      <trd lng="fr">h&ocirc;tel particulier</trd>
+      <trd lng="hu">v&aacute;rosi <ind>palota</ind></trd>
+      <trd lng="nl">herenhuis</trd>
+      <trd lng="pl">pa&lstroke;acyk</trd>
+      <trd lng="ru">&c_o;&c_s;&c_o;&c_b;&c_n;&c_ja;&c_k;</trd>
+    </drv>
+  </art>
+  <!--
+  $Log: palac.xml,v $
+  Revision 1.19  2015/07/04 08:37:40  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.18  2015/06/29 16:40:17  revo
+  aldono de trd sk per skripto de M. von Laer
+
+  Revision 1.17  2014/06/06 15:10:33  revo
+  Eko Nur Syah Hidayat: +id
+
+  Revision 1.16  2013/05/26 17:10:10  revo
+  Sergio Pokrovskij: +tr
+
+  Revision 1.15  2006/02/24 17:34:44  revo
+  Tulio Flores: +trd pt
+
+  Revision 1.14  2005/06/28 20:27:05  revo
+  Alan ar Gall: + ekz
+
+  Revision 1.13  2005/06/27 19:21:55  revo
+  Alan ar Gall: +trd br, fr, + fak ARKI
+
+  Revision 1.12  2005/04/18 16:33:50  revo
+  Raul Salinas Monteagudo: +trd ca,es
+
+  Revision 1.11  2004/07/16 16:31:14  revo
+  Jozefo Horvath: +trd hu
+
+  Revision 1.10  2003/07/23 17:41:51  revo
+  Dmitri Gabinski: +trd be
+
+  Revision 1.9  2002/10/23 20:40:01  revo
+  aktualigo de malnovaj fnt-indikoj enkondukante <bib>
+
+  Revision 1.8  2001/08/27 18:16:15  revo
+  Paul Peeraerts: ald trd nl
+
+  Revision 1.7  2001/07/20 12:46:23  revo
+  Dennis Wibrow: +trd germ
+
+  Revision 1.6  2001/05/30 18:13:06  revo
+  Sergio Pokrovskij: trd=ru, palaceto
+
+  Revision 1.5  2001/04/19 17:17:59  revo
+  Jerano Zachrisson: +trd sv
+
+  -->
+</vortaro>

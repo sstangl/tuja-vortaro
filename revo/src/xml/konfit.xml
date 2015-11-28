@@ -1,0 +1,125 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: konfit.xml,v 1.21 2015/07/04 08:37:37 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>konfit</rad>/i
+</kap>
+<drv mrk="konfit.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="konfit.0i.KUI">
+    <uzo tip="fak">KUI</uzo>
+    <dif>
+      Prepari fruktojn, restadigante ilin en densa 
+      <ref tip="vid" cel="sirop.0o">siropo</ref>, kiu ilin
+      penetras kaj konservas.
+    </dif>
+  </snc>
+  <trd lng="be">&c_v;&c_a;&c_r;&c_y;&c_c;&c_mol; <klr tip="amb">(&c_u; &c_c;&c_u;&c_k;&c_r;&c_y;)</klr></trd>
+  <trdgrp lng="cs">
+    <trd>konzervovat <klr>(ovoce)</klr></trd>,
+    <trd>nakládat</trd>,
+    <trd>naložit</trd>,
+    <trd>zavařit</trd>,
+    <trd>zavařovat</trd>
+  </trdgrp>
+  <trd lng="de">einkochen</trd>
+  <trd lng="en">preserve</trd>
+  <trd lng="es">confitar</trd>
+  <trd lng="fr">confire<klr tip="ind"> (au sucre)</klr></trd>
+  <trd lng="hu">bef&odblac;z</trd>
+  <trd lng="nl">konfijten</trd>
+  <trd lng="pt">confeitar</trd>
+  <trd lng="ru">&c_v;&c_a;&c_r;&c_i;&c_t;&c_mol; &c_v; &c_s;&c_a;&c_h;&c_a;&c_r;&c_je;</trd>
+  <trdgrp lng="sk">
+    <trd>konzrevovať <klr>(napr. ovocie)</klr></trd>,
+    <trd>zavariť</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="konfit.0ajxo">
+  <kap><tld/>a&jcirc;o</kap>
+  <snc mrk="konfit.0ajxo.KUI">
+    <uzo tip="fak">KUI</uzo>
+    <dif>
+      Franda&jcirc;o, konsistanta el fruktoj, pecigitaj a&ubreve; ne,
+      kuiritaj kun rafinita a&ubreve; kristaligita sukero,
+      kaj konservitaj en la siropo, kiun ilia suko faris kun la fandita
+      sukero:
+      <ekz>
+        brilis vitraj vazoj kun <tld/>a&jcirc;oj, preparitaj en la pasinta
+        jaro
+        <fnt><bib>PatrojFiloj</bib> <lok>&ccirc;apitro 8a, p.
+        38a</lok></fnt>.
+      </ekz>
+    </dif>
+    <rim>
+      Ne konfuzu kun la <ref tip="vid" cel="marmel.0o">marmelado</ref>,
+      kiu
+      estas fruktoka&ccirc;o, la <ref tip="vid" cel="jxele.0o">&jcirc;eleo</ref>,
+      kiu estas koagulita fruktosuko, kaj la
+      <ref tip="vid" cel="kompot.0o">kompoto</ref>, kiu konsistas el
+      fruktoj mallonge kuiritaj kaj malmulte sukeritaj.
+    </rim>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_o;&c_ch;&c_y;&c_v;&c_a;</trd>,
+    <trd>&c_v;&c_a;&c_r;&c_e;&c_n;&c_mol;&c_n;&c_je;</trd>,
+    <trd>&c_k;&c_a;&c_n;&c_f;&c_ib;&c_c;&c_ju;&c_r;</trd>
+  </trdgrp>
+  <trd lng="de">Marmelade</trd>
+  <trdgrp lng="en">
+    <trd>preserve</trd>,
+    <trd>jam</trd>
+  </trdgrp>
+  <trd lng="es">confite</trd>
+  <trdgrp lng="fr">
+    <trd>confiserie<klr> (nourriture)</klr></trd>,
+    <trd>fruit confit</trd>
+  </trdgrp>
+  <trd lng="hu">bef&odblac;tt</trd>  
+  <trdgrp lng="nl">
+    <trd>confituur</trd>,
+    <trd>gekonfijte <ind>vruchten</ind></trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_v;&c_a;&c_r;&c_je;&c_n;&c_mol;&c_je;</trd>,
+    <trd>&c_k;&c_o;&c_n;&c_f;&c_i;&c_t;&c_ju;&c_r;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: konfit.xml,v $
+Revision 1.21  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.19  2009/09/05 16:31:32  revo
+Paul Peeraerts: korekto en nl
+
+Revision 1.18  2008/12/11 17:31:18  revo
+Russ Williams: +trd en
+
+Revision 1.17  2007/06/19 16:30:39  revo
+Jeromo Vasxe: + mrk, kor. 1 trd fr
+
+Revision 1.16  2006/12/13 17:30:39  revo
+Tulio Flores: +tr pt
+
+Revision 1.15  2006/06/13 16:31:08  revo
+Eduardo Navas: +trd es
+
+Revision 1.14  2005/08/13 16:33:22  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.13  2005/07/09 19:56:33  revo
+Marc Bavant: +ref en dif
+
+Revision 1.12  2004/11/26 17:32:48  revo
+-->
+</vortaro>

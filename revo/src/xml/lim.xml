@@ -1,0 +1,732 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: lim.xml,v 1.37 2015/07/04 08:37:38 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>lim</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="lim.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="lim.0o.spaca">
+    <dif>
+      Loko, kie fini&gcirc;as iu difinita spaco:
+      <ekz>
+        <tld/>o de kampo, arbaro, voja&gcirc;o;
+      </ekz>
+      <ekz>
+        kaj ili komencis petegi lin, ke li foriru el iliaj <tld/>oj
+        <fnt><bib>NT</bib>, <lok>&Mar; 5:17</lok>;</fnt>
+      </ekz>
+      <ekz>
+        &ccirc;ie lingvaj <tld/>oj baras la vojojn inter la popoloj.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="bord.0o">bordo</ref>,
+      <ref cel="rand.0o">rando</ref>
+    </refgrp>
+    <trd lng="de">Grenze</trd>
+    <trd lng="en">boundary</trd>
+    <trd lng="hu">hat&aacute;r</trd>
+    <trdgrp lng="nl">
+      <trd>grens</trd>,
+      <trd>rand</trd>
+    </trdgrp>
+    <trd lng="pl">granica</trd>
+    <trdgrp lng="pt">
+      <trd>limite</trd>, <trd>fronteira</trd>, <trd>borda</trd>
+    </trdgrp>
+    <trd lng="ru">&c_g;&c_r;&c_a;&c_n;&c_i;&c_c;&c_a;</trd>
+  </snc>
+  <snc mrk="lim.0o.tempa">
+    <dif>
+      Momento, kiam fini&gcirc;as iu difinita tempo:
+      <ekz>
+        morga&ubreve; estas la lasta <tld/>o de mia libertempo.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>Zeitpunkt</trd>,
+      <trd>Termin</trd>
+    </trdgrp>
+    <trd lng="hu">hat&aacute;rid&odblac;</trd>
+    <trd lng="nl">termijn</trd>
+    <trd lng="pl">termin</trd>
+    <trd lng="pt">t&eacute;rmino</trd>
+    <trd lng="ru">&c_s;&c_r;&c_o;&c_k;</trd>
+  </snc>
+  <snc mrk="lim.0o.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Punkto, kie fini&gcirc;as fizika a&ubreve; morala povo:
+      <ekz>
+        esti &ccirc;e la <tld/>o de sia pacienco;
+      </ekz>
+      <ekz>
+        meti <tld/>ojn al siaj elspezoj;
+      </ekz>
+      <ekz>
+        transpa&scirc;i la <tld/>ojn de siaj fortoj, de sia povo, de
+        deco, de permesata polemiko;
+      </ekz>
+      <ekz>
+        li fari&gcirc;adis tute sova&gcirc;a kaj petola kaj transiradis
+        &ccirc;iajn <tld/>ojn<fnt>Z</fnt>
+        <klr>(estis tute senmodera)</klr>.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>Grenze</trd>,
+      <trd>Rand</trd>
+    </trdgrp>
+    <trd lng="hu">hat&aacute;r</trd>
+    <trd lng="nl">rand</trd>
+    <trd lng="pl">kres</trd>
+    <trd lng="pt">limite</trd>
+    <trd lng="ru">&c_p;&c_r;&c_je;&c_d;&c_je;&c_l;</trd>
+  </snc>
+  <snc mrk="lim.0o.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <uzo tip="stl">ARK</uzo>
+    <fnt><bib>MatTerm</bib>, <lok>p. 17</lok></fnt>
+    <refgrp tip="vid">
+      <ref cel="infim.0o">infimo</ref>,
+      <ref cel="suprem.0o">supremo</ref>.
+    </refgrp>
+    <trd lng="de">Grenzwert</trd>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_m;&c_ja;&c_zh;&c_a;</trd>,
+    <trd>&c_g;&c_r;&c_a;&c_n;&c_ib;&c_c;&c_a;</trd>,
+    <trd>&c_l;&c_ib;&c_m;&c_ib;&c_t;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>hranice</trd>,
+    <trd>limit</trd>,
+    <trd>mez</trd>,
+    <trd>předěl</trd>
+  </trdgrp>
+  <trd lng="en">limit</trd>
+  <trd lng="es">l&iacute;mite</trd>
+  <trd lng="fr">limite</trd>
+  <trd lng="hu">hat&aacute;r&eacute;rt&eacute;k</trd>
+  <trd lng="pl">kres</trd>
+  <trd lng="pt">limite</trd>
+  <trd lng="ru">&c_g;&c_r;&c_a;&c_n;&c_i;&c_c;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>hranica</trd>,
+    <trd>limit</trd>,
+    <trd>medza</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="lim.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="lim.0a.KOMUNE">
+    <dif>
+      Rilata al <tld/>o; konsistiganta <tld/>on; estanta &ccirc;e <tld/>o.
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_m;&c_je;&c_zh;&c_a;&c_v;&c_y;</trd>,
+    <trd>&c_g;&c_r;&c_a;&c_n;&c_ib;&c_ch;&c_n;&c_y;</trd>,
+    <trd>&c_p;&c_a;&c_g;&c_r;&c_a;&c_n;&c_ib;&c_ch;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>hraniční</trd>,
+    <trd>mezní</trd>,
+    <trd>pohraniční</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>angrenzend</trd>,
+    <trd>begrenzend</trd>,
+    <trd><klr>eine </klr>Grenze <ind>bildend</ind></trd>,
+    <trd>grenzwertig</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>boundary</trd>,
+    <trd>bounding</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>limitatif</trd>,
+    <trd>limitrophe</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>hat&aacute;ros</trd>,
+    <trd>hat&aacute;r-</trd>
+  </trdgrp>
+  <trd lng="pl">graniczny</trd>
+  <trdgrp lng="pt">
+    <trd>limitante</trd>, <trd>fronteiri&ccedil;o</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_g;&c_r;&c_a;&c_n;&c_i;&c_ch;&c_n;&c_y;&c_j;</trd>,
+    <trd>&c_p;&c_o;&c_g;&c_r;&c_a;&c_n;&c_i;&c_ch;&c_n;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>hraničný</trd>,
+    <trd>medzný</trd>,
+    <trd>pohraničný</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="lim.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>x</vspec></gra>
+  <uzo tip="klr">(io)</uzo>
+  <snc mrk="lim.0i.KOMUNE">
+    <dif>
+      Esti <tld/>o, signo de <tld/>o de, formi mem la <tld/>on de:
+      <ekz>
+        rivero, muro <tld/>as la bienon;
+      </ekz>
+      <ekz>
+        Jordano <tld/>as oriente la landon<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        al la provinco <tld/>as montaro.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>angrenzen</trd>,
+      <trd>begrenzen</trd>,
+      <trd><klr>eine </klr>Grenze <ind>bilden</ind></trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>hat&aacute;rol</trd>,
+      <trd>hat&aacute;ros</trd>
+    </trdgrp>
+    <trd lng="pl">graniczy&cacute;</trd>
+  </snc>
+  <snc mrk="lim.0i.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <ref tip="dif" cel="rand.0i.MAT">randi</ref>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_m;&c_je;&c_zh;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_a;&c_b;&c_m;&c_ja;&c_zh;&c_o;&c_w;&c_v;&c_a;&c_c;&c_mol; <klr tip="amb">(&c_s;&c_a;&c_b;&c_o;&c_j;)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>být na hranici</trd>,
+    <trd>hraničit</trd>,
+    <trd>ohraničit</trd>,
+    <trd>sousedit</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>bound</trd>,
+    <trd>be a boundary of</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>limiter<klr tip="ind"> (former la limite de)</klr></trd>,
+    <trd>former la <ind>limite</ind> (de)</trd>
+  </trdgrp>
+  <trd lng="hu">hat&aacute;rol</trd>
+  <trd lng="nl">grenzen</trd>
+  <trd lng="pt">limitar</trd>
+  <trdgrp lng="ru">
+    <trd>&c_g;&c_r;&c_a;&c_n;&c_i;&c_ch;&c_i;&c_t;&c_mol;</trd>,
+    <trd>&c_o;&c_g;&c_r;&c_a;&c_n;&c_i;&c_ch;&c_i;&c_v;&c_a;&c_t;&c_mol;<klr tip="amb"> (&c_s;&c_o;&c_b;&c_o;&c_j;)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>hraničiť</trd>,
+    <trd>ohraničiť</trd>,
+    <trd>susediť</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="lim.0igi">
+  <kap><tld/>igi</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="lim.0igi.krei.limon">
+    <uzo tip="klr">(iu)</uzo>
+    <dif>
+      Fiksi, difini, montri per iu signo la <tld/>on de:
+      <ekz>
+        delegitaro
+        komisiita por <tld/>igi la novan teritorion;
+      </ekz>
+      <ekz>
+        <tld/>igi parkon per muro, terenon per flagoj.
+      </ekz>
+    </dif>
+    <trd lng="hu">behat&aacute;rol</trd>
+    <trd lng="pl">wytycza&cacute;</trd>
+    <trdgrp lng="pt">
+      <trd>demarcar</trd>, <trd>delimitar</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="lim.0igi.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <uzo tip="klr">(iu a&ubreve; io)</uzo>
+    <dif>
+      Fiksi, haltige difini la disvastecon, la disvolvi&gcirc;on de iu afero
+      materia a&ubreve; morala; malhelpi troan vasti&gcirc;on de io:
+      <ekz>
+        <tld/>igi siajn penojn, sian esperon, sian ambicion;
+      </ekz>
+      <ekz>
+        la homaj fortoj estas <tld/>igitaj;
+      </ekz>
+      <ekz>
+        <tld/>igi la da&ubreve;ron de la diskutado;
+      </ekz>
+      <ekz>
+        mi longe <tld/>igis min per revado<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        mi <tld/>igas min per mallonga rimarko, per tio, ke<fnt>Z</fnt>
+        (<ref tip="sin" cel="konten.0igxi">kontenti&gcirc;i</ref>);
+      </ekz>
+      <ekz>
+        pro manko de loko mi <tld/>igas min je la plej
+        necesa<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        montoj <tld/>igas la vidon;
+      </ekz>
+      <ekz>
+        delegito kun <tld/>igitaj povoj;
+      </ekz>
+      <ekz>
+        la statutoj <tld/>igas la rolon, a&ubreve;toritaton de
+        la direktoro;
+      </ekz>
+      <ekz>
+        la tuta demando <tld/>igas sin <klr>(<tld/>i&gcirc;as)</klr> al
+        jeno<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        <tld/>igado de la armado.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="redukt.0i">redukti</ref>
+    <trd lng="hu">korl&aacute;toz</trd>
+    <trdgrp lng="pt">
+      <trd>limitar</trd>, <trd>restringir</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="lim.0igi.limi">
+    <uzo tip="klr">(io)</uzo>
+    <ref tip="dif" cel="lim.0i">limi</ref>
+  </snc>
+  <trd lng="be">&c_a;&c_b;&c_m;&c_ja;&c_zh;&c_o;&c_w;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>limitovat</trd>,
+    <trd>ohraničit</trd>,
+    <trd>omezit</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>begrenzen</trd>,
+    <trd>beschr&auml;nken</trd>,
+    <trd>einschr&auml;nken</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>limit</trd>,
+    <trd>circumscribe</trd>
+  </trdgrp>
+  <trd lng="es">limitar</trd>
+  <trdgrp lng="fr">
+    <trd>limiter<klr tip="ind"> (fixer la limite de)</klr></trd>,
+    <trd>fixer la <ind>limite</ind> (de)</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>begrenzen</trd>,
+    <trd>afbakenen</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_o;&c_g;&c_r;&c_a;&c_n;&c_i;&c_ch;&c_i;&c_v;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_o;&c_g;&c_r;&c_a;&c_n;&c_i;&c_ch;&c_i;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>medze</trd>,
+    <trd>označiť hranicu</trd>,
+    <trd>stanoviť</trd>,
+    <trd>určiť</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="lim.0igxi">
+  <kap><tld/>i&gcirc;i</kap>
+  <snc mrk="lim.0igxi.KOMUNE">
+    <dif>
+      Esence konsisti el, ne esti pli ampleksa ol:
+      <ekz>
+        &ccirc;iuj liaj pretendoj
+        <tld/>i&gcirc;as je la edzi&gcirc;-permeso.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_a;&c_b;&c_m;&c_ja;&c_zh;&c_o;&c_w;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>
+  <trdgrp lng="de">
+    <trd>begrenzt sein</trd>,
+    <trd>beschr&auml;nkt sein</trd>,
+    <trd>eingeschr&auml;nkt sein</trd>,
+    <trd>sich <ind>begrenzen</ind> <klr tip="ind">(auf)</klr></trd>,
+    <trd>sich <ind>beschr&auml;nken</ind> <klr tip="ind">(auf)</klr></trd>,
+    <trd>sich <ind>einschr&auml;nken</ind> <klr tip="ind">(auf)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>be limited to</trd>,
+    <trd>be bounded by</trd>
+  </trdgrp>
+  <trd lng="fr">se <ind>limiter</ind> (&agrave;)</trd>
+  <trdgrp lng="hu">
+    <trd>behat&aacute;rol&oacute;dik</trd>
+    <trd>korl&aacute;toz&oacute;dik</trd>,
+    <trd>szor&iacute;tkozik</trd>
+  </trdgrp>
+  <trd lng="nl">zich <ind>beperken</ind> tot</trd>
+  <trd lng="pl">sk&lstroke;ada&cacute; si&eogonek;</trd>
+  <trdgrp lng="pt">
+    <trd>limitar-se</trd>, <trd>restringir-se</trd>,
+    <trd>resumir-se</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_o;&c_g;&c_r;&c_a;&c_n;&c_i;&c_ch;&c_i;&c_v;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>,
+    <trd>&c_o;&c_g;&c_r;&c_a;&c_n;&c_i;&c_ch;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="lim.akvodis0o">
+  <kap>akvodis<tld/>o</kap>
+  <snc mrk="lim.akvodis0o.GEOG">
+    <uzo tip="fak">GEOG</uzo>
+    <dif>
+      Linio de alta&jcirc;oj dividanta la flankojn, la&ubreve; kiuj fluas la
+      akvoj; alivorte, la <tld/>o inter najbaraj akvokolektaj
+      <ref cel="basen.0o.GEOG">basenoj</ref>.
+    </dif>
+  </snc>
+  <trd lng="be">&c_v;&c_o;&c_d;&c_a;&c_p;&c_a;&c_d;&c_z;&c_je;&c_l;</trd>
+  <trdgrp lng="cs">
+    <trd>hranice mezi povodími</trd>,
+    <trd>rozvodí</trd>
+  </trdgrp>
+  <trd lng="de">Wasserscheide</trd>
+  <trdgrp lng="en">
+    <trd>watershed</trd>,
+    <trd>water parting</trd>,
+    <trd>divide</trd>
+  </trdgrp>
+  <trd lng="fr">ligne de partage des eaux</trd>
+  <trd lng="hu">v&iacute;zv&aacute;laszt&oacute;</trd>
+  <trd lng="pl">dzia&lstroke; wodny</trd>
+  <trd lng="pt">divisor de &aacute;guas</trd>
+  <trd lng="ru">&c_v;&c_o;&c_d;&c_o;&c_r;&c_a;&c_z;&c_d;&c_je;&c_l;</trd>
+  <trdgrp lng="sk">
+    <trd>hranica medzi povodiami</trd>,
+    <trd>rozvodie</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="lim.cxirkaux0i">
+  <kap>&ccirc;irka&ubreve;<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="lim.cxirkaux0i.KOMUNE">
+    <dif>
+      &Ccirc;irka&ubreve;i <tld/>ante:
+      <ekz>
+        herbejoj kaj mar&ccirc;oj, &ccirc;irka&ubreve;<tld/>itaj
+        de altaj dunoj
+        <fnt><bib>Fab4</bib><lok>Historio el la dunoj</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="en">surround</trd>
+  <trd lng="fr">d&eacute;limiter<klr> (en entourant)</klr></trd>
+  <trd lng="pl">otacza&cacute;</trd>
+  <trd lng="ru">&c_o;&c_g;&c_r;&c_a;&c_n;&c_i;&c_ch;&c_i;&c_v;&c_a;&c_t;&c_mol;<klr tip="amb"> (&c_v;&c_o;&c_k;&c_r;&c_u;&c_g;)</klr></trd>
+</drv>
+
+<drv mrk="lim.dis0i">
+  <kap>dis<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="lim.dis0i.KOMUNE">
+    <dif>
+      Dupartigi:
+      <ekz>
+        dis<tld/>i la harojn<fnt>Z</fnt>
+        <klr>(diskombante ilin la&ubreve; rekta linio)</klr>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_r;&c_a;&c_z;&c_mol;&c_m;&c_ja;&c_zh;&c_o;&c_w;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_r;&c_a;&c_z;&c_mol;&c_d;&c_z;&c_ja;&c_l;&c_ja;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="cs">rozhraničit</trd>
+  <trdgrp lng="de">
+    <trd>teilen</trd>,
+    <trd>zerschneiden</trd>,
+    <trd>aufteilen</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>d&eacute;limiter<klr tip="ind"> (en s&eacute;parant)</klr></trd>,
+    <trd>s&eacute;parer<klr tip="ind"> (en tra&ccedil;ant une limite)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>elhat&aacute;rol</trd>,
+    <trd>sz&eacute;tv&aacute;laszt</trd>,
+    <trd>kett&eacute;oszt</trd>
+  </trdgrp>
+  <trd lng="nl">afbakenen</trd>
+  <trd lng="pl">rozgranicza&cacute;</trd>
+  <trdgrp lng="pt">
+    <trd>delimitar</trd>, <trd>apartar</trd>, <trd>separar</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_r;&c_a;&c_z;&c_g;&c_r;&c_a;&c_n;&c_i;&c_ch;&c_i;&c_t;&c_mol;</trd>,
+    <trd>&c_r;&c_a;&c_z;&c_d;&c_je;&c_l;&c_i;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="sk">rozhraničiť</trd>
+</drv>
+
+<drv mrk="lim.gxis0i">
+  <kap>&gcirc;is<tld/>i</kap>
+  <gra><vspec>x</vspec></gra>
+  <snc mrk="lim.gxis0i.KOMUNE">
+    <dif>
+      Etendi&gcirc;i &gcirc;is;
+      <ref tip="vid" cel="ating.0i.spacon">atingi<sncref/></ref>:
+      <ekz>
+        la ravo de la popolamaso <ind>&gcirc;is<tld/>is frenezon</ind>.
+        <trd lng="hu">&odblac;r&uuml;lts&eacute;ggel volt <ind>hat&aacute;ros</ind></trd>
+        <fnt>
+         <aut>L. N. Tolstoj, trad. I. Ma&ccirc;ernis</aut>,
+         <vrk><url
+         ref="http://cindymckee.com/librejo/TOLSTOJ_Kristanismo_kaj_patriotismo.pdf">
+         Kristanismo kaj Patriotismo</url></vrk>,
+         <lok>1931</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_r;&c_a;&c_s;&c_p;&c_a;&c_s;&c_mol;&c_c;&c_ib;&c_r;&c_a;&c_c;&c_c;&c_a;</trd>,
+    <trd>&c_s;&c_ja;&c_g;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_d;&c_a;&c_s;&c_ja;&c_g;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>grenzen (an)</trd>,
+    <trd><klr>sich </klr>erstrecken (bis)</trd>
+  </trdgrp>
+  <trd lng="en">extend to</trd>
+  <trdgrp lng="fr">
+    <trd>confiner<klr> (&agrave;)</klr></trd>,
+    <trd>friser<klr tip="ind"> (confiner &agrave;)</klr></trd>,
+    <trd>toucher<klr tip="ind"> (confiner &agrave;)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>terjed <klr tip="ind">(el&eacute;r)</klr></trd>,
+    <trd>hat&aacute;ros</trd>
+  </trdgrp>
+  <trd lng="nl">reiken tot</trd>
+  <trd lng="pl">osi&aogonek;ga&cacute;</trd>
+  <trdgrp lng="pt">
+    <trd>tocar</trd>, <trd>chegar a</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_r;&c_o;&c_s;&c_t;&c_i;&c_r;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>,
+    <trd>&c_d;&c_o;&c_s;&c_t;&c_i;&c_g;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="lim.land0o">
+  <kap>land<tld/>o</kap>
+  <snc mrk="lim.land0o.GEOG">
+    <uzo tip="fak">GEOG</uzo>
+    <dif>
+      <tld lit="L"/>o inter du landoj:
+      <ekz>
+        fermi la land<tld/>ojn al la internacia trafiko.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_m;&c_ja;&c_zh;&c_a;</trd>,
+    <trd>&c_g;&c_r;&c_a;&c_n;&c_ib;&c_c;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>hranice země</trd>,
+    <trd>státu</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>politische Grenze</trd>,
+    <trd>Landesgrenze</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>national boundary</trd>,
+    <trd>national border</trd>
+  </trdgrp>
+  <trd lng="fr">fronti&egrave;re</trd>
+  <trd lng="hu">orsz&aacute;ghat&aacute;r</trd>
+  <trd lng="pl">granica pa&nacute;stwa</trd>
+  <trdgrp lng="ru">
+    <trd>&c_g;&c_r;&c_a;&c_n;&c_i;&c_c;&c_a;</trd>,
+    <trd>&c_g;&c_o;&c_s;&c_u;&c_d;&c_a;&c_r;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_a;&c_ja; <ind>&c_g;&c_r;&c_a;&c_n;&c_i;&c_c;&c_a;</ind></trd>
+  </trdgrp>
+  <trd lng="sk">hranica krajiny</trd>
+</drv>
+
+<drv mrk="lim.temp0o">
+  <kap>temp<tld/>o, <var><kap><tld/>tempo</kap></var></kap>
+  <snc mrk="lim.temp0o.KOMUNE">
+    <dif>
+      Tempo dum kiu, a&ubreve; momento anta&ubreve; kiu oni devas fari ion:
+      <ekz>
+        temp<tld/>o de kambio, de konkurso, de valideco de fervoja
+        bileto.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_t;&c_e;&c_r;&c_m;&c_ib;&c_n;</trd>
+  <trdgrp lng="de">
+    <trd>Abgabetag</trd>,
+    <trd>Abgabedatum</trd>,
+    <trd>Abgabetermin</trd>,
+    <trd>Termin</trd>,
+    <trd>Verfalltag</trd>,
+    <trd>Verfalldatum</trd>,
+    <trd>Verfallstermin</trd>,
+    <trd>G&uuml;ltigkeitsdatum</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>time limit</trd>,
+    <trd>deadline</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>d&eacute;lai</trd>,
+    <trd>limite<klr tip="ind"> (d&eacute;lai)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>hat&aacute;rid&odblac;</trd>,
+    <trd>id&odblac;hat&aacute;r</trd>
+  </trdgrp>
+  <trd lng="nl">limiet</trd>
+  <trd lng="pl">termin</trd>
+  <trd lng="pt">prazo</trd>
+  <trd lng="ru">&c_s;&c_r;&c_o;&c_k;</trd>
+</drv>
+
+<drv mrk="lim.sen0a">
+  <kap>sen<tld/>a</kap>
+  <snc mrk="lim.sen0a.KOMUNE">
+    <dif>
+      Havanta neniun <tld/>on:
+      <ekz>
+        sen<tld/>a multego<fnt>Z</fnt>,
+      </ekz>
+      <ekz>
+        spaco, tempo, povo, fiero, konfido;
+      </ekz>
+      <ekz>
+        sen<tld/>e ami.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="fin.sen0a">senfina</ref>,
+      <ref cel="infini.0a">infinita</ref>.
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_b;&c_ja;&c_z;&c_m;&c_je;&c_zh;&c_n;&c_y;</trd>,
+    <trd>&c_n;&c_je;&c_a;&c_b;&c_m;&c_je;&c_zh;&c_a;&c_v;&c_a;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>bez hranic</trd>,
+    <trd>bezmezný</trd>
+  </trdgrp>
+  <trd lng="de">unbegrenzt</trd>
+  <trdgrp lng="en">
+    <trd>unlimited</trd>,
+    <trd>limitless</trd>
+  </trdgrp>
+  <trd lng="es">ilimitado</trd>
+  <trd lng="fr">illimit&eacute;</trd>
+  <trdgrp lng="hu">
+    <trd>hat&aacute;rtalan</trd>,
+    <trd>korl&aacute;tlan</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>grenzeloos</trd>,
+    <trd>onbeperkt</trd>
+  </trdgrp>
+  <trd lng="pl">bezgraniczny</trd>
+  <trd lng="pt">ilimitado</trd>
+  <trdgrp lng="ru">
+    <trd>&c_b;&c_je;&c_z;&c_g;&c_r;&c_a;&c_n;&c_i;&c_ch;&c_n;&c_y;&c_j;</trd>,
+    <trd>&c_n;&c_je;&c_o;&c_g;&c_r;&c_a;&c_n;&c_i;&c_ch;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>bez hraníc</trd>,
+    <trd>bezhraničný</trd>,
+    <trd>bezmedzný</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="lim.0sxtono">
+  <kap><tld/>&scirc;tono</kap>
+  <snc>
+    <dif>
+      &Scirc;tono, kiu signas <tld/>on de tereno a&ubreve; distancon sur vojo.
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_m;&c_je;&c_zh;&c_a;&c_v;&c_y; &c_k;&c_a;&c_m;&c_je;&c_n;&c_mol;</trd>,
+    <trd>&c_k;&c_ib;&c_l;&c_ja;&c_m;&c_e;&c_t;&c_r;&c_o;&c_v;&c_y; &c_s;&c_l;&c_u;&c_p;</trd>
+  </trdgrp>
+  <trd lng="de">Grenzstein</trd>
+  <trdgrp lng="en">
+    <trd>border stone</trd>,
+    <trd>boundary stone</trd>,
+    <trd>border marker</trd>,
+    <trd>boundary marker</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>rep&egrave;re<klr tip="ind"> (borne)</klr></trd>,
+    <trd>borne<klr tip="ind"> (rep&egrave;re)</klr></trd>
+  </trdgrp>
+  <trd lng="hu">hat&aacute;rk&odblac;</trd>
+  <trd lng="nl">grenspaal</trd>
+  <trd lng="pl">kamie&nacute; graniczny</trd>
+  <trd lng="pt">marco</trd>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_o;&c_g;&c_r;&c_a;&c_n;&c_i;&c_ch;&c_n;&c_y;&c_j; &c_k;&c_a;&c_m;&c_je;&c_n;&c_mol;</trd>,
+    <trd>&c_k;&c_i;&c_l;&c_o;&c_m;&c_je;&c_t;&c_r;&c_o;&c_v;&c_y;&c_j; &c_s;&c_t;&c_o;&c_l;&c_b;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: lim.xml,v $
+Revision 1.37  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.36  2015/06/29 16:33:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.35  2013/02/01 21:10:12  revo
+Jeromo Vasxe: + 1 ekz
+
+Revision 1.34  2012/10/23 00:12:48  revo
+Neil Roberts: aldonu la etikedon <var>
+
+Revision 1.33  2011/01/08 16:10:08  revo
+Russ Williams: +trd en
+
+Revision 1.32  2007/05/30 16:31:45  revo
+Wieland Pusch: +trd de
+
+Revision 1.31  2005/04/29 16:32:26  revo
+Yury Finkel: +trd ru
+
+Revision 1.30  2005/01/17 17:34:43  revo
+Vito Redsky: korekto trd pl + trd pl
+
+Revision 1.29  2004/10/13 16:31:49  revo
+Wolfram Diestel: kor. germ trd
+
+Revision 1.28  2004/08/29 16:33:00  revo
+-->
+</vortaro>

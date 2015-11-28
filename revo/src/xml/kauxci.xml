@@ -1,0 +1,114 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: kauxci.xml,v 1.18 2013/01/01 14:10:29 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>ka&ubreve;ci</rad>/o
+</kap>
+<drv mrk="kauxci.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">JUR</uzo>
+  <uzo tip="fak">EKON</uzo>
+  <snc>
+    <dif>
+      Monsumo, kiun oni deponas, a&ubreve; kiun oni promesas pagi por garantii
+      la plenumon de interkonsento a&ubreve; kontrakto farita de si mem a&ubreve; de
+      alia:
+      <ekz>doni, havigi <tld/>on;</ekz>
+      <ekz>liberigi akuziton per, kontra&ubreve; <tld/>o.</ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_z;&c_a;&c_l;&c_o;&c_g;</trd>,
+      <trd>&c_z;&c_a;&c_k;&c_l;&c_a;&c_d;</trd>
+    </trdgrp>
+    <trd lng="ca">fian&ccedil;a</trd>
+    <trdgrp lng="de">
+      <trd>Kaution</trd>,
+      <trd>B&uuml;rgschaft</trd>,
+      <trd>Sicherheit</trd>
+    </trdgrp>
+    <trd lng="en">bail</trd>
+    <trd lng="es">fianza</trd>
+    <trd lng="fr">caution</trd>
+    <trdgrp lng="hu">
+      <trd>&oacute;vad&eacute;k</trd>,
+      <trd>kauci&oacute;</trd>
+    </trdgrp>
+    <trdgrp lng="nl">
+      <trd>cautie</trd>,
+      <trd>borgsom</trd>,
+      <trd>statiegeld</trd>,
+      <trd>waarborg</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="pl">kaucja</trd>
+  <trd lng="ru">&c_z;&c_a;&c_l;&c_o;&c_g;</trd>
+</drv>
+
+<drv mrk="kauxci.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <uzo tip="fak">EKON</uzo>
+  <snc>
+    <dif>
+      Doni <tld/>on por iu.  
+    </dif>
+  </snc>
+    <trdgrp lng="be">
+      <trd>&c_u;&c_n;&c_je;&c_s;&c_mol;&c_c;&c_ib; <ind>&c_z;&c_a;&c_l;&c_o;&c_g;</ind></trd>,
+      <trd>&c_u;&c_n;&c_je;&c_s;&c_mol;&c_c;&c_ib; <ind>&c_z;&c_a;&c_k;&c_l;&c_a;&c_d;</ind></trd>
+    </trdgrp>
+    <trdgrp lng="ca">
+      <trd>fian&ccedil;ar</trd>,
+      <trd>avalar</trd>
+    </trdgrp>
+  <trdgrp lng="de">
+     <trd>eine <ind>Kaution stellen</ind></trd>,
+     <trd>b&uuml;rgen</trd>,
+     <trd>Sicherheiten hinterlegen</trd>
+  </trdgrp>
+  <trd lng="en">bail<klr> (one) out of jail</klr></trd>
+  <trdgrp lng="fr">
+    <trd>cautionner</trd>,
+    <trd>se porter <ind>caution</ind> (pour)</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+     <trd>&oacute;vad&eacute;kot tesz le</trd>,
+     <trd>kauci&oacute;t tesz le</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>waarborgen</trd>,
+    <trd>borg staan</trd>
+  </trdgrp>
+  <trd lng="pl">wp&lstroke;aci&cacute; <ind>kaucj&eogonek;</ind></trd>
+  <trd lng="ru">&c_v;&c_n;&c_je;&c_s;&c_t;&c_i; &c_z;&c_a;&c_l;&c_o;&c_g;</trd>
+</drv>
+</art>
+<!--
+$Log: kauxci.xml,v $
+Revision 1.18  2013/01/01 14:10:29  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.17  2012/07/17 09:10:15  revo
+Marc Rausell: ++ trd ca
+
+Revision 1.16  2009/08/25 16:34:00  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.15  2005/04/24 16:34:14  revo
+Raul Salinas Monteagudo: +trd ca,es
+
+Revision 1.14  2004/12/05 17:34:38  revo
+Marc Bavant: +trd fr
+
+Revision 1.13  2004/07/17 18:19:22  revo
+Jean Hennebert: +trd fr -o
+
+Revision 1.12  2004/07/06 16:33:53  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.11  2004/03/22 17:30:41  revo
+-->
+</vortaro>

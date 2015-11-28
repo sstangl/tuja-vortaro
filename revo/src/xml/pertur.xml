@@ -1,0 +1,176 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: pertur.xml,v 1.14 2015/07/04 08:37:41 revo Exp $">
+<kap>
+  <rad>perturb</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="pertur.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="pertur.0i.KOMUNE">
+    <dif>
+      Ka&ubreve;zi malordon, malbonan funkciadon;
+      <ref tip="sin" cel="disturb.0i.KOMUNE">disturbi</ref>.
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>pokazit</trd>,
+    <trd>poškodit</trd>,
+    <trd>rušit</trd>,
+    <trd>způsobit poruchu</trd>
+  </trdgrp>
+  <trd lng="de">st&ouml;ren</trd>
+  <trdgrp lng="fr">
+    <trd>g&ecirc;ner</trd>,
+    <trd>perturber</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>megzavar</trd>,
+    <trd>zavart okoz</trd>,
+    <trd>&uuml;zemzavart id&eacute;z el&odblac;</trd>
+  </trdgrp>
+  <trd lng="nl">storen</trd>
+  <trdgrp lng="ru">
+    <trd>&c_v;&c_y;&c_z;&c_v;&c_a;&c_t;&c_mol; <ind>&c_s;&c_b;&c_o;&c_j;</ind></trd>,
+    <trd>&c_v;&c_y;&c_z;&c_v;&c_a;&c_t;&c_mol; <ind>&c_r;&c_a;&c_s;&c_s;&c_t;&c_r;&c_o;&c_j;&c_s;&c_t;&c_v;&c_o;</ind></trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>pokaziť</trd>,
+    <trd>poškodiť</trd>,
+    <trd>rušiť</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="pertur.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="pertur.0o.KOMUNE">
+    <dif>
+      Misfunkciado pro ia malordo.
+    </dif>
+    <subsnc mrk="pertur.0o.TEK">
+      <uzo tip="fak">TEK</uzo>
+      <dif>
+        Malordo en ma&scirc;ino.
+      </dif>
+      <refgrp tip="vid">
+        <ref cel="pane.0o.TEK">paneo</ref>
+      </refgrp>
+      <trd lng="hu">&uuml;zemzavar</trd>    
+      <trd lng="ru">&c_s;&c_b;&c_o;&c_j;</trd>
+    </subsnc>
+    <subsnc mrk="pertur.0o.MED">
+      <uzo tip="fak">MED</uzo>
+      <dif>
+        Malordo en la homa korpo pro malbona funkcio de iu organo:
+        <ekz>
+          aflatoksino <klr>...</klr> ka&ubreve;zas hepatajn malsanojn,
+          digestajn <tld/>ojn
+          <fnt>
+            <aut>P. S. Viana</aut>,
+            <vrk><url
+            ref="http://www.esperanto.be/fel/2002/007905.html">
+            Dan&gcirc;eraj arakidoj</url></vrk>,
+            <bib>Monato</bib>,
+            <lok>2002</lok>
+          </fnt>
+        </ekz>
+      </dif>
+      <trd lng="en">disorder</trd>
+      <trd lng="fr">trouble</trd>
+      <trdgrp lng="hu">
+        <trd>zavar</trd>,
+        <trd>diszfunkci&oacute;</trd>
+      </trdgrp>
+      <trd lng="pt">perturba&ccedil;&atilde;o</trd>
+      <trdgrp lng="ru">
+        <trd>&c_r;&c_a;&c_s;&c_s;&c_t;&c_r;&c_o;&c_j;&c_s;&c_t;&c_v;&c_o;</trd>,
+        <trd>&c_d;&c_i;&c_s;&c_f;&c_u;&c_n;&c_k;&c_c;&c_i;&c_ja;</trd>
+      </trdgrp>    
+    </subsnc>
+    <subsnc mrk="pertur.0o.PSI">
+      <uzo tip="fak">PSI</uzo>
+      <dif>
+        Anima &gcirc;eno, malagrabla&jcirc;o pro iu penso a&ubreve; imago:
+        <ekz>
+          sub &ccirc;io estis sento de <tld/>o:
+          estis ia malagrabla&jcirc;o, kiun mi ne volis pripensi
+          <fnt>
+            <aut>A. L&ouml;wenstein</aut>,
+            <vrk>La &scirc;tona urbo</vrk>,
+            <lok>1999</lok>
+          </fnt>.
+        </ekz>
+      </dif>
+    </subsnc>
+  </snc>
+  <trd lng="cs">porucha</trd>
+  <trd lng="de">St&ouml;rung</trd>
+  <trdgrp lng="fr">
+    <trd>d&eacute;rangement</trd>,
+    <trd>perturbation</trd>
+  </trdgrp>
+  <trd lng="nl">storing</trd>
+  <trdgrp lng="pt">
+    <trd>defeito</trd>,
+    <trd>falha</trd>,
+    <trd>engui&ccedil;o</trd>    
+  </trdgrp>
+  <trd lng="sk">porucha</trd>
+</drv>
+
+<drv mrk="pertur.0igxi">
+  <kap><tld/>i&gcirc;i</kap>
+  <snc mrk="pertur.0igxi.KOMUNE">
+    <dif>
+      Havi <tld/>ojn.
+    </dif>
+  </snc>
+  <trdgrp lng="fr">
+    <trd>se <ind>d&eacute;r&eacute;gler</ind></trd>,
+    <trd>se <ind>troubler</ind></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>zavar keletkezik</trd>,
+    <trd>&uuml;zemzavar l&eacute;p fel</trd>
+  </trdgrp>  
+  <trd lng="nl">ge<ind>stoor</ind>d zijn</trd>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_b;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>,
+    <trd>&c_r;&c_a;&c_s;&c_s;&c_t;&c_r;&c_o;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: pertur.xml,v $
+Revision 1.14  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.13  2015/06/29 16:40:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.12  2015/02/15 15:10:15  revo
+Jeromo Vasxe: ~i unua, ~o + subsnc psi
+
+Revision 1.11  2015/01/04 14:10:30  revo
+Alain Gerard: +trd (en,fr)
+
+Revision 1.10  2013/11/21 02:10:28  revo
+Jeromo Vasxe: kor mrk
+
+Revision 1.9  2013/09/04 18:10:11  revo
+Jeromo Vasxe: + mrk + kk ref + trd fr
+
+Revision 1.8  2006/02/27 17:35:29  revo
+Tulio Flores: +tr pt
+
+Revision 1.7  2004/08/09 19:00:03  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.6  2001/12/19 12:00:00  revo
+Yury Finkel: +trd ru
+
+Revision 1.5 2001/07/29 19:27:45 revo
+-->
+</vortaro>

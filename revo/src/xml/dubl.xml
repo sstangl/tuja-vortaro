@@ -1,0 +1,131 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: dubl.xml,v 1.11 2015/07/04 08:37:32 revo Exp $">
+<kap>
+  <rad>dubl</rad>/i <fnt><bib>PIV1</bib></fnt>
+</kap>
+
+<drv mrk="dubl.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="dubl.0i.SON">
+    <dif>
+      Aldoni novan sontrakon al registra&jcirc;o, ekzemple a&ubreve;digante
+      paroladon de filmo en alia lingvo ol la originala:
+      <ekz>
+        dum lego de la teksto oni <klr>...</klr> a&ubreve;das la anglan.
+        La <klr>...</klr> franclingvaj stacioj <tld/>as la sonon
+        <fnt>
+          <aut>L. De Cooman</aut>,
+          <vrk><url 
+ref="http://www.lingvo.info/forumo/oktobro.php?go=51374.txt">Rakonto pri
+
+lingvoscio</url></vrk>,
+          <lok>Lingva prismo, 2004-10-18</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="bg">
+    <trd>&c_d;&c_u;&c_b;&c_l;&c_i;&c_r;&c_a;&c_m;<klr tip="amb"> (&c_n;&c_a; &c_d;&c_r;&c_u;&c_g; &c_je;&c_z;&c_i;&c_k;)</klr></trd>,
+    <trd>&c_s;&c_i;&c_n;&c_h;&c_r;&c_o;&c_n;&c_i;&c_z;&c_i;&c_r;&c_a;&c_m;</trd>
+  </trdgrp>
+  <trd lng="ca">doblar<klr> (cin.)</klr></trd>
+  <trd lng="cs">dabovat <klr>(film)</klr></trd>
+  <trd lng="de">synchronisieren<klr tip="amb"> (Film)</klr></trd>
+  <trd lng="en">dub</trd>
+  <trd lng="es">doblar<klr tip="amb"> (una pel&iacute;cula)</klr></trd>
+  <trd lng="fr">doubler<klr> (film etc.)</klr></trd>
+  <trd lng="nl">nasynchroniseren</trd>
+  <trdgrp lng="pl">
+  	<trd>ud&zacute;wi&eogonek;kawia&cacute;</trd>,
+  	<trd>dubbingowa&cacute;</trd>,
+  	<trd>podk&lstroke;ada&cacute; g&lstroke;os</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>dublar</trd>,
+    <trd>fazer <ind>dublagem</ind></trd>
+  </trdgrp>
+  <trd lng="ru">&c_d;&c_u;&c_b;&c_l;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;<klr> (&c_f;&c_i;&c_l;&c_mol;&c_m; &c_i; &c_t;.&c_p;.)</klr></trd>
+  <trd lng="sk">nahovoriť film</trd>
+</drv>
+
+<drv mrk="dubl.0isto">
+  <kap><tld/>isto</kap>
+  <snc mrk="dubl.0isto.SON">
+    <dif>
+      <ref tip="super" cel="aktor.0o.TEA">Aktoro</ref>, kiu profesie
+      <tld/>as vo&ccirc;ojn:
+      <ekz>
+        Internacia Televido intencas fari&gcirc;i vera televidkanalo, kio
+        postulos konstantan teamon da <tld/>istoj
+        <fnt>
+        <aut>&Gcirc;angalo</aut>,
+        <vrk><url 
+ref="http://gxangalo.com/modules/news/article.php?storyid=2175">Internacia
+
+Televido ser&ccirc;as dublistojn...</url></vrk>,
+        <lok>2005-08-07</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="bg">&c_a;&c_k;&c_t;&c_mol;&c_o;&c_r; &c_g;&c_l;&c_a;&c_s;</trd>
+  <trd lng="ca">actor de doblatge</trd>
+  <trdgrp lng="cs">
+    <trd>dubl</trd>,
+    <trd>dublér</trd>,
+    <trd>kaskadér</trd>
+  </trdgrp>
+  <trd lng="de">Synchronsprecher<klr tip="amb"> (Film)</klr></trd>
+  <trd lng="en">voice actor</trd>
+  <trd lng="es">actor de doblaje</trd>
+  <trd lng="fr">doubleur<klr> (film etc.)</klr></trd>
+  <trd lng="nl">stemacteur</trd>
+  <trdgrp lng="pl">
+  	<trd>osoba dubbinguj&aogonek;ca</trd>,
+  	<trd>osoba podk&lstroke;adaj&aogonek;ca g&lstroke;os</trd>,
+  	<trd>dubler<klr> (nieformalnie)</klr></trd>
+  </trdgrp>
+  <trd lng="pt">dublador</trd>
+  <trdgrp lng="sk">
+    <trd>dablér</trd>,
+    <trd>kaskadér</trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log: dubl.xml,v $
+Revision 1.11  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.10  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.9  2015/06/08 17:10:15  revo
+Joop Eggen: +trd bg k.a.
+
+Revision 1.8  2012/07/30 10:10:15  revo
+Marc Rausell: + trd ca
+
+Revision 1.7  2011/05/18 07:10:11  revo
+Wieland Pusch: +trd de
+
+Revision 1.6  2011/05/16 11:10:09  revo
+Agustin Garcia Lopez: +trd es
+
+Revision 1.5  2007/09/07 16:30:20  revo
+Tulio Flores: +tr pt
+
+Revision 1.4  2007/06/23 16:31:27  revo
+Wieland Pusch: +trd de
+
+Revision 1.3  2006/07/05 18:35:32  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.2  2006/06/18 16:34:01  revo
+-->
+</vortaro>

@@ -1,0 +1,115 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: percep.xml,v 1.15 2015/07/04 08:37:41 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>percept</rad>/o
+</kap>
+<drv mrk="percep.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">FIL</uzo>
+  <snc>
+    <dif>
+      Kono, kiun ni akiras pri la ekstera mondo pere de niaj kvin
+      sentumorganoj a&ubreve; pri ni mem pere de la konscio.
+    </dif>
+    <rim>
+      Ne konfuzu kun <em>koncepto</em>.
+    </rim>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_u;&c_s;&c_p;&c_r;&c_y;&c_m;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>,
+    <trd>&c_p;&c_e;&c_r;&c_c;&c_e;&c_p;&c_c;&c_y;&c_ja;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>přijetí</trd>,
+    <trd>vjem</trd>,
+    <trd>vnímání</trd>
+  </trdgrp>
+  <trd lng="de">Wahrnehmung</trd>
+  <trd lng="en">perception</trd>
+  <trd lng="es">percepci&oacute;n</trd>
+  <trd lng="fr">perception</trd>
+  <trdgrp lng="hu">
+    <trd>&eacute;szlelet</trd>,
+    <trd>percepci&oacute;</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>waarneming</trd>,
+    <trd>gewaarwording</trd>
+  </trdgrp>
+  <trd lng="pt">percep&ccedil;&atilde;o</trd>
+  <trd lng="ru">&c_v;&c_o;&c_s;&c_p;&c_r;&c_i;&c_ja;&c_t;&c_i;&c_je;</trd>
+  <trdgrp lng="sk">
+    <trd>prijatie</trd>,
+    <trd>vnem</trd>,
+    <trd>vnímanie</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="percep.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      Havi <tld/>on pri io:
+      <ekz>
+        apena&ubreve; <tld/>ebla klini&gcirc;o.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_u;&c_s;&c_p;&c_r;&c_y;&c_m;&c_a;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>pochopit</trd>,
+    <trd>vnímat</trd>
+  </trdgrp>
+  <trd lng="de">wahrnehmen</trd>
+  <trd lng="en">perceive</trd>
+  <trd lng="es">percibir</trd>
+  <trd lng="fr">percevoir</trd>
+  <trd lng="hu">&eacute;szlel</trd>
+  <trdgrp lng="nl">
+    <trd>waarnemen</trd>,
+    <trd>gewaar worden</trd>
+  </trdgrp>
+  <trd lng="ru">&c_v;&c_o;&c_s;&c_p;&c_r;&c_i;&c_n;&c_i;&c_m;&c_a;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>pochopiť</trd>,
+    <trd>vnímať</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: percep.xml,v $
+Revision 1.15  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:40:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.13  2012/12/06 12:10:07  revo
+Jozefo Horvath: kor. tr hu
+
+Revision 1.12  2006/02/27 17:34:12  revo
+Tulio Flores: +tr pt
+
+Revision 1.11  2005/03/17 17:32:26  revo
+Raul Salinas Monteagudo: +trd es
+
+Revision 1.10  2004/10/24 16:31:23  revo
+Jean Hennebert: +2 trd fr
+
+Revision 1.9  2004/08/26 16:32:37  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.8  2004/08/09 19:00:32  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.7  2001/12/14 17:31:27  revo
+Yury Finkel: +trd ru
+
+Revision 1..6 2001/07/29 19:27:51 revo
+-->
+</vortaro>

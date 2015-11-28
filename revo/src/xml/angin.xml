@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: angin.xml,v 1.20 2015/07/04 08:37:30 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>angin</rad>/o
+</kap>
+<drv mrk="angin.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">MED</uzo>
+  <snc>
+    <dif>
+      Kutime - <ref tip="lst" cel="inflam.0o"
+      lst="voko:malsanoj">inflamo</ref> de 
+      <ref cel="palat.0a.ANA">palataj</ref>
+      <ref cel="tonsil.0o">tonsiloj</ref>
+      kaj <ref cel="mukoz.0o">mukozo</ref> de gor&gcirc;o.
+    </dif>
+    <ref tip="sin" cel="inflam.gorgx0o">gor&gcirc;inflamo</ref>
+    <ref tip="sin" cel="laring1.0o">laringito</ref>
+  </snc>
+  <trd lng="be">&c_a;&c_n;&c_g;&c_ib;&c_n;&c_a;</trd>
+  <trd lng="cs">angína</trd>
+  <trdgrp lng="de">
+    <trd>Angina</trd>,
+    <trd>Halsentz&uuml;ndung</trd>
+  </trdgrp>
+  <trd lng="en">angina</trd>
+  <trd lng="es">angina</trd>
+  <trd lng="fa">&a_A_madda;&a_n;&f_zh;&f_y;&a_n;</trd>
+  <trd lng="fr">angine</trd>
+  <trdgrp lng="hu">
+    <trd>torokgyullad&aacute;s</trd>,
+    <trd>angina</trd>
+  </trdgrp>
+  <trd lng="id">angina</trd>
+  <trdgrp lng="nl">
+    <trd>angina</trd>,
+    <trd>keelontsteking</trd>
+  </trdgrp>
+  <trd lng="pl">angina</trd>
+  <trd lng="ru">&c_a;&c_n;&c_g;&c_i;&c_n;&c_a;</trd>
+  <trd lng="sk">ang&iacute;na</trd>
+  <trd lng="sv">halsfluss</trd>
+</drv>
+</art>
+<!--
+$Log: angin.xml,v $
+Revision 1.20  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2014/11/15 05:10:23  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.18  2013/10/09 18:10:33  revo
+Wolfram Diestel: ref al lst malsanoj
+
+Revision 1.17  2012/08/21 10:10:15  revo
+Sebastian Cyprych: sxangxo de difino +trd pl
+
+Revision 1.16  2009/11/30 17:30:26  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.15  2005/02/25 17:33:53  revo
+Dennis Wibrow: +trd de
+
+Revision 1.14  2003/11/09 17:31:24  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.13  2002/10/08 17:57:22  revo
+Christopher Zervic: + ang
+
+Revision 1.12  2002/09/07 17:42:24  revo
+-->
+</vortaro>

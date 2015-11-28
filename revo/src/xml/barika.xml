@@ -1,0 +1,134 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: barika.xml,v 1.18 2015/07/04 08:37:31 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>barikad</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="barika.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="barika.0o.KOMUNE">
+    <dif>
+      Improvizita <ref tip="super" cel="bar.0ajxo">bara&jcirc;o</ref>
+      por defendo a&ubreve; &scirc;topo, ekzemple en stratbatalo:
+      <ekz>
+        por tio, ke efektivi&gcirc;u la plej grandaj kaj gravaj
+        &scirc;an&gcirc;oj en homara vivo, estas necesaj neniaj
+        <klr>...</klr> revolucioj, nek <tld/>oj
+        <fnt>
+         <aut>L. N. Tolstoj, trad. I. Ma&ccirc;ernis</aut>,
+         <vrk><url
+         ref="http://cindymckee.com/librejo/TOLSTOJ_Kristanismo_kaj_patriotismo.pdf">
+         Kristanismo kaj Patriotismo</url></vrk>,
+         <lok>1931</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_b;&c_a;&c_r;&c_y;&c_k;&c_a;&c_d;&c_a;</trd>
+  <trd lng="cs">barikáda</trd>
+  <trdgrp lng="de">
+    <trd>Barrikade</trd>,
+    <trd>Sperre</trd>,
+    <trd>Stra&szlig;ensperre</trd>
+  </trdgrp>
+  <trd lng="en">barricade</trd>
+  <trd lng="es">barricada</trd>
+  <trd lng="fr">barricade</trd>
+  <trdgrp lng="hu">
+    <trd>&uacute;ttorlasz</trd>,
+    <trd>barik&aacute;d</trd>
+  </trdgrp>
+  <trd lng="nl">barricade</trd>
+  <trd lng="pl">barykada</trd>
+  <trd lng="ru">&c_b;&c_a;&c_r;&c_r;&c_i;&c_k;&c_a;&c_d;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>barik&aacute;da</trd>,
+    <trd>zátarasy</trd>
+  </trdgrp>
+  <trd lng="tr">barikat</trd>
+</drv>
+
+<drv mrk="barika.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="barika.0i.KOMUNE">
+    <dif>
+      Forte bari per <tld/>o, amasigante a&jcirc;ojn:
+      <ekz>
+        <tld/>i sian pordon<fnt>B</fnt>;
+      </ekz>
+      <ekz>
+        <tld/>u la stratojn per matracoj
+        <fnt><bib>DonKihxoto</bib>, <lok>dua parto, &ccirc;apitro 53a,
+        p. 694a</lok></fnt>!
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_b;&c_a;&c_r;&c_y;&c_k;&c_a;&c_d;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>barikádovat</trd>,
+    <trd>stavět barikády</trd>,
+    <trd>zabarikádovat</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>sperren</trd>,
+    <trd>versperren</trd>,
+    <trd>verrammeln</trd>,
+    <trd>verbarrikadieren</trd>
+  </trdgrp>
+  <trd lng="en">barricade</trd>
+  <trd lng="fr">barricader</trd>
+  <trdgrp lng="hu">
+    <trd>elbarik&aacute;doz</trd>,
+    <trd>eltorlaszol</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>barricaderen</trd>,
+    <trd>versperren</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>barykadowa&cacute;</trd>,
+    <trd>tarasowa&cacute;</trd>,
+    <trd>zastawiwa&cacute;</trd>
+  </trdgrp>
+  <trd
+  lng="ru">&c_b;&c_a;&c_r;&c_r;&c_i;&c_k;&c_a;&c_d;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="sk">barik&aacute;dova&tcaron;</trd>
+  <trd lng="tr">barikat kurmak</trd>
+</drv>
+</art>
+<!--
+$Log: barika.xml,v $
+Revision 1.18  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:29:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.16  2013/02/03 02:10:09  revo
+Jeromo Vasxe: + ekz
+
+Revision 1.15  2009/09/23 17:26:22  revo
+Paul Peeraerts: +nl
+
+Revision 1.14  2009/08/27 16:34:00  revo
+Emmanuel Debanne: +trd tr
+
+Revision 1.13  2009/03/02 17:30:51  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.12  2004/01/22 17:30:46  revo
+Jeromo Vasxe: + tez, preciz. dif, ~i kunigis snc 1 kaj 2, + ekz
+
+Revision 1.11 2003/11/26 17:30:54 revo
+Dmitri Gabinski: +trd be
+
+Revision 1.10 2003/03/27 17:31:30 revo
+Ulrich Fellmann: + 7 trd=de
+
+Revision 1.9 2003/01/10 17:32:49 revo
+-->
+</vortaro>

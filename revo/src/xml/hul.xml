@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: hul.xml,v 1.14 2015/07/04 08:37:35 revo Exp $">
+<kap>
+  <rad>hul</rad>/o <fnt><bib>SPV</bib></fnt>
+</kap>
+<drv mrk="hul.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="hul.0o.MAR">
+    <uzo tip="fak">AVI</uzo>
+    <uzo tip="fak">MAR</uzo>
+    <dif>
+      La &ccirc;efa strukturo kaj floskorpo de <ref tip="malprt"
+      cel="sxip.0o">&scirc;ipo</ref> a&ubreve; de <ref tip="malprt"
+      cel="hidrop.0o">hidroplano</ref>.
+    </dif>
+    <ref tip="vid" cel="fuzela.0o">fuzela&gcirc;o</ref>
+    <trdgrp lng="be">
+      <trd>&c_k;&c_o;&c_r;&c_p;&c_u;&c_s; <klr tip="amb">(&c_k;&c_a;&c_r;&c_a;&c_b;&c_l;&c_ja;,
+      &c_g;&c_ib;&c_d;&c_r;&c_a;&c_p;&c_l;&c_ja;&c_n;&c_a;)</klr></trd>,
+      <trd>&c_f;&c_ju;&c_z;&c_e;&c_l;&c_ja;&c_zh;</trd>
+    </trdgrp>
+    <trd lng="de">Schiffsk&ouml;rper</trd>
+    <trd lng="en">hull</trd>
+    <trd lng="fr">coque<klr tip="ind"> (d'un navire, d'un
+    hydravion)</klr></trd>
+    <trd lng="it">scafo</trd>
+    <trdgrp lng="nl">
+      <trd>romp<klr tip="ind"> (v.e.schip)</klr></trd>,
+      <trd>scheepsromp</trd>
+    </trdgrp>
+  <trdgrp lng="pt">
+    <trd>casco</trd>,
+    <trd>quilha</trd>
+  </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_k;&c_o;&c_r;&c_p;&c_u;&c_s;</trd>,
+      <trd>&c_f;&c_ju;&c_z;&c_je;&c_l;&c_ja;&c_zh;</trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>vlnění</trd>,
+    <trd>čeření</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>gondola lietadla</trd>,
+    <trd>trup</trd>,
+    <trd>člnku</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: hul.xml,v $
+Revision 1.14  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.13  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.12  2009/09/15 16:30:55  revo
+Antonio Codazzi: +trd it
+
+Revision 1.11  2009/08/18 19:20:43  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.10  2007/04/27 16:31:21  revo
+Tulio Flores: +tr pt
+
+Revision 1.9  2004/09/20 18:28:52  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.8  2004/02/23 18:17:31  revo
+Jeromo Vasxe: + fnt spv, + 1 tez
+
+Revision 1.7 2002/01/23 17:31:56 revo
+Marc Bavant: +trd fr
+
+Revision 1.6 2001/05/31 18:12:42 revo
+Ulrich Fellmann: + germ trdj
+
+Revision 1.5 2001/05/30 18:12:15 revo
+-->
+</vortaro>

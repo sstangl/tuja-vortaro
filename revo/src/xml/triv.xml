@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: triv.xml,v 1.5 2015/07/04 08:37:45 revo Exp $">
+<kap>
+    <rad>triv</rad>/i <fnt><bib>SPV</bib></fnt>
+</kap>
+<drv mrk="triv.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <uzo tip="stl">RAR</uzo>
+  <snc mrk="triv.0i.KOMUNE">
+    <ref tip="dif" cel="uz.el0i.foruzi">eluzi <sncref/></ref>
+    <ekz>
+      sub ni estas <tld/>ita kaj malpura littuko
+      <fnt><aut>B. Vaha</aut>, <vrk>Adolesko</vrk>, 
+      <lok>1987</lok></fnt>;
+    </ekz>
+    <ekz>
+      la mort' ne estus tamen fin', /
+      ni plu memore vivus, /
+      &ccirc;ar nur forges' mortigus nin /
+      kaj nian vivon <tld/>us
+      <fnt>
+        <aut>Cezar</aut>,
+        <vrk><url ref="http://www.cezarpoemoj.cezarpoezio.de/199.html">
+        Vivo kaj amo</url></vrk>,
+        <lok>[vidita en 2010]</lok>
+      </fnt>.
+    </ekz>
+  </snc>
+  <trd lng="ca">desgastar</trd>
+  <trdgrp lng="cs">
+    <trd>obnosit</trd>,
+    <trd>opotřebovat</trd>
+  </trdgrp>
+  <trd lng="fr">user</trd>
+  <trdgrp lng="it">
+    <trd>consumare</trd>,
+    <trd>logorare</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>drať</trd>,
+    <trd>obnosiť</trd>,
+    <trd>ošúchať</trd>,
+    <trd>zodrať</trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log: triv.xml,v $
+Revision 1.5  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.4  2015/06/29 16:40:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.3  2012/08/14 13:10:30  revo
+Marc Rausell: + trd ca
+
+Revision 1.2  2010/06/09 16:30:31  revo
+Antonio Codazzi: +trd it
+
+Revision 1.1  2010/05/28 16:30:25  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

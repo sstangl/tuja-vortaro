@@ -1,0 +1,571 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: eksplo.xml,v 1.29 2015/07/04 08:37:33 revo Exp $">
+<kap><ofc>*</ofc>
+<rad>eksplod</rad>/i</kap> <fnt><bib>PV</bib></fnt>
+<drv mrk="eksplo.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc>
+    <dif>
+      Forte kaj brue skui aeron, pro subita plivolumeni&gcirc;o de gaso:
+      <ekz>
+        dinamito facile <tld/>as.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="flam">ekflami</ref>,
+      <ref cel="flagr.0i">flagri</ref>
+    </refgrp>
+  </snc>
+  <snc>
+    <dif>
+      Brue diskrevi, pro granda interna premo de l' gasoj:
+      <ekz>
+        bombo, mino, vaporma&scirc;ino, torpedo <tld/>as.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="romp">disrompi&gcirc;i</ref>,
+      <ref cel="salt.dis0i">dissalti</ref>,
+      <ref cel="split">disspliti&gcirc;i</ref>.
+    </refgrp>
+  </snc>
+  <snc>
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Subite kaj brue eksterigi fortan senton a&ubreve; pasion, kiun oni
+      ne
+      povas
+      plu deteni:
+      <ekz>
+        <tld/>i de furiozo, de kolero, pro &gcirc;ojo, per
+        rido<fnt>B</fnt>, per larmoj;
+      </ekz>
+      <ekz>
+        li <tld/>is, dirante, ke...<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+    <trd lng="ru">&c_v;&c_s;&c_p;&c_y;&c_l;&c_i;&c_t;&c_mol;</trd>
+  </snc>
+  <snc>
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Subite kaj brue komenci&gcirc;i:
+      <ekz>
+        balda&ubreve; la ventego devis <tld/>i, rompi la glacion, kaj
+        &ccirc;iuj tie devis nesaveble droni
+        <fnt><bib>Fab3</bib>, <lok>Io</lok></fnt>;
+      </ekz>
+      <ekz>
+        la milito <tld/>is neatendite;
+      </ekz>
+      <ekz>
+        <tld/>as &gcirc;ojo<fnt>Z</fnt>, striko, ribelo, katastrofo,
+        krio.
+      </ekz>
+    </dif>
+    <trdgrp lng="ru">
+      <trd>&c_r;&c_a;&c_z;&c_r;&c_a;&c_z;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>,
+      <trd>&c_v;&c_s;&c_p;&c_y;&c_h;&c_n;&c_u;&c_t;&c_mol;</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="be">&c_v;&c_y;&c_b;&c_u;&c_h;&c_n;&c_u;&c_c;&c_mol;</trd>
+  <trdgrp lng="ca">
+    <trd>esclatar</trd>,
+    <trd>explotar</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>explodovat</trd>,
+    <trd>vybouchnout</trd>,
+    <trd>vybuchnout</trd>,
+    <trd>vybuchovat</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>explodieren</trd>,
+    <trd>ausbrechen</trd>
+  </trdgrp>
+  <trd lng="en">explode</trd>
+  <trd lng="es">explotar</trd>
+  <trdgrp lng="fr">
+    <trd>&eacute;clater</trd>,
+    <trd>exploser</trd>,
+    <trd>sauter<klr tip="ind"> (exploser)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="it">
+    <trd>esplodere</trd>,
+    <trd>scoppiare</trd>,
+    <trd>detonare</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>ontploffen</trd>,
+    <trd>exploderen</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>eksplodowa&cacute;</trd>,
+    <trd>wybucha&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>explodir</trd>,
+    <trd>estourar</trd>
+  </trdgrp>
+  <trd lng="ru">&c_v;&c_z;&c_o;&c_r;&c_v;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>
+  <trdgrp lng="sk">
+    <trd>explodovať</trd>,
+    <trd>vybuchnúť</trd>,
+    <trd>vyletieť do povetria</trd>
+  </trdgrp>
+  <trd lng="sv">explodera</trd>
+</drv>
+
+<drv mrk="eksplo.0o">
+  <kap><tld/>o</kap>
+  <snc>
+    <dif>
+      Brua subita plivolumeni&gcirc;o de naski&gcirc;antaj gasoj:
+      <ekz>
+        <tld/>o de lumgaso, de mingaso;
+      </ekz>
+      <ekz>
+        <ind><tld/>motoro</ind>.
+        <trd lng="fr">moteur &agrave; explosion</trd>
+        <trdgrp lng="hu">
+          <trd>robban&oacute;motor</trd>,
+          <trd>bels&odblac; &eacute;g&eacute;s&udblac;
+          <ind>motor</ind></trd>
+        </trdgrp>
+      </ekz>
+    </dif>
+  </snc>
+  <snc>
+    <dif>
+      Brua subita diskrevo pro interna premado de gasoj:
+      <ekz>
+        <tld/>o de kaldronego, de vulkano.
+      </ekz>
+    </dif>
+    <trd lng="pt">estouro</trd>
+  </snc>
+  <snc>
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Subita brua eksteri&gcirc;o de forta sento a&ubreve; pasio:
+      <ekz>
+        <tld/>o da kolero, &gcirc;ojo, amo;
+      </ekz>
+      <ekz>
+        vo&ccirc;o plena de flamecaj <tld/>oj;
+      </ekz>
+      <ekz>
+        la kamparano trankviligis la <tld/>ojn de sia edzino
+        <fnt><bib>Far1</bib>, <lok>&ccirc;ap. 12</lok></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="ru">&c_v;&c_s;&c_p;&c_y;&c_sh;&c_k;&c_a;</trd>
+  </snc>
+  <snc>
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Subita brua komenci&gcirc;o:
+      <ekz>
+        <tld/>o de milito, ribelo, kriego.
+      </ekz>
+    </dif>
+    <trd lng="ru">&c_v;&c_s;&c_p;&c_y;&c_sh;&c_k;&c_a;</trd>
+  </snc>
+  <trd lng="be">&c_v;&c_y;&c_b;&c_u;&c_h;</trd>
+  <trdgrp lng="ca">
+    <trd>esclat</trd>,
+    <trd>explosi&oacute;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>detonace</trd>,
+    <trd>exploze</trd>,
+    <trd>odpal</trd>,
+    <trd>odstřel</trd>,
+    <trd>výbuch</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Explosion</trd>,
+    <trd>Ausbruch</trd>
+  </trdgrp>
+  <trd lng="es">explosi&oacute;n</trd>
+  <trdgrp lng="fr">
+    <trd>d&eacute;tonation</trd>,
+    <trd>explosion<klr tip="ind"> (bombe, rire,...)</klr></trd>,
+    <trd>flamb&eacute;e<klr tip="ind"> (explosion, fig.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>robban</trd>,
+    <trd>felrobban</trd>,
+    <trd>kirobban</trd>
+  </trdgrp>
+  <trdgrp lng="it">
+    <trd>esplosione</trd>,
+    <trd>scoppio</trd>,
+    <trd>detonazione</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>ontploffing</trd>,
+    <trd>explosie</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>eksplozja</trd>,
+    <trd>wybuch</trd>
+  </trdgrp>
+  <trd lng="pt">explos&atilde;o</trd>
+  <trd lng="ru">&c_v;&c_z;&c_r;&c_y;&c_v;</trd>
+  <trdgrp lng="sk">
+    <trd>detonácia</trd>,
+    <trd>explózia</trd>,
+    <trd>výbuch</trd>
+  </trdgrp>
+  <trd lng="sv">explosion</trd>
+</drv>
+
+<drv mrk="eksplo.0ajxo">
+  <kap><tld/>a&jcirc;o</kap>
+  <snc mrk="eksplo.0ajxo.KEM">
+    <uzo tip="fak">KEM</uzo>
+    <uzo tip="fak">MIL</uzo>
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      Substanco, kiu povas <tld/>i:
+      <ekz>
+        dinamito, nitroglicerino estas <tld/>a&jcirc;oj;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        &#8208; &Ccirc;u malbona nova&jcirc;o, &Ccirc;efo?
+        &#8208; Ne, knabo, nur iom tro tu&scirc;otima <tld/>a&jcirc;o
+        <klr>(tro dan&gcirc;era informo)</klr>
+        <fnt><bib>UrdHadda</bib>, <lok>p. 16</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_v;&c_y;&c_b;&c_u;&c_h;&c_o;&c_w;&c_k;&c_a;</trd>
+  <trd lng="ca">explosiu<klr> (subst.)</klr></trd>
+  <trd lng="de">Sprengstoff</trd>
+  <trd lng="es">explosivo</trd>
+  <trd lng="fr">explosif<klr tip="ind"> (subst.)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>robban&oacute;anyag</trd>,
+    <trd>robban&oacute;szer</trd>
+  </trdgrp>
+  <trdgrp lng="it">
+    <trd>esplosivo<klr> (sost.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>springstof</trd>,
+    <trd>explosief<klr tip="ind"> (z.nw.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>materia&lstroke; <ind>wybuchowy</ind></trd>
+  </trdgrp>
+  <trd lng="pt">explosivo</trd>
+  <trdgrp lng="ru">
+    <trd>&c_v;&c_z;&c_r;&c_y;&c_v;&c_ch;&c_a;&c_t;&c_k;&c_a;</trd>,
+    <trd>&c_v;&c_z;&c_r;&c_y;&c_v;&c_ch;&c_a;&c_t;&c_o;&c_je; &c_v;&c_je;&c_shch;&c_je;&c_s;&c_t;&c_v;&c_o;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="eksplo.0ema">
+  <kap><tld/>ema</kap>
+  <snc>
+    <uzo tip="fak">KEM</uzo>
+    <dif>
+      Facile <tld/>anta:
+      <ekz>
+        <tld/>emaj substancoj.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_v;&c_y;&c_b;&c_u;&c_h;&c_o;&c_v;&c_y;</trd>
+    <trd lng="de">explosiv</trd>
+    <trd lng="hu">k&ouml;nnyen <ind>robban&oacute;</ind></trd>
+    <trd lng="it">esplosivo<klr> (agg.)</klr></trd>
+    <trd lng="ru">&c_v;&c_z;&c_r;&c_y;&c_v;&c_ch;&c_a;&c_t;&c_y;&c_j;</trd>
+  </snc>
+  <snc>
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Facile inciti&gcirc;anta:
+      <ekz>
+        <tld/>ema karaktero;
+      </ekz>
+      <ekz>
+        <klr>[li estas]</klr> <tld/>ema kiel pulvo
+        <fnt><bib>PrV</bib></fnt>
+      </ekz>
+    </dif>
+    <trd lng="be">&c_z;&c_a;&c_p;&c_a;&c_l;&c_mol;&c_ch;&c_y;&c_v;&c_y;</trd>
+    <refgrp tip="vid">
+      <ref cel="flam.0igxema">flami&gcirc;ema</ref>,
+      <ref cel="fulm">fulma</ref>,
+      <ref cel="bol.0i">boli</ref>.
+    </refgrp>
+    <trd lng="de">cholerisch</trd>
+    <trd lng="hu">robban&eacute;kony</trd>
+    <trd lng="ru">&c_v;&c_s;&c_p;&c_y;&c_l;&c_mol;&c_ch;&c_i;&c_v;&c_y;&c_j;</trd>
+  </snc>
+  <trd lng="ca">explosiu<klr> (adj.)</klr></trd>
+  <trdgrp lng="cs">
+    <trd>explozivní</trd>,
+    <trd>trhací</trd>,
+    <trd>výbušný</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>bouillant<klr tip="ind"> (caract&egrave;re)</klr></trd>,
+    <trd>explosif<klr tip="ind"> (adj.)</klr></trd>,
+    <trd>volcanique<klr tip="ind"> (caract&egrave;re)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="it">
+    <trd>esplosivo<klr> (fig.)</klr></trd>,
+    <trd>prorompente<klr> (fig.)</klr></trd>,
+    <trd>infiammabile<klr> (fig.)</klr></trd>,
+    <trd>collerico<klr> (fig.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>ontplofbaar</trd>,
+    <trd>explosief<klr tip="ind"> (b.nw.)</klr></trd>
+  </trdgrp>
+  <trd lng="pl">wybuchowy</trd>
+  <trd lng="pt">explosivo</trd>
+  <trdgrp lng="sk">
+    <trd>trhací</trd>,
+    <trd>výbušný</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="eksplo.0igi">
+  <kap><tld/>igi</kap>
+  <snc>
+    <dif>
+      Ka&ubreve;zi <tld/>on; fari, ke io <tld/>as:
+      <ekz>
+        unu fajrero sufi&ccirc;as por <tld/>igi pulvon;
+      </ekz>
+      <ekz>
+        <tld/>igi bombon, koleron, ribelon;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        la senhonta aroganteco de &Scirc;ankhatum preska&ubreve;
+        <tld/>igis la re&gcirc;on de kolerego
+        <fnt><bib>I&scirc;tar</bib>, <lok>&ccirc;apitro 19a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <adm>
+    Indus precizigi, &ccirc;u la objekto povas esti io alia ol ~a&jcirc;o.
+    Alidire, &ccirc;u oni &leftquot;~igas domon&rightquot;? La figursenca ekzemplo &scirc;ajne
+    tion sugestas. <aut>MB</aut>
+  </adm>
+  <trdgrp lng="be">
+    <trd>&c_u;&c_z;&c_r;&c_y;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_p;&c_a;&c_d;&c_r;&c_y;&c_v;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="ca">
+    <trd>detonar</trd>,
+    <trd>fer esclatar</trd>
+  </trdgrp>
+  <trd lng="de">z&uuml;nden</trd>
+  <trdgrp lng="fr">
+    <trd>d&eacute;chainer<klr tip="ind"> (le rire, la
+    col&egrave;re,...)</klr></trd>,
+    <trd>d&eacute;clencher<klr tip="ind"> (le rire, la
+    col&egrave;re,...)</klr></trd>,
+    <trd>faire <ind>exploser</ind></trd>
+  </trdgrp>
+  <trdgrp lng="it">
+    <trd>fare <ind>esplodere</ind></trd>,
+    <trd>fare <ind>scoppiare</ind></trd>,
+    <trd>fare <ind>detonare</ind></trd>,
+    <trd>brillare<klr> (esplosivo)</klr></trd>
+  </trdgrp>
+  <trd lng="nl">doen <ind>ontploffen</ind></trd>
+  <trdgrp lng="pl">
+    <trd>detonowa&cacute;</trd>,
+    <trd>odpala&cacute;<klr> (np. bomb&eogonek;)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>detonar</trd>,
+    <trd>explodir</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>felrobbant</trd>,
+    <trd>kirobbant</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_v;&c_z;&c_o;&c_r;&c_v;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_v;&c_z;&c_r;&c_y;&c_v;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>odpáliť nálož</trd>,
+    <trd>vyhodiť do povetria</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>odpálit <klr>(nálož)</klr></trd>,
+    <trd>odstřelit trhavinou</trd>,
+    <trd>podnítit (např. válku)</trd>,
+    <trd>rozpoutat</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="eksplo.0igilo">
+  <kap><tld/>igilo</kap>
+  <snc mrk="eksplo.0igilo.TEK">
+    <uzo tip="fak">MIL</uzo>
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      Aparato, per kiu oni <tld/>igas minon, torpedon ktp.
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_u;&c_z;&c_r;&c_y;&c_v;&c_a;&c_l;&c_mol;&c_n;&c_ib;&c_k;</trd>,
+    <trd>&c_d;&c_e;&c_t;&c_a;&c_n;&c_a;&c_t;&c_a;&c_r;</trd>
+  </trdgrp>
+  <trd lng="ca">detonador</trd>
+  <trdgrp lng="cs">
+    <trd>počinová náplň</trd>,
+    <trd>rozbuška</trd>
+  </trdgrp>
+  <trd lng="de">Z&uuml;nder</trd>
+  <trd lng="fr">d&eacute;tonateur</trd>
+  <trdgrp lng="hu">
+    <trd>gy&uacute;jt&oacute;szerkezet</trd>,
+    <trd>deton&aacute;tor</trd>,
+    <trd>robban&oacute;szerkezet</trd>
+  </trdgrp>
+  <trdgrp lng="it">
+    <trd>innesco</trd>,
+    <trd>detonatore</trd>
+  </trdgrp>
+  <trd lng="nl">ontstekingsmechanisme</trd>
+  <trdgrp lng="pl">
+    <trd>detonator</trd>,
+    <trd>zapalnik</trd>
+  </trdgrp>
+  <trd lng="pt">detonador</trd>
+  <trdgrp lng="ru">
+    <trd>&c_v;&c_z;&c_r;&c_y;&c_v;&c_a;&c_t;&c_je;&c_l;&c_mol;</trd>,
+    <trd>&c_d;&c_je;&c_t;&c_o;&c_n;&c_a;&c_t;&c_o;&c_r;</trd>
+  </trdgrp>
+  <trd lng="sk">rozbuška</trd>
+</drv>
+
+<drv mrk="eksplo.pra0o">
+  <kap>pra<tld/>o</kap>
+  <snc mrk="eksplo.pra0o.AST">
+    <uzo tip="fak">AST</uzo>
+    <dif>
+      Grandenergia fenomeno, kiu markas la naski&gcirc;on de la
+      <ref cel="univer.0o">universo</ref>.
+    </dif>
+  </snc>
+  <trd lng="be">&c_V;&c_ja;&c_l;&c_ib;&c_k;&c_ib;
+  <ind>&c_V;&c_y;&c_b;&c_u;&c_h;</ind></trd>
+  <trd lng="ca">Big Bang</trd>
+  <trd lng="cs">velký třesk</trd>
+  <trd lng="de">Urknall</trd>
+  <trd lng="en">Big Bang</trd>
+  <trd lng="fi">Alkur&auml;j&auml;hdys</trd>
+  <trd lng="fr">Big bang</trd>
+  <trd lng="hu">&odblac;srobban&aacute;s</trd>
+  <trd lng="nl">oerknal</trd>
+  <trd lng="pl">Wielki Wybuch</trd>
+  <trd lng="pt">Grande Explos&atilde;o</trd>
+  <trd lng="ru">&c_B;&c_o;&c_l;&c_mol;&c_sh;&c_o;&c_j; &c_V;&c_z;&c_r;&c_y;&c_v;</trd>
+  <trd lng="sk">veľký tresk</trd>
+  <trd lng="tr">B&uuml;y&uuml;k Patlama</trd>
+</drv>
+
+<drv mrk="eksplo.0akonsonanto">
+  <kap><tld/>a konsonanto <fnt><bib>PMEG</bib></fnt></kap>
+  <uzo tip="fak">FON</uzo>
+  <snc>
+    <dif>
+      Momenta <ref tip="super" cel="konson1.0o">konsonanto</ref>
+      produktata per abrupta malfermo de la bu&scirc;kanalo, kiu lasas
+      la spiron eliri nur post momente kompleta fermi&gcirc;o
+      (en Esperanto <em>k, g, t, d, p, b</em>):
+      <ekz>
+        se du vokalojn apartigas du konsonantoj, la unua el kiuj estas
+        <tld/>a kaj la dua estas flua (/l/ a&ubreve; /r/), la silabolimo situas
+        anta&ubreve; la <tld/>a (/p&aacute;-tro/, /ci-tr&oacute;-no/, /ci-pr&eacute;-so/,
+        /ge-o-gra-f&iacute;-o/)
+        <fnt>
+          <aut>Marc Bavant</aut>: <vrk>Silabo kaj silabado</vrk>.
+          <lok><url
+ ref="http://lingvakritiko.com/2006/12/20/silabo-kaj-silabado/"
+              >Lingva kritiko</url></lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <ref tip="super" cel="bru.0anto.FON">bruanto</ref>
+  <trd lng="be">&c_v;&c_y;&c_b;&c_u;&c_h;&c_o;&c_v;&c_y; <ind>&c_z;&c_y;&c_ch;&c_n;&c_y;</ind></trd>
+  <trdgrp lng="de">
+    <trd>Plosiv</trd>,
+    <trd>Verschlusslaut</trd>,
+    <trd>Okklusiv</trd>,
+    <trd>Klusil</trd>
+  </trdgrp>
+  <trd lng="en">plosive</trd>
+  <trd lng="es">oclusiva</trd>
+  <trdgrp lng="fa">
+    <trd>&a_h;&a_m;&a_kh;&a_w;&a_A;&a_n; <ind>&a_b;&a_n;&a_d;&a_sh;&f_y;</ind></trd>,
+    <trd>&a_h;&a_m;&a_kh;&a_w;&a_A;&a_n; <ind>&a_A;&a_n;&a_s;&a_d;&a_A;&a_d;&f_y;</ind></trd>
+  </trdgrp>
+  <trd lng="fr">occlusive<klr> (subst.)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>z&aacute;rhang</trd>,
+    <trd>exploz&iacute;va</trd>,
+    <trd>okkluz&iacute;va</trd>
+  </trdgrp>
+  <trd lng="nl">plofklank</trd>
+  <trdgrp lng="pt">
+    <trd>explosiva <klr>(subst.)</klr></trd>,
+    <trd>consoante explosiva</trd>,
+    <trd>oclusiva <klr>(subst.)</klr></trd>,    
+    <trd>consoante oclusiva</trd>    
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_v;&c_z;&c_r;&c_y;&c_v;&c_n;&c_o;&c_j; &c_s;&c_o;&c_g;&c_l;&c_a;&c_s;&c_n;&c_y;&c_j;</trd>,
+    <trd>&c_ch;&c_i;&c_s;&c_t;&c_y;&c_j; <ind>&c_s;&c_m;&c_y;&c_ch;&c_n;&c_y;&c_j;</ind></trd>
+  </trdgrp>
+</drv>
+
+</art>
+<!--
+$Log: eksplo.xml,v $
+Revision 1.29  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.28  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.27  2015/01/15 07:10:16  revo
+Sergio Pokrovskij: TEZ
+
+Revision 1.26  2015/01/06 07:10:14  revo
+Sergio Pokrovskij: +~a konsonanto
+
+Revision 1.25  2012/09/05 08:10:39  revo
+Marc Rausell: + trd ca
+
+Revision 1.24  2010/06/09 16:30:20  revo
+Agustin Garcia Lopez: +trd es (-o)
+
+Revision 1.23  2010/06/06 16:31:10  revo
+Antonio Codazzi: +trd it
+
+Revision 1.22  2009/09/23 17:25:50  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.21  2008/12/15 18:54:03  revo
+Jeromo Vasxe: + kk mrk + 1 trd fr
+
+Revision 1.20  2004/10/17 16:31:30  revo
+-->
+</vortaro>

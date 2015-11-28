@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: minijup.xml,v 1.4 2015/07/04 08:37:39 revo Exp $">
+<kap>
+  <rad>minijup</rad>/o <fnt><bib>NePiv</bib></fnt>
+</kap>
+<drv mrk="minijup.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="minijup.0o.TEKS">
+    <uzo tip="fak">TEKS</uzo>
+    <dif>
+      Tre mallonga <ref tip="super" cel="jup.0o.TEKS">jupo</ref> 
+      kovranta de talio &gcirc;is supro de femuroj:
+      <ekz>
+        estus tute false kredi, ke mondumaj modistoj volonte
+        dekretas <tld/>ojn
+        <fnt>
+          <aut>P. Thorsen</aut>,
+          <vrk><url ref="http://www.poulthorsen.dk/jupo.htm">
+          Jupoj kaj konjunkturoj</url></vrk>,
+          <lok>1989</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="bg">&c_m;&c_i;&c_n;&c_i;&c_zh;&c_u;&c_p;</trd>
+  <trdgrp lng="cs">
+    <trd>minisukn&ecaron;</trd>,
+    <trd>minisukně</trd>
+  </trdgrp>
+  <trd lng="de">Minirock</trd>
+  <trd lng="en">miniskirt</trd>
+  <trd lng="es">minifalda</trd>
+  <trd lng="fr">minijupe</trd>
+  <trd lng="hu">miniszoknya</trd>
+  <trd lng="it">minigonna</trd>
+  <trd lng="nl">minirok</trd>
+  <trd lng="ru">&c_m;&c_i;&c_n;&c_i;-&c_ju;&c_b;&c_k;&c_a;</trd>
+  <trd lng="sk">minisukňa</trd>
+</drv>
+</art>
+
+<!--
+$Log: minijup.xml,v $
+Revision 1.4  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.3  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.2  2013/09/05 15:10:10  revo
+Joop Eggen: +trd bg k.a.
+
+Revision 1.1  2013/08/01 01:10:19  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: mantis.xml,v 1.25 2015/07/04 08:37:39 revo Exp $">
+<kap>
+  <rad>mantis</rad>/o
+</kap>
+<drv mrk="mantis.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="mantis.0o.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>MatTerm</bib><lok>p. 9</lok></fnt>
+    <dif>
+      <ref tip="dif" cel="part.frakcia0o">Frakcia parto</ref> de 
+      <ref cel="reel.0o.MAT">reelo</ref>, pli speciale de 
+      <ref cel="logari.0o">logaritmo</ref>:
+      <ekz>
+        la ordinara logaritmo de <frm><k>x</k></frm> kaj 
+        tiu de <frm>10<sup><k>n</k></sup>.<k>x</k></frm> havas saman
+        <tld/>on.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="karakt2.0o.logaritmo">karakteristiko.</ref>
+    <trd lng="be">&c_m;&c_a;&c_n;&c_t;&c_y;&c_s;&c_a;</trd>
+    <trd lng="de">Mantisse</trd>
+    <trd lng="en">mantissa</trd>
+    <trd lng="fa">&a_m;&a_A;&a_n;&a_t;&f_y;&a_s;</trd>
+    <trd lng="fr">mantisse</trd>
+    <trd lng="nl">mantisse</trd>
+    <trd lng="pt">mantissa</trd>
+    <trd lng="ru">&c_m;&c_a;&c_n;&c_t;&c_i;&c_s;&c_s;&c_a;</trd>
+    <trd lng="sv">mantissa</trd>
+  </snc>
+  <snc mrk="mantis.0o.glitpunkta">
+    <uzo tip="fak">KOMP</uzo>
+    <dif>
+      En <ref tip="vid" cel="glit.0punkta.koma">glitpunkta</ref>
+      nombroprezento, tiu entjero a&ubreve; frakcio, kiu estas multiplikata
+      per la nombrosistema bazo potencigita per la
+      <ref tip="vid" cel="ekspon2.0o.glitpunkta">eksponento</ref>.
+    </dif>
+    <trdgrp lng="de">
+      <trd>Mantisse</trd>,
+      <trd>Basis</trd>
+    </trdgrp>
+    <trd lng="be">&c_m;&c_a;&c_n;&c_t;&c_y;&c_s;&c_a;</trd>
+    <trd lng="en">mantissa</trd>
+    <trd lng="fa">&f_k;&a_s;&a_r;&f_y;&zwnj;&a_n;&a_m;&a_A;</trd>
+    <trd lng="fr">mantisse</trd>
+    <trd lng="nl">mantisse</trd>
+    <trd lng="pt">mantissa</trd>
+    <trd lng="ru">&c_m;&c_a;&c_n;&c_t;&c_i;&c_s;&c_s;&c_a;</trd>
+    <trd lng="sv">mantissa</trd>
+  </snc>
+  <trd lng="ca">mantissa</trd>
+  <trd lng="cs">mantisa</trd>
+  <trd lng="hu">mantissza</trd>
+  <trd lng="pl">mantysa</trd>
+  <trd lng="sk">mantisa</trd>
+</drv>
+</art>
+<!--
+$Log: mantis.xml,v $
+Revision 1.25  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.24  2015/06/29 16:33:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.23  2013/02/11 10:10:19  revo
+Dmitri Gabinski: redakto: +trd be
+
+Revision 1.22  2012/08/19 12:10:18  revo
+Marc Rausell: + trd ca
+
+Revision 1.21  2010/05/16 16:31:19  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.20  2009/02/28 17:31:02  revo
+Marcus Curdeius: pl
+
+Revision 1.19  2007/09/23 16:30:47  revo
+Tulio Flores: +tr pt
+
+Revision 1.18  2006/07/29 16:33:13  revo
+Tulio Flores: +tr pt
+
+Revision 1.17  2004/06/03 16:53:18  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.16  2003/05/19 19:36:27  revo
+-->
+</vortaro>

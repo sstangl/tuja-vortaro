@@ -1,0 +1,152 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: likvid.xml,v 1.17 2015/07/04 08:37:38 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>likvid</rad>/i
+</kap>
+<drv mrk="likvid.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <uzo tip="fak">EKON</uzo>
+  <snc>
+    <dif>
+      Definitive malestigi per disvendo, fordono, malfondo:
+      <ekz>
+        <tld/>i konton, komercon, entreprenon, hereda&jcirc;on;
+      </ekz>
+      <ekz>
+        <tld/>i problemon, malfacila&jcirc;on, malbonan situacion, eksperimenton;
+      </ekz>
+      <ekz>
+        tiu demando estas nun <tld/>ita;
+      </ekz>
+      <ekz>
+        la polico <tld/>is tiun societon;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        <tld/>i la carismon, la grandajn bienojn, la militan staton, la
+        analfabetecon &ccirc;e la popolo
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="ekster1.0i">ekstermi</ref>,
+      <ref cel="cxerp.el0i.cxion">el&ccirc;erpi <sncref/></ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_l;&c_ib;&c_k;&c_v;&c_ib;&c_d;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>likvidovat</trd>,
+    <trd>odstranit</trd>,
+    <trd>urovnat</trd>,
+    <trd>vyřídit</trd>,
+    <trd>zničit</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+     <trd>fl&uuml;ssig machen</trd>,
+     <trd>absto&szlig;en</trd>,
+     <trd>liquidieren</trd>
+  </trdgrp>
+  <trd lng="en">liquidate</trd>
+  <trd lng="es">liquidar</trd>
+  <trdgrp lng="fr">
+    <trd>liquider<klr> (faire disparaitre)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>felsz&aacute;mol</trd>,
+    <trd>likvid&aacute;l</trd>
+  </trdgrp>
+  <trd lng="nl">liquideren</trd>
+  <trd lng="pt">liquidar</trd>
+  <trd lng="ru">&c_l;&c_i;&c_k;&c_v;&c_i;&c_d;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>likvidovať</trd>,
+    <trd>odstrániť</trd>,
+    <trd>zrušiť</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="likvid.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">EKON</uzo>
+  <snc>
+    <dif>
+      Proceduro, kiu <tld/>as a&ubreve; rezulta malapero de la <tld/>ita&jcirc;o:
+      <ekz>
+        la kooperativanoj rericevos en kazo de <tld/>o la sumon kiun ili
+        iam investis.<fnt><aut>Roland Rotsaert</aut>: <vrk>Belgaj bankoj
+        regrupigitaj</vrk>, <bib>Monato</bib><lok>jaro 1998a, numero 11a,
+        p. 16a</lok></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="hom">
+      <ref cel="likvid1.0o">likvido</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_l;&c_ib;&c_k;&c_v;&c_ib;&c_d;&c_a;&c_c;&c_y;&c_ja;</trd>
+  <trdgrp lng="cs">
+    <trd>likvida</trd>,
+    <trd>planná souhláska</trd>,
+    <trd>sonantní souhláska</trd>,
+    <trd>sonorní souhláska</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+     <trd>Abwicklung</trd>,
+     <trd>Aufl&ouml;sung</trd>,
+     <trd>Gesch&auml;ftsaufl&ouml;sung</trd>,
+     <trd>Liquidation</trd>
+  </trdgrp>
+  <trd lng="en">liquidation</trd>
+  <trd lng="es">liquidaci&oacute;n</trd>
+  <trdgrp lng="fr">
+    <trd>liquidation</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>felsz&aacute;mol&aacute;s</trd>,
+    <trd>likvid&aacute;l&aacute;s</trd>
+  </trdgrp>
+  <trd lng="nl">liquidatie</trd>
+  <trd lng="pt">liquida&ccedil;&atilde;o</trd>
+  <trd lng="ru">&c_l;&c_i;&c_k;&c_v;&c_i;&c_d;&c_a;&c_c;&c_i;&c_ja;</trd>
+  <trdgrp lng="sk">
+    <trd>likvidácia</trd>,
+    <trd>odstránenie</trd>,
+    <trd>vybavenie</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: likvid.xml,v $
+Revision 1.17  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:33:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.15  2004/05/25 16:33:05  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.14  2003/05/06 16:33:50  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.13  2003/01/14 17:33:12  revo
+Ulrich Fellmann: + 3 pliaj trd = de  kaj forigo de 1 trd = de
+
+Revision 1.12  2002/10/06 17:35:08  revo
+Ulrich Fellmann: + 5 trd de
+
+Revision 1.11  2002/09/11 17:35:01  revo
+Jeromo Vasxe: + fak ekon, retusxis dif, + hom, + ekz, + trd fr
+
+Revision 1.10 2002/09/05 17:32:16 revo
+Eduardo M. Kalinowski: ald trd pt
+
+Revision 1.9 2001/11/19 17:32:27 revo
+Yury Finkel: +trd ru
+
+Revision 1.8 2001/09/05 19:06:08 revo
+-->
+</vortaro>

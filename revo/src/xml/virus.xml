@@ -1,0 +1,131 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: virus.xml,v 1.22 2015/01/02 19:10:28 revo Exp $">
+<kap>
+  <ofc>9</ofc><rad>virus</rad>/o <fnt><bib>SPV</bib></fnt>
+</kap>
+<drv mrk="virus.0o">
+  <kap><ofc>9</ofc><tld/>o</kap>
+  <snc mrk="virus.0o.BAK">
+    <uzo tip="fak">BAK</uzo>
+    <dif>
+      <ref tip="vid" cel="mikrovivajx.0o.BIO">Mikroviva&jcirc;o</ref>
+      ka&ubreve;zanta infektajn malsanojn &ccirc;e animaloj,
+      plantoj kaj bakterioj, ne povanta ekzisti sen gastiganta &ccirc;elo
+      kaj ne havanta propran metabolon:
+      <ekz>
+        la baza vojo de infektado de narkota&jcirc;emuloj estas la vasta
+        aplikado de injektilo kune uzata kun personoj infektitaj de la
+        <tld/>o de aidoso
+        <fnt>
+        <aut>V. Lemelev</aut>,
+        <vrk><url ref="&Monato;/007243.html">Rusio kontra&ubreve;
+        aidoso</url></vrk>,
+        <bib>Monato</bib>,
+        <lok>2001:05</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="he">&nun;&gimel;&yod;&fpe;</trd>
+  </snc>
+  <snc mrk="virus.0o.KOMP">
+    <uzo tip="fak">KOMP</uzo>
+    <dif>
+      Komputila programo, kiu kapablas krei (ne necese tute indentajn)
+      kopiojn de si mem kaj enigas tiujn en komputilajn dosierojn,
+      sistemojn a&ubreve; aliajn programojn; la kopio plej ofte mem havas la
+      kapablon krei pliajn kopiojn:
+      <ekz>
+        mian personan komputilon neniam trafis <tld/>o, kvankam mi
+        sendis kaj ricevis centojn da retpo&scirc;taj leteroj, bultenoj
+        kaj cirkuleroj
+        <fnt><aut>C. Rouget</aut>,
+        <vrk><url ref="&Monato;/005659.html">Internet ne (tiom)
+        malbonas</url></vrk>,
+        <bib>Monato</bib>,
+        <lok>1997:08</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="he">&vav;&yod;&resh;&vav;&samekh;</trd>
+  </snc>
+  <trd lng="be">&c_v;&c_ib;&c_r;&c_u;&c_s;</trd>
+  <trd lng="br">viruz</trd>
+  <trd lng="ca">virus</trd>
+  <trd lng="de">Virus</trd>
+  <trdgrp lng="el">
+    <trd>&jota_ton;&omikron;&sigma_fina;</trd>,
+    <trd>&my;&jota_ton;&alfa;&sigma;&my;&alfa;</trd>
+  </trdgrp>
+  <trd lng="en">virus</trd>
+  <trd lng="es">virus</trd>
+  <trd lng="fa">&a_w;&f_y;&a_r;&a_w;&a_s;</trd>
+  <trd lng="fr">virus</trd>
+  <trd lng="hu">v&iacute;rus</trd>
+  <trd lng="id">virus</trd>
+  <trd lng="nl">virus</trd>
+  <trd lng="pt">v&iacute;rus</trd>
+  <trd lng="ru">&c_v;&c_i;&c_r;&c_u;&c_s;</trd>
+  <trd lng="sk">v&iacute;rus</trd>
+  <trd lng="sv">virus</trd>
+</drv>
+
+<drv mrk="virus.kontra&ubreve;0ilo">
+  <kap>kontra&ubreve;<tld/>ilo</kap>
+  <snc mrk="virus.kontra&ubreve;0ilo.KOMP">
+    <uzo tip="fak">KOMP</uzo>
+    <dif>
+      Komputila programo 
+      kiu kontra&ubreve;as <tld/>ojn en komputilaj dosieroj,
+      sistemoj a&ubreve; aliaj programoj:
+      <ekz>
+        European Bernt Fix (a&ubreve; Bernd) estas la unua kontra&ubreve;<tld/>ilo en
+        1987
+        <fnt>
+          <bib>Viki</bib>,
+          <lok><url
+          ref="https://eo.wikipedia.org/wiki/Kontra%C5%ADvirusilo">
+          Kontra&ubreve;virusilo</url>, 2014-12</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="en">antivirus</trd>
+  <trd lng="fr">antivirus</trd>
+  <trdgrp lng="es">
+    <trd>antivirus</trd>,
+    <trd>aplicaci&oacute;n antivirus</trd>
+  </trdgrp>
+  <trd lng="it">antivirus</trd>
+</drv>
+
+
+</art>
+<!--
+$Log: virus.xml,v $
+Revision 1.22  2015/01/02 19:10:28  revo
+Jeromo Vasxe: kontraux~ilo: konformigis al reva stilo
+
+Revision 1.21  2014/12/24 09:10:12  revo
+Guillermo Molleda Jimena: kontrauxvirusilo
+
+Revision 1.20  2014/06/07 16:10:29  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.19  2013/04/24 15:10:19  revo
+Jeromo Vasxe: + fnt
+
+Revision 1.18  2012/07/31 14:10:18  revo
+Marc Rausell: + trd ca
+
+Revision 1.17  2009/07/03 16:31:18  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.16  2009/03/01 17:34:20  revo
+Russ Williams: + 9OA
+
+Revision 1.15  2006/06/19 16:32:08  revo
+-->
+</vortaro>

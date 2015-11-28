@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: plasm.xml,v 1.17 2015/07/04 08:37:41 revo Exp $">
+<kap>
+  <rad>plasm</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="plasm.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="plasm.0o.FIZL">
+    <uzo tip="fak">FIZL</uzo>
+    <dif>
+      Duonflua diafana substanco en viva&jcirc;o.
+    </dif>
+    <subsnc mrk="plasm.0o.FIZL_sanga">
+      <dif>
+        La likva parto de la sango, en kiu na&gcirc;as blankaj kaj
+        ru&gcirc;aj
+        sango&ccirc;eloj.
+      </dif>
+      <trdgrp lng="pl">                                        
+        <trd>osocze</trd>,                       
+        <trd>plazma</trd>,                                   
+      </trdgrp>
+    </subsnc>
+    <subsnc mrk="plasm.0o.FIZL_cxela">
+      <ref tip="dif" cel="plasm.cxelo0o.FIZL">&ccirc;elo<tld/>o</ref>
+    </subsnc>
+    <trd lng="hu">v&eacute;rplazma</trd>
+    <trd lng="pl">cytoplazma</trd>
+  </snc>
+  <snc>
+    <uzo tip="fak">FIZ</uzo>
+    <dif>
+      Forte jonigita gaso, en kiu kvantoj de negativaj kaj pozitivaj
+      &scirc;argoj estas praktike egalaj.
+    </dif>
+    <trd lng="hu">plazma</trd>
+    <trd lng="pl">plazma</trd>
+  </snc>
+  <trd lng="be">&c_p;&c_l;&c_ja;&c_z;&c_m;&c_a;</trd>
+  <trd lng="ca">plasma</trd>
+  <trd lng="cs">plazma</trd>
+  <trd lng="de">Plasma</trd>
+  <trd lng="en">plasma</trd>
+  <trd lng="es">plasma</trd>
+  <trd lng="fa">&f_p;&a_l;&a_A;&a_s;&a_m;&a_A;</trd>
+  <trd lng="fr">plasma</trd>
+  <trd lng="it">plasma</trd>
+  <trd lng="nl">plasma</trd>
+  <trd lng="pt">plasma</trd>
+  <trd lng="ru">&c_p;&c_l;&c_a;&c_z;&c_m;&c_a;</trd>
+  <trd lng="sk">plazma</trd>
+</drv>
+
+<drv mrk="plasm.cxelo0o">
+  <kap>
+    &ccirc;elo<tld/>o,
+    <var>
+      <kap>
+        &ccirc;el<tld/>o
+      </kap>
+    </var>
+  </kap>
+  <snc mrk="plasm.cxelo0o.FIZL">
+    <uzo tip="fak">FIZL</uzo>
+    <dif>
+      La enhavo de <ref tip="malprt" cel="cxel.0o.BIO">&ccirc;elo</ref>
+      &ccirc;irka&ubreve;anta &gcirc;ian kernon:
+      <ekz>
+        sporoj <klr>...</klr> kun &ccirc;el<tld/>o enhavanta 4
+        oleogutetojn
+        <fnt>
+          <aut>C. Roux</aut>,
+          <vrk><url
+          ref="http://lichenologue.org/fichiers/docs/2009RouxNaetrocymbe.pdf">
+          Naetrocymbe saxicola, likeno kun Trentepohlia</url></vrk>,
+          <lok>Bull. Soc. linn. Provence, vol. 60, 2009</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="citoplasm.0o.FIZL">citoplasmo</ref>
+    </refgrp>
+    <trd lng="ca">citoplasma</trd>
+    <trd lng="fa">&a_s;&f_y;&a_t;&a_w;&f_p;&a_l;&a_A;&a_s;&a_m;</trd>
+    <trd lng="fr">cytoplasme</trd>
+    <trd lng="pl">cytoplazma</trd>
+  </snc>
+</drv>
+</art>
+<!--
+$Log: plasm.xml,v $
+Revision 1.17  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.15  2012/08/27 00:10:21  revo
+Marc Rausell: + trd ca
+
+Revision 1.14  2011/10/14 22:10:09  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.13  2010/12/09 17:31:03  revo
+Sebastian Cyprych: +trd pl, kor trd pl
+
+Revision 1.12  2010/09/20 16:30:20  revo
+Jeromo Vasxe: snc/subsnc, + cxelo~o
+
+Revision 1.11  2009/10/29 17:31:11  revo
+Antonio Codazzi: +trd it
+
+Revision 1.10  2005/04/09 18:41:11  revo
+Vito Redsky: +trd pl
+
+Revision 1.9  2003/07/17 16:36:07  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.8  2002/12/11 17:33:14  revo
+-->
+</vortaro>

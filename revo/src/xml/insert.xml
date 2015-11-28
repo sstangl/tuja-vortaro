@@ -1,0 +1,175 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: insert.xml,v 1.15 2015/07/04 08:37:36 revo Exp $">
+<kap>
+  <rad>insert</rad>/i
+</kap>
+<drv mrk="insert.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      Enigi unu parton de planto en alian:
+      <ekz>
+        <tld/>i stamenojn sur la ovarion.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>transplantieren</trd>,
+      <trd>veredeln</trd>,
+      <trd>okulieren</trd>,
+      <trd>propfen</trd>
+    </trdgrp>
+    <trd lng="pl">szczepi&cacute;</trd>
+    <trd lng="pt">inserir<klr tip="amb"> (bot&acirc;nica)</klr></trd>
+  </snc>
+  <snc>
+    <uzo tip="fak">ANA</uzo>
+    <dif>
+      Alfiksi, enfiksi unu parton de korpo kun la alia.
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="greft.0i">grefti</ref>.
+    </refgrp>
+    <trdgrp lng="de">
+      <trd>transplantieren</trd>,
+      <trd>verpflanzen</trd>,
+      <trd>&uuml;bertragen</trd>
+    </trdgrp>
+    <trd lng="pt">enxertar</trd>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_u;&c_s;&c_t;&c_a;&c_w;&c_l;&c_ja;&c_c;&c_mol;</trd>,
+    <trd>&c_u;&c_s;&c_t;&c_a;&c_v;&c_ib;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>nasazovat</trd>,
+    <trd>očkovat</trd>,
+    <trd>roubovat</trd>,
+    <trd>upevňovat</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>beilleszt<klr tip="ind"> (testr&eacute;szt,
+    n&ouml;v&eacute;nydarabot)</klr></trd>,
+    <trd>be&uuml;ltet</trd>,
+    <trd>tapaszt<klr tip="ind"> (testr&eacute;szt,
+    n&ouml;v&eacute;nydarabot)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>inlassen</trd>,
+    <trd>griffelen</trd>
+  </trdgrp>
+  <trd lng="pl">sczepia&cacute;</trd>
+  <trd lng="ru">&c_v;&c_s;&c_t;&c_a;&c_v;&c_i;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>nasádzať</trd>,
+    <trd>očkovať</trd>,
+    <trd>upevňovať</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="insert.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">BOT</uzo>
+  <uzo tip="fak">ANA</uzo>
+  <snc>
+    <dif>
+      Ago <tld/>i; stato de tio, kio estas <tld/>ata:
+      <ekz>
+        muskola, ligamenta, surosta <tld/>o.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_u;&c_s;&c_t;&c_a;&c_w;&c_k;&c_a; <klr tip="amb">(&c_d;&c_z;&c_je;&c_ja;&c_n;&c_mol;&c_n;&c_je;)</klr></trd>
+  <trdgrp lng="cs">
+    <trd>inzerce</trd>,
+    <trd>přisedání</trd>,
+    <trd>úpon</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Ansetzen</trd>,
+    <trd>Anf&uuml;gung</trd>,
+    <trd>Insertion</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>insertion<klr tip="ind"> (attache)</klr></trd>,
+    <trd>attache</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>be&uuml;ltet&eacute;s</trd>,
+    <trd>inszerci&oacute;</trd>
+  </trdgrp>
+  <trd lng="nl">het <ind>inzetten</ind></trd>
+  <trd lng="pl">sczepienie</trd>
+  <trd lng="ru">&c_v;&c_s;&c_t;&c_a;&c_v;&c_k;&c_a;<klr tip="amb"> (&c_d;&c_je;&c_j;&c_s;&c_t;&c_v;&c_i;&c_je;)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>inzercia</trd>,
+    <trd>úpon</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="insert.0ajxo">
+  <kap><tld/>a&jcirc;o</kap>
+  <snc>
+    <dif>
+      <tld lit="I"/>ata parto.
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_u;&c_s;&c_t;&c_a;&c_w;&c_k;&c_a;</trd>,
+    <trd>&c_u;&c_k;&c_l;&c_ju;&c_ch;&c_e;&c_n;&c_mol;&c_n;&c_je;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Einsatz</trd>,
+    <trd>Einsatzteil</trd>,
+    <trd>aufgesetztes Teil</trd>,
+    <trd>angef&uuml;gtes Teil</trd>
+  </trdgrp>
+  <trd lng="nl">inzetsel</trd>
+  <trdgrp lng="ru">
+    <trd>&c_v;&c_s;&c_t;&c_a;&c_v;&c_k;&c_a;</trd>,
+    <trd>&c_v;&c_k;&c_l;&c_ju;&c_ch;&c_je;&c_n;&c_i;&c_je;</trd>
+  </trdgrp>
+</drv>
+<adm>
+  Malklara senco: "~i" versxajne ne estas sinonimo de grefti kaj "~o"
+  pli versxajne priskribas la tipon de alfiksigxo de organo al alia, ol
+  la "agon ~i". PIV2 havas "~igxi".
+  <aut>MB</aut>
+</adm>
+</art>
+<!--
+$Log: insert.xml,v $
+Revision 1.15  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.13  2005/11/03 17:31:25  revo
+Luiz Portella: +trd pt
+
+Revision 1.12  2005/01/19 17:32:42  revo
+Vito Redsky: +trd pl
+
+Revision 1.11  2004/10/13 14:08:56  revo
+Wolfram Diestel: germ trd
+
+Revision 1.10  2004/08/31 16:32:43  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.9  2003/09/09 16:32:30  revo
+Yury Finkel: +trd ru
+
+Revision 1.8  2003/07/17 16:32:23  revo
+Marc Bavant: +adm; ~o: +fak; +trd fr
+
+Revision 1.7 2002/08/09 19:33:08 revo
+Ulrich Fellmann: + 12 trd de
+
+Revision 1.6 2002/05/03 16:33:52 revo
+-->
+</vortaro>

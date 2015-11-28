@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: migren.xml,v 1.12 2015/07/04 08:37:39 revo Exp $">
+<kap>
+  <rad>migren</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="migren.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="migren.0o.MED">
+    <uzo tip="fak">MED</uzo>
+    <ref tip="dif" cel="hemikr.0o.MED">hemikranio</ref>
+    <ekz>
+      do, vi havis familian kuraciston. Li estis sanitara 
+      konsilisto? Kaj li deklaris &gcirc;in <tld/>o! 
+      <fnt>
+        <aut>T. Mann, [trad. M. Haase?]</aut>,
+        <vrk>Konfesoj de sin&scirc;ajniganto Feliks Krull</vrk>,
+        <lok>chapitro 5a</lok>
+      </fnt>;  
+    </ekz>
+    <ekz>
+      Pope plendis al mi pri neeltenebla <tld/>o kaj, probable,
+      foriris por
+      ku&scirc;i
+      <fnt>
+        <aut>A. Grin, trad. J. Finkel</aut>,
+        <vrk>
+          <url ref="http://www.esperanto.mv.ru/Grin/ora.html">
+          La ora &ccirc;eno</url>
+        </vrk>,
+        <lok>2009</lok>
+      </fnt>;
+    </ekz>
+    <ekz>
+      la tigroj &ccirc;e la ver&scirc;tablo per sia blekado min preska&ubreve; <tld/>igis
+      <fnt><bib>MkM</bib></fnt>.
+    </ekz>
+    <ref tip="lst" cel="san.mal0o.MED" lst="voko:malsanoj">malsano</ref>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_m;&c_ib;&c_g;&c_r;&c_e;&c_n;&c_mol;</trd>,
+    <trd>&c_g;&c_je;&c_m;&c_ib;&c_k;&c_r;&c_a;&c_n;&c_ib;&c_ja;</trd>
+  </trdgrp>
+  <trd lng="bg">&c_m;&c_i;&c_g;&c_r;&c_je;&c_n;&c_a;</trd>
+  <trdgrp lng="ca">
+    <trd>migranya</trd>,
+    <trd>hemicr&agrave;nia</trd>
+  </trdgrp>
+  <trd lng="cs">migréna</trd>
+  <trd lng="de">Migr&auml;ne</trd>
+  <trd lng="en">migraine</trd>
+  <trdgrp lng="es">
+    <trd>jaqueca</trd>,
+    <trd>migra&ntilde;a</trd>
+  </trdgrp>
+  <trd lng="fr">migraine</trd>
+  <trdgrp lng="hu">
+    <trd>f&eacute;loldali <ind>fejf&aacute;j&aacute;s</ind></trd>,
+    <trd>hemicrania</trd>,
+    <trd>migr&eacute;n</trd>
+  </trdgrp>
+  <trdgrp lng="id">
+    <trd>migrain</trd>,
+    <trd><ind>sakit</ind> kepala sebelah</trd>
+  </trdgrp>
+  <trd lng="it">emicrania</trd>
+  <trd lng="nl">migraine</trd>
+  <trdgrp lng="pt">
+   <trd>hemicrania</trd>, 
+   <trd>enxaqueca</trd> 
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_m;&c_i;&c_g;&c_r;&c_je;&c_n;&c_mol;</trd>,
+    <trd>&c_g;&c_je;&c_m;&c_i;&c_k;&c_r;&c_a;&c_n;&c_i;&c_ja;</trd>
+  </trdgrp>
+  <trd lng="sk">migréna</trd>
+</drv>
+</art>
+
+<!--
+$Log: migren.xml,v $
+Revision 1.12  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.11  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.10  2014/11/19 07:10:17  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.9  2013/10/09 19:10:56  revo
+Wolfram Diestel: ref al lst malsanoj
+
+Revision 1.8  2012/08/19 20:10:42  revo
+Marc Rausell: + trd ca
+
+Revision 1.7  2011/09/07 11:10:09  revo
+Jeromo Vasxe: + ref dif hemikrani, + trd el hemikrani
+
+Revision 1.6  2011/01/19 12:10:08  revo
+Russ Williams: +trd en +ekz MkM
+
+Revision 1.5  2010/05/30 16:30:25  revo
+Agustin Garcia Lopez: +trd es
+
+Revision 1.4  2010/02/23 17:30:22  revo
+Antonio Codazzi: + trd it
+
+Revision 1.3  2009/11/09 17:30:22  revo
+-->
+</vortaro>

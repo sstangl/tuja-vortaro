@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: diakron.xml,v 1.4 2015/11/04 15:10:19 revo Exp $">
+<kap>
+  <rad>diakron</rad>/a <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="diakron.0a">
+  <kap><tld/>a</kap>
+  <uzo tip="stl">RAR</uzo>
+  <snc mrk="diakron.0a.SCI">
+    <uzo tip="fak">SCI</uzo>
+    <dif>
+      <ref tip="dif" cel="histor.0a.SCI">Historia</ref>, tratempa;
+      kontraste al <ref tip="ant" cel="sinkron.0a.SCI">sinkrona</ref>:
+      <ekz>
+        la sama a&ubreve;torino <klr>...</klr> klopodas listigi
+        &ccirc;iujn <tld/>ajn &scirc;an&gcirc;ojn en Esperanto
+        <fnt>
+          <aut>R. Corsetti</aut>,
+          <vrk><url
+          ref="http://www.uea.org/dokumentoj/lps/corsetti.html">
+          Kreoli&gcirc;o de Esperanto inter personaj gustoj kaj oficiala 
+          normo</url></vrk>,
+          <lok>Lingvopolitika Seminario, 1996</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">diachronick&yacute;</trd>
+  <trd lng="en">diachronic</trd>
+  <trd lng="fr">diachronique</trd>
+  <trd lng="sk">diachronick&yacute;</trd>
+</drv>
+</art>
+
+<!--
+$Log: diakron.xml,v $
+Revision 1.4  2015/11/04 15:10:19  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.3  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.2  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.1  2013/08/31 13:10:10  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

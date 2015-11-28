@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: hodiau.xml,v 1.27 2014/11/12 09:10:23 revo Exp $">
+<kap>
+   <ofc>*</ofc>
+   <rad>hodia&ubreve;</rad>
+</kap>
+
+<drv mrk="hodiau.0">
+   <kap><ofc>*</ofc><tld/></kap>
+   <gra><vspec>adverbo</vspec></gra>
+   <snc mrk="hodiau.0.KOMUNE">
+     <dif>
+       En la nuna tago:
+       <ekz>
+         <tld/> vespere;
+       </ekz>
+       <ekz>
+         <tld/> estas festo;
+       </ekz>
+       <ekz>
+         <ind><tld/> por mono, morga&ubreve; senpage</ind>
+         <trd lng="fr">demain on rase gratis</trd>
+         <fnt>Z</fnt>;
+       </ekz>
+       <ekz>
+         <ind><tld/> forto, morga&ubreve; morto</ind>
+         <trd lng="fr">tout passe, tout casse</trd>
+         <fnt><bib>PrV</bib></fnt>.
+       </ekz>
+     </dif>
+   </snc>
+   <trdgrp lng="be">
+     <trd>&c_s;&c_jo;&c_n;&c_mol;&c_n;&c_ja;</trd>,
+     <trd>&c_s;&c_ja;&c_g;&c_o;&c_d;&c_n;&c_ja;</trd>,
+     <trd>&c_s;&c_ja;&c_g;&c_o;&c_n;&c_mol;&c_n;&c_ja;</trd>,
+   </trdgrp>
+   <trd lng="br">hiziv</trd>
+   <trd lng="cs">dnes</trd>
+   <trd lng="de">heute</trd>
+   <trd lng="el">&sigma;&eta_ton;&my;&epsilon;&rho;&alfa;</trd>
+   <trd lng="es">hoy</trd>
+   <trd lng="en">today</trd>
+   <trd lng="fi">t&auml;n&auml;&auml;n</trd>
+   <trd lng="fr">aujourd'hui</trd>
+   <trd lng="he">&he;&yod;&vav;&fmem;</trd>
+   <trd lng="hu">ma</trd>
+   <trd lng="id"><ind>hari</ind>ini</trd>
+   <trd lng="it">oggi</trd>
+   <trd lng="ja">&#20170;&#26085; [<ind>&#12365;&#12423;&#12358;</ind>]</trd>
+   <trd lng="nl">vandaag</trd>
+   <trdgrp lng="pl">
+     <trd>dzi&sacute;</trd>,
+     <trd>dzisiaj</trd>
+   </trdgrp>
+   <trd lng="pt">hoje</trd>
+   <trdgrp lng="ro">
+     <trd>ast&abreve;zi</trd>,
+     <trd>azi</trd>,
+   </trdgrp>
+   <trd lng="ru">&c_s;&c_je;&c_g;&c_o;&c_d;&c_n;&c_ja;</trd>
+   <trd lng="sv">i <ind>dag</ind></trd>
+   <trd lng="tr">bug&uuml;n</trd>
+</drv>
+
+<drv mrk="hodiau.0a">
+   <kap><ofc>*</ofc><tld/>a</kap>
+   <snc mrk="hodiau.0a.KOMUNE">
+     <dif>
+       Okazanta <tld/>:
+       <ekz>
+         por la <tld/>a tago mi ricevis duoblan pagon
+         <fnt><bib>F</bib>, <lok>&FE; 14</lok></fnt>.
+       </ekz>
+     </dif>
+   </snc>
+   <trd lng="be">&c_s;&c_jo;&c_n;&c_mol;&c_n;&c_ja;&c_sh;&c_n;&c_ib;</trd>
+   <trd lng="de">heutiger</trd>
+   <trdgrp lng="fi">
+     <trd>t&auml;m&auml;np&auml;iv&auml;inen</trd>,
+   </trdgrp>
+   <trdgrp lng="fr">
+     <trd>d'<ind>aujourd'hui</ind></trd>,
+     <trd>pr&eacute;sent<klr> (d'aujourd'hui)</klr></trd>
+   </trdgrp>
+   <trd lng="it">odierno</trd>
+   <trd lng="nl">van <ind>vandaag</ind></trd>
+   <trd lng="pl">dzisiejszy</trd>
+</drv>
+</art>
+<!--
+$Log: hodiau.xml,v $
+Revision 1.27  2014/11/12 09:10:23  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.26  2013/02/19 15:10:16  revo
+Dmitri Gabinski: redakto: +trd be
+
+Revision 1.25  2009/11/02 17:30:20  revo
+Zmicier Lapcionak: + trd ja
+
+Revision 1.24  2009/09/15 16:31:14  revo
+Antonio Codazzi: ++trd it
+
+Revision 1.23  2009/07/07 16:30:50  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.22  2008/04/24 17:20:27  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.21  2007/07/23 16:30:57  revo
+Harri Laine: +trd fi
+
+Revision 1.20  2006/10/23 16:30:25  revo
+-->
+</vortaro>

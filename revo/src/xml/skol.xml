@@ -1,0 +1,147 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: skol.xml,v 1.18 2015/07/04 08:37:43 revo Exp $">
+<kap>
+  <ofc>3</ofc>
+  <rad>skol</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="skol.0o">
+  <kap><tld/>o</kap>
+  <snc>
+    <dif>
+      Tuto de la dis&ccirc;iploj de iu majstro a&ubreve; de la adeptoj de iu
+      doktrino:
+      <ekz>
+        la unua vera ekonomika <tld/>o, kun propra revuo kaj regulaj
+        kunvenoj
+        <fnt><aut>B. Sandelin</aut>, <vrk>Anta&ubreve;merkantilisma
+        ekonomia pensado</vrk>, <bib>Monato</bib>,
+        <lok>2001:2, p. 16a</lok></fnt>;
+      </ekz>
+      <ekz>
+        la plej granda spertulo pri la rusa <tld/>o en
+        Esperanto-literaturo
+        Boris Tokarev jam forpasis
+        <fnt>
+        <aut>B. Kolker</aut>:
+        <vrk>Poeto de amo kaj revolucio</vrk>,
+        <bib>Monato</bib>,
+        <lok>1996:9, p. 24a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_sh;&c_k;&c_o;&c_l;&c_a; <klr tip="amb">(&c_u; 
+    &c_n;&c_a;&c_v;&c_u;&c_c;&c_y;, 
+    &c_l;&c_ib;&c_t;&c_a;&c_r;&c_a;&c_t;&c_u;&c_r;&c_y;, 
+    &c_m;&c_a;&c_s;&c_t;&c_a;&c_c;&c_t;&c_v;&c_je;)</klr>
+  </trd>
+  <trd lng="bg">&c_sh;&c_k;&c_o;&c_l;&c_a;</trd>
+  <trd lng="ca">escola</trd>
+  <trdgrp lng="cs">
+    <trd>filozofický směr</trd>,
+    <trd>nauka</trd>,
+    <trd>umělecký směr</trd>,
+    <trd>škola</trd>
+  </trdgrp>
+  <trd lng="de">Schule</trd>
+  <trd lng="en">school<klr tip="amb">
+    (of art, philosophy, thought, etc)</klr></trd>
+  <trd lng="es">escuela<klr> (corriente de pensamiento)</klr></trd>
+  <trd lng="fa">&a_m;&f_k;&a_t;&a_b;</trd>
+  <trdgrp lng="fr">
+    <trd>&eacute;cole<klr> (litt&eacute;raire etc.)</klr></trd>
+  </trdgrp>
+  <trd lng="hu">iskola<klr tip="amb"> (pl. tudom&aacute;nyos)</klr></trd>
+  <trdgrp lng="nl">
+    <trd>school</trd>,
+    <trd>kunstrichting</trd>
+  </trdgrp>
+  <trd lng="ru">&c_sh;&c_k;&c_o;&c_l;&c_a; <klr tip="amb">(&c_n;&c_a;&c_u;&c_ch;&c_n;&c_a;&c_ja;,
+    &c_v; &c_i;&c_s;&c_k;&c_u;&c_s;&c_s;&c_t;&c_v;&c_je; &c_i; &c_t;.&c_p;.)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>filozofický smer</trd>,
+    <trd>náuka</trd>,
+    <trd>umelecký smer</trd>,
+    <trd>škola</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="skol.0ano">
+  <kap><tld/>ano</kap>
+  <snc mrk="skol.0ano.KOMUNE">
+    <dif>
+      Ali&gcirc;into al <tld/>o:
+      <ekz>
+        mi malkovris tre simplan kritikon al la verkaro de 
+        Steve Pinke, Chomsky-<tld/>ano
+        <fnt>
+          <aut>Llu&iacute;s</aut>,
+          <vrk><url ref="http://www.ipernity.com/blog/viric/72873">
+          &Gcirc;eneralsemantikistoj kontra&ubreve; Chomsky-anoj</url></vrk>,
+          <lok>yy</lok>
+        </fnt>
+      </ekz>
+    </dif>
+  </snc>
+</drv>
+
+<drv mrk="skol.analiza0o">
+  <kap>analiza <tld/>o</kap>
+  <snc mrk="skol.analiza0o.ESP">
+    <uzo tip="fak">ESP</uzo>
+    <dif>
+      Lingvistika <tld/>o pri Esperanto, kiu de la 1960- &gcirc;is  
+      1990-aj jaroj  emfazis rigoran &leftquot;logikecon&rightquot; de la 
+      lingvo, <ref tip="vid" cel="temp.0ismo.ESP">tempismon</ref>, 
+      aktivan esperantigon de fremdaj nomoj...:
+      <ekz>
+        Schulz <klr>...</klr> fierege prezentas 
+        la membrojn de la Analiza <tld lit="S"/>o kiel 
+        &leftquot;pioniran eliton&rightquot;
+        <fnt>
+          <aut>B. Golden</aut>,
+          <vrk><url ref="http://esperanto-ondo.ru/R-shulco.htm">
+          Ankora&ubreve; unu proceso en la lingvo-tribunalo de
+          Schulz</url></vrk>,
+          <lok>La Ondo de Esperanto, 1996:3 (28)</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">&eacute;cole analytique</trd>
+</drv>
+</art>
+<!--
+$Log: skol.xml,v $
+Revision 1.18  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.16  2014/12/22 21:10:19  revo
+Jeromo Vasxe: + ~ano, analiza ~o
+
+Revision 1.15  2013/08/01 11:10:10  revo
+Joop Eggen: +trd bg
+
+Revision 1.14  2012/07/22 16:10:32  revo
+Marc Rausell: + trd ca
+
+Revision 1.13  2009/09/26 16:31:33  revo
+Russ Williams: +trd en
+
+Revision 1.12  2009/09/14 16:31:35  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.11  2006/05/03 16:31:03  revo
+Eduardo Navas: +trd es
+
+Revision 1.10  2004/10/15 16:31:58  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.9  2003/01/14 17:35:40  revo
+-->
+</vortaro>

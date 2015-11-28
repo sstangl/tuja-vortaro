@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: sxos.xml,v 1.10 2013/09/28 11:10:14 revo Exp $">
+<kap>
+  <rad>&scirc;os</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="sxos.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="sxos.0o.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      Elkreskanta <ref tip="super" cel="tig.0o">tigo</ref>
+      sen flankaj tigoj kaj kun 
+      <ref tip="prt" cel="burgxo.0o">bur&gcirc;ono</ref>
+      a&ubreve; folioj.
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_a;&c_r;&c_a;&c_s;&c_t;&c_a;&c_k;</trd>, 
+    <trd>&c_a;&c_d;&c_r;&c_o;&c_s;&c_t;&c_a;&c_k;</trd>
+  </trdgrp>
+  <trd lng="bg">&c_f;&c_i;&c_l;&c_i;&c_z;</trd>
+  <trdgrp lng="de">
+    <trd>Spross</trd>,
+    <trd>Trieb</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>sprout</trd>,
+    <trd>shoot</trd>
+  </trdgrp>
+  <trd lng="fr">pousse<klr> (plante)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>hajt&aacute;s</trd>,
+    <trd>sarj</trd>
+  </trdgrp>
+  <trdgrp lng="it">
+    <trd>butto</trd>,
+    <trd>germoglio</trd>, 
+    <trd>germma<klr> (bot.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>loot</trd>,
+    <trd>scheut</trd>
+  </trdgrp>
+  <trd lng="pt">broto</trd>
+  <trdgrp lng="ru">
+    <trd>&c_o;&c_t;&c_r;&c_o;&c_s;&c_t;&c_o;&c_k;</trd>,
+    <trd>&c_p;&c_o;&c_b;&c_je;&c_g;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="sxos.0i">
+  <kap><tld/>i</kap>
+  <snc mrk="sxos.0i.BOT">
+    <dif>
+      Elmeti <tld/>ojn, ekkreski:
+      <ekz>
+        herboj <tld/>as, floroj bur&gcirc;onas, arboj verdi&gcirc;as
+        <fnt>
+          <aut>&Ccirc;ina Radio Internacia</aut>,
+          <vrk><url
+          ref="http://esperanto.cri.cn/1/2005/04/12/1@23333.htm">
+          Esperanto-bosko</url></vrk>,
+          <lok>2005-04-12</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="bg">
+    <trd>&c_i;&c_z;&c_r;&c_a;&c_s;&c_t;&c_v;&c_a;&c_m;</trd>,
+    <trd>&c_p;&c_o;&c_k;&c_malmol;&c_l;&c_v;&c_a;&c_m;</trd>,
+    <trd>&c_n;&c_a;&c_p;&c_malmol;&c_p;&c_v;&c_a;&c_m;</trd>
+  </trdgrp>
+  <trd lng="de">sprie&szlig;en</trd>
+  <trd lng="en">sprout</trd>
+  <trdgrp lng="fr">
+    <trd>germer</trd>,
+    <trd>lever<klr> (plante)</klr></trd>
+  </trdgrp>
+  <trd lng="nl">ontspruiten</trd>
+</drv>
+</art>
+
+<!--
+$Log: sxos.xml,v $
+Revision 1.10  2013/09/28 11:10:14  revo
+Joop Eggen: +trd bg, verbo de en nl, transitiveco neklara
+
+Revision 1.9  2011/11/16 12:10:08  revo
+Jeromo Vasxe: + ~i
+
+Revision 1.8  2009/04/05 16:31:04  revo
+Antonio Codazzi: +trd it
+
+Revision 1.7  2006/02/17 17:31:38  revo
+Tulio Flores: +trd pt
+
+Revision 1.6  2002/10/16 16:31:20  revo
+Zmicier Lapcionak: + trd be
+
+Revision 1.5  2002/05/14 16:33:15  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.4  2001/05/04 16:13:28  revo
+Paul Peeraerts: ald trd nl
+
+Revision 1.3  2001/01/16 20:41:27  revo
+-->
+</vortaro>

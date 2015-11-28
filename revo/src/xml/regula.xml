@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: regula.xml,v 1.9 2015/07/04 08:37:42 revo Exp $">
+<kap>
+  <rad>regulator</rad>/o
+</kap>
+<drv mrk="regula.0o">
+  <kap><tld/>o</kap>
+  <snc>
+    <dif>
+      Reguligilo.
+    </dif>
+    <trd lng="hu">szab&aacute;lyoz&oacute;</trd>
+    <trd lng="ru">&c_r;&c_je;&c_g;&c_u;&c_l;&c_ja;&c_t;&c_o;&c_r;</trd>
+  </snc>
+  <snc>
+    <uzo tip="fak">ELE</uzo>
+    <dif>
+      Aparato, plej ofte uzata &ccirc;e radiodissendoj, kiu reguligas la
+      frekvencan konstanton de dissendo en la radioelektraj stacioj.
+    </dif>
+    <trd lng="hu">frekvenciaszab&aacute;lyoz&oacute;</trd>
+  </snc>
+  <trd lng="be">&c_r;&c_e;&c_g;&c_u;&c_l;&c_ja;&c_t;&c_a;&c_r;</trd>
+  <trd lng="cs">regulátor</trd>
+  <trd lng="nl">regulator</trd>
+  <trd lng="sk">regulátor</trd>
+</drv>
+</art>
+<!--
+$Log: regula.xml,v $
+Revision 1.9  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.8  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.7  2003/08/17 17:27:14  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.6  2002/10/19 18:22:14  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.5  2002/01/11 17:34:52  revo
+Yury Finkel: +trd ru, diSsendo
+
+Revision 1.4 2001/06/09 18:48:03 revo
+Paul Peeraerts: ald trd nl
+
+-->
+</vortaro>

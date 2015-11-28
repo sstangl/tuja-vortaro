@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: longit.xml,v 1.15 2012/07/16 10:10:23 revo Exp $">
+<kap>
+  <ofc>8</ofc>
+  <rad>longitud</rad>/o
+</kap>
+<drv mrk="longit.0o">
+  <kap>
+    <tld/>o
+  </kap>
+  <snc mrk="longit.0o.GEOG">
+    <uzo tip="fak">GEOG</uzo>
+    <dif>
+      Arko de la ekvatoro, entenata inter la meridiano de iu ajn loko
+      kaj
+      alia meridiano elektita kiel deira meridiano.
+    </dif>
+    <trdgrp lng="de">
+      <trd>L&auml;nge</trd>,
+      <trd>geographische L&auml;nge</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="longit.0o.AST">
+    <uzo tip="fak">AST</uzo>
+    <dif>
+      Angulo inter la meridiano de astro kaj la meridiano, kiu trapasas
+      la
+      printempan ekvinoksan punkton.
+    </dif>
+    <trdgrp lng="de">
+      <trd>L&auml;nge</trd>,
+      <trd>astronomische L&auml;nge</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="longit.0o.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <dif>
+      <klr>(de punkto <frm>M</frm> en tridimensia reela e&ubreve;klida
+      <ref cel="spac.afina0o">afina spaco</ref> provizita per orta
+      ununorma koordinatsistemo 
+      <frm>(O, <g>i</g>, <g>j</g>, <g>k</g>)</frm>)</klr>
+      <ref cel="angul.polusa0o">Polusa angulo</ref> de
+      la orta projekcia&jcirc;o de <frm>M</frm> sur la ebeno difinita de
+      <frm>(O, <g>i</g>, <g>j</g>)</frm>:
+      <ekz>
+        <tld/>o estas la dua koordinato en la sfera
+        <ref cel="koordi.0sistemo">koordinatsistemo</ref>.
+      </ekz>
+    </dif>
+    <adm>
+      Kontroli, &ccirc;u la tradukoj de nivelo drv ta&ubreve;gas anka&ubreve;
+      &ccirc;i-sence.
+      <aut>MB</aut>
+    </adm>
+    <trd lng="de">L&auml;nge<klr tip="ind"> (Kugelkoordinate)</klr></trd>
+    <trd lng="en">longitude</trd>
+    <trdgrp lng="fr">
+      <trd>longitude<klr tip="ind"> (coordon&eacute;e sph&eacute;rique)</klr></trd>,
+      <trd>azimuth</trd></trdgrp>
+    <trd lng="pl">d&lstroke;ugo&sacute;&cacute;<klr tip="ind"> (wsp&oacute;&lstroke;rz&eogonek;dna)</klr></trd>
+    <trd lng="ru">&c_d;&c_o;&c_l;&c_g;&c_o;&c_t;&c_a;<klr tip="ind"> (&c_k;&c_o;&c_o;&c_r;&c_d;&c_i;&c_n;&c_a;&c_t;&c_a;)</klr></trd>
+  </snc>
+  <trd lng="be">&c_d;&c_a;&c_w;&c_g;&c_a;&c_t;&c_a;</trd>
+  <trd lng="ca">longitud</trd>
+  <trd lng="es">longitud</trd>
+  <trd lng="hu">hossz&uacute;s&aacute;gi fok</trd>
+  <trd lng="nl">lengte</trd>
+  <trd lng="pt">longitude</trd>
+  <trd lng="ru">&c_d;&c_o;&c_l;&c_g;&c_o;&c_t;&c_a;</trd>
+</drv>
+</art>
+<!--
+$Log: longit.xml,v $
+Revision 1.15  2012/07/16 10:10:23  revo
+Marc Rausell: + trd ca
+
+Revision 1.14  2003/05/13 16:33:25  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.13  2003/01/13 17:34:11  revo
+Marc Bavant: ~o MAT: +trd de/en
+
+Revision 1.12  2002/11/30 17:36:05  revo
+Marc Bavant: +frm
+
+Revision 1.11  2002/09/13 16:36:48  revo
+Eduardo M. Kalinowski: ald trd pt
+Revision 1.10  2002/09/01 19:10:15  revo
+Marc Bavant: +snc MAT; +mrk; mod uzo SCI al GEO
+Revision 1.9  2002/08/12 17:31:10  revo
+Jozefo Horvath: +trd hu
+Revision 1.8  2001/11/20 17:35:18  revo
+Yury Finkel: +trd ru
+Revision 1.7  2001/04/22 17:44:04  revo
+Paul Peeraerts: ald trd nl
+-->
+</vortaro>

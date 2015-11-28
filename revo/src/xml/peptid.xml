@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: peptid.xml,v 1.2 2014/11/12 20:10:14 revo Exp $">
+<kap>
+  <rad>peptid</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="peptid.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="peptid.0o.FIZL">
+    <uzo tip="fak">FIZL</uzo>
+    <dif>
+      <ref tip="super" cel="polimer.0o.molekulo">Polimero</ref>
+      el <ref tip="prt" cel="acid.amina0o.FIZL">aminacidoj</ref>
+      ligitaj per <tld/>aj ligoj:
+      <ekz>
+        li estis la unua, kiu proponis uzi proteinojn kaj 
+        <tld/>ojn de insektoj kiel molekulojn-sondilojn por 
+        esplori la homajn proteinojn
+        <fnt>
+          <bib>Viki</bib>,
+          <lok><url
+          ref="http://eo.wikipedia.org/wiki/Konstantin_Efetov">
+          Konstantin Efetov</url>, 2013-10-26</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="bg">&c_p;&c_je;&c_p;&c_t;&c_i;&c_d;</trd>
+  <trd lng="ca">p&egrave;ptid</trd>
+  <trd lng="da">peptid</trd>
+  <trd lng="de">Peptid</trd>
+  <trd lng="en">peptide</trd>
+  <trd lng="es">p&eacute;ptido</trd>
+  <trd lng="fr">peptide</trd>
+  <trd lng="hu">peptid</trd>
+  <trd lng="it">peptide</trd>
+  <trd lng="nl">peptide</trd>
+</drv>
+</art>
+
+<!--
+$Log: peptid.xml,v $
+Revision 1.2  2014/11/12 20:10:14  revo
+Joop Eggen: +trd bg k.a.
+
+Revision 1.1  2013/11/23 11:10:16  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

@@ -1,0 +1,131 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: gvat.xml,v 1.13 2015/07/04 08:37:35 revo Exp $">
+<kap>
+  <rad>gvat</rad>/i <fnt><bib>SPV</bib></fnt>
+</kap>
+<drv mrk="gvat.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="gvat.0i.sxtele">
+    <dif>
+      Ka&scirc;e, &scirc;telume observi, atendi:
+      <ekz>
+        trans la kurteno de la kabareto li <tld/>is
+        la eliradon de la kudristinoj.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_s;&c_a;&c_ch;&c_y;&c_c;&c_mol;</trd>,
+      <trd>&c_v;&c_y;&c_s;&c_o;&c_ch;&c_v;&c_a;&c_c;&c_mol;</trd>,
+      <trd>&c_p;&c_a;&c_d;&c_p;&c_ib;&c_l;&c_mol;&c_n;&c_o;&c_w;&c_v;&c_a;&c_c;&c_mol;</trd>,
+      <trd>&c_d;&c_a;&c_p;&c_ib;&c_l;&c_mol;&c_n;&c_o;&c_w;&c_v;&c_a;&c_c;&c_mol;</trd>
+    </trdgrp>
+    <trdgrp lng="ca">
+      <trd>espiar</trd>,
+      <trd>ullar</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd>heimlich beobachten</trd>,
+      <trd>lauern</trd>,
+      <trd>belauern</trd>,
+      <trd>spannen</trd>
+    </trdgrp>
+    <trdgrp lng="es">
+      <trd>acechar</trd>,
+      <trd>espiar</trd>
+    </trdgrp> 
+    <trdgrp lng="en">
+      <trd>spy on</trd>,
+      <trd>stalk</trd>,
+    </trdgrp>    
+    <trd lng="hu">les</trd>
+    <trd lng="nl">bespieden</trd>
+    <trd lng="pt">espiar</trd>
+    <trdgrp lng="fr">
+      <trd>guetter</trd>,
+      <trd>&eacute;pier</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="gvat.0i.dejxore">
+    <dif>
+      De&jcirc;ore observi.
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_s;&c_a;&c_ch;&c_y;&c_c;&c_mol;</trd>,
+      <trd>&c_n;&c_a;&c_z;&c_ib;&c_r;&c_a;&c_c;&c_mol;</trd>
+    </trdgrp>
+    <trdgrp lng="ca">
+      <trd>sotjar</trd>,
+      <trd>aguaitar</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd>Wache schieben</trd>,
+      <trd>wachen</trd>,
+      <trd>bewachen</trd>
+    </trdgrp>
+    <trd lng="es">vigilar</trd> 
+    <trdgrp lng="en">
+      <trd>keep watch</trd>,    
+      <trd>guard</trd>,
+       <trd>sentinel</trd>
+    </trdgrp>
+    <trd lng="fr">faire le <ind>guet</ind></trd>
+    <trdgrp lng="hu">
+      <trd>figyel<klr tip="ind"> (k&eacute;mlel)</klr></trd>,
+      <trd>k&eacute;mlel</trd>
+    </trdgrp>
+    <trdgrp lng="nl">
+      <trd>bewaken</trd>,
+      <trd>uitkijken</trd>
+    </trdgrp>
+    <trdgrp lng="pt">
+     <trd>espionar</trd>, 
+     <trd>tocaiar</trd> 
+    </trdgrp>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>tajně pozorovat</trd>,
+    <trd>číhat</trd>
+  </trdgrp>
+  <trd lng="ru">&c_s;&c_l;&c_je;&c_d;&c_i;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>striehnuť</trd>,
+    <trd>špehovať</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: gvat.xml,v $
+Revision 1.13  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.12  2015/06/29 16:29:39  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.11  2013/12/01 20:10:21  revo
+Jessica Grasso: +tr en
+
+Revision 1.10  2012/03/16 01:10:07  revo
+Carlos Garcia: +trd es -i
+
+Revision 1.9  2011/12/04 12:10:14  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.8  2005/10/11 16:31:18  revo
+Luiz Portella: +trd pt
+
+Revision 1.7  2004/02/21 17:30:39  revo
+Jeromo Vasxe: + fnt spv, + mrk
+
+Revision 1.6 2004/01/10 17:32:00 revo
+Dmitri Gabinski: +trd be
+
+Revision 1.5 2003/11/08 08:20:18 revo
+Jozefo Horvath: +trd hu
+
+Revision 1.4 2001/10/15 18:16:06 revo
+-->
+</vortaro>

@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: statik.xml,v 1.16 2015/10/07 16:10:16 revo Exp $">
+<kap>
+  <rad>statik</rad>/o
+  <fnt>Z</fnt>
+</kap>
+<drv mrk="statik.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">TEK</uzo>
+  <snc>
+    <dif>
+      Parto de la mekaniko, kiu pritraktas la ekvilibron de la fortoj.
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_t;&c_a;&c_t;&c_y;&c_k;&c_a;</trd>
+  <trd lng="bg">&c_s;&c_t;&c_a;&c_t;&c_i;&c_k;&c_a;</trd>
+  <trd lng="cs">statika</trd>
+  <trd lng="de">Statik</trd>
+  <trd lng="en">statics</trd>
+  <trd lng="es">est&aacute;tica <klr tip="ind"> (rama de la mec&aacute;nica) </klr>
+  </trd>
+  <trdgrp lng="fa">
+    <trd>&a_A;&f_y;&a_s;&a_t;&a_A;&f_y;&f_y;</trd>,
+    <trd>&a_A;&a_s;&a_t;&a_A;&a_t;&f_y;&f_k;</trd>
+  </trdgrp>
+  <trd lng="fr">statique
+    <klr tip="ind"> (branche de la m&eacute;canique)
+    </klr>
+  </trd>
+  <trd lng="hu">statika</trd>
+  <trd lng="nl">statica</trd>
+  <trd lng="ru">&c_s;&c_t;&c_a;&c_t;&c_i;&c_k;&c_a;</trd>
+  <trd lng="sk">statika</trd>
+  <trd lng="sv">statik</trd>
+</drv>
+</art>
+<!--
+$Log: statik.xml,v $
+Revision 1.16  2015/10/07 16:10:16  revo
+Joop Eggen: +trd bg
+
+Revision 1.15  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:33:24  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.13  2009/09/11 16:30:59  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.12  2009/08/28 16:31:36  revo
+Russ Williams: +trd en
+
+Revision 1.11  2005/04/05 16:35:45  revo
+Raul Salinas Monteagudo: +trd es
+
+Revision 1.10  2004/10/28 16:32:22  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.9  2004/10/24 16:32:03  revo
+-->
+</vortaro>

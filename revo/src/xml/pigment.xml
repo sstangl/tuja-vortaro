@@ -1,0 +1,153 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: pigment.xml,v 1.5 2015/07/04 08:37:41 revo Exp $">
+<kap>
+    <rad>pigment</rad>/o 
+  <fnt>Z, </fnt>
+  <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="pigment.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="pigment.0o.BIO">
+    <uzo tip="fak">BIO</uzo>
+    <dif>
+      Natura, kolora substanco de la vivuloj:
+      <ekz>
+        klorofilo estas la &ccirc;efa <tld/>o de la fotosintezantaj plantoj
+        <fnt>
+          <aut>Vikipedio</aut>,
+          <vrk><url
+          ref="http://eo.wikipedia.org/wiki/Klorofilo">Klorofilo</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="pigment.0o.KEM">
+  <uzo tip="fak">KEM</uzo>
+    <dif>
+      Kolora substanco, &gcirc;enerale konsistanta el tre fajnaj grajnoj,
+      uzata por fari farbojn, kaj ne solvebla en la liganto:
+      <ekz>
+        farboj konsistas &ccirc;efe el oleo la&ubreve;eble rapide seki&gcirc;anta kaj el
+        koloraj <tld/>oj
+        <fnt>
+          <aut>Vikipedio</aut>,
+          <vrk><url
+          ref="http://eo.wikipedia.org/wiki/Farbo">Farbo</url></vrk>
+        </fnt>
+      </ekz>.
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>barvivo</trd>,
+    <trd>pigment</trd>
+  </trdgrp>
+  <trd lng="fr">pigment</trd>
+  <trdgrp lng="sk">
+    <trd>farbivo</trd>,
+    <trd>pigment</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="pigment.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="pigment.0a.SNC">
+    <dif>
+      Rilata al pigmento:
+      <ekz>
+        por produkti iometon da diversaj el&ccirc;erpitaj farboj mi bezonas
+        ser&ccirc;i likvajn kaj pigmentajn ingredientojn
+        <fnt>
+          <aut>Jorge Camacho</aut>,
+          <vrk><url
+          ref="http://ebooks.translaten.com/eo-ca/camacho/la-majstro-kaj-martinelli.html">La
+          Majstro kaj Martinelli</url></vrk>,
+          <lok>&ccirc;apitro 11</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        denaska pigmenta nevuso
+        <fnt>
+          <aut>MU Binghua</aut>,
+          <vrk><url
+          ref="http://www.esperanto.be/fel/2002/007897.html">Operacio
+          sen precedenco</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>  
+  <trd lng="fr">pigmentaire</trd>
+</drv>
+
+<drv mrk="pigment.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="pigment.0i.SNC">
+    <dif>
+      Kolorigi per pigmento.
+    </dif>
+  </snc>
+  <trd lng="cs">pigmentovat</trd>
+  <trd lng="fr">pigmenter</trd>
+  <trd lng="sk">pigmentovať</trd>
+</drv>
+
+<drv mrk="pigment.0igxo">
+  <kap><tld/>i&gcirc;o</kap>
+  <snc mrk="pigment.0igxo.SNC">
+    <dif>
+      Amasi&gcirc;o da <tld/>oj en la organaj histoj:
+      <ekz>
+        tiu pigmenti&gcirc;o plii&gcirc;as per la sunlumo
+        <fnt>
+          <aut>Vikipedio</aut>,
+          <vrk><url
+          ref="http://eo.wikipedia.org/wiki/Efelido">Efelido</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">pigmentation</trd>
+</drv>
+
+<drv mrk="pigment.hiper0igxo">
+  <kap>hiper<tld/>i&gcirc;o</kap>
+  <snc mrk="pigment.hiper0igxo.MED">
+  <uzo tip="fak">MED</uzo>
+    <dif>
+      Pigmenti&gcirc;o super la normala kvanto:
+      <ekz>
+        lentugo estas ekzemplo de loka hiperpigmenti&gcirc;o
+        <fnt>
+          <aut>Vikipedio</aut>,
+          <vrk><url
+          ref="http://eo.wikipedia.org/wiki/Ha&ubreve;to">Ha&ubreve;to</url></vrk>
+        </fnt>
+      </ekz>.
+    </dif>
+  </snc>
+  <trd lng="fr">hyperpigmentation</trd>
+</drv>
+ </art>
+
+<!--
+$Log: pigment.xml,v $
+Revision 1.5  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.4  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.3  2015/02/02 08:10:17  revo
+Alain Gerard: tajperaro
+
+Revision 1.2  2015/02/01 21:10:17  revo
+Alain Gerard: +uzo tip
+
+Revision 1.1  2015/02/01 16:10:17  revo
+Alain Gerard: nova artikolo
+
+-->
+</vortaro>

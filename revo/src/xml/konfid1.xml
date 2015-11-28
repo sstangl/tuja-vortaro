@@ -1,0 +1,180 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: konfid1.xml,v 1.19 2015/07/04 08:37:37 revo Exp $">
+<kap>
+  <ofc>3</ofc>
+  <rad>konfidenc</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="konfid1.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="konfid1.0o.KOMUNE">
+    <dif>
+      Sciigo, kiun oni
+      <ref cel="konfid.0i.pro_diskreteco">konfidas</ref> al iu, 
+      kaj kiun li devas teni sekreta:
+      <ekz>
+        diri, fari al iu siajn <tld/>ojn;
+      </ekz>
+      <ekz>
+        ricevi, preni, altiri la <tld/>ojn de iu;
+      </ekz>
+      <ekz>
+        <ind><tld/>a</ind> letero.
+        <trd lng="fr">confidentiel</trd>
+        <trd lng="nl">vertrouwelijk</trd>
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>důvěrnost</trd>,
+    <trd>důvěrné sdělení</trd>,
+    <trd>konfidence</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>vertrauliche <ind>Mitteilung</ind></trd>,
+    <trd>Vertraulichkeit</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>confidence</trd>,
+    <trd>aveu<klr tip="ind"> (confidence)</klr></trd>,
+    <trd>r&eacute;v&eacute;lation<klr tip="ind"> (confidence)</klr></trd>,
+    <trd>secret<klr tip="ind"> (confidence)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>bizalmas k&ouml;zl&eacute;s</trd>,
+    <trd>titok</trd>
+  </trdgrp>
+  <trd lng="nl">vertrouwelijke mededeling</trd>
+  <trd lng="pt">confid&ecirc;ncia</trd>
+  <trdgrp lng="ru">
+    <trd>&c_k;&c_o;&c_n;&c_f;&c_i;&c_d;&c_je;&c_n;&c_c;&c_i;&c_a;&c_l;&c_mol;&c_n;&c_o;&c_je;
+    &c_s;&c_o;&c_o;&c_b;&c_shch;&c_je;&c_n;&c_i;&c_je;</trd>
+  </trdgrp>
+  <trd lng="sk">dôvernosť</trd>
+</drv>
+
+<drv mrk="konfid1.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="konfid1.0i.KOMUNE">
+    <dif>
+      Diri kiel <tld/>on:
+      <ekz>
+        <tld/>i siajn sentojn, sekretojn al amiko.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="sekret.0i">sekreti</ref>.
+    </refgrp>
+  </snc>
+  <trd lng="cs">důvěrně sdělit</trd>
+  <trd lng="de">anvertrauen</trd>
+  <trdgrp lng="fr">
+    <trd>confier<klr tip="ind"> (un secret)</klr></trd>,
+    <trd>avouer<klr tip="ind"> (confidentiellement)</klr></trd>,
+    <trd>dire<klr tip="ind"> (confidentiellement)</klr></trd>,
+    <trd>d&eacute;voiler<klr tip="ind"> (confidentiellement)</klr></trd>,
+    <trd>r&eacute;v&eacute;ler<klr tip="ind"> (confidentiellement)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>bizalmasan k&ouml;z&ouml;l</trd>,
+    <trd>r&aacute;b&iacute;z <klr tip="amb">(titkot)</klr></trd>
+  </trdgrp>
+  <trd lng="nl">toevertrouwen</trd>
+  <trdgrp lng="ru">
+    <trd>&c_d;&c_o;&c_v;&c_je;&c_r;&c_i;&c_t;&c_mol;</trd>,
+    <trd>&c_s;&c_o;&c_o;&c_b;&c_shch;&c_i;&c_t;&c_mol; &c_p;&c_o;
+    &c_s;&c_je;&c_k;&c_r;&c_je;&c_t;&c_u;</trd>
+  </trdgrp>
+  <trd lng="sk">dôverne oznámiť</trd>
+</drv>
+
+<drv mrk="konfid1.0ema">
+  <kap><tld/>ema</kap>
+  <snc mrk="konfid1.0ema.PSI">
+    <dif>
+      Facile diranta siajn <tld/>ojn.
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="babil">babilema</ref>,
+      <ref cel="komuni1">komuniki&gcirc;ema</ref>,
+      <ref cel="kasx">malka&scirc;ema</ref>
+    </refgrp>
+  </snc>
+  <adm>
+    La referencitaj vortoj meritus havi propran drv.
+    <aut>MB</aut>
+  </adm>
+  <trd lng="de">vertrauensselig</trd>
+  <trdgrp lng="fr">
+    <trd>prompt aux <ind>confidence</ind>s</trd>,
+    <trd>bavard<klr tip="ind"> (prompt aux confidences)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>bizalomra hajl&oacute;</trd>,
+    <trd>k&ouml;zl&eacute;keny</trd>,
+    <trd>bizalomteljes</trd>
+  </trdgrp>
+  <trd lng="nl">mededeelzaam</trd>
+  <trd lng="sk">dôverčivý</trd>
+  <trd lng="cs">důvěřivý</trd>
+</drv>
+
+<drv mrk="konfid1.0ulo">
+  <kap><tld/>ulo, <var><kap><tld/>ulino</kap></var></kap>
+  <uzo tip="stl">RAR</uzo>
+  <snc mrk="konfid1.0ulo.KOMUNE">
+    <ref tip="dif" cel="konfid.0ato">konfidato</ref>
+    <ekz>
+      la plenluna nokto estas nokto festa, kaj mi man&gcirc;as en la
+      intima kompanio de miaj <tld/>uloj kaj servistoj
+      <fnt><bib>MkM</bib>, <lok>&ccirc;apitro 24a</lok></fnt>.
+    </ekz>
+  </snc>
+  <trd lng="cs">důvěrnice</trd>
+  <trdgrp lng="fr">
+    <trd>confident(e)</trd>,
+    <trd>personne de <ind>confiance</ind></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>bizalmas</trd>,
+    <trd>bizalmi ember</trd>
+  </trdgrp>
+  <trd lng="nl">vertrouwenspersoon</trd>
+  <trd lng="sk">dôverníčka</trd>
+</drv>
+</art>
+<!--
+$Log: konfid1.xml,v $
+Revision 1.19  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2010/07/22 16:30:26  revo
+Jeromo Vasxe: - kramp
+
+Revision 1.16  2009/09/05 16:31:30  revo
+Paul Peeraerts: +nl
+
+Revision 1.15  2006/12/15 17:30:24  revo
+Tulio Flores: +tr pt
+
+Revision 1.14  2005/08/13 16:32:42  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.13  2005/06/26 16:32:02  revo
+Marc Bavant: ~o: kor ref cel al "konfidi"
+
+Revision 1.12  2005/06/20 16:31:23  revo
+Marc Bavant: +drv ~ulo
+
+Revision 1.11 2005/06/16 17:43:27 revo
+Marc Bavant: +trd fr, kor ref tip sin; ~o, ~i: mod dif; ~ema: mod dif,
+mod refgrp, +adm
+
+-->
+</vortaro>

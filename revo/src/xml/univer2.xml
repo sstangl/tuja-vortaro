@@ -1,0 +1,154 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: univer2.xml,v 1.30 2015/07/04 08:37:45 revo Exp $">
+<kap>
+   <ofc>*</ofc>
+   <rad>universitat</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="univer2.0o">
+   <kap><ofc>*</ofc><tld/>o</kap>
+   <snc mrk="univer2.0o.PED">
+     <uzo tip="fak">PED</uzo>
+     <dif>
+       Supera instruejo dividita la&ubreve; fakoj (fakultatoj),
+       kies &ccirc;iu disdonas titolojn (licencio, magistro, doktoro):
+       <ekz>
+         koran dankon al la glora Kembri&gcirc;a <tld/>o, kiu pruntis
+al ni
+         siajn &ccirc;ambrojn
+         <fnt>
+         <bib>Paroloj</bib>,
+         <vrk>Tria Kongreso 1907 en Cambridge</vrk>
+         </fnt>.
+       </ekz>
+     </dif>
+   </snc>
+  <trd
+lng="be">&c_u;&c_n;&c_ib;&c_v;&c_e;&c_r;&c_s;&c_ib;&c_t;&c_e;&c_t;</trd>
+  <trd lng="bg">&c_u;&c_n;&c_i;&c_v;&c_je;&c_r;&c_s;&c_i;&c_t;&c_je;&c_t;</trd>
+  <trd lng="br">skol-veur</trd>
+  <trd lng="ca">universitat</trd>
+  <trdgrp lng="cs">
+    <trd>univerzita</trd>,
+    <trd>univerzita <klr>(zkr.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="de">
+     <trd>Universit&auml;t</trd>,
+     <trd>Hochschule</trd>
+   </trdgrp>
+  <trd
+lng="el">&pi;&alfa;&ny;&epsilon;&pi;&jota;&sigma;&tau;&eta_ton;&my;&jota;&omikron;</trd>
+  <trd lng="en">university</trd>
+  <trd lng="es">universidad</trd>
+  <trd lng="fi">yliopisto</trd>
+  <trd lng="fr">universit&eacute;</trd>
+  <trd lng="hu">egyetem</trd>
+  <trd lng="it">universit&agrave;</trd>
+  <trd lng="nl">universiteit</trd>
+  <trd lng="oc">universitat</trd>
+  <trd lng="pl">uniwersytet</trd>
+  <trd lng="pt">universidade</trd>
+  <trd
+lng="ru">&c_u;&c_n;&c_i;&c_v;&c_je;&c_r;&c_s;&c_i;&c_t;&c_je;&c_t;</trd>
+  <trd lng="sk">univerzita</trd>
+  <trd lng="sv">universitet</trd>
+  <trd lng="tr">&uuml;niversite</trd>
+</drv>
+
+<drv mrk="univer2.0aareo">
+   <kap><tld/>a areo, <var><kap><tld/>a parko</kap></var></kap>
+   <snc mrk="univer2.0aareo.PED">
+     <uzo tip="fak">PED</uzo>
+     <dif>
+       Granda tereno kun <tld/>aj kursejoj, bibliotekoj, man&gcirc;ejoj,
+       lo&gcirc;ejoj...:
+       <ekz>
+         Bonn havas belan urbocentron kun <tld/>a parko
+         <fnt>
+         <aut>-</aut>,
+         <vrk><url
+ref="http://www.esperanto.de/revelo/prezentoj/Nordrejno.htm">
+         Esperanto NRW</url></vrk>,
+         <lok>2002-06</lok>
+         </fnt>;
+       </ekz>
+       <ekz>
+         la subita studenta ribelo <klr>...</klr> ekis mardon 10an de
+         junio sur la <tld/>a areo de Teherano
+         <fnt>
+         <aut>P. M. de La Gorce, trad. J. M. Cash</aut>,
+         <vrk><url ref="http://eo.mondediplo.com/article789.html">
+         La islama Respubliko Irano sub premo</url></vrk>,
+         <lok>le Monde diplomatique, 2003-07</lok>
+         </fnt>.
+       </ekz>
+     </dif>
+   </snc>
+   <trd lng="ca">campus</trd>
+   <trd lng="de">Campus</trd>
+   <trd lng="en">campus</trd>
+   <trd lng="es">campus</trd>
+   <trdgrp lng="fi">
+     <trd>korkeakoulualue</trd>,
+     <trd>kampus</trd>
+   </trdgrp>
+   <trd lng="fr">campus</trd>
+   <trd lng="it">campus</trd>
+</drv>
+</art>
+<!--
+$Log: univer2.xml,v $
+Revision 1.30  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.29  2014/08/11 10:10:09  revo
+Carlos Garcia: +trd es -a areo
+
+Revision 1.28  2014/03/24 17:10:30  revo
+Damien Brucker: +trd fr
+
+Revision 1.27  2013/05/27 20:10:10  revo
+Benito Subejrano: + trd oc
+
+Revision 1.26  2012/08/13 14:10:26  revo
+Marc Rausell: + trd ca
+
+Revision 1.25  2010/07/10 16:30:42  revo
+Agustin Garcia Lopez: +trd es
+
+Revision 1.24  2008/04/11 16:30:35  revo
+Wieland Pusch: +trd bg
+
+Revision 1.23  2007/06/19 16:31:25  revo
+Harri Laine: +trd fi
+
+Revision 1.22  2007/02/09 17:30:19  revo
+Jeromo Vasxe: sensxangxe, nur por novigi la html-artikolon
+
+Revision 1.21  2007/01/27 21:07:40  revo
+Jeromo Vasxe: + ~a areo
+
+Revision 1.20 2005/04/06 16:37:32 revo
+Alan ar Gall: +trd br
+
+Revision 1.19 2004/10/04 16:31:28 revo
+Luiz Portella: +kor. en 'drv mrk'
+
+Revision 1.18 2004/09/27 19:06:27 revo
+Luiz Portella: mi demetis "abiturienteco", kaj enmetis: (1e:) "<uzo
+tip="fak">PED</uzo>&leftquot;; (2e:) &rightquot;.PED" en
+<drv mrk="univer2.0o.PED">
+   ;(3e:) "magistro"; (4e:) sxangxis de "doktoreco" al "doktoro"
+   Revision 1.17 2002/12/08 17:32:26 revo
+   Dmitri Gabinski: +trd be
+   Revision 1.16 2002/09/17 16:32:38 revo
+   Rastislav Sarissky: +trd sk
+   Revision 1.15 2002/08/05 17:32:15 revo
+   Jozefo Horvath: +trd hu
+   Revision 1.14 2002/07/13 17:31:17 revo
+   jxeromo vasxe: + ekz
+   Revision 1.13 2002/05/09 18:44:49 revo
+   -->
+   </vortaro>

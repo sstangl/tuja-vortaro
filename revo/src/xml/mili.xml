@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: mili.xml,v 1.21 2015/07/04 08:37:39 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>mili</rad>/o
+</kap>
+<drv mrk="mili.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="mili.0o.BOT">
+    <uzo tip="fak">AGR</uzo>
+    <uzo tip="fak">BOT</uzo>
+    <uzo tip="fak">KUI</uzo>
+    <dif>
+      <ref tip="lst" cel="speci.0o.BIO"
+      lst="voko:botanikaj_specioj">Specio</ref> el familio <ref
+      tip="malprt" cel="poac.0oj">poacoj</ref>
+      (<trd lng="la">Panicum miliaceum</trd>),
+      malnova grenplanto, uzata por <ref cel="kacx.0o.KUI">ka&ccirc;o</ref>,
+      pano a&ubreve; por nutrado de hejmaj birdoj:
+      <ekz>
+        ni pagis &ccirc;iujn impostojn: en <tld/>o, tritiko, floroj kaj brutaj
+        feloj
+        <fnt><bib>Far1</bib>, <lok>&ccirc;apitro 12a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_r;&c_o;&c_s;&c_a;</trd>
+  <trd lng="br">mell<klr tip="ind"> (plant)</klr></trd>
+  <trd lng="ca">mill</trd>
+  <trdgrp lng="cs">
+    <trd>proso obecné</trd>,
+    <trd>proso seté</trd>
+  </trdgrp>
+  <trd lng="de">Hirse</trd>
+  <trd lng="en">millet</trd>
+  <trd lng="fr">millet</trd>
+  <trd lng="hu">k&ouml;les</trd>
+  <trd lng="nl">gierst</trd>
+  <trd lng="pl">proso</trd>
+  <trdgrp lng="pt">
+   <trd>pain&ccedil;o</trd>,
+   <trd>milho-mi&uacute;do</trd>,
+   <trd>milhete</trd>   
+  </trdgrp>
+  <trd lng="ru">&c_p;&c_r;&c_o;&c_s;&c_o;</trd>
+  <trd lng="sk">proso <klr>(rastlina)</klr></trd>
+</drv>
+</art>
+<!--
+$Log: mili.xml,v $
+Revision 1.21  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.19  2013/08/28 15:10:24  revo
+Wolfram Diestel: referencoj al bot specioj
+
+Revision 1.18  2012/08/27 05:10:15  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.17  2012/08/20 00:10:15  revo
+Marc Rausell: + trd ca
+
+Revision 1.16  2006/08/02 16:33:05  revo
+Tulio Flores: +tr pt
+
+Revision 1.15  2005/06/20 16:31:12  revo
+Jeromo Vasxe: + 1 ekz
+
+Revision 1.14 2005/05/23 16:31:33 revo
+Alan ar Gall: +trd br
+
+Revision 1.13 2003/06/01 16:30:45 revo
+Dmitri Gabinski: +trd be
+
+Revision 1.12 2002/05/08 16:32:34 revo
+-->
+</vortaro>

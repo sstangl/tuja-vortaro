@@ -1,0 +1,190 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: karakt1.xml,v 1.20 2015/10/23 15:10:16 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>karakteriz</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="karakt1.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      Montri, difini la karakteron de io:
+      <ekz>
+        oni povas <tld/>i la 19an jarcenton kiel la jarcenton de la
+        historio;
+      </ekz>
+      <ekz>
+        ne ekzistas e&ccirc; unu epiteto, kiu <tld/>us la belecon de
+        Heleno.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_h;&c_a;&c_r;&c_a;&c_k;&c_t;&c_a;&c_r;&c_y;&c_z;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+    <trdgrp lng="de">
+      <trd>charakterisieren</trd>,
+      <trd>bezeichnen</trd>
+    </trdgrp>
+    <trdgrp lng="en"><trd>to characterize <klr>(usone)</klr></trd>,
+    <trd>characterise <klr>(brite)</klr></trd></trdgrp>
+    <trd lng="es">describir</trd>
+  </snc>
+  <snc>
+    <dif>
+      Konsistigi, estigi la karakteron de io:
+      <ekz>
+        la artikigita parolo <tld/>as la homon.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>charakterisieren</trd>,
+      <trd>kennzeichnen</trd>
+    </trdgrp>
+    <trd lng="en">characterize</trd>
+    <trd lng="es">caracterizar</trd>
+  </snc>
+  <refgrp tip="vid">
+    <ref cel="distin.0i">distingi</ref>,
+    <ref cel="mark.0i">marki</ref>,
+    <ref cel="sign.0i">signi</ref>,
+    <ref cel="stamp.0i">stampi</ref>
+  </refgrp>
+  <trd lng="ca">caracteritzar</trd>
+  <trdgrp lng="fr">
+    <trd>caract&eacute;riser</trd>,
+    <trd>d&eacute;finir<klr tip="ind"> (caract&eacute;riser)</klr></trd>,
+    <trd>d&eacute;noter</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>jellemez</trd>,
+    <trd>karakteriz&aacute;l</trd>
+  </trdgrp>
+  <trd lng="nl">kenmerken</trd>
+  <trd lng="ru">&c_h;&c_a;&c_r;&c_a;&c_k;&c_t;&c_je;&c_r;&c_i;&c_z;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="sk">vystihn&uacute;&tcaron;</trd>
+</drv>
+
+<drv mrk="karakt1.0a">
+  <kap><tld/>a</kap>
+  <snc>
+    <dif>
+      <tld lit="K"/>anta:
+      <ekz>
+        <tld/>a trajto, gesto;
+      </ekz>
+      <ekz>
+        la litero n estas <tld/>a por la akuzativo.
+      </ekz>
+    </dif>
+    <rim mrk="karakt1.0a.RIM_ETIM">
+      En malnova verko aperas samsence la formo <em>karakteristika</em>:
+      <ekz>
+      la karakteristikaj diferencoj inter la homoj
+      <fnt><bib>Voja&gcirc;Imp</bib>, <lok>impresoj de svedoj, voja&gcirc;antaj en
+      Rusujo</lok></fnt>.
+      </ekz>
+    </rim>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_h;&c_a;&c_r;&c_a;&c_k;&c_t;&c_e;&c_r;&c_n;&c_y;</trd>,
+    <trd>&c_u;&c_l;&c_a;&c_s;&c_mol;&c_c;&c_ib;&c_v;&c_y;</trd>
+  </trdgrp>
+  <trdgrp lng="ca">
+    <trd>caracter&iacute;stic</trd>,
+    <trd>caracteritzat</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>charakteristick&yacute;</trd>,
+    <trd>r&aacute;zovit&yacute;</trd>,
+    <trd>typick&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>charakteristisch</trd>,
+    <trd>bezeichnend</trd>,
+    <trd>kennzeichnend</trd>
+  </trdgrp>
+  <trd lng="en">characteristic</trd>
+  <trd lng="es">caracter&iacute;stica<klr> (adj.)</klr></trd>
+  <trd lng="fr">caract&eacute;ristique<klr tip="ind"> (adj.)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>jellemz&odblac;</trd>,
+    <trd>karakterisztikus</trd>
+  </trdgrp>
+  <trd lng="nl">kenmerkend</trd>
+  <trd lng="ru">&c_h;&c_a;&c_r;&c_a;&c_k;&c_t;&c_je;&c_r;&c_n;&c_y;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>charakteristick&yacute;</trd>,
+    <trd>svojr&aacute;zny</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="karakt1.0o">
+  <kap><tld/>o, <var><kap><tld/>a&jcirc;o</kap></var></kap>
+  <snc mrk="karakt1.0o.KLA">
+    <dif>
+      <ref tip="vid" cel="ec.0o">Eco</ref>,
+      kiu <tld/>as; parto de
+      <ref tip="malprt" cel="karakt.0o.ecaro">karaktero</ref>:
+      <ekz>
+        en tipologia klasifiko oni provas grupigi lingvojn
+        la&ubreve; iliaj strukturaj <tld/>oj
+        <fnt>
+          <aut>J. Wells</aut>,
+          <vrk>Lingvistikaj aspektoj de Esperanto</vrk>,
+          <lok>1978</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &leftquot;&ccirc;u vi a&ubreve;dis&rightquot;, mi demandis, &leftquot;kiom da bonaj <tld/>a&jcirc;oj
+        la vivo de malbonulo havas?&rightquot;
+        <fnt>
+          <aut>Platono, trad. D. Broadribb</aut>,
+          <vrk>La Respubliko</vrk>,
+          <lok>1993</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="difere.0igilo">diferencigilo</ref>,
+      <ref cel="distin.0ilo">distingilo</ref>,
+      <ref cel="trajt.0o">trajto</ref>
+    </refgrp>
+  </snc>
+  <trd lng="ca">caracter&iacute;stica</trd>
+  <trdgrp lng="en">
+    <trd>characteristic</trd>,
+    <trd>characterization <klr>(usone, la&ubreve; karakterizi 2.)</klr></trd>,
+    <trd>characterisation <klr>(brite, karakterizi 2)</klr></trd>
+  </trdgrp>
+  <trd lng="es">caracter&iacute;stica<klr> (subst.)</klr></trd>
+  <trd lng="fr">caract&eacute;ristique<klr> (subst.)</klr></trd>
+</drv>
+</art>
+<!--
+$Log: karakt1.xml,v $
+Revision 1.20  2015/10/23 15:10:16  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.19  2015/10/23 14:10:20  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.18  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.16  2014/12/15 10:10:23  revo
+Guillermo Molleda Jimena: trd es
+
+Revision 1.15  2012/09/01 19:10:10  revo
+Marc Rausell: + trd ca
+
+Revision 1.14  2010/06/25 17:26:04  revo
+Jeromo Vasxe: + ~o
+
+Revision 1.13  2005/02/21 18:55:19  revo
+-->
+</vortaro>

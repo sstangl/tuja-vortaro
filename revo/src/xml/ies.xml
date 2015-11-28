@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: ies.xml,v 1.20 2015/07/04 08:37:36 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>ies</rad>
+</kap>
+<drv mrk="ies.0">
+  <kap><ofc>*</ofc><tld/></kap>
+  <snc>
+    <dif>
+      Senfleksia pronomo, signifanta &leftquot;de iu&rightquot;,
+&leftquot;apartenanta al iu&rightquot;:
+      <ekz>
+        subite li a&ubreve;dis <tld/> vo&ccirc;on;
+      </ekz>
+      <ekz>
+        kiu &gcirc;ojas pri ies malfeli&ccirc;o, tiu ne restos sen puno
+        <fnt><bib>MT</bib>, <lok>&Sen; 17:5</lok></fnt>;
+      </ekz>
+      <ekz>
+        esti objekto de <tld/> atento<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        sie&gcirc;i <tld/> pordon
+        <fnt><bib>PrV</bib></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_ch;&c_y;&c_j;&c_s;&c_mol;&c_c;&c_ib;</trd>,
+    <trd>&c_ch;&c_y;&c_j;-&c_n;&c_je;&c_b;&c_u;&c_d;&c_z;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>něčí</trd>,
+    <trd>čísi</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>jemandes</trd>,
+    <trd>irgendjemandes</trd>
+  </trdgrp>
+  <trd lng="en">someone's</trd>
+  <trd lng="fr">de <ind>quelqu'un</ind></trd>
+  <trd lng="hu">valakinek a</trd>
+  <trd lng="nl">iemands</trd>
+  <trd lng="pl">czyj&sacute;</trd>
+  <trd lng="pt">de <ind>algu&eacute;m</ind><klr tip="amb">
+(propriedade)</klr></trd>
+  <trdgrp lng="ru">
+    <trd>&c_ch;&c_je;&c_j;-&c_t;&c_o;</trd>,
+    <trd>&c_ch;&c_je;&c_j;-&c_n;&c_i;&c_b;&c_u;&c_d;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>niečí</trd>,
+    <trd>voľačí</trd>,
+    <trd>čísi</trd>
+  </trdgrp>
+  <trd lng="sv">n&aring;gons</trd>
+  <trd lng="tp">jan</trd>
+</drv>
+</art>
+<!--
+$Log: ies.xml,v $
+Revision 1.20  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2013/09/25 14:10:12  revo
+Jessica Grasso: aldonis anglan tradukon de ies
+
+Revision 1.17  2006/09/13 16:31:01  revo
+Axel Rousseau: +trd tp
+
+Revision 1.16  2006/05/15 16:32:11  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.15  2005/10/25 16:31:21  revo
+Luiz Portella: +trd pt
+
+Revision 1.14  2004/07/08 17:05:50  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.13  2004/01/08 17:30:58  revo
+Jozefo Horvath: +trd hu
+
+Revision 1..12  2002/01/24 17:33:43  revo
+Marc Bavant: +trd fr
+
+Revision 1.11 2002/01/11 19:09:15 revo
+-->
+</vortaro>

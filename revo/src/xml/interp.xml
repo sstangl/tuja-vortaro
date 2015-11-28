@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: interp.xml,v 1.21 2015/10/29 13:10:19 revo Exp $">
+<kap>
+  <ofc>8</ofc>
+  <rad>interpelaci</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="interp.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="interp.0i.POL">
+    <dif>
+      Oficiale demandi ministron pri lia regado.
+    </dif>
+  </snc>
+  <trd lng="bg">&c_i;&c_n;&c_t;&c_je;&c_r;&c_p;&c_je;&c_l;&c_i;&c_r;&c_a;&c_m;</trd>
+  <trd lng="cs">interpelovat</trd>
+  <trd lng="de">anfragen</trd>
+  <trd lng="en">interpellate</trd>
+  <trd lng="es">interpelar</trd>
+  <trd lng="fr">interpeller<klr tip="ind"> (au parlement)</klr></trd>
+  <trd lng="hu">interpell&aacute;l</trd>
+  <trd lng="nl">interpelleren</trd>
+  <trd lng="pl">interpelowa&cacute;</trd>
+  <trd lng="pt">interpelar<klr tip="amb"> (pol&iacute;tica)</klr></trd>
+  <trdgrp lng="ru">
+    <trd>&c_d;&c_je;&c_l;&c_a;&c_t;&c_mol; <ind>&c_z;&c_a;&c_p;&c_r;&c_o;&c_s;</ind></trd>,
+    <trd>&c_i;&c_n;&c_t;&c_je;&c_r;&c_p;&c_je;&c_l;&c_l;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="sk">interpelova&tcaron;</trd>
+</drv>
+
+<drv mrk="interp.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="interp.0o.POL">
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      Publika demando farita de deputito en parlamento al ministro por
+      ricevi klarigojn pri la agoj de la registaro:
+      <ekz>
+        Projekto Spaco ne povus travivi <tld/>on;
+        &gcirc;i bezonas publikan fidon
+        <fnt><aut>J. Francis</aut>, <vrk>Misio sen Alveno</vrk>,
+        <lok>tk-stafeto, 1982</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="bg">&c_i;&c_n;&c_t;&c_je;&c_r;&c_p;&c_je;&c_l;&c_a;&c_c;&c_i;&c_ja;</trd>
+  <trd lng="cs">interpelace</trd>
+  <trd lng="de">Anfrage</trd>
+  <trd lng="en">interpellation</trd>
+  <trd lng="es">interpelaci&oacute;n</trd>
+  <trd lng="fr">interpellation<klr tip="ind">
+  (parlementaire)</klr></trd>
+  <trd lng="hu">interpell&aacute;ci&oacute;</trd>
+  <trd lng="nl">interpellatie</trd>
+  <trd lng="pl">interpelacja</trd>
+  <trd lng="pt">interpela&ccedil;&atilde;o<klr tip="amb"> (pol&iacute;tica)</klr></trd>
+  <trdgrp lng="ru">
+    <trd>&c_z;&c_a;&c_p;&c_r;&c_o;&c_s; <klr>(&c_v; &c_p;&c_a;&c_r;&c_l;&c_a;&c_m;&c_je;&c_n;&c_t;&c_je;)</klr></trd>,
+    <trd>&c_i;&c_n;&c_t;&c_je;&c_r;&c_p;&c_je;&c_l;&c_l;&c_ja;&c_c;&c_i;&c_ja;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>dopyt</trd>,
+    <trd>&zcaron;iados&tcaron; o&nbsp;vysvetlenie</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: interp.xml,v $
+Revision 1.21  2015/10/29 13:10:19  revo
+Joop Eggen: +trd bg
+
+Revision 1.20  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2010/10/27 16:30:28  revo
+Russ Williams: +trd en
+
+Revision 1.17  2009/12/20 17:30:49  revo
+Jeromo Vasxe: renversis ord. drv + 1 ekz
+
+Revision 1.16  2009/03/01 17:34:29  revo
+Marcus Curdeius: +pl
+
+Revision 1.15  2005/12/05 17:31:15  revo
+Luiz Portella: kor trd pt
+
+Revision 1.14  2005/11/14 17:31:26  revo
+-->
+</vortaro>

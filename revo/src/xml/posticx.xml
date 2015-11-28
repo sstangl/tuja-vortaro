@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: posticx.xml,v 1.4 2011/12/07 13:10:10 revo Exp $">
+<kap>
+  <rad>posti&ccirc;</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="posticx.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="stl">RAR</uzo>
+  <snc mrk="posticx.0o.KOMUNE">
+    <dif>
+      Falsa, alisubstanca <ref tip="super"
+      cel="imit.0ajxo.KOMUNE">imita&jcirc;o</ref> de membro, peco, a&jcirc;o:
+      <ekz>
+        nomo nuda kaj simpla, sen aldonoj, ornamoj kaj <tld/>oj
+        <fnt><bib>DonKihxoto</bib>, <lok>parto 2a, &ccirc;apitro 5a, p.
+        423a</lok></fnt>;
+      </ekz>
+      <ekz>
+        <ind>har<tld/>o</ind>.
+        <trd lng="ca">post&iacute;s (subst.)</trd>
+        <trd lng="es">postizo<klr> (pelo)</klr></trd>
+        <trdgrp lng="nl">
+          <trd>haarstukje</trd>,
+          <trd>valse <ind>vlecht</ind></trd>
+        </trdgrp>
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="protez.0o.MED">protezo</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="ca">
+    <trd>imitaci&oacute;</trd>,
+    <trd>farsa</trd>
+  </trdgrp>
+  <trd lng="nl">postiche</trd>
+</drv>
+
+<drv mrk="posticx.0a">
+  <kap><tld/>a</kap>
+  <uzo tip="stl">RAR</uzo>
+  <snc mrk="posticx.0a.KOMUNE">
+    <dif>
+      <ref tip="super" cel="fals.0a.malauxtenta">Falsa</ref>, nur
+      pli-malpli bone
+      imitanta la aspekton:
+      <ekz>
+        <tld/>a nazo de bufono.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="ca">post&iacute;s <klr>(adj.)</klr></trd>
+  <trd lng="es">postizo</trd>
+  <trd lng="fr">postiche<klr tip="amb"> (adj.)</klr></trd>
+  <trd lng="nl">vals</trd>
+</drv>
+</art>
+
+<!--
+$Log: posticx.xml,v $
+Revision 1.4  2011/12/07 13:10:10  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.3  2009/10/27 17:30:30  revo
+Paul Peeraerts: +nl
+
+Revision 1.2  2005/04/05 16:34:51  revo
+Raul Salinas Monteagudo: +trd es,ca
+
+Revision 1.1  2005/01/03 17:32:57  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

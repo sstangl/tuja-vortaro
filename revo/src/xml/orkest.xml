@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: orkest.xml,v 1.21 2015/07/04 08:37:40 revo Exp $">
+<kap>
+  <ofc>1</ofc> <rad>orkestr</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="orkest.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="orkest.0o.MUZ_grupo">
+    <uzo tip="fak">MUZ</uzo>
+    <dif>
+      Granda <ref tip="super" cel="grup.muzik0o.MUZ">muzikgrupo</ref>
+      ludanta diversajn instrumentojn, ordinare sub gvido de unu estro:
+      <ekz>
+        nia <tld/>o ludis valson el Fa&ubreve;sto
+        <fnt><bib>Metrop</bib></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="hu">zenekar</trd>
+  </snc>
+  <snc mrk="orkest.0o.orkestrejo">
+    <ref tip="dif" cel="orkest.0ejo"><tld/>ejo</ref>
+  </snc>
+  <trd lng="be">&c_a;&c_r;&c_k;&c_je;&c_s;&c_t;&c_a;&c_r;</trd>
+  <trd lng="bg">&c_o;&c_r;&c_k;&c_je;&c_s;&c_t;&c_malmol;&c_r;</trd>
+  <trdgrp lng="cs">
+    <trd>kapela</trd>,
+    <trd>orchestr</trd>
+  </trdgrp>
+  <trd lng="de">Orchester</trd>
+  <trd lng="el">&omikron;&rho;&chi;&eta_ton;&sigma;&tau;&rho;&alfa;</trd>
+  <trd lng="en">orchestra</trd>
+  <trd lng="fa">&a_A;&a_r;&f_k;&a_s;&a_t;&a_r;</trd>
+  <trd lng="fr">orchestre</trd>
+  <trdgrp lng="id">
+    <trd>orkes</trd>,
+    <trd>orkestra</trd>
+  </trdgrp>
+  <trd lng="nl">orkest</trd>
+  <trd lng="pt">orquestra</trd>
+  <trd lng="ru">&c_o;&c_r;&c_k;&c_je;&c_s;&c_t;&c_r;</trd>
+  <trd lng="sk">1.orchester; 2.miesto zboru v antickom gréckom divadle; 3.miesto medzi orchestrom a parterom</trd>
+</drv>
+
+<drv mrk="orkest.0ejo">
+  <kap><tld/>ejo</kap>
+  <snc mrk="orkest.0ejo.TEA">
+    <uzo tip="fak">MUZ</uzo>
+    <uzo tip="fak">TEA</uzo>    
+    <dif>
+      Parto de teatrejo, kie estas la muzikantoj;
+      <ref tip="sin" cel="orkest.0o.orkestrejo"><tld/>o<sncref/></ref>:
+      <ekz>
+        al &ccirc;iuj li premis la manon, kaj forportis
+        el la <tld/>ejo sian pupitron
+        <fnt>
+          <aut>S. Bubeni&ccaron;</aut>,
+          <vrk>Sub Cirkotendo</vrk>,
+          <lok>1969</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_a;&c_r;&c_k;&c_je;&c_s;&c_t;&c_r;&c_a;&c_v;&c_a;&c_ja; &c_ja;&c_m;&c_a;</trd>
+    <trdgrp lng="hu">
+      <trd >zenekari &aacute;rok</trd>,
+      <trd>k&oacute;rus helye</trd>,
+      <trd>orkesztra</trd>
+    </trdgrp>
+    <trd lng="ru">&c_o;&c_r;&c_k;&c_je;&c_s;&c_t;&c_r;&c_o;&c_v;&c_a;&c_ja; &c_ja;&c_m;&c_a;</trd>
+  </snc>
+  <snc mrk="orkest.0ejo.TEA_moderna">
+    <dif>
+      Parto de teatrejo inter la muzikista <tld/>ejo kaj la partero,
+      enhavanta lokojn por a&ubreve;skultantoj a&ubreve; rigardantoj.
+    </dif>
+    <trd lng="hu">zenekari &uuml;l&eacute;s</trd>
+  </snc>
+  <trd lng="be">&c_a;&c_r;&c_k;&c_je;&c_s;&c_t;&c_a;&c_r;</trd>
+  <trd lng="de">Orchester</trd>
+  <trd lng="el">&omikron;&rho;&chi;&eta_ton;&sigma;&tau;&rho;&alfa;</trd>
+  <trd lng="en">orchestra</trd>
+  <trd lng="fa">&a_A;&a_r;&f_k;&a_s;&a_t;&a_r;</trd>
+  <trd lng="fr">orchestre</trd>
+  <trd lng="nl">orkest</trd>
+  <trd lng="pt">orquestra</trd>
+  <trd lng="ru">&c_o;&c_r;&c_k;&c_je;&c_s;&c_t;&c_r;</trd>
+</drv>
+</art>
+<!--
+$Log: orkest.xml,v $
+Revision 1.21  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.19  2014/06/16 16:10:13  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.18  2013/08/15 18:10:13  revo
+Joop Eggen: +trd bg
+
+Revision 1.17  2013/08/09 19:10:11  revo
+Jeromo Vasxe: + ~ejo
+
+Revision 1.16  2009/07/01 17:21:28  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.15  2007/07/08 16:30:33  revo
+Russ Williams: trd +en
+
+Revision 1.14  2005/11/02 17:31:06  revo
+Jeromo Vasxe: + tez
+
+Revision 1.13 2005/08/17 16:31:13 revo
+jxeromo vasxe: reordig. snc, + mrk, + 1 ekz, + trd fr
+
+Revision 1.12 2004/08/25 16:31:34 revo
+-->
+</vortaro>

@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: farad.xml,v 1.20 2015/07/04 08:37:34 revo Exp $">
+<kap>
+<rad>Farad</rad>/o
+</kap>
+<drv mrk="farad.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">PERS</uzo>
+  <snc>
+    <dif>
+      Anglalingve: <trd lng="en">Faraday <klr
+      tip="amb">(Michael)</klr></trd>,
+      1791-1867, angla fizikisto.
+    </dif>
+  </snc>
+  <trd lng="be">&c_F;&c_a;&c_r;&c_a;&c_d;&c_e;&c_j;</trd>
+  <trd lng="bg">&c_M;&c_a;&c_j;&c_k;&c_malmol;&c_l; <ind>&c_F;&c_a;&c_r;&c_a;&c_d;&c_je;&c_j;</ind></trd>
+  <trd lng="ca">Faraday</trd>
+  <trd lng="cs">Faraday M.</trd>
+  <trd lng="de">Faraday</trd>
+  <trd lng="fr">Faraday</trd>
+  <trd lng="hu">Faraday</trd>
+  <trd lng="id">Faraday</trd>
+  <trd lng="nl">Michael <ind>Faraday</ind></trd>
+  <trd lng="pt">Faraday</trd>
+  <trd lng="ru">&c_F;&c_a;&c_r;&c_a;&c_d;&c_je;&c_j;</trd>
+  <trd lng="sk">Faraday M.</trd>
+  <trd lng="uk">&c_M;&c_a;&c_j;&c_k;&c_l;&c_a; <ind>&c_F;&c_a;&c_r;&c_a;&c_d;&c_je;&c_ja;</ind></trd>
+</drv>
+
+<drv mrk="farad.f0o">
+  <kap><tld lit="f"/>o</kap>
+  <uzo tip="fak">ELE</uzo>
+  <fnt><bib>PV</bib></fnt>
+  <mlg kod="SI">F</mlg>
+  <snc>
+    <dif>
+      <ref tip="lst" cel="unu.mezur0o"
+      lst="voko:mezurunuoj">Mezurunuo</ref> de
+      <ref cel="kapaci1.0o">kapacitanco</ref> en la Internacia Sistemo
+      de unuoj:
+      <ekz>
+        unu <tld lit="f"/>o egalas al la kapacitanco de kondensatoro,
+        kiu
+        &scirc;argite per unu <ref cel="kulomb.k0o">kulombo</ref> aperigas
+        tension je unu <ref cel="volt.v0o">volto</ref> inter siaj
+        armaturoj.
+      </ekz>
+    </dif>
+  </snc>
+  <refgrp tip="hom">
+    Ne konfuzu kun:
+    <ref cel="far.0ado">farado</ref>
+  </refgrp>
+  <trd lng="be">&c_f;&c_a;&c_r;&c_a;&c_d;&c_a;</trd>
+  <trd lng="bg">&c_f;&c_a;&c_r;&c_a;&c_d;</trd>
+  <trd lng="ca">farad</trd>
+  <trd lng="de">Farad</trd>
+  <trd lng="fr">farad</trd>
+  <trd lng="hu">farad</trd>
+  <trd lng="id">farad</trd>
+  <trd lng="nl">farad</trd>
+  <trd lng="ru">&c_f;&c_a;&c_r;&c_a;&c_d;&c_a;</trd>
+  <trd lng="uk">&c_f;&c_a;&c_r;&c_a;&c_d;</trd>
+  <trd lng="sk">Faraday M.</trd>
+  <trd lng="cs">Faraday M.</trd>
+</drv>
+</art>
+
+<!--
+$Log: farad.xml,v $
+Revision 1.20  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2014/07/01 17:10:38  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.17  2014/04/23 15:10:23  revo
+Joop Eggen: +trd bg uk
+
+Revision 1.16  2013/09/15 12:10:19  revo
+Wolfram Diestel: ref al lst mezurunuoj, hist pers
+
+Revision 1.15  2011/12/03 15:10:21  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.14  2007/05/16 16:30:30  revo
+Tulio Flores: +tr pt
+
+Revision 1.13  2005/03/10 18:11:22  revo
+Yury Finkel: +trd ru
+
+Revision 1.12  2003/12/21 17:32:55  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.11  2002/10/06 17:35:32  revo
+-->
+</vortaro>

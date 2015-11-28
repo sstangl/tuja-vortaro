@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: penicilin.xml,v 1.3 2009/10/19 16:30:29 revo Exp $">
+<kap>
+  <ofc>9</ofc><rad>penicilin</rad>/o <fnt><bib>SPV</bib></fnt>
+</kap>
+<drv mrk="penicilin.0o">
+  <kap><ofc>9</ofc><tld/>o</kap>
+  <snc mrk="penicilin.0o.MED">
+    <uzo tip="fak">MED</uzo>
+    <dif>
+      <ref tip="super" cel="antibi.0o.MED">Antibiotiko</ref> el iuj
+      specoj de fungoj, ekuzita en la 1940aj jaroj:
+      <ekz>
+        Aleksandro Flemming, la eltrovinto de <tld/>o
+        <fnt>
+          <aut>-</aut>,
+          <vrk><url
+          ref="http://webhome.idirect.com/~sukceso/tor67/p4x.htm">La
+          Torontano, printempo 2003, numero 27a</url></vrk>.
+        </fnt>
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="en">penicillin</trd>
+  <trd lng="fr">p&eacute;nicilline</trd>
+  <trd lng="nl">penicilline</trd>
+</drv>
+</art>
+
+<!--
+$Log: penicilin.xml,v $
+Revision 1.3  2009/10/19 16:30:29  revo
+Paul Peeraerts: +nl
+
+Revision 1.2  2009/03/01 17:33:16  revo
+Russ Williams: +trd en 9OA
+
+Revision 1.1  2006/10/22 18:03:19  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

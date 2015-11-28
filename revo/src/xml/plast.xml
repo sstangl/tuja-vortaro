@@ -1,0 +1,156 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: plast.xml,v 1.15 2015/07/04 08:37:41 revo Exp $">
+<kap>
+  <ofc>8</ofc>
+  <rad>plast</rad>/o <fnt><bib>SPV</bib></fnt>
+</kap>
+<drv mrk="plast.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="plast.0o.TEK">
+  <uzo tip="fak">TEK</uzo>
+    <dif>
+      &Ccirc;iu substanco el la moderna grupo de la labormaterialoj,
+      kreitaj surbaze de naturaj a&ubreve; sintezitaj
+      <ref tip="prt" cel="polimer.0o">polimeroj</ref>,
+      kapablaj akiri necesan formon sub premo en alta temperaturo,
+      kaj konservi &gcirc;in post malvarmigo:
+      <ekz>
+        oni faras el <tld/>o telerojn, mantelojn, korpojn de a&ubreve;to
+        ktp.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="plasti.0a">plastika</ref>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_l;&c_ja;&c_s;&c_t;&c_y;&c_k;</trd>,
+    <trd>&c_p;&c_l;&c_ja;&c_s;&c_t;&c_m;&c_a;&c_s;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>plast</trd>,
+    <trd>plastická hmota</trd>
+  </trdgrp>
+  <trd lng="de">Kunststoff</trd>
+  <trd lng="en">plastic</trd>
+  <trd lng="es">pl&aacute;stico</trd>
+  <trd lng="fr">plastique<klr> (substance)</klr></trd>
+  <trd lng="hu">m&udblac;anyag</trd>
+  <trd lng="id">plastik</trd>
+  <trdgrp lng="nl">
+    <trd>plastic</trd>,
+    <trd>kunststof</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>plastik</trd>,
+    <trd>tworzywo sztuczne</trd>
+  </trdgrp>
+  <trd lng="pt">pl&aacute;stico</trd>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_l;&c_a;&c_s;&c_t;&c_i;&c_k;</trd>,
+    <trd>&c_p;&c_l;&c_a;&c_s;&c_t;&c_m;&c_a;&c_s;&c_s;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>plastická látka</trd>,
+    <trd>umelá hmota</trd>
+  </trdgrp>
+  <trd lng="sv">plast</trd>
+</drv>
+
+<drv mrk="plast.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="plast.0a.KEM">
+    <dif>
+      El <tld/>o:
+      <ekz>
+        la kovrado per <tld/>a membrano povas anta&ubreve;enigi la
+        floradon, la maturi&gcirc;on kaj la fruktoprodukti&gcirc;on
+        de la plantoj 
+        <fnt>
+          <aut>Huang Yinbao</aut>,
+          <vrk><url
+          ref="http://www.eventoj.hu/steb/agrikulturo/plasta-membrano-en-agrikulturo.htm">
+          Efiko de kovrado per plasta membrano...</url></vrk>,
+          <lok>Scienca Revuo, 1994:1 (164), p. 56a-60a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="plast.0a.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <ref tip="dif" cel="plast.0eca.KOMUNE"><tld/>eca</ref>
+    <ekz>
+      ilia tuta organizo &scirc;ajnas fari&gcirc;inta <tld/>a,
+      kaj emas deiri iomete de la gepatra tipo
+      <fnt><bib>OriginoDeSpecioj</bib>, <lok>&ccirc;apitro 1a</lok></fnt>.
+    </ekz>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>plastový</trd>,
+    <trd>umělohmotný</trd>,
+    <trd>z plastu</trd>
+  </trdgrp>
+  <trd lng="fr">plastique<klr> (adj.)</klr></trd>
+  <trd lng="sk">plastický</trd>
+</drv>
+
+<drv mrk="plast.0eca">
+  <kap><tld/>eca</kap>
+  <snc mrk="plast.0eca.KOMUNE">
+    <dif>
+      Simile al <tld/>o modlebla,
+      modifebla, facile &scirc;an&gcirc;anta sian formon;
+      <ref tip="sin" cel="plast.0a.FIG"><tld/>a<sncref/></ref>:
+      <ekz>
+        &ccirc;iu kliento devis meti siajn piedojn en &scirc;a&ubreve;me
+        <tld/>ecan substancon, kiu tiam alprenis la formon
+        de la piedo
+        <fnt>
+          <aut>A. Kvinke</aut>,
+          <vrk><url ref="http://www.esperanto.be/fel/2006/008827.php">
+          Pri kutimoj kaj kalsonoj</url></vrk>,
+          <bib>Monato</bib>, 
+          <lok>2006:2, p. 26a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="fr">
+    <trd>mall&eacute;able</trd>,
+    <trd>plastique</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: plast.xml,v $
+Revision 1.15  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.13  2012/07/09 11:10:16  revo
+Jeromo Vasxe: + ~eca
+
+Revision 1.12  2012/05/29 13:10:11  revo
+Jeromo Vasxe: + ~a
+
+Revision 1.11  2011/12/19 08:10:08  revo
+Eduardo Iriarte Gahete: +ofc 8
+
+Revision 1.10  2009/09/17 16:30:28  revo
+Jerano Zachrisson: +trd sv
+
+Revision 1.9  2009/06/23 16:32:05  revo
+Emmanuel Debanne: +trd id
+
+Revision 1.8  2009/04/17 19:50:31  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.7  2006/06/05 16:41:24  revo
+Eduardo Navas: +trd es
+
+Revision 1.6  2006/03/05 17:32:10  revo
+-->
+</vortaro>

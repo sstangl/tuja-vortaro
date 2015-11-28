@@ -1,0 +1,107 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: filozo1.xml,v 1.22 2015/10/30 12:10:14 revo Exp $">
+<kap>
+<ofc>1</ofc>
+<rad>filozofi</rad>/o
+</kap>
+<drv mrk="filozo1.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="filozo1.0o.FIL">
+    <uzo tip="fak">FIL</uzo>
+    <uzo tip="fak">SCI</uzo>
+    <dif>
+      <ref tip="lst" cel="scienc.0o.fako"
+      lst="voko:sciencoj">Scienco</ref> pri la esencaj
+      plej
+      &gcirc;eneralaj principoj kaj ka&ubreve;zoj de la estado.
+    </dif>
+    <trd lng="es">filosof&iacute;a</trd>
+  </snc>
+  <snc mrk="filozo1.0o.sciencaro">
+    <uzo tip="stl">ARK</uzo>
+    <dif>
+      Tuto de &ccirc;iuj natursciencoj (fiziko, &hcirc;emio, zoologio,
+      botaniko...)
+      kaj kultursciencoj (historio, filologio, psikologio...).
+    </dif>
+  </snc>
+  <trd lng="be">&c_f;&c_ib;&c_l;&c_ja;&c_z;&c_o;&c_f;&c_ib;&c_ja;</trd>
+  <trd lng="bg">&c_f;&c_i;&c_l;&c_o;&c_s;&c_o;&c_f;&c_i;&c_ja;</trd>
+  <trd lng="cs">filozofie</trd>
+  <trd lng="de">Philosophie</trd>
+  <trd lng="en">philosophy</trd>
+  <trd lng="fr">philosophie</trd>
+  <trdgrp lng="id">
+    <trd>falsafah</trd>,
+    <trd>filosofi</trd>,
+    <trd>filsafat</trd>
+  </trdgrp>
+  <trd lng="nl">filosofie</trd>
+  <trd lng="pt">filosofia</trd>
+  <trd lng="ru">&c_f;&c_i;&c_l;&c_o;&c_s;&c_o;&c_f;&c_i;&c_ja;</trd>
+  <trd lng="sk">filozofia</trd>
+  <trd lng="sv">filosofi</trd>
+</drv>
+
+<drv mrk="filozo1.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="filozo1.0i.FIL">
+    <dif>
+      Esplori kaj pritrakti la <tld/>on.
+    </dif>
+    <ref tip="sin" cel="filozo.0i.science">filozofi</ref>
+  </snc>
+  <trd lng="bg">&c_f;&c_i;&c_l;&c_o;&c_s;&c_o;&c_f;&c_s;&c_t;&c_v;&c_a;&c_m;</trd>
+  <trd lng="cs">filozofovat</trd>
+  <trd lng="de">philosophieren</trd>
+  <trdgrp lng="en">
+    <trd>to philosophize <klr>(usone)</klr></trd>,
+    <trd>philosophise <klr>(brite)</klr></trd>
+  </trdgrp>
+  <trd lng="es">filosofar</trd>
+  <trd lng="fr">philosopher</trd>
+  <trdgrp lng="id">
+    <trd>[<ind>falsafah</ind>] berfalsafah</trd>,
+    <trd>[<ind>filsafat</ind>] berfilsafat</trd>
+  </trdgrp>
+  <trd lng="nl">filosoferen</trd>
+  <trdgrp lng="ru">         <trd>&c_f;&c_i;&c_l;&c_o;&c_s;&c_o;&c_f;&c_s;&c_t;&c_v;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_z;&c_a;&c_n;&c_i;&c_m;&c_a;&c_t;&c_mol;&c_s;&c_ja; <ind>&c_f;&c_i;&c_l;&c_o;&c_s;&c_o;&c_f;&c_i;&c_je;&c_j;</ind></trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>filozofova&tcaron;</trd>,
+    <trd>prem&yacute;&scaron;&lcaron;a&tcaron;</trd>
+  </trdgrp>
+  <trd lng="sv">filosofera</trd>
+</drv>
+</art>
+<!--
+$Log: filozo1.xml,v $
+Revision 1.22  2015/10/30 12:10:14  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.21  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.19  2014/11/12 08:10:32  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.18  2013/09/22 19:10:43  revo
+Wolfram Diestel: astro~o: referenco al listo sciencoj
+
+Revision 1.17  2009/07/06 16:30:37  revo
+Wieland Pusch: +trd bg
+
+Revision 1.16  2009/07/05 16:40:30  revo
+Paul Peeraerts: korekto en nl
+
+Revision 1.15  2007/12/23 17:30:24  revo
+-->
+</vortaro>

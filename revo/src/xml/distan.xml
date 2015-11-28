@@ -1,0 +1,269 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: distan.xml,v 1.35 2015/09/12 19:10:20 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>distanc</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="distan.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="distan.0o.SPA">
+    <dif>
+      Longo de interspaco:
+      <ekz>
+        <tld/>o de la tero al la luno;
+      </ekz>
+      <ekz>
+        en <tld/>o de kelkaj pa&scirc;oj de li.
+      </ekz>
+    </dif>
+    <trd lng="en">distance</trd>
+    <trdgrp lng="be">
+      <trd>&c_d;&c_y;&c_s;&c_t;&c_a;&c_n;&c_c;&c_y;&c_ja;</trd>,
+      <trd>&c_a;&c_d;&c_l;&c_je;&c_g;&c_l;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+    </trdgrp>
+    <trd lng="cs">vzd&aacute;lenost</trd>
+    <trdgrp lng="de">
+      <trd>Abstand</trd>,
+      <trd>Entfernung</trd>,
+      <trd>Distanz</trd>
+    </trdgrp>
+    <trd lng="fr">distance</trd>
+    <trd lng="nl">afstand</trd>
+    <trdgrp lng="pl">
+      <trd>dystans</trd>,
+      <trd>odleg&lstroke;o&sacute;&cacute;</trd>
+    </trdgrp>
+    <trd lng="pt">dist&acirc;ncia</trd>
+    <trdgrp lng="ru">
+      <trd>&c_r;&c_a;&c_s;&c_s;&c_t;&c_o;&c_ja;&c_n;&c_i;&c_je;</trd>,
+      <trd>&c_d;&c_i;&c_s;&c_t;&c_a;&c_n;&c_c;&c_i;&c_ja;</trd>
+    </trdgrp>
+    <trd lng="sv">avst&aring;nd</trd>
+  </snc>
+  <snc mrk="distan.0o.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <dif>
+      Valoro de <ref cel="metrik.0o.MAT">metriko</ref>
+      <frm><k>d</k></frm>,
+      kaj pli precize:
+    </dif>
+    <subsnc mrk="distan.0o.inter_punktoj">
+      <fnt><bib>MatStokTerm</bib><lok>p. 12</lok></fnt>
+      <dif>
+        <klr>(inter punktoj <frm><k>a</k></frm> kaj
+        <frm><k>b</k></frm>)</klr>
+        La valoro <frm><k>d</k>(<k>a</k>,<k>b</k>)</frm>.
+      </dif>
+    </subsnc>
+    <subsnc mrk="distan.0o.de_punkto_al_aro">
+      <fnt><bib>MatStokTerm</bib><lok>p. 12</lok></fnt>
+      <dif>
+        <klr>(de punkto <frm><k>a</k></frm> al aro
+        <frm><g>A</g></frm>)</klr>
+        La <ref cel="infim.0o">infimo</ref> de la <tld/>oj
+        <sncref ref="distan.0o.inter_punktoj"/>
+        de <frm><k>a</k></frm> al &ccirc;iu punkto de
+        <frm><g>A</g></frm>.
+      </dif>
+    </subsnc>
+    <subsnc mrk="distan.0o.inter_aroj">
+      <fnt><bib>EKV</bib><lok>&para;87</lok></fnt>
+      <dif>
+        <klr>(inter aroj <frm><g>A</g></frm> kaj
+        <frm><g>B</g></frm>)</klr>
+        La <ref cel="infim.0o">infimo</ref> de la <tld/>oj
+        <sncref ref="distan.0o.inter_punktoj"/>
+        de &ccirc;iu punkto de <frm><g>A</g></frm>
+        al &ccirc;iu punkto de <frm><g>B</g></frm>.
+      </dif>
+    </subsnc>
+    <trd
+    lng="be">&c_a;&c_d;&c_l;&c_je;&c_g;&c_l;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+    <trd lng="de">Abstand</trd>
+    <trd lng="en">distance</trd>
+    <trd lng="fr">distance<klr tip="ind"> (math.)</klr></trd>
+    <trd lng="pl">odleg&lstroke;o&sacute;&cacute;</trd>
+    <trd
+    lng="ru">&c_r;&c_a;&c_s;&c_s;&c_t;&c_o;&c_ja;&c_n;&c_i;&c_je;</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>odstup</trd>,
+    <trd>rozestup</trd>,
+    <trd>rozp&ecaron;t&iacute;</trd>
+  </trdgrp>
+  <trd lng="es">distancia</trd>
+  <trd lng="hu">t&aacute;vols&aacute;g</trd>
+  <trd lng="sk">vzdialenos&tcaron;</trd>
+</drv>
+
+<drv mrk="distan.angula0o">
+  <kap>angula <tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>MatVort</bib></fnt>
+  <snc mrk="distan.angula0o.MAT">
+    <dif>
+      <klr>(inter du punktoj de <ref
+      cel="cirkl.0o.linio">cirklo</ref>)</klr>
+      La mezuro de la <ref cel="angul.centra0o">centra angulo</ref>,
+      kies
+      lateroj trairas la punktojn:
+      <ekz>
+        la angula <tld/>o inter du punktoj de la sama tera meridiano
+        egalas
+        al la diferenco de iliaj respektivaj latitudoj.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">&uacute;hlov&aacute; vzd&aacute;lenost</trd>
+  <trdgrp lng="de">
+    <trd>Winkelabstand</trd>,
+    <trd>Winkelentfernung</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>angular <ind>distance</ind></trd>,
+    <trd>angular <ind>separation</ind></trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>distance angulaire</trd>,
+    <trd>&eacute;cart angulaire</trd>
+  </trdgrp>
+  <trd lng="hu">sz&ouml;gt&aacute;vols&aacute;g</trd>
+  <trd lng="pl">odleg&lstroke;o&sacute;&cacute; k&aogonek;towa</trd>
+  <trd lng="ru">&c_u;&c_g;&c_l;&c_o;&c_v;&c_o;&c_je;
+  <ind>&c_r;&c_a;&c_s;&c_s;&c_t;&c_o;&c_ja;&c_n;&c_i;&c_je;</ind></trd>
+  <trd lng="sk">uhlov&aacute; vzdialenos&tcaron;</trd>
+</drv>
+
+<drv mrk="distan.paf0o">
+  <kap>paf<tld/>o, <var><kap>traf<tld/>o</kap></var></kap>
+  <snc mrk="distan.paf0o.ARM">
+    <dif>
+      <tld lit="D"/>o &gcirc;is kiu oni povas trafi per pafo.
+    </dif>
+  </snc>
+  <trdgrp lng="en"><trd>range</trd>, <trd>striking
+  distance</trd></trdgrp>
+  <trd lng="cs">dost&rcaron;el</trd>
+  <trdgrp lng="de">
+    <trd>Schussweite</trd>,
+    <trd>Reichweite</trd>,
+  </trdgrp>
+  <trd lng="fr">port&eacute;e</trd>
+  <trd lng="hu">l&odblac;t&aacute;vols&aacute;g</trd>
+  <trd lng="nl">draagwijdte</trd>
+  <trd lng="ru">&c_d;&c_a;&c_l;&c_mol;&c_n;&c_o;&c_s;&c_t;&c_mol;
+  &c_s;&c_t;&c_r;&c_je;&c_l;&c_mol;&c_b;&c_y;</trd>
+  <trd lng="sk">dostrel</trd>
+</drv>
+
+<drv mrk="distan.polusa0o">
+  <kap>polusa <tld/>o,
+  <var><kap>polus<tld/>o<fnt><bib>MatVort</bib></fnt></kap></var></kap>
+  <uzo tip="fak">MAT</uzo>
+  <snc>
+    <dif>
+      <klr>(de punkto en <ref cel="spac.afina0o">afina
+      spaco</ref>)</klr>
+      <ref cel="distan.0o.MAT"><tld lit="D"/>o</ref> de la punkto al
+      la origino de koordinatoj:
+      <ekz>
+        polusa <tld/>o estas la unua koordinato en la polusa kaj sfera
+        <ref cel="koordi.0sistemo">koordinatsistemoj</ref>;
+      </ekz>
+      <ekz>
+        la polusa <tld/>o de punkto en ebeno egalas al la
+        <ref cel="modul.0o.komplekso">modulo</ref> de &gcirc;ia bildo en
+        la
+        <ref cel="komple.0a.MAT">kompleksa</ref> ebeno.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="vektor.radius0o">radiusvektoro.</ref>
+    <rim>
+      Pro te&hcirc;nikaj kialoj oni foje toleras negativajn valorojn de
+      la
+      polusa <tld/>o, ekz-e en polusaj ekvacioj de kurboj.
+    </rim>
+  </snc>
+  <trdgrp lng="de">
+    <trd>Polarradius</trd>,
+    <trd>Radiusvektor</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>polar <ind>radius</ind></trd>,
+    <trd>radius vector</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>rayon vecteur</trd>
+  </trdgrp>
+  <trd lng="hu">k&ouml;z&eacute;pponti
+  <ind>t&aacute;vols&aacute;g</ind></trd>  
+  <trdgrp lng="pl">
+    <trd>promie&nacute; wodz&aogonek;cy</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_o;&c_l;&c_ja;&c_r;&c_n;&c_y;&c_j;
+    <ind>&c_r;&c_a;&c_d;&c_i;&c_u;&c_s;</ind></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="distan.sin0igi">
+  <kap>sin <tld/>igi, <var><kap><tld/>i&gcirc;i</kap></var></kap>
+  <snc mrk="distan.sin0igi.FIG">
+    <uzo tip="stl">RAR</uzo>
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Elmontri, ke oni ne partoprenas,
+      ne <ref tip="ant" cel="ten.sub0i.FIG">subtenas</ref>:
+      <ekz>
+        en sia instruado Jesuo sin <tld/>igas de la normoj de la 
+        pasinteco
+         <fnt>
+          <aut>A. Maggi, trad. -</aut>,
+          <vrk><url
+          ref="http://www.studibiblici.it/ESPERANTO/lagisnunnekonatadio.pdf">
+          La &gcirc;is nun Nekonata Dio</url></vrk>,
+          <lok>2011</lok>
+        </fnt>.
+     </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="aprob.mal0i.KOMUNE">malaprobi</ref>
+    </refgrp>
+    <trd lng="en">distance oneself</trd>
+    <trdgrp lng="fr">
+      <trd>se <ind>d&eacute;marquer</ind></trd>,
+      <trd>se <ind>distancier</ind></trd>
+    </trdgrp>
+    <trd lng="pl"><ind>dystansowa&cacute;</ind> si&eogonek;</trd>
+  </snc>
+</drv>
+</art>
+<!--
+$Log: distan.xml,v $
+Revision 1.35  2015/09/12 19:10:20  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.34  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.33  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.32  2013/12/26 11:10:14  revo
+Wolfram Diestel: pafdistanco: trd de
+
+Revision 1.31  2012/10/23 00:12:37  revo
+Neil Roberts: aldonu la etikedon <var>
+
+Revision 1.30  2011/12/23 20:10:11  revo
+Jeromo Vasxe: kor. 1 ref
+
+Revision 1.29  2011/07/05 05:10:14  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.28  2011/04/29 19:10:33  revo
+-->
+</vortaro>

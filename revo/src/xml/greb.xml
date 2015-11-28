@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: greb.xml,v 1.9 2015/07/04 08:37:35 revo Exp $">
+
+<kap>
+  <rad>greb</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+
+<drv mrk="greb.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="greb.0o.ZOO">
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      <ref tip="lst" cel="bird.nagxo0o"
+      lst="voko:birdoj">Na&gcirc;birdo</ref>
+      kun lobecaj piedoj; iu la ordo podicipoformaj birdoj
+      (<trd lng="la">Podicipediformes</trd>).
+    </dif>
+    <trd lng="ca">cabuss&oacute;</trd>
+    <trd lng="de">Lappentaucher</trd>
+    <trd lng="fr">gr&egrave;be</trd>
+    <trd lng="pl">perkoz</trd>
+  </snc>
+  <trd lng="cs">potápka</trd>
+  <trd lng="sk">potápka</trd>
+</drv>
+
+<drv mrk="greb.tuf0o">
+  <kap>tuf<tld/>o</kap>
+  <snc mrk="greb.tuf0o.ZOO">
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      Plej granda <ref tip="lst" cel="speci.0o.BIO"
+      lst="voko:zoologiaj_specioj">specio</ref> de <tld/>oj
+      karakterizata de
+      duobla tufo sur la
+      kapo (<trd lng="la">Podiceps cristatus</trd>).
+    </dif>
+  </snc>
+  <trd lng="ca"><ind>cabuss&oacute;</ind> emplomallat</trd>
+  <trdgrp lng="cs">
+    <trd>potápka roháč</trd>,
+    <trd>roháč velký</trd>
+  </trdgrp>
+  <trd lng="de">Haubentaucher</trd>
+  <trd lng="fr">gr&egrave;be hupp&eacute;</trd>
+  <trd lng="pl">perkoz dwuczuby</trd>
+  <trd lng="sk">potápka chochlatá</trd>
+</drv>
+
+<drv mrk="greb.malgranda0o">
+  <kap>malgranda <tld/>o</kap>
+  <snc mrk="greb.malgranda0o.ZOO">
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      Plej malgranda <ref tip="lst" cel="speci.0o.BIO"
+      lst="voko:zoologiaj_specioj">specio</ref> de <tld/>oj
+      (<trd lng="la">Podiceps ruficollis</trd>).
+    </dif>
+  </snc>
+  <trd lng="ca">cabusset</trd>
+  <trd lng="de">Rothalstaucher</trd>
+  <trd lng="fr">gr&egrave;be castagneux</trd>
+  <trd lng="pl">perkozek</trd>
+</drv>
+</art>
+
+<!--
+$Log: greb.xml,v $
+Revision 1.9  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.8  2015/06/29 16:29:39  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.7  2013/11/02 12:10:20  revo
+Wolfram Diestel: kor. ref-cel
+
+Revision 1.6  2013/10/07 15:11:06  revo
+Wolfram Diestel: kor. lst-ref
+
+Revision 1.5  2013/10/03 09:10:14  revo
+Wolfram Diestel: prilaboris dif, germ trd
+
+Revision 1.4  2012/08/19 00:11:15  revo
+Marc Rausell: + trd ca
+
+Revision 1.3  2010/04/25 16:30:20  revo
+Jeromo Vasxe: kor. fr supersignojn
+
+Revision 1.2  2010/04/24 17:06:31  revo
+Jeromo Vasxe: karakterizanta -> ata, sxovis trd la en dif-on, fnt piv, +
+trd fr
+
+Revision 1.1  2010/04/09 16:32:10  revo
+Sebastian Cyprych: nova artikolo
+
+-->
+</vortaro>

@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: bias.xml,v 1.5 2015/07/04 08:37:31 revo Exp $">
+<kap>
+  <rad>bias</rad>/o <fnt><bib>PIV2</bib></fnt>
+</kap>
+<drv mrk="bias.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="bias.0o.SCI">
+    <uzo tip="fak">SCI</uzo>
+    <dif>
+      Sistema eraro pro mal&gcirc;usta mezurado, taksado
+      a&ubreve; alia cirkonstanco, kiu miskonkludigas,
+      se oni ne forkalkulas &gcirc;in.
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="inklin.0o.KOMUNE">inklino<sncref/></ref>,
+      <ref cel="oblikv.0eco.malrekteco">oblikveco<sncref/></ref>
+    </refgrp>
+    <trd lng="fr">biais<klr> (sci., exp&eacute;rimentation)</klr></trd>
+    <trd lng="en">bias</trd>
+  </snc>
+  <trd lng="cs">předpojatost</trd>
+  <trd lng="sk">predpojatosť</trd>
+</drv>
+
+<drv mrk="bias.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="bias.0a.SCI">
+    <uzo tip="fak">SCI</uzo>
+    <dif>
+      Havanta <tld/>on, erara pro <tld/>o:
+      <ekz>
+        vi analizas la&ubreve; viaj hipotezoj, kiuj fakte
+        estas <tld/>aj 
+        <fnt>
+          <aut>A. Saliba</aut>,
+          <vrk><url
+          ref="http://groups.yahoo.com/group/esperanto-l/message/43046">
+          Projekto NESTO</url></vrk>,
+          <lok>soc.culture.esperanto, 2004-01-14</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="fr">biais&eacute;</trd>
+    <trd lng="en">biased</trd>
+  </snc>
+</drv>
+
+<drv mrk="bias.sen0a">
+  <kap>sen<tld/>a</kap>
+  <snc mrk="bias.sen0a.SCI">
+    <uzo tip="fak">SCI</uzo>
+    <dif>
+      Ne havanta <tld/>on, supozeble &gcirc;usta, objektiva:
+      <ekz>
+        &leftquot;Wolfram Alpha liveras tujan, sen<tld/>an
+        kaj personigitan informon&rightquot;
+        <fnt>
+          <aut>K. Miner</aut>,
+          <vrk><url
+          ref="http://www.airbits.com/~miner/TAGLIBRO_package/Novembro_2009.html">
+          taglibro</url></vrk>,
+          <lok>2009-11-12</lok>*
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="fr">non biais&eacute;</trd>
+    <trd lng="en">unbiased</trd>
+  </snc>
+  <trd lng="cs">nepředpojatý</trd>
+  <trdgrp lng="sk">
+    <trd>nepredpojatý</trd>,
+    <trd>nestranný</trd>,
+    <trd>nezaujatý</trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log: bias.xml,v $
+Revision 1.5  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.4  2015/06/29 16:29:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.3  2011/06/15 07:10:09  revo
+Jeromo Vasxe: kor. 1 ref
+
+Revision 1.2  2011/04/16 11:10:22  revo
+Nicolas Bros: +trd en
+
+Revision 1.1  2011/04/12 19:10:08  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

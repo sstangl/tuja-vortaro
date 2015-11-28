@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: etnolo1.xml,v 1.23 2015/07/04 08:37:33 revo Exp $">
+<kap>
+  <ofc>9</ofc>
+  <rad>etnologi</rad>/o <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="etnolo1.0o">
+  <kap><ofc>9</ofc><tld/>o</kap>
+  <snc mrk="etnolo1.0o.SCI">
+    <uzo tip="fak">SCI</uzo>
+    <dif>
+      Scienco studanta kiel <ref tip="prt" cel="etn.0o">etnoj</ref>
+      esti&gcirc;as (<ref tip="prt"
+      cel="etn.0ogenezo">etnogenezo</ref>),
+      evoluas, sin strukturas, interrilatas kun la aliaj etnoj kaj
+      la naturmedio.
+    </dif>
+    <ref tip="sub" cel="etnogr.0o">etnografio</ref>
+  </snc>
+  <trd lng="be">&c_e;&c_t;&c_n;&c_a;&c_l;&c_jo;&c_g;&c_ib;&c_ja;</trd>
+  <trd lng="bg">&c_je;&c_t;&c_n;&c_o;&c_l;&c_o;&c_g;&c_i;&c_ja;</trd>
+  <trdgrp lng="de">
+    <trd>Ethnologie</trd>,
+    <trd>V&ouml;lkerkunde</trd>
+  </trdgrp>
+  <trd lng="en">ethnology</trd>
+  <trd lng="es">etnolog&iacute;a</trd>
+  <trd lng="fa">&a_q;&a_w;&a_m;&zwnj;&a_sh;&a_n;&a_A;&a_s;&f_y;</trd>
+  <trd lng="fr">ethnologie</trd>
+  <trdgrp lng="hu">
+    <trd>egyetemes <ind>n&aacute;prajz</ind></trd>,
+    <trd>&aacute;ltal&aacute;nos <ind>n&aacute;prajz</ind></trd>,
+    <trd>n&aacute;ptudom&aacute;ny</trd>,
+    <trd>etnol&oacute;gia</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>etnologie</trd>,
+    <trd>volkenkunde</trd>
+  </trdgrp>
+  <trd lng="pl">etnologia</trd>
+  <trdgrp lng="pt">
+   <trd>etnologia</trd>
+  </trdgrp>
+  <trd lng="ru">&c_e;&c_t;&c_n;&c_o;&c_l;&c_o;&c_g;&c_i;&c_ja;</trd>
+  <trd lng="sv">etnologi</trd>
+</drv>
+
+<drv mrk="etnolo1.0isto">
+  <kap><tld/>isto</kap>
+  <snc mrk="etnolo1.0isto.SCI">
+    <dif>
+      Fakulo pri <tld/>o.
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="etnolo.0o">etnologo</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_e;&c_t;&c_n;&c_o;&c_l;&c_ja;&c_g;</trd>
+  <trd lng="bg">&c_je;&c_t;&c_n;&c_o;&c_l;&c_o;&c_g;</trd>
+  <trd lng="cs">etnolog</trd>
+  <trdgrp lng="de">
+    <trd>Ethnologe</trd>,
+    <trd>V&ouml;lkerkundler</trd>
+  </trdgrp>
+  <trd lng="en">ethnologist</trd>
+  <trd lng="es">etn&oacute;logo</trd>
+  <trd lng="fa">&a_q;&a_w;&a_m;&zwnj;&a_sh;&a_n;&a_A;&a_s;</trd>
+  <trd lng="fr">ethnologue</trd>
+  <trd lng="hu">etnol&oacute;gus</trd>
+  <trd lng="nl">etnoloog</trd>
+  <trd lng="pl">etnolog</trd>
+  <trd lng="ru">&c_e;&c_t;&c_n;&c_o;&c_l;&c_o;&c_g;</trd>
+  <trd lng="sk">etnológ</trd>
+  <trd lng="sv">etnolog</trd>
+</drv>
+</art>
+<!--
+$Log: etnolo1.xml,v $
+Revision 1.23  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.22  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.21  2011/03/30 10:10:07  revo
+Jeromo Vasxe: + mrk
+
+Revision 1.20  2010/04/09 16:31:12  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.19  2009/06/09 16:30:58  revo
+Wieland Pusch: +trd bg
+
+Revision 1.18  2009/06/06 16:30:41  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.17  2009/03/01 17:31:51  revo
+Russ Williams: +trd en
+
+Revision 1.16  2009/01/12 17:30:27  revo
+Marc Bavant: konformigis al 9OA
+
+Revision 1.15  2006/02/08 17:32:32  revo
+Tulio Flores: +trd pt
+
+Revision 1.14  2004/11/15 17:31:10  revo
+-->
+</vortaro>

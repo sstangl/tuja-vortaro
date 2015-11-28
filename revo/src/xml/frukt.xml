@@ -1,0 +1,470 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: frukt.xml,v 1.37 2015/07/04 08:37:34 revo Exp $">
+<kap><ofc>*</ofc>
+  <rad>frukt</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="frukt.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="frukt.0o.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      &Ccirc;e <ref tip="malprt" cel="flor.0oplantoj">floroplantoj</ref>,
+      produkto esti&gcirc;inta el fekundi&gcirc;inta floro
+      enhavanta la <ref tip="prt" cel="grajn.0o.BOT">grajnojn</ref>:
+      <ekz>
+        <ind>la&ubreve; la <tld/>o oni arbon ekkonas</ind>
+        <fnt><bib>PrV</bib></fnt>;
+        <trd lng="fr">on reconnait l'arbre &agrave; ses fruits</trd>
+        <trd lng="hu">gy&uuml;m&ouml;lcs&eacute;r&odblac;l ismerni meg a f&aacute;t</trd>
+      </ekz>
+      <ekz>
+        porti <klr>(produkti)</klr> fruktojn<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_p;&c_l;&c_o;&c_d;</trd>,
+      <trd>&c_f;&c_r;&c_u;&c_k;&c_t;</trd>
+    </trdgrp>
+    <trd lng="bg">&c_p;&c_l;&c_o;&c_d;</trd>
+    <trd lng="de">[fruktoj: <ind>Obst</ind>]</trd>
+    <trd lng="hu">term&eacute;s</trd>    
+    <trd lng="nl">[fruktoj: <ind>fruit</ind>]</trd>
+  <trdgrp lng="pt">
+    <trd>fruto</trd>,
+    <trd>carpo</trd>
+  </trdgrp>
+    <trd lng="ru">&c_f;&c_r;&c_u;&c_k;&c_t;</trd>
+  </snc>
+  <snc mrk="frukt.0o.KUI">
+    <uzo tip="fak">KUI</uzo>
+    <dif>
+      Man&gcirc;ebla <tld/>o <sncref ref="frukt.0o.BOT"/> a&ubreve;
+      plur<tld/>o:
+      <ekz>
+        pomo, avelo, frago, kukumo..
+      </ekz>
+    </dif>
+    <ref tip="super" cel="mangx.0ajxo">man&gcirc;a&jcirc;o</ref>
+    <ref tip="vid" cel="legom.0o">legomo</ref>
+    <trdgrp lng="be">
+      <trd>&c_p;&c_l;&c_o;&c_d;</trd>,
+      <trd>&c_f;&c_r;&c_u;&c_k;&c_t;</trd>
+    </trdgrp>
+  <trdgrp lng="pt">
+    <trd>fruta</trd>,
+    <trd>fruto</trd>
+  </trdgrp>
+  </snc>
+  <snc mrk="frukt.0o.KOMUNE">
+    <uzo tip="stl">KOMUNE</uzo>
+    <dif>
+      &Ccirc;iu produkto devenanta de la tero a&ubreve; de la vivantaj
+      estuloj:
+      <ekz>
+        la <tld/>oj de la tero, de brutaro;
+      </ekz>
+      <ekz>
+        la infano, <tld/>o de la patrina ventro.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_p;&c_l;&c_o;&c_d;</trd>
+    <trd lng="pt">fruto</trd>
+  </snc>
+  <snc mrk="frukt.0o.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Rezulto:
+      <ekz>
+        <ind>lernado sen <tld/>oj ne restas</ind>
+        <fnt><bib>PrV</bib></fnt>;
+        <trd lng="hu">a tanul&aacute;s meghozza gy&uuml;m&ouml;lcs&eacute;t</trd>
+      </ekz>
+      <ekz>
+        mizero estas ofte <tld/>o de mallaboremo;
+      </ekz>
+      <ekz>
+        la lasta kongreso donis gravajn <tld/>ojn;
+      </ekz>
+      <ekz>
+        la <tld/>oj de la sperto de miljaroj<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        <tld/>o de l' imago<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_p;&c_l;&c_jo;&c_n;</trd>
+    <trd lng="pt">fruto</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>plod</trd>,
+    <trd>ovoce</trd>
+  </trdgrp>
+  <trd lng="de">Frucht</trd>
+  <trd lng="en">fruit</trd>
+  <trd lng="es">fruto</trd>
+  <trd lng="fr">fruit</trd>
+  <trd lng="hu">gy&uuml;m&ouml;lcs</trd>
+  <trd lng="id">buah</trd>
+  <trd lng="nl">vrucht</trd>
+  <trd lng="pl">owoc</trd>
+  <trd lng="ru">&c_p;&c_l;&c_o;&c_d;</trd>
+  <trdgrp lng="sk">
+    <trd>ovocie</trd>,
+    <trd>plod</trd>,
+    <trd>výsledok</trd>
+  </trdgrp>
+  <trd lng="tp">kili</trd>
+  <trd lng="tr">meyve</trd>
+</drv>
+
+<drv mrk="frukt.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="frukt.0i.AGR">
+    <dif>
+      Doni <tld/>ojn a&ubreve; idojn:
+      <ekz>
+        la Izraelidoj <tld/>is <klr>(naskis)</klr> kaj diskreskis
+        <fnt><bib>MT</bib>, <lok>&Eli; 1:7</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="frukt.0i.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Doni rezultaton, sukcesi:
+      <ekz>
+        la plano bone <tld/>is.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_d;&c_a;&c_v;&c_a;&c_c;&c_mol; 
+    <ind>&c_p;&c_l;&c_a;&c_d;&c_y;</ind></trd>,
+    <trd>&c_d;&c_a;&c_v;&c_a;&c_c;&c_mol; 
+    <ind>&c_p;&c_l;&c_jo;&c_n;</ind></trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>nést ovoce</trd>,
+    <trd>plodit</trd>,
+    <trd>semenit</trd>
+  </trdgrp>
+  <trd lng="es">dar <ind>fruto</ind></trd>
+  <trd lng="fr">fructifier</trd>
+  <trdgrp lng="hu">
+    <trd>gy&uuml;m&ouml;lcs&ouml;zik</trd>,
+    <trd>gy&uuml;m&ouml;lcs&ouml;t ad</trd>,
+    <trd>gy&uuml;m&ouml;lcs&ouml;t hoz</trd>,
+    <trd>term&eacute;st hoz</trd>
+  </trdgrp>
+  <trd lng="nl">vruchten dragen</trd>
+  <trdgrp lng="pl">
+    <trd>owocowa&cacute;</trd>,
+    <trd>dawa&cacute; owoce</trd>,
+    <trd>rodzi&cacute; owoce</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_l;&c_o;&c_d;&c_o;&c_n;&c_o;&c_s;&c_i;&c_t;&c_mol;</trd>,
+    <trd>&c_p;&c_r;&c_i;&c_n;&c_o;&c_s;&c_i;&c_t;&c_mol; 
+    &c_p;&c_l;&c_o;&c_d;&c_y;</trd>,
+    <trd>&c_d;&c_a;&c_v;&c_a;&c_t;&c_mol; 
+    &c_r;&c_je;&c_z;&c_u;&c_l;&c_mol;&c_t;&c_a;&c_t;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>niesť ovocie</trd>,
+    <trd>plodiť</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="frukt.0ero">
+  <kap><tld/>ero</kap>
+  <snc mrk="frukt.0ero.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      Unuopa maturi&gcirc;inta ovario de
+      <ref tip="malprt" cel="frukt.plur0o">plur<tld/>o</ref>.
+    </dif>
+  </snc>
+  <trd lng="de">Fr&uuml;chtchen</trd>
+  <trd lng="hu">r&eacute;szterm&eacute;s</trd>  
+</drv>
+
+<drv mrk="frukt.0igi">
+  <kap><tld/>igi</kap>
+  <snc mrk="frukt.0igi.AGR">
+    <dif>
+      Igi multe<tld/>a:
+      <ekz>
+        <tld/>iga superakvo.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>oplodnit</trd>,
+    <trd>zúrodnit</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>rendre <ind>f&eacute;cond</ind></trd>,
+    <trd>rendre <ind>fertile</ind></trd>,
+    <trd>fertiliser</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>term&eacute;kenny&eacute; tesz</trd>,
+    <trd>megterm&eacute;keny&iacute;t</trd>
+  </trdgrp>
+  <trd lng="nl">vruchtbaar maken</trd>
+  <trdgrp lng="sk">
+    <trd>oplodniť</trd>,
+    <trd>zúrodniť</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="frukt.0odona0oporta">
+  <kap><tld/>odona, <var><kap><tld/>oporta</kap></var></kap>
+  <snc mrk="frukt.0odona0oporta.AGR">
+    <dif>
+      Ri&ccirc;a, donanta multajn <tld/>ojn, 
+      <ref tip="sin" cel="fekund.0a">fekunda</ref>.
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_l;&c_a;&c_d;&c_a;&c_n;&c_o;&c_s;&c_n;&c_y;</trd>,
+    <trd>&c_p;&c_l;&c_a;&c_d;&c_a;&c_r;&c_o;&c_d;&c_n;&c_y;</trd>,
+    <trd>&c_p;&c_l;&c_a;&c_d;&c_a;&c_v;&c_ib;&c_t;&c_y;</trd>,
+    <trd>&c_p;&c_l;&c_jo;&c_n;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>bohatě plodící</trd>,
+    <trd>plodný</trd>
+  </trdgrp>
+  <trd lng="de">fruchtbar</trd>
+  <trdgrp lng="fr">
+    <trd>f&eacute;cond</trd>,
+    <trd>fertile</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>term&eacute;keny</trd>,
+    <trd>gy&uuml;m&ouml;lcs&ouml;z&odblac;</trd>,
+    <trd>gy&uuml;m&ouml;lcsad&oacute;</trd>
+  </trdgrp>
+  <trd lng="nl">vruchtbaar</trd>
+  <trd lng="pl">owocny</trd>
+  <trdgrp lng="ru">
+    <trd>
+    &c_p;&c_l;&c_o;&c_d;&c_o;&c_n;&c_o;&c_s;&c_ja;&c_shch;&c_i;&c_j;
+    </trd>,
+    <trd>&c_p;&c_l;&c_o;&c_d;&c_o;&c_r;&c_o;&c_d;&c_n;&c_y;&c_j;</trd>,
+    <trd>&c_p;&c_l;&c_o;&c_d;&c_o;&c_t;&c_v;&c_o;&c_r;&c_n;&c_y;&c_j;
+    </trd>
+  </trdgrp>
+  <trd lng="sk">plodonosný</trd>
+</drv>
+
+<drv mrk="frukt.sen0a">
+  <kap>sen<tld/>a<fnt>Z</fnt></kap>
+  <snc mrk="frukt.sen0a.AGR">
+    <dif>
+      Ne <tld/>odona, <ref cel="steril.0a.KOMUNE">sterila</ref>.
+    </dif>
+  </snc>
+  <snc mrk="frukt.sen0a.FIG">
+    <dif>
+      Vana, senrezulta.
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_b;&c_ja;&c_s;&c_p;&c_l;&c_o;&c_d;&c_n;&c_y;</trd>,
+    <trd>&c_b;&c_ja;&c_s;&c_p;&c_l;&c_jo;&c_n;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>jalový</trd>,
+    <trd>neplodný</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>st&eacute;rile</trd>,
+    <trd>infertile</trd>
+  </trdgrp>
+  <trd lng="hu">term&eacute;ketlen</trd>
+  <trd lng="nl">steriel</trd>
+  <trd lng="pl">bezowocny</trd>
+  <trd lng="ru">
+  &c_b;&c_je;&c_s;&c_p;&c_l;&c_o;&c_d;&c_n;&c_y;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>jalový</trd>,
+    <trd>neplodný</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="frukt.fendo0o">
+  <kap>fendo<tld/>o</kap>
+  <snc mrk="frukt.fendo0o.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      Formo de <ref tip="super" cel="nuks.0o.BOT">nukso</ref>,
+      &ccirc;e kiu la fruktofolioj disi&gcirc;as &ccirc;e la
+      maturi&gcirc;o, enhavantaj po unu grajnon, ekz.
+      &ccirc;e acero.
+    </dif>
+  </snc>
+  <trd lng="de">Spaltfrucht</trd>
+  <trd lng="hu">sz&eacute;thasad&oacute; <ind>term&eacute;s</ind></trd>  
+  <trd lng="nl">splijtvrucht</trd>
+</drv>
+
+<drv mrk="frukt.ferm0o">
+  <kap>ferm<tld/>o</kap>
+  <snc mrk="frukt.ferm0o.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      <ref tip="super" cel="frukt.0o.BOT"><tld lit="F"/>o</ref>, kiu 
+      restas fermita &ccirc;e maturi&gcirc;o kaj distribui&gcirc;as 
+      kun la semgrajnoj.
+    </dif>
+  </snc>
+  <bld lok="../bld/frukt1.png">
+    fermfruktoj<klr>: 1. nukso, 2. bero, 3. fendo<tld/>o, 4. drupo</klr>
+  </bld>
+  <trd lng="de">Schlie&szlig;frucht</trd>
+  <trd lng="hu">z&aacute;rt <ind>term&eacute;s</ind></trd>  
+</drv>
+
+<drv mrk="frukt.malferm0o">
+  <kap>malferm<tld/>o</kap>
+  <snc mrk="frukt.malferm0o.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      <ref tip="super" cel="frukt.0o.BOT"><tld lit="F"/>o</ref> kiu
+      &ccirc;e maturi&gcirc;o malfermi&gcirc;as kaj elfaligas la
+      semgrajnojn.
+    </dif>
+  </snc>
+  <bld lok="../bld/frukt2.png">
+    malfermfruktoj<klr>: 1. foliklo, 2. silikvoj, 3. kapsulo,
+    4. gu&scirc;o</klr>
+  </bld>
+  <trd lng="de">&Ouml;ffnungsfrucht</trd>
+  <trd lng="hu">felny&iacute;l&oacute; <ind>term&eacute;s</ind></trd>  
+</drv>
+
+<drv mrk="frukt.mar0o">
+  <kap>mar<tld/>o</kap>
+  <snc mrk="frukt.mar0o.KUI">
+    <uzo tip="fak">KUI</uzo>
+    <dif>
+      Man&gcirc;ebla marviva&jcirc;o alia ol fi&scirc;o, precipe
+      <ref tip="sub" cel="molusk.0oj.ZOO">molusko</ref> a&ubreve;
+      <ref tip="sub" cel="krust.0uloj.ZOO">krustulo</ref>:
+      <ekz>
+        mar<tld/>oj ekzemple <klr>...</klr> omaroj, kankroj, ostroj, 
+        petunkoj, mituloj, marlimakoj ktp
+        <fnt><bib>Munchhausen</bib>, <lok>&ccirc;apitro 15a</lok></fnt>;
+      </ekz>
+      <ekz>
+        la lokan tradicion reprezentos giganta paeljo <klr>...</klr> 
+        hispania kaj speciale valencia plado el rizo, kokida&jcirc;o, 
+        mar<tld/>oj
+        <fnt>
+          <aut>-</aut>,
+          <vrk>La Centra Artikolo</vrk>,
+          <lok><url ref="http://www.eventeo.net/web/">
+          eventeo</url>, 1993-07-02</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">fruit de mer</trd>
+</drv>
+
+<drv mrk="frukt.plur0o">
+  <kap>plur<tld/>o</kap>
+  <snc mrk="frukt.plur0o.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      <ref tip="super" cel="frukt.0o.BOT"><tld lit="F"/>o</ref>
+      esti&gcirc;inta el pluraj liberaj pistiloj.
+    </dif>
+  </snc>
+  <trd lng="de">Sammelfrucht</trd>
+  <trdgrp lng="hu">
+    <trd>term&eacute;scsoport</trd>,
+    <trd>&ouml;sszetett <ind>term&eacute;s</ind></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="frukt.0ofolio">
+  <kap><tld/>ofolio</kap>
+  <snc mrk="frukt.0ofolio.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      Parto de <ref tip="malprt" cel="flor.0o.BOT">floro</ref>,
+      sur kiu formi&gcirc;as la ovuloj. Ili formas ujon &ccirc;e
+      la magnolioplantoj, sed estas malfermitaj &ccirc;e la
+      koniferoplantoj.
+    </dif>
+    <ref tip="sin" cel="karpel.0o">karpelo</ref>
+  </snc>
+  <trd lng="be">&c_p;&c_l;&c_a;&c_d;&c_a;&c_l;&c_ib;&c_s;&c_mol;&c_c;&c_ib;&c_k;</trd>
+  <trd lng="cs">plodolist</trd>
+  <trd lng="de">Fruchtblatt</trd>
+  <trd lng="fr">carpelle</trd>
+  <trd lng="hu">term&odblac;lev&eacute;l</trd>
+  <trd lng="nl">vruchtblad</trd>
+  <trd lng="ru">&c_p;&c_l;&c_o;&c_d;&c_o;&c_l;&c_i;&c_s;&c_t;&c_i;&c_k;</trd>
+  <trd lng="sk">plodolist</trd>
+</drv>
+
+<drv mrk="frukt.0uzo">
+  <kap><tld/>uzo</kap>
+  <snc mrk="frukt.0uzo.JUR">
+    <uzo tip="fak">JUR</uzo>
+    <dif>
+      Le&gcirc;a rajto, la&ubreve; kiu iu povas utiligi aferon, 
+      poseda&jcirc;on, hereda&jcirc;on, prenante por sia profito nur la 
+      produkta&jcirc;ojn a&ubreve; rentojn, sed ne tu&scirc;ante la 
+      bienon a&ubreve; la kapitalon.
+    </dif>
+  </snc>
+  <trd lng="cs">požívací právo</trd>
+  <trd lng="fr">usufruit</trd>
+  <trd lng="hu">haszon&eacute;lvezet</trd>
+  <trd lng="nl">vruchtgebruik</trd>
+  <trd lng="ru">&c_p;&c_r;&c_a;&c_v;&c_o; &c_p;&c_o;&c_l;&c_mol;&c_z;&c_o;&c_v;&c_a;&c_n;&c_i;&c_ja;</trd>
+  <trd lng="sk">užívacie právo</trd>
+</drv>
+</art>
+<!--
+$Log: frukt.xml,v $
+Revision 1.37  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.36  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.35  2011/12/29 07:10:08  revo
+Jozefo Horvath: kor. tr hu
+
+Revision 1.34  2009/12/06 17:30:34  revo
+Jeromo Vasxe: + mar~o, + mrk, kor. 2 fnt, reordig. drv
+
+Revision 1.33  2009/08/27 16:31:40  revo
+Emmanuel Debanne: +trd tr
+
+Revision 1.32  2009/06/23 16:32:10  revo
+Emmanuel Debanne: +trd id
+
+Revision 1.31  2007/12/07 17:30:17  revo
+Wieland Pusch: +trd bg
+
+Revision 1.30  2007/06/13 16:32:32  revo
+Tulio Flores: +tr pt
+
+Revision 1.29  2006/09/16 16:30:47  revo
+Axel Rousseau: +trd tp
+
+Revision 1.28  2006/07/04 16:32:03  revo
+-->
+</vortaro>

@@ -1,0 +1,834 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: sign.xml,v 1.49 2015/07/04 08:37:43 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>sign</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="sign.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="sign.0o.KOMUNE">
+    <dif>
+      Io ajn perceptebla (streko, desegna&jcirc;o, figuro, bildo,
+      objekto, gesto), kio elvokas en la
+      spiriton ideon pri alia afero; ekstera distingilo:
+      <ekz>
+        fari<fnt>Z</fnt>,
+        doni <tld/>ojn per la lipoj<fnt>Z</fnt>,
+        per la okuloj<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        tio estas bona <tld/>o<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;ie oni vidis <tld/>ojn de mal&gcirc;ojo<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        kongresoj farataj sub la <tld/>o de la verda
+        standardo<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        la verda stelo &ccirc;esos esti malkura&gcirc;a <tld/>o de silento,
+        &gcirc;i fari&gcirc;os <tld/>o de laboro<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        <tld/>o kaj atentigilo<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+    <trd lng="cs">znamen&iacute;</trd>
+    <trd lng="de">Zeichen</trd>
+    <trd lng="en">sign</trd>
+    <trd lng="hu">jel</trd>
+    <trd lng="nl">teken</trd>
+    <trd lng="pt">sinal</trd>
+    <trd lng="ru">&c_z;&c_n;&c_a;&c_k;</trd>
+    <trd lng="tr">i&scedil;aret</trd>
+  </snc>
+  <snc mrk="sign.0o.KOMP">
+    <uzo tip="fak">KOMP</uzo>
+    <dif>
+      Elemento de konvencia aro da esprimiloj uzataj por prezenti
+      informojn; precipe litero de <ref tip="dif"
+      cel="alfabe.0o">alfabeto</ref>, <ref tip="dif"
+      cel="cifer.0o">cifero</ref>,
+      <ref tip="dif" cel="interp3.0o">interpunkciaj</ref> <tld/>oj, la
+      sonoj de parolo:
+      <ekz>
+        <ind>demando<tld/>o</ind> <klr>(?)</klr>;
+        <trd lng="fr">point d'interrogation</trd>
+        <trd lng="hu">k&eacute;rd&odblac;jel</trd>
+      </ekz>
+      <ekz>
+        <ind>kri<tld/>o</ind> a&ubreve; ekkria <tld/>o <klr>(!)</klr>;
+        <trd lng="fr">point d'exclamation</trd>
+        <trd lng="hu">felki&aacute;lt&oacute;jel</trd>
+      </ekz>
+      <ekz>
+        <ind>egalo<tld/>o</ind> <klr>(=)</klr>;
+        <trd lng="hu">egyenl&odblac;s&eacute;gjel</trd>
+      </ekz>
+      <ekz>
+        plio<tld/>o <klr>(>)</klr>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">ARK</uzo>
+        havi ankora&ubreve; <tld/>on de demando<fnt>Z</fnt>
+        <klr>(demando<tld/>on, do: esti tute necerta)</klr>.
+      </ekz>
+    </dif>
+    <adm>
+      &Scirc;ajnas al mi, ke tia uzo apartenas al la fako TIP,
+      des pli se konsideri la ekz-ojn. Cetere mi ne scias,
+      kio apogas la strangan formon "plio~o".
+      <aut>MB</aut>
+    </adm>
+    <ref tip="malprt" cel="datum.0o.KOMP">datumo</ref>
+    <refgrp tip="vid">
+      <ref cel="signal.0o">signalo</ref>,
+      <ref cel="simbol.0o">simbolo</ref>
+    </refgrp>
+    <trdgrp lng="de">
+      <trd>Zeichen</trd>,
+      <trd>Symbol</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>sign</trd>,
+      <trd>character</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>jel</trd>,
+      <trd>karakter</trd>
+    </trdgrp>
+    <trdgrp lng="nl">
+      <trd>teken</trd>,
+      <trd>symbool</trd>
+    </trdgrp>
+      <trdgrp lng="ru">
+      <trd>&c_z;&c_n;&c_a;&c_k;</trd>,
+      <trd>&c_l;&c_i;&c_t;&c_je;&c_r;&c_a;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="sign.0o.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>MatTerm</bib>, <lok>p. 7</lok></fnt>
+    <uzo tip="klr">(fakula &jcirc;argono)</uzo>
+    <dif>
+      <klr>(de <ref cel="nombr.0o.MAT">nombro</ref>)</klr>
+      &Gcirc;ia eco esti <ref cel="poziti.0a.nombro">pozitiva</ref> a&ubreve;
+      <ref cel="negati.0a.nombro">negativa</ref>:
+      <ekz>
+        pozitiva a&ubreve; plusa, negativa a&ubreve; minusa <tld/>o de variablo
+        <klr>(&gcirc;ia pozitiveco, negativeco)</klr>,
+      </ekz>
+      <ekz>
+        de funkcio <klr>(la <tld/>o de &gcirc;ia valoro)</klr>;
+      </ekz>
+      <ekz>
+        se la <tld/>o de kontinua funkcio &scirc;an&gcirc;i&gcirc;as
+        inter <frm><k>a</k></frm> kaj <frm><k>b</k></frm>, tiu nepre
+        <ref cel="nul0.0igxi.MAT">nuli&gcirc;as</ref>
+        &ccirc;e iu punkto de intervalo <frm>]<k>a</k>,<k>b</k>[</frm>;
+      </ekz>
+      <ekz>
+        produto estas pozitiva, se kaj nur se la du faktoroj havas saman
+        <tld/>on;
+      </ekz>
+      <ekz>
+        la <ind>kartezia pri<tld/>a regulo</ind> <klr>(regulo liganta la
+        nombron da strikte pozitivaj radikoj de polinomo kaj la nombron
+        da
+        <tld/>o&scirc;an&gcirc;oj en la vico de &gcirc;iaj koeficientoj)</klr>
+        <fnt><bib>MatTerm</bib>, <lok>p. 16</lok></fnt>.
+        <trd lng="de">Descartessche <ind>Zeichenregel</ind></trd>
+        <trd lng="en">Descartes['] <ind>rule</ind> of signs</trd>
+        <trd lng="fr">r&egrave;gle des signes de Descartes</trd>
+        <trd lng="hu">Descartes-f&eacute;le <ind>el&odblac;jelszab&aacute;ly</ind></trd>
+        <trd lng="pl">regu&lstroke;a znak&oacute;w Kartezjusza</trd>
+        <trd lng="ru">&c_p;&c_r;&c_a;&c_v;&c_i;&c_l;&c_o; &c_z;&c_n;&c_a;&c_k;&c_o;&c_v; &c_D;&c_je;&c_k;&c_a;&c_r;&c_t;&c_a;</trd>
+      </ekz>
+    </dif>
+    <rim>
+      Temas kompreneble pri metafora uzo de la tipografia senco de vorto
+      <ctl><tld/>o</ctl>, &ccirc;ar pozitiveco kaj negativeco de nombro povas
+      esti indikitaj pere de la <ref cel="plus.0o">pluso</ref> a&ubreve;
+      <ref cel="minus.0o">minuso</ref>, kiu aperas en
+      &gcirc;ia cifera prezento. &Ccirc;ar pozitiveco kaj negativeco ne
+      estas per si mem matematikaj objektoj, oni ofte preferas paroli
+      pri
+      la <ref cel="sign.0umo.nombro"><tld/>umo</ref> de nombro, t.e. pri
+      la
+      valoro, kiun alprenas &ccirc;e &gcirc;i la koncerna funkcio. La pli
+      tradicia formo <ctl><tld/>o</ctl> restas tamen uzata, precipe en
+      kunmeta&jcirc;oj, kiel
+      <ekz>
+        sam<tld/>a,
+      </ekz>
+      <ekz>
+        kontra&ubreve;<tld/>a,
+      </ekz>
+      <ekz>
+        <tld/>o&scirc;an&gcirc;o...
+      </ekz>
+    </rim>
+    <trd lng="de">Vorzeichen</trd>
+    <trd lng="en">sign</trd>
+    <trd lng="fr">signe<klr tip="ind"> (d'un nombre)</klr></trd>
+    <trd lng="hu">el&odblac;jel</trd>
+    <trd lng="pl">znak</trd>
+    <trd lng="ru">&c_z;&c_n;&c_a;&c_k;</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>označení</trd>,
+    <trd>symbol</trd>,
+    <trd>znak</trd>,
+    <trd>znaménko</trd>,
+    <trd>značka</trd>
+  </trdgrp>
+  <trd lng="fr">signe</trd>
+  <trdgrp lng="sk">
+    <trd>symbol</trd>,
+    <trd>znak</trd>,
+    <trd>znamenie</trd>,
+    <trd>znamienko</trd>,
+    <trd>značka</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="sign.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      Esti <tld/>o pri, montri, signifi:
+      <ekz>
+        <tld/>i la vojon;
+      </ekz>
+      <ekz>
+        lia fizionomio <tld/>is plenan senzorgecon;
+      </ekz>
+      <ekz>
+        lingvo estas pure kondi&ccirc;a <tld/>ado de ideoj<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        tia obstino kaj senkritiko <tld/>as ian nescienceman
+        spiritostaton.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>zeigen</trd>,
+      <trd>bezeichnen</trd>
+    </trdgrp>
+    <trd lng="hu">jelez</trd>
+    <trdgrp lng="ru">
+      <trd>&c_o;&c_z;&c_n;&c_a;&c_ch;&c_a;&c_t;&c_mol;</trd>,
+      <trd>&c_o;&c_b;&c_o;&c_z;&c_n;&c_a;&c_ch;&c_a;&c_t;&c_mol;</trd>,
+      <trd>&c_o;&c_b;&c_o;&c_z;&c_n;&c_a;&c_ch;&c_i;&c_t;&c_mol;</trd>
+    </trdgrp>
+  </snc>
+  <snc>
+    <dif>
+      Fari <tld/>on al iu, atentigi iun per <tld/>o:
+      <ekz>
+        mi <tld/>is al la fiakristo.
+      </ekz>
+    </dif>
+    <trd lng="fr">faire <ind>signe</ind></trd>
+    <trd lng="hu">jelez</trd>
+    <trd lng="ru">&c_p;&c_o;&c_d;&c_a;&c_t;&c_mol; <ind>&c_z;&c_n;&c_a;&c_k;</ind></trd>
+  </snc>
+  <snc>
+    <dif>
+      Distingigi iun a&ubreve; ion per <tld/>o:
+      <ekz>
+        tiu verko <tld/>as epokon en la drama literaturo;
+      </ekz>
+      <ekz>
+        tiu decido <tld/>as gravan pa&scirc;on en la historio de nia movado.
+      </ekz>
+    </dif>
+    <trdgrp lng="fr">
+      <trd>&ecirc;tre le <ind>signe</ind> de</trd>,
+      <trd>marquer<klr> (&ecirc;tre marquant)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>jel&ouml;l <klr tip="ind">(&aacute;tv.)</klr></trd>,
+      <trd>jelent</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_o;&c_z;&c_n;&c_a;&c_ch;&c_a;&c_t;&c_mol;</trd>,
+      <trd>&c_o;&c_b;&c_o;&c_z;&c_n;&c_a;&c_ch;&c_a;&c_t;&c_mol;</trd>,
+      <trd>&c_o;&c_b;&c_o;&c_z;&c_n;&c_a;&c_ch;&c_i;&c_t;&c_mol;</trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>dávat znamení</trd>,
+    <trd>označit</trd>,
+    <trd>poskytnout</trd>,
+    <trd>značit</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>dať znamenie</trd>,
+    <trd>označiť</trd>,
+    <trd>značiť</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="sign.0aro">
+  <kap><tld/>aro</kap>
+  <snc mrk="sign.0aro.KOMP">
+    <uzo tip="fak">KOMP</uzo>
+    <dif>
+      Aro da <tld/>oj (<tld/>orepertuaro), ofte kun la implicata
+      numerado (kodo).
+    </dif>
+    <refgrp tip="sub">
+      <ref cel="alfabe.0o">alfabeto</ref>,
+      <ref cel="tip.0aro">tiparo</ref>
+    </refgrp>
+    <trd lng="de">Zeichensatz</trd>
+    <trd lng="en">character set</trd>
+    <trdgrp lng="hu">
+      <trd>jelk&eacute;szlet</trd>,
+      <trd>karakterk&eacute;szlet</trd>
+    </trdgrp>
+    <trd lng="ru">&c_n;&c_a;&c_b;&c_o;&c_r; &c_l;&c_i;&c_t;&c_je;&c_r;</trd>
+  </snc>
+  <trd lng="cs">znaková sada</trd>
+  <trd lng="fr">r&eacute;pertoire de signes</trd>
+  <trd lng="sk">znaková sada</trd>
+</drv>
+
+<drv mrk="sign.0umo">
+  <kap><tld/>umo</kap>
+  <snc mrk="sign.0umo.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>EKV</bib>, <lok>&para;393</lok></fnt>
+    <subsnc mrk="sign.0umo.nombro">
+      <dif>
+        Funkcio, &jcirc;etanta reelon al <frm>+1</frm>, se la reelo estas
+        pozitiva, al <frm>0</frm>, se &gcirc;i estas <frm>0</frm>,
+        al <frm>-1</frm>, se &gcirc;i estas negativa; bildo per tiu funkcio:
+        <ekz>
+          la produto de reelo per &gcirc;ia <tld/>umo egalas al &gcirc;ia
+          absoluta valoro.
+        </ekz>
+      </dif>
+      <rim>
+        En <fnt><bib>MatVort</bib></fnt> trovi&gcirc;as por tiu termino
+        tradukoj, kiuj suspektigas, ke oni komprenas &gcirc;in kun la
+        senco <ref cel="sign.0o.MAT"><tld/>o <sncref/></ref>; tiom pli,
+        ke
+        oni donas la sencon de funkcio al alia termino, nome
+        <ctl><tld/>umfunkcio</ctl>.
+        Tio povas esti provo lerte evakui la terminon <tld/>o, kiu ne
+        montras
+        al difinita matematika objekto kaj kies ambigueco povas &gcirc;eni.
+        Ja oni legas en <fnt><bib>MatStokTerm</bib>, <lok>p.
+        105</lok></fnt>,
+        ke <ctl>se <frm><k>a</k></frm> estas negativa nombro,
+        <frm>-<k>a</k></frm> havas negativan <tld/>on,
+        sed pozitivan <tld/>umon</ctl>, sed temas pri vortludo: neniu
+        dirus <ctl><frm>-<k>a</k></frm> havas negativan <tld/>on</ctl>
+        por
+        signifi, ke minuso staras anta&ubreve; <frm><k>a</k></frm>!
+        Do entute &scirc;ajnas, ke la maloftaj uz-okazoj de la mal&scirc;atata
+        <ctl><tld/>o</ctl> ne pravigas reformon de jam tradicia kaj
+        internacia
+        terminologio, sed aprobindas la strebo al pli rigora lingva&jcirc;o,
+        anstata&ubreve;igante la terminon <ctl><tld/>o de nombro</ctl> per
+        <ctl><tld/>umo de nombro</ctl>, kiam tion ebligas la kunteksto.
+      </rim>
+      <adm>
+        En la posta komputika senco, "~umo" refari&gcirc;as nura
+        signo (+ aux -). &Ccirc;u prave?
+        Ekz-oj de uzo en REVO: ~um&scirc;an&gcirc;o estas unuloka operacio, ~umo
+        kiel parto de numeralo KOMP, ~umhava/sen~uma malfinioj.
+        Indus trovi aliajn ekz-ojn. <aut>MB</aut>
+      </adm>
+      <trd lng="de">Signum(funktion)</trd>
+      <trd lng="en">signum (function)</trd>
+      <trd lng="fr">fonction signe</trd>
+      <trdgrp lng="hu">
+        <trd>el&odblac;jelf&uuml;ggv&eacute;ny</trd>,
+        <trd>szignumf&uuml;ggv&eacute;ny</trd>
+      </trdgrp>
+      <trdgrp lng="pl">
+        <trd>funkcja sgn</trd>,
+        <trd>signum</trd>
+      </trdgrp>
+      <trdgrp lng="ru">
+        <trd>&c_z;&c_n;&c_a;&c_k;&c_o;&c_v;&c_a;&c_ja;
+        <ind>&c_f;&c_u;&c_n;&c_k;&c_c;&c_i;&c_ja;</ind></trd>,
+        <trd>&c_s;&c_i;&c_g;&c_n;&c_u;&c_m;</trd>
+      </trdgrp>
+    </subsnc>
+    <subsnc mrk="sign.0umo.permuto">
+      <dif>
+        Funkcio, kiu &jcirc;etas <ref cel="permut.0o.bijekcio">permuton</ref>
+        al <frm>1</frm>, se &gcirc;i estas
+        <ref cel="par.0a.permuto">para</ref>, kaj al <frm>-1</frm> alie:
+        <ekz>
+          <tld/>umo estas la nura homomorfio de la
+          <ref cel="grup.simetria0o">simetria grupo</ref> al la grupo
+          <frm>{-1,1}</frm>, kiu &jcirc;etas la duelementajn
+          <ref cel="cikl.0o.permuto">ciklojn</ref> al <frm>-1</frm>.
+        </ekz>
+      </dif>
+      <trdgrp lng="de">
+        <trd>Signatur<klr tip="ind"> (einer Vertauschung)</klr></trd>
+      </trdgrp>
+      <trdgrp lng="en">
+        <trd>sign<klr tip="ind"> (of a permutation)</klr></trd>,
+        <trd>signum<klr tip="ind"> (of a permutation)</klr></trd>,
+        <trd>signature<klr tip="ind"> (of a permutation)</klr></trd>
+      </trdgrp>
+      <trdgrp lng="fr">
+        <trd>signature<klr tip="ind"> (d'une permutation)</klr></trd>,
+        <trd>parit&eacute;<klr tip="ind"> (d'une permutation)</klr></trd>
+      </trdgrp>
+      <trdgrp lng="pl">
+        <trd>znak<klr tip="ind"> (permutacji)</klr></trd>
+      </trdgrp>
+      <trdgrp lng="ru">
+        <trd>&c_z;&c_n;&c_a;&c_k;<klr tip="ind"> (&c_p;&c_je;&c_r;&c_je;&c_s;&c_t;&c_a;&c_n;&c_o;&c_v;&c_k;&c_i;)</klr></trd>,
+        <trd>&c_s;&c_i;&c_g;&c_n;&c_a;&c_t;&c_u;&c_r;&c_a;<klr tip="ind"> (&c_p;&c_je;&c_r;&c_je;&c_s;&c_t;&c_a;&c_n;&c_o;&c_v;&c_k;&c_i;)</klr></trd>
+      </trdgrp>
+    </subsnc>
+  </snc>
+  <snc mrk="sign.0umo.KOMP">
+    <uzo tip="fak">KOMP</uzo>
+    <dif>
+      La signoj + kaj - uzataj en nombroprezento.
+    </dif>
+    <trd lng="de">Vorzeichen</trd>
+    <trd lng="en">number sign</trd>
+    <trd lng="hu">el&odblac;jel</trd>
+    <trd lng="ru">&c_z;&c_n;&c_a;&c_k; &c_ch;&c_i;&c_s;&c_l;&c_a;</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>označení</trd>,
+    <trd>symbol</trd>,
+    <trd>znak</trd>,
+    <trd>znamení</trd>,
+    <trd>znaménko</trd>,
+    <trd>značka</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>symbol</trd>,
+    <trd>znak</trd>,
+    <trd>znamenie</trd>,
+    <trd>znamienko</trd>,
+    <trd>značka</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="sign.antaux0o">
+  <kap>anta&ubreve;<tld/>o</kap>
+  <snc mrk="sign.antaux0o.KOMUNE">
+    <dif>
+      <tld lit="S"/>o anoncanta ion anticipe.
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_z;&c_n;&c_a;&c_k;</trd>,
+    <trd>&c_p;&c_r;&c_a;&c_d;&c_v;&c_je;&c_s;&c_mol;&c_c;&c_je;</trd>,
+    <trd>&c_p;&c_r;&c_y;&c_k;&c_m;&c_je;&c_t;&c_a;</trd>
+  </trdgrp>
+  <trd lng="de">Vorzeichen</trd>
+  <trd lng="en">foreshadower</trd>
+  <trdgrp lng="fr">
+    <trd>signe avant-coureur</trd>,
+    <trd>pr&eacute;sage<klr tip="ind"> (signe avant-coureur)</klr></trd>
+  </trdgrp>
+  <trd lng="hu">el&odblac;jel</trd>
+  <trdgrp lng="ru">
+    <trd>&c_z;&c_n;&c_a;&c_k;</trd>,
+    <trd>&c_p;&c_r;&c_je;&c_d;&c_z;&c_n;&c_a;&c_m;&c_je;&c_n;&c_o;&c_v;&c_a;&c_n;&c_i;&c_je;</trd>,
+    <trd>&c_p;&c_r;&c_i;&c_m;&c_je;&c_t;&c_a;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="sign.kontraux0a">
+  <kap>kontra&ubreve;<tld/>a</kap>
+  <fnt><bib>MatTerm</bib>, <lok>p. 7</lok></fnt>
+  <snc mrk="sign.kontraux0a.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <dif>
+      <klr>(p.p. <ref cel="nombr.0o.MAT">nombroj</ref>)</klr>
+      Havantaj malsaman <ref cel="sign.0o.MAT"><tld/>on <sncref/></ref>:
+      <ekz>
+        produto de du kontra&ubreve;<tld/>aj faktoroj estas negativa.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="de">mit entgegengesetzten <ind>Vorzeichen</ind></trd>
+  <trd lng="en">opposite-signed</trd>
+  <trd lng="fr">de <ind>signe</ind> contraire</trd>
+  <trd lng="hu">ellenkez&odblac; <ind>el&odblac;jel&udblac;</ind></trd>
+  <trd lng="pl">przeciwny</trd>
+  <trd lng="ru">&c_p;&c_r;&c_o;&c_t;&c_i;&c_v;&c_o;&c_p;&c_o;&c_l;&c_o;&c_zh;&c_n;&c_o;&c_g;&c_o; <ind>&c_z;&c_n;&c_a;&c_k;&c_a;</ind></trd>
+</drv>
+
+<drv mrk="sign.krom0o">
+  <kap>krom<tld/>o</kap>
+  <snc mrk="sign.krom0o.TIP">
+    <uzo tip="fak">TIP</uzo>
+    <dif>
+      <tld lit="S"/>o, kiu ne funkcias sole, sed almeti&gcirc;as al &ccirc;efsigno
+      ordinare precizigante a&ubreve; modifante &gcirc;ian valoron.
+    </dif>
+  </snc>
+  <trdgrp lng="fr">
+    <trd>accent<klr tip="amb"> (&eacute;crit)</klr></trd>,
+    <trd>signe diacritique</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>predznamenanie</trd>,
+    <trd>predznačenie</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="sign.kruco0i">
+  <kap>kruco<tld/>i</kap>
+  <snc mrk="sign.kruco0i.KRI">
+    <uzo tip="fak">KRI</uzo>
+    <dif>
+      Beni per mansigno simbolanta krucon
+      per vertikala kaj horizontala movoj:
+      <ekz>
+        kaj li kruco<tld/>is ilin, unu post alia, aron post aro, kun 
+        amo tiel granda, kvaza&ubreve; ili estus liaj infanoj
+        <fnt><aut>H. Sienkewicz, trad. L. Zamenhof</aut>, <vrk>Quo 
+        vadis?</vrk>, <lok>1933</lok></fnt>;
+      </ekz>
+      <ekz>
+        &mdash; Sufi&ccirc;e jam, Kristo estas kun vi, kruco<tld/>u vin.
+        &mdash; Sed mi ne kruco<tld/>is min
+        <fnt>
+          <aut>F. Dostojevskij, trad. A. Kor&jcirc;enkov</aut>,
+          <vrk><url ref="http://esperanto.org/Ondo/Rn-dost8.htm">
+          Kampulo Marej</url></vrk>,
+          <bib>LOdE</bib>,
+          <lok>2003:4 (102)</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>pokřižovat</trd>,
+    <trd>žehnat křížem</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>faire le <ind>signe de croix</ind></trd>,
+    <trd>signer<klr> (faire le signe de croix)</klr></trd>
+  </trdgrp>
+  <trd lng="sk">žehnať krížom</trd>
+</drv>
+
+<drv mrk="sign.okul0i">
+  <kap>okul<tld/>i</kap>
+  <snc mrk="sign.okul0i.MIEN">
+    <dif>
+      Atentigi iun per okulmovo:
+      <ekz>
+        la majoro okul<tld/>is al mi ke mi &ccirc;esu paroli
+        <fnt>
+          <aut>Ke Lan, trad. Pandi&scirc;o</aut>,
+          <vrk><url
+          ref="http://donh.best.vwh.net/Esperanto/Literaturo/Revuoj/epc/epc6106/majoro.html">
+          La majoro en trajno</url></vrk>,
+          <lok>El Popola &Ccirc;inio, 1961:6, p. 272a-275a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="palpeb.0umi.MIEN">palpebrumi</ref>
+    </refgrp>
+  </snc>
+  <trd lng="cs">mrknout <klr>(na..)</klr></trd>
+  <trd lng="fr">faire signe de l'&oelig;il</trd>
+  <trdgrp lng="sk">
+    <trd>dať znamenie okom</trd>,
+    <trd>žmurkať</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="sign.pied0o">
+  <kap>pied<tld/>o<fnt>Z</fnt>,
+  <var><kap>pa&scirc;o<tld/>o<fnt>Z</fnt></kap></var>,
+  <var><kap>sekvo<tld/>o<fnt>Z</fnt></kap></var></kap>
+  <snc mrk="sign.pied0o.KOMUNE">
+    <dif>
+      <tld lit="S"/>o postlasita de piedo de homo a&ubreve; besto sur la tero.
+    </dif>
+  </snc>
+  <trd lng="cs">stopa nohy na zemi</trd>
+  <trd lng="de">Spur</trd>
+  <trd lng="fr">empreinte</trd>
+  <trd lng="hu">l&aacute;bnyom</trd>
+  <trd lng="ru">&c_s;&c_l;&c_je;&c_d;</trd>
+  <trd lng="sk">stopa nohy na zemi</trd>
+</drv>
+
+<drv mrk="sign.post0o">
+  <kap><fnt>*</fnt>post<tld/>o,
+  <var>
+  <kap>poste<tld/>o</kap> <uzo tip="stl">ARK</uzo>
+  </var></kap>
+  <snc mrk="sign.post0o.KOMUNE">
+    <dif>
+      <tld lit="S"/>o postlasita de io pasinta a&ubreve; okazinta:
+      <ekz>
+        nun ekzistas plu nenia post<tld/>o de la turo nek de la pre&gcirc;ejo
+        <fnt><bib>Fab4</bib>, <lok>Sonorila profundo</lok></fnt>;
+      </ekz>
+      <ekz>
+        ne restos poste<tld/>o de la abundeco en la lando, pro tiu
+        malsato
+        <fnt><bib>MT</bib>, <lok>&Gen; 41:31</lok></fnt>;
+      </ekz>
+      <ekz>
+        Egipto estas klara post<tld/>o de la mano de Oziriso
+        <fnt><bib>Far2</bib>, <lok>&ccirc;apitro 2a</lok></fnt>;
+      </ekz>
+      <ekz>
+        por forigi la lastajn postesignojn de la ekscito, li iris al
+        Sara
+        <fnt><bib>Far2</bib>, <lok>&ccirc;apitro 12a</lok></fnt>;
+      </ekz>
+      <ekz>
+        Jungo lavas la &scirc;tuparon, neniigante la post<tld/>ojn de
+        la hiera&ubreve;aj okazinta&jcirc;oj
+        <fnt><bib>Metrop</bib>, <lok>&ccirc;apitro 9a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">stopa</trd>
+  <trdgrp lng="fr">
+    <trd>trace</trd>,
+    <trd>vestige</trd>
+  </trdgrp>
+  <trd lng="hu">nyom</trd>
+  <trd lng="nl">spoor</trd>
+  <trd lng="ru">&c_s;&c_l;&c_je;&c_d;</trd>
+  <trd lng="sk">stopa</trd>
+</drv>
+
+<drv mrk="sign.prem0o">
+  <kap>prem<tld/>o</kap>
+  <snc mrk="sign.prem0o.KOMUNE">
+    <dif>
+      <tld lit="S"/>o, kiun la premo de malmola objekto lasas en pli
+      mola
+      substanco; pli &gcirc;enerale, spuro de inko, graso ks, lasita de
+      unu objekto alpremita al alia:
+      <ekz>
+        vaksa prem<tld/>o de &scirc;losilo;
+      </ekz>
+      <ekz>
+        sekvi la prem<tld/>ojn de &ccirc;asbesto;
+      </ekz>
+      <ekz>
+        <klr>[la po&scirc;tuko]</klr> sufi&ccirc;e nete montris prem<tld/>on
+        de polmo
+        <fnt><bib>UrdHadda</bib>, <lok>p. 27</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>otisk</trd>,
+    <trd>stopa</trd>,
+    <trd>vytlačenina</trd>
+  </trdgrp>
+  <trd lng="fr">empreinte</trd>
+  <trdgrp lng="hu">
+    <trd>lenyomat</trd>,
+    <trd>benyom&oacute;d&aacute;s</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>afdruk</trd>,
+    <trd>spoor</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_l;&c_je;&c_d;</trd>,
+    <trd>&c_o;&c_t;&c_p;&c_je;&c_ch;&c_a;&c_t;&c_o;&c_k;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>obtlačok</trd>,
+    <trd>stopa</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="sign.sam0a">
+  <kap>sam<tld/>a</kap>
+  <snc mrk="sign.sam0a.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <dif>
+      <klr>(p.p. <ref cel="nombr.0o.MAT">nombroj</ref>)</klr>
+      Havantaj la saman <ref cel="sign.0o.MAT"><tld/>on <sncref/></ref>:
+      <ekz>
+        la sumo de sam<tld/>aj nombroj estas sam<tld/>a kiel ili.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">stejného znaménka</trd>
+  <trd lng="de">mit gleichem <ind>Vorzeichen</ind></trd>
+  <trdgrp lng="en">
+    <trd>of the same <ind>sign</ind></trd>,
+    <trd>same-<ind>sign</ind></trd>
+  </trdgrp>
+  <trd lng="fr">de m&ecirc;me <ind>signe</ind></trd>
+  <trd lng="hu">azonos <ind>el&odblac;jel&udblac;</ind></trd>
+  <trd lng="ru">&c_o;&c_d;&c_i;&c_n;&c_a;&c_k;&c_o;&c_v;&c_o;&c_g;&c_o; <ind>&c_z;&c_n;&c_a;&c_k;&c_a;</ind></trd>
+  <trd lng="sk">rovnakého znamienka</trd>
+</drv>
+
+<drv mrk="sign.super0o">
+  <kap>super<tld/>o</kap>
+  <snc mrk="sign.super0o.TIP">
+    <uzo tip="fak">LIN</uzo>
+    <uzo tip="fak">TIP</uzo>
+    <dif>
+      <ref tip="super" cel="sign.krom0o.TIP">Krom<tld/>o</ref> metata
+      super litero a&ubreve; matematika simbolo por indiki specialan fonetikan
+      valoron, matematikan operacion kaj tiel plu:
+      <ekz>
+        Esperanto uzas tri super<tld/>ojn: &ccirc;apelon super
+        &ccirc;, &hcirc;, &gcirc;, &jcirc;, &scirc;; superpunkton
+        en i, j; kaj lunarkon super &ubreve;.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>&Uuml;berzeichen</trd>,
+      <trd>Diakritikum</trd>
+    </trdgrp>
+    <trd lng="en">accent</trd>
+    <trdgrp lng="hu">
+      <trd>fel&uuml;ljelz&eacute;s</trd>,
+      <trd>&eacute;kezet</trd>
+    </trdgrp>
+    <trd lng="ru">&c_v;&c_je;&c_r;&c_h;&c_n;&c_i;&c_j; &c_d;&c_i;&c_a;&c_k;&c_r;&c_i;&c_t;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j; &c_z;&c_n;&c_a;&c_k;</trd>
+  </snc>
+  <trd lng="cs">znaménko nad písmenem</trd>
+  <trd lng="fr">accent<klr tip="amb"> (sur une lettre...)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>mäkčeň</trd>,
+    <trd>vokáň</trd>,
+    <trd>značka nad písmenom</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="sign.0obildo">
+  <kap><tld/>obildo</kap>
+  <snc mrk="sign.0obildo.KOMP">
+    <uzo tip="fak">KOMP</uzo>
+    <dif>
+      &Ccirc;iu el diversaj grafikaj aspektoj kiujn povas akcepti unu
+      <tld/>o:
+      <ekz>
+        en iuj tiparoj la signo<tld/>oj de tute
+        diversaj <tld/>oj, kiaj estas la literoj I, l kaj la cifero 1,
+        estas identaj;
+      </ekz>
+      <ekz>
+        en iuj tiparoj la suba parto de la signo<tld/>o de g estas
+        fermita, en aliaj &gcirc;i estas malfermita, sed amba&ubreve; prezentas
+        unu saman <tld/>on: la literon g.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="sign.0aro">signaro</ref>,
+      <ref cel="tip.0aro">tiparo</ref>
+    </refgrp>
+    <trd lng="en">glyph</trd>
+    <trd lng="fr">glyphe<klr> (tipo.)</klr></trd>
+    <trdgrp lng="hu">
+      <trd>karakterk&eacute;p</trd>,
+      <trd>jelalak</trd>
+    </trdgrp>
+    <trd lng="ru">&c_n;&c_a;&c_ch;&c_je;&c_r;&c_t;&c_a;&c_n;&c_i;&c_je;</trd>
+  </snc>
+  <snc mrk="sign.0obildo.TIP">
+    <uzo tip="fak">TIP</uzo>
+    <dif>
+      La presanta surfaco de prestipo.
+    </dif>
+    <ref tip="malprt" cel="tip.0o">tipo</ref>
+    <trd lng="de">Bild</trd>
+    <trd lng="en">face</trd>
+    <trd lng="fr">&oelig;il<klr> (typo.)</klr></trd>
+    <trd lng="hu">nyom&oacute;k&eacute;p</trd>
+    <trd lng="ru">&c_o;&c_ch;&c_k;&c_o; &c_l;&c_i;&c_t;&c_je;&c_r;&c_y;</trd>
+  </snc>
+  <trd lng="cs">obraz znaku</trd>
+  <trd lng="sk">obraz znaku</trd>
+</drv>
+
+<drv mrk="sign.0osxangxo">
+  <kap><tld/>o&scirc;an&gcirc;o</kap>
+  <fnt><bib>MatTerm</bib>, <lok>p. 16</lok></fnt>
+  <snc mrk="sign.0osxangxo.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <dif>
+      <klr>(de <ref cel="bild.0igo.MAT">bildigo</ref>)</klr>
+      &Scirc;an&gcirc;i&gcirc;o de la
+      <ref cel="sign.0o.MAT"><tld/>o <sncref/></ref> de
+      &gcirc;iaj valoroj la&ubreve; la valoro de la argumento:
+      <ekz>
+        la funkcio <frm><k>x</k><sup>2</sup>-4</frm> prezentas
+        <tld/>o&scirc;an&gcirc;on &ccirc;e
+        <frm>-2</frm> kaj alian &ccirc;e <frm>+2</frm>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="de">
+    <trd>Vorzeichen&auml;nderung</trd>,
+    <trd>Vorzeichenwechsel</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>change in sign</trd>,
+    <trd>sign inversal</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>changement de signe</trd>,
+    <trd>inversion de signe</trd>
+  </trdgrp>
+  <trd lng="hu">el&odblac;jelv&aacute;lt&aacute;s</trd>
+  <trd lng="pl">zmiana znaku</trd>
+  <trd lng="ru">&c_i;&c_z;&c_m;&c_je;&c_n;&c_je;&c_n;&c_i;&c_je; &c_z;&c_n;&c_a;&c_k;&c_a;</trd>
+</drv>
+</art>
+<!--
+$Log: sign.xml,v $
+Revision 1.49  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.48  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.47  2014/01/29 21:10:16  revo
+Damien Brucker: +ref
+
+Revision 1.46  2013/08/30 01:10:15  revo
+Jeromo Vasxe: + okul~i
+
+Revision 1.45  2013/04/21 20:10:08  revo
+Evandro Avellar: +tr pt
+
+Revision 1.44  2012/10/23 00:13:43  revo
+Neil Roberts: aldonu la etikedon <var>
+
+Revision 1.43  2010/11/11 17:30:49  revo
+Jeromo Vasxe: + kruco~i
+
+Revision 1.42  2006/08/16 19:53:11  revo
+Wieland Pusch: +trd de
+
+Revision 1.41  2005/12/19 17:31:31  revo
+Jeromo Vasxe: + krom~o
+
+Revision 1.40 2005/03/16 18:16:45 revo
+-->
+</vortaro>

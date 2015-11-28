@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: alo.xml,v 1.25 2015/07/04 08:37:30 revo Exp $">
+<kap>
+  <ofc>4</ofc>
+  <rad>alo</rad>/o <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="alo.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="alo.0o.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      Suka vegeta&jcirc;o kun baza ringo de dikaj folioj,
+      kun plej multaj specioj en Afriko,
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:botanikaj_genroj">genro</ref> el familio <ref
+      tip="malprt" cel="liliac.0oj">liliacoj</ref>
+      (<trd lng="la">Aloe</trd>):
+      <ekz>
+        diversaj <tld/>oj, kun raketformaj bran&ccirc;oj &scirc;ar&gcirc;ataj de
+        flavru&gcirc;e 
+        striataj floroj <klr>...</klr> superis la nigrajn kapojn de la 
+        &scirc;tonegoj
+        <fnt>
+          <aut>H. Bernardin de Saint-Pierre, trad. H. Hodler</aut>,
+          <vrk><url ref="http://www.luin.se/inko/180-1.pdf">
+          Pa&ubreve;lo kaj Virginio</url></vrk>,
+          <lok>1905</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_l;&c_mol;&c_v;&c_a;&c_s;</trd>,
+    <trd>&c_a;&c_l;&c_mol;&c_ja;&c_s;</trd>
+  </trdgrp>
+  <trd lng="bg">&c_a;&c_l;&c_o;&c_je;</trd>
+  <trd lng="ca">&agrave;loe</trd>
+  <trd lng="cs">aloe</trd>
+  <trd lng="de">Aloe</trd>
+  <trd lng="en">aloe</trd>
+  <trdgrp lng="es">
+     <trd>&aacute;loe</trd>,
+     <trd>aloe</trd>
+  </trdgrp>
+  <trd lng="fr">alo&egrave;s</trd>
+  <trd lng="hu">alo&eacute;</trd>
+  <trd lng="nl">alo&euml;</trd>
+  <trdgrp lng="pt">
+    <trd>babosa</trd>,
+    <trd>alo&eacute;s</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_a;&c_l;&c_o;&c_e;</trd>,
+    <trd>&c_s;&c_t;&c_o;&c_l;&c_je;&c_t;&c_n;&c_i;&c_k;</trd>
+  </trdgrp>
+  <trd lng="sk">aloe</trd>
+  <trd lng="sv">aloe</trd>
+</drv>
+
+<drv mrk="alo.0ajxo">
+  <kap><tld/>a&jcirc;o</kap>
+  <snc mrk="alo.0ajxo.MED">
+    <uzo tip="fak">MED</uzo>
+    <dif>
+      Laksiga rezino, ricevata el folioj de iuj specioj de <tld/>o.
+    </dif>
+  </snc>
+  <trd lng="ca">s&egrave;ver</trd>
+</drv>
+</art>
+<!--
+$Log: alo.xml,v $
+Revision 1.25  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.24  2015/03/11 21:10:17  revo
+Wolfram Diestel: -tajperaro
+
+Revision 1.23  2013/08/27 10:10:29  revo
+Wolfram Diestel: referenco al listo bot genroj
+
+Revision 1.22  2012/08/04 17:10:15  revo
+Marc Rausell: + trd ca
+
+Revision 1.21  2010/08/19 16:30:18  revo
+Agustin Garcia Lopez: +trd es
+
+Revision 1.20  2009/01/03 17:31:40  revo
+Wieland Pusch: +trd bg
+
+Revision 1.19  2008/01/05 17:30:18  revo
+Jeromo Vasxe: + ekz, retusx. dif.
+
+Revision 1.18 2004/03/09 17:31:36 revo
+Dmitri Gabinski: +trd be
+
+Revision 1.17 2003/05/18 18:02:02 revo
+-->
+</vortaro>

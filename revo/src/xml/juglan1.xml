@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: juglan1.xml,v 1.12 2013/08/25 16:10:35 revo Exp $">
+<kap>
+  <rad>juglandujac</rad>/oj
+</kap>
+<drv mrk="juglan1.0oj">
+  <kap>
+    <tld/>oj
+  </kap>
+  <uzo tip="fak">BOT</uzo>
+  <snc>
+    <dif>
+      <ref tip="lst" cel="famili.0o.BIO"
+      lst="voko:botanikaj_familioj">Familio</ref> de <ref tip="malprt"
+      cel="kotile.du0aj">dukotiledonaj</ref>
+      plantoj (<trd lng="la">Juglandaceae</trd>).
+    </dif>
+  </snc>
+  <trd lng="ca">jugland&agrave;cies</trd>
+  <trd lng="de">Walnussgew&auml;chse</trd>
+  <trd lng="fr">juglandac&eacute;es</trd>
+  <trdgrp lng="hu">
+    <trd>di&oacute;f&eacute;l&eacute;k</trd>,
+    <trd>di&oacute;faf&eacute;l&eacute;k</trd>
+  </trdgrp>
+  <trd lng="it">juglandacee</trd>
+  <trdgrp lng="nl">
+    <trd>walnootfamilie</trd>,
+    <trd>okkernootfamilie</trd>
+  </trdgrp>
+  <trd lng="pt">jugland&aacute;ceas</trd>
+  <trd lng="ru">&c_o;&c_r;&c_je;&c_h;&c_o;&c_v;&c_y;&c_je; 
+<klr tip="amb">(&c_s;&c_je;&c_m;&c_je;&c_j;&c_s;&c_t;&c_v;&c_o;)</klr></trd>
+  <trd lng="sv">valn&ouml;tsv&auml;xter</trd>
+</drv>
+</art>
+<!--
+$Log: juglan1.xml,v $
+Revision 1.12  2013/08/25 16:10:35  revo
+Wolfram Diestel: referencoj al listo bot familioj
+
+Revision 1.11  2012/09/04 14:10:17  revo
+Marc Rausell: + trd ca
+
+Revision 1.10  2009/03/19 18:17:13  revo
+Antonio Codazzi: +trd it
+
+Revision 1.9  2004/10/20 16:32:31  revo
+Wolfram Diestel: germ ort.
+
+Revision 1.8  2004/09/26 16:32:40  revo
+Marc Bavant: +trd fr
+
+Revision 1.7  2002/05/09 18:42:49  revo
+Eduardo M. Kalinowski: ald trd pt
+
+Revision 1.6  2002/05/03 16:33:59  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.5  2001/11/21 17:40:34  revo
+-->
+</vortaro>

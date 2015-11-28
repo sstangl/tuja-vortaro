@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: cxasi.xml,v 1.17 2015/09/15 00:10:17 revo Exp $">
+<kap>
+  <ofc>9</ofc>
+  <rad>&ccirc;asi</rad>/o
+</kap>
+
+<drv mrk="cxasi.0o">
+  <kap><ofc>9</ofc><tld/>o</kap>
+  <uzo tip="fak">TEK</uzo>
+  <snc>
+    <dif>
+      Baza <ref tip="super" cel="fram.0o">framo</ref> de rada veturilo, 
+      portanta karoserion, motoron, aksojn, radojn ktp
+      <!-- Suba parto de veturilo, kun aksoj kaj radoj.-->
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="kadr.0o">kadro</ref>.
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_sh;&c_a;&c_s;&c_ib;</trd>
+  <trdgrp lng="de">
+    <trd>Fahrgestell</trd>,
+    <trd>Chassis</trd>
+  </trdgrp>
+  <trd lng="en">chassis</trd>
+  <trd lng="es">chas&iacute;s</trd>
+  <trd lng="fr">ch&acirc;ssis</trd>
+  <trd lng="hu">alv&aacute;z</trd>
+  <trd lng="it">telaio<klr> (meccanica)</klr></trd>
+  <trd lng="nl">chassis</trd>
+  <trdgrp lng="pl">
+    <trd>podwozie</trd>,
+    <trd>chassis</trd>,
+    <trd>rama<klr> pojazdu</klr></trd>
+  </trdgrp>
+  <trd lng="pt">chassi</trd>
+  <trd lng="ru">&c_sh;&c_a;&c_s;&c_s;&c_i;</trd>
+</drv>
+</art>
+<!--
+$Log: cxasi.xml,v $
+Revision 1.17  2015/09/15 00:10:17  revo
+Antonio Codazzi: +it
+
+Revision 1.16  2009/04/24 16:30:55  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.15  2008/12/01 16:47:10  revo
+Marc Bavant: konformigis al 9OA
+
+Revision 1.14  2007/06/17 16:30:31  revo
+Wieland Pusch: +trd de
+Revision 1.13  2003/12/07 17:30:34  revo
+Dmitri Gabinski: +trd be
+Revision 1.12  2002/12/20 17:33:52  revo
+Jozefo Horvath: +trd hu
+Revision 1.11  2002/05/21 16:35:28  revo
+Alejandro Mejia Greene: ald 1 hi strd
+Revision 1.10  2002/05/15 16:38:29  revo
+Eduardo M. Kalinowski: ald trd pt
+Revision 1.9  2002/01/11 17:32:42  revo
+Karlo Freeman: +trd=en
+Revision 1.8  2001/11/22 17:34:22  revo
+-->
+</vortaro>

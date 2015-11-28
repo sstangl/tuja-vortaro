@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: kontor.xml,v 1.21 2015/07/04 08:37:38 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>kontor</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="kontor.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="kontor.0o.EKON">
+    <dif>
+      <ref tip="super" cel="ofic.0ejo">Oficejo</ref>, kiu peras al
+      klientoj la servojn de komerca, industria <ref tip="malprt"
+      cel="kompan.0o.afero">kompanio</ref>:
+      <ekz>
+        la <tld/>o de la fabriko;
+      </ekz>
+      <ekz>
+        en sabato &ndash; tre maloportune, &ccirc;ar &ccirc;iuj <tld/>oj kaj anka&ubreve;
+        informejoj estas fermitaj
+        <fnt><aut>nikst</aut>, <vrk>Adresoj de Ortodoksa eklezio en
+        RU/USA</vrk>, <lok>soc.culture.esperanto,
+        1996-02-13</lok></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="agent.0ejo">agentejo</ref>,
+      <ref cel="faktor1.0o">faktorio</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_k;&c_a;&c_n;&c_t;&c_o;&c_r;&c_a;</trd>,
+    <trd>&c_k;&c_a;&c_n;&c_c;&c_y;&c_l;&c_ja;&c_r;&c_y;&c_ja;</trd>,
+    <trd>&c_b;&c_ju;&c_r;&c_o;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>kancelář</trd>,
+    <trd>kontoár</trd>,
+    <trd>písárna</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Handelskontor</trd>,
+    <trd>Fabrikb&uuml;ro</trd>,
+    <trd>B&uuml;ro</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>countinghouse</trd>,
+    <trd>bureau</trd>,
+    <trd><klr>accounting</klr> office</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>agence</trd>,
+    <trd>succursale</trd>
+  </trdgrp>
+  <trd lng="hu">iroda</trd>
+  <trd lng="nl">kantoor</trd>
+  <trdgrp lng="ru">
+    <trd>&c_k;&c_o;&c_n;&c_t;&c_o;&c_r;&c_a;</trd>,
+    <trd>&c_k;&c_a;&c_n;&c_c;&c_je;&c_l;&c_ja;&c_r;&c_i;&c_ja;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>kancelária</trd>,
+    <trd>pisáreň</trd>
+  </trdgrp>
+  <trd lng="sv">kontor</trd>
+</drv>
+
+<drv mrk="kontor.0isto">
+  <kap><tld/>isto</kap>
+  <uzo tip="stl">RAR</uzo>
+  <snc mrk="kontor.0isto.EKON">
+    <dif>
+      Homo, kiu laboras en <tld/>o.
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>koncipient</trd>,
+    <trd>kontoárista</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Kontorist</trd>,
+    <trd>kaufm&auml;nnischer Angestellter</trd>
+  </trdgrp>
+  <trd lng="en">clerk</trd>
+  <trd lng="fr">employ&eacute; d'agence</trd>
+  <trdgrp lng="hu">
+    <trd>irodista</trd>,
+    <trd>irodai dolgoz&oacute;</trd>
+  </trdgrp>
+  <trd lng="nl">kantoorbediende</trd>
+  <trd lng="pt">escrit&oacute;rio</trd>
+  <trdgrp lng="ru">
+    <trd>&c_k;&c_o;&c_n;&c_t;&c_o;&c_r;&c_s;&c_k;&c_i;&c_j; &c_s;&c_l;&c_u;&c_zh;&c_a;&c_shch;&c_i;&c_j;</trd>,
+    <trd>&c_k;&c_l;&c_je;&c_r;&c_k;</trd>,
+    <trd>&c_k;&c_a;&c_n;&c_c;&c_je;&c_l;&c_ja;&c_r;&c_i;&c_s;&c_t;</trd>
+  </trdgrp>
+  <trd lng="sk">koncipient</trd>
+</drv>
+</art>
+<!--
+$Log: kontor.xml,v $
+Revision 1.21  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.19  2013/04/19 01:10:07  revo
+Jeromo Vasxe: kor trd fr
+
+Revision 1.18  2006/11/27 17:30:18  revo
+Tulio Flores: +tr pt
+
+Revision 1.17  2005/12/28 17:30:59  revo
+Wieland Pusch: +trd de
+
+Revision 1.16  2005/03/20 17:51:44  revo
+Jeromo Vasxe: postkor.
+
+Revision 1.15 2005/03/19 17:31:57 revo
+jxeromo vasxe: + ekz, retusx. dif. kun tez
+
+Revision 1.14 2004/05/22 16:33:01 revo
+Jozefo Horvath: kor. trd hu kontoristo
+
+Revision 1.13 2004/05/07 16:31:42 revo
+Jozefo Horvath: +trd hu
+
+Revision 1.12 2002/12/01 17:30:49 revo
+-->
+</vortaro>

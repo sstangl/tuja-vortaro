@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: nefrit1.xml,v 1.11 2015/07/04 08:37:40 revo Exp $">
+<kap>
+  <rad>nefrit</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="nefrit1.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="nefrit1.0o.MED">
+    <uzo tip="fak">MED</uzo>
+    <dif>
+      Ren<ref tip="lst" cel="brul.0umo.MED"
+      lst="voko:malsanoj">brulumo</ref>:
+      <ekz>
+        &gcirc;i resanigas la malsanojn kiel la <tld/>o, la artika
+        re&ubreve;matismo kaj la podagro
+        <fnt>
+          <vrk><url
+          ref="http://www5d.biglobe.ne.jp/~hel/JOKO/AT22-es.htm">sokoni</url></vrk>,
+          <lok>el AinuTimes, 2002-06-20</lok>
+        </fnt>
+      </ekz>
+      <ekz>
+        Mendel mortis la 6-an de januaro 1884 en Brno 
+        <klr>...</klr> pro &hcirc;ronika <tld/>o
+        <fnt><bib>Viki</bib>, <lok>artikolo &leftquot;Johann Gregor Mendel&rightquot;, 
+        2005-11-15</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <rim mrk="nefrit1.0o.RIM_HOM">
+    <ref tip="hom" cel="nefrit.0o">Nefrito</ref> anka&ubreve; estas la 
+    nomo de juvel&scirc;tono.
+  </rim>
+  <trd lng="ca">nefritis</trd>
+  <trd lng="de">Nephritis</trd>
+  <trd lng="en">nephritis</trd>
+  <trdgrp lng="fa">
+    <trd>&a_n;&a_kasra;&a_f;&a_r;&f_y;&a_t;</trd>,
+    <trd>&a_A;&a_l;&a_t;&a_h;&a_A;&a_b; &f_k;&a_l;&f_y;&a_h;</trd>
+  </trdgrp>
+  <trd lng="fr">n&eacute;phrite<klr> (m&eacute;d.)</klr></trd>
+  <trd lng="id">nefritis</trd>
+  <trdgrp lng="nl">
+    <trd>nierontsteking</trd>,
+    <trd>nefritis</trd>
+  </trdgrp>
+  <trd lng="hu">vesegyullad&aacute;s</trd>
+  <trd lng="sk">zápal obličiek</trd>
+  <trdgrp lng="cs">
+    <trd>nefritis</trd>,
+    <trd>zánět ledvin</trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log: nefrit1.xml,v $
+Revision 1.11  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.10  2015/06/29 16:33:21  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.9  2014/11/19 07:10:22  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.8  2013/10/09 19:11:37  revo
+Wolfram Diestel: ref al lst malsanoj
+
+Revision 1.7  2011/12/05 00:10:25  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.6  2011/02/20 16:10:13  revo
+Russ Williams: +trd en
+
+Revision 1.5  2009/10/15 16:31:16  revo
+Paul Peeraerts: +nl
+
+Revision 1.4  2009/06/06 16:30:48  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.3  2007/05/12 16:30:23  revo
+Wieland Pusch: +trd de
+
+Revision 1.2  2007/02/09 17:30:30  revo
+-->
+</vortaro>

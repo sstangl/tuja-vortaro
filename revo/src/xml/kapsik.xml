@@ -1,0 +1,131 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: kapsik.xml,v 1.26 2015/07/04 08:37:36 revo Exp $">
+<kap>
+  <ofc>9</ofc> <rad>kapsik</rad>/o <fnt>Z</fnt> 
+  <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="kapsik.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="kapsik.0o.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      <ref tip="lst" cel="herb.0o" lst="voko:solanoparencoj">herbo</ref>
+      &ccirc;e la bazo ofte ligneca, kun longaj ovalaj glatrandaj folioj
+      sur tigetoj,  kvinnombraj blankaj, violkoloraj a&ubreve; verdetaj 
+      floroj kaj grandaj, diversformaj, ene kavaj beroj 
+      (<ref tip="prt" cel="kapsik.0o.KUI"><tld/>o<sncref 
+      ref="kapsik.0o.KUI"/></ref>);
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:botanikaj_genroj">genro</ref> el familio <ref
+      tip="malprt" cel="solana.0oj">solanacoj</ref>
+      (<trd lng="la">Capsicum</trd>).
+    </dif>
+    <trdgrp lng="ca">
+      <trd>pebrotera</trd>,
+      <trd>pebrer</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="kapsik.0o.KUI">
+    <uzo tip="fak">KUI</uzo>
+    <dif>
+      Verda, ru&gcirc;a a&ubreve; flava glob- a&ubreve; longforma frukto de <tld/>o<sncref
+      ref="kapsik.0o.BOT"/>, kun multaj semoj pendantaj interne,
+      uzata kiel <ref tip="super" cel="legom.0o.KUI">legomo</ref> kaj
+      kiel spico:
+      <ekz>
+        akra kapsiko;
+      </ekz>
+      <ekz>
+        neakra kapsiko;
+      </ekz>
+      <ekz>
+        el kapsiko oni faras <ref cel="paprik.0o">paprikon</ref>.
+      </ekz>
+    </dif>
+    <trdgrp lng="ca">
+      <trd>pebrot</trd>,
+      <trd>pebrera</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="be">&c_p;&c_je;&c_r;&c_a;&c_c; <klr>(&c_s;&c_t;&c_r;&c_u;&c_ch;&c_k;&c_o;&c_v;&c_y;)</klr></trd>
+  <trd lng="cs">paprika roční</trd>
+  <trd lng="de">Paprika</trd>
+  <trd lng="en">pepper</trd>
+  <trd lng="fr">poivron</trd>
+  <trd lng="hu">paprika</trd>
+  <trd lng="nl">paprika</trd>
+  <trd lng="pl">papryka</trd>
+  <trd lng="ru">&c_s;&c_t;&c_r;&c_u;&c_ch;&c_k;&c_o;&c_v;&c_y;&c_j; &c_p;&c_je;&c_r;&c_je;&c_c;</trd>
+  <trd lng="sk">paprika <klr>(rastlina)</klr></trd>
+  <trd lng="tr">dolmal&inodot;k biber</trd>
+</drv>
+
+<drv mrk="kapsik.0eto">
+  <kap><ofc>9</ofc> <tld/>eto</kap>
+  <snc mrk="kapsik.0eto.KUI">
+    <uzo tip="fak">KUI</uzo>
+    <dif>
+      Malgranda ordinare tre akra <tld/>o<sncref ref="kapsik.0o.KUI"/>:
+      <ekz>
+        brezu la ru&gcirc;an kaj verdan neakrajn kapsikojn, la kukurbon kaj
+        la akrajn <tld/>etojn dum 5 minutoj
+        <fnt>
+        <aut>-</aut>,
+        <vrk>Fajreca kokida&jcirc;o kun legomoj</vrk>,
+        <lok><url ref="http://eo.wikibooks.org/wiki/Kuirlibro">
+        Vikimedia Kuirlibro</url>, 2005</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="ca">
+      <trd>vitet</trd>,
+      <trd>bitxo</trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="en">
+    <trd>chili</trd>,
+    <trd>chilli</trd>
+  </trdgrp>
+  <trd lng="fr">piment</trd>
+  <trdgrp lng="nl">
+    <trd>lombok</trd>,
+    <trd>Spaanse peper</trd>
+  </trdgrp>
+  <trd lng="tr">biber</trd>
+</drv>
+</art>
+<!--
+$Log: kapsik.xml,v $
+Revision 1.26  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.25  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.24  2013/11/02 18:10:14  revo
+Wolfram Diestel: prilaboris dif, ref al lst solanoparencoj
+
+Revision 1.23  2013/08/29 15:10:22  revo
+Wolfram Diestel: forigis ref al spico, cxar konfuza
+
+Revision 1.22  2013/08/29 13:10:15  revo
+Wolfram Diestel: referenco al listo bot genroj, spicoj
+
+Revision 1.21  2012/09/01 18:10:15  revo
+Marc Rausell: + trd ca
+
+Revision 1.20  2009/08/27 16:31:55  revo
+Emmanuel Debanne: +trd tr
+
+Revision 1.19  2009/08/23 16:33:53  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.18  2008/01/20 17:30:19  revo
+Jeromo Vasxe: + snc en ~eto, reordig. trd fr
+
+Revision 1.17 2008/01/18 17:30:18 revo
+-->
+</vortaro>

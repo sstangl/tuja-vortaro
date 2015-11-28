@@ -1,0 +1,198 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: cxifr.xml,v 1.20 2013/11/27 21:10:13 revo Exp $">
+<kap>
+<ofc>3</ofc>
+<rad>&ccirc;ifr</rad>/o
+</kap>
+<drv mrk="cxifr.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">MIL</uzo>
+  <uzo tip="fak">KOMP</uzo>
+  <snc>
+    <dif>
+      Sekreta interkonsentita skribsignaro:
+      <ekz>
+        skribi <tld/>e, per <tld/>o;
+      </ekz>
+      <ekz>
+        <ind><tld/>a telegramo</ind>.
+        <trd lng="it">telegramma cifrato</trd>
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="kod.0o.SCI">kodo</ref>
+  </snc>
+  <trd lng="be">&c_sh;&c_y;&c_f;&c_r;</trd>
+  <trd lng="bg">&c_sh;&c_i;&c_f;&c_malmol;&c_r;</trd>
+  <trdgrp lng="de">
+    <trd>Chiffre</trd>,
+    <trd>Schl&uuml;ssel</trd>,
+    <trd>Verschl&uuml;sselung</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>cipher</trd>,
+    <trd>code</trd>,
+    <trd>secret writing</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>cifra</trd>,
+    <trd>c&oacute;digo</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>chiffre<klr tip="ind"> (code secret)</klr></trd>,
+    <trd>code<klr tip="ind"> (secret)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>rejtjel</trd>,
+    <trd>titkos&iacute;r&aacute;s</trd>
+  </trdgrp>
+  <trd lng="it">cifra<klr> (di codice segreto)</klr></trd>
+  <trd lng="nl">sleutel<klr tip="ind"> (v.code)</klr></trd>
+  <trdgrp lng="pl">
+    <trd>szyfr</trd>,
+    <trd>kod</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>cifra</trd>,
+    <trd>c&oacute;digo</trd>
+  </trdgrp>
+  <trd lng="ru">&c_sh;&c_i;&c_f;&c_r;</trd>
+  <trd lng="sk">&scaron;ifra</trd>
+  <trd lng="sv">chiffer</trd>
+</drv>
+
+<drv mrk="cxifr.0i">
+  <kap><tld/>i</kap>
+  <uzo tip="fak">MIL</uzo>
+  <uzo tip="fak">KOMP</uzo>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      Transskribi ion, ekz-e tekston, en <tld/>on.
+    </dif>
+    <ref tip="sin" cel="kod.0i.SCI">kodi</ref>
+  </snc>
+  <trd lng="be">&c_sh;&c_y;&c_f;&c_r;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="bg">&c_p;&c_i;&c_sh;&c_a; &c_s; <ind>&c_sh;&c_i;&c_f;&c_malmol;&c_r;</ind></trd>
+  <trdgrp lng="de">
+    <trd>verschl&uuml;sseln</trd>,
+    <trd>chiffrieren</trd>,
+    <trd>kodieren</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>encrypt</trd>,
+    <trd>encode</trd>
+  </trdgrp>
+  <trd lng="es">cifrar</trd>
+  <trdgrp lng="fr">
+    <trd>chiffrer <klr tip="ind">(avec un code secret)</klr></trd>,
+    <trd>crypter</trd>,
+    <trd>encrypter</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>rejtjelez</trd>,
+    <trd>sifr&iacute;roz</trd>,
+    <trd>k&oacute;dol</trd>
+  </trdgrp>
+  <trd lng="it">cifrare</trd>
+  <trdgrp lng="nl">
+    <trd>versleutelen</trd>,
+    <trd>encrypteren</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>szyfrowa&cacute;</trd>,
+    <trd>kodowa&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>cifrar</trd>,
+    <trd>codificar</trd>,
+    <trd>criptografar</trd>
+  </trdgrp>
+  <trd lng="ru">&c_sh;&c_i;&c_f;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="sk">&scaron;ifrova&tcaron;</trd>
+  <trd lng="sv">chiffrera</trd>
+</drv>
+
+<drv mrk="cxifr.mal0i">
+  <kap>mal<tld/>i</kap>
+  <uzo tip="fak">MIL</uzo>
+  <uzo tip="fak">KOMP</uzo>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      Transskribi ion de <tld/>o en klaran lingvon.
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="decxif.0i">de&ccirc;ifri</ref>,
+      <ref cel="kod.mal0i.SCI">malkodi</ref>.
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_r;&c_a;&c_s;&c_sh;&c_y;&c_f;&c_r;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="bg">&c_d;&c_je;&c_sh;&c_i;&c_f;&c_r;&c_i;&c_r;&c_a;&c_m;</trd>
+  <trdgrp lng="de">
+    <trd>entschl&uuml;sseln</trd>,
+    <trd>dechiffrieren</trd>,
+    <trd>dekodieren</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>decrypt</trd>,
+    <trd>decode</trd>
+  </trdgrp>
+  <trd lng="es">descifrar</trd>
+  <trdgrp lng="fr">
+    <trd>d&eacute;chiffrer <klr tip="ind">(avec un code secret)</klr></trd>,
+    <trd>d&eacute;crypter</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>megfejt<klr tip="ind"> (titkos&iacute;r&aacute;st)</klr></trd>,
+    <trd>dek&oacute;dol</trd>,
+    <trd>desifr&iacute;roz</trd>
+  </trdgrp>
+  <trd lng="it">decifrare</trd>
+  <trdgrp lng="pl">
+    <trd>deszyfrowa&cacute;</trd>,
+    <trd>dekodowa&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>decrypten</trd>,
+    <trd>ontsleutelen</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>decrifar</trd>,
+    <trd>decodificar</trd>,
+    <trd>descriptografar</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>de&scaron;ifrova&tcaron;</trd>,
+    <trd>l&uacute;&scaron;ti&tcaron; <klr>(&scaron;ifru)</klr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: cxifr.xml,v $
+Revision 1.20  2013/11/27 21:10:13  revo
+Joop Eggen: +trd bg
+
+Revision 1.19  2010/01/18 17:31:55  revo
+Russ Williams: +trd en
+
+Revision 1.18  2009/07/11 16:30:59  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.17  2009/04/27 16:31:28  revo
+Sebastian Cyprych: +trd pl +ref kod.
+
+Revision 1.16  2009/04/17 19:48:49  revo
+Antonio Codazzi: +trd it
+
+Revision 1.15  2004/09/16 16:32:11  revo
+Juergen Brandt: +trd de
+
+Revision 1.14  2003/12/08 17:32:00  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.13  2003/03/28 17:31:59  revo
+-->
+</vortaro>

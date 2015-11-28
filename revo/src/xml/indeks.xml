@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: indeks.xml,v 1.18 2015/07/04 08:37:36 revo Exp $">
+<kap>
+  <ofc>4</ofc>
+  <rad>indeks</rad>/o
+</kap>
+<drv mrk="indeks.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="indeks.0o.TIP">
+    <uzo tip="fak">TIP</uzo>
+    <dif>
+      Aboca <ref tip="super" cel="list.0o.KOMUNE">listo</ref> de vortoj
+      a&ubreve; nomoj,
+      ordinare kun indiko de la originalaj trovlokoj de la listeroj:
+      <ekz>
+        <tld/>o de propraj nomoj;
+      </ekz>
+      <ekz>
+        historia <tld/>o.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_ib;&c_n;&c_d;&c_e;&c_k;&c_s;</trd>,
+      <trd>&c_u;&c_k;&c_a;&c_z;&c_a;&c_l;&c_mol;&c_n;&c_ib;&c_k;</trd>
+    </trdgrp>
+    <trd lng="de">Index</trd>
+    <trd lng="it">indice<klr> (di un testo)</klr></trd>
+    <trd lng="pt">&iacute;ndex<klr tip="amb"> (&iacute;ndice de livro)</klr></trd>
+    <trdgrp lng="ru">
+      <trd>&c_i;&c_n;&c_d;&c_je;&c_k;&c_s;</trd>,
+      <trd>&c_u;&c_k;&c_a;&c_z;&c_a;&c_t;&c_je;&c_l;&c_mol;</trd>,
+      <trd>&c_s;&c_p;&c_r;&c_a;&c_v;&c_o;&c_ch;&c_n;&c_a;&c_ja; &c_t;&c_a;&c_b;&c_l;&c_i;&c_c;&c_a;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="indeks.0o.KAT">
+    <uzo tip="fak">KAT</uzo>
+    <dif>
+      Listo de libroj, kies legadon malpermesis la katolika eklezio.
+    </dif>
+    <trd lng="be">&c_ib;&c_n;&c_d;&c_e;&c_k;&c_s;</trd>
+    <trd lng="de">Index</trd>
+    <trd lng="en">Index Librorum Prohibitorum</trd>
+    <trd lng="it">indice<klr> (lista libri proibiti)</klr></trd>
+    <trd lng="pt">&iacute;ndex<klr tip="amb"> (catolicismo)</klr></trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>abecední rejstřík</trd>,
+    <trd>index</trd>,
+    <trd>seznam</trd>
+  </trdgrp>
+  <trd lng="en">index</trd>
+  <trd lng="es">&iacute;ndice</trd>
+  <trd lng="fr">index</trd>
+  <trd lng="hu">index</trd>
+  <trd lng="nl">index</trd>
+  <trdgrp lng="sk">
+    <trd>index</trd>,
+    <trd>zoznam zakázanej literatúry</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: indeks.xml,v $
+Revision 1.18  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.16  2010/10/28 16:30:32  revo
+Antonio Codazzi: +trd it
+
+Revision 1.15  2010/04/20 16:30:33  revo
+Russ Williams: +trd en
+
+Revision 1.14  2006/01/22 17:31:20  revo
+Jeromo Vasxe: + fak tip
+
+Revision 1.13  2005/11/02 17:31:20  revo
+Luiz Portella: +trd pt
+
+Revision 1.12  2005/10/31 17:31:19  revo
+Jeromo Vasxe: kor. tez k dif.
+
+Revision 1.11 2004/02/09 17:31:03 revo
+Dmitri Gabinski: +trd be
+
+Revision 1.10 2003/01/16 17:32:52 revo
+Alejandro Mejia Greene: ald 1 his trd
+
+Revision 1.9 2002/08/03 18:52:31 revo
+-->
+</vortaro>

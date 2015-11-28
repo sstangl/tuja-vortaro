@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: alkal.xml,v 1.20 2015/07/04 08:37:30 revo Exp $">
+<kap>
+  <rad>alkal</rad>/o <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="alkal.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="alkal.0o.KEM">
+    <uzo tip="fak">KEM</uzo>
+    <dif>
+      Nomo de kelkaj metalaj oksidoj kaj hidroksidoj kun samaj reakcioj:
+      <ref tip="vid" cel="potas.0o">potaso</ref>, 
+      <ref tip="vid" cel="sod.0o">sodo</ref>
+      kaj ceteraj.
+    </dif>
+  </snc>
+  <trd lng="be">&c_sh;&c_ch;&c_o;&c_l;&c_a;&c_ch;</trd>
+  <trd lng="ca">&agrave;lcali</trd>
+  <trdgrp lng="cs">
+    <trd>alkálie</trd>,
+    <trd>zásada <klr>(chem.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="de">
+   <trd>Alkali</trd>,
+   <trd>Laugensalz</trd>
+  </trdgrp>
+  <trd lng="en">alkali</trd>
+  <trd lng="fa">&a_q;&a_l;&f_y;&a_A;</trd>
+  <trd lng="fr">alcali</trd>
+  <trd lng="nl">alcali</trd>
+  <trdgrp lng="pl">
+    <trd>zasada</trd>,
+    <trd>&lstroke;ug</trd>,
+    <trd>alkalium</trd>
+  </trdgrp>
+  <trd lng="pt">&aacute;lcali</trd>
+  <trd lng="ru">&c_shch;&c_jo;&c_l;&c_o;&c_ch;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>alkália</trd>,
+    <trd>z&aacute;sada <klr>(chemick&aacute;)</klr></trd>,
+    <trd>zásada</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="alkal.0eca">
+  <kap><tld/>eca, <var><kap><tld/>a</kap></var></kap>
+  <snc mrk="alkal.0eca.KEM">
+    <dif>
+      Havanta saman reakcion kiel <tld/>o.
+    </dif>
+  </snc>
+  <trd lng="be">&c_sh;&c_ch;&c_o;&c_l;&c_a;&c_ch;&c_n;&c_y;</trd>
+  <trd lng="ca">alcal&iacute;</trd>
+  <trdgrp lng="cs">
+    <trd>alkalický</trd>,
+    <trd>zásaditý</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>alkalisch</trd>,
+    <trd>alkaliartig</trd>
+  </trdgrp>
+  <trd lng="en">alkaline</trd>
+  <trd lng="es">alcalino</trd>
+  <trd lng="fa">&a_q;&a_l;&f_y;&a_A;&f_y;&f_y;</trd>
+  <trd lng="fr">alcalin</trd>
+  <trd lng="nl">alkalisch</trd>
+  <trdgrp lng="pl">
+    <trd>alkaliczny</trd>,
+    <trd>zasadowy</trd>
+  </trdgrp>
+  <trd lng="pt">alcalino</trd>
+  <trd lng="ru">&c_shch;&c_je;&c_l;&c_o;&c_ch;&c_n;&c_o;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>z&aacute;sadit&yacute;</trd>,
+    <trd>zásaditý roztok</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: alkal.xml,v $
+Revision 1.20  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2012/08/02 08:10:18  revo
+Marc Rausell: + trd ca
+
+Revision 1.17  2010/08/29 16:30:20  revo
+Jeromo Vasxe: - kramp
+
+Revision 1.16  2009/08/25 16:33:06  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.15  2006/06/01 16:32:03  revo
+Sebastian Cyprych: +ref potaso,sodo +trd lp
+
+Revision 1.14  2004/03/09 17:31:30  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.13  2003/05/18 18:01:58  revo
+Viliam Bur: +trd sk
+
+Revision 1.12  2002/10/01 16:36:11  revo
+Christopher Zervic: + ang
+
+Revision 1.11  2002/05/09 18:42:20  revo
+-->
+</vortaro>

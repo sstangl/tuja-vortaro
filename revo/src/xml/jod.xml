@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: jod.xml,v 1.24 2015/07/04 08:37:36 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>jod</rad>/o
+</kap>
+<drv mrk="jod.0o">
+  <kap><tld/>o</kap>
+  <mlg kod="IUPAC">I</mlg>
+  <uzo tip="fak">KEM</uzo>
+  <snc>
+    <dif>
+      &Hcirc;emia <ref tip="lst" cel="elemen.0o.KEM"
+      lst="voko:&hcirc;emiaj_elementoj" val="53">elemento</ref> kun
+      atomnumero 53, atompezo 126,9044; 
+      <ref tip="super" cel="haloge.0o">halogeno</ref>, 
+      havanta formon de folietoj blue grizaj kun metala brilo, 
+      uzata en medicino kaj fotografado: 
+      <ekz><tld/>a tinkturo.</ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_jo;&c_d;</trd>
+  <trd lng="bg">&c_j;&c_o;&c_d;</trd>
+  <trd lng="br">iod</trd>
+  <trd lng="ca">iode</trd>
+  <trdgrp lng="cs">
+    <trd>jod</trd>,
+    <trd>jód</trd>
+  </trdgrp>
+  <trd lng="de">Jod</trd>
+  <trd lng="el">&jota;&omega_ton;&delta;&jota;&omikron;</trd>
+  <trd lng="en">iodine</trd>
+  <trd lng="es">yodo</trd>
+  <trd lng="fr">iode</trd>
+  <trd lng="hu">j&oacute;d</trd>
+  <trd lng="id">iodin</trd>
+  <trdgrp lng="it">
+     <trd>iodio</trd>,
+     <trd>iodo</trd>
+  </trdgrp>
+  <trd lng="la">Jodum</trd>
+  <trdgrp lng="nl">
+     <trd>jood<klr tip="ind"> (jodium)</klr></trd>,
+     <trd>jodium</trd>
+  </trdgrp>
+  <trd lng="pl">jod</trd>
+  <trd lng="pt">iodo</trd>
+  <trd lng="ru">&c_j;&c_o;&c_d;</trd>
+  <trd lng="sk">jód</trd>
+  <trd lng="sv">jod</trd>
+</drv>
+</art>
+<!--
+$Log: jod.xml,v $
+Revision 1.24  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.23  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.22  2014/06/04 03:10:43  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.21  2014/01/30 09:10:28  revo
+Joop Eggen: +trd bg
+
+Revision 1.20  2013/09/15 16:10:40  revo
+Wolfram Diestel: simb. laux IUPAC, val
+
+Revision 1.19  2013/08/24 20:11:11  revo
+Wolfram Diestel: referenco al listo elementoj
+
+Revision 1.18  2012/08/04 18:10:14  revo
+Marc Rausell: + trd ca
+
+Revision 1.17  2006/06/05 16:42:11  revo
+Sebastian Cyprych: +trd pl,la +frm
+
+Revision 1.16  2006/01/03 17:31:52  revo
+H. Neal Parker: +trd en
+
+Revision 1.15  2005/04/16 16:33:28  revo
+-->
+</vortaro>

@@ -1,0 +1,174 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: bas.xml,v 1.19 2015/07/04 08:37:31 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>bas</rad>/o
+</kap>
+<drv mrk="bas.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">MUZ</uzo>
+  <snc mrk="bas.0o.registro">
+    <dif>
+      Plej malalta homvo&ccirc;a
+      <ref tip="super" cel="regist.0o.MUZ">registro</ref>,
+      kante uzata preska&ubreve; nur de viroj.
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        &ccirc;iam la profunda <tld/>o de la akvofalo nin akompanadis.
+      </ekz>
+    </dif>
+    <trd lng="de">Bassstimme</trd>
+    <trd lng="fr">basse<klr> (voix)</klr></trd>
+    <trd lng="pl">bas</trd>
+    <trd lng="ru">&c_b;&c_a;&c_s;<klr tip="amb">
+    (&c_g;&c_o;&c_l;&c_o;&c_s;)</klr></trd>
+  </snc>
+  <snc mrk="bas.0o.ulo">
+    <dif>
+      Muzikilo, vo&ccirc;o a&ubreve; kantisto kun basa,
+      a&ubreve; &gcirc;enerale plej malalta registro.
+    </dif>
+    <trd lng="pl">bas</trd>
+  </snc>
+  <trd lng="be">&c_b;&c_a;&c_s;</trd>
+  <trdgrp lng="cs">
+    <trd>bas</trd>,
+    <trd>basový hlas</trd>
+  </trdgrp>
+  <trd lng="de">Bass</trd>
+  <trd lng="en">bass</trd>
+  <trd lng="es">bajo</trd>
+  <trd lng="hu">basszus</trd>
+  <trd lng="it">basso<klr> (mus.)</klr></trd>
+  <trd lng="ru">&c_b;&c_a;&c_s;<klr tip="amb">
+  (&c_p;&c_je;&c_v;&c_je;&c_c;)</klr></trd>
+  <trd lng="sk">bas</trd>
+</drv>
+
+<drv mrk="bas.0a">
+  <kap><tld/>a</kap>
+  <snc>
+    <dif>
+      De plej malalta registro inter vo&ccirc;oj
+      a&ubreve; inter samfamiliaj instrumentoj.
+    </dif>
+    <trd lng="be">&c_b;&c_a;&c_s;&c_o;&c_v;&c_y;</trd>
+    <trdgrp lng="de">
+      <trd>tief</trd>,
+      <trd>bassig</trd>,
+      <trd>Bass-</trd>
+    </trdgrp>
+    <trd lng="en">bass</trd>
+    <trd lng="es">bajo</trd>
+    <trdgrp lng="fr">
+      <trd>bas<klr> (registre musical)</klr></trd>,
+      <trd>de <ind>basse</ind><klr> (musique)</klr></trd>
+    </trdgrp>
+    <trd lng="hu">basszus</trd>
+    <trd lng="it">basso<klr> (agg.) (mus.)</klr></trd>
+    <trd lng="pl">basowy</trd>
+    <trdgrp lng="ru">
+      <trd>&c_b;&c_a;&c_s;&c_o;&c_v;&c_y;&c_j;</trd>,
+      <trd>&c_n;&c_i;&c_z;&c_k;&c_i;&c_j;<klr tip="amb"> (&c_o;
+      &c_z;&c_v;&c_u;&c_k;&c_je;)</klr></trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>dolní</trd>,
+    <trd>nízký <klr>(zeď, hlas)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>dolný</trd>,
+    <trd>nízky</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="bas.0isto">
+  <kap><tld/>isto</kap>
+  <fnt><bib>RokPop</bib></fnt>
+  <uzo tip="fak">MUZ</uzo>
+  <snc>
+    <dif>
+      <ref tip="super" cel="instru2.0isto">Instrumentisto</ref>
+      kiu ludas basan muzikilon,
+      ekzemple basgitaron, kontrabason.
+    </dif>
+    <trd lng="be">&c_b;&c_a;&c_s;&c_ib;&c_s;&c_t;</trd>
+    <trd lng="de">Bassist</trd>
+    <trd lng="en">bassist</trd>
+    <trd lng="es">bajista</trd>
+    <trdgrp lng="fr">
+      <trd>(joueur de) <ind>basse</ind></trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>basszus<klr tip="amb"> (zen&eacute;sz)</klr></trd>,
+      <trd>basszista<klr tip="amb"> (zen&eacute;sz)</klr></trd>,
+    </trdgrp>
+    <trd lng="it">bassista<klr> (mus.)</klr></trd>
+    <trd lng="pl">basista</trd>
+    <trd lng="ru">&c_b;&c_a;&c_s;&c_i;&c_s;&c_t;</trd>
+  </snc>
+</drv>
+
+<drv mrk="bas.0ulo">
+  <kap><tld/>ulo</kap>
+  <uzo tip="fak">MUZ</uzo>
+  <snc>
+    <dif>
+      Basvo&ccirc;a <ref tip="super"
+      cel="kant.0isto.profesio">kantisto</ref>.
+    </dif>
+    <trd lng="be">&c_b;&c_a;&c_s; <klr
+    tip="amb">(&c_s;&c_mol;&c_p;&c_ja;&c_v;&c_a;&c_k;)</klr></trd>
+    <trd lng="de">Bass<klr> [Person]</klr></trd>
+    <trd lng="en">bass (singer)</trd>
+    <trd lng="es">bajo</trd>
+    <trd lng="fr">basse<klr> (chanteur)</klr></trd>
+    <trdgrp lng="hu">
+      <trd>basszus(&eacute;nekes)</trd>,
+      <trd>basszista</trd>,
+    </trdgrp>
+    <trd lng="it">basso<klr> (mus.)</klr></trd>
+    <trd lng="pl">bas<klr> (&sacute;piewak)</klr></trd>
+    <trd lng="ru">&c_b;&c_a;&c_s;<klr  tip="amb">
+    (&c_p;&c_je;&c_v;&c_je;&c_c;)</klr></trd>
+  </snc>
+  <trd lng="cs">basista <klr>(zpěvák)</klr></trd>
+  <trd lng="sk">basista</trd>
+</drv>
+</art>
+<!--
+$Log: bas.xml,v $
+Revision 1.19  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:29:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2010/05/28 16:30:40  revo
+Antonio Codazzi: +trd it
+
+Revision 1.16  2009/03/03 17:30:39  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.15  2004/03/09 17:32:16  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.14  2003/11/01 17:30:45  revo
+Alejandro Mejia Greene: ald 3 his trd
+
+Revision 1.13  2003/09/09 16:32:04  revo
+Yury Finkel: +trd ru, kor trd ru
+
+Revision 1.12 2003/04/06 16:31:17 revo
+Ulrich Fellmann: + 7 trd=de
+
+Revision 1.11 2003/01/13 17:35:48 revo
+Jozefo Horvath: +trd hu
+
+Revision 1.10 2002/11/10 11:40:36 revo
+-->
+</vortaro>

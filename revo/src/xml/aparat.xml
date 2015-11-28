@@ -1,0 +1,272 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: aparat.xml,v 1.31 2015/07/04 08:37:30 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>aparat</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="aparat.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="aparat.0o.TEK">
+    <tezrad fak="TEK"/>	  
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      Kuna&jcirc;o de objektoj a&ubreve; instrumentoj servanta por
+      plenumi
+      ion:
+      <ekz>
+        telegrafa <tld/>o;
+      </ekz>
+      <ekz>
+        a&ubreve;tomata disdona <tld/>o;
+      </ekz>
+      <ekz>
+        <tld/>o por distili vinon.
+      </ekz>
+    </dif>
+    <trdgrp lng="hu">
+      <trd>k&eacute;sz&uuml;l&eacute;k</trd>,
+      <trd>szerkezet</trd>,
+      <trd>eszk&ouml;z</trd>
+    </trdgrp>
+    <trd lng="ca">aparell</trd>
+  <subsnc mrk="aparat.0o.POL">
+    <uzo tip="stl">FIG</uzo>
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      Aro da oficaj organizoj por plenumi socian a&ubreve; societan
+      funkcion:
+      <ekz>
+        la &scirc;tataj administraj <tld/>oj;
+      </ekz>
+      <ekz>
+        mi anka&ubreve; opinias, ke estus tute maltrafe apliki la
+        taktikon de politika partio en SAT ... nia organizo devas
+        esti <tld/>o, kiun &ccirc;iuj samcelanoj uzu por la profito de
+        sia partio a&ubreve; sindikato
+        <fnt>
+          <bib>Lanti</bib>,
+          <vrk>Venis anarkisto...</vrk>
+         </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="hu">
+      <trd>appar&aacute;tus</trd>,
+      <trd>hivatali <ind>g&eacute;pezet</ind></trd>
+    </trdgrp>
+    <trdgrp lng="ca">
+      <trd>aparell</trd>,
+      <trd>aparat</trd>
+    </trdgrp>
+  </subsnc>
+  <subsnc mrk="aparat.0o.BIO">
+    <uzo tip="stl">FIG</uzo>
+    <uzo tip="stl">EVI</uzo>
+    <uzo tip="fak">ANA</uzo>
+    <uzo tip="fak">BIO</uzo>
+    <ref tip="dif" cel="organ.0aro.BIO">organaro</ref>
+    <ekz>
+      la digesta <tld/>o;
+      <trd lng="hu">em&eacute;szt&odblac;rendszer</trd>
+    </ekz>
+    <ekz>
+      Anka&ubreve; bestoj, e&ccirc; plantoj
+      sentas tiujn bezonojn; ili tamen ne pensas kaj sekve ne
+      havas animon. Pli precize: ilia pens- kaj sent<tld/>o estas
+      tiom elementa, ke &gcirc;ia funkciado ne povas produkti
+      animon
+      <fnt>
+        <bib>Lanti</bib>,
+        <vrk>Kio estas animo?</vrk>
+      </fnt>.
+    </ekz>
+    <refgrp tip="vid">
+      <ref cel="organ.0aro">organaro</ref>,
+      <ref cel="sistem.0o.FIZL">sistemo <sncref/></ref>
+    </refgrp>
+    <trdgrp lng="de">
+      <trd>Trakt</trd>,
+      <trd>System</trd>
+    </trdgrp>
+    <trd lng="en">system</trd>
+    <trd lng="hu">szervrendszer</trd>
+    <trdgrp lng="ca">
+      <trd>aparell</trd>,
+      <trd>sistema</trd>
+    </trdgrp>
+  </subsnc>
+  </snc>
+  <snc mrk="aparat.0o.TIP">
+    <uzo tip="fak">TIP</uzo>
+    <uzo tip="fak">BIB</uzo>
+    <dif>
+      Kromteksto (notoj, bibliografio ktp) en scienca libro:
+      <ekz>
+        la kritika <tld/>o de Eneado<fnt>PIV</fnt>.
+      </ekz>
+    </dif>
+    <trd lng="hu">appar&aacute;tus</trd>
+    <trd lng="ca">aparat</trd>
+  </snc>
+  <trd lng="be">&c_a;&c_p;&c_a;&c_r;&c_a;&c_t;</trd>
+  <trdgrp lng="cs">
+    <trd>aparát</trd>,
+    <trd>přístroj</trd>,
+    <trd>zařízení</trd>
+  </trdgrp>
+  <trd lng="de">Apparat</trd>
+  <trdgrp lng="en">
+    <trd>apparatus</trd>,<trd>machine</trd>
+  </trdgrp>
+  <trd lng="es">aparato</trd>
+  <trd lng="fr">appareil</trd>
+  <trd lng="it">apparato</trd>
+  <trd lng="oc">aparelh</trd>
+  <trd lng="ru">&c_a;&c_p;&c_p;&c_a;&c_r;&c_a;&c_t;</trd>
+  <trdgrp lng="sk">
+    <trd>prístroj</trd>,
+    <trd>zariadenie</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="aparat.0aro">
+  <kap><tld/>aro</kap>
+  <snc mrk="aparat.0aro.aro">
+    <dif>
+      Aro da aparatoj.
+    </dif>
+    <ref tip="sin" cel="ekip.0ajxo">ekipa&jcirc;o</ref>
+    <trd lng="it">equipaggiamento<klr> (insieme di apparati)</klr></trd>
+    <trdgrp lng="ca">
+      <trd>equip</trd>,
+      <trd>equipament</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="aparat.0aro.KOMP">
+    <uzo tip="fak">KOMP</uzo>
+    <dif>
+      La tuta materia ekipa&jcirc;o de komputilo, inklude la
+      datumportilojn, ofte kontraste al
+      <ref tip="ant" cel="progra.0aro">programaro</ref>.
+    </dif>
+    <trdgrp lng="de">
+      <trd>Hardware</trd>,
+      <trd>Ausr&uuml;stung</trd>
+    </trdgrp>
+    <trd lng="en">hardware</trd>
+    <trd lng="hu">hardver</trd>
+    <trd lng="it">hardware</trd>
+    <trd lng="ca">maquinari</trd>
+    <trd lng="tr">donan&inodot;m</trd>
+  </snc>
+  <trd lng="be">&c_a;&c_p;&c_a;&c_r;&c_a;&c_t;&c_u;&c_r;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>hardware</trd>,
+    <trd>počítač</trd>,
+    <trd>výpočetní zařízení</trd>
+  </trdgrp>
+  <trd lng="es">equipo <klr>(conjunto de aparatos)</klr></trd>
+  <trdgrp lng="fr">
+    <trd>appareillage</trd>,
+    <trd>mat&eacute;riel</trd>
+  </trdgrp>
+  <trd lng="ru">&c_a;&c_p;&c_p;&c_a;&c_r;&c_a;&c_t;&c_u;&c_r;&c_a;</trd>
+  <trd lng="sk">prístrojové vybavenie</trd>
+</drv>
+
+<drv mrk="aparat.flug0o">
+  <kap>flug<tld/>o</kap>
+  <snc mrk="aparat.flug0o.AVI">
+  <tezrad fak="AVI"/>
+  <uzo tip="fak">AVI</uzo>
+    <dif>
+      Aparato por flugi, voji en aero, ekzemple balono, para&scirc;uto,
+      avio.
+    </dif>
+  </snc>
+  <trd lng="be">&c_l;&c_ja;&c_t;&c_a;&c_l;&c_mol;&c_n;&c_y; 
+&c_a;&c_p;&c_a;&c_r;&c_a;&c_t;</trd>
+  <trd lng="ca">aeronau</trd>
+  <trd lng="cs">letadlo</trd>
+  <trdgrp lng="de">
+    <trd>Flugapparat</trd>,
+    <trd>Flugger&auml;t</trd>
+  </trdgrp>
+  <trd lng="en">flying machine</trd>
+  <trd lng="es">aeronave</trd>
+  <trd lng="fr">vaisseau a&eacute;rien</trd>
+  <trd lng="hu">rep&uuml;l&odblac;eszk&ouml;z</trd>
+  <trdgrp lng="it">
+  <trd>aeromobile</trd>, <trd>macchina volante</trd>
+  </trdgrp>
+  <trd lng="sk">lietadlo</trd>
+</drv>
+
+<drv mrk="aparat.son0o">
+  <kap>son<tld/>o</kap>
+  <snc mrk="aparat.son0o.MUZ">
+    <uzo tip="fak">MUZ</uzo>
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      &Ccirc;ia <tld/>o por ricevo, a&ubreve;digo, registro, a&ubreve;
+      prilaboro de sonoj:
+      <ekz>
+        la a&ubreve;da parto de la a&ubreve;dvida signalo
+        <klr>...</klr> estas anka&ubreve; 
+        uzebla de simpla amplifikilo, kiel tiu de via magnetofono
+        a&ubreve; ia 
+        ajn alia son<tld/>o
+        <fnt>
+          <aut>B. Masala</aut>,
+          <vrk><url ref="http://osiek.org/aera/artik/satelit.html">
+          Persatelita ricevado de radiostacioj en
+          E&ubreve;ropo</url></vrk>,
+          <lok>Osiek, 1996</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <rim mrk="aparat.son0o.RIM_SNC">
+    Hejma Vortaro <fnt><bib>HejmVort</bib></fnt> proponas
+    pli malvastan sencon:
+    <ctl>aparato, plej ofte stereofonia, kiu estas
+    samtempe radioricevilo, magnetofono kaj gramofono.</ctl>
+  </rim>
+  <trd lng="es">equipo de sonido</trd>
+  <trd lng="fr">appareil <ind>audio</ind></trd>
+</drv>
+</art>
+<!--
+$Log: aparat.xml,v $
+Revision 1.31  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.30  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.29  2015/04/02 17:10:16  revo
+Carlos Garcia: +trd es -aro flug- son-
+
+Revision 1.28  2015/04/01 18:10:15  revo
+Josep-Enric Peres-i-Blesa: Aldono de novaj tradukoj katalunaj
+
+Revision 1.27  2014/12/30 14:10:32  revo
+Alain Gerard: +ref
+
+Revision 1.26  2013/07/13 13:10:17  revo
+Benito Subejrano: + trd ca oc
+
+Revision 1.25  2011/02/15 17:10:15  revo
+Jeromo Vasxe: + son~o
+
+Revision 1.24  2010/11/05 17:30:25  revo
+Antonio Codazzi: ++trd it
+
+Revision 1.23  2009/12/22 17:30:41  revo
+Antonio Codazzi: ++trd it +korek trd
+
+Revision 1.22  2009/03/15 17:30:57  revo
+-->
+</vortaro>

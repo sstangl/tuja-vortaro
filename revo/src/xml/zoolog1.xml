@@ -1,0 +1,136 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: zoolog1.xml,v 1.34 2015/07/04 08:37:46 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>zoologi</rad>/o
+  <fnt><bib>F</bib>, <lok>Ekzercaro, &para; 4</lok></fnt>
+</kap>
+<drv mrk="zoolog1.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="zoolog1.0o.SCI">
+    <uzo tip="fak">SCI</uzo>
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      <ref tip="lst" cel="scienc.0o.fako"
+      lst="voko:sciencoj">Scienco</ref> pri
+      la <ref tip="prt" cel="best.0oj">bestoj</ref>, subfako
+      de la <ref tip="malprt" cel="biolog1.0o">biologio</ref>:
+      <ekz>
+        <tld/>a bestarejo.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_z;&c_a;&c_a;&c_l;&c_jo;&c_g;&c_ib;&c_ja;</trd>
+  <trd lng="ca">zoologia</trd>
+  <trd lng="de">Zoologie</trd>
+  <trd lng="el">&zeta;&omega;&omikron;&lambda;&omikron;&gamma;&jota_ton;&alfa;</trd>
+  <trd lng="en">zoology</trd>
+  <trd lng="es">zoolog&iacute;a</trd>
+  <trd lng="fa">&a_j;&a_A;&a_n;&a_w;&a_r;&a_sh;&a_n;&a_A;&a_s;&f_y;</trd>
+  <trdgrp lng="fr">
+    <trd>zoologie</trd>
+  </trdgrp>
+  <trdgrp lng="he">
+    <trd>&tav;&vav;&resh;&tav; &he;&het;&yod;</trd>,
+    <trd>&zayin;&vav;&alef;&vav;&lamed;&vav;&gimel;&yod;&he;</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>&aacute;llattan</trd>,
+    <trd>zool&oacute;gia</trd>
+  </trdgrp>
+  <trd lng="id">zoologi</trd>
+  <trd lng="it">zoologia</trd>
+  <trdgrp lng="nl">
+    <trd>zo&ouml;logie</trd>,
+    <trd>dierkunde</trd>
+  </trdgrp>
+  <trd lng="pt">zoologia</trd>
+  <trd lng="ru">&c_z;&c_o;&c_o;&c_l;&c_o;&c_g;&c_i;&c_ja;</trd>
+  <trdgrp lng="sk">
+    <trd>zool&oacute;gia</trd>,
+    <trd>zoológia</trd>,
+    <trd>živočíchopis</trd>
+  </trdgrp>
+  <trdgrp lng="sv">
+    <trd>zoologi</trd>,
+    <trd>djurl&auml;ra</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="zoolog1.0isto">
+  <kap><tld/>isto</kap>
+  <snc mrk="zoolog1.0isto.SCI">
+    <uzo tip="fak">SCI</uzo>
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      Tiu, kiu okupas sin pri
+      <ref tip="malprt" cel="zoolog1.0o"><tld/>o</ref>.
+    </dif>
+  </snc>
+  <refgrp tip="sin">
+    <ref cel="zoolog.0o">zoologo</ref>
+  </refgrp>
+  <trd lng="be">&c_z;&c_a;&c_o;&c_l;&c_ja;&c_g;</trd>
+  <trd lng="ca">zo&ograve;leg</trd>
+  <trd lng="de">Zoologe</trd>
+  <trd lng="el">&zeta;&omega;&omikron;&lambda;&omikron_ton;&gamma;&omikron;&sigma_fina;</trd>
+  <trd lng="en">zoologist</trd>
+  <trd lng="es">zo&oacute;logo</trd>
+  <trd lng="fa">&a_j;&a_A;&a_n;&a_w;&a_r;&a_sh;&a_n;&a_A;&a_s;</trd>
+  <trdgrp lng="fr">
+    <trd>zoologiste</trd>
+  </trdgrp>
+  <trd lng="he">&zayin;&vav;&alef;&vav;&lamed;&vav;&gimel;</trd>
+  <trd lng="hu">zool&oacute;gus</trd>
+  <trd lng="id">zoolog</trd>
+  <trdgrp lng="it">
+    <trd>zoologo</trd>,
+    <trd>zoologista</trd>
+  </trdgrp>
+  <trd lng="nl">zo&ouml;loog</trd>
+  <trd lng="ru">&c_z;&c_o;&c_o;&c_l;&c_o;&c_g;</trd>
+  <trdgrp lng="pt">
+    <trd>zo&oacute;logo</trd>,
+    <trd>zoologista</trd>
+  </trdgrp>
+  <trd lng="sv">zoolog</trd>
+  <trd lng="sk">zool&oacute;g</trd>
+  <trd lng="sk">zoológ</trd>
+  <trd lng="cs">zoolog</trd>
+</drv>
+</art>
+<!--
+$Log: zoolog1.xml,v $
+Revision 1.34  2015/07/04 08:37:46  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.33  2015/06/28 10:33:41  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.32  2014/11/12 08:10:48  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.31  2013/09/22 19:10:59  revo
+Wolfram Diestel: referenco al listo sciencoj
+
+Revision 1.30  2012/08/11 17:10:13  revo
+Marc Rausell: + trd ca
+
+Revision 1.29  2010/04/24 17:07:57  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.28  2005/08/25 16:33:06  revo
+Jeromo Vasxe: + mrk, + fak sci zoo
+
+Revision 1.27  2002/09/17 16:31:59  revo
+Rastislav Sarissky: +memkor  +trd sk
+
+Revision 1.26  2002/09/16 16:31:27  revo
+Rastislav Sarissky: +trd sk
+
+Revision 1.25  2002/08/16 17:31:38  revo
+-->
+</vortaro>

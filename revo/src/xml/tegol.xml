@@ -1,0 +1,147 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: tegol.xml,v 1.16 2015/07/04 08:37:44 revo Exp $">
+<kap>
+  <ofc>3</ofc>
+  <rad>tegol</rad>/o
+</kap>
+<drv mrk="tegol.0o">
+  <kap><tld/>o</kap>
+  <snc>
+  <uzo tip="fak">KON</uzo>
+    <dif>
+      Diversforma maldika plato el kuirita argilo a&ubreve; cemento, per
+      aro da kiuj oni faras
+      <ref tip="malprt" cel="tegmen.0o">tegmenton</ref>, fiksante ilin
+      tiel, ke ili sin parte interkovras.
+    </dif>
+    <ref tip="sin" cel="sxind.0o">&scirc;indo</ref>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_d;&c_a;&c_h;&c_o;&c_w;&c_k;&c_a;</trd>,
+    <trd>&c_ch;&c_a;&c_r;&c_a;&c_p;&c_ib;&c_c;&c_a;</trd>
+  </trdgrp>
+  <trd lng="cs">střešní taška</trd>
+  <trd lng="de">Ziegel</trd>
+  <trdgrp lng="en">
+    <trd>roofing tile</trd>,
+    <trd>shingle</trd>
+  </trdgrp>
+  <trd lng="fr">tuile</trd>
+  <trd lng="hu">tet&odblac;cser&eacute;p</trd>
+  <trd lng="nl">dakpan</trd>
+  <trd lng="pl">dach&oacute;wka</trd>
+  <trdgrp lng="pt">
+    <trd>telha</trd>
+  </trdgrp>
+  <trd lng="ru">&c_ch;&c_je;&c_r;&c_je;&c_p;&c_i;&c_c;&c_a;</trd>
+  <trd lng="sk">škridlica</trd>
+</drv>
+
+<drv mrk="tegol.0i">
+   <kap><tld/>i</kap>
+   <snc mrk="tegol.0i.kovri">
+     <uzo tip="fak">KON</uzo>
+     <dif>
+       Kovri <ref tip="malprt" cel="tegmen.0o">tegmenton</ref> per
+       <tld/>oj.
+     </dif>
+     <trdgrp lng="pl">
+       <trd>kry&cacute; <ind>dach&oacute;wk&aogonek;</ind></trd>,
+       <trd>k&lstroke;a&sacute;&cacute; <ind>dach&oacute;wki</ind></trd>
+     </trdgrp>
+   </snc>
+   <snc mrk="tegol.0i.arangxi">
+     <dif>
+       Aran&gcirc;i ion tiel ke la elementoj parte kovras unu la alian
+       simile al tegoloj sur tegmento:
+       <ekz>
+       tegoli fenestrojn <klr>sur komputila ekrano</klr>
+        <fnt>
+          <vrk>
+            <url ref="http://komputeko.net">Komputeko</url>
+          </vrk>
+        </fnt>.
+       </ekz>
+     </dif>
+     <trdgrp lng="pl">
+       <trd>ukada&cacute; na <ind>zak&lstroke;adk&eogonek;</ind></trd>,
+       <trd>ukada&cacute; w <ind>kaskad&eogonek;</ind></trd>
+     </trdgrp>
+   </snc>
+  <trd lng="cs">pokrýt střechu taškami</trd>
+  <trdgrp lng="en">
+     <trd>tile</trd>,
+     <trd>shingle</trd>
+   </trdgrp>
+  <trd lng="fr">tuiler</trd>
+  <trd lng="sk">pokrývať škridlicou</trd>
+</drv>
+
+<drv mrk="tegol.0isto">
+   <kap><tld/>isto</kap>
+   <snc>
+     <uzo tip="fak">KON</uzo>
+     <dif>
+      Homo, kiu kovras <ref tip="malprt" cel="tegmen.0o">tegmenton</ref>
+       per <tld/>oj.
+     </dif>
+      <ekz>
+        Coupeau estas kura&gcirc;a kaj laborema tegolisto, kiu riparas
+        tegmentojn
+        <fnt>
+          <aut>Manuel Halvelik</aut>,
+          <vrk>
+            <url
+            ref="http://cindymckee.com/librejo/GAVARO.pdf">Gavaro</url>
+          </vrk>,
+          <lok>4.22 Vomkapeco</lok>
+       </fnt>;
+      </ekz>
+      <trdgrp lng="en">
+        <trd>tiler</trd>,
+        <trd>shingler</trd>,
+        <trd>roofer</trd>
+      </trdgrp>
+      <trd lng="fr">couvreur</trd>
+     <trdgrp lng="pl">
+       <trd>dekarz</trd>
+     </trdgrp>
+   </snc>
+   <ref tip="sin" cel="tegmen.0isto">tegmentisto</ref>
+</drv>
+</art>
+<!--
+$Log: tegol.xml,v $
+Revision 1.16  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.14  2014/06/04 10:10:21  revo
+Damien Brucker: +trd fr
+
+Revision 1.13  2009/02/26 17:31:18  revo
+Russ Williams: +trd en
+
+Revision 1.12  2008/11/14 17:31:38  revo
+Sebastian Cyprych: +drv ~i +drv ~isto +trd pl
+
+Revision 1.11  2006/02/14 17:32:34  revo
+Tulio Flores: +trd pt
+
+Revision 1.10  2005/11/24 17:31:15  revo
+Axel Rousseau: +trd fr
+
+Revision 1.9  2004/11/18 17:31:39  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.8  2002/09/18 16:36:44  revo
+Zmicier Lapcionak: + trd be
+
+Revision 1.7  2002/03/04 17:31:29  revo
+-->
+</vortaro>

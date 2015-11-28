@@ -1,0 +1,163 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: minus.xml,v 1.26 2015/07/04 08:37:39 revo Exp $">
+<kap>
+  <ofc>8</ofc>
+  <rad>minus</rad><fnt>Z</fnt>
+</kap>
+<drv mrk="minus.0">
+  <kap><tld/></kap>
+  <uzo tip="fak">FIZ</uzo>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>PV</bib></fnt>
+  <snc>
+    <dif>
+      <ref cel="konjun.0o">Konjunkcio</ref> esprimanta
+      <ref cel="subtra.0o">subtrahon</ref> a&ubreve; la negativan
+      <ref cel="sign.0o.MAT">signon</ref>:
+      <ekz>
+        <frm>10-4 = 6</frm> <klr>(legu: dek <tld/> kvar estas
+        ses)</klr>;
+      </ekz>
+      <ekz>
+        <frm>4-10 = -6</frm> <klr>(legu: kvar <tld/> dek estas <tld/>
+        ses)</klr>;
+      </ekz>
+      <ekz>
+        en adicie signata grupo, la
+        <ref cel="neuxtr.0iganto.MAT">ne&ubreve;triganton</ref> de elemento
+        <frm><k>a</k></frm> oni signas per <frm>-<k>a</k></frm>
+        <klr>(legu: <tld/> a)</klr>;
+      </ekz>
+      <ekz>
+        temperaturo je <frm>-25&#730;C</frm> <klr>(legu: <tld/> dudek kvin
+        gradoj celsiaj)</klr>;
+      </ekz>
+      <ekz>
+        <tld/>poluso, <tld/>drato.
+      </ekz>
+    </dif>
+    <ref tip="ant" cel="plus.0">plus;</ref>
+    <ref tip="vid" cel="sen.0">sen.</ref>
+  </snc>
+  <trd lng="be">&c_m;&c_ib;&c_n;&c_u;&c_s;</trd>
+  <trd lng="bg">&c_m;&c_i;&c_n;&c_u;&c_s;</trd>
+  <trd lng="ca">menys</trd>
+  <trdgrp lng="cs">
+    <trd>minus</trd>,
+    <trd>mínus</trd>,
+    <trd>pod nulou</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>minus</trd>,
+    <trd>weniger</trd>,
+    <trd>abz&uuml;glich</trd>
+  </trdgrp>
+  <trd lng="en">minus</trd>
+  <trd lng="es">menos</trd>
+  <trd lng="fr">moins</trd>
+  <trd lng="hu">m&iacute;nusz</trd>
+  <trdgrp lng="nl">
+    <trd>min</trd>,
+    <trd>minus</trd>
+  </trdgrp>
+  <trd lng="pl">minus</trd>
+  <trd lng="ru">&c_m;&c_i;&c_n;&c_u;&c_s;</trd>
+  <trdgrp lng="sk">
+    <trd>mínus</trd>,
+    <trd>pod nulou</trd>
+  </trdgrp>
+  <trd lng="sv">minus</trd>
+</drv>
+
+<drv mrk="minus.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="minus.0o.signo">
+    <uzo tip="fak">KOMP</uzo>
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>KompLeks</bib></fnt>
+    <uzo tip="fak">TIP</uzo>
+    <dif>
+      La streketforma <ref tip="super" cel="sign.0o.KOMP">signo</ref>
+      <frm>-</frm>, uzata kiel simbolo de <ref
+      cel="minus.0"><tld/></ref>
+      en formuloj kaj nombroprezentoj.
+    </dif>
+    <ref tip="vid" cel="plus.0o">pluso.</ref>
+    <rim>
+      Troveblas <ctl><tld/>signo</ctl> en <fnt><bib>MatVort</bib></fnt>.
+    </rim>
+    <trd lng="be">&c_z;&c_n;&c_a;&c_k; <ind>&c_m;&c_ib;&c_n;&c_u;&c_s;</ind></trd>
+    <trd lng="bg">&c_o;&c_t;&c_r;&c_i;&c_c;&c_a;&c_t;&c_je;&c_l;&c_n;&c_a; &c_z;&c_n;&c_a;&c_k;</trd>
+    <trd lng="de">Minuszeichen</trd>
+    <trd lng="en">minus sign</trd>
+    <trd lng="es">signo <ind>menos</ind></trd>
+    <trd lng="fr">signe moins</trd>
+    <trd lng="hu">m&iacute;nuszjel</trd>
+    <trd lng="nl">minteken</trd>
+    <trd lng="pl">znak minus</trd>
+    <trd lng="ru">&c_z;&c_n;&c_a;&c_k; <ind>&c_m;&c_i;&c_n;&c_u;&c_s;</ind></trd>
+  </snc>
+  <snc mrk="minus.0o.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Negativa nombro, malavanta&gcirc;o, manko, deficito.
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_m;&c_ib;&c_n;&c_u;&c_s;</trd>,
+      <trd>&c_n;&c_je;&c_d;&c_a;&c_h;&c_o;&c_p;</trd>
+    </trdgrp>
+    <trd lng="es">carencia</trd>
+    <trdgrp lng="fr">
+      <trd>manque</trd>,
+      <trd>d&eacute;ficit</trd>,
+      <trd>moins<klr tip="ind"> (manque)</klr></trd></trdgrp>
+    <trdgrp lng="hu">
+      <trd>negat&iacute;v sz&aacute;m</trd>
+      <trd>m&iacute;nusz</trd>,
+      <trd>hi&aacute;ny</trd>,
+      <trd>deficit</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_m;&c_i;&c_n;&c_u;&c_s;</trd>,
+      <trd>&c_n;&c_je;&c_d;&c_o;&c_s;&c_t;&c_a;&c_t;&c_o;&c_k;</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="cs">minus</trd>
+  <trd lng="sk">mínus</trd>
+</drv>
+</art>
+<!--
+$Log: minus.xml,v $
+Revision 1.26  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.25  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.24  2013/09/13 10:10:13  revo
+Joop Eggen: +trd bg
+
+Revision 1.23  2005/07/07 16:32:57  revo
+Yury Finkel: +trd ru
+
+Revision 1.22  2005/05/16 17:48:06  revo
+Raul Salinas Monteagudo: +trd ca,es
+
+Revision 1.21  2004/07/20 22:21:56  revo
+Marc Bavant: kor ref cel al "sen"
+
+Revision 1.20  2004/06/11 16:31:38  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.19  2003/06/01 16:32:13  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.18  2002/12/15 19:51:48  revo
+Marc Bavant: +ref internaj, mod frm
+
+Revision 1.17  2002/11/30 17:36:14  revo
+-->
+</vortaro>

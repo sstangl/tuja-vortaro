@@ -1,0 +1,160 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: uragan.xml,v 1.29 2015/07/04 08:37:45 revo Exp $">
+<kap>
+   <ofc>1</ofc>
+   <rad>uragan</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="uragan.0o">
+   <kap><tld/>o</kap>
+   <snc mrk="uragan.0o.MET">
+     <uzo tip="fak">MET</uzo>
+     <dif>
+       Fortega detruema ventego:
+       <ekz>
+	 la timo atakos vin kiel <tld/>o
+	 <fnt><bib>MT</bib>, <lok>&Sen; 1:27</lok></fnt>.
+       </ekz>
+     </dif>
+   </snc>
+   <snc mrk="uragan.0o.FIG">
+     <uzo tip="stl">FIG</uzo>
+     <dif>
+       Io fortega, konfuza a&ubreve; bruega kiel <tld/>o:
+       <ekz>
+	 la <tld/>o de via pasio<fnt>Z</fnt>;
+       </ekz>
+       <ekz>
+	 ni staras en <tld/>o de malcerto kaj malakordo;
+       </ekz>
+       <ekz>
+	 la romano vekis <tld/>on da protestoj;
+       </ekz>
+       <ekz>
+	 ektondris <tld/>o de rido, da krioj, da apla&ubreve;doj.
+       </ekz>
+     </dif>
+   </snc>
+  <trd lng="be">&c_u;&c_r;&c_a;&c_g;&c_a;&c_n;</trd>
+  <trd lng="ca">hurac&agrave;</trd>
+  <trdgrp lng="cs">
+    <trd>orkán</trd>,
+    <trd>uragán</trd>,
+    <trd>vichřice</trd>
+  </trdgrp>
+  <trd lng="de">Orkan</trd>
+  <trd lng="en">hurricane</trd>
+  <trd lng="es">hurac&aacute;n</trd>
+  <trd lng="fi">hirmumyrsky</trd>
+  <trd lng="fr">ouragan</trd>
+  <trd lng="hu">ork&aacute;n</trd>
+  <trd lng="it">uragano</trd>
+  <trd lng="nl">orkaan</trd>
+  <trdgrp lng="pl">
+     <trd>huragan</trd>,
+     <trd>orkan</trd>
+   </trdgrp>
+  <trd lng="pt">furac&atilde;o</trd>
+  <trdgrp lng="ru">
+     <trd>&c_u;&c_r;&c_a;&c_g;&c_a;&c_n;</trd>,
+     <trd>&c_b;&c_u;&c_r;&c_ja;</trd>
+   </trdgrp>
+  <trdgrp lng="sk">
+    <trd>urag&aacute;n</trd>,
+    <trd>víchor</trd>
+  </trdgrp>
+  <trd lng="sv">orkan</trd>
+</drv>
+
+<drv mrk="uragan.0a">
+   <kap><tld/>a</kap>
+   <snc mrk="uragan.0a.KOMUNE">
+     <dif>
+       Simila al <tld/>o:
+       <ekz>
+	 li havas tiel <tld/>an karakteron
+	 <fnt><bib>Far1</bib>, <lok>&ccirc;apitro 7a</lok></fnt>;
+       </ekz>
+       <ekz>
+	 <tld/>a juneco<fnt>B</fnt>.
+       </ekz>
+     </dif>
+     <refgrp tip="sin">
+       <ref cel="torent.0a">torenta</ref>
+     </refgrp>
+   </snc>
+   <trd lng="be">&c_u;&c_r;&c_a;&c_g;&c_a;&c_n;&c_n;&c_y;</trd>
+   <trd lng="ca">huracanat</trd>
+   <trd lng="de">orkanartig</trd>
+   <trd lng="es">huracanado</trd>
+   <trd lng="hu">ork&aacute;nszer&udblac;</trd>
+   <trd lng="nl">orkaanachtig</trd>
+   <trd lng="pl">huraganowy</trd>
+   <trd lng="ru">&c_u;&c_r;&c_a;&c_g;&c_a;&c_n;&c_n;&c_y;&c_j;</trd>
+</drv>
+
+<drv mrk="uragan.0i">
+   <kap><tld/>i</kap>
+   <gra><vspec>ntr</vspec></gra>
+   <snc mrk="uragan.0i.KOMUNE">
+     <dif>
+       Furiozi kiel <tld/>o:
+       <ekz>
+	 oni nur imagu, kiel <tld/>is la ridego de l' publiko.
+       </ekz>
+     </dif>
+   </snc>
+  <trdgrp lng="ca">
+     <trd>a&iuml;rar-se</trd>,
+     <trd>enfellonir-se</trd>
+   </trdgrp>
+  <trd lng="cs">zuřit jako uragán</trd>
+  <trd lng="de">toben</trd>
+  <trdgrp lng="fi">
+     <trd>riehua</trd>,
+     <trd>myrskyt&auml;</trd>,
+     <trd>raivota</trd>
+   </trdgrp>
+  <trd lng="hu">tombol</trd>
+  <trd lng="nl">als een <ind>orkaan</ind> te keer gaan</trd>
+  <trdgrp lng="ru">
+     <trd>&c_b;&c_u;&c_sh;&c_je;&c_v;&c_a;&c_t;&c_mol;</trd>,
+     <trd>&c_n;&c_je;&c_i;&c_s;&c_t;&c_o;&c_v;&c_s;&c_t;&c_v;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+   </trdgrp>
+  <trd lng="sk">zúriť ako uragán</trd>
+</drv>
+</art>
+<!--
+$Log: uragan.xml,v $
+Revision 1.29  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.28  2015/06/28 12:03:41  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.27  2013/04/09 12:10:18  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.26  2012/08/13 14:10:30  revo
+Marc Rausell: + trd ca
+
+Revision 1.25  2010/09/06 16:30:23  revo
+Jeromo Vasxe: kor. fusxitan fnt
+
+Revision 1.24  2009/08/20 16:30:49  revo
+Antonio Codazzi: +trd it
+
+Revision 1.23  2009/07/01 17:22:39  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.22  2009/02/10 14:18:32  revo
+Sebastian Cyprych: -fusxaj linirompoj en trd
+
+Revision 1.21  2008/11/14 17:31:49  revo
+Russ Williams: redakto: +trd en
+
+Revision 1.20  2008/05/16 16:31:15  revo
+-->
+</vortaro>

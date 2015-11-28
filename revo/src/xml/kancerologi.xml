@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: kancerologi.xml,v 1.4 2015/07/04 08:37:36 revo Exp $">
+<kap>
+  <rad>kancerologi</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="kancerologi.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="kancerologi.0o.MED">
+    <uzo tip="fak">MED</uzo>
+    <dif>
+      Bran&ccirc;o de <ref tip="malprt" cel="medici.0o.SCI">medicino</ref>,
+      kiu studas kaj kuracas
+      <ref tip="vid" cel="kancer.0o.MED">kancerojn</ref>
+      kaj tumorojn;
+      <ref tip="sin" cel="onkologi.0o.MED">onkologio</ref>:
+      <ekz>
+        aliaj retoj organizi&gcirc;is &ccirc;irka&ubreve; <tld/>o, anta&ubreve;naska prizorgado, 
+        diabeto
+        <fnt>
+          <aut>D. Sicot, trad. V. Lutermano</aut>,
+          <vrk><url ref="http://eo.mondediplo.com/article916.html">
+          Sociala asekuro...</url></vrk>,
+          <lok>le Monde diplomatique, 2004-07</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="ca">
+    <trd>oncologia</trd>,
+    <trd>cancerologia</trd>
+  </trdgrp>
+  <trd lng="cs">lékařský obor nádorových onemocnění</trd>
+  <trdgrp lng="fr">
+    <trd>canc&eacute;rologie</trd>,
+    <trd>oncologie</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>kancerológia</trd>,
+    <trd>výskum rakoviny</trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log: kancerologi.xml,v $
+Revision 1.4  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.3  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.2  2012/01/01 21:10:24  revo
+Marc Rausell: +trd ca
+
+Revision 1.1  2011/12/19 23:10:10  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

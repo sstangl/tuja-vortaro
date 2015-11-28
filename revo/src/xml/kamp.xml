@@ -1,0 +1,566 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: kamp.xml,v 1.42 2015/10/02 19:10:17 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>kamp</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="kamp.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="kamp.0o.KOMUNE">
+    <dif>
+      Ebena a&ubreve; limigita spaco, en kiu okazas io:
+    </dif>
+    <subsnc mrk="kamp.0o.AGR">
+      <uzo tip="fak">AGR</uzo>
+      <dif>
+        Terpeco, ebena a&ubreve; preska&ubreve; ebena, kulturita
+        a&ubreve; kulturebla:
+        <ekz>
+          tritikaj kaj hordeaj <tld/>oj;
+        </ekz>
+        <ekz>
+          <tld/>aj floroj<fnt>Z</fnt>;
+        </ekz>
+        <ekz>
+          <uzo tip="stl">FIG</uzo>
+          la ne&gcirc;aj <tld/>oj<fnt>Z</fnt>.
+        </ekz>
+      </dif>
+      <refgrp tip="sub">
+        <ref cel="agr.0o">agro</ref>
+      </refgrp>
+      <trdgrp lng="de">
+        <trd>Feld</trd>,
+        <trd>Acker</trd>
+      </trdgrp>
+      <trdgrp lng="hu">
+        <trd>f&ouml;ld <klr tip="ind">(term&odblac;-)</klr></trd>,
+        <trd>term&odblac;f&ouml;ld</trd>
+      </trdgrp>
+      <trd lng="id">ladang</trd>
+     <trd lng="it">prato</trd>
+      <trdgrp lng="nl">
+        <trd>veld</trd>,
+        <trd>akker</trd>
+      </trdgrp>
+    </subsnc>
+    <subsnc mrk="kamp.0o.historia">
+      <dif>
+        Loko, en kiu io okazis:
+        <ekz>
+          <tld/>o de l' mortintoj<fnt>Z</fnt>.
+        </ekz>
+      </dif>
+      <trdgrp lng="de">
+        <trd>Feld</trd>,
+        <trd>Gebiet</trd>
+      </trdgrp>
+      <trdgrp lng="hu">
+        <trd>mez&odblac;</trd>,
+        <trd>t&eacute;r</trd>
+      </trdgrp>
+      <trd lng="id">kamp</trd>
+      <trdgrp lng="nl">
+        <trd>veld</trd>,
+        <trd>gebied</trd>
+      </trdgrp>
+    </subsnc>
+    <subsnc mrk="kamp.0o.medio">
+      <dif>
+        Loko, inter kies limoj efikas ia ago:
+        <ekz>
+          operacia <tld/>o
+          <klr>(parto de la korpo, kiun trafas operacio)</klr>;
+        </ekz>
+        <ekz>
+          magneta <tld/>o
+          <klr>(parto de la spaco, kiun regas magnetismo)</klr>.
+        </ekz>
+      </dif>
+      <refgrp tip="vid">
+        <ref cel="medi.0o">medio</ref>.
+      </refgrp>
+      <trdgrp lng="de">
+        <trd>Feld</trd>,
+        <trd>Gebiet</trd>
+      </trdgrp>
+      <trd lng="hu">ter&uuml;let</trd>
+      <trd lng="id">medan</trd>
+      <trd lng="nl">veld</trd>
+    </subsnc>
+    <subsnc mrk="kamp.0o.tereno">
+      <dif>
+        Sumo de la aferoj, kiujn atingas ia agado:
+        <ekz>
+          <tld/>o de laboro, de aktiveco;
+        </ekz>
+        <ekz>
+          la <tld/>o de la historio prezentas multegajn enigmojn;
+        </ekz>
+        <ekz>
+          tiu temo malfermas <tld/>on al <klr>(ebligas)</klr> plej
+          granda fantazio;
+        </ekz>
+        <ekz>
+          prepari <tld/>on por mondpaco.
+        </ekz>
+      </dif>
+      <refgrp tip="vid">
+        <ref cel="aren.0o">areno</ref>,
+        <ref cel="region.0o">regiono</ref>,
+        <ref cel="spac.0o">spaco</ref>,
+        <ref cel="teren.0o">tereno</ref>
+      </refgrp>
+      <trdgrp lng="de">
+        <trd>Feld</trd>,
+        <trd>Bereich</trd>
+      </trdgrp>
+      <trdgrp lng="hu">
+        <trd>ter&uuml;let</trd>,
+        <trd>t&eacute;r</trd>
+      </trdgrp>
+      <trd lng="pl">pole</trd>
+      <trdgrp lng="ru">
+        <trd>&c_n;&c_i;&c_v;&c_a;</trd>,
+        <trd>&c_p;&c_o;&c_l;&c_je;</trd>,
+        <trd>&c_p;&c_o;&c_ch;&c_v;&c_a;</trd>
+      </trdgrp>
+    </subsnc>
+  </snc>
+  <snc mrk="kamp.0o.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>PIV1</bib>, <lok>diver&gcirc;enco</lok></fnt>
+    <uzo tip="klr">(fakula &jcirc;argono, ofte uzata en fiziko)</uzo>
+    <dif>
+      <ref tip="super" cel="bild.0igo.MAT">Bildigo</ref> de iu parto de
+      finidimensia e&ubreve;klida <ref cel="spac.euxklida0o">afina spaco
+      </ref>,
+      provizita per orta ununorma koordinatsistemo, al iu
+      reela <ref cel="spac.vektora0o">vektora spaco</ref>:
+      <ekz>
+        skalara <tld/>o <klr>(la celo-aro estas la aro de reeloj)</klr>,
+      </ekz>
+      <ekz>
+        vektora <tld/>o <klr>(la celo-aro havas pli ol unu
+        dimension)</klr>;
+      </ekz>
+      <ekz>
+        studi la <tld/>on de temperaturoj en varmigita objekto,
+      </ekz>
+      <ekz>
+        la <tld/>on de rapidoj en movi&gcirc;anta solido;
+      </ekz>
+      <ekz>
+        <ref cel="elektr.0akampo">elektra <tld/>o</ref>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="diverg1.0o">diver&gcirc;enco</ref>,
+      <ref cel="gradient.0o">gradiento</ref>,
+      <ref cel="kirl.0o.MAT">kirlo</ref>,
+      <ref cel="operat.laplaca0o">laplaca operatoro</ref>.
+    </refgrp>
+    <trd lng="de">Feld</trd>
+    <trd lng="en">field</trd>
+    <trd lng="fr">champ</trd>
+    <trd lng="hu">mez&odblac;</trd>
+    <trd lng="ku">zev&icirc;</trd>
+    <trd lng="pl">pole</trd>
+    <trd lng="ru">&c_p;&c_o;&c_l;&c_je;</trd>
+  </snc>
+  <snc mrk="kamp.0o.formulara">
+    <uzo tip="stl">KOMUNE</uzo>
+    <uzo tip="fak">KOMP</uzo>
+    <dif>
+      Ero de <ref tip="malprt" cel="formul.0aro.radika">formularo</ref>:
+      <ekz>
+        en la <tld/>o <ctl>Nomo:</ctl> indiku vian familinomon en
+        &gcirc;ia nacilingva formo.
+      </ekz>
+    </dif>
+    <trdgrp lng="ru">
+      <trd>&c_g;&c_r;&c_a;&c_f;&c_a;</trd>,
+      <trd>&c_p;&c_o;&c_l;&c_je;</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd>Feld</trd>,
+      <trd>K&auml;stchen</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>mez&odblac;</trd>,
+      <trd>kocka</trd>
+    </trdgrp>
+    <trd lng="nl">veld</trd>
+    <trd lng="pl">pole</trd>
+  </snc>
+  <snc mrk="kamp.0o.dateno">
+    <uzo tip="fak">KOMP</uzo>
+    <dif>
+      Ano de <ref tip="malprt" cel="rikord.0o">rikordo</ref>:
+    </dif>
+    <trd lng="pl">pole</trd>
+  </snc>
+  <trd lng="be">&c_p;&c_o;&c_l;&c_je;</trd>
+  <trd lng="ca">camp</trd>
+  <trdgrp lng="cs">
+    <trd>are&aacute;l</trd>,
+    <trd>oblast</trd>,
+    <trd>p&rcaron;en. pracovn&iacute; oblast a pod.</trd>,
+    <trd>ter&eacute;n</trd>
+  </trdgrp>
+  <trd lng="en">field</trd>
+  <trd lng="es">campo</trd>
+  <trd lng="fr">champ</trd>
+  <trd lng="it">campo</trd>
+  <trd lng="oc">camp</trd>
+  <trd lng="ru">&c_p;&c_o;&c_l;&c_je;</trd>
+  <trdgrp lng="sk">
+    <trd>are&aacute;l</trd>,
+    <trd>oblas&tcaron;</trd>,
+    <trd>ter&eacute;n</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kamp.0i">
+  <kap><tld/>i<fnt>Z</fnt></kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc>
+    <dif>
+      Lo&gcirc;i en <tld/>oj, stariginte provizorajn lo&gcirc;ejojn
+      a&ubreve; tendojn por trupo a&ubreve; armeo:
+      <ekz>
+        la Romanoj <tld/>is en tiu valo;
+      </ekz>
+      <ekz>
+        la skoltoj <tld/>as en la arbaro.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_t;&c_a;&c_ja;&c_c;&c_mol;
+  <ind>&c_l;&c_ja;&c_g;&c_je;&c_r;&c_a;&c_m;</ind></trd>
+  <trdgrp lng="cs">
+    <trd>kampovat</trd>,
+    <trd>t&aacute;bo&rcaron;it</trd>
+  </trdgrp>
+  <trd lng="de">lagern</trd>
+  <trd lng="es">acampar</trd>
+  <trd lng="fr">camper</trd>
+  <trdgrp lng="hu">
+    <trd>t&aacute;borozik</trd>,
+    <trd>kempingezik</trd>
+  </trdgrp>
+  <trd lng="id">[<ind>ladang</ind>] berladang</trd>
+  <trd lng="it">accamparsi</trd>
+  <trd lng="nl">kamperen</trd>
+  <trdgrp lng="pl">
+    <trd>obozowa&cacute;</trd>,
+    <trd>by&cacute; na <ind>kempingu</ind></trd>
+  </trdgrp>
+  <trd lng="ru">
+ &c_s;&c_t;&c_o;&c_ja;&c_t;&c_mol; &c_l;&c_a;&c_g;&c_je;&c_r;&c_je;&c_m;
+  </trd>
+  <trd lng="sk">t&aacute;bori&tcaron;</trd>
+</drv>
+
+<drv mrk="kamp.0adejo">
+  <kap><tld/>adejo</kap>
+  <snc mrk="kamp.0adejo.TUR">
+    <dif>
+      Loko, en kiu oni <tld/>as.
+    </dif>
+    <ref tip="vid" cel="tend.0aro">tendaro</ref>
+  </snc>
+  <trd lng="be">&c_l;&c_ja;&c_g;&c_je;&c_r;
+  <klr tip="amb">(&c_m;&c_je;&c_s;&c_c;&c_a;)</klr></trd>
+  <trdgrp lng="cs">
+    <trd>autokempink</trd>,
+    <trd>kemp</trd>,
+    <trd>kempink <klr>(t&aacute;bor)</klr></trd>,
+    <trd>t&aacute;bo&rcaron;i&scaron;t&ecaron;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Lager</trd>,
+    <trd>Lagerplatz</trd>,
+    <trd>Lagerstelle</trd>
+  </trdgrp>
+  <trd lng="es">campamento</trd>
+  <trdgrp lng="fr">
+    <trd>camp<klr tip="ind"> (o&ugrave; camper)</klr></trd>,
+    <trd>camping</trd>,
+    <trd>terrain de <ind>camping</ind></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>t&aacute;borhely</trd>,
+    <trd>kemping</trd>
+  </trdgrp>
+  <trdgrp lng="it">
+    <trd>accampamento</trd>,
+    <trd>campeggio</trd>
+    <trd>camping</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>kamp</trd>,
+    <trd>kampeerterrein</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>ob&oacute;z</trd>,
+    <trd>kemping</trd>
+  </trdgrp>
+  <trd lng="ru">&c_l;&c_a;&c_g;&c_je;&c_r;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>kemp</trd>,
+    <trd>t&aacute;borisko</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kamp.0aro">
+  <kap><tld/>aro</kap>
+  <snc mrk="kamp.0aro.AGR">
+    <uzo tip="fak">AGR</uzo>
+    <dif>
+      Aro de la <tld/>oj, precipe kontraste al la urboj.
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_je;&c_l;&c_mol;&c_s;&c_k;&c_a;&c_ja;
+    &c_m;&c_ja;&c_s;&c_c;&c_o;&c_v;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
+    <trd>&c_v;&c_jo;&c_s;&c_k;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>polnosti</trd>,
+    <trd>venkov</trd>
+  </trdgrp>
+  <trd lng="de">Land</trd>
+  <trd lng="es">el campo</trd>
+  <trd lng="fr">campagne<klr tip="ind"> (contr&eacute;e rurale)</klr>
+  </trd>
+  <trd lng="hu">mez&odblac;s&eacute;g</trd>
+  <trd lng="id">ladang</trd>
+  <trd lng="it">campagna</trd>
+  <trd lng="nl">platteland</trd>
+  <trd lng="pl">wie&sacute;</trd>
+  <trd lng="ru">&c_s;&c_je;&c_l;&c_mol;&c_s;&c_k;&c_a;&c_ja;
+  &c_m;&c_je;&c_s;&c_t;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>l&aacute;ny</trd>,
+    <trd>vidiek</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kamp.0arano">
+  <kap><tld/>arano, <var><kap><tld/>ulo</kap></var></kap>
+  <snc mrk="kamp.0arano.AGR">
+    <uzo tip="fak">AGR</uzo>
+    <dif>
+      Lo&gcirc;anto en la <tld/>aro, precipe terkulturisto.
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_je;&c_l;&c_ja;&c_n;&c_ib;&c_n;</trd>
+  <trdgrp lng="cs">
+    <trd>roln&iacute;k</trd>,
+    <trd>venkovan</trd>,
+    <trd>zem&ecaron;d&ecaron;lec</trd>
+  </trdgrp>
+  <trd lng="de">Bauer</trd>
+  <trd lng="es">campesino</trd>
+  <trd lng="fr">campagnard<klr> (subst.)</klr></trd>
+  <trd lng="hu">paraszt</trd>
+  <trdgrp lng="it">
+    <trd>campagnolo<klr> (sost.)</klr></trd>,
+    <trd>contadino</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>boer</trd>,
+    <trd>landbouwer</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>wie&sacute;niak</trd>,
+    <trd>ch&lstroke;op</trd>,
+    <trd>w&lstroke;o&sacute;cianin<klr> (przest.)</klr></trd>
+  </trdgrp>
+  <trd lng="ru">&c_k;&c_r;&c_je;&c_s;&c_t;&c_mol;&c_ja;&c_n;&c_i;&c_n;
+  </trd>
+  <trdgrp lng="sk">
+    <trd>ro&lcaron;n&iacute;k</trd>,
+    <trd>sedliak</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kamp.0isto">
+  <kap><tld/>isto</kap>
+  <uzo tip="stl">KOMUNE</uzo>
+  <snc mrk="kamp.0isto.AGR">
+    <ref tip="dif" cel="kultur.ter0isto.AGR">terkulturisto</ref>
+      <ekz>
+        Viktorka estas filino de <tld/>isto el Zernov
+        <fnt>
+          <aut>B. N&ecaron;mcov&aacute;, trad. V. Tobek kaj K. Proch&aacute;zka</aut>,
+          <vrk><url ref="https://eo.wikisource.org/wiki/Avineto/III.">
+          Avineto</url></vrk>,
+          <lok>1909-1914</lok>
+        </fnt>.
+      </ekz>
+  </snc>
+  <trd lng="fr">paysan<klr> (subst.)</klr></trd>
+</drv>
+
+<drv mrk="kamp.batal0o">
+  <kap>batal<tld/>o</kap>
+  <snc mrk="kamp.batal0o.MIL">
+    <uzo tip="fak">MIL</uzo>
+    <ref tip="dif" cel="batal.0ejo.MIL">batalejo</ref>
+    <ekz>
+      kvankam homo povas venki mil malamikojn sur batal<tld/>o, tamen
+      estus pli glora venkinto, kiu venkis sin mem
+      <fnt>
+        <aut>trad. T. T. Anuruddha</aut>,
+        <vrk>La Vojo al Nirvano a&ubreve; la Dhammapado</vrk>,
+        <lok>1973</lok>
+      </fnt>.
+    </ekz>
+  </snc>
+  <trd lng="be">&c_p;&c_o;&c_l;&c_je; &c_b;&c_ib;&c_t;&c_v;&c_y;</trd>
+  <trdgrp lng="br">
+    <trd>aerva</trd>,
+    <trd>tachenn <ind>emgann</ind></trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>bitevn&iacute; pole</trd>,
+    <trd>boji&scaron;t&ecaron;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Kampfst&auml;tte</trd>,
+    <trd>Schlachtfeld</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>battlefield</trd>,
+    <trd>battleground</trd>
+  </trdgrp>
+  <trd lng="es">campo de batalla</trd>
+  <trd lng="fr">champ de bataille</trd>
+  <trdgrp lng="hu">
+    <trd>csatat&eacute;r</trd>,
+    <trd>harcmez&odblac;</trd>
+  </trdgrp>
+  <trd lng="id"><ind>medan</ind> pertempuran</trd>
+  <trd lng="it">campo di battaglia</trd>
+  <trdgrp lng="pl">
+    <trd>pole walki</trd>,
+    <trd>pole bitwy</trd>
+  </trdgrp>
+  <trd lng="ru">&c_p;&c_o;&c_l;&c_je; &c_b;&c_i;&c_t;&c_v;&c_y;</trd>
+  <trd lng="sk">bojisko</trd>
+</drv>
+
+<drv mrk="kamp.esplor0o">
+  <kap>esplor<tld/>o</kap>
+  <snc mrk="kamp.esplor0o.SCI">
+    <uzo tip="fak">SCI</uzo>
+    <dif>
+      Temaro, objektaro, kiun oni esploras:
+      <ekz>
+        mia esplor<tld/>o rilatas al la analizo de la hungara lingvo 
+        cele al parolsintezo
+        <fnt>
+          <aut>I. Koutny</aut>,
+          <vrk>Tra scienca analizo al novaj perspektivoj</vrk>,
+          <bib>LOdE</bib>,
+          <lok>2002:11 (97)</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="es">campo de estudio</trd>
+  <trd lng="fr">domaine d'&eacute;tude</trd>
+  <trd lng="id"><ind>bidang</ind> penelitian</trd>
+</drv>
+
+<drv mrk="kamp.labor0o">
+  <kap>labor<tld/>o</kap>
+  <snc mrk="kamp.labor0o.KOMUNE">
+    <dif>
+      <ref tip="super" cel="kamp.0o.tereno">Kampo</ref>,
+      temaro, aferoj, pri kiuj oni laboras:
+      <ekz>
+        miaj specifaj interesoj en mia labor<tld/>o estas fibroptiko 
+        kaj perkomputila lernado
+        <fnt>
+          <aut>h. reid</aut>,
+          <vrk><url ref="http://www.piloto.u-net.com/pages/esp1.htm">
+          esperantaj pa&gcirc;oj de hju rid</url></vrk>,
+          <lok>[1997]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">pole p&uring;sobnosti</trd>
+  <trd lng="es">campo<klr> (de trabajo)</klr></trd>
+  <trd lng="fr">domaine<klr> (de travail)</klr></trd>
+  <trd lng="id"><ind>lapang</ind>an kerja</trd>
+  <trd lng="sk">pole p&ocirc;sobnosti</trd>
+</drv>
+
+<drv mrk="kamp.vid0o">
+  <kap>vid<tld/>o</kap>
+  <snc mrk="kamp.vid0o.KOMUNE">
+    <dif>
+      La spaco, kiun rigardo sammomente ampleksas.
+    </dif>
+    <subsnc mrk="kamp.vid0o.FIZL">
+      <uzo tip="fak">FIZL</uzo>
+      <dif>
+        &Ccirc;io, kion okuloj sensas:
+        <ekz>
+          birdrigardante de sur aviadilo super la akvo, oni havas 
+          lar&gcirc;an vid<tld/>on
+          <fnt>
+            <aut>Zhao Xi, Wang Lihua</aut>,
+            <vrk><url
+            ref="http://www.espero.com.cn/se/txt/2013-05/06/content_539643.htm">
+            Idealaj lokoj por pasigi someron</url></vrk>,
+            <lok>2013-05-06</lok>
+          </fnt>
+        </ekz>
+      </dif>
+    </subsnc>
+    <subsnc mrk="kamp.vid0o.FOT">
+      <uzo tip="fak">FOT</uzo>
+      <dif>
+        &Ccirc;io, kion objektivo vidigas.
+      </dif>
+    </subsnc>
+  </snc>
+  <trd lng="es">campo de visi&oacute;n</trd>
+  <trd lng="fr">champ de vision</trd>
+</drv>
+</art>
+<!--
+$Log: kamp.xml,v $
+Revision 1.42  2015/10/02 19:10:17  revo
+Jeromo Vasxe: + ~isto
+
+Revision 1.41  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.40  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.39  2015/01/23 08:10:18  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.38  2014/12/20 17:10:11  revo
+Guillermo Molleda Jimena: trd es
+
+Revision 1.37  2014/02/06 02:10:16  revo
+Jeromo Vasxe: 1 ref dif, reord. drv
+
+Revision 1.36  2013/10/21 17:10:13  revo
+Benito Subejrano: + trd ca oc
+
+Revision 1.35  2013/06/24 14:10:10  revo
+-->
+</vortaro>

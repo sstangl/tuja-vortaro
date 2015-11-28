@@ -1,0 +1,147 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: kastel.xml,v 1.23 2015/07/04 08:37:37 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>kastel</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="kastel.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="kastel.0o.MIL">
+    <uzo tip="fak">ARKI</uzo>
+    <uzo tip="fak">MIL</uzo>
+    <dif>
+      Lo&gcirc;loko, defendata kiel <ref tip="super"
+      cel="fortik.0ajxo">fortika&jcirc;o</ref> per fosa&jcirc;o, remparoj kaj
+      turoj.
+    </dif>
+    <trd lng="de">Burg</trd>
+    <trdgrp lng="en">
+      <trd>castle</trd>,
+      <trd>citadel</trd>,
+      <trd>stronghold</trd>,
+      <trd>fort</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>v&aacute;rkast&eacute;ly</trd>,
+      <trd>v&aacute;r</trd>
+    </trdgrp>
+    <trd lng="pl">zamek</trd>
+  </snc>
+  <snc mrk="kastel.0o.palaco">
+    <dif>
+      <ref tip="super" cel="konstr.0ajxo">Konstrua&jcirc;o</ref> servanta
+      kiel luksa sinjora domego en la kamparo:
+      <ekz>
+        <ctl><tld lit="K"/>o de Prelongo</ctl>
+        <klr>(originala romano de H. Vallienne)</klr>
+        <fnt>
+          <aut>H. Vallienne</aut>,
+          <vrk>Kastelo de Prelongo</vrk>,
+          <lok>1907</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="palac.0o">palaco</ref>
+    </refgrp>
+    <trd lng="de">Schloss</trd>
+    <trdgrp lng="en">
+      <trd>castle</trd>,
+      <trd>manse</trd>,
+      <trd>mansion</trd>
+    </trdgrp>
+    <trd lng="hu">kast&eacute;ly</trd>
+  </snc>
+  <trd lng="be">&c_z;&c_a;&c_m;&c_a;&c_k;</trd>
+  <trd lng="br">kastell</trd>
+  <trdgrp lng="cs">
+    <trd>hrad</trd>,
+    <trd>zámek</trd>
+  </trdgrp>
+  <trd lng="es">castillo</trd>
+  <trdgrp lng="fr">
+    <trd>ch&acirc;teau</trd>,
+    <trd>manoir</trd>
+  </trdgrp>
+  <trd lng="it">castello</trd>
+  <trdgrp lng="nl">
+    <trd>kasteel</trd>,
+    <trd>slot <klr tip="ind">(kasteel)</klr></trd>
+  </trdgrp>
+  <trd lng="ru">&c_z;&c_a;&c_m;&c_o;&c_k; <klr>(&c_s;&c_o;&c_o;&c_r;&c_u;&c_zh;&c_je;&c_n;&c_i;&c_je;)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>hrad</trd>,
+    <trd>zámok</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kastel.0oenaero">
+  <kap>aer<tld/>o,
+  <var><kap><tld/>o en aero</kap></var>,
+  <var><kap><tld/>o sur glacio</kap></var></kap>
+  <snc mrk="kastel.0oenaero.FRAZ">
+    <uzo tip="stl">FRAZ</uzo>
+    <dif>
+      <ref tip="vid" cel="hximer.0o.FIG">&Hcirc;imero</ref>,
+      <ref tip="vid" cel="utopi.0o">utopio</ref>,
+      grandioza fantazio sen responda reala&jcirc;o:
+      <ekz>
+        konstrui <tld/>ojn en aero
+        <fnt><bib>PrV</bib></fnt>;
+      </ekz>
+      <ekz>
+        konstrui <tld/>on sur glacio
+        <fnt><bib>PrV</bib></fnt>;
+      </ekz>
+      <ekz>
+        kiom da absurdaj aer<tld/>oj!
+        <fnt>
+          <aut>S. Rodin</aut>,
+          <vrk>Bildoj pri Norda Lando</vrk>,
+          <lok>2006</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="br">kestell el Loar</trd>
+    <trd lng="fr">ch&acirc;teau en Espagne</trd>
+    <trd lng="it">castello in aria</trd>
+    <trd lng="nl">luchtkastel</trd>
+    <trd lng="pl">zamek na piasku</trd>
+  </snc>
+</drv>
+</art>
+<!--
+$Log: kastel.xml,v $
+Revision 1.23  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.22  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.21  2014/09/16 09:10:29  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.20  2014/09/06 17:10:12  revo
+Agustin Garcia Lopez: +trd(es)
+
+Revision 1.19  2011/05/11 12:10:12  revo
+Jeromo Vasxe: + aer~o
+
+Revision 1.18  2010/06/10 16:30:45  revo
+Antonio Codazzi: +trd it
+
+Revision 1.17  2009/08/24 16:31:30  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.16  2005/04/29 16:33:03  revo
+Alan ar Gall: +trd br
+
+Revision 1.15  2004/12/05 17:33:39  revo
+Marc Bavant: +trd fr
+
+Revision 1.14  2004/03/12 17:31:30  revo
+-->
+</vortaro>

@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: rusul.xml,v 1.7 2015/07/04 08:37:43 revo Exp $">
+<kap>
+  <rad>rusul</rad>/o <fnt><bib>NePiv</bib></fnt>
+</kap>
+<drv mrk="rusul.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="rusul.0o.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      Lamena <ref tip="lst" cel="fung.0o.fruktokorpo"
+      lst="voko:fungoj">fungo</ref> kun kolora &ccirc;apelo, blanka &scirc;tipo, de
+      kiu kelkaj 
+      specioj estas man&gcirc;eblaj;
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:botanikaj_genroj">genro</ref>
+       el familio <ref tip="malprt"
+       cel="rusulac.0oj">rusulacoj</ref>
+       (<trd lng="la">Russula</trd>):
+      <ekz>
+        <ctl>Esperantlingva nomenklaturo de la fungogenro <tld/>o</ctl>
+        <fnt>
+          <aut>J. Kavka</aut>,
+          <vrk>Esperantlingva nomenklaturo de la fungogenro
+          rusulo</vrk>,
+          <lok>Scienca Revuo, 1987, numero 1a</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>oj kun blua a&ubreve; roza koloro
+        <fnt>
+          <aut>A. Baranauskas, trad. P. &Ccaron;eliauskas</aut>,
+          <vrk>La Arbaro de Anyk&scaron;&ccaron;iai</vrk>,
+          <lok>Ryto varpas, 2003</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  <rim mrk="rusul.0o.RIM_SIN">
+    Alia esperantigo: <em>rusolo</em>.
+  </rim>
+  </snc>
+  <trdgrp lng="ca">
+    <trd>cualba</trd>,
+    <trd>r&uacute;ssula</trd>
+  </trdgrp>
+  <trd lng="cs">holubinka</trd>
+  <trd lng="de">T&auml;ubling</trd>
+  <trd lng="fr">russule</trd>
+  <trd lng="it">rossola</trd>
+  <trd lng="sk">plávka</trd>
+</drv>
+</art>
+
+<!--
+$Log: rusul.xml,v $
+Revision 1.7  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.6  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.5  2014/02/08 18:10:19  revo
+Damien Brucker: +ref
+
+Revision 1.4  2014/02/08 14:10:18  revo
+Damien Brucker: -eraro cxe ref
+
+Revision 1.3  2013/10/27 18:10:12  revo
+Wolfram Diestel: ref al fungoj, bot genroj
+
+Revision 1.2  2011/12/08 13:10:17  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.1  2007/02/20 17:30:20  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

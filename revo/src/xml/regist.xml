@@ -1,0 +1,408 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: regist.xml,v 1.20 2015/07/04 08:37:42 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>registr</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="regist.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="regist.0o.dokumento">
+    <dif>
+      Listo, pa&gcirc;o, libro, dosiero... en kiu oni <tld/>as:
+      <ekz>
+        alfabeta
+        <tld/>o de temoj<fnt>Z</fnt>.
+      </ekz>
+    </dif><refgrp tip="vid">
+      <ref cel="etat.0o">etato</ref>,
+      <ref cel="matrik.0o">matrikulo</ref>
+    </refgrp>
+    <trdgrp lng="be">
+      <trd>&c_r;&c_e;&c_je;&c_s;&c_t;&c_a;&c_r;</trd>,
+      <trd>&c_p;&c_je;&c_r;&c_a;&c_l;&c_ib;&c_k;</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd>Verzeichnis</trd>,
+      <trd>Register</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>list</trd>,
+      <trd>register</trd>,
+      <trd>record</trd>,
+      <trd>roll</trd>
+    </trdgrp>
+    <trd lng="ru">&c_r;&c_je;&c_je;&c_s;&c_t;&c_r;</trd>
+  </snc>
+  <snc mrk="regist.0o.MUZ">
+    <uzo tip="fak">MUZ</uzo>
+    <dif>
+      Absoluta amplekso de vo&ccirc;o a&ubreve; muzikilo
+      de plej malalta al plej alta tonoj, kiujn &gcirc;i
+      kapablas sonigi.
+    </dif>
+    <trd lng="be">&c_r;&c_e;&c_g;&c_ib;&c_s;&c_t;&c_a;&c_r;</trd>
+    <trdgrp lng="de">
+      <trd>Register</trd>,
+      <trd>Stimmumfang</trd>
+    </trdgrp>
+    <trd lng="ru">&c_r;&c_je;&c_g;&c_i;&c_s;&c_t;&c_r;</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>kniha záznamů</trd>,
+    <trd>registrační kniha</trd>,
+    <trd>rejstřík</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>register</trd>
+  </trdgrp>
+  <trd lng="fr">registre</trd>
+  <trd lng="nl">register</trd>
+  <trdgrp lng="sk">
+    <trd>evidencia</trd>,
+    <trd>prehľad</trd>,
+    <trd>registrácia</trd>,
+    <trd>zápis</trd>,
+    <trd>záznam</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="regist.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="regist.0i.rektasenca">
+    <dif>
+      Orde kaj metode skribi en tiucela libro a&ubreve; kajero ciferojn,
+      notojn pri faktoj, dokumentoj ks, pri kiuj oni volas konservi
+      memoron:
+      <ekz>
+        la resta&jcirc;o de la urboj estos malgranda kaj knabo
+        povos ilin registri<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        <tld/>i la popolon<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        <ind><tld/>ita letero</ind>;
+        <trd lng="ru">&c_z;&c_a;&c_k;&c_a;&c_z;&c_n;&c_o;&c_je;
+        &c_p;&c_i;&c_s;&c_mol;&c_m;&c_o;</trd>
+      </ekz>
+      <ekz>
+        en<tld/>adi militistojn<fnt>Z</fnt>, novajn abonantojn;
+      </ekz>
+      <ekz>
+        <tld/>igi siajn paka&jcirc;ojn en la ekspedejo.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>registrieren</trd>,
+      <trd>verzeichnen</trd>,
+      <trd>vermerken</trd>,
+      <trd>einschreiben</trd>,
+      <trd>eintragen</trd>,
+      <trd>notieren</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>register</trd>,
+      <trd>record</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>consigner<klr> (enregistrer)</klr></trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="regist.0i.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Atenti por memori pri io:
+      <ekz>
+        tiun &ccirc;i jaron ni povis <tld/>i la uzadon de Esperanto en pluraj
+        internaciaj kongresoj
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="rimark.0i">rimarki</ref>,
+      <ref cel="not.0i">noti</ref>.
+    </refgrp>
+    <trdgrp lng="de">
+      <trd>registrieren</trd>,
+      <trd>bemerken</trd>,
+      <trd>feststellen</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>note</trd>,
+      <trd>notice</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="regist.0i.TEK">
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      A&ubreve;tomate ekkonservi per spuroj, signoj a&ubreve; kodoj.
+    </dif>
+    <subsnc mrk="regist.0i.TEK_spuron">
+      <dif>
+        Tiel spuri la variojn de iu fenomeno:
+        <ekz>
+          per videa kamerao oni registras la ir-vojojn de la vezikoj
+          <fnt>
+            <aut>F. van Mook</aut>,
+            <vrk><url
+            ref="http://fabien.galerio.org/teksten/ladomo12-vezika.html">
+            Mezurado de malgrandaj aeraj velocitoj...</url></vrk>,
+            <bib></bib>,
+            <lok>La Domo, 1996-10 (12)</lok>
+          </fnt>.
+        </ekz>
+      </dif>
+    </subsnc>
+    <subsnc mrk="regist.0i.TEK_datumojn">
+      <dif>
+        Tiel fiksi ricevatajn datumojn:
+        <ekz>
+          la parolistoj <klr>...</klr> <tld/>is tiujn sondosierojn
+          <fnt>
+            <aut>E. Cid</aut>,
+            <vrk><url ref="http://www.esperantofre.com/eroj/ilo01e.htm">
+            Por lerni Esperanton</url></vrk>,
+            <lok>2005</lok>
+          </fnt>.
+        </ekz>
+      </dif>
+    </subsnc>
+    <refgrp tip="vid">
+      <ref cel="skrib.0i.TEK">skribi<sncref/></ref>
+    </refgrp>
+    <trdgrp lng="de">
+      <trd>aufzeichnen</trd>,
+      <trd>aufnehmen</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>relever<klr> (enregistrer)</klr></trd>
+    </trdgrp>
+  </snc>
+  <trd lng="be">&c_r;&c_e;&c_g;&c_ib;&c_s;&c_t;&c_r;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>evidovat</trd>,
+    <trd>knihovat</trd>,
+    <trd>registrovat</trd>,
+    <trd>vést rejstřík</trd>,
+    <trd>zapsat do rejstříku</trd>,
+    <trd>zaznamenat</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>register</trd>,
+    <trd>record</trd>
+  </trdgrp>
+  <trd lng="fr">enregistrer</trd>
+  <trd lng="nl">registreren</trd>
+  <trd lng="ru">&c_r;&c_je;&c_g;&c_i;&c_s;&c_t;&c_r;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>registrovať</trd>,
+    <trd>zaknihovať</trd>,
+    <trd>zapísať do registra</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="regist.0ado">
+  <kap><tld/>ado</kap>
+  <snc>
+    <dif>
+      Ago <tld/>i.
+    </dif>
+  </snc>
+  <trd lng="be">&c_r;&c_e;&c_g;&c_ib;&c_s;&c_t;&c_r;&c_a;&c_c;&c_y;&c_ja;</trd>
+  <trdgrp lng="cs">
+    <trd>evidence</trd>,
+    <trd>registrace <klr>(činnost)</klr></trd>,
+    <trd>registrování</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Aufzeichnung</trd>,
+    <trd>Registrierung</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>registration</trd>
+  </trdgrp>
+  <trd lng="fr">enregistrement</trd>
+  <trd lng="ru">&c_r;&c_je;&c_g;&c_i;&c_s;&c_t;&c_r;&c_a;&c_c;&c_i;&c_ja;</trd>
+  <trdgrp lng="sk">
+    <trd>evidencia</trd>,
+    <trd>prehľad</trd>,
+    <trd>registrácia</trd>,
+    <trd>zápis</trd>,
+    <trd>záznam</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="regist.son0ilo">
+  <kap>son<tld/>ilo</kap>
+  <snc mrk="regist.son0ilo.SON">
+    <dif>
+      Aparato, kiu povas registri kaj konservi sonojn:
+      <ekz>
+        mi &jcirc;us akiris sonregistrilon Olympus LS11
+        <fnt>
+          <aut>K.-G. Gustafsson</aut>,
+          <vrk><url
+          ref="http://www.ipernity.com/blog/kgesperanto/400633">
+          V&oacute;koido?</url></vrk>,
+          <lok>2012-07-21</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="sub">
+      <ref cel="diktafon.0o.SON">diktafono</ref>,
+      <ref cel="magnetofon.0o.SON">magnetofono</ref>
+    </refgrp>
+  </snc>
+  <trd lng="cs">magnetofon</trd>
+  <trd lng="fr">enregistreur<klr> (magn&eacute;tophone)</klr></trd>
+  <trd lng="sk">magnetofón</trd>
+</drv>
+
+<drv mrk="regist.teren0o">
+  <kap>teren<tld/>o</kap>
+  <snc mrk="regist.teren0o.JUR">
+    <uzo tip="fak">JUR</uzo>
+    <dif>
+      Mezura planaro de la bienoj kaj terposedoj, starigita por difini
+      la
+      terimpostojn kaj eviti koliziojn inter terposedantoj:
+      <ekz>
+        en regiono &leftquot;Alsace-Lorraine&rightquot; validas la sistemo de la
+        germana juro: la proprieton transdonas la enskribo en
+        teren<tld/>on
+        <fnt>
+          <aut>J. Duthilleul</aut>,
+          <vrk><url
+          ref="http://www.freeweb.hu/eventoj/steb/juro/domhavo/domo.htm#franca"></url>La
+          rajto havi domon</vrk>,
+          <lok>Internacia Jura Revuo, 1977:1 - 1977:2</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="etat.bien0o">bienetato</ref>,
+      <ref cel="katastr.0o">katastro</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_k;&c_a;&c_d;&c_a;&c_s;&c_t;&c_r;</trd>
+  <trd lng="ca">cadastre</trd>
+  <trd lng="cs">katastr nemovitostí</trd>
+  <trdgrp lng="de">
+    <trd>Kataster</trd>,
+    <trd>Grundbuch</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>land register</trd>,
+    <trd>register of title deeds</trd>,
+    <trd>official real estate register</trd>
+  </trdgrp>
+  <trd lng="es">catastro</trd>
+  <trd lng="fr">cadastre</trd>
+  <trdgrp lng="hu">
+    <trd>telekk&ouml;nyv</trd>,
+    <trd>kataszter</trd>
+  </trdgrp>
+  <trd lng="nl">kadaster<klr tip="ind"> (register)</klr></trd>
+  <trd lng="ru">&c_k;&c_a;&c_d;&c_a;&c_s;&c_t;&c_r;</trd>
+  <trd lng="sk">kataster nehnuteľností</trd>
+</drv>
+
+<drv mrk="regist.vide0ilo">
+  <kap>vide<tld/>ilo, <var><kap>video<tld/>ilo</kap></var></kap>
+  <snc mrk="regist.vide0ilo.KIN">
+    <uzo tip="fak">KIN</uzo>
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      Aparato a&ubreve; parto de aparato por videa <tld/>ado de bildoj:
+      <ekz>
+        fabrikanto inventis aparaton, kiu <klr>...</klr> malebligas
+        rapidigi video<tld/>ilon dum la reproduktado de reklamoj
+        <fnt>
+          <aut>Vastalto</aut>,
+          <vrk><url ref="http://www.vastalto.com/blog/?p=271">
+          Terura inventa&jcirc;o</url></vrk>,
+          <lok>Akvosfero, 2006-04-20</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la procedo de la ekzameni&gcirc;o fiksi&gcirc;as per video<tld/>ilo
+        <fnt>
+          <aut>G. &Scirc;ilo, trad. V. Minin</aut>,
+          <vrk>&Ccirc;u lingvo dum 7 tagoj...</vrk>,
+          <lok><url
+          ref="http://www.ilei.info/pdf/Ipr092_jkiu76tGtrE43MK_uZTrg.pdf">
+          Internacia Pedagogia Revuo, 2009:2</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="fr">
+    <trd>cam&eacute;scope<klr> (enregistreur)</klr></trd>,
+    <trd>magn&eacute;toscope</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="regist.0olibro">
+  <kap><tld/>olibro</kap>
+  <snc>
+    <dif>
+      Libro uzata kiel
+      <ref tip="super" cel="regist.0o.dokumento"><tld/>o<sncref/></ref>.
+    </dif>
+  </snc>
+  <trd lng="be">&c_r;&c_e;&c_je;&c_s;&c_t;&c_a;&c_r;</trd>
+  <trdgrp lng="cs">
+    <trd>kniha záznamů</trd>,
+    <trd>registrační kniha</trd>,
+    <trd>rejstřík</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Verzeichnis</trd>,
+    <trd>Register</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>list</trd>,
+    <trd>register</trd>,
+    <trd>record</trd>,
+    <trd>roll</trd>
+  </trdgrp>
+  <trd lng="fr">registre<klr> (livre)</klr></trd>
+  <trd lng="ru">&c_r;&c_je;&c_je;&c_s;&c_t;&c_r;</trd>
+  <trd lng="sk">kniha záznamov</trd>
+</drv>
+</art>
+<!--
+$Log: regist.xml,v $
+Revision 1.20  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2013/07/25 19:10:13  revo
+Jeromo Vasxe: + son~ilo
+
+Revision 1.17  2011/02/15 12:10:08  revo
+Jeromo Vasxe: restrukt. snc tek
+
+Revision 1.16  2010/11/25 17:30:30  revo
+Jeromo Vasxe: + vide~o
+
+Revision 1.15  2008/11/23 19:12:54  revo
+Marc Bavant: +drv teren~o (sxovis materialon el sub "katastr")
+
+Revision 1.14 2008/02/09 17:31:19 revo
+Russ Williams: +trd en
+Revision 1.13 2004/02/26 17:31:46 revo
+Dmitri Gabinski: +trd be
+Revision 1.12 2002/06/05 17:31:58 revo
+Jeromo Vasxe: ~o + fak muz + precizigis dif, +mrk-oj, + trd fr
+Revision 1.11 2002/01/11 17:34:45 revo
+Yury Finkel: +trd ru
+Revision 1.10 2001/10/01 18:14:16 revo
+Sergio Pokrovskij: snc-mrk
+-->
+</vortaro>

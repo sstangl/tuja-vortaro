@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: tekneci.xml,v 1.19 2015/07/04 08:37:44 revo Exp $">
+<kap>
+   <rad>tekneci</rad>/o
+</kap>
+<drv mrk="tekneci.0o">
+   <kap><tld/>o</kap>
+   <uzo tip="fak">KEM</uzo>
+   <mlg kod="IUPAC">Tc</mlg>
+   <snc>
+     <dif>
+       &Hcirc;emia <ref tip="lst" cel="elemen.0o.KEM"
+       lst="voko:&hcirc;emiaj_elementoj" val="43">elemento</ref> kun
+       atomnumero 43, atompezo 98,9063;
+       transir<ref tip="super" cel="metal.0o">metalo</ref>, kies
+       &ccirc;iuj <ref tip="super" cel="izotop.0o">izotopoj</ref> 
+       estas radioaktivaj.
+     </dif>
+     <rim>
+       Eksa nomo de la elemento estis masurio. 
+     </rim>
+   </snc>
+  <trd lng="be">&c_t;&c_e;&c_h;&c_n;&c_e;&c_c;&c_y;&c_j;</trd>
+  <trd lng="bg">&c_t;&c_je;&c_h;&c_n;&c_je;&c_c;&c_i;&c_j;</trd>
+  <trd lng="br">teknetiom</trd>
+  <trd lng="ca">tecneci</trd>
+  <trd lng="cs">technecium</trd>
+  <trd lng="de">Technetium</trd>
+  <trd lng="en">technetium</trd>
+  <trd lng="es">tecnecio</trd>
+  <trd lng="fr">techn&eacute;tium</trd>
+  <trd lng="hu">techn&eacute;cium</trd>
+  <trd lng="id">teknetium</trd>
+  <trd lng="it">tecnezio</trd>
+  <trd lng="la">Technetium</trd>
+  <trd lng="nl">technetium</trd>
+  <trd lng="pl">technet</trd>
+  <trd lng="pt">tecn&eacute;cio</trd>
+  <trd lng="ru">&c_t;&c_je;&c_h;&c_n;&c_je;&c_c;&c_i;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>Tc</trd>,
+    <trd>technécium</trd>
+  </trdgrp>
+  <trd lng="sv">teknetium</trd>
+</drv>
+</art>
+<!--
+$Log: tekneci.xml,v $
+Revision 1.19  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2014/06/04 03:10:33  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.16  2013/09/23 08:10:16  revo
+Wolfram Diestel: +val, mlg
+
+Revision 1.15  2013/08/25 07:11:07  revo
+Wolfram Diestel: referenco al listo elementoj
+
+Revision 1.14  2013/08/06 17:10:10  revo
+Joop Eggen: +trd bg
+
+Revision 1.13  2012/08/13 16:10:39  revo
+Marc Rausell: + trd ca
+
+Revision 1.12  2010/10/25 16:31:06  revo
+Jerano Zachrisson: +trd sv
+
+Revision 1.11  2006/06/05 16:42:42  revo
+Sebastian Cyprych: +trd pl,la +frm
+
+Revision 1.10  2006/01/04 17:32:04  revo
+-->
+</vortaro>

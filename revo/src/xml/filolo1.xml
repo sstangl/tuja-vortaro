@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: filolo1.xml,v 1.19 2015/07/04 08:37:34 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>filologi</rad>/o
+</kap>
+<drv mrk="filolo1.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="filolo1.0o.SCI">
+    <uzo tip="fak">LIN</uzo>
+    <uzo tip="fak">SCI</uzo>
+    <dif>
+      <ref tip="lst" cel="scienc.0o.fako"
+      lst="voko:sciencoj">Scienco</ref>, 
+      kiu helpe de la
+      historio, literaturo, arkeologio, mitologio, popollegendaro,
+      esploras la
+      lingvojn kiel organojn de la spirita vivo de la popoloj.
+    </dif>
+  </snc>
+  <trd lng="be">&c_f;&c_ib;&c_l;&c_ja;&c_l;&c_jo;&c_g;&c_ib;&c_ja;</trd>
+  <trd lng="bg">&c_f;&c_i;&c_l;&c_o;&c_l;&c_o;&c_g;&c_i;&c_ja;</trd>
+  <trdgrp lng="cs">
+    <trd>filologie</trd>,
+    <trd>jazykověda</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Philologie</trd>,
+    <trd>Sprach- und Literaturwissenschaft</trd>
+  </trdgrp>
+  <trd lng="en">philology</trd>
+  <trd lng="es">filolog&iacute;a</trd>
+  <trd lng="fr">philologie</trd>
+  <trd lng="hu">filol&oacute;gia</trd>
+  <trd lng="id">filologi</trd>
+  <trdgrp lng="nl">
+    <trd>taalkunde</trd>,
+    <trd>filologie</trd>
+  </trdgrp>
+  <trd lng="pt">filologia</trd>
+  <trd lng="ru">&c_f;&c_i;&c_l;&c_o;&c_l;&c_o;&c_g;&c_i;&c_ja;</trd>
+  <trd lng="sk">jazykoveda</trd>
+</drv>
+
+<drv mrk="filolo1.0isto">
+  <kap><tld/>isto</kap>
+  <snc mrk="filolo1.0isto.SCI">
+    <dif>
+      Scienculo, kiu studas la <tld/>on.
+    </dif>
+    <ref tip="sin" cel="filolo.0o">filologo</ref>
+  </snc>
+  <trd lng="be">&c_f;&c_ib;&c_l;&c_jo;&c_l;&c_ja;&c_g;</trd>
+  <trd lng="bg">&c_f;&c_i;&c_l;&c_o;&c_l;&c_o;&c_g;</trd>
+  <trdgrp lng="de">
+    <trd>Philologe</trd>,
+    <trd>Sprachforscher</trd>,
+    <trd>Literaturforscher</trd>,
+    <trd>Sprach- und Literaturforscher</trd>,
+    <trd>Sprach- und Literaturlehrer</trd>
+  </trdgrp>
+  <trd lng="en">philologist</trd>
+  <trd lng="es">fil&oacute;logo</trd>
+  <trd lng="fr">philologue</trd>
+  <trdgrp lng="hu">
+    <trd>b&ouml;lcs&eacute;sz</trd>,
+    <trd>filol&oacute;gus</trd>
+  </trdgrp>
+  <trd lng="id">filolog</trd>
+  <trdgrp lng="nl">
+    <trd>filoloog</trd>,
+    <trd>taalkundige</trd>
+  </trdgrp>
+  <trd lng="pt">fil&oacute;logo</trd>
+  <trd lng="ru">&c_f;&c_i;&c_l;&c_o;&c_l;&c_o;&c_g;</trd>
+</drv>
+</art>
+<!--
+$Log: filolo1.xml,v $
+Revision 1.19  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2014/11/12 08:10:31  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.16  2013/09/22 19:10:42  revo
+Wolfram Diestel: astro~o: referenco al listo sciencoj
+
+Revision 1.15  2013/08/21 14:10:11  revo
+Joop Eggen: +trd bg
+
+Revision 1.14  2007/06/01 16:30:50  revo
+Tulio Flores: +tr pt
+
+Revision 1.13  2006/06/19 16:32:22  revo
+Jeromo Vasxe: + fak lin
+
+Revision 1.12 2005/05/19 16:31:13 revo
+Jozefo Horvath: +trd hu
+
+Revision 1.11 2003/12/23 17:38:59 revo
+Dmitri Gabinski: +trd be
+
+Revision 1.10 2002/11/01 09:14:30 revo
+-->
+</vortaro>

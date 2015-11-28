@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: primol.xml,v 1.21 2015/07/04 08:37:42 revo Exp $">
+<kap>
+<ofc>*</ofc>
+<rad>primol</rad>/o
+</kap>
+<drv mrk="primol.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <uzo tip="fak">BOT</uzo>
+  <snc>
+    <dif>
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:botanikaj_genroj">Genro</ref> el familio <ref
+      tip="malprt"
+      cel="primol1.0oj"><tld/>acoj</ref>
+      (<trd lng="la">Primula</trd>), floranta &ccirc;e komenco de printempo,
+      kun tigo&ccirc;irka&ubreve;aj bazaj folioj kaj
+      kvinnombraj, radformaj, flavaj, ru&gcirc;aj a&ubreve; violkoloraj floroj.
+    </dif>
+  </snc>
+  <bld lok="../bld/primol.jpg">
+    <ind>alta <tld/>o</ind>
+    <trd lng="hu">sud&aacute;r <ind>kankalin</ind></trd>
+    <trd lng="la">Primula elatior</trd>
+  </bld>
+  <trdgrp lng="de">
+    <trd>Primel</trd>,
+    <trd>Schl&uuml;sselblume</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>primrose</trd>,
+    <trd>primula</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>kankalin</trd>,
+    <trd>primula</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>sleutelbloem</trd>,
+    <trd>primula</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>pr&iacute;mula</trd>,
+    <trd>primavera <klr tip="amb">(planta></klr></trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_r;&c_i;&c_m;&c_u;&c_l;&c_a;</trd>,
+    <trd>&c_p;&c_je;&c_r;&c_v;&c_o;&c_c;&c_v;&c_je;&c_t;</trd>
+  </trdgrp>
+  <trd lng="sv">gullviva</trd>
+  <trdgrp lng="sk">
+    <trd>primul<klr>(k)</klr>a</trd>,
+    <trd>prvosienka</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>petrklíč</trd>,
+    <trd>prvosenka</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: primol.xml,v $
+Revision 1.21  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.19  2013/08/28 18:10:16  revo
+Wolfram Diestel: referenco al listo bot genroj
+
+Revision 1.18  2008/11/23 19:12:09  revo
+Wieland Pusch: entoj por unikodo
+
+Revision 1.17  2008/11/05 17:31:32  revo
+Russ Williams: +trd en
+
+Revision 1.16  2006/03/20 17:32:49  revo
+Tulio Flores: +tr pt
+
+Revision 1.15  2002/05/13 16:32:50  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.14  2002/03/24 20:30:56  revo
+Wolfram Diestel: +bld, precizigis dif
+
+Revision 1.13  2001/12/24 19:30:20  revo
+Yury Finkel: +trd ru
+
+Revision 1.12 2001/09/02 18:13:28 revo
+-->
+</vortaro>

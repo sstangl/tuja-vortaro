@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: varian.xml,v 1.16 2015/07/04 08:37:45 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>variant</rad>/o
+</kap>
+<drv mrk="varian.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">TIP</uzo>
+  <snc>
+    <dif>
+      Iomete diferenca
+      <ref tip="super" cel="redakc.0o.versio">redakcio</ref>
+      de teksto, liverita de alia manuskripto a&ubreve; eldono:
+      <ekz>
+        kolekti la <tld/>ojn de poemo en kritikan aparaton.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_v;&c_a;&c_r;&c_y;&c_ja;&c_n;&c_t;</trd>
+  <trdgrp lng="cs">
+    <trd>biol. odchylka</trd>,
+    <trd>mat.</trd>,
+    <trd>nevh. proměnná</trd>,
+    <trd>obměna</trd>,
+    <trd>varianta</trd>
+  </trdgrp>
+  <trd lng="de">Variante</trd>
+  <trd lng="el">&pi;&alfa;&rho;&alfa;&lambda;&lambda;&alfa;&gamma;&eta_ton;</trd>
+  <trdgrp lng="en">
+    <trd>variant</trd>,
+    <trd>different form</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>lectura<klr> (de un manuscrito)</klr></trd>,
+    <trd>variante<klr> (textual)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>le&ccedil;on<klr> (d'un manuscrit)</klr></trd>,
+    <trd>variante<klr> (textuelle)</klr></trd>
+  </trdgrp>
+  <trd lng="hu">sz&ouml;vegv&aacute;ltozat</trd>
+  <trd lng="nl">variant</trd>
+  <trdgrp lng="pl">
+    <trd>wariant</trd>,
+    <trd>odmiana</trd>
+  </trdgrp>
+  <trd lng="pt">variante</trd>
+  <trd lng="ru">&c_v;&c_a;&c_r;&c_i;&c_a;&c_n;&c_t;</trd>
+  <trdgrp lng="sk">
+    <trd>obmena</trd>,
+    <trd>odchýlka</trd>,
+    <trd>variant</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: varian.xml,v $
+Revision 1.16  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/28 12:03:50  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.14  2014/09/18 08:10:29  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.13  2008/10/30 19:26:03  revo
+Russ Williams: +trd en
+
+Revision 1.12  2005/01/21 17:32:44  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.11  2002/07/25 17:32:56  revo
+Eduardo M. Kalinowski: ald trd el, pt
+
+Revision 1.10  2002/05/16 16:33:41  revo
+Zmicier Lapcionak: + trd be
+
+Revision 1.9  2002/03/20 17:37:14  revo
+Jose Martin del Pozo: +trd es
+
+Revision 1.8  2002/03/15 17:32:59  revo
+Yury Finkel: +trd ru
+
+Revision 1.7 2001/11/08 19:13:58 revo
+-->
+</vortaro>

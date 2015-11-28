@@ -1,0 +1,180 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: tram.xml,v 1.35 2015/07/04 08:37:45 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>tram</rad>/o
+</kap>
+
+<drv mrk="tram.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="tram.0o.FER">
+    <uzo tip="fak">FER</uzo>
+    <dif>
+      Eta <ref tip="super" cel="vagon.0aro.FER">vagonaro</ref> por porto
+      de homoj sur urbaj stratoj:
+      <ekz>
+        sur la vitra kesto ekhelis la skriba&jcirc;o &leftquot;Atentu
+<tld/>on!&rightquot;
+        <fnt><bib>MkM</bib>, <lok>&ccirc;apitro 3a, p. 38a</lok></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_t;&c_r;&c_a;&c_m;&c_v;&c_a;&c_j;</trd>
+    <trd lng="bg">&c_t;&c_r;&c_a;&c_m;&c_v;&c_a;&c_j;</trd>
+    <trdgrp lng="de">
+      <trd>Stra&szlig;enbahn</trd>,
+      <trd>Trambahn [esp. DE-sude, CH, AT]</trd>,
+      <trd>Tram [esp. DE-sude, CH, AT]</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>street car <klr> (US)</klr></trd>,
+      <trd>tram <klr> (BR)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>tram</trd>,
+      <trd>tramway</trd>
+    </trdgrp>
+    <trd lng="hu">villamos</trd>
+    <trd lng="nl">tram</trd>
+    <trd lng="es">tranv&iacute;a</trd>
+    <trd lng="pl">tramwaj</trd>
+    <trd lng="pt">bonde</trd>
+    <trd lng="ru">&c_t;&c_r;&c_a;&c_m;&c_v;&c_a;&c_j;</trd>
+    <trd lng="sv">sp&aring;rvagn</trd>
+  </snc>
+  <snc mrk="tram.0o.relo">
+    <uzo tip="stl">ARK</uzo>
+    <dif>
+      Kava relo por omnibuso; <tld/>relo.
+    </dif>
+    <trd lng="be">&c_t;&c_r;&c_a;&c_m;&c_v;&c_a;&c_j;&c_n;&c_a;&c_ja;
+&c_r;&c_e;&c_j;&c_k;&c_a;</trd>
+    <trd lng="de">Stra&szlig;enbahnschiene</trd>
+    <trdgrp lng="en">
+      <trd>street car rail <klr> (US)</klr></trd>,
+      <trd>tram rail <klr> (BR)</klr></trd>
+    </trdgrp>
+    <trd lng="fr">rail de tramway</trd>
+    <trd lng="nl">tramspoor</trd>
+    <trd lng="hu">villamoss&iacute;n</trd>
+    <trd lng="pl"><ind>szyna</ind> tramwajowa</trd>
+    <trd lng="pt">trilho cavado</trd>
+    <trd lng="ru">&c_t;&c_r;&c_a;&c_m;&c_v;&c_a;&c_j;&c_n;&c_y;&c_j; <ind>&c_r;&c_je;&c_l;&c_mol;&c_s;</ind></trd>
+    <trd lng="sv">sp&aring;rvagnsr&auml;ls</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>elektrika</trd>,
+    <trd>tramvaj</trd>,
+    <trd>vůz pouliční dráhy</trd>,
+    <trd>šalina</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>1.električka</trd>,
+    <trd>2.žliabková koľajnica</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="tram.kablo0o">
+  <kap>kablo<tld/>o</kap>
+  <snc mrk="tram.kablo0o.FER">
+    <uzo tip="fak">FER</uzo>
+    <dif>
+      <ref tip="super" cel="tram.0o.FER"><tld lit="T"/>o</ref>, kiu
+      veturas supren kaj malsupren la&ubreve; kruta&jcirc;o, tirate de kablo:
+      <ekz>
+        per kablo-<tld/>o <klr>...</klr> ili supreniras
+        <fnt>
+        <aut>Saliko</aut>,
+        <vrk>Vizito al la nacia parko Vanoise</vrk>,
+        <bib>Monato</bib>,
+        <lok>jaro 2005a, numero 2a, p. 22a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_f;&c_u;&c_n;&c_ib;&c_k;&c_u;&c_l;&c_jo;&c_r;</trd>
+  <trdgrp lng="cs">
+    <trd>lanovka pozemní</trd>,
+    <trd>vůz pozemní lanovky</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Kabelstra&szlig;enbahn</trd>,
+    <trd>Kabelbahn</trd>
+  </trdgrp>
+  <trd lng="en">funicular</trd>
+  <trd lng="es">telef&eacute;rico</trd>
+  <trd lng="fr">funiculaire</trd>
+  <trd lng="hu">sikl&oacute; <klr tip="amb">(j&aacute;rm&udblac;)</klr></trd>
+  <trd lng="nl">kabeltram</trd>
+  <trd lng="pl">tramwaj linowy</trd>
+  <trd lng="pt">funicular</trd>
+  <trd lng="ru">&c_f;&c_u;&c_n;&c_i;&c_k;&c_u;&c_l;&c_jo;&c_r;</trd>
+  <trd lng="sk">pozemná lanovka</trd>
+</drv>
+
+<drv mrk="tram.0vojo">
+  <kap><tld/>vojo</kap>
+  <snc mrk="tram.0vojo.FER">
+    <uzo tip="fak">FER</uzo>
+    <dif>
+      Fervojo provizita per kavaj reloj, sur kiuj iras <tld/>oj.
+    </dif>
+    <trd lng="be">&c_t;&c_r;&c_a;&c_m;&c_v;&c_a;&c_j;&c_n;&c_y;
+&c_sh;&c_l;&c_ja;&c_h;</trd>
+    <trdgrp lng="de">
+      <trd>Stra&szlig;enbahngleise</trd>,
+      <trd>Trambahngleise</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>street car tracks <klr> (US)</klr></trd>,
+      <trd>tramway <klr> (BR)</klr></trd>
+    </trdgrp>
+    <trd lng="fr">voie de tram</trd>
+    <trd lng="hu">villamosp&aacute;lya</trd>
+    <trd lng="nl">tramspoorweg</trd>
+    <trd lng="pl">tor tramwajowy</trd>
+    <trdgrp lng="pt">
+      <trd>tramway</trd>,
+      <trd>tr&acirc;muei</trd>
+    </trdgrp>
+    <trd lng="ru">&c_t;&c_r;&c_a;&c_m;&c_v;&c_a;&c_j;&c_n;&c_a;&c_ja; &c_d;&c_o;&c_r;&c_o;&c_g;&c_a;</trd>
+    <trd lng="sv">sp&aring;rvagnssp&aring;r</trd>
+  </snc>
+  <trd lng="cs">tramvajová dráha</trd>
+  <trd lng="sk">električková trať</trd>
+</drv>
+</art>
+<!--
+$Log: tram.xml,v $
+Revision 1.35  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.34  2015/06/29 16:40:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.33  2009/07/02 16:30:50  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.32  2009/03/25 17:30:30  revo
+Alejandro Mejia Greene: ald his trd
+
+Revision 1.31  2009/03/05 17:30:20  revo
+Marcus Curdeius: +pl
+
+Revision 1.30  2008/02/09 17:31:12  revo
+Wieland Pusch: +trd bg
+
+Revision 1.29  2007/07/06 18:04:08  revo
+Russ Williams: trd +en
+
+Revision 1.28  2007/04/02 16:30:14  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.27  2007/02/18 17:30:14  revo
+Wieland Pusch: +trd de
+
+Revision 1.26  2007/01/04 17:30:21  revo
+-->
+</vortaro>

@@ -1,0 +1,185 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: sekur.xml,v 1.21 2015/07/04 08:37:43 revo Exp $">
+<kap>
+  <ofc>4</ofc>
+  <rad>sekur</rad>/a <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="sekur.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="sekur.0a.KOMUNE">
+    <dif>
+      Estanta en sendan&gcirc;era situacio,
+      <ref tip="vid" cel="dangxe.ekster0a">eksterdan&gcirc;era</ref>:
+      <ekz>
+        <ind><tld/>a rifu&gcirc;ejo</ind>;
+        <trd lng="hu">biztos mened&eacute;khely</trd>
+      </ekz>
+      <ekz>
+        estas diferenco inter afero <tld/>a kaj afero spekulacia.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_b;&c_ja;&c_s;&c_mol;&c_p;&c_je;&c_ch;&c_n;&c_y;</trd>
+  <trdgrp lng="cs">
+    <trd>bezpečný</trd>,
+    <trd>jistý</trd>
+  </trdgrp>
+  <trd lng="de">sicher</trd>
+  <trd lng="en">safe</trd>
+  <trdgrp lng="fr">
+    <trd>s&ucirc;r</trd>,
+    <trd>en s&ucirc;ret&eacute;</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>biztos <klr tip="ind">(vesz&eacute;lytelen)</klr></trd>,
+    <trd>biztons&aacute;gos</trd>
+  </trdgrp>
+  <trd lng="it">sicuro</trd>
+  <trd lng="nl">veilig</trd>
+  <trd lng="ru">&c_b;&c_je;&c_z;&c_o;&c_p;&c_a;&c_s;&c_n;&c_y;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>bezpečný</trd>,
+    <trd>istý</trd>
+  </trdgrp>
+  <trd lng="sv">s&auml;ker</trd>
+</drv>
+
+<drv mrk="sekur.0eco">
+  <kap><tld/>eco</kap>
+  <snc mrk="sekur.0eco.KOMUNE">
+    <dif>
+      Stato de iu a&ubreve; io ekster &ccirc;ia dan&gcirc;ero:
+      <ekz>
+        &gcirc;ui senton de <tld/>eco.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>bezpečnost</trd>,
+    <trd>zabezpečení</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>s&eacute;curit&eacute;</trd>,
+    <trd>suret&eacute;</trd>
+  </trdgrp>
+  <trd lng="sk">bezpečnosť</trd>
+</drv>
+
+<drv mrk="sekur.0igi">
+  <kap><tld/>igi</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="sekur.0igi.KOMUNE">
+    <dif>
+      Igi sekura (iun a&ubreve; ion):
+      <ekz>
+        tio sufi&ccirc;os por da&ubreve;re <tld/>igi la vivon de la
+        infano.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>jistit</trd>,
+    <trd>zabezpečit</trd>,
+    <trd>zabezpečovat</trd>,
+    <trd>zajistit</trd>,
+    <trd>zaopatřit</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>sichern</trd>,
+    <trd>absichern</trd>,
+    <trd>sch&uuml;tzen</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>mettre en <ind>suret&eacute;</ind></trd>,
+    <trd>rendre <ind>s&ucirc;r</ind></trd>,
+    <trd>s&eacute;curiser<klr tip="ind">(rendre s&ucirc;r)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>biztos&iacute;t <klr tip="ind">(vesz&eacute;lytelen&iacute;t)</klr></trd>,
+    <trd>biztons&aacute;goss&aacute; tesz</trd>
+  </trdgrp>
+  <trdgrp lng="it">
+    <trd>mettere in <ind>sicurezza</ind></trd>,
+    <trd>rendere <ind>sicuro</ind></trd>,
+    <trd>mettere al <ind>sicuro</ind></trd>
+  </trdgrp>
+  <trd lng="ru">&c_o;&c_b;&c_je;&c_z;&c_o;&c_p;&c_a;&c_s;&c_i;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>uložiť</trd>,
+    <trd>zapísať do pamäte</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="sekur.0igxi">
+  <kap><tld/>i&gcirc;i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="sekur.0igxi.KOMUNE">
+    <dif>
+      Trovi <tld/>an, stabilan kondi&ccirc;on:
+      <ekz>
+        ju pli ni laboros por glatigi nian lingvon kaj
+        perfekti&gcirc;i pri &gcirc;ia
+        uzado, des pli &gcirc;i firmi&gcirc;os kaj <tld/>i&gcirc;os.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="fr">
+    <trd>s'<ind>assurer</ind></trd>,
+    <trd>se <ind>consolider</ind></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="sekur.mal0a">
+  <kap>mal<tld/>a</kap>
+  <snc mrk="sekur.mal0a.KOMUNE">
+    <dif>
+      Ne <tld/>a, sub minaco, en dan&gcirc;ero:
+      <ekz>
+        &ccirc;ies vivo kaj &ccirc;ies hava&jcirc;o estas mal<tld/>aj
+        <fnt>
+          <aut>I. Franko, trad. V. Pajuk</aut>,
+          <vrk><url ref="http://esperanto-ondo.ru/Tl-ukr01.htm">
+          La farbita vulpo</url></vrk>,
+          <lok>La Ondo de Esperanto, 2006 (8&ndash;9)</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">en danger</trd>
+</drv>
+</art>
+<!--
+$Log: sekur.xml,v $
+Revision 1.21  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.19  2014/09/03 01:10:22  revo
+Jeromo Vasxe: + mal~a
+
+Revision 1.18  2013/02/03 02:10:12  revo
+Jeromo Vasxe: memstar. ~eco ~igxi
+
+Revision 1.17  2009/10/24 16:32:23  revo
+Antonio Codazzi: +trd it
+
+Revision 1.16  2004/10/05 16:58:40  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.15  2004/01/21 19:02:20  revo
+Marc Bavant: ~igi: kor trd fr
+
+Revision 1.14  2004/01/20 18:34:18  revo
+Marc Bavant: ~igi: kor fusxan dif, mod trd fr
+
+Revision 1.13  2004/01/19 17:30:41  revo
+Emmanuel Debanne: +trd fr
+
+Revision 1.12  2003/09/11 16:31:08  revo
+-->
+</vortaro>

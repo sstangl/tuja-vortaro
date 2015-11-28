@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: feniko.xml,v 1.22 2015/07/04 08:37:34 revo Exp $">
+<kap>
+  <rad>fenikopter</rad>/o
+  <fnt>Z</fnt>
+  <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="feniko.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="feniko.0o.ZOO">
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      Granda longakrura birdo kun rozkoloraj kaj ru&gcirc;aj plumoj,
+      ofte staranta sur nur unu piedo,
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:zoologiaj_genroj">genro</ref> el <ref tip="malprt"
+      cel="feniko1.0oj"><tld/>edoj</ref>
+      (<trd lng="la">Phoenicopterus</trd>).
+    </dif>
+  </snc>
+  <bld lok="../bld/feniko.jpg">
+    <tld/>oj
+  </bld>
+  <trd lng="be">&c_f;&c_l;&c_ja;&c_m;&c_ib;&c_n;&c_g;&c_a;</trd>
+  <trd lng="bg">&c_f;&c_l;&c_a;&c_m;&c_i;&c_n;&c_g;&c_o;</trd>
+  <trd lng="cs">plame&ncaron;&aacute;k</trd>
+  <trd lng="de">Flamingo</trd>
+  <trd lng="en"><klr>(greater) </klr>flamingo</trd>
+  <trd lng="fa">&a_f;&a_l;&a_A;&a_m;&f_y;&a_n;&f_g;&a_w;</trd>
+  <trd lng="fr">flamant</trd>
+  <trd lng="hu">flaming&oacute;</trd>
+  <trd lng="nl">flamingo</trd>
+  <trdgrp lng="pl">
+    <trd>czerwonak</trd>,
+    <trd>flaming<klr> (r&oacute;&zdot;owy)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>flamingo</trd>,
+    <trd>flamengo</trd>,
+    <trd>fenic&oacute;ptero</trd>
+  </trdgrp>
+  <trd lng="ru">&c_f;&c_l;&c_a;&c_m;&c_i;&c_n;&c_g;&c_o;</trd>
+  <trd lng="sv">flamingo</trd>
+  <trd lng="sk">plameniak</trd>
+</drv>
+
+<drv mrk="feniko.0oformaj">
+  <kap><tld/>oformaj</kap>
+  <snc mrk="feniko.0oformaj.ZOO">
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      <ref tip="lst" cel="ord.0o.BIO"
+      lst="voko:zoologiaj_ordoj">Ordo</ref> el la klaso <ref
+      tip="malprt" cel="bird.0oj">birdoj</ref>
+      (<trd lng="la">Phoenicopteriformes</trd>).
+    </dif>
+  </snc>
+  <trd lng="cs">plameňáci</trd>
+  <trd lng="de">Flamingov&ouml;gel</trd>
+  <trd lng="fr">ph&oelig;nicopt&eacute;riformes</trd>
+  <trd lng="hu">flaming&oacute;alak&uacute;ak</trd>
+  <trd lng="ru">&c_f;&c_l;&c_a;&c_m;&c_i;&c_n;&c_g;&c_o;<klr tip="amb">
+  (&c_o;&c_t;&c_r;&c_ja;&c_d;)</klr></trd>
+  <trd lng="sk">plameniaci</trd>
+</drv>
+</art>
+<!--
+$Log: feniko.xml,v $
+Revision 1.22  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.21  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.20  2013/09/01 14:10:43  revo
+Wolfram Diestel: referenco al listo bot genroj
+
+Revision 1.19  2013/08/31 17:10:22  revo
+Wolfram Diestel: ~oformaj: referenco al listo zoo ordoj
+
+Revision 1.18  2010/04/14 16:30:21  revo
+Sebastian Cyprych: egal. trd fenikoptero k. flamengo
+
+Revision 1.17  2008/03/31 17:53:00  revo
+Jeromo Vasxe: + mrk
+
+Revision 1.16  2007/05/20 16:31:25  revo
+Tulio Flores: +tr pt
+
+Revision 1.15  2003/12/23 17:38:17  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.14  2003/10/20 17:53:06  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.13  2003/08/25 16:31:01  revo
+-->
+</vortaro>

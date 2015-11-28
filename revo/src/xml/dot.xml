@@ -1,0 +1,151 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: dot.xml,v 1.24 2015/07/04 08:37:32 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>dot</rad>/i
+</kap>
+<drv mrk="dot.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="dot.0i.doni">
+    <dif>
+      Doni <tld/>on al iu:
+      <ekz>
+        li ri&ccirc;e <tld/>is sian nepinon.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_d;&c_a;&c_c;&c_mol; &c_p;&c_a;&c_s;&c_a;&c_g;</trd>
+    <trdgrp lng="de">
+      <trd>beschenken</trd>,
+      <trd>dotieren</trd>
+    </trdgrp>
+    <trd lng="nl">een <ind>bruidsschat</ind> schenken</trd>
+    <trd lng="pl">da&cacute; posag</trd>
+    <trdgrp lng="pt">
+      <trd>dotar</trd>,
+      <trd>conceder <ind>dote</ind></trd>
+    </trdgrp>
+    <trd lng="ru">&c_d;&c_a;&c_t;&c_mol; &c_v; &c_p;&c_r;&c_i;&c_d;&c_a;&c_n;&c_o;&c_je;</trd>
+    <trd lng="sv">ge <ind>hemgift</ind></trd>
+  </snc>
+  <snc mrk="dot.0i.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Havigi iajn kvalitojn:
+      <ekz>
+        naturo lin <tld/>is per lirika temperamento, per tre sa&gcirc;a
+        spirito;
+      </ekz>
+      <ekz>
+        ri&ccirc;e natur<tld/>ita lando
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="ben.0i">beni</ref>,
+      <ref cel="dorlot.0i">dorloti</ref>,
+      <ref cel="favor">favori</ref>.
+    </refgrp>
+    <trdgrp lng="be">
+      <trd>&c_n;&c_a;&c_d;&c_a;&c_c;&c_mol;</trd>,
+      <trd>&c_n;&c_a;&c_d;&c_z;&c_ja;&c_l;&c_ib;&c_c;&c_mol;</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd>ausstatten</trd>,
+      <trd>versehen</trd>
+    </trdgrp>
+    <trd lng="pl">obdarzy&cacute;</trd>
+    <trd lng="pt">dotar</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>dotovat</trd>,
+    <trd>dát věno</trd>,
+    <trd>vybavit věnem</trd>
+  </trdgrp>
+  <trd lng="en">endow</trd>
+  <trd lng="es">dotar</trd>
+  <trd lng="fr">doter<klr tip="ind"> (pourvoir d'une dot, de
+  qualit&eacute;s)</klr></trd>
+  <trd lng="nl">begiftigen</trd>
+  <trd lng="ru">&c_o;&c_d;&c_a;&c_r;&c_i;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>dať výbavu</trd>,
+    <trd>obdariť</trd>
+  </trdgrp>
+  <trd lng="sv">beg&aring;va</trd>
+</drv>
+
+<drv mrk="dot.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc>
+    <dif>
+      Hava&jcirc;o, kiun edzino havigas per la edzi&gcirc;o al sia edzo,
+      a&ubreve; edzo al sia edzino:
+      <ekz>
+        bela viza&gcirc;o estas duono da doto<fnt><bib>PrV</bib></fnt>;
+      </ekz>
+      <ekz>
+        <tld/>aj hava&jcirc;oj;
+      </ekz>
+      <ekz>
+        sen<tld/>a filino.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_s;&c_a;&c_g;</trd>
+  <trd lng="ca">dot</trd>
+  <trdgrp lng="cs">
+    <trd>výbava</trd>,
+    <trd>věno</trd>
+  </trdgrp>
+  <trd lng="de">Mitgift</trd>
+  <trd lng="en">dowry</trd>
+  <trd lng="es">dote</trd>
+  <trd lng="fr">dot</trd>
+  <trd lng="nl">bruidsschat</trd>
+  <trdgrp lng="pl">
+    <trd>posag</trd>,
+    <trd>wiano</trd>
+  </trdgrp>
+  <trd lng="ru">&c_p;&c_r;&c_i;&c_d;&c_a;&c_n;&c_o;&c_je;</trd>
+  <trdgrp lng="sk">
+    <trd>veno</trd>,
+    <trd>výbava</trd>
+  </trdgrp>
+  <trd lng="sv">hemgift</trd>
+</drv>
+</art>
+<!--
+$Log: dot.xml,v $
+Revision 1.24  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.23  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.22  2011/12/01 21:10:11  revo
+Eduardo Navas: +trad es
+
+Revision 1.21  2010/09/10 16:30:20  revo
+Jerano Zachrisson: +trd sv
+
+Revision 1.20  2009/02/28 17:30:52  revo
+Marcus Curdeius: +pl
+
+Revision 1.19  2007/08/14 16:30:28  revo
+Tulio Flores: +tr pt
+
+Revision 1.18  2006/01/09 17:33:21  revo
+Raul Salinas Monteagudo: +trd ca,en,es
+
+Revision 1.17  2005/02/22 17:31:42  revo
+Paul Peeraerts: ald trd nl
+
+Revision 1.16  2004/04/14 16:32:15  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.15  2002/05/13 16:34:22  revo
+-->
+</vortaro>

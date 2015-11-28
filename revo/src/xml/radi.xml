@@ -1,0 +1,360 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: radi.xml,v 1.30 2015/07/04 08:37:42 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>radi</rad>/o
+</kap>
+
+<drv mrk="radi.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc>
+    <dif>
+      &Ccirc;iu aparta rektlinia elsenda&jcirc;o el fonto de lumo, varmo, elektro a&ubreve;
+      ia ajn vibrado:
+      <ekz>
+        sunaj, <ind>transviolaj <tld/>oj</ind>.
+        <trdgrp lng="hu">
+          <trd>iboly&aacute;nt&uacute;li sugarak</trd>,
+          <trd>ultraibolya sugarak</trd>
+        </trdgrp>
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="kis.0i">kisi</ref>.
+    </refgrp>
+    <trd lng="be">&c_p;&c_r;&c_a;&c_m;&c_je;&c_n;&c_mol;</trd>
+    <trd lng="de">Strahl</trd>
+    <trd lng="es">rayo</trd>
+    <trd lng="fr">rayon<klr tip="ind"> (p.ex. lumineux)</klr></trd>
+    <trd lng="hu">sug&aacute;r</trd> 
+    <trd lng="id">radiasi</trd>   
+    <trd lng="nl">straal</trd>
+    <trd lng="pl">promie&nacute;</trd>
+    <trd lng="pt">raio</trd>
+    <trd lng="ru">&c_l;&c_u;&c_ch;</trd>
+  </snc>
+  <snc mrk="radi.0o.radiuso">
+    <uzo tip="fak">MAT</uzo>
+    <uzo tip="stl">ARK</uzo>
+    <fnt><bib>MatTerm</bib><lok>p. 28</lok></fnt>
+    <dif>
+      <ref tip="dif" cel="radius.0o.cirklo">Radiuso</ref>:
+      <ekz>
+        armeo estas nenie en almena&ubreve; trimejla <tld/>o
+        <klr>(en cirklo kun trimejla <tld/>o)</klr>
+        <fnt>B</fnt>;
+      </ekz>
+      <ekz>
+        la rigardo &ccirc;irka&ubreve;prenis en kelkmejla <tld/>o preska&ubreve; la tutan
+        provincon<fnt>B</fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_r;&c_a;&c_d;&c_y;&c_ju;&c_s;</trd>
+    <trd lng="de">Radius</trd>
+    <trd lng="es">radio</trd>
+    <trd lng="hu">sug&aacute;r <klr tip="ind">(f&eacute;l &aacute;tm&eacute;r&odblac;)</klr></trd>    
+    <trd lng="nl">radius</trd>
+    <trd lng="pl">promie&nacute;</trd>
+    <trd lng="ru">&c_r;&c_a;&c_d;&c_i;&c_u;&c_s;</trd>
+  </snc>
+  <snc mrk="radi.0o.duonrekto">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>MatVort</bib></fnt>
+    <trd lng="be">&c_p;&c_r;&c_a;&c_m;&c_je;&c_n;&c_mol;</trd>
+    <ref tip="dif" cel="rekt.duon0o">duonrekto.</ref>
+    <trd lng="de">Halbgerade</trd>
+    <trd lng="es">semirrecta</trd>
+    <trd lng="hu">f&eacute;legyenes</trd>    
+    <trd lng="nl">halfrechte</trd>
+    <trd lng="pl">p&oacute;&lstroke;prosta</trd>
+    <trd lng="ru">&c_l;&c_u;&c_ch;</trd>
+  </snc>
+  <snc mrk="radi.0o.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Io, kio iras de iu centra punkto, discelante kiel bran&ccirc;oj de
+      ventumilo:
+      <ekz>
+        <tld/>oj de rado;
+      </ekz>
+      <ekz>
+        aleoj aran&gcirc;itaj <tld/>e &ccirc;irka&ubreve; centra fontano;
+      </ekz>
+      <ekz>
+        fontoj en formo de dikaj <tld/>oj de akvo<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        <tld/>o da varma sango el&scirc;prucis<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_p;&c_r;&c_a;&c_m;&c_je;&c_n;&c_mol;</trd>,
+      <trd>&c_r;&c_a;&c_d;&c_y;&c_ju;&c_s;</trd>,
+      <trd>&c_s;&c_mol;&c_p;&c_ib;&c_c;&c_a;</trd>
+    </trdgrp>
+    <trd lng="de">Strahl</trd>
+    <trd lng="es">rayo</trd>
+    <trd lng="hu">sug&aacute;r</trd>   
+    <trdgrp lng="id">
+      <trd>jari-jari</trd>,
+      <trd>radius</trd>
+    </trdgrp> 
+    <trd lng="nl">spaak</trd>
+    <trdgrp lng="ru">
+      <trd>&c_l;&c_u;&c_ch;</trd>,
+      <trd>&c_r;&c_a;&c_d;&c_i;&c_u;&c_s;</trd>,
+      <trd>&c_s;&c_p;&c_i;&c_c;&c_a;<klr tip="amb"> (&c_v; &c_k;&c_o;&c_l;&c_je;&c_s;&c_je;)</klr></trd>
+    </trdgrp>
+  </snc>
+  <snc>
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      &Gcirc;ojbrila aspekto:
+      <ekz>
+        super la viza&gcirc;o de la patrino kuris <tld/>o da
+        feli&ccirc;o<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        <ind><tld/>o da espero</ind>;
+        <trd lng="hu">rem&eacute;nysug&aacute;r</trd>
+      </ekz>
+      <ekz>
+        <ind><tld/>luma</ind> estonto.
+        <trd lng="es">radiante</trd>
+        <trd lng="fr">radieux</trd>
+        <trd lng="hu">ragyog&oacute;</trd>
+      </ekz>
+    </dif>
+    <trd lng="be">&c_p;&c_r;&c_a;&c_m;&c_je;&c_n;&c_mol;</trd>
+    <trd lng="de">Strahlen</trd>
+    <trd lng="fr">rayon<klr tip="ind"> (p.ex. de bonheur)</klr></trd>
+    <trd lng="hu">sug&aacute;r <klr tip="ind">(&aacute;tv.)</klr></trd>    
+    <trd lng="nl">straal</trd>
+    <trd lng="pl">blask</trd>
+    <trd lng="ru">&c_l;&c_u;&c_ch;</trd>
+  </snc>
+  <snc>
+    <dif>
+      <ref tip="dif" cel="radiof.0o">Radiofonio</ref>, <tld/>ado 4:
+      <ekz>
+        <tld/>stacio, <ind><tld/>ostacio</ind>.
+        <trd lng="hu">r&aacute;di&oacute;&aacute;llom&aacute;s</trd>
+      </ekz>
+    </dif>
+    <trd lng="be">&c_r;&c_a;&c_d;&c_y;&c_jo;</trd>
+    <trd lng="bg">&c_r;&c_a;&c_d;&c_i;&c_o;</trd>
+    <trdgrp lng="de">
+      <trd>Radio</trd>,
+      <trd>Radioapparat</trd>,
+      <trd>Radioger&auml;t</trd>,
+      <trd>Rundfunkger&auml;t</trd>,
+      <trd>Rundfunkempf&auml;nger</trd>
+    </trdgrp>
+    <trd lng="es">radio</trd>
+    <trd lng="fr">radio</trd>
+    <trdgrp lng="hu">
+      <trd>r&aacute;di&oacute;</trd>,
+      <trd>r&aacute;di&oacute;z&aacute;s</trd>
+    </trdgrp>
+    <trd lng="id">radio</trd>
+    <trd lng="nl">radio</trd>
+    <trd lng="pl">radio</trd>
+    <trd lng="ru">&c_r;&c_a;&c_d;&c_i;&c_o;</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>dosah</trd>,
+    <trd>okruh</trd>,
+    <trd>paprsek</trd>,
+    <trd>polopřímka</trd>,
+    <trd>rádius</trd>
+  </trdgrp>
+  <trd lng="en">ray</trd>
+  <trdgrp lng="sk">
+    <trd>dosah</trd>,
+    <trd>lúč</trd>,
+    <trd>okruh</trd>,
+    <trd>rádius</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="radi.0i">
+  <kap><tld/>i</kap>
+  <snc>
+    <gra><vspec>x</vspec></gra>
+    <dif>
+      Eligi kaj dissendi <tld/>ojn de lumo, varmo a&ubreve; vibrado:
+      <ekz>
+        la suno <tld/>is oblikve;
+      </ekz>
+      <ekz>
+        la kupolo de la templo <tld/>as en la suno<fnt>B</fnt>;
+      </ekz>
+      <ekz>
+        en la varmaj landoj la suno <tld/>as (<tld/>e dissendas) alian
+        varmegon ol &ccirc;e ni<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        <ind><tld/>antaj substancoj</ind>
+        <trd lng="hu">sug&aacute;rz&oacute; anyagok</trd>
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        lernejo estas fajrejo dis<tld/>anta la spiritan vivon;
+      </ekz>
+      <ekz>
+        lumo, kiu povus pri<tld/>i la problemon<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_v;&c_y;&c_p;&c_r;&c_a;&c_m;&c_je;&c_n;&c_mol;&c_v;&c_a;&c_c;&c_mol;</trd>,
+      <trd>&c_p;&c_r;&c_a;&c_m;&c_ja;&c_n;&c_ib;&c_c;&c_c;&c_a;</trd>
+      <trd>&c_z;&c_mol;&c_z;&c_ja;&c_c;&c_mol;</trd>
+    </trdgrp>
+    <trd lng="de">strahlen</trd>
+    <trd lng="es">irradiar</trd>
+    <trd lng="fr">rayonner</trd>
+    <trd lng="nl">uitstralen</trd>
+    <trd lng="pl">promieniowa&cacute;</trd>
+    <trdgrp lng="ru">
+      <trd>&c_i;&c_z;&c_l;&c_u;&c_ch;&c_a;&c_t;&c_mol;</trd>,
+      <trd>&c_s;&c_i;&c_ja;&c_t;&c_mol;</trd>
+    </trdgrp>
+  </snc>
+  <snc>
+    <gra><vspec>ntr</vspec></gra>
+    <dif>
+      Disiri de iu punkto discelante kvaza&ubreve; <tld/>oj de rado:
+      <ekz>
+        pavoj kun etenditaj <tld/>antaj vostoj<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        el tiu placo el<tld/>as 6 stratoj.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>ausstrahlen</trd>
+    </trdgrp>
+    <trd lng="be">&c_v;&c_y;&c_h;&c_o;&c_d;&c_z;&c_ib;&c_c;&c_mol; <klr>(&c_ja;&c_k; &c_p;&c_r;&c_a;&c_m;&c_je;&c_n;&c_mol;)</klr></trd>
+    <trd lng="fr">rayonner</trd>
+    <trd lng="pl">rozchodzi&cacute; si&eogonek; <klr>(promieni&sacute;cie)</klr></trd>
+    <trd lng="ru">&c_i;&c_s;&c_h;&c_o;&c_d;&c_i;&c_t;&c_mol;</trd>
+  </snc>
+  <snc>
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      &Gcirc;oje a&ubreve; pompe brili:
+      <ekz>
+        &scirc;iaj okuloj <tld/>is<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        <tld/>anta rideto<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        li <tld/>is de feli&ccirc;o<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        la plej fiera, kies filinoj <tld/>as de beleco<fnt>B</fnt>;
+      </ekz>
+      <ekz>
+        &scirc;i levi&gcirc;is ridetanta kaj <tld/>anta<fnt>B</fnt>;
+      </ekz>
+      <ekz>
+        lia viza&gcirc;o <tld/>is pro &gcirc;ojo;
+      </ekz>
+      <ekz>
+        el lia persono <tld/>as majesteco;
+      </ekz>
+      <ekz>
+        la milkolora beleco de la floroj <tld/>as en la &gcirc;ardenoj;
+      </ekz>
+      <ekz>
+        li lum<tld/>is de &gcirc;ojo<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_z;&c_mol;&c_z;&c_ja;&c_c;&c_mol;</trd>,
+      <trd>&c_p;&c_r;&c_a;&c_m;&c_ja;&c_n;&c_je;&c_c;&c_mol;</trd>
+    </trdgrp>
+    <trd lng="de">strahlen</trd>
+    <trd lng="fr">rayonner</trd>
+    <trdgrp lng="hu">
+      <trd>sug&aacute;roz</trd>,
+      <trd>kisug&aacute;roz</trd>
+    </trdgrp>
+    <trd lng="nl">stralen</trd>
+    <trdgrp lng="pl">
+      <trd>b&lstroke;yszcze&cacute;</trd>,
+      <trd>brylowa&cacute;</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_s;&c_i;&c_ja;&c_t;&c_mol;</trd>,
+      <trd>&c_l;&c_u;&c_ch;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>
+    </trdgrp>
+  </snc>
+  <snc>
+    <dif>
+      Uzi radiofonion, dissendi radiofonia&jcirc;ojn per <tld/>ondoj.
+    </dif>
+    <trd lng="be">&c_p;&c_je;&c_r;&c_a;&c_d;&c_a;&c_v;&c_a;&c_c;&c_mol; <klr tip="amb">(&c_p;&c_a; &c_r;&c_a;&c_d;&c_y;&c_jo;)</klr></trd>
+    <trdgrp lng="de">
+      <trd>senden</trd>,
+      <trd>ausstrahlen</trd>
+    </trdgrp>
+    <trd lng="es">radiar</trd>
+    <trd lng="nl">uitzenden</trd>
+    <trdgrp lng="pl">
+      <trd>rozsy&lstroke;a&cacute; <klr>(drog&aogonek; radiow&aogonek;)</klr></trd>,
+      <trd>nadawa&cacute;</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_r;&c_a;&c_d;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>,
+      <trd>&c_p;&c_je;&c_r;&c_je;&c_d;&c_a;&c_v;&c_a;&c_t;&c_mol; &c_p;&c_o; &c_r;&c_a;&c_d;&c_i;&c_o;</trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>rozzářit</trd>,
+    <trd>vysílat rozhlasem</trd>
+  </trdgrp>
+  <trd lng="fr">&eacute;mettre</trd>
+  <trdgrp lng="sk">
+    <trd>sálať</trd>,
+    <trd>vyžarovať</trd>,
+    <trd>žiariť</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: radi.xml,v $
+Revision 1.30  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.29  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.28  2014/09/22 12:10:12  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.27  2014/06/04 03:10:48  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.26  2011/06/03 11:10:17  revo
+Carlos Angus: +trd es
+
+Revision 1.25  2007/12/09 17:30:51  revo
+Wieland Pusch: +trd bg
+
+Revision 1.24  2006/02/18 17:31:43  revo
+Tulio Flores: +trd pt
+
+Revision 1.23  2005/01/12 18:22:45  revo
+Wieland Pusch: +trd de
+
+Revision 1.22  2004/08/30 16:32:50  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.21  2004/05/25 16:34:10  revo
+-->
+</vortaro>

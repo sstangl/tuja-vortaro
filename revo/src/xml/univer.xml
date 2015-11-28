@@ -1,0 +1,162 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: univer.xml,v 1.30 2015/07/04 08:37:45 revo Exp $">
+<kap>
+   <ofc>*</ofc>
+   <rad>univers</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="univer.0o">
+   <kap><ofc>*</ofc><tld/>o</kap>
+   <tezrad/>
+   <tezrad fak="AST"/>
+   <snc mrk="univer.0o.FIZ">
+     <uzo tip="fak">AST</uzo>
+     <uzo tip="fak">FIZ</uzo>
+     <dif>
+       La tuto de <ref cel="cxio.0">&ccirc;io</ref>, kio ekzistas:
+       <ekz>
+         post tempo la antimaterio malaperis el la <tld/>o
+         <fnt>
+         <aut>OH</aut>,
+         <vrk>&Ccirc;u antimaterio en la universo?</vrk>,
+         <bib>Monato</bib>,
+         <lok>jaro 2001a, numero 2a, p. 23a</lok>
+         </fnt>.
+       </ekz>
+     </dif>
+   </snc>
+  <trd lng="be">&c_s;&c_u;&c_s;&c_mol;&c_v;&c_je;&c_t;</trd>
+  <trd lng="br">hollved</trd>
+  <trd lng="ca">univers</trd>
+  <trd lng="cs">vesmír</trd>
+  <trd lng="de">Universum</trd>
+  <trd lng="el">&sigma;&ypsilon_ton;&my;&pi;&alfa;&ny;</trd>
+  <trd lng="en">universe</trd>
+  <trd lng="es">universo</trd>
+  <trdgrp lng="fi">
+     <trd>maailmankaikkeus</trd>,
+     <trd>universumi</trd>
+   </trdgrp>
+  <trd lng="fr">univers</trd>
+  <trdgrp lng="hu">
+     <trd>vil&aacute;gegyetem</trd>,
+     <trd>univerzum</trd>
+   </trdgrp>
+  <trd lng="it">universo</trd>
+  <trd lng="nl">heelal</trd>
+  <trd lng="pt">universo</trd>
+  <trd lng="ru">&c_v;&c_s;&c_je;&c_l;&c_je;&c_n;&c_n;&c_a;&c_ja;</trd>
+  <trdgrp lng="sk">
+    <trd>univerzum</trd>,
+    <trd>vesm&iacute;r</trd>
+  </trdgrp>
+  <trd lng="sv">universum</trd>
+  <trdgrp lng="tp">
+      <trd>ale</trd>,
+      <trd>ali</trd>
+    </trdgrp>
+</drv>
+
+<drv mrk="univer.0a">
+   <kap><tld/>a</kap>
+   <snc mrk="univer.0a.FIZ">
+     <dif>
+       Rilata al <tld/>o:
+       <ekz>
+         la <tld/>a &hcirc;emio, fiziko
+         <klr>(studantaj la fenomenoj je la skalo de l' <tld/>o, kaj ne
+         de la tero)</klr>.
+       </ekz>
+     </dif>
+   </snc>
+  <trd lng="be">&c_s;&c_u;&c_s;&c_mol;&c_v;&c_je;&c_t;&c_n;&c_y;</trd>
+  <trd lng="br">hollvedel</trd>
+  <trd lng="ca">universal</trd>
+  <trd lng="cs">vesmírný</trd>
+  <trd lng="en">universal</trd>
+  <trd lng="es">universal</trd>
+  <trdgrp lng="fi">
+     <trd>universumin</trd>,
+     <trd>kosminen</trd>
+   </trdgrp>
+  <trdgrp lng="fr">
+     <trd>cosmique</trd>,
+     <trd>universel<klr> (cosmique)</klr></trd>
+   </trdgrp>
+  <trd lng="hu">&udblac;r-</trd>
+  <trdgrp lng="it">
+     <trd>universale<klr> (cosmico)</klr></trd>,
+     <trd>cosmico</trd>
+   </trdgrp>
+  <trd lng="pt">universal</trd>
+  <trdgrp lng="sk">
+     <trd>kozmick&yacute;</trd>,
+     <trd>vesm&iacute;rny</trd>
+   </trdgrp>
+  <trdgrp lng="tp">
+     <trd>ale</trd>,
+     <trd>ali</trd>
+   </trdgrp>
+</drv>
+
+<drv mrk="univer.paralela0o">
+  <kap>paralela <tld/>o</kap>
+  <snc mrk="univer.paralela0o.FIL">
+    <uzo tip="fak">BELE</uzo>
+    <uzo tip="fak">FIL</uzo>
+    <dif>
+      Supozata alia <tld/>o ol la konata, funkcianta simile a&ubreve; 
+      malsimile al &gcirc;i:
+      <ekz>
+        la kosmaj voja&gcirc;antoj misvage trafas la&ubreve;vice en plurajn 
+        paralelajn <tld/>ojn, pli a&ubreve; malpli similajn al tiuj, kie ili 
+        hejmas
+        <fnt>
+          <aut>S. Johansson</aut>,
+          <vrk><url
+          ref="http://esperanto.net/literaturo/roman/libr/misialvenrec.html">
+          Venu, homoj!</url></vrk>,
+          <lok>[2004]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="ca"><ind>univers</ind> paral&middot;lel</trd>
+  <trd lng="fr">univers parall&egrave;le</trd>
+  <trd lng="it"><ind>universo</ind> parallelo</trd>
+</drv>
+</art>
+<!--
+$Log: univer.xml,v $
+Revision 1.30  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.29  2015/06/28 12:03:41  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.28  2014/02/07 19:10:13  revo
+Damien Brucker: -eraro cxe ref
+
+Revision 1.27  2013/07/13 13:10:15  revo
+Wolfram Diestel: referenco al cxio
+
+Revision 1.26  2012/08/13 14:10:25  revo
+Marc Rausell: ++ trd ca
+
+Revision 1.25  2010/04/16 16:31:29  revo
+Antonio Codazzi: +td it
+
+Revision 1.24  2009/10/24 16:33:19  revo
+Jeromo Vasxe: + paralela ~o
+
+Revision 1.23  2008/12/12 17:57:24  revo
+Jerano Zachrisson: +trd sv
+
+Revision 1.22  2007/06/19 16:31:23  revo
+Harri Laine: +trd fi
+
+Revision 1.21  2006/09/19 05:36:16  revo
+-->
+</vortaro>

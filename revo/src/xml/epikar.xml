@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: epikar.xml,v 1.16 2015/07/04 08:37:33 revo Exp $">
+<kap>
+<rad>epikarp</rad>/o
+</kap>
+<drv mrk="epikar.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">BOT</uzo>
+  <snc>
+    <dif>
+      Ekstera parto de la <ref tip="malprt" 
+      cel="perika1.0o">perikarpo</ref>.
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="endoka1.0o">endokarpo</ref>,
+      <ref cel="mezoka.0o">mezokarpo</ref>
+    </refgrp>
+  </snc>
+  <trd
+  lng="be">&c_n;&c_a;&c_d;&c_p;&c_l;&c_o;&c_d;&c_n;&c_ib;&c_k;</trd>
+  <trd lng="ca">epicarpi</trd>
+  <trdgrp lng="cs">
+    <trd>slupka</trd>,
+    <trd>vnější oplodí</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+     <trd>Epikarpo</trd>,
+     <trd>&auml;u&szlig;erste Schicht der Fruchtschale</trd>
+  </trdgrp>
+  <trd lng="fr">&eacute;picarpe</trd>
+  <trdgrp lng="hu">
+    <trd>k&uuml;ls&odblac; <ind>term&eacute;sfal</ind></trd>,
+    <trd>epikarpium</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>sk&oacute;rka<klr> owocu</klr></trd>,
+    <trd>obowocnia</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>epicarpo</trd>,
+    <trd>exocarpo</trd>
+  </trdgrp>
+  <trd lng="ru">&c_n;&c_a;&c_d;&c_p;&c_l;&c_o;&c_d;&c_n;&c_i;&c_k;</trd>
+  <trdgrp lng="sk">
+    <trd>vonkajšie oplodie</trd>,
+    <trd>šupka</trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log: epikar.xml,v $
+Revision 1.16  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.14  2012/08/19 20:10:37  revo
+Marc Rausell: + trd ca
+
+Revision 1.13  2010/02/05 17:30:45  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.12  2007/06/28 16:32:53  revo
+Tulio Flores: +tr pt
+
+Revision 1.11  2005/02/07 17:31:51  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.10  2002/06/25 19:37:09  revo
+Ulrich Fellmann: aldono de mankanta komo
+
+Revision 1.9  2002/06/22 13:00:28  revo
+Ulrich Fellmann: + 2 trd de
+
+Revision 1.8  2002/05/08 16:32:27  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.7  2001/06/27 18:12:02  revo
+-->
+</vortaro>

@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+  <art mrk="$Id: kresto.xml,v 1.19 2015/07/04 08:37:38 revo Exp $">
+    <kap>
+      <ofc>2</ofc>
+      <rad>krestomati</rad>/o
+    </kap>
+    <drv mrk="kresto.0o">
+      <kap><ofc>*</ofc><tld/>o</kap>
+      <snc>
+	<dif>
+	  Instrucela <ref tip="super" cel="tekst.0aro">tekstaro</ref>
+	  da prozaj kaj poeziaj pecoj, ofte en unu sama lingvo, a&ubreve; el
+	  verkoj de unu sama a&ubreve;toro:
+          <ekz>
+          cedante al la peto de multaj esperantistoj, mi eldonis la
+          Fundamenton <tld lit="K"/>on, kiu povos servi al &ccirc;iuj kiel
+          modelo de esperanta stilo<fnt><bib>FK</bib></fnt>;
+          </ekz>
+	  <ekz>
+	    atentan tralegon de la Fundamenta <tld lit="K"/>o mi rekomendas al
+	    &ccirc;iu<fnt><bib>FK</bib></fnt>.
+	  </ekz>
+	</dif>
+	<ref tip="vid" cel="antolo.0o.BELE">antologio</ref>
+      </snc>
+  <trd lng="be">&c_h;&c_r;&c_e;&c_s;&c_t;&c_a;&c_m;&c_a;&c_t;&c_y;&c_ja;</trd>
+  <trd lng="ca">crestomatia</trd>
+  <trdgrp lng="cs">
+    <trd>výbor z četby</trd>,
+    <trd>čítanka</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+         <trd>Chrestomathie</trd>,
+         <trd>Lernlesebuch</trd>
+      </trdgrp>
+  <trd lng="en">chrestomathy</trd>
+  <trd lng="fr">chrestomathie</trd>
+  <trdgrp lng="hu">
+         <trd>sz&ouml;veggy&udblac;jtem&eacute;ny</trd>,
+         <trd>kresztom&aacute;tia</trd>
+      </trdgrp>
+  <trd lng="nl">bloemlezing</trd>
+  <trdgrp lng="pt">
+        <trd>crestomatia</trd>,
+        <trd>antologia</trd>
+      </trdgrp>
+  <trd lng="ru">&c_h;&c_r;&c_je;&c_s;&c_t;&c_o;&c_m;&c_a;&c_t;&c_i;&c_ja;</trd>
+  <trdgrp lng="sk">
+    <trd>chrestomatia</trd>,
+    <trd>pedagogická zbierka poézie a prózy</trd>
+  </trdgrp>
+</drv>
+  </art>
+  <!--
+  $Log: kresto.xml,v $
+  Revision 1.19  2015/07/04 08:37:38  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.18  2015/06/29 16:33:18  revo
+  aldono de trd sk per skripto de M. von Laer
+
+  Revision 1.17  2014/07/13 17:10:10  revo
+  Damien Brucker: +ekz
+
+  Revision 1.16  2014/04/14 14:10:15  revo
+  Damien Brucker: +trd fr
+
+  Revision 1.15  2012/01/01 20:10:25  revo
+  Marc Rausell: +trd ca
+
+  Revision 1.14  2006/11/02 17:31:23  revo
+  Tulio Flores: +tr pt
+
+  Revision 1.13  2004/04/22 16:31:06  revo
+  Jozefo Horvath: +trd hu
+
+  Revision 1.12  2002/12/23 17:31:44  revo
+  Dmitri Gabinski: +trd be
+
+  Revision 1.11  2002/02/25 17:32:44  revo
+  Ulrich Fellmann: + 2 germ trdj
+
+  Revision 1.10  2001/12/11 18:24:24  revo
+  Sergio Pokrovskij: ref-cel
+
+  Revision 1.9  2001/12/10 17:32:09  revo
+  Sergio Pokrovskij: dif, TEZ
+
+  Revision 1.8  2001/11/23 10:47:04  revo
+  Paul Peeraerts: ald trd nl
+
+  Revision 1.7  2001/11/07 19:17:28  revo
+  Yury Finkel: +trd ru
+
+  Revision 1.6  2001/05/07 16:12:32  revo
+  Karlo Freeman: +trd=en
+
+  -->
+</vortaro>

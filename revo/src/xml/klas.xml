@@ -1,0 +1,476 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: klas.xml,v 1.32 2015/07/04 08:37:37 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>klas</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="klas.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="klas.0o.speco">
+    <dif>
+      <ref tip="super" cel="ar.0o.KOMUNE">Aro</ref> da personoj a&ubreve;
+      objektoj similaj la&ubreve; rango, kvalito a&ubreve; naturo:
+      <ekz>
+        tiu libro celas &ccirc;iujn <tld/>ojn da legantoj;
+      </ekz>
+      <ekz>
+        tiuj varoj formas apartan <tld/>on;
+      </ekz>
+      <ekz>
+        <ind>unua<tld/>a</ind> in&gcirc;eniero, vagono.
+        <trd lng="fr">de premi&egrave;re <ind>classe</ind></trd>
+        <trdgrp lng="ru">
+          <trd>&c_p;&c_je;&c_r;&c_v;&c_o;&c_k;&c_l;&c_a;&c_s;&c_s;&c_n;&c_y;&c_j;</trd>,
+          <trd>&c_p;&c_je;&c_r;&c_v;&c_o;&c_g;&c_o; &c_k;&c_l;&c_a;&c_s;&c_s;&c_a;</trd>
+        </trdgrp>
+      </ekz>
+    </dif>
+    <subsnc mrk="klas.0o.POL">
+      <uzo tip="fak">POL</uzo>
+      <dif>
+        Parto de popolo havanta samajn civilajn, politikajn, ekonomiajn
+        kondi&ccirc;ojn:
+        <ekz>
+          la tri <tld/>oj de l' patricioj, kavaliroj kaj plebanoj
+          en la antikva Romo;
+        </ekz>
+        <ekz>
+          la reganta, la meza, la laborista <tld/>o;
+        </ekz>
+        <ekz>
+          la <tld/>batalo;
+        </ekz>
+        <ekz>
+          bon<tld/>a<fnt>Z</fnt>,
+        </ekz>
+        <ekz>
+          <ind>alt<tld/>a</ind> homo<fnt>Z</fnt>.
+          <trdgrp lng="fr">
+            <trd>de grande <ind>classe</ind></trd>,
+            <trd>des <ind>classe</ind>s sup&eacute;rieures</trd>,
+            <trd>de grand <ind>standing</ind></trd>,
+            <trd>de <ind>qualit&eacute;</ind></trd>
+          </trdgrp>
+        </ekz>
+      </dif>
+      <trd lng="nl">klasse</trd>
+    </subsnc>
+    <subsnc mrk="klas.0o.PED">
+      <uzo tip="fak">PED</uzo>
+      <dif>
+        Aro el &ccirc;iuj lernantoj, kiuj sekvas iun gradon de studkurso:
+        <ekz>
+          la altaj, malaltaj <tld/>oj.
+        </ekz>
+      </dif>
+      <trd lng="nl">klas</trd>
+    </subsnc>
+    <subsnc mrk="klas.0o.BIO">
+      <uzo tip="fak">BOT</uzo>
+      <uzo tip="fak">ZOO</uzo>
+      <dif>
+        &Scirc;tupo de la botanika kaj zoologia klasifikoj
+        (<trd lng="la">classis</trd>).
+      </dif>
+      <ref tip="malprt" cel="filum.0o">filumo</ref>
+      <ref tip="prt" cel="ord.0o.BIO">ordo</ref>
+      <trd lng="nl">klasse</trd>
+    </subsnc>
+    <trd lng="nl">klasse</trd>
+  </snc>
+  <snc mrk="klas.0o.TRA">
+    <uzo tip="fak">TRA</uzo>
+    <dif>
+      Parto pli luksa a&ubreve; malpli luksa de veturilo,
+      por kies uzo oni pagas malsame ol por aliaj partoj:
+      <ekz>
+        <ctl>sed, mi posedas bileton por la unua <tld/>o,</ctl> mi diris
+        <fnt>
+          <aut>M. K. Gandhi, trad. A Giridhar Rao</aut>, 
+          <vrk>Eksperimentoj kun la Vero...</vrk>,
+          <lok>2001-2008, <url
+          ref="http://www.geocities.com/agrao99/gandhi/eksperimentoj/dua/survoje_al_pretorio.htm">
+          parto 2a, &ccirc;apitro 8a</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="klas.0o.PED.kurso">
+    <uzo tip="stl">EVI</uzo>
+    <uzo tip="fak">PED</uzo>
+    <ref tip="dif" cel="kurs.0o.lerna">kurso <sncref/></ref>
+    <ekz>
+      fari siajn klasikajn <tld/>ojn<fnt>Z</fnt>.
+    </ekz>
+    <trd lng="nl">klas</trd>
+  </snc>
+  <trd lng="be">&c_k;&c_l;&c_ja;&c_s;</trd>
+  <trdgrp lng="cs">
+    <trd>classis</trd>,
+    <trd>klasa</trd>,
+    <trd>t&rcaron;&iacute;da</trd>,
+    <trd>třída</trd>
+  </trdgrp>
+  <trd lng="de">Klasse</trd>
+  <trd lng="en">class</trd>
+  <trdgrp lng="fr">
+    <trd>classe</trd>,
+    <trd>cat&eacute;gorie</trd>,
+    <trd>esp&egrave;ce</trd>,
+    <trd>condition<klr tip="ind"> (sociale)</klr></trd>,
+    <trd>cours</trd>,
+    <trd>milieu<klr tip="ind"> (social)</klr></trd>,
+    <trd>niveau</trd>,
+    <trd>rang</trd>,
+    <trd>standing</trd>,
+  </trdgrp>
+  <trd lng="hu">oszt&aacute;ly</trd>
+  <trd lng="ru">&c_k;&c_l;&c_a;&c_s;&c_s;</trd>
+  <trdgrp lng="sk">
+    <trd>klasa</trd>,
+    <trd>trieda</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="klas.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <ref tip="dif" cel="klasif.0i">klasifiki</ref>
+    <ekz>
+      se <tld/>i &ccirc;i poemojn la&ubreve; la terminologio de Auld, ili apartenus
+      al
+      la primitiva romantismo
+      <fnt><aut>C. Minnaja</aut>, <vrk>Meritanta ne nur reeldonon</vrk>,
+      <bib>Monato</bib>, <lok>jaro 2001a, numero 7a, p. 28a</lok></fnt>.
+    </ekz>
+  </snc>
+  <trd lng="be">&c_k;&c_l;&c_ja;&c_s;&c_y;&c_f;&c_ib;&c_k;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>přebrat</trd>,
+    <trd>setřídit</trd>,
+    <trd>třídit</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>classer</trd>,
+    <trd>arranger</trd>,
+    <trd>cat&eacute;goriser</trd>,
+    <trd>classifier</trd>,
+    <trd>ordonner</trd>,
+    <trd>trier</trd>,
+    <trd>ranger</trd>
+  </trdgrp>
+  <trd lng="hu">oszt&aacute;lyoz</trd>
+  <trd lng="nl">classificeren</trd>
+  <trdgrp lng="ru">
+    <trd>&c_k;&c_l;&c_a;&c_s;&c_s;&c_i;&c_f;&c_i;&c_c;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_s;&c_o;&c_r;&c_t;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>triediť</trd>,
+    <trd>vytriediť</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="klas.0igi">
+  <kap><tld/>igi</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <ref tip="dif" cel="klasif.0i">klasifiki</ref>
+    <ekz>
+      la korea <klr>...</klr> estas <klr>...</klr> malcerte <tld/>igita
+      kiel ural-altaja lingvo
+      <fnt><aut>B. Kendal</aut>, <vrk>La korea</vrk>,
+      <bib>Monato</bib>, <lok>jaro 2002a, numero 3a, p.
+      21-23a</lok></fnt>.
+    </ekz>
+  </snc>
+  <trd lng="be">&c_k;&c_l;&c_ja;&c_s;&c_y;&c_f;&c_ib;&c_k;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="cs">nechat setřídit</trd>
+  <trdgrp lng="fr">
+    <trd>classer</trd>,
+    <trd>arranger</trd>,
+    <trd>cat&eacute;goriser</trd>,
+    <trd>classifier</trd>,
+    <trd>ordonner</trd>,
+    <trd>trier</trd>,
+    <trd>ranger</trd>
+  </trdgrp>
+  <trd lng="hu">oszt&aacute;lyoz</trd>
+  <trd lng="nl">classificeren</trd>
+  <trdgrp lng="ru">
+    <trd>&c_k;&c_l;&c_a;&c_s;&c_s;&c_i;&c_f;&c_i;&c_c;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_s;&c_o;&c_r;&c_t;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="sk">nechať vytriediť</trd>
+</drv>
+
+<drv mrk="klas.en0igi">
+  <kap>en<tld/>igi</kap>
+  <snc>
+    <ref tip="dif" cel="klasif.0i">klasifiki</ref>
+  </snc>
+  <trd lng="be">&c_k;&c_l;&c_ja;&c_s;&c_y;&c_f;&c_ib;&c_k;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="cs">zatřídit</trd>
+  <trdgrp lng="fr">
+    <trd>classer</trd>,
+    <trd>arranger</trd>,
+    <trd>cat&eacute;goriser</trd>,
+    <trd>classifier</trd>,
+    <trd>ordonner</trd>,
+    <trd>trier</trd>,
+    <trd>ranger</trd>
+  </trdgrp>
+  <trd lng="hu">oszt&aacute;lyoz</trd>
+  <trd lng="nl">classificeren</trd>
+  <trdgrp lng="ru">
+    <trd>&c_k;&c_l;&c_a;&c_s;&c_s;&c_i;&c_f;&c_i;&c_c;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_s;&c_o;&c_r;&c_t;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="sk">zatriediť</trd>
+</drv>
+
+<drv mrk="klas.sam0ano">
+  <kap>sam<tld/>ano</kap>
+  <snc mrk="klas.sam0ano.PED">
+    <uzo tip="fak">PED</uzo>
+    <dif>
+      Ano de sama studklaso:
+      <ekz>
+        vi parolos al iu el niaj sam<tld/>anoj
+        <fnt><bib>Gerda</bib>, <lok>&ccirc;apitro 19a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>spolužák ve třídě</trd>,
+    <trd>spolužák ze třídy</trd>
+  </trdgrp>
+  <trd lng="fr">camarade de classe</trd>
+  <trd lng="sk">spolužiak</trd>
+</drv>
+
+<drv mrk="klas.ekvivalento0o">
+  <kap>ekvivalento-<tld/>o, <var><kap>ekvivalent<tld/>o<fnt><bib>EKV</bib>,
+  <lok>&para;114</lok></fnt></kap></var></kap>
+  <uzo tip="fak">MAT</uzo>
+  <snc>
+    <dif>
+      <klr>(de elemento <frm><k>x</k></frm> la&ubreve;
+      <ref cel="rilat.ekvivalento0o">ekvivalento-rilato</ref>
+      <frm><g>R</g></frm>)</klr>
+      <ref tip="super" cel="ar.0o.MAT">Aro</ref> de &ccirc;iuj tiaj
+      elementoj <frm><k>y</k></frm>, ke
+      <frm><k>x</k><g>R</g><k>y</k></frm>.
+    </dif>
+    <ref tip="malprt" cel="ar.kvocienta0o">kvocienta aro</ref>
+  </snc>
+  <trd lng="de">&Auml;quivalenzklasse</trd>
+  <trd lng="en">equivalence <ind>class</ind></trd>
+  <trd lng="fr">classe d'&eacute;quivalence</trd>
+  <trd lng="hu">ekvivalenciaoszt&aacute;ly</trd>
+  <trdgrp lng="pl">
+    <trd>klasa abstrakcji</trd>,
+    <trd>warstwa<klr tip="ind"> (relacji r&oacute;wnowa&zdot;no&sacute;ci)</klr></trd>
+  </trdgrp>
+  <trd lng="ru">&c_k;&c_l;&c_a;&c_s;&c_s; &c_e;&c_k;&c_v;&c_i;&c_v;&c_a;&c_l;&c_je;&c_n;&c_t;&c_n;&c_o;&c_s;&c_t;&c_i;</trd>
+</drv>
+
+<drv mrk="klas.dekstra0o">
+  <kap>dekstra <tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <snc>
+    <dif>
+      <klr>(de <ref cel="grup.0o.MAT">grupo</ref> <frm><g>G</g></frm>
+      rilate
+      al subgrupo <frm><g>H</g></frm> de &gcirc;i kaj elemento
+      <frm><k>a</k>&#8712;<g>G</g></frm>)</klr>
+      Aro de &ccirc;iuj elementoj de la tipo <frm><k>h</k>.<k>a</k></frm>,
+      kie
+      <frm><k>h</k>&#8712;<g>H</g></frm>; simb. <frm><g>H</g><k>a</k></frm>:
+      <ekz>
+        dekstra <tld/>o estas ekvivalento-<tld/>o la&ubreve; la rilato
+        <frm><k>x</k>.<k>y</k><sup>-1</sup>&#8712;<g>H</g></frm>.
+      </ekz>
+    </dif>
+    <ref tip="super" cel="klas.flanka0o">flanka <tld/>o;</ref>
+    <refgrp tip="vid">
+      <ref cel="klas.maldekstra0o">maldekstra <tld/>o</ref>,
+      <ref cel="invari.0a.subgrupo">invarianta</ref> subgrupo.
+    </refgrp>
+  </snc>
+  <adm>
+    Proponita termino. <aut>MB</aut>
+  </adm>
+  <trdgrp lng="de">
+    <trd>rechtsseitige <ind>Nebenklasse</ind></trd>,
+    <trd>rechtsseitige <ind>Restklasse</ind></trd>,
+    <trd>rechte <ind>Nebenklasse</ind></trd>,
+    <trd>rechte <ind>Restklasse</ind></trd>
+  </trdgrp>
+  <trd lng="en">right <ind>coset</ind></trd>
+  <trd lng="fr">classe<klr tip="amb"> (lat&eacute;rale)</klr> &agrave; droite</trd>
+  <trd lng="pl">warstwa prawostronna</trd>
+  <trd lng="ru">&c_p;&c_r;&c_a;&c_v;&c_o;&c_s;&c_t;&c_o;&c_r;&c_o;&c_n;&c_n;&c_i;&c_j; &c_s;&c_m;&c_je;&c_zh;&c_n;&c_y;&c_j;
+  <ind>&c_k;&c_l;&c_a;&c_s;&c_s;</ind></trd>
+</drv>
+
+<drv mrk="klas.maldekstra0o">
+  <kap>maldekstra <tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <snc>
+    <dif>
+      <klr>(de <ref cel="grup.0o.MAT">grupo</ref> <frm><g>G</g></frm>
+      rilate
+      al subgrupo <frm><g>H</g></frm> de &gcirc;i kaj elemento
+      <frm><k>a</k>&#8712;<g>G</g></frm>)</klr>
+      Aro de &ccirc;iuj elementoj de la tipo <frm><k>a</k>.<k>h</k></frm>,
+      kie
+      <frm><k>h</k>&#8712;<g>H</g></frm>; simb. <frm><k>a</k><g>H</g></frm>:
+      <ekz>
+        maldekstra <tld/>o estas ekvivalento-<tld/>o la&ubreve; la rilato
+        <frm><k>x</k><sup>-1</sup>.<k>y</k>&#8712;<g>H</g></frm>.
+      </ekz>
+    </dif>
+    <ref tip="super" cel="klas.flanka0o">flanka <tld/>o;</ref>
+    <refgrp tip="vid">
+      <ref cel="klas.dekstra0o">dekstra <tld/>o</ref>,
+      <ref cel="invari.0a.subgrupo">invarianta</ref> subgrupo.
+    </refgrp>
+  </snc>
+  <adm>
+    Proponita termino. <aut>MB</aut>
+  </adm>
+  <trdgrp lng="de">
+    <trd>linksseitige <ind>Nebenklasse</ind></trd>,
+    <trd>linksseitige <ind>Restklasse</ind></trd>,
+    <trd>linke <ind>Nebenklasse</ind></trd>,
+    <trd>linke <ind>Restklasse</ind></trd>
+  </trdgrp>
+  <trd lng="en">left <ind>coset</ind></trd>
+  <trd lng="fr">classe<klr tip="amb"> (lat&eacute;rale)</klr> &agrave; gauche</trd>
+  <trd lng="pl">warstwa lewostronna</trd>
+  <trd lng="ru">&c_l;&c_je;&c_v;&c_o;&c_s;&c_t;&c_o;&c_r;&c_o;&c_n;&c_n;&c_i;&c_j; &c_s;&c_m;&c_je;&c_zh;&c_n;&c_y;&c_j;
+  <ind>&c_k;&c_l;&c_a;&c_s;&c_s;</ind></trd>
+</drv>
+
+<drv mrk="klas.flanka0o">
+  <kap>flanka <tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <snc>
+    <refgrp tip="sub">
+      <ref cel="klas.dekstra0o">dekstra <tld/>o</ref>,
+      <ref cel="klas.maldekstra0o">maldekstra <tld/>o</ref>;
+    </refgrp>
+    <ref tip="malprt" cel="grup.kvocienta0o">kvocienta grupo.</ref>
+    <rim>
+      &Ccirc;i tiu termino trovas apogon en pluraj naciaj lingvoj. Ni
+      preferas
+      &gcirc;in al <ctl>koaro</ctl>
+      <fnt><bib>MatStokTerm</bib>, <lok>p. 19</lok></fnt>, a&ubreve;
+      <ctl>kunaro</ctl> <fnt><bib>PIV2</bib></fnt>, dubindaj
+      kunmeta&jcirc;oj,
+      kiuj mallerte pa&ubreve;sas la anglan terminon.
+    </rim>
+  </snc>
+  <adm>
+    Proponita termino. <aut>MB</aut>
+  </adm>
+  <trdgrp lng="de">
+    <trd>Nebenklasse</trd>,
+    <trd>Restklasse</trd>
+  </trdgrp>
+  <trd lng="en">coset</trd>
+  <trd lng="fr">classe lat&eacute;rale</trd>
+  <trd lng="pl">warstwa</trd>
+  <trd lng="ru">&c_s;&c_m;&c_je;&c_zh;&c_n;&c_y;&c_j; <ind>&c_k;&c_l;&c_a;&c_s;&c_s;</ind></trd>
+  <trd lng="sk">susediaca trieda</trd>
+  <trdgrp lng="cs">
+    <trd>přiléhající třída</trd>,
+    <trd>sousední třída</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="klas.nmodularesto0o">
+  <kap>n-modula resto<tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <snc>
+    <dif>
+      <klr>(por <ref cel="entjer.0o">entjero</ref>
+      <frm><k>n</k> &gt; 1</frm>)</klr>
+      &Ccirc;iu el la <frm><k>n</k></frm>
+      <ref cel="klas.ekvivalento0o">ekvivalento-<tld/>oj</ref> por la
+      rilato
+      &leftquot;<ref cel="kongru.0a.module">kongrua</ref> module
+      <frm><k>n</k></frm>&rightquot; super la aro de entjeroj:
+      <ekz>
+        la <frm><k>n</k></frm>-modula resto<tld/>o de nombro
+        <frm><k>p</k></frm> oni signas per
+        <frm><k>p</k>+<k>n</k><g>Z</g></frm> a&ubreve; per
+        <frm><k>p</k>&#775;</frm>.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="grup.0o_de_nmodulaj_restoklasoj">grupo de
+    n-modulaj
+    resto<tld/>oj.</ref>
+    <rim>
+      Kvankam la skriba&jcirc;o <frm><k>n</k><g>Z</g></frm> memorigas pri tiu
+      por la flankaj <tld/>oj, oni tamen memoru, ke <frm><g>Z</g></frm>
+      ne
+      estas multiplika grupo. Kaj <frm><k>n</k><g>Z</g></frm>, kaj
+      <frm><k>p</k>+<k>n</k><g>Z</g></frm> estas ekvivalento-<tld/>oj,
+      sed
+      ne
+      la&ubreve; la samaj rilatoj.
+    </rim>
+  </snc>
+  <adm>
+    Proponita termino. <aut>MB</aut>
+  </adm>
+  <trd lng="de">Restklasse<klr tip="ind"> (modulo n)</klr></trd>
+  <trd lng="en">residue <ind>class</ind><klr tip="ind"> (modulo
+  n)</klr></trd>
+  <trdgrp lng="fr">
+    <trd>classe r&eacute;siduelle<klr tip="ind"> (modulo n)</klr></trd>,
+    <trd>entier modulo n</trd>
+  </trdgrp>
+  <trd lng="pl">klasa reszt modulo n</trd>
+  <trd lng="ru">&c_k;&c_l;&c_a;&c_s;&c_s; &c_v;&c_y;&c_ch;&c_je;&c_t;&c_o;&c_v;<klr tip="ind"> (&c_p;&c_o;
+  &c_m;&c_o;&c_d;&c_u;&c_l;&c_ju; n)</klr></trd>
+</drv>
+</art>
+<!--
+$Log: klas.xml,v $
+Revision 1.32  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.31  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.30  2012/10/23 00:12:10  revo
+Neil Roberts: aldonu la etikedon <var>
+
+Revision 1.29  2009/08/08 16:33:13  revo
+Jeromo Vasxe: ~o + snc tra
+
+Revision 1.28  2005/12/09 17:31:12  revo
+Jeromo Vasxe: + sam~ano, ~o snc/subsnc
+
+Revision 1.27 2004/12/18 19:19:49 revo
+Marc Bavant: +trd fr; en~igi: mod ref
+
+Revision 1.26 2003/03/23 17:33:07 revo
+Marc Bavant: (mal)dekstra ~o: kor trd de; n-modula resto~o: +trd pl
+Revision 1.25 2003/01/02 17:47:26 revo
+Marc Bavant: snc MAT: kor trd ru
+Revision 1.24 2002/12/10 17:32:21 revo
+jxeromo vasxe: + ~i ~igi, ~o reordigis snc, + fak ped pol, + trd fr
+Revision 1.23 2002/11/30 17:35:32 revo
+Marc Bavant: mod frm
+Revision 1.22 2002/11/18 17:34:16 revo
+Marc Bavant: +frm; ekvivalento-~o: +klr en dif
+-->
+</vortaro>

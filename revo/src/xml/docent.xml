@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: docent.xml,v 1.21 2015/07/04 08:37:32 revo Exp $">
+<kap>
+ <rad>docent</rad>/o
+ <fnt>Z</fnt>
+</kap>
+<drv mrk="docent.0o">
+ <kap><tld/>o</kap>
+ <snc mrk="docent.0o.PED">
+   <uzo tip="fak">PED</uzo>
+   <dif>
+     <ref tip="super" cel="instru.0isto.PED">Instruisto</ref> en
+     universitato ne ricevinta titolon de <ref tip="vid"
+     cel="profes1.0o">profesoro</ref>:
+     <ekz>
+       la instruistaro konsistas el ses <tld/>oj inkluzive la nunan
+       direktoron<fnt><aut>Jo Haazen</aut>, <vrk>Unika muziklernejo en
+       Belgio</vrk>, <bib>Monato</bib>, <lok>jaro 1997a, numero 4a, p.
+       16a</lok></fnt>.
+     </ekz>
+   </dif>
+ </snc>
+  <trd lng="be">&c_d;&c_a;&c_c;&c_e;&c_n;&c_t;</trd>
+  <trd lng="cs">docent</trd>
+  <trdgrp lng="de">
+   <trd>Dozent</trd>,
+   <trd>Hochschullehrer</trd>
+ </trdgrp>
+  <trdgrp lng="en">
+   <trd>docent</trd>,
+   <trd>university teacher</trd>
+ </trdgrp>
+  <trd lng="es">docente</trd>
+  <trdgrp lng="fr">
+   <trd>charg&eacute; de cours</trd>,
+   <trd>maitre de conf&eacute;rence</trd>
+ </trdgrp>
+  <trdgrp lng="hu">
+   <trd>docens</trd>,
+   <trd>egyetemi <ind>tan&aacute;r</ind></trd>
+ </trdgrp>
+  <trd lng="nl">docent</trd>
+  <trd lng="pl">docent</trd>
+  <trd lng="pt">docente</trd>
+  <trd lng="ru">&c_d;&c_o;&c_c;&c_je;&c_n;&c_t;</trd>
+  <trd lng="sk">docent</trd>
+</drv>
+
+<drv mrk="docent.privat0olibera0o">
+ <kap>privat<tld/>o, <var><kap>libera <tld/>o</kap></var></kap>
+ <snc>
+   <uzo tip="fak">PED</uzo>
+   <dif>
+     Privata klerulo, kiu ricevis permeson fari kurson en universitato
+     kaj estas salajrata nur de la kursanoj mem.
+   </dif>
+ </snc>
+ <trd lng="de">Privatdozent</trd>
+ <trd lng="es">profesor externo</trd>
+ <trd lng="hu">egyetemi <ind>mag&aacute;ntan&aacute;r</ind></trd>
+ <trd lng="nl">privaatdocent</trd>
+ <trd
+ lng="ru">&c_p;&c_r;&c_i;&c_v;&c_a;&c_t;-&c_d;&c_o;&c_c;&c_je;&c_n;&c_t;</trd>
+</drv>
+</art>
+<!--
+$Log: docent.xml,v $
+Revision 1.21  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.19  2014/09/04 08:10:11  revo
+Guillermo Molleda Jimena: trd es
+
+Revision 1.18  2012/10/23 00:11:00  revo
+Neil Roberts: aldonu la etikedon <var>
+
+Revision 1.17  2009/08/11 16:31:16  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.16  2009/07/01 17:21:15  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.15  2008/11/21 17:56:56  revo
+Wieland Pusch: entoj por unikode
+
+Revision 1.14  2008/11/09 17:30:23  revo
+Russ Williams: +trd en
+
+Revision 1.13  2007/08/11 16:30:36  revo
+Tulio Flores: +tr pt
+
+Revision 1.12  2006/09/08 12:04:02  revo
+-->
+</vortaro>

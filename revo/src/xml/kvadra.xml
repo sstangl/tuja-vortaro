@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: kvadra.xml,v 1.15 2015/07/04 08:37:38 revo Exp $">
+<kap>
+  <rad>kvadrant</rad>/o
+  <fnt>Z</fnt>
+</kap>
+<drv mrk="kvadra.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>MatTerm</bib><lok>p. 28</lok></fnt>
+  <snc>
+    <dif>
+      Kvarono de <ref cel="cirkl.0o.linio">cirklo</ref>;
+      <ref cel="angul.centra0o">centra angulo</ref>, kiu
+      detran&ccirc;as tian arkon:
+      <ekz>
+        du ortaj koordinataj <ref cel="aks.0o.koordinato">aksoj</ref>
+        estigas kvar <tld/>ojn.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_k;&c_v;&c_a;&c_d;&c_r;&c_a;&c_n;&c_t;</trd>
+  <trdgrp lng="cs">
+    <trd>kvadrant</trd>,
+    <trd>čtvrtkruh</trd>
+  </trdgrp>
+  <trd lng="de">Quadrant</trd>
+  <trd lng="en">quadrant</trd>
+  <trd lng="fr">quadrant</trd>
+  <trd lng="hu">kvadr&aacute;ns</trd>
+  <trd lng="nl">kwadrant</trd>
+  <trd lng="pl">&cacute;wiartka</trd>
+  <trd lng="ru">&c_k;&c_v;&c_a;&c_d;&c_r;&c_a;&c_n;&c_t;</trd>
+  <trdgrp lng="sk">
+    <trd>kvadrant</trd>,
+    <trd>štvrť kruh</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: kvadra.xml,v $
+Revision 1.15  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.13  2004/03/29 18:32:39  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.12  2004/02/12 17:31:27  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.11  2003/01/02 17:48:14  revo
+Marc Bavant: +trd pl
+
+Revision 1.10  2002/05/12 16:38:58  revo
+Marc Bavant: koherigis dif kun oktanto
+Revision 1.9 2002/03/17 17:32:07 revo
+Marc Bavant: +fnt
+Revision 1.8 2001/11/11 19:16:05 revo
+Yury Finkel: +trd ru
+Revision 1.7 2001/07/19 18:11:27 revo
+Ulrich Fellmann: + germ trd
+Revision 1.6 2001/07/18 18:11:00 revo
+Karlo Freeman: +trd=en
+Revision 1.5 2001/06/24 18:52:23 revo
+Marc Bavant: reverkis
+Revision 1.4 2001/03/03 17:10:43 revo
+-->
+</vortaro>
+

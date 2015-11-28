@@ -1,0 +1,238 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: vakcin.xml,v 1.31 2015/07/04 08:37:45 revo Exp $">
+<kap>
+  <ofc>8</ofc>
+  <rad>vakcin</rad>/o
+</kap>
+
+<drv mrk="vakcin.0o">
+  <kap><tld/>o</kap>
+  <fnt>PIV</fnt>
+  <snc mrk="vakcin.0o.MED">
+    <uzo tip="fak">MED</uzo>
+    <dif>
+      <ref tip="super" cel="serum.0o">Serumo</ref> enhavanta 
+      mildigitan mikroban fonton de malsano:
+      <ekz>
+        <tld/>oj kontra&ubreve; e&ubreve;ropaj malsanoj
+        <fnt><aut>Lubovj Lukina, E&ubreve;geno Lukin, trad. Jurij
+        Finkel</aut>,
+        <vrk>La misiistoj</vrk>, <lok><url
+        ref="http://www.esperanto.mv.ru/Lukin/mis3.html">parto
+        3a</url></lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_v;&c_a;&c_k;&c_c;&c_y;&c_n;&c_a;</trd>,
+    <trd>&c_p;&c_r;&c_y;&c_sh;&c_ch;&c_e;&c_p;&c_k;&c_a;</trd>
+  </trdgrp>
+  <trd lng="bg">&c_v;&c_a;&c_k;&c_s;&c_i;&c_n;&c_a;</trd>
+  <trdgrp lng="br">
+    <trd>brec'h<klr tip="ind"> (vaksin)</klr></trd>,
+    <trd>vaksin</trd>
+  </trdgrp>
+  <trdgrp lng="ca">
+    <trd>vacc&iacute;</trd>,
+    <trd>vacuna</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>očkovací látka</trd>,
+    <trd>vakcína</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Impfstoff</trd>,
+    <trd>Impfserum</trd>,
+    <trd>Vakzine</trd>
+  </trdgrp>
+  <trd lng="el">&epsilon;&my;&beta;&omikron_ton;&lambda;&jota;&omikron;</trd>
+  <trd lng="en">vaccine</trd>
+  <trd lng="es">vacuna</trd>
+  <trdgrp lng="fr">
+    <trd>vaccin</trd>
+  </trdgrp>
+  <trdgrp lng="he">
+    <trd>&het;&yod;&samekh;&vav;&fnun;</trd>,
+    <trd>&nun;&samekh;&yod;&vav;&bet;</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>olt&oacute;anyag</trd>,
+    <trd>vakcina</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>vaccin</trd>,
+    <trd>entstof</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>szczepionka</trd>,
+    <trd>surowica <klr>(przest.)</klr></trd>
+  </trdgrp>
+  <trd lng="pt">vacina</trd>
+  <trd lng="ru">&c_v;&c_a;&c_k;&c_c;&c_i;&c_n;&c_a;</trd>
+  <trd lng="sk">očkovacia látka</trd>
+  <trd lng="tr">a&scedil;&inodot;</trd>
+</drv>
+
+<drv mrk="vakcin.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="vakcin.0i.MED">
+    <uzo tip="fak">MED</uzo>
+    <dif>
+      <ref tip="vid" cel="inokul.0i.MED">Inokuli</ref> <tld/>on por ke
+      la
+      korpo <ref tip="vid" cel="imun.0a.MED">imun</ref>i&gcirc;u kontra&ubreve; iu
+      malsano:
+      <!-- malnova difino:
+      Injekti serumon kontra&ubreve; malsano.
+      -->
+      <ekz>
+        en 1947 oni komencis <tld/>i infanojn kontra&ubreve; plej 
+        gravaj malsanoj
+        <fnt>
+         <aut>Stefan Maul</aut>,
+         <vrk>El verva vivo jurnalista</vrk>, <lok>p. 45</lok></fnt>.
+       </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_v;&c_a;&c_k;&c_c;&c_y;&c_n;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_r;&c_a;&c_b;&c_ib;&c_c;&c_mol; <ind>&c_p;&c_r;&c_y;&c_sh;&c_ch;&c_e;&c_p;&c_k;&c_u;</ind></trd>,
+    <trd>&c_p;&c_r;&c_y;&c_sh;&c_ch;&c_a;&c_p;&c_l;&c_ja;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="bg">&c_v;&c_a;&c_k;&c_s;&c_i;&c_n;&c_i;&c_r;&c_a;&c_m;</trd>
+  <trd lng="br">vaksina&ntilde;</trd>
+  <trdgrp lng="ca">
+    <trd>vaccinar</trd>,
+    <trd>vacunar</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>očkovat <klr>(proti)</klr></trd>,
+    <trd>vakcinovat</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>impfen</trd>,
+    <trd>schutzimpfen</trd>,
+    <trd>vakzinieren<klr> [rara]</klr></trd>
+  </trdgrp>
+  <trd lng="el">&epsilon;&my;&beta;&omikron;&lambda;&jota;&alfa_ton;&zeta;&omega;</trd>
+  <trd lng="en">vaccinate</trd>
+  <trd lng="es">vacunar</trd>
+  <trd lng="fr">vacciner</trd>
+  <trd lng="he">&lamed;<ind>&het;&samekh;&fnun;</ind></trd>
+  <trd lng="hu">beolt <klr tip="ind">(sz&eacute;rummal)</klr></trd>
+  <trdgrp lng="nl">
+    <trd>vaccineren</trd>,
+    <trd>inenten</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>szczepi&cacute;</trd>,
+    <trd>podawa&cacute; <ind>szczepionk&eogonek;</ind></trd>
+  </trdgrp>
+  <trd lng="pt">vacinar</trd>
+  <trdgrp lng="ru">
+    <trd>&c_v;&c_a;&c_k;&c_c;&c_i;&c_n;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_d;&c_je;&c_l;&c_a;&c_t;&c_mol; <ind>&c_p;&c_r;&c_i;&c_v;&c_i;&c_v;&c_k;&c_u;</ind></trd>,
+    <trd>&c_p;&c_r;&c_i;&c_v;&c_i;&c_v;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd><klr>(na)</klr>očkovať</trd>,
+    <trd>dať sérovú injekciu</trd>,
+    <trd>štepiť</trd>
+  </trdgrp>
+  <trd lng="tr">a&scedil;&inodot;lamak</trd>
+</drv>
+
+<drv mrk="vakcin.0ado">
+  <kap><tld/>ado</kap>
+  <snc mrk="vakcin.0ado.MED">
+    <uzo tip="fak">MED</uzo>
+    <dif>
+      Uzado de <tld/>o kontra&ubreve; malsano:
+      <ekz>
+        ekzistas multaj malsanoj, kontra&ubreve; kiuj helpas ne
+        <tld/>ado, sed higieno (ekzemple, intestaj infektmalsanoj kiel
+        abdomena tifo, &hcirc;olero kaj disenterio)
+        <fnt>
+        <aut>Vladimir Lemelev</aut>,
+        <vrk>Mikroboj provokas neinfektajn malsanojn &scirc;an&gcirc;i&gcirc;i al
+        infektaj</vrk>,
+        <bib>Monato</bib>,
+        <lok>jaro 2002a, numero 1a, p. 16a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_v;&c_a;&c_k;&c_c;&c_y;&c_n;&c_a;&c_c;&c_y;&c_ja;</trd>
+  <trd lng="br">vaksinadur</trd>
+  <trdgrp lng="ca">
+    <trd>vaccinaci&oacute;</trd>,
+    <trd>vacunaci&oacute;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>očkování pomocí vakcín</trd>,
+    <trd>tj. oslabení choroboplodných zárodků</trd>,
+    <trd>vakcinace</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Impfung</trd>,
+    <trd>Schutzimpfung</trd>
+  </trdgrp>
+  <trd lng="el">&epsilon;&my;&beta;&omikron;&lambda;&jota;&alfa;&sigma;&my;&omikron_ton;&sigma_fina;</trd>
+  <trd lng="en">vaccination</trd>
+  <trd lng="es">vacunaci&oacute;n</trd>
+  <trd lng="fr">vaccination</trd>
+  <trd lng="he">&het;&yod;&samekh;&vav;&fnun;</trd>
+  <trd lng="hu">olt&aacute;s <klr tip="ind">(sz&eacute;rummal)</klr></trd>
+  <trdgrp lng="nl">
+    <trd>vaccinatie</trd>,
+    <trd>inenting</trd>
+  </trdgrp>
+  <trd lng="pl">szczepienia <klr>ochronne</klr></trd>
+  <trd lng="pt">vacina&ccedil;&atilde;o</trd>
+  <trdgrp lng="ru">
+    <trd>&c_v;&c_a;&c_k;&c_c;&c_i;&c_n;&c_a;&c_c;&c_i;&c_ja;</trd>,
+    <trd>&c_p;&c_r;&c_i;&c_v;&c_i;&c_v;&c_k;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>očkovanie vakcínami</trd>,
+    <trd>vakcinácia</trd>
+  </trdgrp>
+  <trd lng="tr">a&scedil;&inodot;lama</trd>
+</drv>
+</art>
+<!--
+$Log: vakcin.xml,v $
+Revision 1.31  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.30  2015/06/28 12:03:50  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.29  2014/04/22 18:11:08  revo
+Wieland Pusch: +trd bg
+
+Revision 1.28  2013/02/09 17:10:27  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.27  2012/08/27 08:10:09  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.26  2012/08/11 17:10:24  revo
+Marc Rausell: + trd ca
+
+Revision 1.25  2009/10/03 16:30:45  revo
+Paul Peeraerts: +nl +ekz -tajperaro
+
+Revision 1.24  2009/08/26 16:32:09  revo
+Emmanuel Debanne: +trd tr
+
+Revision 1.23  2007/11/22 17:31:07  revo
+Wieland Pusch: +trd bg
+
+Revision 1.22  2006/03/06 17:32:09  revo
+-->
+</vortaro>

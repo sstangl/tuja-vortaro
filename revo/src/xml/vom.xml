@@ -1,0 +1,139 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: vom.xml,v 1.25 2015/07/04 08:37:46 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>vom</rad>/i
+</kap>
+<drv mrk="vom.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <snc>
+    <gra><vspec>x</vspec></gra>
+    <dif>
+      Konvulsie el&jcirc;eti tra la bu&scirc;o enhavon de la stomako:
+      <ekz>
+        ili erarigis Egiptujon, kiel ebriulo &scirc;anceli&gcirc;as
+        <tld/>ante<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        kiel hundo revenas al sia <tld/>ita&jcirc;o, tiel malsa&gcirc;ulo ripetas
+        sian
+        malsa&gcirc;a&jcirc;on<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        <ind><tld/>deziro</ind>
+          <trd lng="ca">vomitera</trd>
+  <trd lng="es">ganas de vomitar</trd>
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="nauxz.0o">na&ubreve;zo</ref>.
+    </refgrp>
+    <trd lng="be">&c_v;&c_a;&c_n;&c_ib;&c_t;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+    <trd lng="bg">&c_b;&c_malmol;&c_l;&c_v;&c_a;&c_m;</trd>
+    <trdgrp lng="de">
+      <trd>erbrechen</trd>,
+      <trd>kotzen</trd>,
+      <trd>sich <ind>&uuml;bergeben</ind></trd>,
+      <trd>ausspeien <klr>(erbrechen)</klr></trd>
+    </trdgrp>
+  <trd lng="es">vomitar</trd>
+    <trd lng="he">&lamed;&he;<ind>&qof;&yod;&alef;</ind></trd>
+    <trd lng="hu">h&aacute;ny</trd>
+    <trd lng="id">muntah</trd>
+    <trdgrp lng="nl">
+      <trd>braken</trd>,
+      <trd>overgeven <klr tip="amb">(braken)</klr></trd>
+    </trdgrp>
+    <trd lng="ru">&c_r;&c_v;&c_a;&c_t;&c_mol; <klr tip="amb">(&c_i;&c_s;&c_p;&c_y;&c_t;&c_y;&c_v;&c_a;&c_t;&c_mol; &c_r;&c_v;&c_o;&c_t;&c_u;)</klr></trd>
+  </snc>
+  <snc>
+    <gra><vspec>tr</vspec></gra>
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      El&jcirc;eti el si ion malbonan:
+      <ekz>
+        la vulkano <tld/>is lafojn;
+      </ekz>
+      <ekz>
+        la kameno <tld/>is fumon;
+      </ekz>
+      <ekz>
+        el<tld/>i plej a&ccirc;ajn insultojn.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="sput.0i">sputi</ref>.
+    </refgrp>
+    <trd lng="be">&c_v;&c_y;&c_v;&c_ja;&c_r;&c_g;&c_a;&c_c;&c_mol;</trd>
+    <trd lng="de">speien</trd>
+    <trdgrp lng="he">
+      <trd>&lamed;&pe;&lamed;&vav;&tet; \<ind>&pe;&lamed;&tet;</ind>\</trd>,
+      <trd>&lamed;&yod;<ind>&resh;&vav;&qof;</ind></trd>
+    </trdgrp>
+    <trd lng="hu">ok&aacute;d</trd>
+    <trd lng="id">[<ind>muntah</ind>] memuntahkan</trd>
+    <trd lng="nl">spuwen</trd>
+    <trd lng="ru">&c_i;&c_z;&c_v;&c_je;&c_r;&c_g;&c_a;&c_t;&c_mol;</trd>
+  </snc>
+  <trdgrp lng="br">
+    <trd>dislonka&ntilde;</trd>,
+    <trd>recheti&ntilde;</trd>
+  </trdgrp>
+  <trd lng="ca">vomitar</trd>
+  <trdgrp lng="cs">
+    <trd>dávit</trd>,
+    <trd>vrhnout</trd>,
+    <trd>zvracet</trd>
+  </trdgrp>
+  <trd lng="el">&epsilon;&my;&omega_ton;</trd>
+  <trd lng="en">vomit</trd>
+  <trdgrp lng="es">
+    <trd>vomitar</trd>,
+    <trd>escupir</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>recracher</trd>,
+    <trd>vomir</trd>
+  </trdgrp>
+  <trd lng="pt">vomitar</trd>
+  <trdgrp lng="sk">
+    <trd>dáviť</trd>,
+    <trd>vracať</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: vom.xml,v $
+Revision 1.25  2015/07/04 08:37:46  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.24  2015/06/28 12:03:50  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.23  2014/06/10 05:10:15  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.22  2014/01/15 20:10:13  revo
+Joop Eggen: +trd bg
+
+Revision 1.21  2012/08/13 00:10:14  revo
+Marc Rausell: + trd ca
+
+Revision 1.20  2006/05/15 16:31:25  revo
+Eduardo Navas: +trd es
+
+Revision 1.19  2005/04/12 16:31:42  revo
+Alan ar Gall: +trd br
+
+Revision 1.18  2004/10/13 16:31:19  revo
+Wolfram Diestel: germ trd
+
+Revision 1.17  2003/04/27 13:20:32  revo
+Allon Rothfarb: korekta trd he
+
+Revision 1.16  2003/01/08 17:32:25  revo
+-->
+</vortaro>

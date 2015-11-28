@@ -1,0 +1,146 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: infuz.xml,v 1.18 2015/07/04 08:37:36 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>infuz</rad>/i
+</kap>
+<drv mrk="infuz.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="infuz.0i.KUI">
+  <uzo tip="fak">KUI</uzo>
+  <uzo tip="fak">MED</uzo>
+    <dif>
+      Ver&scirc;i bolantan akvon a&ubreve; flua&jcirc;on sur ian substancon,
+      por ke tiu flua&jcirc;o prenu la esencajn sukojn el tiu substanco:
+      <ekz>
+        Hajjat <tld/>is teon
+        <fnt>
+          <aut>Mahbube Mirkadiri</aut>,
+          <vrk>Donaco el voja&gcirc;o</vrk>,
+          <bib>LOdE</bib>,
+          <lok>2003:3 (101)</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &scirc;i surmetis sur <klr>[mian vundon]</klr> en brando
+        longtempe <tld/>itajn liliflorojn
+        <fnt><bib>Revadoj</bib>, <lok>kvara promenado</lok></fnt>.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="dekokt.0i">dekokti</ref>
+    <ref tip="super" cel="kuir.0i">kuiri</ref>
+  </snc>
+  <trd lng="cs">provádět infuzi</trd>
+  <trdgrp lng="de">
+    <trd>aufgie&szlig;en</trd>,
+    <trd>aufbr&uuml;hen</trd>,
+    <trd>ziehen lassen</trd>
+  </trdgrp>
+  <trd lng="en">infuse</trd>
+  <trdgrp lng="fr">
+    <trd>infuser<klr tip="ind"> (tr.)</klr></trd>,
+    <trd>faire <ind>infuser</ind></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>forr&aacute;z</trd>,
+    <trd>leforr&aacute;z</trd>
+  </trdgrp>
+  <trd lng="nl">
+  een <ind>aftreksel</ind> maken door opgieting
+  van een vloeistof
+  </trd>
+  <trd lng="pt">infundir</trd>
+  <trdgrp lng="ru">
+    <trd>&c_z;&c_a;&c_v;&c_a;&c_r;&c_i;&c_v;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_n;&c_a;&c_s;&c_t;&c_a;&c_i;&c_v;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="sk">prevádzať infúziu</trd>
+  <trd lng="tr">demlemek</trd>
+</drv>
+
+<drv mrk="infuz.0ajxo">
+  <kap><tld/>a&jcirc;o</kap>
+  <snc mrk="infuz.0ajxo.KUI">
+  <uzo tip="fak">KUI</uzo>
+  <uzo tip="fak">MED</uzo>
+    <dif>
+      Solva&jcirc;o ricevita per <tld/>ado:
+      <ekz>
+        <tld/>a&jcirc;o de mento;
+      </ekz>
+      <ekz>
+        frukto<tld/>a&jcirc;o.
+      </ekz>
+    </dif>
+    <ref tip="sub" cel="tizan.0o">tizano</ref>
+  </snc>
+  <trdgrp lng="de">
+    <trd>Aufguss</trd>,
+    <trd>Tee</trd>
+  </trdgrp>
+  <trd lng="es">infusi&oacute;n</trd>
+  <trd lng="fr">infusion</trd>
+  <trdgrp lng="hu">
+    <trd>forr&aacute;zat</trd>,
+    <trd>f&odblac;zet</trd>
+  </trdgrp>
+  <trd lng="nl">aftreksel</trd>
+  <trd lng="pt">infus&atilde;o<klr tip="amb"> (solu&ccedil;&atilde;o obtida)</klr></trd>
+  <trdgrp lng="ru">
+    <trd>&c_z;&c_a;&c_v;&c_a;&c_r;&c_k;&c_a;</trd>,
+    <trd>&c_n;&c_a;&c_s;&c_t;&c_o;&c_j;</trd>,
+    <trd>&c_n;&c_a;&c_s;&c_t;&c_o;&c_j;&c_k;&c_a;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="infuz.0igxi">
+  <kap><tld/>i&gcirc;i</kap>
+  <snc mrk="infuz.0igxi.KUI">
+    <dif>
+      I&gcirc;i <tld/>ita.
+    </dif>
+  </snc>
+  <trd lng="fr">infuser<klr tip="ind"> (intr.)</klr></trd>
+  <trd lng="hu">leforr&aacute;z&oacute;dik</trd>
+  <trdgrp lng="ru">
+    <trd>&c_z;&c_a;&c_v;&c_a;&c_r;&c_i;&c_v;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>,
+    <trd>&c_n;&c_a;&c_s;&c_t;&c_a;&c_i;&c_v;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: infuz.xml,v $
+Revision 1.18  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.16  2009/08/27 16:31:49  revo
+Emmanuel Debanne: +trd tr
+
+Revision 1.15  2006/01/02 17:33:02  revo
+Jeromo Vasxe: + 1 ekz
+
+Revision 1.14  2005/11/02 17:31:26  revo
+Luiz Portella: +trd pt
+
+Revision 1.13  2005/08/31 16:32:11  revo
+Yury Finkel: +trd ru
+
+Revision 1.12  2004/01/21 19:01:58  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.11  2003/07/14 16:33:40  revo
+Marc Bavant: +trd fr, +ekz, +drv ~igxi
+
+Revision 1.10 2003/01/21 17:31:30 revo
+Alejandro Mejia Greene: ald 1 his trd
+
+Revision 1.9 2003/01/04 20:18:47 revo
+-->
+</vortaro>

@@ -1,0 +1,613 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: dens.xml,v 1.47 2015/10/24 07:10:19 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>dens</rad>/a <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="dens.0a">
+  <kap><ofc>*</ofc><tld/>a</kap>
+  <snc mrk="dens.0a.multnombre">
+    <dif>
+      Tia, ke &gcirc;iaj eroj tre proksimas unu al alia,
+      multnombras en malgranda volumeno:
+      <ekz>
+        en somero ni trovas malvarmeton en <tld/>aj arbaroj
+        <fnt><bib>F</bib>, <lok>&FE; 38</lok></fnt>;
+      </ekz>
+      <ekz>
+        <tld/>a nebulo, pluvo, mallumo, solva&jcirc;o,
+        trupo, popolamaso;
+      </ekz>
+      <ekz>
+        viaj nigraj <tld/>egaj haroj
+        <fnt><bib>Marta</bib></fnt>;
+      </ekz>
+      <ekz>
+        <tld/>foliaj arboj;
+      </ekz>
+      <ekz>
+        <tld/>e lo&gcirc;ata lando;
+      </ekz>
+      <ekz>
+        vesto <tld/>e brodita per oro
+        <fnt><bib>Far2</bib>, <lok>&ccirc;apitro 10a</lok></fnt>;
+      </ekz>
+      <ekz>
+        la grizeco <tld/>e ar&gcirc;entis liajn harojn.
+      </ekz>
+    </dif>
+    <trd lng="bg">&c_p;&c_l;&c_malmol;&c_t;&c_je;&c_n;</trd>
+    <trd lng="de">dicht</trd>
+    <trd lng="en">dense</trd>
+    <trd lng="es">denso</trd>
+    <trdgrp lng="fr">
+      <trd>dense</trd>,
+      <trd>dru</trd>,
+      <trd>serr&eacute;</trd>,
+      <trd>touffu</trd>
+    </trdgrp>
+    <trdgrp lng="id">
+      <trd>lebat</trd>,
+      <trd>padat</trd>,
+      <trd>rapat</trd>
+    </trdgrp>
+    <trd lng="nl">dicht</trd>
+    <trd lng="pl">g&eogonek;sty</trd>
+    <trd lng="pt">denso</trd>
+    <trdgrp lng="ru">
+      <trd>&c_g;&c_u;&c_s;&c_t;&c_o;&c_j;</trd>,
+      <trd>&c_ch;&c_a;&c_s;&c_t;&c_y;&c_j;</trd>,
+      <trd>&c_p;&c_l;&c_o;&c_t;&c_n;&c_y;&c_j;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="dens.0a.subaro">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>EKV</bib>, <lok>&para;73</lok></fnt>
+    <dif>
+      <klr>(p.p. <ref cel="ar.sub0o">subaro</ref> <frm><g>A</g></frm>
+      de <ref cel="spac.topologia0o">topologia spaco</ref>, rilate
+      al subaro <frm><g>B</g></frm> de la sama spaco)</klr>
+      Tia, ke &ccirc;iu <ref cel="punkt.0o.spaco">punkto</ref>
+      en <frm><g>B</g></frm> estas <ref
+      cel="adher.0a.punkto">adhera</ref>
+      al <frm><g>A</g></frm>:
+      <ekz>
+        &ccirc;iu subaro estas <tld/>a rilate al si mem;
+      </ekz>
+      <ekz>
+        <frm><g>A</g></frm> estas <tld/>a rilate al <frm><g>B</g></frm>,
+        
+        se kaj nur se la <ref
+        
+        cel="adher.0ajxo.MAT">adhera&jcirc;o</ref> 
+        de <frm><g>A</g></frm> inkluzivas <frm><g>B</g></frm>;
+      </ekz>
+      <ekz>
+        subaron <tld/>an rilate al la tuta spaco oni nomas
+        <ind>&ccirc;ie <tld/>a</ind>.
+        <trd lng="de">&uuml;berall <ind>dicht</ind><klr tip="ind"> (-e
+        Teilmenge)</klr></trd>
+        <trd lng="en">everywhere <ind>dense</ind><klr tip="ind">
+        (subset)</klr></trd>
+        <trd lng="fr"><klr tip="ind">(sous-ensemble) </klr>partout
+        <ind>dense</ind></trd>
+        <trdgrp lng="pl">
+          <trd><klr tip="ind">(podzbi&oacute;r) </klr>wsz&eogonek;dzie 
+          g&eogonek;sty</trd>,
+          <trd><klr tip="ind">(podzbi&oacute;r) </klr>g&eogonek;sty w 
+          przestrzeni</trd>
+        </trdgrp>
+        <trd lng="ru">&c_v;&c_s;&c_ju;&c_d;&c_u;
+          <ind>&c_p;&c_l;&c_o;&c_t;&c_n;&c_o;&c_je;</ind><klr tip="amb">
+        (&c_p;&c_o;&c_d;&c_m;&c_n;&c_o;&c_zh;&c_je;&c_s;&c_t;&c_v;&c_o;)
+        </klr></trd>
+      </ekz>
+    </dif>
+    <rim>
+      La sama termino aperas anka&ubreve; en
+      <fnt><bib>MatTerm</bib>, <lok>p. 18</lok></fnt>, tamen nur alude.
+    </rim>
+    <rim>
+      Notindas, ke foje oni anstata&ubreve;igas <ctl>adhera</ctl> per
+      <ctl>akumuli&gcirc;a</ctl> en la difino, el kio sekvas, ke subaro
+      ne nepre estas <tld/>a rilate al si.
+    </rim>
+    <trd lng="de">dicht<klr tip="ind"> (-e Teilmenge)</klr></trd>
+    <trd lng="en">dense<klr tip="ind"> (subset)</klr></trd>
+    <trd lng="fr"><klr tip="ind">(sous-ensemble) </klr>dense</trd>
+    <trd lng="pl"><klr tip="ind">(podzbi&oacute;r) </klr>g&eogonek;sty
+    </trd>
+    <trd lng="ru">&c_p;&c_l;&c_o;&c_t;&c_n;&c_o;&c_je;<klr tip="amb"> 
+    (&c_p;&c_o;&c_d;&c_m;&c_n;&c_o;&c_zh;&c_je;&c_s;&c_t;&c_v;&c_o;)
+    </klr></trd>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_g;&c_u;&c_s;&c_t;&c_y;</trd>,
+    <trd>&c_sh;&c_ch;&c_y;&c_l;&c_mol;&c_n;&c_y;</trd>,
+    <trd>&c_ch;&c_a;&c_s;&c_t;&c_y;</trd>
+  </trdgrp>
+  <trd lng="cs">hust&yacute;</trd>
+  <trd lng="hu">s&udblac;r&udblac;</trd>
+  <trd lng="sk">hust&yacute;</trd>
+</drv>
+
+<drv mrk="dens.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="dens.0o.KOMUNE">
+    <ref tip="dif" cel="dens.0eco.eco"><tld/>eco <sncref/></ref>
+    <trd lng="fr">densit&eacute;</trd>
+    <trdgrp lng="id">
+      <trd>densitas</trd>,
+      <trd>[<ind>padat</ind>] kepadatan</trd>,
+      <trd>[<ind>rapat</ind>] kerapatan</trd>
+    </trdgrp>
+    <trd lng="ru">&c_p;&c_l;&c_o;&c_t;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
+  </snc>
+  <snc mrk="dens.0o.volumena_maso">
+    <uzo tip="fak">FIZ</uzo>
+    <fnt><bib>PIV2</bib></fnt>
+    <ref tip="dif" cel="mas.volumena0o">volumena maso</ref>
+    <trd lng="ru">&c_p;&c_l;&c_o;&c_t;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
+    <trdgrp lng="fr">
+      <trd>masse volumique</trd>,
+      <trd>masse sp&eacute;cifique</trd>
+    </trdgrp>
+    <trdgrp lng="id">
+      <trd><ind>massa</ind> jenis</trd>,
+      <trd>[<ind>rapat</ind>] kerapatan</trd>
+    </trdgrp>
+    <trd lng="pl">g&eogonek;sto&sacute;&cacute;</trd>
+  </snc>
+  <snc mrk="dens.0o.FIZ">
+    <uzo tip="fak">FIZ</uzo>
+    <uzo tip="klr">(de substanco)</uzo>
+    <dif>
+      <ref cel="dimens.0o.FIZ">Sendimensia</ref>
+      <ref tip="super" cel="grand.fizika0o">fizika grando</ref>,
+      esprimanta la <ref cel="rilat.0o.kvociento">rilaton</ref> de la
+      <ref cel="mas.0o">maso</ref> de
+      difinita <ref cel="volume.0o">volumeno</ref> de la substanco al
+      la maso de sama volumeno da pura akvo (je 4 &#730;C), a&ubreve;
+      da aero (je 0 &#730;C kaj 1 atm), se temas pri gaso:
+      <ekz>
+        la <tld/>o de hidrargo estas 13,6;
+      </ekz>
+      <ekz>
+        la <tld/>o de oksigeno estas 1,105.
+      </ekz>
+    </dif>
+    <rim>
+      La&ubreve; la ekzemplo de pluraj lingvoj, kiuj identigas
+      <ctl><tld/>on</ctl> kun <ctl>volumena maso</ctl>, eblus nomi
+      tiun &ccirc;i grandon <ctl>relativa <tld/>o</ctl>.
+    </rim>
+    <adm>
+      Mi sekvis la francan terminologion, nome:
+         volumena maso / denso
+      prefere al la pli internacia
+         specifa maso = denso / relativa denso
+      cxar bazante min nur sur la PIV-oj mi ne trovis la situacion
+      klara. Kial identigi "specifa maso" kun "denso" (la vortaro
+      sxajnas ne rimarki la sinonimecon)? Kial mankas la termino
+      "relativa denso"? Necesas trovi auxtoritatajn fontojn.
+      <aut>MB</aut>
+    </adm>
+    <trd lng="fr">densit&eacute;<klr tip="ind"> (grandeur physique)
+    </klr></trd>
+     <trdgrp lng="id">
+      <trd><ind>massa</ind> jenis</trd>,
+      <trd>[<ind>rapat</ind>] kerapatan</trd>
+    </trdgrp>
+    <trd lng="pl">g&eogonek;sto&sacute;&cacute;</trd>
+    <trd lng="ru">&c_o;&c_t;&c_n;&c_o;&c_s;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_a;&c_ja;
+    <ind>&c_p;&c_l;&c_o;&c_t;&c_n;&c_o;&c_s;&c_t;&c_mol;</ind></trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>hustota</trd>,
+    <trd>intenzita</trd>
+  </trdgrp>
+  <trd lng="de">Dichte</trd>
+  <trdgrp lng="sk">
+    <trd>hustota</trd>,
+    <trd>intenzita</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="dens.0ajxo">
+  <kap><tld/>a&jcirc;o</kap>
+  <snc mrk="dens.0ajxo.HOR">
+    <uzo tip="fak">HOR</uzo>
+    <ref tip="dif" cel="dens.0ejo.HOR">densejo</ref>
+      <ekz>
+        &scirc;i freneze vagadis en la <tld/>a&jcirc;o ser&ccirc;ante sian fileton
+        <fnt>
+          <aut>trad. C. Sz&eacute;kely</aut>,
+          <vrk><url
+          ref="http://www.eszperanto.hu/turismo/baranya/baranya.htm">
+          Baranya, la mistera</url></vrk>,
+          <lok>1985</lok>
+        </fnt>.
+      </ekz>
+  </snc>
+  <snc mrk="dens.0ajxo.KOMUNE">
+    <dif>
+      <tld lit="D"/>a amaso de materio:
+      <ekz>
+        <tld/>a&jcirc;o de akrecia substanco
+        <fnt>
+          <aut>I. L. Andronov</aut>,
+          <vrk><url
+          ref="http://www.eventoj.hu/steb/astronomio/stelo/stelo.htm">
+          La Strukturo de Magnetaj Malvastaj Duoblaj Stelaj
+          Sistemoj</url></vrk>,
+          <lok>1989</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="grumel.0o.KOMUNE">grumelo</ref>
+    </refgrp>
+    <trdgrp lng="fr">
+      <trd>accr&eacute;tion</trd>,
+      <trd>amas</trd>
+    </trdgrp>
+  </snc>
+</drv>
+
+<drv mrk="dens.0eco">
+  <kap><tld/>eco</kap>
+  <snc mrk="dens.0eco.eco">
+    <dif>
+      Eco de tio, kio estas <tld/>a.
+    </dif>
+    <trdgrp lng="ru">
+      <trd>&c_g;&c_u;&c_s;&c_t;&c_o;&c_t;&c_a;</trd>,
+      <trd>&c_p;&c_l;&c_o;&c_t;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
+    </trdgrp>
+    <trdgrp lng="id">
+      <trd>densitas</trd>,
+      <trd>[<ind>padat</ind>] kepadatan</trd>,
+      <trd>[<ind>rapat</ind>] kerapatan</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="dens.0eco.FIZ">
+    <uzo tip="fak">FIZ</uzo>
+    <fnt><bib>PV</bib></fnt>
+    <ref tip="dif" cel="dens.0o.volumena_maso"><tld/>o <sncref/></ref>
+    <trdgrp lng="id">
+      <trd><ind>massa</ind> jenis</trd>,
+      <trd>[<ind>rapat</ind>] kerapatan</trd>
+    </trdgrp>
+    <trd lng="ru">&c_p;&c_l;&c_o;&c_t;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_g;&c_u;&c_s;&c_t;&c_a;&c_t;&c_a;</trd>,
+    <trd>&c_sh;&c_ch;&c_y;&c_l;&c_mol;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;
+    </trd>
+  </trdgrp>
+  <trd lng="bg">&c_p;&c_l;&c_malmol;&c_t;&c_n;&c_o;&c_s;&c_t;</trd>
+  <trdgrp lng="cs">
+    <trd>hustota</trd>,
+    <trd>intenzita</trd>
+  </trdgrp>
+  <trd lng="de">Dichte</trd>
+  <trd lng="es">densidad</trd>
+  <trd lng="fr">densit&eacute;</trd>
+  <trd lng="hu">s&udblac;r&udblac;s&eacute;g</trd>
+  <trd lng="nl">dichtheid</trd>
+  <trd lng="pl">g&eogonek;sto&sacute;&cacute;</trd>
+  <trdgrp lng="sk">
+    <trd>hustota</trd>,
+    <trd>intenzita</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="dens.0ejo">
+  <kap><tld/>ejo</kap>
+  <snc mrk="dens.0ejo.HOR">
+    <uzo tip="fak">HOR</uzo>
+    <dif>
+      Loko en arbaro, kie arboj kaj arbetoj estas <tld/>aj.
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="vepr.0o">vepro</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_g;&c_u;&c_sh;&c_ch;&c_a;&c_r;</trd>
+  <trdgrp lng="cs">
+    <trd>hou&scaron;tina</trd>,
+    <trd>mlazina</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>broussaille</trd>,
+    <trd>fourr&eacute;</trd>,
+    <trd>endroit <ind>touffu</ind></trd>
+  </trdgrp>
+  <trd lng="hu">erd&odblac; s&udblac;r&udblac;je</trd>
+  <trdgrp lng="pl">
+  	<trd>g&eogonek;stwina</trd>,
+    <trd>g&aogonek;szcz</trd>
+  </trdgrp>
+  <trd lng="ru">&c_ch;&c_a;&c_shch;&c_a;</trd>
+  <trd lng="sk">h&uacute;&scaron;tina</trd>
+</drv>
+
+<drv mrk="dens.0igi">
+  <kap><tld/>igi</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      Igi <tld/>a:
+      <ekz>
+        <tld/>igu la vicojn!
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_u;&c_sh;&c_ch;&c_y;&c_l;&c_mol;&c_n;&c_ib;&c_c;&c_mol;</trd>,
+      <trd>&c_z;&c_g;&c_u;&c_s;&c_mol;&c_c;&c_ib;&c_c;&c_mol;</trd>
+    </trdgrp>
+    <trd lng="de">verdichten</trd>
+    <trdgrp lng="fr">
+      <trd>densifier</trd>,
+      <trd>resserrer</trd>
+    </trdgrp>
+    <trd lng="hu">s&udblac;r&iacute;t</trd>
+    <trd lng="id">[<ind>padat</ind>] memadatkan</trd>
+    <trd lng="nl">verdichten</trd>
+    <trdgrp lng="pl">
+      <trd>zag&eogonek;szcza&cacute;</trd>,
+      <trd>kondensowa&cacute;</trd>,
+      <trd>&sacute;cie&sacute;nia&cacute;</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_u;&c_p;&c_l;&c_o;&c_t;&c_n;&c_i;&c_t;&c_mol;</trd>,
+      <trd>&c_s;&c_g;&c_u;&c_s;&c_t;&c_i;&c_t;&c_mol;</trd>,
+      <trd>&c_s;&c_p;&c_l;&c_o;&c_t;&c_i;&c_t;&c_mol;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="dens.0igi.KOMP">
+    <uzo tip="fak">KOMP</uzo>
+    <dif>
+      Malgrandigi datumaron per rearan&gcirc;o de &gcirc;iaj bitoj:
+      <ekz>
+        Gzip estas bazita sur la datum<tld/>iga algoritmo
+        <ctl>deflate</ctl>
+        <fnt>
+          <bib>Viki</bib>,
+          <lok><url ref="http://eo.wikipedia.org/wiki/Gzip">
+          Gzip</url>, 2013-03-07</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="fr">compresser<klr> (des donn&eacute;es)</klr></trd>
+    <trd lng="id">[<ind>kompresi</ind>] mengompresi</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>hustit</trd>,
+    <trd>zahustit</trd>,
+    <trd>zahu&scaron;&tcaron;ovat</trd>
+  </trdgrp>
+  <trd lng="sk">zahusti&tcaron; <klr>(m&uacute;kou)</klr></trd>
+</drv>
+
+<drv mrk="dens.0igxi">
+  <kap><tld/>i&gcirc;i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="dens.0igxi.KOMUNE">
+    <dif>
+      Interproksimi&gcirc;i, lasante malmultan interspacon,
+      kunpremi&gcirc;i:
+      <ekz>
+        la ombro <klr>...</klr> <tld/>i&gcirc;is minuton post minuto
+        <fnt>
+          <aut>G. de Maupassant, trad. N. Lagrafo</aut>,
+          <vrk>Hororega</vrk>,
+          <lok><url ref="http://www.elerno.cn/penseo/PEN259.pdf">
+          Penseo, 2013-06 (259)</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="fr">
+    <trd>se <ind>densifier</ind></trd>,
+    <trd>se <ind>resserrer</ind></trd>
+  </trdgrp>
+  <trd lng="id">[<ind>padat</ind>] memadat</trd>
+</drv>
+
+<drv mrk="dens.mal0a">
+  <kap>mal<tld/>a</kap>
+  <snc>
+    <dif>
+      Kies eroj malproksimas unu de alia:
+      <ekz>
+        tro mal<tld/>a aero sufokas la homon;
+      </ekz>
+      <ekz>
+        mal<tld/>aj spikoj<fnt>Z</fnt>;
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">&rcaron;&iacute;dk&yacute; <klr>(roztok)</klr></trd>
+  <trdgrp lng="fr">
+    <trd>diffus</trd>,
+    <trd>l&acirc;che<klr tip="amb"> (peu serr&eacute;)</klr></trd>
+  </trdgrp>
+  <trd lng="id">renggang</trd>
+  <trd lng="pl">rzadki</trd>
+  <trdgrp lng="ru">
+    <trd>&c_r;&c_y;&c_h;&c_l;&c_y;&c_j;</trd>,
+    <trd>&c_r;&c_a;&c_z;&c_r;&c_je;&c_zh;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trd lng="sk">riedky</trd>
+</drv>
+
+<drv mrk="dens.mal0ejo">
+  <kap>mal<tld/>ejo</kap>
+  <snc mrk="dens.mal0ejo.HOR">
+    <uzo tip="fak">HOR</uzo>
+    <dif>
+      Loko en arbaro, kie la plantoj estas mal<tld/>aj:
+      <ekz>
+        jen mi subite alvenas en ian mal<tld/>ejon, kiu estas tute
+        simple herbejo
+        <fnt>
+          <aut>Alain Fournier, trad. Roger Bernard</aut>,
+          <vrk>La Granda Meaulnes</vrk>,
+          <lok>p. 123</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">clairi&egrave;re</trd>
+</drv>
+
+<drv mrk="dens.mal0igi">
+  <kap>mal<tld/>igi</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="dens.mal0igi.KOMUNE">
+    <dif>
+      Igi mal<tld/>a, malmultigi en la sama spaco:
+      <ekz>
+        radioaktiveco <klr>...</klr> estas ankora&ubreve; netiminda,
+        &ccirc;ar la granda maro mal<tld/>igos &gcirc;in
+        <fnt>
+          <aut>zan</aut>,
+          <vrk>Grandega sismo en Japanio</vrk>,
+          <lok>lernu.net, forumo, 2011-03-27</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="fr">
+      <trd>diluer</trd>,
+      <trd>&eacute;claircir<klr> (rendre moins dense)</klr></trd>,
+      <trd>rar&eacute;fier</trd>
+    </trdgrp>
+    <trd lng="id">[<ind>renggang</ind>] merenggangkan</trd>
+  </snc>
+  <snc mrk="dens.mal0igi.KOMP">
+    <uzo tip="fak">KOMP</uzo>
+    <dif>
+      Restarigi <ref tip="ant" cel="dens.0igi.KOMP">densigitan</ref>
+      datumaron en la originalan formon:
+      <ekz>
+        el&scirc;utu kaj mal<tld/>igu la arkivdosieron
+        <fnt>
+          <aut>D. Bre&ccirc;alov</aut>,
+          <vrk><url ref="http://www.ipernity.com/blog/dmych/25675">
+          SdiQt - portebla komputila vortaro</url></vrk>,
+          <lok>2007-10-16</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="fr">d&eacute;compresser<klr> (des donn&eacute;es)</klr></trd>
+    <trd lng="id">[<ind>dekompresi</ind>] mendekompresi</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>probrat</trd>,
+    <trd>z&rcaron;edit</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>preriedi&tcaron;</trd>,
+    <trd>riedi&tcaron;</trd>,
+    <trd>zriedi&tcaron;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="dens.mal0igxi">
+  <kap>mal<tld/>i&gcirc;i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc>
+    <dif>
+      Reciproke malproksimi&gcirc;i, disi&gcirc;i, i&gcirc;i malmultaj en sama loko:
+      <ekz>
+        la dro&scirc;koj kaj kale&scirc;oj iom mal<tld/>i&gcirc;is
+        <fnt><bib>Marta</bib></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="fr">
+    <trd>se <ind>d&eacute;serrer</ind></trd>,
+    <trd>s'&eacute;carter</trd>,
+    <trd>se <ind>rar&eacute;fier</ind></trd>
+  </trdgrp>
+  <trd lng="id">[<ind>renggang</ind>] merenggang</trd>
+  <trd lng="pl"><ind>rozrzedza&cacute;</ind> si&eogonek;</trd>
+  <trdgrp lng="ru">
+    <trd>&c_r;&c_a;&c_z;&c_r;&c_je;&c_zh;&c_a;&c_t;&c_mol;&c_s;&c_ja;
+    </trd>,
+    <trd>&c_r;&c_a;&c_z;&c_r;&c_je;&c_d;&c_i;&c_t;&c_mol;&c_s;&c_ja;
+    </trd>,
+    <trd>&c_p;&c_r;&c_o;&c_r;&c_je;&c_d;&c_i;&c_t;&c_mol;&c_s;&c_ja;
+    </trd>,
+    <trd>&c_p;&c_o;&c_r;&c_je;&c_d;&c_je;&c_t;&c_mol;</trd>,
+    <trd>&c_r;&c_a;&c_z;&c_r;&c_y;&c_h;&c_l;&c_ja;&c_t;&c_mol;&c_s;&c_ja;
+    </trd>,
+    <trd>&c_r;&c_a;&c_z;&c_r;&c_y;&c_h;&c_l;&c_i;&c_t;&c_mol;&c_s;&c_ja;
+    </trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="dens.probablo0o">
+  <kap>probablo<tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>PIV1</bib>, <lok>probabla</lok></fnt>
+  <snc>
+    <dif>
+      <klr>(de <ref cel="variab.hazarda0o">hazarda variablo</ref>
+      <frm>X</frm>)</klr>
+      Tia reela <ref cel="mezur.0ebla.MAT">mezurebla</ref>
+      <ref tip="super" cel="funkci.0o.MAT">funkcio</ref>
+      <frm><k>f</k></frm>,
+      ke por &ccirc;iu borela subaro <frm><g>b</g></frm> la probablo de
+      <frm>X<sup>-1</sup>(<g>b</g>)</frm> egalas al la
+      <ref cel="integr2.lebega0o">(lebega) integralo</ref> de
+      <frm><k>f</k></frm> en <frm><g>b</g></frm>;
+      simb. <frm>P<sub>X</sub>(<g>b</g>) = P(X<sup>-1</sup>(<g>b</g>)) =
+      &#8747;<sub><g>b</g></sub><k>f</k>d&my;</frm>:
+      <ekz>
+        se ekzistas probablo<tld/>o, la distribua funkcio estas
+        malderiva&jcirc;o de &gcirc;i.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="de">Wahrscheinlichkeitsdichte</trd>
+  <trd lng="en">probability <ind>density</ind></trd>
+  <trd lng="fr">densit&eacute; de probabilit&eacute;</trd>
+  <trd lng="hu">val&oacute;sz&iacute;n&udblac;s&eacute;gi 
+  <ind>s&udblac;r&udblac;s&eacute;g</ind></trd>
+  <trd lng="id">[<ind>padat</ind>] kepadatan probabilitas</trd>
+  <trd lng="pl">g&eogonek;sto&sacute;&cacute; prawdopodobie&nacute;stwa<klr tip="ind"> (zmiennej
+  losowej)</klr></trd>
+  <trd lng="ru">&c_p;&c_l;&c_o;&c_t;&c_n;&c_o;&c_s;&c_t;&c_mol; &c_v;&c_je;&c_r;&c_o;&c_ja;&c_t;&c_n;&c_o;&c_s;&c_t;&c_i;</trd>
+</drv>
+</art>
+<!--
+$Log: dens.xml,v $
+Revision 1.47  2015/10/24 07:10:19  revo
+Alain Gerard: + mal~ejo
+
+Revision 1.46  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.45  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.44  2014/06/18 16:10:13  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.43  2013/11/24 02:10:16  revo
+Jeromo Vasxe: + ~ajxo/igxi/ mal~igi + snc komp ~igi/mal~igi
+
+Revision 1.42  2013/08/01 12:10:10  revo
+Joop Eggen: +trd bg nl
+
+Revision 1.41  2009/02/19 20:27:38  revo
+Sergej Chlutchin: -fusxaj linirompoj trd ru
+
+Revision 1.40  2009/02/11 19:43:04  revo
+-->
+</vortaro>

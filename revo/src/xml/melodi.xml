@@ -1,0 +1,163 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: melodi.xml,v 1.20 2015/07/04 08:37:39 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>melodi</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="melodi.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="melodi.0o.MUZ">
+    <uzo tip="fak">MUZ</uzo>
+    <dif>
+      Sinsekvo da muzikaj sonoj agrablaj por la orelo kaj formantaj
+      muzikan frazon:
+      <ekz>
+        li iras al la blindulo kaj igas lin ekludi vivan <klr>...</klr>
+        <tld/>on kaj kune kun la kolego li improvizas gajan dancon
+        <fnt><bib>Voja&gcirc;Imp</bib>, <lok>el odeso &gcirc;is
+        Konstantinopolo</lok></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="ari.0o">ario</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_m;&c_e;&c_l;&c_jo;&c_d;&c_y;&c_ja;</trd>
+  <trd lng="ca">melodia</trd>
+  <trdgrp lng="cs">
+    <trd>melodie</trd>,
+    <trd>nápěv</trd>
+  </trdgrp>
+  <trd lng="de">Melodie</trd>
+  <trdgrp lng="en">
+    <trd>melody</trd>,
+    <trd>tune</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>m&eacute;lodie</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>dallam</trd>,
+    <trd>mel&oacute;dia</trd>
+  </trdgrp>
+  <trd lng="nl">melodie</trd>
+  <trd lng="pl">melodia</trd>
+  <trdgrp lng="pt">
+    <trd>melodia</trd>,
+    <trd>linha mel&oacute;dica</trd>
+  </trdgrp>
+  <trd lng="ru">&c_m;&c_je;&c_l;&c_o;&c_d;&c_i;&c_ja;</trd>
+  <trdgrp lng="sk">
+    <trd>mel&oacute;dia</trd>,
+    <trd>nápev</trd>,
+    <trd>nôta</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="melodi.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="melodi.0a.MUZ">
+    <uzo tip="fak">MUZ</uzo>
+    <dif>
+      Sonanta kiel <tld/>o, pro flueco agrabla por la orelo:
+      <ekz>
+        la <tld/>a kanto de najtingalo
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="harmon1">harmonia</ref>.
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_m;&c_e;&c_l;&c_ja;&c_d;&c_y;&c_ch;&c_n;&c_y;</trd>
+  <trd lng="ca">mel&ograve;dic</trd>
+  <trdgrp lng="cs">
+    <trd>melodický</trd>,
+    <trd>zpěvný</trd>
+  </trdgrp>
+  <trd lng="de">melodisch</trd>
+  <trdgrp lng="en">
+    <trd>melodious</trd>,
+    <trd>melodic</trd>,
+    <trd>songful</trd>,
+    <trd>tuneful</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>m&eacute;lodieux</trd>,
+    <trd>m&eacute;lodique</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>dallam-</trd>,
+    <trd>dallamos</trd>,
+    <trd>melodikus</trd>
+  </trdgrp>
+  <trd lng="nl">melodieus</trd>
+  <trd lng="pl">melodyjny</trd>
+  <trdgrp lng="pt">
+    <trd>melodioso</trd>,
+    <trd>mel&oacute;dico</trd>,
+    <trd>harmonioso</trd>
+  </trdgrp>
+  <trd lng="ru">&c_m;&c_je;&c_l;&c_o;&c_d;&c_i;&c_ch;&c_n;&c_y;&c_j;</trd>
+  <trd lng="sk">melodick&yacute;</trd>
+</drv>
+
+<drv mrk="melodi.fraz0o">
+  <kap>fraz<tld/>o</kap>
+  <snc mrk="melodi.fraz0o.LIN">
+    <uzo tip="fak">LIN</uzo>
+    <dif>
+      &Scirc;an&gcirc;i&gcirc;o de vo&ccirc;alteco, kiu konstante okazas dum 
+      parolado:
+      <ekz>
+        oni uzas vo&ccirc;altecon por fraz<tld/>o, do por aldoni 
+        neleksikan signifon al dira&jcirc;oj
+        <fnt>
+          <aut>J. Wells</aut>,
+          <vrk><url
+          ref="tttp://www.phon.ucl.ac.uk/home/wells/frazmelodio_plena.doc">
+          La frazmelodio en internacia perspektivo</url></vrk>,
+          <lok>IKU-AIS, 2008</lok>
+        </fnt>
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">intonace věty</trd>
+  <trd lng="fr">m&eacute;lodie de phrase</trd>
+  <trd lng="sk">intonácia vety</trd>
+</drv>
+</art>
+<!--
+$Log: melodi.xml,v $
+Revision 1.20  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2015/01/20 23:10:17  revo
+Jeromo Vasxe: + fraz~o
+
+Revision 1.17  2012/08/04 08:10:26  revo
+Marc Rausell: + trd ca
+
+Revision 1.16  2006/09/18 16:31:06  revo
+Russ Williams: +trd en pl
+
+Revision 1.15  2006/07/31 16:31:21  revo
+Tulio Flores: +tr pt
+
+Revision 1.14  2006/01/31 17:30:59  revo
+Jeromo Vasxe: + 1 ekz, ~a 1 snc
+
+Revision 1.13 2003/05/19 19:41:43 revo
+Dmitri Gabinski: +trd be
+
+Revision 1.12 2003/02/28 17:30:48 revo
+Jozefo Horvath: +trd hu
+
+Revision 1.11 2003/01/04 17:33:10 revo
+-->
+</vortaro>

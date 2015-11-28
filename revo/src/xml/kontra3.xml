@@ -1,0 +1,295 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: kontra3.xml,v 1.22 2015/07/04 08:37:38 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>kontrakt</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="kontra3.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <snc mrk="kontra3.0i.JUR">
+    <uzo tip="fak">JUR</uzo>
+    <uzo tip="fak">EKON</uzo>
+    <uzo tip="fak">POL</uzo>
+    <gra><vspec>x</vspec></gra>
+    <dif>
+      Inter&scirc;an&gcirc;i la&ubreve;le&gcirc;ajn skribitajn promesojn pri
+      komuna entrepreno:
+      <ekz>
+        <tld/>i liveradon por la armeo<fnt>B</fnt>;
+      </ekz>
+      <ekz>
+        <tld/>i pacon, pri paco, akordon, traktaton, vendakton;
+      </ekz>
+      <ekz>
+        la <ind>Altaj <tld lit="K"/>antoj</ind>
+        <klr>(la partoprenantaj regnoj)</klr>.
+        <trd lng="ru">&c_V;&c_y;&c_s;&c_o;&c_k;&c_i;&c_je; &c_d;&c_o;&c_g;&c_o;&c_v;&c_a;&c_r;&c_i;&c_v;&c_a;&c_ju;&c_shch;&c_i;&c_je;&c_s;&c_ja;
+        &c_s;&c_t;&c_o;&c_r;&c_o;&c_n;&c_y;</trd>
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_z;&c_a;&c_k;&c_l;&c_ju;&c_ch;&c_y;&c_c;&c_mol; &c_d;&c_a;&c_m;&c_o;&c_v;&c_u;</trd>,
+    <trd>&c_z;&c_a;&c_k;&c_l;&c_ju;&c_ch;&c_y;&c_c;&c_mol; &c_k;&c_a;&c_n;&c_t;&c_r;&c_a;&c_k;&c_t;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>dohodnout smlouvu</trd>,
+    <trd>kontrahovat</trd>,
+    <trd>sepsat smlouvu</trd>,
+    <trd>uzavřít smlouvu</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>einen <ind>Vertrag schlie&szlig;en</ind></trd>,
+    <trd>vertraglich vereinbaren</trd>,
+    <trd>kontrahieren [ark]</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>engage</trd>,
+    <trd>enter into a <ind>contract</ind> with</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>contracter</trd>,
+    <trd>souscrire</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>szerz&odblac;d&eacute;st k&ouml;t</trd>,
+    <trd>szerz&odblac;d&eacute;sben r&ouml;gz&iacute;t</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>bij <ind>contract</ind> overeenkomen</trd>,
+    <trd>contracteren</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>zawiera&cacute; <ind>umow&eogonek;</ind></trd>,
+    <trd>podpisywa&cacute; <ind>kontrakt</ind></trd>,
+    <trd>zawiera&cacute; <ind>uk&lstroke;ad</ind></trd>
+  </trdgrp>
+  <trd lng="pt">contratar</trd>
+  <trdgrp lng="ru">
+    <trd>&c_z;&c_a;&c_k;&c_l;&c_ju;&c_ch;&c_i;&c_t;&c_mol; &c_d;&c_o;&c_g;&c_o;&c_v;&c_o;&c_r;</trd>,
+    <trd>&c_z;&c_a;&c_k;&c_l;&c_ju;&c_ch;&c_i;&c_t;&c_mol; &c_k;&c_o;&c_n;&c_t;&c_r;&c_a;&c_k;&c_t;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>angažovať umelca</trd>,
+    <trd>uzavrieť zmluvu</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kontra3.0o">
+  <kap><tld/>o</kap>
+  <tezrad fak="JUR"/>
+  <snc mrk="kontra3.0o.JUR">
+    <uzo tip="fak">JUR</uzo>
+    <uzo tip="fak">EKON</uzo>
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      La&ubreve;le&gcirc;a skribita inter&scirc;an&gcirc;o de promeso,
+      interpromeso, konvencio:
+      <ekz>
+        <tld/>o pri vendo, farmoluo;
+      </ekz>
+      <ekz>
+        <tld/>o pri edzi&gcirc;o.
+      </ekz>
+      Vidu anka&ubreve;: <ref tip="sub" cel="trakta.0o.JUR">traktato</ref>.
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_d;&c_a;&c_m;&c_o;&c_v;&c_a;</trd>,
+    <trd>&c_k;&c_a;&c_n;&c_t;&c_r;&c_a;&c_k;&c_t;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>kontrakt</trd>,
+    <trd>smlouva</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Vertrag</trd>,
+    <trd>Kontrakt [spec]</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>binding <ind>agreement</ind></trd>,
+    <trd>contract</trd>,
+    <trd>covenant</trd>,
+    <trd>deal</trd>,
+    <trd>legal agreement</trd>,
+    <trd>pact</trd>
+  </trdgrp>
+  <trd lng="fr">contrat</trd>
+  <trd lng="hu">szerz&odblac;d&eacute;s</trd>
+  <trd lng="nl">contract</trd>
+  <trdgrp lng="pl">
+    <trd>umowa</trd>,
+    <trd>kontrakt</trd>,
+    <trd>uk&lstroke;ad</trd>
+  </trdgrp>
+  <trd lng="pt">contrato</trd>
+  <trdgrp lng="ru">
+    <trd>&c_d;&c_o;&c_g;&c_o;&c_v;&c_o;&c_r;</trd>,
+    <trd>&c_k;&c_o;&c_n;&c_t;&c_r;&c_a;&c_k;&c_t;</trd>
+  </trdgrp>
+  <trd lng="sk">zmluva</trd>
+  <trd lng="sv">kontrakt</trd>
+</drv>
+
+<drv mrk="kontra3.pac0o">
+  <kap>pac<tld/>o</kap>
+  <snc mrk="kontra3.pac0o.POL">
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      Interregna <ref tip="super" cel="kontra3.0o"><tld/>o</ref>
+      per kiu intermilitantaj &scirc;tatoj finas la
+      militon:
+      <ekz>
+        la <ind>Vestfaliaj Packontraktoj</ind> <klr>(de 1648a
+        jaro)</klr>
+        <trd lng="cs">vestf&aacute;lsk&yacute; m&iacute;r</trd>
+        <trd lng="hu">vesztf&aacute;liai b&eacute;ke</trd>
+        <trd lng="nl">Verdrag van Westfalen<klr tip="ind">
+        (ontr.)</klr></trd>
+        <trd lng="ru">&c_V;&c_je;&c_s;&c_t;&c_f;&c_a;&c_l;&c_mol;&c_s;&c_k;&c_i;&c_j; &c_m;&c_i;&c_r;</trd>
+        <fnt>
+        <aut>K. Kraft, M. Malovec</aut>,
+        <vrk>Esperanta-&ccirc;e&hcirc;a vortaro</vrk>,
+        <lok><url
+        ref="http://mujweb.atlas.cz/Veda/traxler/ev2.htm">V</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <klr>(Carter)</klr> en 1978 enkarcerigis en Kampo Davido
+        egiptan prezidanton Anvar el Sadat kaj israelan
+        &ccirc;efministron Mena&hcirc;im Begin tiom longe, &gcirc;is subigite
+        subite ili subskribis pac<tld/>on
+        <fnt>
+        <aut>S. Maul</aut>,
+        <vrk>Nob(e)la kritiko</vrk>,
+        <bib>Monato</bib>.
+        </fnt>;
+      </ekz>
+      <ekz>
+        la faktaj elspezoj por la rekonstruo, faritaj en
+        Bosnio-Hercegovino post la pac<tld/>o en Dayton
+        <fnt>
+          <aut>E. Georgiev</aut>,
+          <vrk>Esperiga komenco</vrk>,
+          <bib>Monato</bib>,
+          <lok>006764</lok>.
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">mírová smlouva</trd>
+  <trd lng="en">peace treaty</trd>
+  <trd lng="fr">trait&eacute; de paix</trd>
+  <trd lng="hu">b&eacute;keszerz&odblac;d&eacute;s</trd>
+  <trd lng="nl">vredesverdrag<klr tip="ind"> (ontr.)</klr></trd>
+  <trdgrp lng="pl">
+    <trd>traktat pokojowy</trd>,
+    <trd>uk&lstroke;ad pokojowy</trd>
+  </trdgrp>
+  <trd lng="pt">tratado de paz</trd>
+  <trd lng="ru">&c_m;&c_i;&c_r;&c_n;&c_y;&c_j; &c_d;&c_o;&c_g;&c_o;&c_v;&c_o;&c_r;</trd>
+  <trd lng="sk">mierová zmluva</trd>
+</drv>
+
+<drv mrk="kontra3.socia0o">
+  <kap>socia <tld/>o</kap>
+  <snc mrk="kontra3.socia0o.FIL">
+    <uzo tip="fak">FIL</uzo>
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      Jura kaj filozofia doktrino, unue formulita de Epikuro,
+      priskribanta la genezon kaj esencon de la &scirc;tato per
+      interkonsento de civitanoj (<ref tip="super"
+      cel="kontra3.0o"><tld/>o</ref>
+      inter la civitanoj), implica a&ubreve; malimplica, pri tio, kiu kaj kiel
+      regu:
+      <ekz>
+        tion li <klr>(Hobbes)</klr> pruvas per la ideo de
+        socia <tld/>o, ideo kiun Spinozo, Rousseau kaj Lokeo
+        poste disvolvigis
+        <fnt>
+        <aut>S. Kalb</aut>,
+        <lok><url
+        ref="http://www.geocities.com/kalblando/enc/h/hobbes.htm"
+        >Tomaso HOBESO</url></lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        junulo trovinte revolveron pensas unue pri si mem kaj,
+        sentante la rompon de la socia <tld/>o fare de la
+        dominantoj, rompos siavice tiun <tld/>on, atakante
+        bankon
+        <fnt>
+        <aut>I. Ramonet</aut>, <vrk>Socia milito</vrk>,
+        <lok><url ref="http://eo.mondediplo.com/article717.html"
+        >Le Monde diplomatique en Esperanto,
+        2002-11</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">contrat social</trd>
+  <trd lng="hu">t&aacute;rsadalmi szerz&odblac;d&eacute;s</trd>
+  <trd lng="pl">umowa spo&lstroke;eczna</trd>
+  <trd lng="ru">&c_o;&c_b;&c_shch;&c_je;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_y;&c_j; &c_d;&c_o;&c_g;&c_o;&c_v;&c_o;&c_r;</trd>
+  <trd lng="pt">contrato social</trd>
+</drv>
+
+<drv mrk="kontra3.sub0anto">
+  <kap>sub<tld/>anto</kap>
+  <snc mrk="kontra3.sub0anto.EKON">
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      Ekstera plenumanto de laboro komisiita
+      de mendanta firmao:
+      <ekz>
+        la japanaj agrokooperativoj fari&gcirc;is sub<tld/>anto
+        de monopolaj kapitaloj
+        <fnt>
+          <aut>Kumaki H.</aut>,
+          <vrk><url
+          ref="http://homepage2.nifty.com/serpento/vk/vk139b.htm">
+          Vizitinte &ccirc;e&hcirc;ajn urbojn</url></vrk>,
+          <lok>[1996?]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">sous-traitant</trd>
+</drv>
+</art>
+<!--
+$Log: kontra3.xml,v $
+Revision 1.22  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.21  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.20  2013/04/08 11:10:07  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.19  2011/04/06 09:10:10  revo
+Jeromo Vasxe: + sub~anto
+
+Revision 1.18  2010/10/20 16:31:09  revo
+Jerano Zachrisson: +trd sv
+
+Revision 1.17  2009/09/06 16:30:48  revo
+Paul Peeraerts: +nl +ligilo al traktato -tajperaroj
+
+Revision 1.16  2007/10/20 18:54:10  revo
+Jeromo Vasxe: + mrk + trd fr
+
+Revision 1.15 2006/09/22 12:26:42 revo
+Wolfram Diestel: +tezrad(JUR)
+
+Revision 1.14 2004/05/07 16:31:36 revo
+Jozefo Horvath: +trd hu
+
+Revision 1.13 2004/04/27 16:31:39 revo
+-->
+</vortaro>

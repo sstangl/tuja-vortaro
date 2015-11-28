@@ -1,0 +1,239 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: kalend1.xml,v 1.23 2015/07/04 08:37:36 revo Exp $">
+<kap>
+   <ofc>1</ofc>
+   <rad>kalendar</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="kalend1.0o">
+   <kap><tld/>o</kap>
+   <snc mrk="kalend1.0o.sistemo">
+     <uzo tip="fak">KAL</uzo>
+     <dif>
+       Sistemo pri kalkulo kaj divido de la tempo:
+       <ekz>
+	 la franca revolucio provis starigi novan <tld/>on anstata&ubreve;
+	 la Gregoria;
+       </ekz>
+       <ekz>
+	 la islama kalendaro komenci&gcirc;as ekde la elmigro de
+	 <klr>[Muhamado]</klr> al
+	 Medina en la jaro 622 post Kristo
+	 <fnt>
+	 <aut>E. Georgiev</aut>:
+	 <vrk>&Ccirc;u kalendar-reformo estos bezonata?</vrk>,
+	 <bib>Monato</bib>,
+	 <lok>jaro 1998a, numero 2a, p. 11a</lok>
+	 </fnt>.
+       </ekz>
+     </dif>
+     <trdgrp lng="fi">
+       <trd>ajanlasku</trd>,
+       <trd>kalenteri</trd>
+     </trdgrp>
+   </snc>
+   <snc mrk="kalend1.0o.dokumento">
+     <uzo tip="fak">KAL</uzo>
+     <dif>
+       Libreto a&ubreve; tabelo, montranta la dividojn de la jaro
+       la&ubreve; sezonoj, monatoj ktp:
+       <ekz>
+	 oni posedas anka&ubreve; grandvaloran <tld/>on, la
+	 <tld lit="K"/>on de Coligny, eltrovitan en 1897
+	 <fnt>
+	 <aut>A. Cherpillod</aut>:
+	 <vrk>La galla, &ccirc;u malaperinta?</vrk>,
+	 <bib>Monato</bib>,
+	 <lok>jaro 1998a, numero 6a, p. 16a</lok>
+	 </fnt>;
+       </ekz>
+       <ekz>
+       <ind>mensogi kiel <tld/>o</ind>
+       <fnt><bib>PrV</bib></fnt>;
+       <trd lng="nl">liegen als Clinton</trd>
+       </ekz>
+       <ekz>
+	 po&scirc;<tld/>o.
+       </ekz>
+     </dif>
+     <trdgrp lng="fi">
+       <trd>kalenteri</trd>,
+       <trd>almanakka</trd>
+     </trdgrp>
+   </snc>
+  <trd lng="be">&c_k;&c_a;&c_l;&c_ja;&c_n;&c_d;&c_a;&c_r;</trd>
+  <trd lng="ca">calendari</trd>
+  <trd lng="cs">kalendář</trd>
+  <trd lng="de">Kalender</trd>
+  <trd lng="en">calendar</trd>
+  <trd lng="es">calendario</trd>
+  <trd lng="fr">calendrier</trd>
+  <trd lng="hu">napt&aacute;r</trd>
+  <trdgrp lng="id">
+     <trd>almanak</trd>,
+     <trd>kalender</trd>
+   </trdgrp>
+  <trd lng="nl">kalender</trd>
+  <trd lng="pl">kalendarz</trd>
+  <trd lng="pt">caldend&aacute;rio</trd>
+  <trd lng="ro">calendar</trd>
+  <trd lng="ru">&c_k;&c_a;&c_l;&c_je;&c_n;&c_d;&c_a;&c_r;&c_mol;</trd>
+  <trd lng="sk">kalend&aacute;r</trd>
+</drv>
+
+<drv mrk="kalend1.0a">
+   <kap><tld/>a</kap>
+   <snc mrk="kalend1.0a.KAL">
+     <dif>
+       Rilata al <tld/>o, al tempokalkulo:
+       <ekz>
+	 plej kompetenta Cherpillod montras sin rilate al analizado kaj
+	 interrilatigado de la diversaj antikvaj <tld/>aj
+	 sistemoj
+	 <fnt>
+	 <aut>M. Halvelik</aut>,
+	 <vrk>(A. Cherpillod, Kaj la suno haltis...)</vrk>,
+	 <bib>Monato</bib>,
+	 <lok>jaro 1993a, numero 11a, p. 23a</lok>
+	 </fnt>.
+       </ekz>
+     </dif>
+   </snc>
+   <trd lng="be">&c_k;&c_a;&c_l;&c_ja;&c_n;&c_d;&c_a;&c_r;&c_n;&c_y;</trd>
+   <trd lng="ca">del calendari</trd>
+   <trd lng="de">kalendarisch</trd>
+   <trdgrp lng="fi">
+     <trd>ajanlasku-</trd>,
+     <trd>kalenterin</trd>
+   </trdgrp>
+   <trd lng="fr">calendaire</trd>
+   <trd lng="nl">volgens de <ind>kalender</ind></trd>
+   <trd lng="pl">kalendarzowy</trd>
+   <trd lng="ru">&c_k;&c_a;&c_l;&c_je;&c_n;&c_d;&c_a;&c_r;&c_n;&c_y;&c_j;</trd>
+</drv>
+
+<drv mrk="kalend1.lun0o">
+   <kap>lun<tld/>o, <var><kap>luna <tld/>o</kap></var></kap>
+   <snc mrk="kalend1.lun0o.KAL">
+     <uzo tip="fak">KAL</uzo>
+     <dif>
+       <ref tip="super" cel="kalend1.0o.sistemo"><tld lit="K"/>o
+       <sncref/></ref>, en kiu la da&ubreve;ro de jaro kalkuli&gcirc;as
+       la&ubreve; lunaj periodoj:
+       <ekz>
+	 en la jaro 153 anta&ubreve; Kristo la jarkomenco estis
+	 transigita al la
+	 unua de januaro rezulte de multnombraj korektoj, kiuj necesis pro
+	 la apliko de lun<tld/>o
+	 <fnt>
+	 <aut>E. Georgiev</aut>,
+	 <vrk>&Ccirc;u kalendar-reformo estos bezonata?</vrk>,
+	 <bib>Monato</bib>,
+	 <lok>jaro 1998a, numero 2a, p. 11a</lok>
+	 </fnt>;
+       </ekz>
+       <ekz>
+	 temas pri februaro la&ubreve; la luna <tld/>o, do koresponda al 
+	 nuna marto
+	 <fnt>
+	   <vrk>Sakura-floroj</vrk>,
+	   <bib>Monato</bib>,
+	   <lok>jaro 2000a, numero 3a, p. 26a</lok>
+	  </fnt>.
+       </ekz>
+     </dif>
+   </snc>
+   <trd lng="ca"><ind>calendari</ind> lunar</trd>
+   <trd lng="de">Mondkalender</trd>
+   <trd lng="es"><ind>calendario</ind> lunar</trd>
+   <trdgrp lng="fi">
+     <trd>kuukalenteri</trd>
+   </trdgrp>
+   <trd lng="fr">calendrier lunaire</trd>
+   <trdgrp lng="id">
+     <trd><ind>kalender</ind> bulan</trd>,
+     <trd><ind>kalender</ind> lunar</trd>
+   </trdgrp>
+   <trd lng="nl">maankalender</trd>
+   <trd lng="pl">kalendarz ksi&eogonek;&zdot;ycowy</trd>
+   <trd lng="ru">&c_l;&c_u;&c_n;&c_n;&c_y;&c_j; &c_k;&c_a;&c_l;&c_je;&c_n;&c_d;&c_a;&c_r;&c_mol;</trd>
+</drv>
+
+<drv mrk="kalend1.sun0o">
+   <kap>sun<tld/>o, <var><kap>suna <tld/>o</kap></var></kap>
+   <snc mrk="kalend1.sun0o.KAL">
+     <uzo tip="fak">KAL</uzo>
+     <dif>
+       <ref tip="super" cel="kalend1.0o.sistemo"><tld lit="K"/>o
+       <sncref/></ref>, en kiu la da&ubreve;ro de jaro kalkuli&gcirc;as
+       proksimume la&ubreve; la tera rivoluo &ccirc;irka&ubreve; la
+       suno, kaj sekve stabilas rilate al naturaj sezonoj.
+     </dif>
+   </snc>
+   <trd lng="ca"><ind>calendari</ind> solar</trd>
+   <trd lng="de">Sonnenkalender</trd>
+   <trd lng="es"><ind>calendario</ind> solar</trd>
+   <trdgrp lng="fi">
+     <trd>aurinkokalenteri</trd>
+   </trdgrp>
+   <trd lng="fr">calendrier solaire</trd>
+   <trdgrp lng="id">
+     <trd><ind>kalender</ind> matahari</trd>,
+     <trd><ind>kalender</ind> solar</trd>,
+     <trd><ind>kalender</ind> surya</trd>
+   </trdgrp>
+   <trd lng="nl">zonnekalender</trd>
+   <trd lng="pl">kalendarz s&lstroke;oneczny</trd>
+   <trd lng="ru">&c_s;&c_o;&c_l;&c_n;&c_je;&c_ch;&c_n;&c_y;&c_j; &c_k;&c_a;&c_l;&c_je;&c_n;&c_d;&c_a;&c_r;&c_mol;</trd>
+</drv>
+
+<drv mrk="kalend1.sxirfolia0o">
+   <kap>&scirc;irfolia <tld/>o</kap>
+   <snc mrk="kalend1.sxirfolia0o.KAL">
+     <uzo tip="fak">KAL</uzo>
+     <dif>
+       <tld lit="K"/>libreto el kungluitaj folietoj kun
+       surskribitaj tagnomoj, kiujn oni for&scirc;iras la&ubreve; la paso
+       de tagoj.
+     </dif>
+   </snc>
+   <trd lng="ca"><ind>calendari</ind> de bloc</trd>
+   <trd lng="de">Abrei&szlig;kalender</trd>
+   <trd lng="fi">(rep&auml;isy)<ind>p&auml;ivyri</ind></trd>
+   <trd lng="fr">eph&eacute;m&eacute;ride</trd>
+   <trd lng="nl">scheurkalender</trd>
+   <trd lng="pl">kalendarz zrywany</trd>
+   <trd lng="ru">&c_o;&c_t;&c_r;&c_y;&c_v;&c_n;&c_o;&c_j; &c_k;&c_a;&c_l;&c_je;&c_n;&c_d;&c_a;&c_r;&c_mol;</trd>
+</drv>
+</art>
+<!--
+$Log: kalend1.xml,v $
+Revision 1.23  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.22  2014/06/09 16:10:55  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.21  2012/09/01 07:10:24  revo
+Marc Rausell: + trd ca
+
+Revision 1.20  2009/08/23 16:32:36  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.19  2008/11/14 17:31:52  revo
+Jeromo Vasxe: + var
+
+Revision 1.18  2007/07/12 16:30:41  revo
+Harri Laine: +trd fi
+
+Revision 1.17  2006/09/16 16:31:28  revo
+Tulio Flores: +tr pt
+
+Revision 1.16  2006/02/28 17:31:50  revo
+Vito Redsky: +trd pl +trd ro
+
+Revision 1.15  2004/10/24 16:32:23  revo
+-->
+</vortaro>

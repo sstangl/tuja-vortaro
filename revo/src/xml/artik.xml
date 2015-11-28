@@ -1,0 +1,327 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: artik.xml,v 1.42 2015/09/17 03:10:22 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>artik</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="artik.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="artik.0o.ANA">
+    <uzo tip="fak">ANA</uzo>
+    <dif>
+      Loko, kie kunligi&gcirc;as du ostoj a&ubreve; membroj, tiel ke ili
+      povas movi&gcirc;i unu rilate al alia:
+      <ekz>
+        <ind>pied<tld/>o</ind>
+        <fnt><bib>Fab2</bib>, <lok>ru&gcirc;aj &scirc;uoj</lok></fnt>;
+        <trd lng="br">mell an ufern</trd>
+      </ekz>
+      <ekz>
+        vertebra <tld/>o.
+      </ekz>
+    </dif>
+    <trd lng="ca">articulaci&ograve;</trd>
+    <trdgrp lng="en">
+      <trd>joint</trd>,
+      <trd>articulation</trd>
+    </trdgrp>
+    <trd lng="hu">iz&uuml;let</trd>
+    <trdgrp lng="it">
+      <trd>giuntura</trd>,
+      <trd>articolazione</trd>
+    </trdgrp>
+    <trd lng="pl">staw</trd>
+    <trd lng="pt">articula&ccedil;&atilde;o</trd>
+    <trdgrp lng="ru">
+      <trd>&c_s;&c_u;&c_s;&c_t;&c_a;&c_v;</trd>,
+      <trd>&c_s;&c_o;&c_ch;&c_l;&c_je;&c_n;&c_je;&c_n;&c_i;&c_je;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="artik.0o.TEK">
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      Me&hcirc;anika kunligo de du pecoj, kiuj povas movi&gcirc;i
+      &ccirc;irka&ubreve; la punkto de kunligo.
+    </dif>
+    <trdgrp lng="it">
+      <trd>giuntura</trd>,
+      <trd>giunzione</trd>,
+      <trd>giunto</trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>zawiasa</trd>,
+      <trd>przegub</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="bg">&c_s;&c_t;&c_a;&c_v;&c_a;</trd>
+  <trdgrp lng="br">
+    <trd>koubl</trd>,
+    <trd>mell</trd>,
+    <trd>kenvell</trd>
+  </trdgrp>
+  <trd lng="ca">articulaci&oacute;</trd>
+  <trd lng="cs">kloub</trd>
+  <trd lng="de">Gelenk</trd>
+  <trdgrp lng="en">
+    <trd>joint</trd>,
+    <trd>hinge</trd>
+  </trdgrp>
+  <trd lng="es">articulaci&oacute;n</trd>
+  <trd lng="fr">articulation</trd>
+  <trd lng="hu">csukl&oacute;</trd>
+  <trdgrp lng="pl">
+    <trd>kolanko<klr> (BOT)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_sh;&c_a;&c_r;&c_n;&c_i;&c_r;</trd>,
+    <trd>&c_k;&c_o;&c_l;&c_je;&c_n;&c_o;</trd>,
+    <trd>&c_s;&c_o;&c_ch;&c_l;&c_je;&c_n;&c_je;&c_n;&c_i;&c_je;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>k&lacute;b</trd>,
+    <trd>k&lacute;b</trd>,
+    <trd>zhyb</trd>,
+    <trd>&ccaron;l&aacute;nok</trd>
+  </trdgrp>
+  <trd lng="sv">led</trd>
+</drv>
+
+<drv mrk="artik.0igi">
+  <kap><tld/>igi, <var><kap><tld/>i</kap></var></kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      Kunligi per <tld/>o.
+    </dif>
+    <trdgrp lng="br">
+      <trd>koubla&ntilde;<klr tip="ind"> (mella&ntilde;)</klr></trd>,
+      <trd>mella&ntilde;<klr tip="ind"> (koubla&ntilde;)</klr></trd>
+    </trdgrp>
+    <trd lng="ca">articular</trd>
+    <trdgrp lng="hu">
+      <trd>csukl&oacute;san k&ouml;t</trd>,
+      <trd>csukl&oacute;san illeszt</trd>
+    </trdgrp>
+    <trd lng="ru">&c_s;&c_o;&c_ch;&c_l;&c_je;&c_n;&c_ja;&c_t;&c_mol;</trd>
+  </snc>
+  <snc mrk="artik.0igi.FON">
+    <uzo tip="stl">ARK</uzo>
+    <uzo tip="fak">FON</uzo>
+    <ref tip="dif" cel="artikulaci.0i">artikulacii</ref>
+    <ekz>
+      <tld/>igita parolo <klr>(kiu estas disigebla en diferencajn
+      precizajn silabojn)</klr>.
+    </ekz>
+    <trd lng="ca">articular</trd>
+    <trd lng="de">artikulieren</trd>
+    <trdgrp lng="en">
+      <trd>articulate</trd>,
+      <trd>utter</trd>
+    </trdgrp>
+    <trd lng="es">articular</trd>
+    <trdgrp lng="hu">
+      <trd>artikul&aacute;l</trd>,
+      <trd>tagol</trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>artyku&lstroke;owa&cacute;</trd>
+    </trdgrp>
+    <trd lng="ru">&c_a;&c_r;&c_t;&c_i;&c_k;&c_u;&c_l;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>skloubit</trd>,
+    <trd>spojit kloubem</trd>
+  </trdgrp>
+  <trd lng="fr">articuler</trd>
+  <trd lng="it">articolare</trd>
+  <trd lng="sk">spoji&tcaron; k&lacute;bom</trd>
+</drv>
+
+<drv mrk="artik.0uloj">
+  <kap><tld/>uloj,
+  <var><kap><tld/>pieduloj</kap></var></kap>
+  <snc mrk="artik.0uloj.ZOO">
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      <ref tip="malprt" cel="verteb.sen0uloj">Senvertebraj 
+      animaloj</ref>, kies korpo konsistas el ringoformaj 
+      segmentoj kaj kies membroj havas plurajn 
+      <ref tip="prt" cel="artik.0o.ANA">artikojn</ref>, 
+      ekzemple <ref tip="prt" cel="krust.0uloj">krustuloj</ref>, 
+      <ref tip="prt" cel="arane.0uloj">araneuloj</ref>, 
+      <ref tip="prt" cel="miriap.0oj.ZOO">miriapodoj</ref> 
+      kaj <ref tip="prt" cel="insekt.0oj">insektoj</ref>;
+      <ref tip="lst" cel="filum.0o"
+      lst="voko:zoologiaj_grupoj">filumo</ref> 
+      de la <ref tip="malprt" cel="best.0oj">bestoj</ref>
+      (<trd lng="la">Arthropoda</trd>);
+      <ref tip="sin" cel="artropod.0o.ZOO">artropodoj</ref>:
+      <ekz>
+        iuj insektoj kaj aliaj <tld/>uloj en natura stato foje
+        malfekundi&gcirc;as
+        <fnt><bib>OriginoDeSpecioj</bib>, <lok>&ccirc;apitro 7a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="br">artropoded</trd>
+  <trd lng="ca">artr&ograve;podes</trd>
+  <trd lng="de">Gliederf&uuml;&szlig;er</trd>
+  <trd lng="en">arthropods</trd>
+  <trd lng="es">artr&oacute;podos</trd>
+  <trd lng="fr">arthropodes</trd>
+  <trd lng="hu">&iacute;zeltl&aacute;b&uacute;ak</trd>
+  <trd lng="it">artropodi</trd>
+  <trd lng="pl">stawonogi</trd>
+  <trdgrp lng="ru">
+    <trd>&c_a;&c_r;&c_t;&c_r;&c_o;&c_p;&c_o;&c_d;&c_y;</trd>,
+    <trd>&c_ch;&c_l;&c_je;&c_n;&c_i;&c_s;&c_t;&c_o;&c_n;&c_o;&c_g;&c_i;&c_je;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="artik.el0igi">
+  <kap>el<tld/>igi</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="artik.el0igi.MED">
+    <uzo tip="fak">MED</uzo>
+    <dif>
+      Misloki du <tld/>ajn ostojn en membro, tiel ke ili ne plu normale
+      movi&gcirc;as:
+      <ekz>
+        unu <klr>[malsanulo]</klr> &gcirc;emis, al kiu oni &jcirc;us 
+        remetis el<tld/>igitan piedon
+        <fnt><bib>Far2</bib>, <lok>&ccirc;apitro 1a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>vymknout</trd>,
+    <trd>vymykat</trd>,
+    <trd>vyvrtnout</trd>
+  </trdgrp>
+  <trd lng="en">to dislocate <klr tip="amb">(a joint)</klr></trd>
+  <trdgrp lng="fr">
+    <trd>d&eacute;boiter<klr tip="amb"> (une articulation)</klr></trd>,
+    <trd>d&eacute;mettre<klr tip="amb"> (une articulation)</klr></trd>,
+    <trd>luxer</trd>
+  </trdgrp>
+  <trdgrp lng="it">
+     <trd>disarticolare</trd>,
+     <trd>lussare</trd>
+   </trdgrp>
+  <trdgrp lng="pl">
+    <trd>nastawia&cacute; ko&sacute;ci</trd><!--zwichn&aogonek;&cacute;-->
+  </trdgrp>
+  <trd lng="sk">vyvrtn&uacute;&tcaron;</trd>
+</drv>
+
+<drv mrk="artik.el0igxi">
+  <kap>el<tld/>i&gcirc;i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="artik.el0igxi.MED">
+    <uzo tip="fak">MED</uzo>
+    <dif>
+      Gliti ekster la normala <tld/>a loko:
+      <ekz>
+        la femuro de Jakob el<tld/>i&gcirc;is
+        <fnt><bib>MT</bib>, <lok>&Gen; 32:25</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="en">become dislocated</trd>
+  <trdgrp lng="fr">
+    <trd>se <ind>d&eacute;boiter</ind><klr tip="amb">
+(articulation)</klr></trd>,
+    <trd>se <ind>d&eacute;mettre</ind><klr tip="amb">
+(articulation)</klr></trd>,
+    <trd>se <ind>luxer</ind></trd>
+    </trdgrp>
+    <trdgrp lng="it">
+     <trd>disarticolarsi</trd>,
+     <trd>lussarsi</trd>
+   </trdgrp>
+    <trd lng="pl">zwichn&aogonek;&cacute;</trd>  
+</drv>
+
+<drv mrk="artik.krom0uloj">
+  <kap>krom<tld/>uloj</kap>
+  <snc mrk="artik.krom0uloj.ZOO">
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      <ref tip="lst" cel="grup.0o.BIO"
+      lst="voko:zoologiaj_grupoj">Grupo</ref>  
+      de <ref tip="malprt" cel="mam.0uloj">mamuloj</ref>
+      (<trd lng="la">Xenarthra</trd>) kun kromaj artikoj &ccirc;e la
+      brustaj kaj lumbaj vertebroj, ampleksanta la ordojn
+      <trd lng="la">Pilosa</trd> kaj <trd lng="la">Cingulata</trd>.
+    </dif>
+    <refgrp tip="prt">
+      <ref cel="dazip.0o">dazipo</ref>,
+      <ref cel="bradip.0o">bradipo</ref>,
+      <ref cel="mangx.formik0ulo">formikman&gcirc;ulo</ref>
+    </refgrp>
+  </snc>
+  <trd lng="ca">xenartres</trd>
+  <trdgrp lng="de">
+    <trd>Nebengelenktiere</trd>,
+    <trd>Zahnlose <klr tip="ind">[S&auml;ugetierordnung]</klr></trd>
+  </trdgrp>
+  <trd lng="en">Xenarthra</trd>
+  <trd lng="fr">x&eacute;narthres</trd>
+  <trd lng="hu">fogh&iacute;jas <ind>eml&odblac;s&ouml;k</ind></trd>
+  <trdgrp lng="it">
+    <trd>xenartri</trd>,
+    <trd>edentati</trd>
+  </trdgrp>
+  <trd lng="ru">&c_n;&c_je;&c_p;&c_o;&c_l;&c_n;&c_o;&c_z;&c_u;&c_b;&c_y;&c_je;</trd>
+</drv>
+
+<drv mrk="artik.0igapunkto">
+  <kap><tld/>iga punkto</kap>
+  <snc mrk="artik.0igapunkto.FON">
+    <uzo tip="stl">ARK</uzo>
+    <uzo tip="fak">FON</uzo>
+    <dif>
+      <ref cel="artikulaci.0i">Artikulacia</ref> punkto,
+      pozicio.
+    </dif>
+  </snc>
+  <trd lng="ca">punt d'articulaci&oacute;</trd>
+  <trd lng="en">articulation point</trd>
+  <trd lng="es">punto de articulaci&oacute;n</trd>
+  <trd lng="fr">point d'articulation</trd>
+  <trd lng="it">luogo di <ind>articolazione</ind><klr>
+  (fon.)</klr></trd>
+  <trd lng="pl">miejsce artykulacji</trd>
+  <trd lng="ru">&c_m;&c_je;&c_s;&c_t;&c_o; &c_a;&c_r;&c_t;&c_i;&c_k;&c_u;&c_l;&c_ja;&c_c;&c_i;&c_i;</trd>
+  <trd lng="sk">artikula&ccaron;n&eacute; miesto v &uacute;stach</trd>
+</drv>
+</art>
+<!--
+$Log: artik.xml,v $
+Revision 1.42  2015/09/17 03:10:22  revo
+Evandro Avellar: +trd pt
+
+Revision 1.41  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.40  2015/06/28 12:03:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.39  2013/09/01 10:10:16  revo
+Wolfram Diestel: krom~uloj: dif: ampleksas du ordojn anst. nur unu
+
+Revision 1.38  2013/09/01 09:10:18  revo
+Wolfram Diestel: ~uloj: referencoj/-tipoj
+
+Revision 1.37  2012/10/20 00:10:09  revo
+Jeromo Vasxe: + formo ~uloj
+
+Revision 1.36  2010/11/05 17:30:29  revo
+Antonio Codazzi: +trd it
+
+Revision 1.35  2010/09/05 16:30:28  revo
+-->
+</vortaro>

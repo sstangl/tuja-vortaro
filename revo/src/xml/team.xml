@@ -1,0 +1,151 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: team.xml,v 1.21 2015/07/04 08:37:44 revo Exp $">
+<kap>
+  <rad>team</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="team.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="team.0o.SPO">
+    <uzo tip="fak">SPO</uzo>
+    <dif>
+      <ref tip="super" cel="grup.0o.personoj">Grupo</ref> da kunagantoj,
+      precipe kunludantoj en sporto a&ubreve; ludo:
+      <ekz>
+        kiam &scirc;i malfermis &scirc;rankon por enmeti siajn vestojn,
+        &gcirc;i plenplenis de sportaj &scirc;uoj por unu tuta futbala
+        <tld/>o
+        <fnt>
+        <aut>S. &Scirc;timec</aut>,
+        <vrk>Morto en Melburna tramo</vrk>,
+        <bib>Monato</bib>, <lok>1997:8, p. 24a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="parti.0o.JUR">partio<sncref/></ref>,
+      <ref cel="skip.0o">skipo</ref>,
+      <ref cel="tacxme.0o.SPO">ta&ccirc;mento<sncref/></ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_k;&c_a;&c_m;&c_a;&c_n;&c_d;&c_a;
+  <klr tip="amb">(&c_s;&c_p;&c_a;&c_r;&c_t;&c_o;&c_v;&c_a;&c_ja;)</klr></trd>
+  <trdgrp lng="cs">
+    <trd>družstvo</trd>,
+    <trd>mužstvo</trd>,
+    <trd>směna</trd>,
+    <trd>tým</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Team</trd>,
+    <trd>Mannschaft</trd>
+  </trdgrp>
+  <trd lng="en">team</trd>
+  <trd lng="es">equipo</trd>
+  <trd lng="fr">&eacute;quipe</trd>
+  <trd lng="he">&qof;&bet;&vav;&tsadi;&he;
+  <klr tip="ind">(&samekh;&pe;&vav;&resh;&tet;)</klr></trd>
+  <trd lng="hu">csapat</trd>
+  <trd lng="nl">team</trd>
+  <trd lng="pl">dru&zdot;yna</trd>
+  <trdgrp lng="pt">
+   <trd>time</trd>,
+   <trd>equipe</trd>
+  </trdgrp>
+  <trd lng="ru">&c_k;&c_o;&c_m;&c_a;&c_n;&c_d;&c_a;
+  <klr tip="amb">(&c_s;&c_p;&c_o;&c_r;&c_t;.)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>team</trd>,
+    <trd>tým</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="team.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="team.0a.KOMUNE">
+    <dif>
+      Koncernanta <tld/>on, farata de <tld/>o:
+      <ekz>
+        merkatiko estas <tld/>a laboro, kuna laboro
+        <fnt>
+          <aut>D. Keefe</aut>,
+          <vrk><url ref="http://sezonoj.ru/2014/12/keefe-4/">
+          Merkatiko kaj &gcirc;iaj limoj en la mondo de Esperanto</url></vrk>,
+          <lok>La Balta Ondo, 2014-12-28</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="fr">
+    <trd>collectif<klr> (adj.)</klr></trd>,
+    <trd>d'<ind>&eacute;quipe</ind></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="team.sam0ano">
+  <kap>sam<tld/>ano</kap>
+  <snc mrk="team.sam0ano.SPO">
+    <uzo tip="fak">SPO</uzo>
+    <dif>
+      Ano de la sama <tld/>o kiel la parolanto:
+      <ekz>
+        &Jcirc;ak Le Puil - vortaristo, kanzonisto, redaktoro kaj ...
+        mia iama sam<tld/>ano en dumkongresa kvizo
+        <fnt>
+        <aut>B. Kolker</aut>,
+        <vrk>Parizo slangas en Esperanto</vrk>,
+        <bib>Monato</bib>, <lok>1997:5, p. 23a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="de">
+    <trd>Mannschaftskamerad</trd>;
+    <trd>Teamkollege</trd>
+  </trdgrp>
+  <trd lng="en"><ind>team</ind>mate</trd>
+  <trd lng="es">coequipero</trd>
+  <trd lng="fr">co&eacute;quipier</trd>
+  <trd lng="he">&het;&bet;&resh; &lamed;<ind>&qof;&bet;&vav;&tsadi;&he;
+  </ind></trd>
+  <trd lng="hu">csapatt&aacute;rs</trd>
+  <trd lng="nl">teamgenoot</trd>
+  <trd lng="pl">cz&lstroke;onek <klr> tej samej </klr><ind>dru&zdot;yny
+  </ind></trd>
+  <trd lng="ru">&c_t;&c_o;&c_v;&c_a;&c_r;&c_i;&c_shch; &c_p;&c_o; &c_k;&c_o;&c_m;&c_a;&c_n;&c_d;&c_je;</trd>
+</drv>
+</art>
+<!--
+$Log: team.xml,v $
+Revision 1.21  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.19  2015/01/17 14:10:17  revo
+Jeromo Vasxe: + ~a
+
+Revision 1.18  2008/10/30 19:25:03  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.17  2006/02/04 17:32:15  revo
+Tulio Flores: +trd pt
+
+Revision 1.16  2005/11/02 17:31:15  revo
+Jeromo Vasxe: + tez
+
+Revision 1.15 2005/01/28 17:31:06 revo
+Adam Raizen: +trd en, he
+
+Revision 1.14 2004/03/09 17:31:06 revo
+Dennis Wibrow: +trd germ
+
+Revision 1.13 2004/03/03 17:31:27 revo
+Dmitri Gabinski: +trd be
+
+Revision 1.12 2004/02/25 17:31:57 revo
+-->
+</vortaro>

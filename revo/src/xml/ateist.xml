@@ -1,0 +1,137 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: ateist.xml,v 1.22 2015/07/04 08:37:31 revo Exp $">
+<kap>
+  <ofc>3</ofc>
+  <rad>ateist</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="ateist.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="ateist.0o.REL">
+    <uzo tip="fak">REL</uzo>
+    <ref tip="dif" cel="di.sen0ulo.REL">sendiulo</ref>
+    <ekz>
+      neniu tolerema homo permesus al si publike insulti la anojn de
+      alia
+      religio, sed ial la homoj sentas sin absolute liberaj kritiki
+      <tld/>ojn
+      <fnt>
+        <aut>A. L&ouml;wenstein</aut>,
+        <vrk>Funebro sen dio</vrk>,
+        <bib>Monato</bib>,
+        <lok>jaro 2000a, numero 2a, p. 4a</lok>
+      </fnt>.
+    </ekz>
+  </snc>
+  <trd lng="be">&c_a;&c_t;&c_e;&c_ib;&c_s;&c_t;</trd>
+  <trd lng="ca">ateu</trd>
+  <trdgrp lng="cs">
+    <trd>ateista</trd>,
+    <trd>neznaboh</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Atheist</trd>,
+    <trd>Gottloser</trd>
+  </trdgrp>
+  <trd lng="en">atheist</trd>
+  <trd lng="es">ateo</trd>
+  <trdgrp lng="fr">
+    <trd>ath&eacute;e<klr> (subst.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>ateista</trd>,
+    <trd>istentagad&oacute;</trd>
+  </trdgrp>
+  <trdgrp lng="it">
+    <trd>ateo<klr> (sost.)</klr></trd>
+    <trd>ateista<klr> (sost.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>athe&iuml;st</trd>,
+    <trd>goddeloze</trd>
+  </trdgrp>
+  <trd lng="ru">&c_a;&c_t;&c_je;&c_i;&c_s;&c_t;</trd>
+  <trdgrp lng="sk">
+    <trd>ateista</trd>,
+    <trd>bezbožník</trd>,
+    <trd>neverec</trd>,
+    <trd>neznaboh</trd>
+  </trdgrp>
+  <trd lng="sv">ateist</trd>
+</drv>
+
+<drv mrk="ateist.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="ateist.0a.REL">
+    <dif>
+      Sendiula, sendiista:
+      <ekz>
+        eble &ccirc;ar kaj li kaj mi estis/estas <tld/>aj [...] ni
+        amba&ubreve; povis senanta&ubreve;ju&gcirc;e pritaksi la diversajn
+        tradukoproblemojn,
+        kiujn amase prezentas la <ctl>Psalmoj</ctl>
+        <fnt>
+          <aut>A. Cherpillod</aut>,
+          <vrk>Gaston Waringhien 1901-1991...</vrk>,
+          <bib>Monato</bib>,
+          <lok>jaro 2001a, numero 3a, p. 29a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_a;&c_t;&c_e;&c_ib;&c_s;&c_t;&c_y;&c_ch;&c_n;&c_y;</trd>
+  <trdgrp lng="cs">
+    <trd>ateistický</trd>,
+    <trd>nevěrecký</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>atheistisch</trd>,
+    <trd>gottlos</trd>
+  </trdgrp>
+  <trd lng="en">atheistic</trd>
+  <trd lng="fr">ath&eacute;e<klr> (adj.)</klr></trd>
+  <trd lng="it">ateo<klr> (agg.)</klr></trd>
+  <trdgrp lng="nl">
+    <trd>athe&iuml;stisch</trd>,
+    <trd>goddeloos</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>ateistický</trd>,
+    <trd>neverecký</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: ateist.xml,v $
+Revision 1.22  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.21  2015/06/28 12:03:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.20  2012/01/31 17:10:12  revo
+Antonio Codazzi: +trd it
+
+Revision 1.19  2009/07/01 17:22:12  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.18  2008/07/31 17:47:58  revo
+Jeromo Vasxe: kor ref dif
+
+Revision 1.17  2007/06/27 16:30:39  revo
+Russ Williams: korektas misliterumatan anglan de versio 1.14
+
+Revision 1.16  2006/09/05 15:23:47  revo
+Wieland Pusch: +trd de
+
+Revision 1.15  2003/11/13 18:51:14  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.14  2002/11/01 09:18:45  revo
+Christopher Zervic: + ang
+
+Revision 1.13  2002/10/14 16:32:44  revo
+-->
+</vortaro>

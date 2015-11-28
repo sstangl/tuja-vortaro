@@ -1,0 +1,267 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: rezist.xml,v 1.26 2015/07/04 08:37:42 revo Exp $">
+<kap>
+  <ofc>4</ofc>
+  <rad>rezist</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="rezist.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>x</vspec></gra>
+  <snc mrk="rezist.0i.KOMUNE">
+    <dif>
+      <ref tip="vid" cel="ced.mal0i">Malcedi</ref>,
+      <ref tip="vid" cel="star.kontraux0i">kontra&ubreve;stari</ref>:
+      <ekz>
+        vi ne povos <tld/>i anta&ubreve; viaj malamikoj
+        <fnt><bib>MT</bib>, <lok>&Jos; 7:13</lok></fnt>;
+      </ekz>
+      <ekz>
+        <tld/>u la diablon, kaj li forkuros de vi
+        <fnt><bib>NT</bib>, <lok>&Jak; 4:7</lok></fnt>
+      </ekz>
+      <ekz>
+        al Ursus neniu kapablos <tld/>i
+        <fnt><aut>H. Sienkewicz, trad. L. Zamenhof</aut>, <vrk>Quo 
+        vadis?</vrk>, <lok>1933</lok></fnt>;
+      </ekz>
+      <ekz>
+        la &scirc;nureto ne longe <tld/>is
+        <fnt><bib>Mortul&Scirc;ip</bib></fnt>;
+      </ekz>
+      <ekz>
+        <tld/>i kontra&ubreve;.
+      </ekz>
+    </dif>
+    <trdgrp lng="pl">
+      <trd>opiera&cacute; si&eogonek;</trd>,
+      <trd>stawia&cacute; <ind>op&oacute;r</ind></trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="rezist.0i.FIZ_ELE">
+    <dif>
+      <klr>(p.p. materialo)</klr>
+      Havi la econ kontra&ubreve;i le efikon de iuj
+      eksteraj influoj, kaj pli speciale:
+    </dif>
+    <subsnc mrk="rezist.0i.FIZ">
+      <uzo tip="fak">FIZ</uzo>
+      <dif>
+        ne &scirc;an&gcirc;i sian formon sub iuj fortoj.
+      </dif>
+    </subsnc>
+    <subsnc mrk="rezist.0i.ELE">
+      <uzo tip="fak">ELE</uzo>
+      <dif>
+        prezenti nenulan <ref cel="rezist1.0o">rezistancon</ref>
+        al kurento.
+      </dif>
+    </subsnc>
+    <trd lng="pl">stawia&cacute; <ind>op&oacute;r</ind></trd>
+  </snc>
+  <trd lng="be">&c_s;&c_u;&c_p;&c_r;&c_a;&c_c;&c_ib;&c_w;&c_l;&c_ja;&c_c;&c_c;&c_a;</trd>
+  <trd lng="ca">resistir</trd>
+  <trdgrp lng="cs">
+    <trd>být odolný</trd>,
+    <trd>odporovat</trd>,
+    <trd>vzdorovat</trd>,
+    <trd>vzpírat se</trd>,
+    <trd>čelit</trd>
+  </trdgrp>
+  <trd lng="de">widerstehen</trd>
+  <trd lng="en">resist</trd>
+  <trd lng="es">resistir</trd>
+  <trd lng="fr">r&eacute;sister</trd>
+  <trd lng="hu">ellen&aacute;ll</trd>
+  <trd lng="nl">weerstaan</trd>
+  <trd lng="pt">resistir</trd>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_o;&c_p;&c_r;&c_o;&c_t;&c_i;&c_v;&c_l;&c_ja;&c_t;&c_mol;&c_s;&c_ja;</trd>,
+    <trd>&c_o;&c_k;&c_a;&c_z;&c_y;&c_v;&c_a;&c_t;&c_mol; <ind>&c_s;&c_o;&c_p;&c_r;&c_o;&c_t;&c_i;&c_v;&c_l;&c_je;&c_n;&c_i;&c_je;</ind></trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>klásť odpor</trd>,
+    <trd>odolávať</trd>,
+    <trd>odporovať</trd>
+  </trdgrp>
+  <trd lng="sv">motst&aring;</trd>
+</drv>
+
+<drv mrk="rezist.0o">
+  <kap><tld/>o</kap>
+  <snc ref="rezist.0i.KOMUNE" mrk="rezist.0o.KOMUNE">
+    <dif>
+      Ago <tld/>i <sncref ref="rezist.0i.KOMUNE"/>.
+    </dif>
+  </snc>
+  <snc ref="rezist.0i.FIZ_ELE" mrk="rezist.0o.FIZ_ELE">
+    <dif>
+      <klr>(de materialo)</klr>
+      Kapablo <tld/>i <sncref ref="rezist.0i.FIZ_ELE"/>,
+      grando &gcirc;in karakterizanta.
+    </dif>
+    <subsnc mrk="rezist.0o.FIZ">
+      <uzo tip="fak">FIZ</uzo>
+      <fnt><bib>PIV2</bib></fnt>
+      <dif>
+        <klr>(de materialo)</klr>
+        Konstanto, karakterizanta &gcirc;ian kapablon
+        <tld/>i <sncref ref="rezist.0i.FIZ"/>.
+      </dif>
+      <adm>
+        Tio estas pli-malpli la difino el PIV2, sed kiun
+        fizikan grandon &gcirc;i precize celas?? En la sama
+        verko rimarkindas la parentezo "pp pri la rezisto
+        de la materialoj", kiu uzas "rezisto" kun alia signifo
+        (pli-malpli: kapablo rezisti). Cetere mi ne certas,
+        ke "rezisto de la materialoj" estas ta&ubreve;ga nomo por
+        la koncerna fako.
+        <aut>MB</aut>
+      </adm>
+    </subsnc>
+    <subsnc mrk="rezist.0o.rezistanco">
+      <uzo tip="fak">ELE</uzo>
+      <fnt><bib>ScTerm</bib><lok>p. 35</lok></fnt>
+      <uzo tip="stl">ARK</uzo>
+      <ref tip="dif" cel="rezist1.0o">rezistanco</ref>
+    </subsnc>
+    <subsnc mrk="rezist.0o.rezistivo">
+      <uzo tip="fak">ELE</uzo>
+      <fnt><bib>PIV2</bib></fnt>
+      <uzo tip="stl">EVI</uzo>
+      <ref tip="dif" cel="rezist2.0o">rezistivo</ref>
+    </subsnc>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>odolnost</trd>,
+    <trd>odpor</trd>,
+    <trd>rezistence</trd>,
+    <trd>vzdor</trd>
+  </trdgrp>
+  <trd lng="de">Wiederstand</trd>
+  <trd lng="en">resistance</trd>
+  <trd lng="es">resistencia</trd>
+  <trd lng="fr">r&eacute;sistance</trd>
+  <trdgrp lng="nl">
+    <trd>weerstand</trd>,
+    <trd>tegenstand</trd>,
+    <trd>verzet</trd>
+  </trdgrp>
+  <trd lng="pl">op&oacute;r</trd>
+  <trd lng="ru">&c_s;&c_o;&c_p;&c_r;&c_o;&c_t;&c_i;&c_v;&c_l;&c_je;&c_n;&c_i;&c_je;</trd>
+  <trdgrp lng="sk">
+    <trd>nepoddajnosť</trd>,
+    <trd>odolnosť</trd>,
+    <trd>odpor</trd>,
+    <trd>rezistencia</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="rezist.0eco">
+  <kap><tld/>eco</kap>
+  <fnt><bib>PIV1</bib></fnt>
+  <uzo tip="stl">ARK</uzo>
+  <snc mrk="rezist.0eco.FIZ">
+    <uzo tip="fak">FIZ</uzo>
+    <ref tip="dif" cel="rezist.0o.FIZ"><tld/>o <sncref/></ref>
+    <trd lng="pl">op&oacute;r</trd>
+  </snc>
+  <snc mrk="rezist.0eco.ELE">
+    <uzo tip="fak">ELE</uzo>
+    <ref tip="dif" cel="rezist2.0o">rezistivo</ref>
+    <trd lng="pl">oporno&sacute;&cacute;</trd>
+  </snc>
+  <trd lng="cs">odolnost</trd>
+  <trd lng="sk">odolnosť</trd>
+</drv>
+
+<drv mrk="rezist.0ema">
+  <kap><tld/>ema</kap>
+  <snc mrk="rezist.0ema.KOMUNE">
+    <dif>
+      Kiu rezistas forte, longe, rezolute;
+      eltenema,
+      <ref tip="vid" cel="tenac.0a.KOMUNE">tenaca</ref>:
+      <ekz>
+        viro ja <tld/>ema, sed &ccirc;iam malsaneta 
+        <fnt>
+          <aut>T. Mann, trad. K. Schulze</aut>,
+          <vrk>Lotte en Weimar</vrk>,
+          <lok>2005</lok>
+        </fnt>
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>odbojný</trd>,
+    <trd>odolný</trd>,
+    <trd>odporující</trd>,
+    <trd>vzdorný</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>r&eacute;sistant<klr> (adj.)</klr></trd>,
+    <trd>robuste</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>odolný</trd>,
+    <trd>schopný odporu</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="rezist.ne0ebla">
+  <kap>ne<tld/>ebla</kap>
+  <snc mrk="rezist.0ebla.KOMUNE">
+    <dif>
+      Kiun nenio povas <tld/>i, nenio povas haltigi:
+      <ekz>
+        oni ekhavas la impreson de nova kredo, de 
+        ne<tld/>ebla ekardo de mensoj, kiu nun ne plu devus 
+        halti
+        <fnt>
+          <aut>W. Heller, trad. B. Westerhoff</aut>,
+          <vrk>Lidia: la vivo de Lidia Zamenhof, Filino de
+          Esperanto</vrk>,
+          <lok>2007</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">neodolný</trd>
+  <trd lng="fr">irr&eacute;sistible</trd>
+  <trd lng="sk">neodolný</trd>
+</drv>
+</art>
+<!--
+$Log: rezist.xml,v $
+Revision 1.26  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.25  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.24  2015/02/24 20:10:15  revo
+Jeromo Vasxe: + ~ema ne~ebla
+
+Revision 1.23  2013/12/01 15:10:24  revo
+Damien Brucker: +trd fr
+
+Revision 1.22  2013/04/05 20:10:10  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.21  2012/07/17 08:10:08  revo
+Jeromo Vasxe: - ntr + x, + ekz + 1 trd fr
+
+Revision 1.20  2012/06/21 00:10:09  revo
+Joop Eggen: +trd -o: nl, de
+
+Revision 1.19  2009/03/01 17:34:57  revo
+Russ Williams: +trd en
+
+Revision 1.18  2006/04/30 16:31:54  revo
+Eduardo Navas: +trd es
+
+Revision 1.17  2006/02/20 17:34:33  revo
+-->
+</vortaro>

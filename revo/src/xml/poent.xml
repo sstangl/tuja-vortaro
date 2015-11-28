@@ -1,0 +1,163 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: poent.xml,v 1.23 2015/07/04 08:37:41 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>poent</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="poent.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="poent.0o.KOMUNE">
+  <dif>
+    Konvencia unuo de sukceso a&ubreve; malsukceso:
+  </dif>
+  <subsnc mrk="poent.0o.SPO">
+    <uzo tip="fak">SPO</uzo>
+    <dif>
+      Unuo de gajno &ccirc;e ludoj:
+      <ekz>
+        oni taksis kaj donis <tld/>ojn
+        <fnt><bib>InfanTorent2</bib>, <lok>dua parto, &ccirc;apitro
+        2a</lok></fnt>.
+      </ekz>
+    </dif>
+  </subsnc>
+  <subsnc mrk="poent.0o.PED">
+    <uzo tip="fak">PED</uzo>
+    <dif>
+      Unuo de sukceso en lernejo:
+      <ekz>
+        kie vi la uniformon malpurigis?
+        Por vi mi ne sukcesas &ccirc;ion provizi!
+        Denove unu <tld/>o!
+        <fnt>
+          <aut>A. &Ccirc;e&hcirc;ov, trad. A. Birjulin</aut>,
+          <vrk><url ref="http://esperanto.org/Ondo/Rn-che09.htm">
+          La vivo en demandoj kaj ekkrioj</url></vrk>,
+          <lok>en: &Ccirc;eriza &gcirc;ardeno, 2004</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </subsnc>
+  </snc>
+  <trd lng="ca">punt</trd>
+  <trd lng="cs">pointa <klr>(čti poenta)</klr></trd>
+  <trd lng="de">Punkt</trd>
+  <trd lng="en">point</trd>
+  <trd lng="es">punto</trd>
+  <trd lng="fr">point<klr tip="amb"> (gagn&eacute; au jeu, &agrave;
+  l'&eacute;cole)</klr></trd>
+  <trd lng="hu">pont<klr tip="ind"> (jaacute;t&eacute;kban)</klr></trd>
+  <trd lng="nl">punt<klr tip="ind"> (in spel of examen)</klr></trd>
+  <trd lng="pt">ponto <klr>(em jogo)</klr></trd>
+  <trdgrp lng="ru">
+    <trd>&c_o;&c_ch;&c_k;&c_o;</trd>,
+    <trd>&c_b;&c_a;&c_l;&c_l;</trd>
+  </trdgrp>
+  <trd lng="sk">bod <klr>(pri bodovaní)</klr></trd>
+  <trd lng="sv">po&auml;ng</trd>
+</drv>
+
+<drv mrk="poent.0i">
+  <kap><tld/>i</kap>
+  <snc mrk="poent.0i.KOMUNE">
+    <uzo tip="fak">SPO</uzo>
+    <uzo tip="fak">PED</uzo>
+    <dif>
+      Ekhavi <tld/>on:
+      <ekz>
+        la pola teamo videble regis la mat&ccirc;on, sed ne povis <tld/>i
+        <fnt>
+        <aut>C. Zervic</aut>,
+        <vrk>Mondpokalo: Esperantujo venkas, anta&ubreve;eniros</vrk>,
+        <lok>soc.culture.esperanto, 1998-06-24</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">bodovat</trd>
+  <trd lng="en">score <klr>(a point)</klr></trd>
+  <trd lng="fr">marquer un point</trd>
+  <trd lng="nl">punten scoren</trd>
+  <trd lng="sk">bodovať</trd>
+</drv>
+
+<drv mrk="poent.el0i">
+  <kap>el<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="poent.el0i.KOMUNE">
+    <dif>
+      Ekhavi per <tld/>oj:
+      <ekz>
+        de mi li, malnoblulo, el<tld/>is hiera&ubreve; cent rublojn
+        <fnt><bib>Revizoro</bib>, <lok>akto 3a, sceno 5a</lok></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="gajn.0i.FIG">gajni <sncref/></ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>vybodovat</trd>,
+    <trd>zvítězit ve hře na body</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>win</trd>,
+    <trd>gain</trd>
+  </trdgrp>
+  <trd lng="fr">gagner<klr tip="amb"> (quelque chose au jeu)</klr></trd>
+  <trd lng="nl">winnen<klr tip="ind"> (in een spel)</klr></trd>
+  <trd lng="sk">vybodovať</trd>
+</drv>
+
+<drv mrk="poent.0aro">
+  <kap><tld/>aro</kap>
+  <snc mrk="poent.0aro.KOMUNE">
+  <uzo tip="fak">SPO</uzo>
+    <dif>Nombro da <tld/>oj gajnitaj de ludanto a&ubreve; partio
+    en ludo a&ubreve; mat&ccirc;o.</dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>jelita</trd>,
+    <trd>podlitiny</trd>
+  </trdgrp>
+  <trd lng="en">score</trd>
+  <trd lng="fr">score</trd>
+  <trd lng="sk">podliatiny</trd>
+</drv>
+
+</art>
+<!--
+$Log: poent.xml,v $
+Revision 1.23  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.22  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.21  2012/01/09 07:10:09  revo
+Axel Rousseau: +trd fr
+
+Revision 1.20  2011/01/17 15:10:08  revo
+Russ Williams: +poentaro +trd en
+
+Revision 1.19  2009/08/23 16:31:27  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.18  2009/06/24 16:30:26  revo
+Jeromo Vasxe: + senco PED
+
+Revision 1.17  2009/02/15 14:19:07  revo
+Russ Williams: +trd en
+
+Revision 1.16  2006/03/08 17:33:23  revo
+Tulio Flores: +tr pt
+
+Revision 1.15  2005/04/14 16:34:22  revo
+Raul Salinas Monteagudo: +trd ca,es
+
+Revision 1.14  2005/04/10 16:32:27  revo
+-->
+</vortaro>

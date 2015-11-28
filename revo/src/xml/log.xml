@@ -1,0 +1,377 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: log.xml,v 1.24 2015/07/04 08:37:38 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>log</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="log.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      Peni altiri, tentante per pla&ccirc;aj flataj rimedoj:
+      <ekz>
+        <tld/>i muson per lardo, knabon per kuko, knabinon per dol&ccirc;aj
+        paroloj;
+      </ekz>
+      <ekz>
+        beleco <tld/>as, virto apogas
+        <fnt><bib>PrV</bib></fnt>;
+      </ekz>
+      <ekz>
+        pli al<tld/>as kulero da mielo ol da vinagro barelo
+        <fnt><bib>PrV</bib></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="es">atraer</trd>
+    <trdgrp lng="hu">
+      <trd>cs&aacute;b&iacute;t</trd>,
+      <trd>csalogat</trd>
+    </trdgrp>    
+    <trdgrp lng="ru">
+      <trd>&c_i;&c_s;&c_k;&c_u;&c_sh;&c_a;&c_t;&c_mol;</trd>,
+      <trd>&c_s;&c_o;&c_b;&c_l;&c_a;&c_z;&c_n;&c_ja;&c_t;&c_mol;</trd>
+    </trdgrp>
+  </snc>
+  <snc>
+    <dif>
+      Altiri; naski intereson, deziron, pla&ccirc;on:
+      <ekz>
+        la teatro, danco tute ne <tld/>as min;
+      </ekz>
+      <ekz>
+        <ind>al<tld/>a</ind> spektaklo.
+		<trd lng="es">atractivo, -a</trd>
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="instig.0i">instigi</ref>,
+      <ref cel="invit.0i">inviti</ref>,
+      <ref cel="magnet.0a">magneta</ref>,
+      <ref cel="miel.0o">mielo</ref>,
+      <ref cel="tent.0i">tenti</ref>
+    </refgrp>
+    <trd lng="hu">vonz</trd>    
+	<trd lng="es">tentar</trd>
+    <trdgrp lng="ru">
+      <trd>&c_p;&c_r;&c_i;&c_v;&c_l;&c_je;&c_k;&c_a;&c_t;&c_mol;</trd>,
+      <trd>&c_m;&c_a;&c_n;&c_i;&c_t;&c_mol;</trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_v;&c_a;&c_b;&c_ib;&c_c;&c_mol;</trd>,
+    <trd>&c_p;&c_r;&c_y;&c_v;&c_a;&c_b;&c_l;&c_ib;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_s;&c_p;&c_a;&c_k;&c_u;&c_sh;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>l&aacute;kat</trd>,
+    <trd>vábit</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>locken</trd>,
+    <trd>anlocken</trd>,
+    <trd>verlocken</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>entice</trd>,
+    <trd>lure</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>app&acirc;ter</trd>,
+    <trd>attirer</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>lokken</trd>,
+    <trd>aantrekken</trd>
+  </trdgrp>
+  <trdgrp lng="no">
+    <trd>lokke</trd>,
+    <trd>tiltrekke</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>atrair</trd>,
+    <trd>tentar</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>lákať</trd>,
+    <trd>vábiť</trd>
+  </trdgrp>
+  <trd lng="sv">locka</trd>
+</drv>
+
+<drv mrk="log.0o">
+  <kap><tld/>o, <var><kap><tld/>a&jcirc;o</kap></var>,
+  <var><kap><tld/>ilo</kap></var></kap>
+  <snc mrk="log.0o.KOMUNE">
+    <dif>
+      Io, kio servas por <tld/>i:
+      <ekz>
+        ili ne plu sekvos la <tld/>ojn de sia malbona koro<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        la &ccirc;efa <tld/>a&jcirc;o estas teatra prezentado en Esperanto.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_p;&c_a;&c_k;&c_u;&c_s;&c_a;</trd>,
+    <trd>&c_p;&c_r;&c_y;&c_n;&c_a;&c_d;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>lákadlo</trd>,
+    <trd>vnadidlo</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Lockmittel</trd>,
+    <trd>Lockstoff</trd>,
+    <trd>Verlockung</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>bait</trd>,
+    <trd>enticement</trd>,
+    <trd>lure</trd>
+  </trdgrp>
+  <trd lng="es">atractivo</trd>
+  <trdgrp lng="fr">
+    <trd>attraction</trd>,
+    <trd>s&eacute;duction</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>csali</trd>,
+    <trd>csal&eacute;tek</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>lokmiddel</trd>,
+    <trd>aantrekkingsmiddel</trd>
+  </trdgrp>
+  <trd lng="no">lokkemiddel</trd>
+  <trdgrp lng="pt">
+    <trd>atrativo</trd>,
+    <trd>isca</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_r;&c_i;&c_m;&c_a;&c_n;&c_k;&c_a;</trd>,
+    <trd>&c_s;&c_o;&c_b;&c_l;&c_a;&c_z;&c_n;</trd>,
+    <trd>&c_i;&c_s;&c_k;&c_u;&c_sh;&c_je;&c_n;&c_i;&c_je;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>vnadidlo</trd>,
+    <trd>vábidlo</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="log.de0i">
+  <kap>de<tld/>i, <var><kap>for<tld/>i</kap></var></kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="log.de0i.KOMUNE">
+    <dif>
+      Deturni, deflankigi <tld/>ante:
+      <ekz>
+        for<tld/>i iun de la devo, de sia tasko;
+      </ekz>
+      <ekz>
+        de<tld/>i la edzinon de najbaro;
+      </ekz>
+      <ekz>
+        de<tld/>isto de virinoj.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_p;&c_a;&c_k;&c_u;&c_sh;&c_a;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>lákat</trd>,
+    <trd>odlákat</trd>,
+    <trd>svádět</trd>,
+    <trd>zlákat</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>weglocken</trd>,
+    <trd>verleiten</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>beguile</trd>,
+    <trd>seduce</trd>
+  </trdgrp>
+  <trd lng="es">seducir</trd>
+  <trd lng="fr">s&eacute;duire</trd>
+  <trdgrp lng="hu">
+    <trd>elcs&aacute;b&iacute;t</trd>,
+    <trd>elcsal</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>weglokken</trd>,
+    <trd>verleiden</trd>
+  </trdgrp>
+  <trd lng="ru">&c_s;&c_o;&c_b;&c_l;&c_a;&c_z;&c_n;&c_i;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>odvábiť</trd>,
+    <trd>zvábiť</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="log.el0i">
+  <kap>el<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="log.el0i.KOMUNE">
+    <dif>
+      Eltiri, elkapti <tld/>ante:
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        el<tld/>i la konfidon de iu<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        jam multe da scioj mi el<tld/>is de l' gardistoj<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_v;&c_y;&c_b;&c_a;&c_v;&c_ib;&c_c;&c_mol;</trd>
+  <trd lng="cs">vylákat</trd>
+  <trdgrp lng="en">
+    <trd>draw out</trd>,
+    <trd>elicit</trd>
+  </trdgrp>
+  <trd lng="fr">attirer au-dehors</trd>
+  <trdgrp lng="hu">
+    <trd>kicsalogat</trd>,
+    <trd>el&odblac;csalogat</trd>,
+    <trd>kiszed</trd>
+  </trdgrp>
+  <trd lng="nl">ontfutselen</trd>
+  <trd lng="no">fralure</trd>
+  <trd lng="ru">&c_v;&c_y;&c_m;&c_a;&c_n;&c_i;&c_t;&c_mol;</trd>
+  <trd lng="sk">vylákať</trd>
+</drv>
+
+<drv mrk="log.en0i">
+  <kap>en<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="log.en0i.KOMUNE">
+    <dif>
+      <tld lit="L"/>i de ekstere al iu interna loko:
+      <ekz>
+        knabino Van Gog en<tld/>is min en sian lo&gcirc;ejon
+        <fnt>
+          <aut>I. Kvirikadze, trad. U. &Hcirc;. Travinskij</aut>,
+          <vrk><url ref="http://www.ikso.net/~slavik/rinocer.html">
+          Rinocera tamburo</url></vrk>,
+          <lok>2002</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">vlákat <klr>(kam)</klr></trd>
+  <trd lng="en">lure in</trd>
+  <trd lng="fr">attirer &agrave; l'int&eacute;rieur</trd>
+  <trd lng="sk">vlákať <klr>(niekam)</klr></trd>
+</drv>
+
+<drv mrk="log.mal0i">
+  <kap>mal<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="log.mal0i.KOMUNE">
+    <dif>
+      Naski malpla&ccirc;on, maldeziron, malinklinon:
+      <ekz>
+        li &ccirc;iam mal<tld/>is min per siaj krudaj manieroj;
+      </ekz>
+      <ekz>
+        ekzistas arboj, same kiel homoj, kiuj mal<tld/>as de l' unua
+        rigardo<fnt>Z</fnt>
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="abomen.0i">abomeni</ref>,
+      <ref cel="nauxz.0i">na&ubreve;zi</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_d;&c_p;&c_a;&c_l;&c_o;&c_h;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_a;&c_d;&c_p;&c_u;&c_d;&c_zh;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_a;&c_d;&c_sh;&c_t;&c_u;&c_r;&c_h;&c_o;&c_w;&c_v;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="cs">odpuzovat</trd>
+  <trdgrp lng="de">
+    <trd>abschrecken</trd>,
+    <trd>verleiden</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>deter</trd>,
+    <trd>repel</trd>,
+    <trd>be repugnant</trd>
+  </trdgrp>
+  <trd lng="es">desagradar</trd>
+  <trdgrp lng="fr">
+    <trd>d&eacute;gouter</trd>,
+    <trd>repousser<klr> (d&eacute;gouter)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>riaszt</trd>,
+    <trd>tasz&iacute;t</trd>
+  </trdgrp>
+  <trd lng="nl">afstoten</trd>
+  <trd lng="no">frast&oslash;te</trd>
+  <trdgrp lng="ru">
+    <trd>&c_o;&c_t;&c_t;&c_a;&c_l;&c_k;&c_i;&c_v;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_o;&c_t;&c_p;&c_u;&c_g;&c_i;&c_v;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="sk">odpudzovať</trd>
+</drv>
+
+<drv mrk="log.seksal0a">
+  <kap>seksal<tld/>a</kap>
+  <snc mrk="log.seksal0a.AMOR">
+    <dif>
+      Sekse incita,
+      <ref tip="vid" cel="erotik.0a.AMOR">erotika</ref>
+      la&ubreve; aspekto:
+      <ekz>
+        pentristo renkontas sensacie belan, seksal<tld/>an virinon;
+        li balbutas: &mdash; Mi estas portretisto. &Ccirc;u vi akceptus pozi
+        por mi? 
+        <fnt><aut>L. Beaucaire</aut>, <vrk>Kruko kaj Baniko el 
+        Bervalo</vrk>, <lok>1974</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="fr">
+    <trd>affriolant</trd>,
+    <trd>sexy</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: log.xml,v $
+Revision 1.24  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.23  2015/06/29 16:33:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.22  2014/12/05 11:10:16  revo
+Filip van Laenen: +trd(no)
+
+Revision 1.21  2014/10/06 20:10:37  revo
+Jeromo Vasxe: + seksal~a
+
+Revision 1.20  2011/01/25 10:10:09  revo
+Russ Williams: +trd en
+
+Revision 1.19  2008/07/31 17:47:56  revo
+Jeromo Vasxe: + en~i + mrk + trd fr
+
+Revision 1.18  2007/01/31 17:30:29  revo
+Eduardo Navas: +trd es
+
+Revision 1.17  2004/05/27 16:32:01  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.16  2004/05/07 16:31:55  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.15  2002/09/12 16:35:31  revo
+-->
+</vortaro>

@@ -1,0 +1,141 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+  <art mrk="$Id: sxengen.xml,v 1.12 2014/06/04 10:10:19 revo Exp $">
+    <kap><rad>&Scirc;engen</rad>/o</kap>
+
+    <drv mrk="sxengen.0o">
+      <kap><tld/>o</kap>
+      <snc>
+      <uzo tip="fak">GEOG</uzo>
+	<dif>
+          Luksemburga vila&gcirc;o, precipe konata pro la viza
+          traktato tie subskribita:
+          <ekz>
+            la vinvila&gcirc;o <tld/>o, kie, sur&scirc;ipe en 1985, oni 
+            subskribis traktaton pri senlima voja&gcirc;o
+            (&leftquot;<tld lit="&scirc;"/>a vizo&rightquot;).
+          </ekz>
+	</dif>
+      </snc>
+      <trd lng="be">&c_Sh;&c_e;&c_n;&c_g;&c_je;&c_n;</trd>
+      <trd lng="bg">&c_Sh;&c_je;&c_n;&c_g;&c_je;&c_n;</trd>
+      <trd lng="de">Schengen</trd>
+      <trd lng="fr">Schengen</trd>
+      <trd lng="hu">Schengen</trd> 
+      <trd lng="it">Schengen</trd>
+      <trd lng="nl">Schengen</trd>   
+      <trd lng="pt">Schengen</trd>  
+      <trd lng="ru">&c_Sh;&c_je;&c_n;&c_g;&c_je;&c_n;</trd>
+    </drv>
+
+    <drv mrk="sxengen.0a">
+      <kap><tld/>a</kap>
+      <snc mrk="sxengen.0a.POL">
+	<uzo tip="fak">POL</uzo>
+	<dif>
+          Rilata al la traktato de <tld/>o:
+          <ekz>
+            <ind><tld lit="&scirc;"/>a vizo</ind>;
+            <trd lng="de">Schengen-Visum</trd>
+            <trd lng="da">Schengen-visum</trd>
+            <trd lng="hu">schengeni v&iacute;zum</trd>
+            <trd lng="nl">Schengenvisum</trd>
+            <trd lng="ru">&c_sh;&c_je;&c_n;&c_g;&c_je;&c_n;&c_s;&c_k;&c_a;&c_ja; &c_v;&c_i;&c_z;&c_a;</trd>
+          </ekz><ekz>
+            la <ind><tld lit="&scirc;"/>a spaco</ind>
+            <klr>(kie validas la <tld lit="&scirc;"/>aj vizoj)</klr>;
+            <trd lng="hu">schengeni &ouml;vezet</trd>
+            <trdgrp lng="it">
+             <trd>area <ind>Schengen</ind></trd>, 
+             <trd>spazio <ind>Schengen</ind></trd>
+            </trdgrp>
+            <trd lng="nl">Schengenzone</trd>
+            <trd lng="ru">
+&c_sh;&c_je;&c_n;&c_g;&c_je;&c_n;&c_s;&c_k;&c_o;&c_je;
+              &c_p;&c_r;&c_o;&c_s;&c_t;&c_r;&c_a;&c_n;&c_s;&c_t;&c_v;&c_o;
+</trd>
+          </ekz><ekz>
+            kiam la ali&gcirc;o de Litovio kaj Pollando al EU i&gcirc;is 
+            reala, oni ekkonsciis, ke la <tld/>aj reguloj malebligos
+            senvizajn voja&gcirc;ojn de ruslandanoj al la najbaroj
+            <fnt>
+              <aut>Halina Gorecka</aut>:
+              <vrk>Ruslando kaj E&ubreve;ropo trovis kompromisan solvon</vrk>.
+              <bib>LOdE</bib><lok>2002:12</lok>;
+            </fnt>;
+          </ekz><ekz>
+            &ccirc;irka&ubreve; 180 homoj devis partopreni, sed pro       
+            <ctl>fera</ctl>
+            <tld lit="&scirc;"/>a kurteno kapitalisma ne povis alveni pli ol
+            60 homoj el Afriko a&ubreve; el Orienta E&ubreve;ropo, &ccirc;ar 
+            ili ne ricevis vizon
+            <fnt>
+              <lok>
+<url ref="http://fetesperanto.lautre.net/article.php3?id_article=20">
+FET, Somero
+</url></lok>
+            </fnt>;
+          </ekz><ekz>
+      en decembro 2007 estis nuligita ajna kontrolo pri internaj
+      &scirc;tatlimoj de la landoj apartenantaj al la <tld lit="&scirc;"/>a
+      traktato
+      <fnt><aut>LAST</aut>, <vrk><url
+      ref="http://www.esperanto.be/fel/2008/009416.php">Libereco,
+      &gcirc;ojiga ne por &ccirc;iuj</url></vrk>, <bib>Monato</bib>, <lok>2008/5,
+      p. 12</lok></fnt>.
+    </ekz>
+ 	</dif>
+      </snc>
+      <trd lng="be">&c_sh;&c_e;&c_n;&c_g;&c_je;&c_n;&c_s;&c_k;&c_ib;</trd>
+      <trd lng="de">Schengen-</trd>
+      <trd lng="fr">de <ind>Shengen</ind></trd>
+      <trd lng="hu">schengeni</trd>
+      <trd lng="it">di <ind>Schengen</ind></trd>
+      <trd lng="nl">Schengen-</trd>
+      <trd lng="ru">&c_sh;&c_je;&c_n;&c_g;&c_je;&c_n;&c_s;&c_k;&c_i;&c_j;</trd>
+    </drv>
+
+  </art>
+
+  <!--
+  $Log: sxengen.xml,v $
+  Revision 1.12  2014/06/04 10:10:19  revo
+  Damien Brucker: +trd fr
+
+  Revision 1.11  2014/04/26 20:10:25  revo
+  Damien Brucker: +trd fr
+
+  Revision 1.10  2013/03/13 12:10:11  revo
+  Dmitri Gabinski: redakto: +trd be
+
+  Revision 1.9  2009/07/11 16:31:04  revo
+  Paul Peeraerts: +trd nl; +korektetoj
+
+  Revision 1.8  2009/04/02 16:31:08  revo
+  Wieland Pusch: +trd bg
+
+  Revision 1.7  2009/04/01 16:30:36  revo
+  Antonio Codazzi: +trd it
+
+  Revision 1.6  2006/02/16 17:37:34  revo
+  Tulio Flores: +trd pt
+
+  Revision 1.5  2005/09/04 17:49:14  revo
+  Paul Peeraerts: kor de malgxusta kodo
+
+  Revision 1.4  2005/08/29 16:32:30  revo
+  Paul Peeraerts: ald trd nl
+
+  Revision 1.3  2005/06/15 16:32:21  revo
+  Jozefo Horvath: +trd hu
+
+  Revision 1.2  2005/05/17 16:32:44  revo
+  Sergio Pokrovskij: interpunkcio
+
+  Revision 1.1  2005/05/16 17:48:31  revo
+  Sergio Pokrovskij: nova artikolo
+
+  -->
+</vortaro>

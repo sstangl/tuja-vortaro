@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: skald.xml,v 1.7 2015/07/04 08:37:43 revo Exp $">
+<kap>
+  <rad>skald</rad>/o
+</kap>
+<drv mrk="skald.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="skald.0o.HIS">
+    <uzo tip="fak">BELE</uzo>
+    <uzo tip="fak">HIS</uzo>
+    <uzo tip="fak">POE</uzo>
+    <fnt><bib>PIV2</bib></fnt>
+    <dif>
+      Antikva norde&ubreve;ropa poeto-kantisto.
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="aed.0o.HIS">aedo</ref>,
+      <ref cel="bard.0o.HIS">bardo</ref>,
+      <ref cel="menestre.0o.HIS">menestrelo</ref>,
+      <ref cel="rapsod.0o.HIS">rapsodo</ref>,
+      <ref cel="trobad.0o">trobadoro</ref>
+    </refgrp>
+    </snc>
+  <trdgrp lng="ca">
+      <trd>escald</trd>,
+      <trd>skald</trd>
+    </trdgrp>
+  <trd lng="cs">skald</trd>
+  <trd lng="en">skald</trd>
+  <trd lng="fr">scalde</trd>
+  <trd lng="nl">skald</trd>
+  <trd lng="pl">skald</trd>
+  <trd lng="sk">skald</trd>
+  <trd lng="sv">skald</trd>
+</drv>
+</art>
+
+<!--
+$Log: skald.xml,v $
+Revision 1.7  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.6  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.5  2014/12/05 13:10:31  revo
+Damien Brucker: +trd fr
+
+Revision 1.4  2013/09/11 13:10:11  revo
+Joop Eggen: +trd en nl
+
+Revision 1.3  2011/12/04 23:10:16  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.2  2009/02/15 14:17:14  revo
+Jerano Zachrisson: +trd sv
+
+Revision 1.1  2009/02/10 14:18:48  revo
+Sebastian Cyprych: nova artikolo
+
+-->
+</vortaro>

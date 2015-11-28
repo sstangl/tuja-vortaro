@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: goa.xml,v 1.2 2014/11/05 13:10:24 revo Exp $">
+<kap>
+  <rad>Goa</rad>/o <fnt><bib>NePiv</bib></fnt>
+  <fnt><bib>LanLin</bib></fnt>
+</kap>
+<drv mrk="goa.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="goa.0o.GEOG">
+    <uzo tip="fak">GEOG</uzo>
+    <dif>
+      Malvasta gubernio en la sudokcidenta parto de
+      <ref tip="malprt" cel="hind.H0ujo.POL">Hindujo</ref>:
+      <ekz>
+        la portugaloj portis &ccirc;iujare el <tld/>o &scirc;iparon el 
+        grandaj galionoj plenplenaj de spicoj
+        <fnt>
+          <aut>M. de Seabra</aut>,
+          <vrk>Malamu vin, unu la alian</vrk>,
+          <lok>2009</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">Goa</trd>
+  <trd lng="nl">Goa</trd>
+  <trd lng="no">Goa</trd>
+</drv>
+</art>
+
+<!--
+$Log: goa.xml,v $
+Revision 1.2  2014/11/05 13:10:24  revo
+Filip van Laenen: +trd(nl,no)
+
+Revision 1.1  2014/09/17 01:11:15  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

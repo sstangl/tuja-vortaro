@@ -1,0 +1,192 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: transi1.xml,v 1.27 2015/07/04 08:37:45 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>transitiv</rad>/a
+</kap>
+<drv mrk="transi1.0a">
+  <kap><tld/>a</kap>
+  <snc>
+    <uzo tip="fak">GRA</uzo>
+    <dif>
+      Kvalifikas verbon, kiu esprimas agon rekte pasantan de subjekto al
+      objekto kaj kies komplemento estas en Esperanto senpere kaj
+      senprepozicie signita per akuz.; transira. Ekz.:
+      <ekz>
+        movi, frapi, turni, lavi, komenci, &ccirc;esigi,
+        enuigi, da&ubreve;rigi.
+      </ekz>
+    </dif>
+    <trdgrp lng="hu">
+      <trd>t&aacute;rgyas</trd>,
+      <trd>tranzit&iacute;v</trd>
+    </trdgrp>
+      <trd lng="pt">trasitivo</trd>
+    <trd lng="ru">&c_p;&c_je;&c_r;&c_je;&c_h;&c_o;&c_d;&c_n;&c_y;&c_j; <klr tip="amb">(&c_g;&c_l;&c_a;&c_g;&c_o;&c_l;)</klr></trd>
+  </snc>
+  <snc mrk="transi1.0a.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <subsnc mrk="transi1.0a.rilato">
+      <fnt><bib>PIV1</bib><lok>rilato</lok></fnt>
+      <dif>
+        <klr>(p.p. <ref cel="rilat.interna0o">interna rilato</ref>
+        <frm><g>R</g></frm> ene de aro <frm><g>E</g></frm>)</klr>
+        Tia, ke la <ref cel="lig.kun0ajxo.rilatoj">kunliga&jcirc;o</ref>
+        <frm><g>R</g>&#9702;<g>R</g>&#8834;<g>R</g></frm>:
+        <ekz>
+          <ref cel="rilat.idento0o">la idento-rilato</ref> estas
+          <tld/>a;
+        </ekz>
+        <ekz>
+          <frm><g>R</g></frm> estas <tld/>a, se kaj nur se de la fakto,
+          ke 
+          <frm><k>x</k><g>R</g><k>y</k></frm> kaj
+          <frm><k>y</k><g>R</g><k>z</k></frm>, sekvas, ke 
+          <frm><k>x</k><g>R</g><k>z</k></frm>;
+        </ekz>
+        <ekz>
+          <ind><tld/>eco</ind> estas nepra eco de 
+          <ref cel="rilat.ekvivalento0o">ekvivalento-rilato</ref>.
+          <trd lng="be">&c_t;&c_r;&c_a;&c_n;&c_z;&c_ib;&c_t;&c_y;&c_w;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+          <trd lng="ca">transitivitat</trd>
+          <trd lng="de">Transitivit&auml;t</trd>
+          <trdgrp lng="en">
+            <trd>transitivity</trd>,
+            <trd>transitiveness</trd>
+          </trdgrp>
+          <trd lng="fr">transitivit&eacute;</trd>
+          <trd lng="hu">tranzitivit&aacute;s</trd>
+          <trd lng="nl">transitiviteit</trd>
+          <trd lng="pl">&lstroke;&aogonek;czno&sacute;&cacute;</trd>
+          <trd lng="ru">&c_t;&c_r;&c_a;&c_n;&c_z;&c_i;&c_t;&c_i;&c_v;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
+        </ekz>
+      </dif>
+      <trd lng="hu">tranzit&iacute;v <klr tip="amb">(rel&aacute;ci&oacute;)</klr></trd>      
+      <trdgrp lng="pl">
+        <trd><klr tip="amb">(relacja) </klr>przechodnia</trd>,
+        <trd><klr tip="amb">(relacja) </klr>tranzytywna</trd></trdgrp> 
+      <trd lng="ru">&c_t;&c_r;&c_a;&c_n;&c_z;&c_i;&c_t;&c_i;&c_v;&c_n;&c_y;&c_j;</trd>
+    </subsnc>
+    <subsnc mrk="transi1.0a.grupo">
+      <fnt><bib>MatTerm</bib><lok>p. 14</lok></fnt>
+      <dif>
+        <klr>(p.p. <ref cel="grup.0o.MAT">grupo</ref>
+        <frm><g>G</g></frm>
+        de <ref cel="bild.0igo.MAT">bildigoj</ref> super aro 
+        <frm><g>E</g></frm>)</klr>
+        Tia, ke por ajnaj du elementoj de <frm><g>E</g></frm> ekzistas 
+        bildigo en <frm><g>G</g></frm>, kiu &jcirc;etas unu al la alia.
+      </dif>
+      <rim>
+        Oni diras anka&ubreve;, ke <frm><g>G</g></frm> operacias <tld/>e 
+        super <frm><g>E</g></frm>.
+      </rim>
+      <trd lng="pl"><klr tip="amb">(grupa) </klr>tranzytywna</trd>
+    </subsnc>
+    <trd lng="hu">tranzit&iacute;v <klr tip="amb">(csoport)</klr></trd>    
+    <trd lng="ru">&c_t;&c_r;&c_a;&c_n;&c_z;&c_i;&c_t;&c_i;&c_v;&c_n;&c_y;&c_j;</trd>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_t;&c_r;&c_a;&c_n;&c_z;&c_ib;&c_t;&c_y;&c_w;&c_n;&c_y;</trd>,
+    <trd>&c_p;&c_je;&c_r;&c_a;&c_h;&c_o;&c_d;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trd lng="ca">transitiu</trd>
+  <trdgrp lng="cs">
+    <trd>přechodný <klr>(sloveso)</klr></trd>,
+    <trd>tranzitivní</trd>
+  </trdgrp>
+  <trd lng="de">transitiv</trd>
+  <trd lng="en">transitive</trd>
+  <trd lng="es">transitivo</trd>
+  <trd lng="fr">transitif</trd>
+  <trd lng="nl">transitief</trd>
+  <trdgrp lng="sk">
+    <trd>prechodný</trd>,
+    <trd>tranzitívny</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="transi1.ne0a">
+  <kap>ne<tld/>a</kap>
+  <snc>
+    <uzo tip="fak">GRA</uzo>
+    <dif>
+      Kvalifikas verbon, kiu esprimas agon fari&gcirc;antan en la subjekto mem
+      kaj ne pasantan de &gcirc;i al la objekto: kompl. de tia verbo estas
+      anta&ubreve;ata de prepozicio; netransira. Ekz.:
+      <ekz>
+        &gcirc;oji, penti, indigni, iri, fali, promeni, veni, &ccirc;esi, da&ubreve;ri,
+        okazi, morti.
+      </ekz>
+    </dif>
+    <trd lng="ca">intransitiu</trd>
+    <trd lng="de">intransitiv</trd>
+    <trd lng="en">intransitive</trd>
+    <trd lng="es">intransitivo</trd>
+    <trd lng="fr">intransitif</trd>
+    <trd lng="hu">t&aacute;rgyatlan</trd>    
+    <trd lng="nl">intransitief</trd>
+    <trd lng="ru">&c_n;&c_je;&c_p;&c_je;&c_r;&c_je;&c_h;&c_o;&c_d;&c_n;&c_y;&c_j; <klr tip="amb">(&c_g;&c_l;&c_a;&c_g;&c_o;&c_l;)</klr></trd>
+  </snc>
+  <snc mrk="transi1.ne0a.rilato">
+    <uzo tip="fak">MAT</uzo>
+    <dif>
+      <klr>(p.p. <ref cel="rilat.interna0o">interna rilato</ref>)</klr>
+      Ne <ref cel="transi1.0a.rilato"><tld/>a</ref>.
+    </dif>
+    <trd lng="ca">no <ind>transitiu</ind></trd>
+    <trd lng="de">nichttransitiv</trd>
+    <trd lng="en">non-transitive</trd>
+    <trd lng="fr">non <ind>transitif</ind></trd>
+    <trd lng="hu">intranzit&iacute;v</trd>    
+    <trd lng="nl">niet <ind>transitief</ind></trd>
+    <trd lng="pl"><klr tip="amb">(relacja) </klr>nieprzechodnia</trd>
+    <trd lng="ru">&c_n;&c_je;&c_t;&c_r;&c_a;&c_n;&c_z;&c_i;&c_t;&c_i;&c_v;&c_n;&c_y;&c_j;</trd>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_n;&c_je;&c_t;&c_r;&c_a;&c_n;&c_z;&c_ib;&c_t;&c_y;&c_w;&c_n;&c_y;</trd>,
+    <trd>&c_n;&c_je;&c_p;&c_je;&c_r;&c_a;&c_h;&c_o;&c_d;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>chůzí nepřekonatelný</trd>,
+    <trd>jízdou nepřekonatelný</trd>,
+    <trd>nepřechodný</trd>
+  </trdgrp>
+  <trd lng="sk">neprechodný <klr>(sloveso)</klr></trd>
+</drv>
+</art>
+<!--
+$Log: transi1.xml,v $
+Revision 1.27  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.26  2015/06/29 16:40:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.25  2012/08/14 13:10:14  revo
+Marc Rausell: + trd ca
+
+Revision 1.24  2006/02/16 17:33:42  revo
+Tulio Flores: +trd pt
+
+Revision 1.23  2004/12/14 17:31:25  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.22  2004/10/12 16:32:25  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.21  2003/04/09 16:31:23  revo
+Paul Peeraerts: ald pliajn trd nl
+
+Revision 1.20  2003/02/24 17:34:35  revo
+Marc Bavant: ~a: +ekz kun ~eco
+
+Revision 1.19  2003/02/01 17:34:24  revo
+Marc Bavant: +trd pl
+
+Revision 1.18  2003/01/02 17:51:58  revo
+-->
+</vortaro>

@@ -1,0 +1,207 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: financ.xml,v 1.15 2015/07/04 08:37:34 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>financ</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="financ.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="financ.0o.SCI">
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      Fako de tiu, kiu sin okupas pri <tld/>aj aferoj;
+      arto profitigi monon:
+      <ekz>
+        <tld/>o dependas de industrio kaj reciproke.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="bilanc.0o">bilanco</ref>,
+      <ref cel="budgxe.0o">bud&gcirc;eto</ref>,
+      <ref cel="ekonom1.0o">ekonomio</ref>,
+      <ref cel="kapita.0o">kapitalo</ref>
+    </refgrp>
+    <trd lng="de">Finanzwesen</trd>
+    <trd lng="fr">finance</trd>
+    <trd lng="hu">p&eacute;nz&uuml;gy</trd>
+  </snc>
+  <snc mrk="financ.0o.monrimedoj">
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      Monrimedoj, pri kiuj disponas iu &scirc;tato a&ubreve; privatulo;
+      stato de la en- kaj el-spezoj:
+      <ekz>
+        havi prosperajn <tld/>ojn;
+      </ekz>
+      <ekz>
+        la gazeto falis pro manko de <tld/>oj<fnt>Z</fnt>;
+      </ekz> 
+      <ekz>
+        ministro pri <tld/>oj;
+      </ekz>
+      <ekz>
+        leginte la libron, mi konkludis, ke la detruado
+        de la kulturoj fare de la ekonomio, kaj de la
+        ekonomio fare de la <tld/>o ne estas necesa
+        kosma le&gcirc;o 
+        <fnt>
+          <aut>H. Garc&iacute;a</aut>:
+          <vrk><url ref="&Monato;/rec/ktek.html">
+          Transplanti teknologion</url></vrk>, 
+          <bib>Monato</bib>, 
+          <lok>1998:09</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        okazis la 55a jarkunsido de Internacia Mona Fonduso
+        (IMF) kaj de Monda Banko (MB), kun kunvenoj de 
+        ministroj pri <tld/>o
+        <fnt>
+          <aut>J. Patera</aut>:
+          <vrk><url ref="&Monato;/007258.html">
+          Post la kunsido de financistoj en Prago</url></vrk>, 
+          <bib>Monato</bib>, 
+          <lok>2000:09</lok>
+        </fnt>.
+      </ekz>
+      </dif>
+      <trd lng="de">Finanzen</trd>
+      <trdgrp lng="fr">
+        <trd>argent<klr tip="ind"> (monnaie)</klr></trd>,
+        <trd>finances<klr tip="ind"> (argent)</klr></trd>
+      </trdgrp>
+      <trd lng="hu">p&eacute;nzeszk&ouml;z</trd> 
+   </snc>
+  <trd lng="be">&c_f;&c_ib;&c_n;&c_a;&c_n;&c_s;&c_y;</trd>
+  <trd lng="ca">finances</trd>
+  <trd lng="cs">finance</trd>
+  <trdgrp lng="nl">
+    <trd>financies</trd>,
+    <trd>financi&euml;n</trd>
+    </trdgrp>
+  <trdgrp lng="pt">
+    <trd>finan&ccedil;as</trd>,
+    <trd>finan&ccedil;a</trd>
+  </trdgrp>
+  <trd lng="ru">&c_f;&c_i;&c_n;&c_a;&c_n;&c_s;&c_y;</trd>
+  <trd lng="sk">financie</trd>
+</drv>
+
+<drv mrk="financ.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="financ.0a.EKON">
+    <dif>
+      Rilata al <tld/>o:
+      <ekz>
+        la <tld/>aj malfacila&jcirc;oj de la a&ubreve;toro prokrastis la eldonon.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="ca">financer <klr>(adj.)</klr></trd>
+  <trd lng="de">finanziell</trd>
+  <trd lng="fr">financier<klr tip="ind"> (adj.)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>p&eacute;nz&uuml;gyi</trd>,
+    <trd>p&eacute;nz-</trd>
+  </trdgrp>
+  <trd lng="nl">financieel</trd>
+  <trd lng="ru">&c_f;&c_i;&c_n;&c_a;&c_n;&c_s;&c_o;&c_v;&c_y;&c_j;</trd>
+</drv>
+
+<drv mrk="financ.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="financ.0i.EKON">
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      <tld lit="F"/>e subteni:
+      <ekz>
+        <tld/>i entreprenon, propagandon, esploron.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_f;&c_ib;&c_n;&c_a;&c_n;&c_s;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="ca">finan&ccedil;ar</trd>
+  <trd lng="cs">financovat</trd>
+  <trd lng="de">finanzieren</trd>
+  <trd lng="fr">financer</trd>
+  <trd lng="nl">financieren</trd>
+  <trd lng="ru">&c_f;&c_i;&c_n;&c_a;&c_n;&c_s;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>financovať</trd>,
+    <trd>poskytovať peniaze</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="financ.0isto">
+  <kap><tld/>isto</kap>
+  <snc mrk="financ.0isto.EKON">
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      Specialisto pri <tld/>aj aferoj, kondukanto
+      de gravaj <tld/>aj aferoj.
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="bankie.0o">bankiero</ref>,
+      <ref cel="bank.0isto">bankisto</ref>,
+      <ref cel="kapita.0isto">kapitalisto</ref>
+    </refgrp>
+    <refgrp tip="vid">
+      <ref cel="sxtel.0i">&scirc;teli</ref>.
+    </refgrp>
+  </snc>
+  <adm>
+  La traduko "Kapitalgeber" supozigas, ke la vorto povas
+  havi alian sencon: "iu, kiu provizas aferon per financoj"
+  (fr. b&acirc;illeur de fonds). Indas esplori, &ccirc;u tiel
+  estas. <aut>MB</aut>
+  </adm>
+  <trd lng="be">&c_f;&c_ib;&c_n;&c_a;&c_n;&c_s;&c_ib;&c_s;&c_t;</trd>
+  <trd lng="ca">financer <klr>(subst.)</klr></trd>
+  <trdgrp lng="de">
+    <trd>Finanzier</trd>,
+    <trd>Kapitalgeber</trd></trdgrp>
+  <trd lng="fr">financier<klr tip="ind"> (subst.)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>p&eacute;nzember</trd>,
+    <trd>p&eacute;nz&uuml;gyi vezet&odblac;</trd>
+  </trdgrp>
+  <trd lng="nl">financier</trd>
+  <trd lng="ru">&c_f;&c_i;&c_n;&c_a;&c_n;&c_s;&c_i;&c_s;&c_t;</trd>
+</drv>
+</art>
+<!--
+$Log: financ.xml,v $
+Revision 1.15  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.13  2011/12/10 19:10:11  revo
+Marc Rausell: +trd ca
+
+Revision 1.12  2011/05/25 13:10:09  revo
+Jeromo Vasxe: - num + mrk
+
+Revision 1.11  2008/07/21 16:30:46  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.10  2007/06/01 16:30:58  revo
+Tulio Flores: +tr pt
+
+Revision 1.9  2003/12/23 17:39:07  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.8  2001/10/08 18:17:51  revo
+Paul Peeraerts: ald trd nl + kelkajn pliajn ekzemplojn
+
+Revision 1.7  2001/08/23 18:49:49  revo
+Marc Bavant: +trd fr, sxovis fakindikon EKON gxustaloken; ~i: mod
+transitivecon; +adm
+
+-->
+</vortaro>

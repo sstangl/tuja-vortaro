@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: kovert.xml,v 1.21 2015/07/04 08:37:38 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>kovert</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="kovert.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="kovert.0o.POSX">
+    <uzo tip="fak">POSX</uzo>
+    <dif>
+      Plata papera saketo, en kiun oni metas leteron kaj sur kiu oni
+      skribas la adreson:
+      <ekz>
+        Jo&ccirc;jo konfuzi&gcirc;eme mallevis la okulojn kaj elprenis el la 
+        tirkesto de la tablo malgrandan <tld/>on
+        <fnt>
+          <aut>I. G. &Scirc;irjaev</aut>,
+          <vrk>Sen titolo</vrk>, 
+          <lok>&ccirc;apitro 39a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_k;&c_a;&c_n;&c_v;&c_e;&c_r;&c_t;</trd>,
+    <trd>&c_k;&c_a;&c_p;&c_e;&c_r;&c_t;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>dopisní obálka</trd>,
+    <trd>ob&aacute;lka</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Umschlag</trd>,
+    <trd>Kuvert</trd>
+  </trdgrp>
+  <trd lng="en">envelope</trd>
+  <trd lng="es">sobre</trd>
+  <trd lng="fr">enveloppe<klr> (de lettre)</klr></trd>
+  <trd lng="hu">bor&iacute;t&eacute;k</trd>
+  <trd lng="id">amplop</trd>
+  <trd lng="nl">enveloppe</trd>
+  <trd lng="pt">envelope</trd>
+  <trd lng="ru">&c_k;&c_o;&c_n;&c_v;&c_je;&c_r;&c_t;</trd>
+  <trd lng="sk">obálka</trd>
+</drv>
+
+<drv mrk="kovert.en0igi">
+  <kap>en<tld/>igi</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="kovert.en0igi.POSX">
+    <uzo tip="fak">POSX</uzo>
+    <dif>
+      Meti en <tld/>on:
+      <ekz>
+        mi en<tld/>igas la leteron kaj iras al la po&scirc;tkesto
+        <fnt>
+          <aut>U. Matthias</aut>,
+          <vrk><url ref="http://www.u-matthias.de/verko/fajron.htm">
+          Fajron sentas mi interne</url></vrk>,
+          <lok>Pro Esperanto, 1990</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="fr">
+    <trd>mettre sous enveloppe</trd>,
+    <trd>mettre sous pli</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: kovert.xml,v $
+Revision 1.21  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.19  2014/06/03 15:10:24  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.18  2012/05/29 13:10:13  revo
+Tulio Flores: korekto de traduko pt
+
+Revision 1.17  2007/03/12 17:30:19  revo
+Jeromo Vasxe: + en~igi
+
+Revision 1.16  2006/11/02 17:32:07  revo
+Tulio Flores: +tr pt
+
+Revision 1.15  2006/06/30 16:31:42  revo
+Jeromo Vasxe: + ekz
+
+Revision 1.14  2005/12/06 17:32:56  revo
+Raul Salinas Monteagudo: +trd es
+
+Revision 1.13  2004/07/06 16:33:23  revo
+Jeromo Vasxe: + fak posx, simpligis dif.
+
+Revision 1.12 2004/04/21 17:09:01 revo
+-->
+</vortaro>

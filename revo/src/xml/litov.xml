@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: litov.xml,v 1.9 2014/06/04 04:10:43 revo Exp $">
+<kap>
+  <rad>litov</rad>/o
+</kap>
+
+<drv mrk="litov.0o">
+  <kap><tld/>o <fnt><bib>PIV1</bib></fnt></kap>
+  <snc>
+    <dif>
+      <ref tip="super" cel="sxtat.0ano">&Scirc;tatano</ref> de
+      <ref tip="malprt" cel="litov.L0ujo"><tld lit="L"/>ujo</ref>.
+    </dif>
+  </snc>
+  <trd lng="ca">litu&agrave; <klr>(subst.)</klr></trd>
+  <trd lng="en">Lithuanian</trd>
+  <trd lng="fr">Lituanien<klr> (subst.)</klr></trd>
+  <trd lng="nl">Litouwer</trd>
+  <trd lng="pt">lituano <klr tip="ind"> (subst.)</klr></trd>
+</drv>
+
+<drv mrk="litov.0a">
+  <kap><tld/>a</kap>
+  <snc>
+    <dif>
+      Rilatanta al <tld/>oj, ilia nacieco a&ubreve; &scirc;tato.
+    </dif>
+  </snc>
+  <trd lng="ca">litu&agrave; <klr>(adj.)</klr></trd>
+  <trd lng="fr">lituanien<klr> (adj.)</klr></trd>
+  <trd lng="pt">lituano <klr tip="ind"> (adj.)</klr></trd>
+</drv>
+
+<drv mrk="litov.L0ujo">
+  <kap>
+    <tld lit="L"/>ujo
+    <fnt>
+      <vrk>Oficiala Informo de AdE</vrk>,
+      <lok>numero 11</lok>
+    </fnt>
+  </kap>
+  <snc mrk="litov.L0ujo.GEOG">
+    <uzo tip="fak">GEOG</uzo>
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      Lando en la orienta E&ubreve;ropo &ccirc;e <ref tip="vid"
+      cel="mar.BaltaM0o">Balta Maro</ref>
+      kun &ccirc;efurbo Vilno.
+      Teritorio de Respubliko Litovujo.
+      ISO-3166 kodo: LT.
+      &Gcirc;i limas kun
+      <ref tip="vid" cel="belorus.B0ujo.GEOG">Belorusujo</ref>,
+      <ref tip="vid" cel="latv.L0ujo">Latvujo</ref>,
+      <ref tip="vid" cel="pol.P0lando">Pollando</ref>,
+      <ref tip="vid" cel="rus.R0ujo">Rusujo</ref> (Kaliningrada regiono)
+      kaj <ref tip="vid" cel="mar.BaltaM0o">Balta Maro</ref>.
+    </dif>
+    <ref tip="sin" cel="litovi.L0o.GEOG">Litovio</ref>
+    <trdgrp lng="ca">
+      <trd>Litu&agrave;nia</trd>,
+      <trd>Rep&uacute;blica de Litu&agrave;nia</trd>
+    </trdgrp>
+    <trd lng="en">Lithuania</trd>
+    <trd lng="fa">&a_l;&f_y;&a_t;&a_w;&a_A;&a_n;&f_y;</trd>
+    <trd lng="fr">Lituanie</trd>
+    <trd lng="id">Lituania</trd>
+    <trd lng="nl">Litouwen</trd>
+    <trdgrp lng="pl">
+      <trd>Litwa</trd>,
+      <trd>Republika <ind>Litewska</ind></trd>
+    </trdgrp>
+    <trd lng="pt">Litu&acirc;nia</trd>
+  </snc>
+</drv>
+
+</art>
+
+<!--
+$Log: litov.xml,v $
+Revision 1.9  2014/06/04 04:10:43  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.8  2013/12/22 09:10:12  revo
+Damien Brucker: +trd fr
+
+Revision 1.7  2011/12/03 21:10:17  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.6  2011/02/12 13:10:16  revo
+Luiz Portella: +~a +trd pt
+
+Revision 1.5  2010/02/23 17:30:26  revo
+Orlando de Oliveira: +trd fr pt
+
+Revision 1.4  2009/08/08 16:33:58  revo
+Russ Williams: +trd en
+
+Revision 1.3  2009/07/07 16:31:29  revo
+Paul Peeraerts: +trd nl +litovo
+
+Revision 1.2  2009/06/19 05:09:21  revo
+-->
+</vortaro>

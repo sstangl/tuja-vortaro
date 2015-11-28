@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: lucid.xml,v 1.5 2015/07/04 08:37:38 revo Exp $">
+<kap>
+  <rad>lucid</rad>/a <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="lucid.0a">
+  <kap><tld/>a</kap>
+  <uzo tip="stl">RAR</uzo>
+  <snc mrk="lucid.0a.PSI">
+    <ref tip="dif" cel="mens.klar0a.PSI">klarmensa</ref>
+    <ekz>
+      &scirc;ajnis kvaza&ubreve; penetra <tld/>o vidigus al &scirc;i la realon de la 
+      aferoj
+      <fnt><aut>G. Garc&iacute;a M&aacute;rquez, trad. F. de Diego</aut>, <vrk>Cent 
+      Jaroj da Soleco</vrk>, <lok>Fonto, 1992</lok></fnt>;
+    </ekz>
+    <ekz>
+      vi &scirc;ajnas esti multe pli <tld/>a ol alia junulo kiun oni trovis 
+      hiera&ubreve; for en la direkto al Bogee.  Absolute nuda kaj absolute 
+      delirante freneza
+      <fnt>
+        <aut>M. Hailstone</aut>,
+        <vrk><url
+        ref="http://www.busswarble.dragnet.com.au/sekreto.htm">
+        la Sekreto de Insulo Roan</url></vrk>,
+        <lok>1999-2005</lok>
+      </fnt>.
+    </ekz>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>jasný</trd>,
+    <trd>lucidní</trd>,
+    <trd>světlý</trd>
+  </trdgrp>
+  <trd lng="fr">lucide</trd>
+  <trdgrp lng="nl">
+    <trd>scherpzinnig<klr tip="ind"> (zeldz.)</klr></trd>,
+    <trd>lucide<klr tip="ind"> (zeldz.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>jasný</trd>,
+    <trd>lucidný</trd>,
+    <trd>svetlý</trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log: lucid.xml,v $
+Revision 1.5  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.4  2015/06/29 16:33:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.3  2014/06/02 16:10:14  revo
+Damien Brucker: +trd fr
+
+Revision 1.2  2009/10/08 16:31:33  revo
+Paul Peeraerts: +nl
+
+Revision 1.1  2007/05/04 16:30:23  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

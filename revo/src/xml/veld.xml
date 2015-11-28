@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: veld.xml,v 1.24 2015/07/04 08:37:45 revo Exp $">
+<kap>
+  <rad>veld</rad>/i
+</kap>
+
+<drv mrk="veld.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="veld.0i.TEK">
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      Kunigi ekstremojn de du metalaj pecoj per specialaj aparatoj en
+      inkandeska fajro.
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="lut.0i">luti</ref>,
+      <ref cel="nit.0i">niti</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_z;&c_v;&c_a;&c_r;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="bg">&c_z;&c_a;&c_v;&c_a;&c_r;&c_ja;&c_v;&c_a;&c_m;</trd>
+  <trd lng="ca">soldar</trd>
+  <trd lng="cs">svářet</trd>
+  <trd lng="de">schwei&szlig;en</trd>
+  <trd
+  lng="el">&sigma;&ypsilon;&gamma;&kappa;&omikron;&lambda;&lambda;&omega_ton;</trd>
+  <trd lng="en">weld</trd>
+  <trd lng="es">soldar<klr> (metal)</klr></trd>
+  <trd lng="fr">souder</trd>
+  <trd lng="hu">hegeszt</trd>
+  <trd lng="nl">lassen</trd>
+  <trd lng="pl">spawa&cacute;</trd>
+  <trd lng="pt">soldar</trd>
+  <trd lng="ru">&c_s;&c_v;&c_a;&c_r;&c_i;&c_v;&c_a;&c_t;&c_mol;<klr
+  tip="ind"> (&c_t;&c_je;&c_h;.)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>zv&aacute;ra&tcaron;</trd>,
+    <trd>zvariť</trd>
+  </trdgrp>
+  <trd lng="sv">svetsa</trd>
+</drv>
+
+<drv mrk="veld.0isto">
+  <kap><tld/>isto</kap>
+  <snc mrk="veld.0isto.TEK">
+    <dif>
+      Homo, kiu profesie faras <tld/>on:
+      <ekz>
+        li klarigis al du veldistoj kelkajn ligojn, apena&ubreve;
+        videblajn en
+        la desegna&jcirc;kopio
+        <fnt><bib>Jamburg</bib>, <lok>&ccirc;apitro 5a, p.
+        26a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="ca">soldador</trd>
+  <trd lng="cs">svářeč</trd>
+  <trd lng="fr">soudeur</trd>
+  <trd lng="hu">hegeszt&odblac;</trd>
+  <trd lng="pl">spawacz</trd>
+  <trd lng="pt">soldador</trd>
+  <trd lng="sk">zvárač</trd>
+  <trd lng="sv">svetsare</trd>
+</drv>
+
+<drv mrk="veld.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="veld.0o.TEK">
+    <dif>
+      <ref tip="malprt" cel="junt.0o.kunigo">Junto</ref> kreita per
+      <tld/>ado.
+    </dif>
+    <trdgrp lng="ca">
+      <trd>soldatge</trd>,
+      <trd>soldadura</trd>
+    </trdgrp>
+    <trd lng="fr">soudure</trd>
+    <trd lng="pl">spaw</trd>
+  </snc>
+  <trd lng="cs">svar</trd>
+  <trd lng="sk">zvar</trd>
+</drv>
+
+</art>
+<!--
+$Log: veld.xml,v $
+Revision 1.24  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.23  2015/06/28 12:03:50  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.22  2014/04/08 12:10:15  revo
+Damien Brucker: +trd fr
+
+Revision 1.21  2011/12/05 11:10:12  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.20  2011/07/13 19:10:58  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.19  2010/01/20 17:30:30  revo
+Jerano Zachrisson: +trd sv
+
+Revision 1.18  2008/07/16 16:30:43  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.17  2007/11/25 17:30:30  revo
+Wieland Pusch: +trd bg
+
+Revision 1.16  2006/02/01 17:32:32  revo
+Tulio Flores: +trd pt
+
+Revision 1.15  2006/01/27 17:31:38  revo
+-->
+</vortaro>

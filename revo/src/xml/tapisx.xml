@@ -1,0 +1,135 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: tapisx.xml,v 1.22 2012/08/13 16:10:27 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>tapi&scirc;</rad>/o
+</kap>
+
+<drv mrk="tapisx.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="tapisx.0o.TEKS">
+    <uzo tip="fak">TEKS</uzo>
+    <dif>
+      Dika diversspeca teksa&jcirc;o destinita por kovri plankon
+      a&ubreve; meblon:
+      <ekz>
+        <tld/>o kovris la tablon;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        la ektagi&gcirc;o metas <tld/>on el perloj sur la herbejon.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_d;&c_y;&c_v;&c_a;&c_n;</trd>
+  <trd lng="bg">&c_k;&c_i;&c_l;&c_i;&c_m;</trd>
+  <trdgrp lng="ca">
+    <trd>catifa</trd>,
+    <trd>estora</trd>
+  </trdgrp>
+  <trd lng="cs">koberec</trd>
+  <trdgrp lng="en">
+    <trd>carpet</trd>,
+    <trd>rug</trd>
+  </trdgrp>
+  <trd lng="de">Teppich</trd>
+  <trdgrp lng="fr">
+    <trd>tapis</trd>,
+    <trd>tapisserie</trd>,
+    <trd>moquette</trd>
+  </trdgrp>
+  <trd lng="hu">sz&odblac;nyeg</trd>
+  <trdgrp lng="nl">
+    <trd>tapijt</trd>,
+    <trd>vloerbedekking</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>alfombra</trd>,
+    <trd>tapete</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>dywan</trd>,
+    <trd>kobierzec</trd>,
+    <trd>bie&zdot;nik</trd>,
+    <trd>chodnik<klr> (bie&zdot;nik)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+   <trd>tapete</trd>
+  </trdgrp>
+  <trd lng="ru">&c_k;&c_o;&c_v;&c_jo;&c_r;</trd>
+  <trdgrp lng="sv">
+    <trd>matta</trd>,
+    <trd>bonad</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="tapisx.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="tapisx.0i.TEKS">
+    <dif>
+      Kovri per <tld/>o.
+    </dif>
+    <trdgrp lng="ca">
+      <trd>encatifar</trd>,
+      <trd>estorar</trd>
+    </trdgrp>
+    <trd lng="en">carpet</trd>
+  </snc>
+  <snc mrk="tapisx.0i.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Kovri kvaza&ubreve; per <tld/>o:
+      <ekz>
+        la tero estis <tld/>ita de floroj.
+      </ekz>
+    </dif>
+    <trd lng="ca">cobrir</trd>
+    <trd lng="en">blanket</trd>
+  </snc>
+  <trd lng="de"><klr>mit einem </klr>Teppich bedecken</trd>
+  <trd lng="fr">tapisser</trd>
+  <trd lng="hu">sz&odblac;nyeggel fed</trd>
+  <trd lng="es">tapizar</trd>
+  <trdgrp lng="pl">
+    <trd>k&lstroke;a&sacute;&cacute; <ind>dywan</ind></trd>,
+    <trd>pokrywa&cacute; <ind>dywanem</ind></trd>,
+    <trd>roz&sacute;cie&lstroke;a&cacute; <ind>kobierzec</ind></trd>,
+    <trd>pokrywa&cacute; <ind>kobiercem</ind></trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_o;&c_k;&c_r;&c_y;&c_v;&c_a;&c_t;&c_mol;
+    &c_k;&c_o;&c_v;&c_r;&c_o;&c_m;</trd>,
+    <trd>&c_u;&c_s;&c_t;&c_i;&c_l;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: tapisx.xml,v $
+Revision 1.22  2012/08/13 16:10:27  revo
+Marc Rausell: + trd ca
+
+Revision 1.21  2011/11/29 00:10:09  revo
+Eduardo Navas: +trad es
+
+Revision 1.20  2008/10/24 16:40:29  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.19  2007/12/09 17:30:53  revo
+Wieland Pusch: +trd bg
+
+Revision 1.18  2006/02/03 17:33:57  revo
+Tulio Flores: +trd pt
+
+Revision 1.17  2005/04/12 16:32:53  revo
+Yury Finkel: +trd ru
+
+Revision 1.16  2004/06/15 21:32:39  revo
+Jeromo Vasxe: + mrk
+
+Revision 1.15  2003/09/09 16:30:46  revo
+-->
+</vortaro>

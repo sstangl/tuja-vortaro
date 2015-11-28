@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: omar.xml,v 1.27 2015/07/04 08:37:40 revo Exp $">
+<kap>
+   <ofc>*</ofc>
+   <rad>omar</rad>/o
+</kap>
+<drv mrk="omar.0o">
+   <kap><ofc>*</ofc><tld/>o</kap>
+   <uzo tip="fak">ZOO</uzo>
+   <snc>
+     <dif>
+       <ref tip="lst" cel="genr.0o.BIO"
+       lst="voko:zoologiaj_genroj">Genro</ref> el familio <ref
+       tip="malprt"
+       cel="omared.0oj"><tld/>edoj</ref>
+       (<trd lng="la">Homarus</trd>), 
+       <ref tip="lst" cel="krust.0ulo"
+      lst="voko:krustuloj">krustulo</ref>
+       kies amba&ubreve; unuaj piedoj
+       estas tre dikaj kaj pin&ccirc;ilformaj:
+       <ekz>
+         ru&gcirc;a kiel kuirita <tld/>o.
+       </ekz>
+     </dif>
+     <ref tip="vid" cel="palinu.0o">palinuro</ref>
+   </snc>
+  <trd lng="be">&c_a;&c_m;&c_a;&c_r;</trd>
+  <trd lng="bg">&c_o;&c_m;&c_a;&c_r;</trd>
+  <trd lng="br">legestr</trd>
+  <trdgrp lng="cs">
+    <trd>humr</trd>,
+    <trd>mořský rak</trd>
+  </trdgrp>
+  <trd lng="de">Hummer</trd>
+  <trd
+   lng="el">&alfa;&sigma;&tau;&alfa;&kappa;&omikron_ton;&sigma_fina;</trd>
+  <trd lng="en">lobster</trd>
+  <trd lng="fr">homard</trd>
+  <trd lng="hu">hom&aacute;r</trd>
+  <trd lng="id">lobster</trd>
+  <trdgrp lng="nl">
+     <trd>kreeft<klr tip="ind"> (zee-)</klr></trd>,
+     <trd>zeekreeft</trd>
+   </trdgrp>
+  <trd lng="pl">homar</trd>
+  <trd lng="pt">lagosta</trd>
+  <trd lng="ru">&c_o;&c_m;&c_a;&c_r;</trd>
+  <trdgrp lng="sk">
+    <trd>homár</trd>,
+    <trd>rak <klr>(morský)</klr></trd>
+  </trdgrp>
+  <trd lng="sv">hummer</trd>
+</drv>
+</art>
+<!--
+$Log: omar.xml,v $
+Revision 1.27  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.26  2015/06/29 16:33:21  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.25  2014/10/28 11:10:37  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.24  2013/10/31 20:10:31  revo
+Wolfram Diestel: ref al lst krustuloj
+
+Revision 1.23  2013/09/08 19:11:16  revo
+Wolfram Diestel: kor. lst-ref
+
+Revision 1.22  2013/09/01 17:10:16  revo
+Wolfram Diestel: referenco al listo zoo genroj
+
+Revision 1.21  2009/06/22 16:30:49  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.20  2008/11/14 17:31:14  revo
+Wieland Pusch: +trd bg
+
+Revision 1.19  2005/05/28 16:32:00  revo
+Alan ar Gall: +trd br
+
+Revision 1.18  2004/04/14 16:32:11  revo
+-->
+</vortaro>

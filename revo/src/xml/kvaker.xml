@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: kvaker.xml,v 1.16 2015/07/04 08:37:38 revo Exp $">
+<kap>
+  <ofc>9</ofc><rad>kvaker</rad>/o <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="kvaker.0o">
+  <kap><ofc>9</ofc><tld/>o</kap>
+  <snc mrk="kvaker.0o.REL">
+    <uzo tip="fak">REL</uzo>
+    <dif>
+      Ano de <ref tip="vid" cel="kvaker.0ismo.REL"><tld/>ismo</ref>:
+      <ekz>
+        mi ricevis ofte vizitojn de anglaj <tld/>oj
+        <fnt>
+          <bib>Aventuroj</bib>,
+          <lok>&ccirc;apitro 43a, p. 100a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_k;&c_v;&c_a;&c_k;&c_je;&c_r;</trd>
+  <trd lng="ca">qu&agrave;quer</trd>
+  <trd lng="de">Qu&auml;ker</trd>
+  <trd lng="en">Quaker</trd>
+  <trd lng="es">cu&aacute;quero</trd>
+  <trd lng="fr">quaker</trd>
+  <trd lng="hu">kv&eacute;ker</trd>
+  <trd lng="nl">Quaker</trd>
+  <trdgrp lng="pt">
+    <trd>quacre</trd>,
+    <trd>qu&aacute;quer</trd>,
+    <trd>qu&aacute;quero</trd>    
+  </trdgrp>
+  <trd lng="ru">&c_k;&c_v;&c_a;&c_k;&c_je;&c_r;</trd>
+</drv>
+
+<drv mrk="kvaker.0ismo">
+  <kap><tld/>ismo</kap>
+  <snc mrk="kvaker.0ismo.REL">
+    <uzo tip="fak">REL</uzo>
+    <dif>
+      Doktrino kaj praktiko de
+      <ref tip="vid" cel="kvaker.0o.REL"><tld/>oj</ref>,
+      religia grupo kun kristana bazo
+      fondita en 1652 de Georgo Fox,
+      kaj predikanta fratecon kaj internacian paci&gcirc;on;
+      oficiale <ctl>Religia Societo de Amikoj</ctl>:
+      <ekz>
+        <tld/>ismo nepre estas praktika <ref tip="lst"
+        cel="religi.0o.REL" lst="voko:religioj">religio</ref> kiu tu&scirc;as
+        la tutan 
+        &ccirc;iutagan vivmanieron
+        <fnt>
+          <aut>Kvakeroj  en  Hastings</aut>,
+          <vrk><url
+          ref="http://www.hastings-quakers.org.uk/enkonduko.htm">
+          Enkonduko:  Kiuj  Estas  la  Kvakeroj?</url></vrk>,
+          <lok>[vidita en 2010]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">kvakerizmus</trd>
+  <trd lng="fr">quakerisme</trd>
+  <trd lng="sk">kvakerizmus</trd>
+</drv>
+</art>
+<!--
+$Log: kvaker.xml,v $
+Revision 1.16  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.14  2013/09/22 19:11:16  revo
+Wolfram Diestel: referenco al religioj
+
+Revision 1.13  2011/05/18 22:10:10  revo
+Jeromo Vasxe: + ~ismo
+
+Revision 1.12  2009/03/01 17:32:47  revo
+Russ Williams: + 9OA
+
+Revision 1.11  2006/10/01 16:30:21  revo
+Tulio Flores: +tr pt
+
+Revision 1.10  2005/04/11 16:33:09  revo
+Raul Salinas Monteagudo: +trd ca,es
+
+Revision 1.9  2004/03/25 18:27:56  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.8  2003/09/12 16:31:25  revo
+Jeromo Vasxe: + fak kri, + ekz, + trd fr
+
+Revision 1.7 2003/04/23 16:32:36 revo
+-->
+</vortaro>

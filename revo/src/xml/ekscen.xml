@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: ekscen.xml,v 1.16 2015/07/04 08:37:33 revo Exp $">
+<kap>
+<rad>ekscentrik</rad>/o
+</kap>
+<drv mrk="ekscen.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">TEK</uzo>
+  <snc>
+    <dif>
+      Disko, ringo a&ubreve; cilindra stango, kies rotacia akso ne
+      okupas la centron:
+    </dif>
+  </snc>
+  <trd lng="be">&c_e;&c_k;&c_s;&c_c;&c_e;&c_n;&c_t;&c_r;&c_y;&c_k;</trd>
+  <trd lng="ca">exc&egrave;ntric<klr> (subst.)</klr></trd>
+  <trdgrp lng="cs">
+    <trd>excentr</trd>,
+    <trd>výstředný kotouč</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+     <trd>Exzenter</trd>,
+     <trd>Unwucht</trd>
+  </trdgrp>
+  <trd lng="en">eccentric<klr tip="amb"> (geometry)</klr></trd>
+  <trd lng="fr">excentrique<klr tip="ind"> (subst.,
+  m&eacute;c.)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>k&ouml;rhagy&oacute; elem</trd>,
+    <trd>excenter</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>momo&sacute;r&oacute;d</trd>
+  </trdgrp>
+  <trd lng="ru">&c_e;&c_k;&c_s;&c_c;&c_je;&c_n;&c_t;&c_r;&c_i;&c_k;</trd>
+  <trdgrp lng="sk">
+    <trd>excenter</trd>,
+    <trd>výstredný kotúč</trd>
+  </trdgrp>
+</drv>
+<drv mrk="ekscen.0a">
+  <kap><tld/>a</kap>
+  <uzo tip="fak">TEK</uzo>
+  <snc>
+    <dif>
+      Rilata al <tld/>o:
+      <ekz>
+        <ind><tld/>a</ind> disko, ringo, stango.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      Ne konfuzu kun <ref cel="ekscentr.0a">ekscentra</ref>
+    </refgrp>
+    <trd lng="be">&c_e;&c_k;&c_s;&c_c;&c_e;&c_n;&c_t;&c_r;&c_y;&c_ch;&c_n;&c_y;</trd>
+    <trd lng="ca">exc&egrave;ntric<klr> (adj.)</klr></trd>
+    <trdgrp lng="de">
+      <trd>exzentrisch</trd>,
+      <trd>unwuchtig</trd>
+    </trdgrp>
+    <trd lng="en">eccentric<klr tip="amb"> (geometry)</klr></trd>
+    <trd lng="fr">excentrique<klr tip="ind"> (adj.,
+    m&eacute;c.)</klr></trd>
+    <trd lng="es">exc&eacute;ntrico</trd>
+    <trdgrp lng="hu">
+      <trd>k&ouml;rhagy&oacute;</trd>,
+      <trd>excentrikus</trd>
+    </trdgrp>
+    <trd lng="pl">mimo&sacute;rodowy</trd>
+    <trd lng="pt">exc&ecirc;ntrico</trd>
+    <trd lng="ru">&c_e;&c_k;&c_s;&c_c;&c_je;&c_n;&c_t;&c_r;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j;</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>excentrický</trd>,
+    <trd>mimostředný</trd>
+  </trdgrp>
+  <trd lng="sk">mimostredový</trd>
+</drv>
+</art>
+<!--
+$Log: ekscen.xml,v $
+Revision 1.16  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.14  2012/09/05 08:10:25  revo
+Marc Rausell: + trd ca
+
+Revision 1.13  2010/12/19 17:30:22  revo
+Russ Williams: +trd en; ne konfuzu kun ekscentra
+
+Revision 1.12  2010/01/08 17:30:20  revo
+Sebastian Cyprych: +~a +trd pl
+
+Revision 1.11  2007/06/23 16:30:39  revo
+Tulio Flores: +tr pt
+
+Revision 1.10  2003/12/16 17:31:23  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.9  2003/08/26 16:31:32  revo
+Yury Finkel: +trd ru
+
+Revision 1.8  2003/08/08 16:30:41  revo
+Jozefo Horvath: +trd hu
+
+Revision 1..7  2002/05/30 15:03:17  revo
+-->
+</vortaro>

@@ -1,0 +1,466 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: pres.xml,v 1.27 2015/07/04 08:37:42 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>pres</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="pres.0i"> 
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="pres.0i.TIP">
+    <uzo tip="fak">TIP</uzo>
+    <dif>
+      Reprodukti tekston, bildojn ktp, kutime grandkvante kaj
+      &gcirc;enerale per apliko de inko al papero a&ubreve; alia ta&ubreve;ga surfaco:
+      <ekz>
+        tiuj &ccirc;i ar&hcirc;aismoj <klr>...</klr> &ccirc;iam estos <tld/>ataj en
+        &ccirc;iuj lernolibroj
+        <fnt><bib>F</bib>, <lok>anta&ubreve;parolo</lok></fnt>;
+      </ekz>
+      <ekz>
+        <tld/>i flora&jcirc;ojn sur &scirc;tofo.
+      </ekz>
+    </dif>
+    <trd lng="nl">drukken</trd>
+    <ref tip="vid" cel="stamp.0i.presi">stampi <sncref/></ref>
+  </snc>
+  <snc mrk="pres.0i.KOMP">
+    <uzo tip="fak">KOMP</uzo>
+    <ref tip="dif" cel="print.0i.KOMP">printi</ref>
+    <rim>
+      Multaj lingvoj uzas unu saman vorton por
+      <tld/>i <sncref ref="pres.0i.TIP"/> kaj printi; tamen
+      nemalmultaj esperantistoj sentas bezonon apartigi
+      publikigan sencon netan (<tld/>i <sncref ref="pres.0i.TIP"/>)
+      kaj la privatan, ofte malnetan kaj unuekzempleran
+      printadon:
+      <ekz>
+        Kiom da <tld/>itaj <klr>(publikigitaj)</klr> artikoloj
+        vi havas?
+      </ekz>
+      En pli frua epoko pro simila precizemo en
+      Esperanto aparti&gcirc;is la vorto <ref cel="tajp.0i">tajpi</ref>,
+      kvankam anka&ubreve; &gcirc;in multaj lingvoj ne distingigas disde
+      <tld/>i.
+      <aut>Sergio Pokrovskij</aut>
+    </rim>
+    <trdgrp lng="nl">
+      <trd>printen</trd>,
+      <trd>uitprinten</trd>,
+      <trd>uitdraaien</trd>
+    </trdgrp>
+  </snc>
+  <ref tip="super" cel="skrib.0i.signojn">skribi</ref>
+  <trd lng="be">&c_d;&c_r;&c_u;&c_k;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="cs">tisknout</trd>
+  <trd lng="de">drucken</trd>
+  <trd lng="en">print</trd>
+  <trd lng="es">imprimir</trd>
+  <trd lng="fr">imprimer</trd>
+  <trd lng="hu">nyomtat</trd>
+  <trdgrp lng="pl">
+    <trd>drukowa&cacute;</trd>,
+    <trd>wydrukowa&cacute;</trd>
+  </trdgrp>
+  <trd lng="pt">imprimir</trd>
+  <trd lng="ru">&c_p;&c_je;&c_ch;&c_a;&c_t;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="sk">tlačiť</trd>
+  <trd lng="cs">tisknout <klr>(noviny)</klr></trd>
+</drv>
+
+<drv mrk="pres.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="pres.0o.ado">
+  <uzo tip="fak">TIP</uzo>
+    <dif>
+      <tld lit="P"/>a produktado de dokumentoj:
+      <ekz>
+        la manuskripto <klr>...</klr> estis sendita por <tld/>o en
+        renoma rusa revuo
+        <fnt><bib>Voja&gcirc;Imp</bib>, <lok>&ccirc;e Lev Tolstoj en Jasnaja
+        Poljana</lok></fnt>.
+      </ekz>
+      <ekz>
+        <ind><tld/>eraro</ind>.
+        <trd lng="en">misprint</trd>
+        <trd lng="hu">nyomdahiba</trd>
+        <trd lng="nl">drukfout</trd>
+        <trd lng="ru">&c_o;&c_p;&c_je;&c_ch;&c_a;&c_t;&c_k;&c_a;</trd>
+      </ekz>
+    </dif>
+    <trd lng="be">&c_d;&c_r;&c_u;&c_k;</trd>
+    <trd lng="en">printing</trd>
+    <trd lng="hu">nyomtat&aacute;s</trd>
+    <trd lng="nl">druk</trd>
+    <trd lng="ru">&c_p;&c_je;&c_ch;&c_a;&c_t;&c_a;&c_n;&c_i;&c_je;</trd>
+  </snc>
+  <snc mrk="pres.0o.arto">
+  <uzo tip="fak">TIP</uzo>
+    <ref tip="dif" cel="pres.0arto"><tld/>arto</ref>
+    <trd lng="hu">nyomd&aacute;szmesters&eacute;g</trd>
+    <trd lng="nl">drukkunst</trd>
+  </snc>
+  <trd lng="cs">tisk</trd>
+  <trd lng="de">Druck</trd>
+  <trd lng="es">impreso<klr tip="amb"> (sustantivo)</klr></trd>
+  <trd lng="fr">impression<klr tip="amb"> (d'imprimerie)</klr></trd>
+  <trd lng="sk">tlač</trd>
+</drv>
+
+<drv mrk="pres.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="pres.0a.TIP">
+  <uzo tip="fak">TIP</uzo>
+    <dif>
+      Rilata al <tld/>arto, uzata en <tld/>arto:
+      <ekz>
+        <tld/>a litero<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_d;&c_r;&c_u;&c_k;&c_a;&c_r;&c_s;&c_k;&c_ib;</trd>,
+    <trd>&c_d;&c_r;&c_u;&c_k;&c_a;&c_v;&c_a;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trd lng="cs">tiskový</trd>
+  <trdgrp lng="en">
+    <trd>press</trd>,
+    <trd>print</trd>,
+    <trd>printing</trd>
+  </trdgrp>
+  <trd lng="es">impreso<klr tip="amb"> (adjetivo)</klr></trd>
+  <trdgrp lng="fr">
+    <trd>imprim&eacute;<klr tip="amb"> (adj.)</klr></trd>,
+    <trd>typographique</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>nyomtatott</trd>,
+    <trd>nyomda-</trd>
+  </trdgrp>
+  <trd lng="nl">druk-</trd>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_je;&c_ch;&c_a;&c_t;&c_n;&c_y;&c_j;</trd>,
+    <trd>&c_t;&c_i;&c_p;&c_o;&c_g;&c_r;&c_a;&c_f;&c_s;&c_k;&c_i;&c_j;</trd>
+  </trdgrp>
+  <trd lng="sk">tlačový</trd>
+</drv>
+
+<drv mrk="pres.0ajxo">
+  <kap><tld/>a&jcirc;o</kap>
+  <snc mrk="pres.0ajxo.TIP">
+    <uzo tip="fak">TIP</uzo>
+    <dif>
+      Io, ia dokumento <tld/>ita:
+      <ekz>
+        servanto <klr>...</klr> donis al &ccirc;iu el ni ekzempleron de
+        <tld/>a&jcirc;o kun la nomo de la mortinto en nigra kadro
+        <fnt><bib>Kiso</bib>, <lok>tombeja arabesko</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_d;&c_r;&c_u;&c_k;&c_a;&c_v;&c_a;&c_n;&c_a;&c_je; &c_v;&c_y;&c_d;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
+  <trdgrp lng="en">
+    <trd>printed matter</trd>,
+    <trd>print</trd>
+  </trdgrp>
+  <trd lng="fr">imprim&eacute;<klr tip="amb"> (subst.)</klr></trd>
+  <trd lng="hu">nyomtatv&aacute;ny</trd>
+  <trd lng="nl">drukwerk</trd>
+  <trd lng="ru">&c_p;&c_je;&c_ch;&c_a;&c_t;&c_n;&c_o;&c_je; &c_i;&c_z;&c_d;&c_a;&c_n;&c_i;&c_je;</trd>
+</drv>
+
+<drv mrk="pres.0arto">
+  <kap><tld/>arto</kap>
+  <snc mrk="pres.0arto.TIP">
+    <uzo tip="fak">TIP</uzo>
+    <dif>
+      La metio kaj la <ref tip="lst" cel="art.0o.tehxniko"
+      lst="voko:artoj">arto</ref>
+      <tld/>i, la profesio de la <tld/>istoj:
+      <ekz>
+        en la epoko de Dante ne ekzistis en E&ubreve;ropo la <tld/>arto
+        <fnt>
+        <aut>D. Broadribb</aut>,
+        <vrk>La Purgatorio vidita de dektriajarcentulo</vrk>,
+        <bib>Monato</bib>,
+        <lok>2002:5, p. 27a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_d;&c_r;&c_u;&c_k;&c_a;&c_r;&c_s;&c_k;&c_a;&c_ja; &c_s;&c_p;&c_r;&c_a;&c_v;&c_a;</trd>,
+    <trd>&c_d;&c_r;&c_u;&c_k;</trd>,
+    <trd>&c_k;&c_n;&c_ib;&c_g;&c_a;&c_d;&c_r;&c_u;&c_k;</trd>,
+    <trd>&c_p;&c_a;&c_l;&c_ib;&c_g;&c_r;&c_a;&c_f;&c_ib;&c_ja;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>umělecký tisk</trd>,
+    <trd>umění tisku</trd>
+  </trdgrp>
+  <trd lng="de">Druckkunst</trd>
+  <trd lng="en">printing</trd>
+  <trd lng="fr">imprimerie<klr tip="amb"> (technique)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>nyomd&aacute;szmesters&eacute;g</trd>,
+    <trd>tipogr&aacute;fia</trd>
+  </trdgrp>
+  <trd lng="nl">drukkunst</trd>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_je;&c_ch;&c_a;&c_t;&c_n;&c_o;&c_je; &c_d;&c_je;&c_l;&c_o;</trd>,
+    <trd>&c_k;&c_n;&c_i;&c_g;&c_o;&c_p;&c_je;&c_ch;&c_a;&c_t;&c_a;&c_n;&c_i;&c_je;</trd>,
+    <trd>&c_p;&c_o;&c_l;&c_i;&c_g;&c_r;&c_a;&c_f;&c_i;&c_ja;</trd>
+  </trdgrp>
+  <trd lng="sk">tlačové umenie</trd>
+</drv>
+
+<drv mrk="pres.0ejo">
+  <kap><tld/>ejo</kap>
+  <snc mrk="pres.0ejo.TIP">
+    <uzo tip="fak">TIP</uzo>
+    <dif>
+      Kompanio a&ubreve; fabriko, kie oni <tld/>as:
+      <ekz>
+        Flandra Esperanto-Ligo disponas pri propra kompostejo kaj
+        <tld/>ejo;
+      </ekz>
+      <ekz>
+      <tld/>ejoj, kiuj ne posedas la literojn &ccirc;, &gcirc;, &hcirc;, &jcirc;, &scirc;, &ubreve;, povas
+      anstata&ubreve; ili uzi ch, gh, hh, jh, sh, u<fnt><bib>F</bib></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_d;&c_r;&c_u;&c_k;&c_a;&c_r;&c_n;&c_ja;</trd>
+  <trd lng="cs">tiskárna</trd>
+  <trd lng="de">Druckerei</trd>
+  <trdgrp lng="en">
+    <trd>press</trd>,
+    <trd>printing house</trd>
+  </trdgrp>
+  <trd lng="fr">imprimerie<klr tip="amb"> (lieu)</klr></trd>
+  <trd lng="hu">nyomda</trd>
+  <trd lng="nl">drukkerij</trd>
+  <trd lng="ru">&c_t;&c_i;&c_p;&c_o;&c_g;&c_r;&c_a;&c_f;&c_i;&c_ja;</trd>
+  <trd lng="sk">tlačiareň</trd>
+</drv>
+
+<drv mrk="pres.0igi">
+  <kap><tld/>igi</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="pres.0igi.TIP">
+  <uzo tip="fak">TIP</uzo>
+    <dif>
+      Post pretigo komisii al <tld/>ejo la produktadon de verko:
+      <ekz>
+        mi povus verki rekte en la germana lingvo kaj <tld/>igi la
+        romanon &ccirc;i tie
+        <fnt><bib>Metrop</bib></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>dát tisknout</trd>,
+    <trd>nechat vytisknout</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>print</trd>,
+    <trd>have printed</trd>
+  </trdgrp>
+  <trd lng="fr">faire <ind>imprimer</ind></trd>
+  <trd lng="nl">doen <ind>drukken</ind></trd>
+  <trd lng="ru">&c_o;&c_t;&c_d;&c_a;&c_t;&c_mol; &c_v; <ind>&c_p;&c_je;&c_ch;&c_a;&c_t;&c_mol;</ind></trd>
+  <trd lng="sk">dať tlačiť</trd>
+</drv>
+
+<drv mrk="pres.0ilo">
+  <kap><tld/>ilo</kap>
+  <snc mrk="pres.0ilo.TIP">
+   <uzo tip="fak">TIP</uzo>
+    <dif>
+      Ma&scirc;ino por presi<sncref ref="pres.0i.TIP"/>:
+      <ekz>
+        mia preta produkto iras rekte al la rotaci<tld/>ilo
+        <fnt><aut>S. Maul</aut>, <vrk>Estimataj
+        gelegantoj</vrk>, <bib>Monato</bib>, <lok>2002:08, p.
+        8</lok></fnt>.
+      </ekz>
+    </dif> 
+    <trdgrp lng="nl">
+      <trd>pers<klr tip="ind"> (drukmachine)</klr></trd>,
+      <trd>drukmachine</trd>
+    </trdgrp>  
+  </snc>
+  <snc mrk="pres.0ilo.KOMP">
+   <uzo tip="fak">KOMP</uzo>
+    <dif>
+      Ma&scirc;ino por presi<sncref ref="pres.0i.KOMP"/>;
+      <ref tip="sin" cel="print.0ilo.KOMP">printilo</ref>:
+      <ekz>
+        &ccirc;ar tiuj teknologioj estas novaj, problemoj aperas de 
+        multaj flankoj: <tld/>iloj, virusoj, spamo, ...
+        <fnt>
+          <aut>J.-S. Brilleaud</aut>, 
+          <vrk><url ref="http://www.esperanto.be/fel/2006/008987.php">
+          Modernaj komunikiloj, &ccirc;u fideblaj?</url></vrk>,
+          <bib>Monato</bib>, 
+          <lok>2006:4, p. 18</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="nl">
+      <trd>printer</trd>,
+      <trd>afdrukapparaat</trd>
+    </trdgrp>   
+  </snc>
+  <trdgrp lng="cs">
+    <trd>tiskařský lis</trd>,
+    <trd>tiskárna <klr>(stroj)</klr></trd>
+  </trdgrp>
+  <trd lng="sk">tlačiareň</trd>
+</drv>
+
+<drv mrk="pres.0isto">
+  <kap><tld/>isto</kap>
+  <snc mrk="pres.0isto.TIP">
+    <uzo tip="fak">TIP</uzo>
+    <dif>
+      Profesiulo pri <tld/>ado de dokumentoj:
+      <ekz>
+        tio estas tre antikva nomo; li estis ja la unua dana <tld/>isto
+        <fnt><bib>Fab1</bib>, <lok>galo&scirc;oj de feli&ccirc;o, 2, kio okazis al
+        la jura konsilisto</lok></fnt>!
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>tiskař</trd>,
+    <trd>typograf</trd>
+  </trdgrp>
+  <trd lng="en">printer</trd>
+  <trd lng="fr">imprimeur</trd>
+  <trd lng="nl">drukker</trd>
+  <trd lng="ru">&c_p;&c_je;&c_ch;&c_a;&c_t;&c_n;&c_i;&c_k;</trd>
+  <trd lng="sk">tlačiar</trd>
+</drv>
+
+<drv mrk="pres.re0i">
+  <kap><ofc>*</ofc>re<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="pres.re0i.TIP">
+  <uzo tip="fak">TIP</uzo>
+    <dif>
+      <tld lit="P"/>e republikigi verkon sen korektoj a&ubreve; modifoj:
+      <ekz>
+        la tri verkoj re<tld/>itaj en tiu &ccirc;i libro
+        <fnt><bib>F</bib>, <lok>anta&ubreve;parolo</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>dotisknout</trd>,
+    <trd>přetisknout</trd>,
+    <trd>znovu tisknout</trd>
+  </trdgrp>
+  <trd lng="en">reprint</trd>
+  <trd lng="fr">r&eacute;imprimer</trd>
+  <trd lng="nl">herdrukken</trd>
+  <trdgrp lng="pl">
+    <trd>przedrukowa&cacute;</trd>,
+    <trd>przedrukowywa&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_je;&c_r;&c_je;&c_p;&c_je;&c_ch;&c_a;&c_t;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_p;&c_je;&c_r;&c_je;&c_i;&c_z;&c_d;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>dotlačiť</trd>,
+    <trd>znova tlačiť</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="pres.re0o">
+  <kap>re<tld/>o</kap>
+  <snc mrk="pres.re0o.TIP">
+    <uzo tip="fak">TIP</uzo>
+    <dif>
+      <tld lit="P"/>a republikigo de verko, eventuale en nova formato,
+      kun ne&scirc;an&gcirc;ita enhavo:
+      <ekz>
+        epokfara traduko <klr>...</klr> denove havebla pro &jcirc;usa
+        re<tld/>o
+        <fnt><bib>Plumamikoj</bib>, <lok>tradukoj</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">dotisk</trd>
+  <trd lng="en">reprint</trd>
+  <trd lng="fr">r&eacute;impression</trd>
+  <trd lng="nl">herdruk</trd>
+  <trdgrp lng="pl">
+    <trd>przedruk</trd>,
+    <trd>reprint</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_je;&c_r;&c_je;&c_p;&c_je;&c_ch;&c_a;&c_t;&c_k;&c_a;</trd>,
+    <trd>&c_p;&c_je;&c_r;&c_je;&c_i;&c_z;&c_d;&c_a;&c_n;&c_i;&c_je;</trd>
+  </trdgrp>
+  <trd lng="sk">dotlač</trd>
+</drv>
+
+<drv mrk="pres.fotore0o">
+  <kap>fotore<tld/>o</kap>
+  <snc mrk="pres.fotore0o.TIP">
+    <uzo tip="fak">TIP</uzo>
+    <dif>
+      <ref tip="super" cel="faksim.0o">Faksimilo</ref>
+      de dokumento farita per fotado:
+      <ekz>
+        oni deziras altkvalitan skana&jcirc;on, ekzemple por fari 
+        fotore<tld/>on
+        <fnt>
+          <aut>E. Grimley Evans</aut>,
+          <vrk><url ref="http://rano.org/bitigado.html">
+          Bitigado de presitaj libroj</url></vrk>,
+          <lok>[2011]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">facsimil&eacute; photographique</trd>
+</drv>
+</art>
+<!--
+$Log: pres.xml,v $
+Revision 1.27  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.26  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.25  2014/06/12 17:10:09  revo
+Damien Brucker: +ekz
+
+Revision 1.24  2013/09/22 18:10:17  revo
+Wolfram Diestel: referenco al listo artoj, germ trd
+
+Revision 1.23  2013/07/05 01:10:15  revo
+Jeromo Vasxe: + fotore~o
+
+Revision 1.22  2010/10/04 16:31:19  revo
+Agustin Garcia Lopez: +trd es
+
+Revision 1.21  2009/10/28 17:30:37  revo
+Paul Peeraerts: +nl
+
+Revision 1.20  2009/02/22 17:30:53  revo
+Russ Williams: +trd en, iom da pl
+
+Revision 1.19  2006/03/20 17:32:05  revo
+Tulio Flores: +tr pt
+
+Revision 1.18  2006/01/12 21:53:18  revo
+-->
+</vortaro>

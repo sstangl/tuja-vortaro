@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: bram.xml,v 1.20 2015/10/06 03:10:21 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>bram</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="bram.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="bram.0o.ZOO">
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      Granda fi&scirc;o grupe vivanta en malrapidaj riveroj
+      de E&ubreve;ropo; 
+      specio el familio <ref tip="super"
+      cel="ciprin1.0oj">ciprinedoj</ref>
+      (<trd lng="la">Abramis brama</trd>):
+      <ekz>
+        gracia <tld/>o kun longaj bu&scirc;haroj
+        <fnt>
+          <aut>B. N&ecaron;mcov&aacute;, trad. V. Tobek kaj K.
+          Proch&aacute;zka</aut>,
+          <vrk><url ref="https://eo.wikisource.org/wiki/Avineto/VII.">
+          Avineto</url></vrk>,
+          <lok>[sen dato]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_l;&c_je;&c_sh;&c_ch;</trd>
+    <trdgrp lng="br">
+      <trd>brem</trd>,
+      <trd>brell</trd>
+    </trdgrp>
+    <trd lng="de">Blei</trd>
+    <trd lng="en">bream</trd>
+    <trd lng="fr">br&egrave;me</trd>
+    <trd lng="hu">d&eacute;v&eacute;rkeszeg</trd>
+    <trd lng="nl">brasem</trd>
+    <trd lng="pl">leszcz</trd>
+    <trd lng="pt">brema</trd>
+    <trd lng="ru">&c_l;&c_je;&c_shch;</trd>
+    <trd lng="sv">braxen</trd>
+  </snc>
+  <rim mrk="bram.0o.RIM_HOM">
+    <ref tip="hom" cel="bram1.0o">Bramo</ref> anka&ubreve;
+    nomas parton de masto.
+  </rim>
+</drv>
+</art>
+<!--
+$Log: bram.xml,v $
+Revision 1.20  2015/10/06 03:10:21  revo
+Evandro Avellar: +trd pt
+
+Revision 1.19  2015/09/18 20:10:15  revo
+Jeromo Vasxe: - ne fundamenta snc mastoparto
+
+Revision 1.18  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.16  2009/09/29 16:30:37  revo
+Paul Peeraerts: +nl
+
+Revision 1.15  2009/03/25 17:30:53  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.14  2006/05/27 18:01:03  revo
+Yury Finkel: kor snc mrk
+
+Revision 1.13  2005/04/06 16:33:47  revo
+-->
+</vortaro>

@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: konvol.xml,v 1.15 2013/08/27 07:10:31 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>konvolvul</rad>/o
+  <fnt>Z</fnt>
+</kap>
+<drv mrk="konvol.0o">
+  <kap>
+    <tld/>o
+  </kap>
+  <uzo tip="fak">BOT</uzo>
+  <snc>
+    <dif>
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:botanikaj_genroj">Genro</ref> el familio <ref
+      tip="malprt"
+      cel="konvol1.0oj"><tld/>acoj</ref>
+      (<trd lng="la">Convolvulus</trd>), volvegrimpanta herbo kun
+      funelformaj floroj.
+    </dif>
+  </snc>
+  <trd lng="be">&c_b;&c_ja;&c_r;&c_o;&c_z;&c_k;&c_a; <klr tip="amb">(&c_t;&c_r;&c_a;&c_v;&c_a;)</klr></trd>
+  <trd lng="de">Winde</trd>
+  <trdgrp lng="en">
+    <trd>convolvulus</trd>,
+    <trd>bindweed</trd>,
+    <trd>morning glory</trd>
+  </trdgrp>
+  <trd lng="hu">szul&aacute;k</trd>
+  <trd lng="pt">conv&oacute;lvulo</trd>
+  <trd lng="ru">&c_v;&c_mol;&c_ju;&c_n;&c_o;&c_k;</trd>
+</drv>
+</art>
+<!--
+$Log: konvol.xml,v $
+Revision 1.15  2013/08/27 07:10:31  revo
+Wolfram Diestel: referenco al listo bot genroj
+
+Revision 1.14  2011/01/26 17:10:08  revo
+Russ Williams: +trd en
+
+Revision 1.13  2006/11/18 17:30:23  revo
+Tulio Flores: +tr pt
+
+Revision 1.12  2004/08/14 16:31:17  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.11  2004/05/06 16:32:19  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.10  2001/10/31 19:14:03  revo
+Yury Finkel: +trd ru
+
+Revision 1.9  2001/04/28 19:14:49  revo
+Karlo Freeman: +trd=en
+
+Revision 1.8  2001/04/20 12:48:35  revo
+-->
+</vortaro>

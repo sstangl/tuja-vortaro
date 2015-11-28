@@ -1,0 +1,117 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: dalton.xml,v 1.24 2015/07/04 08:37:32 revo Exp $">
+<kap>
+  <rad>daltonism</rad>/o
+  <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="dalton.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="dalton.0o.MED">
+    <uzo tip="fak">MED</uzo>
+    <dif>
+      Nenormaleco en la perceptado de koloroj,
+      precipe nekapablo distingi inter ru&gcirc;o kaj verdo:
+      <ekz>
+        <tld/>o estas herede ligita kun sekso.
+      </ekz>
+    </dif>
+    <ref tip="lst" cel="san.mal0o.MED" lst="voko:malsanoj">malsano</ref>
+  </snc>
+  <trd lng="be">&c_d;&c_a;&c_l;&c_mol;&c_t;&c_a;&c_n;&c_ib;&c_z;&c_m;</trd>
+  <trd lng="bg">&c_d;&c_a;&c_l;&c_t;&c_o;&c_n;&c_i;&c_z;&c_malmol;&c_m;</trd>
+  <trd lng="ca">daltonisme</trd>
+  <trdgrp lng="cs">
+    <trd>barvoslepost</trd>,
+    <trd>daltonizmus</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Farbblindheit</trd>,
+    <trd>Farbenblindheit</trd>,
+    <trd>Daltonismus</trd>
+  </trdgrp>
+  <trd lng="en">color blindness</trd>
+  <trd lng="es">daltonismo</trd>
+  <trdgrp lng="fa">
+    <trd>&f_k;&a_w;&a_r;&a_r;&a_n;&f_g;&f_y;</trd>,
+    <trd>&a_r;&a_n;&f_g;&zwnj;&f_k;&a_w;&a_r;&f_y;</trd>,
+    <trd>&a_d;&a_A;&a_l;&a_t;&a_w;&a_n;&f_y;&a_s;&a_m;</trd>
+  </trdgrp>
+  <trd lng="fr">daltonisme</trd>
+  <trdgrp lng="hu">
+     <trd>daltonizmus</trd>,
+     <trd>v&ouml;r&ouml;s-z&ouml;ld <ind>sz&iacute;nt&eacute;veszt&eacute;s</ind></trd>
+  </trdgrp>
+  <trdgrp lng="id">
+    <trd><ind>buta</ind> warna</trd>,
+    <trd>daltonisme</trd>
+  </trdgrp>
+  <trd lng="nl">kleurenblindheid</trd>
+  <trdgrp lng="pl">
+    <trd>daltonizm</trd>,
+    <trd>&sacute;lepota barwna</trd>
+  </trdgrp>
+  <trd lng="pt">daltonismo</trd>
+  <trd
+  lng="ru">&c_d;&c_a;&c_l;&c_mol;&c_t;&c_o;&c_n;&c_i;&c_z;&c_m;</trd>
+  <trdgrp lng="sk">
+    <trd>daltonizmus <klr>(druh farbosleposti)</klr></trd>,
+    <trd>farbosleposť</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="dalton.0ulo">
+  <kap><tld/>ulo</kap>
+  <snc mrk="dalton.0ulo.MED">
+    <uzo tip="fak">MED</uzo>
+    <dif>
+      Homo suferanta je <tld/>o.
+    </dif>
+  </snc>
+  <trd lng="be">&c_d;&c_a;&c_l;&c_mol;&c_t;&c_o;&c_n;&c_ib;&c_k;</trd>
+    <trd lng="ca">daltoni&agrave;</trd>
+    <trd lng="cs">daltonista</trd>
+    <trd lng="de">Farbenblinder</trd>
+    <trd lng="es">dalt&oacute;nico</trd>
+    <trd lng="fa">&f_k;&a_w;&a_r;&a_r;&a_n;&f_g;</trd>
+    <trd lng="fr">daltonien<klr tip="ind"> (subst.)</klr></trd>
+    <trd lng="hu">v&ouml;r&ouml;s-z&ouml;ld <ind>sz&iacute;nt&eacute;veszt&odblac;</ind></trd>
+    <trd lng="nl">kleurenblinde</trd>
+    <trd lng="pl">daltonista</trd>
+</drv>
+</art>
+<!--
+$Log: dalton.xml,v $
+Revision 1.24  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.23  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.22  2014/11/17 10:10:18  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.21  2013/10/09 18:10:54  revo
+Wolfram Diestel: ref al lst malsanoj
+
+Revision 1.20  2013/03/27 15:10:19  revo
+Dmitri Gabinski: redakto: +trd be; kor de uksleco en urbonomo
+
+Revision 1.19  2010/02/12 17:30:29  revo
+Jeromo Vasxe: ismismo -> ismo
+
+Revision 1.18  2009/07/12 16:30:36  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.17  2009/04/29 16:32:16  revo
+Wieland Pusch: +trd bg, korr drv ulo
+
+Revision 1.16  2009/04/27 16:30:58  revo
+Sebastian Cyprych: +trd pl; ekz -> drv ~ulo
+
+Revision 1.15  2007/07/13 16:30:35  revo
+-->
+</vortaro>

@@ -1,0 +1,173 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: ankora.xml,v 1.29 2015/03/22 23:10:20 revo Exp $">
+<kap>
+   <ofc>*</ofc>
+   <rad>ankora&ubreve;</rad> <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="ankora.0">
+   <kap><ofc>*</ofc><tld/></kap>
+   <gra><vspec>adv</vspec></gra>
+   <snc mrk="ankora.0.gxisNun">
+     <dif>
+       &Gcirc;is la nuna momento:
+       <ekz>
+         la lampo <tld/> brulis<fnt>Z</fnt>;
+       </ekz>
+       <ekz>
+         <tld/> neniam mi vidis lin;
+       </ekz>
+       <ekz>
+         la sukceso <tld/> ne estas certa
+       </ekz>
+     </dif>
+     <refgrp tip="vid">
+       <ref cel="cert.0a">certa 2</ref>;
+     </refgrp>
+     <ekz>
+       mi lin <tld/> ne konas<fnt>Z</fnt>;
+     </ekz>
+     <ekz>
+       virino <tld/> juna<fnt>Z</fnt>;
+     </ekz>
+     <ekz>
+       esti <tld/> &ccirc;e la komenco de la vojo<fnt>Z</fnt>;
+     </ekz>
+     <ekz>
+       nia atendata amiko <tld/> ne venis;
+     </ekz>
+     <ekz>
+       &scirc;iaj fortoj <tld/> ne estis ruinigitaj.
+     </ekz>
+     <refgrp tip="vid">
+       <ref cel="jam">jam ne</ref>,
+       <ref cel="plu">ne plu</ref>.
+     </refgrp>
+     <trd lng="es">todav&iacute;a</trd>
+     <rim>
+       Oni metu <em>ankora&ubreve;</em> anta&ubreve; la nea vorto:
+       <ekz>
+        <tld/> neniu pla&ccirc;is al &ccirc;iu<fnt><bib>PrV</bib></fnt>;
+       </ekz>
+       <ekz>
+         <tld/> neniam
+         <fnt><bib>Fab2</bib>, <lok>Malbela anasido</lok></fnt>;
+       </ekz>
+       <ekz>
+         mi <tld/> nenion scias<fnt>Z</fnt>.
+       </ekz>
+     </rim>
+     <trdgrp lng="fi">
+       <trd>viel&auml;</trd>,
+       <trd>yh&auml;</trd>,
+       <trd>edelleen</trd>
+     </trdgrp>
+   <trdgrp lng="pl">
+     <trd>jeszcze</trd>,
+     <trd>wci&aogonek;&zdot;</trd>,
+     <trd>nadal</trd>
+   </trdgrp>
+   </snc>
+   <snc mrk="ankora.0.denove">
+     <dif>
+       <refgrp tip="sin">
+         <ref cel="nov.de0e">Denove</ref>,
+         <ref cel="re.0e">ree</ref>,
+         <ref cel="plu.0e">plue</ref>.
+       </refgrp>
+       <ekz>
+         ripetu la lecionon <tld/> unu fojon;
+       </ekz>
+       <ekz>
+         li diris <tld/> kelkajn vortojn<fnt>Z</fnt>;
+       </ekz>
+       <ekz>
+         la infano estas <tld/> pli pala ol hiera&ubreve;<fnt>Z</fnt>.
+       </ekz>
+     </dif>
+     <trdgrp lng="fi">
+       <trd>viel&auml;</trd>,
+       <trd>viel&auml;kin</trd>,
+       <trd>lis&auml;ksi</trd>
+     </trdgrp>
+   </snc>
+   <trd lng="be">&c_ja;&c_sh;&c_ch;&c_e;</trd>
+   <trd lng="br">c'hoazh</trd>
+   <trdgrp lng="en">
+     <trd>still</trd>,
+     <trd>yet</trd>
+   </trdgrp>
+   <trd lng="ca">encara</trd>
+   <trd lng="cs">je&scaron;t&ecaron;</trd>
+   <trd lng="de">noch</trd>
+   <trd lng="fr">encore</trd>
+   <trd lng="hu">m&eacute;g</trd>
+   <trd lng="id">masih</trd>
+   <trd lng="it">ancora</trd>
+   <trd lng="nl">nog</trd>
+   <trdgrp lng="no">
+     <trd>enn&aring;</trd>,
+     <trd>enda</trd>
+   </trdgrp>
+   <trdgrp lng="pl">
+     <trd>jeszcze</trd>,
+     <trd>ponownie</trd>,
+     <trd>znowu</trd>,
+     <trd>zn&oacute;w</trd>
+   </trdgrp>
+   <trdgrp lng="pt">
+    <trd>ainda</trd>,
+    <trd>at&eacute; agora</trd>
+   </trdgrp>
+   <trd lng="ro">&icirc;nc&abreve;</trd>
+   <trd lng="ru">&c_je;&c_shch;&c_jo;</trd>
+   <trd lng="sk">e&scaron;te</trd>
+</drv>
+
+<drv mrk="ankora.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="ankora.0a.KOMUNE">
+    <dif>
+      Plua, da&ubreve;riganta, aldonata:
+      <ekz>
+        ni <klr>...</klr> verkis <tld/>an strofon
+        <fnt>
+          <aut>L. Ganman</aut>,
+          <vrk><url ref="http://www.linusganman.se/j8j.htm">
+          &Gcirc;oja</url></vrk>,
+          <lok>2015</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">de plus</trd>
+</drv>
+</art>
+<!--
+$Log: ankora.xml,v $
+Revision 1.29  2015/03/22 23:10:20  revo
+Jeromo Vasxe: + ~a
+
+Revision 1.28  2014/12/10 17:10:16  revo
+Filip van Laenen: +trd(no)
+
+Revision 1.27  2014/11/12 09:10:30  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.26  2011/12/06 13:10:25  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.25  2008/01/15 17:30:40  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.24  2007/12/03 17:30:34  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.23  2007/07/13 16:30:41  revo
+Harri Laine: +trd fi
+
+Revision 1.22  2007/05/01 18:24:47  revo
+-->
+</vortaro>

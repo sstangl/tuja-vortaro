@@ -1,0 +1,152 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: ej.xml,v 1.19 2015/07/04 08:37:33 revo Exp $">
+<kap>
+<ofc>*</ofc>
+-<rad>ej</rad></kap>
+<subart>
+  <drv mrk="ej.0">
+    <kap>-<tld/></kap>
+  <snc>
+    <dif>
+      Sufikso montranta lokon difinitan por io a&ubreve; karakterizatan per io:
+      <ekz>
+        lern<tld/>o, dorm<tld/>o;
+      </ekz>
+      <ekz>
+        hund<tld/>o, bov<tld/>o;
+      </ekz>
+      <ekz>
+        herb<tld/>o;
+      </ekz>
+      <ekz>
+        dens<tld/>o;
+      </ekz>
+      <ekz>
+        lo&gcirc;<tld/>o;
+      </ekz>
+      <ekz>
+        kuir<tld/>o;
+      </ekz>
+      <ekz>
+        &ccirc;eval<tld/>o, pre&gcirc;<tld/>o;
+      </ekz>
+      <ekz>
+        deven<tld/>o<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        senakv<tld/>o
+        <fnt><bib>MT</bib>, <lok>&Jes; 35:1</lok></fnt>;
+      </ekz>
+      <ekz>
+        komenc<tld/>o, naski&gcirc;<tld/>o;
+      </ekz>
+      <ekz>
+        vagonara alir<tld/>o.
+      </ekz>
+    </dif>
+  </snc>
+    <trd lng="ca">(sufix de lloc, de local)</trd>
+    <trdgrp lng="de">
+      <trd>-<ind>ei</ind><klr> [z.B. B&auml;ckerei]</klr></trd>,
+      <trd>-<ind>statt</ind><klr> [z.B. Werkstatt]</klr></trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>-<ind>hely</ind></trd>,
+      <trd>-<ind>da</ind><klr> (helyis&eacute;g)</klr></trd>
+    </trdgrp>
+    <trd lng="pt">-<ind>aria</ind></trd>
+    <trd lng="vo">-en</trd>
+  </drv>
+</subart>
+<subart>
+  <dif>
+    Samsignifa memstara vortero:
+  </dif>
+  <drv mrk="ej.0o">
+    <kap><tld/>o</kap>
+    <snc>
+      <ekz>
+        malvasta <tld/>o;
+      </ekz>
+      <ekz>
+        mi amas la <tld/>on de via domo
+        <fnt><bib>MT</bib>, <lok>&Psa; 26:8</lok></fnt>.
+      </ekz>
+      <rim>
+        <em>ejo</em> diferencas de <em>ujo</em> per tio, ke <em>ujo</em>
+        estas
+        efektiva, materia, fizika objekto, entenanta ion, kiel meblo,
+        kesto,
+        sako, ktp, dum <em>ejo</em> estas loko, spaco, karakterizata per
+        io
+        konkreta a&ubreve; abstrakta.
+      </rim>
+    </snc>
+  <trdgrp lng="be">
+      <trd>&c_p;&c_a;&c_m;&c_ja;&c_sh;&c_k;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>,
+      <trd>&c_m;&c_je;&c_s;&c_c;&c_a;</trd>
+    </trdgrp>
+  <trdgrp lng="ca">
+      <trd>indret</trd>,
+      <trd>lloc</trd>
+    </trdgrp>
+  <trdgrp lng="cs">
+    <trd>místnost</trd>,
+    <trd>místo</trd>,
+    <trd>prostor</trd>,
+    <trd>působiště</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+      <trd>Ort</trd>,
+      <trd>Platz</trd>,
+      <trd>Stelle</trd>,
+      <trd>St&auml;tte</trd>
+    </trdgrp>
+  <trdgrp lng="fr">
+      <trd>endroit</trd>,
+      <trd>lieu</trd>,
+      <trd>local<klr tip="ind"> (subst.)</klr></trd></trdgrp>
+  <trdgrp lng="hu">
+      <trd>hely</trd>,
+      <trd>helyis&eacute;g</trd>
+    </trdgrp>
+  <trd lng="ru">&c_p;&c_o;&c_m;&c_je;&c_shch;&c_je;&c_n;&c_i;&c_je;</trd>
+  <trd lng="sk">miestnosť</trd>
+</drv>
+</subart>
+</art>
+<!--
+$Log: ej.xml,v $
+Revision 1.19  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2012/09/05 08:10:14  revo
+Marc Rausell: ++ trd ca
+
+Revision 1.16  2011/12/07 01:10:11  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.15  2008/03/20 17:30:27  revo
+Wieland Pusch: +drv
+
+Revision 1.14  2007/06/22 17:25:46  revo
+Tulio Flores: +tr pt
+
+Revision 1.13  2003/12/16 17:30:58  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.12  2003/06/03 16:31:05  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.11  2003/03/13 17:32:43  revo
+Ulrich Fellmann: + 1 trd = vo
+
+Revision 1.10  2002/11/01 22:04:17  revo
+-->
+</vortaro>

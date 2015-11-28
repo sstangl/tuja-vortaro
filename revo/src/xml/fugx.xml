@@ -1,0 +1,134 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: fugx.xml,v 1.20 2015/10/28 07:10:15 revo Exp $">
+<kap><ofc>8</ofc>
+<rad>fu&gcirc;</rad>/i</kap>
+<drv mrk="fugx.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>x</vspec></gra>
+  <snc>
+    <dif>
+      Forkuri por sin savi de reala a&ubreve; imagita dan&gcirc;ero:
+      <ekz>
+        <tld/>i dan&gcirc;eron;
+      </ekz>
+      <ekz>
+        <tld/>i anta&ubreve; malamiko, brulego;
+      </ekz>
+      <ekz>
+        <tld/>i el la urbo, el malliberejo, en fremdlandon, tra la
+        kamparo.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_u;&c_c;&c_ja;&c_k;&c_a;&c_c;&c_mol; <klr>(&c_a;&c_d; &c_p;&c_a;&c_g;&c_r;&c_o;&c_z;&c_y;)</klr></trd>
+  <trd lng="ca">fugir</trd>
+  <trdgrp lng="de">
+    <trd>fliehen</trd>,
+    <trd>fl&uuml;chten</trd>
+  </trdgrp>
+  <trd lng="en">flee</trd>
+  <trdgrp lng="fa">
+    <trd>&f_g;&a_r;&f_y;&a_kh;&a_t;&a_n;</trd>,
+    <trd>&a_f;&a_r;&a_A;&a_r; &f_k;&a_r;&a_d;&a_n;</trd>
+  </trdgrp>
+  <trd lng="fr">fuir</trd>
+  <trd lng="es">fugar</trd>
+  <trd lng="hu">(el)<ind>menek&uuml;l</ind></trd>
+  <trd lng="nl">vluchten</trd>
+  <trdgrp lng="pt">
+    <trd>fugir</trd>,
+    <trd>escapar</trd>,
+    <trd>evadir-se</trd>,
+    <trd>escapulir</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_u;&c_b;&c_je;&c_zh;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_s;&c_p;&c_a;&c_s;&c_t;&c_i;&c_s;&c_mol; &c_b;&c_je;&c_g;&c_s;&c_t;&c_v;&c_o;&c_m;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="fugx.0o">
+  <kap><tld/>o</kap>
+  <snc>
+    <dif>
+      La ago de iu, kiu fu&gcirc;as, a&ubreve; la stato de fu&gcirc;ado.
+    </dif>
+  </snc>
+  <trdgrp lng="ca">
+    <trd>fuga</trd>,
+    <trd>fugida</trd>
+  </trdgrp>
+  <trd lng="de">Flucht</trd>
+  <trd lng="en">flight</trd>
+  <trdgrp lng="fa">
+    <trd>&f_g;&a_r;&f_y;&a_z;</trd>,
+    <trd>&a_f;&a_r;&a_A;&a_r;</trd>
+  </trdgrp>
+  <trd lng="fr">fuite</trd>
+  <trdgrp lng="hu">
+    <trd>menek&uuml;l&eacute;s</trd>,
+    <trd>sz&ouml;k&eacute;s</trd>
+  </trdgrp>
+  <trd lng="nl">vlucht<klr tip="ind"> (het vluchten)</klr></trd>
+  <trdgrp lng="pt">
+    <trd>fuga</trd>,
+    <trd>escapada</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_b;&c_je;&c_g;&c_s;&c_t;&c_v;&c_o;</trd>,
+    <trd>&c_p;&c_o;&c_b;&c_je;&c_g;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="fugx.trans0into">
+  <kap>trans<tld/>into</kap>
+  <snc>
+    <dif>
+      Homo, kiu forlasis sian partion por transiri en alian.
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="kur">transkurinto</ref>,
+      <ref cel="fal.de0i.BIB">defalinto</ref>.
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_p;&c_je;&c_r;&c_a;&c_b;&c_je;&c_zh;&c_ch;&c_y;&c_k;</trd>
+  <trd lng="ca">tr&agrave;nsfuga</trd>
+  <trd lng="de">Fl&uuml;chtling</trd>
+  <trd lng="en">refugee</trd>
+  <trd lng="fa">&f_p;&a_n;&a_A;&a_h;&a_j;&a_w;</trd>
+  <trd lng="fr">transfuge</trd>
+  <trd lng="hu">disszidens</trd>
+  <trd lng="nl">overloper</trd>
+  <trd lng="pt">refugiado</trd>
+  <trd lng="ru">&c_p;&c_je;&c_r;&c_je;&c_b;&c_je;&c_zh;&c_ch;&c_i;&c_k;</trd>
+</drv>
+</art>
+<!--
+$Log: fugx.xml,v $
+Revision 1.20  2015/10/28 07:10:15  revo
+Alain Gerard: +trd (fr)
+
+Revision 1.19  2012/01/02 10:10:30  revo
+Marc Rausell: +trd ca
+
+Revision 1.18  2010/08/12 16:30:26  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.17  2009/07/01 17:22:06  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.16  2008/07/21 16:30:41  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.15  2007/06/13 16:32:42  revo
+Tulio Flores: +tr pt
+
+Revision 1.14  2005/06/28 20:26:36  revo
+Yury Finkel: +trd ru
+
+Revision 1.13  2004/02/02 19:41:40  revo
+-->
+</vortaro>

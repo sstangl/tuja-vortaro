@@ -1,0 +1,131 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: proskr.xml,v 1.12 2015/07/04 08:37:42 revo Exp $">
+<kap>
+  <rad>proskrib</rad>/i <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="proskr.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="proskr.0i.JUR">
+    <uzo tip="fak">JUR</uzo>
+    <dif>
+      Senju&gcirc;e <ref tip="super" cel="ekzil.0i">ekzili</ref>, en tempo de
+      ekstera a&ubreve; interna milito.
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>poslat do vyhnanství</trd>,
+    <trd>proskribovat</trd>,
+    <trd>vyhostit</trd>,
+    <trd>zavrhnout</trd>
+  </trdgrp>
+  <trd lng="de">&auml;chten</trd>
+  <trdgrp lng="fr">
+    <trd>proscrire</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>sz&aacute;m&udblac;z <klr tip="ind">(&iacute;t&eacute;let n&eacute;lk&uuml;l)</klr></trd>,
+    <trd>t&ouml;rv&eacute;nyen k&iacute;v&uuml;l helyez</trd>
+    <trd>proskrib&aacute;l</trd>
+  </trdgrp>
+  <trd lng="nl">vogelvrij verklaren</trd>
+  <trdgrp lng="pt">
+    <trd>proscrever</trd>,
+    <trd>exilar</trd>,
+    <trd>banir</trd>,
+    <trd>degredar</trd>,
+    <trd>deportar</trd>    
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_i;&c_z;&c_g;&c_n;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_v;&c_y;&c_s;&c_l;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_o;&c_b;&c_malmol;&c_ja;&c_v;&c_i;&c_t;&c_mol; &c_v;&c_n;&c_je; &c_z;&c_a;&c_k;&c_o;&c_n;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>poslať do vyhnanstva</trd>,
+    <trd>vyhostiť</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="proskr.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="proskr.0o.JUR">
+    <dif>
+      Senju&gcirc;a kondamno al ekzilo:
+      <ekz>
+        &ccirc;ie oni diris ke Alan pafis la kuglon kaj oni jam faris 
+        <tld/>on kontra&ubreve; li
+        <fnt><aut>R. L. Stevenson, trad. A. Goodheir</aut>, 
+        <vrk>Forkaptita</vrk>, <lok>Kardo, 1976</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <refgrp tip="sin">
+    <ref cel="proskr1.0o">proskripcio</ref>
+  </refgrp>
+  <trdgrp lng="de">
+    <trd>Proskription</trd>,
+    <trd>&Auml;chtung</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>proscription</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>sz&aacute;m&udblac;zet&eacute;s <klr tip="ind">(&iacute;t&eacute;let n&eacute;lk&uuml;li)</klr></trd>,
+    <trd>t&ouml;rv&eacute;nyen k&iacute;v&uuml;l helyez&eacute;s</trd>
+    <trd>proskripci&oacute;</trd>
+  </trdgrp>  
+  <trdgrp lng="nl">
+    <trd>proscriptie</trd>,
+    <trd>vogelvrijverklaring</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_i;&c_z;&c_g;&c_n;&c_a;&c_n;&c_i;&c_je;</trd>,
+    <trd>&c_v;&c_y;&c_s;&c_y;&c_l;&c_k;&c_a;</trd>,
+    <trd>&c_p;&c_r;&c_o;&c_s;&c_k;&c_r;&c_i;&c_p;&c_c;&c_i;&c_ja;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>proskripcia</trd>,
+    <trd>vypovedanie do vyhnanstva</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>proskripce</trd>,
+    <trd>vyhnanství</trd>,
+    <trd>vyhoštění</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: proskr.xml,v $
+Revision 1.12  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.11  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.10  2007/09/28 16:30:54  revo
+Jeromo Vasxe: + fak jur + 1 ekz
+
+Revision 1.9  2006/04/02 17:02:45  revo
+Tulio Flores: +tr pt
+
+Revision 1.8  2004/08/19 16:32:17  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.7  2001/12/26 17:31:10  revo
+Yury Finkel: +trd ru
+
+Revision 1.6 2001/12/20 17:38:08 revo
+Jerome Vachey: + super ekzili, + sin proskripcio, + trd fr
+
+Revision 1.5 2001/06/24 18:54:53 revo
+Paul Peeraerts: ald trd nl
+
+Revision 1.4 2001/05/20 18:12:18 revo
+Dennis Wibrow: +trd germ
+
+-->
+</vortaro>

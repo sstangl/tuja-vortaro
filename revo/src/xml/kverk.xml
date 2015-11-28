@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: kverk.xml,v 1.25 2014/12/27 06:10:12 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>kverk</rad>/o
+</kap>
+
+<drv mrk="kverk.0o">
+  <kap>
+    <tld/>o
+  </kap>
+  <snc mrk="kverk.0o.BOT">
+  <uzo tip="fak">BOT</uzo>
+    <dif>
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:botanikaj_genroj">Genro</ref> el la familio <ref
+      tip="malprt"
+      cel="fagac.0oj">fagacoj</ref>
+      (<trd lng="la">Quercus</trd>), arboj kaj arbedoj. La fortikan
+      lignon
+      de kelkaj specioj oni uzas por meblaro kaj konstruado:
+      <ekz>
+        <ind>korko<tld/>o</ind>
+        <klr>(kies &scirc;elo liveras korkon)</klr>.
+        <trd lng="ca">alzina surera</trd>
+        <trd lng="de">Korkeiche</trd>
+        <trd lng="en">cork oak</trd>
+        <trd lng="fa">&a_b;&a_l;&a_w;&a_T; &f_ch;&a_w;&a_b;&zwnj;&f_p;&a_n;&a_b;&a_h;&zwnj;&a_A;&f_y;</trd>
+        <trd lng="fr">ch&ecirc;ne-li&egrave;ge</trd>
+        <trd lng="nl">kurkeik</trd>
+      </ekz>
+      <ekz>
+        <ind>verda <tld/>o</ind>
+        <klr>(kiu verdas la tutan jaron<trd lng="la">Quercus
+        sempervirens</trd>)</klr>.
+        <trd lng="ca">alzina</trd>
+        <trd lng="de">Steineiche</trd>
+        <trd lng="en">holm oak</trd>
+        <trd lng="fa">&a_b;&a_l;&a_w;&a_T; &a_h;&a_m;&f_y;&a_sh;&a_h;&zwnj;&a_s;&a_b;&a_z;</trd>
+        <trdgrp lng="nl">
+          <trd>steeneik</trd>,
+          <trd>haageik</trd>
+        </trdgrp>
+      </ekz>
+    </dif>
+  </snc>
+  <bld lok="../bld/kverk.jpg">
+    folioj <klr>(Quercus robur)</klr>
+  </bld>
+  <trd lng="be">&c_d;&c_u;&c_b;</trd>
+  <trd lng="bg">&c_d;&c_malmol;&c_b;</trd>
+  <trd lng="de">Eiche</trd>
+  <trd lng="en">oak</trd>
+  <trd lng="ca">roure</trd>
+  <trd lng="es">roble</trd>
+  <trd lng="fa">&a_b;&a_l;&a_w;&a_T;</trd>
+  <trd lng="fr">ch&ecirc;ne</trd>
+  <trd lng="hu">t&ouml;lgy(fa)</trd>
+  <trd lng="nl">eik</trd>
+  <trd lng="pl">d&aogonek;b</trd>
+  <trd lng="pt">carvalho</trd>
+  <trd lng="ru">&c_d;&c_u;&c_b;</trd>
+  <trd lng="sv">ek</trd>
+</drv>
+</art>
+<!--
+$Log: kverk.xml,v $
+Revision 1.25  2014/12/27 06:10:12  revo
+Alain Gerard: tajperaro
+
+Revision 1.24  2013/08/30 14:11:31  revo
+Wolfram Diestel: kor. lst-ref
+
+Revision 1.23  2013/08/26 19:10:35  revo
+Wolfram Diestel: referenco al listo bot genroj
+
+Revision 1.22  2010/04/30 12:25:31  revo
+Behnam Tabatabai: +trd fa, *trd de
+
+Revision 1.21  2009/09/22 17:17:38  revo
+Paul Peeraerts: +nl
+
+Revision 1.20  2008/03/04 17:30:22  revo
+Dennis Wibrow: +trd sv
+
+Revision 1.19  2008/02/22 17:30:14  revo
+Wieland Pusch: +ind al ekz por trd, +trd de,en
+
+Revision 1.18  2008/02/21 17:30:15  revo
+-->
+</vortaro>

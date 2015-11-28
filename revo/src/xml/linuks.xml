@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: linuks.xml,v 1.18 2015/07/04 08:37:38 revo Exp $">
+<kap>
+  <rad>Linuks</rad>/o
+</kap>
+<drv mrk="linuks.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">KOMP</uzo>
+  <snc mrk="linuks.0o.kerno">
+    <dif>
+      Propre, populara <ref cel="klon.0o.KOMP">klono</ref> de la
+      operaciumkerno de <ref tip="super" cel="uniks.0o">Unikso</ref>,
+      respondanta al la uzorajto GNU GPL.
+    </dif>
+  </snc>
+  <snc mrk="linuks.0o.tuto">
+    <dif>
+      En la &gcirc;enerala, kvankam jure mal&gcirc;usta uzo, la tuta <ref
+      tip="super" cel="operac.0umo">operaciumo</ref> konstruita &ccirc;irka&ubreve;
+      la kerno <tld/>o<sncref ref="linuks.0o.kerno"/>:
+      <ekz>
+	senkostaj programoj haveblas &ccirc;efe por <tld/>o<fnt><aut>Frank
+	Arnaud</aut>: <vrk>Preterle&gcirc;a televidado en E&ubreve;ropo</vrk>,
+	<bib>Monato</bib><lok>jaro 1999a, numero 3a, p. 22a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_l;&c_ib;&c_n;&c_u;&c_k;&c_s;</trd>
+  <trd lng="ca">Linux</trd>
+  <trd lng="cs">Linux</trd>
+  <trd lng="de">Linux</trd>
+  <trd lng="en">Linux</trd>
+  <trd lng="es">linux</trd>
+  <trd lng="fa">&a_l;&f_y;&a_n;&a_w;&f_k;&a_s;</trd>
+  <trd lng="fr">Linux</trd>
+  <trd lng="hu">Linux</trd>
+  <trd lng="nl">Linux</trd>
+  <trdgrp lng="pl">
+    <trd>Linux</trd>,
+    <trd>Linuks</trd>
+  </trdgrp>
+  <trd lng="pt">Linux</trd>
+  <trd lng="ru">&c_L;&c_i;&c_n;&c_u;&c_k;&c_s;</trd>
+  <trd lng="sk">Linux</trd>
+  <trd lng="sv">Linux</trd>
+</drv>
+</art>
+<!--
+$Log: linuks.xml,v $
+Revision 1.18  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2013/10/04 10:10:10  revo
+Damien Brucker: Aldono de ref por operaciumo
+
+Revision 1.16  2013/10/04 09:10:12  revo
+Damien Brucker: -eraro cxe fr trad
+
+Revision 1.15  2013/09/25 06:10:13  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.14  2013/09/13 08:10:18  revo
+Damien Brucker: precizigo de la difino
+
+Revision 1.13  2013/01/30 08:10:13  revo
+Agustin Garcia Lopez: +trd(es)
+
+Revision 1.12  2013/01/01 12:10:16  revo
+Sebastian Cyprych: kor trd pl
+
+Revision 1.11  2011/12/06 23:10:30  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.10  2010/06/01 16:30:17  revo
+-->
+</vortaro>

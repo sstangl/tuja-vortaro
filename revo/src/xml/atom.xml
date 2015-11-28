@@ -1,0 +1,230 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: atom.xml,v 1.30 2015/07/04 08:37:31 revo Exp $">
+<kap>
+<ofc>1</ofc>
+<rad>atom</rad>/o
+</kap>
+<drv mrk="atom.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="atom.0o.filozofia">
+    <dif>
+      Plej malgranda, supoze nedividebla ero de
+      <ref tip="malprt" cel="materi.0o">materio</ref>.
+    </dif>
+  </snc>
+  <snc mrk="atom.0o.KEM">
+    <uzo tip="fak">FIZ</uzo>
+    <uzo tip="fak">KEM</uzo>
+    <dif>
+      Plej malgranda parto <klr>(t.e. ero)</klr>
+      de <ref tip="prt" cel="elemen.0o.KEM">&hcirc;emia elemento</ref>,
+      konsistanta el kerno, formita de
+      <ref cel="proton.0o">protonoj</ref> kaj
+      <ref cel="neuxtr2.0o">ne&ubreve;tronoj</ref>, kiun
+      &ccirc;irka&ubreve;as
+      <ref cel="elektr14.0o">elektronoj</ref>:
+      <ekz>
+        la korpoj diferencas per la nombro de
+        elektronoj ekzistantaj en iliaj <tld/>oj.
+      </ekz>
+    </dif>
+    <ref tip="malprt" cel="moleku.0o">molekulo</ref>
+    <refgrp tip="prt">
+      <ref cel="nukleon.0o">nukleono</ref>,
+      <ref cel="partik2.0o">partiklo</ref>.
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_a;&c_t;&c_a;&c_m;</trd>
+  <trd lng="cs">atom</trd>
+  <trd lng="de">Atom</trd>
+  <trd lng="en">atom</trd>
+  <trd lng="es">&aacute;tomo</trd>
+  <trd lng="fr">atome</trd>
+  <trd lng="hu">atom</trd>
+  <trd lng="it">atomo</trd>
+  <trd lng="nl">atoom</trd>
+  <trd lng="pl">atom</trd>
+  <trd lng="ru">&c_a;&c_t;&c_o;&c_m;</trd>
+  <trdgrp lng="sk">
+    <trd>at&oacute;m</trd>,
+    <trd>atóm</trd>
+  </trdgrp>
+  <trd lng="sv">atom</trd>
+</drv>
+
+<drv mrk="atom.0ero">
+  <kap><tld/>ero</kap>
+  <snc>
+    <uzo tip="fak">FIZ</uzo>
+    <dif>
+      &Ccirc;iu el la konsistigaj partoj de <tld/>o.
+    </dif>
+  </snc>
+  <trd lng="de">Atomteilchen</trd>
+  <trd lng="en">sub-atomic <ind>particle</ind></trd>
+    <trd lng="es">part&iacute;cula at&oacute;mica</trd>
+  <trd lng="hu">atomr&eacute;szecske</trd>
+  <trd lng="it">particella<klr> sub-atomica</klr></trd>
+  <trd lng="nl">atoomdeeltje</trd>
+  <trd lng="pl">cz&aogonek;stka elementarna</trd>
+  <trdgrp lng="ru">
+    <trd>&c_e;&c_l;&c_je;&c_m;&c_je;&c_n;&c_t;&c_a;&c_r;&c_n;&c_a;&c_ja;
+    &c_ch;&c_a;&c_s;&c_t;&c_i;&c_c;&c_a;</trd>,
+    <trd>&c_s;&c_u;&c_b;&c_a;&c_t;&c_o;&c_m;&c_n;&c_a;&c_ja;
+    &c_ch;&c_a;&c_s;&c_t;&c_i;&c_c;&c_a;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="atom.0ismo">
+  <kap><tld/>ismo</kap>
+  <snc>
+    <uzo tip="fak">FIL</uzo>
+    <dif>
+      Doktrino pri la <tld/>a konsisto de la materio kaj universo, kaj
+      ilia formi&gcirc;o per kuni&gcirc;o de <tld/>oj.
+    </dif>
+  </snc>
+  <trd lng="be">&c_a;&c_t;&c_a;&c_m;&c_ib;&c_z;&c_m;</trd>
+  <trdgrp lng="cs">
+    <trd>atomistika</trd>,
+    <trd>atomizmus</trd>
+  </trdgrp>
+  <trd lng="de">Atomismus</trd>
+  <trd lng="en">atomism</trd>
+  <trd lng="es">atomismo</trd>
+  <trd lng="fr">atomisme</trd>
+  <trdgrp lng="hu">
+    <trd>atomizmus</trd>,
+    <trd>atomisztika</trd></trdgrp>
+  <trd lng="it">atomismo</trd>
+  <trd lng="nl">atomisme</trd>
+  <trd lng="ru">&c_a;&c_t;&c_o;&c_m;&c_i;&c_z;&c_m;</trd>
+  <trd lng="sk">atomizmus</trd>
+</drv>
+
+<drv mrk="atom.0kerno">
+  <kap><tld/>kerno</kap>
+  <snc>
+    <uzo tip="fak">FIZ</uzo>
+    <dif>
+      Kerno de la atomo, konsistanta el protono(j) kaj eble
+      ne&ubreve;trono(j).
+    </dif>
+  </snc>
+  <trd lng="be">
+  &c_a;&c_t;&c_a;&c_m;&c_n;&c_a;&c_je; &c_ja;&c_d;&c_r;&c_o;</trd>
+  <trd lng="cs">atomové jádro</trd>
+  <trd lng="de">Atomkern</trd>
+  <trd lng="es">n&uacute;cleo at&oacute;mico</trd>
+  <trd lng="hu">atommag</trd>
+  <trd lng="it">nucleo<klr> atomico</klr></trd>
+  <trd lng="nl">atoomkern</trd>
+  <trd lng="pl">j&aogonek;dro atomowe</trd>
+  <trd lng="ru">
+  &c_a;&c_t;&c_o;&c_m;&c_n;&c_o;&c_je; &c_ja;&c_d;&c_r;&c_o;</trd>
+  <trdgrp lng="sk">
+    <trd>at&oacute;mov&eacute; jadro</trd>,
+    <trd>atómové jadro</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="atom.0centralo">
+  <kap><tld/>centralo</kap>
+  <snc>
+    <ref tip="dif" cel="atom.0elektrejo">Atomelelektrejo</ref>
+  </snc>
+  <trd lng="cs">atomová elektrárna</trd>
+  <trdgrp lng="de">
+    <trd>Atomkraftwerk</trd>,
+    <trd>Kernkraftwerk</trd>
+  </trdgrp>
+  <trd lng="es">central nuclear</trd>
+  <trd lng="it">centrale nucleare</trd>
+  <trd lng="nl">atoomcentrale</trd>
+  <trd lng="ru">
+  &c_a;&c_t;&c_o;&c_m;&c_n;&c_a;&c_ja;
+&c_e;&c_l;&c_je;&c_k;&c_t;&c_r;&c_o;&c_s;&c_t;&c_a;&c_n;&c_c;&c_i;&c_ja;
+</trd>
+  <trd lng="sk">atómová elektráreň</trd>
+</drv>
+
+<drv mrk="atom.0elektrejo">
+  <kap><tld/>elektrejo</kap>
+  <snc>
+    <uzo tip="fak">TEK</uzo>
+    <uzo tip="fak">FIZ</uzo>
+    <dif>
+      <ref tip="super" cel="elektr.0ejo">Elektrejo</ref> funkcianta
+      per dispartigo de <tld/>kernoj
+      de ta&ubreve;ga materialo, plej ofte uranio kaj/a&ubreve;
+      plutonio:
+      <ekz>
+    &leftquot;&Ccirc;e&hcirc;a opinio pri <ind><tld/>elektrejo</ind> en
+Temel&iacute;n&rightquot;
+    <fnt><lok>Monato, 2002</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_t;&c_a;&c_m;&c_n;&c_a;&c_ja;
+&c_e;&c_l;&c_je;&c_k;&c_t;&c_r;&c_a;&c_s;&c_t;&c_a;&c_n;&c_c;&c_y;&c_ja;
+</trd>,
+    <trd>&c_A;&c_E;&c_S;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Atomkraftwerk</trd>,
+    <trd>Kernkraftwerk</trd>
+  </trdgrp>
+  <trd lng="en">nuclear power plant</trd>
+    <trd lng="es">central nuclear</trd>
+  <trd lng="hu">atomer&odblac;m&udblac;</trd>
+  <trd lng="it">centrale nucleare</trd>
+  <trd lng="nl">atoomcentrale</trd>
+  <trdgrp lng="pl">
+    <trd>elektrownia atomowa</trd>,
+    <trd>elektrownia j&aogonek;drowa</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_A;&c_E;&c_S;</trd>,
+    <trd>&c_a;&c_t;&c_o;&c_m;&c_n;&c_a;&c_ja;
+&c_e;&c_l;&c_je;&c_k;&c_t;&c_r;&c_o;&c_s;&c_t;&c_a;&c_n;&c_c;&c_i;&c_ja;
+</trd>
+  </trdgrp>
+  <trd lng="sk">at&oacute;mov&aacute; elektr&aacute;re&ncaron;</trd>
+</drv>
+</art>
+<!--
+$Log: atom.xml,v $
+Revision 1.30  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.29  2015/06/28 12:03:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.28  2012/04/23 14:10:11  revo
+Mireille Corobu: korektis cxkauxas->cxirkauxas
+
+Revision 1.27  2010/05/07 16:30:46  revo
+Antonio Codazzi: +tr it
+
+Revision 1.26  2010/04/14 06:05:48  revo
+Jose Antonio del Barrio: aldono de hispanaj tradukoj
+
+Revision 1.25  2009/07/07 16:30:45  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.24  2008/05/20 16:30:27  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.23  2007/02/06 17:30:41  revo
+Wieland Pusch: +trd de
+
+Revision 1.22  2005/06/09 17:40:59  revo
+Yury Finkel: +trd ru
+
+Revision 1.21  2004/06/24 16:33:44  revo
+-->
+</vortaro>

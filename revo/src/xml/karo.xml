@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: karo.xml,v 1.20 2015/07/04 08:37:37 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>karo</rad>/o
+</kap>
+<drv mrk="karo.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <uzo tip="fak">SPO</uzo>
+  <snc>
+    <dif>
+      Ludkarta
+      <ref tip="super" cel="emblem.0o.karta">emblemo</ref>,
+      signata per ru&gcirc;a <ref tip="vid" cel="romb.0o">rombo</ref>
+      (&#9826;):
+      <ekz>
+        <tld/>a aso.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="ker.0o">kero</ref>,
+      <ref cel="pik.0o.emblemo">piko</ref>,
+      <ref cel="tref.0o">trefo</ref>
+    </refgrp>
+  </snc>
+  <trd lng="br">karo</trd>
+  <trdgrp lng="cs">
+    <trd>karo</trd>,
+    <trd>kule <klr>(karty)</klr></trd>
+  </trdgrp>
+  <trd lng="de">Karo</trd>
+  <trd lng="en">diamond</trd>
+  <trd lng="es">diamantes <klr>(palo de la baraja de naipes
+  francesa)</klr></trd>
+  <trd lng="fr">carreau<klr tip="ind"> (jeu de cartes)</klr></trd>
+  <trd lng="hu">k&aacute;r&oacute;</trd>
+  <trd lng="nl">ruiten<klr tip="ind"> (in kaartspel)</klr></trd>
+  <trdgrp lng="pl">
+    <trd>karo</trd>,
+    <trd>poduszki<klr> (pot.)</klr></trd>,
+    <trd>dzwonek<klr> (pot.)</klr></trd>
+  </trdgrp>
+  <trd lng="ru">&c_b;&c_u;&c_b;&c_n;&c_y;
+  <klr>(&c_m;&c_a;&c_s;&c_t;&c_mol;)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>guľa <klr>(karty)</klr></trd>,
+    <trd>káro</trd>
+  </trdgrp>
+  <trd lng="sv">ruter</trd>
+</drv>
+</art>
+<!--
+$Log: karo.xml,v $
+Revision 1.20  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2015/01/11 06:11:04  revo
+Carlos Garcia: +trd es -o
+
+Revision 1.17  2011/08/24 07:10:13  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.16  2008/05/09 19:11:33  revo
+Sebastian Cyprych: +ref al aliaj kartemblemoj +trd pl
+
+Revision 1.15  2005/04/28 16:33:03  revo
+Alan ar Gall: +trd br
+
+Revision 1.14  2004/12/05 17:32:36  revo
+Marc Bavant: sxovis trd
+
+Revision 1.13 2004/08/11 16:32:19 revo
+Jean Hennebert: +trd fr
+
+Revision 1.12 2004/03/11 17:30:57 revo
+Jozefo Horvath: +trd hu
+
+Revision 1.11 2001/11/05 19:11:32 revo
+-->
+</vortaro>

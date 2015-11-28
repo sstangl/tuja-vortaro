@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: eland.xml,v 1.7 2015/07/04 08:37:33 revo Exp $">
+<kap>
+  <rad>eland</rad>/o <fnt><bib>NePiv</bib></fnt>
+</kap>
+<drv mrk="eland.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="eland.0o.ZOO">
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      Granda rekta<ref tip="prt" cel="korn.0o.besta">korna</ref> 
+      kvarpiedulo vivanta en Afrika savano; 
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:zoologiaj_genroj">genro</ref> 
+      el familio <ref tip="malprt" cel="boved.0oj.ZOO">bovedoj</ref>
+      (<trd lng="la">Taurotragus</trd>):
+      <ekz>
+        la plej majesta <klr>[besto]</klr> iom similis
+        al la giganta <tld/>o de Afriko
+        <fnt>
+         <aut>E. Rice Burroughs, trad. G. Mickle</aut>,
+         <vrk><url ref="http://home.arcor.de/gmickle/koro_14.html">
+         &Ccirc;e la koro de la Tero</url></vrk>,
+         <lok>2005</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la pa&scirc;tejoj kaj altaj arbaroj lo&gcirc;igas multajn birdojn kaj 
+        diversajn bestojn, interalie kelkajn blankajn rinocerojn, 
+        elefantojn, <klr>...</klr> <tld/>ojn   
+        <fnt>
+          <bib>Viki</bib>,
+          <lok><url
+          ref="http://eo.wikipedia.org/wiki/Nacia_Parko_Mosi-oa-Tunya">
+          Nacia Parko Mosi-oa-Tunya</url>, 2011-11-26</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="tauxrotrag.0o.ZOO">ta&ubreve;rotrago</ref>
+    </refgrp>
+  </snc>
+  <trd lng="cs">antilopa losí</trd>
+  <trd lng="en">Eland</trd>
+  <trd lng="fr">taurotragus</trd>
+  <trd lng="pl">eland</trd>
+  <trd lng="sk">antilopa losia</trd>
+</drv>
+</art>
+
+<!--
+$Log: eland.xml,v $
+Revision 1.7  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.6  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.5  2015/04/08 17:10:15  revo
+Vito Redsky: trd pl
+
+Revision 1.4  2013/09/01 13:10:59  revo
+Wolfram Diestel: referenco al listo zoo genroj
+
+Revision 1.3  2013/07/07 16:10:12  revo
+Wolfram Diestel: referenco al korno
+
+Revision 1.2  2013/07/07 15:10:21  revo
+Wolfram Diestel: referencoj
+
+Revision 1.1  2012/10/28 19:10:14  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

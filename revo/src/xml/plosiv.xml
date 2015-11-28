@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: plosiv.xml,v 1.17 2015/06/29 16:40:18 revo Exp $">
+<kap>
+  <rad>plosiv</rad>/o <fnt><bib>PV</bib></fnt>,
+  <var>
+    <kap><rad>ploziv</rad>/o <fnt><bib>PIV1</bib></fnt></kap>
+  </var>
+</kap>
+<drv mrk="plosiv.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">FON</uzo>
+  <snc mrk="plosiv.0o.FON">
+    <ref tip="dif" cel="eksplo.0akonsonanto">eksploda konsonanto</ref>
+  </snc>
+  <trd lng="be">&c_v;&c_y;&c_b;&c_u;&c_h;&c_o;&c_v;&c_y; <ind>&c_z;&c_y;&c_ch;&c_n;&c_y;</ind></trd>
+  <trdgrp lng="de">
+    <trd>Plosiv</trd>,
+    <trd>Verschlusslaut</trd>,
+    <trd>Okklusiv</trd>,
+    <trd>Klusil</trd>
+  </trdgrp>
+  <trd lng="en">plosive</trd>
+  <trd lng="es">oclusiva</trd>
+  <trdgrp lng="fa">
+    <trd>&a_h;&a_m;&a_kh;&a_w;&a_A;&a_n; <ind>&a_b;&a_n;&a_d;&a_sh;&f_y;</ind></trd>,
+    <trd>&a_h;&a_m;&a_kh;&a_w;&a_A;&a_n; <ind>&a_A;&a_n;&a_s;&a_d;&a_A;&a_d;&f_y;</ind></trd>
+  </trdgrp>
+  <trd lng="fr">occlusive<klr> (subst.)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>z&aacute;rhang</trd>,
+    <trd>exploz&iacute;va</trd>,
+    <trd>okkluz&iacute;va</trd>
+  </trdgrp>
+  <trd lng="nl">plofklank</trd>
+  <trdgrp lng="pt">
+    <trd>explosiva <klr>(subst.)</klr></trd>,
+    <trd>consoante explosiva</trd>,
+    <trd>oclusiva <klr>(subst.)</klr></trd>,    
+    <trd>consoante oclusiva</trd>    
+  </trdgrp>
+  <trd lng="ru">&c_v;&c_z;&c_r;&c_y;&c_v;&c_n;&c_o;&c_j; &c_s;&c_o;&c_g;&c_l;&c_a;&c_s;&c_n;&c_y;&c_j;</trd>
+  <trd lng="sk">explozívna hláska</trd>
+</drv>
+
+<drv mrk="plosiv.glota0o">
+  <kap>glota <tld/>o</kap>
+  <snc mrk="plosiv.glota0o.FON">
+    <uzo tip="fak">FON</uzo>
+    <dif>
+      Kraketo, produktata de la abrupta fermi&gcirc;o kaj malfermi&gcirc;o
+      de la gloto anta&ubreve; la ellaso de vokalo, per kiu la nordgermanoj
+      faras la altenon al vokalo komencanta vorton.
+    </dif>
+  </snc>
+  <adm>
+    Revizii dif. Temas pri koncepto pli &gcirc;enerala ol
+    nordgermana kutimo. <aut>MB</aut>
+  </adm>
+  <trdgrp lng="de">
+    <trd>glottaler Verschlusslaut</trd>,
+    <trd>glottaler Plosiv</trd>
+  </trdgrp>
+  <trd lng="en">glottal plosive</trd>
+  <trd lng="es">oclusiva glotal</trd>
+  <trd lng="fr">occlusive glottale<klr> (subst.)</klr></trd>
+  <trd lng="ru">&c_g;&c_o;&c_r;&c_t;&c_a;&c_n;&c_n;&c_a;&c_ja; &c_s;&c_m;&c_y;&c_ch;&c_k;&c_a;</trd>
+</drv>
+</art>
+<!--
+$Log: plosiv.xml,v $
+Revision 1.17  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.16  2015/01/06 08:10:12  revo
+Sergio Pokrovskij: ref-dif
+
+Revision 1.15  2014/01/02 13:10:14  revo
+Damien Brucker: +ref
+
+Revision 1.14  2012/09/21 12:10:15  revo
+Jeromo Vasxe: + mrk
+
+Revision 1.13  2009/08/28 16:31:23  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.12  2009/06/10 16:30:40  revo
+Russ Williams: +trd en
+
+Revision 1.11  2006/03/08 17:31:51  revo
+Tulio Flores: +tr pt
+
+Revision 1.10  2003/07/30 18:59:55  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.9  2002/12/11 17:33:55  revo
+-->
+</vortaro>

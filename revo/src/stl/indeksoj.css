@@ -1,0 +1,63 @@
+BODY {background: #F5F5D5; 
+  margin-top: 4px; padding: 0px; margin-left:4px; margin-right:0px} 
+H1 {font-size: large; color: #404040}
+H2 {font-size: medium; color: #404040}
+
+H3.griza {font-style: italic; color: #404040; font-size: medium}
+
+HR {border-style: dotted; border-color: black; 
+  border-top-width: 2px;
+  border-bottom-width: 0px;
+  margin-top: 4ex}
+
+A {text-decoration: none}
+A:link {color: #501000}
+A:visited {color: #501000}
+A:active {color: red}
+A:hover {color: red;background-color: #d5d5a5}
+A:hover B {color: red;background-color: #d5d5a5}
+.dato {color: #666666; font-size: small}
+
+.flago {  border-color: #CCCCCC; border-width: 1px;  border-style: outset} 
+
+.elektita {background-color: #601000; color: white}
+
+TABLE { width: 100%}
+
+td.aktiva {background-color: #e0e0a0; 
+  padding-left: 10px;
+  border-style: solid; border-color: gray;
+  border-bottom-width: 0px;
+  border-right-width: 1px;
+  border-top-width: 0px;
+  border-left-width: 0px;
+  background-image: url(angulo.png);
+  background-repeat: no-repeat;
+}
+
+td.aktiva A { font-weight: bold}
+
+td.fona { background-color: #D5D5B5; 
+  padding-left: 10px;
+  border-style: solid; border-color: gray;
+  border-bottom-width: 2px;
+  border-right-width: 1px;
+  border-top-width: 0px;
+  border-left-width: 0px;
+  background-image: url(angulo.png);
+  background-repeat: no-repeat;}
+
+td.enhavo { 
+  padding-left: 1ex;
+  padding-right: 1ex;
+  padding-top: 0.5ex;
+  background-color: #F5F5C5;
+  border-style: solid; border-color: gray;
+  border-top-width: 0px; border-left-width: 1px;
+  border-right-width: 1px; border-bottom-width: 2px}
+
+P.tez { margin-top: 0.1em; margin-bottom: 0.1em }
+
+ul { list-style-type: none; margin-left: 0; padding-left: 1em }
+
+li {}

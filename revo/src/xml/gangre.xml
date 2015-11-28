@@ -1,0 +1,119 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: gangre.xml,v 1.23 2015/07/04 08:37:34 revo Exp $">
+<kap><ofc>1</ofc>
+  <rad>gangren</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="gangre.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="gangre.0o.MED">
+    <uzo tip="fak">MED</uzo>
+    <dif>
+      Detrua iom post iom etendi&gcirc;anta putri&gcirc;o de ia parto de vivanta
+      korpo.
+    </dif>
+    <trd lng="de">Brand</trd>
+    <trdgrp lng="hu">
+      <trd>&uuml;sz&ouml;k</trd>,
+      <trd>&uuml;szk&ouml;s&ouml;d&eacute;s</trd>,
+      <trd>gangr&eacute;na</trd>
+    </trdgrp>
+    <trd lng="nl">gangreen</trd>
+  </snc>
+  <snc mrk="gangre.0o.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Morala infekti&gcirc;o, malvirteco.
+    </dif>
+    <trd lng="de">Verderbtheit</trd>
+    <trd lng="hu">r&aacute;kfene</trd>
+    <trd lng="nl">verdorvenheid</trd>
+  </snc>
+  <trd lng="be">&c_g;&c_a;&c_n;&c_g;&c_r;&c_e;&c_n;&c_a;</trd>
+  <trd lng="bg">&c_g;&c_a;&c_n;&c_g;&c_r;&c_je;&c_n;&c_a;</trd>
+  <trd lng="ca">gangrena</trd>
+  <trdgrp lng="cs">
+    <trd>brant</trd>,
+    <trd>gangréna</trd>,
+    <trd>sněť</trd>
+  </trdgrp>
+  <trd lng="de">Gangr&auml;n</trd>
+  <trd lng="el">&gamma;&alfa_ton;&gamma;&gamma;&rho;&alfa;&jota;&ny;&alfa;</trd>
+  <trd lng="en">gangrene</trd>
+  <trd lng="es">gangrena</trd>
+  <trd lng="fr">gangr&egrave;ne</trd>
+  <trd lng="pt">gangrena</trd>
+  <trd lng="ru">&c_g;&c_a;&c_n;&c_g;&c_r;&c_je;&c_n;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>hnilobný rozklad tkaniva</trd>,
+    <trd>sneť</trd>
+  </trdgrp>
+  <trd lng="tr">kangren</trd>
+</drv>
+
+<drv mrk="gangre.0i">
+  <kap><tld/>i, <var><kap><tld/>igi</kap></var></kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      Igi <tld/>a, ka&ubreve;zi <tld/>on:
+      <ekz>
+        <tld/>ita membro, spirito, mondo.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_v;&c_y;&c_k;&c_l;&c_ib;&c_k;&c_a;&c_c;&c_mol; <ind>&c_g;&c_a;&c_n;&c_g;&c_r;&c_e;&c_n;&c_u;</ind></trd>,
+    <trd>&c_z;&c_r;&c_a;&c_b;&c_ib;&c_c;&c_c;&c_a; <ind>&c_g;&c_a;&c_n;&c_g;&c_r;&c_e;&c_n;&c_o;&c_z;&c_n;&c_y;&c_m;</ind></trd>
+  </trdgrp>
+  <trd lng="ca">gangrenar</trd>
+  <trd lng="cs">způsobovat gangrény</trd>
+  <trd lng="de">verderben</trd>
+  <trd lng="es">gangrenar</trd>
+  <trd lng="fr">gangr&eacute;ner</trd>
+  <trd lng="hu">el&uuml;szk&ouml;s&iacute;t</trd>
+  <trd lng="nl">door <ind>gangreen</ind> aantasten</trd>
+  <trd lng="pt">gangrenar</trd>
+  <trd lng="ru">&c_p;&c_o;&c_r;&c_a;&c_z;&c_i;&c_t;&c_mol; <ind>&c_g;&c_a;&c_n;&c_g;&c_r;&c_je;&c_n;&c_o;&c_j;</ind></trd>
+  <trdgrp lng="sk">
+    <trd>gangrénu</trd>,
+    <trd>vyvolať sneť</trd>,
+    <trd>zapríčiniť hnilobný rozklad</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: gangre.xml,v $
+Revision 1.23  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.22  2015/06/29 16:29:39  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.21  2014/01/23 09:10:12  revo
+Joop Eggen: +trd bg
+
+Revision 1.20  2012/08/18 18:10:43  revo
+Marc Rausell: + trd ca
+
+Revision 1.19  2010/08/11 16:30:56  revo
+Jeromo Vasxe: - kramp
+
+Revision 1.18  2009/08/23 16:33:17  revo
+Emmanuel Debanne: +trd tr
+
+Revision 1.17  2009/06/29 18:06:58  revo
+Russ Williams: +trd en
+
+Revision 1.16  2007/07/02 16:30:31  revo
+Wieland Pusch: +trd de
+
+Revision 1.15  2005/06/29 16:31:24  revo
+Yury Finkel: +trd ru
+
+Revision 1.14  2004/01/08 17:31:55  revo
+-->
+</vortaro>

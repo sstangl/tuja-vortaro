@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: aren.xml,v 1.18 2015/09/16 11:10:24 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>aren</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="aren.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="aren.0o.SPO">
+    <uzo tip="fak">ARKI</uzo>
+    <uzo tip="fak">SPO</uzo>
+    <dif>
+      Loko en la centro de <ref tip="malprt" 
+      cel="cirk.0o.ARKI">cirko</ref> por bataloj kaj ludoj.
+    </dif>
+  </snc>
+  <snc mrk="aren.0o.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Kampo de agado a&ubreve; de idea batalo:
+      <ekz>
+        la politika <tld/>o;
+      </ekz>
+      <ekz>
+        Oriento i&gcirc;as <tld/>o de plej gravaj okaza&jcirc;oj;
+      </ekz>
+      <ekz>
+        tiu demando preparas <tld/>on al multaj pridiskutadoj.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="kamp.0o">kampo</ref>,
+      <ref cel="teren.0o">tereno</ref>
+    </refgrp>
+    <trd lng="es">arena</trd>
+  </snc>
+  <trd lng="be">&c_a;&c_r;&c_e;&c_n;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>ar&eacute;na</trd>,
+    <trd>kolbi&scaron;t&ecaron;</trd>,
+    <trd>ring</trd>,
+    <trd>z&aacute;pasi&scaron;t&ecaron;</trd>
+  </trdgrp>
+  <trd lng="de">Arena</trd>
+  <trd lng="en">arena</trd>
+  <trdgrp lng="es">
+    <trd>arena</trd>,
+    <trd>campo<klr> (de f&uacute;tbol)</klr></trd>,
+    <trd>plaza<klr> (de toros)</klr></trd>,
+  </trdgrp>
+  <trd lng="fr">ar&egrave;ne</trd>
+  <trdgrp lng="hu">
+    <trd>ar&eacute;na</trd>,
+    <trd>k&uuml;zd&odblac;t&eacute;r</trd>,
+    <trd>porond</trd>
+  </trdgrp>
+  <trd lng="pt">arena</trd>
+  <trdgrp lng="ru">
+    <trd>&c_a;&c_r;&c_je;&c_n;&c_a;</trd>,
+    <trd>&c_m;&c_a;&c_n;&c_je;&c_zh;</trd>
+  </trdgrp>
+  <trd lng="sk">ar&eacute;na</trd>
+</drv>
+
+<drv mrk="aren.danc0o">
+  <kap>danc<tld/>o</kap>
+  <snc mrk="aren.danc0o.SPO">
+    <uzo tip="fak">SPO</uzo>
+    <dif>
+      <ref tip="super" cel="aren.0o.SPO"><tld lit="A"/>o</ref> sur kiu 
+      oni povas danci:
+      <ekz>
+        la cementita planko de la remizo estas nun bezonata kiel 
+        danc-<tld/>o
+        <fnt><bib>KielAkvo</bib>, <lok>1:1</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="en">dance floor</trd>
+  <trd lng="fr">piste de dance</trd>
+</drv>
+</art>
+<!--
+$Log: aren.xml,v $
+Revision 1.18  2015/09/16 11:10:24  revo
+Evandro Avellar: +trd pt
+
+Revision 1.17  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2010/03/04 17:30:36  revo
+Russ Williams: +trd en
+
+Revision 1.15  2007/06/10 16:31:47  revo
+Jeromo Vasxe: + danc~o, ~o + fak arki spo
+
+Revision 1.14  2006/01/09 17:34:38  revo
+Raul Salinas Monteagudo: +trd es
+
+Revision 1.13  2003/11/11 18:36:11  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.12  2002/10/29 18:00:25  revo
+Christopher Zervic: + ang
+
+Revision 1.11  2002/09/26 16:31:12  revo
+-->
+</vortaro>

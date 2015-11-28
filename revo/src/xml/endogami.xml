@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: endogami.xml,v 1.5 2015/07/04 08:37:33 revo Exp $">
+<kap>
+  <rad>endogami</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="endogami.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="endogami.0o.GEN">
+    <uzo tip="fak">GEN</uzo>
+    <dif>
+      Moro, la&ubreve; kiu oni geedzi&gcirc;as inter samgentanoj,
+      kontraste al <ref tip="ant" 
+      cel="ekzogami.0o.GEN">ekzogamio</ref>:
+      <ekz>
+        membroj de sama familia nomo sed ne de sama bran&ccirc;o povas 
+        geedzi&gcirc;i, sed estas absolute malpermesita <tld/>o
+        <fnt>
+          <aut>&Ccirc;ina Radio Internacia</aut>,
+          <vrk><url
+          ref="http://www.espero.com.cn/old/epch/18s/02c/02-38/38-m-1.htm">
+          Nupta moro de Na&scirc;i-nacio</url></vrk>,
+          <lok>[vidita en 2010]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="ca">endog&agrave;mia</trd>
+  <trdgrp lng="cs">
+    <trd>endogamie</trd>,
+    <trd>pokrevní sňatek</trd>
+  </trdgrp>
+  <trd lng="de">Endogamie</trd>
+  <trd lng="en">endogamy</trd>
+  <trd lng="fr">endogamie</trd>
+  <trd lng="sk">pokrvný sobáš</trd>
+</drv>
+</art>
+
+<!--
+$Log: endogami.xml,v $
+Revision 1.5  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.4  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.3  2012/08/02 18:10:15  revo
+Marc Rausell: + trd ca
+
+Revision 1.2  2011/02/05 18:10:09  revo
+Wieland Pusch: +trd de+en
+
+Revision 1.1  2011/02/04 18:10:12  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

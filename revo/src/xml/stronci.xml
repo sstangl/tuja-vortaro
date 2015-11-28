@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: stronci.xml,v 1.18 2015/07/04 08:37:44 revo Exp $">
+<kap>
+  <rad>stronci</rad>/o
+</kap>
+
+<drv mrk="stronci.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">KEM</uzo>
+  <mlg kod="IUPAC">Sr</mlg>
+  <snc>
+    <dif>
+      &Hcirc;emia <ref tip="lst" cel="elemen.0o.KEM"
+      lst="voko:&hcirc;emiaj_elementoj" val="38">elemento</ref> kun
+      atomnumero 38, atompezo 87,62;
+      <ref tip="super" cel="metal.teralkala0o">teralkala metalo</ref>.
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_t;&c_r;&c_o;&c_n;&c_c;&c_y;&c_j;</trd>
+  <trd lng="bg">&c_s;&c_t;&c_r;&c_o;&c_n;&c_c;&c_i;&c_j;</trd>
+  <trd lng="br">strontiom</trd>
+  <trd lng="ca">estronci</trd>
+  <trdgrp lng="cs">
+    <trd>Sr</trd>,
+    <trd>stroncium</trd>
+  </trdgrp>
+  <trd lng="de">Strontium</trd>
+  <trd lng="en">strontium</trd>
+  <trd lng="es">estroncio</trd>
+  <trd lng="fa">&a_A;&a_s;&a_t;&a_r;&a_w;&a_n;&a_s;&f_y;&a_m;</trd>
+  <trd lng="fr">strontium</trd>
+  <trd lng="hu">stroncium</trd>
+  <trd lng="id">stronsium</trd>
+  <trd lng="it">stronzio</trd>
+  <trd lng="la">Strontium</trd>
+  <trd lng="nl">strontium</trd>
+  <trd lng="pl">stront</trd>
+  <trd lng="pt">estr&ocirc;ncio</trd>
+  <trd lng="ru">&c_s;&c_t;&c_r;&c_o;&c_n;&c_c;&c_i;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>Sr</trd>,
+    <trd>stroncium</trd>
+  </trdgrp>
+  <trd lng="sv">strontium</trd>
+</drv>
+</art>
+<!--
+$Log: stronci.xml,v $
+Revision 1.18  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:33:24  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.16  2014/06/04 03:10:29  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.15  2013/09/15 18:10:27  revo
+Wolfram Diestel: simb. laux IUPAC, val
+
+Revision 1.14  2013/08/25 07:11:03  revo
+Wolfram Diestel: referenco al listo elementoj
+
+Revision 1.13  2010/10/25 16:31:02  revo
+Jerano Zachrisson: +trd sv
+
+Revision 1.12  2009/11/30 17:30:45  revo
+Wieland Pusch: +trd bg
+
+Revision 1.11  2009/11/28 17:30:58  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.10  2006/06/05 16:42:30  revo
+Sebastian Cyprych: +trd pl,la +frm
+
+Revision 1.9  2006/01/04 17:32:02  revo
+-->
+</vortaro>

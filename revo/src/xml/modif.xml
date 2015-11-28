@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: modif.xml,v 1.18 2015/07/04 08:37:39 revo Exp $">
+<kap>
+  <ofc>3</ofc>
+  <rad>modif</rad>/i
+</kap>
+<drv mrk="modif.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      Parte &scirc;an&gcirc;i ion ne tu&scirc;ante la esencon:
+      <ekz>
+        <tld/>i la formon de;
+      </ekz>
+      <ekz>
+        <tld/>i projekton, le&gcirc;on, aran&gcirc;on.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_m;&c_a;&c_d;&c_y;&c_f;&c_ib;&c_k;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_v;&c_ib;&c_d;&c_a;&c_z;&c_mol;&c_m;&c_ja;&c_n;&c_ja;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="ca">modificar</trd>
+  <trdgrp lng="cs">
+    <trd>aktualizovat</trd>,
+    <trd>doplnit čerstvými daty</trd>,
+    <trd>obnovovat</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>modifizieren</trd>,
+    <trd>ab&auml;ndern</trd>,
+    <trd>anpassen</trd>
+  </trdgrp>
+  <trd lng="en">modify</trd>
+  <trd lng="es">modificar</trd>
+  <trdgrp lng="fr">
+      <trd>remanier</trd>,
+      <trd>retoucher</trd>,
+      <trd>modifier</trd>,
+    </trdgrp>
+  <trdgrp lng="hu">
+      <trd>m&oacute;dos&iacute;t</trd>,
+      <trd>modifik&aacute;l</trd>
+    </trdgrp>
+  <trd lng="nl">wijzigen</trd>
+  <trd lng="pt">modificar</trd>
+  <trdgrp lng="ru">
+    <trd>&c_v;&c_i;&c_d;&c_o;&c_i;&c_z;&c_m;&c_je;&c_n;&c_i;&c_t;&c_mol;</trd>,
+    <trd>&c_m;&c_o;&c_d;&c_i;&c_f;&c_i;&c_c;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>modifikovať</trd>,
+    <trd>prispôsobiť</trd>,
+    <trd>upraviť</trd>
+  </trdgrp>
+  <trd lng="sv">modifiera</trd>
+</drv>
+
+<drv mrk="modif.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="modif.0o.KOMUNE">
+    <dif>
+      Tio, kion oni <tld/>as:
+      <ekz>
+           Kian signifon havas tiuj <tld/>oj? Kial ili estis faritaj?
+           Kaj
+           kiu estas la vera nomo?
+           <fnt><vrk><url 
+           ref="http://donh.best.vwh.net/Esperanto/Literaturo/Revuoj/nlr/nlr51/nomata.html">Kiel
+           estis nomata Zamenhof?</url></vrk>,</fnt>.</ekz>
+    </dif>
+    </snc>
+  <trdgrp lng="cs">
+    <trd>modifikovaná verse</trd>,
+    <trd>varianta</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Modifikation</trd>,
+    <trd>Anpassung</trd>
+  </trdgrp>
+  <trd lng="es">modificaci&oacute;n</trd>
+  <trd lng="fr">modification</trd>
+  <trdgrp lng="sk">
+    <trd>modifikovaná verzia</trd>,
+    <trd>variant</trd>
+  </trdgrp>
+</drv>
+
+</art>
+<!--
+$Log: modif.xml,v $
+Revision 1.18  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.16  2015/01/01 15:10:17  revo
+Wolfram Diestel: +trd de
+
+Revision 1.15  2014/12/14 00:10:09  revo
+Guillermo Molleda Jimena: trd es
+
+Revision 1.14  2010/10/16 16:30:34  revo
+Mireille Corobu: + drv modifo
+
+Revision 1.13  2010/10/14 16:30:18  revo
+Mireille Corobu: + trd fr
+
+Revision 1.12  2006/08/07 16:32:18  revo
+Tulio Flores: +tr pt
+
+Revision 1.11  2005/04/18 16:33:06  revo
+Raul Salinas Monteagudo: +trd ca,es
+
+Revision 1.10  2004/06/17 16:31:25  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.9  2004/02/17 17:30:44  revo
+-->
+</vortaro>

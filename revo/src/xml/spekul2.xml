@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: spekul2.xml,v 1.13 2013/08/30 16:10:21 revo Exp $">
+<kap>
+  <ofc>3</ofc>
+  <rad>spekulativ</rad>/a
+</kap>
+<drv mrk="spekul2.0a">
+  <kap><tld/>a</kap>
+  <snc>
+    <dif>
+      Bazita sur pure teoria rezonado, celante nur la scion, sen ia ajn
+      praktika utilo:
+      <ekz>
+        tio havas nur <tld/>an intereson.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="kabine">kabineta</ref>.
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_s;&c_p;&c_e;&c_k;&c_u;&c_l;&c_ja;&c_t;&c_y;&c_w;&c_n;&c_y;</trd>
+  <trdgrp lng="bg">
+    <trd>&c_s;&c_p;&c_je;&c_k;&c_u;&c_l;&c_a;&c_t;&c_i;&c_v;&c_je;&c_n;</trd>,
+    <trd>&c_u;&c_m;&c_o;&c_z;&c_r;&c_i;&c_t;&c_je;&c_l;&c_je;&c_n;</trd>
+  </trdgrp>
+  <trd lng="ca">especulatiu</trd>
+  <trd lng="de">spekulativ</trd>
+  <trd lng="en">speculative</trd>
+  <trd lng="es">especulativo</trd>
+  <trdgrp lng="hu">
+    <trd>spekulat&iacute;v</trd>,
+    <trd>elm&eacute;leti</trd>,
+    <trd>elvont</trd>
+  </trdgrp>
+  <trd lng="nl">speculatief</trd>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_p;&c_je;&c_k;&c_u;&c_l;&c_ja;&c_t;&c_i;&c_v;&c_n;&c_y;&c_j;</trd>,
+    <trd>&c_u;&c_m;&c_o;&c_z;&c_r;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="spekul2.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc>
+    <dif>
+      <tld lit="S"/>e koncepti:
+      <ekz>
+        pri tio la filozofoj povas nur <tld/>i per hipotezoj.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_p;&c_e;&c_k;&c_u;&c_l;&c_ja;&c_v;&c_a;&c_c;&c_mol; <klr tip="amb">(&c_r;&c_a;&c_z;&c_v;&c_a;&c_zh;&c_a;&c_c;&c_mol;)</klr></trd>
+  <trd lng="bg">&c_r;&c_a;&c_z;&c_m;&c_i;&c_sh;&c_l;&c_ja;&c_v;&c_a;&c_m;</trd>
+  <trd lng="en">speculate</trd>
+  <trd lng="es">especular</trd>
+  <trdgrp lng="hu">
+    <trd>spekul&aacute;l</trd>,
+    <trd>elm&eacute;lkedik</trd>
+  </trdgrp>
+  <trd lng="nl">bespiegelingen houden</trd>
+</drv>
+</art>
+<!--
+$Log: spekul2.xml,v $
+Revision 1.13  2013/08/30 16:10:21  revo
+Joop Eggen: +trd bg
+
+Revision 1.12  2005/12/06 17:33:21  revo
+Raul Salinas Monteagudo: +trd ca,es
+
+Revision 1.11  2004/10/21 16:32:10  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.10  2004/10/13 16:32:51  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.9  2003/03/18 17:31:29  revo
+Christopher Zervic: + ang
+
+Revision 1.8  2002/02/15 17:33:40  revo
+Yury Finkel: +trd ru
+
+Revision 1.7 2001/10/07 18:17:45 revo
+Dennis Wibrow: +trd germ
+
+Revision 1.6 2001/08/01 18:13:10 revo
+-->
+</vortaro>

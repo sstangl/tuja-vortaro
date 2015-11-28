@@ -1,0 +1,128 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: kojn.xml,v 1.17 2015/07/04 08:37:37 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>kojn</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="kojn.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="kojn.0o.TEK">
+    <dif>
+      Angulforma ligna a&ubreve; metala peco, kiun oni enigas en
+      ligna&jcirc;on a&ubreve; &scirc;tonon por &gcirc;in fendi, 
+      a&ubreve; kiun oni &scirc;ovas
+      sub pezan objekton por &gcirc;in levi:
+      <ekz>
+        <ind>oni elbatas <tld/>on per <tld/>o</ind>
+        <klr>(la novaj &ccirc;agrenoj forgesigas la anta&ubreve;ajn;
+        <ref tip="vid" cel="vund.0o">vundo</ref>)</klr>.
+        <trd lng="fr">un <ind>clou</ind> chasse l'autre</trd>
+        <trd lng="nl">een nieuwe <ind>wonde</ind> doet de oude
+        vergeten</trd>
+        <trd lng="ru">&c_k;&c_l;&c_i;&c_n; &c_k;&c_l;&c_i;&c_n;&c_o;&c_m;
+        &c_v;&c_y;&c_sh;&c_i;&c_b;&c_a;&c_ju;&c_t;</trd><fnt><bib>PrV</bib></fnt>
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_k;&c_l;&c_ib;&c_n;</trd>
+  <trd lng="br">genn</trd>
+  <trdgrp lng="cs">
+    <trd>klín</trd>,
+    <trd>kolík</trd>
+  </trdgrp>
+  <trd lng="de">Keil</trd>
+  <trdgrp lng="en">
+    <trd>wedge</trd>,
+    <trd>chock</trd>,
+    <trd>block</trd>
+  </trdgrp>
+  <trd lng="fr">coin<klr tip="ind"> (instrument)</klr></trd>
+  <trdgrp lng="nl">
+    <trd>keg</trd>,
+    <trd>wig</trd>
+    <trd>spie</trd>
+  </trdgrp>
+  <trd lng="ru">&c_k;&c_l;&c_i;&c_n;</trd>
+  <trd lng="sk">klin</trd>
+</drv>
+
+<drv mrk="kojn.0umi">
+  <kap><tld/>umi</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="kojn.0umi.KOMUNE">
+    <dif>
+      Preme enmeti inter:
+      <ekz>
+        <klr>[&gcirc;i]</klr> estis <tld/>uminta &scirc;tonpecon inter du dentojn
+        <fnt>
+          <aut>E. R. Burroughs, trad. K. R. C. Sturmer</aut>,
+          <vrk><url
+          ref="http://edu.i-lo.tarnow.pl/esp/lern/librejo/0029/index.php">
+          Princino de Marso</url></vrk>,
+          <lok>1938</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">zaklínovat</trd>
+  <trdgrp lng="fr">
+    <trd>coincer</trd>,
+    <trd>encogner</trd>
+  </trdgrp>
+  <trd lng="sk">zaklinovať</trd>
+</drv>
+
+<drv mrk="kojn.0formaskribo">
+  <kap><tld/>forma skribo</kap>
+  <snc mrk="kojn.0formaskribo.TIP">
+    <dif>
+      Okcidentazia grupo de skribsistemoj
+      konsistantaj el triangulaj, <tld/>osimilaj
+      enpremoj en argilo.
+    </dif>
+  </snc>
+  <trd lng="be">&c_k;&c_l;&c_ib;&c_n;&c_a;&c_p;&c_ib;&c_s;</trd>
+  <trd lng="br">skritur <ind>gennhe&ntilde;vel</ind></trd>
+  <trd lng="cs">klínové písmo</trd>
+  <trd lng="en">cuneiform</trd>
+  <trd lng="fr">&eacute;criture <ind>cun&eacute;iforme</ind></trd>
+  <trd lng="nl">spijkerschrift</trd>
+  <trd lng="ru">&c_k;&c_l;&c_i;&c_n;&c_o;&c_p;&c_i;&c_s;&c_mol;</trd>
+  <trd lng="sk">klinové písmo</trd>
+</drv>
+</art>
+<!--
+$Log: kojn.xml,v $
+Revision 1.17  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.15  2014/01/09 02:10:20  revo
+Jeromo Vasxe: + ~umi
+
+Revision 1.14  2009/09/01 04:53:26  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.13  2005/04/24 16:32:20  revo
+Alan ar Gall: +trd br
+
+Revision 1.12  2005/01/03 17:31:54  revo
+Marc Bavant: +trd en ekz
+
+Revision 1.11  2004/12/26 17:33:15  revo
+Marc Bavant: +trd fr
+
+Revision 1.10 2002/11/17 18:26:43 revo
+Dmitri Gabinski: +trd be
+
+Revision 1.9 2002/01/11 19:09:35 revo
+fontindiko PrV per programo de Jerome
+
+Revision 1.8 2002/01/03 17:33:23 revo
+-->
+</vortaro>

@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: animaci.xml,v 1.12 2015/07/04 08:37:30 revo Exp $">
+<kap>
+  <rad>animaci</rad>/o
+</kap>
+<drv mrk="animaci.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="animaci.0o.KIN">
+    <uzo tip="fak">KIN</uzo>
+    <dif>
+      Kreado kaj prezentado de desegnitaj movi&gcirc;antaj bildoj:
+      <ekz>
+        <tld/>oj estas multe pli efikaj pere de &Gcirc;avo
+        <fnt>
+          <aut>K. Lendon</aut>:
+          <lok><url ref="http://purl.oclc.org/net/klivo/gxavo">
+          Kio estas &Gcirc;avo?</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <bld lok="../bld/araneo.gif">
+      Ekzemplo pri <tld/>a bildo
+    </bld>
+    <rim>
+      Nomi tion <ctl>animado</ctl> estus okcidenta idioma&jcirc;o:
+      por ruso a&ubreve; greko <ctl>animita bildo, viza&gcirc;o</ctl>
+      havas sencon proksiman al <ctl>spiritoplena</ctl>;
+      logike <ctl>animita bildo</ctl> neniom pli esprimas
+      fizikan movon ol <ctl>bildo <em>psi&hcirc;o</em>logia</ctl>.
+      (Fakte en la okcidentaj lingvoj <ctl>animita</ctl>
+      signifas <ctl>viva</ctl>.)
+    </rim>
+  </snc>
+  <trd lng="be">&c_a;&c_n;&c_ib;&c_m;&c_a;&c_c;&c_y;&c_ja;</trd>
+  <trdgrp lng="cs">
+    <trd>animace</trd>,
+    <trd>oživování</trd>
+  </trdgrp>
+  <trd lng="de">Animation</trd>
+  <trd lng="en">animation</trd>
+  <trd lng="es">animaci&oacute;n</trd>
+  <trd lng="fr">animation<klr> (technique cin&eacute;matographique)</klr></trd>
+  <trd lng="hu">anim&aacute;ci&oacute;</trd>
+  <trd lng="nl">animatie</trd>
+  <trdgrp lng="ru">
+    <trd>&c_m;&c_u;&c_l;&c_mol;&c_t;&c_i;&c_p;&c_l;&c_i;&c_k;&c_a;&c_c;&c_i;&c_ja;</trd>,
+    <trd>&c_a;&c_n;&c_i;&c_m;&c_a;&c_c;&c_i;&c_ja;</trd>,
+    <trd>&c_s;&c_i;&c_n;&c_t;&c_je;&c_z; &c_d;&c_i;&c_n;&c_a;&c_m;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_h; &c_i;&c_z;&c_o;&c_b;&c_r;&c_a;&c_zh;&c_je;&c_n;&c_i;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>anim&aacute;cia</trd>,
+    <trd>oživovanie</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="animaci.0ajxo">
+  <kap><tld/>a&jcirc;o</kap>
+  <snc mrk="animaci.0ajxo.KIN">
+    <uzo tip="fak">KIN</uzo>
+    <dif>
+      <tld lit="A"/>a verko:
+      <ekz>
+        kiam &ccirc;i tiu <tld/>a&jcirc;o aperis, &gcirc;in kun
+        admiro akceptis kaj infanaj kaj adoltaj
+        spektantoj
+        <fnt>
+          <aut>K. &Scirc;vedov</aut>,
+          <vrk><url ref="http://filmoj.net/eta-vasilisa">
+          Eta Vasilisa</url></vrk>,
+          <lok>2009-2010</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">dessin anim&eacute;</trd>
+</drv>
+</art>
+<!--
+$Log: animaci.xml,v $
+Revision 1.12  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.11  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.10  2011/06/15 19:10:09  revo
+Jeromo Vasxe: + ~ajxo
+
+Revision 1.9  2008/10/20 18:43:17  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.8  2003/11/09 17:31:36  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.7  2002/09/07 17:41:16  revo
+Viliam Bur: +sk trd
+
+Revision 1.6  2002/05/09 18:46:08  revo
+Alejandro Mejia Greene: ald his trd
+
+Revision 1.5  2002/02/23 19:51:26  revo
+Yury Finkel: +trd ru
+
+Revision 1.4 2001/08/31 18:16:13 revo
+Paul Peeraerts: ald trd nl
+
+Revision 1.3 2001/06/05 18:10:47 revo
+-->
+</vortaro>

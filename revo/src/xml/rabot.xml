@@ -1,0 +1,135 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: rabot.xml,v 1.21 2015/08/24 17:10:16 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>rabot</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="rabot.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="rabot.0i.TEK">
+    <dif>
+      Ebenigi, glatigi kaj maldikigi lignon a&ubreve; metalon,
+      tran&ccirc;ante malebena&jcirc;ojn de la surfaco per speciala ilo.  
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="fajl.0i">fajli</ref>.
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_g;&c_a;&c_b;&c_l;&c_ja;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="bg">&c_r;&c_je;&c_zh;&c_a;</trd>
+  <trd lng="cs">hoblovat</trd>
+  <trd lng="de">hobeln</trd>
+  <trdgrp lng="en">
+    <trd>shave</trd>,
+    <trd>plane</trd>,
+    <trd>slice</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>aplanar</trd>,
+    <trd>alisar<klr tip="amb"> (madera o metal)</klr></trd>
+  </trdgrp>
+  <trd lng="fr">raboter</trd>
+  <trd lng="hu">gyalul</trd>
+  <trd lng="nl">schaven</trd>
+  <trdgrp lng="pl">
+    <trd>struga&cacute;</trd>,
+    <trd>heblowa&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+   <trd>aplainar</trd>,
+   <trd>lavrar</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_t;&c_r;&c_u;&c_g;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_s;&c_t;&c_r;&c_o;&c_g;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="sk">hob&lcaron;ova&tcaron;</trd>
+  <trd lng="sv">hyvla</trd>
+</drv>
+
+<drv mrk="rabot.0ilo">
+  <kap><tld/>ilo</kap>
+  <snc mrk="rabot.0ilo.TEK">
+    <dif>
+      Ilo por <tld/>i;
+      ekzistas permanaj rabotiloj por ligno
+      konsistantaj el klingo fiksita
+      en aparato por protekti la manon de la meblisto
+      kaj difini la dikecon de la rabota&jcirc;o;
+      ekzistas ma&scirc;inoj por raboti metalon funkciantaj en maniero
+      tre simila al torniloj.
+    </dif>
+  </snc>
+  <trd lng="be">&c_g;&c_e;&c_b;&c_je;&c_l;&c_mol;</trd>
+  <trd lng="bg">&c_r;&c_je;&c_z;&c_a;&c_ch;&c_k;&c_a;</trd>
+  <trd lng="cs">hobl&iacute;k</trd>
+  <trd lng="de">Hobel</trd>
+  <trd lng="en">slicer</trd>
+  <trd lng="fr">rabot</trd>
+  <trd lng="hu">gyalu</trd>
+  <trd lng="nl">schaaf</trd>
+  <trdgrp lng="pl">
+    <trd>strug</trd>,
+    <trd>hebel</trd>
+  </trdgrp>
+  <trd lng="ru">&c_r;&c_u;&c_b;&c_a;&c_n;&c_o;&c_k;</trd>
+  <trd lng="sk">hobl&iacute;k</trd>
+  <trd lng="sv">hyvel</trd>
+</drv>
+
+<drv mrk="rabot.0ajxo">
+  <kap><tld/>a&jcirc;o</kap>
+  <snc mrk="rabot.0ajxo.TEK">
+    <dif>
+      Maldikaj rubandaj pecetoj eltran&ccirc;itaj per <tld/>ado.
+    </dif>
+  </snc>
+  <trd lng="be">&c_g;&c_a;&c_b;&c_l;&c_ju;&c_sh;&c_k;&c_a;</trd>
+  <trd lng="bg">&c_t;&c_a;&c_l;&c_a;&c_sh;</trd>
+  <trdgrp lng="de">
+     <trd>Sp&auml;ne</trd>,
+     <trd>Hobelsp&auml;ne</trd>
+  </trdgrp>
+  <trd lng="en">shavings</trd>
+  <trd lng="fr">copeau</trd>
+  <trd lng="hu">gyaluforg&aacute;cs</trd>
+  <trd lng="nl">schaafkrullen</trd>
+  <trdgrp lng="pl">
+    <trd>wi&oacute;r</trd>,
+    <trd>str&oacute;&zdot;yna</trd>,
+    <trd>trocina</trd>
+  </trdgrp>
+  <trd lng="ru">&c_s;&c_t;&c_r;&c_u;&c_zh;&c_k;&c_a;</trd>
+  <trd lng="sv">hyvelsp&aring;n</trd>
+</drv>
+</art>
+<!--
+$Log: rabot.xml,v $
+Revision 1.21  2015/08/24 17:10:16  revo
+Jeromo Vasxe: aperato -> aparato
+
+Revision 1.20  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2014/03/21 21:10:17  revo
+Agustin Garcia Lopez: +trd(es)
+
+Revision 1.17  2013/12/09 19:10:11  revo
+Joop Eggen: +trd bg, en
+
+Revision 1.16  2012/08/24 06:10:12  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.15  2008/11/05 17:30:40  revo
+Peter Hauser: plilargxigi priskribon
+
+Revision 1.14  2006/02/07 17:32:30  revo
+-->
+</vortaro>

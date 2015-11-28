@@ -1,0 +1,552 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: divid.xml,v 1.39 2015/07/04 08:37:32 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>divid</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="divid.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="divid.0i.partigi">
+    <dif>
+      Fari partojn el tuto, apartigi partojn de tuto, partigi:
+      <ekz>
+        <tld/>i la kukon en 6 partojn, la&ubreve; 6 partoj;
+      </ekz>
+      <ekz>
+        li <tld/>is la homojn en du ta&ccirc;mentojn
+        <fnt><bib>MT</bib>, <lok>&Gen; 32:7</lok></fnt>;
+      </ekz>
+      <ekz>
+        la brovojn <tld/>is profunda sulko<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        Francujo estas <tld/>ita en departementojn;
+      </ekz>
+      <ekz>
+        <tld/>i sian tempon inter diversaj taskoj<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        la diverslingveco <tld/>as la homan familion;
+      </ekz>
+      <ekz>
+        <tld/>a sufikso;
+      </ekz>
+      <ekz>
+        la homaro <tld/>is sin batale<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        Nilo <tld/>i&gcirc;as en kelke da brakoj
+        <fnt><bib>Far1</bib>, <lok>Anta&ubreve;parolo</lok>)</fnt>;
+      </ekz>
+      <ekz>
+        la popolo <ind><tld/>i&gcirc;i</ind>s en du klasojn
+        <fnt><bib>Far1</bib>, <lok>Anta&ubreve;parolo</lok>)</fnt>;
+        <trd lng="ca">dividir-se</trd>
+        <trd lng="fr">se <ind>diviser</ind></trd>
+        <trd lng="hu">megoszlik</trd>
+      </ekz>
+      <ekz>
+        la korporacio <ind>sub<tld/>i&gcirc;i</ind>s la&ubreve; la diversaj
+        metioj<fnt>Z</fnt>.
+        <trd lng="ca">subdividir-se</trd>
+        <trd lng="fr">se <ind>subdiviser</ind></trd>
+        <trdgrp lng="hu">
+          <trd>tov&aacute;bb <ind>oszlik</ind></trd>,
+          <trd>tov&aacute;bb <ind>tagol&oacute;dik</ind></trd>
+        </trdgrp>
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="on">on</ref>,
+      <ref cel="dis">dis</ref>,
+      <ref cel="fend.0i">fendi</ref>,
+      <ref cel="du">duigi</ref>,
+      <ref cel="trancx.0i">tran&ccirc;i</ref>.
+    </refgrp>
+    <trdgrp lng="ca">
+      <trd>partir</trd>,
+      <trd>fraccionar</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>megoszt</trd>,
+      <trd>tagol</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="divid.0i.disdoni">
+    <dif>
+      Disdoni al &ccirc;iu lian parton:
+      <ekz>
+        la patro <tld/>is la pomojn inter la infanoj.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="distri.0i">distribui</ref>,
+      <ref cel="part.0igi">dispartigi</ref>.
+    </refgrp>
+    <trd lng="ca">distribuir</trd>
+    <trd lng="hu">sz&eacute;toszt</trd>
+  </snc>
+  <snc mrk="divid.0i.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>MatTerm</bib><lok>p. 9</lok></fnt>
+    <dif>
+      Plenumi la operacion <ref cel="divid.0o"><tld/>o</ref>:
+      <ekz>
+        <tld/>i <frm>10</frm> per <frm>2</frm>;
+      </ekz>
+      <ekz>
+        <frm>5</frm> dividite per <frm>2</frm> estas <frm>2&#189;</frm>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="divizo.0i">divizori</ref>,
+      <ref cel="on.0igi.MAT">onigi</ref>.
+    </refgrp>
+    <trd lng="de">dividieren</trd>
+    <trd lng="fr">diviser</trd>
+    <trd lng="hu">(el)<ind>oszt</ind></trd>
+    <trd lng="pl">dzieli&cacute;</trd>
+  </snc>
+  <snc mrk="divid.0i.preni">
+    <dif>
+      Preni &ccirc;iu sian parton el komuna tuto:
+      <ekz>
+        <tld/>i heredon kune kun fratoj
+        <fnt><bib>MT</bib>, <lok>&Sen; 17:2</lok></fnt>;
+      </ekz>
+      <ekz>
+        kiu <tld/>as kun &scirc;telisto, tiu malamas sian animon
+        <fnt><bib>MT</bib>, <lok>&Sen; 29:24</lok></fnt>;
+      </ekz>
+      <ekz>
+        <tld/>i kun iu la mizeron<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        <tld/>i kun iu &ccirc;iujn dan&gcirc;erojn de la vojo.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="pren">partopreni</ref>.
+    </refgrp>
+    <trd lng="hu">megoszt</trd>
+  </snc>
+  <trd lng="ca">dividir</trd>
+  <trdgrp lng="cs">
+    <trd>d&ecaron;lit</trd>,
+    <trd>dělit</trd>,
+    <trd>rozdělit</trd>,
+    <trd>členit</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>teilen</trd>
+    <!-- trd>dividieren <klr>(en matematiko)</klr></trd -->
+  </trdgrp>
+  <trd lng="en">divide</trd>
+  <trd lng="es">dividir</trd>
+  <trdgrp lng="fr">
+    <trd>d&eacute;couper</trd>,
+    <trd>diviser</trd>,
+    <trd>fractionner</trd>,
+    <trd>partager</trd>,
+    <trd>s&eacute;parer</trd>,
+    <trd>scinder</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>dividir</trd>,
+    <trd>repartir</trd>,
+    <trd>desmembrar</trd>
+  </trdgrp>
+  <trd lng="ru">&c_d;&c_je;&c_l;&c_i;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>deliť</trd>,
+    <trd>členiť</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="divid.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="divid.0o.KOMUNE">
+    <dif>
+      Ago a&ubreve; rezulto <tld/>i:
+      <ekz>
+        fari traktaton pri la <tld/>o de la landoj, kiuj ku&scirc;as inter
+        nia maro kaj la rivero E&ubreve;frato
+        <fnt><bib>Far1</bib>, <lok>&ccirc;ap. 25</lok></fnt>;
+      </ekz>
+      <ekz>
+        la vorto de Dio estas <klr>[...]</klr> pli akra ol &ccirc;ia glavo
+        dutran&ccirc;a, kaj penetranta &gcirc;is divido de la animo
+        kaj spirito
+        <fnt><bib>NT</bib>, <lok>&Heb; 4:12</lok></fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="fr">
+      <trd>d&eacute;limitation</trd>,
+      <trd>division<klr tip="ind"> (s&eacute;paration, partage)</klr></trd>,
+      <trd>partage</trd>,
+      <trd>s&eacute;paration</trd>,
+      <trd>scission</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>eloszt&aacute;s</trd>,
+      <trd>sz&eacute;toszt&aacute;s</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="divid.0o.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>PIV1</bib></fnt>
+    <dif>
+      <ref tip="super" cel="operac.0o.MAT">Operacio</ref> inversa al
+      <ref cel="multip.0o">multipliko</ref>, t.e.
+      ebliganta per produto (la <ref cel="divid.0ato">dividato</ref>)
+      kaj unu el la <ref cel="faktor.0o.multip">faktoroj</ref>
+      (la <ref cel="divid.0anto">dividanto</ref>) trovi la alian
+      faktoron 
+      (la <ref tip="prt" cel="kvocie.0o.ekzakta">kvocienton</ref>):
+      <ekz>
+        <frm>27:3 = 9</frm> a&ubreve;
+        <frm>27/3 = 9</frm> 
+        <klr>(legu: dudek sep <tld/>ite per tri estas na&ubreve;, a&ubreve;:
+        dudek sep sur tri estas na&ubreve;)</klr>.
+      </ekz>
+    </dif>
+    <rim>
+      Por distingi &ccirc;i tiun operacion de la 
+      <ref cel="divid.euxklida0o">e&ubreve;klida <tld/>o</ref>, oni foje
+      kvalifikas &gcirc;in <ctl>ekzakta</ctl>.
+    </rim>
+    <rim>
+      Kelkaj uzas la prepozicion <ctl>per</ctl> por vo&ccirc;legi la dupunkton
+      a&ubreve; la frakcistrekon, simbolantan la operacion. Tio estas evitinda,
+      &ccirc;ar la sama prepozicio aperas en pluraj similaj esprimoj:
+      <ekz>
+        multiplikite per,
+      </ekz>
+      <ekz>
+        potencigite per...
+      </ekz>
+    </rim>
+    <adm>
+      Mi ne trovis fonton pli fruan. Bricard uzas "~o" kun la senco de
+      "euxklida ~o" (p. 11), sed mi ne cxion trasercxis. 
+      <aut>MB</aut>
+    </adm>
+    <refgrp tip="vid">
+      <ref cel="frakci.0o.MAT">frakcio</ref>,
+      <ref cel="numera1.0o">numeratoro</ref>,
+      <ref cel="denomi.0o">denominatoro</ref>,
+      <ref cel="divid.euxklida0o">e&ubreve;klida divido</ref>,
+      <ref cel="divizo.0o">divizoro</ref>
+    </refgrp>
+    <trd lng="fr">division<klr tip="ind"> (math.)</klr></trd>
+    <trd lng="hu">oszt&aacute;s</trd>
+    <trd lng="pl">dzielenie</trd>
+  </snc>
+  <trd lng="ca">divisi&oacute;</trd>
+  <trdgrp lng="cs">
+    <trd>dělení</trd>,
+    <trd>rozdělení</trd>
+  </trdgrp>
+  <trd lng="de">Division</trd>
+  <trd lng="en">division</trd>
+  <trd lng="es">divisi&oacute;n</trd>
+  <trd lng="ru">&c_d;&c_je;&c_l;&c_je;&c_n;&c_i;&c_je; <klr>(&c_t;&c_o;&c_ch;&c_n;&c_o;&c_je;)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>delenie</trd>,
+    <trd>rozdelenie</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="divid.0ajxo">
+  <kap><tld/>a&jcirc;o</kap>
+  <snc>
+    <dif>
+      <ref tip="sin" cel="part.0o">Parto</ref>.
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="fak.0o">fako</ref>,
+      <ref cel="brancx.0o">bran&ccirc;o</ref>,
+      <ref cel="sekci.0o">sekcio</ref>.
+    </refgrp>
+  </snc>
+  <trdgrp lng="ca">
+    <trd>part</trd>,
+    <trd>fracci&oacute;</trd>
+  </trdgrp>
+  <trd lng="de">Teil</trd>
+  <trd lng="es">divisi&oacute;nr</trd>
+  <trdgrp lng="fr">
+    <trd>fraction<klr tip="ind"> (part)</klr></trd>,
+    <trd>part</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>(kiosztott) <ind>r&eacute;sz</ind></trd>,
+    <trd>r&eacute;szesed&eacute;s</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_d;&c_o;&c_l;&c_ja;</trd>,
+    <trd>&c_ch;&c_a;&c_s;&c_t;&c_mol;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="divid.0anto">
+  <kap><tld/>anto</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>MatTerm</bib><lok>p. 9</lok></fnt>
+  <snc>
+    <dif>
+      La nombro, per kiu oni <ref cel="divid.0i.MAT"><tld/>as</ref>.
+    </dif>
+  </snc>
+  <trd lng="ca">divisor</trd>
+  <trd lng="cs">dělitel</trd>
+  <trd lng="de">Divisor</trd>
+  <trd lng="en">divisor<klr tip="ind"> (in a division)</klr></trd>
+  <trd lng="es">divisor</trd>
+  <trd lng="fr">diviseur<klr tip="ind"> (dans une division)</klr></trd>
+  <trd lng="hu">oszt&oacute;</trd>
+  <trd lng="pl">dzielnik<klr tip="ind"> (w dzia&lstroke;aniu
+  dzielenia)</klr></trd>
+  <trd lng="ru">&c_d;&c_je;&c_l;&c_i;&c_t;&c_je;&c_l;&c_mol;<klr tip="ind"> (&c_p;&c_r;&c_i; &c_d;&c_je;&c_l;&c_je;&c_n;&c_i;&c_i;)</klr></trd>
+  <trd lng="sk">deliteľ</trd>
+</drv>
+
+<drv mrk="divid.0ato">
+  <kap><tld/>ato</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>MatTerm</bib><lok>p. 9</lok></fnt>
+  <snc>
+    <dif>
+      La nombro, kiun oni <ref cel="divid.0i.MAT"><tld/>as</ref>.
+    </dif>
+  </snc>
+  <trd lng="ca">dividend</trd>
+  <trdgrp lng="cs">
+    <trd>dělenec</trd>,
+    <trd>čitatel</trd>
+  </trdgrp>
+  <trd lng="de">Dividend</trd>
+  <trd lng="en">dividend</trd>
+  <trd lng="es">dividendo</trd>
+  <trd lng="fr">dividende<klr tip="ind"> (dans une division)</klr></trd>
+  <trd lng="hu">osztand&oacute;</trd>
+  <trd lng="pl">dzielna</trd>
+  <trd lng="ru">&c_d;&c_je;&c_l;&c_i;&c_m;&c_o;&c_je;</trd>
+  <trd lng="sk">delenec</trd>
+</drv>
+
+<drv mrk="divid.0ebla">
+  <kap><tld/>ebla</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>MatTerm</bib><lok>p. 46</lok></fnt>
+  <snc mrk="divid.0ebla.MAT">
+    <dif>
+      <klr>(p.p. du elementoj <frm><k>a</k></frm> kaj
+      <frm><k>b</k></frm> de
+      <ref cel="ring.0o.MAT">ringo</ref>)</klr>
+      Oni diras, ke <frm><k>a</k></frm> estas <tld/>ebla per 
+      <frm><k>b</k></frm>, se <frm><k>b</k></frm> estas
+      <ref cel="divizo.0o.ringo">divizoro</ref> de <frm><k>a</k></frm>:
+      <ekz>
+        se <frm><k>a</k></frm> estas <tld/>ebla per <frm><k>b</k></frm>,
+        
+        oni signas tion per la skriba&jcirc;o
+        
+        <frm><k>b</k>|<k>a</k></frm>;
+      </ekz>
+      <ekz>
+        dekume skribita nombro estas <tld/>ebla per <frm>5</frm>, se 
+        &gcirc;ia lasta cifero estas <frm>0</frm> a&ubreve; <frm>5</frm>;
+      </ekz>
+      <ekz>
+        kriterioj pri <ind><tld/>eblo</ind>.
+        <trd lng="ca">divisibilitat</trd>
+        <trd lng="de">Teilbarkeit</trd>
+        <trd lng="en">divisibility</trd>
+        <trd lng="fr">divisibilit&eacute;</trd>
+        <trd lng="hu">oszthat&oacute;s&aacute;g</trd>
+        <trdgrp lng="pl">
+          <trd>dzielno&sacute;&cacute;</trd>,
+          <trd>podzielno&sacute;&cacute;</trd></trdgrp> 
+        <trd lng="ru">&c_d;&c_je;&c_l;&c_i;&c_m;&c_o;&c_s;&c_t;&c_mol;</trd>
+      </ekz>
+    </dif>
+    <rim>
+      Tiu senco aperas nerekte anka&ubreve; en
+      <fnt><bib>PV</bib><lok>prima</lok></fnt>, sed
+      <fnt><bib>PIV1</bib></fnt> ne plu konas &gcirc;in kaj enkondukis
+      <ctl>divizorebla</ctl> (vd rimarkon sub 
+      <ref cel="divizo.0i">divizori</ref>) anstata&ubreve;e.
+      Werner <fnt><bib>MatVort</bib></fnt> provas distingi 
+      <ctl><tld/>ebla</ctl> (germane: teilbar) disde
+      <ctl>divizorebla</ctl> 
+      (germane: teilbar ohne Reste), sed &scirc;ajnas al ni, ke kiam oni 
+      parolas pri <tld/>eblo, oni &ccirc;iam subkomprenas 
+      <ctl>sen resto</ctl> (alie &ccirc;io estas <tld/>ebla per &ccirc;io, 
+      escepte per <frm>0</frm>). En &ccirc;i tiu verko ni do preferis resti 
+      &ccirc;e  <ctl><tld/>ebla</ctl> kun la nerekta apogo de 
+      <fnt><bib>PIV2</bib><lok>kongrui</lok></fnt>, kiu
+      anstata&ubreve;igis <ctl>divizorebla</ctl> per <ctl><tld/>ebla</ctl>
+      en la difino.
+    </rim>  
+  </snc>
+  <trd lng="ca">divisible</trd>
+  <trd lng="cs">dělitelný</trd>
+  <trd lng="de">teilbar</trd>
+  <trd lng="en">divisible</trd>
+  <trd lng="es">divisible</trd>
+  <trd lng="fr">divisible</trd>
+  <trd lng="hu">oszthat&oacute;</trd>
+  <trdgrp lng="pl">
+    <trd>dzielny</trd>,
+    <trd>podzielny</trd></trdgrp>
+  <trd lng="ru">&c_d;&c_je;&c_l;&c_i;&c_m;&c_y;&c_j;</trd>
+  <trd lng="sk">deliteľný</trd>
+</drv>
+
+<drv mrk="divid.cxel0igxo">
+  <kap>&ccirc;el<tld/>i&gcirc;o, <var><kap>&ccirc;ela <tld/>i&gcirc;o</kap></var></kap>
+  <snc mrk="divid.cxel0igxo.FIZL">
+    <uzo tip="fak">FIZL</uzo>
+    <dif>
+      Procezo per kiu el unu &ccirc;elo esti&gcirc;as pluraj,
+      ordinare per disdui&gcirc;o:
+      <ekz>
+        la kontra&ubreve;tumora efiko estas rezulto ne de <klr>...</klr> 
+        blokado de &ccirc;el<tld/>i&gcirc;o, sed &gcirc;i estas rezulto de &ccirc;el-detruado
+        <fnt>
+          <aut>-</aut>,
+          <vrk><url
+          ref="http://www.freeweb.hu/eventoj/steb/inventajxoj/culevit/culevit-eo.htm">
+          La pasiva antitumora defenda sistemo</url></vrk>,
+          <lok>[vidita en 2010]</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Rudolph Virchow asertis ke &ccirc;eloj &ccirc;iam eki&gcirc;as el &ccirc;ela <tld/>i&gcirc;o
+        <fnt>
+          <bib>Viki</bib>,
+          <lok><url
+          ref="http://eo.wikipedia.org/wiki/%C4%88elo_(biologio)">
+          &ccirc;elo</url>, 2010-08-24</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="ca">divisi&oacute; cel&middot;lular</trd>
+  <trd lng="de">Zellteilung</trd>
+  <trd lng="en">cell division</trd>
+  <trd lng="fr">division cellulaire</trd>
+</drv>
+
+<drv mrk="divid.0o_kun_resto">
+  <kap><tld/>o kun resto</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>MatVort</bib></fnt>
+  <snc>
+    <ref tip="dif" cel="divid.euxklida0o">e&ubreve;klida <tld/>o.</ref>
+  </snc>
+  <trd lng="ca">divisi&oacute; entera</trd>
+  <trd lng="cs">dělení se zbytkem</trd>
+  <trd lng="de">Division mit Rest</trd>
+  <trd lng="en">division with remainder</trd>
+  <trd lng="fr">division euclidienne</trd>
+  <trd lng="hu">marad&eacute;kos <ind>oszt&aacute;s</ind></trd>
+  <trd lng="pl">dzielenie z reszt&aogonek;</trd>
+  <trd lng="ru">&c_d;&c_je;&c_l;&c_je;&c_n;&c_i;&c_je; &c_s; &c_o;&c_s;&c_t;&c_a;&c_t;&c_k;&c_o;&c_m;</trd>
+  <trd lng="sk">delenie so zvyškom</trd>
+</drv>
+
+<drv mrk="divid.euxklida0o">
+  <kap>e&ubreve;klida <tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <snc>
+    <dif>
+      <klr>(de elemento <frm><k>a</k></frm> de
+      <ref cel="ring.euxklida0o">e&ubreve;klida ringo</ref>
+      per elemento <frm><k>b</k></frm>)</klr>
+      Operacio, per kiu al la paro <frm>(<k>a</k>,<k>b</k>)</frm> oni
+      asocias
+      paron <frm>(<k>q</k>,<k>r</k>)</frm>, konsistanta el ilia 
+      <ref cel="kvocie.0o.euxklida">kvociento</ref> kaj
+      <ref cel="rest.0o.euxklida">resto</ref>:
+      <ekz>
+        kadre de elementa aritmetiko, la e&ubreve;klida <tld/>o
+        de entjero <frm><k>a</k></frm> per entjero <frm><k>b</k></frm>
+        ebligas
+        trovi du tiajn entjerojn <frm><k>q</k></frm> kaj
+        <frm><k>r</k></frm>, 
+        ke <frm><k>a</k> = <k>b</k>&#215;<k>q</k>+<k>r</k></frm> 
+        kaj <frm>0 &#8804; |<k>r</k>| &lt; <k>b</k></frm>;
+      </ekz>
+      <ekz>
+        la e&ubreve;klida algoritmo konsistas el sinsekvaj
+        e&ubreve;klidaj <tld/>oj;
+      </ekz>
+      <ekz>
+        la paron <frm>(<k>q</k>,<k>r</k>)</frm> oni nomas rezulto de la 
+        e&ubreve;klida <tld/>o;
+      </ekz>
+      <ekz>
+        &ccirc;e e&ubreve;klida divido de
+        <frm><g>X</g><sup>2</sup>+<g>1</g></frm> per <frm><g>X</g></frm>
+        
+        oni ricevas <frm>(<g>X</g>,<g>1</g>)</frm>;
+      </ekz>
+      <ekz>
+        en la aro de entjeroj la rezulto de e&ubreve;klida <tld/>o
+        estas unika kun la aldona kondi&ccirc;o, ke 
+        <frm><k>r</k> &#8805; 0</frm>.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="divid.0o_kun_resto"><tld/>o kun resto;</ref>
+    <refgrp tip="vid">
+      <ref cel="euxkli.0o">E&ubreve;klido</ref>.
+    </refgrp>
+  </snc>
+  <trd lng="ca">divisi&oacute; euclidiana</trd>
+  <trd lng="de">Division mit Rest</trd>
+  <trd lng="en">division with remainder</trd>
+  <trd lng="fr">division euclidienne</trd>
+  <trd lng="hu">euklideszi <ind>oszt&aacute;s</ind></trd>  
+  <trd lng="pl">dzielenie z reszt&aogonek;</trd>
+  <trd lng="ru">&c_d;&c_je;&c_l;&c_je;&c_n;&c_i;&c_je; &c_s; &c_o;&c_s;&c_t;&c_a;&c_t;&c_k;&c_o;&c_m;</trd>
+</drv>
+
+</art>
+<!--
+$Log: divid.xml,v $
+Revision 1.39  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.38  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.37  2012/01/01 15:10:09  revo
+Marc Rausell: +trd ca
+
+Revision 1.36  2010/09/24 16:30:19  revo
+Wieland Pusch: +trd de+en
+
+Revision 1.35  2010/09/20 16:30:19  revo
+Jeromo Vasxe: + cxel~igxo
+
+Revision 1.34  2007/08/11 16:30:30  revo
+Tulio Flores: +tr pt
+
+Revision 1.33  2005/12/26 19:20:52  revo
+Jeromo Vasxe: bib X -> NT
+
+Revision 1.32  2005/05/28 16:32:12  revo
+Marc Bavant: kor duobligitajn punktojn
+
+Revision 1.31  2005/05/24 16:34:40  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.30  2004/11/23 17:31:52  revo
+-->
+</vortaro>

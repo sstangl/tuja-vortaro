@@ -1,0 +1,131 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: krater.xml,v 1.20 2015/07/04 08:37:38 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>krater</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="krater.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="krater.0o.VAZ">
+    <uzo tip="fak">HIS</uzo>
+    <dif>
+      Lar&gcirc;a <ref tip="super" cel="vaz.0o.VAZ">vazo</ref>, en kiu
+      antikvaj grekoj miksis vinon kaj akvon por festenoj:
+      <ekz>
+	Aliato <klr>...</klr> dedi&ccirc;is al Delfoj grandan ar&gcirc;entan
+	<tld/>on
+	<fnt>
+	  <aut>Herodoto, trad. S. Sarafian</aut>,
+	  <vrk>Historio</vrk>,
+	  <lok>2006</lok>
+	</fnt>.
+      </ekz>
+    </dif>
+    <trd lng="en">krater</trd>
+    <trdgrp lng="hu">
+      <trd>crater</trd>,
+      <trd>vegy&iacute;t&odblac; ed&eacute;ny</trd>
+    </trdgrp>
+    <trd lng="nl">amfora</trd>
+  </snc>
+  <snc mrk="krater.0o.GEOL">
+    <uzo tip="fak">GEOL</uzo>
+    <dif>
+      Elsputejo, malferma&jcirc;o de <ref tip="malprt"
+      cel="vulkan.0o">vulkano</ref>, tra
+      kiu &gcirc;i el&jcirc;etas brulajn materiojn, lafon...:
+      <ekz>
+	submara tertremo pro la eksplodo de la <tld/>o
+	<fnt>
+	  <aut>E. Georgiev</aut>,
+	  <vrk>Vulkanoj</vrk>,
+	  <bib>Monato</bib>,
+	  <lok>jaro 2001a, numero 2a, p. 22a</lok>
+	</fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="abism.0o">abismo</ref>,
+      <ref cel="fauxk.0o">fa&ubreve;ko</ref>
+    </refgrp>
+    <trd lng="en">crater</trd>
+    <trd lng="es">cr&aacute;ter</trd>
+    <trd lng="hu">kr&aacute;ter</trd>
+    <trd lng="nl">krater</trd>
+    <trd lng="sv">krater</trd>
+  </snc>
+  <trd lng="be">&c_k;&c_r;&c_a;&c_t;&c_e;&c_r;</trd>
+  <trdgrp lng="cs">
+    <trd>jícen sopky</trd>,
+    <trd>kráter</trd>
+  </trdgrp>
+  <trd lng="de">Krater</trd>
+  <trd lng="fr">crat&egrave;re</trd>
+  <trd lng="pt">cratera</trd>
+  <trd lng="ru">&c_k;&c_r;&c_a;&c_t;&c_je;&c_r;</trd>
+  <trd lng="sk">krátér</trd>
+</drv>
+
+<drv mrk="krater.frap0o">
+  <kap>frap<tld/>o, <var><kap>frapo<tld/>o</kap></var></kap>
+  <snc mrk="krater.frap0o.GEOL">
+    <uzo tip="fak">GEOL</uzo>
+    <dif>
+      <ref tip="vid" cel="krater.0o.GEOL"><tld lit="K"/>o</ref>forma
+      baseno, kiun ka&ubreve;zis meteor&scirc;tono falegante sur la grundon de solida
+      
+      planedo:
+      <ekz>
+        la teamo de la Universitato de Padovo <klr>...</klr> aldonas, 
+        ke la drenada skemo en la ringo estas tre
+        simila al tiuj trovitaj en granda frap<tld/>oj en humidaj 
+        medioj
+        <fnt>
+          <aut>-</aut>,
+          <vrk><url
+          ref="http://www.eventeo.net/web/index.php/categoryblog/1858-nova-kratero-eltrovita-en-afriko">
+          Nova frapkratero eltrovita en Afriko</url></vrk>,
+          <lok>eventeo, 2010-03-15</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="en">impact crater</trd>
+  <trd lng="fr">crat&egrave;re d'impact</trd>
+</drv>
+</art>
+<!--
+$Log: krater.xml,v $
+Revision 1.20  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2011/02/08 11:10:18  revo
+Russ Williams: +trd en
+
+Revision 1.17  2010/05/17 16:30:35  revo
+Jeromo Vasxe: + frap~o
+
+Revision 1.16  2009/09/13 16:57:10  revo
+Paul Peeraerts: +nl
+
+Revision 1.15  2008/11/05 17:31:54  revo
+Marc Bavant: kor ref cel al "vulkano"
+
+Revision 1.14  2008/10/03 18:16:25  revo
+Jeromo Vasxe: + ekz cxe snc his
+
+Revision 1.13  2006/11/02 17:31:42  revo
+Tulio Flores: +tr pt
+
+Revision 1.12  2003/06/17 16:30:38  revo
+Elmer D. Escoto: Aldonis hispanan tradukon
+
+Revision 1.11  2002/12/23 17:31:34  revo
+-->
+</vortaro>

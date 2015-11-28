@@ -1,0 +1,149 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: genera1.xml,v 1.24 2015/07/04 08:37:35 revo Exp $">
+<kap><ofc>*</ofc>
+<rad>general</rad>/o</kap>
+<drv mrk="genera1.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">MIL</uzo>
+  <snc>
+    <dif>
+      En terarmeo kaj aerarmeo,
+      <ref tip="super" cel="oficir.0o.MIL">oficiro</ref>, kiu rangas
+      super <ref cel="kolone.0o">kolonelo</ref>:
+      <ekz>
+        via <tld/>a mo&scirc;to
+        <fnt><bib>F</bib>, <lok>Universala Vortaro, &ccirc;e
+        mo&scirc;to</lok></fnt>;
+      </ekz>
+      <ekz>
+        <ind>brigada <tld/>o</ind>,
+        <trd lng="fr">g&eacute;n&eacute;ral de brigade</trd>
+        <trd lng="it">generale di brigata<klr> (OF6)</klr></trd>
+      </ekz>
+      <ekz>
+        <ind>divizia <tld/>o</ind>,
+        <trd lng="fr">g&eacute;n&eacute;ral de division</trd>
+        <trd lng="it">generale di divisione<klr> (OF7)</klr></trd>
+      </ekz>
+      <ekz>
+        <ind>korpusa <tld/>o</ind>,
+        <trd lng="fr">g&eacute;n&eacute;ral de corps d'arm&eacute;e</trd>
+        <trdgrp lng="it">
+        <trd>generale di corpo d'armata<klr> (OF8)</klr></trd>, 
+        <trd>generale di squadra<klr> (aeronautica - OF8)</klr></trd>
+        </trdgrp>
+      </ekz>
+      <ekz>
+        <ind>armea <tld/>o</ind>
+        <trdgrp lng="it">
+  <trd>generale <klr>(OF9 - dal 1997)</klr></trd>, 
+  <trd>generale d'armata <klr>(OF9 - prima del 1997)</klr></trd>
+        </trdgrp>
+        <klr>(komandantaj respektive:
+        <refgrp tip="vid">
+          <ref cel="brigad.0o.MIL">brigadon</ref>,
+          <ref cel="divizi.0o.MIL">divizion</ref>,
+          <ref cel="korpus.0o.MIL">korpuson</ref> kaj
+          <ref cel="arme.0o.sxtata">armeon</ref>
+        </refgrp>
+        ).</klr>
+        <trd lng="fr">g&eacute;n&eacute;ral d'arm&eacute;e</trd>
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_g;&c_je;&c_n;&c_e;&c_r;&c_a;&c_l;</trd>
+  <trdgrp lng="cs">
+    <trd>generál</trd>,
+    <trd>jenerál</trd>,
+    <trd>velmistr řádu</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>General</trd>,
+    <trd>Heerf&uuml;hrer</trd>
+  </trdgrp>
+  <trd lng="en">general</trd>
+  <trd lng="es">general</trd>
+  <trd lng="fr">g&eacute;n&eacute;ral<klr tip="ind"> (militaire)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>t&aacute;bornok</trd>,
+    <trd>gener&aacute;lis</trd>
+  </trdgrp>
+  <trd lng="it">generale<klr tip="ind"> (grado)</klr></trd>
+  <trd lng="nl">generaal</trd>
+  <trd lng="no">general</trd>
+  <trd lng="pt">general</trd>
+  <trd lng="ru">&c_g;&c_je;&c_n;&c_je;&c_r;&c_a;&c_l;</trd>
+  <trd lng="sk">generál</trd>
+  <trd lng="sv">general</trd>
+  <trd lng="tr">general</trd>
+</drv>
+
+<drv mrk="genera1.cxef0o">
+  <kap>&ccirc;ef<tld/>o</kap>
+  <uzo tip="fak">MIL</uzo>
+  <snc>
+    <dif>
+      Plej supera <tld/>o, kiu komandas la tutan militistaron kaj
+      &ccirc;iujn
+      aliajn <tld/>ojn de lando a&ubreve; liganaro.
+    </dif>
+  </snc>
+  <trd lng="be">
+&c_g;&c_je;&c_n;&c_e;&c_r;&c_a;&c_l;&c_ib;&c_s;&c_ib;&c_m;&c_u;&c_s;</trd>
+  <trdgrp lng="de">
+    <trd>Feldmarschall</trd>,
+    <trd>Generalfeldmarschall</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>commander in chief</trd>,
+    <trd>supreme commander</trd>,
+    <trd>gerneralissimo</trd>
+  </trdgrp>
+  <trd lng="es">capit&aacute;n general</trd>
+  <trd lng="fr">g&eacute;n&eacute;ral en chef</trd>
+  <trd lng="nl">veldmaarschalk</trd>
+  <trd lng="pt">general&iacute;ssimo</trd>
+  <trd lng="ru">
+&c_g;&c_je;&c_n;&c_je;&c_r;&c_a;&c_l;&c_i;&c_s;&c_s;&c_i;&c_m;&c_u;&c_s;</trd>
+  <trdgrp lng="it">
+  <trd>capo di Stato Maggiore della Difesa<klr> (dal 1997)</klr></trd>,
+  <trd>capo di Stato Maggiore<klr> (dal 1948 al 1997)</klr></trd>,
+  <trd>Maresciallo<klr> (durante Regno d'Italia)</klr></trd>,
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: genera1.xml,v $
+Revision 1.24  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.23  2015/06/29 16:29:39  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.22  2015/04/03 09:10:16  revo
+Carlos Garcia: +trd es -o cxef-o
+
+Revision 1.21  2014/11/23 23:10:18  revo
+Filip van Laenen: +trd(no)
+
+Revision 1.20  2009/08/24 16:31:32  revo
+Emmanuel Debanne: +trd tr
+
+Revision 1.19  2009/03/05 17:30:35  revo
+Antonio Codazzi: +trd it
+
+Revision 1.18  2009/02/10 14:18:12  revo
+Sebastian Cyprych: -fusxaj linirompoj en trd
+
+Revision 1.17  2006/09/17 16:30:54  revo
+Russ Williams: +trd en
+
+Revision 1.16  2005/08/18 16:32:02  revo
+Luiz Portella: +trd pt
+
+Revision 1.15  2005/08/14 16:31:56  revo
+-->
+</vortaro>

@@ -1,0 +1,142 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: pari.xml,v 1.18 2015/07/04 08:37:41 revo Exp $">
+<kap>
+  <rad>pari</rad>/o
+</kap>
+<drv mrk="pari.0o">
+  <kap><tld/>o</kap>
+  <snc>
+    <dif>
+      Homo el la lasta, plej mal&scirc;atata kasto &ccirc;e la Hindoj.
+    </dif>
+    <trd lng="ca">p&agrave;ria</trd>
+    <trd lng="de">Paria</trd>
+    <trd lng="en">untouchable</trd>
+    <trd lng="es">paria</trd>
+    <trd lng="fr">intouchable<klr> (subst.)</klr></trd>
+    <trd lng="hu">p&aacute;ria</trd>
+    <trdgrp lng="it">
+      <trd>paria</trd>,
+      <trd>intoccabile</trd>
+    </trdgrp>
+    <trd lng="nl">paria</trd>
+    <trd lng="pl">parias</trd>   
+    <trd lng="pt">p&aacute;ria</trd>
+    <trd lng="ru">&c_p;&c_a;&c_r;&c_i;&c_ja;</trd>
+  </snc>
+  <snc>
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Mizerulo de &ccirc;iuj mal&scirc;atata.
+    </dif>
+    <trd lng="ca">p&agrave;ria</trd>
+    <trdgrp lng="de">
+      <trd>Paria</trd>,
+      <trd>Au&szlig;enseiter</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>pariah</trd>,
+      <trd>outcaste</trd>
+    </trdgrp>
+    <trd lng="es">paria</trd>
+    <trd lng="fr">paria</trd>
+    <trd lng="hu">p&aacute;ria</trd>
+    <trdgrp lng="it">
+      <trd>paria<klr> (fig.)</klr></trd>,
+      <trd>reietto</trd>
+    </trdgrp>
+    <trd lng="nl">paria</trd>
+    <trd lng="pl">parias</trd>   
+    <trd lng="pt">p&aacute;ria</trd>
+    <trdgrp lng="ru">
+      <trd>&c_p;&c_a;&c_r;&c_i;&c_ja;</trd>,
+      <trd>&c_i;&c_z;&c_g;&c_o;&c_j;</trd>,
+      <trd>&c_o;&c_t;&c_v;&c_je;&c_r;&c_zh;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>
+    </trdgrp>
+  </snc>
+  <snc>
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      Interna surfaco de cilindro, vazo, tubo, a&ubreve; alispeca objekto.
+    </dif>
+    <trd lng="de">Innenfl&auml;che</trd>
+    <trd lng="fr">paroi</trd>
+    <trd lng="hu">bels&odblac; <ind>fel&uuml;let</ind><klr tip="ind">
+(testszervben)</klr></trd>
+    <trd lng="it">superficie<klr> interna</klr></trd>
+    <trd lng="nl">binnenwand</trd>
+    <trd lng="pl">&sacute;cianka wewn&eogonek;trzna</trd> 
+    <trd lng="pt">parede interna</trd>  
+    <trd lng="ru">&c_v;&c_n;&c_u;&c_t;&c_r;&c_je;&c_n;&c_n;&c_ja;&c_ja;
+&c_p;&c_o;&c_v;&c_je;&c_r;&c_h;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
+  </snc>
+  <snc>
+    <uzo tip="fak">ANA</uzo>
+    <dif>
+      Interna surfaco de organa kava&jcirc;o:
+      <ekz>
+        <tld/>oj de kranio, de stomako.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="pariet.0">parieto</ref>,
+      <ref cel="vand.0o">vando</ref>.
+    </refgrp>
+    <trd lng="nl">binnenwand</trd>
+    <trdgrp lng="hu">
+      <trd>paries</trd>,
+      <trd>fal<klr tip="ind"> (anat&oacute;miai)</klr></trd>
+  </trdgrp>
+    <trd lng="it">parete<klr> (anat.)</klr></trd>
+    <trd lng="pl">&sacute;cianka wewn&eogonek;trzna</trd>  
+    <trd lng="pt">parede interna <klr>(de um &oacute;rg&atilde;o></klr></trd>  
+    <trd lng="ru">&c_s;&c_t;&c_je;&c_n;&c_k;&c_a; <klr tip="amb">(&c_o;&c_r;&c_g;&c_a;&c_n;&c_a;)</klr></trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>nedotknutelný</trd>,
+    <trd>pária</trd>,
+    <trd>přen. žebrák</trd>,
+    <trd>vyvrženec</trd>
+  </trdgrp>
+  <trd lng="de">Wandung</trd>
+  <trdgrp lng="sk">
+    <trd>vnútorný povrch dutých telies (tech.)</trd>,
+    <trd>vnútorný povrch ústrojných dutín <klr>(anat.)</klr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: pari.xml,v $
+Revision 1.18  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:40:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.16  2014/06/05 12:10:20  revo
+Damien Brucker: +trd fr
+
+Revision 1.15  2010/12/09 17:31:20  revo
+Antonio Codazzi: +trd it
+
+Revision 1.14  2006/02/25 17:31:55  revo
+Tulio Flores: +trd pt
+
+Revision 1.13  2006/01/09 17:34:01  revo
+Raul Salinas Monteagudo: +trd ca,es
+
+Revision 1.12  2005/03/29 16:33:16  revo
+Vito Redsky: +trd pl
+
+Revision 1.11  2002/04/04 16:31:46  revo
+Ulrich Fellmann: + 2 pliaj germ trdj
+
+Revision 1.10  2002/04/02 17:55:22  revo
+Jozefo Horvath: +klr trd hu
+
+Revision 1.9  2002/03/24 10:00:35  revo
+-->
+</vortaro>

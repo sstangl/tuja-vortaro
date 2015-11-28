@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: line.xml,v 1.11 2015/07/04 08:37:38 revo Exp $">
+<kap>
+  <rad>line</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="line.0o">
+  <kap><tld/>o</kap>
+  <snc>
+    <uzo tip="fak">KOMP</uzo>
+    <uzo tip="fak">TEL</uzo>
+    <dif>
+      Medio tra kiu la signaloj pasas de la sendilo al la
+      ricevilo. Unu <tld/>o servas por samtempe transsendi plurajn
+      mesa&gcirc;ojn, &ccirc;iu el kiuj uzas apartan
+      <ref cel="kanal.0o.telematika">kanalon</ref>. Unu <tld/>o povas
+      havi multajn kanalojn:
+      <ekz>
+        anta&ubreve; nelonge en &Ccirc;inio la internaciajn lineojn de
+        du gravaj
+        Interret-perantoj mal&scirc;altis la Pekina Telegrafa
+        Departemento<fnt><aut>Liu Xiaozhe</aut>: <vrk>Interreto en
+        malfacilo</vrk>, <bib>Monato</bib><lok>jaro 1997a, numero 8a, p.
+        15a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_l;&c_ib;&c_n;&c_ib;&c_ja;
+  &c_s;&c_u;&c_v;&c_ja;&c_z;&c_ib;</trd>
+  <trd lng="cs">čárka <klr>(míra např. na sklenici)</klr></trd>
+  <trd lng="de">Leitung</trd>
+  <trd lng="en">line<klr tip="ind"> (of communication)</klr></trd>
+  <trdgrp lng="fr">
+    <trd>ligne<klr> (t&eacute;l&eacute;com.)</klr></trd>
+  </trdgrp>
+  <trd lng="hu">vezet&eacute;k<klr tip="ind">
+  (t&aacute;vk&ouml;zl&eacute;si)</klr></trd>
+  <trd lng="nl">lijn<klr tip="ind"> (verbinding, bv. 
+  telefoon)</klr></trd>
+  <trd lng="pl">linia<klr> (telefoniczna, teletransmisyjna)</klr></trd>
+  <trd lng="pt">linha<klr tip="amb"> (inform., telecom.)</klr></trd>
+  <trd lng="ru">&c_l;&c_i;&c_n;&c_i;&c_ja;
+  &c_s;&c_v;&c_ja;&c_z;&c_i;</trd>
+  <trdgrp lng="sk">
+    <trd>1.dĺžková miera <klr>(2,256mm)</klr></trd>,
+    <trd>2.pletené lanko (nám.)</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: line.xml,v $
+Revision 1.11  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.10  2015/06/29 16:33:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.9  2011/08/18 05:10:16  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.8  2009/07/11 16:30:49  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.7  2006/09/14 16:31:18  revo
+Tulio Flores: +tr pt
+
+Revision 1.6  2004/05/26 16:31:57  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.5  2003/05/08 16:30:44  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.4  2002/11/11 17:31:47  revo
+Sergio Pokrovskij: fnt-bib(PIV1)
+
+Revision 1.3  2002/09/08 18:05:22  revo
+Jeromo Vasxe: fak - tek + tel(ekomunikoj), + ekz, + trd fr
+
+Revision 1.2 2002/03/08 17:31:55 revo
+-->
+</vortaro>

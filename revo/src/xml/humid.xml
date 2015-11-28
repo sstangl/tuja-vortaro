@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: humid.xml,v 1.15 2015/07/04 08:37:35 revo Exp $">
+<kap>
+  <rad>humid</rad>/a
+</kap>
+<drv mrk="humid.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="humid.0a.malseka">
+    <uzo tip="fak">SCI</uzo>
+    <ref tip="dif" cel="sek.mal0a.humida">malseka<sncref/></ref>
+    <ekz>
+      <tld/>a aero, klimato.
+    </ekz>
+    <rim>
+      Ekster scienca kunteksto oni prefere uzu la sinonimon
+      &leftquot;<ref tip="sin" cel="sek.mal0a">malseka</ref>&rightquot;.
+    </rim>
+  </snc>
+  <snc mrk="humid.0a.malseketa">
+    <uzo tip="stl">EVI</uzo>
+    <ref tip="dif" cel="sek.mal0eta">malseketa</ref>
+  </snc>
+  <trd lng="kek">ach&#789;toon</trd>
+  <trd lng="be">&c_v;&c_ib;&c_l;&c_mol;&c_g;&c_o;&c_t;&c_n;&c_y;</trd>
+  <trdgrp lng="cs">
+    <trd>humidní</trd>,
+    <trd>vlhký</trd>
+  </trdgrp>
+  <trd lng="de">feucht</trd>
+  <trd lng="el">&ypsilon;&gamma;&rho;&omikron_ton;&sigma_fina;</trd>
+  <trdgrp lng="en">
+    <trd>humid</trd>,
+    <trd>moist</trd>
+  </trdgrp>
+  <trd lng="es">h&uacute;medo</trd>
+  <trd lng="fr">humide</trd>
+  <trdgrp lng="hu">
+    <trd>nedves</trd>,
+    <trd>p&aacute;r&aacute;s</trd>
+  </trdgrp>
+  <trd lng="it">umido<klr> (agg.)</klr></trd>
+  <trd lng="nl">vochtig</trd>
+  <trd lng="pt">&uacute;mido</trd>
+  <trd lng="ru">&c_v;&c_l;&c_a;&c_zh;&c_n;&c_y;&c_j;</trd>
+  <trd lng="sk">mokvavý</trd>
+</drv>
+
+<drv mrk="humid.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="humid.0o.aera">
+    <uzo tip="fak">FIZ</uzo>
+    <dif>
+      Kvanto de gasstata akvo en la aero:
+      <ekz>
+        <ind>absoluta <tld/>o</ind>;
+        <trd lng="ru">&c_a;&c_b;&c_s;&c_o;&c_l;&c_ju;&c_t;&c_n;&c_a;&c_ja; &c_v;&c_l;&c_a;&c_zh;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
+      </ekz>
+      <ekz>
+        aeron kies <ind>relativa <tld/>o</ind> estas malpli
+        granda ol 60% oni perceptas seka.
+        <trd lng="ru">&c_o;&c_t;&c_n;&c_o;&c_s;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_a;&c_ja;
+        &c_v;&c_l;&c_a;&c_zh;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="humid.0o.disa">
+    <uzo tip="fak">SCI</uzo>
+    <dif>
+      Malseko, elvapora&jcirc;o, akvo dise (kaj ne flue) entenata en io:
+      <ekz>
+        grunda <tld/>o ensorbata en la aeron;
+      </ekz>
+      <ekz>
+        la aero saturita je <tld/>o.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_v;&c_ib;&c_l;&c_mol;&c_g;&c_o;&c_t;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+  <trdgrp lng="de">
+    <trd>Feuchtigkeit</trd>,
+    <trd>Feuchte</trd>
+  </trdgrp>
+  <trd lng="fr">humidit&eacute;</trd>
+  <trd lng="hu">nedvess&eacute;g</trd>
+  <trd lng="it">umidit&agrave;</trd>
+  <trd lng="pt">umidade</trd>
+  <trd lng="ru">&c_v;&c_l;&c_a;&c_zh;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
+</drv>
+</art>
+<!--
+$Log: humid.xml,v $
+Revision 1.15  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.13  2011/11/07 01:10:32  revo
+ Anchise Inzaghi: traduko q'eqchi'
+
+Revision 1.12  2009/09/15 16:30:52  revo
+Antonio Codazzi: +trd it
+
+Revision 1.11  2005/10/17 16:31:54  revo
+Luiz Portella: ~a: kor pt trd ~o: +trd pt
+
+Revision 1.10  2004/10/24 16:31:29  revo
+Marc Bavant: kor mrk; ~a: sxovis ref ekster dif; kor ref cel al
+malseketa
+
+Revision 1.9 2004/10/06 16:31:20 revo
+Sergio Pokrovskij: dif, apartigis ~on, -adm
+
+Revision 1.8 2004/01/16 17:31:00 revo
+Dmitri Gabinski: +trd be
+Revision 1.7 2002/10/14 16:35:08 revo
+Alejandro Mejia Greene: ald 1 his trd
+Revision 1.6 2002/07/17 17:32:54 revo
+Eduardo M. Kalinowski: ald trd el, pt
+-->
+</vortaro>

@@ -1,0 +1,130 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: dializ.xml,v 1.17 2015/07/04 08:37:32 revo Exp $">
+<kap>
+  <rad>dializ</rad>/i
+</kap>
+<drv mrk="dializ.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <uzo tip="fak">KEM</uzo>
+    <dif>
+      Apartigi substancojn, uzante la diferencon de ilia penetra
+      rapideco
+      tra membrano.
+    </dif>
+    <trd lng="pl">dializowa&cacute;</trd>
+  </snc>
+  <snc>
+    <uzo tip="fak">MED</uzo>
+    <dif>
+      Elfiltri urinon el la sango per <tld/>a metodo, tiel
+      anstata&ubreve;igante
+      la funkcion de malsana reno.
+    </dif>
+    <trd lng="pl">dializowa&cacute;</trd>
+  </snc>
+  <trd lng="be">&c_d;&c_y;&c_ja;&c_l;&c_ib;&c_z;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="cs">provádět dialýzu</trd>
+  <trd lng="de">dialysieren</trd>
+  <trd lng="en">dialyse</trd>
+  <trd lng="es">dializar</trd>
+  <trd lng="fr">dialyser</trd>
+  <trd lng="hu">dializ&aacute;l</trd>
+  <trd lng="pt">dialisar</trd>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_r;&c_o;&c_i;&c_z;&c_v;&c_o;&c_d;&c_i;&c_t;&c_mol;
+    <ind>&c_d;&c_i;&c_a;&c_l;&c_i;&c_z;</ind></trd>,
+    <trd>&c_p;&c_o;&c_d;&c_v;&c_je;&c_r;&c_g;&c_a;&c_t;&c_mol;
+    <ind>&c_d;&c_i;&c_a;&c_l;&c_i;&c_z;&c_u;</ind></trd>
+  </trdgrp>
+  <trd lng="sk">robiť dialýzu</trd>
+</drv>
+
+<drv mrk="dializ.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">KEM</uzo>
+  <snc>
+    <dif>
+      Ago <tld/>i.
+    </dif>
+  </snc>
+  <trd lng="be">&c_d;&c_y;&c_ja;&c_l;&c_ib;&c_z;</trd>
+  <trd lng="bg">&c_d;&c_i;&c_a;&c_l;&c_i;&c_z;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>dialýza</trd>,
+    <trd>rozklad</trd>
+  </trdgrp>
+  <trd lng="de">Dialyse</trd>
+  <trd lng="en">dialysis</trd>
+  <trd lng="es">di&aacute;lisis</trd>
+  <trd lng="fr">dialyse</trd>
+  <trd lng="hu">dial&iacute;zis</trd>
+  <trd lng="pl">dializa</trd>
+  <trd lng="ru">&c_d;&c_i;&c_a;&c_l;&c_i;&c_z;</trd>
+  <trd lng="sk">dialýza</trd>
+</drv>
+
+<drv mrk="dializ.0ilo">
+  <kap><tld/>ilo</kap>
+  <snc>
+    <dif>
+      Aparato por <tld/>i.
+    </dif>
+  </snc>
+  <trd lng="be">&c_d;&c_y;&c_ja;&c_l;&c_ib;&c_z;&c_a;&c_t;&c_a;&c_r;</trd>
+  <trdgrp lng="cs">
+    <trd>dialyzační přístroj</trd>,
+    <trd>dialyzátor</trd>
+  </trdgrp>
+  <trd lng="de">Dialyseapparat</trd>
+  <trd lng="en">dialyser</trd>
+  <trd lng="fr">dialyseur</trd>
+  <trdgrp lng="hu">
+    <trd>dializ&aacute;tor</trd>,
+    <trd>m&udblac;vese</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_d;&c_i;&c_a;&c_l;&c_i;&c_z;&c_a;&c_t;&c_o;&c_r;</trd>,
+    <trd>&c_a;&c_p;&c_p;&c_a;&c_r;&c_a;&c_t;
+    "&c_i;&c_s;&c_k;&c_u;&c_s;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_a;&c_ja;
+    <ind>&c_p;&c_o;&c_ch;&c_k;&c_a;</ind>"</trd>
+  </trdgrp>
+  <trd lng="sk">dialyzátor</trd>
+</drv>
+</art>
+<!--
+$Log: dializ.xml,v $
+Revision 1.17  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.15  2011/04/01 12:10:09  revo
+Russ Williams: +trd en
+
+Revision 1.14  2009/06/10 16:30:29  revo
+Wieland Pusch: +trd bg
+
+Revision 1.13  2009/06/09 16:31:27  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.12  2007/07/24 19:11:45  revo
+Tulio Flores: +tr pt
+
+Revision 1.11  2005/03/28 17:14:39  revo
+Raul Salinas Monteagudo: +trd es
+
+Revision 1.10  2005/03/11 16:51:29  revo
+Yury Finkel: +trd ru
+
+Revision 1.9 2003/12/13 17:32:38 revo
+Dmitri Gabinski: +trd be
+
+Revision 1.8 2003/05/06 16:32:24 revo
+-->
+</vortaro>

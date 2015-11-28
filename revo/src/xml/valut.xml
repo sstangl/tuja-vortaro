@@ -1,0 +1,117 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: valut.xml,v 1.14 2012/08/11 18:10:20 revo Exp $">
+<kap>
+  <ofc>9</ofc><rad>valut</rad>/o
+  <fnt>Z</fnt>
+</kap>
+<drv mrk="valut.0o">
+  <kap><ofc>9</ofc><tld/>o</kap>
+  <uzo tip="fak">EKON</uzo>
+  <snc>
+    <dif>
+      Mono a&ubreve; monsigno cirkulanta en unu lando:
+      <ekz>
+        tiu plano ne sukcesis, precipe pro la nekohereco inter la
+        e&ubreve;ropaj
+        <tld/>oj<fnt><aut>Marc Vanden Bempt</aut>: <vrk>Al nova komuna
+        epoko</vrk>, <bib>Monato</bib><lok>jaro 1997a, numero 3a, p.
+        22a</lok></fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_v;&c_a;&c_l;&c_ju;&c_t;&c_a;</trd>,
+      <trd>&c_g;&c_r;&c_a;&c_sh;&c_o;&c_v;&c_a;&c_ja;
+      <ind>&c_a;&c_d;&c_z;&c_ib;&c_n;&c_k;&c_a;</ind></trd>
+    </trdgrp>
+    <trd lng="de">W&auml;hrung</trd>
+    <trdgrp lng="en">
+      <trd>currency</trd>,
+      <trd>money</trd>
+    </trdgrp>
+    <trd lng="ru">&c_v;&c_a;&c_l;&c_ju;&c_t;&c_a;</trd>
+  </snc>
+  <snc>
+    <dif>
+      Plenvalora fremda devizo:
+      <ekz>
+        por pagoj en fremdaj <tld/>oj la bankoj da&ubreve;re uzas reton de
+        internaciaj korespondantoj<fnt><aut>Roland Rotsaert</aut>:
+        <vrk>Pagi ene de la E&ubreve;ropa Unio kostos malpli</vrk>,
+        <bib>Monato</bib><lok>jaro 2002a, numero 2a, p. 10a</lok></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_v;&c_a;&c_l;&c_ju;&c_t;&c_a;</trd>
+    <trd lng="de">Valuta</trd>
+    <trdgrp lng="en">
+      <trd>currency</trd>,
+      <trd>money</trd>
+    </trdgrp>
+    <trd lng="ru">&c_d;&c_je;&c_n;&c_je;&c_zh;&c_n;&c_y;&c_j; <ind>&c_k;&c_u;&c_r;&c_s;</ind></trd>
+  </snc>
+  <snc>
+    <dif>
+      Rilata valoro de papermono al la ora a&ubreve; ar&gcirc;enta metalunuo en
+      valormetalbaza monsistemo.
+    </dif>
+    <trd lng="be">&c_g;&c_r;&c_a;&c_sh;&c_o;&c_v;&c_y;
+    <ind>&c_k;&c_u;&c_r;&c_s;</ind>
+    </trd>
+    <trdgrp lng="en">
+      <trd>currency value</trd>,
+      <trd>valuta</trd>
+    </trdgrp>
+    <trd lng="ru">&c_d;&c_je;&c_n;&c_je;&c_zh;&c_n;&c_y;&c_j; <ind>&c_k;&c_u;&c_r;&c_s;</ind></trd>
+  </snc>
+  <refgrp tip="vid">
+    <ref cel="mon.0o">mono</ref>,
+    <ref cel="valor.0o">valoro</ref>.
+  </refgrp>
+  <trdgrp lng="ca">
+    <trd>divisa</trd>,
+    <trd>valor</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>devise<klr> (monnaie)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>valuta</trd>,
+    <trd>p&eacute;nznem</trd>
+  </trdgrp>  
+  <trd lng="nl">valuta</trd>
+  <trdgrp lng="pt">
+   <trd>valor</trd>,
+   <trd>valores</trd>,
+   <trd>divisas</trd>
+  </trdgrp>
+  <trd lng="tp">mani</trd>
+</drv>
+</art>
+<!--
+$Log: valut.xml,v $
+Revision 1.14  2012/08/11 18:10:20  revo
+Marc Rausell: + trd ca
+
+Revision 1.13  2009/03/01 17:34:16  revo
+Russ Williams: +trd en 9OA
+
+Revision 1.12  2008/07/15 16:30:32  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.11  2006/10/22 18:03:48  revo
+Axel Rousseau: +trd tp
+
+Revision 1.10  2006/02/01 17:32:01  revo
+Tulio Flores: +trd pt
+
+Revision 1.9  2005/01/18 17:31:07  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.8  2002/07/13 17:31:05  revo
+Jeromo Vasxe: - sin + vid, + ekz, + trd fr
+
+Revision 1.7 2002/05/07 16:35:21 revo
+-->
+</vortaro>

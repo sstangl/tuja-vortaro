@@ -1,0 +1,344 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: rotaci.xml,v 1.27 2015/07/04 08:37:43 revo Exp $">
+<kap>
+  <ofc>9</ofc><rad>rotaci</rad>/i
+  <fnt>Z</fnt>
+</kap>
+<drv mrk="rotaci.0i">
+  <kap><ofc>9</ofc><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <uzo tip="fak">TEK</uzo>
+  <uzo tip="fak">AST</uzo>
+  <snc>
+    <dif>
+      Turni&gcirc;i &ccirc;irka&ubreve; interna <ref cel="aks.0o">akso</ref>:
+      <ekz>
+        nia tero <tld/>as;
+      </ekz>
+      <ekz>
+        <tld/>i sur pivoto.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="rivolu.0i">rivolui</ref>,
+      <ref cel="ir.rond0i">rondiri</ref>,
+      <ref cel="rul.0igxi">ruli&gcirc;i</ref>,
+      <ref cel="turn.0igxisin0i">turni&gcirc;i</ref>.
+    </refgrp>
+  </snc>
+  <trd lng="de">rotieren</trd>
+  <trd lng="en">rotate</trd>
+  <trdgrp lng="fr">
+    <trd>&ecirc;tre en <ind>rotation</ind></trd>,
+    <trd>tourner<klr tip="ind"> (sur soi-m&ecirc;me)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>forog</trd>,
+    <trd>p&ouml;r&ouml;g</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>roteren</trd>,
+    <trd>draaien</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>rodar</trd>,
+    <trd>rotar</trd>
+  </trdgrp>
+  <trd lng="ru">&c_v;&c_r;&c_a;&c_shch;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>
+</drv>
+
+<drv mrk="rotaci.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="rotaci.0o.TEKAST">
+    <uzo tip="fak">TEK</uzo>
+    <uzo tip="fak">AST</uzo>
+    <dif>
+      Ago <tld/>i; movo de io, kio <tld/>as:
+      <ekz>
+        <tld/>o de planedo, de turbino;
+      </ekz>
+      <ekz>
+        <ind><tld/>rapido</ind>.
+        <trdgrp lng="de">
+         <trd>Drehgeschwindigkeit</trd>,
+         <trd>Umlaufgeschwindigkeit</trd>,
+         <trd>Drehzahl</trd>
+        </trdgrp>
+        <trd lng="fr">vitesse de rotation</trd>
+        <trd lng="ru">&c_s;&c_k;&c_o;&c_r;&c_o;&c_s;&c_t;&c_mol; &c_v;&c_r;&c_a;&c_shch;&c_je;&c_n;&c_i;&c_ja;</trd>
+      </ekz>
+    </dif>
+    <trd lng="de">Rotation</trd>
+    <trd lng="hu">forg&aacute;s</trd>
+    <trd lng="ru">&c_v;&c_r;&c_a;&c_shch;&c_je;&c_n;&c_i;&c_je;</trd>
+  </snc>
+  <snc mrk="rotaci.0o.sinsekvo">
+    <fnt><bib>PIV1</bib></fnt>
+    <dif>
+      Regula &scirc;an&gcirc;o, sinsekvo:
+      <ekz>
+        la novico okupas &ccirc;iujn postenojn en <tld/>o;
+      </ekz>
+      <ekz>
+        <uzo tip="fak">AGR</uzo>
+        <ind><tld/>o de kulturoj <klr>(por eviti el&ccirc;erpi la
+        grundon)</klr></ind>.
+        <trd lng="de">Fruchtfolge</trd>
+        <trd lng="en">crop rotation</trd>
+        <trd lng="hu">vet&eacute;sforg&oacute;</trd>
+      </ekz>
+    </dif>
+    <trd lng="hu">rot&aacute;ci&oacute;</trd>
+    <trd lng="ru">&c_r;&c_o;&c_t;&c_a;&c_c;&c_i;&c_ja;</trd>
+    <adm>
+      Mi enkondukis, &ccirc;i tiun PIVan sencon, sed ne certas, &ccirc;u
+      &gcirc;i estas internacie uzata. Se tiel ne estas, indus
+      precizigi EVI kaj proponi alternativon. <aut>MB</aut>
+    </adm>
+  </snc>
+  <snc mrk="rotaci.0o.kinematiko">
+    <uzo tip="fak">MAT</uzo>
+    <uzo tip="fak">FIZ</uzo>
+    <uzo tip="klr">(kinematiko)</uzo>
+    <dif>
+      <klr>(de <ref cel="solid.0o.kinematiko">solido</ref>)</klr>
+      Tia movo, ke almena&ubreve; du punktoj de la solido restas
+      senmovaj:
+      <ekz>
+        &ccirc;iuj punktoj senmovaj dum <tld/>o apartenas al unu sama
+        rekto <klr>(la akso de la <tld/>o)</klr>;
+      </ekz>
+      <ekz>
+        dum <tld/>o la trajektorio de &ccirc;iu punkto ekster la akso
+        estas cirklo a&ubreve; parto de cirklo.
+      </ekz>
+    </dif>
+    <trd lng="hu">k&ouml;rforg&aacute;s</trd>
+    <trd lng="ru">&c_v;&c_r;&c_a;&c_shch;&c_je;&c_n;&c_i;&c_je;</trd>
+  </snc>
+  <snc mrk="rotaci.0o.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <subsnc mrk="rotaci.0o.vektora">
+      <fnt><bib>EKV</bib><lok>&para;383</lok></fnt>
+      <dif>
+        <klr>(en <ref cel="dimens.n0a">finidimensia</ref>
+        <ref cel="spac.euxklida0o">e&ubreve;klida vektora spaco</ref>)</klr>
+        <ref cel="izomet.0a.bildigo">Izometria</ref>
+        <ref cel="auxtom2.0o">a&ubreve;tomorfio</ref> kun
+        <ref cel="determ.0anto.endomorfio">determinanto</ref>
+        egala al <frm>1</frm>.
+      </dif>
+      <ref tip="sin" cel="rotaci.vektora0o">vektora <tld/>o.</ref>
+    </subsnc>
+    <subsnc mrk="rotaci.0o.afina">
+      <fnt><bib>PIV2</bib></fnt>
+      <dif>
+        <klr>(en <ref cel="dimens.n0a">finidimensia</ref>
+        <ref cel="spac.euxklida0o">e&ubreve;klida afina spaco</ref>)</klr>
+        <ref cel="afin.0a.bildigo">Afina</ref>
+        <ref tip="super" cel="bild.0igo.MAT">bildigo</ref>, asociita al
+        <ref cel="rotaci.0o.vektora"><tld/>o
+        <sncref ref="rotaci.0o.vektora"/></ref>:
+        <ekz>
+          en ebeno, <tld/>o estas
+          <ref cel="lig.kun0ajxo.rilatoj">kunliga&jcirc;o</ref> de
+          du <ref cel="simetr.0o.orta">ortaj simetrioj</ref> rilate al
+          rektoj, kies intersekco estas la
+          <ref cel="centr.0o.rotacio">centro</ref> de la <tld/>o;
+        </ekz>
+        <ekz>
+          se <frm>O</frm> estas la centro de <tld/>o kaj <frm>M'</frm>
+          estas
+          la bildo per &gcirc;i de punkto <frm>M</frm>, la mezuro de la
+          <ref cel="angul.0o.afina">angulo</ref> randata de duonrektoj
+          <frm>OM</frm> kaj <frm>OM'</frm> ne dependas de <frm>M</frm>
+          kaj estas nomata la angulo de la <tld/>o;
+        </ekz>
+        <ekz>
+          en tridimensia spaco, <tld/>o estas kunliga&jcirc;o de du ortaj
+          simetrioj rilate al ebenoj, kies intersekco estas
+          la <ref cel="aks.0o.rotacio">akso</ref> de la <tld/>o.
+        </ekz>
+      </dif>
+      <ref tip="sin" cel="rotaci.afina0o">afina <tld/>o.</ref>
+    </subsnc>
+    <trdgrp lng="de">
+      <trd>Drehung</trd>,
+      <trd>Rotation</trd>
+    </trdgrp>
+    <trd lng="en">rotation</trd>
+    <trd lng="fr">rotation</trd>
+    <trd lng="pl">obr&oacute;t</trd>
+    <trd lng="ru">&c_v;&c_r;&c_a;&c_shch;&c_je;&c_n;&c_i;&c_je;</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>kroužení</trd>,
+    <trd>obíhání</trd>,
+    <trd>oběh</trd>,
+    <trd>otáčení</trd>,
+    <trd>rotace</trd>,
+    <trd>stáčení</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>giration<klr tip="ind"> (mouvement de rotation)</klr></trd>,
+    <trd>rotation<klr tip="ind"> (mouvement, alternance,
+    math.)</klr></trd>
+  </trdgrp>
+  <trd lng="nl">rotatie</trd>
+  <trdgrp lng="sk">
+    <trd>obeh</trd>,
+    <trd>obiehanie</trd>,
+    <trd>otáčanie</trd>,
+    <trd>rotácia</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="rotaci.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="rotaci.0a.gxenerale">
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      <tld lit="R"/>anta; rilata al <tld/>o:
+      <ekz>
+        <ind><tld/>a presilo</ind><fnt><bib>PIV1</bib></fnt>;
+        <trd lng="de">Rotationsdruckmaschine</trd>
+        <trd lng="fr">rotative<klr tip="ind"> (machine &agrave;
+        imprimer)</klr></trd>
+        <trd lng="ru">&c_r;&c_o;&c_t;&c_a;&c_c;&c_i;&c_o;&c_n;&c_n;&c_a;&c_ja; &c_p;&c_je;&c_ch;&c_a;&c_t;&c_n;&c_a;&c_ja;
+        &c_m;&c_a;&c_sh;&c_i;&c_n;&c_a;</trd>
+      </ekz>
+      <ekz>
+        <tld/>a akso de rado.
+      </ekz>
+    </dif>
+    <trdgrp lng="fr">
+      <trd>giratoire<klr tip="ind"> (adj.)</klr></trd>,
+      <trd>rotatif</trd>,
+      <trd>de <ind>rotation</ind></trd>,
+      <trd>rotatoire</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="rotaci.0a.TEK">
+    <uzo tip="fak">TEK</uzo>
+    <uzo tip="klr">(p.p. ma&scirc;ino)</uzo>
+    <dif>
+      Kies turni&gcirc;a movo estas senpere produktata:
+      <ekz>
+        <tld/>a ma&scirc;ino.
+      </ekz>
+    </dif>
+    <adm>
+      Indus precizigi la difinon kaj trovi malpli ta&ubreve;tologian
+      ekzemplon. Eble ~a motoro ta&ubreve;gus? <aut>MB</aut>
+    </adm>
+    <trdgrp lng="de">
+      <trd>rotierend</trd>,
+      <trd>drehbar</trd>
+    </trdgrp>
+    <trdgrp lng="nl">
+      <trd>roterend</trd>,
+      <trd>draaiend</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="rotaci.0a.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <subsnc mrk="rotaci.0a.rivolua">
+      <fnt><bib>PV</bib><lok>hiperboloido</lok></fnt>
+      <dif>
+        <klr>(p.p. <ref cel="solid.0o.geometrio">solido</ref> a&ubreve;
+        <ref cel="surfac.0o.MAT">surfaco</ref>)</klr>
+        <ref tip="dif" cel="rivolu.0a.figuro">Rivolua</ref>:
+        <ekz>
+          <tld/>a konuso.
+        </ekz>
+      </dif>
+      <trd lng="de">Dreh-<klr tip="amb">(k&ouml;rper, fl&auml;che)</klr></trd>
+      <trd lng="en"><klr tip="amb">(body, surface) </klr>of
+<ind>revolution</ind></trd>
+      <trdgrp lng="fr">
+        <trd><klr tip="amb">(solide) </klr>de
+        <ind>r&eacute;volution</ind></trd>,
+        <trd><klr tip="amb">(surface) </klr>de
+        <ind>r&eacute;volution</ind></trd>
+      </trdgrp>
+      <trd lng="nl">omwentelings-</trd>
+      <trdgrp lng="pl">
+        <trd><klr tip="amb">(bry&lstroke;a) </klr>obrotowa</trd>,
+        <trd><klr tip="amb">(powierzchnia) </klr>obrotowa</trd>
+      </trdgrp>
+      <trd lng="ru"><klr tip="amb">(&c_t;&c_je;&c_l;&c_o;, &c_p;&c_o;&c_v;&c_je;&c_r;&c_h;&c_n;&c_o;&c_s;&c_t;&c_mol;)
+</klr><ind>&c_v;&c_r;&c_a;&c_shch;&c_je;&c_n;&c_i;&c_ja;</ind></trd>
+    </subsnc>
+    <subsnc mrk="rotaci.0a.diversaj">
+      <refgrp tip="vid">
+        <ref cel="aks.rotacia0o"><tld/>a akso</ref>,
+        <ref cel="centr.rotacia0o"><tld/>a centro</ref>.
+      </refgrp>
+    </subsnc>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>otáčivý</trd>,
+    <trd>rotační</trd>
+  </trdgrp>
+  <trd lng="ru">&c_v;&c_r;&c_a;&c_shch;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>otáčavý</trd>,
+    <trd>rotačný</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="rotaci.afina0o">
+  <kap>afina <tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <snc>
+    <ref tip="dif" cel="rotaci.0o.afina"><tld/>o <sncref
+    ref="rotaci.0o.afina"/>.</ref>
+  </snc>
+  <trd lng="fr">rotation affine</trd>
+</drv>
+
+<drv mrk="rotaci.vektora0o">
+  <kap>vektora <tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <snc>
+    <ref tip="dif" cel="rotaci.0o.vektora"><tld/>o <sncref
+    ref="rotaci.0o.vektora"/>.</ref>
+  </snc>
+  <trd lng="fr">rotation vectorielle</trd>
+</drv>
+</art>
+<!--
+$Log: rotaci.xml,v $
+Revision 1.27  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.26  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.25  2009/03/01 17:33:40  revo
+Russ Williams: + 9OA
+
+Revision 1.24  2008/11/23 19:12:23  revo
+Wieland Pusch: entoj por unikodo
+
+Revision 1.23  2008/11/14 17:31:32  revo
+Russ Williams: +trd en
+
+Revision 1.22  2006/10/22 18:03:30  revo
+Wieland Pusch: +trd de
+
+Revision 1.21  2006/02/24 17:33:02  revo
+Tulio Flores: +trd pt
+
+Revision 1.20  2003/09/12 16:32:20  revo
+Yury Finkel: +trd ru
+
+Revision 1.19  2003/01/22 17:33:13  revo
+Ulrich Fellmann: + 6 pliaj trd = de
+
+Revision 1.18  2003/01/02 17:50:55  revo
+-->
+</vortaro>

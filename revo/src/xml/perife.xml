@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: perife.xml,v 1.16 2015/11/03 13:10:17 revo Exp $">
+<kap>
+  <rad>periferi</rad>/o <fnt>Z</fnt>
+</kap>
+<drv mrk="perife.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>VdE</bib></fnt>
+  <snc>
+    <dif>
+      <klr>(de ebena <ref cel="surfac.0o.MAT">surfaco</ref>)</klr>
+      &Gcirc;ia <ref tip="super" cel="rand.0o.figuro">rando</ref>.
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="cirkon.0o">cirkonferenco</ref>,
+      <ref cel="kontur.0o">konturo</ref>,
+      <ref cel="perime.0o">perimetro</ref>.
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_p;&c_e;&c_r;&c_y;&c_f;&c_e;&c_r;&c_y;&c_ja;</trd>
+  <trdgrp lng="cs">
+    <trd>obrys</trd>,
+    <trd>okrajov&aacute; &ccaron;&aacute;st m&ecaron;sta</trd>,
+    <trd>periferie</trd>
+  </trdgrp>
+  <trd lng="de">Peripherie</trd>
+  <trd lng="en">periphery</trd>
+  <trd lng="fr">p&eacute;riph&eacute;rie</trd>
+  <trdgrp lng="hu">
+    <trd>ker&uuml;let<klr tip="ind"> (sz&eacute;l)</klr></trd>,
+    <trd>sz&eacute;l</trd>,
+    <trd>perif&eacute;ria</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>periferie</trd>,
+    <trd>omtrek</trd>,
+    <trd>buitenkant</trd>
+  </trdgrp>
+  <trd lng="pt">periferia <klr tip="ind">(geom.)</klr></trd>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_je;&c_r;&c_i;&c_f;&c_je;&c_r;&c_i;&c_ja;</trd>,
+    <trd>&c_o;&c_k;&c_r;&c_a;&c_i;&c_n;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>okrajov&aacute; &ccaron;as&tcaron; mesta</trd>,
+    <trd>perif&eacute;ria</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="perife.0a">
+  <kap><tld/>a</kap>
+  <uzo tip="stl">RAR</uzo>
+  <snc mrk="perife.0a.KOMUNE">
+    <dif>
+      Estanta en <tld/>o, flanka,
+      <ref tip="vid" cel="centr.mal0a.periferia">malcentra</ref>,
+      <ref tip="vid" cel="rang.dua0a.OPI">duaranga</ref>:
+      <ekz>
+        <tld/>a vidkampo
+        <fnt>
+          <aut>&Eacute;. Benois</aut>,
+          <vrk><url
+          ref="http://edouard.benois.pagesperso-orange.fr/dr-es.htm">
+          La disi&gcirc;o de retino</url></vrk>,
+          <lok>[vidita en 2013]</lok>
+        </fnt>.        
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">perifern&iacute;  okrajov&yacute;</trd>
+  <trd lng="en">peripheral</trd>
+  <trd lng="fr">p&eacute;riph&eacute;rique</trd>
+  <trd lng="sk">okrajov&yacute;</trd>
+</drv>
+</art>
+<!--
+$Log: perife.xml,v $
+Revision 1.16  2015/11/03 13:10:17  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.15  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:40:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.13  2013/06/24 14:10:12  revo
+Jeromo Vasxe: + ~a
+
+Revision 1.12  2006/02/27 17:34:31  revo
+Tulio Flores: +tr pt
+
+Revision 1.11  2003/07/17 16:33:18  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.10  2003/04/11 16:32:47  revo
+Marc Bavant: ~o: mod dif/klr
+
+Revision 1.9  2002/12/11 17:31:48  revo
+-->
+</vortaro>

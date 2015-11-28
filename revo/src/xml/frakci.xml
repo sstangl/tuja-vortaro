@@ -1,0 +1,625 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: frakci.xml,v 1.44 2015/07/04 08:37:34 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>frakci</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="frakci.0o">
+  <kap><tld/>o</kap>
+  <fnt><bib>VdE</bib></fnt>
+  <snc mrk="frakci.0o.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <dif>
+      <ref tip="super" cel="nombr.0o.MAT">Nombro</ref>, prezentita kiel
+      kvociento de entjero <frm><k>a</k></frm>
+      (la <ref tip="prt" cel="numera1.0o">numeratoro</ref>)
+      per nenula entjero <frm><k>b</k></frm>
+      (la <ref tip="prt" cel="denomi.0o">denominatoro</ref>);
+      simb. <frm><k>a</k>/<k>b</k></frm> (legu: a sur bo):
+      <ekz>
+        norma, vera <fnt><bib>MatVort</bib></fnt> a&ubreve;
+        <ind>propra <tld/>o</ind>
+        <klr>(kies denominatoro estas pli granda ol la numeratoro en
+        absoluta
+        valoro: <frm>&#189;</frm> ktp)</klr>;
+        <trd lng="ca">fracci&oacute; pr&ograve;pia</trd>
+        <trd lng="de">echter <ind>Bruch</ind></trd>
+        <trd lng="en">proper <ind>fraction</ind></trd>
+        <trd lng="es"><ind>fracci&oacute;n</ind> propia</trd>
+        <trd lng="fr">fraction propre</trd>
+        <trd lng="nl">echte <ind>breuk</ind></trd>
+        <trd lng="pl">u&lstroke;amek w&lstroke;a&sacute;ciwy</trd>
+        <trd lng="pt">fra&ccedil;&atilde;o</trd>
+        <trd lng="ru">&c_p;&c_r;&c_a;&c_v;&c_i;&c_l;&c_mol;&c_n;&c_a;&c_ja;
+        <ind>&c_d;&c_r;&c_o;&c_b;&c_mol;</ind></trd>
+      </ekz>
+      <ekz>
+        nenorma <fnt><bib>PIV1</bib></fnt>
+        a&ubreve; <ind>nepropra <tld/>o</ind>
+        <fnt><bib>PIV2</bib></fnt>
+        <klr>(kies numeratoro estas ne malpli granda
+        ol la denominatoro en absoluta valoro:
+        <frm><sup>5</sup>/<sub>3</sub></frm>,
+        <frm><sup>7</sup>/<sub>7</sub></frm> ktp)</klr>;
+        <trd lng="ca">fracci&oacute; impr&ograve;pia</trd>
+        <trd lng="de">unechter <ind>Bruch</ind></trd>
+        <trd lng="en">improper <ind>fraction</ind></trd>
+        <trd lng="es"><ind>fracci&oacute;n</ind> impropia</trd>
+        <trd lng="fr">fraction impropre</trd>
+        <trd lng="nl">onechte <ind>breuk</ind></trd>
+        <trd lng="pl">u&lstroke;amek niew&lstroke;a&sacute;ciwy</trd>
+        <trd
+        lng="ru">&c_n;&c_je;&c_p;&c_r;&c_a;&c_v;&c_i;&c_l;&c_mol;&c_n;&c_a;&c_ja;
+        <ind>&c_d;&c_r;&c_o;&c_b;&c_mol;</ind></trd>
+      </ekz>
+      <ekz>
+        <ind>reduktebla <tld/>o</ind>
+        <fnt><bib>MatVort</bib></fnt>
+        <klr>(kies numeratoro kaj denominatoro havas komunan
+        divizoron pli grandan ol <frm>1</frm>:
+        <frm><sup>4</sup>/<sub>12</sub></frm>,
+        <frm><sup>8</sup>/<sub>4</sub></frm> ktp)</klr>;
+        <trd lng="ca">fracci&oacute; <ind>reductible</ind></trd>
+        <trd lng="de">k&uuml;rzbarer <ind>Bruch</ind></trd>
+        <trd lng="en">cancellable <ind>fraction</ind></trd>
+        <trd lng="fr">fraction r&eacute;ductible</trd>
+        <trdgrp lng="pl">
+          <trd>u&lstroke;amek skracalny</trd>,
+          <trd>u&lstroke;amek przywiedlny</trd>
+        </trdgrp>
+        <trd lng="ru">&c_s;&c_o;&c_k;&c_r;&c_a;&c_t;&c_i;&c_m;&c_a;&c_ja;
+        <ind>&c_d;&c_r;&c_o;&c_b;&c_mol;</ind></trd>
+      </ekz>
+      <ekz>
+        <ind>nereduktebla <tld/>o</ind>
+        <fnt><bib>MatVort</bib></fnt>
+        <klr>(kies numeratoro kaj denominatoro estas inter si
+        primaj)</klr>;
+        <trd lng="ca">fracci&oacute; <ind>irreductible</ind></trd>
+        <trd lng="de">gek&uuml;rzter <ind>Bruch</ind></trd>
+        <trd lng="en">reduced <ind>fraction</ind></trd>
+        <trd lng="fr">fraction irr&eacute;ductible</trd>
+        <trdgrp lng="pl">
+          <trd>u&lstroke;amek nieskracalny</trd>,
+          <trd>u&lstroke;amek nieprzywiedlny</trd>
+        </trdgrp>
+        <trd
+        lng="ru">&c_s;&c_o;&c_k;&c_r;&c_a;&c_shch;&c_jo;&c_n;&c_n;&c_a;&c_ja;
+        <ind>&c_d;&c_r;&c_o;&c_b;&c_mol;</ind></trd>
+      </ekz>
+      <ekz>
+        <ind>miksa <tld/>o</ind> <fnt><bib>PIV1</bib></fnt>
+        a&ubreve; <tld/>a nombro <fnt><bib>PIV2</bib></fnt>
+        <klr>(konsistanta el entjera kaj frakcia partoj,
+        ekz-e <frm>2&#189;</frm> ktp)</klr>.
+        <trd lng="ca">nombre <ind>mixt</ind></trd>
+        <trd lng="de">gemischter <ind>Bruch</ind></trd>
+        <trd lng="en">mixed <ind>fraction</ind></trd>
+        <trd lng="fr">nombre fractionnaire compos&eacute;</trd>
+        <trdgrp lng="pl">
+          <trd>u&lstroke;amek mieszany</trd>,
+          <trd>liczba mieszana</trd>
+        </trdgrp>
+        <trd lng="ru">&c_s;&c_m;&c_je;&c_sh;&c_a;&c_n;&c_n;&c_a;&c_ja;
+        <ind>&c_d;&c_r;&c_o;&c_b;&c_mol;</ind></trd>
+      </ekz>
+    </dif>
+    <adm>
+      Mi ne trovis pravigon por la terminoj "propra ~o" kaj
+      "nepropra ~o" krom en PIV2. MatVort havas
+      "vera" kaj "nenorma", PIV1 havas nur "nenorma", sen
+      konsideri &leftquot;partumo&rightquot;, kiu ankaux signifas &leftquot;norma frakcio&rightquot;.
+      Tiom granda hxaoso por absolute senutila nocio sxajnas troa.
+      <aut>MB</aut>
+    </adm>
+    <ref tip="sub" cel="on.0o.frakcio">ono;</ref>
+    <refgrp tip="sin">
+      <ref cel="frakci.kvocienta0o">kvocienta frakcio</ref>;
+    </refgrp>
+    <ref tip="vid" cel="frakci.pozicia0o">pozicia frakcio.</ref>
+    <rim>
+      Por &ccirc;i tiu nocio Bricard
+      <fnt><bib>MatTerm</bib><lok>p. 7</lok></fnt> proponis la formon
+      <ctl>fracio</ctl>, kiu ne enradiki&gcirc;is.
+    </rim>
+    <rim>
+      La tradicia matematika lingva&jcirc;o ne rigore distingas inter la
+      skriba&jcirc;o montranta dividon de numeratoro per denominatoro, kaj
+      la racionala nombro rezultanta el tia divido. Depende de la
+      vidpunktoj
+      eblas do diri, ke <frm><sup>1</sup>/<sub>2</sub></frm> kaj
+      <frm><sup>2</sup>/<sub>4</sub></frm> estas identaj
+      a&ubreve; ne. En pli rigora lingva&jcirc;o oni nomas <tld/>o la paron
+      <frm>(<k>p</k>,<k>q</k>)</frm> kaj racionala nombro
+      la ekvivalento-klason de &ccirc;iuj tiaj <tld/>oj
+      <frm>(<k>P</k>,<k>Q</k>)</frm>, ke
+      <frm><k>pQ</k> = <k>Pq</k></frm>.
+    </rim>
+    <rim>
+      La maniero, la&ubreve; kiu oni kreis la
+      <ref cel="korp.0o.MAT">korpon</ref> de racionalaj nombroj surbaze
+      de
+      la <ref cel="ring.0o.MAT">ringo</ref> de entjeroj, estas aplikebla
+      anka&ubreve; al aliaj ringoj (ekz-e la polinomringoj): la tiel
+      konstruita korpo nomi&gcirc;as 
+      <ref cel="korp.frakci0o"><tld/>korpo</ref> de la koncerna ringo.
+    </rim>
+    <trd lng="ca">fracci&oacute; matem&agrave;tica</trd>
+    <trd lng="de">Bruch</trd>
+    <trd lng="fr">fraction</trd>
+    <trd lng="nl">breuk <klr tip="ind"> (wisk.)</klr></trd>
+    <trd lng="pl">u&lstroke;amek</trd>
+    <trd lng="ru">&c_d;&c_r;&c_o;&c_b;&c_mol;</trd>
+  </snc>
+  <snc mrk="frakci.0o.SCI">
+    <uzo tip="fak">SCI</uzo>
+    <dif>
+      Parto de materia&jcirc;o, kiun analiza operacio apartigas
+      pro iu &gcirc;ia propreco.
+    </dif>
+    <subsnc mrk="frakci.0o.KEM">
+      <uzo tip="fak">KEM</uzo>
+      <dif>
+        Substanco apartigita per &hcirc;emia procedo:
+        <ekz>
+          la acidaj, ne&ubreve;tralaj kaj bazaj aminoacidoj, aperas &ccirc;e la 
+          malsupra fina&jcirc;o de la kolono kaj kolekti&gcirc;as en a&ubreve;tomataj 
+          <tld/>o-kolektiloj
+          <fnt>
+            <aut>I. E. G&aacute;l</aut>,
+            <vrk><url
+            ref="http://www.eventoj.hu/steb/kemio/proteino1978/analizo-de-proteinoj.htm">
+            Pri la analizo de proteinoj el nutradologia
+            vidpunkto</url></vrk>,
+            <lok>Scienca Revuo, 1978:2 (130), p. 61a-70a</lok>
+          </fnt>.
+        </ekz>
+      </dif>
+    </subsnc>
+    <subsnc mrk="frakci.0o.GRU">
+      <uzo tip="fak">MIN</uzo>
+      <dif>
+        Tuto de grundaj eroj, kiujn grajnanalizo apartigis
+        en sama klaso de diametroj:
+        <ekz>
+          oni difinas la sablo<tld/>on de grundo
+          kiel la partiklojn, kies diametro varias
+          de 2.0 &gcirc;is 0.02 mm
+          <fnt>
+            <aut>W. F. Rolt</aut>,
+            <vrk>El la Polvo de la Tero</vrk>,
+            <lok>1967</lok>
+          </fnt>.
+        </ekz>
+      </dif>
+    </subsnc>
+  </snc>
+  <snc mrk="frakci.0o.POL">
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      Organizita grupo de samopiniantoj ene de politika partio
+      a&ubreve; parlamento:
+      <ekz>
+        la Komunista <tld lit="F"/>o de SAT akceptas la
+        tutan statuton kaj regularon de SAT
+        <fnt>
+          <aut>-</aut>,
+          <vrk><url
+          ref="http://www.satesperanto.org/Regularo-de-la-Komunista-Frakcio.html">
+          Regularo de la Komunista Frakcio</url></vrk>,
+          <lok>Sennaciulo, 1996-11, p. 112a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="ca">
+      <trd>grup</trd>,
+      <trd>moviment</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd>Fraktion</trd>,
+      <trd>Kreis</trd>
+    </trdgrp>
+    <trd lng="en">faction</trd>
+    <trdgrp lng="fr">
+      <trd>groupe<klr tip="ind"> (politique)</klr></trd>,
+      <trd>fraction<klr tip="ind"> (politique)</klr></trd>,
+      <trd>courant<klr tip="ind"> (politique)</klr></trd>
+    </trdgrp>
+    <trd lng="nl">fractie<klr tip="ind"> (pol.)</klr></trd>
+    <trd lng="pt">fac&ccedil;&atilde;o</trd>
+    <trd lng="ru">&c_f;&c_r;&c_a;&c_k;&c_c;&c_i;&c_ja;</trd>
+  </snc>
+  <trdgrp lng="ca">
+    <trd>fracci&oacute;</trd>,
+    <trd>porci&oacute;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>díl z množství</trd>,
+    <trd>zlomek</trd>
+  </trdgrp>
+  <trd lng="en">fraction</trd>
+  <trd lng="es">fracci&oacute;n</trd>
+  <trdgrp lng="sk">
+    <trd>zlomok</trd>,
+    <trd>časť z množstva</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="frakci.0igi">
+  <kap><tld/>igi</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      Dividi en <tld/>ojn.
+    </dif>
+  </snc>
+  <adm>
+    PIV1 uzas ~i cxi-sence. Cetere tia senco bazigxas sur alia
+    sencon de ~o, nome &leftquot;parto&rightquot;. <aut>MB</aut>
+  </adm>
+  <trdgrp lng="ca">
+    <trd>fraccionar</trd>,
+    <trd>dividir</trd>,
+    <trd>segmentar</trd>
+  </trdgrp>
+  <trd lng="es">fraccionar</trd>
+  <trd lng="sk">vytvárať frakcie</trd>
+  <trdgrp lng="cs">
+    <trd>frakcionovat</trd>,
+    <trd>vytvářet frakce <klr>(v pol. straně)</klr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="frakci.0streko">
+  <kap><tld/>streko</kap>
+  <fnt><bib>PIV2</bib></fnt>
+  <uzo tip="fak">KOMP</uzo>
+  <uzo tip="fak">MAT</uzo>
+  <snc>
+    <dif>
+      Signo uzata por apartigi la numeratoron disde la denominatoro
+      en <ref tip="malprt" cel="frakci.0o.MAT">frakcio</ref>.
+    </dif>
+    <rim>
+      &Gcirc;i povas esti horizontala a&ubreve; oblikva; la oblikva
+      (nomata &leftquot;<ref tip="sub"
+      cel="oblikv.0o">oblikvo</ref>&rightquot;)
+      estas parto de <ref tip="malprt" cel="aski.0o">Askio</ref>.
+    </rim>
+    <trd lng="ca">barra</trd>
+    <trdgrp lng="en">
+      <trd>forward <ind>slash</ind></trd>,
+      <trd>fraction bar</trd>
+    </trdgrp>
+    <trd lng="de">Bruchstrich</trd>
+    <trd lng="fr">barre de fraction</trd>
+    <trd lng="nl">breukstreep</trd>
+    <trd lng="pl">kreska u&lstroke;amkowa</trd>
+    <trd lng="ru">&c_ch;&c_je;&c_r;&c_t;&c_a; &c_d;&c_r;&c_o;&c_b;&c_i;</trd>
+  </snc>
+  <trd lng="cs">zlomková čára</trd>
+  <trd lng="sk">zlomková čiara</trd>
+</drv>
+
+<drv mrk="frakci.algebra0o">
+  <kap>algebra <tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>MatVort</bib></fnt>
+  <snc>
+    <dif>
+      Skriba&jcirc;o, prezentanta
+      <ref tip="malprt" cel="divid.0o.MAT">dividon</ref>
+      de du algebraj esprimoj kunigitaj per
+      <ref tip="prt" cel="frakci.0streko">frakcistreko</ref>:
+      <ekz>
+        <frm><k>f</k>(1-2<k>i</k>)/(<k>n</k>+1)!</frm> estas algebra
+        <tld/>o.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="ca">fracci&oacute; alg&egrave;brica</trd>
+  <trd lng="cs">algebraický zlomek</trd>
+  <trd lng="de">algebraischer <ind>Bruch</ind></trd>
+  <trd lng="en">algebraic <ind>fraction</ind></trd>
+  <trd lng="es"><ind>fracci&oacute;n</ind> algebr&aacute;ica</trd>
+  <trd lng="fr">fraction alg&eacute;brique</trd>
+  <trd lng="nl">algebra&iuml;sche <ind>breuk</ind></trd>
+  <trd lng="pl">u&lstroke;amek algebraiczny</trd>
+  <trd
+  lng="ru">&c_a;&c_l;&c_g;&c_je;&c_b;&c_r;&c_a;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_a;&c_ja;
+  <ind>&c_d;&c_r;&c_o;&c_b;&c_mol;</ind></trd>
+  <trd lng="sk">algebrický zlomok</trd>
+</drv>
+
+<drv mrk="frakci.cxena0o">
+  <kap>&ccirc;ena <tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>PIV2</bib></fnt>
+  <snc>
+    <ref tip="dif" cel="frakci.cxen0o">&ccirc;en<tld/>o.</ref>
+  </snc>
+  <trd lng="ca">fracci&oacute; cont&iacute;nua</trd>
+  <trdgrp lng="de">
+    <trd>Kettenbruch</trd>,
+    <trd>kontinuierlicher <ind>Bruch</ind></trd>
+  </trdgrp>
+  <trd lng="en">continued <ind>fraction</ind></trd>
+  <trd lng="fr">fraction continue</trd>
+  <trdgrp lng="pl">
+    <trd>u&lstroke;amek &lstroke;a&nacute;cuchowy</trd>,
+    <trd>u&lstroke;amek ci&aogonek;g&lstroke;y</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_c;&c_je;&c_p;&c_n;&c_a;&c_ja; <ind>&c_d;&c_r;&c_o;&c_b;&c_mol;</ind></trd>,
+    <trd>&c_n;&c_je;&c_p;&c_r;&c_je;&c_r;&c_y;&c_v;&c_n;&c_a;&c_ja; <ind>&c_d;&c_r;&c_o;&c_b;&c_mol;</ind></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="frakci.cxen0o">
+  <kap>&ccirc;en<tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>PIV1</bib></fnt>
+  <snc>
+    <dif>
+      <ref tip="super" cel="vic.0o.MAT">Vico</ref> <frm><k>u</k></frm>
+      de
+      nenulaj pozitivaj <ref cel="entjer.0o">entjeroj</ref>, konsiderata
+      kune kun la vico <frm><k>v</k></frm>, kies <frm><k>n</k></frm>-a 
+      termo estas
+      <frm><k>v</k><sub><k>n</k></sub> =
+      <k>u</k><sub>0</sub>+(<k>u</k><sub>1</sub>+(...
+      +(<k>u</k><sub><k>n</k></sub>)<sup>-1</sup>...)<sup>-1</sup>)<sup>-1</sup></frm>:
+      <ekz>
+        &ccirc;en<tld/>on oni ofte signas per skriba&jcirc;o de la tipo
+        <frm><k>u</k><sub>0</sub>+(<k>u</k><sub>1</sub>+(<k>u</k><sub>2</sub>+...)<sup>-1</sup>)<sup>-1</sup></frm>,
+        tipografie prezentata kiel <ctl>plureta&gcirc;a</ctl>
+        <ref cel="frakci.0o.MAT"><tld/>o</ref>;
+      </ekz>
+      <ekz>
+        por &ccirc;iu racionalo ekzistas unika elvova&jcirc;o en
+        finian &ccirc;en<tld/>on <klr>(la konsiderata nombro egalas al la
+        lasta termo de la responda vico <frm><k>v</k></frm>)</klr>;
+      </ekz>
+      <ekz>
+        por &ccirc;iu transcenda reelo ekzistas unika elvova&jcirc;o en
+        nefinian &ccirc;en<tld/>on <klr>(la konsiderata nombro egalas al la
+        limeso de <frm><k>v</k></frm>)</klr>;
+      </ekz>
+      <ekz>
+        la &ccirc;en<tld/>o
+        <frm>1+(1+(1+...)<sup>-1</sup>)<sup>-1</sup></frm>
+        <ctl>egalas</ctl> al la
+        <ref cel="part.oradis0igo">ora dispartigo</ref>.
+      </ekz>
+    </dif>
+    <rim>
+      La termino jam ekzistas &ccirc;e Bricard
+      <fnt><bib>MatTerm</bib><lok>p. 11</lok></fnt>, sed sub la formo
+      <ctl>&ccirc;enfracio</ctl>.
+    </rim>
+  </snc>
+  <bld lok="../bld/frakci.cxen0o.jpg">
+    elvolva&jcirc;o de reelo &alfa; en &ccirc;en<tld/>on
+  </bld>
+  <trd lng="ca">fracci&oacute; cont&iacute;nua</trd>
+  <trdgrp lng="de">
+    <trd>Kettenbruch</trd>,
+    <trd>kontinuierlicher <ind>Bruch</ind></trd>
+  </trdgrp>
+  <trd lng="en">continued <ind>fraction</ind></trd>
+  <trd lng="fr">fraction continue</trd>
+  <trdgrp lng="pl">
+    <trd>u&lstroke;amek &lstroke;a&nacute;cuchowy</trd>,
+    <trd>u&lstroke;amek ci&aogonek;g&lstroke;y</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_c;&c_je;&c_p;&c_n;&c_a;&c_ja; <ind>&c_d;&c_r;&c_o;&c_b;&c_mol;</ind></trd>,
+    <trd>&c_n;&c_je;&c_p;&c_r;&c_je;&c_r;&c_y;&c_v;&c_n;&c_a;&c_ja; <ind>&c_d;&c_r;&c_o;&c_b;&c_mol;</ind></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="frakci.kvocienta0o">
+  <kap>kvocienta <tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <snc>
+    <dif>
+      <ref tip="dif" cel="frakci.0o.MAT">Frakcio</ref> prezentita
+      per numeratoro kaj denominatoro <klr>(kontraste al
+      <ref cel="frakci.pozicia0o">pozicia frakcio</ref>)</klr>.
+    </dif>
+  </snc>
+  <trdgrp lng="ca">
+    <trd>fracci&oacute; <klr>(nombre fraccionari)</klr></trd>,
+    <trd>nombre trencat</trd>
+  </trdgrp>
+  <trd lng="cs">podílový zlomek</trd>
+  <trd lng="de">gew&ouml;hnlicher <ind>Bruch</ind></trd>
+  <trdgrp lng="en">
+    <trd>common <ind>fraction</ind></trd>,
+    <trd>vulgar <ind>fraction</ind></trd>
+  </trdgrp>
+  <trd lng="fr">fraction ordinaire</trd>
+  <trd lng="nl">gewone <ind>breuk</ind></trd>
+  <trd lng="pl">u&lstroke;amek zwyk&lstroke;y</trd>
+  <trd lng="ru">&c_p;&c_r;&c_o;&c_s;&c_t;&c_a;&c_ja;
+  <ind>&c_d;&c_r;&c_o;&c_b;&c_mol;</ind></trd>
+  <trd lng="sk">podielový zlomok</trd>
+</drv>
+
+<drv mrk="frakci.numa0o">
+  <kap>n-uma <tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <snc>
+    <dif>
+      <ref tip="super" cel="frakci.pozicia0o">Pozicia frakcio</ref>
+      la&ubreve; bazo <frm><k>n</k></frm>:
+      <ekz>
+        <frm>0,349 = <sup>349</sup>/<sub>1000</sub></frm> estas
+        <ind>dekuma <tld/>o</ind>;
+        <trdgrp lng="ca">
+          <trd>nombre decimal</trd>,
+          <trd>fracci&oacute; decimal</trd>
+        </trdgrp>
+        <trdgrp lng="de">
+          <trd>Dezimalbruch</trd>,
+          <trd>Dezimalzahl</trd>
+        </trdgrp>
+        <trdgrp lng="en">
+          <trd>decimal <ind>fraction</ind></trd>,
+          <trd>decimal <ind>number</ind></trd>,
+          <trd>decimal</trd>
+        </trdgrp>
+        <trdgrp lng="fr">
+          <trd>nombre d&eacute;cimal</trd>,
+          <trd>fraction d&eacute;cimale</trd>
+        </trdgrp>
+        <trdgrp lng="nl">
+          <trd>tiendelige <ind>breuk</ind></trd>,
+          <trd>decimale <ind>breuk</ind></trd>
+        </trdgrp>
+        <trd lng="pl">u&lstroke;amek dziesi&eogonek;tny</trd>
+        <trd lng="ru">&c_d;&c_je;&c_s;&c_ja;&c_t;&c_i;&c_ch;&c_n;&c_a;&c_ja;
+        <ind>&c_d;&c_r;&c_o;&c_b;&c_mol;</ind></trd>
+      </ekz>
+      <ekz>
+        <frm><sup>356</sup>/<sub>512</sub></frm>, prezentebla en duuma
+        nombrosistemo per la numeralo <frm>0,1011001</frm>,
+        estas <ind>duuma <tld/>o</ind>.
+        <trd lng="ca">nombre fraccionari binari</trd>
+        <trd lng="de">bin&auml;rer <ind>Bruch</ind></trd>
+        <trd lng="en">dyadic fraction</trd>
+        <trdgrp lng="fr">
+          <trd>nombre dyadique</trd>,
+          <trd>nombre binaire &agrave; virgule</trd>
+        </trdgrp>
+        <trd lng="pl">u&lstroke;amek dw&oacute;jkowy</trd>
+        <trd lng="ru">&c_d;&c_v;&c_o;&c_i;&c_ch;&c_n;&c_a;&c_ja; <ind>&c_d;&c_r;&c_o;&c_b;&c_mol;</ind></trd>
+      </ekz>
+    </dif>
+  </snc>
+</drv>
+
+<drv mrk="frakci.pozicia0o">
+  <kap>pozicia <tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <uzo tip="fak">KOMP</uzo>
+  <snc>
+    <dif>
+      <klr>(la&ubreve; <ref cel="baz.0o.nombrosistema">bazo</ref>
+      <frm><k>n</k></frm>)</klr>
+      <ref tip="super" cel="prezen1.numa0o">n-uma prezento</ref>
+      de reelo, precipe se &gcirc;i ne estas entjero:
+      <ekz>
+        el &ccirc;iaj poziciaj <tld/>oj por komputiko plej gravas la dekumaj,
+        kiel <frm>0,75</frm>, kaj la duumaj, kiel <frm>0,11</frm>
+        <klr>(tiuj du
+        skriba&jcirc;oj prezentas unu saman nombron <frm>&#190;</frm>
+        en siaj respektivaj nombrosistemoj)</klr>;
+      </ekz>
+      <ekz>
+        se pozicia <tld/>o konsistas el finia nombro <frm><k>p</k></frm>
+        de
+        ciferoj <frm><k>c</k><sub><k>i</k></sub></frm>, &gcirc;i prezentas
+        racionalon, prezenteblan anka&ubreve; per kvocienta <tld/>o kun
+        denominatoro <frm><k>n</k><sup><k>p</k></sup></frm>;
+      </ekz>
+      <ekz>
+        <ind>perioda pozicia <tld/>o</ind> <klr>(senfina pozicia
+        <tld/>o,
+        kies <ctl>vosto</ctl> konsistas el unu sama cifergrupo senfine
+        ripeti&gcirc;anta)</klr>.
+        <trd lng="de">periodischer <ind>Bruch</ind></trd>
+        <trd lng="en">periodic <ind>fraction</ind></trd>
+        <trd lng="fr">fraction p&eacute;riodique</trd>
+        <trd lng="pl">u&lstroke;amek okresowy</trd>
+        <trd
+        lng="ru">&c_p;&c_je;&c_r;&c_i;&c_o;&c_d;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_a;&c_ja;
+        <ind>&c_d;&c_r;&c_o;&c_b;&c_mol;</ind></trd>
+      </ekz>
+    </dif>
+    <ref tip="malprt" cel="reel.0o">reelo;</ref>
+    <refgrp tip="sub">
+      <ref cel="frakci.numa0o">n-uma <tld/>o</ref>.
+    </refgrp>
+    <ref tip="vid" cel="on.0o.cifero">ono.</ref>
+    <trd lng="de">systematischer <ind>Bruch</ind><klr tip="ind"> (zur
+    Basis b)</klr></trd>
+    <trd lng="ca">nombre decimal <klr>(amb una part entera i una
+    fraccion&agrave;ria)</klr></trd>
+    <trd lng="en">systematic <ind>fraction</ind></trd>
+    <trd lng="fr">fraction syst&eacute;matique<klr tip="ind"> (&agrave; base
+    b)</klr></trd>
+    <trd
+    lng="ru">&c_s;&c_i;&c_s;&c_t;&c_je;&c_m;&c_a;&c_t;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_a;&c_ja;
+    <ind>&c_d;&c_r;&c_o;&c_b;&c_mol;</ind></trd>
+  </snc>
+  <trd lng="cs">poziční zlomek</trd>
+  <trd lng="sk">pozičný zlomok</trd>
+</drv>
+
+<drv mrk="frakci.racionala0o">
+  <kap>racionala <tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <snc>
+    <dif>
+      Elemento en la <ref cel="korp.frakci0o"><tld/>korpo</ref> de
+      <ref cel="ring.polinom0o">polinomringo</ref>:
+      <ekz>
+        la racionala <tld/>o <frm><g>1</g>/<g>X</g></frm> estas la
+        ekvivalento-klaso de &ccirc;iuj tiaj polinom-paroj
+        <frm>(<g>P</g>,<g>Q</g>)</frm>, ke
+        <frm><g>P</g>&#215;<g>X</g> = <g>Q</g></frm>.
+      </ekz>
+    </dif>
+    <rim>
+      La epiteto <ctl>racionala</ctl> resendas al la maniero konstrui la
+      aron
+      de racionalaj nombroj, sed tiun nocion oni povus nomi anka&ubreve;
+      <ctl>polinoma <tld/>o</ctl>. Same kiel oni ofte ne distingas inter
+      polinomoj kaj polinomaj funkcioj, oni en nerigora lingva&jcirc;o
+      identigas racionalajn <tld/>ojn kun
+      <ref cel="funkci.racionala0o">racionalaj funkcioj</ref>.
+    </rim>
+  </snc>
+  <trd lng="ca">fracci&oacute; racional</trd>
+  <trd lng="de">rationaler <ind>Bruch</ind></trd>
+  <trd lng="en">rational <ind>fraction</ind></trd>
+  <trd lng="fr">fraction rationnelle</trd>
+  <trd lng="ru">&c_r;&c_a;&c_c;&c_i;&c_o;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_a;&c_ja; <ind>&c_d;&c_r;&c_o;&c_b;&c_mol;</ind></trd>
+</drv>
+</art>
+<!--
+$Log: frakci.xml,v $
+Revision 1.44  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.43  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.42  2011/11/30 11:10:07  revo
+Jeromo Vasxe: + snc sci
+
+Revision 1.41  2011/11/23 14:10:08  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.40  2009/02/22 17:30:43  revo
+Russ Williams: +trd en
+
+Revision 1.39  2007/06/10 16:30:57  revo
+Tulio Flores: +tr pt
+
+Revision 1.38  2003/05/09 16:31:25  revo
+Marc Bavant: ~o: mod rim
+
+Revision 1.37  2003/04/21 16:34:10  revo
+Marc Bavant: dekuma ~o: mod trd en/de; duuma ~o: mod trd en/fr, -adm;
+pozicia ~o: mod dif
+Revision 1.36  2003/04/07 16:35:08  revo
+Marc Bavant: ~o MAT: mod mod rim
+Revision 1.35  2003/03/23 17:32:53  revo
+Marc Bavant: algebra ~o: +trd pl
+-->
+</vortaro>

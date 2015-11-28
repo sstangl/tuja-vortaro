@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: siberi.xml,v 1.22 2015/07/04 08:37:43 revo Exp $">
+<kap>
+  <rad>Siberi</rad>/o
+</kap>
+<drv mrk="siberi.S0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">GEOG</uzo>
+  <snc>
+    <dif>
+      Norda parto de <ref tip="malprt" cel="azi.A0o">Azio</ref>,
+      de Uralo okcidente &gcirc;is la akvodislimo inter la
+      <ref cel="ocean.ArktaO0o">Arkta Oceano</ref> kaj Pacifiko,
+      proks. 7000km longa (latitude) kaj 3500km lar&gcirc;a (meridiane);
+      koncepte, la Azia parto de la akvokolekta baseno de la
+      Arkta Oceano:
+      <ekz>
+        &scirc;i, tamen, estos kondamnita al plurjara ekzilo en <tld/>o
+        <fnt><aut>Gerrit Berveling</aut>:
+        <vrk>Iom tro predikema romano (Lev Tolstoj, Resurekto)</vrk>,
+        <bib>Monato</bib>
+        <lok>jaro 2001a, numero 5a, p. 30a</lok></fnt>.
+      </ekz>
+    </dif>
+    <ref tip="lst" cel="region.0o" lst="voko:regionoj">regiono</ref>
+    <!-- bld lok="../bld/Siberio.png">
+    Loko de <tld/>o en Azio
+    Mapo forkomentita pro auxtorrajta problemo.
+    </bld-->
+    <rim num="1">
+      Do, <tld/>o pliparte situas en <ref cel="rus.R0ujo">Rusujo</ref>
+      kaj parte en la Norda Kaza&hcirc;ujo.
+    </rim>
+    <rim num="2">
+      PIV1 kaj PIV2 etendas <tld/>on &gcirc;is Pacifiko, aldonante al &gcirc;i la
+      Nord-<ref cel="azi.OrientaA0o.GEOG">Orientan Azion</ref>.
+    </rim>
+  </snc>
+  <trd lng="be">&c_S;&c_ib;&c_b;&c_ib;&c_r;</trd>
+  <trd lng="ca">Sib&egrave;ria</trd>
+  <trd lng="cs">Sibiř</trd>
+  <trd lng="de">Sibirien</trd>
+  <trd lng="en">Siberia</trd>
+  <trd lng="fa">&a_s;&f_y;&a_b;&a_r;&f_y;</trd>
+  <trd lng="fr">Sib&eacute;rie</trd>
+  <trd lng="hu">Szib&eacute;ria</trd>
+  <trd lng="nl">Siberi&euml;</trd>
+  <trd lng="pl">Syberia</trd>
+  <trd lng="pt">Sib&eacute;ria</trd>
+  <trd lng="ru">&c_S;&c_i;&c_b;&c_i;&c_r;&c_mol;</trd>
+  <trd lng="sk">Sibír</trd>
+</drv>
+
+<drv mrk="siberi.0ano">
+  <kap><tld lit="s"/>ano</kap>
+  <snc>
+    <dif>
+      Lo&gcirc;anto de <ref tip="malprt" cel="siberi.S0o"><tld/>o</ref>.
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_ib;&c_b;&c_ib;&c_r;&c_a;&c_k;</trd>
+  <trd lng="ca">siberi&agrave;</trd>
+  <trd lng="de">Sibirier</trd>
+  <trdgrp lng="fr">
+    <trd>sib&eacute;rien<klr> (subst.)</klr></trd>
+  </trdgrp>
+  <trd lng="hu">szib&eacute;riai<klr> (lakos)</klr></trd>
+  <trd lng="nl">Siberi&euml;r</trd>
+  <trd lng="pl">sybirak</trd>
+  <trd lng="pt">Siberiano</trd>
+  <trd lng="ru">&c_s;&c_i;&c_b;&c_i;&c_r;&c_ja;&c_k;</trd>
+</drv>
+<adm>
+  La markoj estas eraraj (devus esti: siberi.0o kaj siberi.s0ano).
+  Bedauxrinde estas multaj referencoj al ili.
+  <aut>MB</aut>
+</adm>
+</art>
+<!--
+$Log: siberi.xml,v $
+Revision 1.22  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.21  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.20  2013/08/23 10:10:14  revo
+Wolfram Diestel: referencoj al listo regionoj
+
+Revision 1.19  2013/02/11 14:10:11  revo
+Evandro Avellar: Tr+ pt
+
+Revision 1.18  2013/02/11 05:10:12  revo
+Evandro Avellar: Tr+ pt
+
+Revision 1.17  2012/08/24 19:10:33  revo
+Marc Rausell: + trd ca
+
+Revision 1.16  2011/09/26 22:10:08  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.15  2009/02/19 20:26:34  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.14  2008/12/01 16:47:27  revo
+Marc Bavant: mod ref al Cxukcxa Maro; +adm; Orient~a Maro: sxovis
+gxustaloken
+
+-->
+</vortaro>

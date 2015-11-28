@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: dafn.xml,v 1.20 2015/09/05 20:10:15 revo Exp $">
+<kap>
+  <rad>dafn</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="dafn.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="dafn.0o.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      Venena arbedo;
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:botanikaj_genroj">genro</ref> el familio <ref
+      tip="malprt"
+      cel="timele.0oj">timeleacoj</ref>
+      (<trd lng="la">Daphne</trd>):
+      <ekz>
+        ili eniris en arbaron, kie kreskis
+        <klr>...</klr> tutaj tufoj da <tld/>o
+        <fnt>
+          <aut>B. N&ecaron;mcov&aacute;, trad. V. Tobek kaj K. Proch&aacute;zka</aut>,
+          <vrk><url ref="https://eo.wikisource.org/wiki/Avineto/II.">
+          Avineto</url></vrk>,
+          <lok>[sen dato]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_v;&c_o;&c_w;&c_ch;&c_a;&c_ja;
+  &c_ja;&c_g;&c_a;&c_d;&c_a;</trd>
+  <trdgrp lng="ca">
+    <trd>dafne</trd>,
+    <trd>matapoll</trd>,
+    <trd>tintorell</trd>,
+    <trd>lloreret</trd>
+  </trdgrp>
+  <trd lng="cs">l&yacute;kovec</trd>
+  <trd lng="de">Seidelbast</trd>
+  <trd lng="en">daphne</trd>
+  <trdgrp lng="fa">
+    <trd>&a_b;&a_r;&f_g;&zwnj;&a_b;&a_w;&f_y;&f_y;</trd>,
+    <trd>&a_d;&a_A;&a_f;&a_n;&a_h;</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>daphn&eacute;</trd>,
+    <trd>garou</trd>,
+    <trd>sainbois</trd></trdgrp>
+  <trd lng="he">&dalet;&pe;&nun;&he;</trd>
+  <trd lng="hu">boroszl&aacute;n</trd>
+  <trd lng="pl">wawrzynek</trd>
+  <trd lng="pt">dafne</trd>
+  <trdgrp lng="ru">
+    <trd>&c_v;&c_o;&c_l;&c_ch;&c_mol;&c_ja;
+    &c_ja;&c_g;&c_o;&c_d;&c_a;</trd>,
+    <trd>&c_v;&c_o;&c_l;&c_ch;&c_n;&c_i;&c_k;</trd>,
+    <trd>&c_v;&c_o;&c_l;&c_ch;&c_je;&c_ja;&c_g;&c_o;&c_d;&c_n;&c_i;&c_k;
+    &c_l;&c_a;&c_v;&c_r;&c_o;&c_l;&c_i;&c_s;&c_t;&c_n;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trd lng="sk">lykovec</trd>
+</drv>
+</art>
+<!--
+$Log: dafn.xml,v $
+Revision 1.20  2015/09/05 20:10:15  revo
+Jeromo Vasxe: + ekz
+
+Revision 1.19  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2013/08/29 15:10:28  revo
+Wolfram Diestel: referenco al listo bot genroj
+
+Revision 1.17  2012/08/27 14:10:20  revo
+Marc Rausell: + trd ca
+
+Revision 1.16  2010/04/24 17:07:51  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.15  2009/04/27 16:30:53  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.14  2007/07/11 16:31:32  revo
+Tulio Flores: +tr pt
+
+Revision 1.13  2005/02/08 17:31:35  revo
+-->
+</vortaro>

@@ -1,0 +1,116 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: anomal.xml,v 1.18 2015/07/04 08:37:30 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>anomali</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="anomal.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="anomal.0o.SCI">
+    <dif>
+      Forflanki&gcirc;o de la &gcirc;enerala regulo,
+      eksternorma&jcirc;o,
+      <ref tip="vid" cel="aberac.0o.SCI">aberacio</ref>.
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_n;&c_a;&c_m;&c_a;&c_l;&c_ib;&c_ja;</trd>,
+    <trd>&c_a;&c_d;&c_h;&c_ib;&c_l;&c_je;&c_n;&c_mol;&c_n;&c_je;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>abnormalita</trd>,
+    <trd>anomálie</trd>,
+    <trd>nepravidelnost</trd>,
+    <trd>zrůdnost</trd>,
+    <trd>úchylka</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+      <trd>Abweichung</trd>,
+      <trd>Anomalie</trd>
+  </trdgrp>
+  <trd lng="en">anomaly</trd>
+  <trd lng="es">anomal&iacute;a</trd>
+  <trd lng="fr">anomalie</trd>
+  <trdgrp lng="hu">
+    <trd>elt&eacute;r&eacute;s</trd>,
+    <trd>rendelleness&eacute;g</trd>
+    <trd>anom&aacute;lia</trd>
+  </trdgrp>
+  <trd lng="nl">anomalie</trd>
+  <trdgrp lng="pl">
+    <trd>anomalia</trd>,
+    <trd>nieprawid&lstroke;owo&sacute;&cacute;</trd>,
+    <trd>odchy&lstroke;ka</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_a;&c_n;&c_o;&c_m;&c_a;&c_l;&c_i;&c_ja;</trd>,
+    <trd>&c_n;&c_je;&c_p;&c_r;&c_a;&c_v;&c_i;&c_l;&c_mol;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>,
+    <trd>&c_o;&c_t;&c_k;&c_l;&c_o;&c_n;&c_je;&c_n;&c_i;&c_je;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>anom&aacute;lia</trd>,
+    <trd>nepravidelnos&tcaron;</trd>,
+    <trd>úchylka</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="anomal.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="anomal.0a.SCI">
+    <dif>
+      Nekonforma al la atendebla, en ceteraj
+      okazoj normala situacio:
+      <ekz>
+        iuj kavern-animaloj estas tre <tld/>aj
+        <fnt>
+          <bib>OriginoDeSpecioj</bib>,
+          <lok>&ccirc;apitro 5a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="fr">
+    <trd>aberrant</trd>,
+    <trd>d&eacute;viant</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>anomalny</trd>,
+    <trd>nieprawid&lstroke;owy</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: anomal.xml,v $
+Revision 1.18  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.16  2013/04/19 06:10:12  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.15  2013/04/17 15:10:10  revo
+Jeromo Vasxe: + ~a
+
+Revision 1.14  2005/02/11 17:31:51  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.13  2003/11/09 17:31:42  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.12  2003/02/19 18:42:18  revo
+Ulrich Fellmann: + 2 trd = de
+
+Revision 1.11  2002/10/08 17:57:47  revo
+Christopher Zervic: + ang
+
+Revision 1.10  2002/09/07 17:41:23  revo
+Viliam Bur: +sk trd
+
+Revision 1.9  2002/05/09 18:46:25  revo
+-->
+</vortaro>

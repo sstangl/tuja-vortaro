@@ -1,0 +1,150 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: sxtip.xml,v 1.19 2015/06/03 17:10:15 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>&scirc;tip</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="sxtip.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="sxtip.0o.KOMUNE">
+    <dif>
+      Mallonga dika peco da ligno:
+      <ekz>
+        <tld/>o <klr>(kolbo, tenilo)</klr> de pafilo;
+      </ekz>
+      <ekz>
+        &scirc;i sidis rigida, kvaza&ubreve; <tld/>o
+        <fnt><bib>ElektFab</bib>, <lok>fi&scirc;kaptisto kaj lia
+        edzino</lok></fnt>;
+      </ekz>
+      <ekz>
+        malsa&gcirc;a kiel <tld/>o
+        <fnt><bib>PrV</bib></fnt>.
+      </ekz>
+      <ekz>
+        <ref tip="vid" cel="kap.sxtip0ulo.KOMUNE">&scirc;tipkapulo</ref>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="kan.0o">kano</ref>,
+      <ref cel="stip.0o.tigo">stipo<sncref/></ref>,
+      <ref cel="trab.0o">trabo</ref>,
+      <ref cel="trunk.0o">trunko</ref>,
+      <ref cel="verg.0o">vergo</ref>
+    </refgrp>
+  <trdgrp lng="be">
+    <trd>&c_c;&c_u;&c_r;&c_b;&c_a;&c_n;</trd>,
+    <trd>&c_p;&c_a;&c_c;&c_u;&c_r;&c_b;&c_a;&c_l;&c_a;&c_k;</trd>,
+    <trd>&c_p;&c_a;&c_l;&c_je;&c_n;&c_a;</trd>,
+    <trd>&c_k;&c_a;&c_l;&c_o;&c_d;&c_a;</trd>
+  </trdgrp>
+  <trd lng="ca">tronc</trd>
+  <trdgrp lng="de">
+    <trd>Scheit</trd>,
+    <trd>Holzscheit</trd>,
+    <trd>Holzklotz</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>log</trd>,
+    <trd>block</trd>
+  </trdgrp>
+  <trd lng="fr">buche</trd>
+  <trdgrp lng="hu">
+    <trd>has&aacute;b</trd>,
+    <trd>tusk&oacute;</trd>,
+    <trd>t&odblac;ke</trd>
+  </trdgrp>
+  <trdgrp lng="it">
+    <trd>pezzo<klr> di legno</klr></trd>,
+    <trd>ciocco<klr> (di legno)</klr></trd>,
+    <trd>ceppo<klr> (di legno)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>blok</trd>,
+    <trd>houtblok</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_o;&c_l;&c_je;&c_n;&c_o;</trd>,
+    <trd>&c_ch;&c_u;&c_r;&c_b;&c_a;&c_n;</trd>
+  </trdgrp>
+  </snc>
+  <snc mrk="sxtip.0o.stumpo">
+  <uzo tip="stl">ARK</uzo>
+    <ref tip="dif" cel="stump.0o.FIG">stumpo <sncref/></ref>
+    <ekz>
+      la a&gcirc;on de la arbo oni difinis per la nombro
+      de la tavoloj sur la <tld/>o
+      <fnt><bib>FK</bib>, <lok>el la vivo kaj sciencoj</lok></fnt>.
+    </ekz>
+    <trd lng="ca">soca</trd>
+    <trdgrp lng="it">
+      <trd>moncone</trd>,
+      <trd>ceppaia</trd>
+    </trdgrp>
+  </snc>
+</drv>
+
+<drv mrk="sxtip.0aro">
+  <kap><tld/>aro</kap>
+  <snc mrk="sxtip.0aro.KOMUNE">
+    <dif>
+      Amaso da <tld/>oj, interalie tiu sur kiu oni cindrigas mortintojn
+      a&ubreve; brulmortigas kondamnitojn.
+    </dif>
+  </snc>
+  <trd lng="be">&c_d;&c_r;&c_o;&c_v;&c_y;</trd>
+  <trdgrp lng="ca">
+    <trd>pira</trd>,
+    <trd>foguera</trd>
+  </trdgrp>
+  <trd lng="de">Scheiterhaufen</trd>
+  <trdgrp lng="en">
+    <trd>woodpile</trd>,
+    <trd>pyre</trd>
+  </trdgrp>
+  <trd lng="fr">bucher</trd>
+  <trdgrp lng="hu">
+    <trd>farak&aacute;s</trd>,
+    <trd>m&aacute;glya</trd>
+  </trdgrp>
+  <trdgrp lng="it">
+    <trd>rogo</trd>,
+    <trd>pira</trd>, 
+    <trd><ind>catasta</ind> di legna<klr>(per il fuoco)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>houtstapel</trd>,
+    <trd>brandstapel</trd>
+  </trdgrp>
+  <trd lng="ru">&c_d;&c_r;&c_o;&c_v;&c_a;</trd>
+</drv>
+</art>
+<!--
+$Log: sxtip.xml,v $
+Revision 1.19  2015/06/03 17:10:15  revo
+Joop Eggen: +trd en
+
+Revision 1.18  2011/12/10 19:10:20  revo
+Marc Rausell: +trd ca
+
+Revision 1.17  2011/02/10 16:10:13  revo
+Jeromo Vasxe: interpunkcio de ekz
+
+Revision 1.16  2009/04/17 19:48:15  revo
+Antonio Codazzi: +trd it
+
+Revision 1.15  2005/07/08 16:32:49  revo
+Jeromo Vasxe: ~o + 1 ekz, + snc ark
+
+Revision 1.14 2002/11/21 17:32:52 revo
+Jozefo Horvath: +trd hu
+
+Revision 1.13 2002/10/16 16:31:15 revo
+Zmicier Lapcionak: + trd be
+
+Revision 1.12 2002/02/28 19:46:13 revo
+-->
+</vortaro>

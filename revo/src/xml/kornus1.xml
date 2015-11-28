@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: kornus1.xml,v 1.6 2013/08/25 16:10:42 revo Exp $">
+<kap>
+  <rad>kornusac</rad>/oj
+</kap>
+<drv mrk="kornus1.0oj">
+  <kap>
+    <tld/>oj
+  </kap>
+  <uzo tip="fak">BOT</uzo>
+  <snc>
+    <dif>
+      <ref tip="lst" cel="famili.0o.BIO"
+      lst="voko:botanikaj_familioj">Familio</ref> de <ref tip="malprt"
+      cel="kotile.du0aj">dukotiledonaj</ref>
+      plantoj (<trd lng="la">Cornaceae</trd>).
+    </dif>
+  </snc>
+  <trd lng="be">&c_k;&c_ib;&c_z;&c_ib;&c_l;&c_a;&c_v;&c_y;&c_ja; <klr tip="amb">(&c_s;&c_ja;&c_m;'&c_ja;)</klr></trd>
+  <trd lng="de">Hartriegelgew&auml;chse</trd>
+  <trd lng="hu">somf&eacute;l&eacute;k</trd>
+  <trd lng="pt">corn&aacute;ceas</trd>
+  <trd lng="ru">&c_k;&c_i;&c_z;&c_i;&c_l;&c_o;&c_v;&c_y;&c_je;</trd>
+</drv>
+</art>
+
+<!--
+$Log: kornus1.xml,v $
+Revision 1.6  2013/08/25 16:10:42  revo
+Wolfram Diestel: referencoj al listo bot familioj
+
+Revision 1.5  2006/11/14 17:30:44  revo
+Tulio Flores: +tr pt
+
+Revision 1.4  2004/08/05 16:31:22  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.3  2004/04/29 16:31:47  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.2  2001/11/02 19:12:41  revo
+Yury Finkel: +trd ru
+
+-->
+</vortaro>

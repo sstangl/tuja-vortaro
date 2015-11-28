@@ -1,0 +1,314 @@
+<?xml version="1.0"?>
+
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: barb.xml,v 1.31 2015/07/04 08:37:31 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>barb</rad>/o
+</kap>
+<drv mrk="barb.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="barb.0o.ANA">
+    <uzo tip="fak">ANA</uzo>
+    <dif>
+      Haroj de vango kaj mentono:
+      <ekz>
+        kiel pastro, li razis la <tld/>on kaj la kapon
+        <fnt><bib>Far1</bib>, <lok>&ccirc;apitro 1a</lok></fnt>;
+      </ekz>
+      <ekz>
+        <tld/>o de viro, kapro;
+      </ekz>
+      <ekz>
+        falsa, artefarita <tld/>o;
+      </ekz>
+      <ekz>
+        plej rimarkinda estis lia grandega peruko [...] kaj arta
+        <tld/>o,
+        similanta katan voston
+        <fnt><bib>Far1</bib>, <lok>&ccirc;apitro 1a</lok></fnt>;
+      </ekz>
+      <ekz>
+        <tld/>o elkreskis, sed sa&gcirc;on ne naskis
+        <fnt><bib>PrV</bib></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_b;&c_a;&c_r;&c_a;&c_d;&c_a;</trd>
+    <trd lng="br">barv</trd>
+    <trd lng="ca">barba</trd>
+    <trd lng="de">Bart</trd>
+    <trd lng="en">beard</trd>
+    <trd lng="es">barba</trd>
+    <trd lng="fr">barbe</trd>
+    <trd lng="he">&zayin;&qof;&fnun;</trd>
+    <trd lng="hu">szak&aacute;ll</trd>
+    <trd lng="id">janggut</trd>
+    <trd lng="it">barba</trd>
+    <trd lng="nl">baard</trd>
+    <trdgrp lng="pl">
+      <trd>broda</trd>,
+      <trd>zarost</trd>
+    </trdgrp>
+    <trd lng="ru">&c_b;&c_o;&c_r;&c_o;&c_d;&c_a;</trd>
+    <trd lng="sk">brada</trd>
+    <trd lng="sv">sk&auml;gg</trd>
+    <trd lng="vo">balib</trd>
+  </snc>
+  <trd lng="cs">vousy na bradě a lících</trd>
+</drv>
+
+<drv mrk="barb.0ajxo">
+  <kap><tld/>a&jcirc;o<fnt>PV</fnt></kap>
+  <snc>
+    <dif>
+      Io simila al <tld/>o.
+    </dif>
+    <trd lng="de">Barthaar</trd>
+    <trd lng="es">barba</trd>
+    <trd lng="nl">baardhaar</trd>
+  </snc>
+  <adm>
+    La vorto ne plu estas en PIV. &Gcirc;ia senco
+    ne aperas klare. (MB)
+  </adm>
+</drv>
+
+<drv mrk="barb.0a">
+  <kap><tld/>a<fnt>PV</fnt></kap>
+  <snc>
+    <ref tip="dif" cel="barb.0hava"><tld/>hava.</ref>
+    <trd lng="be">&c_b;&c_a;&c_r;&c_a;&c_d;&c_a;&c_t;&c_y;</trd>
+    <trd lng="en">bearded</trd>
+    <trd lng="de">b&auml;rtig</trd>
+    <trdgrp lng="es">
+      <trd>barbado, -a</trd>,
+      <trd>barbudo, -a</trd>
+    </trdgrp>
+    <trd lng="fr">barbu<klr tip="ind"> (adj.)</klr></trd>
+    <trd lng="it">barbuto<klr> (agg.)</klr></trd>
+    <trd lng="pl">brodaty</trd>
+    <trd lng="ru">&c_b;&c_o;&c_r;&c_o;&c_d;&c_a;&c_t;&c_y;&c_j;</trd>
+    <trd lng="sv">sk&auml;ggig</trd>
+  </snc>
+  <trd lng="cs">vousatý</trd>
+  <trd lng="sk">bradatý</trd>
+</drv>
+
+<drv mrk="barb.0hava">
+  <kap><tld/>hava</kap>
+  <snc>
+    <dif>
+      Havanta <tld/>on.
+    </dif>
+    <trd lng="be">&c_b;&c_a;&c_r;&c_a;&c_d;&c_a;&c_t;&c_y;</trd>
+    <trd lng="br">barvek</trd>
+    <trd lng="ca">barbat</trd>
+    <trd lng="de">b&auml;rtig</trd>
+    <trd lng="en">bearded</trd>
+    <trdgrp lng="es">
+      <trd>barbado, -a</trd>,
+      <trd>barbudo, -a</trd>
+    </trdgrp>
+    <trd lng="fr">barbu<klr tip="ind"> (adj.)</klr></trd>
+    <trd lng="he">&mem;&zayin;&vav;&qof;&fnun;</trd>
+    <trd lng="hu">szak&aacute;llas</trd>
+    <trd lng="it">barbuto<klr> (agg.)</klr></trd>
+    <trd lng="nl">baardig</trd>
+    <trdgrp lng="pl">
+      <trd>brodaty</trd>,
+      <trd>zaro&sacute;ni&eogonek;ty</trd>
+    </trdgrp>
+    <trd lng="ru">&c_b;&c_o;&c_r;&c_o;&c_d;&c_a;&c_t;&c_y;&c_j;</trd>
+    <trd lng="sk">bradat&yacute;</trd>
+    <trd lng="sv">sk&auml;ggig</trd>
+  </snc>
+  <trd lng="cs">vousatý</trd>
+</drv>
+
+<drv mrk="barb.0isto">
+  <kap><tld/>isto</kap>
+  <snc mrk="barb.0isto.barbiro">
+    <ref tip="dif" cel="barbir.0o">barbiro</ref>
+    <trdgrp lng="be">
+      <trd>&c_g;&c_a;&c_l;&c_ja;&c_r;</trd>,
+      <trd>&c_c;&c_y;&c_r;&c_u;&c_l;&c_mol;&c_n;&c_ib;&c_k;</trd>
+    </trdgrp>
+    <trd lng="br">barver</trd>
+    <trd lng="ca">barber</trd>
+    <trd lng="de">Bartschneider</trd>
+    <trd lng="en">barber</trd>
+    <trd lng="es">barbero</trd>
+    <trd lng="fr">barbier</trd>
+    <trd lng="it">barbiere</trd>
+    <trdgrp lng="ru">
+      <trd>&c_b;&c_r;&c_a;&c_d;&c_o;&c_b;&c_r;&c_je;&c_j;</trd>,
+      <trd>&c_c;&c_i;&c_r;&c_ju;&c_l;&c_mol;&c_n;&c_i;&c_k;</trd>
+    </trdgrp>
+    <trd lng="sv">barberare</trd>
+  </snc>
+  <trd lng="cs">holič</trd>
+  <trd lng="sk">holič</trd>
+</drv>
+
+<drv mrk="barb.0lano">
+  <kap><tld/>lano<fnt>Z</fnt></kap>
+  <snc>
+    <ref tip="dif" cel="lanug.0o">lanugo</ref>
+    <trd lng="be">&c_p;&c_u;&c_sh;&c_o;&c_k; <klr tip="amb">(&c_n;&c_a;
+    &c_p;&c_a;&c_d;&c_b;&c_a;&c_r;&c_o;&c_d;&c_z;&c_mol;&c_d;&c_z;&c_ib;)</klr></trd>
+    <trd lng="br">marblev</trd>
+    <trd lng="ca">p&egrave;l moix&iacute;</trd>
+    <trd lng="en">fuzz</trd>
+    <trd lng="fr">duvet<klr tip="ind"> (poils)</klr></trd>
+    <trd lng="hu">sz&odblac;rpihe</trd>
+    <trd lng="it">lanuggine</trd>
+    <trd lng="ru">&c_p;&c_u;&c_sh;&c_o;&c_k; <klr tip="amb">(&c_n;&c_a;
+    &c_p;&c_o;&c_d;&c_b;&c_o;&c_r;&c_o;&c_d;&c_k;&c_je;)</klr></trd>
+    <trd lng="sv">fjun</trd>
+  </snc>
+  <trd lng="cs">chmýří na bradě</trd>
+  <trd lng="sk">jemné chĺpky na brade</trd>
+</drv>
+
+<drv mrk="barb.0ulo">
+  <kap><tld/>ulo</kap>
+  <snc>
+    <dif>
+      <tld lit="B"/>hava homo.
+    </dif>
+    <trd lng="be">&c_b;&c_a;&c_r;&c_a;&c_d;&c_a;&c_ch;</trd>
+    <trdgrp lng="de">
+      <trd>Barttr&auml;ger</trd>,
+      <trd>B&auml;rtiger</trd>
+    </trdgrp>
+    <trd lng="ca">barbut</trd>
+    <trd lng="br">barveg</trd>
+    <trd lng="en">bearded (individual)</trd>
+    <trd lng="es">barbudo</trd>
+    <trd lng="fr">barbu<klr tip="ind"> (subst.)</klr></trd>
+    <trd lng="hu">szak&aacute;llas<klr tip="ind"> (ember)</klr></trd>
+    <trd lng="it">barbuto<klr> (sost.)</klr></trd>
+    <trd lng="nl">baardman</trd>
+    <trd lng="pl">brodacz</trd>
+    <trd lng="ru">&c_b;&c_o;&c_r;&c_o;&c_d;&c_a;&c_ch;</trd>
+    <trd lng="sk">brad&aacute;&ccaron;</trd>
+    <trd lng="sv">sk&auml;ggig person</trd>
+  </snc>
+  <trd lng="cs">vousáč</trd>
+</drv>
+
+<drv mrk="barb.0fisxo">
+  <kap><tld/>fi&scirc;o<fnt>PV</fnt></kap>
+  <snc>
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      Riverfi&scirc;o el familio karpoidoj (<trd lng="la">barbus</trd>).
+    </dif>
+    <trdgrp lng="de">
+      <trd>Barbe</trd>,
+      <trd>Bartenfisch</trd>
+    </trdgrp>
+    <trd lng="ca">barb</trd>
+    <trd lng="en">catfish</trd>
+    <trd lng="fr">barbeau</trd>
+    <trd lng="hu">m&aacute;rna</trd>
+    <trd lng="it">barbo</trd>
+    <trd lng="pl">brzanka</trd>
+    <trd lng="ru">&c_u;&c_s;&c_a;&c_ch; <klr
+    tip="amb">(&c_r;&c_y;&c_b;&c_a;)</klr></trd>
+  </snc>
+  <adm>
+    PIV enkondukis "barbio" por &ccirc;i tiu senco. (MB)
+  </adm>
+</drv>
+
+<drv mrk="barb.sen0a">
+  <kap>sen<tld/>a</kap>
+  <snc>
+    <dif>
+      Ne havanta <tld/>on:
+      <ekz>
+        la rondaj, senbarbaj viza&gcirc;oj de la armitaj e&ubreve;nukoj
+        <fnt>
+        <bib>I&scirc;tar</bib>,
+        <lok>&ccirc;apitro 21a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_b;&c_je;&c_z;&c_b;&c_a;&c_r;&c_o;&c_d;&c_y;</trd>
+    <trdgrp lng="br">
+      <trd>divarv</trd>,
+      <trd>blouc'h</trd>
+    </trdgrp>
+    <trdgrp lng="ca">
+      <trd>barbamec</trd>,
+      <trd>imberbe</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd>bartlos</trd>,
+      <trd>glatt</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>beardless</trd>,
+      <trd>clean-<ind>shaven</ind></trd>
+    </trdgrp>
+    <trdgrp lng="es">
+      <trd>desbarbado, -a</trd>,
+      <trd>chino, -a<klr> (El Salv.)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>glabre</trd>,
+      <trd>imberbe</trd>
+    </trdgrp>
+    <trd lng="hu">csupasz k&eacute;p&udblac;</trd>
+    <trd lng="it">imberbe</trd>
+    <trd lng="nl">baardloos</trd>
+    <trd lng="ru">&c_b;&c_je;&c_z;&c_b;&c_o;&c_r;&c_o;&c_d;&c_y;&c_j;</trd>
+    <trdgrp lng="sv">
+      <trd>sk&auml;ggl&ouml;s</trd>,
+      <trd>sl&auml;trakad</trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>bezvousý</trd>,
+    <trd>holobradý</trd>
+  </trdgrp>
+  <trd lng="sk">holobradý</trd>
+</drv>
+</art>
+<!--
+
+$Log: barb.xml,v $
+Revision 1.31  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.30  2015/06/29 16:29:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.29  2014/05/30 15:10:53  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.28  2010/11/06 17:30:20  revo
+Antonio Codazzi: +trd it
+
+Revision 1.27  2009/08/26 16:31:16  revo
+Jerano Zachrisson: +trd sv
+
+Revision 1.26  2009/02/28 17:30:31  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.25  2008/08/23 16:30:39  revo
+Wieland Pusch: trd la sen krampoj
+
+Revision 1.24  2006/05/30 18:09:29  revo
+Jeromo Vasxe: + kk mrk, + kk trd fr
+
+Revision 1.23  2006/05/07 16:32:01  revo
+Eduardo Navas: +trd es
+
+Revision 1.22  2005/04/12 16:32:24  revo
+-->
+
+</vortaro>

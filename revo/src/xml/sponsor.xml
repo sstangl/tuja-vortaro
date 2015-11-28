@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: sponsor.xml,v 1.6 2015/07/04 08:37:44 revo Exp $">
+<kap>
+  <rad>sponsor</rad>/o <fnt><bib>NePiv</bib></fnt>
+</kap>
+<drv mrk="sponsor.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="stl">RAR</uzo>
+  <snc mrk="sponsor.0o.mecenato">
+    <ref tip="dif" cel="mecena.0o.BELA">mecenato</ref>
+    <ekz>
+      oni pripensu &ccirc;i tiun eblecon kaj oni ser&ccirc;u <tld/>ojn kaj
+      eldonhelpantojn
+      <fnt>
+        <aut>A. Pettyn</aut>,
+        <vrk>La saniga lingvo...</vrk>,
+        <lok><url
+        ref="http://www.eventoj.hu/arkivo/eve-073.htm">Eventoj, 1995-03,
+        numero 73a</url></lok>
+      </fnt>.
+    </ekz>
+  </snc>
+  <trd lng="cs">sponzor</trd>
+  <trdgrp lng="de">
+    <trd>Sponsor</trd>
+  </trdgrp>
+  <trd lng="fr">sponsor</trd>
+  <trd lng="it">sponsor</trd>
+  <trd lng="sk">sponzor</trd>
+</drv>
+
+<drv mrk="sponsor.0i">
+  <kap><tld/>i</kap>
+  <uzo tip="stl">RAR</uzo>
+  <gra><vspec>x</vspec></gra>
+  <snc mrk="sponsor.0i.mecenati">
+    <ref tip="dif" cel="mecena.0i.BELA">mecenati</ref>
+  </snc>
+  <trd lng="cs">sponzorovat</trd>
+  <trdgrp lng="de">
+    <trd>sponsorn</trd>
+  </trdgrp>
+  <trd lng="fr">sponsoriser</trd>
+  <trd lng="it">sponsorizzare</trd>
+  <trd lng="sk">sponzorovať</trd>
+</drv>
+</art>
+
+<!--
+$Log: sponsor.xml,v $
+Revision 1.6  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.5  2015/06/29 16:33:24  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.4  2014/03/29 12:10:18  revo
+Damien Brucker: +trd fr
+
+Revision 1.3  2009/10/16 16:31:29  revo
+Antonio Codazzi: +trd it
+
+Revision 1.2  2006/08/29 16:41:29  revo
+Wieland Pusch: +trd de
+
+Revision 1.1  2006/01/19 17:31:21  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

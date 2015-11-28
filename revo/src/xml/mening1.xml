@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: mening1.xml,v 1.16 2014/11/19 07:10:16 revo Exp $">
+<kap>
+  <rad>meningit</rad>/o
+</kap>
+<drv mrk="mening1.0o">
+  <kap>
+    <tld/>o
+  </kap>
+  <snc>
+  <uzo tip="fak">MED</uzo>
+    <dif>
+      <ref tip="lst" cel="san.mal0o.MED"
+      lst="voko:malsanoj">Malsano</ref> ka&ubreve;zita pro la inflamo de la
+      <ref tip="dif" cel="mening.0o">meningoj</ref>.
+    </dif>
+  </snc>
+  <trd lng="be">&c_m;&c_e;&c_n;&c_ib;&c_n;&c_g;&c_ib;&c_t;</trd>
+  <trd lng="bg">&c_m;&c_je;&c_n;&c_i;&c_n;&c_g;&c_i;&c_t;</trd>
+  <trd lng="ca">meningitis</trd>
+  <trdgrp lng="de">
+      <trd>Hirnhautentz&uuml;ndung</trd>,
+      <trd>Meningitis</trd>
+  </trdgrp>
+  <trd lng="en">meningitis</trd>
+  <trd lng="es">meningitis</trd>
+  <trdgrp lng="fa">
+    <trd>&a_m;&a_n;&a_n;&f_zh;&f_y;&a_t;</trd>,
+    <trd>&a_A;&a_l;&a_t;&a_h;&a_A;&a_b; &f_p;&a_r;&a_d;&a_h;&zwnj;&a_h;&a_A;&f_y; &a_m;&a_gh;&a_z;</trd>
+  </trdgrp>
+  <trd lng="fr">m&eacute;ningite</trd>
+  <trdgrp lng="hu">
+      <trd>agyh&aacute;rtyagyullad&aacute;s</trd>,
+      <trd>meningitis</trd>
+  </trdgrp>
+  <trdgrp lng="id">
+    <trd>meningitis</trd>,
+    <trd><ind>radang</ind> selaput otak</trd>
+  </trdgrp>
+  <trd lng="nl">hersenvliesontsteking</trd>
+  <trd lng="pt">meningite</trd>
+  <trd lng="ru">&c_m;&c_je;&c_n;&c_i;&c_n;&c_g;&c_i;&c_t;</trd>
+</drv>
+</art>
+<!--
+$Log: mening1.xml,v $
+Revision 1.16  2014/11/19 07:10:16  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.15  2014/01/05 13:10:38  revo
+Damien Brucker: +trd fr
+
+Revision 1.14  2013/10/09 19:11:32  revo
+Wolfram Diestel: ref al lst malsanoj
+
+Revision 1.13  2009/06/17 16:30:28  revo
+Wieland Pusch: +trd bg
+
+Revision 1.12  2009/06/16 16:30:51  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.11  2006/07/31 16:32:36  revo
+Tulio Flores: +tr pt
+
+Revision 1.10  2005/03/28 17:14:10  revo
+Raul Salinas Monteagudo: +trd ca,es
+
+Revision 1.9  2003/05/22 16:30:32  revo
+-->
+</vortaro>

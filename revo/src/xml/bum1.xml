@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: bum1.xml,v 1.5 2013/10/16 01:10:11 revo Exp $">
+<kap>
+  <rad>bum</rad> <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="bum1.0">
+  <kap><tld/></kap>
+  <gra><vspec>sonimito</vspec></gra>
+  <snc mrk="bum1.0.brui">
+    <dif>
+      <ref tip="lst" cel="son.0o" lst="voko:sonoj">Sono</ref>
+      de io forte batanta a&ubreve; peze falanta;
+      <ref tip="vid" cel="pum.0o.SON">pum</ref>:
+      <ekz>
+        liaj pupiloj turni&gcirc;as supren kaj, <tld/>! li falas
+        <fnt><bib>RugxDom</bib>, <lok>&ccirc;apitro 82a, volumo 3a, p.
+        25a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="es">bum</trd>
+  <trdgrp lng="fr">
+    <trd>boum !</trd>,
+    <trd>paf !</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>bum</trd>,
+    <trd>bach</trd>,
+    <trd>b&eogonek;c</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_b;&c_u;&c_m;!</trd>,
+    <trd>&c_b;&c_a;&c_h;!</trd>,
+    <trd>&c_b;&c_a;&c_c;!</trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log: bum1.xml,v $
+Revision 1.5  2013/10/16 01:10:11  revo
+Jeromo Vasxe: ref al lst sonoj
+
+Revision 1.4  2009/04/06 18:00:27  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.3  2005/04/04 16:32:38  revo
+Raul Salinas Monteagudo: +trd es
+
+Revision 1.2  2005/03/11 16:51:23  revo
+Yury Finkel: +trd ru
+
+Revision 1.1  2004/06/20 16:32:59  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: spok.xml,v 1.9 2015/07/04 08:37:44 revo Exp $">
+<kap>
+  <rad>spok</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="spok.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="spok.0o.TEK">
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      Iu el la <ref tip="super" cel="stang.0o.TEK">stangoj</ref> en <ref
+      tip="malprt" cel="rad.0o.TEK">rado</ref>, kiuj kunigas la nabon
+      kun
+      la ekstera rondo:
+      <ekz>
+        lignaj <tld/>oj de &ccirc;ara rado
+        <fnt><bib>PIV1</bib></fnt>;
+      </ekz>
+      <ekz>
+        metalaj <tld/>oj de bicikla rado
+        <fnt><bib>PIV1</bib></fnt>;
+      </ekz>
+      <ekz>
+        <tld/>oj <klr>...</klr> tenas la feran radon
+        <fnt><bib>HomojMan&gcirc;antaj</bib>, <lok>&leftquot;man&gcirc;i 
+en vagono de
+        spekto-radego&rightquot;, p. 124a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_mol;&c_p;&c_ib;&c_c;&c_a;</trd>
+  <trd lng="ca">raig<klr> (roda)</klr></trd>
+  <trdgrp lng="cs">
+    <trd>loukoť</trd>,
+    <trd>paprsek kola</trd>
+  </trdgrp>
+  <trd lng="en">spoke</trd>
+  <trd lng="es"><ind>rayo</ind> (de rueda)</trd>
+  <trd lng="fr">rayon <klr tip="amb"> (de roue)</klr></trd>
+  <trd lng="it">raggio<klr> (di ruota)</klr></trd>
+  <trd lng="nl">spaak</trd>
+  <trd lng="ru">&c_s;&c_p;&c_i;&c_c;&c_a;<klr tip="amb"> 
+(&c_k;&c_o;&c_l;&c_jo;&c_s;&c_n;&c_a;&c_ja;)</klr></trd>
+  <trd lng="sk">lúč kola</trd>
+</drv>
+</art>
+
+<!--
+$Log: spok.xml,v $
+Revision 1.9  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.8  2015/06/29 16:33:24  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.7  2013/02/15 07:10:19  revo
+Dmitri Gabinski: redakto: +trd be
+
+Revision 1.6  2012/07/30 10:10:30  revo
+Marc Rausell: + trd ca
+
+Revision 1.5  2009/10/16 16:31:26  revo
+Antonio Codazzi: +trd it
+
+Revision 1.4  2009/09/30 16:30:57  revo
+Paul Peeraerts: +nl
+
+Revision 1.3  2006/01/08 17:31:14  revo
+H. Neal Parker: +trd en,es; + 2 ekz
+
+Revision 1.2  2005/12/21 17:32:20  revo
+Yury Finkel: +trd ru
+
+Revision 1.1  2005/10/12 17:54:09  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

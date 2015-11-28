@@ -1,0 +1,119 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: panora.xml,v 1.18 2015/07/04 08:37:41 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>panoram</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="panora.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="panora.0o.vidajxo">
+    <dif>
+      Vasta vida&jcirc;o &gcirc;uata de alta loko:
+      <ekz>
+        la <tld/>o de la Alpoj;
+      </ekz>
+      <ekz>
+        vasta <tld/>o prezenti&gcirc;is al ili
+        <fnt><bib>Fab2</bib>, <lok>pa&scirc;tistino kaj
+        kamentubisto</lok></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="horizo.0o">horizonto</ref>
+    </refgrp>
+    <trdgrp lng="fa">
+      <trd>&f_ch;&a_sh;&a_m;&zwnj;&a_A;&a_n;&a_d;&a_A;&a_z;</trd>,
+      <trd>&a_d;&a_w;&a_r;&a_n;&a_m;&a_A;</trd>,
+      <trd>&a_m;&a_n;&a_Z;&a_r;&a_h;</trd>
+    </trdgrp>
+    <trd lng="hu">panor&aacute;ma</trd>
+  </snc>
+  <snc mrk="panora.0o.BELA">
+    <uzo tip="fak">BELA</uzo>
+    <dif>
+      Pentra&jcirc;o sur ronda muro, kiu donas al rigardantoj lokitaj en
+      centro
+      kvaza&ubreve; vidon al objektoj &ccirc;irka&ubreve;antaj ilin.
+    </dif>
+    <trd lng="fa">&f_p;&a_A;&a_n;&a_w;&a_r;&a_A;&a_m;&a_A;</trd>
+    <trd lng="hu">k&ouml;rk&eacute;p</trd>
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_n;&c_a;&c_r;&c_a;&c_m;&c_a;</trd>
+  <trd lng="ca">panorama</trd>
+  <trdgrp lng="cs">
+    <trd>celkový pohled</trd>,
+    <trd>panoráma</trd>,
+    <trd>vyhlídka</trd>
+  </trdgrp>
+  <trd lng="de">Panorama</trd>
+  <trd lng="en">panorama</trd>
+  <trdgrp lng="fr">
+    <trd>panorama</trd>
+  </trdgrp>
+  <trd lng="nl">panorama</trd>
+  <trd lng="pl">panorama</trd>
+  <trd lng="pt">panorama</trd>
+  <trd lng="ru">&c_p;&c_a;&c_n;&c_o;&c_r;&c_a;&c_m;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>pohľad</trd>,
+    <trd>rozhľad</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="panora.0i">
+  <kap>panorami</kap>
+  <snc mrk="panora.0i.rigardi">
+    <dif>
+      <tld lit="P"/>e rigardi:
+      <ekz>
+        oni povas kaj gustumi la &ccirc;inajn pladojn
+        kaj <tld/>i la riveron
+        <fnt>
+          <aut>&Ccirc;ina Radio Internacia</aut>,
+          <vrk><url
+          ref="http://esperanto.cri.cn/802/2010/02/02/1s108809.htm">
+          Parko de la Monda Ekspozicio</url></vrk>,
+          <lok>2010-02-02</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="ca">veure panor&agrave;micament</trd>
+    <trd lng="fr">embrasser du regard</trd>
+  </snc>
+</drv>
+</art>
+<!--
+$Log: panora.xml,v $
+Revision 1.18  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:40:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.16  2012/01/04 00:10:11  revo
+Marc Rausell: +trd ca
+
+Revision 1.15  2011/04/29 19:10:35  revo
+Jeromo Vasxe: + ~i
+
+Revision 1.14  2009/09/11 16:31:04  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.13  2009/02/15 14:19:05  revo
+Russ Williams: +trd en pl
+
+Revision 1.12  2006/02/24 17:35:49  revo
+Tulio Flores: +trd pt
+
+Revision 1.11  2006/02/01 17:31:44  revo
+Jeromo Vasxe: + 1 fnt
+
+Revision 1.10 2003/07/15 16:30:41 revo
+Dmitri Gabinski: +trd be
+
+Revision 1.9 2002/06/17 17:31:31 revo
+-->
+</vortaro>

@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: izomet.xml,v 1.20 2015/07/04 08:37:36 revo Exp $">
+<kap>
+  <rad>izometri</rad>/o
+</kap>
+<drv mrk="izomet.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>MatVort</bib></fnt>
+  <snc>
+    <dif>
+      <klr>(inter du <ref cel="spac.metrika0o">metrikaj
+      spacoj</ref>)</klr>
+      Tia <ref tip="super" cel="bild.0igo.MAT">bildigo</ref> 
+      <frm><k>f</k></frm>, ke la 
+      <ref cel="distan.0o.inter_punktoj">distanco</ref> inter du
+      punktoj de la fonto-aro egalas al la distanco inter iliaj bildoj 
+      per <frm><k>f</k></frm> en la celo-aro:
+      <ekz>
+        <tld/>o estas &ccirc;iam <ref cel="kontin3.0a.cxie">kontinua</ref>;
+      </ekz>
+      <ekz>
+        en <ref cel="norm.0hava">normohava</ref>
+        <ref cel="spac.afina0o">afina spaco</ref>, provizita per metriko
+        <frm><k>d</k>(<k>x</k>,<k>y</k>) = ||<k>x</k>-<k>y</k>||</frm>, 
+        la <ref cel="operac.ekstera0o.elemento">ekstera operacio</ref>
+        de ajna vektoro estas <tld/>o.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="poziti.0a.izometrio">pozitiva</ref>,
+      <ref cel="negati.0a.izometrio">negativa</ref>.
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_ib;&c_z;&c_a;&c_m;&c_e;&c_t;&c_r;&c_y;&c_ja;</trd>
+  <trd lng="bg">&c_i;&c_z;&c_o;&c_m;&c_je;&c_t;&c_r;&c_i;&c_ja;</trd>
+  <trd lng="cs">izometrie</trd>
+  <trd lng="de">Isometrie</trd>
+  <trd lng="en">isometry</trd>
+  <trd lng="es">isometr&iacute;a</trd>
+  <trd lng="fr">isom&eacute;trie</trd>
+  <trd lng="hu">izometria</trd>
+  <trd lng="nl">isometrie</trd>
+  <trd lng="pl">izometria</trd>
+  <trd lng="pt">isometria</trd>
+  <trd lng="ru">&c_i;&c_z;&c_o;&c_m;&c_je;&c_t;&c_r;&c_i;&c_ja;</trd>
+  <trd lng="sk">izometria</trd>
+</drv>
+
+<drv mrk="izomet.0a">
+  <kap><tld/>a</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>MatVort</bib></fnt>
+  <snc mrk="izomet.0a.spacoj">
+    <dif>
+      <klr>(p.p. du <ref cel="spac.metrika0o">metrikaj
+      spacoj</ref>)</klr>
+      Tiaj, ke ekzistas <ref cel="izomet.0o"><tld/>o</ref> de unu al la
+      alia.
+    </dif>
+  </snc>
+  <snc mrk="izomet.0a.subaroj">
+    <dif>
+      <klr>(p.p. du subaroj)</klr>
+      Tiaj, ke ekzistas <ref cel="izomet.0o"><tld/>o</ref>, per kiu 
+      unu estas bildo de la alia.
+    </dif>
+    <ref tip="vid" cel="egal.0a.izometria">egala.</ref>
+  </snc>
+  <snc mrk="izomet.0a.bildigo">
+    <dif>
+      <klr>(p.p. <ref cel="bild.0igo.MAT">bildigo</ref>)</klr>
+      Havanta ecojn de <ref cel="izomet.0o"><tld/>o</ref>.
+    </dif>
+  </snc>
+  <trd lng="be">&c_ib;&c_z;&c_a;&c_m;&c_e;&c_t;&c_r;&c_y;&c_ch;&c_n;&c_y;</trd>
+  <trd lng="bg">&c_i;&c_z;&c_o;&c_m;&c_je;&c_t;&c_r;&c_i;&c_ch;&c_n;&c_o;</trd>
+  <trd lng="ca">isom&egrave;tric</trd>
+  <trd lng="de">isometrisch</trd>
+  <trd lng="en">isometric</trd>
+  <trd lng="es">isom&eacute;trico</trd>
+  <trd lng="fr">isom&eacute;trique</trd>
+  <trd lng="hu">izometrikus</trd>
+  <trd lng="nl">isometrisch</trd>
+  <trd lng="pl">izometryczny</trd>
+  <trd lng="ru">&c_i;&c_z;&c_o;&c_m;&c_je;&c_t;&c_r;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j;</trd>
+</drv>
+</art>
+<!--
+$Log: izomet.xml,v $
+Revision 1.20  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2013/09/11 15:10:10  revo
+Joop Eggen: +trd bg
+
+Revision 1.17  2007/04/20 16:31:41  revo
+Tulio Flores: +tr pt
+
+Revision 1.16  2005/03/28 17:12:49  revo
+Raul Salinas Monteagudo: +trd es,ca
+
+Revision 1.15  2004/02/24 17:31:36  revo
+Marc Bavant: kor duobligitan punkton
+
+Revision 1.14  2004/02/18 17:38:13  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.13  2003/04/13 16:31:43  revo
+Marc Bavant: ~a 1: kor ref cel al ~o
+
+Revision 1.12  2003/04/07 16:35:39  revo
+Marc Bavant: ~a: +ref interna
+
+Revision 1.11  2003/03/31 16:31:49  revo
+-->
+</vortaro>

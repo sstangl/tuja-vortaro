@@ -1,0 +1,163 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: popol.xml,v 1.22 2015/07/04 08:37:41 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>popol</rad>/o
+</kap>
+<drv mrk="popol.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <uzo tip="fak">POL</uzo>
+  <snc mrk="popol.0o.etno">
+    <dif>
+      <ref tip="dif" cel="etn.0o">Etno</ref>:
+      <ekz>
+      la literaturaj produktoj de aliaj <tld/>oj fari&gcirc;us por ni tiel
+      same atingeblaj, kiel la verkoj de nia propra
+      <tld/>o<fnt><aut>&Z;</aut>:
+          <vrk>El la unua libro de la lingvo Esperanto.</vrk></fnt>;
+      </ekz>
+      <ekz>
+        la <tld/>oj faros en konsento unu grandan rondon
+        familian<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        mi kredas, ke &ccirc;iuj <tld/>oj estas egalaj kaj mi taksas
+        &ccirc;iun homon nur la&ubreve; lia persona valoro kaj agoj, sed
+        ne la&ubreve; lia deveno
+        <fnt><aut>&Z;</aut>:
+        <vrk>Deklaracio de Hilelisto</vrk>.
+        <lok>Art. 2.</lok></fnt>.
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        formikoj, <tld/>o ne forta<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+    <trd lng="ca">poble</trd>
+    <trd lng="de">Volk</trd>
+    <trd lng="es">pueblo</trd>
+    <trd lng="fr">peuple</trd>
+    <trd lng="nl">volk</trd>
+  </snc>
+  <snc mrk="popol.0o.regataro">
+    <dif>
+      Regataro kontraste kun regantaro:
+      <ekz>
+        la senato kaj la <tld/>o romaj;
+      </ekz>
+      <ekz>
+        grandeco de <tld/>o estas gloro de re&gcirc;o<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        kiam regas malvirtulo, la <tld/>o &gcirc;emas<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        <tld/>a tumulto;
+      </ekz>
+      <ekz>
+        <tld/>a kunveno.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="pleb.0o">plebo</ref>.
+    </refgrp>
+    <trdgrp lng="de">
+      <trd>Volk</trd>,
+      <trd>Bev&ouml;lkerung</trd>
+    </trdgrp>
+    <trdgrp lng="es">
+      <trd>pueblo</trd>,
+      <trd>poblaci&oacute;n</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>peuple</trd>,
+      <trd>population</trd>
+    </trdgrp>
+    <trd lng="nl">bevolking</trd>
+  </snc>
+  <snc mrk="popol.0o.amaso">
+    <dif>
+      Plimulto de nacio kontraste kun kleruloj, ri&ccirc;uloj ktp:
+      <ekz>
+        <uzo tip="stl">FRAZ</uzo>
+        <ind><mll tip="kom"><tld/>o diras</mll>, Dio diras</ind>
+        <fnt><bib>PrV</bib></fnt>;
+        <trd lng="ru"><mll tip="kom">&c_g;&c_l;&c_a;&c_s; &c_n;&c_a;&c_r;&c_o;&c_d;&c_a;</mll> &#8208; &c_g;&c_l;&c_a;&c_s;
+        &c_B;&c_o;&c_zh;&c_i;&c_j;</trd>
+      </ekz>
+      <ekz>
+        la <tld/>o nomas elokventeco la kapablon paroli
+        la&ubreve;tege kaj longe;
+      </ekz>
+      <ekz>
+        <tld/>a kutimo;
+      </ekz>
+      <ekz>
+        venas proverbo el <tld/>a cerbo<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="amas.0o">amaso</ref>,
+      <ref cel="vulgar.0a">vulgara</ref>,
+      <ref cel="krud.0a">kruda</ref>.
+    </refgrp>
+    <trdgrp lng="de">
+      <trd>Volk</trd>,
+      <trd>gemeines Volk</trd>,
+      <trd>Plebs</trd>
+    </trdgrp>
+    <trd lng="es">la gente</trd>
+    <trd lng="fr">peuple</trd>
+    <trd lng="nl">gepeupel</trd>
+  </snc>
+  <trd lng="be">&c_n;&c_a;&c_r;&c_o;&c_d;</trd>
+  <trdgrp lng="cs">
+    <trd>lid</trd>,
+    <trd>národ</trd>
+  </trdgrp>
+  <trd lng="en">people</trd>
+  <trd lng="hu">n&eacute;p</trd>
+  <trd lng="pt">povo</trd>
+  <trd lng="ru">&c_n;&c_a;&c_r;&c_o;&c_d;</trd>
+  <trdgrp lng="sk">
+    <trd>národ</trd>,
+    <trd>pospolitosť</trd>,
+    <trd>ľud</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: popol.xml,v $
+Revision 1.22  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.21  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.20  2014/09/13 13:10:12  revo
+Norbert Luckhardt: +tra ES
+
+Revision 1.19  2014/07/01 12:10:15  revo
+Damien Brucker: +ekz
+
+Revision 1.18  2014/03/18 16:10:13  revo
+Damien Brucker: +trd fr
+
+Revision 1.17  2006/03/11 17:31:54  revo
+Tulio Flores: +tr pt
+
+Revision 1.16  2005/12/06 17:32:47  revo
+Raul Salinas Monteagudo: +trd ca,es
+
+Revision 1.15  2003/07/17 16:37:57  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.14  2002/12/18 18:50:23  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.13  2002/10/23 20:40:05  revo
+-->
+</vortaro>

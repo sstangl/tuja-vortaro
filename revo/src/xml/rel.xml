@@ -1,0 +1,131 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: rel.xml,v 1.22 2015/07/04 08:37:42 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>rel</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="rel.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="rel.0o.FER">
+    <uzo tip="fak">FER</uzo>
+    <dif>
+      Longa stango el metalo, sur kiu ruli&gcirc;as lokomotivoj, vagonoj
+      a&ubreve; tramveturiloj:
+      <ekz>
+        ni ne povis vidi pli malproksime ol unu metron a&ubreve; du
+        anta&ubreve;en super la <tld/>oj
+        <fnt><bib>FK</bib>, <lok>4, rakontoj, la nigra
+        virino</lok></fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        nun la vivo en nia lando kuras en siaj normalaj <tld/>oj
+        <klr>(vojo)</klr>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        malgra&ubreve; tio la vivo da&ubreve;ras movi&gcirc;i &ccirc;iam sur
+        la samaj <tld/>oj
+        <klr>(<ref tip="vid" cel="rutin.0o">rutino</ref>)</klr>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        resti en la <tld/>oj de la pasintaj epokoj;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        pu&scirc;i la verkantojn en fiksan, difinitan <tld/>on
+        <klr>(direkton, temon)</klr>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        ruli&gcirc;i kvaza&ubreve; sur la <tld/>oj<fnt>B</fnt>
+        <klr>(iri glate)</klr>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_r;&c_e;&c_j;&c_k;&c_a;</trd>
+  <trd lng="bg">&c_r;&c_je;&c_l;&c_s;&c_a;</trd>
+  <trd lng="ca">carril <klr>(rail)</klr></trd>
+  <trdgrp lng="cs">
+    <trd>kolej</trd>,
+    <trd>kolejnice</trd>
+  </trdgrp>
+  <trd lng="de">Schiene</trd>
+  <trd lng="en">rail</trd>
+  <trdgrp lng="es">
+    <trd>ra&iacute;l</trd>,
+    <trd>rail</trd>
+  </trdgrp>
+  <trd lng="fr">rail</trd>
+  <trd lng="hu">s&iacute;n</trd>
+  <trdgrp lng="nl">
+    <trd>spoor</trd>,
+    <trd>rail</trd>
+  </trdgrp>
+  <trd lng="pl">szyna</trd>
+  <trdgrp lng="pt">
+    <trd>trilho</trd>,
+    <trd>carril</trd>
+  </trdgrp>
+  <trd lng="ru">&c_r;&c_je;&c_l;&c_mol;&c_s;</trd>
+  <trdgrp lng="sk">
+    <trd>koľaj</trd>,
+    <trd>koľajnica</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="rel.glit0o">
+  <kap>glit<tld/>o</kap>
+  <snc mrk="rel.glit0o.TEK">
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      Stango la&ubreve;longe de kiu glite movi&gcirc;as alfiksita 
+      peco:
+      <ekz>
+        ili suba&ccirc;etis la lokan for&gcirc;iston kaj li
+        riparis <klr>...</klr> glit<tld/>ojn de
+        akumulatoroj
+        <fnt><aut>I. Nemere</aut>, <vrk>Sur Kampo Granita</vrk>, 
+        <lok>1983</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">glissi&egrave;re</trd>
+</drv>
+</art>
+<!--
+$Log: rel.xml,v $
+Revision 1.22  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.21  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.20  2014/11/28 23:11:49  revo
+Jeromo Vasxe: + glit~o
+
+Revision 1.19  2012/01/01 23:10:31  revo
+Marc Rausell: +trd ca
+
+Revision 1.18  2010/06/25 17:26:33  revo
+Agustin Garcia Lopez: +trd es
+
+Revision 1.17  2009/06/04 16:30:56  revo
+Wieland Pusch: +trd bg
+
+Revision 1.16  2009/06/03 16:31:07  revo
+Russ Williams: +trd en
+
+Revision 1.15  2006/05/15 16:31:36  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.14  2006/02/20 17:32:08  revo
+Tulio Flores: +trd pt
+
+Revision 1.13  2005/08/20 16:31:15  revo
+-->
+</vortaro>

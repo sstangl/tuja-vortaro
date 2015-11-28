@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: melon.xml,v 1.25 2015/07/04 08:37:39 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>melon</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="melon.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="melon.0o.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      Specio de <ref tip="super" cel="kukum.0o.genro">kukumo</ref>
+      kun grandaj globformaj a&ubreve; ovoformaj fruktoj kun sukplena
+      dol&ccirc;a
+      karno plejofte flava a&ubreve; verdeta (<trd lng="la">Cucumis
+      melo</trd>).
+    </dif>
+  </snc>
+  <snc mrk="melon.0o.KUI">
+    <uzo tip="fak">KUI</uzo>
+    <dif>
+      Man&gcirc;ebla <ref tip="super" cel="frukt.0o.KUI">frukto</ref>
+      de <tld/>o <sncref ref="melon.0o.specio"/>.
+    </dif>
+    <trd lng="br">aval-sukrin</trd>
+  </snc>
+  <trd lng="bg">&c_p;&c_mol;&c_p;&c_malmol;&c_sh;</trd>
+  <trd lng="br">sukrinenn</trd>
+  <trd lng="cs">meloun</trd>
+  <trd lng="de">Melone</trd>
+  <trd lng="en">melon</trd>
+  <trd lng="es">mel&oacute;n</trd>
+  <trd lng="fa">&a_kh;&a_r;&a_b;&a_z;&a_h;</trd>
+  <trd lng="fr">melon</trd>
+  <trdgrp lng="he">
+    <trd>&mem;&lamed;&vav;&fnun;<klr tip="ind">
+    (&alef;&bet;&tet;&yod;&het; &tsadi;&he;&vav;&bet;)</klr></trd>,
+    <trd>&alef;&bet;&tet;&yod;&het; &tsadi;&he;&vav;&bet;</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>s&aacute;rgadinnye</trd>,
+    <trd>cukordinnye</trd>
+  </trdgrp>
+  <trd lng="nl">meloen</trd>
+  <trd lng="pl">melon</trd>
+  <trd lng="pt">mel&atilde;o</trd>
+  <trd lng="ru">&c_d;&c_y;&c_n;&c_ja;</trd>
+  <trdgrp lng="sk">
+    <trd>žltá dyňa</trd>,
+    <trd>žltý melón</trd>
+  </trdgrp>
+  <trd lng="sv">melon</trd>
+</drv>
+
+<drv mrk="melon.akvo0o">
+  <kap><ofc>*</ofc>akvo<tld/>o</kap>
+  <uzo tip="fak">KUI</uzo>
+  <snc>
+    <dif>
+      Globforma <ref tip="super" cel="frukt.0o.KUI">frukto</ref>
+      de afrika kukurbaco kun ru&gcirc;a, flava a&ubreve; blanka
+      sukplena karno
+      (<trd lng="la">Citrullus lanatus</trd>, <trd lng="la">Citrullus
+      vulgaris</trd>).
+    </dif>
+  </snc>
+  <trd lng="bg">&c_d;&c_i;&c_n;&c_ja;</trd>
+  <trd lng="br">sukrinenn-dour</trd>
+  <trd lng="cs">meloun vodní</trd>
+  <trd lng="de">Wassermelone</trd>
+  <trd lng="en">watermelon</trd>
+  <trd lng="es">sand&iacute;a</trd>
+  <trd lng="fa">&a_h;&a_n;&a_d;&a_w;&a_A;&a_n;&a_h;</trd>
+  <trd lng="fr">past&egrave;que</trd>
+  <trd lng="he">&alef;&bet;&tet;&yod;&het;</trd>
+  <trd lng="hu">g&ouml;r&ouml;gdinnye</trd>
+  <trd lng="nl">watermeloen</trd>
+  <trdgrp lng="pl">
+    <trd>arbuz</trd>,
+    <trd>kawon</trd>
+  </trdgrp>
+  <trd lng="pt">melancia</trd>
+  <trd lng="ru">&c_a;&c_r;&c_b;&c_u;&c_z;</trd>
+  <trd lng="sk">vodný melón</trd>
+  <trd lng="sv">vattenmelon</trd>
+</drv>
+</art>
+<!--
+$Log: melon.xml,v $
+Revision 1.25  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.24  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.23  2009/07/14 16:30:29  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.22  2009/06/23 16:31:01  revo
+Wieland Pusch: +trd bg
+
+Revision 1.21  2009/06/22 16:30:47  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.20  2008/01/06 17:30:14  revo
+Jeromo Vasxe: trdgrp -> trd en dif
+
+Revision 1.19 2007/01/13 17:30:34 revo
+Wieland Pusch: +trd bg
+
+Revision 1.18 2006/09/17 16:30:39 revo
+Russ Williams: +trd pl, la (vulgaris)
+
+Revision 1.17 2005/07/07 16:33:30 revo
+Alan ar Gall: +trd br, +1 trd fr
+
+Revision 1.16 2003/06/02 16:32:00 revo
+-->
+</vortaro>

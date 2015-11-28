@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: hidrar.xml,v 1.28 2015/07/04 08:37:35 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>hidrarg</rad>/o
+</kap>
+<drv mrk="hidrar.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <mlg kod="IUPAC">Hg</mlg>
+  <snc mrk="hidrar.0o.KEM">
+    <uzo tip="fak">KEM</uzo>
+    <dif>
+      &Hcirc;emia <ref tip="lst" cel="elemen.0o.KEM"
+      lst="voko:&hcirc;emiaj_elementoj" val="80">elemento</ref> kun
+      atomnumero 80, atompezo 200,59; <ref tip="super"
+      cel="metal.0o">metalo</ref> ar&gcirc;entosimila,
+      fluida je ordinaraj temperaturoj, kaj
+      uzata por fabriki termometrojn kaj spegulojn:
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        <ind>li estas vera <tld/>o</ind>
+        <trd lng="fr">c'est un <ind>bougeon</ind></trd>
+        <klr>(li sen&ccirc;ese movi&gcirc;as)</klr>
+        <fnt><bib>PrV</bib></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_r;&c_t;&c_u;&c_c;&c_mol;</trd>
+  <trd lng="bg">&c_zh;&c_i;&c_v;&c_a;&c_k;</trd>
+  <trd lng="br">merkur</trd>
+  <trdgrp lng="cs">
+    <trd>Hg</trd>,
+    <trd>hydrargyrum</trd>,
+    <trd>rtuť</trd>
+  </trdgrp>
+  <trd lng="de">Quecksilber</trd>
+  <trd 
+lng="el">&ypsilon;&delta;&rho;&alfa_ton;&rho;&gamma;&ypsilon;&rho;&omikron;&sigma_fina;</trd>
+  <trd lng="en">mercury</trd>
+  <trdgrp lng="es">
+    <trd>mercurio</trd>,
+    <trd>azogue</trd>
+  </trdgrp>
+  <trd lng="fa">&a_j;&f_y;&a_w;&a_h;</trd>
+  <trd lng="fr">mercure</trd>
+  <trd lng="hu">higany</trd>
+  <trdgrp lng="id">
+    <trd>merkurium</trd>,
+    <trd>raksa</trd>
+  </trdgrp>
+  <trd lng="it">mercurio<klr> (ch.)</klr></trd>
+  <trdgrp lng="nl">
+    <trd>kwik</trd>,
+    <trd>kwikzilver</trd>
+  </trdgrp>
+  <trd lng="pl">rt&eogonek;&cacute;</trd>
+  <trd lng="pt">merc&uacute;rio</trd>
+  <trd lng="ru">&c_r;&c_t;&c_u;&c_t;&c_mol;</trd>
+  <trd lng="sk">ortuť</trd>
+  <trd lng="sv">kvicksilver</trd>
+</drv>
+</art>
+<!--
+$Log: hidrar.xml,v $
+Revision 1.28  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.27  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.26  2014/06/06 04:10:52  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.25  2014/04/22 18:11:05  revo
+Joop Eggen: +trdgrp nl
+
+Revision 1.24  2013/09/15 16:10:33  revo
+Wolfram Diestel: simb. laux IUPAC, val
+
+Revision 1.23  2013/08/24 20:11:03  revo
+Wolfram Diestel: referenco al listo elementoj
+
+Revision 1.22  2013/08/01 11:10:11  revo
+Joop Eggen: +trd bg
+
+Revision 1.21  2010/10/26 16:30:54  revo
+Jerano Zachrisson: +trd sv
+
+Revision 1.20  2009/09/10 16:31:40  revo
+Antonio Codazzi: +klr en la itala trd
+
+Revision 1.19  2009/08/18 19:19:22  revo
+-->
+</vortaro>

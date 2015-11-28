@@ -1,0 +1,162 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: ekspon.xml,v 1.18 2015/07/04 08:37:33 revo Exp $">
+<kap>
+  <rad>ekspon</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="ekspon.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="ekspon.0i.FOT">
+    <uzo tip="fak">FOT</uzo>
+    <dif>
+      Me&hcirc;anike elmeti plakon a&ubreve; alian impresi&gcirc;eman
+      substancon al la luma
+      efiko:
+      <ekz>
+        Connie tuj ekploris je la supozo, ke oni malfermos &scirc;ian
+        fotilon
+        kaj <tld/>os &scirc;ian filmon
+        <fnt>
+        <aut>D. Harlow</aut>,
+        <vrk>Re: Lingvo-Kverelo &ccirc;e Norda Konsilantaro</vrk>,
+        <lok>soc.culture.esperanto, 2001-11-29</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd
+    lng="be">&c_e;&c_k;&c_s;&c_p;&c_a;&c_n;&c_a;&c_v;&c_a;&c_c;&c_mol;
+    <klr>(&c_p;&c_a;&c_d;&c_v;&c_ja;&c_r;&c_g;&c_a;&c_c;&c_mol;
+    &c_d;&c_z;&c_je;&c_ja;&c_n;&c_mol;&c_n;&c_ju;
+    &c_s;&c_mol;&c_v;&c_ja;&c_t;&c_l;&c_a;)</klr></trd>
+    <trdgrp lng="de">
+      <trd>aussetzen</trd>,
+      <trd>belichten</trd>,
+      <trd>exponieren</trd>
+    </trdgrp>
+    <trd lng="fr">exposer<klr tip="ind"> (phot.)</klr></trd>
+    <trdgrp lng="hu">
+      <trd>megvil&aacute;g&iacute;t</trd>,
+      <trd>expon&aacute;l</trd>,
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>eksponowa&cacute;</trd>,
+      <trd>poddawa&cacute; <ind>ekspozycji</ind></trd>
+    </trdgrp>
+    <trd
+    lng="ru">&c_e;&c_k;&c_s;&c_p;&c_o;&c_n;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  </snc>
+  <snc mrk="ekspon.0i.klarigi">
+    <dif>
+      Prezenti klare kaj detale iun temon por ta&ubreve;ge komprenigi
+      &gcirc;in:
+      <ekz>
+        <tld/>o de la motivoj<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        ununura persono kura&gcirc;is <tld/>i siajn ideojn en nia
+        forumo
+        <fnt>
+        <aut>G. Riudor</aut>,
+        <vrk>Unui&gcirc;o: Alain kaj Nikolao</vrk>,
+        <lok>soc.culture.esperanto, 1999-02-18</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_p;&c_r;&c_a;&c_d;&c_s;&c_t;&c_a;&c_w;&c_l;&c_ja;&c_c;&c_mol;</trd>,
+      <trd>&c_p;&c_r;&c_e;&c_z;&c_e;&c_n;&c_t;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd>darstellen</trd>
+    </trdgrp>
+    <trd lng="fr">exposer<klr tip="ind"> (&eacute;noncer)</klr></trd>
+    <trdgrp lng="hu">
+      <trd>megvil&aacute;g&iacute;t<klr tip="ind">
+      (t&eacute;m&aacute;t)</klr></trd>,
+      <trd>kifejt</trd>,
+    </trdgrp>
+    <trd lng="pl">przedstawia&cacute;</trd>
+    <trd lng="ru">&c_i;&c_z;&c_l;&c_a;&c_g;&c_a;&c_t;&c_mol;</trd>
+  </snc>
+  <snc mrk="ekspon.0i.EKON">
+    <ref tip="dif" cel="ekspoz1.0i.KOMUNE">ekspozicii</ref>
+    <ekz>
+      <tld/>ataj arta&jcirc;oj inkluzivas konserva&jcirc;ojn de muzeoj de 
+      Senegalio
+      <fnt>
+        <aut>&Ccirc;ina Radio Internacia</aut>,
+        <vrk><url
+        ref="http://esperanto.cri.cn/221/2008/11/21/1s89008.htm">
+        Interfluo de la &ccirc;ina kulturo kaj la afrika kulturo</url></vrk>,
+        <lok>2008-11-21</lok>
+      </fnt>.
+    </ekz>    
+    <trdgrp lng="be">
+      <trd>&c_v;&c_y;&c_s;&c_t;&c_a;&c_w;&c_l;&c_ja;&c_c;&c_mol;</trd>,
+      <trd>&c_e;&c_k;&c_s;&c_p;&c_a;&c_n;&c_a;&c_v;&c_a;&c_c;&c_mol;
+      <klr tip="amb">(&c_t;&c_a;&c_v;&c_a;&c_r;&c_y;)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd>ausstellen</trd>,
+      <trd>auslegen</trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>wyk&lstroke;ada&cacute;<klr> (towar)</klr></trd>,
+      <trd>wystawia&cacute;<klr> (na sprzeda&zdot;)</klr></trd>
+    </trdgrp>
+  </snc>
+  <trd lng="ca">exposar</trd>
+  <trdgrp lng="cs">
+    <trd>exponovat</trd>,
+    <trd>osvítit</trd>,
+    <trd>osvětlit</trd>
+  </trdgrp>
+  <trd lng="es">exponer</trd>
+  <trd lng="hu">ki&aacute;ll&iacute;t</trd>
+  <trd lng="pt">expor</trd>
+  <trdgrp lng="ru">
+    <trd>&c_v;&c_y;&c_s;&c_t;&c_a;&c_v;&c_l;&c_ja;&c_t;&c_mol;</trd>,
+    <trd>&c_e;&c_k;&c_s;&c_p;&c_o;&c_n;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;<klr
+    tip="amb"> (&c_t;&c_o;&c_v;&c_a;&c_r;&c_y;)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>objasniť</trd>,
+    <trd>vystaviť účinkom svetla</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: ekspon.xml,v $
+Revision 1.18  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.16  2012/09/05 09:10:15  revo
+Marc Rausell: + trd ca
+
+Revision 1.15  2011/05/06 22:10:10  revo
+Jeromo Vasxe: + ref dif
+
+Revision 1.14  2009/09/23 17:25:48  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.13  2007/06/23 16:31:04  revo
+Tulio Flores: +tr pt
+
+Revision 1.12  2005/04/03 17:17:14  revo
+Jeromo Vasxe: + mrk, + 2 ekz sce
+
+Revision 1.11 2003/12/16 17:32:01 revo
+Dmitri Gabinski: +trd be
+
+Revision 1.10 2003/09/01 16:31:20 revo
+Yury Finkel: +trd ru
+
+Revision 1.9 2003/08/08 16:31:17 revo
+-->
+</vortaro>

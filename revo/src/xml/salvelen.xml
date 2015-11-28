@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: salvelen.xml,v 1.3 2015/03/07 11:10:26 revo Exp $">
+<kap>
+  <rad>salvelen</rad>/o <fnt><bib>NePiv</bib></fnt>
+</kap>
+<drv mrk="salvelen.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="salvelen.0o.ZOO">
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      <ref tip="lst" cel="fisx.0o" lst="voko:fi&scirc;oj">Fi&scirc;o</ref> 
+      simila al salmo kun pli etaj skvamoj;
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:zoologiaj_genroj">genro</ref> el familio <ref
+      tip="malprt"
+      cel="salmed.0oj">salmedoj</ref>
+      (<trd lng="la">Salvelinus</trd>).
+    </dif>
+  </snc>
+  <rim mrk="salvelen.0o.RIM_HOM">
+    alia esperantigo: <em>salvelino</em>:
+      <ekz>
+        ekpla&ubreve;dis granda kaj lar&gcirc;a salvelino
+        <fnt>
+          <aut>E. Kumi&ccaron;i&cacute;, trad. S. Rukelj</aut>,
+          <vrk><url
+          ref="http://free-vz.t-com.hr/Stanko/Surprizitaj.pdf">
+          Surprizitaj nuptofestantoj</url></vrk>,
+          <lok>inko, 2001</lok>
+        </fnt>.
+      </ekz>
+  </rim>
+  <trd lng="de">Saibling</trd>
+  <trd lng="en">char<klr> (fish)</klr></trd>
+  <trd lng="fr">omble</trd>
+</drv>
+</art>
+
+<!--
+$Log: salvelen.xml,v $
+Revision 1.3  2015/03/07 11:10:26  revo
+Wolfram Diestel: lst zoo genroj
+
+Revision 1.2  2013/10/17 19:10:28  revo
+Wolfram Diestel: ref al lst fisxoj, prilaboris dif, germ trd
+
+Revision 1.1  2013/07/04 01:10:14  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

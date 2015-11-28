@@ -1,0 +1,114 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: masiv.xml,v 1.16 2015/07/04 08:37:39 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>masiv</rad>/a <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="masiv.0a">
+  <kap><ofc>*</ofc><tld/>a</kap>
+  <snc mrk="masiv.0a.FOR">
+    <dif>
+      Konsistanta el densa, senintermanka materio,
+      ne havanta malplena&jcirc;ojn:
+      <ekz>
+        vazo el <tld/>a oro.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="fortik.0a">fortika</ref>,
+      <ref cel="kompak.0a">kompakta</ref>,
+      <ref cel="solid.0a">solida</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_m;&c_a;&c_s;&c_ib;&c_w;&c_n;&c_y;</trd>
+  <trd lng="br">tolzennek</trd>
+  <trdgrp lng="cs">
+    <trd>masivní</trd>,
+    <trd>mohutný</trd>
+  </trdgrp>
+  <trd lng="de">massiv</trd>
+  <trdgrp lng="en">
+    <trd>massive</trd>,
+    <trd>heavy</trd>,
+    <trd>large</trd>
+  </trdgrp>
+  <trd lng="fr">massif<klr tip="ind"> (adj.)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>t&ouml;m&ouml;r</trd>,
+    <trd>massz&iacute;v</trd>
+  </trdgrp>
+  <trd lng="nl">massief</trd>
+  <trdgrp lng="pt">
+    <trd>maci&ccedil;o</trd>,
+    <trd>compacto</trd>,
+    <trd>denso</trd>
+  </trdgrp>
+  <trd lng="ru">&c_m;&c_a;&c_s;&c_s;&c_i;&c_v;&c_n;&c_y;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>masívny</trd>,
+    <trd>pevný</trd>,
+    <trd>ťažký</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="masiv.0o">
+  <kap><tld/>o, <var><kap><tld/>a&jcirc;o</kap></var></kap>
+  <snc mrk="masiv.0o.FOR">
+    <dif>
+      Aran&gcirc;o el materiaj a&jcirc;oj tre densigitaj:
+      <ekz>
+        <tld/>o da floroj, da montoj
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="blok.0o">bloko</ref>,
+      <ref cel="mas.0o">maso</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_m;&c_a;&c_s;&c_ib;&c_w;</trd>
+  <trd lng="br">tolzenn</trd>
+  <trd lng="de">Massiv</trd>
+  <trd lng="fr">massif<klr tip="ind"> (subst.)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>massz&iacute;vum</trd>,
+    <trd>t&ouml;mb</trd>
+  </trdgrp>
+  <trd lng="nl">massief</trd>
+  <trd lng="ru">&c_m;&c_a;&c_s;&c_s;&c_i;&c_v;</trd>
+</drv>
+</art>
+<!--
+$Log: masiv.xml,v $
+Revision 1.16  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:33:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.14  2010/06/30 16:30:49  revo
+Jeromo Vasxe: - kramp
+
+Revision 1.13  2008/10/30 19:25:55  revo
+Russ Williams: +trd en
+
+Revision 1.12  2006/07/30 16:31:20  revo
+Tulio Flores: +tr pt
+
+Revision 1.11  2005/07/07 16:32:10  revo
+Alan ar Gall: +trd br fr
+
+Revision 1.10  2004/06/07 17:23:52  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.9  2004/02/16 20:47:40  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.8  2002/12/15 19:51:01  revo
+Ulrich Fellmann: + 1 plia trd de
+
+Revision 1.7  2002/01/06 17:48:37  revo
+-->
+</vortaro>

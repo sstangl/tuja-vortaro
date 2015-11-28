@@ -1,0 +1,128 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: ekart.xml,v 1.15 2015/07/04 08:37:33 revo Exp $">
+<kap>
+  <rad>ekart</rad>/o
+</kap>
+<drv mrk="ekart.0o">
+  <kap><tld/>o</kap>
+  <snc>
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>MatTerm</bib><lok>p. 10</lok></fnt>
+    <dif>
+      Diferenco de la proksimuma valoro de iu grando al la ekzakta:
+      <ekz>
+        <tld/>o de observo;
+      </ekz>
+      <ekz>
+        rilata, absoluta <tld/>o.
+      </ekz>
+    </dif>
+    <adm>
+      MatVort konas ankaux la terminon "eraro". "Ekarto" estus "absoluta
+      eraro" kaj nia difino pli proksimus al "eraro de aproksimo". Mi
+      ne komprenas la precizan sencon de tiuj terminoj. Cxu la nocioj
+      cxirkaux malprecizeco de mezuro (incertitude, neopredeljonnostj,
+      Ungewissheit) ne havus rolon en tiu debato? <aut>MB</aut>
+    </adm>
+    <trdgrp lng="de">
+      <trd>Approximationsfehler</trd>,
+      <trd>Ann&auml;herungsfehler</trd>
+    </trdgrp>
+    <trd lng="en">approximation <ind>error</ind></trd>
+    <trd lng="fr">erreur d'approximation</trd>
+    <trdgrp lng="hu">
+      <trd>k&ouml;zel&iacute;t&eacute;si <ind>hiba</ind></trd>,
+      <trd>approxim&aacute;ci&oacute;s <ind>hiba</ind></trd>
+    </trdgrp>
+    <trd lng="pl">b&lstroke;&aogonek;d przybli&zdot;enia</trd>
+  <trdgrp lng="pt">
+    <trd>erro</trd>,
+    <trd>diferen&ccedil;a</trd>
+  </trdgrp>
+    <trd lng="ru">&c_p;&c_o;&c_g;&c_r;&c_je;&c_sh;&c_n;&c_o;&c_s;&c_t;&c_mol; &c_p;&c_r;&c_i;&c_b;&c_l;&c_i;&c_zh;&c_je;&c_n;&c_i;&c_ja;</trd>
+  </snc>
+  <snc>
+    <uzo tip="fak">MAR</uzo>
+    <uzo tip="klr">(pri kompaso)</uzo>
+    <dif>
+      Sumo de la anguloj de deklino kaj devio:
+      <ekz>
+        la angulo formita de la kompasa montrilo kun la astronomia
+        meridiano estas la <tld/>o de kompaso.
+      </ekz>
+    </dif>
+    <trd lng="de">Abweichung</trd>
+    <trd lng="hu">elt&eacute;r&eacute;s</trd>
+    <trd lng="pt">desvio</trd>
+  </snc>
+  <snc>
+    <uzo tip="fak">MIL</uzo>
+    <dif>
+      Distanco inter la celita kaj trafita punkto:
+      <ekz>
+        oni distingas jenajn <tld/>ojn: horizontalan, la&ubreve;direktan,
+        altecan, la&ubreve;distancan kaj vertikalan.
+      </ekz>
+    </dif>
+    <trd lng="de">Abweichung</trd>
+    <trd lng="fr">&eacute;cart<klr tip="ind"> (de tir)</klr></trd>
+    <trd lng="hu">elt&eacute;r&eacute;s<klr tip="ind"> (tal&aacute;lati)</klr></trd>
+    <trd lng="pt">diferen&ccedil;a</trd>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_d;&c_h;&c_ib;&c_l;&c_je;&c_n;&c_mol;&c_n;&c_je;</trd>,
+    <trd>&c_p;&c_a;&c_m;&c_y;&c_l;&c_k;&c_a;</trd>,
+    <trd>&c_h;&c_ib;&c_b;&c_a;</trd>,
+    <trd>&c_h;&c_ib;&c_b;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>absolutní chyba</trd>,
+    <trd>chyba</trd>,
+    <trd>odchylka</trd>
+  </trdgrp>
+  <trd lng="it">scarto<klr> (differenza)</klr></trd>
+  <trdgrp lng="ru">
+    <trd>&c_o;&c_t;&c_k;&c_l;&c_o;&c_n;&c_je;&c_n;&c_i;&c_je;</trd>,
+    <trd>&c_p;&c_o;&c_g;&c_r;&c_je;&c_sh;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>chyba</trd>,
+    <trd>odchýlka</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: ekart.xml,v $
+Revision 1.15  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.13  2010/06/03 16:30:41  revo
+Antonio Codazzi: +trd it
+
+Revision 1.12  2007/06/22 17:25:51  revo
+Tulio Flores: +tr pt
+
+Revision 1.11  2005/01/14 17:31:06  revo
+Vito Redsky: pl trd korekto l=&lstroke;
+
+Revision 1.10  2003/12/16 17:31:07  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.9  2003/06/03 16:31:04  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.8  2003/01/02 17:45:14  revo
+Marc Bavant: +trd pl
+
+Revision 1.7  2002/05/18 16:33:57  revo
+Ulrich Fellmann: + 3 pliaj trd de
+Revision 1.6  2002/05/02 16:35:58  revo
+Marc Bavant: ~o MAT: +trd de/en/ru, mod trd fr, +adm; ~o MIL: +trd fr
+-->
+</vortaro>

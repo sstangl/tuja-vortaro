@@ -1,0 +1,379 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: sxtat.xml,v 1.28 2011/12/05 17:10:11 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>&scirc;tat</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="sxtat.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="sxtat.0o.POL">
+    <tezrad fak="POL"/>
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      Politika formo de organizita socio kun propra teritorio kaj
+      <ref tip="prt" cel="reg.0istaro">registaro</ref>:
+      <ekz>
+        Frederiko la Dua multe pligrandigis ne nur la teritorion
+        kaj la potencon de la prusa regno kontra&ubreve; la aliaj regnoj,
+        sed anka&ubreve; la povon de la prusa <tld/>o kontra&ubreve; la prusaj
+        regnanoj;
+      </ekz>
+    </dif>
+    <rim>
+      kontraste al <ref cel="regn.0o.POL">regno</ref>, <tld/>o ofte
+      implicas rilaton al siaj <tld/>anoj, kaj ne nepre estas
+      sendependa.
+    </rim>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_d;&c_z;&c_ja;&c_r;&c_zh;&c_a;&c_v;&c_a;</trd>,
+    <trd>&c_k;&c_r;&c_a;&c_ib;&c_n;&c_a;</trd>
+  </trdgrp>
+  <trd lng="ca">estat</trd>
+  <trd lng="cs">st&aacute;t</trd>
+  <trd lng="de">Staat</trd>
+  <trd lng="en">state</trd>
+  <trd lng="es">estado</trd>
+  <trd lng="fr">&Eacute;tat</trd>
+  <trd lng="hu">&aacute;llam</trd>
+  <trd lng="it">stato<klr> (pol.)</klr></trd>
+  <trd lng="nl">staat</trd>
+  <trd lng="pt">estado</trd>
+  <trd lng="ru">&c_g;&c_o;&c_s;&c_u;&c_d;&c_a;&c_r;&c_s;&c_t;&c_v;&c_o;</trd>
+  <trd lng="sv">stat</trd>
+  <trd lng="tr">devlet</trd>
+</drv>
+
+<drv mrk="sxtat.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="sxtat.0a.POL">
+    <dif>
+      Apartenanta al la <tld/>o, administrata de la <tld/>o,
+      rilata al la <tld/>o.
+    </dif>
+  </snc>
+  <trd lng="ca">estatal</trd>
+  <trd lng="be">&c_d;&c_z;&c_ja;&c_r;&c_zh;&c_a;&c_w;&c_n;&c_y;</trd>
+  <trd lng="de">staatlich</trd>
+  <trd lng="es">estatal</trd>
+  <trdgrp lng="fr">
+    <trd>&eacute;tatique</trd>,
+    <trd>nationale<klr> (&eacute;tatique)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>&aacute;llami</trd>,
+    <trd>&aacute;llam-</trd>
+  </trdgrp>
+  <trd lng="it">statale</trd>
+  <trd lng="nl">staats-</trd>
+  <trd lng="ru">&c_g;&c_o;&c_s;&c_u;&c_d;&c_a;&c_r;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>
+  <trd lng="sv">statlig</trd>
+</drv>
+
+<drv mrk="sxtat.0ano">
+  <kap><tld/>ano</kap>
+  <snc mrk="sxtat.0ano.POL">
+    <dif>
+      Ano de <tld/>o:
+      <ekz>
+        ne &ccirc;iu <tld/>ano estas plenrajta
+        <ref tip="sub" cel="civit.0ano">civitano</ref>.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="reg.0ato">regato</ref>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_g;&c_r;&c_a;&c_m;&c_a;&c_d;&c_z;&c_ja;&c_n;&c_ib;&c_n;</trd>,
+    <trd>&c_p;&c_a;&c_d;&c_d;&c_a;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trdgrp lng="ca">
+    <trd>ciutad&agrave;</trd>,
+    <trd>s&uacute;bdit</trd>
+  </trdgrp>
+  <trd lng="de">Staatsb&uuml;rger</trd>
+  <trdgrp lng="fr">
+    <trd>citoyen</trd>,
+    <trd>ressortissant</trd>
+  </trdgrp>
+  <trd lng="hu">&aacute;llampolg&aacute;r</trd>
+  <trd lng="it">cittadino<klr> (di stato)</klr></trd>
+  <trdgrp lng="nl">
+    <trd>staatsburger</trd>,
+    <trd>burger</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_o;&c_d;&c_d;&c_a;&c_n;&c_n;&c_y;&c_j;</trd>,
+    <trd>&c_g;&c_r;&c_a;&c_zh;&c_d;&c_a;&c_n;&c_i;&c_n;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="sxtat.0ismo">
+  <kap><tld/>ismo</kap>
+  <snc mrk="sxtat.0ismo.POL">
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      Emo multigi la administrajn kaj ekonomiajn taskojn
+      plenumotajn de la <tld/>a organiza&jcirc;o.
+    </dif>
+    <ref tip="ant" cel="libera.0ismo.EKON">liberalismo</ref>
+  </snc>
+  <trd lng="be">&c_e;&c_t;&c_a;&c_t;&c_y;&c_z;&c_m;</trd>
+  <trd lng="ca">estatisme</trd>
+  <trd lng="de">Etatismus</trd>
+  <trd lng="fr">&eacute;tatisme</trd>
+  <trd lng="hu">etatizmus</trd>
+  <trd lng="it">statalismo</trd>
+  <trd lng="ru">&c_e;&c_t;&c_a;&c_t;&c_i;&c_z;&c_m;</trd>
+</drv>
+
+<drv mrk="sxtat.0isto">
+  <kap><tld/>isto</kap>
+  <snc mrk="sxtat.0isto.POL">
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      <tld lit="&Scirc;"/>reganto, precipa a&ubreve;
+      iu el la precipaj estroj de &scirc;tato:
+      prezidanto, &ccirc;efministro...:
+      <ekz>
+        vi estas samtempe <tld/>isto kaj budha sacerdoto.
+        &Ccirc;u vi opinias, ke religio kaj &scirc;tato devas kaj
+        povas esti institucie kunligitaj?
+        <fnt>
+          <aut>D. Pili&cacute;, S. Dalmacija</aut>,
+          <vrk><url ref="http://www.radicalparty.org/eo/node/5071760">
+          Intervjuo: Profesoro Samdhong Rinpoche</url></vrk>,
+          <lok>Partio transpartio Radikala, 2004-11-06</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="ca">estadista</trd>
+  <trd lng="fr">homme d'&Eacute;tat</trd>
+</drv>
+
+<drv mrk="sxtat.al0igo">
+  <kap>al<tld/>igo</kap>
+  <snc mrk="sxtat.al0igo.POL">
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      Transmeto de io el privata en <tld/>an posedon
+      a&ubreve; administradon.
+    </dif>
+    <ref tip="ant" cel="sxtat.de0igo.POL">de<tld/>igo</ref>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_n;&c_a;&c_c;&c_y;&c_ja;&c_n;&c_a;&c_l;&c_ib;&c_z;&c_a;&c_c;&c_y;&c_ja;</trd>,
+    <trd>&c_a;&c_d;&c_z;&c_ja;&c_r;&c_zh;&c_a;&c_w;&c_l;&c_je;&c_n;&c_mol;&c_n;&c_je;</trd>
+  </trdgrp>
+  <trd lng="ca">estatitzaci&oacute;</trd>
+  <trd lng="de">Verstaatlichung</trd>
+  <trd lng="es">nacionalizaci&oacute;n</trd>
+  <trd lng="fr">nationalisation</trd>
+  <trd lng="hu">&aacute;llamos&iacute;t</trd>
+  <trd lng="it">nazionalizzazione</trd>
+  <trd lng="nl">nationalisatie</trd>
+  <trdgrp lng="ru">
+    <trd>&c_n;&c_a;&c_c;&c_i;&c_o;&c_n;&c_a;&c_l;&c_i;&c_z;&c_a;&c_c;&c_i;&c_ja;</trd>,
+    <trd>&c_o;&c_g;&c_o;&c_s;&c_u;&c_d;&c_a;&c_r;&c_s;&c_t;&c_v;&c_l;&c_je;&c_n;&c_i;&c_je;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="sxtat.bufro0o">
+  <kap>bufro<tld/>o</kap>
+  <snc mrk="sxtat.bufro0o.POL">
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      <tld lit="&Scirc;"/>o ku&scirc;anta inter pli grandaj &scirc;tatoj, 
+      evitanta malamika&jcirc;ojn inter ili:
+      <ekz>
+        tiam, Belgio estis fondata kiel bufro<tld/>o inter la batalemaj
+        najbaraj landoj: Nederlando, Germanio kaj Francio
+        <fnt>
+        <aut>L. Van de Velde</aut>,
+        <vrk><url ref="http://members.at.infoseek.co.jp/Esp_Chushi/
+Esp-Lode-lingva-problemo.htm">
+        La lingvoproblemo en Belgio kaj en la E&ubreve;ropa Unio</url></vrk>,
+        <lok>1997-08-10</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="ca">estat coix&iacute;</trd>
+  <trd lng="fr">&Eacute;tat tampon</trd>
+  <trd lng="it">stato<klr> cuscinetto</klr></trd>
+  <trd lng="ru">&c_b;&c_u;&c_f;&c_je;&c_r;&c_n;&c_o;&c_je; &c_g;&c_o;&c_s;&c_u;&c_d;&c_a;&c_r;&c_s;&c_t;&c_v;&c_o;</trd>
+</drv>
+
+<drv mrk="sxtat.de0igo">
+  <kap>de<tld/>igo</kap>
+  <snc mrk="sxtat.de0igo.POL">
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      Rezigno fare de <tld/>o posedi a&ubreve; administri ion:
+      <ekz>
+        <ind>de<tld/>igo de la Eklezio</ind>.
+        <trd lng="ca">desamortitzaci&oacute; de l'esgl&eacute;sia</trd>
+        <trd lng="hu">az &aacute;llam &eacute;s az egyh&aacute;z sz&eacute;tv&aacute;laszt&aacute;sa</trd>
+        <trd lng="ru">&c_o;&c_t;&c_d;&c_je;&c_l;&c_je;&c_n;&c_i;&c_je; &c_c;&c_je;&c_r;&c_k;&c_v;&c_i; &c_o;&c_t; &c_g;&c_o;&c_s;&c_u;&c_d;&c_a;&c_r;&c_s;&c_t;&c_v;&c_a;</trd>
+      </ekz>
+    </dif>
+    <ref tip="ant" cel="sxtat.al0igo.POL">al<tld/>igo</ref>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_d;&c_e;&c_n;&c_a;&c_c;&c_y;&c_ja;&c_n;&c_a;&c_l;&c_ib;&c_z;&c_a;&c_c;&c_y;&c_ja;</trd>,
+    <trd>&c_r;&c_a;&c_z;&c_mol;&c_d;&c_z;&c_ja;&c_r;&c_zh;&c_a;&c_w;&c_l;&c_je;&c_n;&c_mol;&c_n;&c_je;</trd>,
+    <trd>&c_p;&c_r;&c_y;&c_v;&c_a;&c_t;&c_y;&c_z;&c_a;&c_c;&c_y;&c_ja;</trd>
+  </trdgrp>
+  <trd lng="ca">privatitzar</trd>
+  <trd lng="de">Privatisierung</trd>
+  <trd lng="es">privatizaci&oacute;n</trd>
+  <trd lng="fr">privatisation</trd>
+  <trdgrp lng="hu">
+    <trd>mag&aacute;nos&iacute;t&aacute;s</trd>,
+    <trd>privatiz&aacute;l&aacute;s</trd>
+  </trdgrp>
+  <trd lng="it">privatizzazione<klr> (di beni dello stato)</klr></trd>
+  <trd lng="nl">denationalisatie</trd>
+  <trdgrp lng="ru">
+    <trd>&c_d;&c_je;&c_n;&c_a;&c_c;&c_i;&c_o;&c_n;&c_a;&c_l;&c_i;&c_z;&c_a;&c_c;&c_i;&c_ja;</trd>,
+    <trd>&c_r;&c_a;&c_z;&c_g;&c_o;&c_s;&c_u;&c_d;&c_a;&c_r;&c_s;&c_t;&c_v;&c_l;&c_je;&c_n;&c_i;&c_je;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="sxtat.inter0a">
+  <kap>inter<tld/>a</kap>
+  <snc mrk="sxtat.inter0a.POL">
+    <dif>
+      Rilata al pluraj <tld/>oj, al iliaj rilatoj:
+      <ekz>
+        la stranga fremdulo pli koncernas la
+        juglandan heredrajton ol la inter<tld/>an pacon
+        <fnt>
+        <aut>G. Macaoidh</aut>:
+        <vrk><url ref="&Monato;/rec/mpac.html">
+        La paco ne facile subteni&gcirc;as</url></vrk>,
+        <bib>Monato</bib>,
+        <lok>2000-01</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        distingu inter simpla <ctl>kontrakto</ctl> (interkonsento pri
+        konkrete
+        plenumeblaj a&ubreve; plenumendaj aferoj) kaj <ctl>traktato</ctl>
+        (inter<tld/>a
+        interkonsento); ekzemple la <ctl>Traktato de Maastricht</ctl>.
+        <fnt>
+        <aut>S. Maul</aut>:
+        <vrk>Inter-Monato</vrk>,
+        <lok>2000-01</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_m;&c_ib;&c_zh;&c_d;&c_z;&c_ja;&c_r;&c_zh;&c_a;&c_w;&c_n;&c_y;</trd>,
+    <trd>&c_m;&c_ib;&c_zh;&c_n;&c_a;&c_r;&c_o;&c_d;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trdgrp lng="ca">
+    <trd>interestatal</trd>,
+    <trd>internacional</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>zwischenstaatlich</trd>,
+    <trd>international</trd>
+  </trdgrp>
+  <trd lng="en">international</trd>
+  <trd lng="fr">international</trd>
+  <trd lng="hu">&aacute;llamk&ouml;zi</trd>
+  <trdgrp lng="it">
+    <trd>sovranazionale</trd>,
+    <trd>internazionale</trd>
+  </trdgrp>
+  <trd lng="nl">internationaal</trd>
+  <trdgrp lng="ru">
+    <trd>&c_m;&c_je;&c_zh;&c_g;&c_o;&c_s;&c_u;&c_d;&c_a;&c_r;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>,
+    <trd>&c_m;&c_je;&c_zh;&c_d;&c_u;&c_n;&c_a;&c_r;&c_o;&c_d;&c_n;&c_y;&c_j;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="sxtat.membro0o">
+  <kap>membro<tld/>o</kap>
+  <snc mrk="sxtat.membro0o.POL">
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      <tld lit="&Scirc;"/>o, kiu anas en internacia
+      <ref tip="vid" cel="organi2.0ajxo">organiza&jcirc;o</ref>:
+      <ekz>
+        post atribuo de la patento, necesas traduko al la oficialaj
+        lingvoj de
+        la membro-<tld/>oj en kiuj la patento estu valida.
+        <fnt>
+          <aut>R. Rotsaert</aut>:
+          <vrk><url ref="&Monato;/007177.html">E&ubreve;ropa
+          Patent-Organiza&jcirc;o</url></vrk>,
+          <bib>Monato</bib>,
+          <lok>2000-11</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_d;&c_z;&c_ja;&c_r;&c_zh;&c_a;&c_v;&c_a;-&c_w;&c_d;&c_z;&c_je;&c_l;&c_mol;&c_n;&c_ib;&c_c;&c_a;</trd>,
+    <trd>&c_k;&c_r;&c_a;&c_ib;&c_n;&c_a;-&c_w;&c_d;&c_z;&c_je;&c_l;&c_mol;&c_n;&c_ib;&c_c;&c_a;</trd>
+  </trdgrp>
+  <trd lng="ca">estat membre</trd>
+  <trd lng="fr">&Eacute;tat membre<klr> (d'une organisation)</klr></trd>
+  <trd lng="hu">tag&aacute;llam</trd>
+  <trd lng="nl">lidstaat</trd>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_t;&c_r;&c_a;&c_n;&c_a;-&c_u;&c_ch;&c_a;&c_s;&c_t;&c_n;&c_i;&c_c;&c_a;</trd>,
+    <trd>&c_g;&c_o;&c_s;&c_u;&c_d;&c_a;&c_r;&c_s;&c_t;&c_v;&c_o;-&c_ch;&c_l;&c_je;&c_n;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="sxtat.sub0o">
+  <kap>sub<tld/>o</kap>
+  <snc mrk="sxtat.sub0o.POL">
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      Membra <tld/>o en federa 
+     <ref tip="super" cel="sxtat.0o"><tld/>o</ref>.
+    </dif>
+  </snc>
+  <trd lng="be">&c_sh;&c_t;&c_a;&c_t;</trd>
+  <trd lng="ca">estat federat</trd>
+  <trd lng="fr">&Eacute;tat<klr> (d'une f&eacute;d&eacute;ration)</klr></trd>
+  <trd lng="hu">sz&ouml;vets&eacute;gi &aacute;llam</trd>
+  <trd lng="it">stato<klr> (di confederazione)</klr></trd>
+  <trd lng="ru">&c_sh;&c_t;&c_a;&c_t;</trd>
+</drv>
+</art>
+<!--
+$Log: sxtat.xml,v $
+Revision 1.28  2011/12/05 17:10:11  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.27  2011/08/10 08:10:09  revo
+Jeromo Vasxe: + ~isto
+
+Revision 1.26  2009/04/18 16:30:17  revo
+Antonio Codazzi: +trd it
+
+Revision 1.25  2006/09/22 19:46:22  revo
+Wolfram Diestel: +tezrad(POL)
+
+Revision 1.24  2006/05/20 16:31:21  revo
+Yury Finkel: +trd ru
+
+Revision 1.23  2006/05/07 16:31:36  revo
+Jeromo Vasxe: + bufro~o, + kk fak pol, + kk trd fr
+
+Revision 1.22 2006/02/17 17:31:53 revo
+Tulio Flores: +trd pt
+
+Revision 1.21 2004/01/18 17:30:37 revo
+-->
+</vortaro>

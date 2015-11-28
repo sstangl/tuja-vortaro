@@ -1,0 +1,110 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: hermetik.xml,v 1.8 2015/07/04 08:37:35 revo Exp $">
+<kap>
+  <rad>hermetik</rad>/a <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="hermetik.0a">
+  <kap><tld/>a<fnt>Z</fnt></kap>
+  <snc mrk="hermetik.0a.TEK">
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      Lasanta eniri a&ubreve; eliri neniun fluida&jcirc;on; provizita
+      per tia fermosistemo:
+      <ekz>
+        <tld/>a fermo;
+      </ekz>
+      <ekz>
+        <ind><tld/>e &scirc;topita</ind> botelo.
+        <trd lng="ca">tancat herm&egrave;ticament</trd>
+      </ekz>
+    </dif>
+    <trd lng="be">&c_g;&c_je;&c_r;&c_m;&c_je;&c_t;&c_y;&c_ch;&c_n;&c_y;</trd>
+    <trd lng="ca">herm&egrave;tic</trd>
+    <trdgrp lng="de">
+      <trd>hermetisch</trd>,
+      <trd>luft- und <ind>wasserdicht</ind></trd>
+    </trdgrp>
+    <trd lng="el">&epsilon;&rho;&my;&eta;&tau;&jota;&kappa;&omikron_ton;&sigma_fina;</trd>
+    <trd lng="en">hermetic</trd>
+    <trd lng="es">herm&eacute;tico</trd>
+    <trd lng="fr">&eacute;tanche</trd>
+    <trdgrp lng="hu">
+      <trd>hermetikus</trd>,
+      <trd>t&ouml;m&iacute;tett</trd>,
+      <trd>szigetelt</trd>
+    </trdgrp>
+    <trd lng="it">ermetico<klr> (a chiusura stagna)</klr></trd>
+    <trd lng="nl">hermetisch</trd>
+    <trdgrp lng="pl">
+      <trd>hermetyczny</trd>,
+      <trd>szczelny</trd>
+    </trdgrp>
+    <trd lng="pt">herm&eacute;tico</trd>
+    <trdgrp lng="ru">
+      <trd>&c_g;&c_je;&c_r;&c_m;&c_je;&c_t;&c_i;&c_ch;&c_n;&c_y;&c_j;</trd>,
+      <trd>&c_g;&c_je;&c_r;&c_m;&c_je;&c_t;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j;</trd>,
+      <trd>&c_p;&c_l;&c_o;&c_t;&c_n;&c_o; &c_z;&c_a;&c_k;&c_r;&c_y;&c_t;&c_y;&c_j;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="hermetik.0a.malklara">
+    <uzo tip="stl">RAR</uzo>
+    <dif>
+      Malfacile enirebla de spirito,
+      malfacile komprenebla,
+      <ref tip="vid" cel="klar.mal0a">malklara</ref>,
+      <ref tip="vid" cel="obskur.0a.malklara">obskura<sncref/></ref>:
+      <ekz>
+        Dao De Jing de La&ubreve;zi <klr>...</klr>
+        de &ccirc;iam estas <tld/>a por ordinaraj legantoj
+        <fnt>
+          <aut>Wang Chongfang</aut>,
+          <vrk>Enkonduko al Dao De Jing</vrk>,
+          <lok>[2012?]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>hermetický</trd>,
+    <trd>neprodyšný</trd>,
+    <trd>vzduchotěsný</trd>
+  </trdgrp>
+  <trd lng="fr">herm&eacute;tique</trd>
+  <trdgrp lng="sk">
+    <trd>hermetický</trd>,
+    <trd>vzduchotesný</trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log: hermetik.xml,v $
+Revision 1.8  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.7  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.6  2012/08/24 00:10:08  revo
+Jeromo Vasxe: + snc malklara
+
+Revision 1.5  2011/12/04 20:10:10  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.4  2009/10/24 16:33:00  revo
+Russ Williams: +trd en
+
+Revision 1.3  2009/09/07 16:31:20  revo
+Antonio Codazzi: +trd it
+
+Revision 1.2  2008/04/22 17:50:28  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.1  2004/03/26 17:30:55  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

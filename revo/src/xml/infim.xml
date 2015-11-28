@@ -1,0 +1,143 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: infim.xml,v 1.23 2015/07/04 08:37:36 revo Exp $">
+<kap>
+  <rad>infim</rad>/o
+</kap>
+<drv mrk="infim.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>PIV1</bib></fnt>
+  <snc>
+    <dif>
+      <klr>(de subaro <frm><g>A</g></frm> de
+      <ref cel="ar.orda0o">orda aro</ref> <frm>(<g>E</g>,&#x2264;)</frm>)</klr>
+      La <ref tip="super" cel="maksim1.0o.MAT">maksimumo</ref> de la aro
+      de &gcirc;iaj subaj <ref cel="bar.0o.MAT">baroj</ref>;
+      alidire: la plej granda suba baro; simb. <frm>inf <g>A</g></frm>:
+      <ekz>
+        se &gcirc;i ekzistas, la <tld/>o de <frm><g>A</g></frm> povas
+        ne aparteni al <frm><g>A</g></frm>;
+      </ekz>
+      <ekz>
+        &ccirc;iu reela subaro kun subaj baroj akceptas reelan
+        <tld/>on, sed tio ne veras en la aro de racionalaj nombroj.
+      </ekz>
+    </dif>
+    <refgrp tip="ant">
+      <ref cel="suprem.0o">supremo</ref>.
+    </refgrp>
+    <rim>
+      Kelkaj preferas la pli skemisman <ctl>suba limo</ctl>
+      kiel en <fnt><bib>EKV</bib><lok>&para;252</lok></fnt>.
+    </rim>
+  </snc>
+  <trd lng="cs">infimum</trd>
+  <trdgrp lng="de">
+    <trd>Infimum</trd>,
+    <trd>untere <ind>Grenze</ind></trd>
+  </trdgrp>
+  <trd lng="en">greatest lower <ind>bound</ind></trd>
+  <trd lng="fr">borne inf&eacute;rieure</trd>
+  <trd lng="hu">infimum</trd>
+  <trd lng="pl">kres dolny</trd>
+  <trdgrp lng="pt">
+    <trd>&#237;nfimo <klr tip="amb">(mat.)(subst.)</klr></trd>,
+    <trd>extremo inferior <klr tip="amb">(mat.)</klr></trd>
+  </trdgrp>
+  <trd lng="ru">&c_t;&c_o;&c_ch;&c_n;&c_a;&c_ja; &c_n;&c_i;&c_zh;&c_n;&c_ja;&c_ja; 
+  <ind>&c_g;&c_r;&c_a;&c_n;&c_mol;</ind></trd>
+  <trd lng="sk">infimum</trd>
+</drv>
+
+<drv mrk="infim.limes0o">
+  <kap>limes<tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <snc>
+    <subsnc mrk="infim.limes0o.subaro">
+      <fnt><bib>EKV</bib><lok>&para;254</lok></fnt>
+      <dif>
+        <klr>(de subaro el reeloj)</klr>
+        &Gcirc;ia plej malgranda
+        <ref cel="akumul.0igxa.punkto">akumuli&gcirc;a</ref> punkto.
+      </dif>
+      <refgrp tip="ant">
+        <ref cel="suprem.limeso0o.subaro">limesosupremo</ref>.
+      </refgrp>
+    </subsnc>
+    <subsnc mrk="infim.limes0o.funkcio">
+      <fnt><bib>PIV2</bib><lok>&leftquot;limesa infimo&rightquot;</lok></fnt>
+      <dif>
+        <klr>(de reela <ref cel="funkci.0o.MAT">funkcio</ref>
+        <frm><k>f</k></frm>, &ccirc;e punkto <frm><k>a</k></frm>
+        de ties fonto-aro)</klr>
+        La <ref cel="infim.0o"><tld/>o</ref> de la aro de punktoj,
+        <ref cel="adher.0a.bildigo">adheraj</ref> al
+        <frm><k>f</k></frm> &ccirc;e <frm><k>a</k></frm>;
+        simb. <frm>lim inf<sub><k>x</k>&#x2192;<k>a</k></sub>
+        <k>f</k>(<k>x</k>)</frm>.
+      </dif>
+      <refgrp tip="ant">
+        <ref cel="suprem.limeso0o.funkcio">limesosupremo</ref>.
+      </refgrp>
+    </subsnc>
+  </snc>
+  <trdgrp lng="de">
+    <trd>unterer <ind>Limes</ind></trd>,
+    <trd>limes inferior</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>lower <ind>limit</ind></trd>,
+    <trd>inferior <ind>limit</ind></trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>limite inf&eacute;rieure</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>limesz inferior</trd>,
+    <trd>als&oacute; hat&aacute;r</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>granica dolna</trd>,
+    <trd>limes inferior</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_n;&c_i;&c_zh;&c_n;&c_i;&c_j; <ind>&c_p;&c_r;&c_je;&c_d;&c_je;&c_l;</ind></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: infim.xml,v $
+Revision 1.23  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.22  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.21  2007/04/20 16:31:12  revo
+Tulio Flores: +tr pt
+
+Revision 1.20  2004/02/08 17:49:17  revo
+Marc Bavant: kor duobligitan punkton
+
+Revision 1.19  2004/01/21 19:01:42  revo
+Jozefo Horvath: +trd hu
+Revision 1.18  2003/05/13 16:32:53  revo
+Marc Bavant: ~o: mod ekz
+Revision 1.17  2003/05/09 16:31:27  revo
+Marc Bavant: ~o: mod trd ru
+Revision 1.16  2003/03/05 17:34:34  revo
+Marc Bavant: limes~o: kor interpunkcion en dif, +fnt; ~o: +simb, mod rim
+Revision 1.15 2003/01/13 17:34:02 revo
+Marc Bavant: ~o: +ind en trd ru
+Revision 1.14 2002/11/30 17:35:24 revo
+Marc Bavant: +ref internaj
+Revision 1.13 2002/11/24 17:34:05 revo
+Marc Bavant: mod frm
+Revision 1.12 2002/11/22 17:33:40 revo
+Marc Bavant: +frm
+-->
+</vortaro>
+

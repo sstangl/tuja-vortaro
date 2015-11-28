@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: pivot.xml,v 1.13 2015/07/04 08:37:41 revo Exp $">
+<kap>
+  <ofc>4</ofc>
+  <rad>pivot</rad>/o
+  <fnt>Z</fnt>
+</kap>
+<drv mrk="pivot.0o">
+  <kap><tld/>o</kap>
+  <snc>
+  <uzo tip="fak">TEK</uzo>
+    <dif>
+      Ekstrema parto de akso, eni&gcirc;anta en truo, kie &gcirc;i turni&gcirc;as:
+      <ekz>
+        <tld/>o de rado en horlo&gcirc;o.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">pivot</trd>
+  <trdgrp lng="de">
+    <trd>Zapfen</trd>,
+    <trd>Drehstift</trd>
+  </trdgrp>
+  <trd lng="en">pivot</trd>
+  <trd lng="fr">pivot</trd>
+  <trdgrp lng="hu">
+    <trd>tengelycsap</trd>,
+    <trd>tengelyv&eacute;g</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>tap</trd>,
+    <trd>luns</trd>
+  </trdgrp>
+  <trd lng="pt">piv&ocirc;<klr tip="amb">(eixo)</klr></trd>
+  <trdgrp lng="ru">
+    <trd>&c_sh;&c_je;&c_j;&c_k;&c_a; &c_v;&c_a;&c_l;&c_a;</trd>,
+    <trd>&c_c;&c_a;&c_p;&c_f;&c_a;</trd>
+  </trdgrp>
+  <trd lng="sk">pivot</trd>
+</drv>
+
+<drv mrk="pivot.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc>
+    <dif>
+      Turni&gcirc;i &ccirc;irka&ubreve; <tld/>o.
+    </dif>
+  </snc>
+  <trd lng="cs">točit se na čepu</trd>
+  <trd lng="de">pivotieren</trd>
+  <trdgrp lng="en">
+    <trd>pivot</trd>,
+    <trd>turn</trd>,
+    <trd>rotate</trd>
+  </trdgrp>
+  <trd lng="fr">pivoter</trd>
+  <trd lng="hu">forog</trd>
+  <trd lng="nl">pivoteren</trd>
+  <trd lng="sk">krútiť sa okolo čapu</trd>
+</drv>
+</art>
+<!--
+$Log: pivot.xml,v $
+Revision 1.13  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.12  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.11  2014/05/05 20:10:24  revo
+Damien Brucker: +trd fr
+
+Revision 1.10  2010/10/04 16:31:06  revo
+Russ Williams: +trd en
+
+Revision 1.9  2006/03/05 17:31:25  revo
+Tulio Flores: +tr pt
+
+Revision 1.8  2004/08/11 16:32:02  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.7  2001/12/19 12:01:29  revo
+Yury Finkel: +trd ru
+
+Revision 1.6 2001/07/27 19:33:03 revo
+Paul Peeraerts: ald trd nl
+
+Revision 1.5 2001/07/09 18:16:38 revo
+Dennis Wibrow: +
+
+-->
+</vortaro>

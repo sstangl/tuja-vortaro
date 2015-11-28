@@ -1,0 +1,149 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: ambaux.xml,v 1.28 2014/11/12 09:10:19 revo Exp $">
+<kap>
+   <ofc>*</ofc>
+   <rad>amba&ubreve;</rad>
+</kap>
+<drv mrk="ambaux.0">
+   <kap><ofc>*</ofc><tld/></kap>
+   <snc>
+     <dif>
+       Du kune, &ccirc;iuj du, du same, duopaj:
+       <ekz>
+         mi kaj mia frato estas <tld/> esperantistoj;
+       </ekz>
+       <ekz>
+         <tld/> manoj, okuloj;
+       </ekz>
+       <ekz>
+         oni devas fari diferencon inter la <tld/>
+         kazoj<fnt>Z</fnt>;
+       </ekz>
+       <ekz>
+       kvankam mi ofte uzis la formon "la <tld/>", tamen mi opinias nun,
+       ke pli logike estas uzi la vorton "<tld/>"
+       sen artikolo<fnt><bib>LR</bib></fnt>;
+       </ekz>
+       <ekz>
+         <ind><tld/>dekstra</ind>
+         <klr>(uzanta <tld/> manojn kiel dekstran)</klr>;
+         <trd lng="fi">molempik&auml;tinen</trd>
+         <trd lng="he">&dalet;&vav;-&yod;&dalet;&yod;</trd>
+         <trd lng="pl">obur&eogonek;czny</trd>
+       </ekz>
+       <ekz>
+         <tld/>flanka;
+           <trdgrp lng="pl">
+            <trd>obustronny</trd>,
+            <trd>dwustronny</trd>
+            </trdgrp>
+       </ekz>
+       <ekz>
+         <tld/>flanke de la pordo staras statuoj;
+       </ekz>
+       <ekz>
+         <ind><tld/>tran&ccirc;a glavo</ind>
+         <trd lng="fi">kaksiter&auml;inen miekka</trd>
+            <trd lng="pl">obosieczny miecz</trd>
+         <fnt><bib>MT</bib>, <lok>&Sen; 5:4</lok></fnt>.
+       </ekz>
+     </dif>
+     <rim num="1">
+       Uzo de la artikolo apud <tld/> estas senutila kaj
+       malkonsilinda.
+     </rim>
+     <rim num="2">
+     Z. atentigas, ke "la konjunkcian uzadon de "<tld/>" en la frazo
+     <ekz>*ni lo&gcirc;as en Londono <tld/> en somero kaj en vintro*</ekz> mi
+     trovas tute ne aprobinda (estas konsilinde diri:<ekz> kiel en
+     somero, tiel anka&ubreve; en vintro</ekz>, a&ubreve; <ekz>ne nur en somero, sed
+     anka&ubreve; en vintro</ekz>)"<fnt><bib>LR</bib></fnt>.
+     </rim>
+   </snc>
+   <trdgrp lng="be">
+     <trd>&c_a;&c_b;&c_o;&c_d;&c_v;&c_a;</trd>,
+     <trd>&c_a;&c_b;&c_je;&c_d;&c_z;&c_mol;&c_v;&c_je;</trd>
+   </trdgrp>
+   <trdgrp lng="ca">
+     <trd>ambd&oacute;s</trd>,
+     <trd>tots dos</trd>
+   </trdgrp>
+   <trdgrp lng="cs">
+     <trd>oba</trd>,
+     <trd>ob&ecaron;</trd>
+   </trdgrp>
+   <trd lng="de">beide</trd>
+   <trd lng="en">both</trd>
+   <trd lng="es">ambos</trd>
+   <trdgrp lng="fi">
+     <trd>molemmat</trd>,
+     <trd>kumpikin</trd>
+   </trdgrp>
+   <trdgrp lng="fr">
+     <trd>tous <ind>deux</ind></trd>,
+     <trd>l'<ind>un</ind> et l'autre</trd>
+   </trdgrp>
+   <trdgrp lng="he">
+     <trd>&shin;&nun;&yod; &he;-</trd>,
+     <trd>&dalet;&vav;-</trd>
+   </trdgrp>
+   <trd lng="hu">mindkett&odblac;</trd>
+   <trdgrp lng="id">
+     <trd><ind>dua</ind>-duanya</trd>,
+     <trd>[<ind>dua</ind>] keduanya</trd>
+   </trdgrp>
+   <trdgrp lng="it">
+     <trd>ambo</trd>,
+     <trd>ambedue</trd>,
+     <trd>entrambi</trd>
+   </trdgrp>
+   <trd lng="nl">beide</trd>
+   <trdgrp lng="pl">
+    <trd>obaj</trd>,
+    <trd>obie</trd>,
+    <trd>obydwaj</trd>,
+    <trd>obydwie</trd>,
+    <trd>obydwoje</trd>,
+    <trd>oboje</trd>
+  </trdgrp>
+   <trd lng="pt">ambos os/as</trd>
+   <trdgrp lng="sk">
+     <trd>obidve</trd>,
+     <trd>obe</trd>
+   </trdgrp>
+   <trdgrp lng="ru">
+     <trd>&c_o;&c_b;&c_a;</trd>,
+     <trd>&c_o;&c_b;&c_je;</trd>
+   </trdgrp>
+   <trd lng="vo">bofik</trd>
+</drv>
+</art>
+<!--
+$Log: ambaux.xml,v $
+Revision 1.28  2014/11/12 09:10:19  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.27  2014/05/03 20:10:20  revo
+Damien Brucker: +rim2
+
+Revision 1.26  2013/12/08 18:10:11  revo
+Damien Brucker: +aldono de cxiuj du
+
+Revision 1.25  2012/08/01 09:10:26  revo
+Marc Rausell: + trd ca
+
+Revision 1.24  2007/12/03 17:30:31  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.23  2007/07/13 16:30:39  revo
+Harri Laine: +trd fi
+
+Revision 1.22  2007/05/01 18:24:45  revo
+Luiz Portella: +trd pt
+
+Revision 1.21  2007/02/08 17:30:39  revo
+-->
+</vortaro>

@@ -1,0 +1,241 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: sxarg.xml,v 1.26 2015/10/07 14:10:26 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>&scirc;arg</rad>/i
+</kap>
+
+<drv mrk="sxarg.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="sxarg.0i.aparaton">
+    <dif>
+      Provizi aparaton je konsuma&jcirc;o, forto, energio necesa por &gcirc;ia
+      funkciado:
+      <ekz>
+        <tld/>i akumulatoron, fotokameron, kondensatoron.
+      </ekz>
+    </dif>
+    <subsnc mrk="sxarg.0i.pafilon">
+      <dif>
+        Enmeti eksploda&jcirc;on kaj pafa&jcirc;on en ian ajn pafilon:
+        <ekz>
+          li propramane finis <tld/>i la kanonon
+          <fnt>
+          <aut>Edward Everett Hale, trad. E. L. Robinson, trad. Don
+          Harlow</aut>,
+          <vrk>
+<url ref="http://donh.best.vwh.net/Esperanto/Literaturo/Noveloj/
+La_Viro_Senpatria.html">La viro senpatria</url></vrk>,
+          <lok>1907 kaj 1994</lok>
+          </fnt>.
+        </ekz>
+      </dif>
+      <trd lng="be">&c_z;&c_a;&c_r;&c_a;&c_d;&c_zh;&c_a;&c_c;&c_mol;</trd>
+      <trd lng="de">laden</trd>
+      <trd lng="en">to load</trd>
+      <trd lng="hu">megt&ouml;lt<klr tip="ind"> (pl. pusk&aacute;t)</klr>
+</trd>
+      <trd lng="ru">&c_z;&c_a;&c_r;&c_ja;&c_zh;&c_a;&c_t;&c_mol;</trd>
+    </subsnc>
+    <subsnc mrk="sxarg.0i.KOMP">
+      <uzo tip="fak">KOMP</uzo>
+      <dif>
+        Provizi koncernan parton de komputila memoro je datumo
+        necesa (programo, tiparo, valoro de variablo) por plua
+        komputado.
+      </dif>
+      <trdgrp lng="de">
+        <trd>laden</trd>,
+        <trd>hochfahren</trd>,
+        <trd>booten</trd>
+      </trdgrp>
+      <trd lng="be">&c_z;&c_a;&c_g;&c_r;&c_u;&c_zh;&c_a;&c_c;&c_mol; 
+<klr>(&c_n;&c_je;&c_sh;&c_t;&c_a; &c_w; 
+&c_k;&c_a;&c_m;&c_p;&c_u;&c_t;&c_a;&c_r;&c_n;&c_u;&c_ju;
+      &c_p;&c_a;&c_m;&c_ja;&c_c;&c_mol;)</klr></trd>
+      <trd lng="en">to load</trd>
+      <trd lng="hu">be&ouml;lt<klr tip="ind"> (pl. programot)</klr></trd>
+      <trd lng="ru">&c_z;&c_a;&c_g;&c_r;&c_u;&c_zh;&c_a;&c_t;&c_mol;</trd>
+    </subsnc>
+    <trd lng="be">&c_z;&c_a;&c_r;&c_a;&c_d;&c_zh;&c_a;&c_c;&c_mol;</trd>
+    <trdgrp lng="de">
+      <trd>laden</trd>,
+      <trd>best&uuml;cken</trd>
+    </trdgrp>
+    <trd lng="hu">felt&ouml;lt<klr tip="ind"> (pl. akkut)</klr></trd>
+    <trd lng="ru">&c_z;&c_a;&c_r;&c_ja;&c_zh;&c_a;&c_t;&c_mol;</trd>
+  </snc>
+  <rim>
+    La &gcirc;enerala regmodelo de la verbo estas kiel tiu de
+    <ctl>plenigi</ctl>:
+    <ekz>
+      <tld/>i pafilon per kuglo.
+    </ekz>
+    Tamen la&ubreve; la angla modelo komputikistoj ofte uzas <tld/>i simile
+    al <ref tip="sin" cel="leg.0i.KOMP_el_memoro">legi</ref>:
+    <ekz>
+      <tld/>i programon en la &ccirc;efmemoron,
+    </ekz>
+    <ekz>
+      <tld/>ebla tiparo
+    </ekz>
+    (kio estas same stranga kiel <ctl><tld/>ebla kuglo</ctl>).
+    Aliflanke, <ctl><tld/>i per</ctl> &scirc;ajnas enkonduki ilon por
+    <tld/>ado; tial
+    <ekz>
+      <tld/>i ion <em>je</em> io per <tld/>ilo
+    </ekz>
+    estas preferinda.
+  </rim>
+  <trd lng="ca">carregar</trd>
+  <trdgrp lng="en"><trd>to charge</trd>, <trd>to load</trd></trdgrp>
+  <trd lng="fr">charger</trd>
+  <trd lng="it">caricare</trd>
+  <trd lng="nl">laden</trd>
+  <trd lng="pt">carregar</trd>
+</drv>
+
+<drv mrk="sxarg.0o">
+  <kap><tld/>o</kap>
+  <snc>
+    <dif>
+      Eksploda&jcirc;o kaj pafa&jcirc;o enmetebla en ian ajn pafilon.
+    </dif>
+    <trd lng="de">Ladung<klr> (Munition)</klr></trd>
+    <trdgrp lng="en">
+      <trd>load</trd>,
+      <trd>charge</trd>
+    </trdgrp>
+    <trd lng="hu">t&ouml;lt&eacute;ny</trd>
+  </snc>
+  <snc>
+    <dif>
+      Forto a&ubreve; io necesa por funkciigi aparaton:
+      <ekz>
+        <tld/>o de akumulatoro, de fotokamero.
+      </ekz>
+    </dif>
+    <trd lng="en">charge</trd>
+  </snc>
+  <snc mrk="sxarg.0o.ELE">
+    <uzo tip="fak">ELE</uzo>
+    <trd lng="en">charge</trd>
+    <subsnc mrk="sxarg.0o.korpo">
+      <dif>
+        &Ccirc;ia korpo, kiu pasante en
+        <ref cel="elektr.0akampo.spaco">elektra kampo</ref>, devias de
+        sia anta&ubreve;a trajektorio:
+        <ekz>
+          <tld/>o estas korpo, kies nombro de elektronoj malsamas
+          kun la nombro de protonoj.
+        </ekz>
+      </dif>
+      <rim>
+        Por &ccirc;i tiu senco oni diras anka&ubreve; &leftquot;<tld/>ita
+        korpo&rightquot;.
+      </rim>
+      <adm>
+        Trovi auxtoritatajn fontojn por tiu senco kaj por
+        "~ita korpo", se eblas. <aut>MB</aut>
+      </adm>
+    </subsnc>
+    <subsnc mrk="sxarg.0o.grando">
+      <dif>
+        <ref tip="super" cel="grand.fizika0o">Fizika grando</ref>,
+        esprimanta la
+        direkton kaj intenson de devio de <tld/>o <sncref
+        ref="sxarg.0o.korpo"/>
+        en elektra kampo kaj anka&ubreve; la produton de
+        <ref cel="kurent.0intenso">kurentintenso</ref> per la tempo, dum
+        kiu pasis la koncerna kurento:
+        <ekz>
+          la <ref cel="dimens.0o.FIZ">dimensioj</ref> de <tld/>o estas
+          <frm>M<sup>0</sup>L<sup>0</sup>T<sup>1</sup>I<sup>1</sup></frm>;
+        </ekz>
+        <ekz>
+          pozitiva, negativa <tld/>o;
+        </ekz>
+        <ekz>
+          <tld/>o de kondensatoro.
+        </ekz>
+      </dif>
+      <adm>
+        PIV1 nomas tiun grandon "sxarganco". <aut>MB</aut>
+      </adm>
+      <refgrp tip="sin">
+        <ref cel="elektr.0okvanto">elektrokvanto</ref>.
+      </refgrp>
+      <refgrp tip="vid">
+        <ref cel="kulomb.k0o">kulombo</ref>.
+      </refgrp>
+    </subsnc>
+  </snc>
+  <trd lng="be">&c_z;&c_a;&c_r;&c_a;&c_d;</trd>
+  <trd lng="ca">c&agrave;rrega</trd>
+  <trd lng="fr">charge</trd>
+  <trd lng="hu">t&ouml;lt&eacute;s</trd>
+  <trd lng="it">carica</trd>
+  <trd lng="nl">lading</trd>
+  <trd lng="pt">carga</trd>
+  <trd lng="ru">&c_z;&c_a;&c_r;&c_ja;&c_d;</trd>
+</drv>
+
+<drv mrk="sxarg.0ilo">
+  <kap><tld/>ilo</kap>
+  <snc mrk="sxarg.0ilo.MAS">
+    <uzo tip="fak">MAS</uzo>
+    <uzo tip="fak">MIL</uzo>
+    <uzo tip="fak">FOT</uzo>
+    <dif>
+      Ujo, bendo a&ubreve; plato kiu provizas la ma&scirc;inon per 
+      a&jcirc;o(j) por plenumo: <ekz>seskugla <tld/>ilo</ekz>.
+    </dif>
+  <trd lng="it">caricatore</trd>
+  </snc>
+  <snc mrk="sxarg.0ilo.KOMP">
+    <uzo tip="fak">KOMP</uzo>
+    <dif>
+      <ref tip="malprt" cel="operac.0umo">Operaciuma</ref> programo
+      por legi programpecojn (la &scirc;argomodulojn) en la &ccirc;efmemoron
+      por plenumo.
+    </dif>
+  <trd lng="it">loader</trd>
+  </snc>
+  <trd lng="be">&c_z;&c_a;&c_g;&c_r;&c_u;&c_z;&c_ch;&c_y;&c_k;</trd>
+  <trd lng="ca">carregador</trd>
+  <trd lng="en">loader</trd>
+  <trd lng="fr">chargeur</trd>
+  <trd lng="hu">bet&ouml;lt&odblac;</trd>
+  <trd lng="ru">&c_z;&c_a;&c_g;&c_r;&c_u;&c_z;&c_ch;&c_i;&c_k;</trd>
+</drv>
+</art>
+<!--
+$Log: sxarg.xml,v $
+Revision 1.26  2015/10/07 14:10:26  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.25  2011/12/31 10:10:11  revo
+Marc Rausell: +trd ca
+
+Revision 1.24  2009/04/01 16:30:33  revo
+Antonio Codazzi: +trd it
+
+Revision 1.23  2007/05/16 16:30:20  revo
+Wieland Pusch: +trd de
+
+Revision 1.22  2006/01/06 17:32:05  revo
+Jeromo Vasxe: ~i snc/subsnc + 1 ekz
+
+Revision 1.21 2003/09/04 16:31:35 revo
+Dmitri Gabinski: +trd be
+
+Revision 1.20 2002/10/25 16:33:32 revo
+Jozefo Horvath: +trd hu
+
+Revision 1.19 2002/05/20 16:38:21 revo
+-->
+</vortaro>

@@ -1,0 +1,144 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: lorn.xml,v 1.18 2015/07/04 08:37:38 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>lorn</rad>/o
+</kap>
+<drv mrk="lorn.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="lorn.0o.FOT">
+    <uzo tip="fak">FOT</uzo>
+    <dif>
+      Optika tuba instrumento, kiu ebligas vidi malproksimajn objektojn,
+      malpliigante ilian &scirc;ajnan distancon:
+      <ekz>
+        anta&ubreve; ili hodia&ubreve; montri&gcirc;is kvar &scirc;ipoj,
+        kaj &scirc;ajnis al li, ke
+        inter
+        ili li rimarkas per la <tld/>o la &leftquot;Karen
+        Bronne&rightquot;
+        <fnt><bib>Fab4</bib>, <lok>historio el la dunoj</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="bg">&c_z;&c_r;&c_i;&c_t;&c_je;&c_l;&c_n;&c_a; &c_t;&c_r;&c_malmol;&c_b;&c_a;</trd>
+  <trd lng="br">lunedenn</trd>
+  <trd lng="cs">dalekohled</trd>
+  <trd lng="de">Fernrohr</trd>
+  <trd
+  lng="el">&my;&omikron;&ny;&ypsilon_ton;&epsilon;&lambda;&omikron;&sigma_fina;</trd>
+  <trdgrp lng="en">
+    <trd>spyglass</trd>,
+    <trd>spy glass</trd>
+  </trdgrp>
+  <trd lng="fa">&a_d;&a_r;&a_w;&a_b;&f_y;&a_n;</trd>
+  <trdgrp lng="fr">
+    <trd>lunette <klr>(d'approche)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>t&aacute;vcs&odblac;</trd>,
+    <trd>messzel&aacute;t&oacute;</trd>
+  </trdgrp>
+  <trd lng="nl">enkele <ind>verrekijker</ind></trd>
+  <trd lng="pl">luneta</trd>
+  <trd lng="pt">luneta</trd>
+  <trd lng="ru">&c_p;&c_o;&c_d;&c_z;&c_o;&c_r;&c_n;&c_a;&c_ja;
+  &c_t;&c_r;&c_u;&c_b;&c_a;</trd>
+  <trd lng="sk">ďalekohľad</trd>
+</drv>
+
+<drv mrk="lorn.0eto">
+  <kap><tld/>eto</kap>
+  <snc mrk="lorn.0eto.FOT">
+    <uzo tip="fak">FOT</uzo>
+    <dif>
+      Malgranda, facile kunportebla <ref tip="super"
+      cel="lorn.0o.FOT">lorno</ref>:
+      <ekz>
+        mi direktis al &scirc;i mian <tld/>eton kaj rimarkis, ke
+        &scirc;i ridetis
+        al
+        lia rigardo
+        <fnt><bib>Mary</bib></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="bg">&c_l;&c_o;&c_r;&c_n;&c_je;&c_t;</trd>
+    <trd lng="fr">lorgnette</trd>
+    <trd lng="nl">lorgnon</trd>
+    <trd lng="pl">lunetka</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>kukátko <klr>(divad.)</klr></trd>,
+    <trd>lornet</trd>
+  </trdgrp>
+  <trd lng="sk">lornet</trd>
+</drv>
+
+<drv mrk="lorn.du0eto">
+  <kap>du<tld/>eto</kap>
+  <snc mrk="lorn.du0eto.FOT">
+    <uzo tip="fak">FOT</uzo>
+    <ref tip="dif" cel="binokl.0o">binoklo</ref>
+  </snc>
+  <trd lng="be">&c_b;&c_ib;&c_n;&c_o;&c_k;&c_l;&c_mol;</trd>
+  <trd lng="bg">&c_b;&c_i;&c_n;&c_o;&c_k;&c_u;&c_l;&c_ja;&c_r;&c_je;&c_n;</trd>
+  <trd lng="cs">triedr</trd>
+  <trd lng="de">Fernglas</trd>
+  <trd lng="el">&kappa;&ypsilon;&alfa_ton;&lambda;&jota;&alfa;</trd>
+  <trd lng="en">binoculars</trd>
+  <trdgrp lng="es">
+    <trd>gemelos</trd>,
+    <trd>prism&aacute;ticos</trd>,
+    <trd>binoculares</trd>
+  </trdgrp>
+  <trd lng="fa">&a_d;&a_w;&a_r;&a_b;&f_y;&a_n; &a_d;&a_w;&f_ch;&a_sh;&a_m;&f_y;</trd>
+  <trd lng="fr">jumelles <klr>(optique)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>l&aacute;tcs&odblac;</trd>,
+    <trd>binokul&aacute;r</trd>
+  </trdgrp>
+  <trd lng="nl">dubbele <ind>verrekijker</ind></trd>
+  <trdgrp lng="pl">
+    <trd>lorneta</trd>,
+    <trd>lornetka</trd>
+  </trdgrp>
+  <trd lng="pt">bin&oacute;culo</trd>
+  <trd lng="ru">&c_b;&c_i;&c_n;&c_o;&c_k;&c_l;&c_mol;</trd>
+  <trd lng="sk">trieder</trd>
+</drv>
+</art>
+<!--
+$Log: lorn.xml,v $
+Revision 1.18  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:33:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.16  2014/01/24 14:10:14  revo
+Joop Eggen: +trd bg
+
+Revision 1.15  2009/07/11 16:31:42  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.14  2009/03/12 17:31:03  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.13  2009/02/19 20:27:15  revo
+Russ Williams: +trd en
+
+Revision 1.12  2006/01/17 17:31:37  revo
+Jeromo Vasxe: + ~eto, ~o + ekz
+
+Revision 1.11 2005/04/16 16:31:42 revo
+Alan ar Gall: +trd br
+
+Revision 1.10 2004/06/01 17:22:48 revo
+Jozefo Horvath: +trd hu
+
+Revision 1.9 2002/10/25 16:34:07 revo
+-->
+</vortaro>

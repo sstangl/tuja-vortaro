@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: lami.xml,v 1.22 2013/11/03 19:10:09 revo Exp $">
+<kap>
+  <rad>lami</rad>/o
+</kap>
+<drv mrk="lami.0o">
+  <kap>
+    <tld/>o
+  </kap>
+
+  <snc mrk="lami.0o.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:botanikaj_genroj">Genro</ref> el familio 
+      <ref tip="malprt" cel="lamiac.0oj"><tld/>acoj</ref>
+      (<trd lng="la">Lamium</trd>), unu- a&ubreve; plurjara
+      <ref tip="lst" cel="herb.0o.BOT"
+      lst="voko:lamioparencoj">herbo</ref> 
+      tre ofta en E&ubreve;ropo,
+      kun <ref tip="prt" cel="labi.0o">labiaj</ref>
+      floroj, kies supra lipo estas kaskoforme volbita
+      kaj kies malsupra lipo havas grandan, foje duloban mezan 
+      parton kaj du malgrandajn dentoformajn a&ubreve; tute mankantajn flankajn
+      lobojn; du stamenoj estas mallongaj, du pli longaj, &ccirc;iuj kvar
+      fekundaj
+      kaj paralelaj.
+    </dif>
+
+  <bld lok="../bld/lami.jpg">
+    <ind>makulita <tld/>o</ind>
+    <trd lng="la">Lamium maculatum</trd>
+  </bld>
+  <trd lng="be">&c_ja;&c_s;&c_n;&c_o;&c_t;&c_k;&c_a;</trd>
+  <trdgrp lng="ca">
+    <trd>ortiga blanca</trd>,
+    <trd>ortiga borda</trd>,
+    <trd>ortiga morta</trd>
+  </trdgrp>
+  <trd lng="de">Taubnessel</trd>
+  <trd lng="en">nettles</trd>
+  <trd lng="hu">&aacute;rvacsal&aacute;n</trd>  
+  <trd lng="nl">dovenetel</trd>
+  <trd lng="pt">l&acirc;mio</trd>
+  <trd lng="ru">&c_ja;&c_s;&c_n;&c_o;&c_t;&c_k;&c_a;</trd>
+  </snc>
+  <snc mrk="lami.0o.MIT">
+    <uzo tip="fak">MIT</uzo>
+    <dif>
+En multaj mitologioj, virinforma esta&jcirc;o, eliranta nokte por su&ccirc;i
+sangon,
+abortigi gravedajn virinojn, mortigi infanojn kaj kelkfoje virojn.
+    </dif>
+    <ref tip="vid" cel="lilit.0o.MIT">Lilito</ref>
+  <trd lng="ca">l&agrave;mia</trd>
+  <trd lng="de">Lamia</trd>
+  <trd lng="it">lamia</trd>
+  <trd lng="nl">lamia</trd>
+  </snc>
+</drv>
+
+<drv mrk="lami.0o.PERS">
+  <kap>
+    <tld lit="L"/>o
+  </kap>
+  <snc>
+    <uzo tip="fak">MIT</uzo>
+    <dif>
+      Amantino de 
+      <ref tip="vid" cel="zeuxs.0o">Ze&ubreve;so</ref>, transformi&gcirc;ita en
+      envia kaj
+      sendorma infanmortiga 
+      <ref tip="vid" cel="monstr.0o.BIO">monstro</ref> pro la doloro por
+      la
+      mortigo de siaj infanoj.
+    </dif>
+    <ref tip="vid" cel="lilit.0o.REL">Lilito</ref>
+  </snc>
+  <trd lng="ca">L&agrave;mia</trd>
+  <trd lng="de">Lamia</trd>
+  <trd lng="it">Lamia</trd>
+  <trd lng="nl">Lamia</trd>
+</drv>
+</art>
+<!--
+$Log: lami.xml,v $
+Revision 1.22  2013/11/03 19:10:09  revo
+Wolfram Diestel: ref al lst lamioparencoj, prilaboris dif
+
+Revision 1.21  2013/08/27 09:10:13  revo
+Wolfram Diestel: referenco al listo bot genroj
+
+Revision 1.20  2012/09/03 09:10:10  revo
+Marc Rausell: + trd ca
+
+Revision 1.19  2009/09/22 17:18:09  revo
+Paul Peeraerts: +nl
+
+Revision 1.18  2008/11/14 17:31:23  revo
+Wieland Pusch: +trd de
+
+Revision 1.17  2008/09/21 18:54:28  revo
+Antonio Codazzi: +trd it + L/lamia MIT
+
+Revision 1.16  2006/08/25 14:12:16  revo
+Tulio Flores: +tr pt
+
+Revision 1.15  2004/07/06 16:33:04  revo
+-->
+</vortaro>

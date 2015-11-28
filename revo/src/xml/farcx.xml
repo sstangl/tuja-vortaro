@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: farcx.xml,v 1.18 2011/06/03 06:10:13 revo Exp $">
+<kap>
+  <rad>far&ccirc;</rad>/o <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="farcx.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="farcx.0o.KUI">
+    <uzo tip="fak">KUI</uzo>
+    <dif>
+      Hakita kaj spicita viando, legoma&jcirc;o a&ubreve; 
+      frukta&jcirc;o por enmeti internen de man&gcirc;a&jcirc;o. 
+    </dif>
+  </snc>
+  <trd lng="be">&c_f;&c_a;&c_r;&c_sh;</trd>
+  <trd lng="de">F&uuml;llung <klr tip="ind">(Speisen)</klr></trd>
+  <trdgrp lng="en">
+    <trd>stuffing</trd>,
+    <trd>mincemeat</trd>
+  </trdgrp>
+  <trd lng="fr">farce<klr tip="ind"> (hachis)</klr></trd>
+  <trd lng="hu">t&ouml;ltel&eacute;k</trd>
+  <trdgrp lng="nl">
+    <trd>vulling<klr tip="ind"> (voedsel)</klr></trd>,
+    <trd>vulsel<klr tip="ind"> (voedsel)</klr></trd>,
+    <trd>farce</trd>
+  </trdgrp>
+  <trd lng="pl">farsz</trd>
+  <trdgrp lng="pt">
+    <trd>recheio</trd>,
+    <trd>recheado</trd>
+  </trdgrp>
+  <trd lng="ru">&c_f;&c_a;&c_r;&c_sh;</trd>
+  <trd lng="tr"><klr>(dolma i&ccedil;i)</klr></trd>
+</drv>
+
+<drv mrk="farcx.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc num="farcx.0i.KUI">
+    <uzo tip="fak">KUI</uzo>
+    <dif>
+      Plenigi per <tld/>o:
+      <ekz>
+        ansero <tld/>ita per prunoj kaj pomoj
+        <fnt><bib>Fab2</bib>, <lok>Knabineto kun alumetoj</lok></fnt>.
+      </ekz> 
+    </dif>
+    <trd lng="hu">megt&ouml;lt<klr tip="ind">
+    (t&ouml;ltel&eacute;kkel)</klr></trd>
+    <trdgrp lng="pl">
+      <trd>farszowa&cacute;</trd>,
+      <trd>faszerowa&cacute;</trd>
+    </trdgrp>
+  </snc>
+  <snc num="farcx.0i.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      <ref tip="vid" cel="plen.0igi">Plenigi</ref>
+      per multo da:
+      <ekz>
+        liaj kritikoj estas <tld/>itaj <klr>(superplenaj)</klr>
+        per eraroj;
+      </ekz>
+      <ekz>
+        teksto <tld/>ita per &scirc;ablonaj esprimoj.
+      </ekz>
+    </dif>
+    <trd lng="hu">tele van<klr tip="ind"> (pl.
+    hib&aacute;val)</klr></trd>
+    <trdgrp lng="pl">
+      <trd>faszerowa&cacute;</trd>,
+      <trd>nafaszerowa&cacute;</trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_f;&c_a;&c_r;&c_sh;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_n;&c_a;&c_ch;&c_y;&c_n;&c_ja;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="en">stuff</trd>
+  <trd lng="fr">farcir</trd>
+  <trdgrp lng="nl">
+    <trd>vullen</trd>,
+    <trd>opvullen</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_f;&c_a;&c_r;&c_sh;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_n;&c_a;&c_ch;&c_i;&c_n;&c_ja;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="tr">doldurmak<klr>(dolma)</klr></trd>
+</drv>
+</art>
+<!--
+$Log: farcx.xml,v $
+Revision 1.18  2011/06/03 06:10:13  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.17  2011/05/18 08:10:12  revo
+Jeromo Vasxe: - num + mrk
+
+Revision 1.16  2009/08/27 16:31:33  revo
+Emmanuel Debanne: +trd tr
+
+Revision 1.15  2009/03/01 17:31:54  revo
+Russ Williams: +trd en
+
+Revision 1.14  2007/05/16 16:30:35  revo
+Tulio Flores: +tr pt
+
+Revision 1.13  2003/12/21 17:32:59  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.12  2003/09/23 16:31:22  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.11  2002/10/23 20:38:27  revo
+-->
+</vortaro>

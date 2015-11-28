@@ -1,0 +1,145 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: delfen.xml,v 1.29 2015/07/04 08:37:32 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>delfen</rad>/o
+</kap>
+<drv mrk="delfen.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="delfen.0o.KOMUNE">
+    <uzo tip="stl">KOMUNE</uzo>
+    <dif>
+      Iu el <ref tip="malprt" cel="cetac.0oj">cetacoj</ref>
+      havanta dentojn, dorsan na&gcirc;ilon kaj nur unu blovtruon
+      (<trd lng="la">Odontoceti</trd>):
+      <ekz>
+        same kiel balenoj kaj <tld/>oj ili estas mamuloj
+        <fnt>
+        <aut>W. M. A. De Smet</aut>,
+        <vrk>Gigantoj sur strandoj</vrk>,
+        <bib>Monato</bib>,
+        <lok>jaro 1998a, numero 11a, p. 22a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">Zahnwal</trd>
+  </snc>
+  <snc mrk="delfen.0o.ZOO">
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      <ref tip="lst" cel="cetac.0o" lst="voko:cetacoj">Cetaco</ref> 
+      kun beksimila bu&scirc;o;
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:zoologiaj_genroj">genro</ref>
+       el familio <ref tip="super"  cel="delfen1.0oj"><tld/>edoj</ref>
+      (<trd lng="la">Delphinus</trd>).
+    </dif>
+  </snc>
+  <trd lng="be">&c_d;&c_e;&c_l;&c_mol;&c_f;&c_ib;&c_n;</trd>
+  <trd lng="bg">&c_d;&c_je;&c_l;&c_f;&c_i;&c_n;</trd>
+  <trdgrp lng="cs">
+    <trd>delfín obecný</trd>,
+    <trd>plískavice obecná</trd>
+  </trdgrp>
+  <trd lng="de">Delphin</trd>
+  <trd lng="en">dolphin</trd>
+  <trd lng="es">delf&iacute;n</trd>
+  <trd lng="fr">dauphin<klr tip="ind"> (animal)</klr></trd>
+  <trd lng="hu">delfin</trd>
+  <trd lng="id">lumba-lumba</trd>
+  <trd lng="nl">dolfijn</trd>
+  <trd lng="pl">delfin</trd>
+  <trdgrp lng="pt">
+    <trd>golfinho</trd>,
+    <trd>delfim</trd>,
+    <trd>boto</trd>
+  </trdgrp>
+  <trd lng="ru">&c_d;&c_je;&c_l;&c_mol;&c_f;&c_i;&c_n;</trd>
+  <trd lng="sk">delf&iacute;n</trd>
+</drv>
+
+<drv mrk="delfen.D0o">
+  <kap><tld lit="D"/>o</kap>
+  <mlg>Del</mlg>
+  <snc mrk="delfen.D0o.AST">
+    <uzo tip="fak">AST</uzo>
+    <dif>
+      Nord-hemisfera <ref tip="lst"
+      cel="stel.0figuro" lst="voko:stelfiguroj">stelfiguro</ref> (<trd
+      lng="la">Delphinus</trd>).
+    </dif>
+  <trd lng="de">Delfin</trd>
+  <trd lng="en">Delphinus</trd>
+  <trd lng="es">Delf&iacute;n</trd>
+  <trd lng="fr">Dauphin<klr> (constellation)</klr></trd>
+  <trd lng="pl">Delfin</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>delfín obecný</trd>,
+    <trd>plískavice obecná</trd>
+  </trdgrp>
+  <trd lng="sk">delfín</trd>
+</drv>
+
+<drv mrk="delfen.river0o">
+  <kap>river<tld/>o</kap>
+  <snc mrk="delfen.river0o.ZOO">
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      Iu el familio de <ref tip="lst"
+      cel="delfen.0o.KOMUNE" lst="voko:cetacoj"><tld/>oj</ref>
+      (<trd lng="la">Iniidae</trd>), &gcirc;is 3&nbsp;m longa, kun malalta 
+      dorsna&gcirc;ilo, tre fleksebla kapo kaj pin&ccirc;iletoforma bu&scirc;o kun &gcirc;is 200
+      dentoj,
+      vivanta en tropikaj riveroj: 
+      <ekz>
+        min timigis la grandaj river-<tld/>oj, kiuj kelkfoje ekaperis
+        tre proksime al nia ne tre longa boato
+        <fnt><aut>W. Schad</aut>,
+        <vrk>Orinoko-delto: Indianoj, mar&ccirc;oj, arbarego</vrk>,
+        <bib>Monato</bib>,
+        <lok>jaro 2000a, numero 11a, p. 20a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="de">Flussdelfin</trd>
+    <trd lng="id"><ind>lumba-lumba</ind> sungai</trd>
+  </snc>
+ 
+</drv>
+</art>
+<!--
+$Log: delfen.xml,v $
+Revision 1.29  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.28  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.27  2014/10/28 11:10:40  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.26  2013/10/20 14:10:11  revo
+Wolfram Diestel: river~o: kor. difinon
+
+Revision 1.25  2013/10/20 13:10:11  revo
+Wolfram Diestel: +snc KOMUNE, ref al lst cetacoj
+
+Revision 1.24  2013/08/25 08:10:24  revo
+Wolfram Diestel: referenco al listo stelfiguroj
+
+Revision 1.23  2009/06/03 16:30:35  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.22  2008/01/07 17:30:15  revo
+Jeromo Vasxe: largxig. dif de river~o
+
+Revision 1.21 2007/07/19 16:31:31 revo
+Tulio Flores: +tr pt
+
+Revision 1.20 2006/01/29 17:32:10 revo
+-->
+</vortaro>

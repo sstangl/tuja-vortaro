@@ -1,0 +1,384 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: katen.xml,v 1.29 2015/08/21 07:10:19 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>katen</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+
+<drv mrk="katen.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="katen.0o.JUR">
+    <uzo tip="fak">JUR</uzo>
+    <dif>
+      Fortika <ref tip="super" cel="cxen.0o">&ccirc;eno</ref>, uzata por ligi
+      malliberulojn a&ubreve; bestojn kaj malhelpi ilin forkuri:
+      <ekz>
+        Jozef estis vendita kiel sklavo: oni enpremis liajn piedojn en
+        <tld/>ojn
+        <fnt><bib>MT</bib>, <lok>&Psa; 105:18</lok></fnt>;
+      </ekz>
+      <ekz>
+        venis al li Agag en <tld/>oj
+        <fnt><bib>MT</bib>, <lok>&Sa1; 15:32</lok></fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="en">
+      <trd>fetter</trd>,
+      <trd>chain</trd>,
+      <trd>shackle</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>bilincs</trd>,
+      <trd>b&eacute;kly&oacute;</trd>,
+      <trd>rabl&aacute;nc</trd>
+    </trdgrp>
+    <trdgrp lng="nl">
+      <trd>keten<klr tip="ind"> (boei)</klr></trd>,
+      <trd>boei</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="katen.0o.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      &Ccirc;io, kio malhelpas libere agadi, forkuri ktp:
+      <ekz>
+        vi povas flugi, kien vi volas, sed ni havas <tld/>ojn sur la
+        piedoj!
+        <klr>(ni ne rajtas forlasi nian laboron)</klr>
+        <fnt><bib>Fab1</bib>, <lok>Metamorfozo de la
+        skribisto</lok></fnt>;
+      </ekz>
+      <ekz>
+        <klr>[la virino]</klr>, kies manoj estas <tld/>oj
+        <fnt><bib>MT</bib>, <lok>&Pre; 7:26</lok></fnt>;
+      </ekz>
+      <ekz>
+        &ccirc;u ne devis &ccirc;i tiu virino <klr>...</klr>
+        esti malligita el &ccirc;i tiu kateno <klr>(kripleco)</klr> en la
+        sabata tago?
+        <fnt><bib>NT</bib>, <lok>&Luk; 13:16</lok></fnt>;
+      </ekz>
+      <ekz>
+        via spirito estas <tld/>ita de memfor&gcirc;itaj <tld/>oj
+        <fnt><bib>I&scirc;tar</bib>,<lok>&ccirc;apitro 1a</lok></fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="hu">
+      <trd>korl&aacute;toz</trd>,
+      <trd>g&aacute;tol</trd>
+    </trdgrp>
+    <trd lng="nl">keten<klr tip="ind"> (fig.)</klr></trd>
+  </snc>
+  <snc mrk="katen.0o.linio">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>MatTerm</bib>, <lok>p. 35</lok></fnt>
+    <dif>
+      Ebena <ref tip="super" cel="kurb.0o.MAT">kurbo</ref> la&ubreve; la
+      formo, kiun alprenas peza &scirc;nuro, kies du ekstremoj estas ligitaj
+      al fiksaj punktoj:
+      <ekz>
+        la kartezia ekvacio de <tld/>o estas de la tipo
+        <frm><k>y</k> =
+        <k>a</k>(<k>e</k><sup><k>x</k>/<k>a</k></sup>+<k>e</k><sup>-<k>x</k>/<k>a</k></sup>)/2</frm>.
+      </ekz>
+    </dif>
+    <bld lok="../bld/k_kateno.svg.gif" alt="300" lrg="300">
+      <tld/>o
+    </bld>
+    <trd lng="de">Kettenlinie</trd>
+    <trd lng="en">catenary<klr tip="ind"> (curve)</klr></trd>
+    <trd lng="fr">cha&icirc;nette<klr tip="ind"> (courbe)</klr></trd>
+    <trd lng="hu">l&aacute;ncg&ouml;rbe</trd>
+    <trd lng="nl">kettinglijn</trd>
+    <trd lng="pl">&lstroke;a&nacute;cuchowa<klr tip="ind"> (linia)</klr></trd>
+    <trd lng="ru">&c_c;&c_je;&c_p;&c_n;&c_a;&c_ja; <ind>&c_l;&c_i;&c_n;&c_i;&c_ja;</ind></trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>okovy</trd>,
+    <trd>pouta</trd>
+  </trdgrp>
+  <trd lng="de">Kette</trd>
+  <trdgrp lng="en">
+    <trd>restraint</trd>,
+    <trd>restriction</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>cha&icirc;nes</trd>,
+    <trd>fers</trd>,
+    <trd>entraves</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_o;&c_k;&c_o;&c_v;&c_y;</trd>,
+    <trd>&c_k;&c_a;&c_n;&c_d;&c_a;&c_l;&c_y;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>okovy</trd>,
+    <trd>put&aacute;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="katen.0i">
+  <kap><tld/>i, <var><kap>en<tld/>igi</kap></var></kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="katen.0i.JUR">
+    <dif>
+      Ligi per <tld/>o:
+      <ekz>
+        <tld/>i beston;
+      </ekz>
+      <ekz>
+        mi estis <tld/>ita, kiam mi staris en la akuzitejo
+        <fnt><bib>&Scirc;talrato</bib>, <lok>&ccirc;apitro 2a</lok></fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>anketten</trd>,
+      <trd>in <ind>Ketten</ind> legen</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>megbilincsel</trd>,
+      <trd>b&eacute;kly&oacute;ba ver</trd>,
+      <trd>l&aacute;ncraver</trd>
+    </trdgrp>
+    <trdgrp lng="nl">
+      <trd>ketenen</trd>,
+      <trd>boeien</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_z;&c_a;&c_k;&c_o;&c_v;&c_y;&c_v;&c_a;&c_t;&c_mol; &c_v; &c_k;&c_a;&c_n;&c_d;&c_a;&c_l;&c_y; <klr>(&c_o;
+      &c_ch;&c_je;&c_l;&c_o;&c_v;&c_je;&c_k;&c_je;)</klr></trd>,
+      <trd>&c_s;&c_a;&c_zh;&c_a;&c_t;&c_mol; &c_n;&c_a; &c_c;&c_je;&c_p;&c_mol; <klr>(&c_o;
+      &c_zh;&c_i;&c_v;&c_o;&c_t;&c_n;&c_o;&c_m;)</klr></trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="katen.0i.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Malhelpi ies liberan agadon:
+      <ekz>
+        kiu donacon prenas, tiu sin <tld/>as
+        <fnt><bib>PrV</bib></fnt>
+      </ekz>
+      <ekz>
+        ili sidis en mallumo, <tld/>itaj de mizero<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        kial do ni devas senbezone <tld/>i nin? <fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        kiu sian langon <tld/>as, Dio lin benas
+        <fnt><bib>PrV</bib></fnt>
+      </ekz>
+      <ekz>
+        en lingvaj demandoj &ccirc;iu superflua decido malutile
+        <tld/>as<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        dan&gcirc;ere en<tld/>igi la lingvon<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        li staris, kvaza&ubreve; <tld/>ite al la tero;
+      </ekz>
+      <ekz>
+        <tld/>is min tiu grandioza spektaklo <klr>(mi ne povis foriri
+        rezignante tiun spektaklon)</klr>.
+      </ekz>
+    </dif>
+    <trdgrp lng="hu">
+      <trd>korl&aacute;toz</trd>,
+      <trd>g&aacute;tol</trd>
+    </trdgrp>
+    <trd lng="nl">ketenen<klr tip="ind"> (fig.)</klr></trd>
+    <trdgrp lng="ru">
+      <trd>&c_s;&c_k;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>,
+      <trd>&c_s;&c_k;&c_o;&c_v;&c_y;&c_v;&c_a;&c_t;&c_mol;</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="cs">d&aacute;t spoutat</trd>
+  <trdgrp lng="en">
+    <trd>fetter</trd>,
+    <trd>shackle</trd>,
+    <trd>restrain</trd>,
+    <trd>handcuff</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>encha&icirc;ner</trd>,
+    <trd>entraver</trd>
+  </trdgrp>
+  <trd lng="sk">da&tcaron; sp&uacute;ta&tcaron;</trd>
+</drv>
+
+<drv mrk="katen.0igxi">
+  <kap><tld/>i&gcirc;i</kap>
+  <snc>
+    <dif>
+      I&gcirc;i <tld/>ita:
+      <ekz>
+        tro rapida edzi&gcirc;o, por&ccirc;iama <ind><tld/>i&gcirc;o</ind>
+        <fnt><bib>PrV</bib></fnt>.
+        <trd lng="fr">esclavage</trd>
+        <trd lng="nl">onderworpenheid</trd>
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">s'encha&icirc;ner</trd>
+  <trd lng="nl">in de <ind>boeien</ind> geslagen worden</trd>
+</drv>
+
+<drv mrk="katen.al0i">
+  <kap>al<tld/>i</kap>
+  <snc>
+    <dif>
+      Ligi al io per <tld/>o:
+      <ekz>
+        al<tld/>i hundon al pordo;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        vi estas al<tld/>ita, sed al pan-dona arbo! <klr>(al bona
+        ofico)</klr>
+        <fnt><bib>Fab1</bib>, <lok>Metamorfozo de la
+        skribisto</lok></fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        <klr>[la patrino]</klr> de multaj monatoj estis al<tld/>ita al
+        la
+        lito
+        <fnt><bib>Fab3</bib>, <lok>Juda knabino</lok></fnt>;
+      </ekz>
+      <ekz>
+        la venkitajn re&gcirc;ojn li al<tld/>igis per oraj &ccirc;enoj al sia
+        kale&scirc;o
+        <fnt><bib>Fab4</bib>, <lok>Malbona princo</lok></fnt>.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="forgx.al0i">alfor&gcirc;i.</ref>
+  </snc>
+  <trd lng="cs">p&rcaron;ipoutat</trd>
+  <trdgrp lng="de">
+    <trd>anketten</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>attacher (&agrave;)</trd>,
+    <trd>clouer (&agrave;)<klr tip="ind"> (immobiliser)</klr></trd>,
+    <trd>immobiliser</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>odal&aacute;ncol</trd>,
+    <trd>hozz&aacute;l&aacute;ncol</trd>
+  </trdgrp>
+  <trd lng="nl">vastketenen</trd>
+  <trd lng="ru">&c_p;&c_r;&c_i;&c_k;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="sk">prip&uacute;ta&tcaron;</trd>
+</drv>
+
+<drv mrk="katen.mal0i">
+  <kap>mal<tld/>i, <var><kap>sen<tld/>igi</kap></var></kap>
+  <snc>
+    <dif>
+      Forpreni la <tld/>ojn:
+      <ekz>
+        mal<tld/>i sklavon.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="de">befreien</trd>
+  <trdgrp lng="en">
+    <trd>unshackle</trd>,
+    <trd>free</trd>,
+    <trd>release</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>d&eacute;senchainer</trd>,
+    <trd>d&eacute;chainer</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>leveszi a bilincst</trd>,
+    <trd>megszabad&iacute;t l&aacute;ncait&oacute;l</trd>
+  </trdgrp>
+  <trd lng="nl">ontketenen <klr tip="ind">(van ketenen
+  bevrijden)</klr></trd>
+  <trd lng="ru">&c_r;&c_a;&c_s;&c_k;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="sk">uvo&lcaron;ni&tcaron; z&nbsp;p&uacute;t</trd>
+</drv>
+
+<drv mrk="katen.man0o">
+  <kap>man<tld/>o</kap>
+  <snc mrk="katen.man0o.JUR">
+  <uzo tip="fak">JUR</uzo>
+    <dif>
+      <tld lit="K"/>o kun du &scirc;loseblaj ringoj, per kiuj oni ligas
+      la manartikojn de arestito:
+      <ekz>
+        tiam ili formetis de mi la mankatenojn
+      <fnt>
+        <aut>Albert Camus, trad. Michel Duc Goninaz</aut>,
+        <vrk>La Fremdulo</vrk>,
+        <lok>S.A.T., 1993, p. 98</lok>
+      </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">pouta na ruce</trd>
+  <trd lng="de">Handfesseln</trd>
+  <trdgrp lng="en">
+    <trd>handcuff</trd>,
+    <trd>handcuffs</trd>,
+    <trd>manacle</trd>,
+    <trd>manacles</trd>
+  </trdgrp>
+  <trd lng="fr">menottes</trd>
+  <trd lng="hu">k&eacute;zbilincs</trd>
+  <trd lng="nl">handboei</trd>
+  <trd lng="ru">&c_n;&c_a;&c_r;&c_u;&c_ch;&c_n;&c_i;&c_k;&c_i;</trd>
+  <trd lng="sk">put&aacute; na ruky</trd>
+</drv>
+
+<drv mrk="katen.prem0i">
+  <kap>prem<tld/>i</kap>
+  <snc mrk="katen.prem0i.FIG">
+    <dif>
+      <tld lit="K"/>i <sncref ref="katen.0i.figure"/> per forta morala
+      premo:
+      <ekz>
+        Mustafa Kemal Pa&scirc;a persiste provas disrompi la religian
+        kirason,
+        kiu prem<tld/>as la popolon
+        <fnt><bib>Lanti</bib>, <lok>Leteroj el Turkio</lok></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="hu">b&eacute;kly&oacute;ban tart</trd>
+    <trd lng="ru">&c_s;&c_k;&c_o;&c_v;&c_y;&c_v;&c_a;&c_t;&c_mol;</trd>
+  </snc>
+</drv>
+</art>
+<!--
+$Log: katen.xml,v $
+Revision 1.29  2015/08/21 07:10:19  revo
+Damien Brucker: +trd fr
+
+Revision 1.28  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.27  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.26  2015/01/18 09:10:15  revo
+Alain Gerard: +fnt +trd (fr)
+
+Revision 1.25  2012/10/23 00:12:08  revo
+Neil Roberts: aldonu la etikedon <var>
+
+Revision 1.24  2010/01/18 17:31:32  revo
+Mireille Corobu: svg->gif
+
+Revision 1.23  2009/08/25 16:33:58  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.22  2009/03/01 17:34:58  revo
+-->
+</vortaro>

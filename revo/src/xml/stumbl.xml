@@ -1,0 +1,159 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: stumbl.xml,v 1.18 2015/07/04 08:37:44 revo Exp $">
+<kap>
+  <rad>stumbl</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="stumbl.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="stumbl.0i.faleti">
+    <refgrp tip="dif">
+      <ref cel="fal.0eti">faleti, duonfali</ref>.
+    </refgrp>
+    <trdgrp lng="be">
+      <trd>&c_s;&c_p;&c_a;&c_t;&c_y;&c_k;&c_a;&c_c;&c_c;&c_a;</trd>,
+      <trd>&c_s;&c_p;&c_a;&c_t;&c_y;&c_k;&c_n;&c_u;&c_c;&c_c;&c_a;</trd>
+    </trdgrp>
+    <trd lng="de">stolpern</trd>
+    <trdgrp lng="en">
+      <trd>stumble</trd>,
+      <trd>trip</trd>,
+      <trd>misstep</trd>,
+      <trd>miss one's step</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>broncher<klr tip="ind"> (tr&eacute;bucher)</klr></trd>,
+    </trdgrp>
+    <trd lng="hu">megbotlik</trd>
+    <trd lng="nl">struikelen</trd>
+    <trd lng="pl">potkn&aogonek;&cacute; si&eogonek;</trd>
+    <trdgrp lng="ru">
+      <trd>&c_s;&c_p;&c_o;&c_t;&c_y;&c_k;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>,
+      <trd>&c_s;&c_p;&c_o;&c_t;&c_k;&c_n;&c_u;&c_t;&c_mol;&c_s;&c_ja;</trd>,
+      <trd>&c_o;&c_s;&c_t;&c_u;&c_p;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>,
+      <trd>&c_z;&c_a;&c_p;&c_n;&c_u;&c_t;&c_mol;&c_s;&c_ja;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="stumbl.0i.figure">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Senkonscie fari malgrandajn erarojn:
+      <ekz>
+        <tld/>i pri la datoj
+      </ekz>,
+      <ekz>
+        mi &ccirc;iam <tld/>as &ccirc;e tiu silabo
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">tr&eacute;bucher</trd>
+</drv>
+
+<drv mrk="stumbl.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="stumbl.0o.KOMUNE">
+    <dif>
+      Ago <tld/>i:
+      <ekz>
+        Zorge evitu la <tld/>ojn pro la stato de via spino.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="pasx.mis0o">mispa&scirc;o</ref>
+    </refgrp>
+    <trd lng="hu">botl&aacute;s</trd>
+    <trd lng="pl">potkni&eogonek;cie</trd>
+    <trd lng="ru">&c_z;&c_a;&c_p;&c_i;&c_n;&c_k;&c_a;</trd>
+  </snc>
+  <snc mrk="stumbl.0o.licenco">
+    <uzo tip="fak">POE</uzo>
+    <fnt><bib>PIV1</bib></fnt>
+    <dif>
+      Metrika <ref tip="super" cel="licenc1.0o">licenco</ref>, pro kiu
+      oni
+      toleras anstata&ubreve;igon de tri <ref cel="jamb.0o">jamboj</ref>
+      per du <ref cel="anapes.0o">anapestoj</ref>, a&ubreve; de tri
+      <ref cel="troke.0o">trokeoj</ref> per du
+      <ref cel="amfibr.0o">amfibra&hcirc;oj</ref>:
+      <ekz>
+        <ctl>&iacute;ru, &eacute;ble h&eacute;jmon pli
+        t&aacute;&ubreve;gan
+        vi tr&oacute;vos</ctl><fnt>K</fnt>
+        <klr>(en <ref cel="troke.n0o">kvintrokeo</ref>)</klr>;
+      </ekz>
+      <ekz>
+        &ccirc;u ne &scirc;ajnus pli natura skandi <klr>[tiun
+        verson]</klr>
+        per <tld/>o?
+        <fnt><bib>PGl</bib>, <lok>p. 24</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">klopýtání</trd>
+  <trdgrp lng="fr">
+    <trd>faux-pas</trd>,
+    <trd>tr&eacute;buchement</trd>
+  </trdgrp>
+  <trd lng="sk">potkýnanie</trd>
+</drv>
+
+<drv mrk="stumbl.0ilo">
+  <kap><tld/>ilo</kap>
+  <snc mrk="stumbl.0ilo.KOMUNE">
+    <dif>
+      Ka&ubreve;zo de malsukceso por multaj;
+      <ref tip="sin" cel="fal.sxtonode0pusxigxo">&scirc;tono de
+      falpu&scirc;i&gcirc;o</ref>:
+      <ekz>
+        ortografio estas <tld/>ilo <klr>...</klr> en multegaj lingvoj
+        <fnt>
+          <aut>M. van Oostendorp, trad. H. Huppertz</aut>,
+          <vrk><url
+          ref="http://www.vanoostendorp.nl/interlinguistiek/neighbour/propri.htm">
+          La Projekto Neighbour</url></vrk>,
+          <lok>[vidita en 2013]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="fr">
+    <trd>&eacute;cueil<klr> (cause d'erreur)</klr></trd>,
+    <trd>pierre d'<ind>achoppement</ind></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: stumbl.xml,v $
+Revision 1.18  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:33:24  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.16  2013/10/09 20:10:30  revo
+Jeromo Vasxe: + ~ilo
+
+Revision 1.15  2010/06/17 16:31:08  revo
+Jeromo Vasxe: kor 1 ref
+
+Revision 1.14  2010/05/27 16:30:34  revo
+Sebastian Cyprych: +~i snc figure +trd pl
+
+Revision 1.13  2005/03/30 16:32:06  revo
+Yury Finkel: +trd ru
+
+Revision 1.12  2005/03/29 16:32:59  revo
+Marc Bavant: kor fnt PGl
+
+Revision 1.11  2004/11/04 17:32:28  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.10  2003/03/18 17:31:11  revo
+Zmicier Lapcionak: + trd be
+
+Revision 1.9  2002/10/23 20:40:33  revo
+-->
+</vortaro>

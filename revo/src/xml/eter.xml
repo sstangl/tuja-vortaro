@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: eter.xml,v 1.18 2015/07/04 08:37:33 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>eter</rad>/o
+</kap>
+<drv mrk="eter.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="eter.0o.FIZ">
+    <uzo tip="fak">FIZ</uzo>
+    <dif>
+      Senpeza elasta substanco, kiun oni supozis penetri &ccirc;iujn
+      korpojn kaj transsendi la diversajn formojn de energio:
+      <ekz>
+        la homo povas &ccirc;ion kompreni: kiel vibras la <tld/>o kaj
+        kio fari&gcirc;as sur la suno
+        <fnt><bib>PatrojFiloj</bib>
+        <lok>&ccirc;apitro 23a, p. 147a</lok></fnt>.
+      </ekz>
+    </dif>
+    <adm>
+      La difinoj estas reverkendaj. Mi nur sxangxis "supozas" al
+      "supozis"...
+      <aut>MB</aut>
+    </adm>
+  </snc>
+  <snc mrk="eter.0o.klaso">
+    <uzo tip="fak">KEM</uzo>
+    <dif>
+      Ano de la klaso de organikaj kombina&jcirc;oj konsistantaj el du
+      <ref cel="hidrok.0o">hidrokarbidaj</ref>
+      <ref cel="radika1.0o.KEM">radikaloj</ref>, interligitaj per
+      atomo de oksigeno: <frm>R-O-R</frm>
+      <ekz>
+        (<ind>simpla <tld/>o</ind>),
+        <trd lng="hu">egyszer&udblac; <ind>&eacute;ter</ind></trd>
+        <trd lng="ru">&c_p;&c_r;&c_o;&c_s;&c_t;&c_o;&c_j;
+        &c_e;&c_f;&c_i;&c_r;</trd>
+      </ekz>
+      a&ubreve; per atomgrupo <frm>-OCO-</frm>
+      <ekz>
+        (<ind>malsimpla <tld/>o</ind>).
+        <trd lng="hu">vegyes <ind>&eacute;ter</ind></trd>
+        <trd lng="ru">&c_s;&c_l;&c_o;&c_zh;&c_n;&c_y;&c_j;
+        &c_e;&c_f;&c_i;&c_r;</trd>
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="eter.0o.MED">
+    <uzo tip="fak">KEM</uzo>
+    <uzo tip="fak">MED</uzo>
+    <dif>
+      La plej vaste konata <tld/>o,<sncref ref="eter.0o.klaso"/>,
+      <frm>C<sub>2</sub>H<sub>5</sub>OC<sub>2</sub>H<sub>5</sub></frm>
+      (dietil<tld/>o), tre facile vapori&gcirc;anta flua&jcirc;o,
+      anestezilo.
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_e;&c_t;&c_e;&c_r;</trd>,
+    <trd>&c_e;&c_f;&c_ib;&c_r;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>nadzemský prostor</trd>,
+    <trd>éter</trd>
+  </trdgrp>
+  <trd lng="de">&Auml;ther</trd>
+  <trd lng="en">ether</trd>
+  <trd lng="fr">&eacute;ther</trd>
+  <trd lng="hu">&eacute;ter</trd>
+  <trd lng="pl">eter</trd>
+  <trd lng="pt">&eacute;ter</trd>
+  <trd lng="ru">&c_e;&c_f;&c_i;&c_r;</trd>
+  <trd lng="sk">éter</trd>
+  <trd lng="sv">eter</trd>
+</drv>
+</art>
+<!--
+$Log: eter.xml,v $
+Revision 1.18  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.16  2009/08/08 16:34:59  revo
+Russ Williams: +trd en
+
+Revision 1.15  2008/05/28 20:08:03  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.14  2007/07/09 16:30:50  revo
+Tulio Flores: +tr pt
+
+Revision 1.13  2004/11/05 17:32:07  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.12  2003/08/25 16:32:42  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.11  2003/01/20 17:31:12  revo
+Jeromo Vasxe: + ekz de snc 1
+
+Revision 1.10 2002/06/25 19:40:41 revo
+Ulrich Fellmann: + 1 trd de
+
+Revision 1.9 2002/01/22 17:32:04 revo
+-->
+</vortaro>

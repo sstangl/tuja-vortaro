@@ -1,0 +1,408 @@
+<?xml version="1.0"?>
+
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: bapt.xml,v 1.34 2015/10/02 02:10:18 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>bapt</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="bapt.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="bapt.0i.KRI">
+    <uzo tip="fak">KRI</uzo>
+    <dif>
+      Rite purigi iun en akvo, precipe en kristanismo kun la donado de
+      aparta nomo.
+    </dif>
+    <ref tip="super" cel="sakram.0o.kri">sakramento</ref>
+    <trd lng="hu">keresztel</trd>
+    <trdgrp lng="pl">
+      <trd>chrzci&cacute;</trd>,
+      <trd>ochrzci&cacute;</trd>
+    </trdgrp>
+    
+    <trdgrp lng="ru">
+      <trd>&c_k;&c_r;&c_je;&c_s;&c_t;&c_i;&c_t;&c_mol;</trd>,
+      <trd>&c_k;&c_r;&c_je;&c_shch;&c_a;&c_t;&c_mol;</trd>,
+      <trd>&c_o;&c_k;&c_r;&c_je;&c_s;&c_t;&c_i;&c_t;&c_mol;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="bapt.0i.KOMUNE">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Doni nomon al iu a&ubreve; io:
+      <ekz>
+        <tld/>i &scirc;ipon, sonorilegon.
+      </ekz>
+    </dif>
+    <ref tip="super" cel="inauxg.0i">ina&ubreve;guri</ref>
+    <trdgrp lng="hu">
+      <trd>felszentel <klr tip="ind">(nevet ad)</klr></trd>,
+      <trd>nevet ad</trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>chrzci&cacute;</trd>,
+      <trd>ochrzci&cacute;</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_d;&c_a;&c_t;&c_mol; &c_i;&c_m;&c_ja;</trd>,
+      <trd>&c_o;&c_s;&c_v;&c_ja;&c_t;&c_i;&c_t;&c_mol;</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="br">badezi&ntilde;</trd>
+  <trd lng="cs">k&rcaron;t&iacute;t</trd>
+  <trd lng="de">taufen</trd>
+  <trd lng="en">baptize</trd>
+  <trd lng="es">bautizar</trd>
+  <trdgrp lng="fr">
+    <trd>baptiser</trd>,
+    <trd>d&eacute;nommer <klr tip="ind">(donner un nom)</klr></trd>
+  </trdgrp>
+  <trd lng="nl">dopen</trd>
+  <trd lng="pt">batizar</trd>
+  <trd lng="sk">krsti&tcaron;</trd>
+  <trd lng="sv">d&ouml;pa</trd>
+</drv>
+
+<drv mrk="bapt.0o">
+  <kap><tld/>o</kap>
+  <snc>
+    <dif>
+      Religia a&ubreve; civila ceremonio per kiu oni <tld/>as.
+      <ekz>
+        venis Johano, kiu <klr>...</klr> predikis la <tld/>on de pento
+        por
+        la pardonado de pekoj
+        <fnt><bib>NT</bib>, <lok>&Mar; 1:4</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="br">
+    <trd>badez</trd>,
+    <trd>badeziant</trd>
+  </trdgrp>
+  <trd lng="cs">k&rcaron;est</trd>
+  <trd lng="de">Taufe</trd>
+  <trd lng="en">baptism</trd>
+  <trd lng="es">bautizo</trd>
+  <trd lng="fr">bapt&ecirc;me</trd>
+  <trdgrp lng="hu">
+    <trd>keresztel&odblac;</trd>,
+    <trd>keresztel&eacute;s</trd>
+  </trdgrp>
+  <trd lng="nl">doopsel</trd>
+  <trd lng="pl">chrzest</trd>
+  <trd lng="ru">&c_k;&c_r;&c_je;&c_shch;&c_je;&c_n;&c_i;&c_je;</trd>
+  <trd lng="sk">krst</trd>
+  <trd lng="sv">dop</trd>
+</drv>
+
+<drv mrk="bapt.0ano">
+  <kap><tld/>ano</kap>
+  <snc mrk="bapt.0ano.KRI">
+    <dif>
+      <ref cel="bapt.0opatro"><tld lit="B"/>opatro</ref>
+      rilate al la <tld/>opatrino a&ubreve; al la gepatroj de <tld/>ato:
+      <ekz>
+        jen kion li skribas:
+        &leftquot;kara amiko, <tld/>ano kaj bonfaranto!&rightquot;
+        <fnt><bib>Revizoro</bib>, <lok>akto 1a, sceno 1a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">kmotr</trd>
+  <trd lng="fr">comp&egrave;re<klr tip="amb"> (au
+  bapt&ecirc;me)</klr></trd>
+  <trd lng="pl">kum<klr> {m}</klr></trd>
+  <trd lng="ru">&c_k;&c_u;&c_m;</trd>
+  <trd lng="sk">kmotor</trd>
+</drv>
+
+<drv mrk="bapt.0anino">
+  <kap><tld/>anino</kap>
+  <snc mrk="bapt.0anino.KRI">
+    <dif>
+      <ref cel="bapt.0opatrino"><tld lit="B"/>opatrino</ref>
+      rilate al la <tld/>opatro a&ubreve; al la gepatroj de <tld/>ato:
+      <ekz>
+        denunci lin pro tio, ke li geedzigis vendiston Mikelon kun
+        lia <tld/>anino
+        <klr>(&ccirc;e la ortodoksaj kristanoj geedzi&gcirc;o inter
+        ge<tld/>anoj estas malpermesita)</klr>
+        <fnt><aut>N. Gogol, trad. V. Vy&ccirc;eg&jcirc;anin</aut>,
+        <vrk>Malvivaj animoj</vrk>, <lok>&ccirc;apitro 10</lok>.
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">kmotra</trd>
+  <trd lng="fr">comm&egrave;re<klr tip="amb"> (au
+  bapt&ecirc;me)</klr></trd>
+  <trd lng="pl">kuma<klr> {f}</klr></trd>
+  <trd lng="ru">&c_k;&c_u;&c_m;&c_a;</trd>
+  <trd lng="sk">kmotra</trd>
+</drv>
+
+<drv mrk="bapt.0ato">
+  <kap><tld/>ato</kap>
+  <snc mrk="bapt.0ato.KRI">
+    <dif>
+      Tiu, kiu ricevas la <tld/>on.
+    </dif>
+  </snc>
+  <trd lng="cs">k&rcaron;t&ecaron;nec</trd>
+  <trd lng="de">T&auml;ufling</trd>
+  <trd lng="fr">baptis&eacute;</trd>
+  <trd lng="hu">keresztelend&odblac;</trd>
+  <trd lng="nl">dopeling</trd>
+  <trd lng="ru">&c_k;&c_r;&c_je;&c_shch;&c_a;&c_je;&c_m;&c_y;&c_j;</trd>
+  <trd lng="sk">krstenec</trd>
+</drv>
+
+<drv mrk="bapt.0ingo">
+  <kap><tld/>ingo</kap>
+  <snc mrk="bapt.0ingo.KRI">
+    <uzo tip="fak">KRI</uzo>
+    <ref tip="dif" cel="kuv.bapto0o.KRI">baptokuvo</ref>
+    <ekz>
+      estis en la &ccirc;ambro neniu, krom la aku&scirc;istino kiu en
+      ver&scirc;is akvon en la <tld/>ingo
+      <fnt><bib>Voja&gcirc;Imp</bib>, <lok>du blinduloj</lok></fnt>.
+    </ekz>
+  </snc>
+  <trdgrp lng="br">
+    <trd>maen-badez</trd>,
+    <trd>maen-font</trd>
+  </trdgrp>
+  <trd lng="fr">fonts baptismaux</trd>
+  <trd lng="hu">keresztel&odblac;medence</trd>
+  <trdgrp lng="nl">
+    <trd>doopvont</trd>,
+    <trd>doopbekken</trd>,
+    <trd>vont</trd>
+  </trdgrp>
+  <trd lng="pt">pia batismal</trd>
+  <trd lng="ru">&c_k;&c_u;&c_p;&c_je;&c_l;&c_mol;</trd>
+</drv>
+
+<drv mrk="bapt.0ismo">
+  <kap><tld/>ismo</kap>
+  <snc mrk="bapt.0ismo.KRI">
+    <uzo tip="fak">KRI</uzo>
+    <dif>
+      Doktrino kaj praktiko de
+      <ref tip="vid"
+      cel="bapt.0isto.KRI_sekte"><tld/>istoj<sncref/></ref>;
+      anabaptisma bran&ccirc;o de
+      <ref tip="malprt" cel="protes1.0ismo.KRI">protestantismo</ref>
+      esti&gcirc;inta en la 17a jarcento,      
+      emfazanta la a&ubreve;toritaton de la Biblio, la individuan
+      fidon, la memstarecon de lokaj komunumoj:
+      <ekz>
+        <tld/>ismo estas la plej granda nekatolika kristana grupo en 
+        Usono, kaj havas milionojn da adeptoj alilande tra la mondo
+        <fnt><bib>Viki</bib>, <lok><url
+        ref="http://eo.wikipedia.org/wiki/Baptismo">
+        Baptismo</url>, 2010-07-16</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">baptizmus</trd>
+  <trd lng="fr">baptisme</trd>
+  <trd lng="sk">baptizmus</trd>
+</drv>
+
+<drv mrk="bapt.0ismano">
+  <kap><tld/>ismano</kap>
+  <snc mrk="bapt.0ismano.KRI">
+    <ref tip="dif" cel="bapt.0isto.KRI_sekte"><tld/>isto<sncref/></ref>
+      <ekz>
+        iuj &ccirc;ikanas pri la aserto, ke <tld/>ismanoj estas Protestantoj
+        <fnt>
+          <aut>L. B. Ross</aut>,
+          <vrk><url
+          ref="http://www.oocities.com/lilandr/baptismo/00baptismo.html">
+          Kio estas la baptismo?</url></vrk>,
+          <lok>[vidita en 2010]</lok>
+        </fnt>.
+      </ekz>
+  </snc>
+  <trd lng="fr">baptiste<klr> (subst.)</klr></trd>
+</drv>
+
+<drv mrk="bapt.0isto">
+  <kap><tld/>isto</kap>
+  <snc mrk="bapt.0isto.KRI_propre">
+    <uzo tip="fak">KRI</uzo>
+    <dif>
+      Religiulo, kiu praktikas <tld/>adon:
+      <ekz>
+        li diris: Johano, la <tld lit="B"/>isto, levi&gcirc;is el la 
+        mortintoj
+        <fnt><bib>NT</bib>, <lok>&Mar; 6:14</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="bapt.0isto.KRI_sekte">
+    <uzo tip="fak">KRI</uzo>
+    <dif>
+      Ano de <ref tip="vid" cel="bapt.0ismo.KRI"><tld/>ismo</ref>:
+      <ekz>
+        se ili estas sendiuloj, ili ne trafos paradizon, &mdash; diris la 
+        <tld/>isto firmvo&ccirc;e, &mdash; ili pereos    
+        <fnt>
+          <aut>I. Ilf, E. Petrov, trad. V. Okc</aut>,
+          <vrk><url ref="http://www.esperanto.mv.ru/Usono/truu28.html">
+          Unueta&gcirc;a Usono</url></vrk>,
+          <lok>2003</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">baptista</trd>
+  <trd lng="fr">baptiste<klr> (subst.)</klr></trd>
+  <trd lng="sk">krstite&lcaron;</trd>
+</drv>
+
+<drv mrk="bapt.B0isto">
+  <kap><tld lit="B"/>isto</kap>
+  <snc mrk="bapt.B0isto.NOM">
+    <uzo tip="fak">NOM</uzo>
+    <dif>
+      Vira anta&ubreve;nomo:
+      <ekz>
+        <tld lit="B"/>isto la Ru&gcirc;a, angla mestizo kaj renegato, baris
+        lian vojon    
+        <fnt>
+          <aut>J. London, trad. R. Rossetti</aut>,
+          <vrk><url
+          ref="http://donh.best.vwh.net/Esperanto/Literaturo/Revuoj/nlr/nlr14/dio.html">
+          Dio de liaj prapatroj</url></vrk>,
+          <lok>Nica Literatura Revuo, 1956-03 &gcirc;is 04 (1:4)</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">baptista</trd>
+  <trd lng="fr">Baptiste<klr> (pr&eacute;nom)</klr></trd>
+  <trd lng="sk">krstite&lcaron;</trd>
+</drv>
+
+<drv mrk="bapt.0ofilo">
+  <kap><ofc>*</ofc><tld/>ofilo</kap>
+  <snc mrk="bapt.0ofilo.KRI">
+    <dif>
+      La <tld/>ito rilate al la <tld/>opatro a&ubreve; <tld/>opatrino.
+    </dif>
+  </snc>
+  <trd lng="br">filhor</trd>
+  <trd lng="cs">kmot&rcaron;enec</trd>
+  <trd lng="de">Patenkind</trd>
+  <trd lng="en">godson</trd>
+  <trd lng="es">ahijado</trd>
+  <trd lng="fr">filleul</trd>
+  <trd lng="hu">keresztfi&udblac;</trd>
+  <trd lng="nl">petekind</trd>
+  <trdgrp lng="pl">
+    <trd>chrze&sacute;niak<klr> {m}</klr></trd>,
+    <trd>chrze&sacute;nica<klr> {f}</klr></trd>
+  </trdgrp>
+  <trd lng="ru">&c_k;&c_r;&c_je;&c_s;&c_t;&c_n;&c_i;&c_k;</trd>
+  <trd lng="sk">krstn&yacute; syn</trd>
+</drv>
+
+<drv mrk="bapt.0opatro">
+  <kap><ofc>*</ofc><tld/>opatro</kap>
+  <snc mrk="bapt.0opatro.KRI">
+    <dif>
+      Tiu viro, kiu prezentas infanon por <tld/>o,
+      donante al &gcirc;i &gcirc;ian anta&ubreve;nomon.
+    </dif>
+  </snc>
+  <trd lng="br">paeron</trd>
+  <trd lng="cs">kmotr</trd>
+  <trd lng="de">Taufpate</trd>
+  <trd lng="en">godfather</trd>
+  <trd lng="es">padrino</trd>
+  <trdgrp lng="fr">
+    <trd>parrain</trd>
+  </trdgrp>
+  <trd lng="hu">keresztapa</trd>
+  <trdgrp lng="nl">
+    <trd>peter</trd>,
+    <trd>peetvader</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>ojciec <ind>chrzestny</ind></trd>,
+    <trd>chrzestny<klr> (pot.)</klr></trd>
+  </trdgrp>
+  <trd lng="ru">&c_k;&c_r;&c_jo;&c_s;&c_t;&c_n;&c_y;&c_j;
+  &c_o;&c_t;&c_je;&c_c;</trd>
+  <trd lng="sk">krstn&yacute; otec</trd>
+</drv>
+
+<drv mrk="bapt.0opatrino">
+  <kap><tld/>opatrino</kap>
+  <snc mrk="bapt.0opatrino.KRI">
+    <dif>
+      Tiu virino, kiu prezentas infanon por <tld/>o,
+      donante al &gcirc;i &gcirc;ian anta&ubreve;nomon.
+    </dif>
+  </snc>
+  <trd lng="br">maeronez</trd>
+  <trd lng="cs">kmotra</trd>
+  <trd lng="de">Taufmutter</trd>
+  <trd lng="en">godmother</trd>
+  <trd lng="es">madrina</trd>
+  <trdgrp lng="fr">
+    <trd>marraine</trd>
+  </trdgrp>
+  <trd lng="hu">keresztanya</trd>
+  <trdgrp lng="nl">
+    <trd>meter</trd>,
+    <trd>peetmoeder</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>matka <ind>chrzestna</ind></trd>,
+    <trd>chrzestna<klr> (pot.)</klr></trd>
+  </trdgrp>
+  <trd lng="ru">&c_k;&c_r;&c_jo;&c_s;&c_t;&c_n;&c_a;&c_ja;
+  &c_m;&c_a;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>kmotra</trd>,
+    <trd>krstn&aacute; matka</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+
+$Log: bapt.xml,v $
+Revision 1.34  2015/10/02 02:10:18  revo
+Evandro Avellar: +trd pt
+
+Revision 1.33  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.32  2015/06/29 16:29:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.31  2014/06/05 01:10:16  revo
+Jeromo Vasxe: + 1 ref dif
+
+Revision 1.30  2010/11/11 17:30:40  revo
+Jeromo Vasxe: + ~ismo/isto
+
+Revision 1.29  2009/02/26 17:30:52  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.28  2007/06/13 16:31:12  revo
+Wieland Pusch: +trd de
+
+Revision 1.27  2007/05/22 16:31:31  revo
+-->
+
+</vortaro>

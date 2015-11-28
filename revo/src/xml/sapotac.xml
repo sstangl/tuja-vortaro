@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: sapotac.xml,v 1.2 2014/02/08 16:10:26 revo Exp $">
+<kap>
+    <rad>sapotac</rad>/oj
+</kap>
+<drv mrk="sapotac.0oj">
+  <kap><tld/>oj</kap>
+  <snc mrk="sapotac.0oj.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      <ref tip="lst" cel="famili.0o.BIO" 
+      lst="voko:botanikaj_familioj">Familio</ref>
+      de <ref tip="malprt" cel="flor.0oplantoj">floroplantoj</ref>
+      (<trd lng="la">Sapotaceae</trd>),
+      arboj kaj arbedoj enhavantaj laktecan sukon.
+    </dif>
+  </snc>
+  <trdgrp lng="de">
+    <trd>Sapotengew&auml;chse</trd>,
+    <trd>Breiapfelgew&auml;chse</trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log: sapotac.xml,v $
+Revision 1.2  2014/02/08 16:10:26  revo
+Damien Brucker: -eraro cxe ref
+
+Revision 1.1  2013/11/02 14:10:21  revo
+Wolfram Diestel: nova artikolo
+
+-->
+</vortaro>

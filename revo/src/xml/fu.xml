@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: fu.xml,v 1.9 2013/10/30 02:10:16 revo Exp $">
+<kap>
+  <rad>fu</rad> <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="fu.0">
+  <kap><tld/></kap>
+  <gra><vspec>ekkrio</vspec></gra>
+  <snc mrk="fu.0.SON">
+    <dif>
+      Brua <ref tip="super" cel="spir.el0i">elspiro</ref> 
+      pro facili&gcirc;o, malstre&ccirc;i&gcirc;o:
+      <ekz>
+        <tld/>! &ndash; &scirc;i diris, sidi&gcirc;ante kaj malfacile spirante, 
+        kiel mi laci&gcirc;is!
+        <fnt><aut>Ivan G. &Scirc;irjaev</aut>, <vrk>Sen 
+        titolo</vrk>, <lok>&ccirc;apitro 10a</lok></fnt>;
+      </ekz>
+      <ekz>
+        senpezigite, la viro elspiras: &leftquot;Haaaa, <tld/>!&rightquot;
+        <fnt>
+        <aut>R. Cash</aut>,
+        <vrk>Voja&gcirc;o en dezerton</vrk>,
+        <lok><url
+        ref="http://www.eventoj.hu/arkivo/eve-192.htm">Eventoj, 2000-09,
+         numero 192a</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="ca">uf!</trd>
+  <trd lng="fr">ouf !</trd>
+  <trd lng="pt">uf</trd>
+</drv>
+
+<drv mrk="fu.00">
+  <kap><tld/>&nbsp;<tld/></kap>
+  <gra><vspec>sonimito</vspec></gra>
+  <snc mrk="fu.00.SON">
+    <dif>
+      <ref tip="lst" cel="son.0o" lst="voko:sonoj">Sono</ref> 
+      de detenata <ref tip="super" cel="rid.0i">ridado</ref>:
+      <ekz>
+        maljunulino-oficiredzino entrafas, iafoje &ccirc;ambristino 
+        enmontri&gcirc;as tia... <tld/>, <tld/>, <tld/>!
+        <fnt><bib>Revizoro</bib>, <lok>akto 2a, sceno 1a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="ca">hi hi hi!</trd>
+  <trd lng="fr">hou hou<klr> (rire &eacute;touff&eacute;)</klr></trd>
+  <trd lng="pt">hi hi <klr tip="amb">(riso contido)</klr></trd>
+</drv>
+</art>
+
+<!--
+$Log: fu.xml,v $
+Revision 1.9  2013/10/30 02:10:16  revo
+Jeromo Vasxe: uzo de tld kun nerompebla spaco
+
+Revision 1.8  2013/10/15 20:10:22  revo
+Jeromo Vasxe: kor sonimito -> ekkrio
+
+Revision 1.7  2013/09/29 17:10:31  revo
+Wolfram Diestel: kor. lst-ref
+
+Revision 1.6  2013/09/25 18:10:26  revo
+Wolfram Diestel: ref al listo sonoj
+
+Revision 1.5  2012/08/10 14:10:45  revo
+Marc Rausell: + trd ca
+
+Revision 1.4  2008/08/23 16:30:56  revo
+Jeromo Vasxe: korektis gra
+
+Revision 1.3  2007/06/13 16:32:39  revo
+Tulio Flores: +tr pt
+
+Revision 1.2  2006/06/30 16:31:29  revo
+-->
+</vortaro>

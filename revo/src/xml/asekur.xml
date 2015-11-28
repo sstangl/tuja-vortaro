@@ -1,0 +1,261 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: asekur.xml,v 1.28 2015/07/04 08:37:30 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>asekur</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="asekur.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="asekur.0i.EKON">
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      Protekti per kontrakto kun kompanio, kiu en okazo de doma&gcirc;o a&ubreve;
+      perdo
+      pagu kompensan monon:
+      <ekz>
+        <tld/>i domon kontra&ubreve; incendio;
+      </ekz>
+      <ekz>
+        sin <tld/>i kontra&ubreve; akcidentoj, morto;
+      </ekz>
+      <ekz>
+        <tld/>i sian vivon.
+      </ekz>
+    </dif>
+    <trd lng="de">versichern</trd>
+    <trd lng="sk">poisti&tcaron;</trd>
+  </snc>
+  <snc mrk="asekur.0i.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Protekti, sekurigi kontra&ubreve; io:
+      <ekz>
+        lia sorto estas de nun <tld/>ita;
+      </ekz>
+      <ekz>
+        laboro <tld/>as kontra&ubreve; mizero.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="cert.0igi">certigi</ref>,
+      <ref cel="gard.0i">gardi</ref>,
+      <ref cel="dangxe">sendan&gcirc;erigi</ref>,
+      <ref cel="ten.sub0i">subteni</ref>,
+      <ref cel="sxirm.0i">&scirc;irmi</ref>
+    </refgrp>
+    <trd lng="de">sichern</trd>
+  </snc>
+  <trd lng="be">&c_s;&c_t;&c_r;&c_a;&c_h;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>pojistit <klr>(se)</klr> (proti něčemu</trd>,
+    <trd>před něčím)</trd>
+  </trdgrp>
+  <trd lng="en">insure</trd>
+  <trd lng="es">asegurar</trd>
+  <trd lng="fr">assurer</trd>
+  <trd lng="hu">biztos&iacute;t<klr tip="amb"> (vmi ellen)</klr></trd>
+  <trd lng="it">assicurare<klr> (econ. e fig.)</klr></trd>
+  <trd lng="nl">verzekeren</trd>
+  <trd lng="ru">&c_s;&c_t;&c_r;&c_a;&c_h;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="sv">f&ouml;rs&auml;kra</trd>
+</drv>
+
+<drv mrk="asekur.0ado">
+  <kap><tld/>ado</kap>
+  <snc mrk="asekur.0ado.EKON">
+  <uzo tip="fak">EKON</uzo>
+    <dif>
+      Ago <tld/>i.
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_t;&c_r;&c_a;&c_h;&c_a;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
+  <trdgrp lng="cs">
+    <trd>pojišťování</trd>,
+    <trd>zabezpečování</trd>
+  </trdgrp>
+  <trd lng="de">Versichern</trd>
+  <trd lng="fr">assurance</trd>
+  <trd lng="hu">biztos&iacute;t&aacute;s</trd>
+  <trd lng="it">assicurare<klr> (econ.)</klr></trd>
+  <trd lng="nl">verzekering</trd>
+  <trd lng="ru">&c_s;&c_t;&c_r;&c_a;&c_h;&c_o;&c_v;&c_a;&c_n;&c_i;&c_je;</trd>
+  <trd lng="sk">poisťovanie</trd>
+</drv>
+
+<drv mrk="asekur.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="asekur.0o.EKON">
+  <uzo tip="fak">EKON</uzo>
+    <dif>
+      Kontrakto por <tld/>i.
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_t;&c_r;&c_a;&c_h;&c_o;&c_w;&c_k;&c_a;</trd>
+  <trd lng="bg">&c_z;&c_a;&c_s;&c_t;&c_r;&c_a;&c_h;&c_o;&c_v;&c_a;&c_n;&c_je;</trd>
+  <trdgrp lng="cs">
+    <trd>asekurace</trd>,
+    <trd>poj. smlouva</trd>,
+    <trd>pojištění</trd>,
+    <trd>zabezpečení</trd>
+  </trdgrp>
+  <trd lng="de">Versicherung</trd>
+  <trd lng="en">insurance</trd>
+  <trd lng="es">seguro</trd>
+  <trd lng="fr">assurance</trd>
+  <trd lng="hu">biztos&iacute;t&aacute;s<klr tip="amb"> (szerz&odblac;d&eacute;s)</klr></trd>
+  <trd lng="it"><klr>(contratto d')</klr>assicurazione</trd>
+  <trd lng="nl">verzekering</trd>
+  <trd lng="ru">&c_s;&c_t;&c_r;&c_a;&c_h;&c_o;&c_v;&c_k;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>poistenie</trd>,
+    <trd>poistka</trd>
+  </trdgrp>
+  <trd lng="sv">f&ouml;rs&auml;kring</trd>
+</drv>
+
+<drv mrk="asekur.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="asekur.0a.EKON">
+  <uzo tip="fak">EKON</uzo>
+    <dif>
+      <ekz>
+        <ind><tld/>a kompanio</ind>
+        <trd lng="de">Versicherungsgesellschaft</trd>
+        , agento, kontrakto.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_t;&c_r;&c_a;&c_h;&c_a;&c_v;&c_y;</trd>
+  <trdgrp lng="cs">
+    <trd>asekurační</trd>,
+    <trd>pojistný</trd>,
+    <trd>pojišťovací</trd>
+  </trdgrp>
+  <trd lng="de">Versicherungs-</trd>
+  <trd lng="fr">d'<ind>assurance</ind></trd>
+  <trdgrp lng="hu">
+    <trd>biztos&iacute;t&oacute;-</trd>,
+    <trd>biztos&iacute;t&aacute;si</trd>
+  </trdgrp>
+  <trd lng="it">assicurativo</trd>
+  <trd lng="nl">verzeker-</trd>
+  <trd lng="ru">&c_s;&c_t;&c_r;&c_a;&c_h;&c_o;&c_v;&c_o;&c_j;</trd>
+  <trd lng="sk">poistn&yacute;</trd>
+</drv>
+
+<drv mrk="asekur.0atesto">
+  <kap><tld/>atesto</kap>
+  <fnt><bib>IKEV</bib></fnt>
+  <snc mrk="asekur.0atesto.EKON">
+  <uzo tip="fak">EKON</uzo>
+    <dif>
+      Atesto reprezentanta la originalan polison.
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_t;&c_r;&c_a;&c_h;&c_a;&c_v;&c_o;&c_je; &c_p;&c_a;&c_s;&c_mol;&c_v;&c_je;&c_d;&c_ch;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
+  <trd lng="cs">pojistný certifikát</trd>
+  <trd lng="de">Versicherungszertifikat</trd>
+  <trd lng="en">insurance certificate</trd>
+  <trd lng="hu">biztos&iacute;t&aacute;si bizonylat</trd>
+  <trd lng="it">contrassegno<klr> (dell'assicurazione)</klr></trd>
+  <trd lng="ru">&c_s;&c_t;&c_r;&c_a;&c_h;&c_o;&c_v;&c_o;&c_je; &c_s;&c_v;&c_i;&c_d;&c_je;&c_t;&c_je;&c_l;&c_mol;&c_s;&c_t;&c_v;&c_o;</trd>
+  <trd lng="sk">poistný certifikát</trd>
+</drv>
+
+<drv mrk="asekur.0libro">
+  <kap><tld/>libro</kap>
+  <fnt><bib>IKEV</bib></fnt>
+  <snc mrk="asekur.0libro.EKON">
+  <uzo tip="fak">EKON</uzo>
+    <dif>
+      La tuto de asekurkontraktoj.
+    </dif>
+  </snc>
+  <trd lng="cs">soupis pojistek</trd>
+  <trdgrp lng="de">
+    <trd>Policenbestand</trd>,
+    <trd>Versicherungsbestand</trd>
+  </trdgrp>
+  <trd lng="en">insurance book</trd>
+  <trdgrp lng="hu">
+    <trd>biztos&iacute;t&aacute;si &aacute;llom&aacute;ny</trd>,
+    <trd>k&ouml;tv&eacute;ny&aacute;llom&aacute;ny</trd>
+  </trdgrp>
+  <trd lng="it">registro assicurativo</trd>
+  <trd lng="ru">&c_s;&c_t;&c_r;&c_a;&c_h;&c_o;&c_v;&c_o;&c_j; &c_p;&c_o;&c_r;&c_t;&c_f;&c_je;&c_l;&c_mol;</trd>
+  <trd lng="sk">súpis poistiek</trd>
+</drv>
+
+<drv mrk="asekur.0isto">
+  <kap><tld/>isto</kap>
+  <snc mrk="asekur.0isto.EKON">
+  <uzo tip="fak">EKON</uzo>
+    <dif>
+      Tiu, kiu sin okupas pri <tld/>oj.
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_t;&c_r;&c_a;&c_h;&c_o;&c_w;&c_sh;&c_ch;&c_y;&c_k;</trd>
+  <trd lng="cs">pojišťovací agent</trd>
+  <trd lng="de">Versicherer</trd>
+  <trd lng="fr">assureur</trd>
+  <trd lng="hu">biztos&iacute;t&oacute;</trd>
+  <trd lng="it">assicuratore</trd>
+  <trd lng="nl">verzekeraar</trd>
+  <trd lng="ru">&c_s;&c_t;&c_r;&c_a;&c_h;&c_o;&c_v;&c_shch;&c_i;&c_k;</trd>
+  <trd lng="sk">poisťovací agent</trd>
+</drv>
+
+<drv mrk="asekur.0amakleristo">
+  <kap><tld/>a makleristo</kap>
+  <fnt><bib>IKEV</bib></fnt>
+  <snc mrk="asekur.0amakleristo.EKON">
+  <uzo tip="fak">EKON</uzo>
+    <dif>
+      Peranto kies servon oni uzas por farigi asekuran kontrakton en la
+      borso.
+    </dif>
+  </snc>
+  <trd lng="cs">pojišťovací makléř</trd>
+  <trd lng="de">Versicherungsmakler</trd>
+  <trd lng="en">insurance broker</trd>
+  <trd lng="hu">biztos&iacute;t&aacute;si br&oacute;ker</trd>
+  <trd lng="ru">&c_s;&c_t;&c_r;&c_a;&c_h;&c_o;&c_v;&c_o;&c_j; &c_a;&c_g;&c_je;&c_n;&c_t;</trd>
+  <trd lng="sk">poisťovací maklér</trd>
+</drv>
+</art>
+<!--
+$Log: asekur.xml,v $
+Revision 1.28  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.27  2015/06/28 12:03:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.26  2012/02/01 15:10:12  revo
+Antonio Codazzi: +trd it
+
+Revision 1.25  2010/09/18 16:30:20  revo
+Wieland Pusch: +trd bg+de
+
+Revision 1.24  2010/09/16 16:30:16  revo
+Jeromo Vasxe: - ~a agento -> agent.xml
+
+Revision 1.23  2005/08/30 16:31:32  revo
+Yury Finkel: +trd ru
+
+Revision 1.22  2004/10/16 16:31:59  revo
+Jeromo Vasxe: - ~a agento -> agent.xml
+
+Revision 1.21 2004/06/23 16:31:43 revo
+Dmitri Gabinski: +trd be
+
+Revision 1.20 2002/09/24 16:33:45 revo
+Jozefo Horvath: +trd hu
+
+Revision 1.19 2002/09/09 19:49:14 revo
+-->
+</vortaro>

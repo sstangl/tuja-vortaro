@@ -1,0 +1,134 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: gist.xml,v 1.25 2015/07/04 08:37:35 revo Exp $">
+<kap><rad>gist</rad>/o</kap>
+<drv mrk="gist.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="gist.0o.KUI">
+    <uzo tip="fak">KUI</uzo>
+    <dif>
+      Substanco entenanta <tld/>ofungojn, ofte en formo de pulvoro,
+      pasto a&ubreve; briketo, uzata por malkompaktigi paston en bakado
+      a&ubreve; por <ref cel="fermen.0i">fermentigi</ref> bieron a&ubreve; brandon:
+      <ekz>
+        la farunon &scirc;utu en pelvon, premu en la mezo kava&jcirc;on, tien metu
+        la
+        pecigitan <tld/>on
+        <fnt><lok><url
+        ref="http://www.uni-leipzig.de/esperanto/texte/bakado.html#4"
+        >Germana Potkuko</url></lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="gist.0o.BAK">
+    <uzo tip="fak">BAK</uzo>
+    <dif>
+      Ajna el diversaj unu&ccirc;elaj 
+      <ref tip="lst" cel="fung.0o.BIO"
+      lst="voko:fungoj">fungo</ref>specoj,
+       kiuj plejparte reprodukti&gcirc;as nesekse per bur&gcirc;onado a&ubreve; divido,
+       multaj el <ref cel="fung.sak0oj">sakfungoj</ref>:
+      <ekz>
+        nuntempe multaj sake-farejoj uzas sake-<tld/>ojn vendatajn
+        por sake-farado, sed ankora&ubreve; ekzistas malmultaj, kiuj
+        faras <ctl>Moto</ctl>n utiligante naturan <tld/>on ekzistantan
+        en
+        la aero
+        <fnt><lok><url
+        ref="http://www5b.biglobe.ne.jp/~izmibasi/esp/esphomel3.html#3"
+        >Sake-farejo, Izumibashi</url></lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_d;&c_r;&c_o;&c_zh;&c_d;&c_zh;&c_y;</trd>
+  <trd lng="bg">&c_m;&c_a;&c_ja;</trd>
+  <trdgrp lng="ca">
+    <trd>rent</trd>,
+    <trd>llevat</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>droždí</trd>,
+    <trd>kvasinky</trd>,
+    <trd>kvasnice</trd>
+  </trdgrp>
+  <trd lng="de">Hefe</trd>
+  <trd lng="en">yeast</trd>
+  <trd lng="es">levadura</trd>
+  <trd lng="fa">&a_m;&a_kh;&a_m;&a_shadda;&a_r;</trd>
+  <trd lng="fr">levure</trd>
+  <trd lng="hu">&eacute;leszt&odblac;</trd>
+  <trdgrp lng="id">
+    <trd>khamir</trd>,
+    <trd>ragi</trd>
+  </trdgrp>
+  <trd lng="nl">gist</trd>
+  <trd lng="pl">dro&zdot;d&zdot;e</trd>
+  <trd lng="pt">fermento</trd>
+  <trd lng="ru">&c_d;&c_r;&c_o;&c_zh;&c_zh;&c_i;</trd>
+  <trdgrp lng="sk">
+    <trd>droždie</trd>,
+    <trd>pivovarské kvasnice</trd>
+  </trdgrp>
+  <trd lng="sv">j&auml;st</trd>
+  <trd lng="tr">maya mantar&inodot;</trd>
+</drv>
+
+<drv mrk="gist.bier0o">
+  <kap>bier<tld/>o</kap>
+  <snc mrk="gist.bier0o.BAK">
+    <uzo tip="fak">BAK</uzo>
+    <dif>
+      <tld lit="G"/>o de la speco kiun oni trovas en bierfe&ccirc;o,
+      uzata en fermenta&jcirc;oj por pan- kaj bier-farado
+      (<trd lng="la">Saccharomyces cerevisiae</trd>).
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_ib;&c_w;&c_n;&c_y;&c_ja; &c_d;&c_r;&c_o;&c_zh;&c_d;&c_zh;&c_y;</trd>
+  <trd lng="ca"><ind>llevat</ind> de cervesa</trd>
+  <trd lng="cs">pivní kvasnice</trd>
+  <trd lng="de">Bierhefe</trd>
+  <trd lng="es">levadura de cerveza</trd>
+  <trd lng="fa">&a_m;&a_kh;&a_m;&a_shadda;&a_r; &a_A_madda;&a_b;&a_j;&a_w;</trd>
+  <trd lng="fr">levure de bi&egrave;re</trd>
+  <trd lng="hu">s&ouml;r&eacute;leszt&odblac;</trd>
+  <trd lng="nl">biergist</trd>
+  <trd lng="pl">dro&zdot;d&zdot;e piwne</trd>
+  <trd lng="pt">levedura de cerveja</trd>
+  <trd lng="ru">&c_p;&c_i;&c_v;&c_n;&c_y;&c_je; &c_d;&c_r;&c_o;&c_zh;&c_zh;&c_i;</trd>
+  <trd lng="sk">pivovarské kvasnice</trd>
+</drv>
+</art>
+<!--
+$Log: gist.xml,v $
+Revision 1.25  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.24  2015/06/29 16:29:39  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.23  2014/10/28 04:10:37  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.22  2014/09/16 09:10:32  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.21  2014/09/03 18:10:11  revo
+Carlos Garcia: +trd es -o bier-o
+
+Revision 1.20  2013/11/01 12:10:13  revo
+Wolfram Diestel: ref al fungoj, sakfungoj
+
+Revision 1.19  2012/08/18 20:10:35  revo
+Marc Rausell: + trd ca
+
+Revision 1.18  2009/08/27 16:31:41  revo
+Emmanuel Debanne: +trd tr
+
+Revision 1.17  2009/08/08 16:32:56  revo
+Jerano Zachrisson: +trd sv
+
+Revision 1.16  2009/07/03 16:31:17  revo
+-->
+</vortaro>

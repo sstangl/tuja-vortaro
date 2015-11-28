@@ -1,0 +1,173 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: korv.xml,v 1.32 2015/07/04 08:37:38 revo Exp $">
+<kap>
+<ofc>*</ofc>
+<rad>korv</rad>/o
+</kap>
+<drv mrk="korv.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="korv.0o.genro">
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:zoologiaj_genroj">Genro</ref> el familio 
+      <ref tip="malprt" cel="korved.0oj"><tld/>edoj</ref>
+      (<trd lng="la">Corvus</trd>) de grandaj pli malpli nigraj birdoj.
+    </dif>
+    <refgrp tip="sub">
+      <ref cel="frugil.0o">frugilego</ref>,
+      <ref cel="kornik.0o">korniko</ref>,
+      <ref cel="moned.0o">monedo</ref>
+    </refgrp>
+    <trd lng="bg">&c_g;&c_a;&c_r;&c_v;&c_a;&c_n;</trd>
+    <trdgrp lng="ca">
+      <trd>corb</trd>,
+      <trd>cornella</trd>,
+      <trd>gralla</trd>,
+      <trd>graula</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd>Rabe <klr>(la grandaj specioj)</klr></trd>,
+      <trd>Kr&auml;he <klr>(la pli malgrandaj specioj)</klr></trd>
+    </trdgrp>
+    <trd lng="en">crow</trd>
+    <trd lng="es">cuervo</trd>
+    <trd lng="fa">&f_k;&a_l;&a_A;&a_gh;</trd>
+    <trd lng="fr">corbeau</trd>
+    <trd lng="nl">raaf</trd>
+    <trd lng="hu">varj&uacute;</trd>
+    <trd lng="pl">kruk</trd>
+  </snc>
+  <snc mrk="korv.0o.specio">
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      La plej granda <ref cel="speci.0o.BIO" tip="lst"
+      lst="voko:zoologiaj_specioj">specio</ref> el
+      tiu 
+      <ref tip="super" cel="korv.0o">genro</ref>
+      (<trd lng="la">Corvus corax</trd>):
+      <ekz><ind><tld/>o al <tld/>o okulon ne pikas</ind>
+        <klr>(friponoj ne interbatalas)</klr>
+        <fnt><bib>PrV</bib></fnt>;
+        <trd lng="pl">kruk krukowi oka nie wykole</trd>
+      </ekz>
+      <ekz>
+        &scirc;iaj <ind><tld/>enigraj</ind> haroj
+        <fnt>Z</fnt>
+        <trd lng="pl">kruczoczarne</trd>.
+      </ekz>
+    </dif>
+    <bld lok="../bld/korv.jpg">
+      <tld/>o <klr>(Corvus corax)</klr>
+    </bld>
+    <trdgrp lng="be">
+      <trd>&c_g;&c_r;&c_u;&c_g;&c_a;&c_n;</trd>,
+      <trd>&c_k;&c_r;&c_u;&c_m;&c_k;&c_a;&c_ch;</trd>
+    </trdgrp>
+    <trd lng="bg">&c_g;&c_a;&c_r;&c_v;&c_a;&c_n;
+    &c_g;&c_r;&c_o;&c_b;&c_a;&c_r;</trd>
+    <trd lng="ca">corb</trd>
+    <trd lng="cs">krkavec velk&yacute;</trd>
+    <trd lng="de">Kolkrabe</trd>
+    <trd lng="en">raven</trd>
+    <trd lng="fa">&a_z;&a_A;&a_gh;</trd>
+    <trd lng="fr">grand corbeau</trd>
+    <trd lng="hu">holl&oacute;</trd>
+    <trd lng="id">gagak</trd>
+    <trd lng="nl">kraai</trd>
+    <trd lng="pl">kruk</trd>
+    <trd lng="pt">corvo</trd>
+    <trd lng="ru">&c_v;&c_o;&c_r;&c_o;&c_n;</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>havran</trd>,
+    <trd>krkavec</trd>
+  </trdgrp>
+  <trd lng="sk">krkavec</trd>
+</drv>
+
+<drv mrk="korv.K0o">
+  <kap><tld lit="K"/>o</kap>
+  <mlg>Crv</mlg>
+  <snc>
+    <uzo tip="fak">AST</uzo> 
+    <dif> Sud-hemisfera
+      <ref tip="lst" cel="stel.0figuro"
+      lst="voko:stelfiguroj">stelfiguro</ref> 
+      (<trd lng="la">Corvus</trd>).
+    </dif>
+  </snc>
+  <trd lng="ca">el <ind>Corb</ind></trd>
+  <trdgrp lng="cs">
+    <trd>havran</trd>,
+    <trd>krkavec</trd>
+  </trdgrp>
+  <trd lng="de">Rabe</trd>
+  <trd lng="en">Corvus</trd>
+  <trd lng="es">Cuervo</trd>
+  <trd lng="fa">&a_gh;&a_r;&a_A;&a_b;</trd>
+  <trd lng="nl">Raaf<klr tip="ind"> (sterrenbeeld)</klr></trd>
+  <trd lng="pl">Kruk</trd>
+  <trd lng="sk">krkavec</trd>
+</drv>
+
+<drv mrk="korv.0eto">
+  <kap><tld/>eto</kap>
+  <snc mrk="korv.0eto.ZOO">
+  <uzo tip="fak">ZOO</uzo>
+    <fnt><bib>Bird</bib></fnt>
+    <ref tip="dif" cel="moned.0o">monedo</ref>
+  </snc>
+  <trd lng="ca">gralla</trd>
+  <trdgrp lng="cs">
+    <trd>kavka</trd>,
+    <trd>kavka obecn&aacute;</trd>
+  </trdgrp>
+  <trd lng="de">Dohle</trd>
+  <trd lng="en">jackdaw</trd>
+  <trd lng="fa">&a_z;&a_A;&a_gh;&f_ch;&a_h;</trd>
+  <trdgrp lng="fr">
+    <trd>choucas</trd>
+  </trdgrp>
+  <trd lng="hu">cs&oacute;ka</trd>
+  <trd lng="nl">torenkraai</trd>
+  <trd lng="pl">kawka</trd>
+  <trd lng="ru">&c_g;&c_a;&c_l;&c_k;&c_a;</trd>
+  <trd lng="sk">ľahká vojenská plachetnica</trd>
+</drv>
+</art>
+<!--
+$Log: korv.xml,v $
+Revision 1.32  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.31  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.30  2014/06/13 20:10:23  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.29  2014/04/06 18:10:17  revo
+Wolfram Diestel: kor. sud-hemisfera stelfiguro
+
+Revision 1.28  2013/08/22 15:10:24  revo
+Wolfram Diestel: referencoj al listoj zoo specioj, genroj, stelfiguroj
+
+Revision 1.27  2013/06/28 19:10:09  revo
+Wolfram Diestel: kompletigis referencojn
+
+Revision 1.26  2012/08/04 12:10:14  revo
+Marc Rausell: + trd ca
+
+Revision 1.25  2010/04/14 16:30:20  revo
+Sebastian Cyprych: kor trd fa
+
+Revision 1.24  2010/04/09 16:32:13  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.23  2009/09/13 16:57:03  revo
+-->
+</vortaro>

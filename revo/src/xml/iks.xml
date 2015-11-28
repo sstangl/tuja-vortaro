@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: iks.xml,v 1.22 2015/07/04 08:37:36 revo Exp $">
+<kap>
+   <ofc>9</ofc><rad>iks</rad>/o
+</kap>
+<drv mrk="iks.0o">
+   <kap><tld/>o</kap>
+   <snc>
+   <uzo tip="fak">TIP</uzo>
+     <dif>
+       Neesperanta <ref tip="super" cel="liter.0o.propra">litero</ref>
+       <em>X, x</em>:
+       <ekz>
+         Cxu vi havas problemojn tajpi esperantajn tekstojn? Uzu
+         <tld/>ojn!
+         <fnt><lok>
+         <url ref="http://www.purl.org/NET/mihxil/iksoj.html">
+         Iksoj</url></lok></fnt>
+       </ekz>
+     </dif>
+     <rim>
+     X-sistemo (a&ubreve; x-kodo a&ubreve; <tld/>okodo) estas <ref tip="dif"
+     cel="suroga.0o">surogata</ref> skribosistemo
+     por Esperanto. En tiu sistemo oni prezentas la supersignajn
+     literojn per la jenaj kodoj: &ccirc;&#8594;cx <ekz>(cxemizo=&ccirc;emizo)</ekz>, &gcirc;&#8594;gx
+     <ekz>(gxi=&gcirc;i)</ekz>, &hcirc;&#8594;hx <ekz>(monahxejo=mona&hcirc;ejo)</ekz>, &jcirc;&#8594;jx
+     <ekz>(ajxo=a&jcirc;o)</ekz>, &scirc;&#8594;sx <ekz>(sxipo=&scirc;ipo)</ekz>, &ubreve;&#8594;ux
+     <ekz>(aux=a&ubreve;)</ekz><fnt><bib>Viki</bib></fnt>.
+     </rim>
+     <ref tip="vid" cel="h.0.konsonanto">h</ref>
+   <trd lng="be">&c_ib;&c_k;&c_s;</trd>
+   <trd lng="de">X</trd>
+   <trdgrp lng="en">
+     <trd>x</trd>,
+     <trd>ex</trd>
+   </trdgrp>
+   <trd lng="es">equis</trd>
+   <trdgrp lng="fi">
+      <trd>x</trd>,
+      <trd>&auml;ks&auml;</trd>
+   </trdgrp>
+   <trdgrp lng="fr">
+  <trd>x</trd>,
+  <trd>X<klr> (iks)</klr></trd>
+   </trdgrp>   
+   <trd lng="hu">iksz</trd>
+   <trdgrp lng="it">
+   <trd>ics</trd>, 
+   <trd>x</trd>
+   </trdgrp>
+   <trd lng="nl">x</trd>
+   <trd lng="pl">iks</trd>
+   <trd lng="pt">xis</trd>
+   <trd lng="ru">&c_i;&c_k;&c_s;</trd>
+   <trd lng="sv">x</trd>
+   </snc>
+   <snc>
+   <dif>
+   <ref tip="dif" cel="grafem.0o">Grafemo</ref> uzata i.a. kiel:
+   </dif>
+   <trd lng="fr">x<klr> (lettre)</klr></trd>
+   <subsnc>
+   <dif>
+   (maj.) signo de formo: <ekz>X-se&gcirc;o</ekz>;
+   </dif>
+   <trd lng="fr">X<klr> (forme de)</klr></trd>
+   </subsnc>
+   <subsnc>
+   <uzo tip="fak">MAT</uzo>
+   <dif>
+   (maj.) romana cifero: <ekz>X (10)</ekz>;
+   </dif>
+   <trd lng="fr">10<klr> (chiffre romain)</klr></trd>
+   </subsnc>
+   <subsnc>
+   <uzo tip="fak">MAT</uzo>
+   <dif>
+   (min.) simbolo algebra de la unua nekonata kvanto: <ekz>x</ekz>;
+   </dif>
+   <trd lng="fr">x<klr> (axe des abcisses)</klr></trd>
+   </subsnc>  
+   </snc>
+  <trd lng="cs">název písmene x <klr>(iks)</klr> || římská číslice || symbol neznámé</trd>
+  <trd lng="sk">názov písmena x</trd>
+</drv>
+</art>
+<!--
+$Log: iks.xml,v $
+Revision 1.22  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.21  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.20  2014/01/22 17:10:15  revo
+Damien Brucker: + trd fr
+
+Revision 1.19  2013/12/30 20:10:14  revo
+Damien Brucker: aldono
+
+Revision 1.18  2013/12/28 18:10:12  revo
+Damien Brucker: +ref
+
+Revision 1.17  2013/12/25 18:10:10  revo
+Damien Brucker: +rim
+
+Revision 1.16  2013/10/08 15:10:10  revo
+Damien Brucker: +tipo
+
+Revision 1.15  2013/10/08 09:10:14  revo
+Damien Brucker: klarigo de la fr trd
+
+Revision 1.14  2009/04/01 16:30:27  revo
+Antonio Codazzi: +trd it
+
+Revision 1.13  2009/03/25 17:30:41  revo
+-->
+</vortaro>

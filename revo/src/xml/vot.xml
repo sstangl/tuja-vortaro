@@ -1,0 +1,141 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: vot.xml,v 1.16 2015/07/04 08:37:46 revo Exp $">
+<kap>
+  <rad>vot</rad>/o
+</kap>
+<drv mrk="vot.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">REL</uzo>
+  <snc>
+    <dif>
+      Sankta <ref tip="super" cel="promes.0o">promeso</ref> plenumi ion
+      a&ubreve;
+      sin deteni de io.
+    </dif>
+    <trd lng="de">Gel&ouml;bnis</trd>
+    <trd lng="fr">v&oelig;u<klr> (rel.)</klr></trd>
+  </snc>
+  <snc>
+    <dif>
+      Promeso de nova <ref tip="vid" cel="klerik.0o">kleriko</ref> sin
+      dedi&ccirc;i al dia servo.
+    </dif>
+    <trd lng="fr">v&oelig;ux<klr> (rel.)</klr></trd>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_b;&c_ja;&c_c;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>,
+    <trd>&c_z;&c_a;&c_r;&c_o;&c_k;</trd>
+  </trdgrp>
+  <trdgrp lng="ca">
+    <trd>vot</trd>,
+    <trd>promesa</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>vótum</trd>,
+    <trd>zaslíbení</trd>,
+    <trd>záslib</trd>
+  </trdgrp>
+  <trd lng="de">Gel&uuml;bde</trd>
+  <trd lng="el">&epsilon;&ypsilon;&chi;&eta_ton;</trd>
+  <trd lng="en">vow</trd>
+  <trd lng="es">voto</trd>
+  <trd lng="hu">fogadalom</trd>
+  <trd lng="nl">gelofte</trd>
+  <trd lng="pt">voto</trd>
+  <trdgrp lng="ru">
+    <trd>&c_o;&c_b;&c_je;&c_t;</trd>,
+    <trd>&c_z;&c_a;&c_r;&c_o;&c_k;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>sľub</trd>,
+    <trd>zaľúbenie</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="vot.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      Sankte promesi iun agadon, sindedi&ccirc;on a&ubreve; sindetenon.
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="dedicx.0i.destini">dedi&ccirc;i <sncref/></ref>
+      <ref cel="ofer.0i.REL">oferi <sncref/></ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_d;&c_a;&c_c;&c_mol;
+    <ind>&c_a;&c_b;&c_ja;&c_c;&c_a;&c_n;&c_mol;&c_n;&c_je;</ind></trd>,
+    <trd>&c_z;&c_a;&c_r;&c_a;&c_ch;&c_y;&c_s;&c_ja;</trd>
+  </trdgrp>
+  <trd lng="ca">votar <klr>(rel.)</klr></trd>
+  <trd lng="cs">zaslíbit se</trd>
+  <trd lng="de">geloben</trd>
+  <trd lng="el">&epsilon;&ypsilon_ton;&chi;&omikron;&my;&alfa;&jota;</trd>
+  <trd lng="en">vow</trd>
+  <trdgrp lng="es">
+    <trd>hacer un <ind>voto</ind> o votos</trd>,
+    <trd>prometer</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>faire <ind>v&oelig;u</ind></trd>,
+    <trd>prononcer ses <ind>v&oelig;ux</ind></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>fogadkozik</trd>,
+    <trd>fogadalmat tesz</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>een <ind>gelofte</ind> afleggen</trd>,
+    <trd>plechtig <ind>beloven</ind></trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>votar</trd>,
+    <trd>fazer votos</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_d;&c_a;&c_t;&c_mol; <ind>&c_o;&c_b;&c_je;&c_t;</ind></trd>,
+    <trd>&c_z;&c_a;&c_r;&c_je;&c_ch;&c_mol;&c_s;&c_ja;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>sľubom sa zaviazať</trd>,
+    <trd>zložiť sľub</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: vot.xml,v $
+Revision 1.16  2015/07/04 08:37:46  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/28 12:03:50  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.14  2011/12/06 11:10:19  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.13  2011/04/19 18:10:11  revo
+Nicolas Bros: trd fr
+
+Revision 1.12  2005/02/04 17:31:30  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.11  2003/08/02 10:29:04  revo
+Jeromo Vasxe: + fak rel, + tez, + trd fr
+
+Revision 1.10 2002/10/22 16:32:56 revo
+Christopher Zervic: + ang
+
+Revision 1.9 2002/07/27 19:03:36 revo
+Eduardo M. Kalinowski: ald trd el, pt
+
+Revision 1.8 2002/07/23 17:31:29 revo
+Zmicier Lapcionak: + trd be
+
+Revision 1.7 2002/03/19 17:34:44 revo
+-->
+</vortaro>

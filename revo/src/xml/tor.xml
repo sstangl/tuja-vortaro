@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: tor.xml,v 1.20 2015/07/04 08:37:45 revo Exp $">
+<kap>
+  <rad>tor</rad>/o
+</kap>
+<drv mrk="tor.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="tor.0o.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>PV</bib></fnt>
+    <dif>
+      <ref tip="super" cel="surfac.0o.MAT">Surfaco</ref>, naskita de
+      <ref cel="cirkl.0o.linio">cirklo</ref> rotacianta &ccirc;irka&ubreve;
+      rekto, kiu situas en la ebeno de la cirklo, sed &gcirc;in ne sekcas;
+      <ref tip="super" cel="solid.0o.geometrio">solido</ref>, kiun limas
+      tia surfaco:
+      <ekz>
+        <tld/>o estas <ref cel="homeom.0a">homeomorfia</ref> al la
+        <ref cel="produt.kartezia0o">kartezia produto</ref> de du cirkloj;
+      </ekz>
+      <ekz>
+        pli &gcirc;enerale, <frm><k>n</k></frm>-dimensian <tld/>on oni nomas
+        la kartezian produton de <frm><k>n</k></frm> cirkloj.
+      </ekz>
+    </dif>
+    <rim>
+      Bricard
+      <fnt><bib>MatTerm</bib>, <lok>p. 30</lok></fnt> &ccirc;i-sence uzas
+      formon <ctl>toruso</ctl>, trovi&gcirc;anta anka&ubreve; en
+      <fnt><bib>MatStokTerm</bib>, <lok>p. 53</lok></fnt>.
+    </rim>
+    <trd lng="be">&c_t;&c_o;&c_r;</trd>
+    <trdgrp lng="de">
+      <trd>Torus</trd>,
+      <trd>Ringfl&auml;che</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>torus</trd>,
+      <trd>toroid</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>t&oacute;rusz</trd>,
+      <trd>gy&udblac;r&udblac;fel&uuml;let</trd>
+    </trdgrp>
+    <trd lng="pl">torus</trd>
+    <trd lng="pt">toro</trd>
+    <trd lng="ru">&c_t;&c_o;&c_r;</trd>
+  </snc>
+  <snc mrk="tor.0o.ARKI">
+    <uzo tip="fak">ARKI</uzo>
+    <dif>
+      <ref tip="super" cel="modlur.0o.ARKI">Modluro</ref>, ronda elstara&jcirc;o
+      &ccirc;irka&ubreve; kolono.
+    </dif>
+    <trd lng="en">torus</trd>
+    <trd lng="hu">p&aacute;rnatag<klr tip="amb"> (oszlopon)</klr></trd>
+    <trd lng="nl">voetring<klr tip="ind"> (v.e.zuil)</klr></trd>
+    <trd lng="pt">toro</trd>
+    <trdgrp lng="ru">
+      <trd>&c_t;&c_o;&c_r;&c_u;&c_s;</trd>,
+      <trd>&c_p;&c_o;&c_l;&c_u;&c_k;&c_r;&c_u;&c_g;&c_l;&c_y;&c_j; &c_f;&c_r;&c_i;&c_z;</trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>anuloid</trd>,
+    <trd>kruhový prstenec</trd>,
+    <trd>torus</trd>
+  </trdgrp>
+  <trd lng="fr">tore</trd>
+  <trdgrp lng="sk">
+    <trd>kruhový prstenec</trd>,
+    <trd>torus</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: tor.xml,v $
+Revision 1.20  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:40:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2006/02/16 17:32:26  revo
+Tulio Flores: +trd pt
+
+Revision 1.17  2005/08/14 16:31:47  revo
+Jeromo Vasxe: + tez snc arki
+
+Revision 1.16 2003/09/25 16:32:01 revo
+Dmitri Gabinski: +trd be
+
+Revision 1.15 2003/01/02 17:51:52 revo
+Marc Bavant: kor trd pl
+
+Revision 1.14 2002/11/30 17:38:52 revo
+Marc Bavant: +frm, +trd pl
+Revision 1.13 2002/07/12 17:34:25 revo
+Jozefo Horvath: +trd hu
+Revision 1.12 2002/05/12 16:39:08 revo
+Marc Bavant: mod rim
+Revision 1.11 2002/04/02 17:58:13 revo
+Marc Bavant: ~o: kor fnt
+Revision 1.10 2002/03/17 17:31:33 revo
+Marc Bavant: +fnt, +rim
+-->
+</vortaro>
+

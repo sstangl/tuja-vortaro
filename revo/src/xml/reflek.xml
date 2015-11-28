@@ -1,0 +1,140 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: reflek.xml,v 1.18 2015/07/04 08:37:42 revo Exp $">
+<kap>
+  <ofc>8</ofc>
+  <rad>reflekt</rad>/i
+  <fnt>Z</fnt>
+</kap>
+<drv mrk="reflek.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <uzo tip="fak">FIZ</uzo>
+  <snc>
+    <dif>
+      Re&jcirc;eti, rebrili, resendi, reradii sonojn, lumon, varmon ks:
+      <ekz>
+        polurita, netrairebla surfaco, kiel ekz. de spegulo, <tld/>as la
+        radiojn de la lumo.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="refrak.0i">refrakti</ref>.
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_d;&c_l;&c_ju;&c_s;&c_t;&c_r;&c_o;&c_w;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_a;&c_d;&c_b;&c_ib;&c_v;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="ca">reflectir</trd>
+  <trdgrp lng="cs">
+    <trd>odrazit</trd>,
+    <trd>odrážet</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>reflektieren</trd>,
+    <trd>zur&uuml;ckwerfen</trd>
+  </trdgrp>
+  <trd lng="en">reflect</trd>
+  <trd lng="es">reflejar</trd>
+  <trdgrp lng="fa">
+    <trd>&a_b;&a_A;&a_z;&a_t;&a_A;&a_b;&a_A;&a_n;&a_d;&a_n;</trd>,
+    <trd>&a_m;&a_n;&a_ayn;&f_k;&a_s; &f_k;&a_r;&a_d;&a_n;</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>r&eacute;fl&eacute;chir<klr tip="ind"> (lumi&egrave;re etc.)</klr></trd>,
+    <trd>renvoyer<klr tip="ind"> (lumi&egrave;re etc.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>visszaver</trd>,
+    <trd>visszat&uuml;kr&ouml;z</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>weerkaatsen</trd>,
+    <trd>reflecteren</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_o;&c_t;&c_r;&c_a;&c_z;&c_i;&c_t;&c_mol;</trd>,
+    <trd>&c_o;&c_t;&c_r;&c_a;&c_zh;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>odraziť</trd>,
+    <trd>odrážať</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="reflek.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="reflek.0o.FIZ">
+    <uzo tip="fak">FIZ</uzo>
+    <dif>
+      La fenomeno, per kiu sono, lumo, varmo ks estas <tld/>ata.
+    </dif>
+    <trd lng="ca">reflex</trd>
+    <trd lng="de">Reflexion</trd>
+    <trd lng="en">reflection</trd>
+    <trdgrp lng="fa">
+      <trd>&a_b;&a_A;&a_z;&a_t;&a_A;&a_b;</trd>,
+      <trd>&a_A;&a_n;&a_ayn;&f_k;&a_A;&a_s;</trd>
+    </trdgrp>
+    <trd lng="fr">r&eacute;flexion<klr tip="ind"> (phys.)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>visszaver&odblac;d&eacute;s</trd>,
+    <trd>visszat&uuml;kr&ouml;z&eacute;s</trd>,
+    <trd>reflexi&oacute;</trd>
+  </trdgrp>
+  <trd lng="es">reflexi&oacute;n</trd>
+  </snc>
+  <snc mrk="reflek.0o.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>PIV2</bib></fnt>
+    <ref tip="dif" cel="simetr.0o.orta">simetrio.</ref>
+    <trd lng="hu">visszat&uuml;kr&ouml;z&eacute;s</trd>    
+  </snc>
+  <trdgrp lng="cs">
+    <trd>odraz <klr>(světla)</klr></trd>,
+    <trd>reflex</trd>,
+    <trd>zrcadlení</trd>
+  </trdgrp>
+  <trd lng="ru">&c_o;&c_t;&c_r;&c_a;&c_zh;&c_je;&c_n;&c_i;&c_je;</trd>
+  <trdgrp lng="sk">
+    <trd>odraz <klr>(svetla)</klr></trd>,
+    <trd>reflex</trd>,
+    <trd>zrkadlenie</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: reflek.xml,v $
+Revision 1.18  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.16  2009/08/18 19:18:33  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.15  2006/01/12 21:52:40  revo
+Raul Salinas Monteagudo: +trd ca,es,de
+
+Revision 1.14  2004/09/02 16:32:23  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.13  2003/09/08 16:32:29  revo
+Yury Finkel: +trd ru
+
+Revision 1.12 2003/08/07 16:30:29 revo
+Dmitri Gabinski: +trd be
+
+Revision 1.11 2002/09/18 16:34:00 revo
+Christopher Zervic: trd ang
+
+Revision 1.10 2002/08/11 17:32:37 revo
+Marc Bavant: +trd fr; ~i: mod dif; +drv ~o
+
+Revision 1.9 2002/01/11 17:34:29 revo
+-->
+</vortaro>

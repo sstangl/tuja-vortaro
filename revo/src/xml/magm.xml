@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: magm.xml,v 1.24 2015/07/04 08:37:39 revo Exp $">
+<kap>
+  <rad>magm</rad>/o
+</kap>
+<drv mrk="magm.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="magm.0o.GEOL">
+    <uzo tip="fak">GEOL</uzo>
+    <dif>
+      Roko en fluida formo en la interno de la tero:
+      <ekz>
+        la baza <tld/>o konsistas &gcirc;is kvindek procentoj el silika acido
+        kaj fandi&gcirc;as je 1000 Celsius-gradoj<fnt><aut>Evgeni
+        Georgiev</aut>:
+        <vrk>Vulkanoj</vrk>, <bib>Monato</bib><lok>jaro 2001a, numero
+        2a,
+        p. 22a</lok></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_m;&c_a;&c_g;&c_m;&c_a;</trd>
+    <trd lng="bg">&c_m;&c_a;&c_g;&c_m;&c_a;</trd>
+    <trd lng="ca">magma</trd>
+    <trd lng="de">Magma</trd>
+    <trd lng="en">magma</trd>
+    <trd lng="es">magma</trd>
+    <trd lng="fa">&a_m;&a_A;&f_g;&a_m;&a_A;</trd>
+    <trd lng="fr">magma<klr tip="ind"> (g&eacute;ol.)</klr></trd>
+    <trd lng="hu">magma</trd>
+    <trd lng="pt">magma</trd>
+    <trd lng="ru">&c_m;&c_a;&c_g;&c_m;&c_a;</trd>
+  </snc>
+  <snc mrk="magm.0o.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <ref tip="dif" cel="grupoi.0o">grupoido.</ref>
+  </snc>
+  <trd lng="cs">magma</trd>
+  <trd lng="nl">magma</trd>
+  <trd lng="sk">magma</trd>
+</drv>
+</art>
+<!--
+$Log: magm.xml,v $
+Revision 1.24  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.23  2015/06/29 16:33:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.22  2009/06/19 05:09:52  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.21  2009/01/03 17:31:12  revo
+Wieland Pusch: +trd bg
+
+Revision 1.20  2006/07/15 17:04:19  revo
+Tulio Flores: +tr pt
+
+Revision 1.19  2005/04/12 16:33:41  revo
+Raul Salinas Monteagudo: +trd ca,es
+
+Revision 1.18  2003/05/15 16:31:21  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.17  2003/04/07 16:36:03  revo
+Marc Bavant: ~o: reverkis snc MAT
+
+Revision 1.16  2003/03/23 17:33:28  revo
+Marc Bavant: ~o MAT: mod dif, +trd pl, mod rim, -adm
+Revision 1.15  2002/09/07 17:42:54  revo
+Jeromo Vasxe: + ekz
+-->
+</vortaro>

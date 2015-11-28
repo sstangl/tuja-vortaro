@@ -1,0 +1,117 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: abriko.xml,v 1.40 2015/07/04 08:37:29 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>abrikot</rad>/o
+</kap>
+<drv mrk="abriko.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc>
+    <dif>
+      Flavoran&gcirc;a frukto de <ref tip="malprt"
+      cel="abriko.0ujo0arbo"><tld/>ujo</ref>,
+      <ref tip="super" cel="drup.0o">drupo</ref>.
+    </dif>
+  </snc>
+  <trd lng="be">&c_a;&c_b;&c_r;&c_y;&c_k;&c_o;&c_s;</trd>
+  <trd lng="bg">&c_k;&c_a;&c_j;&c_s;&c_i;&c_ja;</trd>
+  <trd lng="br">abrikezenn</trd>
+  <trdgrp lng="cs">
+    <trd>marhule (nářeč.)</trd>,
+    <trd>meruňka <klr>(plod)</klr></trd>
+  </trdgrp>
+  <trd lng="de">Aprikose</trd>
+  <trd lng="en">apricot</trd>
+  <trd lng="es">albaricoque</trd>
+  <trd lng="fa">&a_z;&a_r;&a_d;&a_A_madda;&a_l;&a_w;</trd>
+  <trd lng="fr">abricot</trd>
+  <trdgrp lng="hu">
+    <trd>s&aacute;rgabarack</trd>,
+    <trd>kajszibarack</trd>
+  </trdgrp>
+  <trd lng="it">albicocca</trd>
+  <trd lng="nl">abrikoos</trd>
+  <trd lng="pl">morela</trd>
+  <trdgrp lng="pt">
+    <trd>abric&oacute;</trd>,
+    <trd>abricote</trd>
+  </trdgrp>
+  <trd lng="ru">&c_a;&c_b;&c_r;&c_i;&c_k;&c_o;&c_s;</trd>
+  <trdgrp lng="sk">
+    <trd>marhu&lcaron;a <klr>(ovocie)</klr></trd>,
+    <trd>marhuľa</trd>
+  </trdgrp>
+  <trd lng="sv">aprikos</trd>
+  <trd lng="tr">kay&inodot;s&inodot;</trd>
+</drv>
+
+<drv mrk="abriko.0ujo0arbo">
+  <kap><tld/>ujo, <var><kap><tld/>arbo</kap></var></kap>
+  <uzo tip="fak">BOT</uzo>
+  <snc>
+    <dif>
+      Specio de <ref tip="super" cel="prunus.0o">prunuso</ref>
+      (<trd lng="la">Prunus armeniaca</trd>).
+    </dif>
+  </snc>
+  <trd lng="be">&c_a;&c_b;&c_r;&c_y;&c_k;&c_o;&c_s;&c_a;&c_v;&c_a;&c_je;
+&c_d;&c_r;&c_e;&c_v;&c_a;</trd>
+  <trdgrp lng="br">
+    <trd>abrikezenn</trd>,
+    <trd>gwezenn-abrikez</trd>
+  </trdgrp>
+  <trd lng="cs">meruňka <klr>(strom)</klr></trd>
+  <trd lng="de">Aprikosenbaum</trd>
+  <trd lng="en">apricot (tree)</trd>
+  <trd lng="es">albaricoquero</trd>
+  <trd lng="fa">&a_d;&a_r;&a_kh;&a_t; <ind>&a_z;&a_r;&a_d;&a_A_madda;&a_l;&a_w;</ind></trd>
+  <trd lng="fr">abricotier</trd>
+  <trdgrp lng="hu">
+    <trd>s&aacute;rgabarackfa</trd>,
+    <trd>kajszibarackfa</trd>
+  </trdgrp>
+  <trd lng="nl">abrikozenboom</trd>
+  <trd lng="pl">morela<klr> (drzewo)</klr></trd>
+  <trd lng="pt">abricoteiro</trd>
+  <trd lng="ru">&c_a;&c_b;&c_r;&c_i;&c_k;&c_o;&c_s;&c_o;&c_v;&c_o;&c_je;
+&c_d;&c_je;&c_r;&c_je;&c_v;&c_o;</trd>
+  <trd lng="sk">marhu&lcaron;a <klr>(strom)</klr></trd>
+  <trd lng="sv">aprikostr&auml;d</trd>
+  <trd lng="tr">kay&inodot;s&inodot;</trd>
+</drv>
+</art>
+<!--
+$Log: abriko.xml,v $
+Revision 1.40  2015/07/04 08:37:29  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.39  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.38  2012/10/22 00:10:11  revo
+Neil Roberts: aldonu la etikedon <var>
+
+Revision 1.37  2009/06/16 16:31:00  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.36  2006/01/18 17:31:11  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.35  2005/08/31 16:31:20  revo
+Marc Bavant: belarangho
+
+Revision 1.34 2005/08/28 16:31:19 revo
+Wieland Pusch: +trd bg
+Revision 1.33 2005/03/06 17:35:18 revo
+Alan ar Gall: kor mal&gcirc;uste rompitajn liniojn
+Revision 1.32 2005/02/17 17:31:13 revo
+Alan ar Gall: + trd br
+Revision 1.31 2003/09/29 16:31:07 revo
+Dmitri Gabinski: +trd be
+Revision 1.30 2002/09/07 17:38:23 revo
+Viliam Bur: +sk trd
+-->
+</vortaro>

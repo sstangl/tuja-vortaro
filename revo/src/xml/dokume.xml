@@ -1,0 +1,156 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: dokume.xml,v 1.20 2015/07/04 08:37:32 revo Exp $">
+<kap>
+<ofc>*</ofc> <ofc>1</ofc>
+<rad>dokument</rad>/o
+</kap>
+<drv mrk="dokume.0o">
+  <kap><tld/>o</kap>
+  <snc>
+    <dif>
+      Skriba&jcirc;o a&ubreve; signifa objekto, kiu servas kiel pruvo
+      kaj
+      atesto:
+      <ekz>
+        <tld/>oj pri la origino de la milito;
+      </ekz>
+      <ekz>
+        genealogiaj <tld/>oj
+        <fnt><bib>MT</bib>, <lok>&Ezr; 2:62</lok></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="arkiv.0o">arkivo</ref>.
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_d;&c_a;&c_k;&c_u;&c_m;&c_e;&c_n;&c_t;</trd>
+  <trd lng="bg">&c_d;&c_o;&c_k;&c_u;&c_m;&c_je;&c_n;&c_t;</trd>
+  <trdgrp lng="cs">
+    <trd>doklad</trd>,
+    <trd>dokument</trd>,
+    <trd>listina</trd>,
+    <trd>listinný průkaz</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Urkunde</trd>,
+    <trd>Dokument</trd>
+  </trdgrp>
+  <trd lng="en">document</trd>
+  <trd lng="es">documento</trd>
+  <trd lng="fr">document</trd>
+  <trdgrp lng="hu">
+    <trd>okm&aacute;ny</trd>,
+    <trd>dokumentum</trd>
+  </trdgrp>
+  <trd lng="nl">document</trd>
+  <trd lng="no">dokument</trd>
+  <trdgrp lng="pl">
+    <trd>dokument</trd>,
+    <trd>pismo</trd>
+  </trdgrp>
+  <trd lng="pt">documento</trd>
+  <trd lng="ru">&c_d;&c_o;&c_k;&c_u;&c_m;&c_je;&c_n;&c_t;</trd>
+  <trdgrp lng="sk">
+    <trd>doklad</trd>,
+    <trd>dokument</trd>,
+    <trd>listina</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="dokume.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <uzo tip="klr">(ion)</uzo>
+    <dif>
+      Pruvi per <tld/>oj.
+    </dif>
+    <trd lng="de">beurkunden</trd>
+    <trd lng="pl">udokumentowywa&cacute;</trd>
+  </snc>
+  <snc>
+    <uzo tip="klr">(iun)</uzo>
+    <dif>
+      Provizi per <tld/>oj.
+    </dif>
+    <trd lng="pl">dokumentowa&cacute;</trd>
+  </snc>
+  <trd
+  lng="be">&c_d;&c_a;&c_k;&c_u;&c_m;&c_e;&c_n;&c_t;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>dokládat</trd>,
+    <trd>dokumentovat</trd>,
+    <trd>prokázat</trd>
+  </trdgrp>
+  <trd lng="de">dokumentieren</trd>
+  <trd lng="en">document</trd>
+  <trd lng="es">documentar</trd>
+  <trd lng="fr">documenter</trd>
+  <trd lng="hu">dokument&aacute;l</trd>
+  <trd lng="nl">documenteren</trd>
+  <trd lng="no">dokumentere</trd>
+  <trd lng="pt">documentar</trd>
+  <trd
+  lng="ru">&c_d;&c_o;&c_k;&c_u;&c_m;&c_je;&c_n;&c_t;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="sk">dokumentovať</trd>
+</drv>
+
+<drv mrk="dokume.0akredito">
+  <kap>
+  <tld/>a kredito
+  </kap>
+  <uzo tip="fak">EKON</uzo>
+  <snc>
+    <dif>
+      <ref tip="dif" cel="akredi1.0o">Akreditivo</ref>
+    </dif>
+  </snc>
+  <trdgrp lng="de">
+    <trd>Akkreditiv</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>okm&aacute;nyos meghitelez&eacute;s</trd>,
+    <trd>akkredit&iacute;v</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>accreditief<klr tip="ind"> (documentair krediet)</klr></trd>,
+    <trd>documentair <ind>krediet</ind></trd>
+  </trdgrp>
+  <trd lng="pl">akredytywa</trd>
+</drv>
+</art>
+<!--
+$Log: dokume.xml,v $
+Revision 1.20  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2014/11/23 21:10:36  revo
+Filip van Laenen: +trd(en,nl,no)
+
+Revision 1.17  2009/08/23 16:31:11  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.16  2009/07/03 16:31:26  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.15  2009/05/07 16:31:36  revo
+Wieland Pusch: +trd bg
+
+Revision 1.14  2009/05/04 16:31:20  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.13  2007/08/11 16:30:46  revo
+Tulio Flores: +tr pt
+
+Revision 1.12  2003/12/13 17:35:06  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.11  2002/11/01 22:04:10  revo
+-->
+</vortaro>

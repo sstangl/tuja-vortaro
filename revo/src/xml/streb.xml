@@ -1,0 +1,146 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: streb.xml,v 1.19 2015/07/04 08:37:44 revo Exp $">
+<kap>
+  <ofc>6</ofc>
+  <rad>streb</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="streb.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="streb.0i.KOMUNE">
+    <dif>
+      Energie stre&ccirc;i la fortojn de la korpo a&ubreve; de la spirito por
+      atingi iun celon:
+      <ekz>
+        <tld/>i al iu celo<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        al malpieco <tld/>as ilia animo<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="aspir.0i">aspiri</ref>,
+      <ref cel="cel.0i">celi</ref>,
+      <ref cel="pen.0i">peni</ref>,
+      <ref cel="sopir.0i">sopiri</ref>.
+    </refgrp>
+    <trd lng="en">seek</trd>
+    <trdgrp lng="es">
+      <trd>tener <ind>af&aacute;n</ind></trd>,
+      <trd>afanarse</trd>,
+      <trd>sentir <ind>inclinaci&oacute;n</ind> </trd>,
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>tendre (&agrave;)</trd>,
+      <trd>viser (&agrave;)</trd>,
+      <trd>avoir pour <ind>but</ind> (de)</trd>,
+      <trd>aspirer (&agrave;)</trd>
+    </trdgrp>
+    <trd lng="hu">t&ouml;rekszik</trd>    
+    <trdgrp lng="nl">
+      <trd>inspannen</trd>,
+      <trd>streven</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="streb.0i.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <uzo tip="klr">(fakula &jcirc;argono)</uzo>
+    <dif>
+      Senlime proksimi&gcirc;i:
+      <ekz>
+        la funkcio logaritmo <tld/>as al malfinio, kiam &gcirc;ia
+        argumento <tld/>as al nulo.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="konver.0i.MAT">konver&gcirc;i</ref>,
+      <ref cel="limes.0o">limeso</ref>.
+    </refgrp>
+    <trd lng="en">tend<klr tip="ind"> (to a limit)</klr></trd>
+    <trd lng="es">tender<klr tip="amb"> (hacia un l&iacute;mite)</klr></trd>
+    <trd lng="fr">tendre<klr tip="ind"> (vers une limite)</klr></trd>
+    <trd lng="pl">d&aogonek;&zdot;y&cacute;</trd>
+  </snc>
+  <trd lng="be">&c_ib;&c_m;&c_k;&c_n;&c_u;&c_c;&c_c;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>snažit se</trd>,
+    <trd>usilovat</trd>
+  </trdgrp>
+  <trd lng="de">streben</trd>
+  <trd lng="hu">tart<klr tip="ind"> (hat&aacute;r fel&eacute;)</klr></trd>
+  <trd lng="nl">streven</trd>
+  <trd lng="ru">&c_s;&c_t;&c_r;&c_je;&c_m;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>
+  <trdgrp lng="sk">
+    <trd>bažiť</trd>,
+    <trd>pren.: driapať sa</trd>,
+    <trd>snažiť sa</trd>,
+    <trd>usilovať<klr>(sa)</klr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="streb.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="streb.0o.KOMUNE">
+    <dif>
+      Kuni&gcirc;o de volo kaj forto por atingi celon:
+      <ekz>
+        ekzistas homoj, kiuj de tempo al tempo sentas
+        <tld/>adon al poezio<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="strecx.forto0o.KOMUNE">fortostre&ccirc;o</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>snaha</trd>,
+    <trd>snažení</trd>,
+    <trd>úsilí</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>aspiration<klr> (&eacute;lan)</klr></trd>,
+    <trd>&eacute;lan</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>dravosť</trd>,
+    <trd>dravá túžba</trd>,
+    <trd>nápor</trd>,
+    <trd>úsilie</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: streb.xml,v $
+Revision 1.19  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:33:24  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2013/09/19 01:10:13  revo
+Jeromo Vasxe: + ~o
+
+Revision 1.16  2008/06/08 16:30:44  revo
+Carlos Garcia: +trd "es" -i
+
+Revision 1.15  2004/11/02 17:31:50  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.14  2003/03/23 17:34:01  revo
+Marc Bavant: ~i MAT: +trd pl
+
+Revision 1.13  2003/03/05 17:36:18  revo
+Zmicier Lapcionak: + trd be
+Revision 1.12  2002/05/12 16:36:43  revo
+Marc Bavant: ~i MAT: +trd en
+Revision 1.11  2002/02/23 19:52:43  revo
+Yury Finkel: formatigis
+Revision 1.10 2001/08/27 18:16:31 revo
+Paul Peeraerts: ald plian trd nl
+Revision 1.9 2001/08/03 18:12:51 revo
+Dennis Wibrow: +trd germ
+-->
+</vortaro>

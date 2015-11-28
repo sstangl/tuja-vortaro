@@ -1,0 +1,140 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+  <art mrk="$Id: nudel.xml,v 1.18 2011/04/18 07:10:08 revo Exp $">
+    <kap>
+      <rad>nudel</rad>/o
+    </kap>
+
+    <drv mrk="nudel.0o">
+      <kap><tld/>o</kap>
+      <uzo tip="fak">KUI</uzo>
+      <snc mrk="nudel.0o.rubanda">
+	<subsnc mrk="nudel.0o.rubanda.kuirota">
+	  <dif>
+	    Pasta&jcirc;o el faruno kaj ovo, distran&ccirc;ita en mallar&gcirc;ajn
+	    rubandojn, kaj eventuale sekigita, por posta bolkuirado.
+	  </dif>
+	</subsnc>
+	<subsnc mrk="nudel.0o.rubanda.kuirita">
+	  <dif>
+	    Man&gcirc;a&jcirc;o farita el bolkuirita
+	    <tld/>o<sncref ref="nudel.0o.rubanda.kuirota"/>.
+	  </dif>
+	</subsnc>
+	<trd lng="ru">&c_l;&c_a;&c_p;&c_sh;&c_a;</trd>
+      </snc>
+      <snc mrk="nudel.0o.cxia">
+	<subsnc mrk="nudel.0o.cxia.kuirota">
+	  <dif>
+	    &Ccirc;ia ajn pasta&jcirc;o simila al
+	    <tld/>o<sncref ref="nudel.0o.rubanda.kuirota"/>,
+	    destinita por bolkuirado:
+	    <ekz>
+	      li travivis unu semajnon nur sin nutrante per
+	      kilogramo da <tld/>o
+	      <fnt>
+		<aut>Xiang Hong</aut>: <vrk>Vivo estas en alia loko</vrk>.
+		<lok><url
+ ref="http://mf1.iist.unu.edu/china/ElPopolaCxinio/98-7-21.html"
+		    >ElP&Ccirc;</url></lok>
+	      </fnt>.
+	    </ekz>
+	  </dif>
+	  <adm>
+	    &Ccirc;i tie bonvenus bildo kiel tiu de
+	    http://www.krokodilo.de/vortaro/n/nudelo.html
+	    <aut>Sergio</aut>
+	  </adm>
+	  <trd lng="ru">&c_m;&c_a;&c_k;&c_a;&c_r;&c_o;&c_n;&c_n;&c_y;&c_je; &c_i;&c_z;&c_d;&c_je;&c_l;&c_i;&c_ja;</trd>
+	</subsnc>
+	<subsnc mrk="nudel.0o.cxia.kuirita">
+	  <dif>
+	    &Ccirc;ia ajn man&gcirc;a&jcirc;o simila al <tld/>o<sncref
+		ref="nudel.0o.rubanda.kuirita"/>, preparita per bolkuirado:
+		<ekz>
+		  la unua man&gcirc;a&jcirc;o kiu nun impresas temante pri bongusta&jcirc;oj
+		  en Nagojo estas <ctl>Ki&scirc;imen</ctl>, lar&gcirc;a blanka nudelo
+		  <fnt>
+		    <lok><url
+			ref="http://www.k-net.or.jp/~t-kawai/esp/nagojamangxo.html"
+			>Ki&scirc;imen</url></lok>
+		  </fnt>
+		</ekz>
+	  </dif>
+	  <trd lng="ru">&c_m;&c_u;&c_ch;&c_n;&c_o;&c_je; &c_b;&c_l;&c_ju;&c_d;&c_o;</trd>
+	</subsnc>
+	<refgrp tip="vid">
+	  <ref cel="makaro1.0o">makaronio</ref>,
+	  <ref cel="spaget.0o">spageto</ref>,
+	  <ref cel="vermicxel.0o.cxia">vermi&ccirc;elo<sncref/></ref>
+	</refgrp>
+      </snc>
+      <rim>
+	En la reala uzo ekzistas hezito, &ccirc;u <tld/>o estas ara (kiel
+	<ctl>rizo</ctl> ktp) a&ubreve; indikas unuopan pecon da pasta&jcirc;o
+	(<tld/>pecon).
+      </rim>
+      <trd lng="be">&c_l;&c_a;&c_p;&c_sh;&c_a;</trd>
+      <trd lng="de">Nudel</trd>
+      <trd lng="es">pasta</trd>
+      <trd lng="en">noodle</trd>
+      <trdgrp lng="hu">
+        <trd>t&eacute;szta</trd>,
+        <trd>met&eacute;lt t&eacute;szta</trd>
+      </trdgrp>      
+      <trd lng="nl">noedel</trd>
+      <trd lng="pt">talharim</trd>
+      <trd lng="fr">nouille(s)</trd>
+    </drv>
+  </art>
+  <!--
+  $Log: nudel.xml,v $
+  Revision 1.18  2011/04/18 07:10:08  revo
+  Nicolas Bros: +trd fr
+
+  Revision 1.17  2011/04/15 09:10:08  revo
+  Tulio Flores: korekto de tajperaro 'sekgita'.
+
+  Revision 1.16  2006/10/31 17:30:46  revo
+  Jozefo Horvath: +trd hu
+
+  Revision 1.15  2006/07/09 16:53:14  revo
+  Tulio Flores: +tr pt
+
+  Revision 1.14  2005/04/16 16:35:13  revo
+  Raul Salinas Monteagudo: +trd es
+
+  Revision 1.13  2004/06/24 16:32:50  revo
+  Jozefo Horvath: +trd hu
+
+  Revision 1.12  2004/06/03 19:39:31  revo
+  alinomis vermic.xml al vermicxel.xml
+
+  Revision 1.11  2004/03/26 17:31:11  revo
+  Sergio Pokrovskij: TEZ, rim
+
+  Revision 1.10  2004/03/21 17:31:08  revo
+  Sergio Pokrovskij: -tajperaro
+
+  Revision 1.9  2004/03/20 17:30:48  revo
+  Sergio Pokrovskij: disigis en 4 sencojn
+
+  Revision 1.8  2003/06/16 16:32:04  revo
+  Dmitri Gabinski: +trd be
+
+  Revision 1.7  2002/10/22 16:32:55  revo
+  Christopher Zervic: + ang
+
+  Revision 1.6  2002/03/14 17:34:16  revo
+  Yury Finkel: +trd ru, +uzo KUI
+
+  Revision 1.5 2001/11/27 17:32:35 revo
+  Dennis Wibrow: +trd germ
+
+  Revision 1.4 2001/06/08 18:12:49 revo
+  Paul Peeraerts: ald trd nl
+
+  -->
+</vortaro>

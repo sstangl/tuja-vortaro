@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: putor.xml,v 1.25 2015/07/04 08:37:42 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>putor</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="putor.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="putor.0o.ZOO">
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      <ref tip="lst" cel="speci.0o.BIO"
+      lst="voko:zoologiaj_specioj">Specio</ref> de <ref tip="super"
+      cel="mustel.0o">mustelo</ref>; malgranda <ref tip="lst"
+      cel="best.rabo0o" lst="voko:rabobestoj">rabobesto</ref>
+      kun helaj makuloj malanta&ubreve; la okuloj
+      (<trd lng="la">Mustela putorius</trd>).
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_t;&c_h;&c_o;&c_r;</trd>,
+    <trd>&c_sh;&c_a;&c_sh;&c_o;&c_k;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>tcho&rcaron;</trd>,
+    <trd>tchoř</trd>
+  </trdgrp>
+  <trd lng="de">Iltis</trd>
+  <trd lng="en">polecat</trd>
+  <trd lng="es">tur&oacute;n</trd>
+  <trd lng="fr">putois</trd>
+  <trd lng="hu">g&ouml;r&eacute;ny</trd>
+  <trd lng="nl">bunzing</trd>
+  <trd lng="pl">tch&oacute;rz</trd>
+  <trdgrp lng="pt">
+    <trd>put&oacute;rio</trd>,
+    <trd>doninha</trd>
+  </trdgrp>
+  <trd lng="ru">&c_h;&c_o;&c_r;&c_jo;&c_k;</trd>
+  <trd lng="sk">tchor</trd>
+</drv>
+
+<drv mrk="putor.cxas0o">
+  <kap>&ccirc;as<tld/>o</kap>
+  <snc mrk="putor.cxas0o.CXAS">
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      Malsova&gcirc;a formo de <ref tip="super"
+      cel="putor.0o">putoro</ref>
+      (<trd lng="la">Mustela putorius forma furo</trd>).
+    </dif>
+    <ref tip="sin" cel="fur.0o">furo</ref>
+  </snc>
+  <trd lng="cs">fretka</trd>
+  <trd lng="de">Frettchen</trd>
+  <trd lng="en">ferret</trd>
+  <trd lng="es">hur&oacute;n</trd>
+  <trd lng="fr">furet<klr tip="ind"> (zoo.)</klr></trd>
+  <trd lng="hu">vad&aacute;szg&ouml;r&eacute;ny</trd>
+  <trd lng="nl">fret</trd>
+  <trd lng="pl">&lstroke;asica</trd>
+  <trd lng="pt">fur&atilde;o</trd>
+  <trdgrp lng="ru">
+    <trd>&c_f;&c_u;&c_r;&c_o;</trd>,
+    <trd>&c_d;&c_o;&c_m;&c_a;&c_sh;&c_n;&c_i;&c_j;
+    <ind>&c_h;&c_o;&c_r;&c_jo;&c_k;</ind></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: putor.xml,v $
+Revision 1.25  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.24  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.23  2015/04/13 20:10:17  revo
+Carlos Garcia: +trd es cxas-o
+
+Revision 1.22  2013/10/21 19:10:18  revo
+Wolfram Diestel: ref al lst rabobestoj, prilaboris dif
+
+Revision 1.21  2013/09/23 06:10:11  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.20  2013/03/08 02:10:11  revo
+Jeromo Vasxe: + ref sin
+
+Revision 1.19  2012/03/12 10:10:09  revo
+Agustin Garcia Lopez: +trd(es)
+
+Revision 1.18  2012/02/16 19:42:31  revo
+forigis lastajn sxangxojn de putor.xml, cxar konfuzigxis la
+UTF-8-literoj
+
+Revision 1.16  2009/11/11 17:30:26  revo
+Paul Peeraerts: +nl
+
+-->
+</vortaro>

@@ -1,0 +1,146 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: hermit.xml,v 1.19 2015/07/04 08:37:35 revo Exp $">
+<kap>
+  <rad>Hermit</rad>/o
+</kap>
+<drv mrk="hermit.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">PERS</uzo>
+  <fnt><bib>PIV2</bib></fnt>
+  <snc>
+    <dif>
+      Franclingve: Charles <trd lng="fr">Hermite</trd>, 1822-1901.
+      Franca matematikisto.
+    </dif>
+  </snc>
+  <trd lng="be">&c_E;&c_r;&c_m;&c_ib;&c_t;</trd>
+  <trd lng="cs">Hermite Charles</trd>
+  <trd lng="de">Hermite</trd>
+  <trd lng="en">Hermite</trd>
+  <trd lng="hu">Hermite</trd>
+  <trd lng="it">Hermite</trd>
+  <trd lng="nl">Charles <ind>Hermite</ind></trd>
+  <trd lng="pl">Hermite</trd>
+  <trd lng="pt">Hermite</trd>
+  <trd lng="ru">&c_E;&c_r;&c_m;&c_i;&c_t;</trd>
+  <trd lng="sk">Hermite Charles</trd>
+</drv>
+
+<drv mrk="hermit.h0a">
+  <kap><tld lit="h"/>a</kap>
+  <snc mrk="hermit.h0a.matrico">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>PIV1</bib></fnt>
+    <dif>
+      <klr>(p.p. <ref cel="matric.n_p0o">(n,n)-matrico</ref> super la
+      korpo de
+      <ref cel="komple.0o.MAT">kompleksoj</ref>)</klr>
+      Tia, ke &ccirc;iu &gcirc;ia elemento kun indico
+      <frm>(<k>i</k>,<k>j</k>)</frm> egalas al la
+      <ref cel="konjug.0ito.komplekso">konjugito</ref>
+      de tiu kun indico <frm>(<k>j</k>,<k>i</k>)</frm>.
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_e;&c_r;&c_m;&c_ib;&c_t;&c_a;&c_v;&c_a; <klr tip="amb">(&c_m;&c_a;&c_t;&c_r;&c_y;&c_c;&c_a;)</klr></trd>,
+      <trd>&c_s;&c_a;&c_m;&c_a;&c_s;&c_p;&c_a;&c_l;&c_u;&c_ch;&c_a;&c_n;&c_a;&c_ja; <klr
+      tip="amb">(&c_m;&c_a;&c_t;&c_r;&c_y;&c_c;&c_a;)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd>Hermitesch<klr tip="ind"> (-e Matrix)</klr></trd>,
+      <trd>selbstadjungiert<klr tip="ind"> (-e Matrix)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>hermitian<klr tip="ind"> (matrix)</klr></trd>,
+      <trd>self-adjoint<klr tip="ind"> (matrix)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd><klr tip="amb">(matrice) </klr>hermitienne</trd>,
+      <trd><klr tip="amb">(matrice) </klr>autoadjointe</trd>
+    </trdgrp>
+    <trdgrp lng="it">
+      <trd><klr>(matrice) </klr>hermitiana</trd>,
+      <trd><klr>(matrice) </klr>autoaggiunta</trd>
+    </trdgrp>
+    <trd lng="pl"><klr tip="amb">(macierz) </klr>hermitowska</trd>
+    <trdgrp lng="ru">
+      <trd>&c_e;&c_r;&c_m;&c_i;&c_t;&c_o;&c_v;&c_a;<klr tip="amb"> (&c_m;&c_a;&c_t;&c_r;&c_i;&c_c;&c_a;)</klr></trd>,
+      <trd>&c_s;&c_a;&c_m;&c_o;&c_s;&c_o;&c_p;&c_r;&c_ja;&c_zh;&c_jo;&c_n;&c_n;&c_a;&c_ja;<klr tip="amb">
+      (&c_m;&c_a;&c_t;&c_r;&c_i;&c_c;&c_a;)</klr></trd>
+    </trdgrp>
+  </snc>
+  <snc>
+    <refgrp tip="vid">
+      <ref cel="form.hermita0o"><tld lit="h"/>a formo</ref>,
+      <ref cel="produt.hermita_skalara0o"><tld lit="h"/>a skalara
+      produto</ref>,
+      <ref cel="spac.hermita0o"><tld lit="h"/>a spaco</ref>.
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_E;&c_r;&c_m;&c_ib;&c_t;&c_a;</trd>,
+    <trd>&c_e;&c_r;&c_m;&c_ib;&c_t;&c_a;&c_w;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>von <ind>Hermite</ind></trd>,
+    <trd>Hermitesch</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>Hermite['s]</trd>,
+    <trd>Hermitian</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>d'<ind>Hermite</ind></trd>,
+    <trd>hermitien</trd>,
+    <trd>hermitique</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>Hermite-f&eacute;le</trd>,
+    <trd>hermitikus</trd>
+  </trdgrp>
+  <trd lng="it">hermitiano</trd>
+  <trd lng="nl">Hermite-</trd>
+  <trdgrp lng="pl">
+    <trd>Hermite'a</trd>,
+    <trd>hermitowski</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_E;&c_r;&c_m;&c_i;&c_t;&c_a;</trd>,
+    <trd>&c_e;&c_r;&c_m;&c_i;&c_t;&c_o;&c_v;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: hermit.xml,v $
+Revision 1.19  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2009/09/07 16:31:23  revo
+Antonio Codazzi: +trd it
+
+Revision 1.16  2007/04/27 16:30:38  revo
+Tulio Flores: +tr pt
+
+Revision 1.15  2005/01/14 17:31:30  revo
+Vito Redsky: korekto trd pl y=i
+
+Revision 1.14  2004/11/08 19:55:38  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.13  2003/02/24 17:33:01  revo
+Marc Bavant: mod klr tip cxe trd de
+
+Revision 1.12  2003/01/26 17:33:11  revo
+Marc Bavant: mod trd de cxe terminoj MAT
+Revision 1.11  2003/01/02 17:46:24  revo
+Marc Bavant: +trd pl; ~a: reordigis
+Revision 1.10 2002/11/22 17:32:32 revo
+Marc Bavant: +frm
+Revision 1.9 2002/08/04 17:33:09 revo
+-->
+</vortaro>

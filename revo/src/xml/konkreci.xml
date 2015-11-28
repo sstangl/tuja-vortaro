@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: konkreci.xml,v 1.4 2015/07/04 08:37:37 revo Exp $">
+<kap>
+  <rad>konkreci</rad>/o <fnt><bib>NePiv</bib></fnt>
+</kap>
+<drv mrk="konkreci.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="konkreci.0o.KEM">
+    <uzo tip="fak">KEM</uzo>
+    <uzo tip="fak">MIN</uzo>
+    <dif>
+      Poioma kunsolidi&gcirc;o de substancoj:
+      <ekz>
+        vi vidos mirindajn <tld/>ojn en formo de gigantaj meduzoj 
+        (stalagmitajn fluojn)
+        <fnt>
+          <aut>-</aut>,
+          <vrk><url
+          ref="http://grottesdesaudides.free.fr/esperanto.htm">
+          Groto de la Audides</url></vrk>,
+          <lok>[2009?]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="konkrement.0o.FIZL">konkremento</ref>
+    </refgrp>
+  </snc>
+  <trd lng="ca">concreci&oacute;<klr> (patol.)</klr></trd>
+  <trdgrp lng="cs">
+    <trd>konkrece</trd>,
+    <trd>konkrécie</trd>
+  </trdgrp>
+  <trd lng="fr">concr&eacute;tion</trd>
+  <trd lng="sk">konkrécia</trd>
+</drv>
+</art>
+
+<!--
+$Log: konkreci.xml,v $
+Revision 1.4  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.3  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.2  2012/07/14 10:10:13  revo
+Marc Rausell: + trd ca
+
+Revision 1.1  2011/06/01 22:10:09  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

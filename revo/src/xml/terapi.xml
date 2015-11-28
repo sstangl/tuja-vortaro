@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: terapi.xml,v 1.16 2015/07/04 08:37:44 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>terapi</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="terapi.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="stl">RAR</uzo>
+  <snc mrk="terapi.0o.MED">
+    <uzo tip="fak">MED</uzo>
+    <dif>
+      Metoda <ref tip="super" cel="kurac.0ado">kuracado</ref>:
+      <ekz>
+        nur &ccirc;irka&ubreve; 500 el ili ricevadas la
+        modernan <tld/>on per tri medikamentoj
+        <fnt><aut>V. Lemelev</aut>, <vrk>Novaj strategioj en
+        Rusio</vrk>,
+        <bib>Monato</bib>, <lok>2001:5, p. 14a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_t;&c_e;&c_r;&c_a;&c_p;&c_ib;&c_ja;</trd>
+  <trd lng="ca">ter&agrave;pia</trd>
+  <trdgrp lng="cs">
+    <trd>léčba</trd>,
+    <trd>terapie</trd>
+  </trdgrp>
+  <trd lng="de">Therapie</trd>
+  <trd lng="en">therapy</trd>
+  <trd lng="es">terapia</trd>
+  <trdgrp lng="fr">
+    <trd>th&eacute;rapie</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>gy&oacute;gykezel&eacute;s</trd>,
+    <trd>ter&aacute;pia</trd>,
+  </trdgrp>
+  <trd lng="nl">therapie</trd>
+  <trd lng="pl">terapia</trd>
+  <trdgrp lng="pt">
+    <trd>terapia</trd>
+  </trdgrp>
+  <trd lng="ru">&c_t;&c_je;&c_r;&c_a;&c_p;&c_i;&c_ja;</trd>
+  <trd lng="sk">liečba</trd>
+</drv>
+
+<drv mrk="terapi.0i">
+  <kap><tld/>i</kap>
+  <uzo tip="stl">RAR</uzo>
+  <snc mrk="terapi.0i.MED">
+    <uzo tip="fak">MED</uzo>
+    <ref tip="dif" cel="kurac.0i.MED">kuraci</ref>
+    <ekz>
+      neniam ankora&ubreve; kuracisto <tld/>is iun per tiom da hirudoj
+      <fnt>
+        <aut>Hevesi L., trad. Vizi L.</aut>,
+        <vrk><url
+        ref="https://sites.google.com/site/laaventurojdeandreojelky">
+        La aventuroj de Andreo Jelky</url></vrk>,
+        <lok>[2010]</lok>
+      </fnt>.
+    </ekz>
+  </snc>
+</drv>
+</art>
+<!--
+$Log: terapi.xml,v $
+Revision 1.16  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.14  2011/12/09 15:10:08  revo
+Jeromo Vasxe: + ~i
+
+Revision 1.13  2006/04/21 16:31:46  revo
+Tulio Flores: +tr pt
+
+Revision 1.12  2006/02/15 17:33:10  revo
+Tulio Flores: +trd pt
+
+Revision 1.11  2005/04/26 16:33:07  revo
+Raul Salinas Monteagudo: +trd ca,es
+
+Revision 1.10  2004/11/26 17:31:54  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.9  2003/09/18 16:30:58  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.8  2002/07/16 18:50:22  revo
+Jeromo Vasxe: + fak med, reverkis dif, + ekz, + trd fr
+
+Revision 1.7 2002/03/11 17:33:19 revo
+-->
+</vortaro>

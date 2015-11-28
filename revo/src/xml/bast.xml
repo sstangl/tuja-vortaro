@@ -1,0 +1,127 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: bast.xml,v 1.20 2015/10/16 12:10:16 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>bast</rad>/o
+</kap>
+<drv mrk="bast.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <uzo tip="fak">BOT</uzo>
+  <fnt><bib>KrED</bib></fnt>
+  <fnt><bib>PIV1</bib></fnt>
+  <snc>
+    <dif>
+      Plej interna parto de la arbo&scirc;elo.
+    </dif>
+  </snc>
+  <trd lng="be">&c_l;&c_u;&c_b;</trd>
+  <trd lng="cs">l&yacute;ko</trd>
+  <trd lng="de">Bast</trd>
+  <trdgrp lng="en">
+    <trd>bast</trd>,
+    <trd>inner bark</trd>, <trd>phloem</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>phlo&egrave;me</trd>,
+    <trd>liber</trd>,
+    <trd>int&eacute;rieur de l'<ind>&eacute;corce</ind></trd>
+  </trdgrp>
+  <trd lng="hu">h&aacute;ncs</trd>
+  <trd lng="pl">&lstroke;yko</trd>
+  <trd lng="pt">l&iacute;ber</trd>
+  <trd lng="ru">&c_l;&c_u;&c_b;</trd>
+  <trd lng="sk">lyko</trd>
+  <trd lng="sv">bast</trd>
+</drv>
+
+<drv mrk="bast.0fibro">
+  <kap><tld/>fibro</kap>
+  <fnt><bib>KrED</bib></fnt>
+  <fnt><bib>PIV1</bib></fnt>
+  <snc>
+    <dif>
+      Fibro konsistanta el basto.
+    </dif>
+  </snc>
+  <trd lng="be">&c_l;&c_u;&c_b;&c_ja;&c_n;&c_o;&c_je;
+  &c_v;&c_a;&c_l;&c_a;&c_k;&c_n;&c_o;</trd>
+  <trd lng="cs">l&yacute;kov&eacute; vl&aacute;kno</trd>
+  <trd lng="de">Bastfaser</trd>
+  <trdgrp lng="en">
+    <trd>bast fiber <klr>(usone)</klr></trd>,
+    <trd>bast fibre <klr>(brite)</klr></trd>
+  </trdgrp>
+  <trd lng="hu">h&aacute;ncsrost</trd>
+  <trdgrp lng="pl">
+    <trd>&lstroke;yko</trd>,
+    <trd>w&lstroke;&oacute;kno <ind>&lstroke;yka</ind></trd>
+  </trdgrp>
+  <trd lng="ru">&c_l;&c_u;&c_b;&c_ja;&c_n;&c_o;&c_je;
+  &c_v;&c_o;&c_l;&c_o;&c_k;&c_n;&c_o;</trd>
+  <trd lng="sk">lykov&eacute; vl&aacute;kno</trd>
+</drv>
+
+<drv mrk="bast.0korbo">
+  <kap><tld/>korbo</kap>
+  <fnt><bib>KrED</bib></fnt>
+  <snc>
+    <dif>
+      Korbo farita el bastfibroj.
+    </dif>
+  </snc>
+  <trd lng="be">&c_l;&c_u;&c_b;&c_ja;&c_n;&c_y;
+  &c_k;&c_o;&c_r;&c_a;&c_b;</trd>
+  <trd lng="cs">l&yacute;kov&yacute; ko&scaron;&iacute;k</trd>
+  <trd lng="de">Bastkorb</trd>
+  <trd lng="en">bast basket</trd>
+  <trd lng="hu">h&aacute;ncskos&aacute;r</trd>
+  <trd lng="ru">&c_l;&c_u;&c_b;&c_ja;&c_n;&c_a;&c_ja;
+  &c_k;&c_o;&c_r;&c_z;&c_i;&c_n;&c_a;</trd>
+  <trd lng="sk">lykov&yacute; ko&scaron;&iacute;k</trd>
+</drv>
+
+<drv mrk="bast.0mato">
+  <kap><tld/>mato</kap>
+  <fnt><bib>KrED</bib></fnt>
+  <snc>
+    <dif>
+      Mato farita el bastfibroj.
+    </dif>
+  </snc>
+  <trd lng="cs">l&yacute;kov&aacute; roho&zcaron;ka</trd>
+  <trd lng="de">Bastmatte</trd>
+  <trd lng="en">bast mat</trd>
+  <trd lng="hu">h&aacute;ncsz&odblac;nyeg</trd>
+  <trd lng="ru">&c_c;&c_i;&c_n;&c_o;&c_v;&c_k;&c_a;</trd>
+  <trd lng="sk">lykov&aacute; roho&zcaron;ka</trd>
+</drv>
+</art>
+<!--
+$Log: bast.xml,v $
+Revision 1.20  2015/10/16 12:10:16  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.19  2015/10/02 02:10:22  revo
+Evandro Avellar: +trd pt
+
+Revision 1.18  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:29:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.16  2009/10/16 16:31:30  revo
+Russ Williams: +trd en
+
+Revision 1.15  2009/03/03 17:30:44  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.14  2006/08/30 15:11:39  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.13  2005/03/06 17:37:13  revo
+-->
+</vortaro>

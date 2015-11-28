@@ -1,0 +1,210 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: deleg.xml,v 1.23 2015/07/04 08:37:32 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>deleg</rad>/i
+</kap>
+
+<drv mrk="deleg.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      Sendi iun kiel reprezentanton:
+      <ekz>
+        nia societo <tld/>is tri membrojn al la kongreso;
+      </ekz>
+      <ekz>
+        por fari reformojn en Esperanto, la <ctl>Delegacia
+        Komitato</ctl>
+        ricevis komision nek de la esperantistoj, nek de siaj propraj
+        <ind>deleginto</ind>j
+        <fnt><bib>OV</bib>, <lok>p. 447</lok></fnt>.
+        <trd lng="fr">d&eacute;l&eacute;gant</trd>
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="deput.0i">deputi</ref>,
+      <ref cel="komisi.0i">komisii</ref>,
+      <ref cel="misi">misii</ref>.
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_d;&c_e;&c_l;&c_je;&c_g;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="ca">delegar</trd>
+  <trd lng="cs">delegovat</trd>
+  <trdgrp lng="de">
+    <trd>delegieren</trd>,
+    <trd>abordnen</trd>
+  </trdgrp>
+  <trd lng="en">delegate</trd>
+  <trd lng="es">delegar</trd>
+  <trd lng="fr">d&eacute;l&eacute;guer<klr tip="ind"> (qn)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>kik&uuml;ld<klr tip="ind"> (deleg&aacute;l)</klr></trd>,
+    <trd>deleg&aacute;l</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>delegowa&cacute;</trd>,
+    <trd>wysy&lstroke;a&cacute; <ind>delegacj&eogonek;</ind></trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>delegar</trd>,
+    <trd>deputar</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_d;&c_je;&c_l;&c_je;&c_g;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_p;&c_o;&c_s;&c_l;&c_a;&c_t;&c_mol;
+    &c_d;&c_je;&c_l;&c_je;&c_g;&c_a;&c_t;&c_o;&c_m;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>delegovať</trd>,
+    <trd>vyslať</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="deleg.0ato">
+  <kap><tld/>ato<fnt>PV</fnt></kap>
+  <snc>
+    <uzo tip="stl">ARK</uzo>
+    <ref tip="dif" cel="deleg.0ito">delegito.</ref>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>delegát</trd>,
+    <trd>vyslanec</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>delegát</trd>,
+    <trd>člen delegácie</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="deleg.0ito">
+  <kap><tld/>ito</kap>
+  <snc>
+    <dif>
+      <tld lit="D"/>ita persono:
+      <ekz>
+        en tiu tago &gcirc;i la unuan fojon devas aperi en la urba domo,
+        por ke
+        sinjoroj la urbaj delegitoj &gcirc;in ekzamenu, &ccirc;u
+        &gcirc;i
+        ankora&ubreve; estas uzebla
+        <fnt><bib>Fab1</bib>, <lok>Malnova strata lanterno</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_d;&c_e;&c_l;&c_je;&c_g;&c_a;&c_t;</trd>
+  <trd lng="ca">delegat</trd>
+  <trdgrp lng="cs">
+    <trd>delegát</trd>,
+    <trd>vyslanec</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Stellvertreter</trd>,
+    <trd>Abgeordneter [en la parlamento]</trd>
+  </trdgrp>
+  <trd lng="en">delegate</trd>
+  <trd lng="es">delegado</trd>
+  <trdgrp lng="fr">
+    <trd>d&eacute;l&eacute;gu&eacute;</trd>,
+    <trd>repr&eacute;sentant<klr tip="ind">
+    (d&eacute;l&eacute;gu&eacute;)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>k&uuml;ld&ouml;tt</trd>,
+    <trd>k&eacute;pvisel&odblac;</trd>,
+    <trd>megb&iacute;zott</trd>,
+    <trd>deleg&aacute;tus</trd>
+  </trdgrp>
+  <trd lng="nl">vertegenwoordiger</trd>
+  <trd lng="no">representant</trd>
+  <trd lng="pl">delegat</trd>
+  <trd lng="ru">&c_d;&c_je;&c_l;&c_je;&c_g;&c_a;&c_t;</trd>
+  <trdgrp lng="sk">
+    <trd>delegát</trd>,
+    <trd>člen delegácie</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="deleg.0itaro">
+  <kap><tld/>itaro</kap>
+  <snc>
+    <dif>
+      Aro da <tld/>itoj, komisiitaj por specifa tasko:
+      <ekz>
+        ne forgesu la delegitaron!, diris la re&gcirc;o Hroar
+        <fnt><bib>Fab1</bib>, <lok>Malgranda Tuk</lok></fnt>;
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_d;&c_e;&c_l;&c_je;&c_g;&c_a;&c_c;&c_y;&c_ja;</trd>
+  <trd lng="ca">delegaci&oacute;</trd>
+  <trdgrp lng="cs">
+    <trd>delegace</trd>,
+    <trd>deputace</trd>
+  </trdgrp>
+  <trd lng="en">delegation</trd>
+  <trd lng="fr">d&eacute;l&eacute;gation<klr tip="ind"> (groupe de
+  d&eacute;l&eacute;gu&eacute;s)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>k&uuml;ld&ouml;tts&eacute;g</trd>,
+    <trd>deleg&aacute;ci&oacute;</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>delegatie</trd>,
+    <trd>vertegenwoordiging</trd>
+  </trdgrp>
+  <trd lng="no">delegasjon</trd>
+  <trd lng="pl">delegacja</trd>
+  <trd lng="ru">&c_d;&c_je;&c_l;&c_je;&c_g;&c_a;&c_c;&c_i;&c_ja;</trd>
+  <trd lng="sk">vládna delegácia</trd>
+</drv>
+
+<drv mrk="deleg.D0itaro">
+  <kap><tld lit="D"/>itaro</kap>
+  <uzo tip="fak">ESP</uzo>
+  <snc>
+    <ref tip="dif" cel="delega.D0o">Delegacio.</ref>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>delegace</trd>,
+    <trd>deputace</trd>
+  </trdgrp>
+  <trd lng="sk">vládna delegácia</trd>
+</drv>
+</art>
+<!--
+$Log: deleg.xml,v $
+Revision 1.23  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.22  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.21  2014/11/07 16:10:14  revo
+Filip van Laenen: +trd(nl,no)
+
+Revision 1.20  2009/08/08 16:32:00  revo
+Russ Williams: +trd en
+
+Revision 1.19  2009/06/03 16:30:34  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.18  2007/07/19 16:31:29  revo
+Tulio Flores: +tr pt
+
+Revision 1.17  2003/12/10 17:32:14  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.16  2003/08/25 16:32:13  revo
+Yury Finkel: +trd ru
+
+Revision 1.15  2003/07/14 16:33:05  revo
+Marc Bavant: kor mrk
+
+Revision 1.14  2003/04/23 16:31:07  revo
+-->
+</vortaro>

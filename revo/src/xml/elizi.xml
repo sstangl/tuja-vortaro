@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: elizi.xml,v 1.16 2015/07/04 08:37:33 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>elizi</rad>/i
+</kap>
+<drv mrk="elizi.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <uzo tip="fak">GRA</uzo>
+  <uzo tip="fak">FON</uzo>
+  <snc>
+    <dif>
+      Forigi la finan vokalon de vorto:
+      <ekz>
+        en E-o nur la substantivo kaj la artikolo povas esti <tld/>ataj.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">elidovat</trd>
+  <trdgrp lng="de">
+    <trd>elidieren</trd>,
+    <trd>aussto&szlig;en</trd>,
+    <trd>weglassen</trd>
+  </trdgrp>
+  <trd lng="en">elide</trd>
+  <trd lng="es">elidir</trd>
+  <trd lng="fr">&eacute;lider</trd>
+  <trdgrp lng="hu">
+    <trd>hangkies&eacute;s</trd>,
+    <trd>hangkivet&eacute;s</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>afkappen</trd>,
+    <trd>weglaten</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>wyrzuca&cacute;<klr tip="amb"> (j&eogonek;z.)</klr></trd>,
+    <trd>podlega&cacute; <ind>elizji</ind></trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>elidir</trd>,
+    <trd>fazer <ind>elis&atilde;o</ind></trd>
+  </trdgrp>
+  <trd lng="ru">&c_v;&c_y;&c_p;&c_u;&c_s;&c_k;&c_a;&c_t;&c_mol;<klr
+  tip="amb"> (&c_k;&c_o;&c_n;&c_je;&c_ch;&c_n;&c_y;&c_j;
+  &c_g;&c_l;&c_a;&c_s;&c_n;&c_y;&c_j;)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>elidovať</trd>,
+    <trd>vypúšťať hlásku na konci slova</trd>
+  </trdgrp>
+</drv>
+<drv mrk="elizi.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">GRA</uzo>
+  <uzo tip="fak">FON</uzo>
+  <snc>
+    <dif>
+      Forigo de la fina vokalo de vorto:
+      <ekz>
+        <tld/>o estas stilefekto;
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>Elision</trd>,
+      <trd>Auslassung</trd>,
+      <trd>Vokalauslassung</trd>
+    </trdgrp>
+    <trd lng="en">elision</trd>
+    <trd lng="fr">&eacute;lision</trd>
+    <trd lng="nl">weglating</trd>
+    <trdgrp lng="pl">
+      <trd>wyrzutnia<klr tip="amb"> j&eogonek;zykowa</klr></trd>,
+      <trd>elizja</trd>
+    </trdgrp>
+    <trd lng="pt">elis&atilde;o</trd>
+    <trd lng="ru">&c_e;&c_l;&c_i;&c_z;&c_i;&c_ja;</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>elize</trd>,
+    <trd>vypouštění hlásek</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>elízia</trd>,
+    <trd>vypustenie koncovky</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: elizi.xml,v $
+Revision 1.16  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.14  2010/07/07 16:30:24  revo
+Russ Williams: +trd en
+
+Revision 1.13  2010/01/28 17:30:40  revo
+Sebastian Cyprych: kor kap cxe ~o
+
+Revision 1.12  2010/01/27 17:30:28  revo
+Sebastian Cyprych: +~o +trd pl
+
+Revision 1.11  2009/08/18 19:19:48  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.10  2007/06/27 16:31:54  revo
+Tulio Flores: +tr pt
+
+Revision 1.9  2007/03/06 17:31:25  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.8  2003/08/29 16:31:34  revo
+Yury Finkel: +trd ru, belarangxo
+
+Revision 1.7 2002/04/22 16:31:55 revo
+-->
+</vortaro>

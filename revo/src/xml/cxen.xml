@@ -1,0 +1,389 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: cxen.xml,v 1.33 2015/08/14 15:10:15 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>&ccirc;en</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="cxen.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="cxen.0o.TEK">
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      Ligilo, plej ofte metala, el interkunigitaj ringoj:
+      <ekz>
+        <tld/>o de hundo, de po&scirc;horlo&gcirc;o;
+      </ekz>
+      <ekz>
+        ora kol<tld/>o kun ornampenda&jcirc;o.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="brid.0o">brido</ref>;
+    </refgrp>
+    <refgrp tip="sub">
+      <ref cel="katen.0o">kateno</ref>.
+    </refgrp>
+    <trd lng="en">chain</trd>
+    <trd lng="he">&shin;&resh;&shin;&resh;&tav;</trd>
+    <trd lng="id">rantai</trd>
+    <trd lng="it">catena</trd>
+    <trd lng="pl">&lstroke;a&nacute;cuch</trd>
+    <trd lng="pt">corrente</trd>
+    <trd lng="fr">cha&icirc;ne<klr tip="ind"> (objet)</klr></trd>
+  </snc>
+  <snc mrk="cxen.0o.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Sinsekvo da samspecaj objektoj a&ubreve; aferoj:
+      <ekz>
+        <tld/>o da montoj
+        <fnt><bib>Fab1</bib>, <lok>Ligo de amikeco</lok></fnt>;
+      </ekz>
+      <ekz>
+        <tld/>o da insuloj<fnt>B</fnt>;
+      </ekz>
+      <ekz>
+        <tld/>o da ideoj;
+      </ekz>
+      <ekz>
+        tio estos <tld/>o de zorgoj kaj suferoj<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        seninterrompa <tld/>o de komerca&jcirc;oj
+        <fnt><bib>Far1</bib>, <lok>&ccirc;ap. 19</lok></fnt>;
+      </ekz>
+      <ekz>
+        la <tld/>o de la generacioj.
+      </ekz>
+    </dif>
+    <trd lng="en">chain</trd>
+    <trdgrp lng="fr">
+      <trd>chaine<klr tip="ind"> (fig.)</klr></trd>,
+      <trd>enchainement<klr tip="ind"> (succession)</klr></trd>,
+      <trd>suite</trd>,
+      <trd>succession</trd>
+    </trdgrp>
+    <trd lng="he">&shin;&resh;&shin;&resh;&tav;</trd>
+    <trd lng="id">rantai</trd>
+     <trdgrp lng="it">
+      <trd>catena<klr tip="ind"> (fig.)</klr></trd>,
+      <trd>successione</trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>&lstroke;a&nacute;cuch</trd>,
+      <trd>ci&aogonek;g</trd>,
+      <trd>szereg</trd>
+    </trdgrp>
+    <trdgrp lng="pt">
+      <trd>cadeia</trd>,
+      <trd>suce&ccedil;&atilde;o</trd>,
+      <trd>seq&uuml;&ecirc;ncia</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="cxen.0o.grafeo">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>MatVort</bib></fnt>
+    <dif>
+      <klr>(de <ref cel="grafe.0o.strukturo">grafeo</ref>)</klr>
+      Tia <ref cel="op.0o.vico">opo</ref> el e&gcirc;oj
+      <frm>(<k>u</k><sub>1</sub>,<k>u</k><sub>2</sub>...
+      <k>u</k><sub><k>n</k></sub>)</frm>, ke &ccirc;iu
+      termo de &gcirc;i havas randon komunan kun la anta&ubreve;a termo,
+      kaj alian randon komunan kun la posta termo:
+      <ekz>
+        longo de <tld/>o <klr>(la nombro de &gcirc;iaj termoj)</klr>;
+      </ekz>
+      <ekz>
+        simpla <tld/>o <klr>(tia, ke &ccirc;iu &gcirc;ia termo aperas
+        nur unufoje en &gcirc;i)</klr>;
+      </ekz>
+      <ekz>
+        elementa <tld/>o <klr>(tia, ke du nesinsekvaj termoj ne havas
+        komunan randon)</klr>;
+      </ekz>
+      <ekz>
+        komenca kaj fina verticoj de <tld/>o <klr>(tiu rando de
+        <frm><k>u</k><sub>1</sub></frm>, nekomuna kun 
+        <frm><k>u</k><sub>2</sub></frm>,
+        kaj tiu de <frm><k>u</k><sub><k>n</k></sub></frm>, nekomuna kun 
+        <frm><k>u</k><sub><k>n</k>-1</sub></frm>)</klr>.
+      </ekz>
+    </dif>
+    <refgrp tip="sub">
+      <ref cel="voj.0o.grafeo">vojo</ref>,
+      <ref cel="cikl.0o.grafeo">ciklo</ref>.
+    </refgrp>
+    <rim>
+      Oni diras, ke <tld/>o <ctl>trairas e&gcirc;on</ctl> (resp.
+      <ctl>trairas verticon</ctl>) por signifi, ke la koncerna
+      e&gcirc;o estas term de &gcirc;i (resp. la vertico estas rando de
+      unu el &gcirc;iaj termoj). Oni diras anka&ubreve;, ke &ccirc;eno
+      <ctl>ligas verticojn <frm><k>A</k></frm> al <frm><k>B</k></frm>
+      </ctl> por signifi, ke <frm><k>A</k></frm> kaj <frm><k>B</k></frm>
+      estas &gcirc;iaj komenca kaj fina verticoj. La ekzisto de
+      &ccirc;eno liganta du verticojn difinas ekvivalento-rilaton super
+      <frm><g>E</g></frm>.
+      Notu, ke Werner <fnt><bib>MatVort</bib></fnt> por
+      <ctl><tld/>o</ctl> aldonas rimarkon, ke <ctl>e&gcirc;oj ne
+      ripeti&gcirc;as</ctl>, kio la&ubreve; ni validu nur por simplaj
+      <tld/>oj. &Ccirc;i-kampa &hcirc;aoso ekzistas anka&ubreve; en 
+      nacilingvaj terminologioj: ekz-e la pola <ctl>droga</ctl> (t.e. 
+      <ctl>vojo</ctl>) signifas kaj <ctl>&ccirc;eno</ctl>, kaj
+      <ctl>vojo</ctl> depende de la uzkunteksto; en germana enciklopedio
+      ni trovis, ke <ctl>Weg</ctl> (t.e. <ctl>vojo</ctl>) estas tio,
+      kion ni nomas elementa &ccirc;eno... La donitaj tradukoj estas do
+      nur indikaj.
+    </rim>
+    <trd lng="de">Kantenzug</trd>
+    <trdgrp lng="en">
+      <trd>chain</trd>,
+      <trd>edge trail</trd>
+    </trdgrp>
+    <trd lng="fr">chaine</trd>
+   <trd lng="it">catena</trd>
+    <trd lng="pl">droga<klr tip="ind"> (w grafie)</klr></trd>
+    <trdgrp lng="ru">
+      <trd>&c_c;&c_je;&c_p;&c_mol;</trd>,
+      <trd>&c_m;&c_a;&c_r;&c_sh;&c_r;&c_u;&c_t;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="cxen.0o.KOMP">
+    <uzo tip="fak">KOMP</uzo>
+    <dif>
+      <ref tip="super" cel="vektor.0o.KOMP">Vektoro</ref> el bitoj
+      a&ubreve; signoj, kutime pakitaj, kutime kun speciala operacio por
+      <ctl>kro&ccirc;i</ctl> (kunmeti) tiajn <tld/>ojn.
+    </dif>
+    <trd lng="en">string</trd>
+    <trd lng="fr">chaine<klr tip="ind"> (de caract&egrave;res, de
+    bits)</klr></trd>
+    <trd lng="he">&mem;&het;&resh;&vav;&zayin;&tav;</trd>
+    <trdgrp lng="pl">
+      <trd>&lstroke;a&nacute;cuch</trd>,
+      <trd>ci&aogonek;g</trd>
+    </trdgrp>
+    <trd lng="pt">cadeia</trd>
+    <trdgrp lng="ru">
+      <trd>&c_s;&c_t;&c_r;&c_o;&c_k;&c_a;</trd>,
+      <trd>&c_c;&c_je;&c_p;&c_o;&c_ch;&c_k;&c_a;</trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_l;&c_a;&c_n;&c_c;&c_u;&c_g;</trd>,
+    <trd>&c_l;&c_a;&c_n;&c_c;&c_u;&c_zh;&c_o;&c_k;</trd>
+  </trdgrp>
+  <trd lng="bg">&c_v;&c_je;&c_r;&c_i;&c_g;&c_a;</trd>
+  <trd lng="de">Kette</trd>
+  <trd lng="es">cadena</trd>
+  <trd lng="it">stringa<klr> (inform.)</klr></trd>
+  <trd lng="nl">ketting</trd>
+  <trdgrp lng="ru">
+    <trd>&c_c;&c_je;&c_p;&c_mol;</trd>,
+    <trd>&c_c;&c_je;&c_p;&c_o;&c_ch;&c_k;&c_a;</trd>
+  </trdgrp>
+  <trd lng="sk">re&tcaron;az</trd>
+  <trd lng="tp">linja</trd>
+</drv>
+
+<drv mrk="cxen.0ero">
+  <kap><tld/>ero</kap>
+  <snc mrk="cxen.0ero.TEK">
+    <dif>
+      &Ccirc;iu aparta ringo de <tld/>o.
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="masx.0o">ma&scirc;o</ref>.
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_z;&c_mol;&c_v;&c_ja;&c_n;&c_o;
+  <klr tip="amb">(&c_l;&c_a;&c_n;&c_c;&c_u;&c_g;&c_a;)</klr></trd>
+  <trd lng="de">Kettenglied</trd>
+  <trd lng="en">link</trd>
+  <trd lng="es">eslab&oacute;n</trd>
+  <trd lng="fr">chainon</trd>
+  <trd lng="he">&het;&vav;&lamed;&yod;&he;</trd>
+  <trd lng="id"><ind>mata</ind> rantai</trd>
+  <trd lng="it">anello<klr> (di catena)</klr></trd>
+  <trd lng="nl">schakel</trd>
+  <trdgrp lng="pl">
+    <trd>ogniwo<klr> (tylko w &lstroke;a&nacute;cuchach
+    pier&sacute;cieniowych [ogniwowych])</klr></trd>,
+    <trd>element &lstroke;a&nacute;cucha</trd>
+  </trdgrp>
+  <trd lng="pt">elo</trd>
+  <trd lng="ru">&c_z;&c_v;&c_je;&c_n;&c_o;
+  <klr>(&c_c;&c_je;&c_p;&c_i;)</klr></trd>
+  <trd lng="sk">ohnivko</trd>
+</drv>
+
+<drv mrk="cxen.0i">
+  <kap><tld/>i<fnt>Z</fnt>,
+  <var><kap>en<tld/>igi<fnt>Z</fnt></kap></var></kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="cxen.0i.KOMUNE">
+    <dif>
+      Ligi per <tld/>o.
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_k;&c_a;&c_v;&c_a;&c_c;&c_mol;
+    <klr tip="amb">(&c_l;&c_a;&c_n;&c_c;&c_u;&c_g;&c_o;&c_m;)</klr>
+    </trd>,
+    <trd>&c_p;&c_a;&c_s;&c_a;&c_d;&c_z;&c_ib;&c_c;&c_mol; &c_n;&c_a;
+    <ind>&c_l;&c_a;&c_n;&c_c;&c_u;&c_g;</ind></trd>
+  </trdgrp>
+  <trd lng="de">anketten</trd>
+  <trd lng="es">encadenar</trd>
+  <trdgrp lng="fr">
+    <trd>chainer</trd>,
+    <trd>enchainer</trd>
+  </trdgrp>
+  <trd lng="id">[<ind>rantai</ind>] merantai</trd>
+  <trd lng="it">incatenare</trd>
+  <trd lng="nl">vastketenen</trd>
+  <trdgrp lng="pl">
+    <trd>skuwa&cacute; <ind>&lstroke;a&nacute;cuchem</ind></trd>,
+    <trd>wi&aogonek;za&cacute; <ind>&lstroke;a&nacute;cuchem</ind>
+    </trd>,
+    <trd>p&eogonek;ta&cacute; <ind>&lstroke;a&nacute;cuchem</ind></trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>acorrentar</trd>,
+    <trd>encadear</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_k;&c_o;&c_v;&c_a;&c_t;&c_mol;
+    <klr>(&c_c;&c_je;&c_p;&c_mol;&c_ju;)</klr></trd>,
+    <trd>&c_p;&c_o;&c_s;&c_a;&c_d;&c_i;&c_t;&c_mol; &c_n;&c_a;
+    <ind>&c_c;&c_je;&c_p;&c_mol;</ind></trd>
+  </trdgrp>
+  <adm>
+    Mi vidas sencdiferencon inter "&ccirc;eni" kaj
+    "en&ccirc;enigi". <aut>MB</aut>
+  </adm>
+</drv>
+
+<drv mrk="cxen.el0igi">
+  <kap>el<tld/>igi<fnt>Z</fnt></kap>
+  <snc mrk="cxen.el0igi.TEK">
+    <dif>
+      Liberigi de <tld/>o:
+      <ekz>
+        el<tld/>igita hundo.
+      </ekz>
+    </dif>
+    <trdgrp lng="it">
+     <trd><ind>liberare</ind> dalle catene</trd>, 
+     <trd>sguinzagliare</trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>spuszcza&cacute; z <ind>&lstroke;a&nacute;cucha</ind></trd>,
+      <trd>oswobadza&cacute; z <ind>&lstroke;a&nacute;cucha</ind></trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="cxen.el0igi.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Senbridigi:
+      <ekz>
+        el<tld/>igita kolero;
+      </ekz>
+      <ekz>
+        milito el<tld/>igis &ccirc;iujn malvirtojn.
+      </ekz>
+    </dif>
+   <trdgrp lng="it">
+     <trd>scatenare</trd>, 
+     <trd>sguinzagliare<klr> (fig.)</klr></trd>
+    </trdgrp>
+  </snc>
+  <trd lng="be">&c_s;&c_p;&c_u;&c_s;&c_mol;&c_c;&c_ib;&c_c;&c_mol;
+  &c_z; <ind>&c_l;&c_a;&c_n;&c_c;&c_u;&c_g;&c_a;</ind></trd>
+  <trd lng="de">entfesselt</trd>
+  <trd lng="fr">d&eacute;chainer</trd>
+  <trd lng="nl">ontketenen</trd>
+  <trdgrp lng="pt">
+    <trd>desacorrentar</trd>,
+    <trd>desencadear</trd>
+  </trdgrp>
+  <trd lng="ru">&c_s;&c_p;&c_u;&c_s;&c_t;&c_i;&c_t;&c_mol; &c_s;
+  <ind>&c_c;&c_je;&c_p;&c_i;</ind></trd>
+</drv>
+
+<drv mrk="cxen.kun0igxo">
+  <kap>kun<tld/>i&gcirc;o</kap>
+  <snc mrk="cxen.kun0igxo.KOMUNE">
+    <dif>
+      <ref tip="vid" cel="vic.0o">Vico</ref>,
+      <ref tip="vid" cel="cxen.0o.FIG">&ccirc;eno</ref>,
+      sinsekvo de interligitaj eroj:
+      <ekz>
+        stranga kun<tld/>i&gcirc;o de la cirkonstancoj
+        <fnt>
+          <aut>A. Pu&scirc;kin, trad. M. I. &Scirc;idlovskaja</aut>,
+          <vrk><url
+          ref="http://cindymckee.com/librejo/Puskin,Aleksandr-Lafilinodelakapitano.pdf">
+          La Kapitanfilino</url></vrk>,
+          <lok>1927</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="asoci.0o.kunligiteco">asocio<sncref/></ref>
+    </refgrp>
+  </snc>
+  <trd lng="fr">enchainement</trd>
+</drv>
+
+<drv mrk="cxen.mangxo0o">
+  <kap>man&gcirc;o<tld/>o,
+  <var><kap>nutro<tld/>o</kap></var></kap>
+  <snc mrk="cxen.mangxo0o.EKOL">
+    <uzo tip="fak">EKOL</uzo>
+    <dif>
+      Natura interrilato de vivulaj specoj, pro kiu
+      iuj man&gcirc;as aliajn, kiuj siavice man&gcirc;as aliajn...:
+      <ekz>
+        poluadoj eniros la grundon, atingos la akvon en la grundo 
+        <klr>...</klr> eniros la nutro<tld/>on
+        <fnt>
+          <aut>D. Pell&eacute;</aut>,
+          <vrk><url ref="http://dominiko.livejournal.com/27702.html">
+          Fuku&scirc;ima</url></vrk>,
+          <lok>2011-06-05</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">chaine alimentaire</trd>
+</drv>
+</art>
+<!--
+$Log: cxen.xml,v $
+Revision 1.33  2015/08/14 15:10:15  revo
+Jeromo Vasxe: + kun~igxo
+
+Revision 1.32  2014/10/04 16:10:28  revo
+Jeromo Vasxe: + mangxo~o
+
+Revision 1.31  2014/06/30 10:10:18  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.30  2012/10/23 00:11:26  revo
+Neil Roberts: aldonu la etikedon <var>
+
+Revision 1.29  2010/04/24 17:06:29  revo
+Wieland Pusch: +trd bg
+
+Revision 1.28  2009/04/17 19:50:36  revo
+Antonio Codazzi: +trd it
+
+Revision 1.27  2008/06/05 16:30:18  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.26  2006/10/04 16:30:29  revo
+-->
+</vortaro>

@@ -1,0 +1,132 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: lacx.xml,v 1.25 2015/01/29 04:10:54 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>la&ccirc;</rad>/o
+</kap>
+<drv mrk="lacx.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="lacx.0o.TEKS">
+    <uzo tip="fak">TEKS</uzo>
+    <dif>
+      &Scirc;nureto, kiun oni trapasigas tra specialaj truetoj por stre&ccirc;i kaj
+      kunligi du partojn de vestoj,      korseto, &scirc;uo kaj ceteraj:
+      <ekz>
+        vi e&ccirc; ne povas atingi viajn <ind>&scirc;u<tld/>o</ind>jn, kiam vi
+        klini&gcirc;as
+        <fnt><bib>&Scirc;talrato</bib>, <lok>&ccirc;apitro 4a</lok></fnt>.
+        <trd lng="ca">cord&oacute; de les sabates</trd>
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_sh;&c_n;&c_u;&c_r;</trd>
+  <trd lng="br">las</trd>
+  <trd lng="ca">cord&oacute;</trd>
+  <trdgrp lng="de">
+     <trd>Schn&uuml;rband</trd>,
+     <trd>Schn&uuml;rriemen</trd>,
+     <trd>Schn&uuml;rsenkel<klr> [por &scirc;uoj]</klr></trd>,
+     <trd>Schuhb&auml;ndel<klr> [por &scirc;uoj, sudgermane]</klr></trd>
+  </trdgrp>
+  <trd lng="en">lace</trd>
+  <trdgrp lng="es">
+    <trd>cinta</trd>,
+    <trd>cord&oacute;n</trd>
+  </trdgrp>
+  <trd lng="fr">lacet</trd>
+  <trdgrp lng="hu">
+     <trd>f&udblac;z&odblac;</trd>,
+     <trd>cip&odblac;f&udblac;z&odblac;</trd>,
+     <trd>ruhaf&udblac;z&odblac;</trd>,
+     <trd>f&udblac;z&odblac;zsin&oacute;r</trd>
+  </trdgrp>  
+  <trd lng="id"><ind>tali</ind> (sepatu)</trd>
+  <trd lng="nl">veter</trd>
+  <trd lng="pl">sznur&oacute;wka</trd>
+  <trdgrp lng="pt">
+     <trd>cadar&ccedil;o</trd>,
+     <trd>cord&atilde;o</trd>,
+     <trd>atilho</trd>,
+       </trdgrp>  
+  <trd lng="ru">&c_sh;&c_n;&c_u;&c_r;&c_o;&c_k;</trd>
+</drv>
+
+<drv mrk="lacx.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="lacx.0i.TEKS">
+    <dif>
+      Kunligi per <tld/>o:
+      <ekz>
+        <tld/>i &scirc;uojn;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        mi ne volas <tld/>i mian volon per le&gcirc;oj<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_sh;&c_n;&c_u;&c_r;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="br">lasa&ntilde;</trd>
+  <trdgrp lng="ca">
+    <trd>lligar</trd>,
+    <trd>nuar</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+     <trd>schn&uuml;ren</trd>,
+     <trd>zuschn&uuml;ren</trd>,
+     <trd>einschn&uuml;ren</trd>,
+     <trd>einengen<klr> [volon, elekteblon ktp]</klr></trd>
+  </trdgrp>
+  <trd lng="en">lace</trd>
+  <trdgrp lng="es">
+    <trd>anudar</trd>,
+    <trd>enlazar</trd>,
+    <trd>atar</trd> 
+  </trdgrp>
+  <trd lng="fr">lacer</trd>
+  <trdgrp lng="hu">
+    <trd>&ouml;sszef&udblac;z</trd>,
+    <trd>&ouml;sszezsin&oacute;roz</trd>
+  </trdgrp>    
+  <trd lng="nl">rijgen<klr> (met een veter)</klr></trd>
+  <trdgrp lng="pl">
+    <trd>sznurowa&cacute; <klr>(buty)</klr></trd>,
+    <trd>zawi&aogonek;za&cacute; <klr>(buty)</klr></trd>
+  </trdgrp>
+  <trd lng="pt">amarrar</trd>
+  <trdgrp lng="ru">
+    <trd>&c_sh;&c_n;&c_u;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_s;&c_v;&c_ja;&c_z;&c_y;&c_v;&c_a;&c_t;&c_mol; <klr>(&c_v; &c_p;&c_je;&c_r;&c_je;&c_n;&c_o;&c_s;&c_n;&c_o;&c_m; &c_s;&c_m;&c_y;&c_s;&c_l;&c_je;)</klr></trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: lacx.xml,v $
+Revision 1.25  2015/01/29 04:10:54  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.24  2013/01/01 15:10:18  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.23  2012/10/26 12:10:09  revo
+Carlos Garcia: krkt es -o (laux difino lazo estas banto, ne lacxo) +trd
+es -i
+
+Revision 1.22  2012/06/03 16:10:08  revo
+Tulio Flores: korekto traduko pt
+
+Revision 1.21  2011/12/03 14:10:09  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.20  2005/12/27 17:30:59  revo
+Jeromo Vasxe: + 1 ekz
+
+Revision 1.19  2005/04/06 16:36:53  revo
+Alan ar Gall: +trd br
+
+-->
+</vortaro>

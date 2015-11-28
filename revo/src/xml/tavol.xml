@@ -1,0 +1,242 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: tavol.xml,v 1.24 2015/10/23 05:10:18 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>tavol</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="tavol.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="tavol.0o.KOMUNE">
+    <dif>
+      Maldika etendita&jcirc;o da iu substanco sur io alia:
+      <ekz>
+        dika <tld/>o da fojno, da ne&gcirc;o, da nuboj;
+      </ekz>
+      <ekz>
+        maldika <tld/>o da akvo, da butero;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        glacia <tld/>o da anta&ubreve;ju&gcirc;oj kontra&ubreve;staris
+        al ni<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="stern.0ajxo">sterna&jcirc;o</ref>,
+      <ref cel="sedime.0o">sedimento</ref>,
+      <ref cel="tapisx.0o">tapi&scirc;o</ref>,
+      <ref cel="teg.0o">tego</ref>.
+    </refgrp>
+  </snc>
+  <trd lng="en">layer</trd>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_l;&c_o;&c_j;</trd>,
+    <trd>&c_p;&c_l;&c_a;&c_s;&c_t;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>geologick&aacute; vrstva</trd>,
+    <trd>sloj</trd>
+  </trdgrp>
+  <trd lng="de">Schicht</trd>
+  <trdgrp lng="es">
+    <trd>estrato</trd>,
+    <trd>capa</trd>
+  </trdgrp><trdgrp lng="es">
+    <trd>estrato<klr> (social)</klr></trd>,
+    <trd>clase<klr> (social)</klr></trd>
+  </trdgrp>
+  <trd lng="fr">couche</trd>
+  <trd lng="hu">r&eacute;teg</trd>
+  <trd lng="nl">laag</trd>
+  <trd lng="pl">warstwa</trd>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_l;&c_o;&c_j;</trd>,
+    <trd>&c_p;&c_l;&c_a;&c_s;&c_t;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>geologick&aacute; vrstva</trd>,
+    <trd>sloj</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="tavol.0igi">
+  <kap><tld/>igi</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="tavol.0igi.KOMUNE">
+    <dif>
+      Aran&gcirc;i, dividi la&ubreve; <tld/>oj.
+    </dif>
+  </snc>
+  <trd lng="en">to layer</trd>
+  <trd lng="be">
+  &c_r;&c_a;&c_s;&c_s;&c_l;&c_o;&c_j;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>navrstvit</trd>,
+    <trd>rozvrstvit</trd>
+  </trdgrp>
+  <trd lng="es">estratificar</trd>
+  <trd lng="fr">stratifier</trd>
+  <trd lng="hu">r&eacute;tegez</trd>
+  <trdgrp lng="pl">
+    <trd>pokrywa&cacute; <ind>warstwami</ind></trd>,
+    <trd>nawarstwia&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>estratificar</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>
+    &c_r;&c_a;&c_s;&c_s;&c_l;&c_a;&c_i;&c_v;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_r;&c_a;&c_s;&c_s;&c_l;&c_o;&c_i;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>navrstvi&tcaron;</trd>,
+    <trd>rozvrstvi&tcaron;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="tavol.glob0o">
+  <kap>glob<tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>MatVort</bib></fnt>
+  <snc mrk="tavol.glob0o.MAT">
+    <dif>
+      Parto de
+      <ref tip="malprt" cel="sfer.0o.solido">sfero <sncref/></ref>,
+      situanta inter du paralelaj ebenoj, sekcantaj la sferon.
+    </dif>
+    <ref tip="sin" cel="disk.sfer0o">sferdisko.</ref>
+    <rim>
+      Kiam unu el la ebenoj tan&gcirc;as la sferon, oni ricevas
+      <ref tip="sub" cel="segmen.0o.sfero">segmenton (de sfero)</ref>.
+      Tial glob<tld/>o en iuj naciaj lingvoj nomi&gcirc;as
+      <ctl>dubaza sfera segmento</ctl>.
+    </rim>
+  </snc>
+  <trd lng="be">
+  &c_sh;&c_a;&c_r;&c_a;&c_v;&c_y; &c_p;&c_l;&c_a;&c_s;&c_t;</trd>
+  <trd lng="de">Kugelschicht</trd>
+  <trd lng="en">spherical <ind>layer</ind></trd>
+  <trd lng="fr">segment sph&eacute;rique &agrave; deux bases</trd>
+  <trd lng="hu">g&ouml;mbr&eacute;teg</trd>
+  <trd lng="pl">warstwa kuli</trd>
+  <trd lng="ru">
+  &c_sh;&c_a;&c_r;&c_o;&c_v;&c_o;&c_j; <ind>&c_s;&c_l;&c_o;&c_j;</ind>
+  </trd>
+</drv>
+
+<drv mrk="tavol.ter0o">
+  <kap>ter<tld/>o</kap>
+  <snc mrk="tavol.ter0o.GEOL">
+    <uzo tip="fak">GEOL</uzo>
+    <dif>
+      Horizontala <tld/>o da tero; speciale
+      tia strio kun unuecaj aspekto, konsisto kaj deveno,
+      <ref tip="sin" cel="stratum.0o.GEOL">stratumo</ref>:
+      <ekz>
+        estis frapiloj, splitoj kaj &scirc;tonkernoj <klr>...</klr>
+        en ter<tld/>o, kiu certe formi&gcirc;is anta&ubreve; la lasta glacia
+        epoko
+        <fnt>
+          <aut>H. Laine</aut>,
+          <vrk>Enigmo de trans la glacia epoko</vrk>,
+          <bib>Monato</bib>,
+          <lok>[1997-2003]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="en">
+    <trd>soil layer</trd>,
+    <trd>soil horizon</trd>, <trd>soil profile</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>couche de terre</trd>,
+    <trd>strate</trd>
+  </trdgrp>
+  <trd lng="pl">warstwa <klr>geologiczna</klr></trd>
+</drv>
+
+<drv mrk="tavol.sub0o">
+  <kap>sub<tld/>o</kap>
+  <snc mrk="tavol.sub0o.KOMUNE">
+    <dif>
+      Suba, malsupra <tld/>o:
+      <ekz>
+        gazeto servis kiel sub<tld/>o por tapeto
+        <fnt>
+        <aut>W. Usakiewicz</aut>,
+        <vrk><url
+        ref="http://www.polskieradio.pl/eo/dokument.aspx?iid=39026">
+        Trarigardo de la E-gazetaro</url></vrk>,
+        <lok>Pola Radio, 2006-07-11</lok></fnt>
+      </ekz>
+    </dif>
+    <trd lng="en">underlayer</trd>
+  </snc>
+  <snc mrk="tavol.sub0o.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Anta&ubreve;a bazo de io postveninta:
+      <ekz>
+        <uzo tip="fak">LIN</uzo>
+        la plej influa sub<tld/>a lingvo estas kutime la lingvo
+        parolata kun la samklasanoj kaj kunludantoj dum la jaroj
+        lernejaj
+        <fnt>
+        <aut>C. Piron</aut>,
+        <vrk><url ref="http://www.ie.esperanto.org.il/139/2.html">
+        &Ccirc;u la jida influis Esperanton?</url></vrk>,
+        <lok>Israela esperantisto, 2004-07</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="substr.0o">substrato</ref>
+    </refgrp>
+    <trdgrp lng="en">
+      <trd>supporting base</trd>,
+      <trd>substratum</trd>, <trd>substrate</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="cs">podlo&zcaron;&iacute;</trd>
+  <trdgrp lng="fr">
+    <trd>sous-couche</trd>,
+    <trd>substrat</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>podk&lstroke;ad</trd>,
+    <trd>baza</trd>
+  </trdgrp>
+  <trd lng="sk">podlo&zcaron;ie</trd>
+</drv>
+</art>
+<!--
+$Log: tavol.xml,v $
+Revision 1.24  2015/10/23 05:10:18  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.23  2015/09/17 12:10:27  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.22  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.21  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.20  2012/09/13 09:10:10  revo
+Jeromo Vasxe: + ter~o
+
+Revision 1.19  2008/10/24 16:40:45  revo
+Sebastian Cyprych: sub~o: +trd pl
+
+Revision 1.18  2008/07/06 17:22:07  revo
+Jeromo Vasxe: + sub~o
+
+Revision 1.17 2008/05/09 19:11:45 revo
+-->
+</vortaro>

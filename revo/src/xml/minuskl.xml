@@ -1,0 +1,170 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: minuskl.xml,v 1.21 2015/10/28 06:10:15 revo Exp $">
+<kap>
+  <ofc>9</ofc><rad>minuskl</rad>/o <fnt><bib>SPV</bib></fnt>
+</kap>
+<drv mrk="minuskl.0a">
+  <kap><ofc>9</ofc><tld/>a</kap>
+  <snc mrk="minuskl.0a.TIP">
+    <uzo tip="fak">HIS</uzo>
+    <uzo tip="fak">KOMP</uzo>
+    <uzo tip="fak">TIP</uzo>
+    <dif>
+      <klr>(pri signo)</klr>
+      Apartenanta al <ref tip="vid" cel="sign.0aro.KOMP">signaro</ref>,
+      kies <ref cel="sign.0obildo">signobildoj</ref> havas trunkon
+      enskribeblan inter du paralelaj horizontalaj linioj, trans
+      kiujn povas eliri kromelementoj pli profundaj (kiel la
+      penda&jcirc;oj de la esperantaj g, j, p), a&ubreve; pli altaj
+      (kiel la la malpenda&jcirc;oj de la esperantaj d, h, t):
+      <ekz>
+        <uzo tip="fak">TIP</uzo>
+        la <ind><tld/>aj ciferoj</ind>;
+        <trd lng="en">old-style figures</trd>
+        <trd lng="ru">&c_m;&c_i;&c_n;&c_u;&c_s;&c_k;&c_u;&c_l;&c_mol;&c_n;&c_y;&c_je; &c_c;&c_i;&c_f;&c_r;&c_y;</trd>
+      </ekz>
+      <ekz>
+        <uzo tip="fak">HIS</uzo>
+        la <ind>karolida skribo <tld/>a</ind> formis bazon por la
+        novlatinaj etliteroj.
+        <trd lng="de">karolingische Minuskelschrift</trd>
+        <trd lng="hu">Karoling-minuszkula</trd>
+        <trd lng="en">Carolingian minuscule <klr>(writing)</klr></trd>
+        <trd lng="nl">Karolingisch minuskelschrift</trd>
+        <trd lng="pl">minusku&lstroke;a karoli&nacute;ska</trd>
+        <trd lng="ru">&c_k;&c_a;&c_r;&c_o;&c_l;&c_i;&c_n;&c_g;&c_s;&c_k;&c_i;&c_j; &c_m;&c_i;&c_n;&c_u;&c_s;&c_k;&c_u;&c_l;</trd>
+      </ekz>
+    </dif>
+    <bld lok="../bld/mincif.png">
+      la <tld/>aj ciferoj
+    </bld>
+  </snc>
+  <ref tip="ant" cel="majuskl.0a">majuskla</ref>
+  <trdgrp lng="be">
+    <trd>&c_m;&c_ib;&c_n;&c_u;&c_s;&c_k;&c_u;&c_l;&c_mol;&c_n;&c_y; <klr tip="amb">(&c_s;&c_p;&c_o;&c_s;&c_a;&c_b;
+    &c_p;&c_ib;&c_s;&c_mol;&c_m;&c_a;)</klr></trd>,
+    <trd>&c_m;&c_a;&c_l;&c_a;&c_ja; <klr tip="amb">(&c_l;&c_ib;&c_t;&c_a;&c_r;&c_a;)</klr></trd>
+  </trdgrp>
+  <trd lng="ca">min&uacute;scul<klr> (escr.)</klr></trd>
+  <trdgrp lng="de">
+    <trd>klein geschrieben</trd>,
+    <trd>Minuskel-</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>minuscule <klr>(script)</klr></trd>;
+    <trd>small <klr>(letter)</klr></trd>,
+    <trd>lowercase <klr>(letter)</klr></trd>
+  </trdgrp>
+  <trd lng="es">min&uacute;sculo </trd>
+  <trdgrp lng="fr">
+    <trd>minuscule<klr> (adj..)</klr></trd>,
+    <trd>bas de casse<klr> (adj.)</klr></trd>
+  </trdgrp>
+  <trd lng="hu">kisbet&udblac;s</trd>
+  <trd lng="nl">onderkast-</trd>
+  <trdgrp lng="pl">
+    <trd>minusku&lstroke;&aogonek;</trd>,
+    <trd>ma&lstroke;&aogonek; <ind>liter&aogonek;</ind></trd>
+  </trdgrp>
+  <trd lng="pt">min&uacute;sculo</trd>
+  <trdgrp lng="ru">
+    <trd>&c_m;&c_i;&c_n;&c_u;&c_s;&c_k;&c_u;&c_l;&c_mol;&c_n;&c_y;&c_j; <klr>(&c_o; &c_p;&c_i;&c_s;&c_mol;&c_m;&c_je;)</klr></trd>;
+    <trd>&c_s;&c_t;&c_r;&c_o;&c_ch;&c_n;&c_a;&c_ja; <klr>(&c_b;&c_u;&c_k;&c_v;&c_a;)</klr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="minuskl.0o">
+  <kap><ofc>9</ofc><tld/>o</kap>
+  <snc mrk="minuskl.0o.TIP">
+    <uzo tip="fak">GRA</uzo>
+    <uzo tip="fak">TIP</uzo>
+    <uzo tip="fak">KOMP</uzo>
+    <ref tip="dif" cel="liter.malgranda0o">malgranda litero</ref>
+  </snc>
+  <ref tip="ant" cel="majuskl.0o">majusklo</ref>
+  <trd lng="be">&c_m;&c_a;&c_l;&c_a;&c_ja; <ind>&c_l;&c_ib;&c_t;&c_a;&c_r;&c_a;</ind></trd>
+  <trdgrp lng="ca">
+    <trd>min&uacute;scula</trd>,
+    <trd>lletra min&uacute;scula</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Kleinbuchstabe</trd>,
+    <trd>Minuskel</trd>
+  </trdgrp>
+  <trd lng="es">min&uacute;scula (letra)</trd>
+  <trdgrp lng="fr">
+    <trd>minuscule<klr> (nom)</klr></trd>,
+    <trd>bas de casse<klr> (nom)</klr></trd>
+  </trdgrp>
+  <trd lng="hu">kisbet&udblac;</trd>
+  <trdgrp lng="nl">
+    <trd>onderkastletter</trd>,
+    <trd>minuskel</trd>,
+    <trd>kleine <ind>letter</ind></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>minusku&lstroke;a</trd>,
+    <trd>ma&lstroke;a <ind>litera</ind></trd>,
+    <trd>litera tekstowa</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+   <trd>min&uacute;scula <klr>(tip.)</klr></trd>,
+    <trd>letra min&uacute;scula</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="minuskl.0igi">
+  <kap><tld/>igi</kap>
+  <snc>
+    <uzo tip="fak">TIP</uzo>
+    <uzo tip="fak">KOMP</uzo>
+    <dif>
+      Transformi en <tld/>an skribon:
+      <ekz>
+        la DOS-a dosiernomo <ctl>USKL.XML</ctl> <tld/>igite i&gcirc;as
+        <ctl>uskl.xml</ctl>.
+      </ekz>
+    </dif>
+  </snc>
+  <ref tip="vid" cel="uskl.0o">usklo</ref>
+  <trd lng="ca">escriure en min&uacute;scules</trd>
+  <trd lng="en"><klr>to</klr> <ind>lowercase</ind></trd>
+  <trd lng="es">pasar a min&uacute;sculas</trd>
+  <trd lng="hu">kisbet&udblac;s&iacute;t</trd>
+  <trdgrp lng="nl">
+    <trd>klein maken<klr tip="ind"> (v. letters)</klr></trd>,
+    <trd>in <ind>onderkast</ind> zetten</trd>
+  </trdgrp>
+  <trd lng="ru">&c_o;&c_p;&c_u;&c_s;&c_t;&c_i;&c_t;&c_mol; &c_v; <ind>&c_n;&c_i;&c_zh;&c_n;&c_i;&c_j;
+  &c_r;&c_je;&c_g;&c_i;&c_s;&c_t;&c_r;</ind></trd>
+</drv>
+</art>
+<!--
+$Log: minuskl.xml,v $
+Revision 1.21  2015/10/28 06:10:15  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.20  2014/07/07 07:10:12  revo
+Damien Brucker: +ref (dauxrigo)
+
+Revision 1.19  2014/06/28 15:10:19  revo
+Damien Brucker: +ref
+
+Revision 1.18  2013/09/07 09:10:18  revo
+Sergio Pokrovskij: pendajxoj, malpendajxoj
+
+Revision 1.17  2012/08/20 00:10:22  revo
+Marc Rausell: + trd ca
+
+Revision 1.16  2012/04/23 09:10:12  revo
+Dominique Pelle: (ripetita vorto) kiel la la -> kiel la
+
+Revision 1.15  2009/08/13 16:30:32  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.14  2009/03/01 17:33:04  revo
+-->
+</vortaro>

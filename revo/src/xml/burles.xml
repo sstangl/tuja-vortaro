@@ -1,0 +1,159 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: burles.xml,v 1.17 2015/07/04 08:37:31 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>burlesk</rad>/a
+</kap>
+<drv mrk="burles.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="burles.0a.TEA">
+    <uzo tip="fak">BELE</uzo>
+    <uzo tip="fak">TEA</uzo>
+    <dif>
+      Ekstravagance komika, kontrastiganta la noblecon de la temo kun la
+      trivialeco de la stilo:
+      <ekz>
+        <tld/>a poemo.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_b;&c_u;&c_r;&c_l;&c_je;&c_s;&c_k;&c_n;&c_y;</trd>
+  <trdgrp lng="cs">
+    <trd>burleskní</trd>,
+    <trd>drsně komický</trd>,
+    <trd>žertovný</trd>
+  </trdgrp>
+  <trd lng="de">burlesk</trd>
+  <trd lng="en">burlesque</trd>
+  <trd lng="es">burlesco</trd>
+  <trd lng="fr">burlesque</trd>
+  <trdgrp lng="hu">
+    <trd>burleszk</trd>,
+    <trd>kacagtat&oacute;</trd>
+  </trdgrp>
+  <trd lng="it">burlesco</trd>
+  <trdgrp lng="pl">
+    <trd>burleskowy</trd>,
+    <trd>krotochwilny</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_b;&c_u;&c_r;&c_l;&c_je;&c_s;&c_k;&c_n;&c_y;&c_j;</trd>,
+    <trd>
+    &c_v;&c_y;&c_ch;&c_u;&c_r;&c_n;&c_o;-
+    &c_k;&c_o;&c_m;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j;
+    </trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>burleskný</trd>,
+    <trd>fraškovitý</trd>,
+    <trd>komický</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="burles.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="burles.0o.TEA">
+    <uzo tip="fak">BELE</uzo>
+    <uzo tip="fak">TEA</uzo>
+    <dif>
+      Burleska <ref tip="super" cel="teatr.0ajxo">teatra&jcirc;o</ref>
+      a&ubreve; poemo:
+      <ekz>
+        &Gcirc;i similas <tld/>an ske&ccirc;on, sed ne politikan satiron
+        <fnt>
+          <aut>Etelo Liliano VOJNI&Ccirc;, trad. Vladimir OKC</aut>,
+          <vrk>
+            Ojstro verkas pamfletojn
+          </vrk>,
+          <lok>Parto II,  &Ccirc;apitro 3</lok>
+        </fnt>
+      </ekz>
+    </dif>
+    <ref tip="super" cel="komedi.0o.TEA">komedio</ref>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>fraška</trd>,
+    <trd>žert</trd>
+  </trdgrp>
+  <trd lng="it">commedia burlesca</trd>
+  <trdgrp lng="pl">
+    <trd>burleska</trd>,
+    <trd>krotochwila</trd>
+  </trdgrp>
+  <trd lng="sk">fraška</trd>
+</drv>
+
+<drv mrk="burles.0ulo">
+  <kap><tld/>ulo</kap>
+  <snc mrk="burles.0ulo.BELE">
+    <uzo tip="fak">BELE</uzo>
+    <uzo tip="fak">TEA</uzo>
+    <dif>
+      <ref tip="super" cel="rol.0ulo.BELE">Rolulo</ref> kiu prezentas
+      malnoblan, komikan rolon, kontraste al pli noblaj.
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="amuz.0isto.KOMUNE">amuzisto</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_b;&c_l;&c_a;&c_z;&c_a;&c_n;</trd>
+  <trdgrp lng="cs">
+    <trd>tatrman</trd>,
+    <trd>šašek</trd>
+  </trdgrp>
+  <trd lng="es">buf&oacute;n</trd>
+  <trdgrp lng="fr">
+    <trd>bouffon</trd>,
+    <trd>amuseur</trd>,
+    <trd>comique burlesque <klr tip="ind">(amuseur)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>m&oacute;kamester</trd>,
+    <trd>nevettet&odblac;</trd>
+  </trdgrp>
+  <trdgrp lng="it">
+    <trd>buffone</trd>,
+    <trd>comico</trd>
+  </trdgrp>
+  <trd lng="ru">&c_sh;&c_u;&c_t;</trd>
+  <trdgrp lng="sk">
+    <trd>komik</trd>,
+    <trd>pajác</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: burles.xml,v $
+Revision 1.17  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.15  2011/12/05 23:10:19  revo
+Eduardo Navas: +trad es
+
+Revision 1.14  2010/05/24 16:30:29  revo
+Antonio Codazzi: +trd it
+
+Revision 1.13  2010/04/14 06:06:02  revo
+Jose Antonio del Barrio: +trd es
+
+Revision 1.12  2008/05/05 16:30:20  revo
+Sebastian Cyprych: + ~o +trd pl
+
+Revision 1.11  2005/04/18 16:31:26  revo
+Jeromo Vasxe: + mrk + tez
+
+Revision 1.10 2003/12/03 17:31:44 revo
+Dmitri Gabinski: +trd be
+
+Revision 1.9 2003/05/15 16:32:24 revo
+Christopher Zervic: + ang
+
+Revision 1.8 2003/03/19 17:32:09 revo
+-->
+</vortaro>

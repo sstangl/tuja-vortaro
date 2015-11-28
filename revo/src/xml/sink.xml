@@ -1,0 +1,116 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: sink.xml,v 1.13 2015/07/04 08:37:43 revo Exp $">
+<kap>
+  <rad>sink</rad>/i <fnt><bib>SPV</bib></fnt>
+</kap>
+<drv mrk="sink.0i">
+  <kap><tld/>i</kap>
+  <snc mrk="sink.0i.mallevigxi">
+    <dif>
+      <ref tip="super" cel="lev.mal0igxi.malaltigxi">Mallevi&gcirc;i</ref>
+      pro
+      propra pezo:
+      <ekz>
+        dis&jcirc;etite iuj pecoj rapide <tld/>is, dum aliaj flosis la&ubreve; la
+        fluo
+        <fnt><bib>RugxDom</bib>, <lok>&ccirc;apitro 62a, volumo 2a, p.
+        331a</lok></fnt>;
+      </ekz>
+      <ekz>
+        bordo, kie ni <tld/>is kelkfoje &gcirc;is la genuo en la &scirc;limon
+        <fnt>
+        <aut>Werner Schad</aut>,
+        <vrk>Orinoko-delto: Indianoj, mar&ccirc;oj, arbarego</vrk>,
+        <bib>Monato</bib>,
+        <lok>jaro 2000a, numero 11a, p. 20a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="merg.0igxi">mergi&gcirc;i</ref>
+    </refgrp>
+  </snc>
+  <snc mrk="sink.0i.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <ref tip="dif" cel="dron.0i.FIG">droni <sncref/></ref>
+    <ekz>
+      ial neniom ofendite per la vorto <ctl>kreteno</ctl>, kaj e&ccirc;
+      agrable
+      surprizite, Ivano ridetis kaj re<tld/>is en la duondormon
+      <fnt><bib>MkM</bib>, <lok>&ccirc;apitro 11a, p. 100a</lok></fnt>.
+    </ekz>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_p;&c_u;&c_s;&c_k;&c_a;&c_c;&c_c;&c_a;</trd>,
+    <trd>&c_p;&c_a;&c_g;&c_r;&c_u;&c_zh;&c_a;&c_c;&c_c;&c_a;</trd>,
+    <trd>&c_s;&c_p;&c_u;&c_s;&c_k;&c_a;&c_c;&c_c;&c_a;</trd>,
+    <trd>&c_z;&c_mol;&c_n;&c_ib;&c_zh;&c_a;&c_c;&c_c;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="bg">
+    <trd>&c_p;&c_o;&c_t;&c_malmol;&c_v;&c_a;&c_m;</trd>,
+    <trd>&c_h;&c_l;&c_malmol;&c_t;&c_v;&c_a;&c_m;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>klesat</trd>,
+    <trd>nořit se</trd>,
+    <trd>padat</trd>,
+    <trd>ponořit se</trd>
+  </trdgrp>
+  <trd lng="en">sink</trd>
+  <trdgrp lng="fr">
+    <trd>s'<ind>enfoncer</ind><klr> (sombrer)</klr></trd>,
+    <trd>sombrer</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>s&uuml;llyed</trd>,
+    <trd>les&uuml;llyed</trd>,
+    <trd>lemer&uuml;l</trd>
+  </trdgrp>
+  <trd lng="nl">zinken</trd>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_o;&c_g;&c_r;&c_u;&c_zh;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>,
+    <trd>&c_o;&c_p;&c_u;&c_s;&c_k;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>,
+    <trd>&c_t;&c_o;&c_n;&c_u;&c_t;&c_mol;</trd>,
+    <trd>&c_i;&c_d;&c_t;&c_i; &c_k;&c_o; &c_d;&c_n;&c_u;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>klesať</trd>,
+    <trd>noriť sa</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: sink.xml,v $
+Revision 1.13  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.12  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.11  2013/09/28 11:10:15  revo
+Joop Eggen: +trd bg
+
+Revision 1.10  2009/10/24 16:32:37  revo
+Russ Williams: +trd en
+
+Revision 1.9  2005/09/08 16:31:25  revo
+Yury Finkel: +trd ru
+
+Revision 1.8  2004/10/15 16:31:29  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.7  2004/02/03 18:31:03  revo
+Jeromo Vasxe: kor fnt piv1 -> spv, + 1 tez
+
+Revision 1.6 2003/09/09 16:30:51 revo
+Paul Peeraerts: ald trd nl + belarangho
+
+Revision 1.5 2003/01/14 17:34:04 revo
+jxeromo vasxe: alia ekz por sinki fig
+
+Revision 1.4 2003/01/11 19:19:56 revo
+-->
+</vortaro>

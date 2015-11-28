@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: patolo.xml,v 1.19 2015/07/04 08:37:41 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>patologi</rad>/o
+</kap>
+<drv mrk="patolo.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="patolo.0o.MED">
+    <uzo tip="fak">MED</uzo>
+    <dif>
+      Bran&ccirc;o de <ref tip="malprt" cel="medici.0o.SCI">medicino</ref>,
+      <ref
+      tip="lst" cel="scienc.0o.fako" lst="voko:sciencoj">scienco</ref> 
+      pri la organaj difekti&gcirc;oj ka&ubreve;zitaj de malsano.
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_t;&c_a;&c_l;&c_jo;&c_g;&c_ib;&c_ja;</trd>
+  <trd lng="bg">&c_p;&c_a;&c_t;&c_o;&c_l;&c_o;&c_g;&c_i;&c_ja;</trd>
+  <trd lng="cs">patologie</trd>
+  <trd lng="de">Pathologie</trd>
+  <trd lng="en">pathology</trd>
+  <trd lng="fr">pathologie</trd>
+  <trdgrp lng="hu">
+    <trd>k&oacute;rtan</trd>,
+    <trd>patol&oacute;gia</trd>
+  </trdgrp>
+  <trd lng="id">patologi</trd>
+  <trd lng="nl">pathologie</trd>
+  <trd lng="pt">patologia</trd>
+  <trd lng="ru">&c_p;&c_a;&c_t;&c_o;&c_l;&c_o;&c_g;&c_i;&c_ja;</trd>
+  <trd lng="sk">patológia</trd>
+</drv>
+</art>
+<!--
+$Log: patolo.xml,v $
+Revision 1.19  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:40:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2014/11/12 08:10:46  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.16  2013/09/22 19:10:57  revo
+Wolfram Diestel: referenco al listo sciencoj
+
+Revision 1.15  2010/04/15 16:30:36  revo
+Wieland Pusch: +trd bg
+
+Revision 1.14  2010/04/14 06:05:39  revo
+Russ Williams: +trd en
+
+Revision 1.13  2006/02/25 17:33:34  revo
+Tulio Flores: +tr pt
+
+Revision 1.12  2005/08/18 16:31:11  revo
+Jeromo Vasxe: + tez part. medicino
+
+Revision 1.11 2003/07/26 08:42:17 revo
+Dmitri Gabinski: +trd be
+
+Revision 1.10 2002/12/09 17:32:53 revo
+-->
+</vortaro>

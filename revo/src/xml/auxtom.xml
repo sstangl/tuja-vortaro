@@ -1,0 +1,287 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: auxtom.xml,v 1.25 2015/07/04 16:10:15 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>a&ubreve;tomat</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="auxtom.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="auxtom.0o.MAS">
+    <uzo tip="fak">MAS</uzo>
+    <dif>
+      <ref tip="super" cel="masxin.0o">Ma&scirc;ino</ref> kapabla mem
+      regi &ccirc;iujn, a&ubreve; almena&ubreve; iujn, siajn funkciojn:
+      <ekz>
+        disdona <tld/>o, pes<tld/>o;
+      </ekz>
+      <ekz>
+        trian fojon &scirc;i venis al la trinkejo por resti tutan tagon,
+        malpli por konsumi ol por konsumi&gcirc;i &ccirc;e la <tld/>o
+        &ccirc;iam mongluta, foje mon&scirc;uta
+        <fnt><aut>I. Ertl</aut>:
+        <vrk><url
+        ref="&Monato;/007588.html">Jarmil&scirc;an&gcirc;o</url></vrk>,
+        <bib>Monato</bib>,
+        <lok>2001:10</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="sub" cel="robot.0o">roboto</ref>
+    <trd lng="en">automat</trd>
+    <trd lng="it">automa</trd>
+    <trd lng="pl">automat</trd>
+  </snc>
+  <snc mrk="auxtom.0o.KOMP">
+    <uzo tip="fak">KOMP</uzo>
+    <uzo tip="fak">MAT</uzo>
+    <dif>
+      <klr>(En teoria komputiko:)</klr>
+      Abstrakta me&hcirc;anismo havanta finian
+      nombron da &leftquot;statoj&rightquot;; &leftquot;eksteran
+      memoron&rightquot;; kaj funkciadon
+      regatan de finia aro da &leftquot;reguloj&rightquot;:
+      <ekz>
+        <ind>finia <tld/>o</ind>;
+        <trd lng="en">finite automaton</trd>
+        <trd lng="hu">v&eacute;ges automata</trd>
+        <trdgrp lng="it">
+         <trd><ind>automa</ind> a stati finiti</trd>
+        </trdgrp>
+        <trd lng="es">aut&oacute;mata finito</trd>
+        <trd lng="pl">automat sko&nacute;czony</trd>
+        <trd lng="ru">&c_k;&c_o;&c_n;&c_je;&c_ch;&c_n;&c_y;&c_j;
+        &c_a;&c_v;&c_t;&c_o;&c_m;&c_a;&c_t;</trd>
+      </ekz>
+      <ekz>
+        <ind>staka <tld/>o</ind>;
+        <trd lng="en">stack automaton</trd>
+        <trd lng="hu">veremautomata</trd>
+        <trd lng="it">automa a pila</trd>
+        <trd lng="es">aut&oacute;mata de pila</trd>
+        <trdgrp lng="ru">
+          <trd>&c_a;&c_v;&c_t;&c_o;&c_m;&c_a;&c_t; &c_s;
+          &c_m;&c_a;&c_g;&c_a;&c_z;&c_i;&c_n;&c_n;&c_o;&c_j;
+          &c_p;&c_a;&c_m;&c_ja;&c_t;&c_mol;&c_ju;</trd>,
+          <trd>&c_s;&c_t;&c_e;&c_k;&c_o;&c_v;&c_y;&c_j;
+          &c_a;&c_v;&c_t;&c_o;&c_m;&c_a;&c_t;</trd>
+        </trdgrp>
+        <trd lng="sk">z&aacute;sobn&iacute;kov&yacute; automat</trd>
+      </ekz>
+      <ekz>
+        <ind>turinga <tld/>o</ind>;
+        <trd lng="en">Turing machine</trd>
+        <trd lng="hu">Turing-f&eacute;le automata</trd>
+        <trd lng="it"><ind>macchina</ind> di Turing</trd>
+        <trd lng="ru">&c_m;&c_a;&c_sh;&c_i;&c_n;&c_a;
+        &c_T;&c_mol;&c_ju;&c_r;&c_i;&c_n;&c_g;&c_a;</trd>
+        <trd lng="es">M&aacute;quina de Turing</trd>
+        <trd lng="pl">maszyna Turinga</trd>
+        <trd lng="sk">Turingov stroj</trd>
+        <trdgrp lng="de">
+           <trd>Turing-Automat</trd>,
+           <trd>Turingscher Automat</trd>,
+           <trd>Turing-Maschine</trd>
+        </trdgrp>
+      </ekz>
+    </dif>
+    <trd lng="en">automaton</trd>
+    <trdgrp lng="it">
+     <trd>macchina<klr> (inf.)</klr></trd>,
+     <trd>automa</trd>
+   </trdgrp>
+    <trd lng="pl">automat</trd>
+  </snc>
+  <trd lng="be">&c_a;&c_w;&c_t;&c_a;&c_m;&c_a;&c_t;</trd>
+  <trd lng="de">Automat</trd>
+  <trd lng="fr">automate</trd>
+  <trd lng="hu">automata</trd>
+  <trd lng="es">aut&oacute;mata</trd>
+  <trd lng="nl">automaat</trd>
+  <trd lng="ru">&c_a;&c_v;&c_t;&c_o;&c_m;&c_a;&c_t;</trd>
+  <trd lng="sk">automat</trd>
+  <trd lng="sv">automat</trd>
+</drv>
+
+<drv mrk="auxtom.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="auxtom.0a.MAS">
+    <dif>
+      Funkcianta per me&hcirc;anismo a&ubreve; programo sen homa
+      direktado:
+      <ekz>
+        <tld/>a aparato;
+      </ekz>
+      <ekz>
+        por ebligi <klr>...</klr> <tld/>an traser&ccirc;adon
+        je cita&jcirc;oj
+        <fnt><aut>W. Diestel</aut>:
+        <vrk>Noto pri XML-igo de la Zamenhofa-Andersenaj
+        &leftquot;Fabeloj&rightquot;.</vrk></fnt>;
+      </ekz>
+      <ekz>
+        la utila funkcio de la internacia lingvo por la estonteco,
+        ekz-e por la <tld/>a traduko kaj informprilaborado
+        <fnt>
+        <aut>V. Barandovsk&aacute;-Frank</aut>:
+        <vrk>Enkonduka lernolibro de interlingvistiko</vrk>,
+        <lok><url
+        ref="http://www.uni-paderborn.de/extern/fb/2/Kyb.Paed/INT/07-int.htm"
+        >&para;5.2</url>.</lok></fnt>.
+      </ekz>
+    </dif>
+    <trd
+    lng="be">&c_a;&c_w;&c_t;&c_a;&c_m;&c_a;&c_t;&c_y;&c_ch;&c_n;&c_y;</trd>
+    <trd lng="pl">automatyczny</trd>
+  </snc>
+  <snc mrk="auxtom.0a.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Farita kvaza&ubreve; me&hcirc;anike, sen influo de la konscia
+      volo:
+      <ekz>
+        <tld/>a movo,
+        laboro.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_a;&c_w;&c_t;&c_a;&c_m;&c_a;&c_t;&c_y;&c_ch;&c_n;&c_y;</trd>,
+      <trd>&c_m;&c_a;&c_sh;&c_y;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>
+    </trdgrp>
+    <trd lng="de">mechanisch</trd>
+    <trd lng="pl">automatyczny</trd>
+  </snc>
+  <trd lng="de">automatisch</trd>
+  <trd lng="en">automatic</trd>
+  <trd lng="es">autom&aacute;tico</trd>
+  <trd lng="fr">automatique</trd>
+  <trdgrp lng="hu">
+    <trd>automatikus</trd>,
+    <trd>&ouml;nm&udblac;k&ouml;d&odblac;</trd>
+  </trdgrp>
+  <trd lng="it">automatico</trd>
+  <trd lng="nl">automatisch</trd>
+  <trd lng="ru">&c_a;&c_v;&c_t;&c_o;&c_m;&c_a;&c_t;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j;</trd>
+  <trd lng="sk">automatick&yacute;</trd>
+  <trd lng="sv">automatisk</trd>
+</drv>
+
+<drv mrk="auxtom.0e">
+  <kap><tld/>e</kap>
+  <snc>
+    <dif>
+      La&ubreve; maniero <tld/>a, me&hcirc;anika:
+      <ekz>
+        <tld/>e ripeti;
+      </ekz>
+      <ekz>
+        &scirc;i sin apogis <tld/>e sur lian brakon<fnt>Z</fnt>.
+      </ekz>
+      <ekz>
+        <tld/>e la tero donas frukton, unue folion, poste spikon, poste
+        plenan grenon en spiko
+        <fnt><bib>NT</bib>, <lok>&Mar; 4:28.</lok></fnt>;
+      </ekz>
+      <ekz>
+        la disvastigo de Latino ne devas <tld/>e
+        signifi la elpu&scirc;adon de lokaj lingvoj;
+      </ekz>
+      <ekz>
+        mi <tld/>e i&gcirc;us ano de diasporo
+        <fnt>
+        <aut>J. Camacho</aut>,
+        <vrk>La liturgio de l' foiro</vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="masxin.0e">ma&scirc;ine</ref>,
+      <ref cel="mehxan.0a">me&hcirc;anika</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_w;&c_t;&c_a;&c_m;&c_a;&c_t;&c_y;&c_ch;&c_n;&c_a;</trd>,
+    <trd>&c_m;&c_a;&c_sh;&c_y;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_a;</trd>
+  </trdgrp>
+  <trd lng="de">automatisch</trd>
+  <trd lng="en">automatically</trd>
+  <trd lng="es">autom&aacute;ticamente</trd>
+  <trd lng="fr">automatiquement</trd>
+  <trdgrp lng="hu">
+    <trd>automatikusan</trd>;
+    <trd>&ouml;nm&udblac;k&ouml;d&odblac;en</trd>
+  </trdgrp>
+  <trd lng="it">automaticamente</trd>
+  <trd lng="nl">automatisch</trd>
+  <trd lng="pl">automatycznie</trd>
+  <trdgrp lng="ru">
+    <trd>&c_a;&c_v;&c_t;&c_o;&c_m;&c_a;&c_t;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;</trd>;
+    <trd>&c_m;&c_a;&c_sh;&c_i;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_o;</trd>
+  </trdgrp>
+  <trd lng="sk">automaticky</trd>
+  <trd lng="sv">automatiskt</trd>
+</drv>
+
+<drv mrk="auxtom.bank0o">
+  <kap>bank<tld/>o, <var><kap>mon<tld/>o</kap></var></kap>
+  <snc mrk="auxtom.bank0o.KOMUNE">
+    <dif>
+      <tld lit="A"/>o provizanta al identigita
+      kliento bankajn servojn: bankbiletojn,
+      konteltirojn...:
+      <ekz>
+        estas ebleco &scirc;an&gcirc;i vian valuton (e&ubreve;rojn,
+        dolarojn, ktp) en bankoj kaj mon<tld/>oj
+        <fnt>
+          <aut>UEA</aut>,
+          <vrk><url ref="http://www.uea.org/pdf/db_vilno_05.pdf">
+          90-a Universala Kongreso, dua bulteno</url></vrk>,
+          <lok>2005</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        ni <klr>...</klr> elprenis iom da polaj zlotoj
+        el la bank<tld/>o
+        <fnt>
+          <aut>C. Smith</aut>,
+          <vrk><url
+          ref="http://www.liberafolio.org/2012/lech-wa142esa-renkontis-junajn-esperantistojn-en-gdansk">
+          Lech Wa&lstroke;&eogonek;sa renkontis...</url></vrk>, 
+          <lok>libera folio, 2012-01-08</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">distributeur de billets</trd>
+  <trd lng="pl">bankomat</trd>
+  <trd lng="ro">bancomat</trd>
+</drv>
+</art>
+<!--
+$Log: auxtom.xml,v $
+Revision 1.25  2015/07/04 16:10:15  revo
+Vito Redsky: +trd pl ro
+
+Revision 1.24  2013/11/30 18:10:15  revo
+Jeromo Vasxe: fak mas
+
+Revision 1.23  2012/05/26 00:10:11  revo
+Jeromo Vasxe: + bank~o
+
+Revision 1.22  2011/12/29 17:10:15  revo
+Antonio Codazzi: +trd it
+
+Revision 1.21  2009/03/04 17:30:45  revo
+Jerano Zachrisson: +trd sv
+
+Revision 1.20  2009/02/22 17:30:30  revo
+Russ Williams: +trd en
+
+Revision 1.19  2009/01/27 17:30:19  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.18  2006/07/18 16:31:09  revo
+-->
+</vortaro>

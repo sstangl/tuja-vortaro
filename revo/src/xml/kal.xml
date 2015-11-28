@@ -1,0 +1,150 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: kal.xml,v 1.27 2015/07/04 08:37:36 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>kal</rad>/o
+</kap>
+<drv mrk="kal.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="kal.0o.MED">
+    <uzo tip="fak">MED</uzo>
+    <dif>
+      Loko en la ha&ubreve;to, precipe &ccirc;e piedoj a&ubreve; manoj, malmoli&gcirc;inta
+      pro frotado:
+      <ekz>
+        la for&gcirc;isto estas nigra, malpura, havas fingrojn kovritajn de
+        <tld/>oj
+        <fnt><bib>Far2</bib>, <lok>&ccirc;apitro 1a</lok></fnt>;
+      </ekz>
+      <ekz>
+        mi certe tretas sur kelkaj <ind>piedkalo</ind>j &ccirc;e la profesia
+        instruistaro
+        <trd lng="ca">ull de poll</trd>
+        <trd lng="de">H&uuml;hnerauge</trd>
+        <trd lng="fr">&oelig;il-de-perdrix</trd>
+        <trdgrp lng="nl">
+          <trd>eksteroog</trd>,
+          <trd>likdoorn</trd>
+        </trdgrp>
+        <fnt>
+      <aut>KaGu:-}</aut>,
+      <vrk>nova pedagogio</vrk>,
+      <lok><url 
+      ref="http://groups.google.be/group/soc.culture.esperanto?hl=eo">soc.culture.esperanto</url>,
+      2007-03-18</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_m;&c_a;&c_z;&c_o;&c_l;&c_mol;</trd>
+  <trd lng="br">kaledenn<klr tip="ind"> (kroc'hen)</klr></trd>
+  <trdgrp lng="ca">
+    <trd>call</trd>,
+    <trd>dur&iacute;cia</trd>
+  </trdgrp>
+  <trd lng="cs">mozol</trd>
+  <trd lng="de">Schwiele</trd>
+  <trdgrp lng="en">
+    <trd>callus</trd>,
+    <trd>corn</trd>
+  </trdgrp>
+  <trd lng="es">callo</trd>
+  <trd lng="fr">cal</trd>
+  <trdgrp lng="hu">
+    <trd>b&odblac;rkem&eacute;nyed&eacute;s</trd>,
+    <trd>ty&uacute;kszem</trd>
+  </trdgrp>
+  <trdgrp lng="la">
+    <trd>callus</trd>,
+    <trd>clavus</trd>
+  </trdgrp>
+  <trd lng="nl">eelt</trd>
+  <trdgrp lng="pl">
+    <trd>odcisk</trd>,
+    <trd>nagniotek</trd>
+    <trd>modzel</trd>,
+  </trdgrp>
+  <trd lng="pt">calo</trd>
+  <trd lng="ru">&c_m;&c_o;&c_z;&c_o;&c_l;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>mozoľ</trd>,
+    <trd>otlak</trd>
+  </trdgrp>
+  <trdgrp lng="sv">
+    <trd>liktorn</trd>,
+    <trd>valk</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kal.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="kal.0a.MED">
+    <dif>
+      Havanta <tld/>ojn:
+      <ekz>
+        <tld/>aj manoj de laboristoj.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_m;&c_a;&c_z;&c_o;&c_l;&c_ib;&c_s;&c_t;&c_y;</trd>
+  <trd lng="br">kaledet<klr tip="ind"> (kroc'hen)</klr></trd>
+  <trd lng="ca">call&oacute;s</trd>
+  <trd lng="cs">mozolnatý</trd>
+  <trdgrp lng="de">
+    <trd>schwielig</trd>,
+    <trd>verhornt</trd>
+  </trdgrp>
+  <trd lng="en">callous</trd>
+  <trd lng="fr">calleux</trd>
+  <trdgrp lng="hu">
+    <trd>b&uuml;tyk&ouml;s</trd>,
+    <trd>k&eacute;rges</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>eeltig</trd>,
+    <trd>vereelt</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>zrogowacia&lstroke;y</trd>,
+    <trd>stwardnia&lstroke;y</trd>
+  </trdgrp>
+  <trd lng="pt">caloso</trd>
+  <trd lng="ru">&c_m;&c_o;&c_z;&c_o;&c_l;&c_i;&c_s;&c_t;&c_y;&c_j;</trd>
+  <trd lng="sk">mozoľnatý</trd>
+  <trd lng="sv">valkig</trd>
+</drv>
+</art>
+<!--
+$Log: kal.xml,v $
+Revision 1.27  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.26  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.25  2013/10/09 19:11:11  revo
+Wolfram Diestel: germ. trd
+
+Revision 1.24  2013/05/06 07:10:12  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.23  2012/08/02 09:10:54  revo
+Marc Rausell: + trd ca
+
+Revision 1.22  2009/08/23 16:32:22  revo
+Paul Peeraerts: +ekz
+
+Revision 1.21  2009/02/28 17:31:03  revo
+Marcus Curdeius: +pl +la
+
+Revision 1.20  2007/09/23 16:31:02  revo
+Tulio Flores: +tr pt
+
+Revision 1.19  2006/09/16 16:31:40  revo
+Tulio Flores: +tr pt
+
+Revision 1.18  2005/08/05 16:31:22  revo
+-->
+</vortaro>

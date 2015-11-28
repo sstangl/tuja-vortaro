@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: stelari.xml,v 1.18 2015/10/15 13:10:23 revo Exp $">
+<kap>
+  <rad>stelari</rad>/o
+</kap>
+
+<drv mrk="stelari.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="stelari.0o.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:botanikaj_genroj">Genro</ref> el familio <ref
+      tip="malprt"
+      cel="kariof1.0oj">kariofilacoj</ref>
+      (<trd lng="la">Stellaria</trd>).
+    </dif>
+    <trdgrp lng="en">
+      <trd>Stellaria</trd>,
+      <trd>chickweed</trd>, <trd>stitchwort</trd>
+    </trdgrp>
+  </snc>
+  <bld lok="../bld/stelari.jpg">
+    <ind>granda <tld/>o</ind>
+    <trd lng="ca">r&egrave;vola</trd>
+    <trd lng="de">Echte Sternmiere</trd>
+    <trdgrp lng="en">
+      <trd>Stellaria holostea</trd>,
+      <trd>greater stitchwort</trd>
+    </trdgrp>
+    <trd lng="fa">&f_g;&a_n;&a_d;&a_m;&f_k; &a_z;&a_n;&f_g;&a_w;&a_l;&a_h;&zwnj;&a_A;&f_y;</trd>
+    <trd lng="la">Stellaria holostea</trd>
+    <trd lng="hu">olocs&aacute;ncsillagh&uacute;r</trd>
+    <trd lng="nl">grote muur<klr tip="ind"> (plant)</klr></trd>
+    <trd lng="pl">gwiazdnica wielkokwiatowa</trd>
+  </bld>
+  <trd lng="ca">g&egrave;nere Stellaria</trd>
+  <trd lng="be">&c_z;&c_o;&c_r;&c_k;&c_a;&c_w;&c_k;&c_a;</trd>
+  <trd lng="de">Sternmiere</trd>
+  <trd lng="fa">&f_g;&a_n;&a_d;&a_m;&f_k;</trd>
+  <trd lng="hu">csillagh&uacute;r</trd>
+  <trd lng="nl">muur<klr tip="ind"> (plant)</klr></trd>
+  <trd lng="pl">gwiazdnica</trd>
+  <trd lng="ru">&c_z;&c_v;&c_je;&c_z;&c_d;&c_ch;&c_a;&c_t;&c_k;&c_a;</trd>
+</drv>
+
+<drv mrk="stelari.meza0o">
+  <kap>meza <tld/>o</kap>
+  <snc mrk="stelari.meza0o.BOT">
+  <uzo tip="fak">BOT</uzo>
+    <dif>
+      Specio de <ref tip="super" cel="stelari.0o.BOT">stelario</ref>
+      malgranda, ku&scirc;a sur la grundo, kun nete dupartaj petaloj,
+      komuna en kampoj kaj la&ubreve; vojoj de mezvarmaj landoj.
+    </dif>
+  <bld lok="../bld/stelari1.jpg">
+  </bld>
+  </snc>
+  <trd lng="ca">morr&oacute;</trd>
+  <trd lng="de">Vogel-Sternmiere</trd>
+  <trdgrp lng="en">
+    <trd>Stellaria media</trd>,
+    <trd>common chickweed</trd>
+  </trdgrp>
+  <trdgrp lng="fa">
+    <trd>&f_g;&a_n;&a_d;&a_m;&f_k; &a_r;&a_A;&f_y;&a_j;</trd>,
+    <trd>&a_d;&a_A;&a_n;&a_h; &a_q;&a_n;&a_A;&a_r;&f_y;</trd>
+  </trdgrp>
+  <trd lng="fr">mouron blanc</trd>
+  <trd lng="hu">ty&uacute;kh&uacute;r</trd>
+  <trd lng="la">Stellaria media</trd>
+  <trd lng="nl">vogelmuur</trd>
+  <trd lng="pl">gwiazdnica pospolita</trd>
+</drv>
+</art>
+<!--
+$Log: stelari.xml,v $
+Revision 1.18  2015/10/15 13:10:23  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.17  2013/08/27 07:10:26  revo
+Wolfram Diestel: referenco al listo bot genroj
+
+Revision 1.16  2013/04/09 11:10:53  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.15  2011/12/05 11:10:20  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.14  2009/07/01 17:22:11  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.13  2009/06/29 18:07:23  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.12  2007/05/06 16:30:28  revo
+Wieland Pusch: +trd de
+
+Revision 1.11  2004/11/28 19:42:19  revo
+-->
+</vortaro>

@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: laring1.xml,v 1.19 2015/07/04 08:37:38 revo Exp $">
+<kap>
+  <rad>laringit</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="laring1.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="laring1.0o.MED">
+    <uzo tip="fak">MED</uzo>
+    <dif>
+      <ref tip="lst" cel="inflam.0o" lst="voko:malsanoj">Inflamo</ref>
+      de la laringo:
+      <ekz>
+        <tld/>o akuta, kronika.
+      </ekz>
+    </dif>
+  </snc>
+  <refgrp tip="sin">
+    <ref cel="inflam.gorgx0o">gor&gcirc;inflamo</ref>
+  </refgrp>
+  <trd lng="be">&c_l;&c_ja;&c_r;&c_y;&c_n;&c_g;&c_ib;&c_t;</trd>
+  <trd lng="ca">laringitis</trd>
+  <trdgrp lng="de">
+    <trd>Kehlkopfentz&uuml;ndung</trd>,
+    <trd>Laryngitis<klr> [fak]</klr></trd>
+  </trdgrp>
+  <trd lng="el">&lambda;&alfa;&rho;&ypsilon;&gamma;&gamma;&jota_ton;&tau;&jota;&delta;&alfa;</trd>
+  <trd lng="en">laryngitis</trd>
+  <trd lng="es">laringitis</trd>
+  <trdgrp lng="fr">
+    <trd>laryngite</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>laryngitis</trd>,
+    <trd>g&eacute;gegyullad&aacute;s</trd>
+  </trdgrp>
+  <trd lng="id">laringitis</trd>
+  <trd lng="nl">keelontsteking</trd>
+  <trd lng="pt">laringite</trd>
+  <trd lng="ru">&c_l;&c_a;&c_r;&c_i;&c_n;&c_g;&c_i;&c_t;</trd>
+  <trdgrp lng="sk">
+    <trd>laryngitída</trd>,
+    <trd>zápal hrtanu</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>laryngitida</trd>,
+    <trd>zánět hrtanu</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: laring1.xml,v $
+Revision 1.19  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2014/11/18 20:10:44  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.16  2013/10/09 19:11:26  revo
+Wolfram Diestel: ref al lst malsanoj
+
+Revision 1.15  2012/09/03 17:10:23  revo
+Marc Rausell: + trd ca
+
+Revision 1.14  2006/07/21 18:03:34  revo
+Jeromo Vasxe: + mrk
+
+Revision 1.13 2004/05/22 16:32:10 revo
+Jozefo Horvath: +trd hu
+
+Revision 1.12 2003/05/06 16:31:46 revo
+Paul Peeraerts: ald ref al inflam
+
+Revision 1.11 2003/05/02 16:30:44 revo
+Dmitri Gabinski: +trd be
+
+Revision 1.10 2002/09/14 18:52:04 revo
+-->
+</vortaro>

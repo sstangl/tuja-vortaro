@@ -1,0 +1,107 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: banan.xml,v 1.30 2015/07/04 08:37:31 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>banan</rad>/o
+</kap>
+
+<drv mrk="banan.0o">
+  <kap><tld/>o</kap>
+  <snc>
+    <dif>
+      Frukto de la <ref tip="malprt" cel="banan.0ujo"><tld/>ujo</ref>,
+      flav&scirc;ela, kurbe longa; kelkaj specoj estas tre bongustaj.
+    </dif>
+  </snc>
+  <trd lng="be">&c_b;&c_a;&c_n;&c_a;&c_n;<klr tip="amb">
+(&c_p;&c_l;&c_o;&c_d;)</klr></trd>
+  <trd lng="bg">&c_b;&c_a;&c_n;&c_a;&c_n;</trd>
+  <trd lng="ca">banana</trd>
+  <trd lng="cs">banán</trd>
+  <trd lng="de">Banane</trd>
+  <trd lng="en">banana</trd>
+  <trdgrp lng="es">
+     <trd>banana</trd>,
+     <trd>pl&aacute;tano</trd>
+  </trdgrp>
+  <trd lng="fa">&a_m;&a_w;&a_z;</trd>
+  <trd lng="fr">banane</trd>
+  <trd lng="hu">ban&aacute;n</trd>
+  <trd lng="id">pisang</trd>
+  <trd lng="nl">banaan</trd>
+  <trd lng="oc">banana</trd>
+  <trd lng="pl">banan</trd>
+  <trd lng="pt">banana</trd>
+  <trd lng="ru">&c_b;&c_a;&c_n;&c_a;&c_n;</trd>
+  <trd lng="sk">ban&aacute;n</trd>
+  <trd lng="sv">banan</trd>
+  <trd lng="tr">muz</trd>
+</drv>
+
+<drv mrk="banan.0ujo">
+  <kap><tld/>ujo</kap>
+  <uzo tip="fak">BOT</uzo>
+  <snc>
+    <dif>
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:botanikaj_genroj">Genro</ref> el familio <ref
+      tip="malprt"
+cel="banan1.0oj"><tld/>ujacoj</ref>
+      (<trd lng="la">Musa</trd>), tropika vegeta&jcirc;o kun multaj
+      specioj. La fruktoj de iuj specioj estas man&gcirc;ataj, la
+      folioj de aliaj specioj liveras fibrojn uzatajn por &scirc;nuroj,
+      retoj ktp.
+    </dif>
+  </snc>
+  <trd lng="be">&c_b;&c_a;&c_n;&c_a;&c_n;
+<klr>(&c_r;&c_a;&c_s;&c_mol;&c_l;&c_ib;&c_n;&c_a;)</klr></trd>
+  <trd lng="bg">&c_g;&c_r;&c_o;&c_z;&c_d;
+&c_b;&c_a;&c_n;&c_a;&c_n;&c_i;</trd>
+  <trd lng="ca">bananer</trd>
+  <trd lng="cs">banánovník</trd>
+  <trd lng="de">Bananenstaude</trd>
+  <trd lng="en">banana tree</trd>
+  <trd lng="fa">&a_d;&a_r;&a_kh;&a_t; <ind>&a_m;&a_w;&a_z;</ind></trd>
+  <trd lng="fr">bananier</trd>
+  <trd lng="hu">ban&aacute;nfa</trd>
+  <trd lng="nl">bananenboom</trd>
+  <trd lng="oc">banani&egrave;r</trd>
+  <trd lng="pl">bananowiec</trd>
+  <trd lng="ru">&c_b;&c_a;&c_n;&c_a;&c_n;<klr tip="amb">
+(&c_r;&c_a;&c_s;&c_t;&c_je;&c_n;&c_i;&c_je;)</klr></trd>
+  <trd lng="sk">ban&aacute;novn&iacute;k</trd>
+</drv>
+
+</art>
+<!--
+$Log: banan.xml,v $
+Revision 1.30  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.29  2013/10/10 19:10:10  revo
+Benito Subejrano: + trd oc
+
+Revision 1.28  2013/08/26 09:10:34  revo
+Wolfram Diestel: referenco al listo sciencoj
+
+Revision 1.27  2012/08/25 11:10:12  revo
+Marc Rausell: + trd ca
+
+Revision 1.26  2009/07/01 17:20:34  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.25  2009/06/23 16:32:17  revo
+Emmanuel Debanne: +trd id
+
+Revision 1.24  2008/01/16 17:30:39  revo
+Sebastian Cyprych: ~ujo +trd pl
+
+Revision 1.23  2007/12/09 17:30:29  revo
+Wieland Pusch: +trd bg
+
+Revision 1.22  2007/11/22 17:30:31  revo
+-->
+</vortaro>

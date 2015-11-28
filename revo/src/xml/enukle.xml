@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: enukle.xml,v 1.14 2015/07/04 08:37:33 revo Exp $">
+<kap>
+  <rad>enukle</rad>/i
+</kap>
+<drv mrk="enukle.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="enukle.0i.KIR">
+  <uzo tip="fak">KIR</uzo>
+    <dif>
+      Eltran&ccirc;i kunradike tumoron a&ubreve; okulon.
+    </dif>
+  </snc>
+  <trd lng="cs">enukleovat</trd>
+  <trdgrp lng="de">
+    <trd>aussch&auml;len</trd>
+  </trdgrp>
+  <trd lng="fr">&eacute;nucl&eacute;er</trd>
+  <trdgrp lng="hu">
+    <trd>enukle&aacute;l</trd>,
+    <trd>tumort/szemgoly&oacute;t <ind>kih&aacute;moz</ind></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>wy&lstroke;uskiwa&cacute;</trd>,
+    <trd>wy&lstroke;upia&cacute;<klr> (oko)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>enuclear</trd>,
+    <trd>descapsular</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_v;&c_y;&c_l;&c_u;&c_shch;&c_i;&c_v;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_v;&c_y;&c_s;&c_k;&c_a;&c_b;&c_l;&c_i;&c_v;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="sk">enukelovať</trd>
+</drv>
+
+<drv mrk="enukle.0ado">
+  <kap><tld/>ado</kap>
+  <snc mrk="enukle.0ado.KIR">
+    <dif>
+      Metodo a&ubreve; ago <tld/>i tumoron a&ubreve; okulon.
+    </dif>
+  </snc>
+  <trd lng="cs">enukleace <klr>(bulvu)</klr></trd>
+  <trdgrp lng="de">
+    <trd>Aussch&auml;len</trd>,
+    <trd>Enukleation<klr> [fak]</klr></trd>
+  </trdgrp>
+  <trd lng="fr">&eacute;nucl&eacute;ation</trd>
+  <trd lng="hu">enucleation</trd>
+  <trd lng="pl">wy&lstroke;uszczanie</trd>
+  <trd lng="pt">enuclea&ccedil;&atilde;o</trd>
+  <trd lng="sk">vyňatie oka</trd>
+</drv>
+</art>
+<!--
+$Log: enukle.xml,v $
+Revision 1.14  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.13  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.12  2010/02/03 17:30:34  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.11  2008/07/29 16:31:06  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.10  2007/06/28 16:32:34  revo
+Tulio Flores: +tr pt
+
+Revision 1.9  2006/04/30 16:31:26  revo
+Tulio Flores: +tr pt
+
+Revision 1.8  2006/04/22 18:10:26  revo
+Jeromo Vasxe: - fak med + fak kir
+
+Revision 1.7 2002/06/19 17:30:59 revo
+Ulrich Fellmann: forigo de troa germ trd
+
+Revision 1.6 2002/06/18 17:31:26 revo
+Ulrich Fellmann: + 3 trd de
+
+Revision 1.5 2001/06/27 18:12:16 revo
+-->
+</vortaro>

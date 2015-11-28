@@ -1,0 +1,326 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: eduk.xml,v 1.24 2015/10/10 14:10:19 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>eduk</rad>/i
+</kap>
+
+<drv mrk="eduk.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <uzo tip="fak">PED</uzo>
+  <snc mrk="eduk.0i.instrui">
+    <dif>
+      Direkti la elvolvi&gcirc;on de fizikaj, moralaj kaj intelektaj
+      kapabloj
+      de infano a&ubreve; junulo:
+      <ekz>
+        oni <tld/>is lin kiel idealiston.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="discip">disciplini</ref>,
+      <ref cel="guvern.0i">guverni</ref>,
+      <ref cel="instru.0i">instrui</ref>,
+      <ref cel="kultur.0i">kulturi</ref>,
+      <ref cel="vart.0i">varti</ref>,
+      <ref cel="zorg.0i">zorgi</ref>.
+    </refgrp>
+    <trdgrp lng="be">
+      <trd>&c_v;&c_y;&c_h;&c_o;&c_w;&c_v;&c_a;&c_c;&c_mol;</trd>,
+      <trd>&c_a;&c_d;&c_u;&c_k;&c_o;&c_w;&c_v;&c_a;&c_c;&c_mol;</trd>
+    </trdgrp>
+    <trd lng="nl">opvoeden</trd>
+    <trdgrp lng="pl">
+      <trd>edukowa&cacute;</trd>,
+      <trd>kszta&lstroke;ci&cacute;</trd>,
+      <trd>uczy&cacute;</trd>
+    </trdgrp>
+    <trd lng="pt">educar</trd>
+    <trdgrp lng="ru">
+      <trd>&c_v;&c_o;&c_s;&c_p;&c_i;&c_t;&c_a;&c_t;&c_mol;</trd>,
+      <trd>&c_v;&c_o;&c_s;&c_p;&c_i;&c_t;&c_y;&c_v;&c_a;&c_t;&c_mol;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="eduk.0i.dresi">
+    <dif>
+      <ref tip="vid" cel="dres.0i">Dresi</ref> beston:
+      <ekz>
+        <tld/>i tigron<fnt>Z</fnt>,
+      </ekz>
+      <ekz>
+        hundon, papagon.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="instru.0i">instrui</ref>,
+      <ref cel="sovagx">malsova&gcirc;igi</ref>.
+    </refgrp>
+    <trdgrp lng="be">
+      <trd>&c_p;&c_r;&c_y;&c_r;&c_u;&c_ch;&c_a;&c_c;&c_mol;</trd>,
+      <trd>&c_d;&c_r;&c_e;&c_s;&c_ib;&c_r;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+    </trdgrp>
+    <trd lng="nl">africhten</trd>
+    <trd lng="pt">domar</trd>
+    <trd lng="ru">&c_p;&c_r;&c_i;&c_r;&c_u;&c_ch;&c_a;&c_t;&c_mol;</trd>
+  </snc>
+  <snc mrk="eduk.0i.gxentilecon">
+    <dif>
+      Instrui iun pri la manieroj kaj kutimoj de &gcirc;entileco kaj
+      dececo.
+    </dif>
+    <trd lng="be">&c_v;&c_y;&c_h;&c_o;&c_w;&c_v;&c_a;&c_c;&c_mol;</trd>
+    <trd lng="nl">opvoeden</trd>
+    <trdgrp lng="pl">
+      <trd>wychowywa&cacute;</trd>,
+      <trd>uczy&cacute; <klr>dobrych</klr> manier</trd>
+    </trdgrp>
+    <trd lng="pt">educar</trd>
+    <trdgrp lng="ru">
+      <trd>&c_v;&c_o;&c_s;&c_p;&c_i;&c_t;&c_a;&c_t;&c_mol;</trd>,
+      <trd>&c_v;&c_o;&c_s;&c_p;&c_i;&c_t;&c_y;&c_v;&c_a;&c_t;&c_mol;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="eduk.0i.vegetajxon">
+    <dif>
+      Flegi vegeta&jcirc;on:
+      <ekz>
+        <tld/>i hederon<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        vegeta&jcirc;oj <tld/>itaj en oran&gcirc;erioj<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_g;&c_a;&c_d;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
+      <trd>&c_v;&c_y;&c_r;&c_o;&c_sh;&c_ch;&c_v;&c_a;&c_c;&c_mol;</trd>
+    </trdgrp>
+    <trd lng="nl">kweken</trd>
+    <trd lng="pt">aclimar</trd>
+    <trdgrp lng="ru">
+      <trd>&c_r;&c_a;&c_s;&c_t;&c_i;&c_t;&c_mol;</trd>,
+      <trd>&c_v;&c_y;&c_r;&c_a;&c_shch;&c_i;&c_v;&c_a;&c_t;&c_mol;</trd>,
+      <trd>&c_v;&c_y;&c_r;&c_a;&c_s;&c_t;&c_i;&c_t;&c_mol;</trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>chovat</trd>,
+    <trd>p&ecaron;stovat</trd>,
+    <trd>vychov&aacute;vat</trd>,
+    <trd>vychovat</trd>,
+    <trd>vzd&ecaron;l&aacute;vat</trd>,
+    <trd>&scaron;lechtit</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>erziehen</trd>,
+    <trd>bilden</trd>,
+    <trd>ausbilden</trd>
+  </trdgrp>
+  <trd lng="en">educate</trd>
+  <trd lng="es">educar</trd>
+  <trdgrp lng="fr">
+    <trd>dresser<klr tip="ind"> (un animal)</klr></trd>,
+    <trd>&eacute;duquer<klr tip="ind"> (un enfant)</klr></trd>,
+    <trd>&eacute;lever<klr tip="ind"> (un enfant)</klr></trd>,
+    <trd>faire <ind>pousser</ind><klr tip="ind"> (une
+    plante)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>nevel<klr tip="ind"> (n&ouml;v&eacute;nyt is)</klr></trd>,
+    <trd>k&eacute;pez</trd>,
+    <trd>idom&iacute;t</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>vychov&aacute;va&tcaron;</trd>,
+    <trd>vzdel&aacute;va&tcaron;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="eduk.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">PED</uzo>
+  <snc>
+    <dif>
+      Kondi&ccirc;oj kaj aran&gcirc;oj, per kiuj iu estas <tld/>ata:
+      <ekz>
+        tiuj apartenoj dependas de <tld/>o
+        <fnt><aut>Zlatko Ti&scaron;ljar</aut>: <vrk>Nepras lingva
+        identeco</vrk>,
+        <bib>Monato</bib><lok>jaro 1999a, numero 9a, p. 12a</lok></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="eduk.0ado">edukado</ref>
+    </refgrp>
+  </snc>
+  <trd
+  lng="be">&c_v;&c_y;&c_h;&c_a;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
+  <trdgrp lng="cs">
+    <trd>vzd&ecaron;l&aacute;n&iacute;</trd>,
+    <trd>v&yacute;chova</trd>
+  </trdgrp>
+  <trd lng="de">Erziehung</trd>
+  <trd lng="en">education</trd>
+  <trdgrp lng="fr">
+    <trd>&eacute;ducation</trd>
+  </trdgrp>
+  <trd lng="hu">nevel&eacute;s</trd>
+  <trd lng="nl">opvoeding</trd>
+  <trdgrp lng="pl">
+    <trd>edukacja</trd>,
+    <trd>wychowanie</trd>
+  </trdgrp>
+  <trd
+  lng="ru">&c_v;&c_o;&c_s;&c_p;&c_i;&c_t;&c_a;&c_n;&c_i;&c_je;</trd>
+  <trdgrp lng="sk">
+    <trd>vzdel&aacute;vanie</trd>,
+    <trd>v&yacute;chova</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="eduk.0ado">
+  <kap><tld/>ado</kap>
+  <snc>
+    <ref tip="dif" cel="eduk.0o">eduko:</ref>
+    <ekz>
+      sin dedi&ccirc;i al <tld/>ado de junuloj.
+    </ekz>
+  </snc>
+  <trd
+  lng="be">&c_v;&c_y;&c_h;&c_a;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
+  <trdgrp lng="cs">
+    <trd>vzd&ecaron;l&aacute;n&iacute;</trd>,
+    <trd>v&yacute;chova</trd>
+  </trdgrp>
+  <trd lng="de">Erziehung</trd>
+  <trd lng="en">education</trd>
+  <trdgrp lng="fr">
+    <trd>&eacute;ducation</trd>
+  </trdgrp>
+  <trd lng="nl">opvoeding</trd>
+  <trdgrp lng="pl">
+    <trd>edukacja</trd>,
+    <trd>wychowywanie</trd>,
+    <trd>nauczanie</trd>
+  </trdgrp>
+  <trd
+  lng="ru">&c_v;&c_o;&c_s;&c_p;&c_i;&c_t;&c_a;&c_n;&c_i;&c_je;</trd>
+  <trdgrp lng="sk">
+    <trd>vzdel&aacute;vanie</trd>,
+    <trd>v&yacute;chova</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="eduk.0isto">
+  <kap><tld/>isto</kap>
+  <uzo tip="fak">PED</uzo>
+  <snc>
+    <dif>
+      Homo, kiu profesie <tld/>as infanojn a&ubreve; junulojn a&ubreve;
+      bestojn:
+      <ekz>
+        mankis <tld/>istoj por prizorgi la knabon
+        <fnt><aut>Guido Van Damme</aut>: <vrk>Puno ne sen peno</vrk>,
+        <bib>Monato</bib><lok>jaro 2002a, numero 4a, p. 15a</lok></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="dres">dresisto</ref>,
+      <ref cel="instru.0isto">instruisto</ref>,
+      <ref cel="mentor.0o">mentoro</ref>,
+      <ref cel="pedago.0o">pedagogo</ref>.
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_v;&c_y;&c_h;&c_a;&c_v;&c_a;&c_c;&c_je;&c_l;&c_mol;</trd>,
+    <trd>&c_v;&c_y;&c_h;&c_a;&c_v;&c_a;&c_l;&c_mol;&c_n;&c_ib;&c_k;</trd>,
+    <trd>&c_n;&c_a;&c_s;&c_t;&c_a;&c_w;&c_n;&c_ib;&c_k;</trd>,
+    <trd>&c_d;&c_r;&c_e;&c_s;&c_ib;&c_r;&c_o;&c_w;&c_ch;&c_sh;&c_y;&c_k;</trd>
+  </trdgrp>
+  <trd lng="cs">vychovatel <klr>(z povol&aacute;n&iacute;)</klr></trd>
+  <trdgrp lng="de">
+    <trd>Erzieher</trd>,
+    <trd>Ausbilder</trd>
+  </trdgrp>
+  <trd lng="en">educator</trd>
+  <trd lng="es">educador</trd>
+  <trdgrp lng="fr">
+    <trd>&eacute;ducateur</trd>,
+    <trd>dresseur</trd>
+  </trdgrp>
+  <trd lng="hu">nevel&odblac;</trd>
+  <trd lng="nl">opvoeder</trd>
+  <trdgrp lng="pl">
+    <trd>wychowawca</trd>,
+    <trd>nauczyciel</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_v;&c_o;&c_s;&c_p;&c_i;&c_t;&c_a;&c_t;&c_je;&c_l;&c_mol;</trd>,
+    <trd>&c_n;&c_a;&c_s;&c_t;&c_a;&c_v;&c_n;&c_i;&c_k;</trd>,
+    <trd>&c_d;&c_r;&c_je;&c_s;&c_s;&c_i;&c_r;&c_o;&c_v;&c_shch;&c_i;&c_k;</trd>
+  </trdgrp>
+  <trd lng="sk">vychov&aacute;vate&lcaron;</trd>
+</drv>
+
+<drv mrk="eduk.bon0iteco">
+  <kap>bon<tld/>iteco</kap>
+  <snc>
+    <dif>
+      Kvalito de tiu, kiu obeas la kutimojn de &gcirc;entileco kaj
+      dececo.
+    </dif>
+  </snc>
+  <trd lng="be">&c_d;&c_o;&c_b;&c_r;&c_a;&c_je;
+  <ind>&c_v;&c_y;&c_h;&c_a;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je;</ind></trd>
+  <trd lng="cs">dobr&aacute; v&yacute;chova</trd>
+  <trdgrp lng="de">
+    <trd>gute <ind>Erziehung</ind></trd>,
+    <trd>gute <ind>Kinderstube</ind></trd>,
+    <trd>Wohlerzogenheit</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>good breeding</trd>,
+    <trd>well-bred conduct</trd>
+  </trdgrp>
+  <trd lng="es">buena <ind>educaci&oacute;n</ind></trd>
+  <trdgrp lng="fr">
+    <trd>&eacute;ducation<klr tip="ind"> (bonne
+    &eacute;ducation)</klr></trd>
+  </trdgrp>
+  <trd lng="hu">j&oacute;nevelts&eacute;g</trd>
+  <trd lng="nl">goede <ind>opvoeding</ind></trd>
+  <trd lng="pl">dobre <ind>wykszta&lstroke;cenie</ind></trd>
+  <trd
+  lng="ru">&c_b;&c_l;&c_a;&c_g;&c_o;&c_v;&c_o;&c_s;&c_p;&c_i;&c_t;&c_a;&c_n;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
+  <trd lng="sk">dobr&aacute; v&yacute;chova</trd>
+</drv>
+</art>
+<!--
+$Log: eduk.xml,v $
+Revision 1.24  2015/10/10 14:10:19  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.23  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.22  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.21  2009/08/28 16:32:21  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.20  2007/06/22 17:25:16  revo
+Tulio Flores: +tr pt
+
+Revision 1.19  2007/05/22 16:32:15  revo
+Wieland Pusch: +trd de
+
+Revision 1.18  2004/07/08 17:05:31  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.17  2003/11/13 18:50:21  revo
+-->
+</vortaro>

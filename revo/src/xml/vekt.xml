@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: vekt.xml,v 1.14 2015/07/04 08:37:45 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>vekt</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="vekt.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="vekt.0o.pesila">
+    <dif>
+      Stangeto en pesilo, kiu balanci&gcirc;as &ccirc;irka&ubreve; sia akso kaj portas la
+      telerojn.
+    </dif>
+    <trd lng="fr">fl&eacute;au<klr> (de balance)</klr></trd>
+    <trd lng="hu">m&eacute;rlegkar</trd>
+    <trdgrp lng="pt">
+     <trd>travess&atilde;o (de balan&ccedil;a)</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="vekt.0o.MAS">
+    <uzo tip="fak">MAS</uzo>
+    <dif>
+      Balanci&gcirc;a trabostango en ma&scirc;ino.
+    </dif>
+    <trd lng="hu">himba</trd>
+  </snc>
+  <snc mrk="vekt.0o.portovekto">
+    <ref tip="dif" cel="vekt.porto0o.KOMUNE">porto<tld/>o</ref>
+    <trd lng="fr">palanche</trd>
+    <trdgrp lng="hu">
+      <trd>v&iacute;zhord&oacute; r&uacute;d</trd>,
+      <trd>v&aacute;llj&aacute;rom</trd>
+    </trdgrp>    
+  </snc>
+  <trd lng="be">&c_k;&c_a;&c_r;&c_o;&c_m;&c_y;&c_s;&c_je;&c_l;</trd>
+  <trd lng="cs">jádro elektromagnetu</trd>
+  <trd lng="nl">juk</trd>
+  <trd lng="ru">&c_k;&c_o;&c_r;&c_o;&c_m;&c_y;&c_s;&c_l;&c_o;</trd>
+  <trd lng="sk">jadro elektromagnetu</trd>
+</drv>
+
+<drv mrk="vekt.porto0o">
+  <kap>porto<tld/>o</kap>
+  <snc mrk="vekt.porto0o.KOMUNE">
+    <dif>
+      Kurba sur&scirc;ultra ligna&jcirc;o por porti du peza&jcirc;ojn
+      (korbojn, sitelojn...):
+      <ekz>
+        li a&ccirc;etis paron da korboj kaj havigis al si 
+        porto<tld/>on, por kolporti melonojn, fruktojn, 
+        ternuksojn kaj cigardojn
+        <fnt>
+          <aut>Lao She, trad. Wang Chongfang</aut>,
+          <vrk><url
+          ref="http://edu.i-lo.tarnow.pl/esp/lern/librejo/0026/">
+          Kamelo &Scirc;jangzi</url></vrk>,
+          <lok>1988</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">palanche</trd>
+  <trdgrp lng="hu">
+    <trd>v&iacute;zhord&oacute; r&uacute;d</trd>,
+    <trd>v&aacute;llj&aacute;rom</trd>
+  </trdgrp>    
+</drv>
+</art>
+<!--
+$Log: vekt.xml,v $
+Revision 1.14  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.13  2015/06/28 12:03:50  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.12  2014/01/05 02:10:20  revo
+Jeromo Vasxe: + porto~o
+
+Revision 1.11  2008/07/16 16:30:41  revo
+Jozefo Horvath: kor. trd. hu
+
+Revision 1.10  2006/02/01 17:32:30  revo
+Tulio Flores: +trd pt
+
+Revision 1.9  2005/01/28 17:31:28  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.8  2003/10/01 16:31:10  revo
+Philippe Combot: + trd fr
+
+Revision 1.7  2002/09/11 17:35:15  revo
+Zmicier Lapcionak: + trd be
+
+Revision 1.6  2002/03/18 18:09:03  revo
+Yury Finkel: +trd ru
+
+Revision 1.5 2001/05/29 18:15:14 revo
+-->
+</vortaro>

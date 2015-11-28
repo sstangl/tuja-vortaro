@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: reform.xml,v 1.15 2014/12/26 23:10:11 revo Exp $">
+  <kap>
+    <ofc>1</ofc>
+    <rad>Reformaci</rad>/o <fnt><bib>PV</bib></fnt>
+  </kap>
+<drv mrk="reform.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="reform.0o.KRI">
+    <uzo tip="fak">HIS</uzo>
+    <uzo tip="fak">KRI</uzo>
+    <dif>
+      Granda religia kaj politika movado en la
+      <ref cel="krist.okcidenta0anismo">okcidenta kristanismo</ref>
+      de la 16-a jarcento, kiun komencis la provoj de Lutero kaj
+      poste <ref cel="kalvin.0o">Kalvino</ref> reformi la
+      eklezion, el kiu esti&gcirc;is
+      <ref cel="protes1.0ismo">protestantismo</ref>.
+    </dif>
+  </snc>
+  <trd lng="be">&c_R;&c_e;&c_f;&c_a;&c_r;&c_m;&c_a;&c_c;&c_y;&c_ja;</trd>
+  <trd lng="ca">reforma</trd>
+  <trd lng="de">Reformation</trd>
+  <trd lng="en">Reformation</trd>
+  <trd lng="fr">R&eacute;forme<klr> (rel.)</klr></trd>
+  <trd lng="hu">reform&aacute;ci&oacute;</trd>
+  <trdgrp lng="nl">
+    <trd>Hervorming</trd>,
+    <trd>Reformatie</trd>
+  </trdgrp>
+  <trd lng="pl">Reforamcja</trd>
+  <trd lng="ru">&c_R;&c_je;&c_f;&c_o;&c_r;&c_m;&c_a;&c_c;&c_i;&c_ja;</trd>
+</drv>
+
+<drv mrk="reform.kontraux0o">
+  <kap>Kontra&ubreve;<tld lit="r"/>o</kap>
+  <snc mrk="reform.kontraux0o.KRI">
+    <uzo tip="fak">HIS</uzo>
+    <uzo tip="fak">KRI</uzo>
+    <dif>
+      Movado de la 16a kaj 17a jarcentoj,
+      kiu reage al la <tld/>o redefinis kaj defendis katolikismajn
+      doktrinon, riton kaj arton:
+      <ekz>
+        la &ccirc;efpre&gcirc;ejo<klr>[n]</klr> de la urbo konstruis la tiamaj 
+        protestantoj kaj en la epoko de kontra&ubreve;<tld lit="r"/>o &gcirc;in
+        konfiskis la 
+        karintia katolika diocezo  
+        <fnt>
+          <aut>V. O&scaron;lak</aut>,
+          <vrk><url
+          ref="http://www.kristana-misio-en-esperanto.si/docs/kial.pdf">
+          Kial mi forlasas...</url></vrk>,
+          <lok>2006</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="ca">contrareforma</trd>
+  <trd lng="fr">contre-r&eacute;forme</trd>
+  <trd lng="nl">Contrareformatie</trd>
+</drv>
+</art>
+  <!--
+  $Log: reform.xml,v $
+  Revision 1.15  2014/12/26 23:10:11  revo
+  Filip van Laenen: +trd(nl)
+
+  Revision 1.14  2012/01/02 18:10:15  revo
+  Marc Rausell: +trd ca
+
+  Revision 1.13  2010/11/11 17:30:44  revo
+  Jeromo Vasxe: + kontraux~o
+
+  Revision 1.12  2009/08/18 19:17:23  revo
+  Russ Williams: +trd en
+
+  Revision 1.11  2008/05/19 16:30:40  revo
+  Sebastian Cyprych: +trd pl
+
+  Revision 1.10  2003/08/07 16:30:30  revo
+  Dmitri Gabinski: +trd be
+
+  Revision 1.9  2002/08/08 17:32:30  revo
+  Jozefo Horvath: +trd hu
+
+  Revision 1.8  2001/06/15 10:23:03  revo
+  Sergio Pokrovskij: ref-cel
+
+  Revision 1.7  2001/06/09 18:48:49  revo
+  Paul Peeraerts: ald trd nl
+
+  Revision 1.6  2001/06/06 18:11:19  revo
+  Sergio Pokrovskij: dif, fak, trd=ru, TEZ
+
+  Revision 1.5  2001/02/25 17:11:00  revo
+  Dennis Wibrow: +trd germ
+
+  -->
+</vortaro>

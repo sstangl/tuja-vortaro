@@ -1,0 +1,199 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: egx.xml,v 1.15 2014/01/09 19:10:18 revo Exp $">
+<kap>
+  <rad>e&gcirc;</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="egx.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="egx.0o.GEOG">
+    <uzo tip="fak">GEOG</uzo>
+    <dif>
+      Longforma alta&jcirc;o; kresto:
+      <ekz>
+        ili perdi&gcirc;is de nia vido, post <tld/>o
+        <fnt>
+          <aut>E. R. Burroughs, trad. K. R. C. Sturmer</aut>,
+          <vrk><url
+          ref="http://edu.i-lo.tarnow.pl/esp/lern/librejo/0029/index.php">
+          Princino de Marso</url></vrk>,
+          <lok>1938</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>Grat</trd>,
+      <trd>Kamm</trd>
+    </trdgrp>
+    <trd lng="fr">ar&ecirc;te<klr tip="ind"> (ligne, cr&ecirc;te)</klr></trd>
+    <trd lng="hu">gerinc</trd>    
+    <trdgrp lng="ru">
+      <trd>&c_g;&c_r;&c_je;&c_b;&c_je;&c_n;&c_mol; <klr>(&c_g;&c_o;&c_r;&c_y;, &c_h;&c_o;&c_l;&c_m;&c_a;)</klr></trd>,
+      <trd>&c_h;&c_r;&c_je;&c_b;&c_je;&c_t; <klr>(&c_g;&c_o;&c_r;&c_y;)</klr></trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="egx.0o.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <subsnc mrk="egx.0o.pluredro">
+      <fnt><bib>MatTerm</bib><lok>p. 29</lok></fnt>
+      <dif>
+        <ref tip="super" cel="strek.0o.segmento">Streko</ref> a&ubreve;
+        parto de rekto, komuna al du apudaj <ref
+        cel="edr.0o">edroj</ref>:
+        <ekz>
+          la <tld/>ojn de <ref cel="edr.plur0o">pluredro</ref>
+          konsistigas
+          &ccirc;iuj <ref tip="super" cel="later.0o.streko">lateroj</ref> de
+          &gcirc;iaj <ref cel="fac.0o.pluredro">facoj</ref>;
+        </ekz>
+        <ekz>
+          la <tld/>oj de <ref cel="edr.tri0o">triedro</ref> estas tri
+          duonrektoj, tiu de <ref cel="edr.du0o">duedro</ref> estas
+          rekto.
+        </ekz>
+      </dif>
+      <trdgrp lng="de">
+        <trd>Kante</trd>,
+        <trd>Schneide</trd>
+      </trdgrp>
+      <trd lng="en">edge</trd>
+      <trd lng="fr">ar&ecirc;te<klr tip="ind"> (d'un poly&egrave;dre)</klr></trd>
+      <trd lng="hu">&eacute;l<klr tip="ind"> (poli&eacute;der&eacute;)</klr></trd>      
+      <trd lng="pl">kraw&eogonek;d&zacute;<klr tip="ind"> (wielo&sacute;cianu)</klr></trd>
+      <trd lng="pt">aresta</trd>
+      <trd lng="ru">&c_r;&c_je;&c_b;&c_r;&c_o;<klr tip="ind"> (&c_m;&c_n;&c_o;&c_g;&c_o;&c_g;&c_r;&c_a;&c_n;&c_n;&c_i;&c_k;&c_a;)</klr></trd>
+    </subsnc>
+    <subsnc mrk="egx.0o.grafeo">
+      <fnt><bib>KompLeks</bib></fnt>
+      <refgrp tip="vid">
+        <ref cel="grafe.0o.strukturo">grafeo</ref>,
+        <ref cel="rand.0o.grafea_egxo">rando</ref>,
+        <ref cel="incid.0a.grafee">incida</ref>,
+        <ref cel="najbar.0a.grafee">najbara</ref>.
+      </refgrp>
+      <rim>
+        La termino trovi&gcirc;as kun &ccirc;i tiu grafe-rilata senco 
+        anka&ubreve; en <fnt><bib>MatVort</bib></fnt>, sed nur en klarigaj 
+        parentezoj. Tiu verko ordinare uzas <ctl>streko</ctl> &ccirc;i-sence. 
+        Notindas, ke multaj naciaj lingvoj uzas malsaman terminon por 
+        &ecirc;go de orientita a&ubreve; neorientita grafo. Tio ne aspektas 
+        utila, &ccirc;ar sufi&ccirc;as aldoni ta&ubreve;gan adjektivon en la 
+        maloftaj okazoj, kiam distingo estas bezonata, ekz-e:
+        <ekz>
+          direkta
+        </ekz>
+        a&ubreve;
+        <ekz>
+          sendirekta <tld/>o
+          <fnt><bib>KompLeks</bib></fnt>
+        </ekz>
+        .
+      </rim>
+      <trdgrp lng="de">
+        <trd>Kante</trd>,
+        <trd>Strecke</trd>,
+        <trd>Bogen</trd>
+      </trdgrp>
+      <trdgrp lng="en">
+        <trd>edge</trd>,
+        <trd>arc<klr tip="ind"> (of a graph)</klr></trd>
+      </trdgrp>
+      <trdgrp lng="fr">
+        <trd>ar&ecirc;te<klr tip="ind"> (d'un graphe)</klr></trd>,
+        <trd>arc<klr tip="ind"> (d'un graphe)</klr></trd>
+      </trdgrp>
+      <trd lng="hu">&eacute;l<klr tip="ind"> (gr&aacute;f&eacute;)</klr></trd>      
+      <trdgrp lng="pl">
+        <trd>kraw&eogonek;d&zacute;<klr tip="ind"> (grafu)</klr></trd>,
+        <trd>&lstroke;uk<klr tip="ind"> (grafu)</klr></trd>
+      </trdgrp>
+      <trdgrp lng="ru">
+        <trd>&c_r;&c_je;&c_b;&c_r;&c_o;<klr tip="ind"> (&c_g;&c_r;&c_a;&c_f;&c_a;)</klr></trd>,
+        <trd>&c_d;&c_u;&c_g;&c_a;<klr tip="ind"> (&c_g;&c_r;&c_a;&c_f;&c_a;)</klr></trd>
+      </trdgrp>
+    </subsnc>
+  </snc>
+</drv>
+
+<drv mrk="egx.nop0a">
+  <kap>n-op<tld/>a</kap>
+  <uzo tip="fak">MAT</uzo>
+  <snc>
+    <dif>
+      <klr>(p.p. <ref cel="grafe.0o.strukturo">grafeo</ref>
+      <frm>(<g>E</g>,<k>U</k>)</frm>)</klr>
+      Tia, ke la sama <tld/>o aperas maksimume <frm><k>n</k></frm>-foje
+      en <frm><k>U</k></frm>:
+      <ekz>
+        <ind>unuop<tld/>a grafeo</ind> estas identigebla kun interna
+        rilato
+        en <frm><g>E</g></frm>;
+        <trd lng="fr">1-<ind>graphe</ind></trd>
+        <trd lng="hu">1-<ind>gr&aacute;f</ind></trd>        
+      </ekz>
+      <ekz>
+        plurop<tld/>a grafeo <klr>(<frm><k>n</k> &gt; 1</frm>)</klr>.
+      </ekz>
+    </dif>
+    <rim>
+      Ni ne trovis a&ubreve;toritatan fonton por tiu termino. En
+      <fnt><bib>KompLeks</bib></fnt> trovi&gcirc;as <ctl>unuobla grafeo</ctl>,
+      sed &scirc;ajnas tamen, ke la de ni proponita termino estas logika, ja
+      tiaj grafeoj karakterizi&gcirc;as per tio, ke iliaj e&gcirc;oj povas
+      esti maksimume <frm><k>n</k></frm>-opaj, en la senco, ke inter du 
+      verticoj estas maksimume <frm><k>n</k></frm> <ctl>paralelaj</ctl>
+      e&gcirc;oj. Alternativo estas
+      pa&ubreve;si la internaciajn formojn per kunmeta&jcirc;o de la tipo
+      <ref cel="grafe.n0o">n-grafeo</ref>. Beda&ubreve;rinde la modelo
+      &leftquot;<frm><k>n</k></frm>-X-o&rightquot; havas du eblajn
+      interpretojn: &leftquot;objekto kun <frm><k>n</k></frm> X-oj&rightquot;
+      (
+      <ekz>
+        <frm><k>n</k></frm>-latero,
+      </ekz>
+      <ekz>
+        <frm><k>n</k></frm>-edro
+      </ekz>
+      ) a&ubreve; 
+      &leftquot;X-o iel karakterizata per <frm><k>n</k></frm>&rightquot;
+      (
+      <ekz>
+        <frm><k>n</k></frm>-opo
+      </ekz>
+      ). Pli &gcirc;ene estas, ke la plej uzata formo estas
+      <ctl>1-grafeo</ctl>, kiu sonas maloportune en elparolata frazo. Do
+      entute la adjektiva formo &scirc;ajnas utila.
+    </rim>
+  </snc>
+  <trd lng="fr">n-<klr tip="amb">(graphe)</klr></trd>
+  <trd lng="hu">n-<klr tip="amb">(gr&aacute;f)</klr></trd>  
+</drv>
+</art>
+<!--
+$Log: egx.xml,v $
+Revision 1.15  2014/01/09 19:10:18  revo
+Jeromo Vasxe: + ekz, snc geog 1a
+
+Revision 1.14  2007/06/22 17:25:44  revo
+Tulio Flores: +tr pt
+
+Revision 1.13  2005/06/15 16:32:17  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.12  2003/04/27 16:30:44  revo
+Marc Bavant: n-op~a: mod rim
+
+Revision 1.11  2003/04/07 16:34:53  revo
+Marc Bavant: ~o (grafeo): mod rim
+Revision 1.10  2003/01/02 17:45:12  revo
+Marc Bavant: n-op~a: +frm
+Revision 1.9 2002/10/27 17:13:20 revo
+Marc Bavant: snc MAT: +trd pl; ~o (grafeo): +rim, mod ref cel al grafeo,
++ref al rando, incida, najbara, reviziis trd; +drv n-op~a
+Revision 1.8 2002/05/18 16:33:55 revo
+Ulrich Fellmann: +3 pliaj trd de
+Revision 1.7 2002/03/17 17:31:22 revo
+-->
+</vortaro>

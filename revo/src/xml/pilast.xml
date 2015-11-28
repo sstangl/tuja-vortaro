@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: pilast.xml,v 1.17 2015/07/04 08:37:41 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>pilastr</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="pilast.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="pilast.0o.ARKI">
+  <uzo tip="fak">ARKI</uzo>
+    <ref tip="dif" cel="kolon.mur0o.ARKI">murkolono</ref>
+  </snc>
+  <trd lng="be">&c_p;&c_ib;&c_l;&c_ja;&c_s;&c_t;&c_r;&c_a;</trd>
+  <trd lng="cs">pilastr</trd>
+  <trdgrp lng="de">
+    <trd>Pilaster</trd>,
+    <trd>viereckiger <ind>Wandpfeiler</ind></trd>
+  </trdgrp>
+  <trd lng="en">pilaster</trd>
+  <trd lng="fr">pilastre</trd>
+  <trd lng="hu">pilaszter</trd>
+  <trd lng="nl">pilaster</trd>
+  <trdgrp lng="pl">
+    <trd>pilaster</trd>
+    <trd>pilastr</trd>
+  </trdgrp>
+  <trd lng="ru">&c_p;&c_i;&c_l;&c_ja;&c_s;&c_t;&c_r;</trd>
+  <trd lng="sk">pilaster</trd>
+</drv>
+
+<drv mrk="pilast.apog0o">
+  <kap>apog<tld/>o</kap>
+  <snc mrk="pilast.apog0o.ARKI">
+  <uzo tip="fak">ARKI</uzo>
+    <dif>
+      <tld lit="P"/>a <ref tip="super" cel="kolon.0o.ARKI">kolono</ref> 
+      kiu apogas &scirc;ar&gcirc;atan muron kontra&ubreve; ruini&gcirc;o. 
+    </dif>
+  </snc>
+  <trdgrp lng="en">
+    <trd>abutment</trd>,
+    <trd>buttress</trd>
+  </trdgrp>
+  <trd lng="fr">contrefort</trd>
+  <trd lng="nl">steunbeer</trd>
+  <trd lng="hu">t&aacute;mpill&eacute;r</trd>
+</drv>
+</art>
+<!--
+$Log: pilast.xml,v $
+Revision 1.17  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:40:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.15  2014/10/16 19:10:26  revo
+Jeromo Vasxe: ref dif
+
+Revision 1.14  2010/05/14 16:30:57  revo
+Russ Williams: +trd en
+
+Revision 1.13  2009/10/25 17:30:42  revo
+Paul Peeraerts: +nl
+
+Revision 1.12  2006/07/21 18:03:55  revo
+Jeromo Vasxe: + tez + mrk
+
+Revision 1.11  2006/01/16 17:33:05  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.10  2003/07/17 16:34:39  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.9  2002/07/14 17:32:05  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.8  2002/02/07 17:31:36  revo
+-->
+</vortaro>

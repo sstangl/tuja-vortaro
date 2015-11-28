@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: genom.xml,v 1.5 2015/07/04 08:37:35 revo Exp $">
+<kap>
+  <rad>genom</rad>/o
+</kap>
+<drv mrk="genom.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="genom.0o.GNT">
+    <uzo tip="fak">FIZL</uzo>
+    <ref tip="dif" cel="gen.0aro.GNT">genaro</ref>
+    <ekz>
+      homa <tld/>o konsistas el 3 000 000 000 paroj da bazoj
+      <fnt>
+        <aut>P. S. Viana</aut>,
+        <vrk><url
+        ref="http://www.kke.org.br/eo/palestras/projekto_homa_genomo">
+        Projekto Homa Genomo</url></vrk>,
+        <lok>38a Brazila Kongreso de Esperanto, 2003</lok>
+      </fnt>;
+    </ekz>
+    <ekz>
+      mitokondrioj devenas el bakterioj kaj tial parte konservis la 
+      propran <tld/>on
+      <fnt>
+        <aut>I. Kossey</aut>,
+        <vrk><url ref="http://sonoramagazino.blogspot.com/">
+        Sciencistoj de&ccirc;ifris la DNA-n de nova speco de
+        homoj</url></vrk>,
+        <lok>2010-05-09</lok>
+      </fnt>.
+    </ekz>
+    <trd lng="ca">genoma</trd>
+    <trdgrp lng="de">
+      <trd>Genom</trd>,
+      <trd>Erbgut</trd>
+    </trdgrp>
+    <trd lng="en">genome</trd>
+    <trd lng="fa">&f_zh;&a_n;&a_w;&a_m;</trd>
+    <trdgrp lng="fr">
+      <trd>g&eacute;nome</trd>,
+      <trd>patrimoine g&eacute;n&eacute;tique</trd>
+    </trdgrp>
+    <trdgrp lng="it">
+      <trd>genoma</trd>,
+      <trd>patrimonio genetico</trd>
+    </trdgrp>
+    <trd lng="pl">genom</trd>
+  </snc>
+  <trd lng="cs">genom</trd>
+  <trd lng="sk">genóm</trd>
+</drv>
+</art>
+
+<!--
+$Log: genom.xml,v $
+Revision 1.5  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.4  2015/06/29 16:29:39  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.3  2012/08/18 19:10:42  revo
+Marc Rausell: + trd ca
+
+Revision 1.2  2010/12/09 17:30:45  revo
+Sebastian Cyprych: +trd-oj
+
+Revision 1.1  2010/09/19 16:30:37  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

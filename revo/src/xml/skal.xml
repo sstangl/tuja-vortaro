@@ -1,0 +1,309 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: skal.xml,v 1.21 2015/07/04 08:37:43 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>skal</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="skal.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="skal.0o.relativa">
+    <dif>
+      Rilato inter la dimensioj de du diverse
+      grandaj objektoj.
+    </dif>
+    <subsnc mrk="skal.0o.proporcio">
+      <uzo tip="fak">TEK</uzo>
+      <dif>
+        Rilato inter la efektivaj dimensioj de objekto kaj la dimensioj
+        de desegna&jcirc;o, kiu figuras &gcirc;in:
+        <ekz>
+          en neniu farebla desegna&jcirc;o ni povas desegni samtempe la
+          orbitojn kaj
+          la planedojn la&ubreve; la sama <tld/>o
+          <fnt>
+          <aut>G. Macaoidh</aut>,
+          <vrk>Tra kruta&jcirc;oj al la astroj</vrk>,
+          <bib>Monato</bib>,
+          <lok>2001:6, p. 17a</lok>
+          </fnt>.
+        </ekz>
+      </dif>
+      <trd lng="be">&c_m;&c_a;&c_sh;&c_t;&c_a;&c_b;</trd>
+      <trd lng="de">Ma&szlig;stab</trd>
+      <trdgrp lng="fr">
+        <trd>&eacute;chelle<klr> (rapport au r&eacute;el)</klr></trd>
+      </trdgrp>
+      <trdgrp lng="hu">
+        <trd>l&eacute;pt&eacute;k</trd>,
+        <trd>m&eacute;retar&aacute;ny</trd>
+      </trdgrp>
+      <trd lng="pl">skala</trd>
+      <trd lng="ru">&c_m;&c_a;&c_s;&c_sh;&c_t;&c_a;&c_b;</trd>
+    </subsnc>
+    <subsnc mrk="skal.0o.grafika">
+      <dif>
+        Simbolo montranta la <tld/>on de desegno
+        per linio dividita per streketoj kaj apudaj
+        indikoj de la efektivaj distancoj:
+        <!--
+        Linio dividita per egaldistancaj streketoj, kiuj montras la
+        dimensiojn de desegna&jcirc;o rilate al efektiva objekto.
+        -->
+      </dif>
+      <trd lng="be">&c_m;&c_a;&c_sh;&c_t;&c_a;&c_b;</trd>
+      <trd lng="de">Skala</trd>
+      <trdgrp lng="fr">
+        <trd>&eacute;chelle<klr> (cartographie)</klr></trd>
+      </trdgrp>
+      <trdgrp lng="pl">
+        <trd>skala</trd>,
+        <trd>podzia&lstroke;ka</trd>
+      </trdgrp>
+      <trd lng="ru">&c_m;&c_a;&c_s;&c_sh;&c_t;&c_a;&c_b;</trd>
+    </subsnc>
+    <subsnc mrk="skal.0o.mezura">
+      <dif>
+        Serio de streketoj a&ubreve; indikoj, kiujn montrilo
+        a&ubreve; alia mezurilo atingas, tiel montrante la
+        rilaton al iu grando (temperaturo, premo, rapido...)
+        <!--
+        Aro de la streketoj, kiuj montras la gradojn de termometro
+        a&ubreve; de
+        alia ajn mezuraparato.
+        -->
+      </dif>
+      <trd lng="be">&c_sh;&c_k;&c_a;&c_l;&c_a;</trd>
+      <trd lng="de">Skala</trd>
+      <trdgrp lng="fr">
+        <trd>graduation</trd>
+      </trdgrp>
+      <trdgrp lng="hu">
+        <trd>sk&aacute;la</trd>,
+        <trd>fokbeoszt&aacute;s</trd>
+      </trdgrp>
+      <trdgrp lng="pl">
+        <trd>skala</trd>,
+        <trd>podzia&lstroke;ka</trd>
+      </trdgrp>
+      <trd lng="ru">&c_sh;&c_k;&c_a;&c_l;&c_a;</trd>
+    </subsnc>
+  </snc>
+  <snc mrk="skal.0o.absoluta">
+    <dif>
+      Serio de interrilataj gradoj de mezuro:
+      <ekz>
+        boforta <tld/>o
+        <klr>(skalo de forteco de ventoj)</klr>.
+      </ekz>
+    </dif>
+    <subsnc mrk="skal.0o.MUZ">
+      <uzo tip="fak">MUZ</uzo>
+      <dif>
+        Orda, norma serio de tonoj.
+      </dif>
+      <trd lng="be">&c_d;&c_y;&c_ja;&c_p;&c_a;&c_z;&c_o;&c_n; <klr
+      tip="amb">(&c_m;&c_u;&c_z;.)</klr></trd>
+      <trdgrp lng="hu">
+        <trd>hangl&eacute;tra</trd>,
+        <trd>hangsor</trd>,
+        <trd>sk&aacute;la</trd>
+      </trdgrp>
+      <trd lng="pl">skala</trd>
+      <trd lng="ru">&c_d;&c_i;&c_a;&c_p;&c_a;&c_z;&c_o;&c_n; <klr
+      tip="amb">(&c_m;&c_u;&c_z;.)</klr></trd>
+    </subsnc>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>měřítko mapy</trd>,
+    <trd>stupnice přístroje</trd>
+  </trdgrp>
+  <trd lng="en">scale</trd>
+  <trd lng="es">escala</trd>
+  <trd lng="nl">schaal</trd>
+  <trdgrp lng="sk">
+    <trd>hlasový rozsah <klr>(hud.)</klr></trd>,
+    <trd>stupnica</trd>,
+    <trd>škála</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="skal.0i">
+  <kap><tld/>i</kap> <fnt><bib>KompLeks</bib></fnt>
+  <snc mrk="skal.0i.KOMUNE">
+    <dif>
+      Grandigi a&ubreve; malgrandigi en &ccirc;iuj dimensioj,
+      konservante
+      proporciojn de la partoj:
+      <ekz>
+        oni simple amplifis la sonon sen <tld/>i la intonacion
+        <fnt>
+        <aut>S. Pokrovskij</aut>,
+        <vrk>La malo de &leftquot;vo&ccirc;legi&rightquot;</vrk>,
+        <lok><url
+        ref="http://groups.google.be/group/soc.culture.esperanto?hl=eo">soc.culture.esperanto</url>,
+        2003-07-25</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="en">rescale</trd>
+    <trd lng="fr">redimensionner</trd>
+    <trd lng="pl">skalowa&cacute;</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>měnit rozměr</trd>,
+    <trd>stanovit měřítko</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>meniť smer</trd>,
+    <trd>stanoviť merítko</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="skal.0ebla">
+  <kap><tld/>ebla</kap>
+  <snc mrk="skal.0ebla.TEK">
+    <dif>
+      Facile projekciebla al malgranda prezento, adaptebla al pli vasta
+      a&ubreve; pli malvasta apliko:
+      <ekz>
+        du &ccirc;efaj manieroj prezenti konturajn <tld/>eblajn
+        tiparojn
+        <fnt>
+        <aut>F. Kruse</aut>,
+        <vrk>Agrabla ekzercilo</vrk>,
+        <bib>Monato</bib>,
+        <lok>1996:10, p. 12a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="en">scalable</trd>
+  <trdgrp lng="fr">
+    <trd>dimensionnable</trd>,
+    <trd>redimensionnable</trd>
+  </trdgrp>
+  <trd lng="hu">&uacute;jram&eacute;retezhet&odblac;</trd>
+  <trd lng="pl">skalowalny</trd>
+  <trd
+  lng="ru">&c_m;&c_a;&c_s;&c_sh;&c_t;&c_a;&c_b;&c_i;&c_r;&c_u;&c_je;&c_m;&c_y;&c_j;</trd>
+</drv>
+
+<drv mrk="skal.et0a">
+  <kap>et<tld/>a</kap>
+  <snc mrk="skal.et0a.KOMUNE">
+    <dif>
+      Neampleksa, relative malvasta, koncernanta malmultajn homojn:
+      <ekz>
+        ruinigante la <klr>...</klr> et<tld/>an agrikulturon
+        <fnt>
+        <aut>R. Rotsaert</aut>,
+        <vrk>Jarmila konferenco &hcirc;aose malsukcesis</vrk>,
+        <bib>Monato</bib>,
+        <lok>2000:2, p. 10a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_m;&c_a;&c_l;&c_a;&c_m;&c_a;&c_sh;&c_t;&c_a;&c_b;&c_n;&c_y;</trd>,
+    <trd>&c_d;&c_r;&c_o;&c_b;&c_n;&c_y;</trd>,
+    <trd>&c_a;&c_b;&c_m;&c_je;&c_zh;&c_a;&c_v;&c_a;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trd lng="en">small scale</trd>
+  <trdgrp lng="fr">
+    <trd>&agrave; petite <ind>&eacute;chelle</ind><klr>
+    (adj.)</klr></trd>,
+    <trd>modeste<klr> (&agrave; petite &eacute;chelle)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>kis <ind>sk&aacute;l&aacute;j&uacute;</ind></trd>,
+    <trd>nem sz&eacute;les <ind>k&ouml;r&udblac;</ind></trd>,
+    <trd>kis <ind>m&eacute;rt&eacute;k&udblac;</ind></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>na ma&lstroke;&aogonek; <ind>skal&eogonek;</ind></trd>,
+    <trd>w niewielkim <ind>zakresie</ind></trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_m;&c_a;&c_l;&c_o;&c_m;&c_a;&c_s;&c_sh;&c_t;&c_a;&c_b;&c_n;&c_y;&c_j;</trd>,
+    <trd>&c_o;&c_g;&c_r;&c_a;&c_n;&c_i;&c_ch;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="skal.grand0a">
+  <kap>grand<tld/>a</kap>
+  <snc mrk="skal.grand0a.KOMUNE">
+    <dif>
+      Ampleksa, tu&scirc;anta multajn lokojn, kun gravaj sekvoj:
+      <ekz>
+        preska&ubreve; certe en Koreio okazis grand<tld/>a fra&ubreve;do
+        <fnt>
+        <aut>R. Rotsaert</aut>,
+        <vrk>Lernout kaj Hauspie: epilogo</vrk>,
+        <bib>Monato</bib>,
+        <lok>2002:2, p. 12a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd
+  lng="be">&c_b;&c_u;&c_j;&c_n;&c_a;&c_m;&c_a;&c_sh;&c_t;&c_a;&c_b;&c_n;&c_y;</trd>
+  <trd lng="cs">ve velkém měřítku <klr>(adj.)</klr></trd>
+  <trd lng="en">large scale</trd>
+  <trdgrp lng="fr">
+    <trd>ambitieux<klr> (&agrave; grande &eacute;chelle)</klr></trd>,
+    <trd>&agrave; grande <ind>&eacute;chelle</ind><klr>
+    (adj.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>sz&eacute;les <ind>k&ouml;r&udblac;</ind></trd>,
+    <trd>nagym&eacute;rv&udblac;</trd>,
+    <trd>nagyar&aacute;ny&uacute;</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>na du&zdot;&aogonek; <ind>skal&eogonek;</ind></trd>,
+    <trd>w pe&lstroke;nym <ind>zakresie</ind></trd>
+  </trdgrp>
+  <trd
+  lng="ru">&c_sh;&c_i;&c_r;&c_o;&c_k;&c_o;&c_m;&c_a;&c_s;&c_sh;&c_t;&c_a;&c_b;&c_n;&c_y;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>veľkorysý</trd>,
+    <trd>veľkého stupňa</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: skal.xml,v $
+Revision 1.21  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.19  2011/07/13 19:11:12  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.18  2011/04/29 19:10:36  revo
+Jeromo Vasxe: ~o snc/subsnc, retusx. dif.
+
+Revision 1.17  2009/08/08 16:35:07  revo
+Russ Williams: +trd en
+
+Revision 1.16  2006/03/17 17:32:43  revo
+Jeromo Vasxe: + ~i
+
+Revision 1.15 2004/10/14 16:31:12 revo
+Jozefo Horvath: +trd hu
+
+Revision 1.14 2004/09/01 16:32:37 revo
+Dmitri Gabinski: +trd be
+
+Revision 1.13 2003/11/30 17:30:43 revo
+jxeromo vasxe: kor ortog. trd fr, reord. snc, + fak tek, reverkis dif
+muz
+
+-->
+</vortaro>

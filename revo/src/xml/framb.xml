@@ -1,0 +1,128 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: framb.xml,v 1.30 2015/07/04 08:37:34 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>framb</rad>/o
+</kap>
+
+<drv mrk="framb.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="framb.0o.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      Ru&gcirc;a, bongusta man&gcirc;ebla frukto de <tld/>ujo.
+    </dif>
+    <ref tip="super" cel="frukt.plur0o">plurfrukto</ref>
+    <bld lok="../bld/framb2.jpg">
+      <tld/>o
+    </bld>
+  </snc>
+  <trd lng="be">&c_m;&c_a;&c_l;&c_ib;&c_n;&c_a; <klr>(&c_ja;&c_g;&c_a;&c_d;&c_a;)</klr></trd>
+  <trd lng="bg">&c_m;&c_a;&c_l;&c_i;&c_n;&c_a;</trd>
+  <trdgrp lng="cs">
+    <trd>malina</trd>,
+    <trd>malina <klr>(plod)</klr></trd>
+  </trdgrp>
+  <trd lng="de">Himbeere</trd>
+  <trd lng="en">raspberry</trd>
+  <trd lng="es">frambuesa</trd>
+  <trd lng="fr">framboise</trd>
+  <trd lng="hu">m&aacute;lna</trd>
+  <trd lng="nl">framboos</trd>
+  <trd lng="no">bringeb&aelig;r</trd>
+  <trd lng="pl">malina</trd>
+  <trd lng="pt">framboesa</trd>
+  <trd lng="ru">&c_m;&c_a;&c_l;&c_i;&c_n;&c_a; <klr>(&c_ja;&c_g;&c_o;&c_d;&c_a;)</klr></trd>
+  <trd lng="sk">malina <klr>(plod)</klr></trd>
+</drv>
+
+<drv mrk="framb.0ujo">
+  <kap><tld/>ujo</kap>
+  <snc mrk="framb.0ujo.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      <ref tip="lst" cel="speci.0o.BIO"
+      lst="voko:botanikaj_specioj">Specio</ref> de <ref tip="super"
+      cel="rubus.0o.genro">rubuso</ref>
+      kun ru&gcirc;aj plurfruktoj (<trd lng="la">Rubus idaeus</trd>):
+      <ekz>
+        inter verdaj <tld/>ujoj staris alta svelta fra&ubreve;lino
+        <fnt>
+        <aut>Ivan Turgenev, trad. I. Novikova k.a.</aut>,
+        <vrk><url ref="http://esperanto.org/Ondo/Rn-turg1.htm">La unua
+        amo</url></vrk>,
+        <lok>Jekaterinburg: Sezonoj, 1993</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <bld lok="../bld/framb.jpg">
+    floroj
+  </bld>
+  <trdgrp lng="be">
+    <trd>&c_m;&c_a;&c_l;&c_ib;&c_n;&c_a; <klr>(&c_r;&c_a;&c_s;&c_mol;&c_l;&c_ib;&c_n;&c_a;)</klr></trd>,
+    <trd>&c_m;&c_a;&c_l;&c_ib;&c_n;&c_mol;&c_n;&c_ib;&c_k;</trd>,
+    <trd>&c_m;&c_a;&c_l;&c_ib;&c_n;&c_a;&c_v;&c_y; &c_k;&c_u;&c_s;&c_t;</trd>
+  </trdgrp>
+  <trd lng="bg">&c_m;&c_a;&c_l;&c_i;&c_n;&c_a;</trd>
+  <trd lng="cs">malin&iacute;k</trd>
+  <trd lng="de">Himbeerstrauch</trd>
+  <trd lng="en">raspberry bush</trd>
+  <trd lng="fr">framboisier</trd>
+  <trd lng="hu">m&aacute;lnabokor</trd>
+  <trdgrp lng="nl">
+    <trd>framboos</trd>,
+    <trd>frambozenstruik</trd>
+  </trdgrp>
+  <trdgrp lng="no">
+    <trd>bringeb&aelig;r</trd>,
+    <trd>bringeb&aelig;rbusk</trd>
+  </trdgrp>
+  <trd lng="pl">malina</trd>
+  <trd lng="pt">framboeseira</trd>
+  <trdgrp lng="ru">
+    <trd>&c_m;&c_a;&c_l;&c_i;&c_n;&c_a; <klr>(&c_r;&c_a;&c_s;&c_t;&c_je;&c_n;&c_i;&c_je;)</klr></trd>,
+    <trd>&c_m;&c_a;&c_l;&c_i;&c_n;&c_o;&c_v;&c_y;&c_j; &c_k;&c_u;&c_s;&c_t;</trd>
+  </trdgrp>
+  <trd lng="sk">ostružina malinová</trd>
+  <trdgrp lng="cs">
+    <trd>maliník obecný</trd>,
+    <trd>ostružiník malinový</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: framb.xml,v $
+Revision 1.30  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.29  2015/06/29 16:29:38  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.28  2014/11/04 11:10:21  revo
+Filip van Laenen: +trd no, kor trd nl
+
+Revision 1.27  2013/08/30 14:11:05  revo
+Wolfram Diestel: kor. lst-ref
+
+Revision 1.26  2013/08/29 09:10:14  revo
+Wolfram Diestel: referenco al listo bot specioj
+
+Revision 1.25  2008/01/17 17:30:31  revo
+Wieland Pusch: +trd bg
+
+Revision 1.24  2007/09/23 16:30:39  revo
+Tulio Flores: +tr pt
+
+Revision 1.23  2007/06/10 16:31:01  revo
+Tulio Flores: +tr pt
+
+Revision 1.22  2006/09/08 12:03:58  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.21  2006/05/08 16:31:09  revo
+-->
+</vortaro>

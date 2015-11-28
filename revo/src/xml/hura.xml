@@ -1,0 +1,146 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: hura.xml,v 1.21 2015/07/04 08:37:35 revo Exp $">
+<kap>
+  <ofc>3</ofc>
+  <rad>hura</rad> <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="hura.0">
+  <kap><tld/></kap>
+  <snc mrk="hura.0.SON">
+    <gra><vspec>ekkrio</vspec></gra>
+    <dif>
+      Bonege, gratulinde, pri&gcirc;ojinde!
+    </dif>
+  </snc>
+  <trd lng="be">&c_u;&c_r;&c_a;</trd>
+  <trdgrp lng="ca">
+    <trd>hurra!</trd>,
+    <trd>visca!</trd>
+  </trdgrp>
+   <trdgrp lng="de">
+    <trd>hurra</trd>,
+    <trd>juhu</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>hurrah</trd>,
+    <trd>hooray</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>&#161;hurra!<klr tip="ind"> (interj.)</klr></trd>,
+    <trd>&#161;viva!</trd>,
+    <trd>&#161;bravo!</trd>
+  </trdgrp>
+  <trd lng="fr">hourra<klr tip="ind"> (interj.)</klr></trd>
+  <trd lng="hu">hurr&aacute;</trd>
+  <trd lng="it">urr&aacute;</trd>
+  <trd lng="nl">hoera</trd>
+  <trd lng="pl">hura</trd>
+  <trd lng="pt">viva<klr tip="ind"> (interj.)</klr></trd>
+  <trd lng="ru">&c_u;&c_r;&c_a;</trd>
+</drv>
+
+<drv mrk="hura.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="hura.0o.SON">
+    <dif>
+      <tld lit="H"/>-krio.
+    </dif>
+  </snc>
+  <trd lng="be">&c_u;&c_r;&c_a;</trd>
+  <trdgrp lng="ca">
+    <trd>v&iacute;ctor</trd>,
+    <trd>visca</trd>,
+    <trd>ovaci&oacute;</trd>
+  </trdgrp>
+  <trd lng="cs">volání hurá</trd>
+  <trdgrp lng="de">
+    <trd>Hurraruf</trd>,
+    <trd>Hurra</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>hurrah</trd>,
+    <trd>hooray</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>hurra<klr tip="ind"> (subst.)</klr></trd>,
+    <trd>ovaci&oacute;n</trd>
+  </trdgrp>
+  <trd lng="fr">hourra<klr tip="ind"> (subst.)</klr></trd>
+  <trd lng="hu">hurr&aacute;z&aacute;s</trd>
+  <trd lng="it">urr&aacute;</trd>
+  <trd lng="nl">hoerageroep</trd>
+  <trd lng="pt">grito de <ind>viva</ind></trd>
+  <trd lng="sk">volanie hurá</trd>
+</drv>
+
+<drv mrk="hura.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>x</vspec></gra>
+  <snc mrk="hura.0i.SON">
+    <dif>
+      <tld lit="H"/>-krii.
+    </dif>
+  </snc>
+  <trd lng="be">&c_k;&c_r;&c_y;&c_ch;&c_a;&c_c;&c_mol; <ind>&c_u;&c_r;&c_a;</ind></trd>
+  <trdgrp lng="ca">
+    <trd>victorejar</trd>,
+    <trd>aclamar</trd>
+  </trdgrp>
+  <trd lng="cs">volat hurá</trd>
+  <trdgrp lng="de">
+    <trd>Hurra rufen</trd>,
+    <trd>bejubeln</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>exult</trd>,
+    <trd>rejoice</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>crier des <ind>hourras</ind></trd>,
+    <trd>acclamer</trd></trdgrp>
+  <trd lng="hu">hurr&aacute;z&aacute;zik</trd>
+  <trd lng="it">esultare<klr> (gridare "urr&aacute;")</klr></trd>
+  <trd lng="nl">hoera roepen</trd>
+  <trdgrp lng="pl">
+    <trd>krzycze&cacute; <ind>hura</ind></trd>,
+    <trd>wiwatowa&cacute;</trd>
+  </trdgrp>
+  <trd lng="pt">gritar <ind>viva</ind></trd>
+  <trd lng="sk">volať hurá!</trd>
+</drv>
+</art>
+<!--
+$Log: hura.xml,v $
+Revision 1.21  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.19  2014/09/18 14:10:12  revo
+Guillermo Molleda Jimena: trd es
+
+Revision 1.18  2014/02/25 02:10:17  revo
+Jeromo Vasxe: + vspec
+
+Revision 1.17  2014/02/18 12:10:20  revo
+Damien Brucker: +ref
+
+Revision 1.16  2014/01/10 13:10:14  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.15  2011/12/05 02:10:11  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.14  2009/09/14 16:31:50  revo
+Antonio Codazzi: +trd it
+
+Revision 1.13  2005/10/17 16:32:00  revo
+Luiz Portella: +trd pt
+
+Revision 1.12  2005/04/18 16:32:57  revo
+-->
+</vortaro>

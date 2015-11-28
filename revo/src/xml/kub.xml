@@ -1,0 +1,268 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: kub.xml,v 1.30 2015/07/04 08:37:38 revo Exp $">
+<kap>
+   <ofc>8</ofc>
+   <rad>kub</rad>/o
+</kap>
+<drv mrk="kub.0o">
+   <kap><ofc>*</ofc><tld/>o</kap>
+   <snc mrk="kub.0o.figuro">
+     <uzo tip="fak">MAT</uzo>
+     <fnt><bib>MatTerm</bib><lok>p. 30</lok></fnt>
+     <dif>
+       <ref tip="super" cel="edr.n0o">Sesedro</ref>, kiun limas ses
+       <ref cel="kvadra1.0o.figuro">kvadratoj</ref>; alidire
+       <ref cel="regul.0a.pluredro">regula</ref> sesedro.
+     </dif>
+     <trd lng="be">&c_k;&c_u;&c_b;</trd>
+     <trd lng="de">W&uuml;rfel</trd>
+     <trd lng="en">cube</trd>
+     <trd lng="fa">&a_m;&f_k;&a_ayn;&a_b;</trd>
+     <trd lng="hu">kocka</trd>
+     <trd lng="id">kubus</trd>
+     <trdgrp lng="pl">
+       <trd>sze&sacute;cian<klr tip="ind"> (wielo&sacute;cian
+foremny)</klr></trd>,
+       <trd>kostka</trd>
+     </trdgrp>
+     <trd lng="nl">kubus</trd>
+     <trd lng="pt">cubo</trd>
+     <trd lng="ru">&c_k;&c_u;&c_b;</trd>
+     <trd lng="sv">kub</trd>
+   </snc>
+   <snc>
+     <dif>
+       Malgranda <tld/>o el eburo, ligno ktp, signita sur &ccirc;iu
+       faco per aparta nombro, de unu &gcirc;is ses, kaj servanta por
+diversaj
+       ludoj; &jcirc;et<tld/>o, lud<tld/>o:
+       <ekz>
+         la <tld/>oj jam falis, jam estas &jcirc;etitaj
+         <klr>(malebli&gcirc;is nun &ccirc;ia &scirc;an&gcirc;i&gcirc;o;
+         <refgrp tip="vid">
+           <ref cel="pont.0o">ponto</ref>,
+           <ref cel="pas.trans0i">transpasi</ref>
+         </refgrp>)</klr>.
+       </ekz>
+     </dif>
+     <trdgrp lng="be">
+       <trd>&c_k;&c_u;&c_b;</trd>,
+       <trd>&c_k;&c_u;&c_b;&c_ib;&c_k;</trd>
+     </trdgrp>
+     <trdgrp lng="en">
+       <trd>die<klr tip="amb"> (gaming)</klr></trd>,
+       <trd>dice</trd>
+     </trdgrp>
+     <trd lng="fa">&a_t;&a_A;&a_s;<klr tip="ind"> (&a_m;&a_h;&a_r;&a_h;&a_hamza_sure;
+     &a_b;&a_A;&a_z;&f_y;)</klr></trd>
+     <trd lng="hu">dob&oacute;kocka</trd>
+     <trd lng="id">dadu</trd>
+     <trdgrp lng="nl">
+       <trd>teerling</trd>,
+       <trd>dobbelsteen</trd>
+     </trdgrp>
+     <trd lng="ru">&c_k;&c_u;&c_b;&c_i;&c_k;</trd>
+     <trd lng="sv">t&auml;rning</trd>
+   </snc>
+   <snc mrk="kub.0o.algebra">
+     <uzo tip="fak">MAT</uzo>
+     <fnt><bib>MatTerm</bib><lok>p. 10</lok></fnt>
+     <dif>
+       La tria <ref tip="super"
+cel="potenc.0o.per_entjero">potenco</ref> de
+       nombro; produto de tiu nombro per &gcirc;ia
+       <ref cel="kvadra1.0o.algebra">kvadrato</ref>.
+     </dif>
+     <trdgrp lng="be">
+       <trd>&c_k;&c_u;&c_b;</trd>,
+       <trd>&c_t;&c_r;&c_e;&c_c;&c_ja;&c_ja; &c_s;&c_t;&c_u;&c_p;&c_je;&c_n;&c_mol;</trd>
+     </trdgrp>
+     <trd lng="de">Kubus</trd>
+     <trd lng="en">cube</trd>
+     <trd lng="fa">&a_m;&f_k;&a_ayn;&a_b;</trd>
+     <trd lng="hu">k&ouml;b</trd>
+     <trd lng="id">kubik</trd>
+     <trd lng="nl">derde <ind>macht</ind></trd>
+     <trdgrp lng="pl">
+       <trd>sze&sacute;cian<klr tip="ind"> (trzecia
+pot&eogonek;ga)</klr></trd>,
+       <trd>trzecia pot&eogonek;ga<klr tip="ind">
+(liczby)</klr></trd></trdgrp>
+     <trdgrp lng="ru">
+       <trd>&c_k;&c_u;&c_b;</trd>,
+       <trd>&c_t;&c_r;&c_je;&c_t;&c_mol;&c_ja; &c_s;&c_t;&c_je;&c_p;&c_je;&c_n;&c_mol;</trd>
+     </trdgrp>
+     <trd lng="sv">kub</trd>
+   </snc>
+  <trdgrp lng="cs">
+    <trd>kostka</trd>,
+    <trd>krychle</trd>,
+    <trd>třetí mocnina</trd>
+  </trdgrp>
+  <trd lng="fr">cube</trd>
+  <trd lng="sk">tretia mocnina <klr>(čísla)</klr></trd>
+</drv>
+
+<drv mrk="kub.0a">
+   <kap><tld/>a</kap>
+   <fnt><bib>PIV1</bib></fnt>
+   <snc>
+     <dif>
+       Rilata al <tld/>o:
+       <ekz>
+         <tld/>a skatolo <klr>(<ref
+         cel="kub.0forma"><tld/>forma</ref>)</klr>;
+       </ekz>
+       <ekz>
+         <ref cel="metr.kuba0o"><tld/>a metro</ref>;
+       </ekz>
+       <ekz>
+         <uzo tip="fak">MAT</uzo>
+         <tld/>a polinomo <klr>(triagrada)</klr>;
+       </ekz>
+       <ekz>
+         <uzo tip="fak">MAT</uzo>
+         <tld/>a <ref cel="radik.0o.per">radiko</ref>.
+       </ekz>
+     </dif>
+   </snc>
+  <trd lng="be">&c_k;&c_u;&c_b;&c_ib;&c_ch;&c_n;&c_y;</trd>
+  <trdgrp lng="cs">
+    <trd>krychlový</trd>,
+    <trd>kubický</trd>,
+    <trd>třetího stupně</trd>
+  </trdgrp>
+  <trd lng="de">kubisch</trd>
+  <trdgrp lng="en">
+     <trd>cubic</trd>,
+     <trd>cubical</trd>
+   </trdgrp>
+  <trdgrp lng="fa">
+     <trd>&a_m;&f_k;&a_ayn;&a_b;&f_y;</trd>,
+     <trd>&a_m;&f_k;&a_ayn;&a_b;</trd>
+   </trdgrp>
+  <trd lng="fr">cubique</trd>
+  <trdgrp lng="hu">
+     <trd>k&ouml;b-</trd>,
+     <trd>kocka alak&uacute;</trd>
+   </trdgrp>
+  <trd lng="nl">kubiek</trd>
+  <trdgrp lng="pl">
+     <trd>sze&sacute;cienny</trd>,
+     <trd>kubiczny</trd>,
+     <trd>trzeciego stopnia</trd>,
+   </trdgrp>
+  <trd lng="ru">&c_k;&c_u;&c_b;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j;</trd>
+  <trd lng="sk">kubánsky</trd>
+  <trd lng="sv">kubisk</trd>
+</drv>
+
+<drv mrk="kub.0isma">
+   <kap><tld/>isma</kap>
+   <snc>
+     <dif>
+       Konforma al <ref tip="vid" cel="kub.0ismo"><tld/>ismo</ref>.
+     </dif>
+   </snc>
+   <trd lng="be">&c_k;&c_u;&c_b;&c_ib;&c_s;&c_c;&c_k;&c_ib;</trd>
+   <trd lng="de">kubistisch</trd>
+   <trd lng="en">cubist</trd>
+   <trd lng="hu">kubista</trd>
+   <trd lng="nl">kubistisch</trd>
+   <trdgrp lng="ru">
+     <trd>&c_k;&c_u;&c_b;&c_i;&c_s;&c_t;&c_s;&c_k;&c_i;&c_j;</trd>,
+     <trd>&c_k;&c_u;&c_b;&c_i;&c_s;&c_t;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j;</trd>
+   </trdgrp>
+</drv>
+
+<drv mrk="kub.0ismo">
+   <kap><tld/>ismo</kap>
+   <uzo tip="fak">BELA</uzo>
+   <snc>
+     <dif>
+       Skulpta kaj pentra stilo franc-devena, prospera komence de la 20a
+jarcento
+       (proksimume 1910&ndash;1930) precipe en Francujo kaj
+&Ccirc;e&hcirc;ujo,
+       influita de afrikaj arta&jcirc;oj, montranta simpligitajn,
+geometriajn
+       formojn de objektoj, miksanta plurajn vid-punktojn al ili,
+       algluanta
+al
+       la verkoj materialojn el la bildigita&jcirc;oj (gazetfoliojn kaj
+aliajn).
+     </dif>
+   </snc>
+  <trd lng="be">&c_k;&c_u;&c_b;&c_ib;&c_z;&c_m;</trd>
+  <trd lng="cs">kubizmus</trd>
+  <trd lng="de">Kubismus</trd>
+  <trd lng="en">cubism</trd>
+  <trd lng="fa">&f_k;&a_w;&a_b;&f_y;&a_s;&a_m;</trd>
+  <trd lng="fr">cubisme</trd>
+  <trd lng="hu">kubizmus</trd>
+  <trd lng="id">kubisme</trd>
+  <trd lng="nl">kubisme</trd>
+  <trd lng="ru">&c_k;&c_u;&c_b;&c_i;&c_z;&c_m;</trd>
+  <trd lng="sk">kubizmus</trd>
+  <trd lng="sv">kubism</trd>
+</drv>
+
+<drv mrk="kub.0forma">
+   <kap><tld/>forma</kap>
+   <snc>
+     <dif>
+       Havanta formon de <tld/>o.
+     </dif>
+   </snc>
+  <trd lng="be">&c_k;&c_u;&c_b;&c_ib;&c_ch;&c_n;&c_y;</trd>
+  <trd lng="de">w&uuml;rfelf&ouml;rmig</trd>
+  <trdgrp lng="en">
+     <trd>cubic</trd>,
+     <trd>cubical</trd>
+   </trdgrp>
+  <trdgrp lng="fa">
+     <trd>&a_m;&f_k;&a_ayn;&a_b;&f_y;&zwnj;&a_sh;&f_k;&a_l;</trd>,
+     <trd>&a_m;&f_k;&a_ayn;&a_b;&f_y;</trd>
+   </trdgrp>
+  <trd lng="fr">cubique</trd>
+  <trd lng="nl">kubusvormig</trd>
+  <trd lng="ru">&c_k;&c_u;&c_b;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j;</trd>
+  <trd lng="sk">kockovitý</trd>
+  <trd lng="sv">kubformad</trd>
+</drv>
+</art>
+<!--
+$Log: kub.xml,v $
+Revision 1.30  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.29  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.28  2014/06/10 04:10:28  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.27  2011/02/08 11:10:15  revo
+Russ Williams: +trd en
+
+Revision 1.26  2010/04/24 17:07:35  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.25  2009/09/17 16:31:05  revo
+Paul Peeraerts: +nl
+
+Revision 1.24  2008/11/24 17:30:34  revo
+Jerano Zachrisson: +trd sv
+
+Revision 1.23  2006/10/27 16:30:48  revo
+Tulio Flores: +tr pt
+
+Revision 1.22  2005/03/16 18:16:37  revo
+Yury Finkel: +trd ru
+
+Revision 1.21  2004/03/07 17:30:41  revo
+-->
+</vortaro>

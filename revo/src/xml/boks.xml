@@ -1,0 +1,114 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: boks.xml,v 1.19 2015/07/04 08:37:31 revo Exp $">
+  <kap>
+  <ofc>1</ofc>
+  <rad>boks</rad>/i
+  </kap>
+  <drv mrk="boks.0i">
+    <kap><tld/>i</kap>
+    <gra><vspec>ntr</vspec></gra>
+    <uzo tip="fak">SPO</uzo>
+    <snc mrk="boks.0i.lukti">
+      <dif>
+      Pugnolukti. 
+      </dif>
+      <trd lng="de">boxen</trd>
+      <trd lng="en">box</trd>
+      <trd lng="es">boxear</trd>
+      <trd lng="fr">boxer</trd>
+      <trd lng="hu">bokszol</trd>
+      <trdgrp lng="it">
+         <trd>boxare</trd>,
+         <trd>pugilare</trd></trdgrp>
+      <trd lng="pl">boksowa&cacute;</trd>
+      <trd lng="ru">
+&c_b;&c_o;&c_k;&c_s;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+      <trd lng="sk">boxova&tcaron;</trd>
+      <trd lng="sv">boxas</trd>
+    </snc>
+
+    <snc mrk="boks.0i.okupigxi">
+    <dif>
+      Okupi&gcirc;i pri <tld/>o kiel sportisto.
+    </dif>
+      <trdgrp lng="it">
+         <trd>tirare di <ind>boxe</ind></trd>,
+         <trd>praticare <ind>pugilato</ind></trd></trdgrp>
+      <trd lng="pl">uprawia&cacute; <ind>boks</ind></trd>
+    </snc>
+  <trd lng="ca">boxar</trd>
+  <trd lng="cs">boxovat</trd>
+</drv>
+
+  <drv mrk="boks.0o">
+    <kap><tld/>o</kap>
+    <uzo tip="fak">SPO</uzo>
+    <snc>
+      <dif>
+        Arto, sporto de pugnolukto.
+      </dif>
+      <trd lng="be">&c_b;&c_o;&c_k;&c_s;</trd>
+      <trd lng="ca">boxa</trd>
+      <trdgrp lng="de">
+         <trd>Boxen</trd>,
+         <trd>Faustkampf</trd></trdgrp>
+      <trdgrp lng="en">
+        <trd>boxing</trd>,
+        <trd>pugilism</trd>
+      </trdgrp>
+      <trdgrp lng="es">
+        <trd>boxeo</trd>,
+        <trd>box</trd>,
+        <trd>pugilismo</trd>
+      </trdgrp>
+      <trd lng="fr">boxe <klr tip="ind">(sport)</klr></trd>
+      <trdgrp lng="hu">
+         <trd>&ouml;k&ouml;lv&iacute;v&aacute;s</trd>,
+         <trd>boksz</trd></trdgrp>
+      <trdgrp lng="it">
+         <trd>boxe</trd>,
+         <trd>pugilato</trd></trdgrp>
+      <trd lng="pl">boks</trd>
+      <trd lng="ru">&c_b;&c_o;&c_k;&c_s;</trd>
+      <trd lng="sk">box</trd>
+      <trd lng="sv">boxning</trd>
+    </snc>
+  <trd lng="cs">box</trd>
+  <trd lng="sk">box <klr>(oddelené miesto v reštaurácií)</klr></trd>
+</drv>
+</art>
+<!--
+$Log: boks.xml,v $
+Revision 1.19  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:29:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2012/08/01 09:10:37  revo
+Marc Rausell: + trd ca
+
+Revision 1.16  2009/03/20 17:30:26  revo
+Antonio Codazzi: +trd it
+
+Revision 1.15  2009/03/18 17:32:40  revo
+Sebastian Cyprych: +snc boks.0i.okupigxi +trd pl
+
+Revision 1.14  2003/12/01 17:30:38  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.13  2003/01/16 17:32:26  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.12  2002/09/09 19:54:10  revo
+Viliam Bur: +trd sk
+
+Revision 1.11  2002/05/16 16:35:23  revo
+Alejandro Mejia Greene: ald 2 his trd
+
+Revision 1.10  2001/11/19 17:31:53  revo
+-->
+</vortaro>

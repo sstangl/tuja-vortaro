@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: sorg.xml,v 1.15 2015/07/04 08:37:43 revo Exp $">
+<kap>
+  <ofc>8</ofc>
+  <rad>sorg</rad>/o
+</kap>
+<drv mrk="sorg.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="sorg.0o.AGR">
+    <uzo tip="fak">AGR</uzo>
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      <ref tip="lst" cel="genr.0o"
+      lst="voko:botanikaj_genroj">Genro</ref> el la familio <ref
+      tip="super" cel="poac.0oj">poacoj</ref> (<trd
+      lng="la">Sorghum</trd>), 
+      kelkaj specioj estas kulturataj kiel greno en Afriko kaj Hindujo:
+      <ekz>
+        la <tld/>o povas atingi alton de kvar &gcirc;is kvin metroj.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_o;&c_r;&c_g;&c_a;</trd>
+  <trd lng="ca">melca</trd>
+  <trdgrp lng="cs">
+    <trd>proso</trd>,
+    <trd>čirok</trd>
+  </trdgrp>
+  <trd lng="de">Sorghumhirse</trd>
+  <trd lng="en">sorghum</trd>
+  <trd lng="fr">sorgho</trd>
+  <trd lng="hu">cirok</trd>
+  <trd lng="nl">gierst</trd>
+  <trd lng="ru">&c_s;&c_o;&c_r;&c_g;&c_o;</trd>
+  <trd lng="sk">cirok</trd>
+</drv>
+</art>
+<!--
+$Log: sorg.xml,v $
+Revision 1.15  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:33:24  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.13  2013/08/28 16:10:15  revo
+Wolfram Diestel: referencoj al bot genroj, trd la, de
+
+Revision 1.12  2011/12/11 13:10:12  revo
+Marc Rausell: +trd ca
+
+Revision 1.11  2005/09/13 16:31:20  revo
+Jeromo Vasxe: + mrk, + trd fr
+
+Revision 1.10 2003/01/17 17:32:00 revo
+Zmicier Lapcionak: + trd be
+
+Revision 1.9 2002/05/14 16:33:31 revo
+Jozefo Horvath: +trd hu
+
+Revision 1.8 2002/03/18 18:08:28 revo
+Karlo Freeman: +trd=en
+
+Revision 1.7 2002/02/14 17:35:33 revo
+Yury Finkel: poacoj, +trd ru
+
+Revision 1.6 2001/09/29 18:12:06 revo
+-->
+</vortaro>

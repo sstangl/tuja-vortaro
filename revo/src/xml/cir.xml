@@ -1,0 +1,128 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: cir.xml,v 1.20 2015/07/04 08:37:32 revo Exp $">
+<kap>
+<ofc>*</ofc>
+<rad>cir</rad>/o
+</kap>
+
+<drv mrk="cir.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc>
+    <dif>
+      &Scirc;mira&jcirc;o por purigi kaj briligi &scirc;uojn kaj aliajn
+      ledajn objektojn.
+    </dif>
+  </snc>
+  <trd lng="be">&c_v;&c_a;&c_k;&c_s;&c_a;</trd>
+  <trd lng="br">koaraj</trd>
+  <trd lng="ca">betum</trd>
+  <trdgrp lng="cs">
+    <trd>cídidlo</trd>,
+    <trd>krém na boty</trd>,
+    <trd>leštidlo na boty</trd>
+  </trdgrp>
+  <trd lng="de">Schuhcreme</trd>
+  <trd lng="el">&beta;&epsilon;&rho;&ny;&jota_ton;&kappa;&jota;</trd>
+  <trdgrp lng="en">
+    <trd>polish</trd>,
+    <trd>wax</trd>
+  </trdgrp>
+  <trd lng="es">bet&uacute;n</trd>
+  <trd lng="fr">cirage</trd>
+  <trdgrp lng="hu">
+    <trd>boksz</trd>,
+    <trd>cip&odblac;ken&odblac;cs</trd>,
+    <trd>cip&odblac;kr&eacute;m</trd>
+  </trdgrp>
+  <trd lng="it">lucido<klr> (per scarpe e pelli)</klr></trd>
+  <trdgrp lng="nl">
+    <trd>schoensmeer</trd>,
+    <trd>schoenpoets</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>pasta do but&oacute;w</trd>,
+    <trd>szuwaks<klr> (przest.)</klr></trd>
+  </trdgrp>
+  <trd lng="pt">graxa</trd>
+  <trd lng="ru">&c_v;&c_a;&c_k;&c_s;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>krém na topánky</trd>,
+    <trd>pasta</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="cir.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      &Scirc;miri per <tld/>o.
+    </dif>
+  </snc>
+  <trd lng="be">&c_v;&c_a;&c_k;&c_s;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="br">koara&ntilde;<klr tip="ind"> (l&ecirc;r)</klr></trd>
+  <trd lng="ca">embetumar</trd>
+  <trdgrp lng="cs">
+    <trd>cídit</trd>,
+    <trd>leštit</trd>,
+    <trd>vyleštit</trd>,
+    <trd>čistit <klr>(obuv)</klr></trd>
+  </trdgrp>
+  <trd
+  lng="el">&lambda;&omikron;&ypsilon;&sigma;&tau;&rho;&alfa_ton;&rho;&omega;</trd>
+  <trd lng="en">polish</trd>
+  <trd lng="es">embetunar</trd>
+  <trd lng="fr">cirer</trd>
+  <trdgrp lng="hu">
+    <trd>bokszol<klr tip="ind"> (cip&odblac;t)</klr></trd>,
+    <trd>beken<klr tip="ind"> (cip&odblac;t)</klr></trd>,
+    <trd>f&eacute;nyes&iacute;t<klr tip="ind">
+    (cip&odblac;t)</klr></trd>
+  </trdgrp>
+  <trd lng="it">lucidare<klr> (scarpe o pelli)</klr></trd>
+  <trd lng="nl">schoenen <ind>poetsen</ind></trd>
+  <trd lng="pl">pastowa&cacute;<klr> buty</klr></trd>
+  <trd lng="pt">engraxar</trd>
+  <trdgrp lng="ru">
+    <trd>&c_v;&c_a;&c_k;&c_s;&c_i;&c_t;&c_mol;</trd>,
+    <trd>&c_ch;&c_i;&c_s;&c_t;&c_i;&c_t;&c_mol;
+    &c_o;&c_b;&c_u;&c_v;&c_mol; &c_v;&c_a;&c_k;&c_s;&c_o;&c_j;</trd>
+  </trdgrp>
+  <trd lng="sk">leštiť</trd>
+</drv>
+</art>
+<!--
+$Log: cir.xml,v $
+Revision 1.20  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2012/08/26 20:10:16  revo
+Marc Rausell: + trd ca
+
+Revision 1.17  2010/07/22 16:30:35  revo
+Agustin Garcia Lopez: +trd es
+
+Revision 1.16  2009/08/14 16:31:08  revo
+Antonio Codazzi: +trd it
+
+Revision 1.15  2009/04/17 19:49:58  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.14  2009/02/19 20:27:31  revo
+Russ Williams: +trd en
+
+Revision 1.13  2007/05/24 16:30:22  revo
+Wieland Pusch: +trd de
+
+Revision 1.12  2005/03/20 17:51:04  revo
+Alan ar Gall: + trd br
+
+Revision 1.11  2003/12/05 17:31:53  revo
+-->
+</vortaro>

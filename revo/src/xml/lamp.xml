@@ -1,0 +1,312 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: lamp.xml,v 1.29 2015/07/04 08:37:38 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>lamp</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="lamp.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="lamp.0o.LUM">
+    <dif>
+      Da&ubreve;ra <ref tip="super" cel="lum.0igilo">lumigilo</ref>
+      havanta rezervon da bruliga&jcirc;o a&ubreve; konstante ricevanta
+      energion:
+      <ekz>
+	petrola <tld/>o;
+      </ekz>
+      <ekz>
+	elektra, minista <tld/>o.
+      </ekz>
+    </dif>
+    <!--
+    <subsnc mrk="lamp.0o.olea">
+      <dif>
+	konsistanta el vazo kun me&ccirc;o trempi&gcirc;anta en ia
+	bruligebla flua&jcirc;o:
+      </dif>
+    </subsnc>
+    <subsnc mrk="lamp.0o.ampolo">
+      <dif>
+	Konsistanta el ujo entenanta lumfonton
+	(<refgrp tip="vid">
+	  <ref cel="ampol.0o.elektra">ampolon</ref>,
+	  <ref cel="gas.0beko">gasbekon</ref>,
+	  <ref cel="kandel.0o">kandelon</ref>...
+	</refgrp>)
+      </dif>
+      <refgrp tip="sub">
+	<ref cel="lampio.0o">lampiono</ref>,
+	<ref cel="lanter.0o">lanterno</ref>,
+	<ref cel="lucern.0o">lucerno</ref>
+      </refgrp>
+    </subsnc>
+    -->
+  </snc>
+  <trd lng="be">&c_l;&c_ja;&c_m;&c_p;&c_a;</trd>
+  <trd lng="bg">&c_l;&c_a;&c_m;&c_p;&c_a;</trd>
+  <trd lng="br">lamp</trd>
+  <trd lng="ca">l&agrave;mpada</trd>
+  <trdgrp lng="cs">
+    <trd>lampa</trd>,
+    <trd>sv&iacute;tilna</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Lampe</trd>,
+    <trd>Leuchte</trd>
+  </trdgrp>
+  <trd lng="el">&lambda;&alfa_ton;&my;&pi;&alfa;</trd>
+  <trd lng="en">lamp</trd>
+  <trd lng="es">l&aacute;mpara</trd>
+  <trd lng="fr">lampe</trd>
+  <trd lng="hu">l&aacute;mpa</trd>
+  <trd lng="id">lampu</trd>
+  <trd lng="nl">lamp</trd>
+  <trd lng="pl">lampa</trd>
+  <trd lng="pt">l&acirc;mpada</trd>
+  <trd lng="ru">&c_l;&c_a;&c_m;&c_p;&c_a;</trd>
+  <trd lng="sk">lampa</trd>
+  <trd lng="sv">lampa</trd>
+</drv>
+
+<drv mrk="lamp.0ingo">
+  <kap><tld/>ingo</kap>
+  <snc mrk="lamp.0ingo.LUM">
+    <dif>
+      Objekto, en kiun oni &scirc;ovas <tld/>on por &gcirc;in fiksi:
+      <ekz>
+	&ccirc;u <tld/>o enporti&gcirc;as, por esti metita sub
+	grenmezurilon a&ubreve; sub liton, kaj ne por stari sur la
+	<tld/>ingo?
+	<fnt><bib>NT</bib>, <lok>&Mar; 4:21</lok></fnt>.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="lum.0ingo">lumingo</ref>
+  </snc>
+  <trdgrp lng="ca">
+    <trd>suport</trd>,
+    <trd>base</trd>
+  </trdgrp>
+  <trd lng="cs">objímka lampy</trd>
+  <trdgrp lng="fr">
+    <trd>chandelier</trd>,
+    <trd>support de lampe</trd>
+  </trdgrp>
+  <trd lng="hu">l&aacute;mpafoglalat</trd>
+  <trdgrp lng="nl">
+    <trd>lamphouder</trd>,
+    <trd>fitting</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>klosz</trd>
+  </trdgrp>
+  <trd lng="sk">objímka lampy</trd>
+</drv>
+
+<drv mrk="lamp.halogen0o">
+  <kap>halogen<tld/>o, <var><kap>halogena <tld/>o</kap></var></kap>
+  <snc mrk="lamp.halogen0o.LUM">
+    <dif>
+      Elektro<ref tip="super" cel="lamp.0o.LUM"><tld/>o</ref> kun
+      ampoleto entenanta halogenon, kiu konservas la filamenton:
+      <ekz>
+	malgranda hejtilo kun halogenaj <tld/>oj
+	<fnt>
+	<aut>Vastalto</aut>,
+	<vrk><url
+	ref="http://www.vastalto.com/blog/">Akvosfero</url></vrk>,
+	<lok>Halogena hejtilo, 2006-01-04</lok>
+	</fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="ca"><ind>l&agrave;mpada</ind> d'halogen</trd>
+  <trd lng="de">Halogenlampe</trd>
+  <trdgrp lng="fr">
+    <trd>halog&egrave;ne<klr tip="amb"> (lampe)</klr></trd>,
+    <trd>lampe &agrave; halog&egrave;ne</trd>
+  </trdgrp>
+  <trd lng="id"><ind>lampu</ind> halogen</trd>
+  <trd lng="nl">halogeenlamp</trd>
+  <trd lng="pl">lampa halogenowa</trd>
+</drv>
+
+<drv mrk="lamp.neon0o">
+  <kap>neon<tld/>o</kap>
+  <snc mrk="lamp.neon0o.LUM">
+    <dif>
+      Elektro<ref tip="super" cel="lamp.0o.LUM"><tld/>o</ref> 
+      funkcianta per neono:
+      <ekz>
+	&gcirc;ia neon<tld/>o kun skarlataj literoj melankolie prilumas
+	la straton
+	<fnt><aut>Ueyama M.</aut>, <vrk>Pardonon!</vrk>, <lok>l' 
+	omnibuso, 1970</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="ca"><ind>l&agrave;mpada</ind> de ne&oacute;</trd>
+  <trdgrp lng="cs">
+    <trd>neonová lampa</trd>,
+    <trd>neonová zářivka</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Leuchtr&ouml;hre</trd>,
+    <trd>Neonlampe</trd>
+  </trdgrp>
+  <trd lng="fr">n&eacute;on<klr> (lampe)</klr></trd>
+  <trd lng="id"><ind>lampu</ind> neon</trd>
+  <trd lng="nl">neonlamp</trd>
+  <trdgrp lng="pl">
+    <trd>lampa neonow</trd>,
+    <trd>neon&oacute;wka</trd>,
+    <trd>neon</trd>
+  </trdgrp>
+  <trd lng="sk">neónová žiarivka</trd>
+</drv>
+
+<drv mrk="lamp.ole0o">
+  <kap>ole<tld/>o, <var><kap>oleo<tld/>o</kap></var></kap>
+  <snc mrk="lamp.ole0o.LUM">
+    <dif>
+      <ref tip="super" cel="lamp.0o.LUM"><tld lit="L"/>o</ref>
+      kun me&ccirc;o &ccirc;erpanta brula&jcirc;on el olea rezervujo:
+      <ekz>
+	ole<tld/>oj estas la komunaj lumigiloj de romianoj;
+      </ekz>
+      <ekz>
+	por kompletigi niajn preparojn, ni bezonas malgrandan
+	oleo<tld/>on, sankta pastro
+	<fnt><bib>I&scirc;tar</bib>, <lok>&ccirc;apitro 20a, Lemuel
+	faras eltrovon</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="ca">ll&agrave;ntia</trd>
+  <trd lng="de">&Ouml;llampe</trd>
+  <trd lng="fr">lampe &agrave; huile</trd>
+  <trdgrp lng="id">
+    <trd><ind>lampu</ind> minyak</trd>,
+    <trd><ind>lampu</ind> tempel</trd>,
+    <trd><ind>lampu</ind> teplok</trd>
+  </trdgrp>
+  <trd lng="nl">olielamp</trd>
+  <trdgrp lng="pl">
+    <trd>lampa olejowa</trd>,
+    <trd>sztorm&oacute;wka</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="lamp.posx0o">
+  <kap>po&scirc;<tld/>o</kap>
+  <snc mrk="lamp.posx0o.LUM">
+    <dif>
+      Malgranda, facile kunportebla <ref tip="super"
+      cel="lamp.0o.LUM"><tld/>o</ref>:
+      <ekz>
+	du akre brilaj po&scirc;<tld/>oj celis al mi
+	<fnt><bib>Mortul&Scirc;ip</bib>, <lok>unua libro, &ccirc;apitro
+	8a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="ca">
+    <trd>llanterna</trd>,
+    <trd>far&oacute;</trd>
+  </trdgrp>
+  <trd lng="de">Taschenlampe</trd>
+  <trd lng="fr">lampe de poche</trd>
+  <trd lng="id">senter</trd>
+  <trd lng="nl">zaklamp</trd>
+  <trd lng="pl">latarka</trd>
+</drv>
+
+<drv mrk="lamp.strat0o">
+  <kap>strat<tld/>o</kap>
+  <snc mrk="lamp.strat0o.LUM">
+    <dif>
+      <ref tip="super" cel="lamp.0o.LUM"><tld lit="L"/>o</ref>
+      prilumanta urban straton dum la nokto:
+      <ekz>
+	&ccirc;e strat<tld/>o staris maljunulino etendante sian manon,
+	sed ka&scirc;ante la viza&gcirc;on
+	<fnt><bib>Kiso</bib>, <lok>son&gcirc;o pri maljuneco</lok>
+	</fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="ca">fanal</trd>
+  <trd lng="cs">pouliční svítilna</trd>
+  <trd lng="de">Stra&szlig;enlaterne</trd>
+  <trdgrp lng="fr">
+    <trd>&eacute;clairage public<klr tip="amb">
+    (r&eacute;verb&egrave;re)</klr></trd>,
+    <trd>r&eacute;verb&egrave;re</trd>
+  </trdgrp>
+  <trd lng="id"><ind>lampu</ind> jalan</trd>
+  <trd lng="nl">straatlantaarn</trd>
+  <trd lng="pl">latarnia<klr> uliczna</klr></trd>
+  <trd lng="sk">pouličná lampa</trd>
+</drv>
+
+<drv mrk="lamp.tablo0o">
+  <kap>tablo<tld/>o</kap>
+  <snc mrk="lamp.tablo0o.LUM">
+    <dif>
+      Surtabla <ref tip="super" cel="lamp.0o.LUM"><tld/>o</ref>
+      prilumanta la tablan surfacon:
+      <ekz>
+	la tablo<tld/>o estas envolvita en la ru&gcirc;a &scirc;tofo,
+	lasante nur mallar&gcirc;an strion de la radioj, falantaj rekte
+	la manuskripton
+	<fnt><bib>Metrop</bib></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="ca">l&agrave;mpada de taula</trd>
+  <trd lng="cs">stolní lampa</trd>
+  <trd lng="de">Tischlampe</trd>
+  <trd lng="fr">lampe de bureau</trd>
+  <trd lng="id"><ind>lampu</ind> meja</trd>
+  <trd lng="nl">bureaulamp</trd>
+  <trd lng="pl">lampa biurkowa</trd>
+  <trdgrp lng="pt">
+   <trd>l&acirc;mpada de mesa</trd>
+   </trdgrp>
+  <trd lng="sk">stolná lampa</trd>
+</drv>
+</art>
+<!--
+$Log: lamp.xml,v $
+Revision 1.29  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.28  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.27  2014/11/14 03:10:29  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.26  2014/05/31 16:10:22  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.25  2013/08/23 07:10:14  revo
+Agustin Garcia Lopez: +trd(es)
+
+Revision 1.24  2012/09/03 09:10:12  revo
+Marc Rausell: + trd ca
+
+Revision 1.23  2009/09/22 17:18:11  revo
+Paul Peeraerts: +nl
+
+Revision 1.22  2009/03/12 17:31:50  revo
+Wieland Pusch: +trd de
+
+Revision 1.21  2008/11/14 17:31:24  revo
+Wieland Pusch: +trd bg
+
+Revision 1.20  2008/09/29 16:30:20  revo
+-->
+</vortaro>

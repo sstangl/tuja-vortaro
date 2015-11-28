@@ -1,0 +1,135 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: instan.xml,v 1.18 2015/07/04 08:37:36 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>instanc</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="instan.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="instan.0o.JUR">
+    <uzo tip="fak">JUR</uzo>
+    <dif>
+      Grado de ju&gcirc;a povo:
+      <ekz>
+        tribunalo de unua <tld/>o, de apelacia <tld/>o;
+      </ekz>
+      <ekz>
+        konduki aferon &gcirc;is la plej alta <tld/>o;
+      </ekz>
+      <ekz>
+        <ind>last<tld/>e</ind>;
+        <trd lng="be">&c_u; &c_a;&c_p;&c_o;&c_sh;&c_n;&c_ja;&c_j;
+        <ind>&c_ib;&c_n;&c_s;&c_t;&c_a;&c_n;&c_c;&c_y;&c_ib;</ind></trd>
+        <trd lng="ca">en darrera inst&agrave;ncia</trd>
+        <trdgrp lng="fr">
+          <trd>en derni&egrave;re <ind>instance</ind></trd>,
+          <trd>en dernier <ind>recours</ind></trd>
+        </trdgrp>
+        <trdgrp lng="hu">
+          <trd>v&eacute;gs&odblac; fokon</trd>,
+          <trd>v&eacute;gs&odblac; soron</trd>
+        </trdgrp>
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        kaj last<tld/>e mi atutas
+        <fnt><aut>Raymond Schwartz</aut><vrk>La Stranga
+Butiko</vrk><lok>Kremfakul'</lok></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="hu">fok<klr tip="ind"> (b&iacute;r&oacute;s&aacute;gi)</klr></trd>
+    <trd lng="pt">inst&acirc;ncia<klr tip="amb">
+    (jurisprud&ecirc;ncia)</klr></trd>
+  </snc>
+  <snc mrk="instan.0o.POL">
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      A&ubreve;toritato posedanta ju&gcirc;an a&ubreve; decidan povon:
+      <ekz>
+        la magistrato kaj &ccirc;iuj publikaj <tld/>oj de la urbo akcelas
+        la entreprenon;
+      </ekz>
+      <ekz>
+        niaj plej altaj <tld/>oj eble iam decidos alie;
+      </ekz>
+      <ekz>
+        la publika opinio estas la lasta <tld/>o en politiko;
+      </ekz>
+      <ekz>
+        transigi ideon al la <tld/>o, kiu povas &gcirc;in efektivigi.
+      </ekz>
+    </dif>
+    <trd lng="hu">hat&oacute;s&aacute;g</trd>
+  </snc>
+  <snc mrk="instan.0o.institucio">
+    <uzo tip="stl">EVI</uzo>
+    <ref tip="dif" cel="instit.0o.POL">institucio</ref>
+    <ekz>
+      internaciaj <tld/>oj, kiel Universala Esperanto-Asocio 
+      <klr>...</klr>
+      <fnt>
+        <aut>B. Ragnarsson</aut>,
+        <vrk>Esperanto kiel anti-lingvo</vrk>,
+        <lok>en: Strategiaj Demandoj de la Esperanto-Komunumo, 
+        1985</lok>
+      </fnt>.
+    </ekz>
+    <!-- sencon evitindan prefere ne traduku -->
+  </snc>
+  <trd lng="be">&c_ib;&c_n;&c_s;&c_t;&c_a;&c_n;&c_c;&c_y;&c_ja;</trd>
+  <trd lng="ca">inst&agrave;ncia</trd>
+  <trdgrp lng="cs">
+    <trd>instance</trd>,
+    <trd>orgán</trd>,
+    <trd>stolice</trd>
+  </trdgrp>
+  <trd lng="de">Instanz</trd>
+  <trdgrp lng="en">
+    <trd>authority</trd>,
+    <trd>body</trd>,
+    <trd>court</trd>,
+    <trd>instance</trd>,
+    <trd>jurisdiction</trd>
+  </trdgrp>
+  <trd lng="es">instancia</trd>
+  <trd lng="fr">instance<klr tip="ind"> (jur., pol.)</klr></trd>
+  <trd lng="nl">instantie</trd>
+  <trd lng="ru">&c_i;&c_n;&c_s;&c_t;&c_a;&c_n;&c_c;&c_i;&c_ja;</trd>
+  <trd lng="sk">inštancia</trd>
+</drv>
+</art>
+<!--
+$Log: instan.xml,v $
+Revision 1.18  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.16  2013/10/09 01:10:19  revo
+Jeromo Vasxe: + snc evi
+
+Revision 1.15  2012/07/20 09:10:27  revo
+Marc Rausell: + trd ca
+
+Revision 1.14  2008/11/23 19:11:36  revo
+Wieland Pusch: entoj por unikodo
+
+Revision 1.13  2008/11/07 17:30:29  revo
+Russ Williams: +trd en
+
+Revision 1.12  2005/11/03 17:31:48  revo
+Luiz Portella: +trd pt
+
+Revision 1.11  2004/05/13 17:39:48  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.10  2004/02/04 20:09:40  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.9  2003/08/17 17:33:21  revo
+-->
+</vortaro>

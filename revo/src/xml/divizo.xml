@@ -1,0 +1,338 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: divizo.xml,v 1.37 2015/07/04 08:37:32 revo Exp $">
+<kap>
+  <rad>divizor</rad>/o
+</kap>
+<drv mrk="divizo.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="divizo.0o.aritmetiko">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>MatTerm</bib><lok>p. 10</lok></fnt>
+    <uzo tip="klr">(elementa aritmetiko)</uzo>
+    <dif>
+      <klr>(de <ref cel="entjer.0o">entjero</ref> <frm><k>a</k></frm>)</klr>
+      Tia entjero <frm><k>b</k></frm>, ke <frm><k>a</k></frm> estas &gcirc;ia
+      <ref cel="obl.0o">oblo</ref>:
+      <ekz>
+        praktika avanta&gcirc;o de la dekduuma mezursistemo ku&scirc;as en tio,
+        ke <frm>12</frm> havas pli da oportunaj <tld/>oj: <frm>2</frm>,
+        <frm>3</frm>, <frm>4</frm>, <frm>6</frm>, dum la kutima <frm>10</frm>
+        havas nur <frm>2</frm> kaj <frm>5</frm>
+        <klr>(sen kalkuli la neproprajn <tld/>ojn <frm>1</frm> kaj memo)</klr>.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="alikvo.0o">alikvoto.</ref>
+  </snc>
+  <snc mrk="divizo.0o.ringo">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>EKV</bib><lok>&para;93</lok></fnt>
+    <dif>
+      <klr>(de elemento <frm><k>a</k></frm> en
+      <ref cel="ring.0o.MAT">ringo</ref>
+      a&ubreve; multiplike signata <ref cel="monoid.0o">monoido</ref>)</klr>
+      Tia elemento <frm><k>b</k></frm>, ke por iu <frm><k>q</k></frm>,
+      <frm><k>a</k> = <k>b</k>.<k>q</k></frm> (maldekstra <tld/>o) a&ubreve;
+      <frm><k>a</k> = <k>q</k>.<k>b</k></frm> (dekstra <tld/>o):
+      <ekz>
+        la reela polinomo <frm><g>X</g><sup>2</sup>+<g>1</g></frm> ne
+        akceptas unuagradajn reelajn <tld/>ojn;
+      </ekz>
+      <ekz>
+        la <tld/>oj de la <ref cel="unu.0o.neuxtra">unuo</ref> estas
+        la <ref cel="invers.0igebla">inversigeblaj</ref> elementoj.
+      </ekz>
+    </dif>
+  </snc>
+  <refgrp tip="vid">
+    <ref cel="faktor.0o.multip">faktoro</ref>,
+    <ref cel="obl.0o">oblo</ref>,
+    <ref cel="divizo.nul0o">nul<tld/>o</ref>.
+  </refgrp>
+  <trdgrp lng="de">
+    <trd>Teiler</trd>,
+    <trd>Divisor</trd>
+  </trdgrp>
+  <trd lng="en">divisor</trd>
+  <trd lng="es">divisor</trd>
+  <trd lng="fr">diviseur<klr tip="ind"> (qui divise exactement)</klr></trd>
+  <trd lng="hu">oszt&oacute;</trd>  
+  <trdgrp lng="pl">
+    <trd>dzielnik<klr tip="ind"> (liczby)</klr></trd>,
+    <trd>podzielnik</trd>
+  </trdgrp>
+  <trd lng="pt">divisor</trd>
+  <trd lng="ru">&c_d;&c_je;&c_l;&c_i;&c_t;&c_je;&c_l;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>delič napätia</trd>,
+    <trd>divízor</trd>
+  </trdgrp>
+  <trd lng="cs">dělitel <klr>(beze zbytku)</klr></trd>
+</drv>
+
+<drv mrk="divizo.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>PIV1</bib></fnt>
+  <snc>
+    <dif>
+      Esti <ref cel="divizo.0o"><tld/>o</ref>:
+      <ekz>
+        la fakton, ke <frm><k>b</k></frm> <tld/>as en <frm><k>a</k></frm>,
+        oni simbole skribas <frm><k>b</k>|<k>a</k></frm>;
+      </ekz>
+      <ekz>
+        <frm>2</frm> <tld/>as en &ccirc;iu para entjero (a&ubreve;
+        <ctl>&ccirc;iun paran entjeron</ctl>);
+      </ekz>
+      <ekz>
+        komuna <tld/>o de pluraj entjeroj estas entjero, kiu
+        <tld/>as &ccirc;iun el ili.
+      </ekz>
+    </dif>
+    <rim>
+      La&ubreve; sia senco la verbo estas netransitiva (en la
+      &ccirc;i-supra ekzemplo akuzativo anstata&ubreve;as prepozicion), tial
+      oni teorie ne povus diri <ctl><tld/>ata</ctl> a&ubreve;
+      <ctl><tld/>ebla</ctl> (anstata&ubreve; &ccirc;i-lastan oni diru
+      <ctl><tld/>hava</ctl> a&ubreve; <ctl>dividebla</ctl>). La verbo
+      <ctl>dividi</ctl> estas teorie uzebla nur en frazoj de la tipo
+      <ekz>
+        mi dividas <frm><k>a</k></frm> per <frm><k>b</k></frm>,
+      </ekz>
+      sed la formo <ctl>dividanto</ctl> jam sugestas, ke eblus diri
+      <ekz>
+        <frm><k>b</k></frm> dividas <frm><k>a</k></frm>,
+      </ekz>
+      se forgesi pri la homa plenumanto de la operacio. El tio sekvas, ke
+      anstata&ubreve; <ctl><tld/>i</ctl> oni povus diri same bone
+      <ctl>dividi ekzakte</ctl>, <ctl>dividi senreste</ctl> a&ubreve;
+      eventuale nur <ctl>dividi</ctl>, kiel faras multaj naciaj lingvoj
+      kaj anka&ubreve; <fnt><bib>EKV</bib><lok>&para;93</lok></fnt>.
+    </rim>
+  </snc>
+  <adm>
+    &Scirc;ajnas al mi, ke la senco "esti ~o de" ne tute malebligas,
+    ke oni konsideru la verbon transitiva. Ja la ekz-oj de la tipo
+    "2 ~as en la paraj nombroj" ne aspektas tre nature kaj transitiva
+    verbo estus oportuna por traduki el la nacilingvoj, kiuj &ccirc;isence
+    uzas "dividi" metafore.
+    <aut>MB</aut>
+  </adm>
+  <trdgrp lng="de">
+    <trd>aufgehen<klr tip="ind"> (ohne Rest teilen)</klr></trd>,
+    <trd>ohne Rest <ind>teilen</ind></trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>divide<klr tip="ind"> (go into without a remainder)</klr></trd>,
+    <trd>go into</trd>
+  </trdgrp>
+  <trd lng="es">ser <ind>divisor</ind> de</trd>
+  <trd lng="fr">diviser<klr tip="ind"> (&ecirc;tre diviseur de)</klr></trd>
+  <trd lng="hu">oszt<klr tip="ind"> (marad&eacute;k n&eacute;lk&uuml;l)</klr></trd>  
+  <trd lng="pl">by&cacute; podzielnikiem</trd>
+  <trd lng="ru">&c_d;&c_je;&c_l;&c_i;&c_t;&c_mol; &c_b;&c_je;&c_z; &c_o;&c_s;&c_t;&c_a;&c_t;&c_k;&c_a;</trd>
+  <trd lng="sk">byť deliteľný bez zvyšku</trd>
+  <trd lng="cs">být dělitelem beze zbytku</trd>
+</drv>
+
+<drv mrk="divizo.0ebla">
+  <kap><tld/>ebla</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>PIV1</bib></fnt>
+  <snc>
+    <uzo tip="stl">EVI</uzo>
+    <ref tip="dif" cel="divid.0ebla.MAT">dividebla.</ref>
+  </snc>
+  <trd lng="cs">dělitelný beze zbytku</trd>
+  <trd lng="sk">deliteľný bez zvyšku</trd>
+</drv>
+
+<drv mrk="divizo.0hava">
+  <kap><tld/>hava</kap>
+  <uzo tip="fak">MAT</uzo>
+  <snc>
+    <dif>
+      <klr>(p.p. elemento en <ref cel="ring.0o.MAT">ringo</ref>)</klr>
+      Tia, ke ekzistas <ref cel="divizo.propra0o">propra <tld/>o</ref>
+      de &gcirc;i:
+      <ekz>
+        por ke entjero estu <tld/>hava, sufi&ccirc;as, ke &gcirc;i ne
+        estu primo;
+      </ekz>
+      <ekz>
+        <ind><tld/>hava <tld/>o</ind>.
+        <trd lng="de">zusammengesetzter <ind>Divisor</ind></trd>
+        <trd lng="en">non-prime <ind>divisor</ind></trd>
+        <trd lng="fr">diviseur compos&eacute;</trd>
+        <trd lng="hu">&ouml;sszetett <ind>oszt&oacute;</ind></trd>
+        <trd lng="pl">dzielnik z&lstroke;o&zdot;ony</trd>
+        <trd lng="ru">&c_n;&c_je;&c_p;&c_r;&c_o;&c_s;&c_t;&c_o;&c_j; <ind>&c_d;&c_je;&c_l;&c_i;&c_t;&c_je;&c_l;&c_mol;</ind></trd>
+      </ekz>
+    </dif>
+    <rim>
+      Bricard <fnt><bib>MatTerm</bib><lok>p. 10</lok></fnt>
+      &ccirc;i-sence uzas <ctl>komponita</ctl>.
+    </rim>
+  </snc>
+  <trd lng="cs">složený</trd>
+  <trd lng="de">zusammengesetzt</trd>
+  <trd lng="en">non-prime</trd>
+  <trd lng="fr">compos&eacute;<klr tip="ind"> (ayant des diviseurs)</klr></trd>
+  <trd lng="hu">&ouml;sszetett<klr tip="ind"> (oszt&oacute;)</klr></trd>
+  <trd lng="pl">z&lstroke;o&zdot;ony</trd>
+  <trd lng="ru">&c_n;&c_je;&c_p;&c_r;&c_o;&c_s;&c_t;&c_o;&c_j;</trd>
+  <trd lng="sk">zložený</trd>
+</drv>
+
+<drv mrk="divizo.ne0o">
+  <kap>ne<tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>MatVort</bib></fnt>
+  <snc>
+    <dif>
+      Elemento, kiu ne estas <ref cel="divizo.0o"><tld/>o</ref>.
+    </dif>
+    <ref tip="vid" cel="alikva.0o">alikvanto.</ref>
+  </snc>
+  <trd lng="hu">nem oszt&oacute; <ind>oszt&oacute;</ind></trd>  
+</drv>
+
+<drv mrk="divizo.nul0o">
+  <kap>nul<tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>EKV</bib><lok>&para;301</lok></fnt>
+  <snc>
+    <dif>
+      Tia nenula elemento <frm><k>p</k></frm> en
+      <ref cel="ring.0o.MAT">ringo</ref>, ke por nenula elemento
+      <frm><k>q</k></frm> veras, ke <frm><k>p</k>&#215;<k>q</k></frm>
+      a&ubreve; <frm><k>q</k>&#215;<k>p</k></frm> egalas al
+      <ref cel="nul0.0o.neuxtra">nulo</ref>:
+      <ekz>
+        &ccirc;iu <ref cel="kvadra1.0egala">kvadrategala</ref>
+        bildigo <frm><k>p</k></frm> de la grupo
+        <frm>(<g>E</g>,+)</frm> al
+        si mem, egala nek al la nulo nek al la idento, estas nul<tld/>o kadre
+        de <frm>(<g>E</g><sup><g>E</g></sup>,+,&#9702;)</frm>, &ccirc;ar
+        <frm><k>p</k>&#9702;(id<sub><g>E</g></sub>-<k>p</k>) = 0</frm>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="integr.0a.MAT">integra</ref>.
+    </refgrp>
+  </snc>
+  <trd lng="cs">dělitel nuly</trd>
+  <trd lng="de">Nullteiler</trd>
+  <trd lng="en">zero divisor</trd>
+  <trd lng="fr">diviseur de z&eacute;ro</trd>
+  <trd lng="hu">nulloszt&oacute;</trd>
+  <trd lng="pl">dzielnik zera</trd>
+  <trd lng="ru">&c_d;&c_je;&c_l;&c_i;&c_t;&c_je;&c_l;&c_mol;
+  &c_n;&c_u;&c_l;&c_ja;</trd>
+  <trd lng="sk">deliteľ nuly</trd>
+</drv>
+
+<drv mrk="divizo.propra0o">
+  <kap>propra <tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <snc>
+    <dif>
+      <klr>(de elemento <frm><k>a</k></frm> en
+      <ref cel="ring.0o.MAT">ringo</ref>)</klr>
+      Tia <ref cel="divizo.0o"><tld/>o</ref>, ke &gcirc;i estas nek
+      <ref cel="invers.0igebla.MAT">inversigebla</ref>, nek
+      <ref cel="divid.0ebla.MAT">dividebla</ref> per <frm><k>a</k></frm>:
+      <ekz>
+        propraj <tld/>oj de natura entjero estas &ccirc;iuj &gcirc;iaj <tld/>oj
+        krom &gcirc;i kaj <frm>1</frm>;
+      </ekz>
+      <ekz>
+        primo ne havas proprajn <tld/>ojn.
+      </ekz>
+    </dif>
+    <rim>
+      Ni ne trovis fonton por tiu termino kaj malgra&ubreve; la &scirc;ajno
+      de internacieco ne konsideras &gcirc;in senmanka, &ccirc;ar &gcirc;i
+      ne akordas kun la nefaka senco de la adjektivo <ctl>propra</ctl>
+      (apartenanta ekskluzive al iu). Tamen pro influo de naciaj lingvoj
+      oni foje uzas <ctl>propra</ctl> kun senco simila al <ctl>pura</ctl>,
+      <ctl>vera</ctl>, ekz-e en la esprimo <ctl>proprasence</ctl>.
+    </rim>
+  </snc>
+  <trd lng="cs">vlastní dělitel</trd>
+  <trd lng="de">echter <ind>Teiler</ind></trd>
+  <trd lng="en">proper <ind>divisor</ind></trd>
+  <trd lng="fr">diviseur propre</trd>
+  <trd lng="hu">val&oacute;di <ind>oszt&oacute;</ind></trd>
+  <trd lng="pl">dzielnik w&lstroke;asny</trd>
+  <trd lng="ru">&c_s;&c_o;&c_b;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_y;&c_j; <ind>&c_d;&c_je;&c_l;&c_i;&c_t;&c_je;&c_l;&c_mol;</ind></trd>
+  <trd lng="sk">vlastný deliteľ</trd>
+</drv>
+
+<drv mrk="divizo.plej_granda_komuna_0o">
+  <kap>plej granda komuna <tld/>o</kap>
+  <mlg>PGKD</mlg>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>MatTerm</bib><lok>p. 11</lok></fnt>
+  <snc>
+    <dif>
+      <klr>(de pluraj entjeroj)</klr>
+      <ekz>
+        la plej granda komuna <tld/>o de <frm>24</frm> kaj <frm>30</frm>
+        estas <frm>6</frm>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">největší společný dělitel <klr>(bezezbytku)</klr></trd>
+  <trd lng="de">gr&ouml;&szlig;ter gemeinsamer <ind>Teiler</ind></trd>
+  <trd lng="en">greatest common <ind>divisor</ind></trd>
+  <trdgrp lng="fr">
+    <trd>plus grand commun <ind>diviseur</ind></trd>,
+    <trd>P.G.C.D.</trd>
+  </trdgrp>
+  <trd lng="hu">legnagyobb k&ouml;z&ouml;s <ind>oszt&oacute;</ind></trd>
+  <trdgrp lng="pl">
+    <trd>najwi&eogonek;kszy wsp&oacute;&lstroke;ny <ind>dzielnik</ind></trd>,
+    <trd>N.W.D.</trd>
+  </trdgrp>
+  <trd lng="ru">&c_n;&c_a;&c_i;&c_b;&c_o;&c_l;&c_mol;&c_sh;&c_i;&c_j; &c_o;&c_b;&c_shch;&c_i;&c_j; <ind>&c_d;&c_je;&c_l;&c_i;&c_t;&c_je;&c_l;&c_mol;</ind></trd>
+  <trd lng="sk">najvyšší spoločný deliteľ</trd>
+</drv>
+</art>
+<!--
+$Log: divizo.xml,v $
+Revision 1.37  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.36  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.35  2007/08/11 16:30:32  revo
+Tulio Flores: +tr pt
+
+Revision 1.34  2005/03/06 17:34:22  revo
+Marc Bavant: kor duobligitan punkton
+
+Revision 1.33  2005/02/24 17:31:50  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.32  2003/11/06 17:31:10  revo
+Alejandro Mejia Greene: ald 3 his trd
+
+Revision 1.31  2003/05/09 16:31:20  revo
+Marc Bavant: +frm
+
+Revision 1.30  2003/04/12 16:32:21  revo
+Marc Bavant: ~o: mod trd ru; ~hava ~o: mod trd ru
+Revision 1.29  2003/04/11 16:32:21  revo
+Marc Bavant: nul~o: mod dif
+Revision 1.28  2003/04/07 16:34:46  revo
+Marc Bavant: ~i: +ref interna; ~o: kor ekz, +ref al nul~o
+Revision 1.27 2003/03/23 17:32:37 revo
+-->
+</vortaro>
+

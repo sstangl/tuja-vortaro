@@ -1,0 +1,138 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: kontin2.xml,v 1.15 2015/07/04 08:37:37 revo Exp $">
+<kap>
+  <rad>kontingent</rad>/o <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="kontin2.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="kontin2.0o.KOMUNE">
+    <dif>
+      Nombro, parto, kiun oni devas liveri &ccirc;iufoje:
+      <ekz>
+        &ccirc;iu provinco liveris sian <tld/>on da greno;
+      </ekz>
+      <ekz>
+        pagi sian <tld/>on al la bankedo;
+      </ekz>
+      <ekz>
+        <tld/>o de la armeo
+        <klr>(nombro da soldatoj postulata &ccirc;iujare)</klr>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="tribut.0o.POL">tributo</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_k;&c_a;&c_n;&c_t;&c_y;&c_n;&c_g;&c_je;&c_n;&c_t;</trd>,
+    <trd>&c_s;&c_k;&c_l;&c_a;&c_d;</trd>
+  </trdgrp>
+  <trd lng="ca">contigent</trd>
+  <trdgrp lng="cs">
+    <trd>kontingent</trd>,
+    <trd>kvóta</trd>,
+    <trd>pevný počet</trd>,
+    <trd>podíl</trd>,
+    <trd>povinná dávka</trd>
+  </trdgrp>
+  <trd lng="de">Kontingent</trd>
+  <trd lng="en">contingent</trd>
+  <trd lng="es">contingente</trd>
+  <trdgrp lng="fr">
+    <trd>quota</trd>,
+    <trd>quote-part</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>kontingens</trd>,
+    <trd>keret</trd>
+  </trdgrp>
+  <trd lng="nl">contingent</trd>
+  <trd lng="pt">contingente</trd>
+  <trdgrp lng="ru">
+    <trd>&c_k;&c_o;&c_n;&c_t;&c_i;&c_n;&c_g;&c_je;&c_n;&c_t;</trd>,
+    <trd>&c_s;&c_o;&c_s;&c_t;&c_a;&c_v;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>kontingent</trd>,
+    <trd>kvóta</trd>,
+    <trd>pevný počet</trd>,
+    <trd>podiel</trd>,
+    <trd>povinná dávka</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kontin2.0i">
+  <kap><tld/>i<fnt>Z</fnt></kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="kontin2.0i.KOMUNE">
+    <dif>
+      Liveri <tld/>on:
+      <ekz>
+        <tld/>i eldonon de akcioj, festenon, komunan donacon.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="kontri.0i">kontribui</ref>,
+      <ref cel="kotiz.0i">kotizi</ref>,
+      <ref cel="tribut.0i.POL">tributi</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>dodat dávku</trd>,
+    <trd>odvést kontingent</trd>,
+    <trd>splnit kontingent</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>kontingentieren</trd>,
+    <trd>begrenzen</trd>,
+    <trd>limitieren</trd>
+  </trdgrp>
+  <trd lng="fr">payer son <ind>&eacute;cot</ind></trd>
+  <trdgrp lng="hu">
+    <trd>kontingent&aacute;l</trd>,
+    <trd>kontingenst meg&aacute;llap&iacute;t</trd>,
+    <trd>keretet meg&aacute;llap&iacute;t</trd>
+  </trdgrp>
+  <trd lng="nl">contingenteren</trd>
+  <trdgrp lng="sk">
+    <trd>odviesť kontingent</trd>,
+    <trd>splniť dávku</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: kontin2.xml,v $
+Revision 1.15  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.13  2013/07/18 01:10:19  revo
+Jeromo Vasxe: + vid + trd fr
+
+Revision 1.12  2007/04/27 16:30:31  revo
+Wieland Pusch: +trd de
+
+Revision 1.11  2007/03/07 17:30:26  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.10  2006/11/27 17:30:20  revo
+Tulio Flores: +tr pt
+
+Revision 1.9  2005/11/25 17:31:08  revo
+Raul Salinas Monteagudo: +trd ca,es
+
+Revision 1.8  2004/09/12 17:44:07  revo
+Juergen Brandt: + trd de
+
+Revision 1.7  2002/12/01 17:30:59  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.6  2001/11/07 19:15:05  revo
+-->
+</vortaro>

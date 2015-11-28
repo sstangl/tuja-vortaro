@@ -1,0 +1,131 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+  <art mrk="$Id: liturg.xml,v 1.17 2015/07/04 08:37:38 revo Exp $">
+    <kap>
+      <ofc>1</ofc>
+      <rad>liturgi</rad>/o
+    </kap>
+    <drv mrk="liturg.0o">
+      <kap><tld/>o</kap>
+      <snc mrk="liturg.0o.KRI">
+        <uzo tip="fak">KRI</uzo>
+        <dif>
+          La &ccirc;efa kristana <ref tip="super" cel="serv.Di0o">
+          diservo</ref> publika, entenanta
+          <ref tip="prt" cel="euxkar.0o">e&ubreve;karistion</ref>:
+          <ekz>
+            gravaj traduka&jcirc;oj restis en manuskripto: ...
+            <tld lit="L"/>o la&ubreve; la
+            ordo de s-ta Johano Orbu&scirc;ulo
+            <fnt><bib>EdE</bib>, <lok>&Scirc;irjaev</lok></fnt>;
+            <!--EdE: Enciklopedio de Esperanto, Budapest 1933
+            (faksimila represo: Budapest 1979, ISBN 963 571 051 8)-->
+          </ekz><ekz>
+            dekfoje en la jaro la ortodoksa eklezio servas la
+            <tld/>on la&ubreve; Bazilo la Granda.
+          </ekz>
+        </dif>
+        <rim>
+          Tiun antikvan sencon uzas precipe la Orientaj
+          eklezioj; la Okcidentaj pli ofte nomas sian <tld/>on
+          <ref tip="sub" cel="mes.0o">meso</ref>.
+        </rim>
+        <trdgrp lng="ru">
+<trd>&c_b;&c_o;&c_zh;&c_je;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_a;&c_ja;
+<ind>&c_l;&c_i;&c_t;&c_u;&c_r;&c_g;&c_i;&c_ja;</ind></trd>,
+          <trd>&c_o;&c_b;&c_je;&c_d;&c_n;&c_ja;</trd></trdgrp>
+      </snc>
+      <snc mrk="liturg.0o.diservo">
+        <uzo tip="fak">KAT</uzo>
+        <dif>
+          &Ccirc;ia <ref tip="dif" cel="serv.Di0o">diservo</ref>:
+          <ekz>
+            &ccirc;ar en la Meso, en la dono de la sakramentoj kaj en
+            aliaj terenoj de la <tld/>o la uzo de la gepatra lingvo ne
+            malofte povas esti tre utila por la popolo, estu
+            permesite, doni al la gepatra lingvo pli vastan lokon
+            <fnt>
+              <aut>d-ro Gy&ouml;rgy Jakubinyi</aut>:
+              <vrk>Anta&ubreve;parolo al
+                &leftquot;<url ref=
+              "http://home.t-online.de/home/ulrich.matthias/latina.htm">
+                Esperanto &#8208; la nova latino de la Eklezio
+                </url>&rightquot;</vrk>.</fnt>.
+          </ekz>
+        </dif>
+      </snc>
+      <snc mrk="liturg.0o.ritaro">
+        <uzo tip="fak">KAT</uzo>
+        <dif>
+          <ref tip="dif" cel="rit.0aro">Ritaro</ref>.
+        </dif>
+      </snc>
+  <trd lng="be">&c_l;&c_ib;&c_t;&c_u;&c_r;&c_g;&c_ib;&c_ja;</trd>
+  <trd lng="ca">lit&uacute;rgia</trd>
+  <trdgrp lng="cs">
+    <trd>bohoslužba</trd>,
+    <trd>ceremonie</trd>,
+    <trd>liturgie</trd>
+  </trdgrp>
+  <trd lng="de">Liturgie</trd>
+  <trd lng="en">liturgy</trd>
+  <trd lng="es">liturgia</trd>
+  <trd lng="fr">liturgie</trd>
+  <trd lng="hu">liturgia</trd>
+  <trd lng="it">liturgia</trd>
+  <trd lng="nl">liturgie</trd>
+  <trd lng="pl">liturgia</trd>
+  <trd lng="pt">liturgia</trd>
+  <trdgrp lng="sk">
+    <trd>bohoslužba</trd>,
+    <trd>ceremónia</trd>,
+    <trd>liturgia</trd>
+  </trdgrp>
+</drv>
+  </art>
+  <!--
+  $Log: liturg.xml,v $
+  Revision 1.17  2015/07/04 08:37:38  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.16  2015/06/29 16:33:19  revo
+  aldono de trd sk per skripto de M. von Laer
+
+  Revision 1.15  2014/10/14 10:10:32  revo
+  Damien Brucker: +trd fr
+
+  Revision 1.14  2010/11/04 17:31:00  revo
+  Antonio Codazzi: +trd it
+
+  Revision 1.13  2008/05/16 16:31:25  revo
+  Sebastian Cyprych: +trd pl
+
+  Revision 1.12  2006/09/15 16:30:35  revo
+  Tulio Flores: +tr pt
+
+  Revision 1.11  2005/03/28 17:13:50  revo
+  Raul Salinas Monteagudo: +trd ca,en,es
+
+  Revision 1.10  2004/05/06 16:33:23  revo
+  Dmitri Gabinski: +trd be
+
+  Revision 1.9  2002/10/14 16:32:33  revo
+  Ulrich Fellmann: + 1 trd de
+
+  Revision 1.8  2001/11/13 19:14:12  revo
+  Jozefo Horvath: +trd hu
+
+  Revision 1.7  2001/07/22 18:16:34  revo
+  Bertil Wennergren: Shanghis la neoficialan "euhharistio" en la
+  oficialan "eukaristio".
+
+  Revision 1.6  2001/05/29 18:16:32  revo
+  Sergio Pokrovskij: reverkita
+
+  Revision 1.5  2001/04/22 17:43:06  revo
+  Paul Peeraerts: ald trd nl + kor en dif
+
+  -->
+</vortaro>

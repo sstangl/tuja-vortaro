@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: angil.xml,v 1.30 2015/09/11 02:10:16 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>angil</rad>/o
+</kap>
+<drv mrk="angil.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <uzo tip="fak">ZOO</uzo>
+  <snc>
+    <dif>
+      Serpentosimila man&gcirc;ebla <ref tip="lst" cel="fisx.0o"
+      lst="voko:fi&scirc;oj">fi&scirc;o</ref>, vivanta plenkreske en nesala akvo, 
+      sed frajanta en maroj;
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:zoologiaj_genroj">genro</ref> el familo <ref
+      tip="malprt" cel="angile.0oj"><tld/>edoj</ref>
+      (<trd lng="la">Anguilla</trd>). 
+    </dif>
+  </snc>
+  <trd lng="bg">&c_z;&c_m;&c_i;&c_o;&c_r;&c_k;&c_a;</trd>
+  <trd lng="br">silienn</trd>
+  <trd lng="ca">anguila</trd>
+  <trd lng="cs">&uacute;ho&rcaron;</trd>
+  <trd lng="de">Aal</trd>
+  <trd lng="en">eel</trd>
+  <trd lng="es">anguila</trd>
+  <trd lng="fr">anguille</trd>
+  <trd lng="he">&tsadi;&lamed;&vav;&pe;&het;</trd>
+  <trd lng="hu">angolna</trd>
+  <trd lng="id">belut</trd>
+  <trd lng="nl">aal</trd>
+  <trd lng="pl">w&eogonek;gorz</trd>
+  <trd lng="pt">enguia</trd>
+  <trd lng="ru">&c_u;&c_g;&c_o;&c_r;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>&uacute;hor <klr>(ryba)</klr></trd>,
+    <trd>&uacute;hor</trd>
+  </trdgrp>
+  <trd lng="sv">&aring;l</trd>
+</drv>
+
+<drv mrk="angil.0oformaj">
+  <kap><tld/>oformaj</kap>
+  <uzo tip="fak">ZOO</uzo>
+  <snc>
+    <dif>
+      <ref tip="lst" cel="ord.0o.BIO"
+      lst="voko:zoologiaj_ordoj">Ordo</ref> de
+      <ref tip="malprt" cel="fisx.osto0oj">ostofi&scirc;oj</ref>
+      (<trd lng="la">Apodes</trd>), sen brustna&gcirc;iloj.
+    </dif>
+  </snc>
+  <trd lng="ca">anguil&middot;liformes</trd>
+  <trd lng="cs">&uacute;ho&rcaron;i <klr>(rod)</klr></trd>
+  <trd lng="de">Aalartige Fische</trd>
+  <trd lng="fr">anguilliformes</trd>
+  <trd lng="hu">angolnaalkat&uacute;ak</trd>
+  <trd lng="pl">w&eogonek;gorzowate</trd>
+  <trdgrp lng="ru">
+    <trd>&c_u;&c_g;&c_r;&c_i;<klr tip="ind">
+    (&c_o;&c_t;&c_r;&c_ja;&c_d;)</klr></trd>,
+    <trd>&c_u;&c_g;&c_r;&c_je;&c_o;&c_b;&c_r;&c_a;&c_z;&c_n;&c_y;&c_je;
+    <klr tip="amb">(&c_o;&c_t;&c_r;&c_ja;&c_d;)</klr></trd>
+  </trdgrp>
+  <trd lng="sk">&uacute;hory</trd>
+</drv>
+</art>
+<!--
+$Log: angil.xml,v $
+Revision 1.30  2015/09/11 02:10:16  revo
+Evandro Avellar: +trd pt
+
+Revision 1.29  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.28  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.27  2014/10/28 11:10:24  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.26  2013/10/17 19:10:22  revo
+Wolfram Diestel: kor. ref-cel
+
+Revision 1.25  2013/10/08 19:10:12  revo
+Wolfram Diestel: ref al lst parhufuloj
+
+Revision 1.24  2013/09/01 13:10:45  revo
+Wolfram Diestel: referenco al listo zoo genroj
+
+Revision 1.23  2013/08/31 16:10:42  revo
+-->
+</vortaro>

@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: gnom.xml,v 1.22 2015/07/04 08:37:35 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>gnom</rad>/o
+</kap>
+<drv mrk="gnom.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">MIT</uzo>
+  <snc>
+    <ref tip="dif" cel="kobold.0o">koboldo</ref>
+    <ekz>
+      flanke de homoj, rolas elfoj, <tld/>oj
+      <fnt><aut>Familio Macgill</aut><vrk>June, nejune, pretertempe 
+      (J. R. R. Tolkien: La kunularo de l' ringo)</vrk>
+      <bib>Monato</bib><lok>jaro 1996a, numero 4a, p. 24a</lok></fnt>.
+    </ekz>
+  </snc>
+  <trd lng="be">&c_g;&c_n;&c_o;&c_m;</trd>
+  <trd lng="bg">&c_g;&c_n;&c_o;&c_m;</trd>
+  <trd lng="ca">gnom</trd>
+  <trdgrp lng="cs">
+    <trd>gnóm</trd>,
+    <trd>podzemní duch</trd>,
+    <trd>skřítek</trd>
+  </trdgrp>
+  <trd lng="de">Gnom</trd>
+  <trd lng="en">gnome</trd>
+  <trd lng="es">gnomo</trd>
+  <trdgrp lng="fr">
+    <trd>gnome</trd>,
+    <trd>kobold</trd>,
+    <trd>lutin</trd>,
+    <trd>nain<klr> (myth.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>t&ouml;rpe</trd>,
+    <trd>gn&oacute;m</trd>
+  </trdgrp>
+  <trd lng="it">gnomo</trd>
+  <trdgrp lng="nl">
+    <trd>gnoom</trd>,
+    <trd>berggeest</trd>,
+    <trd>aardgeest</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>gnom</trd>,
+    <trd>krasnolud</trd>
+  </trdgrp>
+  <trd lng="pt">gnomo</trd>
+  <trd lng="ru">&c_g;&c_n;&c_o;&c_m;</trd>
+  <trdgrp lng="sk">
+    <trd>trpaslík</trd>,
+    <trd>škriatok</trd>
+  </trdgrp>
+  <trd lng="tr">c&uuml;ce</trd>
+</drv>
+
+<drv mrk="gnom.0a">
+  <kap><tld/>a</kap>
+  <snc>
+    <dif>
+      Rilata al aspekto, moroj, eteco de <tld/>oj:
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        la <tld/>a &scirc;tato &jcirc;us fari&gcirc;is 189a membro 
+        de Unui&gcirc;intaj Nacioj
+        <fnt><aut>Stefan Maul</aut><vrk>Ri&ccirc;a per .tv</vrk>
+        <bib>Monato</bib><lok>jaro 2000a, numero 12a, p. 6a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="ca">gn&ograve;mic</trd>
+  <trd lng="en">gnomish</trd>
+  <trdgrp lng="fr">
+    <trd>nain<klr> (adj.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="it">
+    <trd>gnomesco</trd>,
+    <trd>nano<klr> (agg.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>mikry</trd>,
+    <trd>maciupki</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: gnom.xml,v $
+Revision 1.22  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.21  2015/06/29 16:29:39  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.20  2014/01/13 08:10:14  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.19  2013/10/05 17:10:17  revo
+Joop Eggen: +trd bg
+
+Revision 1.18  2012/08/19 00:10:40  revo
+Marc Rausell: + trd ca
+
+Revision 1.17  2009/08/24 16:32:32  revo
+Emmanuel Debanne: +kor tr
+
+Revision 1.16  2009/06/27 16:31:10  revo
+Russ Williams: +trd en
+
+Revision 1.15  2009/03/18 17:32:23  revo
+Antonio Codazzi: +trd it
+
+Revision 1.14  2008/06/16 16:53:40  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.13  2005/08/25 16:31:42  revo
+-->
+</vortaro>

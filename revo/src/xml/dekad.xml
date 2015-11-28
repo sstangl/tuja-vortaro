@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: dekad.xml,v 1.8 2015/07/04 08:37:32 revo Exp $">
+<kap>
+  <rad>dekad</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+
+<drv mrk="dekad.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="stl">RAR</uzo>
+  <snc mrk="dekad.0o.KAL">
+    <uzo tip="fak">KAL</uzo>
+    <dif>
+      Tagdeko en kelkaj kalendaroj:
+      <ekz>
+        malfeli&ccirc;a knabino, &scirc;i ne vidis min preska&ubreve; du <tld/>ojn
+        <fnt><bib>Far1</bib>, <lok>&ccirc;apitro 18a</lok></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="semajn.0o.KAL">semajno <sncref/></ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="ca">
+    <trd>d&egrave;cada</trd>,
+    <trd>deu dies</trd>
+  </trdgrp>
+  <trd lng="cs">dekáda</trd>
+  <trd lng="de">Dekade<klr tip="amb"> (zehn Tage)</klr></trd>
+  <trd lng="fr">d&eacute;cade<klr tip="amb"> (dix jours)</klr></trd>
+  <trd lng="pl">dekada</trd>
+  <trd lng="pt">d&eacute;cada</trd>
+  <trdgrp lng="ru">
+    <trd>&c_d;&c_je;&c_k;&c_a;&c_d;&c_a;</trd>,
+    <trd>&c_d;&c_je;&c_s;&c_ja;&c_t;&c_i;&c_d;&c_n;&c_je;&c_v;&c_k;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>10 denné obdobie</trd>,
+    <trd>dekáda</trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log: dekad.xml,v $
+Revision 1.8  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.7  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.6  2012/09/04 08:10:21  revo
+Marc Rausell: + trd ca
+
+Revision 1.5  2007/07/19 16:31:07  revo
+Tulio Flores: +tr pt
+
+Revision 1.4  2007/06/19 16:31:27  revo
+Wieland Pusch: +trd de
+
+Revision 1.3  2005/05/29 18:41:20  revo
+Vito Redsky: +trd pl
+
+Revision 1.2  2005/05/24 16:34:47  revo
+Yury Finkel: +trd ru
+
+Revision 1.1  2005/05/12 16:31:16  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

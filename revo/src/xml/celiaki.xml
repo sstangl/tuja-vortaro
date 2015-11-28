@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: celiaki.xml,v 1.4 2013/10/07 15:10:49 revo Exp $">
+<kap>
+    <rad>celiaki</rad>/o
+</kap>
+<drv mrk="celiaki.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="celiaki.0o.MED">
+    <uzo tip="fak">MED</uzo>
+    <dif>
+      <ref tip="lst" cel="san.mal0o.MED"
+      lst="voko:malsanoj">Malsano</ref> kiu dama&gcirc;as maldikan inteston
+      pro netolereco por gluteno.
+    </dif>
+  </snc>
+  <trdgrp lng="ca">
+    <trd>malaltia <ind>cel&iacute;ac</ind>a</trd>,
+    <trd>celiaquia</trd>,
+    <trd>malaltia de Thaysen</trd>
+  </trdgrp>
+  <trd lng="de">Z&ouml;liakie</trd>
+  <trdgrp lng="fr">
+    <trd>maladie coeliaque</trd>,
+    <trd>coeliaquie</trd>,
+    <trd>sprue</trd>
+  </trdgrp>
+  <trd lng="it">celiachia</trd>
+</drv>
+</art>
+
+<!--
+$Log: celiaki.xml,v $
+Revision 1.4  2013/10/07 15:10:49  revo
+Wolfram Diestel: ref la lst malsanoj
+
+Revision 1.3  2012/08/26 11:10:18  revo
+Marc Rausell: + trd ca
+
+Revision 1.2  2010/12/09 17:31:15  revo
+Wieland Pusch: +trd de
+
+Revision 1.1  2010/12/02 17:30:34  revo
+Antonio Codazzi: nova artikolo
+
+-->
+</vortaro>

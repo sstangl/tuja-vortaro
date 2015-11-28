@@ -1,0 +1,110 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: fraj.xml,v 1.17 2014/07/19 01:10:11 revo Exp $">
+<kap><ofc>*</ofc>
+<rad>
+  fraj</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="fraj.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="fraj.0o.ZOO">
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      <ref tip="super" cel="ov.0o">Ovoj</ref> de 
+      <ref tip="malprt" cel="fisx.0o">fi&scirc;oj</ref> kaj 
+      <ref tip="malprt" cel="ran.0o">ranoj</ref>.
+    </dif>
+  </snc>
+  <ref tip="sub" cel="kaviar.0o">kaviaro</ref>
+  <trd lng="be">&c_ib;&c_k;&c_r;&c_a;</trd>
+  <trd lng="bg">&c_m;&c_i;&c_c;&c_je;&c_l;</trd>
+  <trd lng="ca">fresa</trd>
+  <trdgrp lng="de">
+    <trd>Laich</trd>,
+    <trd>Fischbrut</trd>,
+    <trd>Rogen</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>fry</trd>,
+    <trd>spawn</trd>,
+    <trd>roe</trd>,
+    <trd>fish eggs</trd>
+  </trdgrp>
+  <trdgrp lng="fa">
+    <trd>&a_t;&a_kh;&a_m; &a_m;&a_A;&a_h;&f_y;</trd>,
+    <trd>&a_A;&a_sh;&f_p;&a_l;</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>frai<klr tip="ind"> (&oelig;ufs)</klr></trd>,
+    <trd>&oelig;ufs<klr tip="ind"> (de poisson)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>kuit<klr tip="ind"> (viskuit)</klr></trd>,
+    <trd>viskuit</trd>,
+    <trd>kikkerdril</trd>,
+    <trd>kikkerrit</trd>
+  </trdgrp>
+  <trd lng="hu">ikra</trd>
+  <trd lng="pt">ova</trd>
+  <trd lng="ru">&c_i;&c_k;&c_r;&c_a;</trd>
+</drv>
+
+<drv mrk="fraj.0i">
+  <kap><tld/>i</kap>
+  <snc mrk="fraj.0i.ZOO">
+    <dif>
+      Demeti sian <tld/>on:
+      <ekz>
+        vigle nun <tld/>as la karasoj en la kanaro de Linkolago
+        <fnt><aut>A. Kivi, trad. I. Ekstr&ouml;m</aut>, <vrk>Sep 
+        fratoj</vrk>, <lok>1947</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <adm>
+    &Ccirc;u temas pri la nefekundigitaj ovoj? &Ccirc;u anka&ubreve; demeti spermon
+    fare de masklaj fi&scirc;oj estas ~i? <aut>MB</aut>
+  </adm>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_d;&c_k;&c_l;&c_a;&c_d;&c_v;&c_a;&c_c;&c_mol; <ind>&c_ib;&c_k;&c_r;&c_u;</ind></trd>,
+    <trd>&c_k;&c_l;&c_a;&c_s;&c_mol;&c_c;&c_ib; <ind>&c_ib;&c_k;&c_r;&c_u;</ind></trd>
+  </trdgrp>
+  <trd lng="bg">&c_z;&c_a;&c_s;&c_a;&c_zh;&c_d;&c_a;&c_m; &c_s; <ind>&c_m;&c_i;&c_c;&c_je;&c_l;</ind></trd>
+  <trd lng="ca">fresar</trd>
+  <trd lng="de">laichen</trd>
+  <trd lng="en">spawn</trd>
+  <trd lng="fa">&a_t;&a_kh;&a_m;&zwnj;&a_r;&f_y;&a_z;&f_y; &f_k;&a_r;&a_d;&a_n;</trd>
+  <trd lng="fr">frayer</trd>
+  <trd lng="nl">kuit schieten</trd>
+  <trd lng="hu">ikr&aacute;t rak</trd>
+  <trd lng="ru">&c_m;&c_je;&c_t;&c_a;&c_t;&c_mol; &c_i;&c_k;&c_r;&c_u;</trd>
+</drv>
+</art>
+<!--
+$Log: fraj.xml,v $
+Revision 1.17  2014/07/19 01:10:11  revo
+Jeromo Vasxe: + ekz
+
+Revision 1.16  2013/10/06 12:10:18  revo
+Wolfram Diestel: ref-oj
+
+Revision 1.15  2013/09/09 16:10:11  revo
+Joop Eggen: +trd bg
+
+Revision 1.14  2012/09/03 08:10:10  revo
+Marc Rausell: + trd ca
+
+Revision 1.13  2009/06/21 16:31:23  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.12  2009/02/19 20:27:29  revo
+Russ Williams: +trd en
+
+Revision 1.11  2007/06/10 16:30:54  revo
+Tulio Flores: +tr pt
+
+Revision 1.10  2004/10/01 16:32:03  revo
+-->
+</vortaro>

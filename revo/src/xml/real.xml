@@ -1,0 +1,533 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: real.xml,v 1.28 2015/07/04 08:37:42 revo Exp $">
+<kap>
+  <rad>real</rad>/a <ofc>1</ofc> <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="real.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="real.0a.KOMUNE">
+    <dif>
+      Efektive ekzistanta kaj kontrolebla:
+      <ekz>
+        la <tld/>a mondo, vivo;
+      </ekz>
+      <ekz>
+        la fera mano de la <tld/>o frakasis lian revon.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="efekti.0a">efektiva</ref>,
+      <ref cel="fakt">fakta</ref>,
+      <ref cel="karn">karna</ref>,
+      <ref cel="objekt1.0a">objektiva</ref>,
+      <ref cel="palp.0ebla">palpebla</ref>,
+      <ref cel="prakti.0a">praktika</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_r;&c_e;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>,
+    <trd>&c_s;&c_a;&c_p;&c_r;&c_a;&c_w;&c_d;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>reálný</trd>,
+    <trd>skutečný</trd>,
+    <trd>věcný <klr>(týkající se věci)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>wirklich</trd>,
+    <trd>real</trd>
+  </trdgrp>
+  <trd lng="en">actual</trd>
+  <trd lng="es">real</trd>
+  <trd lng="fr">r&eacute;el</trd>
+  <trdgrp lng="hu">
+    <trd>val&oacute;s</trd>,
+    <trd>t&eacute;nyleges</trd>,
+    <trd>val&oacute;s&aacute;gos</trd>,
+    <trd>re&aacute;l-</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>werkelijk</trd>,
+    <trd>echt</trd>
+  </trdgrp>
+  <trd lng="ru">&c_r;&c_je;&c_a;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>reálny</trd>,
+    <trd>skutočný</trd>,
+    <trd>vecný</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="real.0o">
+  <kap><tld/>o</kap>
+  <snc>
+    <dif>
+      Tio, kio <tld/>e ekzistas:
+      <ekz>
+        perdi kontakton kun la <tld/>o;
+      </ekz>
+      <ekz>
+        nenio estas pli dan&gcirc;era ol blinda entuziasmo, kiu ne
+        vidas la <tld/>on
+        <fnt>
+          <bib>Lanti</bib>,
+          <vrk>Signo pri maturi&gcirc;o de klaso</vrk>
+          <lok>1925-07-09</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_r;&c_e;&c_a;&c_l;&c_mol;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+    <trdgrp lng="de">
+      <trd>Wirklichkeit</trd>,
+      <trd>Realit&auml;t</trd>
+    </trdgrp>
+    <trd lng="en">reality</trd>
+    <trd lng="es">realidad</trd>
+    <trdgrp lng="fr">
+      <trd>r&eacute;alit&eacute;<klr> (la r&eacute;alit&eacute; en g&eacute;n&eacute;ral)</klr></trd>
+    </trdgrp>
+  <trdgrp lng="hu">
+    <trd>(a) <ind>val&oacute;s&aacute;g</ind></trd>,
+    <trd>(a) <ind>realit&aacute;s</ind></trd>
+  </trdgrp>
+    <trd lng="ru">&c_r;&c_je;&c_a;&c_l;&c_mol;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
+    <trd lng="nl">werkelijkheid</trd>
+  </snc>
+  <snc mrk="real.0o.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <uzo tip="stl">ARK</uzo>
+    <fnt><bib>MatTerm</bib><lok>p. 15</lok></fnt>
+    <ref tip="dif" cel="reel.0o.MAT">reelo.</ref>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>hmotný svět</trd>,
+    <trd>reálno</trd>,
+    <trd>skutečno</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>hmotný svet</trd>,
+    <trd>reálno</trd>,
+    <trd>skutočno</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="real.0ajxo">
+  <kap><tld/>a&jcirc;o</kap>
+  <snc>
+    <uzo tip="stl">ARK</uzo>
+    <dif>
+      <ref cel="real.0o">Realo</ref>:
+      <ekz>
+        &scirc;i rememoris sian son&gcirc;on, kiu staris ankora&ubreve; anta&ubreve;
+        &scirc;i tiel vive, kvaza&ubreve; &gcirc;i estus <tld/>a&jcirc;o
+        <fnt><bib>Fab4</bib>, <lok>Filino de la mar&ccirc;a
+        re&gcirc;o</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <snc>
+    <dif>
+      Fenomeno de la reala vivo, precipe aparta&jcirc;o de epoko a&ubreve;
+      loko:
+      <ekz>
+        la krudaj <tld/>a&jcirc;oj de la vivo en grandegaj urboj
+        <fnt>PIV</fnt>;
+      </ekz>
+      <ekz>
+        [per tiu nom&scirc;an&gcirc;o la a&ubreve;toro] eble volis eviti plenan
+        identigon kun la historiaj reala&jcirc;oj
+        <fnt>
+          <bib>MkM</bib>,
+          <lok>notoj pri &ccirc;ap. 2a, p. 349a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_r;&c_e;&c_a;&c_l;&c_ib;&c_ja;</trd>
+  <trd lng="en">realia</trd>
+  <trd lng="es">realidad</trd>
+  <trdgrp lng="fr">
+    <trd>r&eacute;alit&eacute;<klr> (une r&eacute;alit&eacute; particuli&egrave;re)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>val&oacute; dolog</trd>,
+    <trd>l&eacute;tez&odblac; dolog</trd>,
+    <trd>realit&aacute;s</trd>
+  </trdgrp>
+  <trd lng="nl">realiteit</trd>
+  <trd lng="ru">&c_r;&c_je;&c_a;&c_l;&c_i;&c_ja;</trd>
+</drv>
+
+<drv mrk="real.0igi">
+  <kap><tld/>igi</kap>
+  <snc>
+    <dif>
+      Fari ion (planitan, projektitan, kontraktitan) <tld/>e
+      ekzistanta:
+      <ekz>
+        mia revo komencas <tld/>i&gcirc;i<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        <tld/>igi sian programon;
+      </ekz>
+      <ekz>
+        kiam la
+        a&ubreve;toroj de tiuj &ccirc;i projektoj alpa&scirc;as al ilia <tld/>igado,
+        ili tuj konvinki&gcirc;as... ke tio, kio en teorio &scirc;ajnis afero
+        tiel facila, en la praktiko montri&gcirc;as tre malfacila kaj
+        neplenumebla
+        <fnt><bib>EE</bib>, <lok>VI</lok></fnt>..
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="efekti.0igi">efektivigi</ref>,
+      <ref cel="plen.0umi">plenumi</ref>.
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_r;&c_e;&c_a;&c_l;&c_ib;&c_z;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_z;&c_mol;&c_d;&c_z;&c_je;&c_j;&c_s;&c_mol;&c_n;&c_ib;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="bg">&c_o;&c_s;&c_malmol;&c_shch;&c_je;&c_s;&c_t;&c_v;&c_ja;&c_v;&c_a;&c_m;</trd>
+  <trdgrp lng="cs">
+    <trd>provádět</trd>,
+    <trd>provést</trd>,
+    <trd>realizovat</trd>,
+    <trd>uskutečnit</trd>,
+    <trd>uvádět v život</trd>,
+    <trd>vykonat</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>verwirklichen</trd>,
+    <trd>realisieren</trd>
+  </trdgrp>
+  <trd lng="en">implement</trd>
+  <trd lng="es">realizar</trd>
+  <trdgrp lng="fr">
+    <trd>accomplir</trd>,
+    <trd>effectuer</trd>,
+    <trd>r&eacute;aliser<klr> (effectuer)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>megval&oacute;s&iacute;t</trd>,
+    <trd>realiz&aacute;l</trd>,
+    <trd>beteljes&iacute;t</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>verwerkelijken</trd>,
+    <trd>realiseren</trd>
+  </trdgrp>
+  <trd lng="ru">&c_r;&c_je;&c_a;&c_l;&c_i;&c_z;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>realizovať</trd>,
+    <trd>uskutočniť</trd>,
+    <trd>vykonať</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="real.0igo">
+  <kap><tld/>igo</kap>
+  <snc>
+    <uzo tip="fak">KOMP</uzo>
+    <dif>
+      <tld lit="R"/>igado a&ubreve; <tld/>iga&jcirc;o:
+      <ekz>
+        por tiu komputilo estas pluraj <tld/>igoj de C.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_r;&c_e;&c_a;&c_l;&c_ib;&c_z;&c_a;&c_c;&c_y;&c_ja;</trd>
+  <trdgrp lng="cs">
+    <trd>provedení</trd>,
+    <trd>realizace</trd>,
+    <trd>uskutečnění</trd>,
+    <trd>výkon</trd>
+  </trdgrp>
+  <trd lng="de">Implementierung</trd>
+  <trd lng="en">implementation</trd>
+  <trdgrp lng="fr">
+    <trd>implantation</trd>,
+    <trd>impl&eacute;mentation</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>megval&oacute;s&iacute;t&aacute;s</trd>,
+    <trd>implement&aacute;l&aacute;s</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>realisatie</trd>,
+    <trd>implementatie</trd>
+  </trdgrp>
+  <trd lng="ru">&c_r;&c_je;&c_a;&c_l;&c_i;&c_z;&c_a;&c_c;&c_i;&c_ja;</trd>
+  <trdgrp lng="sk">
+    <trd>prevedenie</trd>,
+    <trd>realizácia</trd>,
+    <trd>uskutočnenie</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="real.ne0a">
+  <kap>ne<tld/>a, <var><kap>mal<tld/>a</kap></var></kap>
+  <snc>
+    <dif>
+      Iluzia.
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="aer.0a">aera</ref>,
+      <ref cel="fantom">fantoma</ref>,
+      <ref cel="rev">reva</ref>,
+      <ref cel="subjek1.0a">subjektiva</ref>,
+      <ref cel="tromp.0a">trompa</ref>,
+      <ref cel="utopi">utopia</ref>,
+      <ref cel="vent.0a">venta</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_n;&c_je;&c_r;&c_e;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>
+  <trdgrp lng="cs">
+    <trd>ireální</trd>,
+    <trd>nereálný</trd>,
+    <trd>neskutečný</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>unwirklich</trd>,
+    <trd>irreal</trd>
+  </trdgrp>
+  <trd lng="es">irreal</trd>
+  <trdgrp lng="fr">
+    <trd>irr&eacute;el</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>nem <ind>val&oacute;s&aacute;gos</ind></trd>,
+    <trd>irre&aacute;lis</trd>
+  </trdgrp>
+  <trd lng="nl">irre&euml;el</trd>
+  <trd lng="ru">&c_n;&c_je;&c_r;&c_je;&c_a;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
+  <trd lng="sk">neskutočný</trd>
+</drv>
+
+<drv mrk="real.0ismo">
+  <kap><tld/>ismo <ofc>3</ofc></kap>
+  <snc mrk="real.0ismo.FIL">
+    <uzo tip="fak">FIL</uzo>
+    <dif>
+      Platona kaj skolastika doktrino, kiu konsideras la &gcirc;eneralajn
+      ideojn kiel objektive ekzistantajn.
+    </dif>
+    <refgrp tip="ant">
+      <ref cel="nomina.0ismo">nominalismo</ref>.
+    </refgrp>
+  </snc>
+  <snc mrk="real.0ismo.BELA">
+    <uzo tip="fak">BELA</uzo>
+    <dif>
+      &Ccirc;ia arta stilo, kiu celas prezenti la mondon real-konforme
+      sen plinobligo a&ubreve; fantaziemo.
+    </dif>
+  </snc>
+  <trd lng="be">&c_r;&c_e;&c_a;&c_l;&c_ib;&c_z;&c_m;</trd>
+  <trd lng="de">Realismus</trd>
+  <trd lng="es">realismo</trd>
+  <trdgrp lng="fr">
+    <trd>r&eacute;alisme</trd>
+  </trdgrp>
+  <trd lng="hu">realizmus</trd>
+  <trd lng="nl">realisme</trd>  
+  <trd lng="ru">&c_r;&c_je;&c_a;&c_l;&c_i;&c_z;&c_m;</trd>
+</drv>
+
+<drv mrk="real.0isma">
+  <kap><tld/>isma</kap>
+  <snc>
+    <dif>
+      Prudenta, bazita sur la <tld/>o, <tld/>igebla:
+      <ekz>
+        liaj postuloj, planoj ne estas <tld/>ismaj;
+      </ekz>
+      <ekz>
+        <tld/>isme pensante, ni ne atendu ke la Fina Venko
+        okazos jam morga&ubreve;.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_r;&c_e;&c_a;&c_l;&c_ib;&c_s;&c_t;&c_y;&c_ch;&c_n;&c_y;</trd>,
+    <trd>&c_r;&c_e;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>realistický</trd>,
+    <trd>střízlivý</trd>
+  </trdgrp>
+  <trd lng="de">realistisch</trd>
+  <trd lng="en">realistic</trd>
+  <trd lng="es">realista</trd>
+  <trdgrp lng="fr">
+    <trd>r&eacute;aliste<klr> (adj.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>re&aacute;lis</trd>,
+    <trd>realisztikus</trd>
+  </trdgrp>
+  <trd lng="nl">realistisch</trd>
+  <trdgrp lng="ru">
+    <trd>&c_r;&c_je;&c_a;&c_l;&c_i;&c_s;&c_t;&c_i;&c_ch;&c_n;&c_y;&c_j;</trd>,
+    <trd>&c_r;&c_je;&c_a;&c_l;&c_i;&c_s;&c_t;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j;</trd>,
+    <trd>&c_r;&c_je;&c_a;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trd lng="sk">realistický</trd>
+</drv>
+
+<drv mrk="real.sur0ismo">
+  <kap>sur<tld/>ismo</kap>
+  <uzo tip="stl">EVI</uzo>
+  <snc mrk="real.sur0ismo.superrealismo">
+    <ref tip="dif" cel="real.super0ismo">superrealismo</ref>
+    <ekz>
+      Alia fonto sur<tld/>ismo estas la psikanalizo
+      <fnt><aut>G. Cappa</aut>, <vrk>Rilatoj inter lingva kaj
+      literatura kreemoj</vrk>, <bib>LF</bib><lok>jaro 1982a,
+      numero 76a, p. 6a</lok></fnt>.
+    </ekz>
+  </snc>
+  <trd lng="be">&c_s;&c_ju;&c_r;&c_r;&c_e;&c_a;&c_l;&c_ib;&c_z;&c_m;</trd>
+  <trd lng="cs">surrealizmus</trd>
+  <trd lng="es">surrealismo</trd>
+  <trd lng="hu">sz&uuml;rrealizmus</trd>
+  <trd lng="nl">surrealisme</trd>
+  <trd lng="ru">&c_s;&c_ju;&c_r;&c_r;&c_je;&c_a;&c_l;&c_i;&c_z;&c_m;</trd>
+  <trd lng="sk">surrealizmus</trd>
+</drv>
+
+<drv mrk="real.super0isma">
+  <kap>super<tld/>isma</kap>
+  <snc>
+    <dif>
+      Konforma al <ref tip="vid"
+      cel="real.super0ismo">superrealismo</ref>.
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_ju;&c_r;&c_r;&c_e;&c_a;&c_l;&c_ib;&c_s;&c_t;&c_y;&c_ch;&c_n;&c_y;</trd>
+  <trd lng="cs">surrealistický</trd>
+  <trdgrp lng="fr">
+    <trd>surr&eacute;aliste</trd>
+  </trdgrp>
+  <trd lng="hu">sz&uuml;rrealisztikus</trd>
+  <trd lng="nl">surrealistisch</trd>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_ju;&c_r;&c_r;&c_je;&c_a;&c_l;&c_i;&c_s;&c_t;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j;</trd>,
+    <trd>&c_s;&c_ju;&c_r;&c_r;&c_je;&c_a;&c_l;&c_i;&c_s;&c_t;&c_i;&c_ch;&c_n;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trd lng="sk">surrealistický</trd>
+</drv>
+
+<drv mrk="real.super0ismo">
+  <kap>super<tld/>ismo</kap>
+  <snc mrk="real.super0ismo.BELA">
+    <uzo tip="fak">BELA</uzo>
+    <uzo tip="fak">BELE</uzo>
+    <dif>
+      Arta stilo, kiu gravigas fantazion a&ubreve; hazardon kaj
+      prezentas surprizajn kunmetojn;
+      precipe tia internacia skolo el la komenco de la
+      20a jarcento.
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_ju;&c_r;&c_r;&c_e;&c_a;&c_l;&c_ib;&c_z;&c_m;</trd>
+  <trd lng="cs">surrealismus</trd>
+  <trd lng="es">surrealismo</trd>
+  <trd lng="fr">surr&eacute;alisme</trd>
+  <trd lng="hu">sz&uuml;rrealizmus</trd>
+  <trd lng="nl">surrealisme</trd>
+  <trd lng="ru">&c_s;&c_ju;&c_r;&c_r;&c_je;&c_a;&c_l;&c_i;&c_z;&c_m;</trd>
+  <trd lng="sk">surrealizmus</trd>
+</drv>
+
+<drv mrk="real.magia0ismo">
+  <kap>magia <tld/>ismo</kap>
+  <snc mrk="real.magia0ismo.BELA">
+    <uzo tip="fak">BELA</uzo>
+    <uzo tip="fak">BELE</uzo>
+    <dif>
+      Arta movado, kiu mikse prezentas realismajn kaj fantaziajn 
+      elementojn; precipe tia beletra skolo sudamerika el la dua 
+      duono de la dudeka jarcento:
+      <ekz>
+        <ctl>Cent jaroj da soleco</ctl> estas superba ekzemplo de magia 
+        <tld/>ismo
+        <fnt>
+          <aut>FEL</aut>,
+          <vrk>"Cent jaroj da soleco"</vrk>,
+          <lok>1993</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Herman Thiery <klr>...</klr> kiel flandra verkisto enkondukis 
+        la magian <tld/>ismon en la nederlandlingvan literaturon
+        <fnt><bib>Viki</bib>, <lok>artikolo &leftquot;Johan Daisne&rightquot;, 
+        2008-02-20</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="fr">
+    <trd>r&eacute;alisme magique</trd>,
+    <trd>r&eacute;alisme merveilleux</trd>
+  </trdgrp>
+  <trd lng="nl">magisch <ind>realisme</ind></trd>
+</drv>
+
+<drv mrk="real.socialisma0ismo">
+  <kap>socialisma <tld/>ismo</kap>
+  <snc mrk="real.socialisma0ismo.BELA">
+    <uzo tip="fak">ARKI</uzo>
+    <uzo tip="fak">BELA</uzo>
+    <uzo tip="fak">BELE</uzo>
+    <dif>
+      Arta movado precipe sovetia el la dudeka jarcento,
+      celanta konformon al la laborista vivo, 
+      emfazon de sociaj progresoj: 
+      <ekz>
+        dum la 50-aj jaroj de la 20-a jarcento iom post iom komencis en 
+        konstruado montri&gcirc;i karakteroj de la tn. socialisma <tld/>ismo
+        <fnt><bib>Viki</bib>, <lok>artikolo &leftquot;Hav&iacute;&rcaron;ov&rightquot;, 
+        2009-10-22</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_s;&c_a;&c_c;&c_y;&c_ja;&c_l;&c_ib;&c_s;&c_t;&c_y;&c_ch;&c_n;&c_y; <ind>&c_r;&c_e;&c_a;&c_l;&c_ib;&c_z;&c_m;</ind></trd>
+  <trd lng="fr">r&eacute;alisme socialiste</trd>
+  <trd lng="nl">socialistisch <ind>realisme</ind></trd>
+</drv>
+</art>
+<!--
+$Log: real.xml,v $
+Revision 1.28  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.27  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.26  2013/03/09 17:10:09  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.25  2009/11/19 17:31:04  revo
+Paul Peeraerts: +nl
+
+Revision 1.24  2009/10/24 16:33:18  revo
+Jeromo Vasxe: + magia socialisma ~ismo, + 1 ref
+
+Revision 1.23  2009/03/01 17:33:10  revo
+Wieland Pusch: +trd bg
+
+Revision 1.22  2008/05/06 16:37:35  revo
+Jeromo Vasxe: kor 1 fnt
+
+Revision 1.21  2004/09/02 16:32:01  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.20  2003/12/06 17:30:48  revo
+Alejandro Mejia Greene: ald klk his trd
+
+Revision 1.19  2003/08/06 16:31:04  revo
+-->
+</vortaro>

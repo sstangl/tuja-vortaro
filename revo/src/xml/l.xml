@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: l.xml,v 1.6 2015/03/13 14:10:14 revo Exp $">
+<kap>
+    <ofc>*</ofc><rad>l</rad> <fnt><bib>PIV1</bib></fnt>
+</kap>
+<subart>
+<drv mrk="l.0.konsonanto">
+  <kap><tld/></kap>
+    <uzo tip="fak">LIN</uzo>
+    <uzo tip="fak">GRA</uzo>
+    <uzo tip="fak">FON</uzo>
+  <snc>    
+    <dif>
+      <ref tip="dif" cel="konson1.0o">Konsonanto</ref>, vo&ccirc;a duonbara
+      <ref tip="dif" cel="dental.0o">dentalo</ref> [l].
+    </dif>
+    <rim>
+    La adjektivo duonbara similas al <ref
+      tip="dif" cel="likvid1.0o">likvida</ref>.
+    </rim>
+  <trd lng="fr">l<klr> (consonne)</klr></trd>  
+  </snc>
+  <snc>
+     <dif>
+      La deksesa <ref tip="dif" cel="grafem.0o">grafemo</ref> de la
+      Esperanta alfabeto, uzata i.a. kiel:
+     </dif>
+  <trd lng="fr">l<klr> (lettre)</klr></trd>
+  <subsnc>
+  <dif>
+  (maj.) signo de formo: <ekz> <tld lit="L"/>-fero</ekz>;
+  </dif>
+  <trd lng="fr">L<klr> (forme de)</klr></trd>
+  </subsnc>
+  <subsnc>
+  <uzo tip="fak">MAT</uzo>
+  <dif>
+  (maj.) romana cifero: <ekz> <tld lit="L"/> (50)</ekz>;
+  </dif>
+  <trd lng="fr">50<klr> (chiffre romain)</klr></trd>
+  </subsnc>
+  <subsnc>
+  <uzo tip="fak">FIZ</uzo>
+  <dif>
+  (min.) mallongigo de litro: <ekz> <tld/></ekz>;
+  </dif>
+  <trd lng="fr">litre<klr> (abr&eacute;viation)</klr></trd>
+  </subsnc> 
+  </snc>
+  </drv>
+</subart>
+
+<subart>
+<drv mrk="l.0.nomo">
+  <kap><tld/>o</kap>
+  <snc>  
+    <dif>
+      Nomo de tiuj <ref tip="dif" cel="fonem.0o">fonemo</ref> kaj
+      grafemo.    
+    </dif>
+  <ref tip="hom" cel="lo.0">lo!</ref>  
+  </snc>
+  <trd lng="fr">l</trd>
+</drv>
+</subart>
+</art>
+
+<!--
+$Log: l.xml,v $
+Revision 1.6  2015/03/13 14:10:14  revo
+Damien Brucker: +homonimo por ~o
+
+Revision 1.5  2014/04/12 07:10:36  revo
+Damien Brucker: aldono (dauxrigo)
+
+Revision 1.4  2014/04/10 16:10:37  revo
+Damien Brucker: fak
+
+Revision 1.3  2014/01/16 12:10:14  revo
+Damien Brucker: +ref
+
+Revision 1.2  2013/12/30 16:10:14  revo
+Damien Brucker: aldono
+
+Revision 1.1  2013/12/28 10:10:14  revo
+Damien Brucker: nova artikolo
+
+-->
+</vortaro>

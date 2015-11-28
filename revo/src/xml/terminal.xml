@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: terminal.xml,v 1.12 2014/06/03 12:10:18 revo Exp $">
+<kap>
+<rad>terminal</rad>/o
+</kap>
+<drv mrk="terminal.0o">
+  <kap>
+  <tld/>o
+  </kap>
+  <snc mrk="terminal.0o.KOMP">
+    <uzo tip="fak">KOMP</uzo>
+    <dif>
+      Aparato por atingi foran komputilon, al kiu lasta la
+      <tld/>o estas konektita per datumtransmeta lineo. Ofte
+      <tld/>o estas persona komputilo:
+      <ekz>
+        <tld/>o kapabla meme (a&ubreve;tonome) registri kaj trakti
+        datumojn estas &leftquot;<ind>inteligenta
+        <tld/>o</ind>&rightquot;.
+        <trd lng="be">&c_r;&c_a;&c_z;&c_u;&c_m;&c_n;&c_y;
+        <ind>&c_t;&c_e;&c_r;&c_m;&c_ib;&c_n;&c_a;&c_l;</ind></trd>
+        <trd lng="ca">terminal intel&middot;ligent</trd>
+        <trd lng="de">intelligentes <ind>Terminal</ind></trd>
+        <trdgrp lng="en">
+          <trd>intelligent <ind>terminal</ind></trd>,
+          <trd>smart <ind>terminal</ind></trd>
+        </trdgrp>
+        <trdgrp lng="hu">
+          <trd>intelligens <ind>termin&aacute;l</ind></trd>,
+          <trd>programozhat&oacute; <ind>termin&aacute;l</ind></trd>
+        </trdgrp>
+        <trd lng="nl">intelligent <ind>werkstation</ind></trd>
+        <trd lng="ru">&c_u;&c_m;&c_n;&c_y;&c_j;
+        <ind>&c_t;&c_je;&c_r;&c_m;&c_i;&c_n;&c_a;&c_l;</ind></trd>
+      </ekz>
+      <ekz>
+        <tld/>o sen propra memoro kaj kapablo fari ion sen konekto
+        al komputilo estas &leftquot;<ind>sencerba
+        <tld/>o</ind>&rightquot;.
+        <trd lng="be">&c_p;&c_r;&c_o;&c_s;&c_t;&c_y;
+          <ind>&c_t;&c_e;&c_r;&c_m;&c_ib;&c_n;&c_a;&c_l;</ind>
+        </trd>
+        <trd lng="ca">terminal passiu</trd>
+        <trd lng="de">dummes <ind>Terminal</ind></trd>
+        <trd lng="en">dumb <ind>terminal</ind></trd>
+        <trdgrp lng="hu">
+          <trd>nem intelligens <ind>termin&aacute;l</ind></trd>,
+          <trd>nem programozhat&oacute; <ind>termin&aacute;l</ind></trd>
+        </trdgrp>
+        <trd lng="nl">dom <ind>werkstation</ind></trd>
+        <trd lng="ru">&c_p;&c_r;&c_o;&c_s;&c_t;&c_o;&c_j;
+        <ind>&c_t;&c_je;&c_r;&c_m;&c_i;&c_n;&c_a;&c_l;</ind></trd>
+      </ekz>
+    </dif>
+    </snc>
+    <trd lng="be">&c_t;&c_e;&c_r;&c_m;&c_ib;&c_n;&c_a;&c_l;</trd>
+    <trd lng="bg">&c_t;&c_je;&c_r;&c_m;&c_i;&c_n;&c_a;&c_l;</trd>
+    <trd lng="ca">terminal</trd>
+    <trd lng="de">Terminal</trd>
+    <trd lng="en">terminal</trd>
+    <trd lng="es">terminal</trd>
+    <trd lng="fr">terminal<klr> (informatique)</klr></trd>
+    <trdgrp lng="hu">
+      <trd>termin&aacute;l</trd>,
+      <trd>v&eacute;gberendez&eacute;s</trd>,
+      <trd>h&aacute;l&oacute;zati munkahely</trd>,
+      <trd>munka&aacute;llom&aacute;s</trd>
+    </trdgrp>
+    <trd lng="nl">werkstation</trd>
+    <trd lng="pl">terminal</trd>
+    <trd lng="ru">&c_t;&c_je;&c_r;&c_m;&c_i;&c_n;&c_a;&c_l;</trd>
+</drv>
+</art>
+<!--
+$Log: terminal.xml,v $
+Revision 1.12  2014/06/03 12:10:18  revo
+Damien Brucker: +trd fr
+
+Revision 1.11  2013/07/29 16:10:13  revo
+Joop Eggen: +trd bg
+
+Revision 1.10  2011/12/06 17:10:25  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.9  2008/11/07 17:31:00  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.8  2006/01/09 17:33:05  revo
+Raul Salinas Monteagudo: +trd ca,es
+
+Revision 1.7  2004/11/26 17:32:21  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.6  2003/09/18 16:31:15  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.5  2002/07/06 17:30:57  revo
+-->
+</vortaro>

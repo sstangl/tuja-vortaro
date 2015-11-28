@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: rebus.xml,v 1.15 2015/07/04 08:37:42 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>rebus</rad>/o
+</kap>
+<drv mrk="rebus.0o">
+  <kap><tld/>o</kap>
+  <snc>
+    <dif>
+      Ludproblemo, en kiu la vortoj de frazo estas prezentitaj sub formo
+      de desegnitaj objektoj, kies nomoj samsonas kiel la divenotaj
+      vortoj.
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="sxarad.0o">&scirc;arado</ref>.
+    </refgrp>
+    <trdgrp lng="de">
+      <trd>Rebus</trd>,
+      <trd>Bilderr&auml;tsel</trd>
+    </trdgrp>
+    <trd lng="hu">k&eacute;prejtv&eacute;ny</trd>    
+    <trd lng="pl">rebus</trd>
+    <trd lng="pt">r&eacute;bus</trd>
+  </snc>
+  <snc>
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Malklara nefacile komprenebla afero.
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="enigm.0o">enigmo</ref>.
+    </refgrp>
+    <trd lng="hu">r&eacute;busz</trd>   
+    <trd lng="pl">rebus</trd> 
+  </snc>
+  <trd lng="be">&c_r;&c_e;&c_b;&c_u;&c_s;</trd>
+  <trdgrp lng="cs">
+    <trd>hádanka</trd>,
+    <trd>rébus</trd>
+  </trdgrp>
+  <trd lng="fr">rebus</trd>
+  <trd lng="nl">rebus</trd>
+  <trd lng="ru">&c_r;&c_je;&c_b;&c_u;&c_s;</trd>
+  <trdgrp lng="sk">
+    <trd>hádanka</trd>,
+    <trd>rébus</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: rebus.xml,v $
+Revision 1.15  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.13  2014/04/07 12:10:17  revo
+Damien Brucker: +trd fr
+
+Revision 1.12  2014/01/10 14:10:23  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.11  2006/02/19 17:32:12  revo
+Tulio Flores: +trd pt
+
+Revision 1.10  2004/09/02 16:32:02  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.9  2003/08/06 16:31:09  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.8  2002/01/11 17:34:35  revo
+Yury Finkel: +trd ru
+
+Revision 1.7 2001/06/12 18:12:55 revo
+Paul Peeraerts: ald trd nl
+
+Revision 1.6 2001/02/23 17:12:28 revo
+-->
+</vortaro>

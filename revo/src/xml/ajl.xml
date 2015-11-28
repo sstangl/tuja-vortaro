@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: ajl.xml,v 1.30 2015/07/04 08:37:29 revo Exp $">
+<kap>
+<ofc>*</ofc>
+<rad>ajl</rad>/o
+</kap>
+
+<drv mrk="ajl.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="ajl.0o.genro">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:botanikaj_genroj">Genro</ref> el familio <ref
+      tip="malprt" cel="liliac.0oj">liliacoj</ref>
+      (<trd lng="la">Allium</trd>).
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_c;&c_y;&c_b;&c_u;&c_l;&c_ja;</trd>,
+      <trd>&c_ch;&c_a;&c_s;&c_n;&c_o;&c_k;</trd>
+    </trdgrp>
+    <trd lng="br">kignen-gouez</trd>
+    <trd lng="de">Lauch</trd>
+    <trd lng="hu">hagyma</trd>
+    <trd lng="nl">look</trd>
+    <trd lng="pl">czosnek</trd>
+  </snc>
+  <snc mrk="ajl.0o.specio">
+    <uzo tip="fak">KUI</uzo>
+    <dif>
+      <ref tip="lst" cel="speci.0o.BIO"
+      lst="voko:botanikaj_specioj">Specio</ref> 
+      de <ref tip="super" cel="ajl.0o.genro"><tld/>o
+      <sncref ref="ajl.0o.genro"/></ref>
+      (<trd lng="la">Allium sativum</trd>),
+      uzata kiel <ref tip="lst" cel="spic.0ajxo"
+      lst="voko:spicoj">spica&jcirc;o</ref> kaj kuracilo.
+    </dif>
+    <trd lng="be">&c_ch;&c_a;&c_s;&c_n;&c_o;&c_k;</trd>
+    <trd lng="bg">&c_ch;&c_je;&c_s;&c_malmol;&c_n;</trd>
+    <trd lng="br">kignen</trd>
+    <trd lng="ca">all</trd>
+    <trd lng="de">Knoblauch</trd>
+    <trd lng="en">garlic</trd>
+    <trd lng="es">ajo</trd>
+    <trd lng="fr">ail</trd>
+    <trd lng="hu">fokhagyma</trd>
+    <trd lng="id">bawang putih</trd>
+    <trd lng="nl">knoflook</trd>
+    <trd lng="pl">czosnek</trd>
+    <trd lng="tr">sar&inodot;msak</trd>
+    <trd lng="ru">&c_ch;&c_je;&c_s;&c_n;&c_o;&c_k;</trd>
+    <trd lng="sk">cesnak</trd>
+    <trd lng="sv">vitl&ouml;k</trd>
+  </snc>
+  <trd lng="cs">česnek</trd>
+  <trd lng="he">&shin;&vav;&fmem;</trd>
+  <trd lng="pt">alho</trd>
+</drv>
+</art>
+<!--
+$Log: ajl.xml,v $
+Revision 1.30  2015/07/04 08:37:29  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.29  2014/06/23 01:10:22  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.28  2013/08/30 14:10:31  revo
+Wolfram Diestel: kor. lst-ref
+
+Revision 1.27  2013/08/27 10:10:28  revo
+Wolfram Diestel: referenco al listo bot grupoj, spicoj, specioj
+
+Revision 1.26  2007/07/27 16:30:31  revo
+Wieland Pusch: +trd bg
+
+Revision 1.25  2006/05/23 16:33:08  revo
+Vito Redsky: +trd pl
+
+Revision 1.24  2005/06/27 19:21:34  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.23  2005/03/19 17:32:05  revo
+Raul Salinas Monteagudo: +trd ca
+
+Revision 1.22  2005/02/20 17:33:52  revo
+-->
+</vortaro>

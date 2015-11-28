@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: ortogr.xml,v 1.20 2015/07/04 08:37:40 revo Exp $">
+<kap><ofc>1</ofc> <rad>ortografi</rad>/o</kap>
+<drv mrk="ortogr.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">GRA</uzo>
+  <snc>
+    <dif>
+      Maniero &gcirc;uste skribi la vortojn de iu lingvo:
+      <ekz>
+        racia, fonetika, etimologia <tld/>o.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="grafis.0o">grafismo</ref>.
+    </refgrp>
+    <trdgrp lng="de">
+     <trd>Rechtschreibung</trd>,
+     <trd>Orthografie</trd>
+    </trdgrp>
+    <trd lng="fr">graphie</trd>
+  </snc>
+  <snc>
+    <dif>
+      Maniero skribi la vortojn:
+      <ekz>
+        la fina le&gcirc;o por nia <tld/>o estos <ctl>por unu sono unu
+        litero</ctl><fnt><bib>LR</bib></fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+     <trd>Schreibung</trd>,
+     <trd>Schreibweise</trd>
+    </trdgrp>
+  <ref tip="vid" cel="alfabe.0o">alfabeto</ref>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_r;&c_a;&c_v;&c_a;&c_p;&c_ib;&c_s;</trd>,
+    <trd>&c_a;&c_r;&c_t;&c_a;&c_g;&c_r;&c_a;&c_f;&c_ib;&c_ja;</trd>
+  </trdgrp>
+  <trd lng="ca">ortografia</trd>
+  <trdgrp lng="cs">
+    <trd>ortografie</trd>,
+    <trd>pravopis</trd>
+  </trdgrp>
+  <trd lng="el">&omikron;&rho;&theta;&omikron;&gamma;&rho;&alfa;&phi;&jota_ton;&alfa;</trd>
+  <trd lng="en">orthography</trd>
+  <trd lng="fr">orthographe</trd>
+  <trd lng="hu">helyes&iacute;r&aacute;s</trd>
+  <trdgrp lng="nl">
+    <trd>orthografie</trd>,
+    <trd>spelling</trd>
+  </trdgrp>
+  <trd lng="pt">ortografia</trd>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_r;&c_a;&c_v;&c_o;&c_p;&c_i;&c_s;&c_a;&c_n;&c_i;&c_je;</trd>,
+    <trd>&c_o;&c_r;&c_f;&c_o;&c_g;&c_r;&c_a;&c_f;&c_i;&c_ja;</trd>
+  </trdgrp>
+  <trd lng="sk">pravopis</trd>
+  <trd lng="vo">lotogaf</trd>
+</drv>
+</art>
+<!--
+$Log: ortogr.xml,v $
+Revision 1.20  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2014/03/04 09:10:14  revo
+Damien Brucker: +ctl
+
+Revision 1.17  2014/01/08 08:10:11  revo
+Damien Brucker: +trd fr
+
+Revision 1.16  2013/12/24 11:10:11  revo
+Damien Brucker: -em
+
+Revision 1.15  2013/12/23 10:10:11  revo
+Damien Brucker: Translokigo de la rim
+
+Revision 1.14  2013/12/09 13:10:18  revo
+Damien Brucker: +rim
+
+Revision 1.13  2012/08/04 19:10:15  revo
+Marc Rausell: + trd ca
+
+Revision 1.12  2009/10/15 16:33:11  revo
+Paul Peeraerts: +nl +kor
+
+Revision 1.11  2003/07/13 16:31:25  revo
+-->
+</vortaro>

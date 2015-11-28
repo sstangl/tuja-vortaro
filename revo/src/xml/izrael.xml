@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: izrael.xml,v 1.5 2015/07/04 08:37:36 revo Exp $">
+<kap>
+    <rad>Izrael</rad>/o <fnt><bib>MT</bib></fnt>
+</kap>
+<drv mrk="izrael.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">BIB</uzo>
+  <snc mrk="izrael.0o.praregno">
+    <dif>
+       La&ubreve; la Biblio regno inter proksimume 1010 a.K. kaj 926 a.K. sub
+       la re&gcirc;oj 
+       Saulo, Davido kaj Salomono, pli poste dividi&gcirc;inta en nordan
+       regnon
+       <tld/>o
+       kaj sudan regnon Judujo: 
+       
+       <ekz>
+         kaj la re&gcirc;o Salomono estis re&gcirc;o super la tuta <tld/>, 
+         kaj Salomono havis dek du administrantojn super la tuta <tld/>,
+         <fnt><bib>MT</bib>, <lok>I. re&gcirc;oj 3:28/29</lok></fnt>.
+       </ekz>
+     
+    </dif>
+  </snc>
+  <snc mrk="izrael.0o.popolo">
+    <dif>
+       La dekdu-triba popolo de tiu regno, posteuloj de Jakobo:
+      <ekz>
+        de post la tago, kiam Mi elkondukis Mian popolon <tld/> el
+        Egiptujo, Mi 
+        elektis neniun urbon inter &ccirc;iuj triboj de <tld/>, por konstrui
+        domon, 
+        en kiu estus Mia nomo; sed Mi elektis Davidon, ke li estu super
+        Mia 
+        popolo <tld/>
+        <fnt><bib>MT</bib>, <lok>I. re&gcirc;oj 8:15</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="izrael.0o.norda_regno">
+    <dif>
+      La norda regno post la dividi&gcirc;o.
+    </dif>
+  </snc>
+  <trd lng="cs">Izrael</trd>
+  <trd lng="de">Israel</trd>
+  <trd lng="fr">Isra&euml;l</trd>
+  <trd lng="sk">Izrael</trd>
+</drv>
+
+<drv mrk="izrael.0ido">
+  <kap><tld/>ido</kap>
+  <snc mrk="izrael.0ido.popolano">
+    <dif>
+       Ano de la 
+       <ref tip="malprt" cel="izrael.0o.popolo">popolo 
+       <tld/><sncref ref="izrael.0o.popolo"/></ref>:
+        <ekz>
+          en la jaro kvarcent-okdeka post la eliro de la <tld/>idoj el
+          la lando 
+          Egipta, en la kvara jaro de la re&gcirc;ado de Salomono, en la
+          monato Ziv, 
+          tio estas la dua monato, oni komencis konstrui la domon por la
+          Eternulo
+          <fnt><bib>MT</bib>, <lok>I. re&gcirc;oj 5:18</lok></fnt>.
+       </ekz>
+    </dif>
+  </snc>
+  <trd lng="de">Isrealit</trd>
+  <trd lng="fr">Isra&eacute;lite</trd>
+</drv>
+</art>
+
+<!--
+$Log: izrael.xml,v $
+Revision 1.5  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.4  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.3  2015/03/14 17:10:17  revo
+Damien Brucker: +trd fr
+
+Revision 1.2  2015/03/13 19:10:14  revo
+Wolfram Diestel: + ~ido
+
+Revision 1.1  2015/03/13 18:10:15  revo
+Wolfram Diestel: nova artikolo
+
+-->
+</vortaro>

@@ -1,0 +1,319 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: sezon.xml,v 1.31 2015/07/04 08:37:43 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>sezon</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="sezon.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="sezon.0o.KAL">
+    <uzo tip="fak">KAL</uzo>
+    <dif>
+      Parto de la <ref tip="malprt" cel="jar.0o.KAL">jaro</ref>
+      karakterizata per sia vetero, naturaj kondi&ccirc;oj, homaj okupoj:
+    </dif>
+    <subsnc mrk="sezon.0o.jarkvarono">
+      <dif>
+        En mezvarmaj landoj &ccirc;iu el la kvar partoj de jaro kun tipa
+        temperaturo, nome
+        <ref tip="vid" cel="printe.0o.KAL">printempo</ref> (varmi&gcirc;o),
+        <ref tip="vid" cel="somer.0o.KAL">somero</ref> (varmo),
+        <ref tip="vid" cel="auxtun.0o.KAL">a&ubreve;tuno</ref>
+        (malvarmi&gcirc;o),
+        <ref tip="vid" cel="vintr.0o.KAL">vintro</ref> (malvarmo).
+        <ekz>
+          oni havis ekster<tld/>an someron en tiu &ccirc;i jaro.
+        </ekz>
+      </dif>
+      <trd lng="be">&c_p;&c_a;&c_r;&c_a; &c_g;&c_o;&c_d;&c_u;</trd>
+      <trd lng="ca">estaci&oacute;<klr> (de l'any)</klr></trd>
+      <trd lng="cs">ro&ccaron;n&iacute; doba</trd>
+      <trd lng="de">Jahreszeit</trd>
+      <trd lng="el">&epsilon;&pi;&omikron;&chi;&eta_ton;</trd>
+      <trd lng="es">estaci&oacute;n<klr> (del a&ntilde;o)</klr></trd>
+      <trd lng="hu">&eacute;vszak</trd>
+      <trd lng="pl">pora roku</trd>
+      <trd lng="ro">anotimp</trd>
+      <trd lng="ru">&c_v;&c_r;&c_je;&c_m;&c_ja; &c_g;&c_o;&c_d;&c_a;</trd>
+    </subsnc>
+    <subsnc mrk="sezon.0o.tropika">
+      <dif>
+        En tropikaj landoj &ccirc;iu parto de jaro kun tipa sekeco, nome
+        <ref tip="sub" cel="sezon.pluv0o.MET">pluvsezono</ref>
+        (malseka),
+        <ref tip="vid" cel="sezon.seka0o.MET">seka sezono</ref> (seka).
+      </dif>
+    </subsnc>
+    <subsnc mrk="sezon.0o.okupo">
+      <dif>
+        Jarparto speciale ta&ubreve;ga por ia faro:
+        <ekz>
+          la fi&scirc;<tld/>o proksimi&gcirc;is
+          <fnt>
+            <bib>&Ccirc;uk&ccirc;oj</bib>,
+            <lok>Filip Onkudimov, 4</lok>
+          </fnt>;
+        </ekz>
+        <ekz>
+          ban<tld/>o<fnt>B</fnt>;
+        </ekz>
+        <ekz>
+          por &ccirc;io estas <tld/>o
+          <klr>(ta&ubreve;ga tempo)</klr>
+          <fnt><bib>MT</bib>, <lok>&Pre; 3:1</lok></fnt>.
+        </ekz>
+      </dif>
+      <trd lng="be">&c_s;&c_e;&c_z;&c_o;&c_n;</trd>
+      <trd lng="de">Saison</trd>
+      <trdgrp lng="hu">
+        <trd>id&eacute;ny</trd>,
+        <trd>szezon</trd>
+      </trdgrp>
+      <trdgrp lng="ru">
+        <trd>&c_s;&c_je;&c_z;&c_o;&c_n;</trd>,
+        <trd>&c_p;&c_o;&c_r;&c_a;<klr> (&c_ch;&c_je;&c_g;&c_o;-&c_l;.)</klr></trd>
+      </trdgrp>
+    </subsnc>
+  </snc>
+  <snc mrk="sezon.0o.KIN">
+    <uzo tip="fak">KIN</uzo>
+    <dif>
+      Vico de filmoj la&ubreve;plane kaj regule publikigitaj kiel
+      parto de <ref tip="malprt" cel="seri.0o.KIN">serio</ref>:
+      <ekz>
+        jen nova anta&ubreve;rigardo al la debuta epizodo el la kvina <tld/>o 
+        de <ctl>Lost</ctl>
+        <fnt>
+          <aut>-</aut>,
+          <vrk><url
+          ref="http://mojose.wordpress.com/2008/12/19/antaurigardo-al-la-kvina-seanco-de-lost/">
+          mojose</url></vrk>,
+          <lok>2008-12-19</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        kun 10 <tld/>oj kaj 214 epizodoj, <ctl>Stargate SG-1</ctl> estas
+        
+        la plej longa sciencfikcia televidserio
+        <fnt><bib>Viki</bib>, <lok>artikolo &leftquot;Stargate SG-1&rightquot;, 
+        2009-11-07</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>roční období</trd>,
+    <trd>sezóna</trd>
+  </trdgrp>
+  <trd lng="en">season</trd>
+  <trd lng="fr">saison</trd>
+  <trd lng="id">musim</trd>
+  <trdgrp lng="nl">
+    <trd>seizoen</trd>,
+    <trd>jaargetijde</trd>
+  </trdgrp>
+  <trd lng="pl">sezon</trd>
+  <trd lng="ro">sezon</trd>
+  <trdgrp lng="sk">
+    <trd>ročné obdobie</trd>,
+    <trd>sezóna</trd>
+  </trdgrp>
+  <trd lng="tr">mevsim</trd>
+</drv>
+
+<drv mrk="sezon.inter0o">
+  <kap>inter<tld/>o</kap>
+  <snc mrk="sezon.inter0o.okupo">
+    <dif>
+      Periodo inter <tld/>oj<sncref ref="sezon.0o.okupo"/>:
+      <ekz>
+        politika, teatra, turisma inter<tld/>o;
+      </ekz>
+      <ekz>
+        mi vere ne &gcirc;enus vin, sed altaj estas funkciadaj kostoj,
+        la luprezo de la vendejo, krome estas inter<tld/>o...
+        <fnt>
+        <aut>J. Rejt&odblac;, trad. L. B&aacute;lazs</aut>,
+        <vrk>La skeleta brigado</vrk>.
+        <lok><url ref="http://www.freeweb.hu/verkoj/09b.htm"
+        >&ccirc;apitro 13a</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="sin" cel="sezon.malvigla0o">malvigla <tld/>o</ref>
+  </snc>
+  <snc mrk="sezon.inter0o.jarkvarono">
+    <uzo tip="fak">KAL</uzo>
+    <dif>
+      Supernocio por <ref tip="sub" cel="auxtun.0o.KAL">a&ubreve;tuno</ref>
+      kaj <ref tip="sub" cel="printe.0o.KAL">printempo</ref>,
+      periodo inter somero kaj vintro (kiujn oni rigardas
+      <ctl>&ccirc;efaj</ctl> <tld/>oj<sncref ref="sezon.0o.jarkvarono"/>):
+      <ekz>
+        ni anka&ubreve; vidas, ke printempo kaj a&ubreve;tuno estas respective
+        inter<tld/>oj (transiraj sezonoj) inter vintro kaj
+        somero kaj somero kaj inter somero kaj vintro
+        <fnt>
+        <vrk><url ref="http://esperanto.cri.cn/1/2004/08/19/1@13974.htm"
+        >Kial ekestas jarsezonoj?</url></vrk>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="fr">demi-saison</trd>
+  </snc>
+  <trd lng="en">off-season</trd>
+  <trd lng="id">pancaroba</trd>
+  <trd lng="ru">&c_m;&c_je;&c_zh;&c_s;&c_je;&c_z;&c_o;&c_n;&c_mol;&c_je;</trd>
+</drv>
+
+<drv mrk="sezon.malvigla0o">
+  <kap>malvigla <tld/>o, <var>
+  <kap>mal<tld/>o</kap>
+  </var></kap>
+  <snc>
+    <dif>
+      La malo de <tld/>o<sncref ref="sezon.0o.okupo"/>, periodo
+      kiun karakterizas nenia a&ubreve; tre malforta ekonomia aktiveco.
+    </dif>
+  </snc>
+  <trdgrp lng="en">
+    <trd>dead season</trd>,
+    <trd>low season</trd>,
+    <trd>off-season</trd>,
+    <trd>slack season</trd>
+  </trdgrp>
+  <trd lng="fr">morte saison</trd>
+  <trdgrp lng="ru">
+    <trd>&c_g;&c_l;&c_u;&c_h;&c_a;&c_ja; &c_p;&c_o;&c_r;&c_a;</trd>,
+    <trd>&c_n;&c_je;&c_s;&c_je;&c_z;&c_o;&c_n;</trd>,
+    <trd>&c_m;&c_jo;&c_r;&c_t;&c_v;&c_y;&c_j; &c_s;&c_je;&c_z;&c_o;&c_n;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="sezon.pluv0o">
+  <kap>pluv<tld/>o</kap>
+  <snc mrk="sezon.pluv0o.MET">
+    <uzo tip="fak">MET</uzo>
+    <dif>
+      <ref tip="lst" cel="sezon.0o.tropika"
+      lst="voko:sezonoj">Sezono</ref>
+      de abunda pluvado, karaktera de tropika klimato:
+      <ekz>
+        en la somera pluv<tld/>o, kiam koti&gcirc;is la vojo, mi 
+        devis <klr>...</klr> rajdi blankan, forkureman 
+        &ccirc;evalon
+        <fnt>
+          <aut>E. de Kock</aut>,
+          <vrk>Sub fremdaj &ccirc;ieloj</vrk>,
+          <lok>2007</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">saison des pluies</trd>
+</drv>
+
+<drv mrk="sezon.reprodukta0o">
+  <kap>reprodukta <tld/>o</kap>
+  <snc mrk="sezon.reprodukta0o.ETOL">
+    <uzo tip="fak">BIO</uzo>
+    <dif>
+      Parto de la jaro, kiam iuj bestoj seksardas kaj reprodukti&gcirc;as:
+      <ekz>
+        dum la reprodukta <tld/>o la tigroj kolekti&gcirc;as kaj unui&gcirc;as
+        <fnt>
+          <aut>J. &Scirc;uvajev</aut>,
+          <vrk><url
+          ref="http://www.eventoj.hu/steb/zoologio/konduto_de_bestoj/f874-p30.htm">
+          Pri la konduto de bestoj</url></vrk>,
+          <lok>Fokuso, 1987:1, p. 2a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">saison des amours</trd>
+  <trd lng="id"><ind>musim</ind> kawin</trd>
+</drv>
+
+<drv mrk="sezon.seka0o">
+  <kap>seka <tld/>o</kap>
+  <snc mrk="sezon.seka0o.MET">
+    <uzo tip="fak">MET</uzo>
+    <dif>
+      <ref tip="lst" cel="sezon.0o.tropika"
+      lst="voko:sezonoj">Sezono</ref>
+      de senpluveco, karaktera de tropika klimato:
+      <ekz>
+        la seka <tld/>o estas tiu de malaltaj akvaroj; la 
+        riveroj malalti&gcirc;as &gcirc;is sia plej malgranda fluejo, 
+        el kie elmergi&gcirc;as sabla&jcirc;oj
+        <fnt>
+          <aut>&Ccirc;ina Radio Internacia</aut>,
+          <vrk><url
+          ref="http://esperanto.cri.cn/802/2012/07/09/1s138089.htm">
+          La musonoj, elemento decidiganta la ritmon de la
+          naturo</url></vrk>,
+          <lok>2012-07-09</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">saison s&egrave;che</trd>
+</drv>
+
+<drv mrk="sezon.turisma0o">
+  <kap>turisma <tld/>o</kap>
+  <snc mrk="sezon.turisma0o.KOMUNE">
+    <dif>
+      <tld lit="S"/>o favora por turismo,
+      &gcirc;enerale mildavetera:
+      <ekz>
+        la kongreso okazas dum la turisma <tld/>o
+        <fnt>
+          <aut>-</aut>,
+          <vrk>Utilaj informoj pri Hanojo kaj Vjetnamio</vrk>,
+          <lok><url
+          ref="http://esperanto.cri.cn/other/magazine/dua_bulteno_2012.pdf">
+          Universala Kongreso de Esperanto, Dua Bulteno,
+          2012</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">saison touristique</trd>
+</drv>
+</art>
+<!--
+$Log: sezon.xml,v $
+Revision 1.31  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.30  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.29  2014/11/29 23:10:23  revo
+Jeromo Vasxe: + tropikaj ~oj
+
+Revision 1.28  2014/09/22 12:10:18  revo
+Glavkos Xaon: greka defino de vorto
+
+Revision 1.27  2014/06/03 15:10:18  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.26  2014/04/25 07:10:18  revo
+Damien Brucker: +fak
+
+Revision 1.25  2014/04/24 01:10:20  revo
+Jeromo Vasxe: + reprodukta ~o
+
+Revision 1.24  2014/03/27 02:10:19  revo
+Jeromo Vasxe: + turisma ~o
+
+Revision 1.23  2009/11/09 17:30:38  revo
+Jeromo Vasxe: + ~o kin, + kk trd fr
+
+Revision 1.22 2008/06/18 16:30:16 revo
+-->
+</vortaro>

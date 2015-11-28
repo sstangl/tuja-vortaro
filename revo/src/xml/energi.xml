@@ -1,0 +1,385 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: energi.xml,v 1.25 2015/07/04 08:37:33 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>energi</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="energi.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="energi.0o.forto">
+    <dif>
+      Forto de la volo, stre&ccirc;ita al iu celo, kaj persista por
+      &gcirc;in atingi:
+      <ekz>
+        li &ccirc;iam montris grandan <tld/>on;
+      </ekz>
+      <ekz>
+        <ind><tld/>dona</ind> man&gcirc;a&jcirc;o.
+        <trd lng="fr">&eacute;nerg&eacute;tique</trd>
+      </ekz>
+    </dif>
+    <trdgrp lng="hu">
+      <trd>er&eacute;ly</trd>,
+      <trd>hat&aacute;rozotts&aacute;g</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="energi.0o.FIZ">
+    <uzo tip="fak">FIZ</uzo>
+    <dif>
+      <ref tip="super" cel="grand.fizika0o">Fizika grando</ref>,
+      esprimanta la kapablon fari laboron:
+      <ekz>
+        la <ref cel="dimens.0o.FIZ">dimensioj</ref> de <tld/>o estas
+        <frm>ML<sup>2</sup>T<sup>-2</sup></frm>;
+      </ekz>
+      <ekz>
+        elektra, &hcirc;emia, atoma, potenciala, kineta <tld/>o;
+      </ekz>
+      <ekz>
+        varmo<tld/>o;
+      </ekz>
+      <ekz>
+        muskola <tld/>o.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="jxul.jx0o">&jcirc;ulo</ref>.
+    </refgrp>
+    <trd lng="hu">energia</trd>
+  </snc>
+  <trd lng="be">&c_e;&c_n;&c_e;&c_r;&c_g;&c_ib;&c_ja;</trd>
+  <trd lng="cs">energie</trd>
+  <trd lng="de">Energie</trd>
+  <trd lng="en">energy</trd>
+  <trd lng="es">energ&iacute;a</trd>
+  <trd lng="fr">&eacute;nergie</trd>
+  <trd lng="pl">energia</trd>
+  <trd lng="pt">energia</trd>
+  <trd lng="ru">&c_e;&c_n;&c_je;&c_r;&c_g;&c_i;&c_ja;</trd>
+  <trd lng="sk">energia</trd>
+  <trd lng="sv">energi</trd>
+</drv>
+
+<drv mrk="energi.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="energi.0a.posedantaEnergion">
+    <dif>
+      Posedanta <tld/>on:
+      <ekz>
+        <tld/>a karaktero, estro.
+      </ekz>
+    </dif>
+    <trd lng="be">
+    &c_e;&c_n;&c_e;&c_r;&c_g;&c_je;&c_t;&c_y;&c_ch;&c_n;&c_y;</trd>
+    <trd lng="de">energetisch</trd>
+  </snc>
+  <snc mrk="energi.0a.drasta">
+    <dif>
+      Forte impresanta,
+      <ref tip="vid" cel="drast.0a.KOMUNE">drasta </ref>:
+      <ekz>
+        <tld/>a esprimo, muziko.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_e;&c_n;&c_e;&c_r;&c_g;&c_ib;&c_ch;&c_n;&c_y;</trd>
+    <trd lng="de">energisch</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>energický</trd>,
+    <trd>průbojný</trd>,
+    <trd>pádný</trd>,
+    <trd>rozhodný</trd>,
+    <trd>rázný</trd>,
+    <trd>řízný</trd>
+  </trdgrp>
+  <trd lng="fr">&eacute;nergique</trd>
+  <trdgrp lng="hu">
+    <trd>energikus</trd>,
+    <trd>dinamikus</trd>
+  </trdgrp>
+  <trd lng="pl">energiczny</trd>
+  <trd lng="ru">
+  &c_e;&c_n;&c_je;&c_r;&c_g;&c_i;&c_ch;&c_n;&c_y;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>energický</trd>,
+    <trd>rozhodný</trd>,
+    <trd>rázny</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="energi.0ismo">
+  <kap><tld/>ismo</kap>
+  <snc mrk="energi.0ismo.FIL">
+    <uzo tip="fak">FIL</uzo>
+    <dif>
+      Kosmologia sistemo, kiu konsideras ne materion,
+      sed <tld/>on kiel la substancon de la fizika mondo.
+    </dif>
+  </snc>
+  <trd lng="be">&c_e;&c_n;&c_e;&c_r;&c_g;&c_je;&c_t;&c_y;&c_z;&c_m;</trd>
+  <trd lng="fr">&eacute;nerg&eacute;tisme</trd>
+  <trd lng="hu">energetizmus</trd>
+  <trd lng="ru">&c_e;&c_n;&c_je;&c_r;&c_g;&c_je;&c_t;&c_i;&c_z;&c_m;</trd>
+</drv>
+
+<drv mrk="energi.akv0o">
+  <kap>akv<tld/>o,
+  <var><kap>akvo<tld/>o</kap></var></kap>
+  <snc mrk="energi.akv0o.TEK">
+    <uzo tip="fak">EKOL</uzo>
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      <tld lit="E"/>o portata de naturaj akvomovoj a&ubreve; akvovarmeco,
+      kaptebla per turbinoj a&ubreve; aliaj aparatoj:
+      <ekz>
+        akvo<tld/>o el ondoj de la maro a&ubreve; el riveroj
+        <fnt>
+          <aut>Asocio de Verduloj Esperantistaj</aut>,
+          <vrk><url ref="http://www.verduloj.org/k_energi.htm">
+          Efika Uzado de Energio</url></vrk>,
+          <lok>2001</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="en">hydropower</trd>
+  <trd lng="fr">&eacute;nergie hydraulique</trd>
+  <trd lng="pl">hydroenergia</trd>
+</drv>
+
+<drv mrk="energi.kern0o">
+  <kap>kern<tld/>o,
+  <var><kap>atom<tld/>o</kap></var>,
+  <var><kap>nuklea <tld/>o</kap></var></kap>
+  <snc mrk="energi.kern0o.TEK">
+    <uzo tip="fak">EKOL</uzo>
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      <tld lit="E"/>o eligata de atomkernoj, precipe dum
+      ilia fendi&gcirc;o, uzata en nukleaj centraloj:
+      <ekz>
+        la procezo de fisio estis renkontita plurfoje dum la esploroj 
+        pri kern<tld/>o dum la tridekaj jaroj de la 20-a jarcento
+        <fnt>
+          <bib>Viki</bib>,
+          <lok><url ref="http://eo.wikipedia.org/wiki/Fisio">
+          fisio</url>, 2011-01-16</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        Germanujo estas 100 procente dependa de uranio-importoj
+        por la atom<tld/>o
+        <fnt>
+          <aut>Bundesministerium f&uuml;r Umwelt, trad. F. Zeller</aut>,
+          <vrk><url
+          ref="http://www.verduloj.org/Atomenergio_erar-vojo.htm">
+          Atomenergio: mal&gcirc;usta vojo</url></vrk>,
+          <lok>2010</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        mi estas forta kontra&ubreve;ulo de nuklea <tld/>o
+        <fnt>
+          <aut>Benno</aut>,
+          <vrk><url
+          ref="http://www.ipernity.com/blog/reza.torabi/88116">
+          Profitoj kaj malprofitoj de la nuklea energio</url></vrk>,
+          <lok>2008</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="en">nuclear power</trd>
+  <trd lng="fr">&eacute;nergie nucl&eacute;aire</trd>
+  <trdgrp lng="pl">
+    <trd>energia j&aogonek;drowa</trd>,
+    <trd>energia atomowa</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="energi.fosilia0o">
+  <kap>fosilia <tld/>o</kap>
+  <snc mrk="energi.fosilia0o.TEK">
+    <uzo tip="fak">EKOL</uzo>
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      <tld lit="E"/>o produktata per bruligo de
+      fosiliaj substancoj: tergaso, karbo, naftoderiva&jcirc;oj:
+      <ekz>
+        tutmonda klimat&scirc;an&gcirc;i&gcirc;o da&ubreve;ras kaj fosilia <tld/>o ankora&ubreve; 
+        el&ccirc;erpi&gcirc;as
+        <fnt>
+          <aut>M. Earle k.a.</aut>,
+          <vrk><url
+          ref="http://www.verduloj.org/Verda_Libro/VL01_klimato_energio.html">
+          Verda Libro</url></vrk>,
+          <lok>[2009]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">&eacute;nergie fossile</trd>
+  <trdgrp lng="pl">
+    <trd>energia kopalna <klr>(pot.)</klr></trd>,
+    <trd>enrrgia z paliw kopalnych</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="energi.renovigxanta0o">
+  <kap>renovi&gcirc;anta <tld/>o, <var><kap>renovigebla
+  <tld/>o</kap></var></kap>
+  <snc mrk="energi.renovigxanta0o.TEK">
+    <uzo tip="fak">EKOL</uzo>
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      <tld lit="E"/>o provizata de fonto, kiun
+      oni rigardas senlima, ne el&ccirc;erpi&gcirc;onta,
+      kiel vento, suno... kontraste al
+      <ref tip="ant" cel="energi.fosilia0o.TEK">fosilia <tld/>o</ref>:
+      <ekz>
+        &gcirc;is 2030 E&ubreve;ropo havas devigajn celojn altigi
+        la procenta&jcirc;on de renovigebla <tld/>o
+        <fnt>
+          <aut>D. ab Iago</aut>,
+          <vrk><url ref="http://sezonoj.ru/2013/03/bruselo-4/">
+          Klimata &scirc;an&gcirc;i&gcirc;o post 2030</url></vrk>,
+          <lok>La Balta Ondo, 2013-03-15</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="en">renewable energy</trd>
+  <trd lng="fr">&eacute;nergie renouvelable</trd>
+  <trd lng="pl">energia odnawialna</trd>
+</drv>
+
+<drv mrk="energi.sun0o">
+  <kap>sun<tld/>o</kap>
+  <snc mrk="energi.sun0o.TEK">
+    <uzo tip="fak">EKOL</uzo>
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      <tld lit="E"/>o portata de sunradiado,
+      kaptebla kaj reuzebla per diversaj aparatoj,
+      interalie sun&ccirc;eloj:
+      <ekz>
+        sun<tld/>a forno <klr>...</klr> ne bezonas brula&jcirc;on
+        <fnt>
+          <aut>E. Norman</aut>,
+          <vrk><url ref="http://www.esperlando.com/sunenergio.htm">
+          Suna Forno</url></vrk>,
+          <lok>Esperlando, 2001</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">sluneční energie</trd>
+  <trd lng="en">solar energy</trd>
+  <trd lng="fr">&eacute;nergie solaire</trd>
+  <trdgrp lng="pl">
+    <trd>energia s&lstroke;oneczna</trd>,
+    <trd>energia solarna</trd>
+  </trdgrp>
+  <trd lng="sk">slnečná energia</trd>
+</drv>
+ 
+<drv mrk="energi.tervarma0o">
+  <kap>tervarma <tld/>o,
+  <var><kap>geoterma <tld/>o</kap></var></kap>
+  <snc mrk="energi.tervarma0o.TEK">
+    <uzo tip="fak">EKOL</uzo>
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      <tld lit="E"/>o el la internaj
+      tavoloj de la tero, spontane disponebla
+      en naturaj varmaj akvoj a&ubreve; kaptebla per diversaj subteraj
+      ekipa&jcirc;oj:
+      <ekz>
+        nun, ventoenergio, sunenergio, tervarma <tld/>o <klr>...</klr> 
+        estas uzataj en &ccirc;iutaga vivo de tibet-naciaj kamparanoj
+        <fnt>
+          <aut>-</aut>,
+          <vrk><url
+          ref="http://www.espero.com.cn/old/epch/z06-06s/06s-2/07-06-2-16.htm">
+          Lumigi Tibeton per nova fuelo</url></vrk>,
+          <lok>2009</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        plej ofte oni produktas per la geoterma <tld/>o elektran 
+        kurenton
+        <fnt>
+          <bib>Viki</bib>,
+          <lok><url ref="http://eo.wikipedia.org/wiki/Geoterma_energio">
+          Geoterma energio</url>, 2011-01-16</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="en">geothermal energy</trd>
+  <trd lng="fr">&eacute;nergie g&eacute;othermique</trd>
+  <trd lng="pl">energia geotermalna</trd>
+</drv>
+
+<drv mrk="energi.vent0o">
+  <kap>vent<tld/>o</kap>
+  <snc mrk="energi.vent0o.TEK">
+    <uzo tip="fak">EKOL</uzo>
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      <tld lit="E"/>o portata de vento, de aermovoj,
+      kaptebla per veloj, ventoturbinoj kaj aliaj aparatoj:
+      <ekz>
+        Kalifornio produktas pli da vent<tld/>o
+        ol iu ajn alia &scirc;tato en Usono
+        <fnt>
+          <aut>R. Miller</aut>,
+          <vrk>Energio de Vento</vrk>,
+          <lok><url
+          ref="http://www.esperanto-chicago.org/newsletters/05_08.pdf">
+          Saluton!, 2008-05</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">energie větru</trd>
+  <trd lng="en">wind power</trd>
+  <trd lng="fr">&eacute;nergie &eacute;olienne</trd>
+  <trd lng="pl">energia wiatrowa</trd>
+  <trd lng="sk">energia vetra</trd>
+</drv>
+</art>
+<!--
+$Log: energi.xml,v $
+Revision 1.25  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.24  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.23  2014/02/14 21:10:14  revo
+Jeromo Vasxe: + atom~o
+
+Revision 1.22  2013/04/03 11:10:16  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.21  2013/03/29 17:10:11  revo
+Jeromo Vasxe: + renovigxanta ~o
+
+Revision 1.20  2011/06/23 19:10:11  revo
+Dominique Pelle: au -> aux
+
+Revision 1.19  2011/03/09 08:10:08  revo
+Jeromo Vasxe: + akv/kern...~o
+
+Revision 1.18  2008/07/29 16:30:26  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.17  2008/05/28 20:08:05  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.16  2007/06/28 16:32:12  revo
+-->
+</vortaro>

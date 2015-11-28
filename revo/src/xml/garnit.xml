@@ -1,0 +1,199 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: garnit.xml,v 1.21 2015/08/28 05:10:14 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>garnitur</rad>/o <fnt><bib>PV</bib></fnt> 
+</kap>
+<drv mrk="garnit.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="garnit.0o.KOMUNE">
+    <dif>
+      Tia aro da objektoj por specifa celo, ke &gcirc;i prezentas unu
+      tuta&jcirc;on, komplekson:
+      <ekz>
+        <tld/>o de kameno <klr>(horlo&gcirc;o kun vazoj ktp)</klr>;
+      </ekz><ekz>
+        <tld/>o da &scirc;ra&ubreve;b&scirc;losiloj;
+      </ekz><ekz>
+        <tld/>o de skribotablo
+        <klr>(skriboplato, inkujo, sorbilo, tondilo ktp)</klr>;
+      </ekz><ekz>
+        <tld/>o por la ungoj <klr>(fajliloj ktp)</klr>;
+      </ekz><ekz>
+        vesta <tld/>o
+        <klr>(originale estas <ctl>&c_p;&c_a;&c_r;&c_a; &c_p;&c_l;&c_a;&c_t;&c_mol;&c_ja;</ctl>,
+        t.e. <ctl>vestoparo</ctl>, t.e. vestokompleto el surtuto
+        kaj pantalono)</klr>
+	<fnt>
+	  <aut>N.V. Gogol, tr. &Z;</aut>: <vrk>La revizoro</vrk>.
+          <lok>1:8</lok>.
+	</fnt>.
+      </ekz>
+    </dif>
+    <rim>
+      Ne konfuzu kun <ref cel="garn.0ajxo0ilo">garna&jcirc;o</ref>.
+    </rim>
+    <refgrp tip="super">
+      <ref cel="komple2.0o.KOMUNE">kompleto</ref>
+    </refgrp>
+    <refgrp tip="sub">
+      <ref cel="ensemb.0o.KOMUNE">ensemblo</ref>,
+      <ref cel="servic.0o.KUI">servico</ref>
+    </refgrp>
+    <refgrp tip="vid">
+      <ref cel="sortim.0o.KOMUNE">sortimento</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_n;&c_a;&c_b;&c_o;&c_r;</trd>,
+    <trd>&c_k;&c_a;&c_m;&c_p;&c_l;&c_je;&c_k;&c_t;</trd>,
+    <trd>&c_g;&c_a;&c_r;&c_n;&c_ib;&c_t;&c_u;&c_r;</trd>
+  </trdgrp>
+  <trdgrp lng="ca">
+    <trd>assortiment</trd>,
+    <trd>joc</trd>
+    <trd>guarnici&oacute;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>garnitura</trd>,
+    <trd>soubor</trd>,
+    <trd>souprava</trd>,
+    <trd>stavebnice</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Satz</trd>,
+    <trd>Garnitur</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>garniture</trd>,
+    <trd>fittings</trd>,
+    <trd>trimmings</trd>,
+    <trd>kit</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>guarnici&oacute;n</trd>,
+    <trd>accesorios</trd>,
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>assortiment</trd>,
+    <trd>garniture<klr tip="ind"> (assortiment)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>k&eacute;szlet</trd>,
+    <trd>garnit&uacute;ra</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>stel</trd>,
+    <trd>assortiment</trd>,
+    <trd>garnituur</trd>
+  </trdgrp>
+  <trdgrp lng="oc">
+    <trd>assortiment</trd>,
+    <trd>ensortiment</trd>
+    <trd>garnidura</trd>
+    <trd>garniment</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+  <trd>garnitur</trd>,
+  <trd>komplet</trd>,
+  <trd>zestaw</trd>
+</trdgrp>
+  <trd lng="pt">guarni&ccedil;&atilde;o</trd>
+  <trdgrp lng="ru">
+    <trd>&c_n;&c_a;&c_b;&c_o;&c_r;</trd>,
+    <trd>&c_k;&c_o;&c_m;&c_p;&c_l;&c_je;&c_k;&c_t;</trd>,
+    <trd>&c_g;&c_a;&c_r;&c_n;&c_i;&c_t;&c_u;&c_r;(&c_a;)</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>stavebnica</trd>,
+    <trd>s&uacute;bor</trd>,
+    <trd>s&uacute;prava</trd>
+  </trdgrp>
+  <trdgrp lng="tr">
+    <trd>s&uuml;s</trd>,
+    <trd>s&uuml;s gere&ccedil;leri</trd>, 
+    <trd>donat&inodot;m</trd>,
+    <trd>garnit&uuml;r</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="garnit.distribua0o">
+      <kap>distribua <tld/>o <fnt><bib>KompLeks</bib></fnt>
+        <fnt><vrk><url
+        ref="http://www.komputeko.net/novaj2014.pdf">Komputeko-2014</url></vrk></fnt>
+      </kap>
+      <uzo tip="fak">KOMP</uzo>
+      <snc mrk="garnit.distribua0o.KOMP">
+        <dif>
+          Programaro en tia formo, en kiu &gcirc;i estas disponigata al la
+          publiko a&ubreve; komerce liverata:
+          <ekz>
+            En la Emaksa distribua <tld/>o estas dosiero etc/JOKES,
+            entenanta diversajn &scirc;ercajn klarigojn de la siglo EMACS
+            <fnt>
+              <aut>Dmitri Bre&ccirc;alov</aut>:
+              <vrk><url ref="http://www.ipernity.com/blog/dmych/62394"
+                  >Emakso por komencantoj</url></vrk>
+            </fnt>.
+          </ekz>
+        </dif>
+      </snc>
+      <trd lng="de">Distributionssatz</trd>
+      <trd lng="en">distribution kit</trd>
+      <trd lng="fr">jeu distributif</trd>
+      <trd lng="ru">&c_d;&c_i;&c_s;&c_t;&c_r;&c_i;&c_b;&c_u;&c_t;&c_i;&c_v;</trd>
+</drv>
+
+
+<drv mrk="garnit.taks0o">
+      <kap>taks<tld/>o <fnt><bib>KompLeks</bib></fnt>
+        <fnt><vrk><url
+        ref="http://www.komputeko.net/novaj2014.pdf">Komputeko-2014</url></vrk></fnt>
+      </kap>
+      <uzo tip="fak">KOMP</uzo>
+      <snc mrk="garnit.taks0o.KOMP">
+        <dif>
+          Kolekto da zorge elektitaj programoj por testi diversajn
+          aspektojn de sistemfunkciado kaj per mezurado kompari
+          samspecajn komputajn produktojn, kune kun &ccirc;efprogramo
+          registranta la rezultojn de la testado, skalanta ilin (ekz-e
+          la&ubreve; la rapido de la komputilo) kaj generanta raporton pri la
+          rezultoj de la takstestado.
+        </dif>
+      </snc>
+      <trd lng="de">Bewertungsprogramm</trd>
+      <trd lng="en">benchmark package</trd>
+      <trd lng="fr">banc d'essai</trd>
+</drv>
+
+
+</art>
+<!--
+$Log: garnit.xml,v $
+Revision 1.21  2015/08/28 05:10:14  revo
+Sergio Pokrovskij: TEZ
+
+Revision 1.20  2015/08/27 16:10:14  revo
+Sergio Pokrovskij: +distribua ~o, taks~o
+
+Revision 1.19  2015/07/04 08:37:34  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:29:39  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2012/12/08 21:10:15  revo
+Jeromo Vasxe: + ref
+
+Revision 1.16  2012/12/07 19:10:08  revo
+Benito Subejrano: + trd ka oc
+
+Revision 1.15  2012/08/21 07:10:11  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.14  2012/02/05 18:10:09  revo
+-->
+</vortaro>

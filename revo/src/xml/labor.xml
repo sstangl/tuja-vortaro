@@ -1,0 +1,1412 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: labor.xml,v 1.52 2015/07/04 14:10:17 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>labor</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="labor.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="labor.0i.EKON">
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      Korpe a&ubreve; spirite peni por produkti a&jcirc;on, plenumi taskon,
+      rezultigi efikon:
+      <ekz>
+        <tld/>i en fabriko, oficejo, pri terkulturo;
+      </ekz>
+      <ekz>
+        <tld/>i super malfacila tasko, super verko, romano,
+        teksilo<fnt>Z</fnt>,
+        super la stablo<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        la homaro, por kies bono ni <tld/>as<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        tiuj, kiuj volas <tld/>i super la lingvo internacia<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <adm>
+    &Scirc;ajnus al mi pli logike ne kovri &ccirc;iujn sencojn de ~i
+    per la fako EKON kaj konservi &gcirc;in nur por speciala faka
+    senco (sub ~i a&ubreve; ~o). <aut>MB</aut>
+  </adm>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_r;&c_a;&c_c;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_r;&c_a;&c_b;&c_ib;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="br">labourat</trd>
+  <trdgrp lng="ca">
+    <trd>treballar</trd>,
+    <trd>laborar</trd>
+  </trdgrp>
+  <trd lng="cs">pracovat</trd>
+  <trd lng="de">arbeiten</trd>
+  <trdgrp lng="el">
+    <trd>&delta;&omikron;&ypsilon;&lambda;&epsilon;&ypsilon_ton;&omega;</trd>,
+    <trd>&epsilon;&rho;&gamma;&alfa_ton;&zeta;&omikron;&my;&alfa;&jota;</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>work</trd>,
+    <trd>labor</trd>
+  </trdgrp>
+  <trd lng="es">trabajar</trd>
+  <trd lng="fr">travailler<klr tip="ind"> (intr.)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>dolgozik</trd>,
+    <trd>m&udblac;k&ouml;dik</trd>
+  </trdgrp>
+  <trd lng="it">lavorare</trd>
+  <trd lng="nl">werken</trd>
+  <trdgrp lng="no">
+    <trd>jobbe</trd>,
+    <trd>arbeide</trd>
+  </trdgrp>
+  <trd lng="pt">trabalhar</trd>
+  <trdgrp lng="ru">
+    <trd>&c_r;&c_a;&c_b;&c_o;&c_t;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_t;&c_r;&c_u;&c_d;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>
+  </trdgrp>
+  <trd lng="vo">v&ouml;lig&ouml;n</trd>
+  <trd lng="sv">arbeta</trd>
+  <trd lng="tr">&ccedil;al&inodot;&scedil;mak</trd>
+  <trdgrp lng="sk">
+    <trd>pracova&tcaron;</trd>,
+    <trd>robi&tcaron;</trd>,
+    <trd>&uacute;&ccaron;inkova&tcaron;</trd>
+  </trdgrp>
+  <trd lng="cs">makat, pracovat</trd>
+  <trd lng="zh">&#21171;&#21160; [<ind>l&aacute;o d&ograve;ng</ind>]</trd>
+</drv>
+
+<drv mrk="labor.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="labor.0o.KOMUNE">
+    <dif>
+      Ago <tld/>i, rezulto de tia ago:
+      <ekz>
+        <tld/>o kondukas al honoro kaj oro<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_p;&c_r;&c_a;&c_c;&c_a;</trd>
+    <trdgrp lng="ca">
+      <trd>labor</trd>,
+      <trd>ocupaci&oacute;</trd>,
+      <trd>feina</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd>Arbeit</trd>,
+      <trd>Arbeiten</trd>,
+      <trd>Werken</trd>
+    </trdgrp>
+    <trd lng="ru">&c_t;&c_r;&c_u;&c_d;</trd>
+  </snc>
+  <snc mrk="labor.0o.FIZ">
+    <uzo tip="fak">FIZ</uzo>
+    <dif>
+      <ref tip="super" cel="grand.fizika0o">Fizika grando</ref>,
+      egala al la integralo de skalara produto de
+      <ref cel="fort.0o.FIZ">forto</ref>, aplikita al korpo, per la
+      infinitezima movo, kiun &gcirc;ia efiko produktas sur la korpo:
+      <ekz>
+        <tld/>o de konstanta forto, aplikita al korpo, kiu movi&gcirc;as
+        la&ubreve; la direkto de la forto, egalas al produto de la forto
+        per la trairata distanco;
+      </ekz>
+      <ekz>
+        <tld/>o estas unu el la formoj de
+        <ref tip="super" cel="energi.0o.FIZ">energio</ref>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="jxul.jx0o">&jcirc;ulo</ref>,
+      <ref cel="pov.0o.FIZ">povo</ref>.
+    </refgrp>
+    <trd lng="be">&c_r;&c_a;&c_b;&c_o;&c_t;&c_a;</trd>
+    <trd lng="de">Arbeit</trd>
+  </snc>
+  <trd lng="bg">&c_r;&c_a;&c_b;&c_o;&c_t;&c_a;</trd>
+  <trd lng="br">labour</trd>
+  <trd lng="ca">treball</trd>
+  <trdgrp lng="cs">
+    <trd>pr&aacute;ce</trd>,
+    <trd>&ccaron;innost</trd>
+  </trdgrp>
+  <trdgrp lng="el">
+    <trd>&delta;&omikron;&ypsilon;&lambda;&epsilon;&jota;&alfa_ton;</trd>,
+    <trd>&epsilon;&rho;&gamma;&alfa;&sigma;&jota_ton;&alfa;</trd>
+  </trdgrp>
+  <trd lng="es">trabajo</trd>
+  <trd lng="fr">travail</trd>
+  <trdgrp lng="hu">
+    <trd>munka</trd>,
+    <trd>dolog</trd>,
+    <trd>m&udblac;k&ouml;d&eacute;s</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>werk</trd>,
+    <trd>arbeid</trd>
+  </trdgrp>
+  <trdgrp lng="no">
+    <trd>jobb</trd>,
+    <trd>arbeid</trd>
+  </trdgrp>
+  <trd lng="pt">trabalho</trd>
+  <trd lng="ru">&c_r;&c_a;&c_b;&c_o;&c_t;&c_a;</trd>
+  <trd lng="sk">pr&aacute;ca</trd>
+  <trd lng="sv">arbete</trd>
+  <trd lng="tr">i&scedil;</trd>
+  <trd lng="vo">v&ouml;lig</trd>
+</drv>
+
+<drv mrk="labor.0anto">
+  <kap><tld/>anto</kap>
+  <snc>
+    <dif>
+      Iu, kiu <tld/>as:
+    </dif>
+    <subsnc mrk="labor.0anto.EKON">
+      <uzo tip="fak">EKON</uzo>
+      <dif>
+        Por vivteni sin:
+        <ekz>
+          dol&ccirc;a estas la dormo de <tld/>anto, &ccirc;u li man&gcirc;as
+          malmulte a&ubreve; multe; sed trosateco ne lasas la ri&ccirc;ulon dormi
+          <fnt><bib>MT</bib>, <lok>&Pre; 5:12</lok></fnt>;
+        </ekz>
+        <ekz>
+          kiel malprudenta mi estis, <klr>[pensante]</klr>, ke mi
+          bezonas nur iri
+          kaj diri, ke mi deziras <tld/>i, kaj mi jam estos akceptita en
+          la vicon
+          de la <tld/>antoj
+          <fnt><bib>Marta</bib></fnt>.
+        </ekz>
+      </dif>
+      <ref tip="vid" cel="dung.0ito">dungito</ref>
+      <trdgrp lng="ca">
+        <trd>treballador</trd>,
+        <trd>assalariat</trd>        
+      </trdgrp>
+      <trdgrp lng="fr">
+        <trd>travailleur<klr tip="ind"> (subst.)</klr></trd>
+        <trd>employ&eacute;<klr tip="ind"> (subst.)</klr></trd>
+      </trdgrp>
+      <trd lng="no">arbeider</trd>
+      <trd lng="sv">arbetare</trd>
+    </subsnc>
+    <subsnc mrk="labor.0anto.ESP">
+      <uzo tip="fak">ESP</uzo>
+      <uzo tip="stl">ARK</uzo>
+      <dif>
+        Por Esperanto:
+        <ekz>
+          el la <tld/>antoj de la unua tempo tre multaj jam delonge plu
+          ne vivas, <klr>[aliaj]</klr> malaperis el nia anaro
+          <fnt><bib>Paroloj</bib>,
+          <lok>Malferma parolado de la 8a UK en Krak&oacute;w
+          (1912-08-11)</lok></fnt>.
+        </ekz>
+      </dif>
+      <trd lng="ca">esperantista</trd>
+    </subsnc>
+  </snc>
+  <adm>
+    Restas por klarigi la nuancon inter ~anto k ~isto. Ne temas pri tio,
+    ke la ~anto ~us neprofesie!
+    <aut>MB</aut>
+  </adm>
+  <trd lng="sk">pracovn&iacute;k</trd>
+  <trdgrp lng="cs">
+    <trd>pracovn&iacute;k</trd>,
+    <trd>pracuj&iacute;c&iacute;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="labor.0antaro">
+  <kap><tld/>antaro</kap>
+  <snc>
+    <dif>
+      Tuto de la <tld/>antoj:
+      <ekz>
+        la anoncoj en Brusela gazetoj, la&ubreve; la tiamaj diroj, estis
+        legitaj de 
+        vere multaj homoj en la EU-<tld/>antaro
+        <fnt>
+        <aut>[K. Kniivil&auml;]</aut>
+        <vrk><url
+        ref="http://www.liberafolio.org/2006/phillipsonanonco">
+        Phillipson publike elpa&scirc;is por Esperanto</url></vrk>
+        <lok>libera folio, 2006-05-14</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        <tld/>o ekamasis kaj do necesis propra ejo kaj <tld/>antaro
+        <fnt>
+        <aut>L. Bor&ccaron;i&cacute;</aut>
+        <vrk>Por la orfoj kaj plorantoj</vrk>
+        <bib>LOdE</bib>
+        <lok>2002:6 (92)</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="dung.0itaro">dungitaro</ref>,
+      <ref cel="person.0aro.EKON">personaro</ref>
+   </refgrp>
+  </snc>
+  <trdgrp lng="ca">
+    <trd>plantilla</trd>,
+    <trd>personal</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>personnel<klr tip="ind"> (ensemble des employ&eacute;s)</klr></trd>
+    <trd>effectif<klr tip="ind"> (ensemble des employ&eacute;s)</klr></trd>
+    <trd>employ&eacute;s</trd>
+  </trdgrp>
+  <trd lng="tr">personel</trd>
+</drv>
+
+<drv mrk="labor.0ema">
+  <kap><tld/>ema</kap>
+  <snc mrk="labor.0ema.KOMUNE">
+    <dif>
+      Volonte <tld/>anta.
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_r;&c_a;&c_c;&c_a;&c_v;&c_ib;&c_t;&c_y;</trd>
+  <trdgrp lng="br">
+    <trd>labourus<klr tip="ind"> (tud)</klr></trd>,
+    <trd>oberiant</trd>
+  </trdgrp>
+  <trdgrp lng="ca">
+    <trd>treballador</trd>,
+    <trd>labori&oacute;s</trd>,
+    <trd>diligent</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>piln&yacute;</trd>,
+    <trd>pracovit&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>arbeitsam</trd>,
+    <trd>flei&szlig;ig</trd>
+  </trdgrp>
+  <trd lng="el">&delta;&omikron;&ypsilon;&lambda;&epsilon;&ypsilon;&tau;&alfa;&rho;&alfa_ton;&sigma_fina;</trd>
+  <trdgrp lng="en">
+    <trd>hardworking</trd>,
+    <trd>industrious</trd>,
+    <trd>assiduous</trd>,
+    <trd>sedulous</trd>
+  </trdgrp>
+  <trd lng="es">trabajador<klr> (adj.)</klr></trd>
+  <trdgrp lng="fr">
+    <trd>courageux<klr tip="ind"> (travailleur)</klr></trd>,
+    <trd>travailleur<klr tip="ind"> (adj.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>dolgos</trd>,
+    <trd>szorgalmas</trd>,
+    <trd>munkaszeret&odblac;</trd>
+  </trdgrp>
+  <trd lng="nl">ijverig</trd>
+  <trd lng="no">ivrig</trd>
+  <trd lng="pt">trabalhador<klr tip="ind"> (adj.)</klr></trd>
+  <trd lng="ru">&c_t;&c_r;&c_u;&c_d;&c_o;&c_l;&c_ju;&c_b;&c_i;&c_v;&c_y;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>pracovit&yacute;</trd>,
+    <trd>robotn&yacute;</trd>
+  </trdgrp>
+  <trd lng="tr">&ccedil;al&inodot;&scedil;kan</trd>
+</drv>
+
+<drv mrk="labor.0estro">
+  <kap><tld/>estro</kap>
+  <snc mrk="labor.0estro.EKON">
+    <uzo tip="fak">EKON</uzo>
+    <fnt><bib>PIV1</bib></fnt>
+    <fnt><bib>BEE</bib></fnt>
+    <dif>
+      Supera <ref tip="super" cel="labor.0isto"><tld/>isto</ref>
+      estranta
+      la <tld/>on de la aliaj, ofte majstro.
+    </dif>
+  </snc>
+  <trd lng="br">mestr-micherour</trd>
+  <trdgrp lng="ca">
+    <trd>mestre</trd>,
+    <trd>cap</trd>,
+    <trd>encarregat</trd>,
+    <trd>superior</trd>
+  </trdgrp>
+  <trd lng="cs">p&rcaron;ed&aacute;k</trd>
+  <trd lng="de">Vorarbeiter</trd>
+  <trdgrp lng="en">
+    <trd>overseer</trd>,
+    <trd>foreman</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>chef d'atelier</trd>,
+    <trd>chef d'&eacute;quipe<klr> (au travail)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>munkavezet&odblac;</trd>,
+    <trd>pall&eacute;r</trd>,
+    <trd>csoportvezet&odblac;</trd>,
+    <trd>el&odblac;munk&aacute;s</trd>
+  </trdgrp>
+  <trdgrp lng="no">
+    <trd>arbeidsleder</trd>,
+    <trd>formann</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_m;&c_a;&c_s;&c_t;&c_je;&c_r;</trd>,
+    <trd>&c_b;&c_r;&c_i;&c_g;&c_a;&c_d;&c_i;&c_r;</trd>,
+    <trd>&c_p;&c_r;&c_o;&c_r;&c_a;&c_b;</trd>,
+    <trd>&c_s;&c_t;&c_a;&c_r;&c_sh;&c_i;&c_j; &c_r;&c_a;&c_b;&c_o;&c_ch;&c_i;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>pred&aacute;k</trd>,
+    <trd>ved&uacute;ci</trd>
+  </trdgrp>
+  <trdgrp lng="sv">
+    <trd>arbetsledare</trd>,
+    <trd>f&ouml;rman</trd>
+  </trdgrp>
+  <trd lng="tr">&scedil;ef</trd>
+</drv>
+
+<drv mrk="labor.0itajxo">
+  <kap><tld/>ita&jcirc;o, <var><kap><tld/>a&jcirc;o</kap></var></kap>
+  <snc mrk="labor.0itajxo.EKON">
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      Produkto de la <tld/>ado:
+      <ekz>
+        <tld/>a&jcirc;o de artisto<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_r;&c_a;&c_d;&c_u;&c_k;&c_t;</trd>,
+    <trd>&c_v;&c_y;&c_r;&c_a;&c_b;</trd>,
+    <trd>&c_p;&c_r;&c_a;&c_c;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="ca">
+    <trd>producte</trd>,
+    <trd>obra</trd>,
+    <trd>manufactura</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Werk</trd>,
+    <trd>Produkt</trd>,
+    <trd>Arbeitsergebnis</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>term&eacute;k</trd>,
+    <trd>elk&eacute;sz&uuml;lt <ind>munka</ind></trd>,
+    <trd>munkadarab</trd>
+  </trdgrp>
+  <trd lng="nl">werkstuk</trd>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_r;&c_o;&c_d;&c_u;&c_k;&c_t;</trd>,
+    <trd>&c_i;&c_z;&c_d;&c_je;&c_l;&c_i;&c_je;</trd>,
+    <trd>&c_t;&c_r;&c_u;&c_d;</trd>,
+    <trd>&c_r;&c_a;&c_b;&c_o;&c_t;&c_a;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="labor.0isto">
+  <kap><tld/>isto, <var><kap><tld/>ulo</kap></var></kap>
+  <snc mrk="labor.0isto.EKON">
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      Homo, kiu <tld/>as:
+      <ekz>
+        la <tld/>istoj de la penso.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_p;&c_r;&c_a;&c_c;&c_a;&c_w;&c_n;&c_ib;&c_k;</trd>
+    <trdgrp lng="ca">
+      <trd>productor</trd>,
+      <trd>creador</trd>
+    </trdgrp>
+    <trd lng="de">Arbeitender</trd>
+    <trd lng="hu">dolgoz&oacute;</trd>
+    <trdgrp lng="ru">
+      <trd>&c_r;&c_a;&c_b;&c_o;&c_t;&c_n;&c_i;&c_k;</trd>,
+      <trd>&c_t;&c_r;&c_u;&c_zh;&c_je;&c_n;&c_i;&c_k;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="labor.0isto0ulo.proleto">
+    <dif>
+      Homo, kiu metie kaj korpe <tld/>as por akiri vivrimedojn:
+      <ekz>
+        kampo<tld/>isto;
+      </ekz>
+      <ekz>
+        la <ind><tld/>ista klaso</ind>.
+        <trd lng="br">renkad al labourerien</trd>
+        <trd lng="ca">classe obrera</trd>
+        <trd lng="fr">classe ouvri&egrave;re</trd>
+        <trd lng="hu">munk&aacute;soszt&aacute;ly</trd>
+        <trd lng="ru">&c_r;&c_a;&c_b;&c_o;&c_ch;&c_i;&c_j;
+        &c_k;&c_l;&c_a;&c_s;&c_s;</trd>
+        <trd lng="tr">i&scedil;&ccedil;i s&inodot;n&inodot;f&inodot;</trd>
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="prolet.0o">proleto</ref>
+    <trd lng="be">&c_p;&c_r;&c_a;&c_c;&c_o;&c_w;&c_n;&c_y;
+    <klr>(&c_n;&c_a;&c_z;.)</klr></trd>
+    <trdgrp lng="ca">
+      <trd>obrer</trd>,
+      <trd>assalariat</trd>
+    </trdgrp>
+    <trd lng="de">Arbeiter</trd>
+    <trdgrp lng="en">
+      <trd>laborer</trd>,
+      <trd>working man</trd>,
+    </trdgrp>
+    <trd lng="hu">munk&aacute;s</trd>
+    <trd lng="ru">&c_r;&c_a;&c_b;&c_o;&c_ch;&c_i;&c_j;
+    <klr>(&c_s;&c_u;&c_shch;.)</klr></trd>
+  </snc>
+  <trdgrp lng="br">
+    <trd>labourer</trd>,
+    <trd>micherour</trd>
+  </trdgrp>
+  <trd lng="ca">treballador</trd>
+  <trdgrp lng="cs">
+    <trd>pracovn&iacute;k</trd>,
+    <trd>pracuj&iacute;c&iacute;</trd>
+  </trdgrp>
+  <trd lng="el">&epsilon;&rho;&gamma;&alfa;&zeta;&omikron_ton;&my;&epsilon;&ny;&omikron;&sigma_fina;</trd>
+  <trd lng="es">trabajador<klr tip="amb"> (nomb.)</klr></trd>
+  <trdgrp lng="fr">
+    <trd>ouvrier</trd>,
+    <trd>travailleur<klr tip="ind"> (subst.)</klr></trd>
+  </trdgrp>
+  <trd lng="nl">arbeider</trd>
+  <trd lng="no">arbeider</trd>
+  <trd lng="pt">trabalhador</trd>
+  <trdgrp lng="sk">
+    <trd>pracovn&iacute;k</trd>,
+    <trd>pracuj&uacute;ci</trd>
+  </trdgrp>
+  <trd lng="sv">arbetare</trd>
+  <trd lng="tr">i&scedil;&ccedil;i</trd>
+</drv>
+
+<drv mrk="labor.el0i">
+  <kap>el<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="labor.el0i.KOMUNE">
+    <dif>
+      Estigi, produkti per sia <tld/>o; pri<tld/>i ion por &gcirc;in meti en
+      difinitan staton:
+      <ekz>
+        mi el<tld/>is projekton de korporacia organizacio<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        vergo doloras, sed sa&gcirc;on el<tld/>as
+        <fnt><bib>PrV</bib></fnt>;
+      </ekz>
+      <ekz>
+        nur la uzo iom post iom el<tld/>os por tiuj detaloj difinitajn
+        regulojn<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        el<tld/>i al si la opinion, ke...<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        &gcirc;i devas el<tld/>adi en la junuloj amon al honesta <tld/>o kaj
+        abomenon por frazisteco<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        tio, kion li diris en siaj oficialaj kongresparoladoj, estis
+        anta&ubreve;e el<tld/>ita kaj preparita tre precize kaj singardeme.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_v;&c_y;&c_p;&c_r;&c_a;&c_c;&c_o;&c_w;&c_v;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_r;&c_a;&c_s;&c_p;&c_r;&c_a;&c_c;&c_o;&c_w;&c_v;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="br">danzen</trd>
+  <trdgrp lng="ca">
+    <trd>elaborar</trd>,
+    <trd>produir</trd>,
+    <trd>confeccionar</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>obr&aacute;b&ecaron;t</trd>,
+    <trd>opracovat</trd>,
+    <trd>upravit</trd>,
+    <trd>zdokonalit</trd>,
+    <trd>zpracovat</trd>
+  </trdgrp>
+  <trd lng="de">ausarbeiten</trd>
+  <trdgrp lng="el">
+    <trd>&epsilon;&pi;&epsilon;&xi;&epsilon;&rho;&gamma;&alfa_ton;&zeta;&omikron;&my;&alfa;&jota;</trd>,
+    <trd>&kappa;&alfa;&tau;&epsilon;&rho;&gamma;&alfa_ton;&zeta;&omikron;&my;&alfa;&jota;</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>work out in detail</trd>,
+    <trd>develop</trd>,
+    <trd>ellaborate</trd>,
+    <trd>treat at length</trd>,
+  </trdgrp>
+  <trd lng="fr">&eacute;laborer</trd>
+  <trd lng="hu">kidolgoz</trd>
+  <trd lng="nl">uitwerken</trd>
+  <trd lng="no">utarbeide</trd>
+  <trd lng="pt">elaborar</trd>
+  <trdgrp lng="ru">
+    <trd>&c_v;&c_y;&c_r;&c_a;&c_b;&c_o;&c_t;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_r;&c_a;&c_z;&c_r;&c_a;&c_b;&c_o;&c_t;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>opracova&tcaron;</trd>,
+    <trd>spracova&tcaron;</trd>,
+    <trd>zdokonali&tcaron;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="labor.kun0i">
+  <kap>kun<tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="labor.kun0i.KOMUNE">
+    <dif>
+      Partopreni kun aliaj personoj en komuna <tld/>o:
+      <ekz>
+        kun<tld/>i en gazeto, kun konata a&ubreve;toro pri teatra verko.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="kontri.0i">kontribui</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_s;&c_u;&c_p;&c_r;&c_a;&c_c;&c_o;&c_w;&c_n;&c_ib;&c_ch;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="br">kenlabourat</trd>
+  <trdgrp lng="ca">
+    <trd>col&middot;laborar</trd>,
+    <trd>cooperar</trd>,
+    <trd>conc&oacute;rrer</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>zusammenarbeiten</trd>,
+    <trd>mitarbeiten</trd>,
+  </trdgrp>
+  <trd lng="el">&sigma;&ypsilon;&ny;&epsilon;&rho;&gamma;&alfa_ton;&zeta;&omikron;&my;&alfa;&jota;</trd>
+  <trd lng="en">collaborate</trd>
+  <trd lng="es">colaborar</trd>
+  <trd lng="fr">collaborer</trd>
+  <trd lng="hu">egy&uuml;ttm&udblac;k&ouml;dik</trd>
+  <trd lng="nl">samenwerken</trd>
+  <trd lng="no">samarbeide</trd>
+  <trd lng="pt">colaborar</trd>
+  <trd lng="ru">&c_s;&c_o;&c_t;&c_r;&c_u;&c_d;&c_n;&c_i;&c_ch;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="sk">spolupracova&tcaron;</trd>
+  <trd lng="sv">samarbeta</trd>
+  <trd lng="tr">i&scedil;birli&gbreve;i yapmak</trd>
+</drv>
+
+<drv mrk="labor.kun0o">
+  <kap>kun<tld/>o</kap>
+  <snc mrk="labor.kun0o.KOMUNE">
+    <dif>
+      Partopreno en komuna <tld/>o de pluraj personoj por komuna celo.
+    </dif>
+  </snc>
+  <trd lng="br">kenlabour</trd>
+  <trdgrp lng="ca">
+    <trd>col&middot;laboraci&oacute;</trd>,
+    <trd>cooperaci&oacute;</trd>
+  </trdgrp>
+  <trd lng="cs">sou&ccaron;innost</trd>
+  <trdgrp lng="de">
+    <trd>Zusammenarbeit</trd>,
+    <trd>Mitarbeit</trd>
+  </trdgrp>
+  <trd lng="fr">collaboration</trd>
+  <trd lng="hu">egy&uuml;ttm&udblac;k&ouml;d&eacute;s</trd>
+  <trd lng="no">samarbeid</trd>
+  <trd lng="ru">&c_s;&c_o;&c_t;&c_r;&c_u;&c_d;&c_n;&c_i;&c_ch;&c_je;&c_s;&c_t;&c_v;&c_o;</trd>
+  <trd lng="sk">s&uacute;&ccaron;innos&tcaron;</trd>
+  <trd lng="sv">samarbete</trd>
+  <trd lng="tr">i&scedil;birli&gbreve;i</trd>
+</drv>
+
+<drv mrk="labor.mal0ema">
+  <kap>mal<tld/>ema</kap>
+  <snc mrk="labor.mal0ema.KOMUNE">
+    <dif>
+      Ne volonte <tld/>anta.
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_l;&c_ja;&c_n;&c_ib;&c_v;&c_y;</trd>,
+    <trd>&c_g;&c_u;&c_l;&c_mol;&c_t;&c_a;&c_ja;&c_v;&c_a;&c_t;&c_y;</trd>
+  </trdgrp>
+  <trdgrp lng="br">
+    <trd>didalvez<klr tip="ind"> (tud)</klr></trd>,
+    <trd>lezirek</trd>
+  </trdgrp>
+  <trdgrp lng="ca">
+    <trd>dropo</trd>,
+    <trd>gandul</trd>,
+    <trd>mandr&oacute;s</trd>
+  </trdgrp>
+  <trd lng="cs">l&iacute;n&yacute;</trd>
+  <trd lng="de">faul</trd>
+  <trdgrp lng="el">
+    <trd>&tau;&epsilon;&my;&pi;&epsilon_ton;&lambda;&eta;&sigma_fina;</trd>,
+    <trd>&chi;&alfa;&rho;&alfa;&my;&omikron;&phi;&alfa_ton;&eta;&sigma_fina;</trd>
+  </trdgrp>
+  <trd lng="fr">paresseux</trd>
+  <trdgrp lng="hu">
+    <trd>lusta</trd>,
+    <trd>henye</trd>,
+    <trd>munkaker&uuml;l&odblac;</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>lui</trd>,
+    <trd>werkschuw</trd>
+  </trdgrp>
+  <trd lng="no">lat</trd>
+  <trd lng="pt">pregui&ccedil;oso</trd>
+  <trd lng="ru">&c_l;&c_je;&c_n;&c_i;&c_v;&c_y;&c_j;</trd>
+  <trd lng="sk">leniv&yacute;</trd>
+  <trdgrp lng="sv">
+    <trd>arbetsskygg</trd>,
+    <trd>lat</trd>,
+    <trd>sl&ouml;</trd>
+  </trdgrp>
+  <trd lng="tr">tembel</trd>
+</drv>
+
+<drv mrk="labor.per0i">
+  <kap>per<tld/>i<fnt>Z</fnt>, <var><kap><tld/>akiri</kap></var></kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="labor.per0i.EKON">
+    <dif>
+      Akiri ion per sia <tld/>o:
+      <ekz>
+        &scirc;i devis per<tld/>i la vivrimedojn de la tuta familio.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_z;&c_a;&c_r;&c_a;&c_b;&c_l;&c_ja;&c_c;&c_mol;</trd>
+  <trd lng="br">gounit<klr tip="ind"> (dre labourat)</klr></trd>
+  <trdgrp lng="ca">
+    <trd>aconseguir</trd>,
+    <trd>guanyar-se</trd>,
+    <trd>adquirir</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>acqu&eacute;rir<klr tip="ind"> (par son travail)</klr></trd>,
+    <trd>gagner<klr tip="ind"> (par son travail)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>sich <ind>erarbeiten</ind></trd>,
+    <trd>sich <ind>verdienen</ind></trd>
+  </trdgrp>
+  <trd lng="hu">keres<klr tip="ind"> (pl. p&eacute;nzt)</klr></trd>
+  <trd lng="nl">verdienen</trd>
+  <trdgrp lng="ru">
+    <trd>&c_z;&c_a;&c_r;&c_a;&c_b;&c_o;&c_t;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_z;&c_a;&c_r;&c_a;&c_b;&c_a;&c_t;&c_y;&c_v;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="labor.pri0i">
+  <kap>pri<tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="labor.pri0i.KOMUNE">
+    <dif>
+      <tld lit="L"/>i super io; fari la necesan <tld/>on por meti ion en
+      ta&ubreve;gan staton:
+      <ekz>
+        pri<tld/>i kampon, projekton (<ref tip="vid"
+        cel="pens">trapensi</ref>),
+        verkon;
+      </ekz>
+      <ekz>
+        vi ne pri<tld/>is sufi&ccirc;e vian talenton<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        belaspekta, delikata <ind>pri<tld/>iteco</ind><fnt>Z</fnt> de
+        juvelo,
+        vazo (<ref tip="vid" cel="fason.0o">fasono</ref>);
+        <trd lng="fr">facture<klr tip="ind"> (mani&egrave;re de
+        r&eacute;alisation)</klr></trd>
+        <trdgrp lng="hu">
+          <trd>kidolgozotts&aacute;g</trd>,
+          <trd>kivitel</trd>
+        </trdgrp>
+      </ekz>
+      <ekz>
+        pri<tld/>ita menso<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        pri<tld/>i iun per bastono<fnt>Z</fnt>
+        <klr>(bastoni)</klr>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_a;&c_p;&c_r;&c_a;&c_c;&c_o;&c_w;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trdgrp lng="br">
+    <trd>labourat<klr tip="ind"> (v.k.)</klr></trd>,
+    <trd>merat<klr tip="ind"> (labourat)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="ca">
+    <trd>cultivar</trd>,
+    <trd>formar</trd>,
+    <trd>modelar</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>obr&aacute;b&ecaron;t</trd>,
+    <trd>opracovat</trd>,
+    <trd>upravit</trd>,
+    <trd>zdokonalit</trd>,
+    <trd>zpracovat</trd>
+  </trdgrp>
+  <trd lng="de">bearbeiten</trd>
+  <trdgrp lng="fr">
+    <trd>fa&ccedil;onner</trd>,
+    <trd>travailler<klr tip="ind"> (tr.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>kidolgoz</trd>,
+    <trd>megmunk&aacute;l</trd>
+  </trdgrp>
+  <trd lng="nl">bewerken</trd>
+  <trd lng="no">bearbeide</trd>
+  <trdgrp lng="ru">
+    <trd>&c_o;&c_b;&c_r;&c_a;&c_b;&c_o;&c_t;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_o;&c_b;&c_r;&c_a;&c_b;&c_a;&c_t;&c_y;&c_v;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>opracova&tcaron;</trd>,
+    <trd>spracova&tcaron;</trd>,
+    <trd>zdokonali&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="tr">
+    <trd>&scedil;ekillendirmek</trd>,
+    <trd>bi&ccedil;imlendirmek</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="labor.sen0a">
+  <kap>sen<tld/>a</kap>
+  <fnt><bib>PIV1</bib></fnt>
+  <fnt><bib>BEE</bib></fnt>
+  <snc mrk="labor.sen0a.EKON">
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      Estanta sen <tld/>o, &ccirc;u pro nevolo a&ubreve; pro manko de
+      <tld/>ofertoj.
+    </dif>
+  </snc>
+  <trd lng="br">dilabour<klr tip="ind"> (ag.)</klr></trd>
+  <trd lng="ca">desocupat</trd>
+  <trdgrp lng="cs">
+    <trd>bez pr&aacute;ce <klr>(adj.)</klr></trd>,
+    <trd>bezpracn&yacute;</trd>,
+    <trd>nezam&ecaron;stnan&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>arbeitslos</trd>,
+    <trd>besch&auml;ftigungslos</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>unemployed</trd>,
+    <trd>out of <ind>work</ind></trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>ch&ocirc;meur<klr> (adj.)</klr></trd>,
+    <trd>sans <ind>emploi</ind></trd>
+  </trdgrp>
+  <trd lng="hu">munkan&eacute;lk&uuml;li</trd>
+  <trd lng="nl">werkloos</trd>
+  <trd lng="no">arbeidsledig</trd>
+  <trd lng="ru">&c_b;&c_je;&c_z;&c_r;&c_a;&c_b;&c_o;&c_t;&c_n;&c_y;&c_j;<klr> (&c_p;&c_r;&c_i;&c_l;.)</klr></trd>
+  <trd lng="sk">nezamestnan&yacute;</trd>
+  <trd lng="tr">i&scedil;siz</trd>
+</drv>
+
+<drv mrk="labor.sen0eco">
+  <kap>sen<tld/>eco</kap>
+  <snc>
+    <dif>
+      Stato de tiu, kiu vole ne <tld/>as:
+      <ekz>
+        sen<tld/>eco <klr>(mal<tld/>emo)</klr> estas patrino de &ccirc;iuj
+        malvirtoj
+        <fnt><bib>PrV</bib></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="br">dioberiantiz</trd>
+    <trdgrp lng="ca">
+      <trd>mandra</trd>,
+      <trd>ociositat</trd>
+    </trdgrp>
+    <trd lng="fr">oisivet&eacute;</trd>
+    <trd lng="hu">semmittev&eacute;s</trd>
+  </snc>
+  <snc>
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      Manko de <tld/>o; stato de tiu, kiu restas sen <tld/>o malgra&ubreve;
+      sia volo:
+      <ekz>
+        disdoni monhelpon por sen<tld/>eco;
+      </ekz>
+      <ekz>
+        la nombro de la <ind>sen<tld/>ulo</ind>j multe kreskis en la
+        lando.
+        <trd lng="br">dilabourad</trd>
+        <trd lng="fr">ch&ocirc;meur</trd>
+      </ekz>
+    </dif>
+    <trd lng="br">dilabour<klr tip="ind"> (ak.)</klr></trd>
+    <trd lng="ca">desocupaci&oacute;</trd>
+    <trd lng="de">Arbeitslosigkeit</trd>
+    <trd lng="fr">ch&ocirc;mage</trd>
+    <trd lng="hu">munkan&eacute;lk&uuml;lis&eacute;g</trd>
+    <trd lng="tr">i&scedil;sizlik</trd>
+  </snc>
+  <trd lng="be">&c_b;&c_je;&c_s;&c_p;&c_r;&c_a;&c_c;&c_o;&c_w;&c_je;</trd>
+  <trd lng="cs">nezam&ecaron;stnanost</trd>
+  <trd lng="el">&alfa;&ny;&epsilon;&rho;&gamma;&jota_ton;&alfa;</trd>
+  <trd lng="nl">werkloosheid</trd>
+  <trd lng="no">arbeidsledighet</trd>
+  <trd lng="pt">desemprego</trd>
+  <trd lng="ru">&c_b;&c_je;&c_z;&c_r;&c_a;&c_b;&c_o;&c_t;&c_i;&c_c;&c_a;</trd>
+  <trd lng="sk">nezamestnanos&tcaron;</trd>
+</drv>
+
+<drv mrk="labor.sen0ulo">
+  <kap>sen<tld/>ulo</kap>
+  <snc>
+    <dif>
+      Persono, kiu ne havas <tld/>on.
+    </dif>
+  <trd lng="pl">bezrobotny</trd>
+  </snc>
+  <trd lng="cs">nezam&ecaron;stnan&yacute; <klr>(&ccaron;l.)</klr></trd>
+  <trd lng="sk">nezamestnan&yacute;</trd>
+</drv>
+
+<drv mrk="labor.cerb0isto">
+  <kap>cerb<tld/>isto</kap>
+  <snc mrk="labor.cerb0isto.EKON">
+    <uzo tip="fak">EKON</uzo>
+    <fnt><bib>BEE</bib></fnt>
+    <dif>
+      <ref tip="super" cel="labor.0isto"><tld lit="L"/>isto</ref>
+      havanta plej
+      ofte oficejan <tld/>on, kiu ne multe postulas fizikan forton, sed
+      multe da edukado.
+    </dif>
+  </snc>
+  <trdgrp lng="ca">
+    <trd>treballador mental</trd>,
+    <trd>treballador intel&middot;lectual</trd>
+  </trdgrp>
+  <trd lng="de">Kopfarbeiter</trd>
+  <trd lng="en">brain worker</trd>
+  <trd lng="fr">travailleur intellectuel</trd>
+  <trd lng="hu">szellemi <ind>dolgoz&oacute;</ind></trd>
+  <trd lng="ru">&c_r;&c_a;&c_b;&c_o;&c_t;&c_n;&c_i;&c_k; &c_u;&c_m;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_o;&c_g;&c_o; &c_t;&c_r;&c_u;&c_d;&c_a;</trd>
+</drv>
+
+<drv mrk="labor.ekstra0o">
+  <kap>ekstra <tld/>o</kap>
+  <snc mrk="labor.ekstra0o.EKON">
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      Laboro, kiun salajrulo plenumas pluse al la kontraktita 
+      kvanto:
+      <ekz>
+        la&ubreve; regulo, la alilandaj kuiristoj laboras kvin tagojn kaj 
+        duonon semajne, fakte ili ofte faras ekstran <tld/>n
+        <fnt>
+          <aut>-</aut>,
+          <vrk><url
+          ref="http://esperanto.china.org.cn/EL/EL/ElPopolaCxinio/98-3-9.html">
+          El &Ccirc;inaj Gazetoj</url></vrk>,
+          <lok>El popola &Ccirc;inio, 1998-03</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="ca">
+    <trd>treball extra</trd>,
+    <trd>hores extres</trd>
+  </trdgrp>
+  <trd lng="fr">heures suppl&eacute;mentaires</trd>
+</drv>
+
+<drv mrk="labor.0o.ILO">
+  <kap>Internacia <tld lit="L"/>-Organiza&jcirc;o</kap>
+  <mlg>ILO</mlg>
+  <fnt><bib>ManPol</bib></fnt>
+  <snc>
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      Speciala <ref tip="lst" cel="organi2.0ajxo"
+      lst="voko:organiza&jcirc;oj">organiza&jcirc;o</ref> de
+      <ref tip="malprt" cel="naci.Unuigxintaj_0oj">Unui&gcirc;intaj
+      Nacioj</ref>,
+      kiu celas akceli la socialan justecon per plibonigoj de la viv-
+      kaj
+      <tld/>-kondi&ccirc;oj:
+      <ekz>
+        spertuloj de la Internacia <tld lit="L"/>-Organizajo (ILO)
+        asertas, ke la nova jarmilo komenci&gcirc;is sen solvo por unu el la
+        plej gravaj problemoj de la anta&ubreve;a: la sen&ccirc;esa kresko de
+        sen<tld/>eco.
+        <fnt><aut>E. Georgiev</aut>:
+        <vrk><url ref="&Monato;/007398.html">Komputika teknologio helpos
+        al la senlaboruloj</url></vrk>,
+        <bib>Monato</bib>,
+        <lok>2001:05</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_M;&c_ib;&c_zh;&c_n;&c_a;&c_r;&c_o;&c_d;&c_n;&c_a;&c_ja;
+    &c_a;&c_r;&c_g;&c_a;&c_n;&c_ib;&c_z;&c_a;&c_c;&c_y;&c_ja;
+    <ind>&c_p;&c_r;&c_a;&c_c;&c_y;</ind></trd>,
+    <trd>&c_M;&c_A;&c_P;</trd>
+  </trdgrp>
+  <trd lng="br">Aozadur Etrebroadel al <ind>Labour</ind></trd>
+  <trdgrp lng="ca">
+    <trd>Organitzaci&oacute; Internacional del Treball</trd>,
+    <trd>OIT</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Internationale <ind>Arbeitsorganisation</ind></trd>,
+    <trd>IAO</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>International <ind>Labour</ind> Organisation</trd>,
+    <trd>ILO</trd>
+  </trdgrp>
+  <trdgrp lng="es">
+    <trd>Organizaci&oacute;n Internacional del <ind>Trabajo</ind></trd>,
+    <trd>OIT</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>Organisation Internationale du <ind>Travail</ind></trd>,
+    <trd>OIT</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>Nemzetk&ouml;zi <ind>Munka&uuml;gyi Szervezet</ind></trd>,
+    <trd>ILO</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>Internationale <ind>Arbeidsorganisatie</ind></trd>,
+    <trd>IAO</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>Organiza&ccedil;&atilde;o Internacional do <ind>Trabalho</ind></trd>,
+    <trd>OIT</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_M;&c_je;&c_zh;&c_d;&c_u;&c_n;&c_a;&c_r;&c_o;&c_d;&c_n;&c_a;&c_ja; &c_O;&c_r;&c_g;&c_a;&c_n;&c_i;&c_z;&c_a;&c_c;&c_i;&c_ja;
+    <ind>&c_T;&c_r;&c_u;&c_d;&c_a;</ind></trd>,
+    <trd>&c_M;&c_O;&c_T;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="labor.kamp0isto">
+  <kap>kamp<tld/>isto</kap>
+  <snc mrk="labor.kamp0isto.EKON">
+    <uzo tip="fak">EKON</uzo>
+    <fnt><bib>BEE</bib></fnt>
+    <dif>
+      <ref tip="super" cel="labor.0isto"><tld lit="L"/>isto</ref>, kiu
+      prizorgas
+      kampojn, bredatajn bestojn, fruktarbarojn kaj similajn.
+    </dif>
+  </snc>
+  <trdgrp lng="br">
+    <trd>devezhour</trd>,
+    <trd>mevel<klr tip="ind"> (labour-douar)</klr></trd>
+  </trdgrp>
+  <trd lng="cs">zem&ecaron;d&ecaron;lsk&yacute; d&ecaron;ln&iacute;k</trd>
+  <trdgrp lng="de">
+    <trd>Landarbeiter</trd>,
+    <trd>landwirtschaftlicher <ind>Arbeiter</ind></trd>
+  </trdgrp>
+  <trd lng="en">agricultural <ind>worker</ind></trd>
+  <trdgrp lng="fr">
+    <trd>ouvrier agricole</trd>,
+    <trd>travailleur agricole</trd>
+  </trdgrp>
+  <trd lng="hu">mez&odblac;gazdas&aacute;gi <ind>munk&aacute;s</ind></trd>
+  <trd lng="no">landarbeider</trd>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_je;&c_l;&c_mol;&c_s;&c_k;&c_o;&c_h;&c_o;&c_z;&c_ja;&c_j;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_y;&c_j;
+    <ind>&c_r;&c_a;&c_b;&c_o;&c_ch;&c_i;&c_j;</ind></trd>,
+    <trd>&c_b;&c_a;&c_t;&c_r;&c_a;&c_k;</trd>
+  </trdgrp>
+  <trd lng="sk">po&lcaron;nohospod&aacute;rsky robotn&iacute;k</trd>
+</drv>
+
+<drv mrk="labor.konstru0isto">
+  <kap>konstru<tld/>isto</kap>
+  <snc mrk="labor.konstru0isto.KON">
+    <uzo tip="fak">KON</uzo>
+    <dif>
+      Homo, kiu <tld/>as en konstruejo, plenumante taskojn:
+      <ekz>
+        Johano da&ubreve;rigas sian <tld/>on en la for&gcirc;ejo, Eriko estas en la
+        gisejo kaj Ejnar inter la konstru<tld/>istoj
+        <fnt><aut>S. Engholm</aut>, <vrk>Vivo
+        vokas</vrk>, <lok>1946</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="ca">
+    <trd>obrer</trd>,
+    <trd>operari</trd>,
+    <trd>manobre</trd>
+  </trdgrp>
+  <trd lng="cs">stavebn&iacute; d&ecaron;ln&iacute;k</trd>
+  <trd lng="fr">ouvrier du b&acirc;timent</trd>
+  <trd lng="sk">stavebn&yacute; robotn&iacute;k</trd>
+</drv>
+
+<drv mrk="labor.konstru0o">
+  <kap>konstru<tld/>o</kap>
+  <snc mrk="labor.konstru0o.KON">
+    <uzo tip="fak">KON</uzo>
+    <dif>
+      Plenumo de konstruado en difinitaj loko kaj tempo:
+      <ekz>
+        en Daresalamo konstru<tld/>o okazas en preska&ubreve; &ccirc;iu kvartalo
+        <fnt>
+        <aut>A. Dagmarsdotter</aut>,
+        <vrk>Voja&gcirc;o suden</vrk>,
+        <lok><url ref="http://mas-eo.org/article.php3?id_article=172">
+        Monda Asembleo Socia, 2007-03-30</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="ca">
+    <trd>obra</trd>,
+    <trd>treball de construcci&oacute;</trd>
+  </trdgrp>
+  <trd lng="fr">travaux publics</trd>
+</drv>
+
+<drv mrk="labor.ligno0isto">
+  <kap>ligno<tld/>isto</kap>
+  <snc mrk="labor.ligno0isto.EKON">
+    <uzo tip="fak">EKON</uzo>
+    <fnt><bib>BEE</bib></fnt>
+    <dif>
+      <ref tip="super" cel="labor.0isto"><tld lit="L"/>isto</ref>
+      <tld/>anta pri la
+      liverado de ligno produktita el arboj, plej ofte en arbaro.
+    </dif>
+  </snc>
+  <trdgrp lng="br">
+    <trd>koadour</trd>,
+    <trd>koataer</trd>
+  </trdgrp>
+  <trd lng="ca">llenyataire</trd>
+  <trd lng="de">Waldarbeiter</trd>
+  <trd lng="en">wood <ind>worker</ind></trd>
+  <trd lng="fr">forestier<klr> (subst.)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>erd&odblac;munk&aacute;s</trd>,
+    <trd>fakitermel&odblac;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="labor.man0o">
+  <kap>man<tld/>o</kap>
+  <snc mrk="labor.man0o.EKON">
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      <tld lit="L"/>o farata permane a&ubreve; pli &gcirc;enerale perkorpe:
+      <ekz>
+        man<tld/>o <klr>...</klr> konsistis precipe
+        el &scirc;tofkolorigado kaj viza&gcirc;pentrado
+        <fnt>
+          <aut>L. Ladeira</aut>,
+          <vrk>E&ccirc; dek portugalaj junuloj en PSI&#8217;28</vrk>,
+          <lok><url ref="">
+          </url>Nia Bulteno, 2012-04 kaj 05 (94)</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>manu&aacute;ln&iacute; pr&aacute;ce</trd>,
+    <trd>rukod&ecaron;lba</trd>,
+    <trd>ru&ccaron;n&iacute; pr&aacute;ce</trd>
+  </trdgrp>
+  <trd lng="fr">travailleur manuel</trd>
+  <trd lng="sk">ru&ccaron;n&aacute; pr&aacute;ca</trd>
+</drv>
+
+<drv mrk="labor.man0isto">
+  <kap>man<tld/>isto</kap>
+  <snc mrk="labor.man0isto.EKON">
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      <tld lit="L"/>isto <tld/>anta permane, en fabrikado,
+      riparado, produktado de a&jcirc;oj:
+      <ekz>
+        ilia sinteno enhavas ion subtile nobelan, e&ccirc; en la plej humila 
+        man<tld/>isto
+        <fnt><aut>C. Piron</aut>, <vrk>&Ccirc;u vi kuiras &ccirc;ine?</vrk>, 
+        <lok>1976</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>d&ecaron;ln&iacute;k</trd>,
+    <trd>manu&aacute;ln&iacute; pracovn&iacute;k</trd>
+  </trdgrp>
+  <trd lng="fr">travailleur manuel</trd>
+  <trd lng="sk">robotn&iacute;k</trd>
+</drv>
+
+<drv mrk="labor.peza0o">
+  <kap>peza <tld/>o</kap>
+  <fnt><bib>BEE</bib></fnt>
+  <snc mrk="labor.peza0o.EKON">
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      <tld lit="L"/>o, kiu postulas grandajn korpajn fortojn kaj
+      energion.
+    </dif>
+  </snc>
+  <trd lng="ca">treball dur</trd>
+  <trd lng="en">hard work</trd>
+  <trdgrp lng="de">
+    <trd>harte <ind>Arbeit</ind></trd>,
+    <trd>schwere <ind>Arbeit</ind></trd>
+  </trdgrp>
+  <trd lng="br">labour tenn</trd>
+  <trd lng="fr">travail p&eacute;nible</trd>
+  <trd lng="hu">neh&eacute;z <ind>munka</ind></trd>
+  <trd lng="ru">&c_t;&c_ja;&c_zh;&c_jo;&c_l;&c_y;&c_j; <ind>&c_t;&c_r;&c_u;&c_d;</ind></trd>
+</drv>
+
+<drv mrk="labor.pun0o">
+  <kap>pun<tld/>o</kap>
+  <snc mrk="labor.pun0o.JUR">
+    <uzo tip="fak">JUR</uzo>
+    <dif>
+      Deviga <tld/>o, kiun kulpulo estas kondamnita fari.
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_r;&c_y;&c_m;&c_u;&c_s;&c_o;&c_v;&c_y;&c_ja; &c_r;&c_a;&c_b;&c_o;&c_t;&c_y;</trd>,
+    <trd>&c_k;&c_a;&c_t;&c_a;&c_r;&c_g;&c_a;</trd>
+  </trdgrp>
+  <trd lng="ca">treballs for&ccedil;ats</trd>
+  <trd lng="cs">pr&aacute;ce z trestu</trd>
+  <trdgrp lng="de">
+    <trd>Strafarbeit</trd>,
+    <trd>Zwangsarbeit</trd>
+  </trdgrp>
+  <trd lng="fr">travaux forc&eacute;s</trd>
+  <trd lng="hu">k&eacute;nyszermunka</trd>
+  <trdgrp lng="nl">
+    <trd>dwangarbeid</trd>,
+    <trd>strafwerk</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_k;&c_a;&c_t;&c_o;&c_r;&c_g;&c_a;</trd>,
+    <trd>&c_p;&c_r;&c_i;&c_n;&c_u;&c_d;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_je; &c_r;&c_a;&c_b;&c_o;&c_t;&c_y;</trd>
+  </trdgrp>
+  <trd lng="sk">n&uacute;ten&aacute; pr&aacute;ca</trd>
+</drv>
+
+<drv mrk="labor.pun0ejo">
+  <kap>pun<tld/>ejo</kap>
+  <snc mrk="labor.pun0ejo.JUR">
+    <uzo tip="fak">JUR</uzo>
+    <dif>
+      <ref tip="super" cel="liber.mal0ejo">Malliberejo</ref>, en kiu
+      restantoj plenumas devigajn, ordinare pezajn <tld/>ojn.
+    </dif>
+  </snc>
+  <trd lng="br">galeo&ugrave;</trd>
+  <trdgrp lng="ca">
+    <trd>establiment de treballs for&ccedil;ats</trd>,
+    <trd>col&ograve;nia penal</trd>
+  </trdgrp>
+  <trd lng="cs">trestnice</trd>
+  <trd lng="fr">bagne</trd>
+  <trdgrp lng="hu">
+    <trd>fegyenctelep</trd>,
+    <trd>fegyint&eacute;zet</trd>,
+    <trd>k&eacute;nyszermunkat&aacute;bor</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_k;&c_a;&c_t;&c_o;&c_r;&c_g;&c_a;</trd>,
+    <trd>&c_i;&c_s;&c_p;&c_r;&c_a;&c_v;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_o;-&c_t;&c_r;&c_u;&c_d;&c_o;&c_v;&c_o;&c_j; &c_l;&c_a;&c_g;&c_je;&c_r;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="sk">trestnica</trd>
+</drv>
+
+<!--
+2011-04-05, &jcirc;v, forkomentis &ccirc;ar mankas difino
+<drv mrk="labor.utila0o">
+  <kap>utila <tld/>o</kap>
+  <fnt><bib>PIV1</bib></fnt>
+  <snc mrk="labor.utila0o.EKON">
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+    </dif>
+  </snc>
+  <trd lng="br">labour talvoudus</trd>
+  <trdgrp lng="de">
+    <trd>sinnvolle <ind>Arbeit</ind></trd>,
+    <trd>n&uuml;tzliche <ind>Arbeit</ind></trd>
+  </trdgrp>
+  <trd lng="hu">hasznos <ind>munka</ind></trd>
+</drv>
+-->
+
+<drv mrk="labor.0donanto">
+  <kap><tld/>donanto</kap>
+  <snc mrk="labor.0donanto.EKON">
+    <uzo tip="fak">EKON</uzo>
+    <fnt><bib>PIV1</bib></fnt>
+    <dif>
+      Persono, kiu dungas <tld/>istojn.
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="dung.0anto">dunganto</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_p;&c_r;&c_a;&c_c;&c_a;&c_d;&c_a;&c_w;&c_c;&c_a;</trd>
+  <trdgrp lng="br">
+    <trd>goprer</trd>,
+    <trd>implijer</trd>
+  </trdgrp>
+  <trdgrp lng="ca">
+    <trd>patr&oacute;</trd>,
+    <trd>cap</trd>,
+    <trd>empresari</trd>
+  </trdgrp>
+  <trd lng="cs">zam&ecaron;stnavatel</trd>
+  <trd lng="de">Arbeitgeber</trd>
+  <trd lng="en">employer</trd>
+  <trdgrp lng="fr">
+    <trd>employeur</trd>
+    <trd>patron</trd>
+  </trdgrp>
+  <trd lng="hu">munkaad&oacute;</trd>
+  <trd lng="nl">werkgever</trd>
+  <trd lng="no">arbeidsgiver</trd>
+  <trd lng="ru">&c_r;&c_a;&c_b;&c_o;&c_t;&c_o;&c_d;&c_a;&c_t;&c_je;&c_l;&c_mol;</trd>
+  <trd lng="sk">zamestn&aacute;vate&lcaron;</trd>
+  <trd lng="sv">arbetsgivare</trd>
+</drv>
+
+<drv mrk="labor.0kapabla">
+  <kap><tld/>kapabla</kap>
+  <snc>
+    <uzo tip="fak">EKON</uzo>
+    <fnt><bib>BEE</bib></fnt>
+    <dif>
+      Fizike kapabla fari iun profesian <tld/>on.
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_r;&c_a;&c_c;&c_a;&c_z;&c_d;&c_o;&c_l;&c_mol;&c_n;&c_y;</trd>
+  <trd lng="br">barrek da labourat</trd>
+  <trdgrp lng="ca">
+    <trd>v&agrave;lid</trd>,
+    <trd>apte<klr> (per a treballar)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>d&ecaron;ln&yacute;</trd>,
+    <trd>v&yacute;konn&yacute;</trd>
+  </trdgrp>
+  <trd lng="de">arbeitsf&auml;hig</trd>
+  <trd lng="fr">apte au travail</trd>
+  <trd lng="hu">munkak&eacute;pes</trd>
+  <trdgrp lng="ru">
+    <trd>&c_r;&c_a;&c_b;&c_o;&c_t;&c_o;&c_s;&c_p;&c_o;&c_s;&c_o;&c_b;&c_n;&c_y;&c_j;</trd>,
+    <trd>&c_t;&c_r;&c_u;&c_d;&c_o;&c_s;&c_p;&c_o;&c_s;&c_o;&c_b;&c_n;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>pracovit&yacute;</trd>,
+    <trd>robotn&yacute;</trd>
+  </trdgrp>
+  <trd lng="sv">arbetsf&ouml;r</trd>
+</drv>
+
+<drv mrk="labor.0loko">
+  <kap><tld/>loko</kap>
+  <snc mrk="labor.0loko.EKON">
+    <uzo tip="fak">EKON</uzo>
+    <fnt><bib>PIV1</bib></fnt>
+    <dif>
+      Loko, kiu estas indikita en <tld/>kontrakto kaj kie <tld/>isto
+      regule
+      <tld/>as.
+    </dif>
+  </snc>
+  <trd lng="be">&c_m;&c_je;&c_s;&c_c;&c_a; <ind>&c_p;&c_r;&c_a;&c_c;&c_y;</ind></trd>
+  <trd lng="br">lec'h <ind>labour</ind></trd>
+  <trd lng="ca">lloc de <ind>treball</ind></trd>
+  <trdgrp lng="cs">
+    <trd>m&iacute;sto v&yacute;konu pr&aacute;ce</trd>,
+    <trd>pracovi&scaron;t&ecaron;</trd>
+  </trdgrp>
+  <trd lng="de">Arbeitsplatz</trd>
+  <trd lng="en">place of employment</trd>
+  <trd lng="fr">lieu de <ind>travail</ind></trd>
+  <trd lng="hu">munkahely</trd>
+  <trd lng="no">arbeidsplass</trd>
+  <trd lng="ru">&c_r;&c_a;&c_b;&c_o;&c_ch;&c_je;&c_je; &c_m;&c_je;&c_s;&c_t;&c_o;</trd>
+  <trd lng="sk">pracovisko</trd>
+  <trd lng="sv">arbetsplats</trd>
+</drv>
+</art>
+<!--
+$Log: labor.xml,v $
+Revision 1.52  2015/07/04 14:10:17  revo
+Darcy Shen: + trd zh
+
+Revision 1.51  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.50  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.49  2013/12/29 17:10:14  revo
+Jeromo Vasxe: + man~(ist)o
+
+Revision 1.48  2013/10/21 20:10:11  revo
+Sebastian Cyprych: +sen~ulo
+
+Revision 1.47  2013/09/14 16:10:27  revo
+Wolfram Diestel: ILO: ref al lst organizajhoj
+
+Revision 1.46  2012/09/03 00:10:08  revo
+Marc Rausell: + trd ca
+
+Revision 1.45  2011/04/05 22:10:15  revo
+-->
+</vortaro>

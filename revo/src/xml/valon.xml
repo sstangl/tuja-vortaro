@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: valon.xml,v 1.13 2012/08/11 18:10:17 revo Exp $">
+<kap>
+  <rad>valon</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="valon.0o">
+  <kap><tld/>o</kap>
+  <snc>
+    <dif>
+      Homo kun <tld/>a nacieco.
+    </dif>
+  </snc>
+  <trd lng="be">&c_v;&c_a;&c_l;&c_jo;&c_n;</trd>
+  <trd lng="ca">val&oacute;<klr> (subst.)</klr></trd>
+  <trd lng="de">Wallone</trd>
+  <trd lng="en">Walloon</trd>
+  <trd lng="es">val&oacute;n</trd>
+  <trdgrp lng="fa">
+    <trd>&a_w;&a_A;&a_l;&a_damma;&a_n;</trd>,
+    <trd>&a_w;&a_A;&a_l;&a_w;&a_n;</trd>
+  </trdgrp>
+  <trd lng="fr">Wallon</trd>
+  <trdgrp lng="pt">
+   <trd>val&atilde;o</trd> 
+  </trdgrp>
+  <trd lng="hu">vallon</trd>
+  <trd lng="nl">Waal</trd>
+  <trd lng="ru">&c_v;&c_a;&c_l;&c_l;&c_o;&c_n;</trd>
+</drv>
+
+<drv mrk="valon.0a">
+  <kap><tld/>a</kap>
+  <snc>
+    <dif>
+      Rilatanta al <tld/>oj a&ubreve; al ilia nacieco.
+    </dif>
+  </snc>
+  <trd lng="be">&c_v;&c_a;&c_l;&c_jo;&c_n;&c_s;&c_k;&c_ib;</trd>
+  <trd lng="ca">val&oacute;<klr> (adj.)</klr></trd>
+  <trd lng="de">wallonisch</trd>
+  <trd lng="en">Wallonian</trd>
+  <trd lng="fa">&a_w;&a_A;&a_l;&a_w;&a_n;&f_y;</trd>
+  <trd lng="fr">wallon</trd>
+  <trdgrp lng="pt">
+   <trd>val&atilde;o</trd> 
+  </trdgrp>
+  <trd lng="hu">vallon</trd>
+  <trd lng="nl">Waals</trd>
+  <trd lng="ru">&c_v;&c_a;&c_l;&c_l;&c_o;&c_n;&c_s;&c_k;&c_i;&c_j;</trd>
+</drv>
+
+<drv mrk="valon.V0ujo">
+  <kap><tld lit="V"/>ujo</kap>
+  <uzo tip="fak">GEOG</uzo>
+  <snc>
+    <dif>
+      La suda franclingva kaj parte germanlingva regiono de
+      <ref tip="malprt" cel="belg.B0ujo">Belgujo</ref>,
+      konsistanta el la provincoj
+      <ref tip="prt" cel="liegx.L0o.prov">Lie&gcirc;o</ref>,
+      <ref tip="prt" cel="namur.N0o.prov">Namuro</ref>,
+      <ref tip="prt" cel="henegov.H0o">Henegovio</ref>,
+      <ref tip="prt" cel="luksemb.L0o.prov">Luksemburgo</ref> kaj
+      <ref tip="prt" cel="brabant.B0o"><tld lit="V"/>a Brabanto</ref>:
+      <ekz>
+        Jos&eacute; Happart (PS) i&gcirc;is konata en la okdekaj jaroj kiel <tld/>a
+        gvidanto la regiono Voer, grupo de ses flandraj vila&gcirc;etoj kiujn
+        li
+        volis aneksi al <tld lit="V"/>ujo.
+        <fnt><vrk>Flandra Gazetara Elekto 2001</vrk></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <ref tip="sin" cel="valoni.0o">Valonio</ref>
+  <trd lng="be">&c_V;&c_a;&c_l;&c_jo;&c_n;&c_ib;&c_ja;</trd>
+  <trd lng="bg">&c_V;&c_a;&c_l;&c_o;&c_n;&c_i;&c_ja;</trd>
+  <trd lng="ca">Val&ograve;nia</trd>
+  <trd lng="de">Wallonien</trd>
+  <trd lng="cs">Valonsko</trd>
+  <trd lng="en">Wallonia</trd>
+  <trd lng="es">Valonia</trd>
+  <trd lng="fa">&a_w;&a_A;&a_l;&a_w;&a_n;&f_y;&a_A;</trd>
+  <trd lng="fi">Vallonia</trd>
+  <trd lng="fr">Wallonie</trd>
+  <trd lng="hu">Vall&oacute;nia</trd>
+  <trd lng="nl">Walloni&euml;</trd>
+  <trd lng="pl">Walonia</trd>
+  <trdgrp lng="pt">
+   <trd>Val&ocirc;nia</trd> 
+  </trdgrp>
+  <trd lng="ru">&c_V;&c_a;&c_l;&c_l;&c_o;&c_n;&c_i;&c_ja;</trd>
+  <trd lng="sk">Val&oacute;nsko</trd>
+</drv>
+</art>
+<!--
+$Log: valon.xml,v $
+Revision 1.13  2012/08/11 18:10:17  revo
+Marc Rausell: + trd ca
+
+Revision 1.12  2011/02/18 13:10:09  revo
+Luiz Portella: kor. ref k mrk
+
+Revision 1.11  2009/06/16 16:31:31  revo
+Wieland Pusch: +trd bg
+
+Revision 1.10  2009/06/14 16:31:40  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.9  2006/02/01 17:31:56  revo
+Tulio Flores: +trd pt
+
+Revision 1.8  2004/03/19 17:30:57  revo
+Jeromo Vasxe: mrk .. -> .
+
+Revision 1.7  2004/03/02 17:31:16  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.6  2003/10/15 16:31:47  revo
+-->
+</vortaro>

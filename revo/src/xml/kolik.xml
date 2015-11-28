@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: kolik.xml,v 1.15 2015/07/04 08:37:37 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>kolik</rad>/o
+</kap>
+
+<drv mrk="kolik.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">MED</uzo>
+  <snc>
+    <dif>
+      Intesta doloro.
+    </dif>
+    <trdgrp lng="en">
+      <trd>colic</trd>,
+      <trd>gripes</trd>,
+      <trd>intestinal <klr>cramps</klr></trd>
+    </trdgrp>
+    <trd lng="ru">&c_r;&c_je;&c_z;&c_mol;</trd>
+  </snc>
+  <snc>
+    <dif>
+      Interna spasma doloro:
+      <ekz>
+        hepata, rena <tld/>o.
+      </ekz>
+    </dif>
+  </snc>
+  <ref tip="lst" cel="san.mal0o.MED" lst="voko:malsanoj">malsano</ref>
+  <trdgrp lng="be">
+    <trd>&c_k;&c_o;&c_l;&c_ib;&c_k;&c_a;</trd>,
+    <trd>&c_r;&c_e;&c_z;&c_mol;</trd>,
+    <trd>&c_r;&c_a;&c_z;&c_a;&c_ch;&c_k;&c_a;</trd>
+  </trdgrp>
+  <trd lng="ca">c&ograve;lic</trd>
+  <trd lng="de">Kolik</trd>
+  <trd lng="es">c&oacute;lico</trd>
+  <trd lng="fr">colique<klr tip="ind"> (subst.)</klr></trd>
+  <trd lng="id">kolik</trd>
+  <trd lng="nl">koliek</trd>
+  <trd lng="ru">&c_k;&c_o;&c_l;&c_i;&c_k;&c_a;</trd>
+  <trd lng="sk">kolika</trd>
+  <trd lng="cs">kolika <klr>(záchvat)</klr></trd>
+</drv>
+</art>
+<!--
+$Log: kolik.xml,v $
+Revision 1.15  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.14  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.13  2014/11/18 20:10:38  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.12  2013/10/09 19:11:20  revo
+Wolfram Diestel: ref al lst malsanoj
+
+Revision 1.11  2007/07/22 16:30:45  revo
+Wieland Pusch: +trd de
+
+Revision 1.10  2005/04/07 16:33:03  revo
+Raul Salinas Monteagudo: +trd ca,es
+
+Revision 1.9  2004/12/26 17:34:24  revo
+Marc Bavant: +trd fr
+
+Revision 1.8 2004/11/26 17:31:30 revo
+Dmitri Gabinski: +trd be
+
+Revision 1.7 2001/11/04 19:13:33 revo
+Paul Peeraerts: ald trd nl
+
+Revision 1.6 2001/10/03 18:13:46 revo
+-->
+</vortaro>

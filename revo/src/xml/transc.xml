@@ -1,0 +1,179 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: transc.xml,v 1.25 2015/07/27 22:10:16 revo Exp $">
+<kap>
+  <rad>transcend</rad>/a <fnt><bib>PV</bib></fnt> <fnt>Z</fnt>
+</kap>
+
+<drv mrk="transc.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="transc.0a.FIL">
+    <uzo tip="fak">FIL</uzo>
+    <dif>
+      Karakterizas, rilate al iu estulo a&ubreve; estularo &ccirc;ion, kio estas
+      klarigebla nur per la efiko de ekstera, supera agado, sekve &ccirc;ion,
+      kio estas trans &ccirc;ia ebla sperto a&ubreve; kono.
+    </dif>
+    <ref tip="ant" cel="imanen.0a">imanenta.</ref>
+    <trd lng="be">&c_t;&c_r;&c_a;&c_n;&c_s;&c_e;&c_c;&c_e;&c_n;&c_t;&c_n;&c_y;</trd>
+    <trd lng="de">transzendent</trd>
+    <trdgrp lng="hu">
+      <trd>transzcendens</trd>,
+      <trd>&eacute;rz&eacute;kfeletti</trd>
+    </trdgrp>
+    <trd lng="nl">transcendent</trd>
+    <trd lng="pt">transcendental</trd>
+    <trd lng="ru">&c_t;&c_r;&c_a;&c_n;&c_s;&c_c;&c_je;&c_d;&c_je;&c_n;&c_t;&c_a;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
+  </snc>
+  <snc mrk="transc.0a.FIG">
+    <uzo tip="stl">EVI</uzo>
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Morale a&ubreve; intelekte eminentega.
+    </dif>
+	<rim>
+	  Neniam mi renkontis &ccirc;i tiun sencon &ccirc;e la esperanta vorto.  La&ubreve;
+	  mi, &gcirc;i ne ekzistas en la reala Esperanto; kaj tutcerte
+	  multaj &gcirc;in miskomprenus se &gcirc;i estus tiel uzita.  Por ruso la
+	  figura senco estus
+	  <ctl>nekomprenebla, kiun ne eblas percepti a&ubreve; kompreni
+	    per ordinara rezonado</ctl>.
+	  <aut>Sergio Pokrovskij</aut>
+	</rim>
+    <trdgrp lng="hu">
+      <trd>fels&odblac;bbrend&udblac;</trd>,
+      <trd>magasabbrend&udblac;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="transc.0a.MAT">
+	<uzo tip="fak">MAT</uzo>
+	<subsnc mrk="transc.0a.rilate_subkorpon">
+	  <fnt><bib>EKV</bib><lok>&para;14</lok></fnt>
+	  <dif>
+	    <klr>(p.p. elemento de <ref cel="korp.0o.MAT">korpo</ref> 
+	      <frm><g>K'</g></frm>, super subkorpo <frm><g>K</g></frm>)</klr>
+	    Estanta <ref cel="radik.0o.polinomo">radiko</ref> de neniu polinomo
+	    super <frm><g>K</g></frm>.
+	  </dif>
+	  <ref tip="ant" cel="algebr.0a.rilate_subkorpon">algebra.</ref>
+	</subsnc>
+	<subsnc mrk="transc.0a.nombro">
+	  <fnt><bib>PIV1</bib></fnt>
+	  <dif>
+	    <klr>(p.p. <ref cel="reel.0a">reela</ref> a&ubreve;
+	      <ref cel="komple.0a.MAT">kompleksa</ref>
+	      <ref cel="nombr.0o.MAT">nombro</ref>)</klr>
+	    <tld lit="T"/>a <sncref ref="transc.0a.rilate_subkorpon"/> super
+	    la korpo de racionaloj:
+	    <ekz>
+	      <frm>&pi;</frm> kaj <frm><k>e</k></frm> estas la plej famaj
+	      <tld/>aj nombroj, sed oni ankora&ubreve; ne pruvis, 
+	      &ccirc;u <frm><k>e</k>+&pi;</frm> estas <tld/>a.
+	    </ekz>
+	  </dif>
+	  <ref tip="ant" cel="algebr.0a.nombro">algebra.</ref>
+	</subsnc>
+	<subsnc mrk="transc.0a.diversaj">
+	  <refgrp tip="vid">
+	    transcenda <ref cel="ekvaci.0o">ekvacio</ref>,
+	    transcenda <ref cel="kurb.0o.MAT">kurbo</ref>.
+	  </refgrp>
+	</subsnc>
+	<rim>
+	  Bricard <fnt><bib>MatTerm</bib><lok>p. 8,31</lok></fnt>
+	  konas la nocion, sed sub formo <ctl>transcendenta</ctl>,
+	  trovi&gcirc;anta anka&ubreve; en
+	  <fnt><bib>MatStokTerm</bib><lok>p. 53</lok></fnt>.
+	</rim>
+	<trd lng="be">&c_t;&c_r;&c_a;&c_n;&c_s;&c_e;&c_c;&c_e;&c_n;&c_t;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>
+	<trd lng="de">transzendent</trd>
+	<trd lng="en">transcendental</trd>
+    <trd lng="hu">transzcendens</trd>	
+    <trd lng="pl">przest&eogonek;pny</trd>
+    <trd lng="ru">&c_t;&c_r;&c_a;&c_n;&c_s;&c_c;&c_je;&c_n;&c_d;&c_je;&c_n;&c_t;&c_n;&c_y;&c_j;</trd>
+  </snc>
+  <trdgrp lng="cs">
+  <trd>nadsmysln&yacute;</trd>,
+  <trd>transcendent&aacute;ln&iacute; <klr>(pojem)</klr></trd>
+  </trdgrp>
+  <trd lng="fr">transcendant</trd>
+  <trd lng="sk">nadzmyslov&yacute;</trd>
+</drv>
+
+<drv mrk="transc.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      Levi&gcirc;i super iu regiono de la konado a&ubreve; pensado kaj penetri en
+      superan regionon.
+    </dif>
+  </snc>
+  <rim>
+    Mi dubas ke tiu verbo ekzistas en Esperanto.  Krome, la
+    &ccirc;i-supra difino malkoheras kun la adjektivkaraktera difino de
+    la radiko. &Gcirc;i &scirc;ajnas al mi evitinda franca&jcirc;o.
+    <aut>Sergio Pokrovskij</aut>
+  </rim>
+  <trd lng="cs">p&rcaron;ekra&ccaron;ovat rozum.ch&aacute;p&aacute;n&iacute;</trd>
+  <trd lng="fr">transcender</trd>
+  <trdgrp lng="hu">
+    <trd>transzcend&aacute;l</trd>,
+    <trd>t&uacute;lmutat</trd>
+  </trdgrp>
+  <trd lng="sk">prekra&ccaron;ova&tcaron; rozumov&eacute; ch&aacute;panie</trd>
+</drv>
+
+<drv mrk="transc.0ismo">
+  <kap><tld/>ismo</kap>
+  <snc mrk="transc.0ismo.FIL_usona">
+    <uzo tip="fak">FIL</uzo>
+    <dif>
+      Filozofia, religia kaj beletra movado usona el la 19a
+      jarcento, kiu emfazis sinplibonigon per natura vivo:
+      <ekz>
+        ili decidis pensi, ekzisti malsame kaj distinge de tiu
+        Ameriko <klr>...</klr> kiu forgesis la silenton kaj la
+        lantecon de la aferoj; oni nomis ilin adeptoj de la
+        <tld/>ismo
+        <fnt>
+          <aut>M. Ahado</aut>,
+          <vrk><url ref="http://www.ipernity.com/blog/fajro38/485531">
+          &Ubreve;alden a&ubreve; la vivo en arbaro</url></vrk>,
+          <lok>2013-05-20</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="en">transcendentalism</trd>
+  <trd lng="fr">transcendantalisme</trd>
+</drv>
+</art>
+<!--
+$Log: transc.xml,v $
+Revision 1.25  2015/07/27 22:10:16  revo
+Jeromo Vasxe: + ~ismo
+
+Revision 1.24  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.23  2015/06/29 16:40:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.22  2006/02/16 17:33:36  revo
+Tulio Flores: +trd pt
+
+Revision 1.21  2005/11/16 11:23:16  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.20  2004/03/05 17:31:19  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.19  2003/04/01 16:30:40  revo
+Sergio Pokrovskij: precizigo en rim
+
+Revision 1.18  2003/03/31 16:31:54  revo
+-->
+</vortaro>

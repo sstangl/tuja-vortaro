@@ -1,0 +1,125 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+  <art mrk="$Id: tagxik.xml,v 1.16 2014/06/06 15:10:26 revo Exp $">
+    <kap><rad>ta&gcirc;ik</rad>/o</kap>
+
+    <drv mrk="tagxik.0o">
+      <kap><tld/>o</kap>
+      <snc>
+        <dif>
+          Ano de la &ccirc;efa etno de <tld lit="T"/>ujo, parolanta
+          lingvon
+          parencan al la persa:
+          <ekz>
+            nia centro anka&ubreve; havas problemojn, ekzemple: mankas
+            informlibroj kaj vortaroj por <tld/>oj
+            <fnt>
+              <aut>Saidnabi Noebov</aut>:
+              <vrk>Esperanto-Centro en Ta&gcirc;ikistano</vrk>.
+              <bib>LOdE</bib>, <lok>2003. N-ro 1(99)</lok>
+            </fnt>;
+          </ekz><ekz>
+            Natalija Kasymova estas <ind><tld/>ino</ind> kiu kantas
+            &ccirc;i tie 
+            kanzonojn de diversaj stiloj kaj landoj
+            <fnt>
+              <lok><url
+              ref="http://esperanto-panorama.net/muziko/kasymova.htm"
+                  >Kantas Natalija Kasymova</url></lok>
+            </fnt>
+            <trd lng="be">&c_t;&c_a;&c_d;&c_zh;&c_y;&c_ch;&c_k;&c_a;</trd>
+            <trd
+            lng="ru">&c_t;&c_a;&c_d;&c_zh;&c_i;&c_ch;&c_k;&c_a;</trd>
+          </ekz>
+        </dif>
+        <trd lng="be">&c_t;&c_a;&c_d;&c_zh;&c_y;&c_k;</trd>
+        <trd lng="bg">&c_T;&c_a;&c_d;&c_zh;&c_i;&c_k;</trd>
+        <trd lng="ca">tadjik <klr>(subst.)</klr></trd>
+        <trdgrp lng="de">
+          <trd>Tadschike</trd>,
+          <trd>Tajik</trd>
+        </trdgrp>
+        <trd lng="en">Tajik</trd>
+        <trd lng="fr">Tadjik</trd>
+        <trd lng="hu">t&aacute;dzsik</trd>
+        <trd lng="id">Tajik</trd>
+        <trd lng="pl">Tad&zdot;yk</trd>
+        <trdgrp lng="pt">
+          <trd>tadjique</trd>,
+        </trdgrp>
+        <trd lng="ru">&c_t;&c_a;&c_d;&c_zh;&c_i;&c_k;</trd>
+      </snc>
+    </drv>
+
+    <drv mrk="tagxik.T0ujo">
+      <kap><tld lit="T"/>ujo</kap>
+      <snc mrk="tagxik.T0ujo.GEO">
+        <uzo tip="fak">GEOG</uzo>
+        <uzo tip="fak">POL</uzo>
+        <mlg>TJ</mlg>
+        <dif>
+          &Scirc;tato en la centra Azio kun &ccirc;efurbo
+          Du&scirc;anbeo.
+          Oficiala nomo: <em>Respubliko Ta&gcirc;ikujo</em>.
+          &Gcirc;is 1991
+          <ref tip="vid" cel="sovet.S0unio">Sovetunia</ref> respubliko.
+          &Gcirc;i limas kun <ref tip="vid"
+          cel="afgan.A0ujo.GEOG">Afganujo</ref>,
+          <ref tip="vid" cel="cxin.CX0ujo">&Ccirc;inujo</ref>,
+          <ref tip="vid" cel="kirgiz.K0ujo.GEOG">Kirgizujo</ref>
+          kaj <ref tip="vid" cel="uzbek.U0ujo">Uzbekujo</ref>.
+        </dif>
+        <ref tip="sin" cel="tagxiki.T0o.GEOG">Ta&gcirc;ikio</ref>
+        <trd lng="be">&c_T;&c_a;&c_d;&c_zh;&c_y;&c_k;&c_ib;&c_s;&c_t;&c_a;&c_n;</trd>
+        <trd lng="bg">&c_T;&c_a;&c_d;&c_zh;&c_i;&c_k;&c_i;&c_s;&c_t;&c_a;&c_n;</trd>
+        <trdgrp lng="ca">
+          <trd>el Tadjikistan</trd>,
+          <trd>Rep&uacute;blica del Tadjikistan</trd>
+        </trdgrp>
+        <trd lng="de">Tadschikistan</trd>
+        <trd lng="en">Tajikistan</trd>
+        <trdgrp lng="fr">
+          <trd>Tadjikistan</trd>,
+          <trd>R&eacute;publique du Tadjikistan</trd>
+        </trdgrp>
+        <trd lng="hu">T&aacute;dzsikiszt&aacute;n</trd>
+        <trd lng="id">Tajikistan</trd>
+        <trdgrp lng="pl">
+          <trd>Tad&zdot;ykistan</trd>,
+          <trd>Republika <ind>Tad&zdot;ykistanu</ind></trd>
+        </trdgrp>
+        <trd lng="pt">Tajiquist&atilde;o</trd>
+        <trd lng="ru">&c_T;&c_a;&c_d;&c_zh;&c_i;&c_k;&c_i;&c_s;&c_t;&c_a;&c_n;</trd>
+      </snc>
+    </drv>
+
+  </art>
+
+<!--
+$Log: tagxik.xml,v $
+Revision 1.16  2014/06/06 15:10:26  revo
+Damien Brucker: +trd fr
+
+Revision 1.15  2014/06/04 04:10:26  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.14  2013/03/21 20:10:34  revo
+Dmitri Gabinski: redakto: +trd be
+
+Revision 1.13  2013/02/11 05:10:16  revo
+Evandro Avellar: Tr+ pt
+
+Revision 1.12  2012/01/03 08:10:27  revo
+Marc Rausell: +trd ca
+
+Revision 1.11  2011/02/17 17:10:30  revo
+Luiz Portella: kor. ref k mrk
+
+Revision 1.10  2011/02/14 14:10:41  revo
+Luiz Portella: kor. ref k mrk
+
+Revision 1.9  2009/08/08 16:34:05  revo
+-->
+</vortaro>

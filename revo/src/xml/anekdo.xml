@@ -1,0 +1,129 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: anekdo.xml,v 1.22 2015/07/04 08:37:30 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>anekdot</rad>/o
+</kap>
+<drv mrk="anekdo.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="anekdo.0o.BELE">
+    <dif>
+      Mallonga, sprita <ref tip="super" cel="rakont.0o">rakonto</ref>
+      pri
+      kurioza okaza&jcirc;o:
+      <ekz>
+        mia talento sufi&ccirc;as por amuzi la klubanojn per kantoj kaj
+        <tld/>oj
+        kaj mimiko
+        <fnt><bib>InfanTorent2</bib>, <lok>dua parto, &ccirc;apitro
+        3a</lok></fnt>.
+      </ekz>
+      <ekz>
+        anta&ubreve;e tiuj personoj estis mokete akceptataj, ili estis objekto
+        de
+        <tld/>oj, &scirc;ercoj kaj ridindigoj
+        <fnt>
+        <aut>Anatolo Gon&ccirc;arov</aut>,
+        <vrk>Via sano en viaj manoj</vrk>,
+        <bib>Monato</bib>,
+        <lok>jaro 2002a, numero 3a, p. 17-19a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_a;&c_n;&c_e;&c_k;&c_d;&c_o;&c_t;</trd>
+  <trd lng="cs">anekdota</trd>
+  <trd lng="de">Anekdote</trd>
+  <trd lng="en">anecdote</trd>
+  <trd lng="es">an&eacute;cdota</trd>
+  <trdgrp lng="fr">
+    <trd>anecdote</trd>,
+    <trd>histoire dr&ocirc;le</trd>
+  </trdgrp>
+  <trd lng="hu">anekdota</trd>
+  <trd lng="it">aneddoto</trd>
+  <trd lng="nl">anekdote</trd>
+  <trd lng="pl">anegdota</trd>
+  <trd lng="ru">&c_a;&c_n;&c_je;&c_k;&c_d;&c_o;&c_t;</trd>
+  <trd lng="sk">anekdota</trd>
+  <trd lng="sv">anekdot</trd>
+</drv>
+
+<drv mrk="anekdo.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="anekdo.0a.BELA">
+    <uzo tip="klr">(pri rakonto, okaza&jcirc;o, aserto...)</uzo>
+    <dif>
+      Kurioza, amuza, sed pro sia malgrando eventuale ne signifa:
+      <ekz>
+        tia rapidpa&scirc;eco anka&ubreve; faras la intrigon iom <tld/>a
+        <fnt><aut>A. Giridhar Rao</aut>, <vrk>La formi&gcirc;o de
+        Mahatmo</vrk>,
+        <bib>Monato</bib>, <lok>jaro 1997a, numero 7a, p.
+        26a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_a;&c_n;&c_e;&c_k;&c_d;&c_a;&c_t;&c_y;&c_ch;&c_n;&c_y;</trd>
+  <trd lng="fr">anecdotique</trd>
+  <trd lng="pl">anegdotyczny</trd>
+  <trd lng="ru">&c_a;&c_n;&c_je;&c_k;&c_d;&c_o;&c_t;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j;</trd>
+</drv>
+
+<drv mrk="anekdo.0aro">
+  <kap><tld/>aro</kap>
+  <snc mrk="anekdo.0aro.BELE">
+    <dif>
+      <ref tip="super" cel="kolekt.0o.libr">Kolekto</ref> de <tld/>oj:
+      <ekz>
+        folklora <tld/>aro pri du samvila&gcirc;anoj, kiuj samtempe amikas kaj
+        malamikas
+        <fnt><aut>M. Evlogieva</aut>, <vrk>Re: Bulgara proverbo</vrk>,
+        <lok>soc.culture.esperanto, 1998-02-19</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">anekdotář</trd>
+  <trd lng="fr">recueil d'<ind>anecdotes</ind></trd>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_b;&c_o;&c_r;&c_n;&c_i;&c_k; &c_a;&c_n;&c_je;&c_k;&c_d;&c_o;&c_t;&c_o;&c_v;</trd>,
+    <trd>&c_s;&c_je;&c_r;&c_i;&c_ja; &c_a;&c_n;&c_je;&c_k;&c_d;&c_o;&c_t;&c_o;&c_v;</trd>
+  </trdgrp>
+  <trd lng="sk">anekdotár</trd>
+</drv>
+</art>
+<!--
+$Log: anekdo.xml,v $
+Revision 1.22  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.21  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.20  2013/04/22 06:10:14  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.19  2005/06/09 17:40:57  revo
+Yury Finkel: +trd ru
+
+Revision 1.18  2005/03/19 17:32:31  revo
+Jeromo Vasxe: + ~aro
+
+Revision 1.17 2003/11/09 17:31:17 revo
+Dmitri Gabinski: +trd be
+
+Revision 1.16 2003/02/19 18:42:10 revo
+Ulrich Fellmann: + 1 trd = de
+
+Revision 1.15 2002/10/16 16:31:43 revo
+jxeromo vasxe: + ~a, + ekz
+
+Revision 1.14 2002/10/08 17:57:15 revo
+Christopher Zervic: + ang
+
+Revision 1.13 2002/09/07 17:41:05 revo
+-->
+</vortaro>

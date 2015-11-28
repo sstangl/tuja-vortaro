@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: bateri.xml,v 1.21 2015/07/04 08:37:31 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>bateri</rad>/o
+</kap>
+<drv mrk="bateri.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="bateri.0o.MIL">
+    <uzo tip="fak">MIL</uzo>
+    <dif>
+      Artileria grupo kun sia ilaro, konsistanta el kelkaj kanonoj:
+      <ekz>
+        <uzo tip="stl">FIG</uzo>nenia lukso, krom tuta <tld/>o da
+        komputiloj &ndash; liaj fenestroj al la mondo<fnt><aut>Anne
+        Tilmont</aut>: <vrk>Arthur C. Clarke, kosmopolita civitano kun
+        okulo al la universo</vrk>, <bib>Monato</bib><lok>jaro 1998a,
+        numero 4a, p. 9a</lok></fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+      <trd>Batterie</trd>,
+      <trd>Gesch&uuml;tzbatterie</trd>
+    </trdgrp>
+    <trd lng="en">battery</trd>
+    <trdgrp lng="fa">
+      <trd>&a_t;&a_w;&f_p;&a_kh;&a_A;&a_n;&a_h;</trd>,
+      <trd>&a_A_madda;&a_t;&a_sh;&a_b;&a_A;&a_r;</trd>
+    </trdgrp>
+    <trd lng="fr">batterie<klr tip="ind"> (artillerie)</klr></trd>
+    <trd lng="hu">&uuml;teg</trd>
+    <trd lng="nl">batterij</trd>
+    <trd lng="pl">bateria</trd>
+  </snc>
+  <snc mrk="bateri.0o.ELE">
+    <uzo tip="fak">ELE</uzo>
+    <dif>
+      Grupo da elektraj <ref tip="prt"
+      cel="genera2.0o">generatoroj</ref>:
+      <ekz>
+        fiksu &gcirc;in al la <tld/>o de via di&gcirc;ita
+        telefonaparato<fnt><aut>-</aut>: <vrk>Nova! Signal-fortigilo de
+        Big Planet</vrk>, <bib>Monato</bib><lok>jaro 2002a, numero 5a,
+        p.
+        32a</lok></fnt>.
+      </ekz>
+    </dif>
+    <rim>
+      Pilojn kaj akumulatorojn oni grupigas serie, por ricevi pli
+      grandan
+      elektromovan forton, a&ubreve; paralele, por ricevi pli intensan
+      kurenton.
+    </rim>
+    <adm>
+      Kontroli la tradukojn post vastigo de la difino. <aut>MB</aut>
+    </adm>
+    <refgrp tip="vid">
+      <ref cel="akumul1.0o">akumulatoro</ref>,
+      <ref cel="konden.0o">kondensatoro</ref>,
+      <ref cel="pil.0o">pilo</ref>.
+    </refgrp>
+    <trdgrp lng="de">
+      <trd>Batterie</trd>,
+      <trd>Akku</trd>
+    </trdgrp>
+    <trd lng="en">battery</trd>
+    <trd lng="fa">&a_b;&a_A;&a_t;&a_r;&f_y;</trd>
+    <trd lng="fr">batterie<klr tip="ind"> (piles, accus,...)</klr></trd>
+    <trd lng="hu">telep<klr tip="ind"> (elektromos)</klr></trd>
+    <trd lng="nl">batterij</trd>
+    <trd lng="pl">bateria</trd>
+  </snc>
+  <trd lng="be">&c_b;&c_a;&c_t;&c_a;&c_r;&c_e;&c_ja;</trd>
+  <trd lng="ca">bateria</trd>
+  <trd lng="cs">baterie</trd>
+  <trd lng="es">bater&iacute;a</trd>
+  <trd lng="it">batteria</trd>
+  <trd lng="ru">&c_b;&c_a;&c_t;&c_a;&c_r;&c_je;&c_ja;</trd>
+  <trd lng="sk">bat&eacute;ria</trd>
+</drv>
+</art>
+<!--
+$Log: bateri.xml,v $
+Revision 1.21  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2012/07/15 10:10:39  revo
+Marc Rausell: + trd ca
+
+Revision 1.19  2010/06/03 16:30:34  revo
+Antonio Codazzi: +trd it
+
+Revision 1.18  2009/08/18 19:18:54  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.17  2009/03/04 17:30:59  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.16  2003/11/26 17:31:20  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.15  2002/11/10 11:40:40  revo
+Christopher Zervic: + ang
+
+Revision 1.14  2002/10/10 16:47:09  revo
+Jeromo Vasxe: + ekz
+
+Revision 1.13 2002/09/09 19:52:34 revo
+-->
+</vortaro>

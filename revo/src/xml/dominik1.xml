@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: dominik1.xml,v 1.6 2014/06/10 04:10:36 revo Exp $">
+<kap>
+  <rad>dominik</rad>/o
+</kap>
+
+<drv mrk="dominik1.0o">
+  <kap>
+    <tld lit="D"/>o
+    <fnt>
+      <vrk>Oficiala Informo de AdE</vrk>,
+      <lok>numero 12</lok>
+    </fnt>
+  </kap>
+  <snc mrk="dominik1.0o.GEOG">
+    <uzo tip="fak">GEOG</uzo>
+    <uzo tip="fak">POL</uzo>
+    <mlg>DM</mlg>
+    <dif>
+      <ref tip="lst" cel="sxtat.0o" lst="voko:&scirc;tatoj">Lando</ref> 
+      en la Kariba Maro en la samnoma insulo kun &ccirc;efurbo Roseo,
+      teritorio de Komunumo Dominiko.
+    </dif>
+    <trdgrp lng="pl">
+      <trd>Dominika</trd>,
+      <trd>Wsp&oacute;lnota <ind>Dominiki</ind></trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="dominik1.0o.insulo">
+    <uzo tip="fak">GEOG</uzo>
+    <dif>
+      <ref tip="lst" cel="insul.0o" lst="voko:insuloj">Insulo</ref>
+      en la <ref tip="malprt" cel="mar.0o">Kariba Maro</ref>.
+    </dif>
+    <trd lng="pl">Dominika</trd>
+  </snc>
+  <trd lng="bg">&c_D;&c_o;&c_m;&c_i;&c_n;&c_i;&c_k;&c_a;</trd>
+  <trd lng="de">Dominica</trd>
+  <trd lng="en">Dominica</trd>
+  <trd lng="fr">Dominique</trd>
+</drv>
+<trd lng="id">Dominika</trd>
+<trd lng="pt">Dominica</trd>
+
+</art>
+
+<!--
+$Log: dominik1.xml,v $
+Revision 1.6  2014/06/10 04:10:36  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.5  2014/02/07 21:10:27  revo
+Damien Brucker: -eraro cxe ref
+
+Revision 1.4  2013/09/14 13:10:28  revo
+Wolfram Diestel: ref al lst insuloj, sxtatoj
+
+Revision 1.3  2013/02/10 14:10:18  revo
+Evandro Avellar: Traduko al Pt
+
+Revision 1.2  2009/06/01 16:31:22  revo
+Wieland Pusch: +trd bg+de+en
+
+Revision 1.1  2009/05/20 16:31:03  revo
+Sebastian Cyprych: nova artikolo
+
+-->
+</vortaro>

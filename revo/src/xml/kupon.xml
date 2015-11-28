@@ -1,0 +1,176 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: kupon.xml,v 1.18 2015/07/04 08:37:38 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>kupon</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="kupon.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="kupon.0o.KOMUNE">
+    <dif>
+      <ref tip="super" cel="bilet.0o.KOMUNE">Bileto</ref> 
+      detondita a&ubreve; de&scirc;irita de registro a&ubreve; de pli granda folio.
+    </dif>
+    <subsnc mrk="kupon.0o.EKON">
+      <uzo tip="fak">EKON</uzo>
+      <dif>
+        <ref tip="super" cel="bilet.0o.KOMUNE">Bileto</ref> detondita
+        de akcio a&ubreve; obligacio, rajtiganta la
+        havanton ricevi difinitan dividendon a&ubreve; procenton.
+      </dif>
+      <trdgrp lng="de">
+        <trd>Dividendenschein</trd>,
+        <trd>Zinsschein</trd>,
+        <trd>Coupon</trd>,
+        <trd>Kupon</trd>
+      </trdgrp>
+      <trd lng="en">coupon</trd>
+      <trdgrp lng="hu">
+        <trd>osztal&eacute;kszelv&eacute;ny</trd>,
+        <trd>kamatszelv&eacute;ny</trd>,
+        <trd>szelv&eacute;ny</trd>,
+        <trd>kupon</trd>
+      </trdgrp>
+      <trdgrp lng="it">
+        <trd>buono<klr> (econ.)</klr></trd>,
+        <trd>cedola<klr> (econ.)</klr></trd>
+      </trdgrp>
+      <trd lng="nl">coupon</trd>
+      <trd lng="pl">kupon</trd>
+      <trdgrp lng="ru">
+        <trd>&c_k;&c_u;&c_p;&c_o;&c_n;</trd>,
+        <trd>&c_o;&c_t;&c_r;&c_je;&c_z;&c_n;&c_o;&c_j; &c_t;&c_a;&c_l;&c_o;&c_n;</trd>
+      </trdgrp>
+    </subsnc>
+    <subsnc mrk="kupon.0o.TEA">
+      <uzo tip="fak">TEA</uzo>
+      <dif>
+        <ref tip="super" cel="bilet.0o.KOMUNE">Bileto</ref> detondita 
+        de registro, rajtiganta la havanton okupi lokon en teatro ktp.
+      </dif>
+      <trdgrp lng="de">
+        <trd>Abschnitt</trd>,
+        <trd>Kontrollabschnitt</trd>,
+        <trd>Marke</trd>
+      </trdgrp>
+      <trd lng="en">stub</trd>
+      <trd lng="hu">jegy</trd>
+      <trdgrp lng="it">
+        <trd>tagliando</trd>,
+        <trd>cedola</trd>,
+        <trd>figlia<klr> (tagliando)</klr></trd>,
+        <trd>talloncino<klr> (tagliando)</klr></trd>
+      </trdgrp>
+      <trd lng="nl">kaartje</trd>
+      <trd lng="pl">odcinek</trd>
+      <trd lng="ru">&c_k;&c_o;&c_n;&c_t;&c_r;&c_o;&c_l;&c_mol; <klr>(&c_t;&c_je;&c_a;&c_t;&c_r;&c_a;&c_l;&c_mol;&c_n;&c_o;&c_g;&c_o;
+      &c_b;&c_i;&c_l;&c_je;&c_t;&c_a; &c_i;
+      &c_t;.&c_p;.)</klr></trd>
+    </subsnc>
+    <subsnc mrk="kupon.0o.MIL">
+    <uzo tip="fak">MIL</uzo>
+    <dif>
+       <ref tip="super" cel="bilet.0o.KOMUNE">Bileto</ref> dum- a&ubreve; 
+       post-milite rajtiganta la havanton ricevi a&ubreve; 
+       a&ccirc;eti difinitan nutra&jcirc;oporcion, vesta&jcirc;ojn, k.s.:
+       <ekz>
+          <ind>nutra&jcirc;<tld/>o</ind>j anka&ubreve; i&gcirc;as pli kaj pli
+          senvaloraj, &ccirc;ar sur
+          ili indikitaj nutra&jcirc;oj ne trovi&gcirc;as en vendejoj
+           <fnt><aut>Stefan Maul</aut>,
+           <vrk>El verva vivo jurnalista</vrk>, <lok>p. 39</lok></fnt>.
+           <trd lng="nl">voedselcoupon</trd>
+        </ekz>
+        </dif>
+        <trdgrp lng="it">
+        <trd>bollino<klr> (buono per generi alimentari)</klr></trd>,
+        <trd>tessera<klr> (per alimenti)</klr></trd>,
+        <trd>cedola</trd>,
+        <trd>buono<klr> pasto</klr></trd>
+        </trdgrp>
+        <trd lng="pl">kartki</trd>
+        <trd lng="nl">coupon</trd>
+        </subsnc>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>kupón</trd>,
+    <trd>ústřižek</trd>
+  </trdgrp>
+  <trd lng="fr">coupon</trd>
+  <trd lng="sk">ústrižok</trd>
+</drv>
+
+<drv mrk="kupon.internaciarespond0o">
+  <kap>internacia respond<tld/>o</kap>
+  <snc mrk="kupon.internaciarespond0o.POSX">
+    <uzo tip="fak">POSX</uzo>
+    <dif>
+      En &ccirc;iuj landoj de la Universala Po&scirc;ta Unui&gcirc;o inter&scirc;an&gcirc;ebla
+      <ref tip="super" cel="bilet.0o.KOMUNE">bileto</ref>,
+      kiu tial povas servi kiel internacia pagrimedo.
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>mezinárodní odpovědka</trd>,
+    <trd>mezinárodní odpovědní kupon <klr>(poštovní)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>international reply coupon</trd>,
+    <trd>IRC</trd>
+  </trdgrp>
+  <trd lng="es">cup&oacute;n de respuesta internacional</trd>
+  <trd lng="fr">coupon-r&eacute;ponse international</trd>
+  <trdgrp lng="hu">
+    <trd>v&aacute;laszd&iacute;jszelv&eacute;ny</trd>,
+    <trd>nemzetk&ouml;zi <ind>v&aacute;laszkupon</ind></trd>,
+    <trd>kupon</trd>
+  </trdgrp>
+  <trdgrp lng="it">
+    <trd>buono di risposta internazionale</trd>,
+    <trd>coupon<klr> (poste)</klr></trd>
+    <trd>CRI<klr> (poste)</klr></trd>
+    <trd>IRC<klr> (poste)</klr></trd>
+  </trdgrp>
+  <trd lng="nl">internationale antwoordcoupon</trd>
+  <trdgrp lng="pl">
+    <trd>mi&eogonek;dzynarodowy <ind>kupon</ind> na odpowied&zacute;</trd>,
+    <trd>kupon pocztowy</trd>
+  </trdgrp>
+  <trd lng="sk">medzinárodný poštový kupón</trd>
+</drv>
+</art>
+<!--
+$Log: kupon.xml,v $
+Revision 1.18  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.16  2013/04/16 06:10:09  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.15  2010/06/17 16:31:07  revo
+Antonio Codazzi: +trd it
+
+Revision 1.14  2009/10/03 16:30:43  revo
+Paul Peeraerts: +nl +subsnc 3 +adapto de dif kiu ne kongruis kun subsnc
+1
+
+Revision 1.13  2008/04/10 19:55:25  revo
+Jeromo Vasxe: snc/subsnc + mrk + trd fr
+
+Revision 1.12 2004/03/31 16:31:42 revo
+Jozefo Horvath: +trd hu
+
+Revision 1.11 2003/09/22 16:30:34 revo
+Philippe Combot: + internacia respondk-o
+
+Revision 1.10 2002/03/30 19:12:48 revo
+Ulrich Fellmann: + 7 germ trdj + 1x uzo fak EKON
+
+-->
+</vortaro>

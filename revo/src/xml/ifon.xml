@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: ifon.xml,v 1.3 2014/10/28 04:11:12 revo Exp $">
+<kap>
+    <rad>iFon</rad>/o <fnt><bib>Viki</bib></fnt>
+</kap>
+<drv mrk="ifon.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="ifon.0o.SNC">
+    <uzo tip="fak">TEL</uzo>
+    <uzo tip="fak">KOMP</uzo>    
+    <dif>
+      Komercnomo por <ref tip="dif"
+      cel="komput.posx0ilo">po&scirc;komputilo</ref> fabrikita
+      de la firmao Apple, kiu kombinas iPod-on,
+      <ref tip="dif" cel="telefo.posx0o">po&scirc;telefonon</ref> kaj personan
+      komputilon.
+    </dif>
+  </snc>
+  <trd lng="en">iPhone</trd>
+  <trd lng="fr">iPhone</trd>
+  <trd lng="id">iPhone</trd>
+</drv>
+</art>
+
+<!--
+$Log: ifon.xml,v $
+Revision 1.3  2014/10/28 04:11:12  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.2  2014/03/21 14:10:21  revo
+Damien Brucker: +ref
+
+Revision 1.1  2014/03/21 13:10:15  revo
+Damien Brucker: nova artikolo
+
+-->
+</vortaro>

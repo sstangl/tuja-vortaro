@@ -1,0 +1,239 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+  <art mrk="$Id: pra.xml,v 1.17 2015/07/04 08:37:41 revo Exp $">
+    <kap>
+      <ofc>*</ofc> <rad>pra</rad> <fnt><bib>PV</bib></fnt>
+    </kap>
+    <subart>
+      <drv mrk="pra.0">
+        <kap><tld/>-</kap>
+        <gra><vspec>prefikso</vspec></gra>
+        <snc mrk="pra.0.HIS">
+          <uzo tip="fak">HIS</uzo>
+          <dif>
+            Tre primitiva, el anta&ubreve;longe:
+            <ekz>
+              <tld/>arbaro
+              <klr>(ekzistanta de nememorebla tempo)</klr>;
+            </ekz>
+            <ekz>
+              <tld/>hejmo
+              <klr>(hejmo de la <tld/>uloj)</klr>;
+            </ekz>
+            <ekz>
+              <tld/>historio;
+            </ekz>
+            <ekz>
+              <ind><tld/>homaro</ind>;
+              <trd lng="ru">&c_p;&c_je;&c_r;&c_v;&c_o;&c_b;&c_y;&c_t;&c_n;&c_o;&c_je;
+                &c_ch;&c_je;&c_l;&c_o;&c_v;&c_je;&c_ch;&c_je;&c_s;&c_t;&c_v;&c_o;</trd>
+            </ekz>
+            <ekz>
+              <ind><tld/>tempo</ind>;
+              <trdgrp lng="de">
+                <trd>Urzeit</trd>,
+                <trd>Vorzeit</trd>
+              </trdgrp>
+              <trd lng="nl">oertijd</trd>
+              <trdgrp lng="ru">
+                <trd>&c_d;&c_o;&c_i;&c_s;&c_t;&c_o;&c_r;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_a;&c_ja; &c_e;&c_p;&c_o;&c_h;&c_a;</trd>,
+                <trd>&c_p;&c_je;&c_r;&c_v;&c_o;&c_b;&c_y;&c_t;&c_n;&c_o;&c_je; &c_v;&c_r;&c_je;&c_m;&c_ja;</trd>
+              </trdgrp>
+            </ekz>
+            <ekz>
+              <refgrp tip="vid">
+                <ref cel="patr.pra0o"><tld/>patro</ref>,
+                <ref cel="patr.pra0ino"><tld/>patrino</ref>
+              </refgrp>,
+            </ekz>
+            <ekz>
+              <ind><tld/>tipo</ind>.
+              <trdgrp lng="de">
+                <trd>Urtyp</trd>,
+                <trd>Vormodell</trd>,
+                <trd>Prototyp</trd>
+              </trdgrp>
+              <trd lng="nl">prototype</trd>
+              <trd lng="ru">&c_p;&c_r;&c_o;&c_t;&c_o;&c_t;&c_i;&c_p;</trd>
+            </ekz>
+          </dif>
+          <trdgrp lng="es">
+            <trd>pre-<klr> (antiqu&iacute;simo, primitivo)</klr></trd>,
+            <trd>proto-</trd>
+          </trdgrp>
+          <trdgrp lng="fr">
+            <trd>pr&eacute;-<klr> (ancien, primitif)</klr></trd>,
+            <trd>proto-</trd>
+          </trdgrp>
+          <trd lng="vo">&uuml;l-</trd>
+        </snc>
+        <snc mrk="pra.0.GEN">
+          <uzo tip="fak">GEN</uzo>
+          <dif>
+            Sekva, pli malproksima en grado de parenceco ol la
+            &jcirc;us anta&ubreve;a, tuj posta ol la indikita de la radikalo:
+            <ekz>
+              la <ind><tld/>nepo</ind> estas la filo de la nepo;
+              <trd lng="ru">&c_p;&c_r;&c_a;&c_v;&c_n;&c_u;&c_k;</trd>
+            </ekz>
+            <ekz>
+              la <ind><tld/>avo</ind> estas la patro de la avo.
+              <trdgrp lng="de">
+                <trd>Urgro&szlig;vater</trd>,
+                <trd>Uropa</trd>
+              </trdgrp>
+              <trd lng="nl">overgrootvader</trd>
+              <trd lng="ru">&c_p;&c_r;&c_a;&c_d;&c_je;&c_d;</trd>
+            </ekz>
+          </dif>
+          <trd lng="es">bis-<klr> (parentesco de cuarta
+          generaci&oacute;n)</klr></trd>
+          <trd lng="fr">arri&egrave;re-<klr> (parent&eacute;)</klr></trd>
+          <trd lng="ru">&c_p;&c_r;&c_a;-</trd>
+        </snc>
+      <trd lng="de">Ur-</trd>
+      <trd lng="pt">pr&eacute;-</trd>
+      </drv>
+    </subart>
+
+    <subart>
+      <dif>
+        Samsignifa vortero.
+      </dif>
+
+      <drv mrk="pra.0a">
+        <kap><tld/>a</kap>
+        <snc mrk="pra.0a.HIS">
+          <dif>
+            Primitiva, anta&ubreve;historia, origina.
+          </dif>
+        </snc>
+  <trdgrp lng="cs">
+    <trd>velmi dávný</trd>,
+    <trd>velmi starý</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+          <trd>urzeitlich</trd>,
+          <trd>vorzeitlich</trd>
+        </trdgrp>
+  <trdgrp lng="es">
+          <trd>arcaico</trd>,
+          <trd>ancestral</trd>
+        </trdgrp>
+  <trd lng="fr">archa&iuml;que</trd>
+  <trd lng="nl">voorhistorisch</trd>
+  <trdgrp lng="ru">
+          <trd>&c_p;&c_je;&c_r;&c_v;&c_o;&c_b;&c_y;&c_t;&c_n;&c_y;&c_j;</trd>,
+          <trd>&c_d;&c_o;&c_i;&c_s;&c_t;&c_o;&c_r;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j;</trd>
+        </trdgrp>
+  <trdgrp lng="sk">
+    <trd>pradávny</trd>,
+    <trd>starodávny</trd>
+  </trdgrp>
+</drv>
+
+      <drv mrk="pra.0ulo">
+        <kap><tld/>ulo</kap>
+        <snc mrk="pra.0ulo.GEN">
+          <uzo tip="fak">GEN</uzo>
+          <dif>
+            Individuo de kiu oni devenas, precipe tia apartenanta al
+            malproksima generacio:
+            <ekz>
+              inter liaj <tld/>uloj estis kaj pastroj, kaj militistoj
+              <fnt>
+                <aut>D. Cibulevskij</aut>:
+                <vrk>Ukrainaj kantoj kaj peterburgaj groteskoj</vrk>.
+                <bib>Monato</bib>.
+              </fnt>;
+            </ekz>
+            <ekz>
+              la <ctl>natura</ctl> amo al la loko, kie oni naski&gcirc;is,
+              kie estas entombigitaj la <tld/>uloj estas limigita al
+              tre malvasta regiono kaj neniel al tuta lando
+              <fnt>
+                <aut>E. Lanti</aut>:
+                <vrk><url
+                ref="http://home.arcor.de/gmickle/skk/92ms_2.html"
+                    >Letero pri la kvaza&ubreve;aj &leftquot;Aksiomoj&rightquot;</url></vrk>
+              </fnt>;
+            </ekz>
+            <ekz>
+              eble temas pri atavismo, reveno al tiu epoko, kiam
+              la <tld/>ulo de l' homo ne estis ankora&ubreve; animalo
+              socia kaj vivis izole en sia kaverno
+              <fnt>
+                <aut>A. &Ccirc;e&hcirc;ov, trad. M.Luka&scirc;</aut>, <vrk>Enujulo</vrk>,
+                <lok>La Nica literatura revuo, 3:1</lok>
+              </fnt>.
+            </ekz>
+          </dif>
+          <ref tip="ant" cel="post.0eulo">posteulo</ref>
+        </snc>
+  <trd lng="cs">dávný předek</trd>
+  <trd lng="de">Vorfahre</trd>
+  <trdgrp lng="en">
+          <trd>ancestor</trd>,
+          <trd>forebear</trd>
+        </trdgrp>
+  <trdgrp lng="es">
+          <trd>ancestro</trd>,
+          <trd>antepasado</trd>,
+          <trd>ascendiente</trd>
+        </trdgrp>
+  <trd lng="fr">anc&ecirc;tre</trd>
+  <trd lng="nl">voorvader</trd>
+  <trdgrp lng="ru">
+          <trd>&c_p;&c_r;&c_je;&c_d;&c_o;&c_k;</trd>,
+          <trd>&c_p;&c_r;&c_a;&c_shch;&c_u;&c_r;</trd>
+        </trdgrp>
+  <trd lng="sk">dávny predok</trd>
+</drv>
+
+    </subart>
+  </art>
+  <!--
+  $Log: pra.xml,v $
+  Revision 1.17  2015/07/04 08:37:41  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.16  2015/06/29 16:40:18  revo
+  aldono de trd sk per skripto de M. von Laer
+
+  Revision 1.15  2014/12/02 11:10:15  revo
+  Guillermo Molleda Jimena: trd es
+
+  Revision 1.14  2011/01/13 17:10:08  revo
+  Jeromo Vasxe: + drv-strukturo + fak + trd fr
+
+  Revision 1.13  2007/10/29 17:30:26  revo
+  Sergio Pokrovskij: interpunkcio, TEZ
+
+  Revision 1.12  2007/10/23 16:30:30  revo
+  Sergio Pokrovskij: ~ulo
+
+  Revision 1.11  2006/03/17 17:32:04  revo
+  Tulio Flores: +tr pt
+
+  Revision 1.10  2003/03/06 17:11:40  revo
+  Ulrich Fellmann: +1 plia trd = de + 1 trd = vo
+
+  Revision 1.9  2003/01/13 17:35:26  revo
+  Ulrich Fellmann: + 9 pliaj trd = de
+
+  Revision 1.8  2002/02/27 18:03:33  revo
+  Yury Finkel: konv (f)
+
+  Revision 1.7 2001/12/24 19:29:10 revo
+  Yury Finkel: +trd ru
+
+  Revision 1.6 2001/07/01 18:13:34 revo
+  Paul Peeraerts: ald trd nl
+
+  Revision 1.5 2001/06/10 18:12:00 revo
+  Dennis Wibrow: +trd germ
+
+  -->
+</vortaro>

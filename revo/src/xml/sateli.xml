@@ -1,0 +1,140 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: sateli.xml,v 1.19 2013/04/16 06:10:13 revo Exp $">
+<kap>
+  <ofc>9</ofc><rad>satelit</rad>/o
+  <fnt>B</fnt>
+</kap>
+<drv mrk="sateli.0o">
+  <kap><ofc>9</ofc><tld/>o</kap>
+
+  <snc mrk="sateli.0o.planedo">
+    <uzo tip="fak">AST</uzo>
+    <dif>
+      Mal&ccirc;efa dependa
+      <ref tip="super" cel="planed.0o">planedo</ref>
+      rondiranta &ccirc;irka&ubreve; alia &ccirc;efa planedo:
+      <ekz>
+        la luno estas <tld/>o de la tero.
+      </ekz>
+    </dif>
+    <trdgrp lng="hu">
+      <trd>hold</trd>,
+      <trd>mell&eacute;kbolyg&oacute;
+      </trd>,
+    </trdgrp>
+    <trd lng="pl">satelita</trd>
+    <trd lng="ru">&c_s;&c_p;&c_u;&c_t;&c_n;&c_i;&c_k;
+    </trd>
+  </snc>
+  <snc mrk="sateli.0o.fihelpanto">
+    <dif>
+      Fihelpanto tute dependanta de iu; nedisi&gcirc;a fikunulo, al kiu
+      oni komisias la krimajn a&ubreve; malnoblajn taskojn.
+    </dif>
+    <trd lng="hu">cimbora</trd>
+    <trdgrp lng="ru">
+      <trd>&c_p;&c_r;&c_i;&c_h;&c_v;&c_o;&c_s;&c_t;&c_je;&c_n;&c_mol;
+      </trd>,
+      <trd>&c_s;&c_a;&c_t;&c_je;&c_l;&c_l;&c_i;&c_t;
+      </trd>
+    </trdgrp>
+  </snc>
+
+  <snc mrk="sateli.0o.sputniko">
+    <dif>
+      = <ref tip="dif" cel="sputnik.0o">Sputniko
+      </ref>.
+    </dif>
+    <trd lng="ru">&c_s;&c_p;&c_u;&c_t;&c_n;&c_i;&c_k;
+    </trd>
+  </snc>
+  <trdgrp lng="de">
+    <trd>Trabant</trd>,
+    <trd>Satellit</trd>
+  </trdgrp>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_p;&c_a;&c_d;&c_a;&c_r;&c_o;&c_zh;&c_n;&c_ib;&c_k;
+    </trd>,
+    <trd>&c_s;&c_a;&c_t;&c_e;&c_l;&c_ib;&c_t;
+    </trd>
+  </trdgrp>
+  <trd lng="en">satellite</trd>
+  <trd lng="es">sat&eacute;lite</trd>
+  <trd lng="hu">m&udblac;hold</trd>
+  <trd lng="nl">satelliet</trd>
+  <trd lng="pl"><klr>sztuczny </klr>satelita</trd>
+  <trdgrp lng="zh">
+    <trd>&#21355;&#26143;</trd>,
+    <trd><klr>tr. </klr>&#34907;&#26143;<klr> [w&egrave;ix&#299;ng]
+    </klr>
+    </trd>
+  </trdgrp>
+  <trd lng="it">satellite</trd>
+</drv>
+
+<drv mrk="sateli.0o.spion">
+  <kap>spion<tld/>o</kap>
+  <snc>
+  <uzo tip="fak">TEK</uzo>
+  <dif>
+  Spiona <ref tip="vid" cel="sputnik.0o">sputniko</ref>.
+  <klr>
+  Spiona sputniko estas pli korekta esprimo ol spionsatelito
+  </klr>
+  </dif>
+  <trd lng="de">Spionagesatellit</trd>
+  <trd lng="it">satellite spia</trd>
+  <trd lng="nl">spionagesatelliet</trd>
+  <trd lng="pl">satelita<klr tip="amb"> szpiegowski</klr></trd>
+  </snc>
+</drv>
+
+<drv mrk="sateli.0o.medicx">
+  <kap>medi&ccirc;aj <tld/>oj</kap>
+  <snc>
+  <uzo tip="fak">AST</uzo>
+  <dif>
+  La kvar satelitoj de
+  <ref tip="vid" cel="jupiter.0o.planedo">Jupitero</ref>
+  observitaj de Galilejo kaj dedi&ccirc;itaj de la scienculo mem al
+  Cosimo II De' Medici (Kosimo la Dua de la Medi&ccirc;oj).
+  </dif>
+  </snc>
+  <trdgrp lng="it">
+    <trd>satelliti medicei</trd>,
+    <trd>pianeti medicei</trd>
+  </trdgrp>
+  <trd lng="la">Sidera Medicea</trd>
+  <trd lng="nl">Medici-<ind>satellieten</ind></trd>
+  <trd lng="pl">gwiazdy medycejskie</trd>
+</drv>
+</art>
+<!--
+$Log: sateli.xml,v $
+Revision 1.19  2013/04/16 06:10:13  revo
+Sebastian Cyprych: +trd pl,la
+
+Revision 1.18  2009/07/11 16:30:56  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.17  2009/03/01 17:33:44  revo
+Russ Williams: + 9OA
+
+Revision 1.16  2008/11/02 17:30:48  revo
+Peter Hauser: aldono de germana traduko
+
+Revision 1.15  2008/09/15 19:09:58  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.14  2008/08/29 16:30:27  revo
+Antonio Codazzi: aldono de itala traduko kaj de kapvortoj
+"spionsatelito" kaj "medicxaj satelitoj".
+
+Revision 1.13  2005/05/12 16:32:28  revo
+Yury Finkel: +trd ru
+
+-->
+</vortaro>

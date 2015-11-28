@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: telefoni.xml,v 1.2 2015/09/28 13:10:19 revo Exp $">
+<kap>
+  <rad>telefoni</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="telefoni.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="telefoni.0o.TEL">
+    <uzo tip="fak">TEL</uzo>
+    <dif>
+      Telefonado; telefonarto;
+      komunikado per
+      <ref tip="vid" cel="telefo.0o.TEL">telefono</ref>:
+      <ekz>
+        telegrafio kaj <tld/>o kreis el la mondo flustrogalerion
+        <fnt>
+        <aut>R. W. Mason, trad. W. Patterson</aut>,
+        <vrk><url
+        ref="http://www.gutenberg.org/cache/epub/11511/pg11511.html">
+        anta&ubreve;parolo al &leftquot;Robinsono Kruso&rightquot;</url></vrk>,
+        <lok>1908</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="en">telephony</trd>
+  <trd lng="fr">t&eacute;l&eacute;phonie</trd>
+</drv>
+</art>
+
+<!--
+$Log: telefoni.xml,v $
+Revision 1.2  2015/09/28 13:10:19  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.1  2012/04/03 10:10:08  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: benzol.xml,v 1.13 2015/07/04 08:37:31 revo Exp $">
+<kap>
+  <rad>benzol</rad>/o
+  <fnt>Z</fnt>
+</kap>
+<drv mrk="benzol.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">KEM</uzo>
+  <snc>
+    <dif>
+      Kompona&jcirc;o konsistanta el <ref cel="benzen.0o">benzeno</ref>
+      kaj
+      <ref cel="toluen.0o">tolueno</ref>, uzata por lumigado kaj
+      hejtado.
+    </dif>
+    <adm>
+      En la rusa "&c_b;&c_je;&c_n;&c_z;&c_o;&c_l;" signifas nur C6H6,
+      t.e. "benzeno"-n.
+      Mi ne trovis konvenan nomon por la kompona&jcirc;o, difinita
+      en tiu &ccirc;i artikolo.      
+    </adm>
+  </snc>
+  <trd lng="ca">benzol</trd>
+  <trd lng="cs">benzol</trd>
+  <trd lng="de">Benzol</trd>
+  <trd lng="en">heating <ind>oil</ind></trd>
+  <trd lng="fr">benzol</trd>
+  <trd lng="hu">benzol</trd>
+  <trd lng="pl">benzol</trd>
+  <trd lng="sk">benzol</trd>
+</drv>
+</art>
+<!--
+$Log: benzol.xml,v $
+Revision 1.13  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.12  2015/06/29 16:29:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.11  2012/07/16 14:10:19  revo
+Marc Rausell: + trd ca
+
+Revision 1.10  2009/02/20 08:36:25  revo
+Sebastian Cyprych: +trd pl -adm
+
+Revision 1.9  2002/12/17 20:13:26  revo
+Ulrich Fellmann: + 1 trd = de kaj kor de lingvoindiko fr -> en cxe
+"heating oil"
+
+Revision 1.8  2002/11/12 17:31:54  revo
+Christopher Zervic: + ang
+
+Revision 1.7  2002/03/20 17:35:49  revo
+Yury Finkel: +adm
+
+Revision 1.6 2002/01/09 17:33:53 revo
+Jozefo Horvath: +trd hu
+
+Revision 1.5 2000/12/10 17:11:08 revo
+Marc Bavant: +ref, +trd fr, +adm
+
+-->
+</vortaro>

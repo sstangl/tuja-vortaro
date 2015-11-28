@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+  <art mrk="$Id: uncial.xml,v 1.5 2015/07/04 08:37:45 revo Exp $">
+    <kap>
+      <rad>uncial</rad>/o <fnt><bib>PIV2</bib></fnt>
+    </kap>
+    <drv mrk="uncial.0o">
+      <kap><tld/>o</kap>
+      <snc>
+        <uzo tip="fak">HIS</uzo>
+        <uzo tip="fak">TIP</uzo>
+        <dif>
+          Speco de <ref tip="super" cel="majuskl.0a">majuskla</ref>
+          skribo, kiu estis uzata en la manuskriptoj grekaj kaj
+          latinaj de la 4a &gcirc;is la 8a jc:
+          <ekz>
+            oni povas facile vidi, ke kirilico entenas la 24 literojn
+            de la bizancia <tld/>o, plus la literojn por la slavonaj
+            sonoj kiuj malestas en la mezgreka
+            <fnt>
+              <aut>Sergio Pokrovskij</aut>:
+              <vrk>Komputada leksikono</vrk>,
+              <lok><url
+ ref="http://bertilow.com/div/komputada_leksikono/AZBUKOJ.html#Pri-kirilico"
+                  >Pri kirilico</url></lok>
+            </fnt>.
+          </ekz>
+        </dif>
+      </snc>
+  <trd lng="cs">unciála</trd>
+  <trd lng="de">Unziale</trd>
+  <trd lng="en">uncial script</trd>
+  <trd lng="fr">onciale</trd>
+  <trd lng="pl">uncja&lstroke;a</trd>
+  <trd lng="ru">&c_u;&c_n;&c_c;&c_i;&c_a;&c_l;</trd>
+  <trd lng="sk">unciála</trd>
+</drv>
+  </art>
+
+<!--
+$Log: uncial.xml,v $
+Revision 1.5  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.4  2015/06/28 12:03:41  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.3  2013/09/07 12:10:10  revo
+Sergio Pokrovskij: +fnt
+
+Revision 1.2  2013/09/07 09:10:13  revo
+Sergio Pokrovskij: -tajperaro
+
+Revision 1.1  2013/09/07 06:10:20  revo
+Sergio Pokrovskij: nova artikolo
+
+-->
+</vortaro>

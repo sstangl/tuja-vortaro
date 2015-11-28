@@ -1,0 +1,136 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: deput.xml,v 1.17 2015/07/04 08:37:32 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>deput</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="deput.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="deput.0i.POL">
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      Elekti kaj sendi kiel reprezentanton en
+      <ref cel="parlam.0o">parlamenton</ref>.
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="deleg.0i">delegi</ref>.
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_v;&c_y;&c_b;&c_r;&c_a;&c_c;&c_mol;
+  &c_d;&c_e;&c_p;&c_u;&c_t;&c_a;&c_t;&c_a;&c_m;
+  <klr>(&c_k;&c_a;&c_g;&c_o;&c_s;&c_mol;&c_c;&c_ib;)</klr></trd>
+  <trd lng="ca">diputar</trd>
+  <trdgrp lng="cs">
+    <trd>deputovat</trd>,
+    <trd>jmenovat členem delegace</trd>,
+    <trd>vyslat</trd>,
+    <trd>vysílat</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+     <trd>abordnen</trd>,
+     <trd>entsenden</trd>
+  </trdgrp>
+  <trd lng="en">depute</trd>
+  <trd lng="es">diputar</trd>
+  <trd lng="fr">d&eacute;puter</trd>
+  <trd lng="pl">deputowa&cacute;</trd>
+  <trdgrp lng="pt">
+    <trd>deputar</trd>,
+    <trd>eleger</trd>
+  </trdgrp>
+  <trd lng="ru">&c_i;&c_z;&c_b;&c_r;&c_a;&c_t;&c_mol;
+  &c_d;&c_je;&c_p;&c_u;&c_t;&c_a;&c_t;&c_a;</trd>
+  <trdgrp lng="sk">
+    <trd>menovať členom delegácie</trd>,
+    <trd>vysielať</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="deput.0ito">
+  <kap><tld/>ito</kap>
+  <snc mrk="deput.0ito.POL">
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      Parlamenta reprezentanto de parto de la popolo:
+      <ekz>
+        maldekstrula <tld/>ito.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="ca">diputat</trd>
+  <trdgrp lng="cs">
+    <trd>poslanec</trd>,
+    <trd>vyslanec</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+     <trd>Abgeordneter</trd>,
+     <trd>Entsandter</trd>
+  </trdgrp>
+  <trd lng="es">Diputado, -a</trd>
+  <trd lng="fr">d&eacute;put&eacute;</trd>
+  <trd lng="pl">deputowany</trd>
+  <trd lng="sk">deputant</trd>
+</drv>
+
+<drv mrk="deput.0itaro">
+  <kap><tld/>itaro</kap>
+  <snc mrk="deput.0itaro.POL">
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      Grupo a&ubreve; tuto de parlamentaj <tld/>itoj:
+      <ekz>
+        &ccirc;iu moderna demokratio havas <ind><tld/>itaro</ind>n.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="ca">
+    <trd>diputaci&oacute;</trd>,
+    <trd>parlament</trd>
+  </trdgrp>
+  <trd lng="cs">dolní komora parlamentu</trd>
+  <trdgrp lng="de">
+     <trd>Abgeordnete</trd>,
+     <trd>Abgeordnetenversammlung</trd>
+  </trdgrp>
+  <trd lng="es">Asamblea Legislativa</trd>
+  <trd lng="fr">assembl&eacute;e<klr tip="ind"> (ensembles
+  d&eacute;put&eacute;s)</klr></trd>
+  <trd lng="sk">dolná komora parlamentu</trd>
+</drv>
+</art>
+<!--
+$Log: deput.xml,v $
+Revision 1.17  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.15  2015/05/23 22:10:16  revo
+Jeromo Vasxe: memstar. ~ito ~itaro
+
+Revision 1.14  2012/09/04 11:10:25  revo
+Marc Rausell: + trd ca
+
+Revision 1.13  2009/06/04 16:30:42  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.12  2007/07/23 16:31:01  revo
+Tulio Flores: +tr pt
+
+Revision 1.11  2006/03/03 17:31:05  revo
+Eduardo Navas: +trd es
+
+Revision 1.10  2005/04/14 16:33:53  revo
+Raul Salinas Monteagudo: +trd es
+
+Revision 1.9  2003/12/13 17:31:38  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.8  2002/04/11 16:32:01  revo
+-->
+</vortaro>

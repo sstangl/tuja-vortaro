@@ -1,0 +1,209 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: ve.xml,v 1.23 2015/09/23 22:10:18 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>ve</rad> <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="ve.0">
+  <kap><ofc>*</ofc><tld/></kap>
+  <gra><vspec>ekkrio</vspec></gra>
+  <snc mrk="ve.0.bedauxrinde">
+    <dif>
+      Kia malfeli&ccirc;o!:
+      <ekz>
+        <tld/> al ni, ni estas ruinigitaj!<fnt>Z</fnt>
+      </ekz>
+    </dif>
+    <trd lng="de">weh</trd>
+    <trdgrp lng="en">
+      <trd>wo</trd>,
+      <trd>woe</trd>,
+      <trd>alas</trd>
+    </trdgrp>
+    <trdgrp lng="fa">
+      <trd>&a_w;&a_A;&f_y;!</trd>
+      <trd>&a_A;&a_f;&a_s;&a_w;&a_s;!</trd>
+      <trd>&a_d;&a_r;&f_y;&a_gh;!</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>a&iuml;e</trd>,
+      <trd>h&eacute;las</trd>
+    </trdgrp>
+    <trdgrp lng="pt">
+      <trd>ai de mim!</trd>
+    </trdgrp>
+    <trd lng="ru">&c_u;&c_v;&c_y;</trd>
+    <trd lng="tp">ike</trd>
+  </snc>
+  <snc mrk="ve.0.malbonsorte">
+    <dif>
+      Malfeli&ccirc;e al...!:
+      <ekz>
+        <tld/> al la popolo peka, <klr>[...]</klr> al la idaro 
+        krima<fnt><bib>MT</bib>, <lok>&Jes; 1:4</lok></fnt>;
+      </ekz>
+      <ekz>
+        <ind><tld/> al la venkitoj!</ind>
+        <trd lng="fa">&a_w;&a_A;&f_y; &a_b;&a_r;
+        &a_sh;&f_k;&a_s;&a_t;&zwnj;&a_kh;&a_w;&a_r;&a_d;&f_g;&a_A;&a_n;!</trd>
+        <trd lng="hu">jaj a legy&odblac;z&ouml;tteknek!</trd>
+        <trd lng="ru">&c_g;&c_o;&c_r;&c_je; &c_p;&c_o;&c_b;&c_je;&c_zh;&c_d;&c_jo;&c_n;&c_n;&c_y;&c_m;!</trd>
+      </ekz>
+    </dif>
+    <trd lng="de">wehe</trd>
+    <trd lng="fa">&a_w;&a_A;&f_y;!</trd>
+    <trd lng="fr">malheur<klr> (&agrave;...)</klr></trd>
+    <trd lng="hu">jaj</trd>
+    <trd lng="ru">&c_g;&c_o;&c_r;&c_je;! <klr tip="amb">(&c_k;&c_o;&c_m;&c_u;-&c_l;.)</klr></trd>
+  </snc>
+  <trd lng="nl">wee</trd>
+  <trd lng="sk">beda</trd>
+</drv>
+
+<drv mrk="ve.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="ve.0o.SON">
+    <dif>
+      Plenda ekkrio:
+      <ekz>
+        lamentoj, &gcirc;emoj kaj <tld/>oj
+        <fnt><bib>MT</bib>, <lok>&Jeh; 2:10</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>b&ecaron;da</trd>,
+    <trd>b&ecaron;dov&aacute;n&iacute;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>Wehklage</trd>,
+    <trd>Wehruf</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>plaint</trd>,
+    <trd>lamentation</trd>
+  </trdgrp>
+  <trdgrp lng="fa">
+    <trd>&a_sh;&f_k;&a_w;&a_h;</trd>
+    <trd>&a_A_madda;&a_h; &a_w; &a_n;&a_A;&a_l;&a_h;</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>lamentation</trd>,
+    <trd>plainte</trd>
+  </trdgrp>
+  <trd lng="hu">jajgat&aacute;s</trd>
+  <trd lng="nl">weeklacht</trd>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_t;&c_je;&c_n;&c_a;&c_n;&c_i;&c_je;</trd>,
+    <trd>&c_p;&c_r;&c_i;&c_ch;&c_i;&c_t;&c_a;&c_n;&c_i;&c_je;</trd>,
+    <trd>&c_p;&c_l;&c_a;&c_ch;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>bed&aacute;kanie</trd>,
+    <trd>jojkanie</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="ve.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="ve.0i.SON">
+    <dif>
+      Ekkrii, soni <tld/>e:
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        la vento <tld/>adas.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>b&ecaron;dovat</trd>,
+    <trd>na&rcaron;&iacute;kat</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>lament</trd>,
+    <trd>wail</trd>
+  </trdgrp>
+  <trdgrp lng="fa">
+    <trd>&a_sh;&f_k;&a_w;&a_h; &f_k;&a_r;&a_d;&a_n;</trd>
+    <trd>&a_n;&a_A;&a_l;&a_h; &f_k;&a_r;&a_d;&a_n;</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>g&eacute;mir</trd>,
+    <trd>se <ind>lamenter</ind></trd>,
+    <trd>se <ind>plaindre</ind></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>jajgat</trd>,
+    <trd>jajong</trd>
+  </trdgrp>
+  <trd lng="nl">weeklagen</trd>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_t;&c_je;&c_n;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_p;&c_r;&c_i;&c_ch;&c_i;&c_t;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>bed&aacute;ka&tcaron;</trd>,
+    <trd>bedova&tcaron;</trd>,
+    <trd>jojka&tcaron;</trd>,
+    <trd>narieka&tcaron;</trd>,
+    <trd>zajajka&tcaron;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="ve.hejm0o">
+  <kap>hejm<tld/>o</kap>
+  <snc mrk="ve.hejm0o.PSI">
+    <ref tip="dif" cel="sopir.hejm0o.PSI">hejmsopiro</ref>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>nostalgie</trd>,
+    <trd>smutek</trd>,
+    <trd>stesk po domov&ecaron;</trd>
+  </trdgrp>
+  <trd lng="de">Heimweh</trd>
+  <trdgrp lng="fa">
+    <trd>&a_d;&a_r;&a_d; &a_gh;&a_r;&a_b;&a_t;</trd>
+    <trd>&a_d;&a_r;&a_d; &a_w;&a_T;&a_n;</trd>
+  </trdgrp>
+  <trd lng="fr">mal du pays</trd>
+  <trd lng="hu">honv&aacute;gy</trd>
+  <trdgrp lng="ru">
+    <trd>&c_t;&c_o;&c_s;&c_k;&c_a; &c_p;&c_o; &c_d;&c_o;&c_m;&c_u;</trd>,
+    <trd>&c_n;&c_o;&c_s;&c_t;&c_a;&c_l;&c_mol;&c_g;&c_i;&c_ja;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>nostalgia</trd>,
+    <trd>sm&uacute;tok po domove</trd>
+  </trdgrp>
+  <trd lng="sv">heml&auml;ngtan</trd>
+</drv>
+</art>
+<!--
+$Log: ve.xml,v $
+Revision 1.23  2015/09/23 22:10:18  revo
+Jeromo Vasxe: + ref
+
+Revision 1.22  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.21  2015/06/28 12:03:50  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.20  2015/02/15 10:10:25  revo
+Wolfram Diestel: +vspec, du fnt-indikoj
+
+Revision 1.19  2014/02/18 13:10:27  revo
+Damien Brucker: +ref
+
+Revision 1.18  2010/05/31 16:30:23  revo
+Russ Williams: +trd en
+
+Revision 1.17  2009/06/21 16:30:40  revo
+Wieland Pusch: korr arabaj/persaj koderoj
+
+Revision 1.16  2009/05/17 16:31:05  revo
+-->
+</vortaro>

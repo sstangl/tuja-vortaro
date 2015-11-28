@@ -1,0 +1,231 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: indust.xml,v 1.22 2015/07/04 08:37:36 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>industri</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="indust.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="indust.0o.EKON_tuto">
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      Tuto de la artoj kaj metioj per kiuj oni produktas ri&ccirc;a&jcirc;ojn per
+      transformado de krudaj materioj, kontraste kun terkulturo
+      kaj komerco:
+      <ekz>
+        la &scirc;tato devas interakordigi la bezonojn de terkulturo kaj
+        <tld/>o;
+      </ekz>
+      <ekz>
+        lando kun prospera, naski&gcirc;anta <tld/>o.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="indust.0o.EKON_brancxo">
+    <dif>
+      Aparta arto, metio a&ubreve; plej &gcirc;enerale agado per kiu oni 
+      produktas ri&ccirc;a&jcirc;ojn a&ubreve; plivalora&jcirc;ojn per 
+      transformado de krudaj materioj:
+      <ekz>
+        la <tld/>o de fero, minoj, libro, ledo.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_r;&c_a;&c_m;&c_y;&c_s;&c_l;&c_o;&c_v;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
+    <trd>&c_ib;&c_n;&c_d;&c_u;&c_s;&c_t;&c_r;&c_y;&c_ja;</trd>
+  </trdgrp>
+  <trdgrp lng="bg">
+    <trd>&c_i;&c_n;&c_d;&c_u;&c_s;&c_t;&c_r;&c_i;&c_ja;</trd>,
+    <trd>&c_p;&c_r;&c_o;&c_m;&c_i;&c_sh;&c_l;&c_je;&c_n;&c_o;&c_s;&c_t;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>industrie</trd>,
+    <trd>průmysl</trd>
+  </trdgrp>
+  <trd lng="de">Industrie</trd>
+  <trd lng="en">industry</trd>
+  <trd lng="es">industria</trd>
+  <trd lng="fa">&a_S;&a_n;&a_ayn;&a_t;</trd>
+  <trd lng="fr">industrie</trd>
+  <trdgrp lng="hu">
+    <trd>ipar</trd>,
+    <trd>mesters&eacute;g</trd>
+  </trdgrp>
+  <trd lng="nl">industrie</trd>
+  <trd lng="pt">ind&uacute;stria</trd>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_r;&c_o;&c_m;&c_y;&c_sh;&c_l;&c_je;&c_n;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>,
+    <trd>&c_i;&c_n;&c_d;&c_u;&c_s;&c_t;&c_r;&c_i;&c_ja;</trd>
+  </trdgrp>
+  <trd lng="sk">priemysel</trd>
+</drv>
+
+<drv mrk="indust.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="indust.0a.EKON">
+    <dif>
+      Rilata al <tld/>o:
+      <ekz>
+        <tld/>a ekspozicio, societo, lernejo, laboristo;
+      </ekz>
+      <ekz>
+        <tld/>aj artoj, produktoj.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="indust.0a.industrioza">
+    <dif>
+      Havanta fortan <tld/>on:
+      <ekz>
+        <tld/>a lando, urbo;
+      </ekz>
+      <ekz>
+        <ind><tld/>igo</ind> de l' kolonioj.
+        <trd lng="fr">industrialisation</trd>
+        <trd lng="hu">iparos&iacute;t&aacute;s</trd>
+      </ekz>
+    </dif>
+  </snc>
+  <adm>
+  La ekz-o kun ~igo havas nenion por fari &ccirc;i tie. Indus
+  &gcirc;in senpolvigi. <aut>MB</aut>
+  </adm>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_r;&c_a;&c_m;&c_y;&c_s;&c_l;&c_o;&c_v;&c_y;</trd>,
+    <trd>&c_ib;&c_n;&c_d;&c_u;&c_s;&c_t;&c_r;&c_y;&c_j;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trd lng="de">industriell</trd>
+  <trd lng="en">industrial</trd>
+  <trd lng="es">industrial</trd>
+  <trd lng="fa">&a_S;&a_n;&a_ayn;&a_t;&f_y;</trd>
+  <trdgrp lng="fr">
+    <trd>industriel<klr tip="ind"> (adj.)</klr></trd>,
+    <trd>industrialis&eacute;</trd></trdgrp> 
+  <trd lng="hu">ipari</trd>
+  <trd lng="nl">industrieel</trd>
+  <trd lng="pt">industrial<klr tip="amb"> (adj.)</klr></trd>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_r;&c_o;&c_m;&c_y;&c_sh;&c_l;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>,
+    <trd>&c_i;&c_n;&c_d;&c_u;&c_s;&c_t;&c_r;&c_i;&c_a;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trd lng="sk">priemyselný</trd>
+  <trdgrp lng="cs">
+    <trd>průmyslový</trd>,
+    <trd>živnostenský</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="indust.0isto">
+  <kap><tld/>isto, <var><kap><tld/>ulo</kap></var></kap>
+  <snc mrk="indust.0isto.EKON">
+    <dif>
+      Profesiulo, kiu mastras a&ubreve; direktas <tld/>an aferon.
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_r;&c_a;&c_m;&c_y;&c_s;&c_l;&c_o;&c_v;&c_je;&c_c;</trd>,
+    <trd>&c_p;&c_r;&c_a;&c_m;&c_y;&c_s;&c_l;&c_o;&c_w;&c_c;&c_a;</trd>
+  </trdgrp>
+  <trd lng="cs">průmyslník</trd>
+  <trdgrp lng="de">
+    <trd>Industrielle</trd>,
+    <trd>Industrieller</trd>
+  </trdgrp>
+  <trd lng="en">industrialist</trd>
+  <trd lng="es">industrial</trd>
+  <trd lng="fa">&a_S;&a_n;&a_ayn;&a_t;&a_d;&a_A;&a_r;</trd>
+  <trd lng="fr">industriel<klr tip="ind"> (subst.)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>iparos</trd>,
+    <trd>nagyiparos</trd>,
+    <trd>gy&aacute;ros</trd>
+  </trdgrp>
+  <trd lng="nl">industrieel</trd>
+  <trd lng="pt">industrial<klr tip="amb"> (pessoa)</klr></trd>
+  <trd lng="ru">&c_p;&c_r;&c_o;&c_m;&c_y;&c_sh;&c_l;&c_je;&c_n;&c_n;&c_i;&c_k;</trd>
+  <trd lng="sk">priemyselník</trd>
+</drv>
+
+<drv mrk="indust.nutrajx0o">
+  <kap>nutra&jcirc;<tld/>o,
+  <var><kap>nutr<tld/>o</kap></var></kap>
+  <snc mrk="indust.nutrajx0o.EKON">
+    <dif>
+      Industria bran&ccirc;o ampleksanta kultivon, bredon, 
+      transformon de kruda&jcirc;oj al man&gcirc;a&jcirc;oj kaj ties 
+      livero al konsumantoj:
+      <ekz>
+        Instrua centro pri nutra&jcirc;<tld/>o
+        <fnt>
+          <aut>-</aut>,
+          <vrk><url ref="http://sezonoj.ru/2014/11/litovio-4/">
+          Zamenhof-Tagoj 2014 en Litovio</url></vrk>,
+          <lok>La Balta Ondo, 2014-11-09</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">industrie <ind>agroalimentaire</ind></trd>
+</drv>
+
+<drv mrk="indust.post0a">
+  <kap>post<tld/>a</kap>
+  <snc mrk="indust.post0a.EKON">
+    <uzo tip="fak">EKON</uzo>
+    <dif>
+      Spertinta ekonomian evoluon, pro kiu la sekundara, 
+      industria sektoro malkreskis, kaj la terciara, serva 
+      sektoro gravi&gcirc;is:
+      <ekz>
+        la franca sociologo Alain Touraine <klr>...</klr> 
+        publikigis la verkon La Post<tld/>a Socio (1969)
+        <fnt>
+          <aut>D. Kessous</aut>,
+          <vrk><url
+          ref="http://www.satesperanto.org/Rauxmismo-kaj-postmodernismo.html">
+          Ra&ubreve;mismo kaj postmodernismo</url></vrk>,
+          <lok>SAT Kulturo, [vidita en 2014]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">postindustriel</trd>
+</drv>
+</art>
+<!--
+$Log: indust.xml,v $
+Revision 1.22  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.21  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.20  2014/12/17 00:11:48  revo
+Jeromo Vasxe: + post~a
+
+Revision 1.19  2014/11/25 23:10:18  revo
+Jeromo Vasxe: + nutrajx~o
+
+Revision 1.18  2012/10/23 00:11:48  revo
+Neil Roberts: aldonu la etikedon <var>
+
+Revision 1.17  2010/04/24 17:08:02  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.16  2009/02/15 14:17:36  revo
+Russ Williams: +trd en
+
+Revision 1.15  2007/11/22 17:31:10  revo
+Wieland Pusch: +trd bg
+
+Revision 1.14  2005/11/01 17:32:10  revo
+Luiz Portella: +trd pt
+
+Revision 1.13  2005/01/12 18:21:04  revo
+-->
+</vortaro>

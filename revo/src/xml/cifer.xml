@@ -1,0 +1,280 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: cifer.xml,v 1.39 2015/07/04 08:37:32 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>cifer</rad>/o
+</kap>
+<drv mrk="cifer.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="cifer.0o.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>VdE</bib></fnt>
+    <dif>
+      Ano de negranda signaro, uzata en skribado kaj presado por
+      prezenti
+      nombrojn:
+      <ekz>
+        e&ubreve;ropaj <klr>(<frm>0123456789</frm>)</klr>,
+      </ekz>
+      <ekz>
+        romaj <klr>(<frm>IVXLCDM</frm>)</klr>,
+      </ekz>
+      <ekz>
+        hindaj,
+      </ekz>
+      <ekz>
+        arabaj
+        <klr>(<frm>&a_0;&a_1;&a_2;&a_3;&a_4;&a_5;&a_6;&a_7;&a_8;&a_9;</frm>)</klr>
+        <tld/>oj;
+      </ekz>
+      <ekz>
+        duumaj <klr>(<frm>01</frm>)</klr>,
+      </ekz>
+      <ekz>
+        okumaj <klr>(<frm>01234567</frm>)</klr>,
+      </ekz>
+      <ekz>
+        deksesumaj <klr>(<frm>0123456789ABCDEF</frm>)</klr> <tld/>oj.
+      </ekz>
+    </dif>
+    <rim>
+      Kiel videblas, la propre arabaj <tld/>oj havas alian formon ol la
+      <tld/>oj uzataj en E&ubreve;ropo, en Esperanto kaj anka&ubreve;
+      en kelkaj okcidentaj arabaj landoj. Malgra&ubreve; tio la
+      e&ubreve;ropajn <tld/>ojn oni foje nomas arabaj, &ccirc;ar ili
+      historie
+      devenas de la Araboj, sed ilia formo evoluis. Estas do preferinde
+      bazi la terminologion sur la nuna uzado.
+    </rim>
+    <trd lng="be">&c_l;&c_ib;&c_ch;&c_b;&c_a;</trd>
+    <trd lng="br">sifr</trd>
+    <trd lng="ca">xifra</trd>
+    <trd lng="de">Ziffer</trd>
+    <trdgrp lng="en">
+      <trd>digit</trd>,
+      <trd>cipher</trd>,
+      <trd>cypher</trd>,
+      <trd>figure</trd>
+    </trdgrp>
+    <trd lng="es">cifra</trd>
+    <trd lng="fa">&a_r;&a_q;&a_m;</trd>
+    <trd lng="fr">chiffre</trd>
+    <trd lng="hu">sz&aacute;mjegy</trd>
+    <trd lng="it">cifra</trd>
+    <trd lng="nl">cijfer</trd>
+    <trd lng="oc">chifra</trd>
+    <trd lng="pl">cyfra</trd>
+    <trd lng="pt">algarismo</trd>
+    <trd lng="ru">&c_c;&c_i;&c_f;&c_r;&c_a;</trd>
+    <trdgrp lng="sk">
+      <trd>&ccaron;&iacute;slica</trd>,
+      <trd>cifra</trd>
+    </trdgrp>
+    <trd lng="sv">siffra</trd>
+  </snc>
+  <snc>
+    <uzo tip="stl">EVI</uzo>
+    <dif>
+      Nombro:
+      <ekz>
+        la <tld/>o de la vunditoj estas alta.
+      </ekz>
+    </dif>
+    <rim>
+      La konfuzo inter <tld/>oj kaj nombroj estas same evitinda kiel la
+      konfuzo inter literoj kaj sonoj (a&ubreve; e&ccirc; vortoj).
+    </rim>
+    <trd lng="ca">nombre</trd>
+    <trd lng="de">Zahl</trd>
+    <trd lng="en">figure</trd>
+    <trd lng="fa">&a_sh;&a_m;&a_A;&a_r;</trd>
+    <trd lng="hu">sz&aacute;m</trd>
+    <trd lng="it">numero</trd>
+    <trd lng="nl">getal</trd>
+    <trd lng="pt">n&uacute;mero</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>cifra</trd>,
+    <trd>číslice</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="cifer.0a">
+  <kap><tld/>a</kap>
+  <snc>
+    <dif>
+      Rilata al <tld/>oj:
+      <ekz>
+        <tld/>a klavo
+      </ekz>
+      , prezentanta informon per <tld/>oj:
+      <ekz>
+        <ind><tld/>a horlo&gcirc;o</ind>.
+        <trd lng="it"><klr>orologio</klr> digitale</trd>
+      </ekz>
+    </dif>
+    <trd lng="be">&c_l;&c_ib;&c_ch;&c_b;&c_a;&c_v;&c_y;</trd>
+    <trd lng="br">niverel</trd>
+    <trdgrp lng="ca">
+      <trd>num&egrave;ric</trd>,
+      <trd>digital</trd>
+    </trdgrp>
+    <trd lng="de">numerisch</trd>
+    <trd lng="en">digital</trd>
+    <trd lng="fa">&a_r;&a_q;&a_m;&f_y;</trd>
+    <trd lng="fr">num&eacute;rique</trd>
+    <trdgrp lng="hu">
+      <trd>sz&aacute;m-</trd>,
+      <trd>numerikus</trd></trdgrp>
+    <trd lng="it">numerico</trd>
+    <trd lng="nl">digitaal</trd>
+    <trd lng="pl">cyfrowy</trd>
+    <trd lng="ru">&c_c;&c_i;&c_f;&c_r;&c_o;&c_v;&c_o;&c_j;</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>digitální</trd>,
+    <trd>číselný</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>digitálny</trd>,
+    <trd>číselný</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="cifer.0eca">
+  <kap><tld/>eca</kap>
+  <uzo tip="fak">TEK</uzo>
+  <snc>
+    <dif>
+      <klr>(p.p. informo)</klr>
+      Prezentita per limigita signaro, kiel nombro per
+      <tld/>oj (kontraste al analoga prezento per kontinua fizika
+      grando):
+      <ekz>
+        <tld/>eca komputilo, <tld/>eca signalo, <tld/>eca televido.
+      </ekz>
+    </dif>
+    <ref tip="ant" cel="analog.0a">analoga</ref>
+    <trd lng="be">&c_l;&c_ib;&c_ch;&c_b;&c_a;&c_v;&c_y;</trd>
+    <trd lng="br">niverel</trd>
+    <trd lng="ca">digital</trd>
+    <trd lng="de">digital</trd>
+    <trdgrp lng="en">
+      <trd>digital</trd>,
+      <trd>numerical</trd>
+    </trdgrp>
+    <trd lng="es">digital</trd>
+    <trd lng="fa">&a_r;&a_q;&a_m;&f_y;</trd>
+    <trd lng="fr">num&eacute;rique</trd>
+    <trd lng="hu">digit&aacute;lis</trd>
+    <trd lng="it">digitale</trd>
+    <trd lng="nl">digitaal</trd>
+    <trd lng="pl">cyfrowy</trd>
+    <trd lng="pt">digital</trd>
+    <trd lng="ru">&c_c;&c_i;&c_f;&c_r;&c_o;&c_v;&c_o;&c_j;</trd>
+    <trd lng="sk">digit&aacute;lny</trd>
+  </snc>
+  <trd lng="cs">celočíselný</trd>
+  <trd lng="sk">celočíselný</trd>
+</drv>
+
+<drv mrk="cifer.0ecigi">
+  <kap><tld/>ecigi</kap>
+  <uzo tip="fak">TEK</uzo>
+  <snc>
+    <dif>
+      Transformi analogan datumon en <tld/>ecan formon.
+    </dif>
+    <trd lng="br">niverelaat</trd>
+    <trd lng="ca">digitalitzar</trd>
+    <trd lng="de">digitalisieren</trd>
+    <trd lng="en">digitize</trd>
+    <trd lng="es">digitalizar</trd>
+    <trd lng="fa">&a_r;&a_q;&a_m;&f_y; &a_s;&a_A;&a_kh;&a_t;&a_n;</trd>
+    <trd lng="fr">num&eacute;riser</trd>
+    <trd lng="hu">digitaliz&aacute;l</trd>
+    <trd lng="it">digitalizzare</trd>
+    <trdgrp lng="pl">
+      <trd>digitalizowa&cacute;</trd>,
+      <trd>skanowa&cacute;</trd>
+    </trdgrp>
+    <trd
+    lng="ru">&c_o;&c_c;&c_i;&c_f;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+    <trd lng="sk">digitalizova&tcaron;</trd>
+  </snc>
+  <trd lng="cs">digitalizovat</trd>
+</drv>
+
+<drv mrk="cifer.0ecigilo">
+  <kap><tld/>ecigilo</kap>
+  <uzo tip="fak">TEK</uzo>
+  <snc>
+    <dif>
+      Aparato a&ubreve; programo por <tld/>ecigo.
+    </dif>
+    <trdgrp lng="en">
+      <trd>digitizer</trd>,
+      <trd>analog-to-digital converter</trd>
+    </trdgrp>
+    <trdgrp lng="ca">
+      <trd>digitalitzador</trd>,
+      <trd>convertidor digital</trd>
+    </trdgrp>
+    <trd lng="fa">&a_r;&a_q;&a_m;&f_y;&zwnj;&a_s;&a_A;&a_z;</trd>
+    <trd lng="fr">num&eacute;riseur</trd>
+    <trd lng="es">digitalizador</trd>
+    <trd lng="hu">digitaliz&aacute;l&oacute;</trd>
+    <trd lng="it">convertitore<klr> (analogico-digitale)</klr></trd>
+    <trdgrp lng="pl">
+      <trd>digitalizer</trd>,
+      <trd>skaner</trd>,
+      <trd>przetwornik analogowo-cyfrowy</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_o;&c_c;&c_i;&c_f;&c_r;&c_o;&c_v;&c_shch;&c_i;&c_k;</trd>,
+      <trd>&c_a;&c_n;&c_a;&c_l;&c_o;&c_g;&c_o;-&c_c;&c_i;&c_f;&c_r;&c_o;&c_v;&c_o;&c_j;
+      &c_p;&c_r;&c_je;&c_o;&c_b;&c_r;&c_a;&c_z;&c_o;&c_v;&c_a;&c_t;&c_je;&c_l;&c_mol;</trd>
+    </trdgrp>
+    <trd lng="sk">digitaliz&aacute;tor</trd>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>digitalizer</trd>,
+    <trd>zařízení k převodu vstupního signálu do číselné formy</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: cifer.xml,v $
+Revision 1.39  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.38  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.37  2013/10/28 19:10:22  revo
+Benito Subejrano: + trd oc
+
+Revision 1.36  2011/12/03 09:10:12  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.35  2009/08/08 16:32:43  revo
+Antonio Codazzi: +trd it
+
+Revision 1.34  2009/06/14 16:31:50  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.33  2009/04/17 19:49:21  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.32  2006/07/20 19:41:04  revo
+Eduardo Navas: +trd es
+
+Revision 1.31  2005/03/28 17:15:09  revo
+Alan ar Gall: kor tajperaron en trd br
+
+Revision 1.30  2005/03/20 17:50:54  revo
+-->
+</vortaro>

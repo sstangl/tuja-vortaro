@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: armen.xml,v 1.19 2015/07/04 08:37:30 revo Exp $">
+<kap>
+  <rad>armen</rad>/o
+  <ofc>8</ofc>
+</kap>
+
+<drv mrk="armen.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="armen.0o.sxtatano">
+    <dif>
+      <ref tip="super" cel="sxtat.0ano">&Scirc;tatano</ref> de
+      <ref tip="malprt" cel="alban.A0ujo"><tld lit="A"/>ujo</ref>.
+    </dif>
+  </snc>
+  <snc mrk="armen.0o.naciano">
+    <dif>
+      Homo kun <tld/>a nacieco.
+    </dif>
+  </snc>
+  <trd lng="cs">Armén</trd>
+  <trd lng="en">Armenian</trd>
+  <trd lng="fr">Arm&eacute;nien<klr> (subst.)</klr></trd>
+  <trd lng="sk">Armén</trd>
+</drv>
+
+<drv mrk="armen.0a">
+  <kap><tld/>a</kap>
+  <snc>
+    <dif>
+      Rilatanta al <tld/>oj, ilia nacieco a&ubreve; &scirc;tato.
+    </dif>
+  </snc>
+  <trd lng="cs">arménský</trd>
+  <trd lng="en">Armenian</trd>
+  <trd lng="fr">arm&eacute;nien<klr> (adj.) </klr></trd>
+  <trd lng="sk">arménsky</trd>
+</drv>
+
+<drv mrk="armen.A0ujo">
+  <kap>
+    <tld lit="A"/>ujo
+    <fnt>
+      <vrk>Oficiala Informo de AdE</vrk>,
+      <lok>numero 11</lok>
+    </fnt>
+  </kap>
+  <snc mrk="armen.A0ujo.GEOG">
+    <uzo tip="fak">GEOG</uzo>
+    <uzo tip="fak">POL</uzo>
+    <mlg>AM</mlg>
+    <dif>
+      &Scirc;tato en la centra Azio kun &ccirc;efurbo Erevano.
+      Teritorio de <em>Respubliko Armenujo</em>. &Gcirc;is 1991
+      <ref tip="vid" cel="sovet.S0unio">Sovetunia</ref> respubliko.
+      &Gcirc;i limas kun <ref tip="vid"
+      cel="azerbajg.A0o.GEOG">Azerbaj&gcirc;ano</ref>,
+      <ref tip="vid" cel="iran.I0o.GEOG">Irano</ref>,
+      <ref tip="vid" cel="kartvel.K0ujo">Kartvelujo</ref>,
+      Na&hcirc;i&ccirc;evano
+      kaj <ref tip="vid" cel="uzbek.U0ujo">Turkujo</ref>.
+    </dif>
+    <ref tip="sin" cel="armeni.A0o.GEOG">Armenio</ref>
+    </snc>
+    <trd lng="be">&c_A;&c_r;&c_m;&c_e;&c_n;&c_ib;&c_ja;</trd>
+    <trd lng="bg">&c_A;&c_r;&c_m;&c_je;&c_n;&c_i;&c_ja;</trd>
+    <trd lng="de">Armenien</trd>
+    <trd lng="en">Armenia</trd>
+    <trd lng="fa">&a_A;&a_r;&a_m;&a_n;&a_s;&a_t;&a_A;&a_n;</trd>
+    <trd lng="fr">Arm&eacute;nie</trd>
+    <trd lng="hu">&Ouml;rm&eacute;nyorsz&aacute;g</trd>
+    <trd lng="id">Armenia</trd>
+    <trdgrp lng="it">
+      <trd>Armenia</trd>,
+      <trd>Repubblica di <ind>Armenia</ind></trd>
+    </trdgrp>
+    <trd lng="nl">Armeni&euml;</trd>
+    <trdgrp lng="pl">
+      <trd>Armenia</trd>,
+      <trd>Republika <ind>Armenii</ind></trd>
+    </trdgrp>
+    <trd lng="pt">Arm&ecirc;nia</trd>
+</drv>
+
+</art>
+
+<!--
+$Log: armen.xml,v $
+Revision 1.19  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2014/06/04 04:10:36  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.16  2014/04/12 15:10:15  revo
+Damien Brucker: +trd fr
+
+Revision 1.15  2013/03/01 08:10:13  revo
+Dmitri Gabinski: redakto: +trd be
+
+Revision 1.14  2013/02/11 04:10:12  revo
+Evandro Avellar: Tr+ pt
+
+Revision 1.13  2011/02/13 01:10:13  revo
+Luiz Portella: kor. ref k mrk
+
+Revision 1.12  2010/10/26 16:31:27  revo
+Russ Williams: +armeno, armena
+
+Revision 1.11  2009/08/08 16:33:45  revo
+Russ Williams: +trd en
+
+Revision 1.10  2009/07/03 16:31:40  revo
+-->
+</vortaro>

@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: astrol2.xml,v 1.17 2015/07/04 08:37:31 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>astrologi</rad>/o
+</kap>
+<drv mrk="astrol2.0o">
+  <kap><tld/>o</kap>
+  <snc>
+    <dif>
+      &Hcirc;imera arto diveni la estonton la&ubreve; la astroj.
+    </dif>
+  </snc>
+  <trd lng="be">&c_a;&c_s;&c_t;&c_r;&c_a;&c_l;&c_jo;&c_g;&c_ib;&c_ja;</trd>
+  <trd lng="cs">astrologie</trd>
+  <trd lng="de">Astrologie</trd>
+  <trd lng="en">astrology</trd>
+  <trd lng="es">astrolog&iacute;a</trd>
+  <trdgrp lng="fa">
+    <trd>&a_A;&a_kh;&a_t;&a_r;&a_b;&f_y;&a_n;&f_y;</trd>,
+    <trd>&a_s;&a_t;&a_A;&a_r;&a_h;&zwnj;&a_b;&f_y;&a_n;&f_y;</trd>,
+    <trd>&a_T;&a_A;&a_l;&a_ayn;&zwnj;&a_b;&f_y;&a_n;&f_y;</trd>
+  </trdgrp>
+  <trd lng="fr">astrologie</trd>
+  <trdgrp lng="hu">
+    <trd>asztrol&oacute;gia</trd>,
+    <trd>csillagj&oacute;sl&aacute;s</trd>
+  </trdgrp>
+  <trd lng="it">astrologia</trd>
+  <trd lng="ru">&c_a;&c_s;&c_t;&c_r;&c_o;&c_l;&c_o;&c_g;&c_i;&c_ja;</trd>
+  <trdgrp lng="sk">
+    <trd>astrol&oacute;gia</trd>,
+    <trd>astrológia</trd>,
+    <trd>veštenie z hviezd</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="astrol2.0isto">
+  <kap><tld/>isto</kap>
+  <snc>
+    <dif>
+      Specialisto pri <tld/>o.
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="astrol1.0o">astrologo</ref>.
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_a;&c_s;&c_t;&c_r;&c_o;&c_l;&c_ja;&c_g;</trd>
+  <trdgrp lng="cs">
+    <trd>astrolog</trd>,
+    <trd>hvězdopravec</trd>
+  </trdgrp>
+  <trd lng="de">Astrologe</trd>
+  <trd lng="en">astrologist</trd>
+  <trd lng="es">astr&oacute;logo</trd>
+  <trdgrp lng="fa">
+    <trd>&a_A;&a_kh;&a_t;&a_r;&a_b;&f_y;&a_n;</trd>,
+    <trd>&a_s;&a_t;&a_A;&a_r;&a_h;&zwnj;&a_b;&f_y;&a_n;</trd>,
+    <trd>&a_T;&a_A;&a_l;&a_ayn;&zwnj;&a_b;&f_y;&a_n;</trd>
+  </trdgrp>
+  <trd lng="fr">astrologue</trd>
+  <trdgrp lng="hu">
+    <trd>asztrol&oacute;gus</trd>,
+    <trd>csillagj&oacute;s</trd>
+  </trdgrp>
+  <trd lng="it">astrologo</trd>
+  <trd lng="ru">&c_a;&c_s;&c_t;&c_r;&c_o;&c_l;&c_o;&c_g;</trd>
+  <trdgrp lng="sk">
+    <trd>astrol&oacute;g</trd>,
+    <trd>astrológ</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: astrol2.xml,v $
+Revision 1.17  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/28 12:03:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.15  2012/01/31 18:10:19  revo
+Antonio Codazzi: +trd it
+
+Revision 1.14  2009/07/01 17:20:45  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.13  2005/01/20 17:33:09  revo
+Wieland Pusch: +trd de
+
+Revision 1.12  2003/11/13 18:49:04  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.11  2002/11/01 09:16:33  revo
+Christopher Zervic: + ang
+
+Revision 1.10  2002/09/24 16:32:53  revo
+Jozefo Horvath: +trd hu, kor. trd fr > trd sk
+
+Revision 1.9  2002/09/09 19:49:33  revo
+Viliam Bur: +trd sk
+
+Revision 1.8  2002/05/15 16:40:00  revo
+-->
+</vortaro>

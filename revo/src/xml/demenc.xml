@@ -1,0 +1,151 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: demenc.xml,v 1.11 2015/07/04 08:37:32 revo Exp $">
+<kap>
+  <rad>demenc</rad>/o <fnt><bib>SPV</bib></fnt>
+</kap>
+<drv mrk="demenc.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="demenc.0o.MED">
+    <uzo tip="fak">MED</uzo>
+    <uzo tip="fak">PSI</uzo>
+    <dif>
+      Mensa perturbo kun precipe malbona memorado, parolmalfaciloj,
+      konfuzoj pri tempoj, lokoj, homoj, aperanta pro cerbodifekto,
+      maljuni&gcirc;o...:
+      <ekz>
+        oni okazigas kursojn por eviti <tld/>on
+        <fnt>
+        <aut>Hori J., pg</aut>,
+        <vrk>Tro vivi foje ne bonas</vrk>,
+        <bib>Monato</bib>,
+        <lok>jaro 2006a, numero 1a, p. 21a</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        &leftquot;temas pri modelaj simptomoj de grava
+        <tld/>o,&rightquot; mi vo&ccirc;e meditis 
+        apud la juna flegistino
+        <fnt>
+          <aut>P. Nechvile</aut>,
+          <vrk><url ref="http://www.ipernity.com/blog/34343/42200">
+          Kiel mi i&gcirc;is belaspektulo</url></vrk>,
+          <lok>2008-02-08</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="lst" cel="san.mal0o.MED" lst="voko:malsanoj">malsano</ref>
+    <refgrp tip="vid">
+      <ref cel="kaduk.0ega">kadukega</ref>
+    </refgrp>
+  </snc>
+  <trd lng="ca">dem&egrave;ncia</trd>
+  <trdgrp lng="cs">
+    <trd>demence</trd>,
+    <trd>šílenství</trd>
+  </trdgrp>
+  <trd lng="de">Demenz</trd>
+  <trd lng="en">dementia</trd>
+  <trd lng="fr">d&eacute;mence</trd>
+  <trd lng="id">demensia</trd>
+  <trd lng="it">demenza</trd>
+  <trd lng="pl">demencja</trd>
+  <trd lng="pt">dem&ecirc;ncia</trd>
+  <trd lng="sk">slabomyseľnosť</trd>
+</drv>
+
+<drv mrk="demenc.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="demenc.0i.MED">
+    <dif>
+      Agi kun simptomoj de <tld/>o.
+    </dif>
+  </snc>
+  <trd lng="ca">patir <ind>dem&egrave;ncia</ind></trd>
+  <trd lng="fr">&ecirc;tre <ind>d&eacute;ment</ind></trd>
+  <trd lng="pl">mie&cacute; <ind>demencj&eogonek;</ind></trd>
+</drv>
+
+<drv mrk="demenc.0igxi">
+  <kap><tld/>i&gcirc;i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="demenc.0igxi.MED">
+    <uzo tip="fak">MED</uzo>
+    <dif>
+      I&gcirc;i <tld/>a; pro <tld/>o senprudenti&gcirc;i:
+      <ekz>
+        mia edzino, tiam 94-jara, <tld/>i&gcirc;is
+        <fnt>
+          <aut>Kurisu Kei</aut>,
+          <vrk>Nova vivo en maljunulejo</vrk>,
+          <lok>en: Vivprotokoloj, 2009</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">devenir <ind>d&eacute;ment</ind></trd>
+</drv>
+
+<drv mrk="demenc.0ulo">
+  <kap><tld/>ulo</kap>
+  <snc mrk="demenc.0ulo.MED">
+    <dif>
+      Suferanto de <tld/>o:
+      <ekz>
+        Sehei rigardis al la sor&ccirc;isto kiel al <tld/>ulo kaj
+        sarkasme
+        demandis, kio povas resti de homo, se tiu estis hiera&ubreve;
+        kvarfoje
+        mortigita
+        <fnt>
+        <aut>L. Lukina, E. Lukin, trad. J. Finkel</aut>,
+        <vrk>La misiistoj</vrk>,
+        <lok><url ref="http://www.esperanto.mv.ru/Lukin/mis1.html">parto
+        1a</url></lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="ca">dement</trd>
+  <trd lng="cs">dementní člověk</trd>
+  <trd lng="de">Demenzkranker</trd>
+  <trd lng="fr">d&eacute;ment<klr tip="amb"> (subst.)</klr></trd>
+  <trd lng="sk">dementný človek</trd>
+</drv>
+</art>
+
+<!--
+$Log: demenc.xml,v $
+Revision 1.11  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.10  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.9  2015/03/24 00:10:13  revo
+Jeromo Vasxe: + ~igxi
+
+Revision 1.8  2014/11/17 11:11:58  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.7  2013/10/09 18:10:56  revo
+Wolfram Diestel: ref al lst malsanoj
+
+Revision 1.6  2012/07/30 13:10:15  revo
+Marc Rausell: + trd ca
+
+Revision 1.5  2009/06/03 16:30:47  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.4  2008/07/29 16:30:58  revo
+Jeromo Vasxe: + 1 ekz - rim
+
+Revision 1.3  2007/07/19 16:31:45  revo
+Tulio Flores: +tr pt
+
+Revision 1.2  2006/03/06 17:31:44  revo
+-->
+</vortaro>

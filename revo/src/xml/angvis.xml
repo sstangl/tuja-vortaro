@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: angvis.xml,v 1.18 2015/07/04 08:37:30 revo Exp $">
+<kap>
+<rad>angvis</rad>/o
+</kap>
+<drv mrk="angvis.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">ZOO</uzo>
+  <snc>
+    <dif>
+      Senpieda <ref tip="lst" cel="reptil.0o"
+      lst="voko:reptilioj">reptilio</ref>
+      naskanta vivantajn idojn;
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:zoologiaj_genroj">genro</ref> el familio <ref
+      tip="malprt"
+      cel="angvis1.0oj"><tld/>edoj</ref>
+      (<trd lng="la">Anguis</trd>). 
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_s;&c_mol;&c_l;&c_ib;&c_v;&c_je;&c_n;&c_mol;</trd>,
+    <trd>&c_v;&c_je;&c_r;&c_a;&c_c;&c_je;&c_n;&c_mol;&c_n;&c_ib;&c_c;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="ca">
+    <trd>vidriol</trd>,
+    <trd>serp de vidre</trd>,
+    <trd>noia</trd>
+  </trdgrp>
+  <trd lng="cs">slepýš</trd>
+  <trd lng="de">Blindschleiche</trd>
+  <trd lng="fr">orvet</trd>
+  <trdgrp lng="hu">
+    <trd>t&ouml;r&eacute;keny <ind>gy&iacute;k</ind></trd>,
+    <trd>l&aacute;batlan <ind>gy&iacute;k</ind></trd>
+  </trdgrp>
+  <trd lng="nl">hazelworm</trd>
+  <trdgrp lng="ru">
+    <trd>&c_m;&c_je;&c_d;&c_ja;&c_n;&c_i;&c_c;&c_a;</trd>,
+    <trd>&c_v;&c_je;&c_r;&c_je;&c_t;&c_je;&c_n;&c_n;&c_i;&c_c;&c_a;</trd>,
+    <trd>&c_v;&c_je;&c_r;&c_je;&c_t;&c_je;&c_n;&c_i;&c_c;&c_a;</trd>
+  </trdgrp>
+  <trd lng="sk">slep&uacute;ch</trd>
+</drv>
+
+</art>
+<!--
+$Log: angvis.xml,v $
+Revision 1.18  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2013/10/03 08:11:07  revo
+Wolfram Diestel: listo reptilioj
+
+Revision 1.16  2013/09/01 13:10:46  revo
+Wolfram Diestel: referenco al listo zoo genroj
+
+Revision 1.15  2012/08/04 19:10:18  revo
+Marc Rausell: + trd ca
+
+Revision 1.14  2005/12/15 17:31:20  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.13  2005/06/05 16:57:05  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.12  2004/08/16 16:33:15  revo
+Jean Hennebert: +trd fr
+
+Revision 1.11  2003/05/18 18:03:10  revo
+Viliam Bur: +trd sk
+
+Revision 1.10  2001/11/16 19:13:50  revo
+-->
+</vortaro>

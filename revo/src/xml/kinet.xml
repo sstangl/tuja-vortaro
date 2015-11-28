@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: kinet.xml,v 1.16 2015/10/06 02:10:36 revo Exp $">
+<kap>
+  <rad>kinet</rad>/a <fnt><bib>SPV</bib></fnt>
+</kap>
+<drv mrk="kinet.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="kinet.0a.FIZ">
+    <uzo tip="fak">FIZ</uzo>
+    <dif>
+      Rilata la movon.
+    </dif>
+  </snc>
+  <trd lng="en">kinetic</trd>
+  <trd lng="be">&c_k;&c_ib;&c_n;&c_e;&c_t;&c_y;&c_ch;&c_n;&c_y;</trd>
+  <trd lng="bg">&c_k;&c_i;&c_n;&c_je;&c_t;&c_i;&c_ch;&c_je;&c_n;</trd>
+  <trd lng="cs">kinetick&yacute;</trd>
+  <trd lng="de">kinetisch</trd>
+  <trd lng="fa">&a_j;&a_n;&a_b;&a_sh;&f_y;</trd>
+  <trdgrp lng="fr">
+    <trd>cin&eacute;tique<klr tip="ind"> (adj.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>kinetikus</trd>,
+    <trd>mozg&aacute;s-</trd>
+  </trdgrp>
+  <trd lng="nl">kinetisch</trd>
+  <trd lng="pl">kinetyczny</trd>
+  <trd lng="pt">cin&eacute;tico</trd>
+  <trd lng="ru">&c_k;&c_i;&c_n;&c_je;&c_t;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j;</trd>
+  <trd lng="sk">kinetick&yacute;</trd>
+</drv>
+
+<drv mrk="kinet.0aenergio">
+  <kap><tld/>a energio</kap>
+  <snc mrk="kinet.0aenergio.FIZ">
+    <uzo tip="fak">FIZ</uzo>
+    <dif>
+      Duona produto de la maso per la kvadrato de la rapido de
+      movi&gcirc;anta korpo:
+      <ekz>
+        la <tld/>a energio, kiu estas proporcia kun la kvadrato de la
+        rapido
+        <fnt>
+        <aut>OH</aut>,
+        <vrk>&Ccirc;u akvo fluas supren ie ajn en la mondo?</vrk>,
+        <bib>Monato</bib>,
+        <lok>jaro 2001a, numero 3a, p. 22a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <ref tip="super" cel="energi.0o.FIZ">energio</ref>
+  </snc>
+  <trd lng="en">kinetic energy</trd>
+  <trd lng="be">&c_k;&c_ib;&c_n;&c_e;&c_t;&c_y;&c_ch;&c_n;&c_a;&c_ja; <ind>&c_e;&c_n;&c_e;&c_r;&c_g;&c_ib;&c_ja;</ind></trd>
+  <trd lng="bg">&c_k;&c_i;&c_n;&c_je;&c_t;&c_i;&c_ch;&c_n;&c_a; &c_je;&c_n;&c_je;&c_r;&c_g;&c_i;&c_ja;</trd>
+  <trd lng="cs">kinetick&aacute; energie</trd>
+  <trdgrp lng="de">
+    <trd>kinetische Energie</trd>,
+    <trd>Bewegungsenergie</trd>
+  </trdgrp>
+  <trd lng="fa">&a_A;&a_n;&a_r;&f_zh;&f_y; &a_j;&a_n;&a_b;&a_sh;&f_y;</trd>
+  <trdgrp lng="fr">
+    <trd>&eacute;nergie cin&eacute;tique</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>kinetikus <ind>energia</ind></trd>,
+    <trd>mozg&aacute;senergia</trd>
+  </trdgrp>
+  <trd lng="nl">kinetische <ind>energie</ind></trd>
+  <trd lng="pl">energia <ind>kinetyczna</ind></trd>
+  <trd lng="ru">&c_k;&c_i;&c_n;&c_je;&c_t;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_a;&c_ja; &c_e;&c_n;&c_je;&c_r;&c_g;&c_i;&c_ja;</trd>
+  <trd lng="sk">kinetick&aacute; energia</trd>
+</drv>
+</art>
+<!--
+$Log: kinet.xml,v $
+Revision 1.16  2015/10/06 02:10:36  revo
+Evandro Avellar: +trd pt
+
+Revision 1.15  2015/09/21 05:10:21  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.14  2015/09/12 19:10:15  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.13  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.12  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.11  2010/04/30 12:25:35  revo
+Wieland Pusch: +trd bg
+
+Revision 1.10  2010/04/27 16:30:54  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.9  2004/12/13 17:32:45  revo
+-->
+</vortaro>

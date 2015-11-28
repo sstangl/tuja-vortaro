@@ -1,0 +1,279 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: absolu.xml,v 1.37 2015/10/08 14:10:22 revo Exp $">
+<kap>
+  <ofc>*</ofc><ofc>1</ofc><ofc>7</ofc>
+  <rad>absolut</rad>/a</kap> <fnt><bib>PV</bib></fnt>
+<drv mrk="absolu.0a">
+  <kap><tld/>a</kap>
+  <snc>
+    <dif>
+      Senkondi&ccirc;a, malrelativa, senrezerva, senescepta,
+      senmanka, nepra:
+      <ekz>
+	<tld/>a principo, regulo, logiko<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+	mi faros la landon <tld/>a dezerto
+	<fnt><bib>MT</bib>, <lok>&Jeh; 33:28</lok></fnt>;
+      </ekz>
+      <ekz>
+	<tld/>a manko de singardo<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+	mi estis <tld/>a amiko de via entrepreno<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+	<ind><tld/>e</ind> nenion kompreni;
+        <trd lng="ca">absolutament</trd>
+	<trdgrp lng="fr">
+	  <trd>absolument</trd>,
+	  <trd>compl&egrave;tement</trd>,
+	  <trd>enti&egrave;rement</trd>,
+	  <trd>parfaitement</trd>,
+	  <trd>pleinement</trd>,
+	  <trd>totalement</trd>,
+	  <trd>tout &agrave; fait</trd>
+	</trdgrp>
+      </ekz>
+      <ekz>
+	restis nenio <ind><tld/>e</ind>, nek por mordi nek por gluti
+	<fnt><bib>PrV</bib></fnt>.
+      </ekz>
+    </dif>
+    <subsnc mrk="absolu.0a.JUR.POL">
+      <uzo tip="fak">JUR</uzo>
+      <uzo tip="fak">POL</uzo>
+      <dif>
+        Tute sendependa de &ccirc;iu ajn povo a&ubreve; kontrolo; kies
+        potenco estas senlima kaj &ccirc;iopova:
+        <ekz>
+  	<tld/>a re&gcirc;o, potenco.
+        </ekz>
+      </dif>
+      <trd lng="de">absolut</trd>
+      <trd lng="hu">abszol&uacute;t</trd>
+      <trdgrp lng="ru">
+        <trd>&c_a;&c_b;&c_s;&c_o;&c_l;&c_ju;&c_t;&c_n;&c_y;&c_j;</trd>,
+        <trd>&c_s;&c_a;&c_m;&c_o;&c_d;&c_je;&c_r;&c_zh;&c_a;&c_v;&c_n;&c_y;&c_j;</trd>
+      </trdgrp>
+      <trd lng="sk">absol&uacute;tny</trd>
+    </subsnc>
+    <subsnc mrk="absolu.0a.SCI">
+      <uzo tip="fak">SCI</uzo>
+      <dif>
+        Plena, rekta, senpera, malrelativa,
+        konsiderata sendepende de lokaj aparta&jcirc;oj,
+        sen komparo kun aliaj objektoj,
+        kiu ne dependas de arbitra mezursistemo:
+        <ekz>
+  	<tld/>a movo, kvieto, rapido;
+        </ekz>
+        <ekz>
+  	<uzo tip="fak">POL</uzo>
+  	<ind>absoluta plimulto</ind> da vo&ccirc;oj;
+        <trd lng="ca">majoria absoluta</trd>
+  	<trd lng="de">absolute <ind>Mehrheit</ind></trd>
+          <trd lng="fa">&a_A;&f_k;&a_th;&a_r;&f_y;&a_t; <ind>&a_m;&a_T;&a_l;&a_q;</ind></trd>
+  	<trd lng="fr">majorit&eacute; absolue</trd>
+  	<trd lng="hu">abszol&uacute;t t&ouml;bbs&eacute;g</trd>
+  	<trd lng="nl">absolute <ind>meerderheid</ind></trd>
+        <trd lng="pl">wi&eogonek;kszo&sacute;&cacute; absolutna</trd>
+  	<trd lng="ru">&c_a;&c_b;&c_s;&c_o;&c_l;&c_ju;&c_t;&c_n;&c_o;&c_je;
+  	&c_b;&c_o;&c_l;&c_mol;&c_sh;&c_i;&c_n;&c_s;&c_t;&c_v;&c_o;</trd>
+        </ekz>
+        <ekz>
+  	<uzo tip="fak">MUZ</uzo>
+  	<ref cel="son.absoluta0sento"><tld/>a sonsento</ref>;
+        </ekz>
+        <ekz>
+  	<tld/>a eraro;
+        </ekz>
+        <ekz>
+  	<tld/>a alto;
+        </ekz>
+        <ekz>
+  	<uzo tip="fak">FIZ</uzo>
+  	<ind><tld/>a nulo</ind> <klr>(pri temperaturo)</klr>.
+        <trd lng="ca">zero absolut</trd>
+  	<trd lng="fr">z&eacute;ro absolu<klr tip="ind"> (phys.)</klr></trd>
+        <trd lng="pl">zero absolutne</trd>
+        </ekz>
+      </dif>
+      <ref tip="ant" cel="relati.0a.kompare">relativa</ref>
+      <trd lng="ru">&c_a;&c_b;&c_s;&c_o;&c_l;&c_ju;&c_t;&c_n;&c_y;&c_j;</trd>
+      <trd lng="de">absolut</trd>
+    </subsnc>
+    <subsnc mrk="absolu.0a.LIN">
+      <uzo tip="fak">LIN</uzo>
+      <dif>
+        Gramatike sendependa de la entenanta frazo
+        a&ubreve; malhavanta kutiman komplementon:
+        <ekz>
+  	<ind><tld/>a participo</ind>;
+        <trd lng="ca">participi absolut</trd>
+  	<trd lng="fr">participe absolu</trd>
+        </ekz>
+        <ekz>
+  	<ind><tld/>a ablativo</ind>;
+        <trd lng="ca">ablatiu absolut</trd>
+  	<trd lng="fr">ablatif absolu</trd>
+        </ekz>
+        <ekz>
+  	<tld/>e <klr>(senkomplemente a&ubreve; sensubjekte)</klr>
+  	uzita verbo.
+        </ekz>
+      </dif>
+      <trd lng="de">absolut</trd>
+      <trd lng="hu">abszol&uacute;t</trd>
+      <trd lng="ru">&c_a;&c_b;&c_s;&c_o;&c_l;&c_ju;&c_t;&c_n;&c_y;&c_j;</trd>
+    </subsnc>
+    <trd lng="de">bedingungslos</trd>
+    <trd lng="hu">felt&eacute;tlen</trd>
+    <trdgrp lng="pl">
+      <trd>absolutny</trd>,
+      <trd>bezwzgl&eogonek;dny</trd>
+    </trdgrp>
+    <trdgrp lng="ro">
+      <trd>absolut</trd>,
+      <trd>adev&abreve;rat</trd>
+    </trdgrp>
+    <trd lng="ru">&c_a;&c_b;&c_s;&c_o;&c_l;&c_ju;&c_t;&c_n;&c_y;&c_j;</trd>
+  </snc>
+  <snc>
+    <uzo tip="stl">EVI</uzo>
+    <dif>
+      Senmiksa, &hcirc;emie pura:
+      <ekz>
+	<tld/>a alkoholo.
+      </ekz>
+    </dif>
+    <rim>
+      &Scirc;ajnas ke tiu senco estas idioma&jcirc;o de kelkaj lingvoj,
+      malnecesa en Esperanto. &Scirc;ajnas ke tiusence oni aplikas &gcirc;in
+      nur al alkoholo kaj ne diras
+      <ekz>
+	<tld/>a akvo
+      </ekz>
+      ktp.
+      Do, oni prefere diru klare kaj senidioma&jcirc;e:
+      <em>pura alkoholo</em>.
+    </rim>
+    <rim>
+      Pri alkoholo "absoluta" kutime signifas ne simple
+      "&hcirc;emie pura" sed "tute senakva", tamen en Esperanto
+      &ccirc;i tiu vorto vere superfluas
+      <aut>Dmitri Gabinski</aut>.
+    </rim>
+    <trd lng="de">rein</trd>
+    <trd lng="hu">tiszta</trd>
+    <trd lng="ru">&c_ch;&c_i;&c_s;&c_t;&c_y;&c_j; <klr>(&c_p;&c_r;&c_o;
+    &c_v;&c_i;&c_n;&c_n;&c_y;&c_j; &c_s;&c_p;&c_i;&c_r;&c_t;)</klr></trd>
+  </snc>
+  <trd lng="be">&c_a;&c_b;&c_s;&c_a;&c_l;&c_ju;&c_t;&c_n;&c_y;</trd>
+  <trd lng="bg">&c_a;&c_b;&c_s;&c_o;&c_l;&c_ju;&c_t;&c_je;&c_n;</trd>
+  <trd lng="ca">absolut</trd>
+  <trdgrp lng="cs">
+    <trd>absolutn&iacute;</trd>,
+    <trd>bez p&rcaron;&iacute;m&ecaron;si</trd>,
+    <trd>naprost&yacute;</trd>,
+    <trd>&ccaron;ist&yacute;</trd>
+  </trdgrp>
+  <trd lng="en">absolute</trd>
+  <trd lng="fa">&a_m;&a_T;&a_l;&a_q;</trd>
+  <trdgrp lng="fr">
+    <trd>absolu</trd>,
+    <trd>complet</trd>,
+    <trd>illimit&eacute;</trd>,
+    <trd>parfait</trd>,
+    <trd>pur</trd>,
+    <trd>total</trd>
+  </trdgrp>
+  <trd lng="it">assoluto</trd>
+  <trd lng="ja">&#32118;&#23550;&#12398; [<ind>&#12380;&#12387;&#12383;&#12356;&#12398;</ind>]</trd>
+  <trd lng="nl">absoluut</trd>
+  <trd lng="pt">absoluto</trd>
+  <trdgrp lng="sk">
+    <trd>&uacute;pln&yacute;</trd>,
+    <trd>&ccaron;&iacute;ry</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="absolu.0ismo">
+  <kap><tld/>ismo</kap>
+  <snc mrk="absolu.0ismo.POL">
+    <uzo tip="fak">JUR</uzo>
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      Sistemo de regado per <tld/>a potenco:
+      <ekz>
+        en la rusa kamparano furiozas la cara
+        <tld/>ismo
+        <fnt><aut>J. Baghy</aut>, <vrk>Sur Sanga Tero</vrk>, 
+        <lok>1933</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_a;&c_b;&c_s;&c_a;&c_l;&c_ju;&c_t;&c_y;&c_z;&c_m;</trd>
+  <trd lng="bg">&c_a;&c_b;&c_s;&c_o;&c_l;&c_ju;&c_t;&c_i;&c_z;&c_malmol;&c_m;</trd>
+  <trd lng="ca">absolutisme</trd>
+  <trd lng="cs">absolutizmus</trd>
+  <trd lng="de">Absolutismus</trd>
+  <trdgrp lng="en">
+    <trd>absolutism</trd>,
+    <trd>autocracy</trd>
+  </trdgrp>
+  <trdgrp lng="fa">
+    <trd>&a_A;&a_s;&a_t;&a_b;&a_d;&a_A;&a_d;</trd>,
+    <trd>&a_H;&f_k;&a_w;&a_m;&a_t; &a_m;&a_T;&a_l;&a_q;&a_h;</trd>,
+    <trd>&a_m;&a_T;&a_l;&a_q;&zwnj;&f_g;&a_r;&a_A;&f_y;&f_y;</trd>
+  </trdgrp>
+  <trd lng="fr">absolutisme</trd>
+  <trd lng="hu">abszolutizmus</trd>
+  <trd lng="ja">&#32118;&#23550;&#20027;&#32681; [<ind>&#12380;&#12387;&#12383;&#12356;&#12375;&#12421;&#12366;</ind>]</trd>
+  <trd lng="nl">absolutisme</trd>
+  <trd lng="pl">absolutyzm</trd>
+  <trd lng="pt">absolutismo</trd>
+  <trd lng="ro">absolutism</trd>
+  <trdgrp lng="ru">
+    <trd>&c_a;&c_b;&c_s;&c_o;&c_l;&c_ju;&c_t;&c_i;&c_z;&c_m;</trd>,
+    <trd>&c_s;&c_a;&c_m;&c_o;&c_d;&c_je;&c_r;&c_zh;&c_a;&c_v;&c_i;&c_je;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>absolutizmus</trd>,
+    <trd>samovl&aacute;da</trd>
+  </trdgrp>
+</drv>
+<adm>
+  Aldoni rim por klarigi la oficialecon de la radiko.
+  <aut>MB</aut>
+</adm>
+</art>
+<!--
+$Log: absolu.xml,v $
+Revision 1.37  2015/10/08 14:10:22  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.36  2015/07/04 08:37:29  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.35  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.34  2013/10/27 15:10:12  revo
+Vito Redsky: +trd  pl ro
+
+Revision 1.33  2012/08/22 10:10:18  revo
+Marc Rausell: + trd ca
+
+Revision 1.32  2010/11/20 17:30:23  revo
+Jeromo Vasxe: snc/subsnc, + ekz
+
+Revision 1.31  2010/08/11 16:30:42  revo
+Wieland Pusch: +trd bg
+
+Revision 1.30  2009/11/08 17:30:38  revo
+-->
+</vortaro>

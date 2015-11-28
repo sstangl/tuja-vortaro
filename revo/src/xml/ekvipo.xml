@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: ekvipo.xml,v 1.16 2015/07/04 08:37:33 revo Exp $">
+<kap>
+<rad>ekvipolent</rad>/a
+</kap>
+<drv mrk="ekvipo.0a">
+  <kap><tld/>a</kap>
+  <uzo tip="fak">MAT</uzo>
+  <snc mrk="ekvipo.0a.strekoj">
+    <fnt><bib>MatTerm</bib><lok>p. 27</lok></fnt>
+    <dif>
+      <klr>(p.p. du <ref cel="strek.0o.segmento">strekoj</ref>)</klr>
+      <ref cel="egal.0a.izometria">Egalaj</ref> kaj paralelaj.
+    </dif>
+  </snc>
+  <snc mrk="ekvipo.0a.punktoparoj">
+    <uzo tip="klr">(afina geometrio)</uzo>
+    <dif>
+      <klr>(p.p. du <ref cel="par.punkto0o">punktoparoj</ref>
+      <frm>(A,B)</frm> kaj <frm>(C,D)</frm>)</klr>
+      Tiaj, ke la <ref cel="mez.0o.punkto.afina">mezo</ref> de
+      <frm>(A,D)</frm> egalas al tiu de <frm>(B,C)</frm>:
+      <ekz>
+        <tld/>aj punktoparoj formas 
+        <ref cel="parale2.0o">paralelogramon</ref>;
+      </ekz>
+      <ekz>
+        <ind><tld/>eco</ind> estas
+        <ref cel="rilat.ekvivalento0o">ekvivalento-rilato</ref>;
+        <trd lng="ca">equipol&middot;l&egrave;ncia</trd>
+        <trd lng="fr">&eacute;quipollence</trd>
+        <trd lng="nl">equipollentie</trd>
+      </ekz>
+      <ekz>
+        la <ref cel="ar.kvocienta0o">kvocienta aro</ref> de <tld/>eco
+        estas
+        <ref cel="spac.vektora0o">vektora spaco</ref>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_e;&c_k;&c_v;&c_ib;&c_p;&c_a;&c_l;&c_je;&c_n;&c_t;&c_n;&c_y;</trd>
+  <trd lng="ca">equipol&middot;lent</trd>
+  <trd lng="cs">ekvipolentní</trd>
+  <trdgrp lng="de">
+     <trd>&auml;quipollent</trd>
+  </trdgrp>
+  <trd lng="en">equipollent</trd>
+  <trd lng="fr">&eacute;quipollent</trd>
+  <trd lng="nl">equipollent</trd>
+  <trd lng="pt">eq&uuml;ipolente</trd>
+  <trd lng="ru">&c_e;&c_k;&c_v;&c_i;&c_p;&c_o;&c_l;&c_l;&c_je;&c_n;&c_t;&c_n;&c_y;&c_j;</trd>
+  <trd lng="sk">ekvipolentný</trd>
+</drv>
+</art>
+
+<!--
+$Log: ekvipo.xml,v $
+Revision 1.16  2015/07/04 08:37:33  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.15  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.14  2012/07/14 12:10:11  revo
+Marc Rausell: + trd ca
+
+Revision 1.13  2009/08/13 16:30:58  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.12  2007/06/24 16:30:41  revo
+Tulio Flores: +tr pt
+
+Revision 1.11  2004/04/16 16:31:43  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.10  2003/04/07 16:35:02  revo
+Marc Bavant: kor trd de
+
+Revision 1.9  2002/11/20 17:31:12  revo
+Marc Bavant: +frm
+Revision 1.8  2002/05/24 19:02:46  revo
+Ulrich Fellmann: + 2 pliaj trd de
+Revision 1.7  2002/03/13 17:36:09  revo
+Marc Bavant: +fnt; ~a (streko): -uzo klr
+Revision 1.6  2001/09/16 18:49:35  revo
+-->
+</vortaro>

@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: difraktometr.xml,v 1.4 2015/07/04 08:37:32 revo Exp $">
+<kap>
+  <rad>difraktometr</rad>/o
+</kap>
+<drv mrk="difraktometr.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="difraktometr.0o.FIZ">
+    <uzo tip="fak">FIZ</uzo>
+    <uzo tip="fak">TEK</uzo>
+    <dif>
+      <ref tip="vid" cel="difrak.0o.FIZ">Difrakto</ref>mezurilo:
+      <ekz>
+        oni obtenas la registron fotografe per Buerguer-procesia 
+        &ccirc;ambro a&ubreve; per elektrona detektilo en a&ubreve;tomata <tld/>o
+        <fnt>
+          <aut>red. R. A. M&uuml;ller</aut>,
+          <vrk><url ref="http://www.tele.ed.nom.br/ion/ew4e.html">
+          Ewaldsfero kaj Kristalaj Mezuroj</url></vrk>,
+          <lok>2003-11-18</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">difraktometr</trd>
+  <trd lng="fr">diffractom&egrave;tre</trd>
+  <trd lng="hu">difraktom&eacute;ter</trd>
+  <trd lng="sk">difraktomer</trd>
+</drv>
+</art>
+
+<!--
+$Log: difraktometr.xml,v $
+Revision 1.4  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.3  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.2  2009/10/29 17:30:50  revo
+Jozefo Horvath: +trd
+
+Revision 1.1  2009/10/15 16:32:54  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

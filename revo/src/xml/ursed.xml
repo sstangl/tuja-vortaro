@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: ursed.xml,v 1.13 2013/08/31 08:10:51 revo Exp $">
+<kap>
+   <rad>ursed</rad>/oj
+</kap>
+<drv mrk="ursed.0oj">
+   <kap>
+     <tld/>oj
+   </kap>
+   <uzo tip="fak">ZOO</uzo>
+   <snc>
+     <dif>
+       <ref tip="lst" cel="famili.0o.BIO"
+       lst="voko:zoologiaj_familioj">Familio</ref> el la ordo
+       <ref tip="malprt" cel="best.rabo0oj">rabobestoj</ref>
+       (<trd lng="la">Ursidae</trd>).
+     </dif>
+   </snc>
+   <trd 
+lng="be">&c_m;&c_ja;&c_d;&c_z;&c_mol;&c_v;&c_je;&c_d;&c_z;&c_je;&c_v;&c_y;&c_ja; 
+<klr tip="amb">(&c_s;&c_ja;&c_m;'&c_ja;)</klr></trd>
+   <trd lng="ca">&uacute;rsids</trd>
+   <trd lng="cs">medv&ecaron;dovit&iacute;</trd>
+   <trd lng="de">B&auml;ren <klr tip="ind">(Familie)</klr></trd>
+   <trd lng="fi">karhut <klr tip="amb">(nis&auml;k&auml;sheimo)</klr></trd>
+   <trd lng="fr">ursid&eacute;s</trd>
+   <trd lng="hu">medvef&eacute;l&eacute;k</trd>
+   <trd lng="it">ursidi<klr tip="amb"> (sc. naturali)</klr></trd>
+   <trd lng="nl">grote <ind>beerachtigen</ind></trd>
+   <trd lng="pt">urs&iacute;deos</trd>
+   <trdgrp lng="ru">
+     <trd>&c_m;&c_je;&c_d;&c_v;&c_je;&c_zh;&c_mol;&c_i;<klr tip="ind"> 
+(&c_s;&c_je;&c_m;&c_je;&c_j;&c_s;&c_t;&c_v;&c_o;)</klr></trd>,
+     <trd>&c_m;&c_je;&c_d;&c_v;&c_je;&c_d;&c_i; <klr 
+tip="amb">(&c_s;&c_je;&c_m;&c_je;&c_j;&c_s;&c_t;&c_v;&c_o;)</klr></trd>
+   </trdgrp>
+   <trd lng="sv">bj&ouml;rnar <klr tip="amb">(familj)</klr></trd>
+</drv>
+</art>
+<!--
+$Log: ursed.xml,v $
+Revision 1.13  2013/08/31 08:10:51  revo
+Wolfram Diestel: referenco al listozoo familioj
+
+Revision 1.12  2012/07/20 09:10:22  revo
+Marc Rausell: + trd ca
+
+Revision 1.11  2009/08/19 18:42:32  revo
+Antonio Codazzi: ++ trd it kaj la
+
+Revision 1.10  2008/12/12 17:57:31  revo
+Jerano Zachrisson: +trd sv
+
+Revision 1.9  2007/07/06 18:04:17  revo
+Harri Laine: +trd fi
+
+Revision 1.8  2004/09/21 16:31:38  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.7  2003/03/21 17:30:52  revo
+Miroslav Malovec: ald cs
+
+Revision 1.6  2002/07/11 17:32:57  revo
+-->
+</vortaro>

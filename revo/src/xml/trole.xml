@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: trole.xml,v 1.6 2015/07/04 08:37:45 revo Exp $">
+<kap>
+  <rad>trole</rad>/o <fnt><bib>SPV</bib></fnt>
+</kap>
+<drv mrk="trole.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="trole.0o.AUT">
+    <uzo tip="fak">AUT</uzo>
+    <dif>
+      Elektropera aparato el radeto ruli&gcirc;anta sur
+      elektra kablo kaj stangoj, kiuj kondukas la
+      kurenton &gcirc;is la suba veturilo:
+      <ekz>
+        <tld/>busoj uzas ordinarajn vojojn sed havas <tld/>ojn supre
+        <fnt>
+          <aut>E. Tikhonov</aut>,
+          <vrk><url ref="http://sxakludanto.narod.ru/transportiloj.htm">
+          Pri publika transportiloj en Novosibirsko</url></vrk>,
+          <lok>[2010]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="ca">tr&ograve;lei</trd>
+  <trdgrp lng="cs">
+    <trd>sběrač</trd>,
+    <trd>trolej</trd>
+  </trdgrp>
+  <trd lng="de">Stromabnehmer</trd>
+  <trdgrp lng="en">
+     <trd>trolley pole</trd>
+     <trd>trolley</trd>
+  </trdgrp>
+  <trd lng="fr">trolley</trd>
+  <trdgrp lng="sk">
+    <trd>trolej</trd>,
+    <trd>zberná tyč</trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log: trole.xml,v $
+Revision 1.6  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.5  2015/06/29 16:40:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.4  2013/12/01 20:10:18  revo
+Jessica Grasso: +tr en
+
+Revision 1.3  2012/08/14 14:10:16  revo
+Marc Rausell: + trd ca
+
+Revision 1.2  2011/04/29 19:10:41  revo
+Wieland Pusch: +trd de
+
+Revision 1.1  2011/04/18 08:10:10  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: parodi.xml,v 1.18 2015/07/04 08:37:41 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>parodi</rad>/o
+</kap>
+<drv mrk="parodi.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">BELA</uzo>
+  <snc>
+    <dif>
+      Ridiga imito de serioza verko:
+      <ekz>
+        en amba&ubreve; rakontojn, Carroll inkludas <tld/>ojn de popularaj
+        kantoj
+        por infanoj kaj de moraligaj poemoj<fnt><aut>Lewis
+        Carroll</aut>:
+        <vrk>Trans la spegulo kaj kion Alico trovis tie</vrk>,
+        <bib>Monato</bib><lok>jaro 2002a, numero 1a, p. 25a</lok></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="lauxd.mal0i">malla&ubreve;di</ref>,
+      <ref cel="satir.0o">satiro</ref>,
+      <ref cel="mok.0i">moki</ref>,
+      <ref cel="parodi.0o">parodio</ref>,
+      <ref cel="paskvi.0o">paskvilo</ref>,
+      <ref cel="vip.0i.mallauxdi">vipi</ref>,
+      <ref cel="pastic.0o">pasti&ccirc;o</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_r;&c_o;&c_d;&c_y;&c_ja;</trd>
+  <trd lng="bg">&c_p;&c_a;&c_r;&c_o;&c_d;&c_i;&c_ja;</trd>
+  <trd lng="cs">parodie</trd>
+  <trd lng="de">Parodie</trd>
+  <trdgrp lng="en">
+    <trd>travesty</trd>,
+    <trd>parody</trd>,
+    <trd>burlesque</trd>
+  </trdgrp>
+  <trd lng="es">parodia</trd>
+  <trdgrp lng="fr">
+    <trd>parodie</trd>,
+    <trd>pastiche</trd>
+  </trdgrp>
+  <trd lng="hu">par&oacute;dia</trd>
+  <trd lng="nl">parodie</trd>
+  <trd lng="pl">parodia</trd>
+  <trd lng="ru">&c_p;&c_a;&c_r;&c_o;&c_d;&c_i;&c_ja;</trd>
+  <trd lng="sk">paródia</trd>
+</drv>
+
+<drv mrk="parodi.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <uzo tip="fak">BELA</uzo>
+  <snc>
+    <dif>
+      Verki, spektigi mokimiton de serioza verko, a&ubreve;toro a&ubreve; stilo.
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="traves.0i">travestii</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_r;&c_a;&c_d;&c_y;&c_ja;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>parodizovat</trd>,
+    <trd>parodovat</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>travestieren</trd>,
+    <trd>parodieren</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>travesty</trd>,
+    <trd>parody</trd>,
+    <trd>burlesque</trd>
+  </trdgrp>
+  <trd lng="es">parodiar</trd>
+  <trdgrp lng="fr">
+    <trd>parodier</trd>,
+    <trd>pasticher</trd>
+  </trdgrp>
+  <trd lng="hu">parodiz&aacute;l</trd>
+  <trdgrp lng="nl">
+    <trd>travesteren</trd>,
+    <trd>parodi&euml;ren</trd>,
+    <trd>verkleden</trd>
+  </trdgrp>
+  <trd lng="pl">parodiowa&cacute;</trd>
+  <trd lng="pt">parodiar</trd>
+  <trd lng="ru">&c_p;&c_a;&c_r;&c_o;&c_d;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>parodovať</trd>,
+    <trd>zosmiešňovať</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: parodi.xml,v $
+Revision 1.18  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:40:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.16  2014/01/02 13:10:22  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.15  2010/04/20 16:30:21  revo
+Wieland Pusch: +trd bg
+
+Revision 1.14  2010/04/19 16:30:21  revo
+Russ Williams: +ref satiro
+
+Revision 1.13  2010/04/16 16:31:35  revo
+Russ Williams: +trd en
+
+Revision 1.12  2006/02/16 17:33:57  revo
+Tulio Flores: +trd pt
+
+Revision 1.11  2003/07/17 16:32:54  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.10  2002/12/13 17:31:46  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.9  2002/08/06 17:31:15  revo
+-->
+</vortaro>

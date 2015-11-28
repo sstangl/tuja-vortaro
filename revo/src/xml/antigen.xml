@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: antigen.xml,v 1.5 2015/07/04 08:37:30 revo Exp $">
+<kap>
+  <rad>antigen</rad>/o
+  <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="antigen.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="antigen.0o.FIZL">
+    <uzo tip="fak">FIZL</uzo>
+    <dif>
+      Proteino a&ubreve; alia substanco, kiu ka&ubreve;zas imunigan
+      reagon
+      de viva korpo per responda
+      <ref tip="vid" cel="antikorp.0o.FIZL">antikorpo</ref>:
+      <ekz>
+        T-&ccirc;ela <tld/>o
+        <fnt>
+          <aut>A. Lucas</aut>,
+          <vrk><url
+          ref="http://www.teleskopo.com/ekzemplo_de_genetika_terapio_en_francujo.pdf">
+          Ekzemplo de genetika Terapio...</url></vrk>,
+          <lok>Teleskopo, 2010 (2)</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+    <trd lng="fr">antig&egrave;ne</trd>
+    <trd lng="it">antigene</trd>
+    <trd lng="pl">antygen</trd>
+  </snc>
+  <trd lng="cs">antigen</trd>
+  <trd lng="sk">antigén</trd>
+</drv>
+</art>
+
+<!--
+$Log: antigen.xml,v $
+Revision 1.5  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.4  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.3  2010/12/09 17:30:37  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.2  2010/11/05 17:30:22  revo
+Antonio Codazzi: +trd it
+
+Revision 1.1  2010/09/27 16:30:26  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

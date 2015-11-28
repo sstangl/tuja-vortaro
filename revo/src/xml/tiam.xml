@@ -1,0 +1,241 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: tiam.xml,v 1.24 2015/07/04 08:37:44 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>tiam</rad> <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="tiam.0">
+  <kap><ofc>*</ofc><tld/></kap>
+  <gra><vspec>adverbo</vspec></gra>
+  <snc mrk="tiam.0.TEMP">
+    <dif>
+      En tiu tempo, en tiu momento:
+      <ekz>
+        <tld/> mi estis ankora&ubreve; juna;
+      </ekz>
+      <ekz>
+        <tld/> mi lo&gcirc;is en Vieno;
+      </ekz>
+      <ekz>
+        morga&ubreve; mi finos mian laboron kaj <tld/> mi estos libera;
+      </ekz>
+      <ekz>
+        <ind>de <tld/></ind> li estas malsana.
+        <trd lng="hu">akkort&oacute;l kezdve</trd>
+      </ekz>
+    </dif>
+    <trd lng="de">dann</trd>
+    <trdgrp lng="nl">
+      <trd>toen</trd>,
+      <trd>op dat <ind>moment</ind></trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>wtedy</trd>,
+      <trd>w&oacute;wczas</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="tiam.0.do">
+    <dif>
+      &Ccirc;e tiu okazo, &ccirc;e tiuj kondi&ccirc;oj:
+      <ekz>
+        rompu la murojn inter la popoloj, nur <tld/> povos malaperi tiaj
+        besta&jcirc;oj kaj krimoj<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        la artikolo estas uzata <tld/>, kiam ni parolas pri personoj
+        a&ubreve; objektoj konataj<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        ni ne uzas la akuzativon <tld/>, kiam la klareco de la senco 
+        tion &ccirc;i malpermesas<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        se ni konscios bone la esencon kaj celon de niaj kongresoj,
+        <tld/>
+        ni venados al ili kun &ccirc;iam fre&scirc;a
+        entuziasmo<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        se la senco ne montras al ni, kian prepozicion uzi, <tld/> ni
+        povas
+        uzi la komunan prepozicion je<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        se ni memoros pri la postuloj de la verda standardo, <tld/> ni
+        ne timos plu paroli kaj agi, <tld/> ni irados al nia celo
+        konscie
+        kaj kura&gcirc;e<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="do.0">do</ref>,
+      <ref cel="post.0e">poste</ref>
+    </refgrp>
+    <trd lng="nl">dan</trd>
+    <trdgrp lng="pl">
+      <trd>wtedy</trd>,
+      <trd>w&oacute;wczas</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="be">&c_t;&c_a;&c_d;&c_y;</trd>
+  <trd lng="ca">llavors</trd>
+  <trd lng="cs">v tom případě</trd>
+  <trd lng="en">then</trd>
+  <trdgrp lng="fr">
+    <trd>alors</trd>,
+    <trd>en ce <ind>temps</ind>-l&agrave;</trd>
+    <trd>en ce <ind>cas</ind></trd>
+  </trdgrp>
+  <trd lng="hu">akkor</trd>
+  <trdgrp lng="id">
+    <trd><ind>saat</ind> itu</trd>,
+    <trd><ind>waktu</ind> itu</trd>
+  </trdgrp>
+  <trd lng="oc">alara</trd>
+  <trd lng="ro">atunci</trd>
+  <trd lng="ru">&c_t;&c_o;&c_g;&c_d;&c_a;</trd>
+  <trd lng="sk">v tom prípade</trd>
+  <trd lng="sv">d&aring;</trd>
+  <trd lng="vo">t&auml;n</trd>
+</drv>
+
+<drv mrk="tiam.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="tiam.0a.TEMP">
+    <dif>
+      Ekzistanta en tiu tempo:
+      <ekz>
+        la <tld/>aj gazetoj nenion raportas pri tio.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_t;&c_a;&c_g;&c_a;&c_ch;&c_a;&c_s;&c_n;&c_y;</trd>
+  <trd lng="cs">tehdejší</trd>
+  <trdgrp lng="fr">
+    <trd>d'alors</trd>,
+    <trd>de l'<ind>&eacute;poque</ind></trd>,
+    <trd>de ce <ind>temps</ind>-l&agrave;</trd>
+  </trdgrp>
+  <trd lng="hu">akkori</trd>
+  <trd lng="nl">toenmalig</trd>
+  <trd lng="pl">&oacute;wczesny</trd>
+  <trd lng="ru">&c_t;&c_o;&c_g;&c_d;&c_a;&c_sh;&c_n;&c_i;&c_j;</trd>
+  <trd lng="sk">vtedajší</trd>
+  <trd lng="sv">d&aring;varande</trd>
+</drv>
+
+<drv mrk="tiam.gxis0a">
+  <kap>&gcirc;is<tld/>a</kap>
+  <snc mrk="tiam.gxis0a.TEMP">
+    <dif>
+      Ekzistinta pli frue kaj &gcirc;is la menciita tempo:
+      <ekz>
+        proletoj ja ne estis nur la laboristoj sed &ccirc;iuj sen posedo
+        kaj tio estis &ccirc;efe la &gcirc;is<tld/>aj servutuloj de Rusio
+        <fnt>
+          <aut>Z. Ti&scirc;ljar</aut>,
+          <vrk><url
+          ref="http://miresperanto.narod.ru/biblioteko/duobla_spiralo.htm">
+          Duobla Spiralo</url></vrk>,
+          <lok>1991</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">connu jusqu'alors</trd>
+  <trd lng="pl">dotychczasowy</trd>
+</drv>
+
+<drv mrk="tiam.0ulo">
+  <kap><tld/>ulo</kap>
+  <snc mrk="tiam.0ulo.TEMP">
+    <dif>
+      Homo vivinta en menciita tempo:
+      <ekz>
+        en la foto mankas alia <tld/>ulo, anka&ubreve; menciinda por la 
+        historiistoj, s.ro Canevari
+        <fnt>
+          <aut>M. La Torre</aut>,
+          <vrk><url
+          ref="http://it.groups.yahoo.com/group/esperantisti-italiani/message/15209">
+          amarcord</url></vrk>,
+          <lok>Esperantisti Italiani, 2007-04-22</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <refgrp tip="vid">
+    <ref cel="temp.sam0ulo">samtempulo</ref>
+  </refgrp>
+  <trd lng="fr">contemporain<klr> (subst.)</klr></trd>
+  <trd lng="sk">pamätník</trd>
+  <trd lng="cs">pamětník</trd>
+</drv>
+
+<drv mrk="tiam.iamkaj0">
+  <kap>iam kaj <tld/>,
+  <var><kap><tld/> kaj <tld/></kap></var></kap>
+  <snc mrk="tiam.iamkaj0.KOMUNE">
+    <ref tip="dif" cel="foj.00e.KOMUNE">fojfoje</ref>
+    <ekz>
+      kiel mi povis kompreni el la vortoj
+      iam kaj <tld/> &jcirc;etitaj al mi, ke &scirc;i balda&ubreve;
+      translo&gcirc;i&gcirc;os?
+      <fnt>
+        <aut>E. T&oacute;th</aut>,
+        <vrk><url
+        ref="http://esperanto.net/literaturo/bk/verk/autun.html">
+        A&ubreve;tune</url></vrk>,
+        <lok>1974</lok>
+      </fnt>;
+    </ekz>
+    <ekz>
+      malgranda papilio <klr>...</klr>
+      <tld/> kaj <tld/> vizitas min
+        <fnt>
+          <aut>P. T. Justesen</aut>,
+          <vrk><url
+          ref="http://donh.best.vwh.net/Esperanto/Literaturo/Revuoj/np/np5702/papiliou.html">
+          Papilio</url></vrk>,
+          <lok>Malgranda Revuo, 1943</lok>
+        </fnt>.
+    </ekz>
+  </snc>
+  <trd lng="fr">de temps en temps</trd>
+</drv>
+</art>
+<!--
+$Log: tiam.xml,v $
+Revision 1.24  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.23  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.22  2014/10/28 04:10:32  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.21  2013/12/14 20:10:21  revo
+Jeromo Vasxe: + iam k ~
+
+Revision 1.20  2013/06/30 15:10:12  revo
+Benito Subejrano: + trd ca oc
+
+Revision 1.19  2010/02/11 17:30:20  revo
+Marc Bavant: ~2: +ref al 'poste' sekve de diskuto en la listo
+
+Revision 1.18  2009/07/01 17:21:39  revo
+Russ Williams: +trd en
+
+Revision 1.17  2008/12/19 17:30:34  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.16  2008/01/02 17:30:28  revo
+Jeromo Vasxe: + mrk
+
+Revision 1.15  2006/03/24 17:31:16  revo
+-->
+</vortaro>

@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: diskri.xml,v 1.13 2015/07/04 08:37:32 revo Exp $">
+<kap>
+  <rad>diskriminant</rad>/o
+</kap>
+<drv mrk="diskri.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>MatTerm</bib><lok>p. 15</lok></fnt>
+  <snc>
+    <dif>
+      Iu funkcio de la koeficientoj de polinoma ekvacio:
+      <ekz>
+        la <tld/>o de la duagrada ekvacio 
+        <frm><k>a</k><k>x</k><sup>2</sup>+<k>b</k><k>x</k>+<k>c</k> = 0</frm>
+        egalas al <frm><k>b</k><sup>2</sup>-4<k>a</k><k>c</k></frm>;
+      </ekz>
+      <ekz>
+        nuli&gcirc;o de <tld/>o signifas, ke la duagrada ekvacio havas 
+        <ref cel="obl.n0a.radiko">duoblan</ref> radikon,
+      </ekz>
+      <ekz>
+        kaj se la <tld/>o estas negativa, la radikoj estas kompleksaj.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_d;&c_y;&c_s;&c_k;&c_r;&c_y;&c_m;&c_ib;&c_n;&c_a;&c_n;&c_t;</trd>
+  <trd lng="ca">discriminant</trd>
+  <trd lng="cs">diskriminant</trd>
+  <trd lng="de">Diskriminante</trd>
+  <trd lng="en">discriminant</trd>
+  <trd lng="es">discriminante</trd>
+  <trd lng="fr">discriminant</trd>
+  <trdgrp lng="pl">
+    <trd>wyr&oacute;&zdot;nik</trd>,
+    <trd>dyskryminant</trd></trdgrp>
+  <trd lng="pt">discriminante</trd>
+  <trd lng="ru">&c_d;&c_i;&c_s;&c_k;&c_r;&c_i;&c_m;&c_i;&c_n;&c_a;&c_n;&c_t;</trd>
+  <trd lng="sk">diskriminant</trd>
+</drv>
+</art>
+<!--
+$Log: diskri.xml,v $
+Revision 1.13  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.12  2007/08/08 16:30:57  revo
+Tulio Flores: +tr pt
+
+Revision 1.11  2005/12/06 17:32:50  revo
+Raul Salinas Monteagudo: +trd ca,es
+
+Revision 1.10  2003/12/13 17:34:23  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.9  2003/01/02 17:44:50  revo
+Marc Bavant: +trd pl
+
+Revision 1.8  2002/11/19 17:31:24  revo
+Marc Bavant: +frm, mod dif, mod ekz, -rim
+Revision 1.7  2002/09/18 16:34:35  revo
+Viliam Bur: +trd sk
+Revision 1.6  2002/02/23 19:58:40  revo
+Marc Bavant: +fnt, +trd de/en, +ref al n-obla, +rim
+Revision 1.5 2001/05/14 19:05:47 revo
+Marc Bavant: +trd fr; reverkis dif, +ekz
+Revision 1.4 2001/03/30 17:16:43 revo
+Yury Finkel: +trd ru
+-->
+</vortaro>
+

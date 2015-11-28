@@ -1,0 +1,484 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+<vortaro>
+<art mrk="$Id: norm.xml,v 1.49 2015/10/20 05:10:16 revo Exp $">
+<kap>
+  <ofc>2</ofc>
+  <rad>norm</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="norm.0o">
+  <kap><tld/>o</kap>
+  <snc>
+    <dif>
+      Principo a&ubreve; tipo starigita kiel regulo a&ubreve; modelo; ordinara
+      la&ubreve;regula stato:
+      <ekz>
+        ne deklini&gcirc;i de la <tld/>o.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_n;&c_o;&c_r;&c_m;&c_a;</trd>,
+      <trd>&c_s;&c_t;&c_a;&c_n;&c_d;&c_a;&c_r;&c_t;</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd>Norm</trd>,
+      <trd>Vorschrift</trd>,
+      <trd>Regel</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>norm</trd>,
+      <trd>standard</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>norma</trd>,
+      <trd>szab&aacute;ly</trd>,
+      <trd>szabv&aacute;ny</trd>
+      <trd>el&odblac;&iacute;r&aacute;s</trd>
+    </trdgrp>
+    <trd lng="nl">norm</trd>
+    <trdgrp lng="pl">
+      <trd>norma</trd>,
+      <trd>standard</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_n;&c_o;&c_r;&c_m;&c_a;</trd>,
+      <trd>&c_s;&c_t;&c_a;&c_n;&c_d;&c_a;&c_r;&c_t;</trd>
+    </trdgrp>
+  </snc>
+  <snc>
+    <dif>
+      Natura le&gcirc;o reganta iun specon:
+      <ekz>
+        <ind>sam<tld/>igi</ind> &ccirc;iujn fabrika&jcirc;ojn, laborilojn.
+        <trd lng="ca">normalitzar</trd>
+        <trd lng="hu">szabv&aacute;nyos&iacute;t</trd>
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="tip.0o">tipo</ref>,
+      <ref cel="model.0o">modelo</ref>,
+      <ref cel="sxablo.0o">&scirc;ablono</ref>,
+      <ref cel="kvant.mez0o">mezkvanto</ref>.
+    </refgrp>
+    <trdgrp lng="be">
+      <trd>&c_n;&c_o;&c_r;&c_m;&c_a;</trd>,
+      <trd>&c_s;&c_t;&c_a;&c_n;&c_d;&c_a;&c_r;&c_t;</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd>norm</trd>,
+      <trd>standard</trd>
+    </trdgrp>
+    <trd lng="hu">szabv&aacute;ny</trd>
+    <trd lng="nl">regel</trd>
+    <trdgrp lng="pl">
+      <trd>norma</trd>,
+      <trd>standard</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_n;&c_o;&c_r;&c_m;&c_a;</trd>,
+      <trd>&c_s;&c_t;&c_a;&c_n;&c_d;&c_a;&c_r;&c_t;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="norm.0o.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>PIV1</bib></fnt>
+    <dif>
+      <klr>(super reela a&ubreve; kompleksa
+      <ref cel="spac.vektora0o">vektora spaco</ref>)</klr>
+      Tia reela
+      <ref tip="super" cel="bild.0igo.MAT">bildigo</ref>
+      <frm><k>p</k></frm>,
+      ke por &ccirc;iuj ajn <ref cel="vektor.0o.MAT">vektoroj</ref>
+      <frm><k>x</k>, <k>y</k></frm>, kaj por &ccirc;iu ajn
+      <ref cel="skalar.0o.MAT">skalaro</ref> <frm>&alfa;</frm> veras:
+      (1) <frm><k>p</k>(<k>x</k>) &#8805; 0</frm>;
+      (2) <frm><k>p</k>(<k>x</k>) = 0</frm>,
+        se kaj nur se <frm><k>x</k> = 0</frm>;
+      (3) <frm><k>p</k>(&alfa;&#8729;<k>x</k>)=|&alfa;|.<k>p</k>(<k>x</k>)</frm>;
+      kaj (4) <frm><k>p</k>(<k>x</k>+<k>y</k>) &#8804;
+      <k>p</k>(<k>x</k>)+<k>p</k>(<k>y</k>)</frm>:
+      <ekz>
+        la <tld/>on de vektoro <frm><k>x</k></frm> oni ofte signas per
+        <frm>||<k>x</k>||</frm>;
+      </ekz>
+      <ekz>
+        la nocio <tld/>o plivastigas por vektoraj spacoj la nocion
+        de <ref cel="modul.0o.komplekso">modulo</ref> a&ubreve;
+        <ref cel="valor.absoluta0o">absoluta valoro</ref>;
+      </ekz>
+      <ekz>
+        por <tld/>oj super <ref
+        cel="algebr.lineara0o.strukturo">algebroj</ref>
+        oni plie postulas, ke
+        <frm><k>p</k>(<k>x</k>&#215;<k>y</k>) &#8804;
+        <k>p</k>(<k>x</k>).<k>p</k>(<k>y</k>)</frm>;
+      </ekz>
+      <ekz>
+        en spaco provizita per <ref cel="produt.skalara0o">skalara
+        produto</ref>, la bildigo
+        <frm><k>p</k>(<k>x</k>)= &#8730; &lt;<k>x</k>|<k>x</k>&gt;</frm>
+        estas <tld/>o, nomata e&ubreve;klida <tld/>o;
+      </ekz>
+      <ekz>
+        la bildigo, kiu &jcirc;etas paron <frm>(<k>x</k>,<k>y</k>)</frm> al
+        <frm>||<k>x</k>-<k>y</k>||</frm> estas
+        <ref cel="metrik.0o.MAT">metriko</ref>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_n;&c_o;&c_r;&c_m;&c_a;
+<klr>(&c_v;&c_e;&c_k;&c_t;&c_a;&c_r;&c_a;)</klr></trd>
+    <trd lng="de">Norm</trd>
+    <trd lng="en">norm</trd>
+    <trd lng="fr">norme<klr tip="ind"> (d'un vecteur)</klr></trd>
+    <trd lng="hu">norma</trd>
+    <trd lng="pl">norma<klr tip="ind"> (wektora)</klr></trd>
+    <trd lng="ru">&c_n;&c_o;&c_r;&c_m;&c_a;<klr tip="ind">
+(&c_v;&c_je;&c_k;&c_t;&c_o;&c_r;&c_a;)</klr></trd>
+  </snc>
+  <trd lng="ca">norma</trd>
+  <trdgrp lng="cs">
+    <trd>norma</trd>,
+    <trd>pravidlo</trd>,
+    <trd>p&rcaron;edpis</trd>,
+    <trd>standard</trd>
+  </trdgrp>
+  <trd lng="es">norma</trd>
+  <trd lng="pt">norma</trd>
+  <trdgrp lng="sk">
+    <trd>norma</trd>,
+    <trd>pravidlo</trd>,
+    <trd>predpis</trd>,
+    <trd>&scaron;tandard</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="norm.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="norm.0a.0rilata">
+    <dif>
+      Koncernanta la <tld/>on.
+    </dif>
+    <trd lng="ca">normatiu</trd>
+    <trd lng="de">Norm-</trd>
+    <trdgrp lng="hu">
+      <trd>szabv&aacute;ny-</trd>,
+      <trd>norma-</trd>
+    </trdgrp>
+    <trd lng="pl">normowy</trd>
+  </snc>
+  <snc mrk="norm.0a.0konforma">
+    <dif>
+      Konforma al <tld/>o, la&ubreve;<tld/>a, normala.
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_n;&c_a;&c_r;&c_m;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>,
+      <trd>&c_s;&c_t;&c_a;&c_n;&c_d;&c_a;&c_r;&c_t;&c_n;&c_y;</trd>,
+      <trd>&c_a;&c_d;&c_p;&c_a;&c_v;&c_je;&c_d;&c_n;&c_y;
+<ind>&c_n;&c_o;&c_r;&c_m;&c_je;</ind></trd>;
+      <trd>&c_a;&c_d;&c_p;&c_a;&c_v;&c_je;&c_d;&c_n;&c_y;
+<ind>&c_s;&c_t;&c_a;&c_n;&c_d;&c_a;&c_r;&c_t;&c_u;</ind></trd>.
+    </trdgrp>
+    <trd lng="ca">normal</trd>
+    <trdgrp lng="de">
+      <trd>normgerecht</trd>,
+      <trd>normgem&auml;&szlig;</trd>,
+      <trd>normiert</trd>,
+      <trd>genormt</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>szabv&aacute;nyos</trd>,
+      <trd>norma szerinti</trd>,
+      <trd>szab&aacute;lyos</trd>
+    </trdgrp>
+    <trdgrp lng="pl">
+      <trd>normatywny</trd>,
+      <trd>standardowy</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_n;&c_o;&c_r;&c_m;&c_a;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>,
+      <trd>&c_s;&c_o;&c_o;&c_t;&c_v;&c_je;&c_t;&c_s;&c_t;&c_v;&c_u;&c_ju;&c_shch;&c_i;&c_j;
+<ind>&c_n;&c_o;&c_r;&c_m;&c_je;</ind></trd>,
+      <trd>&c_s;&c_t;&c_a;&c_n;&c_d;&c_a;&c_r;&c_t;&c_n;&c_y;&c_j;</trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>noremn&iacute;</trd>,
+    <trd>normov&yacute;</trd>,
+    <trd>norm&aacute;ln&iacute;</trd>,
+    <trd>p&rcaron;edpisov&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>normal</trd>,
+    <trd>standard</trd>
+  </trdgrp>
+  <trd lng="es">normal</trd>
+  <trdgrp lng="nl">
+    <trd>normaal</trd>,
+    <trd>standaard-</trd>
+  </trdgrp>
+  <trd lng="pt">normal</trd>
+  <trdgrp lng="sk">
+    <trd>normov&yacute;</trd>,
+    <trd>predpisov&yacute;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="norm.0i">
+  <kap><tld/>i</kap>
+  <uzo tip="fak">MAT</uzo>
+  <uzo tip="klr">(fakula &jcirc;argono)</uzo>
+  <snc mrk="norm.0i.MAT">
+    <dif>
+      <klr>(<ref cel="spac.vektora0o">vektoran spacon</ref>)</klr>
+      Provizi &gcirc;in per <ref cel="norm.0o.MAT"><tld/>o <sncref/></ref>.
+    </dif>
+    <rim>
+      Ial <fnt><bib>MatVort</bib></fnt> preferis uzi
+      <ctl><tld/>igi</ctl>
+      &ccirc;i-sence, dum &scirc;ajnas, ke la senpera verba deriva&jcirc;o
+      sufi&ccirc;as. Notindas, ke <ctl><tld/>igi</ctl> jam ekzistas en
+      <fnt><bib>PIV1</bib></fnt>, sed kun malpreciza difino, kiu
+      sugestas
+      uzeblecon en kuntekstoj de la tipo
+      <ekz>
+        <tld/>igi polinomon <klr>(dividi &gcirc;in per la altgrada
+        koeficiento)</klr>
+      </ekz>
+      a&ubreve;
+      <ekz>
+        <tld/>igi nombron <klr>(prezenti &gcirc;in sub la&ubreve;norma
+        formo mantiso kaj eksponento)</klr>.
+      </ekz>
+      &Ccirc;iuokaze oni atentu ne konfuzi <ctl><tld/>i</ctl> kaj
+      &leftquot;<ref cel="norm.unu0igi">unu<tld/>igi</ref>&rightquot;, kiuj
+      ofte koincidas en nacilingvaj tradukoj.
+    </rim>
+  </snc>
+  <trd lng="be">&c_n;&c_a;&c_r;&c_m;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="ca">normar</trd>
+  <trdgrp lng="cs">
+    <trd>b&yacute;t podle normy</trd>,
+    <trd>b&yacute;t v norm&ecaron;</trd>
+  </trdgrp>
+  <trd lng="de">normieren</trd>
+  <trd lng="en">norm</trd>
+  <trd lng="es">normalizar</trd>
+  <trd lng="fr">normer<klr tip="ind"> (espace)</klr></trd>
+  <trd lng="hu">norm&aacute;l</trd>
+  <trd lng="pl">normowa&cacute;</trd>
+  <trd lng="ru">&c_n;&c_o;&c_r;&c_m;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="sk">by&tcaron; v norme</trd>
+</drv>
+
+<drv mrk="norm.0umi">
+  <kap><tld/>umi</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>PIV1</bib></fnt>
+  <snc>
+    <ref tip="dif" cel="norm.unu0igi">unu<tld/>igi.</ref>
+  </snc>
+  <trd lng="cs">normalizovat</trd>
+  <trd lng="hu">norm&aacute;l</trd>
+  <trd lng="sk">normalizova&tcaron;</trd>
+</drv>
+
+<drv mrk="norm.0umita">
+  <kap><tld/>umita</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>EKV</bib><lok>&para;298</lok></fnt>
+  <snc>
+    <ref tip="dif" cel="norm.unu0a.vektoro">unu<tld/>a <sncref/>.</ref>
+  </snc>
+</drv>
+
+<drv mrk="norm.0hava">
+  <kap>
+  <tld/>hava<fnt><bib>EKV</bib><lok>&para;298</lok></fnt>,
+  <var><kap><tld/>ohava</kap></var>,
+  <var><kap><tld/>ita<fnt><bib>PIV2</bib><lok>spaco</lok></fnt></kap></var>,
+  <var><kap><tld/>igita<fnt><bib>MatVort</bib></fnt></kap></var>
+  </kap>
+  <snc mrk="norm.0hava.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <dif>
+      <klr>(p.p. <ref cel="spac.vektora0o">vektora spaco</ref>)</klr>
+      Provizita per <ref cel="norm.0o.MAT"><tld/>o <sncref/></ref>.
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="algebr.banahxa0o">bana&hcirc;a algebro</ref>,
+      <ref cel="spac.normohava0o"><tld/>ohava spaco</ref>.
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_n;&c_a;&c_r;&c_m;&c_a;&c_v;&c_a;&c_n;&c_y;</trd>
+  <trd lng="ca">normat</trd>
+  <trd lng="de">normiert</trd>
+  <trd lng="en">normed</trd>
+  <trd lng="fr">norm&eacute;<klr tip="ind"> (espace)</klr></trd>
+  <trd lng="hu">norm&aacute;lt</trd>
+  <trd lng="nl">genormeerd</trd>
+  <trd lng="pl">unormowany</trd>
+  <trd lng="pt">normado</trd>
+  <trd lng="ru">&c_n;&c_o;&c_r;&c_m;&c_i;&c_r;&c_o;&c_v;&c_a;&c_n;&c_n;&c_y;&c_j;</trd>
+</drv>
+
+<drv mrk="norm.duon0o">
+  <kap>duon<tld/>o</kap>
+  <uzo tip="fak">MAT</uzo>
+  <snc>
+    <dif>
+      <klr>(super reela a&ubreve; kompleksa
+      <ref cel="spac.vektora0o">vektora spaco</ref>)</klr>
+      Reela <ref tip="super" cel="bild.0igo.MAT">bildigo</ref> kun samaj
+      ecoj kiel <ref cel="norm.0o.MAT"><tld/>o <sncref/></ref>,
+      krom ke la bildo de nenula vektoro rajtas esti nula:
+      <ekz>
+        se <frm><k>f</k></frm> estas lineara formo, la bildigo, kiu
+        &jcirc;etas vektoron <frm><k>x</k></frm> al
+        <frm>|<k>f</k>(<k>x</k>)|</frm> estas duon<tld/>o.
+      </ekz>
+    </dif>
+    <rim>
+      Ial <fnt><bib>PIV2</bib></fnt> preferas la formon
+      <ctl>seminormo</ctl>,
+      dum ni preferis pli skemisman terminon, kiun konas anka&ubreve;
+      la germana kaj la rusa.
+    </rim>
+  </snc>
+  <trd lng="ca">seminorma</trd>
+  <trdgrp lng="de">
+    <trd>Halbnorm</trd>,
+    <trd>Quasinorm</trd>,
+    <trd>Seminorm</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>semi-norm</trd>,
+    <trd>pseudonorm</trd>
+  </trdgrp>
+  <trd lng="fr">semi-norme</trd>
+  <trd lng="hu">f&eacute;lnorma</trd>
+  <trd lng="pl">p&oacute;&lstroke;norma</trd>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_o;&c_l;&c_u;&c_n;&c_o;&c_r;&c_m;&c_a;</trd>,
+    <trd>&c_s;&c_je;&c_m;&c_i;&c_n;&c_o;&c_r;&c_m;&c_a;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="norm.unu0a">
+  <kap>unu<tld/>a</kap>
+  <uzo tip="fak">MAT</uzo>
+  <snc>
+    <subsnc mrk="norm.unu0a.vektoro">
+      <dif>
+        <klr>(p.p. <ref cel="vektor.0o.MAT">vektoro</ref>)</klr>
+        Kies <ref cel="norm.0o.MAT"><tld/>o <sncref/></ref> egalas al
+        <frm>1</frm>.
+      </dif>
+      <ref tip="sin" cel="norm.0umita"><tld/>umita.</ref>
+      <trd lng="de">normiert<klr tip="ind"> (-er Vektor)</klr></trd>
+      <trd lng="en">normalized<klr tip="ind"> (vector)</klr></trd>
+      <trdgrp lng="fr">
+        <trd><klr tip="ind">(vecteur) </klr>norm&eacute;</trd>,
+        <trd><klr tip="ind">(vecteur) </klr>unitaire</trd>
+      </trdgrp>
+      <trd lng="hu">norm&aacute;lt<klr tip="ind"> (vektor)</klr></trd>
+      <trdgrp lng="pl">
+        <trd><klr tip="ind">(wektor) </klr>jednostkowy</trd>,
+        <trd><klr tip="ind">(wektor) </klr>unormowany</trd>
+      </trdgrp>
+      <trd lng="ru">&c_n;&c_o;&c_r;&c_m;&c_i;&c_r;&c_o;&c_v;&c_a;&c_n;&c_n;&c_y;&c_j;<klr
+tip="ind"> (&c_v;&c_je;&c_k;&c_t;&c_o;&c_r;)</klr></trd>
+    </subsnc>
+    <subsnc mrk="norm.unu0a.bazo">
+      <dif>
+        <klr>(p.p. <ref cel="baz.0o.vektoraspaco">bazo</ref>)</klr>
+        Kies elementoj estas unu<tld/>aj <sncref
+        ref="norm.unu0a.vektoro"/>.
+      </dif>
+      <trd lng="de">normiert<klr tip="ind"> (-e Basis)</klr></trd>
+      <trd lng="en">normalized<klr tip="ind"> (basis)</klr></trd>
+      <trd lng="fr"><klr tip="amb">(base) </klr>norm&eacute;e</trd>
+      <trd lng="hu">norm&aacute;lt<klr tip="ind">
+(b&aacute;zis)</klr></trd>
+      <trd lng="pl"><klr tip="amb">(baza) </klr>unormowana</trd>
+      <trd lng="ru">&c_n;&c_o;&c_r;&c_m;&c_i;&c_r;&c_o;&c_v;&c_a;&c_n;&c_n;&c_y;&c_j;<klr
+tip="ind"> (&c_b;&c_a;&c_z;&c_i;&c_s;)</klr></trd>
+    </subsnc>
+    <rim>
+      La formo <ctl>unu<tld/>a</ctl> prezentas teorian problemeton,
+      nome oni povus kompreni &gcirc;in kiel <ctl>havanta unu normon</ctl>.
+      Tamen tiu principa ambigueco &scirc;ajnas apena&ubreve; ebla kaj jam
+      ekzistas precedenco de tiaj kunmeta&jcirc;oj (ekz-e
+      <ctl>unuvalenta</ctl><fnt><bib>PIV1</bib></fnt>,
+      a&ubreve; <ctl>dekbaza</ctl><fnt><bib>PIV2</bib></fnt>).
+    </rim>
+  </snc>
+  <trd lng="ca">normalitzat</trd>
+  <trd lng="pt">normal</trd>
+</drv>
+
+<drv mrk="norm.unu0igi">
+  <kap>unu<tld/>igi</kap>
+  <uzo tip="fak">MAT</uzo>
+  <fnt><bib>PIV2</bib></fnt>
+  <uzo tip="klr">(fakula &jcirc;argono)</uzo>
+  <snc>
+    <dif>
+      <klr>(vektoron)</klr>
+      Dividi &gcirc;in per &gcirc;ia
+      <ref cel="norm.0o.MAT"><tld/>o <sncref/></ref>
+      por ricevi unu<tld/>an rezulton.
+    </dif>
+    <ref tip="sin" cel="norm.0umi"><tld/>umi.</ref>
+    <rim>
+      <ctl><tld lit="N"/>umi</ctl> troveblas en
+      <fnt><bib>PIV1</bib></fnt>,
+      <fnt><bib>MatVort</bib></fnt> kaj <fnt><bib>Deneva</bib></fnt>,
+      sed &gcirc;i ne estas tre logika: la &ccirc;efa koncepto ja estas
+      <ctl>vektoro, kies <tld/>o egalas al <frm>1</frm></ctl>. Estas
+      malfacile
+      signifi tion per deriva&jcirc;o de <ctl><tld/>umi</ctl>. Efektive,
+      <ctl><tld/>umita</ctl> ne tre ta&ubreve;gas logike, &ccirc;ar la
+      <tld/>umota kaj <tld/>umita vektoroj ne estas identaj. Tial ni
+      preferas
+      <ctl>unu<tld/>igi</ctl>, travidebla pluderiva&jcirc;o de
+      <ctl>unu<tld/>a</ctl>.
+    </rim>
+  </snc>
+  <trd lng="be">&c_n;&c_a;&c_r;&c_m;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="ca">normalitzar</trd>
+  <trd lng="cs">normalizovat</trd>
+  <trd lng="de">normieren</trd>
+  <trd lng="en">normalize</trd>
+  <trd lng="fr">normer<klr tip="ind"> (un vecteur)</klr></trd>
+  <trd lng="hu">norm&aacute;l</trd>
+  <trd lng="pt">normalizar</trd>
+  <trd lng="ru">&c_n;&c_o;&c_r;&c_m;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="sk">normalizova&tcaron;</trd>
+</drv>
+</art>
+<!--
+$Log: norm.xml,v $
+Revision 1.49  2015/10/20 05:10:16  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.48  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.47  2015/06/29 16:33:21  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.46  2012/01/01 23:10:22  revo
+Marc Rausell: +trd ca
+
+Revision 1.45  2010/11/01 17:30:31  revo
+Agustin Garcia Lopez: +trd es
+
+Revision 1.44  2010/07/10 16:30:58  revo
+Jeromo Vasxe: - kramp
+
+Revision 1.43  2006/09/18 16:30:46  revo
+Russ Williams: +trd en
+
+Revision 1.42  2004/11/23 17:31:32  revo
+-->
+</vortaro>

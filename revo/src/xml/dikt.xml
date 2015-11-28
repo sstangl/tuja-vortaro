@@ -1,0 +1,187 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: dikt.xml,v 1.20 2015/07/04 08:37:32 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>dikt</rad>/i
+</kap>
+<drv mrk="dikt.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="dikt.0i.paroli">
+    <dif>
+      La&ubreve;te paroli vortojn, skribotajn de iu alia:
+      <ekz>
+        <tld/>i versojn;
+      </ekz>
+      <ekz>
+        Baru&hcirc; enskribis en libron-rula&jcirc;on sub <tld/>ado de
+        Jeremia &ccirc;iujn vortojn de la Eternulo
+        <fnt><bib>MT</bib>, <lok>&Jer; 36:4</lok></fnt>.
+      </ekz>
+    </dif>
+    <trd lng="fa">&a_d;&f_y;&f_k;&a_t;&a_h; &f_k;&a_r;&a_d;&a_n;</trd>
+  </snc>
+  <snc mrk="dikt.0i.ordoni">
+    <dif>
+      Ordone altrudi:
+      <ekz>
+        ili pretendis <tld/>i le&gcirc;ojn al la tuta
+        esperantistaro<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        tial la trusto povas <tld/>i la prezojn.
+      </ekz>
+    </dif>
+    <trdgrp lng="fa">
+      <trd>&a_t;&a_H;&a_m;&f_y;&a_l; &f_k;&a_r;&a_d;&a_n;</trd>,
+      <trd>&a_b;&a_h; &a_z;&a_w;&a_r;
+      <ind>&a_q;&a_b;&a_w;&a_l;&a_A;&a_n;&a_d;&a_n;</ind></trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="dikt.0i.konsili">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Montri ion kiel necesan:
+      <ekz>
+        la singardo <tld/>is al ni tiun konduton;
+      </ekz>
+      <ekz>
+        faru, kion <tld/>as al vi la koro;
+      </ekz>
+      <ekz>
+        la humaneco <tld/>is al mi mian devon;
+      </ekz>
+      <ekz>
+        reguloj kaj limoj <tld/>ataj de la cirkonstancoj;
+      </ekz>
+      <ekz>
+        en &ccirc;iuj primoralaj demandoj <klr>...</klr>, &ccirc;iam
+        pla&ccirc;is al mi solvi ilin per la <tld/>ado fare de mia
+        konscienco
+        <fnt><bib>Revadoj</bib>, <lok>Kvara promenado</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_d;&c_y;&c_k;&c_t;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="bg">&c_d;&c_i;&c_k;&c_t;&c_u;&c_v;&c_a;&c_m;</trd>
+  <trd lng="ca">dictar</trd>
+  <trdgrp lng="cs">
+    <trd>diktovat <klr>(text)</klr></trd>,
+    <trd>přikazovat</trd>
+  </trdgrp>
+  <trd lng="de">diktieren</trd>
+  <trd lng="en">dictate</trd>
+  <trd lng="es">dictar</trd>
+  <trd lng="fr">dicter</trd>
+  <trd lng="pl">dyktowa&cacute;</trd>
+  <trd lng="pt">ditar</trd>
+  <trd lng="ru">&c_d;&c_i;&c_k;&c_t;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>diktovať</trd>,
+    <trd>nadiktovať</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="dikt.0ajxo">
+  <kap><tld/>a&jcirc;o</kap>
+  <snc>
+    <dif>
+      Tasko <tld/>ita <sncref ref="dikt.0i.paroli"/>:
+      <ekz>
+        li faris dek erarojn en la <tld/>a&jcirc;o<fnt>B</fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_d;&c_y;&c_k;&c_t;&c_o;&c_w;&c_k;&c_a;</trd>,
+      <trd>&c_d;&c_y;&c_k;&c_t;&c_a;&c_n;&c_t;</trd>
+    </trdgrp>
+    <trd lng="ca">dictat</trd>
+    <trd lng="es">dictado</trd>
+    <trdgrp lng="fa">
+      <trd>&a_d;&f_y;&f_k;&a_t;&a_h;</trd>,
+      <trd>&a_A;&a_m;&a_l;&a_A;&a_hamza;</trd>
+    </trdgrp>
+    <trd lng="fr">dict&eacute;e</trd>
+    <trd lng="pl">dyktando</trd>
+    <trd lng="ru">&c_d;&c_i;&c_k;&c_t;&c_a;&c_n;&c_t;</trd>
+  </snc>
+  <snc>
+    <dif>
+      Ordono <tld/>ita <sncref ref="dikt.0i.ordoni"/>:
+      <ekz>
+        mi ne pretas submeti&gcirc;i al liaj <tld/>a&jcirc;oj.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_d;&c_y;&c_k;&c_t;&c_a;&c_t;</trd>
+    <trdgrp lng="ca">
+      <trd>dictamen</trd>,
+      <trd>dictat</trd>
+    </trdgrp>
+    <trdgrp lng="fa">
+      <trd>&a_d;&a_s;&a_t;&a_w;&a_r;</trd>,
+      <trd>&a_H;&f_k;&a_m;</trd>
+    </trdgrp>
+    <trdgrp lng="fr">
+      <trd>diktat<klr tip="ind"> (injonction)</klr></trd>,
+      <trd>injonction</trd>,
+      <trd>sommation</trd>
+    </trdgrp>
+  </snc>
+  <snc>
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      Traktato, altrudita per la forto de la armiloj.
+    </dif>
+    <rim>
+      Ne temas pri absoluta nocio. Ja pactraktatoj estas ofte
+      <ctl>altruditaj
+      per la forto de la armiloj</ctl> kaj kion la venkinto povas
+      konsideri
+      normala traktato, la venkito povas konsideri abomena
+      <tld/>a&jcirc;o. La
+      uzo de tiu vorto estu prudenta.
+    </rim>
+    <trd lng="ca">imposici&oacute;</trd>
+    <trd lng="fa">&a_q;&a_r;&a_A;&a_r;&a_d;&a_A;&a_d;
+    &a_t;&a_H;&a_m;&f_y;&a_l;&f_y;</trd>
+    <trd lng="fr">diktat<klr tip="ind"> (trait&eacute; impos&eacute;)</klr></trd>
+  </snc>
+  <trd lng="bg">&c_d;&c_i;&c_k;&c_t;&c_o;&c_v;&c_k;&c_a;</trd>
+  <trd lng="de">Diktat</trd>
+</drv>
+</art>
+<!--
+$Log: dikt.xml,v $
+Revision 1.20  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2012/07/15 08:10:33  revo
+Marc Rausell: + trd ca
+
+Revision 1.17  2009/06/17 16:30:21  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.16  2009/06/16 16:31:01  revo
+Wieland Pusch: +trd bg
+
+Revision 1.15  2009/06/14 16:31:11  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.14  2007/07/28 16:30:33  revo
+Tulio Flores: +tr pt
+
+Revision 1.13  2005/12/26 19:20:33  revo
+Jeromo Vasxe: bib M -> MT
+
+Revision 1.12 2003/12/13 17:33:19 revo
+Dmitri Gabinski: +trd be
+
+Revision 1.11 2002/05/23 20:33:35 revo
+-->
+</vortaro>

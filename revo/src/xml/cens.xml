@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: cens.xml,v 1.6 2015/07/04 08:37:32 revo Exp $">
+<kap>
+<rad>cens</rad>/i
+</kap>
+<drv mrk="cens.0i">
+  <kap><tld/>i</kap>
+  <snc>
+  <uzo tip="fak">EKON</uzo>
+  <uzo tip="fak">POL</uzo>
+    <dif>
+      Datenakiri pri hava&jcirc;oj &ccirc;efe por fiskaj celoj.
+    </dif>
+  </snc>
+  <trdgrp lng="de">
+      <trd>inventarisieren</trd>,
+      <trd>eine Inventur aufnehmen</trd>,
+      <trd>eine Inventur erfassen</trd>
+  </trdgrp>
+  <trd lng="fr">inventorier</trd>
+  <trdgrp lng="nl">
+      <trd>inventariseren</trd>,
+      <trd>het <ind>vermogen</ind> bepalen</trd>
+  </trdgrp>
+  </drv>
+
+<drv mrk="cens.0o">
+  <kap><tld/>o</kap>
+  <snc>
+  <uzo tip="fak">EKON</uzo>
+    <dif>
+      Hava&jcirc;o submetebla al impostado.
+    </dif>
+  </snc>
+  <snc>
+  <uzo tip="stl">FIG</uzo>
+    <dif>
+      Monnivelo.
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>statistika</trd>,
+    <trd>sčítání lidu</trd>
+  </trdgrp>
+  <trd lng="de">Inventar</trd>
+  <trd lng="it">censo</trd>
+  <trd lng="nl">belastbaar <ind>vermogen</ind></trd>
+  <trdgrp lng="sk">
+    <trd>cenzus</trd>,
+    <trd>sčítanie</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="cens.0ado">
+  <kap><tld/>ado</kap>
+  <snc>
+  <uzo tip="fak">EKON</uzo>
+  <uzo tip="fak">POL</uzo>
+    <dif>
+      Nombrado kaj taksado de hava&jcirc;oj.
+    </dif>
+  </snc>
+  <trd lng="de">Inventur</trd>
+  <trd lng="fr">inventaire</trd>
+  <trd lng="it">censimento delle ricchezze</trd>
+  <trd lng="nl">vermogensbepaling</trd>
+</drv>
+
+<drv mrk="cens.0isto">
+  <kap><tld/>isto</kap>
+  <snc>
+  <uzo tip="fak">EKON</uzo>
+  <uzo tip="fak">POL</uzo>
+    <dif>
+      Kiu faras censadon.
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>censor</trd>,
+    <trd>cenzor</trd>
+  </trdgrp>
+  <trd lng="fr">inventoriste</trd>
+  <trd lng="it">censitore</trd>
+  <trd lng="nl">censor</trd>
+  <trd lng="sk">štatistik</trd>
+</drv>
+</art>
+
+<!--
+$Log: cens.xml,v $
+Revision 1.6  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.5  2015/06/29 16:29:36  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.4  2014/06/06 14:10:15  revo
+Damien Brucker: +trd fr
+
+Revision 1.3  2009/07/07 16:30:47  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.2  2008/11/02 17:30:24  revo
+Peter Hauser: aldoni germanan tradukon
+
+Revision 1.1  2008/09/04 19:08:01  revo
+Antonio Codazzi: nova artikolo
+
+-->
+</vortaro>

@@ -1,0 +1,139 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: tajd.xml,v 1.22 2015/07/04 08:37:44 revo Exp $">
+<kap>
+  <rad>tajd</rad>/o <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="tajd.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="tajd.0o.MAR">
+    <uzo tip="fak">MAR</uzo>
+    <dif>
+      Perioda diurna alti&gcirc;o kaj malalti&gcirc;o de la mara
+      akvo:
+      <ekz>
+        la <tld/>o <ref tip="sub" cel="flus.0i">flusas</ref>
+        kaj <ref tip="sub" cel="flus.mal0i">malflusas</ref>;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        Ho kial, Majstro granda, vi &gcirc;iajn
+        <klr>(de Esperanto)</klr> ondojn ligis
+        Per monotona <tld/>o, en samakcenta rond' &#8208;
+        Kaj mian rusan koron katenis kaj poligis
+        En via mezurita, horlo&gcirc;e-pulsa mond'!
+        <fnt><aut>N. Hohlov</aut>, <vrk>Plendo</vrk></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_r;&c_y;&c_l;&c_ib;&c_w; &c_ib;
+    &c_a;&c_d;&c_l;&c_ib;&c_w;</trd>
+  <trd lng="ca">marea</trd>
+  <trd lng="cs">příliv a odliv</trd>
+  <trdgrp lng="de">
+    <trd>Gezeit</trd>,
+    <trd>Gezeiten</trd>,
+    <trd>Tide</trd>,
+    <trd>Tiden</trd>,
+    <trd>Ebbe und Flut</trd>
+  </trdgrp>
+  <trd lng="en">tide</trd>
+  <trd lng="es">marea</trd>
+  <trd lng="fr">mar&eacute;e</trd>
+  <trd lng="hu">&aacute;rap&aacute;ly</trd>
+  <trd lng="nl">getij</trd>
+  <trd lng="pl">p&lstroke;yw<klr> morza</klr></trd>
+  <trdgrp lng="pt">
+    <trd>mar&eacute;</trd>
+  </trdgrp>
+  <trd lng="ru">&c_p;&c_r;&c_i;&c_l;&c_i;&c_v; &c_i;
+    &c_o;&c_t;&c_l;&c_i;&c_v;</trd>
+  <trd lng="sk">príliv a odliv <klr>(nám.)</klr> pren. pulzácia</trd>
+  <trd lng="sv">tidvatten</trd>
+</drv>
+
+<drv mrk="tajd.alta0o">
+  <kap>alta <tld/>o</kap>
+  <uzo tip="stl">EVI</uzo>
+  <ref tip="dif" cel="mar.alt0o">altmaro</ref>
+  <!-- formon evitindan prefere ne traduku -->
+  <trd lng="sk">príliv</trd>
+  <trd lng="cs">příliv</trd>
+</drv>
+
+<drv mrk="tajd.malalta0o">
+  <kap>malalta <tld/>o</kap>
+  <uzo tip="stl">EVI</uzo>
+  <ref tip="dif" cel="mar.malalt0o">malaltmaro</ref>
+  <!-- formon evitindan prefere ne traduku -->
+  <trd lng="sk">odliv</trd>
+  <trd lng="cs">odliv</trd>
+</drv>
+
+<rim>
+  La angla-latinidaj idioma&jcirc;oj &leftquot;alta
+  <tld/>o&rightquot;,
+  &leftquot;malalta <tld/>o&rightquot; estas malkoheraj kun la
+  &ccirc;efsenco de la vorto, kaj tial evitindaj.
+  <aut>Sergio Pokrovskij</aut>
+</rim>
+
+<drv mrk="tajd.nigra0o">
+  <kap>nigra <tld/>o</kap>
+  <snc mrk="tajd.nigra0o.EKOL">
+    <uzo tip="fak">EKOL</uzo>
+    <dif>
+      Naftamaso ellasita de transporto&scirc;ipo a&ubreve; alia fonto,
+      plejofte drivanta tra maro kaj eventuale atinganta bordon:
+      <ekz>
+        la Galicanoj malesperadis vidante la nigran <tld/>on
+        malpuriganta ilian marbordon
+        <fnt>
+          <aut>Xare, trad. D. Vesko</aut>,
+          <vrk><url
+          ref="http://hades-presse.com/archives/n0/galicie.shtml">
+          Galico - Neniam plu</url></vrk>,
+          <lok>[vidita en 2011]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="en">oil spill</trd>
+  <trd lng="fr">mar&eacute;e noire</trd>
+</drv>
+</art>
+<!--
+$Log: tajd.xml,v $
+Revision 1.22  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.21  2015/06/29 16:40:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.20  2014/10/04 16:10:30  revo
+Jeromo Vasxe: + nigra ~o
+
+Revision 1.19  2012/01/02 17:10:10  revo
+Marc Rausell: +trd ca
+
+Revision 1.18  2010/05/18 16:30:49  revo
+Agustin Garcia Lopez: +trd es
+
+Revision 1.17  2009/06/06 16:30:44  revo
+Russ Williams: +trd en
+
+Revision 1.16  2008/10/12 16:43:52  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.15  2008/06/20 16:30:20  revo
+Sergio Pokrovskij: ekz
+
+Revision 1.14  2006/02/03 17:32:06  revo
+Tulio Flores: +trd pt
+
+Revision 1.13  2004/12/13 17:33:48  revo
+-->
+</vortaro>

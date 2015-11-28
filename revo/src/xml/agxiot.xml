@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: agxiot.xml,v 1.16 2014/12/05 13:10:48 revo Exp $">
+<kap>
+  <rad>a&gcirc;iot</rad>/i
+  <fnt>Z</fnt> <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="agxiot.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc>
+  <uzo tip="fak">EKON</uzo>
+    <dif>
+      Spekuli pri la prezo&scirc;an&gcirc;o de la borsaj valora&jcirc;oj
+      a&ubreve; de komerca&jcirc;oj.
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_g;&c_u;&c_l;&c_ja;&c_c;&c_mol; &c_n;&c_a; <ind>&c_b;&c_ib;&c_r;&c_zh;&c_y;</ind></trd>,
+    <trd>&c_s;&c_p;&c_e;&c_k;&c_u;&c_l;&c_ja;&c_v;&c_a;&c_c;&c_mol; &c_n;&c_a; <ind>&c_b;&c_ib;&c_r;&c_zh;&c_y;</ind></trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>spekulieren</trd>,
+    <trd>in <ind>Differenzgesch&auml;ften</ind> <ind>spekulieren</ind></trd>,
+    <trd>Agiotage betreiben</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>stockjobbing</trd>,
+    <trd>speculate in stocks</trd>
+  </trdgrp>
+  <trd lng="es">especular<klr tip="amb"> (en bolsa)</klr></trd>
+  <trd lng="fr">agioter</trd>
+  <trdgrp lng="hu">
+    <trd>&uuml;z&eacute;rkedik</trd>,
+    <trd>spekul&aacute;l</trd>
+  </trdgrp>
+  <trdgrp lng="it">
+     <trd>aggiotare</trd>, <trd>speculare<klr> (econ.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>agiotar</trd>,
+    <trd>praticar agiotagem</trd>
+  </trdgrp>
+  <trd lng="ru">&c_i;&c_g;&c_r;&c_a;&c_t;&c_mol; &c_n;&c_a; &c_b;&c_i;&c_r;&c_zh;&c_je;</trd>
+</drv>
+
+<drv mrk="agxiot.0ado">
+  <kap><tld/>ado</kap>
+  <snc>
+  <uzo tip="fak">EKON</uzo>
+    <dif>
+      Spekulado pri prezo&scirc;an&gcirc;oj je akcioj, komerca&jcirc;oj ktp.
+    </dif>
+  </snc>
+  <trd lng="be">&c_g;&c_u;&c_l;&c_mol;&c_n;&c_ja; &c_n;&c_a; <ind>&c_b;&c_ib;&c_r;&c_zh;&c_y;</ind></trd>
+  <trdgrp lng="de">
+    <trd>Agiotage</trd>,
+    <trd>B&ouml;rsenspekulation</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>jobbing</trd>,
+    <trd>stockjobbing</trd>
+  </trdgrp>
+  <trd lng="fr">agiotage</trd>
+  <trd lng="it">aggiotaggio</trd>
+  <trd lng="es">especulaci&oacute;n<klr tip="amb"> (burs&aacute;til)</klr></trd>
+</drv>
+
+<drv mrk="agxiot.0isto">
+  <kap><tld/>isto</kap>
+  <snc>
+  <uzo tip="fak">EKON</uzo>
+    <dif>
+      Spekulanto pri prezo&scirc;an&gcirc;oj je akcioj, komerca&jcirc;oj ktp.
+    </dif>
+  </snc>
+  <trdgrp lng="de">
+    <trd>Spekulant</trd>,
+    <trd>B&ouml;rsenspekulant</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>stock <ind>jobber</ind></trd>,
+    <trd>stockjobber</trd>
+  </trdgrp>
+  <trd lng="es">especulador<klr tip="amb"> (burs&aacute;til)</klr></trd>
+  <trd lng="fr">agioteur</trd>
+  <trd lng="it">speculatore<klr> (di borsa)</klr></trd>
+</drv>
+
+</art>
+<!--
+$Log: agxiot.xml,v $
+Revision 1.16  2014/12/05 13:10:48  revo
+Damien Brucker: +trd fr
+
+Revision 1.15  2011/11/18 11:10:21  revo
+Antonio Codazzi: + trd it
+
+Revision 1.14  2010/07/19 16:30:28  revo
+Agustin Garcia Lopez: +trd es
+
+Revision 1.13  2005/02/02 17:33:28  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.12  2002/12/16 17:31:34  revo
+Ulrich Fellmann: + 2 pliaj drv ~ado, ~isto
+
+Revision 1.11  2002/10/30 18:37:41  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.10  2002/09/01 19:09:56  revo
+Ulrich Fellmann: + fontindiko
+
+Revision 1.9  2002/02/14 17:39:33  revo
+-->
+</vortaro>

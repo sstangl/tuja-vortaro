@@ -1,0 +1,144 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: uzurp.xml,v 1.24 2015/07/04 08:37:45 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>uzurp</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="uzurp.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="uzurp.0i.JUR">
+    <uzo tip="fak">JUR</uzo>
+    <dif>
+      Senrajte proprigi al si bienon, povon a&ubreve; titolon:
+      <ekz>
+        <tld/>i la tronon, la rajtojn, la agokampon de iu.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_u;&c_z;&c_u;&c_r;&c_p;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="ca">usurpar</trd>
+  <trdgrp lng="cs">
+    <trd>uchvátit</trd>,
+    <trd>uzurpovat</trd>,
+    <trd>zmocnit se protiprávně</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>besetzen</trd>,
+    <trd>erobern</trd>,
+    <trd>an sich rei&szlig;en</trd>,
+    <trd>usurpieren</trd>
+  </trdgrp>
+  <trd lng="en">usurp</trd>
+  <trd lng="es">usurpar</trd>
+  <trdgrp lng="fi">
+    <trd>anastaa</trd>,
+    <trd>kaapata</trd>
+  </trdgrp>
+  <trd lng="fr">usurper</trd>
+  <trd lng="hu">bitorol</trd>
+  <trd lng="it">usurpare</trd>
+  <trdgrp lng="nl">
+    <trd>onrechtmatig <ind>toe-eigenen</ind></trd>,
+    <trd>usurperen</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>uzurpowa&cacute;</trd>,
+    <trd>bezprawnie <ind>przyw&lstroke;aszcza&cacute;</ind></trd>
+  </trdgrp>
+  <trd lng="pt">usurpar</trd>
+  <trd lng="ru">&c_u;&c_z;&c_u;&c_r;&c_p;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>uchvátiť niečo</trd>,
+    <trd>uzurpovať <klr>(si)</klr></trd>,
+    <trd>zmocniť sa niečoho násilne</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="uzurp.0ulo">
+  <kap><tld/>ulo, <var><kap><tld/>anto</kap></var></kap>
+  <snc mrk="uzurp.0ulo.JUR">
+    <uzo tip="fak">JUR</uzo>
+    <uzo tip="fak">POL</uzo>
+    <dif>
+      Homo, kiu <tld/>is aliulan propra&jcirc;on:
+      <ekz>
+        &leftquot;kiel vi arogis kontra&ubreve;batali min, vian regnestron?&rightquot;
+        La kapitano <klr>...</klr> respondis per firma vo&ccirc;o:
+        &leftquot;Vi ne estas mia regnestro, vi estas rabisto kaj <tld/>ulo.
+        &Ccirc;u
+        vi a&ubreve;das?&rightquot;
+        <fnt>
+        <aut>A. Pu&scirc;kin, trad. M. &Scirc;idlovskaja</aut>,
+        <vrk><url ref="http://www.luin.se/inko/139-9.pdf">
+        La kapitanfilino</url></vrk>,
+        <lok>[1927]</lok>
+        </fnt>;
+      </ekz>
+      <ekz>
+        la <tld/>antojn pu&scirc;as de si tero, /
+        la arboj pafas, mordas la arbusto
+        <fnt>
+        <aut>K. Kalocsay</aut>,
+        <vrk><url
+        ref="http://donh.best.vwh.net/Esperanto/Literaturo/Poezio/kalocsay/partizanoj.html">
+        Partizanoj</url></vrk>,
+        <lok>en: Tra la &scirc;tormo, 1939-1945</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="ca">usurpador</trd>
+  <trd lng="cs">uzurpátor</trd>
+  <trdgrp lng="de">
+    <trd>Besetzer</trd>,
+    <trd>Eroberer</trd>,
+    <trd>Usurpator</trd>
+  </trdgrp>
+  <trd lng="es">usurpador</trd>
+  <trd lng="fr">usurpateur</trd>
+  <trd lng="it">usurpatore</trd>
+  <trd lng="nl">usurpator</trd>
+  <trd lng="pl">uzurpator</trd>
+  <trdgrp lng="sk">
+    <trd>samozvanec</trd>,
+    <trd>uchvatiteľ</trd>,
+    <trd>uzurpátor</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: uzurp.xml,v $
+Revision 1.24  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.23  2015/06/28 12:03:41  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.22  2014/11/23 21:10:32  revo
+Filip van Laenen: +trd(nl)
+
+Revision 1.21  2014/11/16 10:52:23  revo
+Wolfram Diestel: pliaj germ trd
+
+Revision 1.20  2014/08/30 19:10:20  revo
+Carlos Garcia: +trd es -ul
+
+Revision 1.19  2013/04/17 07:10:14  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.18  2012/01/02 18:10:25  revo
+Marc Rausell: +trd ca
+
+Revision 1.17  2009/08/18 19:20:19  revo
+Antonio Codazzi: +trd it
+
+Revision 1.16  2008/08/25 18:15:34  revo
+Jeromo Vasxe: + ~ulo
+
+Revision 1.15 2007/07/06 18:04:39 revo
+-->
+</vortaro>

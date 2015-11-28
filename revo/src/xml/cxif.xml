@@ -1,0 +1,152 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: cxif.xml,v 1.18 2012/08/18 20:10:40 revo Exp $">
+<kap>
+<ofc>*</ofc>
+<rad>&ccirc;if</rad>/i
+</kap>
+<drv mrk="cxif.0i">
+<kap><ofc>*</ofc><tld/>i</kap>
+<gra><vspec>tr</vspec></gra>
+<snc>
+<dif>
+  Difekti ion per kunpremo, krispetigante &gcirc;in: 
+<ekz>
+  <tld/>i veston, teksa&jcirc;on, paperon;
+</ekz>
+<ekz>
+  la fumo levi&gcirc;is kiel <tld/>ita rubando;
+</ekz>
+<ekz>
+  <tld/>itaj haroj.
+</ekz>
+</dif>
+  <refgrp tip="vid">
+    <ref cel="bul.0igi">buligi</ref>;
+    <ref cel="krisp.0igi">krispigi</ref>;
+    <ref cel="tauxz.0i">ta&ubreve;zi</ref>
+  </refgrp>
+<trdgrp lng="be">
+  <trd>&c_m;&c_ja;&c_c;&c_mol;</trd>,
+  <trd>&c_k;&c_a;&c_m;&c_ja;&c_ch;&c_y;&c_c;&c_mol;</trd>
+</trdgrp>
+<trdgrp lng="ca">
+  <trd>arrugar</trd>,
+  <trd>rebregar</trd>
+</trdgrp>
+<trdgrp lng="de">
+  <trd>zerknittern</trd>,
+  <trd>zerkn&uuml;llen</trd>
+</trdgrp>
+<trdgrp lng="en">
+  <trd>crumple</trd>,
+  <trd>wrinkle</trd>
+</trdgrp>
+<trd lng="es">arrugar</trd>
+<trdgrp lng="fr">
+  <trd>chiffonner</trd>,
+  <trd>froisser</trd>,
+  <trd>friper</trd></trdgrp>
+<trdgrp lng="hu">
+  <trd>gy&udblac;r</trd>,
+  <trd>&ouml;sszegy&udblac;r</trd>
+</trdgrp>
+<trdgrp lng="it">
+  <trd>stropicciare</trd>,
+  <trd>sgualcire</trd>
+</trdgrp>
+<trdgrp lng="nl">
+   <trd>verkreukelen</trd>,
+   <trd>verfrommelen</trd>
+</trdgrp>
+<trdgrp lng="pl">
+   <trd>mi&eogonek;tosi&cacute;</trd>,
+   <trd>gnie&sacute;&cacute;</trd>,
+   <trd>mi&aogonek;&cacute;</trd>
+</trdgrp>
+<trd lng="pt">amarrotar</trd>
+<trdgrp lng="ru">
+  <trd>&c_m;&c_ja;&c_t;&c_mol;</trd>,
+  <trd>&c_k;&c_o;&c_m;&c_k;&c_a;&c_t;&c_mol;</trd>
+</trdgrp>
+</snc>
+</drv>
+
+<drv mrk="cxif.0ajxo">
+  <kap><tld/>a&jcirc;o</kap>
+  <snc>
+  <dif>
+    Io <tld/>ita
+  </dif>
+  <refgrp tip="vid">
+    <ref cel="cxifon.0o">&ccirc;ifono</ref>.
+  </refgrp>
+  </snc>
+<trd lng="be">&c_k;&c_a;&c_m;&c_ja;&c_k;</trd>
+<trd lng="ca">rebrec</trd>
+<trdgrp lng="de">
+  <trd>Zerknittertes</trd>,
+  <trd>Zerkn&uuml;lltes</trd>
+</trdgrp>
+<trd lng="es">arruga</trd>
+<trdgrp lng="hu">
+  <trd>galacsin</trd>,
+  <trd>pap&iacute;rcsom&oacute;</trd>
+</trdgrp>
+<trd lng="it">straccio<klr> (cosa straccia)</klr></trd>
+<trdgrp lng="nl">
+  <trd>iets dat <ind>verkreukeld</ind> is</trd>,
+  <trd>iets dat <ind>verfrommeld</ind> is</trd>
+</trdgrp>
+<trdgrp lng="pl">
+  <trd>zwitek</trd>
+</trdgrp>
+<trd lng="ru">&c_k;&c_o;&c_m;&c_o;&c_k;</trd>
+</drv>
+
+<drv mrk="cxif.ne0ebla">
+  <kap>ne<tld/>ebla</kap>
+  <snc>
+  <dif>
+    Tiel preparita, ke oni ne povas &gcirc;in <tld/>i.
+    <ekz>
+      ne<tld/>ebla silko
+    </ekz>
+  </dif>
+  <ref tip="sin" cel="glad.ne0enda">negladenda</ref>
+  <trd lng="ca">no arrugad&iacute;s</trd>
+  <trd lng="es">inarrugable</trd>
+  <trd lng="it">ingualcibile</trd>
+  <trd lng="pl">niemn&aogonek;cy</trd>  
+  </snc>
+</drv>
+
+</art>
+<!--
+$Log: cxif.xml,v $
+Revision 1.18  2012/08/18 20:10:40  revo
+Marc Rausell: + trd ca
+
+Revision 1.17  2010/06/28 17:53:32  revo
+Agustin Garcia Lopez: +trd es
+
+Revision 1.16  2009/04/17 19:48:52  revo
+Antonio Codazzi: +trd it
+
+Revision 1.15  2007/10/31 17:30:25  revo
+Sebastian Cyprych: +ref buligi,krispigi,tauxzi +drv ne~ebla +trd pl
+
+Revision 1.14  2004/03/24 17:30:35  revo
+Jozefo Horvath: kor.. trd hu chifajho
+
+Revision 1.13  2003/12/08 17:31:58  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.12  2003/06/14 20:47:49  revo
+Paul Peeraerts: ald trd nl
+
+Revision 1.11  2003/03/28 17:31:58  revo
+-->
+</vortaro>

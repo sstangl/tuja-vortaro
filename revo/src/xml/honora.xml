@@ -1,0 +1,129 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: honora.xml,v 1.20 2015/07/04 08:37:35 revo Exp $">
+<kap>
+  <ofc>6</ofc>
+  <rad>honorari</rad>/o
+  <fnt>Z</fnt>
+</kap>
+<drv mrk="honora.0o">
+  <kap><tld/>o</kap>
+  <uzo tip="fak">EKON</uzo>
+  <fnt><bib>ZR</bib></fnt>
+  <snc>
+    <dif>
+      Neperioda salajro por iu servo de personoj praktikantaj liberan
+      profesion:
+      <ekz>
+        <tld/>o de kuracisto, de advokato.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_g;&c_a;&c_n;&c_a;&c_r;&c_a;&c_r;</trd>,
+    <trd>&c_g;&c_r;&c_a;&c_sh;&c_o;&c_v;&c_a;&c_je; &c_w;&c_z;&c_n;&c_a;&c_g;&c_a;&c_r;&c_o;&c_d;&c_zh;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
+  </trdgrp>
+  <trd lng="ca">honoraris</trd>
+  <trd lng="cs">honorář</trd>
+  <trd lng="de">Honorar</trd>
+  <trdgrp lng="en">
+    <trd>honorarium</trd>,
+    <trd>fee</trd>,
+    <trd>remuneration</trd>
+  </trdgrp>
+  <trd lng="es">honorarios</trd>
+  <trdgrp lng="fa">
+    <trd>&a_d;&a_s;&a_t;&a_m;&a_z;&a_d;</trd>,
+    <trd>&a_A;&a_j;&a_r;&a_t;</trd>,
+    <trd>&a_H;&a_q;&zwnj;&a_A;&a_l;&a_z;&a_H;&a_m;&a_h;</trd>,
+    <trd>&a_w;&f_y;&a_z;&f_y;&a_t;</trd>,
+    <trd>&a_H;&a_q;&zwnj;&a_A;&a_l;&a_w;&f_k;&a_A;&a_l;&a_h;</trd>
+  </trdgrp>
+  <trd lng="fr">honoraires</trd>
+  <trdgrp lng="hu">
+    <trd>tiszteletd&iacute;j</trd>,
+    <trd>honor&aacute;rium</trd>
+  </trdgrp>
+  <trd lng="it">onorario<klr> (sost.)</klr></trd>
+  <trd lng="nl">honorarium</trd>
+  <trd lng="pt">honor&aacute;rios</trd>
+  <trdgrp lng="ru">
+    <trd>&c_g;&c_o;&c_n;&c_o;&c_r;&c_a;&c_r;</trd>,
+    <trd>&c_d;&c_je;&c_n;&c_je;&c_zh;&c_n;&c_o;&c_je; &c_v;&c_o;&c_z;&c_n;&c_a;&c_g;&c_r;&c_a;&c_zh;&c_d;&c_je;&c_n;&c_i;&c_je;</trd>
+  </trdgrp>
+  <trd lng="sk">honorár</trd>
+</drv>
+
+<drv mrk="honora.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <uzo tip="fak">EKON</uzo>
+  <fnt><bib>ZR</bib></fnt>
+  <snc>
+    <dif>
+      Pagi <tld/>on al iu.
+    </dif>
+  </snc>
+  <trd lng="be">&c_v;&c_y;&c_p;&c_l;&c_o;&c_ch;&c_v;&c_a;&c_c;&c_mol; <ind>&c_g;&c_a;&c_n;&c_a;&c_r;&c_a;&c_r;</ind></trd>
+  <trdgrp lng="cs">
+    <trd>honorovat</trd>,
+    <trd>odměnit</trd>,
+    <trd>platit honorář</trd>
+  </trdgrp>
+  <trd lng="de"><klr>ein </klr>Honorar <ind>bezahlen</ind></trd>
+  <trdgrp lng="en">
+    <trd>pay a honorarium</trd>,
+    <trd>pay a fee</trd>,
+    <trd>remunerate</trd>
+  </trdgrp>
+  <trd lng="es">pagar <ind>honorarios</ind></trd>
+  <trd lng="fa">&a_d;&a_s;&a_t;&a_m;&a_z;&a_d; &f_p;&a_r;&a_d;&a_A;&a_kh;&a_t;&a_n;<klr> (&a_b;&a_h;)</klr></trd>
+  <trd lng="fr">payer des <ind>honoraires</ind> (&agrave; qn)</trd>
+  <trdgrp lng="hu">
+    <trd>tiszteletd&iacute;jat fizet</trd>,
+    <trd>honor&aacute;riumot fizet</trd>
+  </trdgrp>
+  <trd lng="it">pagare l'<ind>onorario</ind></trd>
+  <trd lng="nl">honoreren</trd>
+  <trd lng="pt">pagar <ind>honor&aacute;rios</ind></trd>
+  <trd lng="ru">&c_v;&c_y;&c_p;&c_l;&c_a;&c_t;&c_i;&c_t;&c_mol; &c_g;&c_o;&c_n;&c_o;&c_r;&c_a;&c_r;</trd>
+  <trdgrp lng="sk">
+    <trd>honorovať</trd>,
+    <trd>platiť honorár</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: honora.xml,v $
+Revision 1.20  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2009/09/17 16:30:50  revo
+Antonio Codazzi: +trd it
+
+Revision 1.17  2009/09/07 16:31:03  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.16  2009/02/11 19:43:39  revo
+Russ Williams: +trd en
+
+Revision 1.15  2005/10/17 16:31:23  revo
+Luiz Portella: +trd pt
+
+Revision 1.14  2005/04/28 16:34:02  revo
+Raul Salinas Monteagudo: +trd ca
+
+Revision 1.13  2004/01/16 17:30:40  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.12  2003/12/19 17:57:42  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.11  2003/01/15 17:32:59  revo
+-->
+</vortaro>

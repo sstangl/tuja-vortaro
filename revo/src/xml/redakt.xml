@@ -1,0 +1,246 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: redakt.xml,v 1.20 2015/07/04 08:37:42 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>redakt</rad>/i
+</kap>
+<drv mrk="redakt.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="redakt.0i.tekston">
+    <dif>
+      Skribe esprimi en definitiva kaj la&ubreve;cela formo:
+      <ekz>
+        <tld/>i artikolon, raporton, cirkuleron, leteron,
+        oficialan akton<fnt>B</fnt>,
+      </ekz>
+      <ekz>
+        siajn memora&jcirc;ojn, siajn pensojn<fnt>B</fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="verk.0i">verki</ref>,
+      <ref cel="formul.0i">formuli</ref>,
+      <ref cel="vort.0igi">vortigi</ref>.
+    </refgrp>
+  </snc>
+  <snc mrk="redakt.0i.gazeton">
+    <dif>
+      Direkti publikigon de gazeto, artikolaro ktp, elektante
+      publikigotajn erojn, reviziante kaj korektante ilin:
+      <ekz>
+        en la fino de tiu jaro li venis al &Scirc;anhajo por fikslo&gcirc;i kaj
+        <tld/>is la literaturajn gazetojn Ju Si kaj Ben Li&ubreve;
+        <fnt><bib>&Ccirc;A</bib>: <lok>p. 3-14 (Noto pri Lusin)</lok></fnt>;
+      </ekz>
+      <ekz>
+        distingita pro ... la Hejma vortaro, <tld/>ita de li
+        <fnt>
+          <vrk>La Esperantisto de la Jaro 2000</vrk>,
+          <bib>LOdE</bib>, <lok>2001:1(75)</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="redakt.0i.KOMP">
+    <uzo tip="fak">KOMP</uzo>
+    <dif>
+      Enigi, movi, kopii, forigi, &scirc;an&gcirc;i partojn de teksto, bildo
+      a&ubreve; alia datumaro, &scirc;an&gcirc;i &gcirc;ian aran&gcirc;on a&ubreve; prezenton:
+      <ekz>
+        <tld/>i unikodan tekstodosieron, programon;
+      </ekz>
+      <ekz>
+        for<tld/>i <klr>(forigi per <tld/>ado)</klr> la HTML-markojn.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_r;&c_e;&c_d;&c_a;&c_g;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="ca">redactar</trd>
+  <trdgrp lng="cs">
+    <trd>modifikovat</trd>,
+    <trd>redigovat</trd>,
+    <trd>upravovat</trd>
+  </trdgrp>
+  <trd lng="de">redigieren</trd>
+  <trd lng="en">edit</trd>
+  <trdgrp lng="es">
+    <trd>redactar</trd>,
+    <trd>editar</trd>
+  </trdgrp>
+  <trd lng="fr">r&eacute;diger</trd>
+  <trd lng="hu">szerkeszt</trd>
+  <trdgrp lng="nl">
+    <trd>redigeren</trd>,
+    <trd>opstellen</trd>
+  </trdgrp>
+  <trd lng="ru">&c_r;&c_je;&c_d;&c_a;&c_k;&c_t;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="sk">redigovať</trd>
+</drv>
+
+<drv mrk="redakt.0ejo">
+  <kap><tld/>ejo</kap>
+  <snc>
+    <dif>
+      Loko kie gazeto estas redaktata:
+      <ekz>
+        bona verkisto penas por eviti penon al la leganto &#8208;
+        kaj plie ne forgesas, ke la unua trovi&gcirc;as en la <tld/>ejo
+        <fnt>
+        <aut>Lanti</aut>: <vrk>Pensoj (26)</vrk>.</fnt>;
+      </ekz>
+      <ekz>
+        gazetistoj forveturis &ccirc;iu en sian <tld/>ejon por verki
+        nekrologon
+        <fnt><bib>MkM</bib>, <lok></lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_r;&c_e;&c_d;&c_a;&c_k;&c_c;&c_y;&c_ja;</trd>
+  <trd lng="ca">redacci&oacute; <klr>(oficina)</klr></trd>
+  <trd lng="cs">redakce <klr>(místnost)</klr></trd>
+  <trd lng="de">Redaktion</trd>
+  <trd lng="es">redacci&oacute;n <klr>(oficina)</klr></trd>
+  <trd lng="fr">r&eacute;daction<klr> (bureau de)</klr></trd>
+  <trd lng="hu">szerkeszt&odblac;s&eacute;g</trd>
+  <trd lng="nl">redactie</trd>
+  <trd lng="ru">&c_r;&c_je;&c_d;&c_a;&c_k;&c_c;&c_i;&c_ja;</trd>
+  <trd lng="sk">redakcia <klr>(úradovňa)</klr></trd>
+</drv>
+
+<drv mrk="redakt.0ilo">
+  <kap><tld/>ilo</kap>
+  <snc>
+  <uzo tip="fak">KOMP</uzo>
+    <dif>
+      Programaro por <tld/>i <sncref ref="redakt.0i.KOMP"/>:
+      <ekz>
+        <ind>teksta <tld/>ilo</ind>
+        <klr>(por redakti tekstajn dosierojn)</klr>;
+        <trd lng="be">&c_t;&c_e;&c_k;&c_s;&c_t;&c_a;&c_v;&c_y; &c_r;&c_e;&c_d;&c_a;&c_k;&c_t;&c_a;&c_r;</trd>
+        <trd lng="de">Textverarbeitungsprogramm</trd>
+        <trd lng="en">text editor</trd>
+        <trd lng="es">procesador de textos</trd>
+        <trd lng="hu">sz&ouml;vegszerkeszt&odblac;</trd>
+        <trd lng="ru">&c_t;&c_je;&c_k;&c_s;&c_t;&c_o;&c_v;&c_o;&c_j; &c_r;&c_je;&c_d;&c_a;&c_k;&c_t;&c_o;&c_r;</trd>
+      </ekz>
+      <ekz>
+        <ind>grafika <tld/>ilo</ind>
+        <klr>(por redakti bildojn, grafikajn dosierojn)</klr>;
+        <trd lng="be">&c_g;&c_r;&c_a;&c_f;&c_ib;&c_ch;&c_n;&c_y; &c_r;&c_e;&c_d;&c_a;&c_k;&c_t;&c_a;&c_r;</trd>
+        <trd lng="de">Bildbearbeitungsprogramm</trd>
+        <trd lng="en">graphics editor</trd>
+        <trd lng="es">editor gr&aacute;fico</trd>
+        <trd lng="hu">k&eacute;pszerkeszt&odblac;</trd>
+        <trd lng="ru">&c_g;&c_r;&c_a;&c_f;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j; &c_r;&c_je;&c_d;&c_a;&c_k;&c_t;&c_o;&c_r;</trd>
+      </ekz>
+      <ekz>
+        <ind>tipar<tld/>ilo</ind>
+        <klr>(por redakti tiparojn, ekz-e por
+        aldoni la &ccirc;apelitajn literojn)</klr>.
+        <trd lng="be">&c_r;&c_e;&c_d;&c_a;&c_k;&c_t;&c_a;&c_r; &c_sh;&c_r;&c_y;&c_f;&c_t;&c_o;&c_w;</trd>
+        <trd lng="de">Zeichensatzbearbeitungsprogramm</trd>
+        <trd lng="en">font editor</trd>
+        <trd lng="es">editor de tipos de letra</trd>
+        <trd lng="hu">bet&udblac;csomag-szerkeszt&odblac;</trd>
+        <trd lng="ru">&c_r;&c_je;&c_d;&c_a;&c_k;&c_t;&c_o;&c_r; &c_sh;&c_r;&c_i;&c_f;&c_t;&c_o;&c_v;</trd>
+      </ekz>
+      <ekz>
+        <em>UniRed</em> estas <tld/>ilo de simpla unikoda teksto
+        <fnt>
+        <aut>J. Finkel</aut>:
+        <lok><url
+        ref="http://www.esperanto.mv.ru/UniRed/UTF8/index.html">UniRed
+        &#8208; unikoda tekstoredaktilo por Vindozo 9x/NT</url></lok>.</fnt>.
+      </ekz>
+      <ekz>
+        Simredo 3.3 &#8208; Unikoda <tld/>ilo verkita per &Gcirc;avo
+        <fnt>
+        <aut>Klivo Lendon</aut>:
+        <lok><url
+        ref="http://purl.oclc.org/net/klivo/simredo">Hejmpa&gcirc;o
+        de Simredo</url></lok>.</fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="liter.0umilo">literumilo</ref>,
+      <ref cel="verk.0ilo">verkilo</ref>.
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_r;&c_e;&c_d;&c_a;&c_k;&c_t;&c_a;&c_r; <klr>(&c_p;&c_r;&c_a;&c_g;&c_r;&c_a;&c_m;&c_a;)</klr></trd>
+  <trdgrp lng="ca">
+    <trd>editor</trd>,
+    <trd>programa d'edici&oacute;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>editor</trd>,
+    <trd>počítačový program pro úpravu dat</trd>
+  </trdgrp>
+  <trd lng="en">editor</trd>
+  <trdgrp lng="es">
+    <trd>editor</trd>,
+    <trd>programa de edici&oacute;n</trd>
+  </trdgrp>
+  <trd lng="fr">&eacute;diteur<klr> (de texte)</klr></trd>
+  <trd lng="hu">szerkeszt&odblac;program</trd>
+  <trd lng="nl">tekstverwerker</trd>
+  <trd lng="ru">&c_r;&c_je;&c_d;&c_a;&c_k;&c_t;&c_o;&c_r;<klr tip="amb"> (&c_p;&c_r;&c_o;&c_g;&c_r;&c_a;&c_m;&c_m;&c_a;)</klr></trd>
+  <trdgrp lng="sk">
+    <trd>editor</trd>,
+    <trd>počítačový program na úpravu dát</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="redakt.0isto">
+  <kap><tld/>isto</kap>
+  <snc>
+    <dif>
+      Persono, kiu profesie redaktas, ekz-e gazeton.
+    </dif>
+  </snc>
+  <trd lng="be">&c_r;&c_e;&c_d;&c_a;&c_k;&c_t;&c_a;&c_r; <klr>(&c_p;&c_r;&c_a;&c_f;&c_e;&c_s;&c_ib;&c_ja;)</klr></trd>
+  <trd lng="ca">redactor</trd>
+  <trd lng="cs">redaktor</trd>
+  <trd lng="de">Redakteur</trd>
+  <trd lng="es">redactor</trd>
+  <trd lng="fr">r&eacute;dacteur</trd>
+  <trd lng="hu">szerkeszt&odblac;</trd>
+  <trd lng="ru">&c_r;&c_je;&c_d;&c_a;&c_k;&c_t;&c_o;&c_r;<klr tip="amb"> (&c_p;&c_r;&c_o;&c_f;&c_je;&c_s;&c_s;&c_i;&c_o;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_y;&c_j;)</klr></trd>
+  <trd lng="sk">redaktor</trd>
+</drv>
+</art>
+<!--
+$Log: redakt.xml,v $
+Revision 1.20  2015/07/04 08:37:42  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2014/12/13 09:10:14  revo
+Guillermo Molleda Jimena: trd es
+
+Revision 1.17  2014/05/30 08:10:33  revo
+Damien Brucker: +trd fr
+
+Revision 1.16  2011/12/11 21:10:12  revo
+Marc Rausell: +trd ca
+
+Revision 1.15  2005/06/26 16:32:40  revo
+Yury Finkel: +trd ru
+
+Revision 1.14  2003/08/06 16:31:26  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.13  2002/11/05 17:33:34  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.12  2002/10/31 12:51:04  revo
+bib-igis fnt-ojn
+
+Revision 1.11  2002/10/24 19:29:46  revo
+-->
+</vortaro>

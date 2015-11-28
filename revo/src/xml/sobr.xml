@@ -1,0 +1,127 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: sobr.xml,v 1.20 2015/07/04 08:37:43 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>sobr</rad>/a
+</kap>
+<drv mrk="sobr.0a">
+  <kap><ofc>*</ofc><tld/>a</kap>
+  <snc mrk="sobr.0a.KUI">
+    <dif>
+      Modere man&gcirc;anta a&ubreve; trinkanta.
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="abstin.0i">abstini</ref>,
+      <ref cel="fast.0i">fasti</ref>
+    </refgrp>
+  </snc>
+  <snc mrk="sobr.0a.nedrinkinta">
+    <dif>
+      Ne sub influo de alkoholo.
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="ebri">malebria</ref>,
+      <ref cel="drink.0i">nedrinkinta</ref>
+    </refgrp>
+  </snc>
+  <snc mrk="sobr.0a.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Modera, singarda, senpasia kaj senpartia:
+      <ekz>
+        <tld/>aj esprimoj;
+      </ekz>
+      <ekz>
+        &ccirc;iu <tld/>e rigardanta homo povas tuj rimarki, ke<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+    </snc>
+  <snc mrk="sobr.0a.kuirata">
+    <dif>
+      Man&gcirc;a&jcirc;o sen spico kaj salo.
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_p;&c_a;&c_m;&c_ja;&c_r;&c_k;&c_o;&c_w;&c_n;&c_y;</trd>, 
+      <trd>&c_u;&c_s;&c_t;&c_r;&c_y;&c_m;&c_a;&c_n;&c_y;</trd>, 
+      <trd>&c_s;&c_mol;&c_c;&c_ib;&c_p;&c_l;&c_y;</trd>
+    </trdgrp>
+  </snc>
+  <trd lng="be">&c_c;&c_mol;&c_v;&c_ja;&c_r;&c_o;&c_z;&c_y;</trd>
+  <trd lng="ca">sobri</trd>
+  <trdgrp lng="cs">
+    <trd>střídmý</trd>,
+    <trd>střízlivý</trd>,
+    <trd>zdrženlivý</trd>
+  </trdgrp>
+  <trd lng="de">n&uuml;chtern</trd>
+  <trd lng="en">sober</trd>
+  <trd lng="es">sobrio, -a</trd>
+  <trd lng="fr">sobre</trd>
+  <trd lng="hu">j&oacute;zan</trd>
+  <trdgrp lng="nl">
+    <trd>nuchter</trd>,
+    <trd>sober</trd>
+  </trdgrp>
+  <trd lng="ru">&c_t;&c_r;&c_je;&c_z;&c_v;&c_y;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>striezlivý</trd>,
+    <trd>triezvy</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="sobr.0igxi">
+  <kap><tld/>i&gcirc;i</kap>
+  <snc mrk="sobr.0igxi.KOMUNE">
+    <dif>
+      Moderi&gcirc;i, eviti ebriecon, eksceson, troigon, patoson...:
+      <ekz>
+        tiu, kiu vivis sendiscipline, sed poste <tld/>i&gcirc;is, briligas la 
+        mondon kiel la luno libera de nuboj
+        <fnt><aut>trad. T. T. Anuruddha</aut>, <vrk>La Vojo al Nirvano 
+        a&ubreve; la Dhammapado, 13:172</vrk>, <lok>B&#7891;-T&aacute;t-Csoma-Instituto
+        por  
+        Budhologio, 1973</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="ca">
+    <trd>moderar-se</trd>,
+    <trd>abstenir-se</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: sobr.xml,v $
+Revision 1.20  2015/07/04 08:37:43  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.19  2015/06/29 16:33:23  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.18  2015/05/01 15:10:16  revo
+Peter Hauser: + dif 4 (de Wiktionary), kor. dif -igxi
+
+Revision 1.17  2015/05/01 14:10:16  revo
+Peter Hauser: + dif 4 (de Wiktionary)
+
+Revision 1.16  2012/08/04 12:10:24  revo
+Marc Rausell: + trd ca
+
+Revision 1.15  2009/09/26 16:31:36  revo
+Russ Williams: +trd en
+
+Revision 1.14  2006/11/02 17:30:45  revo
+Jeromo Vasxe: + ~igxi
+
+Revision 1.13  2006/06/09 16:31:02  revo
+Eduardo Navas: +trd es
+
+Revision 1.12  2004/11/03 17:31:11  revo
+Jozefo Horvath: komp post ref malebria
+
+Revision 1.11  2004/10/18 16:32:47  revo
+-->
+</vortaro>

@@ -1,0 +1,288 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: mam.xml,v 1.46 2015/07/04 08:37:39 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>mam</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="mam.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="mam.0o.ina">
+    <uzo tip="fak">ANA</uzo>
+    <dif>
+      Elstara parto de la brusto &ccirc;e virinoj a&ubreve;
+      de la ventro &ccirc;e bestinoj, kiu entenas la laktajn glandojn.
+    </dif>
+    <trd lng="fa">&f_p;&a_s;&a_t;&a_A;&a_n;</trd>
+    <trdgrp lng="hu">
+      <trd>mell</trd>,
+      <trd>eml&odblac;</trd>
+      <trd>csecs</trd>
+    </trdgrp>
+    <trd lng="id">payudara</trd>
+    <trdgrp lng="it">
+      <trd>mammella</trd>,
+      <trd>seno</trd>,
+      <trd>poppa</trd>,
+      <trd>tetta</trd>
+    </trdgrp>
+    <trdgrp lng="pt">
+      <trd>mama</trd>,
+      <trd>peito</trd>,
+      <trd>teta</trd>,
+      <trd>&uacute;bere</trd>,
+      <trd>ubre</trd>
+    </trdgrp>
+    <trd lng="tr">meme</trd>
+  </snc>
+  <snc mrk="mam.0o.vira">
+    <dif>
+      Responda parto de la brusto &ccirc;e viro.
+    </dif>
+    <trdgrp lng="en">
+      <trd>chest</trd>,
+      <trd>breast</trd>
+    </trdgrp>
+    <trd lng="fa">&a_s;&f_y;&a_n;&a_h;</trd>
+    <trd lng="hu">mell</trd>
+    <trd lng="it">petto</trd>
+  </snc>
+  <trd lng="lat">mamma, ae</trd>
+  <trd lng="bg">&c_g;&c_malmol;&c_r;&c_d;&c_a;</trd>
+  <trd lng="br">bronn</trd>
+  <trdgrp lng="ca">
+    <trd>pit</trd>,
+    <trd>mamella</trd>
+  </trdgrp>
+  <trd lng="cs">prs</trd>
+  <trd lng="de">Brust</trd>
+  <trdgrp lng="en">
+    <trd>breast</trd>,
+    <trd>teat</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>mamelle</trd>,
+    <trd>sein<klr> (mamelle)</klr></trd>
+  </trdgrp>
+  <trd lng="he">&shin;&dalet;</trd>
+  <trdgrp lng="nl">
+    <trd>borst<klr tip="ind"> (v. vrouw)</klr></trd>,
+    <trd>uier</trd>
+  </trdgrp>
+  <trd lng="pl">pier&sacute;</trd>
+  <trdgrp lng="ru">
+    <trd>&c_g;&c_r;&c_u;&c_d;&c_mol;
+    <klr>(&c_zh;&c_je;&c_n;&c_s;&c_k;&c_a;&c_ja;)</klr></trd>,
+    <trd>&c_m;&c_o;&c_l;&c_o;&c_ch;&c_n;&c_a;&c_ja;
+    &c_zh;&c_je;&c_l;&c_je;&c_z;&c_a;</trd>
+  </trdgrp>
+  <trd lng="sk">prsník</trd>
+  <trd lng="sv">br&ouml;st</trd>
+</drv>
+
+<drv mrk="mam.0eto">
+  <kap><tld/>eto</kap>
+  <snc mrk="mam.0eto.ANA">
+    <uzo tip="fak">ANA</uzo>
+    <ref tip="dif" cel="pint.mam0o">mampinto</ref>
+  </snc>
+  <trd lng="br">beg ar vronn</trd>
+  <trd lng="ca">mugr&oacute;</trd>
+  <trd lng="de">Brustwarze</trd>
+  <trd lng="en">nipple</trd>
+  <trd lng="fa">&a_n;&a_w;&f_k; <ind>&f_p;&a_s;&a_t;&a_A;&a_n;</ind></trd>
+  <trdgrp lng="fr">
+    <trd>mamelon</trd>,
+    <trd>t&ecirc;ton</trd>
+  </trdgrp>
+  <trd lng="he">&pe;&tet;&mem;&he;</trd>
+  <trd lng="hu">mellbimb&oacute;</trd>
+  <trd lng="id">puting</trd>
+  <trd lng="it">capezzolo</trd>
+  <trd lng="lat">papilla, ae</trd>
+  <trd lng="nl">tepel</trd>
+  <trd lng="pl">brodawka</trd>
+  <trd lng="pt">mamilo;</trd>
+  <trd lng="ru">&c_s;&c_o;&c_s;&c_o;&c_k;</trd>
+  <trd lng="sv">br&ouml;stv&aring;rta</trd>
+  <trd lng="tr">meme ba&scedil;&inodot;</trd>
+</drv>
+
+<drv mrk="mam.0ingo">
+  <kap><tld/>ingo</kap>
+  <snc mrk="mam.0ingo.TEKS">
+    <uzo tip="fak">TEKS</uzo>
+    <dif>
+      Parto de
+      <ref tip="malprt" cel="zon.mam0o.TEKS">mamzono</ref>,
+      kiu kovras unu mamon:
+      <ekz>
+        bikino havas mamzonon kun &scirc;elketoj
+        kaj rondaj <tld/>ingoj
+        <fnt>
+          <bib>Viki</bib>,
+          <lok><url ref="http://eo.wikipedia.org/wiki/Bikino">
+          bikino</url>, 2013-10-29</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">podprsenka</trd>
+  <trd lng="fr">bonnet de soutien-gorge</trd>
+  <trd lng="sk">podprsenka</trd>
+</drv>
+
+<drv mrk="mam.0ulo">
+  <kap><tld/>ulo</kap>
+  <snc mrk="mam.0ulo.ZOO">
+    <dif>
+      Iu el <ref tip="malprt" cel="mam.0uloj"><tld/>uloj</ref>.
+    </dif>
+  </snc>
+  <trd lng="cs">savec</trd>
+  <trd lng="sk">cicavec</trd>
+</drv>
+
+<drv mrk="mam.0uloj">
+  <kap><tld/>uloj</kap>
+  <snc mrk="mam.0uloj.ZOO">
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      Animaloj kies idoj estas nutrataj per
+      su&ccirc;ado de patrina lakto;
+      <ref tip="lst" cel="klas.0o.BIO"
+      lst="voko:zoologiaj_klasoj">klaso</ref> de
+      <ref tip="malprt" cel="verteb.0uloj">vertebruloj</ref>
+      (<trd lng="la">Mammalia</trd>);
+      <ref tip="sin" cel="best.mam0oj.ZOO"><tld/>bestoj</ref>:
+      <ekz>
+        la granda pando <klr>...</klr> estas &ccirc;arma
+        <tld/>ulo vivanta libere nur en &Ccirc;inio
+        <fnt>
+          <aut>Peng Jianjun</aut>:
+          <vrk>Kloni grandan pandon</vrk>,
+          <bib>Monato</bib>,
+          <lok>2001:4, p. 25a</lok></fnt>.
+      </ekz>
+    </dif>
+    <lstref lst="voko:mamuloj"><tld/>uloj</lstref>
+  </snc>
+  <trd lng="bg">&c_b;&c_o;&c_z;&c_a;&c_j;&c_n;&c_i;&c_c;&c_i;</trd>
+  <trd lng="br">bronneged</trd>
+  <trd lng="ca">mam&iacute;fers</trd>
+  <trd lng="cs">savce</trd>
+  <trd lng="de">S&auml;ugetiere</trd>
+  <trd lng="en">mammals</trd>
+  <trd lng="fa">&f_p;&a_s;&a_t;&a_A;&a_n;&a_d;&a_A;&a_r;&a_A;&a_n;</trd>
+  <trd lng="fr">mammif&egrave;res</trd>
+  <trd lng="he">&yod;&vav;&nun;&qof;&yod;&fmem;</trd>
+  <trd lng="hu">eml&odblac;s&ouml;k</trd>
+  <trd lng="id">mamalia</trd>
+  <trd lng="it">mammiferi</trd>
+  <trd lng="nl">zoogdieren</trd>
+  <trd lng="pl">ssaki</trd>
+  <trd lng="pt">mam&iacute;feros</trd>
+  <trd lng="ru">&c_m;&c_l;&c_je;&c_k;&c_o;&c_p;&c_i;&c_t;&c_a;&c_ju;&c_shch;&c_i;&c_je;</trd>
+  <trd lng="sk">cicavce</trd>
+  <trd lng="tr">memeliler</trd>
+</drv>
+
+<drv mrk="mam.de0igi">
+  <kap>de<tld/>igi</kap>
+  <snc mrk="mam.de0igi.PED">
+    <uzo tip="fak">PED</uzo>
+    <dif>
+      Senigi idon je <tld/>nutrado
+      por alkutimigi &gcirc;in al malflua
+      nutra&jcirc;o.
+    </dif>
+  </snc>
+  <trdgrp lng="lat">
+    <trd>a matre <ind>depello, ere</ind></trd>,
+    <trd>a mamma <ind>disiungo, ere</ind></trd>,
+    <trd>ablacto, are</trd>
+  </trdgrp>
+  <trd lng="br">dizona&ntilde;</trd>
+  <trd lng="ca">deslletar</trd>
+  <trd lng="cs">odstavit kojence</trd>
+  <trd lng="de">abstillen</trd>
+  <trdgrp lng="en">
+    <trd>wean</trd>,
+    <trd>ablactate</trd>
+  </trdgrp>
+  <trd lng="fa">&a_A;&a_z; <ind>&a_sh;&f_y;&a_r;</ind> &f_g;&a_r;&a_f;&a_t;&a_n;</trd>
+  <trd lng="fr">sevrer</trd>
+  <trd lng="he">&lamed;<ind>&gimel;&mem;&vav;&lamed;</ind> <klr>(&tav;&yod;&nun;&vav;&qof;
+  &mem;&yod;&nun;&yod;&qof;&he;)</klr></trd>
+  <trd lng="hu">elv&aacute;laszt<klr tip="amb"> (csecsem&odblac;t)</klr></trd>
+  <trd lng="id">[<ind>sapih</ind>] menyapih</trd>
+  <trd lng="it">svezzare</trd>
+  <trd lng="nl">spenen</trd>
+  <trd lng="pl">odstawi&cacute; od piersi</trd>
+  <trd lng="pt">desmamar</trd>
+  <trd lng="ru">&c_o;&c_t;&c_n;&c_ja;&c_t;&c_mol; &c_o;&c_t;
+  &c_g;&c_r;&c_u;&c_d;&c_i;</trd>
+  <trd lng="sk">odstaviť dojča</trd>
+</drv>
+
+<drv mrk="mam.pra0ulo">
+  <kap>pra<tld/>ulo</kap>
+  <snc>
+    <dif>
+      Iu el <ref tip="malprt" cel="mam.pra0uloj">pra<tld/>uloj</ref>.
+    </dif>
+  </snc>
+</drv>
+
+<drv mrk="mam.pra0uloj">
+  <kap>pra<tld/>uloj</kap>
+  <snc mrk="mam.pra0uloj.ZOO">
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      Subklaso de <ref tip="malprt" cel="mam.0uloj"><tld/>uloj</ref>
+      (<trd lng="la">Protheria</trd>) kun la sola ordo unutruuloj
+      (<trd lng="la">Monotremata</trd>), kies anoj demetas ovojn.
+    </dif>
+    <refgrp tip="prt">
+      <ref cel="erinac.posx0o">po&scirc;erinaco</ref>,
+      <ref cel="ornito1.0o">ornitorinko</ref>
+    </refgrp>
+  </snc>
+  <trd lng="de">Urs&auml;uger</trd>
+</drv>
+
+</art>
+<!--
+$Log: mam.xml,v $
+Revision 1.46  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.45  2015/06/29 16:33:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.44  2014/06/09 16:10:37  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.43  2014/05/30 17:10:24  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.42  2014/03/26 02:10:24  revo
+Jeromo Vasxe: ~ingo preciz. dif + ekz
+
+Revision 1.41  2014/01/21 13:10:17  revo
+Damien Brucker: +ref
+
+Revision 1.40  2013/11/22 09:10:16  revo
+Damien Brucker: aldono de mamingo
+
+Revision 1.39  2013/11/02 12:10:21  revo
+Wolfram Diestel: +~ulo
+
+Revision 1.38  2013/10/23 17:10:14  revo
+Wolfram Diestel: kor. ref-cel
+
+Revision 1.37  2013/10/23 12:10:20  revo
+-->
+</vortaro>

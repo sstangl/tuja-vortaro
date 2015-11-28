@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: jut.xml,v 1.18 2015/07/04 08:37:36 revo Exp $">
+<kap>
+  <rad>jut</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="jut.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="jut.0o.BOT">
+    <uzo tip="fak">BOT</uzo>
+    <dif>
+      Hinda teksebla planto;
+      genro el familio liliacoj.
+    </dif>
+    <trd lng="de">Jute</trd>
+    <trdgrp lng="it">
+      <trd>corcoro</trd>, 
+      <trd>iuta</trd>, 
+      <trd>juta</trd>
+    </trdgrp>
+    <trd lng="la">Corchorus</trd>
+    <trd lng="pl">juta</trd>
+  </snc>
+  <snc mrk="jut.0o.TEKS">
+    <uzo tip="fak">TEKS</uzo>
+    <dif>
+      Teksmaterialo el prilaboro de
+      <ref tip="vid" cel="jut.0o.BOT"><tld/>o</ref>:
+      <ekz>
+        hindoj teksas siajn vestojn
+        el <tld/>o.
+      </ekz>
+    </dif>
+    <trd lng="pl">juta</trd>
+  </snc>
+  <trd lng="be">&c_d;&c_zh;&c_u;&c_t;</trd>
+  <trd lng="bg">&c_ju;&c_t;&c_a;</trd>
+  <trd lng="cs">juta</trd>
+  <trdgrp lng="de">
+    <trd>Jute</trd>,
+    <trd>Jutefaser</trd>,
+    <trd>Bastfaser</trd>,
+    <trd>Bastgewebe</trd>
+  </trdgrp>
+  <trd lng="el">&gamma;&jota;&omikron;&ypsilon_ton;&tau;&alfa;</trd>
+  <trd lng="en">jute</trd>
+  <trd lng="fr">jute</trd>
+  <trd lng="hu">juta</trd>
+  <trdgrp lng="it">
+    <trd>iuta</trd>, 
+    <trd>juta</trd>
+    </trdgrp>
+  <trd lng="nl">jute</trd>
+  <trd lng="pt">juta</trd>
+  <trd lng="ru">&c_d;&c_zh;&c_u;&c_t;</trd>
+  <trd lng="sk">juta</trd>
+  <trd lng="sv">jute</trd>
+</drv>
+</art>
+<!--
+$Log: jut.xml,v $
+Revision 1.18  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.17  2015/06/29 16:33:16  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.16  2012/08/27 06:10:11  revo
+Sebastian Cyprych: +trd pl,la
+
+Revision 1.15  2011/05/29 22:10:12  revo
+Jeromo Vasxe: - num + mrk
+
+Revision 1.14  2009/03/18 17:32:04  revo
+Antonio Codazzi: +trd it
+
+Revision 1.13  2008/02/12 17:30:21  revo
+Wieland Pusch: +trd bg
+
+Revision 1.12  2008/02/11 17:30:41  revo
+Russ Williams: +trd en
+
+Revision 1.11  2004/02/27 17:30:38  revo
+Emmanuel Debanne: + trd fr
+
+Revision 1.10  2003/04/28 16:32:48  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.9  2002/10/14 16:33:31  revo
+-->
+</vortaro>

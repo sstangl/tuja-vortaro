@@ -1,0 +1,213 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: konklu.xml,v 1.17 2015/07/04 08:37:37 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>konklud</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="konklu.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="konklu.0i.LOG">
+    <dif>
+      Tiri per <ref cel="rezon.0o">rezono</ref> 
+      <ref cel="logik.0a">logikajn</ref> 
+      <ref tip="sin" cel="konsek1.0o">konsekvencojn</ref> el 
+      <ref cel="argume.0o.LOG">argumentoj</ref>,
+      <ref cel="princi.0o.regulo">principoj</ref> a&ubreve; 
+      <ref cel="fakt.0o">faktoj</ref>:
+      <ekz>
+        el tio, kion ni scias, ni povas <tld/>i, ke...;
+      </ekz>
+      <ekz>
+        <tld/>i el aparta fakto &gcirc;eneralan principon.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_r;&c_a;&c_b;&c_ib;&c_c;&c_mol; <ind>&c_v;&c_y;&c_s;&c_n;&c_o;&c_v;&c_u;</ind></trd>
+  <trdgrp lng="cs">
+    <trd>docházet k závěru</trd>,
+    <trd>konkludovat</trd>,
+    <trd>soudit</trd>,
+    <trd>uzavírat</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+     <trd>folgern</trd>,
+     <trd>schlie&szlig;en</trd>,
+     <trd>einen <ind>Schluss ziehen</ind></trd>,
+     <trd>schlussfolgern</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>conclude</trd>,
+    <trd>deduce</trd>,
+    <trd>infer</trd>
+  </trdgrp>
+  <trd lng="fr">conclure</trd>
+  <trd lng="hu">k&ouml;vetkeztet</trd>
+  <trd lng="nl">concluderen</trd>
+  <trdgrp lng="pt">
+    <trd>concluir</trd>,
+    <trd>tirar <ind>conclus&atilde;o</ind> de</trd>,    
+    <trd>depreender</trd>,    
+    <trd>inferir</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_d;&c_je;&c_l;&c_a;&c_t;&c_mol; &c_v;&c_y;&c_v;&c_o;&c_d;</trd>,
+    <trd>&c_z;&c_a;&c_k;&c_l;&c_ju;&c_ch;&c_i;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>dochádzať k záveru</trd>,
+    <trd>súdiť</trd>,
+    <trd>uzatvárať</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="konklu.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="konklu.0o.LOG">
+    <dif>
+      Fina <ref tip="sin" cel="konsek1.0o">konsekvenco</ref> de 
+      <ref cel="rezon.0i">rezonado</ref>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="flu.el0i">elflui</ref>.
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_v;&c_y;&c_s;&c_n;&c_o;&c_v;&c_a;</trd>,
+    <trd>&c_v;&c_y;&c_n;&c_ib;&c_k;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>konkluze</trd>,
+    <trd>závěr</trd>,
+    <trd>úsudek</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+     <trd>Folgerung</trd>,
+     <trd>Schluss</trd>,
+     <trd>Schlussfolgerung</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>conclusion</trd>,
+    <trd>deduction</trd>,
+    <trd>inference</trd>
+  </trdgrp>
+  <trd lng="fr">conclusion</trd>
+  <trd lng="hu">k&ouml;vetkeztet&eacute;s</trd>
+  <trd lng="nl">conclusie</trd>
+  <trdgrp lng="ru">
+    <trd>&c_v;&c_y;&c_v;&c_o;&c_d;</trd>,
+    <trd>&c_z;&c_a;&c_k;&c_l;&c_ju;&c_ch;&c_je;&c_n;&c_i;&c_je;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>konklúzia</trd>,
+    <trd>uzáver</trd>,
+    <trd>záver</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="konklu.0e">
+  <kap><tld/>e</kap>
+  <snc mrk="konklu.0e.LOG">
+    <dif>
+      Kiel <tld/>o,
+      <ref tip="vid" cel="fin.0e">fine</ref>,
+      <ref tip="vid" cel="do.0">do</ref>.
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_u; <ind>&c_v;&c_y;&c_n;&c_ib;&c_k;&c_u;</ind></trd>,
+    <trd>&c_n;&c_a;&c_p;&c_r;&c_y;&c_k;&c_a;&c_n;&c_c;&c_y;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>tudíž</trd>,
+    <trd>závěrem</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+     <trd>folglich</trd>,
+     <trd>ergo</trd>,
+     <trd>also</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>en conclusion</trd>,
+    <trd>par cons&eacute;quent</trd>
+  </trdgrp>
+  <trd lng="hu">k&ouml;vetkez&eacute;sk&eacute;ppen</trd>
+  <trd lng="nl">bijgevolg</trd>
+  <trdgrp lng="ru">
+    <trd>&c_v; &c_z;&c_a;&c_k;&c_l;&c_ju;&c_ch;&c_je;&c_n;&c_i;&c_je;</trd>,
+    <trd>&c_i;&c_t;&c_a;&c_k;</trd>
+  </trdgrp>
+  <trd lng="sk">záverom</trd>
+</drv>
+
+<drv mrk="konklu.0iga">
+  <kap><tld/>iga</kap>
+  <snc mrk="konklu.0iga.LOG">
+    <dif>
+      Ebliganta <tld/>on.
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>konkludentní</trd>,
+    <trd>přesvědčivý</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+     <trd>schl&uuml;ssig</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>conclusive</trd>,
+    <trd>clinching</trd>,
+    <trd>convincing</trd>,
+    <trd>decisive</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>d&eacute;terminant<klr> (permettant de conclure)</klr></trd>,
+    <trd>conclusif</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>meggy&odblac;z&odblac;</trd>,
+    <trd>bizony&iacute;t&oacute; erej&udblac;</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>afdoend</trd>,
+    <trd>besluitend</trd>,
+    <trd>afrondend</trd>
+  </trdgrp>
+  <trd lng="sk">presvedčivý</trd>
+</drv>
+</art>
+<!--
+$Log: konklu.xml,v $
+Revision 1.17  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.15  2013/11/30 13:10:18  revo
+Jeromo Vasxe: kor 1 ref, + trd fr
+
+Revision 1.14  2013/07/05 19:10:10  revo
+Wolfram Diestel: aldonis referencojn
+
+Revision 1.13  2009/12/06 17:30:41  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.12  2009/09/06 16:30:45  revo
+Paul Peeraerts: +nl
+
+Revision 1.11  2006/12/07 17:30:22  revo
+Tulio Flores: +tr pt
+
+Revision 1.10  2005/01/12 18:21:13  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.9  2002/02/27 17:59:33  revo
+Ulrich Fellmann: + 11 germ trdj
+
+Revision 1.8  2001/10/19 18:12:58  revo
+-->
+</vortaro>

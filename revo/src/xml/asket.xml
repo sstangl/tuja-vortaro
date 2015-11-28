@@ -1,0 +1,142 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+  <art mrk="$Id: asket.xml,v 1.22 2015/07/04 08:37:30 revo Exp $">
+    <kap>
+      <rad>asket</rad>/o
+      <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
+    </kap>
+
+    <drv mrk="asket.0o">
+      <kap><tld/>o</kap>
+      <snc mrk="asket.0o.REL">
+    	<dif>
+    	  Praktikanto de <tld/>ismo.
+    	</dif>
+      </snc>
+  <trd lng="grc">&alfa_psili;&sigma;&kappa;&eta;&tau;&eta_acute;&sigma_fina;</trd>
+  <trd lng="be">&c_a;&c_s;&c_k;&c_je;&c_t;</trd>
+  <trd lng="bg">&c_a;&c_s;&c_k;&c_je;&c_t;</trd>
+  <trd lng="ca">asceta</trd>
+  <trd lng="cs">asketa</trd>
+  <trd lng="de">Asket</trd>
+  <trd lng="en">ascetic</trd>
+  <trd lng="es">asceta</trd>
+  <trdgrp lng="fa">
+         <trd>&a_r;&f_y;&a_A;&a_D;&a_t;&zwnj;&f_k;&a_sh;</trd>
+         <trd>&a_m;&a_r;&a_t;&a_A;&a_D;</trd>
+      </trdgrp>
+  <trd lng="fr">asc&egrave;te</trd>
+  <trd lng="hu">aszk&eacute;ta</trd>
+  <trd lng="it">asceta</trd>
+  <trd lng="nl">asceet</trd>
+  <trdgrp lng="ru">
+         <trd>&c_a;&c_s;&c_k;&c_je;&c_t;</trd>,
+         <trd>&c_p;&c_o;&c_s;&c_t;&c_n;&c_i;&c_k;</trd>
+      </trdgrp>
+  <trdgrp lng="sk">
+    <trd>ask&eacute;t</trd>,
+    <trd>askéta</trd>
+  </trdgrp>
+</drv>
+
+    <drv mrk="asket.0ismo">
+      <kap><tld/>ismo</kap>
+      <snc mrk="asket.0ismo.REL">
+    	<dif>
+    	  Sistema limigado a&ubreve; subpremado de la korpaj deziroj,
+    	  libervola submeti&gcirc;o al fizika doloro, soleco ktp, propra al
+    	  la rekomendoj de iuj skoloj filozofiaj, ekzemple la
+          <ref cel="cinik.0isto">cinikistoj</ref>, kaj precipe al
+    	  diversaj religioj, pro motivoj diversaj &dash;
+    	  memperfekti&gcirc;o, higieno, protesto kontra&ubreve; socia malegaleco ktp.
+    	</dif>
+      </snc>
+      <ref tip="vid" cel="fast.0o">fasto</ref>
+      <trd lng="be">&c_a;&c_s;&c_k;&c_je;&c_t;&c_y;&c_z;&c_m;</trd>
+      <trd lng="bg">&c_a;&c_s;&c_k;&c_je;&c_t;&c_i;&c_z;&c_malmol;&c_m;</trd>
+      <trd lng="ca">ascetisme</trd>
+      <trd lng="de">Askese</trd>
+      <trd lng="en">asceticism</trd>
+      <trd lng="es">ascetismo</trd>
+      <trdgrp lng="fa">
+         <trd>&a_r;&f_y;&a_A;&a_D;&a_t;&zwnj;&f_k;&a_sh;&f_y;</trd>
+         <trd>&a_r;&f_y;&a_A;&a_D;&a_t;</trd>
+      </trdgrp>
+      <trd lng="fr">asc&eacute;tisme</trd>
+      <trd lng="hu">aszketizmus</trd>
+      <trd lng="it">ascetismo</trd>
+      <trdgrp lng="ru">
+         <trd>&c_a;&c_s;&c_k;&c_je;&c_z;&c_a;</trd>,
+         <trd>&c_a;&c_s;&c_k;&c_je;&c_t;&c_i;&c_z;&c_m;</trd>
+      </trdgrp>
+      <trdgrp lng="nl">
+        <trd>ascetisme</trd>,
+        <trd>ascese</trd>
+      </trdgrp>
+      <trd lng="sk">asketizmus</trd>
+      <trd lng="cs">asketizmus</trd>
+</drv>
+  </art>
+  <!--
+  $Log: asket.xml,v $
+  Revision 1.22  2015/07/04 08:37:30  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.21  2015/06/28 12:03:36  revo
+  aldono de trd sk per skripto de M. von Laer
+
+  Revision 1.20  2012/02/01 01:10:18  revo
+  Antonio Codazzi: +trd it
+
+  Revision 1.19  2010/03/26 17:30:29  revo
+  Jeromo Vasxe: + mrk
+
+  Revision 1.18  2009/08/25 16:31:14  revo
+  Paul Peeraerts: +trd nl
+
+  Revision 1.17  2009/06/20 18:01:02  revo
+  Behnam Tabatabai: korr arabaj/persaj koderoj
+
+  Revision 1.16  2009/05/04 16:31:29  revo
+  Behnam Tabatabai: +trd fa
+
+  Revision 1.15  2009/01/17 18:09:20  revo
+  Wieland Pusch: +trd bg
+
+  Revision 1.14  2009/01/09 17:30:17  revo
+  Russ Williams: +trd en (al ege pli oftaj nefrancecaj formoj)
+
+  Revision 1.13  2007/05/06 16:30:30  revo
+  Wieland Pusch: +trd de
+
+  Revision 1.12  2007/01/26 15:29:24  revo
+  Jozefo Horvath: +trd hu
+
+  Revision 1.11  2005/04/16 16:35:07  revo
+  Raul Salinas Monteagudo: +trd ca,es
+
+  Revision 1.10  2003/11/12 17:31:03  revo
+  Dmitri Gabinski: +trd be
+
+  Revision 1.9  2002/12/02 17:30:48  revo
+  Sergio Pokrovskij: dif; TEZ
+
+  Revision 1.8  2002/11/01 09:15:50  revo
+  Christopher Zervic: + ang
+
+  Revision 1.7  2002/09/09 19:49:20  revo
+  Viliam Bur: +trd sk
+
+  Revision 1.6  2002/03/21 18:35:01  revo
+  Yury Finkel: formatigis
+
+  Revision 1.5 2000/10/16 17:38:29 revo
+  Marc Bavant: aldono de franca traduko
+
+  Revision 1.4 2000/08/22 16:13:04 revo
+  Yury Finkel: aldono de rusa traduko
+
+  -->
+</vortaro>

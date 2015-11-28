@@ -1,0 +1,139 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: metamo1.xml,v 1.17 2015/10/01 13:10:50 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>metamorfoz</rad>/o
+</kap>
+<drv mrk="metamo1.0o">
+  <kap>
+    <tld/>o
+  </kap>
+  <snc>
+    <dif>
+      Transformi&gcirc;o de iu esta&jcirc;o en alian:
+      <ekz>
+        la <tld/>oj de Jupitero.
+      </ekz>
+    </dif>
+    <trd lng="fa">&a_m;&a_s;&a_kh;</trd>
+  </snc>
+  <snc>
+    <dif>
+      Aliformi&gcirc;o:
+      <ekz>
+        <tld/>o de ra&ubreve;po en pupon kaj en papilion.
+      </ekz>
+    </dif>
+    <trd lng="fa">&a_d;&f_g;&a_r;&a_d;&f_y;&a_s;&f_y;</trd>
+  </snc>
+  <snc>
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Plena a&ubreve; grava &scirc;an&gcirc;o en la stato a&ubreve; ecoj de iu:
+      <ekz>
+        okazis feli&ccirc;a <tld/>o de lia karaktero.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_m;&c_e;&c_t;&c_a;&c_m;&c_a;&c_r;&c_f;&c_o;&c_z;&c_a;</trd>,
+    <trd>&c_t;&c_r;&c_a;&c_n;&c_s;&c_f;&c_a;&c_r;&c_m;&c_a;&c_c;&c_y;&c_ja;</trd>,
+    <trd>&c_p;&c_je;&c_r;&c_a;&c_w;&c_t;&c_v;&c_a;&c_r;&c_e;&c_n;&c_mol;&c_n;&c_je;</trd>
+  </trdgrp>
+  <trd lng="ca">metamorfosi</trd>
+  <trdgrp lng="de">
+    <trd>Verwandlung</trd>,
+    <trd>Metamorphose</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd>metamorphosis</trd>,
+    <trd>transformation</trd>
+  </trdgrp>
+  <trd lng="fr">m&eacute;tamorphose</trd>
+  <trdgrp lng="hu">
+    <trd>metamorf&oacute;zis</trd>,
+    <trd>&aacute;talakul&aacute;s</trd>
+  </trdgrp>
+  <trdgrp lng="nl">
+    <trd>gedaanteverandering</trd>,
+    <trd>metamorfose</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>metamorfoza</trd>,
+    <trd>przeobra&zdot;enie</trd>,
+    <trd>przeistoczenie</trd>,
+    <trd>przemiana</trd>,
+    <trd>przekszta&lstroke;cenie</trd>
+  </trdgrp>
+  <trd lng="pt">metamorfose</trd>
+  <trdgrp lng="ru">
+    <trd>&c_m;&c_je;&c_t;&c_a;&c_m;&c_o;&c_r;&c_f;&c_o;&c_z;&c_a;</trd>,
+    <trd>&c_p;&c_r;&c_je;&c_v;&c_r;&c_a;&c_shch;&c_je;&c_n;&c_i;&c_je;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="metamo1.0i">
+  <kap>
+    <tld/>i
+  </kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      Transformi.
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_je;&c_r;&c_a;&c_w;&c_t;&c_v;&c_a;&c_r;&c_a;&c_c;&c_mol;</trd>,
+    <trd>&c_t;&c_r;&c_a;&c_n;&c_s;&c_f;&c_a;&c_r;&c_m;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="ca">metamorfosar</trd>
+  <trdgrp lng="de">
+    <trd>verwandeln</trd>,
+    <trd>umwandeln</trd>
+  </trdgrp>
+  <trd lng="en">transform</trd>
+  <trd lng="fr">m&eacute;tamorphoser</trd>
+  <trd lng="nl">van <ind>gedaante</ind> doen veranderen</trd>
+  <trd lng="hu">&aacute;talak&iacute;t</trd>
+  <trdgrp lng="pl">
+    <trd>podlega&cacute; <ind>metamorfozie</ind></trd>,
+    <trd>przeobra&zdot;a&cacute;</trd>,
+    <trd>przeistacza&cacute;</trd>,
+    <trd>przemienia&cacute;</trd>,
+    <trd>przekszta&lstroke;ca&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_r;&c_je;&c_v;&c_r;&c_a;&c_shch;&c_a;&c_t;&c_mol;</trd>,
+    <trd>&c_p;&c_r;&c_je;&c_v;&c_r;&c_a;&c_t;&c_i;&c_t;&c_mol;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: metamo1.xml,v $
+Revision 1.17  2015/10/01 13:10:50  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.16  2014/04/12 14:10:29  revo
+Damien Brucker: +trd fr
+
+Revision 1.15  2012/07/15 10:10:33  revo
+Marc Rausell: + trd ca
+
+Revision 1.14  2011/09/29 20:10:11  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.13  2008/11/23 19:11:49  revo
+Wieland Pusch: entoj por unikodo
+
+Revision 1.12  2008/11/09 17:30:44  revo
+Russ Williams: +trd en
+
+Revision 1.11  2006/08/01 16:32:45  revo
+Tulio Flores: +tr pt
+
+Revision 1.10  2003/05/25 17:02:54  revo
+-->
+</vortaro>

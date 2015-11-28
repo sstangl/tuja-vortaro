@@ -1,0 +1,401 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+  <art mrk="$Id: pruv.xml,v 1.27 2015/07/04 08:37:42 revo Exp $">
+    <kap>
+      <ofc>*</ofc>
+      <rad>pruv</rad>/i <fnt><bib>PV</bib></fnt>
+    </kap>
+
+    <drv mrk="pruv.0i">
+      <kap><ofc>*</ofc><tld/>i</kap>
+      <gra><vspec>tr</vspec></gra>
+      <snc mrk="pruv.0i.KOMUNE_iu">
+        <uzo tip="klr">(iu)</uzo>
+        <dif>
+          Montri per rezonado a&ubreve; fakto, ke io estas vera:
+          <ekz>
+            <tld/>i la ekziston a&ubreve; neekziston de Dio, sian
+            senkulpecon<fnt>B</fnt>;
+          </ekz><ekz>
+            mi <tld/>os al vi, ke vi eraras.
+          </ekz>
+        </dif>
+        <refgrp tip="vid">
+          <ref cel="demons.0i">demonstri</ref>,
+          <ref cel="demons1">demonstracii</ref>
+        </refgrp>
+      </snc>
+      <snc mrk="pruv.0i.KOMUNE_io">
+        <uzo tip="klr">(io)</uzo>
+        <dif>
+          Esti la <tld/>o de:
+          <ekz>
+            tio <tld/>as la facilan lerneblecon de Esperanto;
+          </ekz>
+          <ekz>
+            tiu ekspozicio elokvente <tld/>as pri la progresoj faritaj;
+          </ekz>
+          <ekz>
+            larmoj pravecon ne <tld/>as
+            <fnt><bib>PrV</bib></fnt>;
+          </ekz>
+          <ekz>
+            nigro sur blanko <klr>(skriba&jcirc;o)</klr> <tld/>as sen
+            manko
+            <fnt><bib>PrV</bib></fnt>.
+          </ekz>
+        </dif>
+        <refgrp tip="vid">
+          <ref cel="argume">argumentadi</ref>,
+          <ref cel="dokume.0i">dokumenti</ref>,
+          <ref cel="ilustr.0i">ilustri</ref>,
+          <ref cel="pled.0i">pledi</ref>
+        </refgrp>
+      </snc>
+      <snc mrk="pruv.0i.MAT">
+        <uzo tip="fak">MAT</uzo>
+        <fnt><bib>PV</bib></fnt>
+        <dif>
+          Plene kaj nepre montri la verecon de matematika
+          <ref cel="propoz.0o.aserto">propozicio</ref> per dedukto:
+          <ekz>
+            <tld/>i geometrian teoremon.
+          </ekz>
+        </dif>
+        <ref tip="sin" cel="demons.0i.MAT">demonstri.</ref>
+      </snc>
+  <trdgrp lng="be">
+        <trd>&c_d;&c_a;&c_v;&c_o;&c_d;&c_z;&c_ib;&c_c;&c_mol;</trd>,
+        <trd>&c_d;&c_a;&c_k;&c_a;&c_z;&c_v;&c_a;&c_c;&c_mol;</trd>
+      </trdgrp>
+  <trdgrp lng="cs">
+    <trd>dokázat</trd>,
+    <trd>doložit</trd>,
+    <trd>prokázat</trd>
+  </trdgrp>
+  <trd lng="de">beweisen</trd>
+  <trd lng="en">prove</trd>
+  <trdgrp lng="fr">
+        <trd>prouver</trd>,
+        <trd>d&eacute;montrer</trd>
+      </trdgrp>
+  <trdgrp lng="hu">
+        <trd>bizony&iacute;t</trd>,
+        <trd>igazol</trd>
+      </trdgrp>
+  <trd lng="nl">bewijzen</trd>
+  <trd lng="pl">dowodzi&cacute;</trd>
+  <trdgrp lng="pt">
+        <trd>provar <klr>(demonstrar)</klr></trd>,  
+        <trd>demonstrar</trd>,
+        <trd>fazer <ind>f&eacute;</ind></trd>,    
+        <trd>fazer <ind>prova</ind> de</trd>
+      </trdgrp>
+  <trdgrp lng="ru">
+        <trd>&c_d;&c_o;&c_k;&c_a;&c_z;&c_a;&c_t;&c_mol;</trd>,
+        <trd>&c_d;&c_o;&c_k;&c_a;&c_z;&c_y;&c_v;&c_a;&c_t;&c_mol;</trd>
+      </trdgrp>
+  <trdgrp lng="sk">
+    <trd>dokázať</trd>,
+    <trd>doložiť</trd>,
+    <trd>preukázať</trd>
+  </trdgrp>
+  <trd lng="sv">bevisa</trd>
+</drv>
+
+    <drv mrk="pruv.0o">
+      <kap><tld/>o</kap>
+      <snc mrk="pruv.0o.KOMUNE">
+        <dif>
+          Argumento a&ubreve; fakto, per kiu oni povas montri la verecon de io:
+          <ekz>
+            komparo ne estas <tld/>o
+            <fnt><bib>PrV</bib></fnt>;
+          </ekz><ekz>
+            suspekto <tld/>on ne egalas
+            <fnt><bib>PrV</bib></fnt>;
+          </ekz><ekz>
+            martelbataj <tld/>oj.
+          </ekz>
+        </dif>
+      </snc>
+      <snc mrk="pruv.0o.MAT">
+        <uzo tip="fak">MAT</uzo>
+        <fnt><bib>MatVort</bib></fnt>
+        <dif>
+          Ago a&ubreve; maniero <tld/>i <sncref ref="pruv.0i.MAT"/>:
+          <ekz>
+            via <tld/>o estas tre eleganta.
+          </ekz>
+        </dif>
+        <ref tip="sin" cel="demons.0o.MAT">demonstro;</ref>
+        <refgrp tip="sub">
+          <ref cel="pruv.0operindukto"><tld/>o per indukto</ref>,
+          <ref cel="pruv.0operreduktoalabsurdo"><tld/>o per redukto al
+            absurdo</ref>,
+          <ref cel="pruv.0odeekzisto"><tld/>o de ekzisto</ref>.
+        </refgrp>
+        <trd lng="en">proof</trd>
+      </snc>
+      <trd lng="be">&c_d;&c_o;&c_k;&c_a;&c_z;</trd>
+      <trd lng="de">Beweis</trd>
+      <trdgrp lng="fr">
+        <trd>d&eacute;monstration<klr tip="ind"> (preuve)</klr></trd>,
+        <trd>preuve<klr tip="ind"> (d&eacute;monstration)</klr></trd>
+      </trdgrp>
+      <trdgrp lng="hu">
+        <trd>bizony&iacute;t&eacute;k</trd>,
+        <trd>bizony&iacute;t&aacute;s</trd>
+      </trdgrp>
+      <trd lng="nl">bewijs</trd>
+      <trd lng="pl">dow&oacute;d</trd>
+      <trd
+        lng="ru">&c_d;&c_o;&c_k;&c_a;&c_z;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_s;&c_t;&c_v;&c_o;</trd>
+      <trd lng="sv">bevis</trd>
+    </drv>
+
+    <drv mrk="pruv.0e">
+      <kap><tld/>e</kap>
+      <snc mrk="pruv.0e.ARG">
+        <dif>
+          Adverbo montranta, ke la sekvanta frazo estas la <tld/>o de la
+          anta&ubreve;a.
+        </dif>
+        <refgrp tip="vid">
+          <ref cel="cxar.0">&ccirc;ar</ref>,
+          <ref cel="nom.0e">nome</ref>
+        </refgrp>
+      </snc>
+      <trd lng="fr">&agrave; preuve</trd>
+      <trdgrp lng="nl">
+        <trd>want</trd>,
+        <trd>namelijk</trd>
+      </trdgrp>
+    </drv>
+
+    <drv mrk="pruv.0ebla">
+      <kap><tld/>ebla</kap>
+      <snc mrk="pruv.0ebla.KOMUNE">
+        <dif>
+          Tia, ke eblas &gcirc;in pruvi:
+          <ekz>
+            &gcirc;ia <klr>(de la tezo)</klr> forta flanko estas, ke gi nek
+            estas <tld/>ebla, nek per<tld/>e kontestebla
+            <fnt>
+              <aut>Gerrit BERVELING</aut>:
+              <vrk>Historia romano pri Jesuo</vrk>. <bib>Monato</bib>
+            </fnt>.
+          </ekz>
+        </dif>
+      </snc>
+  <trdgrp lng="cs">
+    <trd>dokazatelný</trd>,
+    <trd>prokazatelný</trd>,
+    <trd>průkazný</trd>
+  </trdgrp>
+  <trd lng="de">beweisbar</trd>
+  <trd lng="en">provable</trd>
+  <trdgrp lng="fr">
+        <trd>d&eacute;montrable</trd>,
+        <trd>prouvable</trd>
+      </trdgrp>
+  <trd lng="hu">bizony&iacute;that&oacute;</trd>
+  <trd lng="pl">mo&zdot;liwy do udowodnienia</trd>
+  <trd lng="ru">&c_d;&c_o;&c_k;&c_a;&c_z;&c_u;&c_je;&c_m;&c_y;&c_j;</trd>
+  <trd lng="sk">dokázateľný</trd>
+</drv>
+
+    <drv mrk="pruv.mal0i">
+      <kap>mal<tld/>i</kap>
+      <gra><vspec>tr</vspec></gra>
+      <snc mrk="pruv.mal0i.KOMUNE">
+        <dif>
+          Montri per rezonado a&ubreve; fakto, ke io estas malvera,
+          <tld/>i la malon de la asertata:
+          <ekz>
+            li <ctl>fu&gcirc;as</ctl> <klr>...</klr> al la itala vila&gcirc;eto
+            Lavello por <tld/>i a&ubreve; mal<tld/>i al si la identecon
+            inter la bonkora sed malfortika junulo, kiu "nur obeis
+            ordonojn", kaj la 48-jara bonfaranto
+            <fnt>
+              <aut>Don Harlow</aut>:
+              <vrk><url
+ ref="http://donh.best.vwh.net/Esperanto/Literaturo/Recenzoj/granita.html"
+                  >Recenzo pri &leftquot;Sur kampo granita&rightquot;</url></vrk>
+            </fnt>.
+          </ekz>
+        </dif>
+        <ref tip="sin" cel="refut.0i">refuti</ref>
+      </snc>
+      <trdgrp lng="fr">
+        <trd>infirmer</trd>,
+        <trd>r&eacute;futer</trd>
+      </trdgrp>
+      <trd lng="ru">&c_o;&c_p;&c_r;&c_o;&c_v;&c_je;&c_r;&c_g;&c_n;&c_u;&c_t;&c_mol;</trd>
+    </drv>
+
+    <drv mrk="pruv.0odeekzisto">
+      <kap><tld/>o de ekzisto <fnt><bib>MatVort</bib></fnt>,
+        <var>
+          <kap>ekzisto<tld/>o</kap>
+        </var>
+      </kap>
+      <snc mrk="pruv.0odeekzisto.MAT">
+        <uzo tip="fak">MAT</uzo>
+        <dif>
+          <tld lit="P"/>o <sncref ref="pruv.0o.MAT"/>, kiu montras, ke
+          la
+          ser&ccirc;ata objekto ekzistas, kvankam ne nepre ebligas &gcirc;in difini
+          precize.
+        </dif>
+      </snc>
+      <trd lng="de">Existenzbeweis</trd>
+      <trd lng="en">proof of existence</trd>
+      <trd lng="fr">d&eacute;monstration d'existence</trd>
+      <trd lng="hu">egzisztencia-bizony&iacute;t&aacute;s</trd>  
+      <trd lng="pl">dow&oacute;d istnienia</trd>
+      <trd lng="ru">&c_d;&c_o;&c_k;&c_a;&c_z;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_s;&c_t;&c_v;&c_o; &c_s;&c_u;&c_shch;&c_je;&c_s;&c_t;&c_v;&c_o;&c_v;&c_a;&c_n;&c_i;&c_ja;</trd>
+    </drv>
+
+    <drv mrk="pruv.0operindukto">
+      <kap><tld/>o per indukto</kap>
+      <fnt><bib>MatVort</bib></fnt>
+      <snc mrk="pruv.0operindukto.MAT">
+        <uzo tip="fak">MAT</uzo>
+        <ref tip="vid" cel="indukt.0o.MAT">indukto.</ref>
+      </snc>
+      <trd lng="de">Induktionsbeweis</trd>
+      <trd lng="en">proof by induction</trd>
+      <trd lng="fr">d&eacute;monstration par r&eacute;currence</trd>
+      <trd lng="hu">indukci&oacute;s <ind>bizony&iacute;t&aacute;s</ind></trd>  
+      <trd lng="pl">dow&oacute;d indukcyjny</trd>
+      <trd lng="ru">&c_d;&c_o;&c_k;&c_a;&c_z;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_s;&c_t;&c_v;&c_o;
+        &c_p;&c_o; &c_i;&c_n;&c_d;&c_u;&c_k;&c_c;&c_i;&c_i;</trd>
+    </drv>
+
+    <drv mrk="pruv.0operreduktoalabsurdo">
+      <kap><tld/>o per redukto al absurdo,
+      <var><kap><tld/>o per absurdo</kap></var></kap>
+      <fnt><bib>MatVort</bib></fnt>
+      <snc>
+        <uzo tip="fak">MAT</uzo>
+        <ref tip="vid" cel="redukt.0oalabsurdo">redukto al
+        absurdo.</ref>
+      </snc>
+      <trd lng="de">Widerspruchsbeweis</trd>
+      <trd lng="en">proof by reductio ad absurdum</trd>
+      <trd lng="fr">d&eacute;monstration par l'absurde</trd>
+      <trd lng="hu">k&ouml;zvetett <ind>bizony&iacute;t&aacute;s</ind	></trd>  
+      <trd lng="pl">dow&oacute;d nie wprost</trd>
+      <trd lng="ru">&c_d;&c_o;&c_k;&c_a;&c_z;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_s;&c_t;&c_v;&c_o;
+        &c_o;&c_t; &c_p;&c_r;&c_o;&c_t;&c_i;&c_v;&c_n;&c_o;&c_g;&c_o;</trd>
+    </drv>
+
+    <drv mrk="pruv.kioestis0ota">
+      <kap>kio estis <tld/>ota</kap>
+      <mlg>K.E.P.</mlg>
+      <fnt><bib>MatTerm</bib><lok>p. 49</lok></fnt>
+      <snc>
+        <uzo tip="fak">MAT</uzo>
+        <dif>
+          Konvencia esprimo, signanta la finon de demonstro.
+        </dif>
+      </snc>
+      <rim>
+        Mi dirus &leftquot;kio estis <tld/>enda&rightquot;.  La formo <tld/>ota probable
+        venas el la epoko kiam la sufikso -end ankora&ubreve; ne ekzistis;
+        sed nun la senco &gcirc;in trudas.
+        <aut>Sergio Pokrovskij</aut>
+      </rim>
+      <trdgrp lng="de">
+        <trd>quod erat <ind>demonstrandum</ind></trd>,
+        <trd>Q.E.D.</trd>,
+        <trd>was zu <ind>beweisen</ind> war</trd>,
+        <trd>w.z.b.w.</trd>
+      </trdgrp>
+      <trdgrp lng="en">
+        <trd>quod erat <ind>demonstrandum</ind></trd>,
+        <trd>Q.E.D.</trd>
+      </trdgrp>
+      <trdgrp lng="fr">
+        <trd>ce qu'il fallait <ind>d&eacute;montrer</ind></trd>,
+        <trd>C.Q.F.D.</trd>
+      </trdgrp>
+      <trdgrp lng="hu">
+        <trd>quod erat <ind>demonstrandum</ind></trd>,
+        <trd>q. e. d.</trd>,
+        <trd>bizony&iacute;t&aacute;s v&eacute;ge</trd>,
+        <trd>amit bizony&iacute;tani kellett</trd>
+      </trdgrp>  
+      <trdgrp lng="la">
+        <trd>quod erat <ind>demonstrandum</ind></trd>,
+        <trd>Q.E.D.</trd>
+      </trdgrp>
+      <trdgrp lng="pl">
+        <trd>co by&lstroke;o do okazania</trd>,
+        <trd>co by&lstroke;o do udowodnienia</trd>,
+        <trd>cbdo.</trd>,
+        <trd>cbdu.</trd>
+      </trdgrp>
+      <trdgrp lng="ru">
+        <trd>&c_ch;&c_t;&c_o; &c_i; &c_t;&c_r;&c_je;&c_b;&c_o;&c_v;&c_a;&c_l;&c_o;&c_s;&c_mol;
+          <ind>&c_d;&c_o;&c_k;&c_a;&c_z;&c_a;&c_t;&c_mol;</ind></trd>,
+        <trd>&c_ch;.&c_t;.&c_d;.</trd>
+      </trdgrp>
+      <trd lng="sk">čo bolo treba dokázať</trd>
+  <trdgrp lng="cs">
+    <trd>Q.E.D.</trd>,
+    <trd>co bylo třeba dokázat</trd>,
+    <trd>quod eratdemonstrandum</trd>
+  </trdgrp>
+</drv>
+  </art>
+  <!--
+  $Log: pruv.xml,v $
+  Revision 1.27  2015/07/04 08:37:42  revo
+  aldono de trd cs per skripto de M. von Laer
+
+  Revision 1.26  2015/06/29 16:40:19  revo
+  aldono de trd sk per skripto de M. von Laer
+
+  Revision 1.25  2010/07/10 16:30:57  revo
+  Jeromo Vasxe: - kramp + mrk + 2 trd fr
+
+  Revision 1.24  2008/08/29 16:30:23  revo
+  Sergio Pokrovskij: +~ebla, +ekzisto~o
+
+  Revision 1.23  2006/04/12 16:31:24  revo
+  Tulio Flores: +tr pt
+
+  Revision 1.22  2005/05/23 16:31:59  revo
+  Sergio Pokrovskij: -tajperaro, +rim
+
+  Revision 1.21  2005/05/22 16:55:37  revo
+  Sergio Pokrovskij: +mal~i
+
+  Revision 1.20  2004/09/06 16:38:01  revo
+  Marc Bavant: kor duobligitan punkton
+
+  Revision 1.19  2004/08/17 18:11:00  revo
+  Jozefo Horvath: +trd hu
+
+  Revision 1.18  2003/07/26 08:43:24  revo
+  Dmitri Gabinski: +trd be
+
+  Revision 1.17  2003/04/12 16:33:12  revo
+  Marc Bavant: K.E.P.: mod trd ru
+
+  Revision 1.16  2003/04/07 16:36:31  revo
+  Marc Bavant: KEP: mod trd pl
+  Revision 1.15  2003/02/01 17:33:59  revo
+  Marc Bavant: +trd pl
+  Revision 1.14  2003/01/02 17:50:20  revo
+  Marc Bavant: +trd pl
+  Revision 1.13  2002/10/13 16:32:09  revo
+  Marc Bavant: +drv K.E.P.
+  Revision 1.12 2002/01/21 21:48:06 revo
+  fontindiko PrV per programo de Jerome
+  -->
+</vortaro>

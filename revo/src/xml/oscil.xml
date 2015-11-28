@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: oscil.xml,v 1.14 2015/08/11 13:10:15 revo Exp $">
+<kap><rad>oscil</rad>/i</kap>
+<drv mrk="oscil.0i">
+  <kap><tld/>i</kap>
+  <snc>
+  <uzo tip="fak">FIZ</uzo>
+  <uzo tip="fak">ELE</uzo>
+    <dif>
+      Balanci&gcirc;i alterne en kontra&ubreve;ajn direktojn &ccirc;irka&ubreve; ekvilibra
+      punkto:
+      <ekz>
+        la <tld/>anta nadlo en kompaso.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="balanc1.0i">balanci</ref>,
+      <ref cel="lul.0i">luli</ref>,
+      <ref cel="sving.0i">svingi</ref>,
+      <ref cel="sxance.0i">&scirc;anceli</ref>.
+    </refgrp>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_g;&c_a;&c_j;&c_d;&c_a;&c_c;&c_c;&c_a;</trd>, 
+    <trd>&c_v;&c_ib;&c_b;&c_r;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trd lng="bg">&c_k;&c_o;&c_l;&c_je;&c_b;&c_a;&c_ja;</trd>
+  <trdgrp lng="cs">
+    <trd>kmitat</trd>,
+    <trd>oscilovat</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>oszillieren</trd>,
+    <trd>schwingen</trd>
+  </trdgrp>
+  <trd lng="en">oscillate</trd>
+  <trd lng="fa">&a_n;&a_w;&a_s;&a_A;&a_n; &f_k;&a_r;&a_d;&a_n;</trd>
+  <trd lng="fr">osciller</trd>
+  <trdgrp lng="hu">
+    <trd>rezeg</trd>,
+    <trd>oszcill&aacute;l</trd>
+  </trdgrp>
+  <trd lng="nl">oscilleren</trd>
+  <trd lng="pt">oscilar</trd>
+  <trdgrp lng="ru">
+    <trd>&c_k;&c_o;&c_l;&c_je;&c_b;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>,
+    <trd>&c_k;&c_a;&c_ch;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>,
+    <trd>&c_o;&c_s;&c_c;&c_i;&c_l;&c_l;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>chvie&tcaron; sa</trd>,
+    <trd>kmita&tcaron;</trd>,
+    <trd>oscilova&tcaron;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: oscil.xml,v $
+Revision 1.14  2015/08/11 13:10:15  revo
+Joop Eggen: +trd bg en
+
+Revision 1.13  2015/07/04 08:37:40  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.12  2015/06/29 16:33:22  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.11  2014/09/01 07:10:16  revo
+Damien Brucker: +trd fr
+
+Revision 1.10  2009/06/21 16:31:09  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.9  2003/01/06 17:32:25  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.8  2002/11/21 17:33:06  revo
+Zmicier Lapcionak: + trd be
+
+Revision 1.7  2002/06/07 17:32:01  revo
+-->
+</vortaro>

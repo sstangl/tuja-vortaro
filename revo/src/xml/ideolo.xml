@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: ideolo.xml,v 1.19 2015/07/04 08:37:36 revo Exp $">
+<kap>
+  <ofc>9</ofc><rad>ideologi</rad>/o
+</kap>
+<drv mrk="ideolo.0o">
+  <kap><ofc>9</ofc><tld/>o</kap>
+  <snc mrk="ideolo.0o.FIL">
+    <uzo tip="fak">FIL</uzo>
+    <dif>
+      Scienco pri la deveno kaj formi&gcirc;o de la ideoj.
+    </dif>
+    <trd lng="nl">ideologie</trd>
+  </snc>
+  <snc mrk="ideolo.0o.KOMUNE">
+    <ref tip="dif" cel="ide.0aro.FIL">idearo</ref>
+    <ekz>
+      <tld/>o estas anta&ubreve; &ccirc;io interpreto pri la sociaj kaj similaj
+      aferoj
+      <fnt>
+      <aut>E. Pauli</aut>,
+      <vrk><url ref="http://www.cfh.ufsc.br/~simpozio/">Enciklopedio
+      simpozio</url></vrk>,
+      <lok>artikolo &leftquot;ideologo&rightquot;, 1996-05-12</lok>
+      </fnt>.
+    </ekz>
+    <trd lng="de">Ideologie</trd>
+    <trd lng="nl">idee&euml;ngoed</trd>
+  </snc>
+  <trd lng="be">&c_ib;&c_d;&c_e;&c_a;&c_l;&c_jo;&c_g;&c_ib;&c_ja;</trd>
+  <trd lng="bg">&c_i;&c_d;&c_je;&c_o;&c_l;&c_o;&c_g;&c_i;&c_ja;</trd>
+  <trd lng="ca">ideologia</trd>
+  <trd lng="en">ideology</trd>
+  <trd lng="fr">id&eacute;ologie</trd>
+  <trd lng="hu">ideol&oacute;gia</trd>
+  <trd lng="pt">ideologia</trd>
+  <trd lng="ru">&c_i;&c_d;&c_je;&c_o;&c_l;&c_o;&c_g;&c_i;&c_ja;</trd>
+</drv>
+
+<drv mrk="ideolo.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="ideolo.0a.KOMUNE">
+    <dif>
+      Propra al aparta idearo, al la tipaj ideoj de iu epoko a&ubreve; socio:
+      <ekz>
+        la <tld/>aj faktoroj ludas grandan rolon en la historio.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_ib;&c_d;&c_e;&c_a;&c_l;&c_ja;&c_g;&c_ib;&c_ch;&c_n;&c_y;</trd>
+  <trd lng="bg">&c_i;&c_d;&c_je;&c_o;&c_l;&c_o;&c_g;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;</trd>
+  <trd lng="ca">ideol&ograve;gic</trd>
+  <trd lng="cs">ideologický</trd>
+  <trd lng="de">ideologisch</trd>
+  <trd lng="en">ideology</trd>
+  <trd lng="fr">id&eacute;ologique</trd>
+  <trd lng="nl">ideologisch</trd>
+  <trd lng="ru">&c_i;&c_d;&c_je;&c_o;&c_l;&c_o;&c_g;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j;</trd>
+  <trd lng="sk">ideologický</trd>
+</drv>
+
+<drv mrk="ideolo.0isto">
+  <kap><tld/>isto</kap>
+  <snc mrk="ideolo.0isto.KOMUNE">
+    <dif>
+      Porparolanto de iu idearo:
+      <ekz>
+        partiaj <tld/>istoj volis difini tiun enhavon
+        <fnt>
+        <aut>Pilch H.</aut>,
+        <vrk>Honkongo redonita al &Ccirc;inujo</vrk>,
+        <lok><url
+        ref="http://groups.google.be/group/soc.culture.esperanto?hl=eo">soc.culture.esperanto</url>,
+        1997-07-27</lok>
+        </fnt>
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_ib;&c_d;&c_e;&c_o;&c_l;&c_ja;&c_g;</trd>
+  <trd lng="bg">&c_i;&c_d;&c_je;&c_o;&c_l;&c_o;&c_g;</trd>
+  <trd lng="ca">ide&ograve;leg</trd>
+  <trd lng="cs">ideolog</trd>
+  <trd lng="en">ideologue</trd>
+  <trd lng="fr">id&eacute;ologue</trd>
+  <trd lng="sk">ideológ</trd>
+</drv>
+</art>
+<!--
+$Log: ideolo.xml,v $
+Revision 1.19  2015/07/04 08:37:36  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:33:15  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2013/08/06 10:10:13  revo
+Joop Eggen: +trd bg
+
+Revision 1.16  2013/02/09 17:10:17  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.15  2012/07/17 11:10:16  revo
+Marc Rausell: + trd ca
+
+Revision 1.14  2009/03/01 17:32:11  revo
+Russ Williams: +trd en 9OA
+
+Revision 1.13  2006/06/13 16:31:12  revo
+Jeromo Vasxe: ~a kor dif
+
+Revision 1.12  2006/06/09 16:31:33  revo
+Jeromo Vasxe: + ~isto, memstar. ~a, ~o + mrk + ref dif
+
+Revision 1.11 2005/10/25 16:31:48 revo
+Luiz Portella: +trd pt
+
+Revision 1.10 2005/06/30 16:31:50 revo
+-->
+</vortaro>

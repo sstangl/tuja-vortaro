@@ -1,0 +1,313 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: parale.xml,v 1.19 2015/07/04 08:37:41 revo Exp $">
+<kap>
+  <ofc>*</ofc> <ofc>1</ofc> <ofc>7</ofc>
+  <rad>paralel</rad>/a <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="parale.0a">
+  <kap><tld/>a</kap>
+  <snc mrk="parale.0a.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <fnt><bib>MatTerm</bib><lok>p. 27</lok></fnt>
+    <dif>
+      <klr>(p.p. <ref cel="figur.geometria0o">geometriaj
+      figuroj</ref>)</klr>
+      Tiaj, ke &ccirc;iuj punktoj de unu havas saman distancon al la dua:
+      <ekz>
+        <tld/>aj <ref cel="rekt.0o.elementa">rektoj</ref>,
+        <ref cel="eben.0o.elementa">ebenoj</ref>;
+      </ekz>
+      <ekz>
+        <tld/>aj <ref cel="cirkl.0o.linio">cirkloj</ref>,
+        <ref cel="sfer.0o.surfaco">sferoj</ref>
+        <klr>(samcentraj, kun malsama radiuso)</klr>;
+      </ekz>
+      <ekz>
+        du rektoj <tld/>aj al tria estas <tld/>aj inter si;
+      </ekz>
+      <ekz>
+        rekto <tld/>a al ebeno;
+      </ekz>
+      <ekz>
+        la <ref cel="latitu.cirklode0o">cirkloj de latitudo</ref>
+        estas <tld/>aj al la ekvatora ebeno;
+      </ekz>
+      <ekz>
+        <tld/>aj <ref cel="spac.afinasub0o">afinaj subspacoj</ref>
+        <klr>(tiaj, ke la direkto de unu inkluzivas la direkton de la
+        dua)</klr>.
+      </ekz>
+    </dif>
+    <trd lng="en">parallel</trd>
+    <trd lng="pl">r&oacute;wnoleg&lstroke;y</trd>
+    <trd lng="pt">paralelo</trd>
+  </snc>
+  <snc mrk="parale.0a.KOMUNE">
+    <dif>
+      <klr>(p.p. similaj aferoj)</klr>
+      Konstante egaldistancaj, sed samdirekta; samtempe ekzistantaj,
+      disvolvi&gcirc;antaj:
+      <ekz>
+        <tld/>aj stratoj;
+      </ekz>
+      <ekz>
+        fari <tld/>an propagandon <klr>(alian, sed samcelan)</klr>;
+      </ekz>
+      <ekz>
+        a&ubreve;toritata institucio povos proponi formon novan, kiun &gcirc;i
+        rekomendos uzadi <tld/>e kun la formo malnova
+        <fnt><bib>F</bib>, <lok>Anta&ubreve;parolo</lok></fnt>;
+      </ekz>
+      <ekz>
+        la gepatroj alkutimigadus siajn infanojn al internacia lingvo
+        <tld/>e
+        kun la gepatra lingvo<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        oni devas <tld/>e kun tio &ccirc;i difini komitaton<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="parale.0a.komparata">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Prezentanta da&ubreve;rigatan komparadon:
+      <ekz>
+        la <tld/>aj vivrakontoj de Plutarko;
+      </ekz>
+      <ekz>
+        ni ne devas senbezone <ind><tld/>igi</ind> <klr>[nian
+        lingvon]</klr> kun
+        Volap&uuml;k, &ccirc;ar tia <tld/>igado diskreditigus nian
+        aferon<fnt>Z</fnt>.
+        <trdgrp lng="fr">
+          <trd>parall&eacute;liser</trd>,
+          <trd>mettre en <ind>parall&egrave;le</ind></trd>,
+          <trd>&eacute;tablir un <ind>parall&egrave;le</ind></trd>
+        </trdgrp>
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_r;&c_a;&c_l;&c_je;&c_l;&c_mol;&c_n;&c_y;</trd>
+  <trdgrp lng="cs">
+    <trd>paralelní</trd>,
+    <trd>souběžný</trd>,
+    <trd>současně probíhající</trd>
+  </trdgrp>
+  <trd lng="de">parallel</trd>
+  <trd lng="fr">parall&egrave;le<klr tip="ind"> (adj.)</klr></trd>
+  <trd lng="hu">p&aacute;rhuzamos</trd>
+  <trd lng="nl">parallel</trd>
+  <trd lng="ru">&c_p;&c_a;&c_r;&c_a;&c_l;&c_l;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
+  <trdgrp lng="sk">
+    <trd>paralelný</trd>,
+    <trd>priraďovací</trd>,
+    <trd>rovnobežný</trd>
+  </trdgrp>
+  <trd lng="sv">parallell</trd>
+</drv>
+
+<drv mrk="parale.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="parale.0o.MAT">
+    <uzo tip="fak">MAT</uzo>
+    <subsnc mrk="parale.0o.rekto">
+      <fnt><bib>PIV1</bib></fnt>
+      <dif>
+        <klr>(al <ref cel="figur.geometria0o">geometria
+        figuro</ref>)</klr>
+        <ref tip="super" cel="rekt.0o.elementa">Rekto</ref> paralela al
+        &gcirc;i:
+        <ekz>
+          tiri <tld/>on al la hipotenuzo tra la mezo de unu kateto;
+        </ekz>
+        <ekz>
+          sekcanto de du <tld/>oj difinas kun ili ok angulojn.
+        </ekz>
+      </dif>
+      <trdgrp lng="de">
+        <trd>Parallele</trd>,
+        <trd>parallele <ind>Gerade</ind></trd>
+      </trdgrp>
+      <trdgrp lng="en">
+        <trd>parallel<klr tip="ind"> (parallel line)</klr></trd>,
+        <trd>parallel <ind>line</ind></trd>
+      </trdgrp>
+      <trdgrp lng="fr">
+        <trd>parall&egrave;le<klr tip="ind"> (f&eacute;m., droite
+        parall&egrave;le)</klr></trd>,
+        <trd>droite parall&egrave;le</trd>
+      </trdgrp>
+      <trdgrp lng="hu">
+        <trd>p&aacute;rhuzamos</trd>,
+        <trd>p&aacute;rhuzamos egyenes</trd>
+      </trdgrp>
+      <trd lng="pl">prosta r&oacute;wnoleg&lstroke;a</trd>
+      <trdgrp lng="ru">
+        <trd>&c_p;&c_a;&c_r;&c_a;&c_l;&c_l;&c_je;&c_l;&c_mol;<klr tip="ind"> (&c_p;&c_a;&c_r;&c_a;&c_l;&c_l;&c_je;&c_l;&c_mol;&c_n;&c_a;&c_ja; &c_p;&c_r;&c_ja;&c_m;&c_a;&c_ja;)</klr></trd>,
+        <trd>&c_p;&c_a;&c_r;&c_a;&c_l;&c_l;&c_je;&c_l;&c_mol;&c_n;&c_a;&c_ja; <ind>&c_p;&c_r;&c_ja;&c_m;&c_a;&c_ja;</ind></trd>
+      </trdgrp>
+    </subsnc>
+    <subsnc mrk="parale.0o.de_rivolua_surfaco">
+      <fnt><bib>MatVort</bib><lok>2519</lok></fnt>
+      <dif>
+        <klr>(de <ref cel="rivolu.0a.figuro">rivolua</ref>
+        <ref cel="surfac.0o.MAT">surfaco</ref>)</klr>
+        &Ccirc;iu <ref tip="super" cel="cirkl.0o.linio">cirklo</ref>, estanta
+        intersekco de la surfaco kun ebeno orta al &gcirc;ia akso.
+      </dif>
+      <ref tip="vid" cel="meridi.0o.MAT">meridiano.</ref>
+      <rim>
+        &Ccirc;i-sence Bricard
+        <fnt><bib>MatTerm</bib><lok>p. 30</lok></fnt>
+        uzas <ctl><tld/>cirklo</ctl>, dubinda termino de vortfara
+        vidpunkto.
+      </rim>
+      <trdgrp lng="de">
+        <trd>Parallel</trd>,
+        <trd>Breitenkreis</trd>
+      </trdgrp>
+      <trdgrp lng="en">
+        <trd>parallel<klr tip="ind"> (circle of latitude)</klr></trd>,
+        <trd>parallel <ind>circle</ind></trd>
+      </trdgrp>
+      <trdgrp lng="fr">
+        <trd>parall&egrave;le<klr tip="ind"> (masc., cercle de
+        latitude)</klr></trd>,
+        <trd>cercle de latitude</trd>
+      </trdgrp>
+      <trd lng="hu">paralellk&ouml;r</trd>      
+      <trd lng="pl">r&oacute;wnole&zdot;nik<klr tip="ind"> (powierzchni
+      obrotowej)</klr></trd>
+      <trdgrp lng="ru">
+        <trd>&c_p;&c_a;&c_r;&c_a;&c_l;&c_l;&c_je;&c_l;&c_mol;<klr tip="ind"> (&c_k;&c_r;&c_u;&c_g; &c_p;&c_a;&c_r;&c_a;&c_l;&c_l;&c_je;&c_l;&c_i;)</klr></trd>,
+        <trd>&c_k;&c_r;&c_u;&c_g; <ind>&c_p;&c_a;&c_r;&c_a;&c_l;&c_l;&c_je;&c_l;&c_i;</ind></trd>
+      </trdgrp>
+    </subsnc>
+    <adm>
+      La senco "~o de rivolua surfaco" ne aperas en PIV1, sed gxi
+      estas en MatVort sub la formo "~o de latitudo".
+      Cxu, simile al "meridiano", ne ekzistas senco GEOG sinonimo
+      de la nun en REVO ekzistanta &leftquot;cirklo de latitudo&rightquot;?
+      <aut>MB</aut>
+    </adm>
+  </snc>
+  <snc mrk="parale.0o.io_komparebla">
+    <dif>
+      Io komparebla, simila:
+      <ekz>
+        tiu nekutima &ccirc;irka&ubreve;frazo havas <tld/>on en Biblio
+        <fnt><bib>MkM</bib>, <lok>&ccirc;ap. 2, noto pri &leftquot;pendigo sur
+        fosto&rightquot;</lok></fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="fr">
+      <trd>parall&egrave;le<klr tip="ind"> (masc., comparaison)</klr></trd>,
+      <trd>pendant<klr tip="ind"> (chose comparable)</klr></trd>
+    </trdgrp>
+    <trd lng="hu">p&aacute;rhuzam</trd>    
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_r;&c_a;&c_l;&c_je;&c_l;&c_mol;</trd>
+  <trdgrp lng="cs">
+    <trd>přirovnání</trd>,
+    <trd>rovnoběžka</trd>
+  </trdgrp>
+  <trd lng="ru">&c_p;&c_a;&c_r;&c_a;&c_l;&c_l;&c_je;&c_l;&c_mol;</trd>
+  <trdgrp lng="sk">
+    <trd>prirovnanie</trd>,
+    <trd>rovnobežka</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="parale.0ajxo">
+  <kap><tld/>a&jcirc;o</kap>
+  <snc>
+    <dif>
+      <ref tip="dif" cel="parale.0o.io_komparebla"><tld lit="P"/>o
+      <sncref ref="parale.0o.io_komparebla"/></ref>:
+      <ekz>
+        la konsterno en la pastraj rondoj ne havis <tld/>a&jcirc;on en la tuta
+        historio de la idolkulto
+        <fnt><bib>I&scirc;tar</bib>,<lok>&ccirc;ap. 22</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_p;&c_a;&c_r;&c_a;&c_l;&c_je;&c_l;&c_mol;</trd>
+  <trd lng="hu">p&aacute;rhuzamoss&aacute;g</trd>  
+  <trd lng="ru">&c_p;&c_a;&c_r;&c_a;&c_l;&c_l;&c_je;&c_l;&c_mol;</trd>
+</drv>
+
+<drv mrk="parale.0eal">
+  <kap><tld/>e al,
+  <var><kap><tld/>e kun</kap></var></kap>
+  <gra><vspec>prepozicia&jcirc;o</vspec></gra>
+  <snc mrk="parale.0eal.kie">
+    <dif>
+      En paralela meto a&ubreve; direkto, la&ubreve; sama orienti&gcirc;o,
+      <ref tip="vid" cel="long.laux0ede.space">la&ubreve;longe de</ref>:
+      <ekz>
+        oni metis <tld/>e al la krada kondensatoro rezistilon
+        <fnt>
+          <aut>J. R. G. Isbr&uuml;cker</aut>,
+          <vrk><url
+          ref="http://www.eventoj.hu/steb/ingxenierado/telekomuniko/telefoniado1928/telefoniado1928.htm">
+          Evoluo de Telefonio</url></vrk>,
+          <lok>1928</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="parale.0eal.FIG">
+    <dif>
+      Kunekzistante kun, parte
+      <ref tip="vid" cel="simil.0eal.KOMUNE">simile al</ref>:
+      <ekz>
+        mi kredas eble kaj necese pa&scirc;on post pa&scirc;o instali novan 
+        sistemon de monda regeco <tld/>e kun la malnova
+        <fnt>
+          <aut>L. Metz-Krencker</aut>,
+          <vrk><url ref="http://www.recim.org/A07/heo.htm">
+          Prezentado - Programo</url></vrk>,
+          <lok>Kongreso de la popoloj, [vidita en 2011]</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">parall&egrave;lement &agrave;</trd>
+</drv>
+</art>
+<!--
+$Log: parale.xml,v $
+Revision 1.19  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:40:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2011/04/30 20:10:23  revo
+Jeromo Vasxe: + ~e al
+
+Revision 1.16  2006/02/25 17:32:11  revo
+Tulio Flores: +tr pt
+
+Revision 1.15  2004/07/21 20:44:53  revo
+Marc Bavant: kor duobligitan punkton
+
+Revision 1.14  2004/07/16 16:31:43  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.13  2003/09/15 16:31:07  revo
+Yury Finkel: +trd ru
+
+Revision 1.12  2003/07/15 16:31:27  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.11  2003/01/02 17:49:26  revo
+Marc Bavant: +trd pl, mod fnt MatVort
+
+Revision 1.10 2002/03/13 17:36:10 revo
+-->
+</vortaro>

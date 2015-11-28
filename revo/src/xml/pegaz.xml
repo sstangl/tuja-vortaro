@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: pegaz.xml,v 1.11 2015/07/04 08:37:41 revo Exp $">
+<kap>
+  <rad>Pegaz</rad>/o <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="pegaz.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="pegaz.0o.MIT">
+    <uzo tip="fak">MIT</uzo>
+    <dif>
+      Flugilhava &ccirc;evalo, simbolo de la poezia fantazio:
+      <ekz>
+        mi e&ccirc; imagos, ke mi rajdas sur la &ccirc;evalo <tld/>o
+        <fnt><bib>DonKihxoto</bib>, <lok>parto 1a, &ccirc;apitro 29a, p.
+        220a</lok></fnt>.
+      </ekz>
+    </dif>
+    <ref tip="vid" cel="hipogrif.0o">hipogrifo</ref>
+    <trd lng="ca">Peg&agrave;s</trd>
+    <trdgrp lng="fa">
+      <trd>&a_A;&a_s;&a_b; &a_b;&a_A;&a_l;&a_d;&a_A;&a_r;</trd>,
+      <trd>&f_p;&f_g;&a_A;&a_s;&a_w;&a_s;</trd>
+    </trdgrp>
+  </snc>
+
+<snc mrk="pegaz.0o.AST">
+<uzo tip="fak">AST</uzo>
+ <dif>
+Nord-hemisfera kvadratforma
+<ref tip="lst" cel="stel.0figuro"
+lst="voko:stelfiguroj">stelfiguro</ref> (
+<trd lng="la">Pegasus</trd>).
+ </dif>
+ <trd lng="ca">el Peg&agrave;s</trd>
+ <trdgrp lng="fa">
+   <trd>&a_A;&a_s;&a_b; &a_b;&a_A;&a_l;&a_d;&a_A;&a_r;<klr tip="amb"> (&a_S;&a_w;&a_r;&a_t; &a_f;&a_l;&f_k;&f_y;)</klr></trd>,
+   <trd>&a_f;&a_fatha;&a_r;&a_fatha;&a_s; &a_A;&a_ayn;&a_Z;&a_m;</trd>
+ </trdgrp>
+ </snc>
+  <trdgrp lng="cs">
+    <trd>Pegas</trd>,
+    <trd>Pegasos</trd>
+  </trdgrp>
+  <trd lng="es">Pegaso</trd>
+  <trd lng="fr">P&eacute;gase</trd>
+  <trd lng="it">Pegaso</trd>
+  <trd lng="nl">Pegasus</trd>
+  <trd lng="pl">Pegaz</trd>
+  <trd lng="pt">P&eacute;gaso</trd>
+  <trd lng="sk">Pegas</trd>
+</drv>
+</art>
+
+<!--
+$Log: pegaz.xml,v $
+Revision 1.11  2015/07/04 08:37:41  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.10  2015/06/29 16:40:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.9  2013/08/25 08:10:38  revo
+Wolfram Diestel: referenco al listo stelfiguroj
+
+Revision 1.8  2011/12/05 01:10:38  revo
+Marc Rausell: kataluna traduko
+
+Revision 1.7  2010/05/16 16:31:08  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.6  2008/09/28 16:30:15  revo
+Antonio Codazzi: + trd it +pegaz(AST)
+
+Revision 1.5  2008/06/16 16:53:49  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.4  2006/02/27 17:32:23  revo
+Tulio Flores: +tr pt
+
+Revision 1.3  2005/04/04 16:32:45  revo
+Raul Salinas Monteagudo: +trd es
+
+Revision 1.2  2005/01/26 17:32:19  revo
+-->
+</vortaro>

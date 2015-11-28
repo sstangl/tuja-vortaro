@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: mutil.xml,v 1.3 2015/07/04 08:37:39 revo Exp $">
+<kap>
+  <rad>mutil</rad>/i <fnt><bib>PIV1</bib></fnt>
+</kap>
+<drv mrk="mutil.0i">
+  <kap><tld/>i</kap>
+  <uzo tip="stl">EVI</uzo>
+  <snc mrk="mutil.0i.MED">
+    <ref tip="dif" cel="kripl.0igi.MED">kripligi</ref>
+      <ekz>
+      <klr>la</klr> <tld/>itan kadavron mi trovis en la &ccirc;evalejo
+      <fnt>
+        <aut>J. L. Borges, trad. Liven Dek</aut>,
+        <vrk><url ref="http://esperanto-ondo.ru/Tl-hisp4.htm">
+        La viro &ccirc;e la sojlo</url></vrk>,
+        <lok>en: La sekreta miraklo, 2008</lok>
+      </fnt>.
+    </ekz>
+  </snc>
+  <!-- formon evitindan prefere ne traduku -->
+  <trdgrp lng="sk">
+    <trd>zmrzačiť</trd>,
+    <trd>znetvoriť</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>zmrzačit</trd>,
+    <trd>znetvořit</trd>
+  </trdgrp>
+</drv>
+</art>
+
+<!--
+$Log: mutil.xml,v $
+Revision 1.3  2015/07/04 08:37:39  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.2  2015/06/29 16:33:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.1  2014/09/03 01:10:23  revo
+Jeromo Vasxe: nova artikolo
+
+-->
+</vortaro>

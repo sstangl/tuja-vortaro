@@ -1,0 +1,299 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: ton.xml,v 1.26 2015/09/14 18:10:15 revo Exp $">
+<kap>
+  <ofc>*</ofc> <rad>ton</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="ton.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="ton.0o.MUZ_unu">
+    <uzo tip="fak">MUZ</uzo>
+    <dif>
+      Muzika sono:
+      <ekz>
+        li tamen a&ubreve;dis ankora&ubreve; la <tld/>ojn de orgeno
+        <fnt><bib>Fab1</bib>, <lok>galo&scirc;oj de feli&ccirc;o, 4</lok></fnt>;
+      </ekz>
+      <ekz>
+        tio estas nur du <tld/>oj, &ccirc;iam bum, bum
+        <fnt><bib>Fab2</bib>, <lok>ne&gcirc;a re&gcirc;ino</lok></fnt>!
+      </ekz>
+      <ekz>
+        sonu plue, vi <tld/>oj de la bela &ccirc;askorno
+        <fnt><bib>Fab2</bib>, <lok>bildo el kastelremparo</lok></fnt>;
+      </ekz>
+      <ekz>
+        mis<tld/>o.
+      </ekz>
+    </dif>
+    <trd lng="en">note</trd>
+    <trd lng="hu">zenei <ind>hang</ind></trd>
+    <trd lng="pt">som</trd>
+  </snc>
+  <snc mrk="ton.0o.MUZ_baza">
+    <uzo tip="fak">MUZ</uzo>
+    <dif>
+      &Ccirc;ef<tld/>o, baza sono de muzika skalo, sur kiu estas fundamentita
+      muzika verko:
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        doni la <tld/>on
+        <klr>(havi la &ccirc;efan vo&ccirc;on; esti sufi&ccirc;e
+        influa por esti obee imitata de &ccirc;iuj,
+        <ref tip="vid" cel="konduk.0i">konduki 5</ref>)</klr>
+        <fnt><bib>PrV</bib></fnt>..
+      </ekz>
+    </dif>
+    <trd lng="hu">alaphang</trd>
+    <trd lng="pt">tom</trd>
+  </snc>
+  <snc mrk="ton.0o.parola">
+    <dif>
+      Nuanco de la vo&ccirc;o, per kiu oni esprimas siajn sentojn:
+      <ekz>
+        afabla, amika, kolera, kortu&scirc;a <tld/>o;
+      </ekz>
+      <ekz>
+        paroli kun a&ubreve;toritata <tld/>o<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        &scirc;i diris per <tld/>o, kiu volis soni kiom eble plej
+        aristokrate<fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        de tiu momento la <tld/>o de nia interparolado iom dol&ccirc;i&gcirc;is
+        <fnt><bib>Lanti</bib>, <lok>tri semajnoj en rusio, &ccirc;e la sidejo
+        de Komintern</lok></fnt>;
+      </ekz>
+      <ekz>
+        la &ccirc;efa <tld/>o de la libro estas iom melankolia.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="akcent.0i">akcenti</ref>,
+      <ref cel="prozod.0o">prozodio</ref>,
+      <ref cel="tembr.0o">tembro</ref>
+    </refgrp>
+    <trdgrp lng="hu">
+      <trd>hangnem</trd>,
+      <trd>t&oacute;nus</trd>
+    </trdgrp>
+    <trd lng="pt">tom</trd>
+  </snc>
+  <snc mrk="ton.0o.kolora">
+    <dif>
+      Nuanco de koloro:
+      <ekz>
+        &ccirc;irka&ubreve;e la montoj ricevis belegan verdan <tld/>on
+        <fnt><bib>Fab1</bib>, <lok>galo&scirc;oj de feli&ccirc;o</lok></fnt>.
+      </ekz>
+    </dif>
+    <trdgrp lng="hu">
+      <trd>sz&iacute;n&aacute;rnyalat</trd>,
+      <trd>t&oacute;nus</trd>
+    </trdgrp>
+    <trd lng="pt">tom</trd>
+  </snc>
+  <snc mrk="ton.0o.MUZ_inter">
+    <uzo tip="fak">MUZ</uzo>
+    <uzo tip="stl">EVI</uzo>
+    <ref tip="dif" cel="dut.0o.intervalo">duto<sncref/></ref>
+  </snc>
+  <trd lng="be">&c_t;&c_o;&c_n;</trd>
+  <trdgrp lng="cs">
+    <trd>t&oacute;n</trd>,
+    <trd>zvuk</trd>
+  </trdgrp>
+  <trd lng="de">Ton</trd>
+  <trd lng="en">tone</trd>
+  <trdgrp lng="fr">
+    <trd>ton</trd>
+  </trdgrp>
+  <trd lng="nl">toon</trd>
+  <trd lng="pl">ton</trd>
+  <trd lng="ru">&c_t;&c_o;&c_n;</trd>
+  <trd lng="sk">odtie&ncaron; farby</trd>
+  <trd lng="vo">ton</trd>
+</drv>
+
+<drv mrk="ton.bon0o">
+  <kap>bon<tld/>o</kap>
+  <snc mrk="ton.bon0o.MOR">
+    <dif>
+      Eleganta <ref tip="super" cel="gxenti.0eco">&gcirc;entileco</ref> de
+      bonedukita homo:
+      <ekz>
+        nur en la &ccirc;efurbo ekzistas ja bon-<tld/>o
+        <fnt><bib>Revizoro</bib>, <lok>akto 4a, sceno 4a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>bonton</trd>,
+    <trd>dobr&eacute; mravy</trd>,
+    <trd>jemn&eacute; mravy</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>bon <ind>ton</ind></trd>,
+    <trd>bonnes <ind>mani&egrave;re</ind>s</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>j&oacute;lnevelts&eacute;g</trd>,
+    <trd>j&oacute; <ind>modor</ind></trd>
+  </trdgrp>
+  <trd lng="nl">bonton</trd>
+  <trdgrp lng="pl">
+    <trd>bon ton</trd>,
+    <trd>dobre <ind>maniery</ind></trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>bom-tom</trd>,
+    <trd>boas <ind>maneiras</ind></trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_h;&c_o;&c_r;&c_o;&c_sh;&c_i;&c_je; &c_m;&c_a;&c_n;&c_je;&c_r;&c_y;</trd>,
+    <trd>&c_b;&c_o;&c_n;&c_t;&c_o;&c_n; <klr>(&c_u;&c_s;&c_t;.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>bont&oacute;n</trd>,
+    <trd>spr&aacute;vne spr&aacute;vanie</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="ton.dekdu0ismo">
+  <kap>dekdu<tld/>ismo</kap>
+  <snc mrk="ton.dekdu0ismo.MUZ">
+    <uzo tip="fak">MUZ</uzo>
+    <dif>
+      A&ubreve;struj-devena muzika skolo el la komenco de la 20a 
+      jarcento, kiu <ref tip="vid" 
+      cel="tonal.ne0a.MUZ">netonale</ref> uzas de la dekdu 
+      kromatajn tonojn de okto;
+      <ref tip="sin" cel="dodekafonism.0o.MUZ">dodekafonismo</ref>:
+      <ekz>
+        post la elmigrado de Sch&ouml;nberg en Usonon 
+        <klr>...</klr> la dekdu<tld/>ismo precipe 
+        disvasti&gcirc;is en norda Ameriko
+        <fnt>
+          <bib>Viki</bib>,
+          <lok><url ref="http://eo.wikipedia.org/wiki/Dekdutonismo">
+          Dekdutonismo</url>, 2014-02-15</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="en">twelve-tone technique</trd>
+  <trd lng="fr">dod&eacute;caphonisme</trd>
+</drv>
+
+<drv mrk="ton.sub0o">
+  <kap>sub<tld/>o</kap>
+  <snc mrk="ton.sub0o.KOMUNE">
+    <dif>
+      Mal&ccirc;efa <tld/>o, subtile sentebla
+      <ref tip="vid" cel="nuanc.0o">nuanco</ref>:
+      <ekz>
+        milda ironio <klr>...</klr> estas konstatebla
+        kiel ia sub<tld/>o en la originalaj prozverkoj
+        de Szil&aacute;gyi
+        <fnt>
+          <aut>B. Ragnarsson</aut>,
+          <vrk><url
+          ref="http://www.liberafolio.org/2005/aperis/baldur11szilagyi">
+          Ferenc Szil&aacute;gyi: Novelisto kun du hejmlandoj</url></vrk>,
+          <lok>libera folio, 2005</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="fr">
+    <trd>arri&egrave;re-pens&eacute;e</trd>,
+    <trd>connotation</trd>,
+    <trd>inexprim&eacute;<klr> (subst.)</klr></trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="ton.unu0a">
+  <kap>unu<tld/>a</kap>
+  <snc mrk="ton.unu0a.aspekte">
+    <dif>
+      &Ccirc;iam samsona, samkolora, samaspekta, ne sufi&ccirc;e varia,
+      <ref tip="vid" cel="banal.0a">banala</ref>,
+      <ref tip="vid" cel="griz.0a">griza</ref>,
+      <ref tip="vid" cel="monoto.0a">monotona</ref>:
+      <ekz>
+        la silenta, humila, unu<tld/>a penso de la pala virino
+        <fnt><bib>Marta</bib></fnt>;
+      </ekz>
+      <ekz>
+        iliaj raportoj estis tede unu<tld/>aj
+        <fnt><bib>Far3</bib>, <lok>&ccirc;apitro 16a</lok></fnt>;
+      </ekz>
+      <ekz>
+        iu obtuza, unu<tld/>a bruado
+        <fnt><bib>InfanTorent2</bib>, <lok>unua parto, &ccirc;apitro
+        1a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_a;&c_d;&c_n;&c_a;&c_t;&c_o;&c_n;&c_n;&c_y;</trd>,
+    <trd>&c_m;&c_a;&c_n;&c_a;&c_t;&c_o;&c_n;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>jednot&oacute;nov&yacute;</trd>,
+    <trd>p&rcaron;en. monot&oacute;nn&iacute;</trd>
+  </trdgrp>
+  <trd lng="de">eint&ouml;nig</trd>
+  <trdgrp lng="en">
+    <trd>monotone</trd>,
+    <trd>monotonous</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>monotone</trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>egyhang&uacute;</trd>,
+    <trd>monoton</trd>
+  </trdgrp>
+  <trd lng="nl">eentonig</trd>
+  <trd lng="pl">monotonny</trd>
+  <trd lng="pt">mon&oacute;tono</trd>
+  <trdgrp lng="ru">
+    <trd>&c_m;&c_o;&c_n;&c_o;&c_t;&c_o;&c_n;&c_n;&c_y;&c_j;</trd>,
+    <trd>&c_o;&c_d;&c_n;&c_o;&c_t;&c_o;&c_n;&c_n;&c_y;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>jednotv&aacute;rny</trd>,
+    <trd>monot&oacute;nny</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: ton.xml,v $
+Revision 1.26  2015/09/14 18:10:15  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.25  2015/07/04 08:37:45  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.24  2015/06/29 16:40:20  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.23  2014/12/17 00:11:36  revo
+Jeromo Vasxe: + dekdu~ismo
+
+Revision 1.22  2013/09/12 20:10:10  revo
+Jeromo Vasxe: + sub~o
+
+Revision 1.21  2013/05/09 07:10:16  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.20  2006/09/17 16:31:05  revo
+Russ Williams: +trd en
+
+Revision 1.19  2006/02/15 17:35:56  revo
+-->
+</vortaro>

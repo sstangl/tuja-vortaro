@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: konsul1.xml,v 1.21 2015/07/04 08:37:37 revo Exp $">
+<kap>
+  <ofc>3</ofc>
+  <rad>konsult</rad>/i
+  <fnt>Z</fnt>
+</kap>
+
+<drv mrk="konsul1.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc>
+    <dif>
+      Demandi specialiston por koni lian opinion pri io; konsili&gcirc;i kun
+      kompetentulo:
+      <ekz>
+        <tld/>i advokaton, kuraciston, orakolon;
+      </ekz>
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        <tld/>i sian konsciencon.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="kek">aatinank</trd>
+  <trdgrp lng="be">
+    <trd>&c_k;&c_a;&c_n;&c_s;&c_u;&c_l;&c_mol;&c_t;&c_a;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>,
+    <trd>&c_a;&c_t;&c_r;&c_y;&c_m;&c_a;&c_c;&c_mol; <ind>&c_k;&c_a;&c_n;&c_s;&c_u;&c_l;&c_mol;&c_t;&c_a;&c_c;&c_y;&c_ju;</ind></trd>
+  </trdgrp>
+  <trd lng="bg">&c_k;&c_o;&c_n;&c_s;&c_u;&c_l;&c_t;&c_i;&c_r;&c_a;&c_m; &c_s;&c_je;</trd>
+  <trd lng="ca">consultar</trd>
+  <trdgrp lng="cs">
+    <trd>konzultovat <klr>(s)</klr></trd>,
+    <trd>poradit se (s)</trd>,
+    <trd>žádat o radu</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd>konsultieren</trd>,
+    <trd>befragen</trd>,
+    <trd>zu <ind>Rate ziehen</ind></trd>
+  </trdgrp>
+  <trd lng="en">consult</trd>
+  <trd lng="es">consultar</trd>
+  <trd lng="fr">consulter</trd>
+  <trdgrp lng="hu">
+    <trd>konzult&aacute;l</trd>,
+    <trd>tan&aacute;cskozik</trd>,
+    <trd>ut&aacute;nan&eacute;z <klr tip="ind">(vminek)</klr></trd>
+  </trdgrp>
+  <trd lng="nl">raadplegen</trd>
+  <trd lng="pt">consultar</trd>
+  <trdgrp lng="ru">
+    <trd>&c_k;&c_o;&c_n;&c_s;&c_u;&c_l;&c_mol;&c_t;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;&c_s;&c_ja; <klr>(&c_u; &c_k;&c_o;&c_g;&c_o;-&c_l;.)</klr></trd>,
+    <trd>&c_p;&c_o;&c_l;&c_u;&c_ch;&c_i;&c_t;&c_mol; &c_k;&c_o;&c_n;&c_s;&c_u;&c_l;&c_mol;&c_t;&c_a;&c_c;&c_i;&c_ju; <klr>(&c_u; &c_k;&c_o;&c_g;&c_o;-&c_l;.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>konzultovať</trd>,
+    <trd>poradiť sa <klr>(s)</klr></trd>,
+    <trd>žiadať o radu</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="konsul1.0igxa">
+  <kap><tld/>i&gcirc;a</kap>
+  <snc>
+    <dif>
+      Rajtanta doni sian opinion pri demando, sed ne decidi pri &gcirc;i:
+      <ekz>
+        <ind><tld/>i&gcirc;a komitato</ind>
+        <klr>(kontraste kun balotrajta)</klr>.
+        <trd lng="ca">comit&eacute; consultiu</trd>
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_k;&c_a;&c_n;&c_s;&c_u;&c_l;&c_mol;&c_t;&c_a;&c_c;&c_y;&c_j;&c_n;&c_y;</trd>
+  <trd lng="bg">&c_s;&c_malmol;&c_v;&c_je;&c_shch;&c_a;&c_t;&c_je;&c_l;&c_je;&c_n;</trd>
+  <trd lng="ca">consultiu</trd>
+  <trdgrp lng="de">
+    <trd>beratend</trd>
+  </trdgrp>
+  <trd lng="en">advisory</trd>
+  <trdgrp lng="es">
+    <trd>de consulta</trd>
+    <trd>consultor, consultora</trd>
+  </trdgrp>
+  <trd lng="fr">consultatif</trd>
+  <trd lng="hu">tan&aacute;cskoz&oacute;</trd>
+  <trdgrp lng="hu">
+    <trd>tan&aacute;cskoz&oacute;</trd>
+    <trd>tan&aacute;cskoz&aacute;si</trd>
+  </trdgrp>
+  <trd lng="nl">adviserend</trd>
+  <trdgrp lng="ru">
+    <trd>&c_k;&c_o;&c_n;&c_s;&c_u;&c_l;&c_mol;&c_t;&c_a;&c_t;&c_i;&c_v;&c_n;&c_y;&c_j;</trd>,
+    <trd>&c_s;&c_o;&c_v;&c_je;&c_shch;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: konsul1.xml,v $
+Revision 1.21  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.20  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.19  2013/12/10 16:10:17  revo
+Damien Brucker: +trd fr
+
+Revision 1.18  2011/12/24 20:10:11  revo
+Marc Rausell: +trd ca
+
+Revision 1.17  2011/11/07 01:10:12  revo
+ Anchise Inzaghi: traduko q'eqchi'
+
+Revision 1.16  2008/03/11 17:30:14  revo
+Wieland Pusch: +trd bg
+
+Revision 1.15  2008/03/10 17:30:17  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.14  2007/03/06 17:30:54  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.13  2006/11/30 18:43:11  revo
+Tulio Flores: +tr pt
+
+Revision 1.12  2004/08/25 16:31:57  revo
+-->
+</vortaro>

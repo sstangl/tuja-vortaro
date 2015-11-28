@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: trigl.xml,v 1.10 2014/01/09 11:10:14 revo Exp $">
+<kap>
+  <rad>trigl</rad>/o
+</kap>
+<drv mrk="trigl.0o">
+  <kap><tld/>o</kap>
+ 
+  <snc mrk="trigl.0o.KOMUNE">
+    <uzo tip="stl">KOMUNE</uzo>
+    <dif>
+      Iu el familio 
+      <ref tip="malprt"
+      cel="trigle.0oj"><tld/>edoj</ref>,
+      <ref tip="lst" cel="fisx.mar0o" lst="voko:fi&scirc;oj">marfi&scirc;o</ref>
+      kun dornoj sur la brankokovriloj
+      kaj ru&gcirc;a korpo, povanta murmuri.
+    </dif>
+    <trd lng="pl">kurek</trd>
+  </snc>
+  <snc mrk="trigl.0o.genro">   
+    <uzo tip="fak">ZOO</uzo>
+    <dif>
+      <ref tip="lst" cel="genr.0o.BIO"
+      lst="voko:zoologiaj_genroj">Genro</ref> el familio <ref
+      tip="malprt"
+      cel="trigle.0oj"><tld/>edoj</ref>
+      (<trd lng="la">Trigla</trd>). 
+    </dif>
+    <trd lng="pl">kurek je&zdot;yk</trd>
+  </snc>
+  <trd lng="bg">&c_t;&c_r;&c_i;&c_g;&c_l;&c_a;</trd>
+  <trd lng="de">Knurrhahn</trd>
+  <trdgrp lng="en">
+    <trd>gurnard</trd>,
+    <trd>sea robin</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>grondin</trd>,
+    <trd>trigle</trd>
+  </trdgrp>
+  <trd lng="es">rubios</trd>
+  <trd lng="hu">morg&oacute;hal</trd>
+  <trd lng="it">pesce capone</trd>
+  <trdgrp lng="nl">
+    <trd>poon</trd>,
+    <trd>knorhaan</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>cabrinha</trd>,
+    <trd>cabra</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_t;&c_r;&c_i;&c_g;&c_l;&c_a;</trd>,
+    <trd>&c_m;&c_o;&c_r;&c_s;&c_k;&c_o;&c_j; &c_p;&c_je;&c_t;&c_u;&c_h;</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: trigl.xml,v $
+Revision 1.10  2014/01/09 11:10:14  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.9  2013/10/17 19:10:21  revo
+Wolfram Diestel: ref al lst fisxoj, prilaboris dif, disigis snc KOMUNE
+kaj genro
+
+Revision 1.8  2013/09/05 18:10:39  revo
+Wolfram Diestel: referenco al listo zoo genroj
+
+Revision 1.7  2013/08/05 11:10:12  revo
+Joop Eggen: +trd bg
+
+Revision 1.6  2002/07/11 17:33:16  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.5  2002/03/13 17:34:33  revo
+Yury Finkel: +trd ru
+
+Revision 1.4 2001/05/11 20:14:17 revo
+trigl.0edoj -> trigle.0oj
+
+-->
+</vortaro>

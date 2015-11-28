@@ -1,0 +1,516 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: liter.xml,v 1.55 2015/07/04 08:37:38 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>liter</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="liter.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="liter.0o.propra">
+    <uzo tip="fak">TIP</uzo>
+    <dif>
+      &Ccirc;iu signo de la alfabeto uzata en skribado a&ubreve; presado
+      por prezenti <ref cel="son.parol0o">parolsonojn</ref>
+      de lingvo:
+      <ekz>
+        la 28 <tld/>oj de la Esperanta alfabeto;
+      </ekz><ekz>
+        supersignitaj (kun&ccirc;apelaj, &ccirc;apelitaj, tegmentitaj)
+        <tld/>oj
+        <klr>
+        (<ref tip="vid" cel="diakrit.0ajxo">diakrita&jcirc;oj</ref>)
+        </klr>;
+      </ekz><ekz>
+        anstata&ubreve; la signeto superlitera oni povas kura&gcirc;e uzadi la
+        <tld/>on h kaj anstata&ubreve; &ubreve; &mdash; simplan u
+        <fnt><bib>LR</bib>, <lok>La Esperantisto, 1890,
+        p.32</lok></fnt>;
+      </ekz><ekz>
+        nomoj de la <tld/>oj: a, bo, co, &ccirc;o, do, e, fo, go, &gcirc;o, ho, &hcirc;o,
+        i, jo, &jcirc;o, ko, lo, mo, no, o, po, ro, so, &scirc;o, to, u, &ubreve;o, vo,
+        zo<fnt><bib>F</bib>, <lok>&FE;1</lok></fnt>;
+      </ekz><ekz>
+        sur &ccirc;iu pa&gcirc;o <klr>(temas pri skribmodelo)</klr>
+        staris &ccirc;iuj grandaj <tld/>oj, &ccirc;iu kun malgranda
+        <tld/>o flanke, unu post la alia<fnt><bib>Fab2</bib>, <lok>Dio
+        de dormo</lok></fnt>;
+      </ekz><ekz>
+        en nia lingvo ne ekzistas duoblaj vokaloj, sed
+        &ccirc;iu litero estas elparolata &ccirc;iam egale kaj &ccirc;iam
+        aparte<fnt><bib>LR</bib></fnt>;
+      </ekz><ekz>
+        &ccirc;iu vorto estas legata, kiel &gcirc;i estas skribita. Ne estas
+        neelparolataj <tld/>oj<fnt><bib>F</bib></fnt>.
+      </ekz>       
+    </dif>
+    <ref tip="super" cel="grafem.0o">grafemo</ref>
+    <ref tip="malprt" cel="alfabe.0o">alfabeto</ref>
+    <ref tip="vid" cel="fonem.0o">fonemo</ref>
+
+  </snc>
+  <snc mrk="liter.0o.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Formulo, skribita teksto:
+      <ekz>
+        <uzo tip="stl">FRAZ</uzo>
+        <ref cel="liter.malviva0o">malviva <tld/>o</ref><fnt>Z</fnt>;
+      </ekz>
+      <ekz>
+        ne sekvu la <tld/>on, sed la spiriton
+        <klr>(ne formale la vortojn, sed la intiman sencon)</klr>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_l;&c_ib;&c_t;&c_a;&c_r;&c_a;</trd>
+  <trd lng="bg">&c_b;&c_u;&c_k;&c_v;&c_a;</trd>
+  <trd lng="cs">p&iacute;smeno</trd>
+  <trd lng="de">Buchstabe</trd>
+  <trd lng="el">&gamma;&rho;&alfa_ton;&my;&my;&alfa;</trd>
+  <trd lng="en">letter</trd>
+  <trd lng="es">letra</trd>
+  <trd lng="fr">lettre</trd>
+  <trd lng="hu">bet&udblac;</trd>
+  <trd lng="id">huruf</trd>
+  <trd lng="it">lettera<klr> (alfabeto)</klr></trd>
+  <trd lng="nl">letter</trd>
+  <trd lng="pl">litera</trd>
+  <trd lng="pt">letra</trd>
+  <trd lng="ru">&c_b;&c_u;&c_k;&c_v;&c_a;</trd>
+  <trd lng="sk">písmeno</trd>
+  <trd lng="tr">harf</trd>
+</drv>
+
+<drv mrk="liter.0umi">
+  <kap><tld/>umi</kap>
+  <snc mrk="liter.0umi.ortografii">
+    <ref tip="dif" cel="ortogr.0o">ortografii</ref>
+    <ekz>
+      kiel vi <tld/>umas vian nomon? <fnt>PIV</fnt>.
+    </ekz>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>hláskovat</trd>,
+    <trd>namáhavě číst</trd>,
+    <trd>slabikovat</trd>
+  </trdgrp>
+  <trd lng="de">buchstabieren</trd>
+  <trd lng="en">spell<klr tip="ind"> (a word)</klr></trd>
+  <trd lng="es">deletrear</trd>
+  <trd lng="fr">&eacute;peler</trd>
+  <trd lng="hu">bet&udblac;z<klr tip="ind"> (sz&oacute;t)</klr></trd>
+  <trd lng="it">scrivere<klr> (forma ortografica)</klr></trd>
+  <trd lng="nl">spellen</trd>
+  <trdgrp lng="pl">
+    <trd>literowa&cacute;</trd>,
+    <trd>przeliterowywa&cacute;</trd>,
+    <trd>pisa&cacute;</trd>
+  </trdgrp>
+  <trd lng="pt">soletrar</trd>
+  <trd lng="ru">&c_n;&c_a;&c_z;&c_y;&c_v;&c_a;&c_t;&c_mol;, &c_p;&c_r;&c_o;&c_i;&c_z;&c_n;&c_o;&c_s;&c_i;&c_t;&c_mol;, &c_ch;&c_i;&c_t;&c_a;&c_t;&c_mol;
+    &c_p;&c_o; <ind>&c_b;&c_u;&c_k;&c_v;&c_a;&c_m;</ind><klr> (&c_i;&c_m;&c_ja;, &c_s;&c_l;&c_o;&c_v;&c_o;)</klr></trd>
+  <trd lng="sk">hláskovať</trd>
+  <trd lng="tr">hecelemek</trd>
+</drv>
+
+<drv mrk="liter.0umilo">
+  <kap><tld/>umilo</kap>
+  <snc mrk="liter.0umilo.TIP">
+    <uzo tip="fak">KOMP</uzo>
+    <uzo tip="fak">TIP</uzo>
+    <dif>
+      Programo por kontroli ortografion de homlingva teksto, ofte
+      disponebla dialoge en teksta
+      <ref tip="vid" cel="redakt.0ilo">redaktilo</ref>:
+      <ekz>
+        UniRed entenas potencan esperantan <tld/>umilon
+        kaj havas kelkajn vere pintajn pliajn propra&jcirc;ojn
+        <fnt><aut>Pejno S.</aut>,
+        <vrk><url ref="&amp;Monato/007339.html">Sidi&gcirc;u
+        kaj tajpu</url></vrk>,
+        <bib>Monato</bib>,
+        <lok>2001:01</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="be">
+    <trd>&c_p;&c_r;&c_a;&c_g;&c_r;&c_a;&c_m;&c_a; &c_p;&c_r;&c_a;&c_v;&c_je;&c_r;&c_k;&c_ib; &c_p;&c_r;&c_a;&c_v;&c_a;&c_p;&c_ib;&c_s;&c_u;</trd>,
+    <trd>&c_m;&c_o;&c_d;&c_u;&c_l;&c_mol; &c_p;&c_r;&c_a;&c_v;&c_je;&c_r;&c_k;&c_ib; &c_p;&c_r;&c_a;&c_v;&c_a;&c_p;&c_ib;&c_s;&c_u;</trd>
+  </trdgrp>
+  <trd lng="cs">program na kontrolu pravopisu</trd>
+  <trd lng="de">Rechtschreibkontrolle</trd>
+  <trdgrp lng="en">
+    <trd>speller</trd>,
+    <trd>spelling checker</trd>,
+    <trd>spell-checker</trd>
+  </trdgrp>
+  <trd lng="es">corrector ortogr&aacute;fico</trd>
+  <trd lng="fr">correcteur orthographique</trd>
+  <trd lng="hu">helyes&iacute;r&aacute;sellen&odblac;rz&odblac;</trd>
+  <trd lng="it">correttore<klr> ortografico
+  (automatico)</klr></trd>
+  <trd lng="nl">spellingcontroleprogramma</trd>
+  <trd lng="pl">korektor <ind>pisowni</ind></trd>
+  <trd lng="pt">corretor ortogr&aacute;fico</trd>
+  <trdgrp lng="ru">
+    <trd>&c_k;&c_o;&c_r;&c_r;&c_je;&c_k;&c_t;&c_o;&c_r;
+    <klr>(&c_p;&c_r;&c_o;&c_g;&c_r;&c_a;&c_m;&c_m;&c_a;)</klr></trd>,
+    <trd>&c_s;&c_r;&c_je;&c_d;&c_s;&c_t;&c_v;&c_o; &c_o;&c_r;&c_f;&c_o;&c_g;&c_r;&c_a;&c_f;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_o;&c_g;&c_o;
+    &c_k;&c_o;&c_n;&c_t;&c_r;&c_o;&c_l;&c_ja;</trd>
+  </trdgrp>
+  <trd lng="sk">program na kontrolu pravopisu</trd>
+</drv>
+
+<drv mrk="liter.cxiu0ajxo">
+  <kap>&ccirc;iu<tld/>a&jcirc;o</kap>
+  <snc mrk="liter.cxiu0ajxo.TIP">
+    <uzo tip="fak">TIP</uzo>
+    <dif>
+      Frazo entenanta &ccirc;iujn <tld/>ojn de la <ref
+      cel="alfabe.0o">alfabeto</ref> de koncerna lingvo, uzebla por
+      testi tiparon, ktp:
+      <ekz>
+        la &ccirc;iu<tld/>a&jcirc;o:
+        <ctl>La&ubreve; Ludoviko Zamenhof bongustas fre&scirc;a
+        &ccirc;e&hcirc;a man&gcirc;a&jcirc;o kun spicoj</ctl>
+        estas la plej flua. La &ccirc;iu<tld/>a&jcirc;o:
+        <ctl>Gajecvo&ccirc;a fu&scirc;mu&gcirc;a&jcirc;o de knab&hcirc;oro haltpa&ubreve;zis</ctl>
+        estas unu el la plej mallongaj.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="bg">&c_p;&c_a;&c_n;&c_g;&c_r;&c_a;&c_m;&c_a;</trd>
+  <trd lng="de">Pangramm</trd>
+  <trd lng="en">pangram</trd>
+  <trd lng="es">pangrama</trd>
+  <trd lng="fr">pangramme</trd>
+  <trd lng="id">pangram</trd>
+  <trd lng="it">pangramma</trd>
+  <trd lng="nl">pangram</trd>
+  <trd lng="pl">pangram</trd>
+  <trd lng="ru">&c_p;&c_a;&c_n;&c_g;&c_r;&c_a;&c_m;&c_m;&c_a;</trd>
+</drv>
+
+<drv mrk="liter.du0ajxo">
+  <kap>du<tld/>a&jcirc;o</kap>
+  <snc mrk="liter.du0ajxo.TIP">
+    <uzo tip="fak">TIP</uzo>
+    <dif>
+      <ref tip="super" cel="liter.plur0ajxo">Plur<tld/>a&jcirc;o</ref>
+      el du literoj, ofte rigardata kiel unu <tld/>o:
+      <ekz>
+        en la &ccirc;e&hcirc;a <ref cel="alfabe.0o">alfabeto</ref> la
+        du<tld/>a&jcirc;o <em>ch</em> okupas
+        lokon inter <em>h</em> kaj <em>i</em>;
+      </ekz><ekz>
+        la&ubreve; la Fundamento, la &ccirc;apelitajn <tld/>ojn de
+        Esperanto oni rajtas prezenti per du<tld/>a&jcirc;oj <em>ch, gh,
+        hh, jh</em> ktp.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_d;&c_y;&c_g;&c_r;&c_a;&c_f;</trd>
+  <trd lng="en">digraph</trd>
+  <trd lng="es">d&iacute;grafo</trd>
+  <trd lng="fr">digramme</trd>
+  <trd lng="hu">k&eacute;tjegy&udblac; bet&udblac;</trd>
+  <trd lng="id">digraf</trd>
+  <trd lng="it">digramma</trd>
+  <trd lng="nl">tweelettergroep</trd>
+  <trdgrp lng="pt">
+    <trd>d&iacute;grafo</trd>,
+    <trd>digrama</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_d;&c_i;&c_g;&c_r;&c_a;&c_f;</trd>,
+    <trd>&c_d;&c_v;&c_o;&c_j;&c_n;&c_a;&c_ja; &c_b;&c_u;&c_k;&c_v;&c_a;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="liter.granda0o">
+  <kap>granda <tld/>o<fnt>Z</fnt>,
+  <var><kap>&ccirc;ef<tld/>o <fnt><bib>PIV1</bib></fnt></kap></var></kap>
+  <snc mrk="liter.granda0o.TIP">
+    <uzo tip="fak">TIP</uzo>
+    <dif>
+      <ref tip="super" cel="liter.0o.propra">Litero</ref> en formo
+      relative pli granda, klara a&ubreve; eleganta, kiel la majusklaj
+      literoj de la antikvaj surskriboj, tial opiniata speciale konvena
+      por la komenca pozicio (en propraj nomoj, komence de frazo ktp);
+      ano de la serio <em>A, B, C ...</em> kontraste al la
+      <ref cel="liter.malgranda0o">malgrandaj <tld/>oj</ref>
+      <em>a, b, c ...</em>;
+    </dif>
+    <ref tip="sin" cel="majuskl.0o.TIP">majusklo</ref>
+  <rim>
+  Ne ekzistas devigaj reguloj pri la uzo de majuskloj kaj minuskloj.
+  Ordinare oni uzas la minusklajn <tld/>formojn. Majusklojn oni uzas
+  kiel unuan <tld/>on de &ccirc;efa frazo, kaj kiel unuan <tld/>on de propra
+  nomo, kaj en iuj <ref tip="vid" cel="long.mal0igo">mallongigoj</ref>
+  <fnt><bib>PMEG</bib></fnt>.
+  </rim>
+  </snc>
+  <trd lng="be">&c_v;&c_ja;&c_l;&c_ib;&c_k;&c_a;&c_ja; <ind>&c_l;&c_ib;&c_t;&c_a;&c_r;&c_a;</ind></trd>
+  <trdgrp lng="de">
+    <trd>Anfangsbuchstabe</trd>,
+    <trd>Gro&szlig;buchstabe</trd>,
+    <trd>Majuskel</trd>
+  </trdgrp>
+  <trd lng="en">capital letter</trd>
+  <trdgrp lng="es">
+    <trd>letra capital<klr> (may&uacute;scula)</klr></trd>,
+    <trd>may&uacute;scula</trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>capitale<klr> (majuscule)</klr></trd>,
+    <trd>majuscule</trd>
+  </trdgrp>
+  <trd lng="hu">nagybet&udblac;</trd>
+  <trd lng="id">huruf kapital</trd>
+  <trdgrp lng="it">
+    <trd>capolettera</trd>,
+    <trd>capilettera</trd>,
+    <trd>maiuscola</trd>
+  </trdgrp>
+  <trd lng="nl">hoofdletter</trd>
+  <trdgrp lng="pl">
+    <trd>du&zdot;a <ind>litera</ind></trd>,
+    <trd>wielka <ind>litera</ind></trd>,
+    <trd>majusku&lstroke;a</trd>,
+    <trd>wersalik</trd>,
+    <trd><ind>litera</ind> drukowana<klr> (pot.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_p;&c_r;&c_o;&c_p;&c_i;&c_s;&c_n;&c_a;&c_ja; &c_b;&c_u;&c_k;&c_v;&c_a;</trd>,
+    <trd>&c_b;&c_o;&c_l;&c_mol;&c_sh;&c_a;&c_ja; &c_b;&c_u;&c_k;&c_v;&c_a;</trd>,
+    <trd>&c_z;&c_a;&c_g;&c_l;&c_a;&c_v;&c_n;&c_a;&c_ja; &c_b;&c_u;&c_k;&c_v;&c_a;</trd>
+  </trdgrp>
+  <trd lng="tr">b&uuml;y&uuml;k harf</trd>
+</drv>
+
+<drv mrk="liter.kvar0ajxo">
+  <kap>kvar<tld/>a&jcirc;o</kap>
+  <snc mrk="liter.kvar0ajxo.TIP">
+    <uzo tip="fak">TIP</uzo>
+    <dif>
+      <ref tip="super" cel="liter.plur0ajxo">Plur<tld/>a&jcirc;o</ref>
+      el kvar <tld/>oj:
+      <ekz>
+        la angla kvar<tld/>a&jcirc;o <em>ough</em> estas plursignifa
+        (kp <em>cough, dough, ought</em>...).
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_t;&c_e;&c_t;&c_r;&c_a;&c_g;&c_r;&c_a;&c_f;</trd>
+  <trd lng="en">tetragraph</trd>
+  <trd lng="es">fonema representado por cuatro letras</trd>
+  <trd lng="fr">t&eacute;tragramme</trd>
+  <trd lng="hu">n&eacute;gyjegy&udblac; bet&udblac;</trd>
+  <trd lng="it">tetragramma</trd>
+  <trd lng="nl">vierlettergroep</trd>
+  <trd lng="ru">&c_t;&c_je;&c_t;&c_r;&c_a;&c_g;&c_r;&c_a;&c_f;</trd>
+</drv>
+
+<drv mrk="liter.laux0a">
+  <kap>la&ubreve;<tld/>a</kap>
+  <snc mrk="liter.laux0a.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <ref tip="dif" cel="vort.0a">la&ubreve;vorta</ref>
+    <ekz>
+      la&ubreve;<tld/>a traduko, kompreno;
+    </ekz>
+    <ekz>
+      absoluta kaj la&ubreve;<tld/>a reguleco<fnt>Z</fnt>.
+    </ekz>      
+  </snc>
+  <trd lng="be">&c_l;&c_ib;&c_t;&c_a;&c_r;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>
+  <trd lng="de">buchst&auml;blich</trd>
+  <trd lng="es">literal</trd>
+  <trd lng="fr">litt&eacute;ral</trd>
+  <trd lng="nl">letterlijk</trd>
+  <trd lng="pl">dos&lstroke;owny</trd>
+  <trd lng="ru">&c_b;&c_u;&c_k;&c_v;&c_a;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
+</drv>
+
+<drv mrk="liter.malgranda0o">
+  <kap>malgranda <tld/>o<fnt>Z</fnt>,
+  <var><kap>et<tld/>o</kap></var></kap>
+  <snc mrk="liter.malgranda0o.TIP">
+    <uzo tip="fak">TIP</uzo>
+    <dif>
+      <ref tip="super" cel="liter.0o.propra">Litero</ref> apartenanta
+      al la pli ordinara speco ol la
+      <ref cel="liter.granda0o">grandaj <tld/>oj</ref>; en Esperanto,
+      ano de la serio <em>a, b, c, &ccirc; ...</em>;
+    </dif>
+      <ref tip="sin" cel="minuskl.0o.TIP">minusklo</ref>
+  </snc>
+  <trd lng="be">&c_m;&c_a;&c_l;&c_a;&c_ja; <ind>&c_l;&c_ib;&c_t;&c_a;&c_r;&c_a;</ind></trd>
+  <trdgrp lng="de">
+    <trd>Kleinbuchstabe</trd>,
+    <trd>Minuskel</trd>
+  </trdgrp>
+  <trd lng="en">small letter</trd>
+  <trd lng="es">min&uacute;scula</trd>
+  <trdgrp lng="fr">
+    <trd>bas de casse</trd>,
+    <trd>minuscule</trd>
+  </trdgrp>
+  <trd lng="hu">kisbet&udblac;</trd>
+  <trd lng="id">huruf kecil</trd>
+  <trd lng="it">minuscolo</trd>
+  <trd lng="nl">kleine <ind>letter</ind></trd>
+  <trdgrp lng="pl">
+    <trd>ma&lstroke;a <ind>litera</ind></trd>,
+    <trd><ind>litera</ind> tekstowa</trd>,
+    <trd>minusku&lstroke;a</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_s;&c_t;&c_r;&c_o;&c_ch;&c_n;&c_a;&c_ja; &c_b;&c_u;&c_k;&c_v;&c_a;</trd>,
+    <trd>&c_m;&c_a;&c_l;&c_a;&c_ja; &c_b;&c_u;&c_k;&c_v;&c_a;</trd>
+  </trdgrp>
+ <trd lng="tr">k&uuml;&ccedil;&uuml;k harf</trd>
+</drv>
+
+<drv mrk="liter.pres0o">
+  <kap>pres<tld/>o</kap>
+  <uzo tip="fak">TIP</uzo>
+  <snc mrk="liter.pres0o.formo">
+    <dif>
+      Grafika formo de <tld/>o
+      (<ref cel="sign.0obildo.KOMP">signobildo</ref>), normale uzata en
+      presa&jcirc;oj, sed iam anka&ubreve; mane skribataj:
+      <ekz>
+        &Ccirc;u vi skribis vian adreson per pres<tld/>oj?
+        <fnt>
+          <aut>Theodor Kilian</aut>:
+          <vrk>Lernolibro de Esperanto</vrk>.
+          <lok><url
+ref="http://esperanto.czechian.net/ucebnice/leciono16/leciono16.html"
+              >16a leciono</url></lok>
+        </fnt>.        
+      </ekz>
+    </dif>
+    <trd lng="ru">&c_p;&c_je;&c_ch;&c_a;&c_t;&c_n;&c_a;&c_ja; &c_b;&c_u;&c_k;&c_v;&c_a;</trd>
+    <trdgrp lng="en">
+      <trd>block letter</trd>,
+      <trd>printscript</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="liter.pres0o.tipo">
+    <uzo tip="stl">EVI</uzo>
+    <ref tip="dif" cel="tip.0o.TIP">prestipo</ref>
+    <rim>
+      Prestipoj estas uzataj ne nur por literoj, sed anka&ubreve; por la
+      ciferoj, interpunkciaj signoj kaj aliaj simboloj.
+    </rim>
+  </snc>
+  <trd lng="cs">tištěné písmeno</trd>
+  <trd lng="sk">tlačené písmeno</trd>
+</drv>
+
+<drv mrk="liter.plur0ajxo">
+  <kap>plur<tld/>a&jcirc;o</kap>
+  <snc mrk="liter.plur0ajxo.TIP">
+    <uzo tip="fak">TIP</uzo>
+    <dif>
+      Kombino el pluraj <tld/>oj kiu en koncerna skribosistemo
+      havas unu a&ubreve; plurajn fonetikajn valorojn malsamajn ol la
+      sinsekvo da sonoj prezentataj per la komponantaj <tld/>oj:
+      <ekz>
+        la angla skribosistemo entenas 26 <tld/>ojn kaj
+        118 plur<tld/>a&jcirc;ojn.
+      </ekz>
+    </dif>
+  </snc>
+  <ref tip="super" cel="grafem.0o">grafemo</ref>
+  <trd lng="nl">meerlettergroep</trd>
+  <trd lng="ru">&c_b;&c_u;&c_k;&c_v;&c_o;&c_s;&c_o;&c_ch;&c_je;&c_t;&c_a;&c_n;&c_i;&c_je;</trd>
+</drv>
+
+<drv mrk="liter.tri0ajxo">
+  <kap>tri<tld/>a&jcirc;o</kap>
+  <snc mrk="liter.tri0ajxo.TIP">
+    <uzo tip="fak">TIP</uzo>
+    <dif>
+      <ref tip="super" cel="liter.plur0ajxo">Plur<tld/>a&jcirc;o</ref>
+      el tri literoj:
+      <ekz>
+        la germanan tri<tld/>a&jcirc;on <em>sch</em> oni legu kiel /&scirc;/;
+      </ekz><ekz>
+        la francan tri<tld/>a&jcirc;on <em>eau</em> oni legu kiel /o/.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_t;&c_r;&c_y;&c_g;&c_r;&c_a;&c_f;</trd>
+  <trd lng="en">trigraph</trd>
+  <trd lng="es">fonema representado por tres letras</trd>
+  <trd lng="fr">trigramme</trd>
+  <trd lng="hu">h&aacute;romjegy&udblac; bet&udblac;</trd>
+  <trd lng="it">trigramma</trd>
+  <trd lng="id">trigraf</trd>
+  <trd lng="nl">drielettergroep</trd>
+  <trdgrp lng="ru">
+    <trd>&c_t;&c_r;&c_i;&c_g;&c_r;&c_a;&c_f;</trd>,
+    <trd>&c_t;&c_r;&c_jo;&c_h;&c_b;&c_u;&c_k;&c_v;&c_je;&c_n;&c_n;&c_o;&c_je; &c_b;&c_u;&c_k;&c_v;&c_o;&c_s;&c_o;&c_ch;&c_je;&c_t;&c_a;&c_n;&c_i;&c_je;</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="liter.malviva0o">
+  <kap>malviva <tld/>o<fnt>Z</fnt></kap>
+  <snc>
+    <uzo tip="stl">FRAZ</uzo>
+    <dif>
+      Le&gcirc;o, kontrakto, decido a&ubreve; preskribo kiu formale plu
+      validas, kvankam praktike estas ignorata:
+      <ekz>
+        la decido de la kongreso restos simple malviva <tld/>o
+        kaj fakte neniam atingos efektivi&gcirc;on
+        <fnt><bib>EE</bib>, <lok>&ccirc;ap. 5a</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="en">dead letter</trd>
+  <trd lng="it">lettera morta</trd>
+  <trd lng="nl">dode <ind>letter</ind></trd>
+  <trd lng="ru">&c_m;&c_jo;&c_r;&c_t;&c_v;&c_a;&c_ja; &c_b;&c_u;&c_k;&c_v;&c_a;</trd>
+</drv>
+
+</art>
+<!--
+$Log: liter.xml,v $
+Revision 1.55  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.54  2015/06/29 16:33:19  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.53  2015/02/26 12:10:15  revo
+Sergio Pokrovskij: +pres~o
+
+Revision 1.52  2015/01/17 20:10:25  revo
+Damien Brucker: forigo de duoblaj lok cxe fonto
+
+Revision 1.51  2015/01/06 10:10:13  revo
+Damien Brucker: +ekz (dauxrigo)
+
+Revision 1.50  2015/01/06 07:10:15  revo
+Sergio Pokrovskij: TEZ
+
+Revision 1.49  2014/12/28 14:10:17  revo
+Sergio Pokrovskij: TEZ
+
+Revision 1.48  2014/12/21 12:10:40  revo
+Sergio Pokrovskij: -tajperaro
+
+Revision 1.47  2014/12/21 05:10:17  revo
+Sergio Pokrovskij: apartigo de malviva ~o
+
+Revision 1.46  2014/11/23 21:10:17  revo
+-->
+</vortaro>

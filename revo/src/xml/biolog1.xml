@@ -1,0 +1,184 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: biolog1.xml,v 1.29 2015/07/04 08:37:31 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>biologi</rad>/o <fnt><bib>PV</bib></fnt>
+</kap>
+
+<drv mrk="biolog1.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="biolog1.0o.SCI">
+    <uzo tip="fak">BIO</uzo>
+    <uzo tip="fak">SCI</uzo>
+    <dif>
+      <ref tip="lst" cel="scienc.0o.fako"
+      lst="voko:sciencoj">Scienco</ref>
+      pri la fenomenoj de la vivo kaj la diversaj
+      <ref tip="prt" cel="viv.0ajxo">viva&jcirc;oj</ref>;
+      <ref tip="sin" cel="histor.natur0o.BIO">naturhistorio</ref>:
+      <ekz>
+        <tld/>o de la bestoj
+        <fnt><bib>FK</bib>, <lok>el la vivo kaj sciencoj</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="be">&c_b;&c_ib;&c_ja;&c_l;&c_jo;&c_g;&c_ib;&c_ja;</trd>
+  <trd lng="bg">&c_b;&c_i;&c_o;&c_l;&c_o;&c_g;&c_i;&c_ja;</trd>
+  <trd lng="cs">biontologie</trd>
+  <trd lng="de">Biologie</trd>
+  <trd lng="en">biology</trd>
+  <trd lng="es">biolog&iacute;a</trd>
+  <trd lng="fr">biologie</trd>
+  <trdgrp lng="hu">
+    <trd>biol&oacute;gia</trd>,
+    <trd>&eacute;lettan</trd>
+  </trdgrp>
+  <trd lng="id">biologi</trd>
+  <trd lng="nl">biologie</trd>
+  <trdgrp lng="pl">
+    <trd>biologia</trd>,
+    <trd>przyroda<klr> (pot., uczniowskie)</klr></trd>
+  </trdgrp>
+  <trd lng="ru">&c_b;&c_i;&c_o;&c_l;&c_o;&c_g;&c_i;&c_ja;</trd>
+  <trdgrp lng="sk">
+    <trd>biol&oacute;gia</trd>,
+    <trd>biontológia</trd>
+  </trdgrp>
+  <trd lng="sv">biologi</trd>
+</drv>
+
+<drv mrk="biolog1.0isto">
+  <kap><tld/>isto</kap>
+  <snc mrk="biolog1.0isto.SCI">
+    <uzo tip="fak">BIO</uzo>
+    <uzo tip="fak">SCI</uzo>
+    <dif>
+      Fakulo pri <ref tip="vid" cel="biolog1.0o"><tld/>o</ref>;
+      <ref tip="sin" cel="biolog.0o">biologo</ref>.
+    </dif>
+  </snc>
+  <trd lng="be">&c_b;&c_ib;&c_jo;&c_l;&c_ja;&c_g;</trd>
+  <trd lng="bg">&c_b;&c_i;&c_o;&c_l;&c_o;&c_g;</trd>
+  <trd lng="de">Biologe</trd>
+  <trd lng="en">biologist</trd>
+  <trd lng="es">bi&oacute;logo</trd>
+  <trd lng="fr">biologiste</trd>
+  <trd lng="hu">biol&oacute;gus</trd>
+  <trdgrp lng="id">
+    <trd>biolog</trd>,
+    <trd>ahli biologi</trd>
+  </trdgrp>
+  <trd lng="nl">bioloog</trd>
+  <trd lng="pl">biolog</trd>
+  <trd lng="ru">&c_b;&c_i;&c_o;&c_l;&c_o;&c_g;</trd>
+  <trd lng="sk">biol&oacute;g</trd>
+  <trd lng="sv">biolog</trd>
+</drv>
+
+<drv mrk="biolog1.astro0o">
+  <kap>astro<tld/>o</kap>
+  <snc mrk="biolog1.astro0o.BIO">
+    <uzo tip="fak">AST</uzo>
+    <uzo tip="fak">BIO</uzo>
+    <dif>
+      Esplorado pri eblaj viva&jcirc;oj en la kosmo,
+      similaj a&ubreve; malsimilaj al la teraj:
+      <ekz>
+        ina&ubreve;guro de la Centro de Astro<tld/>o
+        <fnt>
+          <aut>D. Rodriguez</aut>,
+          <vrk><url
+          ref="http://groups.yahoo.com/group/esperanto-l/message/30656?var=1">
+          David Galadi en hispana TV</url></vrk>,
+          <lok>sce, 2003-01-19</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">astrobiologie</trd>
+  <trd lng="fr">exobiologie</trd>
+  <trd lng="id">astrobiologi</trd>
+  <trd lng="sk">astrológia</trd>
+</drv>
+
+<drv mrk="biolog1.molekula0o">
+  <kap>molekula <tld/>o</kap>
+  <snc mrk="biolog1.molekula0o.BIO">
+    <uzo tip="fak">BIO</uzo>
+    <dif>
+      Parto de <ref tip="malprt" cel="biolog1.0o.SCI">biologio</ref>
+      kiu esploras la molekulajn okaza&jcirc;ojn en vivulaj &ccirc;eloj:
+      <ekz>
+        atingoj de genetiko kaj molekula <tld/>o pliri&ccirc;igis la teorion 
+        de evolucio
+        <fnt>
+          <aut>V. Lemelev</aut>,
+          <vrk><url ref="http://www.esperanto.be/fel/2009/009787.php?p">
+          Supervivo de plej ta&ubreve;ga teorio</url></vrk>,
+          <bib>Monato</bib>,
+          <lok>2009:8-9</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">biologie mol&eacute;culaire</trd>
+  <trd lng="id">biologi molekuler</trd>
+</drv>
+
+<drv mrk="biolog1.soci0o">
+  <kap>soci<tld/>o</kap>
+  <snc mrk="biolog1.soci0o.SCI">
+    <uzo tip="fak">SCI</uzo>
+    <dif>
+      Bran&ccirc;o de biologio, kiu studas la rolon de
+      vivulaj <ref tip="vid" cel="soci.0o.BIO">socioj</ref>:
+      <ekz>
+        la soci<tld/>aj ideoj estis temo de diversaj kritikoj
+        <fnt>
+          <bib>Viki</bib>,
+          <lok><url
+          ref="http://eo.wikipedia.org/wiki/Edward_Osborne_Wilson">
+          Edward Osborne Wilson</url>, 2013-05-23</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="en">sociobiology</trd>
+  <trd lng="fr">sociobiologie</trd>
+</drv>
+</art>
+<!--
+$Log: biolog1.xml,v $
+Revision 1.29  2015/07/04 08:37:31  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.28  2015/06/29 16:29:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.27  2014/02/14 21:10:12  revo
+Jeromo Vasxe: + soci~o
+
+Revision 1.26  2013/09/22 19:10:38  revo
+Wolfram Diestel: astro~o: referenco al listo sciencoj
+
+Revision 1.25  2013/05/10 08:10:13  revo
+Eko Nur Syah Hidayat: +trd id
+
+Revision 1.24  2011/06/25 17:10:12  revo
+Dominique Pelle: korektis
+
+Revision 1.23  2011/06/23 19:10:10  revo
+Dominique Pelle: inauguro -> inauxguro
+
+Revision 1.22  2010/12/22 08:10:03  revo
+Jeromo Vasxe: + astro~o, molekula ~o
+
+Revision 1.21  2009/03/06 17:31:07  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.20  2008/01/25 17:30:16  revo
+-->
+</vortaro>

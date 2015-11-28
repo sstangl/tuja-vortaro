@@ -1,0 +1,170 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: kobold.xml,v 1.22 2015/07/04 08:37:37 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>kobold</rad>/o
+</kap>
+<drv mrk="kobold.0o">
+  <kap><ofc>*</ofc><tld/>o</kap>
+  <snc mrk="kobold.0o.MIT">
+    <uzo tip="fak">MIT</uzo>
+    <dif>
+      Malgranda <ref tip="super" cel="fe.0o.MIT">feo</ref>, ofte
+      malbela, 
+      el popolo gardanta trezorojn en montoj, a&ubreve; ka&scirc;e vivanta 
+      en hejmoj:
+      <ekz>
+        ili dancis kun &ccirc;iuj malgrandaj <tld/>oj kun vaglumoj, kiuj
+        estis en la &ccirc;ambro
+        <fnt><bib>Fab1</bib>, <lok>vojkamarado</lok></fnt>.
+      </ekz>
+    </dif>
+    <refgrp tip="sin">
+      <ref cel="gnom.0o">gnomo</ref>
+    </refgrp>
+  </snc>
+  <trdgrp lng="br">
+    <trd>boudig</trd>,
+    <trd>kornandon</trd>,
+    <trd>korrigan</trd>,
+    <trd>nozegan</trd>
+  </trdgrp>
+  <trdgrp lng="cs">
+    <trd>kobold</trd>,
+    <trd>přen. hravé dítě</trd>,
+    <trd>zlý skřítek</trd>,
+    <trd>šotek</trd>
+  </trdgrp>
+  <trd lng="de">Kobold</trd>
+  <trdgrp lng="en">
+    <trd>kobold</trd>,
+    <trd>(hob)<ind>goblin</ind></trd>,
+    <trd>gnome</trd>,
+    <trd>imp</trd>,
+    <trd>evil <ind>sprite</ind></trd>
+  </trdgrp>
+  <trdgrp lng="fr">
+    <trd>lutin</trd>,
+    <trd>farfadet</trd>,
+    <trd>gnome</trd>,
+    <trd>kobold</trd>,
+    <trd>nain<klr tip="ind"> (myth.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="hu">
+    <trd>man&oacute;</trd>,
+    <trd>h&aacute;ziman&oacute;</trd>,
+    <trd>kobold</trd>,
+    <trd>t&ouml;rpe</trd>
+  </trdgrp>
+  <trd lng="it">coboldo</trd>
+  <trd lng="nl">kabouter</trd>
+  <trdgrp lng="pl">
+    <trd>krasnoludek</trd>,
+    <trd>krasnal</trd>,
+    <trd>kobold</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_k;&c_o;&c_b;&c_o;&c_l;&c_mol;&c_d;</trd>,
+    <trd>&c_l;&c_je;&c_sh;&c_i;&c_j;</trd>,
+    <trd>&c_g;&c_n;&c_o;&c_m;</trd>
+  </trdgrp>
+  <trdgrp lng="sk">
+    <trd>elf</trd>,
+    <trd>škriatok</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="kobold.gxarden0o">
+  <kap>&gcirc;arden<tld/>o</kap>
+  <snc mrk="kobold.gxarden0o.HOR">
+    <uzo tip="fak">HOR</uzo>
+    <dif>
+     Statua figuro de <tld/>o, kutime kun barbo kaj kapu&ccirc;o, 
+ornamanta en E&ubreve;ropo kelkajn privatajn plezur&gcirc;ardenojn:
+      <ekz>
+        imagu, ke vi da&ubreve;re ricevas reklamon pri
+        &gcirc;arden<tld/>oj
+        <fnt>
+        <aut>Paul Peeraerts</aut>,
+        <vrk>Trudata reklamo: &ccirc;u haltigebla</vrk>,
+        <bib>Monato</bib>,
+        <lok>jaro 1998a, numero 4a, p. 14a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="de">Gartenzwerg</trd>
+  <trd lng="en">garden gnome</trd>
+  <trdgrp lng="fr">
+    <trd>nain de jardin</trd>
+  </trdgrp>
+  <trd lng="hu">kerti <ind>t&ouml;rpe</ind></trd>
+  <trd lng="it"><ind>nano</ind> da giardino</trd>
+  <trd lng="nl">tuinkabouter</trd>
+  <trd lng="pl"><ind>krasnal</ind> ogrodowy</trd>
+</drv>
+
+<drv mrk="kobold.pres0o">
+  <kap>pres<tld/>o</kap>
+  <snc mrk="kobold.pres0o.TIP">
+    <uzo tip="fak">TIP</uzo>
+    <dif>
+      &Scirc;erce imagita respondeculo pri preseraroj:
+      <ekz>
+        la pres<tld/>o forrabis la titolon
+        <fnt>
+        <aut>Christian Declerck</aut>,
+        <vrk>Dua kvaropo, sproniva kiel la unua</vrk>,
+        <bib>Monato</bib>,
+        <lok>jaro 1994a, numero 4a, p. 22a</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="cs">tiskařský šotek</trd>
+  <trd lng="de">Druckfehlerteufel</trd>
+  <trdgrp lng="fr">
+    <trd><ind>Titi Vilus</ind><klr tip="ind"> (resp. myth. des fautes
+    d'impression)</klr></trd>
+  </trdgrp>
+  <trd lng="hu">sajt&oacute; &ouml;rd&ouml;ge</trd>
+  <trd lng="nl">zetduivel</trd>
+  <trd lng="pl"><ind>chochlik</ind> drukarski</trd>
+  <trd lng="sk">škriatok <klr>(tlačiarenský)</klr></trd>
+</drv>
+</art>
+<!--
+$Log: kobold.xml,v $
+Revision 1.22  2015/07/04 08:37:37  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.21  2015/06/29 16:33:17  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.20  2009/03/18 17:32:22  revo
+Antonio Codazzi: +trd it
+
+Revision 1.19  2009/02/19 20:27:36  revo
+Russ Williams: +trd en
+
+Revision 1.18  2006/09/19 17:39:29  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.17  2005/07/24 16:32:49  revo
+Jeromo Vasxe: ~o + ekz + tez
+
+Revision 1.16 2005/04/24 16:32:15 revo
+Alan ar Gall: +trd br
+
+Revision 1.15 2005/01/21 17:32:10 revo
+Paul Peeraerts: ald pliajn trd nl
+
+Revision 1.14 2004/12/26 17:32:50 revo
+Marc Bavant: mod trd fr; pres~o: -FRAZ, +TIP
+
+Revision 1.13 2003/03/24 17:30:43 revo
+-->
+</vortaro>

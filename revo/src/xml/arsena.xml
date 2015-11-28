@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: arsena.xml,v 1.19 2015/07/04 08:37:30 revo Exp $">
+<kap>
+  <rad>arsenal</rad>/o <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="arsena.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="arsena.0o.armilejo">
+    <uzo tip="fak">MIL</uzo>
+    <ref tip="dif" cel="arm.0ilejo">armilejo</ref>
+    <ekz>
+      oni diras, ke la malamikaj trupoj okupis la <tld/>on
+      <fnt><bib>LaFamilio</bib>, <lok>&ccirc;apitro 20a, p. 257a</lok></fnt>.
+    </ekz>
+    <trdgrp lng="de">
+       <trd>Arsenal</trd>,
+       <trd>Waffenlager</trd>,
+       <trd>Zeughaus [ark]</trd>,
+       <trd>R&uuml;stkammer [ark]</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+       <trd>fegyv&aacute;rt&aacute;r</trd>,
+       <trd>fegyverrakt&aacute;r</trd>,
+       <trd>arzen&aacute;l</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="arsena.0o.provizejo">
+    <uzo tip="fak">AVI</uzo>
+    <uzo tip="fak">MAR</uzo>
+    <dif>
+      Havena tenejo de armoj kaj aliaj proviza&jcirc;oj
+      proksima al veturontaj &scirc;ipoj, avioj...:
+      <ekz>
+        benzinveturiloj ur&gcirc;i&gcirc;is tien kaj reen inter la 
+        <tld/>o kaj la dismetejoj 
+        <fnt>
+          <aut>J. Francis</aut>,
+          <vrk><url
+          ref="http://esperanto.net/literaturo/noveloj/13.html">
+          La Tu&scirc;o de Morto</url></vrk>, 
+          <lok>en: Vitralo, 1960</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <snc mrk="arsena.0o.armilaro">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Impona <ref cel="arm.0ilaro">armilaro</ref>:
+      <ekz>
+        la bandito kunportis kun si tutan <tld/>on.
+      </ekz>
+    </dif>
+    <trdgrp lng="de">
+       <trd>Arsenal</trd>,
+       <trd>Waffensammlung</trd>
+    </trdgrp>
+    <trd lng="hu">arzen&aacute;l</trd>
+  </snc>
+  <adm>
+    PIV1 konas trian sencon : "fabriko de armiloj", sen uz-ekzemploj.
+    &Scirc;ajnas al mi, ke mankas senco rilata al mararmeaj aferoj,
+    (tuto de la instala&jcirc;oj, kie oni preparas armilojn kaj
+    aliajn proviza&jcirc;ojn por milit&scirc;ipoj), sed mi ne scias, &ccirc;u
+    tiu senco vere ekzistas en Eo.
+    <aut>MB</aut>
+  </adm>
+  <trd lng="be">&c_a;&c_r;&c_s;&c_e;&c_n;&c_a;&c_l;</trd>
+  <trd lng="en">arsenal</trd>
+  <trd lng="fr">arsenal</trd>
+  <trd lng="es">arsenal</trd>
+  <trd lng="it">arsenale</trd>
+  <trd lng="ru">&c_a;&c_r;&c_s;&c_je;&c_n;&c_a;&c_l;</trd>
+  <trd lng="sk">arzen&aacute;l</trd>
+  <trd lng="sk">arzenál, zbrojnica</trd>
+  <trd lng="sk">arzenál, zbrojnica</trd>
+  <trdgrp lng="cs">
+    <trd>arzenál</trd>,
+    <trd>sklad zbraní</trd>,
+    <trd>zbroj</trd>,
+    <trd>zbrojnice</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: arsena.xml,v $
+Revision 1.19  2015/07/04 08:37:30  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:39:29  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2015/06/28 12:03:35  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.16  2014/03/14 02:10:20  revo
+Jeromo Vasxe: + 1 snc
+
+Revision 1.15  2010/06/03 16:30:27  revo
+Antonio Codazzi: +trd it
+
+Revision 1.14  2005/11/20 17:31:45  revo
+Jeromo Vasxe: + 1 ekz, + trd fr
+
+Revision 1.13  2003/11/12 17:30:34  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.12  2002/10/29 18:01:46  revo
+Christopher Zervic: + ang
+
+Revision 1.11  2002/09/25 16:32:03  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.10  2002/09/09 19:49:12  revo
+Viliam Bur: +trd sk
+
+Revision 1.9  2002/05/15 16:41:19  revo
+-->
+</vortaro>

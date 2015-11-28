@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: ksilog1.xml,v 1.14 2015/10/21 05:10:17 revo Exp $">
+<kap>
+  <rad>ksilografi</rad>/o <fnt><bib>PV</bib></fnt>
+  <fnt>Z</fnt>
+</kap>
+<drv mrk="ksilog1.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="ksilog1.0o.TIP">
+    <uzo tip="fak">TIP</uzo>
+    <dif>
+      Procedo de <ref tip="super" cel="pres.0arto.TIP">presarto</ref>,
+      en
+      kiu reliefan lignogravura&jcirc;on oni premas al surfaco por produkti
+      bildon a&ubreve; tekston.
+    </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>d&rcaron;evoryt</trd>,
+    <trd>d&rcaron;evorytectv&iacute;</trd>
+  </trdgrp>
+  <trd lng="de">Holzschneidekunst</trd>
+  <trdgrp lng="en">
+    <trd>woodcut</trd>,
+    <trd>xylography <klr>(seldom)</klr></trd>
+  </trdgrp>
+  <trd lng="fr">xylographie<klr tip="amb"> (proc&eacute;d&eacute;)</klr></trd>
+  <trdgrp lng="hu">
+    <trd>fametsz&eacute;s</trd>,
+    <trd>xilogr&aacute;fia</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>ksylografia <klr>(przest.)</klr></trd>,
+    <trd>drzeworyt</trd>
+  </trdgrp>
+  <trdgrp lng="pt">
+    <trd>xilogravura</trd>,
+    <trd>xilografia</trd>
+  </trdgrp>
+  <trdgrp lng="ru">
+    <trd>&c_k;&c_s;&c_i;&c_l;&c_o;&c_g;&c_r;&c_a;&c_f;&c_i;&c_ja;</trd>,
+    <trd>&c_g;&c_r;&c_a;&c_v;&c_ju;&c_r;&c_a; &c_n;&c_a; &c_d;&c_je;&c_r;&c_je;&c_v;&c_je;</trd>
+  </trdgrp>
+  <trd lng="sk">drevoryt</trd>
+  <trdgrp lng="sv">
+    <trd>xylografi</trd>,
+    <trd>tr&auml;gravyr</trd>,
+    <trd>tr&auml;stick</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="ksilog1.0isto">
+  <kap><tld/>isto</kap>
+  <snc mrk="ksilog1.0isto.TIP">
+    <uzo tip="fak">TIP</uzo>
+    <dif>
+      Artisto pri <tld/>o.
+    </dif>
+  </snc>
+  <trdgrp lng="en">
+    <trd>woodcut artist</trd>,
+    <trd>block-cutter</trd>
+  </trdgrp>
+  <trd lng="fr">xylographe</trd>
+  <trdgrp lng="it">
+    <trd>silografo</trd>,
+    <trd>xilografo</trd>
+  </trdgrp>
+  <trdgrp lng="pl">
+    <trd>ksylograf <klr>(przest.)</klr></trd>,
+    <trd>drzeworytnik</trd>
+  </trdgrp>
+  <trd lng="sv">xylograf</trd>
+</drv>
+</art>
+<!--
+$Log: ksilog1.xml,v $
+Revision 1.14  2015/10/21 05:10:17  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.13  2015/09/26 15:10:19  revo
+Cindy Moon McKee: +trd en
+
+Revision 1.12  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.11  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.10  2008/11/24 17:30:35  revo
+Jerano Zachrisson: +trd sv
+
+Revision 1.9  2007/04/29 16:31:27  revo
+Jeromo Vasxe: + ~isto
+
+Revision 1.8  2006/10/27 16:30:50  revo
+Tulio Flores: +tr pt
+
+Revision 1.7  2005/01/17 17:33:32  revo
+-->
+</vortaro>

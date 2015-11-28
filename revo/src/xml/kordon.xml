@@ -1,0 +1,139 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: kordon.xml,v 1.13 2015/07/04 08:37:38 revo Exp $">
+<kap>
+  <rad>kordon</rad>/o <fnt>Z</fnt> <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="kordon.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="kordon.0o.TEKS">
+    <uzo tip="fak">TEKS</uzo>
+    <dif>
+      Plektogalono, &scirc;nurpasamento, uzata por garni vestojn:
+      <ekz>
+        la <tld/>o de kardinala &ccirc;apelo<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_t;&c_a;&c_s;&c_mol;&c_m;&c_a;</trd>
+    <trdgrp lng="de">
+      <trd>Kordel</trd>,
+      <trd>Zierkordel</trd>,
+      <trd>Schnur</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>d&iacute;szzsin&oacute;r</trd>,
+      <trd>zsin&oacute;rd&iacute;sz</trd>
+    </trdgrp> 
+    <trd lng="nl">lint</trd>   
+    <trdgrp lng="pt">
+      <trd>cord&atilde;o <klr tip="amb">(ornamento)</klr></trd>,
+      <trd>gal&atilde;o <klr tip="amb">(ornamento)</klr></trd>,    
+      <trd>grega <klr tip="amb">(ornamento)</klr></trd>
+    </trdgrp>
+    <trd lng="ru">&c_t;&c_je;&c_s;&c_mol;&c_m;&c_a;</trd>
+  </snc>
+  <snc>
+    <dif>
+      Lar&gcirc;a rubando, tra&scirc;ultre portata kiel honorsigno de iuj ordenoj:
+      <ekz>
+        <tld/>o de la Honora Legio<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_o;&c_r;&c_d;&c_e;&c_n;&c_s;&c_k;&c_a;&c_ja; <ind>&c_s;&c_t;&c_u;&c_zh;&c_k;&c_a;</ind></trd>
+    <trd lng="de">Ordensband</trd>
+    <trd lng="hu">rendszalag</trd>  
+    <trdgrp lng="nl">
+      <trd>ordelint</trd>,
+      <trd>sjerp</trd>
+    </trdgrp>  
+    <trdgrp lng="pt">
+      <trd>cord&atilde;o <klr tip="amb">(ornamento)</klr></trd>,
+      <trd>gal&atilde;o <klr tip="amb">(ornamento)</klr></trd>,    
+      <trd>grega <klr tip="amb">(ornamento)</klr></trd>
+    </trdgrp>
+    <trd lng="ru">&c_o;&c_r;&c_d;&c_je;&c_n;&c_s;&c_k;&c_a;&c_ja; &c_l;&c_je;&c_n;&c_t;&c_a;</trd>
+  </snc>
+  <snc>
+    <dif>
+      Kontinua vico:
+      <ekz>
+        <tld/>o da arboj &ccirc;irka&ubreve; placo.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_sh;&c_e;&c_r;&c_a;&c_g;</trd>
+    <trdgrp lng="de">
+      <trd>Reihe</trd>,
+      <trd>fortlaufende Reihe</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>sor</trd>,
+      <trd>kordon</trd>
+    </trdgrp> 
+    <trd lng="nl">rij</trd>   
+    <trd lng="pt">cord&atilde;o <klr tip="amb">(fila cont&iacute;nua)</klr></trd>
+  </snc>
+  <snc mrk="kordon.0o.MIL">
+    <uzo tip="fak">MIL</uzo>
+    <dif>
+      Vico da soldataj postenoj por gardi limon a&ubreve; por malhelpi
+      penetron
+      de epidemio:
+      <ekz>
+        rajdistoj aran&gcirc;as <tld/>on &ccirc;irka&ubreve; la arbaro<fnt>Z</fnt>.
+      </ekz>
+    </dif>
+    <trd lng="be">&c_k;&c_a;&c_r;&c_d;&c_o;&c_n; <klr
+    tip="amb">(&c_v;&c_a;&c_j;&c_s;&c_k;&c_o;&c_v;&c_y;)</klr></trd>
+    <trdgrp lng="de">
+      <trd>Kordon</trd>,
+      <trd>Postenkette</trd>,
+      <trd>Absperrung</trd>
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>kordon</trd>,
+      <trd>sorfal</trd>
+    </trdgrp>
+    <trd lng="nl">kordon</trd>    
+    <trd lng="ru">&c_k;&c_o;&c_r;&c_d;&c_o;&c_n;</trd>
+  </snc>
+  <trd lng="cs">kordon</trd>
+  <trd lng="en">cordon</trd>
+  <trd lng="fr">cordon</trd>
+  <trd lng="sk">kordón</trd>
+</drv>
+</art>
+
+<!--
+$Log: kordon.xml,v $
+Revision 1.13  2015/07/04 08:37:38  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.12  2015/06/29 16:33:18  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.11  2010/11/23 17:30:20  revo
+Jeromo Vasxe: + mrk + fak + trd fr
+
+Revision 1.10  2009/09/10 16:33:10  revo
+Paul Peeraerts: +nl
+
+Revision 1.9  2009/06/03 16:31:06  revo
+Russ Williams: +trd en
+
+Revision 1.8  2006/11/15 17:30:45  revo
+Tulio Flores: +tr pt
+
+Revision 1.7  2005/03/11 16:52:28  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.6  2004/05/02 16:32:15  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.5  2002/03/21 18:33:54  revo
+Ulrich Fellmann: + 9 germ trdj
+
+Revision 1.4  2001/11/02 19:12:10  revo
+-->
+</vortaro>

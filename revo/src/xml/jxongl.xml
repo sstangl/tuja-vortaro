@@ -1,0 +1,128 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: jxongl.xml,v 1.23 2011/12/12 10:10:18 revo Exp $">
+<kap>
+  <ofc>*</ofc>
+  <rad>&jcirc;ongl</rad>/i <fnt><bib>PV</bib></fnt>
+</kap>
+<drv mrk="jxongl.0i">
+  <kap><ofc>*</ofc><tld/>i</kap>
+  <gra><vspec>ntr</vspec></gra>
+  <snc mrk="jxongl.0i.SPO">
+    <uzo tip="fak">SPO</uzo>
+    <dif>
+      Lerte &jcirc;eti en aeron diversajn objektojn kaj rekapti por ilin tuj
+      re&jcirc;eti.
+    </dif>
+  </snc>
+  <snc mrk="jxongl.0i.FIG">
+    <uzo tip="stl">FIG</uzo>
+    <dif>
+      Lerte ludi:
+      <ekz>
+        <tld/>i per la rimoj.
+      </ekz>
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="akroba">akrobati</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_zh;&c_a;&c_n;&c_g;&c_l;&c_ja;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="ca">fer malabars</trd>
+  <trd lng="de">jonglieren</trd>
+  <trd lng="en">juggle</trd>
+  <trd lng="es">hacer <ind>malabarismos</ind></trd>
+  <trd lng="fr">jongler</trd>
+  <trd lng="nl">jongleren</trd>
+  <trd lng="hu">zsongl&odblac;rk&ouml;dik</trd>
+  <trd lng="pt">fazer malabarismos</trd>
+  <trd lng="ru">
+&c_zh;&c_o;&c_n;&c_g;&c_l;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+  <trd lng="sv">jonglera</trd>
+  <trd lng="it">gioglare</trd>
+</drv>
+
+<drv mrk="jxongl.0isto">
+  <kap><tld/>isto</kap>
+  <snc mrk="jxongl.0isto.SPO">
+    <dif>
+      Profesia <tld/>anto, lerta amuzisto.
+    </dif>
+    <refgrp tip="vid">
+      <ref cel="iluzi.0isto">iluziisto</ref>,
+      <ref cel="presti.0o">prestidigitatoro</ref>
+    </refgrp>
+  </snc>
+  <trd lng="be">&c_zh;&c_a;&c_n;&c_g;&c_l;&c_jo;&c_r;</trd>
+  <trd lng="ca">malabarista</trd>
+  <trd lng="de">Jongleur</trd>
+  <trd lng="en">juggler</trd>
+  <trd lng="es">malabarista</trd>
+  <trd lng="el">
+&tau;&alfa;&chi;&ypsilon;&delta;&alfa;&kappa;&tau;&ypsilon;&lambda;&omikron;&ypsilon;&rho;&gamma;&omikron_ton;&sigma_fina;
+</trd>
+  <trd lng="fr">jongleur</trd>
+  <trd lng="hu">zsongl&odblac;r</trd>
+  <trd lng="it">giocoliere</trd>
+  <trd lng="nl">jongleur</trd>
+  <trd lng="pt">malabarista</trd>
+  <trd lng="ru">&c_zh;&c_o;&c_n;&c_g;&c_l;&c_jo;&c_r;</trd>
+  <trd lng="sv">jongl&ouml;r</trd>
+</drv>
+
+<drv mrk="jxongl.for0i">
+  <kap>for<tld/>i</kap>
+  <snc mrk="jxongl.for0i.KOMUNE">
+    <dif>
+      Lerte forigi, for<ref tip="vid" cel="kasx.0i.KOMUNE">ka&scirc;i</ref>:
+      <ekz>
+        <uzo tip="stl">FIG</uzo>
+        &scirc;i neniel aludis mian viziton.
+        Probable oni &gcirc;in for<tld/>is de &scirc;ia scio
+        <fnt><aut>R. Radiguet, trad. M. Duc Goninaz</aut>, <vrk>Kun 
+        Diablo en la korpo</vrk>, <lok>Mondial, 2006</lok></fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trdgrp lng="ca">
+    <trd>fer desapar&egrave;ixer</trd>,
+    <trd>escamotejar</trd>
+  </trdgrp>
+  <trd lng="fr">escamoter</trd>
+  <trd lng="it">sgraffignare</trd>
+  <trdgrp lng="nl">
+    <trd>wegmoffelen</trd>,
+    <trd>wegjongleren</trd>,
+    <trd>wegtoveren</trd>,
+    <trd>weggoochelen</trd>
+  </trdgrp>
+</drv>
+</art>
+<!--
+$Log: jxongl.xml,v $
+Revision 1.23  2011/12/12 10:10:18  revo
+Marc Rausell: +trd ca
+
+Revision 1.22  2009/08/19 18:42:30  revo
+Paul Peeraerts: +trd nl
+
+Revision 1.21  2009/03/12 17:31:13  revo
+Antonio Codazzi: ++trd it
+
+Revision 1.20  2007/08/23 16:30:45  revo
+Jeromo Vasxe: + for~i
+
+Revision 1.19  2004/10/11 16:33:08  revo
+Marc Bavant: +uzo SPO, kor ref tip sin
+
+Revision 1.18  2004/02/25 17:31:08  revo
+Jozefo Horvath: +trd hu
+
+Revision 1..17  2003/01/02 17:43:02  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.16  2002/11/10 11:41:47  revo
+-->
+</vortaro>

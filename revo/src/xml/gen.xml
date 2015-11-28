@@ -1,0 +1,114 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: gen.xml,v 1.19 2015/07/04 08:37:35 revo Exp $">
+<kap>
+  <ofc>9</ofc><rad>gen</rad>/o <fnt><bib>SPV</bib></fnt>
+</kap>
+
+<drv mrk="gen.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="gen.0o.GNT">
+    <uzo tip="fak">BIO</uzo>
+    <dif>
+      Hereda faktoro, kiu respondecas pri la reprodukto de unu
+      elementa karaktero en la rezultanta individuo.
+    </dif>
+  </snc>
+  <trd lng="be">&c_g;&c_e;&c_n;</trd>
+  <trd lng="ca">gen</trd>
+  <trdgrp lng="cs">
+    <trd>gen</trd>,
+    <trd>vloha</trd>
+  </trdgrp>
+  <trd lng="de">Gen</trd>
+  <trd lng="en">gene</trd>
+  <trdgrp lng="es">
+    <trd>gen</trd>,
+    <trd>gene</trd>
+  </trdgrp>
+  <trd lng="fa">&f_zh;&a_n;</trd>
+  <trd lng="fr">g&egrave;ne</trd>
+  <trd lng="hu">g&eacute;n</trd>
+  <trd lng="it">gene</trd>
+  <trd lng="nl">gen</trd>
+  <trd lng="pl">gen</trd>
+  <trd lng="pt">gene<klr tip="amb"> (biologia)</klr></trd>
+  <trd lng="ru">&c_g;&c_je;&c_n;</trd>
+  <trd lng="sk">gén</trd>
+  <trd lng="sv">gen</trd>
+  <trd lng="tr">gen</trd>
+</drv>
+
+<drv mrk="gen.0aro">
+  <kap><tld/>aro</kap>
+  <snc mrk="gen.0aro.GNT">
+    <uzo tip="fak">BIO</uzo>
+    <dif>
+      Tuto de la <tld/>oj de vivulo a&ubreve; de specio:
+      <ekz>
+        &ccirc;inaj sciencistoj kune esploris kaj plenumis la
+        <ctl>skizon pri
+        la riza <tld/>aro</ctl>
+        <fnt>
+        <aut>A. Chu</aut>,
+        <vrk><url
+        ref="http://www.verdapekino.com/raporto/index4.htm">Nova&jcirc;oj
+        de
+        scienco</url></vrk>,
+        <lok>2003</lok>
+        </fnt>.
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="ca">genoma</trd>
+  <trdgrp lng="de">
+    <trd>Genom</trd>,
+    <trd>Erbgut</trd>
+  </trdgrp>
+  <trd lng="en">genome</trd>
+  <trd lng="fa">&f_zh;&a_n;&a_w;&a_m;</trd>
+  <trdgrp lng="fr">
+    <trd>g&eacute;nome</trd>,
+    <trd>patrimoine g&eacute;n&eacute;tique</trd>
+  </trdgrp>
+  <trdgrp lng="it">
+    <trd>genoma</trd>,
+    <trd>patrimonio genetico</trd>
+  </trdgrp>
+  <trd lng="pl">genom</trd>
+</drv>
+</art>
+<!--
+$Log: gen.xml,v $
+Revision 1.19  2015/07/04 08:37:35  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:29:39  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2012/08/18 19:10:35  revo
+Marc Rausell: + trd ca
+
+Revision 1.16  2010/12/09 17:30:44  revo
+Sebastian Cyprych: +trd pl
+
+Revision 1.15  2010/07/02 16:30:16  revo
+Fabio Bettani: +trd it
+
+Revision 1.14  2010/05/02 16:30:54  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.13  2009/08/24 16:31:25  revo
+Emmanuel Debanne: +trd tr
+
+Revision 1.12  2009/03/01 17:32:03  revo
+Russ Williams: + en 9OA
+
+Revision 1.11  2007/06/29 16:30:25  revo
+Wieland Pusch: +trd de
+
+Revision 1.10  2006/10/26 16:30:18  revo
+-->
+</vortaro>

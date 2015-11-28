@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: dioptr.xml,v 1.17 2015/07/04 08:37:32 revo Exp $">
+<kap>
+	<rad>dioptri</rad>/o
+</kap>
+<drv mrk="dioptr.0o">
+	<kap><tld/>o</kap>
+	<uzo tip="fak">FOT</uzo>
+	<uzo tip="fak">FIZ</uzo>
+	<snc>
+		<dif>
+		Unuo de "forteco" de lenso, kiu estas inversa valoro de 
+		&gcirc;ia fokusdistanco mezurita en metro.
+		<ekz>
+		Se la lenso havas fokusdistancon de 10 cm (0,1 m), tiam
+		&gcirc;i havas <frm>1/0,1 = 10</frm> <tld/>ojn.
+		Se <frm>f=100 cm</frm>, la lenso havas <frm>1/1 =
+1</frm>
+		<tld/>on
+	<fnt>
+		<aut>J&aacute;nos S&aacute;rk&ouml;zi</aut>,
+		<vrk>La fizika mondo. Optiko</vrk>,
+		<lok>La plej gravaj nocioj pri optiko, p. 39</lok>
+		</fnt>
+		</ekz>
+		</dif>
+	</snc>
+  <trd lng="be">&c_d;&c_y;&c_jo;&c_p;&c_t;&c_r;&c_y;&c_ja;</trd>
+  <trd lng="bg">&c_d;&c_i;&c_o;&c_p;&c_t;&c_malmol;&c_r;</trd>
+  <trd lng="ca">di&ograve;ptria</trd>
+  <trd lng="cs">dioptrie</trd>
+  <trdgrp lng="de">
+		<trd>Dioptrie</trd>,
+		<trd>Linsenbrechwert</trd>
+	</trdgrp>
+  <trd lng="en">diopter</trd>
+  <trd lng="es">dioptr&iacute;a</trd>
+  <trd lng="fa">&a_d;&f_y;&a_w;&f_p;&a_t;&a_r;&f_y;</trd>
+  <trd lng="fr">dioptrie</trd>
+  <trd lng="hu">dioptria</trd>
+  <trd lng="nl">dioptrie</trd>
+  <trd lng="pl">dioptria</trd>
+  <trd lng="pt">dioptria</trd>
+  <trd lng="ru">&c_d;&c_i;&c_o;&c_p;&c_t;&c_r;&c_i;&c_ja;</trd>
+  <trd lng="sk">dioptria</trd>
+</drv>
+</art>
+<!--
+$Log: dioptr.xml,v $
+Revision 1.17  2015/07/04 08:37:32  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.16  2015/06/29 16:29:37  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.15  2013/08/19 15:10:14  revo
+Joop Eggen: +trd bg en
+
+Revision 1.14  2012/01/02 18:10:34  revo
+Marc Rausell: +trd ca
+
+Revision 1.13  2009/06/19 05:09:50  revo
+Behnam Tabatabai: +trd fa
+
+Revision 1.12  2008/05/28 20:08:08  revo
+Sebastian Cyprych: kor de dif +ekz -adm +trd pl
+
+Revision 1.11  2007/08/05 16:31:10  revo
+Tulio Flores: +tr pt
+
+Revision 1.10  2003/12/13 17:33:58  revo
+Dmitri Gabinski: +trd be
+
+Revision 1.9  2003/05/19 19:38:02  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.8  2003/04/09 16:31:14  revo
+-->
+</vortaro>

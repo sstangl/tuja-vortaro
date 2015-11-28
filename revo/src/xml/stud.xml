@@ -1,0 +1,142 @@
+<?xml version="1.0"?>
+<!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
+
+<vortaro>
+<art mrk="$Id: stud.xml,v 1.20 2015/10/28 21:10:16 revo Exp $">
+<kap>
+  <ofc>1</ofc>
+  <rad>stud</rad>/i <fnt><bib>PV</bib></fnt>
+</kap> 
+<drv mrk="stud.0i">
+  <kap><tld/>i</kap>
+  <gra><vspec>tr</vspec></gra>
+  <snc mrk="stud.0i.objekton">
+    <dif>
+      Science esplori:
+      <ekz>
+        <tld/>i la proprecojn de iu substanco, iun vegeta&jcirc;on.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_d;&c_a;&c_s;&c_l;&c_je;&c_d;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>, 
+      <trd>&c_v;&c_y;&c_v;&c_u;&c_ch;&c_a;&c_c;&c_mol;</trd> 
+    </trdgrp>
+    <trdgrp lng="hu">
+      <trd>tanulm&aacute;nyoz</trd>,
+      <trd>kutat</trd>
+    </trdgrp>
+    <trdgrp lng="ru">
+      <trd>&c_i;&c_z;&c_u;&c_ch;&c_a;&c_t;&c_mol;</trd>,
+      <trd>&c_i;&c_s;&c_s;&c_l;&c_je;&c_d;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+    </trdgrp>
+  </snc>
+  <snc mrk="stud.0i.sciencon">
+    <dif>
+      Diligente labori por akiri la posedon de ia scienco:
+      <ekz>
+        <tld/>i fizikon, filozofion, ian specialan bran&ccirc;on.
+      </ekz>
+    </dif>
+    <trdgrp lng="be">
+      <trd>&c_sh;&c_t;&c_u;&c_d;&c_z;&c_ib;&c_r;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>, 
+      <trd>&c_sh;&c_t;&c_u;&c_d;&c_y;&c_ja;&c_v;&c_a;&c_c;&c_mol;</trd>
+    </trdgrp>
+    <trd lng="hu">tanul <klr tip="ind">(fels&odblac;fokon)</klr></trd>    
+    <trdgrp lng="ru">
+      <trd>&c_i;&c_z;&c_u;&c_ch;&c_a;&c_t;&c_mol;</trd>,
+      <trd>&c_sh;&c_t;&c_u;&c_d;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+    </trdgrp>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>studovat</trd>,
+    <trd>zkoumat</trd>,
+    <trd>&scaron;tudovat <klr>(hovor.)</klr></trd>,
+    <trd>&scaron;tud&yacute;rovat (hovor.)</trd>
+  </trdgrp>
+  <trd lng="de">studieren</trd>
+  <trd lng="en">study</trd>
+  <trd lng="es">estudiar</trd>
+  <trd lng="fr">&eacute;tudier</trd>
+  <trd lng="id">[<ind>ajar</ind>] belajar</trd>
+  <trd lng="nl">studeren</trd>
+  <trd lng="pt">estudar</trd>
+  <trdgrp lng="sk">
+    <trd>sk&uacute;ma&tcaron;</trd>,
+    <trd>&scaron;tudova&tcaron;</trd>
+  </trdgrp>
+  <trd lng="sv">studera</trd>
+</drv>
+
+<drv mrk="stud.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="stud.0o.KOMUNE">
+    <dif>
+      Ago <tld/>i, rezulto de tia ago 
+      <ekz>
+        <tld/>oj kaj notoj pri la Internacia Lingvo 
+        <fnt><vrk><url
+        ref="http://lingvakritiko.com/">Lingva Kritiko
+        </url></vrk></fnt>.
+    </ekz>
+   </dif>
+  </snc>
+  <trdgrp lng="cs">
+    <trd>studie</trd>,
+    <trd>v&ecaron;deck&aacute; n. v&yacute;tvarn&aacute; pr&aacute;ce</trd>,
+    <trd>&scaron;tudie <klr>(hovor.)</klr></trd>
+  </trdgrp>
+  <trd lng="fr">&eacute;tude</trd>
+  <trd lng="id">[<ind>ajar</ind>] pembelajaran</trd>
+  <trdgrp lng="sk">
+    <trd>&scaron;tudovanie</trd>,
+    <trd>&scaron;t&uacute;dium</trd>
+  </trdgrp>
+</drv>
+
+<drv mrk="stud.0ajxo">
+  <kap><tld/>a&jcirc;o</kap>
+  <snc mrk="stud.0ajxo.KOMUNE">
+    <dif>
+      Verko resumanta la rezultojn de <tld/>ado:
+      <ekz>
+        tiu &ccirc;i scienculo balda&ubreve; publikigos esperante rimarkindan 
+        <tld/>a&jcirc;on
+        <fnt>
+          <aut>T. Cart</aut>,
+          <vrk><url
+          ref="http://arkivo.esperanto-france.org/divers/bildaro/zoolog.htm">
+          Instruado de Esperanto per bildaro</url></vrk>,
+          <lok>1905</lok>
+        </fnt>
+      </ekz>
+    </dif>
+  </snc>
+  <trd lng="fr">&eacute;tude<klr> (ouvrage)</klr></trd>
+</drv>
+</art>
+<!--
+$Log: stud.xml,v $
+Revision 1.20  2015/10/28 21:10:16  revo
+Jeromo Vasxe: + ~ajxo
+
+Revision 1.19  2015/07/04 08:37:44  revo
+aldono de trd cs per skripto de M. von Laer
+
+Revision 1.18  2015/06/29 16:33:24  revo
+aldono de trd sk per skripto de M. von Laer
+
+Revision 1.17  2014/07/03 16:10:18  revo
+Eko Nur Syah Hidayat: +id
+
+Revision 1.16  2011/05/30 22:10:08  revo
+Mireille Corobu: aldonis studo
+
+Revision 1.15  2004/11/03 17:31:37  revo
+Jozefo Horvath: +trd hu
+
+Revision 1.14  2004/07/13 16:31:11  revo
+Luis Oliveira: +trd pt
+
+Revision 1.13  2003/03/13 17:33:41  revo
+-->
+</vortaro>
