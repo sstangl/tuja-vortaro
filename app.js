@@ -21,7 +21,12 @@ function blur_on_enter(keyevent) {
 searchfield.addEventListener("input", on_keystroke, false);
 
 function on_keystroke() {
-    results.innerHTML = makehtml(search(searchfield.value));
+    var serĉo = searchfield.value.trim();
+    if (serĉo === '') {
+        results.innerHTML = '';
+    } else {
+        results.innerHTML = makehtml(search(serĉo));
+    }
 }
 
 // Given a list of match indices into espdic, display them as HTML.
