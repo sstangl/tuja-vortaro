@@ -1285,6 +1285,7 @@ var etymology = [
 ["haki","Yid. hakn, Ger. hacken"],
 ["haladzo","Fre. (ex)halaison"],
 ["halo","Lit. hale, Pol. hala, Ger. Halle, Fre. halle, Eng. hall"],
+["haltero","Fre. haltère"],
 ["halto","Ger. Halt, Fre. halte, Eng. halt"],
 ["halucini","Lit. haliucinuoti, Fre. halluciner, Eng. hallucinate"],
 ["hamako","Lit. hamakas, Fre. hamac, Eng. hammock"],
