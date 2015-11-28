@@ -103,52 +103,52 @@ function getroot(word) {
     return word;
 }
 
+// Remove a parenthesis pair.
+// A search for "paragraph" should return "paragraph (text)".
+function remove_parentheses(text) {
+    var paren = text.indexOf('(');
+    if (paren === -1) {
+        return text;
+    }
+    if (paren === 0) {
+        return text.substr(text.indexOf(')') + 1);
+    }
+    return text.substr(0, paren);
+}
+
+function is_exact_match(entry, search) {
+    var v = normalize_english(entry);
+    v = remove_parentheses(v);
+    return (v === search);
+}
+
 // Returns a list of match indices into espdic.
 function search_exact(word) {
-    var lowerWord = word.toLowerCase();
     var matches = [];
+    var exactmatches = [];
+    var i, j;
+    var entry;
+
+    var lowerWord = word.toLowerCase();
 
     // Find all potentially matching candidates quickly.
     // Does not care whether the entry was in English or Esperanto.
-    for (var i = 0; i < espdic.length; ++i) {
-        var entry = espdic_lower[i];
-        for (var j = 0; j < entry.length; ++j) {
+    for (i = 0; i < espdic.length; ++i) {
+        entry = espdic_lower[i];
+        for (j = 0; j < entry.length; ++j) {
             // FirefoxOS 2.2 doesn't support ES6 includes().
             if (entry[j].indexOf(lowerWord) !== -1) {
-                matches.push(i);
-                break;
-            }
-        }
-    }
-
-    // Filter out exact matches.
-    var exactmatches = [];
-    for (var i = 0; i < matches.length; ++i) {
-        var entry = espdic_lower[matches[i]];
-        for (var j = 0; j < entry.length; ++j) {
-            var lower = normalize_english(entry[j]);
-
-            // Remove a parenthesis pair.
-            // A search for "paragraph" should return "paragraph (text)".
-            var paren = lower.indexOf('(');
-            if (paren !== -1) {
-                if (paren === 0) {
-                    lower = lower.substr(lower.indexOf(')')+1);
+                if (is_exact_match(entry[j], lowerWord)) {
+                    exactmatches.push(i);
                 } else {
-                    lower = lower.substr(0, paren);
+                    matches.push(i);
                 }
-                lower = lower.trim();
-            }
-
-            if (lower === lowerWord) {
-                exactmatches.push(matches[i]);
                 break;
             }
         }
     }
 
-    // If there are exact matches, just return those.
-    if (exactmatches.length > 0) {
+    if (exactmatches.length !== 0) {
         return exactmatches;
     }
 
