@@ -140,6 +140,10 @@ def main():
 
             print >>js, '];'
 
+            # Construct a lowercase version of the dictionary.
+            # Done on load since it's very fast, even on phones.
+            print >>js, 'var revo_%s_lower = revo_%s.map(function(a) { return a.map(function(x) { return x.toLowerCase(); }) });' % (lang, lang)
+
 if __name__ == '__main__':
     main()
 
