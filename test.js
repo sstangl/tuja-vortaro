@@ -5,6 +5,10 @@ load('espdic/espdic.js');
 load('etymology/etymology.js');
 load('vortaro.js');
 
+function search_en(x) {
+    return search(x, espdic, espdic_lower);
+}
+
 //////////////////////////////////////////////////////////////////////////////
 
 function listo_enhavas(listo, v) {
@@ -132,10 +136,12 @@ function asertuEgalas(x, y) {
 
 // Testas anglajn serĉojn pri verboj.
 (function () {
-    asertuKongruas(search("to be happy"), ["feliĉi"]);
-    asertuKongruas(search("be happy"), ["feliĉi"]);
+    asertuKongruas(search_en("to be happy"), ["feliĉi"]);
+    asertuKongruas(search_en("be happy"), ["feliĉi"]);
 })();
 
-asertuKongruas(search("swim"), ["naĝi"]);
-asertuKongruas(search("to swim"), ["naĝi"]);
-asertuKongruas(search("swimming"), ["naĝado"]);
+asertuKongruas(search_en("swim"), ["naĝi"]);
+asertuKongruas(search_en("to swim"), ["naĝi"]);
+asertuKongruas(search_en("swimming"), ["naĝado"]);
+
+asertuKongruas(search_en("proverb"), ["proverbo", "sentenco"]);
