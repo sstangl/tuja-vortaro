@@ -23,6 +23,7 @@ var languages = [
     ['hu', 'revo/revo-hu.js', 'revo_hu'],
     ['nl', 'revo/revo-nl.js', 'revo_nl'],
     ['pl', 'revo/revo-pl.js', 'revo_pl'],
+    ['pt', 'revo/revo-pt.js', 'revo_pt'],
     ['ru', 'revo/revo-ru.js', 'revo_ru'],
     ['sk', 'revo/revo-sk.js', 'revo_sk'],
 ];
