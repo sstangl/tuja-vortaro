@@ -134,14 +134,18 @@ function asertuEgalas(x, y) {
     asertuEgalas(getroot("domususus"), "domusus");
 })();
 
-// Testas anglajn serĉojn pri verboj.
+// Testas anglajn serĉojn.
 (function () {
     asertuKongruas(search_en("to be happy"), ["feliĉi"]);
     asertuKongruas(search_en("be happy"), ["feliĉi"]);
+
+    asertuKongruas(search_en("swim"), ["naĝi"]);
+    asertuKongruas(search_en("to swim"), ["naĝi"]);
+    asertuKongruas(search_en("swimming"), ["naĝado"]);
 })();
 
-asertuKongruas(search_en("swim"), ["naĝi"]);
-asertuKongruas(search_en("to swim"), ["naĝi"]);
-asertuKongruas(search_en("swimming"), ["naĝado"]);
-
-asertuKongruas(search_en("proverb"), ["proverbo", "sentenco"]);
+// Testas antaŭe rompitajn kazojn.
+(function () {
+    // Ne-ekzaktaj serĉrezultoj ne kaŝu ekzaktajn.
+    asertuKongruas(search_en("proverb"), ["proverbo", "sentenco"]);
+})();
