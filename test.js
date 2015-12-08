@@ -149,4 +149,5 @@ function asertuEgalas(x, y) {
 (function () {
     // Ne-ekzaktaj serĉrezultoj ne kaŝu ekzaktajn.
     asertuKongruas(search_en("proverb"), ["proverbo", "sentenco"]);
+    asertuKongruas(search_en("bug"), ["cimo", "miso", "insekto"]);
 })();

@@ -115,7 +115,7 @@ function getroot(word) {
 // Remove a parenthesis pair.
 // A search for "paragraph" should return "paragraph (text)".
 function remove_parentheses(text) {
-    var paren = text.indexOf('(');
+    var paren = text.indexOf(' (');
     if (paren === -1) {
         return text;
     }
