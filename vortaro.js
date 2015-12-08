@@ -131,14 +131,14 @@ function is_exact_match(entry, search) {
     return (v === search);
 }
 
-// Returns a list of match indices into the dictionary.
+// Returns match indices into the dictionary.
 function search_exact(word, dict, dict_lower) {
-    var matches = [];
+    var inexactmatches = [];
     var exactmatches = [];
     var i, j;
     var entry;
     var match = false;
-    var exactMatch = false;
+    var exactmatch = false;
 
     var lowerWord = word.toLowerCase();
 
@@ -148,21 +148,22 @@ function search_exact(word, dict, dict_lower) {
         entry = dict_lower[i];
 
         match = false;
-        exactMatch = false;
+        exactmatch = false;
 
         for (j = 0; j < entry.length; ++j) {
             // FirefoxOS 2.2 doesn't support ES6 includes().
             if (entry[j].includes(lowerWord)) {
                 match = true;
-                exactMatch = is_exact_match(entry[j], lowerWord);
+                exactmatch = is_exact_match(entry[j], lowerWord);
             }
         }
 
-        if (exactMatch === true) {
+        // Sort each entry into either exactmatches or inexactmatches,
+        // preferring exactmatches.
+        if (exactmatch === true) {
             exactmatches.push(i);
-        }
-        if (match === true) {
-            matches.push(i);
+        } else if (match === true) {
+            inexactmatches.push(i);
         }
     }
 
@@ -170,7 +171,7 @@ function search_exact(word, dict, dict_lower) {
         return exactmatches;
     }
 
-    return matches;
+    return inexactmatches;
 }
 
 // Given an esperanto word, look up an etymology.
