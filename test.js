@@ -1,3 +1,4 @@
+// vim: set ts=4 sts=4 sw=4 et:
 // Skripto por la testado de la vortaro. Ĝi estas uzebla per moderna JS-konko.
 'use strict';
 
