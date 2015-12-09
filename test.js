@@ -1,3 +1,4 @@
+// vim: set ts=4 sts=4 sw=4 et:
 // Skripto por la testado de la vortaro. Ĝi estas uzebla per moderna JS-konko.
 'use strict';
 
@@ -134,14 +135,19 @@ function asertuEgalas(x, y) {
     asertuEgalas(getroot("domususus"), "domusus");
 })();
 
-// Testas anglajn serĉojn pri verboj.
+// Testas anglajn serĉojn.
 (function () {
     asertuKongruas(search_en("to be happy"), ["feliĉi"]);
     asertuKongruas(search_en("be happy"), ["feliĉi"]);
+
+    asertuKongruas(search_en("swim"), ["naĝi"]);
+    asertuKongruas(search_en("to swim"), ["naĝi"]);
+    asertuKongruas(search_en("swimming"), ["naĝado"]);
 })();
 
-asertuKongruas(search_en("swim"), ["naĝi"]);
-asertuKongruas(search_en("to swim"), ["naĝi"]);
-asertuKongruas(search_en("swimming"), ["naĝado"]);
-
-asertuKongruas(search_en("proverb"), ["proverbo", "sentenco"]);
+// Testas antaŭe rompitajn kazojn.
+(function () {
+    // Ne-ekzaktaj serĉrezultoj ne kaŝu ekzaktajn.
+    asertuKongruas(search_en("proverb"), ["proverbo", "sentenco"]);
+    asertuKongruas(search_en("bug"), ["cimo", "miso", "insekto"]);
+})();

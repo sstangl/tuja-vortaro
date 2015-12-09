@@ -1,4 +1,7 @@
+// vim: set ts=4 sts=4 sw=4 et:
 'use strict';
+
+var DEBUG = false;
 
 var langfield = document.getElementById("langfield");
 var searchfield = document.getElementById("searchfield");
@@ -34,6 +37,11 @@ function add_language_option(value, text) {
     option.text = text;
     option.value = value;
     langfield.options.add(option);
+}
+
+// Gets the current language option (currently for supplying tags to screen readers).
+function get_selected_language() {
+    return langfield.value;
 }
 
 // Load a JS file (one of the dictionaries), calling the callback after load.
@@ -79,11 +87,21 @@ function blur_on_enter(keyevent) {
 }
 
 function on_keystroke() {
+    var debug_time;
+
     var serĉo = searchfield.value.trim();
     if (serĉo === '') {
         results.innerHTML = '';
     } else {
+        if (DEBUG === true) {
+            debug_time = performance.now();
+        }
+
         results.innerHTML = makehtml(search(serĉo, dictionary, dictionary_lower), dictionary);
+
+        if (DEBUG === true) {
+            console.log(performance.now() - debug_time);
+        }
     }
 }
 
@@ -94,6 +112,8 @@ function makehtml(matchlist, dictionary) {
     }
 
     var resultlen = Math.min(matchlist.length, 20);
+
+    var lang = get_selected_language();
 
     var html = "";
     for (var i = 0; i < resultlen; ++i) {
@@ -113,7 +133,7 @@ function makehtml(matchlist, dictionary) {
         // Add a space between eo-result and en-result for screen readers.
         html += ' ';
 
-        html += '<span class="en-result" lang="en">' + entry.slice(1).join(', ') + '</span>';
+        html += '<span class="en-result" lang="' +lang+ '">' + entry.slice(1).join(', ') + '</span>';
 
         var etym = find_etymology(entry[0]);
         if (etym.length > 0) {

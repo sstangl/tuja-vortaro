@@ -1,4 +1,13 @@
+// vim: set ts=4 sts=4 sw=4 et:
 'use strict';
+
+// ES6 polyfill.
+if (!String.prototype.includes) {
+    String.prototype.includes = function() {
+        'use strict';
+        return String.prototype.indexOf.apply(this, arguments) !== -1;
+    };
+}
 
 // Main search function.
 function search(term, dict, dict_lower) {
@@ -106,7 +115,7 @@ function getroot(word) {
 // Remove a parenthesis pair.
 // A search for "paragraph" should return "paragraph (text)".
 function remove_parentheses(text) {
-    var paren = text.indexOf('(');
+    var paren = text.indexOf(' (');
     if (paren === -1) {
         return text;
     }
@@ -122,12 +131,14 @@ function is_exact_match(entry, search) {
     return (v === search);
 }
 
-// Returns a list of match indices into the dictionary.
+// Returns match indices into the dictionary.
 function search_exact(word, dict, dict_lower) {
-    var matches = [];
+    var inexactmatches = [];
     var exactmatches = [];
     var i, j;
     var entry;
+    var match = false;
+    var exactmatch = false;
 
     var lowerWord = word.toLowerCase();
 
@@ -135,16 +146,24 @@ function search_exact(word, dict, dict_lower) {
     // Does not care whether the entry was in English or Esperanto.
     for (i = 0; i < dict.length; ++i) {
         entry = dict_lower[i];
+
+        match = false;
+        exactmatch = false;
+
         for (j = 0; j < entry.length; ++j) {
             // FirefoxOS 2.2 doesn't support ES6 includes().
-            if (entry[j].indexOf(lowerWord) !== -1) {
-                if (is_exact_match(entry[j], lowerWord)) {
-                    exactmatches.push(i);
-                } else {
-                    matches.push(i);
-                }
-                break;
+            if (entry[j].includes(lowerWord)) {
+                match = true;
+                exactmatch = is_exact_match(entry[j], lowerWord);
             }
+        }
+
+        // Sort each entry into either exactmatches or inexactmatches,
+        // preferring exactmatches.
+        if (exactmatch === true) {
+            exactmatches.push(i);
+        } else if (match === true) {
+            inexactmatches.push(i);
         }
     }
 
@@ -152,7 +171,7 @@ function search_exact(word, dict, dict_lower) {
         return exactmatches;
     }
 
-    return matches;
+    return inexactmatches;
 }
 
 // Given an esperanto word, look up an etymology.
