@@ -105,8 +105,16 @@ function getroot(word) {
 
     for (var i = 0; i < suffices.length; ++i) {
         if (word.endsWith(suffices[i])) {
-            return word.slice(0, -1 * suffices[i].length);
+            word = word.slice(0, -1 * suffices[i].length);
+            break;
         }
+    }
+
+    // Attempt to remove suffixes.
+    // TODO: This logic can't be right for all cases; really, we need to discover
+    // all the possible cuts of the word.
+    if (word.endsWith("ig") || word.endsWith("iĝ")) {
+        word = word.slice(0, -2);
     }
 
     return word;
