@@ -65,7 +65,6 @@ function asertuEgalas(x, y) {
     asertuEgalas(xreplace("  Spaco-vorto  "), "  Spaco-vorto  ");
 })();
 
-
 // Testas la sistemon, kiu trovas radikojn por la etimologia vortaro.
 (function () {
     // Substantivoj.
@@ -133,6 +132,14 @@ function asertuEgalas(x, y) {
     // Neĝustaj strangaĵoj.
     asertuEgalas(getroot("pluvantanto"), "pluvant");
     asertuEgalas(getroot("domususus"), "domusus");
+})();
+
+// Testas la etimologiojn.
+(function () {
+    asertuEgalas(find_etymology("parkere"), "Fre. par coeur");
+    asertuEgalas(find_etymology("parkeri"), "Fre. par coeur");
+    asertuEgalas(find_etymology("parkerigi"), "Fre. par coeur");
+    asertuEgalas(find_etymology("parkeriganto"), "Fre. par coeur");
 })();
 
 // Testas anglajn serĉojn.
