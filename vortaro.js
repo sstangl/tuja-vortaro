@@ -20,6 +20,9 @@ var MatchResults = function(dict, exact, inexact) {
 }
 
 MatchResults.prototype.isEmpty = function() {
+    if (this.exactMatches === undefined) {
+        return 0;
+    }
     return (this.exactMatches.length + this.inexactMatches.length === 0);
 }
 
