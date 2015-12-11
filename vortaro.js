@@ -20,9 +20,6 @@ var MatchResults = function(dict, exact, inexact) {
 }
 
 MatchResults.prototype.isEmpty = function() {
-    if (this.exactMatches === undefined) {
-        return 0;
-    }
     return (this.exactMatches.length + this.inexactMatches.length === 0);
 }
 
@@ -41,6 +38,9 @@ MatchResults.prototype.get = function(i) {
 }
 
 MatchResults.prototype.length = function() {
+    if (this.exactMatches === undefined) {
+        return 0;
+    }
     return (this.exactMatches.length + this.inexactMatches.length);
 }
 
