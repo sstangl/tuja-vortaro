@@ -9,20 +9,52 @@ if (!String.prototype.includes) {
     };
 }
 
+// Definition of a result from the search functions.
+var MatchResults = function(dict, exact, inexact) {
+    // Dictionary array for the indices.
+    this.dict = dict;
+
+    // Arrays of indices into a dictionary, sorted in the order of intended display.
+    this.exactMatches = exact;
+    this.inexactMatches = inexact;
+}
+
+MatchResults.prototype.isEmpty = function() {
+    return (this.exactMatches.length + this.inexactMatches.length === 0);
+}
+
+// Is a given match exact or inexact?
+// All exact matches precede all inexact matches as seen by get().
+MatchResults.prototype.isExact = function(i) {
+    return (i < this.exactMatches.length);
+}
+
+MatchResults.prototype.get = function(i) {
+    var k = this.exactMatches.length;
+    if (i < k) {
+        return this.exactMatches[i];
+    }
+    return this.inexactMatches[i - k];
+}
+
+MatchResults.prototype.length = function() {
+    return (this.exactMatches.length + this.inexactMatches.length);
+}
+
 // Main search function.
 function search(term, dict, dict_lower) {
     term = term.trim();
     term = normalize_english(term);
     if (term.length === 0) {
-        return [];
+        return new MatchResults;
     }
 
     // This breaks for English words with "ux", but... that's OK.
     term = xreplace(term);
 
-    var matchlist = search_exact(term, dict, dict_lower);
-    if (matchlist.length !== 0) {
-        return matchlist;
+    var results = search_exact(term, dict, dict_lower);
+    if (results.length() !== 0) {
+        return results;
     }
 
     // If no results were found, try fixing input to a standard dictionary form.
@@ -31,7 +63,7 @@ function search(term, dict, dict_lower) {
         return search_exact(normalized, dict, dict_lower);
     }
 
-    return [];
+    return new MatchResults;
 }
 
 // Normalize "to foo" => "foo".
@@ -139,7 +171,7 @@ function is_exact_match(entry, search) {
     return (v === search);
 }
 
-// Returns match indices into the dictionary.
+// Returns MatchResults into a dictionary.
 function search_exact(word, dict, dict_lower) {
     var inexactmatches = [];
     var exactmatches = [];
@@ -175,11 +207,7 @@ function search_exact(word, dict, dict_lower) {
         }
     }
 
-    if (exactmatches.length !== 0) {
-        return exactmatches;
-    }
-
-    return inexactmatches;
+    return new MatchResults(dict, exactmatches, inexactmatches);
 }
 
 // Given an esperanto word, look up an etymology.
