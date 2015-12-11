@@ -11,6 +11,10 @@ var results = document.getElementById("results");
 var dictionary = undefined;
 var dictionary_lower = undefined;
 
+// Continuation for rendering more results in response to a scroll event,
+// or undefined if all results are displayed.
+var scroll_continuation = undefined;
+
 var global = this;
 
 // 0: Language Code.
@@ -86,8 +90,43 @@ function blur_on_enter(keyevent) {
     }
 }
 
+// Height of the entire document, independent of viewport.
+function docheight() {
+    return Math.max(
+        document.body.scrollHeight, document.documentElement.scrollHeight,
+        document.body.offsetHeight, document.documentElement.offsetHeight,
+        document.body.clientHeight, document.documentElement.clientHeight
+    );
+}
+
+// Scroll event handler, which checks if more dictionary results
+//  exist to be printed from the given search.
+// The continuation called here is created by append_more_results().
+function append_more_results_on_scroll() {
+    if (scroll_continuation === undefined) {
+        return;
+    }
+
+    // Scroll delta from the bottom of the page under which results are appanded.
+    var bottom_delta = 200;
+
+    // Height is measured to the top of the scrollbar, so include the window.
+    // Distance tracked is from the bottom of the document.
+    // This works in both Firefox and Chrome.
+    var scrollheight = window.innerHeight + window.scrollY;
+
+    // Scrolling near the bottom triggers an update.
+    // Firefox provides scrollMaxY, with a scrollY from the bottom of the scrollbar.
+    if (docheight() - scrollheight <= bottom_delta) {
+        scroll_continuation = scroll_continuation();
+    }
+}
+
 function on_keystroke() {
     var debug_time;
+
+    // The scroll event handler is only valid for a given search,
+    // changed on keystroke or language change.
 
     var serĉo = searchfield.value.trim();
     if (serĉo === '') {
@@ -97,7 +136,20 @@ function on_keystroke() {
             debug_time = performance.now();
         }
 
-        results.innerHTML = makehtml(search(serĉo, dictionary, dictionary_lower), dictionary);
+        var matchlist = search(serĉo, dictionary, dictionary_lower);
+        if (matchlist.length === 0) {
+            results.innerHTML = '<div class="resultrow" lang="eo">Nenio trovita.</span>';
+        } else {
+            // Append results to the div, giving either a continuation for appending more
+            // results, or undefined if all results are displayed.
+            results.innerHTML = '';
+            scroll_continuation = append_more_results(0, matchlist, dictionary);
+
+            // Keep appending results until the screen is filled or all entries are shown.
+            while (scroll_continuation !== undefined && docheight() <= window.innerHeight) {
+                scroll_continuation = scroll_continuation();
+            }
+        }
 
         if (DEBUG === true) {
             console.log(performance.now() - debug_time);
@@ -130,21 +182,34 @@ function makeentry(entry, lang) {
     return html;
 }
 
-// Given a list of match indices into a dictionary, display them as HTML.
-function makehtml(matchlist, dictionary) {
-    var resultlen = Math.min(matchlist.length, 80);
-    var lang = get_selected_language();
-    var html = "";
-
-    if (matchlist.length === 0) {
-        return '<div class="resultrow" lang="eo">Nenio trovita.</span>';
+// Appends a preset number of results to the results div.
+// Returns a continuation that appends more results, or undefined
+//  if all results have already been displayed.
+function append_more_results(start, matchlist, dictionary) {
+    if (start >= matchlist.length || matchlist.length === 0) {
+        return undefined;
     }
 
-    for (var i = 0; i < resultlen; ++i) {
+    var ENTRIES_AT_ONCE = 20;
+
+    var entries = Math.min(matchlist.length - start, ENTRIES_AT_ONCE);
+    var lang = get_selected_language();
+
+    var html = "";
+
+    for (var i = start; i < start + entries; ++i) {
         html += makeentry(dictionary[matchlist[i]], lang);
     }
 
-    return html;
+    results.innerHTML += html;
+
+    if (start + entries === matchlist.length) {
+        return undefined;
+    }
+
+    return function() {
+        return append_more_results(start + ENTRIES_AT_ONCE, matchlist, dictionary);
+    };
 }
 
 // Language selector setup and initialization.
@@ -190,6 +255,8 @@ function makehtml(matchlist, dictionary) {
         }, false);
 
     searchfield.addEventListener("input", on_keystroke, false);
+
+    window.addEventListener("scroll", append_more_results_on_scroll, false);
 
     // For FirefoxOS, we want the Enter key to dismiss the on-screen keyboard.
     // Desktop doesn't have an on-screen keyboard, so Enter shouldn't lose focus.
