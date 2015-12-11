@@ -1,7 +1,10 @@
-html, body {
+body {
   margin: 0;
   padding: 0;
   height: 100%;
+
+  /* Ĉiam montru la dekstran glitilon por preventi retumilan saltadon. */
+  overflow-y: scroll;
 }
 
 #wrapper {
@@ -17,9 +20,11 @@ html, body {
 
   background-color: #00B000;
 
+  width: 100%;
   height: 50px;
 
   display: flex;
+  position: fixed;
 }
 
 /* Uzata nur de FxOS, ĉar la tajpilo aperos ĉe la subo. */
@@ -36,12 +41,17 @@ html, body {
   height: 50px;
 
   display: flex;
+  position: fixed;
   justify-content: center;
   align-items: center;
 }
 
-#results {
-  padding: 5px;
+.results-web {
+  padding: 55px 5px 5px 5px;
+}
+
+.results-phone {
+  padding: 5px 5px 55px 5px;
 }
 
 .resultrow {
