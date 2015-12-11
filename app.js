@@ -136,14 +136,14 @@ function on_keystroke() {
             debug_time = performance.now();
         }
 
-        var matchlist = search(serĉo, dictionary, dictionary_lower);
-        if (matchlist.length === 0) {
+        var matches = search(serĉo, dictionary, dictionary_lower);
+        if (matches.length() === 0) {
             results.innerHTML = '<div class="resultrow" lang="eo">Nenio trovita.</span>';
         } else {
             // Append results to the div, giving either a continuation for appending more
             // results, or undefined if all results are displayed.
             results.innerHTML = '';
-            scroll_continuation = append_more_results(0, matchlist, dictionary);
+            scroll_continuation = append_more_results(0, matches, dictionary);
 
             // Keep appending results until the screen is filled or all entries are shown.
             while (scroll_continuation !== undefined && docheight() <= window.innerHeight) {
@@ -186,24 +186,30 @@ function makeentry(entry, lang) {
 // Returns a continuation that appends more results, or undefined
 //  if all results have already been displayed.
 function append_more_results(start, matchlist, dictionary) {
-    if (start >= matchlist.length || matchlist.length === 0) {
+    if (start >= matchlist.length() || matchlist.length() === 0) {
         return undefined;
     }
 
     var ENTRIES_AT_ONCE = 20;
 
-    var entries = Math.min(matchlist.length - start, ENTRIES_AT_ONCE);
+    var entries = Math.min(matchlist.length() - start, ENTRIES_AT_ONCE);
     var lang = get_selected_language();
 
     var html = "";
 
     for (var i = start; i < start + entries; ++i) {
-        html += makeentry(dictionary[matchlist[i]], lang);
+        // Add a separator between the exact and inexact match results.
+        if (i > 0 && matchlist.isExact(i-1) && !matchlist.isExact(i)) {
+            html += '<hr class="exactsep">';
+        }
+
+        html += makeentry(dictionary[matchlist.get(i)], lang);
+
     }
 
     results.innerHTML += html;
 
-    if (start + entries === matchlist.length) {
+    if (start + entries === matchlist.length()) {
         return undefined;
     }
 

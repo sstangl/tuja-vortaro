@@ -3,6 +3,8 @@ body {
   padding: 0;
   height: 100%;
 
+  background-color: #FFFFFF;
+
   /* Ĉiam montru la dekstran glitilon por preventi retumilan saltadon. */
   overflow-y: scroll;
 }
@@ -69,6 +71,12 @@ body {
 .en-result {
   color: #007700;
   margin-left: 10px;
+}
+
+hr.exactsep {
+  border: 0;
+  height: 1px;
+  background: #333;
 }
 
 input[type="text"] {

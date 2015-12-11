@@ -23,7 +23,7 @@ function listo_enhavas(listo, v) {
 // Asertas, ke la trovit-listo kongruas kun la anticipata eo-vortolisto.
 // La unua listo suplikas indeksojn en la tutprograman espdic-on.
 function asertuKongruas(listo, eolisto) {
-    var trovitaj = listo.map(function (x) { return espdic[x][0]; });
+    var trovitaj = listo.exactMatches.map(function (x) { return espdic[x][0]; });
 
     eolisto.forEach(function (v) {
         if (!listo_enhavas(trovitaj, v)) {
