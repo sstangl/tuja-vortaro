@@ -148,6 +148,7 @@ var revo_la = [
 ["kuriumo","Curium"],
 ["kvar","quattuor"],
 ["kvara","quartus"],
+["kvorumo","quorum"],
 ["labiacoj","Labiatae"],
 ["lagopo","Lagopus lagopus, Lagopus lagopus"],
 ["lakrimalo","Os lacrimale"],

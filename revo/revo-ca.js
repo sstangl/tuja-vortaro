@@ -3273,7 +3273,7 @@ var revo_ca = [
 ["glicirizaĵo","pega dolça"],
 ["glicirizo","regalíssia, regalèssia"],
 ["glikozo","glucosa, glicosa, dextrosa"],
-["glimbrili","relluir, mirallejar, brillar com la mica"],
+["glimi, glimbrili","relluir, mirallejar, brillar com la mica"],
 ["glimo","mica"],
 ["glio","neuròglia"],
 ["gliptiko","glíptica"],

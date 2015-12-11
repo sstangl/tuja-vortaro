@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
  
 <vortaro>
-<art mrk="$Id: limaed.xml,v 1.5 2013/08/31 19:10:14 revo Exp $">
+<art mrk="$Id: limaed.xml,v 1.6 2015/11/21 16:12:58 revo Exp $">
 <kap><rad>limaed</rad>/oj</kap>
 <drv mrk="limaed.0oj">
   <kap><tld/>oj</kap>
@@ -16,6 +16,10 @@
     </dif>
   </snc>
   <trd lng="de">Feilenmuscheln<klr tip="ind"> (Familie)</klr></trd>
+  <trdgrp lng="en">
+    <trd>Limidae</trd>,
+    <trd>file shells</trd>
+  </trdgrp>
   <trd lng="hu">reszel&odblac;kagyl&oacute;k<klr tip="ind"> (csal&aacute;d)</klr></trd>
   <trdgrp lng="nl">
     <trd>vijlschelpen<klr tip="ind"> (fam.)</klr></trd>,
@@ -26,6 +30,9 @@
 
 <!--
 $Log: limaed.xml,v $
+Revision 1.6  2015/11/21 16:12:58  revo
+Cindy Moon McKee: +trd en
+
 Revision 1.5  2013/08/31 19:10:14  revo
 Wolfram Diestel: aktualigis dif
 

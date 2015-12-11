@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: katar.xml,v 1.22 2015/10/26 12:11:57 revo Exp $">
+<art mrk="$Id: katar.xml,v 1.23 2015/11/20 07:10:18 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>katar</rad>/o <fnt><bib>PV</bib></fnt>
@@ -42,6 +42,7 @@
   <trd lng="fr">catarrhe<klr tip="ind"> (de muqueuse)</klr></trd>
   <trd lng="hu">hurut</trd>
   <trd lng="nl">catarre</trd>
+  <trd lng="pl">katar</trd>
   <trdgrp lng="ru">
     <trd>&c_k;&c_a;&c_t;&c_a;&c_r;</trd>,
     <trd>&c_v;&c_o;&c_s;&c_p;&c_a;&c_l;&c_je;&c_n;&c_i;&c_je; &c_s;&c_l;&c_i;&c_z;&c_i;&c_s;&c_t;&c_o;&c_j; &c_o;&c_b;&c_o;&c_l;&c_o;&c_ch;&c_k;&c_i;</trd>
@@ -86,6 +87,10 @@
   </trdgrp>
   <trd lng="hu">n&aacute;tha</trd>
   <trd lng="nl">verkoudheid</trd>
+  <trdgrp lng="pl">
+    <trd>katar</trd>,
+    <trd>nie&zdot;yt nosa</trd>
+  </trdgrp>
   <trd lng="ru">&c_n;&c_a;&c_s;&c_m;&c_o;&c_r;&c_k;</trd>
   <trdgrp lng="sk">
     <trd>katar nosnej sliznice</trd>,
@@ -95,6 +100,9 @@
 </art>
 <!--
 $Log: katar.xml,v $
+Revision 1.23  2015/11/20 07:10:18  revo
+Sebastian Cyprych: +trd pl
+
 Revision 1.22  2015/10/26 12:11:57  revo
 Cindy Moon McKee: -tajperaro en
 
@@ -114,8 +122,5 @@ Revision 1.17  2009/08/27 16:31:54  revo
 Behnam Tabatabai: +trd fa
 
 Revision 1.16  2009/08/25 16:33:50  revo
-Paul Peeraerts: +trd nl
-
-Revision 1.15  2008/01/14 18:06:56  revo
 -->
 </vortaro>

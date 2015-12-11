@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: eg.xml,v 1.25 2015/07/17 15:10:15 revo Exp $">
+<art mrk="$Id: eg.xml,v 1.26 2015/12/05 21:10:23 revo Exp $">
 <kap>
   <ofc>*</ofc>
   -<rad>eg</rad>/
@@ -74,7 +74,7 @@
     <trd>-<ind>&atilde;o</ind></trd>,
     <trd>-<ind>rr(o/a)</ind></trd>,
     <trd>-<ind>a&ccedil;o</ind></trd>,
-    <trd>-<ind>a&ccedil;a</ind></trd>
+    <trd>-<ind>a&ccedil;a</ind><klr> (sufixo de aumentativo)</klr></trd>
   </trdgrp>
   <trd lng="vo">le-</trd>
   </drv>
@@ -224,6 +224,9 @@
 </art>
 <!--
 $Log: eg.xml,v $
+Revision 1.26  2015/12/05 21:10:23  revo
+Evandro Avellar: +klr trd pt
+
 Revision 1.25  2015/07/17 15:10:15  revo
 Guillermo Molleda Jimena: trd es
 
@@ -243,8 +246,5 @@ Revision 1.20  2011/12/06 15:10:12  revo
 Marc Rausell: kataluna traduko
 
 Revision 1.19  2009/09/01 04:53:41  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.18  2008/03/20 17:30:26  revo
 -->
 </vortaro>

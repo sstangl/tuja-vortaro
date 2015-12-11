@@ -71,6 +71,8 @@ var revo_uk = [
 ["kolzo","рапс, кольза"],
 ["konfeto","конфетті"],
 ["kontrakturo","контрактура"],
+["kortisolo","кортизол"],
+["kortizolo","кортизол"],
 ["krotalo","справжній гримучник"],
 ["kvadrigo","квадрига"],
 ["kvazaro","квазар"],

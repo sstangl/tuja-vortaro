@@ -79,6 +79,7 @@ var revo_lat = [
 ["fablo","fabula, ae"],
 ["fiolo","aguncula, fiala (pop.), phiala (class.)"],
 ["flandrujo","Flandria"],
+["florbutono","gemma, ae"],
 ["furioza","rabidus, a, um (rabies)"],
 ["furzi","pedo, ere, crepo, are"],
 ["galo","bilis"],
