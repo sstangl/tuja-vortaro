@@ -2,15 +2,15 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-  <art mrk="$Id: s.xml,v 1.8 2015/07/04 08:37:44 revo Exp $">
+  <art mrk="$Id: s.xml,v 1.9 2015/11/24 00:10:33 revo Exp $">
     <kap>
       <ofc>*</ofc><rad>s</rad> <fnt><bib>PIV1</bib></fnt>
     </kap>
     <subart>
-        <uzo tip="fak">LIN</uzo>
-        <uzo tip="fak">GRA</uzo>
       <drv mrk="s.0.konsonanto">
         <kap><tld/></kap>
+        <uzo tip="fak">LIN</uzo>
+        <uzo tip="fak">GRA</uzo>
         <uzo tip="fak">FON</uzo>
         <snc mrk="s.0.litero">
           <dif>
@@ -90,6 +90,9 @@
 
   <!--
   $Log: s.xml,v $
+  Revision 1.9  2015/11/24 00:10:33  revo
+  Neil Roberts: Movi la etikedon 'uzo' al la sama loko kie gxi estas por cxiu alia litero
+
   Revision 1.8  2015/07/04 08:37:44  revo
   aldono de trd cs per skripto de M. von Laer
 

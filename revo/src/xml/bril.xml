@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: bril.xml,v 1.23 2015/10/07 15:10:16 revo Exp $">
+<art mrk="$Id: bril.xml,v 1.24 2015/11/11 09:10:16 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>bril</rad>/i
@@ -141,7 +141,10 @@
     <trd>light</trd>,
     <trd>brightness</trd>, <trd>brilliance</trd>
   </trdgrp>
-  <trd lng="es">brillo</trd>
+  <trdgrp lng="es">
+    <trd>brillo</trd>,
+    <trd>resplandor</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>&eacute;clat <klr tip="ind">(lueur)</klr></trd>,
     <trd>lueur</trd>
@@ -303,6 +306,9 @@
 </art>
 <!--
 $Log: bril.xml,v $
+Revision 1.24  2015/11/11 09:10:16  revo
+Guillermo Molleda Jimena: trd es
+
 Revision 1.23  2015/10/07 15:10:16  revo
 Cindy Moon McKee: +trd en
 
@@ -322,8 +328,5 @@ Revision 1.18  2006/01/02 17:32:37  revo
 Jeromo Vasxe: + trem~i el trem.xml
 
 Revision 1.17 2004/08/06 16:31:50 revo
-Dmitri Gabinski: +trd be
-
-Revision 1.16 2003/11/09 17:30:45 revo
 -->
 </vortaro>

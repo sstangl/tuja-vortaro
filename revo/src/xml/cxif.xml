@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: cxif.xml,v 1.18 2012/08/18 20:10:40 revo Exp $">
+<art mrk="$Id: cxif.xml,v 1.19 2015/11/24 14:10:17 revo Exp $">
 <kap>
 <ofc>*</ofc>
 <rad>&ccirc;if</rad>/i
@@ -117,6 +117,10 @@
   </dif>
   <ref tip="sin" cel="glad.ne0enda">negladenda</ref>
   <trd lng="ca">no arrugad&iacute;s</trd>
+  <trdgrp lng="en">
+    <trd>wrinkle-free</trd>,
+    <trd>no-iron</trd>
+  </trdgrp>
   <trd lng="es">inarrugable</trd>
   <trd lng="it">ingualcibile</trd>
   <trd lng="pl">niemn&aogonek;cy</trd>  
@@ -126,6 +130,9 @@
 </art>
 <!--
 $Log: cxif.xml,v $
+Revision 1.19  2015/11/24 14:10:17  revo
+Cindy Moon McKee: +trd en
+
 Revision 1.18  2012/08/18 20:10:40  revo
 Marc Rausell: + trd ca
 
@@ -145,8 +152,5 @@ Revision 1.13  2003/12/08 17:31:58  revo
 Dmitri Gabinski: +trd be
 
 Revision 1.12  2003/06/14 20:47:49  revo
-Paul Peeraerts: ald trd nl
-
-Revision 1.11  2003/03/28 17:31:58  revo
 -->
 </vortaro>

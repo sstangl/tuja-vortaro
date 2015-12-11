@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kanistr.xml,v 1.5 2015/07/04 08:37:36 revo Exp $">
+<art mrk="$Id: kanistr.xml,v 1.6 2015/11/24 15:10:21 revo Exp $">
 <kap>
   <rad>kanistr</rad>/o <fnt><bib>PIV2</bib></fnt>
 </kap>
@@ -24,6 +24,7 @@
         </fnt>
       </ekz>
     </dif>
+    <trd lng="en">canister <klr>(metal)</klr></trd>
     <trd lng="fr">bidon</trd>
     <trdgrp lng="pl">
       <trd>kanister</trd>,
@@ -35,6 +36,10 @@
       Portebla benzinujo kun tenilo kaj ordinare
       kun demetebla ver&scirc;o-tubo.
     </dif>
+    <trdgrp lng="en">
+      <trd>jerry can</trd>,
+      <trd>gas can</trd>, <trd>fuel container</trd>
+    </trdgrp>
     <trd lng="fr">jerrycan</trd>
     <trdgrp lng="pl">
       <trd>kanister</trd>,
@@ -50,6 +55,9 @@
 
 <!--
 $Log: kanistr.xml,v $
+Revision 1.6  2015/11/24 15:10:21  revo
+Cindy Moon McKee: +trd en
+
 Revision 1.5  2015/07/04 08:37:36  revo
 aldono de trd cs per skripto de M. von Laer
 

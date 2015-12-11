@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: salut.xml,v 1.33 2015/09/21 07:10:18 revo Exp $">
+<art mrk="$Id: salut.xml,v 1.34 2015/11/18 13:10:17 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>salut</rad>/i <fnt><bib>PV</bib></fnt>
@@ -313,6 +313,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="en">nod <klr>(in greeting)</klr></trd>
   <trd lng="fr">signe de t&ecirc;te<klr> (salut)</klr></trd>
   <trd lng="hu"><klr>(&uuml;dv&ouml;zl&odblac;)</klr>
   fejbiccent&eacute;s</trd>
@@ -336,6 +337,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="en">bow <klr>(in salutation, reverence)</klr></trd>
   <trd lng="fr">salut<klr> (en s'inclinant)</klr></trd>
   <trdgrp lng="hu">
     <trd>f&odblac;hajt&aacute;s</trd>,
@@ -392,6 +394,9 @@
 </art>
 <!--
 $Log: salut.xml,v $
+Revision 1.34  2015/11/18 13:10:17  revo
+Cindy Moon McKee: +trd en
+
 Revision 1.33  2015/09/21 07:10:18  revo
 Sebastian Cyprych: kor trd pl, +trd pl
 
@@ -411,8 +416,5 @@ Revision 1.28  2015/04/11 19:10:15  revo
 Carlos Garcia: +trd -i -o en-i -nomo
 
 Revision 1.27  2013/08/01 01:10:23  revo
-Jeromo Vasxe: + el/en~i
-
-Revision 1.26  2011/09/07 11:10:13  revo
 -->
 </vortaro>

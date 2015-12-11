@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: biolog1.xml,v 1.29 2015/07/04 08:37:31 revo Exp $">
+<art mrk="$Id: biolog1.xml,v 1.30 2015/11/26 14:10:19 revo Exp $">
 <kap>
   <ofc>1</ofc>
   <rad>biologi</rad>/o <fnt><bib>PV</bib></fnt>
@@ -45,7 +45,7 @@
   <trd lng="ru">&c_b;&c_i;&c_o;&c_l;&c_o;&c_g;&c_i;&c_ja;</trd>
   <trdgrp lng="sk">
     <trd>biol&oacute;gia</trd>,
-    <trd>biontológia</trd>
+    <trd>biontol&oacute;gia</trd>
   </trdgrp>
   <trd lng="sv">biologi</trd>
 </drv>
@@ -99,9 +99,10 @@
     </dif>
   </snc>
   <trd lng="cs">astrobiologie</trd>
+  <trd lng="en">astrobiology</trd>
   <trd lng="fr">exobiologie</trd>
   <trd lng="id">astrobiologi</trd>
-  <trd lng="sk">astrológia</trd>
+  <trd lng="sk">astrol&oacute;gia</trd>
 </drv>
 
 <drv mrk="biolog1.molekula0o">
@@ -124,6 +125,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="en">molecular biology</trd>
   <trd lng="fr">biologie mol&eacute;culaire</trd>
   <trd lng="id">biologi molekuler</trd>
 </drv>
@@ -152,6 +154,9 @@
 </art>
 <!--
 $Log: biolog1.xml,v $
+Revision 1.30  2015/11/26 14:10:19  revo
+Cindy Moon McKee: +trd en
+
 Revision 1.29  2015/07/04 08:37:31  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -171,14 +176,5 @@ Revision 1.24  2011/06/25 17:10:12  revo
 Dominique Pelle: korektis
 
 Revision 1.23  2011/06/23 19:10:10  revo
-Dominique Pelle: inauguro -> inauxguro
-
-Revision 1.22  2010/12/22 08:10:03  revo
-Jeromo Vasxe: + astro~o, molekula ~o
-
-Revision 1.21  2009/03/06 17:31:07  revo
-Sebastian Cyprych: +trd pl
-
-Revision 1.20  2008/01/25 17:30:16  revo
 -->
 </vortaro>
