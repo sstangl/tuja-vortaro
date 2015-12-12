@@ -49,15 +49,23 @@ body {
 }
 
 .results-web {
-  padding: 55px 5px 5px 5px;
+  padding-top: 55px;
 }
 
 .results-phone {
-  padding: 5px 5px 55px 5px;
+  padding-bottom: 55px;
 }
 
-.resultrow {
-  margin: 5px 5px;
+/* Even result rows. */
+.resultrow-0 {
+  padding: 5px 10px 5px 10px;
+  background-color: #ffffff;
+}
+
+/* Odd result rows. */
+.resultrow-1 {
+  padding: 5px 10px 5px 10px;
+  background-color: #eeeeee;
 }
 
 .eo-result {
@@ -74,6 +82,8 @@ body {
 }
 
 hr.exactsep {
+  padding: 0px;
+  margin: 0px;
   border: 0;
   height: 1px;
   background: #333;
