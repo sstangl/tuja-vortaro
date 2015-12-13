@@ -9,7 +9,7 @@ var revo_da = [
 ["Francio","Frankrig"],
 ["Frisio","Frisland"],
 ["Germanio","Tyskland"],
-["Gronlando","Grønland, Grønland"],
+["Gronlando","Grønland"],
 ["Hispanio","Spanien"],
 ["Italio","Italien"],
 ["Jupitero","Jupiter"],

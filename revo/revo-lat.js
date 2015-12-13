@@ -68,7 +68,7 @@ var revo_lat = [
 ["Vizbadeno","Aquae Mattiacae"],
 ["apologo","apologus, i"],
 ["aŭgusto","Sextilis, Augustus mensis, Augustus"],
-["bavarujo","Bavaria, Bavaria"],
+["bavarujo","Bavaria"],
 ["belgujo","Belgica"],
 ["bisturio","scalprum"],
 ["danka","gratus"],

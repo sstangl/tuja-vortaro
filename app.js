@@ -138,7 +138,7 @@ function on_keystroke() {
 
         var matches = search(serĉo, dictionary, dictionary_lower);
         if (matches.length() === 0) {
-            results.innerHTML = '<div class="resultrow" lang="eo">Nenio trovita.</span>';
+            results.innerHTML = '<div class="resultrow-0" lang="eo">Nenio trovita.</span>';
         } else {
             // Append results to the div, giving either a continuation for appending more
             // results, or undefined if all results are displayed.
@@ -158,8 +158,10 @@ function on_keystroke() {
 }
 
 // Make the HTML for a single dictionary entry.
-function makeentry(entry, lang) {
-    var html = '<div class="resultrow">';
+function makeentry(i, entry, lang) {
+    var parity = i % 2;
+
+    var html = '<div class="resultrow-' + parity + '">';
     html += '<span class="eo-result" lang="eo">' + entry[0] + '</span>';
 
     // Se la vorto estas verbo, montru ankaŭ ĝian transitivecon.
@@ -203,7 +205,7 @@ function append_more_results(start, matchlist, dictionary) {
             html += '<hr class="exactsep">';
         }
 
-        html += makeentry(dictionary[matchlist.get(i)], lang);
+        html += makeentry(i, dictionary[matchlist.get(i)], lang);
 
     }
 

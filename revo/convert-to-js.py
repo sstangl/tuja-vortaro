@@ -77,9 +77,9 @@ def mark_translation(esperanto, lang, translation):
     
     entries = dictionary[lang]
     if esperanto not in entries:
-        entries[esperanto] = translation
-    else:
-        entries[esperanto] = entries[esperanto] + ', ' + translation
+        entries[esperanto] = [translation]
+    elif translation not in entries[esperanto]:
+        entries[esperanto].append(translation)
 
 
 def extract_translations(esperanto, root):
@@ -135,7 +135,7 @@ def main():
             ordered = sorted(entries.items())
             for entry in ordered:
                 eo = entry[0].replace('"', "'");
-                tra = entry[1].replace('"', "'");
+                tra = ', '.join(entry[1]).replace('"', '\\"');
                 print >>js, ('["%s","%s"],' % (eo, tra)).encode("utf-8")
 
             print >>js, '];'

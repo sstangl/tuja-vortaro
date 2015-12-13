@@ -198,6 +198,10 @@ function search_exact(word, dict, dict_lower) {
             if (entry[j].includes(lowerWord)) {
                 match = true;
                 exactmatch = is_exact_match(entry[j], lowerWord);
+
+                if (exactmatch === true) {
+                    break;
+                }
             }
         }
 

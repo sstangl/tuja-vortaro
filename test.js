@@ -3,11 +3,16 @@
 'use strict';
 
 load('espdic/espdic.js');
+load('revo/revo-cs.js');
+
 load('etymology/etymology.js');
 load('vortaro.js');
 
 function search_en(x) {
     return search(x, espdic, espdic_lower);
+}
+function search_cs(x) {
+    return search(x, revo_cs, revo_cs_lower);
 }
 
 //////////////////////////////////////////////////////////////////////////////
@@ -23,7 +28,7 @@ function listo_enhavas(listo, v) {
 // Asertas, ke la trovit-listo kongruas kun la anticipata eo-vortolisto.
 // La unua listo suplikas indeksojn en la tutprograman espdic-on.
 function asertuKongruas(listo, eolisto) {
-    var trovitaj = listo.exactMatches.map(function (x) { return espdic[x][0]; });
+    var trovitaj = listo.exactMatches.map(function (x) { return listo.dict[x][0]; });
 
     eolisto.forEach(function (v) {
         if (!listo_enhavas(trovitaj, v)) {
@@ -157,4 +162,7 @@ function asertuEgalas(x, y) {
     // Ne-ekzaktaj serĉrezultoj ne kaŝu ekzaktajn.
     asertuKongruas(search_en("proverb"), ["proverbo", "sentenco"]);
     asertuKongruas(search_en("bug"), ["cimo", "miso", "insekto"]);
+
+    // Se unu termo estas ekzakta maĉo, la tuta rikordo estas ekzakta.
+    asertuKongruas(search_cs("pro"), ["pro"]);
 })();
