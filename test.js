@@ -4,6 +4,7 @@
 
 load('espdic/espdic.js');
 load('revo/revo-cs.js');
+load('revo/revo-fr.js');
 
 load('etymology/etymology.js');
 load('vortaro.js');
@@ -13,6 +14,9 @@ function search_en(x) {
 }
 function search_cs(x) {
     return search(x, revo_cs, revo_cs_lower);
+}
+function search_fr(x) {
+    return search(x, revo_fr, revo_fr_lower);
 }
 
 //////////////////////////////////////////////////////////////////////////////
@@ -165,4 +169,7 @@ function asertuEgalas(x, y) {
 
     // Se unu termo estas ekzakta maĉo, la tuta rikordo estas ekzakta.
     asertuKongruas(search_cs("pro"), ["pro"]);
+
+    // La ReVo vortaro ne disigis la tradukaĵojn.
+    asertuKongruas(search_fr("donner"), ["doni"]);
 })();

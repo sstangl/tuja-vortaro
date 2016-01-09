@@ -74,7 +74,9 @@ def mark_translation(esperanto, lang, translation):
     global dictionary
     if lang not in dictionary:
         dictionary[lang] = {}
-    
+
+    translation = translation.replace('"', '\\"');
+
     entries = dictionary[lang]
     if esperanto not in entries:
         entries[esperanto] = [translation]
@@ -135,7 +137,7 @@ def main():
             ordered = sorted(entries.items())
             for entry in ordered:
                 eo = entry[0].replace('"', "'");
-                tra = ', '.join(entry[1]).replace('"', '\\"');
+                tra = '","'.join(entry[1])
                 print >>js, ('["%s","%s"],' % (eo, tra)).encode("utf-8")
 
             print >>js, '];'
