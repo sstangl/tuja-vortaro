@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: delt.xml,v 1.18 2015/01/29 04:10:27 revo Exp $">
+<art mrk="$Id: delt.xml,v 1.21 2015/12/31 11:10:15 revo Exp $">
 <kap>
   <ofc>9</ofc><rad>delt</rad>/o
   <fnt>Z</fnt>
@@ -13,7 +13,18 @@
     <uzo tip="fak">LIN</uzo>
     <fnt><bib>9OA</bib></fnt>
     <dif>
-      La kvara litero de la greka alfabeto <klr>(&Delta;, &delta;)</klr>.
+      La kvara litero de la greka alfabeto <klr>(&Delta;, &delta;)</klr>:
+      <ekz>
+        anka&ubreve; eblas ilin <klr>[la Grekajn literojn]</klr> plene
+        Esperantigi
+        kun O-fina&jcirc;oj, ekz.: alfo, beto, gamo, <tld/>o <klr>[...]</klr>
+        <fnt>
+          <aut>B. Wennergren</aut>,
+          <vrk><url
+          ref="http://bertilow.com/pmeg/gramatiko/neoficialaj_vortetoj.html#i-n8l">Grekaj
+          literoj en PMEG &#167;19</url></vrk>
+        </fnt>.
+      </ekz>
     </dif>
     <rim>
       Trovi&gcirc;as en la PIV-oj la neasimilita formo <ctl>delta</ctl>,
@@ -66,6 +77,15 @@
 </art>
 <!--
 $Log: delt.xml,v $
+Revision 1.21  2015/12/31 11:10:15  revo
+Alain Gerard: tajperaro
+
+Revision 1.20  2015/12/31 09:10:14  revo
+Alain Gerard: tajperaro
+
+Revision 1.19  2015/12/31 07:10:16  revo
+Alain Gerard: +fnt
+
 Revision 1.18  2015/01/29 04:10:27  revo
 Eko Nur Syah Hidayat: +trd id
 
@@ -79,14 +99,5 @@ Revision 1.15  2009/06/03 16:30:41  revo
 Sebastian Cyprych: +trd pl
 
 Revision 1.14  2009/03/01 17:31:43  revo
-Russ Williams: +trd en
-
-Revision 1.13  2008/12/22 17:30:22  revo
-Marc Bavant: konformigis al 9OA (+snc, +mrk)
-
-Revision 1.12 2007/07/19 16:31:38 revo
-Tulio Flores: +tr pt
-Revision 1.11 2003/12/13 17:31:13 revo
-Dmitri Gabinski: +trd be
 -->
 </vortaro>

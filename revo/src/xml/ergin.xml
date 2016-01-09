@@ -2,19 +2,21 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: ergin.xml,v 1.6 2010/02/10 17:30:24 revo Exp $">
+<art mrk="$Id: ergin.xml,v 1.7 2016/01/03 10:10:23 revo Exp $">
 <kap>
   <rad>ergin</rad>/o
 </kap>
 <drv mrk="ergin.0o">
   <kap><tld/>o</kap>
-  <uzo tip="fak">MED</uzo>
   <snc>
+  <uzo tip="fak">MED</uzo>
     <dif>
-      Substanco formata en organismo per influo de malsanigaj agantoj k
+      Substanco formata en organismo per influo de malsanigaj agantoj
+      kaj
       aganta kontra&ubreve; ili.
     </dif>
   </snc>
+  <trd lng="fr">antitoxine</trd>
   <trd lng="hu">ergin</trd>
   <trd lng="pl">surowica</trd>
   <trd lng="pt">antitoxina</trd>
@@ -22,6 +24,9 @@
 </art>
 <!--
 $Log: ergin.xml,v $
+Revision 1.7  2016/01/03 10:10:23  revo
+Damien Brucker: +trd fr
+
 Revision 1.6  2010/02/10 17:30:24  revo
 Sebastian Cyprych: +trd pl
 

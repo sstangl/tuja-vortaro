@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: baston.xml,v 1.24 2015/10/02 02:10:24 revo Exp $">
+<art mrk="$Id: baston.xml,v 1.25 2015/12/11 13:10:15 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>baston</rad>/o <fnt><bib>PV</bib></fnt>
@@ -58,7 +58,7 @@
    </trdgrp>
   <trdgrp lng="en">
      <trd>stick</trd>,
-     <trd>cane</trd>,
+     <trd>cane</trd>, <trd>baton</trd>,
      <trd>walking <ind>stick</ind></trd>
    </trdgrp>
   <trd lng="es">bast&oacute;n</trd>
@@ -175,11 +175,15 @@
     </dif>
   </snc>
   <trd lng="de">Essst&auml;bchen</trd>
+  <trd lng="en">chopstick</trd>
   <trd lng="fr">baguette<klr> (couvert de table)</klr></trd>
 </drv>
 </art>
 <!--
 $Log: baston.xml,v $
+Revision 1.25  2015/12/11 13:10:15  revo
+Cindy Moon McKee: +trd en
+
 Revision 1.24  2015/10/02 02:10:24  revo
 Evandro Avellar: +trd pt
 
@@ -199,8 +203,5 @@ Revision 1.19  2009/03/03 17:30:47  revo
 Sebastian Cyprych: +trd pl
 
 Revision 1.18  2009/01/22 17:30:38  revo
-Wieland Pusch: +trd bg
-
-Revision 1.17  2008/10/30 19:26:02  revo
 -->
 </vortaro>

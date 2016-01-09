@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: kuragx.xml,v 1.28 2015/10/20 06:10:20 revo Exp $">
+<art mrk="$Id: kuragx.xml,v 1.29 2015/12/18 15:10:44 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>kura&gcirc;</rad>/a <fnt><bib>PV</bib></fnt>
@@ -90,7 +90,8 @@
 <drv mrk="kuragx.0i">
   <kap><tld/>i</kap>
   <gra><vspec>tr</vspec></gra>
-  <snc mrk="kuragx.0i.KOMUNE">
+  <uzo tip="klr">(la objekto estas infinitivo)</uzo>
+    <snc mrk="kuragx.0i.KOMUNE">
     <dif>
       Havi <tld/>on:
       <ekz>
@@ -401,6 +402,9 @@
 </art>
 <!--
 $Log: kuragx.xml,v $
+Revision 1.29  2015/12/18 15:10:44  revo
+Alain Gerard: + klr
+
 Revision 1.28  2015/10/20 06:10:20  revo
 Alain Gerard: + sen~a +trd (fr)
 
@@ -420,8 +424,5 @@ Revision 1.23  2009/11/30 17:30:41  revo
 Jeromo Vasxe: + mal/sen~igi, + mrk + trd fr
 
 Revision 1.22 2009/09/20 16:30:50 revo
-Paul Peeraerts: +nl
-
-Revision 1.21 2009/03/01 17:32:17 revo
 -->
 </vortaro>

@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: forgx.xml,v 1.14 2004/01/04 17:31:49 revo Exp $">
+<art mrk="$Id: forgx.xml,v 1.15 2015/12/20 21:10:14 revo Exp $">
 <kap><ofc>*</ofc>
 <rad>for&gcirc;</rad>/i</kap>
 <drv mrk="forgx.0i">
@@ -46,6 +46,10 @@
   <trd lng="fr">forger</trd>
   <trd lng="hu">kov&aacute;csol</trd>
   <trd lng="nl">smeden</trd>
+  <trdgrp lng="pt">
+    <trd>forjar</trd>,
+    <trd>bater<klr> (ferro)</klr></trd>
+  </trdgrp>
   <trd lng="ru">&c_k;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
 </drv>
 
@@ -140,6 +144,9 @@
 </art>
 <!--
 $Log: forgx.xml,v $
+Revision 1.15  2015/12/20 21:10:14  revo
+Evandro Avellar: +trd pt
+
 Revision 1.14  2004/01/04 17:31:49  revo
 Dmitri Gabinski: +trd be
 
@@ -159,8 +166,5 @@ Revision 1.9 2001/09/17 18:15:02 revo
 Marc Bavant: +trd fr; ~i: +uzo TEK; al~i: +ref al alkateni
 
 Revision 1.8 2001/05/10 17:52:51 revo
-Yury Finkel: +trd ru
-
-Revision 1.7 2000/12/10 18:46:14 revo
 -->
 </vortaro>
