@@ -1,7 +1,7 @@
 // La Reta Vortaro, GPLv2
 'use strict';
 var revo_grc = [
-["Baktrio","Βακτρία, Βακτριανή"],
+["Baktrio","Βακτρία","Βακτριανή"],
 ["Bizanco"," Βυζάντιον"],
 ["Demetrio","Δημήτριος"],
 ["Epifanio","επιφάνεια"],
@@ -19,7 +19,7 @@ var revo_grc = [
 ["diocezo","διοίκησις"],
 ["dogmo","δόγμα"],
 ["eklezio","εκκλησία"],
-["episkopo","επίσκοπος, αρχιεπίσκοπος"],
+["episkopo","επίσκοπος","αρχιεπίσκοπος"],
 ["episkopujo","επαρχία"],
 ["esenco","ουσία"],
 ["hipostazo","υπόστασις"],
@@ -42,8 +42,8 @@ var revo_grc = [
 ["testamento","διαθήκη"],
 ["triunuo","Τριάς"],
 ["veni","εκπορεύομαι"],
-["ĉefpastro","αρχιερεύς, ιεράρχης"],
-["ĉefpresbitero","πρωτοπρεσβύτερος, πρωτοπαπάς, πρωθιερεύς"],
+["ĉefpastro","αρχιερεύς","ιεράρχης"],
+["ĉefpresbitero","πρωτοπρεσβύτερος","πρωτοπαπάς","πρωθιερεύς"],
 ["Ĥarono","Χάρων"],
 ];
 var revo_grc_lower = revo_grc.map(function(a) { return a.map(function(x) { return x.toLowerCase(); }) });

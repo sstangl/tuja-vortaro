@@ -17,7 +17,7 @@ var revo_sr = [
 ["kopernicio","коперницијум"],
 ["latrino","латрине"],
 ["livermorumo","ливерморијум"],
-["metodologio","методика, методологија"],
+["metodologio","методика","методологија"],
 ["metropolito","митрополит"],
 ["pino","бор"],
 ["rentgenio","рендгенијум"],

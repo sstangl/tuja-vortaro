@@ -1,7 +1,7 @@
 // La Reta Vortaro, GPLv2
 'use strict';
 var revo_kk = [
-["Zimbabvo","Зимбабве, Зимбабве Республикасы"],
+["Zimbabvo","Зимбабве","Зимбабве Республикасы"],
 ["bona","жақсы"],
 ["nikabo","Ниқаб"],
 ["scienco","ғылым"],

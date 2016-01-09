@@ -5,7 +5,7 @@ var revo_sw = [
 ["Germanio","Ujerumani"],
 ["bona","-zuri, -ema"],
 ["bone","vizuri"],
-["bono, bonaĵo","kitu kizuri, uzuri, faida"],
+["bono, bonaĵo","kitu kizuri","uzuri","faida"],
 ["bonulo","mtu mzuri"],
 ["bonvenigi","-karibisha"],
 ["du","-wili"],

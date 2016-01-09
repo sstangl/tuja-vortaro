@@ -3,7 +3,7 @@
 var revo_os = [
 ["Moskvo","Мæскуы"],
 ["aviadilo","хæдтæхæг"],
-["aŭtomobilo","машинæ, хæдтулгæ"],
+["aŭtomobilo","машинæ","хæдтулгæ"],
 ["gastiganto","фысым"],
 ["gasto","уазæг"],
 ["horo","сахат"],
