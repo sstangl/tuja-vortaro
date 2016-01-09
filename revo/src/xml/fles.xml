@@ -2,14 +2,14 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: fles.xml,v 1.13 2013/10/17 19:10:15 revo Exp $">
+<art mrk="$Id: fles.xml,v 1.15 2016/01/01 20:10:14 revo Exp $">
 <kap>
 <rad>fles</rad>/o
 </kap>
 <drv mrk="fles.0o">
   <kap><tld/>o</kap>
-  <uzo tip="fak">ZOO</uzo>
   <snc>
+  <uzo tip="fak">ZOO</uzo>
     <dif>
       <ref tip="lst" cel="fisx.0o" lst="voko:fi&scirc;oj">Fi&scirc;o</ref>
       vivanta &ccirc;e marbordoj,
@@ -24,6 +24,8 @@
   </snc>
   <trd lng="bg">&c_p;&c_i;&c_s;&c_i;&c_ja;</trd>
   <trd lng="de">Flunder</trd>
+  <trd lng="en">flounder</trd>
+  <trd lng="fr">flet</trd>
   <trd lng="hu">&eacute;rdes<ind> lep&eacute;nyhal</ind></trd>
   <trd lng="nl">bot<klr tip="ind"> (vis)</klr></trd>
   <trdgrp lng="pt">
@@ -36,6 +38,12 @@
 
 <!--
 $Log: fles.xml,v $
+Revision 1.15  2016/01/01 20:10:14  revo
+Damien Brucker: +trd fr
+
+Revision 1.14  2015/12/17 09:10:19  revo
+Russ Williams: +trd en
+
 Revision 1.13  2013/10/17 19:10:15  revo
 Wolfram Diestel: ref al lst fisxoj, prilaboris dif
 
@@ -52,11 +60,5 @@ Revision 1.9  2003/10/05 18:52:36  revo
 Jozefo Horvath: forigo de () el trd hu
 
 Revision 1.8  2003/10/02 16:30:35  revo
-Jozefo Horvath: +trd hu
-
-Revision 1.7  2002/11/17 18:27:06  revo
-Paul Peeraerts: ald trd nl
-
-Revision 1.6  2001/05/11 20:10:15  revo
 -->
 </vortaro>

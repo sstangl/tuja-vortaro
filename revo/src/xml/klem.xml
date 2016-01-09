@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: klem.xml,v 1.4 2015/07/04 08:37:37 revo Exp $">
+<art mrk="$Id: klem.xml,v 1.5 2015/12/31 16:10:26 revo Exp $">
 <kap>
     <rad>klem</rad>/o <fnt><bib>PIV1</bib></fnt>
 </kap>
@@ -19,8 +19,9 @@
   </snc>
   <trdgrp lng="cs">
     <trd>svorka</trd>,
-    <trd>vývod</trd>
+    <trd>v&yacute;vod</trd>
   </trdgrp>
+  <trd lng="en">terminal</trd>
   <trdgrp lng="fr">
     <trd>borne<klr> (de connexion)</klr></trd>,
     <trd>connecteur</trd>,
@@ -28,13 +29,16 @@
   </trdgrp>
   <trdgrp lng="sk">
     <trd>svorka</trd>,
-    <trd>vývod</trd>
+    <trd>v&yacute;vod</trd>
   </trdgrp>
 </drv>
 </art>
 
 <!--
 $Log: klem.xml,v $
+Revision 1.5  2015/12/31 16:10:26  revo
+Cindy Moon McKee: +trd en
+
 Revision 1.4  2015/07/04 08:37:37  revo
 aldono de trd cs per skripto de M. von Laer
 

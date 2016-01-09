@@ -538,6 +538,7 @@ var revo_fi = [
 ["ĥilo","maitiaisneste (ruoansulatus), kyylus"],
 ["ĥimero","Khimaira, tuulentupa, haave"],
 ["ĥimo","ruokasula"],
+["ĥio","khii"],
 ["ĥitino","kitiini"],
 ["ĥolero","kolera"],
 ["ĥoralo","koraali"],

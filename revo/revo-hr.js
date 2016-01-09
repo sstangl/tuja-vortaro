@@ -74,6 +74,7 @@ var revo_hr = [
 ["vizaĝo","lice"],
 ["ĥameleono","kameleon"],
 ["ĥi","hi"],
+["ĥio","hi"],
 ["ĥitino","hitin"],
 ["ŝanĝa","promjenjiv"],
 ["ŝanĝi","promjeniti"],
