@@ -1,8 +1,32 @@
 <?xml version="1.0" encoding="utf-8" ?>
 
+<!--
+  Ordo de literoj en la indeksoj. La ordigo ene de litero-ĉapitro estas farata de Saxon, kiu siavice uzas
+  Java (subklasojn de java.util.Comparator). 
+
+  Per kreu-regulojn=jes oni povas krei regulojn uzeblajn per
+  java.text.RuleBasedCollator (https://docs.oracle.com/javase/7/docs/api/java/text/RuleBasedCollator.html).
+  Tamen pli novaj versioj de Saxon nun preferas, ke oni donu rekte Javo-klason por la ordigo. 
+  Tiuj estas jene troveblaj: $VOKO/jav/de/steloj/respiro/ resp. $VOKO/xsl/respiro.jar 
+
+  Alivorte kreu-reguloj / klaso tie ĉi donita ne plu estas influa, anstataue la
+  ordigo-klaso estas rekte donita en xsl/inx_ordigo2.inc, t.e. mane redaktita tie
+
+  Informojn kiel vi povas ĝustigi ordigon de lingvo per reguloj, vi trovas ekz. tie ĉi en la reto:
+  http://userguide.icu-project.org/collation/customization
+
+
+  <l>...</l> (grupo de) litero(j), sub kiu ordiĝas vortoj, kiuj tiel komenciĝas
+  n=..., anstataŭ unuopaj literoj temas pri ĉeneto da literoj, ekz. "ch" anstataŭ "ĉ"
+  <i> ignorendaj literoj dum ordigo - uzata ĉe kreado de ordigo-reguloj por Saxon, 
+      sed nun ne plu uzata prefere al Javo-klaso
+  <r> (replace) - anstataŭigo de litergrupoj samvalidaj kiel alia litero, 
+      ekz. "ae" anstataŭ "ä" en la germana, same por Saxon, sed ne plu uzata nun
+-->
+
 <ordigo>
 
-<lingvo lng="eo" kreu-regulojn="jes">
+<lingvo lng="eo" kreu-regulojn="jes" klaso="de.steloj.respiro.EsperantoCollator">
  <l name="a">a,A</l>
  <l name="b">b,B</l>
  <l name="c">c,C</l>
@@ -135,7 +159,7 @@
 </lingvo>
 
 <!-- bretona -->
-<lingvo lng="br" kreu-regulojn="jes">
+<lingvo lng="br" kreu-regulojn="jes" klaso="de.steloj.respiro.BretonCollator">
  <l name="a">a,A</l>
  <l name="b">b,B</l>
  <l name="ch" n="2">ch,cH,Ch,CH</l>
@@ -165,7 +189,7 @@
 </lingvo>
 
 <!-- kataluna -->
-<lingvo lng="ca" kreu-regulojn="jes">
+<lingvo lng="ca" kreu-regulojn="jes" klaso="de.steloj.respiro.CatalanCollator">
  <l name="a">a,A,à,À</l>
  <l name="b">b,B</l>
  <l name="c">c,C,ç,Ç</l>
@@ -230,7 +254,7 @@
 </lingvo>
 
 <!-- kimra -->
-<lingvo lng="cy" kreu-regulojn="jes">
+<lingvo lng="cy" kreu-regulojn="jes" klaos="de.steloj.respiro.WelshColaltor">
  <l name="a">a,A</l>
  <l name="b">b,B</l>
  <l name="c" minus="ch">c,C</l>
@@ -418,7 +442,7 @@
 </lingvo>
 
 <!-- hispana -->
-<lingvo lng="es" kreu-regulojn="jes">
+<lingvo lng="es" kreu-regulojn="jes" klaso="de.steloj.respiro.SpanishCollator">
  <l name="a">a,A,á,Á</l>
  <l name="b">b,B</l>
  <l name="c" minus="ch">c,C</l>
@@ -451,7 +475,7 @@
 </lingvo>
 
 <!-- persa -->
-<lingvo lng="fa" kreu-regulojn="jes">
+<lingvo lng="fa" kreu-regulojn="jes" klaso="de.steloj.respiro.PersianCollator">
  <l name="spaceto" n="3">' '</l>
  <l name="cif_0">&#x06F0;,&#x0660;</l>
  <l name="cif_1">&#x06F1;,&#x0661;</l>
@@ -504,7 +528,7 @@
  <r>&#x0625; = &#x0627;&#x0655;</r>
  <r>&#x0626; = &#x064A;&#x0654;</r>
 
- <!-- ingorendaj literoj -->
+ <!-- ignorendaj literoj -->
  <i>'!'</i>
  <i>'.'</i>
  <i>':'</i>
@@ -1207,6 +1231,65 @@
  <l name="aa">&#x00e5;&#x00c5;</l>
  <l name="ae">äÄ</l>
  <l name="oe">öÖ</l>
+</lingvo>
+
+<!-- taja -->
+<lingvo lng="th" ignorendaj="เแโใไ">
+ <l name="ko_kai">ก</l>
+ <l name="kho_khai">ข</l>
+ <l name="kho_khuat">ฃ</l>
+ <l name="kho_khwai">ค</l>
+ <l name="kho_khon">ฅ</l>
+ <l name="kho_rakhang">ฆ</l>
+ <l name="ngo_ngu">ง</l>
+ <l name="cho_chan">จ</l>
+ <l name="cho_ching">ฉ</l>
+ <l name="cho_chang">ช</l>
+ <l name="so_so">ซ</l>
+ <l name="cho_choe">ฌ</l>
+ <l name="yo_ying">ญ</l>
+ <l name="do_chada">ฎ</l>
+ <l name="to_patak">ฏ</l>
+ <l name="tho_than">ฐ</l> 
+ <l name="tho_montho">ฑ</l>
+ <l name="tho_phuthao">ฒ</l> 
+ <l name="no_nen">ณ</l>
+ <l name="do_dek">ด</l>
+ <l name="to_tao">ต</l>
+ <l name="tho_thung">ถ</l>
+ <l name="tho_thahan">ท</l>
+ <l name="tho_thong">ธ</l>
+ <l name="no_nu">น</l>
+ <l name="bo_baimai">บ</l>
+ <l name="po_pla">ป</l>
+ <l name="pho_phueng">ผ</l>
+ <l name="fo_fa">ฝ</l>
+ <l name="pho_phan">พ</l>
+ <l name="fo_fan">ฟ</l>
+ <l name="pho_samphao">ภ</l> 
+ <l name="mo_ma">ม</l>
+ <l name="yo_yak">ย</l>
+ <l name="ro_ruea">ร</l>
+ <l name="lo_ling">ล</l>
+ <l name="wo_waen">ว</l>
+ <l name="so_sala">ศ</l>
+ <l name="so_ruesi">ษ</l>
+ <l name="so_suea">ส</l>
+ <l name="ho_hip">ห</l>
+ <l name="lo_chula">ฬ</l>
+ <l name="o_ang">อ</l>
+ <l name="ho_nokhuk">ฮ</l> 
+
+ <!-- kelkaj komencaj vokaloj ignoriĝas en
+     alordigo de vorto al literĉapitro, ĉar laŭlogike ili
+     sekvas la konsonanton --> 
+
+ <i>เ</i> <!-- sara e -->
+ <i>แ</i> <!-- sara ae -->
+ <i>โ</i> <!-- sara o -->
+ <i>ใ</i> <!-- sara ai maimuan -->
+ <i>ไ</i> <!-- sara ai mai malai -->
+
 </lingvo>
 
 <!-- turka -->

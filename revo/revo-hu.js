@@ -5167,6 +5167,8 @@ var revo_hu = [
 ["forsendi","elküld (vhonnan)"],
 ["forsitio","aranyfa","aranycserje","forzitia"],
 ["forskui","elvet","eldob","leráz"],
+["forsveni","eltűnik","elszáll","elhal","megsemmisül"],
+["forsveno","eltűnés","elhalás","megsemmisülés"],
 ["fortempiĝi","elévül","elavul"],
 ["forteni","távol tart"],
 ["forteno","távoltartás","zár megszüntetése","explózió"],
