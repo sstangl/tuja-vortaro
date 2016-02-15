@@ -27,7 +27,7 @@
       la maldekstra kadro a&ubreve; uzi unu el la du supraj ser&ccirc;iloj.
     </alineo>
     <alineo style="font-size: small">
-      Se vi uzas Fajrovulpon post la versio 2 a&ubreve; similan retumilon, 
+      Se vi uzas retumilon, kiu subtenas rapidserĉon,
       vi povas aldoni la ser&ccirc;ilojn al la ser&ccirc;ilolisto de la retumilo,
       elektante tie la menueron por aldono a&ubreve; klakante sur la sekvajn
       ligilojn por 
@@ -65,6 +65,19 @@
         </alineo>
       </ero>
     </sekcio>
+    <sekcio titolo="Vortaroj kiel eLibro (EPUB)">
+      <ero titolo="EPUB-Vortaroj" ref="elibro">
+        <alineo style="font-size: small; margin-top: 0.5em; margin-left: 2em; width: 70%">                                     Publikigi kompletan Revon kiel elektronika libro en formo EPUB &scirc;ajnas
+        momente tro ambicia kaj pro la amplekso kaj pro la fakto, ke strukturoj necesaj por vortaraj 
+	indeksoj en EPUB-normo &gcirc;is nun estas nur rekomenditaj sed ne &gcirc;enerale subtenataj.
+	</alineo>
+	<alineo style="font-size: small; margin-top: 0.5em; margin-left: 2em; width: 70%">
+	  Por tamen oferti al vi ion uzeblan jen trovi&gcirc;as du vortaroj pretigitaj kiel e-Libro: la 
+	  Fundamento de Esperanto kaj Vortaro de rilatoj, kiu estas seplingva eltira&jcirc;o el Revo 
+	  kun interreferencoj. Vi povas momente nur uzi la normalan plentekstan ser&ccirc;funkcion.
+        </alineo>
+      </ero>
+    </sekcio>
     <sekcio titolo="XDXF-versio de Reta Vortaro">
       <ero titolo="XDXF-Revo" ref="revoxdxf">
         <alineo style="font-size: small; margin-top: 0.5em; margin-left: 2em; width: 70%">
@@ -72,12 +85,20 @@
         </alineo>
       </ero>
     </sekcio>
-    <sekcio titolo="Revo por po&scirc;komputiloj">
-      <ero titolo="Reveto kaj PRevo" ref="reveto">
+    <sekcio titolo="Revo por SQLite3">
+      <ero titolo="SQLite3-Revo" ref="revosql">
 	<alineo style="font-size: small; margin-top: 0.5em; margin-left: 2em; width: 70%">
-        Pri informoj kiel utiligi Revon en po&scirc;komputiloj vidu sur pa&gcirc;o <url ref="../revo/dok/operaciumoj.html">Kiel uzi Revon en diversaj sistemoj</url>.      
-        Cetere vi povas anka&ubreve; ricevi Revon en bedic-formato.
-        Skribu al la Revo-administranto, se vi bezonas.
+	SQLite3 estas elskatole uzebla en diversaj po&scirc;komputiloj, kvankam la datumbazo sen 
+	fasada programo ankora&ubreve; ne estas tre utila, sed ja bona bazo por ambiciaj programistoj. 
+	Por traser&scirc;i la tabelojn vi povas ekz. instali "sqlite3" en via tablokomputilo a&ubreve;
+	"Private DB" en via iOS-po&scirc;komputilo kaj &scirc;argi la dosieron. 
+	</alineo>
+	<alineo style="font-size: small; margin-top: 0.5em; margin-left: 2em; width: 70%">
+	  Por Androidaj aparatoj ekzistas jam PRevo.
+	  Pri informoj kiel utiligi Revon en po&scirc;komputiloj vidu sur pa&gcirc;o 
+	  <url ref="../revo/dok/operaciumoj.html">Kiel uzi Revon en diversaj sistemoj</url>.      
+	  Cetere vi povas anka&ubreve; ricevi Revon en bedic-formato.
+	  Skribu al la Revo-administranto, se vi bezonas.
         </alineo>
       </ero>
     </sekcio>
@@ -95,16 +116,17 @@
         </alineo>
       </ero>
     </sekcio>
-    <sekcio titolo="Voko-programaro">
-      <ero titolo="programoj por fari kaj administri vortaron" ref="voko">
-        <alineo style="font-size: small; margin-top: 0.5em; margin-left: 2em; width: 70%">
-        &Gcirc;i enhavas &ccirc;iujn rimedojn por konstrui elektronikajn
-        vortarojn la&ubreve; VoKo-te&hcirc;niko. &Gcirc;i ne enhavas
+<!--    <sekcio titolo="Voko-programaro">
+      <ero titolo="programoj por fari kaj administri vortaron" ref="voko"> -->
+      <alineo style="font-size: small; margin-top: 0.5em; margin-left: 2em; width: 70%">
+        La Voko-programaro, kiu enhavas &ccirc;iujn rimedojn por konstrui elektronikajn
+        vortarojn la&ubreve; VoKo-te&hcirc;niko vi povas preni &ccirc;e                                                        <url ref="http://sourceforge.net/p/retavortaro/code/HEAD/tree/trunk/">Kodfor&gcirc;ejo</url>.
+	&Gcirc;i ne enhavas
         ekzemplovortaron (vi povus preni kelkajn artikolojn el ReVo).
-        Aldone vi bezonas ilojn el la publika programaro (t.e. Java, ant, saxon k.a.).
+        Aldone vi bezonas ilojn el publika programaro (t.e. Java, ant, saxon k.a.).
         </alineo>
-      </ero>
-    </sekcio>
+<!--      </ero> 
+    </sekcio> -->
     <alineo>
        &Ccirc;iuj iloj de VoKo estas publikigataj sub la
        <url ref="../revo/dok/copying.txt">GNUa &Gcirc;enerala Publika Permesilo</url>.
