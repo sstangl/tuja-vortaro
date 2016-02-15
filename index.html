@@ -8,11 +8,16 @@
 
     <link rel="stylesheet" type="text/css" href="style.css">
 
+    <script type="text/javascript">
+      if (navigator.userAgent.indexOf("Mobile") !== -1) {
+        window.location.href = "mobile.html";
+      }
+    </script>
+
     <script src="etymology/etymology.js"></script>
     <script src="transitiveco/transitiveco.js"></script>
     <script src="vortaro.js"></script>
     <script src="app.js" defer></script>
-
   </head>
 
   <body>
@@ -29,5 +34,4 @@
       <div id="results" class="results-web"></div>
     </div>
   </body>
-
 </html>
