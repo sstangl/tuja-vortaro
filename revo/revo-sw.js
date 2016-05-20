@@ -1,6 +1,7 @@
 // La Reta Vortaro, GPLv2
 'use strict';
 var revo_sw = [
+["Daresalamo","Dar-es-Salaam"],
 ["Francio","Ufaransa"],
 ["Germanio","Ujerumani"],
 ["bona","-zuri, -ema"],

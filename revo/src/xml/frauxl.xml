@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: frauxl.xml,v 1.21 2009/08/28 16:31:33 revo Exp $">
+<art mrk="$Id: frauxl.xml,v 1.23 2016/02/25 09:10:15 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>fra&ubreve;l</rad>/o
@@ -130,6 +130,10 @@
     <trd>bachelorhood</trd>,
     <trd>unmarried state</trd>
   </trdgrp>
+  <trdgrp lng="es">
+    <trd>solter&iacute;a</trd>,
+    <trd>celibato</trd>
+  </trdgrp>
   <trd lng="fr">c&eacute;libat</trd>
   <trd lng="nl">celibaat</trd>
   <trd lng="he">&resh;&vav;&vav;&qof;&vav;&tav;</trd>
@@ -147,6 +151,12 @@
 </art>
 <!--
 $Log: frauxl.xml,v $
+Revision 1.23  2016/02/25 09:10:15  revo
+Agustin Garcia Lopez: +tr(es) -ec
+
+Revision 1.22  2016/02/13 17:10:18  revo
+Agustin Garcia Lopez: +trd(es) -ec
+
 Revision 1.21  2009/08/28 16:31:33  revo
 Emmanuel Debanne: +trd ku
 
@@ -163,11 +173,5 @@ Revision 1.17  2007/06/13 16:31:39  revo
 Tulio Flores: +tr pt
 
 Revision 1.16  2006/01/09 17:32:37  revo
-Jeromo Vasxe: + ekz, + fak gen
-
-Revision 1.15 2004/11/12 17:31:48 revo
-Dmitri Gabinski: +trd be
-
-Revision 1.14 2002/10/06 17:35:02 revo
 -->
 </vortaro>

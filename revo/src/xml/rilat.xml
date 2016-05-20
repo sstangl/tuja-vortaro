@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 <vortaro>
-<art mrk="$Id: rilat.xml,v 1.58 2015/12/01 19:10:22 revo Exp $">
+<art mrk="$Id: rilat.xml,v 1.59 2016/02/18 08:10:18 revo Exp $">
 <kap>
   <ofc>*</ofc>
   <rad>rilat</rad>/i <fnt><bib>PV</bib></fnt>
@@ -548,6 +548,7 @@
     <trd>styk</trd>,
     <trd>vztah</trd>
   </trdgrp>
+  <trd lng="fr">relation</trd>
   <trdgrp lng="hu">
     <trd>k&ouml;lcs&ouml;n&ouml;s <ind>viszony</ind></trd>,
     <trd>kapcsolat</trd>,
@@ -765,6 +766,9 @@
 </art>
 <!--
 $Log: rilat.xml,v $
+Revision 1.59  2016/02/18 08:10:18  revo
+Alain Gerard: +trd fr
+
 Revision 1.58  2015/12/01 19:10:22  revo
 Jeromo Vasxe: + ia~e
 
@@ -784,8 +788,5 @@ Revision 1.53  2013/07/02 01:10:12  revo
 Benito Subejrano: + trd ca oc
 
 Revision 1.52  2011/02/19 11:10:09  revo
-Wolfram Diestel: +snc-mrk, ref proporcio
-
-Revision 1.51  2010/09/02 16:30:33  revo
 -->
 </vortaro>

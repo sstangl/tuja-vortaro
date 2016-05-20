@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: pul1.xml,v 1.7 2014/04/14 15:10:21 revo Exp $">
+<art mrk="$Id: pul1.xml,v 1.8 2016/03/20 09:10:18 revo Exp $">
 <kap>
   <rad>pul</rad>/o
   <fnt>
@@ -27,7 +27,7 @@
       lst="voko:monunuoj">monunuo</ref> de <ref
       tip="vid" cel="afgan.A0ujo.GEOG">Afganujo</ref>.
       <ekz>
-        1 <ref tip="super" cel="afgani.0o.mono.EKON">afganio</ref> = 100
+        1 <ref tip="super" cel="afgani.0o">afganio</ref> = 100
         puloj
         <fnt>
           <vrk>
@@ -50,6 +50,9 @@
 
 <!--
 $Log: pul1.xml,v $
+Revision 1.8  2016/03/20 09:10:18  revo
+Damien Brucker: -eraro cxe cel en ref
+
 Revision 1.7  2014/04/14 15:10:21  revo
 Damien Brucker: +trd fr
 
@@ -69,7 +72,5 @@ Revision 1.2  2009/06/03 16:30:26  revo
 Sebastian Cyprych: kor ref afgani.
 
 Revision 1.1  2009/06/02 18:47:13  revo
-Sebastian Cyprych: nova artikolo
-
 -->
 </vortaro>

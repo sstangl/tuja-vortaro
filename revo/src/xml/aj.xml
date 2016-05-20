@@ -2,13 +2,13 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: aj.xml,v 1.6 2015/07/04 08:37:29 revo Exp $">
+<art mrk="$Id: aj.xml,v 1.7 2016/03/18 19:10:29 revo Exp $">
 <kap>
   <rad>aj</rad> <fnt><bib>PIV1</bib></fnt>
 </kap>
 <drv mrk="aj.0">
   <kap><tld/></kap>
-  <gra><vspec>ekkrio &gcirc;ema</vspec></gra>
+  <gra><vspec>ekkrio</vspec></gra>
   <snc mrk="aj.0.ve">
     <dif>
       Surprize, malagrable, dolore:
@@ -22,7 +22,7 @@
   <trdgrp lng="cs">
     <trd>o</trd>,
     <trd>och</trd>,
-    <trd>ó</trd>
+    <trd>&oacute;</trd>
   </trdgrp>
   <trd lng="es">ay<klr tip="amb"> (interjecci&oacute;n de dolor)</klr></trd>
   <trdgrp lng="fr">
@@ -34,13 +34,16 @@
   <trdgrp lng="sk">
     <trd>o</trd>,
     <trd>och</trd>,
-    <trd>ó</trd>
+    <trd>&oacute;</trd>
   </trdgrp>
 </drv>
 </art>
 
 <!--
 $Log: aj.xml,v $
+Revision 1.7  2016/03/18 19:10:29  revo
+Jeromo Vasxe: vspec ekkrio
+
 Revision 1.6  2015/07/04 08:37:29  revo
 aldono de trd cs per skripto de M. von Laer
 

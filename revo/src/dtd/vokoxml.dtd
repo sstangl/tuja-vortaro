@@ -11,6 +11,9 @@ enteno de artikolo ne estas destinita por kompletaj vortaroj, sed por
 eltiroj aŭ unuopa artikolo.-->
 
 <!ELEMENT vortaro ((prologo?,precipa-parto,epilogo?)|art+)>
+<!-- ATTLIST vortaro
+   xmlns CDATA #FIXED "http://steloj.de/voko"
+-->
 
 <!-- [prologo] Prologo de la vortaro. Ĝi povas enteni la titolo(j)n 
 kaj aŭtoro(j)n de la vortaro kaj aliajn tekstojn.-->
@@ -312,6 +315,7 @@ kaj klarigoj, poste povos sekvi aliaj elementoj.
 <!ELEMENT trd (#PCDATA|klr|ind|mll|ofc)*>
 <!ATTLIST trd
 	lng CDATA #IMPLIED
+        fnt CDATA #IMPLIED
 >
 
 <!-- [ind] Parto de traduko, kiu liveras la kapvorton en la

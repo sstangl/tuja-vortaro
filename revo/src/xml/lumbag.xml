@@ -2,9 +2,10 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: lumbag.xml,v 1.10 2015/11/20 14:10:19 revo Exp $">
+<art mrk="$Id: lumbag.xml,v 1.12 2016/02/20 21:10:17 revo Exp $">
 <kap>
-  <rad>lumbag</rad>/o <fnt><bib>PIV1</bib></fnt>
+  <rad>lumbag</rad>/o <fnt><bib>PIV1</bib></fnt>,
+  <var><kap><rad>lumbalgi</rad>/o</kap></var>
 </kap>
 <drv mrk="lumbag.0o">
   <kap><tld/>o</kap>
@@ -12,8 +13,24 @@
     <uzo tip="fak">MED</uzo>
     <dif>
       Akuta <ref tip="malprt" cel="dolor.lumbo0o">lumbodoloro</ref>,
-      plejofte pro fortostre&ccirc;o.
+      plej ofte pro fortostre&ccirc;o:
+      <ekz>
+        li eksuferis de serioza gastrospasmo kaj lumbalgio
+        <fnt>
+          <vrk><url
+          ref="http://www.espero.com.cn/old/epch/08h/08h-02/ziran2-5.htm">Hejmo
+          de cignoj en &Ccirc;inio</url></vrk>
+        </fnt>;
+      </ekz>
+      <ekz>
+        pro akuta lumbago mi fari&gcirc;is ne povi sidi&gcirc;i longe
+        <fnt>
+          <vrk><url ref="http://www.ipernity.com/blog/48093/81480">Akuta
+          lumbago</url>, blogero</vrk>
+        </fnt>.
+      </ekz>
     </dif>
+    
   </snc>
   <trdgrp lng="ca">
     <trd>lumbago</trd>,
@@ -25,7 +42,10 @@
     <trd>lumbago</trd>,
     <trd>&uacute;st&rcaron;el</trd>
   </trdgrp>
-  <trd lng="de">Hexenschuss</trd>
+  <trdgrp lng="de">
+     <trd>Hexenschuss</trd>,
+     <trd>Lumbalgie</trd>
+  </trdgrp>
   <trd lng="en">lumbago <klr>(old popular term)</klr></trd>
   <trdgrp lng="fr">
     <trd>lumbago</trd>,
@@ -41,6 +61,12 @@
 
 <!--
 $Log: lumbag.xml,v $
+Revision 1.12  2016/02/20 21:10:17  revo
+Wolfram Diestel: +germ trd
+
+Revision 1.11  2016/02/20 20:10:27  revo
+Wolfram Diestel: +ekz, var lumbalgio
+
 Revision 1.10  2015/11/20 14:10:19  revo
 Cindy Moon McKee: +trd en
 
@@ -57,11 +83,5 @@ Revision 1.6  2014/12/19 23:10:18  revo
 Alain Gerard: +trd fr
 
 Revision 1.5  2014/11/18 20:10:48  revo
-Eko Nur Syah Hidayat: +trd id
-
-Revision 1.4  2013/10/09 19:11:30  revo
-Wolfram Diestel: ref al lst malsanoj
-
-Revision 1.3  2012/01/08 12:10:15  revo
 -->
 </vortaro>

@@ -2,19 +2,19 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: tera.xml,v 1.2 2013/09/10 10:10:18 revo Exp $">
+<art mrk="$Id: tera.xml,v 1.3 2016/03/18 20:10:16 revo Exp $">
 <kap>
     <rad>tera</rad>- <fnt><bib>PIV1</bib></fnt>
 </kap>
-<drv mrk="tera.0.MEZ">
+<drv mrk="tera.0">
   <kap><tld/>-</kap>
   <mlg>T</mlg>
   <gra><vspec>prefikso</vspec></gra>
-  <snc mrk="tera.0.MEZ.SNC">
+  <snc mrk="tera.0.MEZ">
     <uzo tip="fak">FIZ</uzo>
     <dif>
       &leftquot;Biliono da&rightquot;, 10<sup>12</sup>
-      en la Internacia Sistemo de unuoj (SI)
+      en la Internacia Sistemo de Unuoj (SI).
     </dif>
   </snc>
   <trd lng="be">&c_t;&c_e;&c_r;&c_a;-</trd>
@@ -38,6 +38,9 @@
 
 <!--
 $Log: tera.xml,v $
+Revision 1.3  2016/03/18 20:10:16  revo
+Jeromo Vasxe: kor mrk
+
 Revision 1.2  2013/09/10 10:10:18  revo
 Joop Eggen: korekto mlg
 

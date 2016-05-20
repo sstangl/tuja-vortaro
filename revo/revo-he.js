@@ -450,7 +450,7 @@ var revo_he = [
 ["kompaniano","שותף"],
 ["kompanio","חברה"],
 ["kompaniulo","מלווה","חבר"],
-["kondukpermesilo, stirpermesilo","רשיון נהיגה"],
+["kondukpermesilo, stirpermesilo","רשיון נהיℷה"],
 ["kontraŭvola, malgraŭvola","בלתי-רצוני"],
 ["konvinki","לשכנע"],
 ["konvinkiĝi","להשתכנע שכנע"],
