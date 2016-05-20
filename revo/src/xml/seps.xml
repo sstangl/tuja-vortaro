@@ -2,16 +2,36 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: seps.xml,v 1.12 2015/07/04 08:37:43 revo Exp $">
+<art mrk="$Id: seps.xml,v 1.14 2016/02/21 08:10:16 revo Exp $">
 <kap>
-  <rad>seps</rad>/a
+  <rad>seps</rad>/o <fnt><bib>PIV2</bib></fnt>
 </kap>
+<drv mrk="seps.0o">
+  <kap><tld/>o</kap>
+  <snc mrk="seps.0o.inflamo">
+    <uzo tip="fak">MED</uzo>
+    <dif>
+      Kompleksa sistema inflamreago de organismo pro infekti&gcirc;o per
+      bakterioj, ties venenoj a&ubreve; fungoj:
+      <ekz>
+        la plej seriozaj kazoj de <tld/>o inkluzivas la disigitan
+        <tld/>on (<tld/>on kun akuta organo-malfunkcio) kaj <tld/>an
+        &scirc;okon (<tld/>on kun refraktiva arteria hipotensio)
+        <fnt><bib>Viki</bib>, <vrk><url
+        ref="https://eo.wikipedia.org/wiki/Sepso">Sepso</url></vrk></fnt>
+      </ekz>.
+    </dif>
+  </snc>
+  <trd lng="de">Sepsis</trd>
+  <trd lng="fr">sepsis</trd>
+</drv>
+
 <drv mrk="seps.0a">
   <kap><tld/>a</kap>
-  <uzo tip="fak">MED</uzo>
   <snc>
+  <uzo tip="fak">MED</uzo>
     <dif>
-      Ka&ubreve;zanta putri&gcirc;on:
+      Ka&ubreve;zanta sepson:
       <ekz>
         <tld/>aj mikroboj;
       </ekz>
@@ -19,6 +39,7 @@
         <ind>kontra&ubreve;<tld/>a</ind> metodo de operacioj.
         <trd lng="be">&c_a;&c_n;&c_t;&c_y;&c_s;&c_e;&c_p;&c_t;&c_y;&c_ch;&c_n;&c_y;</trd>
         <trd lng="ca">antis&egrave;ptic</trd>
+        <trd lng="fr">antiseptique</trd>
         <trd lng="hu">antiszeptikus</trd>        
         <trd lng="nl">antiseptisch</trd>
         <trd lng="pl">aseptyczny</trd>
@@ -29,10 +50,11 @@
   <trd lng="be">&c_s;&c_e;&c_p;&c_t;&c_y;&c_ch;&c_n;&c_y;</trd>
   <trd lng="ca">s&egrave;ptic</trd>
   <trdgrp lng="cs">
-    <trd>hnilobný</trd>,
-    <trd>septický</trd>
+    <trd>hnilobn&yacute;</trd>,
+    <trd>septick&yacute;</trd>
   </trdgrp>
   <trd lng="de">septisch</trd>
+  <trd lng="fr">septique</trd>
   <trdgrp lng="hu">
     <trd>szeptikus</trd>,
     <trd>fert&odblac;z&eacute;ses</trd>
@@ -41,13 +63,19 @@
   <trd lng="pl">septyczny</trd>
   <trd lng="ru">&c_s;&c_je;&c_p;&c_t;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j;</trd>
   <trdgrp lng="sk">
-    <trd>hnilobný</trd>,
-    <trd>septický</trd>
+    <trd>hnilobn&yacute;</trd>,
+    <trd>septick&yacute;</trd>
   </trdgrp>
 </drv>
 </art>
 <!--
 $Log: seps.xml,v $
+Revision 1.14  2016/02/21 08:10:16  revo
+Damien Brucker: + trd fr
+
+Revision 1.13  2016/02/20 17:10:14  revo
+Wolfram Diestel: + ~o
+
 Revision 1.12  2015/07/04 08:37:43  revo
 aldono de trd cs per skripto de M. von Laer
 
@@ -64,16 +92,5 @@ Revision 1.8  2004/10/08 16:31:40  revo
 Jozefo Horvath: +trd hu
 
 Revision 1.7  2002/12/20 17:33:08  revo
-Zmicier Lapcionak: + trd be
-
-Revision 1.6  2002/02/08 17:32:26  revo
-Yury Finkel: +trd ru
-
-Revision 1.5 2001/09/06 18:12:26 revo
-Dennis Wibrow: +trd germ
-
-Revision 1.4 2001/07/03 18:12:34 revo
-Paul Peeraerts: ald trd nl
-
 -->
 </vortaro>

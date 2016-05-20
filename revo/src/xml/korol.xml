@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: korol.xml,v 1.11 2009/09/13 16:56:21 revo Exp $">
+<art mrk="$Id: korol.xml,v 1.12 2016/03/07 06:10:16 revo Exp $">
 <kap>
   <ofc>4</ofc>
   <rad>korol</rad>/o
@@ -44,12 +44,16 @@
     <trd>Kronblatt</trd>,
     <trd>Bl&uuml;tenblatt</trd>
   </trdgrp>
-  <trd lng="hu">p&aacute;rtalev&eacute;l</trd>
+   <trd lng="en">petal</trd>
+  <trd lng="hu">p&aacute;rtalev&eacute;l</trd> 
   <trd lng="nl">kroonblad</trd>
 </drv>
 </art>
 <!--
 $Log: korol.xml,v $
+Revision 1.12  2016/03/07 06:10:16  revo
+Jessica Grasso: +tr en
+
 Revision 1.11  2009/09/13 16:56:21  revo
 Paul Peeraerts: +nl
 
@@ -69,8 +73,5 @@ Revision 1.6  2001/05/02 16:11:58  revo
 Karlo Freeman: +trd=en @ ~o
 
 Revision 1.5  2001/02/13 12:40:57  revo
-oficialeco per programo de Lugrin
-
-Revision 1.4  2000/12/12 21:33:49  revo
 -->
 </vortaro>

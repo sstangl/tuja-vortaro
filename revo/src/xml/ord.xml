@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 <vortaro>
-<art mrk="$Id: ord.xml,v 1.60 2015/02/10 23:10:17 revo Exp $">
+<art mrk="$Id: ord.xml,v 1.62 2016/02/13 14:40:11 revo Exp $">
 <kap>
   <ofc>*</ofc> <rad>ord</rad>/o <fnt><bib>PV</bib></fnt>
 </kap>
@@ -13,7 +13,7 @@
       Regula aran&gcirc;o de aferoj, la&ubreve; kiu ili ta&ubreve;ge
       kaj oportune rilatas inter si:
     </dif>
-    <snc>
+    <snc mrk="ord.0o.en_spaco">
       <dif>
         En spaco:
         <ekz>
@@ -35,7 +35,7 @@
         <trd>porz&aogonek;dek</trd>
       </trdgrp>
     </snc>
-    <snc>
+    <snc mrk="ord.0o.en_tempo">
       <dif>
         En tempo:
         <ekz>
@@ -54,7 +54,7 @@
         <trd>porz&aogonek;dek</trd>
       </trdgrp>
     </snc>
-    <snc>
+    <snc mrk="ord.0o.en_spirito">
       <dif>
         En spirito:
         <ekz>
@@ -78,7 +78,7 @@
         <trd>porz&aogonek;dek</trd>
       </trdgrp>
     </snc>
-    <snc>
+    <snc mrk="ord.0o.en_socio">
       <dif>
         En socia vivo:
         <ekz>
@@ -314,7 +314,7 @@
             &c_b;&c_a;&c_k;&c_t;&c_je;&c_r;&c_i;&c_j;)</klr></trd>
       </trdgrp>
     </snc>
-    <snc>
+    <snc mrk="ord.0o.ARKI">
       <ekz>
         <uzo tip="fak">ARKI</uzo>
         la kvin arkitekturaj <tld/>oj.
@@ -1161,6 +1161,9 @@
 </art>
 <!--
 $Log: ord.xml,v $
+Revision 1.62  2016/02/13 14:40:11  revo
+snc-mrk por forigi eraron en tezauro-kreado
+
 Revision 1.60  2015/02/10 23:10:17  revo
 Jeromo Vasxe: + publika ~o
 

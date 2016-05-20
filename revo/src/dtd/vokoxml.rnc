@@ -1,0 +1,687 @@
+# RelaxNG-difino de strukturo de Voko-vortaro uzata en Reta Vortaro
+#
+# Aldone al la difinoj de vokoxml.dtd ĝi kapablas ekzameni la datumtipojn,
+# ekz. la enhavon de <ofc>, mrk ktp. 
+#
+# (c) 2016 ĉe Wolfram Diestel
+# uzebla sub kondiĉoj de GPL 2.0 
+
+
+# ****************************************************
+#           KADRA STRUKTURO DE VORTARO
+# ********************************************************
+
+default namespace = "http://steloj.de/voko"
+namespace a = "http://relaxng.org/ns/compatibility/annotations/1.0"
+
+## Radiko de la strukturarbo de vortaro. La elemento ampleksas
+## la tutan vortaron.<br/>
+## Ĝi entenas aŭ prologon, precipan parton kaj epilogon aŭ plurajn
+## artikolojn. Prologo kaj epilogo estas nedevigaj. La ebleco de rekta
+## enteno de artikolo ne estas destinita por kompletaj vortaroj, sed por
+## eltiroj aŭ unuopa artikolo.
+
+vortaro =
+  element vortaro {
+    attlist-vortaro,
+    ((prologo?, precipa-parto, epilogo?) | art+)
+  }
+attlist-vortaro &= empty
+
+
+##  [prologo] Prologo de la vortaro. Ĝi povas enteni la titolo(j)n 
+## kaj aŭtoro(j)n de la vortaro kaj aliajn tekstojn.
+
+prologo =
+  element prologo {
+    attlist-prologo, (text | titolo | autoro | alineo)*
+  }
+attlist-prologo &= empty
+
+
+##  [epilogo] Epilogo de la vortaro. Ĝia strukturo momente ne estas
+## specifita. Ĝi povas enhavi iun tekston.
+
+epilogo = element epilogo { attlist-epilogo, (text | alineo)* }
+attlist-epilogo &= empty
+
+
+##  [titolo] Titolo de la vortaro. Ĝi estas entenata en la 
+## prologo. Pluraj titoloj estas permesitaj.
+
+titolo = element titolo { attlist-titolo, text }
+attlist-titolo &= empty
+
+
+##  [autoro] Indiko de aŭtoro(j) de la vortaro. 
+## Ĝi estas enhavata en la prologo kaj povas okazi tie plurfoje.
+autoro = element autoro { attlist-autoro, text }
+attlist-autoro &= empty
+
+
+## [alineo] unuopa alineo en la prologo-teksto
+
+alineo = element alineo { attlist-alineo, (text | url)* }
+attlist-alineo &= empty
+
+
+## [precipa-parto] Precipa parto de la vortaro. Ĝi enhavas rekte ĉiujn
+## artikolojn aŭ sekciojn aŭ partojn. 
+## Diversaj partoj povas dividi diversajn lingvojn de la kapvortoj.
+## Sekcioj grupigas vortojn komencighantajn je sama litero.
+
+precipa-parto =
+  element precipa-parto {
+    attlist-precipa-parto, (parto+ | sekcio+ | art+)
+  }
+attlist-precipa-parto &= empty
+
+
+##  [parto] Vortaroparto. Ĝi estas entenata en la precipa parto. Parto normale
+## prezentas unu lingvon en plurlingva vortaro aŭ lingvodirekton en
+## dulingva vortaro. Ĝia atributo <dfn>lng</dfn> indikas la lingvon de
+## la kapvortoj en la parto.
+
+parto = element parto { attlist-parto, (sekcio+ | art+) }
+attlist-parto &= attribute lng { text }?
+
+
+##  [sekcio] Sekcio en vortaro. Ĝi estas entenata en la precipa parto aŭ en
+## parto de ĝi kaj normale entenas ĉiujn artikolojn, kies kapvorto
+## komenciĝas je sama litero. La atributo <dfn>lit</dfn> indikas tiun
+## komencliteron.
+
+sekcio = element sekcio { attlist-sekcio, art+ }
+attlist-sekcio &= attribute lit { text }?
+
+
+
+#  ******************************************************
+#              STRUKTURO DE ARTIKOLO
+# ***********************************************************
+
+##  Tuj post la kapvorto venas ordinare unue kelkaj indikiloj pri la gramatiko, uzo k.a.
+indikiloj = 
+  fnt
+  | gra
+  | uzo
+  | mlg
+  | tezrad
+
+
+##  La precipaj elementoj de la difino. Krom la difinaj frazoj, tio estas la ekzemploj, eble bildo.
+##  Foje la difino anstataŭiĝas per difina referenco.
+
+difinoj =
+  dif
+  | bld
+  | ekz
+  | rim
+
+
+dif-ref =
+#  refgrp 
+#  | ref
+# limigita al tipo dif...:
+# FARENDA: difinu ref sen tip (engrupa) kaj ref kun tip (sola)
+  element refgrp { attribute tip { "dif" } ,  (text? & ref+) }
+  | element ref { attribute tip { "dif" } , attribute cel { text }, text }
+
+
+## Por difini oni povas uzi aŭ kompletan difinon aŭ ĉe sinonimoj referencon al alia vorto aŭ senco, kiu difinas ĝin.
+
+difiniloj =
+  difinoj
+  | dif-ref
+
+
+##      La referenciloj montras al rilataj vortoj kaj sencoj, vortlistoj aŭ al intrereta paĝo.
+
+referenciloj =
+  ref
+  | refgrp
+  | lstref
+  | url
+
+
+#trdj-ab = 
+#  element trd { (attribute lng {"ab"} & attribute fnt { text }?), (text | klr | ind | mll | ofc)* }
+#  | element trdgrp { attribute lng { "ab" }, (text | trd)* }
+
+
+## La nacilingvaj tradukoj de la senco aŭ derivaĵo.
+# FARENDA: difinu laŭlingvan ordon de tradukoj, se eble...
+# ? (trdgrp { attribute lng {"af"} } | trd { attribute lng {"af"} })? , ...
+tradukiloj = 
+  trdgrp
+  | trd
+
+## Rimarkoj kaj administraj notoj.
+
+notiloj =
+  rim 
+  | adm
+
+
+## Unua parto de teksto en artikolo, derivaĵo aŭ senco
+
+unua-parto = 
+  indikiloj*,
+  difiniloj*
+
+## Sekva parto de teksto en artikolo, derivaĵo aŭ senco venante post subdividoj
+
+sekva-parto =
+  difiniloj*,
+  referenciloj*,
+  notiloj*,
+  referenciloj*,
+  tradukiloj*,
+  adm*
+
+
+#  [%priskribaj-elementoj] La unuo <dfn>priskribaj-elementoj</dfn> 
+# listigas ĉiujn strukturilojn, kiuj priskribas kapvorton aŭ unuopan 
+# sencon de ĝi. Ĉar ili povas okazi multloke en la strukturo de 
+# artikolo estas avantaĝe difini tiun ĉi unuon.
+
+# priskribaj elementoj
+#priskribaj-elementoj =
+#  fnt
+#  | gra
+#  | uzo
+#  | dif
+#  | ekz
+#  | rim
+#  | ref
+#  | refgrp
+#  | trd
+#  | trdgrp
+#  | bld
+#  | adm
+#  | url
+#  | mlg
+#  | lstref
+#  | tezrad
+
+## La unuo <dfn>tekst-stiloj</dfn> 
+## listigas ĉiujn strukturilojn, kiuj donas stilon al tekstoparto,
+## ekz. emfazita, citilita, altigita aŭ malaltigita teksto.
+## Aliaj elementoj klarigo kaj tildo kaj sencreferenco same povas esti
+## multloke, do ankaŭ ili estas listigitaj tie ĉi.
+
+tekst-stiloj = tld | sncref | klr | em | sup | sub | ctl | frm
+
+
+## Unuopa artikolo de la vortaro. Ĝi povas okazi en
+## <dfn>vortaro</dfn> (se ne ekzistas precipa-parto),
+## <dfn>precipa-parto</dfn>, <dfn>parto</dfn> aŭ <dfn>sekcio</dfn>. Tio
+## dependas de la konkreta strukturo de la vortaro. Ĉiu artikolo
+## entenas unue kapvorton kaj poste aŭ priskribajn elementojn aŭ plurajn
+## derivaĵojn aŭ plurajn sencojn de la kapvorto aŭ subartikolojn.
+
+art =  
+  element art {
+    attlist-art, 
+    kap, 
+    unua-parto,
+    (subart | drv | snc)*,
+    sekva-parto
+  }
+attlist-art &= attribute mrk { art-marko }
+
+
+## Subartikolo. Ĝi povas okazi en <dfn>artikolo</dfn>,
+## se la signifoj de vorto (ofte ĉe prepozicioj kaj afiksoj) estas
+## tre diversaj.
+
+subart =
+  element subart { 
+    attlist-subart, 
+    unua-parto,
+    (drv | snc)*,
+    sekva-parto 
+  }
+attlist-subart &= empty
+
+## Derivaĵo ene de artikolo. Unu artikolo povas priskribi plurajn
+## derivaĵojn de la kapvorto. Derivaĵo komenciĝas ja kapvorto kaj
+## priskribaj elementoj pri ĝi aŭ el unu aŭ pluraj sencoj aŭ el unu aŭ
+## pluraj subdividoj <dfn>subdrv</dfn>.
+
+drv =
+  element drv {
+    attlist-drv, 
+    kap, 
+    unua-parto,
+    (subdrv | snc)*,
+    sekva-parto
+  }
+attlist-drv &= attribute mrk { drv-marko }
+
+
+## Variaĵo de la vorto, ekz. meĥaniko - mekaniko, pomarbo -
+## pomujo. Ĝi povas enhavi fontindikon k.s., sed ankaŭ rimarkojn 
+## kaj ekzemplojn, sed ĝi ne havas propran difinon. Ĝi aperas ene
+## de kapvorto, ĉar ĝi ja estas ĝia variaĵo.
+
+var = element var { attlist-var, kap, (uzo | klr | ekz | rim)* }
+attlist-var &= empty
+
+
+## Subderivaĵo. Ĝi grupigas plurajn proksimajn sencojn, se la
+## priskribita vorto havas tre multajn sencojn. Tio povas
+## rezulti en pli klara strukturo de la artikolo. La subdividaĵoj
+## estas nombrataj per A), B), ...
+
+subdrv =
+  element subdrv { 
+    attlist-subdrv, 
+    unua-parto,
+    (snc)*,
+    sekva-parto
+  }
+attlist-subdrv &= empty
+
+
+## Senco de unuopa vorto en artikolo. Komparu la latinajn ciferojn en
+## la artikoloj de PIV. Per mrk oni povas referenci sencon de alie. Per ref oni
+## referencas al alia senco samartikola (uzata en malmultaj longaj artikoloj, ekz.
+## "al". Per num la senco ricevas numeron. Atentu, ke future simbolaj nomoj por
+## la sencoj estos perferataj kaj do numerado okazas automate ignorante la atributon
+## num.
+
+snc = 
+  element snc { 
+    attlist-snc, 
+    unua-parto,
+    (subsnc)*,
+    sekva-parto
+  }
+attlist-snc &=
+  attribute mrk { snc-marko }?,
+  attribute num { text }?,
+  attribute ref { text }?
+
+
+## Subsenco ene de senco. Ĝi redonas subtilaĵojn ene de unu senco.
+## Ili estas nombrataj per a), b), ...
+
+subsnc = 
+  element subsnc { 
+    attlist-subsnc, 
+    unua-parto,
+    sekva-parto
+  }
+attlist-subsnc &=
+  attribute mrk { marko }?,
+  attribute ref { text }?
+
+
+## Referenco al alia senco. Tiu elemento estas anstatauigata
+## per la numero de la referencita senco. Vi povas forlasi la atributon 
+## ref, se ekzistas parenca elemento ref, kies atributo cel montras al la
+## referencita senco.
+
+sncref = element sncref { attlist-sncref, empty }
+attlist-sncref &= attribute ref { text }?
+
+
+#  ************************************************
+#             STRUKTUROJ DE DETALAJ ELEMENTOJ
+# *****************************************************
+
+
+## Fakoj estas tri- aŭ kvarlingvaj majusklaj etikedoj difinitaj en la
+## <a href="http://retavortaro.de/dok/fakoj.html">listo de fakoj</a>
+
+fako = xsd:string { pattern = "[A-Z]{3,4}" }
+
+
+##  La marko identigas la artikolon unike. Ĝi estu identa kun la dosiernomo sen la '.xml'.
+##  Por uzo de versiokontrolo CVS en Revo uziĝas por novaj artikoloj 
+##  anstataŭe $Id$ kiun CVS etendas al kompleta versioindiko.
+
+art-marko = xsd:string { pattern = "($Id: )?([a-z0-9_]+)(.xml)?.*" }
+
+
+##  La marko de derivaĵo konsistas el dosiernomo, punkto kaj aldono, donanta la
+##  kapvorton, kie la radikon anstataŭ tildon oni montras per '0', ekz.
+##  'hom.0o', 'berlin.B0o'.
+
+drv-marko = xsd:ID { pattern = "([a-z0-9_]+)\.[A-Za-z_]*0[A-Za-z_0]*(\.[A-Za-z_0]+)?" }
+
+
+## La marko de senco konsistas el la marko de la derivaĵo, punkto kaj
+## identigilo de la senco, ekz. 'ord.0o.BIO', 'azen.0o.figure'.
+
+snc-marko = xsd:ID { pattern = "([a-z0-9_]+)\.[A-Za-z_]*0[A-Za-z_0]*\.[A-Za-z_0]+" }
+
+
+##  La marko identigas 'nodon' de la vortaro, ekz. artikolon, derivaĵon, sencon aŭ rimarkon,
+##  kiun oni povas referenci de alia loko en la vortaro per la sama marko.
+
+marko = xsd:ID { pattern = "([a-z0-9_]+)\.[A-Za-z0-9\._]+" }
+
+
+## Kapvorto okazas en du kuntekstoj -- komence de artikolo
+## kaj komence de derivaĵo, en la unua kazo ĝi signas radikon
+## en la dua kazo ĝi konsistas el iuj literoj kaj eble tildo
+## refencanta al la kapvorto, krome en la kapvorto povas okazi
+## fontindiko.
+
+kap = element kap { attlist-kap, (text | rad | ofc | fnt | tld | var)* }
+attlist-kap &= empty
+
+
+#  [rad] Radiko de kapvorto. Ĝi estas bezonata por anstaŭigo
+# de tildoj. Sekve la "radiko" de afiksoj kaj finaĵoj estu
+# ili mem, sen la streketoj antaŭe aŭ malantaŭe.
+rad = element rad { attlist-rad, text }
+attlist-rad &= empty
+
+
+## Oficialeco de la kapvorto/derivaĵo, 
+## povas esti *, 1, ..., 9 kiel en PV, PIV
+
+ofc = 
+  element ofc { 
+    attlist-ofc, 
+    xsd:string { pattern="\*|[1-9]" } 
+  }
+attlist-ofc &= empty
+
+
+#  [fnt] Fonto enhavas informojn pri autoro, verko, trovloko
+# au aliajn informojn.
+fnt = element fnt { attlist-fnt, (text | bib | aut | vrk | lok | url)* }
+attlist-fnt &= empty
+
+
+##  Kiel grammatikaj informoj momente estas permesataj
+## nur indiko de la vortspeco aŭ simpla teksto
+
+gra = element gra { attlist-gra, (text | vspec)* }
+attlist-gra &= empty
+
+
+# Vortspeco. Ekz. subst. por substantivo; tr/ntr
+# por transitivaj kaj netransitivaj verboj ktp.
+
+vspec = element vspec { 
+  attlist-vspec, 
+  (
+    ("tr"|"ntr"|"x"|"abs.") 
+  | ("subst."|"substantivo") 
+  | ("adj."|"adjektivo") 
+  | ("adv."|"adverbo") 
+  | ("interj."|"interjekcio"|"ekkrio" | "sonimito") 
+  | ("konj."|"konjunkcio") 
+  | ("pref."|"prefikso") | ("suf."|"sufikso") 
+  | ("pron."|"pronomo") 
+  ) 
+  # ĉu necesas aldoni aliajn: disjunkcio, ...?
+  }
+attlist-vspec &= empty
+
+
+# [uzo] La uzo povas esti stilo, fako, regiono aŭ alia klarigo,
+# kiel estas uzata la vorto au termino. Por la fakoj kaj stiloj uzu
+# unu el la aliloke listigitaj mallongigoj.
+uzo = element uzo { attlist-uzo, (text | tld)* }
+attlist-uzo &= attribute tip { "fak" | "reg" | "klr" | "stl" }?
+
+
+# [dif] Difino estas la frazo difinanta la vorton, sencon aŭ
+# subsencon. Ĝi povas esti ankaŭ en alia(j) lingvo(j) ol la vorto
+# mem. La lingvon indikas la atributo <dfn>lng</dfn>.
+dif =
+  element dif {
+    attlist-dif,
+    (text | trd | trdgrp | ref | refgrp | ekz | snc | tekst-stiloj)*
+  }
+attlist-dif &= attribute lng { text }?
+
+
+# [ekz] Ekzemplo konsistas el ekzemplofrazo,
+# klarigoj kaj fonto.
+ekz =
+  element ekz {
+    attlist-ekz,
+    (text
+     | fnt
+     | uzo
+     | ref
+     | refgrp
+     | ind
+     | trd
+     | trdgrp
+     | tekst-stiloj)*
+  }
+attlist-ekz &= attribute mrk { marko }?
+
+
+# [rim] Rimarko povas enhavi iujn indikojn pri la vorto aŭ
+# senco, krome referencojn, ekzemplojn, emfazitajn partojn.
+rim =
+  element rim {
+    attlist-rim, (text | ref | refgrp | ekz | aut | fnt | tekst-stiloj)*
+  }
+attlist-rim &=
+  attribute num { text }?,
+  attribute mrk { marko }?
+
+
+# [refgrp] Referencgrupo grupigas plurajn samtipajn
+# referencojn. La tipon indikas la atributo <dfn>tip</dfn>.
+# Tiukaze ne uzu la atributon <dfn>tip</dfn> en la subelementoj
+# <dfn>ref</dfn>!
+refgrp = element refgrp { attlist-refgrp, (text? & ref+) }
+attlist-refgrp &=
+  [ a:defaultValue = "vid" ]
+  attribute tip {
+    "vid"
+    | "hom"
+    | "dif"
+    | "sin"
+    | "ant"
+    | "super"
+    | "sub"
+    | "prt"
+    | "malprt"
+    | "lst"
+    | "ekz"
+  }?
+
+
+# [ref] Referenco montras al alia, simil- aŭ alisignifa vorto,
+# oni povas distingi diversajn rilattipon al la
+# referencita vorto. La enhavo de la referenco estas tio, kio
+# aperas en la legebla teksto. La referencitan vorton mem
+# oni difinas per la atributo "cel". La celon oni plej
+# bone difinas per: radiko.derivaĵo.difino, oni povas uzi
+# la numeron de la difino au derivaĵo. Plej bone oni
+# generas la markojn (t.e. la eblaj celoj de referenco)
+# aŭtomate por minimumigi erarojn.
+# La atributoj "lst" kaj "val" servas por referenci al vortlisto (tip="lst"),
+# ekz. monatoj. Se temas pri ordigita listo, vi povas indiki valoron per "val",
+# ekz. "3" che la monato marto.
+ref = element ref { attlist-ref, (text | tld | klr | sncref)* }
+attlist-ref &=
+  attribute tip {
+    "vid"
+    | "hom"
+    | "dif"
+    | "sin"
+    | "ant"
+    | "super"
+    | "sub"
+    | "prt"
+    | "malprt"
+    | "lst"
+    | "ekz"
+  }?,
+  attribute cel { text },
+  attribute lst { text }?,
+  attribute val { text }?
+
+
+# [lstref] Referenco al vortlisto el artikolo.
+lstref = element lstref { attlist-lstref, (text | tld | klr)* }
+attlist-lstref &= attribute lst { text }
+
+
+## Tezaŭraradiko. La kapvorto aperas en la enirlisto
+## de la tezaŭro. Se vi uzas la atributon <dfn>fak</dfn>, 
+## ĝi aperas en la struktura enirlisto de la fako.
+
+tezrad = element tezrad { attlist-tezrad, empty }
+attlist-tezrad &= attribute fak { fako }?
+
+
+## Tradukgrupo kunigas diversajn tradukojn de
+## sama lingvo.
+trdgrp = element trdgrp { attlist-trdgrp, (text | trd)* }
+attlist-trdgrp &= attribute lng { text }
+
+
+## Traduko kosistas el traduka vorto aŭ frazo
+## kaj klarigoj, poste povos sekvi aliaj elementoj.
+# FARENDA: difinu trd engrupa (sen lng) kaj memstara, sola
+
+trd = element trd { attlist-trd, (text | klr | ind | mll | ofc)* }
+attlist-trd &=
+  attribute lng { text }?,
+  attribute fnt { text }?
+
+
+# [ind] Parto de traduko, kiu liveras la kapvorton en la
+# indekso, do &lt;trd&gt;sich &lt;ind&gt;bem&uuml;hen&lt;/ind&gt;&lt;/trd&gt;
+# aperas sub bem&uuml;hen. Aŭ parto de ekzemplo aŭ bildpriskribo, al
+# kiu rilatas internaj tradukoj ktp.
+ind = element ind { attlist-ind, (text | tld | klr | mll)* }
+attlist-ind &= empty
+mll = element mll { attlist-mll, (text | tld | klr | ind)* }
+attlist-mll &= attribute tip { "kom" | "mez" | "fin" }?
+
+
+## Bildo povas ilustri iun vorton aŭ sencon. Per la
+## atributo <dfn>lok</dfn> ĝi
+## referencas al ekstera dosiero, kiu entenas la bildon.
+## Per <dfn>alt</dfn> aŭ <dfn>lrg</dfn> vi povas doni fiksan formaton.
+## Per <dfn>tip</dfn> vi donas tipon de la bildo, t.e. <dfn>img</dfn>
+## por JPEG, GIF, PNG-bildo, <dfn>svg</dfn> por SVG-vektorgrafiko.
+
+bld =
+  element bld {
+    attlist-bld, (text | tld | klr | fnt | ind | trd | trdgrp)*
+  }
+attlist-bld &=
+  attribute lok { xsd:anyURI },
+  attribute mrk { marko }?,
+  [ a:defaultValue = "img" ] attribute tip { "img" | "svg" }?,
+  attribute alt { xsd:int }?,
+  attribute lrg { xsd:int }?
+
+
+# [adm] Administraj informoj estu por redaktado. Ili povus
+# enhavi informojn pri kreodato, ŝanĝdato, aŭtoro, eraroj kaj
+# plibonigproponoj pri artikolo. Ĝia strukturo ankoraŭ estas
+# diskutatebla.
+adm = element adm { attlist-adm, (text | aut)* }
+attlist-adm &= empty
+
+
+## Tildo rilatas al la radiko, donita en la kapvorto
+## ĝi ne bezonas enhavon. La atributo <dfn>lit</dfn> indikas alian
+## komencliteron ol havas la radiko, grava por majuskligo kaj
+## minuskligo.
+
+tld = element tld { attlist-tld, empty }
+attlist-tld &= attribute lit { text }?
+
+
+#  [klr] Klarigo pri vorto, difino, ekzemplo ktp.
+klr =
+  element klr {
+    attlist-klr,
+    (text | trd | trdgrp | ekz | ref | refgrp | tekst-stiloj)*
+  }
+attlist-klr &= attribute tip { "ind" | "amb" }?
+
+
+# [bib] Bibliografia indiko por fonto, estas mallongigo el
+# listo de difinitaj bibliografieroj kaj anstataŭas verko- kaj aŭtoroindikon
+# en la fontoj.
+bib = element bib { attlist-bib, text* }
+attlist-bib &= empty
+
+
+# [vrk] Verko, en kiu troviĝas citita frazo aŭ vorto
+vrk = element vrk { attlist-vrk, (text | url)* }
+attlist-vrk &= empty
+
+
+# [lok] Loko, kie troviĝas citita frazo aŭ vorto en verko
+lok = element lok { attlist-lok, (text | url)* }
+attlist-lok &= empty
+
+
+# [aut] Aŭtoro de citita frazo aŭ verko
+aut = element aut { attlist-aut, text }
+attlist-aut &= empty
+
+
+# [frm] Matematika au kemia formulo
+frm = element frm { attlist-frm, (text | sup | sub | g | k)* }
+attlist-frm &= empty
+
+
+# [g] Grasa parto de formulo, ekz. vektoro, matrico k.s.,
+# bv. uzi nur en frm
+g = element g { attlist-g, text* }
+attlist-g &= empty
+
+
+# [k] Kursiva parto de formulo, ekz. variablo k.s.,
+# bv. uzi nur en frm
+k = element k { attlist-k, text* }
+attlist-k &= empty
+
+
+#  [em] Emfazo. Normale grase skribata vortoj.
+em = element em { attlist-em, (text | tld)* }
+attlist-em &= empty
+
+
+# [sup] altigita teksto, ekz. en ĥemiaj formuloj
+sup = element sup { attlist-sup, (text | g | k)* }
+attlist-sup &= empty
+
+
+# [sub] malaltigita teksto, ekz. en ĥemiaj formuloj
+sub = element sub { attlist-sub, (text | g | k)* }
+attlist-sub &= empty
+
+
+# [ctl] citilita teksto, ekz. memindika uzo de vorto
+ctl = element ctl { attlist-ctl, (text | tld | em | frm)* }
+attlist-ctl &= empty
+
+
+# [url] Referenco al iu ekstera dosiero. En la HTML-versio de vortaro
+# tio fariĝas &lt;a href=...&gt; Anstataŭ la TTT-ejo prefere uzu
+# la alinomojn difinitajn en la DTD, ĉar alikaze la referencoj tro
+# ofte malvalidiĝus.
+url = element url { attlist-url, text }
+attlist-url &= attribute ref { xsd:anyURI }?
+
+
+# [mlg] mallongigo de la kapvorto, ekz. che nomoj de organizajhoj. 
+# Per "kod" vi povas indiki devenon de la mallongigo, ekz. ISO-3166 ĉe landokodoj
+mlg = element mlg { attlist-mlg, text }
+attlist-mlg &= attribute kod { text }?
+
+start = vortaro
+
+

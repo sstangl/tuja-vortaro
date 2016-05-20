@@ -1,0 +1,1310 @@
+<?xml version="1.0"?>
+<!DOCTYPE schema [
+  <!ENTITY dash      "&#x2015;">
+  <!ENTITY uuml "&#x00fc;">
+]>
+
+<schema
+  xmlns='http://www.w3.org/2001/XMLSchema'
+  targetNamespace='http://steloj.de/voko'
+  xmlns:voko='http://steloj.de/voko'
+  xmlns:doc='http://www.w3.org/1999/xhtml'
+  elementFormDefault="qualified"
+>
+
+
+<!-- ******************************************************
+             STRUKTURO DE ARTIKOLO
+***********************************************************-->
+
+
+<element name='vortaro'>
+  <annotation>
+    <documentation>
+      <doc:p>
+	Radiko de la strukturarbo de vortaro. La elemento ampleksas
+	la tutan vortaron.
+      </doc:p>
+      <doc:p>
+	Ĝi entenas aŭ prologon, precipan parton kaj epilogon aŭ plurajn
+	artikolojn. Prologo kaj epilogo estas nedevigaj. La ebleco de rekta
+	enteno de artikolo ne estas destinita por kompletaj vortaroj, sed por
+	eltiroj aŭ unuopa artikolo.
+      </doc:p>
+    </documentation>
+  </annotation>
+  <complexType>
+    <choice>
+      <sequence>
+	<element ref='voko:prologo' minOccurs='0' maxOccurs='1'/>
+	<element ref='voko:precipa-parto'/>
+     <element ref='voko:epilogo' minOccurs='0' maxOccurs='1'/>
+      </sequence>
+      <element ref='voko:art' maxOccurs='unbounded'/>
+    </choice>
+  </complexType>
+</element>
+
+<element name='prologo'>
+  <annotation>
+    <documentation>
+      Prologo de la vortaro. Ĝi povas enteni la titolo(j)n 
+      kaj aŭtoro(j)n de la vortaro kaj aliajn tekstojn.
+    </documentation>
+  </annotation>
+  <complexType mixed='true'>
+    <choice minOccurs='0' maxOccurs='unbounded'>
+      <element ref='voko:titolo'/>
+      <element ref='voko:autoro'/>
+      <element ref='voko:alineo'/>
+    </choice>
+  </complexType>
+</element>
+ 
+<element name='epilogo'>
+  <annotation>
+    <documentation>                                                                                      
+      Epilogo de la vortaro. Ĝia strukturo momente ne estas
+      specifita krom ke ĝi povas enhavi iun tekston kaj alineojn.
+    </documentation>
+  </annotation>
+  <complexType mixed='true'>
+    <sequence minOccurs='0' maxOccurs='unbounded'>
+      <element ref='voko:alineo'/>
+    </sequence>
+  </complexType>
+</element>
+
+<element name='titolo'>
+  <annotation>
+    <documentation>                                                                                       
+      Titolo de la vortaro. Ĝi estas entenata en la
+      prologo. Pluraj titoloj estas permesitaj.
+    </documentation>
+  </annotation>
+  <complexType mixed='true' />
+</element>
+
+<element name='autoro'>
+  <annotation>
+    <documentation>                                                                                       
+      Indiko de aŭtoro(j) de la vortaro. 
+      Ĝi estas enhavata en la prologo kaj povas okazi tie plurfoje.
+    </documentation>
+  </annotation>
+  <complexType mixed='true' />
+</element>
+
+<element name='alineo'>
+  <annotation>
+    <documentation>                                                                                       
+      Unuopa alineo en la prologo- aŭ epilogo-teksto. 
+    </documentation>
+  </annotation>
+  <complexType mixed='true'>
+    <sequence minOccurs='0' maxOccurs='unbounded'>
+      <element ref='voko:url'/>
+    </sequence>
+  </complexType>
+</element>
+
+<element name='precipa-parto'>
+  <annotation>
+    <documentation>                                                                                       
+      Precipa parto de la vortaro. Ĝi enhavas rekte ĉiujn
+      artikolojn aŭ sekciojn aŭ partojn. 
+      Diversaj partoj povas dividi diversajn lingvojn de la kapvortoj.
+      Sekcioj grupigas vortojn komenciĝantajn je sama litero.
+    </documentation>
+  </annotation>
+  <complexType>
+    <choice>
+      <element ref='voko:parto'  maxOccurs='unbounded'/>
+      <element ref='voko:sekcio' maxOccurs='unbounded'/>
+      <element ref='voko:art' maxOccurs='unbounded'/>
+    </choice>
+  </complexType>
+</element>
+
+<element name='parto'>
+  <annotation>
+    <documentation>                                                                                       
+      Vortaroparto. Ĝi estas entenata en la precipa parto. Parto normale
+      prezentas unu lingvon en plurlingva vortaro aŭ lingvodirekton en
+      dulingva vortaro. Ĝia atributo <doc:dfn>lng</doc:dfn> indikas la lingvon de
+      la kapvortoj en la parto.
+    </documentation>
+  </annotation>
+  <complexType>
+    <choice>
+      <element ref='voko:sekcio' maxOccurs='unbounded'/>
+      <element ref='voko:art' maxOccurs='unbounded'/>
+   </choice>
+   <attribute name='lng' type='language' use='optional'/>
+  </complexType>
+</element>
+
+<element name='sekcio'>
+  <annotation>
+    <documentation>                                                                                       
+      Sekcio en vortaro. Ĝi estas entenata en la precipa parto aŭ en
+      parto de ĝi kaj normale entenas ĉiujn artikolojn, kies kapvorto
+      komenciĝas je sama litero. La atributo <doc:dfn>lit</doc:dfn> indikas tiun
+      komencliteron.
+    </documentation>
+  </annotation>
+  <complexType>
+    <sequence>
+      <element ref='voko:art' maxOccurs='unbounded'/>
+    </sequence>
+    <attribute name='lit' type='string' use='optional'/>
+  </complexType>
+</element>
+
+
+<!-- ************************************************
+            STRUKTUROJ DE DETALAJ ELEMENTOJ
+*****************************************************-->
+
+<simpleType name="fako">
+  <annotation>
+    <documentation> 
+      Fakoj estas tri- aŭ kvarlingvaj majusklaj etikedoj difinitaj en la
+      <doc:a href="http://retavortaro.de/dok/fakoj.html">listo de fakoj</doc:a>
+    </documentation>
+  </annotation>
+  <restriction base="string">
+    <pattern value="[A-Z]{3,4}"/>
+  </restriction>
+</simpleType>
+
+
+<simpleType name="art-mrk">
+  <annotation>
+    <documentation>
+      La marko identigas la artikolon unike. Ĝi estu identa kun la dosiernomo sen la '.xml'.
+      Por uzo de versiokontrolo CVS en Revo uziĝas por novaj artikoloj 
+      anstataŭe $Id$ kiun CVS etendas al kompleta versioindiko.
+    </documentation>
+  </annotation>
+  <restriction base="string">
+     <pattern value="($Id: )?([a-z0-9_]+)(.xml)?.*"/>     
+  </restriction>
+</simpleType>
+
+<simpleType name="drv-mrk">
+  <annotation>
+    <documentation> 
+      La marko de derivaĵo konsistas el dosiernomo, punkto kaj aldono, donanta la
+      kapvorton, kie la radikon anstataŭ tildon oni montras per '0', ekz.
+      'hom.0o', 'berlin.B0o'.
+    </documentation>
+  </annotation>
+  <restriction base="ID">
+     <pattern value="([a-z0-9_]+)\.[A-Za-z_]*0[A-Za-z_0]*(\.[A-Za-z_0]+)?"/>
+  </restriction>
+</simpleType>
+
+<simpleType name="snc-mrk">
+   <annotation>
+    <documentation> 
+	La marko de senco konsistas el la marko de la derivaĵo, punkto kaj
+        identigilo de la senco, ekz. 'ord.0o.BIO', 'azen.0o.figure'.
+    </documentation>
+   </annotation>
+   <restriction base="ID">
+     <pattern value="([a-z0-9_]+)\.[A-Za-z_]*0[A-Za-z_0]*\.[A-Za-z_0]+"/>
+   </restriction>
+</simpleType>
+
+<simpleType name="mrk">
+   <annotation>
+    <documentation> 
+      La marko identigas 'nodon' de la vortaro, ekz. artikolon, derivaĵon, sencon aŭ rimarkon,
+      kiun oni povas referenci de alia loko en la vortaro per la sama marko.
+    </documentation>
+   </annotation>
+   <restriction base="ID">
+     <pattern value="([a-z0-9_]+)\.[A-Za-z0-9\._]+"/>
+   </restriction>
+</simpleType>
+
+<!-- ŝajne ne eblas en XMLSChema derivi kompleksan de simpla enhavmodelo...
+<complexType name="fonto">
+  <annotation>
+    <documentation> 
+      Simplaj fontindikoj. Por novaj aldonoj preferindaj estas 
+      eksplicitaj fontindikoj uzante <doc:dfn>aut</doc:dfn> ktp.
+    </documentation>
+  </annotation>
+  <complexContent>
+    <restriction base="string">
+      <pattern value="[BCDFGKNRYZ]?"/>
+    </restriction>
+  </complexContent>
+</complexType>
+-->
+
+<complexType name="fonto2" mixed='true'>
+<!--  <complexContent>
+       <extension base="voko:fonto"> --> 
+     <choice>
+       <sequence/>
+       <sequence>
+        <element ref='voko:bib'/>
+        <element ref='voko:vrk' minOccurs="0"/>
+        <element ref='voko:url' minOccurs="0"/>
+        <element ref='voko:lok' minOccurs="0"/>
+       </sequence>
+       <sequence>
+        <element ref='voko:aut' minOccurs="0"/>
+        <element ref='voko:vrk'/>
+	<element ref='voko:bib' minOccurs="0"/> <!-- ekz. ĉe revuoj, verko tiam estas la artikolo -->
+        <element ref='voko:url' minOccurs="0"/>
+        <element ref='voko:lok' minOccurs="0"/>
+       </sequence>
+     </choice>
+<!--   </extension>
+ </complexContent> -->
+</complexType>
+
+
+<group name="indikiloj">
+  <annotation>
+    <documentation> 
+       Tuj post la kapvorto venas ordinare unue kelkaj indikiloj pri la gramatiko, uzo k.a.
+    </documentation>
+  </annotation>
+  <choice>
+    <element ref='voko:fnt'/>
+    <element ref='voko:gra'/>
+    <element ref='voko:uzo'/>
+    <element ref='voko:mlg'/>
+    <element ref='voko:tezrad'/>
+  </choice>
+</group>
+
+<group name="difinoj">
+  <annotation>
+    <documentation> 
+      La precipaj elementoj de la difino. Krom la difinaj frazoj, tio estas la ekzemploj, eble bildo.
+      Foje la difino anstataŭiĝas per difina referenco.
+    </documentation>
+  </annotation>
+  <choice>
+     <element ref='voko:dif'/>
+  <!--   <element ref='voko:ref'/> --> <!-- fakte nur ref/refgrp tip="dif" uzenda tie ĉi -->
+<!--     <element ref='voko:refgrp'/> -->
+     <element ref='voko:bld'/>
+     <element ref='voko:ekz'/>
+  </choice>
+</group>
+
+<group name="dif-ref">
+  <choice>
+   <!-- FARENDA: limigu al tip="dif" -->
+    <element ref='voko:ref'/>
+    <element ref='voko:refgrp'/>
+  </choice>
+</group>
+
+
+<group name="difiniloj">
+ <annotation>
+    <documentation>
+      Por difini oni povas uzi aŭ kompletan difinon aŭ ĉe sinonimoj referencon al alia vorto aŭ senco, kiu difinas ĝin.
+    </documentation>
+  </annotation>
+  <choice>
+     <group ref="voko:difinoj" minOccurs='0' maxOccurs='unbounded'/>
+     <group ref="voko:dif-ref" minOccurs='0' maxOccurs='unbounded'/>
+                <!-- fakte nur ref/refgrp tip="dif" uzenda tie ĉi -->
+  </choice>
+</group>
+
+
+<group name="referenciloj">
+  <annotation>
+    <documentation> 
+      La referenciloj montras al rilataj vortoj kaj sencoj, vortlistoj aŭ al intrereta paĝo.
+    </documentation>
+  </annotation>
+  <choice>
+    <element ref='voko:ref'/>
+    <element ref='voko:refgrp'/>
+    <element ref='voko:lstref'/>
+    <element ref='voko:url'/>
+  </choice>
+</group>
+
+<group name="tradukiloj">
+  <annotation>
+    <documentation> 
+      La nacilingvaj tradukoj de la senco aŭ derivaĵo.
+    </documentation>      
+  </annotation>
+  <choice>
+    <element ref='voko:trd'/>
+    <element ref='voko:trdgrp'/>
+  </choice>
+</group>
+
+<group name="notiloj">
+  <annotation>
+    <documentation> 
+      Rimarkoj kaj administraj notoj.
+    </documentation>      
+  </annotation>
+  <choice>
+    <element ref='voko:rim'/>
+    <element ref='voko:adm'/>
+  </choice>
+</group>
+
+<!--
+ <group name="priskribiloj">
+   <sequence>
+     <group ref="voko:indikiloj" minOccurs="0" maxOccurs="unbounded"/>
+     <group ref="voko:difiniloj" minOccurs="0" maxOccurs="unbounded"/>
+     <group ref="voko:referenciloj" minOccurs="0" maxOccurs="unbounded"/>
+     <group ref="voko:tradukiloj" minOccurs="0" maxOccurs="unbounded"/>
+     <group ref="voko:notiloj" minOccurs="0" maxOccurs="unbounded"/>
+  </sequence>
+ </group>
+-->
+
+<group name="tekst-stiloj">
+  <annotation>
+    <documentation> 
+      Tekstiloj uzataj en pli longaj tekstoj.
+    </documentation>      
+  </annotation>
+  <choice>
+     <element ref='voko:tld'/>
+     <element ref='voko:sncref'/>
+     <element ref='voko:klr'/>
+     <element ref='voko:em'/>
+     <element ref='voko:sup'/>
+     <element ref='voko:sub'/>
+     <element ref='voko:ctl'/>
+     <element ref='voko:frm'/>
+  </choice>
+</group>
+
+<element name='art'>
+  <annotation>
+    <documentation> 
+	Unuopa artikolo de la vortaro. Ĝi povas okazi en
+	<dfn>vortaro</dfn> (se ne ekzistas precipa-parto),
+	<dfn>precipa-parto</dfn>, <dfn>parto</dfn> aŭ <dfn>sekcio</dfn>. Tio
+	dependas de la konkreta strukturo de la vortaro. Ĉiu artikolo
+	entenas unue kapvorton kaj poste aŭ priskribajn elementojn aŭ plurajn
+	derivaĵojn aŭ plurajn sencojn de la kapvorto aŭ subartikolojn.
+    </documentation>      
+  </annotation>
+  <complexType>
+    <sequence>
+      <element ref='voko:kap'/>
+
+      <group ref="voko:indikiloj" minOccurs='0' maxOccurs='unbounded'/>
+      <group ref="voko:difiniloj" minOccurs='0' maxOccurs='unbounded'/>
+             <!-- dif foje aperas antau subart-oj, drv-oj, cu malpermesi aliajn? -->
+
+      <choice>
+	<element ref='voko:subart'  minOccurs='0' maxOccurs='unbounded'/>
+	<element ref='voko:drv' minOccurs='0' maxOccurs='unbounded'/>
+	<element ref='voko:snc' minOccurs='0' maxOccurs='unbounded'/>
+      </choice>
+
+<!--
+      <group ref="voko:difiniloj" minOccurs='0' maxOccurs='unbounded'/>
+           <!- bld povus aperi post drv-oj, snc-oj, ĉu malpermesi aliajn                                 
+               post drv-oj, sed nur anstataŭ? ->
+-->
+      <group ref="voko:referenciloj" minOccurs='0' maxOccurs='unbounded'/>
+      <group ref="voko:tradukiloj" minOccurs='0' maxOccurs='unbounded'/>
+
+      <group ref="voko:notiloj" minOccurs='0' maxOccurs='unbounded'/>
+
+    </sequence>
+    <attribute name='mrk' type='voko:art-mrk' use='required'/>
+  </complexType>
+</element>
+
+<element name='subart'>
+  <annotation>
+    <documentation> 
+	Subartikolo. Ĝi povas okazi en <dfn>artikolo</dfn>,
+	se la signifoj de vorto (ofte ĉe prepozicioj kaj afiksoj) estas
+	tre diversaj.
+    </documentation>      
+  </annotation>
+  <complexType>
+    <sequence>
+      <group ref="voko:indikiloj" minOccurs='0' maxOccurs='unbounded'/>
+      <group ref="voko:difiniloj" minOccurs='0' maxOccurs='unbounded'/>
+             <!-- dif foje aperas antau subart-oj, drv-oj, ĉu malpermesi aliajn difinilojn? -->
+
+      <choice minOccurs='0' maxOccurs='unbounded'>
+	<element ref='voko:drv'/>
+	<element ref='voko:snc'/>
+      </choice>
+
+      <group ref="voko:referenciloj" minOccurs='0' maxOccurs='unbounded'/>
+      <group ref="voko:tradukiloj" minOccurs='0' maxOccurs='unbounded'/>
+      <group ref="voko:notiloj" minOccurs='0' maxOccurs='unbounded'/>
+    </sequence>
+  </complexType>
+</element>
+
+ <element name='drv'>
+  <annotation>
+    <documentation> 
+	Derivaĵo ene de artikolo. Unu artikolo povas priskribi plurajn
+	derivaĵojn de la kapvorto. Derivaĵo komenciĝas ja kapvorto kaj
+	priskribaj elementoj pri ĝi aŭ el unu aŭ pluraj sencoj aŭ el unu aŭ
+	pluraj subdividoj <dfn>subdrv</dfn>.
+    </documentation>      
+  </annotation>
+   <complexType>
+     <sequence>
+       <element ref='voko:kap'/>
+       <group ref="voko:indikiloj" minOccurs='0' maxOccurs='unbounded'/>
+       <group ref="voko:difiniloj" minOccurs='0' maxOccurs='unbounded'/>
+
+       <choice>
+	 <element ref='voko:subdrv' minOccurs='0' maxOccurs='unbounded'/>
+	 <element ref='voko:snc' minOccurs='0' maxOccurs='unbounded'/>
+       </choice>
+
+       <group ref="voko:difiniloj" minOccurs='0' maxOccurs='unbounded'/>
+           <!-- bld foje aperas post subdrv-oj, snc-oj, ĉu malpermesi aliajn
+		post snc-oj, sed nur anstataŭ? -->
+
+       <group ref="voko:referenciloj" minOccurs='0' maxOccurs='unbounded'/>
+
+       <!-- por ne estu tro strikta permesu notojn antaŭ kaj post tradukoj -->
+       <group ref="voko:notiloj" minOccurs='0' maxOccurs='unbounded'/>
+       <group ref="voko:tradukiloj" minOccurs='0' maxOccurs='unbounded'/>
+       <group ref="voko:notiloj" minOccurs='0' maxOccurs='unbounded'/>
+
+     </sequence>
+     <attribute name='mrk' type='voko:drv-mrk' use='required'/>
+   </complexType>
+ </element>
+
+
+<element name='var'>
+  <annotation>
+    <documentation> 
+	Variaĵo de la vorto, ekz. meĥaniko &dash; mekaniko, pomarbo &dash;
+	pomujo. Ĝi povas enhavi fontindikon k.s., sed ankaŭ rimarkojn 
+	kaj ekzemplojn, sed ĝi ne havas propran difinon. Ĝi aperas ene
+	de kapvorto, ĉar ĝi ja estas ĝia variaĵo.
+    </documentation>      
+  </annotation>
+  <complexType>
+   <sequence>
+    <element ref='voko:kap'/>
+    <choice minOccurs='0' maxOccurs='unbounded'>
+     <element ref='voko:uzo'/>
+     <element ref='voko:klr'/>
+     <element ref='voko:ekz'/>
+     <element ref='voko:rim'/>
+    </choice>
+   </sequence>
+  </complexType>
+</element>
+
+
+<element name='subdrv'>
+  <annotation>
+    <documentation> 
+	Subderivaĵo. Ĝi grupigas plurajn proksimajn sencojn, se la
+	priskribita vorto havas tre multajn sencojn. Tio povas
+	rezulti en pli klara strukturo de la artikolo. La subdividaĵoj
+	estas nombrataj per A), B), ...
+    </documentation>      
+  </annotation>
+  <complexType>
+     <sequence>
+       <group ref="voko:indikiloj" minOccurs='0' maxOccurs='unbounded'/>
+       <group ref="voko:difiniloj" minOccurs='0' maxOccurs='unbounded'/>
+             <!-- dif foje aperas antau snc-oj, ĉu malpermesi aliajn? -->
+
+       <element ref='voko:snc' minOccurs='0' maxOccurs='unbounded'/>
+
+       <group ref="voko:referenciloj" minOccurs='0' maxOccurs='unbounded'/>
+
+       <!-- por ne estu tro strikta permesu notojn antaŭ kaj post tradukoj -->
+       <group ref="voko:notiloj" minOccurs='0' maxOccurs='unbounded'/>
+       <group ref="voko:tradukiloj" minOccurs='0' maxOccurs='unbounded'/>
+       <group ref="voko:notiloj" minOccurs='0' maxOccurs='unbounded'/>
+     </sequence>
+  </complexType>
+</element>
+
+
+<element name='snc'>
+  <annotation>
+    <documentation> 
+	Senco de unuopa vorto en artikolo. Komparu la latinajn ciferojn en
+	la artikoloj de Revo. Per <dfn>mrk</dfn> oni povas referenci sencon de aliloke. 
+	Per <dfn>ref</dfn> oni referencas al alia senco samartikola (uzata en malmultaj 
+	longaj artikoloj, ekz. "al". Per <dfn>num</dfn> la senco ricevas numeron. Atentu, ke 
+	simbolaj nomoj por la sencoj estas perferataj kaj do numerado 
+	okazas aŭtomate ignorante la atributon <dfn>num</dfn>.
+    </documentation>      
+  </annotation>
+  <complexType>
+     <sequence>
+       <group ref="voko:indikiloj" minOccurs='0' maxOccurs='unbounded'/>
+       <group ref="voko:difiniloj" minOccurs='0' maxOccurs='unbounded'/>
+             <!-- dif foje aperas antau snc-oj, ĉu malpermesi aliajn difinilojn? -->
+
+       <element ref='voko:subsnc' minOccurs='0' maxOccurs='unbounded'/>
+
+       <group ref="voko:referenciloj" minOccurs='0' maxOccurs='unbounded'/>
+
+       <!-- por ne estu tro strikta permesu notojn antaŭ kaj post tradukoj -->
+       <group ref="voko:notiloj" minOccurs='0' maxOccurs='unbounded'/>
+       <group ref="voko:tradukiloj" minOccurs='0' maxOccurs='unbounded'/>
+       <group ref="voko:notiloj" minOccurs='0' maxOccurs='unbounded'/>
+     </sequence>
+     <attribute name='mrk' type='voko:snc-mrk' use='optional'/>
+     <attribute name='num' type='string' use='optional'/>
+     <attribute name='ref' type='string' use='optional'/>
+  </complexType>
+</element>
+
+
+<element name='subsnc'>
+  <annotation>
+    <documentation> 
+	Subsenco ene de senco. Ĝi redonas subtilaĵojn ene de unu senco.
+	Ili estas nombrataj per a), b), ...
+    </documentation>      
+  </annotation>
+  <complexType>
+    <sequence>
+     <group ref="voko:indikiloj" minOccurs="0" maxOccurs="unbounded"/>
+     <group ref="voko:difiniloj" minOccurs="0" maxOccurs="unbounded"/>
+     <group ref="voko:referenciloj" minOccurs="0" maxOccurs="unbounded"/>
+
+     <!-- por ne estu tro strikta permesu notojn antaŭ kaj post tradukoj -->
+     <group ref="voko:notiloj" minOccurs='0' maxOccurs='unbounded'/>
+     <group ref="voko:tradukiloj" minOccurs="0" maxOccurs="unbounded"/>
+     <group ref="voko:notiloj" minOccurs="0" maxOccurs="unbounded"/>
+    </sequence>
+    <attribute name='mrk' type='voko:mrk' use='optional'/>
+    <attribute name='ref' type='string' use='optional'/>
+  </complexType>
+</element>
+
+
+<element name='sncref'>
+  <annotation>
+    <documentation> 
+	 Referenco al alia senco. Tiu elemento estas anstataŭigata
+	 per la numero de la referencita senco. Vi povas forlasi la atributon 
+	 <dfn>ref</dfn>, se ekzistas parenca elemento <dfn>ref</dfn>, kies atributo 
+	<dfn>cel</dfn> montras al la referencita senco.
+    </documentation>      
+  </annotation>
+  <complexType>
+   <attribute name='ref' type='string' use='optional'/>
+  </complexType>
+</element>
+
+
+<element name='kap'>
+  <annotation>
+    <documentation> 
+	Kapvorto aperas en du kuntekstoj &dash; komence de artikolo
+	kaj komence de derivaĵo, en la unua kazo ĝi signas radikon
+	en la dua kazo ĝi konsistas el iuj literoj kaj eble tildo
+	refencanta al la kapvorto. Krome, en la kapvorto povas aperi
+	fontindiko.
+    </documentation>      
+  </annotation>
+  <complexType mixed='true'>
+   <choice minOccurs='0' maxOccurs='unbounded'>
+    <element ref='voko:rad'/>
+    <element ref='voko:ofc'/>
+    <element ref='voko:fnt'/>
+    <element ref='voko:tld'/>
+    <element ref='voko:var'/>
+   </choice>
+  </complexType>
+</element>
+
+<element name='rad'>
+  <annotation>
+    <documentation> 
+	Radiko de kapvorto. Ĝi estas bezonata por anstaŭigo
+	de tildoj. Sekve la "radiko" de afiksoj kaj finaĵoj estu
+	ili mem, sen la streketoj antaŭe aŭ malantaŭe.
+	Aliaj programoj, ekz. la vortokontrolo de Revo uzas la markitajn 
+	radikon por krei radikaron uzatan por vortanalizo.
+    </documentation>      
+  </annotation>
+  <complexType mixed='true'/>
+</element>
+
+<element name='ofc'>
+  <annotation>
+    <documentation> 
+	Oficialeco de la kapvorto/derivajho, 
+	povas esti *, 1, ..., 8 kiel en PV, PIV.
+    </documentation>      
+  </annotation>
+  <simpleType>
+    <restriction base="string">
+      <pattern value="\*|[1-9]"/>
+    </restriction>
+  </simpleType>
+</element>
+
+
+<element name='fnt' type="voko:fonto2">
+  <annotation>
+    <documentation> 
+	Fonto enhavas informojn pri kapvorto aŭ citaĵo kiel: aŭtoro, verko, trovloko
+	aŭ aliajn informojn. Se la verko jam aperas en la bibliografio oni povas referenci al ĝi simple per 
+	<doc:dfn>bib</doc:dfn>.
+    </documentation>      
+  </annotation>
+</element>
+
+<!--
+  <complexType mixed='true'>
+   <choice>
+    <simpleType name="voko:fonto"/>
+    <sequence>
+	<element ref='voko:bib'/>   
+        <element ref='voko:url'/>
+	<element ref='voko:lok' minOccurs="0"/>
+    </sequence>
+    <sequence>
+      <element ref='voko:aut' minOccurs="0"/>
+      <element ref='voko:vrk'/>
+      <element ref='voko:url' minOccurs="0"/>
+      <element ref='voko:lok' minOccurs="0"/>
+    </sequence>
+   </choice>
+  </complexType>
+</element>
+-->
+
+<element name='gra'>
+  <annotation>
+    <documentation> 
+	Kiel gramatikaj informoj momente estas permesataj
+	nur indiko de la vortspeco aŭ simpla teksto.
+    </documentation>      
+  </annotation>
+  <complexType mixed='true'>
+   <sequence minOccurs='0' maxOccurs='unbounded'>
+    <element ref='voko:vspec'/>
+   </sequence>
+  </complexType>
+</element>
+
+<element name='vspec'>
+  <annotation>
+    <documentation> 
+	Vortspeco. Ekz. subst. por substantivo; tr/ntr
+	por transitivaj kaj netransitivaj verboj ktp.
+    </documentation>      
+  </annotation>
+  <simpleType>
+    <restriction base="string">
+      <enumeration value="tr"/>
+      <enumeration value="ntr"/>
+      <enumeration value="x"/>
+      <enumeration value="subst"/>
+      <enumeration value="adj"/>
+      <enumeration value="adv"/>
+      <enumeration value="interj"/>
+      <enumeration value="konj"/>    
+      <enumeration value="pref"/>
+      <enumeration value="suf"/>
+      <enumeration value="pron"/>
+      <enumeration value="ekkrio"/>
+      <enumeration value="sonimito"/>
+      <!-- ĉu necesas aldoni aliajn: disjunkcio, ... -->
+    </restriction>
+  </simpleType>
+</element>
+
+<element name='uzo'>
+  <annotation>
+    <documentation> 
+     	La uzo povas esti stilo, fako, regiono aŭ alia klarigo,
+	kiel estas uzata la vorto aŭ termino. Por la fakoj kaj stiloj uzu
+	unu el la aliloke listigitaj mallongigoj.
+    </documentation>      
+  </annotation>
+  <complexType mixed='true'>
+   <sequence minOccurs='0' maxOccurs='unbounded'>
+    <element ref='voko:tld'/>
+   </sequence>
+   <attribute name='tip' use='optional'>
+    <simpleType>
+     <restriction base='string'>
+      <enumeration value='fak'/>
+      <enumeration value='reg'/>
+      <enumeration value='klr'/>
+      <enumeration value='stl'/>
+     </restriction>
+    </simpleType>
+   </attribute>
+  </complexType>
+</element>
+
+<element name='dif'>
+  <annotation>
+    <documentation> 
+	Difino estas la frazo difinanta la vorton, sencon aŭ
+	subsencon. Ĝi povas esti ankaŭ en alia(j) lingvo(j) ol la vorto
+	mem. La lingvon indikas la atributo <doc:dfn>lng</doc:dfn>.
+    </documentation>      
+  </annotation>
+  <complexType mixed='true'>
+   <choice minOccurs='0' maxOccurs='unbounded'>
+    <element ref='voko:trd'/>
+    <element ref='voko:trdgrp'/>
+    <element ref='voko:ref'/>
+    <element ref='voko:refgrp'/>
+    <element ref='voko:ekz'/>
+    <element ref='voko:snc'/>
+    <group ref="voko:tekst-stiloj"/>
+   </choice>
+   <attribute name='lng' type='language' use='optional'/>
+  </complexType>
+</element>
+
+<element name='ekz'>
+  <annotation>
+    <documentation> 
+	Ekzemplo konsistas el ekzemplofrazo,
+	klarigoj kaj fonto. Ĝi povas enhavi pliajn indikilojn
+	kiel <doc:dfn>uzo</doc:dfn>, <doc:dfn>ref</doc:dfn>,
+	kaj tradukojn. Se la traduko rilatas nur al parto de la
+        ekzemplo, marku ĝin per <doc:dfn>ind</doc:dfn>. Nur tiu parto
+	aperos en la nacilingva indekso.
+    </documentation>      
+  </annotation>
+  <complexType mixed='true'>
+   <choice minOccurs='0' maxOccurs='unbounded'>
+    <element ref='voko:fnt'/>
+    <element ref='voko:uzo'/>
+    <element ref='voko:ref'/>
+    <element ref='voko:refgrp'/>
+    <element ref='voko:ind'/>
+    <element ref='voko:trd'/>
+    <element ref='voko:trdgrp'/>
+    <group ref="voko:tekst-stiloj"/>
+   </choice>
+   <attribute name='mrk' type='voko:mrk' use='optional'/>
+  </complexType>
+</element>
+
+<element name='rim'>
+  <annotation>
+    <documentation> 
+	Rimarko povas enhavi iujn indikojn pri la vorto aŭ
+	senco, krome referencojn, ekzemplojn, emfazitajn partojn ktp.
+    </documentation>      
+  </annotation>
+  <complexType mixed='true'>
+   <choice minOccurs='0' maxOccurs='unbounded'>
+    <element ref='voko:ref'/>
+    <element ref='voko:refgrp'/>
+    <element ref='voko:ekz'/>
+    <element ref='voko:aut'/>
+    <element ref='voko:fnt'/>
+    <group ref="voko:tekst-stiloj"/>
+   </choice>
+   <attribute name='num' type='string' use='optional'/>
+   <attribute name='mrk' type='voko:mrk' use='optional'/>
+  </complexType>
+</element>
+
+<element name='refgrp'>
+  <annotation>
+    <documentation> 
+	Referencgrupo grupigas plurajn samtipajn
+	referencojn. La tipon indikas la atributo <doc:dfn>tip</doc:dfn>.
+	Tiukaze ne uzu la atributon <doc:dfn>tip</doc:dfn> en la subelementoj
+	<doc:dfn>ref</doc:dfn>!
+    </documentation>      
+  </annotation>
+  <complexType mixed='true'>
+   <sequence minOccurs='0' maxOccurs='unbounded'>
+    <element ref='voko:ref'/>
+   </sequence>
+   <attribute name='tip' use='optional' default='vid'>
+    <simpleType>
+     <restriction base='string'>
+      <enumeration value='vid'/>
+      <enumeration value='hom'/>
+      <enumeration value='dif'/>
+      <enumeration value='sin'/>
+      <enumeration value='ant'/>
+      <enumeration value='super'/>
+      <enumeration value='sub'/>
+      <enumeration value='prt'/>
+      <enumeration value='malprt'/>
+      <enumeration value='lst'/>
+      <enumeration value='ekz'/>
+     </restriction>
+    </simpleType>
+   </attribute>
+  </complexType>
+</element>
+
+<element name='ref'>
+  <annotation>
+    <documentation> 
+	Referenco montras al alia, simil- aŭ alisignifa vorto,
+	oni povas distingi diversajn rilattipojn al la
+	referencita vorto. La enhavo de la referenco estas tio, kio
+	aperas en la legebla teksto. La referencitan vorton mem
+	oni difinas per la atributo <doc:dfn>cel</doc:dfn>. La celon oni plej
+	bone difinas laŭ la skemo: "radiko.derivaĵo.senco".
+	La atributoj <doc:dfn>lst</doc:dfn> kaj <doc:dfn>val</doc:dfn> 
+	servas por referenci al vortlisto (<doc:dfn>tip="lst"</doc:dfn>),
+	ekz. monatoj. Se temas pri ordigita listo, vi povas indiki valoron per 
+	<doc:dfn>val</doc:dfn>,	ekz. "3" ĉe la monato marto.
+    </documentation>      
+  </annotation>
+  <complexType mixed='true'>
+   <choice minOccurs='0' maxOccurs='unbounded'>
+    <element ref='voko:tld'/>
+    <element ref='voko:klr'/>
+    <element ref='voko:sncref'/>
+   </choice>
+   <attribute name='tip' use='optional'>
+    <simpleType>
+     <restriction base='string'>
+      <enumeration value='vid'/>
+      <enumeration value='hom'/>
+      <enumeration value='dif'/>
+      <enumeration value='sin'/>
+      <enumeration value='ant'/>
+      <enumeration value='super'/>
+      <enumeration value='sub'/>
+      <enumeration value='prt'/>
+      <enumeration value='malprt'/>
+      <enumeration value='lst'/>
+      <enumeration value='ekz'/>
+     </restriction>
+    </simpleType>
+   </attribute>
+   <attribute name='cel' type='string' use='required'/>
+   <attribute name='lst' type='string' use='optional'/>
+   <attribute name='val' type='string' use='optional'/>
+  </complexType>
+ </element>
+
+<!--
+<element name='tez'>
+  <annotation>
+    <documentation> 
+	NE PLU UZU! Tezaŭra nodo. Ĝi permesas referenci al tio, same kiel
+	al <doc:dfn>kap</doc:dfn> kaj mem povas referenci al alia nodo.
+    </documentation>      
+  </annotation>
+  <complexType mixed='true'>
+   <choice minOccurs='0' maxOccurs='unbounded'>
+    <element ref='voko:tld'/>
+    <element ref='voko:klr'/>
+    <element ref='voko:ref'/>
+    <element ref='voko:refgrp'/>
+   </choice>
+   <attribute name='mrk' type='voko:mrk' use='required'/>
+   <attribute name='tip' use='optional'>
+    <simpleType>
+     <restriction base='string'>
+      <enumeration value='super'/>
+      <enumeration value='malprt'/>
+      <enumeration value='listo'/>
+     </restriction>
+    </simpleType>
+   </attribute>
+   <attribute name='cel' type='string' use='required'/>
+  </complexType>
+</element>
+-->
+
+<element name='lstref'>
+  <annotation>
+    <documentation> 
+	Referenco al vortlisto el artikolo.
+    </documentation>      
+  </annotation>
+  <complexType mixed='true'>
+   <choice minOccurs='0' maxOccurs='unbounded'>
+    <element ref='voko:tld'/>
+    <element ref='voko:klr'/>
+   </choice>
+   <attribute name='lst' type='string' use='required'/>
+  </complexType>
+</element>
+
+<element name='tezrad'>
+  <annotation>
+    <documentation> 
+	Tezaŭraradiko: la kapvorto aperas en la enirlisto
+	de la tezaŭro. Se vi uzas la atributon <doc:dfn>fak</doc:dfn>, 
+	ĝi aperas en la struktura enirlisto de la fako
+    </documentation>      
+  </annotation>
+  <complexType>
+   <attribute name='fak' type='voko:fako' use='optional'/>
+  </complexType>
+</element>
+
+<element name='trdgrp'>
+  <annotation>
+    <documentation> 
+	Tradukgrupo kunigas diversajn tradukojn de
+	sama lingvo. Tiukaze ne uzu la atributon <doc:dfn>lng</doc:dfn>
+	en la enhavataj unuopaj tradukoj.
+    </documentation>      
+  </annotation>
+  <complexType mixed='true'>
+   <sequence minOccurs='0' maxOccurs='unbounded'>
+    <element ref='voko:trd'/>
+   </sequence>
+   <attribute name='lng' type='language' use='required'/>
+  </complexType>
+</element>
+
+<element name='trd'>
+  <annotation>
+    <documentation> 
+	Traduko kosistas el traduka vorto aŭ frazo
+	kaj klarigoj, poste povos sekvi aliaj elementoj.
+	Vi povas limigi parton, kiu aperu en la indekso per
+	<doc:dfn>ind</doc:dfn>
+    </documentation>      
+  </annotation>
+  <complexType mixed='true'>
+   <choice minOccurs='0' maxOccurs='unbounded'>
+    <element ref='voko:klr'/>
+    <element ref='voko:ind'/>
+    <element ref='voko:mll'/>
+    <element ref='voko:ofc'/>
+   </choice>
+   <attribute name='lng' type='language' use='optional'/>
+   <attribute name='fnt' type='string' use='optional'/>
+  </complexType>
+</element>
+
+<element name='ind'>
+  <annotation>
+    <documentation> 
+	Parto de traduko, kiu liveras la kapvorton en la
+	indekso, do &lt;trd&gt;sich &lt;ind&gt;bem&uuml;hen&lt;/ind&gt;&lt;/trd&gt;
+	aperas sub bem&uuml;hen. Aŭ parto de ekzemplo aŭ bildpriskribo, al
+	kiu rilatas internaj tradukoj ktp.
+    </documentation>      
+  </annotation>
+  <complexType mixed='true'>
+   <choice minOccurs='0' maxOccurs='unbounded'>
+    <element ref='voko:tld'/>
+    <element ref='voko:klr'/>
+    <element ref='voko:mll'/>
+   </choice>
+  </complexType>
+</element>
+
+<element name='mll'>
+  <annotation>
+    <documentation> 
+	Parto de traduko, kiu aperu en al indekso anstataŭ la kompleta teksto.
+	Por signi, ĉu estas komenca, meza aŭ fina parto uzu la atributon <doc:dfn>tip</doc:dfn>.
+	En la indekso la ellasoj tiam estas markitaj per "...".
+    </documentation>      
+  </annotation>
+  <complexType mixed='true'>
+   <choice minOccurs='0' maxOccurs='unbounded'>
+    <element ref='voko:tld'/>
+    <element ref='voko:klr'/>
+    <element ref='voko:ind'/>
+   </choice>
+   <attribute name='tip' use='optional'>
+    <simpleType>
+     <restriction base='string'>
+      <enumeration value='kom'/>
+      <enumeration value='mez'/>
+      <enumeration value='fin'/>
+     </restriction>
+    </simpleType>
+   </attribute>
+  </complexType>
+</element>
+
+<element name='bld'>
+  <annotation>
+    <documentation> 
+	Bildo povas ilustri iun vorton aŭ sencon. Per la
+	atributo <doc:dfn>lok</doc:dfn> ĝi
+	referencas al ekstera dosiero, kiu entenas la bildon.
+	Per <doc:dfn>alt</doc:dfn> kaj/aŭ <doc:dfn>lrg</doc:dfn> vi povas doni fiksan formaton.
+	Per <doc:dfn>tip</doc:dfn> vi donas tipon de la bildo, t.e. <doc:dfn>img</doc:dfn>
+	por JPEG, GIF, PNG-bildo, <doc:dfn>svg</doc:dfn> por SVG-vektorgrafiko.
+    </documentation>      
+  </annotation>
+  <complexType mixed='true'>
+   <choice minOccurs='0' maxOccurs='unbounded'>
+    <element ref='voko:tld'/>
+    <element ref='voko:klr'/>
+    <element ref='voko:fnt'/>
+    <element ref='voko:ind'/>
+    <element ref='voko:trd'/>
+    <element ref='voko:trdgrp'/>
+   </choice>
+   <attribute name='lok' type='anyURI' use='required'/>
+   <attribute name='mrk' type='voko:mrk' use='optional'/>
+   <attribute name='tip' use='optional' default='img'>
+    <simpleType>
+     <restriction base='string'>
+      <enumeration value='img'/>
+      <enumeration value='svg'/>
+     </restriction>
+    </simpleType>
+   </attribute>
+   <attribute name='alt' type='integer' use='optional'/>
+   <attribute name='lrg' type='integer' use='optional'/>
+  </complexType>
+</element>
+
+<element name='adm'>
+  <annotation>
+    <documentation> 
+	Administraj informoj estu por redaktado. Ili povus
+	enhavi informojn pri kreodato, ŝanĝdato, aŭtoro, eraroj kaj
+	plibonigproponoj pri artikolo. 
+	La linirompoj aperas senŝanĝe en la prezento, estas uzataj fikslarĝaj literoj.
+	Vi povas aldoni vian nomon aŭ inicialojn per <doc:dfn>aut</doc:dfn>.
+    </documentation>      
+  </annotation>
+  <complexType mixed='true'>
+   <sequence minOccurs='0' maxOccurs='unbounded'>
+    <element ref='voko:aut'/>
+   </sequence>
+  </complexType>
+</element>
+
+<element name='tld'>
+  <annotation>
+    <documentation> 
+	Tildo rilatas al la radiko, donita en la kapvorto
+	ĝi ne bezonas enhavon. La atributo <doc:dfn>lit</doc:dfn> indikas alian
+	komencliteron ol havas la radiko. Grava por majuskligo kaj
+	minuskligo.
+    </documentation>      
+  </annotation>
+  <complexType>
+   <attribute name='lit' type='string' use='optional'/>
+  </complexType>
+</element>
+
+<element name='klr'>
+  <annotation>
+    <documentation> 
+	Klarigo pri vorto, difino, ekzemplo ktp.
+    </documentation>      
+  </annotation>
+  <complexType mixed='true'>
+   <choice minOccurs='0' maxOccurs='unbounded'>
+    <element ref='voko:trd'/>
+    <element ref='voko:trdgrp'/>
+    <element ref='voko:ekz'/>
+    <element ref='voko:ref'/>
+    <element ref='voko:refgrp'/>
+    <group ref="voko:tekst-stiloj"/>
+   </choice>
+   <attribute name='tip' use='optional'>
+    <simpleType>
+     <restriction base='string'>
+      <enumeration value='ind'/>
+      <enumeration value='amb'/>
+     </restriction>
+    </simpleType>
+   </attribute>
+  </complexType>
+</element>
+
+<element name='bib'>
+  <annotation>
+    <documentation> 
+	Bibliografia indiko por fonto. Ĝi estas mallongigo el
+	listo de difinitaj bibliografieroj kaj anstataŭas verko- kaj aŭtoroindikon
+	en la fontoj.
+    </documentation>      
+  </annotation>
+  <complexType mixed='true' />
+</element>
+
+<element name='vrk'>
+  <annotation>
+    <documentation> 
+	Verko, en kiu troviĝas citita frazo aŭ vorto.
+    </documentation>      
+  </annotation>
+  <complexType mixed='true'>
+   <sequence minOccurs='0' maxOccurs='unbounded'>
+    <element ref='voko:url'/>
+   </sequence>
+  </complexType>
+</element>
+
+<element name='lok'>
+  <annotation>
+    <documentation> 
+	Loko, kie troviĝas citita frazo aŭ vorto en verko.
+    </documentation>      
+  </annotation>
+  <complexType mixed='true'>
+   <sequence minOccurs='0' maxOccurs='unbounded'>
+    <element ref='voko:url'/>
+   </sequence>
+  </complexType>
+</element>
+
+<element name='aut'>
+  <annotation>
+    <documentation> 
+	Aŭtoro de citita frazo aŭ verko. Ankaŭ uzata por signi aŭtoron de administra noto aŭ rimarko.
+    </documentation>      
+  </annotation>
+  <complexType mixed='true'/>
+</element>
+
+<element name='frm'>
+  <annotation>
+    <documentation> 
+	Matematika au kemia formulo.
+    </documentation>      
+  </annotation>
+  <complexType mixed='true'>
+   <choice minOccurs='0' maxOccurs='unbounded'>
+    <element ref='voko:sup'/>
+    <element ref='voko:sub'/>
+    <element ref='voko:g'/>
+    <element ref='voko:k'/>
+   </choice>
+  </complexType>
+</element>
+
+<element name='g'>
+  <annotation>
+    <documentation> 
+	Grasa parto de formulo, ekz. vektoro, matrico k.s.,
+	bv. uzi nur en <doc:dfn>frm</doc:dfn>.
+    </documentation>      
+  </annotation>
+  <complexType mixed='true'>
+  </complexType>
+</element>
+
+<element name='k'>
+  <annotation>
+    <documentation> 
+	Kursiva parto de formulo, ekz. vektoro, matrico k.s.,
+        bv. uzi nur en <doc:dfn>frm</doc:dfn>.
+    </documentation>      
+  </annotation>
+  <complexType mixed='true'>
+  </complexType>
+</element>
+
+<element name='em'>
+  <annotation>
+    <documentation> 
+	Emfazo. Normale grase skribata vortoj.
+    </documentation>      
+  </annotation>
+  <complexType mixed='true'>
+   <sequence minOccurs='0' maxOccurs='unbounded'>
+    <element ref='voko:tld'/>
+   </sequence>
+  </complexType>
+</element>
+
+<element name='sup'>
+  <annotation>
+    <documentation> 
+	Altigita teksto, ekz. en ĥemiaj formuloj. 
+    </documentation>      
+  </annotation>
+  <complexType mixed='true'>
+   <choice minOccurs='0' maxOccurs='unbounded'>
+    <element ref='voko:g'/>
+    <element ref='voko:k'/>
+   </choice>
+  </complexType>
+</element>
+
+<element name='sub'>
+  <annotation>
+    <documentation> 
+	Malaltigita teksto, ekz. en ĥemiaj formuloj.
+    </documentation>      
+  </annotation>
+  <complexType mixed='true'>
+   <choice minOccurs='0' maxOccurs='unbounded'>
+    <element ref='voko:g'/>
+    <element ref='voko:k'/>
+   </choice>
+  </complexType>
+</element>
+
+<element name='ctl'>
+  <annotation>
+    <documentation> 
+	Citilita teksto, ekz. memindika uzo de vorto.
+    </documentation>      
+  </annotation>
+  <complexType mixed='true'>
+   <choice minOccurs='0' maxOccurs='unbounded'>
+    <element ref='voko:tld'/>
+    <element ref='voko:em'/>
+    <element ref='voko:frm'/>
+   </choice>
+  </complexType>
+</element>
+
+<element name='url'>
+  <annotation>
+    <documentation> 
+	Referenco al iu ekstera dosiero. En la HTML-versio de vortaro
+	tio fariĝas <doc:dfn>&lt;a href=...&gt;</doc:dfn>.
+	Anstataŭ la TTT-ejo prefere uzu
+	la alinomojn de popularaj retejoj difinitajn en la DTD.
+	Tiel oni povas aktualigi la referencon en centra loko poste.
+    </documentation>      
+  </annotation>
+  <complexType mixed='true'>
+   <attribute name='ref' type='anyURI' use='optional'/>
+  </complexType>
+</element>
+
+<element name='mlg'>
+  <annotation>
+    <documentation> 
+	Mallongigo de la kapvorto, ekz. ĉe nomoj de organizaĵoj. 
+	Per <doc:dfn>kod</doc:dfn> vi povas indiki devenon de la mallongigo, 
+	ekz. ISO-3166 ĉe landokodoj. 	
+    </documentation>      
+  </annotation>
+  <complexType mixed='true'>
+   <attribute name='kod' type='string' use='optional'/>
+  </complexType>
+</element>
+
+</schema>

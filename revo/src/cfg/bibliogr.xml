@@ -5,7 +5,7 @@
 <!ELEMENT bibliografio (vrk)*>
 <!ELEMENT vrk (url?,aut*,trd?,tit?,ald?,eld*)>
 <!ATTLIST vrk mll ID #REQUIRED
-              tip (vortaro|leksikono|terminaro|beletro|rimajho|parolo) #IMPLIED> 
+              tip (vortaro|leksikono|terminaro|beletro|rimajho|parolo|revuo) #IMPLIED> 
 <!ELEMENT url (#PCDATA)>
 <!ELEMENT aut (#PCDATA|a|n)*>
 <!ELEMENT n   (#PCDATA)>
@@ -172,6 +172,12 @@
        <dat>1995</dat>
        <nro>2a plilar&gcirc;igita eldono</nro>
     </eld>
+  </vrk>
+
+  <vrk mll="CRI">
+    <url>http://esperanto.cri.cn/</url>
+    <tit>&Ccirc;ina Radio Internacia enrete</tit>
+    <ald>esperanta paĝaro de China Radio international online</ald>
   </vrk>
 
   <vrk mll="&Ccirc;A">
@@ -383,6 +389,17 @@
       <dat>1964</dat>
     </eld>
   </vrk>
+
+  <vrk mll="EPĈ" tip="revuo">
+    <url>http://www.espero.com.cn/</url>
+    <tit>El Popola Ĉinio (revuo)</tit>
+    <eld>
+      <nom>El Popola Ĉinio</nom>
+      <lok>Ĉeinujo</lok>
+      <dat>de 1950</dat>
+    </eld>
+  </vrk>
+
 
   <vrk mll="Esperanto">
     <url>http://www.uea.org/revuo/</url>
@@ -1383,6 +1400,16 @@ M&uuml;nchhausen</tit>
       <nom>Centra Presejo Esperantista</nom>
       <lok>Parizo</lok>
       <dat>1931</dat>
+    </eld>
+  </vrk>
+
+  <vrk mll="Sezonoj">
+    <url>http://www.esperanto.net/literaturo/sez/</url>
+    <tit>almanako Sezonoj</tit>
+    <eld>
+     <nom>Sezonoj</nom>
+     <lok>Jekaterinburg</lok>
+     <dat>1984-1990</dat>
     </eld>
   </vrk>
 

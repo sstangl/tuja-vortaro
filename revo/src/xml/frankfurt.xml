@@ -2,7 +2,7 @@
 <!DOCTYPE vortaro SYSTEM "../dtd/vokoxml.dtd">
 
 <vortaro>
-<art mrk="$Id: frankfurt.xml,v 1.24 2011/02/16 15:10:27 revo Exp $">
+<art mrk="$Id: frankfurt.xml,v 1.25 2016/04/22 17:10:17 revo Exp $">
 <kap>
 <rad>Frankfurt</rad>/o<fnt>Z</fnt>
 </kap>
@@ -53,7 +53,8 @@
     <dif>
       <ref tip="super" cel="urb.0o">Urbo</ref> en sud-okcidenta
       <ref tip="malprt" cel="german1.G0ujo">Germanujo</ref>
-      (8&ring;40'E, 50&ring;07'N), situanta &ccirc;e la rivero <ref tip="vid"
+      (8&deg;40&minute;E, 50&deg;07&minute;N), situanta &ccirc;e la rivero
+      <ref tip="vid"
       cel="majn.M0o">Majno</ref>,
 plej granda urbo de la federacia lando <ref tip="super"
 cel="hes.H0ujo">Hesujo</ref>.
@@ -95,6 +96,9 @@ cel="hes.H0ujo">Hesujo</ref>.
 
 <!--
 $Log: frankfurt.xml,v $
+Revision 1.25  2016/04/22 17:10:17  revo
+Wolfram Diestel: signonomojn deg, minute
+
 Revision 1.24  2011/02/16 15:10:27  revo
 Luiz Portella: kor. ref k mrk
 
@@ -114,8 +118,5 @@ Revision 1.19  2003/03/05 17:37:35  revo
 Miroslav Malovec: ald cs trd
 
 Revision 1.18  2002/12/23 17:32:10  revo
-Ulrich Fellmann: kor en drv ~a (minuskligo de komenca litero) kaj 2
-pliaj trd de (ekster la indekso)
-
 -->
 </vortaro>
