@@ -71,7 +71,8 @@ function search(term, dict, dict_lower) {
 
 // Normalize "to foo" => "foo".
 function normalize_english(string) {
-    if (string.startsWith('to ')) {
+    // Safari 8 doesn't have startsWith.
+    if (string.substr(0,3) === 'to ') {
         return string.substr(3);
     }
     return string;
