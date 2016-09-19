@@ -220,6 +220,24 @@ function append_more_results(start, matchlist, dictionary) {
     };
 }
 
+// Roughly parse index.html?q=foo&a=bar into an object {q: foo, a: bar}.
+function getqueryobj() {
+    var url = document.location.href;
+    var i = url.indexOf('?');
+    var args = url.slice(i+1);
+
+    var obj = {};
+    var split = args.split('&');
+    for (var j = 0; j < split.length; ++j) {
+        var arg = split[j];
+        if (arg.indexOf('=') >= 0) {
+            var v = unescape(arg).split('=');
+            obj[v[0]] = v[1];
+        }
+    }
+    return obj;
+}
+
 // Language selector setup and initialization.
 (function () {
     // Populate the language selector.
@@ -272,5 +290,14 @@ function append_more_results(start, matchlist, dictionary) {
         searchfield.addEventListener("keypress", blur_on_enter, false);
         // The autofocus attribute doesn't bring up the keyboard in FxOS.
         searchfield.focus();
+    }
+})();
+
+// Argument handling.
+(function () {
+    var query = getqueryobj();
+    if (query.vorto !== undefined) {
+        searchfield.value = query.vorto;
+        on_keystroke();
     }
 })();
