@@ -1,5 +1,5 @@
 all:
-	python ./convert-to-js.py
+	python2 ./convert-to-js.py
 
 clean:
 	rm -f revo-*
