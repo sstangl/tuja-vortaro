@@ -130,7 +130,8 @@ def main():
     for lang, entries in dictionary.iteritems():
         with open('revo-' + lang + '.js', 'wb') as js:
 
-            print >>js, '// La Reta Vortaro, GPLv2'
+            print >>js, '// @license magnet:?xt=urn:btih:cf05388f2679ee054f2beb29a391d25f4e673ac3&dn=gpl-2.0.txt GPL-v2'
+            print >>js, '// De La Reta Vortaro'
             print >>js, "'use strict';"
             print >>js, 'var revo_%s = [' % lang
 
@@ -145,6 +146,7 @@ def main():
             # Construct a lowercase version of the dictionary.
             # Done on load since it's very fast, even on phones.
             print >>js, 'var revo_%s_lower = revo_%s.map(function(a) { return a.map(function(x) { return x.toLowerCase(); }) });' % (lang, lang)
+            print >>js, '// @license-end'
 
 if __name__ == '__main__':
     main()
