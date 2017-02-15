@@ -1,4 +1,5 @@
-// La Reta Vortaro, GPLv2
+// @license magnet:?xt=urn:btih:cf05388f2679ee054f2beb29a391d25f4e673ac3&dn=gpl-2.0.txt GPL-v2
+// De La Reta Vortaro
 'use strict';
 var revo_ar = [
 ["Alĝerio","الجزائر","الجمهورية الجزائرية الديمقراطية الشعبية"],
@@ -35,3 +36,4 @@ var revo_ar = [
 ["ŝuo","حِذَ&a_A;ءٌ ج أَحْذِ&a_y;َةٌ "],
 ];
 var revo_ar_lower = revo_ar.map(function(a) { return a.map(function(x) { return x.toLowerCase(); }) });
+// @license-end

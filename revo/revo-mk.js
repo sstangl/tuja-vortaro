@@ -1,4 +1,5 @@
-// La Reta Vortaro, GPLv2
+// @license magnet:?xt=urn:btih:cf05388f2679ee054f2beb29a391d25f4e673ac3&dn=gpl-2.0.txt GPL-v2
+// De La Reta Vortaro
 'use strict';
 var revo_mk = [
 ["Blanka Nilo","Бели Нил"],
@@ -26,3 +27,4 @@ var revo_mk = [
 ["tigo","стебло"],
 ];
 var revo_mk_lower = revo_mk.map(function(a) { return a.map(function(x) { return x.toLowerCase(); }) });
+// @license-end

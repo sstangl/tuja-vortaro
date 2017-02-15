@@ -1,3 +1,4 @@
+// @license magnet:?xt=urn:btih:90dc5c0be029de84e523b9b3922520e79e0e6f08&dn=cc0.txt CC0-1.0
 'use strict';
 var etymology = [
 ["abato","Rus. aббaт, Ger. Abt, Ita. abate, Eng. abbot"],
@@ -3990,3 +3991,4 @@ var etymology = [
 ["zorgo","Yid. zorg, Ger. Sorge"],
 ["zumi","Ger. summen"],
 ];
+// @license-end
