@@ -1,3 +1,4 @@
+// @license magnet:?xt=urn:btih:cf05388f2679ee054f2beb29a391d25f4e673ac3&dn=gpl-2.0.txt GPL-v2
 // vim: set ts=4 sts=4 sw=4 et:
 'use strict';
 
@@ -301,3 +302,4 @@ function getqueryobj() {
         on_keystroke();
     }
 })();
+// @license-end
