@@ -1,3 +1,4 @@
+// @license magnet:?xt=urn:btih:cf05388f2679ee054f2beb29a391d25f4e673ac3&dn=gpl-2.0.txt GPL-v2
 // vim: set ts=4 sts=4 sw=4 et:
 // Skripto por la testado de la vortaro. Ĝi estas uzebla per moderna JS-konko.
 'use strict';
@@ -173,3 +174,4 @@ function asertuEgalas(x, y) {
     // La ReVo vortaro ne disigis la tradukaĵojn.
     asertuKongruas(search_fr("donner"), ["doni"]);
 })();
+// @license-end
