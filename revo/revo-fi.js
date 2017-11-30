@@ -211,7 +211,7 @@ var revo_fi = [
 ["kalandrao","jyväkärsäkäs","(Sitophilus-suvun) kärsäkäs"],
 ["kalandri","mankeloida","kalanteroida (paperon en fabriko)"],
 ["kalandrilo","mankeli","kalanteri (en paperfabriko)"],
-["kalandro","arokiuru","jyväkärsäkäs","(Sitophilus-suvun) kärsäkäs","mankelointi"],
+["kalandro","jyväkärsäkäs","(Sitophilus-suvun) kärsäkäs","mankelointi","arokiuru"],
 ["kalcini","kalsinoida","hehkuttaa (tekn.)"],
 ["kalcio","kalsium"],
 ["kalcito","kalsiitti","kalkkisälpä"],
