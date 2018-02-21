@@ -53824,7 +53824,7 @@ var espdic = [
 ["sinapa semo","mustard seed"],
 ["sinapo","mustard plant","sinapis"],
 ["sinapsa","synaptic"],
-["sinapso","synaps"],
+["sinapso","synapse"],
 ["sincera","above-board","frank","sincere","unfeigned"],
 ["sincere","frankly","sincerely"],
 ["sincereco","candor","frankness","sincerity","straightforwardness"],
