@@ -1610,7 +1610,7 @@ var revo_br = [
 ["mariskarabo","buoc'h-Doue","c'hwilig-Doue","yarig-Doue"],
 ["marki","merkañ"],
 ["markizo","markiz"],
-["marko","merk","mark"],
+["marko","mark","merk"],
 ["marmoro","marmor"],
 ["maro","mor"],
 ["marokeno","gavrgen"],

@@ -2126,7 +2126,7 @@ var revo_sk = [
 ["bistro","bister"],
 ["bisturio","chirurgický nožík"],
 ["bitniko","beatnik"],
-["bito","bit","nízky stĺp na lodi","pre laná a reťaze"],
+["bito","nízky stĺp na lodi","pre laná a reťaze","bit"],
 ["bitoko","bajt","byte"],
 ["bitumo","bitúmen","živica"],
 ["bivaki","bivakovať","táboriť"],

@@ -1482,7 +1482,7 @@ var revo_id = [
 ["ksilofono","xilofon"],
 ["kuba metro","meter kubik"],
 ["kubismo","kubisme"],
-["kubo","kubus","dadu","kubik","Kuba"],
+["kubo","Kuba","kubus","dadu","kubik"],
 ["kubuto","siku"],
 ["kuglingo","selongsong"],
 ["kuglo","pelor","peluru"],
