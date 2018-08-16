@@ -28196,6 +28196,7 @@ var espdic = [
 ["kata","feline"],
 ["katadioptrika","mirror"],
 ["katafalko","catafalque","open hearse"],
+["kataforo","cataphora"],
 ["kataklismo","cataclysm"],
 ["katakombo","catacomb"],
 ["katalepsio","catalepsy","trance"],
