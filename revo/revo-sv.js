@@ -1332,7 +1332,7 @@ var revo_sv = [
 ["japano","japan (person)"],
 ["japanujo","Japan"],
 ["jarcento","århundrade"],
-["jardo","mast","bom","yard"],
+["jardo","yard","mast","bom"],
 ["jarlibro","årsbok"],
 ["jarmilo","årtusende"],
 ["jaro","år"],

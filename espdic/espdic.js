@@ -57760,7 +57760,7 @@ var espdic = [
 ["tagdaŭra","day-long","all-day"],
 ["tagdeko","period of ten days"],
 ["tage","by day","during the day","in the daytime"],
-["tage de naskiĝo","birthday","anniversary"],
+["tago de naskiĝo","birthday","anniversary"],
 ["tage kaj nokte","day and night"],
 ["tageksurso","day trip"],
 ["tageto","African marigold"],

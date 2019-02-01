@@ -7972,7 +7972,7 @@ var revo_cs = [
 ["kroniki","psát kroniku"],
 ["kronikisto","kronikář"],
 ["kroniko","chronik"],
-["krono","koruna","koruna (měna i symbol království)","věnec"],
+["krono","koruna (měna i symbol království)","věnec","koruna"],
 ["kronologia","chronologický"],
 ["kropo","vole (ptáka)"],
 ["krozanto","křižník"],
