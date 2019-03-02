@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html class="light">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width,user-scalable=no,initial-scale=1">
@@ -39,11 +39,12 @@
       <header>
         <input type="text" id="searchfield" autofocus>
         <select id="langfield"></select>
-          <div id="header-right">
-            <span lang="eo">
-              <a class="fonto" href="https://gitlab.com/sstangl/tuja-vortaro">Libere sub GPLv2</a>
-            </span>
-          </div>
+        <div id="header-right">
+          <input type="button" onclick="toggle_theme();" value="Mallume" id="toggleSwitch">
+          <span lang="eo">
+            <a class="fonto" href="https://gitlab.com/sstangl/tuja-vortaro">Libere sub GPLv2</a>
+          </span>
+        </div>
       </header>
       <div id="results" class="results-web"></div>
     </div>

@@ -36,6 +36,51 @@ header {
   margin-right: 30px;
 }
 
+/* Uzata se la malluman reĝimon oni ŝaltas */
+html.dark body {
+  background-color: #2A2A2E;
+  color: #BABABA;
+}
+
+html.dark #searchfield {
+  background-color: #2A2A2E;
+  color: white;
+}
+
+html.dark #langfield {
+  background-color: #2A2A2E;
+  color: white;
+}
+
+html.dark #toggleSwitch {
+  background-color: #2A2A2E;
+  color: white;
+}
+
+html.dark .resultrow-0 {
+  background-color: #2A2A2E;
+}
+
+html.dark .resultrow-1 {
+  background-color: #3B3B3B;
+}
+
+html.dark .eo-result {
+  color: #00E600;
+}
+
+html.dark .eo-informacio {
+  color: #D4D4D4;
+}
+
+html.dark .en-result {
+  color: #DBDBDB;
+}
+
+html.dark a.fonto {
+  color: #2A2A2E;
+}
+
 /* Uzata nur de FxOS, ĉar la tajpilo aperos ĉe la subo. */
 #footer {
   margin: 0;
@@ -53,6 +98,10 @@ header {
   position: fixed;
   justify-content: center;
   align-items: center;
+}
+
+#toggleSwitch {
+  margin-left: 6px;
 }
 
 .results-web {
