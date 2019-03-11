@@ -154,6 +154,14 @@ hr.exactsep {
   background: #333;
 }
 
+html.dark hr.exactsep {
+  padding: 0px;
+  margin: 0px;
+  border: 0;
+  height: 1px;
+  background: #CCC;
+}
+
 input[type="text"] {
   align-self: center;
   font-size: 18px;
