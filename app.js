@@ -7,6 +7,8 @@ var DEBUG = false;
 var langfield = document.getElementById("langfield");
 var searchfield = document.getElementById("searchfield");
 var results = document.getElementById("results");
+var htmlElement = document.getElementsByTagName("html")[0];
+var toggleSwitch = document.getElementById("toggleSwitch");
 
 // The current active dictionary.
 var dictionary = undefined;
@@ -35,6 +37,45 @@ var languages = [
     ['ru', 'revo/revo-ru.js', 'revo_ru'],
     ['sk', 'revo/revo-sk.js', 'revo_sk'],
 ];
+
+// Attempt to get saved localStorage; Default to "light"
+var mode = (function () {
+    try {
+        return localStorage.getItem("tvTheme");
+    } catch(error) {
+        console.log(error);
+        return false;
+    }
+})() || "light";
+
+// Change toggle switch’s text on page reload
+if (mode) {
+    htmlElement.className = mode;
+    if (mode === "light") {
+        toggleSwitch.value = "Mallume";
+    }
+    else {
+        toggleSwitch.value = "Lume";
+    }
+}
+
+// Switch to alternate css file while attempting to save to localStorage
+function toggle_theme () {
+    try {
+        if (toggleSwitch.value === "Mallume") {
+            htmlElement.className = "dark";
+            toggleSwitch.value = "Lume";
+            localStorage.setItem("tvTheme", "dark");
+        }
+        else {
+            htmlElement.className = "light";
+            toggleSwitch.value = "Mallume";
+            localStorage.setItem("tvTheme", "light");
+        }
+    } catch(error) {
+        console.log(error);
+    }
+}
 
 // Add an option to the language selector.
 function add_language_option(value, text) {
