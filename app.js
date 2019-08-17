@@ -90,6 +90,11 @@ function get_selected_language() {
     return langfield.value;
 }
 
+// Saves the selected language option to localStorage.
+function save_selected_language() {
+    localStorage.setItem("tvLang", get_selected_language());
+}
+
 // Load a JS file (one of the dictionaries), calling the callback after load.
 function load_javascript(url, callback) {
     var script = document.createElement("script");
@@ -287,12 +292,14 @@ function getqueryobj() {
         add_language_option(val[0], val[0]);
     });
 
-    // Detect and set the default language based on the browser's language preference.
-    if (!navigator.language)
+    // Load set language from localStorage otherwise detect and set the default
+    // language based on the browser's language preference.
+    var language = localStorage.getItem("tvLang") || navigator.language;
+    if (!language)
         return;
 
     for (var i = 0; i < languages.length; ++i) {
-        if (navigator.language.indexOf(languages[i][0]) === -1) {
+        if (language.indexOf(languages[i][0]) === -1) {
             continue;
         }
 

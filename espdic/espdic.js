@@ -20854,6 +20854,7 @@ var espdic = [
 ["franĝi","to fringe"],
 ["franĝipano","almond paste"],
 ["franĝo","fringe"],
+["franjo","sis"],
 ["franka","Frankish"],
 ["frankfurta","of Frankfurt"],
 ["Frankfurto","Frankfort","Frankfurt"],
