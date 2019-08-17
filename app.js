@@ -85,13 +85,12 @@ function add_language_option(value, text) {
     langfield.options.add(option);
 }
 
-
 // Gets the current language option (currently for supplying tags to screen readers).
 function get_selected_language() {
     return langfield.value;
 }
 
-// saves the selected language
+// Saves the selected language option to localStorage.
 function save_selected_language() {
     localStorage.setItem("tvLang", get_selected_language());
 }
@@ -296,7 +295,6 @@ function getqueryobj() {
     // Load set language from localStorage otherwise detect and set the default
     // language based on the browser's language preference.
     var language = localStorage.getItem("tvLang") || navigator.language;
-
     if (!language)
         return;
 
