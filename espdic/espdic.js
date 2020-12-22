@@ -32748,7 +32748,7 @@ var espdic = [
 ["kvinanokte","on","during the fifth night"],
 ["kvincent","five hundred"],
 ["kvindek","fifty"],
-["kvindekjara","fifteen year-old"],
+["kvindekjara","fifty year-old"],
 ["kvine","fifthly"],
 ["kvinedro","pentahedron"],
 ["kvinjambo","iambic pentameter"],
