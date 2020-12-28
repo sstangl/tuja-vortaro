@@ -14748,7 +14748,7 @@ var espdic = [
 ["dudekdua","twenty-second"],
 ["dudekdujara","22-year-old"],
 ["dudekedro","icosahedron"],
-["dudekjara","twenty two year-old"],
+["dudekjara","twenty year-old"],
 ["dudekjarulo","twenty year-old (person)"],
 ["dudeko","score"],
 ["dudekope","twenty together"],
