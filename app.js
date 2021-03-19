@@ -20,23 +20,30 @@ var scroll_continuation = undefined;
 
 var global = this;
 
-// 0: Language Code.
-// 1: Path to dictionary JS file.
-// 2: Name of dictionary variable defined by that JS file.
-var languages = [
-    ['be', 'revo/revo-be.js', 'revo_be'],
-    ['cs', 'revo/revo-cs.js', 'revo_cs'],
-    ['de', 'revo/revo-de.js', 'revo_de'],
-    ['en', 'espdic/espdic.js', 'espdic'],
-    ['es', 'revo/revo-es.js', 'revo_es'],
-    ['fr', 'revo/revo-fr.js', 'revo_fr'],
-    ['hu', 'revo/revo-hu.js', 'revo_hu'],
-    ['nl', 'revo/revo-nl.js', 'revo_nl'],
-    ['pl', 'revo/revo-pl.js', 'revo_pl'],
-    ['pt', 'revo/revo-pt.js', 'revo_pt'],
-    ['ru', 'revo/revo-ru.js', 'revo_ru'],
-    ['sk', 'revo/revo-sk.js', 'revo_sk'],
-];
+/**
+ * @var object A mapping from a language's code to its dictionary data.
+ * Implements the following interface:
+ * interface {
+ *     [language_code: string]: {
+ *         path: string; // Path to dictionary JS file.
+ *         name: string; // Name of dictionary variable defined by that JS file.
+ *     }
+ * }
+ */
+const languages = {
+    be: {path: 'revo/revo-be.js', name: 'revo_be'},
+    cs: {path: 'revo/revo-cs.js', name: 'revo_cs'},
+    de: {path: 'revo/revo-de.js', name: 'revo_de'},
+    en: {path: 'espdic/espdic.js', name: 'espdic'},
+    es: {path: 'revo/revo-es.js', name: 'revo_es'},
+    fr: {path: 'revo/revo-fr.js', name: 'revo_fr'},
+    hu: {path: 'revo/revo-hu.js', name: 'revo_hu'},
+    nl: {path: 'revo/revo-nl.js', name: 'revo_nl'},
+    pl: {path: 'revo/revo-pl.js', name: 'revo_pl'},
+    pt: {path: 'revo/revo-pt.js', name: 'revo_pt'},
+    ru: {path: 'revo/revo-ru.js', name: 'revo_ru'},
+    sk: {path: 'revo/revo-sk.js', name: 'revo_sk'},
+};
 
 // Attempt to get saved localStorage; Default to "light"
 var mode = (function () {
@@ -109,25 +116,26 @@ function load_javascript(url, callback) {
 }
 
 function load_and_set_current_dictionary() {
-    for (var i = 0; i < languages.length; ++i) {
-        if (languages[i][0] !== langfield.value) {
-            continue;
-        }
-
-        // Avoid redundant dictionary loads.
-        if (global[languages[i][2]] !== undefined) {
-            global.dictionary = global[languages[i][2]];
-            global.dictionary_lower = global[languages[i][2] + '_lower'] || global.dictionary;
-            on_keystroke();
-        } else {
-            load_javascript(languages[i][1], function () {
-                global.dictionary = global[languages[i][2]];
-                global.dictionary_lower = global[languages[i][2] + '_lower'] || global.dictionary;
-                on_keystroke();
-            });
-        }
-        return;
+    const selected_language_code = langfield.value;
+    // Prevent crash if HTML is changed by user.
+    if (!(selected_language_code in languages)) {
+        return false
     }
+    const current_language = languages[selected_language_code];
+    const set_current_dictionary = () => {
+            global.dictionary = global[current_language.name];
+            global.dictionary_lower = global[current_language.name + '_lower'] || global.dictionary;
+            on_keystroke();
+        }
+    // Avoid redundant dictionary loads.
+    if (global[current_language.name]) {
+        // Dictionary already loaded. Set as current.
+       set_current_dictionary();
+    } else {
+        // Load the dictionary, and set as current on-load.
+        load_javascript(current_language.path, set_current_dictionary);
+    }
+    return true;
 }
 
 function blur_on_enter(keyevent) {
@@ -267,53 +275,39 @@ function append_more_results(start, matchlist, dictionary) {
     };
 }
 
-// Roughly parse index.html?q=foo&a=bar into an object {q: foo, a: bar}.
+// Parse index.html?q=foo&a=bar into an object.
 function getqueryobj() {
-    var url = document.location.href;
-    var i = url.indexOf('?');
-    var args = url.slice(i+1);
+    return new URLSearchParams(location.search);
+}
 
-    var obj = {};
-    var split = args.split('&');
-    for (var j = 0; j < split.length; ++j) {
-        var arg = split[j];
-        if (arg.indexOf('=') >= 0) {
-            var v = decodeURIComponent(arg).split('=');
-            obj[v[0]] = v[1];
-        }
+function set_language_if_exists(language_code) {
+    const exists = language_code in languages;
+    if (exists) {
+        langfield.value = language_code;
     }
-    return obj;
+    return exists;
 }
 
 // Language selector setup and initialization.
 (function () {
     // Populate the language selector.
-    languages.forEach(function (val, idx) {
-        add_language_option(val[0], val[0]);
-    });
+    Object.keys(languages).forEach(
+        language_code => add_language_option(language_code, language_code)
+    );
 
     // Load set language from localStorage otherwise detect and set the default
     // language based on the browser's language preference.
-    var language = localStorage.getItem("tvLang") || navigator.language;
-    if (!language)
-        return;
-
-    for (var i = 0; i < languages.length; ++i) {
-        if (language.indexOf(languages[i][0]) === -1) {
-            continue;
-        }
-
-        for (var j = 0; j < langfield.options.length; ++j) {
-            if (langfield.options[j].value === languages[i][0]) {
-                langfield.selectedIndex = j;
-                return;
-            }
-        }
-    }
+    const language = localStorage.getItem("tvLang") || navigator.language;
+    set_language_if_exists(language)
 })();
 
 // Dictionary and Event initialization.
 (function () {
+    const query = getqueryobj();
+
+    // Allow a "lingvo" GET parameter to override LocalStorage.
+    set_language_if_exists(query.get('lingvo'))
+
     // Load the initial dictionary, and set it to update on language change.
     load_and_set_current_dictionary();
 
@@ -340,13 +334,11 @@ function getqueryobj() {
         // The autofocus attribute doesn't bring up the keyboard in FxOS.
         searchfield.focus();
     }
-})();
 
-// Argument handling.
-(function () {
-    var query = getqueryobj();
-    if (query.vorto !== undefined) {
-        searchfield.value = query.vorto;
+    // Allow a "vorto" GET parameter to specify a search term.
+    const vorto = query.get('vorto');
+    if (vorto !== null) {
+        searchfield.value = vorto;
         on_keystroke();
     }
 })();
