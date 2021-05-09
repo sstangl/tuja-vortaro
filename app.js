@@ -2,13 +2,21 @@
 // vim: set ts=4 sts=4 sw=4 et:
 'use strict';
 
+/**
+ * Milliseconds to wait after the user has finished typing before updating the URL.
+ * @type {number}
+ */
+const URL_UPDATE_DELAY = 400;
+let update_url_timeout_id = 0;
+
 var DEBUG = false;
 
-var langfield = document.getElementById("langfield");
-var searchfield = document.getElementById("searchfield");
-var results = document.getElementById("results");
-var htmlElement = document.getElementsByTagName("html")[0];
-var toggleSwitch = document.getElementById("toggleSwitch");
+const langfield = document.getElementById("langfield");
+const searchfield = document.getElementById("searchfield");
+const results = document.getElementById("results");
+const htmlElement = document.getElementsByTagName("html")[0];
+const toggleSwitch = document.getElementById("toggleSwitch");
+
 
 // The current active dictionary.
 var dictionary = undefined;
@@ -21,7 +29,7 @@ var scroll_continuation = undefined;
 var global = this;
 
 /**
- * @var object A mapping from a language's code to its dictionary data.
+ * A mapping from a language's code to its dictionary data.
  * Implements the following interface:
  * interface {
  *     [language_code: string]: {
@@ -29,6 +37,7 @@ var global = this;
  *         name: string; // Name of dictionary variable defined by that JS file.
  *     }
  * }
+ * @type {object}
  */
 const languages = {
     be: {path: 'revo/revo-be.js', name: 'revo_be'},
@@ -49,7 +58,7 @@ const languages = {
 var mode = (function () {
     try {
         return localStorage.getItem("tvTheme");
-    } catch(error) {
+    } catch (error) {
         console.log(error);
         return false;
     }
@@ -60,26 +69,24 @@ if (mode) {
     htmlElement.className = mode;
     if (mode === "light") {
         toggleSwitch.value = "Mallume";
-    }
-    else {
+    } else {
         toggleSwitch.value = "Lume";
     }
 }
 
 // Switch to alternate css file while attempting to save to localStorage
-function toggle_theme () {
+function toggle_theme() {
     try {
         if (toggleSwitch.value === "Mallume") {
             htmlElement.className = "dark";
             toggleSwitch.value = "Lume";
             localStorage.setItem("tvTheme", "dark");
-        }
-        else {
+        } else {
             htmlElement.className = "light";
             toggleSwitch.value = "Mallume";
             localStorage.setItem("tvTheme", "light");
         }
-    } catch(error) {
+    } catch (error) {
         console.log(error);
     }
 }
@@ -123,18 +130,19 @@ function load_and_set_current_dictionary() {
     }
     const current_language = languages[selected_language_code];
     const set_current_dictionary = () => {
-            global.dictionary = global[current_language.name];
-            global.dictionary_lower = global[current_language.name + '_lower'] || global.dictionary;
-            on_keystroke();
-        }
+        global.dictionary = global[current_language.name];
+        global.dictionary_lower = global[current_language.name + '_lower'] || global.dictionary;
+        on_keystroke();
+    }
     // Avoid redundant dictionary loads.
     if (global[current_language.name]) {
         // Dictionary already loaded. Set as current.
-       set_current_dictionary();
+        set_current_dictionary();
     } else {
         // Load the dictionary, and set as current on-load.
         load_javascript(current_language.path, set_current_dictionary);
     }
+    update_url();
     return true;
 }
 
@@ -178,20 +186,26 @@ function append_more_results_on_scroll() {
 }
 
 function on_keystroke() {
-    var debug_time;
+    let debug_time = 0;
+
+    // Wait until the user has stopped typing for URL_UPDATE_DELAY milliseconds before calling update_url()
+    clearTimeout(update_url_timeout_id)
+    update_url_timeout_id = setTimeout(update_url, URL_UPDATE_DELAY);
 
     // The scroll event handler is only valid for a given search,
     // changed on keystroke or language change.
-
-    var serĉo = searchfield.value.trim();
+    const serĉo = searchfield.value.trim();
     if (serĉo === '') {
         results.innerHTML = '';
     } else {
         if (DEBUG === true) {
             debug_time = performance.now();
         }
-
-        var matches = search(serĉo, dictionary, dictionary_lower);
+        // Prevent race condition.
+        if (!(dictionary && dictionary_lower)) {
+            return;
+        }
+        const matches = search(serĉo, dictionary, dictionary_lower);
         if (matches.length() === 0) {
             results.innerHTML = '<div class="resultrow-0" lang="eo">Nenio trovita.</span>';
         } else {
@@ -228,7 +242,7 @@ function makeentry(i, entry, lang) {
     }
 
     // Add a space between eo-result and en-result for screen readers.
-    html += ' <span class="en-result" lang="' +lang+ '">' + entry.slice(1).join(', ') + '</span>';
+    html += ' <span class="en-result" lang="' + lang + '">' + entry.slice(1).join(', ') + '</span>';
 
     var etym = find_etymology(entry[0]);
     if (etym.length > 0) {
@@ -256,7 +270,7 @@ function append_more_results(start, matchlist, dictionary) {
 
     for (var i = start; i < start + entries; ++i) {
         // Add a separator between the exact and inexact match results.
-        if (i > 0 && matchlist.isExact(i-1) && !matchlist.isExact(i)) {
+        if (i > 0 && matchlist.isExact(i - 1) && !matchlist.isExact(i)) {
             html += '<hr class="exactsep">';
         }
 
@@ -270,7 +284,7 @@ function append_more_results(start, matchlist, dictionary) {
         return undefined;
     }
 
-    return function() {
+    return function () {
         return append_more_results(start + ENTRIES_AT_ONCE, matchlist, dictionary);
     };
 }
@@ -286,6 +300,15 @@ function set_language_if_exists(language_code) {
         langfield.value = language_code;
     }
     return exists;
+}
+
+function update_url() {
+    const vorto = searchfield.value.trim();
+    const lingvo = langfield.value.trim();
+    const params = {lingvo, vorto};
+    const query = new URLSearchParams(params);
+    const url = `${location.protocol}//${location.host}${location.pathname}?${query.toString()}`;
+    window.history.replaceState(null, '', url);
 }
 
 // Language selector setup and initialization.

@@ -42,17 +42,7 @@ html.dark body {
   color: #BABABA;
 }
 
-html.dark #searchfield {
-  background-color: #2A2A2E;
-  color: white;
-}
-
-html.dark #langfield {
-  background-color: #2A2A2E;
-  color: white;
-}
-
-html.dark #toggleSwitch {
+html.dark .darkenable {
   background-color: #2A2A2E;
   color: white;
 }
@@ -173,7 +163,8 @@ input[type="text"] {
   box-shadow: 0 0 5px #007700;
 }
 
-select {
+.header-button {
   align-self: center;
   margin-left: 3px;
+  margin-right: 3px;
 }
