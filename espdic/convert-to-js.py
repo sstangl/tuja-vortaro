@@ -6,8 +6,8 @@ import re
 
 espdic = open('espdic.txt', 'r')
 js = open('espdic.js', 'w')
-
-print >>js, '// ESPDIC by Paul Denisowski, CC-BY-3.0.'
+print >>js, '// @license magnet:?xt=urn:btih:8c49db20840818d3c29cb43b48f608e20a456abc&dn=cc-by-3.0.txt CC-BY-3.0'
+print >>js, '// ESPDIC by Paul Denisowski.'
 print >>js, "'use strict';"
 print >>js, 'var espdic = ['
 
@@ -34,6 +34,7 @@ print >>js, '];'
 # Done on load since it's very fast, even on phones.
 # Chrome seems to not like a.map(String.prototype.toLowerCase).
 print >>js, 'var espdic_lower = espdic.map(function(a) { return a.map(function(x) { return x.toLowerCase(); }) });'
+print >>js, '// @license-end'
 
 espdic.close()
 js.close()
