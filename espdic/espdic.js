@@ -1,3 +1,4 @@
+// @license magnet:?xt=urn:btih:8c49db20840818d3c29cb43b48f608e20a456abc&dn=cc-by-3.0.txt CC-BY-3.0
 // ESPDIC by Paul Denisowski, CC-BY-3.0.
 'use strict';
 var espdic = [
